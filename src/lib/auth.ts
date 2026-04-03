@@ -2,8 +2,9 @@ import { NextAuthOptions } from "next-auth";
 import EmailProvider from "next-auth/providers/email";
 import { PrismaAdapter } from "@auth/prisma-adapter";
 import { prisma } from "./prisma";
-import { getResend } from "./resend";
 import { magicLinkEmail } from "./emails/magic-link";
+import { welcomeEmail } from "./emails/welcome";
+import { sendEmail } from "./emails/send";
 import type { Adapter } from "next-auth/adapters";
 
 export const authOptions: NextAuthOptions = {
@@ -14,25 +15,21 @@ export const authOptions: NextAuthOptions = {
       async sendVerificationRequest({ identifier: email, url }) {
         const { host } = new URL(url);
         const { html, text, subject } = magicLinkEmail({ url, host });
-
-        try {
-          const result = await getResend().emails.send({
-            from: process.env.EMAIL_FROM ?? "noreply@searchfundmarket.com",
-            to: email,
-            subject,
-            html,
-            text,
-          });
-          console.log("[Auth] Magic link sent to", email, result);
-        } catch (error) {
-          console.error("[Auth] Failed to send magic link to", email, error);
-          throw new Error("Failed to send verification email");
-        }
+        await sendEmail({ to: email, subject, html, text });
       },
     }),
   ],
   session: {
     strategy: "jwt",
+  },
+  events: {
+    async createUser({ user }) {
+      if (user.email) {
+        const name = user.name ?? user.email.split("@")[0];
+        const { html, text, subject } = welcomeEmail({ name });
+        await sendEmail({ to: user.email, subject, html, text }).catch(() => {});
+      }
+    },
   },
   callbacks: {
     async jwt({ token, user }) {
