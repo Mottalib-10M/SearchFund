@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import { useSession } from "next-auth/react";
 import Link from "next/link";
 
 type Role = "searcher" | "investor" | "seller" | null;
@@ -123,8 +124,11 @@ function StepIndicator({
 
 export default function OnboardingPage() {
   const router = useRouter();
+  const { data: session, update: updateSession } = useSession();
   const [step, setStep] = useState(1);
   const [role, setRole] = useState<Role>(null);
+  const [saving, setSaving] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   // Step 1: Basic info
   const [name, setName] = useState("");
@@ -174,6 +178,65 @@ export default function OnboardingPage() {
 
   const handleBack = () => {
     if (step > 1) setStep((s) => (s - 1) as 1 | 2 | 3);
+  };
+
+  const handleSubmit = async () => {
+    setSaving(true);
+    setError(null);
+
+    const payload: Record<string, unknown> = {
+      name,
+      country,
+      city,
+      linkedinUrl,
+      bio,
+      languages: selectedLanguages,
+      role,
+    };
+
+    if (role === "searcher") {
+      Object.assign(payload, {
+        mbaSchool,
+        searchType,
+        targetSectors,
+        targetCountries,
+        ebitdaMin,
+        ebitdaMax,
+        thesis,
+      });
+    } else if (role === "investor") {
+      Object.assign(payload, {
+        investorType,
+        firmName,
+        ticketMin,
+        ticketMax,
+        investorSectors,
+        investorCountries,
+        valueAdd,
+      });
+    } else if (role === "seller") {
+      Object.assign(payload, { companyRole });
+    }
+
+    try {
+      const res = await fetch("/api/onboarding", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      if (!res.ok) {
+        const data = await res.json();
+        throw new Error(data.error || "Failed to save profile");
+      }
+
+      // Refresh the session to pick up new role
+      await updateSession();
+      router.push("/dashboard");
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Something went wrong");
+      setSaving(false);
+    }
   };
 
   const inputClasses =
@@ -793,12 +856,20 @@ export default function OnboardingPage() {
               </dl>
             </div>
 
-            <Link
-              href="/dashboard"
-              className="inline-flex items-center justify-center bg-apple-accent text-white rounded-full w-full py-3 mt-8 text-sm font-medium hover:bg-apple-accent-hover transition-colors"
+            {error && (
+              <div className="mt-4 bg-red-50 text-red-600 rounded-lg p-3 text-sm">
+                {error}
+              </div>
+            )}
+
+            <button
+              type="button"
+              onClick={handleSubmit}
+              disabled={saving}
+              className="inline-flex items-center justify-center bg-apple-accent text-white rounded-full w-full py-3 mt-8 text-sm font-medium hover:bg-apple-accent-hover transition-colors disabled:opacity-50 cursor-pointer"
             >
-              Go to Dashboard
-            </Link>
+              {saving ? "Saving..." : "Complete Setup & Go to Dashboard"}
+            </button>
           </div>
         )}
       </div>

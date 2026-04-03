@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { slugify } from "@/lib/utils";
+import { getAuthSession, unauthorized } from "@/lib/api-auth";
 import type { Prisma } from "@/generated/prisma";
 
 // ---------------------------------------------------------------------------
@@ -142,10 +143,13 @@ export async function GET(request: NextRequest) {
 }
 
 // ---------------------------------------------------------------------------
-// POST /api/listings — create a new listing
+// POST /api/listings — create a new listing (auth required)
 // ---------------------------------------------------------------------------
 
 export async function POST(request: NextRequest) {
+  const session = await getAuthSession();
+  if (!session) return unauthorized();
+
   let body: Record<string, unknown>;
 
   try {
@@ -248,42 +252,10 @@ export async function POST(request: NextRequest) {
   const status =
     statusInput === "UNDER_REVIEW" ? "UNDER_REVIEW" : "DRAFT";
 
-  // For now, we use a placeholder sellerId.
-  // In production this would come from the authenticated session.
-  // We attempt to find an existing user or create a placeholder.
-  let sellerId: string;
-
-  try {
-    // Try to find any existing seller user for development
-    const existingSeller = await prisma.user.findFirst({
-      where: { role: "SELLER" },
-      select: { id: true },
-    });
-
-    if (existingSeller) {
-      sellerId = existingSeller.id;
-    } else {
-      // Create a placeholder seller for development
-      const placeholder = await prisma.user.create({
-        data: {
-          email: `seller-${Date.now()}@placeholder.local`,
-          name: "Seller",
-          role: "SELLER",
-        },
-      });
-      sellerId = placeholder.id;
-    }
-  } catch {
-    return NextResponse.json(
-      { error: "Unable to resolve seller. Please sign in." },
-      { status: 401 }
-    );
-  }
-
   try {
     const listing = await prisma.listing.create({
       data: {
-        sellerId,
+        sellerId: session.id,
         title,
         slug,
         sector,

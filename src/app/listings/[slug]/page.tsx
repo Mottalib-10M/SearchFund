@@ -3,7 +3,9 @@ export const dynamic = 'force-dynamic';
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { Check, BadgeCheck, ArrowRight } from "lucide-react";
+import { Check, BadgeCheck } from "lucide-react";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import {
   formatCurrency,
@@ -11,7 +13,8 @@ import {
   formatMultiple,
   COUNTRIES,
 } from "@/lib/utils";
-import Button from "@/components/ui/Button";
+import SaveButton from "@/components/listings/SaveButton";
+import InquiryForm from "@/components/listings/InquiryForm";
 
 // ---------------------------------------------------------------------------
 // Metadata
@@ -76,6 +79,17 @@ export default async function ListingPage({
 
   if (!listing) notFound();
 
+  // Check if the current user has saved this listing
+  const session = await getServerSession(authOptions);
+  const userId = (session?.user as Record<string, unknown> | undefined)?.id as string | undefined;
+  let isSaved = false;
+  if (userId) {
+    const saved = await prisma.savedListing.findUnique({
+      where: { userId_listingId: { userId, listingId: listing.id } },
+    });
+    isSaved = !!saved;
+  }
+
   const country = COUNTRIES[listing.country];
   const countryName = country?.name ?? listing.country;
   const countryFlag = country?.flag ?? "";
@@ -106,15 +120,20 @@ export default async function ListingPage({
       </nav>
 
       {/* ----------------------------------------------------------------- */}
-      {/* Title + location                                                  */}
+      {/* Title + location + save button                                    */}
       {/* ----------------------------------------------------------------- */}
-      <h1 className="text-3xl font-semibold text-apple-black mt-4">
-        {listing.title}
-      </h1>
-      <p className="text-apple-gray-700 mt-1">
-        {listing.region ? `${listing.region}, ` : ""}
-        {countryName} {countryFlag}
-      </p>
+      <div className="flex items-start justify-between gap-4 mt-4">
+        <div>
+          <h1 className="text-3xl font-semibold text-apple-black">
+            {listing.title}
+          </h1>
+          <p className="text-apple-gray-700 mt-1">
+            {listing.region ? `${listing.region}, ` : ""}
+            {countryName} {countryFlag}
+          </p>
+        </div>
+        <SaveButton listingId={listing.id} initialSaved={isSaved} />
+      </div>
 
       {/* ----------------------------------------------------------------- */}
       {/* Tags row                                                          */}
@@ -230,24 +249,9 @@ export default async function ListingPage({
         <h2 className="text-xl font-semibold text-apple-black">
           Interested in this business?
         </h2>
-        <p className="mt-3 text-apple-gray-700">
-          Sign in to contact the seller and learn more about this opportunity.
-        </p>
-
-        <div className="mt-6 flex items-center gap-3">
-          <Button href="/auth/signin" size="md">
-            Sign in
-            <ArrowRight className="ml-2 h-4 w-4" />
-          </Button>
-          <Button href="/auth/signup" variant="secondary" size="md">
-            Create account
-          </Button>
+        <div className="mt-4">
+          <InquiryForm listingId={listing.id} />
         </div>
-
-        <p className="mt-4 text-xs text-apple-gray-500">
-          Your message will be sent to the seller. They will respond via the
-          platform.
-        </p>
 
         {/* Seller mini card */}
         <div className="mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3">

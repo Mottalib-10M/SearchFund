@@ -4,8 +4,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { User, BadgeCheck, MapPin, ArrowLeft } from "lucide-react";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { COUNTRIES, formatCurrency } from "@/lib/utils";
+import ConnectButton from "@/components/profiles/ConnectButton";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -114,6 +117,23 @@ export default async function SearcherProfilePage({ params }: PageProps) {
   const ebitdaRange = formatRange(searcher.targetEbitdaMin, searcher.targetEbitdaMax);
   const revenueRange = formatRange(searcher.targetRevenueMin, searcher.targetRevenueMax);
 
+  // Check connection status
+  const session = await getServerSession(authOptions);
+  const currentUserId = (session?.user as Record<string, unknown> | undefined)?.id as string | undefined;
+  let connectionStatus: "PENDING" | "ACCEPTED" | "DECLINED" | null = null;
+  if (currentUserId && currentUserId !== user.id) {
+    const conn = await prisma.connection.findFirst({
+      where: {
+        OR: [
+          { requesterId: currentUserId, receiverId: user.id },
+          { requesterId: user.id, receiverId: currentUserId },
+        ],
+      },
+      select: { status: true },
+    });
+    connectionStatus = (conn?.status ?? null) as typeof connectionStatus;
+  }
+
   return (
     <div className="max-w-4xl mx-auto px-6 py-12">
       {/* Back link */}
@@ -211,7 +231,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
           Search Criteria
         </h2>
         <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-6">
-          {/* Target sectors */}
           <div>
             <p className="text-sm font-medium text-apple-gray-500">
               Target Sectors
@@ -232,7 +251,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
             )}
           </div>
 
-          {/* Target countries */}
           <div>
             <p className="text-sm font-medium text-apple-gray-500">
               Target Countries
@@ -240,10 +258,7 @@ export default async function SearcherProfilePage({ params }: PageProps) {
             {targetCountryEntries.length > 0 ? (
               <div className="mt-1.5 flex flex-wrap gap-1.5">
                 {targetCountryEntries.map((c) => (
-                  <span
-                    key={c.name}
-                    className="text-sm text-apple-gray-700"
-                  >
+                  <span key={c.name} className="text-sm text-apple-gray-700">
                     {c.flag} {c.name}
                   </span>
                 ))}
@@ -253,35 +268,20 @@ export default async function SearcherProfilePage({ params }: PageProps) {
             )}
           </div>
 
-          {/* EBITDA range */}
           <div>
-            <p className="text-sm font-medium text-apple-gray-500">
-              Target EBITDA
-            </p>
-            <p className="mt-1 text-sm text-apple-black font-medium">
-              {ebitdaRange}
-            </p>
+            <p className="text-sm font-medium text-apple-gray-500">Target EBITDA</p>
+            <p className="mt-1 text-sm text-apple-black font-medium">{ebitdaRange}</p>
           </div>
 
-          {/* Revenue range */}
           <div>
-            <p className="text-sm font-medium text-apple-gray-500">
-              Target Revenue
-            </p>
-            <p className="mt-1 text-sm text-apple-black font-medium">
-              {revenueRange}
-            </p>
+            <p className="text-sm font-medium text-apple-gray-500">Target Revenue</p>
+            <p className="mt-1 text-sm text-apple-black font-medium">{revenueRange}</p>
           </div>
 
-          {/* Timeline */}
           {searcher.acquisitionTimeline && (
             <div>
-              <p className="text-sm font-medium text-apple-gray-500">
-                Acquisition Timeline
-              </p>
-              <p className="mt-1 text-sm text-apple-gray-700">
-                {searcher.acquisitionTimeline}
-              </p>
+              <p className="text-sm font-medium text-apple-gray-500">Acquisition Timeline</p>
+              <p className="mt-1 text-sm text-apple-gray-700">{searcher.acquisitionTimeline}</p>
             </div>
           )}
         </div>
@@ -290,9 +290,7 @@ export default async function SearcherProfilePage({ params }: PageProps) {
       {/* Seeking Capital */}
       {searcher.seekingCapital && (
         <section className="mt-10">
-          <h2 className="text-xl font-semibold text-apple-black">
-            Seeking Capital
-          </h2>
+          <h2 className="text-xl font-semibold text-apple-black">Seeking Capital</h2>
           <div className="mt-4 rounded-xl bg-apple-gray-100 p-6">
             <p className="text-sm text-apple-gray-700">
               This searcher is currently seeking investment capital.
@@ -310,15 +308,14 @@ export default async function SearcherProfilePage({ params }: PageProps) {
       <section className="mt-10 border-t border-apple-gray-300 pt-10">
         <h2 className="text-xl font-semibold text-apple-black">Get in Touch</h2>
         <p className="mt-2 text-sm text-apple-gray-700">
-          Interested in connecting with {user.name ?? "this searcher"}? Sign in to send a connection request.
+          Interested in connecting with {user.name ?? "this searcher"}?
         </p>
         <div className="mt-4 flex items-center gap-3">
-          <Link
-            href="/auth/signin"
-            className="inline-flex items-center justify-center bg-apple-accent text-white text-sm font-medium rounded-full px-6 py-2.5 hover:bg-apple-accent-hover transition-colors"
-          >
-            Connect with {user.name?.split(" ")[0] ?? "Searcher"}
-          </Link>
+          <ConnectButton
+            userId={user.id}
+            userName={user.name ?? "Searcher"}
+            initialStatus={connectionStatus}
+          />
           {user.linkedinUrl && (
             <a
               href={user.linkedinUrl}

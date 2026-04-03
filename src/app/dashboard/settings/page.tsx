@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useSession } from "next-auth/react";
 import Link from "next/link";
 import { ChevronRight } from "lucide-react";
 
@@ -36,10 +37,17 @@ function Toggle({
 }
 
 export default function SettingsPage() {
+  const { data: session } = useSession();
   const [emailMessages, setEmailMessages] = useState(true);
   const [emailConnections, setEmailConnections] = useState(true);
   const [emailListings, setEmailListings] = useState(false);
   const [profilePublic, setProfilePublic] = useState(true);
+
+  const userEmail = session?.user?.email ?? "—";
+  const userRole = (session?.user as Record<string, unknown>)?.role as string | undefined;
+  const roleLabel = userRole
+    ? userRole.charAt(0) + userRole.slice(1).toLowerCase()
+    : "—";
 
   return (
     <div className="max-w-2xl">
@@ -72,12 +80,12 @@ export default function SettingsPage() {
           <div className="flex items-center justify-between">
             <span className="text-sm text-apple-gray-500">Email</span>
             <span className="text-sm text-apple-gray-700">
-              user@example.com
+              {userEmail}
             </span>
           </div>
           <div className="flex items-center justify-between">
             <span className="text-sm text-apple-gray-500">Role</span>
-            <span className="text-sm text-apple-gray-700">Searcher</span>
+            <span className="text-sm text-apple-gray-700">{roleLabel}</span>
           </div>
         </div>
       </section>

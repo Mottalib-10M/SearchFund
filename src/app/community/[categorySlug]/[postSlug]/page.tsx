@@ -3,8 +3,11 @@ export const dynamic = 'force-dynamic';
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { timeAgo } from "@/lib/utils";
+import CommentForm from "@/components/community/CommentForm";
 
 type Props = {
   params: Promise<{ categorySlug: string; postSlug: string }>;
@@ -26,6 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function PostPage({ params }: Props) {
   const { categorySlug, postSlug } = await params;
+  const session = await getServerSession(authOptions);
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   let post: any = null;
@@ -79,7 +83,6 @@ export default async function PostPage({ params }: Props) {
       </h1>
 
       <div className="flex items-center gap-3 mt-4">
-        {/* Avatar placeholder */}
         <div className="w-9 h-9 rounded-full bg-apple-gray-100 flex items-center justify-center text-sm font-medium text-apple-gray-700 shrink-0">
           {post.author.name?.charAt(0)?.toUpperCase() ?? "?"}
         </div>
@@ -110,7 +113,7 @@ export default async function PostPage({ params }: Props) {
           </span>
         </h3>
 
-        {post.comments.length === 0 ? (
+        {post.comments.length === 0 && !session?.user && (
           <p className="text-sm text-apple-gray-500 mt-4">
             No comments yet.{" "}
             <Link
@@ -121,7 +124,9 @@ export default async function PostPage({ params }: Props) {
             </Link>{" "}
             to be the first to reply.
           </p>
-        ) : (
+        )}
+
+        {post.comments.length > 0 && (
           <div className="mt-4">
             {post.comments.map((comment: any) => (
               <div
@@ -147,18 +152,22 @@ export default async function PostPage({ params }: Props) {
           </div>
         )}
 
-        {/* Comment form placeholder */}
-        <div className="mt-6 rounded-xl border border-apple-gray-300/40 bg-apple-gray-100/50 p-6 text-center">
-          <p className="text-sm text-apple-gray-500">
-            <Link
-              href="/auth/signin"
-              className="text-apple-accent hover:underline font-medium"
-            >
-              Sign in
-            </Link>{" "}
-            to comment
-          </p>
-        </div>
+        {/* Comment form */}
+        {session?.user ? (
+          <CommentForm postId={post.id} />
+        ) : (
+          <div className="mt-6 rounded-xl border border-apple-gray-300/40 bg-apple-gray-100/50 p-6 text-center">
+            <p className="text-sm text-apple-gray-500">
+              <Link
+                href="/auth/signin"
+                className="text-apple-accent hover:underline font-medium"
+              >
+                Sign in
+              </Link>{" "}
+              to comment
+            </p>
+          </div>
+        )}
       </div>
     </div>
   );
