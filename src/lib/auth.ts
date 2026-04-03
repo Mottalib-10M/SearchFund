@@ -15,13 +15,19 @@ export const authOptions: NextAuthOptions = {
         const { host } = new URL(url);
         const { html, text, subject } = magicLinkEmail({ url, host });
 
-        await getResend().emails.send({
-          from: process.env.EMAIL_FROM ?? "noreply@searchfundmarket.com",
-          to: email,
-          subject,
-          html,
-          text,
-        });
+        try {
+          const result = await getResend().emails.send({
+            from: process.env.EMAIL_FROM ?? "noreply@searchfundmarket.com",
+            to: email,
+            subject,
+            html,
+            text,
+          });
+          console.log("[Auth] Magic link sent to", email, result);
+        } catch (error) {
+          console.error("[Auth] Failed to send magic link to", email, error);
+          throw new Error("Failed to send verification email");
+        }
       },
     }),
   ],
