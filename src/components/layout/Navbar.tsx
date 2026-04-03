@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { useSession, signOut } from "next-auth/react";
 import { Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard } from "lucide-react";
+import Logo from "@/components/ui/Logo";
 
 const navLinks = [
   { href: "/listings", label: "Listings" },
@@ -38,12 +39,12 @@ export default function Navbar() {
       <nav className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="flex h-14 items-center justify-between">
           {/* Logo */}
-          <Link
-            href="/"
-            className="text-xl font-semibold text-apple-black tracking-tight"
-          >
-            SearchFundMarket
-          </Link>
+          <span className="hidden md:block">
+            <Logo size="md" />
+          </span>
+          <span className="md:hidden">
+            <Logo size="sm" />
+          </span>
 
           {/* Center nav links - desktop */}
           <ul className="hidden md:flex items-center gap-8">

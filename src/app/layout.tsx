@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   title: "SearchFundMarket — Acquisition Marketplace for Search Funds",
   description:
     "Connect with search fund entrepreneurs, investors, and business sellers across Europe.",
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+  },
+  manifest: "/site.webmanifest",
 };
 
 export default function RootLayout({

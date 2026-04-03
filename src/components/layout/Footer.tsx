@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Logo from "@/components/ui/Logo";
 
 const footerSections = [
   {
@@ -36,6 +37,9 @@ export default function Footer() {
   return (
     <footer className="bg-apple-gray-100">
       <div className="mx-auto max-w-7xl px-6 lg:px-8 py-16">
+        <div className="mb-10">
+          <Logo size="md" />
+        </div>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {footerSections.map((section) => (
             <div key={section.title}>

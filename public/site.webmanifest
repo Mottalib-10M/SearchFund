@@ -1,0 +1,16 @@
+{
+  "name": "SearchFundMarket",
+  "short_name": "SFMarket",
+  "description": "Acquisition marketplace for search funds — connect with entrepreneurs, investors, and business sellers across Europe.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D1D1F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
