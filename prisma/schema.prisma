@@ -72,6 +72,12 @@ model User {
   country            String?
   city               String?
 
+  // Settings / Preferences
+  emailMessages      Boolean  @default(true)
+  emailConnections   Boolean  @default(true)
+  emailListings      Boolean  @default(false)
+  profilePublic      Boolean  @default(true)
+
   accounts    Account[]
   sessions    Session[]
 

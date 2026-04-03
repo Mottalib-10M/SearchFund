@@ -49,6 +49,8 @@ export default async function SearchersPage({ searchParams }: PageProps) {
   const sector = parseString(params.sector);
   const searchStatus = parseString(params.searchStatus);
   const searchType = parseString(params.searchType);
+  const page = Math.max(1, parseInt(parseString(params.page) || "1", 10));
+  const perPage = 18;
 
   // Build Prisma where clause
   const where: Prisma.SearcherProfileWhereInput = {
@@ -101,6 +103,8 @@ export default async function SearchersPage({ searchParams }: PageProps) {
           },
         },
         orderBy: { createdAt: "desc" },
+        skip: (page - 1) * perPage,
+        take: perPage,
       }),
       prisma.searcherProfile.count({ where }),
     ]);
@@ -248,11 +252,46 @@ export default async function SearchersPage({ searchParams }: PageProps) {
 
       {/* Grid */}
       {!error && searchers.length > 0 && (
-        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {searchers.map((searcher) => (
-            <SearcherCard key={searcher.id} searcher={searcher} />
-          ))}
-        </div>
+        <>
+          <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {searchers.map((searcher) => (
+              <SearcherCard key={searcher.id} searcher={searcher} />
+            ))}
+          </div>
+
+          {/* Pagination */}
+          {(() => {
+            const totalPages = Math.ceil(total / perPage);
+            if (totalPages <= 1) return null;
+            const buildUrl = (p: number) => {
+              const sp = new URLSearchParams();
+              if (search) sp.set("search", search);
+              if (country) sp.set("country", country);
+              if (sector) sp.set("sector", sector);
+              if (searchStatus) sp.set("searchStatus", searchStatus);
+              if (searchType) sp.set("searchType", searchType);
+              sp.set("page", String(p));
+              return `/searchers?${sp.toString()}`;
+            };
+            return (
+              <div className="flex items-center justify-center gap-2 mt-10">
+                {page > 1 && (
+                  <Link href={buildUrl(page - 1)} className="px-3 py-2 text-sm rounded-lg border border-apple-gray-300 text-apple-gray-700 hover:bg-apple-gray-100">
+                    Previous
+                  </Link>
+                )}
+                <span className="text-sm text-apple-gray-500">
+                  Page {page} of {totalPages}
+                </span>
+                {page < totalPages && (
+                  <Link href={buildUrl(page + 1)} className="px-3 py-2 text-sm rounded-lg border border-apple-gray-300 text-apple-gray-700 hover:bg-apple-gray-100">
+                    Next
+                  </Link>
+                )}
+              </div>
+            );
+          })()}
+        </>
       )}
     </div>
   );

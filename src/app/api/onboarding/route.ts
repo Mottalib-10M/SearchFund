@@ -14,9 +14,12 @@ const baseSchema = z.object({
   role: z.enum(["searcher", "investor", "seller"]),
 });
 
+const SEARCH_TYPES = ["TRADITIONAL", "SELF_FUNDED", "ACCELERATOR", "INDEPENDENT_SPONSOR"] as const;
+const INVESTOR_TYPES = ["EX_SEARCHER", "FAMILY_OFFICE", "INSTITUTIONAL", "ANGEL", "ACCELERATOR"] as const;
+
 const searcherSchema = z.object({
   mbaSchool: z.string().optional(),
-  searchType: z.string().optional(),
+  searchType: z.enum(SEARCH_TYPES).optional(),
   targetSectors: z.array(z.string()).optional(),
   targetCountries: z.array(z.string()).optional(),
   ebitdaMin: z.string().optional(),
@@ -25,7 +28,7 @@ const searcherSchema = z.object({
 });
 
 const investorSchema = z.object({
-  investorType: z.string().min(1),
+  investorType: z.enum(INVESTOR_TYPES),
   firmName: z.string().optional(),
   ticketMin: z.string().optional(),
   ticketMax: z.string().optional(),
@@ -43,12 +46,13 @@ function parseNumber(val: string | undefined): number | null {
   const cleaned = val.replace(/[^0-9.]/g, "");
   const num = parseFloat(cleaned);
   if (isNaN(num)) return null;
-  // If user typed something like "500K" or "3M" handle it
   const lower = val.toLowerCase();
+  // "3M" → 3,000 (thousands), "500K" → 500 (thousands)
+  // Values stored in thousands (K) in the database
   if (lower.includes("m")) return Math.round(num * 1000);
   if (lower.includes("k")) return Math.round(num);
-  // Assume thousands if small number
-  if (num < 100) return Math.round(num * 1000);
+  // Raw number: assume already in thousands if small, else convert
+  if (num >= 1000) return Math.round(num / 1000);
   return Math.round(num);
 }
 
@@ -112,7 +116,7 @@ export async function POST(request: Request) {
           where: { userId: session.id },
           update: {
             mbaSchool: sData.mbaSchool || null,
-            searchType: (sData.searchType as any) || "SELF_FUNDED",
+            searchType: sData.searchType ?? "SELF_FUNDED",
             targetSectors: sData.targetSectors ?? [],
             targetCountries: sData.targetCountries ?? [],
             targetEbitdaMin: parseNumber(sData.ebitdaMin),
@@ -123,7 +127,7 @@ export async function POST(request: Request) {
           create: {
             userId: session.id,
             mbaSchool: sData.mbaSchool || null,
-            searchType: (sData.searchType as any) || "SELF_FUNDED",
+            searchType: sData.searchType ?? "SELF_FUNDED",
             targetSectors: sData.targetSectors ?? [],
             targetCountries: sData.targetCountries ?? [],
             targetEbitdaMin: parseNumber(sData.ebitdaMin),
@@ -143,7 +147,7 @@ export async function POST(request: Request) {
         await tx.investorProfile.upsert({
           where: { userId: session.id },
           update: {
-            investorType: (iData.investorType as any) || "ANGEL",
+            investorType: iData.investorType,
             firmName: iData.firmName || null,
             ticketSizeMin: parseNumber(iData.ticketMin),
             ticketSizeMax: parseNumber(iData.ticketMax),
@@ -154,7 +158,7 @@ export async function POST(request: Request) {
           },
           create: {
             userId: session.id,
-            investorType: (iData.investorType as any) || "ANGEL",
+            investorType: iData.investorType,
             firmName: iData.firmName || null,
             ticketSizeMin: parseNumber(iData.ticketMin),
             ticketSizeMax: parseNumber(iData.ticketMax),

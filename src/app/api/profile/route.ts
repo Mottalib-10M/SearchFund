@@ -64,7 +64,7 @@ export async function PUT(request: Request) {
         where: { userId: session.id },
         update: {
           ...(sp.mbaSchool !== undefined && { mbaSchool: (sp.mbaSchool as string) || null }),
-          ...(sp.searchType !== undefined && { searchType: sp.searchType as any }),
+          ...(sp.searchType !== undefined && { searchType: sp.searchType as "TRADITIONAL" | "SELF_FUNDED" | "ACCELERATOR" | "INDEPENDENT_SPONSOR" }),
           ...(sp.targetSectors !== undefined && { targetSectors: sp.targetSectors as string[] }),
           ...(sp.targetCountries !== undefined && { targetCountries: sp.targetCountries as string[] }),
           ...(sp.targetEbitdaMin !== undefined && { targetEbitdaMin: sp.targetEbitdaMin as number | null }),
@@ -74,7 +74,7 @@ export async function PUT(request: Request) {
         },
         create: {
           userId: session.id,
-          searchType: (sp.searchType as any) || "SELF_FUNDED",
+          searchType: (sp.searchType as "TRADITIONAL" | "SELF_FUNDED" | "ACCELERATOR" | "INDEPENDENT_SPONSOR") || "SELF_FUNDED",
           targetSectors: (sp.targetSectors as string[]) ?? [],
           targetCountries: (sp.targetCountries as string[]) ?? [],
         },
@@ -86,7 +86,7 @@ export async function PUT(request: Request) {
       await prisma.investorProfile.upsert({
         where: { userId: session.id },
         update: {
-          ...(ip.investorType !== undefined && { investorType: ip.investorType as any }),
+          ...(ip.investorType !== undefined && { investorType: ip.investorType as "EX_SEARCHER" | "FAMILY_OFFICE" | "INSTITUTIONAL" | "ANGEL" | "ACCELERATOR" }),
           ...(ip.firmName !== undefined && { firmName: (ip.firmName as string) || null }),
           ...(ip.firmWebsite !== undefined && { firmWebsite: (ip.firmWebsite as string) || null }),
           ...(ip.ticketSizeMin !== undefined && { ticketSizeMin: ip.ticketSizeMin as number | null }),
@@ -99,7 +99,7 @@ export async function PUT(request: Request) {
         },
         create: {
           userId: session.id,
-          investorType: (ip.investorType as any) || "ANGEL",
+          investorType: (ip.investorType as "EX_SEARCHER" | "FAMILY_OFFICE" | "INSTITUTIONAL" | "ANGEL" | "ACCELERATOR") || "ANGEL",
           targetSectors: (ip.targetSectors as string[]) ?? [],
           targetCountries: (ip.targetCountries as string[]) ?? [],
         },

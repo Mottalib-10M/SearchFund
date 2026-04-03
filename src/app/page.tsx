@@ -118,7 +118,7 @@ export default function Home() {
         </p>
 
         {/* Search bar */}
-        <div className="mt-10 max-w-xl mx-auto relative">
+        <form action="/listings" className="mt-10 max-w-xl mx-auto relative">
           <div className="relative">
             <Search
               size={20}
@@ -127,17 +127,18 @@ export default function Home() {
             />
             <input
               type="text"
+              name="search"
               placeholder="Search by sector, country, or keyword..."
               className="bg-apple-gray-100 rounded-full pl-12 pr-40 py-4 text-base w-full text-apple-black placeholder:text-apple-gray-500 focus:ring-2 focus:ring-apple-accent/20 transition-shadow"
             />
-            <Link
-              href="/listings"
-              className="absolute right-2 top-1/2 -translate-y-1/2 bg-apple-accent text-white rounded-full px-6 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
+            <button
+              type="submit"
+              className="absolute right-2 top-1/2 -translate-y-1/2 bg-apple-accent text-white rounded-full px-6 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover cursor-pointer"
             >
               Explore listings &rarr;
-            </Link>
+            </button>
           </div>
-        </div>
+        </form>
 
         {/* Quick links */}
         <div className="mt-6 flex gap-3 justify-center flex-wrap">
@@ -268,7 +269,7 @@ export default function Home() {
             next company to operate.
           </p>
           <Link
-            href="/get-started?role=searcher"
+            href="/auth/signup"
             className="text-apple-accent text-sm font-medium mt-4 inline-flex items-center gap-1 hover:underline"
           >
             Join as Searcher
@@ -290,7 +291,7 @@ export default function Home() {
             other experienced investors.
           </p>
           <Link
-            href="/get-started?role=investor"
+            href="/auth/signup"
             className="text-apple-accent text-sm font-medium mt-4 inline-flex items-center gap-1 hover:underline"
           >
             Join as Investor
@@ -312,7 +313,7 @@ export default function Home() {
             commissions.
           </p>
           <Link
-            href="/get-started?role=seller"
+            href="/auth/signup"
             className="text-apple-accent text-sm font-medium mt-4 inline-flex items-center gap-1 hover:underline"
           >
             Join as Seller

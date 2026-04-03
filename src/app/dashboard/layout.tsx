@@ -13,7 +13,9 @@ import {
   Settings,
   Menu,
   X,
+  LogOut,
 } from "lucide-react";
+import { signOut } from "next-auth/react";
 
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
@@ -119,6 +121,17 @@ export default function DashboardLayout({
             );
           })}
         </nav>
+
+        <div className="mt-auto pt-6 border-t border-apple-gray-100 mt-8">
+          <button
+            type="button"
+            onClick={() => signOut({ callbackUrl: "/" })}
+            className="flex items-center gap-3 px-4 py-2.5 rounded-lg text-sm text-apple-gray-700 hover:bg-apple-gray-100 hover:text-red-500 transition-colors w-full cursor-pointer"
+          >
+            <LogOut size={18} />
+            Sign out
+          </button>
+        </div>
       </aside>
 
       {/* Main content */}

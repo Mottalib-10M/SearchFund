@@ -150,6 +150,13 @@ export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();
 
+  if (session.role !== "SELLER") {
+    return NextResponse.json(
+      { error: "Only sellers can create listings" },
+      { status: 403 }
+    );
+  }
+
   let body: Record<string, unknown>;
 
   try {
