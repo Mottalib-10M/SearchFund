@@ -1,7 +1,7 @@
 "use client";
 
-import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useState, useEffect, Suspense } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
 
@@ -123,10 +123,27 @@ function StepIndicator({
 }
 
 export default function OnboardingPage() {
+  return (
+    <Suspense>
+      <OnboardingContent />
+    </Suspense>
+  );
+}
+
+function OnboardingContent() {
   const router = useRouter();
+  const searchParams = useSearchParams();
   const { data: session, update: updateSession } = useSession();
   const [step, setStep] = useState(1);
   const [role, setRole] = useState<Role>(null);
+
+  // Pre-select role from URL search params (set during signup flow)
+  useEffect(() => {
+    const roleParam = searchParams.get("role");
+    if (roleParam && ["searcher", "investor", "seller"].includes(roleParam)) {
+      setRole(roleParam as Role);
+    }
+  }, [searchParams]);
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
 

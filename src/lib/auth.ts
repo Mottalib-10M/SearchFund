@@ -1,25 +1,28 @@
 import { NextAuthOptions } from "next-auth";
-import GoogleProvider from "next-auth/providers/google";
-import LinkedInProvider from "next-auth/providers/linkedin";
 import EmailProvider from "next-auth/providers/email";
 import { PrismaAdapter } from "@auth/prisma-adapter";
 import { prisma } from "./prisma";
+import { getResend } from "./resend";
+import { magicLinkEmail } from "./emails/magic-link";
 import type { Adapter } from "next-auth/adapters";
 
 export const authOptions: NextAuthOptions = {
   adapter: PrismaAdapter(prisma) as Adapter,
   providers: [
-    GoogleProvider({
-      clientId: process.env.GOOGLE_CLIENT_ID ?? "",
-      clientSecret: process.env.GOOGLE_CLIENT_SECRET ?? "",
-    }),
-    LinkedInProvider({
-      clientId: process.env.LINKEDIN_CLIENT_ID ?? "",
-      clientSecret: process.env.LINKEDIN_CLIENT_SECRET ?? "",
-    }),
     EmailProvider({
-      server: process.env.EMAIL_SERVER ?? "",
       from: process.env.EMAIL_FROM ?? "noreply@searchfundmarket.com",
+      async sendVerificationRequest({ identifier: email, url }) {
+        const { host } = new URL(url);
+        const { html, text, subject } = magicLinkEmail({ url, host });
+
+        await getResend().emails.send({
+          from: process.env.EMAIL_FROM ?? "noreply@searchfundmarket.com",
+          to: email,
+          subject,
+          html,
+          text,
+        });
+      },
     }),
   ],
   session: {
@@ -49,6 +52,7 @@ export const authOptions: NextAuthOptions = {
   },
   pages: {
     signIn: "/auth/signin",
+    verifyRequest: "/auth/verify-request",
     newUser: "/auth/onboarding",
   },
 };
