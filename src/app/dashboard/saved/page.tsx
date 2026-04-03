@@ -3,7 +3,7 @@ import Link from "next/link";
 import { Heart } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Saved Listings — TheSearchFund",
+  title: "Saved Listings — SearchFundMarket",
   description: "Your saved and bookmarked business listings.",
 };
 

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { SignInForm } from "@/components/auth/SignInForm";
 
 export const metadata: Metadata = {
-  title: "Sign In — TheSearchFund",
+  title: "Sign In — SearchFundMarket",
 };
 
 export default function SignInPage() {

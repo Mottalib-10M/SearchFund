@@ -10,7 +10,7 @@ import SearcherCard from "@/components/profiles/SearcherCard";
 import type { SearcherWithUser } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Search Fund Entrepreneurs \u2014 TheSearchFund",
+  title: "Search Fund Entrepreneurs \u2014 SearchFundMarket",
   description:
     "Browse search fund entrepreneurs across Europe. Find searchers by country, sector, and search type.",
 };

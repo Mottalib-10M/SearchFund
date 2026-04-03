@@ -80,16 +80,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const searcher = await getSearcher(slug);
 
   if (!searcher) {
-    return { title: "Searcher Not Found \u2014 TheSearchFund" };
+    return { title: "Searcher Not Found \u2014 SearchFundMarket" };
   }
 
   const name = searcher.user.name ?? "Searcher";
   return {
-    title: `${name} \u2014 Search Fund Entrepreneur \u2014 TheSearchFund`,
+    title: `${name} \u2014 Search Fund Entrepreneur \u2014 SearchFundMarket`,
     description:
       searcher.headline ||
       searcher.thesisDescription?.slice(0, 160) ||
-      `${name} is a search fund entrepreneur on TheSearchFund.`,
+      `${name} is a search fund entrepreneur on SearchFundMarket.`,
   };
 }
 

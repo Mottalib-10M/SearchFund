@@ -110,7 +110,7 @@ export function SignUpForm() {
     return (
       <div className="w-full max-w-2xl mx-auto">
         <h1 className="text-3xl font-semibold text-apple-black text-center">
-          Join TheSearchFund
+          Join SearchFundMarket
         </h1>
         <p className="text-apple-gray-500 text-center mt-2">
           Choose how you&apos;ll use the platform

@@ -10,7 +10,7 @@ import ListingCard from "@/components/listings/ListingCard";
 import ListingFilters from "@/components/listings/ListingFilters";
 
 export const metadata: Metadata = {
-  title: "Acquisition Opportunities \u2014 TheSearchFund",
+  title: "Acquisition Opportunities \u2014 SearchFundMarket",
   description:
     "Browse businesses for sale across Europe. Filter by sector, country, EBITDA, and revenue to find your next acquisition.",
 };

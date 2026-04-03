@@ -24,7 +24,7 @@ export default function Navbar() {
             href="/"
             className="text-xl font-semibold text-apple-black tracking-tight"
           >
-            TheSearchFund
+            SearchFundMarket
           </Link>
 
           {/* Center nav links - desktop */}

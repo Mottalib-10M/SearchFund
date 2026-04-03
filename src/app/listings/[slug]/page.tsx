@@ -33,12 +33,12 @@ export async function generateMetadata({
     const description =
       listing.metaDescription || listing.summary || `${listing.title} — ${listing.sector} in ${country?.name ?? listing.country}`;
     return {
-      title: `${listing.title} — TheSearchFund`,
+      title: `${listing.title} — SearchFundMarket`,
       description,
       openGraph: { title: listing.title, description },
     };
   } catch {
-    return { title: "Listing — TheSearchFund" };
+    return { title: "Listing — SearchFundMarket" };
   }
 }
 

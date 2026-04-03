@@ -4,7 +4,7 @@ import Footer from "@/components/layout/Footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "TheSearchFund — Acquisition Marketplace for Search Funds",
+  title: "SearchFundMarket — Acquisition Marketplace for Search Funds",
   description:
     "Connect with search fund entrepreneurs, investors, and business sellers across Europe.",
 };

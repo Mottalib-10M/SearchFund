@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { MessageSquare } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Messages — TheSearchFund",
-  description: "Your conversations on TheSearchFund.",
+  title: "Messages — SearchFundMarket",
+  description: "Your conversations on SearchFundMarket.",
 };
 
 export default function MessagesPage() {

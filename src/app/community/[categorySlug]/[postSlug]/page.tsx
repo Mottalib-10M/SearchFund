@@ -18,9 +18,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       select: { title: true },
     });
     if (!post) return { title: "Post not found" };
-    return { title: `${post.title} — Community — TheSearchFund` };
+    return { title: `${post.title} — Community — SearchFundMarket` };
   } catch {
-    return { title: "Community — TheSearchFund" };
+    return { title: "Community — SearchFundMarket" };
   }
 }
 

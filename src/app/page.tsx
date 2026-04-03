@@ -4,7 +4,7 @@ import { Search, Users, Handshake, ArrowRight } from "lucide-react";
 import { COUNTRIES } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "TheSearchFund — Acquisition Marketplace for Search Funds",
+  title: "SearchFundMarket — Acquisition Marketplace for Search Funds",
   description:
     "The marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Browse acquisition opportunities, find investors, connect with searchers.",
 };

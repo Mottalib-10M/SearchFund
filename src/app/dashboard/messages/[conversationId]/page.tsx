@@ -3,8 +3,8 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Conversation — TheSearchFund",
-  description: "View your conversation on TheSearchFund.",
+  title: "Conversation — SearchFundMarket",
+  description: "View your conversation on SearchFundMarket.",
 };
 
 export default async function ConversationPage({

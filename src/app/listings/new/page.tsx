@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import CreateListingForm from "@/components/listings/CreateListingForm";
 
 export const metadata: Metadata = {
-  title: "List your business — TheSearchFund",
+  title: "List your business — SearchFundMarket",
   description:
-    "Reach qualified buyers across Europe. List your business on TheSearchFund marketplace.",
+    "Reach qualified buyers across Europe. List your business on SearchFundMarket marketplace.",
 };
 
 export default function NewListingPage() {

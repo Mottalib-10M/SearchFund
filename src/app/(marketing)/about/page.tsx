@@ -3,20 +3,20 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About — TheSearchFund",
+  title: "About — SearchFundMarket",
   description:
-    "TheSearchFund is the marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Learn about our mission and the ETA model.",
+    "SearchFundMarket is the marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Learn about our mission and the ETA model.",
 };
 
 export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-6 py-16">
       <h1 className="text-4xl font-semibold text-apple-black tracking-tight">
-        About TheSearchFund
+        About SearchFundMarket
       </h1>
 
       <p className="text-apple-gray-700 mt-6 text-lg leading-relaxed">
-        TheSearchFund is the first dedicated marketplace for search fund
+        SearchFundMarket is the first dedicated marketplace for search fund
         acquisitions in Europe. We connect search fund entrepreneurs looking to
         acquire and operate a small business, investors seeking to back them, and
         business owners ready to transition their company to the next generation
@@ -115,7 +115,7 @@ export default function AboutPage() {
         <p className="text-apple-gray-700 mt-4 leading-relaxed">
           Whether you are a searcher looking for your next acquisition, an
           investor seeking to back the next generation of operators, or a
-          business owner exploring a sale &mdash; TheSearchFund is where the
+          business owner exploring a sale &mdash; SearchFundMarket is where the
           European search fund community comes together.
         </p>
         <Link

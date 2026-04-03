@@ -10,7 +10,7 @@ import InvestorCard from "@/components/profiles/InvestorCard";
 import type { InvestorWithUser } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Search Fund Investors \u2014 TheSearchFund",
+  title: "Search Fund Investors \u2014 SearchFundMarket",
   description:
     "Browse search fund investors across Europe. Find investors by type, country, sector, and ticket size.",
 };

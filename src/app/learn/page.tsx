@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Learn about ETA — TheSearchFund",
+  title: "Learn about ETA — SearchFundMarket",
   description:
     "Guides, reports, and resources on Entrepreneurship Through Acquisition in Europe.",
 };

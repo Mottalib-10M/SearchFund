@@ -49,7 +49,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!article) return { title: "Article not found" };
 
   return {
-    title: `${article.title} — Learn — TheSearchFund`,
+    title: `${article.title} — Learn — SearchFundMarket`,
     description: article.description,
   };
 }
@@ -299,7 +299,7 @@ function GettingStartedArticle() {
             searchers, search fund investors, successful operators, brokers,
             and advisors. Attend conferences like the IESE Search Fund
             Conference, the Stanford Search Fund CEO Conference, and join
-            online communities like TheSearchFund.
+            online communities like SearchFundMarket.
           </li>
           <li>
             <strong>Decide on your model.</strong> Will you raise a
@@ -371,7 +371,7 @@ export default async function ArticlePage({ params }: Props) {
             href="/get-started"
             className="text-apple-accent font-medium hover:underline"
           >
-            Join TheSearchFund &rarr;
+            Join SearchFundMarket &rarr;
           </Link>
         </p>
       </div>

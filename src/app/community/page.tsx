@@ -6,7 +6,7 @@ import { ChevronRight } from "lucide-react";
 import { prisma } from "@/lib/prisma";
 
 export const metadata: Metadata = {
-  title: "Community — TheSearchFund",
+  title: "Community — SearchFundMarket",
   description:
     "Discuss deals, strategy, and ETA best practices with the search fund community.",
 };

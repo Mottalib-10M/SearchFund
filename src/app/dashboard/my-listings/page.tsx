@@ -3,8 +3,8 @@ import { FileText } from "lucide-react";
 import Button from "@/components/ui/Button";
 
 export const metadata: Metadata = {
-  title: "My Listings — TheSearchFund",
-  description: "Manage your business listings on TheSearchFund.",
+  title: "My Listings — SearchFundMarket",
+  description: "Manage your business listings on SearchFundMarket.",
 };
 
 export default function MyListingsPage() {

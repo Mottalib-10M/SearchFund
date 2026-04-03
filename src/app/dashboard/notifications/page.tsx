@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import { Bell } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Notifications — TheSearchFund",
-  description: "Your notifications on TheSearchFund.",
+  title: "Notifications — SearchFundMarket",
+  description: "Your notifications on SearchFundMarket.",
 };
 
 export default function NotificationsPage() {

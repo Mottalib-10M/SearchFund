@@ -24,7 +24,7 @@ export function SignInForm() {
         Sign in
       </h1>
       <p className="text-apple-gray-500 text-center mt-2">
-        Welcome back to TheSearchFund
+        Welcome back to SearchFundMarket
       </p>
 
       {/* Social buttons */}

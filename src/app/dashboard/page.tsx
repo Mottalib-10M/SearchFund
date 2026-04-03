@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Dashboard — TheSearchFund",
-  description: "Your personal dashboard on TheSearchFund.",
+  title: "Dashboard — SearchFundMarket",
+  description: "Your personal dashboard on SearchFundMarket.",
 };
 
 const stats = [

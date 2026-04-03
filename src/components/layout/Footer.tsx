@@ -60,7 +60,7 @@ export default function Footer() {
 
         <div className="mt-16 pt-8 border-t border-apple-gray-300/50">
           <p className="text-sm text-apple-gray-500">
-            &copy; 2024 TheSearchFund. All rights reserved.
+            &copy; 2024 SearchFundMarket. All rights reserved.
           </p>
         </div>
       </div>

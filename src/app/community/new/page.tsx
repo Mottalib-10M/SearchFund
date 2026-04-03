@@ -5,7 +5,7 @@ import Link from "next/link";
 import { prisma } from "@/lib/prisma";
 
 export const metadata: Metadata = {
-  title: "New post — Community — TheSearchFund",
+  title: "New post — Community — SearchFundMarket",
 };
 
 export default async function NewPostPage() {

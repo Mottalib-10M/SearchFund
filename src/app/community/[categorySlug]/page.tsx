@@ -20,11 +20,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     });
     if (!category) return { title: "Category not found" };
     return {
-      title: `${category.name} — Community — TheSearchFund`,
-      description: `Browse posts in ${category.name} on the TheSearchFund community forum.`,
+      title: `${category.name} — Community — SearchFundMarket`,
+      description: `Browse posts in ${category.name} on the SearchFundMarket community forum.`,
     };
   } catch {
-    return { title: "Community — TheSearchFund" };
+    return { title: "Community — SearchFundMarket" };
   }
 }
 
