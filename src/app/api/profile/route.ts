@@ -10,7 +10,9 @@ export async function GET() {
   const user = await prisma.user.findUnique({
     where: { id: session.id },
     include: {
-      searcherProfile: true,
+      searcherProfile: {
+        include: { documents: true },
+      },
       investorProfile: true,
       sellerProfile: true,
     },

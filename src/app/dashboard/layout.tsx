@@ -11,8 +11,6 @@ import {
   MessageSquare,
   Bell,
   Settings,
-  Menu,
-  X,
   LogOut,
 } from "lucide-react";
 import { signOut } from "next-auth/react";
@@ -33,7 +31,6 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
-  const [sidebarOpen, setSidebarOpen] = useState(false);
   const [unreadCount, setUnreadCount] = useState(0);
 
   useEffect(() => {
@@ -60,36 +57,9 @@ export default function DashboardLayout({
 
   return (
     <div className="min-h-screen">
-      {/* Mobile header */}
-      <div className="md:hidden flex items-center justify-between px-4 py-3 border-b border-apple-gray-100 bg-white">
-        <button
-          type="button"
-          onClick={() => setSidebarOpen(!sidebarOpen)}
-          className="p-2 -ml-2 text-apple-gray-700"
-          aria-label={sidebarOpen ? "Close sidebar" : "Open sidebar"}
-        >
-          {sidebarOpen ? <X size={20} /> : <Menu size={20} />}
-        </button>
-        <span className="text-sm font-medium text-apple-black">Dashboard</span>
-        <div className="w-8" />
-      </div>
-
-      {/* Mobile overlay */}
-      {sidebarOpen && (
-        <div
-          className="fixed inset-0 z-40 bg-black/20 md:hidden"
-          onClick={() => setSidebarOpen(false)}
-        />
-      )}
-
-      {/* Sidebar */}
+      {/* Sidebar — desktop only */}
       <aside
-        className={`
-          fixed top-14 left-0 bottom-0 z-50 w-64 bg-white border-r border-apple-gray-100 py-8 px-4 overflow-y-auto
-          transition-transform duration-200 ease-in-out
-          md:translate-x-0
-          ${sidebarOpen ? "translate-x-0" : "-translate-x-full"}
-        `}
+        className="fixed top-14 left-0 bottom-0 z-50 w-64 bg-white border-r border-apple-gray-100 py-8 px-4 overflow-y-auto hidden md:block"
       >
         <nav className="space-y-1">
           {navItems.map((item) => {
@@ -100,7 +70,6 @@ export default function DashboardLayout({
               <Link
                 key={item.href}
                 href={item.href}
-                onClick={() => setSidebarOpen(false)}
                 className={`
                   flex items-center gap-3 px-4 py-2.5 rounded-lg text-sm transition-colors
                   ${

@@ -63,6 +63,7 @@ export default async function SearchersPage({ searchParams }: PageProps) {
       { thesisDescription: { contains: search, mode: "insensitive" } },
       { mbaSchool: { contains: search, mode: "insensitive" } },
       { user: { name: { contains: search, mode: "insensitive" } } },
+      { user: { bio: { contains: search, mode: "insensitive" } } },
     ];
   }
 
@@ -98,6 +99,7 @@ export default async function SearchersPage({ searchParams }: PageProps) {
               image: true,
               country: true,
               city: true,
+              bio: true,
               verificationStatus: true,
             },
           },

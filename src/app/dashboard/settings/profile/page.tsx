@@ -6,6 +6,7 @@ import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 import Input from "@/components/ui/Input";
 import Button from "@/components/ui/Button";
+import DocumentUploadSection from "@/components/profile/DocumentUploadSection";
 
 export default function EditProfilePage() {
   const { data: session } = useSession();
@@ -30,6 +31,10 @@ export default function EditProfilePage() {
   const [firmWebsite, setFirmWebsite] = useState("");
   const [investmentThesis, setInvestmentThesis] = useState("");
   const [companyRole, setCompanyRole] = useState("");
+  const [documents, setDocuments] = useState<Array<{
+    id: string; label: string; fileName: string; fileUrl: string; fileSize: number;
+    visibility: "PRIVATE" | "CONNECTIONS" | "PUBLIC";
+  }>>([]);
 
   useEffect(() => {
     async function fetchProfile() {
@@ -50,6 +55,7 @@ export default function EditProfilePage() {
           setMbaSchool(u.searcherProfile.mbaSchool ?? "");
           setHeadline(u.searcherProfile.headline ?? "");
           setThesisDescription(u.searcherProfile.thesisDescription ?? "");
+          setDocuments(u.searcherProfile.documents ?? []);
         }
         if (u.investorProfile) {
           setFirmName(u.investorProfile.firmName ?? "");
@@ -299,6 +305,12 @@ export default function EditProfilePage() {
           </Button>
         </div>
       </form>
+
+      {role === "SEARCHER" && !loading && (
+        <div className="mt-8">
+          <DocumentUploadSection initialDocuments={documents} />
+        </div>
+      )}
     </div>
   );
 }

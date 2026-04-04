@@ -2,8 +2,12 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useSession, signOut } from "next-auth/react";
-import { Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard } from "lucide-react";
+import {
+  Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard,
+  FileText, Heart, Users, MessageSquare, Bell,
+} from "lucide-react";
 import Logo from "@/components/ui/Logo";
 
 const navLinks = [
@@ -14,11 +18,23 @@ const navLinks = [
   { href: "/learn", label: "Learn" },
 ];
 
+const dashboardLinks = [
+  { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
+  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText },
+  { href: "/dashboard/saved", label: "Saved", icon: Heart },
+  { href: "/dashboard/connections", label: "Connections", icon: Users },
+  { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
+  { href: "/dashboard/notifications", label: "Notifications", icon: Bell },
+  { href: "/dashboard/settings", label: "Settings", icon: Settings },
+];
+
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const { data: session } = useSession();
+  const pathname = usePathname();
+  const isDashboard = pathname.startsWith("/dashboard");
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
@@ -151,56 +167,111 @@ export default function Navbar() {
       {mobileOpen && (
         <div className="md:hidden border-t border-apple-gray-300/50 bg-white">
           <div className="mx-auto max-w-7xl px-6 py-4 space-y-1">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setMobileOpen(false)}
-                className="block rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-              >
-                {link.label}
-              </Link>
-            ))}
-            <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-3">
-              {user ? (
-                <>
-                  <Link
-                    href="/dashboard"
-                    onClick={() => setMobileOpen(false)}
-                    className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
-                  >
-                    Dashboard
-                  </Link>
+            {isDashboard && user ? (
+              <>
+                {/* Dashboard nav items */}
+                {dashboardLinks.map((item) => {
+                  const Icon = item.icon;
+                  const active = item.href === "/dashboard"
+                    ? pathname === "/dashboard"
+                    : pathname.startsWith(item.href);
+                  return (
+                    <Link
+                      key={item.href}
+                      href={item.href}
+                      onClick={() => setMobileOpen(false)}
+                      className={`flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm transition-colors ${
+                        active
+                          ? "bg-apple-gray-100 text-apple-black font-medium"
+                          : "text-apple-gray-700 hover:bg-apple-gray-100 hover:text-apple-black"
+                      }`}
+                    >
+                      <Icon size={18} />
+                      {item.label}
+                    </Link>
+                  );
+                })}
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-1">
+                  {navLinks.map((link) => (
+                    <Link
+                      key={link.href}
+                      href={link.href}
+                      onClick={() => setMobileOpen(false)}
+                      className="block rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
+                    >
+                      {link.label}
+                    </Link>
+                  ))}
+                </div>
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50">
                   <button
                     type="button"
                     onClick={() => {
                       setMobileOpen(false);
                       signOut({ callbackUrl: "/" });
                     }}
-                    className="block w-full text-center bg-apple-gray-100 text-apple-gray-700 rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-gray-300/50 cursor-pointer"
+                    className="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 hover:text-red-500 transition-colors w-full cursor-pointer"
                   >
+                    <LogOut size={18} />
                     Sign out
                   </button>
-                </>
-              ) : (
-                <>
+                </div>
+              </>
+            ) : (
+              <>
+                {/* Regular site nav */}
+                {navLinks.map((link) => (
                   <Link
-                    href="/auth/signin"
+                    key={link.href}
+                    href={link.href}
                     onClick={() => setMobileOpen(false)}
-                    className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
+                    className="block rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                   >
-                    Sign in
+                    {link.label}
                   </Link>
-                  <Link
-                    href="/auth/signup"
-                    onClick={() => setMobileOpen(false)}
-                    className="block text-center bg-apple-accent text-white rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
-                  >
-                    Get started
-                  </Link>
-                </>
-              )}
-            </div>
+                ))}
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-3">
+                  {user ? (
+                    <>
+                      <Link
+                        href="/dashboard"
+                        onClick={() => setMobileOpen(false)}
+                        className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
+                      >
+                        Dashboard
+                      </Link>
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setMobileOpen(false);
+                          signOut({ callbackUrl: "/" });
+                        }}
+                        className="block w-full text-center bg-apple-gray-100 text-apple-gray-700 rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-gray-300/50 cursor-pointer"
+                      >
+                        Sign out
+                      </button>
+                    </>
+                  ) : (
+                    <>
+                      <Link
+                        href="/auth/signin"
+                        onClick={() => setMobileOpen(false)}
+                        className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
+                      >
+                        Sign in
+                      </Link>
+                      <Link
+                        href="/auth/signup"
+                        onClick={() => setMobileOpen(false)}
+                        className="block text-center bg-apple-accent text-white rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
+                      >
+                        Get started
+                      </Link>
+                    </>
+                  )}
+                </div>
+              </>
+            )}
           </div>
         </div>
       )}

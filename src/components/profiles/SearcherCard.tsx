@@ -73,10 +73,10 @@ export default function SearcherCard({ searcher }: SearcherCardProps) {
         <p className="text-sm text-apple-gray-500">{searcher.mbaSchool}</p>
       )}
 
-      {/* Headline / thesis snippet */}
-      {(searcher.headline || searcher.thesisDescription) && (
+      {/* Headline / bio snippet */}
+      {(searcher.headline || user.bio) && (
         <p className="text-sm text-apple-gray-700 mt-2 line-clamp-3">
-          {searcher.headline || searcher.thesisDescription}
+          {searcher.headline || user.bio}
         </p>
       )}
 

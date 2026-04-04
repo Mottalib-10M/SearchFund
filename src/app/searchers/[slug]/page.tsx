@@ -9,6 +9,7 @@ import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { COUNTRIES, formatCurrency } from "@/lib/utils";
 import ConnectButton from "@/components/profiles/ConnectButton";
+import DocumentList from "@/components/profile/DocumentList";
 
 type PageProps = {
   params: Promise<{ slug: string }>;
@@ -70,6 +71,15 @@ async function getSearcher(slug: string) {
             verificationStatus: true,
           },
         },
+        documents: {
+          select: {
+            id: true,
+            label: true,
+            fileName: true,
+            fileSize: true,
+            visibility: true,
+          },
+        },
       },
     });
     return searcher;
@@ -117,9 +127,10 @@ export default async function SearcherProfilePage({ params }: PageProps) {
   const ebitdaRange = formatRange(searcher.targetEbitdaMin, searcher.targetEbitdaMax);
   const revenueRange = formatRange(searcher.targetRevenueMin, searcher.targetRevenueMax);
 
-  // Check connection status
+  // Check connection status and viewer role
   const session = await getServerSession(authOptions);
   const currentUserId = (session?.user as Record<string, unknown> | undefined)?.id as string | undefined;
+  const currentUserRole = (session?.user as Record<string, unknown> | undefined)?.role as string | null ?? null;
   let connectionStatus: "PENDING" | "ACCEPTED" | "DECLINED" | null = null;
   if (currentUserId && currentUserId !== user.id) {
     const conn = await prisma.connection.findFirst({
@@ -213,18 +224,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
         </section>
       )}
 
-      {/* Acquisition Thesis */}
-      {searcher.thesisDescription && (
-        <section className="mt-10">
-          <h2 className="text-xl font-semibold text-apple-black">
-            Acquisition Thesis
-          </h2>
-          <p className="mt-3 text-apple-gray-700 leading-relaxed whitespace-pre-line">
-            {searcher.thesisDescription}
-          </p>
-        </section>
-      )}
-
       {/* Search Criteria grid */}
       <section className="mt-10">
         <h2 className="text-xl font-semibold text-apple-black">
@@ -303,6 +302,14 @@ export default async function SearcherProfilePage({ params }: PageProps) {
           </div>
         </section>
       )}
+
+      {/* Documents */}
+      <DocumentList
+        documents={searcher.documents}
+        connectionStatus={connectionStatus}
+        isOwner={currentUserId === user.id}
+        viewerRole={currentUserRole}
+      />
 
       {/* Contact section */}
       <section className="mt-10 border-t border-apple-gray-300 pt-10">

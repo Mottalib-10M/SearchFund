@@ -147,8 +147,36 @@ model SearcherProfile {
   headline String?
   slug     String? @unique
 
+  documents SearcherDocument[]
+
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+}
+
+// ═══════════════════════════════════
+// DOCUMENTS SEARCHER
+// ═══════════════════════════════════
+
+enum DocumentVisibility {
+  PRIVATE
+  CONNECTIONS
+  PUBLIC
+}
+
+model SearcherDocument {
+  id        String             @id @default(cuid())
+  profileId String
+  profile   SearcherProfile    @relation(fields: [profileId], references: [id], onDelete: Cascade)
+  label     String
+  fileName  String
+  fileUrl   String
+  fileSize  Int
+  visibility DocumentVisibility @default(PRIVATE)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([profileId, label])
 }
 
 enum InvestorType {
