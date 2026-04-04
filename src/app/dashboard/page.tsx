@@ -66,13 +66,11 @@ export default async function DashboardPage() {
       }),
     ]);
 
-    const activeListings = await prisma.listing.count({ where: { status: "ACTIVE" } });
-
     roleStats = [
       {
         label: "Saved listings",
         value: String(savedCount),
-        detail: `${activeListings} active on platform`,
+        detail: null,
         href: "/dashboard/saved",
       },
       {
@@ -218,19 +216,19 @@ export default async function DashboardPage() {
       <p className="text-apple-gray-500 mt-1">Welcome back, {userName}</p>
 
       {/* Stat cards */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
+      <div className="grid grid-cols-3 gap-4 mt-8">
         {roleStats.map((stat) => (
           <Link
             key={stat.label}
             href={stat.href}
-            className="bg-apple-gray-100 rounded-2xl p-6 hover:bg-apple-gray-100/80 transition-colors"
+            className="bg-apple-gray-100 rounded-xl px-4 py-3 hover:bg-apple-gray-100/80 transition-colors"
           >
-            <p className="text-sm text-apple-gray-500">{stat.label}</p>
-            <p className="text-3xl font-semibold text-apple-black mt-1">
+            <p className="text-xs text-apple-gray-500">{stat.label}</p>
+            <p className="text-xl font-semibold text-apple-black mt-0.5">
               {stat.value}
             </p>
             {stat.detail && (
-              <p className="text-xs text-apple-success mt-2">{stat.detail}</p>
+              <p className="text-xs text-apple-success mt-1">{stat.detail}</p>
             )}
           </Link>
         ))}
