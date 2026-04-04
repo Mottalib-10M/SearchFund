@@ -28,7 +28,7 @@ const searcherSchema = z.object({
 });
 
 const investorSchema = z.object({
-  investorType: z.enum(INVESTOR_TYPES),
+  investorType: z.enum(INVESTOR_TYPES).optional(),
   firmName: z.string().optional(),
   ticketMin: z.string().optional(),
   ticketMax: z.string().optional(),
@@ -141,7 +141,7 @@ export async function POST(request: Request) {
         await tx.investorProfile.upsert({
           where: { userId: session.id },
           update: {
-            investorType: iData.investorType,
+            investorType: iData.investorType ?? "ANGEL",
             firmName: iData.firmName || null,
             ticketSizeMin: parseNumber(iData.ticketMin),
             ticketSizeMax: parseNumber(iData.ticketMax),
@@ -152,7 +152,7 @@ export async function POST(request: Request) {
           },
           create: {
             userId: session.id,
-            investorType: iData.investorType,
+            investorType: iData.investorType ?? "ANGEL",
             firmName: iData.firmName || null,
             ticketSizeMin: parseNumber(iData.ticketMin),
             ticketSizeMax: parseNumber(iData.ticketMax),
