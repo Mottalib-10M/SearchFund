@@ -93,6 +93,7 @@ export function SignUpForm() {
   const [email, setEmail] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [existingAccount, setExistingAccount] = useState(false);
 
   const handleRoleSelect = (role: Role) => {
     setSelectedRole(role);
@@ -104,11 +105,21 @@ export function SignUpForm() {
     if (!email || !selectedRole) return;
     setLoading(true);
     setError(null);
+    setExistingAccount(false);
 
     try {
+      // Check if account already exists
+      const checkRes = await fetch("/api/auth/check-email", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email: email.toLowerCase().trim() }),
+      });
+      const { exists } = await checkRes.json();
+
+      // Send magic link regardless (sign-in for existing, sign-up for new)
       const res = await signIn("email", {
         email,
-        callbackUrl: `/auth/onboarding?role=${selectedRole}`,
+        callbackUrl: exists ? "/dashboard" : `/auth/onboarding?role=${selectedRole}`,
         redirect: false,
       });
 
@@ -118,7 +129,12 @@ export function SignUpForm() {
         return;
       }
 
-      router.push("/auth/verify-request");
+      if (exists) {
+        setExistingAccount(true);
+        setLoading(false);
+      } else {
+        router.push("/auth/verify-request");
+      }
     } catch {
       setError("Something went wrong. Please try again.");
       setLoading(false);
@@ -165,6 +181,53 @@ export function SignUpForm() {
             Sign in
           </Link>
         </p>
+      </div>
+    );
+  }
+
+  // Existing account detected — show info message
+  if (existingAccount) {
+    return (
+      <div className="w-full max-w-md mx-auto text-center">
+        <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-apple-accent/10 mb-6">
+          <svg className="h-8 w-8 text-apple-accent" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75" />
+          </svg>
+        </div>
+
+        <h1 className="text-3xl font-semibold text-apple-black">
+          Account already exists
+        </h1>
+        <p className="text-apple-gray-500 mt-3 leading-relaxed">
+          An account with <strong className="text-apple-black">{email}</strong> already exists.
+          We&apos;ve sent you a sign-in link — check your inbox.
+        </p>
+
+        <div className="mt-8 p-4 bg-apple-gray-100 rounded-xl">
+          <p className="text-sm text-apple-gray-700">
+            Each email can only be linked to one account.
+          </p>
+        </div>
+
+        <div className="mt-8 space-y-3">
+          <Link
+            href="/auth/signin"
+            className="block bg-apple-accent text-white rounded-full w-full py-3 text-sm font-medium hover:bg-apple-accent-hover transition-colors text-center"
+          >
+            Go to sign in
+          </Link>
+          <button
+            type="button"
+            onClick={() => {
+              setExistingAccount(false);
+              setEmail("");
+              setStep(1);
+            }}
+            className="block w-full text-sm text-apple-gray-500 hover:text-apple-black transition-colors cursor-pointer"
+          >
+            Try a different email
+          </button>
+        </div>
       </div>
     );
   }

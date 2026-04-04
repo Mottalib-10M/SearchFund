@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
+import ConditionalFooter from "@/components/layout/ConditionalFooter";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
 import "./globals.css";
 
@@ -27,7 +27,7 @@ export default function RootLayout({
         <AuthSessionProvider>
           <Navbar />
           <main className="min-h-screen pt-14">{children}</main>
-          <Footer />
+          <ConditionalFooter />
         </AuthSessionProvider>
       </body>
     </html>

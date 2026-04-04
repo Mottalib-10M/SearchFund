@@ -13,7 +13,7 @@ import {
   Settings,
   LogOut,
 } from "lucide-react";
-import { signOut } from "next-auth/react";
+import { useSession, signOut } from "next-auth/react";
 
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
@@ -31,6 +31,8 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   const pathname = usePathname();
+  const { data: session } = useSession();
+  const role = (session?.user as Record<string, unknown> | undefined)?.role as string | undefined;
   const [unreadCount, setUnreadCount] = useState(0);
 
   useEffect(() => {
@@ -62,7 +64,9 @@ export default function DashboardLayout({
         className="fixed top-14 left-0 bottom-0 z-50 w-64 bg-white border-r border-apple-gray-100 py-8 px-4 overflow-y-auto hidden md:block"
       >
         <nav className="space-y-1">
-          {navItems.map((item) => {
+          {navItems
+            .filter((item) => item.href !== "/dashboard/my-listings" || role === "SELLER")
+            .map((item) => {
             const active = isActive(item.href);
             const Icon = item.icon;
             const showBadge = item.href === "/dashboard/notifications" && unreadCount > 0;

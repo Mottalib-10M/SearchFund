@@ -1,4 +1,7 @@
 import type { Metadata } from "next";
+import { redirect } from "next/navigation";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
 import CreateListingForm from "@/components/listings/CreateListingForm";
 
 export const metadata: Metadata = {
@@ -7,7 +10,14 @@ export const metadata: Metadata = {
     "Reach qualified buyers across Europe. List your business on SearchFundMarket marketplace.",
 };
 
-export default function NewListingPage() {
+export default async function NewListingPage() {
+  const session = await getServerSession(authOptions);
+  const role = (session?.user as Record<string, unknown> | undefined)?.role as string | undefined;
+
+  if (role !== "SELLER") {
+    redirect("/listings");
+  }
+
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       <div className="max-w-2xl mx-auto text-center mb-4">

@@ -47,6 +47,7 @@ export default function Navbar() {
   }, []);
 
   const user = session?.user;
+  const role = (user as Record<string, unknown> | undefined)?.role as string | undefined;
   const userName = user?.name ?? user?.email?.split("@")[0] ?? "User";
   const userInitial = userName.charAt(0).toUpperCase();
 
@@ -170,7 +171,9 @@ export default function Navbar() {
             {isDashboard && user ? (
               <>
                 {/* Dashboard nav items */}
-                {dashboardLinks.map((item) => {
+                {dashboardLinks
+                .filter((item) => item.href !== "/dashboard/my-listings" || role === "SELLER")
+                .map((item) => {
                   const Icon = item.icon;
                   const active = item.href === "/dashboard"
                     ? pathname === "/dashboard"

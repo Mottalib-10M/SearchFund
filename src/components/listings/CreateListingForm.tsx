@@ -425,16 +425,27 @@ export default function CreateListingForm() {
           {/* Highlights */}
           <div>
             <label className="text-sm text-apple-gray-500 mb-1.5 block">
-              Highlights
+              Key highlights
             </label>
+            <p className="text-xs text-apple-gray-500 mb-2">
+              Short bullet points that make your business stand out — e.g. recurring revenue %, number of clients, certifications, years in business, growth rate.
+            </p>
             <div className="space-y-2">
-              {form.highlights.map((h, idx) => (
+              {form.highlights.map((h, idx) => {
+                const placeholders = [
+                  "e.g. 80% recurring revenue from multi-year contracts",
+                  "e.g. 120+ active B2B clients across 3 countries",
+                  "e.g. ISO 9001 certified, 15-year track record",
+                  "e.g. 20% annual revenue growth over last 3 years",
+                  "e.g. Asset-light model with 25% EBITDA margins",
+                ];
+                return (
                 <div key={idx} className="flex items-center gap-2">
                   <input
                     type="text"
                     value={h}
                     onChange={(e) => updateHighlight(idx, e.target.value)}
-                    placeholder={`Highlight ${idx + 1}`}
+                    placeholder={placeholders[idx] ?? `e.g. Key fact about your business`}
                     className="form-input flex-1"
                   />
                   {form.highlights.length > 1 && (
@@ -448,7 +459,8 @@ export default function CreateListingForm() {
                     </button>
                   )}
                 </div>
-              ))}
+                );
+              })}
             </div>
             <button
               type="button"

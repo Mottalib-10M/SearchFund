@@ -69,6 +69,7 @@ export default async function ListingPage({
             image: true,
             verificationStatus: true,
             createdAt: true,
+            sellerProfile: { select: { slug: true } },
           },
         },
       },
@@ -254,33 +255,43 @@ export default async function ListingPage({
         </div>
 
         {/* Seller mini card */}
-        <div className="mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3">
-          {listing.seller.image ? (
-            <img
-              src={listing.seller.image}
-              alt={listing.seller.name ?? "Seller"}
-              className="w-10 h-10 rounded-full object-cover"
-            />
-          ) : (
-            <div className="w-10 h-10 rounded-full bg-apple-gray-300 flex items-center justify-center text-apple-gray-500 text-sm font-medium">
-              {(listing.seller.name ?? "S").charAt(0).toUpperCase()}
-            </div>
-          )}
-          <div>
-            <div className="flex items-center gap-1.5">
-              <span className="text-sm font-medium text-apple-black">
-                {listing.seller.name ?? "Anonymous seller"}
-              </span>
-              {listing.seller.verificationStatus === "VERIFIED" && (
-                <BadgeCheck className="h-4 w-4 text-apple-accent" />
+        {(() => {
+          const sellerSlug = listing.seller.sellerProfile?.slug;
+          const card = (
+            <div className={`mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3${sellerSlug ? " hover:opacity-80 transition-opacity" : ""}`}>
+              {listing.seller.image ? (
+                <img
+                  src={listing.seller.image}
+                  alt={listing.seller.name ?? "Seller"}
+                  className="w-10 h-10 rounded-full object-cover"
+                />
+              ) : (
+                <div className="w-10 h-10 rounded-full bg-apple-gray-300 flex items-center justify-center text-apple-gray-500 text-sm font-medium">
+                  {(listing.seller.name ?? "S").charAt(0).toUpperCase()}
+                </div>
               )}
+              <div>
+                <div className="flex items-center gap-1.5">
+                  <span className="text-sm font-medium text-apple-black">
+                    {listing.seller.name ?? "Anonymous seller"}
+                  </span>
+                  {listing.seller.verificationStatus === "VERIFIED" && (
+                    <BadgeCheck className="h-4 w-4 text-apple-accent" />
+                  )}
+                </div>
+                <span className="text-xs text-apple-gray-500">
+                  Member since{" "}
+                  {new Date(listing.seller.createdAt).getFullYear()}
+                </span>
+              </div>
             </div>
-            <span className="text-xs text-apple-gray-500">
-              Member since{" "}
-              {new Date(listing.seller.createdAt).getFullYear()}
-            </span>
-          </div>
-        </div>
+          );
+          return sellerSlug ? (
+            <Link href={`/sellers/${sellerSlug}`}>{card}</Link>
+          ) : (
+            card
+          );
+        })()}
       </section>
     </div>
   );
