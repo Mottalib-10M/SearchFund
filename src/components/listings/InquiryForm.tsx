@@ -4,11 +4,17 @@ import { useState } from "react";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
 
-export default function InquiryForm({ listingId }: { listingId: string }) {
+export default function InquiryForm({
+  listingId,
+  alreadySent = false,
+}: {
+  listingId: string;
+  alreadySent?: boolean;
+}) {
   const { data: session } = useSession();
   const [message, setMessage] = useState("");
   const [sending, setSending] = useState(false);
-  const [sent, setSent] = useState(false);
+  const [sent, setSent] = useState(alreadySent);
   const [error, setError] = useState<string | null>(null);
 
   if (!session?.user) {
@@ -38,9 +44,14 @@ export default function InquiryForm({ listingId }: { listingId: string }) {
   if (sent) {
     return (
       <div className="text-center py-4">
-        <p className="text-apple-success font-medium">Inquiry sent!</p>
+        <div className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-apple-success/10 mb-3">
+          <svg className="h-5 w-5 text-apple-success" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
+            <path strokeLinecap="round" strokeLinejoin="round" d="m4.5 12.75 6 6 9-13.5" />
+          </svg>
+        </div>
+        <p className="text-apple-success font-medium">Inquiry sent</p>
         <p className="text-sm text-apple-gray-500 mt-1">
-          The seller will respond via the platform.
+          The seller has been notified and will respond via the platform.
         </p>
       </div>
     );

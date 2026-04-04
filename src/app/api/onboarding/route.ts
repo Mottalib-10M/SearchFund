@@ -46,13 +46,7 @@ function parseNumber(val: string | undefined): number | null {
   const cleaned = val.replace(/[^0-9.]/g, "");
   const num = parseFloat(cleaned);
   if (isNaN(num)) return null;
-  const lower = val.toLowerCase();
-  // "3M" → 3,000 (thousands), "500K" → 500 (thousands)
-  // Values stored in thousands (K) in the database
-  if (lower.includes("m")) return Math.round(num * 1000);
-  if (lower.includes("k")) return Math.round(num);
-  // Raw number: assume already in thousands if small, else convert
-  if (num >= 1000) return Math.round(num / 1000);
+  // Values stored in thousands (K) in the database — UI inputs are in K
   return Math.round(num);
 }
 

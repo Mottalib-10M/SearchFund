@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 import { createNotification } from "@/lib/notifications";
+import { newInquiryEmail } from "@/lib/emails/new-inquiry";
+import { sendEmail } from "@/lib/emails/send";
 
 // POST /api/inquiries — send an inquiry to a seller
 export async function POST(request: NextRequest) {
@@ -28,7 +30,7 @@ export async function POST(request: NextRequest) {
   // Find the listing to get the seller
   const listing = await prisma.listing.findUnique({
     where: { id: listingId },
-    select: { id: true, sellerId: true, title: true },
+    select: { id: true, sellerId: true, title: true, seller: { select: { email: true } } },
   });
 
   if (!listing) {
@@ -36,6 +38,7 @@ export async function POST(request: NextRequest) {
   }
 
   try {
+    // 1. Create the inquiry record
     const inquiry = await prisma.inquiry.create({
       data: {
         listingId,
@@ -44,13 +47,52 @@ export async function POST(request: NextRequest) {
       },
     });
 
+    // 2. Create or find conversation between buyer and seller
+    const [p1, p2] = [session.id, listing.sellerId].sort();
+    let conversation = await prisma.conversation.findUnique({
+      where: { participant1_participant2: { participant1: p1, participant2: p2 } },
+    });
+
+    if (!conversation) {
+      conversation = await prisma.conversation.create({
+        data: { participant1: p1, participant2: p2 },
+      });
+    }
+
+    // 3. Insert the inquiry as the first message in the conversation
+    await prisma.message.create({
+      data: {
+        conversationId: conversation.id,
+        senderId: session.id,
+        receiverId: listing.sellerId,
+        content: `[Inquiry about "${listing.title}"]\n\n${message}`,
+      },
+    });
+
+    // Update conversation timestamp
+    await prisma.conversation.update({
+      where: { id: conversation.id },
+      data: { updatedAt: new Date() },
+    });
+
+    // 4. In-app notification → links to messages
     await createNotification({
       userId: listing.sellerId,
       type: "INQUIRY_RECEIVED",
       title: "New inquiry received",
       message: `${session.name ?? "Someone"} is interested in "${listing.title}"`,
-      link: `/dashboard/my-listings`,
+      link: `/dashboard/messages/${conversation.id}`,
     });
+
+    // 5. Email notification to seller (best-effort)
+    if (listing.seller.email) {
+      const { html, text, subject } = newInquiryEmail({
+        listingTitle: listing.title,
+        senderName: session.name ?? "A searcher",
+        message,
+      });
+      sendEmail({ to: listing.seller.email, subject, html, text }).catch(() => {});
+    }
 
     return NextResponse.json({ inquiry }, { status: 201 });
   } catch (err: any) {

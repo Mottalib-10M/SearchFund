@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
   FileText,
+  FolderOpen,
   Heart,
   Users,
   MessageSquare,
@@ -17,8 +18,9 @@ import { useSession, signOut } from "next-auth/react";
 
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText },
+  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
   { href: "/dashboard/saved", label: "Saved", icon: Heart },
+  { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
   { href: "/dashboard/connections", label: "Connections", icon: Users },
   { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
   { href: "/dashboard/notifications", label: "Notifications", icon: Bell },
@@ -65,7 +67,7 @@ export default function DashboardLayout({
       >
         <nav className="space-y-1">
           {navItems
-            .filter((item) => item.href !== "/dashboard/my-listings" || role === "SELLER")
+            .filter((item) => !item.role || item.role === role)
             .map((item) => {
             const active = isActive(item.href);
             const Icon = item.icon;

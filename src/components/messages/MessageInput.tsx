@@ -6,16 +6,18 @@ import { Send } from "lucide-react";
 export default function MessageInput({
   conversationId,
   onSent,
+  waitingForReply = false,
 }: {
   conversationId: string;
   onSent?: () => void;
+  waitingForReply?: boolean;
 }) {
   const [content, setContent] = useState("");
   const [sending, setSending] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!content.trim() || sending) return;
+    if (!content.trim() || sending || waitingForReply) return;
 
     setSending(true);
     try {
@@ -34,6 +36,16 @@ export default function MessageInput({
       setSending(false);
     }
   };
+
+  if (waitingForReply) {
+    return (
+      <div className="border-t border-apple-gray-100 px-4 py-4">
+        <p className="text-sm text-apple-gray-500 text-center">
+          Waiting for a reply before you can send another message.
+        </p>
+      </div>
+    );
+  }
 
   return (
     <form

@@ -24,22 +24,23 @@ export default function SaveButton({
     }
 
     setLoading(true);
+    const prev = saved;
+    setSaved(!prev); // optimistic toggle
     try {
-      if (saved) {
-        await fetch(`/api/saved-listings?listingId=${listingId}`, {
-          method: "DELETE",
-        });
-        setSaved(false);
-      } else {
-        await fetch("/api/saved-listings", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ listingId }),
-        });
-        setSaved(true);
+      const res = saved
+        ? await fetch(`/api/saved-listings?listingId=${listingId}`, {
+            method: "DELETE",
+          })
+        : await fetch("/api/saved-listings", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ listingId }),
+          });
+      if (!res.ok) {
+        setSaved(prev); // revert on failure
       }
     } catch {
-      // ignore
+      setSaved(prev); // revert on network error
     } finally {
       setLoading(false);
     }

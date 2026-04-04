@@ -6,7 +6,41 @@ type RouteContext = {
   params: Promise<{ id: string }>;
 };
 
-// GET /api/documents/[id] — download with access control
+const MIME_TYPES: Record<string, string> = {
+  pdf: "application/pdf",
+  docx: "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  pptx: "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+  xlsx: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+};
+
+/** Fetch the blob and return it inline (no download prompt). */
+async function serveInline(fileUrl: string, fileName: string) {
+  try {
+    const res = await fetch(fileUrl, {
+      headers: {
+        Authorization: `Bearer ${process.env.BLOB_READ_WRITE_TOKEN}`,
+      },
+    });
+    if (!res.ok) {
+      return NextResponse.json({ error: "File not accessible", status: res.status }, { status: 502 });
+    }
+
+    const ext = fileName.split(".").pop()?.toLowerCase() ?? "";
+    const contentType = MIME_TYPES[ext] ?? "application/octet-stream";
+
+    return new NextResponse(res.body, {
+      headers: {
+        "Content-Type": contentType,
+        "Content-Disposition": `inline; filename="${fileName}"`,
+        "Cache-Control": "private, max-age=3600",
+      },
+    });
+  } catch {
+    return NextResponse.json({ error: "Failed to serve document" }, { status: 500 });
+  }
+}
+
+// GET /api/documents/[id] — view with access control
 export async function GET(_request: NextRequest, context: RouteContext) {
   const { id } = await context.params;
 
@@ -28,7 +62,7 @@ export async function GET(_request: NextRequest, context: RouteContext) {
 
   // PUBLIC documents are accessible by everyone
   if (doc.visibility === "PUBLIC") {
-    return NextResponse.redirect(doc.fileUrl);
+    return serveInline(doc.fileUrl, doc.fileName);
   }
 
   // For PRIVATE and CONNECTIONS, authentication is required
@@ -45,7 +79,7 @@ export async function GET(_request: NextRequest, context: RouteContext) {
 
   // Owner can always access their own documents
   if (session.id === ownerId) {
-    return NextResponse.redirect(doc.fileUrl);
+    return serveInline(doc.fileUrl, doc.fileName);
   }
 
   // PRIVATE — only the owner
@@ -55,7 +89,6 @@ export async function GET(_request: NextRequest, context: RouteContext) {
 
   // CONNECTIONS — owner + accepted investor connections only
   if (doc.visibility === "CONNECTIONS") {
-    // Viewer must be an investor
     const viewer = await prisma.user.findUnique({
       where: { id: session.id },
       select: { role: true },
@@ -79,7 +112,7 @@ export async function GET(_request: NextRequest, context: RouteContext) {
       return NextResponse.json({ error: "Access denied" }, { status: 403 });
     }
 
-    return NextResponse.redirect(doc.fileUrl);
+    return serveInline(doc.fileUrl, doc.fileName);
   }
 
   return NextResponse.json({ error: "Access denied" }, { status: 403 });

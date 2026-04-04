@@ -510,22 +510,28 @@ function OnboardingContent() {
               </div>
 
               <div>
-                <label className={labelClasses}>Target EBITDA range</label>
+                <label className={labelClasses}>Target EBITDA range (K€)</label>
                 <div className="grid grid-cols-2 gap-4">
-                  <input
-                    type="text"
-                    value={ebitdaMin}
-                    onChange={(e) => setEbitdaMin(e.target.value)}
-                    placeholder="Min (e.g. 500K)"
-                    className={inputClasses}
-                  />
-                  <input
-                    type="text"
-                    value={ebitdaMax}
-                    onChange={(e) => setEbitdaMax(e.target.value)}
-                    placeholder="Max (e.g. 3M)"
-                    className={inputClasses}
-                  />
+                  <div className="relative">
+                    <input
+                      type="number"
+                      value={ebitdaMin}
+                      onChange={(e) => setEbitdaMin(e.target.value)}
+                      placeholder="e.g. 500"
+                      className={`${inputClasses} pr-10`}
+                    />
+                    <span className="absolute right-3 top-1/2 -translate-y-1/2 text-xs text-apple-gray-500 pointer-events-none">K€</span>
+                  </div>
+                  <div className="relative">
+                    <input
+                      type="number"
+                      value={ebitdaMax}
+                      onChange={(e) => setEbitdaMax(e.target.value)}
+                      placeholder="e.g. 3000"
+                      className={`${inputClasses} pr-10`}
+                    />
+                    <span className="absolute right-3 top-1/2 -translate-y-1/2 text-xs text-apple-gray-500 pointer-events-none">K€</span>
+                  </div>
                 </div>
               </div>
 

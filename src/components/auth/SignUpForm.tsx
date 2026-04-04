@@ -144,8 +144,8 @@ export function SignUpForm() {
   if (step === 1) {
     return (
       <div className="w-full max-w-2xl mx-auto">
-        <h1 className="text-3xl font-semibold text-apple-black text-center">
-          Join SearchFundMarket
+        <h1 className="text-2xl md:text-3xl font-semibold text-apple-black text-center">
+          Get started
         </h1>
         <p className="text-apple-gray-500 text-center mt-2">
           Choose how you&apos;ll use the platform
@@ -157,15 +157,15 @@ export function SignUpForm() {
               key={role.key}
               type="button"
               onClick={() => handleRoleSelect(role.key)}
-              className={`border-2 border-transparent hover:${role.borderColor} rounded-xl p-6 cursor-pointer text-center transition-all group`}
+              className={`border-2 border-transparent hover:${role.borderColor} rounded-xl p-4 md:p-6 cursor-pointer text-center transition-all group`}
             >
-              <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-apple-gray-100 group-hover:bg-apple-accent/10 transition-colors mb-4">
+              <div className="inline-flex items-center justify-center w-10 h-10 md:w-12 md:h-12 rounded-full bg-apple-gray-100 group-hover:bg-apple-accent/10 transition-colors mb-3 md:mb-4">
                 <RoleIcon role={role.key} className="h-6 w-6 text-apple-gray-700 group-hover:text-apple-accent transition-colors" />
               </div>
-              <h3 className="text-lg font-semibold text-apple-black">
+              <h3 className="text-base md:text-lg font-semibold text-apple-black">
                 {role.label}
               </h3>
-              <p className="text-apple-gray-500 text-sm mt-1">
+              <p className="text-apple-gray-500 text-xs md:text-sm mt-1">
                 {role.description}
               </p>
             </button>

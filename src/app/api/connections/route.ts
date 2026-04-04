@@ -15,10 +15,20 @@ export async function GET() {
     orderBy: { updatedAt: "desc" },
     include: {
       requester: {
-        select: { id: true, name: true, image: true, role: true },
+        select: {
+          id: true, name: true, image: true, role: true,
+          searcherProfile: { select: { slug: true } },
+          investorProfile: { select: { slug: true } },
+          sellerProfile: { select: { slug: true } },
+        },
       },
       receiver: {
-        select: { id: true, name: true, image: true, role: true },
+        select: {
+          id: true, name: true, image: true, role: true,
+          searcherProfile: { select: { slug: true } },
+          investorProfile: { select: { slug: true } },
+          sellerProfile: { select: { slug: true } },
+        },
       },
     },
   });

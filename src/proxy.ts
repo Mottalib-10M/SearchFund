@@ -21,6 +21,12 @@ export async function proxy(request: NextRequest) {
     return NextResponse.redirect(signInUrl);
   }
 
+  // Redirect to onboarding if profile is incomplete (name not set)
+  if (!token.name && pathname !== "/auth/onboarding") {
+    const onboardingUrl = new URL("/auth/onboarding", request.url);
+    return NextResponse.redirect(onboardingUrl);
+  }
+
   return NextResponse.next();
 }
 

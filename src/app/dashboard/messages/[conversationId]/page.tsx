@@ -111,6 +111,10 @@ export default function ConversationPage({
       <MessageInput
         conversationId={conversationId}
         onSent={fetchMessages}
+        waitingForReply={
+          messages.length > 0 &&
+          messages[messages.length - 1].senderId === currentUserId
+        }
       />
     </div>
   );

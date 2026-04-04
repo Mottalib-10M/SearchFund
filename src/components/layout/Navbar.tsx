@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { useSession, signOut } from "next-auth/react";
 import {
   Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard,
-  FileText, Heart, Users, MessageSquare, Bell,
+  FileText, FolderOpen, Heart, Users, MessageSquare, Bell,
 } from "lucide-react";
 import Logo from "@/components/ui/Logo";
 
@@ -20,8 +20,9 @@ const navLinks = [
 
 const dashboardLinks = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText },
+  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
   { href: "/dashboard/saved", label: "Saved", icon: Heart },
+  { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
   { href: "/dashboard/connections", label: "Connections", icon: Users },
   { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
   { href: "/dashboard/notifications", label: "Notifications", icon: Bell },
@@ -168,11 +169,11 @@ export default function Navbar() {
       {mobileOpen && (
         <div className="md:hidden border-t border-apple-gray-300/50 bg-white">
           <div className="mx-auto max-w-7xl px-6 py-4 space-y-1">
-            {isDashboard && user ? (
+            {user ? (
               <>
                 {/* Dashboard nav items */}
                 {dashboardLinks
-                .filter((item) => item.href !== "/dashboard/my-listings" || role === "SELLER")
+                .filter((item) => !item.role || item.role === role)
                 .map((item) => {
                   const Icon = item.icon;
                   const active = item.href === "/dashboard"

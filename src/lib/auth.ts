@@ -32,7 +32,7 @@ export const authOptions: NextAuthOptions = {
     },
   },
   callbacks: {
-    async jwt({ token, user }) {
+    async jwt({ token, user, trigger }) {
       if (user) {
         const dbUser = await prisma.user.findUnique({
           where: { email: user.email! },
@@ -41,6 +41,20 @@ export const authOptions: NextAuthOptions = {
         if (dbUser) {
           token.id = dbUser.id;
           token.role = dbUser.role;
+          token.name = dbUser.name;
+          token.picture = dbUser.image;
+        }
+      }
+      // Re-fetch user data when session is updated (e.g. after onboarding)
+      if (trigger === "update" && token.id) {
+        const dbUser = await prisma.user.findUnique({
+          where: { id: token.id as string },
+          select: { id: true, role: true, name: true, image: true },
+        });
+        if (dbUser) {
+          token.role = dbUser.role;
+          token.name = dbUser.name;
+          token.picture = dbUser.image;
         }
       }
       return token;

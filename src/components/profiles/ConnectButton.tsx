@@ -17,6 +17,7 @@ export default function ConnectButton({
   const router = useRouter();
   const [status, setStatus] = useState<string | null>(initialStatus ?? null);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   if (!session?.user) {
     return (
@@ -50,6 +51,7 @@ export default function ConnectButton({
 
   const handleConnect = async () => {
     setLoading(true);
+    setError(null);
     try {
       const res = await fetch("/api/connections", {
         method: "POST",
@@ -62,23 +64,30 @@ export default function ConnectButton({
         const data = await res.json();
         if (data.error === "Connection already exists") {
           setStatus("PENDING");
+        } else {
+          setError(data.error || "Failed to send request");
         }
       }
     } catch {
-      // ignore
+      setError("Network error. Please try again.");
     } finally {
       setLoading(false);
     }
   };
 
   return (
-    <button
-      type="button"
-      onClick={handleConnect}
-      disabled={loading}
-      className="inline-flex items-center justify-center bg-apple-accent text-white text-sm font-medium rounded-full px-6 py-2.5 hover:bg-apple-accent-hover transition-colors disabled:opacity-50 cursor-pointer"
-    >
-      {loading ? "Sending..." : `Connect with ${userName.split(" ")[0]}`}
-    </button>
+    <div>
+      <button
+        type="button"
+        onClick={handleConnect}
+        disabled={loading}
+        className="inline-flex items-center justify-center bg-apple-accent text-white text-sm font-medium rounded-full px-6 py-2.5 hover:bg-apple-accent-hover transition-colors disabled:opacity-50 cursor-pointer"
+      >
+        {loading ? "Sending..." : `Connect with ${userName.split(" ")[0]}`}
+      </button>
+      {error && (
+        <p className="text-xs text-red-600 mt-1.5">{error}</p>
+      )}
+    </div>
   );
 }

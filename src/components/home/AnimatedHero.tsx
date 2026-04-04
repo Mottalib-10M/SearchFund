@@ -26,7 +26,7 @@ export default function AnimatedHero() {
   }, [index, words]);
 
   return (
-    <section className="py-24 md:py-32 text-center max-w-4xl mx-auto px-6">
+    <section className="py-12 md:py-32 text-center max-w-4xl mx-auto px-6">
       <h1 className="text-5xl md:text-6xl font-semibold text-apple-black tracking-tight">
         <span>Find your&nbsp;</span>
         <span className="relative inline-flex w-full justify-center overflow-hidden h-[1.2em] align-bottom">
@@ -47,7 +47,7 @@ export default function AnimatedHero() {
 
       <p className="text-xl text-apple-gray-700 mt-6 max-w-2xl mx-auto">
         The marketplace connecting search fund entrepreneurs, investors, and
-        business sellers across Europe.
+        business sellers worldwide.
       </p>
 
       {/* Search bar */}

@@ -82,9 +82,9 @@ export async function POST(request: NextRequest) {
       await del(existing.fileUrl).catch(() => {});
     }
 
-    // Upload to Vercel Blob
+    // Upload to Vercel Blob (private store)
     const blob = await put(`documents/${profile.id}/${label}/${file.name}`, file, {
-      access: "public",
+      access: "private",
       addRandomSuffix: true,
     });
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useCallback } from "react";
-import { Upload, FileText, Trash2, Lock, Users, Globe, Info } from "lucide-react";
+import { Upload, FileText, Eye, Trash2, X, Lock, Users, Globe, Info } from "lucide-react";
 
 interface Document {
   id: string;
@@ -41,6 +41,7 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
   const [documents, setDocuments] = useState<Document[]>(initialDocuments);
   const [uploading, setUploading] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [previewDoc, setPreviewDoc] = useState<{ id: string; label: string; fileName: string } | null>(null);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const pendingLabelRef = useRef<string | null>(null);
 
@@ -168,7 +169,7 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
                   <p className="text-sm font-medium text-apple-black">
                     {slot.label}
                   </p>
-                  <p className="text-xs text-apple-gray-500 mt-0.5">
+                  <p className="text-xs text-apple-gray-500 mt-0.5 hidden sm:block">
                     {slot.description}
                   </p>
 
@@ -178,14 +179,14 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
                       <span className="text-sm text-apple-gray-700 truncate">
                         {doc.fileName}
                       </span>
-                      <span className="text-xs text-apple-gray-500 shrink-0">
+                      <span className="text-xs text-apple-gray-500 shrink-0 hidden sm:inline">
                         ({formatFileSize(doc.fileSize)})
                       </span>
                     </div>
                   )}
                 </div>
 
-                <div className="flex items-center gap-2 shrink-0">
+                <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
                   {doc && (
                     <>
                       <select
@@ -193,7 +194,7 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
                         onChange={(e) =>
                           handleVisibilityChange(doc.id, e.target.value)
                         }
-                        className="text-xs bg-apple-gray-100 rounded-lg px-2 py-1.5 border-none text-apple-gray-700 focus:ring-2 focus:ring-apple-accent"
+                        className="text-xs bg-apple-gray-100 rounded-lg px-1.5 sm:px-2 py-1.5 border-none text-apple-gray-700 focus:ring-2 focus:ring-apple-accent"
                       >
                         {VISIBILITY_OPTIONS.map((opt) => (
                           <option key={opt.value} value={opt.value}>
@@ -201,6 +202,13 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
                           </option>
                         ))}
                       </select>
+                      <button
+                        onClick={() => setPreviewDoc({ id: doc.id, label: doc.label, fileName: doc.fileName })}
+                        className="p-1.5 rounded-lg text-apple-gray-500 hover:text-apple-accent hover:bg-apple-gray-100 transition-colors"
+                        title="View document"
+                      >
+                        <Eye className="h-4 w-4" />
+                      </button>
                       <button
                         onClick={() => handleDelete(doc.id, doc.label)}
                         className="p-1.5 rounded-lg text-apple-gray-500 hover:text-red-500 hover:bg-red-50 transition-colors"
@@ -214,10 +222,10 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
                   <button
                     onClick={() => triggerFileInput(slot.label)}
                     disabled={isUploading}
-                    className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-medium rounded-full bg-apple-gray-100 text-apple-gray-700 hover:bg-apple-gray-200 transition-colors disabled:opacity-50"
+                    className="inline-flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 text-xs font-medium rounded-full bg-apple-gray-100 text-apple-gray-700 hover:bg-apple-gray-200 transition-colors disabled:opacity-50"
                   >
                     <Upload className="h-3.5 w-3.5" />
-                    {isUploading ? "Uploading..." : doc ? "Replace" : "Upload"}
+                    {isUploading ? "..." : doc ? "Replace" : "Upload"}
                   </button>
                 </div>
               </div>
@@ -225,6 +233,41 @@ export default function DocumentUploadSection({ initialDocuments }: DocumentUplo
           );
         })}
       </div>
+
+      {/* Document preview modal */}
+      {previewDoc && (
+        <div
+          className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 p-4"
+          onClick={() => setPreviewDoc(null)}
+        >
+          <div
+            className="relative bg-white rounded-2xl shadow-2xl w-full max-w-4xl h-[85vh] flex flex-col overflow-hidden"
+            onClick={(e) => e.stopPropagation()}
+          >
+            {/* Header */}
+            <div className="flex items-center justify-between px-5 py-3 border-b border-apple-gray-200">
+              <div>
+                <h3 className="text-sm font-semibold text-apple-black">{previewDoc.label}</h3>
+                <p className="text-xs text-apple-gray-500">{previewDoc.fileName}</p>
+              </div>
+              <button
+                onClick={() => setPreviewDoc(null)}
+                className="p-1.5 rounded-lg text-apple-gray-500 hover:text-apple-black hover:bg-apple-gray-100 transition-colors"
+              >
+                <X className="h-5 w-5" />
+              </button>
+            </div>
+            {/* iframe */}
+            <div className="flex-1 bg-apple-gray-100">
+              <iframe
+                src={`/api/documents/${previewDoc.id}`}
+                className="w-full h-full border-none"
+                title={previewDoc.label}
+              />
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

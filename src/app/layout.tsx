@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/layout/Navbar";
 import ConditionalFooter from "@/components/layout/ConditionalFooter";
+import ScrollToTop from "@/components/layout/ScrollToTop";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
 import "./globals.css";
 
@@ -22,9 +23,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full antialiased">
-      <body className="min-h-full flex flex-col font-sans">
+    <html lang="en" className="h-full antialiased" suppressHydrationWarning>
+      <body className="min-h-full flex flex-col font-sans" suppressHydrationWarning>
         <AuthSessionProvider>
+          <ScrollToTop />
           <Navbar />
           <main className="min-h-screen pt-14">{children}</main>
           <ConditionalFooter />

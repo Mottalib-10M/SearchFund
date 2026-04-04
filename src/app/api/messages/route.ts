@@ -90,6 +90,20 @@ export async function POST(request: NextRequest) {
       ? conversation.participant2
       : conversation.participant1;
 
+  // Prevent sending consecutive messages without a reply
+  const lastMessage = await prisma.message.findFirst({
+    where: { conversationId },
+    orderBy: { createdAt: "desc" },
+    select: { senderId: true },
+  });
+
+  if (lastMessage && lastMessage.senderId === session.id) {
+    return NextResponse.json(
+      { error: "Please wait for a reply before sending another message" },
+      { status: 429 }
+    );
+  }
+
   try {
     const message = await prisma.message.create({
       data: {

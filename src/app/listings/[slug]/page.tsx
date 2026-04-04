@@ -84,11 +84,19 @@ export default async function ListingPage({
   const session = await getServerSession(authOptions);
   const userId = (session?.user as Record<string, unknown> | undefined)?.id as string | undefined;
   let isSaved = false;
+  let hasInquired = false;
   if (userId) {
-    const saved = await prisma.savedListing.findUnique({
-      where: { userId_listingId: { userId, listingId: listing.id } },
-    });
+    const [saved, inquiry] = await Promise.all([
+      prisma.savedListing.findUnique({
+        where: { userId_listingId: { userId, listingId: listing.id } },
+      }),
+      prisma.inquiry.findFirst({
+        where: { userId, listingId: listing.id },
+        select: { id: true },
+      }),
+    ]);
     isSaved = !!saved;
+    hasInquired = !!inquiry;
   }
 
   const country = COUNTRIES[listing.country];
@@ -251,7 +259,7 @@ export default async function ListingPage({
           Interested in this business?
         </h2>
         <div className="mt-4">
-          <InquiryForm listingId={listing.id} />
+          <InquiryForm listingId={listing.id} alreadySent={hasInquired} />
         </div>
 
         {/* Seller mini card */}
