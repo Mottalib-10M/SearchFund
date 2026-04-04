@@ -257,24 +257,32 @@ export default async function ListingPage({
         {/* Seller mini card */}
         {(() => {
           const sellerSlug = listing.seller.sellerProfile?.slug;
+          const isLoggedIn = !!userId;
+          const sellerName = listing.seller.name ?? "Anonymous seller";
           const card = (
-            <div className={`mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3${sellerSlug ? " hover:opacity-80 transition-opacity" : ""}`}>
-              {listing.seller.image ? (
+            <div className={`mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3${isLoggedIn && sellerSlug ? " hover:opacity-80 transition-opacity" : ""}`}>
+              {listing.seller.image && isLoggedIn ? (
                 <img
                   src={listing.seller.image}
-                  alt={listing.seller.name ?? "Seller"}
+                  alt={sellerName}
                   className="w-10 h-10 rounded-full object-cover"
                 />
               ) : (
                 <div className="w-10 h-10 rounded-full bg-apple-gray-300 flex items-center justify-center text-apple-gray-500 text-sm font-medium">
-                  {(listing.seller.name ?? "S").charAt(0).toUpperCase()}
+                  {sellerName.charAt(0).toUpperCase()}
                 </div>
               )}
               <div>
                 <div className="flex items-center gap-1.5">
-                  <span className="text-sm font-medium text-apple-black">
-                    {listing.seller.name ?? "Anonymous seller"}
-                  </span>
+                  {isLoggedIn ? (
+                    <span className="text-sm font-medium text-apple-black">
+                      {sellerName}
+                    </span>
+                  ) : (
+                    <span className="text-sm font-medium text-apple-black blur-sm select-none" aria-hidden="true">
+                      {sellerName}
+                    </span>
+                  )}
                   {listing.seller.verificationStatus === "VERIFIED" && (
                     <BadgeCheck className="h-4 w-4 text-apple-accent" />
                   )}
@@ -286,6 +294,7 @@ export default async function ListingPage({
               </div>
             </div>
           );
+          if (!isLoggedIn) return card;
           return sellerSlug ? (
             <Link href={`/sellers/${sellerSlug}`}>{card}</Link>
           ) : (
