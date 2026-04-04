@@ -1,7 +1,10 @@
+export const dynamic = 'force-dynamic';
+
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Search, Users, Handshake, ArrowRight } from "lucide-react";
-import { COUNTRIES } from "@/lib/utils";
+import { COUNTRIES, formatCurrency, timeAgo } from "@/lib/utils";
+import { prisma } from "@/lib/prisma";
 import AnimatedHero from "@/components/home/AnimatedHero";
 
 export const metadata: Metadata = {
@@ -10,143 +13,94 @@ export const metadata: Metadata = {
     "The marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Browse acquisition opportunities, find investors, connect with searchers.",
 };
 
-const mockListings = [
-  {
-    id: "1",
-    title: "B2B Industrial Cleaning Services",
-    sector: "B2B Services",
-    country: "FR",
-    revenue: 2100,
-    ebitda: 420,
-    multiple: 4.5,
-    summary:
-      "Established commercial cleaning company serving industrial clients across Ile-de-France with long-term contracts and recurring revenue.",
-    daysAgo: 2,
-  },
-  {
-    id: "2",
-    title: "Healthcare Staffing Agency",
-    sector: "Healthcare",
-    country: "DE",
-    revenue: 3800,
-    ebitda: 680,
-    multiple: 5.2,
-    summary:
-      "Leading temporary staffing agency for nurses and medical professionals in Bavaria. Strong relationships with 40+ hospitals.",
-    daysAgo: 4,
-  },
-  {
-    id: "3",
-    title: "SaaS Platform for Logistics",
-    sector: "Technology",
-    country: "GB",
-    revenue: 1500,
-    ebitda: 380,
-    multiple: 7.1,
-    summary:
-      "Cloud-based fleet management and route optimization software with 200+ SME customers and 95% annual retention.",
-    daysAgo: 5,
-  },
-  {
-    id: "4",
-    title: "Specialty Food Distribution",
-    sector: "Food & Beverage",
-    country: "ES",
-    revenue: 4200,
-    ebitda: 520,
-    multiple: 4.8,
-    summary:
-      "Regional distributor of organic and specialty food products to restaurants and retailers across Catalonia and Valencia.",
-    daysAgo: 7,
-  },
-  {
-    id: "5",
-    title: "Industrial Equipment Maintenance",
-    sector: "Manufacturing",
-    country: "NL",
-    revenue: 2800,
-    ebitda: 450,
-    multiple: 5.0,
-    summary:
-      "Preventive maintenance and repair services for manufacturing equipment. Contracted with 60+ industrial plants in Randstad.",
-    daysAgo: 9,
-  },
-  {
-    id: "6",
-    title: "Private Tutoring Network",
-    sector: "Education",
-    country: "FR",
-    revenue: 1200,
-    ebitda: 280,
-    multiple: 6.2,
-    summary:
-      "Network of 150+ qualified tutors offering in-home and online tutoring across major French cities. Asset-light model.",
-    daysAgo: 12,
-  },
-];
+export default async function Home() {
+  let recentListings: {
+    id: string;
+    slug: string;
+    title: string;
+    sector: string;
+    country: string;
+    revenue: number | null;
+    ebitda: number | null;
+    askingMultiple: number | null;
+    summary: string | null;
+    publishedAt: Date | null;
+  }[] = [];
 
-
-function formatRevenue(amount: number): string {
-  if (amount >= 1000) {
-    return `€${(amount / 1000).toFixed(1)}M`;
+  try {
+    recentListings = await prisma.listing.findMany({
+      where: { status: "ACTIVE" },
+      orderBy: { publishedAt: "desc" },
+      take: 6,
+      select: {
+        id: true,
+        slug: true,
+        title: true,
+        sector: true,
+        country: true,
+        revenue: true,
+        ebitda: true,
+        askingMultiple: true,
+        summary: true,
+        publishedAt: true,
+      },
+    });
+  } catch {
+    // DB not available — show empty
   }
-  return `€${amount}K`;
-}
-
-function formatEbitda(amount: number): string {
-  return `€${amount}K`;
-}
-
-export default function Home() {
   return (
     <div>
       {/* ── HERO ── */}
       <AnimatedHero />
 
       {/* ── RECENTLY LISTED ── */}
-      <section className="py-20 max-w-6xl mx-auto px-6">
-        <h2 className="text-3xl font-semibold text-apple-black">
-          Recently listed
-        </h2>
+      {recentListings.length > 0 && (
+        <section className="py-20 max-w-6xl mx-auto px-6">
+          <h2 className="text-3xl font-semibold text-apple-black">
+            Recently listed
+          </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
-          {mockListings.map((listing) => (
-            <Link
-              key={listing.id}
-              href={`/listings/${listing.id}`}
-              className="bg-white rounded-xl p-6 hover:bg-apple-gray-100/50 transition-colors border border-apple-gray-300/40"
-            >
-              <span className="text-xs bg-apple-gray-100 text-apple-gray-700 rounded-full px-2.5 py-0.5">
-                {listing.sector}
-              </span>
-              <h3 className="text-base font-semibold text-apple-black mt-2">
-                {listing.title}
-              </h3>
-              <p className="text-sm text-apple-gray-700 mt-1 financial">
-                Revenue {formatRevenue(listing.revenue)} &middot; EBITDA{" "}
-                {formatEbitda(listing.ebitda)} &middot; {listing.multiple.toFixed(1)}x
-              </p>
-              <p className="text-sm text-apple-gray-500 mt-1 line-clamp-2">
-                {listing.summary}
-              </p>
-              <p className="text-xs text-apple-gray-500 mt-3">
-                {COUNTRIES[listing.country]?.flag}{" "}
-                {COUNTRIES[listing.country]?.name} &middot; Listed{" "}
-                {listing.daysAgo === 1
-                  ? "1 day ago"
-                  : `${listing.daysAgo} days ago`}
-              </p>
-            </Link>
-          ))}
-        </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+            {recentListings.map((listing) => (
+              <Link
+                key={listing.id}
+                href={`/listings/${listing.slug}`}
+                className="bg-white rounded-xl p-6 hover:bg-apple-gray-100/50 transition-colors border border-apple-gray-300/40"
+              >
+                <span className="text-xs bg-apple-gray-100 text-apple-gray-700 rounded-full px-2.5 py-0.5">
+                  {listing.sector}
+                </span>
+                <h3 className="text-base font-semibold text-apple-black mt-2">
+                  {listing.title}
+                </h3>
+                <p className="text-sm text-apple-gray-700 mt-1 financial">
+                  {listing.revenue != null && <>Revenue {formatCurrency(listing.revenue)}</>}
+                  {listing.revenue != null && listing.ebitda != null && <> &middot; </>}
+                  {listing.ebitda != null && <>EBITDA {formatCurrency(listing.ebitda)}</>}
+                  {listing.askingMultiple != null && <> &middot; {listing.askingMultiple.toFixed(1)}x</>}
+                </p>
+                {listing.summary && (
+                  <p className="text-sm text-apple-gray-500 mt-1 line-clamp-2">
+                    {listing.summary}
+                  </p>
+                )}
+                <p className="text-xs text-apple-gray-500 mt-3">
+                  {COUNTRIES[listing.country]?.flag}{" "}
+                  {COUNTRIES[listing.country]?.name}
+                  {listing.publishedAt && <> &middot; Listed {timeAgo(listing.publishedAt)}</>}
+                </p>
+              </Link>
+            ))}
+          </div>
 
-        <Link
-          href="/listings"
-          className="text-apple-accent text-sm font-medium hover:underline mt-8 block"
-        >
-          View all listings &rarr;
-        </Link>
-      </section>
+          <Link
+            href="/listings"
+            className="text-apple-accent text-sm font-medium hover:underline mt-8 block"
+          >
+            View all listings &rarr;
+          </Link>
+        </section>
+      )}
 
       {/* ── HOW IT WORKS ── */}
       <section className="py-20 bg-apple-gray-100">
