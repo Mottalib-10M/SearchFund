@@ -17,10 +17,14 @@ export default function MessageThread({
   messages: Message[];
   currentUserId: string;
 }) {
+  const containerRef = useRef<HTMLDivElement>(null);
   const endRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    endRef.current?.scrollIntoView({ behavior: "smooth" });
+    // Scroll only within the messages container, not the whole page
+    if (containerRef.current) {
+      containerRef.current.scrollTop = containerRef.current.scrollHeight;
+    }
   }, [messages.length]);
 
   if (messages.length === 0) {
@@ -34,7 +38,7 @@ export default function MessageThread({
   }
 
   return (
-    <div className="flex-1 overflow-y-auto p-4 space-y-3">
+    <div ref={containerRef} className="flex-1 min-h-0 overflow-y-auto p-4 space-y-3">
       {messages.map((msg) => {
         const isMine = msg.senderId === currentUserId;
         return (

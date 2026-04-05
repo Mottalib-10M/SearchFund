@@ -254,10 +254,10 @@ export async function POST(request: NextRequest) {
         .map((h) => h.trim())
     : [];
 
-  // Determine status
+  // Determine status — publish directly when submitted
   const statusInput = typeof body.status === "string" ? body.status : "DRAFT";
   const status =
-    statusInput === "UNDER_REVIEW" ? "UNDER_REVIEW" : "DRAFT";
+    statusInput === "UNDER_REVIEW" || statusInput === "ACTIVE" ? "ACTIVE" : "DRAFT";
 
   try {
     const listing = await prisma.listing.create({
@@ -283,7 +283,7 @@ export async function POST(request: NextRequest) {
         sellerFinancing,
         timeline,
         status,
-        publishedAt: status === "UNDER_REVIEW" ? new Date() : null,
+        publishedAt: status === "ACTIVE" ? new Date() : null,
       },
     });
 

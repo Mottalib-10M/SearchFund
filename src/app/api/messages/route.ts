@@ -48,7 +48,57 @@ export async function GET(request: NextRequest) {
     data: { readAt: new Date() },
   });
 
-  return NextResponse.json({ messages });
+  // Fetch the other participant's profile info (name, image, role, slug)
+  const otherId =
+    conversation.participant1 === session.id
+      ? conversation.participant2
+      : conversation.participant1;
+
+  const otherUserData = await prisma.user.findUnique({
+    where: { id: otherId },
+    select: {
+      id: true,
+      name: true,
+      image: true,
+      role: true,
+      searcherProfile: { select: { slug: true } },
+      investorProfile: { select: { slug: true } },
+      sellerProfile: { select: { slug: true } },
+    },
+  });
+
+  let otherUser = null;
+  if (otherUserData) {
+    let profileSlug: string | null = null;
+    if (otherUserData.role === "SEARCHER") profileSlug = otherUserData.searcherProfile?.slug ?? null;
+    else if (otherUserData.role === "INVESTOR") profileSlug = otherUserData.investorProfile?.slug ?? null;
+    else if (otherUserData.role === "SELLER") profileSlug = otherUserData.sellerProfile?.slug ?? null;
+
+    otherUser = {
+      id: otherUserData.id,
+      name: otherUserData.name,
+      image: otherUserData.image,
+      role: otherUserData.role,
+      profileSlug,
+    };
+  }
+
+  // Detect listing context from first message (inquiry pattern)
+  let listing = null;
+  if (messages.length > 0) {
+    const firstContent = messages[0].content;
+    const match = firstContent.match(/^\[Inquiry about "(.+?)"\]/);
+    if (match) {
+      const listingTitle = match[1];
+      const found = await prisma.listing.findFirst({
+        where: { title: listingTitle },
+        select: { slug: true, title: true },
+      });
+      if (found) listing = found;
+    }
+  }
+
+  return NextResponse.json({ messages, otherUser, listing });
 }
 
 // POST /api/messages — send a message
@@ -90,18 +140,29 @@ export async function POST(request: NextRequest) {
       ? conversation.participant2
       : conversation.participant1;
 
-  // Prevent sending consecutive messages without a reply
-  const lastMessage = await prisma.message.findFirst({
+  // Check if both participants have exchanged messages (conversation accepted)
+  const distinctSenders = await prisma.message.findMany({
     where: { conversationId },
-    orderBy: { createdAt: "desc" },
+    distinct: ["senderId"],
     select: { senderId: true },
   });
 
-  if (lastMessage && lastMessage.senderId === session.id) {
-    return NextResponse.json(
-      { error: "Please wait for a reply before sending another message" },
-      { status: 429 }
-    );
+  const conversationUnlocked = distinctSenders.length >= 2;
+
+  // Only restrict consecutive messages before the conversation is unlocked
+  if (!conversationUnlocked) {
+    const lastMessage = await prisma.message.findFirst({
+      where: { conversationId },
+      orderBy: { createdAt: "desc" },
+      select: { senderId: true },
+    });
+
+    if (lastMessage && lastMessage.senderId === session.id) {
+      return NextResponse.json(
+        { error: "Please wait for a reply before sending another message" },
+        { status: 429 }
+      );
+    }
   }
 
   try {

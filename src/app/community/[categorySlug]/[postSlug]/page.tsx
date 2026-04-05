@@ -21,7 +21,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       select: { title: true },
     });
     if (!post) return { title: "Post not found" };
-    return { title: `${post.title} — Community — SearchFundMarket` };
+    return {
+      title: `${post.title} — ETA Community | SearchFundMarket`,
+      description: `Read and discuss: ${post.title}. Join the ETA community conversation on SearchFundMarket.`,
+      openGraph: {
+        title: `${post.title} — SearchFundMarket Community`,
+        description: `Join the discussion on "${post.title}". Community insights from search fund entrepreneurs and investors.`,
+      },
+    };
   } catch {
     return { title: "Community — SearchFundMarket" };
   }

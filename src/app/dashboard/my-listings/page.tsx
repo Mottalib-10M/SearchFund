@@ -4,15 +4,16 @@ import { prisma } from "@/lib/prisma";
 import { redirect } from "next/navigation";
 import { timeAgo, formatCurrency } from "@/lib/utils";
 import Link from "next/link";
-import { FileText } from "lucide-react";
+import { FileText, Eye, Pencil } from "lucide-react";
 import Button from "@/components/ui/Button";
 import type { Metadata } from "next";
 
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "My Listings — SearchFundMarket",
-  description: "Manage your business listings on SearchFundMarket.",
+  title: "My Listings — Manage Your Businesses on SearchFundMarket",
+  description:
+    "Manage your business listings on SearchFundMarket. Edit details, track saves and inquiries, publish updates, and connect with qualified search fund buyers.",
 };
 
 const STATUS_STYLES: Record<string, string> = {
@@ -78,10 +79,9 @@ export default async function MyListingsPage() {
       ) : (
         <div className="mt-8 space-y-4">
           {listings.map((listing) => (
-            <Link
+            <div
               key={listing.id}
-              href={`/listings/${listing.slug}`}
-              className="block bg-white border border-apple-gray-100 rounded-xl p-5 hover:border-apple-gray-300 transition-colors"
+              className="bg-white border border-apple-gray-100 rounded-xl p-5 hover:border-apple-gray-300 transition-colors"
             >
               <div className="flex items-start justify-between gap-4">
                 <div className="min-w-0">
@@ -92,13 +92,15 @@ export default async function MyListingsPage() {
                     {listing.sector} &middot; {listing.country}
                   </p>
                 </div>
-                <span
-                  className={`shrink-0 rounded-full px-2.5 py-0.5 text-xs font-medium ${
-                    STATUS_STYLES[listing.status] ?? STATUS_STYLES.DRAFT
-                  }`}
-                >
-                  {listing.status.replace(/_/g, " ")}
-                </span>
+                <div className="flex items-center gap-2 shrink-0">
+                  <span
+                    className={`rounded-full px-2.5 py-0.5 text-xs font-medium ${
+                      STATUS_STYLES[listing.status] ?? STATUS_STYLES.DRAFT
+                    }`}
+                  >
+                    {listing.status.replace(/_/g, " ")}
+                  </span>
+                </div>
               </div>
               <div className="mt-3 flex items-center gap-6 text-sm text-apple-gray-500">
                 {listing.revenue != null && (
@@ -111,7 +113,23 @@ export default async function MyListingsPage() {
                 <span>{listing._count.inquiries} inquiries</span>
                 <span>{timeAgo(listing.createdAt)}</span>
               </div>
-            </Link>
+              <div className="mt-4 flex items-center gap-3">
+                <Link
+                  href={`/listings/${listing.slug}`}
+                  className="inline-flex items-center gap-1.5 rounded-full border border-apple-gray-300 px-4 py-1.5 text-xs font-medium text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
+                >
+                  <Eye size={14} />
+                  View
+                </Link>
+                <Link
+                  href={`/dashboard/my-listings/${listing.id}/edit`}
+                  className="inline-flex items-center gap-1.5 rounded-full bg-apple-accent text-white px-4 py-1.5 text-xs font-medium hover:bg-apple-accent-hover transition-colors"
+                >
+                  <Pencil size={14} />
+                  Edit
+                </Link>
+              </div>
+            </div>
           ))}
         </div>
       )}

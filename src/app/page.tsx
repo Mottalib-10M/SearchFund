@@ -8,9 +8,14 @@ import { prisma } from "@/lib/prisma";
 import AnimatedHero from "@/components/home/AnimatedHero";
 
 export const metadata: Metadata = {
-  title: "SearchFundMarket — Acquisition Marketplace for Search Funds",
+  title: "Search Fund Marketplace — Buy & Sell SMEs in Europe",
   description:
-    "The marketplace connecting search fund entrepreneurs, investors, and business sellers worldwide. Browse acquisition opportunities, find investors, connect with searchers.",
+    "Browse acquisition opportunities, connect with search fund investors, and list your business. The ETA marketplace for searchers, investors, and sellers.",
+  openGraph: {
+    title: "SearchFundMarket — The Marketplace for Search Fund Acquisitions in Europe",
+    description:
+      "Find your next acquisition, connect with ETA investors, or list your business for sale. Join the leading search fund marketplace in Europe.",
+  },
 };
 
 export default async function Home() {
@@ -134,55 +139,6 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* ── RECENTLY LISTED ── */}
-      {recentListings.length > 0 && (
-        <section className="py-10 md:py-20 max-w-6xl mx-auto px-6">
-          <h2 className="text-3xl font-semibold text-apple-black">
-            Recently listed
-          </h2>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
-            {recentListings.map((listing) => (
-              <Link
-                key={listing.id}
-                href={`/listings/${listing.slug}`}
-                className="bg-white rounded-xl p-6 hover:bg-apple-gray-100/50 transition-colors border border-apple-gray-300/40"
-              >
-                <span className="text-xs bg-apple-gray-100 text-apple-gray-700 rounded-full px-2.5 py-0.5">
-                  {listing.sector}
-                </span>
-                <h3 className="text-base font-semibold text-apple-black mt-2">
-                  {listing.title}
-                </h3>
-                <p className="text-sm text-apple-gray-700 mt-1 financial">
-                  {listing.revenue != null && <>Revenue {formatCurrency(listing.revenue)}</>}
-                  {listing.revenue != null && listing.ebitda != null && <> &middot; </>}
-                  {listing.ebitda != null && <>EBITDA {formatCurrency(listing.ebitda)}</>}
-                  {listing.askingMultiple != null && <> &middot; {listing.askingMultiple.toFixed(1)}x</>}
-                </p>
-                {listing.summary && (
-                  <p className="text-sm text-apple-gray-500 mt-1 line-clamp-2">
-                    {listing.summary}
-                  </p>
-                )}
-                <p className="text-xs text-apple-gray-500 mt-3">
-                  {COUNTRIES[listing.country]?.flag}{" "}
-                  {COUNTRIES[listing.country]?.name}
-                  {listing.publishedAt && <> &middot; Listed {timeAgo(listing.publishedAt)}</>}
-                </p>
-              </Link>
-            ))}
-          </div>
-
-          <Link
-            href="/listings"
-            className="text-apple-accent text-sm font-medium hover:underline mt-8 block"
-          >
-            View all listings &rarr;
-          </Link>
-        </section>
-      )}
-
       {/* ── HOW IT WORKS ── */}
       <section className="py-20 bg-apple-gray-100">
         <div className="max-w-5xl mx-auto px-6 text-center">
@@ -236,6 +192,55 @@ export default async function Home() {
           </div>
         </div>
       </section>
+
+      {/* ── RECENTLY LISTED ── */}
+      {recentListings.length > 0 && (
+        <section className="py-10 md:py-20 max-w-6xl mx-auto px-6">
+          <h2 className="text-3xl font-semibold text-apple-black">
+            Recently listed
+          </h2>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
+            {recentListings.map((listing) => (
+              <Link
+                key={listing.id}
+                href={`/listings/${listing.slug}`}
+                className="bg-white rounded-xl p-6 hover:bg-apple-gray-100/50 transition-colors border border-apple-gray-300/40"
+              >
+                <span className="text-xs bg-apple-gray-100 text-apple-gray-700 rounded-full px-2.5 py-0.5">
+                  {listing.sector}
+                </span>
+                <h3 className="text-base font-semibold text-apple-black mt-2">
+                  {listing.title}
+                </h3>
+                <p className="text-sm text-apple-gray-700 mt-1 financial">
+                  {listing.revenue != null && <>Revenue {formatCurrency(listing.revenue)}</>}
+                  {listing.revenue != null && listing.ebitda != null && <> &middot; </>}
+                  {listing.ebitda != null && <>EBITDA {formatCurrency(listing.ebitda)}</>}
+                  {listing.askingMultiple != null && <> &middot; {listing.askingMultiple.toFixed(1)}x</>}
+                </p>
+                {listing.summary && (
+                  <p className="text-sm text-apple-gray-500 mt-1 line-clamp-2">
+                    {listing.summary}
+                  </p>
+                )}
+                <p className="text-xs text-apple-gray-500 mt-3">
+                  {COUNTRIES[listing.country]?.flag}{" "}
+                  {COUNTRIES[listing.country]?.name}
+                  {listing.publishedAt && <> &middot; Listed {timeAgo(listing.publishedAt)}</>}
+                </p>
+              </Link>
+            ))}
+          </div>
+
+          <Link
+            href="/listings"
+            className="text-apple-accent text-sm font-medium hover:underline mt-8 block"
+          >
+            View all listings &rarr;
+          </Link>
+        </section>
+      )}
 
       {/* ── NUMBERS ── */}
       <section className="py-16 text-center border-t border-apple-gray-100">

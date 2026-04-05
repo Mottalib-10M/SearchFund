@@ -2,9 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Learn about ETA — SearchFundMarket",
+  title: "Learn About ETA — Guides & Resources for Search Funds",
   description:
-    "Guides, reports, and resources on Entrepreneurship Through Acquisition in Europe.",
+    "Comprehensive guides on Entrepreneurship Through Acquisition: search fund models, returns data, due diligence, and European market analysis. Start learning.",
+  openGraph: {
+    title: "Learn About ETA — Guides, Data & Resources for Search Funds",
+    description:
+      "From Stanford studies to INSEAD research — explore the definitive collection of guides and resources on Entrepreneurship Through Acquisition.",
+  },
 };
 
 const articles = [
@@ -17,6 +22,30 @@ const articles = [
     tag: "Guide",
   },
   {
+    title: "Stanford 2024 Search Fund Study: Key Takeaways",
+    slug: "stanford-2024-study",
+    description:
+      "A deep dive into the 2024 Stanford GSB study covering 681 search funds, 35% IRR, and the latest trends shaping the industry.",
+    readTime: "10 min read",
+    tag: "Research",
+  },
+  {
+    title: "Search Fund Returns & Performance Data",
+    slug: "search-fund-returns",
+    description:
+      "Analysis of search fund performance data, IRR benchmarks, and success factors from 40 years of data.",
+    readTime: "8 min read",
+    tag: "Data",
+  },
+  {
+    title: "ETA in Europe: The Opportunity",
+    slug: "eta-europe",
+    description:
+      "Why Europe is the fastest-growing market for search funds, with millions of SMEs facing succession challenges.",
+    readTime: "10 min read",
+    tag: "Guide",
+  },
+  {
     title: "ETA in France: How to Acquire a Business",
     slug: "eta-france",
     description:
@@ -25,7 +54,7 @@ const articles = [
     tag: "Guide",
   },
   {
-    title: "ETA in Germany: Complete Guide",
+    title: "ETA in Germany: The Mittelstand Opportunity",
     slug: "eta-germany",
     description:
       "Navigate the German Mittelstand: how to find, acquire, and operate SMEs in Europe's largest economy.",
@@ -36,25 +65,49 @@ const articles = [
     title: "How to Find Search Fund Investors",
     slug: "finding-investors",
     description:
-      "Strategies for connecting with investors who back search fund entrepreneurs.",
+      "Strategies for connecting with investors who back search fund entrepreneurs across Europe and the US.",
     readTime: "10 min read",
     tag: "Guide",
   },
   {
-    title: "Search Fund Returns & Performance Data",
-    slug: "search-fund-returns",
+    title: "Self-Funded Search vs. Traditional Search Fund",
+    slug: "self-funded-vs-traditional",
     description:
-      "Analysis of search fund performance data, IRR benchmarks, and success factors.",
-    readTime: "8 min read",
-    tag: "Data",
+      "Compare the two main ETA models: economics, risk, flexibility, and which path is right for you.",
+    readTime: "9 min read",
+    tag: "Guide",
   },
   {
     title: "ETA Due Diligence Checklist",
     slug: "due-diligence-checklist",
     description:
-      "A practical checklist covering financial, legal, operational, and commercial due diligence.",
+      "A practical checklist covering financial, legal, operational, and commercial due diligence for acquisitions.",
     readTime: "11 min read",
     tag: "Checklist",
+  },
+  {
+    title: "Search Fund CEO: The First 100 Days",
+    slug: "first-100-days",
+    description:
+      "What to do in the critical first 100 days after acquiring a business — from team alignment to quick wins.",
+    readTime: "9 min read",
+    tag: "Operations",
+  },
+  {
+    title: "Essential ETA Reading List",
+    slug: "eta-reading-list",
+    description:
+      "The must-read books, studies, and resources every aspiring search fund entrepreneur should know.",
+    readTime: "6 min read",
+    tag: "Resources",
+  },
+  {
+    title: "How to Value a Small Business for Acquisition",
+    slug: "business-valuation",
+    description:
+      "Valuation methods for SME acquisitions: EBITDA multiples, DCF, asset-based approaches, and common pitfalls.",
+    readTime: "12 min read",
+    tag: "Guide",
   },
 ];
 

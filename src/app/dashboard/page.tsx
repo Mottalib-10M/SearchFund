@@ -9,8 +9,9 @@ import type { Metadata } from "next";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Dashboard — SearchFundMarket",
-  description: "Your personal dashboard on SearchFundMarket.",
+  title: "Your Dashboard — SearchFundMarket Acquisition Platform",
+  description:
+    "Your SearchFundMarket dashboard. Track saved listings, manage business listings, monitor messages and connections, and stay updated on ETA opportunities.",
 };
 
 export default async function DashboardPage() {
@@ -56,6 +57,7 @@ export default async function DashboardPage() {
   // Role-specific queries
   let roleStats: { label: string; value: string; detail: string | null; href: string }[] = [];
   let quickActions: { label: string; description: string; href: string }[] = [];
+  let showCreateListingBanner = false;
 
   if (userRole === "SEARCHER") {
     const [savedCount, searcherProfile] = await Promise.all([
@@ -109,17 +111,7 @@ export default async function DashboardPage() {
       }),
     ]);
 
-    const activeSearchers = await prisma.searcherProfile.count({
-      where: { isPublic: true, searchStatus: "ACTIVELY_SEARCHING" },
-    });
-
     roleStats = [
-      {
-        label: "Active searchers",
-        value: String(activeSearchers),
-        detail: "currently looking",
-        href: "/searchers?searchStatus=ACTIVELY_SEARCHING",
-      },
       {
         label: "Saved listings",
         value: String(savedCount),
@@ -131,6 +123,12 @@ export default async function DashboardPage() {
         value: String(connectionCount),
         detail: pendingConnections > 0 ? `${pendingConnections} pending` : null,
         href: "/dashboard/connections",
+      },
+      {
+        label: "Unread messages",
+        value: String(unreadMessages),
+        detail: null,
+        href: "/dashboard/messages",
       },
     ];
 
@@ -191,11 +189,7 @@ export default async function DashboardPage() {
     ];
 
     if (listingCount === 0) {
-      quickActions.unshift({
-        label: "List your first business",
-        description: "Reach qualified buyers on the platform",
-        href: "/listings/new",
-      });
+      showCreateListingBanner = true;
     }
   } else {
     // Fallback for users without a role yet
@@ -233,6 +227,28 @@ export default async function DashboardPage() {
           </Link>
         ))}
       </div>
+
+      {/* Create listing banner for sellers with no listings */}
+      {showCreateListingBanner && (
+        <Link
+          href="/listings/new"
+          className="mt-8 block rounded-2xl bg-gradient-to-r from-apple-seller/10 to-apple-seller/5 border-2 border-apple-seller/30 p-6 hover:border-apple-seller/60 transition-all group"
+        >
+          <div className="flex items-center justify-between">
+            <div>
+              <p className="text-lg font-semibold text-apple-black group-hover:text-apple-seller transition-colors">
+                Create your first listing
+              </p>
+              <p className="text-sm text-apple-gray-500 mt-1">
+                You haven&apos;t listed a business yet. Publish your listing to reach qualified buyers and search fund entrepreneurs.
+              </p>
+            </div>
+            <span className="shrink-0 ml-4 bg-apple-seller text-white rounded-full px-5 py-2.5 text-sm font-medium group-hover:bg-apple-seller/90 transition-colors">
+              Create listing
+            </span>
+          </div>
+        </Link>
+      )}
 
       {/* Quick actions */}
       <section className="mt-10">

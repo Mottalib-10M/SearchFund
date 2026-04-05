@@ -10,9 +10,14 @@ import ListingCard from "@/components/listings/ListingCard";
 import ListingFilters from "@/components/listings/ListingFilters";
 
 export const metadata: Metadata = {
-  title: "Acquisition Opportunities \u2014 SearchFundMarket",
+  title: "Businesses for Sale in Europe — Search Fund Opportunities",
   description:
-    "Browse businesses for sale across Europe. Filter by sector, country, EBITDA, and revenue to find your next acquisition.",
+    "Browse SMEs for sale across Europe. Filter by sector, country, EBITDA, and revenue to find your next search fund acquisition. New listings added weekly.",
+  openGraph: {
+    title: "Acquisition Opportunities — Browse Businesses for Sale in Europe",
+    description:
+      "Discover vetted SME acquisition opportunities across Europe. Filter by sector, country, and financials to find your ideal search fund deal.",
+  },
 };
 
 const PAGE_SIZE = 20;

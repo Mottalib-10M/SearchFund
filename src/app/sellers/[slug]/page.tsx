@@ -84,11 +84,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const name = seller.user.name || "Seller";
+  const description =
+    seller.headline ||
+    `${name} is a business seller on SearchFundMarket. View active listings.`;
   return {
-    title: `${name} — Business Seller — SearchFundMarket`,
-    description:
-      seller.headline ||
-      `${name} is a business seller on SearchFundMarket.`,
+    title: `${name} — Business Seller | SearchFundMarket`,
+    description,
+    openGraph: {
+      title: `${name} — Business Seller on SearchFundMarket`,
+      description: seller.headline || `Browse ${name}'s business listings on SearchFundMarket.`,
+    },
   };
 }
 

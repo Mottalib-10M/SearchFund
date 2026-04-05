@@ -86,12 +86,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const name = investor.firmName || investor.user.name || "Investor";
+  const description =
+    investor.headline ||
+    investor.investmentThesis?.slice(0, 160) ||
+    `${name} is a search fund investor on SearchFundMarket.`;
   return {
-    title: `${name} \u2014 Search Fund Investor \u2014 SearchFundMarket`,
-    description:
-      investor.headline ||
-      investor.investmentThesis?.slice(0, 160) ||
-      `${name} is a search fund investor on SearchFundMarket.`,
+    title: `${name} — Search Fund Investor | SearchFundMarket`,
+    description,
+    openGraph: {
+      title: `${name} — Search Fund Investor on SearchFundMarket`,
+      description: investor.headline || `Explore ${name}'s investment criteria and value-add on SearchFundMarket.`,
+    },
   };
 }
 

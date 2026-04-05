@@ -70,6 +70,26 @@ const INVESTOR_TYPES = [
   { value: "ACCELERATOR", label: "Accelerator" },
 ];
 
+const COMPANY_ROLES = [
+  "Founder & CEO",
+  "Co-Founder",
+  "CEO",
+  "President",
+  "Managing Director",
+  "General Manager",
+  "CFO",
+  "COO",
+  "Owner",
+  "Partner",
+  "Shareholder",
+  "Board Member",
+  "Business Broker",
+  "M&A Advisor",
+  "Accountant",
+  "Legal Representative",
+  "Other",
+];
+
 const VALUE_ADD_OPTIONS = [
   "Board seat",
   "Mentoring",
@@ -299,6 +319,9 @@ function OnboardingContent() {
                     </button>
                   ))}
                 </div>
+                <p className="text-xs text-apple-gray-500 mt-2">
+                  This choice is permanent and cannot be changed after account creation.
+                </p>
               </div>
 
               <div>
@@ -737,14 +760,17 @@ function OnboardingContent() {
                 <label htmlFor="ob-company-role" className={labelClasses}>
                   Company role
                 </label>
-                <input
+                <select
                   id="ob-company-role"
-                  type="text"
                   value={companyRole}
                   onChange={(e) => setCompanyRole(e.target.value)}
-                  placeholder="e.g. Founder & CEO, Owner, Managing Director"
                   className={inputClasses}
-                />
+                >
+                  <option value="">Select your role</option>
+                  {COMPANY_ROLES.map((r) => (
+                    <option key={r} value={r}>{r}</option>
+                  ))}
+                </select>
               </div>
             </div>
 

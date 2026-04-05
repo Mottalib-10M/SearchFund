@@ -6,9 +6,14 @@ import { ChevronRight } from "lucide-react";
 import { prisma } from "@/lib/prisma";
 
 export const metadata: Metadata = {
-  title: "Community — SearchFundMarket",
+  title: "ETA Community Forum — Search Fund Tips & Discussions",
   description:
-    "Discuss deals, strategy, and ETA best practices with the search fund community.",
+    "Join the ETA community forum. Discuss deals, strategy, due diligence, and best practices with search fund entrepreneurs and investors from across Europe.",
+  openGraph: {
+    title: "SearchFundMarket Community — ETA Forum & Discussions",
+    description:
+      "Connect with the ETA community. Share insights on deals, strategy, and search fund best practices with entrepreneurs and investors.",
+  },
 };
 
 export default async function CommunityPage() {

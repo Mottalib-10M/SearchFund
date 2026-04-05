@@ -36,9 +36,12 @@ export async function generateMetadata({
     const description =
       listing.metaDescription || listing.summary || `${listing.title} — ${listing.sector} in ${country?.name ?? listing.country}`;
     return {
-      title: `${listing.title} — SearchFundMarket`,
+      title: `${listing.title} — Business for Sale | SearchFundMarket`,
       description,
-      openGraph: { title: listing.title, description },
+      openGraph: {
+        title: `${listing.title} — Acquisition Opportunity on SearchFundMarket`,
+        description: listing.summary || `${listing.sector} business for sale in ${country?.name ?? listing.country}. View financials and connect with the seller on SearchFundMarket.`,
+      },
     };
   } catch {
     return { title: "Listing — SearchFundMarket" };
@@ -252,64 +255,89 @@ export default async function ListingPage({
       </section>
 
       {/* ----------------------------------------------------------------- */}
-      {/* Contact the Seller                                                */}
+      {/* Contact the Seller / Owner actions                                */}
       {/* ----------------------------------------------------------------- */}
-      <section className="mt-12 bg-apple-gray-100 rounded-2xl p-8">
-        <h2 className="text-xl font-semibold text-apple-black">
-          Interested in this business?
-        </h2>
-        <div className="mt-4">
-          <InquiryForm listingId={listing.id} alreadySent={hasInquired} />
-        </div>
+      {userId === listing.seller.id ? (
+        <section className="mt-12 bg-apple-gray-100 rounded-2xl p-8">
+          <h2 className="text-xl font-semibold text-apple-black">
+            Your listing
+          </h2>
+          <p className="text-sm text-apple-gray-500 mt-1">
+            This is your listing. You can edit it or manage it from your dashboard.
+          </p>
+          <div className="flex gap-3 mt-4">
+            <Link
+              href={`/dashboard/my-listings/${listing.id}/edit`}
+              className="inline-flex items-center gap-2 bg-apple-accent text-white rounded-full px-5 py-2.5 text-sm font-medium hover:bg-apple-accent-hover transition-colors"
+            >
+              Edit listing
+            </Link>
+            <Link
+              href="/dashboard/my-listings"
+              className="inline-flex items-center gap-2 bg-white text-apple-gray-700 border border-apple-gray-300 rounded-full px-5 py-2.5 text-sm font-medium hover:bg-apple-gray-100 transition-colors"
+            >
+              My listings
+            </Link>
+          </div>
+        </section>
+      ) : (
+        <section className="mt-12 bg-apple-gray-100 rounded-2xl p-8">
+          <h2 className="text-xl font-semibold text-apple-black">
+            Interested in this business?
+          </h2>
+          <div className="mt-4">
+            <InquiryForm listingId={listing.id} alreadySent={hasInquired} />
+          </div>
 
-        {/* Seller mini card */}
-        {(() => {
-          const sellerSlug = listing.seller.sellerProfile?.slug;
-          const isLoggedIn = !!userId;
-          const sellerName = listing.seller.name ?? "Anonymous seller";
-          const card = (
-            <div className={`mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3${isLoggedIn && sellerSlug ? " hover:opacity-80 transition-opacity" : ""}`}>
-              {listing.seller.image && isLoggedIn ? (
-                <img
-                  src={listing.seller.image}
-                  alt={sellerName}
-                  className="w-10 h-10 rounded-full object-cover"
-                />
-              ) : (
-                <div className="w-10 h-10 rounded-full bg-apple-gray-300 flex items-center justify-center text-apple-gray-500 text-sm font-medium">
-                  {sellerName.charAt(0).toUpperCase()}
+          {/* Seller mini card */}
+          {(() => {
+            const sellerSlug = listing.seller.sellerProfile?.slug;
+            const isLoggedIn = !!userId;
+            const sellerName = listing.seller.name ?? "Anonymous seller";
+            const card = (
+              <div className={`mt-8 pt-6 border-t border-apple-gray-300 flex items-center gap-3${isLoggedIn && sellerSlug ? " hover:opacity-80 transition-opacity" : ""}`}>
+                {listing.seller.image && isLoggedIn ? (
+                  <img
+                    src={listing.seller.image}
+                    alt={sellerName}
+                    className="w-10 h-10 rounded-full object-cover"
+                  />
+                ) : (
+                  <div className="w-10 h-10 rounded-full bg-apple-gray-300 flex items-center justify-center text-apple-gray-500 text-sm font-medium">
+                    {sellerName.charAt(0).toUpperCase()}
+                  </div>
+                )}
+                <div>
+                  <div className="flex items-center gap-1.5">
+                    {isLoggedIn ? (
+                      <span className="text-sm font-medium text-apple-black">
+                        {sellerName}
+                      </span>
+                    ) : (
+                      <span className="text-sm font-medium text-apple-black blur-sm select-none" aria-hidden="true">
+                        {sellerName}
+                      </span>
+                    )}
+                    {listing.seller.verificationStatus === "VERIFIED" && (
+                      <BadgeCheck className="h-4 w-4 text-apple-accent" />
+                    )}
+                  </div>
+                  <span className="text-xs text-apple-gray-500">
+                    Member since{" "}
+                    {new Date(listing.seller.createdAt).getFullYear()}
+                  </span>
                 </div>
-              )}
-              <div>
-                <div className="flex items-center gap-1.5">
-                  {isLoggedIn ? (
-                    <span className="text-sm font-medium text-apple-black">
-                      {sellerName}
-                    </span>
-                  ) : (
-                    <span className="text-sm font-medium text-apple-black blur-sm select-none" aria-hidden="true">
-                      {sellerName}
-                    </span>
-                  )}
-                  {listing.seller.verificationStatus === "VERIFIED" && (
-                    <BadgeCheck className="h-4 w-4 text-apple-accent" />
-                  )}
-                </div>
-                <span className="text-xs text-apple-gray-500">
-                  Member since{" "}
-                  {new Date(listing.seller.createdAt).getFullYear()}
-                </span>
               </div>
-            </div>
-          );
-          if (!isLoggedIn) return card;
-          return sellerSlug ? (
-            <Link href={`/sellers/${sellerSlug}`}>{card}</Link>
-          ) : (
-            card
-          );
-        })()}
-      </section>
+            );
+            if (!isLoggedIn) return card;
+            return sellerSlug ? (
+              <Link href={`/sellers/${sellerSlug}`}>{card}</Link>
+            ) : (
+              card
+            );
+          })()}
+        </section>
+      )}
     </div>
   );
 }

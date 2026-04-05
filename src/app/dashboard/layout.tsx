@@ -8,6 +8,7 @@ import {
   FileText,
   FolderOpen,
   Heart,
+  User,
   Users,
   MessageSquare,
   Bell,
@@ -19,6 +20,7 @@ import { useSession, signOut } from "next-auth/react";
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
+  { href: "/dashboard/settings/profile", label: "Profile", icon: User },
   { href: "/dashboard/saved", label: "Saved", icon: Heart },
   { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
   { href: "/dashboard/connections", label: "Connections", icon: Users },
@@ -110,7 +112,7 @@ export default function DashboardLayout({
       </aside>
 
       {/* Main content */}
-      <div className="md:ml-64 p-8 min-h-screen">{children}</div>
+      <div className="md:ml-64 pt-8 px-8 pb-8 min-h-[calc(100vh-3.5rem)]">{children}</div>
     </div>
   );
 }

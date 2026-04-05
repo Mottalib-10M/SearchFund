@@ -5,9 +5,14 @@ import { authOptions } from "@/lib/auth";
 import CreateListingForm from "@/components/listings/CreateListingForm";
 
 export const metadata: Metadata = {
-  title: "List your business — SearchFundMarket",
+  title: "Sell Your Business in Europe — List on SearchFundMarket",
   description:
-    "Reach qualified buyers across Europe. List your business on SearchFundMarket marketplace.",
+    "Reach qualified search fund buyers across Europe. List your business on SearchFundMarket — no broker fees, direct connections with serious acquirers. Start now.",
+  openGraph: {
+    title: "Sell Your Business to Search Fund Entrepreneurs",
+    description:
+      "List your company on SearchFundMarket and connect directly with qualified buyers. No broker commissions, no middlemen.",
+  },
 };
 
 export default async function NewListingPage() {

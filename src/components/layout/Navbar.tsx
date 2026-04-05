@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import { useSession, signOut } from "next-auth/react";
 import {
   Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard,
-  FileText, FolderOpen, Heart, Users, MessageSquare, Bell,
+  FileText, FolderOpen, Heart, User, Users, MessageSquare, Bell,
 } from "lucide-react";
 import Logo from "@/components/ui/Logo";
 
@@ -21,6 +21,7 @@ const navLinks = [
 const dashboardLinks = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
   { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
+  { href: "/dashboard/settings/profile", label: "Profile", icon: User },
   { href: "/dashboard/saved", label: "Saved", icon: Heart },
   { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
   { href: "/dashboard/connections", label: "Connections", icon: Users },
@@ -104,22 +105,22 @@ export default function Navbar() {
 
                 {dropdownOpen && (
                   <div className="absolute right-0 top-full mt-2 w-48 bg-white rounded-xl shadow-lg border border-apple-gray-300/50 py-1 z-50">
-                    <Link
-                      href="/dashboard"
-                      onClick={() => setDropdownOpen(false)}
-                      className="flex items-center gap-2.5 px-4 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
-                    >
-                      <LayoutDashboard size={16} />
-                      Dashboard
-                    </Link>
-                    <Link
-                      href="/dashboard/settings"
-                      onClick={() => setDropdownOpen(false)}
-                      className="flex items-center gap-2.5 px-4 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
-                    >
-                      <Settings size={16} />
-                      Settings
-                    </Link>
+                    {dashboardLinks
+                      .filter((item) => !item.role || item.role === role)
+                      .map((item) => {
+                        const Icon = item.icon;
+                        return (
+                          <Link
+                            key={item.href}
+                            href={item.href}
+                            onClick={() => setDropdownOpen(false)}
+                            className="flex items-center gap-2.5 px-4 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
+                          >
+                            <Icon size={16} />
+                            {item.label}
+                          </Link>
+                        );
+                      })}
                     <div className="border-t border-apple-gray-100 my-1" />
                     <button
                       type="button"

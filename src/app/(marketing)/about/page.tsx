@@ -3,9 +3,14 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "About — SearchFundMarket",
+  title: "About SearchFundMarket — Our ETA Mission in Europe",
   description:
-    "SearchFundMarket is the marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Learn about our mission and the ETA model.",
+    "SearchFundMarket connects search fund entrepreneurs, investors, and sellers across Europe. Discover our mission and why ETA is reshaping business succession.",
+  openGraph: {
+    title: "About SearchFundMarket — Connecting the European ETA Community",
+    description:
+      "The first marketplace dedicated to search fund acquisitions in Europe. Learn about our mission and the ETA opportunity.",
+  },
 };
 
 export default function AboutPage() {

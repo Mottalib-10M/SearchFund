@@ -10,9 +10,14 @@ import InvestorCard from "@/components/profiles/InvestorCard";
 import type { InvestorWithUser } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Search Fund Investors \u2014 SearchFundMarket",
+  title: "Search Fund Investors — Find ETA Investors in Europe",
   description:
-    "Browse search fund investors across Europe. Find investors by type, country, sector, and ticket size.",
+    "Browse search fund investors across Europe. Filter by type, country, sector, and ticket size. Find the right investors to back your search fund acquisition.",
+  openGraph: {
+    title: "Connect with Search Fund Investors Backing ETA in Europe",
+    description:
+      "Find experienced search fund investors — ex-searchers, family offices, and institutional backers. Filter by sector, ticket size, and geography.",
+  },
 };
 
 type PageProps = {

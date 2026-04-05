@@ -75,9 +75,16 @@ const INITIAL: FormData = {
 // Component
 // ---------------------------------------------------------------------------
 
-export default function CreateListingForm() {
+export default function CreateListingForm({
+  initialData,
+  listingId,
+}: {
+  initialData?: Partial<FormData>;
+  listingId?: string;
+} = {}) {
   const router = useRouter();
-  const [form, setForm] = useState<FormData>(INITIAL);
+  const isEditing = !!listingId;
+  const [form, setForm] = useState<FormData>({ ...INITIAL, ...initialData });
   const [errors, setErrors] = useState<Partial<Record<keyof FormData, string>>>({});
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState<string | null>(null);
@@ -139,7 +146,7 @@ export default function CreateListingForm() {
   };
 
   // ---- Submit ----
-  const handleSubmit = async (status: "DRAFT" | "UNDER_REVIEW") => {
+  const handleSubmit = async (status: "DRAFT" | "ACTIVE") => {
     if (!validate()) return;
     setSubmitting(true);
     setSubmitError(null);
@@ -170,8 +177,11 @@ export default function CreateListingForm() {
     };
 
     try {
-      const res = await fetch("/api/listings", {
-        method: "POST",
+      const url = isEditing ? `/api/listings/${listingId}` : "/api/listings";
+      const method = isEditing ? "PUT" : "POST";
+
+      const res = await fetch(url, {
+        method,
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body),
       });
@@ -182,7 +192,8 @@ export default function CreateListingForm() {
       }
 
       const data = await res.json();
-      router.push(`/listings/${data.slug}`);
+      const slug = data.slug ?? data.listing?.slug;
+      router.push(slug ? `/listings/${slug}` : "/dashboard/my-listings");
     } catch (err) {
       setSubmitError(
         err instanceof Error ? err.message : "Something went wrong"
@@ -576,24 +587,32 @@ export default function CreateListingForm() {
           <button
             type="button"
             disabled={submitting}
-            onClick={() => handleSubmit("UNDER_REVIEW")}
+            onClick={() => handleSubmit("ACTIVE")}
             className="inline-flex items-center justify-center rounded-full bg-apple-accent px-8 py-3 text-sm font-medium text-white hover:bg-apple-accent-hover transition-colors disabled:opacity-50 disabled:pointer-events-none"
           >
-            {submitting ? "Submitting..." : "Submit for review"}
+            {submitting
+              ? "Saving..."
+              : isEditing
+                ? "Save changes"
+                : "Publish listing"}
           </button>
 
-          <button
-            type="button"
-            disabled={submitting}
-            onClick={() => handleSubmit("DRAFT")}
-            className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 px-8 py-3 text-sm font-medium text-apple-black hover:bg-apple-gray-100 transition-colors disabled:opacity-50 disabled:pointer-events-none"
-          >
-            Save as draft
-          </button>
+          {!isEditing && (
+            <button
+              type="button"
+              disabled={submitting}
+              onClick={() => handleSubmit("DRAFT")}
+              className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 px-8 py-3 text-sm font-medium text-apple-black hover:bg-apple-gray-100 transition-colors disabled:opacity-50 disabled:pointer-events-none"
+            >
+              Save as draft
+            </button>
+          )}
         </div>
 
         <p className="mt-4 text-xs text-apple-gray-500">
-          Your listing will be reviewed before publication.
+          {isEditing
+            ? "Changes will be applied immediately."
+            : "Your listing will be published immediately."}
         </p>
       </div>
     </form>

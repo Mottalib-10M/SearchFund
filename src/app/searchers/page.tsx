@@ -10,9 +10,14 @@ import SearcherCard from "@/components/profiles/SearcherCard";
 import type { SearcherWithUser } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Search Fund Entrepreneurs \u2014 SearchFundMarket",
+  title: "Search Fund Entrepreneurs — Find Searchers in Europe",
   description:
-    "Browse search fund entrepreneurs across Europe. Find searchers by country, sector, and search type.",
+    "Browse search fund entrepreneurs across Europe. Filter by country, sector, and search type. Connect with qualified acquirers looking for their next acquisition.",
+  openGraph: {
+    title: "Meet Search Fund Entrepreneurs Looking to Acquire in Europe",
+    description:
+      "Discover ETA entrepreneurs actively searching for businesses to acquire. Filter by sector, country, and search model.",
+  },
 };
 
 type PageProps = {

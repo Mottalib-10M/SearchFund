@@ -2,8 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { useSession, signOut } from "next-auth/react";
-import Link from "next/link";
-import { ChevronRight, LogOut } from "lucide-react";
+import { LogOut } from "lucide-react";
 
 function Toggle({
   label,
@@ -117,25 +116,6 @@ export default function SettingsPage() {
           <span className="text-sm text-apple-success font-medium">Saved</span>
         )}
       </div>
-
-      {/* Profile */}
-      <section className="border-b border-apple-gray-100 py-8">
-        <div className="flex items-center justify-between">
-          <div>
-            <h2 className="text-base font-medium text-apple-black">Profile</h2>
-            <p className="text-sm text-apple-gray-500 mt-0.5">
-              Edit your public profile
-            </p>
-          </div>
-          <Link
-            href="/dashboard/settings/profile"
-            className="flex items-center gap-1 text-sm text-apple-accent hover:underline"
-          >
-            Edit
-            <ChevronRight size={16} />
-          </Link>
-        </div>
-      </section>
 
       {/* Account */}
       <section className="border-b border-apple-gray-100 py-8">

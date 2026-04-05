@@ -39,7 +39,7 @@ export default function MessageInput({
 
   if (waitingForReply) {
     return (
-      <div className="border-t border-apple-gray-100 px-4 py-4">
+      <div className="shrink-0 border-t border-apple-gray-100 px-4 py-4">
         <p className="text-sm text-apple-gray-500 text-center">
           Waiting for a reply before you can send another message.
         </p>
@@ -50,7 +50,7 @@ export default function MessageInput({
   return (
     <form
       onSubmit={handleSubmit}
-      className="border-t border-apple-gray-100 p-4 flex items-center gap-3"
+      className="shrink-0 border-t border-apple-gray-100 p-4 flex items-center gap-3"
     >
       <input
         type="text"

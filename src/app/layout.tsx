@@ -6,15 +6,22 @@ import AuthSessionProvider from "@/components/providers/SessionProvider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SearchFundMarket — Acquisition Marketplace for Search Funds",
+  title: {
+    default: "SearchFundMarket — Search Fund Marketplace in Europe",
+    template: "%s",
+  },
   description:
-    "Connect with search fund entrepreneurs, investors, and business sellers across Europe.",
+    "The marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Browse acquisitions, find investors, list your business.",
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },
     ],
   },
   manifest: "/site.webmanifest",
+  openGraph: {
+    type: "website",
+    siteName: "SearchFundMarket",
+  },
 };
 
 export default function RootLayout({
