@@ -50,19 +50,19 @@ export default function MessageInput({
   return (
     <form
       onSubmit={handleSubmit}
-      className="shrink-0 border-t border-apple-gray-100 p-4 flex items-center gap-3"
+      className="shrink-0 border-t border-apple-gray-100 p-4 pb-[max(1rem,env(safe-area-inset-bottom))] flex items-center gap-3"
     >
       <input
         type="text"
         value={content}
         onChange={(e) => setContent(e.target.value)}
         placeholder="Type a message..."
-        className="flex-1 bg-apple-gray-100 rounded-full px-4 py-2.5 text-sm text-apple-black placeholder:text-apple-gray-500 focus:ring-2 focus:ring-apple-accent/30 transition-shadow"
+        className="flex-1 min-w-0 bg-apple-gray-100 rounded-full px-4 py-2.5 text-base text-apple-black placeholder:text-apple-gray-500 focus:ring-2 focus:ring-apple-accent/30 transition-shadow"
       />
       <button
         type="submit"
         disabled={!content.trim() || sending}
-        className="bg-apple-accent text-white rounded-full p-2.5 hover:bg-apple-accent-hover transition-colors disabled:opacity-50 cursor-pointer"
+        className="shrink-0 bg-apple-accent text-white rounded-full p-2.5 hover:bg-apple-accent-hover transition-colors disabled:opacity-50 cursor-pointer"
       >
         <Send size={16} />
       </button>

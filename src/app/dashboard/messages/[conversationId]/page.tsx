@@ -81,7 +81,7 @@ export default function ConversationPage({
   const profileLink = otherUser ? profileHref(otherUser) : null;
 
   return (
-    <div className="-mt-8 -mx-8 -mb-8 flex flex-col h-[calc(100dvh-3.5rem)]">
+    <div className="fixed top-14 left-0 right-0 bottom-0 md:left-64 flex flex-col bg-white z-40">
       {/* Header */}
       <div className="flex items-center gap-3 px-4 py-3 border-b border-apple-gray-100 shrink-0">
         <Link
