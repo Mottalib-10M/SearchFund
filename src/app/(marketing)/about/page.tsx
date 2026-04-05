@@ -124,7 +124,7 @@ export default function AboutPage() {
           European search fund community comes together.
         </p>
         <Link
-          href="/get-started"
+          href="/auth/signup"
           className="text-apple-accent text-sm font-medium mt-6 inline-flex items-center gap-1 hover:underline"
         >
           Get started
