@@ -156,11 +156,11 @@ export default async function SearcherProfilePage({ params }: PageProps) {
       <BackButton fallbackHref="/searchers" label="Back" />
 
       {/* Header */}
-      <div className="mt-8 flex items-start gap-6">
+      <div className="mt-8 flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
         {/* Avatar */}
-        <div className="w-20 h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center">
+        <div className="w-16 h-16 sm:w-20 sm:h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center">
           {initials ? (
-            <span className="text-xl font-semibold text-apple-gray-700">
+            <span className="text-lg sm:text-xl font-semibold text-apple-gray-700">
               {initials}
             </span>
           ) : (
@@ -169,14 +169,12 @@ export default async function SearcherProfilePage({ params }: PageProps) {
         </div>
 
         <div className="min-w-0">
-          <div className="flex items-center gap-2">
-            <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
-              {user.name ?? "Anonymous Searcher"}
-            </h1>
+          <h1 className="text-2xl sm:text-3xl font-semibold text-apple-black tracking-tight">
+            {user.name ?? "Anonymous Searcher"}
             {user.verificationStatus === "VERIFIED" && (
-              <BadgeCheck className="h-5 w-5 text-apple-accent shrink-0" />
+              <BadgeCheck className="inline h-5 w-5 text-apple-accent ml-1.5 align-text-bottom" />
             )}
-          </div>
+          </h1>
 
           {searcher.mbaSchool && (
             <p className="text-apple-gray-500 mt-1">{searcher.mbaSchool}</p>

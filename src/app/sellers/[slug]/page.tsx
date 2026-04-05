@@ -132,8 +132,8 @@ export default async function SellerProfilePage({ params }: PageProps) {
       <BackButton fallbackHref="/listings" label="Back" />
 
       {/* Header */}
-      <div className="mt-8 flex items-start gap-6">
-        <div className="w-20 h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center overflow-hidden">
+      <div className="mt-8 flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+        <div className="w-16 h-16 sm:w-20 sm:h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center overflow-hidden">
           {user.image ? (
             <img
               src={user.image}
@@ -141,19 +141,17 @@ export default async function SellerProfilePage({ params }: PageProps) {
               className="w-full h-full object-cover"
             />
           ) : initials ? (
-            <span className="text-xl font-semibold text-apple-gray-700">{initials}</span>
+            <span className="text-lg sm:text-xl font-semibold text-apple-gray-700">{initials}</span>
           ) : null}
         </div>
 
         <div className="min-w-0">
-          <div className="flex items-center gap-2">
-            <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
-              {displayName}
-            </h1>
+          <h1 className="text-2xl sm:text-3xl font-semibold text-apple-black tracking-tight">
+            {displayName}
             {user.verificationStatus === "VERIFIED" && (
-              <BadgeCheck className="h-5 w-5 text-apple-accent shrink-0" />
+              <BadgeCheck className="inline h-5 w-5 text-apple-accent ml-1.5 align-text-bottom" />
             )}
-          </div>
+          </h1>
 
           {seller.companyRole && (
             <div className="mt-2">

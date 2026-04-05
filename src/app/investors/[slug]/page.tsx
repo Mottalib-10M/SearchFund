@@ -142,24 +142,22 @@ export default async function InvestorProfilePage({ params }: PageProps) {
     <div className="max-w-4xl mx-auto px-6 py-12">
       <BackButton fallbackHref="/investors" label="Back" />
 
-      <div className="mt-8 flex items-start gap-6">
-        <div className="w-20 h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center">
+      <div className="mt-8 flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
+        <div className="w-16 h-16 sm:w-20 sm:h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center">
           {initials ? (
-            <span className="text-xl font-semibold text-apple-gray-700">{initials}</span>
+            <span className="text-lg sm:text-xl font-semibold text-apple-gray-700">{initials}</span>
           ) : (
             <Building2 className="h-8 w-8 text-apple-gray-500" />
           )}
         </div>
 
         <div className="min-w-0">
-          <div className="flex items-center gap-2">
-            <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
-              {displayName}
-            </h1>
+          <h1 className="text-2xl sm:text-3xl font-semibold text-apple-black tracking-tight">
+            {displayName}
             {user.verificationStatus === "VERIFIED" && (
-              <BadgeCheck className="h-5 w-5 text-apple-accent shrink-0" />
+              <BadgeCheck className="inline h-5 w-5 text-apple-accent ml-1.5 align-text-bottom" />
             )}
-          </div>
+          </h1>
 
           {investor.firmName && user.name && (
             <p className="text-apple-gray-700 mt-1">{user.name}</p>
