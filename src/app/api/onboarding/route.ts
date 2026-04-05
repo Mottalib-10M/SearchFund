@@ -190,9 +190,10 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ success: true }, { status: 200 });
   } catch (err) {
-    console.error("Onboarding error:", err);
+    const message = err instanceof Error ? err.message : String(err);
+    console.error("Onboarding error:", message, err);
     return NextResponse.json(
-      { error: "Failed to save profile" },
+      { error: `Failed to save profile: ${message}` },
       { status: 500 }
     );
   }
