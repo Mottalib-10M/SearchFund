@@ -5,6 +5,8 @@ import Link from "next/link";
 import { Search, Users, Handshake, ArrowRight, Building2, TrendingUp, Store } from "lucide-react";
 import { COUNTRIES, formatCurrency, timeAgo } from "@/lib/utils";
 import { prisma } from "@/lib/prisma";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
 import AnimatedHero from "@/components/home/AnimatedHero";
 
 export const metadata: Metadata = {
@@ -53,6 +55,10 @@ export default async function Home() {
   } catch {
     // DB not available — show empty
   }
+
+  const session = await getServerSession(authOptions);
+  const isLoggedIn = !!session?.user;
+
   return (
     <div>
       {/* ── HERO ── */}
@@ -83,10 +89,10 @@ export default async function Home() {
               Filter by sector, country, and EBITDA range. Connect with sellers directly and find your next company to operate.
             </p>
             <Link
-              href="/auth/signup"
+              href={isLoggedIn ? "/dashboard" : "/auth/signup"}
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-searcher text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
-              Join as Searcher
+              {isLoggedIn ? "Go to Dashboard" : "Join as Searcher"}
               <ArrowRight size={14} strokeWidth={2} />
             </Link>
           </div>
@@ -106,10 +112,10 @@ export default async function Home() {
               Find search fund entrepreneurs from leading MBA programs. Review their thesis, track record, and co-invest alongside experienced investors.
             </p>
             <Link
-              href="/auth/signup"
+              href={isLoggedIn ? "/dashboard" : "/auth/signup"}
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-investor text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
-              Join as Investor
+              {isLoggedIn ? "Go to Dashboard" : "Join as Investor"}
               <ArrowRight size={14} strokeWidth={2} />
             </Link>
           </div>
@@ -129,10 +135,10 @@ export default async function Home() {
               List your business confidentially. Reach qualified buyers who understand your industry and want to preserve your legacy. No broker commissions.
             </p>
             <Link
-              href="/auth/signup"
+              href={isLoggedIn ? "/dashboard" : "/auth/signup"}
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-seller text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
-              Join as Seller
+              {isLoggedIn ? "Go to Dashboard" : "Join as Seller"}
               <ArrowRight size={14} strokeWidth={2} />
             </Link>
           </div>

@@ -6,6 +6,7 @@ import AuthSessionProvider from "@/components/providers/SessionProvider";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.searchfundmarket.com"),
   title: {
     default: "SearchFundMarket — Search Fund Marketplace in Europe",
     template: "%s",
@@ -18,6 +19,9 @@ export const metadata: Metadata = {
     ],
   },
   manifest: "/site.webmanifest",
+  alternates: {
+    canonical: "./",
+  },
   openGraph: {
     type: "website",
     siteName: "SearchFundMarket",

@@ -1,4 +1,7 @@
 import type { Metadata } from "next";
+import { getServerSession } from "next-auth";
+import { authOptions } from "@/lib/auth";
+import { redirect } from "next/navigation";
 import { SignUpForm } from "@/components/auth/SignUpForm";
 
 export const metadata: Metadata = {
@@ -12,7 +15,10 @@ export const metadata: Metadata = {
   },
 };
 
-export default function SignUpPage() {
+export default async function SignUpPage() {
+  const session = await getServerSession(authOptions);
+  if (session?.user) redirect("/dashboard");
+
   return (
     <div className="min-h-screen flex items-center justify-center px-6">
       <SignUpForm />
