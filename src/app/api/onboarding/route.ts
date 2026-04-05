@@ -28,7 +28,10 @@ const searcherSchema = z.object({
 });
 
 const investorSchema = z.object({
-  investorType: z.enum(INVESTOR_TYPES).optional(),
+  investorType: z.preprocess(
+    (val) => (val === "" ? undefined : val),
+    z.enum(INVESTOR_TYPES).optional()
+  ),
   firmName: z.string().optional(),
   ticketMin: z.string().optional(),
   ticketMax: z.string().optional(),
