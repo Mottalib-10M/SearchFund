@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
-import { Search } from "lucide-react";
+import SearchAutocomplete from "@/components/home/SearchAutocomplete";
 
 const quickLinks = [
   { label: "B2B Services", href: "/listings?sector=B2B+Services" },
@@ -50,28 +50,8 @@ export default function AnimatedHero() {
         business sellers worldwide.
       </p>
 
-      {/* Search bar */}
-      <form action="/listings" className="mt-10 max-w-xl mx-auto relative">
-        <div className="relative">
-          <Search
-            size={20}
-            strokeWidth={1.5}
-            className="absolute left-4 top-1/2 -translate-y-1/2 text-apple-gray-500"
-          />
-          <input
-            type="text"
-            name="search"
-            placeholder="Search by sector, country, or keyword..."
-            className="bg-apple-gray-100 rounded-full pl-12 pr-40 py-4 text-base w-full text-apple-black placeholder:text-apple-gray-500 focus:ring-2 focus:ring-apple-accent/20 transition-shadow"
-          />
-          <button
-            type="submit"
-            className="absolute right-2 top-1/2 -translate-y-1/2 bg-apple-accent text-white rounded-full px-6 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover cursor-pointer"
-          >
-            Explore listings &rarr;
-          </button>
-        </div>
-      </form>
+      {/* Search bar with autocomplete */}
+      <SearchAutocomplete />
 
       {/* Quick links */}
       <div className="mt-6 flex gap-3 justify-center flex-wrap">
