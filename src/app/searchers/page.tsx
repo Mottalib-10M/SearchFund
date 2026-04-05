@@ -29,16 +29,6 @@ function parseString(val: string | string[] | undefined): string {
   return val ?? "";
 }
 
-const SEARCH_STATUS_OPTIONS = [
-  { value: "PREPARING", label: "Preparing" },
-  { value: "RAISING_CAPITAL", label: "Raising Capital" },
-  { value: "ACTIVELY_SEARCHING", label: "Actively Searching" },
-  { value: "LOI_SIGNED", label: "LOI Signed" },
-  { value: "ACQUIRED", label: "Acquired" },
-  { value: "OPERATING", label: "Operating" },
-  { value: "EXITED", label: "Exited" },
-];
-
 const SEARCH_TYPE_OPTIONS = [
   { value: "TRADITIONAL", label: "Traditional" },
   { value: "SELF_FUNDED", label: "Self-funded" },
@@ -52,7 +42,6 @@ export default async function SearchersPage({ searchParams }: PageProps) {
   const search = parseString(params.search);
   const country = parseString(params.country);
   const sector = parseString(params.sector);
-  const searchStatus = parseString(params.searchStatus);
   const searchType = parseString(params.searchType);
   const page = Math.max(1, parseInt(parseString(params.page) || "1", 10));
   const perPage = 18;
@@ -78,10 +67,6 @@ export default async function SearchersPage({ searchParams }: PageProps) {
 
   if (sector) {
     where.targetSectors = { has: sector };
-  }
-
-  if (searchStatus) {
-    where.searchStatus = searchStatus as Prisma.EnumSearchStatusFilter;
   }
 
   if (searchType) {
@@ -122,7 +107,7 @@ export default async function SearchersPage({ searchParams }: PageProps) {
   // Build filter URL helper
   function filterUrl(overrides: Record<string, string>): string {
     const sp = new URLSearchParams();
-    const merged = { search, country, sector, searchStatus, searchType, ...overrides };
+    const merged = { search, country, sector, searchType, ...overrides };
     for (const [key, val] of Object.entries(merged)) {
       if (val) sp.set(key, val);
     }
@@ -182,20 +167,6 @@ export default async function SearchersPage({ searchParams }: PageProps) {
           ))}
         </select>
 
-        {/* Search status select */}
-        <select
-          name="searchStatus"
-          defaultValue={searchStatus}
-          className="text-sm rounded-lg border border-apple-gray-300 bg-white text-apple-black py-2 px-3 focus:border-apple-accent focus:ring-1 focus:ring-apple-accent"
-        >
-          <option value="">All statuses</option>
-          {SEARCH_STATUS_OPTIONS.map((opt) => (
-            <option key={opt.value} value={opt.value}>
-              {opt.label}
-            </option>
-          ))}
-        </select>
-
         {/* Search type select */}
         <select
           name="searchType"
@@ -217,7 +188,7 @@ export default async function SearchersPage({ searchParams }: PageProps) {
           Search
         </button>
 
-        {(search || country || sector || searchStatus || searchType) && (
+        {(search || country || sector || searchType) && (
           <Link
             href="/searchers"
             className="text-sm text-apple-accent hover:underline"
@@ -275,7 +246,6 @@ export default async function SearchersPage({ searchParams }: PageProps) {
               if (search) sp.set("search", search);
               if (country) sp.set("country", country);
               if (sector) sp.set("sector", sector);
-              if (searchStatus) sp.set("searchStatus", searchStatus);
               if (searchType) sp.set("searchType", searchType);
               sp.set("page", String(p));
               return `/searchers?${sp.toString()}`;

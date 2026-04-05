@@ -16,16 +16,6 @@ type PageProps = {
   params: Promise<{ slug: string }>;
 };
 
-const SEARCH_STATUS_LABELS: Record<string, string> = {
-  PREPARING: "Preparing",
-  RAISING_CAPITAL: "Raising Capital",
-  ACTIVELY_SEARCHING: "Actively Searching",
-  LOI_SIGNED: "LOI Signed",
-  ACQUIRED: "Acquired",
-  OPERATING: "Operating",
-  EXITED: "Exited",
-};
-
 const SEARCH_TYPE_LABELS: Record<string, string> = {
   TRADITIONAL: "Traditional",
   SELF_FUNDED: "Self-funded",
@@ -123,7 +113,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
   const { user } = searcher;
   const initials = getInitials(user.name);
   const country = user.country ? COUNTRIES[user.country] : null;
-  const statusLabel = SEARCH_STATUS_LABELS[searcher.searchStatus] ?? searcher.searchStatus;
   const typeLabel = SEARCH_TYPE_LABELS[searcher.searchType] ?? searcher.searchType;
 
   const targetCountryEntries = searcher.targetCountries
@@ -193,19 +182,10 @@ export default async function SearcherProfilePage({ params }: PageProps) {
             </p>
           )}
 
-          {/* Status and type badges */}
-          <div className="mt-3 flex flex-wrap items-center gap-2">
+          {/* Type badge */}
+          <div className="mt-3">
             <span className="bg-apple-gray-100 rounded-full px-3 py-1 text-xs font-medium text-apple-gray-700">
               {typeLabel}
-            </span>
-            <span
-              className={`rounded-full px-3 py-1 text-xs font-medium ${
-                searcher.searchStatus === "ACTIVELY_SEARCHING"
-                  ? "bg-apple-success/10 text-apple-success"
-                  : "bg-apple-gray-100 text-apple-gray-500"
-              }`}
-            >
-              {statusLabel}
             </span>
           </div>
         </div>

@@ -7,16 +7,6 @@ type SearcherCardProps = {
   searcher: SearcherWithUser;
 };
 
-const SEARCH_STATUS_LABELS: Record<string, string> = {
-  PREPARING: "Preparing",
-  RAISING_CAPITAL: "Raising Capital",
-  ACTIVELY_SEARCHING: "Actively Searching",
-  LOI_SIGNED: "LOI Signed",
-  ACQUIRED: "Acquired",
-  OPERATING: "Operating",
-  EXITED: "Exited",
-};
-
 const SEARCH_TYPE_LABELS: Record<string, string> = {
   TRADITIONAL: "Traditional",
   SELF_FUNDED: "Self-funded",
@@ -39,7 +29,6 @@ export default function SearcherCard({ searcher }: SearcherCardProps) {
   const { user } = searcher;
   const country = user.country ? COUNTRIES[user.country] : null;
   const initials = getInitials(user.name);
-  const statusLabel = SEARCH_STATUS_LABELS[searcher.searchStatus] ?? searcher.searchStatus;
   const typeLabel = SEARCH_TYPE_LABELS[searcher.searchType] ?? searcher.searchType;
 
   const ebitdaRange =
@@ -95,19 +84,10 @@ export default function SearcherCard({ searcher }: SearcherCardProps) {
         </p>
       )}
 
-      {/* Badges */}
-      <div className="mt-3 flex flex-wrap items-center gap-2">
+      {/* Badge */}
+      <div className="mt-3">
         <span className="bg-apple-gray-100 rounded-full px-2.5 py-0.5 text-xs text-apple-gray-700">
           {typeLabel}
-        </span>
-        <span
-          className={`text-xs font-medium ${
-            searcher.searchStatus === "ACTIVELY_SEARCHING"
-              ? "text-apple-success"
-              : "text-apple-gray-500"
-          }`}
-        >
-          {statusLabel}
         </span>
       </div>
     </Link>
