@@ -5,7 +5,7 @@ export default function robots(): MetadataRoute.Robots {
     rules: {
       userAgent: "*",
       allow: "/",
-      disallow: ["/api/", "/dashboard/", "/auth/onboarding"],
+      disallow: ["/api/", "/dashboard/", "/auth/onboarding", "/admin/"],
     },
     sitemap: "https://www.searchfundmarket.com/sitemap.xml",
   };
