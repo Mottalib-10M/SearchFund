@@ -3,6 +3,8 @@ import Navbar from "@/components/layout/Navbar";
 import ConditionalFooter from "@/components/layout/ConditionalFooter";
 import ScrollToTop from "@/components/layout/ScrollToTop";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
+import GoogleAnalytics from "@/components/providers/GoogleAnalytics";
+import CookieBanner from "@/components/consent/CookieBanner";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -41,6 +43,8 @@ export default function RootLayout({
           <Navbar />
           <main className="min-h-screen pt-14">{children}</main>
           <ConditionalFooter />
+          <CookieBanner />
+          <GoogleAnalytics />
         </AuthSessionProvider>
       </body>
     </html>

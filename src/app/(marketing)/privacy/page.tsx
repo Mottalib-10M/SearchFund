@@ -165,9 +165,29 @@ export default function PrivacyPage() {
             8. Cookies
           </h2>
           <p className="mt-3">
-            We use essential cookies to keep you signed in and to ensure the
-            platform functions correctly. We do not use advertising or tracking
-            cookies.
+            We use the following types of cookies:
+          </p>
+          <ul className="list-disc pl-6 mt-3 space-y-2">
+            <li>
+              <strong>Essential cookies:</strong> required to keep you signed in
+              and to ensure the platform functions correctly. These cannot be
+              disabled.
+            </li>
+            <li>
+              <strong>Analytics cookies:</strong> we use Google Analytics 4 to
+              understand how visitors interact with our platform (pages visited,
+              session duration, general location). Google Analytics uses cookies
+              such as <code className="text-sm bg-apple-gray-100 px-1 rounded">_ga</code> and{" "}
+              <code className="text-sm bg-apple-gray-100 px-1 rounded">_ga_*</code>. This
+              data is aggregated and anonymous.
+            </li>
+          </ul>
+          <p className="mt-3">
+            When you first visit our site, a cookie consent banner lets you
+            choose which cookies to accept. You can change your preference at any
+            time by clearing your browser&rsquo;s local storage for this site.
+            Analytics cookies are only loaded after you give explicit consent. We
+            do not use advertising or tracking cookies.
           </p>
         </section>
 
