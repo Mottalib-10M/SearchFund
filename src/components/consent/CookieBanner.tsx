@@ -28,30 +28,26 @@ export default function CookieBanner() {
   if (!visible) return null;
 
   return (
-    <div className="fixed bottom-0 inset-x-0 z-50 p-4 sm:p-6">
-      <div className="mx-auto max-w-lg rounded-2xl bg-white/95 backdrop-blur-lg border border-apple-gray-200 shadow-lg p-5">
-        <p className="text-sm text-apple-gray-700 leading-relaxed">
-          We use cookies to keep you signed in and to understand how you use our
-          platform.{" "}
-          <Link
-            href="/privacy"
-            className="text-apple-accent hover:underline"
-          >
-            Privacy Policy
+    <div className="fixed bottom-4 left-4 z-50 max-w-xs animate-in slide-in-from-left-4 fade-in duration-500">
+      <div className="rounded-xl bg-white/90 backdrop-blur-md border border-apple-gray-200/60 shadow-md px-4 py-3">
+        <p className="text-xs text-apple-gray-600 leading-relaxed">
+          Cookies for login &amp; analytics.{" "}
+          <Link href="/privacy" className="underline hover:text-apple-gray-900">
+            Learn more
           </Link>
         </p>
-        <div className="mt-4 flex gap-3">
+        <div className="mt-2 flex gap-2">
           <button
             onClick={handleEssentialOnly}
-            className="flex-1 rounded-xl border border-apple-gray-300 px-4 py-2.5 text-sm font-medium text-apple-gray-700 transition-colors hover:bg-apple-gray-100 cursor-pointer"
+            className="rounded-lg border border-apple-gray-200 px-3 py-1.5 text-xs font-medium text-apple-gray-600 transition-colors hover:bg-apple-gray-100 cursor-pointer"
           >
-            Essential Only
+            Decline
           </button>
           <button
             onClick={handleAcceptAll}
-            className="flex-1 rounded-xl bg-apple-accent px-4 py-2.5 text-sm font-medium text-white transition-colors hover:bg-apple-accent/90 cursor-pointer"
+            className="rounded-lg bg-apple-gray-900 px-3 py-1.5 text-xs font-medium text-white transition-colors hover:bg-apple-gray-800 cursor-pointer"
           >
-            Accept All
+            Accept
           </button>
         </div>
       </div>
