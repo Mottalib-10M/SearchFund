@@ -19,12 +19,12 @@ import { useSession, signOut } from "next-auth/react";
 
 const navItems = [
   { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
   { href: "/dashboard/settings/profile", label: "Profile", icon: User },
+  { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
+  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
   { href: "/dashboard/saved", label: "Saved", icon: Heart },
   { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
   { href: "/dashboard/connections", label: "Connections", icon: Users },
-  { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
   { href: "/dashboard/notifications", label: "Notifications", icon: Bell },
   { href: "/dashboard/settings", label: "Settings", icon: Settings },
 ];
