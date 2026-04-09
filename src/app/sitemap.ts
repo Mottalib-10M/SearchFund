@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { prisma } from "@/lib/prisma";
+import { allArticles } from "./learn/_articles/article-registry";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -73,5 +74,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // DB unavailable — skip
   }
 
-  return [...staticPages, ...listingPages, ...profilePages];
+  // Learn article pages
+  const articlePages: MetadataRoute.Sitemap = allArticles.map((a) => ({
+    url: `${BASE}/learn/${a.slug}`,
+    changeFrequency: "monthly" as const,
+    priority: 0.6,
+  }));
+
+  return [...staticPages, ...articlePages, ...listingPages, ...profilePages];
 }
