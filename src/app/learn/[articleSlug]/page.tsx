@@ -1,7 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { allArticles, articlesMeta, articleComponents } from "../_articles/article-registry";
+import {
+  allArticles,
+  articlesMeta,
+  articleComponents,
+  categorySlugMap,
+  getRelatedArticles,
+} from "../_articles/article-registry";
 
 // Pre-render all article pages as static HTML at build time (SSG)
 export function generateStaticParams() {
@@ -35,18 +41,35 @@ export default async function ArticlePage({ params }: Props) {
   if (!meta) notFound();
 
   const ArticleComponent = articleComponents[articleSlug];
+  const articleData = allArticles.find((a) => a.slug === articleSlug);
+  const categorySlug = articleData
+    ? categorySlugMap[articleData.category]
+    : null;
+  const related = getRelatedArticles(articleSlug, 3);
 
   return (
     <div className="max-w-2xl mx-auto px-6 py-12">
-      {/* Back link */}
-      <Link
-        href="/learn"
-        className="text-apple-accent text-sm hover:underline inline-block mb-8"
-      >
-        &larr; Back to Learn
-      </Link>
+      {/* Breadcrumb */}
+      <nav className="text-sm text-apple-gray-500 mb-8">
+        <Link href="/learn" className="hover:text-apple-accent">
+          Learn
+        </Link>
+        {articleData && categorySlug && (
+          <>
+            <span className="mx-2">/</span>
+            <Link
+              href={`/learn/category/${categorySlug}`}
+              className="hover:text-apple-accent"
+            >
+              {articleData.category}
+            </Link>
+          </>
+        )}
+      </nav>
 
-      {ArticleComponent ? <ArticleComponent /> : (
+      {ArticleComponent ? (
+        <ArticleComponent />
+      ) : (
         <article>
           <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
             {meta.title}
@@ -57,6 +80,34 @@ export default async function ArticlePage({ params }: Props) {
             </p>
           </div>
         </article>
+      )}
+
+      {/* Related Articles */}
+      {related.length > 0 && (
+        <section className="mt-16 pt-8 border-t border-apple-gray-100">
+          <h2 className="text-lg font-semibold text-apple-black">
+            Related articles
+          </h2>
+          <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {related.map((r) => (
+              <Link
+                key={r.slug}
+                href={`/learn/${r.slug}`}
+                className="rounded-xl border border-apple-gray-100 p-4 hover:bg-apple-gray-100/50 transition"
+              >
+                <span className="text-xs bg-apple-gray-100 rounded-full px-2 py-0.5 text-apple-gray-500">
+                  {r.tag}
+                </span>
+                <h3 className="text-sm font-semibold text-apple-black mt-2 line-clamp-2">
+                  {r.title}
+                </h3>
+                <p className="text-xs text-apple-gray-500 mt-1">
+                  {r.readTime}
+                </p>
+              </Link>
+            ))}
+          </div>
+        </section>
       )}
 
       {/* Bottom CTA */}

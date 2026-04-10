@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 import { prisma } from "@/lib/prisma";
-import { allArticles } from "./learn/_articles/article-registry";
+import { allArticles, categoryMeta } from "./learn/_articles/article-registry";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -81,5 +81,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...articlePages, ...listingPages, ...profilePages];
+  // Learn category pages
+  const categoryPages: MetadataRoute.Sitemap = categoryMeta.map((c) => ({
+    url: `${BASE}/learn/category/${c.slug}`,
+    changeFrequency: "weekly" as const,
+    priority: 0.6,
+  }));
+
+  // Glossary page
+  const glossaryPage: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE}/learn/glossary`,
+      changeFrequency: "monthly" as const,
+      priority: 0.6,
+    },
+  ];
+
+  return [...staticPages, ...articlePages, ...categoryPages, ...glossaryPage, ...listingPages, ...profilePages];
 }

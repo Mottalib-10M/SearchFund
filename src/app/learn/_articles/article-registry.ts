@@ -16,6 +16,168 @@ export interface ArticleMeta {
 }
 
 // ---------------------------------------------------------------------------
+// Category metadata — for category landing pages
+// ---------------------------------------------------------------------------
+
+export interface CategoryMeta {
+  slug: string;
+  name: string;
+  description: string;
+  ogDescription: string;
+}
+
+export const categoryMeta: CategoryMeta[] = [
+  {
+    slug: "getting-started",
+    name: "Getting Started",
+    description: "Everything you need to know before launching your search fund — models, economics, and the ETA landscape.",
+    ogDescription: "New to search funds? Start here. Understand the ETA model, compare traditional vs self-funded approaches, and learn why investors allocate to search funds.",
+  },
+  {
+    slug: "fundraising-investors",
+    name: "Fundraising & Investors",
+    description: "How to raise capital, write a PPM, build your investor deck, and structure equity for your search fund.",
+    ogDescription: "From writing your PPM to closing your fundraise — guides on finding investors, structuring equity, and building compelling fundraising materials.",
+  },
+  {
+    slug: "deal-execution",
+    name: "Deal Execution",
+    description: "Sourcing deals, valuation, due diligence, LOIs, negotiation, and closing your acquisition.",
+    ogDescription: "Master the deal process: sourcing, valuation, QoE analysis, LOI negotiation, earn-outs, and closing tactics for search fund acquisitions.",
+  },
+  {
+    slug: "legal-tax",
+    name: "Legal & Tax",
+    description: "Entity structures, acquisition financing, tax optimization, seller financing, and working with professional advisors.",
+    ogDescription: "LLC vs GmbH vs SAS, SBA 7(a), seller notes, QSBS, Dutreil — the legal and tax frameworks for search fund acquisitions in the US and Europe.",
+  },
+  {
+    slug: "operations-growth",
+    name: "Operations & Growth",
+    description: "Post-acquisition playbooks — from your first 100 days to digital transformation, revenue growth, and exit planning.",
+    ogDescription: "First 100 days, board governance, buy-and-build, digital transformation, revenue growth, and working capital management for search fund CEOs.",
+  },
+  {
+    slug: "research-data",
+    name: "Research & Data",
+    description: "Stanford studies, IESE/INSEAD research, performance benchmarks, and notable search fund success stories.",
+    ogDescription: "Data-driven insights: Stanford 2024 study, European research from IESE & INSEAD, return benchmarks, and famous search fund success stories.",
+  },
+  {
+    slug: "regional-guides",
+    name: "Regional Guides",
+    description: "Country-by-country guides to ETA — legal structures, financing programs, market dynamics, and local ecosystems.",
+    ogDescription: "ETA across borders: acquisition guides for the US, UK, France, Germany, Spain, Italy, Nordics, Benelux, and Switzerland.",
+  },
+  {
+    slug: "investor-comparisons",
+    name: "Investor Comparisons",
+    description: "How search fund investing compares to private equity, venture capital, public markets, and real estate.",
+    ogDescription: "Search funds vs PE, VC, public markets, and real estate — compare returns, risk, liquidity, and portfolio construction across asset classes.",
+  },
+  {
+    slug: "industry-playbooks",
+    name: "Industry Playbooks",
+    description: "Sector-specific acquisition guides — SaaS, healthcare, manufacturing, professional services, e-commerce, and more.",
+    ogDescription: "Industry-specific playbooks for acquiring SaaS, healthcare, manufacturing, professional services, home services, e-commerce, education, and financial services businesses.",
+  },
+  {
+    slug: "searcher-toolkit",
+    name: "Searcher Toolkit",
+    description: "Practical tools, mindset frameworks, career transition advice, and technology for search fund entrepreneurs.",
+    ogDescription: "Tools, psychology, career transition, and technology for searchers — everything you need beyond the deal itself.",
+  },
+  {
+    slug: "resources",
+    name: "Resources",
+    description: "Curated reading lists, recommended books, podcasts, conferences, and communities for ETA professionals.",
+    ogDescription: "The essential reading list, top podcasts, key conferences, and communities for search fund entrepreneurs and investors.",
+  },
+];
+
+/** Map category display name → category slug */
+export const categorySlugMap: Record<string, string> = Object.fromEntries(
+  categoryMeta.map((c) => [c.name, c.slug]),
+);
+
+/** Map category slug → CategoryMeta */
+export const categoryBySlug: Record<string, CategoryMeta> = Object.fromEntries(
+  categoryMeta.map((c) => [c.slug, c]),
+);
+
+// ---------------------------------------------------------------------------
+// Reading paths — curated article sequences for the hub page
+// ---------------------------------------------------------------------------
+
+export interface ReadingPath {
+  title: string;
+  description: string;
+  slugs: string[];
+  color: string; // Tailwind bg class
+}
+
+export const readingPaths: ReadingPath[] = [
+  {
+    title: "Searcher\u2019s Journey",
+    description: "From first steps to your first 100 days as CEO",
+    slugs: [
+      "getting-started",
+      "self-funded-vs-traditional",
+      "pre-search-preparation",
+      "deal-sourcing-strategies",
+      "letter-of-intent",
+      "due-diligence-checklist",
+      "negotiation-tactics",
+      "first-100-days",
+    ],
+    color: "bg-purple-50 border-purple-200",
+  },
+  {
+    title: "Investor\u2019s Guide",
+    description: "Evaluate search funds as an asset class",
+    slugs: [
+      "why-invest-in-search-funds",
+      "search-fund-returns",
+      "stanford-2024-study",
+      "finding-investors",
+      "searcher-compensation",
+      "cap-tables-equity",
+    ],
+    color: "bg-blue-50 border-blue-200",
+  },
+  {
+    title: "Operator\u2019s Playbook",
+    description: "Run and grow your acquired company",
+    slugs: [
+      "first-100-days",
+      "management-transition",
+      "board-governance",
+      "digital-transformation",
+      "revenue-growth-playbook",
+      "exit-strategies",
+    ],
+    color: "bg-green-50 border-green-200",
+  },
+  {
+    title: "ETA in Europe",
+    description: "Country-by-country acquisition guides",
+    slugs: [
+      "eta-europe",
+      "eta-france",
+      "eta-germany",
+      "eta-uk",
+      "eta-spain",
+      "eta-nordics",
+      "eta-benelux",
+      "eta-switzerland",
+      "eta-italy",
+      "eta-us",
+    ],
+    color: "bg-amber-50 border-amber-200",
+  },
+];
+
+// ---------------------------------------------------------------------------
 // Categories (display order)
 // ---------------------------------------------------------------------------
 
@@ -225,6 +387,30 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Strategic sale, PE exit, MBO, dividend recap — plan your exit 18-24 months ahead. Readiness checklist, banker selection, and tax planning.",
   },
+  {
+    slug: "negotiation-tactics",
+    title: "Negotiation Tactics for SME Acquisitions",
+    description:
+      "Price anchoring, exclusivity leverage, seller psychology, multi-party dynamics, and structuring win-win deals.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Deal Execution",
+    ogTitle: "Negotiation Tactics for SME Acquisitions — A Search Fund Guide",
+    ogDescription:
+      "Price anchoring, exclusivity leverage, seller psychology, and multi-party dynamics — master the art of SME acquisition negotiation.",
+  },
+  {
+    slug: "earn-out-structures",
+    title: "Earn-Outs & Contingent Consideration",
+    description:
+      "Structuring earn-outs, measurement periods, dispute resolution, and alternatives to bridge valuation gaps.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Deal Execution",
+    ogTitle: "Earn-Outs & Contingent Consideration in Search Fund Acquisitions",
+    ogDescription:
+      "Structure earn-outs that align incentives: measurement periods, EBITDA vs revenue metrics, dispute resolution, and creative alternatives.",
+  },
 
   // ── Legal & Tax ──────────────────────────────────────────────────────
   {
@@ -274,6 +460,18 @@ export const allArticles: ArticleMeta[] = [
     ogTitle: "Working with Advisors in Search Fund Acquisitions — Lawyers, Accountants & Brokers",
     ogDescription:
       "Attorney fees ($30-80K), QoE costs ($20-60K), broker commissions (8-12%). Learn when to hire, how to select, and how to manage your advisory team.",
+  },
+  {
+    slug: "seller-financing",
+    title: "Seller Financing: Structures, Terms & Negotiation",
+    description:
+      "Seller notes, subordination agreements, typical terms (2-5yr, 4-6%), earn-out alternatives, and negotiation strategies.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Legal & Tax",
+    ogTitle: "Seller Financing for Search Fund Acquisitions — Structures, Terms & Negotiation",
+    ogDescription:
+      "Seller notes (2-5 years, 4-6%), subordination agreements, personal guarantees, and creative structures. The complete guide to seller financing.",
   },
 
   // ── Operations & Growth ──────────────────────────────────────────────
@@ -349,6 +547,42 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "3-5 board members, monthly meetings year one, effective board packages — master the CEO-board relationship for better decisions and stronger returns.",
   },
+  {
+    slug: "digital-transformation",
+    title: "Post-Acquisition Digital Transformation",
+    description:
+      "Legacy system migration, CRM/ERP implementation, e-commerce channels, and realistic budgets for SME digitization.",
+    readTime: "13 min read",
+    tag: "Operations",
+    category: "Operations & Growth",
+    ogTitle: "Post-Acquisition Digital Transformation — A Search Fund CEO's Guide",
+    ogDescription:
+      "Legacy systems, CRM/ERP, e-commerce channels, data analytics — a realistic playbook for digitizing the SME you just acquired.",
+  },
+  {
+    slug: "revenue-growth-playbook",
+    title: "Revenue Growth Playbook Post-Acquisition",
+    description:
+      "Pricing optimization, sales development, cross-selling, channel expansion, and a 100-day revenue assessment framework.",
+    readTime: "14 min read",
+    tag: "Operations",
+    category: "Operations & Growth",
+    ogTitle: "Revenue Growth Playbook for Search Fund CEOs",
+    ogDescription:
+      "Pricing optimization, sales development, cross-selling, channel expansion — the revenue growth playbook for your first year as CEO.",
+  },
+  {
+    slug: "working-capital-management",
+    title: "Working Capital Management for New CEOs",
+    description:
+      "Cash conversion cycle, accounts receivable management, inventory optimization, supplier terms, and cash flow forecasting.",
+    readTime: "11 min read",
+    tag: "Operations",
+    category: "Operations & Growth",
+    ogTitle: "Working Capital Management for Search Fund CEOs",
+    ogDescription:
+      "Cash conversion cycle, AR management, inventory turns, supplier terms — master working capital to unlock cash in your acquired business.",
+  },
 
   // ── Research & Data ──────────────────────────────────────────────────
   {
@@ -374,6 +608,30 @@ export const allArticles: ArticleMeta[] = [
     ogTitle: "Search Fund Returns: 35% IRR Over 40 Years — Performance Data & Benchmarks",
     ogDescription:
       "How do search funds compare to PE and VC? Explore 40 years of return data, acquisition rates, and deal characteristics.",
+  },
+  {
+    slug: "search-fund-success-stories",
+    title: "Famous Search Fund Success Stories",
+    description:
+      "Asurion, EndoChoice, and other notable exits — key decisions, growth strategies, and lessons from top-performing search funds.",
+    readTime: "14 min read",
+    tag: "Research",
+    category: "Research & Data",
+    ogTitle: "Famous Search Fund Success Stories — Lessons from Top Performers",
+    ogDescription:
+      "Asurion, EndoChoice, and more — the stories behind search fund exits that returned 10x+. Key decisions, growth strategies, and lessons for searchers.",
+  },
+  {
+    slug: "european-search-fund-research",
+    title: "European Search Fund Research: IESE & INSEAD Studies",
+    description:
+      "EU vs US performance, deal sizes, success factors, growth trajectory, and key findings from leading European business schools.",
+    readTime: "11 min read",
+    tag: "Research",
+    category: "Research & Data",
+    ogTitle: "European Search Fund Research — IESE & INSEAD Studies Analyzed",
+    ogDescription:
+      "European search funds deliver comparable returns to US peers. IESE and INSEAD data on deal sizes, success factors, and the EU growth trajectory.",
   },
 
   // ── Regional Guides ──────────────────────────────────────────────────
@@ -412,6 +670,90 @@ export const allArticles: ArticleMeta[] = [
     ogTitle: "ETA in Germany: Acquiring Mittelstand Companies — A Complete Guide",
     ogDescription:
       "190,000 German businesses need successors by 2026. Discover how to tap into the Mittelstand — world-class companies at attractive valuations.",
+  },
+  {
+    slug: "eta-uk",
+    title: "ETA in the UK: Acquiring a Business in Britain",
+    description:
+      "UK market dynamics, Ltd/LLP structures, British Business Bank financing, and the growing ETA ecosystem in Britain.",
+    readTime: "14 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in the UK: Acquiring a Business in Britain — A Complete Guide",
+    ogDescription:
+      "5.5 million SMEs, Ltd/LLP structures, British Business Bank financing, and a mature advisory ecosystem. Your guide to ETA in the UK.",
+  },
+  {
+    slug: "eta-spain",
+    title: "ETA in Spain & Iberia: The Emerging Opportunity",
+    description:
+      "Spain\u2019s succession crisis, SL/SA framework, ICO financing, lower entry multiples, and the Iberian ETA ecosystem.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in Spain & Iberia — The Emerging Search Fund Opportunity",
+    ogDescription:
+      "A massive succession crisis, lower multiples, ICO financing, and a nascent but growing ETA ecosystem. Discover the opportunity in Spain and Portugal.",
+  },
+  {
+    slug: "eta-nordics",
+    title: "ETA in the Nordics: Scandinavia & Finland",
+    description:
+      "AB/AS corporate forms, Vaekstfonden/Almi financing, high-trust business culture, and premium Nordic SMEs.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in the Nordics: Scandinavia & Finland — Search Fund Guide",
+    ogDescription:
+      "High-trust culture, premium SMEs, strong government financing (Vaekstfonden, Almi). Your guide to search fund acquisitions in the Nordic countries.",
+  },
+  {
+    slug: "eta-benelux",
+    title: "ETA in the Benelux: Netherlands, Belgium & Luxembourg",
+    description:
+      "BV/NV structures, the Dutch succession wave, MKB financing, and the Benelux deal landscape.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in the Benelux — Netherlands, Belgium & Luxembourg Guide",
+    ogDescription:
+      "BV/NV structures, Dutch succession wave, MKB financing, and a thriving SME market. Your guide to search fund acquisitions in the Benelux.",
+  },
+  {
+    slug: "eta-switzerland",
+    title: "ETA in Switzerland: Acquiring in the Alpine Market",
+    description:
+      "GmbH/AG structures, cantonal tax advantages, the Nachfolge succession crisis, and Switzerland\u2019s multilingual market.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in Switzerland — Acquiring a Business in the Alpine Market",
+    ogDescription:
+      "GmbH/AG structures, cantonal tax competition, the Nachfolge crisis, and world-class SMEs. Your guide to search fund acquisitions in Switzerland.",
+  },
+  {
+    slug: "eta-italy",
+    title: "ETA in Italy: Navigating the Italian SME Market",
+    description:
+      "4.4 million Italian SMEs, SRL/SPA structures, family business culture, SIMEST financing, and the generational transition.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in Italy — Navigating the Italian SME Market",
+    ogDescription:
+      "4.4 million SMEs, deep family business culture, SRL/SPA structures, and SIMEST financing. Your guide to search fund acquisitions in Italy.",
+  },
+  {
+    slug: "eta-us",
+    title: "ETA in the US: The Original Search Fund Market",
+    description:
+      "SBA 7(a) loans, LLC/LP structures, the Stanford ecosystem, and how the US market compares to Europe.",
+    readTime: "14 min read",
+    tag: "Guide",
+    category: "Regional Guides",
+    ogTitle: "ETA in the US — The Original Search Fund Market",
+    ogDescription:
+      "SBA 7(a), LLC/LP, Stanford/HBS ecosystem, 40+ years of data. The complete guide to search fund acquisitions in the United States.",
   },
 
   // ── Investor Comparisons ────────────────────────────────────────────
@@ -501,6 +843,66 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Equipment valuation, environmental liabilities, skilled trades workforce, Lean/Six Sigma opportunities — the complete manufacturing acquisition guide.",
   },
+  {
+    slug: "professional-services-acquisition",
+    title: "Acquiring a Professional Services Firm",
+    description:
+      "Key-person risk, utilization rates, client concentration, partner buyouts, and building enterprise value in services.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Industry Playbooks",
+    ogTitle: "Acquiring a Professional Services Firm — Search Fund Playbook",
+    ogDescription:
+      "Key-person risk, utilization rates, client concentration, partner buyouts — the complete playbook for acquiring professional services firms.",
+  },
+  {
+    slug: "home-services-acquisition",
+    title: "Acquiring a Home Services & Field Services Business",
+    description:
+      "Route density, technician recruitment, recurring revenue models, roll-up economics, and operational levers.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Industry Playbooks",
+    ogTitle: "Acquiring a Home Services Business — Search Fund Playbook",
+    ogDescription:
+      "Route density, technician recruitment, recurring revenue, roll-up economics — the playbook for home services and field services acquisitions.",
+  },
+  {
+    slug: "ecommerce-acquisition",
+    title: "Acquiring an E-commerce & D2C Brand",
+    description:
+      "Amazon/Shopify due diligence, CAC trends, supply chain analysis, brand defensibility, and post-acquisition growth levers.",
+    readTime: "13 min read",
+    tag: "Guide",
+    category: "Industry Playbooks",
+    ogTitle: "Acquiring an E-commerce & D2C Brand — Search Fund Guide",
+    ogDescription:
+      "Amazon/Shopify DD, CAC trends, supply chain risk, brand defensibility — the complete guide to e-commerce and D2C acquisitions.",
+  },
+  {
+    slug: "education-acquisition",
+    title: "Acquiring an Education & Training Business",
+    description:
+      "B2B vs B2C models, accreditation requirements, instructor dependency, digital transformation, and enrollment economics.",
+    readTime: "12 min read",
+    tag: "Guide",
+    category: "Industry Playbooks",
+    ogTitle: "Acquiring an Education & Training Business — Search Fund Guide",
+    ogDescription:
+      "B2B vs B2C, accreditation, instructor dependency, digital transformation — the playbook for education and training business acquisitions.",
+  },
+  {
+    slug: "financial-services-acquisition",
+    title: "Acquiring a Financial Services or Insurance Business",
+    description:
+      "FCA/BaFin licensing, book-of-business valuation, renewal economics, compliance frameworks, and roll-up strategies.",
+    readTime: "14 min read",
+    tag: "Guide",
+    category: "Industry Playbooks",
+    ogTitle: "Acquiring a Financial Services or Insurance Business — Search Fund Guide",
+    ogDescription:
+      "FCA/BaFin licensing, book-of-business valuation, renewal economics — the complete guide to financial services and insurance acquisitions.",
+  },
 
   // ── Searcher Toolkit ───────────────────────────────────────────────
   {
@@ -587,6 +989,20 @@ export const articlesMeta: Record<
   ]),
 );
 
+/** Get articles by category name */
+export function getArticlesByCategory(categoryName: string): ArticleMeta[] {
+  return allArticles.filter((a) => a.category === categoryName);
+}
+
+/** Get related articles (same category, excluding current) */
+export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
+  const article = allArticles.find((a) => a.slug === slug);
+  if (!article) return [];
+  return allArticles
+    .filter((a) => a.category === article.category && a.slug !== slug)
+    .slice(0, limit);
+}
+
 // ---------------------------------------------------------------------------
 // Article components — lazy-loaded map
 // ---------------------------------------------------------------------------
@@ -634,6 +1050,28 @@ import SearcherToolsArticle from "./searcher-tools";
 import PreSearchPreparationArticle from "./pre-search-preparation";
 import WomenInETAArticle from "./women-in-eta";
 
+// New articles — Wave 3
+import ETAUKArticle from "./eta-uk";
+import ETASpainArticle from "./eta-spain";
+import ETANordicsArticle from "./eta-nordics";
+import ETABeneluxArticle from "./eta-benelux";
+import ETASwitzerlandArticle from "./eta-switzerland";
+import ETAItalyArticle from "./eta-italy";
+import ETAUSArticle from "./eta-us";
+import ProfessionalServicesAcquisitionArticle from "./professional-services-acquisition";
+import HomeServicesAcquisitionArticle from "./home-services-acquisition";
+import EcommerceAcquisitionArticle from "./ecommerce-acquisition";
+import EducationAcquisitionArticle from "./education-acquisition";
+import FinancialServicesAcquisitionArticle from "./financial-services-acquisition";
+import NegotiationTacticsArticle from "./negotiation-tactics";
+import EarnOutStructuresArticle from "./earn-out-structures";
+import SellerFinancingArticle from "./seller-financing";
+import DigitalTransformationArticle from "./digital-transformation";
+import RevenueGrowthPlaybookArticle from "./revenue-growth-playbook";
+import WorkingCapitalManagementArticle from "./working-capital-management";
+import SearchFundSuccessStoriesArticle from "./search-fund-success-stories";
+import EuropeanSearchFundResearchArticle from "./european-search-fund-research";
+
 export const articleComponents: Record<string, () => JSX.Element> = {
   "getting-started": GettingStartedArticle,
   "self-funded-vs-traditional": SelfFundedVsTraditionalArticle,
@@ -677,4 +1115,25 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "searcher-tools": SearcherToolsArticle,
   "pre-search-preparation": PreSearchPreparationArticle,
   "women-in-eta": WomenInETAArticle,
+  // Wave 3
+  "eta-uk": ETAUKArticle,
+  "eta-spain": ETASpainArticle,
+  "eta-nordics": ETANordicsArticle,
+  "eta-benelux": ETABeneluxArticle,
+  "eta-switzerland": ETASwitzerlandArticle,
+  "eta-italy": ETAItalyArticle,
+  "eta-us": ETAUSArticle,
+  "professional-services-acquisition": ProfessionalServicesAcquisitionArticle,
+  "home-services-acquisition": HomeServicesAcquisitionArticle,
+  "ecommerce-acquisition": EcommerceAcquisitionArticle,
+  "education-acquisition": EducationAcquisitionArticle,
+  "financial-services-acquisition": FinancialServicesAcquisitionArticle,
+  "negotiation-tactics": NegotiationTacticsArticle,
+  "earn-out-structures": EarnOutStructuresArticle,
+  "seller-financing": SellerFinancingArticle,
+  "digital-transformation": DigitalTransformationArticle,
+  "revenue-growth-playbook": RevenueGrowthPlaybookArticle,
+  "working-capital-management": WorkingCapitalManagementArticle,
+  "search-fund-success-stories": SearchFundSuccessStoriesArticle,
+  "european-search-fund-research": EuropeanSearchFundResearchArticle,
 };
