@@ -103,8 +103,8 @@ export default async function ListingPage({
       prisma.connection.findFirst({
         where: {
           OR: [
-            { senderId: userId, receiverId: listing.seller.id },
-            { senderId: listing.seller.id, receiverId: userId },
+            { requesterId: userId, receiverId: listing.seller.id },
+            { requesterId: listing.seller.id, receiverId: userId },
           ],
         },
         select: { status: true },
@@ -112,7 +112,7 @@ export default async function ListingPage({
     ]);
     isSaved = !!saved;
     hasInquired = !!inquiry;
-    sellerConnectionStatus = (connection?.status as typeof sellerConnectionStatus) ?? null;
+    sellerConnectionStatus = (connection?.status as "PENDING" | "ACCEPTED" | "DECLINED" | undefined) ?? null;
   }
 
   const country = COUNTRIES[listing.country];
