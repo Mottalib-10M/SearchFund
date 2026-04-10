@@ -42,12 +42,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // Dynamic user profile pages (searchers & investors with public profiles)
   let profilePages: MetadataRoute.Sitemap = [];
   try {
-    const [searchers, investors] = await Promise.all([
+    const [searchers, investors, sellers] = await Promise.all([
       prisma.searcherProfile.findMany({
         where: { isPublic: true, slug: { not: null } },
         select: { slug: true, user: { select: { updatedAt: true } } },
       }),
       prisma.investorProfile.findMany({
+        where: { isPublic: true, slug: { not: null } },
+        select: { slug: true, user: { select: { updatedAt: true } } },
+      }),
+      prisma.sellerProfile.findMany({
         where: { isPublic: true, slug: { not: null } },
         select: { slug: true, user: { select: { updatedAt: true } } },
       }),
@@ -65,6 +69,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         .filter((p) => p.slug)
         .map((p) => ({
           url: `${BASE}/investors/${p.slug}`,
+          lastModified: p.user.updatedAt,
+          changeFrequency: "monthly" as const,
+          priority: 0.5,
+        })),
+      ...sellers
+        .filter((p) => p.slug)
+        .map((p) => ({
+          url: `${BASE}/sellers/${p.slug}`,
           lastModified: p.user.updatedAt,
           changeFrequency: "monthly" as const,
           priority: 0.5,
