@@ -1,39 +1,45 @@
-import Link from "next/link";
+"use client";
+
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import Logo from "@/components/ui/Logo";
 
-const footerSections = [
-  {
-    title: "Platform",
-    links: [
-      { href: "/listings", label: "Listings" },
-      { href: "/searchers", label: "Searchers" },
-      { href: "/investors", label: "Investors" },
-    ],
-  },
-  {
-    title: "Resources",
-    links: [
-      { href: "/learn", label: "Learn" },
-      { href: "/community", label: "Community" },
-    ],
-  },
-  {
-    title: "Company",
-    links: [
-      { href: "/about", label: "About" },
-      { href: "/contact", label: "Contact" },
-    ],
-  },
-  {
-    title: "Legal",
-    links: [
-      { href: "/privacy", label: "Privacy" },
-      { href: "/terms", label: "Terms" },
-    ],
-  },
-];
-
 export default function Footer() {
+  const t = useTranslations("footer");
+
+  const footerSections = [
+    {
+      title: t("marketplace"),
+      links: [
+        { href: "/listings" as const, label: t("marketplaceSoon") },
+        { href: "/searchers" as const, label: t("searchers") },
+        { href: "/investors" as const, label: t("investors") },
+      ],
+    },
+    {
+      title: t("resources"),
+      links: [
+        { href: "/learn" as const, label: t("learn") },
+        { href: "/community" as const, label: t("community") },
+        { href: "/learn/glossary" as const, label: t("glossary") },
+      ],
+    },
+    {
+      title: t("company"),
+      links: [
+        { href: "/about" as const, label: t("about") },
+        { href: "/contact" as const, label: t("contact") },
+      ],
+    },
+    {
+      title: t("legal"),
+      links: [
+        { href: "/privacy" as const, label: t("privacy") },
+        { href: "/terms" as const, label: t("terms") },
+      ],
+    },
+  ];
+
   return (
     <footer className="bg-apple-gray-100">
       <div className="mx-auto max-w-7xl px-6 lg:px-8 py-16">
@@ -64,7 +70,7 @@ export default function Footer() {
 
         <div className="mt-16 pt-8 border-t border-apple-gray-300/50">
           <p className="text-sm text-apple-gray-500">
-            &copy; {new Date().getFullYear()} SearchFundMarket. All rights reserved.
+            {t("copyright", { year: new Date().getFullYear() })}
           </p>
         </div>
       </div>

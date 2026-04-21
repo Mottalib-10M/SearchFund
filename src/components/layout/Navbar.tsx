@@ -1,42 +1,45 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { Link } from "@/i18n/navigation";
+import { usePathname } from "@/i18n/navigation";
 import { useSession, signOut } from "next-auth/react";
+import { useTranslations } from "next-intl";
 import {
   Menu, X, ChevronDown, LogOut, Settings, LayoutDashboard,
   FileText, FolderOpen, Heart, User, Users, MessageSquare, Bell,
 } from "lucide-react";
 import Logo from "@/components/ui/Logo";
-
-const navLinks = [
-  { href: "/listings", label: "Listings" },
-  { href: "/searchers", label: "Searchers" },
-  { href: "/investors", label: "Investors" },
-  { href: "/community", label: "Community" },
-  { href: "/learn", label: "Learn" },
-];
-
-const dashboardLinks = [
-  { href: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
-  { href: "/dashboard/settings/profile", label: "Profile", icon: User },
-  { href: "/dashboard/messages", label: "Messages", icon: MessageSquare },
-  { href: "/dashboard/my-listings", label: "My Listings", icon: FileText, role: "SELLER" as const },
-  { href: "/dashboard/saved", label: "Saved", icon: Heart },
-  { href: "/dashboard/documents", label: "My Documents", icon: FolderOpen, role: "SEARCHER" as const },
-  { href: "/dashboard/connections", label: "Connections", icon: Users },
-  { href: "/dashboard/notifications", label: "Notifications", icon: Bell },
-  { href: "/dashboard/settings", label: "Settings", icon: Settings },
-];
+import LanguageSwitcher from "@/components/layout/LanguageSwitcher";
 
 export default function Navbar() {
+  const t = useTranslations("nav");
   const [mobileOpen, setMobileOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const { data: session } = useSession();
   const pathname = usePathname();
   const isDashboard = pathname.startsWith("/dashboard");
+
+  const navLinks = [
+    { href: "/listings" as const, label: t("marketplace"), badge: t("soon") },
+    { href: "/learn" as const, label: t("learn") },
+    { href: "/community" as const, label: t("community") },
+    { href: "/searchers" as const, label: t("searchers") },
+    { href: "/investors" as const, label: t("investors") },
+  ];
+
+  const dashboardLinks = [
+    { href: "/dashboard" as const, label: t("dashboard"), icon: LayoutDashboard },
+    { href: "/dashboard/settings/profile" as const, label: t("profile"), icon: User },
+    { href: "/dashboard/messages" as const, label: t("messages"), icon: MessageSquare },
+    { href: "/dashboard/my-listings" as const, label: t("myListings"), icon: FileText, role: "SELLER" as const },
+    { href: "/dashboard/saved" as const, label: t("saved"), icon: Heart },
+    { href: "/dashboard/documents" as const, label: t("myDocuments"), icon: FolderOpen, role: "SEARCHER" as const },
+    { href: "/dashboard/connections" as const, label: t("connections"), icon: Users },
+    { href: "/dashboard/notifications" as const, label: t("notifications"), icon: Bell },
+    { href: "/dashboard/settings" as const, label: t("settings"), icon: Settings },
+  ];
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
@@ -71,9 +74,14 @@ export default function Navbar() {
               <li key={link.href}>
                 <Link
                   href={link.href}
-                  className="text-sm text-apple-gray-700 transition-colors hover:text-apple-black"
+                  className="text-sm text-apple-gray-700 transition-colors hover:text-apple-black inline-flex items-center gap-1.5"
                 >
                   {link.label}
+                  {"badge" in link && link.badge && (
+                    <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
+                      {link.badge}
+                    </span>
+                  )}
                 </Link>
               </li>
             ))}
@@ -81,6 +89,7 @@ export default function Navbar() {
 
           {/* Right actions - desktop */}
           <div className="hidden md:flex items-center gap-4">
+            <LanguageSwitcher />
             {user ? (
               <div className="relative" ref={dropdownRef}>
                 <button
@@ -131,7 +140,7 @@ export default function Navbar() {
                       className="flex items-center gap-2.5 px-4 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors w-full text-left cursor-pointer"
                     >
                       <LogOut size={16} />
-                      Sign out
+                      {t("signOut")}
                     </button>
                   </div>
                 )}
@@ -142,13 +151,13 @@ export default function Navbar() {
                   href="/auth/signin"
                   className="text-sm text-apple-gray-700 transition-colors hover:text-apple-black"
                 >
-                  Sign in
+                  {t("signIn")}
                 </Link>
                 <Link
                   href="/auth/signup"
                   className="bg-apple-accent text-white rounded-full px-5 py-2 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
                 >
-                  Get started
+                  {t("getStarted")}
                 </Link>
               </>
             )}
@@ -202,24 +211,30 @@ export default function Navbar() {
                       key={link.href}
                       href={link.href}
                       onClick={() => setMobileOpen(false)}
-                      className="block rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
+                      className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                     >
                       {link.label}
+                      {"badge" in link && link.badge && (
+                        <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
+                          {link.badge}
+                        </span>
+                      )}
                     </Link>
                   ))}
                 </div>
-                <div className="pt-4 mt-4 border-t border-apple-gray-300/50">
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50 flex items-center justify-between">
                   <button
                     type="button"
                     onClick={() => {
                       setMobileOpen(false);
                       signOut({ callbackUrl: "/" });
                     }}
-                    className="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 hover:text-red-500 transition-colors w-full cursor-pointer"
+                    className="flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 hover:text-red-500 transition-colors cursor-pointer"
                   >
                     <LogOut size={18} />
-                    Sign out
+                    {t("signOut")}
                   </button>
+                  <LanguageSwitcher />
                 </div>
               </>
             ) : (
@@ -230,50 +245,34 @@ export default function Navbar() {
                     key={link.href}
                     href={link.href}
                     onClick={() => setMobileOpen(false)}
-                    className="block rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
+                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                   >
                     {link.label}
+                    {"badge" in link && link.badge && (
+                      <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
+                        {link.badge}
+                      </span>
+                    )}
                   </Link>
                 ))}
                 <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-3">
-                  {user ? (
-                    <>
-                      <Link
-                        href="/dashboard"
-                        onClick={() => setMobileOpen(false)}
-                        className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
-                      >
-                        Dashboard
-                      </Link>
-                      <button
-                        type="button"
-                        onClick={() => {
-                          setMobileOpen(false);
-                          signOut({ callbackUrl: "/" });
-                        }}
-                        className="block w-full text-center bg-apple-gray-100 text-apple-gray-700 rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-gray-300/50 cursor-pointer"
-                      >
-                        Sign out
-                      </button>
-                    </>
-                  ) : (
-                    <>
-                      <Link
-                        href="/auth/signin"
-                        onClick={() => setMobileOpen(false)}
-                        className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
-                      >
-                        Sign in
-                      </Link>
-                      <Link
-                        href="/auth/signup"
-                        onClick={() => setMobileOpen(false)}
-                        className="block text-center bg-apple-accent text-white rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
-                      >
-                        Get started
-                      </Link>
-                    </>
-                  )}
+                  <Link
+                    href="/auth/signin"
+                    onClick={() => setMobileOpen(false)}
+                    className="block text-center rounded-full px-5 py-2.5 text-sm text-apple-gray-700 border border-apple-gray-300 transition-colors hover:bg-apple-gray-100"
+                  >
+                    {t("signIn")}
+                  </Link>
+                  <Link
+                    href="/auth/signup"
+                    onClick={() => setMobileOpen(false)}
+                    className="block text-center bg-apple-accent text-white rounded-full px-5 py-2.5 text-sm font-medium transition-colors hover:bg-apple-accent-hover"
+                  >
+                    {t("getStarted")}
+                  </Link>
+                  <div className="flex justify-center pt-2">
+                    <LanguageSwitcher />
+                  </div>
                 </div>
               </>
             )}

@@ -1,70 +1,51 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import Link from "next/link";
-import SearchAutocomplete from "@/components/home/SearchAutocomplete";
-
-const quickLinks = [
-  { label: "B2B Services", href: "/listings?sector=B2B+Services" },
-  { label: "Healthcare", href: "/listings?sector=Healthcare" },
-  { label: "Manufacturing", href: "/listings?sector=Manufacturing" },
-  { label: "France", href: "/listings?country=FR" },
-  { label: "Germany", href: "/listings?country=DE" },
-  { label: "UK", href: "/listings?country=GB" },
-];
+import { motion } from "framer-motion";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 
 export default function AnimatedHero() {
-  const [index, setIndex] = useState(0);
-  const words = useMemo(() => ["Search Fund", "Investor", "Acquisition"], []);
-
-  useEffect(() => {
-    const id = setTimeout(() => {
-      setIndex((prev) => (prev + 1) % words.length);
-    }, 2500);
-    return () => clearTimeout(id);
-  }, [index, words]);
+  const t = useTranslations("home");
 
   return (
     <section className="py-12 md:py-32 text-center max-w-4xl mx-auto px-6">
-      <h1 className="text-5xl md:text-6xl font-semibold text-apple-black tracking-tight">
-        <span>Find your&nbsp;</span>
-        <span className="relative inline-flex w-full justify-center overflow-hidden h-[1.2em] align-bottom">
-          <AnimatePresence mode="popLayout">
-            <motion.span
-              key={words[index]}
-              className="absolute text-apple-accent"
-              initial={{ y: 40, opacity: 0, filter: "blur(4px)" }}
-              animate={{ y: 0, opacity: 1, filter: "blur(0px)" }}
-              exit={{ y: -40, opacity: 0, filter: "blur(4px)" }}
-              transition={{ type: "spring", stiffness: 100, damping: 18 }}
-            >
-              {words[index]}
-            </motion.span>
-          </AnimatePresence>
-        </span>
-      </h1>
+      <motion.h1
+        className="text-4xl md:text-5xl lg:text-6xl font-semibold text-apple-black tracking-tight leading-tight"
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ duration: 0.5 }}
+      >
+        {t("heroTitle")}
+      </motion.h1>
 
-      <p className="text-xl text-apple-gray-700 mt-6 max-w-2xl mx-auto">
-        The marketplace connecting search fund entrepreneurs, investors, and
-        business sellers worldwide.
-      </p>
+      <motion.p
+        className="text-xl text-apple-gray-700 mt-6 max-w-2xl mx-auto"
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ duration: 0.5, delay: 0.15 }}
+      >
+        {t("heroSubtitle")}
+      </motion.p>
 
-      {/* Search bar with autocomplete */}
-      <SearchAutocomplete />
-
-      {/* Quick links */}
-      <div className="mt-6 flex gap-3 justify-center flex-wrap">
-        {quickLinks.map((link) => (
-          <Link
-            key={link.label}
-            href={link.href}
-            className="text-sm text-apple-accent hover:underline"
-          >
-            {link.label}
-          </Link>
-        ))}
-      </div>
+      <motion.div
+        className="mt-8 flex gap-4 justify-center flex-wrap"
+        initial={{ y: 20, opacity: 0 }}
+        animate={{ y: 0, opacity: 1 }}
+        transition={{ duration: 0.5, delay: 0.3 }}
+      >
+        <Link
+          href="/learn"
+          className="inline-flex items-center justify-center rounded-full bg-apple-accent text-white text-sm font-medium px-7 py-3 hover:bg-apple-accent-hover transition-colors"
+        >
+          {t("exploreCta")}
+        </Link>
+        <Link
+          href="/listings"
+          className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 text-apple-gray-700 text-sm font-medium px-7 py-3 hover:bg-apple-gray-100 transition-colors"
+        >
+          {t("waitlistCta")}
+        </Link>
+      </motion.div>
     </section>
   );
 }

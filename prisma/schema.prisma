@@ -392,6 +392,21 @@ model Notification {
 // FORUM
 // ═══════════════════════════════════
 
+// ═══════════════════════════════════
+// WAITLIST
+// ═══════════════════════════════════
+
+model WaitlistEntry {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  role      String   // "searcher" | "investor" | "seller"
+  createdAt DateTime @default(now())
+}
+
+// ═══════════════════════════════════
+// FORUM
+// ═══════════════════════════════════
+
 model ForumCategory {
   id          String      @id @default(cuid())
   name        String

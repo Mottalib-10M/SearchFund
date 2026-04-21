@@ -5,6 +5,7 @@ import { COUNTRIES } from "@/lib/utils";
 
 type InvestorCardProps = {
   investor: InvestorWithUser;
+  isSample?: boolean;
 };
 
 const INVESTOR_TYPE_LABELS: Record<string, string> = {
@@ -37,7 +38,7 @@ function formatRange(
   return "";
 }
 
-export default function InvestorCard({ investor }: InvestorCardProps) {
+export default function InvestorCard({ investor, isSample }: InvestorCardProps) {
   const { user } = investor;
   const displayName = investor.firmName || user.name || "Anonymous Investor";
   const initials = getInitials(displayName);
@@ -73,10 +74,17 @@ export default function InvestorCard({ investor }: InvestorCardProps) {
         {displayName}
       </p>
 
-      {/* Investor type badge */}
-      <span className="inline-block mt-1 bg-apple-gray-100 rounded-full px-2.5 py-0.5 text-xs text-apple-gray-700">
-        {typeLabel}
-      </span>
+      {/* Badges */}
+      <div className="mt-1 flex flex-wrap gap-1.5">
+        <span className="bg-apple-gray-100 rounded-full px-2.5 py-0.5 text-xs text-apple-gray-700">
+          {typeLabel}
+        </span>
+        {isSample && (
+          <span className="bg-amber-50 text-amber-700 border border-amber-200 rounded-full px-2.5 py-0.5 text-xs">
+            Sample
+          </span>
+        )}
+      </div>
 
       {/* Headline / investment thesis snippet */}
       {(investor.headline || investor.investmentThesis) && (

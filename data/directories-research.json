@@ -1,0 +1,1754 @@
+{
+  "meta": {
+    "compiled": "2026-04-21",
+    "purpose": "Factual research data for ETA/Search Fund directory categories",
+    "notes": "All entries are based on web research from publicly available sources. Verify independently before publishing."
+  },
+
+  "1_eta_investors_europe": {
+    "category": "ETA-Active Investors in Europe",
+    "description": "Investors who actively invest in search funds in Europe, including institutional funds, family offices, individual investors, and accelerators/incubators.",
+
+    "institutional_fund_of_funds": [
+      {
+        "name": "Istria Capital",
+        "type": "Fund of Search Funds",
+        "website": "https://istriacapital.com/",
+        "hq": "Madrid, Spain",
+        "geography_focus": "Europe, US, Latin America",
+        "description": "Europe's leading fund of search funds. Founded by Simon Bores and Ignacio Olavarria (also founders of Search Fund Spain). Istria I was a EUR 20M fund; Istria II closed oversubscribed at EUR 50M.",
+        "track_record": "Partnered with 120+ entrepreneurs; invested in 42 operating companies. In 2023, invested in 26 search funds (23 in Europe), average ticket ~EUR 60K.",
+        "typical_ticket": "~EUR 60K per search fund (pre-dilution ~11.7% of cap table)"
+      },
+      {
+        "name": "Relay Investments",
+        "type": "Dedicated Search Fund Investor",
+        "website": "https://www.relayinvestments.com/",
+        "hq": "Global",
+        "geography_focus": "Global (active in Europe, US, Latin America)",
+        "description": "One of the few firms fully devoted to the search fund model. Actively mentors searchers pre- and post-close, offers operational support, succession planning, and collaborative community.",
+        "track_record": "Invested in over 100 search funds."
+      },
+      {
+        "name": "ALZA Capital Partners",
+        "type": "Fund of Search Funds",
+        "website": "https://www.alzacp.com/",
+        "hq": "Global (focus: Mexico, Spain, US)",
+        "geography_focus": "Mexico, Spain, United States",
+        "description": "Global fund of search funds launched in July 2018. Total commitments of USD 50M. Co-founded by a former search fund entrepreneur and pioneer of the search fund industry in Mexico and Latin America.",
+        "typical_ticket": "Invests in both search and acquisition phases"
+      },
+      {
+        "name": "Ambit Partners",
+        "type": "Dedicated Search Fund Investor",
+        "website": "https://www.ambit.partners/",
+        "hq": "Canada",
+        "geography_focus": "Global, 30+ countries including Europe",
+        "description": "Dedicated search fund investor enabling ETA in traditional and developing markets. Founded by Rob LeBlanc. Closed USD 26M fund.",
+        "track_record": "Invested in ~80 search funds across 30 countries."
+      },
+      {
+        "name": "Vonzeo Capital",
+        "type": "Fund of Search Funds",
+        "website": "https://www.vonzeocapital.com/",
+        "hq": "Canada (founded 2017)",
+        "geography_focus": "Global (diversified portfolio)",
+        "description": "First fund investing in search funds established outside the United States. First globally diversified SF portfolio. Team members have exited searches, created startups, and invested in searches. Led by Jan Simon (also IESE Academic Director)."
+      },
+      {
+        "name": "Innesto Partners",
+        "type": "Fund of Search Funds",
+        "website": "https://www.innestopartners.com/",
+        "hq": "Brussels, Belgium",
+        "geography_focus": "Europe (France, Italy, Netherlands, Spain, Germany, UK) and North America",
+        "description": "Belgian private equity fund founded in 2021, dedicated to search fund investing with a focus on Europe. Among the first funds focused on actively finding and investing in European search fund opportunities."
+      },
+      {
+        "name": "Beka Alpha Search Funds",
+        "type": "Search Fund Investment Vehicle (SCR)",
+        "website": "https://en.bekafinance.com/alternative-investment/beka-alpha-search-funds",
+        "hq": "Spain",
+        "geography_focus": "Spain, Portugal, Italy, rest of Europe",
+        "description": "Vehicle created by entrepreneurs that pools capital to identify, buy and manage SMEs. Target size EUR 20M. Minimum investment EUR 100K. 4-year investment period. As of Oct 2024, EUR 12M AUM with portfolio sales exceeding EUR 100M."
+      },
+      {
+        "name": "Search Capital Partners",
+        "type": "Dedicated Search Fund Investor",
+        "website": "https://searchcapitalpartners.com/",
+        "hq": "Europe",
+        "geography_focus": "Europe",
+        "description": "Created by entrepreneurs with years of expertise in M&A, management, and direct management of search funds. Provides capital, mentorship, and strategic networks for scale-up."
+      },
+      {
+        "name": "9T Capital",
+        "type": "Dedicated Search Fund Investor",
+        "website": "https://www.9tcap.com/",
+        "hq": "Not specified",
+        "geography_focus": "Global",
+        "description": "Investment firm singularly focused on partnering with exceptional entrepreneurs to build enduring companies through the ETA/Search Fund model."
+      },
+      {
+        "name": "Newton Equity Partners",
+        "type": "Search Fund Investment Platform",
+        "website": "https://www.newtonequity.com/",
+        "hq": "Not specified",
+        "geography_focus": "Global",
+        "description": "Bridges entrepreneurship and private equity, supporting responsible ownership, sustainable growth, and resilient long-term returns. Also runs the Search Fund Institute with library and resources."
+      },
+      {
+        "name": "Scipio Holding",
+        "type": "Holding Company / Search Fund Investor",
+        "website": "https://scipioholding.com/",
+        "hq": "Europe",
+        "geography_focus": "International SMEs",
+        "description": "Holding company investing in international SMEs, specialized in the search fund model. In 2024, partnered with Swanlaab Venture Factory to launch a EUR 25M fund."
+      },
+      {
+        "name": "Search Fund Club (Italy)",
+        "type": "Club Deal",
+        "website": null,
+        "hq": "Italy",
+        "geography_focus": "Europe (Italy, Netherlands)",
+        "description": "Club deal investing in European search funds, launched by an Italian team who successfully launched 4 SPACs in Italy and one in the Netherlands."
+      },
+      {
+        "name": "ONEtoONE Corporate Finance / Asset Management",
+        "type": "Search Fund Investor",
+        "website": "https://www.onetoonecf.com/",
+        "hq": "Spain",
+        "geography_focus": "Spain, Portugal, France, Italy, UK, DACH region",
+        "description": "Actively looking to invest in search funds in Europe with special focus on Iberia, France, Italy, UK and DACH."
+      },
+      {
+        "name": "SearchRight",
+        "type": "Search Fund Investment Platform",
+        "website": "https://searchright.eu/",
+        "hq": "Europe",
+        "geography_focus": "Europe",
+        "description": "Investing in the future of SMEs. European search fund investment platform."
+      }
+    ],
+
+    "operator_led_buyout_platforms": [
+      {
+        "name": "Novastone Capital Advisors / Novastone Partners",
+        "type": "Operator-Led Buyout Platform",
+        "website": "https://novastone-ca.com/ / https://novastonepartners.com/eu/",
+        "hq": "Global (active in Europe and North America)",
+        "geography_focus": "Europe, North America",
+        "description": "Global firm solving succession challenges for SMEs through its Operator-Led Buyout Program. Finds exceptional operators first, then identifies acquisition targets together. Syndicates each acquisition deal-by-deal from HNWIs, family offices, and funds.",
+        "track_record": "Backed ~75 operators, closed 24 acquisitions since 2020. USD 455M+ enterprise value across 26 portfolio companies. Recently launched ETA Hub in Germany with UnternehmerTUM, Tengelmann Growth Partners, and Deutsche Bank."
+      },
+      {
+        "name": "Chapters Group",
+        "type": "Decentralized Investment Holding / Operator-Led",
+        "website": "https://www.chaptersgroup.com/",
+        "hq": "Germany",
+        "geography_focus": "Europe",
+        "description": "Publicly listed decentralized investment holding focused on acquiring and developing smaller, asset-light niche companies with resilient business models. Long-term, owner-led approach. Leadership: Jan-Hendrik Mohr (CEO), Marlene Carl (CFO), Marc Maurer (COO). Backed by Antheia (Daniel Ek's family office), MIT endowment, Sator Grove, Mitch Rales (Danaher co-founder)."
+      },
+      {
+        "name": "Seqos Capital",
+        "type": "Operator-Led Platform",
+        "website": null,
+        "hq": "London / Hamburg",
+        "geography_focus": "DACH region (Germany, Austria, Switzerland)",
+        "description": "Works with select management entrepreneurs to find and acquire excellent companies and manage them as equity-owning CEOs. New entrant in 2022, offers platform for searchers in DACH region."
+      },
+      {
+        "name": "Tembo Search Partners",
+        "type": "Search Fund Facilitator",
+        "website": null,
+        "hq": "Germany",
+        "geography_focus": "DACH region",
+        "description": "Facilitates succession planning in the SME sector by connecting search fund entrepreneurs, investors, and business owners. Primarily active in DACH region."
+      },
+      {
+        "name": "WAD Capital",
+        "type": "ETA Accelerator",
+        "website": null,
+        "hq": "Belgium",
+        "geography_focus": "Europe",
+        "description": "ETA accelerator focused on acquiring and growing SMEs with EUR 1-5M EBITDA. Uses data-driven approach and cohort model to empower CEOs to lead businesses through succession phases."
+      }
+    ],
+
+    "uk_focused_investors": [
+      {
+        "name": "Ryton Equity",
+        "type": "Search Fund Investor",
+        "website": "https://www.ryton-equity.co.uk/",
+        "hq": "United Kingdom",
+        "geography_focus": "UK",
+        "description": "Backs talented individuals looking to acquire and grow businesses. Long-term partners with extensive experience of search, acquisition and operations."
+      },
+      {
+        "name": "Kortica Capital",
+        "type": "Search Fund (UK-based)",
+        "website": "https://www.kortica.co.uk/",
+        "hq": "United Kingdom",
+        "geography_focus": "UK",
+        "description": "UK-based search fund led by one entrepreneur and supported by experienced operators and hands-on individuals. Seeks to acquire, actively manage, and grow one privately-held UK business."
+      },
+      {
+        "name": "Sentinel Capital (Search Funds division)",
+        "type": "Search Fund Investor",
+        "website": "https://sentinelcapital.net/search-funds/",
+        "hq": "Not specified",
+        "geography_focus": "Not specified",
+        "description": "Active investor providing entrepreneurs with support across all stages of the search fund experience. Seasoned veterans with over 60 years of owner/operator experience."
+      }
+    ],
+
+    "spain_focused_investors": [
+      {
+        "name": "Sachem Partners",
+        "type": "Search Fund / Investment Vehicle",
+        "website": "https://sachempartners.com/en/",
+        "hq": "Spain",
+        "geography_focus": "Spain",
+        "description": "Privately-held investment vehicle formed to identify, acquire and operate existing private companies in Spain, with objective of long-term sustainable growth. Linked to Kinderhook Partners."
+      },
+      {
+        "name": "Cabiedes & Partners",
+        "type": "Venture Capital (also active in search funds)",
+        "website": null,
+        "hq": "Madrid, Spain",
+        "geography_focus": "Spain (Madrid, Barcelona)",
+        "description": "Spanish venture capital firm founded in 2009. Provides seed, early-stage, and later-stage investment services. Also involved in the search fund ecosystem."
+      }
+    ],
+
+    "latin_america_active_in_europe": [
+      {
+        "name": "Bridge Capital",
+        "type": "Search Fund Investor",
+        "website": "https://bdgcap.com/english",
+        "hq": "Latin America",
+        "geography_focus": "Latin America (some European activity)",
+        "description": "Founded by an MBA from Stanford GSB. Active in the search fund space, primarily in Latin America."
+      }
+    ],
+
+    "us_investors_active_in_europe": [
+      {
+        "name": "Pacific Lake Partners",
+        "type": "Institutional Search Fund Investor",
+        "website": "https://www.pacificlake.com/",
+        "hq": "United States",
+        "geography_focus": "Global (US, Mexico, Europe)",
+        "description": "Committed private investment fund founded 2009. USD 250M of committed capital. Invested in over 100 operating companies. Team of 32 including 14 partners. Sole mandate: investments in search fund entrepreneur-led companies."
+      },
+      {
+        "name": "ETA Equity",
+        "type": "Search Fund Investor",
+        "website": "https://etaequity.com/",
+        "hq": "Dallas, Texas, US",
+        "geography_focus": "US (some international)",
+        "description": "Founded by Wharton graduates Mark Sinatra and Matthew Zucker. Matt has invested in search funds since 2008, in over 90 search funds and over 30 search-acquired businesses."
+      },
+      {
+        "name": "Anacapa Partners",
+        "type": "Institutional Search Fund Investor",
+        "website": "https://anacapapartners.com/",
+        "hq": "San Mateo, CA, US",
+        "geography_focus": "US (some international)",
+        "description": "One of the earliest institutional search fund investors, founded 2010. Focused solely on search. Strong reputation for follow-on capital and board support."
+      },
+      {
+        "name": "Peterson Partners",
+        "type": "Private Equity / Search Fund Investor",
+        "website": "https://www.petersonpartners.com/",
+        "hq": "US",
+        "geography_focus": "US, some international",
+        "description": "Backs strong leaders and creative thinkers with tailored investment options. Strong brand in the mid-market."
+      },
+      {
+        "name": "M2O Search / M2O Inc.",
+        "type": "Family Investment Office / Search Fund Investor",
+        "website": "https://www.m2oinc.com/",
+        "hq": "Los Angeles, US",
+        "geography_focus": "US, global",
+        "description": "Los Angeles-based family investment office investing in search funds for 30+ years. Targets service-based businesses with USD 1M-15M EBITDA. Combines capital with executive search services."
+      },
+      {
+        "name": "TTCER Partners",
+        "type": "Search Fund Investor",
+        "website": "https://ttcerpartners.com/",
+        "hq": "US",
+        "geography_focus": "US, some international",
+        "description": "Search Fund Alliance member. Known for growth-focused partnership approach."
+      },
+      {
+        "name": "Housatonic Partners",
+        "type": "Private Equity / Early Search Fund Backer",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Private equity firm that backed many of the original search funds. One of the earliest institutional participants."
+      },
+      {
+        "name": "Milk Street Ventures",
+        "type": "Search Fund Investor",
+        "website": "https://www.milkstreetventures.com/",
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Seasoned investors in search funds helping young entrepreneurs transition successfully to become CEOs."
+      },
+      {
+        "name": "Aspect Investors",
+        "type": "Search Fund Investor",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Active search fund investor. Search Fund Alliance member."
+      },
+      {
+        "name": "Smash.vc",
+        "type": "Search Fund Capital Partner",
+        "website": "https://smash.vc/",
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Top investor in self-funded search funds and independent sponsor transactions. Equity checks USD 250K-1.5M, minority positions. Also provides in-house digital marketing agency support for portfolio companies. Targets businesses with USD 750K-5M EBITDA."
+      },
+      {
+        "name": "CapitalPad",
+        "type": "Search Fund Capital Provider",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Built for self-funded searchers and small deal sizes. Provides USD 500K-2M direct capital for US-based transactions."
+      },
+      {
+        "name": "Liberty Partners / Liberty Search Ventures",
+        "type": "Family Office / Search Fund Vehicle",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Family office with interest in succession deals. Focuses on healthcare, B2B services, financial services. Targets companies with USD 500K-5M EBITDA, invests USD 500K-1.5M per traditional search fund."
+      },
+      {
+        "name": "Search Fund Partners",
+        "type": "Dedicated Search Fund Investor",
+        "website": "https://www.searchfunds.net/",
+        "hq": "US",
+        "geography_focus": "US, global",
+        "description": "Led by ex-searchers. Dedicated to search fund investment."
+      },
+      {
+        "name": "Next Coast ETA",
+        "type": "Hybrid Search Fund Investor",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Supports both traditional and self-funded searchers. Offers capital, deal sourcing help, and executive recruiting post-close."
+      },
+      {
+        "name": "Red Forest Capital",
+        "type": "Search Fund Investor",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Focused on backing first-time searchers with clear theses and operational potential."
+      },
+      {
+        "name": "The Nashton Company",
+        "type": "Search Fund Investor",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Prioritizes fit between searcher and business. Looks for gritty, execution-focused operators. Stays involved post-close."
+      },
+      {
+        "name": "The Cambria Group",
+        "type": "Lower Middle Market / Search Fund Investor",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Invests across the lower middle market. Occasionally backs searchers where acquisition fits existing portfolio themes."
+      },
+      {
+        "name": "Broadtree Partners",
+        "type": "PE / Search Fund Accelerator",
+        "website": null,
+        "hq": "US",
+        "geography_focus": "US",
+        "description": "Combines private equity model with mentoring style of an accelerator. Helps entrepreneurs acquire and operate lower-middle-market companies. Co-invests and co-operates."
+      }
+    ],
+
+    "search_fund_alliance_members": {
+      "source": "https://www.searchfundalliance.org/member-listing",
+      "description": "Non-profit organization of search fund investors and experienced CEOs, founded 2016.",
+      "known_members": [
+        "Archipelago Capital Partners",
+        "Blue Frame Capital Partners",
+        "Dellin Investments",
+        "Fargo Investments",
+        "Hunter Search Capital",
+        "Liberty Search Ventures",
+        "M2O Search",
+        "Miramar Equity Partners",
+        "Phalkon Ventures",
+        "Relay Investments",
+        "TD Investment",
+        "Klickitat Fund LLC",
+        "Milk Street Ventures",
+        "Operand Group",
+        "Red Forest Capital",
+        "Riviera Capital Partners",
+        "TTCER Partners"
+      ]
+    },
+
+    "accelerators_incubators": [
+      {
+        "name": "Search Fund Accelerator (SFA)",
+        "website": "https://www.searchfundaccelerator.com/",
+        "hq": "Boston, US",
+        "description": "First and most recognized accelerator for search fund entrepreneurs. Founded by Timothy Bovard in 2015. Cohort-based program. Reports 88% acquisition success rate. Active globally."
+      },
+      {
+        "name": "Novastone ETA Hub (with UnternehmerTUM)",
+        "website": "https://novastone-ca.com/",
+        "hq": "Germany",
+        "description": "Germany's first dedicated ETA platform. Partnership between Novastone Partners, UnternehmerTUM, Tengelmann Growth Partners, and Deutsche Bank WM. Promotes succession solutions in mid-market through operator-led buyouts."
+      },
+      {
+        "name": "Acquisition Lab",
+        "website": "https://acquisitionlab.com/",
+        "hq": "US",
+        "description": "Founded by Walker Deibel (author of Buy Then Build). Has closed almost 200 deals worth over USD 350M. Provides structure, standards, and community for operators. Offers aligned funding for qualified operators."
+      },
+      {
+        "name": "Trilogy Search Partners",
+        "website": null,
+        "hq": "US",
+        "description": "Works closely with search fund entrepreneurs, offering funding and ongoing operational mentorship."
+      },
+      {
+        "name": "NextGen Growth Partners",
+        "website": "https://nextgengp.com/",
+        "hq": "US",
+        "description": "Combines search fund principles with institutional investment backing. Integrates operational strategy and data-driven acquisition support."
+      },
+      {
+        "name": "Halstatt Legacy Partners",
+        "website": null,
+        "hq": "US",
+        "description": "Supports search fund entrepreneurs by combining private capital with long-term partnership. Focuses on lower-middle-market companies."
+      },
+      {
+        "name": "Pathfinder Group",
+        "website": null,
+        "hq": "US (West Coast)",
+        "description": "Offers structured mentorship, leadership workshops, and deal support for searchers. Emphasizes clarity, discipline, and leadership."
+      }
+    ],
+
+    "notes": "The European search fund market is growing rapidly. UK is the most active market, followed closely by Spain. Italy and France are approximately 6-8 years behind Spain in development. Germany shows strong potential with ~130,000 SMEs needing succession. A typical European search fund brings together about a dozen investors, each with a minority stake, for an average initial investment of EUR 25,000 per investor."
+  },
+
+  "2_mba_programs_teaching_eta": {
+    "category": "MBA Programs Teaching ETA",
+    "description": "Business schools with formal ETA/search fund courses, programs, clubs, or significant resources.",
+
+    "us_programs": [
+      {
+        "school": "Stanford Graduate School of Business",
+        "country": "US",
+        "program_details": "Pioneer of search fund education. Short course launched 2009 by Peter Kelly and David Dodson. David Dodson wrote original course material for search funds. Stanford's Center for Entrepreneurial Studies (CES) publishes the biennial Search Fund Study (latest: 2024, covering 681 qualifying search funds). Also runs the Search Fund CEO Conference.",
+        "key_professors": ["David Dodson (Lecturer in Management)", "Peter Kelly (Lecturer in Management)", "Sara Heston (Assistant Director, Search Fund Project)"],
+        "website": "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
+      },
+      {
+        "school": "Harvard Business School",
+        "country": "US",
+        "program_details": "Royce Yudkoff and Richard Ruback started teaching ETA ~15 years ago. Two courses: (1) 'The Financial Management of Smaller Firms' (fall, case-based), (2) 'Entrepreneurship through Acquisition' (spring, field). Also offers the Search Fund Fellowship (USD 65,000/year for graduating students to pursue ETA search). Produces the 'Think Big, Buy Small' podcast.",
+        "key_professors": ["Richard S. Ruback (Baker Foundation Professor, Willard Prescott Smith Professor of Corporate Finance)", "Royce Yudkoff (Professor of Management Practice of Entrepreneurial Management)"],
+        "website": "https://www.hbs.edu/"
+      },
+      {
+        "school": "University of Chicago Booth School of Business",
+        "country": "US",
+        "program_details": "Credit-bearing ETA course offered for Full-Time and Evening/Weekend MBA students. Co-hosts the annual Booth-Kellogg ETA Conference. Runs the ETA Insider Podcast. Has emerged as a leading university for ETA training with conference, podcast, and dedicated class.",
+        "key_professors": ["Brian O'Connor (Adjunct Professor of Entrepreneurship, also Managing Partner of NextGen Growth Partners)"],
+        "website": "https://polsky.uchicago.edu/programs-events/entrepreneurship-through-acquisition/"
+      },
+      {
+        "school": "Northwestern Kellogg School of Management",
+        "country": "US",
+        "program_details": "Co-hosts the annual Booth-Kellogg ETA Conference with Chicago Booth. Has ETA-focused resources and student clubs.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "Wharton School (University of Pennsylvania)",
+        "country": "US",
+        "program_details": "Three ETA courses: MGMT 2130 (undergrad: ETA), MGMT 8110 (MBA: ETA), MGMT 8140 (MBA: Search Fund Entrepreneurship). VentureLab ETA program. Hosts the Wharton ETA Summit.",
+        "key_professors": [],
+        "website": "https://venturelab.upenn.edu/ETA"
+      },
+      {
+        "school": "University of Virginia Darden School of Business",
+        "country": "US",
+        "program_details": "Batten Institute supports ETA students with elective courses, independent studies, faculty mentorship, ETA student club, internship support, and speakers. Co-hosts the Southeast ETA Conference (SEETA).",
+        "key_professors": [],
+        "website": "https://www.darden.virginia.edu/batten-institute/entrepreneurship/entrepreneurship-through-acquisition"
+      },
+      {
+        "school": "Duke University Fuqua School of Business",
+        "country": "US",
+        "program_details": "ETA class covering the entire process: funding models, search, negotiation, first 100 days, and exit. Co-hosts SEETA conference.",
+        "key_professors": [],
+        "website": "https://entrepreneurship.duke.edu/mba-entrepreneurship-through-acquisition/"
+      },
+      {
+        "school": "Yale School of Management",
+        "country": "US",
+        "program_details": "Offers search fund/ETA class. Published case studies: 'How to Prepare for a Search Fund During Your MBA' (2020), 'A Reference Guide on European Search Funds' (2023), 'Exploring Various Search Fund Structures' (2021).",
+        "key_professors": [],
+        "website": "https://som.yale.edu/"
+      },
+      {
+        "school": "MIT Sloan School of Management",
+        "country": "US",
+        "program_details": "ETA@MIT Club organizes events and the annual ETA@MIT Summit (10th anniversary edition in February 2026). Active student-led ETA community.",
+        "key_professors": [],
+        "website": "https://www.mitsearchfunds.com/"
+      },
+      {
+        "school": "Carnegie Mellon Tepper School of Business",
+        "country": "US",
+        "program_details": "4-course ETA track: (1) Entrepreneurial Alternatives, (2) ETA Survey, (3) ETA Workshop, (4) Designing and Leading a Business Capstone. Takes students from first hearing about search to launching their own search.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "Dartmouth Tuck School of Business",
+        "country": "US",
+        "program_details": "ETA program/workshop and 'Private Equity Practicum' seminar focused on small market investment.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "UCLA Anderson School of Management",
+        "country": "US",
+        "program_details": "Hosts flagship Southern California ETA conference. Active Entrepreneur Association with ETA focus.",
+        "key_professors": [],
+        "website": "https://www.anderson.ucla.edu/about/clubs-and-associations/institutions/entrepreneur-association-ea/entrepreneurship-through-acquisition"
+      },
+      {
+        "school": "Babson College",
+        "country": "US",
+        "program_details": "Hosts annual ETA conference (February). Strong entrepreneurship focus with ETA curriculum.",
+        "key_professors": [],
+        "website": "https://www.babson.edu/"
+      },
+      {
+        "school": "Columbia Business School",
+        "country": "US",
+        "program_details": "ETA club and coursework. Active in the broader ETA conference circuit.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "University of Washington (UW)",
+        "country": "US",
+        "program_details": "Offers 'Entrepreneurship Through Acquisition (ETA)' course through Professional & Continuing Education, accessible beyond MBA enrollment.",
+        "key_professors": [],
+        "website": "https://www.pce.uw.edu/courses/entrepreneurship-through-acquisition-eta"
+      },
+      {
+        "school": "University of Calgary Haskayne School of Business",
+        "country": "Canada",
+        "program_details": "Dedicated ETA program.",
+        "key_professors": [],
+        "website": "https://haskayne.ucalgary.ca/eta"
+      }
+    ],
+
+    "europe_programs": [
+      {
+        "school": "IESE Business School",
+        "country": "Spain",
+        "program_details": "Home to the International Search Fund Center (since 2011). Hosts the biennial International Search Fund Conference (since 2015, Barcelona). Works in conjunction with Stanford GSB to track and publish biennial reports on international search funds. Jan Simon is Academic Director. Entrepreneurial environment supported by Summer Entrepreneurship Experience, Business Angels Network, and Finaves VC Fund.",
+        "key_professors": ["Jan Simon (Managing Partner of Vonzeo Capital, Academic Director of International Search Fund Center)"],
+        "website": "https://www.iese.edu/entrepreneurship/search-funds/"
+      },
+      {
+        "school": "INSEAD",
+        "country": "France / Singapore",
+        "program_details": "Courses focused on search funds and ETA covering key steps: raising a fund, acquiring and managing a business, evaluation, due diligence, acquisition financing. INSEAD Search Fund & ETA Club. Hosts INSEAD ETA Conference (twice annually starting 2026: May in Fontainebleau, November in Singapore). First conference held Singapore Nov 2025 with 250+ attendees.",
+        "key_professors": [],
+        "website": "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition"
+      },
+      {
+        "school": "London Business School",
+        "country": "United Kingdom",
+        "program_details": "ETA elective available through MBA, EMBA, and Sloan programmes. Equips students with knowledge and skills for starting ETA journey. Part of the Institute of Entrepreneurship and Private Capital.",
+        "key_professors": [],
+        "website": "https://www.london.edu/faculty-and-research/institute-of-entrepreneurship-and-private-capital/opportunities-and-resources/entrepreneurship-through-acquisition"
+      },
+      {
+        "school": "RSM Erasmus University (Rotterdam School of Management)",
+        "country": "Netherlands",
+        "program_details": "Hosts Inaugural RSM ETA Conference focused on the Benelux region. Connects leading investors, operators, search fund entrepreneurs, MBA students and alumni.",
+        "key_professors": [],
+        "website": "https://www.rsm.nl/events/eta-conference/"
+      },
+      {
+        "school": "HEC Paris",
+        "country": "France",
+        "program_details": "16-month MBA program. Known to have ETA-related coursework and student interest groups.",
+        "key_professors": [],
+        "website": "https://www.hec.edu/en/mba-programs/mba"
+      },
+      {
+        "school": "IE Business School",
+        "country": "Spain",
+        "program_details": "Strong entrepreneurship focus with ETA interest. Part of the active Spanish ETA ecosystem.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "ESADE Business School",
+        "country": "Spain",
+        "program_details": "Barcelona-based. Part of the active Spanish search fund ecosystem.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "Cambridge Judge Business School",
+        "country": "United Kingdom",
+        "program_details": "Known ETA activity and student interest in search funds.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "Oxford Said Business School",
+        "country": "United Kingdom",
+        "program_details": "Growing ETA interest. Approximately 320 MBA students annually.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "WHU - Otto Beisheim School of Management",
+        "country": "Germany",
+        "program_details": "German school with ETA coursework. Part of the growing German ETA ecosystem.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "SDA Bocconi School of Management",
+        "country": "Italy",
+        "program_details": "Top-ranked European business school. Growing ETA interest in Italian market.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "IMD Business School",
+        "country": "Switzerland",
+        "program_details": "Swiss school with customizable approach. ETA interest growing in Swiss market.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "University of St. Gallen",
+        "country": "Switzerland",
+        "program_details": "Leading European school. Strategic thinking and international business focus relevant to ETA.",
+        "key_professors": [],
+        "website": null
+      },
+      {
+        "school": "Mannheim Business School",
+        "country": "Germany",
+        "program_details": "Top-ranked German program with growing ETA interest.",
+        "key_professors": [],
+        "website": null
+      }
+    ],
+
+    "asia_pacific": [
+      {
+        "school": "SMEVentures (Asia-Pacific focused)",
+        "country": "Asia-Pacific",
+        "program_details": "Maintains comprehensive list of search fund courses worldwide at smeventures.com/insights/search-fund-courses. Tracks ETA programs globally.",
+        "key_professors": [],
+        "website": "https://www.smeventures.com/insights/search-fund-courses"
+      }
+    ],
+
+    "notes": "Most ETA programs require full MBA enrollment. A comprehensive, maintained list of search fund courses worldwide is available at smeventures.com. The Stanford Search Fund Primer and the IESE International Search Fund Study are the two most important academic publications in the field."
+  },
+
+  "3_ma_brokers_sme": {
+    "category": "M&A Brokers Specialized in SME (by country)",
+    "description": "Brokers, marketplaces, and intermediaries specialized in small/medium business acquisitions.",
+
+    "united_kingdom": [
+      {
+        "name": "BusinessesForSale.com",
+        "website": "https://uk.businessesforsale.com/",
+        "type": "Online Marketplace",
+        "description": "World's largest marketplace with 58,748+ businesses for sale in 130+ countries. Started mid-1990s. UK's No. 1 for business sales.",
+        "deal_size_range": "All sizes"
+      },
+      {
+        "name": "Daltons Business",
+        "website": "https://www.daltonsbusiness.com/",
+        "type": "Online Marketplace",
+        "description": "UK's leading website for buying/selling businesses. Launched 2002 from Daltons Weekly newspaper (published 1867-2011). 20,000+ businesses listed; ~90,000 business buyers visit weekly.",
+        "deal_size_range": "All sizes"
+      },
+      {
+        "name": "Christie & Co",
+        "website": "https://www.christie.com/",
+        "type": "Specialist Business Broker & Advisory",
+        "description": "Largest team of sector specialists in UK. Largest group of hotel specialists in Europe. Professional brokerage and advisory from offices across UK and Europe.",
+        "specialization": "Hotels, healthcare, childcare, retail, leisure",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "Business Sale Report (BSR)",
+        "website": "https://www.business-sale.com/",
+        "type": "Online Marketplace",
+        "description": "Leading UK businesses for sale marketplace.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "france": [
+      {
+        "name": "CRA (Cedants et Repreneurs d'Affaires)",
+        "website": "https://www.cra.asso.fr/",
+        "type": "Non-profit Association",
+        "description": "National non-profit created 1985. Facilitates sale/transmission of SMEs with 3-100 employees. 240 delegates across 73 delegations nationally. ~800 qualified SMEs for sale and 1,500 qualified buyers at any time. ~600 sellers/year, 1,200 buyers. 13,000+ businesses entrusted since founding. 1 in 3 businesses in portfolio results in a sale.",
+        "specialization": "SMEs (3-100 employees), excluding traditional retail/crafts",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Bpifrance Transmission",
+        "website": "https://reprise-entreprise.bpifrance.fr/",
+        "type": "Government-backed Platform",
+        "description": "Bpifrance's dedicated platform for business transmission and acquisition. Partners with CRA and other operators.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Transentreprise",
+        "website": "https://www.transentreprise.com/",
+        "type": "National Platform (Chambers of Commerce)",
+        "description": "National platform backed by chambers of commerce and industry and chambers of trades/crafts. 6,000+ sale offers. Covers 98 departments in France.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Cession PME",
+        "website": null,
+        "type": "Online Marketplace",
+        "description": "Leading French site for sale and acquisition of businesses, shops and franchises. 118,000+ recent listings.",
+        "deal_size_range": "SME to micro"
+      },
+      {
+        "name": "Infogreffe Marketplace",
+        "website": "https://www.infogreffe.fr/",
+        "type": "Official Registry Marketplace",
+        "description": "Partnership with CRA. Official business registry data combined with transmission marketplace.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "germany": [
+      {
+        "name": "nexxt-change",
+        "website": "https://www.nexxt-change.org/",
+        "type": "Government-backed Marketplace",
+        "description": "Germany's largest exchange for business succession. Free for both sides. Offered by Federal Ministry for Economics with KfW Banking Group, DIHK, Sparkassen. ~800 regional partners. 1,000+ successful successions annually.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "DUB.de (Deutsche Unternehmerborse)",
+        "website": "https://www.dub.de/",
+        "type": "Online Marketplace (Paid)",
+        "description": "Most far-reaching independent online platform for business transactions in Germany since 2011. ~80,000 registered users. ~3,500 listings. Paid listings (several hundred euros).",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "KERN - Unternehmensnachfolge",
+        "website": "https://www.kern-unternehmensnachfolge.com/en/",
+        "type": "Specialist Succession Consultancy (Franchise)",
+        "description": "One of the largest consultant groups of succession specialists in Germany, Austria, Switzerland, and Europe. 28 locations. Focuses on business sales, generational change, and purchases.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Carl Finance",
+        "website": null,
+        "type": "Mid-market Sales Platform",
+        "description": "Founded 2016. Professional sales support for mid-market businesses. Network of 160 partner consultants. Provides active support (unlike nexxt-change or DUB which are passive marketplaces).",
+        "deal_size_range": "Mid-market SME"
+      },
+      {
+        "name": "Pro-Consult",
+        "website": "https://www.pro-consult.com/en/home",
+        "type": "M&A Broker & Consultant",
+        "description": "SME business broker and M&A consultant for 25+ years. Cross-border capabilities with specialized local representatives across Europe.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "spain": [
+      {
+        "name": "BusinessesForSale.com Spain",
+        "website": "https://spain.businessesforsale.com/",
+        "type": "Online Marketplace",
+        "description": "58,610+ businesses for sale in Spain from top brokers and independent sellers.",
+        "deal_size_range": "All sizes"
+      },
+      {
+        "name": "Business Broker Spain",
+        "website": "https://businessbrokerspain.com/",
+        "type": "Business Agent",
+        "description": "Premier business agent offering the largest selection of businesses for sale in Spain.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Direct Business Brokers (Spain)",
+        "website": "https://directbusinessbrokers.com/",
+        "type": "Business Broker",
+        "description": "Helps buyers find business opportunities in Spain.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "italy": [
+      {
+        "name": "Consulting Italia Group SRL",
+        "website": "https://www.consultingitaliagroup.com/",
+        "type": "Business Broker",
+        "description": "Italian firm specializing in cessione (sale), vendita (sale) and acquisto (purchase) of businesses.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Synergy Business Brokers (Italy operations)",
+        "website": "https://synergybb.com/businesses-for-sale/europe/",
+        "type": "International Broker",
+        "description": "Has buyers for companies in Italy among other European countries.",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "SMERGERS (Italy)",
+        "website": "https://www.smergers.com/business-brokers-in-europe/c82m15i/",
+        "type": "AI-powered M&A Platform",
+        "description": "First online investment bank for SMEs. Lists active business brokers in Italy.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "netherlands": [
+      {
+        "name": "Brookz",
+        "website": "https://www.brookz.nl/",
+        "type": "Online Marketplace",
+        "description": "Platform for business acquisitions in the Netherlands. 1,200+ businesses for sale.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Bedrijventekoop.nl",
+        "website": "https://www.bedrijventekoop.nl/en",
+        "type": "Online Platform",
+        "description": "Platform for businesses for sale in the Netherlands.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Company Brokers",
+        "website": "https://www.combrok.nl/en/",
+        "type": "Specialist Business Broker",
+        "description": "Specialist in bedrijfsovernames (business acquisitions). Operates in the Netherlands and internationally.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "MaeS en Partners",
+        "website": null,
+        "type": "M&A Advisory",
+        "description": "~25 transactions annually. Guided 300+ acquisitions over 25+ year history.",
+        "deal_size_range": "SME to mid-market"
+      }
+    ],
+
+    "switzerland": [
+      {
+        "name": "Companymarket",
+        "website": "https://www.companymarket.ch/en",
+        "type": "Online Marketplace",
+        "description": "Largest succession and business brokerage portal in Switzerland. Originally launched 2007 as NEXTmarket. 1M+ page views, 1,000+ active search subscriptions per year.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Business Broker AG",
+        "website": "https://www.businessbroker.ch/en/",
+        "type": "Specialist Broker/Consultancy",
+        "description": "15+ years specializing in company sales and succession for Swiss SMEs. Database with several hundred companies for sale. All sectors.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "OBT",
+        "website": "https://www.obt.ch/en/our-services/buying-and-selling-companies",
+        "type": "Advisory Firm",
+        "description": "Swiss advisory firm offering buying and selling company services.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "TCFG",
+        "website": "https://tcfg.ch/en/nachfolgeregelungen",
+        "type": "M&A and Corporate Finance Consultancy",
+        "description": "Mergers & Acquisitions and Corporate Finance consulting. Specializes in entrepreneurial successions.",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "Swiss AMF AG",
+        "website": "https://swissamf.com/business-broker",
+        "type": "M&A Broker",
+        "description": "Leading Swiss corporate administration services provider with M&A business broker services.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "nordics": [
+      {
+        "name": "Dealsuite (Nordics)",
+        "website": "https://www.dealsuite.com/",
+        "type": "M&A Transaction Platform",
+        "description": "Leading platform for M&A transactions. 121 Nordic M&A advisory firms contributed expertise. Detailed data on Nordic mid-market (EUR 1M-200M revenue).",
+        "deal_size_range": "EUR 1M-200M revenue companies"
+      },
+      {
+        "name": "Lincoln International (Nordics)",
+        "website": "https://www.lincolninternational.com/worldwide/nordics/",
+        "type": "M&A Advisory",
+        "description": "Nordic office originated as regional M&A boutique in Stockholm, joined Lincoln in 2018. Serves Sweden, Norway, Denmark, Finland.",
+        "deal_size_range": "Mid-market"
+      },
+      {
+        "name": "Yrityskaupat.net",
+        "website": "https://www.yrityskaupat.net/en/businesses-for-sale/",
+        "type": "Online Marketplace",
+        "description": "Finnish platform for businesses for sale (Foretag till salu).",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Sunbelt Business Brokers (Norway)",
+        "website": "https://www.sunbeltnetwork.com/international/norway/",
+        "type": "International Broker Network",
+        "description": "Part of global Sunbelt network, serving Norwegian market.",
+        "deal_size_range": "SME"
+      }
+    ],
+
+    "united_states": [
+      {
+        "name": "BizBuySell",
+        "website": "https://www.bizbuysell.com/",
+        "type": "Online Marketplace",
+        "description": "World's largest proprietary database of businesses for sale. Wide variety of industries and sizes from USD 50K to USD 50M.",
+        "deal_size_range": "USD 50K - 50M"
+      },
+      {
+        "name": "Sunbelt Business Brokers",
+        "website": "https://www.sunbeltnetwork.com/",
+        "type": "Broker Network",
+        "description": "Since 1978. Claims to have sold more businesses than any broker in the world. 1,000+ brokers worldwide. Largest proprietary database. #1 firm per IBBA for two years running. Annual revenue USD 500K-50M.",
+        "deal_size_range": "USD 500K - 50M revenue"
+      },
+      {
+        "name": "Murphy Business & Financial Services",
+        "website": null,
+        "type": "Business Brokerage",
+        "description": "Offices in 36 US states plus Canada. 25 years in business. High closing ratio. Brokerage, valuations, M&A, appraisals, commercial real estate.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Viking Mergers & Acquisitions",
+        "website": "https://www.vikingmergers.com/",
+        "type": "M&A Advisory / Broker",
+        "description": "Sold 950+ businesses since 1996. Offices across Southeast, Mid-Atlantic, and Texas.",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "DealStream",
+        "website": "https://dealstream.com/",
+        "type": "Online Marketplace",
+        "description": "Leading online marketplace connecting buyers and sellers globally, including European businesses.",
+        "deal_size_range": "All sizes"
+      },
+      {
+        "name": "Axial",
+        "website": "https://www.axial.net/",
+        "type": "Lower Middle Market M&A Platform",
+        "description": "Platform connecting lower middle market companies with capital. Lists search funds, PE firms, and business brokers.",
+        "deal_size_range": "Lower middle market"
+      }
+    ],
+
+    "pan_european": [
+      {
+        "name": "SMERGERS",
+        "website": "https://www.smergers.com/",
+        "type": "AI-powered M&A Platform",
+        "description": "First online investment bank for SMEs. 2,346+ active businesses for sale in Europe. 138+ active brokers in Europe.",
+        "deal_size_range": "SME"
+      },
+      {
+        "name": "Synergy Business Brokers",
+        "website": "https://synergybb.com/",
+        "type": "International Broker",
+        "description": "Buyers for companies across UK, Germany, Spain, Italy, Romania, France, Portugal, Belgium, Sweden, Croatia, and more.",
+        "deal_size_range": "SME to mid-market"
+      },
+      {
+        "name": "Flippa",
+        "website": "https://flippa.com/business-brokers",
+        "type": "Online Marketplace / Broker Directory",
+        "description": "Global marketplace for buying/selling businesses. Lists top brokers by country across Europe.",
+        "deal_size_range": "Micro to SME (especially digital businesses)"
+      },
+      {
+        "name": "Clairfield International",
+        "website": null,
+        "type": "M&A Advisory Network",
+        "description": "Top-10 M&A advisor in France, Germany, Spain, and Nordics. Specialist mid-market M&A network.",
+        "deal_size_range": "Mid-market"
+      }
+    ]
+  },
+
+  "4_eta_conferences_events": {
+    "category": "ETA Conferences & Events",
+    "description": "Conferences, summits, and networking events related to ETA and search funds.",
+
+    "major_conferences": [
+      {
+        "name": "IESE International Search Fund Conference",
+        "location": "Barcelona, Spain",
+        "frequency": "Biennial (every 2 years since 2015)",
+        "next_date": "October 15-16, 2026 (7th edition)",
+        "description": "Primary global gathering for traditional searchers, institutional investors, and SMB operators. Hosted at IESE's Barcelona campus. Brings together search-CEOs, active searchers, new searchers, leading academics, and search fund investors worldwide.",
+        "website": "https://www.iese.edu/entrepreneurship/search-funds/"
+      },
+      {
+        "name": "Stanford Search Fund CEO Conference",
+        "location": "Stanford, California, US",
+        "frequency": "Annual",
+        "next_date": "April 7, 2026",
+        "description": "Focuses on search fund CEOs. Hosted by Stanford GSB's Center for Entrepreneurial Studies.",
+        "website": "https://www.gsb.stanford.edu/events"
+      },
+      {
+        "name": "Booth-Kellogg Entrepreneurship Through Acquisition (ETA) Conference",
+        "location": "Chicago/Evanston, Illinois, US",
+        "frequency": "Annual (12th edition in 2026)",
+        "next_date": "March 10, 2026 at Kellogg School of Management, Evanston, IL",
+        "description": "Annual event bringing together search fund entrepreneurs, investors, MBA students, faculty, and other ETA participants.",
+        "website": "http://www.etaconference.com/"
+      },
+      {
+        "name": "INSEAD ETA Conference",
+        "location": "Fontainebleau, France (May) / Singapore (November)",
+        "frequency": "Twice annually starting 2026",
+        "next_date": "May 9, 2026 (Fontainebleau); November 2026 (Singapore)",
+        "description": "First edition held Singapore Nov 2025 with 250+ attendees. Starting 2026, held twice annually bringing international dimension to ETA circuit.",
+        "website": "https://clubs.insead.edu/searchfund/conference/"
+      },
+      {
+        "name": "MIT Sloan ETA Summit (ETA@MIT)",
+        "location": "Cambridge, Massachusetts, US",
+        "frequency": "Annual",
+        "next_date": "February 2026 (10th Anniversary edition)",
+        "description": "Titled 'Breaking the Model: Reinventing the Traditional Search Fund.' Explores emerging search tools, first-100-day CEO lessons, 2026 financing trends.",
+        "website": "https://www.mitsearchfunds.com/2026-etamit-summit"
+      },
+      {
+        "name": "Southeast Entrepreneurship Through Acquisition Conference (SEETA)",
+        "location": "Varies (Charlottesville VA / Durham NC)",
+        "frequency": "Annual",
+        "next_date": "September 18-19, 2026 at Duke Fuqua School of Business",
+        "description": "Co-hosted by UVA Darden, UNC Kenan-Flagler, and Duke Fuqua. Equips MBA students and professionals to pursue business acquisition. Highly regarded for accessibility to mid-career professionals.",
+        "website": "https://www.seetaconference.org/"
+      },
+      {
+        "name": "Wharton ETA Summit",
+        "location": "Philadelphia, Pennsylvania, US",
+        "frequency": "Annual",
+        "next_date": "April 3, 2026 at Huntsman Hall, Wharton",
+        "description": "Wharton School's dedicated ETA summit.",
+        "website": "https://whartonetaconference.swoogo.com/2026"
+      },
+      {
+        "name": "Kellogg ETA Summit",
+        "location": "Evanston, Illinois, US",
+        "frequency": "Annual",
+        "next_date": "April 10, 2026",
+        "description": "Kellogg School of Management's dedicated ETA summit (separate from the joint Booth-Kellogg conference).",
+        "website": null
+      },
+      {
+        "name": "UCLA Anderson ETA Conference",
+        "location": "Los Angeles, California, US",
+        "frequency": "Annual",
+        "next_date": "April 2, 2026, 8:30am-7:30pm at UCLA Luskin Conference Center",
+        "description": "Flagship Southern California ETA conference.",
+        "website": "https://www.anderson.ucla.edu/"
+      },
+      {
+        "name": "Babson ETA Conference",
+        "location": "Boston, Massachusetts, US",
+        "frequency": "Annual",
+        "next_date": "February 2026 (typically early February)",
+        "description": "Babson College's dedicated ETA conference.",
+        "website": "https://www.babson.edu/"
+      },
+      {
+        "name": "Texas ETA Summit",
+        "location": "Texas, US",
+        "frequency": "New (inaugural 2026)",
+        "next_date": "February 2026",
+        "description": "Inaugural Texas ETA Summit, part of the busiest month for ETA conferences.",
+        "website": null
+      },
+      {
+        "name": "RSM ETA Conference (Benelux)",
+        "location": "Rotterdam, Netherlands",
+        "frequency": "New (inaugural)",
+        "next_date": "TBD",
+        "description": "Inaugural conference focused on the growing ETA landscape in the Benelux region. Hosted by RSM Erasmus University.",
+        "website": "https://www.rsm.nl/events/eta-conference/"
+      },
+      {
+        "name": "Latam Search Fund Conference",
+        "location": "Latin America",
+        "frequency": "Annual",
+        "next_date": "February 2026 (2nd edition)",
+        "description": "Second edition of the Latin American Search Fund Conference.",
+        "website": null
+      },
+      {
+        "name": "Bits & Pretzels ETA Track",
+        "location": "Munich, Germany",
+        "frequency": "Annual (part of broader conference)",
+        "next_date": "2025/2026 editions",
+        "description": "UnternehmerTUM, Novastone, Deutsche Bank, and Tengelmann Growth Partners put ETA center stage at this major European startup/business conference.",
+        "website": "https://www.bitsandpretzels.com/eta"
+      }
+    ],
+
+    "event_directories": [
+      {
+        "name": "Searcher Insights Conference Directory",
+        "website": "https://searcherinsights.com/list-of-search-fund-conferences/",
+        "description": "Comprehensive list of search fund conferences with dates and registration links."
+      },
+      {
+        "name": "Equire Finance ETA Events",
+        "website": "https://www.equire.co/eta-events",
+        "description": "Upcoming ETA events directory."
+      },
+      {
+        "name": "ETA Equity Events",
+        "website": "https://etaequity.com/events/",
+        "description": "Upcoming events in the investor community."
+      },
+      {
+        "name": "Searchfunder Events",
+        "website": "https://www.searchfunder.com/event",
+        "description": "Community-maintained events calendar."
+      },
+      {
+        "name": "Jim Stein Sharpe Conferences",
+        "website": "https://jimsteinsharpe.com/conferences/",
+        "description": "Comprehensive conference listing maintained by search fund expert."
+      }
+    ]
+  },
+
+  "5_eta_podcasts": {
+    "category": "ETA Podcasts",
+    "description": "Podcasts about ETA, search funds, and small business acquisition.",
+
+    "english_language": [
+      {
+        "name": "Acquiring Minds",
+        "host": "Will Smith",
+        "language": "English",
+        "frequency": "2x per week",
+        "description": "Premier podcast for acquisition entrepreneurs. Interviews with people who have actually bought businesses, from BizBuySell buyers to traditional searchers. Real, actionable insights.",
+        "platform_links": {
+          "website": "https://acquiringminds.co/",
+          "apple": "https://podcasts.apple.com/us/podcast/acquiring-minds/id1569715379"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "Think Like an Owner",
+        "host": "Alex Dignon",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "Seeks conversations with small company owners and investors to learn how to acquire and run small companies. Focus on search funds, micro private equity, and permanent capital.",
+        "platform_links": {
+          "website": "https://tlaopodcast.com/",
+          "apple": "https://podcasts.apple.com/us/podcast/think-like-an-owner/id1445929750"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "ETA Insider Podcast",
+        "host": "Brian O'Connor (Adjunct Professor, Chicago Booth; Managing Partner, NextGen Growth Partners)",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "All things related to search funds and ETA. Produced by Polsky Center for Entrepreneurship at University of Chicago.",
+        "platform_links": {
+          "website": "https://polsky.uchicago.edu/podcasts/eta-insider/",
+          "apple": "https://podcasts.apple.com/us/podcast/eta-insider-podcast/id1149510247",
+          "spotify": "https://open.spotify.com/show/2FJXqCmBDfIHmCb4eyXdVV"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "Think Big, Buy Small",
+        "host": "Harvard Business School",
+        "language": "English",
+        "frequency": "Seasonal",
+        "description": "HBS podcast about ETA. Season 3 features guests like Will Smith (Acquiring Minds host) and Paige Sopcic (President, CanSource). Spotlights the growing world of acquisition entrepreneurship.",
+        "platform_links": {
+          "website": "https://www.hbs.edu/news/podcasts/think-big-buy-small/"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "Search Funded: The ETA Podcast",
+        "host": "Nick Lall",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "Interviews with acquisition entrepreneurs and investors to distill best practices for acquiring and operating established businesses.",
+        "platform_links": {
+          "apple": "https://podcasts.apple.com/us/podcast/search-funded-the-eta-podcast/id1655263215",
+          "spotify": "https://open.spotify.com/show/6ospuSKzJJEBaJpzD2iU1V"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "INSEAD ETA and Search Funds Podcast",
+        "host": "INSEAD Centre for Entrepreneurship",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "Explores the dynamic world of ETA. Episodes showcase individuals from across the ETA journey--entrepreneurs in search, operations, exit, and experienced investors.",
+        "platform_links": {
+          "website": "https://www.spreaker.com/podcast/insead-eta-and-search-funds-podcast--6486287"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "The M&A Zing",
+        "host": "Not specified",
+        "language": "English",
+        "frequency": "Weekly",
+        "description": "Weekly insights for SMB M&A, search funds, HoldCo builders and acquisition entrepreneurs. Topics and challenges impacting SMB succession.",
+        "platform_links": {},
+        "status": "Active"
+      },
+      {
+        "name": "How2Exit: Buy, Don't Build",
+        "host": "Ronald P. Skelton",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "Premier podcast for entrepreneurs, advisors, and everyone in between about buying, growing, and selling small businesses valued below USD 20M. 290+ episodes over 4 years.",
+        "platform_links": {
+          "website": "https://www.how2exit.com/",
+          "apple": "https://podcasts.apple.com/us/podcast/how2exit-buy-dont-build-m-a-of-small-businesses/id1561038705",
+          "spotify": "https://open.spotify.com/show/3GqDzcT3VNK0yhfvMghOLr"
+        },
+        "status": "Active",
+        "episode_count": "290+"
+      },
+      {
+        "name": "Buy and Build",
+        "host": "Paul Quirk",
+        "language": "English",
+        "frequency": "Weekly",
+        "description": "Weekly podcast exploring nuances of buying and building small businesses. Focus on UK and Europe. Recommended for UK and European searchers.",
+        "platform_links": {
+          "apple": "https://podcasts.apple.com/gb/podcast/buy-and-build/id1585550753",
+          "spotify": "https://open.spotify.com/show/4fl6zA4LbH9BlftkMEDKeL"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "Sense and Sensibility in Search Fund Universe",
+        "host": "Not specified",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "Dedicated to exploring art and science of search funds and ETA. Balances strategic/analytical side with human/intuitive elements of deal-making and relationship-building.",
+        "platform_links": {
+          "apple": "https://podcasts.apple.com/za/podcast/sense-and-sensibility-in-search-fund-universe/id1836761722"
+        },
+        "status": "Active"
+      },
+      {
+        "name": "Minds Capital Podcast",
+        "host": "Will Smith & Niklas James",
+        "language": "English",
+        "frequency": "Regular",
+        "description": "50+ interviews with sponsors and capital providers. Connection to the growing world of independent sponsorship and entrepreneurial private equity.",
+        "platform_links": {
+          "website": "https://www.mindscapital.co/podcast",
+          "apple": "https://podcasts.apple.com/us/podcast/minds-capital-podcast/id1797204394"
+        },
+        "status": "Active"
+      }
+    ],
+
+    "notes": "No dedicated French or Spanish language ETA podcasts were identified in research, though some episodes of broader business podcasts may cover the topic. The INSEAD podcast covers international perspectives including European markets."
+  },
+
+  "6_eta_books": {
+    "category": "ETA Books",
+    "description": "Curated reading list of essential books for search fund entrepreneurs and investors.",
+
+    "core_search_fund_books": [
+      {
+        "title": "Search Funds & Entrepreneurial Acquisitions: The Roadmap for Buying a Business and Leading it to the Next Level",
+        "author": "Jan Simon",
+        "year": 2022,
+        "isbn": "978-0228864035 (hardcover) / 978-0228861768",
+        "description": "Comprehensive and definitive guide to search funds. Best-practices-based roadmap for searchers, acquisition entrepreneurs, investors and board members. Written by IESE's Academic Director of the International Search Fund Center and Vonzeo Capital Managing Partner. 4.44/5 on Goodreads.",
+        "relevance": "Core ETA / Search Fund specific"
+      },
+      {
+        "title": "HBR Guide to Buying a Small Business: Think Big, Buy Small, Own Your Own Company",
+        "author": "Richard S. Ruback & Royce Yudkoff",
+        "year": 2017,
+        "isbn": "978-1633692503",
+        "description": "Practical manual from Harvard Business Review. Covers value assessment, deal structure, pricing, terms, legal steps, tax issues, and post-acquisition operations. Written by the two HBS professors who pioneered ETA education.",
+        "relevance": "Core ETA / Search Fund specific"
+      },
+      {
+        "title": "Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game",
+        "author": "Walker Deibel",
+        "year": 2018,
+        "isbn": "978-1544501130 (1st ed) / 978-1544535661 (2nd ed)",
+        "description": "Cornerstone book for acquisition entrepreneurs. Positions buying a business as smarter alternative to starting from scratch. Compelling and accessible introduction to ETA. Deibel also founded Acquisition Lab.",
+        "relevance": "Core ETA / Acquisition Entrepreneurship"
+      },
+      {
+        "title": "Stanford Search Fund Primer",
+        "author": "Stanford Graduate School of Business (various authors)",
+        "year": "Updated periodically (latest 2020)",
+        "isbn": null,
+        "description": "The most important foundational resource in the search fund community. Free publication from Stanford GSB covering the search fund model, economics, and process.",
+        "relevance": "Essential / Foundational (free resource)"
+      },
+      {
+        "title": "2024 Search Fund Study",
+        "author": "Peter Kelly, Sara Heston (Stanford GSB)",
+        "year": 2024,
+        "isbn": null,
+        "description": "Biennial study analyzing 681 qualifying search funds in US and Canada. Found aggregate pre-tax IRR of 35.1% and 4.5x ROIC. The gold-standard data source for search fund performance.",
+        "relevance": "Essential Research"
+      }
+    ],
+
+    "acquisition_process_books": [
+      {
+        "title": "The Art of Buying a Business",
+        "author": "Richard Parker",
+        "year": null,
+        "isbn": null,
+        "description": "Straightforward advice and strategies for navigating the business-buying process. Ideal for first-time buyers looking for a clear roadmap.",
+        "relevance": "Acquisition Process"
+      },
+      {
+        "title": "Buying a Business That Makes You Rich",
+        "author": "John Martinka",
+        "year": null,
+        "isbn": null,
+        "description": "Recommended by the ETA community. Practical guide to finding and buying the right business.",
+        "relevance": "Acquisition Process"
+      },
+      {
+        "title": "How to Buy a Business without Being Had",
+        "author": "Jack (John) Chmielewski",
+        "year": null,
+        "isbn": null,
+        "description": "Popular in the ETA community for practical negotiation and due diligence advice.",
+        "relevance": "Acquisition Process / Due Diligence"
+      },
+      {
+        "title": "The Messy Marketplace: Selling Your Business in a World of Imperfect Buyers",
+        "author": "Brent Beshore",
+        "year": 2018,
+        "isbn": null,
+        "description": "Insight into how sellers think, what motivates them, and how to approach acquisitions with seller perspective in mind. Helps acquisition entrepreneurs understand the other side of the deal.",
+        "relevance": "Acquisition Process / Seller Psychology"
+      },
+      {
+        "title": "The Private Equity Playbook",
+        "author": "Adam Coffey",
+        "year": 2019,
+        "isbn": null,
+        "description": "While aimed at PE professionals, offers value for acquisition entrepreneurs around value creation and post-acquisition management.",
+        "relevance": "Private Equity / Value Creation"
+      },
+      {
+        "title": "Buy Your Business: A Guide to Entrepreneurship through Acquisition",
+        "author": "Jacob M. Krum",
+        "year": null,
+        "isbn": null,
+        "description": "Covers choosing the right company for your skillset, finding businesses for sale, due diligence, funding, automating operations, and exit strategy.",
+        "relevance": "Acquisition Entrepreneurship"
+      },
+      {
+        "title": "Acquiring Entrepreneurship",
+        "author": null,
+        "year": null,
+        "isbn": null,
+        "description": "Contains stories from 40+ leading business operators, searchers, and investors. Details how to build networks with ETA community members.",
+        "relevance": "ETA Community / Networking"
+      }
+    ],
+
+    "operations_management_books": [
+      {
+        "title": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It",
+        "author": "Michael E. Gerber",
+        "year": 1995,
+        "isbn": "978-0887307287",
+        "description": "Classic book on building systems and processes to make small businesses more efficient and scalable. Critical for any acquisition entrepreneur managing a newly acquired business.",
+        "relevance": "Operations / Systems Building"
+      },
+      {
+        "title": "Traction: Get a Grip on Your Business",
+        "author": "Gino Wickman",
+        "year": 2011,
+        "isbn": "978-1936661831",
+        "description": "Introduces the Entrepreneurial Operating System (EOS). Framework used by many successful operators to effectively manage and grow small businesses.",
+        "relevance": "Operations / Business Operating System"
+      },
+      {
+        "title": "Built to Sell: Creating a Business That Can Thrive Without You",
+        "author": "John Warrillow",
+        "year": 2011,
+        "isbn": "978-1591845829",
+        "description": "Essential for understanding what makes a business attractive to buyers. Useful for building value in an acquired business and preparing for eventual exit.",
+        "relevance": "Operations / Exit Preparation"
+      },
+      {
+        "title": "Good to Great: Why Some Companies Make the Leap... and Others Don't",
+        "author": "Jim Collins",
+        "year": 2001,
+        "isbn": "978-0066620992",
+        "description": "Classic business transformation study. Relevant for search fund CEOs taking over and transforming acquired companies.",
+        "relevance": "Leadership / Transformation"
+      },
+      {
+        "title": "The First 90 Days: Proven Strategies for Getting Up to Speed Faster and Smarter",
+        "author": "Michael D. Watkins",
+        "year": 2003,
+        "isbn": "978-1422188613",
+        "description": "Essential reading for search fund CEOs transitioning into their acquired company. Framework for the critical first months.",
+        "relevance": "Leadership / Transition Management"
+      },
+      {
+        "title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+        "author": "John Doerr",
+        "year": 2018,
+        "isbn": "978-0525536222",
+        "description": "OKR framework applicable to managing acquired businesses and setting clear objectives.",
+        "relevance": "Operations / Goal Setting"
+      }
+    ],
+
+    "ma_valuation_books": [
+      {
+        "title": "How to Invest: Masters on the Craft",
+        "author": "David M. Rubenstein",
+        "year": 2022,
+        "isbn": "978-1982190309",
+        "description": "New York Times bestseller with conversations with biggest names in finance. Covers venture capital, real estate, PE, hedge funds, and more.",
+        "relevance": "Investment / Broader Context"
+      }
+    ],
+
+    "resource_directories": [
+      {
+        "name": "Searchfunder ETA Books",
+        "url": "https://searchfunder.com/post/eta-books"
+      },
+      {
+        "name": "Search Funds News Recommended Books",
+        "url": "https://searchfundsnews.com/resources/recommended-books/"
+      },
+      {
+        "name": "Newton Equity / Search Fund Institute Library",
+        "url": "https://www.newtonequity.com/searchfundinstitute/library"
+      },
+      {
+        "name": "Goodreads Search Fund Shelf",
+        "url": "https://www.goodreads.com/shelf/show/search-fund"
+      },
+      {
+        "name": "Goodreads ETA Shelf",
+        "url": "https://www.goodreads.com/shelf/show/eta"
+      }
+    ]
+  },
+
+  "7_legal_tax_advisory_firms": {
+    "category": "Legal/Tax Advisory Firms (by country)",
+    "description": "Firms that work with or specialize in search fund acquisitions and SME M&A.",
+
+    "united_kingdom": [
+      {
+        "name": "Irwin Mitchell",
+        "type": "Law Firm",
+        "website": "https://www.irwinmitchell.com/business/corporate/search-funds",
+        "specialization": "Dedicated Search Fund and ETA practice. Years of experience advising on search fund transactions.",
+        "notes": "Drinks sponsor of the ETA Awards."
+      },
+      {
+        "name": "Gerald Edelman",
+        "type": "Accountancy / Advisory",
+        "website": "https://www.geraldedelman.com/who-we-help/search-funds-uk/",
+        "specialization": "Leading reputation in the ETA community. Founders of the ETA Awards. Assists with structuring search vehicles, acquisition 'bidcos', share capital structure, preference share mechanics. Corporate finance advisory.",
+        "notes": "Led by Carl Lundberg (CEO and Founder of The ETA Awards)."
+      },
+      {
+        "name": "Buzzacott",
+        "type": "Accountancy / Tax / Advisory",
+        "website": "https://www.buzzacott.co.uk/",
+        "specialization": "Financial and tax due diligence, transaction advisory, and tax structuring for search fund and ETA clients. Advised Novastone Capital Advisors on acquisitions.",
+        "notes": "Specialist experience from initial review through to completion."
+      },
+      {
+        "name": "Fladgate LLP",
+        "type": "Law Firm",
+        "website": null,
+        "specialization": "Legal advice on search fund transactions. Tax partner (Richard Harbot) with two decades M&A and PE experience. Works with Gerald Edelman's Corporate Finance team.",
+        "notes": null
+      }
+    ],
+
+    "france": [
+      {
+        "name": "Jeausserand Audouard",
+        "type": "Law Firm",
+        "website": "https://www.jeausserand-audouard.com/",
+        "specialization": "M&A and tax law. Assists entrepreneurs, managers, investors during complex operations. Recognized for LBO management packages. ~30 lawyers, 10 partners. 30+ corporate operations per year in PE, M&A, tax.",
+        "location": "Paris",
+        "notes": "Founded 2015. 60 people. Legal 500 ranked for LBO."
+      }
+    ],
+
+    "spain": [
+      {
+        "name": "Uria Menendez",
+        "type": "Law Firm",
+        "website": null,
+        "specialization": "Leading Spanish M&A firm. Wide range of experience in high-profile M&A deals. Expertise in carve-outs, tender offers, corporate governance. Handled USD 35.68B from 157 deals.",
+        "notes": "Largest domestic Spanish firm."
+      },
+      {
+        "name": "Garrigues",
+        "type": "Law Firm",
+        "website": null,
+        "specialization": "Extensive M&A team with multidisciplinary approach. Industry expertise in renewable energy, telecom, healthcare. Experience in public M&A, takeover bids.",
+        "notes": "Key partner for banks, PE funds, real estate investors."
+      },
+      {
+        "name": "CMS (Spain/Iberia)",
+        "type": "International Law Firm",
+        "website": null,
+        "specialization": "45 deals in Iberian M&A transactions in 2024. Cross-border capabilities.",
+        "notes": null
+      },
+      {
+        "name": "Freshfields (Spain)",
+        "type": "International Law Firm",
+        "website": "https://www.freshfields.com/en/locations/europe/spain",
+        "specialization": "M&A and reorganizations. Cross-border mandates coordinating with colleagues in Germany and London. Assists foreign companies entering/exiting Spanish market.",
+        "notes": null
+      },
+      {
+        "name": "Addleshaw Goddard (Spain)",
+        "type": "International Law Firm",
+        "website": "https://www.addleshawgoddard.com/en/international/europe/spain/",
+        "specialization": "Tax and structuring expertise for M&A transactions.",
+        "notes": null
+      }
+    ],
+
+    "germany": [
+      {
+        "name": "Vectocon",
+        "type": "Integrated Legal & Tax Advisory",
+        "website": "https://contenthub.vectocon.de/",
+        "specialization": "Integrated legal and tax advisory from single source for company acquisitions. Specializes in acquisitions for international buyers in Germany. Ensures tax efficiency while maintaining legal certainty.",
+        "notes": null
+      },
+      {
+        "name": "CMS (Germany)",
+        "type": "International Law Firm",
+        "website": "https://cms.law/",
+        "specialization": "Tax lawyers in Switzerland and Germany. Broad M&A capabilities.",
+        "notes": null
+      }
+    ],
+
+    "switzerland": [
+      {
+        "name": "Bar & Karrer",
+        "type": "Law Firm",
+        "website": null,
+        "specialization": "Leading position in market for tax issues related to M&A transactions.",
+        "notes": null
+      },
+      {
+        "name": "MLL Legal",
+        "type": "Law Firm",
+        "website": "https://mll-legal.com/",
+        "specialization": "Leading Swiss tax practice. Offices in Zurich, Zug, Geneva. Advises Swiss and international clients on domestic and international taxation.",
+        "notes": null
+      },
+      {
+        "name": "Pestalozzi Attorneys at Law",
+        "type": "Law Firm",
+        "website": "https://pestalozzilaw.com/",
+        "specialization": "Expertise in industry-specific tax matters in asset management and investment funds.",
+        "notes": null
+      },
+      {
+        "name": "Oberson Abels",
+        "type": "Tax Boutique",
+        "website": null,
+        "specialization": "Strong presence in French-speaking Switzerland. Advises on tax aspects of M&A and project financing transactions.",
+        "notes": null
+      }
+    ],
+
+    "pan_european_global": [
+      {
+        "name": "Baker McKenzie",
+        "type": "Global Law Firm",
+        "website": "https://www.bakermckenzie.com/",
+        "specialization": "1,300+ M&A lawyers in 40+ locations. Market-leading tax and M&A practitioners. Broadest footprint of any law firm.",
+        "notes": null
+      },
+      {
+        "name": "A&O Shearman",
+        "type": "Global Law Firm",
+        "website": "https://www.aoshearman.com/",
+        "specialization": "Formed 2024 via merger of Allen & Overy and Shearman & Sterling. Top-tier corporate and M&A advice worldwide.",
+        "notes": null
+      },
+      {
+        "name": "Clifford Chance",
+        "type": "Global Law Firm",
+        "website": "https://www.cliffordchance.com/",
+        "specialization": "Major global M&A practice.",
+        "notes": null
+      },
+      {
+        "name": "Cleary Gottlieb",
+        "type": "Global Law Firm",
+        "website": "https://www.clearygottlieb.com/",
+        "specialization": "Multiple Band 1 ranked M&A teams across Europe (Chambers).",
+        "notes": null
+      },
+      {
+        "name": "KPMG",
+        "type": "Big 4 / Advisory",
+        "website": "https://kpmg.com/",
+        "specialization": "M&A tax advisory including deal advisory, business tax, and transaction structuring.",
+        "notes": null
+      },
+      {
+        "name": "EY",
+        "type": "Big 4 / Advisory",
+        "website": "https://www.ey.com/",
+        "specialization": "International tax planning. Financial services tax team. Fund tax reporting.",
+        "notes": null
+      },
+      {
+        "name": "Deloitte",
+        "type": "Big 4 / Advisory",
+        "website": null,
+        "specialization": "Europe's most active financial M&A advisor. Strong M&A teams especially in Germany and Spain.",
+        "notes": null
+      },
+      {
+        "name": "Grant Thornton",
+        "type": "Advisory Network",
+        "website": null,
+        "specialization": "Mid-market M&A advisory across Europe.",
+        "notes": null
+      },
+      {
+        "name": "BDO",
+        "type": "Advisory Network",
+        "website": null,
+        "specialization": "Mid-market M&A and tax advisory across Europe.",
+        "notes": null
+      },
+      {
+        "name": "Mazars",
+        "type": "Advisory Network",
+        "website": null,
+        "specialization": "Mid-market M&A and tax advisory. Strong in France.",
+        "notes": null
+      },
+      {
+        "name": "RSM",
+        "type": "Advisory Network",
+        "website": null,
+        "specialization": "M&A tax services. Notable mid-market M&A advisor in Europe.",
+        "notes": null
+      },
+      {
+        "name": "Alantra",
+        "type": "Mid-Market Advisory",
+        "website": null,
+        "specialization": "Specialist M&A network. Leader in Spanish private equity. Strong mid-market position across Europe.",
+        "notes": null
+      },
+      {
+        "name": "Lincoln International",
+        "type": "M&A Advisory",
+        "website": "https://www.lincolninternational.com/",
+        "specialization": "Global M&A advisory with strong Nordic presence (Stockholm-based Nordic office since 2018). Advisory across all European markets.",
+        "notes": null
+      },
+      {
+        "name": "Rothschild & Co",
+        "type": "Global Advisory",
+        "website": "https://www.rothschildandco.com/",
+        "specialization": "M&A and strategic advisory. Dedicated mid-market transaction teams including Transaction R&Co in France and Brazil.",
+        "notes": null
+      }
+    ],
+
+    "us_search_fund_specialists": [
+      {
+        "name": "Cooley LLP",
+        "type": "Law Firm",
+        "website": "https://www.cooley.com/",
+        "specialization": "Primary fund counsel to 950+ investment fund organizations. 1,200+ funds closed totaling USD 120B+ in commitments. 7,000+ private company clients. PE, M&A, fund formation.",
+        "notes": null
+      },
+      {
+        "name": "Shumaker, Loop & Kendrick LLP",
+        "type": "Law Firm",
+        "website": "https://www.shumaker.com/",
+        "specialization": "100+ years experience. 300+ attorneys. Corporate, M&A, banking and finance. Toledo, OH headquarters.",
+        "notes": null
+      }
+    ],
+
+    "notes": "For search fund-specific legal and tax work in the UK, Irwin Mitchell, Gerald Edelman, Buzzacott, and Fladgate are the most referenced firms in the ETA community. For larger cross-border transactions, the global Magic Circle and Big 4 firms provide comprehensive support. Many search fund acquisitions in Europe use local boutique firms rather than large international practices due to the smaller deal sizes involved."
+  }
+}

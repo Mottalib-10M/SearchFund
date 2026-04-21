@@ -24,11 +24,11 @@ export type ListingWithSeller = Listing & {
 };
 
 export type SearcherWithUser = SearcherProfile & {
-  user: Pick<User, "id" | "name" | "image" | "country" | "city" | "bio" | "verificationStatus">;
+  user: Pick<User, "id" | "name" | "email" | "image" | "country" | "city" | "bio" | "verificationStatus">;
 };
 
 export type InvestorWithUser = InvestorProfile & {
-  user: Pick<User, "id" | "name" | "image" | "country" | "city" | "verificationStatus">;
+  user: Pick<User, "id" | "name" | "email" | "image" | "country" | "city" | "verificationStatus">;
 };
 
 export type SellerWithUser = SellerProfile & {
