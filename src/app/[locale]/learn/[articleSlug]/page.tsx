@@ -8,10 +8,11 @@ import {
   categorySlugMap,
   getRelatedArticles,
 } from "../_articles/article-registry";
-import { safeJsonLd, articleSchema, breadcrumbSchema } from "@/lib/json-ld";
+import { safeJsonLd, articleSchema, breadcrumbSchema, faqPageSchema } from "@/lib/json-ld";
 import { buildMetadata } from "@/lib/meta-snippets";
 import ArticleByline from "@/components/seo/ArticleByline";
 import ArticleSources from "@/components/seo/ArticleSources";
+import ArticleFAQ from "@/components/seo/ArticleFAQ";
 import EditorialDisclaimer from "@/components/seo/EditorialDisclaimer";
 import AuthorBox from "@/components/seo/AuthorBox";
 
@@ -87,6 +88,14 @@ export default async function ArticlePage({ params }: Props) {
               ),
             }}
           />
+          {articleData.faqs && articleData.faqs.length > 0 && (
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: safeJsonLd(faqPageSchema(articleData.faqs)),
+              }}
+            />
+          )}
         </>
       )}
 
@@ -130,6 +139,9 @@ export default async function ArticlePage({ params }: Props) {
           </div>
         </article>
       )}
+
+      {/* FAQ */}
+      {articleData?.faqs && <ArticleFAQ faqs={articleData.faqs} />}
 
       {/* Sources */}
       {articleData?.sources && <ArticleSources sources={articleData.sources} />}

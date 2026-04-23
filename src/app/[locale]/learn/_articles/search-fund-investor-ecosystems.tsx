@@ -1,0 +1,95 @@
+import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
+import Link from "next/link";
+
+export default function SearchFundInvestorEcosystemsArticle() {
+  return (
+    <article>
+      <h1 className={h1Class}>Search Fund Investor Ecosystems by Region</h1>
+      <div className={bodyClass}>
+        <p>The search fund investor ecosystem has grown dramatically from its Stanford GSB origins to become a global network spanning the US, Europe, Latin America, and beyond. Understanding which investors are active in your target geography &mdash; and their investment preferences, typical check sizes, and value-add capabilities &mdash; is critical for searchers raising capital. This guide maps the global search fund investor landscape by region.</p>
+      </div>
+
+      <h2 className={h2Class}>United States: The Deepest Market</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Stanford ecosystem:</strong> The original search fund investor network. GSB alumni, professors, and family offices form the deepest pool globally.</li>
+          <li><strong>Harvard/Wharton/Booth networks:</strong> Each top MBA program has cultivated its own search fund investor community</li>
+          <li><strong>Dedicated funds:</strong> Pacific Lake Partners, Search Fund Partners, Relay Investments, and others focus exclusively on search fund investing</li>
+          <li><strong>Family offices:</strong> Hundreds of US family offices invest in search funds, typically writing $50K&ndash;500K checks for search capital</li>
+          <li><strong>Check sizes:</strong> $50K&ndash;250K for search capital; $500K&ndash;5M for acquisition capital per investor</li>
+          <li><strong>Total market:</strong> 300+ active search fund investors in the US. Most deals are funded by 15&ndash;25 investors.</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Europe: Growing Rapidly</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>IESE (Barcelona):</strong> The epicenter of European search fund investing. IESE&apos;s International Search Fund Center publishes the leading European research.</li>
+          <li><strong>INSEAD network:</strong> Active in France, DACH region, and broader European search fund ecosystem</li>
+          <li><strong>Dedicated European funds:</strong> Istria Capital, ETAG, Cassel Capital, and others focus on European search funds</li>
+          <li><strong>Country-specific:</strong> Spain (EAE, IESE-linked), France (HEC alumni), Germany (WHU/ESMT networks), UK (LBS alumni)</li>
+          <li><strong>Check sizes:</strong> &euro;50K&ndash;200K search capital; &euro;500K&ndash;3M acquisition capital. Smaller than US but growing.</li>
+          <li><strong>Gap:</strong> More searchers than investors in many European markets, creating competition for capital</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Latin America</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Brazil:</strong> Growing search fund community linked to Insper, FGV, and Brazilian family offices</li>
+          <li><strong>Mexico:</strong> IPADE and ITAM alumni networks. Growing family office interest.</li>
+          <li><strong>Colombia/Chile/Peru:</strong> Emerging ecosystems with university-linked investor networks</li>
+          <li><strong>Cross-border:</strong> Many Latin American searchers raise from US investors, particularly those with Stanford/HBS connections</li>
+          <li><strong>Check sizes:</strong> Smaller than US/Europe. $25K&ndash;100K search capital typical.</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Asia-Pacific</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Japan:</strong> Emerging ecosystem driven by the succession crisis. Japanese family offices and fund-of-funds showing interest.</li>
+          <li><strong>India:</strong> ISB Hyderabad and IIM programs building awareness. PE/VC community exploring search fund model.</li>
+          <li><strong>Singapore:</strong> Regional hub for Southeast Asian search fund activity. INSEAD Asia campus connections.</li>
+          <li><strong>Australia:</strong> Small but growing community linked to Melbourne Business School and local family offices</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Building Your Investor Base</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Start with your network:</strong> MBA alumni, professors, and classmates who have invested in or completed search funds</li>
+          <li><strong>Conferences:</strong> <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">Search fund conferences</Link> (Stanford, IESE, Booth) are the best venues for meeting investors</li>
+          <li><strong>Warm introductions:</strong> Every investor conversation should end with &ldquo;who else should I talk to?&rdquo;</li>
+          <li><strong>Research investors:</strong> Understand each investor&apos;s preferences: geography, industry, check size, and value-add</li>
+          <li><strong>Target 30&ndash;50 investors:</strong> A typical search fund raise requires conversations with 30&ndash;50 potential investors to secure 15&ndash;25</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Key Takeaways</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li>The US has the deepest search fund investor pool (300+ active investors), followed by Europe (growing rapidly from IESE/INSEAD hubs)</li>
+          <li>MBA program alumni networks remain the primary channel for connecting with search fund investors</li>
+          <li>European searchers often face a tighter investor market &mdash; raising from US investors can supplement local capital</li>
+          <li>Asia-Pacific search fund investing is nascent but growing, particularly in Japan and India</li>
+          <li>A typical search fund raise requires 30&ndash;50 investor conversations to secure 15&ndash;25 investors</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Related Resources</h2>
+      <ul className={ulClass}>
+        <li><Link href="/learn/finding-investors" className="text-apple-accent hover:underline">Finding Investors for Your Search Fund</Link></li>
+        <li><Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">Search Fund Conferences</Link></li>
+        <li><Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">Fundraising Deck Guide</Link></li>
+        <li><Link href="/learn/international-vs-us-returns" className="text-apple-accent hover:underline">International vs. US Search Fund Returns</Link></li>
+      </ul>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>
+        <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        <li>Search Fund Accelerator, <em>Global Search Fund Investor Directory</em> (2024)</li>
+      </ul>
+    </article>
+  );
+}

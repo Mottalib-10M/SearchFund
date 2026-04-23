@@ -1,0 +1,85 @@
+import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
+import Link from "next/link";
+
+export default function EmotionalJourneySellingArticle() {
+  return (
+    <article>
+      <h1 className={h1Class}>The Emotional Journey of Selling Your Business</h1>
+      <div className={bodyClass}>
+        <p>Selling a business is often the most significant financial and emotional event in an entrepreneur&apos;s life. After years or decades of building, the decision to sell triggers a complex mix of relief, grief, excitement, anxiety, and identity loss. Understanding this emotional journey &mdash; and planning for it &mdash; helps sellers navigate the process with clarity and avoid decisions driven by emotion rather than logic.</p>
+      </div>
+
+      <h2 className={h2Class}>The Emotional Stages</h2>
+      <div className={bodyClass}>
+        <ol className={olClass}>
+          <li><strong>Contemplation:</strong> The idea of selling first emerges. Often triggered by fatigue, health concerns, family changes, or an unsolicited offer. Internal conflict begins.</li>
+          <li><strong>Decision:</strong> Committing to sell. Relief mixed with anxiety. &ldquo;Am I making the right choice?&rdquo; Fear of regret.</li>
+          <li><strong>Process intensity:</strong> Due diligence, negotiations, and deal complexity consume all mental energy. Stress peaks.</li>
+          <li><strong>Closing euphoria:</strong> The deal closes. Financial security achieved. Brief period of intense relief and celebration.</li>
+          <li><strong>Identity crisis:</strong> Within weeks to months, many sellers experience a loss of identity, purpose, and daily structure.</li>
+          <li><strong>Adjustment:</strong> Gradually finding new purpose, relationships, and activities. This phase can take 6&ndash;24 months.</li>
+        </ol>
+      </div>
+
+      <h2 className={h2Class}>Common Emotional Traps</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Deal fatigue withdrawal:</strong> Pulling out of a deal at the last minute due to emotional overwhelm rather than rational assessment.</li>
+          <li><strong>Overvaluation:</strong> Emotional attachment leading to unrealistic price expectations. &ldquo;My business is worth more because I built it.&rdquo;</li>
+          <li><strong>Sabotaging due diligence:</strong> Unconsciously creating obstacles during due diligence to delay or prevent the sale.</li>
+          <li><strong>Post-sale interference:</strong> Struggling to let go after closing. Micromanaging the new owner or criticizing changes.</li>
+          <li><strong>Seller&apos;s remorse:</strong> Regretting the sale, especially if the business thrives under new ownership. &ldquo;I should have kept it.&rdquo;</li>
+          <li><strong>Premature re-entry:</strong> Rushing into a new venture to fill the void rather than taking time to process and plan.</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Preparing Emotionally</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Start early:</strong> Begin emotional preparation 1&ndash;2 years before selling. Gradually delegate and create distance from daily operations.</li>
+          <li><strong>Define your &ldquo;why&rdquo;:</strong> Clarify your reasons for selling. Write them down. Revisit during difficult moments in the process.</li>
+          <li><strong>Build identity beyond the business:</strong> Develop hobbies, relationships, and activities independent of your company before selling.</li>
+          <li><strong>Plan your next chapter:</strong> Have a vision for post-sale life: travel, consulting, philanthropy, new ventures, or family time.</li>
+          <li><strong>Trusted advisors:</strong> Work with advisors (accountant, lawyer, therapist) who understand the emotional dimensions of selling.</li>
+          <li><strong>Peer support:</strong> Connect with other business owners who have sold. Their experience normalizes the emotional journey.</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>What Buyers Should Know</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li><strong>Empathy matters:</strong> Understand that the seller is losing something deeply personal. Acknowledge their achievement in building the business.</li>
+          <li><strong>Legacy concerns:</strong> Many sellers care deeply about employees, customers, and company culture. Address these concerns directly.</li>
+          <li><strong>Transition support:</strong> Offer structured transition periods that give sellers a gradual exit rather than an abrupt departure.</li>
+          <li><strong>Communication style:</strong> Be respectful of the seller&apos;s emotional state. Avoid language that diminishes their contribution or criticizes their methods.</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Key Takeaways</h2>
+      <div className={bodyClass}>
+        <ul className={ulClass}>
+          <li>Selling a business triggers a predictable emotional journey: contemplation, decision, process stress, closing euphoria, identity crisis, and adjustment</li>
+          <li>Common traps include deal fatigue withdrawal, overvaluation from emotional attachment, and post-sale identity loss</li>
+          <li>Start emotional preparation 1&ndash;2 years before selling by building identity and purpose beyond the business</li>
+          <li>Buyers who demonstrate empathy, respect for legacy, and structured transition support close more deals and better prices</li>
+          <li>Post-sale adjustment takes 6&ndash;24 months &mdash; plan for this period with clear goals and support systems</li>
+        </ul>
+      </div>
+
+      <h2 className={h2Class}>Related Resources</h2>
+      <ul className={ulClass}>
+        <li><Link href="/learn/life-after-selling" className="text-apple-accent hover:underline">Life After Selling Your Business</Link></li>
+        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
+        <li><Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">Negotiation Tactics</Link></li>
+      </ul>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>Exit Planning Institute, <em>The Emotional Side of Selling a Business</em> (2024)</li>
+        <li>Harvard Business Review, <em>When Founders Leave Their Companies</em> (2024)</li>
+        <li>Bo Burlingham, <em>Finish Big: How Great Entrepreneurs Exit Their Companies on Top</em> (2013)</li>
+      </ul>
+    </article>
+  );
+}
