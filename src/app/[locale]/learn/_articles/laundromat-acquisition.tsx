@@ -70,7 +70,7 @@ export default function LaundromatAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/cleaning-business-acquisition" className="text-apple-accent hover:underline">Acquiring a Cleaning Business</Link></li>
+        <li><Link href="/learn/acquiring-cleaning-business" className="text-apple-accent hover:underline">Acquiring a Cleaning Business</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>

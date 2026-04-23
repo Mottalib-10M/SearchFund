@@ -66,7 +66,7 @@ export default function DividendRecapitalizationArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">Exit Strategies for Search Fund CEOs</Link></li>
-        <li><Link href="/learn/debt-structures-acquisition-finance" className="text-apple-accent hover:underline">Debt Structures in Acquisition Finance</Link></li>
+        <li><Link href="/learn/debt-structure-optimization" className="text-apple-accent hover:underline">Debt Structures in Acquisition Finance</Link></li>
         <li><Link href="/learn/preparing-company-exit" className="text-apple-accent hover:underline">Preparing Your Company for Exit</Link></li>
         <li><Link href="/learn/investor-relations" className="text-apple-accent hover:underline">Investor Relations & Reporting</Link></li>
       </ul>

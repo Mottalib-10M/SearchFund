@@ -25,7 +25,7 @@ export default function EffectiveInvestorMeetingArticle() {
           through follow-up — drawing on patterns observed across hundreds of successful search fund
           fundraises. Whether you are raising initial search capital or presenting a specific
           acquisition opportunity, these principles will help you{" "}
-          <Link href="/learn/search-fund-raising-capital" className="text-apple-accent hover:underline">
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             raise capital
           </Link>{" "}
           more effectively.
@@ -51,7 +51,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Prepare your materials but don&apos;t rely on them:</strong> Have a clean, concise{" "}
-            <Link href="/learn/search-fund-pitch-deck" className="text-apple-accent hover:underline">
+            <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">
               pitch deck
             </Link>{" "}
             ready, but plan to spend most of the meeting in dialogue rather than presentation mode. The
@@ -152,7 +152,7 @@ export default function EffectiveInvestorMeetingArticle() {
             mechanics, articulate the strategic and operational levers that drive returns. What will you
             do differently as an operator? Where are the growth opportunities? What efficiencies can
             be captured? Understanding{" "}
-            <Link href="/learn/search-fund-economics" className="text-apple-accent hover:underline">
+            <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
               search fund economics
             </Link>{" "}
             helps frame the return discussion appropriately.
@@ -234,7 +234,7 @@ export default function EffectiveInvestorMeetingArticle() {
             realism and planning. Acknowledge that not all searches succeed, explain the criteria that
             would lead you to continue searching versus winding down, and describe how you will
             communicate with investors throughout the process. Reference the importance of maintaining{" "}
-            <Link href="/learn/search-fund-investor-relations" className="text-apple-accent hover:underline">
+            <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
               strong investor relations
             </Link>{" "}
             regardless of outcome.
@@ -355,7 +355,7 @@ export default function EffectiveInvestorMeetingArticle() {
             <strong>Keep investors informed even if they pass:</strong> An investor who declines your
             initial raise may invest in your acquisition round, refer you to other investors, or back
             you in a future venture. Maintain the relationship through periodic{" "}
-            <Link href="/learn/investor-updates-reporting" className="text-apple-accent hover:underline">
+            <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
               investor updates
             </Link>{" "}
             with their permission.
@@ -409,27 +409,27 @@ export default function EffectiveInvestorMeetingArticle() {
 
       <ul className={ulClass}>
         <li>
-          <Link href="/learn/search-fund-raising-capital" className="text-apple-accent hover:underline">
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             How to Raise Capital for Your Search Fund
           </Link>{" "}— The complete fundraising process from PPM to close
         </li>
         <li>
-          <Link href="/learn/search-fund-investor-relations" className="text-apple-accent hover:underline">
+          <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
             Search Fund Investor Relations Best Practices
           </Link>{" "}— Building lasting relationships with your investor base
         </li>
         <li>
-          <Link href="/learn/search-fund-pitch-deck" className="text-apple-accent hover:underline">
+          <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">
             How to Build a Search Fund Pitch Deck
           </Link>{" "}— Creating the materials that support your meeting
         </li>
         <li>
-          <Link href="/learn/investor-updates-reporting" className="text-apple-accent hover:underline">
+          <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
             Investor Updates & Reporting Templates
           </Link>{" "}— Professional communication frameworks post-investment
         </li>
         <li>
-          <Link href="/learn/search-fund-economics" className="text-apple-accent hover:underline">
+          <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
             Search Fund Economics Explained
           </Link>{" "}— Understanding the financial model investors evaluate
         </li>

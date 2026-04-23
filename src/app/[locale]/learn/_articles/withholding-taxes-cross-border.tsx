@@ -52,7 +52,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
             <strong>Interest:</strong> Payments on debt owed by a subsidiary to
             a foreign lender or parent company. When acquisition financing is
             structured through intercompany loans &mdash; a common technique in{" "}
-            <Link href="/learn/international-acquisition-financing" className="text-apple-accent hover:underline">international acquisition financing</Link>{" "}
+            <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">international acquisition financing</Link>{" "}
             &mdash; the interest payments may be subject to withholding in the
             subsidiary&apos;s country.
           </li>
@@ -312,7 +312,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
           guidance, and many countries have adopted similar rules. Structuring
           the debt-equity ratio within these limits while maximizing the tax
           efficiency of repatriation requires careful{" "}
-          <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">tax planning</Link>.
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax planning</Link>.
         </p>
 
         <h3 className={h3Class}>Hybrid instruments</h3>
@@ -434,13 +434,13 @@ export default function WithholdingTaxesCrossBorderArticle() {
             <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions: A Complete Guide</Link>
           </li>
           <li>
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
           </li>
           <li>
             <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">Holding Company Structures for Search Funds</Link>
           </li>
           <li>
-            <Link href="/learn/international-acquisition-financing" className="text-apple-accent hover:underline">International Acquisition Financing</Link>
+            <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">International Acquisition Financing</Link>
           </li>
           <li>
             <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">Best Countries to Buy a Business</Link>

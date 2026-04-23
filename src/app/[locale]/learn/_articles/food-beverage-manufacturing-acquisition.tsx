@@ -72,7 +72,7 @@ export default function FoodBeverageManufacturingAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Manufacturing Business</Link></li>
         <li><Link href="/learn/distribution-wholesale-acquisition" className="text-apple-accent hover:underline">Acquiring a Distribution Business</Link></li>
-        <li><Link href="/learn/supply-chain-optimization" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
+        <li><Link href="/learn/supply-chain-optimization-post-acquisition" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
         <li><Link href="/learn/product-line-extension" className="text-apple-accent hover:underline">Product Line Extension</Link></li>
       </ul>
 

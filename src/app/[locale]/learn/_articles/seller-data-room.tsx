@@ -72,7 +72,7 @@ export default function SellerDataRoomArticle() {
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
         <li><Link href="/learn/emotional-journey-selling" className="text-apple-accent hover:underline">The Emotional Journey of Selling</Link></li>
         <li><Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of Earnings</Link></li>
-        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

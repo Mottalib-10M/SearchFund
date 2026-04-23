@@ -72,7 +72,7 @@ export default function PharmacyAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Healthcare Business</Link></li>
         <li><Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">Acquiring a Dental Practice</Link></li>
-        <li><Link href="/learn/home-healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Home Health Agency</Link></li>
+        <li><Link href="/learn/acquiring-home-healthcare" className="text-apple-accent hover:underline">Acquiring a Home Health Agency</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
       </ul>
 

@@ -73,7 +73,7 @@ export default function MetalFabricationAcquisitionArticle() {
         <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Manufacturing Business</Link></li>
         <li><Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">Acquiring a Construction Company</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
-        <li><Link href="/learn/supply-chain-optimization" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
+        <li><Link href="/learn/supply-chain-optimization-post-acquisition" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

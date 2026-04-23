@@ -72,7 +72,7 @@ export default function PackagingLabelingAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Manufacturing Business</Link></li>
         <li><Link href="/learn/food-beverage-manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Food &amp; Beverage Manufacturer</Link></li>
-        <li><Link href="/learn/printing-business-acquisition" className="text-apple-accent hover:underline">Acquiring a Printing Business</Link></li>
+        <li><Link href="/learn/acquiring-printing-business" className="text-apple-accent hover:underline">Acquiring a Printing Business</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 

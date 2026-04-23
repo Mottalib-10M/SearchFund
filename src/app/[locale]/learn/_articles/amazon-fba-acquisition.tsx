@@ -72,7 +72,7 @@ export default function AmazonFBAAcquisitionArticle() {
         <li><Link href="/learn/ecommerce-acquisition" className="text-apple-accent hover:underline">Acquiring an E-commerce Business</Link></li>
         <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">Acquiring a SaaS Business</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
-        <li><Link href="/learn/supply-chain-optimization" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
+        <li><Link href="/learn/supply-chain-optimization-post-acquisition" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

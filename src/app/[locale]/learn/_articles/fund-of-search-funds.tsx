@@ -69,7 +69,7 @@ export default function FundOfSearchFundsArticle() {
         <li><Link href="/learn/portfolio-construction-search-fund" className="text-apple-accent hover:underline">Portfolio Construction</Link></li>
         <li><Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">Search Fund Returns</Link></li>
         <li><Link href="/learn/search-fund-investor-ecosystems" className="text-apple-accent hover:underline">Search Fund Investor Ecosystems</Link></li>
-        <li><Link href="/learn/is-search-fund-good-investment" className="text-apple-accent hover:underline">Is a Search Fund a Good Investment?</Link></li>
+        <li><Link href="/learn/search-fund-good-investment" className="text-apple-accent hover:underline">Is a Search Fund a Good Investment?</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

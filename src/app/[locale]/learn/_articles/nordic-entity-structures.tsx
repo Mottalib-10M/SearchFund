@@ -422,7 +422,7 @@ export default function NordicEntityStructuresArticle() {
             between Nordic entities are subject to interest deductibility
             limitations in each jurisdiction. Structuring the debt-equity
             mix across the group requires careful{" "}
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">tax planning</Link>{" "}
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax planning</Link>{" "}
             to optimize the overall effective tax rate.
           </li>
           <li>
@@ -543,7 +543,7 @@ export default function NordicEntityStructuresArticle() {
             <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions: A Complete Guide</Link>
           </li>
           <li>
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
           </li>
           <li>
             <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">Best Countries to Buy a Business</Link>

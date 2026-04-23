@@ -71,7 +71,7 @@ export default function FireProtectionAcquisitionArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">Acquiring an HVAC Business</Link></li>
-        <li><Link href="/learn/electrical-contractor-acquisition" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
+        <li><Link href="/learn/acquiring-electrical-contractor" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>

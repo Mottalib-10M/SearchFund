@@ -335,7 +335,7 @@ export default function TransferPricingAcquisitionsArticle() {
           Conversely, if the target does not have APAs and its transfer
           pricing carries significant risk, the acquirer may consider applying
           for APAs post-closing as part of a broader{" "}
-          <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax planning strategy
           </Link>.
         </p>
@@ -509,7 +509,7 @@ export default function TransferPricingAcquisitionsArticle() {
         <h2 className={h2Class}>Related resources</h2>
         <ul className={ulClass}>
           <li>
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
               Tax Planning Strategies for Acquisitions
             </Link>
           </li>

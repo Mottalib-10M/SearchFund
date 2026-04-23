@@ -169,7 +169,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           those subsidiaries may be attributed to the EU parent, negating
           the intended tax benefit. This analysis is an important part of
           evaluating the target&apos;s overall{" "}
-          <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax planning arrangements
           </Link>.
         </p>
@@ -307,7 +307,7 @@ export default function EUAntiTaxAvoidanceArticle() {
             shareholder loans and intercompany financing must also be
             evaluated for hybrid mismatch risk and thin capitalization
             constraints, which connects closely to{" "}
-            <Link href="/learn/international-acquisition-financing" className="text-apple-accent hover:underline">
+            <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
               international acquisition financing
             </Link>{" "}
             strategies.
@@ -359,7 +359,7 @@ export default function EUAntiTaxAvoidanceArticle() {
         <h2 className={h2Class}>Related resources</h2>
         <ul className={ulClass}>
           <li>
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
               Tax Planning Strategies for Acquisitions
             </Link>
           </li>
@@ -379,7 +379,7 @@ export default function EUAntiTaxAvoidanceArticle() {
             </Link>
           </li>
           <li>
-            <Link href="/learn/international-acquisition-financing" className="text-apple-accent hover:underline">
+            <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
               International Acquisition Financing
             </Link>
           </li>

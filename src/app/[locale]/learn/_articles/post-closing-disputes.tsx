@@ -465,7 +465,7 @@ export default function PostClosingDisputesArticle() {
           </li>
           <li>
             <strong>Plan for{" "}
-            <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">
+            <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
               post-acquisition integration
             </Link>{" "}
             carefully:</strong> Many disputes arise from integration
@@ -511,7 +511,7 @@ export default function PostClosingDisputesArticle() {
             </Link>
           </li>
           <li>
-            <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">
+            <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
               Post-Acquisition Integration
             </Link>
           </li>

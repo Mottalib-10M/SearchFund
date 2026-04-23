@@ -70,7 +70,7 @@ export default function EnergyServicesAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/electrical-contractor-acquisition" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
+        <li><Link href="/learn/acquiring-electrical-contractor" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
         <li><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">Acquiring an HVAC Business</Link></li>
         <li><Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">Acquiring a Construction Company</Link></li>
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>

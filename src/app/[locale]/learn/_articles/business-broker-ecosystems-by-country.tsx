@@ -88,10 +88,10 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/business-brokers-guide" className="text-apple-accent hover:underline">Working with Business Brokers</Link></li>
+        <li><Link href="/learn/working-with-business-brokers" className="text-apple-accent hover:underline">Working with Business Brokers</Link></li>
         <li><Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">Deal Sourcing Strategies</Link></li>
-        <li><Link href="/learn/accountant-referral-deal-sourcing" className="text-apple-accent hover:underline">Accountant Referral Strategy</Link></li>
-        <li><Link href="/learn/find-businesses-for-sale" className="text-apple-accent hover:underline">Where to Find Businesses for Sale</Link></li>
+        <li><Link href="/learn/accountant-referral-deal-flow" className="text-apple-accent hover:underline">Accountant Referral Strategy</Link></li>
+        <li><Link href="/learn/how-find-businesses-for-sale" className="text-apple-accent hover:underline">Where to Find Businesses for Sale</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

@@ -287,7 +287,7 @@ export default function IndemnificationEscrowArticle() {
         <li><strong>Purchase Price Holdback:</strong> Similar to escrow but funds held by the buyer directly (less common, seller-unfavorable)</li>
         <li><strong>Seller Notes:</strong> Allowing setoff of indemnification claims against seller financing obligations</li>
         <li><strong>Letters of Credit:</strong> Bank-issued standby letters of credit securing indemnification obligations</li>
-        <li><strong>Earn-Outs:</strong> Withholding contingent purchase price that can absorb indemnification claims (discussed in <Link href="/learn/earnout-structures" className="text-apple-accent hover:underline">earn-out structures</Link>)</li>
+        <li><strong>Earn-Outs:</strong> Withholding contingent purchase price that can absorb indemnification claims (discussed in <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-out structures</Link>)</li>
       </ul>
 
       <p className={bodyClass}>

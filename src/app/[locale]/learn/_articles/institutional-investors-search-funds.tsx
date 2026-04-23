@@ -15,7 +15,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           search fund investment vehicles, and multi-strategy private equity firms. Understanding who
           these institutional investors are, what drives their allocation decisions, and how they
           evaluate search fund opportunities is essential for any searcher looking to{" "}
-          <Link href="/learn/search-fund-raising-capital" className="text-apple-accent hover:underline">
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             raise capital effectively
           </Link>.
         </p>
@@ -125,7 +125,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           control rights, larger ownership stakes, or preferential economics. Searchers considering PE
           firm capital should carefully evaluate whether the terms align with the traditional search
           fund{" "}
-          <Link href="/learn/search-fund-economics" className="text-apple-accent hover:underline">
+          <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
             economic structure
           </Link>{" "}
           and their own long-term goals.
@@ -205,7 +205,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
             <strong>Acquisition equity:</strong> When the searcher identifies a target, investors in the
             search fund syndicate (and potentially new co-investors) provide equity capital to fund the
             acquisition alongside debt financing. Understanding the{" "}
-            <Link href="/learn/search-fund-cap-table" className="text-apple-accent hover:underline">
+            <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
               cap table implications
             </Link>{" "}
             of each round is essential.
@@ -277,7 +277,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Demonstrate credibility through preparation:</strong> Before approaching investors,
             develop a polished{" "}
-            <Link href="/learn/search-fund-investor-relations" className="text-apple-accent hover:underline">
+            <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
               investor communication strategy
             </Link>{" "}
             including a professional private placement memorandum (PPM), a clear search thesis, and
@@ -343,7 +343,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           Securing institutional capital is just the beginning. Managing the ongoing relationship
           through the search phase, acquisition, and operations is equally important. Institutional
           investors expect professional-grade{" "}
-          <Link href="/learn/investor-updates-reporting" className="text-apple-accent hover:underline">
+          <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
             investor reporting and communication
           </Link>.
         </p>
@@ -425,27 +425,27 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
 
       <ul className={ulClass}>
         <li>
-          <Link href="/learn/search-fund-investor-relations" className="text-apple-accent hover:underline">
+          <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
             Search Fund Investor Relations Best Practices
           </Link>{" "}— Building trust through consistent communication
         </li>
         <li>
-          <Link href="/learn/search-fund-raising-capital" className="text-apple-accent hover:underline">
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             How to Raise Capital for Your Search Fund
           </Link>{" "}— The complete guide to the fundraising process
         </li>
         <li>
-          <Link href="/learn/search-fund-economics" className="text-apple-accent hover:underline">
+          <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
             Search Fund Economics Explained
           </Link>{" "}— Understanding the financial structure investors evaluate
         </li>
         <li>
-          <Link href="/learn/investor-updates-reporting" className="text-apple-accent hover:underline">
+          <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
             Investor Updates & Reporting Templates
           </Link>{" "}— Meeting institutional reporting expectations
         </li>
         <li>
-          <Link href="/learn/search-fund-cap-table" className="text-apple-accent hover:underline">
+          <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
             Search Fund Cap Table Management
           </Link>{" "}— Navigating ownership across funding rounds
         </li>

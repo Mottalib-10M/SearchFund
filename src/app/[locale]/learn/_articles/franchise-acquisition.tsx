@@ -27,7 +27,7 @@ export default function FranchiseAcquisitionArticle() {
           <li><strong>Brand recognition:</strong> Customers already know and trust the brand. Less marketing spend required.</li>
           <li><strong>Lower risk:</strong> Franchise failure rates are significantly lower than independent businesses</li>
           <li><strong>Scalable:</strong> Once you master operations, adding units follows a proven playbook</li>
-          <li><strong>SBA-friendly:</strong> Banks and <Link href="/learn/sba-7a-loans" className="text-apple-accent hover:underline">SBA lenders</Link> prefer franchise concepts with documented track records</li>
+          <li><strong>SBA-friendly:</strong> Banks and <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA lenders</Link> prefer franchise concepts with documented track records</li>
           <li><strong>Exit multiple expansion:</strong> Larger multi-unit operators command higher multiples than smaller ones</li>
         </ul>
       </div>

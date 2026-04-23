@@ -72,7 +72,7 @@ export default function LogisticsTransportationAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Manufacturing Business</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
-        <li><Link href="/learn/supply-chain-optimization" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
+        <li><Link href="/learn/supply-chain-optimization-post-acquisition" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
       </ul>
 

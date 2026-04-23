@@ -349,7 +349,7 @@ export default function CompetitiveMoatEvaluationArticle() {
       <div className={bodyClass}>
         <p>
           Even businesses with historically strong moats can see their advantages erode. During{" "}
-          <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             valuation analysis
           </Link>{" "}
           and due diligence, watch for these red flags that may indicate a weakening competitive position:
@@ -448,7 +448,7 @@ export default function CompetitiveMoatEvaluationArticle() {
           </Link>{" "}— Comprehensive framework for investigating acquisition targets
         </li>
         <li>
-          <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             Business Valuation Methods Explained
           </Link>{" "}— How moat strength impacts valuation multiples
         </li>

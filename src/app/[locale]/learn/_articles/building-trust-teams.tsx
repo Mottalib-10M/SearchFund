@@ -70,8 +70,8 @@ export default function BuildingTrustTeamsArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">First 100 Days</Link></li>
         <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
-        <li><Link href="/learn/culture-integration-after-acquisition" className="text-apple-accent hover:underline">Culture Integration</Link></li>
-        <li><Link href="/learn/talent-acquisition-retention" className="text-apple-accent hover:underline">Talent Retention</Link></li>
+        <li><Link href="/learn/culture-integration" className="text-apple-accent hover:underline">Culture Integration</Link></li>
+        <li><Link href="/learn/talent-acquisition-post-close" className="text-apple-accent hover:underline">Talent Retention</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

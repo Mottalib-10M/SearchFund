@@ -72,7 +72,7 @@ export default function DistributionWholesaleAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Manufacturing Business</Link></li>
         <li><Link href="/learn/logistics-transportation-acquisition" className="text-apple-accent hover:underline">Acquiring a Logistics Company</Link></li>
-        <li><Link href="/learn/supply-chain-optimization" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
+        <li><Link href="/learn/supply-chain-optimization-post-acquisition" className="text-apple-accent hover:underline">Supply Chain Optimization</Link></li>
         <li><Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">Working Capital Management</Link></li>
       </ul>
 

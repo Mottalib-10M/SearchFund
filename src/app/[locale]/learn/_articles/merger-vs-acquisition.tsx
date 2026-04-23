@@ -81,7 +81,7 @@ export default function MergerVsAcquisitionArticle() {
             specific liabilities) from the seller. The seller entity continues to exist after the
             transaction and retains any assets and liabilities not transferred. This structure, covered
             in detail in our guide on{" "}
-            <Link href="/learn/asset-vs-stock-purchase" className="text-apple-accent hover:underline">
+            <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
               asset vs. stock purchases
             </Link>, gives the buyer maximum control over what it acquires.
           </li>
@@ -128,7 +128,7 @@ export default function MergerVsAcquisitionArticle() {
             and receivables, capital gains for goodwill and other capital assets). The buyer receives a
             fair-market-value tax basis in each acquired asset, enabling full depreciation and
             amortization deductions going forward. Guidance on purchase price allocation and its{" "}
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
               tax implications
             </Link>{" "}
             is essential for optimizing the structure.
@@ -217,7 +217,7 @@ export default function MergerVsAcquisitionArticle() {
 
         <p>
           In SME acquisitions, including those by{" "}
-          <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             search fund entrepreneurs evaluating targets
           </Link>, asset acquisitions are most common because buyers generally prefer the liability
           protection and tax benefits of purchasing specific assets. However, stock acquisitions
@@ -459,17 +459,17 @@ export default function MergerVsAcquisitionArticle() {
 
       <ul className={ulClass}>
         <li>
-          <Link href="/learn/asset-vs-stock-purchase" className="text-apple-accent hover:underline">
+          <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
             Asset vs. Stock Purchase: Pros, Cons & Tax Impact
           </Link>{" "}— Deep dive into the two primary acquisition structures
         </li>
         <li>
-          <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             Business Valuation Methods Explained
           </Link>{" "}— How structure affects valuation and deal economics
         </li>
         <li>
-          <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             Tax Planning for Business Acquisitions
           </Link>{" "}— Optimizing tax outcomes across transaction structures
         </li>

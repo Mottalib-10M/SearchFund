@@ -69,7 +69,7 @@ export default function PoolServiceAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/pest-control-acquisition" className="text-apple-accent hover:underline">Acquiring a Pest Control Business</Link></li>
+        <li><Link href="/learn/acquiring-pest-control-business" className="text-apple-accent hover:underline">Acquiring a Pest Control Business</Link></li>
         <li><Link href="/learn/landscaping-acquisition" className="text-apple-accent hover:underline">Acquiring a Landscaping Business</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>

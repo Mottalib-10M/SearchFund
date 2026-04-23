@@ -178,7 +178,7 @@ export default function SwissEntityStructuresArticle() {
           <li>
             <strong>Impact on acquisition structuring:</strong> The cantonal
             tax differences create opportunities for{" "}
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">tax planning</Link>{" "}
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax planning</Link>{" "}
             within Switzerland. A holding company established in a low-tax
             canton that owns an operating company in a higher-tax canton can
             benefit from the participation exemption at the holding level
@@ -504,7 +504,7 @@ export default function SwissEntityStructuresArticle() {
             <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions: A Complete Guide</Link>
           </li>
           <li>
-            <Link href="/learn/tax-planning-acquisitions" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
+            <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">Tax Planning for Acquisitions</Link>
           </li>
           <li>
             <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">Best Countries to Buy a Business</Link>

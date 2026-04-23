@@ -21,7 +21,7 @@ export default function CybersecurityFirmAcquisitionArticle() {
         <p>Consulting firms that provide penetration testing, vulnerability assessments, incident response, compliance consulting, and security architecture design operate on a project-based revenue model with some recurring engagements. While project-based revenue is less predictable than managed services, these firms often command higher margins and can be converted to a more recurring model post-acquisition by packaging services into annual retainer agreements.</p>
 
         <h3 className={h3Class}>Security software and SaaS</h3>
-        <p>Software companies that develop security tools &mdash; endpoint protection, identity and access management, security information and event management (SIEM), and other products &mdash; operate on <Link href="/learn/saas-business-acquisition" className="text-apple-accent hover:underline">SaaS business models</Link> with high gross margins and strong revenue visibility. However, these businesses require ongoing R&amp;D investment and face intense competition from well-funded incumbents. For search fund acquirers, niche security software companies serving specific verticals (healthcare security, industrial control system security, compliance automation) often offer better acquisition prospects than horizontal players competing against large vendors.</p>
+        <p>Software companies that develop security tools &mdash; endpoint protection, identity and access management, security information and event management (SIEM), and other products &mdash; operate on <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS business models</Link> with high gross margins and strong revenue visibility. However, these businesses require ongoing R&amp;D investment and face intense competition from well-funded incumbents. For search fund acquirers, niche security software companies serving specific verticals (healthcare security, industrial control system security, compliance automation) often offer better acquisition prospects than horizontal players competing against large vendors.</p>
 
         <h3 className={h3Class}>Identity and compliance technology</h3>
         <p>Companies focused on identity verification, access management, compliance automation, and governance, risk, and compliance (GRC) platforms have seen strong demand growth as organizations grapple with increasingly complex regulatory requirements. These businesses often serve as system-of-record platforms that become deeply embedded in customer workflows, creating high switching costs and strong retention metrics.</p>
@@ -130,7 +130,7 @@ export default function CybersecurityFirmAcquisitionArticle() {
         <li><Link href="/learn/technology-due-diligence" className="text-apple-accent hover:underline">Technology Due Diligence</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
         <li><Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">Post-Acquisition Technology Audit</Link></li>
-        <li><Link href="/learn/saas-business-acquisition" className="text-apple-accent hover:underline">SaaS Business Acquisition</Link></li>
+        <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS Business Acquisition</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

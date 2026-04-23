@@ -72,7 +72,7 @@ export default function VerticalSaaSAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">Acquiring a SaaS Business</Link></li>
         <li><Link href="/learn/it-services-acquisition" className="text-apple-accent hover:underline">Acquiring an IT Services Firm</Link></li>
-        <li><Link href="/learn/tech-audit-post-acquisition" className="text-apple-accent hover:underline">Technology Audit Post-Acquisition</Link></li>
+        <li><Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">Technology Audit Post-Acquisition</Link></li>
         <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization</Link></li>
       </ul>
 

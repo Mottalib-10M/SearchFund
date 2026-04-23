@@ -71,7 +71,7 @@ export default function BehavioralHealthAcquisitionArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Healthcare Business</Link></li>
-        <li><Link href="/learn/home-healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Home Health Agency</Link></li>
+        <li><Link href="/learn/acquiring-home-healthcare" className="text-apple-accent hover:underline">Acquiring a Home Health Agency</Link></li>
         <li><Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">Acquiring a Dental Practice</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>

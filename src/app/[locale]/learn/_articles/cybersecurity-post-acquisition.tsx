@@ -69,7 +69,7 @@ export default function CybersecurityPostAcquisitionArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">First 100 Days</Link></li>
-        <li><Link href="/learn/technology-audit-post-acquisition" className="text-apple-accent hover:underline">Technology Audit Post-Acquisition</Link></li>
+        <li><Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">Technology Audit Post-Acquisition</Link></li>
         <li><Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">Digital Transformation</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
       </ul>

@@ -71,7 +71,7 @@ export default function RegulatedIndustriesArticle() {
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Healthcare Acquisition Guide</Link></li>
         <li><Link href="/learn/financial-services-acquisition" className="text-apple-accent hover:underline">Financial Services Acquisition</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
-        <li><Link href="/learn/reps-warranties-indemnification" className="text-apple-accent hover:underline">Representations & Warranties</Link></li>
+        <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

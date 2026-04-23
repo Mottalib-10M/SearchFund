@@ -69,7 +69,7 @@ export default function EmotionalJourneySellingArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/life-after-selling" className="text-apple-accent hover:underline">Life After Selling Your Business</Link></li>
-        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
         <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
         <li><Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">Negotiation Tactics</Link></li>
       </ul>

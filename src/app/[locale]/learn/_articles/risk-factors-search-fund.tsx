@@ -70,7 +70,7 @@ export default function RiskFactorsSearchFundArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/evaluate-searcher" className="text-apple-accent hover:underline">How to Evaluate a Searcher</Link></li>
         <li><Link href="/learn/portfolio-construction-search-fund" className="text-apple-accent hover:underline">Portfolio Construction</Link></li>
-        <li><Link href="/learn/due-diligence-red-flags" className="text-apple-accent hover:underline">Due Diligence Red Flags</Link></li>
+        <li><Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">Due Diligence Red Flags</Link></li>
         <li><Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">Search Fund Returns</Link></li>
       </ul>
 

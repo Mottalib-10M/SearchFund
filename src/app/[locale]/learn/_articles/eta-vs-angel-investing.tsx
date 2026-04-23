@@ -67,7 +67,7 @@ export default function ETAVsAngelInvestingArticle() {
         <li><Link href="/learn/eta-vs-startups" className="text-apple-accent hover:underline">ETA vs. Startups</Link></li>
         <li><Link href="/learn/eta-vs-venture-capital" className="text-apple-accent hover:underline">ETA vs. Venture Capital</Link></li>
         <li><Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">Search Fund Returns</Link></li>
-        <li><Link href="/learn/is-search-fund-good-investment" className="text-apple-accent hover:underline">Is a Search Fund a Good Investment?</Link></li>
+        <li><Link href="/learn/search-fund-good-investment" className="text-apple-accent hover:underline">Is a Search Fund a Good Investment?</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

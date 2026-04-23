@@ -69,7 +69,7 @@ export default function EmployeeCommunicationSellingArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/emotional-journey-selling" className="text-apple-accent hover:underline">The Emotional Journey of Selling</Link></li>
         <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
-        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
         <li><Link href="/learn/building-trust-teams" className="text-apple-accent hover:underline">Building Trust with Teams</Link></li>
       </ul>
 

@@ -27,17 +27,17 @@ export default function RecurringRevenueBusinessesArticle() {
           <li><strong><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS &amp; software</Link>:</strong> Monthly/annual subscriptions. 90&ndash;95% gross retention. Industry gold standard.</li>
           <li><strong><Link href="/learn/waste-management-acquisition" className="text-apple-accent hover:underline">Waste management</Link>:</strong> Monthly collection contracts. 90%+ retention. Recession-proof.</li>
           <li><strong><Link href="/learn/it-services-acquisition" className="text-apple-accent hover:underline">Managed IT services (MSP)</Link>:</strong> Monthly per-user contracts. 90%+ retention. Growing demand.</li>
-          <li><strong><Link href="/learn/insurance-agency-acquisition" className="text-apple-accent hover:underline">Insurance brokerage</Link>:</strong> Annual policy renewals at 85&ndash;95% retention. Commission-based recurring revenue.</li>
+          <li><strong><Link href="/learn/acquiring-insurance-agency" className="text-apple-accent hover:underline">Insurance brokerage</Link>:</strong> Annual policy renewals at 85&ndash;95% retention. Commission-based recurring revenue.</li>
           <li><strong><Link href="/learn/property-management-acquisition" className="text-apple-accent hover:underline">Property management</Link>:</strong> Monthly management fees on long-term contracts. Asset-light, recurring.</li>
         </ul>
 
         <h3 className={h3Class}>Tier 2: Strong Recurring Revenue (50&ndash;80% recurring)</h3>
         <ul className={ulClass}>
           <li><strong><Link href="/learn/staffing-agency-acquisition" className="text-apple-accent hover:underline">Staffing (temp/contract)</Link>:</strong> Ongoing temp worker billing. 60&ndash;70% of revenue is recurring.</li>
-          <li><strong><Link href="/learn/accounting-practice-acquisition" className="text-apple-accent hover:underline">Accounting &amp; bookkeeping</Link>:</strong> Monthly retainers and annual tax prep. Sticky client relationships.</li>
-          <li><strong><Link href="/learn/pest-control-acquisition" className="text-apple-accent hover:underline">Pest control</Link>:</strong> Monthly/quarterly treatment plans. 80%+ contract retention.</li>
+          <li><strong><Link href="/learn/acquiring-accounting-practice" className="text-apple-accent hover:underline">Accounting &amp; bookkeeping</Link>:</strong> Monthly retainers and annual tax prep. Sticky client relationships.</li>
+          <li><strong><Link href="/learn/acquiring-pest-control-business" className="text-apple-accent hover:underline">Pest control</Link>:</strong> Monthly/quarterly treatment plans. 80%+ contract retention.</li>
           <li><strong><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC service</Link>:</strong> Maintenance agreements growing to 30&ndash;50% of revenue. Strong upsell to replacement.</li>
-          <li><strong><Link href="/learn/cleaning-business-acquisition" className="text-apple-accent hover:underline">Commercial cleaning</Link>:</strong> Monthly contracts for office, medical, and industrial facilities.</li>
+          <li><strong><Link href="/learn/acquiring-cleaning-business" className="text-apple-accent hover:underline">Commercial cleaning</Link>:</strong> Monthly contracts for office, medical, and industrial facilities.</li>
         </ul>
 
         <h3 className={h3Class}>Tier 3: Moderate Recurring Revenue (30&ndash;50% recurring)</h3>

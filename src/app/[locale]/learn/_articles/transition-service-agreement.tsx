@@ -75,7 +75,7 @@ export default function TransitionServiceAgreementArticle() {
           </li>
           <li>
             <strong>Platform acquisitions by search funds:</strong> First-time acquirers, including{" "}
-            <Link href="/learn/search-fund-raising-capital" className="text-apple-accent hover:underline">
+            <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
               search fund entrepreneurs
             </Link>, often need the seller to continue managing certain back-office functions while the
             new owner focuses on learning the core business operations.
@@ -382,7 +382,7 @@ export default function TransitionServiceAgreementArticle() {
         <p>
           The best TSA is one that ends on time — or early. A disciplined exit plan, developed before
           closing and refined during{" "}
-          <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             post-acquisition integration
           </Link>, is essential for achieving clean separation.
         </p>
@@ -465,7 +465,7 @@ export default function TransitionServiceAgreementArticle() {
 
       <ul className={ulClass}>
         <li>
-          <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             Post-Acquisition Integration Playbook
           </Link>{" "}— Building your 100-day plan for operational independence
         </li>
@@ -480,7 +480,7 @@ export default function TransitionServiceAgreementArticle() {
           </Link>{" "}— How the TSA fits into the broader closing framework
         </li>
         <li>
-          <Link href="/learn/management-transition-plan" className="text-apple-accent hover:underline">
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">
             Management Transition Planning After Acquisition
           </Link>{" "}— Coordinating leadership transition alongside TSA execution
         </li>

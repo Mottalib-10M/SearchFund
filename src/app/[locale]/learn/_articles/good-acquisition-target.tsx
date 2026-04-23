@@ -57,7 +57,7 @@ export default function GoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li><strong>Minimum EBITDA:</strong> $750K&ndash;$1M (enough to service debt + pay CEO salary + invest in growth)</li>
           <li><strong>Ideal EBITDA:</strong> $1.5M&ndash;$5M (the{" "}
-            <Link href="/learn/what-size-business-to-buy" className="text-apple-accent hover:underline">
+            <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
               sweet spot
             </Link>{" "}
             for search funds)</li>

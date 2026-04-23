@@ -69,7 +69,7 @@ export default function LifeAfterSellingArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/emotional-journey-selling" className="text-apple-accent hover:underline">The Emotional Journey of Selling</Link></li>
         <li><Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">Exit Strategies</Link></li>
-        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
         <li><Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">Why Invest in Search Funds</Link></li>
       </ul>
 

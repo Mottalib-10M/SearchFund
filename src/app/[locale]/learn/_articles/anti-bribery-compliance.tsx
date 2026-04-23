@@ -74,7 +74,7 @@ export default function AntiBriberyComplianceArticle() {
 
       <h2 className={h2Class}>Post-Acquisition Remediation and Integration</h2>
       <div className={bodyClass}>
-        <p>Even when pre-closing due diligence does not uncover active corruption, the acquirer should implement a robust compliance program in the acquired business as part of the <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">post-acquisition integration</Link> process. For targets with weak or nonexistent compliance infrastructure, this is both a legal imperative and a value-protection measure.</p>
+        <p>Even when pre-closing due diligence does not uncover active corruption, the acquirer should implement a robust compliance program in the acquired business as part of the <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">post-acquisition integration</Link> process. For targets with weak or nonexistent compliance infrastructure, this is both a legal imperative and a value-protection measure.</p>
 
         <h3 className={h3Class}>Immediate post-closing actions</h3>
         <ul className={ulClass}>
@@ -85,7 +85,7 @@ export default function AntiBriberyComplianceArticle() {
         </ul>
 
         <h3 className={h3Class}>Ongoing compliance infrastructure</h3>
-        <p>Beyond the immediate post-closing period, the acquirer should build sustainable compliance infrastructure that includes regular risk assessments, periodic training updates, third-party due diligence for new agents and intermediaries, monitoring of high-risk transactions, and periodic audits of compliance with internal policies. The <Link href="/learn/risk-assessment-acquisition" className="text-apple-accent hover:underline">risk assessment</Link> should be updated annually or whenever the business enters new markets, engages new intermediaries, or experiences a significant change in its government-facing activities.</p>
+        <p>Beyond the immediate post-closing period, the acquirer should build sustainable compliance infrastructure that includes regular risk assessments, periodic training updates, third-party due diligence for new agents and intermediaries, monitoring of high-risk transactions, and periodic audits of compliance with internal policies. The <Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">risk assessment</Link> should be updated annually or whenever the business enters new markets, engages new intermediaries, or experiences a significant change in its government-facing activities.</p>
       </div>
 
       <h2 className={h2Class}>Facilitation Payments: A Practical Dilemma</h2>
@@ -99,8 +99,8 @@ export default function AntiBriberyComplianceArticle() {
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
         <li><Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions</Link></li>
         <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations &amp; Warranties</Link></li>
-        <li><Link href="/learn/risk-assessment-acquisition" className="text-apple-accent hover:underline">Risk Assessment in Acquisitions</Link></li>
-        <li><Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">Post-Acquisition Integration</Link></li>
+        <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Risk Assessment in Acquisitions</Link></li>
+        <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Post-Acquisition Integration</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

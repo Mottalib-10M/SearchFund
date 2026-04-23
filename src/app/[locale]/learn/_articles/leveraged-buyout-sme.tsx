@@ -72,7 +72,7 @@ export default function LeveragedBuyoutSMEArticle() {
           <li><strong>Revenue growth:</strong> 3&ndash;8% annually (conservative for planning)</li>
           <li><strong>Margin improvement:</strong> 1&ndash;3% EBITDA margin expansion through operational improvement</li>
           <li><strong>Hold period:</strong> 5&ndash;7 years (matches debt term and{" "}
-            <Link href="/learn/qsbs-complete-guide" className="text-apple-accent hover:underline">
+            <Link href="/learn/qsbs-qualified-small-business-stock" className="text-apple-accent hover:underline">
               QSBS
             </Link>{" "}
             holding period)</li>

@@ -13,7 +13,7 @@ export default function ConstructionAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>General contractors (GC):</strong> Manage overall projects, subcontract specialty work. Revenue driven by project volume. Margins: 3&ndash;8% net.</li>
-          <li><strong>Specialty contractors:</strong> <Link href="/learn/electrical-contractor-acquisition" className="text-apple-accent hover:underline">Electrical</Link>, <Link href="/learn/plumbing-acquisition" className="text-apple-accent hover:underline">plumbing</Link>, <Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC</Link>, concrete, steel. Higher margins (8&ndash;15%) and recurring service revenue.</li>
+          <li><strong>Specialty contractors:</strong> <Link href="/learn/acquiring-electrical-contractor" className="text-apple-accent hover:underline">Electrical</Link>, <Link href="/learn/plumbing-acquisition" className="text-apple-accent hover:underline">plumbing</Link>, <Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC</Link>, concrete, steel. Higher margins (8&ndash;15%) and recurring service revenue.</li>
           <li><strong>Residential builders:</strong> Custom homes and production housing. Cyclical but high revenue per project.</li>
           <li><strong>Commercial construction:</strong> Office, retail, industrial, hospitality. Larger projects, longer timelines, bonding required.</li>
           <li><strong>Infrastructure/civil:</strong> Roads, bridges, utilities, government projects. Long-term backlogs and government-backed revenue.</li>
@@ -73,7 +73,7 @@ export default function ConstructionAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">Acquiring an HVAC Business</Link></li>
         <li><Link href="/learn/plumbing-acquisition" className="text-apple-accent hover:underline">Acquiring a Plumbing Business</Link></li>
-        <li><Link href="/learn/electrical-contractor-acquisition" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
+        <li><Link href="/learn/acquiring-electrical-contractor" className="text-apple-accent hover:underline">Acquiring an Electrical Contracting Business</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 

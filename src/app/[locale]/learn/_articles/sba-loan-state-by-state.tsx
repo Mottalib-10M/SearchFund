@@ -68,9 +68,9 @@ export default function SBALoanStateByStateArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/sba-7a-loans-acquisitions" className="text-apple-accent hover:underline">SBA 7(a) Loans for Acquisitions</Link></li>
+        <li><Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a) Loans for Acquisitions</Link></li>
         <li><Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">Acquisition Financing</Link></li>
-        <li><Link href="/learn/debt-structures-acquisitions" className="text-apple-accent hover:underline">Debt Structures</Link></li>
+        <li><Link href="/learn/debt-structure-optimization" className="text-apple-accent hover:underline">Debt Structures</Link></li>
         <li><Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller Financing</Link></li>
       </ul>
 

@@ -20,7 +20,7 @@ export default function MBOExitStrategyArticle() {
           continuity, and the preservation of company culture and employee
           relationships. This guide explains how MBOs work, when they make
           sense as an{" "}
-          <Link href="/learn/exit-strategy-planning" className="text-apple-accent hover:underline">exit strategy</Link>,
+          <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy</Link>,
           how they are financed, and what legal and structural considerations
           the seller must navigate.
         </p>
@@ -159,7 +159,7 @@ export default function MBOExitStrategyArticle() {
           gives the management team access to capital and strategic support
           while maintaining operational continuity. The relationship between
           MBOs and leveraged buyouts is explored further in our guide to{" "}
-          <Link href="/learn/leveraged-buyout-lbo" className="text-apple-accent hover:underline">LBO structures</Link>.
+          <Link href="/learn/leveraged-buyout-sme" className="text-apple-accent hover:underline">LBO structures</Link>.
         </p>
 
         <h3 className={h3Class}>Management equity contribution</h3>
@@ -180,7 +180,7 @@ export default function MBOExitStrategyArticle() {
           Valuation is one of the most sensitive aspects of an MBO because of
           the inherent information asymmetry and the dual role of the
           management team as both employee and buyer. Understanding{" "}
-          <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">business valuation methods</Link>{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation methods</Link>{" "}
           is critical for both parties.
         </p>
 
@@ -292,7 +292,7 @@ export default function MBOExitStrategyArticle() {
           </li>
           <li>
             <strong>Transition planning:</strong> A detailed{" "}
-            <Link href="/learn/management-transition-plan" className="text-apple-accent hover:underline">management transition plan</Link>{" "}
+            <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition plan</Link>{" "}
             should be agreed upon as part of the MBO, covering the
             departing owner&apos;s involvement during and after the
             transition period, handover of key relationships, and any
@@ -395,19 +395,19 @@ export default function MBOExitStrategyArticle() {
         <h2 className={h2Class}>Related resources</h2>
         <ul className={ulClass}>
           <li>
-            <Link href="/learn/exit-strategy-planning" className="text-apple-accent hover:underline">Exit Strategy Planning for Search Fund CEOs</Link>
+            <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">Exit Strategy Planning for Search Fund CEOs</Link>
           </li>
           <li>
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller Financing in Acquisitions</Link>
           </li>
           <li>
-            <Link href="/learn/business-valuation-methods" className="text-apple-accent hover:underline">Business Valuation Methods</Link>
+            <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">Business Valuation Methods</Link>
           </li>
           <li>
-            <Link href="/learn/leveraged-buyout-lbo" className="text-apple-accent hover:underline">The Leveraged Buyout (LBO) Explained</Link>
+            <Link href="/learn/leveraged-buyout-sme" className="text-apple-accent hover:underline">The Leveraged Buyout (LBO) Explained</Link>
           </li>
           <li>
-            <Link href="/learn/management-transition-plan" className="text-apple-accent hover:underline">Management Transition Planning</Link>
+            <Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition Planning</Link>
           </li>
         </ul>
       </div>

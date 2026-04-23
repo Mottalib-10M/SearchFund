@@ -73,7 +73,7 @@ export default function ProfessionalLiabilityInsuranceArticle() {
         <p>Insurance due diligence is a discrete workstream within the broader <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence process</Link> and should be conducted by an experienced insurance broker or risk management consultant. The goal is to understand the target&apos;s current risk profile, identify coverage gaps, and estimate the post-closing insurance costs that will affect the financial model.</p>
         <ol className={olClass}>
           <li><strong>Policy schedule review:</strong> Obtain a complete schedule of all insurance policies in force, including policy types, carriers, limits, deductibles, premiums, and expiration dates. This is the foundation of the insurance due diligence.</li>
-          <li><strong>Claims history analysis:</strong> Request a 5-year loss run from each carrier. Analyze claims by type, frequency, severity, and trends. A rising claims frequency or increasing severity may indicate operational problems that need to be addressed during <Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">post-acquisition integration</Link>.</li>
+          <li><strong>Claims history analysis:</strong> Request a 5-year loss run from each carrier. Analyze claims by type, frequency, severity, and trends. A rising claims frequency or increasing severity may indicate operational problems that need to be addressed during <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">post-acquisition integration</Link>.</li>
           <li><strong>Coverage gap analysis:</strong> Compare the target&apos;s current insurance program to industry benchmarks and to the buyer&apos;s own insurance standards. Common gaps in small businesses include inadequate cyber liability coverage, missing employment practices liability insurance, insufficient umbrella/excess limits, and no fiduciary liability coverage for employee benefit plans.</li>
           <li><strong>Contractual insurance requirements:</strong> Review the target&apos;s key contracts (customer agreements, leases, loan covenants) for insurance requirements. Non-compliance with contractual insurance obligations can trigger defaults.</li>
           <li><strong>Workers&apos; compensation experience modification rate (EMR):</strong> The EMR reflects the target&apos;s historical workers&apos; compensation claims experience relative to its industry peers. An EMR above 1.0 indicates worse-than-average claims experience, which results in higher premiums and may disqualify the company from certain contracts.</li>
@@ -96,7 +96,7 @@ export default function ProfessionalLiabilityInsuranceArticle() {
 
       <h2 className={h2Class}>Cost Benchmarks and Budgeting</h2>
       <div className={bodyClass}>
-        <p>Insurance costs vary significantly by industry, geography, claims history, and coverage limits. However, some general benchmarks can help searchers build realistic financial models for their <Link href="/learn/risk-assessment-acquisition" className="text-apple-accent hover:underline">acquisition risk assessment</Link>.</p>
+        <p>Insurance costs vary significantly by industry, geography, claims history, and coverage limits. However, some general benchmarks can help searchers build realistic financial models for their <Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">acquisition risk assessment</Link>.</p>
         <ul className={ulClass}>
           <li><strong>D&amp;O insurance:</strong> For a private company with $5M&ndash;$30M in revenue, annual D&amp;O premiums typically range from $5,000 to $25,000 for $1M&ndash;$5M in coverage. Higher-risk industries (financial services, healthcare, technology) and companies with complex cap tables or investor boards will be at the upper end.</li>
           <li><strong>E&amp;O insurance:</strong> Professional services firms typically pay 1&ndash;3% of revenue in E&amp;O premiums. A consulting firm with $5M in revenue might pay $50,000&ndash;$150,000 annually for adequate E&amp;O coverage. Technology companies often fall in the 0.5&ndash;2% range.</li>
@@ -123,9 +123,9 @@ export default function ProfessionalLiabilityInsuranceArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations &amp; Warranties</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
-        <li><Link href="/learn/post-acquisition-integration" className="text-apple-accent hover:underline">Post-Acquisition Integration</Link></li>
+        <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Post-Acquisition Integration</Link></li>
         <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process</Link></li>
-        <li><Link href="/learn/risk-assessment-acquisition" className="text-apple-accent hover:underline">Risk Assessment in Acquisitions</Link></li>
+        <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Risk Assessment in Acquisitions</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

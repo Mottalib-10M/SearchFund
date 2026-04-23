@@ -71,8 +71,8 @@ export default function WealthManagementAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/insurance-agency-acquisition" className="text-apple-accent hover:underline">Acquiring an Insurance Brokerage</Link></li>
-        <li><Link href="/learn/accounting-practice-acquisition" className="text-apple-accent hover:underline">Acquiring an Accounting Practice</Link></li>
+        <li><Link href="/learn/acquiring-insurance-agency" className="text-apple-accent hover:underline">Acquiring an Insurance Brokerage</Link></li>
+        <li><Link href="/learn/acquiring-accounting-practice" className="text-apple-accent hover:underline">Acquiring an Accounting Practice</Link></li>
         <li><Link href="/learn/professional-services-acquisition" className="text-apple-accent hover:underline">Acquiring a Professional Services Firm</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
       </ul>

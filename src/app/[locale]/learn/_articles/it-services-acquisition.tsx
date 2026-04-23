@@ -71,7 +71,7 @@ export default function ITServicesAcquisitionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/acquiring-msp-business" className="text-apple-accent hover:underline">Acquiring a Managed Service Provider (MSP)</Link></li>
         <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">Acquiring a SaaS Business</Link></li>
-        <li><Link href="/learn/acquiring-cybersecurity-firm" className="text-apple-accent hover:underline">Acquiring a Cybersecurity Firm</Link></li>
+        <li><Link href="/learn/cybersecurity-firm-acquisition" className="text-apple-accent hover:underline">Acquiring a Cybersecurity Firm</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 
