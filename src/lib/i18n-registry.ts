@@ -1,4 +1,5 @@
 import { allArticles, categoryMeta } from "@/app/[locale]/learn/_articles/article-registry";
+import { hasFRVersion } from "@/app/[locale]/learn/_articles/fr-registry";
 
 // ---------------------------------------------------------------------------
 // Locale types
@@ -41,9 +42,11 @@ function buildRouteLocales(): Record<string, Locale[]> {
     map[route] = ["en"];
   }
 
-  // All articles: English only
+  // Articles: English only unless a FR version exists
   for (const article of allArticles) {
-    map[`/learn/${article.slug}`] = ["en"];
+    map[`/learn/${article.slug}`] = hasFRVersion(article.slug)
+      ? ["en", "fr"]
+      : ["en"];
   }
 
   // All categories: English only
