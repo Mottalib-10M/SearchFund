@@ -6,7 +6,7 @@ export default function PlumbingAcquisitionArticle() {
     <article>
       <h1 className={h1Class}>Acquiring a Plumbing Business</h1>
       <div className={bodyClass}>
-        <p>Plumbing businesses are excellent search fund targets. The $130B+ US plumbing market is highly fragmented, essential (plumbing emergencies can&apos;t wait), and increasingly sophisticated as water treatment, trenchless technology, and smart home systems create opportunities for value-added services. Like <Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC</Link>, the plumbing industry faces a massive succession gap as aging owner-operators retire.</p>
+        <p>Plumbing businesses are excellent search fund targets. The $130B+ US plumbing market is highly fragmented, essential (plumbing emergencies can&apos;t wait), and increasingly sophisticated as water treatment, trenchless technology, and smart home systems create opportunities for value-added services. Like <Link href="/learn/acquiring-hvac-business" className="text-apple-accent hover:underline">HVAC</Link>, the plumbing industry faces a massive succession gap as aging owner-operators retire.</p>
       </div>
 
       <h2 className={h2Class}>Why Plumbing Businesses Are Attractive</h2>
@@ -17,7 +17,7 @@ export default function PlumbingAcquisitionArticle() {
           <li><strong>Low technology disruption risk:</strong> Plumbing will not be automated or offshored anytime soon</li>
           <li><strong>Licensing moat:</strong> Master plumber licenses take years to obtain, creating barriers to entry</li>
           <li><strong>Recurring revenue:</strong> Drain maintenance, water heater flushes, and service plans build predictable income</li>
-          <li><strong>Add-on opportunity:</strong> Natural expansion into <Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC</Link>, water treatment, and sewer/drain services</li>
+          <li><strong>Add-on opportunity:</strong> Natural expansion into <Link href="/learn/acquiring-hvac-business" className="text-apple-accent hover:underline">HVAC</Link>, water treatment, and sewer/drain services</li>
         </ul>
       </div>
 
@@ -67,9 +67,9 @@ export default function PlumbingAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">Acquiring an HVAC Business</Link></li>
+        <li><Link href="/learn/acquiring-hvac-business" className="text-apple-accent hover:underline">Acquiring an HVAC Business</Link></li>
         <li><Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">Acquiring a Home Services Business</Link></li>
-        <li><Link href="/learn/acquiring-electrical-business" className="text-apple-accent hover:underline">Acquiring an Electrical Business</Link></li>
+        <li><Link href="/learn/acquiring-electrical-contractor" className="text-apple-accent hover:underline">Acquiring an Electrical Business</Link></li>
         <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization</Link></li>
       </ul>
 

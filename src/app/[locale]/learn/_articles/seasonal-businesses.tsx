@@ -79,7 +79,7 @@ export default function SeasonalBusinessesArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/landscaping-acquisition" className="text-apple-accent hover:underline">Acquiring a Landscaping Business</Link></li>
-        <li><Link href="/learn/pool-service-acquisition" className="text-apple-accent hover:underline">Acquiring a Pool Service Business</Link></li>
+        <li><Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">Acquiring a Pool Service Business</Link></li>
         <li><Link href="/learn/acquiring-pest-control-business" className="text-apple-accent hover:underline">Acquiring a Pest Control Business</Link></li>
         <li><Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">Working Capital Management</Link></li>
       </ul>

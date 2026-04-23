@@ -15,7 +15,7 @@ export default function AssetLightVsAssetHeavyArticle() {
           <li><strong>People-based:</strong> Revenue driven by human expertise, relationships, and intellectual capital</li>
           <li><strong>Minimal capex:</strong> Low investment in physical equipment, facilities, or inventory</li>
           <li><strong>High margins:</strong> Revenue-to-EBITDA conversion is strong because few physical costs drain cash flow</li>
-          <li><strong>Examples:</strong> <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS companies</Link>, <Link href="/learn/professional-services-acquisition" className="text-apple-accent hover:underline">professional services firms</Link>, <Link href="/learn/staffing-agency-acquisition" className="text-apple-accent hover:underline">staffing agencies</Link>, <Link href="/learn/acquiring-insurance-agency" className="text-apple-accent hover:underline">insurance brokerages</Link>, <Link href="/learn/digital-marketing-agency-acquisition" className="text-apple-accent hover:underline">marketing agencies</Link></li>
+          <li><strong>Examples:</strong> <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS companies</Link>, <Link href="/learn/professional-services-acquisition" className="text-apple-accent hover:underline">professional services firms</Link>, <Link href="/learn/acquiring-staffing-agency" className="text-apple-accent hover:underline">staffing agencies</Link>, <Link href="/learn/acquiring-insurance-agency" className="text-apple-accent hover:underline">insurance brokerages</Link>, <Link href="/learn/acquiring-digital-marketing-agency" className="text-apple-accent hover:underline">marketing agencies</Link></li>
         </ul>
       </div>
 
@@ -65,7 +65,7 @@ export default function AssetLightVsAssetHeavyArticle() {
       <h2 className={h2Class}>Hybrid Models: The Best of Both</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Service + equipment:</strong> <Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC companies</Link> with maintenance contracts (recurring service) and equipment (barrier to entry)</li>
+          <li><strong>Service + equipment:</strong> <Link href="/learn/acquiring-hvac-business" className="text-apple-accent hover:underline">HVAC companies</Link> with maintenance contracts (recurring service) and equipment (barrier to entry)</li>
           <li><strong>Software + hardware:</strong> <Link href="/learn/it-services-acquisition" className="text-apple-accent hover:underline">MSPs</Link> with managed services contracts and some equipment infrastructure</li>
           <li><strong>Management + real estate:</strong> <Link href="/learn/property-management-acquisition" className="text-apple-accent hover:underline">Property management</Link> combining asset-light management fees with optional real estate holdings</li>
           <li><strong>Distribution + expertise:</strong> <Link href="/learn/distribution-wholesale-acquisition" className="text-apple-accent hover:underline">Specialty distributors</Link> with product knowledge and warehouse infrastructure</li>

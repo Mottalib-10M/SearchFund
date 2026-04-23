@@ -72,8 +72,8 @@ export default function GeographicExpansionArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
         <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook</Link></li>
-        <li><Link href="/learn/product-line-extension" className="text-apple-accent hover:underline">Product & Service Line Extension</Link></li>
-        <li><Link href="/learn/organic-vs-acquisitive-growth" className="text-apple-accent hover:underline">Organic vs. Acquisitive Growth</Link></li>
+        <li><Link href="/learn/cross-selling-upselling" className="text-apple-accent hover:underline">Product & Service Line Extension</Link></li>
+        <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Organic vs. Acquisitive Growth</Link></li>
       </ul>
 
       <h2 className={h2Class}>Sources</h2>

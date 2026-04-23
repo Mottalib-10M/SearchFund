@@ -96,7 +96,7 @@ export default function ETABrazilArticle() {
 
         <p>
           For the broader Latin American context, see{" "}
-          <Link href="/learn/eta-latin-america" className="text-apple-accent hover:underline">
+          <Link href="/learn/eta-latin-america-overview" className="text-apple-accent hover:underline">
             ETA in Latin America
           </Link>{" "}
           and{" "}

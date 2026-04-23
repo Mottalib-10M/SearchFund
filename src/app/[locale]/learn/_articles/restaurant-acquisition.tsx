@@ -71,7 +71,7 @@ export default function RestaurantAcquisitionArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/franchise-acquisition" className="text-apple-accent hover:underline">Acquiring a Franchise Business</Link></li>
-        <li><Link href="/learn/food-beverage-manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Food &amp; Beverage Manufacturer</Link></li>
+        <li><Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">Acquiring a Food &amp; Beverage Manufacturer</Link></li>
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>

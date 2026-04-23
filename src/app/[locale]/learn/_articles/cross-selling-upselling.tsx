@@ -72,7 +72,7 @@ export default function CrossSellingUpsellingArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/product-line-extension" className="text-apple-accent hover:underline">Product & Service Line Extension</Link></li>
+        <li>Product & Service Line Extension</li>
         <li><Link href="/learn/customer-retention-post-acquisition" className="text-apple-accent hover:underline">Customer Retention Programs</Link></li>
         <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization</Link></li>
         <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook</Link></li>

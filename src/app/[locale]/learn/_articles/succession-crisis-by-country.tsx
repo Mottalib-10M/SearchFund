@@ -125,7 +125,7 @@ export default function SuccessionCrisisByCountryArticle() {
         <h3 className={h3Class}>Latin America</h3>
         <ul className={ulClass}>
           <li><strong>Scale:</strong> Millions of first-generation entrepreneurs approaching retirement across{" "}
-            <Link href="/learn/eta-latin-america" className="text-apple-accent hover:underline">
+            <Link href="/learn/eta-latin-america-overview" className="text-apple-accent hover:underline">
               Brazil, Mexico, Colombia, and Chile
             </Link></li>
           <li><strong>Challenge:</strong> Informality, currency risk, limited acquisition financing</li>

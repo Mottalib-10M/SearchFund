@@ -3783,37 +3783,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "product-line-extension",
-    title: "Product & Service Line Extension Post-Acquisition",
-    description:
-      "Expand your product or service offerings post-acquisition — identify extension opportunities, implementation framework, industry examples, and bundling strategies.",
-    readTime: "10 min read",
-    tag: "Operations",
-    category: "Operations & Growth",
-    ogTitle: "Service Line Extension After Acquisition | Growth Strategy",
-    ogDescription:
-      "Add new products and services to your acquired business. Identify opportunities through customer feedback, validate demand, and implement with minimal risk.",
-    datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
-    sources: [
-      { name: "Harvard Business Review", title: "The Art of Service Line Extension in Acquired Businesses", year: 2024 },
-      { name: "McKinsey", title: "Growth Through Adjacent Services", year: 2024 },
-      { name: "Stanford GSB", title: "Revenue Diversification in Search Fund Companies", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "How do I identify service extension opportunities?",
-        answer:
-          "Ask customers directly: 'What else do you buy from other vendors that we could provide?' Also analyze the value chain (what happens before/after your service), study what larger competitors offer, and check what capabilities your team already has that you're not monetizing.",
-      },
-      {
-        question: "Should I hire or subcontract for new service lines?",
-        answer:
-          "Start by subcontracting or partnering before committing to full-time hires. This lets you validate demand with minimal risk. Once you've proven consistent revenue from the new service, hire dedicated staff to improve margins and quality control.",
-      },
-    ],
-  },
-  {
     slug: "cross-selling-upselling",
     title: "Cross-Selling & Upselling in Acquired Companies",
     description:
@@ -3872,37 +3841,6 @@ export const allArticles: ArticleMeta[] = [
         question: "How do I find the right strategic partners?",
         answer:
           "Look for companies that serve the same customers with complementary (not competitive) services, are similar in size and values, and have strong reputations. Sources include industry associations, trade shows, existing vendors, customer referrals, and your advisory board network.",
-      },
-    ],
-  },
-  {
-    slug: "organic-vs-acquisitive-growth",
-    title: "Organic Growth vs. Acquisitive Growth: When to Do What",
-    description:
-      "Choose between organic growth and bolt-on acquisitions — advantages of each approach, the right sequencing for search fund companies, and when buy-and-build makes sense.",
-    readTime: "11 min read",
-    tag: "Operations",
-    category: "Operations & Growth",
-    ogTitle: "Organic vs. Acquisitive Growth for Search Funds | Strategy Framework",
-    ogDescription:
-      "When to grow organically vs. through acquisitions. Sequencing, advantages, and the framework for deciding when buy-and-build is right for your company.",
-    datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
-    sources: [
-      { name: "Harvard Business Review", title: "Organic vs. Inorganic Growth: A Framework for Choosing", year: 2024 },
-      { name: "Stanford GSB", title: "Buy-and-Build Strategies in Search Fund Companies", year: 2024 },
-      { name: "Bain & Company", title: "The M&A Growth Playbook for Mid-Market Companies", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Should I focus on organic or acquisitive growth first?",
-        answer:
-          "Organic growth first, always. Stabilize operations in year 1, optimize and prove organic growth capability in year 2, then consider your first add-on acquisition in year 2–3. Never do an acquisition to fix a platform problem — fix it organically first.",
-      },
-      {
-        question: "Is organic or acquisitive growth valued more by buyers?",
-        answer:
-          "Organic growth is valued more highly because it demonstrates the business's inherent competitive strength. Acquired growth often comes with integration risk. The best companies show strong organic growth supplemented by well-integrated acquisitions.",
       },
     ],
   },
@@ -4248,37 +4186,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "dental-practice-acquisition",
-    title: "Acquiring a Dental Practice (DSO Model)",
-    description:
-      "Acquire a dental practice using the DSO model — management services agreements, due diligence on active patients and revenue mix, valuation multiples, and rollup strategy.",
-    readTime: "11 min read",
-    tag: "Industry Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Dental Practice | DSO Model Guide for Search Funds",
-    ogDescription:
-      "The DSO model for non-dentist acquirers: management services agreements, due diligence essentials, 4–6x solo multiples vs. 8–14x platform multiples, and growth playbook.",
-    datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
-    sources: [
-      { name: "ADA", title: "Dental Practice Survey and Demographics", year: 2024 },
-      { name: "Bain & Company", title: "The DSO Market: Trends and Opportunities", year: 2024 },
-      { name: "Association of Dental Support Organizations", title: "DSO Industry Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Can a non-dentist own a dental practice?",
-        answer:
-          "In most states, non-dentists cannot own a dental practice directly. The DSO (Dental Service Organization) model solves this: a management company provides all non-clinical support via a Management Services Agreement (MSA), while a licensed dentist owns the clinical entity. State rules vary — TX and FL are more DSO-friendly.",
-      },
-      {
-        question: "What are typical valuation multiples for dental practices?",
-        answer:
-          "Solo dental practices sell at 60–80% of annual collections or 4–6x EBITDA. Multi-location DSO platforms sell at 8–14x EBITDA, creating significant multiple arbitrage opportunity for buy-and-build strategies.",
-      },
-    ],
-  },
-  {
     slug: "veterinary-practice-acquisition",
     title: "Acquiring a Veterinary Practice",
     description:
@@ -4306,37 +4213,6 @@ export const allArticles: ArticleMeta[] = [
         question: "What should I look for in veterinary practice due diligence?",
         answer:
           "Key metrics: revenue per DVM ($700K–1M benchmark), active client count (trailing 18 months), average transaction value ($200–400 per visit), staff retention (vet tech turnover is a major challenge), equipment condition, and revenue mix (wellness 30–40%, medical 30–40%, surgery 15–25%).",
-      },
-    ],
-  },
-  {
-    slug: "hvac-acquisition",
-    title: "Acquiring an HVAC Business",
-    description:
-      "Acquire an HVAC business — maintenance agreement base, residential vs. commercial focus, technician workforce assessment, manufacturer dealer status, and growth playbook.",
-    readTime: "11 min read",
-    tag: "Industry Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an HVAC Business | Search Fund Industry Guide",
-    ogDescription:
-      "The HVAC acquisition opportunity: $150B+ market, recurring maintenance revenue, fragmented industry, and a clear buy-and-build playbook for search fund entrepreneurs.",
-    datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
-    sources: [
-      { name: "ACHR News", title: "HVAC Industry Market Size and Trends", year: 2024 },
-      { name: "AHRI", title: "Residential HVAC Equipment Shipment Data", year: 2024 },
-      { name: "ServiceTitan", title: "Home Services Industry Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What makes a good HVAC acquisition target?",
-        answer:
-          "Target residential service & replacement businesses with an established maintenance agreement base (2,000+ agreements), strong technician workforce (assess EPA certifications and tenure), manufacturer dealer status (Carrier, Trane, Lennox), and a service-heavy revenue mix vs. new construction.",
-      },
-      {
-        question: "What are typical HVAC business valuations?",
-        answer:
-          "Residential HVAC service businesses typically sell for 4–7x EBITDA. Premium factors include a large maintenance agreement base, multiple technicians, manufacturer dealer status, and a modern fleet. Discount factors include owner-dependency, seasonal revenue concentration, and aging equipment.",
       },
     ],
   },
@@ -4496,37 +4372,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "staffing-agency-acquisition",
-    title: "Acquiring a Staffing & Recruitment Agency",
-    description:
-      "How to acquire staffing and recruitment agencies — evaluating temp vs. permanent revenue, niche specialization, workers' comp risks, and post-acquisition growth strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Staffing & Recruitment Agency — Search Fund Guide",
-    ogDescription:
-      "Evaluate staffing agency acquisitions: revenue quality, client concentration, workers' comp, and niche specialization strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "American Staffing Association", title: "Staffing Industry Annual Report", year: 2024 },
-      { name: "SIA (Staffing Industry Analysts)", title: "US Staffing Market Forecast", year: 2024 },
-      { name: "IBISWorld", title: "Temporary Staffing Industry in the US", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What type of staffing agency is best for a search fund acquisition?",
-        answer:
-          "Niche staffing agencies in healthcare, IT, or specific verticals offer the best risk-adjusted returns, commanding 5–8x EBITDA vs. 3–5x for generalists. Target companies with 60%+ temp/contract revenue for predictability, diversified client bases, and gross margins above 25%.",
-      },
-      {
-        question: "What are the hidden risks in staffing agency acquisitions?",
-        answer:
-          "Workers' compensation is a major hidden cost center — audit the experience modifier (EMR) and claims history carefully. Key recruiter retention is critical since top billers own client relationships. Also watch for client concentration: if one client represents 20%+ of revenue, losing that contract could be devastating.",
-      },
-    ],
-  },
-  {
     slug: "property-management-acquisition",
     title: "Acquiring a Property Management Company",
     description:
@@ -4554,37 +4399,6 @@ export const allArticles: ArticleMeta[] = [
         question: "What due diligence metrics matter most for property management companies?",
         answer:
           "Focus on door count and growth trend, average remaining contract duration, owner retention rate (target 90%+), revenue per door ($100–300/door/month for single-family), in-house vs. outsourced maintenance operations, and technology stack (AppFolio, Buildium, Yardi).",
-      },
-    ],
-  },
-  {
-    slug: "digital-marketing-agency-acquisition",
-    title: "Acquiring a Digital Marketing Agency",
-    description:
-      "How to acquire a digital marketing agency — evaluating retainer vs. project revenue, client retention, key person risk, and post-acquisition growth through specialization and roll-ups.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Digital Marketing Agency — Search Fund Guide",
-    ogDescription:
-      "Evaluate digital agency acquisitions: retainer revenue quality, client concentration, talent retention, and niche specialization strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "IBISWorld", title: "Digital Advertising Agencies in the US", year: 2024 },
-      { name: "Statista", title: "Digital Advertising Market Worldwide", year: 2024 },
-      { name: "Forrester", title: "Agency Market Forecast & Trends", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What are the typical valuation multiples for digital marketing agencies?",
-        answer:
-          "Digital marketing agencies typically sell for 3–7x EBITDA depending on size, growth rate, revenue quality (retainer vs. project), and specialization. Niche-focused agencies with 60%+ retainer revenue and diversified client bases command premium multiples.",
-      },
-      {
-        question: "What is the biggest risk when acquiring a digital marketing agency?",
-        answer:
-          "Founder dependency is the biggest risk. Many agency owners personally manage key client relationships, and their departure can trigger client churn. Assess how deeply the owner is embedded in day-to-day client work and plan a structured transition.",
       },
     ],
   },
@@ -4709,99 +4523,6 @@ export const allArticles: ArticleMeta[] = [
         question: "What is the biggest challenge in acquiring a distribution business?",
         answer:
           "Working capital management is the biggest challenge. Distribution businesses tie up significant capital in inventory, and managing inventory turns, dead stock, and accounts receivable collection is critical to cash flow. Supplier relationship transferability is also a key concern.",
-      },
-    ],
-  },
-  {
-    slug: "food-beverage-manufacturing-acquisition",
-    title: "Acquiring a Food & Beverage Manufacturing Business",
-    description:
-      "How to acquire food and beverage manufacturing companies — co-packing, branded products, specialty foods. Food safety certifications, customer concentration, and post-acquisition growth strategies.",
-    readTime: "12 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Food & Beverage Manufacturing Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate F&B manufacturing acquisitions: food safety, branded vs. co-pack, specialty products, and growth strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Food & Drug Administration", title: "Food Facility Registration Data", year: 2024 },
-      { name: "IBISWorld", title: "Food Manufacturing in the US", year: 2024 },
-      { name: "Specialty Food Association", title: "State of the Specialty Food Industry", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What food safety certifications are needed for food manufacturing businesses?",
-        answer:
-          "SQF, BRC, or GFSI certifications are essential — they determine which retailers and foodservice companies you can sell to. FDA registration and HACCP plans are regulatory requirements. Recall history and food safety audit scores should be reviewed during due diligence.",
-      },
-      {
-        question: "What type of food manufacturer is best for a search fund acquisition?",
-        answer:
-          "Specialty and premium products (organic, craft, ethnic foods) offer the best margins at 20–40% gross, compared to 10–20% for commodity products. Co-packing operations offer recurring B2B revenue with lower brand risk. Branded products offer higher upside but require marketing investment.",
-      },
-    ],
-  },
-  {
-    slug: "metal-fabrication-acquisition",
-    title: "Acquiring a Metal Fabrication or Machine Shop",
-    description:
-      "A guide to acquiring metal fabrication shops and CNC machine shops — equipment assessment, certifications, workforce evaluation, and reshoring tailwinds.",
-    readTime: "12 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Metal Fabrication or Machine Shop — Search Fund Guide",
-    ogDescription:
-      "How to evaluate machine shops and fabrication businesses: CNC equipment, certifications, skilled labor, and consolidation strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "US Census Bureau", title: "Annual Survey of Manufactures: Metal Fabrication", year: 2024 },
-      { name: "Fabricators & Manufacturers Association", title: "Industry Benchmark Report", year: 2024 },
-      { name: "IBISWorld", title: "Metal Stamping & Forging in the US", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What makes metal fabrication an attractive acquisition target?",
-        answer:
-          "High barriers to entry (expensive CNC equipment, skilled labor, certifications), sticky customer relationships (qualification processes take months), the reshoring trend bringing manufacturing back to the US, and a fragmented market with 55,000+ shops — most family-owned with aging founders needing succession solutions.",
-      },
-      {
-        question: "How do I evaluate equipment in a machine shop acquisition?",
-        answer:
-          "Assess equipment age, condition, capabilities (3-axis vs. 5-axis CNC), and replacement value. CNC machines have 10–20 year useful lives. Check maintenance records, capacity utilization (ideal is 65–80%), and whether the shop can add shifts for growth. Equipment replacement costs are significant — a single CNC machine can cost $500K–$5M+.",
-      },
-    ],
-  },
-  {
-    slug: "energy-services-acquisition",
-    title: "Acquiring an Energy Services or Solar Installation Business",
-    description:
-      "How to acquire energy services businesses — solar installation, energy efficiency, EV charging, and commercial energy management. IRA incentives, licensing, and growth strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Energy Services or Solar Installation Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate solar and energy services acquisitions: IRA incentives, licensing, recurring maintenance contracts, and growth strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Solar Energy Industries Association", title: "US Solar Market Insight Report", year: 2024 },
-      { name: "Wood Mackenzie", title: "US Solar Market Forecast", year: 2024 },
-      { name: "US Department of Energy", title: "Solar Energy Technologies Office Annual Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "How do federal incentives affect solar business acquisitions?",
-        answer:
-          "The Inflation Reduction Act provides a 30% investment tax credit (ITC) for solar through 2032, making solar installations significantly more affordable for customers. This creates strong demand tailwinds but also creates incentive dependency risk — assess how the business would perform if credits were reduced.",
-      },
-      {
-        question: "What type of energy services business is best for ETA?",
-        answer:
-          "Companies building recurring revenue through maintenance contracts and energy monitoring services offer the most predictable cash flow. Commercial solar and energy efficiency businesses typically have higher project values and longer customer relationships than residential-only installers.",
       },
     ],
   },
@@ -4961,68 +4682,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "media-publishing-acquisition",
-    title: "Acquiring a Media, Publishing, or Newsletter Business",
-    description:
-      "A guide to acquiring media businesses — B2B trade publications, newsletters, podcast networks, and data products. Audience metrics, content creator dependency, and multi-stream revenue strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Media, Publishing, or Newsletter Business — Search Fund Guide",
-    ogDescription:
-      "How to evaluate media acquisitions: subscriber metrics, revenue diversification, content creator risk, and growth through events and data products.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Pew Research Center", title: "State of the News Media", year: 2024 },
-      { name: "SIIA (Software & Information Industry Association)", title: "B2B Media Benchmark Report", year: 2024 },
-      { name: "Digiday", title: "State of Digital Publishing", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What type of media business is best for ETA?",
-        answer:
-          "B2B trade publications and niche newsletters offer the best risk-adjusted returns. They have sticky subscribers, predictable renewal rates, and multiple monetization streams (subscription, advertising, events, data). Consumer media is more competitive and harder to defend.",
-      },
-      {
-        question: "How do you value a newsletter or media business?",
-        answer:
-          "B2B trade media typically sells for 4–8x EBITDA. Newsletters are often valued at 3–6x annual revenue due to high margins. Key factors: subscription percentage of revenue, audience engagement metrics (open rates, renewal rates), content creator dependency, and revenue stream diversification.",
-      },
-    ],
-  },
-  {
-    slug: "pet-services-acquisition",
-    title: "Acquiring a Pet Services Business",
-    description:
-      "How to acquire pet services businesses — grooming, boarding, daycare, retail, and training. Facility assessment, groomer retention, customer loyalty, and multi-service expansion strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Pet Services Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate pet services acquisitions: grooming, boarding, daycare. Facility condition, staff retention, and growth through membership programs.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "American Pet Products Association", title: "National Pet Owners Survey", year: 2024 },
-      { name: "IBISWorld", title: "Pet Grooming & Boarding in the US", year: 2024 },
-      { name: "Packaged Facts", title: "US Pet Market Outlook", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why are pet services businesses recession-resistant?",
-        answer:
-          "Pet spending barely declined during 2008–2009 and grew through COVID-19. Pet owners treat their animals as family members and prioritize grooming, veterinary care, and daycare even during economic downturns. With 66% of US households owning pets and spending per pet increasing annually, demand is fundamentally stable.",
-      },
-      {
-        question: "What is the biggest operational challenge in pet services?",
-        answer:
-          "Skilled groomer retention is the biggest challenge. Experienced groomers are hard to find and replace, and they often have loyal customer followings. Assess groomer tenure, compensation competitiveness, non-compete status, and training programs. Losing a top groomer can mean losing their entire book of clients.",
-      },
-    ],
-  },
-  {
     slug: "storage-self-storage-acquisition",
     title: "Acquiring a Storage or Self-Storage Facility",
     description:
@@ -5147,223 +4806,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "wealth-management-acquisition",
-    title: "Acquiring a Wealth Management or Financial Advisory Practice",
-    description:
-      "A guide to acquiring RIAs and financial advisory practices — AUM analysis, client demographics, regulatory compliance, advisor transition, and tuck-in acquisition strategies.",
-    readTime: "12 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Wealth Management or Financial Advisory Practice — Search Fund Guide",
-    ogDescription:
-      "How to evaluate RIA acquisitions: AUM composition, client retention, fee schedules, regulatory compliance, and growth through tuck-in acquisitions.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Cerulli Associates", title: "US RIA Marketplace Report", year: 2024 },
-      { name: "Investment Adviser Association", title: "Investment Adviser Industry Snapshot", year: 2024 },
-      { name: "DeVoe & Company", title: "RIA Deal Book: Annual M&A Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why are wealth management practices attractive acquisition targets?",
-        answer:
-          "Wealth management offers 90–95% recurring AUM-based revenue with 95–98% client retention rates — among the highest quality revenue profiles in any industry. The succession wave (40% of advisors over 55) creates thousands of motivated sellers over the next decade, and AUM-based revenue grows naturally with market appreciation.",
-      },
-      {
-        question: "How are wealth management practices valued?",
-        answer:
-          "Fee-based RIAs typically sell for 2–3x annual revenue or 6–12x EBITDA. Key valuation drivers include fee schedule (0.75%+ of AUM preferred), client demographics (younger accumulating clients are more valuable), revenue quality (recurring AUM fees vs. commissions), and client concentration (top 10 clients under 30% of AUM).",
-      },
-    ],
-  },
-  {
-    slug: "engineering-architecture-acquisition",
-    title: "Acquiring an Engineering or Architecture Firm",
-    description:
-      "How to acquire engineering and architecture firms — civil, structural, MEP, and environmental. Backlog analysis, professional licensing, key-person risk, and infrastructure spending tailwinds.",
-    readTime: "12 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Engineering or Architecture Firm — Search Fund Guide",
-    ogDescription:
-      "Evaluate A/E firm acquisitions: backlog quality, PE/RA licensing, utilization rates, and multi-discipline growth strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "American Council of Engineering Companies", title: "Engineering Business Index", year: 2024 },
-      { name: "American Institute of Architects", title: "AIA Firm Survey", year: 2024 },
-      { name: "ENR (Engineering News-Record)", title: "Top Design Firms Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What makes engineering and architecture firms attractive for ETA?",
-        answer:
-          "Infrastructure spending ($1.2T federal bill), professional licensing barriers (PE, RA), recurring client relationships (60–80% from repeat clients), revenue backlog visibility (6–18 months), and a massive succession wave as baby boomer principals retire. The market is highly fragmented with thousands of small firms.",
-      },
-      {
-        question: "What is the biggest risk in acquiring an A/E firm?",
-        answer:
-          "Key person risk — licensed professionals (PEs, RAs) are the firm's core asset and revenue generator. Their departure can mean losing clients, backlog, and the ability to stamp drawings. Assess tenure, non-competes, transition willingness, and depth of licensed staff below the principal level.",
-      },
-    ],
-  },
-  {
-    slug: "consulting-firm-acquisition",
-    title: "Acquiring a Consulting Firm",
-    description:
-      "A guide to acquiring management, IT, HR, and niche consulting firms — evaluating revenue concentration, consultant utilization, methodology documentation, and growth through productization.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Consulting Firm — Search Fund Guide",
-    ogDescription:
-      "How to evaluate consulting firm acquisitions: revenue concentration, utilization rates, IP productization, and bench strength assessment.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Source Global Research", title: "US Consulting Market Report", year: 2024 },
-      { name: "Kennedy Consulting Research", title: "Global Consulting Index", year: 2024 },
-      { name: "IBISWorld", title: "Management Consulting in the US", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What type of consulting firm is best for a search fund acquisition?",
-        answer:
-          "Niche/industry-specific firms with documented methodologies, diversified consultant bases, and repeat client relationships command premium valuations (4–8x EBITDA). Avoid founder-dependent generalist practices where the principal personally generates 30%+ of revenue.",
-      },
-      {
-        question: "How do you reduce key-person risk in a consulting firm acquisition?",
-        answer:
-          "Document proprietary methodologies and frameworks so they're repeatable by any consultant. Assess bench strength below the founder. Structure earnouts and retention bonuses for key consultants. Build a sales/marketing function to generate inbound leads rather than relying on personal networks.",
-      },
-    ],
-  },
-  {
-    slug: "pool-service-acquisition",
-    title: "Acquiring a Pool Service & Maintenance Business",
-    description:
-      "How to acquire pool service businesses — route analysis, customer retention, repair upsells, and consolidation strategies for residential and commercial pool maintenance.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Pool Service & Maintenance Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate pool service acquisitions: route density, customer retention, technician workforce, and growth through tuck-in route acquisitions.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "Pool & Hot Tub Alliance", title: "US Swimming Pool and Hot Tub Market Report", year: 2024 },
-      { name: "IBISWorld", title: "Swimming Pool Maintenance in the US", year: 2024 },
-      { name: "P.K. Data", title: "US Pool Industry Statistics", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why are pool service businesses attractive for ETA?",
-        answer:
-          "Pool service offers 80–90% recurring monthly revenue with 90%+ customer retention rates. The business model is route-based with route density economics similar to waste management — more pools per route means higher margins. The market is highly fragmented with thousands of independent operators, and tuck-in route acquisitions at 10–14x monthly billing are readily available.",
-      },
-      {
-        question: "How do you grow a pool service business after acquisition?",
-        answer:
-          "The fastest growth lever is acquiring routes from retiring one-person operators at 10–14x monthly billing. Beyond that, upselling repair services to maintenance customers, pursuing commercial accounts (HOAs, hotels, apartments), implementing annual price increases, and adding renovation services for aging pools are proven strategies.",
-      },
-    ],
-  },
-  {
-    slug: "fire-protection-acquisition",
-    title: "Acquiring a Fire Protection & Safety Services Business",
-    description:
-      "A guide to acquiring fire protection businesses — alarm systems, sprinkler inspection, extinguisher service, and suppression systems. Code-mandated demand, inspection revenue, and consolidation strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Fire Protection & Safety Services Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate fire protection acquisitions: code-mandated inspections, recurring revenue, NICET certifications, and service line expansion.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "NFPA (National Fire Protection Association)", title: "Fire Protection Industry Overview", year: 2024 },
-      { name: "IBISWorld", title: "Fire Protection Services in the US", year: 2024 },
-      { name: "SDM Magazine", title: "Fire & Life Safety Market Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why is fire protection a recession-proof business?",
-        answer:
-          "Fire inspections are required by law — NFPA codes and local Authorities Having Jurisdiction (AHJs) mandate annual and semi-annual inspections for every commercial building. This creates non-discretionary, code-mandated demand that generates 50–70% recurring inspection revenue regardless of economic conditions.",
-      },
-      {
-        question: "What is the best growth strategy after acquiring a fire protection company?",
-        answer:
-          "Add service lines to capture the entire customer spend: if you're extinguisher-only, add alarm and sprinkler inspection. Improve the deficiency-to-repair conversion rate — every inspection generates repair opportunities. Add 24/7 monitoring contracts for monthly recurring revenue, and acquire inspection routes from retiring operators.",
-      },
-    ],
-  },
-  {
-    slug: "optometry-practice-acquisition",
-    title: "Acquiring an Optometry Practice",
-    description:
-      "How to acquire optometry practices — dual revenue model (healthcare + optical retail), patient metrics, insurance mix, optical capture rate, and medical eye care expansion strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Optometry Practice — Search Fund Guide",
-    ogDescription:
-      "Evaluate optometry acquisitions: exam volume, optical capture rate, insurance mix, and growth through medical eye care and satellite offices.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "American Optometric Association", title: "State of the Optometric Profession", year: 2024 },
-      { name: "Vision Monday", title: "US Optical Market Report", year: 2024 },
-      { name: "IBISWorld", title: "Optometrists in the US", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What makes optometry a compelling acquisition target?",
-        answer:
-          "Optometry offers a dual revenue model — healthcare services (eye exams, medical eye care) plus optical retail (eyeglasses, contact lenses) — with 25–35% EBITDA margins. Demand is growing due to an aging population and increasing screen time. The market is highly fragmented with 60% solo practitioners, and DSO-style consolidation is well-established.",
-      },
-      {
-        question: "What is optical capture rate and why does it matter?",
-        answer:
-          "Optical capture rate is the percentage of exam patients who buy eyeglasses or contact lenses from the practice (vs. going to a competitor or online retailer). Target 60%+. Improving capture rate through better frame selection, premium lens options, and optical staff training is one of the fastest post-acquisition growth levers.",
-      },
-    ],
-  },
-  {
-    slug: "physical-therapy-acquisition",
-    title: "Acquiring a Physical Therapy or Rehabilitation Practice",
-    description:
-      "How to acquire physical therapy practices — outpatient orthopedic, sports medicine, and specialty PT. Visit productivity, payer mix, clinician retention, and multi-clinic growth strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Physical Therapy or Rehabilitation Practice — Search Fund Guide",
-    ogDescription:
-      "Evaluate PT practice acquisitions: visits per day, revenue per visit, payer mix, clinician retention, and satellite clinic expansion.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "American Physical Therapy Association", title: "Physical Therapy Workforce Analysis", year: 2024 },
-      { name: "IBISWorld", title: "Physical Therapy Clinics in the US", year: 2024 },
-      { name: "WebPT", title: "State of Rehab Therapy Report", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "What are the key performance metrics for physical therapy practices?",
-        answer:
-          "Visits per day per PT (target 10–14), revenue per visit ($80–150 depending on payer mix), payer mix (commercial insurance pays highest), clinician utilization, and patient outcomes data. Direct access laws in most states allow patients to see PT without physician referral, expanding the addressable market.",
-      },
-      {
-        question: "What is the biggest challenge in acquiring a PT practice?",
-        answer:
-          "Clinician recruitment and retention is the #1 challenge. Physical therapists and PTAs are in high demand nationwide, and turnover directly impacts revenue capacity. Assess compensation competitiveness, practice culture, and non-compete status for all clinicians during due diligence.",
-      },
-    ],
-  },
-  {
     slug: "pharmacy-acquisition",
     title: "Acquiring a Pharmacy Business",
     description:
@@ -5395,37 +4837,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "behavioral-health-acquisition",
-    title: "Acquiring a Behavioral Health Practice",
-    description:
-      "How to acquire behavioral health practices — outpatient counseling, psychiatry, substance abuse treatment, and ABA therapy. Clinician recruitment, payer mix, telehealth, and growth strategies.",
-    readTime: "12 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Behavioral Health Practice — Search Fund Guide",
-    ogDescription:
-      "Evaluate behavioral health acquisitions: clinician utilization, payer mix, ABA therapy, telehealth expansion, and practice growth strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "SAMHSA", title: "National Survey on Drug Use and Health", year: 2024 },
-      { name: "Open Minds", title: "US Behavioral Health Market Report", year: 2024 },
-      { name: "KFF (Kaiser Family Foundation)", title: "Mental Health Care in America", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why is behavioral health one of the fastest-growing acquisition targets?",
-        answer:
-          "The $280B+ behavioral health market is growing 5–7% annually, driven by de-stigmatization, insurance parity laws, and a massive supply/demand imbalance (150M Americans in mental health shortage areas). ABA therapy for autism is insurance-mandated in all 50 states and growing 15–20% annually.",
-      },
-      {
-        question: "What is the biggest challenge in behavioral health acquisitions?",
-        answer:
-          "Clinician recruitment and retention is the #1 challenge. Therapists (LCSW, LPC) and BCBAs are in extremely high demand. Every new clinician hired means immediate revenue growth, but turnover is costly. Assess compensation, practice culture, supervision quality, and telehealth flexibility during due diligence.",
-      },
-    ],
-  },
-  {
     slug: "med-spa-acquisition",
     title: "Acquiring a Med Spa or Aesthetics Business",
     description:
@@ -5453,37 +4864,6 @@ export const allArticles: ArticleMeta[] = [
         question: "What are the margins for med spa businesses?",
         answer:
           "Injectable treatments (Botox, fillers) generate 60–75% gross margins. Overall EBITDA margins for well-run med spas are 20–35%. Revenue is 95%+ cash pay with no insurance billing. Monthly membership programs create predictable recurring revenue and increase patient lifetime value.",
-      },
-    ],
-  },
-  {
-    slug: "packaging-labeling-acquisition",
-    title: "Acquiring a Packaging & Labeling Business",
-    description:
-      "How to acquire packaging and labeling businesses — label printing, corrugated, flexible packaging, and contract packaging. Equipment assessment, customer stickiness, and sustainability growth strategies.",
-    readTime: "11 min read",
-    tag: "Industry Playbooks",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Packaging & Labeling Business — Search Fund Guide",
-    ogDescription:
-      "Evaluate packaging acquisitions: printing equipment, customer concentration, certifications, and sustainable packaging growth strategies.",
-    datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
-    sources: [
-      { name: "PMMI (Association for Packaging and Processing Technologies)", title: "State of the Packaging Industry", year: 2024 },
-      { name: "Smithers", title: "The Future of Packaging: Long-Term Strategic Forecasts", year: 2024 },
-      { name: "IBISWorld", title: "Packaging & Labeling Services in the US", year: 2024 },
-    ],
-    faqs: [
-      {
-        question: "Why are packaging businesses attractive for acquisitions?",
-        answer:
-          "Packaging offers 80%+ repeat revenue with high switching costs — custom dies, artwork, and regulatory approvals (food/pharma) make changing suppliers painful. Every physical product needs packaging, creating essential demand tied to overall economic activity. E-commerce growth and sustainability commitments drive additional demand.",
-      },
-      {
-        question: "What is the biggest growth opportunity in packaging?",
-        answer:
-          "Sustainable packaging is the fastest-growing segment as brands commit to reduced environmental impact. Digital printing technology enables short runs, versioning, and faster turnaround — upgrading from traditional flexo to digital presses can significantly expand your addressable market and attract new customers.",
       },
     ],
   },
@@ -5731,50 +5111,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "web-hosting-acquisition",
-    title: "Acquiring a Web Hosting or Domain Business",
-    description: "How to evaluate and acquire web hosting and domain businesses — recurring revenue models, churn analysis, infrastructure due diligence, and post-acquisition growth strategies.",
-    readTime: "10 min read",
-    tag: "Industry",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Web Hosting Business — SaaS Economics Without the Software",
-    ogDescription: "Web hosting businesses offer 95%+ recurring revenue with 40–70% EBITDA margins. Learn how to evaluate, acquire, and grow hosting and domain companies.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "HostingAdvice", title: "State of the Web Hosting Industry", year: 2024 },
-      { name: "Netcraft", title: "Web Hosting Market Share Survey", year: 2024 },
-      { name: "Grand View Research", title: "Web Hosting Services Market Size & Forecast", year: 2024 },
-    ],
-    faqs: [
-      { question: "Why are web hosting businesses attractive for acquisition?", answer: "Web hosting businesses offer high recurring revenue (90%+ renewal rates), predictable cash flows, low customer acquisition costs, significant operating leverage, and minimal physical infrastructure requirements. Typical EBITDA margins range from 30–50%, and customers rarely switch providers." },
-      { question: "What are the key risks of acquiring a web hosting company?", answer: "Key risks include technology obsolescence (cloud migration), customer concentration, security vulnerabilities, competition from hyperscalers (AWS, Azure, Google Cloud), domain expiration churn, and the need for 24/7 technical support. Due diligence should focus on server infrastructure age, customer retention cohorts, and technology debt." },
-      { question: "What EBITDA multiples do web hosting businesses trade at?", answer: "Small web hosting businesses ($500K–$2M revenue) typically trade at 4–7x EBITDA. Managed hosting and cloud services businesses command premium multiples (6–10x) due to higher margins and stickier customers. Domain registrar businesses can trade at even higher multiples due to extreme predictability." },
-    ],
-  },
-  {
-    slug: "marketplace-acquisition",
-    title: "Acquiring an Online Marketplace Business",
-    description: "How to evaluate and acquire online marketplace businesses — network effects, liquidity analysis, take rates, disintermediation risk, and post-acquisition growth strategies.",
-    readTime: "11 min read",
-    tag: "Industry",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Marketplace Business — Network Effects & Scalable Revenue",
-    ogDescription: "Online marketplaces offer 60–80% margins, network effects, and high switching costs. Learn how to evaluate liquidity, take rates, and growth potential in marketplace acquisitions.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "a16z", title: "Marketplace 100: The Most Valuable Marketplace Startups", year: 2024 },
-      { name: "NFX", title: "The Network Effects Manual", year: 2024 },
-      { name: "McKinsey", title: "The Rise of B2B Marketplaces", year: 2024 },
-    ],
-    faqs: [
-      { question: "What makes a marketplace business valuable for acquisition?", answer: "Marketplace businesses create network effects — more buyers attract more sellers and vice versa. Valuable attributes include high liquidity (many active participants), low take rates that discourage disintermediation, strong brand recognition, proprietary data assets, and minimal capital expenditure requirements." },
-      { question: "What are the biggest risks when acquiring a marketplace business?", answer: "Key risks include platform dependency (single-channel risk), disintermediation (buyers and sellers transacting off-platform), regulatory changes, competitive moats being weaker than perceived, and the 'chicken-and-egg' problem of maintaining both sides of the marketplace during ownership transitions." },
-      { question: "How do you value a marketplace or platform business?", answer: "Marketplace businesses are typically valued on revenue multiples (2–8x) rather than EBITDA due to their growth profiles and winner-take-most dynamics. Key metrics include GMV (Gross Merchandise Value), take rate, liquidity, cohort retention, and the ratio of organic vs paid traffic." },
-    ],
-  },
-  {
     slug: "government-contracting-acquisition",
     title: "Acquiring a Government Contracting Business",
     description: "How to acquire a government contractor — contract backlog analysis, SBA certifications, security clearances, recompete dynamics, and post-acquisition growth strategies.",
@@ -5863,94 +5199,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "service-vs-product-businesses",
-    title: "Service vs. Product Businesses: Acquisition Comparison",
-    description: "Compare service and product business models for acquisition — margins, scalability, key person risk, capital requirements, and which model suits ETA best.",
-    readTime: "11 min read",
-    tag: "Strategy",
-    category: "Getting Started",
-    ogTitle: "Service vs. Product Businesses — Which to Acquire?",
-    ogDescription: "60%+ of search fund acquisitions target service businesses. Compare margins, scalability, capital needs, and growth paths for service vs. product businesses.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "Stanford GSB", title: "Search Fund Study: Business Model Analysis", year: 2024 },
-      { name: "McKinsey", title: "Service vs. Product Business Economics", year: 2024 },
-      { name: "Harvard Business Review", title: "Productizing Professional Services", year: 2024 },
-    ],
-    faqs: [
-      { question: "Are service businesses or product businesses better for search fund acquisitions?", answer: "Service businesses are more common search fund targets because they typically require less capital, have lower inventory risk, generate higher margins on incremental revenue, and are easier to scale through hiring. Product businesses offer more defensibility through IP but require more capital and supply chain management." },
-      { question: "How do margins compare between service and product businesses?", answer: "Service businesses typically operate at 15–30% EBITDA margins with lower capital intensity. Product businesses range from 8–25% EBITDA margins but face inventory costs, manufacturing complexity, and supply chain risks. Software and digital products are the exception, often exceeding 30% EBITDA margins." },
-      { question: "What operational differences matter post-acquisition?", answer: "Service businesses depend heavily on people — hiring, retention, and culture are critical. Product businesses depend on supply chain, inventory management, and product development. Search fund CEOs should match their operational strengths to the business type: people-oriented leaders thrive in services, process-oriented leaders in products." },
-    ],
-  },
-  {
-    slug: "eta-vs-angel-investing",
-    title: "ETA vs. Angel Investing: A Comparison",
-    description: "Compare ETA and angel investing — control, returns, risk profiles, capital requirements, and time commitment to help you choose the right path.",
-    readTime: "10 min read",
-    tag: "Comparison",
-    category: "Investor Comparisons",
-    ogTitle: "ETA vs. Angel Investing — Returns, Risk & Lifestyle Comparison",
-    ogDescription: "ETA offers 2.5–4x median returns with operational control. Angel investing follows power law returns with portfolio diversification. Compare both paths.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "Stanford GSB", title: "Search Fund Study", year: 2024 },
-      { name: "Angel Capital Association", title: "Angel Investing Returns Study", year: 2024 },
-      { name: "Kauffman Foundation", title: "Angel Investor Performance Project", year: 2024 },
-    ],
-    faqs: [
-      { question: "How do search fund returns compare to angel investing?", answer: "Search fund investing has generated approximately 35% aggregate IRR with a 67% acquisition completion rate, while angel investing typically returns 20–25% IRR with higher variance and a 90%+ failure rate on individual investments. Search funds offer more predictable outcomes due to acquiring established businesses." },
-      { question: "Can you invest in both search funds and startups?", answer: "Yes, many sophisticated investors allocate capital to both asset classes. Search funds provide exposure to established cash-flowing businesses with operational improvement potential, while angel investing offers exposure to high-growth disruption. The two asset classes are largely uncorrelated, providing portfolio diversification benefits." },
-      { question: "What is the minimum investment for search funds vs angel investing?", answer: "Search fund minimum investments typically range from $25,000–$50,000 for search capital, with follow-on investments of $100,000–$500,000 at acquisition. Angel investing minimums vary widely from $5,000–$100,000. Both require accredited investor status in most jurisdictions." },
-    ],
-  },
-  {
-    slug: "eta-vs-private-credit",
-    title: "ETA vs. Private Credit: Investment Comparison",
-    description: "Compare ETA equity returns with private credit yields — risk profiles, income characteristics, involvement levels, and portfolio construction considerations.",
-    readTime: "10 min read",
-    tag: "Comparison",
-    category: "Investor Comparisons",
-    ogTitle: "ETA vs. Private Credit — Equity Returns vs. Contractual Yields",
-    ogDescription: "ETA targets 25–35% IRR with operational control. Private credit offers 8–15% predictable yields with downside protection. Compare both investment models.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "Preqin", title: "Global Private Credit Report", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Study", year: 2024 },
-      { name: "Cliffwater", title: "Direct Lending Index Performance", year: 2024 },
-    ],
-    faqs: [
-      { question: "How does search fund investing compare to private credit?", answer: "Search fund investing offers higher potential returns (35% aggregate IRR vs 8–12% for private credit) but with more risk and illiquidity. Private credit provides predictable income streams and senior security, while search fund equity is subordinate and returns depend on operational execution and exit timing." },
-      { question: "Can private credit investors participate in search fund deals?", answer: "Yes. Many search fund acquisitions include mezzanine debt or subordinated notes that appeal to private credit investors. These instruments offer 12–18% yields with equity kickers, providing a middle ground between senior debt and equity returns." },
-      { question: "What is the liquidity difference between search funds and private credit?", answer: "Private credit funds typically offer quarterly liquidity with 1–3 year lock-ups. Search fund investments are highly illiquid with 5–8 year holding periods and no secondary market. Investors should treat search fund capital as permanently allocated until exit." },
-    ],
-  },
-  {
-    slug: "eta-vs-franchise-deep",
-    title: "ETA vs. Franchise Ownership: Deep Comparison",
-    description: "In-depth comparison of ETA and franchise ownership — autonomy, economics, royalty impact, risk profiles, growth potential, and exit options.",
-    readTime: "11 min read",
-    tag: "Comparison",
-    category: "Investor Comparisons",
-    ogTitle: "ETA vs. Franchise Ownership — Autonomy, Economics & Growth",
-    ogDescription: "ETA offers full strategic freedom with no royalties. Franchise ownership provides a proven playbook but imposes 6–12% revenue royalties. Compare both paths.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "International Franchise Association", title: "Franchise Business Economic Outlook", year: 2024 },
-      { name: "FRANdata", title: "Franchise Performance Analysis", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Study", year: 2024 },
-    ],
-    faqs: [
-      { question: "Is buying a franchise better than buying an independent business through ETA?", answer: "It depends on your risk tolerance and goals. Franchises offer proven systems, brand recognition, and lower failure rates, but limit your upside and autonomy. ETA gives you full control and higher potential returns (35% IRR vs 15–20% franchise ROI) but requires more operational skill and carries more risk." },
-      { question: "How do franchise acquisition costs compare to search fund acquisitions?", answer: "Multi-unit franchise acquisitions range from $500K–$5M, similar to search fund deal sizes. However, franchise owners pay ongoing royalties (4–8% of revenue) and marketing fees (2–4%) that reduce margins compared to independent businesses. Total cost of ownership should include these recurring fees." },
-      { question: "Can you use SBA financing for both franchises and ETA acquisitions?", answer: "Yes. SBA 7(a) loans are available for both franchise purchases and independent business acquisitions. The SBA maintains a franchise directory of pre-approved brands. For independent acquisitions, the business must meet SBA size standards and the buyer must demonstrate relevant experience or training." },
-    ],
-  },
-  {
     slug: "eta-vs-independent-sponsor",
     title: "ETA vs. Independent Sponsor: Key Differences",
     description: "Compare traditional search funds and independent sponsors — fundraising structure, deal size, operator economics, governance, and when each model makes sense.",
@@ -5970,28 +5218,6 @@ export const allArticles: ArticleMeta[] = [
       { question: "What is the difference between a search fund and an independent sponsor?", answer: "A search fund raises committed capital upfront from investors who fund both the search period and the acquisition. An independent sponsor (fundless sponsor) identifies a deal first, then raises capital deal-by-deal. Search funds offer salary during search but dilute more equity; independent sponsors retain more economics but bear personal financial risk." },
       { question: "Which model is better: search fund or independent sponsor?", answer: "The best model depends on your situation. Search funds suit first-time acquirers who need salary during the search and benefit from investor mentorship. Independent sponsors suit experienced professionals with deal flow, industry expertise, and personal financial runway. Both can generate excellent returns for operators and investors." },
       { question: "What are the economics of an independent sponsor vs a search fund?", answer: "Independent sponsors typically retain 20–30% equity (vs 20–25% for search fund entrepreneurs after step-up dilution) and may negotiate management fees and promote structures similar to PE. However, they have no guaranteed salary during the search and must fund their own search costs." },
-    ],
-  },
-  {
-    slug: "eta-vs-lower-middle-market-pe",
-    title: "ETA vs. Lower Middle-Market Private Equity",
-    description: "Compare ETA and lower middle-market PE — fund structure, deal size, operator model, return profiles, and career paths for aspiring acquirers and investors.",
-    readTime: "11 min read",
-    tag: "Comparison",
-    category: "Investor Comparisons",
-    ogTitle: "ETA vs. Lower Middle-Market PE — Structure, Returns & Career Paths",
-    ogDescription: "ETA and LMMPE both target profitable SMEs but differ in fund structure, operator involvement, and economics. Compare both models for acquirers and investors.",
-    datePublished: "2025-06-20",
-    dateModified: "2025-06-20",
-    sources: [
-      { name: "Stanford GSB", title: "Search Fund Study", year: 2024 },
-      { name: "Pitchbook", title: "Lower Middle Market PE Report", year: 2024 },
-      { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
-    ],
-    faqs: [
-      { question: "How do search funds differ from lower middle market PE firms?", answer: "Search funds target smaller deals ($1–20M enterprise value vs $20–200M for lower middle market PE), involve a single operator-CEO rather than a management team, use less leverage, hold for longer periods (5–8 years vs 3–5 years), and the searcher becomes the full-time CEO rather than overseeing from a board seat." },
-      { question: "Do search funds compete with PE firms for deals?", answer: "Occasionally, but most search fund deals are too small for PE firms. Search funds typically acquire businesses with $1–5M EBITDA, while lower middle market PE targets $5–20M+ EBITDA. The overlap zone ($3–7M EBITDA) can be competitive, but search funds often win on seller rapport and operator commitment." },
-      { question: "Can a search fund CEO later transition to PE?", answer: "Yes. Many successful search fund operators leverage their experience to move into PE roles, start their own PE firms, or become independent sponsors for larger deals. The hands-on operational experience gained in search funds is highly valued by PE firms focused on value creation." },
     ],
   },
   {
@@ -8448,29 +7674,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "eta-latin-america",
-    title: "ETA in Latin America: Overview & Opportunity",
-    description:
-      "Brazil, Mexico, Colombia, and Chile — SME base, deal multiples, financing options, regulatory challenges, and the growing LATAM ETA ecosystem.",
-    readTime: "14 min read",
-    tag: "Guide",
-    category: "Regional Guides",
-    ogTitle: "ETA in Latin America: Overview & Opportunity",
-    ogDescription:
-      "3–5x EBITDA multiples, 6M+ SMEs in Brazil alone, BNDES financing, growing MBA ecosystems. Why Latin America is the next frontier for search funds.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "LAVCA", title: "Latin American Private Equity Report", year: 2024 },
-      { name: "BNDES", title: "SME Lending Programs", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-    ],
-    faqs: [
-      { question: "What EBITDA multiples do businesses trade at in Latin America?", answer: "Quality SMEs in Latin America typically trade at 3–5x EBITDA, compared to 5–7x in the US. The discount reflects country risk, currency risk, and less developed exit markets. Brazil and Mexico have the most deal activity, while Chile offers the most business-friendly environment." },
-      { question: "What financing is available for acquisitions in Latin America?", answer: "BNDES (Brazil), NAFIN/Bancomext (Mexico), and Bancoldex (Colombia) provide development bank financing. Local bank debt is available at 10–18% rates. Seller financing (20–40% notes) is critical due to limited bank acquisition lending. US and European search fund investors increasingly provide dollar-denominated equity." },
-    ],
-  },
-  {
     slug: "ebitda-multiples-by-country",
     title: "EBITDA Multiples by Country: Where Are Businesses Cheapest?",
     description:
@@ -9227,182 +8430,6 @@ export const allArticles: ArticleMeta[] = [
     ],
   },
   {
-    slug: "acquiring-distribution-company",
-    title: "Acquiring a Distribution or Wholesale Business",
-    description:
-      "Distribution valuation (4–8x EBITDA), supplier analysis, inventory management, gross margin trends, and post-acquisition growth through e-commerce and product line expansion.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Distribution or Wholesale Business: ETA Playbook",
-    ogDescription:
-      "$6T+ US wholesale trade, 400,000+ businesses, sticky relationships. Valuation, inventory due diligence, and e-commerce growth strategies for distribution acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "NAW", title: "National Association of Wholesaler-Distributors", year: 2024 },
-      { name: "MDM", title: "Modern Distribution Management Analytics", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a distribution company worth?", answer: "General distributors sell for 4–6x EBITDA. Specialty/value-added distributors command 5–8x due to technical expertise and customer stickiness. Premium factors: exclusive supplier agreements, proprietary product lines, e-commerce capability, and diversified customer base." },
-      { question: "Is distribution a good business to acquire?", answer: "Distribution offers sticky customer relationships (switching is disruptive), essential middle-layer economics, massive fragmentation (400,000+ businesses), and proven roll-up dynamics. The main challenge is working capital intensity — inventory is the key asset, and cash conversion cycles require careful management." },
-    ],
-  },
-  {
-    slug: "acquiring-plumbing-business",
-    title: "Acquiring a Plumbing Business: The ETA Playbook",
-    description:
-      "Plumbing company valuation (3–5.5x EBITDA), service agreement analysis, technician metrics, and post-acquisition growth through maintenance contracts and buy-and-build.",
-    readTime: "12 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Plumbing Business: ETA Playbook",
-    ogDescription:
-      "$130B+ US plumbing industry, essential service demand, 20–35% recurring revenue. Valuation, due diligence, and growth strategies for plumbing business acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "PHCC", title: "Plumbing-Heating-Cooling Contractors Association Data", year: 2024 },
-      { name: "ServiceTitan", title: "Home Services Industry Benchmarks", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a plumbing business worth?", answer: "Small operators (<$2M revenue) trade at 2–3.5x SDE. Mid-size companies ($2–10M revenue) sell for 3.5–5.5x EBITDA. Platform companies ($10M+) command 5–7x. Premium factors: service agreement base, commercial/residential mix, and low technician turnover." },
-      { question: "Why is plumbing a good acquisition target?", answer: "Plumbing offers essential-service demand (emergencies can't wait), recurring revenue from maintenance contracts (20–35%), extreme fragmentation, aging owner demographics, and proven buy-and-build economics similar to the HVAC model." },
-    ],
-  },
-  {
-    slug: "acquiring-landscaping-business",
-    title: "Acquiring a Landscaping & Lawn Care Business",
-    description:
-      "Landscaping valuation (3–5x EBITDA), contract renewal analysis, crew productivity metrics, seasonal patterns, and roll-up growth strategies.",
-    readTime: "12 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Landscaping Business: ETA Playbook",
-    ogDescription:
-      "$130B+ US landscaping, 600,000+ businesses, 60–80% recurring revenue from maintenance contracts. Valuation, seasonality, and roll-up strategies.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "NALP", title: "National Association of Landscape Professionals Data", year: 2024 },
-      { name: "IBISWorld", title: "Landscaping Services Industry Report", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a landscaping company worth?", answer: "Small operators (<$1M revenue) sell for 2–3x SDE. Mid-size companies ($2–10M) sell for 3–5x EBITDA. Premium factors: high contract renewal rate (>85%), commercial clients (HOAs, property managers), multi-service capabilities, and year-round revenue." },
-      { question: "Is landscaping a good business to buy?", answer: "Landscaping offers 60–80% recurring revenue from maintenance contracts, extreme fragmentation (600,000+ businesses), simple operations, proven roll-up economics (BrightView model), and low capital intensity compared to construction or manufacturing." },
-    ],
-  },
-  {
-    slug: "acquiring-insurance-brokerage",
-    title: "Acquiring an Insurance Brokerage: The ETA Playbook",
-    description:
-      "Insurance brokerage valuation (6–12x EBITDA / 1.5–3x revenue), book of business analysis, producer dependence, carrier relationships, and PE-exit strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Insurance Brokerage: ETA Playbook",
-    ogDescription:
-      "85–95% revenue renewal, 25–40% EBITDA margins, 38,000+ independent agencies. Valuation, due diligence, and roll-up strategies for insurance brokerage acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "IIABA", title: "Independent Insurance Agents & Brokers Market Data", year: 2024 },
-      { name: "MarshBerry", title: "Insurance Distribution M&A Outlook", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is an insurance agency worth?", answer: "Small agencies sell for 1.5–2.5x annual revenue (6–10x EBITDA). Mid-size agencies command 2–3x revenue (8–12x EBITDA). Multiples are higher than most industries because of exceptional recurring revenue (85–95% renewal) and 25–40% EBITDA margins. Commercial P&C focus commands the highest premiums." },
-      { question: "Why do PE firms buy insurance brokerages?", answer: "PE firms love insurance brokerages for three reasons: (1) recurring revenue with 85–95% retention, (2) proven roll-up economics — acquire at 6–10x and sell the platform at 12–15x, (3) asset-light model with high margins. This PE interest creates excellent exit optionality for ETA acquirers." },
-    ],
-  },
-  {
-    slug: "acquiring-accounting-firm",
-    title: "Acquiring an Accounting or Bookkeeping Firm",
-    description:
-      "Accounting firm valuation (1–1.5x revenue / 4–8x EBITDA), client retention analysis, staff assessment, cloud migration, and advisory service upsell strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Accounting Firm: CPA Practice Acquisition Guide",
-    ogDescription:
-      "95%+ client retention, 75% of CPAs retiring by 2030, $150B+ market. Valuation, due diligence, and growth strategies for accounting and bookkeeping firm acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "AICPA", title: "CPA Firm Succession Planning Data", year: 2024 },
-      { name: "Accounting Today", title: "Top 100 Firms Report", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is an accounting firm worth?", answer: "Accounting firms typically sell for 1–1.5x annual revenue (or 4–8x EBITDA). Tax-only practices sell for 0.8–1.2x revenue. Full-service firms with monthly bookkeeping and advisory services sell for 1.2–1.5x. Premium factors: cloud-based systems, advisory revenue mix, and staff depth (not owner-dependent)." },
-      { question: "Is buying an accounting firm a good investment?", answer: "Accounting firms offer among the best recurring revenue in professional services (95%+ client retention), a massive succession wave (75% of CPAs retiring by 2030), built-in pricing power (3–8% annual increases), and low capital requirements. The main risk is staff retention — experienced accountants are in high demand." },
-    ],
-  },
-  {
-    slug: "acquiring-logistics-company",
-    title: "Acquiring a Logistics & Transportation Company",
-    description:
-      "Trucking, freight brokerage, 3PL, and last-mile delivery — valuation, fleet assessment, driver metrics, safety records, and post-acquisition growth strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Logistics & Transportation Company: ETA Playbook",
-    ogDescription:
-      "$900B+ US logistics, 90% of carriers have <6 trucks. Valuation, fleet due diligence, driver retention, and buy-and-build strategies for transportation acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "ATA", title: "American Trucking Trends", year: 2024 },
-      { name: "FreightWaves", title: "Trucking Industry Data", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a trucking company worth?", answer: "Asset-based carriers sell for 3–5x EBITDA plus net asset value. Freight brokerages (asset-light) command 5–8x EBITDA. 3PL/warehousing businesses sell for 5–7x. Premium factors: dedicated/contract freight, diversified customers, modern fleet, and strong driver retention." },
-      { question: "Is logistics a good industry for search fund acquisitions?", answer: "Logistics offers strong cash flow and extreme fragmentation (90% of carriers have <6 trucks). However, it's asset-heavy (trucks cost $150K+), has high driver turnover (industry average ~90%), and requires managing complex regulatory compliance (DOT, FMCSA). Best targets: specialty hauling and freight brokerage." },
-    ],
-  },
-  {
-    slug: "acquiring-construction-company",
-    title: "Acquiring a Construction Company: The ETA Playbook",
-    description:
-      "Specialty contractors, general contractors, and infrastructure — valuation, backlog analysis, bonding, safety records, and workforce development strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Construction Company: ETA Playbook",
-    ogDescription:
-      "$2T+ US construction, 3M+ businesses, most with aging owners. Valuation, bonding, WIP accounting, and post-acquisition strategies for construction acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "ABC", title: "Associated Builders & Contractors Market Data", year: 2024 },
-      { name: "Census Bureau", title: "Construction Spending Report", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a construction company worth?", answer: "Specialty contractors sell for 3–6x EBITDA (higher with service/maintenance revenue). General contractors sell for 2–4x EBITDA (lower margins). Infrastructure/government contractors sell for 3–5x EBITDA. Bonding capacity, backlog quality, and workforce retention are the key premium factors." },
-      { question: "What type of construction company is best to acquire?", answer: "Specialty contractors (HVAC, electrical, plumbing, fire protection) with service/maintenance components are the best targets for ETA. They offer higher margins (15–25% EBITDA), more recurring revenue, and stronger roll-up economics than general contractors." },
-    ],
-  },
-  {
-    slug: "acquiring-waste-management",
-    title: "Acquiring a Waste Management & Recycling Business",
-    description:
-      "Waste collection, transfer stations, recycling — valuation, route density economics, fleet assessment, environmental due diligence, and tuck-in acquisition strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Waste Management Business: ETA Playbook",
-    ogDescription:
-      "90%+ recurring revenue, recession-resistant, route density economics. Valuation, environmental DD, and tuck-in acquisition strategies for waste management businesses.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "EREF", title: "Environmental Research & Education Foundation Data", year: 2024 },
-      { name: "Waste360", title: "Waste Industry Market Report", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a waste management company worth?", answer: "Collection companies sell for 5–8x EBITDA. Transfer stations and landfills command 8–12x+ (scarce assets, high barriers). Recycling businesses sell for 3–5x due to commodity price exposure. Premium factors: municipal franchise agreements, route density, and owned disposal assets." },
-      { question: "Why is waste management a good acquisition target?", answer: "Waste management offers 90%+ recurring revenue from monthly collection contracts, recession-resistance (waste doesn't stop in a downturn), route density economics (each new customer on an existing route is nearly 100% margin), and proven roll-up dynamics through tuck-in acquisitions." },
-    ],
-  },
-  {
     slug: "acquiring-msp-business",
     title: "Acquiring a Managed Service Provider (MSP): The ETA Playbook",
     description:
@@ -9470,94 +8497,6 @@ export const allArticles: ArticleMeta[] = [
   },
 
   {
-    slug: "acquiring-veterinary-practice",
-    title: "Acquiring a Veterinary Practice: The ETA Playbook",
-    description:
-      "Veterinary practice valuation (5–8x EBITDA), CVO roll-up model, associate retention, wellness plan revenue, and multi-location growth strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Veterinary Practice: CVO Model & ETA Playbook",
-    ogDescription:
-      "$60B+ US vet industry, 33,000+ practices, 70% household pet ownership. Valuation, clinical due diligence, and multi-location roll-up strategies for veterinary acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "AVMA", title: "Veterinary Practice Ownership Data", year: 2024 },
-      { name: "APPA", title: "National Pet Owners Survey", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a veterinary practice worth?", answer: "Single veterinary practices sell for 5–8x EBITDA (or 70–100% of annual revenue). Multi-location CVO platforms command 10–15x+ EBITDA. Premium factors: multiple veterinarians, emergency/specialty services, modern equipment, and strong associate retention." },
-      { question: "Can a non-veterinarian buy a vet practice?", answer: "Most US states allow non-veterinarian ownership of veterinary practices, unlike dental (which restricts non-dentist ownership). This makes vet acquisitions more accessible for ETA entrepreneurs. However, you need a licensed veterinarian as medical director for clinical decisions." },
-    ],
-  },
-  {
-    slug: "acquiring-it-services-firm",
-    title: "Acquiring an IT Services & Consulting Firm",
-    description:
-      "IT consulting valuation (3–10x EBITDA by sub-sector), utilization metrics, revenue quality analysis, key person risk, and post-acquisition recurring revenue strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an IT Services & Consulting Firm: ETA Playbook",
-    ogDescription:
-      "$600B+ US IT services industry. Valuation by sub-sector (MSP, consulting, cybersecurity), utilization metrics, and strategies for converting project revenue to recurring.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "CompTIA", title: "IT Industry Outlook", year: 2024 },
-      { name: "Gartner", title: "IT Services Market Forecast", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is an IT services company worth?", answer: "Project-based IT consulting firms sell for 3–5x EBITDA. Recurring/managed services firms sell for 5–8x EBITDA. Cybersecurity services command 6–10x due to premium demand and high growth. Key premium factors: >50% recurring revenue, vendor partnerships, and specialized expertise." },
-      { question: "What IT services sub-sector is best for ETA?", answer: "Managed IT services (MSPs) and cybersecurity services are the top targets. MSPs offer 70–90% recurring revenue with 5–10% annual churn. Cybersecurity services have the highest growth and premium valuations. Avoid pure project-based consulting — revenue is unpredictable and key-person dependent." },
-    ],
-  },
-  {
-    slug: "acquiring-restaurant-business",
-    title: "Acquiring a Restaurant or Food Service Business",
-    description:
-      "Restaurant sub-sectors (QSR, fast-casual, catering), valuation (1.5–5x EBITDA), lease analysis, unit economics, menu engineering, and multi-unit expansion strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Restaurant Business: Food Service Acquisition Guide",
-    ogDescription:
-      "$1T+ US restaurant industry — sub-sectors, valuation, lease due diligence, food & labor cost benchmarks, and post-acquisition growth strategies for restaurant acquisitions.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "NRA", title: "National Restaurant Association Industry Report", year: 2024 },
-      { name: "Toast", title: "Restaurant Industry Benchmarks", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a restaurant worth?", answer: "Independent restaurants sell for 1.5–3x SDE or 2–4x EBITDA. Multi-unit operations with management teams command 3–5x EBITDA. Franchise units sell for 2–4x EBITDA. Premium factors: strong location, growing revenue, management team in place, catering revenue, and established brand." },
-      { question: "Are restaurants good search fund acquisitions?", answer: "Restaurants are high-risk for ETA due to thin margins (3–9% net), lease dependence, high labor turnover (70%+ annually), and food cost volatility. Multi-unit QSR or fast-casual with management teams are the best targets — they offer systemized operations and scale economics." },
-    ],
-  },
-  {
-    slug: "acquiring-franchise-business",
-    title: "Acquiring a Franchise Business (Multi-Unit)",
-    description:
-      "Multi-unit franchise acquisition — franchisor approval, territory rights, unit economics (AUV analysis), development agreements, and post-acquisition expansion strategies.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring a Multi-Unit Franchise Business: ETA Playbook",
-    ogDescription:
-      "Multi-unit franchise acquisitions: franchisor approval, FDD analysis, unit economics, development rights, and expansion strategies for ETA entrepreneurs buying franchise portfolios.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "IFA", title: "Franchise Business Economic Outlook", year: 2024 },
-      { name: "FRANdata", title: "Franchise Performance Data", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is a multi-unit franchise worth?", answer: "Single franchise units sell for 2–4x EBITDA. Multi-unit portfolios (5+ units) command 3–6x EBITDA due to the management team premium. Premium brands with strong unit economics trade at higher multiples. Key factors: AUV vs. brand average, remaining franchise term, development rights, and location quality." },
-      { question: "What are the risks of acquiring a franchise?", answer: "Key risks: franchisor must approve the transfer (and can reject you), royalty and marketing fees reduce margins (typically 6–12% of revenue combined), limited menu/pricing control, mandatory remodel obligations, and franchise agreement expiration risk. The upside is a proven system with brand recognition." },
-    ],
-  },
-  {
     slug: "industry-selection-framework",
     title: "Industry Selection Framework: Picking Your Vertical",
     description:
@@ -9600,28 +8539,6 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "How much is a digital marketing agency worth?", answer: "Most digital marketing agencies sell for 3–6x EBITDA or 0.6–1.2x revenue. Premium factors include vertical specialization (+1x), 80%+ recurring retainer revenue (+1x), strong management team, and proven growth. Founder-dependent agencies with project-based revenue trade at significant discounts." },
       { question: "What should I look for when buying a digital marketing agency?", answer: "Focus on: retainer revenue mix (target 70%+), client retention rate (85%+ annually), no client above 15% of revenue, revenue per employee ($120K–$200K+), employee tenure and flight risk, and whether the founder is the primary client relationship. Earn-outs of 20–30% tied to client retention are common." },
-    ],
-  },
-  {
-    slug: "acquiring-electrical-business",
-    title: "Acquiring an Electrical Contracting Business",
-    description:
-      "Electrical contractor acquisition guide: licensing moats, service vs. construction revenue, workforce assessment, valuation (3–5x EBITDA), and post-acquisition growth playbook.",
-    readTime: "14 min read",
-    tag: "Playbook",
-    category: "Industry Playbooks",
-    ogTitle: "Acquiring an Electrical Contracting Business: The ETA Playbook",
-    ogDescription:
-      "90,000+ contractors, licensing moats, essential service demand. How to evaluate, value, and grow an electrical contracting business acquisition.",
-    datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
-    sources: [
-      { name: "IBISWorld", title: "Electrical Contractors Industry Report", year: 2024 },
-      { name: "BLS", title: "Occupational Outlook: Electricians", year: 2024 },
-    ],
-    faqs: [
-      { question: "How much is an electrical contracting business worth?", answer: "Most electrical contractors sell for 3–5x EBITDA. Premium factors include high service/maintenance revenue mix (+1x), licensed employees beyond the owner (+0.5x), established brand, and low customer concentration. The biggest discount factor is when the owner holds the only master electrician license (-1–2x)." },
-      { question: "What should I look for when buying an electrical contractor?", answer: "Critical factors: license transferability (who holds the master electrician license?), service vs. construction revenue mix, workforce quality and tenure, insurance/bonding status, safety record (EMR), fleet condition, and customer concentration. For residential service contractors, also assess service agreement penetration and recurring revenue potential." },
     ],
   },
 
@@ -10956,7 +9873,6 @@ import SPAKeyClausesArticle from "./spa-key-clauses";
 import APAGuideArticle from "./apa-guide";
 import CapitalGainsTaxByCountryArticle from "./capital-gains-tax-by-country";
 import CrossBorderAcquisitionsArticle from "./cross-border-acquisitions";
-import ETALatinAmericaArticle from "./eta-latin-america";
 import EBITDAMultiplesByCountryArticle from "./ebitda-multiples-by-country";
 import GovernmentFinancingProgramsGlobalArticle from "./government-financing-programs-global";
 import SuccessionCrisisByCountryArticle from "./succession-crisis-by-country";
@@ -10972,20 +9888,8 @@ import SuccessionPlanningOwnersArticle from "./succession-planning-owners";
 import AcquiringMSPBusinessArticle from "./acquiring-msp-business";
 import AcquiringDentalPracticeArticle from "./acquiring-dental-practice";
 import AcquiringStaffingAgencyArticle from "./acquiring-staffing-agency";
-import AcquiringLogisticsCompanyArticle from "./acquiring-logistics-company";
-import AcquiringConstructionCompanyArticle from "./acquiring-construction-company";
-import AcquiringWasteManagementArticle from "./acquiring-waste-management";
 import ETAVsFranchiseComparisonArticle from "./eta-vs-franchise-comparison";
 import LPGuideSearchFundDDArticle from "./lp-guide-search-fund-dd";
-import AcquiringDistributionCompanyArticle from "./acquiring-distribution-company";
-import AcquiringPlumbingBusinessArticle from "./acquiring-plumbing-business";
-import AcquiringLandscapingBusinessArticle from "./acquiring-landscaping-business";
-import AcquiringInsuranceBrokerageArticle from "./acquiring-insurance-brokerage";
-import AcquiringAccountingFirmArticle from "./acquiring-accounting-firm";
-import AcquiringVeterinaryPracticeArticle from "./acquiring-veterinary-practice";
-import AcquiringITServicesFirmArticle from "./acquiring-it-services-firm";
-import AcquiringRestaurantBusinessArticle from "./acquiring-restaurant-business";
-import AcquiringFranchiseBusinessArticle from "./acquiring-franchise-business";
 import IndustrySelectionFrameworkArticle from "./industry-selection-framework";
 import GoodAcquisitionTargetArticle from "./good-acquisition-target";
 import LeveragedBuyoutSMEArticle from "./leveraged-buyout-sme";
@@ -10995,7 +9899,6 @@ import PledgeFundModelArticle from "./pledge-fund-model";
 import ETAPortugalArticle from "./eta-portugal";
 import ETAAustraliaArticle from "./eta-australia";
 import AcquiringDigitalMarketingAgencyArticle from "./acquiring-digital-marketing-agency";
-import AcquiringElectricalBusinessArticle from "./acquiring-electrical-business";
 import SearchFundAcceleratorsArticle from "./search-fund-accelerators";
 import SearchFundTermSheetArticle from "./search-fund-term-sheet";
 import DayOneAnnouncementArticle from "./day-one-announcement";
@@ -11144,10 +10047,8 @@ import ProcessImprovementArticle from "./process-improvement";
 import SalesTeamDevelopmentArticle from "./sales-team-development";
 import MarketingStrategyPostAcquisitionArticle from "./marketing-strategy-post-acquisition";
 import GeographicExpansionArticle from "./geographic-expansion";
-import ProductLineExtensionArticle from "./product-line-extension";
 import CrossSellingUpsellingArticle from "./cross-selling-upselling";
 import StrategicPartnershipsArticle from "./strategic-partnerships";
-import OrganicVsAcquisitiveGrowthArticle from "./organic-vs-acquisitive-growth";
 import PreparingCompanyExitArticle from "./preparing-company-exit";
 import DividendRecapitalizationArticle from "./dividend-recapitalization";
 import SecondarySalesArticle from "./secondary-sales";
@@ -11159,46 +10060,28 @@ import InvestorUpdateTemplatesArticle from "./investor-update-templates";
 import InvestmentBankerExitArticle from "./investment-banker-exit";
 import GovernmentAcquisitionFinancingArticle from "./government-acquisition-financing";
 import TaxFriendliestCountriesArticle from "./tax-friendliest-countries";
-import DentalPracticeAcquisitionArticle from "./dental-practice-acquisition";
 import VeterinaryPracticeAcquisitionArticle from "./veterinary-practice-acquisition";
-import HVACAcquisitionArticle from "./hvac-acquisition";
 import PlumbingAcquisitionArticle from "./plumbing-acquisition";
 import LandscapingAcquisitionArticle from "./landscaping-acquisition";
 import ITServicesAcquisitionArticle from "./it-services-acquisition";
 import VerticalSaaSAcquisitionArticle from "./vertical-saas-acquisition";
 import AmazonFBAAcquisitionArticle from "./amazon-fba-acquisition";
-import StaffingAgencyAcquisitionArticle from "./staffing-agency-acquisition";
 import PropertyManagementAcquisitionArticle from "./property-management-acquisition";
-import DigitalMarketingAgencyAcquisitionArticle from "./digital-marketing-agency-acquisition";
 import LogisticsTransportationAcquisitionArticle from "./logistics-transportation-acquisition";
 import ConstructionAcquisitionArticle from "./construction-acquisition";
 import WasteManagementAcquisitionArticle from "./waste-management-acquisition";
 import DistributionWholesaleAcquisitionArticle from "./distribution-wholesale-acquisition";
-import FoodBeverageManufacturingAcquisitionArticle from "./food-beverage-manufacturing-acquisition";
-import MetalFabricationAcquisitionArticle from "./metal-fabrication-acquisition";
-import EnergyServicesAcquisitionArticle from "./energy-services-acquisition";
 import RestaurantAcquisitionArticle from "./restaurant-acquisition";
 import FranchiseAcquisitionArticle from "./franchise-acquisition";
 import RetailAcquisitionArticle from "./retail-acquisition";
 import LaundromatAcquisitionArticle from "./laundromat-acquisition";
 import HotelHospitalityAcquisitionArticle from "./hotel-hospitality-acquisition";
-import MediaPublishingAcquisitionArticle from "./media-publishing-acquisition";
-import PetServicesAcquisitionArticle from "./pet-services-acquisition";
 import StorageSelfStorageAcquisitionArticle from "./storage-self-storage-acquisition";
 import RecurringRevenueBusinessesArticle from "./recurring-revenue-businesses";
 import AssetLightVsAssetHeavyArticle from "./asset-light-vs-asset-heavy";
 import LawFirmAcquisitionArticle from "./law-firm-acquisition";
-import WealthManagementAcquisitionArticle from "./wealth-management-acquisition";
-import EngineeringArchitectureAcquisitionArticle from "./engineering-architecture-acquisition";
-import ConsultingFirmAcquisitionArticle from "./consulting-firm-acquisition";
-import PoolServiceAcquisitionArticle from "./pool-service-acquisition";
-import FireProtectionAcquisitionArticle from "./fire-protection-acquisition";
-import OptometryPracticeAcquisitionArticle from "./optometry-practice-acquisition";
-import PhysicalTherapyAcquisitionArticle from "./physical-therapy-acquisition";
 import PharmacyAcquisitionArticle from "./pharmacy-acquisition";
-import BehavioralHealthAcquisitionArticle from "./behavioral-health-acquisition";
 import MedSpaAcquisitionArticle from "./med-spa-acquisition";
-import PackagingLabelingAcquisitionArticle from "./packaging-labeling-acquisition";
 import ETACzechRepublicSlovakiaArticle from "./eta-czech-republic-slovakia";
 import ETAGreeceArticle from "./eta-greece";
 import ETABalticsArticle from "./eta-baltics";
@@ -11208,18 +10091,11 @@ import ETASouthKoreaArticle from "./eta-south-korea";
 import ETAChinaArticle from "./eta-china";
 import SearchFundInvestorEcosystemsArticle from "./search-fund-investor-ecosystems";
 import LanguageCulturalConsiderationsArticle from "./language-cultural-considerations";
-import WebHostingAcquisitionArticle from "./web-hosting-acquisition";
-import MarketplaceAcquisitionArticle from "./marketplace-acquisition";
 import GovernmentContractingAcquisitionArticle from "./government-contracting-acquisition";
 import RegulatedIndustriesArticle from "./regulated-industries";
 import SeasonalBusinessesArticle from "./seasonal-businesses";
 import B2BVsB2CAcquisitionsArticle from "./b2b-vs-b2c-acquisitions";
-import ServiceVsProductBusinessesArticle from "./service-vs-product-businesses";
-import ETAVsAngelInvestingArticle from "./eta-vs-angel-investing";
-import ETAVsPrivateCreditArticle from "./eta-vs-private-credit";
-import ETAVsFranchiseDeepArticle from "./eta-vs-franchise-deep";
 import ETAVsIndependentSponsorArticle from "./eta-vs-independent-sponsor";
-import ETAVsLowerMiddleMarketPEArticle from "./eta-vs-lower-middle-market-pe";
 import ETAVsHoldingCompanyArticle from "./eta-vs-holding-company";
 import EvaluateSearcherArticle from "./evaluate-searcher";
 import PortfolioConstructionSearchFundArticle from "./portfolio-construction-search-fund";
@@ -11403,7 +10279,6 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "apa-guide": APAGuideArticle,
   "capital-gains-tax-by-country": CapitalGainsTaxByCountryArticle,
   "cross-border-acquisitions": CrossBorderAcquisitionsArticle,
-  "eta-latin-america": ETALatinAmericaArticle,
   "ebitda-multiples-by-country": EBITDAMultiplesByCountryArticle,
   "government-financing-programs-global": GovernmentFinancingProgramsGlobalArticle,
   "succession-crisis-by-country": SuccessionCrisisByCountryArticle,
@@ -11419,20 +10294,8 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "acquiring-msp-business": AcquiringMSPBusinessArticle,
   "acquiring-dental-practice": AcquiringDentalPracticeArticle,
   "acquiring-staffing-agency": AcquiringStaffingAgencyArticle,
-  "acquiring-logistics-company": AcquiringLogisticsCompanyArticle,
-  "acquiring-construction-company": AcquiringConstructionCompanyArticle,
-  "acquiring-waste-management": AcquiringWasteManagementArticle,
   "eta-vs-franchise-comparison": ETAVsFranchiseComparisonArticle,
   "lp-guide-search-fund-dd": LPGuideSearchFundDDArticle,
-  "acquiring-distribution-company": AcquiringDistributionCompanyArticle,
-  "acquiring-plumbing-business": AcquiringPlumbingBusinessArticle,
-  "acquiring-landscaping-business": AcquiringLandscapingBusinessArticle,
-  "acquiring-insurance-brokerage": AcquiringInsuranceBrokerageArticle,
-  "acquiring-accounting-firm": AcquiringAccountingFirmArticle,
-  "acquiring-veterinary-practice": AcquiringVeterinaryPracticeArticle,
-  "acquiring-it-services-firm": AcquiringITServicesFirmArticle,
-  "acquiring-restaurant-business": AcquiringRestaurantBusinessArticle,
-  "acquiring-franchise-business": AcquiringFranchiseBusinessArticle,
   "industry-selection-framework": IndustrySelectionFrameworkArticle,
   "good-acquisition-target": GoodAcquisitionTargetArticle,
   "leveraged-buyout-sme": LeveragedBuyoutSMEArticle,
@@ -11442,7 +10305,6 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "eta-portugal": ETAPortugalArticle,
   "eta-australia": ETAAustraliaArticle,
   "acquiring-digital-marketing-agency": AcquiringDigitalMarketingAgencyArticle,
-  "acquiring-electrical-business": AcquiringElectricalBusinessArticle,
   "search-fund-accelerators": SearchFundAcceleratorsArticle,
   "search-fund-term-sheet": SearchFundTermSheetArticle,
   "day-one-announcement": DayOneAnnouncementArticle,
@@ -11591,10 +10453,8 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "sales-team-development": SalesTeamDevelopmentArticle,
   "marketing-strategy-post-acquisition": MarketingStrategyPostAcquisitionArticle,
   "geographic-expansion": GeographicExpansionArticle,
-  "product-line-extension": ProductLineExtensionArticle,
   "cross-selling-upselling": CrossSellingUpsellingArticle,
   "strategic-partnerships": StrategicPartnershipsArticle,
-  "organic-vs-acquisitive-growth": OrganicVsAcquisitiveGrowthArticle,
   "preparing-company-exit": PreparingCompanyExitArticle,
   "dividend-recapitalization": DividendRecapitalizationArticle,
   "secondary-sales": SecondarySalesArticle,
@@ -11606,46 +10466,28 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "investment-banker-exit": InvestmentBankerExitArticle,
   "government-acquisition-financing": GovernmentAcquisitionFinancingArticle,
   "tax-friendliest-countries": TaxFriendliestCountriesArticle,
-  "dental-practice-acquisition": DentalPracticeAcquisitionArticle,
   "veterinary-practice-acquisition": VeterinaryPracticeAcquisitionArticle,
-  "hvac-acquisition": HVACAcquisitionArticle,
   "plumbing-acquisition": PlumbingAcquisitionArticle,
   "landscaping-acquisition": LandscapingAcquisitionArticle,
   "it-services-acquisition": ITServicesAcquisitionArticle,
   "vertical-saas-acquisition": VerticalSaaSAcquisitionArticle,
   "amazon-fba-acquisition": AmazonFBAAcquisitionArticle,
-  "staffing-agency-acquisition": StaffingAgencyAcquisitionArticle,
   "property-management-acquisition": PropertyManagementAcquisitionArticle,
-  "digital-marketing-agency-acquisition": DigitalMarketingAgencyAcquisitionArticle,
   "logistics-transportation-acquisition": LogisticsTransportationAcquisitionArticle,
   "construction-acquisition": ConstructionAcquisitionArticle,
   "waste-management-acquisition": WasteManagementAcquisitionArticle,
   "distribution-wholesale-acquisition": DistributionWholesaleAcquisitionArticle,
-  "food-beverage-manufacturing-acquisition": FoodBeverageManufacturingAcquisitionArticle,
-  "metal-fabrication-acquisition": MetalFabricationAcquisitionArticle,
-  "energy-services-acquisition": EnergyServicesAcquisitionArticle,
   "restaurant-acquisition": RestaurantAcquisitionArticle,
   "franchise-acquisition": FranchiseAcquisitionArticle,
   "retail-acquisition": RetailAcquisitionArticle,
   "laundromat-acquisition": LaundromatAcquisitionArticle,
   "hotel-hospitality-acquisition": HotelHospitalityAcquisitionArticle,
-  "media-publishing-acquisition": MediaPublishingAcquisitionArticle,
-  "pet-services-acquisition": PetServicesAcquisitionArticle,
   "storage-self-storage-acquisition": StorageSelfStorageAcquisitionArticle,
   "recurring-revenue-businesses": RecurringRevenueBusinessesArticle,
   "asset-light-vs-asset-heavy": AssetLightVsAssetHeavyArticle,
   "law-firm-acquisition": LawFirmAcquisitionArticle,
-  "wealth-management-acquisition": WealthManagementAcquisitionArticle,
-  "engineering-architecture-acquisition": EngineeringArchitectureAcquisitionArticle,
-  "consulting-firm-acquisition": ConsultingFirmAcquisitionArticle,
-  "pool-service-acquisition": PoolServiceAcquisitionArticle,
-  "fire-protection-acquisition": FireProtectionAcquisitionArticle,
-  "optometry-practice-acquisition": OptometryPracticeAcquisitionArticle,
-  "physical-therapy-acquisition": PhysicalTherapyAcquisitionArticle,
   "pharmacy-acquisition": PharmacyAcquisitionArticle,
-  "behavioral-health-acquisition": BehavioralHealthAcquisitionArticle,
   "med-spa-acquisition": MedSpaAcquisitionArticle,
-  "packaging-labeling-acquisition": PackagingLabelingAcquisitionArticle,
   "eta-czech-republic-slovakia": ETACzechRepublicSlovakiaArticle,
   "eta-greece": ETAGreeceArticle,
   "eta-baltics": ETABalticsArticle,
@@ -11655,18 +10497,11 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "eta-china": ETAChinaArticle,
   "search-fund-investor-ecosystems": SearchFundInvestorEcosystemsArticle,
   "language-cultural-considerations": LanguageCulturalConsiderationsArticle,
-  "web-hosting-acquisition": WebHostingAcquisitionArticle,
-  "marketplace-acquisition": MarketplaceAcquisitionArticle,
   "government-contracting-acquisition": GovernmentContractingAcquisitionArticle,
   "regulated-industries": RegulatedIndustriesArticle,
   "seasonal-businesses": SeasonalBusinessesArticle,
   "b2b-vs-b2c-acquisitions": B2BVsB2CAcquisitionsArticle,
-  "service-vs-product-businesses": ServiceVsProductBusinessesArticle,
-  "eta-vs-angel-investing": ETAVsAngelInvestingArticle,
-  "eta-vs-private-credit": ETAVsPrivateCreditArticle,
-  "eta-vs-franchise-deep": ETAVsFranchiseDeepArticle,
   "eta-vs-independent-sponsor": ETAVsIndependentSponsorArticle,
-  "eta-vs-lower-middle-market-pe": ETAVsLowerMiddleMarketPEArticle,
   "eta-vs-holding-company": ETAVsHoldingCompanyArticle,
   "evaluate-searcher": EvaluateSearcherArticle,
   "portfolio-construction-search-fund": PortfolioConstructionSearchFundArticle,

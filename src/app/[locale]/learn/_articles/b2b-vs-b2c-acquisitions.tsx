@@ -71,7 +71,7 @@ export default function B2BVsB2CAcquisitionsArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
         <li><Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">Defining Your Ideal Acquisition Target</Link></li>
-        <li><Link href="/learn/service-vs-product-businesses" className="text-apple-accent hover:underline">Service vs. Product Businesses</Link></li>
+        <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Service vs. Product Businesses</Link></li>
         <li><Link href="/learn/asset-light-vs-asset-heavy" className="text-apple-accent hover:underline">Asset-Light vs. Asset-Heavy</Link></li>
       </ul>
 

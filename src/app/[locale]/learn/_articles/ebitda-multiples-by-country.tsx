@@ -137,7 +137,7 @@ export default function EBITDAMultiplesByCountryArticle() {
           <li><strong>Median:</strong> ~3.5x</li>
           <li><strong>Why cheapest:</strong> Country risk, currency risk, less developed exit markets, informality in financial reporting</li>
           <li><strong>See:</strong>{" "}
-            <Link href="/learn/eta-latin-america" className="text-apple-accent hover:underline">
+            <Link href="/learn/eta-latin-america-overview" className="text-apple-accent hover:underline">
               LATAM ETA guide
             </Link></li>
         </ul>

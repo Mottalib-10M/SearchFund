@@ -16,7 +16,7 @@ export default function RecurringRevenueBusinessesArticle() {
           <li><strong>Subscription:</strong> Ongoing service without long-term contract but high retention. Examples: maintenance agreements, membership programs.</li>
           <li><strong>Usage-based recurring:</strong> Predictable repeat usage billed monthly. Examples: <Link href="/learn/waste-management-acquisition" className="text-apple-accent hover:underline">waste collection</Link>, utility services, payment processing.</li>
           <li><strong>Consumable recurring:</strong> Repeat purchases of consumable products. Examples: <Link href="/learn/distribution-wholesale-acquisition" className="text-apple-accent hover:underline">industrial supplies</Link>, medical supplies, food ingredients.</li>
-          <li><strong>Retention-based recurring:</strong> High-frequency repeat business driven by habit or necessity. Examples: <Link href="/learn/pet-services-acquisition" className="text-apple-accent hover:underline">pet grooming</Link>, dental cleaning, hair salons.</li>
+          <li><strong>Retention-based recurring:</strong> High-frequency repeat business driven by habit or necessity. Examples: <Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">pet grooming</Link>, dental cleaning, hair salons.</li>
         </ul>
       </div>
 
@@ -33,18 +33,18 @@ export default function RecurringRevenueBusinessesArticle() {
 
         <h3 className={h3Class}>Tier 2: Strong Recurring Revenue (50&ndash;80% recurring)</h3>
         <ul className={ulClass}>
-          <li><strong><Link href="/learn/staffing-agency-acquisition" className="text-apple-accent hover:underline">Staffing (temp/contract)</Link>:</strong> Ongoing temp worker billing. 60&ndash;70% of revenue is recurring.</li>
+          <li><strong><Link href="/learn/acquiring-staffing-agency" className="text-apple-accent hover:underline">Staffing (temp/contract)</Link>:</strong> Ongoing temp worker billing. 60&ndash;70% of revenue is recurring.</li>
           <li><strong><Link href="/learn/acquiring-accounting-practice" className="text-apple-accent hover:underline">Accounting &amp; bookkeeping</Link>:</strong> Monthly retainers and annual tax prep. Sticky client relationships.</li>
           <li><strong><Link href="/learn/acquiring-pest-control-business" className="text-apple-accent hover:underline">Pest control</Link>:</strong> Monthly/quarterly treatment plans. 80%+ contract retention.</li>
-          <li><strong><Link href="/learn/hvac-acquisition" className="text-apple-accent hover:underline">HVAC service</Link>:</strong> Maintenance agreements growing to 30&ndash;50% of revenue. Strong upsell to replacement.</li>
+          <li><strong><Link href="/learn/acquiring-hvac-business" className="text-apple-accent hover:underline">HVAC service</Link>:</strong> Maintenance agreements growing to 30&ndash;50% of revenue. Strong upsell to replacement.</li>
           <li><strong><Link href="/learn/acquiring-cleaning-business" className="text-apple-accent hover:underline">Commercial cleaning</Link>:</strong> Monthly contracts for office, medical, and industrial facilities.</li>
         </ul>
 
         <h3 className={h3Class}>Tier 3: Moderate Recurring Revenue (30&ndash;50% recurring)</h3>
         <ul className={ulClass}>
-          <li><strong><Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">Dental practices</Link>:</strong> Biannual hygiene visits and membership programs. Patient retention 70&ndash;80%.</li>
+          <li><strong><Link href="/learn/acquiring-dental-practice" className="text-apple-accent hover:underline">Dental practices</Link>:</strong> Biannual hygiene visits and membership programs. Patient retention 70&ndash;80%.</li>
           <li><strong><Link href="/learn/veterinary-practice-acquisition" className="text-apple-accent hover:underline">Veterinary practices</Link>:</strong> Annual exams, wellness plans, and chronic care. Growing wellness plan adoption.</li>
-          <li><strong><Link href="/learn/digital-marketing-agency-acquisition" className="text-apple-accent hover:underline">Digital marketing agencies</Link>:</strong> Monthly retainers for SEO, PPC, social media management.</li>
+          <li><strong><Link href="/learn/acquiring-digital-marketing-agency" className="text-apple-accent hover:underline">Digital marketing agencies</Link>:</strong> Monthly retainers for SEO, PPC, social media management.</li>
           <li><strong><Link href="/learn/landscaping-acquisition" className="text-apple-accent hover:underline">Landscaping</Link>:</strong> Maintenance contracts for mowing, snow removal. Seasonal but recurring.</li>
         </ul>
       </div>

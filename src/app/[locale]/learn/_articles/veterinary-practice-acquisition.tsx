@@ -6,7 +6,7 @@ export default function VeterinaryPracticeAcquisitionArticle() {
     <article>
       <h1 className={h1Class}>Acquiring a Veterinary Practice</h1>
       <div className={bodyClass}>
-        <p>The veterinary industry is experiencing rapid consolidation, driven by pet humanization trends, veterinarian retirement waves, and strong private equity interest. For search fund entrepreneurs, veterinary practices offer recurring revenue, emotional customer loyalty, and a clear path to value creation through the same DSO-like model being applied in <Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">dental practices</Link>.</p>
+        <p>The veterinary industry is experiencing rapid consolidation, driven by pet humanization trends, veterinarian retirement waves, and strong private equity interest. For search fund entrepreneurs, veterinary practices offer recurring revenue, emotional customer loyalty, and a clear path to value creation through the same DSO-like model being applied in <Link href="/learn/acquiring-dental-practice" className="text-apple-accent hover:underline">dental practices</Link>.</p>
       </div>
 
       <h2 className={h2Class}>Why Veterinary Practices Are Attractive</h2>
@@ -68,7 +68,7 @@ export default function VeterinaryPracticeAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">Acquiring a Dental Practice</Link></li>
+        <li><Link href="/learn/acquiring-dental-practice" className="text-apple-accent hover:underline">Acquiring a Dental Practice</Link></li>
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Healthcare Business</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
         <li><Link href="/learn/business-licensing-permits" className="text-apple-accent hover:underline">Business Licensing & Permits</Link></li>

@@ -71,7 +71,7 @@ export default function GovernmentContractingAcquisitionArticle() {
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/it-services-acquisition" className="text-apple-accent hover:underline">Acquiring an IT Services Firm</Link></li>
-        <li><Link href="/learn/consulting-firm-acquisition" className="text-apple-accent hover:underline">Acquiring a Consulting Firm</Link></li>
+        <li><Link href="/learn/professional-services-acquisition" className="text-apple-accent hover:underline">Acquiring a Consulting Firm</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>

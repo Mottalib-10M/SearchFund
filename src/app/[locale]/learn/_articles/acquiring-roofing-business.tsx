@@ -423,7 +423,7 @@ export default function AcquiringRoofingBusinessArticle() {
           &mdash; executing disciplined tuck-in acquisitions that expand
           geographic coverage and deepen crew capacity. For acquirers
           interested in adjacent construction verticals, see our guide to{" "}
-          <Link href="/learn/acquiring-construction-company" className="text-apple-accent hover:underline">acquiring a construction company</Link>.
+          <Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">acquiring a construction company</Link>.
         </p>
       </div>
     </article>

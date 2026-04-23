@@ -35,7 +35,7 @@ export default function MedSpaAcquisitionArticle() {
 
       <h2 className={h2Class}>The Medical Director Requirement</h2>
       <div className={bodyClass}>
-        <p>Med spas must operate under a licensed physician&apos;s supervision (Medical Director). This creates a structural consideration similar to <Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">DSO models</Link>:</p>
+        <p>Med spas must operate under a licensed physician&apos;s supervision (Medical Director). This creates a structural consideration similar to <Link href="/learn/acquiring-dental-practice" className="text-apple-accent hover:underline">DSO models</Link>:</p>
         <ul className={ulClass}>
           <li><strong>MSO model:</strong> Non-physicians acquire the business operations through a Management Services Organization while a physician retains medical oversight</li>
           <li><strong>Medical Director agreement:</strong> Secure a long-term Medical Director contract with the existing or new physician</li>
@@ -80,7 +80,7 @@ export default function MedSpaAcquisitionArticle() {
 
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
-        <li><Link href="/learn/dental-practice-acquisition" className="text-apple-accent hover:underline">Acquiring a Dental Practice (DSO Model)</Link></li>
+        <li><Link href="/learn/acquiring-dental-practice" className="text-apple-accent hover:underline">Acquiring a Dental Practice (DSO Model)</Link></li>
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Acquiring a Healthcare Business</Link></li>
         <li><Link href="/learn/franchise-acquisition" className="text-apple-accent hover:underline">Acquiring a Franchise Business</Link></li>
         <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses</Link></li>
