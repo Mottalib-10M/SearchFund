@@ -389,6 +389,568 @@ export const frArticles: ArticleMeta[] = [
       { question: "Faut-il informer le CSE avant l\u2019acquisition ?", answer: "Oui, en France, le CSE doit \u00eatre inform\u00e9 et consult\u00e9 sur tout changement de propri\u00e9taire ou de contr\u00f4le de l\u2019entreprise (article L2312-8 du Code du travail). Cette consultation est obligatoire et doit intervenir avant la finalisation de la cession. Le non-respect peut entra\u00eener la nullit\u00e9 de l\u2019op\u00e9ration." },
     ],
   },
+  // ── Phase 2 — FR Expansion (30 articles) ──────────────────────────────
+  {
+    slug: "working-with-advisors",
+    title: "Travailler avec des Conseillers : Avocats et Experts-Comptables",
+    description: "Comment choisir et travailler avec des avocats d\u2019affaires et experts-comptables pour votre acquisition de PME en France.",
+    readTime: "13 min de lecture",
+    tag: "Conseil",
+    category: "Search & Deal Sourcing",
+    ogTitle: "Avocats et Experts-Comptables pour l\u2019Acquisition de PME en France",
+    ogDescription: "Guide pour choisir et collaborer avec des conseillers sp\u00e9cialis\u00e9s en transmission d\u2019entreprise : avocats, experts-comptables, notaires et courtiers.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Ordre des Experts-Comptables", title: "Guide de la Mission de Transmission", year: 2024 },
+      { name: "Conseil National des Barreaux", title: "L\u2019Avocat en Droit des Affaires", year: 2024 },
+    ],
+    faqs: [
+      { question: "Combien co\u00fbte un avocat pour une acquisition de PME en France ?", answer: "Les honoraires d\u2019un avocat d\u2019affaires pour une acquisition de PME varient entre 15\u202f000\u00a0\u20ac et 50\u202f000\u00a0\u20ac selon la complexit\u00e9 de l\u2019op\u00e9ration." },
+    ],
+  },
+  {
+    slug: "quality-of-earnings",
+    title: "Quality of Earnings : Audit QoE \u00e0 la Fran\u00e7aise",
+    description: "Comprendre l\u2019audit Quality of Earnings dans le contexte fran\u00e7ais : normes comptables, retraitements et pi\u00e8ges \u00e0 \u00e9viter.",
+    readTime: "14 min de lecture",
+    tag: "Due Diligence",
+    category: "Due Diligence",
+    ogTitle: "Quality of Earnings pour l\u2019Acquisition de PME : Guide Fran\u00e7ais",
+    ogDescription: "Ma\u00eetrisez l\u2019audit QoE adapt\u00e9 au Plan Comptable G\u00e9n\u00e9ral fran\u00e7ais : retraitements, normalisation de l\u2019EBITDA et signaux d\u2019alerte.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Ordre des Experts-Comptables", title: "Normes d\u2019Audit d\u2019Acquisition", year: 2024 },
+      { name: "CNCC", title: "Guide de l\u2019Audit L\u00e9gal", year: 2024 },
+    ],
+    faqs: [
+      { question: "Qu\u2019est-ce que le Quality of Earnings pour une PME fran\u00e7aise ?", answer: "Le QoE est un audit approfondi qui va au-del\u00e0 de l\u2019audit l\u00e9gal standard. Il analyse la qualit\u00e9 et la r\u00e9currence des r\u00e9sultats : retraitements de la r\u00e9mun\u00e9ration du dirigeant, du loyer, des charges exceptionnelles, du CIR/CICE." },
+    ],
+  },
+  {
+    slug: "negotiation-tactics",
+    title: "Techniques de N\u00e9gociation pour l\u2019Acquisition de PME",
+    description: "Strat\u00e9gies et tactiques de n\u00e9gociation adapt\u00e9es \u00e0 la culture d\u2019affaires fran\u00e7aise pour l\u2019acquisition de PME.",
+    readTime: "13 min de lecture",
+    tag: "N\u00e9gociation",
+    category: "Search & Deal Sourcing",
+    ogTitle: "N\u00e9gociation d\u2019Acquisition en France : Techniques et Culture d\u2019Affaires",
+    ogDescription: "Ma\u00eetrisez la n\u00e9gociation d\u2019acquisition de PME en France : culture fran\u00e7aise, relations de confiance, prix vs conditions.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "HEC Paris", title: "N\u00e9gociation et Gestion des Conflits", year: 2024 },
+    ],
+    faqs: [
+      { question: "En quoi la n\u00e9gociation d\u2019acquisition en France diff\u00e8re-t-elle ?", answer: "En France, la relation personnelle avec le c\u00e9dant est primordiale. Les vendeurs de PME familiales cherchent un repreneur qui respectera l\u2019h\u00e9ritage et les salari\u00e9s." },
+    ],
+  },
+  {
+    slug: "earn-out-structures",
+    title: "Compl\u00e9ment de Prix (Earn-Out) en Droit Fran\u00e7ais",
+    description: "Structurer un earn-out lors de l\u2019acquisition d\u2019une PME en France : clauses, fiscalit\u00e9, pi\u00e8ges et bonnes pratiques.",
+    readTime: "13 min de lecture",
+    tag: "Financement",
+    category: "Valuation & Finance",
+    ogTitle: "Earn-Out en France : Compl\u00e9ment de Prix pour l\u2019Acquisition de PME",
+    ogDescription: "Guide complet du compl\u00e9ment de prix (earn-out) en droit fran\u00e7ais : structuration, fiscalit\u00e9, clauses essentielles et jurisprudence.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Pratique du Droit Fran\u00e7ais des Affaires", title: "Le Compl\u00e9ment de Prix en M&A", year: 2024 },
+    ],
+    faqs: [
+      { question: "Comment est impos\u00e9 l\u2019earn-out en France ?", answer: "Le traitement fiscal d\u00e9pend de sa qualification : compl\u00e9ment de prix de cession (plus-values) ou r\u00e9mun\u00e9ration (revenu). La r\u00e9daction des clauses est cruciale." },
+    ],
+  },
+  {
+    slug: "exit-strategies",
+    title: "Strat\u00e9gies de Sortie pour Search Funds en France",
+    description: "Planifier la sortie d\u2019un search fund en France : revente, LBO secondaire et fiscalit\u00e9 des plus-values.",
+    readTime: "14 min de lecture",
+    tag: "Sortie",
+    category: "Post-Acquisition",
+    ogTitle: "Sortie de Search Fund en France : Strat\u00e9gies et Fiscalit\u00e9",
+    ogDescription: "Strat\u00e9gies de sortie pour un search fund en France : vente industrielle, LBO secondaire, MBO, et optimisation fiscale des plus-values.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "France Invest", title: "\u00c9tude Annuelle sur les Cessions", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Exit Data", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelle est la dur\u00e9e moyenne de d\u00e9tention avant la sortie ?", answer: "Les donn\u00e9es Stanford montrent une dur\u00e9e m\u00e9diane de 6-8 ans. En France, les sorties se font principalement vers des acqu\u00e9reurs industriels ou des fonds de PE." },
+    ],
+  },
+  {
+    slug: "searcher-compensation",
+    title: "R\u00e9mun\u00e9ration du Searcher-Dirigeant en France",
+    description: "Statut et r\u00e9mun\u00e9ration du dirigeant post-acquisition en France : TNS vs salari\u00e9, charges sociales et optimisation.",
+    readTime: "13 min de lecture",
+    tag: "R\u00e9mun\u00e9ration",
+    category: "Post-Acquisition",
+    ogTitle: "R\u00e9mun\u00e9ration du Dirigeant post-Acquisition : Statut TNS, Salari\u00e9 et Optimisation",
+    ogDescription: "R\u00e9mun\u00e9ration du searcher-dirigeant en France : choix du statut (TNS vs assimil\u00e9 salari\u00e9), charges sociales, dividendes et optimisation.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "URSSAF", title: "Statut Social du Dirigeant", year: 2024 },
+      { name: "Ordre des Experts-Comptables", title: "Optimisation de la R\u00e9mun\u00e9ration du Dirigeant", year: 2024 },
+    ],
+    faqs: [
+      { question: "TNS ou assimil\u00e9 salari\u00e9 : quel statut choisir ?", answer: "En SAS, le pr\u00e9sident est assimil\u00e9 salari\u00e9 (~80% de cotisations sur le net). En SARL, le g\u00e9rant majoritaire est TNS (~45%). Le choix d\u00e9pend du niveau de r\u00e9mun\u00e9ration et des objectifs patrimoniaux." },
+    ],
+  },
+  {
+    slug: "board-governance",
+    title: "Gouvernance d\u2019Entreprise : SA, SAS et Conseil d\u2019Administration",
+    description: "Mettre en place une gouvernance efficace post-acquisition en France : conseil d\u2019administration, comit\u00e9 strat\u00e9gique et relations actionnaires.",
+    readTime: "13 min de lecture",
+    tag: "Gouvernance",
+    category: "Post-Acquisition",
+    ogTitle: "Gouvernance post-Acquisition en France : Conseil d\u2019Administration et Comit\u00e9 Strat\u00e9gique",
+    ogDescription: "Guide de la gouvernance post-acquisition : SA vs SAS, mise en place d\u2019un board, r\u00f4le des investisseurs et bonnes pratiques fran\u00e7aises.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Code de Commerce", title: "Gouvernance des SAS et SA", year: 2024 },
+      { name: "IFA", title: "Institut Fran\u00e7ais des Administrateurs", year: 2024 },
+    ],
+    faqs: [
+      { question: "Faut-il un conseil d\u2019administration pour un search fund en SAS ?", answer: "La SAS n\u2019impose pas l\u00e9galement de conseil d\u2019administration, mais les investisseurs exigent g\u00e9n\u00e9ralement un organe de gouvernance (board ou comit\u00e9 strat\u00e9gique)." },
+    ],
+  },
+  {
+    slug: "buy-and-build",
+    title: "Strat\u00e9gie de Build-Up en France : Croissance par Acquisitions",
+    description: "Construire une plateforme par acquisitions successives en France : strat\u00e9gie, financement, int\u00e9gration et cr\u00e9ation de valeur.",
+    readTime: "14 min de lecture",
+    tag: "Croissance",
+    category: "Post-Acquisition",
+    ogTitle: "Build-Up en France : Strat\u00e9gie de Croissance par Acquisitions Successives",
+    ogDescription: "Guide du build-up en France : identifier des cibles compl\u00e9mentaires, financer les acquisitions bolt-on et cr\u00e9er de la valeur par consolidation.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "France Invest", title: "Build-Up et Cr\u00e9ation de Valeur", year: 2024 },
+      { name: "Bain & Company", title: "M&A Integration Best Practices", year: 2024 },
+    ],
+    faqs: [
+      { question: "Le build-up est-il courant dans les search funds en France ?", answer: "De plus en plus de search funds europ\u00e9ens adoptent une strat\u00e9gie de build-up. En France, la fragmentation de nombreux secteurs offre des opportunit\u00e9s de consolidation." },
+    ],
+  },
+  {
+    slug: "investor-relations",
+    title: "Relations Investisseurs et Reporting pour Search Funds",
+    description: "G\u00e9rer les relations avec les investisseurs d\u2019un search fund : reporting, communication et bonnes pratiques.",
+    readTime: "12 min de lecture",
+    tag: "Investisseurs",
+    category: "Fundraising & Investors",
+    ogTitle: "Relations Investisseurs Search Fund : Reporting et Communication",
+    ogDescription: "Bonnes pratiques de reporting et communication avec les investisseurs d\u2019un search fund : fr\u00e9quence, contenu, KPIs et situations difficiles.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stanford GSB", title: "Search Fund Best Practices", year: 2024 },
+    ],
+    faqs: [
+      { question: "\u00c0 quelle fr\u00e9quence reporter aux investisseurs ?", answer: "Rapport mensuel pendant la phase de recherche, trimestriel apr\u00e8s l\u2019acquisition. Inclure : KPIs financiers, avancement op\u00e9rationnel, pipeline et \u00e9v\u00e9nements significatifs." },
+    ],
+  },
+  {
+    slug: "advisory-board",
+    title: "Construire un Comit\u00e9 Consultatif pour votre Search Fund",
+    description: "Comment former et animer un advisory board efficace pour un search fund en France.",
+    readTime: "12 min de lecture",
+    tag: "Gouvernance",
+    category: "Post-Acquisition",
+    ogTitle: "Comit\u00e9 Consultatif Search Fund : Constitution et Fonctionnement",
+    ogDescription: "Guide pour constituer un comit\u00e9 consultatif (advisory board) efficace pour votre search fund en France.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "IFA", title: "Guide de l\u2019Advisory Board", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelle diff\u00e9rence entre board et advisory board ?", answer: "Le board a un pouvoir d\u00e9cisionnel et une responsabilit\u00e9 juridique. L\u2019advisory board n\u2019a qu\u2019un r\u00f4le de conseil, sans pouvoir de d\u00e9cision ni responsabilit\u00e9 l\u00e9gale." },
+    ],
+  },
+  {
+    slug: "revenue-growth-playbook",
+    title: "Croissance du Chiffre d\u2019Affaires post-Acquisition",
+    description: "Strat\u00e9gies de croissance du CA apr\u00e8s l\u2019acquisition d\u2019une PME en France.",
+    readTime: "14 min de lecture",
+    tag: "Croissance",
+    category: "Post-Acquisition",
+    ogTitle: "Croissance post-Acquisition : Strat\u00e9gies pour D\u00e9velopper le CA d\u2019une PME",
+    ogDescription: "Playbook de croissance du chiffre d\u2019affaires : strat\u00e9gie commerciale, pricing, digitalisation et expansion g\u00e9ographique.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Bpifrance Le Lab", title: "Acc\u00e9l\u00e9rateurs de Croissance PME", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quels sont les leviers de croissance les plus rapides ?", answer: "Optimisation du pricing, mise en place d\u2019un CRM, cross-selling sur la base clients existante, et digitalisation de l\u2019acquisition client." },
+    ],
+  },
+  {
+    slug: "digital-transformation",
+    title: "Transformation Digitale des PME post-Acquisition",
+    description: "Mener la transformation digitale d\u2019une PME acquise en France : ERP, CRM, e-commerce et aides publiques.",
+    readTime: "14 min de lecture",
+    tag: "Digital",
+    category: "Post-Acquisition",
+    ogTitle: "Transformation Digitale des PME apr\u00e8s Acquisition : Guide Pratique",
+    ogDescription: "Guide de la transformation digitale post-acquisition : ERP, CRM, e-commerce, automatisation et aides Bpifrance/France Num.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Bpifrance Le Lab", title: "Barom\u00e8tre de la Digitalisation des PME", year: 2024 },
+      { name: "France Num", title: "Aides \u00e0 la Transformation Digitale", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelles aides publiques pour la digitalisation ?", answer: "France Num propose un diagnostic gratuit. Bpifrance offre le Pr\u00eat Croissance (jusqu\u2019\u00e0 5M\u20ac). Les R\u00e9gions ont leurs propres dispositifs (ch\u00e8ques num\u00e9riques)." },
+    ],
+  },
+  {
+    slug: "working-capital-management",
+    title: "Gestion du BFR pour Dirigeants d\u2019Entreprise Acquise",
+    description: "Optimiser le besoin en fonds de roulement d\u2019une PME acquise en France.",
+    readTime: "13 min de lecture",
+    tag: "Finance",
+    category: "Valuation & Finance",
+    ogTitle: "Gestion du BFR post-Acquisition : Optimiser la Tr\u00e9sorerie d\u2019une PME",
+    ogDescription: "Guide d\u2019optimisation du BFR : cr\u00e9ances, stocks, dettes fournisseurs, affacturage et solutions Bpifrance.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Banque de France", title: "D\u00e9lais de Paiement en France", year: 2024 },
+      { name: "Bpifrance", title: "Solutions de Financement du BFR", year: 2024 },
+    ],
+    faqs: [
+      { question: "Comment financer le BFR d\u2019une PME acquise ?", answer: "Affacturage (Bpifrance Avance+), escompte bancaire, Dailly, ligne de cr\u00e9dit court terme, et Pr\u00eat Croissance Bpifrance." },
+    ],
+  },
+  {
+    slug: "pre-search-preparation",
+    title: "Pr\u00e9paration au Search : Transition de Carri\u00e8re vers l\u2019ETA",
+    description: "Comment pr\u00e9parer votre transition vers l\u2019entrepreneuriat par acquisition en France.",
+    readTime: "13 min de lecture",
+    tag: "Pr\u00e9paration",
+    category: "Getting Started",
+    ogTitle: "Pr\u00e9paration \u00e0 l\u2019ETA : De Salari\u00e9 \u00e0 Entrepreneur-Acqu\u00e9reur en France",
+    ogDescription: "Guide de la transition vers l\u2019ETA : formations HEC/INSEAD, constitution du r\u00e9seau, pr\u00e9paration financi\u00e8re et timing optimal.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "HEC Paris", title: "Programme Entrepreneuriat par Acquisition", year: 2024 },
+      { name: "INSEAD", title: "ETA Career Guide", year: 2024 },
+    ],
+    faqs: [
+      { question: "Faut-il un MBA pour lancer un search fund en France ?", answer: "Non, mais les r\u00e9seaux HEC/INSEAD/ESSEC facilitent l\u2019acc\u00e8s aux investisseurs. L\u2019exp\u00e9rience en conseil ou banque d\u2019affaires est souvent plus valoris\u00e9e." },
+    ],
+  },
+  {
+    slug: "searcher-psychology",
+    title: "Psychologie du Searcher : R\u00e9silience et Mindset",
+    description: "Les d\u00e9fis psychologiques du search fund : gestion de l\u2019incertitude, r\u00e9silience et \u00e9quilibre de vie.",
+    readTime: "12 min de lecture",
+    tag: "Mindset",
+    category: "Getting Started",
+    ogTitle: "Psychologie du Searcher : Surmonter les D\u00e9fis Mentaux du Search Fund",
+    ogDescription: "G\u00e9rez les d\u00e9fis psychologiques du search fund : incertitude, rejets multiples, pression des investisseurs et motivation.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stanford GSB", title: "The Emotional Journey of Search Fund Entrepreneurs", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quel est le plus grand d\u00e9fi psychologique d\u2019un searcher ?", answer: "La dur\u00e9e et l\u2019incertitude du processus. Avec 20 mois de recherche m\u00e9diane et ~70% de taux d\u2019acquisition, beaucoup de searchers traversent des p\u00e9riodes de doute intense." },
+    ],
+  },
+  {
+    slug: "searcher-tools",
+    title: "Outils et Technologies pour Searchers",
+    description: "Les meilleurs outils pour optimiser votre recherche de PME en France : CRM, bases de donn\u00e9es et automatisation.",
+    readTime: "12 min de lecture",
+    tag: "Outils",
+    category: "Search & Deal Sourcing",
+    ogTitle: "Outils pour Searchers : Technologies pour Optimiser votre Recherche de PME",
+    ogDescription: "Bo\u00eete \u00e0 outils du searcher en France : CRM, Pappers, Soci\u00e9t\u00e9.com, Fusacq et automatisation du sourcing.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Pappers.fr", title: "Base de Donn\u00e9es Entreprises", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quels outils utiliser pour le sourcing en France ?", answer: "Pappers.fr (donn\u00e9es l\u00e9gales), Soci\u00e9t\u00e9.com (donn\u00e9es financi\u00e8res), Fusacq.com (marketplace), LinkedIn Sales Navigator, et les alertes Bpifrance Transmission." },
+    ],
+  },
+  {
+    slug: "eta-vs-startups",
+    title: "ETA vs. Cr\u00e9ation d\u2019Entreprise vs. Franchise",
+    description: "Comparer l\u2019ETA avec la cr\u00e9ation d\u2019entreprise et la franchise en France : risques, rendements et profils.",
+    readTime: "14 min de lecture",
+    tag: "Comparaison",
+    category: "Getting Started",
+    ogTitle: "ETA vs. Startup vs. Franchise : Quelle Voie Entrepreneuriale Choisir ?",
+    ogDescription: "Comparaison de l\u2019ETA, la startup et la franchise en France : risque, rendement, capital requis et profils adapt\u00e9s.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "HEC Paris", title: "Voies de l\u2019Entrepreneuriat", year: 2024 },
+      { name: "F\u00e9d\u00e9ration Fran\u00e7aise de la Franchise", title: "Chiffres Cl\u00e9s de la Franchise", year: 2024 },
+    ],
+    faqs: [
+      { question: "Pourquoi choisir l\u2019ETA plut\u00f4t que de cr\u00e9er une startup ?", answer: "L\u2019ETA offre un risque inf\u00e9rieur : entreprise rentable avec clients et CA. Pas de risque produit-march\u00e9. Convient aux profils qui veulent entreprendre avec un risque ma\u00eetris\u00e9." },
+    ],
+  },
+  {
+    slug: "women-in-eta",
+    title: "Femmes et Diversit\u00e9 dans le Search Fund",
+    description: "La place des femmes et la diversit\u00e9 dans l\u2019\u00e9cosyst\u00e8me search fund en France et en Europe.",
+    readTime: "12 min de lecture",
+    tag: "Diversit\u00e9",
+    category: "Getting Started",
+    ogTitle: "Femmes dans les Search Funds : Diversit\u00e9 et Opportunit\u00e9s",
+    ogDescription: "\u00c9tat des lieux de la diversit\u00e9 dans les search funds : proportion de femmes, initiatives europ\u00e9ennes et r\u00e9seaux.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stanford GSB", title: "Diversity in Search Funds", year: 2024 },
+      { name: "IESE", title: "Women in ETA", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelle est la proportion de femmes dans les search funds ?", answer: "Environ 10-15% des searchers selon Stanford. En Europe, le pourcentage est similaire mais en progression. Des initiatives comme Women in ETA visent \u00e0 acc\u00e9l\u00e9rer la diversification." },
+    ],
+  },
+  {
+    slug: "eta-germany",
+    title: "ETA en Allemagne : Le Mittelstand et la Succession",
+    description: "Guide de l\u2019ETA en Allemagne : acc\u00e9der au Mittelstand, cadre juridique GmbH, KfW et culture d\u2019affaires.",
+    readTime: "15 min de lecture",
+    tag: "Allemagne",
+    category: "International",
+    ogTitle: "ETA en Allemagne : Acqu\u00e9rir une Entreprise du Mittelstand",
+    ogDescription: "Guide de l\u2019ETA en Allemagne : Mittelstand, crise de succession, GmbH, financement KfW et sp\u00e9cificit\u00e9s culturelles.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "KfW", title: "Unternehmensnachfolge in Deutschland", year: 2024 },
+      { name: "IfM Bonn", title: "Institut f\u00fcr Mittelstandsforschung", year: 2024 },
+    ],
+    faqs: [
+      { question: "Pourquoi l\u2019Allemagne est-elle attractive pour l\u2019ETA ?", answer: "3,5 millions de PME (Mittelstand) dont 600\u202f000 cherchent un repreneur. Des entreprises bien g\u00e9r\u00e9es, avec des marges \u00e9lev\u00e9es et des positions de niche (hidden champions)." },
+    ],
+  },
+  {
+    slug: "eta-uk",
+    title: "ETA au Royaume-Uni : Le March\u00e9 le Plus Mature d\u2019Europe",
+    description: "Guide de l\u2019ETA au Royaume-Uni : \u00e9cosyst\u00e8me, financement, cadre juridique Ltd et culture britannique.",
+    readTime: "14 min de lecture",
+    tag: "Royaume-Uni",
+    category: "International",
+    ogTitle: "ETA au Royaume-Uni : Guide de l\u2019Acquisition d\u2019Entreprise",
+    ogDescription: "Guide de l\u2019ETA au UK : LBS/Oxford, financement, structures Ltd et sp\u00e9cificit\u00e9s post-Brexit.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "British Business Bank", title: "Small Business Finance Markets", year: 2024 },
+      { name: "London Business School", title: "ETA Research Hub", year: 2024 },
+    ],
+    faqs: [
+      { question: "Le UK est-il le meilleur march\u00e9 ETA en Europe ?", answer: "Le UK a l\u2019\u00e9cosyst\u00e8me le plus d\u00e9velopp\u00e9 d\u2019Europe : LBS/Oxford, march\u00e9 du financement profond, culture entrepreneuriale forte. Post-Brexit, l\u2019acc\u00e8s au march\u00e9 unique est limit\u00e9." },
+    ],
+  },
+  {
+    slug: "eta-spain",
+    title: "ETA en Espagne et dans l\u2019Espace Ib\u00e9rique",
+    description: "Guide de l\u2019ETA en Espagne : IESE, \u00e9cosyst\u00e8me barcelonais, structures SL et financement ICO.",
+    readTime: "15 min de lecture",
+    tag: "Espagne",
+    category: "International",
+    ogTitle: "ETA en Espagne : L\u2019\u00c9picentre Acad\u00e9mique Europ\u00e9en des Search Funds",
+    ogDescription: "Guide de l\u2019ETA en Espagne : IESE Barcelona, structures SL, financement ICO/ENISA et opportunit\u00e9s ib\u00e9riques.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "ICO", title: "L\u00edneas de Financiaci\u00f3n para Emprendedores", year: 2024 },
+    ],
+    faqs: [
+      { question: "Pourquoi l\u2019Espagne est-elle un hub ETA en Europe ?", answer: "L\u2019IESE (Barcelone) est le centre acad\u00e9mique mondial de l\u2019ETA hors Stanford. L\u2019\u00e9cosyst\u00e8me investisseur espagnol est actif et l\u2019Espagne fait face \u00e0 une succession massive de PME familiales." },
+    ],
+  },
+  {
+    slug: "eta-switzerland",
+    title: "ETA en Suisse : March\u00e9 Premium et Discr\u00e9tion",
+    description: "Guide de l\u2019ETA en Suisse : PME de haute qualit\u00e9, cadre juridique GmbH/AG et fiscalit\u00e9 cantonale.",
+    readTime: "14 min de lecture",
+    tag: "Suisse",
+    category: "International",
+    ogTitle: "ETA en Suisse : Acqu\u00e9rir une PME dans un March\u00e9 Premium",
+    ogDescription: "Guide de l\u2019ETA en Suisse : PME \u00e0 haute valeur ajout\u00e9e, GmbH/AG, fiscalit\u00e9 cantonale avantageuse et sp\u00e9cificit\u00e9s helv\u00e9tiques.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "IMD Lausanne", title: "Entrepreneurship Research", year: 2024 },
+      { name: "KMU Portal", title: "Nachfolgeregelung in der Schweiz", year: 2024 },
+    ],
+    faqs: [
+      { question: "Comment acc\u00e9der aux PME suisses \u00e0 vendre ?", answer: "March\u00e9 tr\u00e8s discret. Principaux canaux : fiduciaires, banques cantonales, companymarket.ch et r\u00e9seaux personnels. La Suisse romande est plus accessible pour les francophones." },
+    ],
+  },
+  {
+    slug: "eta-benelux",
+    title: "ETA au Benelux : Belgique, Pays-Bas et Luxembourg",
+    description: "Guide de l\u2019ETA au Benelux : \u00e9cosyst\u00e8mes, structures juridiques et opportunit\u00e9s de succession.",
+    readTime: "14 min de lecture",
+    tag: "Benelux",
+    category: "International",
+    ogTitle: "ETA au Benelux : Guide de l\u2019Acquisition de PME en Belgique, Pays-Bas et Luxembourg",
+    ogDescription: "Guide de l\u2019ETA au Benelux : Scipio (Belgique), \u00e9cosyst\u00e8me n\u00e9erlandais, BV/BVBA et cross-border.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Vlerick Business School", title: "ETA Research", year: 2024 },
+      { name: "PMV Vlaanderen", title: "Financement de la Succession", year: 2024 },
+    ],
+    faqs: [
+      { question: "Le Benelux est-il un bon march\u00e9 pour l\u2019ETA ?", answer: "Oui : Belgique (Scipio Holding, forte densit\u00e9 de PME), Pays-Bas (BV flexibles, forte internationalisation) et Luxembourg (hub fiscal, entreprises \u00e0 haute valeur ajout\u00e9e)." },
+    ],
+  },
+  {
+    slug: "eta-nordics",
+    title: "ETA dans les Pays Nordiques : Scandinavie et Finlande",
+    description: "Guide de l\u2019ETA en Scandinavie : march\u00e9 su\u00e9dois, norv\u00e9gien, danois et finlandais.",
+    readTime: "14 min de lecture",
+    tag: "Nordiques",
+    category: "International",
+    ogTitle: "ETA dans les Pays Nordiques : Opportunit\u00e9s en Scandinavie et Finlande",
+    ogDescription: "Guide de l\u2019ETA dans les pays nordiques : PME scandinaves de haute qualit\u00e9, structures AB/AS et \u00e9cosyst\u00e8me.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stockholm School of Economics", title: "Nordic ETA Research", year: 2024 },
+    ],
+    faqs: [
+      { question: "Les pays nordiques sont-ils adapt\u00e9s \u00e0 l\u2019ETA ?", answer: "PME de haute qualit\u00e9, forte innovation, main-d\u2019\u0153uvre qualifi\u00e9e. La Su\u00e8de est le march\u00e9 le plus actif. D\u00e9fis : co\u00fbts salariaux \u00e9lev\u00e9s et barri\u00e8re linguistique." },
+    ],
+  },
+  {
+    slug: "eta-italy",
+    title: "ETA en Italie : 4,4 Millions de PME \u00e0 Transmettre",
+    description: "Guide de l\u2019ETA en Italie : le plus grand nombre de PME en Europe, cadre juridique SRL/SPA et \u00e9cosyst\u00e8me Bocconi.",
+    readTime: "15 min de lecture",
+    tag: "Italie",
+    category: "International",
+    ogTitle: "ETA en Italie : L\u2019Opportunit\u00e9 du Passaggio Generazionale",
+    ogDescription: "Guide de l\u2019ETA en Italie : 4,4 millions de PME, crise de succession, SRL/SPA, IRES/IRAP et \u00e9cosyst\u00e8me Bocconi.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Bocconi University", title: "Passaggio Generazionale nelle PMI", year: 2024 },
+      { name: "Confindustria", title: "Rapporto PMI Italiane", year: 2024 },
+    ],
+    faqs: [
+      { question: "Pourquoi l\u2019Italie est-elle une opportunit\u00e9 majeure pour l\u2019ETA ?", answer: "4,4 millions de PME, dirigeants de 65+ ans, crise de succession massive. Multiples souvent inf\u00e9rieurs \u00e0 ceux de France ou d\u2019Allemagne." },
+    ],
+  },
+  {
+    slug: "eta-us",
+    title: "ETA aux \u00c9tats-Unis : Le Berceau du Search Fund",
+    description: "Panorama de l\u2019ETA aux \u00c9tats-Unis depuis Stanford 1984 : \u00e9cosyst\u00e8me, financement SBA et comparaison avec l\u2019Europe.",
+    readTime: "15 min de lecture",
+    tag: "\u00c9tats-Unis",
+    category: "International",
+    ogTitle: "ETA aux \u00c9tats-Unis : Le March\u00e9 le Plus Mature au Monde",
+    ogDescription: "Panorama de l\u2019ETA aux US : Stanford, HBS, SBA loans, structures LLC/C-Corp et le\u00e7ons pour le march\u00e9 europ\u00e9en.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "SBA", title: "Small Business Acquisition Lending", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelles sont les principales diff\u00e9rences entre l\u2019ETA US et europ\u00e9enne ?", answer: "Aux US : SBA facilite les acquisitions, \u00e9cosyst\u00e8me investisseur plus profond, march\u00e9 plus concurrentiel. En Europe : multiples plus bas, moins de concurrence entre searchers." },
+    ],
+  },
+  {
+    slug: "european-search-fund-research",
+    title: "Recherche Europ\u00e9enne : IESE, INSEAD et les Donn\u00e9es Cl\u00e9s",
+    description: "Synth\u00e8se des recherches acad\u00e9miques europ\u00e9ennes sur les search funds.",
+    readTime: "13 min de lecture",
+    tag: "Recherche",
+    category: "Getting Started",
+    ogTitle: "Recherche Europ\u00e9enne sur les Search Funds : IESE, INSEAD et Donn\u00e9es Cl\u00e9s",
+    ogDescription: "Synth\u00e8se des \u00e9tudes acad\u00e9miques europ\u00e9ennes : donn\u00e9es IESE, recherches INSEAD et \u00e9volution du march\u00e9.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "INSEAD", title: "ETA Research Hub", year: 2024 },
+    ],
+    faqs: [
+      { question: "Que r\u00e9v\u00e8lent les donn\u00e9es IESE sur les search funds europ\u00e9ens ?", answer: "Croissance exponentielle (doublement tous les 2-3 ans), taux d\u2019acquisition comparables aux US, rendements encore en cours d\u2019\u00e9valuation." },
+    ],
+  },
+  {
+    slug: "search-fund-success-stories",
+    title: "Success Stories de Search Funds en Europe",
+    description: "\u00c9tudes de cas de search funds r\u00e9ussis en Europe : parcours, acquisitions et le\u00e7ons.",
+    readTime: "14 min de lecture",
+    tag: "T\u00e9moignages",
+    category: "Getting Started",
+    ogTitle: "Success Stories : Search Funds qui ont R\u00e9ussi en Europe",
+    ogDescription: "D\u00e9couvrez des success stories de search funds europ\u00e9ens : parcours des fondateurs, acquisitions r\u00e9ussies et le\u00e7ons cl\u00e9s.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "IESE Business School", title: "European Search Fund Case Studies", year: 2024 },
+      { name: "Searchfunder.com", title: "Searcher Interviews", year: 2024 },
+    ],
+    faqs: [
+      { question: "Y a-t-il des success stories de search funds en France ?", answer: "L\u2019\u00e9cosyst\u00e8me fran\u00e7ais est encore jeune mais les succ\u00e8s se multiplient. Plusieurs searchers issus de HEC et INSEAD ont acquis et d\u00e9velopp\u00e9 des PME avec succ\u00e8s." },
+    ],
+  },
+  {
+    slug: "eta-vs-private-equity",
+    title: "ETA vs. Private Equity : Diff\u00e9rences et Compl\u00e9mentarit\u00e9s",
+    description: "Comparer l\u2019ETA et le private equity en France : taille des op\u00e9rations, gouvernance et rendements.",
+    readTime: "14 min de lecture",
+    tag: "Comparaison",
+    category: "Getting Started",
+    ogTitle: "ETA vs. Private Equity : Comprendre les Diff\u00e9rences et Choisir votre Voie",
+    ogDescription: "Comparaison ETA vs PE : taille d\u2019op\u00e9ration, r\u00f4le du dirigeant, gouvernance et rendements historiques.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "France Invest", title: "Activit\u00e9 du Capital-Investissement en France", year: 2024 },
+      { name: "Stanford GSB", title: "Search Funds vs Traditional PE", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quelle est la principale diff\u00e9rence entre ETA et PE ?", answer: "En ETA, le searcher devient le CEO op\u00e9rationnel. En PE, les gestionnaires supervisent mais ne dirigent pas. L\u2019ETA cible 1-10M\u20ac d\u2019EV, le PE mid-market vise 50M\u20ac+." },
+    ],
+  },
+  {
+    slug: "eta-reading-list",
+    title: "Lectures Essentielles sur l\u2019ETA et les Search Funds",
+    description: "Bibliographie compl\u00e8te pour l\u2019ETA : livres, \u00e9tudes acad\u00e9miques, podcasts et ressources en ligne.",
+    readTime: "12 min de lecture",
+    tag: "Ressources",
+    category: "Getting Started",
+    ogTitle: "Bibliographie ETA : Les Lectures Essentielles pour Searchers et Investisseurs",
+    ogDescription: "Liste compl\u00e8te des ressources sur l\u2019ETA : livres incontournables, \u00e9tudes Stanford/IESE, podcasts et formations.",
+    datePublished: "2025-04-23",
+    dateModified: "2025-04-23",
+    sources: [
+      { name: "Stanford GSB", title: "Recommended Reading for Search Fund Entrepreneurs", year: 2024 },
+    ],
+    faqs: [
+      { question: "Quels sont les livres incontournables sur l\u2019ETA ?", answer: "'HBR Guide to Buying a Small Business' (Ruback & Yudkoff), 'Search Funds' (Yoder & Kelly), 'The First 90 Days' (Watkins), et les primers Stanford et IESE." },
+    ],
+  },
 ];
 
 // ---------------------------------------------------------------------------
@@ -415,6 +977,37 @@ import Stanford2024FR from "./fr/stanford-2024-study";
 import SearchFundReturnsFR from "./fr/search-fund-returns";
 import SellerFinancingFR from "./fr/seller-financing";
 import ManagementTransitionFR from "./fr/management-transition-plan";
+// Phase 2 imports
+import WorkingWithAdvisorsFR from "./fr/working-with-advisors";
+import QualityOfEarningsFR from "./fr/quality-of-earnings";
+import NegotiationTacticsFR from "./fr/negotiation-tactics";
+import EarnOutStructuresFR from "./fr/earn-out-structures";
+import ExitStrategiesFR from "./fr/exit-strategies";
+import SearcherCompensationFR from "./fr/searcher-compensation";
+import BoardGovernanceFR from "./fr/board-governance";
+import BuyAndBuildFR from "./fr/buy-and-build";
+import InvestorRelationsFR from "./fr/investor-relations";
+import AdvisoryBoardFR from "./fr/advisory-board";
+import RevenueGrowthFR from "./fr/revenue-growth-playbook";
+import DigitalTransformationFR from "./fr/digital-transformation";
+import WorkingCapitalFR from "./fr/working-capital-management";
+import PreSearchPreparationFR from "./fr/pre-search-preparation";
+import SearcherPsychologyFR from "./fr/searcher-psychology";
+import SearcherToolsFR from "./fr/searcher-tools";
+import ETAvsStartupsFR from "./fr/eta-vs-startups";
+import WomenInETAFR from "./fr/women-in-eta";
+import ETAGermanyFR from "./fr/eta-germany";
+import ETAUKFR from "./fr/eta-uk";
+import ETASpainFR from "./fr/eta-spain";
+import ETASwitzerlandFR from "./fr/eta-switzerland";
+import ETABeneluxFR from "./fr/eta-benelux";
+import ETANordicsFR from "./fr/eta-nordics";
+import ETAItalyFR from "./fr/eta-italy";
+import ETAUSFR from "./fr/eta-us";
+import EuropeanResearchFR from "./fr/european-search-fund-research";
+import SuccessStoriesFR from "./fr/search-fund-success-stories";
+import ETAvsPEFR from "./fr/eta-vs-private-equity";
+import ETAReadingListFR from "./fr/eta-reading-list";
 
 export const frArticleComponents: Record<string, () => JSX.Element> = {
   "getting-started": GettingStartedFR,
@@ -437,6 +1030,37 @@ export const frArticleComponents: Record<string, () => JSX.Element> = {
   "search-fund-returns": SearchFundReturnsFR,
   "seller-financing": SellerFinancingFR,
   "management-transition-plan": ManagementTransitionFR,
+  // Phase 2
+  "working-with-advisors": WorkingWithAdvisorsFR,
+  "quality-of-earnings": QualityOfEarningsFR,
+  "negotiation-tactics": NegotiationTacticsFR,
+  "earn-out-structures": EarnOutStructuresFR,
+  "exit-strategies": ExitStrategiesFR,
+  "searcher-compensation": SearcherCompensationFR,
+  "board-governance": BoardGovernanceFR,
+  "buy-and-build": BuyAndBuildFR,
+  "investor-relations": InvestorRelationsFR,
+  "advisory-board": AdvisoryBoardFR,
+  "revenue-growth-playbook": RevenueGrowthFR,
+  "digital-transformation": DigitalTransformationFR,
+  "working-capital-management": WorkingCapitalFR,
+  "pre-search-preparation": PreSearchPreparationFR,
+  "searcher-psychology": SearcherPsychologyFR,
+  "searcher-tools": SearcherToolsFR,
+  "eta-vs-startups": ETAvsStartupsFR,
+  "women-in-eta": WomenInETAFR,
+  "eta-germany": ETAGermanyFR,
+  "eta-uk": ETAUKFR,
+  "eta-spain": ETASpainFR,
+  "eta-switzerland": ETASwitzerlandFR,
+  "eta-benelux": ETABeneluxFR,
+  "eta-nordics": ETANordicsFR,
+  "eta-italy": ETAItalyFR,
+  "eta-us": ETAUSFR,
+  "european-search-fund-research": EuropeanResearchFR,
+  "search-fund-success-stories": SuccessStoriesFR,
+  "eta-vs-private-equity": ETAvsPEFR,
+  "eta-reading-list": ETAReadingListFR,
 };
 
 // ---------------------------------------------------------------------------
