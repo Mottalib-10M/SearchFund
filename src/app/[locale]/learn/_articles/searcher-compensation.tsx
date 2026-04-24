@@ -17,7 +17,9 @@ export default function SearcherCompensationArticle() {
           acquisition and exit. This guide breaks down every component of
           searcher compensation, from search-phase salary through lifetime
           wealth creation, with specific numbers drawn from Stanford GSB data
-          and industry benchmarks.
+          and industry benchmarks. Understanding these economics is especially
+          important when you are preparing your <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link> and pitching
+          investors on the alignment of incentives.
         </p>
 
         <h2 className={h2Class}>Search-phase compensation</h2>
@@ -250,8 +252,9 @@ export default function SearcherCompensationArticle() {
           case at the time of acquisition) and appreciates significantly over
           the vesting period, an 83(b) election converts what would be ordinary
           income into long-term capital gains. The election must be filed with
-          the IRS within 30 days of the equity grant — missing this deadline is
-          irrevocable.
+          the IRS within 30 days of the equity grant &mdash; missing this
+          deadline is irrevocable. For a broader view of tax structures relevant
+          to acquisitions, see our <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">legal due diligence</Link> guide.
         </p>
 
         <h3 className={h3Class}>Long-term capital gains treatment</h3>
@@ -340,6 +343,51 @@ export default function SearcherCompensationArticle() {
           including the 37% probability of not acquiring — and making an
           informed decision about whether the risk-reward profile fits your
           personal financial situation and career goals.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          Can I negotiate a higher search-phase salary?
+        </h3>
+        <p>
+          Salary during the search phase is constrained by the total search
+          capital raised, so there is limited room to negotiate. Most investor
+          syndicates expect the searcher salary to fall within the $100,000 to
+          $140,000 range. A significantly higher salary reduces the runway
+          available for deal expenses and travel, which investors view
+          negatively. The strongest lever for higher overall compensation is
+          equity performance &mdash; focus your negotiation energy on the
+          equity structure and vesting terms rather than on search-phase
+          salary.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens to my equity if I leave the company before full vesting?
+        </h3>
+        <p>
+          If you leave voluntarily or are terminated for cause, unvested
+          equity is typically forfeited. The vested portion depends on your
+          operating agreement: some structures allow you to retain vested
+          shares as a passive holder, while others include a company buyback
+          right at fair market value. &ldquo;Good leaver&rdquo; provisions
+          (such as departure due to health or family reasons) may preserve
+          more favorable terms. These details should be negotiated upfront
+          and clearly documented in the shareholder agreement.
+        </p>
+
+        <h3 className={h3Class}>
+          How does compensation compare between solo and partnered searches?
+        </h3>
+        <p>
+          In a partnered search, each searcher typically earns a similar
+          search-phase salary ($100,000 to $130,000 each), but the total
+          equity pool is shared &mdash; usually 25 to 30 percent split
+          between two people. This means each partner ends up with 12 to 15
+          percent equity rather than 20 to 25 percent in a solo search. The
+          tradeoff is reduced risk, shared workload, and complementary skills.
+          For more on this decision, see our guide to <Link href="/learn/solo-vs-partnered-search" className="text-apple-accent hover:underline">solo vs. partnered searches</Link>.
         </p>
       </div>
     </article>

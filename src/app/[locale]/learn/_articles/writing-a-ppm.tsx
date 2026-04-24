@@ -26,7 +26,8 @@ export default function WritingAPPMArticle() {
           an informed decision. It is <strong>not</strong> a business plan for
           a specific company. You are raising capital to <em>search</em> for an
           acquisition, so the PPM describes you, your strategy, the fund
-          structure, and the risks &mdash; not a specific target.
+          structure, and the risks &mdash; not a specific target. For a complete
+          overview of the documents involved in a search fund raise, see our guide to <Link href="/learn/search-fund-legal-documents" className="text-apple-accent hover:underline">search fund legal documents</Link>.
         </p>
 
         <h2 className={h2Class}>Section-by-section breakdown</h2>
@@ -347,11 +348,28 @@ export default function WritingAPPMArticle() {
         <h2 className={h2Class}>Tips for making your PPM compelling</h2>
         <ul className={ulClass}>
           <li><strong>Lead with your story:</strong> Investors invest in people. Your personal narrative &mdash; why you chose ETA, what drives you, what you bring &mdash; is the most compelling element.</li>
-          <li><strong>Use data:</strong> Reference industry research, Stanford/IESE search fund studies, market data on your target sectors. Show that your thesis is grounded in evidence.</li>
+          <li><strong>Use data:</strong> Reference industry research, Stanford/IESE search fund studies, and market data on your target sectors. Understanding <Link href="/learn/search-fund-good-investment" className="text-apple-accent hover:underline">search fund return data</Link> will help you frame the opportunity for your investors. Show that your thesis is grounded in evidence.</li>
           <li><strong>Include references:</strong> Offer to connect investors with former employers, professors, or mentors who can vouch for your character and abilities.</li>
           <li><strong>Professional design:</strong> Clean formatting, consistent fonts, and a simple cover make a difference. Avoid flashy graphics but ensure the document is visually polished.</li>
           <li><strong>Get feedback early:</strong> Share drafts with trusted mentors or ex-searchers before distributing broadly. Iterate based on their input.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much does it cost to prepare a PPM?</h3>
+        <p>
+          Typical legal costs for a search fund PPM range from $15,000 to $30,000, depending on the complexity of the fund structure, the number of jurisdictions involved, and your attorney's experience. Solo practitioners and boutique firms that specialize in search funds or private equity tend to offer better value than large law firms. Ask for a fixed-fee engagement rather than hourly billing to manage costs.
+        </p>
+
+        <h3 className={h3Class}>Can I use another searcher's PPM as a template?</h3>
+        <p>
+          While reviewing other PPMs is a valuable learning exercise, you should never copy another searcher's PPM with minor edits. Sophisticated investors review dozens of PPMs and will immediately recognize recycled content. More importantly, your PPM must accurately reflect your unique background, thesis, fund terms, and risk factors. Use templates for structural guidance only, and draft all substantive content yourself.
+        </p>
+
+        <h3 className={h3Class}>Do I need a PPM for a self-funded search?</h3>
+        <p>
+          Self-funded searchers who are not raising external capital for the search phase do not need a PPM during the search. However, if you plan to raise equity capital for an acquisition, you will need offering documents at that stage. Some self-funded searchers prepare a lighter-weight investment memorandum instead of a full PPM when they bring in co-investors for a specific deal. Regardless of model, always consult a securities attorney before soliciting investment capital.
+        </p>
       </div>
     </article>
   );

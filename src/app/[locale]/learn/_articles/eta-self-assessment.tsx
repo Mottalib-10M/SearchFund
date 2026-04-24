@@ -37,7 +37,12 @@ export default function ETASelfAssessmentArticle() {
           experience several deals that fall through. After closing an
           acquisition, you step into the CEO role for four to seven years before
           a likely exit. From the day you launch your search to the day you
-          sell the company, you are looking at a six-to-ten-year commitment. If
+          sell the company, you are looking at a six-to-ten-year commitment
+          (our{" "}
+          <Link href="/learn/corporate-to-eta" className="text-apple-accent hover:underline">
+            corporate-to-ETA transition guide
+          </Link>{" "}
+          covers this career shift in detail). If
           you acquire a business with $5&ndash;30M in enterprise value &mdash;
           the typical range for search fund acquisitions &mdash; you will manage
           30 to 200 employees and be responsible for every aspect of the
@@ -52,7 +57,11 @@ export default function ETASelfAssessmentArticle() {
           (salary, bonus, equity, benefits) you are likely leaving behind. For
           a mid-career professional earning $200K&ndash;$350K in total
           compensation, the opportunity cost of a two-year search exceeds
-          $400K&ndash;$700K. Self-funded searchers bear even more risk,
+          $400K&ndash;$700K. Careful{" "}
+          <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+            financial runway planning
+          </Link>{" "}
+          is essential before committing. Self-funded searchers bear even more risk,
           financing the search entirely from personal savings. In both cases,
           you will typically invest $25K&ndash;$100K of personal capital at
           acquisition. If the deal fails, that money is at risk.
@@ -457,7 +466,11 @@ export default function ETASelfAssessmentArticle() {
           <li>
             <strong>Independent sponsorship:</strong> If you have deep
             industry expertise and a strong deal network but do not want the
-            prolonged search phase, independent sponsorship lets you pursue
+            prolonged search phase,{" "}
+            <Link href="/learn/solo-vs-partnered-search" className="text-apple-accent hover:underline">
+              independent sponsorship
+            </Link>{" "}
+            lets you pursue
             specific deals as they arise, raising capital on a deal-by-deal
             basis. The economics are different &mdash; less structured, more
             opportunistic &mdash; but the time commitment is more flexible.
@@ -712,6 +725,56 @@ export default function ETASelfAssessmentArticle() {
           have signed a PPM and quit your job. The courage to say
           &ldquo;not yet&rdquo; or &ldquo;not for me&rdquo; is just as
           admirable as the courage to launch a search.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What experience level do you need to start a search fund?</h3>
+        <p className={bodyClass}>
+          Most successful searchers have 3&ndash;10 years of professional experience, often in
+          management consulting, investment banking, private equity, or operational roles. An MBA
+          from a program with an ETA track (Stanford, IESE, Booth) is common but not required. The
+          critical factor is not credential-based &mdash; it is whether you can credibly step into a
+          CEO role at a $5&ndash;30M enterprise value business and earn the trust of employees,
+          customers, and investors from day one.
+        </p>
+
+        <h3 className={h3Class}>Can you do ETA part-time while employed?</h3>
+        <p className={bodyClass}>
+          A{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+            self-funded search
+          </Link>{" "}
+          can technically be conducted part-time, but the trade-offs are significant. Part-time
+          searches typically take 36&ndash;48 months rather than 18&ndash;24, and your deal sourcing
+          bandwidth is severely limited. Traditional investor-backed search funds require full-time
+          commitment. Many aspiring searchers use a phased approach: researching and networking while
+          employed, then transitioning to full-time search once they have validated their thesis and
+          secured financial runway.
+        </p>
+
+        <h3 className={h3Class}>What happens if your search fails after 24 months?</h3>
+        <p className={bodyClass}>
+          Approximately 25&ndash;30% of searchers do not complete an acquisition. While this
+          represents a real risk, most former searchers find that the skills developed during the
+          search &mdash; financial modeling, deal evaluation, negotiation, and business assessment
+          &mdash; are highly transferable. Common post-search career paths include corporate
+          development roles, private equity operating positions, and joining other search fund
+          portfolio companies as executives. Having a clear{" "}
+          <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+            financial runway plan
+          </Link>{" "}
+          and worst-case career fallback before you start is essential.
+        </p>
+
+        <h3 className={h3Class}>How do you assess your risk tolerance for ETA honestly?</h3>
+        <p className={bodyClass}>
+          The risk tolerance framework above provides a structured approach, but the most revealing
+          test is behavioral, not hypothetical. Reflect on how you have actually responded to past
+          financial uncertainty, career setbacks, and ambiguous situations &mdash; not how you think
+          you would respond. Talking to current and former searchers about their emotional experience
+          is invaluable. Many aspiring searchers also find that discussing the specific financial
+          scenarios with their partner surfaces risk preferences they had not articulated.
         </p>
 
         <h2 className={h2Class}>Continue your research</h2>

@@ -27,7 +27,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Think of your ICP as the search fund equivalent of a venture capital firm's investment thesis. Just as a VC fund might focus exclusively on "B2B SaaS companies in fintech with $2-10M ARR and 100%+ net revenue retention," your ICP should be specific enough to guide daily decision-making while remaining flexible enough to capture genuinely attractive opportunities.
+        Think of your ICP as the search fund equivalent of a venture capital firm&apos;s investment thesis. Just as a VC fund might focus exclusively on "B2B SaaS companies in fintech with $2-10M ARR and 100%+ net revenue retention," your ICP should be specific enough to guide daily decision-making while remaining flexible enough to capture genuinely attractive opportunities.
       </p>
 
       <p className={bodyClass}>
@@ -47,7 +47,11 @@ export default function IdealCompanyProfileArticle() {
       </ul>
 
       <p className={bodyClass}>
-        A well-crafted ICP becomes a living document that evolves as you gain market knowledge, but it should always provide clear guardrails for your search activities.
+        A well-crafted ICP becomes a living document that evolves as you gain market knowledge, but it should always provide clear guardrails for your search activities. Understanding what makes a{" "}
+        <Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">
+          good search fund acquisition target
+        </Link>{" "}
+        will help you calibrate your ICP against proven success criteria.
       </p>
 
       <h2 className={h2Class}>Why You Need a Written ICP Before Searching</h2>
@@ -321,7 +325,11 @@ export default function IdealCompanyProfileArticle() {
       </div>
 
       <p className={bodyClass}>
-        Customize this template to reflect your unique background, capital availability, investor preferences, and risk tolerance. Share it with mentors, investors, and advisors for feedback before finalizing.
+        Customize this template to reflect your unique background, capital availability, investor preferences, and risk tolerance. Share it with mentors, investors, and advisors for feedback before finalizing. Our{" "}
+        <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
+          guide to working with brokers
+        </Link>{" "}
+        covers how intermediaries use your ICP to match you with relevant opportunities.
       </p>
 
       <h2 className={h2Class}>How to Communicate Your ICP to Brokers and Advisors</h2>
@@ -407,7 +415,11 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Schedule quarterly ICP reviews with your investors or advisory board to formally assess whether adjustments are warranted based on accumulated evidence.
+        Schedule quarterly ICP reviews with your investors or advisory board to formally assess whether adjustments are warranted based on accumulated evidence. Our{" "}
+        <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+          deal sourcing strategies guide
+        </Link>{" "}
+        explains how to translate your ICP into an actionable outreach plan.
       </p>
 
       <h2 className={h2Class}>Common ICP Mistakes</h2>
@@ -540,6 +552,23 @@ export default function IdealCompanyProfileArticle() {
 
       <p className={bodyClass}>
         Your perfect ICP sits at the intersection of your capabilities, market availability, and investor preferences. Find that intersection, articulate it clearly, and your search will be dramatically more efficient and successful.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How many industries should your ICP include?</h3>
+      <p className={bodyClass}>
+        Most successful searchers target 3&ndash;5 tier-one industries where they have knowledge, network, or genuine interest, plus 2&ndash;3 tier-two industries they will evaluate on an inbound basis. Focusing on fewer than two industries creates deal flow risk, while chasing more than eight creates inefficiency and dilutes your credibility with brokers. The key is balancing focus with adequate opportunity volume&mdash;a good test is whether you can expect to see at least 5&ndash;10 relevant opportunities per month.
+      </p>
+
+      <h3 className={h3Class}>When should you revise your ICP during a search?</h3>
+      <p className={bodyClass}>
+        Plan for quarterly ICP reviews with your investors or advisory board. However, trigger an immediate review if you experience a sustained deal flow drought (fewer than 5 relevant opportunities per month for 3+ months), discover that your target sectors consistently trade at multiples above your financing capacity, or find that you are making exceptions for 40%+ of the businesses you evaluate. The biggest mistake is stubbornly refusing to adapt despite market evidence.
+      </p>
+
+      <h3 className={h3Class}>What is the most common ICP mistake new searchers make?</h3>
+      <p className={bodyClass}>
+        The most common mistake is creating a &ldquo;perfect business&rdquo; profile that describes a unicorn: recurring revenue, 30%+ EBITDA margins, zero customer concentration, fully delegated operations, and a motivated seller offering seller financing. This business does not exist at reasonable valuations. Every acquisition involves trade-offs. The second most common mistake is excessive geographic restriction&mdash;limiting yourself to a single metro area can reduce deal flow by 85&ndash;95%.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

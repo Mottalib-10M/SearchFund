@@ -28,7 +28,10 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The value proposition is straightforward: the ETA community is remarkably concentrated. A single conference can put you in front of 60% of active search fund investors, hundreds of fellow searchers at various stages, and brokers with off-market deal flow. The density of relevant connections per hour is unmatched by any other networking format.
+        The value proposition is straightforward: the ETA community is remarkably concentrated. A single conference can put you in front of 60% of active{" "}
+        <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
+          search fund investors
+        </Link>, hundreds of fellow searchers at various stages, and brokers with off-market deal flow. The density of relevant connections per hour is unmatched by any other networking format.
       </p>
 
       <p className={bodyClass}>
@@ -40,7 +43,10 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges—from hiring their first CFO to implementing ERP systems—provides invaluable support and pattern recognition.
+        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges &mdash; from hiring their first CFO to implementing{" "}
+        <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">
+          ERP systems
+        </Link>{" "}&mdash; provides invaluable support and pattern recognition.
       </p>
 
       <h2 className={h2Class}>The Big Three: Stanford, IESE, MIT</h2>
@@ -431,7 +437,44 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Budget for 2-3 major conferences annually plus local events. A typical budget might be: Stanford (essential), one regional or industry-specific conference, one European conference if relevant to your search, plus quarterly local meetups. Total annual cost including travel: $5,000-8,000.
+        Budget for 2-3 major conferences annually plus local events. A typical budget might be: Stanford (essential), one regional or industry-specific conference, one European conference if relevant to your search, plus quarterly local meetups. Total annual cost including travel: $5,000-8,000. Factor this into your{" "}
+        <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+          financial runway planning
+        </Link>.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What are the most important search fund conferences to attend?</h3>
+      <p className={bodyClass}>
+        The three flagship ETA conferences are the Stanford Search Fund
+        Conference (February, Palo Alto), the IESE International Search Fund
+        Conference (May/June, Barcelona), and the MIT Entrepreneurship
+        Conference (March, Cambridge). If you can only attend one event per
+        year, prioritize Stanford for its unmatched investor density.
+      </p>
+
+      <h3 className={h3Class}>How much does it cost to attend ETA conferences?</h3>
+      <p className={bodyClass}>
+        Registration fees range from $300&ndash;$600 per conference for
+        searchers, with student discounts often available. When you factor in
+        travel, accommodation, and meals, budget $1,500&ndash;$2,500 per
+        conference or $5,000&ndash;$8,000 annually for 2&ndash;3 major events
+        plus local meetups. Consider this a high-ROI investment &mdash; many
+        searchers trace their investor commitments and deal flow directly to
+        conference connections.
+      </p>
+
+      <h3 className={h3Class}>How should a first-time attendee prepare for a search fund conference?</h3>
+      <p className={bodyClass}>
+        Review the attendee list and identify 10&ndash;15 specific people you
+        want to meet. Prepare a 60-second elevator pitch covering your
+        background, search focus, and current status. Set concrete goals
+        (e.g., &ldquo;schedule follow-up calls with three investors&rdquo;).
+        Attend social events even if you are introverted &mdash; the dinners
+        and receptions are where the deepest relationships form. Follow up
+        within 48 hours with personalized emails referencing specific
+        conversation points.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

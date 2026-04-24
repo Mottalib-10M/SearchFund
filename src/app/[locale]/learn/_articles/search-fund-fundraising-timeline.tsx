@@ -59,7 +59,8 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Legal setup</h3>
         <p>
           Engage a search fund attorney to prepare entity formation documents,
-          subscription agreements, and regulatory filings. In the US this
+          subscription agreements, and regulatory filings. Familiarize yourself
+          with standard provisions by reading our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>. In the US this
           typically means forming an LLC and preparing a Regulation D exemption.
           In Europe the structure varies by country. Institutional investors will
           scrutinize your documents &mdash; sloppy legal drafting signals a lack
@@ -300,7 +301,7 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Consider structural adjustments</h3>
         <p>
           If you have exhausted your network and refined your materials but
-          still cannot close, consider alternatives: a self-funded search, a
+          still cannot close, consider alternatives: a <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link>, a
           co-searcher partnership, or reducing the target raise. The key is
           to adapt rather than persist with a broken approach.
         </p>
@@ -391,6 +392,48 @@ export default function SearchFundFundraisingTimelineArticle() {
           and <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">how to write a compelling PPM</Link>.
           Together with this timeline, they provide a complete playbook for
           raising your search capital with confidence.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          Can I start searching for deals while still fundraising?
+        </h3>
+        <p>
+          It is possible but not recommended. Fundraising and deal sourcing
+          are both full-time activities, and splitting your attention risks
+          doing both poorly. The exception is the period between first close
+          and final close: once you have 60 to 70 percent of capital committed,
+          you can begin light deal sourcing — scanning databases, building
+          broker relationships, and refining your pipeline — while still
+          filling remaining units. Formal LOIs should wait until the fund is
+          substantially closed.
+        </p>
+
+        <h3 className={h3Class}>
+          What if a key investor drops out after giving a verbal commitment?
+        </h3>
+        <p>
+          Verbal commitments are not legally binding, and a small percentage
+          of investors will pull back between commitment and wire. Mitigate
+          this by over-subscribing slightly (target 10 percent more than your
+          minimum raise) and keeping your pipeline active even after receiving
+          verbal commitments. If a key investor drops, reach out immediately
+          to your backup prospects and ask existing investors for referrals.
+          Speed is critical — a stalled fundraise can become a negative signal.
+        </p>
+
+        <h3 className={h3Class}>
+          Is it better to do one close or multiple closes?
+        </h3>
+        <p>
+          Multiple closes are standard practice and recommended. A first close
+          at 60 to 70 percent of target lets you begin drawing salary and
+          searching, which creates momentum. The final close captures remaining
+          commitments, often accelerated by the social proof of an active fund.
+          Some searchers add a third close to accommodate late-arriving
+          strategic investors identified during the search phase.
         </p>
       </div>
     </article>

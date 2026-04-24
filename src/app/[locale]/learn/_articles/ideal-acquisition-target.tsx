@@ -41,7 +41,11 @@ export default function IdealAcquisitionTargetArticle() {
       </p>
 
       <p className={bodyClass}>
-        The beauty of these targets is that they're often undervalued by larger private equity firms (too small) and overlooked by venture capital (not high-growth enough), creating a pricing inefficiency that search fund acquirers can exploit.
+        The beauty of these targets is that they're often undervalued by larger private equity firms (too small) and overlooked by venture capital (not high-growth enough), creating a pricing inefficiency that search fund acquirers can exploit. Our{" "}
+        <Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">
+          industry selection framework
+        </Link>{" "}
+        provides a structured approach for identifying the most attractive sectors.
       </p>
 
       <h2 className={h2Class}>Revenue and EBITDA: The Sweet Spot</h2>
@@ -234,7 +238,10 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        First-time CEOs should avoid turnarounds and distressed situations. Find a good business with growth opportunities—not a struggling business that needs saving.
+        First-time CEOs should avoid turnarounds and distressed situations. Find a good business with growth opportunities—not a struggling business that needs saving. For a deeper dive on building your target criteria, see our guide on{" "}
+        <Link href="/learn/ideal-company-profile" className="text-apple-accent hover:underline">
+          creating your Ideal Company Profile
+        </Link>.
       </p>
 
       <h2 className={h2Class}>Geographic Considerations</h2>
@@ -444,7 +451,11 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Use this framework as a starting point, then customize based on your priorities. An investor-backed searcher might weight growth potential more heavily; a self-funded searcher might prioritize stability and cash flow.
+        Use this framework as a starting point, then customize based on your priorities. An investor-backed searcher might weight growth potential more heavily; a self-funded searcher might prioritize stability and cash flow. The{" "}
+        <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+          due diligence checklist
+        </Link>{" "}
+        covers how to validate these scores once you move into the evaluation phase.
       </p>
 
       <h2 className={h2Class}>Industries That Consistently Meet These Criteria</h2>
@@ -550,6 +561,28 @@ export default function IdealAcquisitionTargetArticle() {
 
       <p className={bodyClass}>
         Focus on boring, profitable businesses in stable markets. The goal isn't to find the next unicorn—it's to acquire a great business you can run successfully for 5-10 years while building substantial value.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What size company should a search fund target?</h3>
+      <p className={bodyClass}>
+        The traditional search fund sweet spot is $5&ndash;30 million in enterprise value, with $1&ndash;5 million in EBITDA. Businesses below $5M often lack the infrastructure to support a professional CEO, while those above $30M attract well-capitalized private equity firms. Self-funded searchers typically target the lower end of this range ($5&ndash;15M), while traditional searchers with institutional backing can pursue larger targets up to $30M.
+      </p>
+
+      <h3 className={h3Class}>Why do search funds avoid high-growth tech companies?</h3>
+      <p className={bodyClass}>
+        Search funds prioritize predictable cash flows and proven business models over high-growth potential. Technology companies facing rapid change carry disruption risk that is difficult for a first-time CEO to manage. The ideal search fund target is a &ldquo;boring, profitable&rdquo; company in a stable industry&mdash;think HVAC services, specialty manufacturing, or B2B distribution&mdash;rather than a high-growth startup competing in a rapidly evolving market.
+      </p>
+
+      <h3 className={h3Class}>How important is recurring revenue in an acquisition target?</h3>
+      <p className={bodyClass}>
+        Recurring revenue is one of the most valued characteristics in a search fund target. Businesses with 60%+ contractual or quasi-recurring revenue provide stability during the critical ownership transition period and reduce pressure to immediately generate new business. Subscription models, maintenance contracts, and retainer agreements all qualify. Project-based businesses are not automatically disqualified, but they require proven sales processes and strong pipelines that can survive the transition.
+      </p>
+
+      <h3 className={h3Class}>What is the biggest risk in a search fund acquisition?</h3>
+      <p className={bodyClass}>
+        Owner dependency is the single biggest risk factor. A business that relies heavily on the departing owner for customer relationships, sales, technical knowledge, or key supplier terms can quickly deteriorate after the acquisition closes. During due diligence, rigorously assess whether the business can operate independently of the current owner by interviewing customers, employees, and suppliers separately.
       </p>
 
       <hr className="my-8 border-neutral-300" />

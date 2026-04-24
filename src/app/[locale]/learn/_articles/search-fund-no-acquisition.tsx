@@ -45,7 +45,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>1. Deal Flow Challenges</h3>
 
       <p className={bodyClass}>
-        Many searchers struggle to generate sufficient quality deal flow. Despite contacting hundreds or thousands of business owners, finding businesses that meet search fund criteria (stable cash flow, growth potential, motivated seller, reasonable valuation) proves more difficult than anticipated. Competitive markets, broker concentration, and the general opacity of the lower middle market all contribute to deal flow challenges.
+        Many searchers struggle to generate sufficient quality deal flow. Despite contacting hundreds or thousands of business owners, finding businesses that meet search fund criteria (stable cash flow, growth potential, motivated seller, reasonable valuation) proves more difficult than anticipated. Competitive markets, broker concentration, and the general opacity of the lower middle market all contribute to deal flow challenges. Building a <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">proprietary deal sourcing strategy</Link> before launching can significantly improve your odds.
       </p>
 
       <h3 className={h3Class}>2. Inability to Close Deals</h3>
@@ -65,7 +65,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>3. Searcher Burnout and Personal Circumstances</h3>
 
       <p className={bodyClass}>
-        The search process is grueling, often lasting 18-24 months or longer. The psychological toll of constant rejection, financial stress from living on a modest stipend, and personal life disruptions (relationship strain, family considerations, opportunity costs) lead some searchers to abandon the search before finding a company.
+        The search process is grueling, often lasting 18-24 months or longer. The psychological toll of constant rejection, financial stress from living on a modest stipend, and personal life disruptions (relationship strain, family considerations, opportunity costs) lead some searchers to abandon the search before finding a company. Understanding <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">the psychology of being a searcher</Link> and building resilience practices early can help prevent burnout.
       </p>
 
       <h3 className={h3Class}>4. Market Timing and Economic Conditions</h3>
@@ -357,7 +357,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>Joining an Independent Sponsor or Search Firm</h3>
 
       <p className={bodyClass}>
-        Rather than searching solo, some unsuccessful searchers join established search firms or independent sponsor platforms, benefiting from existing infrastructure, deal flow, and investor relationships while pursuing acquisitions.
+        Rather than searching solo, some unsuccessful searchers join established search firms or independent sponsor platforms, benefiting from existing infrastructure, deal flow, and investor relationships while pursuing acquisitions. For a comparison of these alternative models, see <Link href="/learn/eta-vs-independent-sponsor" className="text-apple-accent hover:underline">ETA vs. independent sponsors</Link>.
       </p>
 
       <h3 className={h3Class}>Smaller or Self-Funded Acquisition</h3>
@@ -430,6 +430,26 @@ export default function SearchFundNoAcquisitionArticle() {
 
       <p className={bodyClass}>
         Ultimately, the search fund model&apos;s transparency about failure rates is a strength, not a weakness. It sets realistic expectations, encourages thoughtful decision-making, and ensures that those who pursue this path do so with full awareness of the risks and rewards. Whether a search ends in acquisition or wind-down, the experience shapes careers and creates value—even if that value isn&apos;t always captured in a single transaction.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Do searchers owe money back to investors if the search fails?</h3>
+
+      <p className={bodyClass}>
+        No. In a traditional search fund, the search capital is structured as an investment, not a loan. If no acquisition is completed, the capital that has been spent on salary, travel, and operating expenses is not repaid. Investors understand this risk going in and factor it into their portfolio approach. Any remaining unspent capital is typically returned to investors during the wind-down process.
+      </p>
+
+      <h3 className={h3Class}>How long should I search before calling it quits?</h3>
+
+      <p className={bodyClass}>
+        Most industry practitioners consider 24 months a reasonable search period. After two years without an acquisition, the probability of success decreases substantially and the opportunity cost becomes increasingly difficult to justify. However, this is not a hard rule. If you have strong deal flow and viable prospects in the pipeline, extending beyond 24 months with investor support can be worthwhile. Conversely, if you have depleted your pipeline and motivation after 18 months, an earlier wind-down may be the right choice.
+      </p>
+
+      <h3 className={h3Class}>Can I try a second search after a failed first attempt?</h3>
+
+      <p className={bodyClass}>
+        Yes, though it is relatively uncommon. A small percentage of searchers launch second searches armed with lessons from their first attempt. Second-time searchers often have higher success rates because they enter with better deal sourcing strategies, more realistic expectations, and stronger investor relationships. The key is honest reflection on why the first search failed and demonstrating to investors that you have addressed those issues.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

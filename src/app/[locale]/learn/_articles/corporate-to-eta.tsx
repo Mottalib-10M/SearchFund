@@ -23,7 +23,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea—you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business.
+        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea—you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business. Understanding the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link> can help you assess whether your profile is a strong fit.
       </p>
 
       <p className={bodyClass}>
@@ -98,7 +98,7 @@ export default function CorporateToETAArticle() {
       </ul>
 
       <p className={bodyClass}>
-        If you're raising a traditional search fund, your investors will typically provide a search salary of $75,000-$150,000 annually for 18-24 months. However, you'll need runway to bridge from leaving corporate to closing your fund, and to cover any shortfall between the search salary and your actual costs.
+        If you're raising a traditional search fund, your investors will typically provide a search salary of $75,000-$150,000 annually for 18-24 months. However, you'll need runway to bridge from leaving corporate to closing your fund, and to cover any shortfall between the search salary and your actual costs. For a deeper look at compensation benchmarks, see our guide on <Link href="/learn/search-fund-salary" className="text-apple-accent hover:underline">search fund salary and compensation</Link>.
       </p>
 
       <h3 className={h3Class}>Eliminate High-Interest Debt</h3>
@@ -140,7 +140,7 @@ export default function CorporateToETAArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These approaches can extend your runway but may also slow your search momentum and signal to investors that you're not fully committed.
+        These approaches can extend your runway but may also slow your search momentum and signal to investors that you're not fully committed. You can learn more about the tradeoffs in our comparison of <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional search funds</Link>.
       </p>
 
       <h2 className={h2Class}>Timing: Best and Worst Career Stages</h2>
@@ -501,6 +501,32 @@ export default function CorporateToETAArticle() {
 
       <p className={bodyClass}>
         The sticker shock of paying full freight for health insurance surprises many former corporate employees. Budget $500-$2,000+ per month depending on family size and coverage level. Factor this into your runway calculations.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How much savings do I need before leaving corporate for ETA?</h3>
+
+      <p className={bodyClass}>
+        Most successful searchers recommend having 12-24 months of living expenses saved before transitioning. This should cover your actual living costs including housing, healthcare (which will be significantly more expensive without corporate coverage), family expenses, and a 20% buffer for unexpected costs. If you plan to raise a traditional search fund, you will receive a search salary of $75,000-$150,000, but you still need savings to bridge the gap between leaving your job and closing your fund.
+      </p>
+
+      <h3 className={h3Class}>Can I search part-time while still employed?</h3>
+
+      <p className={bodyClass}>
+        While some self-funded searchers begin their search part-time, most investors and experienced searchers advise against it for traditional funded searches. Part-time searching signals a lack of commitment to investors and significantly slows your deal sourcing momentum. A better approach is to spend 6-12 months preparing while employed, building your network, developing your thesis, and saving aggressively, then committing full-time when you launch.
+      </p>
+
+      <h3 className={h3Class}>What if my ETA search fails and I need to return to corporate?</h3>
+
+      <p className={bodyClass}>
+        The good news is that most former searchers who return to the corporate world land well. The skills developed during a search, including deal evaluation, financial analysis, negotiation, and entrepreneurial initiative, are highly valued by employers. Many end up in corporate development, private equity, or operating roles at a higher level than they left. The key is framing the experience positively: emphasize the skills gained and the calculated risk you took rather than positioning it as a failure.
+      </p>
+
+      <h3 className={h3Class}>Do I need an MBA to pursue ETA?</h3>
+
+      <p className={bodyClass}>
+        An MBA is not strictly required, especially for self-funded searches. However, approximately 95% of traditional search fund entrepreneurs hold MBAs from top programs. The MBA provides access to investor networks, peer searcher communities, and credibility with institutional investors. If you do not have an MBA, self-funded search or independent sponsorship models may be more accessible paths to entrepreneurship through acquisition.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

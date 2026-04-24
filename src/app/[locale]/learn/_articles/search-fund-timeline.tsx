@@ -208,12 +208,62 @@ export default function SearchFundTimelineArticle() {
 
         <h2 className={h2Class}>Self-funded search timeline</h2>
         <ul className={ulClass}>
-          <li><strong>No fundraise phase:</strong> Skip directly to search. Saves 3&ndash;6 months</li>
+          <li><strong>No fundraise phase:</strong> Skip directly to search. Saves 3&ndash;6 months. See our{" "}
+            <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+              financial runway planning
+            </Link>{" "}guide</li>
           <li><strong>Faster search:</strong> 12&ndash;18 months vs. 18&ndash;24 (more flexible criteria, SBA-friendly targets)</li>
           <li><strong>Same deal execution:</strong> 3&ndash;6 months LOI to close</li>
           <li><strong>Flexible hold period:</strong> No investor timeline pressure. Hold indefinitely or exit when ready</li>
           <li><strong>Total:</strong> 5&ndash;8+ years from search start to exit</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long does it take to find a business to buy?</h3>
+        <p>
+          The median search duration is 21 months for traditional search funds
+          and 12&ndash;18 months for self-funded searches, according to the
+          Stanford 2024 Search Fund Study. The optimal window is 12&ndash;24
+          months &mdash; searchers who acquire in this range have the best
+          outcomes. After 24 months, investor patience wanes and capital runs
+          low. About 25% of traditional searchers never close a deal.
+        </p>
+
+        <h3 className={h3Class}>How long does a search fund take from start to exit?</h3>
+        <p>
+          Total timeline is 7&ndash;10 years: fundraise (3&ndash;6 months),
+          search (18&ndash;24 months), deal execution (3&ndash;6 months),
+          operations and growth (5&ndash;7 years), and exit process
+          (6&ndash;12 months). The median hold period is 6.2 years according
+          to Stanford data, with investors earning 33% gross IRR and 6.9x ROI.
+        </p>
+
+        <h3 className={h3Class}>What happens if I don&rsquo;t find a business in time?</h3>
+        <p>
+          If a traditional searcher exhausts the two-year search window without
+          closing a deal, investors typically wind down the fund. The searcher
+          receives no equity and must pursue other career options. Self-funded
+          searchers face no investor deadline but must manage personal financial
+          runway. Approximately one in four traditional searches end without an
+          acquisition. See{" "}
+          <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">
+            what happens when a search fund doesn&rsquo;t acquire
+          </Link>{" "}
+          for more detail.
+        </p>
+
+        <h3 className={h3Class}>Is a self-funded search faster than a traditional search fund?</h3>
+        <p>
+          Generally yes. Self-funded searchers skip the 3&ndash;6 month
+          fundraise phase entirely, and their median search duration is
+          12&ndash;18 months versus 21 months for traditional searchers.
+          However, self-funded searches target smaller businesses and use{" "}
+          <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
+            SBA financing
+          </Link>, which has its own timeline requirements during the closing
+          phase.
+        </p>
 
         <p>
           For the complete framework, see{" "}

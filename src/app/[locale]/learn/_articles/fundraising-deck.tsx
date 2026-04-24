@@ -15,6 +15,8 @@ export default function FundraisingDeckArticle() {
           &mdash; it frames the conversation during investor meetings and leaves
           a lasting impression. A great deck does not replace the PPM; it
           complements it by making your case concise, visual, and memorable.
+          If you are still refining your acquisition thesis, review our guide
+          to <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">building a search fund thesis</Link> first.
         </p>
 
         <h2 className={h2Class}>Deck vs. PPM: How they work together</h2>
@@ -326,7 +328,7 @@ export default function FundraisingDeckArticle() {
         <h3 className={h3Class}>Timeline to close the raise</h3>
         <p>
           Most search fund raises take three to six months from the first
-          investor meeting to the final close. Plan your fundraising
+          investor meeting to the final close — see our detailed <Link href="/learn/search-fund-fundraising-timeline" className="text-apple-accent hover:underline">fundraising timeline</Link> for a week-by-week breakdown. Plan your fundraising
           calendar accordingly. Start by identifying 40 to 60 target
           investors and prioritize them into tiers based on likelihood
           and check size. Schedule meetings in waves: begin with investors
@@ -339,6 +341,48 @@ export default function FundraisingDeckArticle() {
           your target, the remaining capital typically comes together
           quickly as later investors gain confidence from the social proof
           of earlier backers.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          Should I hire a designer for my search fund fundraising deck?
+        </h3>
+        <p>
+          It depends on your design skills. A clean, professional deck built in
+          PowerPoint or Google Slides with consistent fonts, a limited color
+          palette, and ample white space is sufficient. Many successful
+          searchers create their own decks. However, if design is not your
+          strength, spending $500&ndash;$1,000 on a freelance designer to
+          polish the layout can be a worthwhile investment — first impressions
+          matter, and a polished deck signals attention to detail.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I tailor the deck for European vs. US investors?
+        </h3>
+        <p>
+          European investors tend to value sector specificity and language
+          capabilities more heavily, so emphasize your geographic thesis and
+          any language skills on the relevant slides. US investors, particularly
+          institutional search fund investors, are more familiar with the
+          standard model and focus on your background and deal criteria. Prepare
+          a base deck and create variants that adjust the opportunity slide,
+          data references (Stanford for US, IESE for Europe), and currency
+          examples to match each audience.
+        </p>
+
+        <h3 className={h3Class}>
+          Can I use the same deck for both the search raise and the acquisition raise?
+        </h3>
+        <p>
+          No. The search-phase deck pitches you as a person and your thesis.
+          The acquisition deck pitches a specific company — its financials,
+          market position, growth plan, and deal economics. You will need to
+          build an entirely new deck when you present a deal to your investor
+          syndicate for acquisition capital. The search deck becomes obsolete
+          once you enter the active search phase.
         </p>
       </div>
     </article>

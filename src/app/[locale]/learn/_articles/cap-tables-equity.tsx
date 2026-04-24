@@ -14,6 +14,8 @@ export default function CapTablesEquityArticle() {
           the search, acquisition, and operating phases. This guide breaks down
           the traditional search fund cap table, explains the step-up mechanism,
           walks through a worked example, and compares economics across fund models.
+          If you are still exploring whether ETA is the right path, start with
+          our <Link href="/learn/is-eta-right-for-you" className="text-apple-accent hover:underline">ETA self-assessment</Link>.
         </p>
 
         <h2 className={h2Class}>How equity works in a traditional search fund</h2>
@@ -39,7 +41,8 @@ export default function CapTablesEquityArticle() {
           acquisition equity at a step-up, typically 1.5x. This means that for
           every &euro;1 of search capital invested, the investor receives &euro;1.50
           worth of acquisition equity. The step-up compensates search investors
-          for the higher risk of funding the pre-deal search phase. In some
+          for the higher risk of funding the pre-deal search phase. For a full
+          breakdown of how the step-up is documented, see our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>. In some
           structures, the step-up is 2.0x, especially in competitive fundraising
           environments.
         </p>
@@ -446,6 +449,51 @@ export default function CapTablesEquityArticle() {
           <li>Always model dilution scenarios before committing to a deal structure &mdash; what looks like 25% equity can shrink quickly with additional financing layers.</li>
           <li>Cap table transparency builds investor trust. Share your models early and update them as the deal evolves.</li>
         </ul>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is the difference between fully diluted and basic ownership in a search fund?
+        </h3>
+        <p>
+          Basic ownership counts only the shares currently issued and
+          outstanding. Fully diluted ownership includes all shares that could
+          be issued — including unvested searcher equity tranches, the
+          management option pool, and any convertible instruments. Investors
+          always think in fully diluted terms because it reflects the true
+          economic picture. When discussing your cap table with investors,
+          always present fully diluted numbers to avoid confusion and build
+          trust.
+        </p>
+
+        <h3 className={h3Class}>
+          How does seller rollover equity affect the cap table?
+        </h3>
+        <p>
+          When a seller retains a stake in the business post-acquisition —
+          typically 10 to 20 percent — that equity comes from the total
+          equity pool and dilutes both the searcher and the investors
+          proportionally. For example, if a seller rolls over 15 percent,
+          the searcher&apos;s 25 percent becomes approximately 21 percent
+          and investors&apos; 75 percent becomes approximately 64 percent
+          on a fully diluted basis. Seller rollover can be a positive signal
+          of confidence, but the dilution impact must be modeled and
+          discussed with your investor syndicate before signing the LOI.
+        </p>
+
+        <h3 className={h3Class}>
+          Should I use a cap table management tool during the search phase?
+        </h3>
+        <p>
+          During the search phase, a well-built Excel or Google Sheets model
+          is sufficient. You have a simple structure — search units and
+          investors — and the primary use is scenario modeling. After the
+          acquisition closes, transition to a dedicated platform like Carta,
+          Pulley, or Ledgy. These tools manage multiple equity classes,
+          automate vesting schedules, generate legal certificates, and give
+          all shareholders a self-service portal to view their ownership.
+        </p>
       </div>
     </article>
   );

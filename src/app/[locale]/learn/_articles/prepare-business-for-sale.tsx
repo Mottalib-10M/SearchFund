@@ -124,7 +124,58 @@ export default function PrepareBusinessForSaleArticle() {
           and the{" "}
           <Link href="/learn/seller-psychology" className="text-apple-accent hover:underline">
             emotional journey of selling
-          </Link>, see our seller guides.
+          </Link>, see our seller guides. You may also find our{" "}
+          <Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">
+            5-year succession planning roadmap
+          </Link>{" "}
+          and{" "}
+          <Link href="/learn/tax-planning-sellers" className="text-apple-accent hover:underline">
+            tax planning strategies for sellers
+          </Link>{" "}
+          helpful for the broader exit process.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much can proper preparation increase my selling price?</h3>
+        <p>
+          Well-prepared businesses typically sell for 20&ndash;40% more than
+          comparable unprepared businesses. The biggest value drivers are
+          reducing owner dependence (which can add 1&ndash;2x to your EBITDA
+          multiple), cleaning financials to eliminate buyer uncertainty, and
+          locking in recurring revenue contracts. A business with $1M EBITDA
+          that increases its multiple from 4x to 5.5x through preparation
+          adds $1.5M in enterprise value.
+        </p>
+
+        <h3 className={h3Class}>Should I hire a broker or sell the business myself?</h3>
+        <p>
+          For most businesses under $10M in enterprise value, a broker or
+          M&amp;A advisor is worth the 8&ndash;12% success fee. They bring
+          a network of qualified buyers, run a competitive process, manage
+          confidentiality, and handle the enormous administrative burden
+          of marketing, screening, and negotiation. Selling directly is
+          viable only if you already have an identified buyer (e.g., a
+          strategic acquirer or{" "}
+          <Link href="/learn/selling-to-search-fund" className="text-apple-accent hover:underline">
+            search fund
+          </Link>{" "}
+          operator you know personally).
+        </p>
+
+        <h3 className={h3Class}>What documents do I need for due diligence?</h3>
+        <p>
+          At minimum: 3 years of tax returns, monthly P&amp;L statements
+          and balance sheets, a trailing-12-month financial summary,
+          customer and revenue concentration analysis, employee roster
+          with compensation details, all material contracts (leases,
+          customer agreements, vendor agreements), insurance policies,
+          and any pending or historical legal matters. Having a well-organized{" "}
+          <Link href="/learn/seller-data-room" className="text-apple-accent hover:underline">
+            virtual data room
+          </Link>{" "}
+          ready before going to market accelerates the process and signals
+          professionalism to buyers.
         </p>
       </div>
     </article>

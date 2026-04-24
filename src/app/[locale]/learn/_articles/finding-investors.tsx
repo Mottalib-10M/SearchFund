@@ -189,7 +189,8 @@ export default function FindingInvestorsArticle() {
         <h2 className={h2Class}>The investor pitch process</h2>
         <p>
           Understanding the typical fundraising process helps you manage
-          timelines and expectations. Most searchers go through the following
+          timelines and expectations. For a week-by-week breakdown, consult
+          our <Link href="/learn/search-fund-fundraising-timeline" className="text-apple-accent hover:underline">fundraising timeline guide</Link>. Most searchers go through the following
           stages with each investor.
         </p>
 
@@ -245,7 +246,7 @@ export default function FindingInvestorsArticle() {
           <li><strong>Unit size:</strong> Typically $50,000 to $100,000 per unit, though some funds have units as small as $25,000 for angel investors.</li>
           <li><strong>Number of investors:</strong> Most traditional search funds have 15 to 20 investors to ensure a diverse cap table while keeping the number manageable.</li>
           <li><strong>Search budget:</strong> The total raise usually covers two years of salary, health insurance, travel, professional fees, and deal expenses — typically $400,000 to $600,000.</li>
-          <li><strong>Step-up at acquisition:</strong> Search investors&apos; capital converts into equity at a 1.5x step-up at the time of acquisition, compensating them for the risk of funding an unfunded search.</li>
+          <li><strong>Step-up at acquisition:</strong> Search investors&apos; capital converts into equity at a 1.5x step-up at the time of acquisition, compensating them for the risk of funding an unfunded search. For a full breakdown of this mechanism, see our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>.</li>
           <li><strong>Pro-rata rights:</strong> Investors have the right (but not the obligation) to invest their pro-rata share in the acquisition. This is the primary economic incentive — the search capital itself is a relatively small investment to gain access to the deal.</li>
           <li><strong>Searcher equity:</strong> The searcher typically earns 20-30% of the acquired company&apos;s equity, vesting over 4-5 years, contingent on acquisition and continued employment.</li>
           <li><strong>Board seats:</strong> Investors typically elect a small board of directors (3-5 members), with the searcher serving as CEO and an investor representative serving as board chair.</li>
@@ -338,6 +339,49 @@ export default function FindingInvestorsArticle() {
           your investors are already familiar with the opportunity and can
           make quick commitments — a critical advantage in competitive
           situations where seller timelines are tight.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much should I expect to raise in search capital?
+        </h3>
+        <p>
+          Traditional search funds typically raise $400,000 to $600,000 in
+          search capital from 15 to 20 investors. The amount varies based on
+          geography, cost of living, and expected search duration. US-based
+          searchers in high-cost cities tend toward the higher end; European
+          searchers may raise less due to lower operating costs. The capital
+          covers 18 to 24 months of salary, travel, professional fees, and deal
+          expenses.
+        </p>
+
+        <h3 className={h3Class}>
+          Should I approach institutional investors or individuals first?
+        </h3>
+        <p>
+          Start with institutional search fund investors and well-known
+          ex-searchers. Their early commitments provide credibility and signal
+          quality to later prospects. Institutional investors also move faster —
+          they understand the model and can make decisions in two to three weeks.
+          Once you have two or three institutional commitments, approaching
+          individual investors and family offices becomes significantly easier
+          because of the social proof.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens if I cannot raise enough search capital?
+        </h3>
+        <p>
+          If you cannot close your target raise after 12 to 16 weeks of active
+          fundraising, consider alternatives: reduce the target amount and
+          shorten the search timeline, pivot to a <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link> model,
+          find a co-searcher to strengthen the pitch, or revisit your thesis
+          based on investor feedback. The key is to diagnose whether the issue
+          is pipeline (not enough meetings), pitch (not converting meetings to
+          commitments), or thesis (investors do not find the opportunity
+          compelling).
         </p>
       </div>
     </article>

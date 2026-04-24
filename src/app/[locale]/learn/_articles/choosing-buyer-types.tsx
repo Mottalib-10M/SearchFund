@@ -23,6 +23,16 @@ export default function ChoosingBuyerTypesArticle() {
           more options but making the buyer-type decision more complex.
         </p>
 
+        <p>
+          Understanding the differences between{" "}
+          <Link href="/learn/strategic-vs-financial-sale" className="text-apple-accent hover:underline">
+            strategic and financial buyers
+          </Link>{" "}
+          is a critical first step. Each buyer type has a different investment
+          thesis, hold period, and post-acquisition playbook, and these
+          differences directly affect the seller experience.
+        </p>
+
         <h2 className={h2Class}>Search fund buyers</h2>
         <ul className={ulClass}>
           <li><strong>Who they are:</strong> Individual entrepreneurs (often MBA graduates) backed by committed investors. They buy one business and operate it as CEO</li>
@@ -68,6 +78,18 @@ export default function ChoosingBuyerTypesArticle() {
           <li><strong>Pros:</strong> May offer the most personal attention, willing to learn from you</li>
           <li><strong>Cons:</strong> Financing uncertainty is the biggest risk. Many individual buyers cannot close because they fail to secure financing. Deal certainty is the lowest of all buyer types</li>
         </ul>
+
+        <p>
+          For a deeper look at how{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
+            business valuation
+          </Link>{" "}
+          varies by buyer type and how to run a competitive process, see our
+          dedicated guides on{" "}
+          <Link href="/learn/negotiation-tactics-sellers" className="text-apple-accent hover:underline">
+            negotiation tactics for sellers
+          </Link>.
+        </p>
 
         <h2 className={h2Class}>Decision framework: which buyer is right for you?</h2>
 

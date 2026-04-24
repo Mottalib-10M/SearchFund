@@ -19,7 +19,11 @@ export default function ETAWithoutMBAArticle() {
         </p>
 
         <p>
-          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and leveraged that experience to acquire and operate businesses. As the search fund ecosystem matures and diversifies, alternative paths into ETA are not just possible—they're becoming increasingly common and, in some cases, advantageous.
+          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and leveraged that experience to acquire and operate businesses. As the{" "}
+          <Link href="/learn/search-fund-history" className="text-apple-accent hover:underline">
+            search fund ecosystem
+          </Link>{" "}
+          matures and diversifies, alternative paths into ETA are not just possible &mdash; they're becoming increasingly common and, in some cases, advantageous.
         </p>
 
         <p>
@@ -105,7 +109,10 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Many self-funded searchers also structure deals with significant seller financing or earnouts, reducing the amount of investor capital needed and making fundraising more feasible without traditional networks. Some complete acquisitions with entirely personal capital, SBA loans, and seller notes, eliminating investor fundraising altogether.
+            Many self-funded searchers also structure deals with significant{" "}
+            <Link href="/learn/creative-financing" className="text-apple-accent hover:underline">
+              seller financing or earnouts
+            </Link>, reducing the amount of investor capital needed and making fundraising more feasible without traditional networks. Some complete acquisitions with entirely personal capital, SBA loans, and seller notes, eliminating investor fundraising altogether.
           </p>
         </div>
       </section>
@@ -151,7 +158,10 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Search fund conferences and accelerators provide concentrated networking opportunities. Events like the International Search Fund Summit, the Entrepreneurship Through Acquisition Summit, and regional ETA gatherings attract active search fund investors. Attending these events, presenting your search thesis, and building relationships can replicate the network benefits of business school.
+            <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
+              Search fund conferences
+            </Link>{" "}
+            and accelerators provide concentrated networking opportunities. Events like the International Search Fund Summit, the Entrepreneurship Through Acquisition Summit, and regional ETA gatherings attract active search fund investors. Attending these events, presenting your search thesis, and building relationships can replicate the network benefits of business school.
           </p>
 
           <p>
@@ -436,6 +446,48 @@ export default function ETAWithoutMBAArticle() {
 
           <p>
             Remember that the goal isn't to prove that MBAs are unnecessary—it's to demonstrate that multiple paths exist into ETA, and industry expertise combined with intentional skill-building and networking can be equally or more effective than business school credentials. The search fund ecosystem is becoming more diverse and meritocratic, creating opportunities for those willing to forge their own paths.
+          </p>
+        </div>
+      </section>
+
+      <section className="mt-12">
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+        <div className={bodyClass}>
+          <h3 className={h3Class}>Can you do a search fund without an MBA?</h3>
+          <p>
+            Yes. While roughly 70% of traditional searchers have MBAs, the
+            self-funded search model is particularly well-suited for non-MBA
+            professionals. Industry expertise (5&ndash;10+ years in a target
+            sector), operational experience, and personal savings or{" "}
+            <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
+              SBA financing
+            </Link>{" "}
+            can replace the MBA advantage. ETA accelerators also provide
+            structured curriculum and investor introductions outside of business
+            school.
+          </p>
+
+          <h3 className={h3Class}>How do non-MBA searchers raise capital?</h3>
+          <p>
+            Non-MBA searchers typically take one of four approaches: (1)
+            self-fund the search using personal savings, (2) use SBA 7(a) loans
+            for acquisition financing so no investor equity is needed, (3) build
+            investor relationships through{" "}
+            <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
+              ETA conferences
+            </Link>, accelerators, and direct outreach, or (4) leverage deep
+            industry expertise to attract investors who value domain knowledge
+            over school brand.
+          </p>
+
+          <h3 className={h3Class}>What industries are best for non-MBA searchers?</h3>
+          <p>
+            Industries where operational or technical expertise matters more
+            than generalist business skills tend to favour non-MBA searchers.
+            Healthcare, specialized manufacturing, software, and professional
+            services all reward deep domain knowledge. A 15-year healthcare
+            veteran evaluating a medical practice acquisition has a credibility
+            advantage over an MBA generalist, regardless of school pedigree.
           </p>
         </div>
       </section>

@@ -107,7 +107,53 @@ export default function TaxPlanningSellersArticle() {
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax optimization strategies
           </Link>{" "}
-          for buyers, see our related guides.
+          for buyers, see our related guides. You should also read our{" "}
+          <Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">
+            succession planning roadmap
+          </Link>{" "}
+          and{" "}
+          <Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">
+            business sale preparation guide
+          </Link>{" "}
+          to align tax planning with your broader exit strategy.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How far in advance should I start tax planning before selling my business?</h3>
+        <p>
+          Ideally 18&ndash;24 months, though some strategies require even
+          longer. QSBS (Section 1202) requires a 5-year holding period in
+          a C-Corp. The French Dutreil pact requires a 2-year collective
+          commitment before transfer. Entity restructuring (e.g., converting
+          from an S-Corp to a C-Corp) also takes time and may have tax
+          consequences of its own. The earlier you start, the more tools are
+          available.
+        </p>
+
+        <h3 className={h3Class}>Is an asset sale or stock sale better for the seller?</h3>
+        <p>
+          In most cases, sellers prefer a stock sale because it is taxed
+          entirely at the lower capital gains rate. Asset sales can trigger
+          double taxation for C-Corp sellers and often result in a portion
+          of the gain being taxed as ordinary income (due to depreciation
+          recapture). However, buyers strongly prefer asset sales for the
+          tax step-up, so the negotiation often involves the buyer paying
+          a higher purchase price to compensate the seller for the
+          additional tax burden.
+        </p>
+
+        <h3 className={h3Class}>Can seller financing reduce my tax bill?</h3>
+        <p>
+          Yes. Under Section 453 (installment sale rules in the US), you
+          report and pay tax on the gain proportionally as you receive
+          payments, rather than all at once. This can keep your income in
+          lower tax brackets each year, reducing your effective rate.{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
+            Seller financing
+          </Link>{" "}
+          also makes your business more attractive to buyers, potentially
+          resulting in a higher overall sale price.
         </p>
       </div>
     </article>

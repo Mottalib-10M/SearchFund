@@ -280,9 +280,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "20% equity vs. 80%. Lower risk vs. more control. Compare the economics and trade-offs of both search fund models.",
     datePublished: "2024-03-28",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", year: 2023 },
     ],
     faqs: [
       { question: "What is the difference between a self-funded and traditional search fund?", answer: "In a traditional search fund, investors provide $400K–$600K to fund the search, and the searcher receives 20–25% equity. In a self-funded search, the entrepreneur funds the search personally and retains 50–80% equity but bears all financial risk." },
@@ -823,10 +825,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Define your acquisition criteria across 8 dimensions: financials, industry, geography, business model, customers, seller motivation, operations, and growth potential.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "SearchFunder", title: "Search Fund Best Practices Survey", year: 2023 },
+      { name: "McKinsey & Company", title: "M&A Practitioner's Guide to Acquisition Screening", year: 2023 },
     ],
     faqs: [
       { question: "What should I look for when buying a business?", answer: "Define 8 criteria: financial profile ($750K–$5M EBITDA, 15%+ margins), industry (fragmented, recurring revenue), geography, business model (B2B preferred), customer profile (no customer >15% of revenue), seller motivation (retirement ideal), operations (strong #2 leader), and growth potential (pricing, add-ons, digital)." },
@@ -845,10 +848,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Without planning, you'll lose 25–45% to taxes. With 18–24 months of preparation, many sellers pay 10–20% or even 0%. QSBS, installment sales, holding structures, and more.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IRS", title: "Section 1202 QSBS Guidance", year: 2024 },
       { name: "HMRC", title: "Business Asset Disposal Relief", year: 2024 },
+      { name: "Bundesministerium der Finanzen", title: "Teileinkünfteverfahren — Partial Income Method", year: 2024 },
     ],
     faqs: [
       { question: "How can I avoid paying capital gains tax when selling my business?", answer: "In the US, QSBS (Section 1202) allows up to $10M tax-free on qualifying C-Corp stock held 5+ years. In France, the retirement exemption provides full CGT exemption for sellers 60+ selling businesses under €500K. In the UK, BADR reduces the rate to 10% on the first £1M. All require advance planning." },
@@ -867,10 +871,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "70% of businesses listed for sale never find a buyer. Start succession planning 3–5 years early to maximize value, minimize taxes, and protect employees.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
       { name: "BEI", title: "Business Exit Research", year: 2024 },
+      { name: "PwC", title: "Global Family Business Survey: Succession Planning", url: "https://www.pwc.com/gx/en/family-business-survey.html", year: 2023 },
     ],
     faqs: [
       { question: "When should I start planning to sell my business?", answer: "Start 3–5 years before your target exit date. The first 2 years focus on building transferable value (management team, documented processes, diversified customers). Years 2–3 optimize operations and financials. The final 1–2 years prepare the business for market and execute the sale." },
@@ -889,10 +894,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "The difference between a premium sale and a failed listing is preparation. Follow this 18–24 month roadmap to reduce owner dependence, clean financials, and maximize value.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBBA", title: "Business Reference Guide", year: 2024 },
       { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
+      { name: "Deloitte", title: "M&A Trends: Selling a Privately Held Business", url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html", year: 2024 },
     ],
     faqs: [
       { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18–24 months of preparation before going to market. The first 6 months focus on building a management team and reducing owner dependence. Months 6–12 focus on cleaning financials and documenting processes. Months 12–18 package the business for market. The sale process itself takes 6–9 months." },
@@ -911,10 +917,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Search funds prioritize legacy and employees. PE pays higher multiples. Strategics offer synergy premiums. Compare all four buyer types and choose based on your priorities.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
+      { name: "PitchBook", title: "Annual US PE Middle Market Report", year: 2024 },
     ],
     faqs: [
       { question: "Who pays the most for a small business?", answer: "Strategic acquirers often pay the highest multiples (4–10x EBITDA) because they can realize cost savings and revenue synergies. PE firms pay 5–8x for larger businesses ($5M+ EBITDA). Search funds pay 4–6x but offer better terms for employee protection and legacy continuity." },
@@ -987,9 +994,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Fundraise in 3–6 months, search for 18–24 months, close in 3–6 months, operate for 5–7 years, exit in 6–12 months. The complete search fund timeline with milestones and Stanford data.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Search Fund Accelerator", title: "Self-Funded Search Benchmarking Report", year: 2025 },
     ],
     faqs: [
       { question: "How long does it take to find a business to buy?", answer: "The median search duration is 21 months for traditional search funds and 12–18 months for self-funded searches. The optimal window is 12–24 months — searchers who acquire in this range have the best outcomes. After 24 months, investor patience wanes and capital runs low. About 25% of traditional searchers never close a deal." },
@@ -1080,10 +1089,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Stanford, HBS, Booth, INSEAD, IESE — how top MBA programs produce search fund entrepreneurs and why the ETA club advantage matters for fundraising.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Rock Center for Entrepreneurship — Search Fund Resources", year: 2024 },
     ],
     faqs: [
       { question: "Which MBA programs are best for search funds?", answer: "The top MBA programs for ETA include Stanford GSB (pioneered the model in 1984), Harvard Business School, Chicago Booth, Wharton, Kellogg, INSEAD, and IESE. These programs have active ETA/search fund clubs, dedicated courses on acquisition entrepreneurship, alumni searcher networks, and established relationships with search fund investors." },
@@ -1103,10 +1113,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "No MBA? No problem. Self-funded searches, industry expertise, ETA accelerators, and proven strategies for breaking into search funds without a business school pedigree.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Search Fund Partners", title: "Non-Traditional Searcher Report", year: 2024 },
+      { name: "Walker, Royce & Wasserman", title: "HBR Guide to Buying a Small Business", year: 2017 },
     ],
     faqs: [
       { question: "Can you do a search fund without an MBA?", answer: "Yes. While ~70% of traditional searchers have MBAs, the self-funded search model is particularly well-suited for non-MBA professionals. Industry expertise (5-10+ years in a target sector), operational experience, and personal savings or SBA financing can replace the MBA advantage. ETA accelerators provide structured curriculum and investor introductions." },
@@ -1126,10 +1137,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Stanford Search Fund Conference, IESE International SF Conference, MIT ETA Conference — the complete calendar of events for searchers, investors, and operators.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "Search Fund Conference", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Conference", year: 2024 },
+      { name: "Harvard Business School", title: "Entrepreneurship Through Acquisition Conference", year: 2024 },
     ],
     faqs: [
       { question: "What are the main search fund conferences?", answer: "The three flagship ETA conferences are: (1) Stanford Search Fund Conference (January, Palo Alto — the original and most prestigious), (2) IESE International Search Fund Conference (Spring, Barcelona — largest European event), and (3) MIT ETA Conference (Fall, Cambridge). Other notable events include the Booth Search Fund Conference, Kellogg ETA Summit, and regional meetups in New York, London, and São Paulo." },
@@ -1149,10 +1161,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Not everyone is cut out for ETA. Use this data-driven self-assessment framework to evaluate your financial readiness, risk tolerance, and personality fit before launching a search fund.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Note on Search Funds", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=56704", year: 2019 },
     ],
     faqs: [
       { question: "Is ETA right for me?", answer: "ETA is best suited for individuals with 3–10 years of professional experience, financial runway for 18–24 months of reduced income, comfort with ambiguity and independent work, strong interpersonal skills for managing employees and negotiating deals, and willingness to relocate. The typical successful searcher has management consulting, finance, or operational experience and an MBA from a top program — though non-traditional backgrounds are increasingly common." },
@@ -1172,10 +1185,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$5–30M enterprise value, 15%+ EBITDA margins, low owner dependency, and recurring revenue. The complete scoring framework for evaluating acquisition targets.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Walker Deibel", title: "Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game", year: 2018 },
+      { name: "SearchFunder", title: "Acquisition Target Criteria Discussion Threads", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What is the ideal search fund target?", answer: "The classic search fund target has $1–5M EBITDA, $5–30M enterprise value, 15–25% EBITDA margins, recurring or repeat revenue, low customer concentration (no single customer >20% of revenue), limited owner dependency, stable or growing industry, and a defensible market position. Service businesses with B2B recurring contracts — like IT services, business services, and healthcare services — most consistently meet these criteria." },
@@ -1195,10 +1210,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "~75% of searches are solo, but partnered searches close slightly faster. Compare success rates, equity splits, and find which model fits your situation.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Pacific Lake Partners", title: "Search Fund Partnership Best Practices", url: "https://www.pacificlake.com/resources", year: 2023 },
     ],
     faqs: [
       { question: "Should I do a solo or partnered search fund?", answer: "Solo searches give you full equity (up to 25–30% post-acquisition) and complete decision-making control, but the search is lonely and you bear all the burden. Partnered searches split equity 50/50 (12.5–15% each), reduce burnout risk, and bring complementary skills. Choose solo if you have strong deal-sourcing skills and prefer autonomy. Choose partnered if you complement each other's skills (e.g., one sourcer + one operator) and communicate well under pressure." },
@@ -1218,10 +1234,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "A written ICP is the foundation of an efficient search. Define your criteria across 12 dimensions and communicate them to brokers, advisors, and investors.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "SearchFunder", title: "Deal Sourcing Best Practices", year: 2024 },
+      { name: "Axial", title: "M&A Deal Sourcing and Buyer Positioning", url: "https://www.axial.net/forum/", year: 2024 },
+      { name: "International Business Brokers Association", title: "Market Pulse Report Q4 2024", year: 2024 },
     ],
     faqs: [
       { question: "What is an ideal company profile for acquisitions?", answer: "An ICP (Ideal Company Profile) defines the specific characteristics of businesses you want to acquire across 12 dimensions: industry, geography, revenue range ($3–20M), EBITDA ($750K–5M), margins (15%+), growth rate, customer concentration (<20% top client), owner dependency (low), capital intensity (low), workforce stability, deal type (asset vs stock), and timing. A well-defined ICP makes your search 3–5x more efficient by filtering out 80%+ of businesses that don't fit." },
@@ -1241,10 +1259,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "18–24 months minimum runway. How to calculate your burn rate, manage personal finances, plan for health insurance, and make the kill switch decision.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Search Fund Partners", title: "Searcher Economics Report", year: 2024 },
+      { name: "Walker Deibel", title: "Buy Then Build: How Acquisition Entrepreneurs Outsmart the Startup Game", year: 2018 },
+      { name: "Jim Sharpe & Dennis Roberts", title: "The Search Fund Playbook", year: 2022 },
     ],
     faqs: [
       { question: "How much money do you need before starting a search fund?", answer: "For a traditional search: you'll raise $400K–$600K from investors, which covers your salary ($100–150K/year), travel, databases, legal, and overhead for 18–24 months. For a self-funded search: plan for 18–24 months of living expenses ($150K–$300K depending on location and family size) plus $50K–$100K in search costs (databases, travel, legal). Having 6 months of emergency reserves beyond your search runway is recommended." },
@@ -1264,10 +1284,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "The corporate-to-ETA transition playbook. Financial preparation, timing, transferable skills, and managing family expectations when leaving to buy a business.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Search Fund Partners", title: "Searcher Background Analysis", year: 2024 },
+      { name: "Harvard Business Review", title: "The Search Fund Model of Entrepreneurship", url: "https://hbr.org/2021/03/the-search-fund-model-of-entrepreneurship", year: 2021 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "When should I leave my corporate job for ETA?", answer: "The optimal timing is typically 5–10 years into your career, when you have: (1) enough savings for 18–24 months of personal runway, (2) transferable management and analytical skills, (3) a professional network that can help with fundraising and deal sourcing, and (4) enough career capital that you can return to corporate if the search doesn't work out. Avoid leaving too early (insufficient skills/savings) or too late (golden handcuffs, reduced risk tolerance)." },
@@ -1287,10 +1309,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Grit, interpersonal skills, comfort with ambiguity — the personality traits and professional backgrounds that predict search fund success, backed by Stanford data.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Angela Duckworth", title: "Grit: The Power of Passion and Perseverance", url: "https://www.angeladuckworth.com/grit-book/", year: 2016 },
+      { name: "SearchFunder", title: "Searcher Profiles and Background Data", url: "https://searchfunder.com/forum", year: 2024 },
     ],
     faqs: [
       { question: "What background do successful search fund entrepreneurs have?", answer: "The most common backgrounds are: management consulting (McKinsey, Bain, BCG — ~25%), investment banking/private equity (~20%), corporate operations/general management (~20%), and industry-specific roles (~15%). However, background alone doesn't predict success — the Stanford data shows that grit, interpersonal skills, and comfort with ambiguity are stronger predictors than pedigree." },
@@ -1310,9 +1334,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "~33% of searches don't result in an acquisition. What happens to the searcher, the investors, and the capital — plus how to prevent search failure.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "Search Funds: 2018 Selected Findings", url: "https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2018", year: 2018 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "What percentage of search funds fail to acquire?", answer: "Approximately 33% of traditional search funds do not complete an acquisition. Common reasons include: inability to find a suitable target within the search period (most common), inability to agree on price/terms with sellers, failed due diligence on deals that seemed promising, and personal reasons (burnout, family circumstances). The failure rate has improved slightly over time as the ecosystem has matured." },
@@ -1332,11 +1358,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "35% IRR, 4.5x MOIC over 40 years. How search fund returns compare to PE, VC, public markets, and real estate — with portfolio construction guidance for investors.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Cambridge Associates", title: "Private Equity Index", year: 2024 },
+      { name: "Bain & Company", title: "Global Private Equity Report", url: "https://www.bain.com/insights/topics/global-private-equity-report/", year: 2024 },
     ],
     faqs: [
       { question: "What returns do search fund investors earn?", answer: "Search funds have generated aggregate pre-tax returns of ~35% IRR and 4.5x MOIC (multiple on invested capital) across 681 funds tracked by Stanford since 1984. However, returns are highly skewed: the top quartile generates 5x+ returns while ~30% of investments result in partial or total loss. Median returns are approximately 2.5x MOIC." },
@@ -1357,10 +1384,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "From executive summary to risk factors — learn how to craft a Private Placement Memorandum that convinces investors to back your search.",
     datePublished: "2024-04-08",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Yale SOM", title: "A Note on Private Placement Memoranda for Search Funds", year: 2020 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "SEC", title: "Regulation D Offerings", url: "https://www.sec.gov/education/smallbusiness/exemptofferings/regD", year: 2024 },
     ],
     faqs: [
       { question: "What is a PPM in a search fund?", answer: "A Private Placement Memorandum (PPM) is the legal fundraising document that search fund entrepreneurs send to prospective investors. It describes the searcher's background, search strategy, fund economics, use of proceeds, risk factors, and legal terms." },
@@ -1379,10 +1407,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Build a fundraising deck that tells your story. Slide-by-slide breakdown, design tips, and how to run an effective investor meeting.",
     datePublished: "2024-04-22",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Yale SOM", title: "A Note on Raising Search Fund Capital", year: 2019 },
+      { name: "Harvard Business School", title: "Search Fund Primer: A Guide for the Aspiring Entrepreneur", url: "https://www.hbs.edu/entrepreneurship/Pages/search-funds.aspx", year: 2023 },
     ],
     faqs: [
       { question: "How many slides should a search fund fundraising deck have?", answer: "A typical search fund fundraising deck has 15–20 slides covering: your background, the search fund model, deal criteria, target sectors, financing structure, economics, timeline, and investor terms. Keep the narrative tight — investors see dozens of these decks." },
@@ -1402,11 +1431,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Ex-searchers, family offices, institutional investors — learn how to approach them, what they look for, and how to close your fundraise.",
     datePublished: "2024-05-06",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "ETA & Search Funds Hub — Investor Resources", year: 2024 },
+      { name: "Search Fund Partners", title: "The Search Fund Landscape: Capital Formation & Investor Dynamics", year: 2023 },
     ],
     faqs: [
       { question: "How many investors does a typical search fund have?", answer: "Traditional search funds typically raise from 10–20 investors, each committing $50K–$200K during the search phase. Top-tier searchers with strong MBA networks may have 15–25 investors. The goal is enough capital for the search plus a consortium ready to co-invest at acquisition." },
@@ -1470,9 +1500,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Understand how equity works in search funds: step-up, carried interest, vesting schedules, and dilution math with worked examples.",
     datePublished: "2024-05-20",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-fund-primer", year: 2024 },
+      { name: "Carta", title: "Cap Table Management Best Practices for Private Companies", year: 2024 },
     ],
     faqs: [
       { question: "How much equity does a search fund CEO typically get?", answer: "In a traditional search fund, the CEO typically earns 20–30% of the equity through a step-up mechanism: ~15% at acquisition and ~10–15% based on performance milestones (usually IRR hurdles for investors). Self-funded searchers retain more equity but bear more personal financial risk." },
@@ -1491,9 +1523,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$130K search salary, $200-270K CEO comp, 25% equity in three tranches, $6.4M average lifetime economics. The complete guide to search fund compensation.",
     datePublished: "2024-06-10",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "IRS", title: "Section 1202 — Qualified Small Business Stock", url: "https://www.irs.gov/pub/irs-pdf/p550.pdf", year: 2024 },
     ],
     faqs: [
       { question: "How much does a search fund CEO earn?", answer: "During the search phase, searchers typically earn $100K–$150K annually. After acquisition, CEO compensation is $200K–$300K base salary plus performance bonuses. The real wealth creation comes from equity: 20–30% ownership that could be worth $3–10M+ at a successful exit." },
@@ -1537,10 +1571,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Most traditional search funds raise $400K–$600K in 8–16 weeks. A detailed week-by-week guide to the fundraising process, from preparation through closing.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "Search Fund Primer: Fundraising", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Note on Search Fund Fundraising Best Practices", year: 2023 },
     ],
     faqs: [
       { question: "How long does it take to raise a search fund?", answer: "Most traditional search fund raises take 8–16 weeks from first investor meeting to closing. The timeline depends on your network, background, and market conditions. MBA graduates from top programs with strong ETA clubs can sometimes close in 6–8 weeks. Searchers without established investor networks may need 12–20 weeks. Plan for 60–80 investor meetings to secure 15–20 investors." },

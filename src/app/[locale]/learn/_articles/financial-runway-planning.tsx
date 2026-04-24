@@ -53,7 +53,11 @@ export default function FinancialRunwayPlanningArticle() {
       </ul>
 
       <p className={bodyClass}>
-        A more realistic planning horizon is 24-30 months of personal financial runway. This extra buffer provides peace of mind and reduces the psychological pressure that can lead to accepting a marginal deal or walking away from a good one due to financial stress.
+        A more realistic planning horizon is 24-30 months of personal financial runway. This extra buffer provides peace of mind and reduces the psychological pressure that can lead to accepting a marginal deal or walking away from a good one due to financial stress. Our{" "}
+        <Link href="/learn/eta-self-assessment" className="text-apple-accent hover:underline">
+          ETA self-assessment framework
+        </Link>{" "}
+        includes a detailed financial readiness checklist to help you evaluate whether your runway is adequate.
       </p>
 
       <h2 className={h2Class}>Traditional Search Capital: What's Covered</h2>
@@ -128,6 +132,13 @@ export default function FinancialRunwayPlanningArticle() {
         <li><strong>Shared resources:</strong> Some self-funded searchers form informal partnerships to share database subscriptions, research tools, and deal flow insights.</li>
         <li><strong>Phased approach:</strong> Starting with a part-time search while employed, then transitioning to full-time once you've validated deal flow and raised acquisition capital commitments.</li>
       </ul>
+
+      <p className={bodyClass}>
+        For a detailed comparison of the financial implications of each model, see our guide on{" "}
+        <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+          self-funded vs. traditional search funds
+        </Link>.
+      </p>
 
       <h2 className={h2Class}>Monthly Burn Rate Calculation</h2>
 
@@ -375,7 +386,11 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Deal flow drought:</strong> If you're not seeing 5-10 businesses per month that warrant serious evaluation, your search parameters may be too narrow or your sourcing strategy isn't working.</li>
         <li><strong>Losing competitions consistently:</strong> If you're submitting LOIs but consistently losing to other buyers, this may indicate your investor base isn't competitive or your deal structure isn't market-rate.</li>
-        <li><strong>Family stress:</strong> If the search is creating unsustainable stress on your relationships or family dynamics, no business acquisition is worth that cost.</li>
+        <li><strong>Family stress:</strong> If the search is creating unsustainable stress on your relationships or family dynamics, no business acquisition is worth that cost. Our guide on{" "}
+          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
+            searcher psychology and resilience
+          </Link>{" "}
+          provides strategies for managing the emotional toll.</li>
         <li><strong>Financial desperation:</strong> If you find yourself rationalizing red flags or considering marginal businesses because you're running out of money, it's time to stop.</li>
       </ul>
 
@@ -460,6 +475,23 @@ export default function FinancialRunwayPlanningArticle() {
 
       <p className={bodyClass}>
         Your answer to this question should inform whether you're truly ready to launch your search fund journey.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How much personal savings do you need for a self-funded search?</h3>
+      <p className={bodyClass}>
+        A realistic self-funded search requires $189,000&ndash;$396,000 over 24 months, depending on your location, family size, and lifestyle. This covers personal living expenses ($60,000&ndash;$120,000 per year), health insurance ($12,000&ndash;$18,000 per year), search operating costs ($15,000&ndash;$30,000 per year), and an emergency buffer. Many self-funded searchers reduce burn rate through part-time consulting, geographic arbitrage, or relying on spousal income for household expenses.
+      </p>
+
+      <h3 className={h3Class}>Should you keep working while searching for a business to buy?</h3>
+      <p className={bodyClass}>
+        A part-time search while employed extends your runway significantly but limits your deal sourcing bandwidth and typically extends the search to 36&ndash;48 months. Many searchers use a phased approach: networking and researching while employed, then transitioning to full-time once they have validated deal flow, built broker relationships, and secured adequate personal financial runway. Traditional investor-backed search funds require full-time dedication.
+      </p>
+
+      <h3 className={h3Class}>When should you stop searching and return to employment?</h3>
+      <p className={bodyClass}>
+        Establish &ldquo;kill switch&rdquo; criteria before you start: time-based (maximum 24 months), runway-based (begin job searching when 6 months of personal runway remain), milestone-based (reassess if fewer than 3 LOIs submitted by month 15), and quality-based (pivot or exit if deal quality remains below threshold for 6+ months). The most important signal is financial desperation&mdash;if you are rationalizing red flags or considering marginal businesses because you are running out of money, it is time to stop.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

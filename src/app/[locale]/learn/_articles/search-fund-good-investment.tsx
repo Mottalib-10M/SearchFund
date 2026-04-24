@@ -53,7 +53,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        The wide distribution reflects the idiosyncratic nature of search fund investing. Each investment represents a single company acquisition by a first-time CEO, creating both concentration risk and asymmetric upside potential.
+        The wide distribution reflects the idiosyncratic nature of search fund investing. Each investment represents a single company acquisition by a first-time CEO, creating both concentration risk and asymmetric upside potential. For a deeper understanding of the characteristics that predict CEO success, see our analysis of the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link>.
       </p>
 
       <h3 className={h3Class}>Cash-on-Cash Returns</h3>
@@ -316,7 +316,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Notably, "searcher incompetence" is rarely the primary driver—most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes.
+        Notably, "searcher incompetence" is rarely the primary driver—most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> examines these failure modes in greater detail.
       </p>
 
       <h3 className={h3Class}>Mitigating Downside Risk</h3>
@@ -334,7 +334,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These screens won't eliminate losses but can reduce the failure rate from 25% to 15-20%, materially improving portfolio-level returns.
+        These screens won't eliminate losses but can reduce the failure rate from 25% to 15-20%, materially improving portfolio-level returns. Investors may also benefit from understanding the <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> that searchers use during the acquisition process.
       </p>
 
       <h3 className={h3Class}>Partial Loss Scenarios</h3>
@@ -600,6 +600,26 @@ export default function SearchFundGoodInvestmentArticle() {
 
       <p className={bodyClass}>
         The future may bring some return compression as markets professionalize, but structural inefficiencies in SME succession should sustain above-market returns for disciplined investors for decades to come.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What is the minimum investment to become a search fund investor?</h3>
+
+      <p className={bodyClass}>
+        Typical minimum investments range from $25,000 to $50,000 per search fund during the search phase. This covers the searcher's salary and operating expenses. If the searcher identifies an acquisition, investors are typically offered the right of first refusal to invest additional capital in the acquisition equity, often on a pro rata basis. Total investment per fund (search plus acquisition) can range from $50,000 to $500,000 or more depending on the deal size and your desired allocation.
+      </p>
+
+      <h3 className={h3Class}>How long is the typical hold period for a search fund investment?</h3>
+
+      <p className={bodyClass}>
+        The average hold period is approximately 7.2 years from the initial search capital investment to exit. This includes 1-2 years of searching, followed by 5-7 years of operating and growing the acquired business. Exits typically occur through a sale to a strategic buyer, private equity firm, or management team. Investors should treat search fund capital as fully illiquid for 7-10 years and plan accordingly.
+      </p>
+
+      <h3 className={h3Class}>How many search funds should I invest in to build a diversified portfolio?</h3>
+
+      <p className={bodyClass}>
+        Academic research suggests that a portfolio of 10-15 search fund investments provides meaningful diversification, reducing volatility by approximately 60% while maintaining expected returns of 27-30%. For individual investors, a practical target is 5-10 search funds built over 3-5 years to also achieve vintage year diversification. Portfolios of 20 or more approach systematic risk levels only, with expected returns of 25-28%.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

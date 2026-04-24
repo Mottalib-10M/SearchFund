@@ -33,7 +33,8 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         Success in search funds requires navigating three distinct phases: raising initial search capital, finding
         and acquiring the right business, and operating and growing that business post-acquisition. Each phase
-        demands different capabilities, but the most successful searchers demonstrate competence across all three.
+        demands different capabilities, but the most successful searchers demonstrate competence across all three. If you are
+        considering this path from a corporate career, our guide on <Link href="/learn/corporate-to-eta" className="text-apple-accent hover:underline">transitioning from corporate to ETA</Link> covers the practical steps in detail.
       </p>
 
       <p className={bodyClass}>
@@ -281,7 +282,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         The primary limitation is lack of operational experience. Bankers may excel at analyzing deals but struggle
         with the messy reality of running a company—managing people, solving operational problems, and driving revenue
-        growth require different capabilities than executing transactions.
+        growth require different capabilities than executing transactions. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> explores how different backgrounds affect outcomes.
       </p>
 
       <h3 className={h3Class}>Operations: Underrated but Valuable</h3>
@@ -579,7 +580,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         Self-funded search has opened pathways for entrepreneurs who don't fit the traditional mold—those without MBAs,
         older candidates with operating experience, and individuals with deep industry expertise but limited access to
-        traditional search fund investor networks.
+        traditional search fund investor networks. For a detailed comparison of the two models, see <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional search funds</Link>.
       </p>
 
       <p className={bodyClass}>
@@ -675,6 +676,26 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
         As the search fund model continues evolving and expanding globally, the archetype will adapt. But the fundamental
         requirement remains unchanged: successful searchers must be capable of earning the trust of sellers, investors,
         employees, and customers while building and leading an exceptional company. Everything else is secondary.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Do I need prior CEO experience to succeed as a search fund entrepreneur?</h3>
+
+      <p className={bodyClass}>
+        No. The vast majority of successful search fund entrepreneurs have never served as a CEO before. The model is designed as an apprenticeship: investors provide mentorship and board-level guidance while the searcher learns on the job. What matters more than CEO experience is demonstrated leadership potential, analytical capability, interpersonal skills, and the resilience to navigate ambiguity during both the search and operational phases.
+      </p>
+
+      <h3 className={h3Class}>Is a consulting background better than banking for search funds?</h3>
+
+      <p className={bodyClass}>
+        Neither is definitively better. Consultants (40-45% of searchers) bring structured problem-solving, business model analysis, and client management skills. Bankers (25-30%) bring financial modeling expertise and deal process familiarity. Stanford data shows no significant performance difference based on pre-MBA background. The most important factor is how you apply your experience to the unique demands of search and post-acquisition operations.
+      </p>
+
+      <h3 className={h3Class}>Can I start a search fund without an MBA?</h3>
+
+      <p className={bodyClass}>
+        Yes, though it is more challenging for traditional funded searches. Approximately 95% of traditional search fund entrepreneurs hold MBAs from top programs because these programs provide access to investor networks. However, the self-funded search model has opened pathways for individuals without MBAs who bring deep industry experience and operational capabilities. If you have a strong track record and relevant networks, you can succeed without an MBA, particularly through self-funded or independent sponsor models.
       </p>
 
       <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">

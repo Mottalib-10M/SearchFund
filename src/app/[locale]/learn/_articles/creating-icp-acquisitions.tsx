@@ -166,6 +166,50 @@ export default function CreatingICPAcquisitionsArticle() {
           <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
             complete acquisition guide
           </Link>.
+          You may also want to review{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+            self-funded vs. traditional search fund models
+          </Link>{" "}
+          to calibrate deal size expectations and our{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence checklist
+          </Link>{" "}
+          for evaluating targets that pass your ICP filter.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How narrow should my ICP be when starting a search?</h3>
+        <p>
+          Start broad and narrow over time. In the first 3 months, define
+          3&ndash;5 must-haves (e.g., $1M+ EBITDA, B2B, and a geographic range)
+          but leave other dimensions flexible. After reviewing 50&ndash;100
+          opportunities, you will develop sharper intuition about which
+          industries, business models, and seller profiles excite you.
+          Revisit and tighten your ICP quarterly.
+        </p>
+
+        <h3 className={h3Class}>Should I share my ICP with brokers?</h3>
+        <p>
+          Absolutely. Your ICP is a marketing document. Send a one-page
+          summary to every{" "}
+          <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
+            broker
+          </Link>{" "}
+          you meet, along with a brief personal introduction. Brokers
+          receive hundreds of buyer inquiries; a clear, specific ICP makes
+          you memorable and ensures they send you relevant deal flow rather
+          than everything on their list.
+        </p>
+
+        <h3 className={h3Class}>Can I have multiple ICPs for different deal types?</h3>
+        <p>
+          Yes, but limit yourself to two or three at most. Some searchers
+          maintain a primary ICP for their ideal acquisition and a secondary
+          one for opportunistic deals (e.g., a distressed asset at a steep
+          discount). Each ICP should have its own clear must-haves and
+          deal-breakers so you can evaluate opportunities quickly without
+          conflating criteria.
         </p>
       </div>
     </article>

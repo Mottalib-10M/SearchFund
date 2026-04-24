@@ -122,7 +122,63 @@ export default function SuccessionPlanningOwnersArticle() {
           and{" "}
           <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
             exit strategy options
-          </Link>, see our related guides.
+          </Link>, see our related guides. For the financial side, read our{" "}
+          <Link href="/learn/tax-planning-sellers" className="text-apple-accent hover:underline">
+            tax planning guide for sellers
+          </Link>{" "}
+          and{" "}
+          <Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">
+            business valuation overview
+          </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the biggest mistake owners make when planning succession?</h3>
+        <p>
+          Waiting too long. Most owners start thinking about succession 6&ndash;12
+          months before they want to exit, but the most impactful value drivers
+          &mdash; reducing owner dependence, building a management team,
+          diversifying revenue &mdash; require 2&ndash;3 years of sustained
+          effort. Starting late leaves money on the table and limits your
+          options for deal structure, buyer selection, and tax optimization.
+        </p>
+
+        <h3 className={h3Class}>Should I tell my employees about my succession plan?</h3>
+        <p>
+          Not in the early stages. Premature disclosure can cause anxiety,
+          productivity declines, and even key employee departures. Most
+          advisors recommend telling only your most senior, trusted
+          leaders &mdash; and only when their participation is essential
+          to the plan. Broader communication should happen after a deal
+          is signed, typically 30&ndash;60 days before closing.
+        </p>
+
+        <h3 className={h3Class}>How do I choose between selling to a search fund, PE firm, or strategic buyer?</h3>
+        <p>
+          It depends on your priorities. Search funds preserve company culture
+          and employees, paying fair multiples (4&ndash;6x EBITDA). PE firms
+          pay higher multiples for larger businesses but may restructure
+          operations. Strategic buyers offer the highest potential price but
+          often integrate the company. See our{" "}
+          <Link href="/learn/choosing-buyer-types" className="text-apple-accent hover:underline">
+            buyer type comparison
+          </Link>{" "}
+          for a detailed framework.
+        </p>
+
+        <h3 className={h3Class}>What is a management buyout and is it a good succession option?</h3>
+        <p>
+          A management buyout (MBO) is when your existing management team
+          purchases the business, often with a combination of seller
+          financing, bank debt, and personal investment. MBOs work well
+          when you have a capable #2 leader, want to preserve company
+          culture, and are willing to provide{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
+            seller financing
+          </Link>{" "}
+          to bridge the financing gap. The risk is that managers may lack
+          capital or experience to close and finance the deal independently.
         </p>
       </div>
     </article>

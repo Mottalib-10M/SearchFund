@@ -17,7 +17,10 @@ export default function MBAToCEOPipelineArticle() {
       </p>
 
       <p className={bodyClass}>
-        The relationship between MBA programs and search funds is symbiotic and self-reinforcing. Top business schools provide the analytical frameworks, network connections, and institutional credibility that searchers need to succeed. In return, search funds offer MBA graduates an entrepreneurial path that leverages their newly acquired skills while avoiding the extreme uncertainty of traditional startups. Understanding this pipeline—how it works, which programs dominate, and how to leverage it—is essential for anyone considering the ETA path.
+        The relationship between MBA programs and search funds is symbiotic and self-reinforcing. Top business schools provide the analytical frameworks, network connections, and institutional credibility that searchers need to succeed. In return, search funds offer MBA graduates an entrepreneurial path that leverages their newly acquired skills while avoiding the extreme uncertainty of traditional startups. Understanding this pipeline &mdash; how it works, which programs dominate, and how to leverage it &mdash; is essential for anyone considering the{" "}
+        <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+          ETA path
+        </Link>.
       </p>
 
       <h2 className={h2Class}>Why MBAs Are Drawn to Search Funds</h2>
@@ -35,7 +38,10 @@ export default function MBAToCEOPipelineArticle() {
       </p>
 
       <p className={bodyClass}>
-        Third, the risk-reward profile appeals to MBA graduates' carefully calibrated career calculations. Traditional entrepreneurship requires betting several years on an unproven idea with high probability of failure. Corporate careers offer stability but limited upside and slow advancement. Search funds occupy a middle ground: you're acquiring an established business with proven cash flows, but you gain immediate CEO-level responsibility and meaningful equity upside. For MBAs carrying six-figure student debt, this combination of downside protection and upside potential is particularly attractive.
+        Third, the risk-reward profile appeals to MBA graduates' carefully calibrated career calculations. Traditional entrepreneurship requires betting several years on an unproven idea with high probability of failure. Corporate careers offer stability but limited upside and slow advancement. Search funds occupy a middle ground: you're acquiring an established business with proven cash flows, but you gain immediate CEO-level responsibility and meaningful{" "}
+        <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
+          equity upside
+        </Link>. For MBAs carrying six-figure student debt, this combination of downside protection and upside potential is particularly attractive.
       </p>
 
       <p className={bodyClass}>
@@ -43,7 +49,10 @@ export default function MBAToCEOPipelineArticle() {
       </p>
 
       <p className={bodyClass}>
-        Finally, the search fund community has achieved critical mass within top MBA programs, creating a self-perpetuating cycle. When your classmates are forming search funds, attending ETA conferences, and securing investor commitments, the path becomes normalized rather than exotic. Student clubs, alumni networks, and campus recruiting events bring the search fund model into the mainstream of business school career options.
+        Finally, the search fund community has achieved critical mass within top MBA programs, creating a self-perpetuating cycle. When your classmates are forming search funds, attending{" "}
+        <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
+          ETA conferences
+        </Link>, and securing investor commitments, the path becomes normalized rather than exotic. Student clubs, alumni networks, and campus recruiting events bring the search fund model into the mainstream of business school career options.
       </p>
 
       <h2 className={h2Class}>Top MBA Programs for ETA (Stanford, HBS, Booth, Wharton, INSEAD, IESE)</h2>
@@ -359,6 +368,43 @@ export default function MBAToCEOPipelineArticle() {
       <p className={bodyClass}>
         Finally, maintain relationships through consistent communication. Send quarterly updates to investors and alumni you've met, sharing your evolving thesis, learning from classes or internships, and questions for their input. This regular contact keeps you top-of-mind when you eventually request investment commitments, transforming single meetings into genuine relationships built over 18-24 months.
       </p>
+
+      <div className="mt-12">
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Which MBA programs are best for search funds?</h3>
+        <p className={bodyClass}>
+          The top MBA programs for ETA include Stanford GSB (which pioneered the
+          search fund model in the 1980s), Harvard Business School, Chicago
+          Booth, Wharton, INSEAD, and IESE. These programs have active ETA
+          clubs, dedicated courses on acquisition entrepreneurship, strong
+          alumni searcher networks, and established relationships with search
+          fund investors. Stanford and HBS produce the most searchers by volume.
+        </p>
+
+        <h3 className={h3Class}>Do you need an MBA to start a search fund?</h3>
+        <p className={bodyClass}>
+          No. While approximately 70% of traditional search fund entrepreneurs
+          hold MBAs, the{" "}
+          <Link href="/learn/eta-without-mba" className="text-apple-accent hover:underline">
+            self-funded search model
+          </Link>{" "}
+          has opened ETA to professionals without business school backgrounds.
+          Industry expertise, operational experience, and existing networks can
+          substitute for the MBA pedigree. Non-MBA searchers are the
+          fastest-growing segment of the ETA ecosystem.
+        </p>
+
+        <h3 className={h3Class}>When should I launch my search &mdash; during or after my MBA?</h3>
+        <p className={bodyClass}>
+          A hybrid approach has become the most common: begin preparation and
+          network building during second year, conduct serious fundraising in
+          the months before graduation, and launch a full-time search
+          immediately after completing the degree. This timeline lets you
+          leverage school resources while demonstrating serious commitment to
+          investors.
+        </p>
+      </div>
 
       <div className="mt-12 pt-8 border-t border-neutral-200">
         <h2 className={h2Class}>Sources</h2>

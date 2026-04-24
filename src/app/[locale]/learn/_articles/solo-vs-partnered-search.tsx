@@ -18,7 +18,11 @@ export default function SoloVsPartneredSearchArticle() {
       <h2 className={h2Class}>Solo Search: Full Control, Full Burden</h2>
 
       <p className={bodyClass}>
-        Solo search represents the traditional search fund model: one individual raises capital, conducts the search, acquires a business, and operates it as CEO. This approach offers maximum autonomy and equity retention but demands extraordinary commitment and resilience.
+        Solo search represents the traditional search fund model: one individual raises capital, conducts the search, acquires a business, and operates it as CEO. This approach offers maximum autonomy and equity retention but demands extraordinary commitment and resilience. Before deciding, consider using the{" "}
+        <Link href="/learn/eta-self-assessment" className="text-apple-accent hover:underline">
+          ETA self-assessment framework
+        </Link>{" "}
+        to evaluate whether your skills, temperament, and finances align with either model.
       </p>
 
       <h3 className={h3Class}>Advantages of Searching Alone</h3>
@@ -187,7 +191,10 @@ export default function SoloVsPartneredSearchArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These percentages represent post-acquisition, fully diluted ownership. During search, investors typically own preferred units that convert to common equity upon acquisition close.
+        These percentages represent post-acquisition, fully diluted ownership. During search, investors typically own preferred units that convert to common equity upon acquisition close. For a comprehensive breakdown of the financial model, see our guide to{" "}
+        <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
+          searcher compensation and equity structures
+        </Link>.
       </p>
 
       <h3 className={h3Class}>Annual Compensation</h3>
@@ -235,7 +242,11 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Risk-adjusted calculus matters too. If partnership reduces individual stress, prevents burnout, or meaningfully lowers execution risk, partners may rationally accept lower absolute returns in exchange for higher probability of success and better quality of life during the journey.
+        Risk-adjusted calculus matters too. If partnership reduces individual stress, prevents burnout, or meaningfully lowers execution risk, partners may rationally accept lower absolute returns in exchange for higher probability of success and better quality of life during the journey. Understanding your{" "}
+        <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+          financial runway requirements
+        </Link>{" "}
+        is critical for modeling these trade-offs accurately.
       </p>
 
       <h2 className={h2Class}>Complementary Skill Sets</h2>
@@ -511,6 +522,28 @@ export default function SoloVsPartneredSearchArticle() {
 
       <p className={bodyClass}>
         Ultimately, both models work. The question isn't which is objectively better but which aligns with your strengths, addresses your weaknesses, fits your life circumstances, and maximizes your probability of success. Choose deliberately, commit fully, and execute relentlessly—that matters far more than whether you search alone or with a partner at your side.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Do partnered search funds have better returns than solo?</h3>
+      <p className={bodyClass}>
+        On an enterprise level, solo and partnered search funds generate similar returns to investors&mdash;approximately 3.3&ndash;3.8x cash-on-cash over five-to-seven-year hold periods. However, because solo searchers retain roughly twice the equity percentage (25&ndash;30% vs. 12.5&ndash;15% each), their per-person absolute dollar returns are significantly higher. The data on whether partnerships drive enough incremental business performance to offset the dilution is inconclusive.
+      </p>
+
+      <h3 className={h3Class}>How should search fund partners split roles after acquisition?</h3>
+      <p className={bodyClass}>
+        The most successful post-acquisition partnerships designate clear roles rather than attempting co-CEO arrangements. Common structures include CEO/COO, CEO/CFO, or President-External/President-Internal. Decision rights for key areas&mdash;capital allocation, hiring, strategy&mdash;should be clearly defined in the partnership agreement before acquisition. Partners who maintain ambiguous role definitions often experience friction within the first 12 months of operations.
+      </p>
+
+      <h3 className={h3Class}>What should a search fund partnership agreement include?</h3>
+      <p className={bodyClass}>
+        A comprehensive partnership agreement should cover role definitions and reporting relationships, decision rights and escalation procedures for disagreements, compensation philosophy (whether comp can diverge between partners), performance expectations and consequences for underperformance, exit provisions including buyout formulas and right of first refusal, and dispute resolution mechanisms (mediation before litigation). Negotiate these terms when the relationship is strong, not after conflict has emerged.
+      </p>
+
+      <h3 className={h3Class}>Can you start solo and add a partner later?</h3>
+      <p className={bodyClass}>
+        Yes. The &ldquo;solo search with operating partner&rdquo; hybrid model involves conducting the search alone and then recruiting a complementary executive post-acquisition. The operating partner typically receives 5&ndash;10% equity plus competitive compensation&mdash;less than a full search partner would receive, but appropriate given the lower risk of joining an already-acquired business. This model preserves more equity during the search phase while still bringing leadership depth for the operating phase.
       </p>
 
       <p className={bodyClass}>
