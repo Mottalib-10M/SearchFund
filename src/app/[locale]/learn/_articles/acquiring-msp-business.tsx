@@ -22,7 +22,8 @@ export default function AcquiringMSPBusinessArticle() {
           deeply embedded customer relationships that create natural switching
           costs, an essential service that businesses cannot operate without,
           and a massively fragmented $150B+ global market with over 40,000
-          operators in the United States alone. Whether you pursue a single
+          operators in the United States alone, according to Channel Futures&rsquo;
+          annual MSP 501 rankings. Whether you pursue a single
           platform acquisition or an aggressive{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build roll-up
@@ -87,8 +88,9 @@ export default function AcquiringMSPBusinessArticle() {
             acquisition targets and natural consolidation economics.
           </li>
           <li>
-            <strong>Proven roll-up economics:</strong> Private equity firms have
-            demonstrated that MSP consolidation generates exceptional returns.
+            <strong>Proven roll-up economics:</strong> ConnectWise&rsquo;s annual
+            MSP Benchmark Survey confirms that private equity firms have
+            demonstrated MSP consolidation generates exceptional returns.
             Acquirers routinely purchase small MSPs at 4&ndash;6x EBITDA,
             integrate them onto a common platform, eliminate duplicate overhead
             (office leases, redundant PSA/RMM licenses, back-office staff),
@@ -738,6 +740,50 @@ export default function AcquiringMSPBusinessArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             introduction to entrepreneurship through acquisition
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is a good valuation multiple for an MSP?
+        </h3>
+        <p>
+          Small MSPs ($1M&ndash;$5M revenue) typically trade at 4&ndash;6x
+          EBITDA or 1&ndash;2x annual recurring revenue (ARR). Mid-market
+          MSPs ($5M&ndash;$20M) command 6&ndash;8x EBITDA. Platform MSPs
+          ($20M+) with MSSP capabilities and vertical specialization can
+          reach 7&ndash;10x or higher. The single most important valuation
+          driver is MRR as a percentage of total revenue &mdash; MSPs with
+          80%+ MRR command significantly higher multiples than those with
+          heavy break-fix revenue.
+        </p>
+
+        <h3 className={h3Class}>
+          What is the biggest risk when acquiring an MSP?
+        </h3>
+        <p>
+          Cybersecurity liability is the existential risk. MSPs hold admin
+          credentials, network access, backup systems, and security tools
+          for their entire client base. A breach at the MSP level can cascade
+          across every client simultaneously, creating catastrophic financial
+          and reputational damage. Mitigate by auditing internal security
+          practices during due diligence, maintaining robust cyber insurance,
+          and investing in SOC 2 certification and zero-trust architecture
+          post-acquisition.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I grow an MSP after acquisition?
+        </h3>
+        <p>
+          The highest-impact levers are: (1) increase MRR per endpoint
+          through 10&ndash;20% price adjustments on underpriced contracts,
+          (2) layer security services (MDR, SIEM, compliance) which can
+          increase per-client revenue by 25&ndash;50%, (3) launch vCIO
+          advisory services at $1,000&ndash;$3,000 per client per month,
+          (4) invest in RMM automation to reduce cost per endpoint, and
+          (5) execute tuck-in acquisitions at 3&ndash;5x EBITDA to build
+          a platform that commands 8&ndash;12x at exit.
         </p>
       </div>
     </article>

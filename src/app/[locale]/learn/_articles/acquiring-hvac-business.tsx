@@ -38,9 +38,9 @@ export default function AcquiringHVACBusinessArticle() {
         <ul className={ulClass}>
           <li><strong>Essential service:</strong> Heating and cooling are non-discretionary &mdash; HVAC demand is recession-resistant. People will defer a vacation before going without heat in January or AC in August.</li>
           <li><strong>Recurring revenue:</strong> Maintenance contracts (service agreements) provide predictable, high-margin recurring revenue streams, typically 20&ndash;40% of total revenue for well-run companies.</li>
-          <li><strong>Fragmented market:</strong> The US HVAC market is estimated at $150+ billion, served by tens of thousands of small operators. The top 10 companies hold less than 15% market share, creating enormous consolidation opportunity.</li>
+          <li><strong>Fragmented market:</strong> According to IBISWorld, the US HVAC market exceeds $150 billion in annual revenue, served by tens of thousands of small operators. The top 10 companies hold less than 15% market share, creating enormous consolidation opportunity.</li>
           <li><strong>Strong margins:</strong> Well-managed HVAC companies generate 12&ndash;20% EBITDA margins on service/maintenance and 8&ndash;15% on installation work.</li>
-          <li><strong>Succession urgency:</strong> The average HVAC company owner is 58+ years old. Thousands of profitable HVAC businesses will change hands in the next decade.</li>
+          <li><strong>Succession urgency:</strong> Data from ACHR News indicates that the average HVAC company owner is 58+ years old. Thousands of profitable HVAC businesses will change hands in the next decade as baby boomer owners retire without internal successors.</li>
           <li><strong>Scalable operations:</strong> HVAC operations can be systematized through dispatching software, inventory management, and standardized training, enabling efficient multi-location scaling.</li>
         </ul>
 
@@ -227,6 +227,59 @@ export default function AcquiringHVACBusinessArticle() {
           <li><strong>Manufacturer dependency:</strong> Losing a key dealer agreement (Carrier, Trane, Lennox) can impact equipment pricing and warranty support</li>
           <li><strong>Regulatory changes:</strong> Refrigerant phase-outs (R-22 to R-410A to R-32) require ongoing technician training and inventory management</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What are typical HVAC business valuation multiples?
+        </h3>
+        <p>
+          Small HVAC operators (under $2M revenue) trade at 2&ndash;3.5x
+          SDE. Mid-size companies ($2M&ndash;$10M revenue) typically sell
+          for 3.5&ndash;5.5x EBITDA. Larger platforms ($10M+ revenue)
+          command 5&ndash;7x EBITDA from private equity buyers. Add-on
+          acquisitions can be acquired at 2&ndash;3.5x EBITDA, creating
+          significant arbitrage in{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
+            buy-and-build strategies
+          </Link>.
+          The spread between platform and add-on multiples is the core
+          economic engine of HVAC roll-ups.
+        </p>
+
+        <h3 className={h3Class}>
+          What should I look for in HVAC due diligence?
+        </h3>
+        <p>
+          Beyond standard financial and legal diligence, focus on the
+          technician workforce (licenses, certifications, turnover), the
+          maintenance contract base (number of active agreements, renewal
+          rates), fleet condition and replacement schedule, contractor
+          license transfer requirements, and manufacturer dealer
+          relationships. The number and quality of EPA 608 certified
+          technicians is a direct indicator of the company&rsquo;s ability
+          to operate and grow. For a comprehensive framework, see our{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence checklist
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I grow an HVAC business after acquisition?
+        </h3>
+        <p>
+          The highest-impact levers are: (1) growing the maintenance
+          contract base by converting every service call into a plan
+          sale, (2) investing in digital marketing to increase inbound
+          leads by 50&ndash;100%, (3) implementing flat-rate pricing to
+          improve gross margins by 5&ndash;10 points, (4) deploying field
+          service management software for operational efficiency, and
+          (5) executing tuck-in acquisitions at 2&ndash;3.5x EBITDA to
+          build a multi-location platform. ServiceTitan benchmarks show
+          that companies with 1,500+ active maintenance contracts achieve
+          materially higher EBITDA margins than those without a contract
+          base.
+        </p>
       </div>
     </article>
   );

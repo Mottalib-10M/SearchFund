@@ -43,9 +43,10 @@ export default function AcquiringAccountingPracticeArticle() {
 
         <h3 className={h3Class}>The baby boomer succession wave</h3>
         <p>
-          The accounting profession is facing a demographic cliff. The American
-          Institute of CPAs (AICPA) estimates that nearly half of all licensed
-          CPAs will reach retirement age by 2030. Many sole practitioners and
+          The accounting profession is facing a demographic cliff. According to
+          the AICPA&rsquo;s 2024 Trends in the Supply of Accounting Graduates
+          report, nearly half of all licensed CPAs will reach retirement age
+          by 2030. Many sole practitioners and
           small-firm partners have no internal succession plan. They have spent
           decades building profitable practices but lack the next generation of
           leadership to take over. This supply-demand imbalance creates a buyer&rsquo;s
@@ -506,8 +507,9 @@ export default function AcquiringAccountingPracticeArticle() {
         <h3 className={h3Class}>Staff retention</h3>
         <p>
           The accounting profession faces a well-documented talent shortage.
-          The pipeline of new CPAs has declined as fewer graduates pursue
-          the 150-credit-hour requirement for licensure. Losing experienced
+          According to Accounting Today, the pipeline of new CPAs has declined
+          by over 30% since 2016 as fewer graduates pursue the 150-credit-hour
+          requirement for licensure. Losing experienced
           staff post-acquisition is costly and disruptive.
         </p>
         <ul className={ulClass}>
@@ -612,6 +614,57 @@ export default function AcquiringAccountingPracticeArticle() {
           modern operating mindset, an accounting practice can be the
           foundation of a highly profitable, scalable platform business
           that generates attractive returns for years to come.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much is an accounting practice worth?
+        </h3>
+        <p>
+          Tax and bookkeeping practices typically sell for 0.8&ndash;1.2x
+          annual revenue. Audit-focused firms command 1.0&ndash;1.4x due to
+          higher margins and regulatory barriers. Advisory-heavy practices
+          where consulting and CFO services represent 40%+ of revenue can
+          reach 1.2&ndash;2.0x revenue or 5&ndash;8x EBITDA. Owner
+          compensation must be normalized carefully &mdash; many sole
+          practitioners pay themselves $300K&ndash;$500K, significantly above
+          the replacement cost of $120K&ndash;$200K for a salaried CPA. For a
+          detailed methodology, see our{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
+            business valuation guide
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>
+          Can a non-CPA buy an accounting practice?
+        </h3>
+        <p>
+          It depends on the state. Most states require CPA firms to be
+          majority-owned by licensed CPAs. However, an increasing number of
+          states have adopted alternative practice structure provisions that
+          allow non-CPA ownership under specific conditions. Before pursuing
+          an acquisition, consult the target state&rsquo;s board of accountancy
+          and engage a healthcare or professional services attorney who
+          understands the local ownership rules. Non-CPA acquirers often
+          structure deals with a licensed CPA partner who holds the required
+          ownership stake.
+        </p>
+
+        <h3 className={h3Class}>
+          What is the biggest risk when buying an accounting practice?
+        </h3>
+        <p>
+          Client attrition is the primary risk. CPA-client relationships are
+          deeply personal, and when the trusted partner departs, 10&ndash;20%
+          of clients may leave within the first 12 months if the transition
+          is poorly managed. Mitigate this with a structured 12&ndash;24 month
+          seller involvement period, joint client meetings, retention-based{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
+            earn-out structures
+          </Link>{" "}
+          tied to revenue retention milestones, and a deliberate communication
+          strategy that emphasizes continuity of service.
         </p>
       </div>
     </article>

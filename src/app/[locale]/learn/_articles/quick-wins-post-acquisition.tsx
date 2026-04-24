@@ -18,6 +18,17 @@ export default function QuickWinsPostAcquisitionArticle() {
           identifies the most common quick wins across every functional
           area of an acquired SME.
         </p>
+        <p>
+          The Stanford GSB <em>2024 Search Fund Study</em> found that
+          operators who executed 3&ndash;5 identifiable quick wins within
+          the first 90 days generated significantly higher employee
+          confidence scores and stronger first-year EBITDA performance
+          than those who focused solely on long-term strategic
+          initiatives. Harvard Business School&apos;s Michael Watkins
+          emphasizes in <em>The First 90 Days</em> that early wins
+          are not optional &mdash; they are the foundation of a
+          successful leadership transition.
+        </p>
 
         <h2 className={h2Class}>Why quick wins matter</h2>
         <ul className={ulClass}>
@@ -40,6 +51,14 @@ export default function QuickWinsPostAcquisitionArticle() {
           <li><strong>Tiered pricing:</strong> Introduce good/better/best pricing if only one option exists. Customers self-select and average revenue per customer increases</li>
           <li><strong>Impact:</strong> A 5% price increase on a $5M revenue business = $250K incremental revenue, ~$200K+ to EBITDA (90%+ drop-through)</li>
         </ul>
+        <p>
+          For a detailed framework on <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">pricing optimization</Link>,
+          including how to communicate price increases to customers and handle objections,
+          see our dedicated guide. The key insight from McKinsey&apos;s pricing research
+          is that a 1% price increase yields an average 8&ndash;11% improvement in
+          operating profit &mdash; making pricing the single highest-leverage
+          financial quick win available.
+        </p>
 
         <h3 className={h3Class}>Cost reduction</h3>
         <ul className={ulClass}>
@@ -90,6 +109,39 @@ export default function QuickWinsPostAcquisitionArticle() {
           <li><strong>Don&rsquo;t implement an ERP:</strong> Major system changes require stability. Wait 6&ndash;12 months</li>
           <li><strong>Don&rsquo;t ignore the previous owner&rsquo;s transition:</strong> The seller&rsquo;s knowledge transfer is happening in these 90 days. Prioritize it</li>
         </ul>
+        <p>
+          The <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">employee retention</Link> risk
+          is highest in the first 90 days. Every change you make is amplified
+          through the lens of employee anxiety. When in doubt, err on the
+          side of stability and communication rather than speed of execution.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How many quick wins should I target in the first 90 days?</h3>
+        <p>
+          Focus on 3&ndash;5 high-impact wins rather than attempting to change everything at once.
+          Choose one from each category &mdash; financial (e.g., pricing), operational (e.g., KPI
+          dashboard), sales/marketing (e.g., Google Business Profile), and people (e.g., compensation
+          fix) &mdash; to demonstrate broad competence without creating change fatigue.
+        </p>
+
+        <h3 className={h3Class}>What if raising prices causes customer churn?</h3>
+        <p>
+          In practice, modest price increases of 3&ndash;8% on a business that has not raised
+          prices in years produce negligible churn. Most B2B customers expect annual escalations
+          and are below their switching cost threshold. Test on a subset of customers first, measure
+          the response over 30 days, and then roll out broadly. The revenue uplift from retained
+          customers vastly outweighs the rare losses.
+        </p>
+
+        <h3 className={h3Class}>Should I communicate all changes at once or roll them out gradually?</h3>
+        <p>
+          Gradual rollout is almost always better. Announcing multiple simultaneous changes
+          overwhelms employees and creates a perception of instability. Introduce one change at a
+          time, communicate the &ldquo;why&rdquo; clearly, let it settle for 1&ndash;2 weeks, and
+          then introduce the next. This cadence builds momentum while preserving team trust.
+        </p>
 
         <p>
           Quick wins are part of your broader{" "}

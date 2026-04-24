@@ -6,7 +6,7 @@ export default function GmbHvsUGGermanyArticle() {
     <article>
       <h1 className={h1Class}>GmbH vs. UG: German Entity Structures for Buyers</h1>
       <div className={bodyClass}>
-        <p>When acquiring a business in <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">Germany</Link>, understanding the GmbH (Gesellschaft mit beschr&auml;nkter Haftung) and its mini-variant, the UG (Unternehmergesellschaft), is essential. The GmbH is Germany&apos;s most popular corporate form for SMEs, and virtually all Mittelstand acquisitions involve buying or creating a GmbH.</p>
+        <p>When acquiring a business in <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">Germany</Link>, understanding the GmbH (Gesellschaft mit beschr&auml;nkter Haftung) and its mini-variant, the UG (Unternehmergesellschaft), is essential. The GmbH is Germany&apos;s most popular corporate form for SMEs, and virtually all Mittelstand acquisitions involve buying or creating a GmbH. According to the Bundesministerium der Justiz, there are over 1.2 million registered GmbH entities in Germany, making it the dominant corporate form for small and medium-sized enterprises.</p>
       </div>
 
       <h2 className={h2Class}>GmbH (Gesellschaft mit beschr&auml;nkter Haftung)</h2>
@@ -49,12 +49,17 @@ export default function GmbHvsUGGermanyArticle() {
           <li><strong>Holding GmbH:</strong> Created as the acquisition vehicle, with the searcher and investors as shareholders</li>
           <li><strong>Bank financing:</strong> <Link href="/learn/kfw-germany-business-succession" className="text-apple-accent hover:underline">KfW</Link> and commercial bank loans flow into the holding GmbH</li>
           <li><strong>Share purchase (Anteilskauf):</strong> Holding GmbH acquires 100% of the target GmbH shares</li>
-          <li><strong>Organschaft:</strong> Tax consolidation between holding and target if a profit transfer agreement (Ergebnisabf&uuml;hrungsvertrag) is established</li>
+          <li><strong>Organschaft:</strong> Tax consolidation between holding and target if a profit transfer agreement (Ergebnisabf&uuml;hrungsvertrag) is established. See our{" "}
+            <Link href="/learn/organschaft-germany" className="text-apple-accent hover:underline">detailed Organschaft guide</Link>{" "}
+            for setup requirements and benefits</li>
         </ol>
       </div>
 
       <h2 className={h2Class}>Tax Considerations</h2>
       <div className={bodyClass}>
+        <p>Germany&rsquo;s corporate tax framework combines federal and municipal levies. The DIHK (Deutscher Industrie- und Handelskammertag) publishes annual analyses of effective rates across municipalities, which can vary significantly. Understanding these rates is critical for{" "}
+          <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company tax optimization</Link>:
+        </p>
         <ul className={ulClass}>
           <li><strong>Corporate tax (K&ouml;rperschaftsteuer):</strong> 15% + 5.5% solidarity surcharge = 15.825%</li>
           <li><strong>Trade tax (Gewerbesteuer):</strong> 7&ndash;17% depending on municipality (Hebesatz). Typical: 14&ndash;16%.</li>
@@ -95,13 +100,50 @@ export default function GmbHvsUGGermanyArticle() {
         <li><Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">Cross-Border Acquisitions in Europe</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>Bundesministerium der Justiz, <em>GmbH-Gesetz (GmbHG)</em> (2024)</li>
-        <li>KfW, <em>Nachfolgemonitor Mittelstand</em> (2024)</li>
-        <li>DIHK, <em>Unternehmensnachfolge: Rechtliche Rahmenbedingungen</em> (2024)</li>
-        <li>PwC Germany, <em>German Tax Guide for M&amp;A Transactions</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>
+        What is the minimum capital required for a GmbH?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          A GmbH requires &euro;25,000 in share capital, with at least
+          &euro;12,500 paid in at formation. In contrast, a UG
+          (haftungsbeschr&auml;nkt) can be formed with as little as &euro;1
+          in share capital but must retain 25% of annual net profit until
+          reaching the &euro;25,000 threshold, at which point it converts to
+          a regular GmbH.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        Should I use a UG or a GmbH as my acquisition holding company?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          For serious acquisitions involving bank financing and institutional
+          investors, always use a GmbH. Banks and investors view the UG
+          negatively due to its low capitalization. The &euro;25,000 GmbH
+          capital requirement is modest relative to acquisition deal sizes
+          and signals credibility to all counterparties. A UG may be
+          appropriate only as a temporary placeholder during the search phase
+          before investors are brought in.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        Do I need to be a German resident to be a GmbH Gesch&auml;ftsf&uuml;hrer?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          No. A Gesch&auml;ftsf&uuml;hrer (managing director) does not need
+          to be a German resident or citizen. However, non-residents must
+          comply with German tax registration requirements and may need to
+          file German income tax returns. For practical reasons, having at
+          least one Germany-based managing director simplifies banking
+          relationships, notarization, and day-to-day administration.
+        </p>
+      </div>
     </article>
   );
 }

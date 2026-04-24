@@ -6,7 +6,8 @@ export default function BritishBusinessBankArticle() {
     <article>
       <h1 className={h1Class}>British Business Bank & UK Acquisition Financing</h1>
       <div className={bodyClass}>
-        <p>The United Kingdom offers a range of government-backed financing options for business acquisitions through the British Business Bank and related programs. For searchers targeting <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">UK-based acquisitions</Link>, understanding these programs can significantly improve deal economics.</p>
+        <p>The United Kingdom offers a range of government-backed financing options for business acquisitions through the British Business Bank and related programs. According to the British Business Bank&apos;s own annual report, the institution has facilitated over &pound;12 billion in financing to more than 100,000 smaller businesses across the UK. For searchers targeting <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">UK-based acquisitions</Link>, understanding these programs can significantly improve deal economics.</p>
+        <p>The UK succession opportunity is substantial. UK Finance&apos;s SME Finance Monitor reports that over 5.5 million SMEs operate in the UK, many founded during the 1980s and 1990s economic expansion. With a wave of retirements underway, the British Private Equity &amp; Venture Capital Association (BVCA) estimates that thousands of profitable businesses need new ownership each year &mdash; but deal structures tend to be more conservative than in the US, with higher equity requirements and less government-supported leverage.</p>
       </div>
 
       <h2 className={h2Class}>The British Business Bank</h2>
@@ -71,7 +72,7 @@ export default function BritishBusinessBankArticle() {
           <li>Vendor loan (deferred consideration): &pound;400K (20%)</li>
           <li>Buyer equity: &pound;600K (30%)</li>
         </ul>
-        <p>UK deals tend to use less leverage than US deals, partly because there is no UK equivalent to the SBA 7(a) program&apos;s generous terms.</p>
+        <p>UK deals tend to use less leverage than US deals, partly because there is no UK equivalent to the SBA 7(a) program&apos;s generous terms. The EFG&apos;s &pound;1.2M cap and 75% guarantee are less generous than the US <Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a)&apos;s $5M cap and 75&ndash;85% guarantee</Link>. As a result, UK searchers typically need to contribute 30%+ equity compared to 10&ndash;15% in SBA-backed US deals. <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">Vendor financing</Link> (called &quot;deferred consideration&quot; in UK parlance) is critical for bridging this gap.</p>
       </div>
 
       <h2 className={h2Class}>Tax Considerations</h2>
@@ -103,13 +104,21 @@ export default function BritishBusinessBankArticle() {
         <li><Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">Cross-Border Acquisitions in Europe</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>British Business Bank, <em>Enterprise Finance Guarantee Scheme Guidelines</em> (2024)</li>
-        <li>HM Treasury, <em>Financing Growth in UK SMEs</em> (2024)</li>
-        <li>BVCA, <em>Private Equity and Venture Capital Report</em> (2024)</li>
-        <li>UK Finance, <em>SME Finance Monitor</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <h3 className={h3Class}>What is the UK equivalent of SBA loans?</h3>
+      <div className={bodyClass}>
+        <p>The Enterprise Finance Guarantee (EFG) is the closest UK equivalent. The government guarantees 75% of the loan (vs. SBA&apos;s 75&ndash;85%), with loans up to &pound;1.2 million and terms up to 10 years. However, the EFG is less generous than SBA: lower maximum amounts, shorter terms, and a 2% annual guarantee premium. UK deals typically use less leverage (50&ndash;60% debt) than US deals, with the buyer providing 30%+ equity. The lack of a goodwill financing program comparable to the US SBA means UK searchers need to be more creative with deal structure.</p>
+      </div>
+
+      <h3 className={h3Class}>Are there specific programs for acquisitions outside London?</h3>
+      <div className={bodyClass}>
+        <p>Yes, several regional growth funds specifically target acquisitions outside London. The Northern Powerhouse Investment Fund covers the North of England, the Midlands Engine Investment Fund covers the Midlands, and the Development Bank of Wales provides comprehensive business acquisition financing for Welsh businesses. Scottish Enterprise offers programs for Scottish acquisitions. These regional funds often provide more favorable terms than national programs because they are specifically designed to encourage investment and business ownership in economically developing regions. For search fund entrepreneurs, targeting regional businesses can unlock both better financing and lower competition from PE firms.</p>
+      </div>
+
+      <h3 className={h3Class}>How does Business Asset Disposal Relief affect seller negotiations?</h3>
+      <div className={bodyClass}>
+        <p>Business Asset Disposal Relief (formerly Entrepreneurs&apos; Relief) provides a 10% capital gains tax rate on the first &pound;1 million of qualifying gains from the disposal of business assets or shares. This is significantly lower than the standard 20% CGT rate. For sellers, this creates a strong incentive to structure deals as share sales rather than asset sales. For buyers, understanding BADR&apos;s impact on the seller&apos;s net proceeds can help negotiate deal structure and pricing &mdash; sellers receiving favorable tax treatment may be more flexible on price or willing to provide <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">deferred consideration</Link>.</p>
+      </div>
     </article>
   );
 }

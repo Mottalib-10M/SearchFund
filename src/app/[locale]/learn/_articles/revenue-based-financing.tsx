@@ -6,7 +6,7 @@ export default function RevenueBasedFinancingArticle() {
     <article>
       <h1 className={h1Class}>Revenue-Based Financing for Post-Acquisition Growth</h1>
       <div className={bodyClass}>
-        <p>Revenue-Based Financing (RBF) is an alternative funding model where repayment is tied to a percentage of monthly revenue rather than fixed installments. For search fund CEOs looking to grow their acquired companies without additional equity dilution or rigid bank covenants, RBF offers a flexible middle ground between traditional debt and equity financing.</p>
+        <p>Revenue-Based Financing (RBF) is an alternative funding model where repayment is tied to a percentage of monthly revenue rather than fixed installments. For search fund CEOs looking to grow their acquired companies without additional equity dilution or rigid bank covenants, RBF offers a flexible middle ground between traditional debt and equity financing. According to PitchBook&apos;s 2024 Alternative Lending Market Report, the RBF market has grown to over $5 billion in annual originations, reflecting increasing demand from SME owners seeking non-dilutive growth capital.</p>
       </div>
 
       <h2 className={h2Class}>How Revenue-Based Financing Works</h2>
@@ -34,8 +34,9 @@ export default function RevenueBasedFinancingArticle() {
 
       <h2 className={h2Class}>RBF vs. Other Financing Options</h2>
       <div className={bodyClass}>
+        <p>Choosing the right post-acquisition financing tool depends on your cost of capital tolerance, timeline, and how much control you are willing to share. The Federal Reserve&apos;s 2024 Small Business Lending Survey found that 43% of small business borrowers who were denied traditional bank loans turned to alternative finance products, including RBF. Here is how RBF stacks up against the most common alternatives:</p>
         <ul className={ulClass}>
-          <li><strong>vs. Bank loans:</strong> RBF is faster to obtain, more flexible on repayment, but more expensive. No covenants or fixed maturity dates.</li>
+          <li><strong>vs. Bank loans:</strong> RBF is faster to obtain, more flexible on repayment, but more expensive. No covenants or fixed maturity dates. If you already carry an <Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a) loan</Link> from your acquisition, RBF can layer on top without triggering existing covenants.</li>
           <li><strong>vs. Equity:</strong> RBF preserves ownership. No board seats, no dilution, no investor approval for decisions.</li>
           <li><strong>vs. Mezzanine:</strong> RBF is simpler to structure, faster to close, and doesn&apos;t require warrants or equity kickers.</li>
           <li><strong>vs. Merchant cash advance:</strong> RBF has more transparent pricing and longer terms. MCAs can carry effective APRs of 50&ndash;100%+.</li>
@@ -74,6 +75,30 @@ export default function RevenueBasedFinancingArticle() {
           <li>Most RBF providers serve SaaS, e-commerce, and subscription businesses; fewer options for traditional SMEs</li>
           <li>RBF is more expensive than bank debt but faster, more flexible, and non-dilutive</li>
         </ul>
+      </div>
+
+      <h2 className={h2Class}>Risks and Pitfalls of RBF</h2>
+      <div className={bodyClass}>
+        <p>While RBF offers flexibility, it is not without drawbacks. Search fund CEOs should weigh these risks carefully before signing:</p>
+        <ul className={ulClass}>
+          <li><strong>Effective cost of capital:</strong> A 1.5x payback multiple on a 12-month repayment schedule translates to an annualized cost well above 30%. Over longer horizons the cost drops, but RBF is almost always more expensive than traditional bank debt.</li>
+          <li><strong>Cash flow drag in high-growth months:</strong> Because the revenue share percentage is fixed, months with exceptionally strong revenue may see disproportionately large payments, reducing capital available for reinvestment precisely when growth opportunities are greatest.</li>
+          <li><strong>Hidden covenants:</strong> Some RBF agreements include revenue floors, minimum payment clauses, or restrictions on taking additional debt. Read the agreement carefully — the headline &ldquo;no covenants&rdquo; marketing claim does not always hold.</li>
+          <li><strong>Interaction with existing debt:</strong> If your <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> includes negative covenants restricting additional indebtedness, adding RBF may require lender consent.</li>
+        </ul>
+        <p>Lighter Capital&apos;s market data shows that approximately 15% of RBF borrowers refinance into lower-cost bank debt within 18 months of origination, suggesting that RBF works best as a bridge rather than a permanent capital solution.</p>
+      </div>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>Is revenue-based financing a good fit for traditional (non-SaaS) SMEs?</h3>
+        <p>It depends. Most RBF providers target SaaS, e-commerce, and subscription businesses because recurring revenue is easy to underwrite. However, a growing number of providers now serve service businesses with predictable monthly billing. If your acquired company has stable, recurring revenue above $30K per month, RBF may be available even in traditional industries like home services or B2B distribution.</p>
+
+        <h3 className={h3Class}>How does RBF interact with my SBA loan covenants?</h3>
+        <p>SBA 7(a) loan agreements typically include restrictions on additional indebtedness. Whether RBF counts as &ldquo;debt&rdquo; under your loan covenants depends on how the agreement is structured — some RBF products are classified as revenue purchase agreements rather than loans. Always consult your SBA lender and legal counsel before adding RBF to your capital stack.</p>
+
+        <h3 className={h3Class}>Can I use RBF to fund an acquisition rather than post-acquisition growth?</h3>
+        <p>RBF is generally not suitable for acquisition financing because it requires existing revenue to underwrite. You need a revenue-generating business before RBF providers will extend capital. For acquisition financing, consider <Link href="/learn/creative-financing" className="text-apple-accent hover:underline">creative financing structures</Link> such as seller financing, SBA loans, or investor equity.</p>
       </div>
 
       <h2 className={h2Class}>Related Resources</h2>

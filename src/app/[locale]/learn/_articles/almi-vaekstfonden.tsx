@@ -7,6 +7,7 @@ export default function AlmiVaekstfondenArticle() {
       <h1 className={h1Class}>Almi & Væ​kstfonden: Nordic Business Acquisition Financing</h1>
       <div className={bodyClass}>
         <p>The Nordic countries &mdash; Sweden, Denmark, Norway, and Finland &mdash; offer some of Europe&apos;s most attractive SME financing ecosystems for business acquisitions. Government-backed institutions like Almi (Sweden), Væ​kstfonden (Denmark), Innovasjon Norge, and Finnvera provide favorable lending terms that make the <Link href="/learn/eta-nordics" className="text-apple-accent hover:underline">Nordic ETA market</Link> particularly accessible.</p>
+        <p>According to the Nordic Council of Ministers, approximately 450,000 Nordic SMEs will face ownership transitions in the next decade as baby-boomer founders retire. This succession wave &mdash; combined with strong government support for business transfers &mdash; creates a compelling opportunity for search fund entrepreneurs willing to operate in the region. The key advantage over other European markets is the availability of subordinated, quasi-equity financing from government agencies that effectively reduces the buyer&apos;s equity requirement to 20&ndash;30%.</p>
       </div>
 
       <h2 className={h2Class}>Almi Företagspartner (Sweden)</h2>
@@ -66,7 +67,7 @@ export default function AlmiVaekstfondenArticle() {
           <li><strong>Change-of-generation loan:</strong> Specifically designed for business succession, up to &euro;100,000</li>
           <li><strong>Working capital guarantee:</strong> Guarantees for working capital needs post-acquisition</li>
         </ul>
-        <p>Finnvera&apos;s &quot;change-of-generation loan&quot; is one of the few European programs specifically designed for business succession financing.</p>
+        <p>Finnvera&apos;s &quot;change-of-generation loan&quot; is one of the few European programs specifically designed for business succession financing. As noted in Finnvera&apos;s own program documentation, these loans can cover up to 80% of the personal equity contribution needed for a business transfer, making them an ideal complement to senior bank debt. This program structure is particularly valuable for first-time acquirers who may lack significant personal capital &mdash; a common profile in the <Link href="/learn/self-funded-search" className="text-apple-accent hover:underline">self-funded search</Link> model.</p>
       </div>
 
       <h2 className={h2Class}>Typical Nordic Acquisition Structure</h2>
@@ -109,14 +110,21 @@ export default function AlmiVaekstfondenArticle() {
         <li><Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">The Capital Stack Explained</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>Almi Företagspartner, <em>Business Loans and Services Guide</em> (2024)</li>
-        <li>Væ​kstfonden, <em>Growth Loans and Guarantee Programs</em> (2024)</li>
-        <li>Finnvera, <em>Financing for Business Acquisitions and Change of Generation</em> (2024)</li>
-        <li>Innovasjon Norge, <em>Financing Programs for Entrepreneurs</em> (2024)</li>
-        <li>Nordic Council of Ministers, <em>SME Financing in the Nordic Countries</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <h3 className={h3Class}>Which Nordic country is best for a first acquisition?</h3>
+      <div className={bodyClass}>
+        <p>Sweden and Finland offer the most accessible government financing for first-time acquirers. Almi (Sweden) provides unsecured subordinated loans requiring no collateral, while Finnvera (Finland) offers specific change-of-generation loans designed for succession. Denmark&apos;s V&aelig;kstfonden guarantee program is strong but typically requires an existing banking relationship. Norway has a smaller market with higher valuations but strong government advisory support through Innovasjon Norge. Language considerations matter &mdash; English proficiency is highest in Sweden and Denmark, but local language fluency significantly improves deal flow in all Nordic markets.</p>
+      </div>
+
+      <h3 className={h3Class}>How does Nordic acquisition financing compare to SBA loans in the US?</h3>
+      <div className={bodyClass}>
+        <p>Nordic government programs share similarities with the US <Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a) program</Link> but differ in key ways. Nordic programs generally provide smaller loan amounts (typically under &euro;5M vs. up to $5M for SBA), but they offer subordinated financing that acts as quasi-equity &mdash; something the SBA doesn&apos;t provide. The combination of guaranteed senior debt plus subordinated government debt can reduce the buyer&apos;s equity requirement to 20&ndash;30%, comparable to SBA-financed deals in the US. Interest rates on Nordic government loans tend to be higher than SBA rates but lower than private mezzanine financing.</p>
+      </div>
+
+      <h3 className={h3Class}>Are there tax advantages to acquiring businesses in the Nordics?</h3>
+      <div className={bodyClass}>
+        <p>Nordic corporate tax rates are competitive at 20&ndash;22%, well below the EU average. Finland has the lowest rate at 20%. All Nordic countries offer participation exemptions on qualifying share sales, meaning that a holding company structure can enable tax-efficient exits. Sweden and Norway have particularly generous participation exemption systems. Denmark allows 7-year goodwill amortization in asset deals. For a broader comparison of tax-efficient acquisition jurisdictions, see our guide on <Link href="/learn/tax-friendliest-countries" className="text-apple-accent hover:underline">the most tax-friendly countries for acquisitions</Link>.</p>
+      </div>
     </article>
   );
 }

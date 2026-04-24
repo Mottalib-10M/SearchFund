@@ -396,14 +396,15 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Search funds ($0 personal), max seller financing, SBA with ROBS, earn-in paths — the realistic guide to buying a business with little or no cash.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
       { question: "Can you really buy a business with no money down?", answer: "Technically yes, but it's rare and comes with trade-offs. The most proven zero-personal-capital path is the traditional search fund model, where investors fund everything and you earn 20–30% equity. With seller financing, SBA loans, and creative structuring, you can also minimize personal capital to $10K–$50K." },
       { question: "What is the minimum amount needed to buy a business?", answer: "It depends on the model: traditional search fund = $0 personal capital; self-funded SBA = $50K–$200K (10–15% equity injection); aggressive seller financing = $10K–$50K (legal and transition costs). Having $100K+ in personal capital dramatically expands your options." },
+      { question: "How do sellers feel about no-money-down offers?", answer: "Most sellers are initially skeptical because they perceive higher risk. Mitigate this by presenting a well-structured deal with credible institutional backing, demonstrating deep knowledge through thorough due diligence, and offering terms that align the seller's interest with deal success (e.g., higher interest on seller financing or earn-out components)." },
     ],
   },
   {
@@ -1628,14 +1629,17 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Don't miss anything before signing. Financial, legal, operational, and commercial due diligence — every item you need to check.",
     datePublished: "2024-05-28",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "Bain & Company", title: "M&A Due Diligence Best Practices", url: "https://www.bain.com/insights/topics/mergers-and-acquisitions/", year: 2024 },
+      { name: "Deloitte", title: "M&A Trends Report", url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html", year: 2024 },
+      { name: "McKinsey & Company", title: "Cultural Integration in M&A", url: "https://www.mckinsey.com/capabilities/m-and-a/our-insights", year: 2024 },
     ],
     faqs: [
-      { question: "How long does due diligence take for a search fund acquisition?", answer: "Typical due diligence takes 60–90 days from LOI signing to close. Complex deals (regulated industries, multi-location) can take 90–120 days. The financial and legal workstreams usually run in parallel." },
+      { question: "How long does due diligence take for a search fund acquisition?", answer: "Typical due diligence takes 45–90 days from LOI signing to purchase agreement execution. Simpler businesses can close in 30 days, while complex deals (regulated industries, multi-location, environmental) may take 90–120 days. Financial and legal workstreams usually run in parallel." },
       { question: "What are the most common due diligence red flags?", answer: "Top red flags include declining revenue trends, customer concentration above 20%, undisclosed liabilities, key-person dependence, pending litigation, environmental issues, and significant discrepancies between tax returns and financial statements." },
-      { question: "How much does due diligence cost?", answer: "Budget $50,000–$150,000 for professional due diligence fees, including Quality of Earnings ($30K–$80K), legal review ($15K–$40K), and environmental/IT assessments. Costs vary by deal complexity and business size." },
+      { question: "How much does due diligence cost?", answer: "Budget $75,000–$150,000 for professional due diligence fees, including Quality of Earnings ($30K–$60K), legal counsel ($25K–$50K), environmental assessments ($5K–$15K), and specialty consultants as needed. These costs are typically funded from the search capital budget." },
     ],
   },
   {
@@ -2970,14 +2974,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Maximum seller financing, SBA with standby notes, ROBS 401(k), earn-in paths, equity partners, HELOCs — 10 creative strategies to fund your acquisition with less cash.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program — Seller Note Guidelines", year: 2024 },
-      { name: "IRS", title: "ROBS Program Guidance", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Program — Seller Note Guidelines (SOP 50 10 7.1)", year: 2024 },
+      { name: "IRS", title: "ROBS Program Guidance & EPCRS Framework", year: 2024 },
+      { name: "Commercial Finance Association", title: "Annual Asset-Based Lending Survey", year: 2024 },
     ],
     faqs: [
-      { question: "What is the most creative way to finance a business acquisition?", answer: "The most powerful creative strategy combines SBA 7(a) lending (80% of price), a seller note on full standby (10–15%, which SBA counts as equity), and ROBS (rolling over 401k/IRA funds for the remaining equity injection). This can reduce out-of-pocket cash to near zero for deals under $5M." },
+      { question: "What is the most creative way to finance a business acquisition?", answer: "The most powerful creative strategy combines SBA 7(a) lending (75–80% of the purchase price), a seller note on full standby (10–15%, which the SBA counts as equity), and ROBS (rolling over 401(k)/IRA funds for the remaining equity injection). This combination can reduce out-of-pocket cash to near zero for deals under $5M." },
       { question: "Can I use my 401(k) to buy a business?", answer: "Yes, through ROBS (Rollover for Business Startups). You form a C-Corporation, establish a 401(k) plan for it, roll over your existing retirement funds into the new plan, and the plan buys stock in your C-Corp. This provides capital without early withdrawal penalties or taxes. Setup costs $5K–$10K through a qualified ROBS provider." },
+      { question: "How much of my own money do I need to buy a business?", answer: "Traditional bank financing typically requires 10–20% buyer equity. With creative structures like SBA + seller notes, you can reduce personal cash to 5–10%. Using ROBS, HELOCs, or earn-in arrangements, some buyers close deals with little or no personal savings at risk." },
     ],
   },
 
@@ -3131,13 +3137,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a UK acquisition: Enterprise Finance Guarantee, regional funds, challenger banks, and tax considerations for UK business buyers.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "British Business Bank", title: "Enterprise Finance Guarantee Guidelines", year: 2024 },
       { name: "UK Finance", title: "SME Finance Monitor", year: 2024 },
+      { name: "BVCA", title: "Private Equity and Venture Capital Report", year: 2024 },
     ],
     faqs: [
-      { question: "What is the UK equivalent of SBA loans?", answer: "The Enterprise Finance Guarantee (EFG) is the closest UK equivalent. The government guarantees 75% of the loan (vs SBA's 75-85%), with loans up to ��1.2 million and terms up to 10 years. However, the EFG is less generous than SBA: lower maximum amounts, shorter terms, and a 2% annual guarantee premium. UK deals typically use less leverage (50-60% debt) than US deals, with the buyer providing 30%+ equity." },
+      { question: "What is the UK equivalent of SBA loans?", answer: "The Enterprise Finance Guarantee (EFG) guarantees 75% of loans up to £1.2M with terms up to 10 years. Less generous than SBA: lower amounts, shorter terms, 2% annual premium. UK deals use less leverage (50-60% debt) with 30%+ buyer equity." },
+      { question: "Are there specific programs for acquisitions outside London?", answer: "Yes. The Northern Powerhouse Investment Fund, Midlands Engine Investment Fund, Development Bank of Wales, and Scottish Enterprise all provide regional financing with more favorable terms and lower PE competition." },
+      { question: "How does Business Asset Disposal Relief affect seller negotiations?", answer: "BADR provides a 10% CGT rate on the first £1M of qualifying gains (vs. standard 20%). This incentivizes share sales. Understanding its impact on seller net proceeds helps negotiate pricing and deferred consideration terms." },
     ],
   },
 
@@ -3153,13 +3162,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a Spanish acquisition: ICO loans, ENISA participative loans, regional programs, SGR guarantees, and tax optimization.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "ICO", title: "ICO Empresas y Emprendedores Program Guide", year: 2024 },
       { name: "ENISA", title: "Participative Loans: Terms and Conditions", year: 2024 },
+      { name: "CESGAR", title: "Spanish Mutual Guarantee Societies Annual Report", year: 2024 },
     ],
     faqs: [
-      { question: "What is an ENISA participative loan?", answer: "ENISA participative loans are a uniquely Spanish financing instrument: subordinated loans of €25K-€1.5M with interest tied to company performance. Key benefits: they count as equity (net worth) under Spanish law, require no personal guarantee or collateral, and offer terms up to 9 years with up to 7-year grace period. They're ideal for supplementing acquisition financing, especially for younger entrepreneurs." },
+      { question: "Can I use an ICO loan specifically for a business acquisition?", answer: "Yes. The ICO Empresas y Emprendedores line covers business acquisitions as an eligible use of proceeds. Apply through any accredited commercial bank (Santander, BBVA, CaixaBank, etc.). Loan amounts can reach €12.5 million per client per year with terms up to 20 years." },
+      { question: "What is an ENISA participative loan and why is it valuable?", answer: "ENISA participative loans are subordinated loans of €25K–€1.5M with interest tied to company performance. Under Spanish law, they count as net worth (fondos propios), require no personal guarantee or collateral, and offer terms up to 9 years with up to 7 years of grace." },
+      { question: "How do SGRs help with acquisition financing?", answer: "SGRs act as guarantors to commercial banks, covering a portion of the loan risk. Banks can then offer lower interest rates (typically 0.5–1.5% less), reduced collateral requirements, and longer repayment terms." },
     ],
   },
 
@@ -3175,10 +3187,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance an Italian acquisition: Fondo di Garanzia, Invitalia programs, SIMEST, Confidi guarantees, and Italy's succession opportunity.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Mediocredito Centrale", title: "Fondo di Garanzia Rules and Procedures", year: 2024 },
       { name: "Invitalia", title: "Incentive Programs Guide", year: 2024 },
+      { name: "CERVED", title: "Italian SME Report: Demographic and Succession Analysis", year: 2024 },
+      { name: "SDA Bocconi", title: "Search Fund Research in Italy", year: 2024 },
     ],
     faqs: [
       { question: "What is the Fondo di Garanzia?", answer: "The Fondo di Garanzia is Italy's central guarantee fund, operated by Mediocredito Centrale. It guarantees up to 80% of loans up to €5 million, replacing traditional collateral requirements. For business acquisitions, this is the single most useful financing tool: it dramatically improves bank lending terms, reduces personal guarantee exposure, and is available through any accredited Italian bank. Combined with Confidi mutual guarantee consortia, Italian acquirers can access very favorable debt terms." },
@@ -3197,13 +3211,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a Nordic acquisition: Almi subordinated loans, Højvækstfonden guarantees, Finnvera change-of-generation loans, and Nordic tax rates.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Almi Företagspartner", title: "Business Loans and Services Guide", year: 2024 },
       { name: "Finnvera", title: "Financing for Business Acquisitions and Change of Generation", year: 2024 },
+      { name: "Nordic Council of Ministers", title: "SME Financing in the Nordic Countries", year: 2024 },
     ],
     faqs: [
-      { question: "What is Almi and how does it help with acquisitions in Sweden?", answer: "Almi Företagspartner is Sweden's national business development organization, offering subordinated loans up to SEK 5 million (~€450K) for business acquisitions. Unlike bank loans, Almi loans require no collateral and are subordinated to senior debt, effectively functioning as quasi-equity. With 40+ regional offices, Almi also provides mentoring and advisory services. The loans typically carry 5-8% interest rates and terms up to 10 years." },
+      { question: "Which Nordic country is best for a first acquisition?", answer: "Sweden and Finland offer the most accessible government financing for first-time acquirers. Almi (Sweden) provides unsecured subordinated loans requiring no collateral, while Finnvera (Finland) offers specific change-of-generation loans. Denmark's Højvækstfonden guarantee program is strong but typically requires an existing banking relationship." },
+      { question: "How does Nordic acquisition financing compare to SBA loans in the US?", answer: "Nordic programs generally provide smaller loan amounts (under €5M vs. up to $5M for SBA), but offer subordinated financing that acts as quasi-equity — something the SBA doesn't provide. The combination can reduce the buyer's equity requirement to 20–30%, comparable to SBA-financed deals." },
+      { question: "Are there tax advantages to acquiring businesses in the Nordics?", answer: "Nordic corporate tax rates are competitive at 20–22%, well below the EU average. All Nordic countries offer participation exemptions on qualifying share sales, enabling tax-efficient exits through holding company structures. Denmark allows 7-year goodwill amortization in asset deals." },
     ],
   },
 
@@ -3219,10 +3236,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a Dutch acquisition: BMKB guarantee (90% coverage), Qredits, regional ROMs, Dutch bank lending, and the participation exemption.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "RVO", title: "BMKB Program Guidelines", year: 2024 },
       { name: "KVK", title: "Bedrijf Overnemen: Financiering", year: 2024 },
+      { name: "CBS Netherlands", title: "Business Demographics and Succession Data", year: 2024 },
     ],
     faqs: [
       { question: "What is the BMKB and how does it help with Dutch acquisitions?", answer: "The BMKB (Borgstelling MKB-kredieten) is the Dutch government's primary SME credit guarantee scheme. It guarantees up to 90% of the loan value (67.5% for established businesses), with a maximum guarantee of €1.5 million. Applied through any accredited Dutch bank (Rabobank, ABN AMRO, ING), it requires a one-time 3.9% premium. For acquisitions where the buyer lacks sufficient collateral, the BMKB dramatically improves lending terms and bank willingness to finance." },
@@ -3241,10 +3259,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a Swiss acquisition: cantonal banks, Bürgschaftsgenossenschaften (CHF 1M guarantee), Swiss tax rates by canton, and the Nachfolge opportunity.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "SECO", title: "SME Policy in Switzerland", year: 2024 },
       { name: "University of St. Gallen", title: "Swiss SME Succession Study", year: 2024 },
+      { name: "KPMG Switzerland", title: "Clarity on Swiss Taxes", year: 2024 },
+      { name: "Verband Schweizerischer Kantonalbanken", title: "Cantonal Banking in Switzerland", year: 2024 },
     ],
     faqs: [
       { question: "What are Bürgschaftsgenossenschaften and how do they help with Swiss acquisitions?", answer: "Bürgschaftsgenossenschaften are four federally recognized guarantee cooperatives in Switzerland that provide loan guarantees for SME acquisitions. They can guarantee up to CHF 1 million (100% of the bank loan), for an annual fee of 1-1.5%. Applied through your commercial bank, they help entrepreneurs access acquisition financing without sufficient personal collateral. The four regional cooperatives cover all of Switzerland: BG Mitte, Ostschweiz, Cautionnement romand, and Svizzera italiana." },
@@ -3263,13 +3283,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Use CDFIs for acquisition financing: flexible underwriting, NMTC benefits, CDFI+SBA combination structures, and finding the right community lender.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "U.S. Treasury Department", title: "CDFI Fund Annual Report", year: 2024 },
       { name: "Opportunity Finance Network", title: "Annual Member Survey & Data", year: 2024 },
+      { name: "Federal Reserve Banks", title: "Small Business Credit Survey: CDFI Lending", year: 2024 },
     ],
     faqs: [
-      { question: "What is a CDFI and how can it help finance a business acquisition?", answer: "CDFIs (Community Development Financial Institutions) are Treasury-certified private financial institutions with a mission to serve underserved communities. Over 1,400 CDFIs operate across the US, providing loans of $50K-$5M+ with more flexible underwriting than traditional banks. For acquisitions, CDFIs are valuable when: SBA loans are denied, collateral is insufficient, the business is in a rural/underserved area, or the buyer is a first-time acquirer. CDFIs can also provide subordinated debt alongside SBA senior loans, reducing the equity needed." },
+      { question: "What is a CDFI and how is it different from a regular bank?", answer: "A CDFI is a Treasury-certified private financial institution with a primary mission of serving underserved communities. Unlike traditional banks, CDFIs use character-based underwriting alongside financial analysis, accept lower collateral coverage ratios, and consider community impact. Over 1,400 certified CDFIs operate across the US." },
+      { question: "Can I use CDFI financing alongside SBA loans?", answer: "Yes — the CDFI + SBA combination is one of the most powerful structures. SBA 7(a) provides 60–70% as senior debt, CDFI subordinated loan fills 10–15%, and seller financing rounds out the stack. This can reduce buyer equity to 10–15%. Some CDFIs are also SBA-preferred lenders." },
+      { question: "How do I find a CDFI in my area?", answer: "Start with three resources: the Treasury Department's CDFI Fund certification search tool (cdfifund.gov), the Opportunity Finance Network (OFN) member directory by state, and your local SBA resource partners (SCORE mentors and SBDCs). Some CDFIs specialize in specific industries or borrower demographics." },
     ],
   },
 
@@ -3285,13 +3308,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Finance a Canadian acquisition: BDC loans up to CAD 10M+, CSBFP 85% guarantee, provincial programs, and Canada's Small Business Deduction.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "BDC", title: "Business Acquisition Financing Programs", year: 2024 },
       { name: "ISDE Canada", title: "Canada Small Business Financing Program Guide", year: 2024 },
+      { name: "CFIB", title: "SME Succession Survey", year: 2024 },
     ],
     faqs: [
-      { question: "What is the BDC and how does it help with Canadian acquisitions?", answer: "The Business Development Bank of Canada (BDC) is a Crown corporation providing acquisition financing from CAD 100K to CAD 10M+. Key advantages: BDC takes subordinated positions (allowing bank senior debt alongside), offers up to 12-month principal payment grace periods, flexible seasonal repayment schedules, and sometimes waives personal guarantees on subordinated portions. BDC subordinate financing (CAD 250K-15M) provides quasi-equity without ownership dilution, making it ideal for search fund structures." },
+      { question: "Is BDC financing equivalent to SBA loans in the US?", answer: "BDC and SBA serve similar roles but differ: BDC is a direct lender while SBA guarantees commercial bank loans. BDC offers both senior and subordinated financing; SBA only guarantees senior debt. BDC amounts can exceed CAD 10M+ vs. SBA's $5M cap. The CSBFP program (85% guarantee, CAD 1.15M max) is the closer Canadian equivalent to SBA." },
+      { question: "What is the Lifetime Capital Gains Exemption and how does it affect deal structure?", answer: "The LCGE allows Canadian residents to shelter up to CAD 1,016,836 (2024) of capital gains on qualifying small business shares from tax. This enormously benefits sellers and directly impacts negotiation — sellers receiving tax-free proceeds may accept lower headline prices." },
+      { question: "Can non-Canadian residents access BDC and CSBFP financing?", answer: "BDC requires the borrowing entity to be a Canadian business, but there is no citizenship requirement for owners. Non-residents can access financing through a Canadian holding company with additional documentation. International searchers often establish a Canadian corporation and obtain work permits." },
     ],
   },
 
@@ -3307,13 +3333,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Access EIF-backed acquisition financing: InvestEU guarantees, COSME loans, country-specific programs, and how to find EIF intermediaries.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "European Investment Fund", title: "Annual Report and SME Financing Data", year: 2024 },
       { name: "European Commission", title: "InvestEU Programme Guide", year: 2024 },
+      { name: "European Court of Auditors", title: "EU Support for SME Competitiveness", year: 2024 },
     ],
     faqs: [
-      { question: "How does the EIF help with business acquisition financing?", answer: "The EIF doesn't lend directly to businesses. Instead, it provides guarantees (covering 50-80% of losses) and capital to financial intermediaries—banks, guarantee institutions, and funds—across all EU countries. This enables banks to offer lower interest rates (typically 0.5-2% below market), reduced collateral requirements, and longer loan terms for SME acquisitions. Access EIF-backed products by asking your bank if they participate in EIF programs or checking the EIF's online intermediary directory." },
+      { question: "Can I get an EIF loan directly?", answer: "No. The EIF does not lend directly to businesses. It provides guarantees and capital to financial intermediaries (banks, leasing companies, microfinance institutions) that then lend to SMEs on improved terms. Contact your commercial bank or national development bank and ask whether they participate in EIF or InvestEU guarantee programs." },
+      { question: "How much cheaper is EIF-backed financing compared to standard bank loans?", answer: "EIF-backed loans typically offer interest rates 0.5–2 percentage points below standard commercial rates, plus reduced collateral requirements. For acquisition financing in the €500K–€5M range, EIF-backed products can save €5K–€50K annually in interest costs." },
+      { question: "Are EIF programs available for non-EU buyers acquiring EU businesses?", answer: "EIF programs primarily support SMEs established in the EU. Non-EU buyers can typically access EIF-backed financing by creating an EU holding company in the target's country as the acquisition vehicle." },
     ],
   },
 
@@ -3351,13 +3380,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Master search fund legal documents: LPA structure, subscription terms, PPM essentials, side letters, and post-acquisition operating agreements.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Yale SOM", title: "Search Fund Legal Documents Series", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
+      { name: "Yale SOM", title: "Search Fund Legal Documents Series", url: "https://som.yale.edu/", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-fund-primer", year: 2024 },
+      { name: "Harvard Business School", title: "Note on Search Fund Governance", year: 2023 },
     ],
     faqs: [
-      { question: "What legal documents do you need to start a search fund?", answer: "The core documents are: (1) Limited Partnership Agreement (LPA) defining GP/LP relationship, capital calls, and profit allocation; (2) Subscription Agreement for each investor's capital commitment; (3) Private Placement Memorandum (PPM) describing the strategy and terms. Additionally, side letters may grant special rights to anchor investors. Post-acquisition, a new operating agreement governs board composition, reserved matters, and reporting. Yale SOM and Stanford GSB provide widely-used templates." },
+      { question: "What legal documents do you need to start a search fund?", answer: "The core documents are: (1) Limited Partnership Agreement (LPA) defining GP/LP relationship, capital calls, and profit allocation; (2) Subscription Agreement for each investor's capital commitment; (3) Private Placement Memorandum (PPM) describing the strategy and terms. Side letters may grant special rights to anchor investors. Post-acquisition, a new operating agreement governs board composition, reserved matters, and reporting." },
+      { question: "How much do search fund legal documents cost to prepare?", answer: "Budget $15,000–$30,000 for initial document preparation, assuming you start from Yale SOM or Stanford GSB templates. Costs rise with unusual structures (international investors, multiple searchers, non-standard economics) or extensive side letter negotiations. Using a search-fund-experienced attorney reduces costs significantly." },
+      { question: "What happens to the legal documents if no acquisition is made?", answer: "The LPA includes dissolution provisions: remaining search capital is returned to investors pro-rata, the searcher has no obligation to repay salary or expenses already incurred, and the partnership is wound down. Some LPAs allow a 6–12 month extension with investor approval." },
     ],
   },
 
@@ -3743,7 +3775,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Apply lean manufacturing and Six Sigma principles to acquired SMEs. Value stream mapping, waste elimination, and quick-win improvements that expand margins.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Lean Enterprise Institute", title: "Lean Thinking for Small and Mid-Size Manufacturers", year: 2024 },
       { name: "ASQ", title: "Six Sigma Fundamentals for Small Business", year: 2024 },
@@ -3805,11 +3837,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Build a marketing strategy for your acquired business: website refresh, Google Ads, review generation, SEO, and the rebranding decision framework.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
       { name: "HubSpot", title: "State of Marketing for SMBs", year: 2024 },
       { name: "Google", title: "Think with Google: Local Marketing Best Practices", year: 2024 },
       { name: "Stanford GSB", title: "Marketing Strategy in Search Fund Companies", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
       {
@@ -3958,9 +3991,9 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Return capital to investors without selling your company. How dividend recaps work, typical leverage levels, and risks to consider.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "Dividend Recapitalizations in Search Fund Companies", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Study — Dividend Recapitalizations", year: 2024 },
       { name: "Harvard Business Review", title: "Recapitalization Strategies for Private Companies", year: 2024 },
       { name: "Bain & Company", title: "The Economics of Dividend Recaps in Mid-Market M&A", year: 2024 },
     ],
@@ -3971,9 +4004,14 @@ export const allArticles: ArticleMeta[] = [
           "A dividend recap is when a company takes on new debt and uses the proceeds to pay a special dividend to equity holders. This lets investors and the CEO extract cash without selling the business. Ownership percentages stay the same, and the CEO continues operating the company.",
       },
       {
-        question: "When does a dividend recap make sense?",
+        question: "When does a dividend recap make sense for a search fund?",
         answer:
-          "When the business has strong, stable cash flow (2.0x+ debt service coverage), investors need partial liquidity, and the CEO believes the business will be worth significantly more in 2–3 years. Typical leverage is 3–4x EBITDA with 1–2x returned as dividend.",
+          "A recap makes sense when the business has strong, stable cash flow (2.0x+ debt service coverage), investors need partial liquidity, and the CEO believes the business will be worth significantly more in 2–3 years. Typical leverage is 3–4x EBITDA with 1–2x returned as dividend. Most recaps occur 3–5 years post-acquisition.",
+      },
+      {
+        question: "How is a dividend recapitalization taxed?",
+        answer:
+          "In the US, dividends from a recap are generally taxed as qualified dividends at long-term capital gains rates (0–20%) if equity has been held for more than one year. The new debt proceeds are not taxable income to the company, and interest payments are generally tax-deductible, subject to interest deduction limitations.",
       },
     ],
   },
@@ -4279,7 +4317,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "The vet practice acquisition opportunity: $140B pet economy, recurring wellness revenue, management company structures, and 5–8x solo vs. 12–18x platform multiples.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
       { name: "AVMA", title: "Veterinary Practice Economic Survey", year: 2024 },
       { name: "APPA", title: "National Pet Owners Survey", year: 2024 },
@@ -4289,12 +4327,17 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Can a non-veterinarian own a vet practice?",
         answer:
-          "Many states require a licensed veterinarian to own the practice. Non-vet ownership may require a management company model similar to the dental DSO structure. Some states allow non-vet ownership directly. Check your state's Veterinary Practice Act and partner with a licensed vet who serves as medical director.",
+          "It depends on the state. Many states require a licensed veterinarian to hold the practice license, but non-vet ownership is permitted through a management company (MSO) model similar to the dental DSO structure. Some states allow direct non-veterinarian ownership. Always check your state's Veterinary Practice Act before structuring a deal.",
       },
       {
-        question: "What should I look for in veterinary practice due diligence?",
+        question: "What EBITDA multiples do veterinary practices trade at?",
         answer:
-          "Key metrics: revenue per DVM ($700K–1M benchmark), active client count (trailing 18 months), average transaction value ($200–400 per visit), staff retention (vet tech turnover is a major challenge), equipment condition, and revenue mix (wellness 30–40%, medical 30–40%, surgery 15–25%).",
+          "Solo and small veterinary practices typically sell at 5–8x EBITDA, while multi-location platforms command 12–18x EBITDA from corporate consolidators like Mars Veterinary Health and NVA. This arbitrage is the core value creation thesis for search fund operators pursuing a buy-and-build strategy.",
+      },
+      {
+        question: "How do wellness plans improve practice economics?",
+        answer:
+          "Wellness plans increase client compliance with preventive visits (from roughly 50% to 85%+), create predictable monthly recurring revenue, and dramatically improve client retention — clients on plans visit 2–3x more often and are far less likely to switch practices. Practices with well-designed wellness plans typically see 20–30% higher annual client spend.",
       },
     ],
   },
@@ -4576,7 +4619,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "How to evaluate waste collection businesses: route density, fleet condition, environmental compliance, and roll-up strategies.",
     datePublished: "2025-06-14",
-    dateModified: "2025-06-14",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Environmental Research & Education Foundation", title: "Analysis of the US Solid Waste Industry", year: 2024 },
       { name: "Waste360", title: "State of the Waste Industry Report", year: 2024 },
@@ -4586,12 +4629,17 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Why is waste management considered recession-proof?",
         answer:
-          "Trash collection is mandatory — businesses and residents must dispose of waste regardless of economic conditions. Revenue barely declined even during 2008–2009. Over 90% of revenue is subscription/contract-based with monthly billing and CPI-linked price escalators.",
+          "Trash collection is mandatory — businesses and residents must dispose of waste regardless of economic conditions. During the 2008–2009 recession, waste industry revenue declined less than 3%. Over 90% of revenue is subscription/contract-based with monthly billing and CPI-linked price escalators, providing built-in inflation protection.",
       },
       {
         question: "What is route density and why does it matter?",
         answer:
-          "Route density refers to the number of customers per collection route. More customers per route means lower cost per stop and higher margins. It's the primary value driver in waste collection — every new customer added to an existing route is almost pure margin improvement.",
+          "Route density refers to the number of customers served per mile driven on a collection route. Higher density means more revenue per truck-hour and better margins. Adding new customers on existing routes has near-zero marginal cost, making tuck-in acquisitions the most effective growth lever.",
+      },
+      {
+        question: "How much does a refuse truck cost and how does fleet capex work?",
+        answer:
+          "New refuse trucks cost $300,000–$400,000 each with a useful life of 8–12 years. Fleet replacement is the single largest capital expenditure. During due diligence, assess average fleet age, maintenance records, and upcoming replacement needs — an aging fleet may require $500K–$1M+ in near-term capex.",
       },
     ],
   },
@@ -5824,13 +5872,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Protect your IP investment: ownership verification, registration status, contractor assignments, open-source risks, and asset vs. stock transfer.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "WIPO", title: "IP Due Diligence for Business Acquisitions", year: 2024 },
       { name: "USPTO", title: "Trademark and Patent Assignment Guide", year: 2024 },
+      { name: "OSI", title: "Open Source License Compliance in M&A", year: 2024 },
     ],
     faqs: [
-      { question: "What IP issues should I check during acquisition due diligence?", answer: "Key IP due diligence items: (1) Verify the seller actually owns all claimed IP—missing contractor IP assignments are the #1 issue; (2) Check trademark/patent registration status and renewal dates; (3) Review all licenses for change-of-control provisions; (4) For software businesses, audit open-source components for copyleft license risks (GPL); (5) Confirm trade secret protections (NDAs, access controls) are in place. In asset deals, every IP asset must be explicitly assigned in writing." },
+      { question: "What is the most common IP issue found during acquisition due diligence?", answer: "Missing contractor IP assignments are the single most common issue. When a business hires freelancers without proper IP assignment agreements, the contractor may legally own that work. Always verify that written assignment agreements exist for every piece of contractor-created IP." },
+      { question: "How does IP transfer differently in an asset deal vs. a stock deal?", answer: "In a stock deal, the company entity remains the same, so IP ownership does not change hands — but check for change-of-control triggers in third-party licenses. In an asset deal, every IP asset must be explicitly assigned to the buyer in writing and recorded with relevant authorities (USPTO, EUIPO, etc.)." },
+      { question: "Should I hire a specialist for IP due diligence?", answer: "For any business where IP is a material driver of value (software, branded products, proprietary processes), engaging an IP attorney is strongly recommended. Typical costs are $5K–$20K for a focused IP audit, plus $3K–$10K for an open-source license audit for software businesses." },
     ],
   },
 
@@ -5846,13 +5897,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Manage data privacy in acquisitions: GDPR due diligence rules, consent transfer, CCPA obligations, and avoiding fines of up to 4% of turnover.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "EDPB", title: "Guidelines on Data Processing in M&A Transactions", year: 2024 },
       { name: "ICO", title: "Data Protection and Mergers & Acquisitions", year: 2024 },
+      { name: "CPPA", title: "California Consumer Privacy Act Enforcement Guidelines", year: 2025 },
     ],
     faqs: [
-      { question: "How does GDPR affect business acquisitions?", answer: "GDPR impacts acquisitions in several ways: during due diligence, the seller must use anonymized/pseudonymized data where possible (legitimate interest basis for sharing); post-acquisition, the buyer must have a valid legal basis to continue processing personal data; existing marketing consents may not cover the new entity; privacy notices must be updated to reflect the new data controller. Asset deals create more complexity than stock deals since personal data must be actively transferred between entities. GDPR fines can reach €20M or 4% of turnover." },
+      { question: "Does the buyer inherit GDPR liability from the seller?", answer: "In a stock deal, yes — the acquired company retains its full compliance history, including any past violations. The EDPB has confirmed that supervisory authorities can investigate and fine for pre-acquisition breaches discovered after the deal closes. In an asset deal, liability generally stays with the seller's entity, but the buyer must still ensure transferred data has a lawful processing basis." },
+      { question: "Can customer data be shared during due diligence?", answer: "Under GDPR, the seller may share personal data during due diligence under a 'legitimate interest' basis, but only the minimum data necessary. Best practice is to use anonymized or aggregated data wherever possible. Under CCPA, there is an explicit 'business purpose' exception that permits data sharing as part of an M&A transaction." },
+      { question: "What privacy steps should I take immediately after closing?", answer: "Within the first 90 days, update all privacy notices to reflect the new data controller, review and renegotiate vendor data processing agreements, appoint a Data Protection Officer if required, and conduct a gap analysis between your privacy standards and the acquired company's practices." },
     ],
   },
 
@@ -5912,13 +5966,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Optimize your acquisition: interest deductibility, participation exemptions (0-100% by country), tax consolidation, and anti-abuse rules.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "European Commission", title: "Anti-Tax Avoidance Directive Implementation Guide", year: 2024 },
       { name: "OECD", title: "BEPS Action 4: Interest Deduction Limitations", year: 2024 },
+      { name: "EY", title: "Worldwide Corporate Tax Guide", year: 2024 },
     ],
     faqs: [
-      { question: "How does a holding company reduce acquisition taxes?", answer: "A holding company enables three key tax benefits: (1) Interest deductibility—acquisition debt sits at the holding level, and through tax consolidation, interest offsets the operating company's profits; (2) Participation exemptions—dividends flowing from subsidiary to holding are 95-100% tax-free in most European countries; (3) Exit optimization—capital gains on selling subsidiary shares benefit from participation exemptions. Interest deductions are typically capped at 30% of EBITDA under EU ATAD rules." },
+      { question: "How much can a holding company save in taxes on an acquisition?", answer: "For a typical €3M acquisition financed with €2M in debt at 5% interest (€100K annual interest), tax consolidation saves approximately €25K–€33K per year at a 25–33% corporate tax rate. Over a seven-year holding period, cumulative savings can reach €150K–€200K." },
+      { question: "Does my holding company need real employees and an office?", answer: "Yes. Under EU anti-abuse rules and the proposed 'Unshell' Directive, holding companies must demonstrate genuine economic substance: a physical office, local employees or directors who make real decisions, and a bank account in the holding jurisdiction." },
+      { question: "What is the 30% EBITDA interest limitation?", answer: "Under the EU Anti-Tax Avoidance Directive (ATAD), net borrowing costs are deductible only up to 30% of the group's EBITDA. Most EU countries provide a safe harbor (typically €1M–€3M) below which the cap does not apply. For search fund acquisitions under €5M, the safe harbor often covers the full interest expense." },
     ],
   },
 
@@ -5934,13 +5991,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Use intégration fiscale to deduct acquisition debt interest: 95% ownership rule, 5-year commitment, 30% EBITDA cap, and practical setup steps.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Code Général des Impôts", title: "Articles 223 A à 223 U: Intégration Fiscale", year: 2024 },
       { name: "DGFiP", title: "Guide Pratique de l'Intégration Fiscale", year: 2024 },
+      { name: "Francis Lefebvre", title: "Mémento Fiscal: Intégration Fiscale", year: 2024 },
     ],
     faqs: [
-      { question: "What is intégration fiscale and how does it help with French acquisitions?", answer: "Intégration fiscale is France's tax consolidation regime, allowing a parent company to combine profits and losses of its 95%+ owned subsidiaries into one tax return. For acquisitions, the key benefit is that the holding company's acquisition debt interest (e.g., €100K/year) offsets the operating subsidiary's profits, saving ~€25K/year in taxes at the 25% IS rate. The election is irrevocable for 5 years, requires same fiscal year-ends across the group, and interest deduction is capped at 30% of consolidated EBITDA with a €3M safe harbor." },
+      { question: "How quickly can I set up intégration fiscale after acquiring a French company?", answer: "The election must be filed before the start of the first consolidated fiscal year. If you close mid-year, you may need to wait until the following fiscal year. Work with your expert-comptable to align the holding and target's fiscal year-ends before filing." },
+      { question: "What happens if I own only 90% of the target company?", answer: "You cannot use intégration fiscale. The 95% threshold applies to both capital and voting rights. If a seller retains more than 5%, you will not qualify until you acquire the remaining shares." },
+      { question: "Can I break the intégration fiscale before the 5-year commitment?", answer: "The election is irrevocable for 5 fiscal years. Early termination triggers recapture mechanisms. If ownership drops below 95%, the subsidiary automatically exits the group. Consult a fiscaliste before making changes." },
     ],
   },
 
@@ -5956,10 +6016,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Use Organschaft to deduct acquisition debt interest: PLTA requirements, 5-year commitment, Zinsschranke, and step-by-step setup guide.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "KStG", title: "§§14-19: Organschaft Provisions", year: 2024 },
       { name: "KPMG Germany", title: "German Tax Consolidation Guide", year: 2024 },
+      { name: "BFH", title: "Recent Case Law on Organschaft Requirements", year: 2024 },
+      { name: "GewStG", title: "§2 Abs. 2: Gewerbesteuer Organschaft", year: 2024 },
     ],
     faqs: [
       { question: "What is Organschaft and how does it help with German acquisitions?", answer: "Organschaft is Germany's tax consolidation regime requiring a profit and loss transfer agreement (Gewinnabführungsvertrag) maintained for at least 5 years. It enables the holding GmbH's acquisition debt interest to offset the target's operating profits. For a €3M acquisition with €150K annual interest, Organschaft saves ~€45-50K/year in combined corporate and trade tax. The PLTA must be notarized and registered with the Handelsregister. Interest deductions are subject to the 30% EBITDA Zinsschranke with a €3M safe harbor." },
@@ -6049,10 +6111,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Choose the right Italian entity: SRL vs. SPA for acquisitions—governance, share classes, €200 flat transfer tax, and PEX participation exemption.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Codice Civile Italiano", title: "Libro V: SRL & SPA Provisions", year: 2024 },
       { name: "SDA Bocconi", title: "Italian Corporate Structures for Acquisitions", year: 2024 },
+      { name: "Assonime", title: "Guide to Italian Company Law for Foreign Investors", year: 2024 },
+      { name: "Agenzia delle Entrate", title: "Tax Guide for Business Transfers", year: 2024 },
     ],
     faqs: [
       { question: "Should I use an SRL or SPA for an Italian acquisition?", answer: "SRL is the standard for Italian SME acquisitions: €10K minimum capital (vs. €50K for SPA), simpler governance, and significant post-2003 flexibility. SPA is better for larger deals needing multiple share classes, bond issuance, or future listing. Italy's flat €200 registration tax on both SRL and SPA transfers makes it one of Europe's cheapest countries for share deals. The 95% PEX (participation exemption) on capital gains makes Italian holding structures very tax-efficient." },
@@ -6071,13 +6135,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Structure a Dutch acquisition: BV vs. NV, 100% participation exemption, fiscal unity, innovation box, and Flex-BV governance flexibility.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Burgerlijk Wetboek", title: "Book 2: BV & NV Provisions", year: 2024 },
       { name: "Belastingdienst", title: "Vennootschapsbelasting and Participation Exemption Guide", year: 2024 },
+      { name: "Loyens & Loeff", title: "Dutch Corporate Law for Foreign Investors", year: 2024 },
     ],
     faqs: [
-      { question: "Should I use a BV or NV for a Dutch acquisition?", answer: "BV is the clear choice for SME acquisitions. Since the 2012 Flex-BV reform, the BV requires virtually no minimum capital (€0.01), supports multiple share classes with different rights, and offers full governance flexibility. The NV requires €45K capital and is only relevant for stock exchange listings. The Dutch participation exemption (100% on qualifying participations) and fiscal unity (tax consolidation for 95%+ owned subsidiaries) make BV holding structures exceptionally tax-efficient." },
+      { question: "Should I use a BV or NV for a Dutch acquisition?", answer: "For virtually all SME acquisitions, the BV is the correct choice. Since the 2012 Flex-BV reform, it offers nearly unlimited flexibility with essentially no minimum capital. The NV is only relevant for companies planning a stock exchange listing on Euronext Amsterdam." },
+      { question: "What is fiscal unity and how does it benefit acquisition structures?", answer: "Fiscal unity allows a parent BV owning 95%+ of a subsidiary to consolidate into a single tax filing. Profits from the operating subsidiary can offset acquisition debt interest at the holding BV level, effectively making acquisition financing tax-deductible." },
+      { question: "Do I need a works council for a Dutch acquisition?", answer: "If the target has 50+ employees, a works council (ondernemingsraad) with advisory rights on acquisitions is mandatory. The council must be consulted before closing. Factor 4–6 weeks into your closing timeline." },
     ],
   },
 
@@ -6093,10 +6160,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Save $50K-$100K+ annually: step-up in basis mechanics, Section 197 amortization, purchase price allocation, and negotiation tactics.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IRS", title: "IRC Section 197: Amortization of Goodwill and Certain Other Intangibles", year: 2024 },
       { name: "AICPA", title: "Purchase Price Allocation Guide for M&A Transactions", year: 2024 },
+      { name: "Deloitte", title: "Tax Considerations for Business Acquisitions", year: 2024 },
+      { name: "IRS", title: "IRC Section 1060: Special Allocation Rules for Asset Acquisitions", year: 2024 },
     ],
     faqs: [
       { question: "What is a step-up in basis and why does it matter for acquisitions?", answer: "A step-up in basis revalues acquired assets to their fair market value for tax purposes, generating depreciation and amortization deductions that reduce taxes. In a $3M asset purchase, annual tax deductions of $200K-$400K can save $50K-$100K+ per year. The step-up applies to tangible assets (equipment, real estate), intangibles (customer lists, non-competes), and goodwill (15-year amortization under Section 197). Only available in asset purchases or stock purchases with a 338(h)(10) election—not in standard stock deals." },
@@ -6115,13 +6184,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Get asset purchase tax benefits from a stock deal: 338(h)(10) mechanics, S-Corp use case, stepped-up basis, and annual tax savings.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IRS", title: "IRC Section 338(h)(10): Regulations and Guidance", year: 2024 },
       { name: "PwC", title: "Tax Structuring for SME Acquisitions", year: 2024 },
+      { name: "AICPA", title: "Section 338 Elections: A Practical Guide", year: 2024 },
     ],
     faqs: [
-      { question: "What is a 338(h)(10) election and when should I use it?", answer: "The 338(h)(10) election lets buyer and seller treat a stock purchase as an asset purchase for federal tax purposes. The buyer gets a stepped-up basis in all assets (generating future depreciation/amortization deductions) while legally purchasing stock (preserving contracts, licenses, and employer status). Most commonly used for S-Corp acquisitions. Both parties must agree, and the seller may need a price adjustment to compensate for their tax impact. Annual tax savings of $50K-$100K+ are typical on search fund-sized deals." },
+      { question: "When should I use a 338(h)(10) election vs. a straight asset purchase?", answer: "Use a 338(h)(10) when the target is an S-Corporation or corporate subsidiary and the legal benefits of a stock purchase outweigh the liability risk. Stock purchases are preferred when the target holds non-transferable contracts, permits, or certifications. If liability risk is your primary concern, a straight asset purchase gives you more protection." },
+      { question: "Can a 338(h)(10) election be made for a C-Corporation?", answer: "Not for a standalone C-Corporation sold by individual shareholders. The election is available only for S-Corporations and corporate subsidiaries. For standalone C-Corps, a Section 336(e) election may provide a similar result in certain circumstances." },
+      { question: "How much do the tax savings amount to on a typical search fund deal?", answer: "On a typical $3M–$10M search fund acquisition, annual tax deductions from the stepped-up basis range from $200K to $700K, translating to $50K–$175K in annual cash tax savings at a 25% effective rate. Over the 15-year Section 197 amortization period, cumulative savings range from $750K to $2.6M." },
     ],
   },
 
@@ -6137,13 +6209,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Protect your acquisition: R&W insurance costs, key person coverage for SBA loans, D&O insurance, and when each type makes sense.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Marsh", title: "Transactional Risk Insurance Market Report", year: 2024 },
       { name: "AIG", title: "Representations and Warranties Insurance Guide", year: 2024 },
+      { name: "Willis Towers Watson", title: "D&O Insurance Market Update", year: 2024 },
     ],
     faqs: [
-      { question: "What is R&W insurance and when does it make sense?", answer: "Representations & Warranties (R&W) insurance covers losses from breaches of the seller's reps in the purchase agreement. It costs 2-4% of coverage limits (typically 10-30% of enterprise value). It makes sense when: the seller wants a clean exit without indemnification obligations, you're in a competitive bidding situation, the seller may lack creditworthiness for claims, or the seller becomes your employee. Previously available only for $25M+ deals, some insurers now cover deals as small as $5-10M." },
+      { question: "Is R&W insurance worth it for a small search fund deal?", answer: "For deals under $5M, R&W insurance is generally not cost-effective because the premium ($40K–$80K+) represents a significant percentage of deal value. For deals in the $5M–$20M range, it becomes increasingly valuable, especially when the seller wants a clean exit or the deal is competitive." },
+      { question: "What does key person insurance cost and who pays for it?", answer: "Key person insurance typically costs $500–$3,000 per year. The business is both purchaser and beneficiary. SBA lenders almost always require it on the searcher/CEO with coverage equal to the outstanding loan balance." },
+      { question: "When should I purchase tail D&O coverage?", answer: "Tail D&O coverage should be purchased at the time you sell the company. It extends protection for board members for actions taken during ownership, typically for 6 years after sale. Cost is roughly 200–300% of the final annual D&O premium." },
     ],
   },
 
@@ -6159,13 +6234,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Grow your acquired company with revenue-based financing: how RBF works, key terms, when it beats bank debt, and top providers.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Lighter Capital", title: "Revenue-Based Financing: Market Data and Trends", year: 2024 },
-      { name: "PitchBook", title: "Alternative Lending Market Report", year: 2024 },
+      { name: "Lighter Capital", title: "Revenue-Based Financing: Market Data and Trends", url: "https://www.lightercapital.com/", year: 2024 },
+      { name: "PitchBook", title: "Alternative Lending Market Report", url: "https://pitchbook.com/", year: 2024 },
+      { name: "Federal Reserve", title: "Small Business Lending Survey: Alternative Finance", url: "https://www.federalreserve.gov/", year: 2024 },
     ],
     faqs: [
-      { question: "What is revenue-based financing and how does it work?", answer: "Revenue-Based Financing (RBF) provides a capital advance ($100K-$5M) repaid as a fixed percentage (2-8%) of monthly gross revenue until a cap is reached (1.3-2.5x the original amount). Advantages: no equity dilution, flexible payments that adjust with revenue, and no personal guarantee required by many providers. Best for post-acquisition growth capital, not the acquisition itself. More expensive than bank debt but faster and more flexible." },
+      { question: "What is revenue-based financing and how does it work?", answer: "Revenue-Based Financing (RBF) provides a capital advance ($100K–$5M) repaid as a fixed percentage (2–8%) of monthly gross revenue until a cap is reached (1.3–2.5x the original amount). No equity dilution, flexible payments that adjust with revenue, and often no personal guarantee. Best for post-acquisition growth capital, not the acquisition itself." },
+      { question: "Is RBF a good fit for traditional (non-SaaS) SMEs?", answer: "Most RBF providers target SaaS, e-commerce, and subscription businesses, but a growing number now serve service businesses with predictable monthly billing. If your company has stable recurring revenue above $30K/month, RBF may be available even in traditional industries like home services or B2B distribution." },
+      { question: "Can I use RBF to fund an acquisition?", answer: "RBF is generally not suitable for acquisition financing because it requires existing revenue to underwrite. For acquisition financing, consider seller financing, SBA loans, or investor equity instead." },
     ],
   },
 
@@ -6181,10 +6259,12 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Choose the right French entity: SAS vs. SARL for acquisitions—transfer taxes, social charges, governance flexibility, and investor compatibility.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Légifrance", title: "Code de Commerce: SAS & SARL Provisions", year: 2024 },
       { name: "Bpifrance", title: "Guide des Structures Juridiques pour la Reprise", year: 2024 },
+      { name: "INSEE", title: "Business Formation Statistics", year: 2024 },
+      { name: "Francis Lefebvre", title: "Mémento Sociétés Commerciales", year: 2024 },
     ],
     faqs: [
       { question: "Should I use a SAS or SARL for a French acquisition?", answer: "SAS is the clear choice for search fund acquisitions in France. Key advantages: 0.1% transfer tax (vs. 3% for SARL), no social charges on dividends (SARL majority gérant faces ~45% charges above 10% threshold), total governance flexibility in statutes (drag-along, tag-along, preferred shares), and better investor/bank compatibility. SARL may work for very small owner-operated acquisitions without outside investors, but SAS is the standard for structured deals." },
@@ -6203,13 +6283,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Structure a German acquisition: GmbH vs. UG entity choice, notarization requirements, Organschaft tax consolidation, and holding company setup.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Bundesministerium der Justiz", title: "GmbH-Gesetz (GmbHG)", year: 2024 },
       { name: "KfW", title: "Nachfolgemonitor Mittelstand", year: 2024 },
+      { name: "DIHK", title: "Unternehmensnachfolge: Rechtliche Rahmenbedingungen", year: 2024 },
     ],
     faqs: [
-      { question: "Should I use a GmbH or UG for a German acquisition?", answer: "Use a GmbH. The UG (mini-GmbH with €1 minimum capital) saves the €25K capital requirement but carries credibility concerns with banks, suppliers, and business partners. For serious acquisitions with bank financing and investors, the GmbH is the standard. Key requirements: all share transfers must be notarized by a German notary, a managing director (Geschäftsführer) must be appointed, and annual accounts filed with the Bundesanzeiger. Total corporate tax is 29-33% (corporate + trade tax)." },
+      { question: "What is the minimum capital required for a GmbH?", answer: "A GmbH requires €25,000 in share capital, with at least €12,500 paid in at formation. A UG (haftungsbeschränkt) can be formed with as little as €1 but must retain 25% of annual net profit until reaching the €25,000 threshold." },
+      { question: "Should I use a UG or a GmbH as my acquisition holding company?", answer: "For serious acquisitions involving bank financing and institutional investors, always use a GmbH. Banks and investors view the UG negatively due to its low capitalization. A UG may be appropriate only as a temporary placeholder during the search phase." },
+      { question: "Do I need to be a German resident to be a GmbH Geschäftsführer?", answer: "No. A Geschäftsführer does not need to be a German resident or citizen. However, non-residents must comply with German tax registration requirements. Having at least one Germany-based managing director simplifies banking relationships and day-to-day administration." },
     ],
   },
 
@@ -6225,13 +6308,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Choose the right UK entity: Ltd vs. LLP for acquisitions—tax treatment, investor compatibility, financing options, and exit planning.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Companies House", title: "Incorporation and Filing Requirements", year: 2024 },
       { name: "HMRC", title: "Corporation Tax and LLP Taxation Guidance", year: 2024 },
+      { name: "Law Society of England and Wales", title: "Business Acquisition Guide", year: 2024 },
     ],
     faqs: [
-      { question: "Should I use a Ltd or LLP for a UK acquisition?", answer: "Ltd is the standard for UK acquisitions. Advantages: Corporation Tax at 19-25% (vs. income tax up to 45% for LLP members), preferred by investors and banks, easy share transfers with 0.5% stamp duty (no notarization needed), and ability to create preference shares. LLP is common in professional services but less suitable for search fund structures. EMI share options in an Ltd provide tax-efficient equity incentives for key employees post-acquisition." },
+      { question: "Is an Ltd or LLP better for a search fund acquisition in the UK?", answer: "An Ltd is almost always the better choice. It is the standard structure for UK acquisitions — preferred by search fund investors (who can hold preference shares), banks (which strongly prefer lending to Ltd companies), and for governance flexibility. LLPs create complications for search fund structures: no share classes, tax-transparency issues, and limited financing options." },
+      { question: "What is the stamp duty on buying shares in a UK Ltd company?", answer: "Stamp duty on share purchases is 0.5% of the consideration, rounded up to the nearest £5, and applies to purchases above £1,000. LLP interest transfers attract no stamp duty, which is one of the few structural advantages of the LLP form." },
+      { question: "Can I convert an LLP to an Ltd after acquisition?", answer: "There is no statutory conversion mechanism from LLP to Ltd in the UK. The typical approach is to incorporate a new Ltd, transfer the LLP's business and assets, then wind down the LLP. Budget 3–6 months and £10K–£30K in professional fees for a clean conversion." },
     ],
   },
 
@@ -6894,7 +6980,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Your inherited team didn't choose you as boss. First week actions, earning credibility, common CEO mistakes, and retention strategies for the people who make the business work.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "The First 90 Days (Watkins)", year: 2013 },
@@ -6916,10 +7002,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Raise prices 3–8%, re-bid insurance, accelerate collections, optimize Google listing — the quick wins that build credibility and generate cash flow from day one.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "The First 90 Days (Watkins)", year: 2013 },
+      { name: "McKinsey", title: "Pricing as a Profit Lever in M&A", year: 2024 },
     ],
     faqs: [
       { question: "What are the best quick wins after buying a business?", answer: "Highest-impact quick wins: (1) Raise prices 3–8% (drops directly to EBITDA), (2) Re-bid insurance policies (10–25% savings), (3) Renegotiate top 5 vendor contracts, (4) Accelerate AR collections, (5) Optimize Google Business Profile, (6) Reactivate dormant customers. Budget $0–$50K to implement; expected EBITDA impact: $100K–$500K." },
@@ -8338,15 +8425,17 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$1-20M ETA vs $100M+ PE, 35% IRR vs 15-20%, step-up equity vs 2/20. Compare every dimension of ETA and PE investing.",
     datePublished: "2024-10-10",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
       { name: "Cambridge Associates", title: "Private Equity Index", year: 2024 },
+      { name: "Preqin", title: "Global Private Equity & Venture Capital Report", year: 2024 },
     ],
     faqs: [
-      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1–20M enterprise value vs $100M+ for PE), involves a single operator-CEO rather than a management team, uses step-up equity instead of 2/20 fee structures, and focuses on one business at a time. The operator is deeply aligned through personal equity." },
-      { question: "Do search funds outperform private equity?", answer: "On an IRR basis, search funds have historically outperformed PE (35% vs 15–20% median net IRR). However, PE offers larger absolute returns per fund, more diversification, and greater liquidity. The comparison depends on the investor's portfolio construction goals." },
+      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1–20M enterprise value vs $100M+ for PE), involves a single operator-CEO rather than a management team, uses step-up equity instead of 2/20 fee structures, and focuses on one business at a time. The operator is deeply aligned through personal equity and earns outsized returns only when investors do." },
+      { question: "Do search funds outperform private equity?", answer: "On an IRR basis, search funds have historically outperformed PE (33%+ median pre-tax IRR vs 14–18% median net IRR for PE). However, PE offers larger absolute returns per fund, more diversification, and greater liquidity. The comparison depends on the investor's portfolio construction goals." },
+      { question: "Can I invest in both ETA and PE?", answer: "Yes, and many sophisticated investors do. A typical approach allocates 60–70% of private equity capital to traditional PE funds for diversified exposure and 20–30% across 10–20 search fund investments per vintage year for high-IRR alpha. The low correlation between individual search fund outcomes and broader PE cycles adds genuine diversification benefit." },
     ],
   },
   {
@@ -8638,15 +8727,17 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "3.5–5.5x EBITDA, 40–60% gross margins on service, $150B+ fragmented market. The complete guide to acquiring and scaling an HVAC business through ETA.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "ACHR News", title: "HVAC Industry Market Data", year: 2024 },
       { name: "ServiceTitan", title: "Home Services Industry Benchmarks", year: 2024 },
       { name: "BLS", title: "HVAC Technician Occupational Outlook", year: 2024 },
+      { name: "IBISWorld", title: "HVAC Contractors Industry in the US", year: 2025 },
     ],
     faqs: [
-      { question: "What are typical HVAC business valuation multiples?", answer: "Small HVAC operators (<$2M revenue) trade at 2–3.5x SDE. Mid-size companies ($2M–$10M revenue) sell for 3.5–5.5x EBITDA. Larger platforms ($10M+) command 5–7x EBITDA. Add-on acquisitions can be acquired at 2–3.5x EBITDA, creating significant arbitrage in buy-and-build strategies." },
-      { question: "Why is HVAC a popular search fund acquisition target?", answer: "HVAC businesses offer essential-service demand (recession-resistant), recurring revenue from maintenance contracts (20–40% of revenue), strong margins (12–20% EBITDA), a massively fragmented market ($150B+, top 10 hold <15% share), and a huge succession wave with average owner age 58+." },
+      { question: "What are typical HVAC business valuation multiples?", answer: "Small HVAC operators (<$2M revenue) trade at 2–3.5x SDE. Mid-size companies ($2M–$10M revenue) sell for 3.5–5.5x EBITDA. Larger platforms ($10M+) command 5–7x EBITDA. Add-on acquisitions at 2–3.5x create significant buy-and-build arbitrage." },
+      { question: "What should I look for in HVAC due diligence?", answer: "Focus on technician workforce (EPA 608 certifications, turnover), maintenance contract base (active agreements, renewal rates), fleet condition, contractor license transfer, and manufacturer dealer relationships. Companies with 1,500+ active maintenance contracts achieve materially higher EBITDA margins." },
+      { question: "How do I grow an HVAC business after acquisition?", answer: "Highest-impact levers: grow maintenance contracts (convert 30–40% of service calls into plans), invest in digital marketing (50–100% more inbound leads), implement flat-rate pricing (5–10 point margin improvement), deploy field service software, and execute tuck-in acquisitions at 2–3.5x EBITDA." },
     ],
   },
   {
@@ -8661,14 +8752,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "70–90% recurring revenue, 5–10% churn, 40,000+ US MSPs. Valuation, due diligence, and post-acquisition playbook for managed service provider acquisitions.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Channel Futures", title: "MSP 501 Rankings & Data", year: 2024 },
       { name: "ConnectWise", title: "MSP Benchmark Survey", year: 2024 },
+      { name: "Canalys", title: "Global Managed Services Market Forecast", year: 2025 },
     ],
     faqs: [
-      { question: "What is a good valuation for an MSP?", answer: "Well-run MSPs trade at 4–7x EBITDA or 0.8–1.5x ARR (annual recurring revenue) for smaller ones, 1.5–3x for larger platforms. Premium factors: >80% MRR, cybersecurity focus, low customer concentration, and modern tech stack. Discount factors: break-fix revenue, technician dependence, and old tools." },
-      { question: "Why are MSPs good acquisition targets?", answer: "MSPs offer 70–90% recurring revenue from monthly contracts, customer churn of only 5–10% annually, essential-service demand (IT is mission-critical), a massively fragmented market (40,000+ US MSPs), and proven roll-up economics with 15–25% back-office synergies." },
+      { question: "What is a good valuation multiple for an MSP?", answer: "Small MSPs ($1M–$5M revenue) trade at 4–6x EBITDA or 1–2x ARR. Mid-market MSPs ($5M–$20M) command 6–8x. Platform MSPs ($20M+) with MSSP capabilities reach 7–10x+. The key driver is MRR percentage — MSPs with 80%+ MRR command significantly higher multiples." },
+      { question: "What is the biggest risk when acquiring an MSP?", answer: "Cybersecurity liability is the existential risk. MSPs hold admin credentials and network access for every client. A breach can cascade across the entire client base. Mitigate by auditing internal security, maintaining robust cyber insurance, and investing in SOC 2 certification." },
+      { question: "How do I grow an MSP after acquisition?", answer: "Highest-impact levers: increase MRR per endpoint (10–20% price adjustments), layer security services (25–50% more per-client revenue), launch vCIO advisory ($1,000–$3,000/client/month), invest in RMM automation, and execute tuck-in acquisitions at 3–5x to build a platform commanding 8–12x at exit." },
     ],
   },
   {
@@ -8683,14 +8776,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "200,000+ US dental practices, 80% solo/small group, 25–40% EBITDA margins. Valuation, DSO structure, due diligence, and roll-up growth strategies for dental acquisitions.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "ADA", title: "Dental Practice Statistics", year: 2024 },
       { name: "ADSO", title: "DSO Industry Facts", year: 2024 },
+      { name: "ADA Health Policy Institute", title: "Dentist Workforce & Demographics", year: 2025 },
     ],
     faqs: [
       { question: "How much is a dental practice worth?", answer: "Single dental practices sell for 4–7x EBITDA (or 60–80% of annual collections). Multi-location DSO platforms command 8–12x+ EBITDA. Premium factors: multiple dentists, high fee-for-service payer mix, modern equipment, and strong hygiene programs." },
-      { question: "Can a non-dentist buy a dental practice?", answer: "Most states restrict non-dentist ownership of dental practices through corporate practice of dentistry laws. The DSO (Dental Service Organization) model allows non-dentist operators to manage the business side through a management services agreement while a licensed dentist maintains clinical ownership and autonomy." },
+      { question: "Can a non-dentist buy a dental practice?", answer: "Most states restrict non-dentist ownership through corporate practice of dentistry laws. The DSO model allows non-dentist operators to manage the business side via a management services agreement while a licensed dentist maintains clinical ownership and autonomy." },
+      { question: "What is the DSO model and why does it matter for ETA?", answer: "A Dental Service Organization provides business management (billing, HR, marketing, procurement) to dental practices while the dentist retains clinical autonomy. The DSO receives a management fee (15–25% of collections). This structure lets non-dentist investors/operators manage the business side, making dental one of the few healthcare verticals accessible to search fund entrepreneurs." },
     ],
   },
   {
@@ -8705,14 +8800,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$200B+ US staffing market, 25,000+ agencies, most at $1–10M revenue. Valuation, due diligence, and growth strategies for staffing & recruiting acquisitions.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "ASA", title: "Staffing Industry Statistics", year: 2024 },
       { name: "SIA", title: "Staffing Industry Analysts Market Data", year: 2024 },
+      { name: "SIA", title: "US Staffing Industry Forecast", year: 2025 },
     ],
     faqs: [
-      { question: "How much is a staffing agency worth?", answer: "Temp-heavy agencies sell for 3–5x EBITDA, permanent placement agencies for 2–4x (volatile revenue), and contract/professional staffing for 4–6x (recurring + higher margins). Niche-specialized agencies command 1–2x premium over generalists." },
-      { question: "Why buy a staffing agency?", answer: "Staffing offers recurring revenue (weekly temp billings), a $200B+ fragmented market (25,000+ agencies), low capex (asset-light model), proven roll-up economics (15–25% back-office synergies), and a succession wave as agency founders from the 1990s–2000s approach retirement." },
+      { question: "What is a staffing agency worth in terms of EBITDA multiples?", answer: "Temp-heavy agencies sell for 3–5x EBITDA, permanent placement agencies for 2–4x (volatile revenue), and contract/professional staffing for 4–6x (recurring + higher margins). Niche-specialized agencies command 1–2x premium over generalists." },
+      { question: "How do I retain recruiters after acquiring a staffing agency?", answer: "Offer stay bonuses (15–25% of annual compensation) vesting over 12–18 months, implement transparent commission structures, and provide clear career progression. Top billers generate disproportionate revenue — losing 2–3 key recruiters can cut revenue by 30–50%." },
+      { question: "Is staffing a good industry for a buy-and-build strategy?", answer: "Yes — back-office synergies of 15–25% are achievable by centralizing payroll, billing, compliance, and technology. Combining niche specializations under one platform creates cross-selling opportunities, and platforms with $10M+ EBITDA trade at materially higher multiples than individual agencies." },
     ],
   },
 
@@ -8757,14 +8854,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "120,000+ agencies, 60–80% retainer revenue, 3–6x EBITDA. How to evaluate, value, and grow a digital marketing agency acquisition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBISWorld", title: "Digital Advertising Agencies Industry Report", year: 2024 },
       { name: "Promethean Research", title: "Agency M&A Market Report", year: 2024 },
+      { name: "Clutch", title: "Agency Industry Trends Report", year: 2025 },
     ],
     faqs: [
       { question: "How much is a digital marketing agency worth?", answer: "Most digital marketing agencies sell for 3–6x EBITDA or 0.6–1.2x revenue. Premium factors include vertical specialization (+1x), 80%+ recurring retainer revenue (+1x), strong management team, and proven growth. Founder-dependent agencies with project-based revenue trade at significant discounts." },
-      { question: "What should I look for when buying a digital marketing agency?", answer: "Focus on: retainer revenue mix (target 70%+), client retention rate (85%+ annually), no client above 15% of revenue, revenue per employee ($120K–$200K+), employee tenure and flight risk, and whether the founder is the primary client relationship. Earn-outs of 20–30% tied to client retention are common." },
+      { question: "What type of marketing agency is the best acquisition target?", answer: "Niche/vertical agencies specializing in one industry (healthcare, legal, SaaS) make the strongest targets — higher retention, less price competition, premium rates. Ideal: 70%+ retainer revenue, no client above 15% of revenue, and performance-oriented services that demonstrate measurable ROI." },
+      { question: "How do I retain agency clients after acquisition?", answer: "Meet every client within 30 days. Retain key account managers with bonuses vesting over 12–18 months. Document all processes and create SOPs. The account manager relationship is often more important to the client than the agency brand itself." },
     ],
   },
 
@@ -8780,14 +8879,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$23B market, 85%+ recurring revenue, route-density economics. How to evaluate, value, and grow a pest control business acquisition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBISWorld", title: "Pest Control Industry in the US", year: 2024 },
       { name: "NPMA", title: "State of the Pest Control Industry Report", year: 2024 },
+      { name: "Rollins Inc.", title: "Annual Report — Industry Overview", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a pest control business worth?", answer: "Most pest control businesses sell for 4–7x EBITDA, with premium multiples for high recurring revenue (85%+), strong route density, diversified services, and low customer concentration. PE-backed roll-ups like Anticimex and Rentokil have pushed multiples higher in recent years. Revenue-based pricing of 1–2x annual recurring revenue is also common." },
-      { question: "What makes pest control a good acquisition target?", answer: "Pest control businesses offer 85%+ recurring revenue, essential service demand (pest problems don't wait for recessions), high customer retention (80–90%), route-density economics that create local moats, and a fragmented market with 20,000+ operators in the US. Operating margins of 15–25% are typical for well-run companies." },
+      { question: "How much is a pest control business worth?", answer: "Most trade at 3–6x EBITDA. Companies with 70%+ recurring revenue command 5–6x+. Revenue-based pricing of 1–2x annual recurring revenue is common for smaller operators. Premium factors: strong route density, diversified services (general pest + termite), low customer concentration, and an independent management team." },
+      { question: "What makes pest control a good acquisition target?", answer: "70–85% recurring revenue, licensing barriers to entry, recession-resistant demand, route-density economics creating local moats, and 23,000+ fragmented operators. Operating margins of 15–25% are typical. The buy-and-build playbook is proven by Rollins and Rentokil." },
+      { question: "How do I convert one-time customers to recurring plans?", answer: "Train technicians to present plans after every initial treatment — the highest-conversion moment. Offer incentives for sign-ups, create tiered plan options (basic/premium/ultimate), and a well-executed program can increase recurring revenue from 50% to 70%+ within 12–18 months." },
     ],
   },
   {
@@ -8802,14 +8903,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$65B market, storm-driven demand, high margins. How to evaluate, value, and grow a roofing business acquisition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBISWorld", title: "Roofing Contractors Industry Report", year: 2024 },
       { name: "NRCA", title: "Annual Market Survey", year: 2024 },
+      { name: "GAF", title: "State of the Roofing Industry Report", year: 2025 },
     ],
     faqs: [
-      { question: "How much is a roofing business worth?", answer: "Most roofing businesses sell for 3–5x EBITDA. Premium factors include strong insurance restoration relationships (+1x), commercial contract backlogs, in-house crews (vs. subcontractors), established brand with online reviews, and geographic diversity across storm markets. Companies heavily reliant on storm chasing or a single owner-operator trade at discounts." },
-      { question: "What should I look for when buying a roofing company?", answer: "Critical factors: revenue mix (residential vs. commercial, insurance restoration vs. retail), crew quality and retention, insurance/bonding status, safety record (EMR), equipment condition, customer concentration, online reputation, warranty liabilities, and whether the owner is also the lead salesperson or estimator." },
+      { question: "How much is a roofing business worth?", answer: "Most trade at 2.5–5x EBITDA. Normalize for storm cycles — a company showing $2M EBITDA in a banner year but averaging $1.2M over five years should be valued on the normalized figure. Diversified revenue (retail + commercial + maintenance), EMR below 0.85, and manufacturer certifications support premium multiples." },
+      { question: "What are the biggest risks when buying a roofing company?", answer: "Storm dependency (revenue swings dramatically), worker classification issues (1099 vs. W-2), high WC/insurance costs (20–40% of payroll), warranty liabilities that transfer with the business, and seasonal cash flow challenges in northern climates." },
+      { question: "How do I build recurring revenue in a roofing business?", answer: "Create annual inspection and maintenance programs ($150–$300 residential, $500–$5,000+ commercial). Most roofers install a roof and never contact the customer again. Target 20–30% penetration on your installed base within two years. Commercial maintenance contracts provide non-seasonal revenue." },
     ],
   },
 
@@ -8848,14 +8951,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Insurance agencies offer 90%+ retention rates, recurring commissions, and massive fragmentation. How to evaluate, value, and scale an agency acquisition.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Reagan Consulting", title: "Agency Valuation & M&A Report", year: 2024 },
       { name: "IIABA", title: "Best Practices Study for Independent Agencies", year: 2024 },
+      { name: "MarshBerry", title: "Insurance Distribution M&A Outlook", year: 2025 },
     ],
     faqs: [
-      { question: "How much is an insurance agency worth?", answer: "Insurance agencies typically sell for 1.5–3x annual revenue or 6–12x EBITDA. Key valuation drivers: retention rate (>90% is strong), revenue mix (commercial lines command higher multiples than personal lines), carrier diversification, producer age and dependency, and organic growth rate. Top-quartile agencies can sell for 3x+ revenue." },
-      { question: "Why are insurance agencies attractive for ETA?", answer: "Insurance agencies check nearly every box for ETA: 90–95% client retention rates, recurring commission income, low capital requirements, massive market fragmentation (38,000+ independent agencies in the US), aging owner demographics (average age 57), and a proven buy-and-build consolidation playbook. Revenue is also recession-resistant — insurance is a non-discretionary purchase." },
+      { question: "How much is an independent insurance agency worth?", answer: "Smaller agencies ($500K–$3M revenue) trade at 1.0–2.8x annual commissions, with commercial lines and benefits books commanding higher multiples than personal lines. Larger agencies ($3M+ revenue) sell for 5–10x EBITDA, with platforms exceeding $20M commanding 10–15x from institutional buyers." },
+      { question: "What is the biggest risk when acquiring an insurance agency?", answer: "Producer and client retention during the ownership transition. If the departing owner personally manages a large share of commission revenue, clients may leave. Mitigate with a 12–24 month seller involvement period, retention-based earn-outs, and rigorous non-compete agreements." },
+      { question: "Can I use an SBA loan to buy an insurance agency?", answer: "Yes — insurance agencies are excellent SBA 7(a) candidates because of recurring commission revenue, high retention rates, and strong free cash flow. Buyers typically acquire with 10–20% equity down, plus 10–30% seller financing." },
     ],
   },
 
@@ -8871,14 +8976,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "CPA firms offer 95%+ client retention, recurring revenue, and a massive succession wave. How to evaluate, value, and scale an accounting practice acquisition.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "AICPA", title: "CPA Firm Succession Planning Survey", year: 2024 },
       { name: "Accounting Today", title: "Top 100 Firms & Industry Trends Report", year: 2024 },
+      { name: "AICPA", title: "Trends in the Supply of Accounting Graduates", year: 2024 },
     ],
     faqs: [
-      { question: "How much is an accounting practice worth?", answer: "Tax and bookkeeping practices typically sell for 0.8–1.2x annual revenue. Audit firms command 1.0–1.5x due to regulatory moats. Advisory-focused practices (CFO services, consulting) sell for 1.5–2.5x revenue or 5–8x EBITDA. Key factors: client retention history, service mix, staff utilization rates, and whether the practice has moved beyond compliance into advisory services." },
-      { question: "What is the biggest risk when acquiring a CPA firm?", answer: "Client attrition. CPA-client relationships are deeply personal — when the trusted partner leaves, 10–20% of clients may follow within 12 months. Mitigate this with a structured 12–18 month seller transition, joint client meetings, and service quality guarantees. Also assess staff retention risk: if key CPAs leave, clients often follow their accountant rather than staying with the firm." },
+      { question: "How much is an accounting practice worth?", answer: "Tax and bookkeeping practices sell for 0.8–1.2x annual revenue. Audit firms command 1.0–1.4x. Advisory-heavy practices reach 1.2–2.0x revenue or 5–8x EBITDA. Owner compensation must be normalized — many sole practitioners pay themselves $300K–$500K, well above the $120K–$200K replacement cost." },
+      { question: "Can a non-CPA buy an accounting practice?", answer: "It depends on the state. Most states require CPA firms to be majority-owned by licensed CPAs, but an increasing number allow non-CPA ownership under alternative practice structure provisions. Consult the target state's board of accountancy and consider structuring the deal with a licensed CPA partner." },
+      { question: "What is the biggest risk when buying an accounting practice?", answer: "Client attrition — when the trusted partner departs, 10–20% of clients may leave within 12 months if the transition is poorly managed. Mitigate with a 12–24 month seller involvement period, joint client meetings, retention-based earn-outs, and a communication strategy emphasizing continuity." },
     ],
   },
 
@@ -9055,14 +9162,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$200B+ industry with strong recurring revenue from service contracts. How to evaluate, value, and scale an electrical contractor acquisition.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBISWorld", title: "Electrical Contractors Industry Report", year: 2024 },
       { name: "NECA", title: "Financial Performance Report", year: 2024 },
+      { name: "BLS", title: "Occupational Outlook Handbook — Electricians", year: 2024 },
     ],
     faqs: [
-      { question: "How much is an electrical contracting business worth?", answer: "Electrical contractors typically trade at 3–6x EBITDA. Premium factors include: recurring service/maintenance contracts, commercial project mix, master electrician licenses retained, strong safety record (low EMR), diversified customer base, and established relationships with general contractors. Companies with significant government contract work or specialized capabilities (data centers, renewable energy) command higher multiples." },
-      { question: "What are the key risks in acquiring an electrical contractor?", answer: "Major risks include: license dependency on the owner (ensure transferability), workforce shortages (skilled electricians are scarce), bonding capacity limitations, project concentration risk, safety liability (electrical fires, workplace injuries), seasonal demand fluctuations, and regulatory compliance (NEC code changes, continuing education requirements). Thorough review of open projects, warranty obligations, and pending inspections is essential." },
+      { question: "What is an electrical contracting business worth?", answer: "Electrical contractors typically trade at 3–6x adjusted EBITDA. Companies with 40%+ recurring service revenue command the upper end, while project-heavy firms trade lower. Workforce stability, multiple licensed electricians, and EV/solar growth exposure push multiples higher." },
+      { question: "What happens if the master electrician license holder leaves?", answer: "In many states, the master license is held personally by the owner. If that person departs, the business may lose its ability to pull permits. Mitigate with a 12–24 month transition, sponsoring journeymen through the master exam, and earn-outs that keep the seller engaged." },
+      { question: "Is EV charger installation a real growth opportunity for electrical contractors?", answer: "Yes — residential Level 2 installs run $1,500–$3,000 per unit, while commercial DC fast-charging stations can exceed $150,000. Federal NEVI funding, state rebates, and fleet electrification mandates are accelerating demand." },
     ],
   },
 
@@ -9329,12 +9438,14 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "SearchFunder, ETA Slack groups, MBA clubs, regional meetups — the complete guide to building your network in the search fund ecosystem.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "SearchFunder", title: "Community Overview", year: 2024 },
+      { name: "SearchFunder", title: "Community Overview", url: "https://www.searchfunder.com/", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
     ],
     faqs: [
-      { question: "Where do search fund entrepreneurs connect?", answer: "The largest online community is SearchFunder.com, with 10,000+ members discussing deal sourcing, valuation, operations, and more. MBA ETA clubs (Stanford, HBS, Booth, INSEAD, IESE) have active alumni networks. Regional groups meet in major cities (NYC, SF, Chicago, London, Barcelona). LinkedIn has active ETA discussions. Conferences (Stanford, IESE, MIT) are the best in-person networking events." },
+      { question: "Where do search fund entrepreneurs connect?", answer: "The largest online community is SearchFunder.com, with 15,000+ members discussing deal sourcing, valuation, operations, and more. MBA ETA clubs (Stanford, HBS, Booth, INSEAD, IESE) have active alumni networks. Regional groups meet in major cities (NYC, SF, Chicago, London, Barcelona). LinkedIn has active ETA discussions. Conferences (Stanford, IESE, MIT) are the best in-person networking events." },
       { question: "How do you build an ETA network from scratch?", answer: "Start by: (1) joining SearchFunder and engaging in discussions, (2) attending 2-3 ETA conferences per year, (3) reaching out to active searchers and operators for 30-minute informational calls, (4) joining your local ETA meetup or starting one, (5) following ETA thought leaders on LinkedIn and Twitter/X. Most successful searchers report that their network was the single most valuable asset during their search." },
     ],
   },

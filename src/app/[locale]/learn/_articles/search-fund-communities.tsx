@@ -15,7 +15,7 @@ export default function SearchFundCommunitiesArticle() {
 
       <div className="prose prose-lg dark:prose-invert max-w-none">
         <p className={bodyClass}>
-          The search fund and entrepreneurship through acquisition (ETA) journey can be isolating. You're analyzing businesses in niche industries, negotiating complex deals, and making career-defining decisions—often without the built-in peer network that traditional corporate roles or venture-backed startups provide. This is precisely why the ETA community has become such a vital resource for searchers worldwide.
+          The search fund and entrepreneurship through acquisition (ETA) journey can be isolating. You&apos;re analyzing businesses in niche industries, negotiating complex deals, and making career-defining decisions — often without the built-in peer network that traditional corporate roles or venture-backed startups provide. The 2024 Stanford Search Fund Study documented over 600 search funds launched in the United States alone, creating a growing cohort of searchers who share similar challenges and can benefit enormously from peer connection. This is precisely why the ETA community has become such a vital resource for searchers worldwide.
         </p>
 
         <p className={bodyClass}>
@@ -33,7 +33,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Third, the timeline is long and uncertain. The median search takes 18-24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. Having peers who understand these challenges—and who can share that they faced the same struggles before succeeding—provides critical emotional support and perspective.
+          Third, the timeline is long and uncertain. The median search takes 18&ndash;24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. For a detailed look at what this timeline involves, see our guide to the <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">search fund lifecycle</Link>. Having peers who understand these challenges — and who can share that they faced the same struggles before succeeding — provides critical emotional support and perspective.
         </p>
 
         <p className={bodyClass}>
@@ -99,7 +99,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>MBA ETA Clubs and Alumni Networks</h2>
 
         <p className={bodyClass}>
-          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB's ETA Club, Wharton's Search Fund Club, Harvard Business School's ETA Club, Kellogg's ETA Group, and MIT Sloan's ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors.
+          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB&apos;s ETA Club, Wharton&apos;s Search Fund Club, Harvard Business School&apos;s ETA Club, Kellogg&apos;s ETA Group, and MIT Sloan&apos;s ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors. For a comprehensive comparison of programs, see our guide to <Link href="/learn/mba-programs-eta" className="text-apple-accent hover:underline">top MBA programs for ETA</Link>.
         </p>
 
         <p className={bodyClass}>
@@ -159,7 +159,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          For searchers, engaging with investor communities often starts by asking your own investors about their networks. "Do you have other searchers in your portfolio I could connect with?" nearly always receives a positive response. Investors want their searchers to succeed and recognize that peer learning improves outcomes. Taking initiative to build these connections demonstrates resourcefulness that investors appreciate.
+          For searchers, engaging with investor communities often starts by asking your own investors about their networks. &quot;Do you have other searchers in your portfolio I could connect with?&quot; nearly always receives a positive response. Investors want their searchers to succeed and recognize that peer learning improves outcomes. Taking initiative to build these connections demonstrates resourcefulness that investors appreciate. For strategies on building investor relationships from the beginning, see our guide to <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding search fund investors</Link>.
         </p>
 
         <h2 className={h2Class}>LinkedIn Groups and Following Key People</h2>
@@ -187,7 +187,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>European ETA Communities</h2>
 
         <p className={bodyClass}>
-          The European search fund ecosystem has developed its own communities tailored to the region's distinctive characteristics: greater regulatory complexity across multiple jurisdictions, different cultural norms around acquisitions and owner-manager transitions, and varying levels of institutional knowledge about the search fund model.
+          The European search fund ecosystem has developed its own communities tailored to the region&apos;s distinctive characteristics: greater regulatory complexity across multiple jurisdictions, different cultural norms around acquisitions and owner-manager transitions, and varying levels of institutional knowledge about the search fund model. According to the IESE International Search Fund Study, the number of search funds in Europe has grown at a 25% compound annual rate since 2015, creating critical mass for vibrant regional communities. For country-specific guidance, see our overview of <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
         </p>
 
         <p className={bodyClass}>

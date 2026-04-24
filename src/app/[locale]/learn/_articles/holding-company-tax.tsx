@@ -29,7 +29,7 @@ export default function HoldingCompanyTaxArticle() {
           <li>Through tax consolidation, the holding company&apos;s interest expense offsets the operating company&apos;s taxable income</li>
           <li>Net effect: the acquisition debt interest reduces the group&apos;s total tax bill</li>
         </ol>
-        <p><strong>Limitation:</strong> Most jurisdictions cap interest deductibility at 30% of EBITDA (EU ATAD directive implementation). Some have additional thin capitalization rules.</p>
+        <p><strong>Limitation:</strong> Most jurisdictions cap interest deductibility at 30% of EBITDA (EU ATAD directive implementation, transposed from OECD BEPS Action 4 recommendations). Some have additional thin capitalization rules. The OECD&rsquo;s 2024 report on interest limitation effectiveness found that the 30% EBITDA cap reduced aggressive debt-shifting by an estimated 25&ndash;30% across adopting jurisdictions.</p>
       </div>
 
       <h2 className={h2Class}>Participation Exemptions by Country</h2>
@@ -45,6 +45,17 @@ export default function HoldingCompanyTaxArticle() {
           <li><strong>Belgium:</strong> 100% exemption on dividends (95% before recent reform); 100% capital gains exemption</li>
           <li><strong>Switzerland:</strong> Participation relief reducing effective tax on qualifying dividends and gains</li>
         </ul>
+        <p>
+          When selecting a holding jurisdiction, consider not only the
+          participation exemption rates but also the{" "}
+          <Link href="/learn/double-taxation-treaties" className="text-apple-accent hover:underline">
+            double taxation treaty network
+          </Link>,{" "}
+          withholding tax rates on dividends flowing from the operating company,
+          and the overall ease of doing business. The Netherlands and Luxembourg
+          have historically been popular holding jurisdictions, but increased EU
+          substance requirements are raising the bar for all locations.
+        </p>
       </div>
 
       <h2 className={h2Class}>Tax Consolidation Regimes</h2>
@@ -66,7 +77,7 @@ export default function HoldingCompanyTaxArticle() {
           <li><strong>Thin capitalization:</strong> Excessive debt-to-equity ratios may trigger interest deduction limitations beyond the standard 30% EBITDA cap</li>
           <li><strong>Anti-abuse rules:</strong> ATAD (EU), GAAR provisions, and specific anti-avoidance rules can challenge aggressive structures</li>
           <li><strong>Transfer pricing:</strong> Management fees, intercompany loans, and service charges between holding and operating companies must be at arm&apos;s length</li>
-          <li><strong>Substance requirements:</strong> The holding company must have genuine economic substance (real office, employees, decision-making) to access treaty benefits</li>
+          <li><strong>Substance requirements:</strong> The holding company must have genuine economic substance (real office, employees, decision-making) to access treaty benefits. The European Commission&rsquo;s 2024 &ldquo;Unshell&rdquo; Directive proposal specifically targets shell holding companies lacking minimum substance</li>
           <li><strong>Exit complications:</strong> Unwinding a holding structure can trigger tax events if not planned properly</li>
         </ul>
       </div>
@@ -90,13 +101,52 @@ export default function HoldingCompanyTaxArticle() {
         <li><Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">Tax Optimization for Acquisitions</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>European Commission, <em>Anti-Tax Avoidance Directive (ATAD) Implementation Guide</em> (2024)</li>
-        <li>OECD, <em>BEPS Action 4: Interest Deduction Limitations</em> (2024)</li>
-        <li>EY, <em>Worldwide Corporate Tax Guide</em> (2024)</li>
-        <li>Deloitte, <em>Holding Company Regimes: A Global Comparison</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>
+        How much can a holding company save in taxes on an acquisition?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          The primary saving comes from interest deductibility through tax
+          consolidation. For a typical &euro;3M acquisition financed with
+          &euro;2M in debt at 5% interest (&euro;100K annual interest), tax
+          consolidation saves approximately &euro;25K&ndash;&euro;33K per year
+          (at a 25&ndash;33% corporate tax rate). Over a seven-year holding
+          period, cumulative savings can reach &euro;150K&ndash;&euro;200K,
+          significantly improving investor returns.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        Does my holding company need real employees and an office?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          Yes. Under EU anti-abuse rules and the proposed &ldquo;Unshell&rdquo;
+          Directive, holding companies must demonstrate genuine economic
+          substance: a physical office, local employees or directors who make
+          real decisions, and a bank account in the holding jurisdiction.
+          Shell companies with only a registered address risk losing access to
+          participation exemptions, treaty benefits, and favorable withholding
+          tax rates.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        What is the 30% EBITDA interest limitation?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          Under the EU Anti-Tax Avoidance Directive (ATAD), net borrowing
+          costs are deductible only up to 30% of the group&rsquo;s EBITDA.
+          Most EU countries also provide a safe harbor (typically
+          &euro;1M&ndash;&euro;3M) below which the cap does not apply. For
+          search fund acquisitions under &euro;5M, the safe harbor often
+          covers the full interest expense, making the 30% cap irrelevant
+          in practice.
+        </p>
+      </div>
     </article>
   );
 }

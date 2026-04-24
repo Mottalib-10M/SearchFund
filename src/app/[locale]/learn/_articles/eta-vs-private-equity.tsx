@@ -36,7 +36,7 @@ export default function ETAvsPrivateEquityArticle() {
           medium enterprise (SME) market targeted by ETA is vast — there
           are over 6 million employer businesses in the United States alone,
           and roughly 10,000 baby-boomer-owned businesses become available
-          for sale every day. PE firms compete intensely for a much smaller
+          for sale every day, according to the U.S. Census Bureau and BizBuySell market data. PE firms compete intensely for a much smaller
           universe of larger, institutionally-ready targets. The fragmented
           nature of the SME market means search fund investors can often
           acquire businesses at lower multiples (3x to 6x EBITDA) compared
@@ -53,8 +53,11 @@ export default function ETAvsPrivateEquityArticle() {
           acquired companies. The top-quartile search funds deliver IRRs
           exceeding 50%. Traditional PE, meanwhile, has delivered median
           net IRRs of approximately 14% to 18% over the past two decades,
-          according to data from Cambridge Associates and Preqin. Top-quartile
-          PE funds achieve roughly 20% to 25% net IRR.
+          according to Cambridge Associates&apos; Private Equity Index and Preqin&apos;s Global Private Equity &amp; Venture Capital Report. Top-quartile
+          PE funds achieve roughly 20% to 25% net IRR. Bain &amp; Company&apos;s
+          2024 Global Private Equity Report further notes that PE returns have
+          been compressed by rising entry multiples and increased competition
+          for quality assets.
         </p>
         <p>
           However, context matters. PE returns are generated on much larger
@@ -366,6 +369,45 @@ export default function ETAvsPrivateEquityArticle() {
           advantages of ETA. The low correlation between individual search
           fund outcomes and broader PE market cycles adds genuine
           diversification benefit to the overall private equity portfolio.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+        <h3 className={h3Class}>How is ETA different from private equity?</h3>
+        <p>
+          ETA targets smaller deals ($1&ndash;20M enterprise value vs. $100M+ for PE),
+          involves a single operator-CEO rather than a professional management team,
+          uses step-up equity instead of 2/20 fee structures, and focuses on one
+          business at a time. The operator is deeply aligned through personal equity
+          and earns outsized returns only when investors earn outsized returns.
+          There are no management fees in ETA, whereas PE firms charge 1.5&ndash;2%
+          annually regardless of performance. For a deeper understanding of ETA
+          mechanics, see our guide on{" "}
+          <Link href="/learn/what-is-a-search-fund" className="text-apple-accent hover:underline">what is a search fund</Link>.
+        </p>
+
+        <h3 className={h3Class}>Do search funds outperform private equity?</h3>
+        <p>
+          On an IRR basis, search funds have historically outperformed PE. The
+          2024 Stanford study reports median pre-tax IRR of approximately 33%
+          for search funds versus 14&ndash;18% median net IRR for traditional PE.
+          However, PE offers larger absolute returns per fund, more
+          diversification, and greater liquidity. The comparison depends on
+          the investor&apos;s portfolio construction goals: PE for scale and
+          diversification, ETA for concentrated high-IRR alpha. Many
+          sophisticated family offices allocate to both.
+        </p>
+
+        <h3 className={h3Class}>Can I invest in both ETA and PE?</h3>
+        <p>
+          Yes, and many sophisticated investors do exactly that. A typical
+          approach allocates 60&ndash;70% of private equity capital to
+          traditional PE funds for diversified, institutional-quality
+          exposure and 20&ndash;30% across 10&ndash;20 search fund investments
+          per vintage year for high-IRR alpha. The low correlation between
+          individual search fund outcomes and broader PE market cycles adds
+          genuine diversification benefit to the overall portfolio. Learn
+          more about building a search fund portfolio in our{" "}
+          <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">search fund returns analysis</Link>.
         </p>
       </div>
     </article>

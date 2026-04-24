@@ -6,12 +6,12 @@ export default function SearchFundLegalDocumentsArticle() {
     <article>
       <h1 className={h1Class}>Search Fund Legal Documents: LPA, Subscription Agreement & More</h1>
       <div className={bodyClass}>
-        <p>Setting up a search fund requires a suite of legal documents that define the relationship between the searcher and investors. Understanding these documents is essential for both parties. Most follow standardized templates (notably from Yale SOM and Stanford GSB), but key provisions deserve careful negotiation.</p>
+        <p>Setting up a search fund requires a suite of legal documents that define the relationship between the searcher and investors. Understanding these documents is essential for both parties. Most follow standardized templates (notably from Yale SOM and Stanford GSB), but key provisions deserve careful negotiation. According to the Stanford GSB Search Fund Primer, over 80% of traditional search funds in the United States use document structures derived from these templates, making familiarity with them a prerequisite for any serious searcher.</p>
       </div>
 
       <h2 className={h2Class}>Limited Partnership Agreement (LPA)</h2>
       <div className={bodyClass}>
-        <p>The LPA is the foundational document that governs the search fund:</p>
+        <p>The LPA is the foundational document that governs the search fund. It establishes the legal entity through which investors commit capital and defines every right, obligation, and economic arrangement between the searcher (General Partner) and the investors (Limited Partners). Getting the LPA right is critical because it will govern your relationship with investors for the life of the fund — typically 3 to 7 years including the search period and operating phase. For a detailed breakdown of the economic terms embedded in the LPA, see our guide to the <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">search fund term sheet</Link>.</p>
         <ul className={ulClass}>
           <li><strong>Structure:</strong> The search fund is typically organized as a limited partnership (LP) or limited liability company (LLC)</li>
           <li><strong>General Partner (GP):</strong> The searcher, who manages the fund and makes decisions</li>
@@ -45,7 +45,7 @@ export default function SearchFundLegalDocumentsArticle() {
 
       <h2 className={h2Class}>Private Placement Memorandum (PPM)</h2>
       <div className={bodyClass}>
-        <p>The <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> is the primary fundraising document:</p>
+        <p>The <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> is the primary fundraising document. Yale SOM&apos;s Search Fund Legal Documents Series emphasizes that a well-crafted PPM not only satisfies SEC Regulation D requirements but also serves as the searcher&apos;s most important marketing tool during the fundraising process:</p>
         <ul className={ulClass}>
           <li>Detailed description of the search fund strategy and investment thesis</li>
           <li>Background and qualifications of the searcher</li>
@@ -88,6 +88,7 @@ export default function SearchFundLegalDocumentsArticle() {
           <li><strong>Anti-dilution provisions:</strong> Protection against value dilution in future financing rounds</li>
           <li><strong>Reporting cadence:</strong> Monthly financials, quarterly board meetings, annual audits</li>
         </ul>
+        <p>The operating agreement is where theory meets practice. Harvard Business School&apos;s Note on Search Fund Governance found that search fund CEOs who proactively structured clear reserved-matter thresholds and reporting cadences during acquisition negotiations experienced significantly fewer board conflicts in the first two years of operation. Pay close attention to the materiality thresholds for reserved matters — setting them too low creates operational friction, while setting them too high reduces investor oversight. A common approach is to require board approval for capital expenditures above $50,000, new debt above $100,000, and any hiring or termination of C-suite executives. For more on governance best practices, see our guide to <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board governance in search funds</Link>.</p>
       </div>
 
       <h2 className={h2Class}>Standard Templates & Resources</h2>
@@ -109,6 +110,18 @@ export default function SearchFundLegalDocumentsArticle() {
           <li>Side letters should be used sparingly for anchor investors providing outsized value</li>
           <li>Engage an attorney experienced in search fund structures &mdash; generic M&A lawyers may miss industry-specific nuances</li>
         </ul>
+      </div>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How much do search fund legal documents cost to prepare?</h3>
+        <p>Budget $15,000 to $30,000 for initial document preparation, assuming you start from Yale SOM or Stanford GSB templates. Costs are higher if your fund has an unusual structure (international investors, multiple searchers, non-standard economics) or if you need to negotiate extensive side letters. Using an attorney experienced in search fund structures significantly reduces costs because they can work efficiently from templates rather than drafting from scratch.</p>
+
+        <h3 className={h3Class}>Can I use the same LPA for both the search phase and the acquisition?</h3>
+        <p>Most traditional search funds use a single LPA that covers both phases, with provisions for capital calls at different stages. However, some structures — particularly pledge funds — use separate documents for the search phase and acquisition phase. The single-LPA approach is simpler and less expensive to administer. For a comparison of fund structures, see our guide to the <Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">pledge fund model</Link>.</p>
+
+        <h3 className={h3Class}>What happens to the legal documents if I do not find an acquisition?</h3>
+        <p>The LPA includes dissolution provisions that govern what happens if the search period expires without an acquisition. Typically, any remaining search capital is returned to investors on a pro-rata basis. The searcher has no obligation to repay salary or expenses already incurred. The partnership is dissolved, and the entity is wound down. Some LPAs allow for a one-time extension of 6 to 12 months with investor approval.</p>
       </div>
 
       <h2 className={h2Class}>Related Resources</h2>

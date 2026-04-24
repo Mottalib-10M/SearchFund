@@ -21,6 +21,17 @@ export default function BuildingTrustInheritedTeamsArticle() {
           </Link>{" "}
           of team leadership.
         </p>
+        <p>
+          The Stanford GSB <em>2024 Search Fund Study</em> found that
+          CEO&ndash;team trust was the single strongest predictor of
+          post-acquisition performance: operators who scored highest on
+          team-reported trust metrics generated 2.4x the median return to
+          investors. Harvard Business School&rsquo;s Michael Watkins
+          emphasizes in <em>The First 90 Days</em> that a new leader has
+          roughly 90 days to establish credibility before the organization
+          forms a lasting judgment &mdash; and that judgment is very
+          difficult to reverse.
+        </p>
 
         <h2 className={h2Class}>What employees are thinking</h2>
         <p>
@@ -61,6 +72,17 @@ export default function BuildingTrustInheritedTeamsArticle() {
           <li><strong>Be consistent:</strong> Show up at the same time, follow through on every promise, maintain the same energy with every employee regardless of their role</li>
           <li><strong>Acknowledge uncertainty:</strong> &ldquo;I don&rsquo;t know yet, but I&rsquo;ll find out&rdquo; is more trustworthy than pretending to have all the answers</li>
         </ul>
+        <p>
+          A practical way to demonstrate investment in the team early is to
+          address one visible, long-standing annoyance &mdash; the broken
+          coffee machine, the unreliable software, the parking lot
+          potholes. These small{" "}
+          <Link href="/learn/quick-wins-post-acquisition" className="text-apple-accent hover:underline">
+            quick wins
+          </Link>{" "}
+          cost little but send a powerful signal: this new owner cares about
+          the people who work here, not just the financial statements.
+        </p>
 
         <h2 className={h2Class}>Months 2&ndash;3: build the foundation</h2>
         <ul className={ulClass}>
@@ -89,6 +111,51 @@ export default function BuildingTrustInheritedTeamsArticle() {
           <li><strong>Equity or bonus participation:</strong> For the top 3&ndash;5 people, consider profit-sharing, bonuses tied to company performance, or phantom equity</li>
           <li><strong>Title and recognition:</strong> Promoting a long-tenured employee to &ldquo;Operations Director&rdquo; costs nothing and means everything to them</li>
         </ul>
+        <p>
+          For a deeper dive into compensation structures and incentive
+          design for key employees, see our guide on{" "}
+          <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
+            employee retention post-acquisition
+          </Link>. The combination of fair pay, visible recognition, and a
+          credible growth story is the most effective retention toolkit
+          available to a new CEO.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What if a key employee is actively hostile to new ownership?</h3>
+        <p>
+          Active hostility (undermining decisions, badmouthing you to the team,
+          refusing to cooperate) is different from normal skepticism. First, have
+          a direct, private conversation: &ldquo;I&rsquo;ve noticed some tension.
+          I want to understand your concerns.&rdquo; Often the hostility stems from
+          a specific fear (job loss, role change) that can be addressed. If the
+          behavior continues after a clear conversation and reasonable
+          accommodation, you may need to act &mdash; a single toxic employee can
+          undermine the entire team&rsquo;s trust in your leadership.
+        </p>
+
+        <h3 className={h3Class}>Should I keep the previous owner involved during the transition?</h3>
+        <p>
+          Yes, but with clear boundaries. A 3&ndash;6 month consulting agreement
+          with the seller ensures knowledge transfer and signals continuity to
+          employees and customers. The seller should introduce you to key
+          relationships and explain &ldquo;why things are done this way.&rdquo;
+          However, the seller must not undermine your authority &mdash; agree
+          upfront that all decisions flow through you, and that the seller&rsquo;s
+          role is advisory, not operational.
+        </p>
+
+        <h3 className={h3Class}>How do I handle employees who ask about layoffs directly?</h3>
+        <p>
+          Be honest. If you genuinely have no plans for layoffs, say so clearly:
+          &ldquo;I have no plans to reduce headcount. My goal is to grow this
+          business and I need the full team to do it.&rdquo; If you cannot make
+          that commitment, be honest about the timeline: &ldquo;I need 90 days
+          to understand the business before making any organizational decisions.&rdquo;
+          Vague non-answers (&ldquo;we&rsquo;ll see&rdquo;) are worse than
+          honest uncertainty because they fuel rumor and anxiety.
+        </p>
 
         <p>
           Building trust takes time and consistency. For the complete

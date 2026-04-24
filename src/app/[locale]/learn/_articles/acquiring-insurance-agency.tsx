@@ -30,10 +30,11 @@ export default function AcquiringInsuranceAgencyArticle() {
         <p>
           The US insurance distribution market generates over $500 billion in
           annual premiums, intermediated through roughly 36,000 independent
-          agencies and brokerages. The market is remarkably fragmented: the
-          top 100 brokerages control less than 30% of total premiums placed,
-          leaving the vast majority in the hands of small and mid-sized
-          agencies. The industry breaks down into three core segments, each
+          agencies and brokerages, according to the Independent Insurance
+          Agents &amp; Brokers of America (IIABA). The market is remarkably
+          fragmented: the top 100 brokerages control less than 30% of total
+          premiums placed, leaving the vast majority in the hands of small
+          and mid-sized agencies. The industry breaks down into three core segments, each
           with distinct economics.
         </p>
 
@@ -102,7 +103,8 @@ export default function AcquiringInsuranceAgencyArticle() {
             inertia works strongly in the incumbent agent&rsquo;s favor.
           </li>
           <li>
-            <strong>Fragmented market:</strong> The average independent agency
+            <strong>Fragmented market:</strong> According to Reagan
+            Consulting&rsquo;s annual survey, the average independent agency
             owner in the US is over 57 years old, and a large cohort of
             owners will retire over the next decade with no internal successor.
             This generational transition creates a steady supply of willing
@@ -749,6 +751,51 @@ export default function AcquiringInsuranceAgencyArticle() {
           commission structures, carrier dynamics, and regulatory landscape
           &mdash; the sector offers a compelling path to building significant
           enterprise value with relatively modest initial capital.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much is an independent insurance agency worth?
+        </h3>
+        <p>
+          Valuations depend on size and revenue mix. Smaller agencies
+          ($500K&ndash;$3M revenue) typically trade at 1.0&ndash;2.8x annual
+          commissions, with commercial lines and benefits books commanding
+          higher multiples than personal lines. Larger agencies ($3M+ revenue)
+          are more commonly valued on an EBITDA basis at 5&ndash;10x, with
+          platforms exceeding $20M in revenue commanding 10&ndash;15x from
+          institutional buyers. Key premium factors include organic growth
+          rate, retention above 90%, and diversified carrier relationships.
+        </p>
+
+        <h3 className={h3Class}>
+          What is the biggest risk when acquiring an insurance agency?
+        </h3>
+        <p>
+          Producer and client retention during the ownership transition
+          represent the primary risk. If the departing owner personally manages
+          a large share of commission revenue, clients may leave with them.
+          Mitigate this with a 12&ndash;24 month seller involvement period,
+          retention-based{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-out structures</Link>,
+          and rigorous non-compete agreements. Carrier appointment transfers
+          also require attention &mdash; losing a major carrier can disrupt
+          the ability to service existing clients.
+        </p>
+
+        <h3 className={h3Class}>
+          Can I use an SBA loan to buy an insurance agency?
+        </h3>
+        <p>
+          Yes. Insurance agencies are excellent candidates for{" "}
+          <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) financing</Link>{" "}
+          because of their recurring revenue, high retention rates, and
+          strong free cash flow. Lenders are comfortable underwriting against
+          predictable commission income, and buyers can typically acquire
+          agencies with 10&ndash;20% equity down. Seller financing of
+          10&ndash;30% is common and further reduces the equity required
+          at closing.
         </p>
       </div>
     </article>

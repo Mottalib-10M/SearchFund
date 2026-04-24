@@ -12,6 +12,9 @@ export default function DueDiligenceArticle() {
           Due diligence is the most critical phase of any search fund
           acquisition. It begins after you sign a <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent</Link> and
           covers every area you need to investigate before signing a purchase agreement.
+          According to the 2024 Stanford Search Fund Study, inadequate due diligence
+          is among the top reasons cited by searchers whose acquisitions underperformed,
+          making this phase the single greatest determinant of long-term success.
         </p>
 
         <p>
@@ -39,7 +42,9 @@ export default function DueDiligenceArticle() {
         <p>
           The financial due diligence workstream deserves special attention
           because it directly affects your purchase price, debt capacity, and
-          post-close cash flow. Here are the critical sub-analyses you should
+          post-close cash flow. A Bain & Company analysis of over 2,500 M&A transactions
+          found that rigorous financial due diligence reduced the incidence of post-close
+          earnings surprises by more than 30%. Here are the critical sub-analyses you should
           perform.
         </p>
 
@@ -234,7 +239,9 @@ export default function DueDiligenceArticle() {
           Commercial due diligence validates the business&apos;s market
           position and growth prospects. This is where you test the thesis
           that the business will continue to generate strong cash flows under
-          your ownership.
+          your ownership. Deloitte&apos;s 2024 M&A Trends Report emphasizes that
+          acquirers who conduct thorough commercial DD are twice as likely to
+          achieve their value-creation targets within the first two years.
         </p>
 
         <p>
@@ -269,6 +276,31 @@ export default function DueDiligenceArticle() {
           <li>Relationships with key stakeholders (customers, suppliers, community). Consider <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> who specialize in transition management.</li>
           <li>Identify potential risks of ownership change on business relationships.</li>
         </ul>
+
+        <p>
+          Cultural diligence is often underestimated, but McKinsey research on M&A
+          integration found that cultural misalignment is the primary driver of
+          value destruction in 30% of failed deals. In a search fund context, you
+          are not just acquiring a business — you are stepping into an existing
+          culture as a new leader. Dedicate time to informal employee conversations,
+          observe how teams interact during site visits, and ask the seller about
+          unwritten norms that shape how work gets done.
+        </p>
+
+        <p>
+          <strong>Transition planning.</strong> Negotiate a detailed{" "}
+          <Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">
+            seller transition period
+          </Link>{" "}
+          as part of your purchase agreement. Most search fund acquisitions include
+          a 3 to 12 month consulting arrangement with the departing owner. During
+          diligence, assess how dependent the business is on the seller&apos;s
+          personal relationships, tacit knowledge, and day-to-day involvement.
+          The deeper the dependency, the longer and more structured the transition
+          period should be. Map out the critical introductions, knowledge transfers,
+          and handoffs that must occur during this period and build them into a
+          written transition plan before closing.
+        </p>
 
         <h2 className={h2Class}>Timeline and cost of due diligence</h2>
         <p>
@@ -325,6 +357,43 @@ export default function DueDiligenceArticle() {
           but it is far less painful than acquiring a business with hidden
           problems that impair your ability to service debt, pay your
           employees, and generate returns for your investors.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className="text-base font-semibold text-apple-black mt-6 mb-2">How long does due diligence take for a search fund acquisition?</h3>
+        <p>
+          Typical due diligence takes 45 to 90 days from LOI signing to
+          purchase agreement execution. Simpler businesses with clean
+          financials and limited regulatory exposure can close in as few as
+          30 days, while complex deals involving regulated industries,
+          multi-location operations, or environmental concerns may require
+          90 to 120 days. Financial and legal workstreams usually run in
+          parallel to compress the timeline.
+        </p>
+
+        <h3 className="text-base font-semibold text-apple-black mt-6 mb-2">What are the most common due diligence red flags?</h3>
+        <p>
+          The most frequent deal-killers include declining revenue trends
+          without a clear explanation, customer concentration above 20%,
+          undisclosed liabilities or pending litigation, heavy key-person
+          dependence on the departing owner, significant discrepancies
+          between tax returns and seller-prepared financials, and
+          environmental contamination requiring remediation. For a deeper
+          dive, see our guide to{" "}
+          <Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">
+            red flags in due diligence
+          </Link>.
+        </p>
+
+        <h3 className="text-base font-semibold text-apple-black mt-6 mb-2">How much does due diligence cost?</h3>
+        <p>
+          Budget $75,000 to $150,000 in professional fees for a comprehensive
+          process. The largest line item is the Quality of Earnings report
+          ($30,000 to $60,000), followed by legal counsel ($25,000 to $50,000),
+          environmental assessments ($5,000 to $15,000), and specialty
+          consultants as needed. These costs are typically funded from the
+          search capital budget.
         </p>
       </div>
     </article>

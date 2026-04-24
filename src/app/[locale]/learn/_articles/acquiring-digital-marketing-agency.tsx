@@ -23,7 +23,7 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
 
         <h2 className={h2Class}>Why acquire a digital marketing agency?</h2>
         <ul className={ulClass}>
-          <li><strong>Fragmented market:</strong> 120,000+ agencies in the US alone, the vast majority with under $5M revenue. No dominant player</li>
+          <li><strong>Fragmented market:</strong> According to IBISWorld, there are 120,000+ digital marketing agencies in the US alone, the vast majority with under $5M revenue. No dominant player controls meaningful market share</li>
           <li><strong>Recurring revenue:</strong> Well-run agencies generate 60&ndash;80% of revenue from monthly retainer contracts (SEO, social media management, PPC management)</li>
           <li><strong>Asset-light:</strong> Minimal capex. Primary assets are people, client relationships, and processes</li>
           <li><strong>High margins:</strong> Gross margins of 50&ndash;70%, EBITDA margins of 15&ndash;25% for well-managed agencies</li>
@@ -63,7 +63,7 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
               key person risk
             </Link></li>
           <li><strong>Employee retention:</strong> Agency talent is the product. Assess account manager tenure, compensation competitiveness, and flight risk of key employees</li>
-          <li><strong>Revenue per employee:</strong> Target $120K&ndash;$200K+ per employee for a healthy agency. Below $100K signals overstaffing or low pricing</li>
+          <li><strong>Revenue per employee:</strong> Promethean Research benchmarks indicate healthy agencies generate $120K&ndash;$200K+ per employee. Below $100K signals overstaffing or low pricing</li>
           <li><strong>Contractor vs. employee mix:</strong> Heavy contractor reliance reduces fixed costs but increases delivery risk and institutional knowledge loss</li>
         </ul>
 
@@ -98,6 +98,73 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
           <li><strong>Add recurring services:</strong> Layer on hosting, maintenance, reporting dashboards, or new channels (email, SMS) to increase per-client revenue</li>
         </ul>
 
+        <h2 className={h2Class}>Risks and challenges</h2>
+        <p>
+          Digital marketing agencies carry several unique risks that
+          acquirers must underwrite carefully. Client concentration is the
+          most immediate threat &mdash; agencies often have short contract
+          terms (30&ndash;90 day cancellation clauses), and a single large
+          client departure can materially impair the business. Talent
+          retention is equally critical because the agency&rsquo;s product
+          is its people. Senior account managers and strategists who leave
+          post-acquisition may take client relationships with them. AI
+          disruption is an emerging risk &mdash; generative AI tools are
+          already automating content creation, basic design, and ad
+          optimization, which could compress margins on lower-value services.
+          The best defense is to acquire agencies with defensible specialization
+          and deep client relationships that transcend any single service
+          deliverable.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much is a digital marketing agency worth?
+        </h3>
+        <p>
+          Most digital marketing agencies sell for 3&ndash;6x EBITDA or
+          0.6&ndash;1.2x revenue for agencies with $500K&ndash;$3M EBITDA.
+          Vertical specialization, 80%+ recurring retainer revenue, and a
+          strong management team each add approximately 0.5&ndash;1x to the
+          multiple. Founder-dependent agencies with project-based revenue
+          trade at significant discounts. Earn-outs of 20&ndash;30% tied to
+          client retention are common deal structures. For more detail, see
+          our{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
+            business valuation guide
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>
+          What type of marketing agency is the best acquisition target?
+        </h3>
+        <p>
+          Niche or vertical agencies that specialize in one industry (e.g.,
+          healthcare, legal, SaaS) make the strongest targets. They have
+          higher client retention, less price competition, more defensible
+          positioning, and can charge premium rates. The ideal target
+          generates 70%+ of revenue from monthly retainers rather than
+          one-time projects, and no single client represents more than 15%
+          of total revenue. Performance-oriented agencies (SEO, PPC,
+          conversion optimization) are also attractive because they can
+          demonstrate measurable ROI to clients, which supports retention.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I retain agency clients after an acquisition?
+        </h3>
+        <p>
+          Meet every client personally within the first 30 days. Reassure
+          them about service continuity, introduce yourself as someone
+          investing in the agency&rsquo;s growth (not cutting costs), and
+          gather feedback on what they value most. Retain key account
+          managers with bonuses vesting over 12&ndash;18 months &mdash; in
+          agencies, the account manager relationship is often more important
+          to the client than the agency brand itself. Document all processes
+          and create SOPs so that institutional knowledge does not reside
+          solely in departing employees&rsquo; heads.
+        </p>
+
         <p>
           For related industry playbooks, see{" "}
           <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">
@@ -106,6 +173,10 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
           and{" "}
           <Link href="/learn/professional-services-acquisition" className="text-apple-accent hover:underline">
             professional services acquisition
+          </Link>. For guidance on retaining key employees through an
+          ownership transition, see our{" "}
+          <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
+            employee retention strategies
           </Link>.
         </p>
       </div>

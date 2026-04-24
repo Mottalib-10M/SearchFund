@@ -28,11 +28,11 @@ export default function AcquiringElectricalContractorArticle() {
 
         <h2 className={h2Class}>Market overview</h2>
         <p>
-          The US electrical contracting market generates over $200&nbsp;billion
-          in annual revenue across roughly 90,000 firms. The industry is
-          extraordinarily fragmented &mdash; the ten largest contractors
-          account for less than 5% of total revenue, and the median firm
-          employs fewer than 20 people. Growth has averaged 4&ndash;6%
+          According to IBISWorld, the US electrical contracting market
+          generates over $200&nbsp;billion in annual revenue across roughly
+          90,000 firms. The industry is extraordinarily fragmented &mdash;
+          the ten largest contractors account for less than 5% of total
+          revenue, and the median firm employs fewer than 20 people. Growth has averaged 4&ndash;6%
           annually over the past decade, driven by new construction,
           renovation activity, and the accelerating adoption of electric
           vehicles, solar power, and smart-building technologies.
@@ -105,7 +105,8 @@ export default function AcquiringElectricalContractorArticle() {
             EVs, heat pumps, solar, battery storage, and smart-home
             technology is driving unprecedented demand. EV charger
             installation alone is projected to be a $30&nbsp;billion market
-            by 2030. Panel upgrades &mdash; required to support
+            by 2030, according to the National Electrical Contractors
+            Association (NECA). Panel upgrades &mdash; required to support
             200&ndash;400 amp service &mdash; represent a massive recurring
             demand driver that did not exist a decade ago.
           </li>
@@ -412,6 +413,55 @@ export default function AcquiringElectricalContractorArticle() {
             ETA
           </Link>{" "}
           landscape.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is an electrical contracting business worth?
+        </h3>
+        <p>
+          Electrical contractors typically trade at 3&ndash;6x adjusted EBITDA.
+          Companies with a strong service and maintenance revenue mix (40%+
+          recurring) command the upper end, while project-heavy firms with
+          lumpy revenue trade at the lower end. Customer diversification,
+          workforce stability, multiple licensed electricians, and growth
+          exposure to electrification trends (EV charging, solar) all push
+          multiples higher. Typical adjusted EBITDA margins range from
+          10&ndash;18%.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens if the master electrician license holder leaves?
+        </h3>
+        <p>
+          In many states, the master electrician license is held personally
+          by the owner &mdash; not by the company. If that person departs,
+          the business may lose its ability to pull permits and legally
+          perform work. This is the single most critical risk in electrical
+          contractor acquisitions. Mitigate by negotiating a 12&ndash;24
+          month transition period, sponsoring journeymen through the master
+          exam during due diligence, and structuring{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
+            earn-outs
+          </Link>{" "}
+          that keep the seller engaged through the licensing transition.
+        </p>
+
+        <h3 className={h3Class}>
+          Is EV charger installation a real growth opportunity for
+          electrical contractors?
+        </h3>
+        <p>
+          Yes. EV charger installation is the largest near-term growth
+          opportunity in the electrical trades. Residential Level 2 installs
+          run $1,500&ndash;$3,000 per unit, while commercial DC fast-charging
+          stations can exceed $150,000 per unit. Federal NEVI program funding,
+          state rebates, and fleet electrification mandates are all
+          accelerating demand. Contractors who invest in EVITP certification
+          and build relationships with equipment manufacturers position
+          themselves for a decades-long tailwind as the US vehicle fleet
+          transitions to electric power.
         </p>
       </div>
     </article>

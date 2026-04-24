@@ -6,7 +6,7 @@ export default function Election338h10Article() {
     <article>
       <h1 className={h1Class}>338(h)(10) Election: Treating a Stock Sale as an Asset Sale</h1>
       <div className={bodyClass}>
-        <p>The IRC Section 338(h)(10) election allows a buyer and seller to treat a stock purchase as an asset purchase for federal tax purposes while maintaining the legal simplicity of a stock transaction. This election can provide the buyer with a valuable <Link href="/learn/step-up-in-basis" className="text-apple-accent hover:underline">step-up in basis</Link> on the target company&apos;s assets without actually transferring individual assets.</p>
+        <p>The IRC Section 338(h)(10) election allows a buyer and seller to treat a stock purchase as an asset purchase for federal tax purposes while maintaining the legal simplicity of a stock transaction. According to IRS regulations under Treasury Reg. &sect;1.338(h)(10)-1, this election can provide the buyer with a valuable <Link href="/learn/step-up-in-basis" className="text-apple-accent hover:underline">step-up in basis</Link> on the target company&apos;s assets without actually transferring individual assets. For search fund acquisitions targeting S-Corporations &mdash; which represent a significant portion of SME targets &mdash; the 338(h)(10) is one of the most powerful tax planning tools available.</p>
       </div>
 
       <h2 className={h2Class}>How the 338(h)(10) Election Works</h2>
@@ -70,7 +70,8 @@ export default function Election338h10Article() {
           <li>Real estate: $1.2M (39-year depreciation)</li>
           <li>Goodwill: $2.1M (15-year amortization)</li>
         </ul>
-        <p>Annual tax deductions: approximately $360K, saving ~$90K/year in taxes at a 25% rate. Over 15 years, the total tax savings approach $1.35M &mdash; a material reduction in the effective acquisition price.</p>
+        <p>Annual tax deductions: approximately $360K, saving ~$90K/year in taxes at a 25% rate. Over 15 years, the total tax savings approach $1.35M &mdash; a material reduction in the effective acquisition price. PwC&apos;s Tax Structuring for SME Acquisitions guide notes that the net present value of these deductions typically represents 15&ndash;25% of the total purchase price, making the 338(h)(10) election one of the most impactful negotiation points in any S-Corp deal.</p>
+        <p>When modeling the election, work with your CPA to run two scenarios &mdash; with and without the election &mdash; to understand the net benefit after accounting for any additional tax burden on the seller. The seller&apos;s incremental tax cost is the starting point for negotiating a price adjustment, and the buyer&apos;s tax savings typically exceed the seller&apos;s cost by a significant margin, creating a deal structure that benefits both parties. See our guide on <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization for acquisitions</Link> for a broader framework.</p>
       </div>
 
       <h2 className={h2Class}>Key Takeaways</h2>
@@ -92,13 +93,21 @@ export default function Election338h10Article() {
         <li><Link href="/learn/c-corp-vs-s-corp-llc" className="text-apple-accent hover:underline">C-Corp vs. S-Corp vs. LLC</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>IRS, <em>IRC Section 338(h)(10): Regulations and Guidance</em></li>
-        <li>IRS, <em>Form 8023: Elections Under Section 338</em></li>
-        <li>AICPA, <em>Section 338 Elections: A Practical Guide</em> (2024)</li>
-        <li>PwC, <em>Tax Structuring for SME Acquisitions</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <h3 className={h3Class}>When should I use a 338(h)(10) election vs. a straight asset purchase?</h3>
+      <div className={bodyClass}>
+        <p>Use a 338(h)(10) when the target is an S-Corporation or corporate subsidiary and the legal benefits of a stock purchase outweigh the liability risk. Stock purchases are preferred when the target holds non-transferable contracts, hard-to-obtain permits or licenses, or government certifications that would be lost in an asset deal. If liability risk is your primary concern (environmental, litigation, unknown claims), a straight <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">asset purchase</Link> gives you more protection because you choose which liabilities to assume.</p>
+      </div>
+
+      <h3 className={h3Class}>Can a 338(h)(10) election be made for a C-Corporation?</h3>
+      <div className={bodyClass}>
+        <p>Not for a standalone C-Corporation sold by individual shareholders. The 338(h)(10) election is available only for S-Corporations and corporate subsidiaries (where the target is owned by another C-Corporation). For standalone C-Corps, a Section 336(e) election may provide a similar result in certain circumstances. Consult a tax advisor to determine which structure works for your specific target. For more on entity-level considerations, see our guide on <Link href="/learn/c-corp-vs-s-corp-llc" className="text-apple-accent hover:underline">C-Corp vs. S-Corp vs. LLC</Link>.</p>
+      </div>
+
+      <h3 className={h3Class}>How much do the tax savings actually amount to on a typical search fund deal?</h3>
+      <div className={bodyClass}>
+        <p>On a typical $3M&ndash;$10M search fund acquisition, annual tax deductions from the stepped-up basis range from $200K to $700K, translating to $50K&ndash;$175K in annual cash tax savings at a 25% effective rate. Over the 15-year Section 197 amortization period, cumulative savings range from $750K to $2.6M. The net present value of these savings typically represents 15&ndash;25% of the purchase price, making the 338(h)(10) one of the most impactful structural decisions in any S-Corp acquisition.</p>
+      </div>
     </article>
   );
 }

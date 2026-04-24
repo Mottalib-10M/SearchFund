@@ -17,7 +17,11 @@ export default function BuyBusinessNoMoneyDownArticle() {
           it is rare and comes with significant trade-offs. The more useful
           question is: &ldquo;How can I minimize the personal capital required
           to buy a business?&rdquo; &mdash; and there, the options are much
-          more robust.
+          more robust. The 2024 Stanford Search Fund Study found that the
+          median searcher in a traditional fund invested zero personal capital
+          yet earned 20&ndash;30% equity in a company valued at $5&ndash;$30 million,
+          demonstrating that institutional paths to low-capital ownership
+          do exist.
         </p>
         <p>
           This guide examines the realistic strategies for acquiring a business
@@ -118,7 +122,9 @@ export default function BuyBusinessNoMoneyDownArticle() {
             SBA 7(a) loans
           </Link>{" "}
           require a minimum 10% equity injection, but creative structuring can
-          reduce the cash required:
+          reduce the cash required. SBA data shows that 7(a) loans funded over
+          $28 billion in small business lending in fiscal year 2024, with
+          business acquisitions representing a growing share of originations:
         </p>
         <ul className={ulClass}>
           <li><strong>Seller note as equity substitute:</strong> Some SBA lenders count standby seller notes (on full standby for 24 months) toward the 10% equity requirement, though this has become more restrictive</li>
@@ -180,6 +186,20 @@ export default function BuyBusinessNoMoneyDownArticle() {
           <li>Equity is split between you (typically 20&ndash;40%) and the platform</li>
           <li>You invest zero personal capital but earn meaningful ownership and a CEO salary</li>
         </ul>
+        <p>
+          Examples include Searchlight Capital Partners, Relay Investments&apos;
+          accelerator programs, and newer entrants like Enduring Ventures and
+          Teamshares. Each platform has different economics, industry preferences,
+          and geographic coverage. For a deeper look at available programs, see our
+          guide to{" "}
+          <Link href="/learn/search-fund-accelerators" className="text-apple-accent hover:underline">
+            search fund accelerators
+          </Link>.
+          The trade-off compared to a traditional search fund is that platforms
+          often take a larger equity share and impose more operational constraints,
+          but they also provide deeper operational support, proprietary deal flow,
+          and shared services that reduce the administrative burden on the CEO.
+        </p>
 
         <h2 className={h2Class}>What you actually need: realistic capital requirements</h2>
         <p>
@@ -221,6 +241,43 @@ export default function BuyBusinessNoMoneyDownArticle() {
           <li><strong>Personal living expenses:</strong> 3&ndash;6 months of savings as a buffer during the transition</li>
           <li><strong>Insurance:</strong> D&amp;O, key person, and general liability policies</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Is it really possible to buy a business with no personal capital?</h3>
+        <p>
+          Yes, through a traditional search fund model or an accelerator
+          platform. In both cases, institutional investors provide 100% of
+          the capital while you provide the operating commitment and earn
+          equity through performance. However, these paths require strong
+          credentials, a compelling personal pitch, and the willingness to
+          share 60&ndash;80% of the equity with investors.
+        </p>
+
+        <h3 className={h3Class}>What credit score do I need to qualify for SBA financing?</h3>
+        <p>
+          Most SBA lenders require a personal credit score of 680 or above,
+          though some preferred lenders set a minimum of 700. Beyond your
+          credit score, SBA lenders evaluate your relevant industry or
+          management experience, your equity injection source, the target
+          company&apos;s cash flow and debt service coverage ratio, and
+          your personal financial statement. Having even a modest amount
+          of personal capital to inject improves your approval odds
+          significantly.
+        </p>
+
+        <h3 className={h3Class}>How do sellers feel about no-money-down offers?</h3>
+        <p>
+          Most sellers are initially skeptical of no-money-down proposals
+          because they perceive higher risk that the buyer will not follow
+          through. The best way to mitigate this concern is to present a
+          well-structured deal with credible institutional backing,
+          demonstrate deep knowledge of the business through thorough
+          due diligence, and offer terms that align the seller&apos;s
+          financial interest with the deal&apos;s success (for example,
+          a higher interest rate on seller financing or an earn-out
+          component tied to post-acquisition performance).
+        </p>
 
         <h2 className={h2Class}>The bottom line</h2>
         <p>

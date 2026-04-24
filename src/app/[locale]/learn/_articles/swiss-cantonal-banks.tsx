@@ -7,6 +7,7 @@ export default function SwissCantonalBanksArticle() {
       <h1 className={h1Class}>Swiss Cantonal Banks & Acquisition Financing</h1>
       <div className={bodyClass}>
         <p>Switzerland&apos;s unique banking system, anchored by 24 cantonal banks, provides a distinctive financing landscape for business acquisitions. For searchers targeting <Link href="/learn/eta-switzerland" className="text-apple-accent hover:underline">Swiss acquisitions</Link>, understanding how cantonal banks, federal programs, and private institutions work together is critical for structuring deals in one of Europe&apos;s most stable economies.</p>
+        <p>According to the University of St. Gallen&apos;s <em>Swiss SME Succession Study</em>, approximately 12% of Swiss SME owners actively seek a buyer at any given time, yet fewer than half have a formal succession plan. This structural supply-demand imbalance, combined with Switzerland&apos;s well-capitalized banking system and low interest rates relative to peers, makes the Swiss market one of the most attractive in Europe for acquisition entrepreneurs.</p>
       </div>
 
       <h2 className={h2Class}>The Cantonal Bank System</h2>
@@ -66,7 +67,7 @@ export default function SwissCantonalBanksArticle() {
           <li>Vendor loan (Verkäuferdarlehen): 15&ndash;20%</li>
           <li>Buyer equity: 25&ndash;35%</li>
         </ul>
-        <p>Swiss banks typically require more equity (25&ndash;35%) than other European markets, reflecting the conservative Swiss banking culture.</p>
+        <p>Swiss banks typically require more equity (25&ndash;35%) than other European markets, reflecting the conservative Swiss banking culture. The Verband Schweizerischer Kantonalbanken notes that cantonal banks view <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> as a long-term relationship, often requiring a comprehensive business plan, management due diligence, and a clear 5-year investment thesis before committing.</p>
       </div>
 
       <h2 className={h2Class}>Swiss Tax Considerations</h2>
@@ -79,6 +80,7 @@ export default function SwissCantonalBanksArticle() {
           <li><strong>No goodwill amortization:</strong> In share deals, goodwill is not tax-deductible. In asset deals, goodwill can be amortized over its useful life (typically 5&ndash;20 years).</li>
           <li><strong>No stamp duty on share transfers:</strong> Swiss securities transfer tax (0.15% domestic, 0.30% foreign) applies but is modest</li>
         </ul>
+        <p>KPMG Switzerland&apos;s <em>Clarity on Swiss Taxes</em> report highlights that the dramatic variation in cantonal tax rates makes location selection a critical part of <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company tax planning</Link>. A holding company in Zug (effective rate ~11.5%) pays roughly half the tax of one in Geneva (~21%), which can compound into hundreds of thousands of francs in savings over a typical 5&ndash;7 year holding period.</p>
       </div>
 
       <h2 className={h2Class}>The Nachfolge Opportunity</h2>
@@ -110,6 +112,23 @@ export default function SwissCantonalBanksArticle() {
         <li><Link href="/learn/government-financing-programs-global" className="text-apple-accent hover:underline">Government Financing Programs: Global Overview</Link></li>
         <li><Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">Succession-Driven Acquisitions</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Can a non-Swiss resident obtain acquisition financing from a cantonal bank?</h3>
+      <div className={bodyClass}>
+        <p>It is possible but significantly harder. Cantonal banks prefer borrowers who are Swiss residents or have a strong local presence. EU/EFTA citizens can obtain B permits relatively quickly, which improves access. For non-EU citizens, establishing a Swiss company (AG or GmbH) and demonstrating local management presence is typically necessary before cantonal banks will engage seriously on acquisition financing. Partnering with a Swiss co-investor or advisor with existing banking relationships accelerates the process.</p>
+      </div>
+
+      <h3 className={h3Class}>How do B&uuml;rgschaftsgenossenschaften guarantees interact with cantonal bank lending?</h3>
+      <div className={bodyClass}>
+        <p>The guarantee is applied for through your lending bank, which submits the request to one of the four federally recognized B&uuml;rgschaftsgenossenschaften. The guarantee covers up to CHF 1 million (100% of the loan) and replaces the need for personal collateral on that portion. The bank and the guarantee cooperative jointly assess the borrower&apos;s creditworthiness. In practice, having B&uuml;rgschaft coverage enables the cantonal bank to extend financing at lower rates and with higher leverage than would otherwise be possible.</p>
+      </div>
+
+      <h3 className={h3Class}>Which Swiss canton is best for setting up an acquisition holding company?</h3>
+      <div className={bodyClass}>
+        <p>From a pure tax perspective, low-rate cantons like Zug (11.5%), Nidwalden (12%), Appenzell Innerrhoden (12.7%), and Lucerne (12.2%) are the most attractive. However, the &quot;best&quot; canton also depends on proximity to the target business, access to talent, and the quality of the local business ecosystem. Many acquirers place the holding company in a low-tax canton while keeping the operating company in its original location, provided there is genuine substance (office, management) at the holding level.</p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>

@@ -10,15 +10,16 @@ export default function AcquiringRoofingBusinessArticle() {
       <div className={bodyClass}>
         <p>
           Roofing is one of the highest-revenue verticals within the skilled
-          trades &mdash; a $60B+ U.S. market built on essential, non-deferrable
-          demand. Every home and commercial building needs a functional roof, and
+          trades. According to IBISWorld, it is a $60B+ U.S. market built on
+          essential, non-deferrable demand. Every home and commercial building needs a functional roof, and
           when that roof fails, the repair or replacement is urgent.
           Storm-driven demand cycles create periodic surges that can double or
           triple a roofer&rsquo;s annual revenue in hail-prone geographies,
           while baseline re-roofing demand (driven by 20&ndash;30 year shingle
-          life cycles) provides a steady floor. With more than 100,000
-          contractors operating in the U.S., the industry is extraordinarily
-          fragmented &mdash; no single company holds meaningful national market
+          life cycles) provides a steady floor. The NRCA estimates that more
+          than 100,000 contractors operate in the U.S. The industry is
+          extraordinarily fragmented &mdash; no single company holds meaningful
+          national market
           share. For search fund entrepreneurs, roofing offers a compelling
           combination of high ticket sizes, strong cash flow, and clear
           consolidation opportunity. If you&rsquo;re new to the broader
@@ -424,6 +425,58 @@ export default function AcquiringRoofingBusinessArticle() {
           geographic coverage and deepen crew capacity. For acquirers
           interested in adjacent construction verticals, see our guide to{" "}
           <Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">acquiring a construction company</Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much is a roofing business worth?
+        </h3>
+        <p>
+          Most roofing businesses trade at 2.5&ndash;5x EBITDA. The key is
+          normalizing for storm cycles &mdash; a company showing $2M EBITDA
+          in a banner hail year but averaging $1.2M over five years should
+          be valued on the normalized figure. Companies with diversified
+          revenue (retail re-roofing, commercial work, and maintenance
+          contracts) command higher multiples than storm-dependent operators.
+          A strong safety record (EMR below 0.85) and manufacturer
+          certifications (GAF Master Elite, Owens Corning Platinum) also
+          support premium pricing.
+        </p>
+
+        <h3 className={h3Class}>
+          What are the biggest risks when buying a roofing company?
+        </h3>
+        <p>
+          The primary risks include storm dependency (revenue can swing
+          dramatically year-to-year), worker classification issues (many
+          roofers use 1099 subcontractors who may be misclassified), high
+          workers&rsquo; compensation and insurance costs (WC premiums can run
+          20&ndash;40% of payroll), warranty liabilities that transfer with
+          the business, and seasonal cash flow challenges in northern climates.
+          The{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence checklist
+          </Link>{" "}
+          covers the financial and legal fundamentals, but roofing requires
+          special attention to safety records, insurance claims history, and
+          subcontractor classification.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I build recurring revenue in a roofing business?
+        </h3>
+        <p>
+          Create a formal annual inspection and maintenance program priced at
+          $150&ndash;$300 per year for residential and $500&ndash;$5,000+ for
+          commercial customers. Most roofing companies install a roof and
+          never contact the homeowner again &mdash; this is a massive missed
+          opportunity. Maintenance programs generate predictable cash flow,
+          extend warranty relationships, create repair leads, and build a
+          pipeline for future re-roofing projects. Target 20&ndash;30%
+          penetration on your installed customer base within two years.
+          Commercial maintenance contracts are especially valuable because
+          they provide non-seasonal revenue.
         </p>
       </div>
     </article>

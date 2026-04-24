@@ -17,9 +17,10 @@ export default function AcquiringPestControlBusinessArticle() {
           for: high recurring revenue from monthly and quarterly service plans,
           licensing requirements that create meaningful barriers to entry,
           recession-resistant demand (pests don&rsquo;t care about the economy),
-          and a massively fragmented market ripe for consolidation. With over
-          23,000 pest control companies operating in the United States alone and
-          a total addressable market exceeding $23 billion, there is no shortage
+          and a massively fragmented market ripe for consolidation. According to
+          the National Pest Management Association (NPMA), over 23,000 pest
+          control companies operate in the United States, with a total
+          addressable market exceeding $23 billion. There is no shortage
           of acquisition targets &mdash; and no shortage of opportunity to build
           a platform that generates exceptional returns.
         </p>
@@ -29,7 +30,9 @@ export default function AcquiringPestControlBusinessArticle() {
           The pest control industry combines several characteristics that make it
           an ideal ETA target. Understanding these structural advantages helps
           explain why private equity firms and strategic acquirers like Rollins
-          (Orkin) and Rentokil have spent decades rolling up the sector &mdash;
+          (Orkin) &mdash; which has completed over 200 tuck-in acquisitions
+          according to its annual reports &mdash; and Rentokil have spent
+          decades rolling up the sector &mdash;
           and why the opportunity remains wide open for search fund entrepreneurs.
         </p>
         <ul className={ulClass}>
@@ -472,6 +475,58 @@ export default function AcquiringPestControlBusinessArticle() {
           build platforms that generate strong free cash flow throughout the
           hold period and command premium exit multiples when it&rsquo;s time
           to sell.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much is a pest control business worth?
+        </h3>
+        <p>
+          Most pest control businesses trade at 3&ndash;6x EBITDA, with the
+          specific multiple driven primarily by recurring revenue quality.
+          Companies with 70%+ recurring revenue from service plans command
+          5&ndash;6x or higher. Revenue-based pricing of 1&ndash;2x annual
+          recurring revenue is also common for smaller operators. Key premium
+          factors include strong route density, diversified service offerings
+          (general pest plus termite), low customer concentration, and a
+          management team that operates independently of the owner.
+        </p>
+
+        <h3 className={h3Class}>
+          What makes pest control a good acquisition target?
+        </h3>
+        <p>
+          Pest control checks every box on the ETA criteria list: 70&ndash;85%
+          recurring revenue from monthly and quarterly service plans, licensing
+          requirements that create genuine barriers to entry, recession-resistant
+          demand (pests ignore economic cycles), route-density economics that
+          create local competitive moats, and a massively fragmented market
+          with over 23,000 operators. Operating margins of 15&ndash;25% are
+          typical for well-run companies, and the{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
+            buy-and-build playbook
+          </Link>{" "}
+          is well-proven by large acquirers like Rollins and Rentokil.
+        </p>
+
+        <h3 className={h3Class}>
+          How do I convert one-time customers to recurring plans?
+        </h3>
+        <p>
+          Train technicians to present service plans at the end of every
+          initial treatment &mdash; this is the single highest-conversion
+          moment because the customer has just experienced a pest problem
+          and wants ongoing protection. Offer incentives (bonuses or
+          commissions) for plan sign-ups, and create tiered plan options
+          (basic, premium, ultimate) so customers can choose their
+          coverage level. A well-executed conversion program can increase
+          recurring revenue from 50% to 70%+ within 12&ndash;18 months.
+          For guidance on implementing price increases alongside plan
+          conversions, see our{" "}
+          <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">
+            pricing optimization guide
+          </Link>.
         </p>
       </div>
     </article>

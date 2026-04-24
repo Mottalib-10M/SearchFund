@@ -43,7 +43,10 @@ export default function CreativeFinancingArticle() {
             SBA 7(a) program
           </Link>{" "}
           allows seller notes on full standby for 2 years, which SBA
-          treats as part of the buyer&rsquo;s equity injection:
+          treats as part of the buyer&rsquo;s equity injection. According to the
+          SBA&rsquo;s Standard Operating Procedure (SOP 50 10 7.1), a standby
+          seller note requires no payments of principal or interest for at least
+          two years and must be subordinate to the SBA-guaranteed loan:
         </p>
         <ul className={ulClass}>
           <li>SBA loan: 75&ndash;80% of purchase price</li>
@@ -56,7 +59,10 @@ export default function CreativeFinancingArticle() {
         <p>
           ROBS allows you to use 401(k) or IRA retirement funds to invest
           in a business you operate, without paying early withdrawal
-          penalties or taxes:
+          penalties or taxes. The IRS Employee Plans Compliance Resolution
+          System (EPCRS) establishes the compliance framework that ROBS
+          structures must follow, and the program remains legal when
+          properly administered:
         </p>
         <ul className={ulClass}>
           <li>Form a C-Corporation, establish a new 401(k) plan</li>
@@ -116,7 +122,11 @@ export default function CreativeFinancingArticle() {
 
         <h2 className={h2Class}>8. Asset-based lending</h2>
         <p>
-          If the business has significant tangible assets:
+          If the business has significant tangible assets, asset-based
+          lending (ABL) can unlock capital that traditional cash-flow
+          lenders overlook. The Commercial Finance Association reports that
+          ABL commitments in the U.S. exceed $800 billion annually,
+          making it one of the largest sources of business credit:
         </p>
         <ul className={ulClass}>
           <li><strong>Accounts receivable financing:</strong> Borrow 80&ndash;90% against AR</li>
@@ -179,6 +189,47 @@ export default function CreativeFinancingArticle() {
             acquisition financing
           </Link>{" "}
           deep dive.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is the most creative way to finance a business acquisition?
+        </h3>
+        <p>
+          The most powerful creative strategy combines SBA 7(a) lending
+          (75&ndash;80% of the purchase price), a seller note on full standby
+          (10&ndash;15%, which the SBA counts as equity), and ROBS (rolling over
+          401(k)/IRA funds for the remaining equity injection). This
+          combination can reduce out-of-pocket cash to near zero for deals
+          under $5M. However, it requires careful coordination between your
+          SBA lender, a qualified ROBS provider, and a willing seller.
+        </p>
+
+        <h3 className={h3Class}>
+          Can I use my 401(k) to buy a business?
+        </h3>
+        <p>
+          Yes, through ROBS (Rollover for Business Startups). You form a
+          C-Corporation, establish a 401(k) plan for it, roll over your
+          existing retirement funds into the new plan, and the plan buys
+          stock in your C-Corp. This provides capital without early
+          withdrawal penalties or taxes. Setup costs $5K&ndash;$10K through a
+          qualified ROBS provider, and you must maintain strict compliance
+          with IRS and Department of Labor regulations.
+        </p>
+
+        <h3 className={h3Class}>
+          How much of my own money do I need to buy a business?
+        </h3>
+        <p>
+          The amount depends on your financing strategy. Traditional bank
+          financing typically requires 10&ndash;20% buyer equity. With creative
+          structures like SBA + seller notes, you can reduce personal cash
+          to 5&ndash;10%. Using ROBS, HELOCs, or earn-in arrangements, some
+          buyers close deals with little or no personal savings at risk.
+          Always stress-test your structure against a 20&ndash;30% revenue
+          decline scenario to ensure you are not over-leveraged.
         </p>
       </div>
     </article>

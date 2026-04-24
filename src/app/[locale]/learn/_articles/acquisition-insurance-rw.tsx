@@ -6,7 +6,7 @@ export default function AcquisitionInsuranceRWArticle() {
     <article>
       <h1 className={h1Class}>Acquisition Insurance: R&W, Key Person & D&O</h1>
       <div className={bodyClass}>
-        <p>Insurance plays an increasingly important role in business acquisitions, helping bridge gaps between buyer and seller expectations, protect against post-closing risks, and smooth negotiations. Understanding Representations & Warranties (R&W) insurance, key person insurance, and Directors & Officers (D&O) coverage is essential for structuring well-protected deals.</p>
+        <p>Insurance plays an increasingly important role in business acquisitions, helping bridge gaps between buyer and seller expectations, protect against post-closing risks, and smooth negotiations. According to Marsh&apos;s 2024 Transactional Risk Insurance Market Report, R&amp;W insurance usage has expanded dramatically in the lower middle market, with policies now available for deals as small as $5 million. Understanding Representations &amp; Warranties (R&amp;W) insurance, key person insurance, and Directors &amp; Officers (D&amp;O) coverage is essential for structuring well-protected deals.</p>
       </div>
 
       <h2 className={h2Class}>Representations & Warranties (R&W) Insurance</h2>
@@ -30,7 +30,8 @@ export default function AcquisitionInsuranceRWArticle() {
           <li><strong>Relationship preservation:</strong> Avoids adversarial post-closing indemnification disputes</li>
           <li><strong>Management sellers:</strong> When the seller continues as an employee, R&W insurance prevents awkward claims between employer and employee</li>
         </ul>
-        <p><strong>Note:</strong> R&W insurance was traditionally available only for deals above $25M, but the market has expanded significantly. Some insurers now offer policies for deals as small as $5M&ndash;$10M.</p>
+        <p><strong>Note:</strong> R&amp;W insurance was traditionally available only for deals above $25M, but the market has expanded significantly. AIG, Euclid Transactional, and several Lloyd&apos;s syndicates now offer policies for deals as small as $5M&ndash;$10M. For search fund acquisitions, R&amp;W insurance can be especially valuable when the seller is a retiring owner who wants a clean break &mdash; it allows them to walk away without multi-year indemnification exposure while giving the buyer robust protection against undisclosed issues.</p>
+        <p>When evaluating R&amp;W insurance, pay close attention to the policy exclusions. Standard exclusions typically include known issues identified in <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, forward-looking statements, purchase price adjustments, and certain environmental or pension liabilities. The underwriting process itself (which involves a detailed review of your diligence findings) often takes 2&ndash;3 weeks and should be factored into your <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing timeline</Link>.</p>
       </div>
 
       <h2 className={h2Class}>Key Person Insurance</h2>
@@ -87,13 +88,21 @@ export default function AcquisitionInsuranceRWArticle() {
         <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>Marsh, <em>Transactional Risk Insurance Market Report</em> (2024)</li>
-        <li>AIG, <em>Representations and Warranties Insurance Guide</em> (2024)</li>
-        <li>SBA, <em>Life Insurance Requirements for 7(a) Loans</em> (2024)</li>
-        <li>Willis Towers Watson, <em>D&O Insurance Market Update</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <h3 className={h3Class}>Is R&amp;W insurance worth it for a small search fund deal?</h3>
+      <div className={bodyClass}>
+        <p>For deals under $5M, R&amp;W insurance is generally not cost-effective because the premium ($40K&ndash;$80K+ for a $2M policy) represents a significant percentage of the deal value. For deals in the $5M&ndash;$20M range, R&amp;W insurance becomes increasingly valuable, especially when the seller is a retiring owner who wants a clean exit or when the deal is competitive and you want to differentiate your offer. The premium typically represents 2&ndash;4% of coverage limits, with a retention (deductible) of 0.5&ndash;1% of enterprise value.</p>
+      </div>
+
+      <h3 className={h3Class}>What does key person insurance cost and who pays for it?</h3>
+      <div className={bodyClass}>
+        <p>Key person insurance typically costs $500&ndash;$3,000 per year depending on the insured person&apos;s age, health, and coverage amount. The business is both the purchaser and beneficiary of the policy. SBA lenders almost always require key person insurance on the searcher/CEO as a loan condition, with coverage equal to the outstanding loan balance. The cost is a deductible business expense. Beyond the SBA requirement, it&apos;s also wise to insure the departing seller during the transition period and any employees whose loss would materially impact operations.</p>
+      </div>
+
+      <h3 className={h3Class}>When should I purchase tail D&amp;O coverage?</h3>
+      <div className={bodyClass}>
+        <p>Tail D&amp;O coverage (also called &quot;run-off&quot; coverage) should be purchased at the time you sell the company, not when you acquire it. It extends protection for board members and officers for actions taken during the ownership period, typically for 6 years after the sale. Willis Towers Watson estimates tail coverage costs roughly 200&ndash;300% of the final annual D&amp;O premium. Factor this cost into your exit planning and <Link href="/learn/preparing-company-exit" className="text-apple-accent hover:underline">sale preparation</Link>. Board members and investor representatives will expect this protection as part of any exit transaction.</p>
+      </div>
     </article>
   );
 }
