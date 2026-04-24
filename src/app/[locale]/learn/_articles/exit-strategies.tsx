@@ -419,6 +419,32 @@ export default function ExitStrategiesArticle() {
           exit, or alternative path, the key is to start preparing early and
           align your board on the strategy before launching the process.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the average hold period and return multiple for search fund exits?</h3>
+        <p>
+          According to Stanford GSB's 2024 Search Fund Study, the median hold period for search fund acquisitions is approximately 5 years, with a range of 3-8 years. The median return on invested capital (ROIC) for successful exits is 3.0-5.0x, with top-quartile exits achieving 7-10x or higher. The aggregate IRR across all search fund investments (including failures) is approximately 33%, making search funds one of the highest-returning asset classes in private equity. However, these averages mask significant variance: roughly 25-30% of search funds do not complete an acquisition, and another 20-25% of acquired companies underperform expectations. The exits that drive aggregate returns tend to be businesses that achieved both EBITDA growth and{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">multiple expansion</Link> during the hold period.
+        </p>
+
+        <h3 className={h3Class}>When should a search fund CEO start planning their exit?</h3>
+        <p>
+          Exit planning should begin 18-24 months before your target exit date. At the 24-month mark, align with your board and investors on timing and value expectations, then begin addressing any business weaknesses that could reduce valuation -- customer concentration above 15-20%, key-person dependencies, or incomplete financial records. At 12-18 months, engage an investment banker, commission a sell-side{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of Earnings</Link> report, and ensure your management team can operate the business without you for 90 days. Rushing an exit typically leaves 15-25% of value on the table compared to a well-planned competitive process.
+        </p>
+
+        <h3 className={h3Class}>How much does it cost to hire an investment banker for a search fund exit?</h3>
+        <p>
+          For lower middle-market exits ($10-50M enterprise value), investment banking fees typically include a monthly retainer of $25,000-$75,000 for 4-6 months and a success fee of 2-5% of enterprise value. Using a modified Lehman formula, a $20M exit might generate total banking fees of $500,000-$800,000. While expensive, a well-run competitive process typically generates 15-25% higher valuations than a bilateral negotiation, more than justifying the cost. Interview 3-5 banks, focusing on their specific buyer relationships in your industry, recent comparable transaction experience, and references from completed deals in your size range. The right banker can mean the difference between a 5.5x and a 7.5x exit multiple.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

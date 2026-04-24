@@ -717,6 +717,69 @@ export default function AcquiringHomeHealthcareArticle() {
           meaningful long-term growth that every search fund investor
           seeks.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the difference between skilled home health and non-medical home care?</h3>
+        <p>
+          Skilled home health agencies provide clinical services &mdash;
+          nursing, physical therapy, occupational therapy, and speech-language
+          pathology &mdash; under a physician&rsquo;s plan of care. They bill
+          Medicare under the Patient-Driven Groupings Model (PDGM) at
+          approximately $2,000&ndash;$3,500 per episode and require Medicare
+          certification. Non-medical home care agencies provide assistance with
+          activities of daily living (bathing, dressing, meal preparation,
+          companionship) and are typically paid out of pocket, through
+          long-term care insurance, or via Medicaid waivers. Skilled agencies
+          command higher margins and stronger valuations (6&ndash;10x EBITDA vs.
+          3&ndash;5x) but face heavier regulatory requirements. Many acquirers
+          build platforms that combine both service lines to diversify payer
+          mix and create cross-referral opportunities.
+        </p>
+
+        <h3 className={h3Class}>How does Medicare Advantage affect home health valuations?</h3>
+        <p>
+          Medicare Advantage (MA) plans now cover more than half of all Medicare
+          beneficiaries, and they reimburse home health at rates 15&ndash;30%
+          below traditional Medicare. An agency experiencing a rapid shift from
+          traditional Medicare to MA in its payer mix will see margin compression
+          even if patient volume holds steady. During{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>,
+          break down revenue by payer &mdash; traditional Medicare, MA, Medicaid,
+          commercial, and private pay &mdash; and track the trend over
+          36 months. Agencies with diversified payer mixes and strong commercial
+          or private-pay revenue command higher valuations because they are less
+          exposed to any single reimbursement source.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks in acquiring a home healthcare agency?</h3>
+        <p>
+          The primary risks are reimbursement cuts, regulatory enforcement,
+          workforce shortages, and referral source concentration. CMS adjusts
+          Medicare home health rates annually with a generally downward real
+          trend. The OIG actively investigates billing fraud in home health,
+          and deficient surveys can trigger provider enrollment holds. The
+          Bureau of Labor Statistics projects a shortage of over 400,000 home
+          health aides by 2030, making caregiver recruitment the binding
+          growth constraint. If a single hospital referral source accounts
+          for more than 25% of admissions, losing that relationship can cause
+          a sudden census decline. Mitigate through payer diversification,
+          robust compliance programs, competitive compensation, and broad
+          referral network development.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Centers for Medicare &amp; Medicaid Services (CMS)</strong> &mdash; &ldquo;Medicare Home Health Data &amp; Patient-Driven Groupings Model (PDGM) Overview,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Home Care Providers Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Home Health and Personal Care Aides,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

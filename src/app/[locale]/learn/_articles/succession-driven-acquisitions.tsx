@@ -136,6 +136,62 @@ export default function SuccessionDrivenAcquisitionsArticle() {
             how to find businesses for sale
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses are available due to owner retirement?</h3>
+        <p>
+          According to the Exit Planning Institute, approximately 10,000
+          baby boomers turn 65 every day in the United States, and an
+          estimated 2.3 million business owners are expected to transition
+          their businesses by 2030. The{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession crisis
+          </Link>{" "}
+          represents the largest transfer of business ownership in history.
+          Research from BPI France shows similar dynamics in Europe, where
+          700,000 French businesses will face succession challenges over
+          the next decade.
+        </p>
+
+        <h3 className={h3Class}>Do retiring owners accept lower valuations?</h3>
+        <p>
+          Retiring owners generally accept fair market valuations and are
+          less likely to demand premium multiples compared to growth-oriented
+          sellers who believe their projected future performance justifies a
+          higher price. However, &ldquo;fair&rdquo; still means market-rate
+          multiples (typically 3.5&ndash;5.5x EBITDA for search fund
+          targets). The real advantage is structural: retiring sellers are
+          more willing to provide 10&ndash;30%{" "}
+          <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">
+            seller financing
+          </Link>,
+          accept longer transition periods, and prioritize deal certainty
+          over maximizing every dollar.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest risk when buying from a retiring owner?</h3>
+        <p>
+          Owner dependency is the single biggest risk. After 20&ndash;30
+          years, the owner often holds all key customer relationships,
+          vendor contacts, and institutional knowledge. The Stanford GSB
+          study identifies owner dependency as one of the top predictors of
+          post-acquisition underperformance. Mitigate this by assessing
+          management depth during{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence
+          </Link>,
+          negotiating a structured 6&ndash;12 month transition, and
+          interviewing 5&ndash;10 key customers to understand whether
+          relationships are with the owner personally or with the company.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Exit Planning Institute, <em>State of Owner Readiness Survey</em> (2023)</li>
+          <li>BPI France, <em>Transmission d&rsquo;entreprise : enjeux et perspectives</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

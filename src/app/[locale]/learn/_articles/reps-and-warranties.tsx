@@ -446,6 +446,27 @@ export default function RepsAndWarrantiesArticle() {
           Representations and warranties are complex, heavily negotiated, and sometimes feel removed from the actual business you're buying. But they're critical protection when things go wrong. Invest time in understanding them, negotiate thoughtfully, and work with experienced counsel. Your future self—dealing with an undisclosed liability or broken rep—will be grateful you did.
         </p>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long do representations and warranties typically survive after closing?</h3>
+
+        <p className={bodyClass}>
+          Survival periods vary by rep category. According to the ABA's Private Target M&A Deal Points Study (2024), general reps survive 12-18 months in most lower middle-market deals ($5-30M), with 18 months being the most common single period. Fundamental reps (organization, authority, capitalization) typically survive indefinitely or 6 years. Tax reps survive until the applicable statute of limitations expires (usually 3-4 years, longer if fraud is alleged). Environmental reps sometimes carry extended survival periods of 3-5 years given the long latency of environmental issues. For search fund deals specifically, 15-18 months for general reps is market standard, giving you enough time to uncover issues through at least one full operating cycle.
+        </p>
+
+        <h3 className={h3Class}>Is representations and warranties insurance worth it for a search fund deal?</h3>
+
+        <p className={bodyClass}>
+          RWI is generally worth considering for search fund deals above $10-15M in enterprise value. Below that threshold, the premium ($150,000-$300,000 on a $15-20M deal, at roughly 2.5-4% of coverage amount) may be better spent on deeper due diligence. According to Aon's 2024 RWI market report, RWI makes the most sense when the seller has limited post-closing assets (reducing collection risk), in competitive auctions (where RWI can differentiate your bid), or with complex businesses where diligence was time-constrained. RWI does not cover fraud or breach of fundamental reps -- sellers remain liable for those. For most search fund deals in the $5-15M range, a well-structured escrow (15-20% of purchase price) with standard indemnification provides adequate protection at lower cost.
+        </p>
+
+        <h3 className={h3Class}>What is a typical indemnification cap for a search fund acquisition?</h3>
+
+        <p className={bodyClass}>
+          For general reps, the indemnification cap typically ranges from 10-25% of the purchase price, with higher percentages on smaller deals. According to the Harvard Law School Forum on Corporate Governance analysis of private M&A deal terms, the median cap for deals under $25M is 15-20% of purchase price. Fundamental reps and tax reps are usually not subject to caps or have caps equal to 100% of purchase price. The indemnification basket (the threshold before claims kick in) is typically 0.5-1.5% of purchase price -- on a $10M deal, expect a $50,000-$150,000 basket. As a first-time buyer, push for a deductible basket (you recover all losses once the threshold is exceeded) rather than a tipping basket (you only recover the excess above the threshold), as the deductible structure provides better{" "}
+          <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">buyer protection</Link>.
+        </p>
+
         <div className="mt-12 border-t border-gray-200 pt-8">
           <h2 className={h2Class}>Sources</h2>
           <ul className="mt-4 space-y-2">

@@ -254,6 +254,31 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
             &mdash; changing structure after signing creates friction</li>
           <li>Engage tax counsel and your CPA before finalizing the structure</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which structure do SBA lenders prefer for acquisitions?</h3>
+        <p>
+          SBA lenders overwhelmingly prefer asset purchases. According to SBA lending data, approximately 70&ndash;80% of SBA-financed acquisitions are structured as asset deals. The primary reasons are cleaner collateral documentation (the lender takes a first lien on specifically identified assets), avoidance of successor liability risk, and simpler loan administration. If your deal requires a stock purchase (for example, due to non-transferable licenses or contracts), you will need to find an SBA lender with experience in stock deals and should expect additional documentation requirements, including more extensive representations and warranties and potentially higher equity injection requirements.
+        </p>
+
+        <h3 className={h3Class}>How does the 338(h)(10) election affect both buyer and seller?</h3>
+        <p>
+          The IRC Section 338(h)(10) election allows a stock purchase to be treated as an asset purchase for tax purposes, but it requires mutual consent. For buyers, the benefit is significant: a stepped-up tax basis in the acquired assets that generates depreciation and amortization deductions worth $500K&ndash;$1M+ over the recovery period on a typical $5M&ndash;$15M acquisition. For S corporation sellers, the election triggers tax as if assets were sold (ordinary income on recaptured depreciation, capital gains on the remainder), which can increase their tax bill by 5&ndash;15% compared to a straight stock sale. According to the American Bar Association&rsquo;s M&amp;A Committee, the 338(h)(10) election has become the default structure for S corporation search fund acquisitions, with the buyer typically compensating the seller through a purchase price adjustment of 3&ndash;8% to offset the seller&rsquo;s additional tax burden.
+        </p>
+
+        <h3 className={h3Class}>What happens to employee benefits in each structure?</h3>
+        <p>
+          In an asset purchase, employees are technically terminated by the seller and rehired by the buyer. This resets benefits enrollment periods, PTO accrual, and tenure-based benefits. According to the Society for Human Resource Management (SHRM), this disruption is the single largest source of employee anxiety during acquisitions. The buyer must establish new benefit plans or adopt the seller&rsquo;s plans, and there is typically a gap in coverage that must be managed carefully to retain key talent. In a stock purchase, employment continues uninterrupted &mdash; employees keep their tenure, benefit elections, and accrued PTO. For a deeper look at managing this transition, see our{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition guide</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>American Bar Association, Mergers &amp; Acquisitions Committee &mdash; <em>Asset vs. Stock Acquisitions: Tax and Legal Considerations</em>. Comprehensive analysis of structural trade-offs and the 338(h)(10) election.</li>
+          <li>U.S. Small Business Administration &mdash; <em>SBA Standard Operating Procedures for Acquisition Lending</em>, SBA.gov. Guidance on preferred deal structures for government-backed acquisition financing.</li>
+          <li>Internal Revenue Service &mdash; <em>IRC Section 1060 (Purchase Price Allocation)</em> and <em>IRC Section 338(h)(10) (Election for S Corporation Acquisitions)</em>. Statutory authority governing tax treatment of asset and stock purchases.</li>
+        </ul>
       </div>
     </article>
   );

@@ -624,6 +624,27 @@ export default function AIDealSourcingArticle() {
 
       <hr className="my-8 border-gray-700" />
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much does an AI-powered deal sourcing tech stack cost for a solo searcher?</h3>
+      <p className={bodyClass}>
+        A functional AI sourcing stack typically costs $500-$2,000 per month. This includes a target identification platform like Grata or SourceScrub ($300-$800/month), an outreach tool like Apollo.io or Clay ($100-$300/month), LinkedIn Sales Navigator ($100/month), and a CRM like HubSpot or Attio ($0-$500/month for starter tiers). General-purpose AI assistants add another $20-$100/month. According to SearchFunder community surveys, searchers who invest $1,000-$1,500/month in AI tools report generating 2-3x more qualified conversations per month compared to manual-only approaches. The key is selecting tools that integrate well rather than purchasing overlapping capabilities.
+      </p>
+
+      <h3 className={h3Class}>Can AI-generated outreach really compete with handwritten, personalized emails to business owners?</h3>
+      <p className={bodyClass}>
+        The data suggests that AI-assisted personalization (where AI drafts and a human edits) outperforms both fully manual and fully automated approaches. Fully manual outreach achieves 5-8% response rates but limits volume to 10-20 emails per day. Fully automated AI outreach scales to hundreds per day but typically drops response rates to 1-3% as recipients detect template patterns. The hybrid approach -- AI-generated drafts reviewed and refined by the searcher -- achieves 3-6% response rates at volumes of 50-100 per day, yielding the highest total number of qualified conversations. The key is using AI for research and first-draft personalization while adding genuine human insight before sending.
+      </p>
+
+      <h3 className={h3Class}>What are the biggest risks of relying too heavily on AI for deal sourcing?</h3>
+      <p className={bodyClass}>
+        The primary risks are data bias, skill atrophy, and competitive convergence. AI platforms tend to overweight companies with strong digital footprints, systematically missing profitable businesses that lack websites or social media presence -- precisely the type of{" "}
+        <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">traditional service businesses</Link>{" "}
+        that make excellent acquisition targets. Over-reliance can also erode fundamental skills like cold calling and in-person networking that remain critical for building seller trust. Finally, as more searchers adopt identical AI tools, they converge on the same targets, increasing competition for AI-visible businesses while leaving manually-sourced opportunities underexplored. The most effective approach combines AI efficiency with traditional relationship-building methods.
+      </p>
+
+      <hr className="my-8 border-gray-700" />
+
       <p className={bodyClass}>
         <em>
           This article is part of our comprehensive guide to entrepreneurship through acquisition.

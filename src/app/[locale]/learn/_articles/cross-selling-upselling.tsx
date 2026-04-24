@@ -78,6 +78,23 @@ export default function CrossSellingUpsellingArticle() {
         <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much revenue uplift can cross-selling generate after an acquisition?</h3>
+      <p>
+        According to Bain &amp; Company, companies that systematically cross-sell to existing customers can increase revenue per account by 20&ndash;30% within the first 12&ndash;18 months. In the context of search fund acquisitions, this is particularly impactful because most SMEs have never implemented structured cross-sell programs. A <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link> that includes tiered service bundles and annual account reviews can generate measurable results within the first two quarters post-acquisition, often with minimal incremental cost.
+      </p>
+
+      <h3 className={h3Class}>What is the best way to train field technicians to cross-sell without alienating customers?</h3>
+      <p>
+        The key is framing cross-sell recommendations as consultative problem-solving rather than sales pitches. According to Harvard Business Review, the most effective approach is &quot;observe-inform-offer&quot;: technicians observe a customer need during a service visit, inform the customer about the issue, and offer a solution. For example, an HVAC technician noticing outdated ductwork might say, &quot;I noticed your ducts are 15+ years old &mdash; we offer an inspection service that could improve your efficiency by 20%.&quot; Incentivize with modest spiffs ($25&ndash;$50 per qualified lead) rather than commissions to keep the focus on service quality.
+      </p>
+
+      <h3 className={h3Class}>How should I measure the ROI of cross-selling and upselling initiatives?</h3>
+      <p>
+        Track three core metrics: revenue per customer (average spend per account before and after cross-sell programs), cross-sell attach rate (the percentage of customers purchasing additional services), and customer lifetime value (CLV). Salesforce data shows that customers who purchase two or more product categories have 3&ndash;5x higher CLV than single-product customers. Set up your CRM to tag cross-sell and upsell revenue separately so you can attribute growth to specific initiatives. Monthly reporting on these KPIs to your <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link> ensures accountability and continuous optimization.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>The Economics of Cross-Selling and Customer Expansion</em> (2024)</li>

@@ -399,6 +399,64 @@ export default function AcquiringCleaningBusinessArticle() {
           fundamentals rather than flash, it remains one of the most
           compelling opportunities in ETA.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Should I target commercial or residential cleaning businesses?</h3>
+        <p>
+          Most search fund acquirers are better served by targeting commercial
+          janitorial businesses. Commercial contracts generate $30,000&ndash;$500,000+
+          annually per client versus $3,000&ndash;$10,000 for residential customers.
+          Commercial churn is far lower &mdash; clients stay 3&ndash;7 years versus
+          25&ndash;40% annual turnover in residential. Commercial cleaning also offers
+          more scalable operations on predictable nightly schedules and commands higher
+          exit multiples due to contract-based recurring revenue. That said, residential
+          cleaning can be a lower-cost entry point for searchers who plan to build
+          toward commercial work over time, and higher gross margins (35&ndash;50% vs.
+          20&ndash;30% for commercial) can offset the higher churn if managed well.
+        </p>
+
+        <h3 className={h3Class}>How do I manage the high turnover rate in cleaning businesses?</h3>
+        <p>
+          Cleaning industry turnover often reaches 100&ndash;200% annually for
+          frontline workers, making workforce management the central operational
+          challenge. Effective strategies include paying $1&ndash;$2 per hour above
+          prevailing market rates (which dramatically reduces turnover at modest cost),
+          offering performance bonuses tied to attendance and quality scores, providing
+          predictable and reliable scheduling, and creating career advancement paths
+          from crew member to site supervisor to area manager. Modern cleaning
+          management software with GPS-based clock-in/clock-out and quality inspection
+          checklists also improves accountability and reduces the management burden.
+          Every dollar invested in retention saves multiples in recruiting, training,
+          and quality costs.
+        </p>
+
+        <h3 className={h3Class}>What are the typical EBITDA margins for a cleaning business?</h3>
+        <p>
+          EBITDA margins in cleaning are thin relative to many service sectors &mdash;
+          typically 8&ndash;15% for commercial janitorial and 12&ndash;18% for
+          residential cleaning. Labor represents 55&ndash;65% of revenue, making
+          payroll management the primary margin lever. Post-acquisition, the most
+          impactful margin improvement strategies include rigorous job costing to
+          identify and reprice or shed unprofitable contracts (often 10&ndash;20% of
+          the book), technology implementation that saves 10&ndash;15% of labor costs
+          through route optimization, and{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
+          consolidation that eliminates duplicate overhead and improves purchasing power.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Janitorial Services Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>ISSA (The Worldwide Cleaning Industry Association)</strong> &mdash; &ldquo;Cleaning Industry Market Size &amp; Benchmarking Study,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Janitors and Building Cleaners,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

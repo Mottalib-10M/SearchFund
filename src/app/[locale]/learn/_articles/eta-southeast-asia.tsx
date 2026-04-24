@@ -437,6 +437,46 @@ export default function ETASoutheastAsiaArticle() {
           preparation, and the potential rewards&mdash;both financial and
           personal&mdash;are substantial.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which Southeast Asian country is easiest for a foreign national to acquire a business in?</h3>
+        <p>
+          The Philippines is generally the most accessible for foreign acquirers due to its widespread English proficiency and recent liberalization reforms. The Retail Trade Liberalization Act (2022) lowered foreign equity restrictions, and the Public Service Act amendments opened telecommunications and transportation to 100% foreign ownership. Vietnam permits 100% foreign ownership in many sectors under its WTO commitments, though registration with the Department of Planning and Investment adds bureaucratic steps. Indonesia&rsquo;s 2020 Omnibus Law liberalized many sectors but still requires PT PMA structures with IDR 10 billion minimum capital (~US$625,000). Thailand is the most restrictive: the Foreign Business Act limits foreign ownership to 49% in most services, though Board of Investment (BOI) promotion can grant exemptions. For a detailed comparison of legal structures, see our guide to{" "}
+          <Link href="/learn/eta-singapore" className="text-apple-accent hover:underline">ETA in Singapore &amp; Southeast Asia</Link>.
+        </p>
+
+        <h3 className={h3Class}>What EBITDA multiples should I expect when acquiring an SME in Southeast Asia?</h3>
+        <p>
+          According to INSEAD research and regional M&amp;A advisory data, EBITDA multiples for SMEs in Southeast Asia typically range from 3x to 6x, with significant variation by country and sector. Indonesian and Filipino SMEs in traditional sectors (manufacturing, distribution, food &amp; beverage) trade at 3x to 5x EBITDA. Thai businesses in well-run manufacturing and services sectors command 4x to 6x. Vietnamese companies in faster-growing sectors like technology services and healthcare can reach 5x to 8x. These are materially below US search fund acquisition multiples of 4.5x to 5.5x reported in the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Study</Link>. Lower multiples reflect weaker corporate governance, key-person risk, currency exposure, and limited exit markets. Forward-looking multiples, however, can be substantially lower than trailing multiples given the region&rsquo;s 5&ndash;7% GDP growth, making patient acquirers particularly well-positioned.
+        </p>
+
+        <h3 className={h3Class}>How long does a typical search take in Southeast Asia compared to the US?</h3>
+        <p>
+          Search timelines in Southeast Asia are generally 18 to 30 months, compared to the 20-month US average reported by Stanford. The extended timeline reflects several factors unique to the region: the relationship-driven business culture requires months of trust-building before sellers will discuss terms; the lack of a mature M&amp;A intermediary network means more deals come through proprietary sourcing rather than structured broker processes; regulatory approvals for foreign ownership can add weeks or months; and{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>{" "}
+          takes longer because financial records are often incomplete or maintained in local languages. Searchers should budget for a minimum 24-month search period and ensure their search capital covers the extended timeline. Basing yourself in-country rather than searching remotely from Singapore can meaningfully accelerate the process by enabling more frequent face-to-face interactions with sellers and intermediaries.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.insead.edu/centres/entrepreneurship" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              INSEAD &mdash; ETA &amp; Search Funds Hub, Southeast Asia Research
+            </a>
+          </li>
+          <li>
+            <a href="https://www.adb.org/publications/asia-small-medium-sized-enterprise-monitor" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Asian Development Bank &mdash; Asia SME Monitor and Country Reports
+            </a>
+          </li>
+          <li>
+            <a href="https://asean.org/asean-economic-community/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              ASEAN Secretariat &mdash; ASEAN Economic Community and SME Policy Framework
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

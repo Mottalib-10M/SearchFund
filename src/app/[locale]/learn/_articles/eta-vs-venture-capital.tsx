@@ -348,6 +348,68 @@ export default function ETAvsVentureCapitalArticle() {
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link> outlines
           the first steps.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the failure rate of search funds compared to venture-backed startups?</h3>
+        <p>
+          The failure dynamics are strikingly different. Approximately 90% of
+          venture-backed startups fail to return investor capital, according
+          to industry data from Cambridge Associates. In contrast, the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</Link>{" "}
+          shows that roughly 33% of search fund acquisitions result in a loss
+          of capital, with total write-offs (where all equity is lost) being
+          less common. Most ETA &ldquo;failures&rdquo; involve partial returns
+          rather than complete wipeouts because the acquired business has
+          existing customers, employees, and cash flows that retain some
+          value even under suboptimal management. VC failures are typically
+          existential &mdash; the product never finds market fit or the
+          company runs out of cash entirely.
+        </p>
+
+        <h3 className={h3Class}>How many investments do I need for a diversified ETA portfolio vs. VC?</h3>
+        <p>
+          Because VC relies on the power law, funds must make 25&ndash;40
+          investments, knowing most will fail and one or two must return
+          50x&ndash;100x to make the fund successful. ETA investors can
+          achieve strong risk-adjusted returns with far fewer bets. A
+          portfolio of 10&ndash;15 search fund investments provides robust
+          diversification because the return distribution is more
+          concentrated &mdash; each individual investment has a meaningful
+          probability of success rather than depending on a single outlier.
+          Individual check sizes of $50,000&ndash;$200,000 per search fund
+          make ETA portfolio construction accessible to a broader range of
+          accredited investors.
+        </p>
+
+        <h3 className={h3Class}>Can ETA generate the same 100x returns as venture capital?</h3>
+        <p>
+          No &mdash; and that is by design. ETA can deliver 10x&ndash;20x
+          returns in exceptional cases, but the 100x outcomes that define
+          top-tier VC funds are structurally unavailable because search funds
+          acquire established businesses rather than creating winner-take-all
+          platforms. However, ETA compensates with dramatically higher base
+          rates of success: roughly two-thirds of acquired search funds
+          generate positive returns, with a median of approximately 3x&ndash;5x
+          MOIC. For investors who need consistent 25&ndash;35% IRR rather
+          than lottery-ticket upside, ETA provides a more reliable return
+          profile. Many sophisticated investors allocate to both strategies
+          &mdash; ETA for consistent risk-adjusted returns and VC for
+          convexity exposure.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Cambridge Associates</strong> &mdash; &ldquo;US Venture Capital Index &amp; Benchmark Statistics,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Kauffman Foundation</strong> &mdash; &ldquo;We Have Met the Enemy and He Is Us: Lessons from Twenty Years of the Kauffman Foundation&rsquo;s Investments in Venture Capital Funds,&rdquo; 2023.
+          </li>
+        </ul>
       </div>
     </article>
   );

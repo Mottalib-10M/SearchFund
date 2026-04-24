@@ -465,6 +465,42 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
           to build a complete picture of cross-border search fund acquisitions
           in Europe.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much more do cross-border European acquisitions cost in advisory fees compared to domestic deals?</h3>
+        <p>
+          Cross-border European acquisitions typically cost 20&ndash;40% more in legal and tax advisory fees than domestic deals. According to IESE research on European search funds, the median cross-border transaction incurs EUR 80K&ndash;150K in advisory costs versus EUR 50K&ndash;100K for a domestic deal of equivalent size. The additional expense covers dual-jurisdiction legal counsel, cross-border tax structuring, holding company formation, and translation services. Searchers should budget for these costs from the outset and factor them into their total acquisition cost model rather than treating them as an afterthought.
+        </p>
+
+        <h3 className={h3Class}>Is it possible to run a cross-border European search fund without relocating to the target country?</h3>
+        <p>
+          While some searchers have successfully acquired businesses across borders without permanent relocation, the evidence strongly favors relocating &mdash; at least for the first 12&ndash;18 months post-acquisition. INSEAD&rsquo;s ETA research shows that search fund operators who relocate to the target company&rsquo;s country achieve significantly better employee retention and customer preservation during the transition. The EU&rsquo;s freedom of movement makes relocation straightforward for EU citizens. For non-EU citizens, most member states offer investor or entrepreneur visa categories that facilitate relocation when linked to a qualifying business acquisition.
+        </p>
+
+        <h3 className={h3Class}>Which European holding company jurisdiction is best for a multi-country search fund?</h3>
+        <p>
+          The Netherlands, Luxembourg, and Ireland are the three most commonly used holding jurisdictions for cross-border European search funds, each with distinct advantages. The Netherlands offers a 100% participation exemption on dividends and capital gains from qualifying subsidiaries, an extensive treaty network, and pragmatic substance requirements. Luxembourg provides the widest range of holding structures (SOPARFI, SCSp) with strong IP protection. Ireland offers a 12.5% corporate tax rate on trading income and excellent access to US investor capital. The choice depends on the target countries, investor domicile, and anticipated exit strategy. The EU Anti-Tax Avoidance Directives (ATAD I and II) require real economic substance regardless of which jurisdiction you choose.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study and European ETA Data
+            </a>
+          </li>
+          <li>
+            <a href="https://www.insead.edu/centres/entrepreneurship/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              INSEAD &mdash; ETA &amp; Search Funds Research Hub
+            </a>
+          </li>
+          <li>
+            <a href="https://taxation-customs.ec.europa.eu/anti-tax-avoidance-directive_en" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              European Commission &mdash; Anti-Tax Avoidance Directives (ATAD I &amp; II)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

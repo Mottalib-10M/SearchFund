@@ -120,6 +120,30 @@ export default function PortfolioConstructionSearchFundsArticle() {
             search fund data
           </Link>, see our investor guides.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many search funds should I invest in to build a diversified portfolio?</h3>
+        <p>
+          According to the Stanford GSB Search Fund Study, the minimum viable portfolio is 10&ndash;15 search fund investments, with 15&ndash;25 being the optimal range. At this level, probabilistic modeling shows a 90%+ chance of capturing at least one top-quartile outcome (3&ndash;10x+ MOIC), which drives overall portfolio returns. Institutional investors like Pacific Lake Partners and Relay Investments typically back 30&ndash;50+ funds. Investing in fewer than 8 funds creates dangerous concentration risk &mdash; with a ~33% loss rate, a small portfolio can be devastated by a few bad outcomes. Diversify across vintage years (3&ndash;5 new funds per year), geographies, and <Link href="/learn/how-to-evaluate-searcher" className="text-apple-accent hover:underline">searcher profiles</Link> to maximize your probability of capturing the asset class&rsquo;s strong returns.
+        </p>
+
+        <h3 className={h3Class}>How much capital should I reserve for follow-on investments at the acquisition stage?</h3>
+        <p>
+          Experienced search fund investors budget 2&ndash;3x their initial search-phase commitment for acquisition follow-on capital. If you invest $50K during the search phase, plan to invest an additional $100K&ndash;$150K when the searcher identifies and closes on a company. According to data from the Stanford Center for Entrepreneurial Studies, investors who do not reserve adequate follow-on capital face significant dilution from new investors brought in at the acquisition stage. Some investors address this by structuring their overall allocation upfront: committing to a total per-fund amount (e.g., $200K) with $50K deployed at search and $150K reserved for acquisition. This ensures you maintain your pro-rata ownership and <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">return potential</Link>.
+        </p>
+
+        <h3 className={h3Class}>Should I invest in European search funds or stick to US-based funds?</h3>
+        <p>
+          IESE Business School research shows that European search funds offer compelling advantages: lower entry multiples (3&ndash;5x EBITDA vs. 4&ndash;7x in the US), a massive SME succession wave (23 million EU businesses facing ownership transitions), and less competition among buyers. Returns for completed European acquisitions have been comparable to US funds. However, European funds carry additional risks including less exit liquidity, fragmented regulatory environments, and a shorter track record. A balanced approach is a 60/30/10 split between US, European, and emerging market funds. European markets like France, Spain, and Germany are the most mature, with institutional support from IESE, INSEAD, and government programs like Bpifrance. See our guide on <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link> for a deeper analysis.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2023)</li>
+          <li>Pacific Lake Partners, <em>Search Fund Portfolio Construction: Lessons from Two Decades</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -156,6 +156,59 @@ export default function DealStructureOptimizationArticle() {
           </Link>,
           see our dedicated guides.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the most common deal structure for search fund acquisitions?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study, the most
+          common structure is senior debt (50&ndash;70% of purchase price)
+          plus search fund investor equity (20&ndash;35%) plus a seller note
+          (10&ndash;20%). For self-funded searchers using SBA 7(a) loans,
+          the typical split is 70&ndash;80% SBA debt, 10&ndash;15% seller
+          financing on a 2-year standby, and 10&ndash;15% buyer equity.
+          The right structure depends on deal size, business quality, and
+          lender appetite.
+        </p>
+
+        <h3 className={h3Class}>How can I bridge a valuation gap with the seller?</h3>
+        <p>
+          The most effective tools for bridging a $500K&ndash;$2M valuation
+          gap are{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
+            earn-outs
+          </Link>{" "}
+          tied to future performance, larger seller notes at above-market
+          interest rates (7&ndash;8%), equity rollover giving the seller
+          10&ndash;20% ownership, and consulting agreements at
+          $5K&ndash;$15K per month. These mechanisms let you pay the
+          seller&rsquo;s price contingent on performance while protecting
+          your downside if the business underperforms.
+        </p>
+
+        <h3 className={h3Class}>Should I do an asset purchase or stock purchase?</h3>
+        <p>
+          Asset purchases benefit buyers through a step-up in basis
+          (creating tax-deductible depreciation and amortization), while
+          stock purchases benefit sellers through capital gains treatment.
+          Most search fund deals are structured as asset purchases because
+          the buyer&rsquo;s tax benefits over 5&ndash;15 years often exceed
+          the seller&rsquo;s incremental tax cost. When the gap is
+          significant, buyers can offer a modest price increase to compensate
+          the seller. A{" "}
+          <Link href="/learn/338h10-election" className="text-apple-accent hover:underline">
+            338(h)(10) election
+          </Link>{" "}
+          can provide a middle ground by treating a stock sale as an asset
+          sale for tax purposes.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>SBA, <em>Standard Operating Procedures 50-10: Lender and Development Company Loan Programs</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

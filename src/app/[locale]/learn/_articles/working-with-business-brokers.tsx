@@ -413,6 +413,32 @@ export default function WorkingWithBusinessBrokersArticle() {
         </p>
       </div>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much do business brokers charge, and who pays?</h3>
+      <p className={bodyClass}>
+        In the vast majority of transactions, the seller pays the broker's fee. For smaller transactions (under $5M), brokers typically charge success fees of 8-12% of the transaction value, with 10% being most common. For middle-market deals ($5-50M), fees follow variations of the Lehman Formula (5% on the first $1M, 4% on the second, and so on). According to IBBA data, the average broker commission on a completed transaction in the $1-5M range is approximately 10% of enterprise value. Importantly, the fee is calculated on total transaction value including seller financing and{" "}
+        <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-outs</Link>, not just cash at closing. As a buyer, you do not typically pay the sell-side broker directly, though the cost is effectively embedded in the purchase price.
+      </p>
+
+      <h3 className={h3Class}>How many brokers should I register with, and how do I stand out?</h3>
+      <p className={bodyClass}>
+        Register with 10-20 brokers in your target geography and industry verticals. According to SearchFunder community data, searchers who maintain active relationships with 15+ brokers generate 2-3x more qualified deal flow than those working with fewer than 5. To stand out among the dozens of buyers who contact each broker, do three things: first, provide a clear, one-page buyer profile outlining your specific acquisition criteria, background, and financial capability (including SBA pre-qualification or investor backing). Second, respond to new opportunities within 24 hours -- brokers report that fewer than 20% of registered buyers respond promptly. Third, provide specific, constructive feedback when you pass on an opportunity, which calibrates the broker's understanding of your criteria and signals professionalism.
+      </p>
+
+      <h3 className={h3Class}>Are broker-listed businesses overpriced compared to off-market deals?</h3>
+      <p className={bodyClass}>
+        On average, yes. Stanford GSB data suggests that broker-listed businesses trade at 0.5-1.0x higher EBITDA multiples than proprietary deals, primarily because of buyer competition and broker-coached seller expectations. According to the Pepperdine Private Capital Markets Report (2024), the average asking-to-closing price ratio for broker-listed businesses is 85-95%, meaning the final price is typically 5-15% below asking. However, broker-listed deals offer advantages that partially offset the price premium: sellers are committed to selling, financials are typically organized, and the broker facilitates the process. The most effective approach for searchers is a hybrid strategy that combines broker relationships for deal flow volume with{" "}
+        <Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">proprietary sourcing</Link> for pricing advantage.
+      </p>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+        <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+        <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+      </ul>
+
       <div className="mt-12 p-6 bg-gray-50 rounded-lg border border-gray-200">
         <h3 className="text-lg font-semibold mb-3">Related Articles</h3>
         <ul className="space-y-2">

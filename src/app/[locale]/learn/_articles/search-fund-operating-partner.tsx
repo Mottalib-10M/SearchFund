@@ -603,6 +603,44 @@ export default function SearchFundOperatingPartnerArticle() {
           relationship properly, the operating partner model can give you a meaningful
           edge in one of the most challenging and rewarding journeys in entrepreneurship.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of search funds use the operating partner model, and do partnered searches perform differently than solo searches?</h3>
+        <p>
+          According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, approximately 30&ndash;35% of traditional search funds are raised by partner teams, a proportion that has remained relatively stable over the past two decades. The performance data is nuanced: partnered searches tend to have slightly higher acquisition rates (because two searchers cover more ground), but the aggregate return data does not show a statistically significant difference between solo and partnered funds. The key variable is not the number of partners but the quality of the partnership &mdash; teams with genuinely complementary skills and clear role definition outperform teams composed of two people with similar backgrounds. Investors report that the single greatest risk in partnered searches is partner conflict post-acquisition, which can destabilize the business and destroy value more severely than typical solo-searcher challenges.
+        </p>
+
+        <h3 className={h3Class}>How should partnered searchers split equity, and what vesting schedule is standard?</h3>
+        <p>
+          In a traditional search fund, the total searcher equity pool is 20&ndash;30% of the acquired company. In a partner search, this pool is split between the two partners rather than doubled &mdash; meaning each partner typically receives 10&ndash;15% of total company equity. The most common arrangement is a 50/50 split when both partners contribute equally and hold equivalent roles. An unequal split (60/40 or 55/45) is appropriate when one partner brings meaningfully more experience, capital, or will serve as CEO while the other serves as COO. Standard vesting is over 4&ndash;5 years with a one-year cliff. The critical principle is that the split must be agreed before the search begins, when goodwill is highest and the incentive to be fair is strongest. For a complete guide to equity structures, see our article on{" "}
+          <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap tables and equity</Link>.
+        </p>
+
+        <h3 className={h3Class}>What legal agreements do search fund partners need before launching?</h3>
+        <p>
+          At minimum, partners need a comprehensive operating agreement drafted by counsel experienced in search fund partnerships. Key provisions include: equity allocation and vesting schedules for each partner, written role definitions and authority boundaries, compensation terms (salary, bonus, any differences between partners), buyout provisions with a defined valuation methodology (typically fair market value or formula-based pricing), non-compete and non-solicitation clauses, dissolution triggers and procedures, and a dispute resolution mechanism (mediation first, then binding arbitration). Partners should also align on lifestyle expectations &mdash; hours worked, relocation willingness, exit timeline, risk tolerance &mdash; and document these discussions. Generic partnership templates are insufficient for the specific complexities of search fund economics, investor rights, and vesting structures. The legal cost of drafting these agreements ($10K&ndash;$25K) is a trivial expense relative to the cost of an unstructured partnership breakdown.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Partner vs. Solo Search Data)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School &mdash; Search Fund Primer (Partnership Structures)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study (Partnership Outcomes)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

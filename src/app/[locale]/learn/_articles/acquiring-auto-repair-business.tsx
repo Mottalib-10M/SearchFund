@@ -532,6 +532,63 @@ export default function AcquiringAutoRepairBusinessArticle() {
           commands a premium exit multiple &mdash; all while generating strong free
           cash flow throughout the hold period.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do auto repair businesses trade at?</h3>
+        <p>
+          Auto repair businesses typically trade between 2.5x and 5x adjusted EBITDA,
+          depending on size, customer mix, equipment condition, and management depth.
+          Single-technician owner-operator shops with no management layer often sell
+          at 2.0&ndash;3.0x seller&rsquo;s discretionary earnings, while shops with
+          diversified revenue, strong fleet accounts, modern equipment, and a functional
+          management team command 4&ndash;5x EBITDA. Franchise locations may carry a
+          modest premium for brand recognition but also face ongoing royalty fees of
+          5&ndash;8% of revenue. For broader valuation context, see our{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples by industry</Link>{" "}
+          guide.
+        </p>
+
+        <h3 className={h3Class}>How do I evaluate the technician team during due diligence?</h3>
+        <p>
+          The technician team is the most critical asset after the customer base. Review
+          each technician&rsquo;s ASE (Automotive Service Excellence) certifications,
+          manufacturer-specific training records, and years of hands-on experience. A
+          shop with multiple ASE Master Technicians signals deep technical capability
+          and the ability to handle complex, high-margin work. Conversely, reliance on
+          a single highly skilled technician creates acute{" "}
+          <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link>.
+          Also assess average tenure, compensation benchmarks against the local market,
+          and whether the shop has documented training programs or apprenticeship
+          pipelines &mdash; factors that directly impact post-acquisition retention.
+        </p>
+
+        <h3 className={h3Class}>How will electric vehicles affect auto repair businesses?</h3>
+        <p>
+          The EV transition will reshape demand but not eliminate it. EVs reduce demand
+          for oil changes, transmission repairs, and exhaust work, but increase demand
+          for tire replacement (heavier vehicles wear tires faster), suspension and
+          brake service, HVAC systems, and high-voltage electrical diagnostics. The
+          Bureau of Labor Statistics projects EVs will reach 25&ndash;40% of the fleet
+          by 2035, meaning internal combustion engines will dominate for decades.
+          Shops that invest in EV training and equipment now &mdash; particularly ADAS
+          camera recalibration tools &mdash; will capture a growing segment while
+          competitors lag behind. The key is ensuring the business is not over-reliant
+          on service lines like oil changes that will decline as EV penetration grows.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Auto Mechanics Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Auto Care Association</strong> &mdash; &ldquo;Auto Care Factbook &amp; Industry Overview,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Automotive Service Technicians and Mechanics,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

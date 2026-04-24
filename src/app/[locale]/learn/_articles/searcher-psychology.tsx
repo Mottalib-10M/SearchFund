@@ -325,6 +325,30 @@ export default function SearcherPsychologyArticle() {
           to serve the organization they&apos;ve acquired — not just to prove that
           they were right to pursue the search in the first place.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How common is it for searchers to experience mental health challenges during the search?</h3>
+        <p>
+          Very common. According to a 2023 survey by the Entrepreneurship Through Acquisition community on SearchFunder, over 70% of searchers reported experiencing significant stress, anxiety, or periods of depression during their search. The combination of financial uncertainty, constant rejection, identity disruption, and timeline pressure creates a psychological burden that rivals early-stage startup founding. Harvard Business School research on entrepreneurial mental health confirms that first-time entrepreneurs experience anxiety rates 2&ndash;3x higher than the general population. The critical takeaway is that these feelings are normal, not a sign of weakness or unsuitability for the role. Proactive strategies &mdash; peer groups, exercise, executive coaching, and clear boundaries &mdash; significantly improve outcomes.
+        </p>
+
+        <h3 className={h3Class}>Should I tell my investors when I&apos;m struggling psychologically?</h3>
+        <p>
+          The answer depends on the nature of the struggle and your relationship with your investors. Experienced search fund investors like those at Pacific Lake Partners and Anacapa Partners have backed dozens of searchers and understand that the process is emotionally grueling. Sharing that you&apos;re in a challenging period &mdash; without catastrophizing &mdash; demonstrates self-awareness and maturity. However, frame the conversation around what you&apos;re doing to address it: &quot;Deal flow has been slow the past two months, and I&apos;ve adjusted my <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">sourcing strategy</Link> by adding proprietary outreach to complement broker channels.&quot; Investors worry most about searchers who go silent or who seem unaware of their own struggles. Transparency, paired with a plan, builds trust.
+        </p>
+
+        <h3 className={h3Class}>What is the best way to handle a deal that falls apart during due diligence?</h3>
+        <p>
+          Failed closings are one of the most psychologically devastating experiences in the search process, and the average searcher experiences 1&ndash;2 before their eventual successful acquisition. According to Stanford GSB case studies on search fund deal-making, the most effective recovery process has three phases. First, allow yourself 48&ndash;72 hours to process the disappointment &mdash; suppressing the emotion prolongs it. Second, conduct a structured post-mortem: what red flags did you miss, what would you do differently in diligence, and what did you learn about your own decision-making? Third, reactivate your pipeline immediately &mdash; reach out to brokers and revisit opportunities that were deprioritized while you were in diligence. The searchers who recover fastest are those with a robust <Link href="/learn/searcher-tools" className="text-apple-accent hover:underline">CRM pipeline</Link> that ensures other opportunities don&apos;t go cold while they pursue a single deal.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Harvard Business School, <em>The Psychological Price of Entrepreneurship</em> (2023)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Baumeister, R. F. &amp; Vohs, K. D., <em>Self-Regulation, Ego Depletion, and Motivation</em>, Social and Personality Psychology Compass (2016)</li>
+        </ul>
       </div>
     </article>
   );

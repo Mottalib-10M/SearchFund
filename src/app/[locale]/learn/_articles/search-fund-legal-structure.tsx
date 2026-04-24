@@ -306,6 +306,30 @@ export default function SearchFundLegalStructureArticle() {
           well-prepared legal package signals professionalism to investors and
           avoids delays that can cost you momentum.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why do most US search funds use a Delaware limited partnership?</h3>
+        <p>
+          Delaware is the dominant jurisdiction for search fund LPs because of its well-developed body of partnership law, the expertise of the Delaware Court of Chancery in business disputes, and the flexibility it offers in drafting partnership agreements. According to Stanford GSB data, over 90% of traditional US search funds are structured as Delaware LPs. The LP structure provides pass-through taxation (avoiding double taxation at the entity level), limited liability for investors, and well-understood governance mechanics including distribution waterfalls, carried interest provisions, and investor rights of first refusal on acquisition equity. Delaware also permits significant customization of the partnership agreement, allowing searchers to tailor governance provisions to their specific investor base.
+        </p>
+
+        <h3 className={h3Class}>What is the difference between a C-Corp and an LLC for the operating entity?</h3>
+        <p>
+          The choice between a C-Corporation and an LLC taxed as a partnership depends primarily on your tax strategy and exit timeline. An LLC provides pass-through taxation, avoiding double taxation and allowing losses (common in early years due to acquisition-related amortization) to flow to investors&rsquo; personal returns. A C-Corporation offers potential Qualified Small Business Stock (QSBS) treatment under IRC Section 1202, which can exclude up to $10M in federal capital gains per shareholder if the stock is held for at least five years. According to tax advisors specializing in search fund transactions, QSBS eligibility has become an increasingly important consideration, particularly for acquisitions where a 5+ year hold is planned and the target qualifies under the $50M gross asset threshold.
+        </p>
+
+        <h3 className={h3Class}>How much does entity setup cost for a search fund?</h3>
+        <p>
+          In the US, total legal costs for entity setup and LP documentation typically range from $15,000 to $30,000, paid from search capital. This includes forming the Delaware LP, the GP entity (single-member LLC), drafting the Limited Partnership Agreement, preparing the Private Placement Memorandum and subscription documents, and securities compliance review. In Europe, costs are generally higher at EUR 15,000 to EUR 40,000 due to notarial requirements (mandatory in France, Germany, and the Netherlands), more complex cross-border tax structuring, and the need for jurisdiction-specific counsel. According to IESE&rsquo;s Search Fund Conference data, European searchers should budget 20&ndash;40% more for legal setup compared to their US counterparts.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Primer</em> and <em>Search Fund Study: Selected Observations</em>, 2024. Data on entity structures, legal costs, and standard search fund governance provisions.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. Analysis of European search fund legal structures across France, Germany, Spain, and the UK.</li>
+          <li>Internal Revenue Service &mdash; <em>IRC Section 1202 (Qualified Small Business Stock)</em> and <em>IRC Subchapter K (Partnership Taxation)</em>. Statutory framework governing entity-level taxation and QSBS eligibility.</li>
+        </ul>
       </div>
     </article>
   );

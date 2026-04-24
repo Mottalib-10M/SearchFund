@@ -211,6 +211,30 @@ export default function ETAJapanArticle() {
           </Link>,
           explore our country-specific guides.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many Japanese businesses close each year due to lack of a successor?</h3>
+        <p>
+          According to Japan&rsquo;s Small and Medium Enterprise Agency (a division of METI), approximately 49,000 businesses close each year despite being profitable, purely because the owner cannot find a successor. Teikoku Databank, Japan&rsquo;s leading business intelligence firm, reported in 2023 that 60.5% of Japanese SMEs have no succession plan, and the average age of retiring business owners has climbed to 70.1 years. The government estimates that if current trends continue, up to 6.5 million jobs and &yen;22 trillion in annual GDP could be lost by the end of the decade. This urgency has driven unprecedented government support, including the Business Succession Tax System (which defers 100% of gift and inheritance taxes on business shares) and a national network of <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession support centers</Link> in all 47 prefectures.
+        </p>
+
+        <h3 className={h3Class}>Can a non-Japanese speaker successfully acquire and operate a business in Japan?</h3>
+        <p>
+          In practice, business-level Japanese fluency (JLPT N1 or equivalent) is a near-requirement for operating a Japanese SME. According to the Japan External Trade Organization (JETRO), fewer than 10% of Japanese SMEs use English in daily operations, and the percentage drops significantly outside of Tokyo and Osaka. Deal negotiations, employee management, customer relationships, and vendor interactions all occur in Japanese. Some foreign acquirers have succeeded by partnering with a Japanese co-operator who handles day-to-day management, while the foreign partner focuses on strategy, international expansion, and investor relations. IESE Business School&rsquo;s research on international search funds notes that the most successful cross-cultural acquisitions in Japan involve operators who have lived in Japan for at least two to three years before launching their search.
+        </p>
+
+        <h3 className={h3Class}>What government financing is available for acquiring a business in Japan?</h3>
+        <p>
+          Japan offers among the most generous government-backed acquisition financing in the world. The Japan Finance Corporation (JFC) provides low-interest loans specifically for business succession transactions, with terms of up to 20 years and rates as low as 0.5&ndash;2% annually. Shoko Chukin Bank, a government-affiliated institution, specializes in SME lending and offers acquisition financing with favorable collateral requirements. METI&rsquo;s Business Succession Subsidy provides up to &yen;6 million to cover M&amp;A advisory fees, due diligence costs, and post-acquisition integration expenses. Additionally, the Business Succession Tax System (enacted in 2018 and extended through 2027) defers 100% of gift and inheritance tax on qualifying business shares. Regional banks (chiho ginko) are also increasingly willing to finance succession deals as they recognize the economic importance of keeping local businesses alive.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Small and Medium Enterprise Agency (METI), <em>White Paper on Small and Medium Enterprises in Japan</em> (2024)</li>
+          <li>Teikoku Databank, <em>National Business Succession Survey</em> (2023)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

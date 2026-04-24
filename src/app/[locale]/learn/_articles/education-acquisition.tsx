@@ -494,6 +494,71 @@ export default function EducationAcquisitionArticle() {
           creating real social value &mdash; a combination that makes
           this sector uniquely rewarding for mission-driven operators.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What types of education businesses are best suited for search fund acquisitions?</h3>
+        <p>
+          The strongest targets for search funds include vocational training
+          providers (HVAC, electrical, medical coding), test prep companies,
+          corporate training firms, continuing education providers, and
+          language schools. These businesses offer recurring enrollment,
+          regulatory accreditation that creates barriers to entry, and
+          demonstrable student outcomes. Ideal targets generate $3M&ndash;$20M
+          in revenue with 15&ndash;25% EBITDA margins. Vocational programs
+          are particularly compelling because they benefit from strong job
+          placement rates, growing societal recognition of non-degree career
+          paths, and potential access to GI Bill and government training
+          voucher funding. See our overview of{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">best industries for search funds</Link>{" "}
+          for broader sector comparison.
+        </p>
+
+        <h3 className={h3Class}>How does accreditation affect education business acquisitions?</h3>
+        <p>
+          Accreditation is the single most important regulatory consideration.
+          It determines whether students can receive financial aid, whether
+          credits transfer, and whether credentials are recognized by
+          employers. Most accrediting bodies require notification and approval
+          for ownership changes, with some requiring full reviews that can
+          take 6&ndash;18 months. In the US, Department of Education
+          regulations mandate a change-of-ownership review to maintain
+          Title IV financial aid eligibility &mdash; failure to obtain
+          timely approval can be catastrophic. In France, Qualiopi
+          certification is required to access CPF public funding. Build
+          these regulatory timelines into your acquisition schedule and
+          engage specialized education counsel early in the process.
+        </p>
+
+        <h3 className={h3Class}>What is the digital transformation opportunity in education acquisitions?</h3>
+        <p>
+          Many established education businesses still rely heavily on
+          classroom delivery, paper-based materials, and manual administrative
+          processes. Implementing a modern Learning Management System
+          (Canvas, Moodle, Thinkific) can reduce administrative headcount by
+          15&ndash;30% while improving the student experience. Converting
+          classroom courses to hybrid or fully online formats removes
+          geographic enrollment constraints and reduces facility costs.
+          Budget $5,000&ndash;$25,000 per course for professional conversion.
+          Data-driven student success tools that identify at-risk students
+          before they drop out can improve retention by 10&ndash;20%,
+          directly impacting revenue and reputation. These digital
+          investments typically generate strong returns within 12&ndash;18
+          months.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IESE Business School</strong> &mdash; &ldquo;International Search Fund Study,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>U.S. Department of Education</strong> &mdash; &ldquo;Change of Ownership &amp; Accreditation Requirements for Post-Secondary Institutions,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

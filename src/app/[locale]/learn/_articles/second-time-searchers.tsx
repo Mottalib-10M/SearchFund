@@ -86,6 +86,49 @@ export default function SecondTimeSearchersArticle() {
         </ul>
       </div>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How much faster do second-time searchers raise capital?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study, second-time
+          searchers typically close their fundraise 40&ndash;60% faster than
+          first-time searchers, often completing the raise in 2&ndash;4
+          months versus 4&ndash;8 months. The acceleration comes from
+          existing investor relationships, a proven track record (even if
+          the first deal had mixed results), and a more refined search
+          thesis that investors find credible.
+        </p>
+
+        <h3 className={h3Class}>Can I raise a second search fund after a failed first search?</h3>
+        <p>
+          Yes, though it requires clear self-awareness about why the first
+          search failed. Investors who backed you initially may reinvest if
+          you can articulate specific lessons learned and strategic
+          adjustments. Common pivots include shifting from traditional to{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+            self-funded search
+          </Link>,
+          targeting a different industry or geography, or adjusting deal
+          size criteria. A self-funded approach may be more appropriate for
+          the second attempt, as it demonstrates conviction through personal
+          capital commitment.
+        </p>
+
+        <h3 className={h3Class}>What structure do most second-time searchers use?</h3>
+        <p>
+          Most second-time searchers evolve beyond the traditional search
+          fund model. Common structures include independent sponsor (raising
+          capital deal-by-deal rather than during the search phase), pledge
+          funds (commitments from investors deployed when a deal is found),
+          holding company models (permanent capital for acquiring and
+          holding multiple businesses), and micro-PE funds with 3&ndash;5
+          year deployment periods. The choice depends on the searcher&rsquo;s
+          goals: independent sponsors maximize deal-by-deal economics, while
+          holding companies build long-term wealth through retained
+          ownership.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/finding-investors" className="text-apple-accent hover:underline">How to Find Search Fund Investors</Link></li>

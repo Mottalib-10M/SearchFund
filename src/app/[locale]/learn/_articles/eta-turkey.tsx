@@ -430,6 +430,46 @@ export default function ETATurkeyArticle() {
           Turkish business community &mdash; will be best positioned to
           capture this extraordinary opportunity.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does lira volatility affect search fund returns in Turkey?</h3>
+        <p>
+          The Turkish lira has depreciated from roughly 1.5 per US dollar in 2010 to over 30 recently, making currency management the single most important risk factor for foreign investors. According to OECD and World Bank data, searchers who raise equity in hard currency (USD or EUR) benefit from lower effective acquisition multiples when converting to lira, but face the risk that local-currency cash flows lose dollar value over the hold period. The most effective mitigation strategies include targeting export-oriented manufacturers whose revenues are denominated in euros or dollars while costs remain in lira, structuring acquisition debt in local currency to create a natural hedge, and modeling returns under severe depreciation scenarios (30&ndash;50% additional lira decline). Turkey&rsquo;s 75% participation exemption on capital gains for shares held two-plus years provides a meaningful tax advantage at exit that can partially offset currency losses.
+        </p>
+
+        <h3 className={h3Class}>What are the best deal sourcing channels in Turkey?</h3>
+        <p>
+          Turkey&rsquo;s most productive deal sourcing channel is the network of mali m&uuml;&scedil;avirler (certified accountants and tax advisors) who serve as the most trusted advisors to Turkish SME owners. Building relationships with 20&ndash;50 mali m&uuml;&scedil;avirler across target regions yields the highest-quality proprietary deal flow. TOBB&rsquo;s 365 local chambers of commerce are deeply embedded in their communities and can facilitate introductions to owners considering succession. Industry associations including T&Uuml;S&Idot;AD, M&Uuml;S&Idot;AD, and T&Uuml;RKONFED provide access to business networks and signal credibility. University alumni networks from Sabanc&inodot;, Ko&ccedil;, Bo&gbreve;azi&ccedil;i, and Bilkent span the Turkish business community and yield warm introductions. Unlike in the US or UK, formal{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">broker-intermediated deal flow</Link>{" "}
+          is limited for sub-$10M transactions, making proprietary relationship-driven sourcing essential.
+        </p>
+
+        <h3 className={h3Class}>Can a foreign national acquire and operate a business in Turkey?</h3>
+        <p>
+          Yes. Turkey permits 100% foreign ownership in most sectors, with no general screening requirement for foreign acquisitions. The standard process involves incorporating a Turkish A.&Scedil;. (joint-stock company) or acquiring shares in an existing entity, with the transaction registered through the Trade Registry and reported to the Central Bank. Foreign nationals can obtain work permits through their Turkish company, though the process typically takes 4&ndash;8 weeks and requires demonstrating that the position cannot be filled by a Turkish national. According to Turkey&rsquo;s Investment Office, the country has signed bilateral investment treaties with over 80 countries and is an OECD member with strong investor protections. KOSGEB subsidized credit programs and KGF loan guarantees are generally available to companies with Turkish operations regardless of ownership nationality. For an overview of how Turkish ETA fits into the broader landscape, see our{" "}
+          <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">best countries to buy a business</Link>{" "}
+          ranking.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.kosgeb.gov.tr/site/tr/genel/destekler/6315/kosgeb-destek-programlari" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              KOSGEB &mdash; Small and Medium Enterprises Development Organization, Support Programs
+            </a>
+          </li>
+          <li>
+            <a href="https://www.tobb.org.tr/Sayfalar/Eng/AnaSayfa.php" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              TOBB &mdash; Union of Chambers and Commodity Exchanges of Turkey, SME Data
+            </a>
+          </li>
+          <li>
+            <a href="https://www.invest.gov.tr/en/pages/home-page.aspx" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Presidency of the Republic of Turkey Investment Office &mdash; Foreign Investment Guide
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

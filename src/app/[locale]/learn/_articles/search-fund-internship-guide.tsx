@@ -393,6 +393,46 @@ export default function SearchFundInternshipGuideArticle() {
           guides to build your foundational knowledge, then reach out to the
           ETA community and start the conversation.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Do I need an MBA to get a search fund internship?</h3>
+        <p>
+          No, but MBA enrollment significantly increases your access to opportunities. The most reliable path to a search fund internship runs through MBA programs with dedicated ETA coursework and clubs &mdash; Stanford GSB, IESE, Harvard, Wharton, Booth, INSEAD, and Kellogg all maintain databases of active searchers seeking interns. However, undergraduate students, recent graduates, and early-career professionals can access internships through direct outreach to active searchers on LinkedIn, attendance at ETA conferences (Stanford Search Fund Conference, IESE International Search Fund Conference, ETA Summit), and relationships with search fund investors who know which portfolio searchers need support. The key differentiator is not your degree but your preparation: searchers want interns who can add value immediately in financial modeling, deal sourcing, and industry research. Our guide on{" "}
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding investors</Link>{" "}
+          explains how to identify the most active participants in the ecosystem.
+        </p>
+
+        <h3 className={h3Class}>What is typical compensation for a search fund internship?</h3>
+        <p>
+          Compensation varies significantly by structure and geography. Paid internships with active searchers typically range from $1,500 to $4,000 per month, with some in higher-cost cities (New York, San Francisco, London) paying up to $5,000. The compensation is funded from the search budget. Investor-sponsored programs with structured rotations across portfolio searchers pay $3,000 to $6,000 per month. Unpaid or stipend-based roles are common in Europe and with early-stage searchers operating on tight budgets. Most people do not pursue search fund internships for the paycheck &mdash; the value lies in the hands-on experience, the network, and the head start it provides when launching your own search. MBA programs sometimes offer supplemental summer funding for students pursuing entrepreneurial internships, so check with your career services office.
+        </p>
+
+        <h3 className={h3Class}>How do I transition from a search fund internship to launching my own fund?</h3>
+        <p>
+          The typical path from internship to active search unfolds over 12 to 24 months. During your second year of business school (if applicable), refine your investment thesis based on the industries and deal characteristics that excited you during the internship, deepen relationships with the investors you met, and assemble your legal and operational infrastructure. The single most valuable outcome of a strong internship is investor introductions: if you performed well, ask your host searcher to introduce you to their investors. According to Stanford GSB data, a warm introduction from a searcher who can vouch for your work ethic carries enormous weight &mdash; many investors explicitly prefer backing aspiring searchers who have completed internships because it signals preparation and realistic expectations. For a detailed launch framework, see our{" "}
+          <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link>{" "}
+          guide.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Searcher Demographics and Career Paths)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study and ETA Curriculum
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School &mdash; Search Fund Primer (Ruback &amp; Yudkoff)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

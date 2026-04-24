@@ -413,6 +413,25 @@ export default function SearchFundNewslettersArticle() {
         authentically and give back.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What are the best free resources for someone just starting to learn about search funds?</h3>
+      <p>
+        The three essential free resources are the Stanford GSB Search Fund Primer (available on the Center for Entrepreneurial Studies website), which provides the foundational framework for the model; the SearchFunder.com community forums, which offer real-time Q&amp;A from active searchers and investors; and the Think Like an Owner podcast, which features in-depth interviews with searcher-CEOs who have acquired and are operating businesses. Together, these cover the academic framework, practical tactical advice, and real-world case studies. For a structured learning path, start with our{" "}
+        <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">introduction to ETA</Link> and{" "}
+        <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link>.
+      </p>
+
+      <h3 className={h3Class}>How much time should I spend consuming ETA content during an active search?</h3>
+      <p>
+        Experienced searchers recommend a maximum of 5&ndash;7 hours per week on content consumption during an active search, split across daily (15&ndash;20 minutes for social media and quick updates), weekly (1&ndash;2 hours for newsletters and deep-dive articles), and monthly (3&ndash;4 hours for research reports and academic papers). According to feedback from the SearchFunder community, the most common productivity trap is using content consumption as a substitute for uncomfortable activities like cold-calling brokers or reaching out to business owners. The rule of thumb: for every hour spent reading about search funds, spend at least four hours on direct deal sourcing activities.
+      </p>
+
+      <h3 className={h3Class}>Are there ETA-focused communities for non-MBA searchers or self-funded searchers?</h3>
+      <p>
+        Yes, and the community is growing rapidly. SearchFunder.com explicitly welcomes self-funded searchers alongside traditional fund-backed searchers &mdash; many of the most active contributors are self-funded entrepreneurs. The Acquiring Minds podcast and newsletter focuses particularly on self-funded and independent searchers with practical, tactical content. On Twitter/X and LinkedIn, self-funded searchers share their journeys openly, often with more transparency than traditional searchers because they face fewer confidentiality constraints from institutional investors. Additionally, several regional ETA meetup groups and Slack communities have formed specifically for non-MBA and <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">independent sponsor</Link> entrepreneurs.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

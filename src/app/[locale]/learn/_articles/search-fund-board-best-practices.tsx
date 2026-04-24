@@ -319,6 +319,45 @@ export default function SearchFundBoardBestPracticesArticle() {
           advantage. Your board is not a hurdle to clear &mdash; it is a
           resource to deploy.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many board members should a search fund company have, and how does this change over time?</h3>
+        <p>
+          At the platform acquisition stage ($1M&ndash;$3M EBITDA), most search fund companies operate with a three-member board: the CEO and two investor directors who represent the lead investors. According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, this lean structure works well during the critical first year when monthly meetings and informal governance are appropriate. As the company grows past $3M EBITDA, adding an independent director with industry expertise improves decision quality and provides an objective voice. At $6M&ndash;$10M+ EBITDA, expanding to five members and formalizing audit, compensation, and exit committees aligns governance with the complexity of a larger organization. The Stanford data also shows that approximately 25&ndash;30% of search fund CEOs are eventually replaced by their boards, making the composition and dynamics of the board a critical factor in the CEO&rsquo;s own tenure.
+        </p>
+
+        <h3 className={h3Class}>What should I do if my board is micromanaging operational decisions?</h3>
+        <p>
+          Board micromanagement is one of the most common friction points in search fund governance. The root cause is typically unclear decision-making authority. The most effective solution is to proactively define and document three tiers of authority in the shareholders&rsquo; agreement or a board charter: decisions the CEO can make unilaterally (hiring below VP level, capital expenditures under $50K, pricing within defined bands), decisions requiring board notification (senior management changes, capex of $50K&ndash;$200K), and decisions requiring formal board approval (annual budget, acquisitions, new debt or equity). When a director drifts into operational territory during a meeting, redirect diplomatically by acknowledging the insight and steering back to the strategic question. Between meetings, build individual relationships with each director through monthly one-on-one calls &mdash; directors who feel well-informed are far less likely to micromanage during formal sessions. For more on managing{" "}
+          <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
+          effectively, see our dedicated guide.
+        </p>
+
+        <h3 className={h3Class}>How should I handle the executive session where the board meets without me?</h3>
+        <p>
+          Executive sessions &mdash; where directors meet without the CEO &mdash; are standard governance practice, not a sign of distrust. Every board meeting should include a 10&ndash;15 minute executive session at the end. According to governance best practices documented by the National Association of Corporate Directors (NACD), the executive session serves three purposes: discussing CEO performance and compensation, airing concerns that directors may not feel comfortable raising in front of management, and aligning the board on strategic priorities. The critical element is the feedback loop: after each session, the board chair should debrief you on actionable feedback. Without this loop, you are left guessing, which erodes trust. Proactively schedule executive sessions, prepare for them by pre-socializing important topics with your chair, and reframe them as an opportunity for your board to align &mdash; which produces clearer, more consistent guidance for you as CEO.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.nacdonline.org/insights/publications" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              National Association of Corporate Directors (NACD) &mdash; Board Governance Best Practices
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School &mdash; Search Fund Primer (Board Governance Section)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

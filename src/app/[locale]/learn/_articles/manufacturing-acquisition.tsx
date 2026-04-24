@@ -342,6 +342,70 @@ export default function ManufacturingAcquisitionArticle() {
           multiple and create substantial value through operational improvement,
           technology adoption, and customer diversification.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do manufacturing businesses trade at?</h3>
+        <p>
+          Manufacturing businesses typically trade at 3&ndash;6x EBITDA for
+          most small and mid-sized operations. Niche manufacturers with
+          proprietary products, processes, or certifications (ISO 9001,
+          AS9100, IATF 16949) can command 6&ndash;9x. Key value drivers
+          include customer concentration (top customer below 15% of revenue
+          is ideal), order backlog depth, technology and automation level,
+          workforce skill availability, and environmental compliance history.
+          Companies with tangible moats &mdash; specialized equipment,
+          regulatory certifications, or long-standing customer relationships
+          &mdash; justify premiums. For broader context, see our{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples by industry</Link>{" "}
+          overview.
+        </p>
+
+        <h3 className={h3Class}>How do I assess environmental liabilities in a manufacturing acquisition?</h3>
+        <p>
+          Environmental liability is the single largest &ldquo;hidden risk&rdquo;
+          in manufacturing acquisitions. Start with a Phase I Environmental
+          Site Assessment ($3K&ndash;$6K), which reviews property history,
+          regulatory databases, and conducts a site inspection to identify
+          potential contamination. If the Phase I identifies Recognized
+          Environmental Conditions, proceed to a Phase II ($15K&ndash;$60K),
+          which involves actual soil and groundwater sampling. Verify all
+          required permits (air emissions, wastewater discharge, hazardous
+          waste generation) and review five years of EPA and state agency
+          correspondence for Notices of Violation. Remediation costs can
+          reach hundreds of thousands &mdash; or millions &mdash; of dollars,
+          so never skip environmental diligence or accept seller
+          representations at face value.
+        </p>
+
+        <h3 className={h3Class}>What operational improvements generate the fastest returns in manufacturing?</h3>
+        <p>
+          Lean manufacturing implementation delivers the fastest and most
+          reliable returns. Many small manufacturers have never implemented
+          formal continuous improvement methodologies. Introducing 5S, value
+          stream mapping, and pull systems typically yields 15&ndash;30%
+          reduction in lead time, 10&ndash;20% reduction in inventory,
+          5&ndash;15% improvement in labor productivity, and 20&ndash;50%
+          reduction in defect rates within the first 12&ndash;24 months. These
+          improvements drop directly to the bottom line with modest investment
+          in training and reorganization. Separately, implementing a modern
+          ERP system ($75K&ndash;$300K) provides real-time visibility into
+          production scheduling, inventory, and costs &mdash; data that most
+          small manufacturers have never had.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Deloitte &amp; The Manufacturing Institute</strong> &mdash; &ldquo;Creating Pathways for Tomorrow&rsquo;s Workforce Today: Manufacturing Industry Outlook,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Employment and Wage Statistics: Manufacturing,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

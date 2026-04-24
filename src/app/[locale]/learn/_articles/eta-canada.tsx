@@ -210,6 +210,42 @@ export default function ETACanadaArticle() {
           </Link>{" "}
           overview.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does the BDC compare to the US SBA for financing a search fund acquisition in Canada?</h3>
+        <p>
+          The Business Development Bank of Canada (BDC) provides term loans and subordinated financing for acquisitions, but differs from the SBA in several key ways. BDC does not offer a government-guaranteed loan program equivalent to SBA 7(a); instead, it lends directly from its own balance sheet and takes the full credit risk. This means BDC underwriting is more selective, but approval can be faster because there is no government bureaucracy. BDC term loans for acquisitions can exceed $5M, compared to the SBA&rsquo;s $5M cap. The Canada Small Business Financing Program (CSBFP) is the closer SBA equivalent but is limited to $1.15M and excludes goodwill from eligible assets, making it less useful for traditional search fund acquisitions. According to BDC&rsquo;s annual report, the bank supports over 70,000 Canadian SMEs with $42 billion in committed financing.
+        </p>
+
+        <h3 className={h3Class}>Is the Canadian Lifetime Capital Gains Exemption better than the US QSBS exclusion?</h3>
+        <p>
+          The US QSBS exclusion under Section 1202 is significantly more generous: it exempts up to $10M (or 10x basis) in capital gains from qualifying small business stock, compared to the Canadian LCGE of approximately $1.016M CAD. However, Canada&rsquo;s LCGE applies to all qualified small business corporation shares without the 5-year holding requirement of QSBS, and Canadian individuals pay zero capital gains tax on the exempted amount. The US QSBS requires C-corporation status and a 5-year hold. For search fund operators, the practical difference is that US exits benefit from far larger tax-free gains, while Canadian operators should plan additional tax optimization strategies, such as crystallization and family trust structures, to maximize the value of the LCGE across multiple family members.
+        </p>
+
+        <h3 className={h3Class}>Can a US citizen buy a business in Canada through a search fund?</h3>
+        <p>
+          Yes, but work authorization and tax planning require careful attention. US citizens can invest in and own Canadian businesses without restriction, but operating as CEO requires a valid Canadian work permit. The Intra-Company Transfer (ICT) work permit is the most common route for search fund operators, allowing foreign executives to work in Canada for a company they control. Some provinces offer Provincial Nominee Programs (PNPs) with entrepreneur streams that provide permanent residency. The US-Canada tax treaty prevents double taxation but creates complex filing obligations in both countries. BDC and CSBFP financing programs are generally available to companies with Canadian operations regardless of the owner&rsquo;s nationality, though personal guarantees from non-residents can complicate bank approvals.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.bdc.ca/en/about/what-we-do" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Business Development Bank of Canada (BDC) &mdash; Financing Programs and Annual Report
+            </a>
+          </li>
+          <li>
+            <a href="https://ised-isde.canada.ca/site/canada-small-business-financing-program/en" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Innovation, Science and Economic Development Canada &mdash; Canada Small Business Financing Program (CSBFP)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25400-capital-gains-deduction.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Canada Revenue Agency &mdash; Lifetime Capital Gains Exemption (LCGE) Guidelines
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

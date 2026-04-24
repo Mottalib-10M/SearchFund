@@ -383,6 +383,24 @@ export default function BrokenDealArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much should a searcher budget for a broken deal?</h3>
+      <p className={bodyClass}>
+        Based on data from the Stanford GSB 2024 Search Fund Study and community surveys on Searchfunder.com, a single broken deal typically costs $35,000-$100,000 in direct expenses. The largest line items are legal fees ($15,000-$50,000) and the Quality of Earnings report ($15,000-$40,000). Traditional search funds should budget for 1-2 broken deals during the search phase, implying a reserve of $70,000-$200,000. Self-funded searchers can reduce exposure by staging diligence costs carefully -- resolving likely deal-killers (seller motivation, financing feasibility, major{" "}
+        <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">red flags</Link>) before commissioning expensive third-party reports.
+      </p>
+
+      <h3 className={h3Class}>Should you re-approach a seller after a deal falls apart?</h3>
+      <p className={bodyClass}>
+        Yes, in many cases. According to IESE's 2024 International Search Fund Study, approximately 10-15% of businesses that return to market after a broken deal eventually sell to a prior interested buyer. The key is timing and approach: wait at least 3-6 months unless the seller initiates contact, maintain a professional relationship through the broker or intermediary, and avoid relitigating the original deal terms. If the deal broke due to financing rather than fundamental business issues, a re-approach with a revised capital structure can succeed. However, if the deal failed due to seller dishonesty or material misrepresentation, it is generally wise to move on permanently.
+      </p>
+
+      <h3 className={h3Class}>How do experienced investors view a searcher who has had a broken deal?</h3>
+      <p className={bodyClass}>
+        Experienced search fund investors generally view one or two broken deals as a normal, even healthy, part of the search process. According to Stanford GSB data, 25-30% of traditional search funds do not complete an acquisition at all, so broken deals are expected. What matters to investors is how you handle the aftermath: transparent communication within 24-48 hours, a structured post-mortem demonstrating self-awareness, and concrete lessons that improve your future deal selection. Investors become concerned when a searcher has three or more broken deals on the same type of issue (e.g., repeated financing failures or repeated QoE problems), as this suggests a pattern rather than bad luck.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

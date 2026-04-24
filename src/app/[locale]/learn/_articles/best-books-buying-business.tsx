@@ -527,6 +527,25 @@ export default function BestBooksBuyingBusinessArticle() {
         The investment you make in reading today will pay dividends throughout your search, acquisition, and operation of your business. Start with the fundamentals, deepen your expertise in critical areas like valuation and negotiation, and never stop learning.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the single best book to read if I only have time for one before launching my search?</h3>
+      <p className={bodyClass}>
+        The <em>HBR Guide to Buying a Small Business</em> by Richard Ruback and Royce Yudkoff is the consensus recommendation among search fund investors and experienced searchers. As the architects of the modern search fund framework at Harvard Business School, Ruback and Yudkoff distill decades of research and practical experience into an accessible guide covering the entire acquisition lifecycle: raising capital, sourcing deals, conducting due diligence, negotiating transactions, and operating the acquired company. The book includes real case studies from HBS teaching materials and practical frameworks for evaluating acquisition opportunities. For searchers who want a less academic introduction, Walker Deibel&rsquo;s <em>Buy Then Build</em> provides a compelling case for acquisition entrepreneurship with particular strength on self-funded searches and SBA lending. Both are available in our <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link> reading list.
+      </p>
+
+      <h3 className={h3Class}>Are there specific books recommended for European or international search funds?</h3>
+      <p className={bodyClass}>
+        IESE Business School&rsquo;s annual <em>International Search Fund Study</em> is the definitive resource for European and international search fund data, covering deal structures, returns, and market dynamics across Spain, France, Germany, the UK, Latin America, and Asia. While not a traditional book, it is essential reading for anyone considering a non-US search. INSEAD&rsquo;s ETA &amp; Search Funds Hub publishes case studies and research spanning its Fontainebleau, Singapore, and Abu Dhabi campuses. For European-specific negotiation and cultural dynamics, <em>The Culture Map</em> by Erin Meyer provides valuable frameworks for cross-border deal-making. The foundational books listed above &mdash; particularly the Harvard and Stanford materials &mdash; translate well to international contexts, though European searchers should supplement them with IESE&rsquo;s region-specific data and our guide to{" "}
+        <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
+      </p>
+
+      <h3 className={h3Class}>Should I prioritize reading or hands-on experience like a search fund internship?</h3>
+      <p className={bodyClass}>
+        Both are essential, but they serve different purposes. Reading builds the conceptual frameworks, financial literacy, and strategic thinking that underpin every aspect of the search and acquisition process. Hands-on experience &mdash; through a{" "}
+        <Link href="/learn/search-fund-internship-guide" className="text-apple-accent hover:underline">search fund internship</Link>, shadowing an active searcher, or attending ETA conferences &mdash; develops the pattern recognition, relationship-building skills, and practical judgment that books alone cannot provide. The most successful searchers combine both: they read the foundational texts before their internship, use the internship to test and deepen their understanding, and continue reading industry-specific and operational books throughout the search and post-acquisition phases. The reading plan in this article is designed to be consumed in stages that align with your journey, so you are reading the right material at the right time rather than trying to absorb everything at once.
+      </p>
+
       <div className="mt-12 border-t border-gray-200 pt-8">
         <h3 className="text-lg font-semibold text-gray-900 mb-4">Sources</h3>
         <ul className="space-y-2">

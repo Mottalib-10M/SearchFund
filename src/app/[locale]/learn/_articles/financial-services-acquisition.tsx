@@ -536,6 +536,72 @@ export default function FinancialServicesAcquisitionArticle() {
           financial services represents one of the most attractive
           and durable asset classes in the search fund universe.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How is an insurance book of business valued differently from a typical EBITDA multiple?</h3>
+        <p>
+          Insurance agency valuations primarily use a multiple of annual
+          commissions rather than EBITDA multiples. Personal lines (home, auto)
+          books typically trade at 1.5&ndash;2.5x annual commissions, while
+          commercial lines (business insurance, workers&apos; compensation)
+          trade at 1.8&ndash;3.0x due to higher average premiums and stickier
+          relationships. Larger, diversified agencies trade at 7&ndash;12x
+          EBITDA or 2.5&ndash;4.0x revenue. The critical variable is
+          retention-adjusted valuation: a book with 92% annual retention
+          generates substantially more lifetime value than one with 85%
+          retention, even if current-year revenue is identical. See our{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link>{" "}
+          for foundational methodology.
+        </p>
+
+        <h3 className={h3Class}>What regulatory approvals are needed to acquire an insurance brokerage?</h3>
+        <p>
+          Regulatory requirements vary by jurisdiction and sub-sector. In the
+          US, insurance agencies require state-by-state license transfers,
+          and RIAs need SEC or state registration changes. In the UK, FCA
+          approval through a change-in-control application typically takes
+          60 working days. In Germany, BaFin must be notified for acquisitions
+          of 10%+ holdings in regulated entities, and insurance intermediaries
+          require IHK registration under section 34d of the Gewerbeordnung.
+          In France, ORIAS registration must be updated and ACPR authorization
+          obtained for regulated entities. These approval timelines can add
+          2&ndash;6 months to closing &mdash; build them into your{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
+          timeline from the start.
+        </p>
+
+        <h3 className={h3Class}>Why are financial services roll-ups so attractive for search fund investors?</h3>
+        <p>
+          Insurance distribution and wealth management are among the most
+          compelling{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
+          opportunities in ETA. Individual agencies or advisory practices can
+          be acquired at 5&ndash;7x EBITDA, while scaled platforms with
+          $20M+ in premium or AUM trade at 10&ndash;15x or higher &mdash;
+          creating powerful multiple arbitrage. Beyond valuation uplift,
+          multi-office platforms achieve genuine operational synergies:
+          centralized accounting, compliance, marketing, and technology can
+          improve EBITDA margins by 5&ndash;10 percentage points. Larger
+          premium volumes unlock higher carrier commission tiers and
+          contingent bonuses worth 1&ndash;3 additional percentage points in
+          total compensation. The high retention rates (85&ndash;96%) ensure
+          acquired revenue sticks, making each tuck-in acquisition highly
+          accretive.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Financial Conduct Authority (FCA)</strong> &mdash; &ldquo;Change in Control Application Requirements &amp; Regulatory Framework,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Reagan Consulting / MarshBerry</strong> &mdash; &ldquo;Insurance Agency Valuation &amp; M&amp;A Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

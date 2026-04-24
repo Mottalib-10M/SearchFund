@@ -477,6 +477,32 @@ export default function InvestorRelationsArticle() {
           small and reputation-driven — your track record as a
           communicator and operator follows you permanently.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How often should I send investor updates?</h3>
+        <p>
+          Monthly written updates are the backbone of search fund investor relations during both the search phase and post-acquisition. According to Stanford GSB&rsquo;s Search Fund Primer, the best-performing searchers send updates on the same date each month &mdash; the first Monday, the 5th, or the 15th &mdash; because consistency signals discipline and respect for investors&rsquo; time. During the search phase, updates should cover pipeline activity, top opportunities, LOI status, and market observations. Post-acquisition, they shift to financial highlights, KPIs, operational updates, and strategic priorities. Supplement monthly written updates with quarterly board calls (60&ndash;90 minutes) and an annual in-person meeting with all investors. If a material event occurs (positive or negative), communicate it immediately rather than waiting for the scheduled update.
+        </p>
+
+        <h3 className={h3Class}>How should I deliver bad news to investors?</h3>
+        <p>
+          Follow the golden rule: investors should never learn about a problem from someone other than you. According to IESE Business School&rsquo;s research on search fund investor satisfaction, searchers who are proactively transparent about setbacks consistently report stronger investor relationships than those who selectively share only good news. When delivering bad news, use a four-part framework: state the problem clearly (no euphemisms), explain the root cause, present your specific action plan, and ask for help if investors can contribute advice or resources. For failed deals specifically, communicate within 48 hours and frame the outcome constructively: &ldquo;Walking away was the right decision because diligence revealed customer concentration risk above our threshold&rdquo; demonstrates judgment and discipline that investors value.
+        </p>
+
+        <h3 className={h3Class}>What financial reporting do investors expect post-acquisition?</h3>
+        <p>
+          Post-acquisition, investors expect professional-grade monthly financial reporting including an income statement, balance sheet, and cash flow statement with comparisons to budget, prior year, and year-to-date figures. According to Stanford GSB&rsquo;s data on search fund best practices, the highest-rated CEOs also provide a{" "}
+          <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link>{" "}
+          with 5&ndash;10 operational metrics tracked consistently each month (customer retention, pipeline value, employee turnover, DSCR). Quarterly financials should be reviewed by an external accountant, and annual financials should be audited if required by the operating agreement or if the business exceeds certain revenue thresholds. Investing in a competent controller or fractional CFO early is essential if the business did not have reliable financial reporting before the acquisition.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Primer</em> and <em>Search Fund Study: Selected Observations</em>, 2024 edition. Best practices for investor communication, reporting templates, and CEO-investor relationship management.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. Research on investor satisfaction drivers, communication frequency benchmarks, and the impact of transparency on long-term investor relationships.</li>
+          <li>National Association of Corporate Directors (NACD) &mdash; <em>Board Reporting Best Practices for Private Companies</em>. Standards for financial reporting, board package preparation, and investor relations governance.</li>
+        </ul>
       </div>
     </article>
   );

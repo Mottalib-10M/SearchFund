@@ -82,6 +82,23 @@ export default function StrategicPartnershipsArticle() {
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How quickly can strategic partnerships generate revenue after an acquisition?</h3>
+      <p>
+        Referral partnerships can begin generating leads within 30&ndash;60 days of launch, making them one of the fastest <Link href="/learn/quick-wins-post-acquisition" className="text-apple-accent hover:underline">quick wins</Link> available to new owners. According to Forrester, companies with structured referral programs see 15&ndash;25% of new revenue sourced through partners within the first year. The key is starting informally with 2&ndash;3 complementary businesses, testing the referral flow, and then formalizing with clear referral fees and monthly tracking. More complex partnerships like co-delivery arrangements take 6&ndash;12 months to mature but can ultimately contribute 20&ndash;40% of total revenue.
+      </p>
+
+      <h3 className={h3Class}>What referral fee percentage is standard for SME partnerships?</h3>
+      <p>
+        According to McKinsey&rsquo;s research on partnership-led growth, referral fees in the SME services sector typically range from 5&ndash;15% of the first contract value, with 10% being the most common. For recurring revenue businesses, a common alternative is paying 5&ndash;8% of the first year&rsquo;s contract value rather than an ongoing percentage. The fee should be high enough to motivate referrals but not so high that it erodes your margins. Track your customer acquisition cost (CAC) from other channels &mdash; as long as partner-sourced CAC is lower, the arrangement is economically sound. Some partnerships also work on a reciprocal basis with no fees, where both parties simply refer customers to each other.
+      </p>
+
+      <h3 className={h3Class}>How do I prevent a strategic partner from becoming a competitor?</h3>
+      <p>
+        Harvard Business Review research on strategic alliances recommends three safeguards. First, choose partners whose core competency is genuinely complementary &mdash; a plumbing company partnering with an HVAC company serves the same customer without overlapping services. Second, include clear non-compete and non-solicitation provisions in your partnership agreement that restrict each party from entering the other&rsquo;s core service line within a defined territory. Third, create mutual dependency by sharing customers, co-branding, and building joint service offerings that are more valuable together than apart. The strongest partnerships align incentives so deeply that competition becomes economically irrational for both parties. See our <Link href="/learn/sales-team-development" className="text-apple-accent hover:underline">sales team development</Link> guide for building internal capacity alongside partnerships.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>Strategic Alliances for Small and Mid-Size Companies</em> (2024)</li>

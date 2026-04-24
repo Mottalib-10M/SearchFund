@@ -559,6 +559,59 @@ export default function NegotiationTacticsArticle() {
           confident that the deal will close. Master this, and you will
           close deals that purely transactional buyers never will.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much room is there to negotiate on price in a typical SME acquisition?</h3>
+        <p>
+          According to the IBBA Market Pulse Survey (2024) and BizBuySell transaction data,
+          the average SME sells for 85-95% of the initial asking price. For broker-listed
+          businesses, the final price is typically 5-15% below the seller&apos;s asking price,
+          while proprietary deals (where no asking price was established) often close at
+          valuations 10-20% below what the seller initially expected. The negotiating range
+          depends heavily on how motivated the seller is and how competitive the buyer
+          environment is. Valuation gaps of 10-15% are usually bridgeable through creative
+          deal structuring -- seller financing,{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-outs</Link>, or equity rollover. Gaps above 25% rarely close successfully and
+          typically indicate a fundamental disagreement about the business&apos;s value.
+        </p>
+
+        <h3 className={h3Class}>Should a searcher always request exclusivity before starting due diligence?</h3>
+        <p>
+          Yes, exclusivity should be a standard feature of your{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
+          Without exclusivity, you risk investing $35,000-$100,000 in due diligence costs
+          (legal fees, QoE report, environmental assessment) only to be outbid at the last
+          moment. The standard exclusivity period for search fund acquisitions is 60-90 days,
+          with an extension mechanism allowing 30 additional days if diligence is proceeding
+          in good faith. Some sellers request a break fee (1-2% of purchase price) in exchange
+          for exclusivity, which is more common in European than US transactions. If the
+          seller refuses exclusivity entirely, it may signal that they are using your offer as
+          leverage with another buyer -- a serious red flag that warrants careful evaluation
+          before committing significant diligence dollars.
+        </p>
+
+        <h3 className={h3Class}>How do negotiation tactics differ between US and European SME acquisitions?</h3>
+        <p>
+          European SME negotiations typically require a longer relationship-building phase,
+          particularly in France, Italy, and Spain, where sellers expect multiple dinners and
+          facility visits before substantive deal discussions begin. German and Dutch
+          negotiators tend to be more direct about price and terms. Legal documentation differs
+          significantly: US acquisitions use extensive representations, warranties, and
+          indemnification provisions, while European deals (especially below &euro;10M) often
+          involve lighter documentation. In France, the compromis de vente and protocole
+          d&apos;accord have specific legal implications that differ from US LOI conventions.
+          According to IESE&apos;s 2024 International Search Fund Study, European deals
+          take 15-25% longer from LOI to close compared to US transactions, primarily due to
+          regulatory approvals and the longer trust-building process.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>Harvard Business Review, &ldquo;Negotiation Strategy in Acquisitions&rdquo; (2023)</li>
+        </ul>
       </div>
     </article>
   );

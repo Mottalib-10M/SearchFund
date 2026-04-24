@@ -303,6 +303,65 @@ export default function TaxOptimizationArticle() {
           EUR 15,000 to EUR 35,000 in Europe. This is not a cost to
           minimize — it is an investment that pays for itself many times over.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much can asset purchase vs. stock purchase tax structuring save on a $5M acquisition?</h3>
+        <p>
+          According to the IRS and tax practitioners specializing in M&amp;A,
+          an asset purchase on a $5 million acquisition generates additional
+          depreciation and amortization deductions worth $200,000 to $500,000
+          in tax savings over the first five to seven years compared to a
+          stock purchase. The primary driver is the step-up in basis: in an
+          asset purchase, goodwill is amortized over 15 years under Section
+          197, and tangible assets are depreciated at their fair market value.
+          A Section 338(h)(10) election can achieve similar results while
+          preserving the legal simplicity of a stock transfer. Work with a{" "}
+          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">qualified tax advisor</Link> to
+          model both scenarios using your specific purchase price allocation.
+        </p>
+
+        <h3 className={h3Class}>When should I engage a tax advisor in the search fund acquisition process?</h3>
+        <p>
+          According to Stanford GSB&apos;s Search Fund Primer, the most
+          common and costly tax mistake is waiting until after the LOI is
+          signed to engage a tax advisor. By that point, critical structural
+          decisions &mdash; entity type, asset vs. stock, purchase price
+          allocation &mdash; may already be locked in. Engage a tax advisor
+          during the{" "}
+          <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">entity formation stage</Link>,
+          ideally 2&ndash;4 weeks before submitting your{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
+          Budget $10,000&ndash;$25,000 for US tax advisory and EUR 15,000&ndash;EUR
+          35,000 in Europe. The ROI on early tax planning is typically 10x
+          or higher over the life of the investment, as the compounding
+          effect of correct structuring amplifies each year.
+        </p>
+
+        <h3 className={h3Class}>How does France&apos;s Dutreil pact compare to US QSBS for search fund tax savings?</h3>
+        <p>
+          Both regimes offer substantial tax benefits, but they operate
+          differently. According to PwC&apos;s Global Tax Guide, the
+          Dutreil pact exempts up to 75% of share value from gift and
+          inheritance tax (not capital gains), requiring a collective
+          holding commitment of 2 years plus an individual commitment of
+          4 years. On a EUR 3 million transfer, the savings can exceed
+          EUR 300,000 in transfer taxes. US QSBS (Section 1202) excludes
+          up to $10 million in capital gains from federal income tax,
+          potentially saving $2.38 million on a $10M gain. The Dutreil
+          pact is primarily used for succession planning and intra-family
+          transfers, while QSBS applies broadly to any qualifying
+          C-Corp shareholder. Our{" "}
+          <Link href="/learn/qsbs-qualified-small-business-stock" className="text-apple-accent hover:underline">QSBS guide</Link> covers
+          the US framework in detail.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Internal Revenue Service, <em>IRC Sections 197, 338(h)(10), and 1202 &mdash; Tax Treatment of Business Acquisitions</em> (2024)</li>
+          <li>PwC, <em>Worldwide Tax Summaries: France Dutreil Pact and Cross-Border Structuring</em> (2024)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer: Tax Planning Best Practices</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

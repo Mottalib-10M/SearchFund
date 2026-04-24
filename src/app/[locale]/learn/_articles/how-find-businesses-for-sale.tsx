@@ -214,6 +214,33 @@ export default function HowFindBusinessesForSaleArticle() {
           </Link>{" "}
           guide.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses do I need to review before I find one to buy?</h3>
+        <p>
+          According to Stanford GSB's 2024 Search Fund Study, the average successful searcher reviews 100-300 opportunities, signs 30-80 NDAs, conducts deep analysis on 10-20 companies, submits 2-5{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letters of intent</Link>, and closes 1 acquisition. The entire process typically takes 18-24 months for traditional search funds. Self-funded searchers may review fewer total opportunities but take longer to close because they are balancing search activity with other obligations. Most first-time buyers underestimate the volume required and need to develop pattern recognition across dozens of businesses before they can identify the right opportunity.
+        </p>
+
+        <h3 className={h3Class}>Are off-market deals really better than broker-listed businesses?</h3>
+        <p>
+          Off-market (proprietary) deals offer lower competition and often better pricing -- Stanford data suggests proprietary deals close at 0.5-1.0x lower EBITDA multiples on average compared to brokered transactions. However, off-market sourcing requires significantly more effort: expect to contact 500-1,000 business owners through{" "}
+          <Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">cold outreach</Link>{" "}
+          to generate 10-20 serious conversations. In practice, the most successful searchers use a hybrid approach -- 3-4 channels simultaneously -- combining broker relationships for volume with proprietary sourcing for quality. Neither channel is inherently superior; the optimal mix depends on your target industry, geography, and personal strengths.
+        </p>
+
+        <h3 className={h3Class}>What are the best online platforms for finding businesses for sale in 2024?</h3>
+        <p>
+          In the US, BizBuySell remains the largest marketplace with 45,000+ active listings, followed by BizQuest and BusinessBroker.net. For curated, middle-market deal flow, Axial connects qualified buyers with M&A advisors on verified opportunities. For technology and SaaS businesses, Acquire.com (formerly MicroAcquire) is the leading platform. In Europe, Transentreprise handles 45,000+ listings in France through the CCI network, Nexxt-Change covers German successions through the IHK system, and BusinessesForSale.com aggregates 70,000+ international listings. For the best results, set up alerts on 3-5 platforms matching your criteria, and respond within 24 hours -- according to broker surveys, the best listings receive 10-20 inquiries within the first 48 hours.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+          <li>BizBuySell, <em>Insight Report: Small Business Transactions</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

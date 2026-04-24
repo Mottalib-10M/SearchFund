@@ -447,6 +447,32 @@ export default function BoardGovernanceArticle() {
           allows for honest, productive dialogue about the most important
           strategic questions facing the business.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How often should a search fund board meet?</h3>
+        <p>
+          Board meeting frequency should match the stage and risk profile of the business. According to Stanford GSB&rsquo;s research on search fund governance, the recommended cadence is monthly meetings during the first year post-acquisition (the highest-risk period, particularly during the{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>), transitioning to quarterly meetings in year two and beyond. Monthly meetings in year one ensure the board stays close to the business and can provide timely guidance on critical decisions &mdash; pricing, key hires, customer retention, and operational challenges. During crisis periods (major customer loss, key employee departure, financial underperformance), boards should return to monthly or even biweekly cadence regardless of the company&rsquo;s stage.
+        </p>
+
+        <h3 className={h3Class}>What decision authority does the CEO have versus the board?</h3>
+        <p>
+          Decision boundaries should be established early and documented clearly. According to the National Association of Corporate Directors (NACD), the standard framework for search fund companies gives the CEO unilateral authority over hiring below the VP level, capital expenditures under $50K, and operational decisions within the approved budget. Board notification is required for senior management changes and capex of $50K&ndash;$200K. Board approval is required for the annual budget, CEO compensation changes, acquisitions or divestitures, capital expenditures above $200K, new debt or equity issuance, and related-party transactions. The specific thresholds should be tailored to the company&rsquo;s size and documented in the shareholders&rsquo; agreement or{" "}
+          <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">corporate governance documents</Link>.
+        </p>
+
+        <h3 className={h3Class}>When should I add an independent director to the board?</h3>
+        <p>
+          An independent director adds the most value when the business reaches $3M+ EBITDA and strategic decisions become more complex. According to IESE Business School&rsquo;s research on search fund governance, boards with at least one independent director report higher CEO satisfaction scores and better alignment on exit timing. Independent directors are particularly valuable when investor board members lack industry-specific expertise, when CEO-investor dynamics become strained, when the company is evaluating add-on acquisitions, or when preparing for exit. Compensation for independent directors in search fund companies typically ranges from $5K&ndash;$15K per year in cash or 0.25&ndash;1.0% equity, well below public company standards &mdash; the primary motivation should be genuine interest in the business and the CEO&rsquo;s success.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on board composition, meeting cadence, and governance practices across search fund portfolio companies.</li>
+          <li>National Association of Corporate Directors (NACD) &mdash; <em>Private Company Governance Guidelines</em>. Standards for board structure, decision authority frameworks, and fiduciary responsibilities in privately held companies.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. Research on board governance, independent director impact, and CEO-board dynamics in European and global search fund acquisitions.</li>
+        </ul>
       </div>
     </article>
   );

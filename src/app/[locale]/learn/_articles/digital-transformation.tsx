@@ -497,6 +497,34 @@ export default function DigitalTransformationArticle() {
           this right create a durable competitive advantage that compounds
           over years.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much should I budget for digital transformation in an acquired SME?</h3>
+        <p>
+          Budgets scale with business size. According to McKinsey&rsquo;s research on SME digital transformation, businesses with $1M&ndash;$5M in revenue should expect to invest $50K&ndash;$150K over 12&ndash;18 months, covering a CRM, basic{" "}
+          <Link href="/learn/cybersecurity-for-acquired-businesses" className="text-apple-accent hover:underline">cybersecurity</Link>,
+          upgraded accounting software, and a website or e-commerce presence. Businesses with $5M&ndash;$20M in revenue should budget $150K&ndash;$350K over 18&ndash;24 months for a CRM,{" "}
+          <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">ERP implementation</Link>,
+          business intelligence tools, and cybersecurity improvements. Businesses above $20M should plan for $300K&ndash;$500K or more. Critically, allocate 15&ndash;20% of your technology spend on training and change management &mdash; technology fails far more often because of people resistance than software defects.
+        </p>
+
+        <h3 className={h3Class}>Should I implement a CRM or ERP first?</h3>
+        <p>
+          Almost always start with a CRM. According to Gartner&rsquo;s SME technology adoption research, CRM implementations have a 70&ndash;80% success rate compared to 40&ndash;50% for ERP projects, because CRMs are simpler to deploy, less disruptive to daily operations, and deliver visible ROI faster. A CRM gives you immediate visibility into the sales pipeline, customer relationships, and revenue opportunities that previously existed only in the heads of salespeople. It is also the foundation for data-driven sales management. ERP is a bigger investment ($100K&ndash;$250K+ for a mid-market platform) and a bigger disruption &mdash; wait until you have deep understanding of the business processes (typically 6&ndash;12 months after closing) before committing to an ERP migration.
+        </p>
+
+        <h3 className={h3Class}>How do I get employees to adopt new technology systems?</h3>
+        <p>
+          According to Prosci&rsquo;s research on change management in technology implementations, the three critical success factors are: executive sponsorship (visible CEO commitment), early employee involvement (include key users in vendor selection and system design), and adequate training (budget 15&ndash;20% of your technology spend). Expect a productivity dip of 4&ndash;8 weeks after any major system change as employees learn new tools. Make adoption mandatory from day one &mdash; if salespeople can choose whether to use the CRM, they will not. Tie compensation and reporting to system data, designate &ldquo;super users&rdquo; in each department who receive advanced training, and celebrate early adopters publicly. The most common failure mode is announcing new software without explaining why it matters or how it will make employees&rsquo; jobs easier.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company &mdash; <em>Digital Transformation in SMEs: Budgets, Timelines, and Success Factors</em>. Research on technology investment benchmarks, ROI patterns, and implementation best practices for small and mid-sized businesses.</li>
+          <li>Gartner &mdash; <em>SME Technology Adoption Benchmarks</em>, 2024. CRM vs. ERP implementation success rates, technology spending benchmarks, and vendor selection guidance for businesses under $50M in revenue.</li>
+          <li>Prosci &mdash; <em>Best Practices in Change Management</em>, 12th edition. Research-backed framework for managing organizational change during technology implementations, including adoption drivers and resistance patterns.</li>
+        </ul>
       </div>
     </article>
   );

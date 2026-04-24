@@ -177,6 +177,32 @@ export default function SearchFundInvestorEconomicsArticle() {
           </Link>{" "}
           overview.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the expected return on search fund investments?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study, the asset class has generated median returns of approximately 35% IRR and 5.5x MOIC across all completed acquisitions. However, returns are highly skewed: the top quartile of acquisitions generates 10x+ returns, while approximately 33% of search investments result in total loss (the searcher never closes an acquisition). Among completed acquisitions, roughly 15&ndash;20% underperform the invested capital. Experienced search fund investors build diversified portfolios of 10&ndash;30+ search commitments to smooth out these outcomes, with portfolio-level returns typically ranging from 25&ndash;40% IRR depending on vintage and manager selection quality.
+        </p>
+
+        <h3 className={h3Class}>How does the 1.5x step-up work in practice?</h3>
+        <p>
+          The step-up compensates early-stage search capital investors for the higher risk they bear during the unfunded search phase. For every $1 invested as search capital, the investor receives $1.50 worth of equity at the acquisition-stage valuation. For example, an investor who commits $50K in search capital receives $75K worth of acquisition equity &mdash; a 50% premium. According to IESE Business School&rsquo;s research on European search funds, the 1.5x step-up has become the global standard, though some European funds use a 1.0x structure (no step-up) to simplify the cap table. The step-up is economically justified because approximately one-third of funded searches never complete an acquisition, making search capital a high-risk investment with binary outcomes at the individual deal level.
+        </p>
+
+        <h3 className={h3Class}>How many search funds should an investor back to build a diversified portfolio?</h3>
+        <p>
+          Stanford GSB research suggests that backing 10&ndash;15 search funds provides meaningful diversification, with portfolios of 20+ commitments approaching optimal risk-adjusted returns. At $25K&ndash;$50K per search commitment, this requires $250K&ndash;$1M in search capital alone, plus $1M&ndash;$10M+ reserved for follow-on{" "}
+          <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition equity</Link>{" "}
+          in the approximately two-thirds of searches that complete acquisitions. The portfolio model works because top-performing acquisitions generate 10x&ndash;30x returns, which more than compensate for the 33% total loss rate on unfunded searches and the 15&ndash;20% of completed acquisitions that underperform. Investors with fewer than 10 commitments face significant single-manager risk and may experience highly variable outcomes.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Comprehensive return data, step-up mechanics, and portfolio construction analysis across 500+ search funds.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. European search fund economics, structural variations, and cross-border return comparisons.</li>
+          <li>Harvard Business School &mdash; <em>Search Funds: An Overview of the Asset Class</em>, HBS Case Study. Academic analysis of investor economics, portfolio theory, and risk-return characteristics of search fund investing.</li>
+        </ul>
       </div>
     </article>
   );

@@ -435,6 +435,68 @@ export default function AcquiringFuneralHomeArticle() {
           any{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">people-driven service business</Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are the regulatory requirements for acquiring a funeral home?</h3>
+        <p>
+          Funeral service is a licensed profession in every US state. The
+          acquiring entity must hold a valid funeral director&rsquo;s license
+          or employ a licensed managing funeral director, and the establishment
+          itself requires a state board license. Some states require owner
+          licensure, while others permit non-licensed ownership with a licensed
+          manager on staff. The Federal Trade Commission&rsquo;s Funeral Rule
+          mandates itemized General Price Lists and pricing disclosures, with
+          violations carrying penalties of up to $50,000 per occurrence.
+          Funeral homes with crematories must also comply with EPA and state
+          air quality regulations. Before signing a{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>,
+          confirm your planned ownership structure is permissible and that
+          license transfers can be completed within your closing timeline.
+        </p>
+
+        <h3 className={h3Class}>How does the cremation trend affect funeral home valuations?</h3>
+        <p>
+          The US cremation rate has surged from 27% in 2001 to over 60% today
+          and is projected to reach 80% by 2040 in many markets, according to
+          the National Funeral Directors Association (NFDA). While direct
+          cremation revenue per case ($2,000&ndash;$3,000) is lower than
+          traditional burial ($7,000&ndash;$12,000), progressive operators
+          develop full-service cremation packages &mdash; memorial services,
+          celebration of life events, keepsake urns, and scattering services
+          &mdash; that increase revenue per cremation case to
+          $5,000&ndash;$8,000. Funeral homes that embrace cremation as an
+          opportunity rather than a threat can maintain strong blended revenue
+          per call of $5,000&ndash;$9,000 with EBITDA margins of 20&ndash;30%.
+        </p>
+
+        <h3 className={h3Class}>What makes pre-need contracts so valuable in funeral home acquisitions?</h3>
+        <p>
+          Pre-need contracts are funeral arrangements purchased and paid for
+          before death occurs, creating committed future revenue at
+          today&rsquo;s prices. A funeral home with 500+ pre-need contracts
+          has years of guaranteed revenue visibility that few service businesses
+          can match. Pre-need contracts reduce future marketing costs, provide
+          immediate cash flow when insurance-funded products are used, and
+          lock families into the funeral home for the eventual at-need service.
+          During due diligence, verify that all pre-need trust accounts are
+          fully funded per state requirements, that trust investments are
+          appropriate and liquid, and reconcile balances to outstanding
+          obligations. Underfunded trusts represent a material hidden liability.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>National Funeral Directors Association (NFDA)</strong> &mdash; &ldquo;Cremation &amp; Burial Report: Research, Statistics, and Projections,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Funeral Homes &amp; Funeral Services Industry in the US,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Federal Trade Commission</strong> &mdash; &ldquo;The FTC Funeral Rule: Compliance Guide for Funeral Industry Professionals,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

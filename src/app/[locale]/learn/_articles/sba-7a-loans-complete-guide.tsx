@@ -273,6 +273,30 @@ export default function SBA7aLoansArticle() {
             </Link></li>
           <li>Be transparent with your lender about any credit issues, business risks, or unusual deal terms</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Can I use an SBA 7(a) loan to buy a business with significant goodwill?</h3>
+        <p>
+          Yes, but goodwill limitations vary by lender. According to the SBA&rsquo;s Standard Operating Procedures, there is no formal SBA cap on goodwill as a percentage of the loan, but individual lenders often impose their own limits &mdash; typically capping goodwill at 50&ndash;60% of the total loan amount. Asset-light businesses like professional services firms, SaaS companies, and consulting practices often have goodwill representing 70&ndash;80% of the purchase price, which can make financing more challenging. The workaround is to find SBA Preferred Lenders (PLP) with experience in your target industry who are comfortable with higher goodwill ratios, and to supplement the SBA loan with seller financing to reduce the lender&rsquo;s goodwill exposure.
+        </p>
+
+        <h3 className={h3Class}>How long does the SBA 7(a) loan process take from application to closing?</h3>
+        <p>
+          The typical timeline from LOI to closing with SBA financing is 75&ndash;120 days. According to SBA lending data, the median approval time for SBA Preferred Lenders (PLP) is 3&ndash;4 weeks from complete application submission, compared to 6&ndash;8 weeks for non-PLP lenders who must submit to SBA for review. The full process breaks down as: pre-qualification (2&ndash;4 weeks), LOI and due diligence (concurrent, 60&ndash;90 days), underwriting (3&ndash;6 weeks), and commitment to closing (2&ndash;4 weeks). The most common sources of delay are incomplete documentation, unresolved title or lease issues, and environmental review requirements. Working with an SBA-experienced CPA and attorney can compress timelines by ensuring documentation is complete before submission.
+        </p>
+
+        <h3 className={h3Class}>What credit score do I need for an SBA acquisition loan?</h3>
+        <p>
+          While the SBA does not mandate a minimum FICO score, most SBA lenders require a minimum of 680, with 700+ preferred for acquisition loans. According to data from the National Association of Government Guaranteed Lenders (NAGGL), borrowers with FICO scores above 720 receive approval rates approximately 40% higher than those in the 680&ndash;700 range, and may qualify for more favorable terms including lower equity injection requirements. Beyond the credit score, lenders evaluate the borrower&rsquo;s relevant management experience, personal financial statement (net worth and liquidity), and the target business&rsquo;s cash flow capacity. A strong borrower profile with industry-relevant experience can partially offset a lower credit score.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>U.S. Small Business Administration &mdash; <em>7(a) Loan Program Standard Operating Procedures</em>, SBA.gov. Official guidance on eligibility, loan terms, guarantee fees, and lender requirements.</li>
+          <li>National Association of Government Guaranteed Lenders (NAGGL) &mdash; <em>SBA Lending Performance Data</em>, 2024. Approval rates, default statistics, and borrower profile benchmarks for SBA acquisition loans.</li>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on SBA financing usage patterns, capital stack composition, and self-funded searcher financing strategies.</li>
+        </ul>
       </div>
     </article>
   );

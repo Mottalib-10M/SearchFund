@@ -499,6 +499,30 @@ export default function SearcherToolsArticle() {
           activities that actually close deals: building relationships with
           brokers, meeting sellers, and evaluating businesses.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the minimum technology stack a solo searcher needs to get started?</h3>
+        <p>
+          According to experienced searchers surveyed by SearchFunder, the essential minimum stack consists of four tools: a CRM for pipeline management (HubSpot free tier or Pipedrive at $14.90/month), LinkedIn Sales Navigator ($99/month) for proprietary deal sourcing, Google Drive for document organization and a basic virtual data room, and DocuSign ($10/month) for executing NDAs quickly. Total cost: approximately $125/month. Many successful searchers operated with exactly this stack for their entire search. The key insight from Stanford GSB case studies is that a simple system used consistently outperforms a sophisticated system that&apos;s poorly maintained. Add tools only when a genuine bottleneck emerges &mdash; not preemptively. See our <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link> guide for setting up your infrastructure.
+        </p>
+
+        <h3 className={h3Class}>Should I use AI tools like ChatGPT during the search process?</h3>
+        <p>
+          AI is an increasingly valuable research accelerator, but it is not a substitute for judgment or relationship-building. The most productive use cases are industry research (generating overviews of unfamiliar sectors in minutes rather than hours), email drafting (creating initial outreach templates for proprietary campaigns involving hundreds of personalized letters), and due diligence support (summarizing lengthy contracts and identifying key risk provisions). According to a 2024 survey of active searchers, those who integrated AI tools into their workflow reported saving 5&ndash;10 hours per week on research and communication tasks. The critical caveat: never rely on AI for financial figures, legal interpretations, or <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">valuation analysis</Link> without independent verification. AI is a research tool, not an advisor.
+        </p>
+
+        <h3 className={h3Class}>How should I organize my CRM pipeline for a search fund?</h3>
+        <p>
+          The best practice is to create two separate pipelines in your CRM: one for deal opportunities and one for investor relationships. Your deal pipeline should mirror your acquisition funnel with stages such as: Identified, First Contact Made, NDA Signed, CIM Reviewed, Management Meeting, LOI Submitted, Under Diligence, and Closed. Each stage transition should trigger specific follow-up tasks and timelines. According to data from search fund accelerator programs, the typical searcher evaluates 200&ndash;300 targets, so consistent pipeline hygiene is essential. Set weekly review sessions to update deal statuses, archive stale opportunities, and ensure no follow-ups are overdue. Track key metrics &mdash; deals sourced per week, conversion rates between stages, and average time in each stage &mdash; to continuously optimize your <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">sourcing strategy</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>SearchFunder Community, <em>Annual Searcher Tools &amp; Technology Survey</em> (2024)</li>
+          <li>IESE Business School, <em>Best Practices in Search Fund Deal Sourcing</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

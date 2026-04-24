@@ -281,6 +281,30 @@ export default function ETANordicsArticle() {
           <li><strong>Tax considerations:</strong> Corporate tax rates are competitive (20&ndash;22% across the Nordics), but personal income tax rates are high. Structuring compensation and incentive packages requires careful tax planning.</li>
           <li><strong>Cross-border potential:</strong> The cultural and economic similarities between Nordic countries create opportunities for cross-border platform strategies, acquiring in one country and expanding into neighboring markets. Our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> covers proven approaches for finding targets across borders.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many Nordic businesses need succession solutions in the coming decade?</h3>
+        <p>
+          According to Svenskt N&auml;ringsliv (the Confederation of Swedish Enterprise), approximately 40% of Swedish business owners are over 55 years old, translating to roughly 250,000 businesses that will need ownership transitions by 2035. Dansk Industri estimates that 20,000&ndash;25,000 Danish SMEs face similar succession challenges. In Finland, Finnvera&apos;s annual survey reports that approximately 30,000 Finnish businesses will undergo generational transfers in the next decade. Norway&apos;s NHO (Confederation of Norwegian Enterprise) identifies comparable dynamics across approximately 40,000 businesses. In total, an estimated 340,000&ndash;350,000 Nordic SMEs will need new ownership over the next ten years, creating deep deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused search fund</Link> entrepreneurs operating in the region.
+        </p>
+
+        <h3 className={h3Class}>Are Nordic EBITDA multiples too high for search fund economics to work?</h3>
+        <p>
+          Nordic multiples of 5x to 8x EBITDA are higher than Southern European or US micro-cap levels, but the premium reflects genuinely superior business quality. According to Oaklins Nordic transaction data, the average Nordic SME target has cleaner financials, lower customer concentration, higher digital maturity, and more stable workforces than comparable targets in lower-multiple markets. The EF English Proficiency Index ranks all four Nordic countries in the top ten globally, which reduces language barriers for international operators. Government-backed financing from Almi (Sweden), V&aelig;kstfonden (Denmark), Finnvera (Finland), and Innovasjon Norge (Norway) provides subordinated debt at below-market rates, improving <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">deal economics</Link> even at higher multiples. Several IESE and Stanford GSB alumni have demonstrated that Nordic search fund acquisitions can generate strong returns when the acquirer executes a focused value-creation plan.
+        </p>
+
+        <h3 className={h3Class}>Which Nordic country is best for a first-time search fund entrepreneur?</h3>
+        <p>
+          Sweden is generally considered the most developed Nordic market for ETA, with the most active search fund investor base, the deepest deal flow, and the strongest institutional support from Stockholm School of Economics (SSE). Copenhagen Business School is building a similar ecosystem in Denmark, though deal volume is smaller due to Denmark&apos;s lower population. Finland offers particularly attractive government financing through Finnvera and has explicitly designated business succession as a strategic priority. Norway has the highest per-capita GDP and strongest cash flows, but its oil-driven economy creates a distinct dynamic where many business owners are less financially motivated to sell. For international searchers, the near-universal English proficiency across all four countries is a significant advantage compared to other <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA markets</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Eurostat, <em>Annual Enterprise Statistics by Size Class</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>EF Education First, <em>English Proficiency Index</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -142,6 +142,30 @@ export default function RiskFactorsSearchFundInvestingArticle() {
             why investors allocate to search funds
           </Link>, see our data and investor guides.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of search fund investments result in a total loss?</h3>
+        <p>
+          According to the Stanford GSB Search Fund Study (2024), approximately 15% of search fund investments result in a total loss of invested capital, and an additional 18% return less than 1x. Combined, roughly one-third of all search fund acquisitions lose money for investors. However, the asset class still generates a 35%+ aggregate IRR because the top-performing funds deliver outsized returns &mdash; approximately 15% of funds return 5x+ and another 15% return 10x+. This positively skewed distribution means that <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">portfolio construction</Link> with 15&ndash;25 investments is essential to capture the winners that compensate for the losers.
+        </p>
+
+        <h3 className={h3Class}>What is &ldquo;tired searcher syndrome&rdquo; and how can investors mitigate it?</h3>
+        <p>
+          Tired searcher syndrome occurs when a searcher, after 18+ months of unsuccessful searching, lowers their acquisition standards and settles for a suboptimal deal rather than returning unused capital. According to research from the Stanford Center for Entrepreneurial Studies, deals closed in the final 3 months of the search window have statistically lower returns than those closed earlier. Investors can mitigate this risk through active board governance &mdash; requiring board approval for any LOI submission, mandating independent <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis, and establishing clear walk-away criteria before the search begins. Some experienced investors also build in a &ldquo;pause and reflect&rdquo; mechanism at the 18-month mark to reassess the searcher&rsquo;s pipeline objectively.
+        </p>
+
+        <h3 className={h3Class}>How does leverage risk compare in search fund deals versus traditional private equity?</h3>
+        <p>
+          Search fund acquisitions typically use 2&ndash;4x EBITDA in debt leverage, compared to 5&ndash;7x in traditional PE buyouts. While lower in absolute terms, the risk is often higher because the acquired businesses are smaller ($1.5M&ndash;$4M EBITDA), more volatile, and being managed by a first-time CEO. According to Bain &amp; Company&rsquo;s Private Equity Report, covenant breaches are the most common trigger for value destruction in leveraged small business acquisitions. Conservative investors limit senior debt to 2.5&ndash;3x EBITDA, require adequate working capital reserves (3&ndash;6 months of operating expenses), and negotiate flexible loan covenants that provide breathing room during the critical first year of ownership transition.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Bain &amp; Company, <em>Global Private Equity Report</em> (2024)</li>
+          <li>IESE Business School, <em>Risk Analysis in Search Fund Investments</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

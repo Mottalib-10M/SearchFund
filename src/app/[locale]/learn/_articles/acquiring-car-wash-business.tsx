@@ -429,6 +429,68 @@ export default function AcquiringCarWashBusinessArticle() {
           valuations and generate compelling returns throughout the hold
           period.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do car washes trade at?</h3>
+        <p>
+          Valuation varies significantly by format and membership penetration.
+          Express tunnel car washes with mature unlimited membership programs
+          (50&ndash;70% recurring revenue) trade at 6&ndash;10x EBITDA, with
+          premium locations occasionally exceeding 10x. Full-service and
+          flex-serve sites typically trade at 4&ndash;7x EBITDA, reflecting
+          higher labor intensity. Self-serve locations trade at 3&ndash;5x
+          EBITDA, though their real estate value often exceeds the operating
+          business value. When the car wash owns its real estate, buyers
+          should separate business value from property value &mdash; a
+          sale-leaseback can unlock significant growth capital. For broader
+          context, see our{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples by industry</Link>{" "}
+          overview.
+        </p>
+
+        <h3 className={h3Class}>How important is the membership program to a car wash acquisition?</h3>
+        <p>
+          Membership programs are the single most important value driver in
+          modern car wash economics. Top-performing express sites derive
+          50&ndash;70% of revenue from unlimited monthly memberships at
+          $20&ndash;$50 per month, creating SaaS-like recurring revenue.
+          Monthly churn of 4&ndash;6% is considered healthy; above 8% signals
+          wash quality or pricing problems. A well-run membership program
+          dramatically improves cash flow predictability, reduces weather
+          dependency, and supports premium valuation multiples. During due
+          diligence, track active member trends over 24&ndash;36 months,
+          analyze revenue per member across tiers, and verify wash frequency
+          patterns to ensure the program is economically sustainable.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks when acquiring a car wash?</h3>
+        <p>
+          The top risks are competition from over-building, equipment failure,
+          and water regulation. Private equity capital has driven aggressive
+          new-site development in some markets, compressing volumes and forcing
+          price competition. Tunnel equipment has a 10&ndash;15 year useful life,
+          and a full replacement costs $500,000&ndash;$1.5M &mdash; deferred
+          maintenance represents a hidden capital liability. In water-scarce
+          regions, tightening restrictions or drought surcharges can constrain
+          operations. Mitigate these risks by targeting sites with natural
+          location advantages (high-traffic corners with limited developable
+          land), maintaining rigorous preventive maintenance programs, and
+          investing in water reclaim systems achieving 80%+ reclamation rates.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>International Carwash Association (ICA)</strong> &mdash; &ldquo;Car Wash Industry Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Car Wash &amp; Auto Detailing Industry in the US,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Grand View Research</strong> &mdash; &ldquo;U.S. Car Wash Services Market Size &amp; Trends Analysis Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

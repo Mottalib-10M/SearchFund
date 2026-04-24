@@ -153,6 +153,54 @@ export default function RedFlagsDueDiligenceArticle() {
           </Link>,
           see our comprehensive guide.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of deals fall apart during due diligence?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study,
+          approximately 30&ndash;40% of signed LOIs do not result in closed
+          acquisitions, with due diligence findings being the primary reason.
+          The most common deal-killers are financial misrepresentation
+          (EBITDA lower than presented), undisclosed liabilities, customer
+          concentration risk that emerges during customer interviews, and
+          seller behavior issues (evasiveness, changing terms). Walking away
+          from a bad deal is a sign of discipline, not failure.
+        </p>
+
+        <h3 className={h3Class}>How do I distinguish a red flag from a normal finding?</h3>
+        <p>
+          Normal findings can be addressed through price adjustments,
+          structural protections, or post-closing action plans. Red flags
+          are issues that fundamentally undermine the investment thesis or
+          indicate dishonesty. Key distinction: if the issue can be
+          quantified and mitigated through escrow, holdback, or purchase
+          price reduction, it is a finding. If the issue is unquantifiable,
+          suggests systemic problems, or reveals seller dishonesty, it is
+          a red flag warranting a walk-away.
+        </p>
+
+        <h3 className={h3Class}>Should I hire a professional QoE firm or do financial diligence myself?</h3>
+        <p>
+          For any acquisition above $1M in enterprise value, engage a
+          professional{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
+            Quality of Earnings
+          </Link>{" "}
+          provider. QoE firms typically catch 10&ndash;30% of add-backs
+          as unsupported, and lenders require a QoE for loan underwriting.
+          The cost ($15K&ndash;$50K) is a fraction of the overpayment
+          risk it prevents. Do your own preliminary analysis from the
+          CIM and raw financials first, then engage the QoE firm to
+          validate and dig deeper.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

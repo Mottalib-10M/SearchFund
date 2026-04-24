@@ -397,6 +397,69 @@ export default function AcquiringPrintingBusinessArticle() {
           with discipline, print is far from dead &mdash; it&rsquo;s a
           $90B+ industry hiding in plain sight.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Is the printing industry dying, and should I still acquire a printing business?</h3>
+        <p>
+          The &ldquo;death of print&rdquo; narrative is vastly oversimplified.
+          While traditional offset commercial print volumes have declined
+          2&ndash;4% annually, the broader visual communications market
+          &mdash; including wide-format signage, packaging, promotional
+          products, and managed print services &mdash; exceeds $120 billion
+          in the US and continues to grow. The key is targeting businesses
+          already diversified into growth segments or with clear
+          post-acquisition diversification paths. A well-managed printing
+          company generating 40%+ of revenue from signage, packaging, or
+          MPS is a fundamentally different risk profile than one dependent
+          entirely on commodity offset work. Depressed valuations (3&ndash;5x
+          EBITDA) actually create opportunity for disciplined acquirers.
+        </p>
+
+        <h3 className={h3Class}>How do I evaluate equipment in a printing business acquisition?</h3>
+        <p>
+          Build a comprehensive asset register cataloging every major piece of
+          equipment with manufacturer, model, year, impression or hour count,
+          maintenance history, and estimated replacement cost. Digital presses
+          (HP Indigo, Xerox iGen) have a useful life of 5&ndash;8 years and
+          cost $500K&ndash;$2M to replace. Wide-format devices have 5&ndash;7
+          year cycles at $300K&ndash;$1.2M. Offset presses last 20&ndash;30
+          years but require 3&ndash;5% of replacement value annually in
+          maintenance. Critically, adjust EBITDA for true maintenance capex
+          &mdash; many sellers defer equipment replacement to inflate earnings
+          before a sale. Our{" "}
+          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA guide</Link>{" "}
+          covers these normalization techniques.
+        </p>
+
+        <h3 className={h3Class}>What is managed print services (MPS), and why is it attractive?</h3>
+        <p>
+          Managed print services involves managing a client&rsquo;s fleet of
+          office printers and copiers under monthly contracts. Revenue is
+          highly recurring (3&ndash;5 year terms), EBITDA margins are strong
+          (18&ndash;28%), and customer retention rates typically exceed 90%.
+          For commercial printers, MPS creates a &ldquo;land and expand&rdquo;
+          dynamic: companies that trust you with office print management are
+          warm candidates for production print, signage, and promotional
+          budgets. Launching MPS converts one-time sales into monthly
+          recurring contracts and transforms the revenue profile of a
+          traditional commercial printer &mdash; a powerful lever for
+          improving both margins and{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">exit multiples</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Printing Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>PRINTING United Alliance</strong> &mdash; &ldquo;State of the Industry Report &amp; Economic Outlook,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Smithers</strong> &mdash; &ldquo;The Future of Global Printing to 2028 &mdash; Market Forecasts,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

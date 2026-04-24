@@ -181,6 +181,44 @@ export default function EBITDAMultiplesByCountryArticle() {
             regional guides
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why are EBITDA multiples so much lower in Southern Europe than in the United States?</h3>
+        <p>
+          The multiple gap between Southern Europe (3&ndash;4x) and the US (5&ndash;7x) is driven by three primary factors. First, buyer competition: the US has over 500 active search funds, hundreds of lower-middle-market PE firms, and thousands of strategic acquirers competing for SMEs, while Southern European markets have far fewer institutional buyers. Second, financing availability: the SBA 7(a) program provides up to $5M in government-guaranteed acquisition financing in the US, while no equivalent exists at comparable scale in Spain, Italy, or Portugal. Third, perceived regulatory risk: stringent labor laws and complex bureaucracies in Southern Europe create a risk premium that depresses valuations. IESE research shows that searchers who acquire at 3&ndash;4x in Spain and professionalize operations can exit at 5&ndash;7x to pan-European PE firms, capturing significant multiple arbitrage.
+        </p>
+
+        <h3 className={h3Class}>Do higher multiples in a country always mean worse returns for search fund investors?</h3>
+        <p>
+          Not necessarily. The{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>{" "}
+          shows that aggregate US search fund returns remain above 35% IRR despite median acquisition multiples of 4.5&ndash;5.5x EBITDA. Higher-multiple markets typically offer deeper exit markets, more sophisticated financing structures, and stronger economic stability &mdash; all of which can compensate for the higher entry price. Conversely, low-multiple markets carry currency risk, political uncertainty, and thinner exit options that may erode returns despite the cheaper entry. The best risk-adjusted returns come from matching entry multiples to exit potential: buying at 3&ndash;4x in a market where PE firms pay 6&ndash;8x at exit produces the strongest MOIC.
+        </p>
+
+        <h3 className={h3Class}>How should searchers account for currency risk when comparing multiples across countries?</h3>
+        <p>
+          Currency risk can significantly impact dollar-denominated returns even when the underlying business performs well. A business acquired at 4x EBITDA in Turkey may generate a 3x return in lira terms but a 1.5x return in dollars if the lira depreciates 50% during the hold period. Searchers should model returns in both local currency and their investors&rsquo; home currency using conservative exchange rate scenarios. Natural hedging strategies &mdash; acquiring businesses with export revenues denominated in hard currencies, or using local-currency acquisition debt &mdash; can materially reduce FX exposure. The World Bank and IMF publish exchange rate forecasts and volatility data that should inform country-level return modeling.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.worldbank.org/en/publication/gfdr" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              World Bank &mdash; Global Financial Development Report and Country Risk Data
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

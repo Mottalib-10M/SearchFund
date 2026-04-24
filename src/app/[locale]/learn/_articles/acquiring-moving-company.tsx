@@ -463,6 +463,69 @@ export default function AcquiringMovingCompanyArticle() {
           substantial platforms in a sector where most competitors remain
           unsophisticated and under-managed.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do I handle the extreme seasonality of a moving business?</h3>
+        <p>
+          Moving is one of the most seasonal service industries, with roughly
+          60&ndash;70% of household moves occurring between May and September.
+          Peak months generate 2&ndash;3x off-season monthly revenue. Managing
+          this seasonality requires three key strategies: diversifying into
+          less-seasonal segments (commercial moving, storage contracts, and
+          corporate relocations provide year-round volume), implementing
+          dynamic pricing (premium rates during peak weekends and month-end
+          periods, modest discounts for off-peak bookings), and building a
+          flexible labor model with a core full-time crew supplemented by
+          trained part-time or temporary workers during peak season. Maintaining
+          crew morale and avoiding layoffs during slow months is critical to
+          avoid costly spring rehiring challenges.
+        </p>
+
+        <h3 className={h3Class}>What regulatory requirements affect moving company acquisitions?</h3>
+        <p>
+          Interstate moving companies must hold USDOT operating authority and
+          comply with Federal Motor Carrier Safety Administration (FMCSA)
+          regulations. During{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>,
+          verify the USDOT and MC (Motor Carrier) numbers, review FMCSA Safety
+          Measurement System scores, confirm active insurance filings (BMC-91
+          for cargo liability, BMC-32 for bodily injury and property damage),
+          and check for open enforcement cases or out-of-service orders. Local
+          movers face lighter regulation but still need state and municipal
+          licenses. A company with a clean FMCSA record and well-maintained
+          authority is significantly more valuable than one with compliance
+          deficiencies.
+        </p>
+
+        <h3 className={h3Class}>What is the most impactful growth lever after acquiring a moving company?</h3>
+        <p>
+          Adding or expanding storage services is typically the highest-margin
+          growth lever. Many customers need short-term or long-term storage
+          during a move, and offering it in-house captures revenue at
+          50&ndash;70% gross margins. A 10,000 square foot warehouse can hold
+          100&ndash;150 storage vaults generating $15,000&ndash;$25,000 in
+          monthly recurring revenue. Storage smooths seasonality and creates
+          predictable cash flows that support{" "}
+          <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
+          Corporate relocation accounts are the second-most impactful lever,
+          providing high-volume, year-round work at premium margins that
+          transforms a seasonal residential operator into a diversified
+          platform.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Moving Services Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>American Moving &amp; Storage Association (AMSA)</strong> &mdash; &ldquo;Moving Industry Data &amp; Statistics,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Federal Motor Carrier Safety Administration (FMCSA)</strong> &mdash; &ldquo;Consumer Protection Regulations for Household Goods Movers,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

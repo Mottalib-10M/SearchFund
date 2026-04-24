@@ -318,6 +318,69 @@ export default function ETAvsPublicMarketsArticle() {
           needs and outsized returns from patient, long-term private
           market investments.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do search fund returns compare to the S&amp;P 500 after adjusting for risk?</h3>
+        <p>
+          On a risk-adjusted basis, ETA significantly outperforms public
+          equities. The S&amp;P 500 has historically delivered a Sharpe
+          ratio of approximately 0.4 to 0.5. Reasonable estimates for a
+          diversified ETA portfolio of 10 or more search fund investments
+          suggest Sharpe ratios in the range of 0.8 to 1.2 &mdash; roughly
+          double that of public markets. Even after adjusting for the
+          potential smoothing bias inherent in private market valuations
+          (where returns are reported infrequently), ETA offers superior
+          risk-adjusted returns. The{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</Link>{" "}
+          reports a median pre-tax IRR of approximately 33% for acquired
+          funds, with a mean return on invested capital of 5.2x.
+        </p>
+
+        <h3 className={h3Class}>Why do family offices allocate to search funds instead of hedge funds?</h3>
+        <p>
+          Family offices have been among the earliest institutional adopters
+          of search fund investing for several reasons. First, ETA delivers
+          3x to 5x the absolute return of the average hedge fund without
+          management fees or performance fee layers. Second, family office
+          principals &mdash; who often built their own wealth through a
+          single business &mdash; understand viscerally the value of backing
+          a talented operator. Third, modest check sizes ($50,000&ndash;$200,000
+          per search fund) allow easy portfolio diversification. Fourth,
+          the low correlation between search fund returns and public markets
+          (estimated at 0.2&ndash;0.3, vs. 0.5&ndash;0.7 for equity-oriented
+          hedge funds) provides genuine diversification benefit. Learn more
+          about{" "}
+          <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors choose search funds</Link>.
+        </p>
+
+        <h3 className={h3Class}>What percentage of a portfolio should be allocated to ETA?</h3>
+        <p>
+          Allocation depends on liquidity needs, time horizon, and risk
+          tolerance. A conservative allocation of 5&ndash;10% suits investors
+          who need significant liquidity and have limited private market
+          experience. A moderate 10&ndash;20% allocation works for accredited
+          investors with stable income who can tolerate five-to-seven-year
+          lock-ups. Aggressive allocations of 20&ndash;35% are appropriate
+          for family offices and ultra-high-net-worth individuals with long
+          time horizons and no near-term liquidity needs. Regardless of
+          allocation size, investors should diversify across vintage years,
+          deploying capital over three to five years and backing two to four
+          new searchers annually.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>S&amp;P Global</strong> &mdash; &ldquo;S&amp;P 500 Historical Returns &amp; Performance Data,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Hedge Fund Research (HFR)</strong> &mdash; &ldquo;HFRI Fund Weighted Composite Index &mdash; Performance Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

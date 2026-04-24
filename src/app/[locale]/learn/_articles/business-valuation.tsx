@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { h1Class, h2Class, bodyClass, ulClass } from "./shared-styles";
+import { h1Class, h2Class, h3Class, bodyClass, ulClass } from "./shared-styles";
 
 export default function BusinessValuationArticle() {
   return (
@@ -317,6 +317,59 @@ export default function BusinessValuationArticle() {
           investors and lender will ask these questions — have the answers
           ready before they do.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiple should I pay for a small business?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study, the median
+          acquisition multiple for search fund deals is approximately 5.5x
+          EBITDA, though the range spans from 3x to 8x depending on business
+          quality. Start with a baseline of 4x for a stable, modestly growing
+          business with manageable customer concentration. Adjust upward by
+          0.25&ndash;0.5x for each positive factor (high recurring revenue,
+          strong growth, low owner dependency) and downward for each risk
+          factor (customer concentration, declining revenue, high capex).
+          The multiple should produce a deal that services its debt at 1.25x+
+          DSCR under realistic assumptions.
+        </p>
+
+        <h3 className={h3Class}>How is small business valuation different from public company valuation?</h3>
+        <p>
+          Small business valuation relies heavily on EBITDA multiples rather
+          than DCF or comparable public company analysis. Key differences
+          include: illiquidity discounts of 20&ndash;40%, the need for
+          extensive normalization adjustments (owner compensation, personal
+          expenses, related-party transactions), limited comparable
+          transaction data, and the absence of audited financials. IESE
+          Business School&rsquo;s research on international search funds
+          notes that European SME multiples tend to be 1&ndash;2x lower than
+          US equivalents for similar businesses, reflecting differences in
+          market depth and financing availability.
+        </p>
+
+        <h3 className={h3Class}>Should I use a Quality of Earnings report for valuation?</h3>
+        <p>
+          Yes. A{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
+            Quality of Earnings
+          </Link>{" "}
+          report independently validates the seller&rsquo;s adjusted EBITDA
+          and typically catches 10&ndash;30% of claimed add-backs as
+          unsupported. At a cost of $15K&ndash;$50K, it is one of the
+          highest-ROI investments in the acquisition process. Engage a QoE
+          provider as soon as the LOI is signed, not at the end of
+          diligence. Lenders require a QoE for loan underwriting, and the
+          validated EBITDA becomes the basis for your final purchase price
+          negotiation.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

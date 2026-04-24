@@ -142,6 +142,53 @@ export default function RecurringRevenueModelsArticle() {
             revenue growth playbook
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much more is a recurring revenue business worth than a non-recurring one?</h3>
+        <p>
+          According to data from the Stanford GSB 2024 Search Fund Study and
+          Pepperdine&rsquo;s Private Capital Markets Report, businesses with
+          70%+ contractual recurring revenue trade at 1&ndash;3x higher
+          EBITDA multiples than comparable businesses with purely
+          transactional revenue. A home services business with one-time
+          project revenue might trade at 3.5&ndash;4.5x EBITDA, while the
+          same business with 80% of revenue under annual maintenance
+          contracts could command 5&ndash;6x. The premium reflects lower
+          risk, higher predictability, and better financeability.
+        </p>
+
+        <h3 className={h3Class}>What is a good net revenue retention rate?</h3>
+        <p>
+          For SaaS and subscription businesses, best-in-class net revenue
+          retention (NRR) is 110&ndash;130%, meaning existing customers
+          generate 10&ndash;30% more revenue each year through upsells and
+          expansion. For service-based recurring businesses (managed IT,
+          maintenance contracts), NRR above 100% is strong. Gross revenue
+          retention (excluding expansion) should be above 85% for SaaS and
+          above 80% for service businesses. NRR below 90% signals
+          structural churn problems that will make growth very difficult.
+        </p>
+
+        <h3 className={h3Class}>Can I convert a non-recurring business to recurring revenue post-acquisition?</h3>
+        <p>
+          Yes, and it is one of the most powerful value creation strategies.
+          Common approaches include converting one-time service sales to
+          annual maintenance contracts (e.g., HVAC installation to
+          maintenance agreements), introducing subscription tiers for
+          existing products, formalizing repeat relationships into contractual
+          commitments, and bundling consumables with recurring service visits.
+          Increasing recurring revenue from 20% to 60% of total can increase
+          the business&rsquo;s exit multiple by 1&ndash;2x EBITDA over a
+          3&ndash;5 year hold period.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+          <li>KeyBanc Capital Markets, <em>SaaS Metrics Survey</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

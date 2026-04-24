@@ -155,6 +155,30 @@ export default function SuccessionCrisisByCountryArticle() {
             EBITDA multiples
           </Link>, see our comparative analyses.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses worldwide are at risk of closing due to the succession crisis?</h3>
+        <p>
+          According to OECD estimates, 10 to 15 million SMEs across OECD member countries will need to change ownership or face closure within the next decade due to aging business owners. The combined enterprise value at risk exceeds $10 trillion. Japan&apos;s METI estimates 1.27 million businesses at risk in Japan alone, while KfW&apos;s Nachfolge Monitor reports 600,000 German Mittelstand companies seeking successors by 2030. In the United States, the Exit Planning Institute estimates that 4.5 million baby boomer-owned businesses valued at approximately $10 trillion will transition by 2035. The <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">baby boomer succession wave</Link> is the single largest generational transfer of business ownership in economic history, and the failure rate for succession (30&ndash;50% of listed businesses never finding a buyer) underscores the urgency for qualified acquirers.
+        </p>
+
+        <h3 className={h3Class}>Which country offers the best combination of deal flow, financing, and valuations for succession-driven ETA?</h3>
+        <p>
+          France consistently ranks as the most attractive market for first-time succession-focused acquirers. According to Bpifrance&apos;s annual report, France&apos;s public investment bank provides over &euro;2 billion annually in acquisition financing for SME transitions, at subsidized rates and with government guarantees. The <Link href="/learn/dutreil-pact" className="text-apple-accent hover:underline">Dutreil pact</Link> offers a 75% exemption on inheritance and gift tax for qualifying business transfers, and retiring sellers benefit from capital gains tax exemptions when they transfer their business to a successor. EBITDA multiples for French SMEs typically range from 3.5x to 6x, below the 5x to 8x range common in the United States. Germany offers comparable business quality with KfW financing support, while the US has the deepest market and best infrastructure but the highest buyer competition.
+        </p>
+
+        <h3 className={h3Class}>How does the succession crisis in Japan differ from the crisis in Europe and the US?</h3>
+        <p>
+          Japan&apos;s succession crisis is structurally more severe than its counterparts in Europe and the US due to three compounding factors. First, Japan&apos;s population is actively shrinking&mdash;the country lost over 800,000 people in 2023 alone, according to the Ministry of Internal Affairs&mdash;meaning there are fewer potential successors with each passing year. Second, cultural preferences for seniority-based corporate employment mean that younger Japanese professionals are less likely to pursue business ownership than their American or European peers. Third, the sheer scale is staggering: Teikoku Databank reports that 60.5% of Japanese businesses have no succession plan, and 49,000 profitable businesses close annually for lack of a successor. However, <Link href="/learn/eta-japan" className="text-apple-accent hover:underline">Japan also offers the most generous government support</Link>, including 100% tax deferrals on succession shares, subsidized M&amp;A advisory, and government-operated matching platforms in all 47 prefectures.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>OECD, <em>SME and Entrepreneurship Outlook: Business Succession</em> (2024)</li>
+          <li>KfW Research, <em>Nachfolge Monitor Mittelstand</em> (2024)</li>
+          <li>Small and Medium Enterprise Agency (METI), <em>White Paper on SMEs in Japan</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

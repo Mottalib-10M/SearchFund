@@ -111,6 +111,34 @@ export default function CultureIntegrationArticle() {
             management transition
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long does culture integration typically take after acquiring an SME?</h3>
+        <p>
+          According to McKinsey, meaningful culture integration in small and mid-size acquisitions takes 12&ndash;24 months, though the first 90 days set the trajectory. Research from Bain &amp; Company shows that 70% of acquisitions that fail to meet synergy targets cite culture clash as a primary factor. The critical insight for search fund CEOs is that culture cannot be changed by decree &mdash; it evolves through consistent behavior. Spend the first 30 days observing, the next 60 days making small visible improvements, and months 3&ndash;12 gradually introducing professional management practices. Rushing this timeline is the single most common mistake new owners make.
+        </p>
+
+        <h3 className={h3Class}>Should I change the company&rsquo;s values or keep the existing ones?</h3>
+        <p>
+          The best approach is evolution, not revolution. Harvard Business Review research on post-acquisition integration shows that companies that preserve 70&ndash;80% of the existing culture while introducing 2&ndash;3 new values achieve the best retention and performance outcomes. Start by identifying the core values that are already lived (even if unwritten) &mdash; loyalty, craftsmanship, customer care &mdash; and formalize those. Then introduce one new value at a time (such as accountability or continuous improvement) through your own behavior, not through memos or posters. See our guide on{" "}
+          <Link href="/learn/building-trust-inherited-teams" className="text-apple-accent hover:underline">
+            building trust with inherited teams
+          </Link>{" "}
+          for practical tactics.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest culture red flags to watch for during due diligence?</h3>
+        <p>
+          Three red flags deserve special attention. First, extreme owner dependency where all decisions flow through one person &mdash; this signals a culture that may resist any new leadership. Second, high turnover in the 12 months before the sale, which may indicate employees already sense instability. Third, a &ldquo;fear culture&rdquo; where employees avoid raising problems or disagreeing with management, often visible in how people behave during site visits. According to Deloitte&rsquo;s M&amp;A integration research, conducting anonymous employee surveys during due diligence (with seller permission) is the most reliable way to surface cultural issues before they become post-close surprises.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company, <em>Culture in Mergers and Acquisitions: What Drives Success</em> (2023)</li>
+          <li>Bain &amp; Company, <em>The Hidden Cost of Culture Clash in M&amp;A</em> (2024)</li>
+          <li>Harvard Business Review, <em>The Leader&rsquo;s Guide to Corporate Culture</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

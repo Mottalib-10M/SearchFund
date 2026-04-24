@@ -346,6 +346,61 @@ export default function NonCompeteAcquisitionArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Does the FTC non-compete ban affect seller non-competes in business acquisitions?</h3>
+      <div className={bodyClass}>
+        <p>
+          No. The FTC&apos;s 2024 rule broadly banning non-compete agreements specifically
+          exempts non-competes arising from the bona fide sale of a business. This means
+          seller non-competes tied to a business acquisition remain fully enforceable under
+          federal law, provided the seller has a substantial ownership stake (typically 25%
+          or more) in the business being sold. However, employee non-competes for retained
+          employees may be affected by the rule, and state laws impose additional requirements.
+          According to Gibson Dunn&apos;s 2024 analysis, the FTC exemption for business sales
+          was one of the least contested aspects of the rule, as courts have long recognized
+          that protecting purchased goodwill justifies reasonable post-sale restrictions.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>What is the ideal duration for a seller non-compete clause?</h3>
+      <div className={bodyClass}>
+        <p>
+          For most search fund acquisitions, 3-5 years is the standard and most defensible
+          duration. According to the American Bar Association&apos;s 2023 analysis of
+          restrictive covenants in M&A, 3-year non-competes are upheld in virtually all US
+          jurisdictions, while 5-year terms are enforceable in most states when supported by
+          adequate consideration and goodwill allocation. The right duration should match
+          customer contract cycles -- if the average customer contract is 2 years, a 4-year
+          non-compete gives you two full renewal cycles to cement relationships. In Europe,
+          shorter periods (2-3 years) are standard, and many jurisdictions (notably France and
+          Germany) require financial compensation for the restricted period, even in business
+          sale contexts. A common compromise is a stepped restriction: broader non-compete for
+          years 1-3, then only customer{" "}
+          <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">
+            non-solicitation
+          </Link>{" "}
+          for years 4-5.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>How much of the purchase price should be allocated to the non-compete?</h3>
+      <div className={bodyClass}>
+        <p>
+          Allocating a specific portion of the purchase price to the non-compete covenant
+          strengthens enforceability by demonstrating valuable consideration. The typical
+          allocation is 5-15% of the total purchase price, though the exact amount should
+          be guided by tax strategy. For the seller, amounts allocated to the non-compete
+          are taxed as ordinary income (not capital gains), which is less favorable. For the
+          buyer, the allocation creates an amortizable intangible asset that can be deducted
+          over 15 years under IRC Section 197. According to Beck Reed Riden LLP&apos;s
+          50-State Non-Compete Chart, courts are more likely to enforce non-competes when
+          the purchase agreement explicitly assigns a dollar value to the covenant and the
+          allocation is reasonable relative to the total deal value. Work with your tax
+          advisor to balance enforceability with the seller&apos;s after-tax proceeds.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

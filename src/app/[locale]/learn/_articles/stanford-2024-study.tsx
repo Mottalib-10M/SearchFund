@@ -314,15 +314,43 @@ export default function Stanford2024Article() {
           long-run aggregate.
         </p>
 
-        <h2 className={h2Class}>Source</h2>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Are search fund returns declining as the market gets more competitive?</h3>
         <p>
-          The full study is available through the Stanford Graduate School of
-          Business Center for Entrepreneurial Studies. Prospective searchers
-          and investors are strongly encouraged to read the primary source in
-          its entirety, as it contains additional detail on sub-segments,
-          time-series data, and operational benchmarks that go beyond the
-          summary presented here.
+          Despite a tripling in annual search fund launches since 2015 (from roughly 30 to 94 in 2023), aggregate returns have remained remarkably stable. The 2016 study reported aggregate IRRs above 30%, and each subsequent edition has confirmed returns in the 33&ndash;36% range. This durability reflects the enormous size of the addressable market &mdash; there are millions of US SMEs with baby boomer owners approaching retirement, far exceeding the number of active searchers. However, some investors have noted a slight compression in top-quartile returns in more recent vintages, likely reflecting higher entry multiples driven by increased competition for the best deals. The median acquisition multiple has risen from roughly 4x EBITDA in earlier studies to 4.5&ndash;5.5x in the 2024 data, suggesting that searchers must increasingly rely on operational value creation rather than entry valuation alone to generate strong returns.
         </p>
+
+        <h3 className={h3Class}>How do search fund returns compare to traditional private equity and venture capital?</h3>
+        <p>
+          The Stanford data shows search funds outperforming most alternative asset classes on both an IRR and MOIC basis. The 35.1% aggregate pre-tax IRR and 4.5x ROIC compare favorably to PE (median net IRR of 12&ndash;15% according to Cambridge Associates data), VC (median net IRR of 15&ndash;20%), and public equities (8&ndash;10% long-run average). The comparison is especially favorable on a risk-adjusted basis when accounting for the control position, active management, and downside protection inherent in search fund structures. However, the comparison requires caveats: search fund returns are pre-tax and pre-fee, aggregate figures are skewed by top-performing outliers like Asurion, and the asset class has survivorship bias since underperforming funds are less likely to report data. For a deeper analysis, see our guide to{" "}
+          <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">search fund returns and performance data</Link>.
+        </p>
+
+        <h3 className={h3Class}>What percentage of search fund CEOs are eventually replaced by their boards?</h3>
+        <p>
+          The Stanford 2024 Study finds that approximately 25&ndash;30% of search fund CEOs are eventually replaced by their boards, often within the first two years of operation. This is a feature of the model, not a flaw: search fund investor-directors have a fiduciary obligation to ensure the acquired company has the best possible leadership. The study shows that boards that act decisively on CEO transitions tend to produce better investment outcomes than those that delay. Common triggers for CEO replacement include failure to meet operational targets, inability to build a management team, and misalignment with the board on strategic direction. For search fund CEOs, the lesson is clear: proactive{" "}
+          <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor communication</Link>, transparent reporting, and rapid operational improvement in the first 12&ndash;18 months are critical to building the board confidence necessary to retain the CEO role.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Center for Entrepreneurial Studies)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study (Complementary European Data)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.cambridgeassociates.com/private-investment-benchmarks/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Cambridge Associates &mdash; Private Equity and Venture Capital Benchmark Data
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

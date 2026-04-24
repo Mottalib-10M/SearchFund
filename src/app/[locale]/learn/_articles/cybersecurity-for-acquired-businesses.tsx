@@ -556,6 +556,34 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           invest consistently. Your future self &mdash; and your investors
           &mdash; will thank you.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much should an acquired SME spend on cybersecurity annually?</h3>
+        <p>
+          According to Gartner&rsquo;s IT spending benchmarks, SMEs should allocate 3&ndash;7% of their IT budget to security, which translates to roughly $500&ndash;$2,000 per employee per year. For a typical 30-person company acquired through a search fund, a realistic first-year cybersecurity budget includes: password manager ($2,400/year), endpoint protection ($3,600/year), backup solution ($6,000/year), security awareness training ($600/year), cyber insurance ($3,000&ndash;$5,000/year), and MSP security services ($12,000&ndash;$24,000/year) &mdash; totaling approximately $28,000&ndash;$42,000, or roughly $1,000&ndash;$1,400 per employee. When presenting this to your{" "}
+          <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board</Link>,
+          frame it as risk management: the average cost of a data breach for an SME exceeds $120,000, making the annual prevention investment compelling.
+        </p>
+
+        <h3 className={h3Class}>What is the single most impactful cybersecurity control I can deploy immediately?</h3>
+        <p>
+          Multi-factor authentication (MFA). According to Microsoft&rsquo;s security research, MFA blocks over 99.9% of automated credential-stuffing attacks, making it the highest-impact, lowest-cost security control available. Enable MFA on every business-critical account within the first week of ownership: email, banking, CRM, ERP, cloud storage, and accounting software. Use authenticator apps (Microsoft Authenticator, Google Authenticator) or hardware keys (YubiKey) rather than SMS-based codes, which are vulnerable to SIM-swapping attacks. MFA is free or included with most business software platforms, making it the rare security control that costs nothing to deploy and prevents the majority of common attacks.
+        </p>
+
+        <h3 className={h3Class}>Does my acquired business need cyber insurance?</h3>
+        <p>
+          Yes. According to the Insurance Information Institute, standalone cyber insurance is a non-negotiable for any business handling customer data, financial information, or regulated data (HIPAA, PCI-DSS, GDPR). Many general commercial liability policies explicitly exclude cyber incidents, leaving the business fully exposed. Standalone cyber policies cost $1,000&ndash;$7,500 per year for most SMEs and cover incident response costs, forensic investigation, legal fees, notification expenses, business interruption losses, and potentially ransom payments. Insurers increasingly require MFA, endpoint protection, and verified backups before issuing policies &mdash; completing the first-30-days{" "}
+          <Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">technology audit</Link>{" "}
+          checklist makes your business insurable and lowers premiums. Apply within the first 30 days of ownership.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Verizon &mdash; <em>Data Breach Investigations Report (DBIR)</em>, 2024. Comprehensive analysis of cyberattack patterns, SME vulnerability data, and threat actor methodologies across 10,000+ incidents.</li>
+          <li>Gartner &mdash; <em>IT Key Metrics Data: Security Spending Benchmarks</em>, 2024. Industry-standard IT and cybersecurity spending benchmarks by company size, industry, and maturity level.</li>
+          <li>Microsoft Security &mdash; <em>Cyber Signals: MFA Effectiveness Data</em>, 2024. Research demonstrating multi-factor authentication&rsquo;s effectiveness at blocking automated credential attacks.</li>
+        </ul>
       </div>
     </article>
   );

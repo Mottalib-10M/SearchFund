@@ -444,6 +444,44 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           on profitability. Start with the fundamentals &mdash; map, measure,
           negotiate, and systematize &mdash; and build from there.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How quickly can supply chain optimization impact EBITDA after a search fund acquisition?</h3>
+        <p>
+          Most search fund CEOs see measurable EBITDA improvement within 90 to 120 days of initiating supply chain changes. The fastest wins come from renegotiating the top five vendor contracts (typically yielding 3&ndash;5% cost reductions) and liquidating dead inventory to free working capital. According to McKinsey research on post-acquisition value creation, procurement optimization alone can improve EBITDA margins by 2&ndash;4 percentage points in SMEs that have never formally managed their supply chain. However, structural changes like supplier rationalization and systems implementation take 6&ndash;12 months to fully realize.
+        </p>
+
+        <h3 className={h3Class}>Should a new search fund CEO change suppliers immediately after closing?</h3>
+        <p>
+          No. Changing suppliers too quickly is one of the most common post-acquisition mistakes. Existing supplier relationships often carry institutional knowledge, informal agreements, and priority treatment that take years to build. The recommended approach is to spend the first 60 days mapping and benchmarking the existing supply chain without making changes, then phase transitions over 90&ndash;180 days with parallel supply periods. Deloitte&rsquo;s post-merger integration research shows that companies that rush vendor changes in the first quarter experience 20&ndash;30% more supply disruptions than those that take a measured approach.
+        </p>
+
+        <h3 className={h3Class}>What is the best first hire for supply chain improvement in an acquired SME?</h3>
+        <p>
+          For most SMEs in the $2M&ndash;$10M revenue range, the first hire should be a part-time or fractional procurement specialist rather than a full-time supply chain manager. A fractional professional can conduct the initial spend analysis, benchmark vendor pricing, and implement basic procurement controls at a fraction of the cost of a full-time hire. Once the business exceeds $10M in revenue or has more than 100 active suppliers, a dedicated procurement or operations manager becomes justified. The{" "}
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days playbook</Link>{" "}
+          provides a framework for prioritizing these operational hires.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-management" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              McKinsey &amp; Company &mdash; Supply Chain Management and Post-Acquisition Value Creation
+            </a>
+          </li>
+          <li>
+            <a href="https://www2.deloitte.com/us/en/pages/operations/articles/supply-chain-strategy-operations.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Deloitte &mdash; Supply Chain Strategy and Post-Merger Integration
+            </a>
+          </li>
+          <li>
+            <a href="https://www.ismworld.org/supply-management-news-and-reports/reports/rob/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Institute for Supply Management (ISM) &mdash; Report on Business and SME Procurement Benchmarks
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

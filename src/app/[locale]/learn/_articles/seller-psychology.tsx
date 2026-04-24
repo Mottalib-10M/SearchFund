@@ -194,6 +194,54 @@ export default function SellerPsychologyArticle() {
           trust, honor the legacy, and close with integrity &mdash;
           your reputation as a buyer will generate future deal flow.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What do sellers care about most besides price?</h3>
+        <p>
+          Research from the International Business Brokers Association and
+          insights from hundreds of closed transactions consistently show
+          that employee welfare, legacy preservation, and certainty of close
+          rank as high as &mdash; or higher than &mdash; purchase price for
+          most retiring business owners. According to the Exit Planning
+          Institute, 75% of business owners who sold reported that they
+          wished they had prepared more for the emotional aspects of the
+          sale. Addressing these non-financial concerns directly in your
+          approach differentiates you from purely financial buyers.
+        </p>
+
+        <h3 className={h3Class}>How do I handle a seller who keeps changing the deal terms?</h3>
+        <p>
+          Constantly shifting terms are a behavioral red flag indicating the
+          seller has not truly decided to sell. Address it directly:
+          acknowledge the difficulty of the decision, restate the agreed
+          terms in writing, and set a clear deadline for finalizing. If
+          terms change after the{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
+            LOI
+          </Link>{" "}
+          is signed, consider walking away &mdash; post-LOI term changes
+          predict post-closing disputes and a difficult transition.
+        </p>
+
+        <h3 className={h3Class}>How long should the seller&rsquo;s transition period last?</h3>
+        <p>
+          A typical transition period is 6&ndash;12 months, structured as
+          a gradual step-down: full involvement for months 1&ndash;3,
+          advisory-only for months 4&ndash;6, and available by phone
+          thereafter. Compensate the seller at $5K&ndash;$15K per month
+          during the active period. The Stanford GSB study notes that
+          search fund acquisitions with longer, well-structured transition
+          periods correlate with better post-acquisition performance,
+          particularly in owner-dependent businesses.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Exit Planning Institute, <em>State of Owner Readiness Survey</em> (2023)</li>
+          <li>International Business Brokers Association, <em>Market Pulse Survey</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

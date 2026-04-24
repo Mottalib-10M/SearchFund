@@ -403,6 +403,46 @@ export default function ETASingaporeArticle() {
             best countries to buy a business
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Is Singapore a good base for acquiring businesses in other Southeast Asian countries?</h3>
+        <p>
+          Singapore is widely regarded as the optimal regional headquarters for ASEAN-focused acquisitions. The city-state offers a common-law legal system modelled on English law, no capital gains tax on the sale of shares, an extensive network of 90+ double taxation agreements, and English as the primary language of business. Enterprise Singapore&rsquo;s financing programs, including the Enterprise Financing Scheme for M&amp;A, provide government risk-sharing on acquisition loans up to S$50 million. Singapore&rsquo;s Pte Ltd holding company structure allows efficient management of subsidiaries across Indonesia, Vietnam, Thailand, and the Philippines, while its position as ASEAN&rsquo;s financial capital provides access to over 4,000 registered fund management companies. However, searchers should expect to spend significant time in the target country for{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing</Link>{" "}
+          and relationship-building, as deals are rarely closed remotely in the region.
+        </p>
+
+        <h3 className={h3Class}>How much capital do I need to acquire an SME in Singapore?</h3>
+        <p>
+          Total capital requirements for a Singapore SME acquisition typically range from S$2 million to S$15 million, depending on the target&rsquo;s EBITDA and the acquisition multiple (3&ndash;6x is standard for Singapore SMEs). A typical capital structure might include 40&ndash;50% equity from search fund investors or personal capital, 30&ndash;40% senior bank debt from DBS, OCBC, or UOB at SORA + 2&ndash;4%, and 10&ndash;20% in{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>. Enterprise Singapore&rsquo;s EFS-M&amp;A scheme can facilitate bank lending by providing a government guarantee on a portion of the loan. For a traditional search fund, search-phase capital of S$400K&ndash;S$600K is standard. Self-funded searchers typically need S$200K&ndash;S$500K in personal capital for the down payment and co-investment. IRAS does not impose capital gains tax on the disposal of shares, making Singapore one of the most tax-efficient exit jurisdictions globally.
+        </p>
+
+        <h3 className={h3Class}>Can a foreign national fully own a business in Singapore?</h3>
+        <p>
+          Yes. Singapore places no restrictions on foreign ownership of companies in the vast majority of sectors. A foreign national can incorporate a Pte Ltd company with 100% foreign shareholding, requiring only one ordinarily resident director (who can be a professional nominee or a Singapore permanent resident). The incorporation process takes one to two days through BizFile+ and requires no minimum paid-up capital. However, the founder or CEO will need a valid work pass &mdash; typically an Employment Pass (EP) for professionals earning at least S$5,000 per month, or an EntrePass for entrepreneurs meeting specific criteria. Neighboring countries impose more significant restrictions: Indonesia requires PT PMA structures with IDR 10 billion minimum capital, Thailand&rsquo;s Foreign Business Act limits foreign ownership to 49% in most service sectors, and Malaysia requires Foreign Investment Committee approval in regulated industries. For detailed country comparisons, see our{" "}
+          <Link href="/learn/eta-southeast-asia" className="text-apple-accent hover:underline">Southeast Asia ETA guide</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Enterprise Singapore &mdash; Enterprise Financing Scheme for Mergers and Acquisitions
+            </a>
+          </li>
+          <li>
+            <a href="https://www.insead.edu/centres/entrepreneurship" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              INSEAD &mdash; ETA &amp; Search Funds Hub, Asia-Pacific Research
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/taxable-non-taxable-income" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Inland Revenue Authority of Singapore (IRAS) &mdash; Capital Gains and Corporate Tax Guide
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

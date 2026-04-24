@@ -238,6 +238,43 @@ export default function BestCountriesBuyBusinessArticle() {
           less mature ETA ecosystem. But the gap is closing fast as more
           business schools, investors, and searchers enter European markets.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which country offers the best risk-adjusted returns for a first-time search fund entrepreneur?</h3>
+        <p>
+          For English-speaking searchers, the United States remains the strongest risk-adjusted market due to the depth of deal flow (10+ million boomer-owned businesses), the mature SBA financing ecosystem, the proven search fund investor network, and the established playbooks documented in the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>. For European searchers with language fluency, France and Spain offer lower multiples (3&ndash;5x vs. 4&ndash;7x in the US) with strong government financing support from Bpifrance and ICO respectively. The IESE International Search Fund Study shows that European search funds achieve comparable returns to US funds despite lower entry multiples, partly due to less competition.
+        </p>
+
+        <h3 className={h3Class}>Can a foreign national buy a business in any of these countries?</h3>
+        <p>
+          Most countries welcome foreign investment in SME acquisitions, but the practical requirements vary significantly. The US offers E-2 investor visas for treaty country nationals and EB-5 investor immigration. Canada provides the Intra-Company Transfer and Provincial Nominee Programs. EU citizens can freely acquire businesses in any EU member state. Non-EU citizens face additional work permit requirements in most European countries, though investor-specific visa categories exist in France, Germany, the Netherlands, and the UK. The World Bank&rsquo;s Ease of Doing Business rankings and each country&rsquo;s investment promotion agency website are the best starting points for understanding foreign ownership rules.
+        </p>
+
+        <h3 className={h3Class}>How do EBITDA multiples differ between urban and rural markets within the same country?</h3>
+        <p>
+          Within any given country, multiples can vary by 1&ndash;2 turns between major metropolitan areas and secondary or rural markets. In the US, a business in New York or San Francisco might trade at 5&ndash;7x EBITDA while a comparable business in a mid-sized Southern or Midwestern city trades at 3.5&ndash;5x. In France, Parisian businesses command 15&ndash;25% premiums over similar companies in provincial cities. The OECD reports that this urban-rural valuation gap is driven by buyer competition, access to professional management talent, and perceived lifestyle preferences. For searchers willing to relocate to secondary cities, these discounts create significant entry valuation advantages.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.worldbank.org/en/programs/business-enabling-environment" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              World Bank &mdash; Business Enabling Environment (Ease of Doing Business)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

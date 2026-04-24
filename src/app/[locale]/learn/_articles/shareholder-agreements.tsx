@@ -77,6 +77,60 @@ export default function ShareholderAgreementsArticle() {
         </ul>
       </div>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What is the typical equity vesting schedule for a search fund CEO?</h3>
+        <p>
+          According to Stanford GSB&apos;s Search Fund Study, the standard
+          vesting schedule for search fund CEO equity is 4&ndash;5 years with
+          a 1-year cliff. The CEO typically receives 20&ndash;30% of common
+          equity through a step-up at acquisition close, with this equity
+          vesting linearly over the holding period. Most shareholder agreements
+          include accelerated vesting provisions upon a change of control
+          (full acceleration) or termination without cause (partial
+          acceleration of 50&ndash;100% of unvested equity). The{" "}
+          <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">searcher compensation guide</Link> covers
+          the full range of equity structures. Bad leaver provisions &mdash;
+          which can result in forfeiture of both unvested and some vested
+          equity &mdash; are one of the most financially consequential
+          clauses in the entire agreement.
+        </p>
+
+        <h3 className={h3Class}>What drag-along and tag-along thresholds are standard in search fund shareholder agreements?</h3>
+        <p>
+          According to the NVCA Model Legal Documents (adapted for ETA
+          contexts), drag-along rights typically require a qualified majority
+          of 67&ndash;75% of shareholders to compel all other shareholders
+          to participate in a full exit. Tag-along rights allow any minority
+          shareholder to join a sale on the same terms, price, and conditions
+          as the majority. According to Yale SOM&apos;s research on search
+          fund governance, approximately 85% of search fund SHAs include both
+          drag-along and tag-along provisions. The key negotiation point is
+          the drag-along threshold: investors generally push for 67%, while
+          CEOs prefer 75% to retain more control over exit timing. Our{" "}
+          <Link href="/learn/equity-waterfall" className="text-apple-accent hover:underline">equity waterfall guide</Link> explains
+          how proceeds are distributed once a drag-along sale is triggered.
+        </p>
+
+        <h3 className={h3Class}>How should deadlock resolution work in a search fund shareholder agreement?</h3>
+        <p>
+          According to Harvard Business School&apos;s research on SME
+          governance, the most effective deadlock resolution mechanisms
+          include a tiered approach: first, a mandatory negotiation period
+          (30&ndash;60 days), then mediation by a mutually agreed neutral
+          party, and finally binding arbitration if mediation fails. Some
+          SHAs include &quot;shotgun&quot; or &quot;Russian roulette&quot;
+          buy-sell provisions where either party can offer to buy the other
+          out at a specified price, and the other party must either accept
+          or buy at that same price. According to practitioners, the most
+          common deadlocks arise around exit timing, additional capital
+          calls, and CEO compensation changes. Building clear escalation
+          procedures into the SHA prevents governance paralysis and preserves
+          the{" "}
+          <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board&apos;s ability to govern</Link> effectively.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/board-governance" className="text-apple-accent hover:underline">Board Governance for Search Fund Companies</Link></li>

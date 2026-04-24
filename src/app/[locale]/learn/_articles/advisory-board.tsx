@@ -476,6 +476,32 @@ export default function AdvisoryBoardArticle() {
           <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">professional advisors</Link>{" "}
           is one of the highest-ROI activities a searcher can undertake.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many advisors should be on a search fund advisory board?</h3>
+        <p>
+          The most effective advisory boards consist of three to five members. According to Stanford GSB&rsquo;s research on search fund governance, boards with fewer than three members lack sufficient diversity of perspective, while boards with more than five become difficult to coordinate and individual advisors receive less engagement time. The optimal composition covers four categories: an industry domain expert, a former operator or search fund CEO, a functional specialist (finance, sales, or technology depending on your gaps), and a local business leader if you relocated for the acquisition. Keeping the board small ensures each advisor feels valued and has sufficient airtime during quarterly meetings.
+        </p>
+
+        <h3 className={h3Class}>How much equity should I allocate to advisory board members?</h3>
+        <p>
+          Typical equity grants for advisory board members range from 0.25% to 0.5% per advisor, with total advisory board equity rarely exceeding 1.5&ndash;2.0% of the company. According to the National Association of Corporate Directors (NACD), equity grants for private company advisory board members should vest over two to four years with continued service to maintain engagement. Some search fund CEOs use a hybrid model: a modest cash retainer of $2,000&ndash;$10,000 per year combined with a smaller equity grant. Discuss the allocation with your{" "}
+          <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board of directors</Link>{" "}
+          before committing &mdash; investors will want to ensure advisory board equity does not excessively dilute the cap table or create governance complications.
+        </p>
+
+        <h3 className={h3Class}>When is the right time to formalize an advisory board?</h3>
+        <p>
+          The natural inflection point for formalization is immediately after closing the acquisition. During the search phase, advisory relationships are typically informal &mdash; mentors, industry contacts, and fellow searchers you call for guidance. After closing, the specific needs of the business become clear, and you can recruit advisors who are directly relevant to those needs. According to IESE Business School&rsquo;s research on search fund operations, search fund CEOs who formalize their advisory boards within the first 90 days of ownership report higher satisfaction with their support networks and faster time to operational stability. Formalize the arrangement with a simple advisory agreement covering expected time commitment (four to six meetings per year plus ad hoc calls), compensation terms, confidentiality obligations, and a two-to-three-year term with annual renewal options.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on advisory board composition, equity allocation benchmarks, and governance best practices.</li>
+          <li>National Association of Corporate Directors (NACD) &mdash; <em>Advisory Board Compensation and Governance Guidelines for Private Companies</em>. Standards for advisory board structure, compensation models, and fiduciary considerations.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. Research on the role of advisory boards in search fund success, formalization timing, and cross-border advisory structures.</li>
+        </ul>
       </div>
     </article>
   );

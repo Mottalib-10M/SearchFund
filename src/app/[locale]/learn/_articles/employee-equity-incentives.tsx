@@ -633,6 +633,32 @@ export default function EmployeeEquityIncentivesArticle() {
             incentive at all.
           </li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How large should the management equity pool be in a search fund acquisition?</h3>
+        <p>
+          Management equity pools in search fund acquisitions typically range from 5% to 15% of fully diluted equity, with 8&ndash;12% being the most common range. According to Stanford GSB&rsquo;s Search Fund Study, acquisitions with management equity pools in the 8&ndash;12% range show the strongest correlation with employee retention and operational performance in the first three years. The exact size depends on management team depth, local talent market competitiveness, and the number of key employees requiring incentives. Concentrate meaningful grants (2&ndash;5%) on the 2&ndash;3 most critical people (COO/GM, VP Sales, finance lead) and use smaller grants or{" "}
+          <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">phantom equity</Link>{" "}
+          for the next tier. Present the total pool and allocation plan to your board before making individual commitments.
+        </p>
+
+        <h3 className={h3Class}>Should I use phantom equity or real equity for key employees?</h3>
+        <p>
+          The best approach is a hybrid: real equity for the top 2&ndash;3 executives who are indispensable, and phantom equity for the next tier of 5&ndash;10 key employees. According to the National Center for Employee Ownership (NCEO), real equity provides the strongest alignment because employees become true co-owners with voting rights and direct participation in exit proceeds, but it complicates the cap table and may require 409A valuations ($3K&ndash;$10K each). Phantom equity provides the economic benefit without cap table complexity, but payments are taxed as ordinary income (not capital gains) for the recipient. S-corporations and certain LLC structures may make issuing real equity to employees problematic from a tax perspective &mdash; consult with your tax advisor before deciding.
+        </p>
+
+        <h3 className={h3Class}>What is a 409A valuation and when do I need one?</h3>
+        <p>
+          A 409A valuation is an independent appraisal of the fair market value of the company&rsquo;s common stock, required by IRS Section 409A before granting stock options or other equity-based awards. According to the AICPA, non-compliance with 409A can result in severe penalties for the employee: immediate taxation of all deferred compensation, a 20% additional tax, and interest penalties. The valuation should be completed within 3&ndash;6 months of closing and before the first equity grants are made. Third-party 409A valuations cost $3,000&ndash;$10,000 for a small private company and are valid for 12 months unless a material event occurs. Using a qualified independent appraiser provides a &ldquo;safe harbor&rdquo; presumption that the valuation is reasonable, shifting the burden of proof to the IRS if challenged.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on management equity pool sizing, vesting structures, and retention outcomes in search fund acquisitions.</li>
+          <li>National Center for Employee Ownership (NCEO) &mdash; <em>Equity Compensation in Private Companies</em>. Comprehensive guide to real equity, phantom equity, stock options, and profit-sharing plan design and tax treatment.</li>
+          <li>Internal Revenue Service &mdash; <em>IRC Section 409A: Nonqualified Deferred Compensation Rules</em> and <em>IRC Section 83(b): Election for Restricted Property</em>. Statutory framework governing equity compensation taxation and valuation requirements.</li>
+        </ul>
       </div>
     </article>
   );

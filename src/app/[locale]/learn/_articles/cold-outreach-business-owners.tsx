@@ -638,6 +638,31 @@ Best,
         When in doubt, consult with legal counsel experienced in marketing compliance. The modest cost of legal review is far less than regulatory penalties or damaged reputation.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What response rate should I expect from cold outreach to business owners?</h3>
+      <p className={bodyClass}>
+        Response rates vary significantly by channel and personalization quality. Based on data from SearchFunder community surveys and Pepperdine's 2024 Private Capital Markets Report, cold email generates 2-5% response rates, direct mail achieves 3-5%, cold calling reaches 5-8%, and LinkedIn InMail lands at 3-7%. Multi-channel sequences that combine 3-4 touchpoints over 30 days typically generate the highest total response rates, around 8-12% cumulative. The critical variable is personalization: a generic email blast might achieve 0.5% while a highly personalized message referencing the owner's specific business achievements can exceed 8%. Expect to execute 2,000-3,000 total outreach touches to generate one closed proprietary deal.
+      </p>
+
+      <h3 className={h3Class}>Is it legal to cold email business owners about acquiring their company?</h3>
+      <p className={bodyClass}>
+        Yes, B2B cold outreach for acquisition purposes is generally legal in the United States and most European jurisdictions, provided you comply with applicable regulations. Under the US CAN-SPAM Act, you must include your physical address, provide an unsubscribe mechanism, and use non-deceptive subject lines -- violations carry penalties up to $51,744 per email. Under GDPR in Europe, B2B prospecting generally falls under the "legitimate interest" basis, but you must allow data erasure on request and only collect data necessary for your outreach purpose. Cold calling is largely unrestricted for B2B in the US (the National Do Not Call Registry primarily covers consumer calls), though some states have additional restrictions. Always consult with legal counsel and maintain an opt-out list.
+      </p>
+
+      <h3 className={h3Class}>How many business owners should I contact before expecting a deal?</h3>
+      <p className={bodyClass}>
+        According to Stanford GSB's 2024 Search Fund Study and industry benchmarks, the typical successful proprietary deal funnel looks like this: 1,000-3,000 outreach touches yield 30-80 conversations, which produce 8-15 qualified interested owners, resulting in 2-4 NDAs, leading to 1-2{" "}
+        <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">LOIs</Link>, and ultimately 0.5-1 closed deal. This means you should plan for at least 6-12 months of consistent outreach (20-50 touches per day) to build a viable proprietary pipeline. Many searchers underestimate the volume required and give up too early. The key is treating outreach as a daily discipline, not a one-time campaign.
+      </p>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+        <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+        <li>Federal Trade Commission, <em>CAN-SPAM Act: A Compliance Guide for Business</em> (2023)</li>
+      </ul>
+
       <div className="mt-12 pt-8 border-t border-gray-200">
         <h3 className={h3Class}>Related Articles</h3>
         <ul className="space-y-2 mt-4">

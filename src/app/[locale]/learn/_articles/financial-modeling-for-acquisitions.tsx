@@ -749,6 +749,31 @@ export default function FinancialModelingForAcquisitionsArticle() {
           traceability is what separates a disciplined acquirer from a hopeful
           one.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What IRR and MOIC targets do search fund investors typically expect?</h3>
+        <p>
+          According to Stanford GSB's 2024 Search Fund Study, search fund investors typically target a 25-35% net IRR and a 3.0-5.0x MOIC over a 5-7 year hold period. In your model, the base case should show at least a 25% IRR and 3.0x MOIC to be competitive for investor capital. The downside case should demonstrate capital preservation (1.0x+ MOIC) with the business still able to service debt. A deal that generates a 30%+ IRR but only a 2.0x MOIC may indicate the hold period is too short to build meaningful value or that too much equity was required. Conversely, a 5.0x MOIC with only a 15% IRR suggests the timeline is too long. Present returns in a 3x3 matrix crossing three revenue scenarios with three exit multiples.
+        </p>
+
+        <h3 className={h3Class}>Should I build my acquisition model in monthly or annual periods?</h3>
+        <p>
+          Build the first two years on a monthly basis and years three through five on an annual basis. Monthly granularity in the early years is critical for two reasons: it surfaces cash flow timing issues that annual models miss (a January acquisition with a large April tax payment during a seasonal revenue trough can create a liquidity crunch), and it demonstrates modeling sophistication to investors. According to Pepperdine's Private Capital Markets Report, approximately 30-40% of deals that look viable on an annual basis reveal cash flow problems when modeled monthly. The monthly model also helps you negotiate the{" "}
+          <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital peg</Link> more effectively by showing seasonal working capital swings.
+        </p>
+
+        <h3 className={h3Class}>What is the most common modeling mistake first-time searchers make?</h3>
+        <p>
+          Ignoring working capital is by far the most common and most costly mistake. Many first-time searchers project EBITDA growing at 10% annually but assume zero change in working capital. In reality, a growing business consumes cash as receivables and inventory expand. A company with 60 days sales outstanding, 45 days inventory, and 30 days payable will consume approximately 75 days of incremental revenue as working capital for every dollar of growth. This oversight can overstate free cash flow by 20-30%, leading to overly optimistic return projections and potential covenant breaches in the early years. Always model working capital using a balance sheet approach with DSO, DIO, and DPO assumptions tied to historical performance.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report</em> (2024)</li>
+          <li>Wall Street Prep, <em>LBO Modeling Best Practices for Private Equity</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

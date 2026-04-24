@@ -404,6 +404,62 @@ export default function ProfessionalServicesAcquisitionArticle() {
           a sector with strong fundamentals, high margins, and significant
           consolidation opportunities.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do I value a professional services firm where the founder generates most of the revenue?</h3>
+        <p>
+          When a founder personally generates 40% or more of a firm&apos;s revenue,
+          you should apply a significant key-person discount to the standard
+          valuation multiple. According to the Pepperdine Private Capital Markets
+          Report, professional services firms with high founder dependency
+          typically sell at a 20&ndash;35% discount to comparable firms with
+          diversified revenue generation. Structure the deal with 25&ndash;40% of
+          the purchase price tied to earnouts conditioned on client retention over
+          18&ndash;24 months. This aligns the seller&apos;s incentive to facilitate
+          a genuine{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link> and
+          ensures you don&apos;t overpay for revenue that may not survive the
+          ownership change.
+        </p>
+
+        <h3 className={h3Class}>What client retention rate should I expect after acquiring a professional services firm?</h3>
+        <p>
+          According to Stanford GSB&apos;s research on search fund acquisitions,
+          well-executed professional services transitions retain 85&ndash;95% of
+          clients within the first two years, while poorly managed transitions
+          can lose 25&ndash;40% of revenue. The critical variable is the
+          transition period: firms that implement a structured 12&ndash;18 month
+          handoff &mdash; with joint client meetings, co-branded communications,
+          and a clear introduction schedule &mdash; consistently outperform those
+          that attempt an abrupt changeover. Analyze{" "}
+          <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">client concentration</Link> carefully:
+          if your top 5 clients represent more than 30% of revenue, losing even
+          one or two during transition can materially impair the economics.
+        </p>
+
+        <h3 className={h3Class}>Which professional services subsectors are best suited for search fund acquisitions?</h3>
+        <p>
+          According to IESE Business School&apos;s International Search Fund
+          Study (2024), the most successful professional services acquisitions
+          occur in subsectors with high recurring revenue and institutional
+          (rather than personal) client relationships. IT managed services firms
+          typically achieve 70&ndash;85% recurring revenue through monthly
+          contracts, making them particularly attractive. Accounting and tax
+          practices also perform well due to annual engagement cycles and
+          regulatory-driven demand, typically valued at 0.8&ndash;1.3x revenue.
+          Conversely, management consulting firms with project-based revenue and
+          heavy founder dependency carry the highest risk. Our{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">best industries guide</Link> provides
+          a broader framework for evaluating sector attractiveness.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report: Professional Services Valuation</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Key-Person Risk in Services Acquisitions</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

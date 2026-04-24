@@ -129,6 +129,64 @@ export default function SelfFundedSearchSBAArticle() {
             acquisition financing options
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much personal capital do I actually need for a self-funded SBA acquisition?</h3>
+        <p>
+          According to the SBA&apos;s Standard Operating Procedure 50 10,
+          buyers must inject at least 10% equity into the transaction. With
+          the 80/10/10 structure (80% SBA loan, 10% seller note on full
+          standby, 10% buyer equity), a $2 million acquisition requires
+          approximately $200,000 in personal capital. However, experienced
+          SBA lenders report that most successful applicants bring 10&ndash;15%
+          beyond the minimum to cover working capital, closing costs (typically
+          $15K&ndash;$40K), and an operating reserve. Realistically, budget
+          $250K&ndash;$350K in liquid capital for a $2M deal. Some searchers
+          reduce their cash outlay by using{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link> creatively
+          or by bringing in a silent partner for part of the equity injection.
+        </p>
+
+        <h3 className={h3Class}>What FICO score do I need and how do SBA lenders evaluate my application?</h3>
+        <p>
+          According to SBA Preferred Lending Partners like Live Oak Bank, a
+          minimum FICO score of 650 is required, but 680+ is strongly
+          preferred. Beyond credit score, lenders evaluate three primary
+          factors: relevant management or industry experience (the most
+          important factor according to lender surveys), the target business&apos;s
+          historical cash flow (minimum 1.25x debt service coverage ratio),
+          and the strength of the overall deal structure. Applicants with
+          direct industry experience close SBA loans at roughly twice the rate
+          of those without. The SBA does not require full collateral coverage,
+          but personal guarantees are mandatory for anyone with 20%+ ownership.
+          Budget 30&ndash;60 days for loan approval through a Preferred
+          Lending Partner, or 60&ndash;90 days through a standard SBA lender.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks of the 80/10/10 SBA structure compared to a traditional search fund?</h3>
+        <p>
+          According to the Pepperdine Private Capital Markets Report, the
+          primary risk is the personal guarantee: unlike a traditional search
+          fund where investors bear the equity risk, the self-funded searcher
+          is personally liable for the full SBA loan amount. At 80% leverage,
+          a revenue decline of just 15&ndash;20% can threaten debt service
+          coverage. The variable interest rate adds another layer of risk
+          &mdash; a 200 basis point increase on a $1.6M loan adds approximately
+          $32,000 in annual interest expense. Additionally, there is no
+          investor safety net: if the business needs emergency capital, you
+          have no institutional investors to call. Our{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional comparison</Link> examines
+          these trade-offs in detail, including when the higher risk of
+          self-funding is justified by retaining 100% equity ownership.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>U.S. Small Business Administration, <em>Standard Operating Procedure 50 10 &mdash; Lender and Development Company Loan Programs</em> (2024)</li>
+          <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report: SBA Acquisition Financing</em> (2024)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer: Self-Funded Search Economics</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

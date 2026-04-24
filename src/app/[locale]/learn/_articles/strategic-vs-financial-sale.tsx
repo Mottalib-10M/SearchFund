@@ -139,6 +139,32 @@ export default function StrategicVsFinancialSaleArticle() {
             18-month exit readiness plan
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much more do strategic buyers typically pay compared to financial buyers?</h3>
+        <p>
+          According to PitchBook data and the Stanford GSB Search Fund Study, strategic buyers pay a premium of 1&ndash;3x EBITDA turns over financial buyers for comparable businesses. For a company with $2M EBITDA, this translates to $2M&ndash;$6M in additional enterprise value. The premium reflects quantifiable synergies &mdash; cost savings from eliminating duplicate overhead, revenue gains from cross-selling, and strategic value from eliminating a competitor. However, not every business attracts strategic interest. Companies with unique intellectual property, strong customer relationships in desirable geographies, or complementary product lines command the highest premiums. Running a{" "}
+          <Link href="/learn/exit-readiness-plan" className="text-apple-accent hover:underline">dual-track process</Link> that engages both buyer types simultaneously creates competitive tension that maximizes valuation.
+        </p>
+
+        <h3 className={h3Class}>What is an equity rollover, and should I agree to one?</h3>
+        <p>
+          An equity rollover is when the seller reinvests 10&ndash;30% of their sale proceeds into the acquiring entity&rsquo;s equity, retaining an ownership stake in the business post-close. According to Bain &amp; Company, approximately 60% of private equity-backed acquisitions in the lower middle market include a rollover component. The advantage is the &ldquo;second bite of the apple&rdquo; &mdash; if the buyer grows the business and sells again at a higher multiple, your rolled equity can generate returns that exceed your original proceeds. The risk is concentration: you are re-investing in a single asset with a new operator. Evaluate the buyer&rsquo;s track record, the governance rights attached to your rolled equity, and whether the rollover is truly optional or a deal requirement.
+        </p>
+
+        <h3 className={h3Class}>How long does a strategic sale process take compared to a financial sale?</h3>
+        <p>
+          Strategic sales typically close faster &mdash; 60&ndash;90 days from signed LOI to closing &mdash; because strategic buyers have industry operators who can quickly evaluate the business and integrate it post-close. Financial buyers, particularly private equity firms, often take 90&ndash;120 days due to more extensive due diligence, third-party{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> reports, and the need to arrange acquisition financing. According to McKinsey, the total process from initial marketing to close averages 4&ndash;6 months for strategic sales and 6&ndash;9 months for financial buyer processes. However, strategic sales carry higher confidentiality risk since you may be sharing sensitive information with competitors.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>Bain &amp; Company, <em>Global Private Equity Report</em> (2024)</li>
+          <li>McKinsey &amp; Company, <em>Strategic vs. Financial Buyers: Exit Planning for Mid-Market Companies</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

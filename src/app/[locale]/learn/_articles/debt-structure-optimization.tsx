@@ -415,6 +415,30 @@ export default function DebtStructureOptimizationArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing strategies</Link>, and{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization for search fund deals</Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the optimal total leverage ratio for a search fund acquisition?</h3>
+        <p>
+          Most successful search fund acquisitions close with total leverage of 3.0x&ndash;4.0x EBITDA, consisting of 2.5x&ndash;3.5x senior debt plus 0.5x&ndash;1.0x in seller notes or subordinated debt. According to Stanford GSB&rsquo;s Search Fund Study, acquisitions that exceeded 4.5x total leverage experienced significantly higher rates of financial distress, particularly when combined with floating-rate debt in a rising-rate environment. The right leverage ratio depends on revenue stability (contractual or subscription businesses support higher leverage), customer concentration, and capital expenditure requirements. Always stress-test your DSCR under a 20% revenue decline scenario &mdash; if it drops below 1.0x, your structure is too aggressive.
+        </p>
+
+        <h3 className={h3Class}>Should I choose fixed or floating interest rates?</h3>
+        <p>
+          The choice depends on your risk tolerance and the rate environment. According to the Federal Reserve Bank of St. Louis, SOFR-based floating rates have shown annualized volatility of 200&ndash;400 basis points over the past decade, which can translate to hundreds of thousands of dollars in annual interest cost variation on a $3M&ndash;$5M loan. For risk-averse operators, fixing as much senior debt as possible provides certainty and simplifies cash flow forecasting. In Europe, government-backed programs from BPI France and KfW commonly offer fixed-rate options at subsidized levels. The practical middle ground for US-based searchers is an interest rate cap, which costs 0.5&ndash;2.0% of the notional amount upfront and protects against severe rate increases while preserving downside benefit.
+        </p>
+
+        <h3 className={h3Class}>When should I refinance acquisition debt?</h3>
+        <p>
+          The optimal refinancing window is typically 18&ndash;24 months after closing, once you have audited financials under your management and a demonstrated operating track record. According to the American Bankers Association, borrowers who approach refinancing with 12&ndash;18 months of strong performance data and growing EBITDA can typically reduce their interest rate spread by 50&ndash;100 basis points and extend maturities. The key is to refinance from a position of strength, not desperation. If you used mezzanine debt at acquisition, plan to replace it with cheaper senior debt as the business deleverages &mdash; replacing 15% mezzanine with 7% senior debt on a $1M tranche saves $80K annually in interest.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on leverage ratios, financial distress rates, and capital structure patterns in search fund acquisitions.</li>
+          <li>Federal Reserve Bank of St. Louis &mdash; <em>SOFR and Interest Rate Volatility Data</em>, FRED Economic Data. Historical base rate movements and volatility analysis relevant to floating-rate debt.</li>
+          <li>American Bankers Association &mdash; <em>Commercial Lending Benchmarks and Acquisition Finance Survey</em>, 2024. Refinancing trends, spread compression data, and community bank lending practices.</li>
+        </ul>
       </div>
     </article>
   );

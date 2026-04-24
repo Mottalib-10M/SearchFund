@@ -267,6 +267,30 @@ export default function ETABeneluxArticle() {
           <li><strong>Professional networks:</strong> Join MKB-Nederland (Dutch SME association), UNIZO or VOKA (Flemish employer organizations), or UCM (Walloon SME association) to access deal flow and build credibility.</li>
           <li><strong>Due diligence standards:</strong> Dutch and Belgian businesses generally maintain high-quality financial records, but pension obligations, environmental liabilities, and labor commitments require careful scrutiny during due diligence.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses in the Benelux need succession solutions in the coming decade?</h3>
+        <p>
+          According to the Dutch Chamber of Commerce (KVK) and the Netherlands Enterprise Agency (RVO), approximately 75,000 Dutch businesses will need ownership transitions by 2030 due to retiring baby boomer founders. Belgium&apos;s Unizo estimates that 30,000 Flemish businesses face the same challenge, while Wallonia&apos;s UCM reports similar figures for the French-speaking region. Luxembourg, though smaller, has approximately 2,000 businesses facing generational handovers. In total, over 100,000 Benelux SMEs require succession solutions, creating substantial deal flow for <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA practitioners</Link> with the right language skills and local networks.
+        </p>
+
+        <h3 className={h3Class}>What are typical EBITDA multiples for SME acquisitions in the Netherlands and Belgium?</h3>
+        <p>
+          According to Oaklins and Deloitte mid-market transaction data, typical Benelux SME acquisitions price between 4x and 7x EBITDA. Dutch businesses in B2B services and technology-enabled sectors often command the upper end of this range (6x to 7x), while traditional manufacturing and distribution businesses trade at 4x to 5x. Belgian multiples are generally 0.5x to 1x lower than Dutch equivalents for comparable businesses. Luxembourg SMEs may command a slight premium due to the smaller market and higher average profitability. Seller financing of 10&ndash;20% of the purchase price is common across all three countries, and government-backed subordinated financing from institutions like Qredits (Netherlands) or PMV (Flanders) can improve the buyer&apos;s equity returns.
+        </p>
+
+        <h3 className={h3Class}>Do I need to speak Dutch or French to run a search fund in the Benelux?</h3>
+        <p>
+          While English proficiency is high across the Benelux&mdash;particularly in the Netherlands and Luxembourg&mdash;operating a search fund effectively requires at least working proficiency in the local language. In the Netherlands, business-level Dutch is important for building trust with retiring founders and managing employees, particularly outside the Randstad region. In Belgium, language requirements depend on the region: Dutch in Flanders, French in Wallonia, and either (or both) in Brussels. Luxembourg operates in French, German, and Luxembourgish. Several successful <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European search fund</Link> entrepreneurs have completed acquisitions in the Benelux as non-native speakers, but they typically had at least B2-level proficiency and invested in intensive language training during the search phase.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>KVK (Kamer van Koophandel), <em>State of Dutch SMEs: Business Transfer Monitor</em> (2024)</li>
+          <li>European Commission, <em>SBA Fact Sheet: Netherlands, Belgium, Luxembourg</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

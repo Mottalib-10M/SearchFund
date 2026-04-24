@@ -353,6 +353,59 @@ export default function SaaSAcquisitionArticle() {
           right, and a SaaS acquisition at 4-6x ARR can generate exceptional
           returns for both the searcher and investors.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is a fair valuation multiple for a SaaS business with $2M&ndash;$5M ARR?</h3>
+        <p>
+          According to the SaaS Capital Index, SaaS businesses in the $2M&ndash;$5M
+          ARR range typically trade at 3x&ndash;6x ARR for private transactions, with
+          the multiple heavily influenced by net revenue retention, growth rate,
+          and churn. A company growing at 15%+ with NRR above 105% and gross
+          churn below 8% will command 5&ndash;6x ARR. A company with flat growth,
+          NRR below 100%, or gross churn above 10% will trade at 3&ndash;4x ARR.
+          Always cross-reference ARR multiples with EBITDA multiples &mdash; our{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> covers
+          both frameworks &mdash; since high-margin SaaS businesses may yield
+          different results depending on which method is used.
+        </p>
+
+        <h3 className={h3Class}>How do I evaluate technical debt during SaaS due diligence?</h3>
+        <p>
+          Hire an independent technical advisor (budget $10K&ndash;$25K) to conduct
+          a code audit covering architecture quality, test coverage, deployment
+          pipelines, and security posture. According to Bain &amp; Company&apos;s
+          technology due diligence research, approximately 40% of SaaS
+          acquisitions uncover material technical debt that was not disclosed
+          during initial negotiations. Red flags include test coverage below 30%,
+          no CI/CD pipeline, monolithic architecture with no clear separation of
+          concerns, and infrastructure costs exceeding 25% of revenue. A full
+          codebase rewrite can cost $500K&ndash;$2M and take 12&ndash;18 months,
+          so identifying these issues before closing is critical to negotiating
+          the right price.
+        </p>
+
+        <h3 className={h3Class}>What is the most impactful growth lever after acquiring a SaaS business?</h3>
+        <p>
+          According to McKinsey&apos;s SaaS growth research, pricing optimization
+          is consistently the highest-impact lever for newly acquired SaaS
+          businesses. Most founder-run SaaS companies have not adjusted pricing
+          in 2&ndash;4 years, and a well-executed 20&ndash;30% price increase
+          typically results in less than 5% incremental churn while dropping
+          almost entirely to the bottom line. For a $4M ARR business, a 25%
+          increase with 3% additional churn generates approximately $900K in
+          net new annual revenue. After pricing, investing in customer success
+          (reducing gross churn by 20&ndash;40%) and launching{" "}
+          <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">expansion revenue strategies</Link> (tiered
+          pricing, add-on modules) are the next highest-ROI initiatives.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>SaaS Capital, <em>SaaS Valuation Multiples Index</em> (2024)</li>
+          <li>Bain &amp; Company, <em>Technology Due Diligence in Software Acquisitions</em> (2023)</li>
+          <li>McKinsey &amp; Company, <em>Grow Fast or Die Slow: The Role of Pricing in SaaS</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

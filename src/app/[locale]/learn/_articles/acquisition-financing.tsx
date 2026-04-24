@@ -218,6 +218,32 @@ export default function AcquisitionFinancingArticle() {
           sizes. When the right acquisition appears, you want to move quickly
           &mdash; financing delays kill more deals than valuation disagreements.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much equity do I need for a search fund acquisition?</h3>
+        <p>
+          Equity requirements typically range from 30&ndash;50% of enterprise value in traditionally funded search fund deals, and as low as 10&ndash;20% for{" "}
+          <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a)-financed acquisitions</Link>.
+          According to Stanford GSB&rsquo;s 2024 Search Fund Study, the median equity check for a traditional search fund acquisition is approximately $5.3M, representing roughly 40% of enterprise value. Self-funded searchers using SBA loans can acquire businesses with as little as $500K&ndash;$750K in personal and investor equity on a $5M deal, making the SBA program the single most important tool for reducing equity requirements in US-based acquisitions.
+        </p>
+
+        <h3 className={h3Class}>Can I combine SBA loans with seller financing?</h3>
+        <p>
+          Yes, and most experienced SBA lenders actively encourage it. According to the SBA&rsquo;s Standard Operating Procedures, seller notes are permitted as part of the capital stack and can count toward the buyer&rsquo;s equity injection under certain conditions. The key constraint is that most SBA lenders require the seller note to be on &ldquo;full standby&rdquo; for the first 24 months &mdash; meaning no principal or interest payments during that period. A typical SBA-financed deal might include 65&ndash;75% SBA debt, 10&ndash;15% seller note, and 10&ndash;20% buyer equity. This structure dramatically reduces out-of-pocket capital while providing sellers with tax-advantaged installment sale treatment.
+        </p>
+
+        <h3 className={h3Class}>What interest rates should I expect for acquisition financing in 2025?</h3>
+        <p>
+          Interest rates vary significantly by capital source and geography. As of 2025, SBA 7(a) loans are priced at Prime + 2.25&ndash;2.75% (approximately 10&ndash;11% all-in). Conventional senior bank debt ranges from SOFR + 2&ndash;4% (approximately 7&ndash;9%). European government-backed programs like BPI France and KfW offer subsidized rates that can be 200&ndash;300 basis points below market. Mezzanine debt commands 12&ndash;18% total return, while seller notes are typically negotiated at 3&ndash;6%. According to the American Bankers Association, competition among community banks for acquisition lending has kept spreads stable despite base rate volatility, making this a reasonably favorable environment for borrowers with strong deal profiles.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on capital structures, equity requirements, and financing patterns across 500+ search fund acquisitions.</li>
+          <li>U.S. Small Business Administration &mdash; <em>7(a) Loan Program Overview and Standard Operating Procedures</em>, SBA.gov. Official program terms, guarantee percentages, and eligibility requirements.</li>
+          <li>American Bankers Association &mdash; <em>Small Business Lending Survey</em>, 2024. Data on acquisition lending trends, pricing benchmarks, and community bank lending appetite for SME acquisitions.</li>
+        </ul>
       </div>
     </article>
   );

@@ -133,6 +133,63 @@ export default function VendorTakeBackFinancingArticle() {
         </ul>
       </div>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What percentage of VTB financing is typical in SME acquisitions?</h3>
+        <p>
+          According to the International Business Brokers Association (IBBA)
+          Transaction Survey, seller financing is present in 60&ndash;80% of
+          SME deals, with the typical VTB note representing 15&ndash;20% of
+          the total purchase price. The amount varies by deal structure: in
+          SBA-financed acquisitions using the{" "}
+          <Link href="/learn/self-funded-search-sba" className="text-apple-accent hover:underline">80/10/10 structure</Link>,
+          the seller note is exactly 10% and must be on full standby for 24
+          months. In non-SBA deals, VTB can range from 10% to 40% depending
+          on the buyer&apos;s equity availability and the seller&apos;s
+          willingness. Higher VTB percentages (25&ndash;40%) are common when
+          the business has risk factors that make bank financing difficult,
+          such as{" "}
+          <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">customer concentration</Link> or
+          short operating history.
+        </p>
+
+        <h3 className={h3Class}>How does VTB financing affect the seller&apos;s tax treatment?</h3>
+        <p>
+          According to the IRS, VTB notes qualify for installment sale
+          treatment under IRC Section 453, which allows the seller to
+          spread capital gains recognition over the note&apos;s repayment
+          period rather than recognizing the entire gain in the year of
+          sale. For example, on a $5M sale with a $1.5M VTB note at 6%
+          over 5 years, the seller recognizes the gain on the VTB portion
+          proportionally as payments are received, potentially keeping the
+          seller in lower tax brackets each year. This tax deferral is one
+          of the most compelling arguments buyers can use to persuade
+          sellers to accept VTB. In Canada, the capital gains reserve
+          provides similar treatment under the Income Tax Act. Our{" "}
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization guide</Link> covers
+          the broader tax planning framework.
+        </p>
+
+        <h3 className={h3Class}>What happens if the buyer defaults on a subordinated VTB note?</h3>
+        <p>
+          According to Practical Law (Thomson Reuters), enforcing a
+          subordinated VTB note is significantly more difficult than
+          enforcing senior debt. The senior lender (bank or SBA) has
+          first claim on all business assets, and the intercreditor
+          agreement typically blocks VTB payments during any senior debt
+          default. If the buyer defaults, the seller can accelerate the
+          full balance after a 30-day cure period, but foreclosure on the
+          second lien yields limited recovery if the senior lender&apos;s
+          claim exceeds the asset value. According to the BDC (Business
+          Development Bank of Canada), sellers recover an average of
+          40&ndash;60 cents on the dollar in VTB default scenarios.
+          Prevention is far more effective than enforcement: sellers
+          should negotiate personal guarantees, financial covenants
+          (minimum EBITDA, debt service coverage ratios), and monthly
+          reporting requirements.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller Financing: Structures, Terms & Negotiation</Link></li>

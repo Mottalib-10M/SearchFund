@@ -535,6 +535,32 @@ export default function EarnOutStructuresArticle() {
           while giving sellers the opportunity to realize full value
           for what they have built.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of the purchase price should an earn-out represent?</h3>
+        <p>
+          According to the American Bar Association's 2024 Private Target M&A Deal Points Study, earn-outs in private company acquisitions typically represent 10-30% of the total purchase price. For search fund acquisitions, the sweet spot is usually 15-25%. An earn-out below 10% often is not meaningful enough to bridge a valuation gap, while one above 35% signals that the buyer and seller have fundamentally different views of the business's value -- a red flag that should prompt deeper analysis of why the gap exists. In IESE's 2024 International Search Fund Study, deals with earn-outs in the 15-25% range had the highest completion rates and lowest post-closing dispute rates.
+        </p>
+
+        <h3 className={h3Class}>How often do earn-out disputes end up in litigation?</h3>
+        <p>
+          Earn-out disputes are disturbingly common. According to research from Shareholder Representative Services (SRS Acquiom), approximately 65-75% of deals with earn-outs experience some level of disagreement over the earn-out calculation or payment. However, only about 10-15% of these disputes escalate to formal arbitration or litigation, with most resolved through negotiation or the independent accountant mechanism specified in the{" "}
+          <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">purchase agreement</Link>. The most effective way to reduce dispute risk is to attach a sample earn-out calculation as an exhibit to the agreement, define every term with precision, and include clear sandbox provisions governing how the buyer must operate the business during the measurement period.
+        </p>
+
+        <h3 className={h3Class}>Should a search fund buyer prefer revenue-based or EBITDA-based earn-outs?</h3>
+        <p>
+          As a buyer, you generally have more control over revenue-based earn-outs because revenue is harder for either party to manipulate -- it sits at the top of the income statement above discretionary expenses. However, revenue-based earn-outs carry the risk that the seller pushes for revenue at any cost, accepting unprofitable contracts or deep discounts to hit targets. EBITDA-based earn-outs align incentives around profitability but give buyers more levers to manipulate results through overhead allocations, management fees, or accelerated spending. For most search fund deals, the pragmatic choice depends on the seller's post-closing role: if the seller is staying involved, use revenue (harder for the buyer to manipulate); if the seller is departing, use{" "}
+          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link> with robust sandbox provisions.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>American Bar Association, <em>Private Target M&A Deal Points Study</em> (2024)</li>
+          <li>SRS Acquiom, <em>M&A Deal Terms Study: Earnout Trends</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

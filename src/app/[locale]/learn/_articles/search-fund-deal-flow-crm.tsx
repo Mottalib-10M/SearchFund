@@ -444,6 +444,46 @@ export default function SearchFundDealFlowCRMArticle() {
           guide to ensure your foundation is solid before filling your
           pipeline.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many companies should I expect to contact before closing an acquisition?</h3>
+        <p>
+          According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>{" "}
+          and data compiled from experienced searcher interviews, the typical search funnel involves contacting 800 to 1,500 companies, holding 150 to 250 substantive conversations, signing 30 to 60 NDAs, reviewing 15 to 30 CIMs in detail, submitting 3 to 6 letters of intent, and closing one acquisition. These numbers vary significantly based on your search criteria, geographic focus, and sourcing mix (proprietary outreach yields lower initial response rates but higher conversion at later stages). The conversion rates between stages are remarkably consistent across searchers: roughly 15% response rate on cold outreach, 25% conversation-to-NDA rate, 8% NDA-to-LOI rate, and 25% LOI-to-close rate. Tracking these ratios in your CRM helps diagnose where your funnel is underperforming.
+        </p>
+
+        <h3 className={h3Class}>Which CRM is best for a first-time searcher on a tight budget?</h3>
+        <p>
+          HubSpot CRM&rsquo;s free tier is the most popular choice among traditional search fund entrepreneurs and is sufficient for most searches. It supports unlimited contacts, custom deal stages, email tracking, task management, and basic reporting at no cost. Create two separate pipelines &mdash; one for acquisition targets and one for investor and broker relationships. The built-in email integration logs messages automatically, eliminating manual data entry. Upgrade to the Starter plan ($20/month) when you need workflow automation. For searchers who prefer a more visual interface, Pipedrive ($14.90/month) offers a kanban-style pipeline view and a superior mobile app. Airtable works well for searchers who want maximum flexibility and custom views. The platform matters less than the discipline: log every interaction within 24 hours, use dropdowns instead of free text for standardized fields, and review your pipeline every Monday.
+        </p>
+
+        <h3 className={h3Class}>How should I present pipeline data in monthly investor updates?</h3>
+        <p>
+          Experienced{" "}
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
+          expect three categories of data in your pipeline report: activity metrics (outreach volume, conversations held, NDAs signed), conversion metrics (response rates by channel, conversation-to-NDA rate, NDA-to-LOI rate), and pipeline health (stage distribution showing how many opportunities are at each stage, plus the number of deals passed with reasons). Present the data in a simple table or dashboard &mdash; investors appreciate conciseness over design. Include a brief narrative highlighting the two or three most promising active opportunities, any significant deals passed and why, and adjustments to your search strategy based on what the data reveals. A well-organized CRM makes this update a 30-minute exercise. Investors who see disciplined pipeline management gain confidence in your process, which translates directly into support when you need acquisition capital.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Pipeline and Search Duration Data)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School &mdash; Search Fund Primer (Deal Sourcing Best Practices)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              HubSpot &mdash; Free CRM Platform Documentation and Features
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

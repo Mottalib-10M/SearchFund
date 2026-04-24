@@ -339,6 +339,62 @@ export default function IndustrySpecificDealSourcingArticle() {
           producing a deal pipeline that is not only deeper but also significantly more
           proprietary and less competitive.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many industry trade shows should a searcher attend per year?</h3>
+        <p>
+          For a focused search targeting 1-3 verticals, attending 2-4 trade shows per year
+          per vertical is the recommended cadence. Attend the flagship national conference at
+          least once (to map the ecosystem) and supplement with 1-2 regional events where
+          owner-operators are more accessible. According to Stanford GSB data, searchers who
+          attended industry-specific events sourced proprietary deal flow at rates 2-3x higher
+          than those relying solely on online databases and{" "}
+          <Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">
+            cold outreach
+          </Link>. Budget $2,000-$5,000 per event for registration, travel, and incidentals.
+          The ROI comes not from the event itself but from the 48-hour follow-up window --
+          send personalized emails to every contact within two days.
+        </p>
+
+        <h3 className={h3Class}>Is it worth joining an industry association if I have no background in the sector?</h3>
+        <p>
+          Yes, but approach it strategically. Many associations offer associate or affiliate
+          memberships for professionals who serve the industry (advisors, consultants, service
+          providers), typically costing $200-$1,500 per year. Membership gives you access to
+          the member directory, event invitations, trade publications, and online forums.
+          According to the International Franchise Association and similar bodies, associate
+          members who volunteer for a committee (especially education or succession planning)
+          build credibility far faster than passive members. Within 6-12 months, committee
+          involvement gives you direct contact with board members and long-tenured owners who
+          know which businesses may be available. The key is to position yourself as a
+          contributor first and a buyer second.
+        </p>
+
+        <h3 className={h3Class}>Which industries have the best deal sourcing infrastructure for first-time acquirers?</h3>
+        <p>
+          Home services (HVAC, plumbing, pest control, electrical) and professional services
+          (accounting, IT staffing, insurance) have the most developed sourcing infrastructure
+          for acquisition entrepreneurs. These sectors have large, fragmented markets with tens
+          of thousands of owner-operated businesses, well-established trade associations (ACCA,
+          PHCC, NPMA, AICPA), and state licensing databases that provide precise target lists.
+          According to the IBBA Market Pulse Survey (2024), home services and professional
+          services represent 25-30% of all lower middle-market transactions, making{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
+            these sectors
+          </Link>{" "}
+          familiar territory for brokers, lenders, and investors alike. Manufacturing and
+          distribution also have strong infrastructure through associations like NAM and
+          events like IMTS, though they require more industry-specific knowledge to evaluate
+          effectively.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+          <li>Trade Show News Network (TSNN), <em>Trade Show Industry Statistics</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

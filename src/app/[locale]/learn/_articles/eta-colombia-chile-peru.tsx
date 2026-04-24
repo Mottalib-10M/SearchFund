@@ -235,6 +235,43 @@ export default function ETAColombiaChilePeruArticle() {
             ETA in Mexico
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which Andean country is most accessible for a first-time search fund entrepreneur?</h3>
+        <p>
+          Chile is generally considered the most accessible market for first-time searchers due to its transparent regulatory environment, the strongest rule of law in the region, and relatively well-formalized business accounting practices. Chile consistently ranks first in Latin America on the World Bank&rsquo;s Ease of Doing Business index and the Heritage Foundation&rsquo;s Economic Freedom Index. CORFO&rsquo;s financing programs and the SpA corporate structure provide familiar frameworks for searchers trained in the US or European models. However, Chile&rsquo;s smaller population (19 million) limits total deal flow compared to Colombia (52 million). For bilingual searchers with higher risk tolerance, Colombia offers deeper deal flow and a more developed local search fund community anchored by Universidad de los Andes.
+        </p>
+
+        <h3 className={h3Class}>How do search fund investors view currency risk in Andean acquisitions?</h3>
+        <p>
+          Currency risk is the single most discussed concern among international investors evaluating Andean search fund opportunities. The Colombian peso (COP), Chilean peso (CLP), and Peruvian sol (PEN) have all experienced 15&ndash;30% swings against the US dollar over five-year periods. IESE research on Latin American search funds shows that currency depreciation has reduced dollar-denominated returns by an average of 3&ndash;5 percentage points annually over holding periods. Experienced investors mitigate this by targeting businesses with natural currency hedges &mdash; export revenues, dollar-linked contracts, or operations serving multinational clients. Some funds also use local-currency acquisition debt to match the currency of cash flows with debt service, creating a partial natural hedge.
+        </p>
+
+        <h3 className={h3Class}>What are the most common due diligence red flags in Andean SME acquisitions?</h3>
+        <p>
+          Three red flags appear consistently across all three markets. First, informality in financial records: an estimated 40&ndash;60% of Andean SMEs maintain some degree of off-book revenue or informal labor arrangements, according to OECD studies on Latin American informality. Second, customer concentration: many mid-market businesses depend heavily on government contracts or a single large client, creating revenue vulnerability. Third, tax compliance gaps: the ICA municipal tax in Colombia, the profit-sharing obligation in Peru, and VAT compliance across all three countries are areas where liabilities often surface during{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>. Searchers should engage local forensic accountants and insist on three years of reconciled tax filings before proceeding.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; Latin American Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.oecd.org/latin-america/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              OECD &mdash; Latin American Economic Outlook and SME Informality Reports
+            </a>
+          </li>
+          <li>
+            <a href="https://www.worldbank.org/en/programs/business-enabling-environment" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              World Bank &mdash; Business Enabling Environment: Latin America Country Data
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

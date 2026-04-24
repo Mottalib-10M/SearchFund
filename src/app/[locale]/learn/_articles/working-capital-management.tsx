@@ -452,6 +452,44 @@ export default function WorkingCapitalManagementArticle() {
           the annual debt service on the acquisition loan &mdash; effectively
           funding the deal from operational improvements alone.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much cash can working capital optimization realistically free up in a search fund acquisition?</h3>
+        <p>
+          For a typical search fund acquisition of a $5M&ndash;$15M revenue business, disciplined working capital optimization can free $200K&ndash;$750K in cash within the first year. The Stanford 2024 Search Fund Study shows that top-quartile operators achieve 15&ndash;25% improvements in their cash conversion cycle during the first 18 months of ownership. The largest gains typically come from reducing DSO by 10&ndash;15 days through electronic invoicing and systematic collections, and from liquidating 6&ndash;12 months of dead inventory. These freed funds can be deployed toward debt paydown, which accelerates equity value creation.
+        </p>
+
+        <h3 className={h3Class}>What is a good cash conversion cycle target for an acquired SME?</h3>
+        <p>
+          The target depends heavily on industry. For B2B services businesses, a CCC of 30&ndash;45 days is considered healthy; for manufacturing and distribution, 45&ndash;75 days is typical. According to the Federal Reserve Bank&rsquo;s Small Business Credit Survey, the median SME has a CCC of approximately 60 days. If the business you acquire has a CCC above 75 days, there is almost certainly room for significant improvement. The key benchmarks to target are DSO below 40 days, DIO below 30 days (for non-manufacturing), and DPO at or above 30 days. Compare your metrics to industry peers using data from RMA Annual Statement Studies.
+        </p>
+
+        <h3 className={h3Class}>Should a new CEO prioritize working capital optimization over revenue growth?</h3>
+        <p>
+          In a leveraged acquisition, working capital optimization should generally be prioritized in the first 6&ndash;12 months because it generates immediate free cash flow that improves debt service coverage and reduces financial risk. Revenue growth initiatives &mdash; new sales hires, marketing spend, product development &mdash; require cash investment and take 12&ndash;24 months to generate returns. The optimal sequence, supported by research from Harvard Business School&rsquo;s search fund studies, is to stabilize operations and optimize working capital first, then reinvest the freed cash into{" "}
+          <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth initiatives</Link>{" "}
+          from a position of financial strength.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.fedsmallbusiness.org/survey" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Federal Reserve Banks &mdash; Small Business Credit Survey
+            </a>
+          </li>
+          <li>
+            <a href="https://www.rmahq.org/annual-statement-studies/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Risk Management Association (RMA) &mdash; Annual Statement Studies: Industry Financial Benchmarks
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

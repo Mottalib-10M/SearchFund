@@ -461,6 +461,45 @@ export default function SearchFundSuccessStoriesArticle() {
           small business can be one of the most rewarding career and
           investment paths available.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the single most important factor that separates successful search fund outcomes from failures?</h3>
+        <p>
+          According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, industry selection is the strongest predictor of outsized returns. Search funds that acquired businesses in growing, fragmented industries with recurring revenue models and high switching costs consistently outperformed those in cyclical or commoditized sectors. Asurion&rsquo;s extraordinary outcome was driven primarily by the explosive growth of the wireless device market, which amplified every operational improvement. The Stanford data shows that post-acquisition operational execution &mdash; professionalizing financial reporting, building management teams, and implementing growth initiatives &mdash; is the second most important factor. Searchers who paid disciplined multiples (4&ndash;5x EBITDA) and invested in people before pursuing growth consistently generated the strongest risk-adjusted returns.
+        </p>
+
+        <h3 className={h3Class}>How common are buy-and-build strategies in successful search funds?</h3>
+        <p>
+          Buy-and-build strategies have become increasingly prevalent among top-performing search funds. The Stanford data indicates that approximately 25&ndash;30% of search fund CEOs execute at least one add-on acquisition during the hold period, and those who do tend to generate meaningfully higher MOICs than single-acquisition operators. The most successful buy-and-build operators follow a disciplined pattern: stabilize the platform acquisition for 12&ndash;18 months, build a strong management team, then pursue bolt-on acquisitions at 3&ndash;4x EBITDA that can be integrated into the existing platform. The combined entity often exits at 7&ndash;10x EBITDA &mdash; capturing both operational improvement and{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">multiple arbitrage</Link>. Key sectors for successful roll-ups include business services, healthcare, and technology-enabled services.
+        </p>
+
+        <h3 className={h3Class}>Are European and Latin American search fund success stories comparable to US outcomes?</h3>
+        <p>
+          According to IESE Business School&rsquo;s International Search Fund Study, European and Latin American search funds have generated aggregate returns comparable to their US counterparts, with median IRRs in the 25&ndash;35% range. European success stories are concentrated in Spain, France, and Germany, where lower acquisition multiples (3&ndash;5x EBITDA versus 5&ndash;7x in the US) and a massive baby boomer succession wave create favorable conditions. Latin American search funds, particularly in Colombia and Mexico, benefit from even lower multiples (3&ndash;4x) and limited institutional competition. The key difference is that non-US markets are earlier in the adoption curve, meaning fewer proven exits but greater first-mover opportunity. For a detailed comparison, see our guide to{" "}
+          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School &mdash; International Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School &mdash; Search Fund Primer (Ruback &amp; Yudkoff)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

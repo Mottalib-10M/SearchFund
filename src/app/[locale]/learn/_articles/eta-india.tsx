@@ -130,6 +130,30 @@ export default function ETAIndiaArticle() {
             best countries to buy a business
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How large is the business succession opportunity in India?</h3>
+        <p>
+          India&rsquo;s succession opportunity is unparalleled in scale. According to a 2023 PwC India Family Business Survey, over 70% of Indian family businesses are still run by their first-generation founders, and fewer than 20% have a robust succession plan in place. The Ministry of MSME estimates that there are 63.4 million registered micro, small, and medium enterprises in India, contributing approximately 30% of GDP. As the generation that built businesses during India&rsquo;s post-liberalization era (1991 onward) approaches retirement age, tens of thousands of profitable companies in the &#8377;5&ndash;50 crore revenue range will need new ownership. Unlike in the US or Europe, India lacks a mature broker and M&amp;A advisory infrastructure for sub-$10M deals, creating wide-open deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused acquirers</Link>.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest due diligence risks when acquiring an Indian SME?</h3>
+        <p>
+          According to Grant Thornton&rsquo;s India M&amp;A Dealtracker, the most critical due diligence risks in Indian SME acquisitions include: (1) tax compliance history, particularly under the pre-GST regime where multiple overlapping indirect taxes created complex liabilities; (2) undisclosed related-party transactions and personal expenses routed through the business; (3) land and property title issues, which affect approximately 25% of transactions involving real estate assets; (4) informal employment practices including unreported cash compensation to workers; and (5) pending or potential litigation, as Indian courts have significant case backlogs. Successful acquirers typically budget 60&ndash;90 days for <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> in India, compared to 30&ndash;45 days in Western markets, and engage both a Big Four firm for financial diligence and a specialized Indian law firm for legal and regulatory review.
+        </p>
+
+        <h3 className={h3Class}>Can foreign nationals acquire and operate businesses in India?</h3>
+        <p>
+          Yes, but with important regulatory considerations. Under India&rsquo;s Foreign Exchange Management Act (FEMA) and the consolidated FDI Policy issued by the Department for Promotion of Industry and Internal Trade (DPIIT), 100% foreign direct investment is permitted under the automatic route in most sectors relevant to ETA, including IT services, manufacturing, healthcare, education (private), and food processing. Foreign buyers typically incorporate a Private Limited Company (Pvt Ltd) in India as an acquisition vehicle and must register the investment with the Reserve Bank of India. According to the World Bank&rsquo;s Ease of Doing Business data, India has improved significantly in recent years, though company incorporation still takes 10&ndash;15 days. Investors from countries sharing a land border with India (including China) require mandatory government approval under Press Note 3 (2020).
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Ministry of MSME, Government of India, <em>Annual Report on MSMEs</em> (2024)</li>
+          <li>PwC India, <em>Family Business Survey: India Report</em> (2023)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

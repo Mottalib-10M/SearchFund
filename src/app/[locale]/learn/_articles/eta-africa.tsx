@@ -446,6 +446,42 @@ export default function ETAAfricaArticle() {
           Africa is not the next frontier for ETA. It is the frontier&mdash;the largest, youngest,
           and most underserved market for Entrepreneurship Through Acquisition in the world.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are realistic EBITDA multiples for SME acquisitions in Nigeria, Kenya, and South Africa?</h3>
+        <p>
+          Multiples vary significantly by country, sector, and financial reporting quality. In Nigeria, formalized SMEs with audited financials typically trade at 2.5&ndash;4x EBITDA, with businesses in the oil and gas services sector commanding the upper range. Kenyan SMEs with clean books trade at 3&ndash;5x EBITDA, with technology-enabled services at the higher end. South Africa offers the most transparent market, with multiples of 3.5&ndash;5.5x EBITDA for well-run businesses, comparable to emerging European markets. The African Private Equity and Venture Capital Association (AVCA) reports that average entry multiples for PE transactions across Sub-Saharan Africa have remained in the 4&ndash;6x range, though search fund-sized deals typically trade below this due to smaller deal sizes and limited buyer competition.
+        </p>
+
+        <h3 className={h3Class}>How can a diaspora searcher structure financing for an African acquisition?</h3>
+        <p>
+          The most viable financing stack for African ETA combines international investor equity (40&ndash;60% of the purchase price), seller financing (20&ndash;40% deferred over 2&ndash;5 years), and where available, DFI facilities from organizations like the IFC, British International Investment, or Proparco. Traditional local bank debt is challenging due to interest rates exceeding 20% in many markets. Some diaspora searchers have successfully raised capital from US and European search fund investors who are familiar with the ETA model, supplemented by Africa-focused family offices and impact funds. Currency structuring is critical: raising equity in dollars while generating revenue in local currencies creates FX risk that must be modeled conservatively.
+        </p>
+
+        <h3 className={h3Class}>What due diligence challenges are unique to African SME acquisitions?</h3>
+        <p>
+          The most significant challenges are financial transparency, informal economy overlap, and regulatory compliance verification. Many African SMEs maintain financial records that do not conform to international accounting standards, requiring extensive reconstruction of financial statements from bank records, invoices, and tax filings. Cash transactions may represent 15&ndash;40% of revenue in some businesses, making revenue verification particularly difficult. The World Bank&rsquo;s Doing Business reports highlight that contract enforcement and business registration processes vary dramatically across African jurisdictions. Searchers should budget 2&ndash;3x the time typically allocated for due diligence in developed markets and engage local accounting firms with forensic capabilities to validate revenue, tax compliance, and employee benefit obligations.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.avca-africa.org/research-publications/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              African Private Equity and Venture Capital Association (AVCA) &mdash; Annual Private Equity Data
+            </a>
+          </li>
+          <li>
+            <a href="https://www.worldbank.org/en/region/afr" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              World Bank &mdash; Africa Region Economic Data and Doing Business Reports
+            </a>
+          </li>
+          <li>
+            <a href="https://www.ifc.org/en/what-we-do/sector-expertise/financial-institutions/sme-finance" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              International Finance Corporation (IFC) &mdash; SME Finance in Africa
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

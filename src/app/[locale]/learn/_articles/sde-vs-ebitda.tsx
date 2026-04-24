@@ -471,6 +471,25 @@ export default function SDEvsEBITDAArticle() {
         Finally, remember that businesses can transition from SDE to EBITDA valuations as they grow and professionalize. This transition represents a significant value creation opportunity for searchers who can successfully reduce owner-dependence and build institutional-quality businesses. Master both metrics, and you'll be better equipped to identify, value, and grow your acquisition target.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>At what earnings level should I switch from SDE to EBITDA valuation?</h3>
+      <p className={bodyClass}>
+        The transition point is generally around $1 million in owner benefit, though it depends more on organizational maturity than a strict dollar threshold. According to the International Business Brokers Association (IBBA) and BizBuySell transaction data, businesses with SDE below $750,000 are almost always valued on SDE, while those with EBITDA above $1.5 million are valued on EBITDA. The $750K-$1.5M range is a gray zone where both metrics may apply. The key question is whether the business has truly evolved beyond owner-dependence: if a capable general manager could run the company without daily owner involvement, EBITDA is appropriate regardless of earnings level. If the owner is integral to operations, SDE better reflects the buyer's economic reality.
+      </p>
+
+      <h3 className={h3Class}>Why do EBITDA multiples appear higher than SDE multiples if the purchase prices are similar?</h3>
+      <p className={bodyClass}>
+        EBITDA multiples appear higher because EBITDA is calculated after deducting management compensation, making the denominator smaller. A business with $1M SDE valued at 3.0x ($3M purchase price) might show only $700K EBITDA after deducting a $300K market-rate manager salary -- at $3M, that implies a 4.3x EBITDA multiple. The purchase prices are often comparable; the difference is accounting for management cost. According to Pepperdine's 2024 Private Capital Markets Report, the average SDE multiple for businesses under $1M in earnings is 2.5-3.5x, while{" "}
+        <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples</Link>{" "}
+        for businesses above $1M typically range from 4.5-6.5x. Always compare like-for-like and ensure your purchase price multiple, financing structure, and lender underwriting all use the same metric.
+      </p>
+
+      <h3 className={h3Class}>How does the SDE-to-EBITDA transition create value for acquirers?</h3>
+      <p className={bodyClass}>
+        Transitioning a business from SDE to EBITDA valuation is one of the most powerful value creation strategies for searchers. By hiring professional management, implementing systems, and reducing owner-dependence, you shift the business into a higher-multiple valuation framework. For example, acquiring a business at 3.0x its $800K SDE ($2.4M), then investing in a $120K/year general manager while growing the business to $950K EBITDA over three years, results in a business worth $4.75M at 5.0x EBITDA -- nearly doubling enterprise value. According to Stanford GSB's 2024 Search Fund Study, multiple expansion from entry to exit (typically moving from 4-6x to 6-10x EBITDA) is one of the three primary drivers of search fund returns, alongside EBITDA growth and debt paydown.
+      </p>
+
       <div className="mt-12 pt-8 border-t border-gray-200">
         <h2 className={h2Class}>Sources</h2>
         <ul className="space-y-2">

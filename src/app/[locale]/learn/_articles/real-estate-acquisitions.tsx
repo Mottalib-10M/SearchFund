@@ -91,6 +91,58 @@ export default function RealEstateAcquisitionsArticle() {
         </ul>
       </div>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>Should I buy the property or negotiate a lease when acquiring a small business?</h3>
+        <p>
+          The answer depends on the property&apos;s role in operations and your
+          capital structure. According to the SBA, if real estate is included in
+          the acquisition, you can use an SBA 504 loan with a 25-year term for
+          the property portion, significantly reducing monthly payments compared
+          to a 10-year SBA 7(a) business loan. Buy when the property is critical
+          to operations (manufacturing, specialized facilities) or when you want
+          long-term cost certainty. Lease when you want to minimize total deal
+          size and preserve capital for{" "}
+          <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital</Link>.
+          A hybrid approach &mdash; buying the property in a separate LLC and
+          leasing it to the operating company at arm&apos;s length &mdash; provides
+          liability protection while retaining the asset.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks if the seller retains the property and becomes my landlord?</h3>
+        <p>
+          According to the CCIM Institute, approximately 40% of SME acquisitions
+          involve the seller retaining real estate ownership. The primary risks
+          are landlord leverage (the seller can raise rent, refuse renewals, or
+          sell the property to a third party), lack of formal lease terms (many
+          owner-operated businesses have no written lease at all), and misaligned
+          incentives (the seller may defer maintenance once they no longer
+          operate the business). To mitigate these risks, negotiate a formal
+          10&ndash;15 year lease at market rates with clear renewal options,
+          a right of first refusal if the property is sold, and defined
+          maintenance obligations. Our{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> includes
+          a full lease review section.
+        </p>
+
+        <h3 className={h3Class}>When does a sale-leaseback make sense in a search fund acquisition?</h3>
+        <p>
+          According to NAIOP (the Commercial Real Estate Development
+          Association), sale-leasebacks are most attractive when the property
+          value represents 30% or more of the total deal, the buyer needs to
+          minimize the equity requirement, or the business can operate
+          effectively as a tenant without owning the real estate. A typical
+          sale-leaseback generates proceeds equal to the property&apos;s
+          appraised value, which can reduce the total acquisition price by
+          20&ndash;40%. The trade-off is that you commit to lease payments
+          (typically 7&ndash;9% of property value annually) and lose any
+          future appreciation. Sale-leasebacks work particularly well for
+          retail locations, warehouses, and office buildings but less well
+          for specialized manufacturing facilities where tenant
+          improvements are significant.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Related Resources</h2>
       <ul className={ulClass}>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>

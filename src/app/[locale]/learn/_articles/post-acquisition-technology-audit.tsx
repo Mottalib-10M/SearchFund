@@ -396,6 +396,32 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           strategy: listen first, assess thoroughly, prioritize ruthlessly,
           and execute with discipline.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long does a post-acquisition technology audit take?</h3>
+        <p>
+          A comprehensive technology audit can be completed in 10&ndash;12 weeks following a structured approach. According to Gartner&rsquo;s IT assessment framework, the process breaks down as: Weeks 1&ndash;2 for discovery (inventorying hardware, software, contracts, and expenses and interviewing key users), Weeks 3&ndash;4 for assessment (evaluating security, backups, infrastructure age, and application fitness), Weeks 5&ndash;6 for implementing quick wins (enabling MFA, deprovisioning former employees, verifying backups, canceling unused subscriptions), and Weeks 7&ndash;12 for building a prioritized 12&ndash;18 month technology roadmap with costs, timelines, and expected outcomes. A fractional CTO at $3,000&ndash;$10,000 per month can lead this process if you lack internal IT leadership.
+        </p>
+
+        <h3 className={h3Class}>How much IT waste is typically found in acquired SMEs?</h3>
+        <p>
+          According to Flexera&rsquo;s annual IT spending waste report, organizations waste an average of 30&ndash;35% of their software spending on unused or underutilized licenses. In acquired SMEs, this waste is often even higher. It is common to find $20K&ndash;$50K in annual savings by canceling unused SaaS subscriptions, eliminating redundant tools (multiple project management platforms, duplicate email marketing services), and renegotiating vendor contracts that auto-renewed at inflated rates. The technology audit pays for itself through these savings alone, before you even begin investing in improvements. Document every software tool and subscription, including costs and contract renewal dates, and rationalize the portfolio within the first 90 days.
+        </p>
+
+        <h3 className={h3Class}>Should I use an MSP or hire an in-house IT person?</h3>
+        <p>
+          For businesses with fewer than 50 employees, a Managed Service Provider (MSP) is almost always more cost-effective. According to CompTIA&rsquo;s managed services research, MSPs provide 24/7 monitoring, help desk support, patch management, and basic{" "}
+          <Link href="/learn/cybersecurity-for-acquired-businesses" className="text-apple-accent hover:underline">cybersecurity</Link>{" "}
+          for $100&ndash;$250 per endpoint per month, which translates to $2,000&ndash;$7,500 per month for a 20&ndash;30 person company &mdash; a fraction of the $60K&ndash;$90K annual cost of a full-time IT hire plus benefits. Consider an internal IT manager when the business exceeds 75&ndash;100 employees, operates proprietary systems, or has complex compliance requirements. The most effective model for many search fund businesses is a hybrid: one internal IT manager for strategy and vendor management, supported by an MSP for day-to-day operations.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Gartner &mdash; <em>IT Infrastructure Assessment Framework for Mid-Market Companies</em>, 2024. Structured methodology for technology audits, scoring frameworks, and prioritization criteria.</li>
+          <li>Flexera &mdash; <em>State of IT Visibility Report</em>, 2024. Data on software spending waste, shadow IT prevalence, and license optimization opportunities across organizations of all sizes.</li>
+          <li>CompTIA &mdash; <em>Trends in Managed Services</em>, 2024. Research on MSP adoption patterns, cost benchmarks, and service delivery models for small and mid-sized businesses.</li>
+        </ul>
       </div>
     </article>
   );

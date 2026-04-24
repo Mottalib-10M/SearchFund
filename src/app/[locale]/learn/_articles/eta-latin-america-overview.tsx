@@ -355,6 +355,30 @@ export default function ETALatinAmericaOverviewArticle() {
           is maturing, and the next generation of search fund success stories is being written
           right now.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many search funds have been launched in Latin America, and what are their returns?</h3>
+        <p>
+          According to IESE Business School&rsquo;s 2024 International Search Fund Study, Latin America has seen over 80 search funds launched since 2010, with the majority concentrated in Colombia, Mexico, Brazil, and Chile. The study reports that Latin American search funds have generated aggregate returns comparable to or above their US and European counterparts, with median IRRs in the 25&ndash;35% range for completed deals. This performance reflects the combination of lower entry multiples (3x to 5x EBITDA versus 5x to 8x in the US), significant operational improvement opportunities, and growing exit options as the mid-market M&amp;A ecosystem matures. Colombia has produced the largest number of completed deals, driven by the IESE and Universidad de los Andes alumni networks and a growing base of <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">local and international investors</Link>.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks of acquiring a business in Latin America compared to the US or Europe?</h3>
+        <p>
+          According to the World Bank&rsquo;s Doing Business indicators and the Inter-American Development Bank (IDB), the primary risks for Latin American acquisitions include: (1) currency volatility, with major Latin American currencies experiencing 10&ndash;30% annual fluctuations against the USD over the past decade; (2) informal economy practices, where even formally incorporated businesses may have unreported cash transactions or informal employment arrangements; (3) political and regulatory instability, which varies by country but can include capital controls (Argentina), tax reform (Colombia, Brazil), and judicial uncertainty (Mexico); (4) weaker contract enforcement, with court proceedings averaging 2&ndash;4 years in most markets; and (5) infrastructure gaps in logistics, power, and connectivity outside major cities. Thorough <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, local legal counsel, and currency hedging strategies are essential mitigants.
+        </p>
+
+        <h3 className={h3Class}>Do I need to speak Spanish or Portuguese to run a search fund in Latin America?</h3>
+        <p>
+          Full professional fluency in Spanish (for Spanish-speaking markets) or Portuguese (for Brazil) is effectively non-negotiable. According to IESE&rsquo;s research on Latin American search funds, every successful searcher in the region has had native or near-native proficiency in the local language. Business negotiations, relationship-building with founders, employee management, and customer interactions all occur in the local language. The cultural dimension of <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> in Latin America&mdash;where personal trust (confianza) is the foundation of every deal&mdash;makes language proficiency inseparable from commercial effectiveness. Some searchers of Latin American heritage who grew up abroad have successfully leveraged their cultural fluency even when their business-language skills required development, but they invested heavily in immersion before launching their search.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>IESE Business School, <em>International Search Fund Study: Latin America</em> (2024)</li>
+          <li>Inter-American Development Bank (IDB), <em>SMEs in Latin America and the Caribbean</em> (2023)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

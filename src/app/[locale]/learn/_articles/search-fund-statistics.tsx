@@ -256,6 +256,30 @@ export default function SearchFundStatisticsArticle() {
           class. Researchers continue to refine the methodology with each
           biennial update.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How reliable are the published search fund return statistics?</h3>
+        <p>
+          The Stanford GSB study is the most comprehensive and widely cited dataset, but investors should be aware of several biases. Returns are self-reported, which introduces potential reporting bias &mdash; funds with poor outcomes are less likely to respond to surveys. The published IRR figures (35%+ aggregate) are pre-tax and gross of search-phase fees, meaning net investor returns are meaningfully lower. Additionally, survivorship bias may inflate results since not all search funds are captured in the database. Despite these limitations, the 681-fund sample over 40 years is statistically significant, and the general patterns &mdash; high variance, positive skew, and strong aggregate returns &mdash; are consistent across independent studies from IESE, INSEAD, and HEC Paris.
+        </p>
+
+        <h3 className={h3Class}>What is the typical search fund deal size, and how has it changed over time?</h3>
+        <p>
+          The median enterprise value of search fund acquisitions has approximately doubled over the past decade, from $5&ndash;$8M to $8&ndash;$15M according to the 2024 Stanford study. This increase reflects both asset price inflation and the entry of more institutional capital into the asset class. EBITDA at acquisition typically ranges from $1.5M&ndash;$4M, with purchase multiples of 4&ndash;7x EBITDA inclusive of all consideration. The upward trend in deal sizes has important implications for <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">portfolio construction</Link> &mdash; investors now need larger follow-on reserves, and total equity raised per acquisition has grown to $3M&ndash;$8M.
+        </p>
+
+        <h3 className={h3Class}>How do European search fund statistics compare to US data?</h3>
+        <p>
+          According to IESE Business School research, European search funds offer several statistical advantages over their US counterparts. Acquisition multiples average 3&ndash;5x EBITDA in Europe versus 4&ndash;7x in the US, providing a lower entry price. The European market features 23 million SMEs facing succession challenges and 450,000 annual ownership transitions. Returns for completed European acquisitions have been comparable to US funds, though the dataset is smaller (150+ active funds as of 2024 versus 681 cumulative in the Stanford database). The key risk is lower exit liquidity &mdash; Europe has fewer strategic acquirers and a less developed lower-middle-market PE ecosystem. France, Spain, and Germany are the most mature European markets. See our <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link> guide for detailed analysis.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2023)</li>
+          <li>INSEAD &amp; HEC Paris, <em>European Entrepreneurship Through Acquisition: Emerging Data</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

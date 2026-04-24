@@ -372,6 +372,67 @@ export default function AcquiringDaycareChildcareArticle() {
           scale, childcare is one of the most rewarding sectors in which
           to build a lasting business.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much does it cost to acquire a daycare or childcare center?</h3>
+        <p>
+          Childcare centers typically trade at 5&ndash;8x EBITDA. A well-run
+          single-location center generating $500K&ndash;$1.5M in EBITDA will
+          have a total enterprise value of $2.5M&ndash;$12M. Multi-location
+          operators command 6&ndash;8x due to reduced{" "}
+          <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link>{" "}
+          and demonstrated scalability. Premium programs such as Montessori or
+          language immersion in affluent markets can reach 7&ndash;9x. When
+          the facility is owned, real estate is typically valued separately and
+          structured as a lease-back arrangement. Total acquisition capital
+          (including working capital and any deferred maintenance) often exceeds
+          the headline purchase price by 10&ndash;15%.
+        </p>
+
+        <h3 className={h3Class}>What licensing requirements apply to childcare acquisitions?</h3>
+        <p>
+          Every childcare center operates under a state-issued license covering
+          staff qualifications, child-to-staff ratios, facility safety, health
+          protocols, and background check requirements. The critical diligence
+          question is how ownership transfer affects the license &mdash; some
+          states allow direct transfer, while others require a new application
+          that can take 30&ndash;90 days. Obtain the complete licensing history
+          for at least five years, including inspection reports, citations,
+          corrective actions, and complaints. Verify that the facility meets
+          current building codes, fire safety, ADA accessibility, and health
+          department regulations before closing.
+        </p>
+
+        <h3 className={h3Class}>How do I retain staff in a childcare business after acquisition?</h3>
+        <p>
+          Staff retention is the single most important operational priority in
+          childcare acquisitions. Industry-wide annual turnover averages
+          30&ndash;40%, driven by median childcare worker pay of roughly $14
+          per hour. Even modest wage increases of $1&ndash;$2 per hour, combined
+          with benefits such as health insurance, paid time off, and employee
+          childcare discounts, can dramatically reduce turnover. Building career
+          pathways from assistant teacher to lead teacher to director, funding
+          CDA credentials and continuing education, and creating a positive
+          workplace culture are all essential. Replacing a trained caregiver
+          costs $3,000&ndash;$5,000, so retention investments pay for themselves
+          quickly. A thoughtful{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>{" "}
+          plan is critical during the first 90 days.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong> &mdash; &ldquo;Child Care Services Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Child Care Aware of America</strong> &mdash; &ldquo;The State of Child Care in America &mdash; Supply, Demand, and Affordability,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Childcare Workers,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );
