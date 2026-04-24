@@ -70,7 +70,10 @@ export default function LegalDueDiligenceArticle() {
         <h2 className={h2Class}>Employment and labor</h2>
         <ul className={ulClass}>
           <li><strong>Employment agreements:</strong> Review all executive and key employee contracts, including compensation, non-competes, and severance provisions</li>
-          <li><strong>Non-compete and non-solicit agreements:</strong> Are key employees bound by restrictive covenants? Are these enforceable in the relevant jurisdiction?</li>
+          <li><strong>Non-compete and non-solicit agreements:</strong> Are key employees bound by{" "}
+            <Link href="/learn/non-compete-acquisition" className="text-apple-accent hover:underline">
+              restrictive covenants
+            </Link>? Are these enforceable in the relevant jurisdiction?</li>
           <li><strong>Employee classification:</strong> Independent contractor vs. employee misclassification creates significant liability. According to the American Bar Association M&amp;A Due Diligence Guide, worker classification issues are among the top five legal risks uncovered during acquisition due diligence</li>
           <li><strong>Benefits and pension obligations:</strong> 401(k), health insurance, deferred compensation, unfunded pension liabilities</li>
           <li><strong>WARN Act / TUPE compliance:</strong> In the US, the Worker Adjustment and Retraining Notification Act; in the EU, TUPE transfer of undertakings protections</li>
@@ -98,7 +101,11 @@ export default function LegalDueDiligenceArticle() {
         <h2 className={h2Class}>Regulatory and compliance</h2>
         <ul className={ulClass}>
           <li><strong>Industry-specific licenses:</strong> Professional licenses, contractor licenses, healthcare certifications. Critical: who holds them (owner personally or the company)?</li>
-          <li><strong>Data privacy:</strong> GDPR, CCPA, HIPAA compliance assessment</li>
+          <li><strong>Data privacy:</strong> GDPR, CCPA, HIPAA compliance assessment. Cross-border deals may trigger{" "}
+            <Link href="/learn/foreign-investment-screening" className="text-apple-accent hover:underline">
+              foreign investment screening
+            </Link>{" "}
+            requirements</li>
           <li><strong>Tax compliance:</strong> Sales tax nexus, payroll tax filings, any outstanding tax obligations or audits</li>
           <li><strong>Import/export:</strong> If applicable, customs compliance, trade restrictions</li>
         </ul>
@@ -143,7 +150,10 @@ export default function LegalDueDiligenceArticle() {
           For deal-killing issues discovered during legal DD &mdash; such as
           unresolvable title defects, material pending litigation, or
           regulatory non-compliance that threatens the operating license
-          &mdash; the buyer should have a clear termination right in the LOI
+          &mdash; the buyer should have a clear termination right in the{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
+            LOI
+          </Link>{" "}
           with recovery of any deposited funds and due diligence costs.
         </p>
 

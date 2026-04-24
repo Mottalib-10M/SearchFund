@@ -13,7 +13,11 @@ export default function BuyingVsStartingBusinessArticle() {
         <p>
           Should you acquire an existing business or start one from scratch?
           The data overwhelmingly favors acquisition for most aspiring
-          entrepreneurs. Startups have a 90% failure rate; acquired businesses
+          entrepreneurs &mdash; a conclusion reinforced by our{" "}
+          <Link href="/learn/sme-acquisition-guide" className="text-apple-accent hover:underline">
+            SME acquisition guide
+          </Link>.
+          Startups have a 90% failure rate; acquired businesses
           with $1M+ revenue have survival rates above 90%. This article
           compares both paths across every dimension that matters.
         </p>
@@ -133,8 +137,17 @@ export default function BuyingVsStartingBusinessArticle() {
           <li><strong>You prefer managing to building</strong> &mdash; you&rsquo;re a better operator than inventor</li>
           <li><strong>You value risk-adjusted returns</strong> &mdash; $5&ndash;15M in personal wealth is a great outcome</li>
           <li><strong>You have financial obligations</strong> (family, mortgage, debt) that preclude zero-income startup risk</li>
-          <li><strong>You want to be a CEO now</strong>, not in 5&ndash;10 years after climbing a corporate ladder</li>
+          <li><strong>You want to be a CEO now</strong>, not in 5&ndash;10 years after climbing a corporate ladder. Take our{" "}
+            <Link href="/learn/is-eta-right-for-you" className="text-apple-accent hover:underline">
+              ETA self-assessment
+            </Link>{" "}
+            to see if you fit the profile</li>
           <li><strong>You&rsquo;re 30&ndash;45</strong> with significant opportunity cost and limited appetite for startup-level risk</li>
+          <li><strong>You know{" "}
+            <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
+              what makes a good target
+            </Link></strong>{" "}
+            and want to apply systematic criteria rather than chase a startup idea</li>
         </ul>
 
         <h2 className={h2Class}>The hybrid approaches</h2>
@@ -176,6 +189,23 @@ export default function BuyingVsStartingBusinessArticle() {
             how much money you need
           </Link>{" "}
           to buy a business.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the failure rate of buying an existing business vs. starting one?</h3>
+        <p>
+          Startups have an approximately 90% failure rate over 10 years, with the steepest mortality in years 1&ndash;3. Acquired SMEs with established revenue and customers have survival rates of 85&ndash;95%. The key difference is proven product-market fit: an acquired business has already demonstrated that customers will pay for its products or services, eliminating the #1 reason startups fail.
+        </p>
+
+        <h3 className={h3Class}>How much money do you need to buy a business vs. starting one?</h3>
+        <p>
+          To acquire an SME using an SBA loan, you typically need 10&ndash;15% of the purchase price as an equity injection ($50K&ndash;$300K depending on deal size). A traditional search fund requires as little as $0&ndash;$50K personal capital. By contrast, startups require ongoing capital investment during the pre-revenue phase, often $200K&ndash;$2M+ before breakeven, with no guarantee of reaching profitability.
+        </p>
+
+        <h3 className={h3Class}>Can you get a salary immediately when buying a business?</h3>
+        <p>
+          Yes. Acquisition CEOs typically draw a salary of $150K&ndash;$300K from day one, funded by the business&rsquo;s existing cash flow. This is one of the biggest advantages over a startup, where founders commonly pay themselves $0&ndash;$80K in early years. In a search fund structure, you also earn 20&ndash;25% equity in the acquired company, creating significant wealth over a 5&ndash;7 year hold period.
         </p>
       </div>
     </article>

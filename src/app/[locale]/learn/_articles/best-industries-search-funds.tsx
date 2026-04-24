@@ -273,6 +273,53 @@ export default function BestIndustriesSearchFundsArticle() {
           </Link>{" "}
           reference.
         </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How important is industry experience when buying a search fund business?</h3>
+        <p>
+          Industry experience is valuable but not required for most
+          Tier 1 sectors. The Stanford data shows that first-time operators
+          without prior industry experience perform well in straightforward
+          industries like business services and home services, where
+          transferable management skills matter more than domain expertise.
+          Regulated industries like healthcare and financial services are the
+          exception &mdash; domain knowledge significantly reduces compliance
+          risk and accelerates the{" "}
+          <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
+            lifecycle
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>Do certain industries have higher search fund failure rates?</h3>
+        <p>
+          Yes. Industries with project-based revenue, high capital intensity,
+          or secular decline have disproportionately higher failure rates.
+          The Stanford data shows losses are more common in commodity
+          manufacturing, construction, and traditional retail. Our analysis
+          of{" "}
+          <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
+            why search funds fail
+          </Link>{" "}
+          identifies wrong industry selection as one of the nine most
+          common mistakes. Choosing an industry with structural tailwinds
+          provides a margin of safety that compensates for the
+          first-time-CEO learning curve.
+        </p>
+
+        <h3 className={h3Class}>How much do search fund-friendly industries typically cost to acquire?</h3>
+        <p>
+          Tier 1 industries trade at 3&ndash;8x EBITDA depending on the
+          sector: home services at 3&ndash;5.5x, business services at
+          4&ndash;6x, professional services at 4&ndash;7x, healthcare at
+          4&ndash;7x, and SaaS at 4&ndash;8x ARR. Our{" "}
+          <Link href="/learn/search-fund-cost" className="text-apple-accent hover:underline">
+            search fund cost guide
+          </Link>{" "}
+          breaks down the full capital requirements beyond just the
+          purchase multiple, including DD fees, legal costs, and working
+          capital needs.
+        </p>
       </div>
     </article>
   );

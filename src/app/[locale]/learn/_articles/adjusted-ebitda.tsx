@@ -162,7 +162,11 @@ export default function AdjustedEBITDAArticle() {
           Be aware of these tactics some sellers use to inflate EBITDA:
         </p>
         <ul className={ulClass}>
-          <li><strong>Channel stuffing:</strong> Pulling forward sales from future periods to inflate current-period revenue</li>
+          <li><strong>Channel stuffing:</strong> Pulling forward sales from future periods to inflate current-period revenue. A thorough{" "}
+            <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
+              financial due diligence
+            </Link>{" "}
+            process will catch this by analyzing monthly revenue trends</li>
           <li><strong>Deferred maintenance:</strong> Cutting necessary maintenance and capex to boost short-term EBITDA</li>
           <li><strong>Inventory manipulation:</strong> Understating COGS by not writing down obsolete inventory</li>
           <li><strong>Capitalizing expenses:</strong> Treating operating expenses as capital expenditures to keep them off the P&amp;L</li>
@@ -172,12 +176,20 @@ export default function AdjustedEBITDAArticle() {
 
         <h2 className={h2Class}>Practical tips for buyers</h2>
         <ul className={ulClass}>
-          <li><strong>Always calculate your own EBITDA</strong> from the raw financial statements before looking at the seller&rsquo;s adjusted figures</li>
+          <li><strong>Always calculate your own EBITDA</strong> from the raw{" "}
+            <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">
+              financial statements
+            </Link>{" "}
+            before looking at the seller&rsquo;s adjusted figures</li>
           <li><strong>Compare tax returns to P&amp;L:</strong> Tax returns are harder to manipulate. If reported income on tax returns is materially lower than the seller&rsquo;s stated EBITDA, investigate</li>
           <li><strong>Look at 3&ndash;5 years of data:</strong> One good year doesn&rsquo;t make a trend. Normalize across the full period</li>
           <li><strong>Understand capex requirements:</strong> EBITDA is meaningless if the business requires heavy reinvestment. Calculate free cash flow (EBITDA &minus; capex &minus; working capital changes)</li>
           <li><strong>Hire a QoE provider early:</strong> Don&rsquo;t wait until the end of diligence. Engage QoE as soon as the LOI is signed</li>
-          <li><strong>Negotiate based on verified EBITDA:</strong> Use the QoE-adjusted EBITDA as the basis for your final purchase price, not the seller&rsquo;s original claims</li>
+          <li><strong>Negotiate based on verified EBITDA:</strong> Use the QoE-adjusted EBITDA as the basis for your final purchase price in the{" "}
+            <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
+              LOI
+            </Link>{" "}
+            and purchase agreement, not the seller&rsquo;s original claims</li>
         </ul>
         <p>
           For a complete overview of how EBITDA drives deal pricing
@@ -189,6 +201,40 @@ export default function AdjustedEBITDAArticle() {
           <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">
             negotiation tactics
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the difference between EBITDA and adjusted EBITDA?</h3>
+        <p>
+          Standard EBITDA is calculated by adding back interest, taxes, depreciation,
+          and amortization to net income. Adjusted EBITDA goes further by normalizing
+          for items specific to the current owner &mdash; above-market owner
+          compensation, personal expenses run through the business, one-time legal
+          costs, and non-recurring items. Adjusted EBITDA represents the sustainable
+          cash earnings a new owner can expect and is the number used for valuation
+          and debt sizing in acquisitions.
+        </p>
+
+        <h3 className={h3Class}>How many add-backs are too many in adjusted EBITDA?</h3>
+        <p>
+          As a rule of thumb, if total add-backs exceed 30&ndash;40% of the stated
+          EBITDA, treat the adjustments with heavy skepticism. At that level, the
+          &ldquo;adjustments&rdquo; are doing more work than the business itself.
+          Two to four clearly documented, objectively verifiable add-backs (such as
+          above-market owner compensation and a one-time legal settlement) are normal.
+          Ten or more add-backs covering everything from marketing to travel is a
+          red flag.
+        </p>
+
+        <h3 className={h3Class}>Why is a Quality of Earnings report necessary?</h3>
+        <p>
+          A QoE report is a third-party financial analysis that independently validates
+          or refutes the seller&rsquo;s adjusted EBITDA. Lenders require it to size
+          the loan, and it typically catches 10&ndash;30% of claimed add-backs as
+          unsupported or inflated. The $20K&ndash;$80K cost is a fraction of the
+          overpayment risk it prevents. Engage a QoE provider as soon as the LOI is
+          signed &mdash; do not treat it as optional.
         </p>
       </div>
     </article>

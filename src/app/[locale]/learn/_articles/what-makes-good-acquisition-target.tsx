@@ -16,7 +16,11 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
           criteria over 40 years and 681+ search funds that define an
           &ldquo;ideal&rdquo; acquisition. This guide covers the essential
           characteristics, common disqualifiers, and how to build a
-          systematic screening process.
+          systematic screening process. Once you know what to look for, our{" "}
+          <Link href="/learn/sme-acquisition-guide" className="text-apple-accent hover:underline">
+            SME acquisition guide
+          </Link>{" "}
+          walks you through the full buying process.
         </p>
 
         <h2 className={h2Class}>The core criteria: what investors want</h2>
@@ -135,6 +139,11 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
           <li><strong>Flat revenue:</strong> Not growing but not declining &mdash; value creation comes from operational improvements</li>
           <li><strong>Key employee risk:</strong> Manageable with retention agreements and equity incentives</li>
           <li><strong>Below-average margins:</strong> May indicate pricing opportunity or operational inefficiency (upside potential)</li>
+          <li><strong>Owner near retirement:</strong> The{" "}
+            <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+              baby boomer succession wave
+            </Link>{" "}
+            creates motivated sellers, but ensure adequate transition planning</li>
         </ul>
 
         <h2 className={h2Class}>Top industries for search fund targets</h2>
@@ -175,7 +184,11 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
         </ul>
         <p>
           Expect to screen 100&ndash;200 opportunities, evaluate 20&ndash;40
-          deeply, and submit 3&ndash;8 LOIs before closing one deal. See{" "}
+          deeply, and submit 3&ndash;8 LOIs before closing one deal. Understanding{" "}
+          <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
+            how much capital you need
+          </Link>{" "}
+          helps you set realistic size parameters early. See{" "}
           <Link href="/learn/how-long-buy-business" className="text-apple-accent hover:underline">
             how long does it take to buy a business
           </Link>{" "}
@@ -191,6 +204,23 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             deal sourcing strategies
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What EBITDA range should a first-time buyer target?</h3>
+        <p>
+          For a traditional search fund, the ideal range is $1.5M&ndash;$5M EBITDA, which supports institutional investor return expectations and professional debt financing. Self-funded searchers typically target $750K&ndash;$2M EBITDA, where SBA loans and seller financing can cover most of the capital structure. Businesses below $500K EBITDA are harder to finance and often too owner-dependent, while those above $5M attract professional private equity competition.
+        </p>
+
+        <h3 className={h3Class}>How important is recurring revenue in an acquisition target?</h3>
+        <p>
+          Recurring revenue is the single most valued characteristic among search fund investors. Contractual recurring revenue (SaaS subscriptions, maintenance contracts, insurance renewals) provides predictable cash flow that supports leverage and reduces risk. However, &ldquo;repeat purchase&rdquo; behavior where customers buy regularly without formal contracts can be nearly as valuable. Businesses with 70%+ recurring revenue command premium multiples (5&ndash;8x EBITDA vs. 3&ndash;5x for project-based revenue).
+        </p>
+
+        <h3 className={h3Class}>What level of customer concentration is acceptable?</h3>
+        <p>
+          The ideal target has no single customer above 10% of revenue and the top 10 customers below 40% of total revenue. A single customer at 15&ndash;25% is a yellow flag that warrants a price discount and retention analysis, but is not a deal-killer. Any single customer above 40% of revenue is a hard disqualifier for most search fund investors, as losing that customer could collapse the entire business. Lenders also scrutinize customer concentration heavily when underwriting acquisition debt.
         </p>
       </div>
     </article>

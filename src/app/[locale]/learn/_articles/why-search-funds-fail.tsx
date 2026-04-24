@@ -325,8 +325,63 @@ export default function WhySearchFundsFailArticle() {
         <p>
           The search fund model works &mdash; the 40-year track record proves
           it. But it works best for those who study the failure modes, prepare
-          rigorously, and execute with discipline at every stage of the
-          lifecycle.
+          rigorously, and execute with discipline at every stage of the{" "}
+          <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
+            lifecycle
+          </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much does poor due diligence cost search fund investors?</h3>
+        <p>
+          Inadequate due diligence is responsible for an estimated 25&ndash;30%
+          of all search fund value destruction. The direct cost of professional
+          DD ($50K&ndash;$150K) pales in comparison to the millions lost when
+          issues like customer concentration, undisclosed liabilities, or
+          working capital misunderstandings surface post-close. Investing in a
+          thorough{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
+            quality of earnings analysis
+          </Link>{" "}
+          and a comprehensive{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence checklist
+          </Link>{" "}
+          is the single best insurance policy an acquirer can buy.
+        </p>
+
+        <h3 className={h3Class}>What is the survival rate after the first year of ownership?</h3>
+        <p>
+          The first 12&ndash;18 months are the highest-risk window.
+          Approximately 60&ndash;70% of total value destruction in failing
+          search funds occurs during this period. CEOs who follow a
+          structured{" "}
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
+            first 100 days playbook
+          </Link>{" "}
+          and resist the urge to make sweeping changes significantly improve
+          their odds. The Stanford data shows that search fund acquisitions
+          that survive the first two years with stable revenue have a much
+          higher probability of delivering positive returns.
+        </p>
+
+        <h3 className={h3Class}>Can choosing the wrong industry cause a search fund to fail?</h3>
+        <p>
+          Yes. Industry selection is one of the most consequential decisions
+          a searcher makes. Businesses in cyclical, capital-intensive, or
+          declining industries face structural headwinds that even excellent
+          operators struggle to overcome. The{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
+            best industries for search funds
+          </Link>{" "}
+          share characteristics like recurring revenue, low customer
+          concentration, and fragmented competition. Searchers who align
+          their industry choice with the{" "}
+          <Link href="/learn/search-fund-cost" className="text-apple-accent hover:underline">
+            economics of the search fund model
+          </Link>{" "}
+          dramatically reduce their risk of failure.
         </p>
       </div>
     </article>

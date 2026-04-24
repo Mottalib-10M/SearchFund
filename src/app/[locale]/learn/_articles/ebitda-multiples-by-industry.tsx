@@ -37,7 +37,11 @@ export default function EBITDAMultiplesByIndustryArticle() {
           range from 3x to 7x EBITDA, depending on the factors discussed below.
         </p>
         <p>
-          It is critical to use <em>adjusted</em> EBITDA &mdash; normalized for
+          It is critical to use{" "}
+          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
+            adjusted EBITDA
+          </Link>{" "}
+          &mdash; normalized for
           owner compensation, one-time expenses, and non-recurring items &mdash;
           rather than reported EBITDA. A{" "}
           <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
@@ -177,7 +181,11 @@ export default function EBITDAMultiplesByIndustryArticle() {
           <li><strong>Revenue growth:</strong> Companies growing 10%+ annually command 1&ndash;2 additional turns of EBITDA compared to flat-revenue peers</li>
           <li><strong>Revenue quality:</strong> Recurring/contractual revenue is valued at 1&ndash;3x higher multiples than project-based or one-time revenue</li>
           <li><strong>Size:</strong> Larger companies (&gt;$3M EBITDA) trade at higher multiples due to lower risk, better management depth, and more financing options</li>
-          <li><strong>Customer concentration:</strong> Each 10% of revenue from a single customer typically reduces the multiple by 0.25&ndash;0.5x</li>
+          <li><strong>Customer concentration:</strong> Each 10% of revenue from a single customer typically reduces the multiple by 0.25&ndash;0.5x. See our{" "}
+            <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
+              customer concentration guide
+            </Link>{" "}
+            for thresholds and mitigation strategies</li>
           <li><strong>Owner dependency:</strong> Businesses that can run without the owner command premium multiples</li>
           <li><strong>EBITDA margins:</strong> Higher-margin businesses (20%+ EBITDA) justify higher multiples due to cash flow resilience</li>
           <li><strong>Geography:</strong> US multiples are generally 1&ndash;2x higher than{" "}
@@ -231,8 +239,46 @@ export default function EBITDAMultiplesByIndustryArticle() {
             </Link></li>
           <li>Cross-reference with DCF analysis for businesses with clear growth trajectories</li>
           <li>Account for working capital normalization and capital expenditure requirements</li>
-          <li>Benchmark against recent comparable transactions (not just public company multiples)</li>
+          <li>Benchmark against recent{" "}
+            <Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">
+              comparable transactions
+            </Link>{" "}
+            (not just public company multiples)</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How do EBITDA multiples differ between SaaS and traditional businesses?</h3>
+        <p>
+          SaaS companies typically command 5.0&ndash;8.0x EBITDA (or 3&ndash;6x ARR),
+          significantly above most traditional industries. This premium is driven by
+          recurring revenue, high gross margins (&gt;70%), low churn, and strong
+          scalability. Traditional businesses like home services or manufacturing
+          typically trade at 3.0&ndash;5.5x EBITDA. The gap narrows when traditional
+          businesses have contractual recurring revenue, such as maintenance agreements
+          or long-term service contracts.
+        </p>
+
+        <h3 className={h3Class}>What factors can increase or decrease a business&rsquo;s EBITDA multiple?</h3>
+        <p>
+          Key premium drivers include revenue growth above 10% annually (adds 1&ndash;2
+          turns), recurring or contractual revenue (1&ndash;3x higher multiples),
+          larger size (&gt;$3M EBITDA), and high EBITDA margins (&gt;20%). Discount
+          factors include customer concentration, owner dependency, project-based
+          revenue, high capex requirements, and cyclical or declining industries.
+          Geography also matters &mdash; US multiples run 1&ndash;2x higher than
+          European equivalents.
+        </p>
+
+        <h3 className={h3Class}>Should I rely solely on EBITDA multiples to value a business?</h3>
+        <p>
+          No. EBITDA multiples are a useful starting point for benchmarking, but they
+          should be complemented by a discounted cash flow (DCF) analysis for businesses
+          with clear growth trajectories, a working capital analysis, and a thorough
+          review of capital expenditure requirements. Always use adjusted EBITDA
+          validated by a quality of earnings report, and cross-reference with recent
+          comparable transactions rather than relying on public market multiples alone.
+        </p>
       </div>
     </article>
   );

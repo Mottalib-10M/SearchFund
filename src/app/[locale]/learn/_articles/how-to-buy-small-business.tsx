@@ -15,8 +15,11 @@ export default function HowToBuySmallBusinessArticle() {
           creation and professional independence. Unlike starting from scratch,
           acquiring an existing business gives you immediate cash flow,
           established customers, proven operations, and a team already in place.
-          Whether you are a first-time buyer exploring entrepreneurship through
-          acquisition (ETA) or an experienced operator looking for your next
+          Whether you are a first-time buyer exploring{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            entrepreneurship through acquisition (ETA)
+          </Link>{" "}
+          or an experienced operator looking for your next
           venture, this guide walks through the complete process from initial
           decision to successful closing.
         </p>
@@ -339,8 +342,51 @@ export default function HowToBuySmallBusinessArticle() {
           <Link href="/learn/eta-reading-list" className="text-apple-accent hover:underline">
             essential ETA reading list
           </Link>,
-          building your network, and defining your acquisition thesis. The best
-          time to start preparing is now.
+          building your network, and defining your acquisition thesis. The{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession wave
+          </Link>{" "}
+          means the supply of quality businesses for sale is at an all-time
+          high, making now the best time to start preparing.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the best way to find a small business to buy?</h3>
+        <p>
+          The most effective acquirers use a combination of business brokers,
+          direct outreach to owners, online marketplaces, and professional
+          networks. Direct proprietary outreach typically yields the best
+          deals at lower multiples because you avoid competition from other
+          buyers. Our{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+            deal sourcing strategies guide
+          </Link>{" "}
+          covers each channel in detail.
+        </p>
+
+        <h3 className={h3Class}>How much equity do I need to buy a small business?</h3>
+        <p>
+          Most small business acquisitions require 10 to 25 percent of the
+          purchase price as equity. For a $2M deal, that means $200K to
+          $500K in equity, with the remainder financed through bank debt
+          (SBA 7(a) loans in the US) and seller financing. In a traditional
+          search fund, investor equity covers the bulk of this requirement,
+          so the searcher contributes primarily sweat equity rather than cash.
+        </p>
+
+        <h3 className={h3Class}>Should I buy a business in an industry I already know?</h3>
+        <p>
+          Prior industry experience helps but is not required. Most
+          successful search fund CEOs acquire companies outside their prior
+          industry. The transferable skills that matter most are leadership,
+          financial management, sales oversight, and strategic thinking.
+          That said, developing a solid understanding of your target industry
+          during due diligence is essential, and building an{" "}
+          <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">
+            advisory board
+          </Link>{" "}
+          with domain expertise compensates for gaps in personal experience.
         </p>
       </div>
     </article>

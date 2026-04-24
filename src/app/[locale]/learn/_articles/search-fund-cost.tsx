@@ -184,7 +184,53 @@ export default function SearchFundCostArticle() {
           <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
             searcher compensation
           </Link>{" "}
-          guide for detailed economics.
+          guide for detailed economics, and study the{" "}
+          <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
+            common mistakes that destroy value
+          </Link>{" "}
+          so you can protect your investment.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the minimum personal capital needed for a search fund?</h3>
+        <p>
+          In a traditional search fund, the minimum personal capital is
+          effectively $0 &mdash; investors fund the entire search and
+          acquisition. Some investors request $10K&ndash;$50K as &ldquo;skin
+          in the game,&rdquo; but it is not universal. For self-funded
+          searchers using SBA financing, the minimum equity injection is
+          typically 10&ndash;15% of the deal size, meaning a $2M acquisition
+          requires $200K&ndash;$300K in personal or investor equity.
+        </p>
+
+        <h3 className={h3Class}>How do search fund costs compare across different industries?</h3>
+        <p>
+          Costs vary significantly by sector. SaaS and technology
+          acquisitions command higher multiples (4&ndash;8x ARR) but have
+          lower ongoing capex. Home services and business services trade at
+          lower multiples (3&ndash;6x EBITDA) but may require working capital
+          for equipment or vehicles. Our{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
+            industry ranking guide
+          </Link>{" "}
+          details typical multiples, margins, and capital requirements for
+          each sector.
+        </p>
+
+        <h3 className={h3Class}>What hidden costs do first-time search fund entrepreneurs miss?</h3>
+        <p>
+          The most commonly overlooked costs include working capital
+          adjustments at closing ($50K&ndash;$200K), post-acquisition
+          technology and system upgrades ($20K&ndash;$100K), key employee
+          retention bonuses ($25K&ndash;$75K), and the personal income gap
+          during the 2&ndash;3 year search-to-stabilization period. Building
+          a realistic{" "}
+          <Link href="/learn/how-long-buy-business" className="text-apple-accent hover:underline">
+            timeline
+          </Link>{" "}
+          helps estimate total personal financial exposure before launching
+          the search.
         </p>
       </div>
     </article>

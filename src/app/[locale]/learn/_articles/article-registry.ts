@@ -231,16 +231,21 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "ETA explained: search funds, self-funded searches, independent sponsors. 681 funds, 35% IRR, and the complete lifecycle from search to exit.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
+      { name: "European Commission", title: "SME Performance Review — Business Transfers", year: 2024 },
     ],
     faqs: [
       { question: "What does ETA stand for?", answer: "ETA stands for Entrepreneurship Through Acquisition. It is a path to business ownership where an individual acquires an existing, profitable company rather than building one from scratch. The model was pioneered at Stanford GSB in 1984." },
       { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1–20M vs $100M+ for PE), involves a single operator-CEO rather than a professional management team, and uses step-up equity instead of 2/20 fee structures. The operator becomes the full-time CEO and runs the business day-to-day." },
       { question: "What is the success rate of ETA?", answer: "Approximately 67% of traditional search funds successfully complete an acquisition. Among those that acquire, about two-thirds generate positive returns for investors, with a 35% aggregate IRR across the full dataset of 681 funds over 40 years." },
+      { question: "How much money do you need to start an ETA journey?", answer: "It depends on the model. In a traditional search fund, investors provide $400,000–$600,000 in search capital, so the searcher needs little personal capital upfront. In a self-funded search, entrepreneurs typically invest $50,000–$150,000 of personal savings to cover living expenses and deal-sourcing costs during the search phase." },
+      { question: "What industries are best suited for ETA?", answer: "The ideal ETA targets are profitable, stable businesses in fragmented industries with recurring revenue. Popular sectors include SaaS, healthcare services, professional services, home services, and manufacturing. The key is finding businesses with 15–25% EBITDA margins, low customer concentration, and a retiring or disengaged owner." },
+      { question: "How long does the entire ETA process take from start to exit?", answer: "The full ETA lifecycle typically spans five to eight years. Preparation takes 3–6 months, fundraising 2–4 months (traditional model only), the search 12–24 months, due diligence and closing 2–4 months, and operations 3–7 years before exit." },
     ],
   },
   {
@@ -255,10 +260,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "From fundraising to exit — understand how search funds work, key statistics, and why ETA is one of the best paths to becoming a CEO.",
     datePublished: "2024-03-12",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub — European Research and Community", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is a search fund?", answer: "A search fund is an investment vehicle where an entrepreneur raises capital from investors to fund a full-time search for, acquisition of, and operation of a single privately held company. The model was pioneered at Stanford GSB in 1984." },
@@ -266,6 +272,9 @@ export const allArticles: ArticleMeta[] = [
       { question: "What returns do search funds generate?", answer: "According to the Stanford 2024 Study, search funds have generated aggregate pre-tax returns of approximately 35% IRR and 4.5x MOIC across 681 funds since 1984." },
       { question: "Do you need an MBA to start a search fund?", answer: "No. While many searchers hold MBAs from schools like Stanford, Harvard, and IESE, the model is increasingly open to professionals with operating experience, industry expertise, and strong networks regardless of educational background." },
       { question: "How long does a search fund take?", answer: "The typical search fund lifecycle spans 5–8 years: 3–6 months fundraising, 18–24 months searching, 3–6 months closing the acquisition, and 4–7 years operating the company before exit." },
+      { question: "What is the difference between a search fund and private equity?", answer: "A search fund acquires a single company in the $2M–$20M enterprise value range, with the searcher becoming the full-time CEO. Private equity firms manage diversified portfolios of much larger companies ($100M+) and install professional management teams. Search funds use a step-up equity model rather than the 2-and-20 fee structure." },
+      { question: "How do search fund investors make money?", answer: "Investors contribute search capital ($30K–$50K per unit) and then have the right to co-invest in the acquisition. Their search capital converts at a 1.5x–2.0x step-up, and they share in the value created when the company is eventually sold, typically 5–7 years after acquisition." },
+      { question: "Can you start a search fund outside the United States?", answer: "Yes. The search fund model has been successfully adapted across Europe, Latin America, and Asia. European search funds have grown from fewer than 10 per year in 2010 to over 80 per year as of 2024, with strong activity in France, Germany, Spain, and the UK." },
     ],
   },
   {
@@ -304,14 +313,19 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "35% aggregate IRR, 4.5x ROIC over 40 years. Learn how search fund investing works, how to evaluate searchers, and why Europe is the next frontier.",
     datePublished: "2024-04-15",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub — Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is the typical return on search fund investments?", answer: "Search funds have delivered a 35% aggregate IRR and 4.5x return on invested capital over 40 years of data tracked by Stanford GSB, making them one of the highest-returning alternative asset classes." },
       { question: "How much capital does a search fund investor need?", answer: "Most search fund investors commit $50,000–$200,000 per deal during the search phase, with additional capital at acquisition. Building a diversified portfolio typically requires $500K–$2M across 5–10 funds." },
       { question: "What are the risks of search fund investing?", answer: "Key risks include searcher execution risk (~33% of funds don't complete an acquisition), concentration in small businesses, illiquidity (5–7 year hold periods), and key-person dependence on the operator." },
+      { question: "How do search fund returns compare to venture capital?", answer: "Search funds have delivered a 35% aggregate IRR over 40 years, compared to roughly 15–25% for top-quartile VC funds. Search fund returns are less concentrated, and investments have real assets and cash flow from day one, reducing the risk of total loss common in early-stage VC." },
+      { question: "What is the minimum time commitment for a search fund investor?", answer: "Passive investors spend 2–4 hours per month reviewing updates. Board-seat investors commit 8–12 hours per month per company, attending quarterly board meetings, advising on strategy, and helping with key hires." },
+      { question: "Can I invest in search funds through a fund-of-funds structure?", answer: "Yes. Several institutional platforms offer fund-of-funds vehicles providing diversified exposure to multiple search funds, reducing single-deal risk and lowering the time commitment. However, direct investing typically offers better returns and more control." },
     ],
   },
   {
@@ -326,16 +340,20 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "From defining your thesis to closing the deal — the complete guide to buying a small business. Financing, sourcing, DD, negotiation, and transition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "SBA", title: "Small Business Acquisition Lending Guide", year: 2024 },
+      { name: "SBA", title: "Small Business Acquisition Lending Guide", url: "https://www.sba.gov/funding-programs/loans", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "The Handbook of Financing Growth", year: 2023 },
     ],
     faqs: [
       { question: "How much does it cost to buy a small business?", answer: "Small businesses typically sell for 2–6x their annual EBITDA. A business earning $500K EBITDA might cost $1.5–3M. You'll need 10–25% as a down payment ($150K–$750K), with the rest financed through SBA loans, seller financing, and potentially investor equity." },
       { question: "How long does it take to buy a small business?", answer: "From first search to closing, buying a small business typically takes 12–24 months. The search phase averages 12–18 months, followed by 60–90 days of due diligence and closing. Some self-funded acquirers close faster (6–12 months) with a targeted industry approach." },
       { question: "Can I buy a business with no experience?", answer: "Yes, but it's harder. The search fund model is designed for first-time operators — about 85% of traditional searchers are acquiring a business for the first time. Industry experience, strong analytical skills, and a supportive investor/advisory network compensate for direct ownership experience." },
+      { question: "What is the best way to find a small business to buy?", answer: "The most effective acquirers use a combination of business brokers, direct outreach to owners, online marketplaces, and professional networks. Direct proprietary outreach typically yields the best deals at lower multiples because you avoid competition from other buyers." },
+      { question: "How much equity do I need to buy a small business?", answer: "Most small business acquisitions require 10–25% of the purchase price as equity. For a $2M deal, that means $200K–$500K in equity, with the remainder financed through bank debt (SBA 7(a) loans in the US) and seller financing." },
+      { question: "Should I buy a business in an industry I already know?", answer: "Prior industry experience helps but is not required. Most successful search fund CEOs acquire companies outside their prior industry. The transferable skills that matter most are leadership, financial management, sales oversight, and strategic thinking." },
     ],
   },
   {
@@ -350,16 +368,21 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "10M US businesses and 450,000 EU transfers per year. Why the boomer succession wave creates unprecedented opportunities for ETA buyers.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "US Census Bureau", title: "Annual Business Survey: Business Owner Demographics", year: 2023 },
       { name: "European Commission", title: "SME Performance Review — Business Transfers", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
+      { name: "Bpifrance", title: "Transmission-Reprise: Panorama des Cessions et Reprises d'Entreprise", url: "https://www.bpifrance.fr/nos-solutions/transmission-reprise", year: 2024 },
+      { name: "National Bureau of Economic Research", title: "Business Dynamics of Baby Boomer Retirements", year: 2023 },
     ],
     faqs: [
       { question: "How many businesses are baby boomers selling?", answer: "In the US, approximately 10 million businesses are owned by people aged 55+, representing roughly $10 trillion in enterprise value. In Europe, 450,000 businesses change hands annually. The pace will accelerate through the 2030s as the peak boomer cohort reaches retirement age." },
       { question: "Why can't business owners pass their business to family?", answer: "Only 20–30% of family business transitions succeed. Children increasingly pursue different careers, may lack management skills, or face family dynamics that complicate succession. Smaller family sizes also mean fewer potential successors per business." },
+      { question: "How many baby boomer businesses are for sale right now?", answer: "In the United States, approximately 10 million businesses are owned by people aged 55 and older, representing roughly $10 trillion in enterprise value. In Europe, 450,000 businesses undergo ownership transfer annually. Fewer than 25% of these owners have a formal succession plan." },
+      { question: "Why are baby boomer businesses good acquisition targets?", answer: "Boomer-owned businesses often have decades of stable cash flow, loyal customer bases, and established operations. Many have been managed conservatively with limited investment in technology and marketing, creating significant upside for a new owner-operator. The supply-demand imbalance also means buyers can negotiate favorable pricing and seller financing terms." },
+      { question: "What is the best way to find succession-driven deals?", answer: "The most effective approach combines direct outreach to aging business owners with relationships through accountants, wealth advisors, and business brokers who counsel retiring entrepreneurs. Many succession-driven deals never reach the open market, so proprietary deal sourcing is essential." },
     ],
   },
   {
@@ -374,16 +397,20 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Overpaying, poor DD, failed transitions, excessive leverage — the 9 most common reasons search funds lose money, backed by Stanford data.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
+      { name: "Brookings Institution", title: "Small Business Acquisition Failure Rates", url: "https://www.brookings.edu/articles/small-business-acquisition-failure/", year: 2023 },
     ],
     faqs: [
       { question: "What percentage of search funds fail?", answer: "About 33% of traditional search funds never complete an acquisition (returning unused capital to investors). Of those that do acquire, roughly one-third lose some or all invested capital. However, the overall asset class still generates strong returns because the winners more than offset the losers." },
       { question: "What is the #1 reason search funds fail?", answer: "Overpaying for the acquisition is the single most common cause of search fund failure. After months of searching, deal fatigue leads searchers to stretch on valuation, rationalize aggressive projections, or ignore red flags — compressing returns to the point where there's no margin for error." },
       { question: "Can you recover from a bad search fund acquisition?", answer: "Recovery is possible but difficult. The key is early recognition, transparent communication with investors, and decisive action. Options include operational restructuring, debt renegotiation, seeking additional equity, or in some cases, a managed wind-down. Hiding problems always makes them worse." },
+      { question: "How much does poor due diligence cost search fund investors?", answer: "Inadequate due diligence is responsible for an estimated 25–30% of all search fund value destruction. The direct cost of professional DD ($50K–$150K) pales in comparison to the millions lost when issues like customer concentration, undisclosed liabilities, or working capital misunderstandings surface post-close." },
+      { question: "What is the survival rate after the first year of ownership?", answer: "The first 12–18 months are the highest-risk window. Approximately 60–70% of total value destruction in failing search funds occurs during this period. CEOs who follow a structured first 100 days playbook and resist the urge to make sweeping changes significantly improve their odds." },
+      { question: "Can choosing the wrong industry cause a search fund to fail?", answer: "Yes. Industry selection is one of the most consequential decisions a searcher makes. Businesses in cyclical, capital-intensive, or declining industries face structural headwinds that even excellent operators struggle to overcome. The best industries for search funds share characteristics like recurring revenue, low customer concentration, and fragmented competition." },
     ],
   },
   {
@@ -421,15 +448,19 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Fundraise → Search → Acquire → Operate → Exit. The complete 7–10 year search fund lifecycle with timelines, milestones, economics, and common mistakes at each stage.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
+      { name: "Search Fund Accelerator", title: "Lifecycle Benchmarks Report", year: 2024 },
     ],
     faqs: [
       { question: "How long does the search fund lifecycle take?", answer: "The complete lifecycle from fundraise to exit typically spans 7–10 years: 3–6 months to fundraise, 12–24 months to search, 3–9 months to close the acquisition, 4–7 years of operations, and then an exit event. Self-funded searchers can compress this by skipping the fundraise." },
       { question: "What happens if a searcher doesn't find a company?", answer: "About 33% of traditional search funds never complete an acquisition. In this case, the searcher typically winds down the fund, returns any unused search capital to investors (who lose the spent portion), and moves on — often to a corporate role, another search, or joining a portfolio company." },
+      { question: "How much does each stage of the search fund lifecycle cost?", answer: "The fundraise and search phases together cost $400K–$600K in investor-funded search capital. The acquisition phase adds $50K–$150K in due diligence and transaction fees, plus the acquisition equity itself ($2M–$10M+). Self-funded searchers bear these costs personally but retain significantly more equity." },
+      { question: "What percentage of search funds make it through all five stages?", answer: "Approximately 67% of traditional search funds complete an acquisition (Stages 1–3). Of those, roughly two-thirds generate positive returns for investors through the operations and exit stages." },
+      { question: "Can the search fund lifecycle be shortened?", answer: "Yes. Self-funded searchers skip the fundraise stage entirely, and searchers with strong industry theses and broker networks often compress the search from 18–24 months to 6–12. SBA pre-qualification and full-time searching are the biggest accelerators." },
     ],
   },
   {
@@ -444,14 +475,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "6–24 months depending on approach. Breakdown of every phase: prep (1–3 months), sourcing (2–12), LOI (2–6 weeks), DD (45–120 days), and closing (2–4 weeks).",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "BizBuySell", title: "Insight Report: Business Sales Statistics", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Processing Times", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
       { question: "How long does it take to buy a business?", answer: "For self-funded searchers working full-time, expect 6–18 months from start to close. Part-time searchers take 12–24 months. Traditional search funds take 18–30 months including the fundraise. If you have a known target, a direct acquisition can close in 3–9 months." },
       { question: "What is the longest part of buying a business?", answer: "Deal sourcing is typically the longest phase (2–12 months), followed by due diligence (45–120 days). The single biggest variable is seller responsiveness — organized sellers save weeks, while disorganized sellers can add months to the process." },
+      { question: "Can I speed up the acquisition timeline?", answer: "Yes, several actions meaningfully compress timelines. Getting SBA pre-qualification before you identify a target eliminates 2–4 weeks of financing uncertainty. Hiring experienced M&A counsel and searching full-time rather than part-time are the biggest accelerators — BizBuySell data suggests full-time searchers close 50–100% faster." },
+      { question: "What causes deals to fall through after the LOI is signed?", answer: "The most common deal-killers after LOI signing are due diligence discoveries (undisclosed liabilities, financial discrepancies, or customer concentration), financing failures (SBA underwriting rejection), and seller cold feet. Approximately 30–50% of deals that reach LOI stage fail to close." },
+      { question: "Should I search for a business full-time or part-time?", answer: "If your financial situation allows it, full-time searching is significantly more effective. Full-time searchers typically close in 6–18 months, while part-time searchers take 12–24 months. The difference comes from faster response times, more capacity for broker relationships, and the ability to conduct deeper analysis." },
     ],
   },
   {
@@ -466,15 +501,19 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Business services, SaaS, healthcare, home services, professional services — ranked by recurring revenue, fragmentation, margins, and search fund success rates.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
+      { name: "IBISWorld", title: "Industry Market Research & Statistics", url: "https://www.ibisworld.com/", year: 2024 },
     ],
     faqs: [
       { question: "What is the best industry to buy a business in?", answer: "Business services is the most popular search fund industry (~25% of all acquisitions), followed by healthcare (~15%) and technology/SaaS (~12%). The best industry depends on your background, but ideal targets share common traits: recurring revenue, low customer concentration, fragmented markets, and non-cyclical demand." },
       { question: "What industries should search fund buyers avoid?", answer: "Industries to approach with caution include restaurants (low margins, high failure rates), physical retail (e-commerce disruption), general construction (project-based, cyclical), commodity manufacturing (no differentiation), and media/publishing (structural decline). These lack the recurring revenue and margin characteristics that make acquisitions financeable and manageable." },
+      { question: "How important is industry experience when buying a search fund business?", answer: "Industry experience is valuable but not required for most Tier 1 sectors. First-time operators without prior industry experience perform well in straightforward industries like business services and home services, where transferable management skills matter more than domain expertise. Regulated industries like healthcare and financial services are the exception." },
+      { question: "Do certain industries have higher search fund failure rates?", answer: "Yes. Industries with project-based revenue, high capital intensity, or secular decline have disproportionately higher failure rates. The Stanford data shows losses are more common in commodity manufacturing, construction, and traditional retail." },
+      { question: "How much do search fund-friendly industries typically cost to acquire?", answer: "Tier 1 industries trade at 3–8x EBITDA depending on the sector: home services at 3–5.5x, business services at 4–6x, professional services at 4–7x, healthcare at 4–7x, and SaaS at 4–8x ARR." },
     ],
   },
   {
@@ -489,14 +528,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$400K–$600K search capital, $0–$50K personal (traditional) vs. $50K–$350K (self-funded). The complete cost breakdown for starting a search fund.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
       { question: "How much does it cost to start a search fund?", answer: "A traditional search fund requires $400K–$600K in search capital (funded by investors), with the searcher investing $0–$50K personal capital. Self-funded searchers need $50K–$350K total personal investment covering search expenses, living costs, and the equity injection for the acquisition." },
       { question: "Do search fund entrepreneurs need their own money?", answer: "In a traditional search fund, no — investors fund the search capital and acquisition equity. The searcher earns 20–25% equity through sweat equity. Some investors request $10K–$50K personal 'skin in the game' for alignment, but it's not universal." },
+      { question: "What is the minimum personal capital needed for a search fund?", answer: "In a traditional search fund, the minimum personal capital is effectively $0 — investors fund the entire search and acquisition. For self-funded searchers using SBA financing, the minimum equity injection is typically 10–15% of the deal size, meaning a $2M acquisition requires $200K–$300K in personal or investor equity." },
+      { question: "How do search fund costs compare across different industries?", answer: "Costs vary significantly by sector. SaaS and technology acquisitions command higher multiples (4–8x ARR) but have lower ongoing capex. Home services and business services trade at lower multiples (3–6x EBITDA) but may require working capital for equipment or vehicles." },
+      { question: "What hidden costs do first-time search fund entrepreneurs miss?", answer: "The most commonly overlooked costs include working capital adjustments at closing ($50K–$200K), post-acquisition technology and system upgrades ($20K–$100K), key employee retention bonuses ($25K–$75K), and the personal income gap during the 2–3 year search-to-stabilization period." },
     ],
   },
   {
@@ -511,7 +554,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "$0 (search fund) to $350K+ (self-funded). Capital requirements by deal size ($500K to $10M+), financing approach (SBA, bank, creative), and hidden costs.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "SBA", title: "7(a) Loan Program Requirements", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
@@ -520,6 +563,9 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "How much money do you need to buy a small business?", answer: "For an SBA-financed acquisition, you need 10–15% equity injection: $50K–$100K for a $500K–$1M business, $100K–$300K for a $1M–$3M business. With a traditional search fund, investors fund the equity and your personal capital requirement is $0–$50K." },
       { question: "What are the hidden costs of buying a business?", answer: "Beyond the purchase price, budget for: due diligence ($50K–$150K for QoE, legal, environmental), transaction legal fees ($30K–$100K), lender fees (1–3% of loan), working capital reserves (2–3 months of operating expenses), and 3–6 months of personal living expenses." },
+      { question: "Can you buy a business with no money down?", answer: "Yes, but it requires specific structures. The traditional search fund model lets you acquire a business with as little as $0–$50K of personal capital because investors fund both the search and the acquisition equity. Creative approaches like maximum seller financing, earn-in arrangements, and ROBS rollovers can also dramatically reduce personal capital requirements." },
+      { question: "How much equity do I need for an SBA loan to buy a business?", answer: "SBA 7(a) loans require a minimum equity injection of 10–15% of the total project cost. For a $1M business, that means $100K–$150K in equity. Seller financing can sometimes count toward the equity injection, reducing your personal cash outlay." },
+      { question: "What is the total cost of buying a business beyond the purchase price?", answer: "Plan for 15–25% above the purchase price in additional costs including due diligence ($50K–$150K), transaction legal fees ($30K–$100K), lender fees (1–3% of loan), working capital reserves (2–3 months of operating expenses), and 3–6 months of personal living expenses." },
     ],
   },
   {
@@ -534,14 +580,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Risk tolerance, resilience, financial runway, opportunity cost — rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is the right path.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Note on Search Funds", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "What personality traits predict success in ETA?", answer: "Research shows that bias for action, comfort with ambiguity, resilience, intellectual curiosity, and leadership instinct correlate most strongly with search fund CEO success. Red flags include need for prestige, impatience with people, and inability to delegate." },
       { question: "How much money do you need personally before starting ETA?", answer: "For a traditional search fund, $0–$50K personal capital (investors fund everything). For self-funded search, $100K–$350K covering living expenses (18 months), search costs, and equity injection. Regardless of model, maintain a 3–6 month emergency fund beyond your search budget." },
+      { question: "What is the ideal age to start a search fund?", answer: "Most successful search fund CEOs start between ages 28 and 35, typically 2–7 years after completing an MBA or gaining equivalent professional experience. Younger searchers benefit from low personal obligations, while experienced operators (35–45) often prefer self-funded search." },
+      { question: "Do I need an MBA to pursue ETA?", answer: "No. While many searchers come from MBA programs, an MBA is not required. Investors evaluate your professional track record, communication skills, and coachability more than your degree. Self-funded searchers rely on operational experience and personal capital rather than academic credentials." },
+      { question: "How long does the search phase typically last?", answer: "The search phase typically lasts 12–24 months for a traditional search fund. Self-funded searchers may find a target in 6–18 months. About 25–30% of searchers never close a deal, usually because they search too broadly or underestimate the emotional toll." },
     ],
   },
   {
@@ -556,7 +606,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "From defining criteria to closing day — the complete 8-step guide for first-time SME buyers. Advisory team, deal sourcing, screening, DD, financing, and transition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
@@ -565,6 +615,9 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What is an SME acquisition?", answer: "An SME (Small and Medium-sized Enterprise) acquisition is the purchase of an existing business typically with $2M–$20M revenue and 20–200 employees. Unlike startup founding, you inherit existing revenue, customers, and systems. The search fund model is the most popular framework for first-time SME acquirers." },
       { question: "How long does an SME acquisition take from start to finish?", answer: "Expect 12–24 months from first search to closing for a traditional search fund, and 6–18 months for a self-funded search. The typical breakdown: search and screening (6–18 months), LOI to close (3–6 months), with due diligence (60–90 days) and financing (30–60 days) running in parallel." },
+      { question: "What is the best size of business to acquire as a first-time buyer?", answer: "For most first-time acquirers, businesses with $1M–$3M EBITDA and $5M–$15M revenue represent the sweet spot. Self-funded searchers often target $750K–$2M EBITDA, while traditional search funds aim for $1.5M–$5M EBITDA to satisfy investor return requirements." },
+      { question: "Do I need industry experience to acquire an SME?", answer: "No. The majority of successful search fund acquisitions involve buyers with no prior experience in the target industry. What matters more is general management ability, financial literacy, and the willingness to learn quickly." },
+      { question: "How many businesses should I evaluate before making an offer?", answer: "Expect to screen 100–200 opportunities at a high level, evaluate 20–40 in depth, and submit 3–8 Letters of Intent before closing one deal. Building strong relationships with 10–20 business brokers in your target markets maintains consistent deal flow." },
     ],
   },
   {
@@ -579,15 +632,19 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "90% startup failure rate vs. 85–95% SME survival. Revenue from day one vs. 18–48 months to breakeven. The data-driven comparison of buying vs. building a business.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "US Bureau of Labor Statistics", title: "Business Employment Dynamics — Survival Rates", year: 2023 },
       { name: "CB Insights", title: "Top Reasons Startups Fail", year: 2023 },
+      { name: "Kauffman Foundation", title: "State of Entrepreneurship Report", url: "https://www.kauffman.org/entrepreneurship/reports/", year: 2024 },
     ],
     faqs: [
       { question: "Is it better to buy a business or start one?", answer: "For most aspiring entrepreneurs, buying is statistically superior. Acquired SMEs have 85–95% survival rates vs. 10–20% for startups over 5 years. You get revenue from day one, proven product-market fit, and established financing options. Startups make more sense when you have genuine innovation and are comfortable with a 90% failure rate for venture-scale upside." },
       { question: "What are the advantages of buying an existing business?", answer: "Immediate cash flow, proven business model, existing customers and employees, bank financing available (SBA, etc.), CEO-level salary from day one ($150K–$300K), and lower risk of total failure. The main downside is acquisition debt and the challenge of managing an inherited organization." },
+      { question: "What is the failure rate of buying an existing business vs. starting one?", answer: "Startups have an approximately 90% failure rate over 10 years. Acquired SMEs with established revenue have survival rates of 85–95%. The key difference is proven product-market fit: an acquired business has already demonstrated that customers will pay for its products or services." },
+      { question: "How much money do you need to buy a business vs. starting one?", answer: "To acquire an SME using an SBA loan, you typically need 10–15% of the purchase price as equity ($50K–$300K). A traditional search fund requires $0–$50K personal capital. Startups require ongoing investment of $200K–$2M+ before breakeven with no guarantee of profitability." },
+      { question: "Can you get a salary immediately when buying a business?", answer: "Yes. Acquisition CEOs typically draw a salary of $150K–$300K from day one, funded by the business existing cash flow. Startup founders commonly pay themselves $0–$80K in early years. In a search fund, you also earn 20–25% equity creating significant wealth over a 5–7 year hold period." },
     ],
   },
   {
@@ -602,14 +659,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Recurring revenue, fragmented industry, low customer concentration, $1.5–5M EBITDA, management beyond owner — the 7 criteria that define an ideal search fund target.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder", title: "Search Fund Database and Community Insights", url: "https://www.searchfunder.com", year: 2025 },
     ],
     faqs: [
       { question: "What do search fund investors look for in an acquisition target?", answer: "The ideal target has: (1) recurring or highly predictable revenue, (2) fragmented industry with no dominant player, (3) no customer above 10% of revenue, (4) $1.5M–$5M EBITDA with 15%+ margins, (5) management team beyond the owner, (6) defensible competitive position, and (7) reasonable valuation (3–6x EBITDA)." },
       { question: "What disqualifies a business from being a good search fund target?", answer: "Hard disqualifiers include: revenue declining for 3+ years, single customer above 40% of revenue, owner IS the business (no transferable systems), unquantifiable legal exposure, and no clear path to financing. Moderate issues like 15–25% customer concentration or flat revenue are negotiation points, not deal-killers." },
+      { question: "What EBITDA range should a first-time buyer target?", answer: "For a traditional search fund, the ideal range is $1.5M–$5M EBITDA. Self-funded searchers typically target $750K–$2M EBITDA. Businesses below $500K EBITDA are harder to finance and often too owner-dependent, while those above $5M attract professional private equity competition." },
+      { question: "How important is recurring revenue in an acquisition target?", answer: "Recurring revenue is the single most valued characteristic among search fund investors. Businesses with 70%+ recurring revenue command premium multiples (5–8x EBITDA vs. 3–5x for project-based revenue). Contractual recurring revenue like SaaS subscriptions and maintenance contracts provides predictable cash flow that supports leverage." },
+      { question: "What level of customer concentration is acceptable?", answer: "The ideal target has no single customer above 10% of revenue and the top 10 customers below 40% of total revenue. A single customer at 15–25% warrants a price discount but is not a deal-killer. Any single customer above 40% is a hard disqualifier for most search fund investors." },
     ],
   },
   {
@@ -624,14 +685,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Industry selection, ideal company profile, value creation hypothesis, and acquisition economics — the strategic framework that guides your entire search.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Note on Search Funds", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "What is a search fund thesis?", answer: "A search fund thesis is your strategic framework for the search: which industries to target (2–4 sectors), your ideal company profile (revenue, EBITDA, geography, business model), your value creation hypothesis (how you'll grow the business), and target acquisition economics (entry multiple, capital structure, return targets). It guides every decision during your search." },
       { question: "How specific should my acquisition thesis be?", answer: "Specific enough to be useful, broad enough to generate deal flow. 'I'll buy any good business' is too broad — you'll waste months. 'Only SaaS in Austin doing $3M ARR' is too narrow — you may never find it. Ideal: 2–4 target industries, clear size criteria ($1.5–5M EBITDA), 3–5 target geographies, and defined deal-breakers." },
+      { question: "How long does it take to develop a search fund thesis?", answer: "Most searchers spend 4 to 8 weeks developing their initial thesis during pre-search preparation. However, a good thesis evolves throughout the search as you learn from reviewing deals, talking to operators, and receiving investor feedback. Expect meaningful refinements through the first 6 months of active searching." },
+      { question: "Can you change your thesis during the search?", answer: "Yes, and you should. The best searchers treat their thesis as a living document. Common pivots include expanding geography after finding limited deal flow, adding adjacent industries that share similar characteristics, or adjusting size criteria based on financing reality. The key is making deliberate, data-driven adjustments rather than chasing every new opportunity." },
+      { question: "Do investors prefer a narrow or broad thesis?", answer: "Investors prefer a thesis that is specific enough to demonstrate strategic thinking but broad enough to generate adequate deal flow. A thesis targeting 2 to 4 industries, 3 to 5 geographies, and clear financial criteria (such as $1.5M to $5M EBITDA) strikes the right balance. Presenting a thesis that is too narrow signals inexperience with deal sourcing realities." },
     ],
   },
   {
@@ -671,14 +736,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "85% of search fund CEOs are first-time operators. Transferable skills, building credibility with investors/sellers/employees, and choosing the right first acquisition.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder", title: "First-Time CEO Playbook: Lessons from Search Fund Operators", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "Can you buy a business with no experience?", answer: "Yes — about 85% of traditional search fund entrepreneurs are first-time business operators. The model compensates for inexperience through investor mentorship, advisory boards, and board governance. Stanford data shows no significant correlation between prior industry experience and search fund returns." },
       { question: "What skills do you need to buy and run a business?", answer: "The most important transferable skills are: financial literacy (reading P&L, EBITDA analysis), selling ability (pitching investors, negotiating with sellers), people management (leading diverse teams), and decision-making under uncertainty. Industry-specific knowledge can be learned after acquisition." },
+      { question: "What is the biggest risk of buying a business with no experience?", answer: "The biggest risk is overpaying for a business you do not fully understand. Without operating experience, first-time buyers sometimes overestimate growth potential or underestimate operational complexity. Mitigate this by investing heavily in due diligence, hiring a quality of earnings firm, and building an advisory board with industry operators before closing." },
+      { question: "Do I need an MBA to buy a business?", answer: "No. While many traditional search fund entrepreneurs hold MBAs from programs like Stanford, Harvard, or IESE, an MBA is not required. Self-funded searchers come from diverse backgrounds including military, engineering, sales, and trades. What matters most is financial literacy, the ability to evaluate businesses, and the discipline to execute a systematic search process." },
+      { question: "How do I finance an acquisition if I have no experience?", answer: "The most common paths are: (1) a traditional search fund where investors provide search capital and acquisition equity, (2) SBA 7(a) loans which are specifically designed for acquisition financing and do not require prior ownership experience, or (3) significant seller financing where the outgoing owner carries a note for 20 to 40 percent of the purchase price." },
     ],
   },
   {
@@ -737,14 +806,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Asset Purchase Agreement vs. Share Purchase Agreement — when to use each, key clauses, reps & warranties, indemnification, escrow, and buyer negotiation tips.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "American Bar Association", title: "M&A Deal Points Study", year: 2023 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "SRS Acquiom", title: "M&A Deal Terms Study", url: "https://www.srsacquiom.com/resources/ma-deal-terms-study/", year: 2024 },
     ],
     faqs: [
       { question: "What is the difference between an APA and an SPA?", answer: "An Asset Purchase Agreement (APA) lets you buy specific assets and assume specific liabilities — the seller's legal entity stays behind. A Share Purchase Agreement (SPA) means you buy the ownership shares of the entity itself, inheriting ALL assets and liabilities (known and unknown). APAs offer more protection; SPAs offer contract continuity." },
       { question: "How much should escrow be in a business acquisition?", answer: "Typical escrow is 10–20% of the purchase price, held for 12–24 months to cover indemnification claims from breaches of representations and warranties. Push for 15–20% in share purchases where you inherit unknown liabilities. The escrow amount, release schedule, and claim process are heavily negotiated." },
+      { question: "Which is more common in search fund acquisitions, APA or SPA?", answer: "Asset Purchase Agreements are more common in search fund deals, particularly for smaller acquisitions under $10M. APAs allow buyers to select specific assets and leave behind unknown liabilities, which is especially important for first-time operators who want a clean start. However, SPAs are used when non-assignable contracts or licenses make an asset purchase impractical." },
+      { question: "How long does it take to negotiate a purchase agreement?", answer: "Typically 4 to 8 weeks from first draft to execution. The initial draft takes 1 to 2 weeks, followed by 2 to 4 rounds of markup between buyer and seller counsel. The most time-consuming negotiations involve representations and warranties, indemnification caps and baskets, and the working capital adjustment mechanism." },
+      { question: "What is a working capital adjustment and why does it matter?", answer: "A working capital adjustment ensures the business has sufficient operating capital at closing. The buyer and seller agree on a target working capital 'peg' (typically the trailing 12-month average of current assets minus current liabilities). If actual working capital at closing exceeds the peg, the buyer pays the surplus; if it falls short, the purchase price is reduced. This is the number one source of post-closing disputes." },
     ],
   },
   {
@@ -759,14 +832,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Committed capital vs. deal-by-deal, $5–20M vs. $10–100M+, CEO vs. chairman — every key difference between search funds and independent sponsors.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "Independent Sponsor Network", title: "Independent Sponsor Economics Survey", url: "https://www.independentsponsornetwork.com", year: 2024 },
     ],
     faqs: [
       { question: "What is an independent sponsor?", answer: "An independent sponsor (or 'fundless sponsor') is an entrepreneur who sources acquisition opportunities without committed capital. Unlike a search fund, capital is raised deal-by-deal from investors once a specific target is identified. The sponsor may or may not operate as CEO." },
       { question: "Which is better: search fund or independent sponsor?", answer: "It depends on your profile. Search funds offer salary during the search, committed investors, and structured support — ideal for MBA graduates. Independent sponsorship offers more flexibility in deal size and operator role — better for experienced professionals with existing investor networks." },
+      { question: "Can I switch from a search fund to independent sponsorship?", answer: "Yes, and it is increasingly common. Some searchers who do not complete an acquisition during their funded search period transition to independent sponsorship, using the deal-sourcing skills and investor relationships they built. Others complete a successful search fund acquisition and exit, then pursue subsequent deals as independent sponsors with a proven track record." },
+      { question: "How much personal capital do I need for each model?", answer: "For a traditional search fund, minimal personal capital is required since investors fund the search phase ($400K to $600K) and the acquisition equity. For independent sponsorship, you need enough savings to cover 18 to 30 months of living expenses with no income, plus deal pursuit costs (legal, diligence) that may not be reimbursed if a deal falls through. Budget $150K to $300K in personal reserves." },
+      { question: "Which model has better returns for the entrepreneur?", answer: "It depends on deal size and outcomes. A search fund CEO earning 25% equity on a $10M acquisition that exits at $30M nets roughly $5M. An independent sponsor earning carried interest on a $50M deal that doubles might net $5M to $10M, but with more personal financial risk during the search and lower probability of closing a deal. Search funds offer more predictable but potentially smaller outcomes; independent sponsorship offers higher upside with greater variance." },
     ],
   },
   {
@@ -781,14 +858,19 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Women represent ~15% of searchers but deliver comparable returns. Discover the organizations, funds, and strategies driving diversity in ETA.",
     datePublished: "2024-05-03",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "McKinsey & Company", title: "Diversity Wins: How Inclusion Matters", url: "https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters", year: 2023 },
+      { name: "IESE Business School", title: "Women in Search Funds Report", year: 2024 },
     ],
     faqs: [
       { question: "What percentage of search fund entrepreneurs are women?", answer: "According to the Stanford 2024 Search Fund Study, women represent approximately 15% of all searchers. While this is low compared to the general population, the percentage has been steadily increasing since 2018, driven by dedicated programs at IESE, Stanford, and organizations like Women in Search." },
       { question: "Do women-led search funds perform differently?", answer: "Data from Stanford and IESE shows that women-led search funds deliver comparable or slightly higher returns than the overall average. Female searchers tend to exhibit lower acquisition failure rates and stronger post-acquisition employee retention, though the sample size remains relatively small." },
       { question: "What organizations support women in ETA?", answer: "Key organizations include Women in Search (peer network for female searchers), the IESE Women in Search Fund Initiative, Forté Foundation (MBA pipeline), and the Stanford GSB Women in Management club. Several search fund investors have also launched dedicated diversity initiatives." },
+      { question: "Are there investors who specifically back women in search funds?", answer: "Yes. The BDC Thrive Fund is a dedicated investment vehicle focused on backing diverse search fund entrepreneurs, including women, Black, and Hispanic searchers. Several other institutional search fund investors have publicly committed to increasing diversity in their portfolios. The Women in Search Network maintains a list of investor groups with active diversity mandates." },
+      { question: "Do women face different challenges during the search phase versus the operating phase?", answer: "The challenges differ by phase. During the search, women more commonly face fundraising friction and seller skepticism, particularly in traditional industries. During the operating phase, challenges shift to establishing authority with inherited teams and navigating work-life demands. However, data shows that once women close an acquisition, their operational performance matches or exceeds the broader cohort average." },
+      { question: "What is the best way for a woman to get started in ETA?", answer: "Start by joining the Women in Search Network for peer support and mentorship connections. Attend an ETA conference (Stanford Search Fund Conference, IESE Search Fund Symposium) to build relationships with investors and operators. Develop a strong acquisition thesis that demonstrates analytical rigor, and reach out to investors who have a track record of backing diverse searchers for early feedback on your approach." },
     ],
   },
 
@@ -1596,15 +1678,20 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "SaaS at 5–8x, healthcare at 5–8x, home services at 3–5.5x — current EBITDA multiples by industry for search fund and SME acquisitions.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
       { name: "DealStats (BVR)", title: "Transaction Database", year: 2024 },
+      { name: "NYU Stern", title: "EV/EBITDA Multiples by Industry", url: "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/vebitda.html", year: 2025 },
+      { name: "Axial Network", title: "EBITDA Multiples by Industry for SMEs", url: "https://www.axial.net/forum/ebitda-multiples-by-industry/", year: 2025 },
     ],
     faqs: [
       { question: "What is a good EBITDA multiple for a small business?", answer: "For SMEs with $1–5M EBITDA, typical purchase multiples range from 3x to 7x depending on the industry, growth rate, and revenue quality. SaaS and healthcare command the highest multiples (5–8x), while home services and manufacturing are lower (3–5.5x)." },
       { question: "Why are European EBITDA multiples lower than US?", answer: "European SMEs typically trade at 3–5x EBITDA vs 4–7x in the US. The discount is driven by less PE competition, a fragmented M&A advisory market, language barriers reducing cross-border activity, and urgency from the baby boomer succession wave creating motivated sellers." },
+      { question: "How do EBITDA multiples differ between SaaS and traditional businesses?", answer: "SaaS companies typically command 5.0–8.0x EBITDA (or 3–6x ARR), significantly above most traditional industries. This premium is driven by recurring revenue, high gross margins (>70%), low churn, and strong scalability. Traditional businesses like home services or manufacturing typically trade at 3.0–5.5x EBITDA." },
+      { question: "What factors can increase or decrease a business's EBITDA multiple?", answer: "Key premium drivers include revenue growth above 10% annually (adds 1–2 turns), recurring or contractual revenue (1–3x higher multiples), larger size (>$3M EBITDA), and high EBITDA margins (>20%). Discount factors include customer concentration, owner dependency, project-based revenue, high capex requirements, and cyclical or declining industries." },
+      { question: "Should I rely solely on EBITDA multiples to value a business?", answer: "No. EBITDA multiples are a useful starting point for benchmarking, but they should be complemented by a discounted cash flow (DCF) analysis for businesses with clear growth trajectories, a working capital analysis, and a thorough review of capital expenditure requirements. Always use adjusted EBITDA validated by a quality of earnings report." },
     ],
   },
   {
@@ -1619,15 +1706,20 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Owner comp add-backs, one-time expenses, gray-area adjustments, and manipulation red flags — the buyer's guide to understanding and validating adjusted EBITDA.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
       { name: "DealStats (BVR)", title: "Transaction Database Benchmarks", year: 2024 },
       { name: "AICPA", title: "Quality of Earnings: Due Diligence Standards", year: 2023 },
+      { name: "International Business Brokers Association", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/market-pulse/", year: 2025 },
+      { name: "CFI Education", title: "Adjusted EBITDA: Definition and How to Calculate", url: "https://corporatefinanceinstitute.com/resources/accounting/adjusted-ebitda/", year: 2024 },
     ],
     faqs: [
       { question: "What is adjusted EBITDA?", answer: "Adjusted EBITDA starts with standard EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) and then adds back or subtracts items that are non-recurring, non-operational, or specific to the current owner — such as above-market owner compensation, one-time legal expenses, or personal expenses run through the business." },
       { question: "What add-backs are red flags in adjusted EBITDA?", answer: "Major red flags include: add-backs exceeding 30–40% of stated EBITDA, 'one-time' expenses that appear every year, synergy adjustments (buyer's cost savings attributed to seller), pro-forma revenue from unsigned contracts, and complex related-party transactions. If adjustments are doing more work than the business itself, walk away." },
+      { question: "What is the difference between EBITDA and adjusted EBITDA?", answer: "Standard EBITDA is calculated by adding back interest, taxes, depreciation, and amortization to net income. Adjusted EBITDA goes further by normalizing for items specific to the current owner — above-market owner compensation, personal expenses run through the business, one-time legal costs, and non-recurring items. Adjusted EBITDA represents the sustainable cash earnings a new owner can expect." },
+      { question: "How many add-backs are too many in adjusted EBITDA?", answer: "If total add-backs exceed 30–40% of stated EBITDA, treat the adjustments with heavy skepticism. Two to four clearly documented, objectively verifiable add-backs are normal. Ten or more add-backs covering everything from marketing to travel is a red flag." },
+      { question: "Why is a Quality of Earnings report necessary?", answer: "A QoE report is a third-party financial analysis that independently validates or refutes the seller's adjusted EBITDA. Lenders require it to size the loan, and it typically catches 10–30% of claimed add-backs as unsupported or inflated. The $20K–$80K cost is a fraction of the overpayment risk it prevents." },
     ],
   },
   {
@@ -1642,14 +1734,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Everything you need to know about LOIs: purchase price, exclusivity, due diligence terms, and negotiation tactics for search fund deals.",
     datePublished: "2024-05-14",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Yale SOM", title: "A Note on Letters of Intent for Search Fund Acquisitions", year: 2020 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "Harvard Law School Forum", title: "Key Issues in M&A Letter of Intent Negotiations", url: "https://corpgov.law.harvard.edu/", year: 2023 },
     ],
     faqs: [
       { question: "Is a Letter of Intent legally binding?", answer: "Most LOI provisions are non-binding, including purchase price and deal structure. However, exclusivity (no-shop), confidentiality, and expense allocation clauses are typically binding. Always have an attorney review before signing." },
       { question: "How long should an exclusivity period be?", answer: "Standard exclusivity periods are 60–90 days for search fund deals. Sellers prefer shorter periods (45–60 days), while buyers want longer (90–120 days). The period should align with your due diligence timeline." },
+      { question: "What should the purchase price section of an LOI include?", answer: "The purchase price section should state the proposed enterprise value and how you arrived at it (e.g., a multiple of trailing twelve months adjusted EBITDA). Specify whether the price is fixed or subject to a working capital adjustment at closing. Many search fund LOIs express the price as a range to preserve negotiating flexibility." },
+      { question: "How long does it take to go from LOI to closing?", answer: "The typical path from a signed LOI to closing takes 3–6 months. The first four weeks focus on intensive financial diligence and a quality of earnings analysis. Weeks four through eight cover operational and legal diligence plus purchase agreement drafting. Approximately 30% of signed LOIs do not result in a completed transaction." },
+      { question: "Can I submit LOIs to multiple sellers at the same time?", answer: "You can advance multiple opportunities through initial evaluation simultaneously, but you should sign an exclusive LOI with only one target at a time. Signing multiple exclusive LOIs simultaneously is considered unethical in the search fund community and risks reputational damage." },
     ],
   },
   {
@@ -1716,15 +1812,20 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Change-of-control clauses, pending litigation, employee misclassification, IP ownership — the legal risks that kill deals and how to uncover them.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "American Bar Association", title: "M&A Due Diligence Guide", year: 2023 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "Practical Law (Thomson Reuters)", title: "Legal Due Diligence in M&A Transactions", url: "https://uk.practicallaw.thomsonreuters.com/", year: 2024 },
+      { name: "World Intellectual Property Organization", title: "IP Due Diligence in M&A", url: "https://www.wipo.int/", year: 2023 },
     ],
     faqs: [
       { question: "What are the most important contracts to review in legal due diligence?", answer: "Focus on: top customer contracts (especially change-of-control provisions), lease agreements (assignment clauses, remaining term), loan/credit agreements (change-of-control triggers), key employee contracts (non-competes, severance), and vendor/supplier agreements (exclusivity, minimum purchase obligations)." },
       { question: "What is the difference between legal DD for asset purchases vs. share purchases?", answer: "In an asset purchase, you select which assets and liabilities to acquire — unknown liabilities generally stay with the seller, but contracts must be individually assigned. In a share purchase, you acquire the entity with ALL liabilities (known and unknown). Legal DD scope is broader for share purchases because you inherit the full legal history." },
       { question: "How much does legal due diligence cost?", answer: "Budget $15,000–$50,000 for buyer's counsel to conduct legal DD, depending on deal complexity. Add $5K–$15K for Phase I environmental assessment if applicable, plus specialist reviews (IP counsel, employment counsel) as needed. Total legal costs including closing typically run $30K–$75K." },
+      { question: "What is the most commonly overlooked area of legal due diligence?", answer: "Employee classification (independent contractor vs. employee) is the most commonly overlooked legal risk in SME acquisitions. Many small businesses misclassify workers to reduce payroll taxes and benefits costs. If reclassified post-acquisition, the buyer inherits liability for unpaid payroll taxes, benefits, overtime, and penalties." },
+      { question: "How does deal structure affect legal due diligence scope?", answer: "In a share purchase, you acquire the entire legal entity including all known and unknown liabilities, requiring more extensive legal DD. In an asset purchase, you select specific assets and assume only specified liabilities, reducing but not eliminating legal risk. Asset purchases require individual assignment of every contract, lease, and license." },
+      { question: "When should I walk away from a deal based on legal DD findings?", answer: "Walk away when you discover material pending litigation exceeding EBITDA, pervasive regulatory non-compliance threatening the operating license, key contracts with unwaivable change-of-control termination rights, undisclosed tax liabilities the seller won't indemnify, or IP ownership disputes undermining the core business." },
     ],
   },
   {
@@ -1768,14 +1869,18 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "A single customer over 25% of revenue is a red flag. How to analyze concentration, its impact on valuation and financing, and mitigation strategies for buyers.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "SBA", title: "7(a) Underwriting Guidelines", year: 2024 },
+      { name: "Harvard Business Review", title: "When One Customer Becomes Too Important", url: "https://hbr.org/", year: 2023 },
     ],
     faqs: [
       { question: "How much customer concentration is too much?", answer: "No single customer should exceed 25% of revenue — this is a red flag. Above 40% is often a deal-breaker. SBA lenders flag concentration at 15–20%. Ideal targets have no customer above 10% of revenue. The valuation discount for concentrated businesses is typically 1–2x EBITDA turns." },
       { question: "How can I mitigate customer concentration risk in an acquisition?", answer: "Pre-closing: negotiate a valuation discount, use earn-outs tied to customer retention, and require the seller to introduce you to key accounts. Post-closing: prioritize new customer acquisition, build multiple contacts within key accounts, and invest in sales and marketing to diversify the revenue base." },
+      { question: "How does customer concentration affect acquisition financing?", answer: "SBA lenders flag customer concentration above 15–20% in a single customer, and some will decline to finance if concentration exceeds 25–30%. Concentrated businesses typically receive lower leverage (2–3x EBITDA vs. 3–5x for diversified peers), reducing the amount you can borrow." },
+      { question: "What is the valuation discount for customer concentration?", answer: "Concentrated businesses typically trade at 1–2x lower EBITDA multiples than diversified peers. Each 10% of revenue from a single customer reduces the multiple by 0.25–0.5x. A business with $2M EBITDA at 5x if diversified might sell for 3–4x with significant concentration." },
+      { question: "Should I always walk away from a concentrated business?", answer: "Not necessarily. Concentration is acceptable with deep contractual protection, high switching costs, government contracts, a clear diversification plan executable within 12–24 months, or a steep price discount (2–3x EBITDA for a business worth 5x if diversified). The key is ensuring the price fully reflects the risk." },
     ],
   },
   {

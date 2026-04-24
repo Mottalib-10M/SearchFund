@@ -89,6 +89,11 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
           <li>The entity holds real estate or other assets that are expensive to transfer</li>
           <li>The seller strongly prefers stock treatment for capital gains tax reasons</li>
           <li>The target is a C-Corporation (seller avoids double taxation)</li>
+          <li>You are using{" "}
+            <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
+              SBA financing
+            </Link>{" "}
+            and the lender requires entity continuity</li>
         </ul>
 
         <h2 className={h2Class}>Common clauses in both APA and SPA</h2>
@@ -149,7 +154,11 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
 
         <h2 className={h2Class}>Negotiation tips for buyers</h2>
         <ul className={ulClass}>
-          <li><strong>Hire experienced M&amp;A counsel:</strong> The purchase agreement is not the place to save money. Budget $30K&ndash;$75K in legal fees for the buy-side</li>
+          <li><strong>Hire experienced M&amp;A counsel:</strong> The purchase agreement is not the place to save money. Budget $30K&ndash;$75K in{" "}
+            <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">
+              legal fees
+            </Link>{" "}
+            for the buy-side</li>
           <li><strong>Don&rsquo;t negotiate every clause:</strong> Focus on material provisions (price, reps/warranties, indemnification) rather than fighting over boilerplate</li>
           <li><strong>Working capital peg is critical:</strong> Get this right. Disagreements over working capital adjustments are the #1 source of post-closing disputes</li>
           <li><strong>Escrow protects you:</strong> Push for 15&ndash;20% escrow for 18&ndash;24 months, especially in share purchases where you inherit unknown liabilities</li>
@@ -166,6 +175,41 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
             legal due diligence
           </Link>{" "}
           guide.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Which is more common in search fund acquisitions, APA or SPA?</h3>
+        <p>
+          Asset Purchase Agreements are more common in search fund deals, particularly
+          for smaller acquisitions under $10M. APAs allow buyers to select specific
+          assets and leave behind unknown liabilities, which is especially important
+          for first-time operators who want a clean start. However, SPAs are used
+          when non-assignable contracts or licenses make an asset purchase impractical.
+        </p>
+
+        <h3 className={h3Class}>How long does it take to negotiate a purchase agreement?</h3>
+        <p>
+          Typically 4 to 8 weeks from first draft to execution. The initial draft takes
+          1 to 2 weeks, followed by 2 to 4 rounds of markup between buyer and seller
+          counsel. The most time-consuming negotiations involve representations and
+          warranties, indemnification caps and baskets, and the working capital
+          adjustment mechanism. Starting with a well-drafted{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
+            letter of intent
+          </Link>{" "}
+          that addresses key business terms accelerates the process.
+        </p>
+
+        <h3 className={h3Class}>What is a working capital adjustment and why does it matter?</h3>
+        <p>
+          A working capital adjustment ensures the business has sufficient operating
+          capital at closing. The buyer and seller agree on a target working capital
+          &ldquo;peg&rdquo; (typically the trailing 12-month average of current assets
+          minus current liabilities). If actual working capital at closing exceeds the
+          peg, the buyer pays the surplus to the seller; if it falls short, the purchase
+          price is reduced. This is the number one source of post-closing disputes, so
+          defining what is included in the calculation is critical.
         </p>
       </div>
     </article>

@@ -402,6 +402,47 @@ export default function SearchFundLifecycleArticle() {
           <li><strong>Operations:</strong> Humility in the first year, decisive leadership once established, and strategic investment in growth</li>
           <li><strong>Exit:</strong> Timing, preparation, and choosing the right exit path for the business and market conditions</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much does each stage of the search fund lifecycle cost?</h3>
+        <p>
+          The fundraise and search phases together cost $400K&ndash;$600K in
+          investor-funded search capital. The acquisition phase adds
+          $50K&ndash;$150K in due diligence and transaction fees, plus the
+          acquisition equity itself ($2M&ndash;$10M+). For a detailed
+          breakdown of every line item, see our{" "}
+          <Link href="/learn/search-fund-cost" className="text-apple-accent hover:underline">
+            search fund cost guide
+          </Link>.
+          Self-funded searchers bear these costs personally but retain
+          significantly more equity.
+        </p>
+
+        <h3 className={h3Class}>What percentage of search funds make it through all five stages?</h3>
+        <p>
+          Approximately 67% of traditional search funds complete an
+          acquisition (Stages 1&ndash;3). Of those, roughly two-thirds
+          generate positive returns for investors through the operations and
+          exit stages. Understanding{" "}
+          <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
+            why search funds fail
+          </Link>{" "}
+          at each stage helps searchers and investors identify risks early
+          and take corrective action before problems compound.
+        </p>
+
+        <h3 className={h3Class}>Can the search fund lifecycle be shortened?</h3>
+        <p>
+          Yes. Self-funded searchers skip the fundraise stage entirely, and
+          searchers with strong industry theses and broker networks often
+          compress the search from 18&ndash;24 months to 6&ndash;12. The{" "}
+          <Link href="/learn/how-long-buy-business" className="text-apple-accent hover:underline">
+            acquisition timeline guide
+          </Link>{" "}
+          details specific actions that accelerate each phase, from SBA
+          pre-qualification to full-time searching.
+        </p>
       </div>
     </article>
   );

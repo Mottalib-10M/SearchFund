@@ -18,7 +18,11 @@ export default function SMEAcquisitionGuideArticle() {
           </Link>,
           you inherit existing revenue, customers, employees, and systems.
           This guide walks first-time buyers through every stage of the
-          SME acquisition process.
+          SME acquisition process. Before diving in, take our{" "}
+          <Link href="/learn/is-eta-right-for-you" className="text-apple-accent hover:underline">
+            ETA self-assessment
+          </Link>{" "}
+          to confirm this path fits your profile.
         </p>
 
         <h2 className={h2Class}>What qualifies as an SME?</h2>
@@ -42,7 +46,11 @@ export default function SMEAcquisitionGuideArticle() {
             </Link>{" "}
             interest you? Focus on 2&ndash;3 sectors with favorable characteristics</li>
           <li><strong>Geography:</strong> Where are you willing to live? Physical proximity matters for SMEs</li>
-          <li><strong>Size:</strong> What EBITDA and revenue range? This determines financing options and deal complexity</li>
+          <li><strong>Size:</strong> What EBITDA and revenue range? This determines{" "}
+            <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
+              how much capital you need
+            </Link>{" "}
+            and deal complexity</li>
           <li><strong>Business model:</strong> Recurring revenue preferred.{" "}
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               Recurring revenue businesses
@@ -242,6 +250,11 @@ export default function SMEAcquisitionGuideArticle() {
             the business</li>
           <li><strong>Ignoring culture:</strong> You&rsquo;re not just buying financials &mdash; you&rsquo;re inheriting a team and culture</li>
           <li><strong>Over-leveraging:</strong> Aggressive debt structures work until they don&rsquo;t. Leave a margin of safety</li>
+          <li><strong>Ignoring target criteria:</strong> Review{" "}
+            <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
+              what makes a good acquisition target
+            </Link>{" "}
+            before evaluating any deal</li>
         </ol>
 
         <h2 className={h2Class}>How long does an SME acquisition take?</h2>
@@ -269,6 +282,23 @@ export default function SMEAcquisitionGuideArticle() {
           <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
             search fund lifecycle
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the best size of business to acquire as a first-time buyer?</h3>
+        <p>
+          For most first-time acquirers, businesses with $1M&ndash;$3M EBITDA and $5M&ndash;$15M revenue represent the sweet spot. They are large enough to support professional management and debt service, but small enough that sellers are typically owner-operators open to negotiation. Self-funded searchers often target the $750K&ndash;$2M EBITDA range, while traditional search funds aim for $1.5M&ndash;$5M EBITDA to satisfy investor return requirements.
+        </p>
+
+        <h3 className={h3Class}>Do I need industry experience to acquire an SME?</h3>
+        <p>
+          No. The majority of successful search fund acquisitions involve buyers with no prior experience in the target industry. What matters more is general management ability, financial literacy, and the willingness to learn quickly. Most acquired businesses have existing operational teams who handle day-to-day industry-specific work. That said, some industries (healthcare, regulated sectors) may require specific licenses or certifications that add complexity.
+        </p>
+
+        <h3 className={h3Class}>How many businesses should I evaluate before making an offer?</h3>
+        <p>
+          Expect to screen 100&ndash;200 opportunities at a high level, evaluate 20&ndash;40 in depth, and submit 3&ndash;8 Letters of Intent before closing one deal. This funnel is normal and healthy. Rushing to an LOI without sufficient deal flow leads to overpaying or acquiring a poor-fit business. Building strong relationships with 10&ndash;20 business brokers in your target markets is the best way to maintain consistent deal flow throughout your search.
         </p>
       </div>
     </article>

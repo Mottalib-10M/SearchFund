@@ -38,7 +38,10 @@ export default function WomenInETAArticle() {
           The diversity gap is not merely an equity issue — it is an economic one.
           A more diverse pool of searchers means more talent competing for deals,
           better coverage of underserved geographies and industries, and a
-          stronger asset class overall.
+          stronger asset class overall. For context on overall search fund performance, see the{" "}
+          <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
+            search fund returns analysis
+          </Link>.
         </p>
 
         <h2 className={h2Class}>Current statistics and trends</h2>
@@ -420,7 +423,10 @@ export default function WomenInETAArticle() {
             demonstrates competence, reducing the impact of unconscious bias
           </li>
           <li>
-            <strong>Consider self-funded search:</strong> Bypasses traditional
+            <strong>Consider{" "}
+            <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+              self-funded search
+            </Link>:</strong> Bypasses traditional
             fundraising entirely, giving you complete control over criteria and
             timeline
           </li>
@@ -457,6 +463,43 @@ export default function WomenInETAArticle() {
           business ownership available today. Realizing that potential requires
           intentional effort from searchers, investors, MBA programs, and the
           community at large.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Are there investors who specifically back women in search funds?</h3>
+        <p>
+          Yes. The BDC Thrive Fund is a dedicated investment vehicle focused on backing
+          diverse search fund entrepreneurs, including women, Black, and Hispanic
+          searchers. Several other institutional search fund investors have publicly
+          committed to increasing diversity in their portfolios. The Women in Search
+          Network maintains a list of investor groups with active diversity mandates.
+        </p>
+
+        <h3 className={h3Class}>Do women face different challenges during the search phase versus the operating phase?</h3>
+        <p>
+          The challenges differ by phase. During the search, women more commonly face
+          fundraising friction and seller skepticism, particularly in traditional
+          industries. During the{" "}
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
+            operating phase
+          </Link>, challenges shift to establishing authority with inherited teams and
+          navigating work-life demands. However, data shows that once women close an
+          acquisition, their operational performance matches or exceeds the broader
+          cohort average.
+        </p>
+
+        <h3 className={h3Class}>What is the best way for a woman to get started in ETA?</h3>
+        <p>
+          Start by joining the Women in Search Network for peer support and mentorship
+          connections. Attend an ETA conference (Stanford Search Fund Conference, IESE
+          Search Fund Symposium) to build relationships with investors and operators.
+          Develop a strong{" "}
+          <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">
+            acquisition thesis
+          </Link>{" "}
+          that demonstrates analytical rigor, and reach out to investors who have
+          a track record of backing diverse searchers for early feedback on your approach.
         </p>
       </div>
     </article>

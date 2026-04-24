@@ -78,15 +78,23 @@ export default function CustomerConcentrationRiskArticle() {
           During{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
-          </Link>,
-          thoroughly analyze:
+          </Link>{" "}
+          &mdash; particularly the{" "}
+          <Link href="/learn/commercial-due-diligence" className="text-apple-accent hover:underline">
+            commercial DD
+          </Link>{" "}
+          workstream &mdash; thoroughly analyze:
         </p>
         <ul className={ulClass}>
           <li><strong>Revenue by customer (last 3&ndash;5 years):</strong> Calculate concentration metrics for each year to identify trends (improving vs. worsening)</li>
           <li><strong>Contract terms:</strong> Are key relationships governed by contracts? What are the terms, auto-renewal provisions, and termination clauses?</li>
           <li><strong>Customer tenure:</strong> A 20-year customer relationship is less risky than a 2-year one</li>
           <li><strong>Switching costs:</strong> How easy is it for the customer to switch providers? High switching costs (custom integrations, training, certifications) reduce departure risk</li>
-          <li><strong>Relationship owner:</strong> Is the customer relationship with the company or with the owner personally? Owner-dependent relationships are the highest risk</li>
+          <li><strong>Relationship owner:</strong> Is the customer relationship with the company or with the owner personally?{" "}
+            <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
+              Owner-dependent relationships
+            </Link>{" "}
+            are the highest risk</li>
           <li><strong>Customer satisfaction:</strong> NPS scores, complaint history, testimonials</li>
           <li><strong>Payment history:</strong> Consistently slow-paying top customers can create working capital pressure</li>
         </ul>
@@ -167,7 +175,50 @@ export default function CustomerConcentrationRiskArticle() {
           structure and post-acquisition strategy. The cardinal rule: never
           pay a premium multiple for a concentrated business. The discount
           is your margin of safety for the customer risk you&rsquo;re
-          accepting.
+          accepting. For a complete list of{" "}
+          <Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">
+            due diligence red flags
+          </Link>{" "}
+          beyond concentration, see our dedicated guide.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How does customer concentration affect acquisition financing?</h3>
+        <p>
+          SBA lenders flag customer concentration above 15&ndash;20% in a single
+          customer, and some lenders will decline to finance if concentration
+          exceeds 25&ndash;30%. Concentrated businesses typically receive lower
+          leverage (2&ndash;3x EBITDA vs. 3&ndash;5x for diversified peers),
+          reducing the amount you can borrow. Lenders may also require key
+          customer contracts or personal guarantees as additional conditions.
+          This financing impact compounds the valuation discount, making
+          concentrated businesses significantly cheaper to acquire but harder
+          to finance.
+        </p>
+
+        <h3 className={h3Class}>What is the valuation discount for customer concentration?</h3>
+        <p>
+          Concentrated businesses typically trade at 1&ndash;2x lower EBITDA
+          multiples than diversified peers in the same industry. As a rule of
+          thumb, each 10% of revenue from a single customer reduces the
+          multiple by 0.25&ndash;0.5x. A business with $2M EBITDA that would
+          trade at 5x if diversified might sell for 3&ndash;4x with significant
+          concentration &mdash; a $2M&ndash;$4M difference in enterprise value.
+          This discount is justified because the risk-adjusted cash flow is
+          genuinely lower.
+        </p>
+
+        <h3 className={h3Class}>Should I always walk away from a concentrated business?</h3>
+        <p>
+          Not necessarily. Customer concentration is acceptable when you have deep
+          contractual protection (multi-year contracts with high termination
+          penalties), high switching costs (custom integrations or regulatory
+          dependencies), a clear diversification plan you can execute within
+          12&ndash;24 months, or a steep enough price discount (2&ndash;3x EBITDA
+          for a business worth 5x if diversified). Government contracts are
+          typically more stable than commercial relationships. The key is ensuring
+          the purchase price fully reflects the risk.
         </p>
       </div>
     </article>

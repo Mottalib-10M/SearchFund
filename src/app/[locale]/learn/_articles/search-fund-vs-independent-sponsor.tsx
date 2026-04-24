@@ -12,7 +12,10 @@ export default function SearchFundVsIndependentSponsorArticle() {
       <div className={bodyClass}>
         <p>
           Search funds and independent sponsors are both paths to acquiring and
-          operating a business, but they differ meaningfully in structure,
+          operating a business through{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            entrepreneurship through acquisition
+          </Link>, but they differ meaningfully in structure,
           economics, deal size, and career trajectory. For aspiring
           entrepreneurs weighing their options, understanding these differences
           is essential for choosing the model that best fits their goals,
@@ -166,6 +169,10 @@ export default function SearchFundVsIndependentSponsorArticle() {
           <li>You are coming from an MBA program or early career and want to leverage the Stanford/IESE/HBS network</li>
           <li>You are targeting deals in the $5M&ndash;$20M range</li>
           <li>You value the mentorship and governance that committed investors provide</li>
+          <li>You are a{" "}
+            <Link href="/learn/buy-business-no-experience" className="text-apple-accent hover:underline">
+              first-time buyer with no prior operating experience
+            </Link></li>
         </ul>
 
         <h3 className={h3Class}>Choose independent sponsorship if:</h3>
@@ -227,6 +234,41 @@ export default function SearchFundVsIndependentSponsorArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             entrepreneurship through acquisition
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Can I switch from a search fund to independent sponsorship?</h3>
+        <p>
+          Yes, and it is increasingly common. Some searchers who do not complete an
+          acquisition during their funded search period transition to independent
+          sponsorship, using the deal-sourcing skills and investor relationships they
+          built. Others complete a successful search fund acquisition and exit, then
+          pursue subsequent deals as independent sponsors with a proven track record.
+        </p>
+
+        <h3 className={h3Class}>How much personal capital do I need for each model?</h3>
+        <p>
+          For a traditional search fund, minimal personal capital is required since{" "}
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
+            investors
+          </Link>{" "}
+          fund the search phase ($400K to $600K) and the acquisition equity. For
+          independent sponsorship, you need enough savings to cover 18 to 30 months
+          of living expenses with no income, plus deal pursuit costs (legal, diligence)
+          that may not be reimbursed if a deal falls through. Budget $150K to $300K
+          in personal reserves.
+        </p>
+
+        <h3 className={h3Class}>Which model has better returns for the entrepreneur?</h3>
+        <p>
+          It depends on deal size and outcomes. A search fund CEO earning 25% equity
+          on a $10M acquisition that exits at $30M nets roughly $5M. An independent
+          sponsor earning carried interest on a $50M deal that doubles might net $5M
+          to $10M, but with more personal financial risk during the search and lower
+          probability of closing a deal. Search funds offer more predictable but
+          potentially smaller outcomes; independent sponsorship offers higher upside
+          with greater variance.
         </p>
       </div>
     </article>

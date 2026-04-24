@@ -14,7 +14,12 @@ export default function WhyInvestInSearchFundsArticle() {
           35% over four decades, search funds have outperformed venture
           capital, private equity, and public equities on a risk-adjusted
           basis. Yet the model remains relatively unknown outside a small
-          circle of institutional and individual investors. This guide is
+          circle of institutional and individual investors. If you are new
+          to the concept, our{" "}
+          <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
+            complete guide to search funds
+          </Link>{" "}
+          explains how the model works from end to end. This guide is
           written for prospective investors — whether you are a family
           office, a high-net-worth individual, an ex-operator, or an
           institutional allocator — and covers the return profile, risk
@@ -142,8 +147,11 @@ export default function WhyInvestInSearchFundsArticle() {
         <p>
           While the search fund model originated in the United States,
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe represents an increasingly compelling opportunity</Link> for
-          investors. Several structural factors make European search
-          funds particularly attractive:
+          investors. Several structural factors — amplified by the{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession crisis
+          </Link>{" "}
+          — make European search funds particularly attractive:
         </p>
         <ul className={ulClass}>
           <li>
@@ -333,6 +341,44 @@ export default function WhyInvestInSearchFundsArticle() {
             you see the highest-quality deal flow.
           </li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How do search fund returns compare to venture capital?</h3>
+        <p>
+          Search funds have delivered a 35 percent aggregate IRR over 40
+          years, compared to roughly 15 to 25 percent for top-quartile
+          venture capital funds. Importantly, search fund returns are less
+          concentrated: the median search fund return is attractive, whereas
+          VC returns depend heavily on a small number of outlier exits. Search
+          fund investments also have real assets and cash flow from day one,
+          reducing the risk of total loss that is common in early-stage VC.
+        </p>
+
+        <h3 className={h3Class}>What is the minimum time commitment for a search fund investor?</h3>
+        <p>
+          Passive investors can expect to spend two to four hours per month
+          reviewing updates and attending occasional calls. Board-seat
+          investors commit significantly more time — typically eight to
+          twelve hours per month per company — attending quarterly board
+          meetings, advising on strategy, and helping with key hires.
+          The level of involvement should match your expertise and
+          availability.
+        </p>
+
+        <h3 className={h3Class}>Can I invest in search funds through a fund-of-funds structure?</h3>
+        <p>
+          Yes. Several institutional platforms now offer fund-of-funds
+          vehicles that provide diversified exposure to multiple search
+          funds. These structures reduce single-deal risk and lower the
+          time commitment for investors who prefer a more passive approach.
+          However, direct investing typically offers better returns and
+          more control over portfolio construction. Review the{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            full ETA landscape
+          </Link>{" "}
+          to understand the range of investment structures available.
+        </p>
       </div>
     </article>
   );

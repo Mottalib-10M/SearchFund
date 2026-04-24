@@ -24,7 +24,10 @@ export default function SearchFundThesisArticle() {
 
         <h2 className={h2Class}>Why a thesis matters</h2>
         <ul className={ulClass}>
-          <li><strong>Search efficiency:</strong> Without a thesis, you&rsquo;ll waste months reviewing businesses that don&rsquo;t fit. A clear thesis narrows 10,000+ potential targets to a manageable pipeline</li>
+          <li><strong>Search efficiency:</strong> Without a thesis, you&rsquo;ll waste months reviewing businesses that don&rsquo;t fit. A clear thesis narrows 10,000+ potential targets to a manageable pipeline. A strong thesis also complements your{" "}
+            <Link href="/learn/creating-icp-acquisitions" className="text-apple-accent hover:underline">
+              ideal company profile
+            </Link></li>
           <li><strong>Investor confidence:</strong> Investors fund searchers, not deal flow. A thoughtful thesis demonstrates analytical rigor and strategic thinking</li>
           <li><strong>Decision framework:</strong> When a broker calls with a deal that&rsquo;s &ldquo;close but not quite,&rdquo; your thesis tells you whether to pursue it or pass</li>
           <li><strong>Post-acquisition planning:</strong> Your thesis includes a value-creation hypothesis that becomes your operating playbook after closing</li>
@@ -188,7 +191,10 @@ export default function SearchFundThesisArticle() {
           <li><strong>Too broad:</strong> &ldquo;I&rsquo;ll buy any profitable business&rdquo; &mdash; you&rsquo;ll waste months on dead ends. Pick 2&ndash;4 industries</li>
           <li><strong>Ignoring deal flow reality:</strong> Your dream industry may have zero businesses for sale. Test supply before committing</li>
           <li><strong>Overweighting passion:</strong> You don&rsquo;t need to love the industry &mdash; you need to love running the business. The best search fund targets are often &ldquo;boring&rdquo; industries</li>
-          <li><strong>Thesis rigidity:</strong> Good searchers evolve their thesis as they learn. Your thesis at month 6 should be more refined than at month 1</li>
+          <li><strong>Thesis rigidity:</strong> Good searchers evolve their thesis as they learn. Your thesis at month 6 should be more refined than at month 1. See{" "}
+            <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">
+              how thesis development differs between search funds and independent sponsors
+            </Link></li>
         </ul>
 
         <p>
@@ -201,6 +207,36 @@ export default function SearchFundThesisArticle() {
             deal sourcing strategies
           </Link>{" "}
           to turn your thesis into a pipeline.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How long does it take to develop a search fund thesis?</h3>
+        <p>
+          Most searchers spend 4 to 8 weeks developing their initial thesis during{" "}
+          <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">
+            pre-search preparation
+          </Link>. However, a good thesis evolves throughout the search as you learn from reviewing
+          deals, talking to operators, and receiving investor feedback. Expect meaningful
+          refinements through the first 6 months of active searching.
+        </p>
+
+        <h3 className={h3Class}>Can you change your thesis during the search?</h3>
+        <p>
+          Yes, and you should. The best searchers treat their thesis as a living document.
+          Common pivots include expanding geography after finding limited deal flow,
+          adding adjacent industries that share similar characteristics, or adjusting
+          size criteria based on financing reality. The key is making deliberate, data-driven
+          adjustments rather than chasing every new opportunity.
+        </p>
+
+        <h3 className={h3Class}>Do investors prefer a narrow or broad thesis?</h3>
+        <p>
+          Investors prefer a thesis that is specific enough to demonstrate strategic thinking
+          but broad enough to generate adequate deal flow. A thesis targeting 2 to 4 industries,
+          3 to 5 geographies, and clear financial criteria (such as $1.5M to $5M EBITDA)
+          strikes the right balance. Presenting a thesis that is too narrow signals
+          inexperience with deal sourcing realities.
         </p>
       </div>
     </article>

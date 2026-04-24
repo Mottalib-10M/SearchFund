@@ -462,9 +462,49 @@ export default function WhatIsETAArticle() {
         </p>
         <p>
           Whether you are a young professional looking for an alternative to the
-          corporate track, an experienced executive seeking ownership, or an
-          investor looking for outsized returns, ETA offers a proven,
+          corporate track, an experienced executive seeking ownership, or an{" "}
+          <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
+            investor looking for outsized returns
+          </Link>, ETA offers a proven,
           data-backed path to building wealth through business ownership.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much money do you need to start an ETA journey?</h3>
+        <p>
+          It depends on the model. In a traditional search fund, investors
+          provide $400,000 to $600,000 in search capital, so the searcher
+          needs little personal capital upfront. In a{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+            self-funded search
+          </Link>, entrepreneurs typically invest $50,000 to $150,000 of
+          personal savings to cover living expenses and deal-sourcing costs
+          during the search phase.
+        </p>
+
+        <h3 className={h3Class}>What industries are best suited for ETA?</h3>
+        <p>
+          The ideal ETA targets are profitable, stable businesses in
+          fragmented industries with recurring revenue. Popular sectors
+          include SaaS, healthcare services, professional services, home
+          services, and manufacturing. The key is finding businesses with
+          15 to 25 percent EBITDA margins, low customer concentration, and
+          a retiring or disengaged owner who creates the succession
+          opportunity.
+        </p>
+
+        <h3 className={h3Class}>How long does the entire ETA process take from start to exit?</h3>
+        <p>
+          The full ETA lifecycle typically spans five to eight years.
+          Preparation takes three to six months, fundraising two to four
+          months (traditional model only), the search twelve to twenty-four
+          months, due diligence and closing two to four months, and
+          operations three to seven years before exit. Explore the detailed
+          timeline in our{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
+            step-by-step acquisition guide
+          </Link>.
         </p>
       </div>
     </article>

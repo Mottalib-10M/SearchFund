@@ -19,6 +19,11 @@ export default function HowLongBuyBusinessArticle() {
           formation to acquisition close. The timeline depends on your
           approach (search fund vs. self-funded), the complexity of the
           transaction, financing method, and how competitive the market is.
+          Understanding the full{" "}
+          <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
+            search fund lifecycle
+          </Link>{" "}
+          helps put each phase in context.
         </p>
         <p>
           This guide breaks down each phase of the acquisition timeline
@@ -214,13 +219,23 @@ export default function HowLongBuyBusinessArticle() {
         <p>
           Expect the process to take longer than you think. The median
           first-time buyer underestimates the timeline by 6&ndash;12
-          months. Build buffer into your personal financial runway, start
+          months. Build buffer into your personal financial runway &mdash;
+          our{" "}
+          <Link href="/learn/search-fund-cost" className="text-apple-accent hover:underline">
+            search fund cost breakdown
+          </Link>{" "}
+          can help you plan &mdash; start
           building relationships with brokers and lenders early, and
           remember that{" "}
           <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
             patience
           </Link>{" "}
-          is one of the most valuable traits in an acquirer. It&rsquo;s
+          is one of the most valuable traits in an acquirer. Choosing the
+          right{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
+            industry
+          </Link>{" "}
+          upfront also reduces wasted time on unsuitable targets. It&rsquo;s
           better to take an extra 3 months finding the right deal than to
           rush into the wrong one.
         </p>

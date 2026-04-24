@@ -22,8 +22,10 @@ export default function BabyBoomerSuccessionArticle() {
           retirement.
         </p>
         <p>
-          For aspiring business owners, search fund investors, and ETA
-          practitioners, this succession crisis represents an unprecedented
+          For aspiring business owners, search fund investors, and{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            ETA practitioners
+          </Link>, this succession crisis represents an unprecedented
           acquisition opportunity. The supply of quality businesses available
           for purchase is growing far faster than the demand from qualified
           buyers, creating favorable conditions for acquirers in terms of
@@ -250,7 +252,11 @@ export default function BabyBoomerSuccessionArticle() {
           <li><strong>Right size:</strong> Search funds target the $2&ndash;$20M enterprise value segment that large PE firms ignore and individual buyers struggle to finance</li>
           <li><strong>Right approach:</strong> The searcher-as-CEO model appeals to sellers who want a committed, hands-on successor rather than a financial buyer</li>
           <li><strong>Right financing:</strong> The combination of investor equity, bank debt, seller notes, and government programs makes acquisitions feasible</li>
-          <li><strong>Right economics:</strong> With lower multiples due to succession urgency and value creation through modernization, returns are attractive for both operators and investors</li>
+          <li><strong>Right economics:</strong> With lower multiples due to succession urgency and value creation through modernization, returns are attractive for both operators and{" "}
+            <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
+              investors
+            </Link>
+          </li>
         </ul>
         <p>
           The{" "}
@@ -290,6 +296,51 @@ export default function BabyBoomerSuccessionArticle() {
           persist for at least 10&ndash;15 years as the boomer generation fully
           exits the workforce. For those who prepare now, it represents the
           defining opportunity of a generation in small business acquisition.
+          Learn how to take advantage in our{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
+            complete guide to buying a small business
+          </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How many baby boomer businesses are for sale right now?</h3>
+        <p>
+          In the United States, approximately 10 million businesses are
+          owned by people aged 55 and older, representing roughly $10
+          trillion in enterprise value. In Europe, 450,000 businesses
+          undergo ownership transfer annually. The pace is accelerating as
+          the peak boomer cohort (born 1955 to 1964) reaches retirement
+          age through the 2030s. Fewer than 25 percent of these owners
+          have a formal succession plan.
+        </p>
+
+        <h3 className={h3Class}>Why are baby boomer businesses good acquisition targets?</h3>
+        <p>
+          Boomer-owned businesses often have decades of stable cash flow,
+          loyal customer bases, and established operations. Many have been
+          managed conservatively with limited investment in technology and
+          marketing, creating significant upside potential for a new
+          owner-operator. The supply-demand imbalance also means buyers
+          can often negotiate favorable pricing and{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
+            seller financing terms
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>What is the best way to find succession-driven deals?</h3>
+        <p>
+          The most effective approach combines direct outreach to aging
+          business owners with relationships through accountants, wealth
+          advisors, and business brokers who counsel retiring entrepreneurs.
+          Many succession-driven deals never reach the open market, so
+          proprietary{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+            deal sourcing
+          </Link>{" "}
+          is essential. Industry conferences, trade associations, and local
+          chambers of commerce are also productive sourcing channels for
+          identifying owners considering retirement.
         </p>
       </div>
     </article>

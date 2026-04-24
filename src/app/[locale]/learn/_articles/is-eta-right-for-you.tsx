@@ -20,7 +20,10 @@ export default function IsETARightForYouArticle() {
           Often because the searcher wasn&rsquo;t a good fit for the model.
           This self-assessment framework helps you evaluate whether ETA
           aligns with your skills, personality, financial situation, and
-          career goals.
+          career goals. If you decide ETA is the right fit, you can learn{" "}
+          <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
+            how much money you need to buy a business
+          </Link>.
         </p>
 
         <h2 className={h2Class}>The ETA personality profile</h2>
@@ -37,7 +40,11 @@ export default function IsETARightForYouArticle() {
           <li><strong>Bias for action:</strong> You prefer doing over analyzing. ETA rewards decisiveness &mdash; you&rsquo;ll review 100+ businesses and need to move quickly on the best ones</li>
           <li><strong>Comfort with ambiguity:</strong> The search phase has no playbook. You wake up every day with no boss, no structure, and no clear path</li>
           <li><strong>Resilience:</strong> You&rsquo;ll hear &ldquo;no&rdquo; hundreds of times from brokers, sellers, and investors. The emotional toll is real</li>
-          <li><strong>Intellectual curiosity:</strong> Successful searchers become mini-experts in niche industries (HVAC, waste management, insurance) they never expected to love</li>
+          <li><strong>Intellectual curiosity:</strong> Successful searchers become mini-experts in niche industries (HVAC, waste management, insurance) they never expected to love. Understanding{" "}
+            <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
+              what makes a good acquisition target
+            </Link>{" "}
+            requires genuine interest in learning new sectors</li>
           <li><strong>Leadership instinct:</strong> You genuinely want to lead people. The business you acquire will have employees who depend on you</li>
         </ul>
 
@@ -227,13 +234,34 @@ export default function IsETARightForYouArticle() {
             <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">
               comparison guide
             </Link></li>
-          <li><strong>Search fund advisory:</strong> Work as an advisor to searchers while maintaining your day job</li>
+          <li><strong>Search fund advisory:</strong> Work as an advisor to searchers while maintaining your day job. Our{" "}
+            <Link href="/learn/buying-vs-starting-business" className="text-apple-accent hover:underline">
+              buying vs. starting a business comparison
+            </Link>{" "}
+            may also help clarify your entrepreneurial path</li>
           <li><strong>Wait:</strong> ETA isn&rsquo;t going anywhere. The{" "}
             <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
               baby boomer succession wave
             </Link>{" "}
             will create opportunities for the next 15+ years</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the ideal age to start a search fund?</h3>
+        <p>
+          Most successful search fund CEOs start between ages 28 and 35, typically 2&ndash;7 years after completing an MBA or gaining equivalent professional experience. Younger searchers (26&ndash;30) benefit from low personal obligations and a long runway, making them attractive to investors. Experienced operators (35&ndash;45) often prefer self-funded search, where their operational track record and personal capital make them credible with sellers and lenders. There is no hard age limit, but the 5&ndash;10 year CEO commitment matters to investors.
+        </p>
+
+        <h3 className={h3Class}>Do I need an MBA to pursue ETA?</h3>
+        <p>
+          No. While many searchers come from MBA programs (especially Stanford, HBS, and IESE), an MBA is not required. What matters is financial literacy, leadership ability, sales skills, and the resilience to endure a long search. Investors evaluate your professional track record, communication skills, and coachability more than your degree. Self-funded searchers, in particular, rely on operational experience and personal capital rather than academic credentials.
+        </p>
+
+        <h3 className={h3Class}>How long does the search phase typically last?</h3>
+        <p>
+          The search phase typically lasts 12&ndash;24 months for a traditional search fund. Self-funded searchers may find a target in 6&ndash;18 months, depending on how narrowly they define their criteria. About 25&ndash;30% of searchers never close a deal, usually because they search too broadly, set unrealistic price expectations, or underestimate the emotional toll. Defining clear acquisition criteria early and building strong broker relationships significantly shortens the timeline.
+        </p>
       </div>
     </article>
   );

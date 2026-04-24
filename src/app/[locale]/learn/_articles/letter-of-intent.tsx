@@ -54,8 +54,11 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>2. Transaction structure</h3>
         <p>
-          Specify whether you are proposing an asset purchase or a share
-          purchase. Asset purchases are more common in the US (favorable tax
+          Specify whether you are proposing an{" "}
+          <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
+            asset purchase or a share purchase
+          </Link>.
+          Asset purchases are more common in the US (favorable tax
           treatment for buyers, ability to select assets and exclude
           liabilities). Share purchases are more common in Europe, particularly
           in France and Germany, where asset transfers can trigger complex
@@ -361,7 +364,11 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>Competitive vs. exclusive LOIs</h3>
         <p>
-          In a brokered process where multiple buyers are bidding, you may
+          In a brokered process &mdash; often sourced through{" "}
+          <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
+            business brokers
+          </Link>{" "}
+          &mdash; where multiple buyers are bidding, you may
           submit a competitive LOI alongside other bidders. Competitive LOIs
           require sharper pricing (less room for a valuation range), stronger
           certainty-of-close language, and fewer contingencies to stand out.
@@ -392,7 +399,48 @@ export default function LetterOfIntentArticle() {
           your next-best opportunity, which you have already vetted at a
           preliminary level. This disciplined approach balances pipeline
           management with the integrity that the search fund community
-          demands.
+          demands. For more on building a healthy pipeline, see our guide on{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+            deal sourcing strategies
+          </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What should the purchase price section of an LOI include?</h3>
+        <p>
+          The purchase price section should state the proposed enterprise value
+          and how you arrived at it (for example, a multiple of trailing twelve
+          months adjusted EBITDA). Specify whether the price is fixed or subject
+          to a working capital adjustment at closing. Many search fund LOIs
+          express the price as a range to preserve negotiating flexibility while
+          giving the seller a clear indication. Also clarify the form of
+          consideration &mdash; cash at closing, seller notes, earn-outs, or a
+          combination.
+        </p>
+
+        <h3 className={h3Class}>How long does it take to go from LOI to closing?</h3>
+        <p>
+          The typical path from a signed LOI to closing takes 3&ndash;6 months.
+          The first four weeks focus on intensive financial diligence and a quality
+          of earnings analysis. Weeks four through eight cover operational and
+          legal diligence plus purchase agreement drafting. Weeks eight through
+          twelve involve finalizing the purchase agreement, securing acquisition
+          financing, and closing remaining diligence items. Industry data
+          suggests approximately 30% of signed LOIs do not result in a completed
+          transaction, most commonly due to diligence discoveries, financing
+          failures, or seller&rsquo;s remorse.
+        </p>
+
+        <h3 className={h3Class}>Can I submit LOIs to multiple sellers at the same time?</h3>
+        <p>
+          You can advance multiple opportunities through initial evaluation and
+          management meetings simultaneously, but you should sign an exclusive
+          LOI with only one target at a time. Signing multiple exclusive LOIs
+          simultaneously is considered unethical in the search fund community
+          and risks reputational damage. If your first deal falls through, you
+          can quickly pivot to your next-best opportunity if you have maintained
+          a warm pipeline.
         </p>
       </div>
     </article>

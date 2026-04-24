@@ -15,7 +15,11 @@ export default function GettingStartedArticle() {
           privately held company. The model was pioneered at Stanford Graduate
           School of Business in 1984 and has since grown into a well-established
           path for aspiring CEOs who want to skip the corporate ladder and go
-          straight to running their own company.
+          straight to running their own company. For a broader overview of the
+          acquisition landscape, see our guide on{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
+            how to buy a small business
+          </Link>.
         </p>
 
         <p>
@@ -419,7 +423,51 @@ export default function GettingStartedArticle() {
           fund activity outside the US over the past decade demonstrates that the
           model is portable and adaptable, and the European market in particular
           offers compelling structural advantages for searchers and investors
-          alike.
+          alike. The{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession wave
+          </Link>{" "}
+          is creating deal flow at an unprecedented scale across both continents.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the difference between a search fund and private equity?</h3>
+        <p>
+          A search fund acquires a single company in the $2M to $20M
+          enterprise value range, with the searcher becoming the full-time
+          CEO. Private equity firms manage diversified portfolios of much
+          larger companies ($100M+) and install professional management
+          teams. Search funds also use a step-up equity model rather than
+          the 2-and-20 fee structure common in PE. For a deeper comparison,
+          see our article on{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            entrepreneurship through acquisition
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>How do search fund investors make money?</h3>
+        <p>
+          Investors contribute search capital ($30K to $50K per unit) and
+          then have the right to co-invest in the acquisition. Their search
+          capital converts at a 1.5x to 2.0x step-up, and they share in the
+          value created when the company is eventually sold, typically five
+          to seven years after acquisition. The asset class has generated a
+          35 percent aggregate IRR over 40 years. Learn more in our{" "}
+          <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
+            investor guide
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>Can you start a search fund outside the United States?</h3>
+        <p>
+          Yes. The search fund model has been successfully adapted across
+          Europe, Latin America, and Asia. European search funds have grown
+          from fewer than 10 per year in 2010 to over 80 per year as of
+          2024, with particularly strong activity in France, Germany, Spain,
+          and the United Kingdom. Business schools like IESE, INSEAD, and
+          HEC Paris have built dedicated ETA programs that support
+          searchers in local markets.
         </p>
       </div>
     </article>

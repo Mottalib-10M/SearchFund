@@ -146,6 +146,11 @@ export default function BuyBusinessNoExperienceArticle() {
           <li><strong>Loyal customer base:</strong> Low churn, diversified customers, contractual relationships. Don&rsquo;t buy a business where customer retention depends on the current owner&rsquo;s personal relationships</li>
           <li><strong>Stable or growing:</strong> Don&rsquo;t try to execute a turnaround as your first acquisition. Buy a healthy business and make it better</li>
           <li><strong>Reasonable owner transition:</strong> Negotiate 6&ndash;12 months of seller involvement to transfer knowledge and relationships</li>
+          <li><strong>Right size:</strong> Target{" "}
+            <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
+              the appropriate size range
+            </Link>{" "}
+            for your experience level and financing capacity</li>
         </ul>
 
         <h2 className={h2Class}>What experienced buyers know (that you should too)</h2>
@@ -155,7 +160,11 @@ export default function BuyBusinessNoExperienceArticle() {
               12&ndash;24 months of searching
             </Link>{" "}
             is emotionally draining. Prepare for the marathon</li>
-          <li><strong>Every deal falls apart:</strong> Your first LOI will probably not close. Neither will your second. Persistence wins</li>
+          <li><strong>Every deal falls apart:</strong> Your first{" "}
+            <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
+              LOI
+            </Link>{" "}
+            will probably not close. Neither will your second. Persistence wins</li>
           <li><strong>
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               Due diligence
@@ -174,6 +183,43 @@ export default function BuyBusinessNoExperienceArticle() {
           <Link href="/learn/sme-acquisition-guide" className="text-apple-accent hover:underline">
             SME acquisition beginner&rsquo;s guide
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the biggest risk of buying a business with no experience?</h3>
+        <p>
+          The biggest risk is overpaying for a business you do not fully understand. Without
+          operating experience, first-time buyers sometimes overestimate growth potential
+          or underestimate operational complexity. Mitigate this by investing heavily in{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
+            due diligence
+          </Link>, hiring a quality of earnings firm, and building an advisory board with
+          industry operators before closing.
+        </p>
+
+        <h3 className={h3Class}>Do I need an MBA to buy a business?</h3>
+        <p>
+          No. While many traditional search fund entrepreneurs hold MBAs from programs
+          like Stanford, Harvard, or IESE, an MBA is not required. Self-funded searchers
+          come from diverse backgrounds including military, engineering, sales, and
+          trades. What matters most is financial literacy, the ability to evaluate
+          businesses, and the discipline to execute a systematic search process.
+        </p>
+
+        <h3 className={h3Class}>How do I finance an acquisition if I have no experience?</h3>
+        <p>
+          The most common paths are: (1) a traditional search fund where{" "}
+          <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
+            investors
+          </Link>{" "}
+          provide search capital and acquisition equity, (2) SBA 7(a) loans which
+          are specifically designed for acquisition financing and do not require prior
+          ownership experience, or (3) significant{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
+            seller financing
+          </Link>{" "}
+          where the outgoing owner carries a note for 20 to 40 percent of the purchase price.
         </p>
       </div>
     </article>
