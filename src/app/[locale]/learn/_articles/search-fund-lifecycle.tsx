@@ -93,7 +93,7 @@ export default function SearchFundLifecycleArticle() {
         <h3 className={h3Class}>Economics</h3>
         <ul className={ulClass}>
           <li>Search capital is typically structured as a convertible note or preferred equity</li>
-          <li>Investors who participate in the search round get a &ldquo;step-up&rdquo; — the right to invest in the acquisition at 1.5x their pro-rata share</li>
+          <li>Investors who participate in the search round get a &ldquo;step-up&rdquo; - the right to invest in the acquisition at 1.5x their pro-rata share</li>
           <li>Searcher receives a modest salary ($80K&ndash;$120K) during the search phase</li>
         </ul>
 
@@ -362,11 +362,11 @@ export default function SearchFundLifecycleArticle() {
 
         <h2 className={h2Class}>Timeline summary</h2>
         <ul className={ulClass}>
-          <li><strong>Month 0&ndash;6:</strong> Fundraise — raise search capital, form entity</li>
-          <li><strong>Month 6&ndash;24:</strong> Search — source deals, submit LOIs</li>
-          <li><strong>Month 18&ndash;30:</strong> Acquisition — due diligence, financing, close</li>
-          <li><strong>Year 2&ndash;8:</strong> Operations — run and grow the business</li>
-          <li><strong>Year 6&ndash;10:</strong> Exit — sell or recapitalize</li>
+          <li><strong>Month 0&ndash;6:</strong> Fundraise - raise search capital, form entity</li>
+          <li><strong>Month 6&ndash;24:</strong> Search - source deals, submit LOIs</li>
+          <li><strong>Month 18&ndash;30:</strong> Acquisition - due diligence, financing, close</li>
+          <li><strong>Year 2&ndash;8:</strong> Operations - run and grow the business</li>
+          <li><strong>Year 6&ndash;10:</strong> Exit - sell or recapitalize</li>
         </ul>
         <p>
           Note that stages overlap: the acquisition stage begins during

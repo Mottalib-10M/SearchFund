@@ -53,7 +53,7 @@ export default function HomeServicesAcquisitionArticle() {
             Association of Home Builders, an estimated 60% of home
             services business owners are over 55, and many have no
             succession plan. This creates a large and growing pool of
-            willing sellers — our guide to{" "}
+            willing sellers - our guide to{" "}
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> explains
             how to find them.
           </li>
@@ -145,7 +145,7 @@ export default function HomeServicesAcquisitionArticle() {
           The transition from purely transactional revenue (break-fix calls)
           to recurring revenue (maintenance contracts and service agreements)
           is the single most valuable operational lever in home services
-          acquisitions — our{" "}
+          acquisitions - our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link> covers
           this shift in detail. Recurring revenue increases business value,
           improves cash flow predictability, and creates a competitive moat

@@ -15,7 +15,7 @@ export default function IdealAcquisitionTargetArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide breaks down the specific characteristics that define an ideal search fund acquisition target, the financial metrics that matter most, and the red flags that should make you walk away—no matter how attractive the initial numbers look.
+        This guide breaks down the specific characteristics that define an ideal search fund acquisition target, the financial metrics that matter most, and the red flags that should make you walk away - no matter how attractive the initial numbers look.
       </p>
 
       <h2 className={h2Class}>The Classic Search Fund Target Profile</h2>
@@ -37,7 +37,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These businesses aren't typically sexy. They won't be featured in TechCrunch or disrupting industries. They're the boring, profitable companies that form the backbone of the economy—distribution businesses, niche manufacturers, specialized service providers, and essential B2B companies.
+        These businesses aren't typically sexy. They won't be featured in TechCrunch or disrupting industries. They're the boring, profitable companies that form the backbone of the economy - distribution businesses, niche manufacturers, specialized service providers, and essential B2B companies.
       </p>
 
       <p className={bodyClass}>
@@ -99,7 +99,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Low-margin businesses are inherently riskier. A 5% margin business has no room for error—a single operational mistake or market downturn can wipe out profitability entirely.
+        Low-margin businesses are inherently riskier. A 5% margin business has no room for error - a single operational mistake or market downturn can wipe out profitability entirely.
       </p>
 
       <h2 className={h2Class}>Recurring Revenue and Customer Concentration</h2>
@@ -121,7 +121,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Businesses with 60%+ recurring revenue typically command premium valuations—and deserve them. This revenue base provides stability during your crucial first year as CEO and reduces the pressure to constantly hunt for new business.
+        Businesses with 60%+ recurring revenue typically command premium valuations - and deserve them. This revenue base provides stability during your crucial first year as CEO and reduces the pressure to constantly hunt for new business.
       </p>
 
       <p className={bodyClass}>
@@ -145,13 +145,13 @@ export default function IdealAcquisitionTargetArticle() {
       </p>
 
       <p className={bodyClass}>
-        Some industry exceptions exist—government contractors or specialized manufacturers serving oligopoly markets—but these require careful contract analysis and explicit mitigation strategies.
+        Some industry exceptions exist - government contractors or specialized manufacturers serving oligopoly markets - but these require careful contract analysis and explicit mitigation strategies.
       </p>
 
       <h2 className={h2Class}>Owner Dependency: The Key Risk Factor</h2>
 
       <p className={bodyClass}>
-        Owner dependency kills more search fund acquisitions than any other single factor. A business that runs only when the owner shows up isn't a business—it's a job you've purchased for $10 million.
+        Owner dependency kills more search fund acquisitions than any other single factor. A business that runs only when the owner shows up isn't a business - it's a job you've purchased for $10 million.
       </p>
 
       <h3 className={h3Class}>Identifying Owner Dependency</h3>
@@ -169,7 +169,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        The ideal scenario involves an owner who's already stepped back from daily operations—businesses where professional managers handle day-to-day execution while the owner focuses on strategy and major decisions.
+        The ideal scenario involves an owner who's already stepped back from daily operations - businesses where professional managers handle day-to-day execution while the owner focuses on strategy and major decisions.
       </p>
 
       <h3 className={h3Class}>Acceptable vs. Unacceptable Dependency</h3>
@@ -196,7 +196,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Structure seller transition agreements accordingly. For moderate dependency, negotiate 6-12 month consulting periods with clear handoff milestones. For low dependency, shorter transitions work fine. For high dependency that can't be mitigated—walk away.
+        Structure seller transition agreements accordingly. For moderate dependency, negotiate 6-12 month consulting periods with clear handoff milestones. For low dependency, shorter transitions work fine. For high dependency that can't be mitigated - walk away.
       </p>
 
       <h2 className={h2Class}>Industry Characteristics That Matter</h2>
@@ -220,7 +220,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Essential B2B services exemplify many favorable characteristics—businesses providing necessary services to other companies in fragmented markets with high switching costs.
+        Essential B2B services exemplify many favorable characteristics - businesses providing necessary services to other companies in fragmented markets with high switching costs.
       </p>
 
       <h3 className={h3Class}>Industry Characteristics to Avoid</h3>
@@ -238,7 +238,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        First-time CEOs should avoid turnarounds and distressed situations. Find a good business with growth opportunities—not a struggling business that needs saving. For a deeper dive on building your target criteria, see our guide on{" "}
+        First-time CEOs should avoid turnarounds and distressed situations. Find a good business with growth opportunities - not a struggling business that needs saving. For a deeper dive on building your target criteria, see our guide on{" "}
         <Link href="/learn/ideal-company-profile" className="text-apple-accent hover:underline">
           creating your Ideal Company Profile
         </Link>.
@@ -257,7 +257,7 @@ export default function IdealAcquisitionTargetArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Personal preference:</strong> You'll likely live near the business for 5-10 years minimum—choose somewhere you actually want to be</li>
+        <li><strong>Personal preference:</strong> You'll likely live near the business for 5-10 years minimum - choose somewhere you actually want to be</li>
         <li><strong>Talent availability:</strong> Can you recruit qualified employees in this market? Professional managers won't relocate to remote areas for SMB roles</li>
         <li><strong>Customer proximity:</strong> Some businesses require being near customers; others can operate anywhere</li>
         <li><strong>Infrastructure access:</strong> Logistics, suppliers, and services matter for certain business models</li>
@@ -314,11 +314,11 @@ export default function IdealAcquisitionTargetArticle() {
       <ul className={ulClass}>
         <li><strong>Clear growth vectors:</strong> Specific, actionable opportunities like geographic expansion, new product lines, or add-on acquisitions</li>
         <li><strong>Scalable infrastructure:</strong> Systems that can handle 2-3x current volume without breaking</li>
-        <li><strong>Available capital:</strong> Growth requires investment—ensure you can fund expansion</li>
+        <li><strong>Available capital:</strong> Growth requires investment - ensure you can fund expansion</li>
       </ul>
 
       <p className={bodyClass}>
-        The best acquisition targets offer "stable base, growth upside"—solid existing business with clear expansion opportunities. A $15M revenue business with proven processes that could reach $30M through execution provides the ideal risk-return profile.
+        The best acquisition targets offer "stable base, growth upside" - solid existing business with clear expansion opportunities. A $15M revenue business with proven processes that could reach $30M through execution provides the ideal risk-return profile.
       </p>
 
       <h3 className={h3Class}>Identifying Genuine Growth Opportunities</h3>
@@ -392,7 +392,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Trust your instincts. If something feels wrong—even when you can't articulate exactly what—dig deeper or walk away. There will always be another deal.
+        Trust your instincts. If something feels wrong - even when you can't articulate exactly what - dig deeper or walk away. There will always be another deal.
       </p>
 
       <h2 className={h2Class}>Scoring Framework: Rating Targets</h2>
@@ -444,9 +444,9 @@ export default function IdealAcquisitionTargetArticle() {
       <h3 className={h3Class}>Interpreting Scores</h3>
 
       <ul className={ulClass}>
-        <li><strong>85-100 points:</strong> Exceptional target—pursue aggressively</li>
-        <li><strong>70-84 points:</strong> Strong candidate—conduct thorough diligence</li>
-        <li><strong>55-69 points:</strong> Acceptable target—understand weaknesses clearly</li>
+        <li><strong>85-100 points:</strong> Exceptional target - pursue aggressively</li>
+        <li><strong>70-84 points:</strong> Strong candidate - conduct thorough diligence</li>
+        <li><strong>55-69 points:</strong> Acceptable target - understand weaknesses clearly</li>
         <li><strong>Below 55 points:</strong> Pass unless extraordinary circumstances exist</li>
       </ul>
 
@@ -501,7 +501,7 @@ export default function IdealAcquisitionTargetArticle() {
       <h3 className={h3Class}>Software and Technology Services</h3>
 
       <p className={bodyClass}>
-        Established software and IT services businesses—not venture-backed startups:
+        Established software and IT services businesses - not venture-backed startups:
       </p>
 
       <ul className={ulClass}>
@@ -511,7 +511,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Target profitable, established companies with recurring revenue—not high-growth, cash-burning SaaS startups. The ideal software acquisition generates positive cash flow with 70%+ recurring revenue and reasonable churn rates.
+        Target profitable, established companies with recurring revenue - not high-growth, cash-burning SaaS startups. The ideal software acquisition generates positive cash flow with 70%+ recurring revenue and reasonable churn rates.
       </p>
 
       <h3 className={h3Class}>Healthcare Services</h3>
@@ -560,7 +560,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Focus on boring, profitable businesses in stable markets. The goal isn't to find the next unicorn—it's to acquire a great business you can run successfully for 5-10 years while building substantial value.
+        Focus on boring, profitable businesses in stable markets. The goal isn't to find the next unicorn - it's to acquire a great business you can run successfully for 5-10 years while building substantial value.
       </p>
 
       <h2 className={h2Class}>Frequently Asked Questions</h2>
@@ -592,7 +592,7 @@ export default function IdealAcquisitionTargetArticle() {
       </p>
 
       <p className={bodyClass}>
-        Use these criteria as a framework, but adapt them to your specific situation, skills, and goals. The "perfect" acquisition target doesn't exist—but with systematic evaluation and disciplined filtering, you can identify businesses that offer excellent risk-adjusted returns and set yourself up for long-term success.
+        Use these criteria as a framework, but adapt them to your specific situation, skills, and goals. The "perfect" acquisition target doesn't exist - but with systematic evaluation and disciplined filtering, you can identify businesses that offer excellent risk-adjusted returns and set yourself up for long-term success.
       </p>
 
       <p className={bodyClass}>

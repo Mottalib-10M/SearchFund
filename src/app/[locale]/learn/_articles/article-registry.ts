@@ -32,7 +32,7 @@ export interface ArticleMeta {
 }
 
 // ---------------------------------------------------------------------------
-// Category metadata — for category landing pages
+// Category metadata - for category landing pages
 // ---------------------------------------------------------------------------
 
 export interface CategoryMeta {
@@ -46,14 +46,14 @@ export const categoryMeta: CategoryMeta[] = [
   {
     slug: "getting-started",
     name: "Getting Started",
-    description: "Everything you need to know before launching your search fund — models, economics, and the ETA landscape.",
+    description: "Everything you need to know before launching your search fund - models, economics, and the ETA landscape.",
     ogDescription: "New to search funds? Start here. Understand the ETA model, compare traditional vs self-funded approaches, and learn why investors allocate to search funds.",
   },
   {
     slug: "fundraising-investors",
     name: "Fundraising & Investors",
     description: "How to raise capital, write a PPM, build your investor deck, and structure equity for your search fund.",
-    ogDescription: "From writing your PPM to closing your fundraise — guides on finding investors, structuring equity, and building compelling fundraising materials.",
+    ogDescription: "From writing your PPM to closing your fundraise - guides on finding investors, structuring equity, and building compelling fundraising materials.",
   },
   {
     slug: "deal-execution",
@@ -65,12 +65,12 @@ export const categoryMeta: CategoryMeta[] = [
     slug: "legal-tax",
     name: "Legal & Tax",
     description: "Entity structures, acquisition financing, tax optimization, seller financing, and working with professional advisors.",
-    ogDescription: "LLC vs GmbH vs SAS, SBA 7(a), seller notes, QSBS, Dutreil — the legal and tax frameworks for search fund acquisitions in the US and Europe.",
+    ogDescription: "LLC vs GmbH vs SAS, SBA 7(a), seller notes, QSBS, Dutreil - the legal and tax frameworks for search fund acquisitions in the US and Europe.",
   },
   {
     slug: "operations-growth",
     name: "Operations & Growth",
-    description: "Post-acquisition playbooks — from your first 100 days to digital transformation, revenue growth, and exit planning.",
+    description: "Post-acquisition playbooks - from your first 100 days to digital transformation, revenue growth, and exit planning.",
     ogDescription: "First 100 days, board governance, buy-and-build, digital transformation, revenue growth, and working capital management for search fund CEOs.",
   },
   {
@@ -82,26 +82,26 @@ export const categoryMeta: CategoryMeta[] = [
   {
     slug: "regional-guides",
     name: "Regional Guides",
-    description: "Country-by-country guides to ETA — legal structures, financing programs, market dynamics, and local ecosystems.",
+    description: "Country-by-country guides to ETA - legal structures, financing programs, market dynamics, and local ecosystems.",
     ogDescription: "ETA across borders: acquisition guides for the US, UK, France, Germany, Spain, Italy, Nordics, Benelux, and Switzerland.",
   },
   {
     slug: "investor-comparisons",
     name: "Investor Comparisons",
     description: "How search fund investing compares to private equity, venture capital, public markets, and real estate.",
-    ogDescription: "Search funds vs PE, VC, public markets, and real estate — compare returns, risk, liquidity, and portfolio construction across asset classes.",
+    ogDescription: "Search funds vs PE, VC, public markets, and real estate - compare returns, risk, liquidity, and portfolio construction across asset classes.",
   },
   {
     slug: "industry-playbooks",
     name: "Industry Playbooks",
-    description: "Sector-specific acquisition guides — SaaS, healthcare, manufacturing, professional services, e-commerce, and more.",
+    description: "Sector-specific acquisition guides - SaaS, healthcare, manufacturing, professional services, e-commerce, and more.",
     ogDescription: "Industry-specific playbooks for acquiring SaaS, healthcare, manufacturing, professional services, home services, e-commerce, education, and financial services businesses.",
   },
   {
     slug: "searcher-toolkit",
     name: "Searcher Toolkit",
     description: "Practical tools, mindset frameworks, career transition advice, and technology for search fund entrepreneurs.",
-    ogDescription: "Tools, psychology, career transition, and technology for searchers — everything you need beyond the deal itself.",
+    ogDescription: "Tools, psychology, career transition, and technology for searchers - everything you need beyond the deal itself.",
   },
   {
     slug: "resources",
@@ -122,7 +122,7 @@ export const categoryBySlug: Record<string, CategoryMeta> = Object.fromEntries(
 );
 
 // ---------------------------------------------------------------------------
-// Reading paths — curated article sequences for the hub page
+// Reading paths - curated article sequences for the hub page
 // ---------------------------------------------------------------------------
 
 export interface ReadingPath {
@@ -214,7 +214,7 @@ export const categories = [
 export type Category = (typeof categories)[number];
 
 // ---------------------------------------------------------------------------
-// All articles — ordered by category then display priority
+// All articles - ordered by category then display priority
 // ---------------------------------------------------------------------------
 
 export const allArticles: ArticleMeta[] = [
@@ -237,15 +237,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
-      { name: "European Commission", title: "SME Performance Review — Business Transfers", year: 2024 },
+      { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
       { question: "What does ETA stand for?", answer: "ETA stands for Entrepreneurship Through Acquisition. It is a path to business ownership where an individual acquires an existing, profitable company rather than building one from scratch. The model was pioneered at Stanford GSB in 1984." },
-      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1–20M vs $100M+ for PE), involves a single operator-CEO rather than a professional management team, and uses step-up equity instead of 2/20 fee structures. The operator becomes the full-time CEO and runs the business day-to-day." },
+      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1-20M vs $100M+ for PE), involves a single operator-CEO rather than a professional management team, and uses step-up equity instead of 2/20 fee structures. The operator becomes the full-time CEO and runs the business day-to-day." },
       { question: "What is the success rate of ETA?", answer: "Approximately 67% of traditional search funds successfully complete an acquisition. Among those that acquire, about two-thirds generate positive returns for investors, with a 35% aggregate IRR across the full dataset of 681 funds over 40 years." },
-      { question: "How much money do you need to start an ETA journey?", answer: "It depends on the model. In a traditional search fund, investors provide $400,000–$600,000 in search capital, so the searcher needs little personal capital upfront. In a self-funded search, entrepreneurs typically invest $50,000–$150,000 of personal savings to cover living expenses and deal-sourcing costs during the search phase." },
-      { question: "What industries are best suited for ETA?", answer: "The ideal ETA targets are profitable, stable businesses in fragmented industries with recurring revenue. Popular sectors include SaaS, healthcare services, professional services, home services, and manufacturing. The key is finding businesses with 15–25% EBITDA margins, low customer concentration, and a retiring or disengaged owner." },
-      { question: "How long does the entire ETA process take from start to exit?", answer: "The full ETA lifecycle typically spans five to eight years. Preparation takes 3–6 months, fundraising 2–4 months (traditional model only), the search 12–24 months, due diligence and closing 2–4 months, and operations 3–7 years before exit." },
+      { question: "How much money do you need to start an ETA journey?", answer: "It depends on the model. In a traditional search fund, investors provide $400,000-$600,000 in search capital, so the searcher needs little personal capital upfront. In a self-funded search, entrepreneurs typically invest $50,000-$150,000 of personal savings to cover living expenses and deal-sourcing costs during the search phase." },
+      { question: "What industries are best suited for ETA?", answer: "The ideal ETA targets are profitable, stable businesses in fragmented industries with recurring revenue. Popular sectors include SaaS, healthcare services, professional services, home services, and manufacturing. The key is finding businesses with 15-25% EBITDA margins, low customer concentration, and a retiring or disengaged owner." },
+      { question: "How long does the entire ETA process take from start to exit?", answer: "The full ETA lifecycle typically spans five to eight years. Preparation takes 3-6 months, fundraising 2-4 months (traditional model only), the search 12-24 months, due diligence and closing 2-4 months, and operations 3-7 years before exit." },
     ],
   },
   {
@@ -258,22 +258,22 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What is a Search Fund? The Complete Guide to Entrepreneurship Through Acquisition",
     ogDescription:
-      "From fundraising to exit — understand how search funds work, key statistics, and why ETA is one of the best paths to becoming a CEO.",
+      "From fundraising to exit - understand how search funds work, key statistics, and why ETA is one of the best paths to becoming a CEO.",
     datePublished: "2024-03-12",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub — European Research and Community", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - European Research and Community", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is a search fund?", answer: "A search fund is an investment vehicle where an entrepreneur raises capital from investors to fund a full-time search for, acquisition of, and operation of a single privately held company. The model was pioneered at Stanford GSB in 1984." },
-      { question: "How much does it cost to start a search fund?", answer: "A traditional search fund raises $400,000–$600,000 in search capital from 10–20 investors to cover the searcher's salary, travel, and expenses during a 18–24 month search period." },
+      { question: "How much does it cost to start a search fund?", answer: "A traditional search fund raises $400,000-$600,000 in search capital from 10-20 investors to cover the searcher's salary, travel, and expenses during a 18-24 month search period." },
       { question: "What returns do search funds generate?", answer: "According to the Stanford 2024 Study, search funds have generated aggregate pre-tax returns of approximately 35% IRR and 4.5x MOIC across 681 funds since 1984." },
       { question: "Do you need an MBA to start a search fund?", answer: "No. While many searchers hold MBAs from schools like Stanford, Harvard, and IESE, the model is increasingly open to professionals with operating experience, industry expertise, and strong networks regardless of educational background." },
-      { question: "How long does a search fund take?", answer: "The typical search fund lifecycle spans 5–8 years: 3–6 months fundraising, 18–24 months searching, 3–6 months closing the acquisition, and 4–7 years operating the company before exit." },
-      { question: "What is the difference between a search fund and private equity?", answer: "A search fund acquires a single company in the $2M–$20M enterprise value range, with the searcher becoming the full-time CEO. Private equity firms manage diversified portfolios of much larger companies ($100M+) and install professional management teams. Search funds use a step-up equity model rather than the 2-and-20 fee structure." },
-      { question: "How do search fund investors make money?", answer: "Investors contribute search capital ($30K–$50K per unit) and then have the right to co-invest in the acquisition. Their search capital converts at a 1.5x–2.0x step-up, and they share in the value created when the company is eventually sold, typically 5–7 years after acquisition." },
+      { question: "How long does a search fund take?", answer: "The typical search fund lifecycle spans 5-8 years: 3-6 months fundraising, 18-24 months searching, 3-6 months closing the acquisition, and 4-7 years operating the company before exit." },
+      { question: "What is the difference between a search fund and private equity?", answer: "A search fund acquires a single company in the $2M-$20M enterprise value range, with the searcher becoming the full-time CEO. Private equity firms manage diversified portfolios of much larger companies ($100M+) and install professional management teams. Search funds use a step-up equity model rather than the 2-and-20 fee structure." },
+      { question: "How do search fund investors make money?", answer: "Investors contribute search capital ($30K-$50K per unit) and then have the right to co-invest in the acquisition. Their search capital converts at a 1.5x-2.0x step-up, and they share in the value created when the company is eventually sold, typically 5-7 years after acquisition." },
       { question: "Can you start a search fund outside the United States?", answer: "Yes. The search fund model has been successfully adapted across Europe, Latin America, and Asia. European search funds have grown from fewer than 10 per year in 2010 to over 80 per year as of 2024, with strong activity in France, Germany, Spain, and the UK." },
     ],
   },
@@ -285,7 +285,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "Self-Funded Search vs. Traditional Search Fund — Which Path Is Right for You?",
+    ogTitle: "Self-Funded Search vs. Traditional Search Fund - Which Path Is Right for You?",
     ogDescription:
       "20% equity vs. 80%. Lower risk vs. more control. Compare the economics and trade-offs of both search fund models.",
     datePublished: "2024-03-28",
@@ -296,8 +296,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", year: 2023 },
     ],
     faqs: [
-      { question: "What is the difference between a self-funded and traditional search fund?", answer: "In a traditional search fund, investors provide $400K–$600K to fund the search, and the searcher receives 20–25% equity. In a self-funded search, the entrepreneur funds the search personally and retains 50–80% equity but bears all financial risk." },
-      { question: "Which model generates better returns for the searcher?", answer: "Self-funded searchers retain more equity (50–80% vs 20–25%) but invest their own capital. Traditional searchers have lower risk but less ownership. Both models can produce life-changing wealth depending on deal quality and execution." },
+      { question: "What is the difference between a self-funded and traditional search fund?", answer: "In a traditional search fund, investors provide $400K-$600K to fund the search, and the searcher receives 20-25% equity. In a self-funded search, the entrepreneur funds the search personally and retains 50-80% equity but bears all financial risk." },
+      { question: "Which model generates better returns for the searcher?", answer: "Self-funded searchers retain more equity (50-80% vs 20-25%) but invest their own capital. Traditional searchers have lower risk but less ownership. Both models can produce life-changing wealth depending on deal quality and execution." },
       { question: "Can I do a self-funded search without an MBA?", answer: "Yes. Self-funded searches are particularly well-suited for mid-career professionals with industry experience, savings, and existing professional networks. No MBA is required." },
     ],
   },
@@ -305,7 +305,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "why-invest-in-search-funds",
     title: "Why Invest in Search Funds?",
     description:
-      "35% IRR track record, portfolio construction, the European opportunity — a guide for prospective search fund investors.",
+      "35% IRR track record, portfolio construction, the European opportunity - a guide for prospective search fund investors.",
     readTime: "7 min read",
     tag: "Investor",
     category: "Getting Started",
@@ -317,14 +317,14 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub — Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is the typical return on search fund investments?", answer: "Search funds have delivered a 35% aggregate IRR and 4.5x return on invested capital over 40 years of data tracked by Stanford GSB, making them one of the highest-returning alternative asset classes." },
-      { question: "How much capital does a search fund investor need?", answer: "Most search fund investors commit $50,000–$200,000 per deal during the search phase, with additional capital at acquisition. Building a diversified portfolio typically requires $500K–$2M across 5–10 funds." },
-      { question: "What are the risks of search fund investing?", answer: "Key risks include searcher execution risk (~33% of funds don't complete an acquisition), concentration in small businesses, illiquidity (5–7 year hold periods), and key-person dependence on the operator." },
-      { question: "How do search fund returns compare to venture capital?", answer: "Search funds have delivered a 35% aggregate IRR over 40 years, compared to roughly 15–25% for top-quartile VC funds. Search fund returns are less concentrated, and investments have real assets and cash flow from day one, reducing the risk of total loss common in early-stage VC." },
-      { question: "What is the minimum time commitment for a search fund investor?", answer: "Passive investors spend 2–4 hours per month reviewing updates. Board-seat investors commit 8–12 hours per month per company, attending quarterly board meetings, advising on strategy, and helping with key hires." },
+      { question: "How much capital does a search fund investor need?", answer: "Most search fund investors commit $50,000-$200,000 per deal during the search phase, with additional capital at acquisition. Building a diversified portfolio typically requires $500K-$2M across 5-10 funds." },
+      { question: "What are the risks of search fund investing?", answer: "Key risks include searcher execution risk (~33% of funds don't complete an acquisition), concentration in small businesses, illiquidity (5-7 year hold periods), and key-person dependence on the operator." },
+      { question: "How do search fund returns compare to venture capital?", answer: "Search funds have delivered a 35% aggregate IRR over 40 years, compared to roughly 15-25% for top-quartile VC funds. Search fund returns are less concentrated, and investments have real assets and cash flow from day one, reducing the risk of total loss common in early-stage VC." },
+      { question: "What is the minimum time commitment for a search fund investor?", answer: "Passive investors spend 2-4 hours per month reviewing updates. Board-seat investors commit 8-12 hours per month per company, attending quarterly board meetings, advising on strategy, and helping with key hires." },
       { question: "Can I invest in search funds through a fund-of-funds structure?", answer: "Yes. Several institutional platforms offer fund-of-funds vehicles providing diversified exposure to multiple search funds, reducing single-deal risk and lowering the time commitment. However, direct investing typically offers better returns and more control." },
     ],
   },
@@ -338,7 +338,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How to Buy a Small Business: The Complete 9-Step Guide",
     ogDescription:
-      "From defining your thesis to closing the deal — the complete guide to buying a small business. Financing, sourcing, DD, negotiation, and transition.",
+      "From defining your thesis to closing the deal - the complete guide to buying a small business. Financing, sourcing, DD, negotiation, and transition.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -348,11 +348,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "The Handbook of Financing Growth", year: 2023 },
     ],
     faqs: [
-      { question: "How much does it cost to buy a small business?", answer: "Small businesses typically sell for 2–6x their annual EBITDA. A business earning $500K EBITDA might cost $1.5–3M. You'll need 10–25% as a down payment ($150K–$750K), with the rest financed through SBA loans, seller financing, and potentially investor equity." },
-      { question: "How long does it take to buy a small business?", answer: "From first search to closing, buying a small business typically takes 12–24 months. The search phase averages 12–18 months, followed by 60–90 days of due diligence and closing. Some self-funded acquirers close faster (6–12 months) with a targeted industry approach." },
-      { question: "Can I buy a business with no experience?", answer: "Yes, but it's harder. The search fund model is designed for first-time operators — about 85% of traditional searchers are acquiring a business for the first time. Industry experience, strong analytical skills, and a supportive investor/advisory network compensate for direct ownership experience." },
+      { question: "How much does it cost to buy a small business?", answer: "Small businesses typically sell for 2-6x their annual EBITDA. A business earning $500K EBITDA might cost $1.5-3M. You'll need 10-25% as a down payment ($150K-$750K), with the rest financed through SBA loans, seller financing, and potentially investor equity." },
+      { question: "How long does it take to buy a small business?", answer: "From first search to closing, buying a small business typically takes 12-24 months. The search phase averages 12-18 months, followed by 60-90 days of due diligence and closing. Some self-funded acquirers close faster (6-12 months) with a targeted industry approach." },
+      { question: "Can I buy a business with no experience?", answer: "Yes, but it's harder. The search fund model is designed for first-time operators - about 85% of traditional searchers are acquiring a business for the first time. Industry experience, strong analytical skills, and a supportive investor/advisory network compensate for direct ownership experience." },
       { question: "What is the best way to find a small business to buy?", answer: "The most effective acquirers use a combination of business brokers, direct outreach to owners, online marketplaces, and professional networks. Direct proprietary outreach typically yields the best deals at lower multiples because you avoid competition from other buyers." },
-      { question: "How much equity do I need to buy a small business?", answer: "Most small business acquisitions require 10–25% of the purchase price as equity. For a $2M deal, that means $200K–$500K in equity, with the remainder financed through bank debt (SBA 7(a) loans in the US) and seller financing." },
+      { question: "How much equity do I need to buy a small business?", answer: "Most small business acquisitions require 10-25% of the purchase price as equity. For a $2M deal, that means $200K-$500K in equity, with the remainder financed through bank debt (SBA 7(a) loans in the US) and seller financing." },
       { question: "Should I buy a business in an industry I already know?", answer: "Prior industry experience helps but is not required. Most successful search fund CEOs acquire companies outside their prior industry. The transferable skills that matter most are leadership, financial management, sales oversight, and strategic thinking." },
     ],
   },
@@ -360,7 +360,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "baby-boomer-succession",
     title: "The Baby Boomer Succession Crisis: $10 Trillion Opportunity",
     description:
-      "10 million US businesses, 23 million EU SMEs, and $10 trillion in value — why the boomer retirement wave is the biggest ETA opportunity in history.",
+      "10 million US businesses, 23 million EU SMEs, and $10 trillion in value - why the boomer retirement wave is the biggest ETA opportunity in history.",
     readTime: "15 min read",
     tag: "Research",
     category: "Getting Started",
@@ -371,7 +371,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "US Census Bureau", title: "Annual Business Survey: Business Owner Demographics", year: 2023 },
-      { name: "European Commission", title: "SME Performance Review — Business Transfers", year: 2024 },
+      { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
       { name: "Bpifrance", title: "Transmission-Reprise: Panorama des Cessions et Reprises d'Entreprise", url: "https://www.bpifrance.fr/nos-solutions/transmission-reprise", year: 2024 },
@@ -379,7 +379,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "How many businesses are baby boomers selling?", answer: "In the US, approximately 10 million businesses are owned by people aged 55+, representing roughly $10 trillion in enterprise value. In Europe, 450,000 businesses change hands annually. The pace will accelerate through the 2030s as the peak boomer cohort reaches retirement age." },
-      { question: "Why can't business owners pass their business to family?", answer: "Only 20–30% of family business transitions succeed. Children increasingly pursue different careers, may lack management skills, or face family dynamics that complicate succession. Smaller family sizes also mean fewer potential successors per business." },
+      { question: "Why can't business owners pass their business to family?", answer: "Only 20-30% of family business transitions succeed. Children increasingly pursue different careers, may lack management skills, or face family dynamics that complicate succession. Smaller family sizes also mean fewer potential successors per business." },
       { question: "How many baby boomer businesses are for sale right now?", answer: "In the United States, approximately 10 million businesses are owned by people aged 55 and older, representing roughly $10 trillion in enterprise value. In Europe, 450,000 businesses undergo ownership transfer annually. Fewer than 25% of these owners have a formal succession plan." },
       { question: "Why are baby boomer businesses good acquisition targets?", answer: "Boomer-owned businesses often have decades of stable cash flow, loyal customer bases, and established operations. Many have been managed conservatively with limited investment in technology and marketing, creating significant upside for a new owner-operator. The supply-demand imbalance also means buyers can negotiate favorable pricing and seller financing terms." },
       { question: "What is the best way to find succession-driven deals?", answer: "The most effective approach combines direct outreach to aging business owners with relationships through accountants, wealth advisors, and business brokers who counsel retiring entrepreneurs. Many succession-driven deals never reach the open market, so proprietary deal sourcing is essential." },
@@ -389,13 +389,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "why-search-funds-fail",
     title: "Why Do Search Funds Fail? 9 Common Mistakes",
     description:
-      "One-third of search fund acquisitions lose money. Analysis of the 9 most common failure modes — and how to avoid them.",
+      "One-third of search fund acquisitions lose money. Analysis of the 9 most common failure modes - and how to avoid them.",
     readTime: "16 min read",
     tag: "Research",
     category: "Getting Started",
     ogTitle: "Why Do Search Funds Fail? 9 Common Mistakes (And How to Avoid Them)",
     ogDescription:
-      "Overpaying, poor DD, failed transitions, excessive leverage — the 9 most common reasons search funds lose money, backed by Stanford data.",
+      "Overpaying, poor DD, failed transitions, excessive leverage - the 9 most common reasons search funds lose money, backed by Stanford data.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -406,10 +406,10 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What percentage of search funds fail?", answer: "About 33% of traditional search funds never complete an acquisition (returning unused capital to investors). Of those that do acquire, roughly one-third lose some or all invested capital. However, the overall asset class still generates strong returns because the winners more than offset the losers." },
-      { question: "What is the #1 reason search funds fail?", answer: "Overpaying for the acquisition is the single most common cause of search fund failure. After months of searching, deal fatigue leads searchers to stretch on valuation, rationalize aggressive projections, or ignore red flags — compressing returns to the point where there's no margin for error." },
+      { question: "What is the #1 reason search funds fail?", answer: "Overpaying for the acquisition is the single most common cause of search fund failure. After months of searching, deal fatigue leads searchers to stretch on valuation, rationalize aggressive projections, or ignore red flags - compressing returns to the point where there's no margin for error." },
       { question: "Can you recover from a bad search fund acquisition?", answer: "Recovery is possible but difficult. The key is early recognition, transparent communication with investors, and decisive action. Options include operational restructuring, debt renegotiation, seeking additional equity, or in some cases, a managed wind-down. Hiding problems always makes them worse." },
-      { question: "How much does poor due diligence cost search fund investors?", answer: "Inadequate due diligence is responsible for an estimated 25–30% of all search fund value destruction. The direct cost of professional DD ($50K–$150K) pales in comparison to the millions lost when issues like customer concentration, undisclosed liabilities, or working capital misunderstandings surface post-close." },
-      { question: "What is the survival rate after the first year of ownership?", answer: "The first 12–18 months are the highest-risk window. Approximately 60–70% of total value destruction in failing search funds occurs during this period. CEOs who follow a structured first 100 days playbook and resist the urge to make sweeping changes significantly improve their odds." },
+      { question: "How much does poor due diligence cost search fund investors?", answer: "Inadequate due diligence is responsible for an estimated 25-30% of all search fund value destruction. The direct cost of professional DD ($50K-$150K) pales in comparison to the millions lost when issues like customer concentration, undisclosed liabilities, or working capital misunderstandings surface post-close." },
+      { question: "What is the survival rate after the first year of ownership?", answer: "The first 12-18 months are the highest-risk window. Approximately 60-70% of total value destruction in failing search funds occurs during this period. CEOs who follow a structured first 100 days playbook and resist the urge to make sweeping changes significantly improve their odds." },
       { question: "Can choosing the wrong industry cause a search fund to fail?", answer: "Yes. Industry selection is one of the most consequential decisions a searcher makes. Businesses in cyclical, capital-intensive, or declining industries face structural headwinds that even excellent operators struggle to overcome. The best industries for search funds share characteristics like recurring revenue, low customer concentration, and fragmented competition." },
     ],
   },
@@ -423,7 +423,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Can You Buy a Business with No Money Down? 6 Realistic Strategies",
     ogDescription:
-      "Search funds ($0 personal), max seller financing, SBA with ROBS, earn-in paths — the realistic guide to buying a business with little or no cash.",
+      "Search funds ($0 personal), max seller financing, SBA with ROBS, earn-in paths - the realistic guide to buying a business with little or no cash.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -431,8 +431,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
-      { question: "Can you really buy a business with no money down?", answer: "Technically yes, but it's rare and comes with trade-offs. The most proven zero-personal-capital path is the traditional search fund model, where investors fund everything and you earn 20–30% equity. With seller financing, SBA loans, and creative structuring, you can also minimize personal capital to $10K–$50K." },
-      { question: "What is the minimum amount needed to buy a business?", answer: "It depends on the model: traditional search fund = $0 personal capital; self-funded SBA = $50K–$200K (10–15% equity injection); aggressive seller financing = $10K–$50K (legal and transition costs). Having $100K+ in personal capital dramatically expands your options." },
+      { question: "Can you really buy a business with no money down?", answer: "Technically yes, but it's rare and comes with trade-offs. The most proven zero-personal-capital path is the traditional search fund model, where investors fund everything and you earn 20-30% equity. With seller financing, SBA loans, and creative structuring, you can also minimize personal capital to $10K-$50K." },
+      { question: "What is the minimum amount needed to buy a business?", answer: "It depends on the model: traditional search fund = $0 personal capital; self-funded SBA = $50K-$200K (10-15% equity injection); aggressive seller financing = $10K-$50K (legal and transition costs). Having $100K+ in personal capital dramatically expands your options." },
       { question: "How do sellers feel about no-money-down offers?", answer: "Most sellers are initially skeptical because they perceive higher risk. Mitigate this by presenting a well-structured deal with credible institutional backing, demonstrating deep knowledge through thorough due diligence, and offering terms that align the seller's interest with deal success (e.g., higher interest on seller financing or earn-out components)." },
     ],
   },
@@ -440,13 +440,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-lifecycle",
     title: "The Search Fund Lifecycle: From Raise to Exit",
     description:
-      "The five stages of a search fund — fundraise, search, acquisition, operations, and exit — with timelines, economics, and common pitfalls at each stage.",
+      "The five stages of a search fund - fundraise, search, acquisition, operations, and exit - with timelines, economics, and common pitfalls at each stage.",
     readTime: "16 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "The Search Fund Lifecycle: From Raise to Exit (7–10 Year Journey)",
+    ogTitle: "The Search Fund Lifecycle: From Raise to Exit (7-10 Year Journey)",
     ogDescription:
-      "Fundraise → Search → Acquire → Operate → Exit. The complete 7–10 year search fund lifecycle with timelines, milestones, economics, and common mistakes at each stage.",
+      "Fundraise → Search → Acquire → Operate → Exit. The complete 7-10 year search fund lifecycle with timelines, milestones, economics, and common mistakes at each stage.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -456,11 +456,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "Search Fund Accelerator", title: "Lifecycle Benchmarks Report", year: 2024 },
     ],
     faqs: [
-      { question: "How long does the search fund lifecycle take?", answer: "The complete lifecycle from fundraise to exit typically spans 7–10 years: 3–6 months to fundraise, 12–24 months to search, 3–9 months to close the acquisition, 4–7 years of operations, and then an exit event. Self-funded searchers can compress this by skipping the fundraise." },
-      { question: "What happens if a searcher doesn't find a company?", answer: "About 33% of traditional search funds never complete an acquisition. In this case, the searcher typically winds down the fund, returns any unused search capital to investors (who lose the spent portion), and moves on — often to a corporate role, another search, or joining a portfolio company." },
-      { question: "How much does each stage of the search fund lifecycle cost?", answer: "The fundraise and search phases together cost $400K–$600K in investor-funded search capital. The acquisition phase adds $50K–$150K in due diligence and transaction fees, plus the acquisition equity itself ($2M–$10M+). Self-funded searchers bear these costs personally but retain significantly more equity." },
-      { question: "What percentage of search funds make it through all five stages?", answer: "Approximately 67% of traditional search funds complete an acquisition (Stages 1–3). Of those, roughly two-thirds generate positive returns for investors through the operations and exit stages." },
-      { question: "Can the search fund lifecycle be shortened?", answer: "Yes. Self-funded searchers skip the fundraise stage entirely, and searchers with strong industry theses and broker networks often compress the search from 18–24 months to 6–12. SBA pre-qualification and full-time searching are the biggest accelerators." },
+      { question: "How long does the search fund lifecycle take?", answer: "The complete lifecycle from fundraise to exit typically spans 7-10 years: 3-6 months to fundraise, 12-24 months to search, 3-9 months to close the acquisition, 4-7 years of operations, and then an exit event. Self-funded searchers can compress this by skipping the fundraise." },
+      { question: "What happens if a searcher doesn't find a company?", answer: "About 33% of traditional search funds never complete an acquisition. In this case, the searcher typically winds down the fund, returns any unused search capital to investors (who lose the spent portion), and moves on - often to a corporate role, another search, or joining a portfolio company." },
+      { question: "How much does each stage of the search fund lifecycle cost?", answer: "The fundraise and search phases together cost $400K-$600K in investor-funded search capital. The acquisition phase adds $50K-$150K in due diligence and transaction fees, plus the acquisition equity itself ($2M-$10M+). Self-funded searchers bear these costs personally but retain significantly more equity." },
+      { question: "What percentage of search funds make it through all five stages?", answer: "Approximately 67% of traditional search funds complete an acquisition (Stages 1-3). Of those, roughly two-thirds generate positive returns for investors through the operations and exit stages." },
+      { question: "Can the search fund lifecycle be shortened?", answer: "Yes. Self-funded searchers skip the fundraise stage entirely, and searchers with strong industry theses and broker networks often compress the search from 18-24 months to 6-12. SBA pre-qualification and full-time searching are the biggest accelerators." },
     ],
   },
   {
@@ -473,7 +473,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How Long Does It Take to Buy a Business? Realistic Timelines",
     ogDescription:
-      "6–24 months depending on approach. Breakdown of every phase: prep (1–3 months), sourcing (2–12), LOI (2–6 weeks), DD (45–120 days), and closing (2–4 weeks).",
+      "6-24 months depending on approach. Breakdown of every phase: prep (1-3 months), sourcing (2-12), LOI (2-6 weeks), DD (45-120 days), and closing (2-4 weeks).",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -482,24 +482,24 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "7(a) Loan Processing Times", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
-      { question: "How long does it take to buy a business?", answer: "For self-funded searchers working full-time, expect 6–18 months from start to close. Part-time searchers take 12–24 months. Traditional search funds take 18–30 months including the fundraise. If you have a known target, a direct acquisition can close in 3–9 months." },
-      { question: "What is the longest part of buying a business?", answer: "Deal sourcing is typically the longest phase (2–12 months), followed by due diligence (45–120 days). The single biggest variable is seller responsiveness — organized sellers save weeks, while disorganized sellers can add months to the process." },
-      { question: "Can I speed up the acquisition timeline?", answer: "Yes, several actions meaningfully compress timelines. Getting SBA pre-qualification before you identify a target eliminates 2–4 weeks of financing uncertainty. Hiring experienced M&A counsel and searching full-time rather than part-time are the biggest accelerators — BizBuySell data suggests full-time searchers close 50–100% faster." },
-      { question: "What causes deals to fall through after the LOI is signed?", answer: "The most common deal-killers after LOI signing are due diligence discoveries (undisclosed liabilities, financial discrepancies, or customer concentration), financing failures (SBA underwriting rejection), and seller cold feet. Approximately 30–50% of deals that reach LOI stage fail to close." },
-      { question: "Should I search for a business full-time or part-time?", answer: "If your financial situation allows it, full-time searching is significantly more effective. Full-time searchers typically close in 6–18 months, while part-time searchers take 12–24 months. The difference comes from faster response times, more capacity for broker relationships, and the ability to conduct deeper analysis." },
+      { question: "How long does it take to buy a business?", answer: "For self-funded searchers working full-time, expect 6-18 months from start to close. Part-time searchers take 12-24 months. Traditional search funds take 18-30 months including the fundraise. If you have a known target, a direct acquisition can close in 3-9 months." },
+      { question: "What is the longest part of buying a business?", answer: "Deal sourcing is typically the longest phase (2-12 months), followed by due diligence (45-120 days). The single biggest variable is seller responsiveness - organized sellers save weeks, while disorganized sellers can add months to the process." },
+      { question: "Can I speed up the acquisition timeline?", answer: "Yes, several actions meaningfully compress timelines. Getting SBA pre-qualification before you identify a target eliminates 2-4 weeks of financing uncertainty. Hiring experienced M&A counsel and searching full-time rather than part-time are the biggest accelerators - BizBuySell data suggests full-time searchers close 50-100% faster." },
+      { question: "What causes deals to fall through after the LOI is signed?", answer: "The most common deal-killers after LOI signing are due diligence discoveries (undisclosed liabilities, financial discrepancies, or customer concentration), financing failures (SBA underwriting rejection), and seller cold feet. Approximately 30-50% of deals that reach LOI stage fail to close." },
+      { question: "Should I search for a business full-time or part-time?", answer: "If your financial situation allows it, full-time searching is significantly more effective. Full-time searchers typically close in 6-18 months, while part-time searchers take 12-24 months. The difference comes from faster response times, more capacity for broker relationships, and the ability to conduct deeper analysis." },
     ],
   },
   {
     slug: "best-industries-search-funds",
     title: "What Industries Are Best for Search Funds?",
     description:
-      "Ranked by recurring revenue, fragmentation, margins, and succession dynamics — the best industries for search fund acquisitions with data from Stanford.",
+      "Ranked by recurring revenue, fragmentation, margins, and succession dynamics - the best industries for search fund acquisitions with data from Stanford.",
     readTime: "15 min read",
     tag: "Research",
     category: "Getting Started",
     ogTitle: "Best Industries for Search Funds: Data-Driven Ranking",
     ogDescription:
-      "Business services, SaaS, healthcare, home services, professional services — ranked by recurring revenue, fragmentation, margins, and search fund success rates.",
+      "Business services, SaaS, healthcare, home services, professional services - ranked by recurring revenue, fragmentation, margins, and search fund success rates.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -513,7 +513,7 @@ export const allArticles: ArticleMeta[] = [
       { question: "What industries should search fund buyers avoid?", answer: "Industries to approach with caution include restaurants (low margins, high failure rates), physical retail (e-commerce disruption), general construction (project-based, cyclical), commodity manufacturing (no differentiation), and media/publishing (structural decline). These lack the recurring revenue and margin characteristics that make acquisitions financeable and manageable." },
       { question: "How important is industry experience when buying a search fund business?", answer: "Industry experience is valuable but not required for most Tier 1 sectors. First-time operators without prior industry experience perform well in straightforward industries like business services and home services, where transferable management skills matter more than domain expertise. Regulated industries like healthcare and financial services are the exception." },
       { question: "Do certain industries have higher search fund failure rates?", answer: "Yes. Industries with project-based revenue, high capital intensity, or secular decline have disproportionately higher failure rates. The Stanford data shows losses are more common in commodity manufacturing, construction, and traditional retail." },
-      { question: "How much do search fund-friendly industries typically cost to acquire?", answer: "Tier 1 industries trade at 3–8x EBITDA depending on the sector: home services at 3–5.5x, business services at 4–6x, professional services at 4–7x, healthcare at 4–7x, and SaaS at 4–8x ARR." },
+      { question: "How much do search fund-friendly industries typically cost to acquire?", answer: "Tier 1 industries trade at 3-8x EBITDA depending on the sector: home services at 3-5.5x, business services at 4-6x, professional services at 4-7x, healthcare at 4-7x, and SaaS at 4-8x ARR." },
     ],
   },
   {
@@ -526,7 +526,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How Much Does It Cost to Start a Search Fund? Full Breakdown",
     ogDescription:
-      "$400K–$600K search capital, $0–$50K personal (traditional) vs. $50K–$350K (self-funded). The complete cost breakdown for starting a search fund.",
+      "$400K-$600K search capital, $0-$50K personal (traditional) vs. $50K-$350K (self-funded). The complete cost breakdown for starting a search fund.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -535,11 +535,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
     ],
     faqs: [
-      { question: "How much does it cost to start a search fund?", answer: "A traditional search fund requires $400K–$600K in search capital (funded by investors), with the searcher investing $0–$50K personal capital. Self-funded searchers need $50K–$350K total personal investment covering search expenses, living costs, and the equity injection for the acquisition." },
-      { question: "Do search fund entrepreneurs need their own money?", answer: "In a traditional search fund, no — investors fund the search capital and acquisition equity. The searcher earns 20–25% equity through sweat equity. Some investors request $10K–$50K personal 'skin in the game' for alignment, but it's not universal." },
-      { question: "What is the minimum personal capital needed for a search fund?", answer: "In a traditional search fund, the minimum personal capital is effectively $0 — investors fund the entire search and acquisition. For self-funded searchers using SBA financing, the minimum equity injection is typically 10–15% of the deal size, meaning a $2M acquisition requires $200K–$300K in personal or investor equity." },
-      { question: "How do search fund costs compare across different industries?", answer: "Costs vary significantly by sector. SaaS and technology acquisitions command higher multiples (4–8x ARR) but have lower ongoing capex. Home services and business services trade at lower multiples (3–6x EBITDA) but may require working capital for equipment or vehicles." },
-      { question: "What hidden costs do first-time search fund entrepreneurs miss?", answer: "The most commonly overlooked costs include working capital adjustments at closing ($50K–$200K), post-acquisition technology and system upgrades ($20K–$100K), key employee retention bonuses ($25K–$75K), and the personal income gap during the 2–3 year search-to-stabilization period." },
+      { question: "How much does it cost to start a search fund?", answer: "A traditional search fund requires $400K-$600K in search capital (funded by investors), with the searcher investing $0-$50K personal capital. Self-funded searchers need $50K-$350K total personal investment covering search expenses, living costs, and the equity injection for the acquisition." },
+      { question: "Do search fund entrepreneurs need their own money?", answer: "In a traditional search fund, no - investors fund the search capital and acquisition equity. The searcher earns 20-25% equity through sweat equity. Some investors request $10K-$50K personal 'skin in the game' for alignment, but it's not universal." },
+      { question: "What is the minimum personal capital needed for a search fund?", answer: "In a traditional search fund, the minimum personal capital is effectively $0 - investors fund the entire search and acquisition. For self-funded searchers using SBA financing, the minimum equity injection is typically 10-15% of the deal size, meaning a $2M acquisition requires $200K-$300K in personal or investor equity." },
+      { question: "How do search fund costs compare across different industries?", answer: "Costs vary significantly by sector. SaaS and technology acquisitions command higher multiples (4-8x ARR) but have lower ongoing capex. Home services and business services trade at lower multiples (3-6x EBITDA) but may require working capital for equipment or vehicles." },
+      { question: "What hidden costs do first-time search fund entrepreneurs miss?", answer: "The most commonly overlooked costs include working capital adjustments at closing ($50K-$200K), post-acquisition technology and system upgrades ($20K-$100K), key employee retention bonuses ($25K-$75K), and the personal income gap during the 2-3 year search-to-stabilization period." },
     ],
   },
   {
@@ -561,11 +561,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much money do you need to buy a small business?", answer: "For an SBA-financed acquisition, you need 10–15% equity injection: $50K–$100K for a $500K–$1M business, $100K–$300K for a $1M–$3M business. With a traditional search fund, investors fund the equity and your personal capital requirement is $0–$50K." },
-      { question: "What are the hidden costs of buying a business?", answer: "Beyond the purchase price, budget for: due diligence ($50K–$150K for QoE, legal, environmental), transaction legal fees ($30K–$100K), lender fees (1–3% of loan), working capital reserves (2–3 months of operating expenses), and 3–6 months of personal living expenses." },
-      { question: "Can you buy a business with no money down?", answer: "Yes, but it requires specific structures. The traditional search fund model lets you acquire a business with as little as $0–$50K of personal capital because investors fund both the search and the acquisition equity. Creative approaches like maximum seller financing, earn-in arrangements, and ROBS rollovers can also dramatically reduce personal capital requirements." },
-      { question: "How much equity do I need for an SBA loan to buy a business?", answer: "SBA 7(a) loans require a minimum equity injection of 10–15% of the total project cost. For a $1M business, that means $100K–$150K in equity. Seller financing can sometimes count toward the equity injection, reducing your personal cash outlay." },
-      { question: "What is the total cost of buying a business beyond the purchase price?", answer: "Plan for 15–25% above the purchase price in additional costs including due diligence ($50K–$150K), transaction legal fees ($30K–$100K), lender fees (1–3% of loan), working capital reserves (2–3 months of operating expenses), and 3–6 months of personal living expenses." },
+      { question: "How much money do you need to buy a small business?", answer: "For an SBA-financed acquisition, you need 10-15% equity injection: $50K-$100K for a $500K-$1M business, $100K-$300K for a $1M-$3M business. With a traditional search fund, investors fund the equity and your personal capital requirement is $0-$50K." },
+      { question: "What are the hidden costs of buying a business?", answer: "Beyond the purchase price, budget for: due diligence ($50K-$150K for QoE, legal, environmental), transaction legal fees ($30K-$100K), lender fees (1-3% of loan), working capital reserves (2-3 months of operating expenses), and 3-6 months of personal living expenses." },
+      { question: "Can you buy a business with no money down?", answer: "Yes, but it requires specific structures. The traditional search fund model lets you acquire a business with as little as $0-$50K of personal capital because investors fund both the search and the acquisition equity. Creative approaches like maximum seller financing, earn-in arrangements, and ROBS rollovers can also dramatically reduce personal capital requirements." },
+      { question: "How much equity do I need for an SBA loan to buy a business?", answer: "SBA 7(a) loans require a minimum equity injection of 10-15% of the total project cost. For a $1M business, that means $100K-$150K in equity. Seller financing can sometimes count toward the equity injection, reducing your personal cash outlay." },
+      { question: "What is the total cost of buying a business beyond the purchase price?", answer: "Plan for 15-25% above the purchase price in additional costs including due diligence ($50K-$150K), transaction legal fees ($30K-$100K), lender fees (1-3% of loan), working capital reserves (2-3 months of operating expenses), and 3-6 months of personal living expenses." },
     ],
   },
   {
@@ -578,7 +578,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Should You Pursue ETA? Skills, Mindset & Readiness Checklist",
     ogDescription:
-      "Risk tolerance, resilience, financial runway, opportunity cost — rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is the right path.",
+      "Risk tolerance, resilience, financial runway, opportunity cost - rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is the right path.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -588,10 +588,10 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What personality traits predict success in ETA?", answer: "Research shows that bias for action, comfort with ambiguity, resilience, intellectual curiosity, and leadership instinct correlate most strongly with search fund CEO success. Red flags include need for prestige, impatience with people, and inability to delegate." },
-      { question: "How much money do you need personally before starting ETA?", answer: "For a traditional search fund, $0–$50K personal capital (investors fund everything). For self-funded search, $100K–$350K covering living expenses (18 months), search costs, and equity injection. Regardless of model, maintain a 3–6 month emergency fund beyond your search budget." },
-      { question: "What is the ideal age to start a search fund?", answer: "Most successful search fund CEOs start between ages 28 and 35, typically 2–7 years after completing an MBA or gaining equivalent professional experience. Younger searchers benefit from low personal obligations, while experienced operators (35–45) often prefer self-funded search." },
+      { question: "How much money do you need personally before starting ETA?", answer: "For a traditional search fund, $0-$50K personal capital (investors fund everything). For self-funded search, $100K-$350K covering living expenses (18 months), search costs, and equity injection. Regardless of model, maintain a 3-6 month emergency fund beyond your search budget." },
+      { question: "What is the ideal age to start a search fund?", answer: "Most successful search fund CEOs start between ages 28 and 35, typically 2-7 years after completing an MBA or gaining equivalent professional experience. Younger searchers benefit from low personal obligations, while experienced operators (35-45) often prefer self-funded search." },
       { question: "Do I need an MBA to pursue ETA?", answer: "No. While many searchers come from MBA programs, an MBA is not required. Investors evaluate your professional track record, communication skills, and coachability more than your degree. Self-funded searchers rely on operational experience and personal capital rather than academic credentials." },
-      { question: "How long does the search phase typically last?", answer: "The search phase typically lasts 12–24 months for a traditional search fund. Self-funded searchers may find a target in 6–18 months. About 25–30% of searchers never close a deal, usually because they search too broadly or underestimate the emotional toll." },
+      { question: "How long does the search phase typically last?", answer: "The search phase typically lasts 12-24 months for a traditional search fund. Self-funded searchers may find a target in 6-18 months. About 25-30% of searchers never close a deal, usually because they search too broadly or underestimate the emotional toll." },
     ],
   },
   {
@@ -604,7 +604,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "SME Acquisition: A Beginner's Guide to Buying a Business",
     ogDescription:
-      "From defining criteria to closing day — the complete 8-step guide for first-time SME buyers. Advisory team, deal sourcing, screening, DD, financing, and transition.",
+      "From defining criteria to closing day - the complete 8-step guide for first-time SME buyers. Advisory team, deal sourcing, screening, DD, financing, and transition.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -613,38 +613,38 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "Small Business Acquisition Guide", year: 2024 },
     ],
     faqs: [
-      { question: "What is an SME acquisition?", answer: "An SME (Small and Medium-sized Enterprise) acquisition is the purchase of an existing business typically with $2M–$20M revenue and 20–200 employees. Unlike startup founding, you inherit existing revenue, customers, and systems. The search fund model is the most popular framework for first-time SME acquirers." },
-      { question: "How long does an SME acquisition take from start to finish?", answer: "Expect 12–24 months from first search to closing for a traditional search fund, and 6–18 months for a self-funded search. The typical breakdown: search and screening (6–18 months), LOI to close (3–6 months), with due diligence (60–90 days) and financing (30–60 days) running in parallel." },
-      { question: "What is the best size of business to acquire as a first-time buyer?", answer: "For most first-time acquirers, businesses with $1M–$3M EBITDA and $5M–$15M revenue represent the sweet spot. Self-funded searchers often target $750K–$2M EBITDA, while traditional search funds aim for $1.5M–$5M EBITDA to satisfy investor return requirements." },
+      { question: "What is an SME acquisition?", answer: "An SME (Small and Medium-sized Enterprise) acquisition is the purchase of an existing business typically with $2M-$20M revenue and 20-200 employees. Unlike startup founding, you inherit existing revenue, customers, and systems. The search fund model is the most popular framework for first-time SME acquirers." },
+      { question: "How long does an SME acquisition take from start to finish?", answer: "Expect 12-24 months from first search to closing for a traditional search fund, and 6-18 months for a self-funded search. The typical breakdown: search and screening (6-18 months), LOI to close (3-6 months), with due diligence (60-90 days) and financing (30-60 days) running in parallel." },
+      { question: "What is the best size of business to acquire as a first-time buyer?", answer: "For most first-time acquirers, businesses with $1M-$3M EBITDA and $5M-$15M revenue represent the sweet spot. Self-funded searchers often target $750K-$2M EBITDA, while traditional search funds aim for $1.5M-$5M EBITDA to satisfy investor return requirements." },
       { question: "Do I need industry experience to acquire an SME?", answer: "No. The majority of successful search fund acquisitions involve buyers with no prior experience in the target industry. What matters more is general management ability, financial literacy, and the willingness to learn quickly." },
-      { question: "How many businesses should I evaluate before making an offer?", answer: "Expect to screen 100–200 opportunities at a high level, evaluate 20–40 in depth, and submit 3–8 Letters of Intent before closing one deal. Building strong relationships with 10–20 business brokers in your target markets maintains consistent deal flow." },
+      { question: "How many businesses should I evaluate before making an offer?", answer: "Expect to screen 100-200 opportunities at a high level, evaluate 20-40 in depth, and submit 3-8 Letters of Intent before closing one deal. Building strong relationships with 10-20 business brokers in your target markets maintains consistent deal flow." },
     ],
   },
   {
     slug: "buying-vs-starting-business",
     title: "Buying a Business vs. Starting One: Data-Driven Comparison",
     description:
-      "Survival rates, cash flow timelines, risk profiles, lifestyle differences, and expected returns — a data-driven comparison of acquisition vs. startup.",
+      "Survival rates, cash flow timelines, risk profiles, lifestyle differences, and expected returns - a data-driven comparison of acquisition vs. startup.",
     readTime: "14 min read",
     tag: "Research",
     category: "Getting Started",
     ogTitle: "Buying a Business vs. Starting One: Which Is Better?",
     ogDescription:
-      "90% startup failure rate vs. 85–95% SME survival. Revenue from day one vs. 18–48 months to breakeven. The data-driven comparison of buying vs. building a business.",
+      "90% startup failure rate vs. 85-95% SME survival. Revenue from day one vs. 18-48 months to breakeven. The data-driven comparison of buying vs. building a business.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "US Bureau of Labor Statistics", title: "Business Employment Dynamics — Survival Rates", year: 2023 },
+      { name: "US Bureau of Labor Statistics", title: "Business Employment Dynamics - Survival Rates", year: 2023 },
       { name: "CB Insights", title: "Top Reasons Startups Fail", year: 2023 },
       { name: "Kauffman Foundation", title: "State of Entrepreneurship Report", url: "https://www.kauffman.org/entrepreneurship/reports/", year: 2024 },
     ],
     faqs: [
-      { question: "Is it better to buy a business or start one?", answer: "For most aspiring entrepreneurs, buying is statistically superior. Acquired SMEs have 85–95% survival rates vs. 10–20% for startups over 5 years. You get revenue from day one, proven product-market fit, and established financing options. Startups make more sense when you have genuine innovation and are comfortable with a 90% failure rate for venture-scale upside." },
-      { question: "What are the advantages of buying an existing business?", answer: "Immediate cash flow, proven business model, existing customers and employees, bank financing available (SBA, etc.), CEO-level salary from day one ($150K–$300K), and lower risk of total failure. The main downside is acquisition debt and the challenge of managing an inherited organization." },
-      { question: "What is the failure rate of buying an existing business vs. starting one?", answer: "Startups have an approximately 90% failure rate over 10 years. Acquired SMEs with established revenue have survival rates of 85–95%. The key difference is proven product-market fit: an acquired business has already demonstrated that customers will pay for its products or services." },
-      { question: "How much money do you need to buy a business vs. starting one?", answer: "To acquire an SME using an SBA loan, you typically need 10–15% of the purchase price as equity ($50K–$300K). A traditional search fund requires $0–$50K personal capital. Startups require ongoing investment of $200K–$2M+ before breakeven with no guarantee of profitability." },
-      { question: "Can you get a salary immediately when buying a business?", answer: "Yes. Acquisition CEOs typically draw a salary of $150K–$300K from day one, funded by the business existing cash flow. Startup founders commonly pay themselves $0–$80K in early years. In a search fund, you also earn 20–25% equity creating significant wealth over a 5–7 year hold period." },
+      { question: "Is it better to buy a business or start one?", answer: "For most aspiring entrepreneurs, buying is statistically superior. Acquired SMEs have 85-95% survival rates vs. 10-20% for startups over 5 years. You get revenue from day one, proven product-market fit, and established financing options. Startups make more sense when you have genuine innovation and are comfortable with a 90% failure rate for venture-scale upside." },
+      { question: "What are the advantages of buying an existing business?", answer: "Immediate cash flow, proven business model, existing customers and employees, bank financing available (SBA, etc.), CEO-level salary from day one ($150K-$300K), and lower risk of total failure. The main downside is acquisition debt and the challenge of managing an inherited organization." },
+      { question: "What is the failure rate of buying an existing business vs. starting one?", answer: "Startups have an approximately 90% failure rate over 10 years. Acquired SMEs with established revenue have survival rates of 85-95%. The key difference is proven product-market fit: an acquired business has already demonstrated that customers will pay for its products or services." },
+      { question: "How much money do you need to buy a business vs. starting one?", answer: "To acquire an SME using an SBA loan, you typically need 10-15% of the purchase price as equity ($50K-$300K). A traditional search fund requires $0-$50K personal capital. Startups require ongoing investment of $200K-$2M+ before breakeven with no guarantee of profitability." },
+      { question: "Can you get a salary immediately when buying a business?", answer: "Yes. Acquisition CEOs typically draw a salary of $150K-$300K from day one, funded by the business existing cash flow. Startup founders commonly pay themselves $0-$80K in early years. In a search fund, you also earn 20-25% equity creating significant wealth over a 5-7 year hold period." },
     ],
   },
   {
@@ -657,7 +657,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Acquisition Target Criteria: Revenue, Margins & Moat Analysis",
     ogDescription:
-      "Recurring revenue, fragmented industry, low customer concentration, $1.5–5M EBITDA, management beyond owner — the 7 criteria that define an ideal search fund target.",
+      "Recurring revenue, fragmented industry, low customer concentration, $1.5-5M EBITDA, management beyond owner - the 7 criteria that define an ideal search fund target.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -666,24 +666,24 @@ export const allArticles: ArticleMeta[] = [
       { name: "Searchfunder", title: "Search Fund Database and Community Insights", url: "https://www.searchfunder.com", year: 2025 },
     ],
     faqs: [
-      { question: "What do search fund investors look for in an acquisition target?", answer: "The ideal target has: (1) recurring or highly predictable revenue, (2) fragmented industry with no dominant player, (3) no customer above 10% of revenue, (4) $1.5M–$5M EBITDA with 15%+ margins, (5) management team beyond the owner, (6) defensible competitive position, and (7) reasonable valuation (3–6x EBITDA)." },
-      { question: "What disqualifies a business from being a good search fund target?", answer: "Hard disqualifiers include: revenue declining for 3+ years, single customer above 40% of revenue, owner IS the business (no transferable systems), unquantifiable legal exposure, and no clear path to financing. Moderate issues like 15–25% customer concentration or flat revenue are negotiation points, not deal-killers." },
-      { question: "What EBITDA range should a first-time buyer target?", answer: "For a traditional search fund, the ideal range is $1.5M–$5M EBITDA. Self-funded searchers typically target $750K–$2M EBITDA. Businesses below $500K EBITDA are harder to finance and often too owner-dependent, while those above $5M attract professional private equity competition." },
-      { question: "How important is recurring revenue in an acquisition target?", answer: "Recurring revenue is the single most valued characteristic among search fund investors. Businesses with 70%+ recurring revenue command premium multiples (5–8x EBITDA vs. 3–5x for project-based revenue). Contractual recurring revenue like SaaS subscriptions and maintenance contracts provides predictable cash flow that supports leverage." },
-      { question: "What level of customer concentration is acceptable?", answer: "The ideal target has no single customer above 10% of revenue and the top 10 customers below 40% of total revenue. A single customer at 15–25% warrants a price discount but is not a deal-killer. Any single customer above 40% is a hard disqualifier for most search fund investors." },
+      { question: "What do search fund investors look for in an acquisition target?", answer: "The ideal target has: (1) recurring or highly predictable revenue, (2) fragmented industry with no dominant player, (3) no customer above 10% of revenue, (4) $1.5M-$5M EBITDA with 15%+ margins, (5) management team beyond the owner, (6) defensible competitive position, and (7) reasonable valuation (3-6x EBITDA)." },
+      { question: "What disqualifies a business from being a good search fund target?", answer: "Hard disqualifiers include: revenue declining for 3+ years, single customer above 40% of revenue, owner IS the business (no transferable systems), unquantifiable legal exposure, and no clear path to financing. Moderate issues like 15-25% customer concentration or flat revenue are negotiation points, not deal-killers." },
+      { question: "What EBITDA range should a first-time buyer target?", answer: "For a traditional search fund, the ideal range is $1.5M-$5M EBITDA. Self-funded searchers typically target $750K-$2M EBITDA. Businesses below $500K EBITDA are harder to finance and often too owner-dependent, while those above $5M attract professional private equity competition." },
+      { question: "How important is recurring revenue in an acquisition target?", answer: "Recurring revenue is the single most valued characteristic among search fund investors. Businesses with 70%+ recurring revenue command premium multiples (5-8x EBITDA vs. 3-5x for project-based revenue). Contractual recurring revenue like SaaS subscriptions and maintenance contracts provides predictable cash flow that supports leverage." },
+      { question: "What level of customer concentration is acceptable?", answer: "The ideal target has no single customer above 10% of revenue and the top 10 customers below 40% of total revenue. A single customer at 15-25% warrants a price discount but is not a deal-killer. Any single customer above 40% is a hard disqualifier for most search fund investors." },
     ],
   },
   {
     slug: "search-fund-thesis",
     title: "How to Build Your Search Fund Thesis",
     description:
-      "Industry selection, target profile (ICP), value creation hypothesis, acquisition economics, thesis testing, and common mistakes — the complete thesis-building guide.",
+      "Industry selection, target profile (ICP), value creation hypothesis, acquisition economics, thesis testing, and common mistakes - the complete thesis-building guide.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "How to Build Your Search Fund Thesis: A Step-by-Step Guide",
     ogDescription:
-      "Industry selection, ideal company profile, value creation hypothesis, and acquisition economics — the strategic framework that guides your entire search.",
+      "Industry selection, ideal company profile, value creation hypothesis, and acquisition economics - the strategic framework that guides your entire search.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -692,8 +692,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Note on Search Funds", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
-      { question: "What is a search fund thesis?", answer: "A search fund thesis is your strategic framework for the search: which industries to target (2–4 sectors), your ideal company profile (revenue, EBITDA, geography, business model), your value creation hypothesis (how you'll grow the business), and target acquisition economics (entry multiple, capital structure, return targets). It guides every decision during your search." },
-      { question: "How specific should my acquisition thesis be?", answer: "Specific enough to be useful, broad enough to generate deal flow. 'I'll buy any good business' is too broad — you'll waste months. 'Only SaaS in Austin doing $3M ARR' is too narrow — you may never find it. Ideal: 2–4 target industries, clear size criteria ($1.5–5M EBITDA), 3–5 target geographies, and defined deal-breakers." },
+      { question: "What is a search fund thesis?", answer: "A search fund thesis is your strategic framework for the search: which industries to target (2-4 sectors), your ideal company profile (revenue, EBITDA, geography, business model), your value creation hypothesis (how you'll grow the business), and target acquisition economics (entry multiple, capital structure, return targets). It guides every decision during your search." },
+      { question: "How specific should my acquisition thesis be?", answer: "Specific enough to be useful, broad enough to generate deal flow. 'I'll buy any good business' is too broad - you'll waste months. 'Only SaaS in Austin doing $3M ARR' is too narrow - you may never find it. Ideal: 2-4 target industries, clear size criteria ($1.5-5M EBITDA), 3-5 target geographies, and defined deal-breakers." },
       { question: "How long does it take to develop a search fund thesis?", answer: "Most searchers spend 4 to 8 weeks developing their initial thesis during pre-search preparation. However, a good thesis evolves throughout the search as you learn from reviewing deals, talking to operators, and receiving investor feedback. Expect meaningful refinements through the first 6 months of active searching." },
       { question: "Can you change your thesis during the search?", answer: "Yes, and you should. The best searchers treat their thesis as a living document. Common pivots include expanding geography after finding limited deal flow, adding adjacent industries that share similar characteristics, or adjusting size criteria based on financing reality. The key is making deliberate, data-driven adjustments rather than chasing every new opportunity." },
       { question: "Do investors prefer a narrow or broad thesis?", answer: "Investors prefer a thesis that is specific enough to demonstrate strategic thinking but broad enough to generate adequate deal flow. A thesis targeting 2 to 4 industries, 3 to 5 geographies, and clear financial criteria (such as $1.5M to $5M EBITDA) strikes the right balance. Presenting a thesis that is too narrow signals inexperience with deal sourcing realities." },
@@ -703,25 +703,25 @@ export const allArticles: ArticleMeta[] = [
     slug: "what-size-business-buy",
     title: "What Size Business Should I Buy? Revenue & EBITDA Ranges",
     description:
-      "Main Street vs. lower middle market vs. core middle market — size ranges, financing alignment, sweet spots by buyer type, and common sizing mistakes.",
+      "Main Street vs. lower middle market vs. core middle market - size ranges, financing alignment, sweet spots by buyer type, and common sizing mistakes.",
     readTime: "13 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "What Size Business Should I Buy? Revenue & EBITDA Guide",
     ogDescription:
-      "$500K–$10M EBITDA — which size is right for you? Main Street vs. middle market, financing alignment, sweet spots for traditional vs. self-funded search, and common mistakes.",
+      "$500K-$10M EBITDA - which size is right for you? Main Street vs. middle market, financing alignment, sweet spots for traditional vs. self-funded search, and common mistakes.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "GF Data", title: "M&A Report — Middle-Market Multiples", url: "https://www.gfdata.com/", year: 2024 },
+      { name: "GF Data", title: "M&A Report - Middle-Market Multiples", url: "https://www.gfdata.com/", year: 2024 },
       { name: "Capstone Partners", title: "Middle Market M&A Valuations Index", url: "https://www.capstonepartners.com/insights/capstone-partners-middle-market-ma-valuations-index/", year: 2025 },
-      { name: "SBA", title: "SOP 50 10 8 — 7(a) Loan Program", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
+      { name: "SBA", title: "SOP 50 10 8 - 7(a) Loan Program", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
       { name: "Calder Group", title: "Q2 2025 Middle Market M&A Update", url: "https://caldergroup.com/market-update/", year: 2025 },
     ],
     faqs: [
-      { question: "What is the ideal EBITDA range for a search fund acquisition?", answer: "Traditional search funds target $1.5M–$5M EBITDA (median $2.5M). Self-funded searchers target $500K–$2M EBITDA. Below $500K, the business can't support professional management plus debt service. Above $5M, you compete with private equity firms who pay higher multiples." },
-      { question: "Is it better to buy a smaller or larger business?", answer: "For first-time buyers, the sweet spot is $1M–$3M EBITDA: large enough to have a management layer, support debt service, and generate meaningful free cash flow — but small enough to avoid PE competition. Businesses under $500K EBITDA are essentially buying yourself a job." },
+      { question: "What is the ideal EBITDA range for a search fund acquisition?", answer: "Traditional search funds target $1.5M-$5M EBITDA (median $2.5M). Self-funded searchers target $500K-$2M EBITDA. Below $500K, the business can't support professional management plus debt service. Above $5M, you compete with private equity firms who pay higher multiples." },
+      { question: "Is it better to buy a smaller or larger business?", answer: "For first-time buyers, the sweet spot is $1M-$3M EBITDA: large enough to have a management layer, support debt service, and generate meaningful free cash flow - but small enough to avoid PE competition. Businesses under $500K EBITDA are essentially buying yourself a job." },
     ],
   },
   {
@@ -743,7 +743,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Searchfunder", title: "First-Time CEO Playbook: Lessons from Search Fund Operators", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
-      { question: "Can you buy a business with no experience?", answer: "Yes — about 85% of traditional search fund entrepreneurs are first-time business operators. The model compensates for inexperience through investor mentorship, advisory boards, and board governance. Stanford data shows no significant correlation between prior industry experience and search fund returns." },
+      { question: "Can you buy a business with no experience?", answer: "Yes - about 85% of traditional search fund entrepreneurs are first-time business operators. The model compensates for inexperience through investor mentorship, advisory boards, and board governance. Stanford data shows no significant correlation between prior industry experience and search fund returns." },
       { question: "What skills do you need to buy and run a business?", answer: "The most important transferable skills are: financial literacy (reading P&L, EBITDA analysis), selling ability (pitching investors, negotiating with sellers), people management (leading diverse teams), and decision-making under uncertainty. Industry-specific knowledge can be learned after acquisition." },
       { question: "What is the biggest risk of buying a business with no experience?", answer: "The biggest risk is overpaying for a business you do not fully understand. Without operating experience, first-time buyers sometimes overestimate growth potential or underestimate operational complexity. Mitigate this by investing heavily in due diligence, hiring a quality of earnings firm, and building an advisory board with industry operators before closing." },
       { question: "Do I need an MBA to buy a business?", answer: "No. While many traditional search fund entrepreneurs hold MBAs from programs like Stanford, Harvard, or IESE, an MBA is not required. Self-funded searchers come from diverse backgrounds including military, engineering, sales, and trades. What matters most is financial literacy, the ability to evaluate businesses, and the discipline to execute a systematic search process." },
@@ -754,28 +754,28 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-salary",
     title: "Search Fund Salary: How Much Do Searchers Earn?",
     description:
-      "Compensation by phase (search vs. CEO), model (traditional vs. self-funded), and geography (US vs. Europe) — plus total expected value including equity.",
+      "Compensation by phase (search vs. CEO), model (traditional vs. self-funded), and geography (US vs. Europe) - plus total expected value including equity.",
     readTime: "12 min read",
     tag: "Research",
     category: "Getting Started",
     ogTitle: "Search Fund Salary: How Much Do Searchers Earn? Full Breakdown",
     ogDescription:
-      "$80–120K during search, $150–350K as CEO, plus $5–15M in equity over 5–7 years. The complete search fund compensation guide by phase, model, and geography.",
+      "$80-120K during search, $150-350K as CEO, plus $5-15M in equity over 5-7 years. The complete search fund compensation guide by phase, model, and geography.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
     ],
     faqs: [
-      { question: "How much do search fund entrepreneurs earn during the search?", answer: "In a traditional search fund: $80,000–$120,000/year (US), paid from investor-funded search capital. In self-funded search: $0 — you fund your own living expenses. The search phase typically lasts 12–24 months." },
-      { question: "What is the total compensation for a search fund CEO over 7 years?", answer: "For a traditional search fund: ~$9M total (search salary + CEO salary + bonuses + equity at exit), or ~$1.3M annualized. For self-funded: ~$13.5M total (higher equity ownership), or ~$1.9M annualized. These are median successful outcomes — actual results vary significantly." },
+      { question: "How much do search fund entrepreneurs earn during the search?", answer: "In a traditional search fund: $80,000-$120,000/year (US), paid from investor-funded search capital. In self-funded search: $0 - you fund your own living expenses. The search phase typically lasts 12-24 months." },
+      { question: "What is the total compensation for a search fund CEO over 7 years?", answer: "For a traditional search fund: ~$9M total (search salary + CEO salary + bonuses + equity at exit), or ~$1.3M annualized. For self-funded: ~$13.5M total (higher equity ownership), or ~$1.9M annualized. These are median successful outcomes - actual results vary significantly." },
     ],
   },
   {
     slug: "are-search-funds-good-investment",
     title: "Search Fund Returns: Historical Performance & Risk Analysis",
     description:
-      "33% aggregate IRR, 5.5x MOIC, but one-third lose money — return distribution, comparison to PE/VC/public markets, risk factors, and who should invest.",
+      "33% aggregate IRR, 5.5x MOIC, but one-third lose money - return distribution, comparison to PE/VC/public markets, risk factors, and who should invest.",
     readTime: "14 min read",
     tag: "Research",
     category: "Getting Started",
@@ -791,20 +791,20 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the average return on search fund investments?", answer: "The aggregate pre-tax IRR is 33% with a 5.5x MOIC (multiple on invested capital), per Stanford's 2024 study. However, the median return is much lower at 18.7% IRR and 2.4x MOIC, because returns are driven by the top ~10% of investments that return 10x+." },
-      { question: "How risky are search fund investments?", answer: "Approximately one-third of search fund investments lose money. Key risks include: search risk (33% of searchers never acquire), operator risk (first-time CEO managing through challenges), illiquidity (5–7+ year hold), and small check sizes. Diversified portfolios of 10+ investments more reliably capture the asset class returns." },
+      { question: "How risky are search fund investments?", answer: "Approximately one-third of search fund investments lose money. Key risks include: search risk (33% of searchers never acquire), operator risk (first-time CEO managing through challenges), illiquidity (5-7+ year hold), and small check sizes. Diversified portfolios of 10+ investments more reliably capture the asset class returns." },
     ],
   },
   {
     slug: "purchase-agreement-apa-vs-spa",
     title: "Understanding the Purchase Agreement: APA vs. SPA",
     description:
-      "Asset Purchase Agreements vs. Share Purchase Agreements — key clauses, reps and warranties, indemnification, escrow, working capital adjustments, and negotiation tips.",
+      "Asset Purchase Agreements vs. Share Purchase Agreements - key clauses, reps and warranties, indemnification, escrow, working capital adjustments, and negotiation tips.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "APA vs. SPA: Understanding Business Purchase Agreements",
     ogDescription:
-      "Asset Purchase Agreement vs. Share Purchase Agreement — when to use each, key clauses, reps & warranties, indemnification, escrow, and buyer negotiation tips.",
+      "Asset Purchase Agreement vs. Share Purchase Agreement - when to use each, key clauses, reps & warranties, indemnification, escrow, and buyer negotiation tips.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -813,8 +813,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SRS Acquiom", title: "M&A Deal Terms Study", url: "https://www.srsacquiom.com/resources/ma-deal-terms-study/", year: 2024 },
     ],
     faqs: [
-      { question: "What is the difference between an APA and an SPA?", answer: "An Asset Purchase Agreement (APA) lets you buy specific assets and assume specific liabilities — the seller's legal entity stays behind. A Share Purchase Agreement (SPA) means you buy the ownership shares of the entity itself, inheriting ALL assets and liabilities (known and unknown). APAs offer more protection; SPAs offer contract continuity." },
-      { question: "How much should escrow be in a business acquisition?", answer: "Typical escrow is 10–20% of the purchase price, held for 12–24 months to cover indemnification claims from breaches of representations and warranties. Push for 15–20% in share purchases where you inherit unknown liabilities. The escrow amount, release schedule, and claim process are heavily negotiated." },
+      { question: "What is the difference between an APA and an SPA?", answer: "An Asset Purchase Agreement (APA) lets you buy specific assets and assume specific liabilities - the seller's legal entity stays behind. A Share Purchase Agreement (SPA) means you buy the ownership shares of the entity itself, inheriting ALL assets and liabilities (known and unknown). APAs offer more protection; SPAs offer contract continuity." },
+      { question: "How much should escrow be in a business acquisition?", answer: "Typical escrow is 10-20% of the purchase price, held for 12-24 months to cover indemnification claims from breaches of representations and warranties. Push for 15-20% in share purchases where you inherit unknown liabilities. The escrow amount, release schedule, and claim process are heavily negotiated." },
       { question: "Which is more common in search fund acquisitions, APA or SPA?", answer: "Asset Purchase Agreements are more common in search fund deals, particularly for smaller acquisitions under $10M. APAs allow buyers to select specific assets and leave behind unknown liabilities, which is especially important for first-time operators who want a clean start. However, SPAs are used when non-assignable contracts or licenses make an asset purchase impractical." },
       { question: "How long does it take to negotiate a purchase agreement?", answer: "Typically 4 to 8 weeks from first draft to execution. The initial draft takes 1 to 2 weeks, followed by 2 to 4 rounds of markup between buyer and seller counsel. The most time-consuming negotiations involve representations and warranties, indemnification caps and baskets, and the working capital adjustment mechanism." },
       { question: "What is a working capital adjustment and why does it matter?", answer: "A working capital adjustment ensures the business has sufficient operating capital at closing. The buyer and seller agree on a target working capital 'peg' (typically the trailing 12-month average of current assets minus current liabilities). If actual working capital at closing exceeds the peg, the buyer pays the surplus; if it falls short, the purchase price is reduced. This is the number one source of post-closing disputes." },
@@ -824,13 +824,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-vs-independent-sponsor",
     title: "Search Fund vs. Independent Sponsor: Key Differences",
     description:
-      "Capital structure, economics, deal size, operator role, and investor relationships — a detailed comparison of search funds and independent sponsors.",
+      "Capital structure, economics, deal size, operator role, and investor relationships - a detailed comparison of search funds and independent sponsors.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Search Fund vs. Independent Sponsor: Key Differences Explained",
     ogDescription:
-      "Committed capital vs. deal-by-deal, $5–20M vs. $10–100M+, CEO vs. chairman — every key difference between search funds and independent sponsors.",
+      "Committed capital vs. deal-by-deal, $5-20M vs. $10-100M+, CEO vs. chairman - every key difference between search funds and independent sponsors.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -840,7 +840,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is an independent sponsor?", answer: "An independent sponsor (or 'fundless sponsor') is an entrepreneur who sources acquisition opportunities without committed capital. Unlike a search fund, capital is raised deal-by-deal from investors once a specific target is identified. The sponsor may or may not operate as CEO." },
-      { question: "Which is better: search fund or independent sponsor?", answer: "It depends on your profile. Search funds offer salary during the search, committed investors, and structured support — ideal for MBA graduates. Independent sponsorship offers more flexibility in deal size and operator role — better for experienced professionals with existing investor networks." },
+      { question: "Which is better: search fund or independent sponsor?", answer: "It depends on your profile. Search funds offer salary during the search, committed investors, and structured support - ideal for MBA graduates. Independent sponsorship offers more flexibility in deal size and operator role - better for experienced professionals with existing investor networks." },
       { question: "Can I switch from a search fund to independent sponsorship?", answer: "Yes, and it is increasingly common. Some searchers who do not complete an acquisition during their funded search period transition to independent sponsorship, using the deal-sourcing skills and investor relationships they built. Others complete a successful search fund acquisition and exit, then pursue subsequent deals as independent sponsors with a proven track record." },
       { question: "How much personal capital do I need for each model?", answer: "For a traditional search fund, minimal personal capital is required since investors fund the search phase ($400K to $600K) and the acquisition equity. For independent sponsorship, you need enough savings to cover 18 to 30 months of living expenses with no income, plus deal pursuit costs (legal, diligence) that may not be reimbursed if a deal falls through. Budget $150K to $300K in personal reserves." },
       { question: "Which model has better returns for the entrepreneur?", answer: "It depends on deal size and outcomes. A search fund CEO earning 25% equity on a $10M acquisition that exits at $30M nets roughly $5M. An independent sponsor earning carried interest on a $50M deal that doubles might net $5M to $10M, but with more personal financial risk during the search and lower probability of closing a deal. Search funds offer more predictable but potentially smaller outcomes; independent sponsorship offers higher upside with greater variance." },
@@ -854,7 +854,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "Women & Diversity in Search Funds — Resources, Data & Opportunities",
+    ogTitle: "Women & Diversity in Search Funds - Resources, Data & Opportunities",
     ogDescription:
       "Women represent ~15% of searchers but deliver comparable returns. Discover the organizations, funds, and strategies driving diversity in ETA.",
     datePublished: "2024-05-03",
@@ -884,15 +884,15 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How Long Does a Search Fund Take? Complete Timeline",
     ogDescription:
-      "Pre-search 3–6 months, fundraise 2–4 months, search 12–24 months, DD & close 2–4 months, operations 3–7 years. The full search fund timeline with Stanford benchmarks.",
+      "Pre-search 3-6 months, fundraise 2-4 months, search 12-24 months, DD & close 2-4 months, operations 3-7 years. The full search fund timeline with Stanford benchmarks.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
-      { question: "How long does a search fund take from start to finish?", answer: "The full search fund cycle takes 5–10 years: 3–6 months of preparation, 2–4 months to fundraise, 12–24 months to search, 2–4 months to close, 3–7 years operating (median 5.5 years), and then exit. Total from fundraise to acquisition is typically 18–36 months." },
-      { question: "What percentage of search funds find a deal?", answer: "Approximately 67% of traditional search funds complete an acquisition. The remaining 33% return unused capital to investors after exhausting their search period (typically 18–24 months). Search intensity, thesis flexibility, and broker relationships are the biggest drivers of success." },
+      { question: "How long does a search fund take from start to finish?", answer: "The full search fund cycle takes 5-10 years: 3-6 months of preparation, 2-4 months to fundraise, 12-24 months to search, 2-4 months to close, 3-7 years operating (median 5.5 years), and then exit. Total from fundraise to acquisition is typically 18-36 months." },
+      { question: "What percentage of search funds find a deal?", answer: "Approximately 67% of traditional search funds complete an acquisition. The remaining 33% return unused capital to investors after exhausting their search period (typically 18-24 months). Search intensity, thesis flexibility, and broker relationships are the biggest drivers of success." },
     ],
   },
   {
@@ -914,44 +914,44 @@ export const allArticles: ArticleMeta[] = [
       { name: "McKinsey & Company", title: "M&A Practitioner's Guide to Acquisition Screening", year: 2023 },
     ],
     faqs: [
-      { question: "What should I look for when buying a business?", answer: "Define 8 criteria: financial profile ($750K–$5M EBITDA, 15%+ margins), industry (fragmented, recurring revenue), geography, business model (B2B preferred), customer profile (no customer >15% of revenue), seller motivation (retirement ideal), operations (strong #2 leader), and growth potential (pricing, add-ons, digital)." },
-      { question: "How do you create acquisition screening criteria?", answer: "Start with 3–5 non-negotiable must-haves (e.g., $1M+ EBITDA, recurring revenue). Add nice-to-haves and deal-breakers. Test against 20–30 real listings. Iterate quarterly as you learn what's available. Share your ICP with every broker and referral source — it's your marketing document." },
+      { question: "What should I look for when buying a business?", answer: "Define 8 criteria: financial profile ($750K-$5M EBITDA, 15%+ margins), industry (fragmented, recurring revenue), geography, business model (B2B preferred), customer profile (no customer >15% of revenue), seller motivation (retirement ideal), operations (strong #2 leader), and growth potential (pricing, add-ons, digital)." },
+      { question: "How do you create acquisition screening criteria?", answer: "Start with 3-5 non-negotiable must-haves (e.g., $1M+ EBITDA, recurring revenue). Add nice-to-haves and deal-breakers. Test against 20-30 real listings. Iterate quarterly as you learn what's available. Share your ICP with every broker and referral source - it's your marketing document." },
     ],
   },
   {
     slug: "tax-planning-sellers",
     title: "Tax Planning for Business Sellers: Minimize Your Tax Bill",
     description:
-      "QSBS, installment sales, holding company structures, Dutreil pact, BADR — country-by-country tax strategies to minimize capital gains when selling your business.",
+      "QSBS, installment sales, holding company structures, Dutreil pact, BADR - country-by-country tax strategies to minimize capital gains when selling your business.",
     readTime: "16 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Tax Planning for Business Sellers: Minimize Your Tax Bill",
     ogDescription:
-      "Without planning, you'll lose 25–45% to taxes. With 18–24 months of preparation, many sellers pay 10–20% or even 0%. QSBS, installment sales, holding structures, and more.",
+      "Without planning, you'll lose 25-45% to taxes. With 18-24 months of preparation, many sellers pay 10-20% or even 0%. QSBS, installment sales, holding structures, and more.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "IRS", title: "Section 1202 QSBS Guidance", year: 2024 },
       { name: "HMRC", title: "Business Asset Disposal Relief", year: 2024 },
-      { name: "Bundesministerium der Finanzen", title: "Teileinkünfteverfahren — Partial Income Method", year: 2024 },
+      { name: "Bundesministerium der Finanzen", title: "Teileinkünfteverfahren - Partial Income Method", year: 2024 },
     ],
     faqs: [
       { question: "How can I avoid paying capital gains tax when selling my business?", answer: "In the US, QSBS (Section 1202) allows up to $10M tax-free on qualifying C-Corp stock held 5+ years. In France, the retirement exemption provides full CGT exemption for sellers 60+ selling businesses under €500K. In the UK, BADR reduces the rate to 10% on the first £1M. All require advance planning." },
-      { question: "What is the tax rate when selling a business?", answer: "It varies dramatically by country and structure: US 0% (with QSBS) to 37% (California, no QSBS); France 3.6% (holding + participation exemption) to 30% (flat tax); Germany 1.5% (corporate) to 27% (individual); UK 10% (BADR) to 24%. Advance planning can reduce your rate by 50–100%." },
+      { question: "What is the tax rate when selling a business?", answer: "It varies dramatically by country and structure: US 0% (with QSBS) to 37% (California, no QSBS); France 3.6% (holding + participation exemption) to 30% (flat tax); Germany 1.5% (corporate) to 27% (individual); UK 10% (BADR) to 24%. Advance planning can reduce your rate by 50-100%." },
     ],
   },
   {
     slug: "succession-planning-owners",
     title: "Succession Planning for Business Owners: Start 5 Years Early",
     description:
-      "5-year succession roadmap: strategic planning, value building, operations optimization, sale preparation, and execution — plus comparison of succession options.",
+      "5-year succession roadmap: strategic planning, value building, operations optimization, sale preparation, and execution - plus comparison of succession options.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Succession Planning for Business Owners: Start 5 Years Early",
     ogDescription:
-      "70% of businesses listed for sale never find a buyer. Start succession planning 3–5 years early to maximize value, minimize taxes, and protect employees.",
+      "70% of businesses listed for sale never find a buyer. Start succession planning 3-5 years early to maximize value, minimize taxes, and protect employees.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -960,7 +960,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "PwC", title: "Global Family Business Survey: Succession Planning", url: "https://www.pwc.com/gx/en/issues/business-model-reinvention/family-business-survey.html", year: 2023 },
     ],
     faqs: [
-      { question: "When should I start planning to sell my business?", answer: "Start 3–5 years before your target exit date. The first 2 years focus on building transferable value (management team, documented processes, diversified customers). Years 2–3 optimize operations and financials. The final 1–2 years prepare the business for market and execute the sale." },
+      { question: "When should I start planning to sell my business?", answer: "Start 3-5 years before your target exit date. The first 2 years focus on building transferable value (management team, documented processes, diversified customers). Years 2-3 optimize operations and financials. The final 1-2 years prepare the business for market and execute the sale." },
       { question: "What percentage of businesses successfully sell?", answer: "Only about 30% of businesses listed for sale actually complete a transaction. The main reasons for failure: unrealistic valuation expectations, owner dependence, poor financial documentation, and insufficient preparation. Starting early dramatically improves your odds." },
     ],
   },
@@ -968,13 +968,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "prepare-business-for-sale",
     title: "How to Prepare Your Business for Sale",
     description:
-      "18–24 month preparation roadmap: reduce owner dependence, clean financials, lock in contracts, build a data room, and maximize your selling price.",
+      "18-24 month preparation roadmap: reduce owner dependence, clean financials, lock in contracts, build a data room, and maximize your selling price.",
     readTime: "16 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "How to Prepare Your Business for Sale: 18-Month Roadmap",
     ogDescription:
-      "The difference between a premium sale and a failed listing is preparation. Follow this 18–24 month roadmap to reduce owner dependence, clean financials, and maximize value.",
+      "The difference between a premium sale and a failed listing is preparation. Follow this 18-24 month roadmap to reduce owner dependence, clean financials, and maximize value.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -983,15 +983,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "Deloitte", title: "M&A Trends: Selling a Privately Held Business", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
     ],
     faqs: [
-      { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18–24 months of preparation before going to market. The first 6 months focus on building a management team and reducing owner dependence. Months 6–12 focus on cleaning financials and documenting processes. Months 12–18 package the business for market. The sale process itself takes 6–9 months." },
-      { question: "What is the most important thing to do before selling a business?", answer: "Reduce owner dependence. If the business cannot run without you, it is worth 30–50% less. Build a management team, delegate customer relationships, document processes, and transition key decisions to employees before going to market." },
+      { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18-24 months of preparation before going to market. The first 6 months focus on building a management team and reducing owner dependence. Months 6-12 focus on cleaning financials and documenting processes. Months 12-18 package the business for market. The sale process itself takes 6-9 months." },
+      { question: "What is the most important thing to do before selling a business?", answer: "Reduce owner dependence. If the business cannot run without you, it is worth 30-50% less. Build a management team, delegate customer relationships, document processes, and transition key decisions to employees before going to market." },
     ],
   },
   {
     slug: "choosing-buyer-types",
     title: "Choosing Between Buyer Types: Search Fund vs. PE vs. Strategic",
     description:
-      "Compare search fund, private equity, strategic, and individual buyers on price, legacy, employee protection, speed, and deal certainty — a seller's decision framework.",
+      "Compare search fund, private equity, strategic, and individual buyers on price, legacy, employee protection, speed, and deal certainty - a seller's decision framework.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1006,8 +1006,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "PitchBook", title: "Annual US PE Middle Market Report", year: 2024 },
     ],
     faqs: [
-      { question: "Who pays the most for a small business?", answer: "Strategic acquirers often pay the highest multiples (4–10x EBITDA) because they can realize cost savings and revenue synergies. PE firms pay 5–8x for larger businesses ($5M+ EBITDA). Search funds pay 4–6x but offer better terms for employee protection and legacy continuity." },
-      { question: "Should I sell my business to a search fund or private equity?", answer: "Choose a search fund if you prioritize employee retention, company legacy, and working with an individual who will operate the business for 5–8 years. Choose PE if you want the highest possible price and don't mind potential management changes, cost restructuring, and a 3–5 year hold period." },
+      { question: "Who pays the most for a small business?", answer: "Strategic acquirers often pay the highest multiples (4-10x EBITDA) because they can realize cost savings and revenue synergies. PE firms pay 5-8x for larger businesses ($5M+ EBITDA). Search funds pay 4-6x but offer better terms for employee protection and legacy continuity." },
+      { question: "Should I sell my business to a search fund or private equity?", answer: "Choose a search fund if you prioritize employee retention, company legacy, and working with an individual who will operate the business for 5-8 years. Choose PE if you want the highest possible price and don't mind potential management changes, cost restructuring, and a 3-5 year hold period." },
     ],
   },
   {
@@ -1053,27 +1053,27 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "Stanford CES", title: "Center for Entrepreneurial Studies — Search Fund Research", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
-      { name: "Jim Southern / Pacific Lake Partners", title: "Founding Team — Jim Southern", url: "https://www.pacificlake.com/team-members/jim-southern", year: 2024 },
+      { name: "Stanford CES", title: "Center for Entrepreneurial Studies - Search Fund Research", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "Jim Southern / Pacific Lake Partners", title: "Founding Team - Jim Southern", url: "https://www.pacificlake.com/team-members/jim-southern", year: 2024 },
       { name: "University of Chicago", title: "The Evolution of Entrepreneurship Through Acquisition", url: "https://polsky.uchicago.edu/wp-content/uploads/2018/03/Booth-Research-Evolution-of-ETA_FA110716.pdf", year: 2016 },
       { name: "IESE Business School", title: "2024 International Search Fund Study", url: "https://www.iese.edu/media/research/pdfs/ST-0658-E", year: 2024 },
     ],
     faqs: [
       { question: "Who invented the search fund model?", answer: "H. Irving Grousbeck, a professor at Stanford Graduate School of Business (and co-owner of the Boston Celtics), conceptualized the search fund model in 1984. Jim Southern and Rick Kelley raised the first two search funds that year. Grousbeck's insight was that talented MBA graduates could become CEOs by raising capital to search for and acquire one company to run." },
-      { question: "How many search funds have been raised?", answer: "As of the Stanford 2024 study, 681+ search funds have been raised globally. Growth has been exponential: fewer than 50 in the first 16 years (1984–2000), ~180 by 2010, ~350 by 2014, and 681+ by 2024. Search funds now operate in 25+ countries across North America, Europe, Latin America, and Asia." },
+      { question: "How many search funds have been raised?", answer: "As of the Stanford 2024 study, 681+ search funds have been raised globally. Growth has been exponential: fewer than 50 in the first 16 years (1984-2000), ~180 by 2010, ~350 by 2014, and 681+ by 2024. Search funds now operate in 25+ countries across North America, Europe, Latin America, and Asia." },
     ],
   },
   {
     slug: "search-fund-timeline",
     title: "Search Fund Timeline: Month-by-Month Milestones from Launch to Close",
     description:
-      "Phase-by-phase timeline of a search fund: fundraise (3–6 months), search (18–24 months), deal execution (3–6 months), operations (5–7 years), and exit.",
+      "Phase-by-phase timeline of a search fund: fundraise (3-6 months), search (18-24 months), deal execution (3-6 months), operations (5-7 years), and exit.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Search Fund Timeline: Month-by-Month Milestones from Launch to Close",
     ogDescription:
-      "Fundraise in 3–6 months, search for 18–24 months, close in 3–6 months, operate for 5–7 years, exit in 6–12 months. The complete search fund timeline with milestones and Stanford data.",
+      "Fundraise in 3-6 months, search for 18-24 months, close in 3-6 months, operate for 5-7 years, exit in 6-12 months. The complete search fund timeline with milestones and Stanford data.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1082,8 +1082,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Search Fund Accelerator", title: "Self-Funded Search Benchmarking Report", year: 2025 },
     ],
     faqs: [
-      { question: "How long does it take to find a business to buy?", answer: "The median search duration is 21 months for traditional search funds and 12–18 months for self-funded searches. The optimal window is 12–24 months — searchers who acquire in this range have the best outcomes. After 24 months, investor patience wanes and capital runs low. About 25% of traditional searchers never close a deal." },
-      { question: "How long does a search fund take from start to exit?", answer: "Total timeline is 7–10 years: fundraise (3–6 months), search (18–24 months), deal execution (3–6 months), operations and growth (5–7 years), and exit process (6–12 months). The median hold period is 6.2 years according to Stanford data, with investors earning 33% gross IRR and 6.9x ROI." },
+      { question: "How long does it take to find a business to buy?", answer: "The median search duration is 21 months for traditional search funds and 12-18 months for self-funded searches. The optimal window is 12-24 months - searchers who acquire in this range have the best outcomes. After 24 months, investor patience wanes and capital runs low. About 25% of traditional searchers never close a deal." },
+      { question: "How long does a search fund take from start to exit?", answer: "Total timeline is 7-10 years: fundraise (3-6 months), search (18-24 months), deal execution (3-6 months), operations and growth (5-7 years), and exit process (6-12 months). The median hold period is 6.2 years according to Stanford data, with investors earning 33% gross IRR and 6.9x ROI." },
     ],
   },
   {
@@ -1096,15 +1096,15 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What Makes a Good Acquisition Target for Search Funds?",
     ogDescription:
-      "Recurring revenue, low customer concentration, $1–5M EBITDA, existing management, fragmented industry, succession-driven seller. The 10 traits of an ideal ETA acquisition target.",
+      "Recurring revenue, low customer concentration, $1-5M EBITDA, existing management, fragmented industry, succession-driven seller. The 10 traits of an ideal ETA acquisition target.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
-      { question: "What makes a good search fund acquisition target?", answer: "The ideal ETA target has 70%+ recurring revenue, no customer above 10% of revenue, $1–5M EBITDA with stable or growing margins, an existing management team (2–3 key managers), low capital intensity (capex <5% of revenue), a fragmented industry, a succession-driven seller, clear growth levers, and a reasonable valuation (3–6x EBITDA)." },
-      { question: "What EBITDA range should I target for a search fund acquisition?", answer: "The sweet spot is $1–5M EBITDA. Below $750K, the business can't support debt service plus CEO salary plus growth investment. Above $5M, you compete with PE firms that drive up multiples. Most successful search fund acquisitions are in the $1.5–3M EBITDA range according to Stanford data." },
+      { question: "What makes a good search fund acquisition target?", answer: "The ideal ETA target has 70%+ recurring revenue, no customer above 10% of revenue, $1-5M EBITDA with stable or growing margins, an existing management team (2-3 key managers), low capital intensity (capex <5% of revenue), a fragmented industry, a succession-driven seller, clear growth levers, and a reasonable valuation (3-6x EBITDA)." },
+      { question: "What EBITDA range should I target for a search fund acquisition?", answer: "The sweet spot is $1-5M EBITDA. Below $750K, the business can't support debt service plus CEO salary plus growth investment. Above $5M, you compete with PE firms that drive up multiples. Most successful search fund acquisitions are in the $1.5-3M EBITDA range according to Stanford data." },
     ],
   },
 
@@ -1127,8 +1127,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Axial", title: "Pledge Funds and Independent Sponsors in ETA", url: "https://www.axial.net/", year: 2024 },
     ],
     faqs: [
-      { question: "What is a pledge fund?", answer: "A pledge fund is a hybrid between a traditional search fund and an independent sponsor. Investors sign commitment letters pledging capital (e.g., $250K–$1M each), but the capital is only called when a specific deal is identified. Unlike a traditional search fund's blind pool, pledge investors see and approve each deal before their money is deployed." },
-      { question: "How is a pledge fund different from a traditional search fund?", answer: "In a traditional search fund, investors commit capital to a blind pool that the searcher deploys. In a pledge fund, investors commit but approve each deal individually. Pledge funds give investors more control but create funding risk for the searcher — investors can decline a deal even after months of search work." },
+      { question: "What is a pledge fund?", answer: "A pledge fund is a hybrid between a traditional search fund and an independent sponsor. Investors sign commitment letters pledging capital (e.g., $250K-$1M each), but the capital is only called when a specific deal is identified. Unlike a traditional search fund's blind pool, pledge investors see and approve each deal before their money is deployed." },
+      { question: "How is a pledge fund different from a traditional search fund?", answer: "In a traditional search fund, investors commit capital to a blind pool that the searcher deploys. In a pledge fund, investors commit but approve each deal individually. Pledge funds give investors more control but create funding risk for the searcher - investors can decline a deal even after months of search work." },
     ],
   },
 
@@ -1136,7 +1136,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-accelerators",
     title: "Search Fund Accelerators & Incubators: A Complete List",
     description:
-      "Major ETA accelerator programs in the US, Europe, and Latin America — what they offer, how to choose, and whether you need one.",
+      "Major ETA accelerator programs in the US, Europe, and Latin America - what they offer, how to choose, and whether you need one.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1147,13 +1147,13 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
-      { name: "Search Fund Accelerator (SFA)", title: "About SFA — Track Record and Program Structure", url: "https://www.searchfundaccelerator.com/", year: 2025 },
-      { name: "Broadtree Partners", title: "Broadtree Partners — Search Fund Accelerator", url: "https://www.broadtreepartners.com/", year: 2025 },
+      { name: "Search Fund Accelerator (SFA)", title: "About SFA - Track Record and Program Structure", url: "https://www.searchfundaccelerator.com/", year: 2025 },
+      { name: "Broadtree Partners", title: "Broadtree Partners - Search Fund Accelerator", url: "https://www.broadtreepartners.com/", year: 2025 },
       { name: "The Brydon Group", title: "CEO-in-Residence Program", url: "https://www.brydon.com/ceo-in-residence-program", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
-      { question: "What is a search fund accelerator?", answer: "A search fund accelerator is a structured program that provides mentorship, investor introductions, deal flow support, and operational resources to aspiring ETA entrepreneurs. Programs typically last 8–16 weeks and include a peer cohort of 5–15 searchers. Some accelerators invest directly in their cohort members." },
+      { question: "What is a search fund accelerator?", answer: "A search fund accelerator is a structured program that provides mentorship, investor introductions, deal flow support, and operational resources to aspiring ETA entrepreneurs. Programs typically last 8-16 weeks and include a peer cohort of 5-15 searchers. Some accelerators invest directly in their cohort members." },
       { question: "Do I need an accelerator to start a search fund?", answer: "No. Accelerators are most valuable for first-time searchers without MBA pedigrees or existing investor networks. If you have an MBA from a target school (Stanford, HBS, Wharton) with existing investor relationships, an accelerator is less necessary. Self-funded searchers can skip the investor/accelerator track entirely and use SBA financing." },
     ],
   },
@@ -1162,19 +1162,19 @@ export const allArticles: ArticleMeta[] = [
     slug: "mba-to-ceo-pipeline",
     title: "The MBA-to-CEO Pipeline: Search Funds After Business School",
     description:
-      "How MBA programs feed the search fund ecosystem — top programs, ETA clubs, timing your launch, fundraising advantages, and building your network during business school.",
+      "How MBA programs feed the search fund ecosystem - top programs, ETA clubs, timing your launch, fundraising advantages, and building your network during business school.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "The MBA-to-CEO Pipeline: Search Funds After Business School",
     ogDescription:
-      "Stanford, HBS, Booth, INSEAD, IESE — how top MBA programs produce search fund entrepreneurs and why the ETA club advantage matters for fundraising.",
+      "Stanford, HBS, Booth, INSEAD, IESE - how top MBA programs produce search fund entrepreneurs and why the ETA club advantage matters for fundraising.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Harvard Business School", title: "Rock Center for Entrepreneurship — Search Fund Resources", year: 2024 },
+      { name: "Harvard Business School", title: "Rock Center for Entrepreneurship - Search Fund Resources", year: 2024 },
     ],
     faqs: [
       { question: "Which MBA programs are best for search funds?", answer: "The top MBA programs for ETA include Stanford GSB (pioneered the model in 1984), Harvard Business School, Chicago Booth, Wharton, Kellogg, INSEAD, and IESE. These programs have active ETA/search fund clubs, dedicated courses on acquisition entrepreneurship, alumni searcher networks, and established relationships with search fund investors." },
@@ -1186,7 +1186,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-without-mba",
     title: "ETA Without an MBA: Alternative Paths into Search Funds",
     description:
-      "How to break into search funds without an MBA — self-funded searches, industry expertise, alternative education, building investor networks, and successful non-MBA case studies.",
+      "How to break into search funds without an MBA - self-funded searches, industry expertise, alternative education, building investor networks, and successful non-MBA case studies.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1210,13 +1210,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-conferences",
     title: "Search Fund Conferences & Events: The Complete Calendar",
     description:
-      "Complete guide to ETA conferences and events — Stanford, IESE, MIT, regional meetups, virtual events, and tips for making the most of conference attendance.",
+      "Complete guide to ETA conferences and events - Stanford, IESE, MIT, regional meetups, virtual events, and tips for making the most of conference attendance.",
     readTime: "9 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Search Fund Conferences & Events: The Complete Calendar",
     ogDescription:
-      "Stanford Search Fund Conference, IESE International SF Conference, MIT ETA Conference — the complete calendar of events for searchers, investors, and operators.",
+      "Stanford Search Fund Conference, IESE International SF Conference, MIT ETA Conference - the complete calendar of events for searchers, investors, and operators.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1225,7 +1225,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Entrepreneurship Through Acquisition Conference", year: 2024 },
     ],
     faqs: [
-      { question: "What are the main search fund conferences?", answer: "The three flagship ETA conferences are: (1) Stanford Search Fund Conference (January, Palo Alto — the original and most prestigious), (2) IESE International Search Fund Conference (Spring, Barcelona — largest European event), and (3) MIT ETA Conference (Fall, Cambridge). Other notable events include the Booth Search Fund Conference, Kellogg ETA Summit, and regional meetups in New York, London, and São Paulo." },
+      { question: "What are the main search fund conferences?", answer: "The three flagship ETA conferences are: (1) Stanford Search Fund Conference (January, Palo Alto - the original and most prestigious), (2) IESE International Search Fund Conference (Spring, Barcelona - largest European event), and (3) MIT ETA Conference (Fall, Cambridge). Other notable events include the Booth Search Fund Conference, Kellogg ETA Summit, and regional meetups in New York, London, and São Paulo." },
       { question: "Are search fund conferences worth attending?", answer: "Yes, especially for aspiring searchers. Conferences provide: direct access to search fund investors (many attend specifically to meet new searchers), peer networking with other searchers (potential deal referrals and emotional support), panels with successful operators sharing lessons learned, and visibility in the ETA community. The ROI on a $500-$1,500 conference registration is extremely high if you attend with clear goals." },
     ],
   },
@@ -1249,8 +1249,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Note on Search Funds", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=56704", year: 2019 },
     ],
     faqs: [
-      { question: "Is ETA right for me?", answer: "ETA is best suited for individuals with 3–10 years of professional experience, financial runway for 18–24 months of reduced income, comfort with ambiguity and independent work, strong interpersonal skills for managing employees and negotiating deals, and willingness to relocate. The typical successful searcher has management consulting, finance, or operational experience and an MBA from a top program — though non-traditional backgrounds are increasingly common." },
-      { question: "How much money do you need to start a search fund?", answer: "For a traditional search fund, you raise $400K–$600K from investors to cover 18–24 months of search costs (your salary of $100K–$150K, travel, databases, legal). For a self-funded search, you need personal savings or a working spouse to cover 12–18 months of living expenses plus ~$50K–$100K in search costs. SBA-backed acquisitions require 10–20% equity injection at closing." },
+      { question: "Is ETA right for me?", answer: "ETA is best suited for individuals with 3-10 years of professional experience, financial runway for 18-24 months of reduced income, comfort with ambiguity and independent work, strong interpersonal skills for managing employees and negotiating deals, and willingness to relocate. The typical successful searcher has management consulting, finance, or operational experience and an MBA from a top program - though non-traditional backgrounds are increasingly common." },
+      { question: "How much money do you need to start a search fund?", answer: "For a traditional search fund, you raise $400K-$600K from investors to cover 18-24 months of search costs (your salary of $100K-$150K, travel, databases, legal). For a self-funded search, you need personal savings or a working spouse to cover 12-18 months of living expenses plus ~$50K-$100K in search costs. SBA-backed acquisitions require 10-20% equity injection at closing." },
     ],
   },
 
@@ -1258,13 +1258,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "ideal-acquisition-target",
     title: "The Ideal Acquisition Target: A Search Fund Buyer's Framework",
     description:
-      "The key criteria for identifying ideal search fund acquisition targets — revenue size, EBITDA margins, recurring revenue, customer concentration, owner dependency, and industry characteristics.",
+      "The key criteria for identifying ideal search fund acquisition targets - revenue size, EBITDA margins, recurring revenue, customer concentration, owner dependency, and industry characteristics.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "The Ideal Acquisition Target: A Search Fund Buyer's Framework",
     ogDescription:
-      "$5–30M enterprise value, 15%+ EBITDA margins, low owner dependency, and recurring revenue. The complete scoring framework for evaluating acquisition targets.",
+      "$5-30M enterprise value, 15%+ EBITDA margins, low owner dependency, and recurring revenue. The complete scoring framework for evaluating acquisition targets.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1274,7 +1274,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SearchFunder", title: "Acquisition Target Criteria Discussion Threads", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
-      { question: "What is the ideal search fund target?", answer: "The classic search fund target has $1–5M EBITDA, $5–30M enterprise value, 15–25% EBITDA margins, recurring or repeat revenue, low customer concentration (no single customer >20% of revenue), limited owner dependency, stable or growing industry, and a defensible market position. Service businesses with B2B recurring contracts — like IT services, business services, and healthcare services — most consistently meet these criteria." },
+      { question: "What is the ideal search fund target?", answer: "The classic search fund target has $1-5M EBITDA, $5-30M enterprise value, 15-25% EBITDA margins, recurring or repeat revenue, low customer concentration (no single customer >20% of revenue), limited owner dependency, stable or growing industry, and a defensible market position. Service businesses with B2B recurring contracts - like IT services, business services, and healthcare services - most consistently meet these criteria." },
       { question: "What industries are best for search fund acquisitions?", answer: "Top-performing search fund industries include: business services (IT managed services, staffing, facility management), healthcare services (home health, dental, veterinary), industrial services (HVAC, electrical, environmental), niche manufacturing, and specialty distribution. These industries offer recurring revenue, fragmented markets, aging owner demographics, and resistance to disruption." },
     ],
   },
@@ -1283,7 +1283,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "solo-vs-partnered-search",
     title: "Solo vs. Partnered Search: Pros, Cons & Data",
     description:
-      "Data-driven comparison of solo vs. partnered search funds — success rates, economics, equity splits, complementary skills, common pitfalls, and a decision framework.",
+      "Data-driven comparison of solo vs. partnered search funds - success rates, economics, equity splits, complementary skills, common pitfalls, and a decision framework.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1298,7 +1298,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pacific Lake Partners", title: "Search Fund Partnership Best Practices", url: "https://www.pacificlake.com/", year: 2023 },
     ],
     faqs: [
-      { question: "Should I do a solo or partnered search fund?", answer: "Solo searches give you full equity (up to 25–30% post-acquisition) and complete decision-making control, but the search is lonely and you bear all the burden. Partnered searches split equity 50/50 (12.5–15% each), reduce burnout risk, and bring complementary skills. Choose solo if you have strong deal-sourcing skills and prefer autonomy. Choose partnered if you complement each other's skills (e.g., one sourcer + one operator) and communicate well under pressure." },
+      { question: "Should I do a solo or partnered search fund?", answer: "Solo searches give you full equity (up to 25-30% post-acquisition) and complete decision-making control, but the search is lonely and you bear all the burden. Partnered searches split equity 50/50 (12.5-15% each), reduce burnout risk, and bring complementary skills. Choose solo if you have strong deal-sourcing skills and prefer autonomy. Choose partnered if you complement each other's skills (e.g., one sourcer + one operator) and communicate well under pressure." },
       { question: "What percentage of search funds are partnered?", answer: "Approximately 25% of search funds are partnered (two co-searchers), while 75% are solo. The ratio has been relatively stable over the past decade. Partnered searches are more common among MBA classmates who know each other well. Investors generally don't have a strong preference but want to see clear role division and aligned incentives." },
     ],
   },
@@ -1307,7 +1307,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "ideal-company-profile",
     title: "Creating Your Ideal Company Profile (ICP) for Acquisitions",
     description:
-      "How to define your acquisition criteria across 12 dimensions — industry, geography, revenue, EBITDA, margins, growth, customer concentration, owner dependency, and more.",
+      "How to define your acquisition criteria across 12 dimensions - industry, geography, revenue, EBITDA, margins, growth, customer concentration, owner dependency, and more.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1323,8 +1323,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "International Business Brokers Association", title: "Market Pulse Report Q4 2024", year: 2024 },
     ],
     faqs: [
-      { question: "What is an ideal company profile for acquisitions?", answer: "An ICP (Ideal Company Profile) defines the specific characteristics of businesses you want to acquire across 12 dimensions: industry, geography, revenue range ($3–20M), EBITDA ($750K–5M), margins (15%+), growth rate, customer concentration (<20% top client), owner dependency (low), capital intensity (low), workforce stability, deal type (asset vs stock), and timing. A well-defined ICP makes your search 3–5x more efficient by filtering out 80%+ of businesses that don't fit." },
-      { question: "How specific should your ICP be?", answer: "Specific enough to filter efficiently, flexible enough to see good opportunities. Start with 3–5 target industries, a clear geography, and hard minimums on revenue and EBITDA. Most successful searchers refine their ICP 2–3 times during the search as they learn what's actually available in the market. The biggest mistake is being too broad — 'any good business' means you waste time on everything." },
+      { question: "What is an ideal company profile for acquisitions?", answer: "An ICP (Ideal Company Profile) defines the specific characteristics of businesses you want to acquire across 12 dimensions: industry, geography, revenue range ($3-20M), EBITDA ($750K-5M), margins (15%+), growth rate, customer concentration (<20% top client), owner dependency (low), capital intensity (low), workforce stability, deal type (asset vs stock), and timing. A well-defined ICP makes your search 3-5x more efficient by filtering out 80%+ of businesses that don't fit." },
+      { question: "How specific should your ICP be?", answer: "Specific enough to filter efficiently, flexible enough to see good opportunities. Start with 3-5 target industries, a clear geography, and hard minimums on revenue and EBITDA. Most successful searchers refine their ICP 2-3 times during the search as they learn what's actually available in the market. The biggest mistake is being too broad - 'any good business' means you waste time on everything." },
     ],
   },
 
@@ -1332,13 +1332,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "financial-runway-planning",
     title: "Financial Runway Planning for Search Fund Entrepreneurs",
     description:
-      "Personal financial planning for your search — how much runway you need, managing expenses, health insurance, family considerations, and knowing when to stop.",
+      "Personal financial planning for your search - how much runway you need, managing expenses, health insurance, family considerations, and knowing when to stop.",
     readTime: "9 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "Financial Runway Planning for Search Fund Entrepreneurs",
     ogDescription:
-      "18–24 months minimum runway. How to calculate your burn rate, manage personal finances, plan for health insurance, and make the kill switch decision.",
+      "18-24 months minimum runway. How to calculate your burn rate, manage personal finances, plan for health insurance, and make the kill switch decision.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1348,7 +1348,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Jim Sharpe & Dennis Roberts", title: "The Search Fund Playbook", year: 2022 },
     ],
     faqs: [
-      { question: "How much money do you need before starting a search fund?", answer: "For a traditional search: you'll raise $400K–$600K from investors, which covers your salary ($100–150K/year), travel, databases, legal, and overhead for 18–24 months. For a self-funded search: plan for 18–24 months of living expenses ($150K–$300K depending on location and family size) plus $50K–$100K in search costs (databases, travel, legal). Having 6 months of emergency reserves beyond your search runway is recommended." },
+      { question: "How much money do you need before starting a search fund?", answer: "For a traditional search: you'll raise $400K-$600K from investors, which covers your salary ($100-150K/year), travel, databases, legal, and overhead for 18-24 months. For a self-funded search: plan for 18-24 months of living expenses ($150K-$300K depending on location and family size) plus $50K-$100K in search costs (databases, travel, legal). Having 6 months of emergency reserves beyond your search runway is recommended." },
       { question: "What happens if you run out of money during a search?", answer: "If your search capital runs out before finding an acquisition, you have several options: (1) raise additional search capital from existing investors (common, ~20% of searches extend), (2) transition to a self-funded search model, (3) pause the search and take consulting work to rebuild runway, or (4) end the search and return to employment. The key is monitoring your burn rate monthly and making the decision to extend or stop before you're completely out of funds." },
     ],
   },
@@ -1357,7 +1357,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "corporate-to-eta",
     title: "From Corporate Job to ETA: When to Make the Leap",
     description:
-      "How to transition from a corporate career to ETA — signs you're ready, financial preparation, timing, transferable skills, and a month-by-month transition playbook.",
+      "How to transition from a corporate career to ETA - signs you're ready, financial preparation, timing, transferable skills, and a month-by-month transition playbook.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
@@ -1373,8 +1373,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
-      { question: "When should I leave my corporate job for ETA?", answer: "The optimal timing is typically 5–10 years into your career, when you have: (1) enough savings for 18–24 months of personal runway, (2) transferable management and analytical skills, (3) a professional network that can help with fundraising and deal sourcing, and (4) enough career capital that you can return to corporate if the search doesn't work out. Avoid leaving too early (insufficient skills/savings) or too late (golden handcuffs, reduced risk tolerance)." },
-      { question: "What corporate skills transfer to running an acquired business?", answer: "The most transferable skills are: financial analysis and modeling (from banking/consulting), people management and hiring (from operations roles), sales and client relationship management, project management and execution, and strategic planning. Less transferable: highly specialized technical skills, corporate bureaucracy navigation, and large-team management (acquired businesses typically have 20–100 employees)." },
+      { question: "When should I leave my corporate job for ETA?", answer: "The optimal timing is typically 5-10 years into your career, when you have: (1) enough savings for 18-24 months of personal runway, (2) transferable management and analytical skills, (3) a professional network that can help with fundraising and deal sourcing, and (4) enough career capital that you can return to corporate if the search doesn't work out. Avoid leaving too early (insufficient skills/savings) or too late (golden handcuffs, reduced risk tolerance)." },
+      { question: "What corporate skills transfer to running an acquired business?", answer: "The most transferable skills are: financial analysis and modeling (from banking/consulting), people management and hiring (from operations roles), sales and client relationship management, project management and execution, and strategic planning. Less transferable: highly specialized technical skills, corporate bureaucracy navigation, and large-team management (acquired businesses typically have 20-100 employees)." },
     ],
   },
 
@@ -1382,13 +1382,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-entrepreneur-archetype",
     title: "The Search Fund Entrepreneur Archetype: Who Succeeds?",
     description:
-      "What makes a successful search fund entrepreneur — personality traits, professional background, age and career stage, and a self-assessment framework for aspiring searchers.",
+      "What makes a successful search fund entrepreneur - personality traits, professional background, age and career stage, and a self-assessment framework for aspiring searchers.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "The Search Fund Entrepreneur Archetype: Who Succeeds?",
     ogDescription:
-      "Grit, interpersonal skills, comfort with ambiguity — the personality traits and professional backgrounds that predict search fund success, backed by Stanford data.",
+      "Grit, interpersonal skills, comfort with ambiguity - the personality traits and professional backgrounds that predict search fund success, backed by Stanford data.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1398,8 +1398,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SearchFunder", title: "Searcher Profiles and Background Data", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
-      { question: "What background do successful search fund entrepreneurs have?", answer: "The most common backgrounds are: management consulting (McKinsey, Bain, BCG — ~25%), investment banking/private equity (~20%), corporate operations/general management (~20%), and industry-specific roles (~15%). However, background alone doesn't predict success — the Stanford data shows that grit, interpersonal skills, and comfort with ambiguity are stronger predictors than pedigree." },
-      { question: "What is the ideal age to start a search fund?", answer: "Most searchers are 28–35 years old, with the sweet spot around 30–32. This provides enough career experience (5–10 years) to be credible with sellers and employees, while still having the energy and risk tolerance for a multi-year search. Younger searchers (25–28) may lack management credibility; older searchers (40+) may face higher opportunity costs and reduced risk appetite." },
+      { question: "What background do successful search fund entrepreneurs have?", answer: "The most common backgrounds are: management consulting (McKinsey, Bain, BCG - ~25%), investment banking/private equity (~20%), corporate operations/general management (~20%), and industry-specific roles (~15%). However, background alone doesn't predict success - the Stanford data shows that grit, interpersonal skills, and comfort with ambiguity are stronger predictors than pedigree." },
+      { question: "What is the ideal age to start a search fund?", answer: "Most searchers are 28-35 years old, with the sweet spot around 30-32. This provides enough career experience (5-10 years) to be credible with sellers and employees, while still having the energy and risk tolerance for a multi-year search. Younger searchers (25-28) may lack management credibility; older searchers (40+) may face higher opportunity costs and reduced risk appetite." },
     ],
   },
 
@@ -1407,13 +1407,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-no-acquisition",
     title: "What Happens If a Searcher Doesn't Find a Company?",
     description:
-      "What happens when a search fund doesn't result in an acquisition — financial implications, investor impact, career outcomes, and lessons from unsuccessful searches.",
+      "What happens when a search fund doesn't result in an acquisition - financial implications, investor impact, career outcomes, and lessons from unsuccessful searches.",
     readTime: "8 min read",
     tag: "Guide",
     category: "Getting Started",
     ogTitle: "What Happens If a Searcher Doesn't Find a Company?",
     ogDescription:
-      "~33% of searches don't result in an acquisition. What happens to the searcher, the investors, and the capital — plus how to prevent search failure.",
+      "~33% of searches don't result in an acquisition. What happens to the searcher, the investors, and the capital - plus how to prevent search failure.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1423,7 +1423,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What percentage of search funds fail to acquire?", answer: "Approximately 33% of traditional search funds do not complete an acquisition. Common reasons include: inability to find a suitable target within the search period (most common), inability to agree on price/terms with sellers, failed due diligence on deals that seemed promising, and personal reasons (burnout, family circumstances). The failure rate has improved slightly over time as the ecosystem has matured." },
-      { question: "What do failed searchers do next?", answer: "Career outcomes for searchers who don't acquire are generally positive: many join operating teams at other search fund portfolio companies, return to consulting or banking (often at a higher level), join PE/VC firms as operating partners or associates, or attempt a second search. The skills developed during a search — deal sourcing, financial analysis, negotiation, industry research — are highly valued by employers." },
+      { question: "What do failed searchers do next?", answer: "Career outcomes for searchers who don't acquire are generally positive: many join operating teams at other search fund portfolio companies, return to consulting or banking (often at a higher level), join PE/VC firms as operating partners or associates, or attempt a second search. The skills developed during a search - deal sourcing, financial analysis, negotiation, industry research - are highly valued by employers." },
     ],
   },
 
@@ -1431,13 +1431,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-good-investment",
     title: "Are Search Funds a Good Investment? Returns Analyzed",
     description:
-      "Data-driven analysis of search fund returns — 35% IRR, 4.5x MOIC, comparison to PE/VC/public markets, risk-adjusted returns, portfolio construction, and the European opportunity.",
+      "Data-driven analysis of search fund returns - 35% IRR, 4.5x MOIC, comparison to PE/VC/public markets, risk-adjusted returns, portfolio construction, and the European opportunity.",
     readTime: "11 min read",
     tag: "Investor",
     category: "Getting Started",
     ogTitle: "Are Search Funds a Good Investment? Returns Analyzed",
     ogDescription:
-      "35% IRR, 4.5x MOIC over 40 years. How search fund returns compare to PE, VC, public markets, and real estate — with portfolio construction guidance for investors.",
+      "35% IRR, 4.5x MOIC over 40 years. How search fund returns compare to PE, VC, public markets, and real estate - with portfolio construction guidance for investors.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1461,9 +1461,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Fundraising & Investors",
-    ogTitle: "How to Write a Search Fund PPM — Section-by-Section Guide",
+    ogTitle: "How to Write a Search Fund PPM - Section-by-Section Guide",
     ogDescription:
-      "From executive summary to risk factors — learn how to craft a Private Placement Memorandum that convinces investors to back your search.",
+      "From executive summary to risk factors - learn how to craft a Private Placement Memorandum that convinces investors to back your search.",
     datePublished: "2024-04-08",
     dateModified: "2026-04-23",
     sources: [
@@ -1473,7 +1473,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is a PPM in a search fund?", answer: "A Private Placement Memorandum (PPM) is the legal fundraising document that search fund entrepreneurs send to prospective investors. It describes the searcher's background, search strategy, fund economics, use of proceeds, risk factors, and legal terms." },
-      { question: "How long should a search fund PPM be?", answer: "A typical search fund PPM is 25–40 pages. The executive summary (2–3 pages) is the most important section. Keep the body concise and factual — investors review dozens of PPMs and appreciate clarity over length." },
+      { question: "How long should a search fund PPM be?", answer: "A typical search fund PPM is 25-40 pages. The executive summary (2-3 pages) is the most important section. Keep the body concise and factual - investors review dozens of PPMs and appreciate clarity over length." },
     ],
   },
   {
@@ -1484,7 +1484,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Guide",
     category: "Fundraising & Investors",
-    ogTitle: "Search Fund Fundraising Deck — Slide-by-Slide Guide",
+    ogTitle: "Search Fund Fundraising Deck - Slide-by-Slide Guide",
     ogDescription:
       "Build a fundraising deck that tells your story. Slide-by-slide breakdown, design tips, and how to run an effective investor meeting.",
     datePublished: "2024-04-22",
@@ -1492,10 +1492,10 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Yale SOM", title: "A Note on Raising Search Fund Capital", year: 2019 },
-      { name: "Harvard Business School", title: "Search Funds and ETA — Baker Library", url: "https://www.library.hbs.edu/services/help-center/search-funds", year: 2023 },
+      { name: "Harvard Business School", title: "Search Funds and ETA - Baker Library", url: "https://www.library.hbs.edu/services/help-center/search-funds", year: 2023 },
     ],
     faqs: [
-      { question: "How many slides should a search fund fundraising deck have?", answer: "A typical search fund fundraising deck has 15–20 slides covering: your background, the search fund model, deal criteria, target sectors, financing structure, economics, timeline, and investor terms. Keep the narrative tight — investors see dozens of these decks." },
+      { question: "How many slides should a search fund fundraising deck have?", answer: "A typical search fund fundraising deck has 15-20 slides covering: your background, the search fund model, deal criteria, target sectors, financing structure, economics, timeline, and investor terms. Keep the narrative tight - investors see dozens of these decks." },
       { question: "What do search fund investors look for in a deck?", answer: "Investors focus on the searcher's background and fit (60% of their decision), a clear and focused acquisition thesis, realistic deal criteria (sector, geography, size), evidence of preparation (pipeline, outreach strategy), and honest discussion of risks. Generic decks that could apply to anyone are a red flag." },
       { question: "Should I send my fundraising deck before or after the meeting?", answer: "Best practice is to send a 1-page teaser or executive summary first, then present the full deck in person or on a video call. After the meeting, send the full deck along with your PPM and any reference contacts. This ensures you can control the narrative during the presentation." },
     ],
@@ -1510,17 +1510,17 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "How to Find & Convince Search Fund Investors to Back Your Search",
     ogDescription:
-      "Ex-searchers, family offices, institutional investors — learn how to approach them, what they look for, and how to close your fundraise.",
+      "Ex-searchers, family offices, institutional investors - learn how to approach them, what they look for, and how to close your fundraise.",
     datePublished: "2024-05-06",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub — Investor Resources", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", year: 2024 },
       { name: "Search Fund Partners", title: "The Search Fund Landscape: Capital Formation & Investor Dynamics", year: 2023 },
     ],
     faqs: [
-      { question: "How many investors does a typical search fund have?", answer: "Traditional search funds typically raise from 10–20 investors, each committing $50K–$200K during the search phase. Top-tier searchers with strong MBA networks may have 15–25 investors. The goal is enough capital for the search plus a consortium ready to co-invest at acquisition." },
+      { question: "How many investors does a typical search fund have?", answer: "Traditional search funds typically raise from 10-20 investors, each committing $50K-$200K during the search phase. Top-tier searchers with strong MBA networks may have 15-25 investors. The goal is enough capital for the search plus a consortium ready to co-invest at acquisition." },
       { question: "What do search fund investors look for in a searcher?", answer: "Investors evaluate: leadership ability, intellectual horsepower, work ethic, integrity, coachability, and industry thesis clarity. Prior operating experience, strong MBA performance, and references from other searchers or professors are key differentiators." },
     ],
   },
@@ -1528,13 +1528,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "top-search-fund-investors",
     title: "Top Search Fund Investors: A Curated List",
     description:
-      "Serial search fund investors, dedicated funds, family offices, institutional investors, and MBA networks — the landscape of search fund capital providers.",
+      "Serial search fund investors, dedicated funds, family offices, institutional investors, and MBA networks - the landscape of search fund capital providers.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Fundraising & Investors",
     ogTitle: "Top Search Fund Investors: Types, Selection Criteria & Syndicate Building",
     ogDescription:
-      "Serial investors, fund-of-funds, family offices, institutional capital — the complete guide to search fund investor types, what to look for, and how to build your syndicate.",
+      "Serial investors, fund-of-funds, family offices, institutional capital - the complete guide to search fund investor types, what to look for, and how to build your syndicate.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1543,7 +1543,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What types of investors back search funds?", answer: "Five main types: (1) Serial search fund investors (former searchers), (2) Dedicated search fund funds (Pacific Lake Partners, Relay Investments), (3) Family offices, (4) Institutional investors (endowments, pension funds), and (5) MBA school alumni networks (Stanford, HBS, Wharton). Each brings different check sizes, mentorship, and network value." },
-      { question: "What should I look for in a search fund investor?", answer: "Prioritize: operational experience (have they run a business?), search fund track record (how many funds backed?), follow-on capacity (can they write $250K+ acquisition equity checks?), mentorship quality (will they take your calls at 10pm?), decision speed (can they commit in 2–3 weeks?), and network value (lenders, lawyers, board members)." },
+      { question: "What should I look for in a search fund investor?", answer: "Prioritize: operational experience (have they run a business?), search fund track record (how many funds backed?), follow-on capacity (can they write $250K+ acquisition equity checks?), mentorship quality (will they take your calls at 10pm?), decision speed (can they commit in 2-3 weeks?), and network value (lenders, lawyers, board members)." },
     ],
   },
   {
@@ -1556,7 +1556,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Family Offices as Search Fund Investors: A Complete Guide",
     ogDescription:
-      "Long-horizon capital, direct ownership, mentorship opportunity — why family offices are ideal search fund investors and how to approach them effectively.",
+      "Long-horizon capital, direct ownership, mentorship opportunity - why family offices are ideal search fund investors and how to approach them effectively.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1565,7 +1565,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Searcher Insights", title: "2025 Search Fund Market Landscape Report", url: "https://searcherinsights.com/search-fund-investors-the-definitive-market-landscape-report-2025/", year: 2025 },
     ],
     faqs: [
-      { question: "Why do family offices invest in search funds?", answer: "Family offices are attracted to: direct ownership alignment (no layered PE fees), attractive returns (33% aggregate IRR), long-horizon capital compatibility (no 10-year fund lifecycle pressure), mentorship opportunity (many principals are former operators), manageable check sizes ($25K–$50K search + $250K–$2M acquisition), and co-investment optionality." },
+      { question: "Why do family offices invest in search funds?", answer: "Family offices are attracted to: direct ownership alignment (no layered PE fees), attractive returns (33% aggregate IRR), long-horizon capital compatibility (no 10-year fund lifecycle pressure), mentorship opportunity (many principals are former operators), manageable check sizes ($25K-$50K search + $250K-$2M acquisition), and co-investment optionality." },
       { question: "How do you find family offices interested in search funds?", answer: "Key channels: MBA alumni networks (Stanford, HBS, Wharton), search fund conferences (IESE, Stanford), wealth advisor referrals, industry associations (TIGER 21, CampdenFB), existing investor introductions, and LinkedIn research on family office principals and CIOs." },
     ],
   },
@@ -1577,7 +1577,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Fundraising & Investors",
-    ogTitle: "Search Fund Cap Tables & Equity — Worked Examples",
+    ogTitle: "Search Fund Cap Tables & Equity - Worked Examples",
     ogDescription:
       "Understand how equity works in search funds: step-up, carried interest, vesting schedules, and dilution math with worked examples.",
     datePublished: "2024-05-20",
@@ -1588,7 +1588,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Carta", title: "Cap Table Management Best Practices for Private Companies", year: 2024 },
     ],
     faqs: [
-      { question: "How much equity does a search fund CEO typically get?", answer: "In a traditional search fund, the CEO typically earns 20–30% of the equity through a step-up mechanism: ~15% at acquisition and ~10–15% based on performance milestones (usually IRR hurdles for investors). Self-funded searchers retain more equity but bear more personal financial risk." },
+      { question: "How much equity does a search fund CEO typically get?", answer: "In a traditional search fund, the CEO typically earns 20-30% of the equity through a step-up mechanism: ~15% at acquisition and ~10-15% based on performance milestones (usually IRR hurdles for investors). Self-funded searchers retain more equity but bear more personal financial risk." },
       { question: "What is the step-up in a search fund?", answer: "The step-up is the equity conversion mechanism where search investors' initial capital (used during the search phase) converts into equity at the acquisition. Investors typically get a 1.5x step-up on their search capital, meaning $100K invested during the search converts to $150K of equity at acquisition." },
     ],
   },
@@ -1608,11 +1608,11 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "IRS", title: "Section 1202 — Qualified Small Business Stock", url: "https://www.irs.gov/pub/irs-pdf/p550.pdf", year: 2024 },
+      { name: "IRS", title: "Section 1202 - Qualified Small Business Stock", url: "https://www.irs.gov/pub/irs-pdf/p550.pdf", year: 2024 },
     ],
     faqs: [
-      { question: "How much does a search fund CEO earn?", answer: "During the search phase, searchers typically earn $100K–$150K annually. After acquisition, CEO compensation is $200K–$300K base salary plus performance bonuses. The real wealth creation comes from equity: 20–30% ownership that could be worth $3–10M+ at a successful exit." },
-      { question: "How does the three-tranche equity model work?", answer: "Searcher equity is typically earned in three tranches: (1) at acquisition (~8–10% for closing a deal), (2) time-based vesting over 3–4 years (~8–10%), and (3) performance-based upon hitting IRR hurdles for investors (~5–10%). Total potential equity is 20–30%." },
+      { question: "How much does a search fund CEO earn?", answer: "During the search phase, searchers typically earn $100K-$150K annually. After acquisition, CEO compensation is $200K-$300K base salary plus performance bonuses. The real wealth creation comes from equity: 20-30% ownership that could be worth $3-10M+ at a successful exit." },
+      { question: "How does the three-tranche equity model work?", answer: "Searcher equity is typically earned in three tranches: (1) at acquisition (~8-10% for closing a deal), (2) time-based vesting over 3-4 years (~8-10%), and (3) performance-based upon hitting IRR hurdles for investors (~5-10%). Total potential equity is 20-30%." },
     ],
   },
 
@@ -1626,7 +1626,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Term Sheet: Key Provisions & Negotiation Guide",
     ogDescription:
-      "1.5x step-up, 20–30% searcher equity in three tranches, board composition, investor approval rights. The complete guide to search fund term sheet provisions.",
+      "1.5x step-up, 20-30% searcher equity in three tranches, board composition, investor approval rights. The complete guide to search fund term sheet provisions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1635,8 +1635,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
-      { question: "What is the step-up in a search fund term sheet?", answer: "The step-up is the premium at which search capital converts into acquisition equity. The standard is 1.5x, meaning $100K of search capital converts to $150K of equity. It compensates early investors for the risk of funding the search phase — about 25% of searches never result in an acquisition." },
-      { question: "How much equity does a searcher get?", answer: "Typically 20–30% of the acquired company's equity, earned in three tranches: (1) 8–10% at close for completing the acquisition, (2) 8–10% vesting over 3–4 years of CEO service, and (3) 5–10% upon achieving investor return hurdles (typically 3x MOIC or 25%+ IRR)." },
+      { question: "What is the step-up in a search fund term sheet?", answer: "The step-up is the premium at which search capital converts into acquisition equity. The standard is 1.5x, meaning $100K of search capital converts to $150K of equity. It compensates early investors for the risk of funding the search phase - about 25% of searches never result in an acquisition." },
+      { question: "How much equity does a searcher get?", answer: "Typically 20-30% of the acquired company's equity, earned in three tranches: (1) 8-10% at close for completing the acquisition, (2) 8-10% vesting over 3-4 years of CEO service, and (3) 5-10% upon achieving investor return hurdles (typically 3x MOIC or 25%+ IRR)." },
     ],
   },
 
@@ -1644,13 +1644,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-fundraising-timeline",
     title: "Search Fund Fundraising Timeline: Week-by-Week Guide",
     description:
-      "A week-by-week guide to raising a search fund — preparation, investor outreach, pitch meetings, term sheets, and closing strategies.",
+      "A week-by-week guide to raising a search fund - preparation, investor outreach, pitch meetings, term sheets, and closing strategies.",
     readTime: "12 min read",
     tag: "Fundraising",
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Fundraising Timeline: Week-by-Week Guide",
     ogDescription:
-      "Most traditional search funds raise $400K–$600K in 8–16 weeks. A detailed week-by-week guide to the fundraising process, from preparation through closing.",
+      "Most traditional search funds raise $400K-$600K in 8-16 weeks. A detailed week-by-week guide to the fundraising process, from preparation through closing.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1659,23 +1659,23 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Note on Search Fund Fundraising Best Practices", year: 2023 },
     ],
     faqs: [
-      { question: "How long does it take to raise a search fund?", answer: "Most traditional search fund raises take 8–16 weeks from first investor meeting to closing. The timeline depends on your network, background, and market conditions. MBA graduates from top programs with strong ETA clubs can sometimes close in 6–8 weeks. Searchers without established investor networks may need 12–20 weeks. Plan for 60–80 investor meetings to secure 15–20 investors." },
-      { question: "How many investors do you need for a search fund?", answer: "Most search funds have 15–20 investors, each contributing $20K–$40K in search capital. Aim for a lead investor who commits early and can provide credibility for subsequent conversations. Institutional search fund investors (dedicated ETA funds) are increasingly common and can anchor a raise with $50K–$100K commitments." },
+      { question: "How long does it take to raise a search fund?", answer: "Most traditional search fund raises take 8-16 weeks from first investor meeting to closing. The timeline depends on your network, background, and market conditions. MBA graduates from top programs with strong ETA clubs can sometimes close in 6-8 weeks. Searchers without established investor networks may need 12-20 weeks. Plan for 60-80 investor meetings to secure 15-20 investors." },
+      { question: "How many investors do you need for a search fund?", answer: "Most search funds have 15-20 investors, each contributing $20K-$40K in search capital. Aim for a lead investor who commits early and can provide credibility for subsequent conversations. Institutional search fund investors (dedicated ETA funds) are increasingly common and can anchor a raise with $50K-$100K commitments." },
     ],
   },
 
   // ── Deal Execution ───────────────────────────────────────────────────
   {
     slug: "ebitda-multiples-by-industry",
-    title: "EBITDA Multiples by Industry: 2025–2026 Benchmarks",
+    title: "EBITDA Multiples by Industry: 2025-2026 Benchmarks",
     description:
-      "Current EBITDA multiples for SaaS, healthcare, manufacturing, home services, professional services, and more — benchmarks for SME acquisitions.",
+      "Current EBITDA multiples for SaaS, healthcare, manufacturing, home services, professional services, and more - benchmarks for SME acquisitions.",
     readTime: "15 min read",
     tag: "Data",
     category: "Deal Execution",
-    ogTitle: "EBITDA Multiples by Industry: 2025–2026 SME Acquisition Benchmarks",
+    ogTitle: "EBITDA Multiples by Industry: 2025-2026 SME Acquisition Benchmarks",
     ogDescription:
-      "SaaS at 5–8x, healthcare at 5–8x, home services at 3–5.5x — current EBITDA multiples by industry for search fund and SME acquisitions.",
+      "SaaS at 5-8x, healthcare at 5-8x, home services at 3-5.5x - current EBITDA multiples by industry for search fund and SME acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1686,10 +1686,10 @@ export const allArticles: ArticleMeta[] = [
       { name: "Axial Network", title: "EBITDA Multiples by Industry for SMEs", url: "https://www.axial.net/forum/ebitda-multiples-by-industry/", year: 2025 },
     ],
     faqs: [
-      { question: "What is a good EBITDA multiple for a small business?", answer: "For SMEs with $1–5M EBITDA, typical purchase multiples range from 3x to 7x depending on the industry, growth rate, and revenue quality. SaaS and healthcare command the highest multiples (5–8x), while home services and manufacturing are lower (3–5.5x)." },
-      { question: "Why are European EBITDA multiples lower than US?", answer: "European SMEs typically trade at 3–5x EBITDA vs 4–7x in the US. The discount is driven by less PE competition, a fragmented M&A advisory market, language barriers reducing cross-border activity, and urgency from the baby boomer succession wave creating motivated sellers." },
-      { question: "How do EBITDA multiples differ between SaaS and traditional businesses?", answer: "SaaS companies typically command 5.0–8.0x EBITDA (or 3–6x ARR), significantly above most traditional industries. This premium is driven by recurring revenue, high gross margins (>70%), low churn, and strong scalability. Traditional businesses like home services or manufacturing typically trade at 3.0–5.5x EBITDA." },
-      { question: "What factors can increase or decrease a business's EBITDA multiple?", answer: "Key premium drivers include revenue growth above 10% annually (adds 1–2 turns), recurring or contractual revenue (1–3x higher multiples), larger size (>$3M EBITDA), and high EBITDA margins (>20%). Discount factors include customer concentration, owner dependency, project-based revenue, high capex requirements, and cyclical or declining industries." },
+      { question: "What is a good EBITDA multiple for a small business?", answer: "For SMEs with $1-5M EBITDA, typical purchase multiples range from 3x to 7x depending on the industry, growth rate, and revenue quality. SaaS and healthcare command the highest multiples (5-8x), while home services and manufacturing are lower (3-5.5x)." },
+      { question: "Why are European EBITDA multiples lower than US?", answer: "European SMEs typically trade at 3-5x EBITDA vs 4-7x in the US. The discount is driven by less PE competition, a fragmented M&A advisory market, language barriers reducing cross-border activity, and urgency from the baby boomer succession wave creating motivated sellers." },
+      { question: "How do EBITDA multiples differ between SaaS and traditional businesses?", answer: "SaaS companies typically command 5.0-8.0x EBITDA (or 3-6x ARR), significantly above most traditional industries. This premium is driven by recurring revenue, high gross margins (>70%), low churn, and strong scalability. Traditional businesses like home services or manufacturing typically trade at 3.0-5.5x EBITDA." },
+      { question: "What factors can increase or decrease a business's EBITDA multiple?", answer: "Key premium drivers include revenue growth above 10% annually (adds 1-2 turns), recurring or contractual revenue (1-3x higher multiples), larger size (>$3M EBITDA), and high EBITDA margins (>20%). Discount factors include customer concentration, owner dependency, project-based revenue, high capex requirements, and cyclical or declining industries." },
       { question: "Should I rely solely on EBITDA multiples to value a business?", answer: "No. EBITDA multiples are a useful starting point for benchmarking, but they should be complemented by a discounted cash flow (DCF) analysis for businesses with clear growth trajectories, a working capital analysis, and a thorough review of capital expenditure requirements. Always use adjusted EBITDA validated by a quality of earnings report." },
     ],
   },
@@ -1703,7 +1703,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Adjusted EBITDA: Add-Backs, Normalizations & Red Flags for Buyers",
     ogDescription:
-      "Owner comp add-backs, one-time expenses, gray-area adjustments, and manipulation red flags — the buyer's guide to understanding and validating adjusted EBITDA.",
+      "Owner comp add-backs, one-time expenses, gray-area adjustments, and manipulation red flags - the buyer's guide to understanding and validating adjusted EBITDA.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1714,11 +1714,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "CFI Education", title: "Adjusted EBITDA: Definition and How to Calculate", url: "https://corporatefinanceinstitute.com/resources/accounting/adjusted-ebitda/", year: 2024 },
     ],
     faqs: [
-      { question: "What is adjusted EBITDA?", answer: "Adjusted EBITDA starts with standard EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) and then adds back or subtracts items that are non-recurring, non-operational, or specific to the current owner — such as above-market owner compensation, one-time legal expenses, or personal expenses run through the business." },
-      { question: "What add-backs are red flags in adjusted EBITDA?", answer: "Major red flags include: add-backs exceeding 30–40% of stated EBITDA, 'one-time' expenses that appear every year, synergy adjustments (buyer's cost savings attributed to seller), pro-forma revenue from unsigned contracts, and complex related-party transactions. If adjustments are doing more work than the business itself, walk away." },
-      { question: "What is the difference between EBITDA and adjusted EBITDA?", answer: "Standard EBITDA is calculated by adding back interest, taxes, depreciation, and amortization to net income. Adjusted EBITDA goes further by normalizing for items specific to the current owner — above-market owner compensation, personal expenses run through the business, one-time legal costs, and non-recurring items. Adjusted EBITDA represents the sustainable cash earnings a new owner can expect." },
-      { question: "How many add-backs are too many in adjusted EBITDA?", answer: "If total add-backs exceed 30–40% of stated EBITDA, treat the adjustments with heavy skepticism. Two to four clearly documented, objectively verifiable add-backs are normal. Ten or more add-backs covering everything from marketing to travel is a red flag." },
-      { question: "Why is a Quality of Earnings report necessary?", answer: "A QoE report is a third-party financial analysis that independently validates or refutes the seller's adjusted EBITDA. Lenders require it to size the loan, and it typically catches 10–30% of claimed add-backs as unsupported or inflated. The $20K–$80K cost is a fraction of the overpayment risk it prevents." },
+      { question: "What is adjusted EBITDA?", answer: "Adjusted EBITDA starts with standard EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) and then adds back or subtracts items that are non-recurring, non-operational, or specific to the current owner - such as above-market owner compensation, one-time legal expenses, or personal expenses run through the business." },
+      { question: "What add-backs are red flags in adjusted EBITDA?", answer: "Major red flags include: add-backs exceeding 30-40% of stated EBITDA, 'one-time' expenses that appear every year, synergy adjustments (buyer's cost savings attributed to seller), pro-forma revenue from unsigned contracts, and complex related-party transactions. If adjustments are doing more work than the business itself, walk away." },
+      { question: "What is the difference between EBITDA and adjusted EBITDA?", answer: "Standard EBITDA is calculated by adding back interest, taxes, depreciation, and amortization to net income. Adjusted EBITDA goes further by normalizing for items specific to the current owner - above-market owner compensation, personal expenses run through the business, one-time legal costs, and non-recurring items. Adjusted EBITDA represents the sustainable cash earnings a new owner can expect." },
+      { question: "How many add-backs are too many in adjusted EBITDA?", answer: "If total add-backs exceed 30-40% of stated EBITDA, treat the adjustments with heavy skepticism. Two to four clearly documented, objectively verifiable add-backs are normal. Ten or more add-backs covering everything from marketing to travel is a red flag." },
+      { question: "Why is a Quality of Earnings report necessary?", answer: "A QoE report is a third-party financial analysis that independently validates or refutes the seller's adjusted EBITDA. Lenders require it to size the loan, and it typically catches 10-30% of claimed add-backs as unsupported or inflated. The $20K-$80K cost is a fraction of the overpayment risk it prevents." },
     ],
   },
   {
@@ -1741,9 +1741,9 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Is a Letter of Intent legally binding?", answer: "Most LOI provisions are non-binding, including purchase price and deal structure. However, exclusivity (no-shop), confidentiality, and expense allocation clauses are typically binding. Always have an attorney review before signing." },
-      { question: "How long should an exclusivity period be?", answer: "Standard exclusivity periods are 60–90 days for search fund deals. Sellers prefer shorter periods (45–60 days), while buyers want longer (90–120 days). The period should align with your due diligence timeline." },
+      { question: "How long should an exclusivity period be?", answer: "Standard exclusivity periods are 60-90 days for search fund deals. Sellers prefer shorter periods (45-60 days), while buyers want longer (90-120 days). The period should align with your due diligence timeline." },
       { question: "What should the purchase price section of an LOI include?", answer: "The purchase price section should state the proposed enterprise value and how you arrived at it (e.g., a multiple of trailing twelve months adjusted EBITDA). Specify whether the price is fixed or subject to a working capital adjustment at closing. Many search fund LOIs express the price as a range to preserve negotiating flexibility." },
-      { question: "How long does it take to go from LOI to closing?", answer: "The typical path from a signed LOI to closing takes 3–6 months. The first four weeks focus on intensive financial diligence and a quality of earnings analysis. Weeks four through eight cover operational and legal diligence plus purchase agreement drafting. Approximately 30% of signed LOIs do not result in a completed transaction." },
+      { question: "How long does it take to go from LOI to closing?", answer: "The typical path from a signed LOI to closing takes 3-6 months. The first four weeks focus on intensive financial diligence and a quality of earnings analysis. Weeks four through eight cover operational and legal diligence plus purchase agreement drafting. Approximately 30% of signed LOIs do not result in a completed transaction." },
       { question: "Can I submit LOIs to multiple sellers at the same time?", answer: "You can advance multiple opportunities through initial evaluation simultaneously, but you should sign an exclusive LOI with only one target at a time. Signing multiple exclusive LOIs simultaneously is considered unethical in the search fund community and risks reputational damage." },
     ],
   },
@@ -1757,7 +1757,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "The Complete Due Diligence Checklist for Search Fund Acquisitions",
     ogDescription:
-      "Don't miss anything before signing. Financial, legal, operational, and commercial due diligence — every item you need to check.",
+      "Don't miss anything before signing. Financial, legal, operational, and commercial due diligence - every item you need to check.",
     datePublished: "2024-05-28",
     dateModified: "2026-04-23",
     sources: [
@@ -1767,22 +1767,22 @@ export const allArticles: ArticleMeta[] = [
       { name: "McKinsey & Company", title: "Cultural Integration in M&A", url: "https://www.mckinsey.com/capabilities/m-and-a/our-insights", year: 2024 },
     ],
     faqs: [
-      { question: "How long does due diligence take for a search fund acquisition?", answer: "Typical due diligence takes 45–90 days from LOI signing to purchase agreement execution. Simpler businesses can close in 30 days, while complex deals (regulated industries, multi-location, environmental) may take 90–120 days. Financial and legal workstreams usually run in parallel." },
+      { question: "How long does due diligence take for a search fund acquisition?", answer: "Typical due diligence takes 45-90 days from LOI signing to purchase agreement execution. Simpler businesses can close in 30 days, while complex deals (regulated industries, multi-location, environmental) may take 90-120 days. Financial and legal workstreams usually run in parallel." },
       { question: "What are the most common due diligence red flags?", answer: "Top red flags include declining revenue trends, customer concentration above 20%, undisclosed liabilities, key-person dependence, pending litigation, environmental issues, and significant discrepancies between tax returns and financial statements." },
-      { question: "How much does due diligence cost?", answer: "Budget $75,000–$150,000 for professional due diligence fees, including Quality of Earnings ($30K–$60K), legal counsel ($25K–$50K), environmental assessments ($5K–$15K), and specialty consultants as needed. These costs are typically funded from the search capital budget." },
+      { question: "How much does due diligence cost?", answer: "Budget $75,000-$150,000 for professional due diligence fees, including Quality of Earnings ($30K-$60K), legal counsel ($25K-$50K), environmental assessments ($5K-$15K), and specialty consultants as needed. These costs are typically funded from the search capital budget." },
     ],
   },
   {
     slug: "financial-due-diligence",
     title: "Financial Due Diligence: What to Look For",
     description:
-      "Revenue quality, EBITDA analysis, working capital, cash flow, balance sheet deep dive, and the Quality of Earnings report — a complete FDD framework.",
+      "Revenue quality, EBITDA analysis, working capital, cash flow, balance sheet deep dive, and the Quality of Earnings report - a complete FDD framework.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Financial Due Diligence: What to Look For in an SME Acquisition",
     ogDescription:
-      "Revenue quality, EBITDA add-backs, working capital, cash flow, and the QoE report — the complete financial due diligence framework for search fund acquisitions.",
+      "Revenue quality, EBITDA add-backs, working capital, cash flow, and the QoE report - the complete financial due diligence framework for search fund acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1794,8 +1794,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Duedilio", title: "Understanding Financial Due Diligence in Small Business Acquisitions", url: "https://www.duedilio.com/understanding-financial-due-diligence-in-small-business-acquisitions/", year: 2024 },
     ],
     faqs: [
-      { question: "What documents should I request for financial due diligence?", answer: "Request 3–5 years of tax returns, P&L statements, balance sheets, and cash flow statements (monthly if available). Also request the general ledger, bank statements (12–24 months), AR/AP aging, revenue by customer and product, payroll records, debt schedules, insurance policies, and any budgets or forecasts." },
-      { question: "How much does a Quality of Earnings report cost?", answer: "A Quality of Earnings (QoE) report costs $20,000–$80,000 depending on deal complexity, business size, and the accounting firm used. For deals above $1M, a third-party QoE is essential — lenders rely on it, and it independently validates every seller add-back." },
+      { question: "What documents should I request for financial due diligence?", answer: "Request 3-5 years of tax returns, P&L statements, balance sheets, and cash flow statements (monthly if available). Also request the general ledger, bank statements (12-24 months), AR/AP aging, revenue by customer and product, payroll records, debt schedules, insurance policies, and any budgets or forecasts." },
+      { question: "How much does a Quality of Earnings report cost?", answer: "A Quality of Earnings (QoE) report costs $20,000-$80,000 depending on deal complexity, business size, and the accounting firm used. For deals above $1M, a third-party QoE is essential - lenders rely on it, and it independently validates every seller add-back." },
       { question: "What is the most important check in financial due diligence?", answer: "Comparing tax returns to the P&L statement is the single most important check. This cross-reference catches most financial misrepresentations. If reported EBITDA is significantly higher than taxable income without clear, documented add-backs, investigate further." },
     ],
   },
@@ -1809,7 +1809,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Legal Due Diligence for Business Acquisitions: Contracts, Litigation & IP",
     ogDescription:
-      "Change-of-control clauses, pending litigation, employee misclassification, IP ownership — the legal risks that kill deals and how to uncover them.",
+      "Change-of-control clauses, pending litigation, employee misclassification, IP ownership - the legal risks that kill deals and how to uncover them.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1820,8 +1820,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What are the most important contracts to review in legal due diligence?", answer: "Focus on: top customer contracts (especially change-of-control provisions), lease agreements (assignment clauses, remaining term), loan/credit agreements (change-of-control triggers), key employee contracts (non-competes, severance), and vendor/supplier agreements (exclusivity, minimum purchase obligations)." },
-      { question: "What is the difference between legal DD for asset purchases vs. share purchases?", answer: "In an asset purchase, you select which assets and liabilities to acquire — unknown liabilities generally stay with the seller, but contracts must be individually assigned. In a share purchase, you acquire the entity with ALL liabilities (known and unknown). Legal DD scope is broader for share purchases because you inherit the full legal history." },
-      { question: "How much does legal due diligence cost?", answer: "Budget $15,000–$50,000 for buyer's counsel to conduct legal DD, depending on deal complexity. Add $5K–$15K for Phase I environmental assessment if applicable, plus specialist reviews (IP counsel, employment counsel) as needed. Total legal costs including closing typically run $30K–$75K." },
+      { question: "What is the difference between legal DD for asset purchases vs. share purchases?", answer: "In an asset purchase, you select which assets and liabilities to acquire - unknown liabilities generally stay with the seller, but contracts must be individually assigned. In a share purchase, you acquire the entity with ALL liabilities (known and unknown). Legal DD scope is broader for share purchases because you inherit the full legal history." },
+      { question: "How much does legal due diligence cost?", answer: "Budget $15,000-$50,000 for buyer's counsel to conduct legal DD, depending on deal complexity. Add $5K-$15K for Phase I environmental assessment if applicable, plus specialist reviews (IP counsel, employment counsel) as needed. Total legal costs including closing typically run $30K-$75K." },
       { question: "What is the most commonly overlooked area of legal due diligence?", answer: "Employee classification (independent contractor vs. employee) is the most commonly overlooked legal risk in SME acquisitions. Many small businesses misclassify workers to reduce payroll taxes and benefits costs. If reclassified post-acquisition, the buyer inherits liability for unpaid payroll taxes, benefits, overtime, and penalties." },
       { question: "How does deal structure affect legal due diligence scope?", answer: "In a share purchase, you acquire the entire legal entity including all known and unknown liabilities, requiring more extensive legal DD. In an asset purchase, you select specific assets and assume only specified liabilities, reducing but not eliminating legal risk. Asset purchases require individual assignment of every contract, lease, and license." },
       { question: "When should I walk away from a deal based on legal DD findings?", answer: "Walk away when you discover material pending litigation exceeding EBITDA, pervasive regulatory non-compliance threatening the operating license, key contracts with unwaivable change-of-control termination rights, undisclosed tax liabilities the seller won't indemnify, or IP ownership disputes undermining the core business." },
@@ -1831,13 +1831,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "operational-due-diligence",
     title: "Operational Due Diligence for SME Acquisitions",
     description:
-      "People and organization, customers and market, processes and systems, suppliers, facilities — the operational assessment framework for acquisition targets.",
+      "People and organization, customers and market, processes and systems, suppliers, facilities - the operational assessment framework for acquisition targets.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Operational Due Diligence for SME Acquisitions",
     ogDescription:
-      "Key employees, customer retention, process documentation, technology systems, supplier dependencies — the operational DD framework that complements financial and legal review.",
+      "Key employees, customer retention, process documentation, technology systems, supplier dependencies - the operational DD framework that complements financial and legal review.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1852,15 +1852,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "M&A Community", title: "Why Mergers and Acquisitions Often Fail", url: "https://mnacommunity.com/insights/why-mergers-and-acquisitions-often-fail/", year: 2024 },
     ],
     faqs: [
-      { question: "What does operational due diligence cover?", answer: "Operational DD assesses five areas: (1) People — management team, key employees, owner dependency, workforce analysis; (2) Customers — segmentation, concentration, retention, satisfaction; (3) Processes — documentation, quality control, scalability, bottlenecks; (4) Technology — core systems, cybersecurity, data ownership; (5) Facilities — physical condition, equipment, capacity utilization." },
-      { question: "How long does operational due diligence take?", answer: "Operational DD typically takes 4–8 weeks, running in parallel with financial and legal DD. Plan for 2–3 site visits (initial, deep-dive, final walk-through), meetings with key managers and frontline staff, and 5–10 customer interviews. Third-party assessments (IT audit, environmental) add additional time." },
+      { question: "What does operational due diligence cover?", answer: "Operational DD assesses five areas: (1) People - management team, key employees, owner dependency, workforce analysis; (2) Customers - segmentation, concentration, retention, satisfaction; (3) Processes - documentation, quality control, scalability, bottlenecks; (4) Technology - core systems, cybersecurity, data ownership; (5) Facilities - physical condition, equipment, capacity utilization." },
+      { question: "How long does operational due diligence take?", answer: "Operational DD typically takes 4-8 weeks, running in parallel with financial and legal DD. Plan for 2-3 site visits (initial, deep-dive, final walk-through), meetings with key managers and frontline staff, and 5-10 customer interviews. Third-party assessments (IT audit, environmental) add additional time." },
     ],
   },
   {
     slug: "customer-concentration-risk",
     title: "Customer Concentration Risk: How Much Is Too Much?",
     description:
-      "Concentration thresholds (<10% green, 10–25% yellow, >25% red), valuation impact, financing implications, DD analysis, and mitigation strategies.",
+      "Concentration thresholds (<10% green, 10-25% yellow, >25% red), valuation impact, financing implications, DD analysis, and mitigation strategies.",
     readTime: "13 min read",
     tag: "Guide",
     category: "Deal Execution",
@@ -1875,24 +1875,24 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review", title: "When One Customer Becomes Too Important", url: "https://hbr.org/", year: 2023 },
     ],
     faqs: [
-      { question: "How much customer concentration is too much?", answer: "No single customer should exceed 25% of revenue — this is a red flag. Above 40% is often a deal-breaker. SBA lenders flag concentration at 15–20%. Ideal targets have no customer above 10% of revenue. The valuation discount for concentrated businesses is typically 1–2x EBITDA turns." },
+      { question: "How much customer concentration is too much?", answer: "No single customer should exceed 25% of revenue - this is a red flag. Above 40% is often a deal-breaker. SBA lenders flag concentration at 15-20%. Ideal targets have no customer above 10% of revenue. The valuation discount for concentrated businesses is typically 1-2x EBITDA turns." },
       { question: "How can I mitigate customer concentration risk in an acquisition?", answer: "Pre-closing: negotiate a valuation discount, use earn-outs tied to customer retention, and require the seller to introduce you to key accounts. Post-closing: prioritize new customer acquisition, build multiple contacts within key accounts, and invest in sales and marketing to diversify the revenue base." },
-      { question: "How does customer concentration affect acquisition financing?", answer: "SBA lenders flag customer concentration above 15–20% in a single customer, and some will decline to finance if concentration exceeds 25–30%. Concentrated businesses typically receive lower leverage (2–3x EBITDA vs. 3–5x for diversified peers), reducing the amount you can borrow." },
-      { question: "What is the valuation discount for customer concentration?", answer: "Concentrated businesses typically trade at 1–2x lower EBITDA multiples than diversified peers. Each 10% of revenue from a single customer reduces the multiple by 0.25–0.5x. A business with $2M EBITDA at 5x if diversified might sell for 3–4x with significant concentration." },
-      { question: "Should I always walk away from a concentrated business?", answer: "Not necessarily. Concentration is acceptable with deep contractual protection, high switching costs, government contracts, a clear diversification plan executable within 12–24 months, or a steep price discount (2–3x EBITDA for a business worth 5x if diversified). The key is ensuring the price fully reflects the risk." },
+      { question: "How does customer concentration affect acquisition financing?", answer: "SBA lenders flag customer concentration above 15-20% in a single customer, and some will decline to finance if concentration exceeds 25-30%. Concentrated businesses typically receive lower leverage (2-3x EBITDA vs. 3-5x for diversified peers), reducing the amount you can borrow." },
+      { question: "What is the valuation discount for customer concentration?", answer: "Concentrated businesses typically trade at 1-2x lower EBITDA multiples than diversified peers. Each 10% of revenue from a single customer reduces the multiple by 0.25-0.5x. A business with $2M EBITDA at 5x if diversified might sell for 3-4x with significant concentration." },
+      { question: "Should I always walk away from a concentrated business?", answer: "Not necessarily. Concentration is acceptable with deep contractual protection, high switching costs, government contracts, a clear diversification plan executable within 12-24 months, or a steep price discount (2-3x EBITDA for a business worth 5x if diversified). The key is ensuring the price fully reflects the risk." },
     ],
   },
   {
     slug: "red-flags-due-diligence",
     title: "Due Diligence Red Flags: Financial, Legal & Operational Warning Signs",
     description:
-      "Financial, operational, legal, and behavioral red flags in acquisition due diligence — with guidance on when to renegotiate and when to walk away.",
+      "Financial, operational, legal, and behavioral red flags in acquisition due diligence - with guidance on when to renegotiate and when to walk away.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Due Diligence Red Flags: Financial, Legal & Operational Warning Signs",
     ogDescription:
-      "EBITDA manipulation, declining revenue, customer concentration, evasive sellers — the red flags that should kill a deal and the ones that just need a price adjustment.",
+      "EBITDA manipulation, declining revenue, customer concentration, evasive sellers - the red flags that should kill a deal and the ones that just need a price adjustment.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -1914,7 +1914,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Recurring Revenue Models: Why Acquirers Pay a Premium",
     ogDescription:
-      "SaaS at 90%+ NRR, insurance at 85%+ renewals, HVAC maintenance contracts — why recurring revenue commands 1–3x higher EBITDA multiples and how to evaluate it.",
+      "SaaS at 90%+ NRR, insurance at 85%+ renewals, HVAC maintenance contracts - why recurring revenue commands 1-3x higher EBITDA multiples and how to evaluate it.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -1922,28 +1922,28 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "Why do businesses with recurring revenue sell for more?", answer: "Recurring revenue businesses command 1–3x higher EBITDA multiples because they have predictable cash flows, higher customer lifetime values, lower customer acquisition costs per dollar of revenue, and greater resistance to economic downturns. Lenders also extend more debt (3–5x EBITDA vs 2–3x) for predictable revenue businesses." },
-      { question: "What is good net revenue retention?", answer: "Net Revenue Retention (NRR) above 100% means the business grows from existing customers alone (expansion exceeds churn). Best-in-class SaaS companies achieve 110–130% NRR. For service businesses, 90%+ gross revenue retention is strong. NRR is the single most important metric for recurring revenue businesses." },
+      { question: "Why do businesses with recurring revenue sell for more?", answer: "Recurring revenue businesses command 1-3x higher EBITDA multiples because they have predictable cash flows, higher customer lifetime values, lower customer acquisition costs per dollar of revenue, and greater resistance to economic downturns. Lenders also extend more debt (3-5x EBITDA vs 2-3x) for predictable revenue businesses." },
+      { question: "What is good net revenue retention?", answer: "Net Revenue Retention (NRR) above 100% means the business grows from existing customers alone (expansion exceeds churn). Best-in-class SaaS companies achieve 110-130% NRR. For service businesses, 90%+ gross revenue retention is strong. NRR is the single most important metric for recurring revenue businesses." },
     ],
   },
   {
     slug: "owner-dependent-business",
     title: "Owner-Dependent Businesses: Risks & Mitigation Strategies",
     description:
-      "How to identify, assess, price, and mitigate owner dependency — the dependency spectrum, valuation impact, pre-closing deal structures, and post-closing transition strategies.",
+      "How to identify, assess, price, and mitigate owner dependency - the dependency spectrum, valuation impact, pre-closing deal structures, and post-closing transition strategies.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Owner-Dependent Businesses: Risks & Mitigation for Buyers",
     ogDescription:
-      "Revenue dependency, knowledge dependency, relationship dependency — how to assess owner risk, the 1–2x valuation discount, and proven mitigation strategies for acquirers.",
+      "Revenue dependency, knowledge dependency, relationship dependency - how to assess owner risk, the 1-2x valuation discount, and proven mitigation strategies for acquirers.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "SE Advisory", title: "How Owner Dependency Affects Business Valuation", url: "https://seadvisory.com/how-owner-dependency-affects-business-valuation/", year: 2025 },
       { name: "Bennett Financials", title: "Key Person Discount in Business Valuation", url: "https://bennettfinancials.com/key-person-discount-in-business-valuation/", year: 2025 },
       { name: "William Buck", title: "Key Person Risk and Business Valuation", url: "https://williambuck.com/news/ex/general/assessing-the-impact-of-key-person-risk-on-business-valuation/", year: 2024 },
-      { name: "Fiveable", title: "Key Person Discount — Business Valuation", url: "https://fiveable.me/business-valuation/unit-7/key-person-discount/study-guide/AqP8THbPujJl0nIc", year: 2024 },
+      { name: "Fiveable", title: "Key Person Discount - Business Valuation", url: "https://fiveable.me/business-valuation/unit-7/key-person-discount/study-guide/AqP8THbPujJl0nIc", year: 2024 },
       { name: "Website Closers", title: "Effects of Owner Dependence on a Business Valuation", url: "https://www.websiteclosers.com/resources/effects-of-owner-dependence-on-a-business-valuation/", year: 2024 },
       { name: "ClearlyAcquired", title: "Key Employee Retention Post-Acquisition", url: "https://www.clearlyacquired.com/post/key-employee-retention-post-acquisition", year: 2024 },
       { name: "PCE Companies", title: "How to Reduce Owner Dependency & Increase Business Value", url: "https://www.pcecompanies.com/resources/how-to-reduce-owner-dependency-and-build-long-term-business-value", year: 2024 },
@@ -1952,21 +1952,21 @@ export const allArticles: ArticleMeta[] = [
       { name: "Via Beacon", title: "Post-Acquisition Transition Planning", url: "https://viabeacon.com/post-acquisition-transition/", year: 2024 },
     ],
     faqs: [
-      { question: "How do you assess if a business is owner-dependent?", answer: "Key tests: What % of revenue comes from accounts the owner personally manages? Can the business run for 2–4 weeks without the owner? Is there a management layer? Are processes documented or 'in the owner's head'? Interview top customers and ask who they interact with most." },
-      { question: "Should you avoid buying an owner-dependent business?", answer: "Not necessarily. Owner dependency warrants a 1–2x EBITDA multiple discount and requires an extended transition (6–24 months), earn-out structures, and a deliberate relationship transfer plan. It's a deal-breaker only when the owner IS the product (personal brand/expertise) with no transferable systems." },
+      { question: "How do you assess if a business is owner-dependent?", answer: "Key tests: What % of revenue comes from accounts the owner personally manages? Can the business run for 2-4 weeks without the owner? Is there a management layer? Are processes documented or 'in the owner's head'? Interview top customers and ask who they interact with most." },
+      { question: "Should you avoid buying an owner-dependent business?", answer: "Not necessarily. Owner dependency warrants a 1-2x EBITDA multiple discount and requires an extended transition (6-24 months), earn-out structures, and a deliberate relationship transfer plan. It's a deal-breaker only when the owner IS the product (personal brand/expertise) with no transferable systems." },
     ],
   },
   {
     slug: "deal-structure-optimization",
     title: "Deal Structure Optimization: Balancing Buyer & Seller Interests",
     description:
-      "Cash at close, seller financing, earn-outs, equity rollover, tax optimization — the structural levers that bridge valuation gaps and make deals work.",
+      "Cash at close, seller financing, earn-outs, equity rollover, tax optimization - the structural levers that bridge valuation gaps and make deals work.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Deal Structure Optimization: Creative Structures for Business Acquisitions",
     ogDescription:
-      "Seller notes, earn-outs, equity rollover, tax allocation, consulting agreements — the structural levers that bridge valuation gaps and reduce buyer risk.",
+      "Seller notes, earn-outs, equity rollover, tax allocation, consulting agreements - the structural levers that bridge valuation gaps and reduce buyer risk.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -1974,21 +1974,21 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "7(a) Loan Structuring Guidelines", year: 2024 },
     ],
     faqs: [
-      { question: "How can deal structure bridge a valuation gap?", answer: "Key structural tools: earn-outs (seller gets their price IF performance targets are met), larger seller note with interest premium, equity rollover (seller keeps 10–20% ownership), consulting agreements ($5K–$15K/month for 12–24 months), and real estate separation (lease the property instead of buying it with the business)." },
-      { question: "What is the typical deal structure for a search fund acquisition?", answer: "Traditional: 50–65% senior debt, 10–20% seller note, 20–35% investor equity. SBA self-funded: 70–80% SBA loan, 10–15% seller note, 10–15% buyer equity. Creative/seller-heavy: 40–60% cash, 25–40% seller note, 10–20% earn-out, 5–15% equity rollover." },
+      { question: "How can deal structure bridge a valuation gap?", answer: "Key structural tools: earn-outs (seller gets their price IF performance targets are met), larger seller note with interest premium, equity rollover (seller keeps 10-20% ownership), consulting agreements ($5K-$15K/month for 12-24 months), and real estate separation (lease the property instead of buying it with the business)." },
+      { question: "What is the typical deal structure for a search fund acquisition?", answer: "Traditional: 50-65% senior debt, 10-20% seller note, 20-35% investor equity. SBA self-funded: 70-80% SBA loan, 10-15% seller note, 10-15% buyer equity. Creative/seller-heavy: 40-60% cash, 25-40% seller note, 10-20% earn-out, 5-15% equity rollover." },
     ],
   },
   {
     slug: "acquisition-target-screening",
     title: "Acquisition Target Screening: Filters, Criteria & Frameworks",
     description:
-      "The 4-tier screening funnel: instant pass/fail filters, CIM-level screening, deep evaluation, and engagement — with tools, cadence, and common mistakes.",
+      "The 4-tier screening funnel: instant pass/fail filters, CIM-level screening, deep evaluation, and engagement - with tools, cadence, and common mistakes.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Acquisition Target Screening: A Systematic Framework",
     ogDescription:
-      "Screen 500+ opportunities down to 1 acquisition. The 4-tier funnel: 30-second filters, CIM review, deep evaluation, and seller engagement — with scoring rubrics and cadence.",
+      "Screen 500+ opportunities down to 1 acquisition. The 4-tier funnel: 30-second filters, CIM review, deep evaluation, and seller engagement - with scoring rubrics and cadence.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1996,7 +1996,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "How many businesses do you need to screen to find one to acquire?", answer: "The typical search fund funnel: 500–2,000 identified → 200–400 pass Tier 1 filters → 50–100 CIM reviews → 15–30 deep evaluations → 5–15 seller meetings → 3–8 LOIs submitted → 1 closed acquisition. This process takes 12–24 months." },
+      { question: "How many businesses do you need to screen to find one to acquire?", answer: "The typical search fund funnel: 500-2,000 identified → 200-400 pass Tier 1 filters → 50-100 CIM reviews → 15-30 deep evaluations → 5-15 seller meetings → 3-8 LOIs submitted → 1 closed acquisition. This process takes 12-24 months." },
       { question: "What are the most important screening criteria for a business acquisition?", answer: "Tier 1 (instant): revenue minimum, EBITDA floor, target industry, geography, reasonable asking price. Tier 2 (CIM review): revenue trend, customer concentration, owner dependency, EBITDA margin consistency. Tier 3 (deep dive): adjusted EBITDA recalculation, deal modeling, management assessment, competitive position." },
     ],
   },
@@ -2010,16 +2010,16 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Succession-Driven Acquisitions: Buying from Retiring Business Owners",
     ogDescription:
-      "Motivated sellers, established businesses, seller financing willingness — why retirement succession deals are ideal for search fund buyers and how to find them.",
+      "Motivated sellers, established businesses, seller financing willingness - why retirement succession deals are ideal for search fund buyers and how to find them.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "US Census Bureau", title: "Annual Business Survey: Business Owner Demographics", year: 2023 },
-      { name: "European Commission", title: "SME Performance Review — Business Transfers", year: 2024 },
+      { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
-      { question: "Why are succession-driven deals good for search fund buyers?", answer: "Retiring owners are motivated sellers with established businesses (15–30+ years old), reasonable valuation expectations, willingness to provide seller financing, and commitment to transition support. They also often prefer buyers who will preserve their legacy over the highest bidder." },
+      { question: "Why are succession-driven deals good for search fund buyers?", answer: "Retiring owners are motivated sellers with established businesses (15-30+ years old), reasonable valuation expectations, willingness to provide seller financing, and commitment to transition support. They also often prefer buyers who will preserve their legacy over the highest bidder." },
       { question: "What are the biggest risks when buying from a retiring owner?", answer: "Key risks: high owner dependency (business doesn't function without the owner), deferred investment in equipment and technology, key employees who may leave when the owner does, customer relationships tied to the owner personally, and inflated or deflated financials from pre-retirement spending changes." },
     ],
   },
@@ -2027,13 +2027,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "interpreting-financial-statements",
     title: "Interpreting Financial Statements for Acquisition Decisions",
     description:
-      "How to read P&L, balance sheet, and cash flow statements as a buyer — revenue analysis, profitability metrics, cash flow, and SME-specific accounting issues.",
+      "How to read P&L, balance sheet, and cash flow statements as a buyer - revenue analysis, profitability metrics, cash flow, and SME-specific accounting issues.",
     readTime: "16 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Reading Financial Statements for Business Acquisitions",
     ogDescription:
-      "P&L, balance sheet, cash flow — how to read and interpret financial statements through the lens of an acquirer. Revenue analysis, EBITDA, working capital, and SME accounting issues.",
+      "P&L, balance sheet, cash flow - how to read and interpret financial statements through the lens of an acquirer. Revenue analysis, EBITDA, working capital, and SME accounting issues.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2041,7 +2041,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What financial statements should I review when buying a business?", answer: "Request 3–5 years of: (1) Income Statement (P&L) for revenue trends, margins, and profitability, (2) Balance Sheet for asset quality, liabilities, and working capital, (3) Cash Flow Statement for operating cash flow, capex requirements, and free cash flow. Also request monthly financials, tax returns, and bank statements for cross-verification." },
+      { question: "What financial statements should I review when buying a business?", answer: "Request 3-5 years of: (1) Income Statement (P&L) for revenue trends, margins, and profitability, (2) Balance Sheet for asset quality, liabilities, and working capital, (3) Cash Flow Statement for operating cash flow, capex requirements, and free cash flow. Also request monthly financials, tax returns, and bank statements for cross-verification." },
       { question: "What is the most important cross-check in financial analysis?", answer: "Comparing tax returns to the P&L statement is the single most important cross-check. If reported EBITDA is significantly higher than taxable income without clear, documented add-backs, the seller may be overstating earnings. This comparison catches most financial misrepresentations in SME acquisitions." },
     ],
   },
@@ -2053,9 +2053,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "10 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "How to Value a Small Business — Valuation Guide for Search Fund Acquisitions",
+    ogTitle: "How to Value a Small Business - Valuation Guide for Search Fund Acquisitions",
     ogDescription:
-      "EBITDA multiples, DCF, adjusted EBITDA — learn the valuation methods that matter for SME acquisitions and avoid overpaying.",
+      "EBITDA multiples, DCF, adjusted EBITDA - learn the valuation methods that matter for SME acquisitions and avoid overpaying.",
     datePublished: "2024-06-11",
     dateModified: "2025-04-17",
     sources: [
@@ -2063,7 +2063,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "What EBITDA multiple should I pay for a small business?", answer: "Search fund acquisitions typically trade at 3x–6x EBITDA, depending on size, growth, recurring revenue, customer concentration, and industry. The Stanford 2024 Study reports a median purchase price of $14.4M at approximately 7.0x EBITDA." },
+      { question: "What EBITDA multiple should I pay for a small business?", answer: "Search fund acquisitions typically trade at 3x-6x EBITDA, depending on size, growth, recurring revenue, customer concentration, and industry. The Stanford 2024 Study reports a median purchase price of $14.4M at approximately 7.0x EBITDA." },
       { question: "What is adjusted EBITDA?", answer: "Adjusted EBITDA normalizes reported earnings by adding back owner compensation above market rate, one-time expenses, related-party transactions, and non-recurring items to reflect the true ongoing earning power of the business." },
       { question: "How do I value a business with no profits?", answer: "For unprofitable businesses, use revenue multiples, asset-based valuations, or DCF models with projected profitability. Turnaround acquisitions require deep operational due diligence and should be priced at a significant discount to profitable comparables." },
     ],
@@ -2076,7 +2076,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "10 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "Deal Sourcing Strategies for Search Funds — Build Your Deal Pipeline",
+    ogTitle: "Deal Sourcing Strategies for Search Funds - Build Your Deal Pipeline",
     ogDescription:
       "1,000 companies contacted → 1 acquisition. Learn the sourcing strategies, platforms, and conversion metrics that successful searchers use.",
     datePublished: "2024-06-25",
@@ -2100,7 +2100,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Finding Businesses for Sale: Platforms, Brokers & Off-Market Sourcing",
     ogDescription:
-      "BizBuySell, brokers, Axial, direct outreach, CPA referrals — every deal sourcing channel explained with practical tactics for finding the right business to buy.",
+      "BizBuySell, brokers, Axial, direct outreach, CPA referrals - every deal sourcing channel explained with practical tactics for finding the right business to buy.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2109,8 +2109,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Axial", title: "Lower Middle Market Deal Activity", year: 2024 },
     ],
     faqs: [
-      { question: "Where can I find businesses for sale?", answer: "The main channels are: business brokers (50–70% of deal flow), online marketplaces like BizBuySell and Axial (10–20%), direct outreach to business owners (20–35%), and professional referral networks (CPAs, attorneys, wealth advisors). The best searchers use 3–4 channels simultaneously." },
-      { question: "How many businesses should I look at before buying one?", answer: "Plan to review 100–300 opportunities, sign 30–80 NDAs, conduct 10–20 deep analyses, submit 2–5 LOIs, and close 1 deal. Most first-time buyers underestimate the volume needed to find the right acquisition." },
+      { question: "Where can I find businesses for sale?", answer: "The main channels are: business brokers (50-70% of deal flow), online marketplaces like BizBuySell and Axial (10-20%), direct outreach to business owners (20-35%), and professional referral networks (CPAs, attorneys, wealth advisors). The best searchers use 3-4 channels simultaneously." },
+      { question: "How many businesses should I look at before buying one?", answer: "Plan to review 100-300 opportunities, sign 30-80 NDAs, conduct 10-20 deep analyses, submit 2-5 LOIs, and close 1 deal. Most first-time buyers underestimate the volume needed to find the right acquisition." },
     ],
   },
   {
@@ -2123,7 +2123,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Proprietary Deal Flow: How to Find Off-Market Businesses to Buy",
     ogDescription:
-      "0.5–1.5x lower multiples, less competition, better terms. Direct mail, cold calling, LinkedIn, CPA referrals — build a proprietary deal sourcing machine.",
+      "0.5-1.5x lower multiples, less competition, better terms. Direct mail, cold calling, LinkedIn, CPA referrals - build a proprietary deal sourcing machine.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2134,11 +2134,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "Sopro", title: "Cold Outreach Statistics", url: "https://sopro.io/resources/blog/cold-outreach-statistics/", year: 2026 },
       { name: "ClearlyRated", title: "Ways to Increase CPA Referrals for Your Accounting Firm", url: "https://www.clearlyrated.com/blog/ways-to-increase-cpa-referrals-for-your-accounting-firm", year: 2025 },
       { name: "Falcon River", title: "Proprietary Deal Flow", url: "https://www.falconriver.co/proprietary-deal-flow/", year: 2025 },
-      { name: "IESE Business School", title: "Search Funds — Best Practices for the Search Phase", url: "https://hadleyfamilycapital.com/wp-content/uploads/ces-search-funds-best-practices-search-phase.pdf", year: 2024 },
+      { name: "IESE Business School", title: "Search Funds - Best Practices for the Search Phase", url: "https://hadleyfamilycapital.com/wp-content/uploads/ces-search-funds-best-practices-search-phase.pdf", year: 2024 },
     ],
     faqs: [
-      { question: "What is proprietary deal flow?", answer: "Proprietary deal flow refers to acquisition opportunities found through direct outreach, relationships, and networking — not through brokers or public marketplaces. These off-market deals typically close at 0.5–1.5x lower EBITDA multiples because there's less buyer competition." },
-      { question: "How do you find businesses for sale that aren't listed?", answer: "Key strategies: direct mail campaigns to business owners aged 55+ (1–3% response rate), cold calling (20–30 calls/day), LinkedIn Sales Navigator outreach, and building referral networks with CPAs, attorneys, and wealth advisors who counsel retiring owners. Expect 6–12 months of consistent effort before meaningful results." },
+      { question: "What is proprietary deal flow?", answer: "Proprietary deal flow refers to acquisition opportunities found through direct outreach, relationships, and networking - not through brokers or public marketplaces. These off-market deals typically close at 0.5-1.5x lower EBITDA multiples because there's less buyer competition." },
+      { question: "How do you find businesses for sale that aren't listed?", answer: "Key strategies: direct mail campaigns to business owners aged 55+ (1-3% response rate), cold calling (20-30 calls/day), LinkedIn Sales Navigator outreach, and building referral networks with CPAs, attorneys, and wealth advisors who counsel retiring owners. Expect 6-12 months of consistent effort before meaningful results." },
     ],
   },
   {
@@ -2151,7 +2151,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Working with Business Brokers: A Buyer's Guide",
     ogDescription:
-      "Brokers control 50–70% of deal flow. How to register, build relationships, respond to opportunities, avoid common mistakes, and negotiate through intermediaries.",
+      "Brokers control 50-70% of deal flow. How to register, build relationships, respond to opportunities, avoid common mistakes, and negotiate through intermediaries.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2165,8 +2165,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Worldwide Business Brokers", title: "How Many Businesses Sell?", url: "https://worldwidebusinessbrokers.com/how-many-businesses-sell/", year: 2025 },
     ],
     faqs: [
-      { question: "How do business brokers get paid?", answer: "Business brokers are paid by the seller through a success fee (commission) of 8–12% for small businesses (<$1M) and 3–6% for mid-market deals. Some M&A advisors also charge a retainer fee. As a buyer, you typically don't pay the broker directly." },
-      { question: "How many brokers should I register with?", answer: "Register with 10–20 brokers in your target geography and industry. Be specific about your criteria (industry, geography, revenue range, EBITDA floor) and prove you're a serious buyer with proof of funds or financing pre-approval. Follow up monthly and respond to opportunities within 24 hours." },
+      { question: "How do business brokers get paid?", answer: "Business brokers are paid by the seller through a success fee (commission) of 8-12% for small businesses (<$1M) and 3-6% for mid-market deals. Some M&A advisors also charge a retainer fee. As a buyer, you typically don't pay the broker directly." },
+      { question: "How many brokers should I register with?", answer: "Register with 10-20 brokers in your target geography and industry. Be specific about your criteria (industry, geography, revenue range, EBITDA floor) and prove you're a serious buyer with proof of funds or financing pre-approval. Follow up monthly and respond to opportunities within 24 hours." },
     ],
   },
   {
@@ -2187,8 +2187,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "BizBuySell", title: "Annual Insight Report", year: 2024 },
     ],
     faqs: [
-      { question: "How do business brokers charge fees?", answer: "Brokers charge the seller a success fee (commission) of 8–12% for businesses under $5M and 3–6% for larger deals, often following the Lehman formula (5% of first $1M, 4% of second $1M, etc.). Some M&A advisors also charge upfront retainers of $10K–$50K. As a buyer, you typically pay nothing to the seller's broker — but a buy-side advisor will charge their own fee." },
-      { question: "How do you get good deal flow from brokers?", answer: "Three keys: (1) Prove you're a serious, qualified buyer with proof of funds or financing pre-approval. (2) Be specific about your criteria — brokers send deals to buyers who match, not to tire-kickers. (3) Respond quickly (within 24 hours), provide thoughtful feedback on why you pass on deals, and follow up monthly. The best broker relationships are built over 6–12 months of consistent engagement." },
+      { question: "How do business brokers charge fees?", answer: "Brokers charge the seller a success fee (commission) of 8-12% for businesses under $5M and 3-6% for larger deals, often following the Lehman formula (5% of first $1M, 4% of second $1M, etc.). Some M&A advisors also charge upfront retainers of $10K-$50K. As a buyer, you typically pay nothing to the seller's broker - but a buy-side advisor will charge their own fee." },
+      { question: "How do you get good deal flow from brokers?", answer: "Three keys: (1) Prove you're a serious, qualified buyer with proof of funds or financing pre-approval. (2) Be specific about your criteria - brokers send deals to buyers who match, not to tire-kickers. (3) Respond quickly (within 24 hours), provide thoughtful feedback on why you pass on deals, and follow up monthly. The best broker relationships are built over 6-12 months of consistent engagement." },
     ],
   },
 
@@ -2196,13 +2196,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "cold-outreach-business-owners",
     title: "Cold Outreach to Business Owners: Scripts & Strategies",
     description:
-      "Proprietary outreach strategies for acquiring businesses — email templates, direct mail campaigns, cold calling scripts, LinkedIn sequences, tracking metrics, and legal compliance.",
+      "Proprietary outreach strategies for acquiring businesses - email templates, direct mail campaigns, cold calling scripts, LinkedIn sequences, tracking metrics, and legal compliance.",
     readTime: "12 min read",
     tag: "Strategy",
     category: "Deal Execution",
     ogTitle: "Cold Outreach to Business Owners: Scripts & Strategies for ETA",
     ogDescription:
-      "Email 2–5% response, direct mail 3–5%, cold call 5–8%. Proven outreach scripts and multi-channel strategies for finding off-market acquisition targets.",
+      "Email 2-5% response, direct mail 3-5%, cold call 5-8%. Proven outreach scripts and multi-channel strategies for finding off-market acquisition targets.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2210,8 +2210,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SearchFunder", title: "Deal Sourcing Survey", year: 2024 },
     ],
     faqs: [
-      { question: "How do you approach a business owner about buying their company?", answer: "The best approach is respectful, brief, and positions you as a long-term operator — not a corporate raider. Lead with your background and genuine interest in the industry. Avoid mentioning price or valuation in initial outreach. Successful searchers use a multi-channel approach: personalized direct mail (3–5% response rate), followed by email (2–5%), then a phone call (5–8%). Expect to contact 1,500–3,000 owners to find your acquisition." },
-      { question: "Does cold outreach work for finding businesses to buy?", answer: "Yes — proprietary outreach is the most effective deal sourcing strategy for search funds. Off-market deals found through direct outreach typically close at 0.5–1.5x lower EBITDA multiples than brokered deals because there's less buyer competition. The top-performing searchers in the Stanford study sourced their acquisitions through proprietary channels, not brokers." },
+      { question: "How do you approach a business owner about buying their company?", answer: "The best approach is respectful, brief, and positions you as a long-term operator - not a corporate raider. Lead with your background and genuine interest in the industry. Avoid mentioning price or valuation in initial outreach. Successful searchers use a multi-channel approach: personalized direct mail (3-5% response rate), followed by email (2-5%), then a phone call (5-8%). Expect to contact 1,500-3,000 owners to find your acquisition." },
+      { question: "Does cold outreach work for finding businesses to buy?", answer: "Yes - proprietary outreach is the most effective deal sourcing strategy for search funds. Off-market deals found through direct outreach typically close at 0.5-1.5x lower EBITDA multiples than brokered deals because there's less buyer competition. The top-performing searchers in the Stanford study sourced their acquisitions through proprietary channels, not brokers." },
     ],
   },
 
@@ -2219,13 +2219,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "how-to-find-businesses-for-sale",
     title: "How to Find Businesses for Sale: The Complete Guide",
     description:
-      "The five channels for finding businesses to buy — online marketplaces, brokers, proprietary outreach, professional referrals, and industry networks — with a multi-channel strategy framework.",
+      "The five channels for finding businesses to buy - online marketplaces, brokers, proprietary outreach, professional referrals, and industry networks - with a multi-channel strategy framework.",
     readTime: "13 min read",
     tag: "Strategy",
     category: "Deal Execution",
     ogTitle: "How to Find Businesses for Sale: The Complete Guide",
     ogDescription:
-      "BizBuySell, brokers, direct outreach, CPA referrals, and trade associations — the complete multi-channel strategy for finding acquisition targets.",
+      "BizBuySell, brokers, direct outreach, CPA referrals, and trade associations - the complete multi-channel strategy for finding acquisition targets.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2243,7 +2243,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "deal-funnel-metrics",
     title: "How to Build a Deal Funnel: Metrics & Conversion Rates",
     description:
-      "Search fund deal funnel benchmarks — stage-by-stage conversion rates, weekly activity targets, tracking tools, common funnel problems, and optimization strategies.",
+      "Search fund deal funnel benchmarks - stage-by-stage conversion rates, weekly activity targets, tracking tools, common funnel problems, and optimization strategies.",
     readTime: "10 min read",
     tag: "Strategy",
     category: "Deal Execution",
@@ -2258,7 +2258,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What are typical search fund deal funnel conversion rates?", answer: "Benchmark conversion rates: Universe to Contacted (50-70%), Contacted to Responded (5-15%), Responded to NDA/CIM (30-50%), CIM to Management Meeting (20-30%), Meeting to LOI (15-25%), LOI to Due Diligence (50-70%), Due Diligence to Close (60-80%). Overall funnel: ~0.2-0.5% of initial universe results in a closed acquisition." },
-      { question: "How many businesses should a searcher contact per week?", answer: "Successful searchers typically contact 50-100 new businesses per week through a combination of channels: 20-30 proprietary outreach contacts (mail, email, calls), 10-20 broker-sourced opportunities reviewed, and 10-20 marketplace listings screened. Consistency matters more than volume — it's better to contact 50 every week for 18 months than 200 in bursts with gaps between." },
+      { question: "How many businesses should a searcher contact per week?", answer: "Successful searchers typically contact 50-100 new businesses per week through a combination of channels: 20-30 proprietary outreach contacts (mail, email, calls), 10-20 broker-sourced opportunities reviewed, and 10-20 marketplace listings screened. Consistency matters more than volume - it's better to contact 50 every week for 18 months than 200 in bursts with gaps between." },
     ],
   },
 
@@ -2266,7 +2266,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "linkedin-deal-sourcing",
     title: "LinkedIn for Deal Sourcing: Advanced Strategies",
     description:
-      "How to use LinkedIn Sales Navigator for acquisition deal sourcing — profile optimization, advanced filters, connection strategies, InMail templates, and CRM integration.",
+      "How to use LinkedIn Sales Navigator for acquisition deal sourcing - profile optimization, advanced filters, connection strategies, InMail templates, and CRM integration.",
     readTime: "10 min read",
     tag: "Strategy",
     category: "Deal Execution",
@@ -2280,7 +2280,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SearchFunder", title: "Deal Sourcing Survey", year: 2024 },
     ],
     faqs: [
-      { question: "Can you find businesses to buy on LinkedIn?", answer: "Yes. LinkedIn is one of the most effective proprietary deal sourcing channels for search fund entrepreneurs. Using Sales Navigator, you can filter for business owners by industry, geography, company size, and seniority. Successful searchers report 5–15% response rates on personalized InMails — significantly higher than cold email. The key is building genuine relationships rather than immediately pitching an acquisition." },
+      { question: "Can you find businesses to buy on LinkedIn?", answer: "Yes. LinkedIn is one of the most effective proprietary deal sourcing channels for search fund entrepreneurs. Using Sales Navigator, you can filter for business owners by industry, geography, company size, and seniority. Successful searchers report 5-15% response rates on personalized InMails - significantly higher than cold email. The key is building genuine relationships rather than immediately pitching an acquisition." },
       { question: "Is LinkedIn Sales Navigator worth it for deal sourcing?", answer: "Yes. At ~$100/month, Sales Navigator provides advanced search filters, InMail credits, lead recommendations, and real-time alerts on job changes and company updates. For search fund entrepreneurs sourcing proprietary deal flow, it's one of the highest-ROI tools available. Most searchers recoup the cost with a single meaningful conversation that wouldn't have happened otherwise." },
     ],
   },
@@ -2289,13 +2289,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "ai-deal-sourcing",
     title: "Deal Sourcing with AI: Tools & Automation for Searchers",
     description:
-      "How AI is transforming search fund deal sourcing — automated target identification, predictive seller intent, outreach automation, financial screening, and the best AI tools for searchers.",
+      "How AI is transforming search fund deal sourcing - automated target identification, predictive seller intent, outreach automation, financial screening, and the best AI tools for searchers.",
     readTime: "10 min read",
     tag: "Strategy",
     category: "Deal Execution",
     ogTitle: "Deal Sourcing with AI: Tools & Automation for Searchers",
     ogDescription:
-      "AI-powered target identification, automated outreach, predictive seller intent models, and financial screening — how technology is transforming ETA deal sourcing.",
+      "AI-powered target identification, automated outreach, predictive seller intent models, and financial screening - how technology is transforming ETA deal sourcing.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2303,8 +2303,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SearchFunder", title: "Deal Sourcing Technology Survey", year: 2024 },
     ],
     faqs: [
-      { question: "How is AI used in deal sourcing?", answer: "AI is used across the deal sourcing funnel: (1) Target identification — machine learning models analyze business databases to surface companies matching your ICP, (2) Seller intent prediction — algorithms flag businesses likely to sell based on owner age, industry trends, and behavioral signals, (3) Outreach automation — AI personalizes email and mail campaigns at scale, (4) Financial screening — NLP extracts and analyzes financial data from CIMs and public filings, (5) CRM intelligence — AI prioritizes pipeline based on engagement signals." },
-      { question: "What AI tools do search fund entrepreneurs use?", answer: "Popular AI-powered tools include: Grata (AI-powered company search engine), Sourcescrub (automated business identification from conference exhibitors and directories), Clay (enrichment and outreach automation), ChatGPT/Claude (CIM analysis, outreach personalization), and custom-built scrapers using Python. Most successful AI-augmented searchers combine 2–3 tools into a workflow that amplifies rather than replaces human judgment." },
+      { question: "How is AI used in deal sourcing?", answer: "AI is used across the deal sourcing funnel: (1) Target identification - machine learning models analyze business databases to surface companies matching your ICP, (2) Seller intent prediction - algorithms flag businesses likely to sell based on owner age, industry trends, and behavioral signals, (3) Outreach automation - AI personalizes email and mail campaigns at scale, (4) Financial screening - NLP extracts and analyzes financial data from CIMs and public filings, (5) CRM intelligence - AI prioritizes pipeline based on engagement signals." },
+      { question: "What AI tools do search fund entrepreneurs use?", answer: "Popular AI-powered tools include: Grata (AI-powered company search engine), Sourcescrub (automated business identification from conference exhibitors and directories), Clay (enrichment and outreach automation), ChatGPT/Claude (CIM analysis, outreach personalization), and custom-built scrapers using Python. Most successful AI-augmented searchers combine 2-3 tools into a workflow that amplifies rather than replaces human judgment." },
     ],
   },
 
@@ -2312,7 +2312,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "accountant-referral-deal-flow",
     title: "Building Relationships with Accountants & Lawyers for Deal Flow",
     description:
-      "How to build a referral network of CPAs, M&A attorneys, wealth advisors, and bankers who send you acquisition opportunities — the pitch, relationship maintenance, and compensation.",
+      "How to build a referral network of CPAs, M&A attorneys, wealth advisors, and bankers who send you acquisition opportunities - the pitch, relationship maintenance, and compensation.",
     readTime: "10 min read",
     tag: "Strategy",
     category: "Deal Execution",
@@ -2326,8 +2326,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "How do CPAs help with deal sourcing?", answer: "CPAs and accounting firms are often the first to know when a business owner is considering selling. They handle financial planning, succession advisory, and tax implications of a sale. A CPA with 100+ small business clients likely has 5–10 owners actively thinking about retirement or transition each year. Building relationships with 20–30 CPAs who serve your target market can generate 2–5 quality referrals per quarter." },
-      { question: "Should you pay referral fees for deal introductions?", answer: "Referral fees are common and legal in most jurisdictions (check state regulations). Typical structures: $5K–$25K success fee upon closing, 0.5–1% of transaction value, or a structured finder's fee. Always disclose referral arrangements to all parties. Some professionals (especially attorneys) may have ethical restrictions on accepting referral fees, so offer relationship value (reciprocal introductions, speaking engagements) as alternatives." },
+      { question: "How do CPAs help with deal sourcing?", answer: "CPAs and accounting firms are often the first to know when a business owner is considering selling. They handle financial planning, succession advisory, and tax implications of a sale. A CPA with 100+ small business clients likely has 5-10 owners actively thinking about retirement or transition each year. Building relationships with 20-30 CPAs who serve your target market can generate 2-5 quality referrals per quarter." },
+      { question: "Should you pay referral fees for deal introductions?", answer: "Referral fees are common and legal in most jurisdictions (check state regulations). Typical structures: $5K-$25K success fee upon closing, 0.5-1% of transaction value, or a structured finder's fee. Always disclose referral arrangements to all parties. Some professionals (especially attorneys) may have ethical restrictions on accepting referral fees, so offer relationship value (reciprocal introductions, speaking engagements) as alternatives." },
     ],
   },
 
@@ -2335,7 +2335,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "sde-vs-ebitda",
     title: "Seller's Discretionary Earnings (SDE) vs. EBITDA",
     description:
-      "When to use SDE vs EBITDA for business valuation — definitions, calculations, common add-backs, multiples, and which metric lenders and investors prefer.",
+      "When to use SDE vs EBITDA for business valuation - definitions, calculations, common add-backs, multiples, and which metric lenders and investors prefer.",
     readTime: "9 min read",
     tag: "Guide",
     category: "Deal Execution",
@@ -2358,13 +2358,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "comparable-transactions",
     title: "Comparable Transaction Analysis for SME Acquisitions",
     description:
-      "How to find and use comparable transaction data for small business valuations — data sources, selection criteria, adjustments, and presenting comps to support your offer.",
+      "How to find and use comparable transaction data for small business valuations - data sources, selection criteria, adjustments, and presenting comps to support your offer.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Comparable Transaction Analysis for SME Acquisitions",
     ogDescription:
-      "DealStats, BVR, broker data — how to build a comparable transaction analysis to value a small business acquisition and support your offer price.",
+      "DealStats, BVR, broker data - how to build a comparable transaction analysis to value a small business acquisition and support your offer price.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2372,8 +2372,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "How do you find comparable transactions for small businesses?", answer: "Key data sources: DealStats (BVR) — the largest database of private company transactions, BizBuySell sold listings, Pratt's Stats, broker-provided comps, and industry associations. For search fund-sized deals ($1-5M EBITDA), DealStats typically has the most relevant data. Filter by industry (SIC/NAICS code), revenue range, geography, and transaction date (last 3-5 years)." },
-      { question: "How many comparable transactions do you need?", answer: "Aim for 5-15 comparable transactions to build a meaningful analysis. Fewer than 5 may not be statistically meaningful; more than 15 can dilute the relevance. Focus on the most comparable deals — same industry, similar size ($0.5-2x your target's revenue), recent (last 3 years), and similar deal structure. Present the median and interquartile range, not just the average." },
+      { question: "How do you find comparable transactions for small businesses?", answer: "Key data sources: DealStats (BVR) - the largest database of private company transactions, BizBuySell sold listings, Pratt's Stats, broker-provided comps, and industry associations. For search fund-sized deals ($1-5M EBITDA), DealStats typically has the most relevant data. Filter by industry (SIC/NAICS code), revenue range, geography, and transaction date (last 3-5 years)." },
+      { question: "How many comparable transactions do you need?", answer: "Aim for 5-15 comparable transactions to build a meaningful analysis. Fewer than 5 may not be statistically meaningful; more than 15 can dilute the relevance. Focus on the most comparable deals - same industry, similar size ($0.5-2x your target's revenue), recent (last 3 years), and similar deal structure. Present the median and interquartile range, not just the average." },
     ],
   },
 
@@ -2381,13 +2381,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "commercial-due-diligence",
     title: "Commercial Due Diligence: Market, Competition & Customers",
     description:
-      "How to conduct commercial due diligence for an SME acquisition — market analysis, competitive landscape, customer concentration, revenue quality, and pricing power assessment.",
+      "How to conduct commercial due diligence for an SME acquisition - market analysis, competitive landscape, customer concentration, revenue quality, and pricing power assessment.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Commercial Due Diligence: Market, Competition & Customers",
     ogDescription:
-      "Market size, competitive positioning, customer retention, revenue quality — the complete commercial DD checklist for search fund acquisitions.",
+      "Market size, competitive positioning, customer retention, revenue quality - the complete commercial DD checklist for search fund acquisitions.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2396,7 +2396,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is commercial due diligence?", answer: "Commercial due diligence (CDD) evaluates the market opportunity, competitive position, and customer dynamics of an acquisition target. Unlike financial DD (which looks backward at historical performance), CDD looks forward at the sustainability of revenue and earnings. Key areas: market size and growth, competitive landscape, customer concentration and retention, pricing power, and sales pipeline quality." },
-      { question: "Do search fund acquisitions need commercial due diligence?", answer: "Yes, but the scope varies. For a $3-10M acquisition, you typically can't afford to hire a CDD firm ($50K-$150K). Instead, do it yourself: interview 10-15 customers, map 5-10 competitors, analyze industry reports, review win/loss data, and assess revenue quality. For larger deals ($10M+), hiring a specialized CDD firm is worth the investment. The most common post-acquisition surprise is revenue decline — CDD is your best defense." },
+      { question: "Do search fund acquisitions need commercial due diligence?", answer: "Yes, but the scope varies. For a $3-10M acquisition, you typically can't afford to hire a CDD firm ($50K-$150K). Instead, do it yourself: interview 10-15 customers, map 5-10 competitors, analyze industry reports, review win/loss data, and assess revenue quality. For larger deals ($10M+), hiring a specialized CDD firm is worth the investment. The most common post-acquisition surprise is revenue decline - CDD is your best defense." },
     ],
   },
 
@@ -2404,13 +2404,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "dd-red-flags",
     title: "Red Flags in Due Diligence: When to Walk Away",
     description:
-      "The financial, operational, legal, and cultural red flags that should make you reconsider or walk away from an acquisition — with a framework for distinguishing fixable issues from deal-breakers.",
+      "The financial, operational, legal, and cultural red flags that should make you reconsider or walk away from an acquisition - with a framework for distinguishing fixable issues from deal-breakers.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Red Flags in Due Diligence: When to Walk Away",
     ogDescription:
-      "Declining revenue, aggressive add-backs, pending litigation, key person dependency — the red flags that should make you walk away from a deal.",
+      "Declining revenue, aggressive add-backs, pending litigation, key person dependency - the red flags that should make you walk away from a deal.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2419,7 +2419,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What are the biggest red flags in business due diligence?", answer: "Top deal-killers: (1) Declining revenue or margin compression with no clear explanation, (2) EBITDA add-backs exceeding 40% of stated earnings, (3) Significant undisclosed liabilities or pending litigation, (4) Customer concentration >30% in a single client with no contract, (5) Owner is the sole customer relationship holder, (6) Deferred maintenance that would require immediate capital investment, (7) Key employees threatening to leave post-acquisition." },
-      { question: "How do you decide whether to walk away from a deal?", answer: "Build a 'kill criteria' list before starting DD — predetermined red flags that automatically end the process. Distinguish between 'price issues' (problems you can solve by paying less) and 'structural issues' (problems that can't be fixed at any price). If you find yourself rationalizing red flags or saying 'it'll be fine,' you're probably too emotionally invested. Always have your advisory board or investors review major red flags before deciding." },
+      { question: "How do you decide whether to walk away from a deal?", answer: "Build a 'kill criteria' list before starting DD - predetermined red flags that automatically end the process. Distinguish between 'price issues' (problems you can solve by paying less) and 'structural issues' (problems that can't be fixed at any price). If you find yourself rationalizing red flags or saying 'it'll be fine,' you're probably too emotionally invested. Always have your advisory board or investors review major red flags before deciding." },
     ],
   },
 
@@ -2427,13 +2427,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "reps-and-warranties",
     title: "Representations & Warranties in M&A: A Buyer's Guide",
     description:
-      "How representations and warranties protect buyers in acquisitions — key seller reps, survival periods, indemnification caps, R&W insurance, and negotiation strategies.",
+      "How representations and warranties protect buyers in acquisitions - key seller reps, survival periods, indemnification caps, R&W insurance, and negotiation strategies.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "Representations & Warranties in M&A: A Buyer's Guide",
     ogDescription:
-      "Fundamental vs general reps, survival periods, baskets and caps, R&W insurance — how to protect yourself as a buyer through the purchase agreement.",
+      "Fundamental vs general reps, survival periods, baskets and caps, R&W insurance - how to protect yourself as a buyer through the purchase agreement.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2450,7 +2450,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "dcf-valuation-small-business",
     title: "DCF Valuation for Small Business Acquisitions",
     description:
-      "How to apply discounted cash flow analysis to SME acquisitions — projections, discount rates, terminal value, sensitivity analysis, and when DCF beats multiples.",
+      "How to apply discounted cash flow analysis to SME acquisitions - projections, discount rates, terminal value, sensitivity analysis, and when DCF beats multiples.",
     readTime: "12 min read",
     tag: "Guide",
     category: "Deal Execution",
@@ -2473,7 +2473,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "valuing-unprofitable-business",
     title: "How to Value a Business with No Profits",
     description:
-      "Valuation approaches for unprofitable or turnaround businesses — asset-based, revenue multiples, replacement cost, strategic value, and when buying makes sense.",
+      "Valuation approaches for unprofitable or turnaround businesses - asset-based, revenue multiples, replacement cost, strategic value, and when buying makes sense.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Deal Execution",
@@ -2487,7 +2487,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "NACVA", title: "Fundamentals of Business Valuation", year: 2023 },
     ],
     faqs: [
-      { question: "How do you value a business that is losing money?", answer: "When a business has no profits, you can use: (1) Asset-based approach — value tangible assets minus liabilities (equipment, inventory, real estate); (2) Revenue multiples — typically 0.3-1.5x revenue depending on industry; (3) Replacement cost — what it would cost to build the business from scratch; (4) Strategic value — worth of customer relationships, licenses, or market position. The final price often reflects a blend of these methods, heavily discounted for turnaround risk." },
+      { question: "How do you value a business that is losing money?", answer: "When a business has no profits, you can use: (1) Asset-based approach - value tangible assets minus liabilities (equipment, inventory, real estate); (2) Revenue multiples - typically 0.3-1.5x revenue depending on industry; (3) Replacement cost - what it would cost to build the business from scratch; (4) Strategic value - worth of customer relationships, licenses, or market position. The final price often reflects a blend of these methods, heavily discounted for turnaround risk." },
     ],
   },
 
@@ -2531,7 +2531,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Deloitte", title: "M&A Human Capital Playbook", year: 2023 },
     ],
     faqs: [
-      { question: "What should HR due diligence cover in a small business acquisition?", answer: "Key areas: (1) Employee census — headcount, roles, tenure, compensation, benefits; (2) Key employee identification — who is critical and what's the retention risk; (3) Employment agreements — contracts, non-competes, severance obligations; (4) Benefits review — health insurance, retirement plans, PTO policies; (5) Compliance — wage & hour, I-9s, workplace safety, discrimination claims; (6) Culture assessment — employee satisfaction, management style, potential friction. For small businesses, key person risk and benefit cost continuation are often the biggest issues." },
+      { question: "What should HR due diligence cover in a small business acquisition?", answer: "Key areas: (1) Employee census - headcount, roles, tenure, compensation, benefits; (2) Key employee identification - who is critical and what's the retention risk; (3) Employment agreements - contracts, non-competes, severance obligations; (4) Benefits review - health insurance, retirement plans, PTO policies; (5) Compliance - wage & hour, I-9s, workplace safety, discrimination claims; (6) Culture assessment - employee satisfaction, management style, potential friction. For small businesses, key person risk and benefit cost continuation are often the biggest issues." },
     ],
   },
 
@@ -2553,7 +2553,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SRS Acquiom", title: "Working Capital in M&A", year: 2023 },
     ],
     faqs: [
-      { question: "What is a working capital adjustment in M&A?", answer: "A working capital adjustment ensures the buyer receives a 'normal' level of working capital (current assets minus current liabilities) at closing. The process: (1) Establish a 'peg' or target — typically the trailing 12-month average of net working capital; (2) At closing, estimate actual working capital; (3) After closing (60-90 days), calculate final working capital; (4) If actual exceeds the peg, seller receives the excess; if below, buyer receives the shortfall. This prevents sellers from 'draining' the business before closing by collecting receivables early or delaying payables." },
+      { question: "What is a working capital adjustment in M&A?", answer: "A working capital adjustment ensures the buyer receives a 'normal' level of working capital (current assets minus current liabilities) at closing. The process: (1) Establish a 'peg' or target - typically the trailing 12-month average of net working capital; (2) At closing, estimate actual working capital; (3) After closing (60-90 days), calculate final working capital; (4) If actual exceeds the peg, seller receives the excess; if below, buyer receives the shortfall. This prevents sellers from 'draining' the business before closing by collecting receivables early or delaying payables." },
     ],
   },
 
@@ -2619,7 +2619,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ABA", title: "Restrictive Covenants in M&A", year: 2023 },
     ],
     faqs: [
-      { question: "Are non-competes enforceable in business acquisitions?", answer: "Non-competes in the context of business sales are generally enforceable in most US states, even those that restrict employee non-competes. The FTC's 2024 rule banning non-competes specifically exempts those arising from the sale of a business. Courts evaluate reasonableness based on: (1) Duration — typically 2-5 years; (2) Geographic scope — must be related to the business's market; (3) Activity scope — limited to competing businesses. Non-competes tied to goodwill in business sales receive more favorable treatment than employment non-competes." },
+      { question: "Are non-competes enforceable in business acquisitions?", answer: "Non-competes in the context of business sales are generally enforceable in most US states, even those that restrict employee non-competes. The FTC's 2024 rule banning non-competes specifically exempts those arising from the sale of a business. Courts evaluate reasonableness based on: (1) Duration - typically 2-5 years; (2) Geographic scope - must be related to the business's market; (3) Activity scope - limited to competing businesses. Non-competes tied to goodwill in business sales receive more favorable treatment than employment non-competes." },
     ],
   },
 
@@ -2663,7 +2663,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review", title: "Why M&A Deals Fail", year: 2023 },
     ],
     faqs: [
-      { question: "How often do acquisition deals fall apart?", answer: "In the SME space, approximately 40-50% of deals that reach LOI stage ultimately fail to close. Common reasons: (1) Due diligence findings (35% of failures) — quality of earnings issues, legal problems, or undisclosed liabilities; (2) Financing falls through (20%); (3) Seller changes mind (15%); (4) Valuation gap widens (15%); (5) Key employee departures or customer losses (10%); (6) Other (5%). For search fund searchers, experiencing 1-2 broken deals before closing is typical." },
+      { question: "How often do acquisition deals fall apart?", answer: "In the SME space, approximately 40-50% of deals that reach LOI stage ultimately fail to close. Common reasons: (1) Due diligence findings (35% of failures) - quality of earnings issues, legal problems, or undisclosed liabilities; (2) Financing falls through (20%); (3) Seller changes mind (15%); (4) Valuation gap widens (15%); (5) Key employee departures or customer losses (10%); (6) Other (5%). For search fund searchers, experiencing 1-2 broken deals before closing is typical." },
     ],
   },
 
@@ -2685,7 +2685,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "McKinsey & Company", title: "People in M&A: Talent Matters", year: 2024 },
     ],
     faqs: [
-      { question: "How do you evaluate a management team during due diligence?", answer: "Focus on five areas: (1) Track record — have they hit targets consistently? Ask for 3-5 years of budgets vs actuals; (2) Capability — do they have the skills to execute your value creation plan, or will you need to upgrade? (3) Retention risk — what motivates them (money, autonomy, mission)? Are they likely to stay under new ownership? (4) Culture — how do they describe their leadership style? Does it match what employees say? (5) Key person dependencies — if one manager left, what would happen to operations? Interview managers individually and cross-reference their accounts." },
+      { question: "How do you evaluate a management team during due diligence?", answer: "Focus on five areas: (1) Track record - have they hit targets consistently? Ask for 3-5 years of budgets vs actuals; (2) Capability - do they have the skills to execute your value creation plan, or will you need to upgrade? (3) Retention risk - what motivates them (money, autonomy, mission)? Are they likely to stay under new ownership? (4) Culture - how do they describe their leadership style? Does it match what employees say? (5) Key person dependencies - if one manager left, what would happen to operations? Interview managers individually and cross-reference their accounts." },
     ],
   },
 
@@ -2707,7 +2707,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Industry Consolidation Strategies", year: 2024 },
     ],
     faqs: [
-      { question: "What makes an industry good for a roll-up strategy?", answer: "Key characteristics: (1) Highly fragmented — no single player has more than 5-10% market share; (2) Recurring revenue — predictable cash flows enable debt financing for add-ons; (3) Aging owner demographics — many owners nearing retirement creates acquisition supply; (4) Scalable operations — shared back-office, purchasing, or technology provides real synergies; (5) Local relationships matter — customers prefer local service but benefit from a larger organization's resources. Examples: HVAC, plumbing, dental practices, veterinary clinics, home services, and managed IT services." },
+      { question: "What makes an industry good for a roll-up strategy?", answer: "Key characteristics: (1) Highly fragmented - no single player has more than 5-10% market share; (2) Recurring revenue - predictable cash flows enable debt financing for add-ons; (3) Aging owner demographics - many owners nearing retirement creates acquisition supply; (4) Scalable operations - shared back-office, purchasing, or technology provides real synergies; (5) Local relationships matter - customers prefer local service but benefit from a larger organization's resources. Examples: HVAC, plumbing, dental practices, veterinary clinics, home services, and managed IT services." },
     ],
   },
 
@@ -2729,7 +2729,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Divestopedia", title: "Confidential Information Memorandum Best Practices", year: 2023 },
     ],
     faqs: [
-      { question: "What should I look for in a CIM?", answer: "Focus on: (1) Financial trends — is revenue/EBITDA growing, flat, or declining? Look at 3-5 years of data; (2) Add-backs and adjustments — are they legitimate? Owner salary, one-time expenses, and related-party transactions need scrutiny; (3) Customer concentration — any customer over 15-20% of revenue is a risk; (4) Owner dependence — how involved is the owner in daily operations, sales, and key relationships? (5) Growth story — does the stated growth opportunity make sense given market data? (6) What's NOT in the CIM — missing information (employee turnover, customer churn, capex history) often reveals more than what's included." },
+      { question: "What should I look for in a CIM?", answer: "Focus on: (1) Financial trends - is revenue/EBITDA growing, flat, or declining? Look at 3-5 years of data; (2) Add-backs and adjustments - are they legitimate? Owner salary, one-time expenses, and related-party transactions need scrutiny; (3) Customer concentration - any customer over 15-20% of revenue is a risk; (4) Owner dependence - how involved is the owner in daily operations, sales, and key relationships? (5) Growth story - does the stated growth opportunity make sense given market data? (6) What's NOT in the CIM - missing information (employee turnover, customer churn, capex history) often reveals more than what's included." },
     ],
   },
 
@@ -2751,7 +2751,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review", title: "Leading Turnarounds", year: 2023 },
     ],
     faqs: [
-      { question: "Should search fund searchers pursue distressed acquisitions?", answer: "Generally, distressed acquisitions are not recommended for first-time search fund acquirers. Turnarounds require deep operational expertise, significant working capital reserves, and the ability to make rapid, high-stakes decisions. Stanford's search fund data shows that the highest-returning acquisitions are typically healthy businesses bought at fair prices with clear growth opportunities — not turnarounds. However, if you have specific industry expertise and operational experience, a mildly distressed business (e.g., poor management but good underlying business model) can offer attractive entry pricing." },
+      { question: "Should search fund searchers pursue distressed acquisitions?", answer: "Generally, distressed acquisitions are not recommended for first-time search fund acquirers. Turnarounds require deep operational expertise, significant working capital reserves, and the ability to make rapid, high-stakes decisions. Stanford's search fund data shows that the highest-returning acquisitions are typically healthy businesses bought at fair prices with clear growth opportunities - not turnarounds. However, if you have specific industry expertise and operational experience, a mildly distressed business (e.g., poor management but good underlying business model) can offer attractive entry pricing." },
     ],
   },
 
@@ -2773,7 +2773,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
     ],
     faqs: [
-      { question: "How does an MBO differ from a search fund acquisition?", answer: "Key differences: (1) The buyer — in an MBO, existing management buys the business; in a search fund, an external entrepreneur acquires it; (2) Due diligence advantage — MBO managers already know the business intimately, reducing information asymmetry; (3) Transition risk — MBOs have smoother transitions since management stays in place; (4) Financing — MBOs often use more seller financing and bank debt since lenders are comfortable with continuity; (5) Price — MBOs may get favorable pricing since the seller wants to reward loyal managers; (6) Growth potential — search fund operators may bring fresh perspectives that MBO managers lack. Both models can be highly successful depending on the situation." },
+      { question: "How does an MBO differ from a search fund acquisition?", answer: "Key differences: (1) The buyer - in an MBO, existing management buys the business; in a search fund, an external entrepreneur acquires it; (2) Due diligence advantage - MBO managers already know the business intimately, reducing information asymmetry; (3) Transition risk - MBOs have smoother transitions since management stays in place; (4) Financing - MBOs often use more seller financing and bank debt since lenders are comfortable with continuity; (5) Price - MBOs may get favorable pricing since the seller wants to reward loyal managers; (6) Growth potential - search fund operators may bring fresh perspectives that MBO managers lack. Both models can be highly successful depending on the situation." },
     ],
   },
 
@@ -2787,7 +2787,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Quality of Earnings Analysis for Search Fund Acquisitions",
     ogDescription:
-      "EBITDA adjustments, revenue quality, working capital analysis — understand QoE reports and how they affect deal pricing and negotiation.",
+      "EBITDA adjustments, revenue quality, working capital analysis - understand QoE reports and how they affect deal pricing and negotiation.",
     datePublished: "2024-07-09",
     dateModified: "2025-04-17",
     sources: [
@@ -2797,7 +2797,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is a quality of earnings report?", answer: "A Quality of Earnings (QoE) report is a financial analysis performed during due diligence that adjusts the seller's reported EBITDA by removing one-time items, normalizing owner compensation, verifying revenue quality, and analyzing working capital trends. It provides the buyer with a true picture of sustainable cash flow." },
-      { question: "How much does a quality of earnings report cost?", answer: "For SME acquisitions typical of search funds ($1–20M enterprise value), a QoE report costs $20,000–$60,000 from a Big 4 or regional CPA firm. The engagement typically takes 3–6 weeks and is one of the most important investments in the due diligence process." },
+      { question: "How much does a quality of earnings report cost?", answer: "For SME acquisitions typical of search funds ($1-20M enterprise value), a QoE report costs $20,000-$60,000 from a Big 4 or regional CPA firm. The engagement typically takes 3-6 weeks and is one of the most important investments in the due diligence process." },
       { question: "When should you order a quality of earnings analysis?", answer: "A QoE should be ordered after signing a Letter of Intent (LOI) with exclusivity, typically as one of the first due diligence workstreams. Starting earlier wastes money if the deal falls through; starting later risks delaying the closing timeline." },
     ],
   },
@@ -2805,13 +2805,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "exit-strategies",
     title: "Exit Strategies for Search Fund CEOs",
     description:
-      "Strategic sale, PE sale, management buyout, dividend recap — timeline planning, exit readiness, and maximizing valuation.",
+      "Strategic sale, PE sale, management buyout, dividend recap - timeline planning, exit readiness, and maximizing valuation.",
     readTime: "13 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "Exit Strategies for Search Fund CEOs — Maximize Your Return",
+    ogTitle: "Exit Strategies for Search Fund CEOs - Maximize Your Return",
     ogDescription:
-      "Strategic sale, PE exit, MBO, dividend recap — plan your exit 18-24 months ahead. Readiness checklist, banker selection, and tax planning.",
+      "Strategic sale, PE exit, MBO, dividend recap - plan your exit 18-24 months ahead. Readiness checklist, banker selection, and tax planning.",
     datePublished: "2024-07-23",
     dateModified: "2025-04-17",
     sources: [
@@ -2819,7 +2819,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
     ],
     faqs: [
-      { question: "When do most search fund CEOs exit their company?", answer: "The median hold period for search fund acquisitions is 5–7 years. Most operators begin exit planning 18–24 months before the target date. Early exits (3–4 years) are possible if rapid growth creates a compelling valuation story." },
+      { question: "When do most search fund CEOs exit their company?", answer: "The median hold period for search fund acquisitions is 5-7 years. Most operators begin exit planning 18-24 months before the target date. Early exits (3-4 years) are possible if rapid growth creates a compelling valuation story." },
       { question: "What is the most common exit route for search funds?", answer: "Strategic sales to larger companies in the same industry are the most common and typically highest-valued exit route. Private equity sales are second, followed by management buyouts (MBOs) and dividend recapitalizations." },
     ],
   },
@@ -2831,9 +2831,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "Negotiation Tactics for SME Acquisitions — A Search Fund Guide",
+    ogTitle: "Negotiation Tactics for SME Acquisitions - A Search Fund Guide",
     ogDescription:
-      "Price anchoring, exclusivity leverage, seller psychology, and multi-party dynamics — master the art of SME acquisition negotiation.",
+      "Price anchoring, exclusivity leverage, seller psychology, and multi-party dynamics - master the art of SME acquisition negotiation.",
     datePublished: "2024-08-06",
     dateModified: "2025-04-17",
     sources: [
@@ -2841,8 +2841,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What is the most common negotiation mistake in SME acquisitions?", answer: "The most common mistake is negotiating only on price. Experienced acquirers know that deal structure — seller financing, earn-outs, working capital adjustments, employment agreements, and non-competes — can be worth more than a 10–15% price concession. Focus on total deal economics, not headline price." },
-      { question: "Should you make the first offer when buying a business?", answer: "In most search fund acquisitions, the seller or broker sets the asking price first. If pressed to name a number, anchor with a range based on market data (EBITDA multiples for the sector). Never make an offer without financial data to support it — and always pair your offer with the rationale." },
+      { question: "What is the most common negotiation mistake in SME acquisitions?", answer: "The most common mistake is negotiating only on price. Experienced acquirers know that deal structure - seller financing, earn-outs, working capital adjustments, employment agreements, and non-competes - can be worth more than a 10-15% price concession. Focus on total deal economics, not headline price." },
+      { question: "Should you make the first offer when buying a business?", answer: "In most search fund acquisitions, the seller or broker sets the asking price first. If pressed to name a number, anchor with a range based on market data (EBITDA multiples for the sector). Never make an offer without financial data to support it - and always pair your offer with the rationale." },
       { question: "How do you handle emotional sellers during negotiations?", answer: "Many business sellers have deep emotional attachment to their companies. Effective tactics include acknowledging the seller's legacy, framing the transition as a continuation (not a takeover), being patient with timing, maintaining consistent communication, and involving the seller's trusted advisors to bridge gaps." },
     ],
   },
@@ -2856,7 +2856,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Seller Psychology: Understanding Motivations & Emotions in M&A",
     ogDescription:
-      "Health, burnout, legacy, identity loss — the emotional journey of selling a business and how buyers can navigate it to close more deals.",
+      "Health, burnout, legacy, identity loss - the emotional journey of selling a business and how buyers can navigate it to close more deals.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2865,7 +2865,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the #1 thing sellers care about beyond price?", answer: "Employee well-being. For long-tenured owners who built their business from scratch, the question 'Will my people be taken care of?' is often more important than the final dollar amount. Buyers who demonstrate genuine concern for employees have a significant advantage." },
-      { question: "Why do business sales fall apart?", answer: "The most common reason is seller's remorse — the owner gets cold feet in the final weeks before closing. Other causes include: unrealistic price expectations, family opposition, emotional attachment (identity loss), due diligence surprises, and financing delays that erode trust." },
+      { question: "Why do business sales fall apart?", answer: "The most common reason is seller's remorse - the owner gets cold feet in the final weeks before closing. Other causes include: unrealistic price expectations, family opposition, emotional attachment (identity loss), due diligence surprises, and financing delays that erode trust." },
     ],
   },
   {
@@ -2887,7 +2887,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is an earn-out in an acquisition?", answer: "An earn-out is a portion of the purchase price that is contingent on the business achieving specific performance targets (usually revenue or EBITDA) after the acquisition closes. It bridges the gap when buyer and seller disagree on valuation." },
-      { question: "How long do earn-out periods typically last?", answer: "Most earn-out periods are 1–3 years. Shorter periods (12–18 months) are simpler but may not capture full value. Longer periods (3+ years) create more alignment but increase complexity and dispute risk. EBITDA-based earn-outs are more common than revenue-based ones in search fund deals." },
+      { question: "How long do earn-out periods typically last?", answer: "Most earn-out periods are 1-3 years. Shorter periods (12-18 months) are simpler but may not capture full value. Longer periods (3+ years) create more alignment but increase complexity and dispute risk. EBITDA-based earn-outs are more common than revenue-based ones in search fund deals." },
     ],
   },
 
@@ -2901,17 +2901,17 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Online Business Marketplaces: BizBuySell, Axial & More Compared",
     ogDescription:
-      "Compare BizBuySell, Axial, DealStream, SearchFunder, and European platforms. How to use marketplaces as 20–30% of your deal sourcing strategy.",
+      "Compare BizBuySell, Axial, DealStream, SearchFunder, and European platforms. How to use marketplaces as 20-30% of your deal sourcing strategy.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "IBBA", title: "Market Pulse Survey", year: 2024 },
       { name: "Axial", title: "Lower Middle Market Report", url: "https://www.axial.net/forum/", year: 2024 },
-      { name: "BizBuySell", title: "Insight Report — Q4 2024", url: "https://www.bizbuysell.com/insight-report/", year: 2024 },
+      { name: "BizBuySell", title: "Insight Report - Q4 2024", url: "https://www.bizbuysell.com/insight-report/", year: 2024 },
     ],
     faqs: [
-      { question: "What is the best website to buy a business?", answer: "BizBuySell is the largest (45,000+ listings) for small businesses ($500K–$5M). Axial is the premier platform for lower middle market deals ($1M–$25M+ EBITDA). DealStream covers mid-market and international deals. In Europe, Fusacq (France), Nexxt-Change (Germany), and Daltons (UK) are market leaders." },
-      { question: "Should you buy a business from an online marketplace?", answer: "Marketplaces should be 20–30% of your deal sourcing. Combine with broker relationships (40–50%), direct outreach (20–30%), and referral networks (10–20%). Marketplace limitations: the best deals often sell through proprietary channels first, and listed deals face heavy competition from other buyers." },
+      { question: "What is the best website to buy a business?", answer: "BizBuySell is the largest (45,000+ listings) for small businesses ($500K-$5M). Axial is the premier platform for lower middle market deals ($1M-$25M+ EBITDA). DealStream covers mid-market and international deals. In Europe, Fusacq (France), Nexxt-Change (Germany), and Daltons (UK) are market leaders." },
+      { question: "Should you buy a business from an online marketplace?", answer: "Marketplaces should be 20-30% of your deal sourcing. Combine with broker relationships (40-50%), direct outreach (20-30%), and referral networks (10-20%). Marketplace limitations: the best deals often sell through proprietary channels first, and listed deals face heavy competition from other buyers." },
       { question: "How do I stand out as a buyer on a marketplace?", answer: "Stand out by: submitting a professional buyer profile with background, criteria, and proof of funds; responding to new listings within 24 hours; having a signed NDA template ready; asking informed questions that show you've read the listing; and being transparent about timeline. Brokers prioritize serious, prepared buyers over generic inquiries." },
     ],
   },
@@ -2919,13 +2919,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "what-is-my-business-worth",
     title: "What Is My Business Worth? A Seller's Valuation Guide",
     description:
-      "How buyers value businesses (EBITDA multiples, SDE, DCF), what drives value up or down, and how to maximize your selling price — from a seller's perspective.",
+      "How buyers value businesses (EBITDA multiples, SDE, DCF), what drives value up or down, and how to maximize your selling price - from a seller's perspective.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Deal Execution",
     ogTitle: "What Is My Business Worth? A Seller's Valuation Guide",
     ogDescription:
-      "Most businesses sell for 2–6x annual earnings. Learn how buyers calculate value, what add-backs count, what drives premium multiples, and how to maximize your sale price.",
+      "Most businesses sell for 2-6x annual earnings. Learn how buyers calculate value, what add-backs count, what drives premium multiples, and how to maximize your sale price.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2938,8 +2938,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Boxwood Partners", title: "How Quality of Earnings Impacts Your Sale Price", url: "https://www.boxwoodpartners.com/press-releases/how-quality-of-earnings-impacts-your-sale-priceand-how-to-get-ahead-of-it", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a small business worth?", answer: "Most small businesses sell for 2–6x annual earnings (EBITDA). A business with $500K EBITDA in professional services might sell for $1.5–2.5M (3–5x). A $2M EBITDA SaaS company might sell for $12–20M (6–10x). Size, industry, growth rate, and recurring revenue are the biggest factors." },
-      { question: "How do I increase the value of my business before selling?", answer: "Start 18–24 months early. Reduce owner dependence, build a management team, convert verbal agreements to written contracts, clean up financials, diversify your customer base (no customer >10% of revenue), and document growth opportunities. Running a competitive process with 3–5 buyers increases price by 10–20%." },
+      { question: "How much is a small business worth?", answer: "Most small businesses sell for 2-6x annual earnings (EBITDA). A business with $500K EBITDA in professional services might sell for $1.5-2.5M (3-5x). A $2M EBITDA SaaS company might sell for $12-20M (6-10x). Size, industry, growth rate, and recurring revenue are the biggest factors." },
+      { question: "How do I increase the value of my business before selling?", answer: "Start 18-24 months early. Reduce owner dependence, build a management team, convert verbal agreements to written contracts, clean up financials, diversify your customer base (no customer >10% of revenue), and document growth opportunities. Running a competitive process with 3-5 buyers increases price by 10-20%." },
     ],
   },
 
@@ -2947,7 +2947,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "financial-modeling-for-acquisitions",
     title: "Financial Modeling for Search Fund Acquisitions",
     description:
-      "How to build an LBO model for SME acquisitions — revenue assumptions, EBITDA normalization, debt scheduling, returns analysis, and presenting to investors.",
+      "How to build an LBO model for SME acquisitions - revenue assumptions, EBITDA normalization, debt scheduling, returns analysis, and presenting to investors.",
     readTime: "13 min read",
     tag: "Deal",
     category: "Deal Execution",
@@ -2961,8 +2961,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Macabacus", title: "LBO Modeling Guide for Mid-Market Transactions", year: 2024 },
     ],
     faqs: [
-      { question: "What should a search fund LBO model include?", answer: "A complete model includes: historical financials (3–5 years), EBITDA normalization adjustments, revenue and expense projections (5-year), debt schedule (senior + seller note + revolver), working capital forecast, capex assumptions, tax calculations, free cash flow to equity, and returns analysis (IRR and MOIC) under base, upside, and downside scenarios." },
-      { question: "What returns do search fund investors expect?", answer: "Traditional search fund investors target 25–35% gross IRR and 3–5x MOIC over a 5–7 year hold. Your model should show a path to these returns in the base case, with the downside case still protecting capital (1x+ MOIC). Present sensitivity tables showing returns across different exit multiples and EBITDA growth rates." },
+      { question: "What should a search fund LBO model include?", answer: "A complete model includes: historical financials (3-5 years), EBITDA normalization adjustments, revenue and expense projections (5-year), debt schedule (senior + seller note + revolver), working capital forecast, capex assumptions, tax calculations, free cash flow to equity, and returns analysis (IRR and MOIC) under base, upside, and downside scenarios." },
+      { question: "What returns do search fund investors expect?", answer: "Traditional search fund investors target 25-35% gross IRR and 3-5x MOIC over a 5-7 year hold. Your model should show a path to these returns in the base case, with the downside case still protecting capital (1x+ MOIC). Present sensitivity tables showing returns across different exit multiples and EBITDA growth rates." },
     ],
   },
 
@@ -2977,7 +2977,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SBA 7(a) Loan Requirements, Rates & Application Process",
     ogDescription:
-      "Up to $5M, 10-year terms, 10–20% equity injection. The definitive guide to SBA 7(a) acquisition financing for search fund and self-funded buyers.",
+      "Up to $5M, 10-year terms, 10-20% equity injection. The definitive guide to SBA 7(a) acquisition financing for search fund and self-funded buyers.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2985,16 +2985,16 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What is the maximum SBA 7(a) loan amount?", answer: "The maximum SBA 7(a) loan is $5,000,000. For business acquisitions, terms are typically 10 years with variable interest rates (Prime + 2.25–2.75%). The SBA guarantees 75–85% of the loan to the lender." },
-      { question: "How much down payment do I need for an SBA acquisition loan?", answer: "The minimum equity injection is 10% of the total project cost, though many lenders require 15–20%. This can come from personal savings, investor capital, or retirement funds (via ROBS). Seller financing can sometimes count toward the equity requirement." },
-      { question: "How long does SBA loan approval take?", answer: "From application to closing, an SBA 7(a) acquisition loan typically takes 60–90 days. Pre-qualification takes 1–2 weeks, underwriting takes 3–6 weeks, and closing takes 2–4 weeks. Working with an SBA Preferred Lender (PLP) saves 2–4 weeks." },
+      { question: "What is the maximum SBA 7(a) loan amount?", answer: "The maximum SBA 7(a) loan is $5,000,000. For business acquisitions, terms are typically 10 years with variable interest rates (Prime + 2.25-2.75%). The SBA guarantees 75-85% of the loan to the lender." },
+      { question: "How much down payment do I need for an SBA acquisition loan?", answer: "The minimum equity injection is 10% of the total project cost, though many lenders require 15-20%. This can come from personal savings, investor capital, or retirement funds (via ROBS). Seller financing can sometimes count toward the equity requirement." },
+      { question: "How long does SBA loan approval take?", answer: "From application to closing, an SBA 7(a) acquisition loan typically takes 60-90 days. Pre-qualification takes 1-2 weeks, underwriting takes 3-6 weeks, and closing takes 2-4 weeks. Working with an SBA Preferred Lender (PLP) saves 2-4 weeks." },
     ],
   },
   {
     slug: "asset-purchase-vs-stock-purchase",
     title: "Asset Purchase vs. Stock Purchase: Comprehensive Comparison",
     description:
-      "Tax implications, liability exposure, contract transferability, and employee considerations — asset vs. stock purchase for business acquisitions.",
+      "Tax implications, liability exposure, contract transferability, and employee considerations - asset vs. stock purchase for business acquisitions.",
     readTime: "14 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -3008,7 +3008,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Yale SOM", title: "Legal Documents for Search Fund Transactions", year: 2020 },
     ],
     faqs: [
-      { question: "Is an asset purchase or stock purchase better for the buyer?", answer: "Buyers generally prefer asset purchases because they get a stepped-up tax basis (creating depreciation deductions worth $500K–$1M+ on a $5M deal), can exclude unwanted liabilities, and cherry-pick which assets to acquire. About 70–80% of SBA-financed acquisitions are asset purchases." },
+      { question: "Is an asset purchase or stock purchase better for the buyer?", answer: "Buyers generally prefer asset purchases because they get a stepped-up tax basis (creating depreciation deductions worth $500K-$1M+ on a $5M deal), can exclude unwanted liabilities, and cherry-pick which assets to acquire. About 70-80% of SBA-financed acquisitions are asset purchases." },
       { question: "What is a 338(h)(10) election?", answer: "A 338(h)(10) election allows a stock purchase of an S corporation to be treated as an asset purchase for tax purposes. The buyer gets the stepped-up basis of an asset deal while maintaining the contract and license continuity of a stock deal. Both parties must agree to the election." },
     ],
   },
@@ -3026,7 +3026,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "IRS", title: "IRC Section 1202 — Qualified Small Business Stock", year: 2024 },
+      { name: "IRS", title: "IRC Section 1202 - Qualified Small Business Stock", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -3042,9 +3042,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "8 min read",
     tag: "Legal",
     category: "Legal & Tax",
-    ogTitle: "Search Fund Legal Structures — US & European Entity Setup Guide",
+    ogTitle: "Search Fund Legal Structures - US & European Entity Setup Guide",
     ogDescription:
-      "LLC, LP, SAS, GmbH, Ltd — understand the legal structures used in search fund acquisitions across the US and Europe.",
+      "LLC, LP, SAS, GmbH, Ltd - understand the legal structures used in search fund acquisitions across the US and Europe.",
     datePublished: "2024-06-04",
     dateModified: "2025-04-17",
     sources: [
@@ -3053,8 +3053,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the typical legal structure of a search fund?", answer: "In the US, search funds are typically structured as limited partnerships (LPs) or LLCs. In Europe, structures vary by country: SAS in France, GmbH in Germany, SL in Spain, Ltd in the UK, and BV in the Netherlands. The structure must accommodate search capital, step-up equity, and eventual acquisition financing." },
-      { question: "Do you need a lawyer to set up a search fund?", answer: "Yes. Search fund legal documents (LPA, subscription agreements, side letters) are complex and have evolved over decades. A lawyer experienced in search fund structures can cost $15,000–$30,000 for initial setup but prevents costly mistakes. The Yale SOM legal documents series provides reference templates." },
-      { question: "What is a step-up in a search fund?", answer: "The step-up is the mechanism by which search fund investors convert their initial search capital investment into equity in the acquisition vehicle at a preferential price (typically 1.5x–2.0x their original investment). This step-up compensates them for the risk of the search period." },
+      { question: "Do you need a lawyer to set up a search fund?", answer: "Yes. Search fund legal documents (LPA, subscription agreements, side letters) are complex and have evolved over decades. A lawyer experienced in search fund structures can cost $15,000-$30,000 for initial setup but prevents costly mistakes. The Yale SOM legal documents series provides reference templates." },
+      { question: "What is a step-up in a search fund?", answer: "The step-up is the mechanism by which search fund investors convert their initial search capital investment into equity in the acquisition vehicle at a preferential price (typically 1.5x-2.0x their original investment). This step-up compensates them for the risk of the search period." },
     ],
   },
   {
@@ -3065,9 +3065,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "7 min read",
     tag: "Guide",
     category: "Legal & Tax",
-    ogTitle: "How to Finance a Search Fund Acquisition — Complete Capital Stack Guide",
+    ogTitle: "How to Finance a Search Fund Acquisition - Complete Capital Stack Guide",
     ogDescription:
-      "Senior debt, SBA 7(a), BPI France, KfW, seller notes, equity — learn how to structure the capital stack for your acquisition.",
+      "Senior debt, SBA 7(a), BPI France, KfW, seller notes, equity - learn how to structure the capital stack for your acquisition.",
     datePublished: "2024-06-18",
     dateModified: "2025-04-17",
     sources: [
@@ -3090,7 +3090,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "The Capital Stack Explained: Senior Debt to Equity in Business Acquisitions",
     ogDescription:
-      "SBA at 80%, bank debt at 60%, mezz at 12–18% return, seller notes at 5–20% — how every layer of the acquisition capital stack works with typical terms and examples.",
+      "SBA at 80%, bank debt at 60%, mezz at 12-18% return, seller notes at 5-20% - how every layer of the acquisition capital stack works with typical terms and examples.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -3113,18 +3113,18 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Creative Financing: 10 Ways to Fund a Business Acquisition",
     ogDescription:
-      "Maximum seller financing, SBA with standby notes, ROBS 401(k), earn-in paths, equity partners, HELOCs — 10 creative strategies to fund your acquisition with less cash.",
+      "Maximum seller financing, SBA with standby notes, ROBS 401(k), earn-in paths, equity partners, HELOCs - 10 creative strategies to fund your acquisition with less cash.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program — Seller Note Guidelines (SOP 50 10 7.1)", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Program - Seller Note Guidelines (SOP 50 10 7.1)", year: 2024 },
       { name: "IRS", title: "ROBS Program Guidance & EPCRS Framework", year: 2024 },
       { name: "Commercial Finance Association", title: "Annual Asset-Based Lending Survey", year: 2024 },
     ],
     faqs: [
-      { question: "What is the most creative way to finance a business acquisition?", answer: "The most powerful creative strategy combines SBA 7(a) lending (75–80% of the purchase price), a seller note on full standby (10–15%, which the SBA counts as equity), and ROBS (rolling over 401(k)/IRA funds for the remaining equity injection). This combination can reduce out-of-pocket cash to near zero for deals under $5M." },
-      { question: "Can I use my 401(k) to buy a business?", answer: "Yes, through ROBS (Rollover for Business Startups). You form a C-Corporation, establish a 401(k) plan for it, roll over your existing retirement funds into the new plan, and the plan buys stock in your C-Corp. This provides capital without early withdrawal penalties or taxes. Setup costs $5K–$10K through a qualified ROBS provider." },
-      { question: "How much of my own money do I need to buy a business?", answer: "Traditional bank financing typically requires 10–20% buyer equity. With creative structures like SBA + seller notes, you can reduce personal cash to 5–10%. Using ROBS, HELOCs, or earn-in arrangements, some buyers close deals with little or no personal savings at risk." },
+      { question: "What is the most creative way to finance a business acquisition?", answer: "The most powerful creative strategy combines SBA 7(a) lending (75-80% of the purchase price), a seller note on full standby (10-15%, which the SBA counts as equity), and ROBS (rolling over 401(k)/IRA funds for the remaining equity injection). This combination can reduce out-of-pocket cash to near zero for deals under $5M." },
+      { question: "Can I use my 401(k) to buy a business?", answer: "Yes, through ROBS (Rollover for Business Startups). You form a C-Corporation, establish a 401(k) plan for it, roll over your existing retirement funds into the new plan, and the plan buys stock in your C-Corp. This provides capital without early withdrawal penalties or taxes. Setup costs $5K-$10K through a qualified ROBS provider." },
+      { question: "How much of my own money do I need to buy a business?", answer: "Traditional bank financing typically requires 10-20% buyer equity. With creative structures like SBA + seller notes, you can reduce personal cash to 5-10%. Using ROBS, HELOCs, or earn-in arrangements, some buyers close deals with little or no personal savings at risk." },
     ],
   },
 
@@ -3170,7 +3170,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Goodwin Procter LLP", title: "Use of Equity Rollovers Continues to Rise Amid Market Uncertainty", year: 2024 },
       { name: "Koley Jessen", title: "Rollover Equity: An Overview of Tax-Deferred Structures for Founders and Private Equity Firms", year: 2024 },
       { name: "Alston & Bird LLP", title: "Federal Tax Advisory: Equity Rollovers", year: 2023 },
-      { name: "Cranfill Sumner LLP", title: "Rollover Equity in M&A — Investment or Illusion?", year: 2025 },
+      { name: "Cranfill Sumner LLP", title: "Rollover Equity in M&A - Investment or Illusion?", year: 2025 },
       { name: "SRS Acquiom", title: "M&A Deal Terms Study: Rollover Equity Trends", year: 2024 },
       { name: "Linden Law Partners", title: "Rollover Equity in M&A: Structure, Terms & Key Considerations", year: 2024 },
       { name: "Class VI Partners", title: "How Does Rollover Equity Work? A Primer for Sellers", year: 2024 },
@@ -3221,7 +3221,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "How does the equity waterfall work in a search fund?", answer: "The typical search fund waterfall: (1) Return of invested capital — investors get their money back first; (2) Preferred return — investors receive 8-10% annual preferred return on invested capital; (3) Catch-up — the searcher/CEO receives distributions until they reach their earned equity percentage (typically 20-30%); (4) Carried interest split — remaining distributions split per the operating agreement (commonly 70/30 or 75/25 investor/searcher). The searcher's equity vests over 4-5 years to ensure alignment. The 1.5x step-up from search to acquisition capital means early investors get more equity per dollar." },
+      { question: "How does the equity waterfall work in a search fund?", answer: "The typical search fund waterfall: (1) Return of invested capital - investors get their money back first; (2) Preferred return - investors receive 8-10% annual preferred return on invested capital; (3) Catch-up - the searcher/CEO receives distributions until they reach their earned equity percentage (typically 20-30%); (4) Carried interest split - remaining distributions split per the operating agreement (commonly 70/30 or 75/25 investor/searcher). The searcher's equity vests over 4-5 years to ensure alignment. The 1.5x step-up from search to acquisition capital means early investors get more equity per dollar." },
     ],
   },
 
@@ -3243,7 +3243,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ABA", title: "Personal Guarantees in Commercial Lending", year: 2023 },
     ],
     faqs: [
-      { question: "Do I have to personally guarantee an SBA loan?", answer: "Yes. SBA requires personal guarantees from anyone with 20% or more ownership in the borrowing entity. The guarantee is unlimited — meaning you're personally liable for the full loan amount, not just your ownership share. Spouses who co-own may also need to guarantee. However, you can negotiate: (1) Burn-off provisions — guarantee reduces as the loan is paid down; (2) Limited guarantees on non-SBA portions; (3) Excluding personal residence from collateral (though SBA can still pursue it in default). For search fund structures, the searcher typically provides the PG since they hold the controlling equity." },
+      { question: "Do I have to personally guarantee an SBA loan?", answer: "Yes. SBA requires personal guarantees from anyone with 20% or more ownership in the borrowing entity. The guarantee is unlimited - meaning you're personally liable for the full loan amount, not just your ownership share. Spouses who co-own may also need to guarantee. However, you can negotiate: (1) Burn-off provisions - guarantee reduces as the loan is paid down; (2) Limited guarantees on non-SBA portions; (3) Excluding personal residence from collateral (though SBA can still pursue it in default). For search fund structures, the searcher typically provides the PG since they hold the controlling equity." },
     ],
   },
 
@@ -3251,7 +3251,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "negotiating-bank-debt",
     title: "How to Negotiate Debt Terms for Your Acquisition",
     description:
-      "Interest rates, amortization, covenants, prepayment terms, collateral — how to negotiate the best bank debt terms for your acquisition.",
+      "Interest rates, amortization, covenants, prepayment terms, collateral - how to negotiate the best bank debt terms for your acquisition.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Legal & Tax",
@@ -3263,11 +3263,11 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
       { name: "ABA Banking Journal", title: "Best Practices in Acquisition Lending", url: "https://www.aba.com/", year: 2023 },
-      { name: "SBA", title: "Standard Operating Procedure 50 10 — Loan Terms and Conditions", year: 2024 },
+      { name: "SBA", title: "Standard Operating Procedure 50 10 - Loan Terms and Conditions", year: 2024 },
     ],
     faqs: [
-      { question: "What is the most important bank loan term to negotiate?", answer: "Financial covenants — specifically the Debt Service Coverage Ratio (DSCR) threshold. Set too tight (e.g., 1.50x when the business runs at 1.60x), you'll breach covenants during normal business fluctuations. Negotiate: covenant levels with adequate headroom, cure periods (30 days to fix), equity cure rights (inject cash to fix), and a holiday period (first 6-12 months covenant-free). After covenants, focus on personal guarantee burn-off provisions and prepayment terms." },
-      { question: "How many lenders should I approach for an acquisition loan?", answer: "Approach 3-5 lenders minimum. Multiple term sheets create competitive tension for better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process at LOI signing — financing delays are the top cause of failed closings in SME acquisitions." },
+      { question: "What is the most important bank loan term to negotiate?", answer: "Financial covenants - specifically the Debt Service Coverage Ratio (DSCR) threshold. Set too tight (e.g., 1.50x when the business runs at 1.60x), you'll breach covenants during normal business fluctuations. Negotiate: covenant levels with adequate headroom, cure periods (30 days to fix), equity cure rights (inject cash to fix), and a holiday period (first 6-12 months covenant-free). After covenants, focus on personal guarantee burn-off provisions and prepayment terms." },
+      { question: "How many lenders should I approach for an acquisition loan?", answer: "Approach 3-5 lenders minimum. Multiple term sheets create competitive tension for better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process at LOI signing - financing delays are the top cause of failed closings in SME acquisitions." },
       { question: "Should I choose a fixed or variable interest rate?", answer: "It depends on risk tolerance and rate environment. Fixed rates provide payment certainty during the uncertain post-acquisition period. Variable rates (SOFR + spread) start lower but carry rate risk. For loans over $5M, consider an interest rate swap. SBA 7(a) rates are capped at SOFR + 2.75% for loans over $50K, making them attractive in high-rate environments." },
     ],
   },
@@ -3317,8 +3317,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Can I use an ICO loan specifically for a business acquisition?", answer: "Yes. The ICO Empresas y Emprendedores line covers business acquisitions as an eligible use of proceeds. Apply through any accredited commercial bank (Santander, BBVA, CaixaBank, etc.). Loan amounts can reach €12.5 million per client per year with terms up to 20 years." },
-      { question: "What is an ENISA participative loan and why is it valuable?", answer: "ENISA participative loans are subordinated loans of €25K–€1.5M with interest tied to company performance. Under Spanish law, they count as net worth (fondos propios), require no personal guarantee or collateral, and offer terms up to 9 years with up to 7 years of grace." },
-      { question: "How do SGRs help with acquisition financing?", answer: "SGRs act as guarantors to commercial banks, covering a portion of the loan risk. Banks can then offer lower interest rates (typically 0.5–1.5% less), reduced collateral requirements, and longer repayment terms." },
+      { question: "What is an ENISA participative loan and why is it valuable?", answer: "ENISA participative loans are subordinated loans of €25K-€1.5M with interest tied to company performance. Under Spanish law, they count as net worth (fondos propios), require no personal guarantee or collateral, and offer terms up to 9 years with up to 7 years of grace." },
+      { question: "How do SGRs help with acquisition financing?", answer: "SGRs act as guarantors to commercial banks, covering a portion of the loan risk. Banks can then offer lower interest rates (typically 0.5-1.5% less), reduced collateral requirements, and longer repayment terms." },
     ],
   },
 
@@ -3366,8 +3366,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which Nordic country is best for a first acquisition?", answer: "Sweden and Finland offer the most accessible government financing for first-time acquirers. Almi (Sweden) provides unsecured subordinated loans requiring no collateral, while Finnvera (Finland) offers specific change-of-generation loans. Denmark's Højvækstfonden guarantee program is strong but typically requires an existing banking relationship." },
-      { question: "How does Nordic acquisition financing compare to SBA loans in the US?", answer: "Nordic programs generally provide smaller loan amounts (under €5M vs. up to $5M for SBA), but offer subordinated financing that acts as quasi-equity — something the SBA doesn't provide. The combination can reduce the buyer's equity requirement to 20–30%, comparable to SBA-financed deals." },
-      { question: "Are there tax advantages to acquiring businesses in the Nordics?", answer: "Nordic corporate tax rates are competitive at 20–22%, well below the EU average. All Nordic countries offer participation exemptions on qualifying share sales, enabling tax-efficient exits through holding company structures. Denmark allows 7-year goodwill amortization in asset deals." },
+      { question: "How does Nordic acquisition financing compare to SBA loans in the US?", answer: "Nordic programs generally provide smaller loan amounts (under €5M vs. up to $5M for SBA), but offer subordinated financing that acts as quasi-equity - something the SBA doesn't provide. The combination can reduce the buyer's equity requirement to 20-30%, comparable to SBA-financed deals." },
+      { question: "Are there tax advantages to acquiring businesses in the Nordics?", answer: "Nordic corporate tax rates are competitive at 20-22%, well below the EU average. All Nordic countries offer participation exemptions on qualifying share sales, enabling tax-efficient exits through holding company structures. Denmark allows 7-year goodwill amortization in asset deals." },
     ],
   },
 
@@ -3438,7 +3438,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is a CDFI and how is it different from a regular bank?", answer: "A CDFI is a Treasury-certified private financial institution with a primary mission of serving underserved communities. Unlike traditional banks, CDFIs use character-based underwriting alongside financial analysis, accept lower collateral coverage ratios, and consider community impact. Over 1,400 certified CDFIs operate across the US." },
-      { question: "Can I use CDFI financing alongside SBA loans?", answer: "Yes — the CDFI + SBA combination is one of the most powerful structures. SBA 7(a) provides 60–70% as senior debt, CDFI subordinated loan fills 10–15%, and seller financing rounds out the stack. This can reduce buyer equity to 10–15%. Some CDFIs are also SBA-preferred lenders." },
+      { question: "Can I use CDFI financing alongside SBA loans?", answer: "Yes - the CDFI + SBA combination is one of the most powerful structures. SBA 7(a) provides 60-70% as senior debt, CDFI subordinated loan fills 10-15%, and seller financing rounds out the stack. This can reduce buyer equity to 10-15%. Some CDFIs are also SBA-preferred lenders." },
       { question: "How do I find a CDFI in my area?", answer: "Start with three resources: the Treasury Department's CDFI Fund certification search tool (cdfifund.gov), the Opportunity Finance Network (OFN) member directory by state, and your local SBA resource partners (SCORE mentors and SBDCs). Some CDFIs specialize in specific industries or borrower demographics." },
     ],
   },
@@ -3463,7 +3463,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Is BDC financing equivalent to SBA loans in the US?", answer: "BDC and SBA serve similar roles but differ: BDC is a direct lender while SBA guarantees commercial bank loans. BDC offers both senior and subordinated financing; SBA only guarantees senior debt. BDC amounts can exceed CAD 10M+ vs. SBA's $5M cap. The CSBFP program (85% guarantee, CAD 1.15M max) is the closer Canadian equivalent to SBA." },
-      { question: "What is the Lifetime Capital Gains Exemption and how does it affect deal structure?", answer: "The LCGE allows Canadian residents to shelter up to CAD 1,016,836 (2024) of capital gains on qualifying small business shares from tax. This enormously benefits sellers and directly impacts negotiation — sellers receiving tax-free proceeds may accept lower headline prices." },
+      { question: "What is the Lifetime Capital Gains Exemption and how does it affect deal structure?", answer: "The LCGE allows Canadian residents to shelter up to CAD 1,016,836 (2024) of capital gains on qualifying small business shares from tax. This enormously benefits sellers and directly impacts negotiation - sellers receiving tax-free proceeds may accept lower headline prices." },
       { question: "Can non-Canadian residents access BDC and CSBFP financing?", answer: "BDC requires the borrowing entity to be a Canadian business, but there is no citizenship requirement for owners. Non-residents can access financing through a Canadian holding company with additional documentation. International searchers often establish a Canadian corporation and obtain work permits." },
     ],
   },
@@ -3488,7 +3488,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Can I get an EIF loan directly?", answer: "No. The EIF does not lend directly to businesses. It provides guarantees and capital to financial intermediaries (banks, leasing companies, microfinance institutions) that then lend to SMEs on improved terms. Contact your commercial bank or national development bank and ask whether they participate in EIF or InvestEU guarantee programs." },
-      { question: "How much cheaper is EIF-backed financing compared to standard bank loans?", answer: "EIF-backed loans typically offer interest rates 0.5–2 percentage points below standard commercial rates, plus reduced collateral requirements. For acquisition financing in the €500K–€5M range, EIF-backed products can save €5K–€50K annually in interest costs." },
+      { question: "How much cheaper is EIF-backed financing compared to standard bank loans?", answer: "EIF-backed loans typically offer interest rates 0.5-2 percentage points below standard commercial rates, plus reduced collateral requirements. For acquisition financing in the €500K-€5M range, EIF-backed products can save €5K-€50K annually in interest costs." },
       { question: "Are EIF programs available for non-EU buyers acquiring EU businesses?", answer: "EIF programs primarily support SMEs established in the EU. Non-EU buyers can typically access EIF-backed financing by creating an EU holding company in the target's country as the acquisition vehicle." },
     ],
   },
@@ -3503,7 +3503,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Second-Time Searchers: Raising Capital for Your Next Acquisition",
     ogDescription:
-      "Serial ETA: raising capital after your first acquisition—structure evolution, investor expectations, and building a multi-company platform.",
+      "Serial ETA: raising capital after your first acquisition - structure evolution, investor expectations, and building a multi-company platform.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3535,8 +3535,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What legal documents do you need to start a search fund?", answer: "The core documents are: (1) Limited Partnership Agreement (LPA) defining GP/LP relationship, capital calls, and profit allocation; (2) Subscription Agreement for each investor's capital commitment; (3) Private Placement Memorandum (PPM) describing the strategy and terms. Side letters may grant special rights to anchor investors. Post-acquisition, a new operating agreement governs board composition, reserved matters, and reporting." },
-      { question: "How much do search fund legal documents cost to prepare?", answer: "Budget $15,000–$30,000 for initial document preparation, assuming you start from Yale SOM or Stanford GSB templates. Costs rise with unusual structures (international investors, multiple searchers, non-standard economics) or extensive side letter negotiations. Using a search-fund-experienced attorney reduces costs significantly." },
-      { question: "What happens to the legal documents if no acquisition is made?", answer: "The LPA includes dissolution provisions: remaining search capital is returned to investors pro-rata, the searcher has no obligation to repay salary or expenses already incurred, and the partnership is wound down. Some LPAs allow a 6–12 month extension with investor approval." },
+      { question: "How much do search fund legal documents cost to prepare?", answer: "Budget $15,000-$30,000 for initial document preparation, assuming you start from Yale SOM or Stanford GSB templates. Costs rise with unusual structures (international investors, multiple searchers, non-standard economics) or extensive side letter negotiations. Using a search-fund-experienced attorney reduces costs significantly." },
+      { question: "What happens to the legal documents if no acquisition is made?", answer: "The LPA includes dissolution provisions: remaining search capital is returned to investors pro-rata, the searcher has no obligation to repay salary or expenses already incurred, and the partnership is wound down. Some LPAs allow a 6-12 month extension with investor approval." },
     ],
   },
 
@@ -3563,7 +3563,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "EisnerAmper", title: "IRC Section 1202: Qualified Small Business Stock Exclusion", url: "https://www.eisneramper.com/insights/financial-services/qualified-small-business-stock-ea-1220/", year: 2024 },
     ],
     faqs: [
-      { question: "What is ROBS and how can it fund a business acquisition?", answer: "ROBS (Rollover for Business Startups) lets you use 401(k) or IRA funds to finance a business acquisition without taxes or early withdrawal penalties. The process: form a C-Corporation, create a new 401(k) plan, roll over existing retirement funds into it, then the 401(k) purchases C-Corp stock—giving the company cash for the acquisition. Most commonly combined with SBA 7(a) loans (ROBS provides 10-20% equity, SBA covers 70-80%). Setup costs $5K-$7K with $1.5K-$3K annual compliance fees. Key risk: if the business fails, you lose your retirement savings." },
+      { question: "What is ROBS and how can it fund a business acquisition?", answer: "ROBS (Rollover for Business Startups) lets you use 401(k) or IRA funds to finance a business acquisition without taxes or early withdrawal penalties. The process: form a C-Corporation, create a new 401(k) plan, roll over existing retirement funds into it, then the 401(k) purchases C-Corp stock - giving the company cash for the acquisition. Most commonly combined with SBA 7(a) loans (ROBS provides 10-20% equity, SBA covers 70-80%). Setup costs $5K-$7K with $1.5K-$3K annual compliance fees. Key risk: if the business fails, you lose your retirement savings." },
     ],
   },
 
@@ -3587,7 +3587,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Speritas Capital", title: "6 Equity Sources that Meet the SBA's Equity Injection Requirements", url: "https://www.speritascapital.com/articles/6-types-of-equity-injection-for-sba-loan-aquisition", year: 2025 },
       { name: "Starfield & Smith", title: "Best Practices: Equity Injection Requirements Under SOP 50 10 8", url: "https://starfieldsmith.com/2025/05/best-practices-a-review-of-equity-injection-requirements-under-sop-50-10-8/", year: 2025 },
       { name: "Windsor Advantage", title: "Updated SBA Equity Injection Rules: SOP 50 10 8", url: "https://www.windsoradvantage.com/sba-equity-injection-rules", year: 2025 },
-      { name: "IRS", title: "Publication 535: Business Expenses — Interest", url: "https://www.irs.gov/publications/p535", year: 2025 },
+      { name: "IRS", title: "Publication 535: Business Expenses - Interest", url: "https://www.irs.gov/publications/p535", year: 2025 },
       { name: "The Real Estate CPA", title: "Interest Tracing Explained", url: "https://www.therealestatecpa.com/blog/who-said-you-cant-deduct-heloc-interest-interest-tracing-explained/", year: 2025 },
       { name: "CoreLogic (Cotality)", title: "U.S. Home Equity Report", url: "https://www.cotality.com/press-releases/home-equity-gains-climb-slower-q2", year: 2025 },
       { name: "CBS News", title: "HELOCs vs. Cash-Out Refinancing: Which One Will Be Better in 2026?", url: "https://www.cbsnews.com/news/helocs-vs-cash-out-refinancing-which-one-will-be-better-in-2026-what-experts-say/", year: 2026 },
@@ -3602,7 +3602,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "foreign-investment-screening",
     title: "Foreign Investment Screening: FDI Rules by Country",
     description:
-      "Understand Foreign Direct Investment (FDI) screening regulations across the US (CFIUS), EU, UK, Germany, France, and Italy — and how they affect search fund cross-border acquisitions.",
+      "Understand Foreign Direct Investment (FDI) screening regulations across the US (CFIUS), EU, UK, Germany, France, and Italy - and how they affect search fund cross-border acquisitions.",
     readTime: "11 min read",
     tag: "Legal & Tax",
     category: "Legal & Tax",
@@ -3626,7 +3626,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How long does FDI screening take?",
         answer:
-          "Review timelines vary by country: CFIUS takes 45–90 days, Germany 2–4 months, France 30–75 business days, and the UK 30–60+ working days. Plan for 2–6 months if FDI review is required.",
+          "Review timelines vary by country: CFIUS takes 45-90 days, Germany 2-4 months, France 30-75 business days, and the UK 30-60+ working days. Plan for 2-6 months if FDI review is required.",
       },
     ],
   },
@@ -3665,7 +3665,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "hiring-executive-team",
     title: "Hiring Your First Executive Team Post-Acquisition",
     description:
-      "Learn when and how to hire your first controller/CFO, VP of operations, and sales leader after acquiring a business — including where to find talent and how to structure compensation.",
+      "Learn when and how to hire your first controller/CFO, VP of operations, and sales leader after acquiring a business - including where to find talent and how to structure compensation.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3683,12 +3683,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "When should I make my first executive hire?",
         answer:
-          "Wait at least 90 days before your first executive hire. Use the first 100 days to understand the business, assess existing talent, and identify real gaps. The first executive hire typically happens at months 3–6.",
+          "Wait at least 90 days before your first executive hire. Use the first 100 days to understand the business, assess existing talent, and identify real gaps. The first executive hire typically happens at months 3-6.",
       },
       {
         question: "What is the most impactful first executive hire?",
         answer:
-          "A controller or CFO is typically the highest-impact first hire — it gives you financial visibility, frees your time, and provides a partner for cash flow management, budgeting, and investor reporting. For sub-$10M businesses, a controller is sufficient.",
+          "A controller or CFO is typically the highest-impact first hire - it gives you financial visibility, frees your time, and provides a partner for cash flow management, budgeting, and investor reporting. For sub-$10M businesses, a controller is sufficient.",
       },
     ],
   },
@@ -3696,7 +3696,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "compensation-incentive-design",
     title: "Compensation & Incentive Design for Acquired Companies",
     description:
-      "Design modern compensation and incentive structures for acquired businesses — base salary frameworks, performance bonuses, sales comp, and equity/phantom equity plans.",
+      "Design modern compensation and incentive structures for acquired businesses - base salary frameworks, performance bonuses, sales comp, and equity/phantom equity plans.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3715,7 +3715,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How much should I allocate to a bonus pool?",
         answer:
-          "Typically 5–15% of EBITDA is allocated to a bonus pool, distributed using a threshold/target/stretch framework (e.g., 50% payout at threshold, 100% at target, 150% at stretch).",
+          "Typically 5-15% of EBITDA is allocated to a bonus pool, distributed using a threshold/target/stretch framework (e.g., 50% payout at threshold, 100% at target, 150% at stretch).",
       },
       {
         question: "What are phantom equity plans?",
@@ -3728,7 +3728,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "quick-wins-first-90-days",
     title: "First 90 Days as CEO: Actionable Quick Wins After Buying a Business",
     description:
-      "Discover high-impact, low-risk quick wins for the first 90 days after acquiring a business — financial, operational, customer-facing, and people-focused improvements that build credibility.",
+      "Discover high-impact, low-risk quick wins for the first 90 days after acquiring a business - financial, operational, customer-facing, and people-focused improvements that build credibility.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3746,12 +3746,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What is the highest-ROI quick win after acquiring a business?",
         answer:
-          "Price increases are often the single highest-ROI quick win. Many owner-operated businesses haven't raised prices in years. A 3–5% increase typically encounters minimal customer pushback and drops straight to the bottom line.",
+          "Price increases are often the single highest-ROI quick win. Many owner-operated businesses haven't raised prices in years. A 3-5% increase typically encounters minimal customer pushback and drops straight to the bottom line.",
       },
       {
         question: "When should I start making changes after an acquisition?",
         answer:
-          "Spend days 1–14 listening, observing, and calling top customers. Start financial quick wins (price increases, vendor renegotiations, AR collection) in weeks 2–4. Technology and process improvements in months 2–3.",
+          "Spend days 1-14 listening, observing, and calling top customers. Start financial quick wins (price increases, vendor renegotiations, AR collection) in weeks 2-4. Technology and process improvements in months 2-3.",
       },
     ],
   },
@@ -3759,7 +3759,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "when-to-let-people-go",
     title: "When to Let People Go: Making Tough Personnel Decisions",
     description:
-      "Navigate the hardest part of being a new CEO — when to terminate underperformers, how to use PIPs effectively, and how to conduct terminations with respect and legal compliance.",
+      "Navigate the hardest part of being a new CEO - when to terminate underperformers, how to use PIPs effectively, and how to conduct terminations with respect and legal compliance.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3782,7 +3782,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What is a Performance Improvement Plan (PIP)?",
         answer:
-          "A PIP is a structured document outlining specific performance issues, measurable goals for 30–90 days, support to be provided, and consequences of continued underperformance. It should be a genuine improvement opportunity, not just documentation for a predetermined termination.",
+          "A PIP is a structured document outlining specific performance issues, measurable goals for 30-90 days, support to be provided, and consequences of continued underperformance. It should be a genuine improvement opportunity, not just documentation for a predetermined termination.",
       },
     ],
   },
@@ -3790,7 +3790,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "middle-management",
     title: "Middle Management: Your Secret Weapon Post-Acquisition",
     description:
-      "Develop the missing middle management layer in your acquired business — identify hidden leaders, train them in delegation and KPIs, and build the execution capacity to scale.",
+      "Develop the missing middle management layer in your acquired business - identify hidden leaders, train them in delegation and KPIs, and build the execution capacity to scale.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3821,7 +3821,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "crm-implementation",
     title: "Implementing a CRM System in Your Acquired Company",
     description:
-      "A practical guide to CRM selection and implementation for acquired businesses — from HubSpot to Salesforce, with a 12-week implementation roadmap and adoption strategies.",
+      "A practical guide to CRM selection and implementation for acquired businesses - from HubSpot to Salesforce, with a 12-week implementation roadmap and adoption strategies.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3844,7 +3844,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How long does CRM implementation take?",
         answer:
-          "Plan for 8–12 weeks from selection to go-live: 2 weeks for audit, 2 weeks for requirements and configuration, 2 weeks for data migration, 2 weeks for training, and 2 weeks for go-live support. Full adoption typically takes 3–6 months.",
+          "Plan for 8-12 weeks from selection to go-live: 2 weeks for audit, 2 weeks for requirements and configuration, 2 weeks for data migration, 2 weeks for training, and 2 weeks for go-live support. Full adoption typically takes 3-6 months.",
       },
     ],
   },
@@ -3875,7 +3875,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Should I upgrade from QuickBooks after an acquisition?",
         answer:
-          "Don't change the accounting software in the first 6 months — stabilize on what exists first. Stay on QuickBooks/Xero if revenue is under $10M with a simple business model. Consider mid-market ERP (NetSuite, Sage Intacct) for businesses over $10M with complex operations.",
+          "Don't change the accounting software in the first 6 months - stabilize on what exists first. Stay on QuickBooks/Xero if revenue is under $10M with a simple business model. Consider mid-market ERP (NetSuite, Sage Intacct) for businesses over $10M with complex operations.",
       },
     ],
   },
@@ -3883,7 +3883,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "sop-documentation",
     title: "Standard Operating Procedures (SOPs): Building Documentation",
     description:
-      "Build standard operating procedures for your acquired business — which processes to document first, SOP templates, efficient documentation methods, and maintenance best practices.",
+      "Build standard operating procedures for your acquired business - which processes to document first, SOP templates, efficient documentation methods, and maintenance best practices.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3906,7 +3906,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What is the fastest way to create SOPs?",
         answer:
-          "Use a video-first approach: have the expert perform the task while you record with a tool like Loom. Then transcribe the recording into written steps. This is 3–5x faster than writing from scratch and captures nuances that written documentation often misses.",
+          "Use a video-first approach: have the expert perform the task while you record with a tool like Loom. Then transcribe the recording into written steps. This is 3-5x faster than writing from scratch and captures nuances that written documentation often misses.",
       },
     ],
   },
@@ -3914,7 +3914,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "process-improvement",
     title: "Process Improvement: Lean & Six Sigma for Acquired Companies",
     description:
-      "Apply lean and Six Sigma principles to acquired businesses — value stream mapping, eliminating waste (TIMWOODS), DMAIC framework, and quick-win process improvements.",
+      "Apply lean and Six Sigma principles to acquired businesses - value stream mapping, eliminating waste (TIMWOODS), DMAIC framework, and quick-win process improvements.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3945,7 +3945,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "sales-team-development",
     title: "Sales Team Development Post-Acquisition",
     description:
-      "Build a formal sales function in your acquired business — assess the current state, create a sales process, hire your first rep, and explore new sales channels for 20–40% revenue growth.",
+      "Build a formal sales function in your acquired business - assess the current state, create a sales process, hire your first rep, and explore new sales channels for 20-40% revenue growth.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -3968,7 +3968,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How should I compensate my first sales hire?",
         answer:
-          "Use a base + commission model with a 60/40 or 70/30 split (base/variable). Include a 3–6 month ramp period with a guaranteed minimum. Expect first sale by month 3 and quota attainment by month 6.",
+          "Use a base + commission model with a 60/40 or 70/30 split (base/variable). Include a 3-6 month ramp period with a guaranteed minimum. Expect first sale by month 3 and quota attainment by month 6.",
       },
     ],
   },
@@ -3976,7 +3976,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "marketing-strategy-post-acquisition",
     title: "Marketing Strategy for Acquired Companies",
     description:
-      "Develop a modern marketing strategy for your acquired business — marketing audit, quick-win investments, the rebranding question, and building in-house vs. agency capabilities.",
+      "Develop a modern marketing strategy for your acquired business - marketing audit, quick-win investments, the rebranding question, and building in-house vs. agency capabilities.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4000,7 +4000,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What are the quickest marketing wins after an acquisition?",
         answer:
-          "Website refresh ($3–10K), Google Business Profile optimization (free), Google Ads for high-intent keywords ($500–2K/month), email marketing to your customer list, and a systematic review generation process. These typically show results within 30–90 days.",
+          "Website refresh ($3-10K), Google Business Profile optimization (free), Google Ads for high-intent keywords ($500-2K/month), email marketing to your customer list, and a systematic review generation process. These typically show results within 30-90 days.",
       },
     ],
   },
@@ -4008,7 +4008,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "geographic-expansion",
     title: "Geographic Expansion After Acquisition",
     description:
-      "Expand your acquired business into new markets — organic expansion vs. bolt-on acquisitions, market selection criteria, and practical implementation strategies.",
+      "Expand your acquired business into new markets - organic expansion vs. bolt-on acquisitions, market selection criteria, and practical implementation strategies.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4018,18 +4018,18 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Outcomes Study — Geographic Expansion Timing", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Outcomes Study - Geographic Expansion Timing", year: 2024 },
     ],
     faqs: [
       {
         question: "When should I expand geographically after an acquisition?",
         answer:
-          "Don't expand until your home market operations are stable and standardized, you've captured significant market share locally, and your service model is repeatable. Most search fund CEOs should wait at least 12–18 months before geographic expansion.",
+          "Don't expand until your home market operations are stable and standardized, you've captured significant market share locally, and your service model is repeatable. Most search fund CEOs should wait at least 12-18 months before geographic expansion.",
       },
       {
         question: "Should I open a new office or acquire a competitor in a new market?",
         answer:
-          "Bolt-on acquisitions are faster (instant revenue and customer base) but more complex. Organic expansion is cheaper but slower (12–18 months to profitability). Start with adjacent markets you can serve from your existing base, then consider acquisitions for more distant markets.",
+          "Bolt-on acquisitions are faster (instant revenue and customer base) but more complex. Organic expansion is cheaper but slower (12-18 months to profitability). Start with adjacent markets you can serve from your existing base, then consider acquisitions for more distant markets.",
       },
     ],
   },
@@ -4037,7 +4037,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "cross-selling-upselling",
     title: "Cross-Selling & Upselling in Acquired Companies",
     description:
-      "Increase revenue per customer through cross-selling and upselling — identify opportunities, practical tactics like bundling and tiered plans, and train your team to sell more.",
+      "Increase revenue per customer through cross-selling and upselling - identify opportunities, practical tactics like bundling and tiered plans, and train your team to sell more.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4068,7 +4068,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "strategic-partnerships",
     title: "Strategic Partnerships & Channel Development",
     description:
-      "Build strategic partnerships for your acquired business — referral partnerships, channel partnerships, co-delivery, vendor relationships, and structuring partner agreements.",
+      "Build strategic partnerships for your acquired business - referral partnerships, channel partnerships, co-delivery, vendor relationships, and structuring partner agreements.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4086,7 +4086,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of partnership should I start with?",
         answer:
-          "Start with referral partnerships — they're the lowest cost and lowest complexity option. Two complementary businesses simply refer customers to each other, often with a referral fee of 5–15% of first contract value. Graduate to deeper partnerships as trust builds.",
+          "Start with referral partnerships - they're the lowest cost and lowest complexity option. Two complementary businesses simply refer customers to each other, often with a referral fee of 5-15% of first contract value. Graduate to deeper partnerships as trust builds.",
       },
       {
         question: "How do I find the right strategic partners?",
@@ -4099,7 +4099,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "preparing-company-exit",
     title: "Exit Preparation Checklist: Getting Your Business Sale-Ready",
     description:
-      "Start preparing your company for sale 18 months in advance — clean up financials, reduce owner dependency, demonstrate growth, and assemble your advisory team.",
+      "Start preparing your company for sale 18 months in advance - clean up financials, reduce owner dependency, demonstrate growth, and assemble your advisory team.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4117,7 +4117,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How far in advance should I prepare for an exit?",
         answer:
-          "Start 18–24 months before your target sale date. The first 6 months focus on cleaning up financials and reducing owner dependency. Months 7–12 focus on value enhancement. Months 13–18 are the go-to-market phase with investment banker engagement.",
+          "Start 18-24 months before your target sale date. The first 6 months focus on cleaning up financials and reducing owner dependency. Months 7-12 focus on value enhancement. Months 13-18 are the go-to-market phase with investment banker engagement.",
       },
       {
         question: "What kills deals during the exit process?",
@@ -4130,7 +4130,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "dividend-recapitalization",
     title: "Dividend Recapitalization: Returning Capital Without Selling",
     description:
-      "Understand dividend recapitalizations — how they work, when they make sense, typical structures, and risks for search fund companies seeking to return capital without a full exit.",
+      "Understand dividend recapitalizations - how they work, when they make sense, typical structures, and risks for search fund companies seeking to return capital without a full exit.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4140,7 +4140,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Study — Dividend Recapitalizations", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Study - Dividend Recapitalizations", year: 2024 },
       { name: "Harvard Business Review", title: "Recapitalization Strategies for Private Companies", year: 2024 },
       { name: "Bain & Company", title: "The Economics of Dividend Recaps in Mid-Market M&A", year: 2024 },
     ],
@@ -4153,12 +4153,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "When does a dividend recap make sense for a search fund?",
         answer:
-          "A recap makes sense when the business has strong, stable cash flow (2.0x+ debt service coverage), investors need partial liquidity, and the CEO believes the business will be worth significantly more in 2–3 years. Typical leverage is 3–4x EBITDA with 1–2x returned as dividend. Most recaps occur 3–5 years post-acquisition.",
+          "A recap makes sense when the business has strong, stable cash flow (2.0x+ debt service coverage), investors need partial liquidity, and the CEO believes the business will be worth significantly more in 2-3 years. Typical leverage is 3-4x EBITDA with 1-2x returned as dividend. Most recaps occur 3-5 years post-acquisition.",
       },
       {
         question: "How is a dividend recapitalization taxed?",
         answer:
-          "In the US, dividends from a recap are generally taxed as qualified dividends at long-term capital gains rates (0–20%) if equity has been held for more than one year. The new debt proceeds are not taxable income to the company, and interest payments are generally tax-deductible, subject to interest deduction limitations.",
+          "In the US, dividends from a recap are generally taxed as qualified dividends at long-term capital gains rates (0-20%) if equity has been held for more than one year. The new debt proceeds are not taxable income to the company, and interest payments are generally tax-deductible, subject to interest deduction limitations.",
       },
     ],
   },
@@ -4166,7 +4166,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "secondary-sales",
     title: "Secondary Sales: Selling to Another PE Firm or Search Fund",
     description:
-      "Sell your search fund company to a PE firm, independent sponsor, or second-generation search fund — why secondary sales are common, what buyers look for, and CEO role post-sale.",
+      "Sell your search fund company to a PE firm, independent sponsor, or second-generation search fund - why secondary sales are common, what buyers look for, and CEO role post-sale.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4185,12 +4185,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What multiple can I expect from a PE buyer?",
         answer:
-          "Well-run search fund companies in the $3–15M EBITDA range typically sell for 5–8x EBITDA to PE buyers. The multiple depends on growth trajectory, recurring revenue, management team strength, and consolidation potential in your industry.",
+          "Well-run search fund companies in the $3-15M EBITDA range typically sell for 5-8x EBITDA to PE buyers. The multiple depends on growth trajectory, recurring revenue, management team strength, and consolidation potential in your industry.",
       },
       {
         question: "Will I need to stay after selling to a PE firm?",
         answer:
-          "Most PE buyers want the CEO to stay for 2–3 years to accelerate growth with additional capital. You'll typically be asked to roll over 20–40% of your equity, giving you a 'second bite at the apple' when the PE firm eventually exits.",
+          "Most PE buyers want the CEO to stay for 2-3 years to accelerate growth with additional capital. You'll typically be asked to roll over 20-40% of your equity, giving you a 'second bite at the apple' when the PE firm eventually exits.",
       },
     ],
   },
@@ -4198,7 +4198,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "sell-side-earnout",
     title: "Earnout Structures on the Sell Side: When You're the Seller",
     description:
-      "Protect your interests when a buyer proposes an earnout — which metrics to accept vs. avoid, key negotiation points, control provisions, and acceleration clauses.",
+      "Protect your interests when a buyer proposes an earnout - which metrics to accept vs. avoid, key negotiation points, control provisions, and acceleration clauses.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4210,7 +4210,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "SRS Acquiom", title: "2024 Deal Terms Study", year: 2024 },
       { name: "American Bar Association", title: "EBITDA-Based Earnout Dispute Study", year: 2023 },
-      { name: "IRS", title: "IRC Section 453 — Installment Sales", year: 2024 },
+      { name: "IRS", title: "IRC Section 453 - Installment Sales", year: 2024 },
       { name: "American Bar Association", title: "Private Target Mergers and Acquisitions Deal Points Study", year: 2023 },
     ],
     faqs: [
@@ -4222,7 +4222,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How long should a sell-side earnout last?",
         answer:
-          "Push for 12–18 months maximum. Longer earnout periods give the buyer more opportunities to change the business in ways that undermine your targets. Include acceleration clauses so your full earnout is paid immediately if the buyer resells the business.",
+          "Push for 12-18 months maximum. Longer earnout periods give the buyer more opportunities to change the business in ways that undermine your targets. Include acceleration clauses so your full earnout is paid immediately if the buyer resells the business.",
       },
     ],
   },
@@ -4230,7 +4230,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "ceo-board-transition",
     title: "CEO-to-Board Transition: Life After Exiting Your Acquisition",
     description:
-      "Navigate the emotional and practical transition after exiting your search fund company — identity shift, common post-exit paths, and practical tips for life after being CEO.",
+      "Navigate the emotional and practical transition after exiting your search fund company - identity shift, common post-exit paths, and practical tips for life after being CEO.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4253,7 +4253,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How long should I take off after an exit?",
         answer:
-          "Take at least 3–6 months before committing to your next venture. The emotional transition is harder than expected — identity loss, purpose vacuum, and anti-climax are normal. Don't make major financial decisions in the first 6 months either.",
+          "Take at least 3-6 months before committing to your next venture. The emotional transition is harder than expected - identity loss, purpose vacuum, and anti-climax are normal. Don't make major financial decisions in the first 6 months either.",
       },
     ],
   },
@@ -4261,7 +4261,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "ceo-performance-review",
     title: "Search Fund CEO Performance Reviews: Board Best Practices",
     description:
-      "Implement effective CEO performance reviews in search fund companies — a balanced framework covering financial performance, strategy, people, and board relations.",
+      "Implement effective CEO performance reviews in search fund companies - a balanced framework covering financial performance, strategy, people, and board relations.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4279,7 +4279,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How should a search fund board evaluate the CEO?",
         answer:
-          "Use a balanced framework: financial performance (40% — revenue growth, EBITDA, cash flow), strategic execution (25% — initiative progress, market positioning), people & organization (20% — team development, retention), and board relations (15% — reporting quality, transparency).",
+          "Use a balanced framework: financial performance (40% - revenue growth, EBITDA, cash flow), strategic execution (25% - initiative progress, market positioning), people & organization (20% - team development, retention), and board relations (15% - reporting quality, transparency).",
       },
       {
         question: "What is the best process for a CEO performance review?",
@@ -4292,7 +4292,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "monthly-board-package",
     title: "Monthly Board Package: Templates & Best Practices",
     description:
-      "Build an effective monthly board package — CEO letter, financial summary, KPI dashboard, strategic initiatives, and best practices for keeping your board informed.",
+      "Build an effective monthly board package - CEO letter, financial summary, KPI dashboard, strategic initiatives, and best practices for keeping your board informed.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -4315,12 +4315,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What should be in a monthly board package?",
         answer:
-          "Five components: (1) CEO letter — 1-page narrative of the month with top 3 priorities; (2) Financial summary — P&L vs. budget/prior year, cash position, debt; (3) KPI dashboard — 5–10 operational metrics with trends; (4) Strategic initiatives update; (5) People update (quarterly).",
+          "Five components: (1) CEO letter - 1-page narrative of the month with top 3 priorities; (2) Financial summary - P&L vs. budget/prior year, cash position, debt; (3) KPI dashboard - 5-10 operational metrics with trends; (4) Strategic initiatives update; (5) People update (quarterly).",
       },
       {
         question: "How long should a board package be?",
         answer:
-          "Under 10 pages. Concision forces clarity and ensures directors actually read it. Send 3–5 days before the board meeting to give directors time to prepare questions.",
+          "Under 10 pages. Concision forces clarity and ensures directors actually read it. Send 3-5 days before the board meeting to give directors time to prepare questions.",
       },
     ],
   },
@@ -4328,13 +4328,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "investor-update-templates",
     title: "Investor Update Templates for Search Fund CEOs",
     description:
-      "Send effective investor updates — templates for search phase and post-acquisition, update frequency guidelines, common mistakes, and how to engage investors as advisors.",
+      "Send effective investor updates - templates for search phase and post-acquisition, update frequency guidelines, common mistakes, and how to engage investors as advisors.",
     readTime: "10 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Investor Update Templates for Search Funds | Communication Guide",
     ogDescription:
-      "Templates and best practices for search fund investor updates. Monthly during search and year 1, quarterly after. Keep it to 1–2 pages with one specific ask.",
+      "Templates and best practices for search fund investor updates. Monthly during search and year 1, quarterly after. Keep it to 1-2 pages with one specific ask.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4355,7 +4355,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What makes a good investor update?",
         answer:
-          "Keep it to 1–2 pages with: opening summary, 5–7 financial highlights (actual vs. budget), 2–3 key wins, 1–2 challenges (be transparent), top 3 priorities for next month, and one specific ask. Investors want to help — give them a way to contribute.",
+          "Keep it to 1-2 pages with: opening summary, 5-7 financial highlights (actual vs. budget), 2-3 key wins, 1-2 challenges (be transparent), top 3 priorities for next month, and one specific ask. Investors want to help - give them a way to contribute.",
       },
     ],
   },
@@ -4363,13 +4363,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "investment-banker-exit",
     title: "How to Select & Work with an Investment Banker for Your Exit",
     description:
-      "Choose the right investment banker for your exit — selection criteria, fee structures, the sell-side process timeline, and how to manage the advisor relationship effectively.",
+      "Choose the right investment banker for your exit - selection criteria, fee structures, the sell-side process timeline, and how to manage the advisor relationship effectively.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Selecting an Investment Banker for Your Exit | M&A Advisor Guide",
     ogDescription:
-      "Choose the right M&A advisor: industry expertise, size fit, fee structures (3–5% success fee), and the 6–9 month sell-side process timeline.",
+      "Choose the right M&A advisor: industry expertise, size fit, fee structures (3-5% success fee), and the 6-9 month sell-side process timeline.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4381,12 +4381,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How much does an investment banker charge for an exit?",
         answer:
-          "Typical fees for sub-$25M transactions: 3–5% success fee on transaction value, plus a monthly retainer of $10–25K (often credited against the success fee). Most bankers have a minimum fee of $150–500K. The tail provision means the banker earns fees on sales to introduced buyers for 12–24 months after engagement ends.",
+          "Typical fees for sub-$25M transactions: 3-5% success fee on transaction value, plus a monthly retainer of $10-25K (often credited against the success fee). Most bankers have a minimum fee of $150-500K. The tail provision means the banker earns fees on sales to introduced buyers for 12-24 months after engagement ends.",
       },
       {
         question: "When should I engage an investment banker?",
         answer:
-          "Engage 6–9 months before your target close date. The sell-side process takes 6–9 months: 4–6 weeks preparation, 4–6 weeks marketing, 3–4 weeks first round, 2–3 weeks management presentations, 3–4 weeks final bids, and 6–10 weeks due diligence and closing.",
+          "Engage 6-9 months before your target close date. The sell-side process takes 6-9 months: 4-6 weeks preparation, 4-6 weeks marketing, 3-4 weeks first round, 2-3 weeks management presentations, 3-4 weeks final bids, and 6-10 weeks due diligence and closing.",
       },
     ],
   },
@@ -4394,7 +4394,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "government-acquisition-financing",
     title: "Government-Backed Loans & Grants for Business Acquisitions",
     description:
-      "Compare government-backed acquisition financing programs worldwide — SBA (US), BDC (Canada), KfW (Germany), Bpifrance (France), British Business Bank (UK), and more.",
+      "Compare government-backed acquisition financing programs worldwide - SBA (US), BDC (Canada), KfW (Germany), Bpifrance (France), British Business Bank (UK), and more.",
     readTime: "11 min read",
     tag: "Financing",
     category: "Legal & Tax",
@@ -4412,7 +4412,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Which country has the best government financing for acquisitions?",
         answer:
-          "The US SBA 7(a) program is the most established, offering up to $5M with 10–20% equity requirement. European programs like Germany's KfW and France's Bpifrance often offer even more favorable terms including 70–80% loan guarantees and subsidized interest rates.",
+          "The US SBA 7(a) program is the most established, offering up to $5M with 10-20% equity requirement. European programs like Germany's KfW and France's Bpifrance often offer even more favorable terms including 70-80% loan guarantees and subsidized interest rates.",
       },
       {
         question: "Can foreign buyers access government acquisition financing?",
@@ -4425,7 +4425,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "tax-friendliest-countries",
     title: "Tax-Friendliest Countries for Business Acquisitions",
     description:
-      "Compare tax environments across major jurisdictions — corporate rates, goodwill amortization, capital gains treatment, and holding company structures for business acquisitions.",
+      "Compare tax environments across major jurisdictions - corporate rates, goodwill amortization, capital gains treatment, and holding company structures for business acquisitions.",
     readTime: "11 min read",
     tag: "Legal & Tax",
     category: "Legal & Tax",
@@ -4443,12 +4443,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Which country has the lowest corporate tax for acquired businesses?",
         answer:
-          "Ireland at 12.5% on trading income is one of the lowest in the OECD. Switzerland varies by canton (11–21%). The UK is 25% but with generous reliefs. The US is 21% federal plus state taxes. However, effective rates depend on goodwill amortization, interest deductibility, and other factors.",
+          "Ireland at 12.5% on trading income is one of the lowest in the OECD. Switzerland varies by canton (11-21%). The UK is 25% but with generous reliefs. The US is 21% federal plus state taxes. However, effective rates depend on goodwill amortization, interest deductibility, and other factors.",
       },
       {
         question: "Should tax drive my acquisition country decision?",
         answer:
-          "Tax should inform but not drive acquisition decisions. Operational factors — market size, deal flow, management talent, and industry dynamics — matter more. Work with local tax advisors to optimize the structure within your chosen jurisdiction.",
+          "Tax should inform but not drive acquisition decisions. Operational factors - market size, deal flow, management talent, and industry dynamics - matter more. Work with local tax advisors to optimize the structure within your chosen jurisdiction.",
       },
     ],
   },
@@ -4456,13 +4456,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "veterinary-practice-acquisition",
     title: "Acquiring a Veterinary Practice",
     description:
-      "Acquire a veterinary practice — ownership structures, due diligence on revenue per DVM, wellness plan strategies, and the rollup opportunity in a $140B+ pet economy.",
+      "Acquire a veterinary practice - ownership structures, due diligence on revenue per DVM, wellness plan strategies, and the rollup opportunity in a $140B+ pet economy.",
     readTime: "11 min read",
     tag: "Industry Playbook",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Veterinary Practice | Search Fund Guide",
     ogDescription:
-      "The vet practice acquisition opportunity: $140B pet economy, recurring wellness revenue, management company structures, and 5–8x solo vs. 12–18x platform multiples.",
+      "The vet practice acquisition opportunity: $140B pet economy, recurring wellness revenue, management company structures, and 5-8x solo vs. 12-18x platform multiples.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4479,12 +4479,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What EBITDA multiples do veterinary practices trade at?",
         answer:
-          "Solo and small veterinary practices typically sell at 5–8x EBITDA, while multi-location platforms command 12–18x EBITDA from corporate consolidators like Mars Veterinary Health and NVA. This arbitrage is the core value creation thesis for search fund operators pursuing a buy-and-build strategy.",
+          "Solo and small veterinary practices typically sell at 5-8x EBITDA, while multi-location platforms command 12-18x EBITDA from corporate consolidators like Mars Veterinary Health and NVA. This arbitrage is the core value creation thesis for search fund operators pursuing a buy-and-build strategy.",
       },
       {
         question: "How do wellness plans improve practice economics?",
         answer:
-          "Wellness plans increase client compliance with preventive visits (from roughly 50% to 85%+), create predictable monthly recurring revenue, and dramatically improve client retention — clients on plans visit 2–3x more often and are far less likely to switch practices. Practices with well-designed wellness plans typically see 20–30% higher annual client spend.",
+          "Wellness plans increase client compliance with preventive visits (from roughly 50% to 85%+), create predictable monthly recurring revenue, and dramatically improve client retention - clients on plans visit 2-3x more often and are far less likely to switch practices. Practices with well-designed wellness plans typically see 20-30% higher annual client spend.",
       },
     ],
   },
@@ -4492,7 +4492,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "plumbing-acquisition",
     title: "Acquiring a Plumbing Business",
     description:
-      "Acquire a plumbing business — licensing requirements, service vs. construction revenue mix, flat-rate pricing, and growth through multi-trade expansion.",
+      "Acquire a plumbing business - licensing requirements, service vs. construction revenue mix, flat-rate pricing, and growth through multi-trade expansion.",
     readTime: "11 min read",
     tag: "Industry Playbook",
     category: "Industry Playbooks",
@@ -4510,12 +4510,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What is the most important due diligence item for plumbing businesses?",
         answer:
-          "Licensing. Verify who holds the master plumber license — if it's the departing owner, you need a licensed replacement before closing. Master plumber licenses take years to obtain and are non-transferable, making them both a risk and a competitive moat.",
+          "Licensing. Verify who holds the master plumber license - if it's the departing owner, you need a licensed replacement before closing. Master plumber licenses take years to obtain and are non-transferable, making them both a risk and a competitive moat.",
       },
       {
         question: "How do I improve margins in a plumbing business?",
         answer:
-          "Implement flat-rate pricing books (instead of time-and-materials billing), which typically increase average tickets by 20–30%. Add service agreements for water heater maintenance and drain cleaning. Water treatment systems (filtration, softeners) are high-margin upsells on every service call.",
+          "Implement flat-rate pricing books (instead of time-and-materials billing), which typically increase average tickets by 20-30%. Add service agreements for water heater maintenance and drain cleaning. Water treatment systems (filtration, softeners) are high-margin upsells on every service call.",
       },
     ],
   },
@@ -4523,7 +4523,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "landscaping-acquisition",
     title: "Acquiring a Landscaping & Lawn Care Business",
     description:
-      "Acquire a landscaping business — maintenance contract base, seasonal revenue diversification (snow, lighting), labor management, and route density optimization.",
+      "Acquire a landscaping business - maintenance contract base, seasonal revenue diversification (snow, lighting), labor management, and route density optimization.",
     readTime: "11 min read",
     tag: "Industry Playbook",
     category: "Industry Playbooks",
@@ -4546,7 +4546,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How do I reduce seasonality in a landscaping business?",
         answer:
-          "Add year-round services: snow removal and ice management (winter), holiday lighting installation (fall/winter), and irrigation winterization/spring startup. These transform a 7–8 month seasonal business into a 12-month operation and significantly improve cash flow predictability.",
+          "Add year-round services: snow removal and ice management (winter), holiday lighting installation (fall/winter), and irrigation winterization/spring startup. These transform a 7-8 month seasonal business into a 12-month operation and significantly improve cash flow predictability.",
       },
     ],
   },
@@ -4554,11 +4554,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "it-services-acquisition",
     title: "Acquiring an IT Services & Consulting Firm",
     description:
-      "A complete guide to acquiring IT services companies including MSPs, consulting firms, systems integrators, and cybersecurity firms — recurring revenue, due diligence priorities, and growth strategies.",
+      "A complete guide to acquiring IT services companies including MSPs, consulting firms, systems integrators, and cybersecurity firms - recurring revenue, due diligence priorities, and growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring an IT Services & Consulting Firm — Search Fund Guide",
+    ogTitle: "Acquiring an IT Services & Consulting Firm - Search Fund Guide",
     ogDescription:
       "How to evaluate, acquire, and grow IT services companies: MSPs, consulting, cybersecurity, and cloud services.",
     datePublished: "2025-06-14",
@@ -4572,7 +4572,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What makes IT services businesses attractive for search fund acquisitions?",
         answer:
-          "IT services businesses offer 60–80% recurring revenue through managed services contracts, EBITDA margins of 15–25%, low capex requirements, sticky customers with 90%+ retention, and a highly fragmented market with thousands of small firms ripe for consolidation.",
+          "IT services businesses offer 60-80% recurring revenue through managed services contracts, EBITDA margins of 15-25%, low capex requirements, sticky customers with 90%+ retention, and a highly fragmented market with thousands of small firms ripe for consolidation.",
       },
       {
         question: "What should I look for in due diligence for an MSP acquisition?",
@@ -4585,11 +4585,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "vertical-saas-acquisition",
     title: "Acquiring a Vertical SaaS Business",
     description:
-      "How to evaluate and acquire vertical SaaS companies — industry-specific software with deep moats, high retention, and embedded payments growth potential.",
+      "How to evaluate and acquire vertical SaaS companies - industry-specific software with deep moats, high retention, and embedded payments growth potential.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Vertical SaaS Business — Search Fund Guide",
+    ogTitle: "Acquiring a Vertical SaaS Business - Search Fund Guide",
     ogDescription:
       "Evaluate vertical SaaS acquisitions: NRR, churn analysis, embedded payments, and growth strategies for industry-specific software.",
     datePublished: "2025-06-14",
@@ -4599,7 +4599,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SaaS.wtf", title: "Search Funds in SaaS", url: "https://www.saas.wtf/p/search-funds-saas", year: 2024 },
       { name: "SaaS Capital", title: "Benchmarking Metrics for Bootstrapped SaaS Companies", url: "https://www.saas-capital.com/blog-posts/benchmarking-metrics-for-bootstrapped-saas-companies/", year: 2025 },
       { name: "BCG", title: "Moving Embedded Finance from Promise to Practice", url: "https://www.bcg.com/publications/2025/moving-embedded-finance-from-promise-practice", year: 2025 },
-      { name: "Aventis Advisors", title: "SaaS Valuation Multiples 2024–2026", url: "https://aventis-advisors.com/saas-valuation-multiples/", year: 2024 },
+      { name: "Aventis Advisors", title: "SaaS Valuation Multiples 2024-2026", url: "https://aventis-advisors.com/saas-valuation-multiples/", year: 2024 },
       { name: "Windsor Drake", title: "SaaS Valuation Multiples 2026", url: "https://windsordrake.com/saas-valuation-multiples/", year: 2026 },
       { name: "ChartMogul", title: "SaaS Retention: The New Normal", url: "https://chartmogul.com/reports/saas-retention-the-new-normal/", year: 2024 },
     ],
@@ -4607,12 +4607,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Why is vertical SaaS a compelling acquisition target?",
         answer:
-          "Vertical SaaS creates deep moats through industry-specific workflows and compliance requirements that make switching costly. The best companies achieve 110–130% net revenue retention, face less VC-funded competition due to smaller TAMs, and can add embedded payments for additional margin.",
+          "Vertical SaaS creates deep moats through industry-specific workflows and compliance requirements that make switching costly. The best companies achieve 110-130% net revenue retention, face less VC-funded competition due to smaller TAMs, and can add embedded payments for additional margin.",
       },
       {
         question: "How are vertical SaaS companies valued?",
         answer:
-          "Vertical SaaS companies are typically valued at 4–10x ARR depending on growth rate, net revenue retention, profitability, and market position. Companies with NRR above 110%, gross logo churn under 2%/month, and diversified customer bases command premium multiples.",
+          "Vertical SaaS companies are typically valued at 4-10x ARR depending on growth rate, net revenue retention, profitability, and market position. Companies with NRR above 110%, gross logo churn under 2%/month, and diversified customer bases command premium multiples.",
       },
     ],
   },
@@ -4620,11 +4620,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "amazon-fba-acquisition",
     title: "Acquiring an Amazon FBA Business",
     description:
-      "A practical guide to buying Amazon FBA businesses — due diligence on Seller Central, valuation multiples, platform dependency risks, and post-acquisition diversification strategies.",
+      "A practical guide to buying Amazon FBA businesses - due diligence on Seller Central, valuation multiples, platform dependency risks, and post-acquisition diversification strategies.",
     readTime: "11 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring an Amazon FBA Business — Search Fund Guide",
+    ogTitle: "Acquiring an Amazon FBA Business - Search Fund Guide",
     ogDescription:
       "How to evaluate, value, and acquire Amazon FBA brands: Seller Central due diligence, SDE multiples, and growth strategies.",
     datePublished: "2025-06-14",
@@ -4644,12 +4644,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What are the typical valuation multiples for Amazon FBA businesses?",
         answer:
-          "FBA businesses typically sell for 2.5–4.5x annual SDE (seller's discretionary earnings). Premium factors include multiple products, strong brand, growing trend, 4.5+ star reviews, and diversified traffic. Discounts apply for single-product dependency, declining trends, and heavy platform reliance.",
+          "FBA businesses typically sell for 2.5-4.5x annual SDE (seller's discretionary earnings). Premium factors include multiple products, strong brand, growing trend, 4.5+ star reviews, and diversified traffic. Discounts apply for single-product dependency, declining trends, and heavy platform reliance.",
       },
       {
         question: "What are the biggest risks of acquiring an FBA business?",
         answer:
-          "The main risks are platform dependency (Amazon can change policies or suspend accounts), margin compression from rising Amazon fees (30–45% of sale price), competition from copycat products, review vulnerability, and supply chain risks from Chinese manufacturing.",
+          "The main risks are platform dependency (Amazon can change policies or suspend accounts), margin compression from rising Amazon fees (30-45% of sale price), competition from copycat products, review vulnerability, and supply chain risks from Chinese manufacturing.",
       },
     ],
   },
@@ -4657,11 +4657,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "property-management-acquisition",
     title: "Acquiring a Property Management Company",
     description:
-      "A guide to acquiring property management companies — door count analysis, contract terms, owner retention rates, and buy-and-build consolidation strategies.",
+      "A guide to acquiring property management companies - door count analysis, contract terms, owner retention rates, and buy-and-build consolidation strategies.",
     readTime: "10 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Property Management Company — Search Fund Guide",
+    ogTitle: "Acquiring a Property Management Company - Search Fund Guide",
     ogDescription:
       "How to evaluate and acquire property management firms: recurring revenue, door count metrics, and geographic expansion strategies.",
     datePublished: "2025-06-14",
@@ -4683,12 +4683,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What makes property management attractive for search fund acquisitions?",
         answer:
-          "Property management offers 8–12% recurring monthly management fees tied to long-term contracts, recession resilience (rental demand increases during downturns), low capex requirements, and a highly fragmented market with over 300,000 firms — most managing fewer than 500 units.",
+          "Property management offers 8-12% recurring monthly management fees tied to long-term contracts, recession resilience (rental demand increases during downturns), low capex requirements, and a highly fragmented market with over 300,000 firms - most managing fewer than 500 units.",
       },
       {
         question: "What due diligence metrics matter most for property management companies?",
         answer:
-          "Focus on door count and growth trend, average remaining contract duration, owner retention rate (target 90%+), revenue per door ($100–300/door/month for single-family), in-house vs. outsourced maintenance operations, and technology stack (AppFolio, Buildium, Yardi).",
+          "Focus on door count and growth trend, average remaining contract duration, owner retention rate (target 90%+), revenue per door ($100-300/door/month for single-family), in-house vs. outsourced maintenance operations, and technology stack (AppFolio, Buildium, Yardi).",
       },
     ],
   },
@@ -4696,11 +4696,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "logistics-transportation-acquisition",
     title: "Acquiring a Logistics & Transportation Company",
     description:
-      "A guide to acquiring logistics and transportation businesses — trucking, freight brokerage, 3PL, and last-mile delivery. Fleet due diligence, driver workforce, and route optimization strategies.",
+      "A guide to acquiring logistics and transportation businesses - trucking, freight brokerage, 3PL, and last-mile delivery. Fleet due diligence, driver workforce, and route optimization strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Logistics & Transportation Company — Search Fund Guide",
+    ogTitle: "Acquiring a Logistics & Transportation Company - Search Fund Guide",
     ogDescription:
       "How to evaluate and acquire logistics businesses: trucking, freight brokerage, 3PL operations, and fleet management strategies.",
     datePublished: "2025-06-14",
@@ -4714,7 +4714,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of logistics business is best for a search fund acquisition?",
         answer:
-          "Freight brokerage (asset-light, 15–25% gross margins) and specialty transport (hazmat, refrigerated, oversized) offer the best margins. Asset-based trucking provides more defensibility but requires significant capital for fleet maintenance and replacement.",
+          "Freight brokerage (asset-light, 15-25% gross margins) and specialty transport (hazmat, refrigerated, oversized) offer the best margins. Asset-based trucking provides more defensibility but requires significant capital for fleet maintenance and replacement.",
       },
       {
         question: "What are the most critical due diligence areas for a trucking company?",
@@ -4727,11 +4727,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "construction-acquisition",
     title: "Acquiring a Construction Company",
     description:
-      "How to acquire a construction company — general contractors, specialty trades, and construction services. Backlog analysis, bonding capacity, and post-acquisition growth strategies.",
+      "How to acquire a construction company - general contractors, specialty trades, and construction services. Backlog analysis, bonding capacity, and post-acquisition growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Construction Company — Search Fund Guide",
+    ogTitle: "Acquiring a Construction Company - Search Fund Guide",
     ogDescription:
       "Evaluate construction acquisitions: backlog analysis, bonding capacity, project profitability, and specialty contractor growth strategies.",
     datePublished: "2025-06-14",
@@ -4745,12 +4745,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of construction company is best for a search fund acquisition?",
         answer:
-          "Specialty contractors (electrical, plumbing, HVAC, concrete) offer better margins (8–15% EBITDA) and recurring service revenue compared to general contractors (3–8%). They also typically require lower bonding and carry less project risk.",
+          "Specialty contractors (electrical, plumbing, HVAC, concrete) offer better margins (8-15% EBITDA) and recurring service revenue compared to general contractors (3-8%). They also typically require lower bonding and carry less project risk.",
       },
       {
         question: "What are the biggest risks in acquiring a construction company?",
         answer:
-          "Project concentration (one large project going bad), pending litigation and warranty claims, bonding capacity limits, and workforce retention are the primary risks. Bonding capacity is especially critical — it determines your ability to bid on commercial projects.",
+          "Project concentration (one large project going bad), pending litigation and warranty claims, bonding capacity limits, and workforce retention are the primary risks. Bonding capacity is especially critical - it determines your ability to bid on commercial projects.",
       },
     ],
   },
@@ -4758,11 +4758,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "waste-management-acquisition",
     title: "Acquiring a Waste Management & Recycling Business",
     description:
-      "A complete guide to acquiring waste management businesses — collection routes, transfer stations, recycling operations. Route density economics, fleet management, and consolidation strategies.",
+      "A complete guide to acquiring waste management businesses - collection routes, transfer stations, recycling operations. Route density economics, fleet management, and consolidation strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Waste Management & Recycling Business — Search Fund Guide",
+    ogTitle: "Acquiring a Waste Management & Recycling Business - Search Fund Guide",
     ogDescription:
       "How to evaluate waste collection businesses: route density, fleet condition, environmental compliance, and roll-up strategies.",
     datePublished: "2025-06-14",
@@ -4776,7 +4776,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Why is waste management considered recession-proof?",
         answer:
-          "Trash collection is mandatory — businesses and residents must dispose of waste regardless of economic conditions. During the 2008–2009 recession, waste industry revenue declined less than 3%. Over 90% of revenue is subscription/contract-based with monthly billing and CPI-linked price escalators, providing built-in inflation protection.",
+          "Trash collection is mandatory - businesses and residents must dispose of waste regardless of economic conditions. During the 2008-2009 recession, waste industry revenue declined less than 3%. Over 90% of revenue is subscription/contract-based with monthly billing and CPI-linked price escalators, providing built-in inflation protection.",
       },
       {
         question: "What is route density and why does it matter?",
@@ -4786,7 +4786,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How much does a refuse truck cost and how does fleet capex work?",
         answer:
-          "New refuse trucks cost $300,000–$400,000 each with a useful life of 8–12 years. Fleet replacement is the single largest capital expenditure. During due diligence, assess average fleet age, maintenance records, and upcoming replacement needs — an aging fleet may require $500K–$1M+ in near-term capex.",
+          "New refuse trucks cost $300,000-$400,000 each with a useful life of 8-12 years. Fleet replacement is the single largest capital expenditure. During due diligence, assess average fleet age, maintenance records, and upcoming replacement needs - an aging fleet may require $500K-$1M+ in near-term capex.",
       },
     ],
   },
@@ -4794,11 +4794,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "distribution-wholesale-acquisition",
     title: "Acquiring a Distribution & Wholesale Business",
     description:
-      "How to acquire distribution and wholesale businesses — industrial, building materials, medical, and specialty products. Inventory management, supplier relationships, and e-commerce growth strategies.",
+      "How to acquire distribution and wholesale businesses - industrial, building materials, medical, and specialty products. Inventory management, supplier relationships, and e-commerce growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Distribution & Wholesale Business — Search Fund Guide",
+    ogTitle: "Acquiring a Distribution & Wholesale Business - Search Fund Guide",
     ogDescription:
       "Evaluate distribution acquisitions: supplier relationships, inventory management, working capital, and value-added services strategies.",
     datePublished: "2025-06-14",
@@ -4812,7 +4812,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What makes distribution businesses sticky for customers?",
         answer:
-          "B2B distribution relationships last decades because switching is disruptive and risky. Customers depend on distributors for product availability, credit terms, delivery reliability, and technical knowledge. 70–85% of revenue is typically repeat business from existing customers.",
+          "B2B distribution relationships last decades because switching is disruptive and risky. Customers depend on distributors for product availability, credit terms, delivery reliability, and technical knowledge. 70-85% of revenue is typically repeat business from existing customers.",
       },
       {
         question: "What is the biggest challenge in acquiring a distribution business?",
@@ -4825,11 +4825,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "restaurant-acquisition",
     title: "Acquiring a Restaurant or Food Service Business",
     description:
-      "A guide to acquiring restaurants and food service businesses — multi-unit concepts, catering, food service management. Unit economics, lease analysis, and operational scalability.",
+      "A guide to acquiring restaurants and food service businesses - multi-unit concepts, catering, food service management. Unit economics, lease analysis, and operational scalability.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Restaurant or Food Service Business — Search Fund Guide",
+    ogTitle: "Acquiring a Restaurant or Food Service Business - Search Fund Guide",
     ogDescription:
       "How to evaluate restaurant acquisitions: unit economics, lease terms, management depth, and multi-unit growth strategies.",
     datePublished: "2025-06-14",
@@ -4843,12 +4843,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of restaurant business is best for a search fund acquisition?",
         answer:
-          "Multi-unit concepts (3–10+ locations) with proven unit economics and replicable systems, catering companies with recurring corporate clients, and food service management businesses with B2B contracts offer the best risk-adjusted returns. Avoid single-location full-service restaurants and chef-dependent fine dining.",
+          "Multi-unit concepts (3-10+ locations) with proven unit economics and replicable systems, catering companies with recurring corporate clients, and food service management businesses with B2B contracts offer the best risk-adjusted returns. Avoid single-location full-service restaurants and chef-dependent fine dining.",
       },
       {
         question: "What are the most critical metrics in restaurant due diligence?",
         answer:
-          "Unit economics: food cost (target 28–32% of revenue), labor cost (25–30%), and 4-wall EBITDA per location. Lease terms: remaining duration, renewal options, and rent under 8% of revenue. Same-store sales trends: declining same-store sales is the biggest red flag.",
+          "Unit economics: food cost (target 28-32% of revenue), labor cost (25-30%), and 4-wall EBITDA per location. Lease terms: remaining duration, renewal options, and rent under 8% of revenue. Same-store sales trends: declining same-store sales is the biggest red flag.",
       },
     ],
   },
@@ -4856,11 +4856,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "franchise-acquisition",
     title: "Acquiring a Franchise Business (Multi-Unit)",
     description:
-      "How to acquire multi-unit franchise operations — franchise agreement analysis, franchisor approval, unit-level economics, development rights, and growth through new units and tuck-in acquisitions.",
+      "How to acquire multi-unit franchise operations - franchise agreement analysis, franchisor approval, unit-level economics, development rights, and growth through new units and tuck-in acquisitions.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Franchise Business (Multi-Unit) — Search Fund Guide",
+    ogTitle: "Acquiring a Franchise Business (Multi-Unit) - Search Fund Guide",
     ogDescription:
       "Evaluate multi-unit franchise acquisitions: franchise agreements, unit economics, development rights, and territory expansion strategies.",
     datePublished: "2025-06-14",
@@ -4874,12 +4874,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What should I know about franchisor approval for franchise acquisitions?",
         answer:
-          "Most franchise agreements require franchisor consent for ownership transfers. Start the relationship early and understand their buyer requirements — financial qualifications, operational experience, and development commitments. Franchisor approval can take 30–90 days and may include additional conditions.",
+          "Most franchise agreements require franchisor consent for ownership transfers. Start the relationship early and understand their buyer requirements - financial qualifications, operational experience, and development commitments. Franchisor approval can take 30-90 days and may include additional conditions.",
       },
       {
         question: "What are development rights and why do they matter?",
         answer:
-          "Development rights give you the exclusive right to open additional franchise locations within a defined territory and timeline. They're a key driver of long-term value creation — the ability to grow by adding units with proven economics. Without development rights, your growth is limited to operational improvements and tuck-in acquisitions.",
+          "Development rights give you the exclusive right to open additional franchise locations within a defined territory and timeline. They're a key driver of long-term value creation - the ability to grow by adding units with proven economics. Without development rights, your growth is limited to operational improvements and tuck-in acquisitions.",
       },
     ],
   },
@@ -4887,11 +4887,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "retail-acquisition",
     title: "Acquiring a Retail Business",
     description:
-      "How to acquire retail businesses — specialty stores, service-attached retail, multi-location chains, and omnichannel models. Same-store sales, lease analysis, and e-commerce growth strategies.",
+      "How to acquire retail businesses - specialty stores, service-attached retail, multi-location chains, and omnichannel models. Same-store sales, lease analysis, and e-commerce growth strategies.",
     readTime: "11 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Retail Business — Search Fund Guide",
+    ogTitle: "Acquiring a Retail Business - Search Fund Guide",
     ogDescription:
       "Evaluate retail acquisitions: same-store sales, gross margins, lease terms, and omnichannel strategies for specialty and multi-unit retail.",
     datePublished: "2025-06-14",
@@ -4900,7 +4900,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Retail Brew", title: "Why Specialized Brick-and-Mortar Retailers Struggled in 2025", url: "https://www.retailbrew.com/stories/2025/12/09/why-specialized-brick-and-mortar-retailers-struggled-in-2025", year: 2025 },
       { name: "PYMNTS", title: "Karen Webster: Trends in eCommerce", url: "https://www.pymnts.com/whats-trending/2026/karen-webster-trends-ecommerce/", year: 2026 },
       { name: "BizBuySell", title: "Industry Valuation Multiples", url: "https://www.bizbuysell.com/learning-center/industry-valuation-multiples/", year: 2025 },
-      { name: "Sofer Advisors", title: "Retail Company Valuation Multiples — Complete Guide 2026", url: "https://soferadvisors.com/insights/valuation/retail-company-valuation-multiples-complete-guide-2026/", year: 2026 },
+      { name: "Sofer Advisors", title: "Retail Company Valuation Multiples - Complete Guide 2026", url: "https://soferadvisors.com/insights/valuation/retail-company-valuation-multiples-complete-guide-2026/", year: 2026 },
       { name: "NRF", title: "National Retail Security Survey 2023", url: "https://nrf.com/research/national-retail-security-survey-2023", year: 2023 },
       { name: "Coldwell Banker Commercial", title: "Lease Smarter, Earn More: The Ratio That Rules Retail", url: "https://cbccapitaladvisors.com/lease-smarter-earn-more-the-ratio-that-rules-retail/", year: 2025 },
       { name: "Inspirus / BLS", title: "Employee Turnover Statistics", url: "https://www.inspirus.com/blog/employee-turnover-statistics/", year: 2025 },
@@ -4922,11 +4922,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "laundromat-acquisition",
     title: "Acquiring a Laundromat or Laundry Services Business",
     description:
-      "A guide to acquiring laundromats and laundry services — self-service, wash-and-fold, and commercial laundry. Machine inventory, lease terms, revenue verification, and technology modernization.",
+      "A guide to acquiring laundromats and laundry services - self-service, wash-and-fold, and commercial laundry. Machine inventory, lease terms, revenue verification, and technology modernization.",
     readTime: "11 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Laundromat or Laundry Services Business — Search Fund Guide",
+    ogTitle: "Acquiring a Laundromat or Laundry Services Business - Search Fund Guide",
     ogDescription:
       "How to evaluate laundromat acquisitions: machine inventory, revenue verification, utility costs, and growth through technology modernization.",
     datePublished: "2025-06-14",
@@ -4944,12 +4944,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How do I verify revenue for a cash-based laundromat?",
         answer:
-          "Use water utility usage trends to validate reported revenue — there's a direct correlation between water consumption and laundry cycles. Compare monthly water bills to reported revenue over 24+ months. Also review card/app payment data if available, machine counter readings, and bank deposits.",
+          "Use water utility usage trends to validate reported revenue - there's a direct correlation between water consumption and laundry cycles. Compare monthly water bills to reported revenue over 24+ months. Also review card/app payment data if available, machine counter readings, and bank deposits.",
       },
       {
         question: "What is the fastest way to grow laundromat revenue after acquisition?",
         answer:
-          "Technology modernization — replacing coin-operated machines with card/app payment systems — increases revenue 15–25% through dynamic pricing and eliminates coin handling. Adding wash-and-fold service generates $1.50–2.50/lb vs. $0.50–0.75/lb for self-service, significantly increasing revenue per square foot.",
+          "Technology modernization - replacing coin-operated machines with card/app payment systems - increases revenue 15-25% through dynamic pricing and eliminates coin handling. Adding wash-and-fold service generates $1.50-2.50/lb vs. $0.50-0.75/lb for self-service, significantly increasing revenue per square foot.",
       },
     ],
   },
@@ -4957,11 +4957,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "hotel-hospitality-acquisition",
     title: "Acquiring a Hotel or Hospitality Business",
     description:
-      "How to acquire hotel and hospitality businesses — select-service, extended-stay, boutique, and vacation rental management. RevPAR analysis, PIP requirements, and revenue management strategies.",
+      "How to acquire hotel and hospitality businesses - select-service, extended-stay, boutique, and vacation rental management. RevPAR analysis, PIP requirements, and revenue management strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Hotel or Hospitality Business — Search Fund Guide",
+    ogTitle: "Acquiring a Hotel or Hospitality Business - Search Fund Guide",
     ogDescription:
       "Evaluate hotel acquisitions: RevPAR, ADR, occupancy metrics, franchise PIPs, and revenue management strategies.",
     datePublished: "2025-06-14",
@@ -4994,11 +4994,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "storage-self-storage-acquisition",
     title: "Acquiring a Storage or Self-Storage Facility",
     description:
-      "How to acquire self-storage facilities — traditional, climate-controlled, and vehicle storage. Occupancy analysis, revenue management, supply pipeline, and technology-driven growth strategies.",
+      "How to acquire self-storage facilities - traditional, climate-controlled, and vehicle storage. Occupancy analysis, revenue management, supply pipeline, and technology-driven growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Storage or Self-Storage Facility — Search Fund Guide",
+    ogTitle: "Acquiring a Storage or Self-Storage Facility - Search Fund Guide",
     ogDescription:
       "Evaluate self-storage acquisitions: occupancy metrics, revenue management, new supply risk, and technology modernization strategies.",
     datePublished: "2025-06-14",
@@ -5008,25 +5008,25 @@ export const allArticles: ArticleMeta[] = [
       { name: "Cushman & Wakefield", title: "US Self Storage Market Trends and Sector Outlook", url: "https://www.cushmanwakefield.com/en/united-states/insights/us-self-storage-market-trends-and-sector-outlook", year: 2025 },
       { name: "RentCafe", title: "The 100 Largest Self-Storage Companies in the U.S.", url: "https://www.rentcafe.com/blog/self-storage/the-100-largest-self-storage-companies-in-the-u-s/", year: 2025 },
       { name: "Nareit", title: "Self-Storage REITs See Signs of Stabilizing Fundamentals", url: "https://www.reit.com/news/articles/self-storage-reits-see-signs-of-stabilizing-fundamentals-supply-expected-to-moderate", year: 2025 },
-      { name: "Newmark", title: "2025 Self Storage Almanac — Capitalization Rates", url: "https://www.nmrk.com/storage-nmrk/uploads/documents/2025-Self-Storage-Almanac-Capitalization-Rate.pdf", year: 2025 },
+      { name: "Newmark", title: "2025 Self Storage Almanac - Capitalization Rates", url: "https://www.nmrk.com/storage-nmrk/uploads/documents/2025-Self-Storage-Almanac-Capitalization-Rate.pdf", year: 2025 },
       { name: "SkyView Advisors", title: "Q3 2025 Self Storage Industry Report", url: "https://skyviewadvisors.com/q3-2025-self-storage-industry-report/", year: 2025 },
       { name: "Inside Self-Storage", title: "Essential Steps of the Self-Storage Due Diligence Process", url: "https://www.insideselfstorage.com/self-storage-investing-real-estate/essential-steps-of-the-self-storage-due-diligence-process-plus-important-trends-to-watch", year: 2025 },
       { name: "StorageCafe", title: "Self-Storage Industry Statistics", url: "https://www.storagecafe.com/self-storage-industry-statistics/", year: 2025 },
       { name: "CRE Daily", title: "Self-Storage Occupancy Trends: 2025 Data Insights", url: "https://www.credaily.com/briefs/self-storage-occupancy-trends-2025-data-insights/", year: 2025 },
       { name: "StorTrack", title: "Self-Storage Industry Statistics for 2025", url: "https://www.stortrack.com/news/self-storage-industry-statistics-for-2025/", year: 2025 },
-      { name: "OpenTech Alliance", title: "INSOMNIAC SmartLock — Electronic Locks for Self-Storage", url: "https://opentechalliance.com/solutions/insomniac-smartlock-electronic-locks-for-self-storage/", year: 2025 },
+      { name: "OpenTech Alliance", title: "INSOMNIAC SmartLock - Electronic Locks for Self-Storage", url: "https://opentechalliance.com/solutions/insomniac-smartlock-electronic-locks-for-self-storage/", year: 2025 },
       { name: "SBA.gov", title: "504 Loans", url: "https://www.sba.gov/funding-programs/loans/504-loans", year: 2025 },
     ],
     faqs: [
       {
         question: "Why is self-storage considered recession-resistant?",
         answer:
-          "Self-storage demand increases during both economic downturns (downsizing, relocations, foreclosures) and booms (moves, renovations, business growth). Revenue barely declined during 2008–2009 and the industry grew through COVID-19. With 40–60% operating margins and sticky tenants (average stay 14–15 months), it's one of the most defensive real estate asset classes.",
+          "Self-storage demand increases during both economic downturns (downsizing, relocations, foreclosures) and booms (moves, renovations, business growth). Revenue barely declined during 2008-2009 and the industry grew through COVID-19. With 40-60% operating margins and sticky tenants (average stay 14-15 months), it's one of the most defensive real estate asset classes.",
       },
       {
         question: "What is the biggest value creation lever in self-storage acquisitions?",
         answer:
-          "Revenue management — implementing dynamic pricing and ECRI (existing customer rate increases) — typically delivers 15–25% revenue lift for independently operated facilities. Most independent operators use flat pricing and rarely raise rents on existing tenants, leaving significant upside for sophisticated operators.",
+          "Revenue management - implementing dynamic pricing and ECRI (existing customer rate increases) - typically delivers 15-25% revenue lift for independently operated facilities. Most independent operators use flat pricing and rarely raise rents on existing tenants, leaving significant upside for sophisticated operators.",
       },
     ],
   },
@@ -5034,11 +5034,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "recurring-revenue-businesses",
     title: "Recurring Revenue Businesses: The Most Attractive Verticals",
     description:
-      "A comprehensive guide to the best recurring revenue business models for acquisition — SaaS, managed services, waste management, insurance, and more. Revenue quality tiers, retention benchmarks, and valuation impact.",
+      "A comprehensive guide to the best recurring revenue business models for acquisition - SaaS, managed services, waste management, insurance, and more. Revenue quality tiers, retention benchmarks, and valuation impact.",
     readTime: "13 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Recurring Revenue Businesses: The Most Attractive Verticals — ETA Guide",
+    ogTitle: "Recurring Revenue Businesses: The Most Attractive Verticals - ETA Guide",
     ogDescription:
       "Which industries offer the best recurring revenue for acquisitions? SaaS, MSPs, waste management, insurance, and more ranked by revenue quality.",
     datePublished: "2025-06-14",
@@ -5057,12 +5057,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Which industries have the strongest recurring revenue for ETA?",
         answer:
-          "Tier 1 (80%+ recurring): SaaS, waste management, managed IT services (MSPs), insurance brokerages, and property management. Tier 2 (50–80%): staffing agencies, accounting firms, pest control, HVAC service, and commercial cleaning. Tier 3 (30–50%): dental practices, veterinary practices, marketing agencies, and landscaping.",
+          "Tier 1 (80%+ recurring): SaaS, waste management, managed IT services (MSPs), insurance brokerages, and property management. Tier 2 (50-80%): staffing agencies, accounting firms, pest control, HVAC service, and commercial cleaning. Tier 3 (30-50%): dental practices, veterinary practices, marketing agencies, and landscaping.",
       },
       {
         question: "How does recurring revenue affect business valuation?",
         answer:
-          "Recurring revenue commands significant valuation premiums. Contractual SaaS businesses trade at 4–10x ARR (15–30x EBITDA), managed services at 6–12x EBITDA, and service contract businesses at 5–8x EBITDA. By contrast, project-based businesses typically sell for 3–5x EBITDA. The predictability of cash flow is the primary driver of these multiples.",
+          "Recurring revenue commands significant valuation premiums. Contractual SaaS businesses trade at 4-10x ARR (15-30x EBITDA), managed services at 6-12x EBITDA, and service contract businesses at 5-8x EBITDA. By contrast, project-based businesses typically sell for 3-5x EBITDA. The predictability of cash flow is the primary driver of these multiples.",
       },
     ],
   },
@@ -5070,11 +5070,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "asset-light-vs-asset-heavy",
     title: "Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs",
     description:
-      "A guide to choosing between asset-light and asset-heavy acquisitions — comparing margins, barriers to entry, key-person risk, financing, and scalability across business models.",
+      "A guide to choosing between asset-light and asset-heavy acquisitions - comparing margins, barriers to entry, key-person risk, financing, and scalability across business models.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs — ETA Guide",
+    ogTitle: "Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs - ETA Guide",
     ogDescription:
       "Compare asset-light vs. asset-heavy acquisition targets: margins, barriers, risk profiles, financing, and which model fits your ETA strategy.",
     datePublished: "2025-06-14",
@@ -5088,7 +5088,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What are the key advantages of asset-light businesses for ETA?",
         answer:
-          "Asset-light businesses offer higher margins (20–40% EBITDA), lower financing needs, greater scalability, and higher return on invested capital. However, they carry greater key-person risk since value is tied to people and relationships rather than physical assets.",
+          "Asset-light businesses offer higher margins (20-40% EBITDA), lower financing needs, greater scalability, and higher return on invested capital. However, they carry greater key-person risk since value is tied to people and relationships rather than physical assets.",
       },
       {
         question: "What are the key advantages of asset-heavy businesses for ETA?",
@@ -5101,17 +5101,17 @@ export const allArticles: ArticleMeta[] = [
     slug: "law-firm-acquisition",
     title: "Acquiring a Law Firm or Legal Services Business",
     description:
-      "How to acquire law firms and legal services businesses — navigating non-attorney ownership rules, MSO structures, practice area selection, and attorney retention strategies.",
+      "How to acquire law firms and legal services businesses - navigating non-attorney ownership rules, MSO structures, practice area selection, and attorney retention strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Law Firm or Legal Services Business — Search Fund Guide",
+    ogTitle: "Acquiring a Law Firm or Legal Services Business - Search Fund Guide",
     ogDescription:
       "Navigate law firm acquisitions: non-attorney ownership rules, MSO structures, practice area selection, and attorney retention strategies.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
-      { name: "American Bar Association", title: "Profile of the Legal Profession — TechReport", url: "https://www.americanbar.org/groups/law_practice/publications/techreport/", year: 2024 },
+      { name: "American Bar Association", title: "Profile of the Legal Profession - TechReport", url: "https://www.americanbar.org/groups/law_practice/publications/techreport/", year: 2024 },
       { name: "ABA Law Practice Magazine", title: "Law Firm MSOs Are Ethically Everywhere", url: "https://www.americanbar.org/groups/law_practice/resources/law-practice-magazine/2026/january-february-2026/law-firm-msos-are-ethically-everywhere/", year: 2026 },
       { name: "The Law Practice Exchange", title: "What Makes Personal Injury Law Firms a Unique Buy", url: "https://thelawpracticeexchange.com/what-makes-personal-injury-law-firms-a-unique-and-sometimes-complicated-buy/", year: 2024 },
       { name: "Olmstead & Associates", title: "Succession Planning: Getting Started", url: "https://www.olmsteadassoc.com/resource-center/succession-getting-started/", year: 2024 },
@@ -5130,7 +5130,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of legal practice is best for acquisition?",
         answer:
-          "Estate planning, business law, and immigration practices offer the most predictable, retainer-based revenue. Personal injury offers the highest upside but variable cash flow. Key risk in all legal acquisitions is attorney retention — key attorneys who leave take their clients with them.",
+          "Estate planning, business law, and immigration practices offer the most predictable, retainer-based revenue. Personal injury offers the highest upside but variable cash flow. Key risk in all legal acquisitions is attorney retention - key attorneys who leave take their clients with them.",
       },
     ],
   },
@@ -5138,11 +5138,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "pharmacy-acquisition",
     title: "Acquiring a Pharmacy Business",
     description:
-      "A guide to acquiring pharmacy businesses — community retail, compounding, long-term care, and specialty pharmacy. PBM contracts, generic margins, clinical services, and growth strategies.",
+      "A guide to acquiring pharmacy businesses - community retail, compounding, long-term care, and specialty pharmacy. PBM contracts, generic margins, clinical services, and growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Pharmacy Business — Search Fund Guide",
+    ogTitle: "Acquiring a Pharmacy Business - Search Fund Guide",
     ogDescription:
       "Evaluate pharmacy acquisitions: PBM contract terms, generic vs. brand margins, compounding, and clinical services expansion strategies.",
     datePublished: "2025-06-14",
@@ -5156,12 +5156,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What type of pharmacy is best for a search fund acquisition?",
         answer:
-          "Compounding pharmacies (40–60% gross margins), long-term care pharmacies (contract-based recurring revenue), and specialty pharmacies (high revenue per script) offer the best returns. Standard community retail pharmacies face significant PBM pressure on margins and chain competition.",
+          "Compounding pharmacies (40-60% gross margins), long-term care pharmacies (contract-based recurring revenue), and specialty pharmacies (high revenue per script) offer the best returns. Standard community retail pharmacies face significant PBM pressure on margins and chain competition.",
       },
       {
         question: "What is the biggest risk in pharmacy acquisitions?",
         answer:
-          "PBM contract terms and DIR (Direct and Indirect Remuneration) fees are the biggest risk. PBMs can reduce reimbursement rates, impose clawbacks, and change formularies — all of which directly impact profitability. Thoroughly analyze PBM contracts and reimbursement trends during due diligence.",
+          "PBM contract terms and DIR (Direct and Indirect Remuneration) fees are the biggest risk. PBMs can reduce reimbursement rates, impose clawbacks, and change formularies - all of which directly impact profitability. Thoroughly analyze PBM contracts and reimbursement trends during due diligence.",
       },
     ],
   },
@@ -5169,11 +5169,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "med-spa-acquisition",
     title: "Acquiring a Med Spa or Aesthetics Business",
     description:
-      "A guide to acquiring med spas — injectable services, laser treatments, body contouring, and membership models. Cash-pay economics, Medical Director requirements, and growth strategies.",
+      "A guide to acquiring med spas - injectable services, laser treatments, body contouring, and membership models. Cash-pay economics, Medical Director requirements, and growth strategies.",
     readTime: "12 min read",
     tag: "Industry Playbooks",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Med Spa or Aesthetics Business — Search Fund Guide",
+    ogTitle: "Acquiring a Med Spa or Aesthetics Business - Search Fund Guide",
     ogDescription:
       "Evaluate med spa acquisitions: injectable margins, cash-pay economics, MSO structures, and membership program strategies.",
     datePublished: "2025-06-14",
@@ -5189,12 +5189,12 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Can non-physicians acquire a med spa?",
         answer:
-          "Yes, through a Management Services Organization (MSO) model where the non-physician acquires the business operations while a licensed physician retains medical oversight as Medical Director. State regulations vary significantly — some require physician presence while others allow NPs/PAs to practice independently.",
+          "Yes, through a Management Services Organization (MSO) model where the non-physician acquires the business operations while a licensed physician retains medical oversight as Medical Director. State regulations vary significantly - some require physician presence while others allow NPs/PAs to practice independently.",
       },
       {
         question: "What are the margins for med spa businesses?",
         answer:
-          "Injectable treatments (Botox, fillers) generate 60–75% gross margins. Overall EBITDA margins for well-run med spas are 20–35%. Revenue is 95%+ cash pay with no insurance billing. Monthly membership programs create predictable recurring revenue and increase patient lifetime value.",
+          "Injectable treatments (Botox, fillers) generate 60-75% gross margins. Overall EBITDA margins for well-run med spas are 20-35%. Revenue is 95%+ cash pay with no insurance billing. Monthly membership programs create predictable recurring revenue and increase patient lifetime value.",
       },
     ],
   },
@@ -5202,11 +5202,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-czech-republic-slovakia",
     title: "ETA in Czech Republic & Slovakia",
     description:
-      "How to acquire businesses in the Czech Republic and Slovakia — post-1989 succession wave, manufacturing strength, legal framework, and entry valuations for Central European ETA.",
+      "How to acquire businesses in the Czech Republic and Slovakia - post-1989 succession wave, manufacturing strength, legal framework, and entry valuations for Central European ETA.",
     readTime: "10 min read",
     tag: "Regional Guides",
     category: "Regional Guides",
-    ogTitle: "ETA in Czech Republic & Slovakia — Search Fund Guide",
+    ogTitle: "ETA in Czech Republic & Slovakia - Search Fund Guide",
     ogDescription:
       "Acquire businesses in Czech Republic and Slovakia: succession opportunities, manufacturing, IT, and competitive entry valuations.",
     datePublished: "2025-06-14",
@@ -5220,7 +5220,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What are the business acquisition valuations in Czech Republic and Slovakia?",
         answer:
-          "SME valuations range from 3–6x EBITDA, significantly below Western European levels. The post-1989 business founder generation is reaching retirement, creating a growing pipeline of motivated sellers across manufacturing, IT, and professional services sectors.",
+          "SME valuations range from 3-6x EBITDA, significantly below Western European levels. The post-1989 business founder generation is reaching retirement, creating a growing pipeline of motivated sellers across manufacturing, IT, and professional services sectors.",
       },
       {
         question: "What are the best industries to acquire in Czech Republic and Slovakia?",
@@ -5233,13 +5233,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-greece",
     title: "ETA in Greece: Emerging Opportunity",
     description:
-      "A guide to acquiring businesses in Greece — post-crisis renaissance, family business succession, tourism and food sectors, non-dom tax regime, and investment-grade recovery.",
+      "A guide to acquiring businesses in Greece - post-crisis renaissance, family business succession, tourism and food sectors, non-dom tax regime, and investment-grade recovery.",
     readTime: "10 min read",
     tag: "Regional Guides",
     category: "Regional Guides",
-    ogTitle: "ETA in Greece: Emerging Opportunity — Search Fund Guide",
+    ogTitle: "ETA in Greece: Emerging Opportunity - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Greece: family business succession, tourism, food & beverage, and attractive 3–5x EBITDA valuations.",
+      "Acquire businesses in Greece: family business succession, tourism, food & beverage, and attractive 3-5x EBITDA valuations.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5251,7 +5251,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "Why is Greece an emerging opportunity for business acquisitions?",
         answer:
-          "Greece regained investment-grade credit rating in 2024, 70% of family businesses are first-generation with many founders aged 60–75 lacking succession plans, valuations are 3–5x EBITDA (significant discount to Western Europe), and the non-dom tax regime attracts foreign investors with a flat €100K annual tax.",
+          "Greece regained investment-grade credit rating in 2024, 70% of family businesses are first-generation with many founders aged 60-75 lacking succession plans, valuations are 3-5x EBITDA (significant discount to Western Europe), and the non-dom tax regime attracts foreign investors with a flat €100K annual tax.",
       },
       {
         question: "What are the risks of acquiring a business in Greece?",
@@ -5264,13 +5264,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-baltics",
     title: "ETA in the Baltics: Estonia, Latvia & Lithuania",
     description:
-      "How to acquire businesses in Estonia, Latvia, and Lithuania — digital-first economies, EU/Eurozone membership, startup ecosystems, and the most competitive tax regimes in Europe.",
+      "How to acquire businesses in Estonia, Latvia, and Lithuania - digital-first economies, EU/Eurozone membership, startup ecosystems, and the most competitive tax regimes in Europe.",
     readTime: "11 min read",
     tag: "Regional Guides",
     category: "Regional Guides",
-    ogTitle: "ETA in the Baltics: Estonia, Latvia & Lithuania — Search Fund Guide",
+    ogTitle: "ETA in the Baltics: Estonia, Latvia & Lithuania - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in the Baltics: Estonia's 0% retained earnings tax, Lithuania's fintech hub, and 3–6x EBITDA valuations.",
+      "Acquire businesses in the Baltics: Estonia's 0% retained earnings tax, Lithuania's fintech hub, and 3-6x EBITDA valuations.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5283,7 +5283,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What makes the Baltic states unique for ETA?",
         answer:
-          "Estonia's 0% corporate tax on retained earnings is uniquely entrepreneur-friendly. Lithuania is the EU's leading fintech hub by license count. All three are EU/Eurozone members with 3–6x EBITDA valuations — creating meaningful arbitrage vs. Nordic markets (8–12x). Estonia's e-Residency program allows foreigners to establish and manage companies remotely.",
+          "Estonia's 0% corporate tax on retained earnings is uniquely entrepreneur-friendly. Lithuania is the EU's leading fintech hub by license count. All three are EU/Eurozone members with 3-6x EBITDA valuations - creating meaningful arbitrage vs. Nordic markets (8-12x). Estonia's e-Residency program allows foreigners to establish and manage companies remotely.",
       },
       {
         question: "What are the challenges of acquiring businesses in the Baltics?",
@@ -5296,13 +5296,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-romania-bulgaria",
     title: "ETA in Romania & Bulgaria",
     description:
-      "A guide to acquiring businesses in Romania and Bulgaria — the EU's most affordable markets with IT talent, manufacturing growth, and the lowest corporate tax rates in Europe.",
+      "A guide to acquiring businesses in Romania and Bulgaria - the EU's most affordable markets with IT talent, manufacturing growth, and the lowest corporate tax rates in Europe.",
     readTime: "10 min read",
     tag: "Regional Guides",
     category: "Regional Guides",
-    ogTitle: "ETA in Romania & Bulgaria — Search Fund Guide",
+    ogTitle: "ETA in Romania & Bulgaria - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Romania and Bulgaria: 2–5x EBITDA valuations, 10–16% corporate tax, and strong IT and manufacturing sectors.",
+      "Acquire businesses in Romania and Bulgaria: 2-5x EBITDA valuations, 10-16% corporate tax, and strong IT and manufacturing sectors.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5315,7 +5315,7 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "What are the advantages of acquiring businesses in Romania and Bulgaria?",
         answer:
-          "The EU's lowest acquisition valuations (2–5x EBITDA), lowest corporate tax rates (Bulgaria 10%, Romania 16%), strong IT/software talent in Romania at 30–50% of Western costs, EU membership with convergence upside, and Romania's IT employee income tax exemption making it one of Europe's most competitive tech markets.",
+          "The EU's lowest acquisition valuations (2-5x EBITDA), lowest corporate tax rates (Bulgaria 10%, Romania 16%), strong IT/software talent in Romania at 30-50% of Western costs, EU membership with convergence upside, and Romania's IT employee income tax exemption making it one of Europe's most competitive tech markets.",
       },
       {
         question: "What are the risks in Romanian and Bulgarian acquisitions?",
@@ -5328,13 +5328,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-croatia-slovenia",
     title: "ETA in Croatia & Slovenia",
     description:
-      "How to acquire businesses in Croatia and Slovenia — EU/Eurozone access, tourism and manufacturing sectors, competitive tax rates, and quality of life in the Adriatic region.",
+      "How to acquire businesses in Croatia and Slovenia - EU/Eurozone access, tourism and manufacturing sectors, competitive tax rates, and quality of life in the Adriatic region.",
     readTime: "10 min read",
     tag: "Regional Guides",
     category: "Regional Guides",
-    ogTitle: "ETA in Croatia & Slovenia — Search Fund Guide",
+    ogTitle: "ETA in Croatia & Slovenia - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Croatia and Slovenia: tourism, manufacturing, 3–6x EBITDA valuations, and EU/Eurozone membership.",
+      "Acquire businesses in Croatia and Slovenia: tourism, manufacturing, 3-6x EBITDA valuations, and EU/Eurozone membership.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5351,18 +5351,18 @@ export const allArticles: ArticleMeta[] = [
       {
         question: "How do Croatia and Slovenia compare for ETA?",
         answer:
-          "Slovenia is more developed with higher valuations but stronger manufacturing and pharma sectors. Croatia has lower corporate tax (10% for small companies), booming tourism, and Eurozone membership since 2023. Both offer 3–6x EBITDA valuations and serve as platforms for the broader DACH and Mediterranean markets.",
+          "Slovenia is more developed with higher valuations but stronger manufacturing and pharma sectors. Croatia has lower corporate tax (10% for small companies), booming tourism, and Eurozone membership since 2023. Both offer 3-6x EBITDA valuations and serve as platforms for the broader DACH and Mediterranean markets.",
       },
     ],
   },
   {
     slug: "eta-south-korea",
     title: "ETA in South Korea: An Emerging Frontier",
-    description: "Explore entrepreneurship through acquisition in South Korea — succession crisis, inheritance tax pressures, chaebol dynamics, and target industries for foreign and domestic acquirers.",
+    description: "Explore entrepreneurship through acquisition in South Korea - succession crisis, inheritance tax pressures, chaebol dynamics, and target industries for foreign and domestic acquirers.",
     readTime: "11 min read",
     tag: "Regional",
     category: "Regional Guides",
-    ogTitle: "ETA in South Korea — Succession Crisis & Acquisition Opportunities",
+    ogTitle: "ETA in South Korea - Succession Crisis & Acquisition Opportunities",
     ogDescription: "South Korea's 3.5M SMEs face a growing succession crisis driven by the world's lowest birth rate and highest inheritance taxes. Learn how to acquire businesses in this emerging ETA market.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5380,11 +5380,11 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "eta-china",
     title: "ETA in China & Greater China",
-    description: "A guide to entrepreneurship through acquisition in China, Hong Kong, and Taiwan — 50M+ SMEs, regulatory landscape, target industries, and cross-border deal structures.",
+    description: "A guide to entrepreneurship through acquisition in China, Hong Kong, and Taiwan - 50M+ SMEs, regulatory landscape, target industries, and cross-border deal structures.",
     readTime: "12 min read",
     tag: "Regional",
     category: "Regional Guides",
-    ogTitle: "ETA in China & Greater China — 50M+ SME Acquisition Opportunities",
+    ogTitle: "ETA in China & Greater China - 50M+ SME Acquisition Opportunities",
     ogDescription: "China has 50M+ SMEs facing a first-generation succession wave. Explore the regulatory environment, target industries, and strategies for acquiring businesses in Greater China.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5402,11 +5402,11 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "search-fund-investor-ecosystems",
     title: "Search Fund Investor Ecosystems by Region",
-    description: "Map the global search fund investor landscape — US, Europe, Latin America, and Asia-Pacific networks, dedicated funds, typical check sizes, and how to build your investor base.",
+    description: "Map the global search fund investor landscape - US, Europe, Latin America, and Asia-Pacific networks, dedicated funds, typical check sizes, and how to build your investor base.",
     readTime: "11 min read",
     tag: "Fundraising",
     category: "Fundraising & Investors",
-    ogTitle: "Search Fund Investor Ecosystems — Global Directory by Region",
+    ogTitle: "Search Fund Investor Ecosystems - Global Directory by Region",
     ogDescription: "300+ active US investors, growing European networks, and emerging LatAm and Asia-Pacific ecosystems. Navigate the global search fund investor landscape.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5417,8 +5417,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which countries have the most developed search fund investor ecosystems?", answer: "The US has the most mature ecosystem with 200+ active search fund investors. In Europe, the UK and Spain (driven by IESE) lead, followed by France (HEC/INSEAD networks), Germany (DACH family offices), and the Nordics. Latin America and Asia-Pacific are emerging rapidly." },
-      { question: "How many investors does a typical search fund have?", answer: "A traditional search fund typically raises from 10–20 investors, each committing $30,000–$50,000 in search capital. The investor base often includes a mix of ex-searchers, family offices, institutional search fund investors, and angel investors. Geographic proximity to the search geography is valued." },
-      { question: "What is the role of ex-searcher investors?", answer: "Ex-searchers who have successfully acquired and operated companies are among the most valuable search fund investors. They provide operational mentorship, help with deal sourcing and evaluation, share lessons learned, and often serve as board members. They typically invest $25,000–$100,000 per search fund." },
+      { question: "How many investors does a typical search fund have?", answer: "A traditional search fund typically raises from 10-20 investors, each committing $30,000-$50,000 in search capital. The investor base often includes a mix of ex-searchers, family offices, institutional search fund investors, and angel investors. Geographic proximity to the search geography is valued." },
+      { question: "What is the role of ex-searcher investors?", answer: "Ex-searchers who have successfully acquired and operated companies are among the most valuable search fund investors. They provide operational mentorship, help with deal sourcing and evaluation, share lessons learned, and often serve as board members. They typically invest $25,000-$100,000 per search fund." },
     ],
   },
   {
@@ -5428,7 +5428,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Language & Cultural Considerations — European Business Acquisitions",
+    ogTitle: "Language & Cultural Considerations - European Business Acquisitions",
     ogDescription: "24 EU languages, distinct business cultures, and varied negotiation styles. Master the cultural dimension of acquiring businesses across European markets.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5446,12 +5446,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "government-contracting-acquisition",
     title: "Acquiring a Government Contracting Business",
-    description: "How to acquire a government contractor — contract backlog analysis, SBA certifications, security clearances, recompete dynamics, and post-acquisition growth strategies.",
+    description: "How to acquire a government contractor - contract backlog analysis, SBA certifications, security clearances, recompete dynamics, and post-acquisition growth strategies.",
     readTime: "12 min read",
     tag: "Industry",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Government Contractor — $700B Federal Market",
-    ogDescription: "Government contractors offer multi-year revenue visibility, recession resistance, and 70–85% recompete win rates. Learn how to evaluate and acquire GovCon businesses.",
+    ogTitle: "Acquiring a Government Contractor - $700B Federal Market",
+    ogDescription: "Government contractors offer multi-year revenue visibility, recession resistance, and 70-85% recompete win rates. Learn how to evaluate and acquire GovCon businesses.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5472,7 +5472,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Due Diligence",
     category: "Deal Execution",
-    ogTitle: "Regulated Industry Acquisitions — Licensing, Compliance & Moats",
+    ogTitle: "Regulated Industry Acquisitions - Licensing, Compliance & Moats",
     ogDescription: "Regulated industries offer structural moats and pricing power but require careful license transfer, compliance history review, and regulatory approval planning.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5483,18 +5483,18 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What industries require special regulatory approvals for acquisitions?", answer: "Industries with significant regulatory requirements include healthcare (state licensing, Medicare/Medicaid certification), financial services (SEC, FCA, FINMA), insurance (state-by-state approval), telecommunications, defense contracting, cannabis, food manufacturing (FDA), childcare, and environmental services. Each has unique transfer-of-ownership requirements." },
-      { question: "How does regulation affect the timeline of an acquisition?", answer: "Regulatory approvals can add 2–12 months to a typical acquisition timeline. Healthcare license transfers often take 3–6 months, financial services approvals 6–12 months, and defense security clearance novations 4–8 months. Building regulatory timelines into the LOI and closing conditions is essential." },
+      { question: "How does regulation affect the timeline of an acquisition?", answer: "Regulatory approvals can add 2-12 months to a typical acquisition timeline. Healthcare license transfers often take 3-6 months, financial services approvals 6-12 months, and defense security clearance novations 4-8 months. Building regulatory timelines into the LOI and closing conditions is essential." },
       { question: "Are regulated industries better or worse for search fund acquisitions?", answer: "Regulated industries can be excellent for search funds because regulation creates barriers to entry, reduces competition, and supports stable pricing. However, they require more specialized due diligence, longer closing timelines, and industry-specific expertise. The key is matching regulatory complexity with the searcher's background." },
     ],
   },
   {
     slug: "seasonal-businesses",
     title: "Acquiring Seasonal Businesses: Opportunities & Risks",
-    description: "How to evaluate, value, and operate seasonal businesses — cash flow management, staffing cycles, deal timing, and strategies to build year-round revenue.",
+    description: "How to evaluate, value, and operate seasonal businesses - cash flow management, staffing cycles, deal timing, and strategies to build year-round revenue.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Acquiring Seasonal Businesses — Cash Flow, Staffing & Growth",
+    ogTitle: "Acquiring Seasonal Businesses - Cash Flow, Staffing & Growth",
     ogDescription: "Seasonal businesses can generate excellent returns but require disciplined cash management. Learn valuation, timing, staffing, and year-round revenue strategies.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5505,18 +5505,18 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Should search fund entrepreneurs avoid seasonal businesses?", answer: "Not necessarily. Seasonal businesses can be excellent acquisitions if properly understood. The key is analyzing cash flow patterns across the full cycle, ensuring working capital is sufficient for off-season periods, and identifying opportunities to smooth revenue through complementary services or geographic expansion." },
-      { question: "How do you value a seasonal business?", answer: "Value seasonal businesses using trailing twelve months (TTM) financials rather than any single quarter. Adjust working capital for seasonal peaks and troughs. Apply a modest discount (10–20%) to account for cash flow volatility. Key metrics include peak-to-trough revenue ratio and off-season cash burn rate." },
+      { question: "How do you value a seasonal business?", answer: "Value seasonal businesses using trailing twelve months (TTM) financials rather than any single quarter. Adjust working capital for seasonal peaks and troughs. Apply a modest discount (10-20%) to account for cash flow volatility. Key metrics include peak-to-trough revenue ratio and off-season cash burn rate." },
       { question: "What are examples of seasonal businesses suitable for ETA?", answer: "Common seasonal ETA targets include HVAC companies (summer cooling + winter heating), landscaping and snow removal, tax preparation services, pool services, holiday retail, tourism operators, and construction companies. Many successful acquirers offset seasonality through service diversification." },
     ],
   },
   {
     slug: "b2b-vs-b2c-acquisitions",
     title: "B2B vs. B2C Acquisitions: Key Differences",
-    description: "Compare B2B and B2C business models for acquisition — revenue predictability, customer concentration, sales dynamics, operational complexity, and which model suits ETA best.",
+    description: "Compare B2B and B2C business models for acquisition - revenue predictability, customer concentration, sales dynamics, operational complexity, and which model suits ETA best.",
     readTime: "11 min read",
     tag: "Strategy",
     category: "Getting Started",
-    ogTitle: "B2B vs. B2C Acquisitions — Which Model Is Best for Search Funds?",
+    ogTitle: "B2B vs. B2C Acquisitions - Which Model Is Best for Search Funds?",
     ogDescription: "70%+ of search fund acquisitions target B2B businesses. Compare revenue models, customer dynamics, and operational requirements for B2B vs. B2C acquisitions.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5527,18 +5527,18 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Are B2B businesses better acquisition targets than B2C?", answer: "B2B businesses are generally preferred by search fund investors because they offer higher customer lifetime values, more predictable revenue, lower churn rates, stronger pricing power, and less dependence on marketing spend. However, B2C businesses can offer faster growth and larger addressable markets." },
-      { question: "How do valuations differ between B2B and B2C businesses?", answer: "B2B businesses typically trade at higher EBITDA multiples (4–8x) compared to B2C (3–6x) due to greater predictability and lower customer acquisition costs. B2B SaaS commands the highest premiums (8–15x). B2C businesses with strong brands and high retention can approach B2B valuations." },
+      { question: "How do valuations differ between B2B and B2C businesses?", answer: "B2B businesses typically trade at higher EBITDA multiples (4-8x) compared to B2C (3-6x) due to greater predictability and lower customer acquisition costs. B2B SaaS commands the highest premiums (8-15x). B2C businesses with strong brands and high retention can approach B2B valuations." },
       { question: "What due diligence differs between B2B and B2C acquisitions?", answer: "B2B DD emphasizes contract analysis, customer concentration, renewal rates, and sales pipeline quality. B2C DD focuses on brand strength, customer acquisition costs, churn analytics, marketing channel mix, and review/reputation analysis. Both require understanding of competitive dynamics and pricing power." },
     ],
   },
   {
     slug: "eta-vs-independent-sponsor",
     title: "ETA vs. Independent Sponsor: Key Differences",
-    description: "Compare traditional search funds and independent sponsors — fundraising structure, deal size, operator economics, governance, and when each model makes sense.",
+    description: "Compare traditional search funds and independent sponsors - fundraising structure, deal size, operator economics, governance, and when each model makes sense.",
     readTime: "11 min read",
     tag: "Comparison",
     category: "Investor Comparisons",
-    ogTitle: "ETA vs. Independent Sponsor — Search Fund or Fundless Sponsor?",
+    ogTitle: "ETA vs. Independent Sponsor - Search Fund or Fundless Sponsor?",
     ogDescription: "Search funds offer structured support and search salary. Independent sponsors provide larger deal access and flexibility. Compare both acquisition models.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
@@ -5552,41 +5552,41 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What is the difference between a search fund and an independent sponsor?", answer: "A search fund raises committed capital upfront from investors who fund both the search period and the acquisition. An independent sponsor (fundless sponsor) identifies a deal first, then raises capital deal-by-deal. Search funds offer salary during search but dilute more equity; independent sponsors retain more economics but bear personal financial risk." },
       { question: "Which model is better: search fund or independent sponsor?", answer: "The best model depends on your situation. Search funds suit first-time acquirers who need salary during the search and benefit from investor mentorship. Independent sponsors suit experienced professionals with deal flow, industry expertise, and personal financial runway. Both can generate excellent returns for operators and investors." },
-      { question: "What are the economics of an independent sponsor vs a search fund?", answer: "Independent sponsors typically retain 20–30% equity (vs 20–25% for search fund entrepreneurs after step-up dilution) and may negotiate management fees and promote structures similar to PE. However, they have no guaranteed salary during the search and must fund their own search costs." },
+      { question: "What are the economics of an independent sponsor vs a search fund?", answer: "Independent sponsors typically retain 20-30% equity (vs 20-25% for search fund entrepreneurs after step-up dilution) and may negotiate management fees and promote structures similar to PE. However, they have no guaranteed salary during the search and must fund their own search costs." },
     ],
   },
   {
     slug: "eta-vs-holding-company",
     title: "ETA vs. Holding Company Model",
-    description: "Compare single-company ETA with the holding company model — exit-driven vs. perpetual ownership, portfolio diversification, capital allocation, and lifestyle considerations.",
+    description: "Compare single-company ETA with the holding company model - exit-driven vs. perpetual ownership, portfolio diversification, capital allocation, and lifestyle considerations.",
     readTime: "11 min read",
     tag: "Comparison",
     category: "Investor Comparisons",
-    ogTitle: "ETA vs. Holding Company — Single Asset vs. Portfolio Ownership",
+    ogTitle: "ETA vs. Holding Company - Single Asset vs. Portfolio Ownership",
     ogDescription: "ETA focuses on one company with exit-driven returns. Holding companies build portfolios with cash flow distributions. Compare both ownership models.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Constellation Software", title: "Annual Report and Public Filings", year: 2024 },
-      { name: "Permanent Equity", title: "Public Disclosures — Fund Structure and Portfolio Data", year: 2024 },
+      { name: "Permanent Equity", title: "Public Disclosures - Fund Structure and Portfolio Data", year: 2024 },
       { name: "Tiny Ltd.", title: "Fiscal Year 2024 Financial Results", year: 2024 },
       { name: "Yale School of Management", title: "Exploring Holding Companies in the Search Fund Ecosystem (Case Study)", year: 2024 },
     ],
     faqs: [
-      { question: "How does the search fund model differ from a holding company approach?", answer: "Search funds typically acquire one company, operate it for 5–8 years, and exit. Holding companies (Berkshire-style) acquire multiple businesses with the intention of holding them permanently, generating dividends rather than seeking exits. Search funds offer higher IRR potential; holding companies offer lower risk and compounding wealth over decades." },
+      { question: "How does the search fund model differ from a holding company approach?", answer: "Search funds typically acquire one company, operate it for 5-8 years, and exit. Holding companies (Berkshire-style) acquire multiple businesses with the intention of holding them permanently, generating dividends rather than seeking exits. Search funds offer higher IRR potential; holding companies offer lower risk and compounding wealth over decades." },
       { question: "Can a search fund evolve into a holding company?", answer: "Yes, this is an emerging trend. Some successful search fund operators, after their initial acquisition and value creation, choose to retain the business rather than exit, then acquire additional companies to build a permanent capital vehicle. This 'search fund to holdco' path is increasingly popular." },
-      { question: "What are the investor implications of a holding company vs search fund?", answer: "Search fund investors expect a liquidity event (exit) within 5–8 years. Holding company investors accept permanent illiquidity in exchange for ongoing dividends. The investor base is fundamentally different: search fund investors seek IRR, holding company investors seek yield and compounding." },
+      { question: "What are the investor implications of a holding company vs search fund?", answer: "Search fund investors expect a liquidity event (exit) within 5-8 years. Holding company investors accept permanent illiquidity in exchange for ongoing dividends. The investor base is fundamentally different: search fund investors seek IRR, holding company investors seek yield and compounding." },
     ],
   },
   {
     slug: "evaluate-searcher",
     title: "How to Evaluate a Searcher as an Investor",
-    description: "Framework for evaluating search fund operators — leadership criteria, background assessment, red flags, reference checks, and due diligence best practices.",
+    description: "Framework for evaluating search fund operators - leadership criteria, background assessment, red flags, reference checks, and due diligence best practices.",
     readTime: "12 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "How to Evaluate a Searcher — Investor Due Diligence Framework",
+    ogTitle: "How to Evaluate a Searcher - Investor Due Diligence Framework",
     ogDescription: "Search fund investing is a bet on the operator. Learn the evaluation criteria, red flags, and reference check process for assessing searcher-operators.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5604,12 +5604,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "portfolio-construction-search-fund",
     title: "Diversifying a Search Fund LP Portfolio: Strategy & Allocation",
-    description: "Build a diversified search fund investment portfolio — allocation sizing, vintage diversification, capital reserves, return expectations, and active management strategies.",
+    description: "Build a diversified search fund investment portfolio - allocation sizing, vintage diversification, capital reserves, return expectations, and active management strategies.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
     ogTitle: "Diversifying a Search Fund LP Portfolio: Strategy & Allocation",
-    ogDescription: "Build a portfolio of 20–30+ search fund investments across vintages and geographies. Learn allocation, reserve planning, and return expectations.",
+    ogDescription: "Build a portfolio of 20-30+ search fund investments across vintages and geographies. Learn allocation, reserve planning, and return expectations.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5618,15 +5618,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "How many search funds should an investor back?", answer: "Experienced search fund investors typically back 10–20+ search funds to achieve portfolio diversification. Given that approximately 33% of searches don't result in an acquisition, a portfolio approach ensures exposure to the winning outcomes. The top-quartile investors often have 30+ search fund investments." },
-      { question: "What is the expected return on a diversified search fund portfolio?", answer: "A well-constructed search fund portfolio has historically generated 30–35% gross IRR and 3–5x MOIC across 40 years of data. However, returns follow a power-law distribution: the top 10% of deals drive the majority of portfolio returns, making diversification critical." },
+      { question: "How many search funds should an investor back?", answer: "Experienced search fund investors typically back 10-20+ search funds to achieve portfolio diversification. Given that approximately 33% of searches don't result in an acquisition, a portfolio approach ensures exposure to the winning outcomes. The top-quartile investors often have 30+ search fund investments." },
+      { question: "What is the expected return on a diversified search fund portfolio?", answer: "A well-constructed search fund portfolio has historically generated 30-35% gross IRR and 3-5x MOIC across 40 years of data. However, returns follow a power-law distribution: the top 10% of deals drive the majority of portfolio returns, making diversification critical." },
       { question: "Should search fund investors specialize by geography or sector?", answer: "Most search fund investors prefer geographic specialization (e.g., US-only, Europe-only, or specific countries) because it allows them to add value through local network access, market knowledge, and operational support. Sector specialization is less common because search fund deal flow is opportunistic." },
     ],
   },
   {
     slug: "risk-factors-search-fund",
     title: "Search Fund Investment Risks: What LPs Need to Know",
-    description: "Catalog of search fund investment risks — search phase failure, acquisition pitfalls, operational challenges, and mitigation strategies for informed investors.",
+    description: "Catalog of search fund investment risks - search phase failure, acquisition pitfalls, operational challenges, and mitigation strategies for informed investors.",
     readTime: "12 min read",
     tag: "Investing",
     category: "Investor Comparisons",
@@ -5640,40 +5640,40 @@ export const allArticles: ArticleMeta[] = [
       { name: "Search Fund Partners", title: "Risk Management in Search Fund Portfolios", year: 2024 },
     ],
     faqs: [
-      { question: "What are the biggest risks of investing in search funds?", answer: "The primary risks are: search failure (33% of searches don't result in an acquisition), overpaying for acquisitions, post-acquisition operational challenges, key person risk (CEO departure), industry downturns, excessive leverage, and illiquidity (5–8 year holding period with no secondary market)." },
-      { question: "What percentage of search funds fail?", answer: "Approximately 33% of traditional search funds do not complete an acquisition — investors receive a partial return of their search capital but no investment return. Among those that do acquire, roughly two-thirds generate positive returns and one-third result in a total or partial loss of acquisition capital." },
-      { question: "How can investors mitigate search fund risks?", answer: "Mitigation strategies include: thorough searcher evaluation, portfolio diversification (10–20+ search funds), active board participation, structured governance rights, milestone-based search capital deployment, co-investment rights for acquisition capital, and maintaining ongoing communication with the searcher throughout the process." },
+      { question: "What are the biggest risks of investing in search funds?", answer: "The primary risks are: search failure (33% of searches don't result in an acquisition), overpaying for acquisitions, post-acquisition operational challenges, key person risk (CEO departure), industry downturns, excessive leverage, and illiquidity (5-8 year holding period with no secondary market)." },
+      { question: "What percentage of search funds fail?", answer: "Approximately 33% of traditional search funds do not complete an acquisition - investors receive a partial return of their search capital but no investment return. Among those that do acquire, roughly two-thirds generate positive returns and one-third result in a total or partial loss of acquisition capital." },
+      { question: "How can investors mitigate search fund risks?", answer: "Mitigation strategies include: thorough searcher evaluation, portfolio diversification (10-20+ search funds), active board participation, structured governance rights, milestone-based search capital deployment, co-investment rights for acquisition capital, and maintaining ongoing communication with the searcher throughout the process." },
     ],
   },
   {
     slug: "search-fund-governance-investor",
     title: "Search Fund Governance: An Investor's Perspective",
-    description: "Best practices for search fund board governance — structure, investor responsibilities, common mistakes, meeting cadence, and CEO development for first-time operators.",
+    description: "Best practices for search fund board governance - structure, investor responsibilities, common mistakes, meeting cadence, and CEO development for first-time operators.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Governance — Board Best Practices for Investors",
+    ogTitle: "Search Fund Governance - Board Best Practices for Investors",
     ogDescription: "Effective governance is a top predictor of search fund success. Learn board structure, investor responsibilities, and CEO development best practices.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study — Governance Outcomes and CEO Replacement Data", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study - Governance Outcomes and CEO Replacement Data", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "MBA Search Fund Alliance", title: "CEO Replacement Rate Data (~33% of Searcher-CEOs)", year: 2024 },
     ],
     faqs: [
       { question: "What governance rights should search fund investors have?", answer: "Standard governance rights include board seat(s), approval rights over the acquisition, budget approval, CEO compensation approval, material capital expenditure approval, and consent for additional debt. Most search fund LPAs give investors collective veto power over the acquisition decision." },
-      { question: "How many board members does a typical search fund company have?", answer: "Post-acquisition, search fund companies typically have 3–5 board members: 1–2 investor representatives, the CEO (former searcher), and 1–2 independent directors. The investor representatives are usually the most active and experienced search fund investors in the group." },
-      { question: "What happens when the search fund CEO underperforms?", answer: "The board has the authority to coach, restructure responsibilities, or ultimately replace the CEO. This is rare (occurring in roughly 10–15% of cases) but critical. Most search fund LPAs include provisions for CEO removal with board supermajority approval, with equity vesting tied to continued employment." },
+      { question: "How many board members does a typical search fund company have?", answer: "Post-acquisition, search fund companies typically have 3-5 board members: 1-2 investor representatives, the CEO (former searcher), and 1-2 independent directors. The investor representatives are usually the most active and experienced search fund investors in the group." },
+      { question: "What happens when the search fund CEO underperforms?", answer: "The board has the authority to coach, restructure responsibilities, or ultimately replace the CEO. This is rare (occurring in roughly 10-15% of cases) but critical. Most search fund LPAs include provisions for CEO removal with board supermajority approval, with equity vesting tied to continued employment." },
     ],
   },
   {
     slug: "co-investment-search-fund",
     title: "Co-Investment in Search Funds",
-    description: "How co-investment works in search funds — mechanics, benefits for investors and searchers, decision framework, and portfolio concentration considerations.",
+    description: "How co-investment works in search funds - mechanics, benefits for investors and searchers, decision framework, and portfolio concentration considerations.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Co-Investment — Increase Exposure to Top Deals",
+    ogTitle: "Search Fund Co-Investment - Increase Exposure to Top Deals",
     ogDescription: "Co-investment lets search fund investors deploy additional capital into their highest-conviction deals. Learn mechanics, benefits, and decision frameworks.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
@@ -5684,45 +5684,45 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What are co-investment rights in a search fund?", answer: "Co-investment rights give existing search fund investors the option (but not obligation) to invest additional capital when the searcher acquires a company. These rights allow investors to increase their exposure to deals they like, typically at the same terms as new acquisition investors." },
-      { question: "How much additional capital do investors typically commit in co-investment?", answer: "Co-investment amounts vary widely based on deal size and investor interest. Typically, existing search fund investors contribute $100,000–$500,000 each in acquisition equity, on top of their initial $25,000–$50,000 search capital commitment. In aggregate, existing investors often fund 30–60% of acquisition equity." },
+      { question: "How much additional capital do investors typically commit in co-investment?", answer: "Co-investment amounts vary widely based on deal size and investor interest. Typically, existing search fund investors contribute $100,000-$500,000 each in acquisition equity, on top of their initial $25,000-$50,000 search capital commitment. In aggregate, existing investors often fund 30-60% of acquisition equity." },
       { question: "Why are co-investment rights valuable for search fund investors?", answer: "Co-investment rights are valuable because they allow investors to selectively increase exposure to vetted deals after seeing the target company, the searcher's due diligence, and the deal terms. This 'option to double down' on high-conviction investments significantly improves portfolio economics." },
     ],
   },
   {
     slug: "fund-of-search-funds",
     title: "Fund of Search Funds: Institutional Access to ETA",
-    description: "How fund of search funds vehicles work — structure, economics, benefits, key players, and the trade-off between diversification and fee layers.",
+    description: "How fund of search funds vehicles work - structure, economics, benefits, key players, and the trade-off between diversification and fee layers.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Fund of Search Funds — Institutional Access to ETA Returns",
-    ogDescription: "Fund of search funds provide instant diversification across 20–40+ search fund investments. Learn structure, economics, and key players in the FoSF market.",
+    ogTitle: "Fund of Search Funds - Institutional Access to ETA Returns",
+    ogDescription: "Fund of search funds provide instant diversification across 20-40+ search fund investments. Learn structure, economics, and key players in the FoSF market.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Yale School of Management", title: "How Are Search Fund Investors Really Faring? (1,192 Observations Across 12 Investors)", year: 2025 },
-      { name: "Search Fund Partners", title: "Firm Profile — 175+ Searches, 100+ Acquisitions Since 2004", year: 2024 },
+      { name: "Search Fund Partners", title: "Firm Profile - 175+ Searches, 100+ Acquisitions Since 2004", year: 2024 },
       { name: "Pacific Lake Partners", title: "Fund IV ($175M) and Fund VI Profile; Harvard Business School Case Study", year: 2024 },
-      { name: "Relay Investments", title: "Fund I–III Portfolio Data (~$200M AUM, 80+ Search Funds)", year: 2022 },
-      { name: "Istria Capital", title: "European Fund of Search Funds — Fund I (€20M) and Fund II (€50M)", year: 2024 },
-      { name: "Moonbase Capital", title: "Search Fund Squared — €15M Target, Southern European Focus", year: 2024 },
+      { name: "Relay Investments", title: "Fund I-III Portfolio Data (~$200M AUM, 80+ Search Funds)", year: 2022 },
+      { name: "Istria Capital", title: "European Fund of Search Funds - Fund I (€20M) and Fund II (€50M)", year: 2024 },
+      { name: "Moonbase Capital", title: "Search Fund Squared - €15M Target, Southern European Focus", year: 2024 },
     ],
     faqs: [
-      { question: "What is a fund of search funds?", answer: "A fund of search funds is an investment vehicle that pools capital from limited partners to invest across multiple individual search funds. This provides investors with built-in diversification, professional deal selection, and access to top searchers — similar to how fund-of-funds work in venture capital or hedge funds." },
-      { question: "What are the fees in a fund of search funds?", answer: "Fund of search funds typically charge a management fee of 1–2% annually on committed capital plus carried interest of 10–20% on profits, layered on top of the underlying search fund economics. The total fee burden is higher than direct search fund investing but comes with diversification and professional management." },
-      { question: "What are notable fund of search funds?", answer: "Notable vehicles include Istria Capital (Europe/US), Search Fund Accelerator (SFA), Pacific Lake Partners, and several family office-backed vehicles. These funds typically invest in 15–30+ search funds per vintage, providing LPs with exposure to the asset class through a single allocation." },
+      { question: "What is a fund of search funds?", answer: "A fund of search funds is an investment vehicle that pools capital from limited partners to invest across multiple individual search funds. This provides investors with built-in diversification, professional deal selection, and access to top searchers - similar to how fund-of-funds work in venture capital or hedge funds." },
+      { question: "What are the fees in a fund of search funds?", answer: "Fund of search funds typically charge a management fee of 1-2% annually on committed capital plus carried interest of 10-20% on profits, layered on top of the underlying search fund economics. The total fee burden is higher than direct search fund investing but comes with diversification and professional management." },
+      { question: "What are notable fund of search funds?", answer: "Notable vehicles include Istria Capital (Europe/US), Search Fund Accelerator (SFA), Pacific Lake Partners, and several family office-backed vehicles. These funds typically invest in 15-30+ search funds per vintage, providing LPs with exposure to the asset class through a single allocation." },
     ],
   },
   {
     slug: "international-vs-us-returns",
     title: "International vs. US Search Fund Returns",
-    description: "Compare US and international search fund returns — performance data, structural differences, currency risk, and portfolio allocation considerations for global investors.",
+    description: "Compare US and international search fund returns - performance data, structural differences, currency risk, and portfolio allocation considerations for global investors.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "International vs. US Search Fund Returns — Geographic Comparison",
-    ogDescription: "European search fund returns rival US performance (2–4x MOIC). Compare data, risks, and allocation strategies for international search fund investing.",
+    ogTitle: "International vs. US Search Fund Returns - Geographic Comparison",
+    ogDescription: "European search fund returns rival US performance (2-4x MOIC). Compare data, risks, and allocation strategies for international search fund investing.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
@@ -5730,32 +5730,32 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "2024 International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "Do international search funds generate lower returns than US search funds?", answer: "International search funds have historically generated slightly lower aggregate returns than US funds (approximately 25–30% IRR internationally vs 35% in the US). However, the gap is narrowing as international ecosystems mature, and European search funds have shown strong recent performance, particularly in Spain, France, and the UK." },
-      { question: "Why are US search fund returns higher than international?", answer: "Several factors contribute: the US has a more mature ecosystem (40+ years vs 15–20 internationally), deeper investor networks, more favorable financing (SBA loans), a larger pool of acquisition targets, and more experienced advisors. These advantages are gradually being replicated in European markets." },
+      { question: "Do international search funds generate lower returns than US search funds?", answer: "International search funds have historically generated slightly lower aggregate returns than US funds (approximately 25-30% IRR internationally vs 35% in the US). However, the gap is narrowing as international ecosystems mature, and European search funds have shown strong recent performance, particularly in Spain, France, and the UK." },
+      { question: "Why are US search fund returns higher than international?", answer: "Several factors contribute: the US has a more mature ecosystem (40+ years vs 15-20 internationally), deeper investor networks, more favorable financing (SBA loans), a larger pool of acquisition targets, and more experienced advisors. These advantages are gradually being replicated in European markets." },
       { question: "Which international markets show the strongest search fund performance?", answer: "Spain (driven by the IESE ecosystem), the UK, and France have shown the strongest European performance. Latin America (particularly Brazil and Colombia) and Canada also show promising returns. The IESE International Search Fund Study tracks performance across 20+ countries." },
     ],
   },
   {
     slug: "tax-implications-search-fund",
     title: "Tax Implications of Search Fund Investing",
-    description: "Tax treatment of search fund investments — search capital, pass-through income, phantom income, QSBS exclusion, exit taxation, and entity structure considerations.",
+    description: "Tax treatment of search fund investments - search capital, pass-through income, phantom income, QSBS exclusion, exit taxation, and entity structure considerations.",
     readTime: "12 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Tax Guide — QSBS, Pass-Through Income & Exit Taxation",
+    ogTitle: "Search Fund Tax Guide - QSBS, Pass-Through Income & Exit Taxation",
     ogDescription: "Search fund tax planning can significantly impact net returns. Learn about QSBS exclusion, phantom income, pass-through taxation, and optimal entity structures.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "IRS", title: "IRC Section 195 — Start-Up Expenditures", year: 2024 },
+      { name: "IRS", title: "IRC Section 195 - Start-Up Expenditures", year: 2024 },
       { name: "Stanford GSB", title: "2023 Search Fund Study", year: 2023 },
-      { name: "IRS", title: "Revenue Procedure 93-27 — Profits Interest", year: 1993 },
-      { name: "U.S. Congress", title: "Tax Cuts and Jobs Act — Section 199A (QBI Deduction)", year: 2017 },
-      { name: "IRS", title: "IRC Section 1202 — Qualified Small Business Stock (QSBS)", year: 2024 },
+      { name: "IRS", title: "Revenue Procedure 93-27 - Profits Interest", year: 1993 },
+      { name: "U.S. Congress", title: "Tax Cuts and Jobs Act - Section 199A (QBI Deduction)", year: 2017 },
+      { name: "IRS", title: "IRC Section 1202 - Qualified Small Business Stock (QSBS)", year: 2024 },
       { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
       { name: "U.S. Supreme Court", title: "South Dakota v. Wayfair, Inc.", year: 2018 },
-      { name: "IRS", title: "IRC Section 1060 — Purchase Price Allocation (Residual Method)", year: 2024 },
-      { name: "OECD", title: "Transfer Pricing Guidelines for Multinational Enterprises — Arm's-Length Standard", year: 2022 },
+      { name: "IRS", title: "IRC Section 1060 - Purchase Price Allocation (Residual Method)", year: 2024 },
+      { name: "OECD", title: "Transfer Pricing Guidelines for Multinational Enterprises - Arm's-Length Standard", year: 2022 },
     ],
     faqs: [
       { question: "How are search fund investors taxed?", answer: "Search fund investor taxation depends on the fund structure and jurisdiction. In the US, LP investors receive K-1 statements and are taxed on their share of gains at capital gains rates (holding period > 1 year). QSBS exclusion (Section 1202) may apply if the acquired company is a C-corp meeting specific criteria." },
@@ -5766,12 +5766,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "search-fund-deal-characteristics",
     title: "Search Fund Deal Characteristics: What Gets Acquired",
-    description: "Data-driven analysis of search fund acquisition patterns — industry distribution, financial profiles, business attributes, deal structures, and valuation multiples.",
+    description: "Data-driven analysis of search fund acquisition patterns - industry distribution, financial profiles, business attributes, deal structures, and valuation multiples.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Deal Characteristics — What Gets Acquired",
-    ogDescription: "Business services, healthcare, and tech account for 55–65% of search fund acquisitions. Explore financial profiles, valuations, and deal structures.",
+    ogTitle: "Search Fund Deal Characteristics - What Gets Acquired",
+    ogDescription: "Business services, healthcare, and tech account for 55-65% of search fund acquisitions. Explore financial profiles, valuations, and deal structures.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5780,15 +5780,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "Search Fund Accelerator", title: "Acquisition Target Analysis", year: 2024 },
     ],
     faqs: [
-      { question: "What is the average search fund deal size?", answer: "According to the Stanford 2024 Study, the median search fund acquisition has an enterprise value of $10–$15 million, with EBITDA of $1.5–$3 million. Deal sizes have increased over time as the model has matured. European deals tend to be slightly smaller ($5–$12M) than US deals." },
-      { question: "Which industries do search funds acquire most frequently?", answer: "The most common acquisition sectors for search funds are business services (25–30%), healthcare services (15–20%), technology/software (15%), industrial/manufacturing (10%), and financial services (8%). Business services dominates because these businesses are asset-light, fragmented, and have predictable recurring revenue." },
-      { question: "How long does the typical search fund hold a company?", answer: "The median holding period for search fund acquisitions is 5–7 years, though this varies significantly. Some exits occur as early as 3 years (strategic acquirer premium), while some operators hold for 10+ years. The trend toward longer holds and permanent capital models is increasing." },
+      { question: "What is the average search fund deal size?", answer: "According to the Stanford 2024 Study, the median search fund acquisition has an enterprise value of $10-$15 million, with EBITDA of $1.5-$3 million. Deal sizes have increased over time as the model has matured. European deals tend to be slightly smaller ($5-$12M) than US deals." },
+      { question: "Which industries do search funds acquire most frequently?", answer: "The most common acquisition sectors for search funds are business services (25-30%), healthcare services (15-20%), technology/software (15%), industrial/manufacturing (10%), and financial services (8%). Business services dominates because these businesses are asset-light, fragmented, and have predictable recurring revenue." },
+      { question: "How long does the typical search fund hold a company?", answer: "The median holding period for search fund acquisitions is 5-7 years, though this varies significantly. Some exits occur as early as 3 years (strategic acquirer premium), while some operators hold for 10+ years. The trend toward longer holds and permanent capital models is increasing." },
     ],
   },
   {
     slug: "emotional-journey-selling",
     title: "The Emotional Journey of Selling Your Business",
-    description: "Navigate the emotional stages of selling a business — from contemplation to post-sale identity crisis. Preparation strategies and common emotional traps to avoid.",
+    description: "Navigate the emotional stages of selling a business - from contemplation to post-sale identity crisis. Preparation strategies and common emotional traps to avoid.",
     readTime: "11 min read",
     tag: "Seller",
     category: "Deal Execution",
@@ -5803,19 +5803,19 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What emotions do business owners typically feel when selling?", answer: "Business owners commonly experience grief (loss of identity), anxiety (about employees and legacy), relief (from the burden of ownership), guilt (feeling they're abandoning the team), excitement (for the next chapter), and regret (second-guessing the decision). These emotions often cycle unpredictably throughout the sale process." },
-      { question: "How can sellers prepare emotionally for selling their business?", answer: "Preparation strategies include: starting to envision life after the sale 1–2 years in advance, working with a therapist or coach specializing in business transitions, gradually delegating responsibilities, developing identity beyond the business (hobbies, board roles, mentoring), and connecting with other entrepreneurs who have successfully sold." },
-      { question: "Why do deals fall apart due to seller emotions?", answer: "Approximately 30–40% of SME deals that reach LOI stage fail to close, and seller emotional factors are the leading cause. Common triggers include: sudden cold feet at the closing table, unrealistic last-minute demands, grief over letting go of employees, and family pressure to retain the business." },
+      { question: "How can sellers prepare emotionally for selling their business?", answer: "Preparation strategies include: starting to envision life after the sale 1-2 years in advance, working with a therapist or coach specializing in business transitions, gradually delegating responsibilities, developing identity beyond the business (hobbies, board roles, mentoring), and connecting with other entrepreneurs who have successfully sold." },
+      { question: "Why do deals fall apart due to seller emotions?", answer: "Approximately 30-40% of SME deals that reach LOI stage fail to close, and seller emotional factors are the leading cause. Common triggers include: sudden cold feet at the closing table, unrealistic last-minute demands, grief over letting go of employees, and family pressure to retain the business." },
     ],
   },
   {
     slug: "seller-data-room",
     title: "Setting Up a Seller Data Room",
-    description: "How to organize a professional data room for selling your business — essential documents, platform options, organization best practices, and common mistakes to avoid.",
+    description: "How to organize a professional data room for selling your business - essential documents, platform options, organization best practices, and common mistakes to avoid.",
     readTime: "11 min read",
     tag: "Seller",
     category: "Deal Execution",
-    ogTitle: "Seller Data Room — Document Organization for Business Sales",
-    ogDescription: "A well-organized data room can increase your sale price by 10–20%. Learn what documents to include, how to organize them, and common mistakes to avoid.",
+    ogTitle: "Seller Data Room - Document Organization for Business Sales",
+    ogDescription: "A well-organized data room can increase your sale price by 10-20%. Learn what documents to include, how to organize them, and common mistakes to avoid.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
@@ -5826,19 +5826,19 @@ export const allArticles: ArticleMeta[] = [
       { name: "FirmRoom", title: "Using Data Room for M&A: Best Practices & Structure", url: "https://firmroom.com/blog/using-data-room-for-m-a", year: 2025 },
     ],
     faqs: [
-      { question: "What should a seller include in a data room?", answer: "A comprehensive data room should include: 3–5 years of financial statements (tax returns, P&L, balance sheet), customer contracts, employee information (org chart, key person agreements, benefits), legal documents (leases, licenses, IP), tax filings, insurance policies, and operational data (KPIs, vendor contracts, technology inventory)." },
-      { question: "When should a seller set up their data room?", answer: "Sellers should begin organizing their data room 6–12 months before going to market. This gives time to clean up financial records, resolve any legal issues, ensure contracts are current, and prepare management presentations. A well-organized data room signals professionalism and can accelerate the sale process by weeks." },
+      { question: "What should a seller include in a data room?", answer: "A comprehensive data room should include: 3-5 years of financial statements (tax returns, P&L, balance sheet), customer contracts, employee information (org chart, key person agreements, benefits), legal documents (leases, licenses, IP), tax filings, insurance policies, and operational data (KPIs, vendor contracts, technology inventory)." },
+      { question: "When should a seller set up their data room?", answer: "Sellers should begin organizing their data room 6-12 months before going to market. This gives time to clean up financial records, resolve any legal issues, ensure contracts are current, and prepare management presentations. A well-organized data room signals professionalism and can accelerate the sale process by weeks." },
       { question: "What data room platforms do SME sellers use?", answer: "Popular virtual data room platforms for SME transactions include Firmex, Intralinks, Datasite (formerly Merrill), Box, and Google Drive with appropriate security settings. For smaller deals (<$5M), secure Google Drive or Dropbox Business folders are common and cost-effective. The key requirement is access controls and audit trails." },
     ],
   },
   {
     slug: "employee-communication-selling",
     title: "Communicating with Employees When Selling Your Business",
-    description: "When and how to tell employees about a business sale — timing, messaging, communication formats, handling difficult questions, and protecting morale during transition.",
+    description: "When and how to tell employees about a business sale - timing, messaging, communication formats, handling difficult questions, and protecting morale during transition.",
     readTime: "11 min read",
     tag: "Seller",
     category: "Deal Execution",
-    ogTitle: "Employee Communication During Business Sales — Timing & Messaging",
+    ogTitle: "Employee Communication During Business Sales - Timing & Messaging",
     ogDescription: "Poor employee communication can kill deals and trigger departures. Learn the right timing, messaging, and format for announcing your business sale.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5848,19 +5848,19 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review", title: "Communicating Through Mergers & Acquisitions", year: 2024 },
     ],
     faqs: [
-      { question: "When should employees be told about a business sale?", answer: "Timing varies by company size and role: senior management may be informed during due diligence (with NDAs), middle managers 1–2 weeks before closing, and general staff at or just after closing. Premature disclosure risks employee departures, customer anxiety, and deal leaks. The buyer and seller should agree on communication timing in advance." },
+      { question: "When should employees be told about a business sale?", answer: "Timing varies by company size and role: senior management may be informed during due diligence (with NDAs), middle managers 1-2 weeks before closing, and general staff at or just after closing. Premature disclosure risks employee departures, customer anxiety, and deal leaks. The buyer and seller should agree on communication timing in advance." },
       { question: "What should the announcement include?", answer: "An effective announcement should cover: who the buyer is and their background, why the sale is happening, what will change (and importantly, what won't), the timeline for any transitions, reassurance about jobs and benefits, and how to ask questions. Tone should be positive, honest, and acknowledge uncertainty." },
-      { question: "How do you prevent key employees from leaving during a sale?", answer: "Retention strategies include: stay bonuses (typically 3–12 months salary), retention agreements with vesting schedules, early and transparent communication with key personnel, involving them in transition planning, and the new owner personally meeting with critical employees before or immediately after closing." },
+      { question: "How do you prevent key employees from leaving during a sale?", answer: "Retention strategies include: stay bonuses (typically 3-12 months salary), retention agreements with vesting schedules, early and transparent communication with key personnel, involving them in transition planning, and the new owner personally meeting with critical employees before or immediately after closing." },
     ],
   },
   {
     slug: "life-after-selling",
     title: "Life After Selling Your Business",
-    description: "Navigate the post-sale transition — first 90 days, identity rebuilding, common paths (investing, board service, mentoring), and financial planning for former business owners.",
+    description: "Navigate the post-sale transition - first 90 days, identity rebuilding, common paths (investing, board service, mentoring), and financial planning for former business owners.",
     readTime: "11 min read",
     tag: "Seller",
     category: "Deal Execution",
-    ogTitle: "Life After Selling Your Business — What Comes Next",
+    ogTitle: "Life After Selling Your Business - What Comes Next",
     ogDescription: "Identity loss is the #1 post-sale challenge. Plan your next chapter: angel investing, board service, mentoring, or serial entrepreneurship.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5871,14 +5871,14 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What do business owners typically do after selling their company?", answer: "Common post-sale paths include: full retirement, starting a new business, investing in other companies (including search funds), consulting in their industry, board service, philanthropy, teaching, mentoring other entrepreneurs, and extended travel. Many sellers experience an initial identity crisis before finding their next purpose." },
-      { question: "How long does it take to adjust to life after selling a business?", answer: "Research suggests it takes most business owners 12–24 months to fully adjust to life after a sale. The first 3–6 months often involve relief followed by restlessness. Sellers who planned their post-sale life in advance and maintained interests outside the business adjust more quickly." },
+      { question: "How long does it take to adjust to life after selling a business?", answer: "Research suggests it takes most business owners 12-24 months to fully adjust to life after a sale. The first 3-6 months often involve relief followed by restlessness. Sellers who planned their post-sale life in advance and maintained interests outside the business adjust more quickly." },
       { question: "What financial planning should sellers do after receiving sale proceeds?", answer: "Immediate priorities include: tax optimization with a specialized CPA, estate planning updates, wealth management strategy (diversification away from concentrated position), insurance review, and lifestyle budgeting. Many sellers benefit from working with a wealth advisor experienced in business exit liquidity events." },
     ],
   },
   {
     slug: "building-trust-teams",
     title: "Building Trust with Teams After Acquisition",
-    description: "How to earn trust from inherited employees — first 30 days, quick wins, long-term relationship building, and overcoming the new owner trust deficit.",
+    description: "How to earn trust from inherited employees - first 30 days, quick wins, long-term relationship building, and overcoming the new owner trust deficit.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -5892,7 +5892,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "Search Fund Operator Best Practices", year: 2024 },
     ],
     faqs: [
-      { question: "How should a new CEO build trust with inherited employees?", answer: "Effective trust-building strategies include: spending the first 2–4 weeks listening rather than changing, holding individual meetings with all key staff, honoring existing commitments and traditions, being transparent about your plans and vision, making small visible improvements early, and demonstrating that you value their institutional knowledge." },
+      { question: "How should a new CEO build trust with inherited employees?", answer: "Effective trust-building strategies include: spending the first 2-4 weeks listening rather than changing, holding individual meetings with all key staff, honoring existing commitments and traditions, being transparent about your plans and vision, making small visible improvements early, and demonstrating that you value their institutional knowledge." },
       { question: "What is the biggest mistake new owners make with inherited teams?", answer: "The biggest mistake is making too many changes too quickly. Employees are already anxious about new ownership. Changing processes, structure, or personnel in the first 90 days (without critical cause) destroys trust and triggers departures. The most successful acquirers observe for 90 days before making significant organizational changes." },
       { question: "How do you identify who to keep and who to replace?", answer: "Use the first 90 days to assess each team member across three dimensions: competence (can they do the job?), culture (do they align with the company's values?), and commitment (are they engaged and growing?). Employees who score low on two or more dimensions are candidates for transition. Those strong on all three are your core team." },
     ],
@@ -5900,11 +5900,11 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "cybersecurity-post-acquisition",
     title: "Cybersecurity in Post-Acquisition Integration",
-    description: "Secure your newly acquired business — access audits, credential resets, MFA implementation, backup verification, and priority security investments for SMEs.",
+    description: "Secure your newly acquired business - access audits, credential resets, MFA implementation, backup verification, and priority security investments for SMEs.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Post-Acquisition Cybersecurity — Securing Your New Business",
+    ogTitle: "Post-Acquisition Cybersecurity - Securing Your New Business",
     ogDescription: "Many SMEs have minimal security. Learn the immediate post-acquisition actions, common gaps, and priority investments to protect your business from cyber threats.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5916,18 +5916,18 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "Why is cybersecurity important immediately after an acquisition?", answer: "Acquisitions create cybersecurity vulnerabilities: IT systems are in transition, passwords and access controls may be shared loosely, employee turnover increases phishing risk, and the business may be targeted by opportunistic attackers who monitor deal announcements. A security assessment within the first 30 days is essential." },
       { question: "What cybersecurity steps should a new owner take in the first 90 days?", answer: "Priority actions include: audit all user access and remove former employees, implement multi-factor authentication, review backup systems and disaster recovery plans, assess endpoint protection, update all software and firmware, review cyber insurance coverage, and conduct a basic vulnerability scan. For regulated industries, engage a specialized IT security firm." },
-      { question: "How much should an acquired SME budget for cybersecurity?", answer: "SMEs should budget 3–7% of their IT spend on cybersecurity, with a minimum of $5,000–$20,000 annually for basic protection (endpoint security, backup, monitoring). Regulated industries (healthcare, financial services) should budget more. The average cost of a data breach for SMEs is $120,000–$200,000, making prevention far cheaper than remediation." },
+      { question: "How much should an acquired SME budget for cybersecurity?", answer: "SMEs should budget 3-7% of their IT spend on cybersecurity, with a minimum of $5,000-$20,000 annually for basic protection (endpoint security, backup, monitoring). Regulated industries (healthcare, financial services) should budget more. The average cost of a data breach for SMEs is $120,000-$200,000, making prevention far cheaper than remediation." },
     ],
   },
   {
     slug: "strategic-sale-vs-financial",
     title: "Strategic vs. Financial Buyers: Choosing Your Exit Path",
-    description: "Compare strategic and financial buyers for your business sale — valuation premiums, deal certainty, employee impact, legacy preservation, and when to choose each.",
+    description: "Compare strategic and financial buyers for your business sale - valuation premiums, deal certainty, employee impact, legacy preservation, and when to choose each.",
     readTime: "11 min read",
     tag: "Seller",
     category: "Deal Execution",
-    ogTitle: "Strategic vs. Financial Buyers — Exit Path Comparison",
-    ogDescription: "Strategic buyers pay 20–50% premiums but may change your business. Financial buyers preserve independence and culture. Compare both exit paths.",
+    ogTitle: "Strategic vs. Financial Buyers - Exit Path Comparison",
+    ogDescription: "Strategic buyers pay 20-50% premiums but may change your business. Financial buyers preserve independence and culture. Compare both exit paths.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5936,7 +5936,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Exit Planning Institute", title: "Choosing the Right Buyer", year: 2024 },
     ],
     faqs: [
-      { question: "What is the difference between a strategic buyer and a financial buyer?", answer: "A strategic buyer acquires businesses that complement their existing operations (synergies, market expansion, vertical integration). A financial buyer (PE firms, search funds) acquires based on standalone financial returns. Strategic buyers typically pay 20–40% premiums over financial buyers due to synergy value." },
+      { question: "What is the difference between a strategic buyer and a financial buyer?", answer: "A strategic buyer acquires businesses that complement their existing operations (synergies, market expansion, vertical integration). A financial buyer (PE firms, search funds) acquires based on standalone financial returns. Strategic buyers typically pay 20-40% premiums over financial buyers due to synergy value." },
       { question: "When should a seller target strategic buyers vs financial buyers?", answer: "Target strategic buyers when your business has clear synergies with larger companies, proprietary technology or market position, and you prioritize maximum sale price. Target financial buyers (including search funds) when you prioritize legacy, employee retention, and finding an operator who will run the business long-term." },
       { question: "Can you run a dual-track process targeting both buyer types?", answer: "Yes, dual-track processes are common in mid-market M&A. This involves simultaneously engaging strategic and financial buyers to maximize competition and sale price. However, for smaller deals (<$10M), the complexity and cost of a dual-track process may not be justified. A good M&A advisor can manage the process." },
     ],
@@ -5944,11 +5944,11 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "sba-loan-state-by-state",
     title: "SBA Loans for Acquisitions: State-by-State Guide",
-    description: "Navigate the SBA lending landscape across the US — top lending states, state-level factors, finding lenders, and tips for SBA acquisition loan approval.",
+    description: "Navigate the SBA lending landscape across the US - top lending states, state-level factors, finding lenders, and tips for SBA acquisition loan approval.",
     readTime: "11 min read",
     tag: "Financing",
     category: "Legal & Tax",
-    ogTitle: "SBA Loans by State — Acquisition Financing Guide",
+    ogTitle: "SBA Loans by State - Acquisition Financing Guide",
     ogDescription: "SBA 7(a) lending activity varies by state. Find the best SBA lenders, understand state-level factors, and maximize your chances of approval.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5966,11 +5966,11 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "business-broker-ecosystems-by-country",
     title: "Business Broker Ecosystems by Country",
-    description: "Map the business brokerage landscape worldwide — US, UK, DACH, France, Spain, Japan, and beyond. Platforms, regulations, and deal sourcing strategies by country.",
+    description: "Map the business brokerage landscape worldwide - US, UK, DACH, France, Spain, Japan, and beyond. Platforms, regulations, and deal sourcing strategies by country.",
     readTime: "12 min read",
     tag: "Deal Sourcing",
     category: "Deal Execution",
-    ogTitle: "Business Broker Ecosystems by Country — Global Deal Sourcing Guide",
+    ogTitle: "Business Broker Ecosystems by Country - Global Deal Sourcing Guide",
     ogDescription: "From BizBuySell in the US to Nexxt-Change in Germany and CCI in France. Map the intermediary landscape and optimize deal sourcing in any market.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5981,8 +5981,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which countries have the most developed business broker networks?", answer: "The US has the most developed business brokerage market with 3,000+ registered brokers and established platforms (BizBuySell, Axial). The UK, Germany, and France follow with mature broker networks. Smaller European markets (Nordics, Benelux) have fewer brokers but increasing activity through platforms like Dealsuite." },
-      { question: "How do broker fees vary by country?", answer: "In the US, business brokers charge 8–12% commission on deals under $1M (Lehman formula for larger deals). European broker fees tend to be lower: 3–8% in the UK, 4–6% in Germany (Maklergebühr), 5–8% in France (CRA). Advisory fees for mid-market deals ($5M+) are typically 1–3% plus a retainer." },
-      { question: "Should a search fund entrepreneur use a broker or source deals directly?", answer: "Both. Successful searchers typically source 60–70% of deals through direct outreach (cold calls, networking, LinkedIn) and 30–40% through brokers. Brokers provide access to sellers who are actively marketing their businesses, while direct sourcing can uncover off-market deals with less competition." },
+      { question: "How do broker fees vary by country?", answer: "In the US, business brokers charge 8-12% commission on deals under $1M (Lehman formula for larger deals). European broker fees tend to be lower: 3-8% in the UK, 4-6% in Germany (Maklergebühr), 5-8% in France (CRA). Advisory fees for mid-market deals ($5M+) are typically 1-3% plus a retainer." },
+      { question: "Should a search fund entrepreneur use a broker or source deals directly?", answer: "Both. Successful searchers typically source 60-70% of deals through direct outreach (cold calls, networking, LinkedIn) and 30-40% through brokers. Brokers provide access to sellers who are actively marketing their businesses, while direct sourcing can uncover off-market deals with less competition." },
     ],
   },
   {
@@ -6029,8 +6029,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the most common IP issue found during acquisition due diligence?", answer: "Missing contractor IP assignments are the single most common issue. When a business hires freelancers without proper IP assignment agreements, the contractor may legally own that work. Always verify that written assignment agreements exist for every piece of contractor-created IP." },
-      { question: "How does IP transfer differently in an asset deal vs. a stock deal?", answer: "In a stock deal, the company entity remains the same, so IP ownership does not change hands — but check for change-of-control triggers in third-party licenses. In an asset deal, every IP asset must be explicitly assigned to the buyer in writing and recorded with relevant authorities (USPTO, EUIPO, etc.)." },
-      { question: "Should I hire a specialist for IP due diligence?", answer: "For any business where IP is a material driver of value (software, branded products, proprietary processes), engaging an IP attorney is strongly recommended. Typical costs are $5K–$20K for a focused IP audit, plus $3K–$10K for an open-source license audit for software businesses." },
+      { question: "How does IP transfer differently in an asset deal vs. a stock deal?", answer: "In a stock deal, the company entity remains the same, so IP ownership does not change hands - but check for change-of-control triggers in third-party licenses. In an asset deal, every IP asset must be explicitly assigned to the buyer in writing and recorded with relevant authorities (USPTO, EUIPO, etc.)." },
+      { question: "Should I hire a specialist for IP due diligence?", answer: "For any business where IP is a material driver of value (software, branded products, proprietary processes), engaging an IP attorney is strongly recommended. Typical costs are $5K-$20K for a focused IP audit, plus $3K-$10K for an open-source license audit for software businesses." },
     ],
   },
 
@@ -6053,7 +6053,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "CPPA", title: "California Consumer Privacy Act Enforcement Guidelines", year: 2025 },
     ],
     faqs: [
-      { question: "Does the buyer inherit GDPR liability from the seller?", answer: "In a stock deal, yes — the acquired company retains its full compliance history, including any past violations. The EDPB has confirmed that supervisory authorities can investigate and fine for pre-acquisition breaches discovered after the deal closes. In an asset deal, liability generally stays with the seller's entity, but the buyer must still ensure transferred data has a lawful processing basis." },
+      { question: "Does the buyer inherit GDPR liability from the seller?", answer: "In a stock deal, yes - the acquired company retains its full compliance history, including any past violations. The EDPB has confirmed that supervisory authorities can investigate and fine for pre-acquisition breaches discovered after the deal closes. In an asset deal, liability generally stays with the seller's entity, but the buyer must still ensure transferred data has a lawful processing basis." },
       { question: "Can customer data be shared during due diligence?", answer: "Under GDPR, the seller may share personal data during due diligence under a 'legitimate interest' basis, but only the minimum data necessary. Best practice is to use anonymized or aggregated data wherever possible. Under CCPA, there is an explicit 'business purpose' exception that permits data sharing as part of an M&A transaction." },
       { question: "What privacy steps should I take immediately after closing?", answer: "Within the first 90 days, update all privacy notices to reflect the new data controller, review and renegotiate vendor data processing agreements, appoint a Data Protection Officer if required, and conduct a gap analysis between your privacy standards and the acquired company's practices." },
     ],
@@ -6077,7 +6077,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "Search Fund Governance Best Practices", year: 2024 },
     ],
     faqs: [
-      { question: "What are the most important provisions in a shareholder agreement?", answer: "Key SHA provisions for search fund acquisitions: (1) Board composition—typically 3-5 members with CEO, investor seats, and independents; (2) Reserved matters—decisions requiring board approval (new debt, major capex, hiring/firing executives); (3) Drag-along/tag-along rights—protecting majority exit rights and minority participation; (4) Good leaver/bad leaver—different equity treatment if the CEO is terminated vs. quits; (5) Vesting schedule—typically 4-5 years for the CEO's carried interest; (6) Exit provisions—target horizon and forced sale mechanisms." },
+      { question: "What are the most important provisions in a shareholder agreement?", answer: "Key SHA provisions for search fund acquisitions: (1) Board composition - typically 3-5 members with CEO, investor seats, and independents; (2) Reserved matters - decisions requiring board approval (new debt, major capex, hiring/firing executives); (3) Drag-along/tag-along rights - protecting majority exit rights and minority participation; (4) Good leaver/bad leaver - different equity treatment if the CEO is terminated vs. quits; (5) Vesting schedule - typically 4-5 years for the CEO's carried interest; (6) Exit provisions - target horizon and forced sale mechanisms." },
     ],
   },
 
@@ -6099,7 +6099,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "Real Property Guidelines for 7(a) and 504 Loans", year: 2024 },
     ],
     faqs: [
-      { question: "Should I buy or lease the property in a business acquisition?", answer: "Buy when: the property is critical to operations (manufacturing, specialized facilities), you want long-term cost certainty, or prices are favorable. Lease when: you want to minimize total deal size, the business may relocate, or real estate isn't your core competency. A common hybrid: buy the property in a separate entity and lease it to the operating company. If the seller owns the property personally, negotiate a long-term lease at market rates with clear renewal options—otherwise the seller retains leverage as your landlord." },
+      { question: "Should I buy or lease the property in a business acquisition?", answer: "Buy when: the property is critical to operations (manufacturing, specialized facilities), you want long-term cost certainty, or prices are favorable. Lease when: you want to minimize total deal size, the business may relocate, or real estate isn't your core competency. A common hybrid: buy the property in a separate entity and lease it to the operating company. If the seller owns the property personally, negotiate a long-term lease at market rates with clear renewal options - otherwise the seller retains leverage as your landlord." },
     ],
   },
 
@@ -6122,9 +6122,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "EY", title: "Worldwide Corporate Tax Guide", year: 2024 },
     ],
     faqs: [
-      { question: "How much can a holding company save in taxes on an acquisition?", answer: "For a typical €3M acquisition financed with €2M in debt at 5% interest (€100K annual interest), tax consolidation saves approximately €25K–€33K per year at a 25–33% corporate tax rate. Over a seven-year holding period, cumulative savings can reach €150K–€200K." },
+      { question: "How much can a holding company save in taxes on an acquisition?", answer: "For a typical €3M acquisition financed with €2M in debt at 5% interest (€100K annual interest), tax consolidation saves approximately €25K-€33K per year at a 25-33% corporate tax rate. Over a seven-year holding period, cumulative savings can reach €150K-€200K." },
       { question: "Does my holding company need real employees and an office?", answer: "Yes. Under EU anti-abuse rules and the proposed 'Unshell' Directive, holding companies must demonstrate genuine economic substance: a physical office, local employees or directors who make real decisions, and a bank account in the holding jurisdiction." },
-      { question: "What is the 30% EBITDA interest limitation?", answer: "Under the EU Anti-Tax Avoidance Directive (ATAD), net borrowing costs are deductible only up to 30% of the group's EBITDA. Most EU countries provide a safe harbor (typically €1M–€3M) below which the cap does not apply. For search fund acquisitions under €5M, the safe harbor often covers the full interest expense." },
+      { question: "What is the 30% EBITDA interest limitation?", answer: "Under the EU Anti-Tax Avoidance Directive (ATAD), net borrowing costs are deductible only up to 30% of the group's EBITDA. Most EU countries provide a safe harbor (typically €1M-€3M) below which the cap does not apply. For search fund acquisitions under €5M, the safe harbor often covers the full interest expense." },
     ],
   },
 
@@ -6215,13 +6215,13 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Cornell LII", title: "26 U.S.C. § 197 — Amortization of Goodwill and Certain Other Intangibles", url: "https://www.law.cornell.edu/uscode/text/26/197", year: 2024 },
+      { name: "Cornell LII", title: "26 U.S.C. § 197 - Amortization of Goodwill and Certain Other Intangibles", url: "https://www.law.cornell.edu/uscode/text/26/197", year: 2024 },
       { name: "IRS", title: "Instructions for Form 8594: Asset Acquisition Statement Under Section 1060", url: "https://www.irs.gov/forms-pubs/about-form-8594", year: 2021 },
-      { name: "FASB", title: "ASC 350-20: Goodwill — Subsequent Measurement", url: "https://asc.fasb.org/350-20", year: 2024 },
+      { name: "FASB", title: "ASC 350-20: Goodwill - Subsequent Measurement", url: "https://asc.fasb.org/350-20", year: 2024 },
       { name: "Deloitte", title: "Roadmap: Goodwill and Intangible Assets", url: "https://www.deloitte.com/us/en/services/audit-assurance/articles/accounting-for-goodwill-impairment.html", year: 2025 },
       { name: "KPMG", title: "Goodwill Impairment: IFRS vs. U.S. GAAP", url: "https://kpmg.com/us/en/articles/2022/goodwill-impairment-ifrs-standards-us-gaap.html", year: 2022 },
       { name: "EY", title: "Worldwide Corporate Tax Guide: Goodwill Deductions by Jurisdiction", url: "https://www.ey.com/en_gl/technical/tax-guides/worldwide-corporate-tax-guide", year: 2024 },
-      { name: "U.S. Treasury (eCFR)", title: "26 CFR § 1.197-2 — Amortization of Goodwill and Certain Other Intangibles", url: "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR17eb1ccc6b4f000/section-1.197-2", year: 2024 },
+      { name: "U.S. Treasury (eCFR)", title: "26 CFR § 1.197-2 - Amortization of Goodwill and Certain Other Intangibles", url: "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR17eb1ccc6b4f000/section-1.197-2", year: 2024 },
     ],
     faqs: [
       { question: "Can I deduct goodwill for tax purposes in my acquisition?", answer: "It depends on the country and deal structure. In asset purchases: US (15-year amortization), Germany (15 years), Spain (20 years), Italy (18 years), Netherlands (5-10 years). In the UK and France, goodwill is generally NOT deductible. In stock/share purchases, goodwill is typically not deductible unless a 338(h)(10) election (US) or similar mechanism is used. Goodwill often represents 40-70% of SME acquisition prices, so the tax savings (5-15% of purchase price over time) are material." },
@@ -6238,7 +6238,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SL vs. SA: Spanish Entity Structures for Buyers",
     ogDescription:
-      "Choose the right Spanish entity: SL vs. SA for acquisitions—transfer tax, share classes, ENISA loans, and ICO-backed financing structures.",
+      "Choose the right Spanish entity: SL vs. SA for acquisitions - transfer tax, share classes, ENISA loans, and ICO-backed financing structures.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -6246,7 +6246,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "Search Fund Structures in Spain", year: 2024 },
     ],
     faqs: [
-      { question: "Should I use an SL or SA for a Spanish acquisition?", answer: "SL (Sociedad Limitada) is the default for smaller SME acquisitions: only €3K minimum capital, simpler governance, and adequate flexibility. SA (Sociedad Anónima) is better for investor-backed deals requiring preferred share classes, as SA shares are freely transferable and exempt from ITP transfer tax (vs. 1-6% for SL). SA requires €60K minimum capital. For search fund structures with ENISA participative loans, both work—ENISA counts as equity under Spanish law regardless of entity type." },
+      { question: "Should I use an SL or SA for a Spanish acquisition?", answer: "SL (Sociedad Limitada) is the default for smaller SME acquisitions: only €3K minimum capital, simpler governance, and adequate flexibility. SA (Sociedad Anónima) is better for investor-backed deals requiring preferred share classes, as SA shares are freely transferable and exempt from ITP transfer tax (vs. 1-6% for SL). SA requires €60K minimum capital. For search fund structures with ENISA participative loans, both work - ENISA counts as equity under Spanish law regardless of entity type." },
     ],
   },
 
@@ -6260,7 +6260,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SRL vs. SPA: Italian Entity Structures for Acquisitions",
     ogDescription:
-      "Choose the right Italian entity: SRL vs. SPA for acquisitions—governance, share classes, €200 flat transfer tax, and PEX participation exemption.",
+      "Choose the right Italian entity: SRL vs. SPA for acquisitions - governance, share classes, €200 flat transfer tax, and PEX participation exemption.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6295,7 +6295,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "Should I use a BV or NV for a Dutch acquisition?", answer: "For virtually all SME acquisitions, the BV is the correct choice. Since the 2012 Flex-BV reform, it offers nearly unlimited flexibility with essentially no minimum capital. The NV is only relevant for companies planning a stock exchange listing on Euronext Amsterdam." },
       { question: "What is fiscal unity and how does it benefit acquisition structures?", answer: "Fiscal unity allows a parent BV owning 95%+ of a subsidiary to consolidate into a single tax filing. Profits from the operating subsidiary can offset acquisition debt interest at the holding BV level, effectively making acquisition financing tax-deductible." },
-      { question: "Do I need a works council for a Dutch acquisition?", answer: "If the target has 50+ employees, a works council (ondernemingsraad) with advisory rights on acquisitions is mandatory. The council must be consulted before closing. Factor 4–6 weeks into your closing timeline." },
+      { question: "Do I need a works council for a Dutch acquisition?", answer: "If the target has 50+ employees, a works council (ondernemingsraad) with advisory rights on acquisitions is mandatory. The council must be consulted before closing. Factor 4-6 weeks into your closing timeline." },
     ],
   },
 
@@ -6319,7 +6319,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IRS", title: "IRC Section 1060: Special Allocation Rules for Asset Acquisitions", year: 2024 },
     ],
     faqs: [
-      { question: "What is a step-up in basis and why does it matter for acquisitions?", answer: "A step-up in basis revalues acquired assets to their fair market value for tax purposes, generating depreciation and amortization deductions that reduce taxes. In a $3M asset purchase, annual tax deductions of $200K-$400K can save $50K-$100K+ per year. The step-up applies to tangible assets (equipment, real estate), intangibles (customer lists, non-competes), and goodwill (15-year amortization under Section 197). Only available in asset purchases or stock purchases with a 338(h)(10) election—not in standard stock deals." },
+      { question: "What is a step-up in basis and why does it matter for acquisitions?", answer: "A step-up in basis revalues acquired assets to their fair market value for tax purposes, generating depreciation and amortization deductions that reduce taxes. In a $3M asset purchase, annual tax deductions of $200K-$400K can save $50K-$100K+ per year. The step-up applies to tangible assets (equipment, real estate), intangibles (customer lists, non-competes), and goodwill (15-year amortization under Section 197). Only available in asset purchases or stock purchases with a 338(h)(10) election - not in standard stock deals." },
     ],
   },
 
@@ -6344,7 +6344,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "When should I use a 338(h)(10) election vs. a straight asset purchase?", answer: "Use a 338(h)(10) when the target is an S-Corporation or corporate subsidiary and the legal benefits of a stock purchase outweigh the liability risk. Stock purchases are preferred when the target holds non-transferable contracts, permits, or certifications. If liability risk is your primary concern, a straight asset purchase gives you more protection." },
       { question: "Can a 338(h)(10) election be made for a C-Corporation?", answer: "Not for a standalone C-Corporation sold by individual shareholders. The election is available only for S-Corporations and corporate subsidiaries. For standalone C-Corps, a Section 336(e) election may provide a similar result in certain circumstances." },
-      { question: "How much do the tax savings amount to on a typical search fund deal?", answer: "On a typical $3M–$10M search fund acquisition, annual tax deductions from the stepped-up basis range from $200K to $700K, translating to $50K–$175K in annual cash tax savings at a 25% effective rate. Over the 15-year Section 197 amortization period, cumulative savings range from $750K to $2.6M." },
+      { question: "How much do the tax savings amount to on a typical search fund deal?", answer: "On a typical $3M-$10M search fund acquisition, annual tax deductions from the stepped-up basis range from $200K to $700K, translating to $50K-$175K in annual cash tax savings at a 25% effective rate. Over the 15-year Section 197 amortization period, cumulative savings range from $750K to $2.6M." },
     ],
   },
 
@@ -6367,9 +6367,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Willis Towers Watson", title: "D&O Insurance Market Update", year: 2024 },
     ],
     faqs: [
-      { question: "Is R&W insurance worth it for a small search fund deal?", answer: "For deals under $5M, R&W insurance is generally not cost-effective because the premium ($40K–$80K+) represents a significant percentage of deal value. For deals in the $5M–$20M range, it becomes increasingly valuable, especially when the seller wants a clean exit or the deal is competitive." },
-      { question: "What does key person insurance cost and who pays for it?", answer: "Key person insurance typically costs $500–$3,000 per year. The business is both purchaser and beneficiary. SBA lenders almost always require it on the searcher/CEO with coverage equal to the outstanding loan balance." },
-      { question: "When should I purchase tail D&O coverage?", answer: "Tail D&O coverage should be purchased at the time you sell the company. It extends protection for board members for actions taken during ownership, typically for 6 years after sale. Cost is roughly 200–300% of the final annual D&O premium." },
+      { question: "Is R&W insurance worth it for a small search fund deal?", answer: "For deals under $5M, R&W insurance is generally not cost-effective because the premium ($40K-$80K+) represents a significant percentage of deal value. For deals in the $5M-$20M range, it becomes increasingly valuable, especially when the seller wants a clean exit or the deal is competitive." },
+      { question: "What does key person insurance cost and who pays for it?", answer: "Key person insurance typically costs $500-$3,000 per year. The business is both purchaser and beneficiary. SBA lenders almost always require it on the searcher/CEO with coverage equal to the outstanding loan balance." },
+      { question: "When should I purchase tail D&O coverage?", answer: "Tail D&O coverage should be purchased at the time you sell the company. It extends protection for board members for actions taken during ownership, typically for 6 years after sale. Cost is roughly 200-300% of the final annual D&O premium." },
     ],
   },
 
@@ -6392,7 +6392,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Federal Reserve", title: "Small Business Lending Survey: Alternative Finance", url: "https://www.federalreserve.gov/", year: 2024 },
     ],
     faqs: [
-      { question: "What is revenue-based financing and how does it work?", answer: "Revenue-Based Financing (RBF) provides a capital advance ($100K–$5M) repaid as a fixed percentage (2–8%) of monthly gross revenue until a cap is reached (1.3–2.5x the original amount). No equity dilution, flexible payments that adjust with revenue, and often no personal guarantee. Best for post-acquisition growth capital, not the acquisition itself." },
+      { question: "What is revenue-based financing and how does it work?", answer: "Revenue-Based Financing (RBF) provides a capital advance ($100K-$5M) repaid as a fixed percentage (2-8%) of monthly gross revenue until a cap is reached (1.3-2.5x the original amount). No equity dilution, flexible payments that adjust with revenue, and often no personal guarantee. Best for post-acquisition growth capital, not the acquisition itself." },
       { question: "Is RBF a good fit for traditional (non-SaaS) SMEs?", answer: "Most RBF providers target SaaS, e-commerce, and subscription businesses, but a growing number now serve service businesses with predictable monthly billing. If your company has stable recurring revenue above $30K/month, RBF may be available even in traditional industries like home services or B2B distribution." },
       { question: "Can I use RBF to fund an acquisition?", answer: "RBF is generally not suitable for acquisition financing because it requires existing revenue to underwrite. For acquisition financing, consider seller financing, SBA loans, or investor equity instead." },
     ],
@@ -6408,7 +6408,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SAS vs. SARL: French Legal Structures for Acquisitions",
     ogDescription:
-      "Choose the right French entity: SAS vs. SARL for acquisitions—transfer taxes, social charges, governance flexibility, and investor compatibility.",
+      "Choose the right French entity: SAS vs. SARL for acquisitions - transfer taxes, social charges, governance flexibility, and investor compatibility.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6457,7 +6457,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Ltd vs. LLP: UK Entity Structures for Acquisitions",
     ogDescription:
-      "Choose the right UK entity: Ltd vs. LLP for acquisitions—tax treatment, investor compatibility, financing options, and exit planning.",
+      "Choose the right UK entity: Ltd vs. LLP for acquisitions - tax treatment, investor compatibility, financing options, and exit planning.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6466,9 +6466,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Law Society of England and Wales", title: "Business Acquisition Guide", year: 2024 },
     ],
     faqs: [
-      { question: "Is an Ltd or LLP better for a search fund acquisition in the UK?", answer: "An Ltd is almost always the better choice. It is the standard structure for UK acquisitions — preferred by search fund investors (who can hold preference shares), banks (which strongly prefer lending to Ltd companies), and for governance flexibility. LLPs create complications for search fund structures: no share classes, tax-transparency issues, and limited financing options." },
+      { question: "Is an Ltd or LLP better for a search fund acquisition in the UK?", answer: "An Ltd is almost always the better choice. It is the standard structure for UK acquisitions - preferred by search fund investors (who can hold preference shares), banks (which strongly prefer lending to Ltd companies), and for governance flexibility. LLPs create complications for search fund structures: no share classes, tax-transparency issues, and limited financing options." },
       { question: "What is the stamp duty on buying shares in a UK Ltd company?", answer: "Stamp duty on share purchases is 0.5% of the consideration, rounded up to the nearest £5, and applies to purchases above £1,000. LLP interest transfers attract no stamp duty, which is one of the few structural advantages of the LLP form." },
-      { question: "Can I convert an LLP to an Ltd after acquisition?", answer: "There is no statutory conversion mechanism from LLP to Ltd in the UK. The typical approach is to incorporate a new Ltd, transfer the LLP's business and assets, then wind down the LLP. Budget 3–6 months and £10K–£30K in professional fees for a clean conversion." },
+      { question: "Can I convert an LLP to an Ltd after acquisition?", answer: "There is no statutory conversion mechanism from LLP to Ltd in the UK. The typical approach is to incorporate a new Ltd, transfer the LLP's business and assets, then wind down the LLP. Budget 3-6 months and £10K-£30K in professional fees for a clean conversion." },
     ],
   },
 
@@ -6494,7 +6494,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Sterlington PLLC", title: "Non-Disclosure Agreements: The Ubiquitous Remedies Provision", url: "https://www.sterlingtonlaw.com/key-provisions-of-non-disclosure-agreements-2/", year: 2024 },
     ],
     faqs: [
-      { question: "What should I look for in an acquisition NDA?", answer: "Key provisions to review: (1) Definition of confidential information — ensure it excludes publicly available data and information you already knew; (2) Permitted disclosures — you must be able to share with attorneys, accountants, lenders, and investors; (3) Non-solicitation — limit to employees you actually interact with, not all employees; (4) Term — 2 years is standard; push back on indefinite terms; (5) Residuals clause — negotiate out prohibitions on using 'residual knowledge'; (6) Return/destruction obligations — ensure they're practical. Always have your attorney review broker-provided NDAs." },
+      { question: "What should I look for in an acquisition NDA?", answer: "Key provisions to review: (1) Definition of confidential information - ensure it excludes publicly available data and information you already knew; (2) Permitted disclosures - you must be able to share with attorneys, accountants, lenders, and investors; (3) Non-solicitation - limit to employees you actually interact with, not all employees; (4) Term - 2 years is standard; push back on indefinite terms; (5) Residuals clause - negotiate out prohibitions on using 'residual knowledge'; (6) Return/destruction obligations - ensure they're practical. Always have your attorney review broker-provided NDAs." },
     ],
   },
 
@@ -6508,7 +6508,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Search Fund Investor Economics: Step-Up, Returns & Portfolio Construction",
     ogDescription:
-      "$25K–$50K search capital → 1.5x step-up → 35% IRR median. The complete guide to search fund investor economics, capital deployment, and portfolio construction.",
+      "$25K-$50K search capital → 1.5x step-up → 35% IRR median. The complete guide to search fund investor economics, capital deployment, and portfolio construction.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -6517,7 +6517,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the step-up in search fund investing?", answer: "The step-up gives search capital investors a 1.5x credit: for every $1 invested during the search phase, the investor receives $1.50 worth of equity at the acquisition. This compensates for the risk that the search may not result in a completed acquisition (33% of searches end without a deal)." },
-      { question: "How much do you need to invest in a search fund?", answer: "Search capital commitments are typically $25K–$50K per investor. If the searcher completes an acquisition, investors have the right to invest additional acquisition equity (typically $100K–$1M+ per investor depending on deal size). Total commitment per fund: $125K–$1M+ across both stages." },
+      { question: "How much do you need to invest in a search fund?", answer: "Search capital commitments are typically $25K-$50K per investor. If the searcher completes an acquisition, investors have the right to invest additional acquisition equity (typically $100K-$1M+ per investor depending on deal size). Total commitment per fund: $125K-$1M+ across both stages." },
     ],
   },
   {
@@ -6530,7 +6530,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "How to Structure an LBO for Small Business Acquisitions",
     ogDescription:
-      "60–80% debt, 20–40% equity, 1.25x+ DSCR — the complete LBO structuring guide for SME acquisitions with worked examples, value creation levers, and risk analysis.",
+      "60-80% debt, 20-40% equity, 1.25x+ DSCR - the complete LBO structuring guide for SME acquisitions with worked examples, value creation levers, and risk analysis.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -6539,8 +6539,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "How does a leveraged buyout work for small businesses?", answer: "An SME LBO uses the target's own cash flow to service acquisition debt. Typical structure: 50–70% senior debt (SBA or bank), 10–20% seller note, 15–30% buyer equity. The business's free cash flow must exceed annual debt payments by 1.25x+ (DSCR requirement). As debt is paid down, equity value increases — even without any operational improvement." },
-      { question: "What return can you expect from an SME LBO?", answer: "A well-structured SME LBO targeting $2M EBITDA at 4.5x can generate 30–45% IRR over 5–7 years through three value creation levers: debt paydown (the 'free' return), EBITDA growth (each $1 of growth worth $4–6 at exit), and multiple expansion (growing above $3M EBITDA commands 1–2 higher turn multiples)." },
+      { question: "How does a leveraged buyout work for small businesses?", answer: "An SME LBO uses the target's own cash flow to service acquisition debt. Typical structure: 50-70% senior debt (SBA or bank), 10-20% seller note, 15-30% buyer equity. The business's free cash flow must exceed annual debt payments by 1.25x+ (DSCR requirement). As debt is paid down, equity value increases - even without any operational improvement." },
+      { question: "What return can you expect from an SME LBO?", answer: "A well-structured SME LBO targeting $2M EBITDA at 4.5x can generate 30-45% IRR over 5-7 years through three value creation levers: debt paydown (the 'free' return), EBITDA growth (each $1 of growth worth $4-6 at exit), and multiple expansion (growing above $3M EBITDA commands 1-2 higher turn multiples)." },
     ],
   },
   {
@@ -6562,20 +6562,20 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "How do self-funded searchers finance acquisitions?", answer: "The standard structure is 80/10/10: 80% SBA 7(a) loan (up to $5M, 10-year term), 10% seller note on full standby (no payments for 24 months), and 10% buyer equity. This lets you buy a $2M business with $200K of personal capital while retaining 100% ownership." },
-      { question: "What is a seller note on standby?", answer: "SBA requires the seller note to be on 'full standby' for at least 24 months — meaning no principal or interest payments during that period. After standby, the note is repaid over 3–5 years at 5–7% interest. This structure ensures the SBA loan gets priority in debt service." },
+      { question: "What is a seller note on standby?", answer: "SBA requires the seller note to be on 'full standby' for at least 24 months - meaning no principal or interest payments during that period. After standby, the note is repaid over 3-5 years at 5-7% interest. This structure ensures the SBA loan gets priority in debt service." },
     ],
   },
   {
     slug: "tax-optimization",
     title: "Tax Optimization for Search Fund Acquisitions",
     description:
-      "Asset vs stock purchase, QSBS, Dutreil pact, holding structures — tax strategies for US and European acquisitions.",
+      "Asset vs stock purchase, QSBS, Dutreil pact, holding structures - tax strategies for US and European acquisitions.",
     readTime: "7 min read",
     tag: "Legal",
     category: "Legal & Tax",
-    ogTitle: "Tax Optimization for Search Fund Acquisitions — US & Europe",
+    ogTitle: "Tax Optimization for Search Fund Acquisitions - US & Europe",
     ogDescription:
-      "QSBS, Dutreil pact, integration fiscale, asset vs stock — understand the tax strategies that can save you millions on your acquisition.",
+      "QSBS, Dutreil pact, integration fiscale, asset vs stock - understand the tax strategies that can save you millions on your acquisition.",
     datePublished: "2024-07-02",
     dateModified: "2025-04-17",
     sources: [
@@ -6584,7 +6584,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What are the most effective tax optimization strategies for search fund acquisitions?", answer: "Key strategies include: asset purchase elections (step-up in basis for depreciation/amortization), QSBS exclusion (up to $10M capital gains exclusion in the US), holding company structures (tax-efficient dividend and interest flows), seller financing optimization, and country-specific programs like France's Dutreil pact (75% estate tax exemption)." },
       { question: "Does it matter whether you structure an acquisition as an asset purchase or stock purchase for tax purposes?", answer: "Yes, it matters enormously. Asset purchases allow buyers to step up the tax basis of acquired assets, generating significant depreciation and amortization deductions. Stock purchases preserve the seller's tax basis but may be cleaner legally. The optimal structure depends on jurisdiction, deal size, and the parties' respective tax positions." },
-      { question: "How much can tax optimization save on a typical search fund acquisition?", answer: "Proper tax structuring can save $500K–$2M+ on a typical $10M search fund acquisition over the holding period. Key savings come from: asset step-up deductions (worth 20–30% of goodwill over 15 years), interest deductibility on acquisition debt, and QSBS/Dutreil-type exemptions on exit." },
+      { question: "How much can tax optimization save on a typical search fund acquisition?", answer: "Proper tax structuring can save $500K-$2M+ on a typical $10M search fund acquisition over the holding period. Key savings come from: asset step-up deductions (worth 20-30% of goodwill over 15 years), interest deductibility on acquisition debt, and QSBS/Dutreil-type exemptions on exit." },
     ],
   },
   {
@@ -6595,7 +6595,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Legal & Tax",
-    ogTitle: "Working with Advisors in Search Fund Acquisitions — Lawyers, Accountants & Brokers",
+    ogTitle: "Working with Advisors in Search Fund Acquisitions - Lawyers, Accountants & Brokers",
     ogDescription:
       "Attorney fees ($30-80K), QoE costs ($20-60K), broker commissions (8-12%). Learn when to hire, how to select, and how to manage your advisory team.",
     datePublished: "2024-07-16",
@@ -6605,9 +6605,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "What advisors do you need for a search fund acquisition?", answer: "Essential advisors include: an M&A attorney ($30,000–$80,000 for the transaction), a tax advisor/CPA ($5,000–$20,000 for structuring), a QoE provider ($20,000–$60,000), and optionally an insurance broker, environmental consultant, and IT due diligence firm. The total advisory cost is typically 3–5% of deal value." },
+      { question: "What advisors do you need for a search fund acquisition?", answer: "Essential advisors include: an M&A attorney ($30,000-$80,000 for the transaction), a tax advisor/CPA ($5,000-$20,000 for structuring), a QoE provider ($20,000-$60,000), and optionally an insurance broker, environmental consultant, and IT due diligence firm. The total advisory cost is typically 3-5% of deal value." },
       { question: "How do you find good M&A lawyers for small deals?", answer: "Look for lawyers with specific search fund or SME M&A experience (not just big-firm M&A). Sources include: recommendations from other searchers and investors, your MBA program alumni network, the IESE and Stanford search fund communities, and local bar association referrals. Interview at least 3 candidates and check references." },
-      { question: "When should you engage advisors in the acquisition process?", answer: "Engage your attorney early (before signing an LOI) for initial structuring advice. Engage your QoE provider immediately after signing an LOI with exclusivity. Engage tax advisors before finalizing deal structure. The common mistake is waiting too long — good advisors are booked 2–4 weeks out." },
+      { question: "When should you engage advisors in the acquisition process?", answer: "Engage your attorney early (before signing an LOI) for initial structuring advice. Engage your QoE provider immediately after signing an LOI with exclusivity. Engage tax advisors before finalizing deal structure. The common mistake is waiting too long - good advisors are booked 2-4 weeks out." },
     ],
   },
   {
@@ -6618,20 +6618,20 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Legal & Tax",
-    ogTitle: "Seller Financing for Search Fund Acquisitions — Structures, Terms & Negotiation",
+    ogTitle: "Seller Financing for Search Fund Acquisitions - Structures, Terms & Negotiation",
     ogDescription:
       "Seller notes (2-5 years, 4-6%), subordination agreements, personal guarantees, and creative structures. The complete guide to seller financing.",
     datePublished: "2024-08-01",
     dateModified: "2025-04-17",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program — Seller Note Requirements", year: 2024 },
+      { name: "SBA", title: "7(a) Loan Program - Seller Note Requirements", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "What is seller financing in a business acquisition?", answer: "Seller financing (also called a seller note or vendor take-back) is when the business seller lends part of the purchase price to the buyer, typically 10–30% of the total deal value. The loan is repaid over 3–7 years with interest (typically 4–8%). It signals the seller's confidence in the business and reduces the buyer's upfront capital requirement." },
+      { question: "What is seller financing in a business acquisition?", answer: "Seller financing (also called a seller note or vendor take-back) is when the business seller lends part of the purchase price to the buyer, typically 10-30% of the total deal value. The loan is repaid over 3-7 years with interest (typically 4-8%). It signals the seller's confidence in the business and reduces the buyer's upfront capital requirement." },
       { question: "Why is seller financing important for search fund acquisitions?", answer: "Seller financing is critical because it bridges the gap between senior debt (bank loans) and equity. It reduces the total equity needed, improves returns, aligns seller and buyer incentives, and signals to banks that the seller believes in the business's future cash flows. Most search fund acquisitions include some seller financing." },
-      { question: "How do you negotiate seller financing terms?", answer: "Key negotiation points include: amount (target 15–30% of purchase price), interest rate (market is 4–8%), term (3–7 years, match to business cash flow), amortization schedule (interest-only for 1–2 years then principal), subordination to senior debt, standstill provisions, and personal guarantee requirements." },
+      { question: "How do you negotiate seller financing terms?", answer: "Key negotiation points include: amount (target 15-30% of purchase price), interest rate (market is 4-8%), term (3-7 years, match to business cash flow), amortization schedule (interest-only for 1-2 years then principal), subordination to senior debt, standstill provisions, and personal guarantee requirements." },
     ],
   },
 
@@ -6645,7 +6645,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SPA Key Clauses: What Buyers Must Know About Share Purchase Agreements",
     ogDescription:
-      "Reps & warranties, working capital adjustments, indemnification caps, escrow, non-compete clauses, and disclosure schedules — the 12 SPA clauses every search fund buyer must understand.",
+      "Reps & warranties, working capital adjustments, indemnification caps, escrow, non-compete clauses, and disclosure schedules - the 12 SPA clauses every search fund buyer must understand.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -6657,8 +6657,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Woodruff Sawyer", title: "Representations and Warranties Insurance Market Report", year: 2025 },
     ],
     faqs: [
-      { question: "What are the most important clauses in a share purchase agreement?", answer: "The 5 most critical SPA clauses are: (1) representations & warranties — seller's statements of fact that trigger indemnification if false, (2) working capital adjustment — ensures delivery of normalized working capital, (3) indemnification — caps, baskets, and escrow mechanics for post-closing claims, (4) closing conditions — financing, MAC, key employee retention, and (5) non-compete/non-solicit covenants protecting the business post-close." },
-      { question: "What is the difference between an SPA and an APA?", answer: "An SPA (Share Purchase Agreement) transfers ownership of the entity itself — all assets, liabilities, contracts, and employees. An APA (Asset Purchase Agreement) transfers specific assets chosen by the buyer. SPAs are simpler (no contract reassignment) but carry historical liability risk. APAs offer cherry-picking and tax step-up but require contract assignment consent." },
+      { question: "What are the most important clauses in a share purchase agreement?", answer: "The 5 most critical SPA clauses are: (1) representations & warranties - seller's statements of fact that trigger indemnification if false, (2) working capital adjustment - ensures delivery of normalized working capital, (3) indemnification - caps, baskets, and escrow mechanics for post-closing claims, (4) closing conditions - financing, MAC, key employee retention, and (5) non-compete/non-solicit covenants protecting the business post-close." },
+      { question: "What is the difference between an SPA and an APA?", answer: "An SPA (Share Purchase Agreement) transfers ownership of the entity itself - all assets, liabilities, contracts, and employees. An APA (Asset Purchase Agreement) transfers specific assets chosen by the buyer. SPAs are simpler (no contract reassignment) but carry historical liability risk. APAs offer cherry-picking and tax step-up but require contract assignment consent." },
     ],
   },
   {
@@ -6671,7 +6671,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Asset Purchase Agreements (APA): Complete Buyer's Guide",
     ogDescription:
-      "Cherry-pick assets, exclude liabilities, step-up tax basis — the asset purchase agreement guide for search fund and self-funded acquirers. Section 1060 allocation, contract assignment, and more.",
+      "Cherry-pick assets, exclude liabilities, step-up tax basis - the asset purchase agreement guide for search fund and self-funded acquirers. Section 1060 allocation, contract assignment, and more.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -6682,14 +6682,14 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is an asset purchase agreement?", answer: "An APA transfers specific assets (equipment, inventory, IP, contracts, goodwill) and selected liabilities from the seller's entity to the buyer's entity. The seller's legal entity continues to exist. Unlike stock purchases, APAs let buyers cherry-pick assets, exclude unknown liabilities, and receive a stepped-up tax basis on all acquired assets." },
-      { question: "What are the tax advantages of an asset purchase?", answer: "Buyers get a stepped-up basis on all acquired assets, creating depreciation and amortization deductions. Goodwill is amortized over 15 years (Section 197). Tangible assets may qualify for 60–100% bonus depreciation. First-year tax deductions of 20–40% of the purchase price are common, significantly improving post-acquisition cash flow." },
+      { question: "What are the tax advantages of an asset purchase?", answer: "Buyers get a stepped-up basis on all acquired assets, creating depreciation and amortization deductions. Goodwill is amortized over 15 years (Section 197). Tangible assets may qualify for 60-100% bonus depreciation. First-year tax deductions of 20-40% of the purchase price are common, significantly improving post-acquisition cash flow." },
     ],
   },
   {
     slug: "capital-gains-tax-by-country",
     title: "Capital Gains Tax on Business Sales by Country",
     description:
-      "CGT rates and exemptions for business exits in the US, France, Germany, UK, Spain, Italy, Switzerland, Netherlands, and Canada — with effective rates and planning implications.",
+      "CGT rates and exemptions for business exits in the US, France, Germany, UK, Spain, Italy, Switzerland, Netherlands, and Canada - with effective rates and planning implications.",
     readTime: "16 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -6699,19 +6699,19 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "IRS", title: "Topic 409 — Capital Gains and Losses", url: "https://www.irs.gov/taxtopics/tc409", year: 2024 },
+      { name: "IRS", title: "Topic 409 - Capital Gains and Losses", url: "https://www.irs.gov/taxtopics/tc409", year: 2024 },
       { name: "Wilson Sonsini", title: "Understanding Section 1202: The Qualified Small Business Stock Exemption", url: "https://www.wsgr.com/en/insights/understanding-section-1202-the-qualified-small-business-stock-exemption.html", year: 2024 },
       { name: "KPMG", title: "Canada Capital Gains Tax Increase Deferred to 2026", url: "https://kpmg.com/ca/en/insights/2025/01/tax-increase-to-capital-gains-deferred-to-2026.html", year: 2025 },
-      { name: "Canada Revenue Agency", title: "Line 25400 — Capital Gains Deduction", url: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25400-capital-gains-deduction.html", year: 2024 },
+      { name: "Canada Revenue Agency", title: "Line 25400 - Capital Gains Deduction", url: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25400-capital-gains-deduction.html", year: 2024 },
       { name: "GOV.UK", title: "Business Asset Disposal Relief", url: "https://www.gov.uk/business-asset-disposal-relief", year: 2024 },
-      { name: "PwC Tax Summaries", title: "France — Individual Other Taxes", url: "https://taxsummaries.pwc.com/france/individual/other-taxes", year: 2024 },
+      { name: "PwC Tax Summaries", title: "France - Individual Other Taxes", url: "https://taxsummaries.pwc.com/france/individual/other-taxes", year: 2024 },
       { name: "Rose & Partner", title: "Taxation of the Sale of a Company in Germany", url: "https://www.rosepartner.de/en/german-law-firm-taxation-of-the-sale-of-the-company.html", year: 2024 },
       { name: "ATO", title: "Small Business CGT Concessions", url: "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/small-business-cgt-concessions", year: 2024 },
-      { name: "Chambers", title: "Corporate Tax 2025 — Chile", url: "https://practiceguides.chambers.com/practice-guides/corporate-tax-2025/chile", year: 2025 },
+      { name: "Chambers", title: "Corporate Tax 2025 - Chile", url: "https://practiceguides.chambers.com/practice-guides/corporate-tax-2025/chile", year: 2025 },
     ],
     faqs: [
-      { question: "Which countries have the lowest capital gains tax on business sales?", answer: "Switzerland (0% for individual non-professional shareholders), Netherlands (0% corporate participation exemption), and the US (0% with QSBS Section 1202 for C-Corp shares held 5+ years). Most European countries offer corporate participation exemptions of 88–100% for qualifying subsidiary disposals." },
-      { question: "How can ETA entrepreneurs minimize exit taxes?", answer: "Structure from day one: use a C-Corp in the US for QSBS eligibility, a holding company in Europe for participation exemptions, and respect minimum holding periods (typically 12–24 months). In France, the Dutreil pact provides 75% exemption on share transfers. In the UK, Business Asset Disposal Relief gives a 10% rate on the first £1M." },
+      { question: "Which countries have the lowest capital gains tax on business sales?", answer: "Switzerland (0% for individual non-professional shareholders), Netherlands (0% corporate participation exemption), and the US (0% with QSBS Section 1202 for C-Corp shares held 5+ years). Most European countries offer corporate participation exemptions of 88-100% for qualifying subsidiary disposals." },
+      { question: "How can ETA entrepreneurs minimize exit taxes?", answer: "Structure from day one: use a C-Corp in the US for QSBS eligibility, a holding company in Europe for participation exemptions, and respect minimum holding periods (typically 12-24 months). In France, the Dutreil pact provides 75% exemption on share transfers. In the UK, Business Asset Disposal Relief gives a 10% rate on the first £1M." },
     ],
   },
   {
@@ -6724,7 +6724,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Cross-Border Acquisitions: Legal & Tax Guide for Search Fund Buyers",
     ogDescription:
-      "Holding company structures, treaty withholding rates, 2026 NCTI rules, transfer pricing, FDI screening, and worked examples — the complete cross-border acquisition guide for ETA entrepreneurs.",
+      "Holding company structures, treaty withholding rates, 2026 NCTI rules, transfer pricing, FDI screening, and worked examples - the complete cross-border acquisition guide for ETA entrepreneurs.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -6735,11 +6735,11 @@ export const allArticles: ArticleMeta[] = [
       { name: "White & Case", title: "Foreign Direct Investment Reviews: United States", year: 2026 },
     ],
     faqs: [
-      { question: "Do I need a holding company for a cross-border acquisition?", answer: "Not always. For a single-country acquisition where the buyer's home-country treaty provides favorable withholding rates and the foreign tax rate generates sufficient FTCs, a direct structure is simpler and cheaper. A HoldCo becomes valuable for multi-country acquisitions, participation exemptions at exit, or reinvesting profits without triggering personal income tax. Formation and annual maintenance of a Dutch or Luxembourg HoldCo typically costs EUR 15,000–25,000 per year." },
-      { question: "How does the 2026 NCTI regime affect cross-border search fund deals?", answer: "The OBBBA replaced GILTI with NCTI, eliminating the QBAI offset so all CFC earnings face inclusion. However, 90% of foreign taxes are now creditable, meaning any foreign OpCo paying an effective rate above ~14% generates enough credits to fully offset US NCTI tax. For targets in the UK (25%), Germany (30%), or France (25%), NCTI is effectively a non-event. For Ireland (12.5%) or low-tax LatAm jurisdictions, expect residual US tax of 1–3%." },
-      { question: "What are the biggest hidden costs in cross-border deals?", answer: "Three costs consistently surprise first-time buyers: (1) advisory fees double ($80,000–$150,000 total vs. $40,000–$70,000 domestic), (2) translation and localization adds $10,000–$30,000, and (3) ongoing multi-jurisdiction compliance costs $20,000–$40,000/year more than a single-country structure. Factor these into your financial model from the LOI stage." },
-      { question: "How do I manage currency risk on investor returns?", answer: "Finance in the OpCo's local currency for natural debt-service hedging. For equity returns, accept moderate FX exposure and communicate it to investors — most search fund LPs understand the risk. For large distributions or exit proceeds, use forward contracts to lock rates 3–6 months ahead. Avoid complex derivatives; for a single-entity search fund, options or swaps rarely justify their cost." },
-      { question: "Which due diligence areas need extra attention in cross-border deals?", answer: "Employment law and tax compliance generate the most post-closing surprises. EU employee protections (TUPE, works councils) mean restructuring costs can reach 6–18 months of salary per employee. Tax review should cover VAT recovery, payroll taxes, and transfer pricing for related-party transactions. Allocate 20%+ more time to legal due diligence versus domestic deals, and insist on specific tax indemnities with escrow in the SPA." },
+      { question: "Do I need a holding company for a cross-border acquisition?", answer: "Not always. For a single-country acquisition where the buyer's home-country treaty provides favorable withholding rates and the foreign tax rate generates sufficient FTCs, a direct structure is simpler and cheaper. A HoldCo becomes valuable for multi-country acquisitions, participation exemptions at exit, or reinvesting profits without triggering personal income tax. Formation and annual maintenance of a Dutch or Luxembourg HoldCo typically costs EUR 15,000-25,000 per year." },
+      { question: "How does the 2026 NCTI regime affect cross-border search fund deals?", answer: "The OBBBA replaced GILTI with NCTI, eliminating the QBAI offset so all CFC earnings face inclusion. However, 90% of foreign taxes are now creditable, meaning any foreign OpCo paying an effective rate above ~14% generates enough credits to fully offset US NCTI tax. For targets in the UK (25%), Germany (30%), or France (25%), NCTI is effectively a non-event. For Ireland (12.5%) or low-tax LatAm jurisdictions, expect residual US tax of 1-3%." },
+      { question: "What are the biggest hidden costs in cross-border deals?", answer: "Three costs consistently surprise first-time buyers: (1) advisory fees double ($80,000-$150,000 total vs. $40,000-$70,000 domestic), (2) translation and localization adds $10,000-$30,000, and (3) ongoing multi-jurisdiction compliance costs $20,000-$40,000/year more than a single-country structure. Factor these into your financial model from the LOI stage." },
+      { question: "How do I manage currency risk on investor returns?", answer: "Finance in the OpCo's local currency for natural debt-service hedging. For equity returns, accept moderate FX exposure and communicate it to investors - most search fund LPs understand the risk. For large distributions or exit proceeds, use forward contracts to lock rates 3-6 months ahead. Avoid complex derivatives; for a single-entity search fund, options or swaps rarely justify their cost." },
+      { question: "Which due diligence areas need extra attention in cross-border deals?", answer: "Employment law and tax compliance generate the most post-closing surprises. EU employee protections (TUPE, works councils) mean restructuring costs can reach 6-18 months of salary per employee. Tax review should cover VAT recovery, payroll taxes, and transfer pricing for related-party transactions. Allocate 20%+ more time to legal due diligence versus domestic deals, and insist on specific tax indemnities with escrow in the SPA." },
     ],
   },
 
@@ -6759,7 +6759,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IRS", title: "Publication 542: Corporations & Section 199A QBI Deduction", url: "https://www.irs.gov/publications/p542", year: 2024 },
       { name: "Chicago Booth Review", title: "Tax Benefits of Acquisitions of Privately Held Corporations", url: "https://www.chicagobooth.edu/review/tax-benefits-acquisitions-privately-held-corporations", year: 2024 },
-      { name: "Foster LLP", title: "One Big Beautiful Bill Act — Section 199A Analysis", url: "https://www.foster.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a", year: 2025 },
+      { name: "Foster LLP", title: "One Big Beautiful Bill Act - Section 199A Analysis", url: "https://www.foster.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a", year: 2025 },
       { name: "Acquire.com", title: "Tax Implications of C-Corp Asset Purchase Acquisitions", url: "https://blog.acquire.com/organized-as-a-c-corp-beware-the-tax-implications-of-an-asset-purchase-acquisition/", year: 2024 },
     ],
     faqs: [
@@ -6785,8 +6785,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "PwC", title: "Global M&A Tax Guide", year: 2024 },
     ],
     faqs: [
-      { question: "Why do search funds use holding companies?", answer: "Holding companies provide four key benefits: (1) tax efficiency — acquisition debt interest deducts against operating profits through consolidated returns, (2) liability isolation — OpCo liabilities don't flow to investors, (3) buy-and-build flexibility — each add-on sits as a separate subsidiary, and (4) investor structure — preferred shares, carried interest, and governance sit at HoldCo level." },
-      { question: "How do you set up a holding company for an acquisition?", answer: "Form HoldCo before signing the purchase agreement. In the US: Delaware C-Corp (for QSBS) or LLC. In France: SAS. In Germany: GmbH. Investors inject equity into HoldCo, bank lends to HoldCo, and HoldCo acquires 100% of OpCo. Cost: $5K–$15K for entity formation and agreements." },
+      { question: "Why do search funds use holding companies?", answer: "Holding companies provide four key benefits: (1) tax efficiency - acquisition debt interest deducts against operating profits through consolidated returns, (2) liability isolation - OpCo liabilities don't flow to investors, (3) buy-and-build flexibility - each add-on sits as a separate subsidiary, and (4) investor structure - preferred shares, carried interest, and governance sit at HoldCo level." },
+      { question: "How do you set up a holding company for an acquisition?", answer: "Form HoldCo before signing the purchase agreement. In the US: Delaware C-Corp (for QSBS) or LLC. In France: SAS. In Germany: GmbH. Investors inject equity into HoldCo, bank lends to HoldCo, and HoldCo acquires 100% of OpCo. Cost: $5K-$15K for entity formation and agreements." },
     ],
   },
   {
@@ -6803,13 +6803,13 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "French Tax Code", title: "Article 787 B CGI — Pacte Dutreil", year: 2024 },
+      { name: "French Tax Code", title: "Article 787 B CGI - Pacte Dutreil", year: 2024 },
       { name: "Bpifrance", title: "Guide de la Transmission d'Entreprise", year: 2024 },
-      { name: "DGFiP", title: "Bulletin Officiel des Finances Publiques — Pacte Dutreil", year: 2024 },
+      { name: "DGFiP", title: "Bulletin Officiel des Finances Publiques - Pacte Dutreil", year: 2024 },
       { name: "Cour de cassation", title: "Jurisprudence on Société Holding Animatrice", year: 2024 },
     ],
     faqs: [
-      { question: "What is the Dutreil pact?", answer: "The Pacte Dutreil (Article 787 B CGI) is France's most generous business succession tax incentive. It provides a 75% exemption on the taxable value of business shares transferred by donation or inheritance. Combined with the age reduction for donors under 70, the effective tax reduction can reach 87.5% — reducing transfer taxes on €1M of shares from €450K to just €56K." },
+      { question: "What is the Dutreil pact?", answer: "The Pacte Dutreil (Article 787 B CGI) is France's most generous business succession tax incentive. It provides a 75% exemption on the taxable value of business shares transferred by donation or inheritance. Combined with the age reduction for donors under 70, the effective tax reduction can reach 87.5% - reducing transfer taxes on €1M of shares from €450K to just €56K." },
       { question: "How long is the Dutreil commitment period?", answer: "Six years minimum: a 2-year collective commitment (where 34%+ of voting rights are held by the committed group) followed by a 4-year individual commitment (each beneficiary holds their shares). At least one beneficiary must manage the company during the individual commitment period. Breaking the commitment triggers full tax clawback." },
     ],
   },
@@ -6823,7 +6823,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Leveraged Buyout Mechanics for Small Business Acquisitions",
     ogDescription:
-      "60–80% debt, 3–4.5x leverage, 32% IRR example. How to structure a leveraged buyout for SME acquisitions: capital stack, return drivers, SBA vs. bank vs. mezzanine, and risk management.",
+      "60-80% debt, 3-4.5x leverage, 32% IRR example. How to structure a leveraged buyout for SME acquisitions: capital stack, return drivers, SBA vs. bank vs. mezzanine, and risk management.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -6831,8 +6831,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
     ],
     faqs: [
-      { question: "How does a leveraged buyout work for small businesses?", answer: "An LBO uses the target company's cash flow to service acquisition debt. Typical SME structure: 50–70% senior debt (SBA or bank), 10–20% seller note, 15–35% buyer/investor equity. The business generates cash to repay debt over 5–10 years, building equity value. At exit, you sell at a higher EBITDA and/or multiple." },
-      { question: "What leverage ratio is safe for a small business LBO?", answer: "Conservative SME leverage is 3–3.5x total debt/EBITDA with 1.25x+ debt service coverage ratio. Aggressive leverage (4.5x+) leaves no margin for revenue declines. A 10–15% revenue drop can eliminate free cash flow in a highly leveraged business. SBA deals are effectively small LBOs at ~3x leverage." },
+      { question: "How does a leveraged buyout work for small businesses?", answer: "An LBO uses the target company's cash flow to service acquisition debt. Typical SME structure: 50-70% senior debt (SBA or bank), 10-20% seller note, 15-35% buyer/investor equity. The business generates cash to repay debt over 5-10 years, building equity value. At exit, you sell at a higher EBITDA and/or multiple." },
+      { question: "What leverage ratio is safe for a small business LBO?", answer: "Conservative SME leverage is 3-3.5x total debt/EBITDA with 1.25x+ debt service coverage ratio. Aggressive leverage (4.5x+) leaves no margin for revenue declines. A 10-15% revenue drop can eliminate free cash flow in a highly leveraged business. SBA deals are effectively small LBOs at ~3x leverage." },
     ],
   },
 
@@ -6846,7 +6846,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SBA 7(a) Loans for Business Acquisitions: The Complete 2025 Guide",
     ogDescription:
-      "Up to $5M, 10-year terms, 10% down. How to finance a business acquisition with an SBA 7(a) loan — eligibility, the 80/10/10 structure, seller note standby rules, and step-by-step application process.",
+      "Up to $5M, 10-year terms, 10% down. How to finance a business acquisition with an SBA 7(a) loan - eligibility, the 80/10/10 structure, seller note standby rules, and step-by-step application process.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -6854,7 +6854,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Forbes", title: "SBA Loan Guide for Small Business Acquisitions", year: 2024 },
     ],
     faqs: [
-      { question: "How much can you borrow with an SBA 7(a) loan for an acquisition?", answer: "The maximum SBA 7(a) loan amount is $5 million. The SBA guarantees 75–85% of the loan (85% for loans up to $150K, 75% for larger loans). Typical terms: 10-year fully amortizing repayment, Prime + 2.25–2.75% interest rate, no balloon payments. You need a minimum 10% equity injection." },
+      { question: "How much can you borrow with an SBA 7(a) loan for an acquisition?", answer: "The maximum SBA 7(a) loan amount is $5 million. The SBA guarantees 75-85% of the loan (85% for loans up to $150K, 75% for larger loans). Typical terms: 10-year fully amortizing repayment, Prime + 2.25-2.75% interest rate, no balloon payments. You need a minimum 10% equity injection." },
       { question: "What is the 80/10/10 SBA acquisition structure?", answer: "The 80/10/10 structure is the foundation of self-funded search: 80% SBA 7(a) debt (senior secured loan), 10% seller note on full standby for 24 months (no payments during standby), and 10% buyer equity injection. This lets you acquire a $3M business with just $300K of personal capital while retaining 100% ownership." },
     ],
   },
@@ -6863,7 +6863,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "debt-structure-optimization",
     title: "Debt Structure Optimization for Search Fund Acquisitions",
     description:
-      "How to structure acquisition debt for search fund deals — senior debt, mezzanine, seller notes, leverage ratios, covenants, and refinancing strategies.",
+      "How to structure acquisition debt for search fund deals - senior debt, mezzanine, seller notes, leverage ratios, covenants, and refinancing strategies.",
     readTime: "13 min read",
     tag: "Finance",
     category: "Legal & Tax",
@@ -6877,8 +6877,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "7(a) Loan Program Guidelines", year: 2024 },
     ],
     faqs: [
-      { question: "What is the optimal debt structure for a search fund acquisition?", answer: "The typical structure is 50–65% senior debt (bank or SBA), 10–20% seller note (often on partial standby), and 20–35% equity. Target a total leverage of 3–3.5x EBITDA with a minimum 1.25x debt service coverage ratio. The mix depends on deal size, business stability, and lender appetite." },
-      { question: "Should you use fixed or floating rate debt for an acquisition?", answer: "For search fund acquisitions, fixed-rate debt provides cash flow predictability that is critical for leveraged businesses. If floating is unavoidable (common with SBA loans at Prime + spread), consider interest rate caps or swaps once the business stabilizes. The cost of hedging is typically 0.5–1.5% of the notional amount." },
+      { question: "What is the optimal debt structure for a search fund acquisition?", answer: "The typical structure is 50-65% senior debt (bank or SBA), 10-20% seller note (often on partial standby), and 20-35% equity. Target a total leverage of 3-3.5x EBITDA with a minimum 1.25x debt service coverage ratio. The mix depends on deal size, business stability, and lender appetite." },
+      { question: "Should you use fixed or floating rate debt for an acquisition?", answer: "For search fund acquisitions, fixed-rate debt provides cash flow predictability that is critical for leveraged businesses. If floating is unavoidable (common with SBA loans at Prime + spread), consider interest rate caps or swaps once the business stabilizes. The cost of hedging is typically 0.5-1.5% of the notional amount." },
     ],
   },
 
@@ -6893,7 +6893,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Day 1 Employee Announcement After Acquisition: Scripts & Templates",
     ogDescription:
-      "The Day 1 speech sets the tone for your entire tenure. Seller intro, your story, the commitment, the ask, Q&A — scripts, templates, and what NOT to say.",
+      "The Day 1 speech sets the tone for your entire tenure. Seller intro, your story, the commitment, the ask, Q&A - scripts, templates, and what NOT to say.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -6907,7 +6907,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ScienceDirect", title: "CEO Communication During Organizational Change", url: "https://www.sciencedirect.com/science/article/abs/pii/S0363811121000710", year: 2021 },
     ],
     faqs: [
-      { question: "What should you say to employees on Day 1 after buying a business?", answer: "Deliver four key messages: (1) 'Nothing is changing right now' — calm the fear of change, (2) 'Your jobs are safe' — say it explicitly, (3) 'I'm here to listen, not to change' — frame your first 90 days as a listening tour, (4) 'I bought this business because of you' — make the team feel valued. Have the previous owner introduce you for a warm handoff." },
+      { question: "What should you say to employees on Day 1 after buying a business?", answer: "Deliver four key messages: (1) 'Nothing is changing right now' - calm the fear of change, (2) 'Your jobs are safe' - say it explicitly, (3) 'I'm here to listen, not to change' - frame your first 90 days as a listening tour, (4) 'I bought this business because of you' - make the team feel valued. Have the previous owner introduce you for a warm handoff." },
       { question: "What should you NOT say to employees after an acquisition?", answer: "Never criticize the previous owner, list planned changes, use corporate jargon ('synergies,' 'optimization,' 'restructuring'), overpromise raises or investments you haven't confirmed, or discuss investors and financial returns. These words create fear and erode trust on the most important day of the transition." },
     ],
   },
@@ -6915,11 +6915,11 @@ export const allArticles: ArticleMeta[] = [
     slug: "first-100-days",
     title: "Search Fund CEO: The First 100 Days",
     description:
-      "What to do in the critical first 100 days after acquiring a business — from team alignment to quick wins.",
+      "What to do in the critical first 100 days after acquiring a business - from team alignment to quick wins.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Your First 100 Days as Search Fund CEO — A Step-by-Step Playbook",
+    ogTitle: "Your First 100 Days as Search Fund CEO - A Step-by-Step Playbook",
     ogDescription:
       "The critical first 100 days after acquiring a company. Learn what to do (and what to avoid) from successful search fund operators.",
     datePublished: "2024-07-10",
@@ -6939,7 +6939,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "investor-relations",
     title: "Investor Relations & Reporting Best Practices",
     description:
-      "Monthly updates, quarterly calls, and post-acquisition reporting — how to keep investors informed and engaged.",
+      "Monthly updates, quarterly calls, and post-acquisition reporting - how to keep investors informed and engaged.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -6953,9 +6953,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Yale SOM", title: "A Note on Investor Relations for Search Fund Companies", year: 2021 },
     ],
     faqs: [
-      { question: "How often should a search fund CEO communicate with investors?", answer: "Best practice is monthly written updates during the search phase and quarterly detailed reports post-acquisition, with annual in-person meetings. During critical moments (LOI, closing, major operational issues), communicate immediately. Over-communication is far better than under-communication — investors dislike surprises." },
-      { question: "What should a monthly investor update include?", answer: "A standard monthly update should cover: financial performance vs budget (revenue, EBITDA, cash), key operational metrics and KPIs, strategic initiatives and progress, team updates, risks and challenges, upcoming milestones, and any requests for investor input or introductions. Keep it to 1–2 pages." },
-      { question: "How do you handle bad news with search fund investors?", answer: "Deliver bad news promptly, directly, and with a plan. Investors expect challenges — what they don't tolerate is being surprised or misled. Frame the update as: what happened, why, what you're doing about it, and what support you need. Investors who hear bad news early can help; investors who hear it late lose trust." },
+      { question: "How often should a search fund CEO communicate with investors?", answer: "Best practice is monthly written updates during the search phase and quarterly detailed reports post-acquisition, with annual in-person meetings. During critical moments (LOI, closing, major operational issues), communicate immediately. Over-communication is far better than under-communication - investors dislike surprises." },
+      { question: "What should a monthly investor update include?", answer: "A standard monthly update should cover: financial performance vs budget (revenue, EBITDA, cash), key operational metrics and KPIs, strategic initiatives and progress, team updates, risks and challenges, upcoming milestones, and any requests for investor input or introductions. Keep it to 1-2 pages." },
+      { question: "How do you handle bad news with search fund investors?", answer: "Deliver bad news promptly, directly, and with a plan. Investors expect challenges - what they don't tolerate is being surprised or misled. Frame the update as: what happened, why, what you're doing about it, and what support you need. Investors who hear bad news early can help; investors who hear it late lose trust." },
     ],
   },
   {
@@ -6968,17 +6968,17 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Building an Advisory Board for Your Search Fund Acquisition",
     ogDescription:
-      "Industry experts, ex-operators, functional specialists — learn how to build and compensate an advisory board that drives results.",
+      "Industry experts, ex-operators, functional specialists - learn how to build and compensate an advisory board that drives results.",
     datePublished: "2024-08-07",
     dateModified: "2025-04-17",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub — Building Your Advisory Network", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Building Your Advisory Network", year: 2024 },
     ],
     faqs: [
-      { question: "What is the difference between an advisory board and a board of directors?", answer: "A board of directors has legal fiduciary duties, governance authority, and decision-making power (approving budgets, CEO compensation, major transactions). An advisory board has no legal authority — members provide advice, introductions, and expertise on a voluntary or lightly compensated basis. Search fund companies typically have both." },
-      { question: "How many advisory board members should a search fund CEO have?", answer: "Most search fund CEOs benefit from 3–5 advisory board members covering different domains: industry expertise (someone who knows the specific sector), functional expertise (finance, marketing, operations), geographic knowledge (local market insights), and general business wisdom (experienced entrepreneur or CEO). Avoid going over 7 — it becomes unmanageable." },
-      { question: "How do you compensate advisory board members?", answer: "Advisory board compensation for search fund companies typically includes: no cash compensation (most common), small quarterly retainers ($1,000–$5,000), equity grants (0.1–0.5% of the company), or a combination. Many advisors participate for free if they believe in the searcher and find the business intellectually interesting." },
+      { question: "What is the difference between an advisory board and a board of directors?", answer: "A board of directors has legal fiduciary duties, governance authority, and decision-making power (approving budgets, CEO compensation, major transactions). An advisory board has no legal authority - members provide advice, introductions, and expertise on a voluntary or lightly compensated basis. Search fund companies typically have both." },
+      { question: "How many advisory board members should a search fund CEO have?", answer: "Most search fund CEOs benefit from 3-5 advisory board members covering different domains: industry expertise (someone who knows the specific sector), functional expertise (finance, marketing, operations), geographic knowledge (local market insights), and general business wisdom (experienced entrepreneur or CEO). Avoid going over 7 - it becomes unmanageable." },
+      { question: "How do you compensate advisory board members?", answer: "Advisory board compensation for search fund companies typically includes: no cash compensation (most common), small quarterly retainers ($1,000-$5,000), equity grants (0.1-0.5% of the company), or a combination. Many advisors participate for free if they believe in the searcher and find the business intellectually interesting." },
     ],
   },
   {
@@ -6989,7 +6989,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "9 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Buy-and-Build Strategy for Search Fund CEOs — Add-On Acquisitions Guide",
+    ogTitle: "Buy-and-Build Strategy for Search Fund CEOs - Add-On Acquisitions Guide",
     ogDescription:
       "Buy at 4x, sell combined at 7-8x. Learn how to source, finance, and integrate add-on acquisitions to build a platform worth multiples more.",
     datePublished: "2024-08-21",
@@ -7001,7 +7001,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is a buy-and-build strategy?", answer: "Buy-and-build (also called add-on or bolt-on acquisition strategy) is when an acquirer purchases a platform company and then makes additional smaller acquisitions to accelerate growth. The strategy works by achieving economies of scale, expanding geographic coverage, adding capabilities, and consolidating fragmented markets." },
-      { question: "When should a search fund CEO pursue add-on acquisitions?", answer: "Pursue add-on acquisitions only after stabilizing the platform company (typically 12–24 months post-acquisition). Prerequisites include: strong management team in place, proven operational playbook, adequate financing capacity, and clear integration capability. Premature add-ons can destroy value by distracting from the core business." },
+      { question: "When should a search fund CEO pursue add-on acquisitions?", answer: "Pursue add-on acquisitions only after stabilizing the platform company (typically 12-24 months post-acquisition). Prerequisites include: strong management team in place, proven operational playbook, adequate financing capacity, and clear integration capability. Premature add-ons can destroy value by distracting from the core business." },
       { question: "What industries are best suited for buy-and-build strategies?", answer: "Fragmented industries with many small operators are ideal: HVAC, plumbing, pest control, dental practices, veterinary clinics, accounting firms, insurance brokerages, staffing agencies, and IT services. The key characteristics are: local competition, limited organic growth, and meaningful synergies from consolidation (shared back office, purchasing power, cross-selling)." },
     ],
   },
@@ -7013,9 +7013,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Management Transition After Acquisition — Employee Communication Playbook",
+    ogTitle: "Management Transition After Acquisition - Employee Communication Playbook",
     ogDescription:
-      "Day 1 all-hands, retention bonuses, seller transition agreements — the complete playbook for managing the human side of an acquisition.",
+      "Day 1 all-hands, retention bonuses, seller transition agreements - the complete playbook for managing the human side of an acquisition.",
     datePublished: "2024-09-04",
     dateModified: "2025-04-17",
     sources: [
@@ -7023,9 +7023,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "The First 90 Days (Watkins)", year: 2013 },
     ],
     faqs: [
-      { question: "How long should the seller stay involved after the acquisition?", answer: "A transition period of 3–12 months is typical, structured as a consulting agreement. The first 30 days focus on introductions and knowledge transfer, months 2–3 on client and vendor relationships, and months 4–12 on gradual disengagement. Pay the seller a fair consulting rate ($100–$300/hour or monthly retainer) to maintain their engagement." },
+      { question: "How long should the seller stay involved after the acquisition?", answer: "A transition period of 3-12 months is typical, structured as a consulting agreement. The first 30 days focus on introductions and knowledge transfer, months 2-3 on client and vendor relationships, and months 4-12 on gradual disengagement. Pay the seller a fair consulting rate ($100-$300/hour or monthly retainer) to maintain their engagement." },
       { question: "What are the biggest risks during management transition?", answer: "Key risks include: key employee departures, customer relationship loss (especially if relationships were personal to the seller), supplier disruption, loss of institutional knowledge, and the seller undermining the new owner (intentionally or unintentionally). A well-structured transition plan with clear milestones mitigates these risks." },
-      { question: "How do you communicate the ownership change to employees?", answer: "Best practice: announce to senior team 1–2 days before closing (with NDAs if needed), announce to all employees on Day 1, and hold department-level meetings within the first week. Key messages: the business will continue, jobs are safe, the new owner values the team, and here is the vision for the future." },
+      { question: "How do you communicate the ownership change to employees?", answer: "Best practice: announce to senior team 1-2 days before closing (with NDAs if needed), announce to all employees on Day 1, and hold department-level meetings within the first week. Key messages: the business will continue, jobs are safe, the new owner values the team, and here is the vision for the future." },
     ],
   },
   {
@@ -7036,9 +7036,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Board Governance for Search Fund Companies — A CEO's Guide",
+    ogTitle: "Board Governance for Search Fund Companies - A CEO's Guide",
     ogDescription:
-      "3-5 board members, monthly meetings year one, effective board packages — master the CEO-board relationship for better decisions and stronger returns.",
+      "3-5 board members, monthly meetings year one, effective board packages - master the CEO-board relationship for better decisions and stronger returns.",
     datePublished: "2024-09-18",
     dateModified: "2025-04-17",
     sources: [
@@ -7046,9 +7046,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Yale SOM", title: "A Note on Board Governance for Search Fund Companies", year: 2021 },
     ],
     faqs: [
-      { question: "What does a search fund board of directors typically look like?", answer: "A typical search fund board has 3–5 members: the CEO (former searcher), 1–2 investor representatives (usually the most experienced and largest investors), and 1–2 independent directors with relevant industry or functional expertise. The board meets quarterly with additional calls as needed." },
-      { question: "What decisions require board approval in a search fund company?", answer: "Standard board approval items include: annual budget and strategic plan, capital expenditures above a threshold (typically $25,000–$100,000), new debt or credit facilities, hiring/firing of senior management, CEO compensation changes, add-on acquisitions, and any exit or sale of the company. Day-to-day operations are delegated to the CEO." },
-      { question: "How do you run an effective board meeting?", answer: "Send the board package 5–7 days in advance (financials, KPIs, strategic update, agenda). Keep meetings to 2–3 hours. Structure: 30 min financial review, 30 min operational update, 60 min strategic discussion on 1–2 key topics, 30 min executive session (without CEO). Document decisions and follow up on action items within 48 hours." },
+      { question: "What does a search fund board of directors typically look like?", answer: "A typical search fund board has 3-5 members: the CEO (former searcher), 1-2 investor representatives (usually the most experienced and largest investors), and 1-2 independent directors with relevant industry or functional expertise. The board meets quarterly with additional calls as needed." },
+      { question: "What decisions require board approval in a search fund company?", answer: "Standard board approval items include: annual budget and strategic plan, capital expenditures above a threshold (typically $25,000-$100,000), new debt or credit facilities, hiring/firing of senior management, CEO compensation changes, add-on acquisitions, and any exit or sale of the company. Day-to-day operations are delegated to the CEO." },
+      { question: "How do you run an effective board meeting?", answer: "Send the board package 5-7 days in advance (financials, KPIs, strategic update, agenda). Keep meetings to 2-3 hours. Structure: 30 min financial review, 30 min operational update, 60 min strategic discussion on 1-2 key topics, 30 min executive session (without CEO). Document decisions and follow up on action items within 48 hours." },
     ],
   },
   {
@@ -7059,9 +7059,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Post-Acquisition Digital Transformation — A Search Fund CEO's Guide",
+    ogTitle: "Post-Acquisition Digital Transformation - A Search Fund CEO's Guide",
     ogDescription:
-      "Legacy systems, CRM/ERP, e-commerce channels, data analytics — a realistic playbook for digitizing the SME you just acquired.",
+      "Legacy systems, CRM/ERP, e-commerce channels, data analytics - a realistic playbook for digitizing the SME you just acquired.",
     datePublished: "2024-10-02",
     dateModified: "2025-04-17",
     sources: [
@@ -7070,7 +7070,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What does digital transformation mean for an acquired SME?", answer: "For acquired SMEs, digital transformation means implementing technology to improve operations, customer experience, and decision-making. Common initiatives include: cloud migration, CRM implementation, ERP upgrades, digital marketing, e-commerce capabilities, business intelligence dashboards, and process automation. The goal is to modernize without disrupting ongoing operations." },
-      { question: "How much should a newly acquired company spend on digital transformation?", answer: "A reasonable budget is 3–8% of annual revenue over the first 2–3 years, with front-loaded investment in the highest-impact areas. Typical investments: CRM ($20K–$100K), ERP ($50K–$200K), website/e-commerce ($15K–$75K), and BI/reporting ($10K–$50K). Prioritize initiatives with clear ROI and quick implementation timelines." },
+      { question: "How much should a newly acquired company spend on digital transformation?", answer: "A reasonable budget is 3-8% of annual revenue over the first 2-3 years, with front-loaded investment in the highest-impact areas. Typical investments: CRM ($20K-$100K), ERP ($50K-$200K), website/e-commerce ($15K-$75K), and BI/reporting ($10K-$50K). Prioritize initiatives with clear ROI and quick implementation timelines." },
       { question: "What are the most common digital transformation mistakes post-acquisition?", answer: "Common mistakes include: trying to implement everything at once, choosing enterprise-grade solutions when SME tools suffice, underestimating change management (employee resistance), ignoring data migration challenges, and not having an internal champion. Start with one high-impact project, prove the value, then expand." },
     ],
   },
@@ -7084,7 +7084,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Revenue Growth Playbook for Search Fund CEOs",
     ogDescription:
-      "Pricing optimization, sales development, cross-selling, channel expansion — the revenue growth playbook for your first year as CEO.",
+      "Pricing optimization, sales development, cross-selling, channel expansion - the revenue growth playbook for your first year as CEO.",
     datePublished: "2024-10-16",
     dateModified: "2025-04-17",
     sources: [
@@ -7092,9 +7092,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
     ],
     faqs: [
-      { question: "What are the fastest revenue growth levers after acquiring a business?", answer: "The fastest growth levers (in order of speed-to-impact) are: price optimization (immediate, typically 5–15% increase), reducing customer churn, cross-selling and upselling to existing customers, improving sales team effectiveness, expanding into adjacent markets or services, and adding digital marketing channels. Pricing is almost always the single highest-ROI lever." },
-      { question: "How quickly should a new owner pursue revenue growth?", answer: "Focus the first 90 days on understanding the business, customers, and competitive position. Begin implementing quick wins (pricing, churn reduction) in months 3–6. Launch larger growth initiatives (new markets, new services, sales team expansion) in months 6–12. Avoid major changes before understanding what's working." },
-      { question: "What revenue growth rate is realistic for an acquired SME?", answer: "Well-run SME acquisitions typically achieve 10–25% annual revenue growth in the first 2–3 years through a combination of organic growth initiatives. Top-performing search fund operators have achieved 30–50%+ growth through aggressive commercial strategies. The key is setting realistic targets and systematically executing a growth playbook." },
+      { question: "What are the fastest revenue growth levers after acquiring a business?", answer: "The fastest growth levers (in order of speed-to-impact) are: price optimization (immediate, typically 5-15% increase), reducing customer churn, cross-selling and upselling to existing customers, improving sales team effectiveness, expanding into adjacent markets or services, and adding digital marketing channels. Pricing is almost always the single highest-ROI lever." },
+      { question: "How quickly should a new owner pursue revenue growth?", answer: "Focus the first 90 days on understanding the business, customers, and competitive position. Begin implementing quick wins (pricing, churn reduction) in months 3-6. Launch larger growth initiatives (new markets, new services, sales team expansion) in months 6-12. Avoid major changes before understanding what's working." },
+      { question: "What revenue growth rate is realistic for an acquired SME?", answer: "Well-run SME acquisitions typically achieve 10-25% annual revenue growth in the first 2-3 years through a combination of organic growth initiatives. Top-performing search fund operators have achieved 30-50%+ growth through aggressive commercial strategies. The key is setting realistic targets and systematically executing a growth playbook." },
     ],
   },
   {
@@ -7107,7 +7107,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Working Capital Management for Search Fund CEOs",
     ogDescription:
-      "Cash conversion cycle, AR management, inventory turns, supplier terms — master working capital to unlock cash in your acquired business.",
+      "Cash conversion cycle, AR management, inventory turns, supplier terms - master working capital to unlock cash in your acquired business.",
     datePublished: "2024-11-01",
     dateModified: "2025-04-17",
     sources: [
@@ -7117,7 +7117,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What is working capital and why does it matter post-acquisition?", answer: "Working capital is current assets (cash, receivables, inventory) minus current liabilities (payables, accrued expenses). It matters because it determines the cash needed to fund day-to-day operations. Many acquired businesses have inefficient working capital management, and optimizing it can free up significant cash without reducing revenue." },
       { question: "What is a working capital peg in an acquisition?", answer: "A working capital peg (or target) is the agreed-upon level of net working capital the seller must deliver at closing. If actual working capital at closing exceeds or falls below the peg, the purchase price is adjusted dollar-for-dollar. Negotiating the right peg is critical and often contentious." },
-      { question: "How can a new CEO quickly improve working capital?", answer: "Quick wins include: tightening accounts receivable terms and collection processes (reducing DSO by 5–10 days), negotiating longer payment terms with suppliers (increasing DPO), reducing excess or obsolete inventory, and implementing cash flow forecasting. These improvements can free up 5–15% of annual revenue in cash." },
+      { question: "How can a new CEO quickly improve working capital?", answer: "Quick wins include: tightening accounts receivable terms and collection processes (reducing DSO by 5-10 days), negotiating longer payment terms with suppliers (increasing DPO), reducing excess or obsolete inventory, and implementing cash flow forecasting. These improvements can free up 5-15% of annual revenue in cash." },
     ],
   },
 
@@ -7153,7 +7153,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Quick Wins in the First 90 Days After Buying a Business",
     ogDescription:
-      "Raise prices 3–8%, re-bid insurance, accelerate collections, optimize Google listing — the quick wins that build credibility and generate cash flow from day one.",
+      "Raise prices 3-8%, re-bid insurance, accelerate collections, optimize Google listing - the quick wins that build credibility and generate cash flow from day one.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7162,8 +7162,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "McKinsey", title: "Pricing as a Profit Lever in M&A", year: 2024 },
     ],
     faqs: [
-      { question: "What are the best quick wins after buying a business?", answer: "Highest-impact quick wins: (1) Raise prices 3–8% (drops directly to EBITDA), (2) Re-bid insurance policies (10–25% savings), (3) Renegotiate top 5 vendor contracts, (4) Accelerate AR collections, (5) Optimize Google Business Profile, (6) Reactivate dormant customers. Budget $0–$50K to implement; expected EBITDA impact: $100K–$500K." },
-      { question: "What should you NOT do in the first 90 days after an acquisition?", answer: "Avoid: rebranding (the name has customer equity), major reorganizations (signals instability), hasty firings (give 90 days to evaluate), ERP implementations (wait 6–12 months for stability), and ignoring the seller's knowledge transfer (it's happening now)." },
+      { question: "What are the best quick wins after buying a business?", answer: "Highest-impact quick wins: (1) Raise prices 3-8% (drops directly to EBITDA), (2) Re-bid insurance policies (10-25% savings), (3) Renegotiate top 5 vendor contracts, (4) Accelerate AR collections, (5) Optimize Google Business Profile, (6) Reactivate dormant customers. Budget $0-$50K to implement; expected EBITDA impact: $100K-$500K." },
+      { question: "What should you NOT do in the first 90 days after an acquisition?", answer: "Avoid: rebranding (the name has customer equity), major reorganizations (signals instability), hasty firings (give 90 days to evaluate), ERP implementations (wait 6-12 months for stability), and ignoring the seller's knowledge transfer (it's happening now)." },
     ],
   },
   {
@@ -7176,20 +7176,20 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Employee Retention After Acquisition: Pre- and Post-Closing Strategies",
     ogDescription:
-      "15–25% of employees leave within year 1 post-acquisition. Retention bonuses, compensation adjustments, career development, and equity programs that keep your best people.",
+      "15-25% of employees leave within year 1 post-acquisition. Retention bonuses, compensation adjustments, career development, and equity programs that keep your best people.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "Gallup", title: "Stop Losing Talent When You Merge or Acquire", url: "https://www.gallup.com/workplace/267494/stop-losing-talent-merge-acquire.aspx", year: 2023 },
       { name: "Mercer", title: "How Strategic Retention Drives M&A Outcomes", url: "https://www.mercer.com/insights/people-strategy/mergers-and-acquisitions/how-strategic-retention-drives-m-and-a-outcomes/", year: 2024 },
-      { name: "MIT Sloan", title: "Your Acquired Hires Are Leaving — Here's Why", url: "https://mitsloan.mit.edu/ideas-made-to-matter/your-acquired-hires-are-leaving-heres-why", year: 2024 },
+      { name: "MIT Sloan", title: "Your Acquired Hires Are Leaving - Here's Why", url: "https://mitsloan.mit.edu/ideas-made-to-matter/your-acquired-hires-are-leaving-heres-why", year: 2024 },
       { name: "Willis Towers Watson", title: "2024 M&A Retention Study", url: "https://www.wtwco.com/en-us/insights/2024/03/2024-m-and-a-retention-study", year: 2024 },
       { name: "Harvard Business Review", title: "The Challenge of Retaining Startup Talent After an Acquisition", url: "https://hbr.org/2024/02/the-challenge-of-retaining-startup-talent-after-an-acquisition", year: 2024 },
       { name: "SHRM", title: "Retention Bonus Agreement Template & Guidelines", url: "https://www.shrm.org/topics-tools/tools/forms/retention-bonus-agreement", year: 2024 },
     ],
     faqs: [
-      { question: "How do you retain key employees after an acquisition?", answer: "Pre-closing: identify the critical 3–5 employees during DD, offer retention bonuses (15–50% of salary over 24 months), adjust below-market compensation. Post-closing: communicate constantly, honor all seller commitments, create career development plans, implement profit-sharing or phantom equity for top performers." },
-      { question: "How much should you budget for employee retention after an acquisition?", answer: "Budget 2–5% of EBITDA ($40K–$100K for a $2M EBITDA business) for retention packages in the first year. This covers retention bonuses for 3–5 key employees, compensation adjustments, and benefit upgrades. The ROI is 4–10x: a $50K retention package prevents $200K+ in replacement, productivity, and customer relationship costs." },
+      { question: "How do you retain key employees after an acquisition?", answer: "Pre-closing: identify the critical 3-5 employees during DD, offer retention bonuses (15-50% of salary over 24 months), adjust below-market compensation. Post-closing: communicate constantly, honor all seller commitments, create career development plans, implement profit-sharing or phantom equity for top performers." },
+      { question: "How much should you budget for employee retention after an acquisition?", answer: "Budget 2-5% of EBITDA ($40K-$100K for a $2M EBITDA business) for retention packages in the first year. This covers retention bonuses for 3-5 key employees, compensation adjustments, and benefit upgrades. The ROI is 4-10x: a $50K retention package prevents $200K+ in replacement, productivity, and customer relationship costs." },
     ],
   },
 
@@ -7213,8 +7213,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review", title: "The Good-Better-Best Approach to Pricing", url: "https://hbr.org/2018/09/the-good-better-best-approach-to-pricing", year: 2018 },
     ],
     faqs: [
-      { question: "How much should you raise prices after acquiring a business?", answer: "Most acquired SMEs are underpriced by 10–20%. Start with a 5–8% across-the-board increase for the first adjustment, then implement tiered increases over the next 12 months. A 5% increase on a $5M revenue business generates ~$225K of EBITDA improvement with 90%+ flow-through." },
-      { question: "Will customers leave if you raise prices?", answer: "For increases under 5%, expected churn is 0–3%. Most SME customers are far less price-sensitive than owners fear. If you lose zero customers after a price increase, you didn't raise enough. The key is professional communication with 30–60 days notice and a clear rationale." },
+      { question: "How much should you raise prices after acquiring a business?", answer: "Most acquired SMEs are underpriced by 10-20%. Start with a 5-8% across-the-board increase for the first adjustment, then implement tiered increases over the next 12 months. A 5% increase on a $5M revenue business generates ~$225K of EBITDA improvement with 90%+ flow-through." },
+      { question: "Will customers leave if you raise prices?", answer: "For increases under 5%, expected churn is 0-3%. Most SME customers are far less price-sensitive than owners fear. If you lose zero customers after a price increase, you didn't raise enough. The key is professional communication with 30-60 days notice and a clear rationale." },
     ],
   },
   {
@@ -7227,7 +7227,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Key Person Risk in Acquisitions: Identify, Assess & Mitigate",
     ogDescription:
-      "Every SME has 2–5 people whose departure would hurt. Revenue-critical, operations-critical, knowledge-critical — how to identify, retain, and cross-train to reduce key person risk.",
+      "Every SME has 2-5 people whose departure would hurt. Revenue-critical, operations-critical, knowledge-critical - how to identify, retain, and cross-train to reduce key person risk.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7236,8 +7236,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "McKinsey & Company", title: "Post-Merger Integration: Keys to Employee Retention", year: 2019 },
     ],
     faqs: [
-      { question: "What is key person risk in an acquisition?", answer: "Key person risk is the threat of material business disruption if 1–5 critical employees leave. In SMEs, this often includes the previous owner, a top salesperson responsible for >20% of revenue, a sole technical expert, or an operations manager who runs day-to-day. Unmitigated key person risk is a top-3 cause of value destruction post-acquisition." },
-      { question: "How do you mitigate key person risk after buying a business?", answer: "Pre-closing: retention bonuses (15–50% of salary over 12–24 months), compensation adjustments, new employment contracts. Post-closing: weekly 1:1s, career development plans, equity/profit-sharing. Structurally: cross-train every critical function to 2+ people, document SOPs, diversify customer relationships, and implement CRM/knowledge systems." },
+      { question: "What is key person risk in an acquisition?", answer: "Key person risk is the threat of material business disruption if 1-5 critical employees leave. In SMEs, this often includes the previous owner, a top salesperson responsible for >20% of revenue, a sole technical expert, or an operations manager who runs day-to-day. Unmitigated key person risk is a top-3 cause of value destruction post-acquisition." },
+      { question: "How do you mitigate key person risk after buying a business?", answer: "Pre-closing: retention bonuses (15-50% of salary over 12-24 months), compensation adjustments, new employment contracts. Post-closing: weekly 1:1s, career development plans, equity/profit-sharing. Structurally: cross-train every critical function to 2+ people, document SOPs, diversify customer relationships, and implement CRM/knowledge systems." },
     ],
   },
   {
@@ -7250,7 +7250,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Culture Integration After Acquisition: What to Do (and Avoid)",
     ogDescription:
-      "Culture eats strategy — especially in acquisitions. How to assess the inherited culture, respect what works, introduce changes gradually, and avoid the top culture-killing mistakes.",
+      "Culture eats strategy - especially in acquisitions. How to assess the inherited culture, respect what works, introduce changes gradually, and avoid the top culture-killing mistakes.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7258,8 +7258,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Bain & Company", title: "Culture in M&A: Keys to Successful Integration", year: 2022 },
     ],
     faqs: [
-      { question: "How do you handle culture after acquiring a company?", answer: "Spend the first 30 days observing — talk to every employee, understand unwritten rules, identify culture carriers. Keep traditions and rituals that work. Lead by example. Make small visible improvements (break room upgrades, recognition programs). Introduce values one at a time through actions, not posters. Never trash-talk the previous owner or eliminate traditions hastily." },
-      { question: "What are the biggest cultural mistakes after an acquisition?", answer: "The top mistakes are: imposing corporate jargon on a blue-collar team, eliminating traditions in the first 90 days, reorganizing too early, hiring outsiders before promoting from within, and trying to mandate culture through memos. Culture is how people behave when no one is watching — you can influence it, not dictate it." },
+      { question: "How do you handle culture after acquiring a company?", answer: "Spend the first 30 days observing - talk to every employee, understand unwritten rules, identify culture carriers. Keep traditions and rituals that work. Lead by example. Make small visible improvements (break room upgrades, recognition programs). Introduce values one at a time through actions, not posters. Never trash-talk the previous owner or eliminate traditions hastily." },
+      { question: "What are the biggest cultural mistakes after an acquisition?", answer: "The top mistakes are: imposing corporate jargon on a blue-collar team, eliminating traditions in the first 90 days, reorganizing too early, hiring outsiders before promoting from within, and trying to mandate culture through memos. Culture is how people behave when no one is watching - you can influence it, not dictate it." },
     ],
   },
   {
@@ -7280,8 +7280,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Axial", title: "Sell-Side M&A Process Guide", year: 2023 },
     ],
     faqs: [
-      { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18 months of preparation before going to market. Months 18–12: audit-quality financials, reduce owner dependency, document processes. Months 12–6: diversify revenue, lock in contracts, resolve legal issues. Months 6–3: engage an M&A advisor, commission sell-side QoE, prepare CIM. Months 3–0: run a controlled auction process." },
-      { question: "What increases the value of a business before selling?", answer: "The top value drivers are: EBITDA level ($3M+ opens the PE buyer universe), growth rate (growing businesses sell for 1–2x higher multiples), recurring revenue (adds 1–3x to the multiple), customer diversification (no customer >10%), management depth, and clean financials with minimal add-backs." },
+      { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18 months of preparation before going to market. Months 18-12: audit-quality financials, reduce owner dependency, document processes. Months 12-6: diversify revenue, lock in contracts, resolve legal issues. Months 6-3: engage an M&A advisor, commission sell-side QoE, prepare CIM. Months 3-0: run a controlled auction process." },
+      { question: "What increases the value of a business before selling?", answer: "The top value drivers are: EBITDA level ($3M+ opens the PE buyer universe), growth rate (growing businesses sell for 1-2x higher multiples), recurring revenue (adds 1-3x to the multiple), customer diversification (no customer >10%), management depth, and clean financials with minimal add-backs." },
     ],
   },
   {
@@ -7294,7 +7294,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Strategic vs. Financial Sale: Which Maximizes Your Exit Value?",
     ogDescription:
-      "Strategic buyers pay 1–3x EBITDA premium for synergies. Financial buyers offer equity rollover and management continuity. Run a dual-track process for the highest price.",
+      "Strategic buyers pay 1-3x EBITDA premium for synergies. Financial buyers offer equity rollover and management continuity. Run a dual-track process for the highest price.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7302,8 +7302,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Bain & Company", title: "Global M&A Report", year: 2024 },
     ],
     faqs: [
-      { question: "Do strategic buyers pay more than financial buyers?", answer: "Generally yes — strategic buyers pay a 1–3x EBITDA premium over financial buyers because they can realize synergies (cost elimination, revenue cross-selling, market position). However, financial buyers may pay more for businesses with a compelling standalone growth story, strong recurring revenue, or buy-and-build potential." },
-      { question: "What is the difference between a strategic and financial sale?", answer: "Strategic buyers are companies in your industry acquiring for synergies — they pay more but may eliminate your brand and staff. Financial buyers (PE firms, family offices, other searchers) buy standalone businesses, use leverage, and often retain management. Strategic deals are mostly cash at close; financial deals involve leverage, earn-outs, and equity rollover." },
+      { question: "Do strategic buyers pay more than financial buyers?", answer: "Generally yes - strategic buyers pay a 1-3x EBITDA premium over financial buyers because they can realize synergies (cost elimination, revenue cross-selling, market position). However, financial buyers may pay more for businesses with a compelling standalone growth story, strong recurring revenue, or buy-and-build potential." },
+      { question: "What is the difference between a strategic and financial sale?", answer: "Strategic buyers are companies in your industry acquiring for synergies - they pay more but may eliminate your brand and staff. Financial buyers (PE firms, family offices, other searchers) buy standalone businesses, use leverage, and often retain management. Strategic deals are mostly cash at close; financial deals involve leverage, earn-outs, and equity rollover." },
     ],
   },
 
@@ -7317,7 +7317,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "AI for Small Businesses After Acquisition: Practical Guide",
     ogDescription:
-      "Customer service chatbots, AI lead scoring, automated AP/AR, route optimization, and knowledge management. How search fund CEOs implement AI in acquired SMEs for $500–$3K/month.",
+      "Customer service chatbots, AI lead scoring, automated AP/AR, route optimization, and knowledge management. How search fund CEOs implement AI in acquired SMEs for $500-$3K/month.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7326,8 +7326,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Deloitte", title: "Predictive Maintenance and Unplanned Downtime Reduction", year: 2024 },
     ],
     faqs: [
-      { question: "How can small businesses use AI after an acquisition?", answer: "Start with high-impact, low-risk applications: AI chatbots for customer service (saves 1–2 FTEs), AI email automation, CRM enrichment, accounts payable automation, cash flow forecasting, and an internal AI assistant trained on company SOPs. Budget $500–$3,000/month for off-the-shelf SaaS tools — no custom development needed." },
-      { question: "What is the ROI of AI for small businesses?", answer: "Typical SME AI implementations show ROI within 3–6 months. Customer service chatbots reduce support costs by $50K–$100K/year. AI-powered sales tools increase conversion rates 15–30%. Financial automation saves 10–20 hours/week of bookkeeping time. Start with one application, prove ROI, then expand." },
+      { question: "How can small businesses use AI after an acquisition?", answer: "Start with high-impact, low-risk applications: AI chatbots for customer service (saves 1-2 FTEs), AI email automation, CRM enrichment, accounts payable automation, cash flow forecasting, and an internal AI assistant trained on company SOPs. Budget $500-$3,000/month for off-the-shelf SaaS tools - no custom development needed." },
+      { question: "What is the ROI of AI for small businesses?", answer: "Typical SME AI implementations show ROI within 3-6 months. Customer service chatbots reduce support costs by $50K-$100K/year. AI-powered sales tools increase conversion rates 15-30%. Financial automation saves 10-20 hours/week of bookkeeping time. Start with one application, prove ROI, then expand." },
     ],
   },
 
@@ -7335,13 +7335,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "erp-implementation-post-acquisition",
     title: "ERP Implementation After Acquisition: A Practical Guide",
     description:
-      "How to evaluate, select, and implement an ERP system after acquiring an SME — timeline, budget, change management, and common pitfalls.",
+      "How to evaluate, select, and implement an ERP system after acquiring an SME - timeline, budget, change management, and common pitfalls.",
     readTime: "14 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "ERP Implementation After Acquisition: Practical Guide for Search Fund CEOs",
     ogDescription:
-      "Most acquired SMEs run on spreadsheets. How to evaluate whether you need an ERP, select the right system, manage the implementation, and avoid the 50–75% failure rate.",
+      "Most acquired SMEs run on spreadsheets. How to evaluate whether you need an ERP, select the right system, manage the implementation, and avoid the 50-75% failure rate.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7349,8 +7349,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Panorama Consulting", title: "ERP Report", year: 2024 },
     ],
     faqs: [
-      { question: "When should you implement an ERP after acquiring a business?", answer: "Wait at least 6–12 months. Spend the first 100 days understanding current processes before proposing system changes. The ideal window is months 9–18 post-acquisition, after you've stabilized the business, built trust with employees, and identified the biggest operational pain points." },
-      { question: "How much does ERP implementation cost for a small business?", answer: "Cloud ERPs for SMEs ($5M–$50M revenue) typically cost $50K–$200K for implementation plus $1K–$5K/month in SaaS fees. Budget 1.5–2x the vendor's estimate. The biggest hidden costs are data migration, training, and lost productivity during the transition period." },
+      { question: "When should you implement an ERP after acquiring a business?", answer: "Wait at least 6-12 months. Spend the first 100 days understanding current processes before proposing system changes. The ideal window is months 9-18 post-acquisition, after you've stabilized the business, built trust with employees, and identified the biggest operational pain points." },
+      { question: "How much does ERP implementation cost for a small business?", answer: "Cloud ERPs for SMEs ($5M-$50M revenue) typically cost $50K-$200K for implementation plus $1K-$5K/month in SaaS fees. Budget 1.5-2x the vendor's estimate. The biggest hidden costs are data migration, training, and lost productivity during the transition period." },
     ],
   },
 
@@ -7358,7 +7358,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "seller-transition-period",
     title: "Seller Transition Period: Structuring the Handover for Success",
     description:
-      "How to structure and manage the seller transition period after a search fund acquisition — consulting agreements, knowledge transfer, and phased withdrawal.",
+      "How to structure and manage the seller transition period after a search fund acquisition - consulting agreements, knowledge transfer, and phased withdrawal.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7372,8 +7372,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "HBR", title: "Managing Leadership Transitions in Acquisitions", year: 2023 },
     ],
     faqs: [
-      { question: "How long should the seller transition period last?", answer: "Most search fund acquisitions include a 6–12 month transition. Start at 20–30 hours/week and taper to 5–10 hours by months 7–12. Shorter periods (3–6 months) work when the business has a strong management team; longer periods (12–18 months) are needed when the seller has deep customer relationships or technical expertise." },
-      { question: "How much should you pay the seller during the transition?", answer: "Typical consulting fees range from $10K–$25K/month for the first six months, stepping down in months 7–12. Some sellers accept a flat monthly fee; others prefer hourly rates of $150–$300/hour. The fee should be negotiated as part of the purchase agreement, not as an afterthought." },
+      { question: "How long should the seller transition period last?", answer: "Most search fund acquisitions include a 6-12 month transition. Start at 20-30 hours/week and taper to 5-10 hours by months 7-12. Shorter periods (3-6 months) work when the business has a strong management team; longer periods (12-18 months) are needed when the seller has deep customer relationships or technical expertise." },
+      { question: "How much should you pay the seller during the transition?", answer: "Typical consulting fees range from $10K-$25K/month for the first six months, stepping down in months 7-12. Some sellers accept a flat monthly fee; others prefer hourly rates of $150-$300/hour. The fee should be negotiated as part of the purchase agreement, not as an afterthought." },
     ],
   },
 
@@ -7381,7 +7381,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "kpi-dashboard-post-acquisition",
     title: "KPI Dashboard for Post-Acquisition Management",
     description:
-      "How to build and use a KPI dashboard after acquiring a business — financial metrics, operational indicators, board reporting, and common pitfalls.",
+      "How to build and use a KPI dashboard after acquiring a business - financial metrics, operational indicators, board reporting, and common pitfalls.",
     readTime: "13 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7395,8 +7395,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "Search Fund CEO Operating Playbook", year: 2023 },
     ],
     faqs: [
-      { question: "What KPIs should you track after acquiring a business?", answer: "Start with the Big 5: revenue (trailing 12-month and monthly trend), EBITDA margin, cash conversion cycle (DSO + DIO − DPO), employee retention rate, and customer churn. Layer in industry-specific metrics as you learn the business. Avoid tracking more than 12–15 KPIs — focus creates clarity." },
-      { question: "How often should you report KPIs to your board?", answer: "Send a monthly dashboard with 10–15 KPIs, a brief narrative on key trends, and a cash flow forecast. Hold formal board meetings quarterly with deeper strategic discussion. In the first 90 days, consider weekly flash reports to build investor confidence during the transition." },
+      { question: "What KPIs should you track after acquiring a business?", answer: "Start with the Big 5: revenue (trailing 12-month and monthly trend), EBITDA margin, cash conversion cycle (DSO + DIO − DPO), employee retention rate, and customer churn. Layer in industry-specific metrics as you learn the business. Avoid tracking more than 12-15 KPIs - focus creates clarity." },
+      { question: "How often should you report KPIs to your board?", answer: "Send a monthly dashboard with 10-15 KPIs, a brief narrative on key trends, and a cash flow forecast. Hold formal board meetings quarterly with deeper strategic discussion. In the first 90 days, consider weekly flash reports to build investor confidence during the transition." },
     ],
   },
 
@@ -7404,7 +7404,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "employee-equity-incentives",
     title: "Employee Equity & Incentive Plans After Acquisition",
     description:
-      "How to design equity and incentive plans for employees after a search fund acquisition — phantom equity, option pools, profit sharing, and tax considerations.",
+      "How to design equity and incentive plans for employees after a search fund acquisition - phantom equity, option pools, profit sharing, and tax considerations.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7418,8 +7418,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "Search Fund CEO Compensation Study", year: 2023 },
     ],
     faqs: [
-      { question: "Should you offer equity to employees after acquiring a business?", answer: "Yes, selectively. Equity incentives for the top 2–5 key employees align their interests with long-term value creation. Most search fund CEOs use phantom equity (synthetic equity that pays out at exit) rather than real equity, which avoids cap table complexity and requires no 409A valuation. Reserve 5–10% of total equity value for the management incentive pool." },
-      { question: "What is phantom equity and how does it work?", answer: "Phantom equity gives employees the economic benefit of equity ownership without actual shares. When the company is sold, phantom equity holders receive a cash payment equal to what they would have received as shareholders. It typically vests over 3–4 years with a 1-year cliff. The key advantage: no tax event at grant, no cap table dilution, and simple administration." },
+      { question: "Should you offer equity to employees after acquiring a business?", answer: "Yes, selectively. Equity incentives for the top 2-5 key employees align their interests with long-term value creation. Most search fund CEOs use phantom equity (synthetic equity that pays out at exit) rather than real equity, which avoids cap table complexity and requires no 409A valuation. Reserve 5-10% of total equity value for the management incentive pool." },
+      { question: "What is phantom equity and how does it work?", answer: "Phantom equity gives employees the economic benefit of equity ownership without actual shares. When the company is sold, phantom equity holders receive a cash payment equal to what they would have received as shareholders. It typically vests over 3-4 years with a 1-year cliff. The key advantage: no tax event at grant, no cap table dilution, and simple administration." },
     ],
   },
 
@@ -7427,13 +7427,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "customer-retention-post-acquisition",
     title: "Customer Retention After Acquisition: Protecting Your Revenue Base",
     description:
-      "How to prevent customer churn after acquiring a business — announcement playbooks, at-risk identification, relationship transfer, and retention strategies.",
+      "How to prevent customer churn after acquiring a business - announcement playbooks, at-risk identification, relationship transfer, and retention strategies.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Customer Retention After Acquisition: Protecting Your Revenue Base",
     ogDescription:
-      "Customer churn can spike 15–25% after a change of ownership. Learn how to announce the acquisition, identify at-risk accounts, and retain your most valuable customers.",
+      "Customer churn can spike 15-25% after a change of ownership. Learn how to announce the acquisition, identify at-risk accounts, and retain your most valuable customers.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7441,8 +7441,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "HBR", title: "Retaining Customers Through Mergers and Acquisitions", year: 2023 },
     ],
     faqs: [
-      { question: "How much customer churn should you expect after an acquisition?", answer: "Without proactive management, customer churn can spike 15–25% in the first year after an ownership change. With a structured retention plan (personal outreach within 30 days, service guarantees, pricing stability commitments), most search fund acquisitions limit churn to 5–10%. B2B businesses with contracts see lower churn than B2C or transactional businesses." },
-      { question: "When should you tell customers about the acquisition?", answer: "Announce to key customers (top 20 by revenue) personally within the first week after closing, ideally with the seller present to endorse the transition. Send a formal letter to all customers within 2 weeks. Never let customers hear about the sale from third parties — it signals that they aren't important to you." },
+      { question: "How much customer churn should you expect after an acquisition?", answer: "Without proactive management, customer churn can spike 15-25% in the first year after an ownership change. With a structured retention plan (personal outreach within 30 days, service guarantees, pricing stability commitments), most search fund acquisitions limit churn to 5-10%. B2B businesses with contracts see lower churn than B2C or transactional businesses." },
+      { question: "When should you tell customers about the acquisition?", answer: "Announce to key customers (top 20 by revenue) personally within the first week after closing, ideally with the seller present to endorse the transition. Send a formal letter to all customers within 2 weeks. Never let customers hear about the sale from third parties - it signals that they aren't important to you." },
     ],
   },
 
@@ -7450,7 +7450,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "talent-acquisition-post-close",
     title: "Talent Acquisition & Hiring After a Search Fund Acquisition",
     description:
-      "How to recruit, hire, and onboard key talent after acquiring a business — building a management layer, compensation benchmarking, and fractional executives.",
+      "How to recruit, hire, and onboard key talent after acquiring a business - building a management layer, compensation benchmarking, and fractional executives.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7464,8 +7464,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "Search Fund CEO Operating Playbook", year: 2023 },
     ],
     faqs: [
-      { question: "What is the first hire a search fund CEO should make?", answer: "A controller or fractional CFO. Most acquired SMEs have a bookkeeper but no one who can produce management-quality financials, cash flow forecasts, or board reporting. This hire typically costs $80K–$120K for a full-time controller or $3K–$8K/month for a fractional CFO, and pays for itself through better financial visibility and decision-making." },
-      { question: "Should you promote internally or hire externally after an acquisition?", answer: "Start with internal promotions for the first 90 days — it signals trust and opportunity to existing employees. After you understand the team, fill capability gaps with external hires. The ideal ratio is 60–70% internal promotions to 30–40% external hires in the first year. External hires bring new skills but can disrupt culture if introduced too aggressively." },
+      { question: "What is the first hire a search fund CEO should make?", answer: "A controller or fractional CFO. Most acquired SMEs have a bookkeeper but no one who can produce management-quality financials, cash flow forecasts, or board reporting. This hire typically costs $80K-$120K for a full-time controller or $3K-$8K/month for a fractional CFO, and pays for itself through better financial visibility and decision-making." },
+      { question: "Should you promote internally or hire externally after an acquisition?", answer: "Start with internal promotions for the first 90 days - it signals trust and opportunity to existing employees. After you understand the team, fill capability gaps with external hires. The ideal ratio is 60-70% internal promotions to 30-40% external hires in the first year. External hires bring new skills but can disrupt culture if introduced too aggressively." },
     ],
   },
 
@@ -7473,7 +7473,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "supply-chain-optimization-post-acquisition",
     title: "Supply Chain Optimization After Acquisition",
     description:
-      "How to optimize suppliers, inventory, and procurement after acquiring an SME — vendor negotiation, rationalization, logistics improvements, and group purchasing.",
+      "How to optimize suppliers, inventory, and procurement after acquiring an SME - vendor negotiation, rationalization, logistics improvements, and group purchasing.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7487,8 +7487,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "ISM", title: "Report on Business: Procurement Benchmarks", year: 2024 },
     ],
     faqs: [
-      { question: "How much can supply chain optimization save after an acquisition?", answer: "Typical savings range from 5–15% of total procurement spend within the first 12–18 months. For a $10M revenue business with 50% COGS, that translates to $250K–$750K in annual savings flowing directly to EBITDA. The biggest levers are vendor consolidation, competitive rebidding, and payment terms optimization." },
-      { question: "When should you start optimizing the supply chain after an acquisition?", answer: "Begin the assessment in months 2–3 but avoid making major changes in the first 90 days. Supplier relationships in SMEs are often deeply personal — the owner may have 20-year relationships with key vendors. Start with data collection and analysis, then implement changes in months 4–9 once you understand the full picture." },
+      { question: "How much can supply chain optimization save after an acquisition?", answer: "Typical savings range from 5-15% of total procurement spend within the first 12-18 months. For a $10M revenue business with 50% COGS, that translates to $250K-$750K in annual savings flowing directly to EBITDA. The biggest levers are vendor consolidation, competitive rebidding, and payment terms optimization." },
+      { question: "When should you start optimizing the supply chain after an acquisition?", answer: "Begin the assessment in months 2-3 but avoid making major changes in the first 90 days. Supplier relationships in SMEs are often deeply personal - the owner may have 20-year relationships with key vendors. Start with data collection and analysis, then implement changes in months 4-9 once you understand the full picture." },
     ],
   },
 
@@ -7496,7 +7496,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "post-acquisition-technology-audit",
     title: "Post-Acquisition Technology Audit: A CEO's Playbook",
     description:
-      "How to assess and improve technology in an acquired SME — infrastructure audit, cybersecurity, cloud migration, IT budgeting, and build-vs-buy decisions.",
+      "How to assess and improve technology in an acquired SME - infrastructure audit, cybersecurity, cloud migration, IT budgeting, and build-vs-buy decisions.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
@@ -7510,8 +7510,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much should an SME spend on IT?", answer: "Best-in-class SMEs spend 3–5% of revenue on IT (including personnel, infrastructure, software, and security). Most acquired SMEs are significantly under-investing at 1–2% of revenue, creating tech debt that manifests as security vulnerabilities, manual processes, and inability to scale. Budget for a 50–100% increase in IT spend in the first 18 months." },
-      { question: "What are the most critical IT issues to address after an acquisition?", answer: "Priority 1 (first 30 days): cybersecurity basics — password policies, multi-factor authentication, backup verification, and endpoint protection. Priority 2 (months 2–4): business continuity — disaster recovery plan, cloud backup, key system documentation. Priority 3 (months 4–12): modernization — cloud migration, ERP evaluation, and automation of manual processes." },
+      { question: "How much should an SME spend on IT?", answer: "Best-in-class SMEs spend 3-5% of revenue on IT (including personnel, infrastructure, software, and security). Most acquired SMEs are significantly under-investing at 1-2% of revenue, creating tech debt that manifests as security vulnerabilities, manual processes, and inability to scale. Budget for a 50-100% increase in IT spend in the first 18 months." },
+      { question: "What are the most critical IT issues to address after an acquisition?", answer: "Priority 1 (first 30 days): cybersecurity basics - password policies, multi-factor authentication, backup verification, and endpoint protection. Priority 2 (months 2-4): business continuity - disaster recovery plan, cloud backup, key system documentation. Priority 3 (months 4-12): modernization - cloud migration, ERP evaluation, and automation of manual processes." },
     ],
   },
 
@@ -7519,13 +7519,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "cybersecurity-for-acquired-businesses",
     title: "Cybersecurity for Acquired Businesses: A CEO's Priority List",
     description:
-      "How to assess and improve cybersecurity in an acquired SME — first 30 days checklist, cyber insurance, employee training, incident response, and compliance requirements.",
+      "How to assess and improve cybersecurity in an acquired SME - first 30 days checklist, cyber insurance, employee training, incident response, and compliance requirements.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Cybersecurity for Acquired Businesses: A CEO's Priority List",
     ogDescription:
-      "43% of cyberattacks target small businesses. Learn how to secure an acquired company — MFA, backup, cyber insurance, employee training, and incident response planning.",
+      "43% of cyberattacks target small businesses. Learn how to secure an acquired company - MFA, backup, cyber insurance, employee training, and incident response planning.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7533,8 +7533,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "CISA", title: "Cybersecurity Best Practices for Small Businesses", year: 2024 },
     ],
     faqs: [
-      { question: "What cybersecurity steps should you take immediately after an acquisition?", answer: "Day 1–7: Change all admin passwords, enable MFA on email and critical systems, verify backup integrity. Day 7–30: Conduct a vulnerability scan, review firewall rules, audit user access permissions (especially departing employees), and purchase cyber insurance if not already in place. These basics prevent 80%+ of common attacks." },
-      { question: "How much should an SME spend on cybersecurity?", answer: "Budget 5–10% of total IT spend for cybersecurity, or $15K–$50K/year for a $5M–$20M revenue business. This covers: endpoint protection ($5–$15/device/month), cyber insurance ($2K–$10K/year), employee training ($1K–$5K/year), and managed security services ($1K–$5K/month). The cost of a breach averages $120K–$200K for SMEs — prevention is dramatically cheaper." },
+      { question: "What cybersecurity steps should you take immediately after an acquisition?", answer: "Day 1-7: Change all admin passwords, enable MFA on email and critical systems, verify backup integrity. Day 7-30: Conduct a vulnerability scan, review firewall rules, audit user access permissions (especially departing employees), and purchase cyber insurance if not already in place. These basics prevent 80%+ of common attacks." },
+      { question: "How much should an SME spend on cybersecurity?", answer: "Budget 5-10% of total IT spend for cybersecurity, or $15K-$50K/year for a $5M-$20M revenue business. This covers: endpoint protection ($5-$15/device/month), cyber insurance ($2K-$10K/year), employee training ($1K-$5K/year), and managed security services ($1K-$5K/month). The cost of a breach averages $120K-$200K for SMEs - prevention is dramatically cheaper." },
     ],
   },
 
@@ -7542,13 +7542,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "culture-change-post-acquisition",
     title: "Culture Change After Acquisition: Leading Transformation Without Losing Trust",
     description:
-      "How to assess, preserve, and evolve company culture after a search fund acquisition — quick wins, managing resistance, and measuring cultural health.",
+      "How to assess, preserve, and evolve company culture after a search fund acquisition - quick wins, managing resistance, and measuring cultural health.",
     readTime: "12 min read",
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Culture Change After Acquisition: A Search Fund CEO's Guide",
     ogDescription:
-      "Culture eats strategy for breakfast — especially post-acquisition. Learn how to assess culture, manage resistance, and drive transformation while maintaining employee trust.",
+      "Culture eats strategy for breakfast - especially post-acquisition. Learn how to assess culture, manage resistance, and drive transformation while maintaining employee trust.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7556,8 +7556,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Deloitte", title: "Cultural Issues in Mergers and Acquisitions", year: 2023 },
     ],
     faqs: [
-      { question: "How do you change company culture after an acquisition?", answer: "Start by listening — spend the first 90 days understanding the existing culture before changing anything. Identify what to preserve (the strengths that made the business successful) and what to evolve (behaviors that limit growth). Make changes gradually, starting with visible quick wins that demonstrate your values. Culture change is a 12–24 month process, not a Day 1 announcement." },
-      { question: "What are the biggest culture mistakes after an acquisition?", answer: "Three common failures: (1) changing too much too fast — employees interpret rapid change as disrespect for what they built. (2) Imposing corporate culture on a small business — SME employees value informality and direct access to leadership. (3) Ignoring culture entirely — without intentional management, culture drifts toward anxiety and disengagement during ownership transitions." },
+      { question: "How do you change company culture after an acquisition?", answer: "Start by listening - spend the first 90 days understanding the existing culture before changing anything. Identify what to preserve (the strengths that made the business successful) and what to evolve (behaviors that limit growth). Make changes gradually, starting with visible quick wins that demonstrate your values. Culture change is a 12-24 month process, not a Day 1 announcement." },
+      { question: "What are the biggest culture mistakes after an acquisition?", answer: "Three common failures: (1) changing too much too fast - employees interpret rapid change as disrespect for what they built. (2) Imposing corporate culture on a small business - SME employees value informality and direct access to leadership. (3) Ignoring culture entirely - without intentional management, culture drifts toward anxiety and disengagement during ownership transitions." },
     ],
   },
 
@@ -7572,7 +7572,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Search Fund Statistics: 681 Funds, 40 Years of Data Analyzed",
     ogDescription:
-      "Every key search fund statistic in one place: 35% IRR, 67% acquisition rate, $8–15M median deal size, 94 new funds in 2023. Stanford + IESE data.",
+      "Every key search fund statistic in one place: 35% IRR, 67% acquisition rate, $8-15M median deal size, 94 new funds in 2023. Stanford + IESE data.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7581,8 +7581,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
     ],
     faqs: [
-      { question: "How many search funds exist?", answer: "Stanford GSB has tracked 681 search funds as of the 2024 study. This covers traditional search funds since 1984. Including self-funded searches, international funds not in the Stanford database, and independent sponsors, the true number of ETA practitioners is likely 2–3x higher." },
-      { question: "What is the failure rate of search funds?", answer: "About 33% of traditional search funds never complete an acquisition. Of those that do acquire, roughly one-third result in losses for investors. However, the top performers more than compensate — the aggregate IRR across all funds is 35% and the aggregate ROIC is 4.5x." },
+      { question: "How many search funds exist?", answer: "Stanford GSB has tracked 681 search funds as of the 2024 study. This covers traditional search funds since 1984. Including self-funded searches, international funds not in the Stanford database, and independent sponsors, the true number of ETA practitioners is likely 2-3x higher." },
+      { question: "What is the failure rate of search funds?", answer: "About 33% of traditional search funds never complete an acquisition. Of those that do acquire, roughly one-third result in losses for investors. However, the top performers more than compensate - the aggregate IRR across all funds is 35% and the aggregate ROIC is 4.5x." },
     ],
   },
   {
@@ -7593,7 +7593,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Research",
     category: "Research & Data",
-    ogTitle: "Stanford 2024 Search Fund Study: 681 Funds, 35% IRR — What the Data Shows",
+    ogTitle: "Stanford 2024 Search Fund Study: 681 Funds, 35% IRR - What the Data Shows",
     ogDescription:
       "The most comprehensive search fund dataset ever: 35% IRR, 4.5x returns, record 94 new funds in 2023. Key takeaways for searchers and investors.",
     datePublished: "2024-08-12",
@@ -7602,10 +7602,10 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
-      { question: "What are the key findings of the Stanford 2024 Search Fund Study?", answer: "The Stanford 2024 Study analyzed 681 search funds from 1984–2024. Key findings: 67% of searchers successfully acquired a company, aggregate pre-tax IRR of 35.3% and MOIC of 4.5x, median deal size of $12.5M enterprise value, and international search funds growing rapidly (40%+ of new formations)." },
+      { question: "What are the key findings of the Stanford 2024 Search Fund Study?", answer: "The Stanford 2024 Study analyzed 681 search funds from 1984-2024. Key findings: 67% of searchers successfully acquired a company, aggregate pre-tax IRR of 35.3% and MOIC of 4.5x, median deal size of $12.5M enterprise value, and international search funds growing rapidly (40%+ of new formations)." },
       { question: "How many search funds have been formed according to the Stanford study?", answer: "The Stanford 2024 Study tracked 681 traditional search funds formed between 1984 and 2024. Search fund formation has accelerated dramatically: over 60% of all search funds ever formed were created in the last 10 years, reflecting the model's growing popularity and institutional acceptance." },
-      { question: "What is the failure rate shown in the Stanford study?", answer: "Approximately 33% of search funds in the Stanford dataset did not complete an acquisition — the searcher returned remaining capital to investors after an unsuccessful search. Among those that acquired, roughly two-thirds generated positive returns and one-third resulted in negative returns. Overall, the model shows strong risk-adjusted performance." },
-      { question: "How have search fund returns changed over time?", answer: "Returns have moderated from the earliest vintage years (which benefited from less competition and cheaper valuations) but remain attractive. Recent vintages (2015–2020) show IRRs of 25–30%, still well above PE and public market averages. The main drivers of lower recent returns are higher acquisition multiples and increased competition." },
+      { question: "What is the failure rate shown in the Stanford study?", answer: "Approximately 33% of search funds in the Stanford dataset did not complete an acquisition - the searcher returned remaining capital to investors after an unsuccessful search. Among those that acquired, roughly two-thirds generated positive returns and one-third resulted in negative returns. Overall, the model shows strong risk-adjusted performance." },
+      { question: "How have search fund returns changed over time?", answer: "Returns have moderated from the earliest vintage years (which benefited from less competition and cheaper valuations) but remain attractive. Recent vintages (2015-2020) show IRRs of 25-30%, still well above PE and public market averages. The main drivers of lower recent returns are higher acquisition multiples and increased competition." },
     ],
   },
   {
@@ -7616,7 +7616,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "10 min read",
     tag: "Data",
     category: "Research & Data",
-    ogTitle: "Search Fund Returns: 35% IRR Over 40 Years — Performance Data & Benchmarks",
+    ogTitle: "Search Fund Returns: 35% IRR Over 40 Years - Performance Data & Benchmarks",
     ogDescription:
       "How do search funds compare to PE and VC? Explore 40 years of return data, acquisition rates, and deal characteristics.",
     datePublished: "2024-08-26",
@@ -7626,7 +7626,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2023 },
     ],
     faqs: [
-      { question: "What is the average return on a search fund?", answer: "Search funds have generated a 35% aggregate IRR and 4.5x return on invested capital across 681 funds tracked by Stanford GSB since 1984. However, returns are highly skewed — the top quartile drives most of the aggregate performance." },
+      { question: "What is the average return on a search fund?", answer: "Search funds have generated a 35% aggregate IRR and 4.5x return on invested capital across 681 funds tracked by Stanford GSB since 1984. However, returns are highly skewed - the top quartile drives most of the aggregate performance." },
       { question: "What percentage of search funds successfully acquire a company?", answer: "Approximately 67% of traditional search funds complete an acquisition. The remaining 33% return unused capital to investors. Self-funded searchers have varying acquisition rates depending on their financial runway and deal criteria." },
       { question: "How do search fund returns compare to private equity?", answer: "Search funds have outperformed PE on an IRR basis (35% vs 15-20% for PE), largely due to smaller deal sizes, operator alignment, and lower entry multiples. However, PE offers larger check sizes and more diversification." },
     ],
@@ -7635,13 +7635,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-success-stories",
     title: "Famous Search Fund Success Stories",
     description:
-      "Asurion, EndoChoice, and other notable exits — key decisions, growth strategies, and lessons from top-performing search funds.",
+      "Asurion, EndoChoice, and other notable exits - key decisions, growth strategies, and lessons from top-performing search funds.",
     readTime: "9 min read",
     tag: "Research",
     category: "Research & Data",
-    ogTitle: "Famous Search Fund Success Stories — Lessons from Top Performers",
+    ogTitle: "Famous Search Fund Success Stories - Lessons from Top Performers",
     ogDescription:
-      "Asurion, EndoChoice, and more — the stories behind search fund exits that returned 10x+. Key decisions, growth strategies, and lessons for searchers.",
+      "Asurion, EndoChoice, and more - the stories behind search fund exits that returned 10x+. Key decisions, growth strategies, and lessons for searchers.",
     datePublished: "2024-09-09",
     dateModified: "2025-04-17",
     sources: [
@@ -7662,7 +7662,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Research",
     category: "Research & Data",
-    ogTitle: "European Search Fund Research — IESE & INSEAD Studies Analyzed",
+    ogTitle: "European Search Fund Research - IESE & INSEAD Studies Analyzed",
     ogDescription:
       "European search funds deliver comparable returns to US peers. IESE and INSEAD data on deal sizes, success factors, and the EU growth trajectory.",
     datePublished: "2024-10-01",
@@ -7672,7 +7672,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
     ],
     faqs: [
-      { question: "What does the IESE study show about European search funds?", answer: "The IESE International Search Fund Study (latest edition 2024) shows that European search funds have grown from fewer than 10 formations per year in 2010 to 50+ annually. European search fund returns have averaged approximately 25–30% IRR, with Spain, UK, and France as leading markets." },
+      { question: "What does the IESE study show about European search funds?", answer: "The IESE International Search Fund Study (latest edition 2024) shows that European search funds have grown from fewer than 10 formations per year in 2010 to 50+ annually. European search fund returns have averaged approximately 25-30% IRR, with Spain, UK, and France as leading markets." },
       { question: "How do INSEAD contributions to search fund research compare to Stanford?", answer: "Stanford publishes the definitive US-focused study (681 funds since 1984). INSEAD has focused on the European search fund ecosystem, producing case studies, hosting annual roundtables, and tracking European-specific data. IESE provides the most comprehensive international dataset. Together, these three institutions form the academic backbone of search fund research." },
       { question: "Where can I access European search fund research data?", answer: "Key sources include: the IESE International Search Fund Study (published every 2 years), INSEAD case studies and working papers, the Stanford 2024 Study (includes international data), and the annual IESE Search Fund Conference proceedings. Most are freely available through the respective school websites." },
     ],
@@ -7681,7 +7681,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "how-to-evaluate-searcher",
     title: "How to Evaluate a Searcher: Due Diligence for Investors",
     description:
-      "The framework experienced search fund investors use to evaluate searcher candidates — track record, character, resilience, business acumen, and leadership potential.",
+      "The framework experienced search fund investors use to evaluate searcher candidates - track record, character, resilience, business acumen, and leadership potential.",
     readTime: "14 min read",
     tag: "Investor",
     category: "Research & Data",
@@ -7695,7 +7695,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pacific Lake Partners", title: "Searcher Evaluation Insights", year: 2024 },
     ],
     faqs: [
-      { question: "How do you evaluate a search fund entrepreneur?", answer: "Use a 5-part framework: (1) Track record & competence — 3–7 years of progressively responsible positions, (2) Character & integrity — reference checks and transparency, (3) Resilience & grit — ability to handle 12–24 months of rejection, (4) Business acumen — financial literacy and clear acquisition thesis, (5) Leadership potential — team building and decision-making under pressure." },
+      { question: "How do you evaluate a search fund entrepreneur?", answer: "Use a 5-part framework: (1) Track record & competence - 3-7 years of progressively responsible positions, (2) Character & integrity - reference checks and transparency, (3) Resilience & grit - ability to handle 12-24 months of rejection, (4) Business acumen - financial literacy and clear acquisition thesis, (5) Leadership potential - team building and decision-making under pressure." },
       { question: "What are the red flags when evaluating a searcher?", answer: "Watch for overconfidence ('I will definitely find a deal quickly'), vague thesis ('I'm open to anything'), financial immaturity, blame-shifting, and reluctance to accept board guidance. Also concerning: candidates who haven't done enough preparation or who seem desperate to deploy capital." },
     ],
   },
@@ -7703,13 +7703,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "portfolio-construction-search-funds",
     title: "Portfolio Construction for Search Fund Investors",
     description:
-      "How many search funds to invest in, check sizes, diversification across vintage years, geography, and industries — the framework for building a search fund portfolio.",
+      "How many search funds to invest in, check sizes, diversification across vintage years, geography, and industries - the framework for building a search fund portfolio.",
     readTime: "14 min read",
     tag: "Investor",
     category: "Research & Data",
     ogTitle: "Portfolio Construction for Search Fund Investors",
     ogDescription:
-      "Invest in 15–25 search funds across 3–5 vintage years. Budget 2–3x initial commitment for follow-on. Diversify geography, industry, and searcher profile.",
+      "Invest in 15-25 search funds across 3-5 vintage years. Budget 2-3x initial commitment for follow-on. Diversify geography, industry, and searcher profile.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7717,15 +7717,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pacific Lake Partners", title: "Search Fund Portfolio Analysis", year: 2024 },
     ],
     faqs: [
-      { question: "How many search funds should I invest in?", answer: "Minimum 10–15 for meaningful diversification, optimal 15–25. With ~33% of investments resulting in partial/total loss, you need enough to capture 1–2 top-quartile outcomes (3–10x+). Institutional portfolios hold 30–50+ funds." },
-      { question: "How much should I invest per search fund?", answer: "Individual investors typically commit $25K–$100K per fund during search phase, with $50K–$500K follow-on at acquisition. Budget 2–3x your initial commitment per fund for total deployment. Equal weighting across investments avoids over-concentration." },
+      { question: "How many search funds should I invest in?", answer: "Minimum 10-15 for meaningful diversification, optimal 15-25. With ~33% of investments resulting in partial/total loss, you need enough to capture 1-2 top-quartile outcomes (3-10x+). Institutional portfolios hold 30-50+ funds." },
+      { question: "How much should I invest per search fund?", answer: "Individual investors typically commit $25K-$100K per fund during search phase, with $50K-$500K follow-on at acquisition. Budget 2-3x your initial commitment per fund for total deployment. Equal weighting across investments avoids over-concentration." },
     ],
   },
   {
     slug: "lp-guide-search-fund-dd",
     title: "The LP's Guide to Search Fund Due Diligence",
     description:
-      "Complete LP due diligence framework for search fund investing — searcher evaluation, search plan review, legal terms, target business evaluation, and post-acquisition monitoring.",
+      "Complete LP due diligence framework for search fund investing - searcher evaluation, search plan review, legal terms, target business evaluation, and post-acquisition monitoring.",
     readTime: "16 min read",
     tag: "Investor",
     category: "Research & Data",
@@ -7739,10 +7739,10 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pacific Lake Partners", title: "LP Due Diligence Best Practices", year: 2024 },
     ],
     faqs: [
-      { question: "How many reference calls should I make before backing a searcher?", answer: "A minimum of six, with eight to ten as the target. Include former managers, peers, and direct reports. Always request at least two back-channel references — people the searcher did not provide." },
-      { question: "What is the single biggest predictor of searcher success?", answer: "Evidence of leadership under real responsibility — managing a team, running a P&L, leading a military unit, or building something from scratch. The Stanford 2024 Study found no single background that dominates top-quartile returns, but the common thread is a track record of producing results when owning the outcome." },
-      { question: "Should I always co-invest when my searcher finds a company?", answer: "No. Treat the co-investment as a new investment decision. Experienced LPs decline 20–35% of co-investment opportunities from searchers they backed, typically due to valuation concerns, industry risk, or capital structure issues." },
-      { question: "How many search funds should I back for adequate diversification?", answer: "A minimum of 10–15, with 20–30 as the target for institutional allocators. Given the ~33% loss rate, a concentrated portfolio of fewer than five funds carries substantial risk of poor aggregate returns." },
+      { question: "How many reference calls should I make before backing a searcher?", answer: "A minimum of six, with eight to ten as the target. Include former managers, peers, and direct reports. Always request at least two back-channel references - people the searcher did not provide." },
+      { question: "What is the single biggest predictor of searcher success?", answer: "Evidence of leadership under real responsibility - managing a team, running a P&L, leading a military unit, or building something from scratch. The Stanford 2024 Study found no single background that dominates top-quartile returns, but the common thread is a track record of producing results when owning the outcome." },
+      { question: "Should I always co-invest when my searcher finds a company?", answer: "No. Treat the co-investment as a new investment decision. Experienced LPs decline 20-35% of co-investment opportunities from searchers they backed, typically due to valuation concerns, industry risk, or capital structure issues." },
+      { question: "How many search funds should I back for adequate diversification?", answer: "A minimum of 10-15, with 20-30 as the target for institutional allocators. Given the ~33% loss rate, a concentrated portfolio of fewer than five funds carries substantial risk of poor aggregate returns." },
       { question: "What are the most common red flags in a search fund PPM?", answer: "Vague acquisition criteria, non-standard economics that over-compensate the searcher, missing or weak investor protections (particularly follow-on rights), a generic risk section, and a budget that doesn't reconcile with the stated search timeline." },
     ],
   },
@@ -7750,13 +7750,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "risk-factors-search-fund-investing",
     title: "Risk Factors in Search Fund Investing",
     description:
-      "Search phase failure (25–30%), overpayment, operator failure, key person risk, illiquidity, and misaligned incentives — quantified risks and mitigation strategies.",
+      "Search phase failure (25-30%), overpayment, operator failure, key person risk, illiquidity, and misaligned incentives - quantified risks and mitigation strategies.",
     readTime: "14 min read",
     tag: "Investor",
     category: "Research & Data",
     ogTitle: "Risk Factors in Search Fund Investing: A Complete Guide",
     ogDescription:
-      "33% of search funds lose money. 25–30% never acquire a business. Understand search phase, acquisition, operating, and structural risks — plus how to mitigate them.",
+      "33% of search funds lose money. 25-30% never acquire a business. Understand search phase, acquisition, operating, and structural risks - plus how to mitigate them.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7764,8 +7764,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What percentage of search funds fail?", answer: "About 25–30% fail to acquire a business (total loss of search capital). Of those that do acquire, ~15% result in total loss and ~18% return less than 1x. Overall, ~33% of search fund investments result in a loss. However, ~47% return 2x+ with ~15% returning 5x+, driving the asset class's 35%+ median IRR." },
-      { question: "What are the biggest risks in search fund investing?", answer: "The top risks are: (1) no acquisition found (25–30% fail rate), (2) poor acquisition selection ('tired searcher' syndrome), (3) operator failure (CEO lacks skills to manage), (4) key employee departures post-acquisition, (5) customer concentration loss, and (6) illiquidity (capital locked 7–10 years)." },
+      { question: "What percentage of search funds fail?", answer: "About 25-30% fail to acquire a business (total loss of search capital). Of those that do acquire, ~15% result in total loss and ~18% return less than 1x. Overall, ~33% of search fund investments result in a loss. However, ~47% return 2x+ with ~15% returning 5x+, driving the asset class's 35%+ median IRR." },
+      { question: "What are the biggest risks in search fund investing?", answer: "The top risks are: (1) no acquisition found (25-30% fail rate), (2) poor acquisition selection ('tired searcher' syndrome), (3) operator failure (CEO lacks skills to manage), (4) key employee departures post-acquisition, (5) customer concentration loss, and (6) illiquidity (capital locked 7-10 years)." },
     ],
   },
 
@@ -7774,13 +7774,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "best-countries-buy-business",
     title: "Best Countries to Buy a Business: A Data-Driven Ranking",
     description:
-      "Ranked by deal flow, multiples, financing, tax, and ecosystem — the best countries for business acquisition from the US to Japan.",
+      "Ranked by deal flow, multiples, financing, tax, and ecosystem - the best countries for business acquisition from the US to Japan.",
     readTime: "16 min read",
     tag: "Research",
     category: "Regional Guides",
     ogTitle: "Best Countries to Buy a Business: Data-Driven Ranking for ETA",
     ogDescription:
-      "US, France, UK, Germany, Spain, Canada, Japan — ranked by deal flow, multiples, financing availability, tax incentives, and ETA ecosystem strength.",
+      "US, France, UK, Germany, Spain, Canada, Japan - ranked by deal flow, multiples, financing availability, tax incentives, and ETA ecosystem strength.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7790,7 +7790,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "European Commission", title: "SME Performance Review", year: 2024 },
     ],
     faqs: [
-      { question: "Which country has the lowest acquisition multiples?", answer: "Japan offers the lowest multiples among developed nations (2–4x EBITDA for small businesses), driven by the severe succession crisis. In Europe, Italy and Spain offer 3–4.5x. The US has the highest multiples (4–7x) due to greater PE competition and a more mature market." },
+      { question: "Which country has the lowest acquisition multiples?", answer: "Japan offers the lowest multiples among developed nations (2-4x EBITDA for small businesses), driven by the severe succession crisis. In Europe, Italy and Spain offer 3-4.5x. The US has the highest multiples (4-7x) due to greater PE competition and a more mature market." },
       { question: "Can I buy a business in another country as a foreigner?", answer: "Yes, but requirements vary significantly. The US, UK, and Canada have investor visa categories. EU countries have different rules for EU vs non-EU citizens. Japan requires a Business Manager visa. Language fluency is essential in non-English-speaking markets." },
     ],
   },
@@ -7818,8 +7818,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "How many search funds are there in Europe?", answer: "As of 2024, there are over 150 active search funds across Europe, up from fewer than 20 a decade ago. The fastest-growing markets are France, Spain, the UK, and the DACH region, according to IESE and INSEAD data." },
-      { question: "Are acquisition multiples lower in Europe than the US?", answer: "Yes. European SMEs typically trade at 3–5x EBITDA compared to 4–7x in the US, primarily due to less competition from PE firms, a less developed M&A advisory market, and the massive succession wave creating motivated sellers." },
-      { question: "Do I need to speak the local language to do ETA in Europe?", answer: "For most markets, yes — especially France, Germany, Italy, and Spain where sellers, employees, and advisors operate primarily in the local language. The UK, Netherlands, and Nordics are more English-friendly, but local language fluency is always an advantage." },
+      { question: "Are acquisition multiples lower in Europe than the US?", answer: "Yes. European SMEs typically trade at 3-5x EBITDA compared to 4-7x in the US, primarily due to less competition from PE firms, a less developed M&A advisory market, and the massive succession wave creating motivated sellers." },
+      { question: "Do I need to speak the local language to do ETA in Europe?", answer: "For most markets, yes - especially France, Germany, Italy, and Spain where sellers, employees, and advisors operate primarily in the local language. The UK, Netherlands, and Nordics are more English-friendly, but local language fluency is always an advantage." },
     ],
   },
   {
@@ -7853,17 +7853,17 @@ export const allArticles: ArticleMeta[] = [
     readTime: "10 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Germany: Acquiring Mittelstand Companies — A Complete Guide",
+    ogTitle: "ETA in Germany: Acquiring Mittelstand Companies - A Complete Guide",
     ogDescription:
-      "190,000 German businesses need successors by 2026. Discover how to tap into the Mittelstand — world-class companies at attractive valuations.",
+      "190,000 German businesses need successors by 2026. Discover how to tap into the Mittelstand - world-class companies at attractive valuations.",
     datePublished: "2024-10-08",
     dateModified: "2025-04-17",
     sources: [
       { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
     ],
     faqs: [
-      { question: "What is the Mittelstand and why does it matter for ETA?", answer: "The German Mittelstand refers to the 3.5 million small and medium enterprises that form the backbone of the German economy, generating over 60% of all jobs. Many are family-owned, highly specialized, and face succession challenges as the founding generation retires — creating significant acquisition opportunities for search fund entrepreneurs." },
-      { question: "What financing programs exist for business succession in Germany?", answer: "KfW (Kreditanstalt für Wiederaufbau) offers dedicated business succession loans (KfW-Unternehmerkredit) with favorable terms including 10–20 year tenors and reduced interest rates. Regional Bürgschaftsbanken provide loan guarantees of up to 80%. The Nachfolge-Monitoring report tracks succession trends across the Mittelstand." },
+      { question: "What is the Mittelstand and why does it matter for ETA?", answer: "The German Mittelstand refers to the 3.5 million small and medium enterprises that form the backbone of the German economy, generating over 60% of all jobs. Many are family-owned, highly specialized, and face succession challenges as the founding generation retires - creating significant acquisition opportunities for search fund entrepreneurs." },
+      { question: "What financing programs exist for business succession in Germany?", answer: "KfW (Kreditanstalt für Wiederaufbau) offers dedicated business succession loans (KfW-Unternehmerkredit) with favorable terms including 10-20 year tenors and reduced interest rates. Regional Bürgschaftsbanken provide loan guarantees of up to 80%. The Nachfolge-Monitoring report tracks succession trends across the Mittelstand." },
       { question: "How does the German search fund ecosystem compare to other European markets?", answer: "Germany's search fund ecosystem is developing rapidly, driven by WHU, ESMT, and Mannheim Business School. The DACH region (Germany, Austria, Switzerland) has seen 30+ search fund formations since 2018. The massive Mittelstand succession wave (500,000+ businesses seeking successors) makes Germany one of Europe's most promising markets for ETA." },
     ],
   },
@@ -7875,7 +7875,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "8 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in the UK: Acquiring a Business in Britain — A Complete Guide",
+    ogTitle: "ETA in the UK: Acquiring a Business in Britain - A Complete Guide",
     ogDescription:
       "5.5 million SMEs, Ltd/LLP structures, British Business Bank financing, and a mature advisory ecosystem. Your guide to ETA in the UK.",
     datePublished: "2024-10-22",
@@ -7888,7 +7888,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What makes the UK attractive for search fund acquisitions?", answer: "The UK offers: English-speaking market accessible to international searchers, a mature M&A advisory ecosystem, sophisticated business brokerage market, favorable company law (Ltd structure), relatively low regulatory burden, and a large pool of SMEs (5.5 million businesses). London also hosts a growing search fund investor community." },
       { question: "What financing options are available for UK business acquisitions?", answer: "Financing options include: British Business Bank-backed programs, high street bank lending (Lloyds, HSBC, NatWest), alternative lenders (OakNorth, Funding Circle), seller financing, mezzanine providers, and EIS/SEIS tax relief for qualifying investments. The UK lacks an SBA-equivalent program, making financing structure more creative." },
-      { question: "How active is the UK search fund ecosystem?", answer: "The UK has one of Europe's most active search fund ecosystems with 15–20 new search fund formations per year. Key hubs include London Business School, Cambridge Judge, and Oxford Saïd. The UK hosts the annual European Search Fund Conference and has a growing community of ex-searcher investors." },
+      { question: "How active is the UK search fund ecosystem?", answer: "The UK has one of Europe's most active search fund ecosystems with 15-20 new search fund formations per year. Key hubs include London Business School, Cambridge Judge, and Oxford Saïd. The UK hosts the annual European Search Fund Conference and has a growing community of ex-searcher investors." },
     ],
   },
   {
@@ -7899,7 +7899,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Spain & Iberia — The Emerging Search Fund Opportunity",
+    ogTitle: "ETA in Spain & Iberia - The Emerging Search Fund Opportunity",
     ogDescription:
       "A massive succession crisis, lower multiples, ICO financing, and a nascent but growing ETA ecosystem. Discover the opportunity in Spain and Portugal.",
     datePublished: "2024-11-05",
@@ -7910,7 +7910,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Why is Spain considered Europe's leading search fund market?", answer: "Spain leads European search fund activity because of IESE Business School in Barcelona, which pioneered ETA education in Europe and hosts the annual IESE Search Fund Conference. Spain has produced more European search fund entrepreneurs than any other country, supported by a strong investor ecosystem and 2M+ businesses needing succession." },
-      { question: "What legal structures are used for acquisitions in Spain?", answer: "The most common acquisition structures in Spain are the SL (Sociedad Limitada — equivalent to a Ltd/GmbH) for smaller deals and the SA (Sociedad Anónima) for larger ones. Spanish company law is well-developed for M&A, with clear frameworks for due diligence, SPAs, and post-closing adjustments." },
+      { question: "What legal structures are used for acquisitions in Spain?", answer: "The most common acquisition structures in Spain are the SL (Sociedad Limitada - equivalent to a Ltd/GmbH) for smaller deals and the SA (Sociedad Anónima) for larger ones. Spanish company law is well-developed for M&A, with clear frameworks for due diligence, SPAs, and post-closing adjustments." },
       { question: "What government financing programs support business acquisitions in Spain?", answer: "Key programs include: ICO (Instituto de Crédito Oficial) lines for business succession, ENISA participative loans for entrepreneurs, CDTI for technology-related acquisitions, and regional programs from each Comunidad Autónoma. Spanish commercial banks (Santander, BBVA, CaixaBank) also offer SME acquisition financing." },
     ],
   },
@@ -7922,7 +7922,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in the Nordics: Scandinavia & Finland — Search Fund Guide",
+    ogTitle: "ETA in the Nordics: Scandinavia & Finland - Search Fund Guide",
     ogDescription:
       "High-trust culture, premium SMEs, strong government financing (Vaekstfonden, Almi). Your guide to search fund acquisitions in the Nordic countries.",
     datePublished: "2024-11-19",
@@ -7946,7 +7946,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in the Benelux — Netherlands, Belgium & Luxembourg Guide",
+    ogTitle: "ETA in the Benelux - Netherlands, Belgium & Luxembourg Guide",
     ogDescription:
       "BV/NV structures, Dutch succession wave, MKB financing, and a thriving SME market. Your guide to search fund acquisitions in the Benelux.",
     datePublished: "2024-12-03",
@@ -7969,7 +7969,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Switzerland — Acquiring a Business in the Alpine Market",
+    ogTitle: "ETA in Switzerland - Acquiring a Business in the Alpine Market",
     ogDescription:
       "GmbH/AG structures, cantonal tax competition, the Nachfolge crisis, and world-class SMEs. Your guide to search fund acquisitions in Switzerland.",
     datePublished: "2024-12-17",
@@ -7981,7 +7981,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What makes Switzerland attractive for business acquisitions?", answer: "Switzerland offers: 600,000+ SMEs with many facing succession challenges, high profitability (Swiss businesses typically command premium margins), political stability, strong legal framework, access to German, French, and Italian-speaking markets, and a sophisticated financial ecosystem. Swiss cantonal banks actively finance business acquisitions." },
-      { question: "What are the challenges of acquiring a business in Switzerland?", answer: "Key challenges include: high valuations (Swiss businesses command 1–2x EBITDA premium over EU peers), high labor costs, complex cantonal tax variations, multiple languages across regions, and strict work permit requirements for non-Swiss nationals. Competition from local family offices and PE firms for quality deals is also intense." },
+      { question: "What are the challenges of acquiring a business in Switzerland?", answer: "Key challenges include: high valuations (Swiss businesses command 1-2x EBITDA premium over EU peers), high labor costs, complex cantonal tax variations, multiple languages across regions, and strict work permit requirements for non-Swiss nationals. Competition from local family offices and PE firms for quality deals is also intense." },
       { question: "How does the Swiss search fund ecosystem compare to other European markets?", answer: "Switzerland's search fund ecosystem is centered around the University of St. Gallen (HSG) and EPFL/HEC Lausanne. Swiss searchers benefit from access to the broader DACH market (Germany, Austria, Switzerland) and multilingual deal flow. Swiss family offices are increasingly active as search fund investors." },
     ],
   },
@@ -7993,7 +7993,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Italy — Navigating the Italian SME Market",
+    ogTitle: "ETA in Italy - Navigating the Italian SME Market",
     ogDescription:
       "4.4 million SMEs, deep family business culture, SRL/SPA structures, and SIMEST financing. Your guide to search fund acquisitions in Italy.",
     datePublished: "2025-01-07",
@@ -8004,7 +8004,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Unioncamere-InfoCamere", title: "Rapporto sulla natalit\u00e0 e mortalit\u00e0 delle imprese", year: 2023 },
     ],
     faqs: [
-      { question: "How big is the succession crisis in Italy?", answer: "Italy has 4.4 million SMEs — the largest number in Europe — and the average business owner is over 65 years old. Only 30% of Italian family businesses survive to the second generation. This creates an enormous opportunity for acquisition entrepreneurs, estimated at 200,000+ succession events over the next decade." },
+      { question: "How big is the succession crisis in Italy?", answer: "Italy has 4.4 million SMEs - the largest number in Europe - and the average business owner is over 65 years old. Only 30% of Italian family businesses survive to the second generation. This creates an enormous opportunity for acquisition entrepreneurs, estimated at 200,000+ succession events over the next decade." },
       { question: "What legal structures are used for Italian business acquisitions?", answer: "The SRL (Società a Responsabilità Limitata) is the most common vehicle for SME acquisitions in Italy, similar to a GmbH/Ltd. For larger deals, the SPA (Società per Azioni) is used. Italian company law has specific requirements for due diligence, notarized closing documents, and Registro Imprese filings." },
       { question: "Is there a search fund ecosystem in Italy?", answer: "Italy's search fund ecosystem is emerging, anchored by Bocconi University in Milan and supported by academic research from Politecnico di Milano and LUISS. A handful of Italian search funds have completed acquisitions, and interest is growing rapidly. Italian family offices (particularly in Milan and Northern Italy) are beginning to invest in search funds." },
     ],
@@ -8017,7 +8017,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "14 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in the US — The Original Search Fund Market",
+    ogTitle: "ETA in the US - The Original Search Fund Market",
     ogDescription:
       "SBA 7(a), LLC/LP, Stanford/HBS ecosystem, 40+ years of data. The complete guide to search fund acquisitions in the United States.",
     datePublished: "2025-01-21",
@@ -8029,8 +8029,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Why is the US considered the birthplace of the search fund model?", answer: "The search fund model was pioneered at Stanford Graduate School of Business in 1984 by Professor H. Irving Grousbeck. Since then, 681+ search funds have been formed in the US, creating the most mature ecosystem with dedicated investors, established legal frameworks, and decades of performance data tracked by Stanford." },
-      { question: "How does SBA financing make US search fund acquisitions unique?", answer: "The SBA 7(a) loan program provides government-guaranteed financing for business acquisitions up to $5 million with 10-year terms, 10–15% equity requirements, and competitive rates. This leverage-friendly program makes self-funded search particularly viable in the US, enabling acquisitions with as little as 10% cash equity." },
-      { question: "What is the typical US search fund deal profile?", answer: "Typical US search fund acquisitions involve businesses with $1–5M EBITDA, $5–25M revenue, in business services, healthcare, technology, or industrial sectors. The median enterprise value is $12–15M. Financing typically includes 50–60% senior debt, 15–25% equity, 10–20% seller financing, and 5–10% mezzanine or other sources." },
+      { question: "How does SBA financing make US search fund acquisitions unique?", answer: "The SBA 7(a) loan program provides government-guaranteed financing for business acquisitions up to $5 million with 10-year terms, 10-15% equity requirements, and competitive rates. This leverage-friendly program makes self-funded search particularly viable in the US, enabling acquisitions with as little as 10% cash equity." },
+      { question: "What is the typical US search fund deal profile?", answer: "Typical US search fund acquisitions involve businesses with $1-5M EBITDA, $5-25M revenue, in business services, healthcare, technology, or industrial sectors. The median enterprise value is $12-15M. Financing typically includes 50-60% senior debt, 15-25% equity, 10-20% seller financing, and 5-10% mezzanine or other sources." },
     ],
   },
   {
@@ -8041,13 +8041,13 @@ export const allArticles: ArticleMeta[] = [
     readTime: "15 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Canada — BDC, CSBFP, LCGE & the Canadian Search Fund Market",
+    ogTitle: "ETA in Canada - BDC, CSBFP, LCGE & the Canadian Search Fund Market",
     ogDescription:
-      "1.2M SMEs, 76% of owners exiting within a decade. BDC loans, CSBFP guarantees, $1M LCGE tax exclusion — the complete guide to acquiring a Canadian business.",
+      "1.2M SMEs, 76% of owners exiting within a decade. BDC loans, CSBFP guarantees, $1M LCGE tax exclusion - the complete guide to acquiring a Canadian business.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "BDC", title: "Business Development Bank of Canada — SME Succession", year: 2024 },
+      { name: "BDC", title: "Business Development Bank of Canada - SME Succession", year: 2024 },
       { name: "Innovation, Science and Economic Development Canada", title: "Canada Small Business Financing Program", year: 2024 },
       { name: "CRA", title: "Lifetime Capital Gains Exemption (LCGE)", year: 2024 },
     ],
@@ -8064,9 +8064,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "14 min read",
     tag: "Guide",
     category: "Regional Guides",
-    ogTitle: "ETA in Japan — The $300 Billion Succession Crisis",
+    ogTitle: "ETA in Japan - The $300 Billion Succession Crisis",
     ogDescription:
-      "1.27M companies at risk, 2–4x EBITDA multiples, government subsidies for M&A. Why Japan is the world's largest untapped ETA market — and its biggest challenge.",
+      "1.27M companies at risk, 2-4x EBITDA multiples, government subsidies for M&A. Why Japan is the world's largest untapped ETA market - and its biggest challenge.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8075,7 +8075,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Japan Finance Corporation", title: "SME Financing Survey", year: 2024 },
     ],
     faqs: [
-      { question: "How many businesses are at risk in Japan's succession crisis?", answer: "1.27 million Japanese businesses where the owner is 70+ with no identified successor face potential closure. The government estimates up to 6.5 million jobs and ¥22 trillion ($150–300 billion) in GDP could be lost without successful successions." },
+      { question: "How many businesses are at risk in Japan's succession crisis?", answer: "1.27 million Japanese businesses where the owner is 70+ with no identified successor face potential closure. The government estimates up to 6.5 million jobs and ¥22 trillion ($150-300 billion) in GDP could be lost without successful successions." },
       { question: "Can foreigners buy a business in Japan?", answer: "Yes, but it requires a Business Manager visa (¥5M+ invested capital, 2+ employees, registered office), business-level Japanese fluency (JLPT N1), and deep cultural understanding. The relationship-driven deal culture and unique management expectations make Japan one of the most challenging markets for foreign acquirers." },
     ],
   },
@@ -8098,8 +8098,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "DIHK", title: "Unternehmensnachfolge Report", year: 2024 },
     ],
     faqs: [
-      { question: "How does KfW financing work for business acquisitions in Germany?", answer: "KfW doesn't lend directly — it provides subsidized loans through commercial banks (Hausbanken) at below-market rates. Key programs: ERP-Gründerkredit Startgeld (up to €125K, KfW assumes 80% risk), ERP-Universell (up to €25M, 50% risk), and ERP-Kapital (up to €500K subordinated, quasi-equity). Apply through your Hausbank before signing the purchase agreement." },
-      { question: "How much personal equity do you need to buy a business in Germany?", answer: "With KfW financing, you need 15–25% personal equity. Typical structure: 60% senior bank debt (KfW-subsidized), 15% KfW subordinated loan (ERP-Kapital), 20% buyer equity, and 5% seller financing. For a €2M Mittelstand acquisition, that's approximately €400K of personal capital, with KfW providing 75% of the financing." },
+      { question: "How does KfW financing work for business acquisitions in Germany?", answer: "KfW doesn't lend directly - it provides subsidized loans through commercial banks (Hausbanken) at below-market rates. Key programs: ERP-Gründerkredit Startgeld (up to €125K, KfW assumes 80% risk), ERP-Universell (up to €25M, 50% risk), and ERP-Kapital (up to €500K subordinated, quasi-equity). Apply through your Hausbank before signing the purchase agreement." },
+      { question: "How much personal equity do you need to buy a business in Germany?", answer: "With KfW financing, you need 15-25% personal equity. Typical structure: 60% senior bank debt (KfW-subsidized), 15% KfW subordinated loan (ERP-Kapital), 20% buyer equity, and 5% seller financing. For a €2M Mittelstand acquisition, that's approximately €400K of personal capital, with KfW providing 75% of the financing." },
     ],
   },
   {
@@ -8112,7 +8112,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Bpifrance Financing for French Business Acquisitions",
     ogDescription:
-      "Prêt Transmission (up to €1.5M, no collateral), Garantie Transmission (50–70% bank guarantee), prêt d'honneur (interest-free). How Bpifrance makes France one of the best markets for acquirers.",
+      "Prêt Transmission (up to €1.5M, no collateral), Garantie Transmission (50-70% bank guarantee), prêt d'honneur (interest-free). How Bpifrance makes France one of the best markets for acquirers.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8121,21 +8121,21 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What is the Bpifrance Prêt Transmission?", answer: "The Prêt Transmission is Bpifrance's subordinated loan for business acquisitions: €40K–€1.5M, 5–7 year term, fixed rate 1–3% below market, and no collateral or personal guarantee required. It must be paired 1:1 with a commercial bank loan and serves as the junior tranche of the financing." },
-      { question: "How much personal capital do you need to buy a business in France?", answer: "With Bpifrance financing, you can acquire a French business with 10–20% personal equity. Typical structure: 55% bank loan (Bpifrance guaranteed), 20% Prêt Transmission, 5% prêt d'honneur (interest-free), 15% buyer equity, and 5% seller financing. For a €1M acquisition, you'd need approximately €150K of personal capital." },
+      { question: "What is the Bpifrance Prêt Transmission?", answer: "The Prêt Transmission is Bpifrance's subordinated loan for business acquisitions: €40K-€1.5M, 5-7 year term, fixed rate 1-3% below market, and no collateral or personal guarantee required. It must be paired 1:1 with a commercial bank loan and serves as the junior tranche of the financing." },
+      { question: "How much personal capital do you need to buy a business in France?", answer: "With Bpifrance financing, you can acquire a French business with 10-20% personal equity. Typical structure: 55% bank loan (Bpifrance guaranteed), 20% Prêt Transmission, 5% prêt d'honneur (interest-free), 15% buyer equity, and 5% seller financing. For a €1M acquisition, you'd need approximately €150K of personal capital." },
     ],
   },
   {
     slug: "ebitda-multiples-by-country",
     title: "EBITDA Multiples by Country: Where Are Businesses Cheapest?",
     description:
-      "Country-by-country EBITDA multiples for SME acquisitions — US, UK, France, Germany, Spain, Italy, Nordics, Switzerland, Canada, Japan, and Latin America.",
+      "Country-by-country EBITDA multiples for SME acquisitions - US, UK, France, Germany, Spain, Italy, Nordics, Switzerland, Canada, Japan, and Latin America.",
     readTime: "16 min read",
     tag: "Data",
     category: "Regional Guides",
     ogTitle: "EBITDA Multiples by Country: Where Are Businesses Cheapest?",
     ogDescription:
-      "3x in Japan, 4x in France, 5.5x in the US — compare SME acquisition multiples across 12+ countries and learn what drives the differences.",
+      "3x in Japan, 4x in France, 5.5x in the US - compare SME acquisition multiples across 12+ countries and learn what drives the differences.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8144,7 +8144,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "PitchBook", title: "European PE Deal Multiples", year: 2024 },
     ],
     faqs: [
-      { question: "What country has the cheapest businesses to buy?", answer: "Japan and Latin America offer the lowest EBITDA multiples (3–5x) due to acute succession crises, limited buyer competition, and higher perceived risk. Spain and Italy also trade at lower multiples (3–5x) compared to the US (4–7x) or Switzerland (5–8x)." },
+      { question: "What country has the cheapest businesses to buy?", answer: "Japan and Latin America offer the lowest EBITDA multiples (3-5x) due to acute succession crises, limited buyer competition, and higher perceived risk. Spain and Italy also trade at lower multiples (3-5x) compared to the US (4-7x) or Switzerland (5-8x)." },
       { question: "Why are EBITDA multiples higher in the US?", answer: "The US has the deepest buyer pool (PE, search funds, strategics), the best acquisition financing (SBA 7(a) loans), the most mature M&A market, and strong rule of law. More buyers bidding on the same businesses drives up prices." },
     ],
   },
@@ -8152,13 +8152,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "government-financing-programs-global",
     title: "Government Acquisition Financing Programs: A Global Comparison",
     description:
-      "SBA (US), Bpifrance (France), KfW (Germany), BDC (Canada), JFC (Japan) — compare government-backed acquisition financing programs across 10+ countries.",
+      "SBA (US), Bpifrance (France), KfW (Germany), BDC (Canada), JFC (Japan) - compare government-backed acquisition financing programs across 10+ countries.",
     readTime: "18 min read",
     tag: "Guide",
     category: "Regional Guides",
     ogTitle: "Government Acquisition Financing Programs: A Global Comparison",
     ogDescription:
-      "10% equity with SBA, 10–15% with Bpifrance, 15–20% with KfW. Compare government acquisition financing across the US, Europe, Canada, and Asia.",
+      "10% equity with SBA, 10-15% with Bpifrance, 15-20% with KfW. Compare government acquisition financing across the US, Europe, Canada, and Asia.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8167,7 +8167,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "KfW", title: "ERP-Gründerkredit Program", year: 2024 },
     ],
     faqs: [
-      { question: "Which country has the best government financing for business acquisitions?", answer: "The US (SBA 7(a)) and France (Bpifrance) offer the most generous programs. Both allow acquisitions with as little as 10–15% buyer equity. Germany (KfW) is a close third with excellent subordinated capital programs. The UK and Italy have less developed acquisition-specific financing." },
+      { question: "Which country has the best government financing for business acquisitions?", answer: "The US (SBA 7(a)) and France (Bpifrance) offer the most generous programs. Both allow acquisitions with as little as 10-15% buyer equity. Germany (KfW) is a close third with excellent subordinated capital programs. The UK and Italy have less developed acquisition-specific financing." },
       { question: "Can foreigners access government acquisition financing?", answer: "It depends on the country. SBA requires US residency or citizenship. Bpifrance requires the target company to be French but the buyer can be foreign. KfW programs are available to EU residents acquiring German businesses. BDC Canada requires Canadian residency." },
     ],
   },
@@ -8175,7 +8175,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "succession-crisis-by-country",
     title: "The Business Succession Crisis by Country: Where the Opportunities Are",
     description:
-      "Japan, Germany, US, France, Italy, Canada, UK, Spain — quantifying the succession crisis and ranking the best markets for acquisition entrepreneurs.",
+      "Japan, Germany, US, France, Italy, Canada, UK, Spain - quantifying the succession crisis and ranking the best markets for acquisition entrepreneurs.",
     readTime: "16 min read",
     tag: "Data",
     category: "Regional Guides",
@@ -8191,7 +8191,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which country has the worst business succession crisis?", answer: "Japan has the most acute crisis: 2.45 million SME owners are over 70 with ~1.27 million having no identified successor. Germany (600K businesses needing succession by 2030) and the US (4.5M boomer-owned businesses) follow." },
-      { question: "Which country is best for succession-driven acquisitions?", answer: "France offers the best combination of government financing (Bpifrance), tax incentives (Dutreil pact 75% exemption), and moderate multiples (3.5–6x). The US has the deepest market and best infrastructure but highest multiples." },
+      { question: "Which country is best for succession-driven acquisitions?", answer: "France offers the best combination of government financing (Bpifrance), tax incentives (Dutreil pact 75% exemption), and moderate multiples (3.5-6x). The US has the deepest market and best infrastructure but highest multiples." },
     ],
   },
 
@@ -8205,23 +8205,23 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Brazil: Acquiring a Business in South America's Largest Market",
     ogDescription:
-      "20M SMEs, 58% without succession plans, 3–5x EBITDA multiples, BNDES financing. Brazil's growing ETA ecosystem and acquisition opportunities.",
+      "20M SMEs, 58% without succession plans, 3-5x EBITDA multiples, BNDES financing. Brazil's growing ETA ecosystem and acquisition opportunities.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
       { name: "SEBRAE", title: "Perfil das Micro e Pequenas Empresas Brasileiras", year: 2024 },
-      { name: "PwC", title: "Global Family Business Survey — Brazil", year: 2024 },
+      { name: "PwC", title: "Global Family Business Survey - Brazil", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "ANS", title: "Agência Nacional de Saúde Suplementar — Beneficiários Report", year: 2023 },
-      { name: "ABF", title: "Associação Brasileira de Franchising — Franchise Statistics", year: 2023 },
-      { name: "IBGE", title: "Pesquisa Nacional por Amostra de Domicílios — Informal Employment", year: 2024 },
-      { name: "CNI", title: "Confederação Nacional da Indústria — Custo Brasil Estimates", year: 2024 },
-      { name: "IBPT", title: "Instituto Brasileiro de Planejamento e Tributação — Tax Code Report", year: 2024 },
-      { name: "World Bank", title: "Doing Business Report — Brazil Tax Compliance", year: 2020 },
+      { name: "ANS", title: "Agência Nacional de Saúde Suplementar - Beneficiários Report", year: 2023 },
+      { name: "ABF", title: "Associação Brasileira de Franchising - Franchise Statistics", year: 2023 },
+      { name: "IBGE", title: "Pesquisa Nacional por Amostra de Domicílios - Informal Employment", year: 2024 },
+      { name: "CNI", title: "Confederação Nacional da Indústria - Custo Brasil Estimates", year: 2024 },
+      { name: "IBPT", title: "Instituto Brasileiro de Planejamento e Tributação - Tax Code Report", year: 2024 },
+      { name: "World Bank", title: "Doing Business Report - Brazil Tax Compliance", year: 2020 },
     ],
     faqs: [
-      { question: "Is Brazil a good market for ETA?", answer: "Yes, with caveats. Brazil has 20 million SMEs, 58% of family businesses lack succession plans, and multiples are attractive (3–5x EBITDA). The growing search fund ecosystem (Insper, FGV networks) provides support. However, Brazil's 34% corporate tax rate, complex labor laws, high interest rates (Selic 10–14%), and informal business practices require careful navigation." },
-      { question: "What are the biggest risks of buying a business in Brazil?", answer: "The top risks are: (1) labor contingencies — CLT labor law is employee-protective and litigation is common, (2) tax complexity — 5,000+ tax obligations, (3) informality — many SMEs have off-book practices that complicate DD, (4) high interest rates making leverage expensive, and (5) BRL currency volatility affecting USD/EUR returns." },
+      { question: "Is Brazil a good market for ETA?", answer: "Yes, with caveats. Brazil has 20 million SMEs, 58% of family businesses lack succession plans, and multiples are attractive (3-5x EBITDA). The growing search fund ecosystem (Insper, FGV networks) provides support. However, Brazil's 34% corporate tax rate, complex labor laws, high interest rates (Selic 10-14%), and informal business practices require careful navigation." },
+      { question: "What are the biggest risks of buying a business in Brazil?", answer: "The top risks are: (1) labor contingencies - CLT labor law is employee-protective and litigation is common, (2) tax complexity - 5,000+ tax obligations, (3) informality - many SMEs have off-book practices that complicate DD, (4) high interest rates making leverage expensive, and (5) BRL currency volatility affecting USD/EUR returns." },
     ],
   },
   {
@@ -8234,19 +8234,19 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Mexico: The Nearshoring Opportunity",
     ogDescription:
-      "4.9M SMEs, USMCA access, nearshoring boom, 3–5x EBITDA multiples. Mexico's growing ETA ecosystem and acquisition opportunities.",
+      "4.9M SMEs, USMCA access, nearshoring boom, 3-5x EBITDA multiples. Mexico's growing ETA ecosystem and acquisition opportunities.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "INEGI", title: "Censos Económicos — México", year: 2024 },
+      { name: "INEGI", title: "Censos Económicos - México", year: 2024 },
       { name: "IPADE Business School", title: "ETA en México Report", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study — Latin America", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study - Latin America", year: 2024 },
       { name: "Banco de México", title: "Monetary Policy Interest Rate Decisions", year: 2024 },
-      { name: "NAFIN", title: "Nacional Financiera — SME Credit Guarantee Programs", year: 2024 },
-      { name: "Secretaría de Economía", title: "Foreign Direct Investment Report — Mexico", year: 2023 },
+      { name: "NAFIN", title: "Nacional Financiera - SME Credit Guarantee Programs", year: 2024 },
+      { name: "Secretaría de Economía", title: "Foreign Direct Investment Report - Mexico", year: 2023 },
     ],
     faqs: [
-      { question: "Is Mexico a good market for ETA?", answer: "Yes. Mexico has 4.9 million SMEs, USMCA access to a $28 trillion market, a nearshoring boom driving industrial growth, and an active search fund ecosystem (IPADE, IESE alumni). Multiples of 3–5x EBITDA are achievable. Key challenges include informality (57% informal workforce), security concerns in some regions, and high bank interest rates." },
+      { question: "Is Mexico a good market for ETA?", answer: "Yes. Mexico has 4.9 million SMEs, USMCA access to a $28 trillion market, a nearshoring boom driving industrial growth, and an active search fund ecosystem (IPADE, IESE alumni). Multiples of 3-5x EBITDA are achievable. Key challenges include informality (57% informal workforce), security concerns in some regions, and high bank interest rates." },
       { question: "What industries are best for ETA in Mexico?", answer: "Top sectors include manufacturing services (benefiting from nearshoring), cross-border logistics, technology services (nearshore outsourcing), food and beverage, healthcare (dental, diagnostic labs, medical tourism), and education. Manufacturing services and logistics are particularly attractive given the US-China trade reshoring tailwind." },
     ],
   },
@@ -8260,31 +8260,31 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Portugal: Acquiring a Business in the Iberian Hidden Gem",
     ogDescription:
-      "1.3M SMEs, 35%+ owners over 55, 3–5x EBITDA multiples, EU single market access. Portugal's first-mover opportunity for ETA entrepreneurs.",
+      "1.3M SMEs, 35%+ owners over 55, 3-5x EBITDA multiples, EU single market access. Portugal's first-mover opportunity for ETA entrepreneurs.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "INE", title: "Instituto Nacional de Estatística — Business Demographics", year: 2024 },
+      { name: "INE", title: "Instituto Nacional de Estatística - Business Demographics", year: 2024 },
       { name: "IAPMEI", title: "SME Succession and Business Transfer Programs", year: 2024 },
-      { name: "APEF", title: "Portuguese Association of Family Businesses — Generational Transition Report", year: 2024 },
+      { name: "APEF", title: "Portuguese Association of Family Businesses - Generational Transition Report", year: 2024 },
       { name: "EF Education First", title: "EF English Proficiency Index", year: 2024 },
     ],
     faqs: [
-      { question: "Is Portugal a good market for ETA?", answer: "Yes. Portugal offers 1.3 million SMEs (99.9% of all businesses), 35%+ of owners over 55 with no succession plan, valuation multiples of 3–5x EBITDA (below Western European averages), EU single market access, competitive labor costs, and virtually no search fund competition. The first-mover advantage is significant." },
-      { question: "How do you finance a business acquisition in Portugal?", answer: "Portuguese banks (CGD, BPI, Millennium BCP) offer acquisition financing at 60–70% LTV. IAPMEI provides subsidized loans through 'Linha de Crédito Capitalizar.' Mutual guarantee societies (Lisbon Guarantee, Norgarante) provide 50–80% loan guarantees. Seller financing of 10–30% is common in family business transfers." },
+      { question: "Is Portugal a good market for ETA?", answer: "Yes. Portugal offers 1.3 million SMEs (99.9% of all businesses), 35%+ of owners over 55 with no succession plan, valuation multiples of 3-5x EBITDA (below Western European averages), EU single market access, competitive labor costs, and virtually no search fund competition. The first-mover advantage is significant." },
+      { question: "How do you finance a business acquisition in Portugal?", answer: "Portuguese banks (CGD, BPI, Millennium BCP) offer acquisition financing at 60-70% LTV. IAPMEI provides subsidized loans through 'Linha de Crédito Capitalizar.' Mutual guarantee societies (Lisbon Guarantee, Norgarante) provide 50-80% loan guarantees. Seller financing of 10-30% is common in family business transfers." },
     ],
   },
   {
     slug: "eta-australia",
     title: "ETA in Australia: Why 2.5 Million SMEs Make It a Top Market for Search Funds",
     description:
-      "Australia ETA guide: 2.5M SMEs, A$3.5T succession wave, Pty Ltd structures, 25% corporate tax with franking credits, 4–6x EBITDA multiples, and why vendor finance replaces SBA loans.",
+      "Australia ETA guide: 2.5M SMEs, A$3.5T succession wave, Pty Ltd structures, 25% corporate tax with franking credits, 4-6x EBITDA multiples, and why vendor finance replaces SBA loans.",
     readTime: "14 min read",
     tag: "Regional",
     category: "Regional Guides",
     ogTitle: "ETA in Australia: Search Fund Guide to 2.5M SMEs",
     ogDescription:
-      "2.5M SMEs, A$3.5T succession wave, 4–6x EBITDA multiples, no search fund competition. How to acquire a business in Australia — legal structures, financing, tax, and target industries.",
+      "2.5M SMEs, A$3.5T succession wave, 4-6x EBITDA multiples, no search fund competition. How to acquire a business in Australia - legal structures, financing, tax, and target industries.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-24",
     sources: [
@@ -8292,10 +8292,10 @@ export const allArticles: ArticleMeta[] = [
       { name: "ASBFEO", title: "Small Business Succession Report", year: 2024 },
     ],
     faqs: [
-      { question: "Is Australia a good market for search fund acquisitions?", answer: "Australia is one of the strongest English-speaking markets for ETA outside North America. The combination of 2.5 million SMEs, a A$3.5 trillion succession wave, stable rule of law, and minimal search fund competition creates favorable conditions. The main constraint is capital access — you will likely need to raise from US or international investors since the local search fund investor ecosystem is still developing." },
-      { question: "How do Australian acquisition multiples compare to the US?", answer: "Australian SME multiples typically run 4–6x EBITDA versus 4.5–7x for comparable US businesses. The discount reflects a smaller buyer pool, no SBA-style lending program, and a smaller domestic economy. For quality businesses with recurring revenue and independent management, 6–8x is achievable." },
+      { question: "Is Australia a good market for search fund acquisitions?", answer: "Australia is one of the strongest English-speaking markets for ETA outside North America. The combination of 2.5 million SMEs, a A$3.5 trillion succession wave, stable rule of law, and minimal search fund competition creates favorable conditions. The main constraint is capital access - you will likely need to raise from US or international investors since the local search fund investor ecosystem is still developing." },
+      { question: "How do Australian acquisition multiples compare to the US?", answer: "Australian SME multiples typically run 4-6x EBITDA versus 4.5-7x for comparable US businesses. The discount reflects a smaller buyer pool, no SBA-style lending program, and a smaller domestic economy. For quality businesses with recurring revenue and independent management, 6-8x is achievable." },
       { question: "Can a non-Australian buy a business in Australia?", answer: "Yes, but with conditions. FIRB approval is required for acquisitions above the general threshold (approximately A$310 million, lower for sensitive sectors). At least one director of the acquiring Pty Ltd must be an Australian resident. Non-residents can use the Business Innovation visa (subclass 188) or appoint a local resident director." },
-      { question: "What is the biggest financing challenge in Australia?", answer: "The absence of an SBA-equivalent loan guarantee program. US searchers can finance up to 90% of an acquisition with SBA-backed debt. In Australia, bank lending maxes out at 50–65% LTV, and personal guarantees are standard. Vendor finance (20–40% of the purchase price) is the primary mechanism that fills this gap." },
+      { question: "What is the biggest financing challenge in Australia?", answer: "The absence of an SBA-equivalent loan guarantee program. US searchers can finance up to 90% of an acquisition with SBA-backed debt. In Australia, bank lending maxes out at 50-65% LTV, and personal guarantees are standard. Vendor finance (20-40% of the purchase price) is the primary mechanism that fills this gap." },
       { question: "Which Australian business schools support the ETA model?", answer: "AGSM at UNSW and Melbourne Business School have introduced ETA coursework and case studies. Neither has a dedicated search fund center comparable to Stanford GSB or IESE, but alumni networks from both schools produce a growing number of searchers each year." },
     ],
   },
@@ -8310,7 +8310,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Austria: Search Fund Guide to the DACH Market",
     ogDescription:
-      "360,000 SMEs, 50%+ of owners over 55, Mittelstand culture. How to acquire a business in Austria — legal structures, financing, taxes, and target industries.",
+      "360,000 SMEs, 50%+ of owners over 55, Mittelstand culture. How to acquire a business in Austria - legal structures, financing, taxes, and target industries.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8318,8 +8318,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "KMU Forschung Austria", title: "Business Succession Report", year: 2024 },
     ],
     faqs: [
-      { question: "Is Austria a good market for search fund acquisitions?", answer: "Yes. Austria has 360,000 SMEs with 50%+ of owners over 55 and no succession plan. The DACH region's Mittelstand culture produces highly profitable, well-run businesses. Valuation multiples of 4–6x EBITDA are typical, and there is virtually no search fund competition." },
-      { question: "How do you finance a business acquisition in Austria?", answer: "Austrian banks (Erste Bank, Raiffeisen, UniCredit Bank Austria) offer acquisition financing at 60–75% LTV. AWS (Austria Wirtschaftsservice) provides subsidized loans and guarantees specifically for SME succession. ÖHT (Österreichische Hotel- und Tourismusbank) covers tourism-sector acquisitions." },
+      { question: "Is Austria a good market for search fund acquisitions?", answer: "Yes. Austria has 360,000 SMEs with 50%+ of owners over 55 and no succession plan. The DACH region's Mittelstand culture produces highly profitable, well-run businesses. Valuation multiples of 4-6x EBITDA are typical, and there is virtually no search fund competition." },
+      { question: "How do you finance a business acquisition in Austria?", answer: "Austrian banks (Erste Bank, Raiffeisen, UniCredit Bank Austria) offer acquisition financing at 60-75% LTV. AWS (Austria Wirtschaftsservice) provides subsidized loans and guarantees specifically for SME succession. ÖHT (Österreichische Hotel- und Tourismusbank) covers tourism-sector acquisitions." },
     ],
   },
   {
@@ -8332,7 +8332,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Ireland: Search Fund Guide to the Irish Market",
     ogDescription:
-      "270,000 SMEs, 12.5% corporate tax, English-speaking EU member. How to acquire a business in Ireland — legal structures, financing, taxes, and target industries.",
+      "270,000 SMEs, 12.5% corporate tax, English-speaking EU member. How to acquire a business in Ireland - legal structures, financing, taxes, and target industries.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8341,7 +8341,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Is Ireland a good market for ETA?", answer: "Yes. Ireland has 270,000 SMEs, the lowest corporate tax rate in Western Europe (12.5%), English as the primary business language, EU single market access, and a growing succession wave as Celtic Tiger-era founders approach retirement. There is virtually no search fund competition." },
-      { question: "How do you finance a business acquisition in Ireland?", answer: "Irish banks (AIB, Bank of Ireland, Permanent TSB) offer acquisition financing at 50–70% LTV. Enterprise Ireland provides equity co-investment for established SMEs. Microfinance Ireland supports smaller deals. SBCI (Strategic Banking Corporation of Ireland) offers subsidized lending programs. Vendor finance of 15–30% is common." },
+      { question: "How do you finance a business acquisition in Ireland?", answer: "Irish banks (AIB, Bank of Ireland, Permanent TSB) offer acquisition financing at 50-70% LTV. Enterprise Ireland provides equity co-investment for established SMEs. Microfinance Ireland supports smaller deals. SBCI (Strategic Banking Corporation of Ireland) offers subsidized lending programs. Vendor finance of 15-30% is common." },
     ],
   },
 
@@ -8355,7 +8355,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Poland: Search Fund Guide to Central Europe's Largest Market",
     ogDescription:
-      "2M+ SMEs, EU's 5th largest economy, 200,000+ businesses facing succession. How to acquire a business in Poland — legal structures, financing, taxes, and target industries.",
+      "2M+ SMEs, EU's 5th largest economy, 200,000+ businesses facing succession. How to acquire a business in Poland - legal structures, financing, taxes, and target industries.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8363,8 +8363,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "PARP", title: "Business Succession in Poland", year: 2024 },
     ],
     faqs: [
-      { question: "Is Poland a good market for search fund acquisitions?", answer: "Yes. Poland has over 2 million SMEs, is the EU's 5th largest economy, and faces a massive succession wave as post-1989 founders reach retirement. Valuation multiples of 3–5x EBITDA are well below Western European levels, and there is virtually no search fund competition." },
-      { question: "How do you finance a business acquisition in Poland?", answer: "BGK (Bank Gospodarstwa Krajowego) provides de minimis guarantees covering up to 80% of loan principal. Commercial banks (PKO BP, mBank, Pekao) offer acquisition financing at WIBOR/WIRON + 2–5%. PFR provides mezzanine financing. EU structural funds subsidize post-acquisition investments. Seller financing of 15–30% is increasingly common." },
+      { question: "Is Poland a good market for search fund acquisitions?", answer: "Yes. Poland has over 2 million SMEs, is the EU's 5th largest economy, and faces a massive succession wave as post-1989 founders reach retirement. Valuation multiples of 3-5x EBITDA are well below Western European levels, and there is virtually no search fund competition." },
+      { question: "How do you finance a business acquisition in Poland?", answer: "BGK (Bank Gospodarstwa Krajowego) provides de minimis guarantees covering up to 80% of loan principal. Commercial banks (PKO BP, mBank, Pekao) offer acquisition financing at WIBOR/WIRON + 2-5%. PFR provides mezzanine financing. EU structural funds subsidize post-acquisition investments. Seller financing of 15-30% is increasingly common." },
     ],
   },
   {
@@ -8386,7 +8386,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Is Singapore a good base for ETA in Southeast Asia?", answer: "Yes. Singapore offers 280,000 SMEs, world-class rule of law, English-language business environment, 17% corporate tax with no capital gains tax, and deep banking infrastructure. It serves as the natural hub for managing acquisitions across ASEAN's 71M+ SME market." },
-      { question: "How do you finance a business acquisition in Singapore?", answer: "Enterprise Singapore's Enterprise Financing Scheme provides government risk-sharing on M&A loans up to S$50M. DBS, OCBC, and UOB offer acquisition financing at SORA + 2–4%. Seller financing of 20–40% is common across the region. Singapore's PE/VC ecosystem (4,000+ fund managers) provides equity capital." },
+      { question: "How do you finance a business acquisition in Singapore?", answer: "Enterprise Singapore's Enterprise Financing Scheme provides government risk-sharing on M&A loans up to S$50M. DBS, OCBC, and UOB offer acquisition financing at SORA + 2-4%. Seller financing of 20-40% is common across the region. Singapore's PE/VC ecosystem (4,000+ fund managers) provides equity capital." },
     ],
   },
   {
@@ -8399,7 +8399,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in India: Search Fund Guide to the World's Largest SME Market",
     ogDescription:
-      "63M+ MSMEs, $5T economy, massive family business succession wave. How to acquire a business in India — legal structures, FDI rules, financing, taxes, and target industries.",
+      "63M+ MSMEs, $5T economy, massive family business succession wave. How to acquire a business in India - legal structures, FDI rules, financing, taxes, and target industries.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8407,8 +8407,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "PwC India", title: "Family Business Survey: India Edition", year: 2024 },
     ],
     faqs: [
-      { question: "Is India a good market for ETA?", answer: "Yes. India has 63M+ MSMEs — the world's largest base — with over 70% being first-generation family businesses facing succession. The $5T economy, young population (median age 28), growing formalization, and 3–6x EBITDA multiples make it compelling. However, regulatory complexity and cultural nuances require deep local knowledge." },
-      { question: "How do you finance a business acquisition in India?", answer: "SIDBI provides subsidized acquisition financing. Commercial banks (SBI, HDFC, ICICI) offer term loans at 10–14%. NBFCs (Bajaj Finance, Tata Capital) provide more flexible lending at 12–18%. CGTMSE offers collateral-free guarantees up to ₹5 crore. India's PE ecosystem ($70B+ AUM) provides equity capital for larger transactions." },
+      { question: "Is India a good market for ETA?", answer: "Yes. India has 63M+ MSMEs - the world's largest base - with over 70% being first-generation family businesses facing succession. The $5T economy, young population (median age 28), growing formalization, and 3-6x EBITDA multiples make it compelling. However, regulatory complexity and cultural nuances require deep local knowledge." },
+      { question: "How do you finance a business acquisition in India?", answer: "SIDBI provides subsidized acquisition financing. Commercial banks (SBI, HDFC, ICICI) offer term loans at 10-14%. NBFCs (Bajaj Finance, Tata Capital) provide more flexible lending at 12-18%. CGTMSE offers collateral-free guarantees up to ₹5 crore. India's PE ecosystem ($70B+ AUM) provides equity capital for larger transactions." },
     ],
   },
 
@@ -8416,7 +8416,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-colombia-chile-peru",
     title: "ETA in Colombia, Chile & Peru: The Andean Opportunity",
     description:
-      "Search fund landscape across Colombia, Chile, and Peru — deal flow, financing, legal structures, cultural considerations, and why the Andean region is ETA's next frontier.",
+      "Search fund landscape across Colombia, Chile, and Peru - deal flow, financing, legal structures, cultural considerations, and why the Andean region is ETA's next frontier.",
     readTime: "12 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8430,8 +8430,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "EY", title: "M&A Activity in Andean Markets", year: 2024 },
     ],
     faqs: [
-      { question: "Which Andean country is best for ETA?", answer: "Chile offers the most business-friendly environment (ranked #1 in Latin America for ease of doing business), but smaller deal flow. Colombia has the largest SME base and most active M&A market. Peru offers lower multiples (3–5x EBITDA) but requires more local knowledge. Many searchers target 2–3 countries simultaneously." },
-      { question: "What are typical acquisition multiples in the Andean region?", answer: "SME acquisitions in Colombia, Chile, and Peru typically trade at 3–6x EBITDA, compared to 4–7x in the US. Chilean companies command slightly higher multiples due to stronger governance and transparency. Colombian and Peruvian businesses may trade lower but carry more due diligence complexity." },
+      { question: "Which Andean country is best for ETA?", answer: "Chile offers the most business-friendly environment (ranked #1 in Latin America for ease of doing business), but smaller deal flow. Colombia has the largest SME base and most active M&A market. Peru offers lower multiples (3-5x EBITDA) but requires more local knowledge. Many searchers target 2-3 countries simultaneously." },
+      { question: "What are typical acquisition multiples in the Andean region?", answer: "SME acquisitions in Colombia, Chile, and Peru typically trade at 3-6x EBITDA, compared to 4-7x in the US. Chilean companies command slightly higher multiples due to stronger governance and transparency. Colombian and Peruvian businesses may trade lower but carry more due diligence complexity." },
     ],
   },
 
@@ -8439,7 +8439,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "cross-border-acquisitions-europe",
     title: "Cross-Border Acquisitions in Europe: A Search Fund Guide",
     description:
-      "How to execute cross-border search fund acquisitions in Europe — legal structures, tax planning, cultural due diligence, financing, and post-acquisition integration.",
+      "How to execute cross-border search fund acquisitions in Europe - legal structures, tax planning, cultural due diligence, financing, and post-acquisition integration.",
     readTime: "14 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8453,7 +8453,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "Can you run a cross-border search fund in Europe?", answer: "Yes, and it's increasingly common. The EU single market allows free movement of capital, making cross-border acquisitions structurally simpler than in most regions. However, you need to navigate different legal systems, tax regimes, languages, and business cultures. Most successful cross-border searchers focus on 2–3 adjacent countries with shared language or cultural similarities." },
+      { question: "Can you run a cross-border search fund in Europe?", answer: "Yes, and it's increasingly common. The EU single market allows free movement of capital, making cross-border acquisitions structurally simpler than in most regions. However, you need to navigate different legal systems, tax regimes, languages, and business cultures. Most successful cross-border searchers focus on 2-3 adjacent countries with shared language or cultural similarities." },
       { question: "Where should you set up the holding company for a European cross-border acquisition?", answer: "The Netherlands, Luxembourg, and Ireland are the most common holding company jurisdictions due to favorable tax treaty networks, participation exemptions on dividends and capital gains, and well-established corporate law. Your choice depends on investor locations, target country, and long-term exit planning. Always work with a cross-border tax advisor." },
     ],
   },
@@ -8462,7 +8462,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-middle-east",
     title: "ETA in the Middle East: UAE, Saudi Arabia & the Gulf Opportunity",
     description:
-      "Search fund landscape across the GCC — UAE, Saudi Arabia, Bahrain, and Qatar. Deal flow, Islamic finance, free zones, family business succession, and cultural considerations.",
+      "Search fund landscape across the GCC - UAE, Saudi Arabia, Bahrain, and Qatar. Deal flow, Islamic finance, free zones, family business succession, and cultural considerations.",
     readTime: "12 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8485,7 +8485,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-southeast-asia",
     title: "ETA in Southeast Asia: Indonesia, Vietnam, Thailand & the Philippines",
     description:
-      "Search fund landscape across ASEAN — Indonesia, Vietnam, Thailand, and the Philippines. SME succession, deal flow, financing, and cultural considerations.",
+      "Search fund landscape across ASEAN - Indonesia, Vietnam, Thailand, and the Philippines. SME succession, deal flow, financing, and cultural considerations.",
     readTime: "13 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8508,7 +8508,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-turkey",
     title: "ETA in Turkey: Europe's Bridge to Asia",
     description:
-      "Search fund landscape in Turkey — SME succession, legal structures, financing options, Anatolian Tiger cities, and cultural considerations for acquisition entrepreneurs.",
+      "Search fund landscape in Turkey - SME succession, legal structures, financing options, Anatolian Tiger cities, and cultural considerations for acquisition entrepreneurs.",
     readTime: "12 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8522,8 +8522,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Deloitte", title: "Turkey Private Equity Landscape", year: 2024 },
     ],
     faqs: [
-      { question: "Is Turkey a good market for ETA?", answer: "Turkey offers a compelling mix: 3.5M+ SMEs, a young population (median age 31), strategic location bridging Europe and Asia, and a massive family business succession wave. Challenges include currency volatility (TRY), regulatory complexity, and political uncertainty. Searchers who can navigate these risks find lower competition and attractive multiples (3–5x EBITDA) compared to Western Europe." },
-      { question: "What legal structure should you use for an acquisition in Turkey?", answer: "Most acquisitions use an Anonim Sirket (A.S. — joint stock company) for larger deals or a Limited Sirket (Ltd.) for smaller transactions. Foreign investors can own 100% of Turkish companies in most sectors. Consider a Dutch or Luxembourg holding company for tax efficiency on dividends and capital gains repatriation." },
+      { question: "Is Turkey a good market for ETA?", answer: "Turkey offers a compelling mix: 3.5M+ SMEs, a young population (median age 31), strategic location bridging Europe and Asia, and a massive family business succession wave. Challenges include currency volatility (TRY), regulatory complexity, and political uncertainty. Searchers who can navigate these risks find lower competition and attractive multiples (3-5x EBITDA) compared to Western Europe." },
+      { question: "What legal structure should you use for an acquisition in Turkey?", answer: "Most acquisitions use an Anonim Sirket (A.S. - joint stock company) for larger deals or a Limited Sirket (Ltd.) for smaller transactions. Foreign investors can own 100% of Turkish companies in most sectors. Consider a Dutch or Luxembourg holding company for tax efficiency on dividends and capital gains repatriation." },
     ],
   },
 
@@ -8531,7 +8531,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-latin-america-overview",
     title: "ETA in Latin America: A Continental Overview",
     description:
-      "Search fund landscape across Latin America — Brazil, Mexico, Colombia, Chile, Argentina, and Peru. Family business succession, financing, and emerging ETA communities.",
+      "Search fund landscape across Latin America - Brazil, Mexico, Colombia, Chile, Argentina, and Peru. Family business succession, financing, and emerging ETA communities.",
     readTime: "13 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8546,7 +8546,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which Latin American country is best for ETA?", answer: "Mexico and Brazil have the largest SME markets and most developed M&A ecosystems. Chile offers the most business-friendly regulatory environment. Colombia is growing rapidly with strong IESE and local MBA alumni networks. Most searchers focus on one country due to the diversity of legal and tax systems across the continent." },
-      { question: "What are typical acquisition multiples in Latin America?", answer: "SME acquisitions in Latin America typically trade at 3–6x EBITDA, compared to 4–7x in the US. Chilean and Brazilian companies command slightly higher multiples. Smaller businesses in Colombia, Peru, and Mexico may trade at 2.5–4x. Currency risk and political stability factor into pricing, so returns should be modeled in both local currency and USD." },
+      { question: "What are typical acquisition multiples in Latin America?", answer: "SME acquisitions in Latin America typically trade at 3-6x EBITDA, compared to 4-7x in the US. Chilean and Brazilian companies command slightly higher multiples. Smaller businesses in Colombia, Peru, and Mexico may trade at 2.5-4x. Currency risk and political stability factor into pricing, so returns should be modeled in both local currency and USD." },
     ],
   },
 
@@ -8554,7 +8554,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-africa",
     title: "ETA in Africa: Nigeria, Kenya, South Africa & the Continent's Opportunity",
     description:
-      "Search fund landscape across Africa — Nigeria, Kenya, South Africa, Egypt, and Ghana. SME succession, deal flow, financing, diaspora searchers, and cultural considerations.",
+      "Search fund landscape across Africa - Nigeria, Kenya, South Africa, Egypt, and Ghana. SME succession, deal flow, financing, diaspora searchers, and cultural considerations.",
     readTime: "13 min read",
     tag: "Regional",
     category: "Regional Guides",
@@ -8569,7 +8569,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Which African countries are best for ETA?", answer: "South Africa has the most developed M&A ecosystem and legal framework. Nigeria offers the largest SME market (40M+ MSMEs) but more complexity. Kenya is emerging as East Africa's hub with a strong tech-forward business culture. Egypt and Ghana are growing markets. Most searchers focus on one country initially, leveraging local networks and advisors." },
-      { question: "How do you finance acquisitions in Africa?", answer: "Traditional search fund structures are challenging due to limited local debt markets. Options include: DFI financing (IFC, AfDB, Proparco), local commercial banks (often at 15–25% interest), investor equity with higher allocation than US deals (40–60% equity vs 20��35%), and seller financing. Some searchers use offshore holding structures with blended international and local financing." },
+      { question: "How do you finance acquisitions in Africa?", answer: "Traditional search fund structures are challenging due to limited local debt markets. Options include: DFI financing (IFC, AfDB, Proparco), local commercial banks (often at 15-25% interest), investor equity with higher allocation than US deals (40-60% equity vs 20��35%), and seller financing. Some searchers use offshore holding structures with blended international and local financing." },
     ],
   },
 
@@ -8578,7 +8578,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-vs-private-equity",
     title: "ETA vs. Private Equity: Key Differences for Investors",
     description:
-      "Deal size, returns, control, fees, hold periods, and alignment — how ETA compares to traditional PE investing.",
+      "Deal size, returns, control, fees, hold periods, and alignment - how ETA compares to traditional PE investing.",
     readTime: "13 min read",
     tag: "Investor",
     category: "Investor Comparisons",
@@ -8594,9 +8594,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Preqin", title: "Global Private Equity & Venture Capital Report", year: 2024 },
     ],
     faqs: [
-      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1–20M enterprise value vs $100M+ for PE), involves a single operator-CEO rather than a management team, uses step-up equity instead of 2/20 fee structures, and focuses on one business at a time. The operator is deeply aligned through personal equity and earns outsized returns only when investors do." },
-      { question: "Do search funds outperform private equity?", answer: "On an IRR basis, search funds have historically outperformed PE (33%+ median pre-tax IRR vs 14–18% median net IRR for PE). However, PE offers larger absolute returns per fund, more diversification, and greater liquidity. The comparison depends on the investor's portfolio construction goals." },
-      { question: "Can I invest in both ETA and PE?", answer: "Yes, and many sophisticated investors do. A typical approach allocates 60–70% of private equity capital to traditional PE funds for diversified exposure and 20–30% across 10–20 search fund investments per vintage year for high-IRR alpha. The low correlation between individual search fund outcomes and broader PE cycles adds genuine diversification benefit." },
+      { question: "How is ETA different from private equity?", answer: "ETA targets smaller deals ($1-20M enterprise value vs $100M+ for PE), involves a single operator-CEO rather than a management team, uses step-up equity instead of 2/20 fee structures, and focuses on one business at a time. The operator is deeply aligned through personal equity and earns outsized returns only when investors do." },
+      { question: "Do search funds outperform private equity?", answer: "On an IRR basis, search funds have historically outperformed PE (33%+ median pre-tax IRR vs 14-18% median net IRR for PE). However, PE offers larger absolute returns per fund, more diversification, and greater liquidity. The comparison depends on the investor's portfolio construction goals." },
+      { question: "Can I invest in both ETA and PE?", answer: "Yes, and many sophisticated investors do. A typical approach allocates 60-70% of private equity capital to traditional PE funds for diversified exposure and 20-30% across 10-20 search fund investments per vintage year for high-IRR alpha. The low correlation between individual search fund outcomes and broader PE cycles adds genuine diversification benefit." },
     ],
   },
   {
@@ -8617,7 +8617,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Cambridge Associates", title: "US Venture Capital Index", year: 2024 },
     ],
     faqs: [
-      { question: "How do search fund returns compare to venture capital?", answer: "Search funds have generated approximately 35% aggregate IRR with a 4.5x MOIC, compared to top-quartile VC fund returns of 20–30% IRR. However, VC outliers (top decile) can generate 50%+ IRR. The key difference is variance: VC follows a power-law distribution, while search fund returns are more normally distributed." },
+      { question: "How do search fund returns compare to venture capital?", answer: "Search funds have generated approximately 35% aggregate IRR with a 4.5x MOIC, compared to top-quartile VC fund returns of 20-30% IRR. However, VC outliers (top decile) can generate 50%+ IRR. The key difference is variance: VC follows a power-law distribution, while search fund returns are more normally distributed." },
       { question: "Why might an investor choose search funds over venture capital?", answer: "Search funds appeal to investors who prefer: lower variance in returns, exposure to profitable established businesses (vs pre-revenue startups), more control through board governance, shorter time to cash flow, and a more predictable return profile. VC appeals to investors seeking exposure to disruptive technology and outsized winners." },
       { question: "Can a search fund entrepreneur transition to venture capital or vice versa?", answer: "Yes. Search fund experience (operational management, financial analysis, governance) translates well to VC operating partner roles or venture studio models. Similarly, VC professionals who want to operate companies find search funds appealing. The skill overlap is in business judgment; the difference is stage and risk profile." },
     ],
@@ -8630,7 +8630,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Investor",
     category: "Investor Comparisons",
-    ogTitle: "ETA vs. Public Markets & Hedge Funds — An Investor's Comparison",
+    ogTitle: "ETA vs. Public Markets & Hedge Funds - An Investor's Comparison",
     ogDescription:
       "S&P 500 at 10% vs search funds at 35% IRR. Understand the liquidity trade-off, correlation benefits, and portfolio allocation framework.",
     datePublished: "2024-11-07",
@@ -8640,9 +8640,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "S&P Global", title: "S&P 500 Historical Returns", year: 2024 },
     ],
     faqs: [
-      { question: "How do search fund returns compare to the S&P 500?", answer: "Search funds have generated approximately 35% aggregate IRR over 40 years, significantly outperforming the S&P 500's long-term average of 10–12% annual returns. However, search fund investments are illiquid, concentrated, and require active management, while public market investments are liquid and passive." },
+      { question: "How do search fund returns compare to the S&P 500?", answer: "Search funds have generated approximately 35% aggregate IRR over 40 years, significantly outperforming the S&P 500's long-term average of 10-12% annual returns. However, search fund investments are illiquid, concentrated, and require active management, while public market investments are liquid and passive." },
       { question: "What are the advantages of search fund investing over public markets?", answer: "Advantages include: higher expected returns (35% IRR vs 10% for public markets), ability to influence outcomes through active governance, informational advantages (detailed DD vs public filings), tax optimization opportunities (QSBS, asset step-ups), and low correlation with public market cycles." },
-      { question: "What are the disadvantages of search fund investing compared to stocks?", answer: "Disadvantages include: complete illiquidity (5–8 year lock-up), high concentration risk (single company), requires active involvement (board service), no public market price discovery, higher minimum investment ($25K+), accredited investor requirements, and limited portfolio diversification without investing in 10+ search funds." },
+      { question: "What are the disadvantages of search fund investing compared to stocks?", answer: "Disadvantages include: complete illiquidity (5-8 year lock-up), high concentration risk (single company), requires active involvement (board service), no public market price discovery, higher minimum investment ($25K+), accredited investor requirements, and limited portfolio diversification without investing in 10+ search funds." },
     ],
   },
   {
@@ -8653,7 +8653,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Investor",
     category: "Investor Comparisons",
-    ogTitle: "ETA vs. Real Estate Investing — Which Alternative Asset Wins?",
+    ogTitle: "ETA vs. Real Estate Investing - Which Alternative Asset Wins?",
     ogDescription:
       "Cap rates (5-8%) vs EBITDA multiples (3-6x), 80% LTV vs 50-60% acquisition financing. Compare returns, risk, and tax advantages.",
     datePublished: "2024-12-05",
@@ -8663,7 +8663,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "NCREIF", title: "Property Index Returns", year: 2024 },
     ],
     faqs: [
-      { question: "How do search fund returns compare to real estate investing?", answer: "Search funds have generated approximately 35% aggregate IRR, compared to 8–12% for diversified real estate portfolios and 15–20% for value-add real estate strategies. However, real estate offers tangible collateral, financing advantages (30-year mortgages), and more predictable cash flows." },
+      { question: "How do search fund returns compare to real estate investing?", answer: "Search funds have generated approximately 35% aggregate IRR, compared to 8-12% for diversified real estate portfolios and 15-20% for value-add real estate strategies. However, real estate offers tangible collateral, financing advantages (30-year mortgages), and more predictable cash flows." },
       { question: "Can you combine ETA and real estate investing?", answer: "Yes. Many search fund acquisitions include real estate components (owned facilities, land). Some searchers acquire businesses where the real estate is a significant asset (storage facilities, car washes, hotels). Additionally, post-exit search fund operators often allocate exit proceeds to real estate for portfolio diversification." },
       { question: "Is real estate investing lower risk than search fund investing?", answer: "Generally yes. Real estate benefits from tangible collateral, favorable financing, inflation hedging, and lower operational complexity. Search funds offer higher potential returns but require deep operational involvement and carry higher idiosyncratic risk. Risk-adjusted, real estate provides more consistent returns; search funds offer more upside potential." },
     ],
@@ -8672,7 +8672,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "eta-vs-franchise-comparison",
     title: "ETA vs. Buying a Franchise: A Deep Comparison",
     description:
-      "Financial returns, autonomy, risk profile, exit potential, and lifestyle — when to choose ETA vs. franchise for aspiring business owners.",
+      "Financial returns, autonomy, risk profile, exit potential, and lifestyle - when to choose ETA vs. franchise for aspiring business owners.",
     readTime: "14 min read",
     tag: "Investor",
     category: "Investor Comparisons",
@@ -8686,8 +8686,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IFA", title: "Franchise Business Economic Outlook", year: 2024 },
     ],
     faqs: [
-      { question: "Is it better to buy a franchise or an existing business?", answer: "Buy a franchise if you want a proven system, brand recognition, and built-in training. Buy an existing business through ETA if you want full autonomy, higher wealth creation potential (20–25% equity), and a clear exit path to PE/strategic buyers at premium multiples. ETA has higher upside but requires more independent decision-making." },
-      { question: "Do franchises make more money than independent businesses?", answer: "On average, no. Average franchise owners earn $80K–$150K/year and pay ongoing royalties (5–8%) and marketing fees (2–4%). Search fund CEOs earn $150K–$250K salary plus 20–25% equity that can be worth $2M–$10M+ at exit. However, franchises have lower failure rates and more predictable income." },
+      { question: "Is it better to buy a franchise or an existing business?", answer: "Buy a franchise if you want a proven system, brand recognition, and built-in training. Buy an existing business through ETA if you want full autonomy, higher wealth creation potential (20-25% equity), and a clear exit path to PE/strategic buyers at premium multiples. ETA has higher upside but requires more independent decision-making." },
+      { question: "Do franchises make more money than independent businesses?", answer: "On average, no. Average franchise owners earn $80K-$150K/year and pay ongoing royalties (5-8%) and marketing fees (2-4%). Search fund CEOs earn $150K-$250K salary plus 20-25% equity that can be worth $2M-$10M+ at exit. However, franchises have lower failure rates and more predictable income." },
     ],
   },
 
@@ -8700,9 +8700,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "9 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a SaaS Business — The Search Fund Playbook",
+    ogTitle: "Acquiring a SaaS Business - The Search Fund Playbook",
     ogDescription:
-      "ARR, churn, NRR, Rule of 40 — master the metrics, valuation, and growth levers for SaaS acquisitions through search funds.",
+      "ARR, churn, NRR, Rule of 40 - master the metrics, valuation, and growth levers for SaaS acquisitions through search funds.",
     datePublished: "2024-11-12",
     dateModified: "2025-04-17",
     sources: [
@@ -8710,9 +8710,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Bessemer Venture Partners", title: "Cloud Index & SaaS Metrics", year: 2024 },
     ],
     faqs: [
-      { question: "What EBITDA multiple do SaaS businesses trade at?", answer: "Bootstrapped SaaS businesses with $1–5M ARR typically trade at 3–6x ARR or 8–15x EBITDA for search fund acquisitions. Key drivers are net revenue retention (NRR), gross margins, churn rate, and growth trajectory." },
+      { question: "What EBITDA multiple do SaaS businesses trade at?", answer: "Bootstrapped SaaS businesses with $1-5M ARR typically trade at 3-6x ARR or 8-15x EBITDA for search fund acquisitions. Key drivers are net revenue retention (NRR), gross margins, churn rate, and growth trajectory." },
       { question: "What is a good churn rate for a SaaS acquisition target?", answer: "For SMB SaaS, monthly churn below 3% (annual <30%) is acceptable; below 2% monthly is strong. Enterprise SaaS should target net revenue retention above 100%, meaning expansion revenue offsets any churn." },
-      { question: "Can you acquire a SaaS business with debt financing?", answer: "Yes, but lenders are more conservative with SaaS. SBA 7(a) loans work for profitable SaaS companies. Recurring revenue lenders (like SaaS Capital, Lighter Capital) offer credit lines based on ARR. Typical leverage is 2–4x ARR for profitable companies." },
+      { question: "Can you acquire a SaaS business with debt financing?", answer: "Yes, but lenders are more conservative with SaaS. SBA 7(a) loans work for profitable SaaS companies. Recurring revenue lenders (like SaaS Capital, Lighter Capital) offer credit lines based on ARR. Typical leverage is 2-4x ARR for profitable companies." },
     ],
   },
   {
@@ -8723,9 +8723,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Healthcare Services Business — Search Fund Guide",
+    ogTitle: "Acquiring a Healthcare Services Business - Search Fund Guide",
     ogDescription:
-      "Medicare, HIPAA, Stark Law, credentialing — navigate healthcare regulation and build a defensible platform through ETA.",
+      "Medicare, HIPAA, Stark Law, credentialing - navigate healthcare regulation and build a defensible platform through ETA.",
     datePublished: "2024-11-26",
     dateModified: "2025-04-17",
     sources: [
@@ -8734,8 +8734,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What types of healthcare businesses are most commonly acquired by search funds?", answer: "The most common healthcare acquisitions for search funds include: dental practices (DSO model), veterinary clinics, physical therapy practices, home health agencies, behavioral health practices, med spas, pharmacy businesses, and urgent care centers. These businesses offer recurring revenue, fragmented markets, and high barriers to entry." },
-      { question: "What regulatory requirements affect healthcare business acquisitions?", answer: "Healthcare acquisitions involve complex regulatory requirements including: state licensing and certification (varies by state/country), Medicare/Medicaid enrollment changes, HIPAA compliance verification, certificate of need (CON) requirements, medical director agreements, professional corporation rules, and insurance credentialing. These can add 2–6 months to closing timelines." },
-      { question: "What EBITDA multiples do healthcare businesses trade at?", answer: "Healthcare services businesses trade at 5–10x EBITDA depending on size, specialty, and payer mix. Dental practices: 5–8x; veterinary: 7–12x; home health: 6–9x; behavioral health: 6–10x. Businesses with strong clinical reputations, diversified payer mixes, and recurring revenue command premium valuations." },
+      { question: "What regulatory requirements affect healthcare business acquisitions?", answer: "Healthcare acquisitions involve complex regulatory requirements including: state licensing and certification (varies by state/country), Medicare/Medicaid enrollment changes, HIPAA compliance verification, certificate of need (CON) requirements, medical director agreements, professional corporation rules, and insurance credentialing. These can add 2-6 months to closing timelines." },
+      { question: "What EBITDA multiples do healthcare businesses trade at?", answer: "Healthcare services businesses trade at 5-10x EBITDA depending on size, specialty, and payer mix. Dental practices: 5-8x; veterinary: 7-12x; home health: 6-9x; behavioral health: 6-10x. Businesses with strong clinical reputations, diversified payer mixes, and recurring revenue command premium valuations." },
     ],
   },
   {
@@ -8746,9 +8746,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Manufacturing Business — Search Fund Due Diligence Guide",
+    ogTitle: "Acquiring a Manufacturing Business - Search Fund Due Diligence Guide",
     ogDescription:
-      "Equipment valuation, environmental liabilities, skilled trades workforce, Lean/Six Sigma opportunities — the complete manufacturing acquisition guide.",
+      "Equipment valuation, environmental liabilities, skilled trades workforce, Lean/Six Sigma opportunities - the complete manufacturing acquisition guide.",
     datePublished: "2024-12-10",
     dateModified: "2025-04-17",
     sources: [
@@ -8758,7 +8758,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "Is manufacturing a good sector for search fund acquisitions?", answer: "Manufacturing can be excellent for search funds, offering: tangible assets, high barriers to entry, long customer relationships, and significant operational improvement potential. However, it also involves higher capital expenditure, inventory management, supply chain complexity, and environmental liability risks. Niche manufacturing (medical devices, aerospace parts, specialty food) tends to perform best." },
       { question: "What are the key due diligence items for manufacturing acquisitions?", answer: "Critical DD items include: equipment condition and maintenance records, environmental compliance and liabilities (Phase I/II assessments), customer concentration and contract terms, quality certifications (ISO 9001, AS9100, FDA), supply chain dependencies, labor relations and skill availability, capacity utilization, and capital expenditure forecasting." },
-      { question: "What EBITDA multiples do manufacturing businesses trade at?", answer: "Manufacturing businesses trade at 4–7x EBITDA for most SMEs. Niche manufacturers with proprietary products or processes command 6–9x. Key value drivers include: customer concentration, backlog and order book, technology and automation level, workforce skill and availability, and regulatory certifications." },
+      { question: "What EBITDA multiples do manufacturing businesses trade at?", answer: "Manufacturing businesses trade at 4-7x EBITDA for most SMEs. Niche manufacturers with proprietary products or processes command 6-9x. Key value drivers include: customer concentration, backlog and order book, technology and automation level, workforce skill and availability, and regulatory certifications." },
     ],
   },
   {
@@ -8769,9 +8769,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Professional Services Firm — Search Fund Playbook",
+    ogTitle: "Acquiring a Professional Services Firm - Search Fund Playbook",
     ogDescription:
-      "Key-person risk, utilization rates, client concentration, partner buyouts — the complete playbook for acquiring professional services firms.",
+      "Key-person risk, utilization rates, client concentration, partner buyouts - the complete playbook for acquiring professional services firms.",
     datePublished: "2024-12-24",
     dateModified: "2025-04-17",
     sources: [
@@ -8779,9 +8779,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "What makes professional services firms attractive for acquisition?", answer: "Professional services firms (consulting, accounting, staffing, engineering) are attractive because they are: asset-light (low capex), high-margin (15–30% EBITDA), cash-generative, relatively recession-resistant, and fragmented (many small firms in every market). They also scale well through talent acquisition and service expansion." },
+      { question: "What makes professional services firms attractive for acquisition?", answer: "Professional services firms (consulting, accounting, staffing, engineering) are attractive because they are: asset-light (low capex), high-margin (15-30% EBITDA), cash-generative, relatively recession-resistant, and fragmented (many small firms in every market). They also scale well through talent acquisition and service expansion." },
       { question: "What is the biggest risk of acquiring a professional services firm?", answer: "The biggest risk is key person dependency. Professional services firms often have revenue concentrated with a few senior professionals whose client relationships drive the business. If these key people leave post-acquisition, clients may follow. Retention agreements, non-competes, and equity incentives for key personnel are essential." },
-      { question: "How do you value a professional services firm?", answer: "Professional services firms are typically valued at 4–7x EBITDA or 0.8–1.5x revenue. Key valuation factors include: revenue concentration risk, client retention rates, utilization rates, mix of recurring vs project revenue, staff tenure and bench strength, and brand reputation. Firms with strong recurring revenue command higher multiples." },
+      { question: "How do you value a professional services firm?", answer: "Professional services firms are typically valued at 4-7x EBITDA or 0.8-1.5x revenue. Key valuation factors include: revenue concentration risk, client retention rates, utilization rates, mix of recurring vs project revenue, staff tenure and bench strength, and brand reputation. Firms with strong recurring revenue command higher multiples." },
     ],
   },
   {
@@ -8792,9 +8792,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Home Services Business — Search Fund Playbook",
+    ogTitle: "Acquiring a Home Services Business - Search Fund Playbook",
     ogDescription:
-      "Route density, technician recruitment, recurring revenue, roll-up economics — the playbook for home services and field services acquisitions.",
+      "Route density, technician recruitment, recurring revenue, roll-up economics - the playbook for home services and field services acquisitions.",
     datePublished: "2025-01-14",
     dateModified: "2025-04-17",
     sources: [
@@ -8804,7 +8804,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "Why are home services businesses popular search fund targets?", answer: "Home services businesses (HVAC, plumbing, electrical, pest control, landscaping) are popular because they offer: recession-resistant demand, recurring revenue from maintenance contracts, fragmented markets ideal for consolidation, low technology disruption risk, and strong cash flow characteristics. Many also benefit from aging housing stock driving repair demand." },
       { question: "What should you look for when acquiring a home services company?", answer: "Key evaluation criteria include: customer base quality (residential vs commercial mix), recurring revenue percentage (maintenance contracts), technician availability and training, vehicle and equipment condition, online reviews and reputation, geographic density (route efficiency), and owner dependence (are relationships personal or institutional?)." },
-      { question: "What EBITDA multiples do home services businesses trade at?", answer: "Home services businesses trade at 3–6x EBITDA for single-location operators, 5–8x for multi-location businesses with recurring revenue. HVAC commands 5–7x, plumbing 4–6x, pest control 6–8x (due to high recurring revenue), and landscaping 3–5x. Businesses with strong maintenance contract bases command premium multiples." },
+      { question: "What EBITDA multiples do home services businesses trade at?", answer: "Home services businesses trade at 3-6x EBITDA for single-location operators, 5-8x for multi-location businesses with recurring revenue. HVAC commands 5-7x, plumbing 4-6x, pest control 6-8x (due to high recurring revenue), and landscaping 3-5x. Businesses with strong maintenance contract bases command premium multiples." },
     ],
   },
   {
@@ -8815,9 +8815,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "13 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring an E-commerce & D2C Brand — Search Fund Guide",
+    ogTitle: "Acquiring an E-commerce & D2C Brand - Search Fund Guide",
     ogDescription:
-      "Amazon/Shopify DD, CAC trends, supply chain risk, brand defensibility — the complete guide to e-commerce and D2C acquisitions.",
+      "Amazon/Shopify DD, CAC trends, supply chain risk, brand defensibility - the complete guide to e-commerce and D2C acquisitions.",
     datePublished: "2025-01-28",
     dateModified: "2025-04-17",
     sources: [
@@ -8827,7 +8827,7 @@ export const allArticles: ArticleMeta[] = [
     faqs: [
       { question: "What types of e-commerce businesses are best for search fund acquisitions?", answer: "The best e-commerce targets for search funds have: proprietary products (not reselling commodities), strong brand identity, diversified traffic sources (not dependent on a single platform), repeat customers (high LTV:CAC ratio), defensible supply chains, and stable margins. D2C brands with loyal communities are particularly attractive." },
       { question: "What are the key risks of acquiring an e-commerce business?", answer: "Key risks include: platform dependency (Amazon, Shopify policy changes), customer acquisition cost inflation, thin margins on competitive products, inventory obsolescence, logistics complexity, social media algorithm changes affecting marketing, and the speed of competitive disruption. Due diligence should deeply analyze traffic sources and customer cohort retention." },
-      { question: "How do you value an e-commerce business?", answer: "E-commerce businesses are valued at 3–6x EBITDA or 1–3x SDE (Seller's Discretionary Earnings). Amazon FBA businesses trade at 2.5–5x SDE. Key valuation drivers: organic traffic percentage, customer retention rates, brand strength, product margins, supply chain resilience, and growth trajectory. Businesses dependent on paid advertising trade at lower multiples." },
+      { question: "How do you value an e-commerce business?", answer: "E-commerce businesses are valued at 3-6x EBITDA or 1-3x SDE (Seller's Discretionary Earnings). Amazon FBA businesses trade at 2.5-5x SDE. Key valuation drivers: organic traffic percentage, customer retention rates, brand strength, product margins, supply chain resilience, and growth trajectory. Businesses dependent on paid advertising trade at lower multiples." },
     ],
   },
   {
@@ -8838,9 +8838,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring an Education & Training Business — Search Fund Guide",
+    ogTitle: "Acquiring an Education & Training Business - Search Fund Guide",
     ogDescription:
-      "B2B vs B2C, accreditation, instructor dependency, digital transformation — the playbook for education and training business acquisitions.",
+      "B2B vs B2C, accreditation, instructor dependency, digital transformation - the playbook for education and training business acquisitions.",
     datePublished: "2025-02-11",
     dateModified: "2025-04-17",
     sources: [
@@ -8849,8 +8849,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What types of education businesses are suitable for search fund acquisitions?", answer: "Suitable education targets include: vocational training providers, test prep companies, corporate training firms, language schools, online course platforms, early childhood education centers, tutoring chains, and professional certification providers. Businesses with recurring enrollment, regulatory accreditation, and strong outcomes data are most attractive." },
-      { question: "What regulatory considerations affect education business acquisitions?", answer: "Key regulatory factors include: state/national accreditation requirements, professional licensing (for vocational programs), Title IV financial aid eligibility (US), OFSTED ratings (UK), local education authority approvals, background check requirements for staff, and curriculum compliance standards. Transfer of accreditation can take 3–12 months." },
-      { question: "What EBITDA multiples do education businesses trade at?", answer: "Education businesses trade at 4–8x EBITDA depending on type and quality. Online education platforms: 6–10x; corporate training: 5–8x; vocational schools: 4–6x; childcare/early education: 5–8x. Schools with strong accreditation, high retention, and technology-enabled delivery command the highest multiples." },
+      { question: "What regulatory considerations affect education business acquisitions?", answer: "Key regulatory factors include: state/national accreditation requirements, professional licensing (for vocational programs), Title IV financial aid eligibility (US), OFSTED ratings (UK), local education authority approvals, background check requirements for staff, and curriculum compliance standards. Transfer of accreditation can take 3-12 months." },
+      { question: "What EBITDA multiples do education businesses trade at?", answer: "Education businesses trade at 4-8x EBITDA depending on type and quality. Online education platforms: 6-10x; corporate training: 5-8x; vocational schools: 4-6x; childcare/early education: 5-8x. Schools with strong accreditation, high retention, and technology-enabled delivery command the highest multiples." },
     ],
   },
   {
@@ -8861,9 +8861,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "14 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring a Financial Services or Insurance Business — Search Fund Guide",
+    ogTitle: "Acquiring a Financial Services or Insurance Business - Search Fund Guide",
     ogDescription:
-      "FCA/BaFin licensing, book-of-business valuation, renewal economics — the complete guide to financial services and insurance acquisitions.",
+      "FCA/BaFin licensing, book-of-business valuation, renewal economics - the complete guide to financial services and insurance acquisitions.",
     datePublished: "2025-02-25",
     dateModified: "2025-04-17",
     sources: [
@@ -8872,8 +8872,8 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What types of financial services businesses are suitable for search fund acquisitions?", answer: "Common targets include: insurance brokerages, independent financial advisory practices, accounting firms, wealth management firms, payment processing companies, and specialty lending businesses. Insurance brokerages are particularly popular due to high recurring commission revenue and fragmented markets." },
-      { question: "What regulatory approvals are needed for financial services acquisitions?", answer: "Regulatory requirements vary by sub-sector: insurance agencies require state-by-state license transfers, RIAs need SEC or state registration changes, broker-dealers require FINRA approval, banks need regulatory approval from OCC/FDIC/state banking regulators. These approvals can add 3–12 months to closing timelines." },
-      { question: "What multiples do financial services businesses trade at?", answer: "Valuation varies by sub-sector: insurance brokerages trade at 8–12x EBITDA (or 2–3x revenue), wealth management practices at 6–10x EBITDA (or 1.5–2.5% of AUM), accounting firms at 1–1.5x revenue, and specialty lenders at 5–8x earnings. Recurring revenue and regulatory licenses drive premium valuations." },
+      { question: "What regulatory approvals are needed for financial services acquisitions?", answer: "Regulatory requirements vary by sub-sector: insurance agencies require state-by-state license transfers, RIAs need SEC or state registration changes, broker-dealers require FINRA approval, banks need regulatory approval from OCC/FDIC/state banking regulators. These approvals can add 3-12 months to closing timelines." },
+      { question: "What multiples do financial services businesses trade at?", answer: "Valuation varies by sub-sector: insurance brokerages trade at 8-12x EBITDA (or 2-3x revenue), wealth management practices at 6-10x EBITDA (or 1.5-2.5% of AUM), accounting firms at 1-1.5x revenue, and specialty lenders at 5-8x earnings. Recurring revenue and regulatory licenses drive premium valuations." },
     ],
   },
   {
@@ -8884,9 +8884,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "16 min read",
     tag: "Guide",
     category: "Industry Playbooks",
-    ogTitle: "Acquiring an HVAC Business — The Search Fund Playbook",
+    ogTitle: "Acquiring an HVAC Business - The Search Fund Playbook",
     ogDescription:
-      "3.5–5.5x EBITDA, 40–60% gross margins on service, $150B+ fragmented market. The complete guide to acquiring and scaling an HVAC business through ETA.",
+      "3.5-5.5x EBITDA, 40-60% gross margins on service, $150B+ fragmented market. The complete guide to acquiring and scaling an HVAC business through ETA.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8896,22 +8896,22 @@ export const allArticles: ArticleMeta[] = [
       { name: "IBISWorld", title: "HVAC Contractors Industry in the US", year: 2025 },
     ],
     faqs: [
-      { question: "What are typical HVAC business valuation multiples?", answer: "Small HVAC operators (<$2M revenue) trade at 2–3.5x SDE. Mid-size companies ($2M–$10M revenue) sell for 3.5–5.5x EBITDA. Larger platforms ($10M+) command 5–7x EBITDA. Add-on acquisitions at 2–3.5x create significant buy-and-build arbitrage." },
+      { question: "What are typical HVAC business valuation multiples?", answer: "Small HVAC operators (<$2M revenue) trade at 2-3.5x SDE. Mid-size companies ($2M-$10M revenue) sell for 3.5-5.5x EBITDA. Larger platforms ($10M+) command 5-7x EBITDA. Add-on acquisitions at 2-3.5x create significant buy-and-build arbitrage." },
       { question: "What should I look for in HVAC due diligence?", answer: "Focus on technician workforce (EPA 608 certifications, turnover), maintenance contract base (active agreements, renewal rates), fleet condition, contractor license transfer, and manufacturer dealer relationships. Companies with 1,500+ active maintenance contracts achieve materially higher EBITDA margins." },
-      { question: "How do I grow an HVAC business after acquisition?", answer: "Highest-impact levers: grow maintenance contracts (convert 30–40% of service calls into plans), invest in digital marketing (50–100% more inbound leads), implement flat-rate pricing (5–10 point margin improvement), deploy field service software, and execute tuck-in acquisitions at 2–3.5x EBITDA." },
+      { question: "How do I grow an HVAC business after acquisition?", answer: "Highest-impact levers: grow maintenance contracts (convert 30-40% of service calls into plans), invest in digital marketing (50-100% more inbound leads), implement flat-rate pricing (5-10 point margin improvement), deploy field service software, and execute tuck-in acquisitions at 2-3.5x EBITDA." },
     ],
   },
   {
     slug: "acquiring-msp-business",
     title: "Acquiring a Managed Service Provider (MSP): The ETA Playbook",
     description:
-      "MSP valuation (4–7x EBITDA), MRR analysis, technical stack review, cybersecurity focus, and post-acquisition growth — including buy-and-build roll-up strategies.",
+      "MSP valuation (4-7x EBITDA), MRR analysis, technical stack review, cybersecurity focus, and post-acquisition growth - including buy-and-build roll-up strategies.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
     ogTitle: "Acquiring an MSP: Managed Service Provider Acquisition Guide",
     ogDescription:
-      "70–90% recurring revenue, 5–10% churn, 40,000+ US MSPs. Valuation, due diligence, and post-acquisition playbook for managed service provider acquisitions.",
+      "70-90% recurring revenue, 5-10% churn, 40,000+ US MSPs. Valuation, due diligence, and post-acquisition playbook for managed service provider acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8920,22 +8920,22 @@ export const allArticles: ArticleMeta[] = [
       { name: "Canalys", title: "Global Managed Services Market Forecast", year: 2025 },
     ],
     faqs: [
-      { question: "What is a good valuation multiple for an MSP?", answer: "Small MSPs ($1M–$5M revenue) trade at 4–6x EBITDA or 1–2x ARR. Mid-market MSPs ($5M–$20M) command 6–8x. Platform MSPs ($20M+) with MSSP capabilities reach 7–10x+. The key driver is MRR percentage — MSPs with 80%+ MRR command significantly higher multiples." },
+      { question: "What is a good valuation multiple for an MSP?", answer: "Small MSPs ($1M-$5M revenue) trade at 4-6x EBITDA or 1-2x ARR. Mid-market MSPs ($5M-$20M) command 6-8x. Platform MSPs ($20M+) with MSSP capabilities reach 7-10x+. The key driver is MRR percentage - MSPs with 80%+ MRR command significantly higher multiples." },
       { question: "What is the biggest risk when acquiring an MSP?", answer: "Cybersecurity liability is the existential risk. MSPs hold admin credentials and network access for every client. A breach can cascade across the entire client base. Mitigate by auditing internal security, maintaining robust cyber insurance, and investing in SOC 2 certification." },
-      { question: "How do I grow an MSP after acquisition?", answer: "Highest-impact levers: increase MRR per endpoint (10–20% price adjustments), layer security services (25–50% more per-client revenue), launch vCIO advisory ($1,000–$3,000/client/month), invest in RMM automation, and execute tuck-in acquisitions at 3–5x to build a platform commanding 8–12x at exit." },
+      { question: "How do I grow an MSP after acquisition?", answer: "Highest-impact levers: increase MRR per endpoint (10-20% price adjustments), layer security services (25-50% more per-client revenue), launch vCIO advisory ($1,000-$3,000/client/month), invest in RMM automation, and execute tuck-in acquisitions at 3-5x to build a platform commanding 8-12x at exit." },
     ],
   },
   {
     slug: "acquiring-dental-practice",
     title: "Acquiring a Dental Practice: The DSO Model & ETA Playbook",
     description:
-      "Dental practice valuation (4–7x EBITDA), the DSO model explained, revenue quality analysis, clinical due diligence, and roll-up growth strategies.",
+      "Dental practice valuation (4-7x EBITDA), the DSO model explained, revenue quality analysis, clinical due diligence, and roll-up growth strategies.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Dental Practice: DSO Model & Acquisition Guide",
     ogDescription:
-      "200,000+ US dental practices, 80% solo/small group, 25–40% EBITDA margins. Valuation, DSO structure, due diligence, and roll-up growth strategies for dental acquisitions.",
+      "200,000+ US dental practices, 80% solo/small group, 25-40% EBITDA margins. Valuation, DSO structure, due diligence, and roll-up growth strategies for dental acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8944,22 +8944,22 @@ export const allArticles: ArticleMeta[] = [
       { name: "ADA Health Policy Institute", title: "Dentist Workforce & Demographics", year: 2025 },
     ],
     faqs: [
-      { question: "How much is a dental practice worth?", answer: "Single dental practices sell for 4–7x EBITDA (or 60–80% of annual collections). Multi-location DSO platforms command 8–12x+ EBITDA. Premium factors: multiple dentists, high fee-for-service payer mix, modern equipment, and strong hygiene programs." },
+      { question: "How much is a dental practice worth?", answer: "Single dental practices sell for 4-7x EBITDA (or 60-80% of annual collections). Multi-location DSO platforms command 8-12x+ EBITDA. Premium factors: multiple dentists, high fee-for-service payer mix, modern equipment, and strong hygiene programs." },
       { question: "Can a non-dentist buy a dental practice?", answer: "Most states restrict non-dentist ownership through corporate practice of dentistry laws. The DSO model allows non-dentist operators to manage the business side via a management services agreement while a licensed dentist maintains clinical ownership and autonomy." },
-      { question: "What is the DSO model and why does it matter for ETA?", answer: "A Dental Service Organization provides business management (billing, HR, marketing, procurement) to dental practices while the dentist retains clinical autonomy. The DSO receives a management fee (15–25% of collections). This structure lets non-dentist investors/operators manage the business side, making dental one of the few healthcare verticals accessible to search fund entrepreneurs." },
+      { question: "What is the DSO model and why does it matter for ETA?", answer: "A Dental Service Organization provides business management (billing, HR, marketing, procurement) to dental practices while the dentist retains clinical autonomy. The DSO receives a management fee (15-25% of collections). This structure lets non-dentist investors/operators manage the business side, making dental one of the few healthcare verticals accessible to search fund entrepreneurs." },
     ],
   },
   {
     slug: "acquiring-staffing-agency",
     title: "Acquiring a Staffing & Recruiting Agency: The ETA Playbook",
     description:
-      "Staffing agency valuation (3–6x EBITDA), temp vs. perm vs. contract models, recruiter productivity metrics, and post-acquisition niche specialization strategies.",
+      "Staffing agency valuation (3-6x EBITDA), temp vs. perm vs. contract models, recruiter productivity metrics, and post-acquisition niche specialization strategies.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Staffing Agency: Recruitment Industry Playbook",
     ogDescription:
-      "$200B+ US staffing market, 25,000+ agencies, most at $1–10M revenue. Valuation, due diligence, and growth strategies for staffing & recruiting acquisitions.",
+      "$200B+ US staffing market, 25,000+ agencies, most at $1-10M revenue. Valuation, due diligence, and growth strategies for staffing & recruiting acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8968,9 +8968,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "SIA", title: "US Staffing Industry Forecast", year: 2025 },
     ],
     faqs: [
-      { question: "What is a staffing agency worth in terms of EBITDA multiples?", answer: "Temp-heavy agencies sell for 3–5x EBITDA, permanent placement agencies for 2–4x (volatile revenue), and contract/professional staffing for 4–6x (recurring + higher margins). Niche-specialized agencies command 1–2x premium over generalists." },
-      { question: "How do I retain recruiters after acquiring a staffing agency?", answer: "Offer stay bonuses (15–25% of annual compensation) vesting over 12–18 months, implement transparent commission structures, and provide clear career progression. Top billers generate disproportionate revenue — losing 2–3 key recruiters can cut revenue by 30–50%." },
-      { question: "Is staffing a good industry for a buy-and-build strategy?", answer: "Yes — back-office synergies of 15–25% are achievable by centralizing payroll, billing, compliance, and technology. Combining niche specializations under one platform creates cross-selling opportunities, and platforms with $10M+ EBITDA trade at materially higher multiples than individual agencies." },
+      { question: "What is a staffing agency worth in terms of EBITDA multiples?", answer: "Temp-heavy agencies sell for 3-5x EBITDA, permanent placement agencies for 2-4x (volatile revenue), and contract/professional staffing for 4-6x (recurring + higher margins). Niche-specialized agencies command 1-2x premium over generalists." },
+      { question: "How do I retain recruiters after acquiring a staffing agency?", answer: "Offer stay bonuses (15-25% of annual compensation) vesting over 12-18 months, implement transparent commission structures, and provide clear career progression. Top billers generate disproportionate revenue - losing 2-3 key recruiters can cut revenue by 30-50%." },
+      { question: "Is staffing a good industry for a buy-and-build strategy?", answer: "Yes - back-office synergies of 15-25% are achievable by centralizing payroll, billing, compliance, and technology. Combining niche specializations under one platform creates cross-selling opportunities, and platforms with $10M+ EBITDA trade at materially higher multiples than individual agencies." },
     ],
   },
 
@@ -8999,7 +8999,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the best industry for a search fund?", answer: "Insurance brokerage, HVAC & home services, managed IT (MSP), dental practices, waste management, and accounting firms consistently rank highest. They score well on recurring revenue, fragmentation, recession resistance, margin profile, and exit optionality." },
-      { question: "How do I choose an industry for ETA?", answer: "Use the 8-factor framework: (1) recurring revenue, (2) fragmentation, (3) recession resistance, (4) owner succession opportunity, (5) margin profile, (6) capital intensity, (7) complexity & regulatory burden, (8) exit optionality. Score each industry 1–5 on each factor and weight by your priorities." },
+      { question: "How do I choose an industry for ETA?", answer: "Use the 8-factor framework: (1) recurring revenue, (2) fragmentation, (3) recession resistance, (4) owner succession opportunity, (5) margin profile, (6) capital intensity, (7) complexity & regulatory burden, (8) exit optionality. Score each industry 1-5 on each factor and weight by your priorities." },
     ],
   },
 
@@ -9007,13 +9007,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-digital-marketing-agency",
     title: "Acquiring a Digital Marketing Agency",
     description:
-      "Agency acquisition guide: revenue models (retainer vs. project), key metrics (revenue per employee, net retention), valuation (3–6x EBITDA), due diligence, and post-acquisition playbook.",
+      "Agency acquisition guide: revenue models (retainer vs. project), key metrics (revenue per employee, net retention), valuation (3-6x EBITDA), due diligence, and post-acquisition playbook.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Digital Marketing Agency: The ETA Playbook",
     ogDescription:
-      "120,000+ agencies, 60–80% retainer revenue, 3–6x EBITDA. How to evaluate, value, and grow a digital marketing agency acquisition.",
+      "120,000+ agencies, 60-80% retainer revenue, 3-6x EBITDA. How to evaluate, value, and grow a digital marketing agency acquisition.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9022,9 +9022,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Clutch", title: "Agency Industry Trends Report", year: 2025 },
     ],
     faqs: [
-      { question: "How much is a digital marketing agency worth?", answer: "Most digital marketing agencies sell for 3–6x EBITDA or 0.6–1.2x revenue. Premium factors include vertical specialization (+1x), 80%+ recurring retainer revenue (+1x), strong management team, and proven growth. Founder-dependent agencies with project-based revenue trade at significant discounts." },
-      { question: "What type of marketing agency is the best acquisition target?", answer: "Niche/vertical agencies specializing in one industry (healthcare, legal, SaaS) make the strongest targets — higher retention, less price competition, premium rates. Ideal: 70%+ retainer revenue, no client above 15% of revenue, and performance-oriented services that demonstrate measurable ROI." },
-      { question: "How do I retain agency clients after acquisition?", answer: "Meet every client within 30 days. Retain key account managers with bonuses vesting over 12–18 months. Document all processes and create SOPs. The account manager relationship is often more important to the client than the agency brand itself." },
+      { question: "How much is a digital marketing agency worth?", answer: "Most digital marketing agencies sell for 3-6x EBITDA or 0.6-1.2x revenue. Premium factors include vertical specialization (+1x), 80%+ recurring retainer revenue (+1x), strong management team, and proven growth. Founder-dependent agencies with project-based revenue trade at significant discounts." },
+      { question: "What type of marketing agency is the best acquisition target?", answer: "Niche/vertical agencies specializing in one industry (healthcare, legal, SaaS) make the strongest targets - higher retention, less price competition, premium rates. Ideal: 70%+ retainer revenue, no client above 15% of revenue, and performance-oriented services that demonstrate measurable ROI." },
+      { question: "How do I retain agency clients after acquisition?", answer: "Meet every client within 30 days. Retain key account managers with bonuses vesting over 12-18 months. Document all processes and create SOPs. The account manager relationship is often more important to the client than the agency brand itself." },
     ],
   },
 
@@ -9032,7 +9032,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-pest-control-business",
     title: "Acquiring a Pest Control Business: The ETA Playbook",
     description:
-      "Pest control acquisition guide: recurring revenue model, licensing requirements, route density economics, valuation (4–7x EBITDA), and post-acquisition growth playbook.",
+      "Pest control acquisition guide: recurring revenue model, licensing requirements, route density economics, valuation (4-7x EBITDA), and post-acquisition growth playbook.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
@@ -9044,19 +9044,19 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IBISWorld", title: "Pest Control Industry in the US", year: 2024 },
       { name: "NPMA", title: "State of the Pest Control Industry Report", year: 2024 },
-      { name: "Rollins Inc.", title: "Annual Report — Industry Overview", year: 2024 },
+      { name: "Rollins Inc.", title: "Annual Report - Industry Overview", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a pest control business worth?", answer: "Most trade at 3–6x EBITDA. Companies with 70%+ recurring revenue command 5–6x+. Revenue-based pricing of 1–2x annual recurring revenue is common for smaller operators. Premium factors: strong route density, diversified services (general pest + termite), low customer concentration, and an independent management team." },
-      { question: "What makes pest control a good acquisition target?", answer: "70–85% recurring revenue, licensing barriers to entry, recession-resistant demand, route-density economics creating local moats, and 23,000+ fragmented operators. Operating margins of 15–25% are typical. The buy-and-build playbook is proven by Rollins and Rentokil." },
-      { question: "How do I convert one-time customers to recurring plans?", answer: "Train technicians to present plans after every initial treatment — the highest-conversion moment. Offer incentives for sign-ups, create tiered plan options (basic/premium/ultimate), and a well-executed program can increase recurring revenue from 50% to 70%+ within 12–18 months." },
+      { question: "How much is a pest control business worth?", answer: "Most trade at 3-6x EBITDA. Companies with 70%+ recurring revenue command 5-6x+. Revenue-based pricing of 1-2x annual recurring revenue is common for smaller operators. Premium factors: strong route density, diversified services (general pest + termite), low customer concentration, and an independent management team." },
+      { question: "What makes pest control a good acquisition target?", answer: "70-85% recurring revenue, licensing barriers to entry, recession-resistant demand, route-density economics creating local moats, and 23,000+ fragmented operators. Operating margins of 15-25% are typical. The buy-and-build playbook is proven by Rollins and Rentokil." },
+      { question: "How do I convert one-time customers to recurring plans?", answer: "Train technicians to present plans after every initial treatment - the highest-conversion moment. Offer incentives for sign-ups, create tiered plan options (basic/premium/ultimate), and a well-executed program can increase recurring revenue from 50% to 70%+ within 12-18 months." },
     ],
   },
   {
     slug: "acquiring-roofing-business",
     title: "Acquiring a Roofing Business: The ETA Playbook",
     description:
-      "Roofing contractor acquisition guide: residential vs. commercial, insurance restoration revenue, crew management, valuation (3–5x EBITDA), and post-acquisition growth playbook.",
+      "Roofing contractor acquisition guide: residential vs. commercial, insurance restoration revenue, crew management, valuation (3-5x EBITDA), and post-acquisition growth playbook.",
     readTime: "14 min read",
     tag: "Playbook",
     category: "Industry Playbooks",
@@ -9071,9 +9071,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "GAF", title: "State of the Roofing Industry Report", year: 2025 },
     ],
     faqs: [
-      { question: "How much is a roofing business worth?", answer: "Most trade at 2.5–5x EBITDA. Normalize for storm cycles — a company showing $2M EBITDA in a banner year but averaging $1.2M over five years should be valued on the normalized figure. Diversified revenue (retail + commercial + maintenance), EMR below 0.85, and manufacturer certifications support premium multiples." },
-      { question: "What are the biggest risks when buying a roofing company?", answer: "Storm dependency (revenue swings dramatically), worker classification issues (1099 vs. W-2), high WC/insurance costs (20–40% of payroll), warranty liabilities that transfer with the business, and seasonal cash flow challenges in northern climates." },
-      { question: "How do I build recurring revenue in a roofing business?", answer: "Create annual inspection and maintenance programs ($150–$300 residential, $500–$5,000+ commercial). Most roofers install a roof and never contact the customer again. Target 20–30% penetration on your installed base within two years. Commercial maintenance contracts provide non-seasonal revenue." },
+      { question: "How much is a roofing business worth?", answer: "Most trade at 2.5-5x EBITDA. Normalize for storm cycles - a company showing $2M EBITDA in a banner year but averaging $1.2M over five years should be valued on the normalized figure. Diversified revenue (retail + commercial + maintenance), EMR below 0.85, and manufacturer certifications support premium multiples." },
+      { question: "What are the biggest risks when buying a roofing company?", answer: "Storm dependency (revenue swings dramatically), worker classification issues (1099 vs. W-2), high WC/insurance costs (20-40% of payroll), warranty liabilities that transfer with the business, and seasonal cash flow challenges in northern climates." },
+      { question: "How do I build recurring revenue in a roofing business?", answer: "Create annual inspection and maintenance programs ($150-$300 residential, $500-$5,000+ commercial). Most roofers install a roof and never contact the customer again. Target 20-30% penetration on your installed base within two years. Commercial maintenance contracts provide non-seasonal revenue." },
     ],
   },
 
@@ -9081,7 +9081,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-cleaning-business",
     title: "Acquiring a Cleaning Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a commercial or residential cleaning business — recurring revenue, labor management, route density, and scaling strategies.",
+      "How to evaluate, acquire, and grow a commercial or residential cleaning business - recurring revenue, labor management, route density, and scaling strategies.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9095,8 +9095,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "ISSA", title: "Cleaning Industry Market Size Study", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a cleaning business worth?", answer: "Commercial cleaning businesses typically trade at 3–6x EBITDA, with contract-based businesses at the higher end. Residential cleaning companies trade at 2–4x EBITDA due to higher customer churn and lower barriers to entry. Key premium factors: long-term contracts (3+ years), diversified customer base, low employee turnover, and recurring revenue above 80%." },
-      { question: "Is a cleaning business a good acquisition for ETA?", answer: "Yes — cleaning businesses are among the most ETA-friendly acquisition targets. They offer high recurring revenue (70–95% for commercial), low capex requirements, fragmented markets with clear consolidation opportunities, and straightforward operations that don't require technical expertise. The main challenge is labor management: turnover in cleaning averages 100–200% annually." },
+      { question: "How much is a cleaning business worth?", answer: "Commercial cleaning businesses typically trade at 3-6x EBITDA, with contract-based businesses at the higher end. Residential cleaning companies trade at 2-4x EBITDA due to higher customer churn and lower barriers to entry. Key premium factors: long-term contracts (3+ years), diversified customer base, low employee turnover, and recurring revenue above 80%." },
+      { question: "Is a cleaning business a good acquisition for ETA?", answer: "Yes - cleaning businesses are among the most ETA-friendly acquisition targets. They offer high recurring revenue (70-95% for commercial), low capex requirements, fragmented markets with clear consolidation opportunities, and straightforward operations that don't require technical expertise. The main challenge is labor management: turnover in cleaning averages 100-200% annually." },
     ],
   },
 
@@ -9104,7 +9104,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-insurance-agency",
     title: "Acquiring an Insurance Agency: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow an insurance agency — book of business analysis, commission structures, carrier appointments, and scaling strategies.",
+      "How to evaluate, acquire, and grow an insurance agency - book of business analysis, commission structures, carrier appointments, and scaling strategies.",
     readTime: "14 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9119,9 +9119,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "MarshBerry", title: "Insurance Distribution M&A Outlook", year: 2025 },
     ],
     faqs: [
-      { question: "How much is an independent insurance agency worth?", answer: "Smaller agencies ($500K–$3M revenue) trade at 1.0–2.8x annual commissions, with commercial lines and benefits books commanding higher multiples than personal lines. Larger agencies ($3M+ revenue) sell for 5–10x EBITDA, with platforms exceeding $20M commanding 10–15x from institutional buyers." },
-      { question: "What is the biggest risk when acquiring an insurance agency?", answer: "Producer and client retention during the ownership transition. If the departing owner personally manages a large share of commission revenue, clients may leave. Mitigate with a 12–24 month seller involvement period, retention-based earn-outs, and rigorous non-compete agreements." },
-      { question: "Can I use an SBA loan to buy an insurance agency?", answer: "Yes — insurance agencies are excellent SBA 7(a) candidates because of recurring commission revenue, high retention rates, and strong free cash flow. Buyers typically acquire with 10–20% equity down, plus 10–30% seller financing." },
+      { question: "How much is an independent insurance agency worth?", answer: "Smaller agencies ($500K-$3M revenue) trade at 1.0-2.8x annual commissions, with commercial lines and benefits books commanding higher multiples than personal lines. Larger agencies ($3M+ revenue) sell for 5-10x EBITDA, with platforms exceeding $20M commanding 10-15x from institutional buyers." },
+      { question: "What is the biggest risk when acquiring an insurance agency?", answer: "Producer and client retention during the ownership transition. If the departing owner personally manages a large share of commission revenue, clients may leave. Mitigate with a 12-24 month seller involvement period, retention-based earn-outs, and rigorous non-compete agreements." },
+      { question: "Can I use an SBA loan to buy an insurance agency?", answer: "Yes - insurance agencies are excellent SBA 7(a) candidates because of recurring commission revenue, high retention rates, and strong free cash flow. Buyers typically acquire with 10-20% equity down, plus 10-30% seller financing." },
     ],
   },
 
@@ -9129,7 +9129,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-accounting-practice",
     title: "Acquiring an Accounting Practice: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a CPA or accounting practice — client retention, service mix, valuation multiples, and advisory upsell strategies.",
+      "How to evaluate, acquire, and grow a CPA or accounting practice - client retention, service mix, valuation multiples, and advisory upsell strategies.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9144,9 +9144,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "AICPA", title: "Trends in the Supply of Accounting Graduates", year: 2024 },
     ],
     faqs: [
-      { question: "How much is an accounting practice worth?", answer: "Tax and bookkeeping practices sell for 0.8–1.2x annual revenue. Audit firms command 1.0–1.4x. Advisory-heavy practices reach 1.2–2.0x revenue or 5–8x EBITDA. Owner compensation must be normalized — many sole practitioners pay themselves $300K–$500K, well above the $120K–$200K replacement cost." },
+      { question: "How much is an accounting practice worth?", answer: "Tax and bookkeeping practices sell for 0.8-1.2x annual revenue. Audit firms command 1.0-1.4x. Advisory-heavy practices reach 1.2-2.0x revenue or 5-8x EBITDA. Owner compensation must be normalized - many sole practitioners pay themselves $300K-$500K, well above the $120K-$200K replacement cost." },
       { question: "Can a non-CPA buy an accounting practice?", answer: "It depends on the state. Most states require CPA firms to be majority-owned by licensed CPAs, but an increasing number allow non-CPA ownership under alternative practice structure provisions. Consult the target state's board of accountancy and consider structuring the deal with a licensed CPA partner." },
-      { question: "What is the biggest risk when buying an accounting practice?", answer: "Client attrition — when the trusted partner departs, 10–20% of clients may leave within 12 months if the transition is poorly managed. Mitigate with a 12–24 month seller involvement period, joint client meetings, retention-based earn-outs, and a communication strategy emphasizing continuity." },
+      { question: "What is the biggest risk when buying an accounting practice?", answer: "Client attrition - when the trusted partner departs, 10-20% of clients may leave within 12 months if the transition is poorly managed. Mitigate with a 12-24 month seller involvement period, joint client meetings, retention-based earn-outs, and a communication strategy emphasizing continuity." },
     ],
   },
 
@@ -9154,7 +9154,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-auto-repair-business",
     title: "Acquiring an Auto Repair Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow an auto repair business — technician retention, fleet accounts, equipment assessment, and multi-location expansion.",
+      "How to evaluate, acquire, and grow an auto repair business - technician retention, fleet accounts, equipment assessment, and multi-location expansion.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9168,8 +9168,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Auto Care Association", title: "Factbook & Industry Overview", year: 2024 },
     ],
     faqs: [
-      { question: "How much is an auto repair shop worth?", answer: "Auto repair businesses typically trade at 2.5–5x EBITDA or 40–60% of annual revenue. Premium factors: ASE-certified technicians, fleet accounts (recurring revenue), modern equipment, strong online reviews (4.5+ stars), multiple bays (6+), and a diversified service mix. Owner-operator shops with no management layer trade at the lower end." },
-      { question: "Is auto repair a good business to acquire?", answer: "Yes — auto repair checks many ETA boxes: essential non-discretionary service, recession-resistant demand (average vehicle age is 12.5 years, driving repair volume), high fragmentation (250,000+ shops in the US), recurring maintenance revenue, and low technology disruption risk. The main challenges are technician recruitment/retention and environmental compliance." },
+      { question: "How much is an auto repair shop worth?", answer: "Auto repair businesses typically trade at 2.5-5x EBITDA or 40-60% of annual revenue. Premium factors: ASE-certified technicians, fleet accounts (recurring revenue), modern equipment, strong online reviews (4.5+ stars), multiple bays (6+), and a diversified service mix. Owner-operator shops with no management layer trade at the lower end." },
+      { question: "Is auto repair a good business to acquire?", answer: "Yes - auto repair checks many ETA boxes: essential non-discretionary service, recession-resistant demand (average vehicle age is 12.5 years, driving repair volume), high fragmentation (250,000+ shops in the US), recurring maintenance revenue, and low technology disruption risk. The main challenges are technician recruitment/retention and environmental compliance." },
     ],
   },
 
@@ -9177,7 +9177,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-funeral-home",
     title: "Acquiring a Funeral Home: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a funeral home business — pre-need revenue, cremation trends, regulatory compliance, and community-based competitive moats.",
+      "How to evaluate, acquire, and grow a funeral home business - pre-need revenue, cremation trends, regulatory compliance, and community-based competitive moats.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9191,7 +9191,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IBISWorld", title: "Funeral Homes & Services Industry Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a funeral home worth?", answer: "Funeral homes typically trade at 4–7x EBITDA or $3,000–$6,000 per call (annual service volume). Premium factors: pre-need backlog (prepaid contracts), owned real estate, multiple locations, strong community reputation, and a balanced cremation/burial mix. Single-location homes dependent on one funeral director trade at lower multiples." },
+      { question: "How much is a funeral home worth?", answer: "Funeral homes typically trade at 4-7x EBITDA or $3,000-$6,000 per call (annual service volume). Premium factors: pre-need backlog (prepaid contracts), owned real estate, multiple locations, strong community reputation, and a balanced cremation/burial mix. Single-location homes dependent on one funeral director trade at lower multiples." },
       { question: "Why are funeral homes attractive for ETA?", answer: "Funeral homes offer non-cyclical demand (death rate is predictable), high barriers to entry (licensing, real estate, community trust), pre-need revenue (prepaid contracts create predictable future cash flow), strong community moats (families return generation after generation), and a massive succession wave (average owner age is 60+). Cremation growth is shifting the industry but also creating margin opportunities." },
     ],
   },
@@ -9200,7 +9200,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-gym-fitness",
     title: "Acquiring a Gym or Fitness Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a gym or fitness studio — membership economics, lease analysis, equipment assessment, and multi-location expansion.",
+      "How to evaluate, acquire, and grow a gym or fitness studio - membership economics, lease analysis, equipment assessment, and multi-location expansion.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9214,8 +9214,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IBISWorld", title: "Gym, Health & Fitness Clubs Industry Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a gym or fitness studio worth?", answer: "Gyms typically trade at 4–7x EBITDA for established operations with strong membership bases. Revenue per square foot ($30–$80/sqft for traditional gyms, $100–$200+ for boutique studios) is a key metric. Franchise locations may trade at a premium due to brand recognition. Key valuation drivers: member count and churn rate, lease terms, equipment age, and ancillary revenue (personal training, retail, classes)." },
-      { question: "What is the biggest risk when buying a gym?", answer: "Lease terms. Gyms are capital-intensive to build out and impossible to relocate. A short remaining lease term or above-market rent can destroy economics. Also watch for high member churn (above 30–40% annually is a red flag), deferred equipment maintenance, and over-reliance on a single trainer or class instructor for member retention." },
+      { question: "How much is a gym or fitness studio worth?", answer: "Gyms typically trade at 4-7x EBITDA for established operations with strong membership bases. Revenue per square foot ($30-$80/sqft for traditional gyms, $100-$200+ for boutique studios) is a key metric. Franchise locations may trade at a premium due to brand recognition. Key valuation drivers: member count and churn rate, lease terms, equipment age, and ancillary revenue (personal training, retail, classes)." },
+      { question: "What is the biggest risk when buying a gym?", answer: "Lease terms. Gyms are capital-intensive to build out and impossible to relocate. A short remaining lease term or above-market rent can destroy economics. Also watch for high member churn (above 30-40% annually is a red flag), deferred equipment maintenance, and over-reliance on a single trainer or class instructor for member retention." },
     ],
   },
 
@@ -9223,7 +9223,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-home-healthcare",
     title: "Acquiring a Home Healthcare Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a home healthcare agency — Medicare certification, payer mix, staffing, compliance, and geographic expansion strategies.",
+      "How to evaluate, acquire, and grow a home healthcare agency - Medicare certification, payer mix, staffing, compliance, and geographic expansion strategies.",
     readTime: "14 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9237,8 +9237,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IBISWorld", title: "Home Care Providers Industry Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a home healthcare agency worth?", answer: "Medicare-certified home health agencies trade at 6–10x EBITDA, with premium agencies (strong survey history, diverse payer mix, multiple locations) at the high end. Non-medical/companion care agencies trade at 3–5x EBITDA. Key valuation drivers: Medicare certification status, patient census, payer mix, compliance history, and geographic coverage." },
-      { question: "Why is home healthcare attractive for ETA?", answer: "Massive demographic tailwind (10,000 Americans turn 65 daily), recurring revenue from Medicare/Medicaid reimbursement, high fragmentation (33,000+ agencies in the US), growing preference for home-based care over institutional settings, and strong regulatory moats (Medicare certification takes 12–18 months to obtain, creating barriers to entry)." },
+      { question: "How much is a home healthcare agency worth?", answer: "Medicare-certified home health agencies trade at 6-10x EBITDA, with premium agencies (strong survey history, diverse payer mix, multiple locations) at the high end. Non-medical/companion care agencies trade at 3-5x EBITDA. Key valuation drivers: Medicare certification status, patient census, payer mix, compliance history, and geographic coverage." },
+      { question: "Why is home healthcare attractive for ETA?", answer: "Massive demographic tailwind (10,000 Americans turn 65 daily), recurring revenue from Medicare/Medicaid reimbursement, high fragmentation (33,000+ agencies in the US), growing preference for home-based care over institutional settings, and strong regulatory moats (Medicare certification takes 12-18 months to obtain, creating barriers to entry)." },
     ],
   },
 
@@ -9246,7 +9246,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-car-wash-business",
     title: "Acquiring a Car Wash Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a car wash business — membership models, equipment assessment, location analysis, and multi-site expansion strategies.",
+      "How to evaluate, acquire, and grow a car wash business - membership models, equipment assessment, location analysis, and multi-site expansion strategies.",
     readTime: "12 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9260,8 +9260,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IBISWorld", title: "Car Wash & Auto Detailing Industry Report", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a car wash worth?", answer: "Express tunnel car washes with strong membership programs trade at 6–10x EBITDA. Self-serve and in-bay automatic washes trade at 3–5x EBITDA. Key metrics: membership count and penetration rate, wash count per day, revenue per car, and real estate value. Membership-heavy operations command premium valuations due to recurring revenue predictability." },
-      { question: "Why are car washes attractive for ETA?", answer: "Car washes offer recurring membership revenue (unlimited wash plans at $20–$40/month), low labor requirements (express tunnels need 3–5 employees), real estate appreciation, high operating leverage (fixed costs with variable revenue), and a massive fragmentation opportunity (80%+ of car washes are independently owned). The industry is also consolidating rapidly, creating strong exit opportunities." },
+      { question: "How much is a car wash worth?", answer: "Express tunnel car washes with strong membership programs trade at 6-10x EBITDA. Self-serve and in-bay automatic washes trade at 3-5x EBITDA. Key metrics: membership count and penetration rate, wash count per day, revenue per car, and real estate value. Membership-heavy operations command premium valuations due to recurring revenue predictability." },
+      { question: "Why are car washes attractive for ETA?", answer: "Car washes offer recurring membership revenue (unlimited wash plans at $20-$40/month), low labor requirements (express tunnels need 3-5 employees), real estate appreciation, high operating leverage (fixed costs with variable revenue), and a massive fragmentation opportunity (80%+ of car washes are independently owned). The industry is also consolidating rapidly, creating strong exit opportunities." },
     ],
   },
 
@@ -9269,7 +9269,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-daycare-childcare",
     title: "Acquiring a Daycare or Childcare Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a daycare or childcare center — licensing, enrollment optimization, staff retention, and multi-location expansion.",
+      "How to evaluate, acquire, and grow a daycare or childcare center - licensing, enrollment optimization, staff retention, and multi-location expansion.",
     readTime: "13 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9283,8 +9283,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Child Care Aware", title: "State of Child Care in America", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a daycare business worth?", answer: "Childcare centers typically trade at 5–8x EBITDA for licensed, well-established operations. Key valuation drivers: enrollment vs. licensed capacity (above 85% is strong), waitlist length, facility condition and lease terms, staff tenure, licensing history (no violations), and location demographics (dual-income households, population growth). Centers with government subsidy contracts may trade at a premium." },
-      { question: "Why is childcare attractive for ETA?", answer: "Essential, non-discretionary service with growing demand (dual-income families, government subsidies). Recurring tuition revenue with 85–95% retention. Community-based moats (parents choose proximity and trust). Massive fragmentation (most centers are single-location). Demographic tailwind as government invests in early childhood education. Waitlists common in growing suburbs — demand exceeds supply." },
+      { question: "How much is a daycare business worth?", answer: "Childcare centers typically trade at 5-8x EBITDA for licensed, well-established operations. Key valuation drivers: enrollment vs. licensed capacity (above 85% is strong), waitlist length, facility condition and lease terms, staff tenure, licensing history (no violations), and location demographics (dual-income households, population growth). Centers with government subsidy contracts may trade at a premium." },
+      { question: "Why is childcare attractive for ETA?", answer: "Essential, non-discretionary service with growing demand (dual-income families, government subsidies). Recurring tuition revenue with 85-95% retention. Community-based moats (parents choose proximity and trust). Massive fragmentation (most centers are single-location). Demographic tailwind as government invests in early childhood education. Waitlists common in growing suburbs - demand exceeds supply." },
     ],
   },
 
@@ -9292,7 +9292,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-moving-company",
     title: "Acquiring a Moving Company: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a moving company — USDOT authority, fleet management, seasonal patterns, and corporate relocation accounts.",
+      "How to evaluate, acquire, and grow a moving company - USDOT authority, fleet management, seasonal patterns, and corporate relocation accounts.",
     readTime: "12 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9306,8 +9306,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "American Moving & Storage Association", title: "Industry Data", year: 2024 },
     ],
     faqs: [
-      { question: "How much is a moving company worth?", answer: "Moving companies typically trade at 3–5x EBITDA. Premium factors: corporate relocation contracts (recurring), strong online reviews (4.5+ stars), diverse revenue mix (local + long-distance + storage), owned fleet in good condition, and experienced crew retention. Companies dependent on seasonal residential moves with no corporate accounts trade at the lower end." },
-      { question: "What should you look for when buying a moving company?", answer: "Critical due diligence areas: USDOT operating authority and compliance history, insurance coverage and claims record, fleet age and condition, crew quality and turnover, seasonal revenue patterns (peak May–September), online reputation (Google and Yelp reviews are critical for lead generation), storage revenue, and customer mix (residential vs. commercial vs. government/military)." },
+      { question: "How much is a moving company worth?", answer: "Moving companies typically trade at 3-5x EBITDA. Premium factors: corporate relocation contracts (recurring), strong online reviews (4.5+ stars), diverse revenue mix (local + long-distance + storage), owned fleet in good condition, and experienced crew retention. Companies dependent on seasonal residential moves with no corporate accounts trade at the lower end." },
+      { question: "What should you look for when buying a moving company?", answer: "Critical due diligence areas: USDOT operating authority and compliance history, insurance coverage and claims record, fleet age and condition, crew quality and turnover, seasonal revenue patterns (peak May-September), online reputation (Google and Yelp reviews are critical for lead generation), storage revenue, and customer mix (residential vs. commercial vs. government/military)." },
     ],
   },
 
@@ -9315,7 +9315,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-electrical-contractor",
     title: "Acquiring an Electrical Contracting Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow an electrical contracting company — licensing requirements, recurring service contracts, commercial vs residential mix, and workforce development.",
+      "How to evaluate, acquire, and grow an electrical contracting company - licensing requirements, recurring service contracts, commercial vs residential mix, and workforce development.",
     readTime: "12 min read",
     tag: "Industry",
     category: "Industry Playbooks",
@@ -9327,12 +9327,12 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IBISWorld", title: "Electrical Contractors Industry Report", year: 2024 },
       { name: "NECA", title: "Financial Performance Report", year: 2024 },
-      { name: "BLS", title: "Occupational Outlook Handbook — Electricians", year: 2024 },
+      { name: "BLS", title: "Occupational Outlook Handbook - Electricians", year: 2024 },
     ],
     faqs: [
-      { question: "What is an electrical contracting business worth?", answer: "Electrical contractors typically trade at 3–6x adjusted EBITDA. Companies with 40%+ recurring service revenue command the upper end, while project-heavy firms trade lower. Workforce stability, multiple licensed electricians, and EV/solar growth exposure push multiples higher." },
-      { question: "What happens if the master electrician license holder leaves?", answer: "In many states, the master license is held personally by the owner. If that person departs, the business may lose its ability to pull permits. Mitigate with a 12–24 month transition, sponsoring journeymen through the master exam, and earn-outs that keep the seller engaged." },
-      { question: "Is EV charger installation a real growth opportunity for electrical contractors?", answer: "Yes — residential Level 2 installs run $1,500–$3,000 per unit, while commercial DC fast-charging stations can exceed $150,000. Federal NEVI funding, state rebates, and fleet electrification mandates are accelerating demand." },
+      { question: "What is an electrical contracting business worth?", answer: "Electrical contractors typically trade at 3-6x adjusted EBITDA. Companies with 40%+ recurring service revenue command the upper end, while project-heavy firms trade lower. Workforce stability, multiple licensed electricians, and EV/solar growth exposure push multiples higher." },
+      { question: "What happens if the master electrician license holder leaves?", answer: "In many states, the master license is held personally by the owner. If that person departs, the business may lose its ability to pull permits. Mitigate with a 12-24 month transition, sponsoring journeymen through the master exam, and earn-outs that keep the seller engaged." },
+      { question: "Is EV charger installation a real growth opportunity for electrical contractors?", answer: "Yes - residential Level 2 installs run $1,500-$3,000 per unit, while commercial DC fast-charging stations can exceed $150,000. Federal NEVI funding, state rebates, and fleet electrification mandates are accelerating demand." },
     ],
   },
 
@@ -9340,13 +9340,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "acquiring-printing-business",
     title: "Acquiring a Printing Business: Industry Playbook",
     description:
-      "How to evaluate, acquire, and grow a commercial printing company — digital transformation, equipment assessment, recurring contract revenue, and wide-format expansion.",
+      "How to evaluate, acquire, and grow a commercial printing company - digital transformation, equipment assessment, recurring contract revenue, and wide-format expansion.",
     readTime: "11 min read",
     tag: "Industry",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Printing Business: The Complete ETA Playbook",
     ogDescription:
-      "Navigate the evolving printing industry — equipment valuation, digital transformation, and building recurring revenue streams through managed print services.",
+      "Navigate the evolving printing industry - equipment valuation, digital transformation, and building recurring revenue streams through managed print services.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9354,8 +9354,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "PRINTING United Alliance", title: "State of the Industry", year: 2024 },
     ],
     faqs: [
-      { question: "Is buying a printing business a good investment?", answer: "Printing businesses can be excellent acquisitions at 2.5–4.5x EBITDA due to industry consolidation and aging owners. The key is finding companies that have transitioned to digital and wide-format, have recurring contract revenue (managed print services, marketing fulfillment), and serve industries with ongoing print needs (healthcare, real estate, legal). Avoid companies dependent on commodity offset printing with declining volumes." },
-      { question: "What equipment should you evaluate in a printing acquisition?", answer: "Focus on: age and condition of digital presses (5–7 year useful life), wide-format capabilities (growing segment), finishing equipment (binding, cutting, laminating), color management systems, web-to-print software, and MIS/ERP systems. Deferred maintenance on major equipment can cost $100K–$500K. Also assess lease vs. owned equipment — leases may have transfer restrictions or above-market payments." },
+      { question: "Is buying a printing business a good investment?", answer: "Printing businesses can be excellent acquisitions at 2.5-4.5x EBITDA due to industry consolidation and aging owners. The key is finding companies that have transitioned to digital and wide-format, have recurring contract revenue (managed print services, marketing fulfillment), and serve industries with ongoing print needs (healthcare, real estate, legal). Avoid companies dependent on commodity offset printing with declining volumes." },
+      { question: "What equipment should you evaluate in a printing acquisition?", answer: "Focus on: age and condition of digital presses (5-7 year useful life), wide-format capabilities (growing segment), finishing equipment (binding, cutting, laminating), color management systems, web-to-print software, and MIS/ERP systems. Deferred maintenance on major equipment can cost $100K-$500K. Also assess lease vs. owned equipment - leases may have transfer restrictions or above-market payments." },
     ],
   },
 
@@ -9368,7 +9368,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "7 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
-    ogTitle: "ETA vs. Startups vs. Franchises — Which Path to Business Ownership?",
+    ogTitle: "ETA vs. Startups vs. Franchises - Which Path to Business Ownership?",
     ogDescription:
       "90% startup failure vs ~15% franchise vs ~33% ETA. Compare risk, returns, capital needs, and lifestyle to find your path.",
     datePublished: "2024-12-12",
@@ -9378,8 +9378,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "International Franchise Association", title: "Franchise Business Economic Outlook", year: 2024 },
     ],
     faqs: [
-      { question: "Is ETA less risky than starting a startup?", answer: "Yes, significantly. Search funds acquire existing profitable businesses with proven cash flows, reducing execution risk. About 67% of traditional search funds complete an acquisition, and the acquired businesses already have revenue, customers, and employees — unlike a startup starting from zero." },
-      { question: "How much money do I need to start a search fund vs a startup?", answer: "A traditional search fund raises $400K–$600K for the search phase from investors. A self-funded search requires $50K–$150K in personal savings. By contrast, startups often need $0–$50K to launch but require millions in VC funding to scale, with far less certainty of success." },
+      { question: "Is ETA less risky than starting a startup?", answer: "Yes, significantly. Search funds acquire existing profitable businesses with proven cash flows, reducing execution risk. About 67% of traditional search funds complete an acquisition, and the acquired businesses already have revenue, customers, and employees - unlike a startup starting from zero." },
+      { question: "How much money do I need to start a search fund vs a startup?", answer: "A traditional search fund raises $400K-$600K for the search phase from investors. A self-funded search requires $50K-$150K in personal savings. By contrast, startups often need $0-$50K to launch but require millions in VC funding to scale, with far less certainty of success." },
     ],
   },
   {
@@ -9390,7 +9390,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "11 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
-    ogTitle: "The Psychology of the Search — Mindset & Resilience for Searchers",
+    ogTitle: "The Psychology of the Search - Mindset & Resilience for Searchers",
     ogDescription:
       "50+ NDAs, 5-10 LOIs, 1-2 broken deals before closing. Learn the mental health strategies that keep successful searchers going.",
     datePublished: "2025-01-09",
@@ -9400,7 +9400,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Yale SOM", title: "Eight Questions Aspiring Search Fund Entrepreneurs Should Consider", year: 2024 },
     ],
     faqs: [
-      { question: "What psychological challenges do search fund entrepreneurs face?", answer: "Common challenges include: prolonged uncertainty during the search phase (18–24 months of rejection), identity loss (leaving a structured career), isolation (solo decision-making without colleagues), imposter syndrome (becoming CEO of a company), decision fatigue (evaluating dozens of targets), and the emotional toll of deals falling through." },
+      { question: "What psychological challenges do search fund entrepreneurs face?", answer: "Common challenges include: prolonged uncertainty during the search phase (18-24 months of rejection), identity loss (leaving a structured career), isolation (solo decision-making without colleagues), imposter syndrome (becoming CEO of a company), decision fatigue (evaluating dozens of targets), and the emotional toll of deals falling through." },
       { question: "How can searchers maintain mental health during the search?", answer: "Effective strategies include: establishing a peer group of fellow searchers, maintaining regular exercise and sleep routines, setting weekly structure and goals (treat the search like a job), working with a coach or mentor, communicating regularly with investors for support, taking real breaks, and celebrating small wins along the way." },
       { question: "What personal qualities predict search fund success?", answer: "Research and investor experience suggest that resilience (bouncing back from failed deals), intellectual curiosity (learning new industries quickly), emotional intelligence (building trust with sellers and employees), self-awareness (knowing your strengths and gaps), and coachability (accepting feedback from investors and advisors) are the strongest predictors of success." },
     ],
@@ -9415,7 +9415,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "Tools & Technology for Search Fund Entrepreneurs",
     ogDescription:
-      "HubSpot, Pipedrive, DocuSign, Axial, LinkedIn Sales Navigator, ChatGPT — the complete tech stack for every search phase.",
+      "HubSpot, Pipedrive, DocuSign, Axial, LinkedIn Sales Navigator, ChatGPT - the complete tech stack for every search phase.",
     datePublished: "2025-01-23",
     dateModified: "2025-04-17",
     sources: [
@@ -9435,7 +9435,7 @@ export const allArticles: ArticleMeta[] = [
     readTime: "12 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
-    ogTitle: "Pre-Search Preparation — How to Transition Your Career to ETA",
+    ogTitle: "Pre-Search Preparation - How to Transition Your Career to ETA",
     ogDescription:
       "6-12 months of preparation separates successful searchers from the rest. Industry thesis, financial runway, skills, and network building.",
     datePublished: "2025-02-06",
@@ -9446,7 +9446,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Do I need an MBA to start a search fund?", answer: "No, but it helps significantly for traditional search funds. About 85% of traditional searchers have MBAs (primarily from top-20 programs), which provide investor networks and credibility. Self-funded searches are more accessible without an MBA, relying more on industry experience and personal capital." },
-      { question: "How much personal savings do I need before starting a search?", answer: "For a self-funded search, plan for $50K–$150K in personal capital plus 12–18 months of living expenses ($60K–$120K). For a traditional search, you need minimal personal capital but should have 6 months of savings as a buffer during the fundraising phase." },
+      { question: "How much personal savings do I need before starting a search?", answer: "For a self-funded search, plan for $50K-$150K in personal capital plus 12-18 months of living expenses ($60K-$120K). For a traditional search, you need minimal personal capital but should have 6 months of savings as a buffer during the fundraising phase." },
     ],
   },
 
@@ -9454,7 +9454,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-operating-partner",
     title: "The Search Fund Operating Partner Model",
     description:
-      "How to structure a search fund partnership — equity splits, role definitions, decision-making frameworks, legal agreements, and common failure modes.",
+      "How to structure a search fund partnership - equity splits, role definitions, decision-making frameworks, legal agreements, and common failure modes.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
@@ -9469,7 +9469,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "Should you have a partner for your search fund?", answer: "It depends on your strengths and the complexity of your search. Partnerships work best when partners have complementary skills (e.g., one is strong in operations and one in finance/deal-making) and aligned values. About 30% of search funds have co-searchers. Partnerships reduce individual risk but require clear role definitions and decision-making frameworks to avoid conflict." },
-      { question: "How should search fund partners split equity?", answer: "Most co-searcher teams split equity 50/50 during the search phase. Post-acquisition, the split may shift based on who takes the CEO role (typically 55–60% CEO, 40���45% COO/President). Vesting schedules (4-year with 1-year cliff) protect both partners. Always draft a buy-sell agreement that covers what happens if one partner wants to exit." },
+      { question: "How should search fund partners split equity?", answer: "Most co-searcher teams split equity 50/50 during the search phase. Post-acquisition, the split may shift based on who takes the CEO role (typically 55-60% CEO, 40���45% COO/President). Vesting schedules (4-year with 1-year cliff) protect both partners. Always draft a buy-sell agreement that covers what happens if one partner wants to exit." },
     ],
   },
 
@@ -9477,7 +9477,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-board-best-practices",
     title: "Search Fund Board Best Practices",
     description:
-      "How to build and manage an effective board after a search fund acquisition — composition, meeting cadence, materials, dynamics, and common CEO mistakes.",
+      "How to build and manage an effective board after a search fund acquisition - composition, meeting cadence, materials, dynamics, and common CEO mistakes.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
@@ -9491,8 +9491,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "NACD", title: "Private Company Governance Survey", year: 2024 },
     ],
     faqs: [
-      { question: "How should a search fund board be composed?", answer: "A typical search fund board has 3–5 members: 1–2 investor representatives (lead investors), 1 independent director with industry expertise, the CEO, and optionally 1 additional independent or investor seat. The best boards balance financial sophistication (investors) with operational relevance (industry experts). Avoid boards larger than 5 — they become unwieldy for a small business." },
-      { question: "How often should a search fund board meet?", answer: "Quarterly is standard for formal board meetings (2–3 hours each). In the first year post-acquisition, consider monthly meetings to provide closer oversight during the transition. Between meetings, send monthly financial dashboards and KPI updates. Schedule an annual strategy session (half-day or full-day) for deeper long-term planning." },
+      { question: "How should a search fund board be composed?", answer: "A typical search fund board has 3-5 members: 1-2 investor representatives (lead investors), 1 independent director with industry expertise, the CEO, and optionally 1 additional independent or investor seat. The best boards balance financial sophistication (investors) with operational relevance (industry experts). Avoid boards larger than 5 - they become unwieldy for a small business." },
+      { question: "How often should a search fund board meet?", answer: "Quarterly is standard for formal board meetings (2-3 hours each). In the first year post-acquisition, consider monthly meetings to provide closer oversight during the transition. Between meetings, send monthly financial dashboards and KPI updates. Schedule an annual strategy session (half-day or full-day) for deeper long-term planning." },
     ],
   },
 
@@ -9500,7 +9500,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-internship-guide",
     title: "Search Fund Internship Guide: Getting Started in ETA",
     description:
-      "How to find, secure, and make the most of a search fund internship — MBA programs, investor networks, skills development, and transitioning to your own search.",
+      "How to find, secure, and make the most of a search fund internship - MBA programs, investor networks, skills development, and transitioning to your own search.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
@@ -9514,8 +9514,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
-      { question: "How do you get a search fund internship?", answer: "Three main channels: (1) MBA programs with ETA clubs (Stanford, HBS, Booth, INSEAD, IESE) connect students with active searchers. (2) ETA conferences (Stanford Search Fund Conference, IESE Search Fund Conference, ETA events) provide networking opportunities. (3) Direct outreach to search fund investors who can introduce you to portfolio searchers. Most internships are 10–12 weeks during MBA summers." },
-      { question: "What do search fund interns do?", answer: "Typical responsibilities include: proprietary deal sourcing (cold outreach to business owners), preliminary financial analysis, industry research, CIM review, management meeting preparation, and supporting due diligence on active deals. The best internships give exposure to every phase of the search process. Compensation ranges from $2,000–$5,000/month, with some unpaid positions at earlier-stage searches." },
+      { question: "How do you get a search fund internship?", answer: "Three main channels: (1) MBA programs with ETA clubs (Stanford, HBS, Booth, INSEAD, IESE) connect students with active searchers. (2) ETA conferences (Stanford Search Fund Conference, IESE Search Fund Conference, ETA events) provide networking opportunities. (3) Direct outreach to search fund investors who can introduce you to portfolio searchers. Most internships are 10-12 weeks during MBA summers." },
+      { question: "What do search fund interns do?", answer: "Typical responsibilities include: proprietary deal sourcing (cold outreach to business owners), preliminary financial analysis, industry research, CIM review, management meeting preparation, and supporting due diligence on active deals. The best internships give exposure to every phase of the search process. Compensation ranges from $2,000-$5,000/month, with some unpaid positions at earlier-stage searches." },
     ],
   },
 
@@ -9523,7 +9523,7 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-deal-flow-crm",
     title: "Search Fund Deal Flow CRM: Building Your Pipeline System",
     description:
-      "How to build and manage an effective deal flow CRM for your search — tool selection, pipeline stages, outreach automation, tracking metrics, and converting proprietary leads.",
+      "How to build and manage an effective deal flow CRM for your search - tool selection, pipeline stages, outreach automation, tracking metrics, and converting proprietary leads.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Searcher Toolkit",
@@ -9537,8 +9537,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Search Fund Partners", title: "Best Practices in Deal Sourcing", year: 2024 },
     ],
     faqs: [
-      { question: "What CRM do search funds use?", answer: "Popular choices include: HubSpot Free/Starter (most common — free tier handles 1,000+ contacts), Affinity (relationship intelligence, popular with larger searches), Airtable (flexible pipeline tracking), DealCloud (purpose-built for deal flow), and even Google Sheets for early-stage searches. The best CRM is one you'll actually use consistently. Most successful searchers contact 1,500–3,000 business owners, so scalability matters." },
-      { question: "How do you track search fund deal flow?", answer: "Effective pipeline stages: (1) Universe — identified targets, (2) Contacted — initial outreach sent, (3) Engaged — owner responded with interest, (4) Preliminary Review — basic financials shared, (5) Deep Dive — CIM reviewed and management meetings, (6) LOI — formal offer submitted, (7) Due Diligence — post-LOI investigation, (8) Closed or Passed. Track conversion rates between stages, response rates by outreach channel, and time-in-stage to optimize your process." },
+      { question: "What CRM do search funds use?", answer: "Popular choices include: HubSpot Free/Starter (most common - free tier handles 1,000+ contacts), Affinity (relationship intelligence, popular with larger searches), Airtable (flexible pipeline tracking), DealCloud (purpose-built for deal flow), and even Google Sheets for early-stage searches. The best CRM is one you'll actually use consistently. Most successful searchers contact 1,500-3,000 business owners, so scalability matters." },
+      { question: "How do you track search fund deal flow?", answer: "Effective pipeline stages: (1) Universe - identified targets, (2) Contacted - initial outreach sent, (3) Engaged - owner responded with interest, (4) Preliminary Review - basic financials shared, (5) Deep Dive - CIM reviewed and management meetings, (6) LOI - formal offer submitted, (7) Due Diligence - post-LOI investigation, (8) Closed or Passed. Track conversion rates between stages, response rates by outreach channel, and time-in-stage to optimize your process." },
     ],
   },
 
@@ -9547,20 +9547,20 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-podcasts",
     title: "Top Search Fund Podcasts to Listen To",
     description:
-      "The best ETA and search fund podcasts — Think Like an Owner, Acquiring Minds, How2Exit, and more — with episode recommendations and a learning routine.",
+      "The best ETA and search fund podcasts - Think Like an Owner, Acquiring Minds, How2Exit, and more - with episode recommendations and a learning routine.",
     readTime: "8 min read",
     tag: "Resources",
     category: "Resources",
     ogTitle: "Top Search Fund Podcasts to Listen To",
     ogDescription:
-      "Think Like an Owner, Acquiring Minds, How2Exit, The SMB Podcast — the best podcasts for search fund entrepreneurs, investors, and operators.",
+      "Think Like an Owner, Acquiring Minds, How2Exit, The SMB Podcast - the best podcasts for search fund entrepreneurs, investors, and operators.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
       { name: "Apple Podcasts", title: "ETA & Business Acquisition Category", year: 2024 },
     ],
     faqs: [
-      { question: "What are the best search fund podcasts?", answer: "The top ETA podcasts are: (1) Think Like an Owner by Alex Dinos — deep interviews with search fund operators and investors, (2) Acquiring Minds by Will Smith — focused on real acquisition stories and lessons learned, (3) How2Exit — M&A-focused with practical deal insights, (4) The SMB Podcast — small business acquisition strategies, and (5) MainStreet Operator — operations-focused content for post-acquisition CEOs." },
+      { question: "What are the best search fund podcasts?", answer: "The top ETA podcasts are: (1) Think Like an Owner by Alex Dinos - deep interviews with search fund operators and investors, (2) Acquiring Minds by Will Smith - focused on real acquisition stories and lessons learned, (3) How2Exit - M&A-focused with practical deal insights, (4) The SMB Podcast - small business acquisition strategies, and (5) MainStreet Operator - operations-focused content for post-acquisition CEOs." },
       { question: "How should I use podcasts to learn about ETA?", answer: "Create a structured learning routine: listen during commutes or workouts, take notes on key insights, and follow up on recommended resources. Start with foundational episodes, then move to deal-specific content (sourcing, valuation, negotiation), and finally operational episodes (first 100 days, growth strategies)." },
     ],
   },
@@ -9569,13 +9569,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "best-books-buying-business",
     title: "The Best Books on Buying a Business",
     description:
-      "The essential reading list for aspiring acquirers — foundational books, search fund guides, valuation manuals, negotiation classics, and operations leadership.",
+      "The essential reading list for aspiring acquirers - foundational books, search fund guides, valuation manuals, negotiation classics, and operations leadership.",
     readTime: "9 min read",
     tag: "Resources",
     category: "Resources",
     ogTitle: "The Best Books on Buying a Business",
     ogDescription:
-      "HBR Guide to Buying a Small Business, Buy Then Build, The ETA Handbook — the must-read books for search fund entrepreneurs and first-time acquirers.",
+      "HBR Guide to Buying a Small Business, Buy Then Build, The ETA Handbook - the must-read books for search fund entrepreneurs and first-time acquirers.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9583,7 +9583,7 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "What is the best book about buying a small business?", answer: "The HBR Guide to Buying a Small Business by Richard Ruback and Royce Yudkoff is widely considered the definitive guide. Written by two Harvard Business School professors who created the ETA curriculum, it covers everything from search strategy to negotiation to post-acquisition management. Buy Then Build by Walker Deibel is the best book for self-funded searchers. The ETA Handbook provides a comprehensive operational guide." },
-      { question: "What books should search fund entrepreneurs read?", answer: "Essential reading: (1) HBR Guide to Buying a Small Business (Ruback/Yudkoff), (2) Buy Then Build (Walker Deibel), (3) The Stanford Search Fund Primer, (4) Getting to Yes (Fisher/Ury — negotiation), (5) The First 90 Days (Watkins — transition leadership), (6) Financial Intelligence (Berman/Knight — financial literacy), and (7) Good to Great (Collins — operational excellence). Add industry-specific books for your target sectors." },
+      { question: "What books should search fund entrepreneurs read?", answer: "Essential reading: (1) HBR Guide to Buying a Small Business (Ruback/Yudkoff), (2) Buy Then Build (Walker Deibel), (3) The Stanford Search Fund Primer, (4) Getting to Yes (Fisher/Ury - negotiation), (5) The First 90 Days (Watkins - transition leadership), (6) Financial Intelligence (Berman/Knight - financial literacy), and (7) Good to Great (Collins - operational excellence). Add industry-specific books for your target sectors." },
     ],
   },
 
@@ -9591,13 +9591,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-communities",
     title: "Search Fund Communities & Networks: Where to Connect",
     description:
-      "Where to find and connect with other search fund entrepreneurs — online communities, MBA clubs, regional groups, investor networks, and European/Latin American ETA communities.",
+      "Where to find and connect with other search fund entrepreneurs - online communities, MBA clubs, regional groups, investor networks, and European/Latin American ETA communities.",
     readTime: "8 min read",
     tag: "Resources",
     category: "Resources",
     ogTitle: "Search Fund Communities & Networks: Where to Connect",
     ogDescription:
-      "SearchFunder, ETA Slack groups, MBA clubs, regional meetups — the complete guide to building your network in the search fund ecosystem.",
+      "SearchFunder, ETA Slack groups, MBA clubs, regional meetups - the complete guide to building your network in the search fund ecosystem.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -9615,13 +9615,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "mba-programs-eta",
     title: "Top MBA Programs for Entrepreneurship Through Acquisition",
     description:
-      "The best MBA programs for ETA — Stanford, HBS, Booth, Wharton, INSEAD, IESE, and more — with ETA club details, courses, alumni networks, and investor connections.",
+      "The best MBA programs for ETA - Stanford, HBS, Booth, Wharton, INSEAD, IESE, and more - with ETA club details, courses, alumni networks, and investor connections.",
     readTime: "10 min read",
     tag: "Resources",
     category: "Resources",
     ogTitle: "Top MBA Programs for Entrepreneurship Through Acquisition",
     ogDescription:
-      "Stanford GSB, HBS, Booth, INSEAD, IESE — which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems.",
+      "Stanford GSB, HBS, Booth, INSEAD, IESE - which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -9630,9 +9630,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business School", title: "Rock Center for Entrepreneurship", url: "https://www.hbs.edu/entrepreneurs/Pages/default.aspx", year: 2024 },
     ],
     faqs: [
-      { question: "Which MBA programs are best for search funds?", answer: "The top 5 MBA programs for ETA: (1) Stanford GSB — pioneered search funds in 1984, largest ETA club, deepest investor network, (2) Harvard Business School — Ruback/Yudkoff course, strong alumni base, (3) Chicago Booth — growing ETA community, strong finance curriculum, (4) INSEAD — European ETA leader, international network, (5) IESE Barcelona — largest European search fund conference, Spanish/LatAm focus. Kellogg, Wharton, Columbia, and Darden also have growing programs." },
+      { question: "Which MBA programs are best for search funds?", answer: "The top 5 MBA programs for ETA: (1) Stanford GSB - pioneered search funds in 1984, largest ETA club, deepest investor network, (2) Harvard Business School - Ruback/Yudkoff course, strong alumni base, (3) Chicago Booth - growing ETA community, strong finance curriculum, (4) INSEAD - European ETA leader, international network, (5) IESE Barcelona - largest European search fund conference, Spanish/LatAm focus. Kellogg, Wharton, Columbia, and Darden also have growing programs." },
       { question: "Is an MBA worth it for search funds?", answer: "For traditional search funds: an MBA from a target program provides investor access, credibility, a peer network, and structured learning. The ROI is high if you plan to raise investor capital. For self-funded searches: an MBA is less necessary since you're using SBA financing rather than investor capital. Industry expertise and operational experience can substitute for the MBA brand. Many successful self-funded searchers have no MBA." },
-      { question: "Do I need an MBA to start a search fund?", answer: "No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds. Self-funded searchers are less likely to have MBAs. The key advantages — investor networks, peer community, structured learning — can be partially replicated through conferences, accelerators, and mentorship. However, for traditional search funds raising investor capital, an MBA from a recognized program significantly eases fundraising." },
+      { question: "Do I need an MBA to start a search fund?", answer: "No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds. Self-funded searchers are less likely to have MBAs. The key advantages - investor networks, peer community, structured learning - can be partially replicated through conferences, accelerators, and mentorship. However, for traditional search funds raising investor capital, an MBA from a recognized program significantly eases fundraising." },
     ],
   },
 
@@ -9640,13 +9640,13 @@ export const allArticles: ArticleMeta[] = [
     slug: "search-fund-case-studies",
     title: "Search Fund Case Studies: Lessons from Real Deals",
     description:
-      "Anonymized case studies from real search fund acquisitions — a traditional search, a self-funded SBA deal, an international acquisition, a failed search, and a buy-and-build strategy.",
+      "Anonymized case studies from real search fund acquisitions - a traditional search, a self-funded SBA deal, an international acquisition, a failed search, and a buy-and-build strategy.",
     readTime: "12 min read",
     tag: "Resources",
     category: "Resources",
     ogTitle: "Search Fund Case Studies: Lessons from Real Deals",
     ogDescription:
-      "5 detailed case studies from real search fund acquisitions — successes, failures, and the lessons learned at each stage of the ETA journey.",
+      "5 detailed case studies from real search fund acquisitions - successes, failures, and the lessons learned at each stage of the ETA journey.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9713,7 +9713,7 @@ export const allArticles: ArticleMeta[] = [
   },
 
   // -----------------------------------------------------------------------
-  // Phase 3.3 — 22 gap-fill articles (P2/P3 from MASTER_CONTENT_PLAN)
+  // Phase 3.3 - 22 gap-fill articles (P2/P3 from MASTER_CONTENT_PLAN)
   // -----------------------------------------------------------------------
   {
     slug: "technology-due-diligence",
@@ -9750,7 +9750,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-23",
     sources: [
       { name: "IBBA", title: "Business Broker Industry Report", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Study — Deal Sourcing Channels", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Study - Deal Sourcing Channels", year: 2024 },
     ],
     faqs: [
       { question: "What are the best trade shows for finding acquisition targets?", answer: "The best trade shows depend on your target industry. Look for sector-specific events where business owners attend (not just employees). Industry association annual conferences, regional business expos, and franchise expos can all surface potential sellers. Focus on events with owner-operator attendance." },
@@ -9761,7 +9761,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "transition-service-agreement",
     title: "Transition Service Agreements (TSAs) in Business Acquisitions",
-    description: "Understanding transition service agreements — when you need them, key provisions, pricing models, and negotiation strategies for smooth post-closing transitions.",
+    description: "Understanding transition service agreements - when you need them, key provisions, pricing models, and negotiation strategies for smooth post-closing transitions.",
     readTime: "16 min read",
     tag: "Post-Acquisition",
     category: "Operations & Growth",
@@ -9783,12 +9783,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "competitive-moat-evaluation",
     title: "Evaluating Competitive Moats in Acquisition Targets",
-    description: "How to assess competitive advantages and economic moats when evaluating businesses for acquisition — switching costs, brand, network effects, and more.",
+    description: "How to assess competitive advantages and economic moats when evaluating businesses for acquisition - switching costs, brand, network effects, and more.",
     readTime: "16 min read",
     tag: "Due Diligence",
     category: "Deal Execution",
     ogTitle: "Evaluating Competitive Moats in Acquisition Targets: A Buyer's Framework",
-    ogDescription: "Learn how to identify and assess competitive moats — switching costs, network effects, brand strength, cost advantages, and regulatory barriers — during acquisition due diligence.",
+    ogDescription: "Learn how to identify and assess competitive moats - switching costs, network effects, brand strength, cost advantages, and regulatory barriers - during acquisition due diligence.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -9805,12 +9805,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "institutional-investors-search-funds",
     title: "Institutional Investors in Search Funds: Who They Are & What They Want",
-    description: "A guide to institutional search fund investors — family offices, endowments, dedicated funds — and what they look for when backing searchers.",
+    description: "A guide to institutional search fund investors - family offices, endowments, dedicated funds - and what they look for when backing searchers.",
     readTime: "16 min read",
     tag: "Fundraising",
     category: "Fundraising & Investors",
     ogTitle: "Institutional Investors in Search Funds: Who They Are & What They Want",
-    ogDescription: "Understand the institutional investors who back search funds — family offices, endowments, and dedicated funds. Learn what they look for, typical terms, and how to build relationships.",
+    ogDescription: "Understand the institutional investors who back search funds - family offices, endowments, and dedicated funds. Learn what they look for, typical terms, and how to build relationships.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -9827,7 +9827,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "effective-investor-meeting",
     title: "How to Run an Effective Investor Meeting for Your Search Fund",
-    description: "Practical strategies for running compelling search fund investor meetings — preparation, pitch structure, Q&A handling, and follow-up best practices.",
+    description: "Practical strategies for running compelling search fund investor meetings - preparation, pitch structure, Q&A handling, and follow-up best practices.",
     readTime: "16 min read",
     tag: "Fundraising",
     category: "Fundraising & Investors",
@@ -9849,7 +9849,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "merger-vs-acquisition",
     title: "Merger vs. Acquisition: Legal, Tax & Strategic Differences",
-    description: "Understanding the legal, tax, and strategic differences between mergers and acquisitions — structures, implications, and when to use each approach.",
+    description: "Understanding the legal, tax, and strategic differences between mergers and acquisitions - structures, implications, and when to use each approach.",
     readTime: "18 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -9863,15 +9863,15 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Law School Forum on Corporate Governance", title: "Merger vs. Acquisition Structures", year: 2024 },
     ],
     faqs: [
-      { question: "What is the legal difference between a merger and an acquisition?", answer: "In a merger, two companies combine to form a single entity — one or both cease to exist as separate legal entities. In an acquisition, one company purchases another, which may continue as a subsidiary or be absorbed. Mergers require shareholder approval from both entities; acquisitions may only need the target's approval." },
-      { question: "Which is better for tax purposes — merger or acquisition?", answer: "It depends on the structure. Tax-free reorganization mergers (Type A, B, or C under IRC Section 368) allow shareholders to defer capital gains. Asset acquisitions provide the buyer with a stepped-up tax basis but trigger immediate tax for the seller. Stock acquisitions preserve the target's tax attributes. Consult a tax advisor for your specific situation." },
-      { question: "Are search fund deals typically mergers or acquisitions?", answer: "Search fund deals are almost always structured as acquisitions — either asset purchases or stock purchases. Mergers are more common in larger corporate transactions where both entities have significant operations. The search fund model involves a newly formed entity acquiring a target, which naturally fits an acquisition structure." },
+      { question: "What is the legal difference between a merger and an acquisition?", answer: "In a merger, two companies combine to form a single entity - one or both cease to exist as separate legal entities. In an acquisition, one company purchases another, which may continue as a subsidiary or be absorbed. Mergers require shareholder approval from both entities; acquisitions may only need the target's approval." },
+      { question: "Which is better for tax purposes - merger or acquisition?", answer: "It depends on the structure. Tax-free reorganization mergers (Type A, B, or C under IRC Section 368) allow shareholders to defer capital gains. Asset acquisitions provide the buyer with a stepped-up tax basis but trigger immediate tax for the seller. Stock acquisitions preserve the target's tax attributes. Consult a tax advisor for your specific situation." },
+      { question: "Are search fund deals typically mergers or acquisitions?", answer: "Search fund deals are almost always structured as acquisitions - either asset purchases or stock purchases. Mergers are more common in larger corporate transactions where both entities have significant operations. The search fund model involves a newly formed entity acquiring a target, which naturally fits an acquisition structure." },
     ],
   },
   {
     slug: "withholding-taxes-cross-border",
     title: "Withholding Taxes in Cross-Border Acquisitions",
-    description: "Understanding withholding tax obligations in international acquisitions — treaty networks, dividend/interest/royalty rates, and planning strategies.",
+    description: "Understanding withholding tax obligations in international acquisitions - treaty networks, dividend/interest/royalty rates, and planning strategies.",
     readTime: "16 min read",
     tag: "International",
     category: "Regional Guides",
@@ -9881,7 +9881,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-23",
     sources: [
       { name: "OECD", title: "Model Tax Convention on Income and on Capital", year: 2024 },
-      { name: "PwC", title: "Worldwide Tax Summaries — Withholding Tax Rates", year: 2024 },
+      { name: "PwC", title: "Worldwide Tax Summaries - Withholding Tax Rates", year: 2024 },
       { name: "Deloitte", title: "International Tax and Business Guide", year: 2024 },
     ],
     faqs: [
@@ -9893,7 +9893,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "mbo-exit-strategy",
     title: "Management Buyout (MBO) as an Exit Strategy",
-    description: "A comprehensive guide to management buyouts as exit strategies — structuring, financing, valuation, and managing conflicts of interest.",
+    description: "A comprehensive guide to management buyouts as exit strategies - structuring, financing, valuation, and managing conflicts of interest.",
     readTime: "14 min read",
     tag: "Exit Planning",
     category: "Deal Execution",
@@ -9904,7 +9904,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Harvard Business Review", title: "The Management Buyout", year: 2023 },
       { name: "CMBOR (Centre for Management Buy-Out Research)", title: "European Management Buyout Review", year: 2024 },
-      { name: "Bain & Company", title: "Global Private Equity Report — MBO Trends", year: 2024 },
+      { name: "Bain & Company", title: "Global Private Equity Report - MBO Trends", year: 2024 },
     ],
     faqs: [
       { question: "What is a management buyout (MBO)?", answer: "A management buyout is a transaction where a company's existing management team purchases the business from its current owners. MBOs are commonly used as succession solutions when the owner wants to exit but the management team wants to continue operating the business. Financing typically combines management equity, bank debt, and sometimes private equity or seller financing." },
@@ -9915,7 +9915,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "geographic-target-selection",
     title: "Geographic Considerations in Target Selection",
-    description: "How geographic factors influence acquisition target selection — local vs. remote deals, market density, relocation considerations, and regional economic analysis.",
+    description: "How geographic factors influence acquisition target selection - local vs. remote deals, market density, relocation considerations, and regional economic analysis.",
     readTime: "14 min read",
     tag: "Deal Sourcing",
     category: "Deal Execution",
@@ -9924,7 +9924,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study — Geographic Distribution", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study - Geographic Distribution", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "U.S. Census Bureau", title: "County Business Patterns", year: 2024 },
     ],
@@ -9937,7 +9937,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "nordic-entity-structures",
     title: "Nordic Entity Structures for Search Fund Acquisitions",
-    description: "A guide to entity structures for acquisitions in Sweden, Norway, Denmark, and Finland — corporate forms, tax regimes, and holding structures.",
+    description: "A guide to entity structures for acquisitions in Sweden, Norway, Denmark, and Finland - corporate forms, tax regimes, and holding structures.",
     readTime: "18 min read",
     tag: "International",
     category: "Regional Guides",
@@ -9959,7 +9959,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "swiss-entity-structures",
     title: "Swiss Entity Structures for Business Acquisitions",
-    description: "Understanding Swiss corporate structures for acquisitions — GmbH vs AG, cantonal tax differences, holding company benefits, and Swiss-EU considerations.",
+    description: "Understanding Swiss corporate structures for acquisitions - GmbH vs AG, cantonal tax differences, holding company benefits, and Swiss-EU considerations.",
     readTime: "18 min read",
     tag: "International",
     category: "Regional Guides",
@@ -9981,7 +9981,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "transfer-pricing-acquisitions",
     title: "Transfer Pricing Considerations in Acquisitions",
-    description: "How transfer pricing affects M&A transactions — due diligence risks, documentation requirements, OECD guidelines, and post-acquisition restructuring.",
+    description: "How transfer pricing affects M&A transactions - due diligence risks, documentation requirements, OECD guidelines, and post-acquisition restructuring.",
     readTime: "18 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -10025,7 +10025,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "brexit-cross-channel-acquisitions",
     title: "Brexit Impact on Cross-Channel Acquisitions (UK-EU)",
-    description: "How Brexit affects UK-EU cross-border acquisitions — regulatory divergence, trade implications, data transfers, and opportunities for acquirers.",
+    description: "How Brexit affects UK-EU cross-border acquisitions - regulatory divergence, trade implications, data transfers, and opportunities for acquirers.",
     readTime: "14 min read",
     tag: "International",
     category: "Regional Guides",
@@ -10047,7 +10047,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "regulatory-approvals-antitrust",
     title: "Regulatory Approvals & Antitrust Review in M&A",
-    description: "Navigating merger control and antitrust review — filing thresholds, review timelines, remedies, gun-jumping rules, and sector-specific approvals.",
+    description: "Navigating merger control and antitrust review - filing thresholds, review timelines, remedies, gun-jumping rules, and sector-specific approvals.",
     readTime: "16 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -10062,14 +10062,14 @@ export const allArticles: ArticleMeta[] = [
     ],
     faqs: [
       { question: "When is antitrust filing required for an acquisition?", answer: "Filing requirements depend on the size of the parties and the transaction. In the US, HSR filing is required when the transaction exceeds approximately $111.4 million (2024 threshold). EU merger regulation applies when combined worldwide turnover exceeds €5 billion. Many countries have their own thresholds. Smaller search fund deals often fall below these thresholds." },
-      { question: "What is gun-jumping in M&A?", answer: "Gun-jumping occurs when parties begin integrating or coordinating competitive behavior before receiving regulatory approval. This can include exchanging competitively sensitive information, making operational decisions jointly, or implementing integration steps before clearance. Gun-jumping violations carry significant fines — up to 10% of worldwide turnover in the EU." },
+      { question: "What is gun-jumping in M&A?", answer: "Gun-jumping occurs when parties begin integrating or coordinating competitive behavior before receiving regulatory approval. This can include exchanging competitively sensitive information, making operational decisions jointly, or implementing integration steps before clearance. Gun-jumping violations carry significant fines - up to 10% of worldwide turnover in the EU." },
       { question: "How long does antitrust review take?", answer: "Standard reviews typically take 25-30 days in the US (HSR waiting period) and 25 working days in the EU (Phase I). If regulators identify concerns, an in-depth Phase II investigation can extend the timeline by 90-150 additional days. CMA reviews in the UK follow a similar two-phase structure. Most SME acquisitions receive clearance in Phase I." },
     ],
   },
   {
     slug: "post-closing-disputes",
     title: "Post-Closing Disputes: Earn-Outs, Indemnities & Resolution",
-    description: "Managing post-closing disputes in M&A — working capital adjustments, earn-out disagreements, indemnification claims, and dispute resolution mechanisms.",
+    description: "Managing post-closing disputes in M&A - working capital adjustments, earn-out disagreements, indemnification claims, and dispute resolution mechanisms.",
     readTime: "18 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -10078,7 +10078,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
-      { name: "American Bar Association", title: "M&A Deal Points Studies — Post-Closing Disputes", year: 2024 },
+      { name: "American Bar Association", title: "M&A Deal Points Studies - Post-Closing Disputes", year: 2024 },
       { name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
       { name: "International Chamber of Commerce", title: "Arbitration Rules for M&A Disputes", year: 2024 },
     ],
@@ -10091,12 +10091,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "professional-liability-insurance",
     title: "Professional Liability Insurance in Business Acquisitions",
-    description: "Understanding D&O, E&O, and R&W insurance in acquisitions — coverage types, tail policies, cost benchmarks, and when insurance is essential.",
+    description: "Understanding D&O, E&O, and R&W insurance in acquisitions - coverage types, tail policies, cost benchmarks, and when insurance is essential.",
     readTime: "14 min read",
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Professional Liability Insurance in Business Acquisitions: D&O, E&O & R&W Coverage",
-    ogDescription: "Learn about professional liability insurance in M&A — D&O coverage, errors & omissions, representations & warranties insurance, tail policies, and cost benchmarks.",
+    ogDescription: "Learn about professional liability insurance in M&A - D&O coverage, errors & omissions, representations & warranties insurance, tail policies, and cost benchmarks.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10113,12 +10113,12 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "restrictive-covenants",
     title: "Restrictive Covenants in M&A: Non-Competes, Non-Solicits & More",
-    description: "A guide to restrictive covenants in acquisitions — non-competes, non-solicitation, confidentiality, enforceability by jurisdiction, and FTC implications.",
+    description: "A guide to restrictive covenants in acquisitions - non-competes, non-solicitation, confidentiality, enforceability by jurisdiction, and FTC implications.",
     readTime: "12 min read",
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Restrictive Covenants in M&A: Non-Competes, Non-Solicits & Enforceability",
-    ogDescription: "Understand restrictive covenants in M&A transactions — non-compete agreements, non-solicitation clauses, confidentiality provisions, enforceability by jurisdiction, and drafting best practices.",
+    ogDescription: "Understand restrictive covenants in M&A transactions - non-compete agreements, non-solicitation clauses, confidentiality provisions, enforceability by jurisdiction, and drafting best practices.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10135,7 +10135,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "anti-bribery-compliance",
     title: "Anti-Bribery & Anti-Corruption Compliance in M&A",
-    description: "Managing anti-bribery and corruption risks in acquisitions — FCPA, UK Bribery Act, due diligence frameworks, and post-acquisition compliance programs.",
+    description: "Managing anti-bribery and corruption risks in acquisitions - FCPA, UK Bribery Act, due diligence frameworks, and post-acquisition compliance programs.",
     readTime: "12 min read",
     tag: "Legal",
     category: "Legal & Tax",
@@ -10157,7 +10157,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "european-business-brokers-directory",
     title: "European Business Brokers & M&A Advisors Directory",
-    description: "A comprehensive directory of business brokers and M&A advisors across Europe — UK, France, DACH, Iberia, Benelux, and Nordics.",
+    description: "A comprehensive directory of business brokers and M&A advisors across Europe - UK, France, DACH, Iberia, Benelux, and Nordics.",
     readTime: "14 min read",
     tag: "Resources",
     category: "Resources",
@@ -10179,7 +10179,7 @@ export const allArticles: ArticleMeta[] = [
   {
     slug: "cybersecurity-firm-acquisition",
     title: "Acquiring a Cybersecurity Firm: Sector-Specific Due Diligence",
-    description: "Sector-specific due diligence guide for acquiring cybersecurity companies — valuation drivers, IP assessment, compliance certifications, and talent retention.",
+    description: "Sector-specific due diligence guide for acquiring cybersecurity companies - valuation drivers, IP assessment, compliance certifications, and talent retention.",
     readTime: "14 min read",
     tag: "Due Diligence",
     category: "Deal Execution",
@@ -10189,13 +10189,13 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-23",
     sources: [
       { name: "Gartner", title: "Cybersecurity Market Guide", year: 2024 },
-      { name: "PwC", title: "Global Digital Trust Insights — M&A in Cybersecurity", year: 2024 },
+      { name: "PwC", title: "Global Digital Trust Insights - M&A in Cybersecurity", year: 2024 },
       { name: "Cybersecurity Ventures", title: "Cybersecurity Market Report", year: 2024 },
     ],
     faqs: [
       { question: "What are the key valuation drivers for cybersecurity companies?", answer: "Key valuation drivers include: recurring revenue (MRR/ARR) and net revenue retention, customer concentration and contract length, proprietary technology and IP portfolio, compliance certifications (SOC 2, ISO 27001, FedRAMP), talent quality and retention rates, market positioning and competitive differentiation, and growth rate relative to the overall cybersecurity market." },
       { question: "What compliance certifications matter most in cybersecurity acquisitions?", answer: "The most important certifications depend on the target's customer base: SOC 2 Type II (widely required by enterprise customers), ISO 27001 (international standard), FedRAMP (US government customers), CMMC (US defense contractors), and PCI DSS (payment industry). Losing or failing to maintain these certifications can trigger customer contract terminations." },
-      { question: "How important is talent retention in cybersecurity acquisitions?", answer: "Talent retention is critical — cybersecurity professionals are in high demand and difficult to replace. Key risks include: loss of technical founders, departure of engineers with proprietary knowledge, and cultural misfit post-acquisition. Retention packages, clear career paths, and maintaining technical culture are essential. Budget for above-market retention bonuses for key personnel." },
+      { question: "How important is talent retention in cybersecurity acquisitions?", answer: "Talent retention is critical - cybersecurity professionals are in high demand and difficult to replace. Key risks include: loss of technical founders, departure of engineers with proprietary knowledge, and cultural misfit post-acquisition. Retention packages, clear career paths, and maintaining technical culture are essential. Budget for above-market retention bonuses for key personnel." },
     ],
   },
 ];
@@ -10204,7 +10204,7 @@ export const allArticles: ArticleMeta[] = [
 // Derived lookup maps
 // ---------------------------------------------------------------------------
 
-/** SEO metadata keyed by slug — uses ogTitle/ogDescription for richer page titles */
+/** SEO metadata keyed by slug - uses ogTitle/ogDescription for richer page titles */
 export const articlesMeta: Record<
   string,
   { title: string; description: string; ogTitle: string; ogDescription: string; datePublished: string; dateModified: string }
@@ -10237,7 +10237,7 @@ export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
 }
 
 // ---------------------------------------------------------------------------
-// Article components — lazy-loaded map
+// Article components - lazy-loaded map
 // ---------------------------------------------------------------------------
 
 import GettingStartedArticle from "./getting-started";
@@ -10283,7 +10283,7 @@ import SearcherToolsArticle from "./searcher-tools";
 import PreSearchPreparationArticle from "./pre-search-preparation";
 import WomenInETAArticle from "./women-in-eta";
 
-// New articles — Wave 3
+// New articles - Wave 3
 import ETAUKArticle from "./eta-uk";
 import ETASpainArticle from "./eta-spain";
 import ETANordicsArticle from "./eta-nordics";
@@ -10305,7 +10305,7 @@ import WorkingCapitalManagementArticle from "./working-capital-management";
 import SearchFundSuccessStoriesArticle from "./search-fund-success-stories";
 import EuropeanSearchFundResearchArticle from "./european-search-fund-research";
 
-// New articles — Wave 4
+// New articles - Wave 4
 import WhatIsETAArticle from "./what-is-eta";
 import SearchFundStatisticsArticle from "./search-fund-statistics";
 import HowToBuySmallBusinessArticle from "./how-to-buy-small-business";
@@ -10623,7 +10623,7 @@ import StrategicSaleVsFinancialArticle from "./strategic-sale-vs-financial";
 import SBALoanStateByStateArticle from "./sba-loan-state-by-state";
 import BusinessBrokerEcosystemsByCountryArticle from "./business-broker-ecosystems-by-country";
 
-// Phase 3.3 — 22 gap-fill articles
+// Phase 3.3 - 22 gap-fill articles
 import TechnologyDueDiligenceArticle from "./technology-due-diligence";
 import IndustrySpecificDealSourcingArticle from "./industry-specific-deal-sourcing";
 import TransitionServiceAgreementArticle from "./transition-service-agreement";
@@ -11028,7 +11028,7 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "strategic-sale-vs-financial": StrategicSaleVsFinancialArticle,
   "sba-loan-state-by-state": SBALoanStateByStateArticle,
   "business-broker-ecosystems-by-country": BusinessBrokerEcosystemsByCountryArticle,
-  // Phase 3.3 — 22 gap-fill articles
+  // Phase 3.3 - 22 gap-fill articles
   "technology-due-diligence": TechnologyDueDiligenceArticle,
   "industry-specific-deal-sourcing": IndustrySpecificDealSourcingArticle,
   "transition-service-agreement": TransitionServiceAgreementArticle,

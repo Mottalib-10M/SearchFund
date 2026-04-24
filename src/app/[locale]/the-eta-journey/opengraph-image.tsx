@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { PHASE_COLORS } from "@/data/journey-phases";
 
-export const alt = "The ETA Journey — SearchFundMarket";
+export const alt = "The ETA Journey - SearchFundMarket";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 

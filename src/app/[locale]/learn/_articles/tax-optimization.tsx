@@ -13,7 +13,7 @@ export default function TaxOptimizationArticle() {
           deal structuring, yet it can have an enormous impact on both the
           acquisition economics and the eventual exit proceeds. The difference
           between a well-optimized and a poorly structured deal can amount to
-          hundreds of thousands — or even millions — of dollars over the life
+          hundreds of thousands - or even millions - of dollars over the life
           of the investment. This guide covers the key tax considerations for
           search fund acquisitions in the United States and Europe, and explains
           why engaging a qualified tax advisor early in the process is essential.
@@ -34,7 +34,7 @@ export default function TaxOptimizationArticle() {
           <li>
             <strong>Step-up in basis:</strong> The buyer allocates the purchase
             price across the acquired assets at their fair market value. This
-            creates new, higher depreciable and amortizable bases — meaning
+            creates new, higher depreciable and amortizable bases - meaning
             larger annual tax deductions. For a $5 million acquisition, the
             additional depreciation and amortization deductions from a
             step-up can save $200,000 to $500,000 in taxes over the first
@@ -78,7 +78,7 @@ export default function TaxOptimizationArticle() {
 
         <h2 className={h2Class}>US-specific tax strategies</h2>
 
-        <h3 className={h3Class}>QSBS — Section 1202</h3>
+        <h3 className={h3Class}>QSBS - Section 1202</h3>
         <p>
           Qualified Small Business Stock (QSBS) under IRC Section 1202 is
           one of the most powerful tax benefits available to search fund
@@ -122,7 +122,7 @@ export default function TaxOptimizationArticle() {
           when purchasing stock of an S-Corporation or when buying a
           subsidiary from a consolidated group. Both buyer and seller must
           agree to the election, and the seller is treated as if it sold
-          all assets at fair market value and then liquidated — so the
+          all assets at fair market value and then liquidated - so the
           seller&apos;s tax consequences change significantly.
         </p>
 
@@ -158,7 +158,7 @@ export default function TaxOptimizationArticle() {
           transfers, it is sometimes used in search fund contexts when the
           seller structures the deal as a partial gift-sale (donation-cession)
           or when a search fund acquirer receives shares through a structured
-          succession plan. The tax savings can be substantial — on a EUR 3
+          succession plan. The tax savings can be substantial - on a EUR 3
           million transfer, the Dutreil exemption can reduce inheritance or
           gift tax by EUR 300,000 or more.
         </p>
@@ -173,7 +173,7 @@ export default function TaxOptimizationArticle() {
           against the operating profits of the target subsidiary. Without
           integration fiscale, the holding company would have interest
           expense but no operating income, creating a tax loss that can
-          only be carried forward — not used immediately. With integration
+          only be carried forward - not used immediately. With integration
           fiscale, the tax deduction is available from year one, materially
           improving the post-tax cash flow of the combined group.
         </p>
@@ -248,7 +248,7 @@ export default function TaxOptimizationArticle() {
 
         <h2 className={h2Class}>Capital gains planning for exit</h2>
         <p>
-          Tax planning should not stop at the acquisition — the exit
+          Tax planning should not stop at the acquisition - the exit
           strategy must be designed with tax efficiency in mind from day one.
           Key considerations include:
         </p>
@@ -284,14 +284,14 @@ export default function TaxOptimizationArticle() {
         <p>
           The single most common tax mistake in search fund acquisitions is
           waiting too long to engage a tax advisor. By the time the LOI is
-          signed, many structural decisions have already been made — and
+          signed, many structural decisions have already been made - and
           unwinding them is expensive or impossible. A qualified tax advisor
           should be involved from the{" "}
           <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">entity formation stage</Link>, not just at
           closing. They can advise on entity selection, deal structure
           (asset vs. stock), purchase price allocation,{" "}
           <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-out structures</Link>,
-          and exit planning — all of which compound over time to produce
+          and exit planning - all of which compound over time to produce
           dramatically different after-tax outcomes.
         </p>
         <p>
@@ -301,7 +301,7 @@ export default function TaxOptimizationArticle() {
           cross-border implications of your investor base. Budget $10,000 to
           $25,000 for tax advisory during the deal process in the US, and
           EUR 15,000 to EUR 35,000 in Europe. This is not a cost to
-          minimize — it is an investment that pays for itself many times over.
+          minimize - it is an investment that pays for itself many times over.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>

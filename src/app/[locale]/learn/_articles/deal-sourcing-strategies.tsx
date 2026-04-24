@@ -11,8 +11,8 @@ export default function DealSourcingStrategiesArticle() {
         <p>
           Deal sourcing is the single most time-consuming and
           strategically important activity during the search phase. The
-          conventional wisdom — contact 1,000 companies to find one
-          acquisition — is roughly accurate, but the quality and
+          conventional wisdom - contact 1,000 companies to find one
+          acquisition - is roughly accurate, but the quality and
           efficiency of your sourcing process determines whether you
           find that acquisition in 12 months or 30 months, and whether
           you pay a fair price or a premium. This guide covers every
@@ -62,7 +62,7 @@ export default function DealSourcingStrategiesArticle() {
         </ul>
         <p>
           These numbers underscore why deal sourcing must be treated as
-          a disciplined, full-time activity — not an ad hoc effort that
+          a disciplined, full-time activity - not an ad hoc effort that
           competes with other priorities. The most successful searchers
           dedicate 60% to 80% of their time to sourcing during the first
           12 months of their search.
@@ -87,8 +87,8 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>Higher effort per deal:</strong> Building proprietary
-            deal flow requires massive outreach volume — hundreds or
-            thousands of cold contacts — with low response rates (5% to
+            deal flow requires massive outreach volume - hundreds or
+            thousands of cold contacts - with low response rates (5% to
             15% for cold email, 2% to 5% for direct mail).
           </li>
           <li>
@@ -130,8 +130,8 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>More competition:</strong> You are typically competing
-            against other buyers — including PE firms, strategic acquirers,
-            and other searchers — which reduces your negotiating leverage.
+            against other buyers - including PE firms, strategic acquirers,
+            and other searchers - which reduces your negotiating leverage.
           </li>
         </ul>
 
@@ -163,13 +163,13 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Follow up consistently:</strong> Call or email your
             top 20 to 30 broker contacts every four to six weeks. Many
-            deals never hit the open market — they are shown to the first
+            deals never hit the open market - they are shown to the first
             few buyers the broker thinks of. Being top of mind is the
             single most important factor in getting early deal access.
           </li>
           <li>
             <strong>Respond quickly and professionally:</strong> When a
-            broker sends you a teaser, respond within 24 hours — even
+            broker sends you a teaser, respond within 24 hours - even
             if it is to pass. Brokers remember buyers who are responsive
             and respectful of their time. A fast &quot;no&quot; is better
             than a slow &quot;maybe.&quot;
@@ -184,8 +184,8 @@ export default function DealSourcingStrategiesArticle() {
 
         <h2 className={h2Class}>Direct outreach campaigns</h2>
         <p>
-          Direct outreach — contacting business owners who have not
-          listed their business for sale — is the primary channel for
+          Direct outreach - contacting business owners who have not
+          listed their business for sale - is the primary channel for
           building proprietary deal flow. The three main methods are
           cold email, LinkedIn outreach, and direct mail.
         </p>
@@ -246,7 +246,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Response rates:</strong> LinkedIn connection
             acceptance rates for well-crafted requests are typically
-            20% to 35% — significantly higher than cold email. However,
+            20% to 35% - significantly higher than cold email. However,
             converting a connection into a meaningful business
             conversation requires additional nurturing.
           </li>
@@ -267,7 +267,7 @@ export default function DealSourcingStrategiesArticle() {
             and a clear call to action (phone call or coffee meeting).
           </li>
           <li>
-            <strong>Response rates:</strong> Typically 2% to 5% — lower
+            <strong>Response rates:</strong> Typically 2% to 5% - lower
             than email in absolute terms, but the quality of responses
             tends to be higher. Owners who take the time to call or
             email in response to a letter are more seriously considering
@@ -276,7 +276,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Cost:</strong> $2 to $4 per letter (printing,
             postage, envelope). A campaign of 500 letters costs $1,000
-            to $2,000 — modest relative to the potential return.
+            to $2,000 - modest relative to the potential return.
           </li>
         </ul>
 
@@ -318,7 +318,7 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>Industry-specific platforms:</strong> Many industries
-            have specialized listing sites — for example, healthcare
+            have specialized listing sites - for example, healthcare
             practices, dental offices, veterinary clinics, and SaaS
             businesses all have dedicated marketplaces. If you have
             an industry focus, identify and monitor the relevant
@@ -437,7 +437,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>Stage in your pipeline (identified, contacted, conversation, NDA signed, financials received, deep diligence, LOI, closed)</li>
           <li>Key dates (first contact, last contact, next follow-up)</li>
           <li>Notes from every conversation and meeting</li>
-          <li>Reason for pass (if applicable) — this data improves future targeting</li>
+          <li>Reason for pass (if applicable) - this data improves future targeting</li>
         </ul>
 
         <h3 className={h3Class}>Metrics to monitor weekly</h3>
@@ -510,7 +510,7 @@ export default function DealSourcingStrategiesArticle() {
           consistent activity levels, and persevere through the
           inevitable periods of discouragement when nothing seems to
           be working. The acquisition that transforms your career is
-          out there — your job is to build the machine that finds it.
+          out there - your job is to build the machine that finds it.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>

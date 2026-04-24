@@ -12,11 +12,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: "The Complete ETA Journey: Step-by-Step Guide | SearchFundMarket",
     description:
-      "From preparing your search to exiting your acquired company — the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
+      "From preparing your search to exiting your acquired company - the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
     openGraph: {
       title: "The Complete ETA Journey: Step-by-Step Guide | SearchFundMarket",
       description:
-        "From preparing your search to exiting your acquired company — the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
+        "From preparing your search to exiting your acquired company - the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
       type: "website",
     },
     alternates: {
@@ -35,7 +35,7 @@ export default function TheEtaJourneyPage() {
     "@type": "HowTo",
     name: "The Complete ETA Journey: From Corporate Career to CEO",
     description:
-      "A step-by-step guide through every phase of Entrepreneurship Through Acquisition — from preparation to exit.",
+      "A step-by-step guide through every phase of Entrepreneurship Through Acquisition - from preparation to exit.",
     totalTime: "P7Y",
     step: journeyPhases.map((phase, i) => ({
       "@type": "HowToStep",

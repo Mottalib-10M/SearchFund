@@ -11,7 +11,7 @@ export default function BusinessValuationArticle() {
         <p>
           Valuation is both an art and a science. For search fund entrepreneurs
           acquiring small and medium businesses, understanding the key valuation
-          methodologies — and their limitations — is essential to negotiating a
+          methodologies - and their limitations - is essential to negotiating a
           fair price.
         </p>
 
@@ -87,7 +87,7 @@ export default function BusinessValuationArticle() {
           The normalization process is where most valuation disputes arise
           between buyers and sellers. A seller may claim $2 million of
           adjusted EBITDA, but after a thorough QoE analysis, the true number
-          might be $1.5 million — a difference of $2 million or more in
+          might be $1.5 million - a difference of $2 million or more in
           enterprise value at a 4x multiple.
         </p>
 
@@ -99,7 +99,7 @@ export default function BusinessValuationArticle() {
           replacement CEO creates a $200,000 add-back to EBITDA. Conversely,
           an owner who pays themselves $80,000 while functioning as CEO, head
           of sales, and CFO simultaneously may require $300,000 or more in
-          combined replacement salary — a negative adjustment that reduces
+          combined replacement salary - a negative adjustment that reduces
           adjusted EBITDA.
         </p>
 
@@ -126,7 +126,7 @@ export default function BusinessValuationArticle() {
 
         <p>
           <strong>Discretionary spending.</strong> Some owners run personal
-          expenses through the business — country club memberships, luxury
+          expenses through the business - country club memberships, luxury
           vehicles, personal travel, charitable donations, and other
           expenses that would not continue under new ownership. These are
           legitimate add-backs, but they also raise a question: if the
@@ -163,8 +163,8 @@ export default function BusinessValuationArticle() {
           are planning significant capital investments that will reduce
           near-term cash flow but increase long-term value, a DCF can
           justify paying a higher multiple today. And if the business is
-          in a period of rapid transition — growing or shrinking
-          significantly — a DCF can model the trajectory more accurately
+          in a period of rapid transition - growing or shrinking
+          significantly - a DCF can model the trajectory more accurately
           than applying a static multiple to a single year&apos;s EBITDA.
         </p>
 
@@ -176,7 +176,7 @@ export default function BusinessValuationArticle() {
           company). Apply a terminal multiple of 3x to 5x EBITDA rather than
           a perpetuity growth model, as the terminal value assumption is the
           largest driver of the valuation. And always present the DCF
-          alongside a multiple-based valuation — the two should tell a
+          alongside a multiple-based valuation - the two should tell a
           consistent story.
         </p>
 
@@ -204,7 +204,7 @@ export default function BusinessValuationArticle() {
           independent equipment appraisal to determine the fair market value
           and orderly liquidation value of the company&apos;s machinery.
           For businesses that include real estate, you will need a commercial
-          appraisal. These valuations can be eye-opening — the book value
+          appraisal. These valuations can be eye-opening - the book value
           of assets on the balance sheet often bears little resemblance to
           their actual market value, especially for fully depreciated
           equipment that still has years of useful life remaining.
@@ -216,7 +216,7 @@ export default function BusinessValuationArticle() {
           asset-based valuation serves as an important floor. If the
           enterprise value implied by the EBITDA multiple is significantly
           below the liquidation value of the assets, the multiple may be
-          too low — or the business is underearning relative to its asset
+          too low - or the business is underearning relative to its asset
           base, which could represent an opportunity for operational
           improvement.
         </p>
@@ -233,7 +233,7 @@ export default function BusinessValuationArticle() {
           <li><strong>Revenue growth trajectory:</strong> Is the business growing at 10%+ annually, flat, or declining? A growing business in a growing market justifies 5x+ EBITDA. A flat business in a stable market warrants 4x to 4.5x. A declining business should trade at 3x to 3.5x at most.</li>
           <li><strong>Gross and EBITDA margins:</strong> Higher margins provide a larger cushion for debt service and operational missteps. Businesses with 20%+ EBITDA margins are generally safer leveraged acquisitions and support higher multiples.</li>
           <li><strong>Customer concentration:</strong> As a rule of thumb, discount the multiple by 0.25x to 0.5x for each 10% of revenue concentrated in a single customer above the 10% threshold. A business with 25% concentration in its largest customer should trade at 0.5x to 1x lower than an otherwise identical business with no customer above 10%.</li>
-          <li><strong>Owner dependency:</strong> If the business cannot function without the current owner — because the owner holds all the customer relationships, makes all the key decisions, or possesses irreplaceable technical knowledge — the business is worth less. You are buying a job, not a company. Discount the multiple by 0.5x to 1x for high owner dependency.</li>
+          <li><strong>Owner dependency:</strong> If the business cannot function without the current owner - because the owner holds all the customer relationships, makes all the key decisions, or possesses irreplaceable technical knowledge - the business is worth less. You are buying a job, not a company. Discount the multiple by 0.5x to 1x for high owner dependency.</li>
           <li><strong>Recurring vs. transactional revenue:</strong> A business with 80%+ recurring or contracted revenue is worth 1x or more higher in multiple than a comparable business with entirely transactional revenue. Recurring revenue provides predictability that supports leverage.</li>
           <li><strong>Capital intensity:</strong> Businesses that require ongoing capital expenditures (equipment replacement, vehicle fleets, technology upgrades) should trade at lower multiples than asset-light businesses, all else equal. Free cash flow conversion from EBITDA is what matters.</li>
         </ul>
@@ -279,8 +279,8 @@ export default function BusinessValuationArticle() {
           Many first-time acquirers focus exclusively on the enterprise value
           and forget that the business needs adequate working capital to
           operate on day one. If the seller drains the working capital before
-          closing — running down inventory, accelerating collections, or
-          delaying payables — you may need to inject additional cash
+          closing - running down inventory, accelerating collections, or
+          delaying payables - you may need to inject additional cash
           immediately after the acquisition. Negotiate a clear working
           capital peg in the LOI and build a true-up mechanism into the
           purchase agreement.
@@ -292,7 +292,7 @@ export default function BusinessValuationArticle() {
           Never pay for projected performance. Value the business based on
           its trailing 12-month or average historical earnings. If the
           seller believes the growth projections are credible, offer an
-          earn-out tied to achieving those targets — this aligns incentives
+          earn-out tied to achieving those targets - this aligns incentives
           and protects you from overpaying for growth that never materializes.
         </p>
 
@@ -314,7 +314,7 @@ export default function BusinessValuationArticle() {
           lose a key employee and need to hire a replacement at a higher
           salary? A good valuation is one that works not just in the base
           case, but in a range of plausible negative scenarios. Your
-          investors and lender will ask these questions — have the answers
+          investors and lender will ask these questions - have the answers
           ready before they do.
         </p>
 

@@ -9,7 +9,7 @@ export default function HealthcareAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          Healthcare services represent one of the most compelling — and complex —
+          Healthcare services represent one of the most compelling - and complex - 
           sectors for search fund acquisitions. The combination of recession-resistant
           demand, powerful demographic tailwinds, and fragmented ownership creates
           a rich opportunity set. But healthcare acquisitions come with regulatory
@@ -41,7 +41,7 @@ export default function HealthcareAcquisitionArticle() {
           <li>
             <strong>Fragmented ownership:</strong> Many healthcare sub-sectors
             remain dominated by single-location, physician-owned practices with
-            $2M-$15M in revenue — the ideal size range for search fund
+            $2M-$15M in revenue - the ideal size range for search fund
             acquisitions.
           </li>
           <li>
@@ -92,7 +92,7 @@ export default function HealthcareAcquisitionArticle() {
           over the past decade, yet according to the ADA Health Policy Institute,
           only 10-15% of US dental practices are DSO-affiliated, leaving a
           massive fragmented market. A single dental
-          practice with $1.5M-$5M in revenue typically trades at 4-7x EBITDA — our{" "}
+          practice with $1.5M-$5M in revenue typically trades at 4-7x EBITDA - our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> explains
           how these multiples are determined.
           A multi-location DSO platform can trade at 10-15x EBITDA, creating
@@ -103,7 +103,7 @@ export default function HealthcareAcquisitionArticle() {
         <p>
           Pet ownership reached record levels in recent years, and spending on
           veterinary care has grown at 8-10% annually. Veterinary practices
-          share many characteristics with dental — fragmented, owner-operated,
+          share many characteristics with dental - fragmented, owner-operated,
           and ripe for consolidation. Single practices trade at 5-8x EBITDA,
           while multi-location platforms command 12-18x. Corporate consolidators
           like Mars Veterinary Health and National Veterinary Associates have
@@ -182,7 +182,7 @@ export default function HealthcareAcquisitionArticle() {
           services payable by Medicare or Medicaid. The Anti-Kickback Statute
           prohibits offering, paying, soliciting, or receiving anything of value
           to induce or reward referrals for services covered by federal
-          healthcare programs. Both laws are strict liability — meaning intent
+          healthcare programs. Both laws are strict liability - meaning intent
           does not matter for Stark, and the scope is broad for Anti-Kickback.
           Any referral arrangements, joint ventures, or compensation structures
           must be reviewed by healthcare counsel for compliance with these
@@ -243,7 +243,7 @@ export default function HealthcareAcquisitionArticle() {
           employment agreements with 2-3 year terms, non-compete clauses
           (enforceable in most states for healthcare), retention bonuses, and
           equity participation in the new entity. The most effective retention
-          tool is genuine partnership — involving providers in decision-making
+          tool is genuine partnership - involving providers in decision-making
           and demonstrating that the acquisition will improve their professional
           lives.
         </p>
@@ -297,7 +297,7 @@ export default function HealthcareAcquisitionArticle() {
           <li>
             <strong>Reimbursement trend analysis:</strong> Review rate changes
             from the top 5 payers over the past 3 years. Medicare publishes
-            annual fee schedule updates — model forward rates accordingly.
+            annual fee schedule updates - model forward rates accordingly.
           </li>
           <li>
             <strong>Regulatory history:</strong> Request all correspondence with
@@ -332,7 +332,7 @@ export default function HealthcareAcquisitionArticle() {
           compliance services ($20K-$50K annually), ongoing provider
           credentialing ($3K-$8K per provider per year), accreditation renewals,
           state license renewals, and legal counsel for regulatory matters
-          ($15K-$40K annually). These costs are non-negotiable — cutting corners
+          ($15K-$40K annually). These costs are non-negotiable - cutting corners
           on compliance is the fastest path to losing your license and your
           investment.
         </p>

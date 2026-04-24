@@ -35,7 +35,7 @@ export default function ReadingACIMArticle() {
       <h1 className={h1Class}>Reading a CIM (Confidential Information Memorandum)</h1>
 
       <p className={bodyClass}>
-        The Confidential Information Memorandum (CIM)—sometimes called an Offering Memorandum or Information Memorandum—is typically your first detailed look at an acquisition target. Created by the seller or their advisor, the CIM presents the business in the best possible light while providing the financial and operational data you need to evaluate the opportunity. Learning to read CIMs critically is an essential skill for any searcher.
+        The Confidential Information Memorandum (CIM) - sometimes called an Offering Memorandum or Information Memorandum - is typically your first detailed look at an acquisition target. Created by the seller or their advisor, the CIM presents the business in the best possible light while providing the financial and operational data you need to evaluate the opportunity. Learning to read CIMs critically is an essential skill for any searcher.
       </p>
 
       <p className={bodyClass}>
@@ -55,7 +55,7 @@ export default function ReadingACIMArticle() {
       <ul className={ulClass}>
         <li><strong>Marketing-focused:</strong> The CIM emphasizes strengths and growth potential while minimizing or omitting weaknesses</li>
         <li><strong>Confidential:</strong> You'll sign an NDA before receiving it, and the information should be treated as highly sensitive</li>
-        <li><strong>Starting point:</strong> The CIM is just the beginning—everything requires verification through due diligence</li>
+        <li><strong>Starting point:</strong> The CIM is just the beginning - everything requires verification through due diligence</li>
         <li><strong>Standardized format:</strong> Most CIMs follow similar structures, making it easier to compare opportunities</li>
         <li><strong>Aspirational projections:</strong> Forward-looking statements often represent best-case scenarios rather than realistic forecasts</li>
       </ul>
@@ -78,9 +78,9 @@ export default function ReadingACIMArticle() {
 
       <ul className={ulClass}>
         <li><strong>Investment thesis:</strong> Does the stated rationale make sense? Is it compelling and defensible?</li>
-        <li><strong>Key metrics:</strong> Revenue, EBITDA, margins, growth rates—note these for comparison against detailed financials later</li>
+        <li><strong>Key metrics:</strong> Revenue, EBITDA, margins, growth rates - note these for comparison against detailed financials later</li>
         <li><strong>Unique value proposition:</strong> What supposedly sets this business apart from competitors?</li>
-        <li><strong>Owner's reason for selling:</strong> Retirement, health, other ventures—does it sound genuine?</li>
+        <li><strong>Owner's reason for selling:</strong> Retirement, health, other ventures - does it sound genuine?</li>
       </ul>
 
       <p className={bodyClass}>
@@ -263,7 +263,7 @@ export default function ReadingACIMArticle() {
         <li><strong>Revenue composition:</strong> What percentage is recurring vs. project-based? Contracted vs. at-will?</li>
         <li><strong>Seasonality:</strong> Are there seasonal patterns? The CIM might show annual figures that obscure cash flow challenges during slow periods</li>
         <li><strong>Same-store vs. new customer growth:</strong> Is growth from existing customers expanding or from new customer acquisition?</li>
-        <li><strong>Recent spikes:</strong> If revenue jumped significantly in the most recent year, understand why—it might not be sustainable</li>
+        <li><strong>Recent spikes:</strong> If revenue jumped significantly in the most recent year, understand why - it might not be sustainable</li>
       </ul>
 
       <h3 className={h3Class}>Expense Analysis</h3>
@@ -289,7 +289,7 @@ export default function ReadingACIMArticle() {
         <li><strong>Working capital:</strong> Are receivables aging well or growing concerning? Is inventory turning efficiently?</li>
         <li><strong>Debt:</strong> Does the company carry debt that will need to be repaid at close or assumed?</li>
         <li><strong>Related-party transactions:</strong> Does the company rent property from the owner, have loans from/to the owner, or pay management fees to an affiliated entity?</li>
-        <li><strong>Capital expenditures:</strong> Compare recent capex to depreciation—if capex is significantly lower, the business might be underinvesting</li>
+        <li><strong>Capital expenditures:</strong> Compare recent capex to depreciation - if capex is significantly lower, the business might be underinvesting</li>
       </ul>
 
       <p className={bodyClass}>
@@ -306,7 +306,7 @@ export default function ReadingACIMArticle() {
         <li>Rapid growth requiring working capital investment</li>
         <li>Significant capex needs</li>
         <li>Debt service obligations</li>
-        <li>Delayed customer payments (high DSO—days sales outstanding)</li>
+        <li>Delayed customer payments (high DSO - days sales outstanding)</li>
       </ul>
 
       <p className={bodyClass}>
@@ -324,7 +324,7 @@ export default function ReadingACIMArticle() {
       <ul className={ulClass}>
         <li><strong>Declining revenue or margins:</strong> Without a clear, credible turnaround plan, this is usually a pass</li>
         <li><strong>Lumpy or inconsistent profitability:</strong> Big swings year-to-year suggest unpredictable business drivers</li>
-        <li><strong>Recent revenue spike:</strong> If the most recent year shows unusual growth that doesn't match the trend, dig deep—it might be unsustainable or manipulated</li>
+        <li><strong>Recent revenue spike:</strong> If the most recent year shows unusual growth that doesn't match the trend, dig deep - it might be unsustainable or manipulated</li>
         <li><strong>Excessive add-backs:</strong> If adjusted EBITDA is 50%+ higher than reported EBITDA, be very skeptical</li>
         <li><strong>Missing financial statements:</strong> If the CIM doesn't include full financials (especially balance sheet or cash flow), that's a serious concern</li>
         <li><strong>Unaudited financials with unusual patterns:</strong> Without third-party verification, trust but verify everything</li>
@@ -355,7 +355,7 @@ export default function ReadingACIMArticle() {
         <li><strong>Vague or missing information:</strong> If key questions aren't addressed (customer concentration, reason for sale, management transition), ask why</li>
         <li><strong>Overly promotional tone:</strong> CIMs should be professional and fact-based, not read like advertising copy</li>
         <li><strong>Inconsistent information:</strong> Numbers or facts that don't match between sections suggest carelessness or worse</li>
-        <li><strong>No discussion of risks or challenges:</strong> Every business has challenges—failure to acknowledge them is a red flag</li>
+        <li><strong>No discussion of risks or challenges:</strong> Every business has challenges - failure to acknowledge them is a red flag</li>
       </ul>
 
       <p className={bodyClass}>
@@ -472,13 +472,13 @@ export default function ReadingACIMArticle() {
       </ul>
 
       <p className={bodyClass}>
-        When a CIM claims metrics significantly better than peers, investigate why—it could be genuine excellence or aggressive presentation.
+        When a CIM claims metrics significantly better than peers, investigate why - it could be genuine excellence or aggressive presentation.
       </p>
 
       <h2 className={h2Class}>Working with Brokers and Advisors</h2>
 
       <p className={bodyClass}>
-        The CIM comes from the seller's advisor, who has conflicting interests. The broker wants to close the deal at the highest price—their fee depends on it. Understanding this dynamic helps you navigate the process effectively.
+        The CIM comes from the seller's advisor, who has conflicting interests. The broker wants to close the deal at the highest price - their fee depends on it. Understanding this dynamic helps you navigate the process effectively.
       </p>
 
       <p className={bodyClass}>
@@ -488,7 +488,7 @@ export default function ReadingACIMArticle() {
       <ul className={ulClass}>
         <li><strong>Be professional and responsive:</strong> Brokers prioritize serious buyers who close deals. Demonstrate you're credible</li>
         <li><strong>Ask direct questions:</strong> Good brokers will answer honestly; evasive responses are telling</li>
-        <li><strong>Request supporting documentation:</strong> Tax returns, customer contracts, financial detail—don't just accept the CIM as complete</li>
+        <li><strong>Request supporting documentation:</strong> Tax returns, customer contracts, financial detail - don't just accept the CIM as complete</li>
         <li><strong>Understand the process:</strong> Is this a broad auction, limited process, or exclusive opportunity? That affects your leverage</li>
         <li><strong>Build relationships:</strong> If you pass on a deal, explain why professionally. Brokers remember serious searchers and will bring you future opportunities</li>
       </ul>
@@ -583,7 +583,7 @@ export default function ReadingACIMArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Keep a deal log:</strong> Track every CIM you review, your assessment, and the outcome—you'll learn what to look for</li>
+        <li><strong>Keep a deal log:</strong> Track every CIM you review, your assessment, and the outcome - you'll learn what to look for</li>
         <li><strong>Seek feedback:</strong> Share CIM analyses with your investors or advisors and get their perspective</li>
         <li><strong>Compare to closed deals:</strong> When you learn what a business actually sold for, compare to what the CIM claimed</li>
         <li><strong>Build industry knowledge:</strong> The more you know about an industry's normal metrics, the faster you'll spot outliers</li>
@@ -597,7 +597,7 @@ export default function ReadingACIMArticle() {
       </p>
 
       <p className={bodyClass}>
-        Approach every CIM with appropriate skepticism, rigorous analysis, and a commitment to verifying every material claim. Build systematic processes for evaluation and comparison. And remember that reading the CIM is just the first step—real understanding comes from asking hard questions, meeting management, touring facilities, and conducting thorough due diligence.
+        Approach every CIM with appropriate skepticism, rigorous analysis, and a commitment to verifying every material claim. Build systematic processes for evaluation and comparison. And remember that reading the CIM is just the first step - real understanding comes from asking hard questions, meeting management, touring facilities, and conducting thorough due diligence.
       </p>
 
       <p className={bodyClass}>

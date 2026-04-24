@@ -166,7 +166,7 @@ export default function ManagementBuyoutArticle() {
         <h3 className={h3Class}>Personal Investment Requirements</h3>
         <div className={bodyClass}>
           <p>
-            Lenders and equity partners expect management to invest meaningful personal capital—typically 5-20% of the purchase price or 20-40% of their net worth. This "skin in the game" aligns interests and demonstrates commitment.
+            Lenders and equity partners expect management to invest meaningful personal capital, typically 5-20% of the purchase price or 20-40% of their net worth. This "skin in the game" aligns interests and demonstrates commitment.
           </p>
           <p>
             Management teams should consider:
@@ -251,7 +251,7 @@ export default function ManagementBuyoutArticle() {
         <div className={bodyClass}>
           <ul className={ulClass}>
             <li><strong>Leadership identification:</strong> Who will be CEO? This person typically leads the MBO process and owns the largest equity stake</li>
-            <li><strong>Functional coverage:</strong> Ensure team covers key functions—operations, finance, sales, etc.</li>
+            <li><strong>Functional coverage:</strong> Ensure team covers key functions (operations, finance, sales, etc.)</li>
             <li><strong>Skill gaps:</strong> Identify missing capabilities and plan to hire or bring in external partners</li>
             <li><strong>Commitment levels:</strong> Not all managers may want to participate; some prefer remaining employees</li>
             <li><strong>Investment capacity:</strong> Each team member's ability to invest affects ownership allocation</li>
@@ -666,7 +666,7 @@ export default function ManagementBuyoutArticle() {
         <h2 className={h2Class}>Conclusion</h2>
         <div className={bodyClass}>
           <p>
-            Management buyouts represent one of the most natural transitions in business ownership—the people who built the value capturing it directly. For the right management teams, MBOs offer the opportunity to control their destiny, build significant wealth, and preserve the businesses and cultures they helped create.
+            Management buyouts represent one of the most natural transitions in business ownership - the people who built the value capturing it directly. For the right management teams, MBOs offer the opportunity to control their destiny, build significant wealth, and preserve the businesses and cultures they helped create.
           </p>
           <p>
             Success requires more than operational excellence. Management teams must develop new capabilities in financing, negotiation, strategic planning, and ownership. They must balance loyalty to former bosses with fiduciary duty to themselves and their investors. And they must manage the psychological transition from employee to owner.

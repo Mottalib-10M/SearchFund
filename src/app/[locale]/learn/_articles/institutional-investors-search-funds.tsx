@@ -11,7 +11,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           The search fund model has evolved from a niche Stanford Business School experiment into a
           recognized institutional asset class. As the model has matured, the investor base has
           shifted from predominantly individual angels and high-net-worth individuals to include
-          sophisticated institutional players — family offices, university endowments, dedicated
+          sophisticated institutional players - family offices, university endowments, dedicated
           search fund investment vehicles, and multi-strategy private equity firms. Understanding who
           these institutional investors are, what drives their allocation decisions, and how they
           evaluate search fund opportunities is essential for any searcher looking to{" "}
@@ -43,13 +43,13 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           A small but influential group of investment firms focuses exclusively or primarily on search
           fund investments. These firms have deep expertise in the model, maintain networks of current
           and former searchers, and often play a mentorship role alongside their capital commitment.
-          They invest across the full lifecycle — search capital, acquisition equity, and sometimes
+          They invest across the full lifecycle - search capital, acquisition equity, and sometimes
           follow-on growth capital.
         </p>
         <p>
           Dedicated search fund firms typically manage funds ranging from tens of millions to several
           hundred million dollars, deploying capital across dozens of active searches. Their experience
-          gives them pattern recognition that individual investors lack — they have seen hundreds of
+          gives them pattern recognition that individual investors lack - they have seen hundreds of
           search fund pitches, know which business types work well under the model, and can quickly
           assess a searcher&apos;s readiness.
         </p>
@@ -65,7 +65,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
 
       <div className={bodyClass}>
         <p>
-          Family offices — private wealth management entities serving ultra-high-net-worth families —
+          Family offices - private wealth management entities serving ultra-high-net-worth families - 
           have become increasingly active search fund investors. Their appeal to searchers is
           multifaceted: they often have longer investment horizons than traditional funds, more
           flexible mandate constraints, and principals who may have direct operating experience in the
@@ -115,8 +115,8 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
       <div className={bodyClass}>
         <p>
           Larger private equity firms have entered the search fund space through dedicated programs or
-          carve-outs within their broader strategies. These firms bring institutional resources —
-          back-office support, operating partners, deal sourcing networks — that can benefit searchers
+          carve-outs within their broader strategies. These firms bring institutional resources - 
+          back-office support, operating partners, deal sourcing networks - that can benefit searchers
           during and after the acquisition.
         </p>
         <p>
@@ -150,7 +150,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Relevant experience and skills:</strong> Investors want to see a background that
             translates to operating a small or medium-sized business. This doesn&apos;t mean prior CEO
-            experience — it means demonstrated ability to lead teams, make decisions under uncertainty,
+            experience - it means demonstrated ability to lead teams, make decisions under uncertainty,
             manage P&amp;L responsibility, and solve operational problems. Prior experience in consulting,
             operating roles, finance, or entrepreneurship all carry weight.
           </li>
@@ -164,7 +164,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Coachability and self-awareness:</strong> The search process is humbling. Investors
             look for searchers who can accept feedback, acknowledge what they don&apos;t know, and
-            leverage their investor network for guidance — without being paralyzed by seeking consensus.
+            leverage their investor network for guidance - without being paralyzed by seeking consensus.
           </li>
           <li>
             <strong>Cultural fit and values alignment:</strong> Institutional investors often participate
@@ -185,8 +185,8 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
 
         <ul className={ulClass}>
           <li>
-            <strong>Search capital:</strong> Investors provide capital — typically in the range of several
-            hundred thousand dollars — to fund the searcher&apos;s living expenses, deal sourcing costs,
+            <strong>Search capital:</strong> Investors provide capital - typically in the range of several
+            hundred thousand dollars - to fund the searcher&apos;s living expenses, deal sourcing costs,
             legal fees, and operating expenses during the search phase, which usually lasts up to two
             years. This capital is structured as a convertible note or unit purchase that converts into
             equity at a step-up upon acquisition.
@@ -212,8 +212,8 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           </li>
           <li>
             <strong>Searcher equity (earned interest):</strong> The searcher typically earns a
-            significant equity stake — traditionally structured as stepped vesting tied to investor
-            returns — as compensation for finding, acquiring, and operating the business.
+            significant equity stake - traditionally structured as stepped vesting tied to investor
+            returns - as compensation for finding, acquiring, and operating the business.
           </li>
           <li>
             <strong>Governance rights:</strong> Investors typically receive board seats (or board
@@ -233,8 +233,8 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           a layered relationship with important implications for searchers.
         </p>
         <p>
-          The GP firm has obligations to its own LPs — return targets, reporting requirements, and
-          portfolio construction mandates — that influence how it evaluates and supports individual
+          The GP firm has obligations to its own LPs - return targets, reporting requirements, and
+          portfolio construction mandates - that influence how it evaluates and supports individual
           search funds. A GP under pressure from its LPs to show portfolio performance may push for
           faster acquisition timelines or different deal structures than a patient family office investor.
         </p>
@@ -267,7 +267,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
             <strong>Leverage your network strategically:</strong> Business school alumni networks,
             former search fund operators, professors with search fund expertise, and industry connections
             all provide warm introductions to institutional investors. Cold outreach to institutional
-            investors has a very low success rate — warm introductions are essential.
+            investors has a very low success rate - warm introductions are essential.
           </li>
           <li>
             <strong>Attend search fund conferences and events:</strong> Annual search fund conferences,
@@ -286,7 +286,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Seek references from current and former searchers:</strong> Institutional investors
             place enormous weight on references. Identify former searchers who have worked with your
-            target investors and seek their candid perspectives — and their willingness to provide
+            target investors and seek their candid perspectives - and their willingness to provide
             positive references on your behalf.
           </li>
           <li>
@@ -296,7 +296,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           </li>
           <li>
             <strong>Follow up with substance:</strong> After initial meetings, follow up with
-            thoughtful content — an industry analysis you&apos;ve completed, a deal you evaluated
+            thoughtful content - an industry analysis you&apos;ve completed, a deal you evaluated
             (anonymized if necessary), or a question that demonstrates genuine engagement with the
             investor&apos;s feedback.
           </li>
@@ -314,7 +314,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
         <p>
           The search fund model has produced compelling aggregate returns over its multi-decade history,
           with academic studies from Stanford and IESE documenting the asset class&apos;s performance.
-          However, returns are heavily skewed — a relatively small percentage of search funds generate
+          However, returns are heavily skewed - a relatively small percentage of search funds generate
           outsized returns while a meaningful percentage result in partial or total loss of capital.
           This distribution means institutional investors think in portfolio terms, expecting that
           diversification across multiple search funds will produce attractive blended returns even
@@ -352,13 +352,13 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Regular, structured updates:</strong> Provide monthly or bi-monthly written updates
             covering search activity metrics (deals sourced, NDAs signed, LOIs submitted), pipeline
-            quality, and strategic observations. Consistency matters more than length — brief, substantive
+            quality, and strategic observations. Consistency matters more than length - brief, substantive
             updates build more trust than sporadic lengthy reports.
           </li>
           <li>
             <strong>Proactive communication on problems:</strong> Institutional investors have seen many
-            searches encounter challenges. They expect and respect transparency about difficulties —
-            slow deal flow, a broken deal, financing challenges — far more than they respect silence or
+            searches encounter challenges. They expect and respect transparency about difficulties - 
+            slow deal flow, a broken deal, financing challenges - far more than they respect silence or
             spin. Contact investors early when issues arise, present your analysis of the situation, and
             outline your plan to address it.
           </li>
@@ -427,27 +427,27 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
         <li>
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
             Search Fund Investor Relations Best Practices
-          </Link>{" "}— Building trust through consistent communication
+          </Link>{" "} - Building trust through consistent communication
         </li>
         <li>
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             How to Raise Capital for Your Search Fund
-          </Link>{" "}— The complete guide to the fundraising process
+          </Link>{" "} - The complete guide to the fundraising process
         </li>
         <li>
           <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
             Search Fund Economics Explained
-          </Link>{" "}— Understanding the financial structure investors evaluate
+          </Link>{" "} - Understanding the financial structure investors evaluate
         </li>
         <li>
           <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
             Investor Updates & Reporting Templates
-          </Link>{" "}— Meeting institutional reporting expectations
+          </Link>{" "} - Meeting institutional reporting expectations
         </li>
         <li>
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
             Search Fund Cap Table Management
-          </Link>{" "}— Navigating ownership across funding rounds
+          </Link>{" "} - Navigating ownership across funding rounds
         </li>
       </ul>
 

@@ -186,7 +186,7 @@ export default function ConnectionsPage() {
               : { className: "flex items-center justify-between gap-4 bg-white border border-apple-gray-100 rounded-xl p-4" };
 
             return (
-              // @ts-expect-error — dynamic wrapper
+              // @ts-expect-error - dynamic wrapper
               <Wrapper key={conn.id} {...wrapperProps}>
                 <div className="flex items-center gap-3 min-w-0">
                   {userInfo}

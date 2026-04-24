@@ -15,19 +15,19 @@ export const tools: ToolMeta[] = [
   {
     slug: "search-capital-calculator",
     name: "Search Capital Calculator",
-    description: "Calculate how much capital to raise for your search fund — search phase costs, personal runway, and reserves.",
+    description: "Calculate how much capital to raise for your search fund - search phase costs, personal runway, and reserves.",
     ogDescription: "Plan your search fund raise. Calculate search phase costs, personal runway needs, and recommended capital reserves.",
   },
   {
     slug: "cap-table-simulator",
     name: "Cap Table Simulator",
-    description: "Model search fund economics — searcher equity, investor returns, step-up, and preferred distributions.",
+    description: "Model search fund economics - searcher equity, investor returns, step-up, and preferred distributions.",
     ogDescription: "Simulate search fund cap table scenarios. Model searcher equity, investor step-up, preferred returns, and exit distributions.",
   },
   {
     slug: "lbo-simulator",
     name: "LBO Simulator",
-    description: "Model leveraged buyout structures — debt, equity, seller notes, and cash flow coverage analysis.",
+    description: "Model leveraged buyout structures - debt, equity, seller notes, and cash flow coverage analysis.",
     ogDescription: "Build LBO models for small business acquisitions. Simulate debt structures, seller financing, and cash flow coverage ratios.",
   },
   {

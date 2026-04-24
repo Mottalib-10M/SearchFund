@@ -51,7 +51,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            The MBA advantage is primarily about networks and signaling. Business schools provide access to wealthy alumni investors and lend credibility through institutional endorsement. But these advantages can be replicated through alternative paths—it just requires more intentional networking and credibility-building.
+            The MBA advantage is primarily about networks and signaling. Business schools provide access to wealthy alumni investors and lend credibility through institutional endorsement. But these advantages can be replicated through alternative paths; it just requires more intentional networking and credibility-building.
           </p>
         </div>
       </section>
@@ -68,7 +68,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Industry-specific search funds are becoming more common. Rather than generalist MBA searchers looking broadly across industries, experienced operators are conducting focused searches in sectors where they have deep expertise—healthcare, manufacturing, software, home services, and more. These searchers often have undergraduate degrees in relevant fields (engineering, nursing, computer science) rather than MBAs.
+            Industry-specific search funds are becoming more common. Rather than generalist MBA searchers looking broadly across industries, experienced operators are conducting focused searches in sectors where they have deep expertise: healthcare, manufacturing, software, home services, and more. These searchers often have undergraduate degrees in relevant fields (engineering, nursing, computer science) rather than MBAs.
           </p>
 
           <p>
@@ -150,7 +150,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Building an Investor Network Without a School Brand</h2>
         <div className={bodyClass}>
           <p>
-            The primary advantage of top-tier MBA programs for search funds is access to wealthy alumni investors. But investor networks can be built through alternative means—it simply requires more proactive effort and strategic networking.
+            The primary advantage of top-tier MBA programs for search funds is access to wealthy alumni investors. But investor networks can be built through alternative means; it simply requires more proactive effort and strategic networking.
           </p>
 
           <p>
@@ -214,11 +214,11 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Professional service providers—attorneys, accountants, SBA lenders, quality of earnings providers—also serve educational roles. Informational interviews with these specialists, attending their workshops or webinars, and building relationships early in your search process provides practical knowledge about acquisition mechanics.
+            Professional service providers (attorneys, accountants, SBA lenders, quality of earnings providers) also serve educational roles. Informational interviews with these specialists, attending their workshops or webinars, and building relationships early in your search process provides practical knowledge about acquisition mechanics.
           </p>
 
           <p>
-            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities—courses, reading, mentorship, practical application—to build comprehensive knowledge without a formal MBA program.
+            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities (courses, reading, mentorship, practical application) to build comprehensive knowledge without a formal MBA program.
           </p>
         </div>
       </section>
@@ -232,7 +232,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Operations and Execution</h3>
           <p>
-            The ability to run and improve a business day-to-day matters more than strategic frameworks. Investors want to see evidence that you can manage people, drive sales, improve processes, and solve operational problems. Direct operating experience—managing teams, running P&Ls, implementing improvements—provides more credible signals than classroom learning.
+            The ability to run and improve a business day-to-day matters more than strategic frameworks. Investors want to see evidence that you can manage people, drive sales, improve processes, and solve operational problems. Direct operating experience (managing teams, running P&Ls, implementing improvements) provides more credible signals than classroom learning.
           </p>
 
           <p>
@@ -241,7 +241,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Sales and Business Development</h3>
           <p>
-            Most small businesses require active customer acquisition and relationship management. The ability to sell—whether to customers, investors, sellers, or employees—is fundamental to search fund success. Sales experience, particularly in B2B or relationship-driven contexts, is enormously valuable.
+            Most small businesses require active customer acquisition and relationship management. The ability to sell - whether to customers, investors, sellers, or employees - is fundamental to search fund success. Sales experience, particularly in B2B or relationship-driven contexts, is enormously valuable.
           </p>
 
           <p>
@@ -268,7 +268,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Leadership and People Management</h3>
           <p>
-            Successfully operating an acquired business requires leading employees through transition, maintaining culture, and driving performance. Prior management experience—supervising teams, coaching employees, handling difficult personnel situations—is direct evidence of this capability.
+            Successfully operating an acquired business requires leading employees through transition, maintaining culture, and driving performance. Prior management experience (supervising teams, coaching employees, handling difficult personnel situations) is direct evidence of this capability.
           </p>
 
           <p>
@@ -277,7 +277,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Resilience and Grit</h3>
           <p>
-            Search funds are long, difficult journeys with frequent rejection and setbacks. Both the search process and post-acquisition ownership require persistence, emotional resilience, and work ethic. Life experiences—military service, entrepreneurial ventures, challenging career situations—can demonstrate these qualities as effectively as educational pedigree.
+            Search funds are long, difficult journeys with frequent rejection and setbacks. Both the search process and post-acquisition ownership require persistence, emotional resilience, and work ethic. Life experiences (military service, entrepreneurial ventures, challenging career situations) can demonstrate these qualities as effectively as educational pedigree.
           </p>
 
           <p>
@@ -339,7 +339,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Raising Capital Without the Pedigree</h2>
         <div className={bodyClass}>
           <p>
-            Traditional search fund investors who write checks based primarily on pedigree—Harvard MBA, prior consulting or banking experience—do exist. But many investors take a more nuanced approach, particularly when evaluating self-funded searchers with specific deals.
+            Traditional search fund investors who write checks based primarily on pedigree - Harvard MBA, prior consulting or banking experience - do exist. But many investors take a more nuanced approach, particularly when evaluating self-funded searchers with specific deals.
           </p>
 
           <p>
@@ -348,7 +348,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Lead with the Deal, Not Yourself</h3>
           <p>
-            Present investment opportunities rather than asking investors to bet on you personally. Once you have a specific business under LOI, your pitch centers on the company's quality, market position, and growth opportunity. Your role is explaining why you're the right operator for that specific business—a much easier case to make than defending general qualifications.
+            Present investment opportunities rather than asking investors to bet on you personally. Once you have a specific business under LOI, your pitch centers on the company's quality, market position, and growth opportunity. Your role is explaining why you're the right operator for that specific business, which is a much easier case to make than defending general qualifications.
           </p>
 
           <h3 className={h3Class}>Target Industry-Aligned Investors</h3>
@@ -445,7 +445,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Remember that the goal isn't to prove that MBAs are unnecessary—it's to demonstrate that multiple paths exist into ETA, and industry expertise combined with intentional skill-building and networking can be equally or more effective than business school credentials. The search fund ecosystem is becoming more diverse and meritocratic, creating opportunities for those willing to forge their own paths.
+            Remember that the goal isn't to prove that MBAs are unnecessary - it's to demonstrate that multiple paths exist into ETA, and industry expertise combined with intentional skill-building and networking can be equally or more effective than business school credentials. The search fund ecosystem is becoming more diverse and meritocratic, creating opportunities for those willing to forge their own paths.
           </p>
         </div>
       </section>

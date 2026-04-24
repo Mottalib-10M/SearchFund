@@ -51,7 +51,7 @@ export default function EvaluatingManagementTeamArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Scenario A:</strong> A searcher acquires a profitable manufacturing business only to discover post-close that the operations manager—who wasn't on the organizational chart—is the only person who understands the production process. When she leaves three months later, production efficiency drops 40%.</li>
+        <li><strong>Scenario A:</strong> A searcher acquires a profitable manufacturing business only to discover post-close that the operations manager - who wasn't on the organizational chart - is the only person who understands the production process. When she leaves three months later, production efficiency drops 40%.</li>
         <li><strong>Scenario B:</strong> An acquisition closes successfully, but the searcher discovers that the "VP of Sales" is actually the founder's nephew with minimal responsibilities. The real sales function is managed by three regional managers who report directly to the founder and have no relationship with the new owner.</li>
         <li><strong>Scenario C:</strong> Due diligence reveals a strong management team, but post-close interviews show they were loyal to the founder personally, not the company. Without the founder's presence, cultural cohesion evaporates and two key managers resign.</li>
       </ul>
@@ -81,7 +81,7 @@ export default function EvaluatingManagementTeamArticle() {
         <li>What are the formal reporting relationships? Do they reflect actual influence and communication patterns?</li>
         <li>Which roles exist on paper but lack real responsibility? Which critical functions are performed by people not formally recognized?</li>
         <li>How much does the founder/owner still do? What specific responsibilities will transfer to you or remain with the team?</li>
-        <li>Are there unofficial "shadow" structures—family relationships, long-standing partnerships, or informal hierarchies that supersede the formal structure?</li>
+        <li>Are there unofficial "shadow" structures - family relationships, long-standing partnerships, or informal hierarchies that supersede the formal structure?</li>
       </ul>
 
       <p className={bodyClass}>
@@ -135,7 +135,7 @@ export default function EvaluatingManagementTeamArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Explore their career progression—have they successfully taken on increasing responsibility?</li>
+        <li>Explore their career progression - have they successfully taken on increasing responsibility?</li>
         <li>Discuss their aspirations and learning orientation</li>
         <li>Evaluate how they've handled past growth or change in the business</li>
         <li>Assess their self-awareness about development needs</li>
@@ -476,7 +476,7 @@ export default function EvaluatingManagementTeamArticle() {
       <ul className={ulClass}>
         <li>Make changes quickly (within 90 days) to establish your standards and avoid prolonged uncertainty</li>
         <li>Be clear and respectful in transitions to preserve morale among retained employees</li>
-        <li>Upgrade based on future needs, not just current gaps—hire for where the business is going</li>
+        <li>Upgrade based on future needs, not just current gaps - hire for where the business is going</li>
         <li>Consider whether you have the network and time to recruit effectively while running the business</li>
       </ul>
 
@@ -576,7 +576,7 @@ export default function EvaluatingManagementTeamArticle() {
         <li>All key employees plan to leave and the business is deeply dependent on them</li>
         <li>The management team is fundamentally incompetent and rebuilding would take too long or cost too much</li>
         <li>Cultural toxicity is so deep that you'd need to replace most of the organization</li>
-        <li>The seller has been so involved that there effectively is no management team—you'd be buying yourself a demanding job, not a business with leverage</li>
+        <li>The seller has been so involved that there effectively is no management team - you'd be buying yourself a demanding job, not a business with leverage</li>
       </ul>
 
       <p className={bodyClass}>
@@ -586,7 +586,7 @@ export default function EvaluatingManagementTeamArticle() {
       <h2 className={h2Class}>Conclusion</h2>
 
       <p className={bodyClass}>
-        The quality of your management team will be one of the strongest predictors of your success as a search fund entrepreneur. A rigorous, structured approach to management assessment during due diligence—covering organizational structure, individual capabilities, alignment, culture, and sustainability—helps you enter ownership with realistic expectations and a clear plan for building the team you need.
+        The quality of your management team will be one of the strongest predictors of your success as a search fund entrepreneur. A rigorous, structured approach to management assessment during due diligence - covering organizational structure, individual capabilities, alignment, culture, and sustainability - helps you enter ownership with realistic expectations and a clear plan for building the team you need.
       </p>
 
       <p className={bodyClass}>

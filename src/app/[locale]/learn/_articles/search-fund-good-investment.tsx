@@ -36,7 +36,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These figures place search funds among the highest-returning strategies in private equity. To contextualize: a 35% IRR sustained over seven years turns $100,000 into $730,000—substantially outperforming most alternative investments.
+        These figures place search funds among the highest-returning strategies in private equity. To contextualize: a 35% IRR sustained over seven years turns $100,000 into $730,000 - substantially outperforming most alternative investments.
       </p>
 
       <h3 className={h3Class}>Distribution of Returns</h3>
@@ -46,9 +46,9 @@ export default function SearchFundGoodInvestmentArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Top Quartile:</strong> IRRs above 60%, MOIC above 8.0x—venture-like outcomes</li>
-        <li><strong>Second Quartile:</strong> IRRs of 30-60%, MOIC of 3.5-8.0x—strong PE returns</li>
-        <li><strong>Third Quartile:</strong> IRRs of 10-30%, MOIC of 1.5-3.5x—modest outperformance</li>
+        <li><strong>Top Quartile:</strong> IRRs above 60%, MOIC above 8.0x (venture-like outcomes)</li>
+        <li><strong>Second Quartile:</strong> IRRs of 30-60%, MOIC of 3.5-8.0x (strong PE returns)</li>
+        <li><strong>Third Quartile:</strong> IRRs of 10-30%, MOIC of 1.5-3.5x (modest outperformance)</li>
         <li><strong>Bottom Quartile:</strong> IRRs below 10% or negative, including total losses</li>
       </ul>
 
@@ -287,12 +287,12 @@ export default function SearchFundGoodInvestmentArticle() {
 
       <ul className={ulClass}>
         <li><strong>Industry Mix:</strong> Business services, healthcare, software, manufacturing, distribution</li>
-        <li><strong>Geographic Mix:</strong> US, Canada, Europe, Latin America—each with different economic cycles</li>
-        <li><strong>Business Model Mix:</strong> B2B, B2C, SaaS, traditional services—different growth and risk profiles</li>
+        <li><strong>Geographic Mix:</strong> US, Canada, Europe, Latin America, each with different economic cycles</li>
+        <li><strong>Business Model Mix:</strong> B2B, B2C, SaaS, traditional services, with different growth and risk profiles</li>
       </ul>
 
       <p className={bodyClass}>
-        Intentional diversification across these dimensions reduces correlation and improves risk-adjusted returns. However, over-diversifying by forcing investments in unfamiliar sectors or geographies can backfire—investors should prioritize searcher quality over perfect portfolio balance.
+        Intentional diversification across these dimensions reduces correlation and improves risk-adjusted returns. However, over-diversifying by forcing investments in unfamiliar sectors or geographies can backfire. Investors should prioritize searcher quality over perfect portfolio balance.
       </p>
 
       <h2 className={h2Class}>Loss Rates and Downside Protection</h2>
@@ -316,7 +316,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Notably, "searcher incompetence" is rarely the primary driver—most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> examines these failure modes in greater detail.
+        Notably, "searcher incompetence" is rarely the primary driver. Most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> examines these failure modes in greater detail.
       </p>
 
       <h3 className={h3Class}>Mitigating Downside Risk</h3>
@@ -328,7 +328,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <ul className={ulClass}>
         <li><strong>Customer Diversification:</strong> Require no single customer exceeding 15% of revenue</li>
         <li><strong>Management Transition Planning:</strong> Assess seller's willingness to support transition; plan for key employee retention</li>
-        <li><strong>Industry Defensibility:</strong> Favor businesses with moats—regulatory licenses, network effects, high switching costs</li>
+        <li><strong>Industry Defensibility:</strong> Favor businesses with moats: regulatory licenses, network effects, high switching costs</li>
         <li><strong>Conservative Leverage:</strong> Cap debt at 2.5-3.0x EBITDA to preserve flexibility</li>
         <li><strong>Quality of Earnings:</strong> Insist on thorough QoE analysis; walk away from accounting irregularities</li>
       </ul>
@@ -340,7 +340,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <h3 className={h3Class}>Partial Loss Scenarios</h3>
 
       <p className={bodyClass}>
-        Not all unsuccessful investments result in total loss. Some deliver 0.5-1.5x returns—capital preservation or modest gains rather than home runs. The Stanford data suggests:
+        Not all unsuccessful investments result in total loss. Some deliver 0.5-1.5x returns, representing capital preservation or modest gains rather than home runs. The Stanford data suggests:
       </p>
 
       <ul className={ulClass}>
@@ -352,7 +352,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        This distribution means portfolios have a "floor" higher than zero—even with losses, 40% of investments return at least original capital, cushioning downside.
+        This distribution means portfolios have a "floor" higher than zero. Even with losses, 40% of investments return at least original capital, cushioning downside.
       </p>
 
       <h2 className={h2Class}>The European Opportunity</h2>
@@ -408,7 +408,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <h2 className={h2Class}>Selecting Winning Searchers: What Drives Outperformance</h2>
 
       <p className={bodyClass}>
-        Individual search fund returns vary dramatically based on searcher quality. The difference between top-quartile and bottom-quartile searchers is ~70 percentage points of IRR—far exceeding the spread in traditional PE or VC.
+        Individual search fund returns vary dramatically based on searcher quality. The difference between top-quartile and bottom-quartile searchers is ~70 percentage points of IRR, far exceeding the spread in traditional PE or VC.
       </p>
 
       <h3 className={h3Class}>Predictive Characteristics of Top-Quartile Searchers</h3>
@@ -426,7 +426,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Importantly, these factors are observable at investment time—investors can screen for these characteristics before committing capital.
+        Importantly, these factors are observable at investment time, and investors can screen for these characteristics before committing capital.
       </p>
 
       <h3 className={h3Class}>Red Flags and Negative Predictors</h3>
@@ -450,7 +450,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <h3 className={h3Class}>The Importance of Coach-Ability</h3>
 
       <p className={bodyClass}>
-        Perhaps the most important but hardest-to-measure characteristic is coach-ability. Search funds are structured as apprenticeships—first-time CEOs learning from experienced investors. Searchers who actively seek feedback, implement suggestions, and acknowledge knowledge gaps vastly outperform those who view investors as passive capital sources.
+        Perhaps the most important but hardest-to-measure characteristic is coach-ability. Search funds are structured as apprenticeships - first-time CEOs learning from experienced investors. Searchers who actively seek feedback, implement suggestions, and acknowledge knowledge gaps vastly outperform those who view investors as passive capital sources.
       </p>
 
       <p className={bodyClass}>
@@ -479,7 +479,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ol>
 
       <p className={bodyClass}>
-        Strong deals score highly across all six dimensions. Mediocre deals have one or two weaknesses. Pass on deals with multiple major concerns—searcher talent cannot overcome structural disadvantages.
+        Strong deals score highly across all six dimensions. Mediocre deals have one or two weaknesses. Pass on deals with multiple major concerns; searcher talent cannot overcome structural disadvantages.
       </p>
 
       <h3 className={h3Class}>Valuation Discipline</h3>
@@ -496,7 +496,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        The return delta between low and high purchase multiples is enormous—investors should strongly favor searchers who maintain valuation discipline even if it means longer search periods.
+        The return delta between low and high purchase multiples is enormous. Investors should strongly favor searchers who maintain valuation discipline even if it means longer search periods.
       </p>
 
       <h3 className={h3Class}>Capital Structure Optimization</h3>
@@ -537,7 +537,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These structural advantages are durable—search funds access a market segment that remains inefficient despite broader PE professionalization.
+        These structural advantages are durable. Search funds access a market segment that remains inefficient despite broader PE professionalization.
       </p>
 
       <h3 className={h3Class}>Risks to Future Returns</h3>

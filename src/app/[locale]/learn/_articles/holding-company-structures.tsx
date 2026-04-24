@@ -30,7 +30,7 @@ export default function HoldingCompanyStructuresArticle() {
           <li><strong>Investor structure:</strong> HoldCo is where{" "}
             <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
               equity is held
-            </Link> — preferred shares, common shares, carried interest, and investor rights</li>
+            </Link> - preferred shares, common shares, carried interest, and investor rights</li>
           <li><strong>Exit flexibility:</strong> Can sell individual OpCos without unwinding the entire structure</li>
         </ul>
 

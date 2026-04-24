@@ -19,7 +19,7 @@ export default function ETAvsStartupsArticle() {
         </p>
         <p>
           This guide provides a rigorous, data-driven comparison across every
-          dimension that matters — so you can make the most informed decision of
+          dimension that matters - so you can make the most informed decision of
           your career.
         </p>
 
@@ -34,7 +34,7 @@ export default function ETAvsStartupsArticle() {
         <p>
           Approximately 90% of startups fail, according to data compiled by CB
           Insights and the Bureau of Labor Statistics. Of those that survive, the
-          median outcome is modest — most &quot;successful&quot; startups never
+          median outcome is modest - most &quot;successful&quot; startups never
           achieve venture-scale returns. The top 1% of outcomes (unicorns, major
           acquisitions) drive the bulk of total startup returns, creating a
           power-law distribution that makes the expected value calculation deeply
@@ -46,7 +46,7 @@ export default function ETAvsStartupsArticle() {
           Franchise failure rates sit around 15% over a five-year period, according
           to FRANdata research. This lower failure rate reflects the value of proven
           systems, brand recognition, and corporate support. However, the
-          &quot;failure&quot; definition varies — many franchise owners who technically
+          &quot;failure&quot; definition varies - many franchise owners who technically
           survive are earning below their opportunity cost, making their
           &quot;success&quot; economically questionable.
         </p>
@@ -59,7 +59,7 @@ export default function ETAvsStartupsArticle() {
           the complete performance picture. This means roughly
           two-thirds of searchers successfully acquire and operate a company. When
           a search fund does fail, it&apos;s most often because the searcher couldn&apos;t
-          find a suitable acquisition target within the search window — not because
+          find a suitable acquisition target within the search window - not because
           the acquired company collapsed. Post-acquisition failure rates are
           significantly lower, in the range of 10-15%.
         </p>
@@ -104,7 +104,7 @@ export default function ETAvsStartupsArticle() {
           </li>
           <li>
             <strong>Ongoing fees:</strong> Royalty fees of 4-8% of gross revenue plus
-            marketing fund contributions of 1-4% — these are perpetual costs
+            marketing fund contributions of 1-4% - these are perpetual costs
           </li>
           <li>
             <strong>Personal guarantee exposure:</strong> High. SBA loans require
@@ -126,7 +126,7 @@ export default function ETAvsStartupsArticle() {
           </li>
           <li>
             <strong>Searcher equity:</strong> 20-30% of the acquired company,
-            typically vesting over 4-5 years. This is earned equity — you&apos;re not
+            typically vesting over 4-5 years. This is earned equity - you&apos;re not
             buying it, you&apos;re earning it through sweat and execution
           </li>
           <li>
@@ -146,7 +146,7 @@ export default function ETAvsStartupsArticle() {
         <h3 className={h3Class}>Startups: the long road</h3>
         <p>
           Most startups take 3-7 years to reach profitability, and many never do.
-          Founder salaries during the early years are often $0-$80K — well below
+          Founder salaries during the early years are often $0-$80K - well below
           what these individuals could earn in corporate roles. The median time
           from founding to meaningful exit (acquisition or IPO) is 7-10 years for
           venture-backed companies, and the vast majority of founders never see
@@ -180,7 +180,7 @@ export default function ETAvsStartupsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Startups:</strong> Full creative and strategic control. You
-            define the product, the market, the brand, the culture — everything.
+            define the product, the market, the brand, the culture - everything.
             This freedom is intoxicating but can also be paralyzing without
             guardrails
           </li>
@@ -194,8 +194,8 @@ export default function ETAvsStartupsArticle() {
             <strong>ETA:</strong> Full operational control post-acquisition. You
             have a board of directors (typically your investors), but you are the
             CEO making daily and strategic decisions. The key difference from a
-            startup is that you inherit an existing system — employees, customers,
-            processes — rather than building from zero
+            startup is that you inherit an existing system - employees, customers,
+            processes - rather than building from zero
           </li>
         </ul>
 
@@ -207,7 +207,7 @@ export default function ETAvsStartupsArticle() {
 
         <h3 className={h3Class}>Startup exits</h3>
         <p>
-          The theoretical upside of startups is unlimited — a unicorn outcome can
+          The theoretical upside of startups is unlimited - a unicorn outcome can
           generate hundreds of millions in founder wealth. In practice, the median
           venture-backed startup exit is around $50M in enterprise value, and the
           founder&apos;s diluted share is often 5-15% by that point. For the rare
@@ -217,7 +217,7 @@ export default function ETAvsStartupsArticle() {
 
         <h3 className={h3Class}>Franchise exits</h3>
         <p>
-          Franchise resale values are typically modest — 2-4x annual cash flow for
+          Franchise resale values are typically modest - 2-4x annual cash flow for
           a single unit. A franchise generating $150K in annual owner benefit might
           sell for $300K-$600K. Multi-unit portfolios command better multiples but
           require years of scaling. The franchise model is better understood as an
@@ -227,12 +227,12 @@ export default function ETAvsStartupsArticle() {
         <h3 className={h3Class}>ETA exits</h3>
         <p>
           Stanford data shows that the median search fund acquisition generates a
-          5.4x return on invested capital, with top-quartile deals exceeding 10x — read
+          5.4x return on invested capital, with top-quartile deals exceeding 10x - read
           more about{" "}
           <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors back search funds</Link>.
           A searcher who acquires a $10M company, grows it to $20M in enterprise
           value over five years, and holds 25% equity would realize $5M in personal
-          wealth — a realistic, achievable outcome. The 2024 Stanford Search Fund
+          wealth - a realistic, achievable outcome. The 2024 Stanford Search Fund
           Study reports aggregate returns of 8.9x on invested capital and 33.7%
           IRR across the asset class.
         </p>
@@ -264,8 +264,8 @@ export default function ETAvsStartupsArticle() {
 
         <h3 className={h3Class}>Creativity vs. operations orientation</h3>
         <p>
-          If you&apos;re driven by inventing something new — a product, a market, a
-          category — startups are your natural home. If you thrive on optimizing
+          If you&apos;re driven by inventing something new - a product, a market, a
+          category - startups are your natural home. If you thrive on optimizing
           existing systems, managing people, and driving incremental improvements,
           ETA is a better fit. Franchises suit operators who are comfortable
           following established procedures with minimal deviation.
@@ -293,14 +293,14 @@ export default function ETAvsStartupsArticle() {
           An MBA from a top program (Stanford, Harvard, INSEAD, IESE, Wharton) is
           a significant advantage in ETA because it provides access to the investor
           network, alumni deal flow, and credibility with sellers. In startups, an
-          MBA is less relevant — domain expertise and technical skills matter more.
+          MBA is less relevant - domain expertise and technical skills matter more.
           In franchises, an MBA is largely irrelevant; operational discipline and
           sales ability drive success.
         </p>
 
         <h2 className={h2Class}>Lifestyle considerations</h2>
         <p>
-          Business ownership is not just a career decision — it&apos;s a lifestyle
+          Business ownership is not just a career decision - it&apos;s a lifestyle
           decision that affects your family, health, and daily experience.
         </p>
         <ul className={ulClass}>
@@ -316,7 +316,7 @@ export default function ETAvsStartupsArticle() {
           </li>
           <li>
             <strong>ETA:</strong> 50-60 hour weeks as CEO. You inherit an existing
-            team and rhythm. Geographic flexibility is limited — you go where the
+            team and rhythm. Geographic flexibility is limited - you go where the
             company is located, which may mean relocating to a smaller city or
             rural area. The stability of existing cash flow reduces (but does not
             eliminate) financial stress
@@ -330,8 +330,8 @@ export default function ETAvsStartupsArticle() {
           stage. If you crave creation and can absorb total loss, start something.
           If you want predictability and a proven system, buy a franchise. If you
           want to be CEO of a real, profitable company with meaningful equity
-          upside — and you have the operational mindset and financial modeling
-          skills to underwrite a deal — ETA is the most compelling risk-adjusted
+          upside - and you have the operational mindset and financial modeling
+          skills to underwrite a deal - ETA is the most compelling risk-adjusted
           path to business ownership available today. Our{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link> can
           help you take the first step.

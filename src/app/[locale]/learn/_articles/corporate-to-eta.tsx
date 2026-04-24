@@ -23,7 +23,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea—you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business. Understanding the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link> can help you assess whether your profile is a strong fit.
+        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea - you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business. Understanding the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link> can help you assess whether your profile is a strong fit.
       </p>
 
       <p className={bodyClass}>
@@ -31,7 +31,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Understanding this shift—and honestly assessing whether you're suited for it—is the first step in determining if and when to make the leap.
+        Understanding this shift - and honestly assessing whether you're suited for it - is the first step in determining if and when to make the leap.
       </p>
 
       <h2 className={h2Class}>Signs You're Ready to Leave Corporate</h2>
@@ -67,7 +67,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>You're Energized by Ambiguity</h3>
 
       <p className={bodyClass}>
-        Corporate life offers clear hierarchies, defined roles, and established processes. ETA is fundamentally about navigating uncertainty—from sourcing deals to negotiating with sellers to fixing problems in an acquired business. If ambiguity drains you rather than energizes you, the transition may be premature.
+        Corporate life offers clear hierarchies, defined roles, and established processes. ETA is fundamentally about navigating uncertainty - from sourcing deals to negotiating with sellers to fixing problems in an acquired business. If ambiguity drains you rather than energizes you, the transition may be premature.
       </p>
 
       <h3 className={h3Class}>You Have Support at Home</h3>
@@ -204,7 +204,7 @@ export default function CorporateToETAArticle() {
       <h2 className={h2Class}>Transferable Skills from Corporate</h2>
 
       <p className={bodyClass}>
-        Your corporate experience provides numerous advantages in ETA. Understanding which skills transfer—and how—helps you position yourself effectively with investors and sellers:
+        Your corporate experience provides numerous advantages in ETA. Understanding which skills transfer - and how - helps you position yourself effectively with investors and sellers:
       </p>
 
       <h3 className={h3Class}>Strategic Thinking and Analysis</h3>
@@ -240,7 +240,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Sales and Business Development</h3>
 
       <p className={bodyClass}>
-        Corporate sales experience is enormously valuable. Many searchers come from pure strategy or finance backgrounds and underestimate how much of success depends on sales—both selling yourself to investors and sellers, and driving revenue in the acquired business.
+        Corporate sales experience is enormously valuable. Many searchers come from pure strategy or finance backgrounds and underestimate how much of success depends on sales - both selling yourself to investors and sellers, and driving revenue in the acquired business.
       </p>
 
       <h2 className={h2Class}>Skills You'll Need to Build</h2>
@@ -258,13 +258,13 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Negotiation with Principals</h3>
 
       <p className={bodyClass}>
-        Corporate negotiations often involve professional counterparties (procurement, HR, legal). Negotiating with individual business owners who've poured their lives into their companies requires different skills—more emotional intelligence, patience, and creative problem-solving.
+        Corporate negotiations often involve professional counterparties (procurement, HR, legal). Negotiating with individual business owners who've poured their lives into their companies requires different skills - more emotional intelligence, patience, and creative problem-solving.
       </p>
 
       <h3 className={h3Class}>Hands-On Problem Solving</h3>
 
       <p className={bodyClass}>
-        In corporate roles, you often have specialists for everything. In a small acquired business, you may need to troubleshoot the CRM, negotiate with suppliers, handle customer complaints, and fix the WiFi—sometimes all in the same day. Comfort with tactical execution matters.
+        In corporate roles, you often have specialists for everything. In a small acquired business, you may need to troubleshoot the CRM, negotiate with suppliers, handle customer complaints, and fix the WiFi - sometimes all in the same day. Comfort with tactical execution matters.
       </p>
 
       <h3 className={h3Class}>Selling to Investors</h3>
@@ -364,7 +364,7 @@ export default function CorporateToETAArticle() {
         <li>Complete search fund fundraising materials</li>
         <li>Schedule initial investor meetings to begin immediately after departure</li>
         <li>Set up your search infrastructure (LLC, website, CRM, email system)</li>
-        <li>Plan a short break between corporate and search—you'll need it</li>
+        <li>Plan a short break between corporate and search - you'll need it</li>
       </ul>
 
       <h3 className={h3Class}>Month 1: Post-Departure</h3>
@@ -416,13 +416,13 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Involve Your Partner in Major Decisions</h3>
 
       <p className={bodyClass}>
-        If you're married or in a committed relationship, involve your partner in key decisions: which investors to partner with, whether to pursue a particular deal, whether to relocate for an opportunity. You're asking them to take this journey with you—treat them like the partner they are.
+        If you're married or in a committed relationship, involve your partner in key decisions: which investors to partner with, whether to pursue a particular deal, whether to relocate for an opportunity. You're asking them to take this journey with you - treat them like the partner they are.
       </p>
 
       <h3 className={h3Class}>Plan for the Emotional Journey</h3>
 
       <p className={bodyClass}>
-        The search process is emotionally taxing. Deals fall apart, investors say no, sellers ghost you. Your partner needs to understand this isn't failure—it's the process. Establish support systems and communication practices to manage the stress together.
+        The search process is emotionally taxing. Deals fall apart, investors say no, sellers ghost you. Your partner needs to understand this isn't failure - it's the process. Establish support systems and communication practices to manage the stress together.
       </p>
 
       <h3 className={h3Class}>Protect Family Time</h3>

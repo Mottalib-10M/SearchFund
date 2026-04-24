@@ -170,7 +170,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        NYU professor Damodaran is one of the world's foremost valuation experts. This book addresses the messy reality of valuing businesses that don't fit textbook models—which describes most search fund targets.
+        NYU professor Damodaran is one of the world's foremost valuation experts. This book addresses the messy reality of valuing businesses that don't fit textbook models - which describes most search fund targets.
       </p>
 
       <p className={bodyClass}>
@@ -220,7 +220,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Best For:</strong> Everyone—this is essential reading regardless of your background. Particularly valuable for searchers who will be negotiating with emotional sellers.
+        <strong>Best For:</strong> Everyone. This is essential reading regardless of your background. Particularly valuable for searchers who will be negotiating with emotional sellers.
       </p>
 
       <h3 className={h3Class}>Never Split the Difference: Negotiating As If Your Life Depended On It</h3>
@@ -230,7 +230,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        Former FBI hostage negotiator Chris Voss brings hard-won tactical lessons to business negotiations. His techniques are particularly effective in high-stakes, emotionally charged situations—exactly like selling a business.
+        Former FBI hostage negotiator Chris Voss brings hard-won tactical lessons to business negotiations. His techniques are particularly effective in high-stakes, emotionally charged situations, exactly like selling a business.
       </p>
 
       <p className={bodyClass}>
@@ -248,7 +248,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        Harvard Business School professor Malhotra provides frameworks for handling negotiations that seem impossible to resolve—which accurately describes many acquisition discussions.
+        Harvard Business School professor Malhotra provides frameworks for handling negotiations that seem impossible to resolve - which accurately describes many acquisition discussions.
       </p>
 
       <p className={bodyClass}>
@@ -520,7 +520,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        No single book will make you an expert—but reading widely, applying lessons in real situations, and continuously learning from both successes and failures will dramatically increase your odds of success. Treat this reading list as a living document that evolves with your journey, and don't hesitate to explore beyond these recommendations when you identify specific knowledge gaps.
+        No single book will make you an expert - but reading widely, applying lessons in real situations, and continuously learning from both successes and failures will dramatically increase your odds of success. Treat this reading list as a living document that evolves with your journey, and don't hesitate to explore beyond these recommendations when you identify specific knowledge gaps.
       </p>
 
       <p className={bodyClass}>

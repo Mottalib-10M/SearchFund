@@ -36,7 +36,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>Phase I Environmental Site Assessment</h2>
 
       <p className={bodyClass}>
-        The Phase I Environmental Site Assessment (ESA) is the foundation of environmental due diligence and a standard requirement for commercial real estate transactions. Conducted according to ASTM E1527-21 standards, a Phase I ESA aims to identify "recognized environmental conditions" (RECs) through records review, site inspection, and interviews—without soil or groundwater sampling.
+        The Phase I Environmental Site Assessment (ESA) is the foundation of environmental due diligence and a standard requirement for commercial real estate transactions. Conducted according to ASTM E1527-21 standards, a Phase I ESA aims to identify "recognized environmental conditions" (RECs) through records review, site inspection, and interviews, without soil or groundwater sampling.
       </p>
 
       <h3 className={h3Class}>Phase I ESA Components</h3>
@@ -100,7 +100,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </ol>
 
       <p className={bodyClass}>
-        Phase II costs vary widely depending on site size, number of sampling locations, analytical scope, and site access considerations—typically ranging from $10,000 to $100,000+ for comprehensive investigations. Budget adequate time (4-8 weeks) for Phase II work, as it involves regulatory approvals, drilling contractors, laboratory analysis, and report preparation.
+        Phase II costs vary widely depending on site size, number of sampling locations, analytical scope, and site access considerations, typically ranging from $10,000 to $100,000+ for comprehensive investigations. Budget adequate time (4-8 weeks) for Phase II work, as it involves regulatory approvals, drilling contractors, laboratory analysis, and report preparation.
       </p>
 
       <h3 className={h3Class}>Remediation Cost Estimation</h3>
@@ -134,7 +134,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Current owners and operators:</strong> Regardless of fault or knowledge, current property owners face liability for contamination—even if caused by prior owners or tenants</li>
+        <li><strong>Current owners and operators:</strong> Regardless of fault or knowledge, current property owners face liability for contamination, even if caused by prior owners or tenants</li>
         <li><strong>Past owners and operators:</strong> Entities that owned or operated the facility at the time of hazardous substance disposal</li>
         <li><strong>Generators:</strong> Parties that arranged for disposal or treatment of hazardous substances</li>
         <li><strong>Transporters:</strong> Companies that transported hazardous substances to disposal sites</li>
@@ -425,7 +425,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        When red flags emerge, pause the transaction timeline, engage specialized environmental counsel and consultants, quantify costs and liabilities, and reassess deal structure. Environmental issues are often negotiable through price adjustments, seller indemnities, escrows, or remediation completion prior to closing—but only if identified and addressed during diligence.
+        When red flags emerge, pause the transaction timeline, engage specialized environmental counsel and consultants, quantify costs and liabilities, and reassess deal structure. Environmental issues are often negotiable through price adjustments, seller indemnities, escrows, or remediation completion prior to closing - but only if identified and addressed during diligence.
       </p>
 
       <h2 className={h2Class}>Deal Structure & Contractual Protections</h2>
@@ -583,11 +583,11 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>Related Resources</h2>
 
       <ul className={ulClass}>
-        <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Comprehensive Due Diligence Checklist</Link> — Master framework for thorough acquisition diligence</li>
-        <li><Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">Legal Due Diligence Guide</Link> — Contracts, litigation, regulatory compliance, and legal risk assessment</li>
-        <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Operational Due Diligence</Link> — Evaluate processes, capacity, and operational excellence</li>
-        <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties Guide</Link> — Negotiate protective contractual provisions</li>
-        <li><Link href="/learn/commercial-due-diligence" className="text-apple-accent hover:underline">Commercial Due Diligence</Link> — Market assessment and competitive positioning</li>
+        <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Comprehensive Due Diligence Checklist</Link> - Master framework for thorough acquisition diligence</li>
+        <li><Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">Legal Due Diligence Guide</Link> - Contracts, litigation, regulatory compliance, and legal risk assessment</li>
+        <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Operational Due Diligence</Link> - Evaluate processes, capacity, and operational excellence</li>
+        <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties Guide</Link> - Negotiate protective contractual provisions</li>
+        <li><Link href="/learn/commercial-due-diligence" className="text-apple-accent hover:underline">Commercial Due Diligence</Link> - Market assessment and competitive positioning</li>
       </ul>
 
       <h2 className={h2Class}>Frequently asked questions</h2>

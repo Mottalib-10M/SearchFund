@@ -15,7 +15,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          The challenge is not a lack of businesses for sale—millions of baby boomers are retiring each year, creating an unprecedented wave of succession opportunities. The challenge is finding businesses that meet your specific criteria: the right size, industry, geography, growth potential, and cultural fit. This requires a sophisticated, multi-channel approach that balances volume, quality, and cost efficiency.
+          The challenge is not a lack of businesses for sale - millions of baby boomers are retiring each year, creating an unprecedented wave of succession opportunities. The challenge is finding businesses that meet your specific criteria: the right size, industry, geography, growth potential, and cultural fit. This requires a sophisticated, multi-channel approach that balances volume, quality, and cost efficiency.
         </p>
 
         <p>
@@ -33,7 +33,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Each channel has a different conversion funnel. Online marketplaces might require reviewing 100 listings to generate 10 serious conversations and 1 letter of intent. Proprietary outreach typically has much lower response rates—you might need 500 outreach attempts to generate 5 meaningful conversations—but the deals tend to be higher quality with less competition. Understanding these conversion metrics helps you allocate your time and resources effectively.
+          Each channel has a different conversion funnel. Online marketplaces might require reviewing 100 listings to generate 10 serious conversations and 1 letter of intent. Proprietary outreach typically has much lower response rates (you might need 500 outreach attempts to generate 5 meaningful conversations), but the deals tend to be higher quality with less competition. Understanding these conversion metrics helps you allocate your time and resources effectively.
         </p>
 
         <p>
@@ -59,7 +59,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          DealStream serves as a middle ground between public and private marketplaces, offering both advertised listings and off-market opportunities. The platform attracts a mix of private sellers, brokers, and institutional intermediaries. Monthly subscriptions range from $49-$399 depending on feature access. DealStream's strength is its breadth—you'll find everything from $500K EBITDA manufacturers to $20M revenue distribution companies. The weakness is inconsistent data quality and the need to wade through many low-quality or inactive listings.
+          DealStream serves as a middle ground between public and private marketplaces, offering both advertised listings and off-market opportunities. The platform attracts a mix of private sellers, brokers, and institutional intermediaries. Monthly subscriptions range from $49-$399 depending on feature access. DealStream's strength is its breadth: you'll find everything from $500K EBITDA manufacturers to $20M revenue distribution companies. The weakness is inconsistent data quality and the need to wade through many low-quality or inactive listings.
         </p>
 
         <p>
@@ -77,7 +77,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Brokers typically earn 8-12% commission on sales under $1M and 5-10% on larger transactions, paid by the seller. This creates a potential incentive misalignment—brokers are motivated to close deals quickly at the highest possible price, while you need to conduct thorough due diligence and negotiate fair valuations. The best brokers balance these tensions by focusing on long-term relationships and sustainable deal structures, knowing that reputation is their most valuable asset.
+          Brokers typically earn 8-12% commission on sales under $1M and 5-10% on larger transactions, paid by the seller. This creates a potential incentive misalignment: brokers are motivated to close deals quickly at the highest possible price, while you need to conduct thorough due diligence and negotiate fair valuations. The best brokers balance these tensions by focusing on long-term relationships and sustainable deal structures, knowing that reputation is their most valuable asset.
         </p>
 
         <p>
@@ -85,7 +85,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Building broker relationships is a long-term investment. Start by introducing yourself via email or phone, clearly articulating your search criteria, financial backing, and timeline. Share your background and explain why you're well-positioned to close deals. Ask about their current inventory and typical deal flow. The goal is to become a "first call" buyer—someone brokers think of immediately when a quality listing matches your profile.
+          Building broker relationships is a long-term investment. Start by introducing yourself via email or phone, clearly articulating your search criteria, financial backing, and timeline. Share your background and explain why you're well-positioned to close deals. Ask about their current inventory and typical deal flow. The goal is to become a "first call" buyer, someone brokers think of immediately when a quality listing matches your profile.
         </p>
 
         <p>
@@ -103,7 +103,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Proprietary Outreach: Direct to Owners</h2>
 
         <p>
-          Proprietary deal sourcing—directly contacting business owners who haven't publicly indicated their businesses are for sale—represents the highest-quality channel but requires the most effort and sophistication. Studies of search fund outcomes consistently show that proprietary deals generate superior returns, primarily because you face less competition, can build direct relationships with owners, and often acquire at more favorable valuations.
+          Proprietary deal sourcing (directly contacting business owners who haven't publicly indicated their businesses are for sale) represents the highest-quality channel but requires the most effort and sophistication. Studies of search fund outcomes consistently show that proprietary deals generate superior returns, primarily because you face less competition, can build direct relationships with owners, and often acquire at more favorable valuations.
         </p>
 
         <p>
@@ -119,7 +119,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Your initial contact should be brief, professional, and respectful. A strong template includes: introduction of yourself and your background, acknowledgment of their specific business and accomplishments, expression of interest in learning about the company, explanation that you're seeking to acquire and operate a business long-term (not flip it), and a simple call to action (phone call or coffee meeting). Keep the tone conversational and humble—you're asking for their time, not doing them a favor.
+          Your initial contact should be brief, professional, and respectful. A strong template includes: introduction of yourself and your background, acknowledgment of their specific business and accomplishments, expression of interest in learning about the company, explanation that you're seeking to acquire and operate a business long-term (not flip it), and a simple call to action (phone call or coffee meeting). Keep the tone conversational and humble: you're asking for their time, not doing them a favor.
         </p>
 
         <p>
@@ -127,7 +127,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Expect low response rates initially—2-5% is typical. This means you need high volume and systems to manage it. Use CRM software to track contacts, log interactions, schedule follow-ups, and analyze conversion metrics. A/B test different messaging approaches. Segment your outreach by industry, geography, or owner demographics to refine what resonates.
+          Expect low response rates initially: 2-5% is typical. This means you need high volume and systems to manage it. Use CRM software to track contacts, log interactions, schedule follow-ups, and analyze conversion metrics. A/B test different messaging approaches. Segment your outreach by industry, geography, or owner demographics to refine what resonates.
         </p>
 
         <p>
@@ -137,7 +137,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Professional Referrals: CPAs, Attorneys, Wealth Advisors</h2>
 
         <p>
-          Professional advisors—particularly CPAs, M&A attorneys, wealth advisors, and business consultants—sit at the nexus of business ownership transitions. They often know about potential sales before owners go public, have deep knowledge of business quality and owner motivations, and can provide credible introductions. Building a referral network of professional advisors is a high-leverage activity that compounds over time.
+          Professional advisors (particularly CPAs, M&A attorneys, wealth advisors, and business consultants) sit at the nexus of business ownership transitions. They often know about potential sales before owners go public, have deep knowledge of business quality and owner motivations, and can provide credible introductions. Building a referral network of professional advisors is a high-leverage activity that compounds over time.
         </p>
 
         <p>
@@ -161,11 +161,11 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Host small events—breakfast briefings on search fund economics, updates on market trends, or case studies of successful transitions—to provide value while building relationships. These gatherings position you as a thought leader and create natural opportunities for advisors to think of you when client situations arise.
+          Host small events (breakfast briefings on search fund economics, updates on market trends, or case studies of successful transitions) to provide value while building relationships. These gatherings position you as a thought leader and create natural opportunities for advisors to think of you when client situations arise.
         </p>
 
         <p>
-          When advisors do provide referrals, handle them with extreme care. Move quickly, be thoroughly prepared, treat the owner with respect, and keep the advisor informed throughout the process. Your reputation with one advisor will spread to others—professional communities are small and tight-knit. A single mishandled referral can close off an entire network, while a well-executed transaction can open dozens of doors.
+          When advisors do provide referrals, handle them with extreme care. Move quickly, be thoroughly prepared, treat the owner with respect, and keep the advisor informed throughout the process. Your reputation with one advisor will spread to others; professional communities are small and tight-knit. A single mishandled referral can close off an entire network, while a well-executed transaction can open dozens of doors.
         </p>
 
         <p>
@@ -175,7 +175,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Industry Networks: Trade Shows and Associations</h2>
 
         <p>
-          Industry-specific networks—trade associations, conferences, peer groups, and online communities—provide access to deal flow that never reaches public markets. These channels are particularly effective when you focus on 2-3 target industries where you can develop genuine expertise and relationships. The strategy is to become a known, respected member of the industry community so opportunities come to you.
+          Industry-specific networks (trade associations, conferences, peer groups, and online communities) provide access to deal flow that never reaches public markets. These channels are particularly effective when you focus on 2-3 target industries where you can develop genuine expertise and relationships. The strategy is to become a known, respected member of the industry community so opportunities come to you.
         </p>
 
         <p>
@@ -195,7 +195,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Online industry communities—LinkedIn groups, Reddit communities, Slack channels, Discord servers, and specialized forums—provide low-cost access to practitioners. Participate genuinely by answering questions, sharing insights, and building reputation before ever mentioning your acquisition interest. When you do disclose your search, frame it as seeking to become an industry operator, not as a buyer looking for deals.
+          Online industry communities (LinkedIn groups, Reddit communities, Slack channels, Discord servers, and specialized forums) provide low-cost access to practitioners. Participate genuinely by answering questions, sharing insights, and building reputation before ever mentioning your acquisition interest. When you do disclose your search, frame it as seeking to become an industry operator, not as a buyer looking for deals.
         </p>
 
         <p>
@@ -207,7 +207,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          The time investment for network-based sourcing is substantial—expect 6-12 months before seeing meaningful results. This makes it best suited for searchers with longer timelines or those who can combine it with other channels. The payoff is access to high-quality, low-competition opportunities and the industry knowledge that improves your ability to evaluate and operate businesses.
+          The time investment for network-based sourcing is substantial; expect 6-12 months before seeing meaningful results. This makes it best suited for searchers with longer timelines or those who can combine it with other channels. The payoff is access to high-quality, low-competition opportunities and the industry knowledge that improves your ability to evaluate and operate businesses.
         </p>
 
         <h2 className={h2Class}>Evaluating Each Channel: Cost, Quality, and Volume</h2>
@@ -225,7 +225,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Proprietary outreach generates low volume at moderate cost but the highest quality deals. Expect to spend $10,000-$30,000 annually on databases, mailing campaigns, CRM tools, and your time (or an assistant's). Conversion rates are low—2-5% response, 0.5-1% leading to serious discussions—but the deals you do find typically have less competition, more flexible sellers, and better valuations. Time to first transaction is longer (12-18 months). Best for: experienced searchers with refined criteria, those with strong industry networks or expertise, and patient searchers prioritizing quality over volume.
+          Proprietary outreach generates low volume at moderate cost but the highest quality deals. Expect to spend $10,000-$30,000 annually on databases, mailing campaigns, CRM tools, and your time (or an assistant's). Conversion rates are low: 2-5% response, 0.5-1% leading to serious discussions, but the deals you do find typically have less competition, more flexible sellers, and better valuations. Time to first transaction is longer (12-18 months). Best for: experienced searchers with refined criteria, those with strong industry networks or expertise, and patient searchers prioritizing quality over volume.
         </p>
 
         <p>
@@ -243,7 +243,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Building Your Multi-Channel Strategy</h2>
 
         <p>
-          Successful searchers don't rely on a single sourcing channel—they build integrated, multi-channel strategies that balance immediate deal flow with long-term relationship development. Your sourcing strategy should align with your search criteria, competitive advantages, resources, and timeline while maintaining the discipline to say no to attractive-seeming opportunities that don't fit your thesis.
+          Successful searchers don't rely on a single sourcing channel; they build integrated, multi-channel strategies that balance immediate deal flow with long-term relationship development. Your sourcing strategy should align with your search criteria, competitive advantages, resources, and timeline while maintaining the discipline to say no to attractive-seeming opportunities that don't fit your thesis.
         </p>
 
         <p>
@@ -255,7 +255,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Develop weekly sourcing activities across channels to maintain momentum. A sample week might include: Monday—review new marketplace listings and send inquiries (2 hours); Tuesday—proprietary outreach mailing campaign batch (3 hours); Wednesday—broker relationship calls and follow-ups (2 hours); Thursday—industry research and networking (2 hours); Friday—deal evaluation and CIM reviews (3 hours). Consistent activity prevents the feast-or-famine cycle that disrupts search momentum.
+          Develop weekly sourcing activities across channels to maintain momentum. A sample week might include: Monday: review new marketplace listings and send inquiries (2 hours); Tuesday: proprietary outreach mailing campaign batch (3 hours); Wednesday: broker relationship calls and follow-ups (2 hours); Thursday: industry research and networking (2 hours); Friday: deal evaluation and CIM reviews (3 hours). Consistent activity prevents the feast-or-famine cycle that disrupts search momentum.
         </p>
 
         <p>
@@ -309,7 +309,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Time in each funnel stage matters. Top-of-funnel reviews should be quick—don't invest hours analyzing opportunities that fail basic screens. CIM review deserves focused attention but time-box it to prevent analysis paralysis. Move quickly on preliminary conversations; sellers appreciate responsive buyers. Deep due diligence on LOI candidates deserves whatever time is required, but set milestones to maintain momentum.
+          Time in each funnel stage matters. Top-of-funnel reviews should be quick; don't invest hours analyzing opportunities that fail basic screens. CIM review deserves focused attention but time-box it to prevent analysis paralysis. Move quickly on preliminary conversations; sellers appreciate responsive buyers. Deep due diligence on LOI candidates deserves whatever time is required, but set milestones to maintain momentum.
         </p>
 
         <p>
@@ -347,7 +347,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Virtual data rooms like ShareFile, Firmex, or Box secure sensitive documents during diligence. While sellers often provide data rooms, having your own solution allows you to organize information consistently across opportunities and control access when sharing materials with investors or advisors. Security matters—you'll handle confidential financial information, customer lists, and strategic plans.
+          Virtual data rooms like ShareFile, Firmex, or Box secure sensitive documents during diligence. While sellers often provide data rooms, having your own solution allows you to organize information consistently across opportunities and control access when sharing materials with investors or advisors. Security matters: you'll handle confidential financial information, customer lists, and strategic plans.
         </p>
 
         <p>
@@ -385,7 +385,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          For searchers based outside the U.S., these same principles apply in reverse—understand the unique characteristics of your local market, build relationships with regional advisors and investors, and consider whether focusing locally or expanding to U.S. markets makes strategic sense based on your network and expertise.
+          For searchers based outside the U.S., these same principles apply in reverse: understand the unique characteristics of your local market, build relationships with regional advisors and investors, and consider whether focusing locally or expanding to U.S. markets makes strategic sense based on your network and expertise.
         </p>
 
         <h2 className={h2Class}>Conclusion: From Search to Success</h2>
@@ -395,7 +395,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Remember that deal sourcing is not just about volume—it's about finding the right business that matches your skills, interests, and investment criteria. The best searchers are disciplined about saying no to opportunities that don't fit, even when they're attractive, because they understand that operational success requires passion and expertise, not just financial engineering.
+          Remember that deal sourcing is not just about volume - it's about finding the right business that matches your skills, interests, and investment criteria. The best searchers are disciplined about saying no to opportunities that don't fit, even when they're attractive, because they understand that operational success requires passion and expertise, not just financial engineering.
         </p>
 
         <p>
@@ -407,7 +407,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          With the right strategy, tools, and persistence, you'll generate the deal flow needed to find an exceptional business that sets you up for a successful entrepreneurial journey. The search may be long, but the destination—owning and operating a business you're passionate about—makes the effort worthwhile.
+          With the right strategy, tools, and persistence, you'll generate the deal flow needed to find an exceptional business that sets you up for a successful entrepreneurial journey. The search may be long, but the destination (owning and operating a business you're passionate about) makes the effort worthwhile.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>

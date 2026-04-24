@@ -4,7 +4,7 @@ import { type RefObject, useMemo } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
 /* ------------------------------------------------------------------ */
-/*  Phase colors — must match PHASE_COLORS in journey-phases.ts       */
+/* Phase colors - must match PHASE_COLORS in journey-phases.ts */
 /* ------------------------------------------------------------------ */
 const PHASE_COLORS = [
   "#5856D6", // prepare
@@ -18,10 +18,10 @@ const PHASE_COLORS = [
 const PHASE_COUNT = PHASE_COLORS.length;
 
 /* ------------------------------------------------------------------ */
-/*  SVG path segments — 6 connected cubic Bezier curves               */
-/*  ViewBox: 0 0 200 1200   (tall, narrow)                            */
-/*  Each segment spans 200 units of vertical space.                   */
-/*  The trail weaves left-right in an organic S-curve pattern.        */
+/* SVG path segments - 6 connected cubic Bezier curves */
+/* ViewBox: 0 0 200 1200 (tall, narrow) */
+/* Each segment spans 200 units of vertical space. */
+/* The trail weaves left-right in an organic S-curve pattern. */
 /* ------------------------------------------------------------------ */
 const SEGMENTS = [
   // Segment 1 (prepare): top-center → curves right → ends center-left
@@ -39,7 +39,7 @@ const SEGMENTS = [
 ] as const;
 
 /* ------------------------------------------------------------------ */
-/*  Animated segment — one per phase                                  */
+/* Animated segment - one per phase */
 /* ------------------------------------------------------------------ */
 function AnimatedSegment({
   d,
@@ -73,7 +73,7 @@ function AnimatedSegment({
 }
 
 /* ------------------------------------------------------------------ */
-/*  Mobile progress bar                                               */
+/* Mobile progress bar */
 /* ------------------------------------------------------------------ */
 function MobileProgressBar({
   scrollYProgress,
@@ -109,7 +109,7 @@ function MobileProgressBar({
 }
 
 /* ------------------------------------------------------------------ */
-/*  Main component                                                    */
+/* Main component */
 /* ------------------------------------------------------------------ */
 export default function JourneyTrail({
   containerRef,

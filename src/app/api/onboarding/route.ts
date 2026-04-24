@@ -49,7 +49,7 @@ function parseNumber(val: string | undefined): number | null {
   const cleaned = val.replace(/[^0-9.]/g, "");
   const num = parseFloat(cleaned);
   if (isNaN(num)) return null;
-  // Values stored in thousands (K) in the database — UI inputs are in K
+  // Values stored in thousands (K) in the database - UI inputs are in K
   return Math.round(num);
 }
 

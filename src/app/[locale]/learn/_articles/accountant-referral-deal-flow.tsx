@@ -14,7 +14,7 @@ export default function AccountantReferralDealFlowArticle() {
       </div>
 
       <p className={bodyClass}>
-        Professional advisors—accountants, lawyers, wealth advisors, and bankers—sit at the intersection of business ownership and life transitions. They know which owners are thinking about retirement, which businesses are thriving, and which families need succession solutions. For searchers, these professionals represent the single most valuable source of proprietary deal flow.
+        Professional advisors - accountants, lawyers, wealth advisors, and bankers - sit at the intersection of business ownership and life transitions. They know which owners are thinking about retirement, which businesses are thriving, and which families need succession solutions. For searchers, these professionals represent the single most valuable source of proprietary deal flow.
       </p>
 
       <p className={bodyClass}>
@@ -217,7 +217,7 @@ export default function AccountantReferralDealFlowArticle() {
       </p>
 
       <p className={bodyClass}>
-        <em>"I'm conducting a search fund—a proven model where I've raised capital from experienced investors to find and acquire one exceptional small business. I'll step in as CEO and grow the company over the long term. My investors include [mention any notable names] and we have committed capital ready for the right opportunity."</em>
+        <em>"I'm conducting a search fund - a proven model where I've raised capital from experienced investors to find and acquire one exceptional small business. I'll step in as CEO and grow the company over the long term. My investors include [mention any notable names] and we have committed capital ready for the right opportunity."</em>
       </p>
 
       <p className={bodyClass}>
@@ -273,7 +273,7 @@ export default function AccountantReferralDealFlowArticle() {
 
       <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg my-6 border-l-4 border-apple-accent">
         <p className="font-mono text-sm mb-4">
-          <strong>Subject:</strong> Acquisition search in [Industry] — looking for intros to succession-minded owners
+          <strong>Subject:</strong> Acquisition search in [Industry] - looking for intros to succession-minded owners
         </p>
         <p className="text-sm mb-4">
           Hi [Name],
@@ -329,7 +329,7 @@ export default function AccountantReferralDealFlowArticle() {
       </p>
 
       <p className={bodyClass}>
-        Personalize each email by referencing something specific about their practice—a client industry they serve, an article they wrote, or a conference where they spoke. Generic mass emails get deleted; personalized, researched outreach generates responses.
+        Personalize each email by referencing something specific about their practice - a client industry they serve, an article they wrote, or a conference where they spoke. Generic mass emails get deleted; personalized, researched outreach generates responses.
       </p>
 
       <h3 className={h3Class}>Join Professional and Industry Associations</h3>
@@ -400,7 +400,7 @@ export default function AccountantReferralDealFlowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These updates keep you top of mind without being pushy or salesy. They demonstrate that you're active, serious, and making progress—all of which increase the likelihood of referrals.
+        These updates keep you top of mind without being pushy or salesy. They demonstrate that you're active, serious, and making progress - all of which increase the likelihood of referrals.
       </p>
 
       <h3 className={h3Class}>Provide Value Before Asking for Referrals</h3>
@@ -583,7 +583,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Building a Referral Team</h3>
 
       <p className={bodyClass}>
-        As your network matures, identify your most valuable referral sources—professionals who truly understand your criteria, make quality introductions, and actively think of you. Invest disproportionately in these relationships:
+        As your network matures, identify your most valuable referral sources - professionals who truly understand your criteria, make quality introductions, and actively think of you. Invest disproportionately in these relationships:
       </p>
 
       <ul className={ulClass}>
@@ -641,7 +641,7 @@ export default function AccountantReferralDealFlowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Professionals are much more likely to make future referrals if they see that you follow through, communicate professionally, and treat their clients well—even when deals don't close.
+        Professionals are much more likely to make future referrals if they see that you follow through, communicate professionally, and treat their clients well - even when deals don't close.
       </p>
 
       <h2 className={h2Class}>Common Mistakes</h2>
@@ -689,7 +689,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Ignoring the Long Game</h3>
 
       <p className={bodyClass}>
-        Building a professional referral network takes time—often 6-12 months before generating significant deal flow. Searchers who give up too early or don't invest sufficient effort miss the compounding benefits of these relationships.
+        Building a professional referral network takes time - often 6-12 months before generating significant deal flow. Searchers who give up too early or don't invest sufficient effort miss the compounding benefits of these relationships.
       </p>
 
       <h3 className={h3Class}>Neglecting to Provide Value</h3>
@@ -717,7 +717,7 @@ export default function AccountantReferralDealFlowArticle() {
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
-            <span>Provide value before asking for referrals—build genuine, reciprocal relationships, not transactional arrangements</span>
+            <span>Provide value before asking for referrals - build genuine, reciprocal relationships, not transactional arrangements</span>
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
@@ -725,7 +725,7 @@ export default function AccountantReferralDealFlowArticle() {
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
-            <span>Plan for 6-12 months before your referral network generates significant deal flow—this is a long-term investment that compounds over time</span>
+            <span>Plan for 6-12 months before your referral network generates significant deal flow - this is a long-term investment that compounds over time</span>
           </li>
         </ul>
       </div>

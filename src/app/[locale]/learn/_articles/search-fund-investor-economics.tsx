@@ -52,7 +52,7 @@ export default function SearchFundInvestorEconomicsArticle() {
           when the acquisition is made:
         </p>
         <ul className={ulClass}>
-          <li><strong>Standard step-up:</strong> 1.5x — for every $1 of search capital invested, the investor gets $1.50 worth of equity in the acquisition</li>
+          <li><strong>Standard step-up:</strong> 1.5x - for every $1 of search capital invested, the investor gets $1.50 worth of equity in the acquisition</li>
           <li><strong>Example:</strong> An investor who committed $50K in search capital receives $75K worth of acquisition equity at the acquisition price</li>
           <li><strong>Rationale:</strong> Compensates search investors for the risk of the search phase (where capital can be lost if no deal closes)</li>
           <li><strong>Pro-rata participation:</strong> Search investors typically get the right to invest their pro-rata share (and sometimes more) in the acquisition equity</li>

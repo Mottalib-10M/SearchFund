@@ -47,9 +47,9 @@ export default function BoardGovernanceArticle() {
           </li>
           <li>
             <strong>Independent director (0&ndash;1 seat):</strong> an outside
-            director with relevant industry experience — often recruited from your{" "}
+            director with relevant industry experience - often recruited from your{" "}
             <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link>{" "}
-            — who is not affiliated with any investor group. Independent directors bring objectivity,
+            - who is not affiliated with any investor group. Independent directors bring objectivity,
             industry-specific expertise, and can serve as a bridge between the
             CEO and investors during disagreements.
           </li>
@@ -98,9 +98,9 @@ export default function BoardGovernanceArticle() {
         <ul className={ulClass}>
           <li>
             <strong>First year post-acquisition:</strong> monthly board
-            meetings. The first year — especially the{" "}
+            meetings. The first year - especially the{" "}
             <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>{" "}
-            period — is the riskiest, and monthly
+            period - is the riskiest, and monthly
             meetings ensure the board stays close to the business and can
             provide timely guidance.
           </li>
@@ -215,7 +215,7 @@ export default function BoardGovernanceArticle() {
         <ul className={ulClass}>
           <li>
             <strong>No surprises:</strong> the cardinal rule of board
-            management — and of{" "}
+            management - and of{" "}
             <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
             more broadly. If something material happens &mdash; positive or
             negative &mdash; communicate it to the board immediately, not at

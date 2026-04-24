@@ -33,7 +33,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #1 — What ODD Covers (vs Financial & Legal)
+            H2 #1 - What ODD Covers (vs Financial & Legal)
         ================================================= */}
         <h2 className={h2Class}>
           What Operational DD Covers That Financial and Legal DD Cannot
@@ -97,7 +97,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #2 — Processes and Systems
+            H2 #2 - Processes and Systems
         ================================================= */}
         <h2 className={h2Class}>
           Process and Systems Assessment: The Engine Room
@@ -166,7 +166,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #3 — Technology and IT Infrastructure
+            H2 #3 - Technology and IT Infrastructure
         ================================================= */}
         <h2 className={h2Class}>
           Technology and IT Infrastructure Review
@@ -231,7 +231,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #4 — Supply Chain and Vendor Dependencies
+            H2 #4 - Supply Chain and Vendor Dependencies
         ================================================= */}
         <h2 className={h2Class}>
           Supply Chain and Vendor Dependency Analysis
@@ -307,7 +307,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #5 — Workforce and Organizational Health
+            H2 #5 - Workforce and Organizational Health
         ================================================= */}
         <h2 className={h2Class}>
           Workforce and Organizational Assessment
@@ -414,7 +414,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #6 — Facilities, Equipment, and Physical Assets
+            H2 #6 - Facilities, Equipment, and Physical Assets
         ================================================= */}
         <h2 className={h2Class}>
           Facilities, Equipment, and Physical Asset Inspection
@@ -481,7 +481,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
 
         {/* ================================================
-            H2 #7 — Customer Operations and Revenue Durability
+            H2 #7 - Customer Operations and Revenue Durability
         ================================================= */}
         <h2 className={h2Class}>
           Customer Operations and Revenue Durability
@@ -539,7 +539,7 @@ export default function OperationalDueDiligenceArticle() {
         </ul>
 
         {/* ================================================
-            H2 #8 — Post-Acquisition Operations Plan
+            H2 #8 - Post-Acquisition Operations Plan
         ================================================= */}
         <h2 className={h2Class}>
           Building a Post-Acquisition Operations Plan

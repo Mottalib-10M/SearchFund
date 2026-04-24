@@ -54,7 +54,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         rely heavily on earnings multiples, unprofitable businesses require a
         fundamentally different approach. For searchers evaluating turnaround
         opportunities, understanding how to value distressed or
-        pre-profitability businesses is essential—because sometimes the best
+        pre-profitability businesses is essential - because sometimes the best
         deals are the ones everyone else is too scared to touch.
       </p>
 
@@ -69,7 +69,7 @@ export default function ValuingUnprofitableBusinessArticle() {
 
       <p className={bodyClass}>
         Most small business acquisitions are valued using earnings-based
-        multiples—typically 3-5x{" "}
+        multiples - typically 3-5x{" "}
         <Link
           href="/learn/sde-vs-ebitda"
           className="text-apple-accent hover:underline"
@@ -84,7 +84,7 @@ export default function ValuingUnprofitableBusinessArticle() {
 
       <p className={bodyClass}>
         You cannot apply a multiple to a negative number. If a business loses
-        $100,000 annually, applying a 4x multiple yields -$400,000—which is
+        $100,000 annually, applying a 4x multiple yields -$400,000 - which is
         nonsensical. The seller doesn't pay you to take the business (though in
         extreme distress, assumption of liabilities might create this dynamic).
       </p>
@@ -262,7 +262,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           </tbody>
         </table>
         <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
-          The adjusted book value of $480K represents a floor valuation—what
+          The adjusted book value of $480K represents a floor valuation - what
           you'd recover in orderly liquidation. Purchase price would typically
           be higher if you believe the business can be turned around.
         </p>
@@ -271,7 +271,7 @@ export default function ValuingUnprofitableBusinessArticle() {
       <h3 className={h3Class}>Liquidation Value</h3>
 
       <p className={bodyClass}>
-        The absolute floor is liquidation value—what assets would fetch in a
+        The absolute floor is liquidation value - what assets would fetch in a
         forced sale scenario. This is typically 40-60% of adjusted book value,
         depending on asset type and market conditions. Liquidation value
         represents your downside protection: if the turnaround fails, can you
@@ -316,7 +316,7 @@ export default function ValuingUnprofitableBusinessArticle() {
       <p className={bodyClass}>
         These multiples assume the business has a clear path to profitability.
         A business losing money with declining revenue commands even lower
-        multiples—or may only be valued on asset basis.
+        multiples - or may only be valued on asset basis.
       </p>
 
       <h3 className={h3Class}>Revenue Quality Adjustments</h3>
@@ -433,7 +433,7 @@ export default function ValuingUnprofitableBusinessArticle() {
       <p className={bodyClass}>
         The replacement cost establishes an upper bound: you should never pay
         more than it would cost to build an equivalent business, accounting for
-        time and risk. However, this method has limitations—it doesn't account
+        time and risk. However, this method has limitations - it doesn't account
         for the fact that the current business is failing, and you might not
         want to replicate its problems.
       </p>
@@ -518,7 +518,7 @@ export default function ValuingUnprofitableBusinessArticle() {
       <p className={bodyClass}>
         Strategic value is highly buyer-specific. What's worth $500K to you
         might be worth $100K to someone else. Be careful not to overpay for
-        synergies—acquirers routinely overestimate synergy realization and
+        synergies - acquirers routinely overestimate synergy realization and
         underestimate integration costs.
       </p>
 
@@ -537,7 +537,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         <li>
           <strong>Cost synergies:</strong> Specific overhead eliminations (dual
           accounting teams, redundant facilities, overlapping sales
-          territories). Be granular—don't just assume "20% cost reduction."
+          territories). Be granular - don't just assume "20% cost reduction."
         </li>
         <li>
           <strong>Time value:</strong> How much faster does acquisition achieve
@@ -574,7 +574,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         >
           DCF valuation
         </Link>{" "}
-        can work—but it requires conservative assumptions and brutal honesty
+        can work - but it requires conservative assumptions and brutal honesty
         about execution risk.
       </p>
 
@@ -769,7 +769,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         This structure limits your downside while giving the seller upside
         participation if you successfully turn the business around. Make sure
         earnout metrics are crystal clear and verifiable (EBITDA, revenue,
-        customer retention—not subjective measures).
+        customer retention - not subjective measures).
       </p>
 
       <h3 className={h3Class}>Asset Purchase vs. Stock Purchase</h3>
@@ -944,7 +944,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           investment
         </li>
         <li>
-          <strong>Tax liabilities:</strong> Unpaid payroll taxes (serious—IRS
+          <strong>Tax liabilities:</strong> Unpaid payroll taxes (serious - IRS
           can pursue you personally), sales tax, property tax
         </li>
         <li>
@@ -965,7 +965,7 @@ export default function ValuingUnprofitableBusinessArticle() {
 
       <p className={bodyClass}>
         No single method gives you "the answer" for an unprofitable business.
-        Use triangulation—apply multiple methods and look for convergence:
+        Use triangulation - apply multiple methods and look for convergence:
       </p>
 
       <div className="my-8 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
@@ -1036,7 +1036,7 @@ export default function ValuingUnprofitableBusinessArticle() {
       <h2 className={h2Class}>Final Thoughts: Turnarounds Are Not for Everyone</h2>
 
       <p className={bodyClass}>
-        Acquiring an unprofitable business can create extraordinary value—buying
+        Acquiring an unprofitable business can create extraordinary value - buying
         at distressed prices and implementing operational improvements can
         generate 3-5x returns in 3-5 years. But turnarounds fail more often than
         they succeed, especially for first-time operators.
@@ -1093,7 +1093,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Business Valuation Methods
           </Link>{" "}
-          — Overview of valuation approaches for healthy businesses
+          - Overview of valuation approaches for healthy businesses
         </li>
         <li>
           <Link
@@ -1102,7 +1102,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             SDE vs. EBITDA
           </Link>{" "}
-          — Understanding earnings metrics for small business valuation
+          - Understanding earnings metrics for small business valuation
         </li>
         <li>
           <Link
@@ -1111,7 +1111,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             DCF Valuation for Small Businesses
           </Link>{" "}
-          — Building discounted cash flow models
+          - Building discounted cash flow models
         </li>
         <li>
           <Link
@@ -1120,7 +1120,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Quality of Earnings Analysis
           </Link>{" "}
-          — Normalizing financial statements to find hidden profitability
+          - Normalizing financial statements to find hidden profitability
         </li>
         <li>
           <Link
@@ -1129,7 +1129,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Due Diligence Red Flags
           </Link>{" "}
-          — Warning signs to watch for during acquisition diligence
+          - Warning signs to watch for during acquisition diligence
         </li>
         <li>
           <Link
@@ -1138,7 +1138,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Earnout Structures
           </Link>{" "}
-          — Aligning risk and reward through contingent payments
+          - Aligning risk and reward through contingent payments
         </li>
         <li>
           <Link
@@ -1147,7 +1147,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Buy-and-Build Strategy
           </Link>{" "}
-          — Using strategic acquisitions to create platform value
+          - Using strategic acquisitions to create platform value
         </li>
       </ul>
 
@@ -1183,7 +1183,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Valuing Declining and Distressed Companies
           </a>{" "}
-          — Aswath Damodaran, NYU Stern
+          - Aswath Damodaran, NYU Stern
         </li>
         <li>
           <a
@@ -1194,7 +1194,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Asset-Based Valuation Approaches
           </a>{" "}
-          — American Society of Appraisers
+          - American Society of Appraisers
         </li>
         <li>
           <a
@@ -1205,7 +1205,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Turnaround Acquisition Strategies
           </a>{" "}
-          — Stanford Graduate School of Business
+          - Stanford Graduate School of Business
         </li>
         <li>
           <a
@@ -1216,7 +1216,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Valuation Handbook for Private Company Analysis
           </a>{" "}
-          — CFA Institute
+          - CFA Institute
         </li>
         <li>
           <a
@@ -1227,7 +1227,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           >
             Business Valuation Standards
           </a>{" "}
-          — National Association of Certified Valuators and Analysts
+          - National Association of Certified Valuators and Analysts
         </li>
       </ul>
     </article>

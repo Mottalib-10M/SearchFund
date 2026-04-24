@@ -2,7 +2,7 @@ import type { JSX } from "react";
 import type { ArticleMeta } from "./article-registry";
 
 // ---------------------------------------------------------------------------
-// French article metadata — true localizations, not translations
+// French article metadata - true localizations, not translations
 // ---------------------------------------------------------------------------
 
 export const frArticles: ArticleMeta[] = [
@@ -389,7 +389,7 @@ export const frArticles: ArticleMeta[] = [
       { question: "Faut-il informer le CSE avant l\u2019acquisition ?", answer: "Oui, en France, le CSE doit \u00eatre inform\u00e9 et consult\u00e9 sur tout changement de propri\u00e9taire ou de contr\u00f4le de l\u2019entreprise (article L2312-8 du Code du travail). Cette consultation est obligatoire et doit intervenir avant la finalisation de la cession. Le non-respect peut entra\u00eener la nullit\u00e9 de l\u2019op\u00e9ration." },
     ],
   },
-  // ── Phase 2 — FR Expansion (30 articles) ──────────────────────────────
+  // ── Phase 2 - FR Expansion (30 articles) ──────────────────────────────
   {
     slug: "working-with-advisors",
     title: "Travailler avec des Conseillers : Avocats et Experts-Comptables",
@@ -954,7 +954,7 @@ export const frArticles: ArticleMeta[] = [
 ];
 
 // ---------------------------------------------------------------------------
-// FR article components — import map
+// FR article components - import map
 // ---------------------------------------------------------------------------
 
 import GettingStartedFR from "./fr/getting-started";

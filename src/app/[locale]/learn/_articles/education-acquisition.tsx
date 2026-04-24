@@ -403,7 +403,7 @@ export default function EducationAcquisitionArticle() {
           all careers require four-year degrees. These businesses
           often generate $3M&ndash;$20M in revenue with 15&ndash;25%
           EBITDA margins. Equipment and facility costs are meaningful
-          capital expenditures — see our{" "}
+          capital expenditures - see our{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing guide</Link> for
           how to structure these deals.
         </p>
@@ -443,9 +443,9 @@ export default function EducationAcquisitionArticle() {
         <h2 className={h2Class}>Valuation and multiples</h2>
         <p>
           Education and training businesses typically trade at
-          4&ndash;8x EBITDA — see our{" "}
+          4&ndash;8x EBITDA - see our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> for
-          foundational methodology — with variation driven by sub-sector,
+          foundational methodology - with variation driven by sub-sector,
           growth rate, digital maturity, accreditation status, and
           customer concentration. Key valuation drivers include:
         </p>

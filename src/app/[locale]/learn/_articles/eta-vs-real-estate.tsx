@@ -10,21 +10,21 @@ export default function ETAvsRealEstateArticle() {
       <div className={bodyClass}>
         <p>
           Real estate has been the default alternative investment for
-          generations — tangible, familiar, and deeply embedded in the
+          generations: tangible, familiar, and deeply embedded in the
           wealth-building playbook of high-net-worth individuals. But
           Entrepreneurship Through Acquisition (ETA) offers a
           fundamentally different path to wealth through private asset
           ownership: buying a cash-flowing business rather than a
           cash-flowing property. Both strategies share important
-          characteristics — leverage, active management, tax advantages,
-          and direct control — yet differ in critical ways that determine
+          characteristics - leverage, active management, tax advantages,
+          and direct control - yet differ in critical ways that determine
           which is the better fit for your capital, skills, and
           risk tolerance.
         </p>
 
         <h2 className={h2Class}>Valuation frameworks: cap rates vs. EBITDA multiples</h2>
         <p>
-          Real estate investors think in cap rates — the ratio of net
+          Real estate investors think in cap rates - the ratio of net
           operating income (NOI) to property value. According to the NCREIF
           Property Index, commercial real estate cap rates in 2024 ranged
           from approximately 4.5% to 8.5% depending on asset class, location,
@@ -33,12 +33,12 @@ export default function ETAvsRealEstateArticle() {
           $1 million of value, equivalent to a 16.7x earnings multiple.
         </p>
         <p>
-          ETA investors think in EBITDA multiples — the ratio of
+          ETA investors think in EBITDA multiples - the ratio of
           enterprise value to earnings before interest, taxes,
           depreciation, and amortization. The Stanford GSB 2024 Search
           Fund Study reports that acquisitions typically close at 3x to
           6x EBITDA, with the median around 4x to 5x. A 4x EBITDA multiple means the business generates
-          $250,000 of annual EBITDA per $1 million of enterprise value —
+          $250,000 of annual EBITDA per $1 million of enterprise value,
           a dramatically higher cash-flow yield than even the most
           attractive real estate investments.
         </p>
@@ -124,7 +124,7 @@ export default function ETAvsRealEstateArticle() {
             escalations (tied to CPI or fixed annual increases). A
             stabilized commercial property with creditworthy tenants
             on long-term leases offers near-bond-like cash flow
-            predictability. The trade-off is limited upside — you
+            predictability. The trade-off is limited upside: you
             cannot dramatically increase a property&apos;s NOI without
             capital-intensive renovations or repositioning.
           </li>
@@ -134,10 +134,10 @@ export default function ETAvsRealEstateArticle() {
             fund acquisition can grow EBITDA by 15% to 30% annually
             through revenue growth, margin expansion, and operational
             improvements. Stanford data shows that the median search
-            fund more than doubles EBITDA during the hold period — see our analysis of{" "}
+            fund more than doubles EBITDA during the hold period. See our analysis of{" "}
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">search fund returns</Link> for
             the full picture. The
-            trade-off is that business cash flows are more volatile —
+            trade-off is that business cash flows are more volatile,
             subject to customer concentration, competitive dynamics,
             and management execution risk.
           </li>
@@ -226,7 +226,7 @@ export default function ETAvsRealEstateArticle() {
             <strong>Qualified Small Business Stock (QSBS):</strong> If
             the acquisition is structured as a C-corp and meets QSBS
             requirements, investors may exclude up to $10 million or 10x
-            their basis in capital gains upon exit — potentially the
+            their basis in capital gains upon exit, potentially the
             most powerful tax benefit available in any asset class. Our guide to{" "}
             <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization in ETA</Link> covers
             QSBS and other strategies in detail.
@@ -245,7 +245,7 @@ export default function ETAvsRealEstateArticle() {
           nature and intensity of that management differ substantially.
         </p>
         <p>
-          Real estate management is primarily logistical — maintaining
+          Real estate management is primarily logistical: maintaining
           the physical property, finding and screening tenants, collecting
           rent, managing contractors, and navigating local regulations.
           These tasks can be delegated to professional property management
@@ -253,7 +253,7 @@ export default function ETAvsRealEstateArticle() {
           allowing investors to remain relatively passive.
         </p>
         <p>
-          ETA management is fundamentally operational — leading a team
+          ETA management is fundamentally operational: leading a team
           of employees, making strategic decisions, managing customer
           relationships, improving processes, and growing revenue. This
           cannot be delegated to a management company. The search fund
@@ -281,7 +281,7 @@ export default function ETAvsRealEstateArticle() {
           acquirers exist, but they are relatively rare and typically
           transition to a holding company or PE-like model after their
           first successful exit. For investors, scaling ETA means
-          backing multiple searchers — which is straightforward but
+          backing multiple searchers, which is straightforward but
           requires ongoing deal sourcing and due diligence for each
           new search fund investment.
         </p>
@@ -315,7 +315,7 @@ export default function ETAvsRealEstateArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Downside protection:</strong> Real estate offers
-            tangible collateral — the property has residual value even
+            tangible collateral: the property has residual value even
             in a worst-case scenario. Business value can evaporate more
             quickly if customers leave, key employees depart, or the
             competitive landscape shifts.
@@ -366,7 +366,7 @@ export default function ETAvsRealEstateArticle() {
           that can transform portfolio returns. A portfolio that
           combines commercial real estate (20% to 30% allocation) with
           a diversified search fund program (10% to 20% allocation)
-          captures the best attributes of both strategies — tangible
+          captures the best attributes of both strategies: tangible
           stability and operational alpha.
         </p>
 

@@ -420,7 +420,7 @@ export default function WhatIsETAArticle() {
           </li>
           <li>
             <strong>Choose your model:</strong> Traditional search fund,
-            self-funded, or independent sponsor — each has trade-offs in terms
+            self-funded, or independent sponsor - each has trade-offs in terms
             of equity, risk, and support
           </li>
           <li>

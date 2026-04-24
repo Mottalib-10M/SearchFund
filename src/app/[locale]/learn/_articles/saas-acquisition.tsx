@@ -84,7 +84,7 @@ export default function SaaSAcquisitionArticle() {
           percentage of beginning-period revenue. Net revenue churn (or net
           revenue retention) accounts for expansion revenue from existing
           customers. A company might report &quot;negative net churn&quot; while
-          losing 15% of customers annually — because its remaining customers are
+          losing 15% of customers annually - because its remaining customers are
           expanding fast enough to mask the losses.
         </p>
         <ul className={ulClass}>
@@ -123,7 +123,7 @@ export default function SaaSAcquisitionArticle() {
           dollar spent acquiring a customer generates at least three dollars in
           lifetime gross profit. Below 3:1, the business is spending too much to
           acquire customers relative to what they&apos;re worth. Above 5:1
-          typically indicates the company is underinvesting in growth — which may
+          typically indicates the company is underinvesting in growth - which may
           be an opportunity for a new operator.
         </p>
 
@@ -134,7 +134,7 @@ export default function SaaSAcquisitionArticle() {
           excellent. 12-18 months is acceptable. Beyond 18 months, the business
           needs significant working capital to fund growth, and cash flow can
           become strained. During due diligence, calculate CAC payback using
-          fully loaded costs — include sales salaries, marketing spend, SDR
+          fully loaded costs - include sales salaries, marketing spend, SDR
           costs, and any trial/freemium subsidies.
         </p>
 
@@ -209,7 +209,7 @@ export default function SaaSAcquisitionArticle() {
           switching likelihood, product gaps, competitor alternatives, and Net
           Promoter Score. Customers will tell you things the seller never will.
           Pay particular attention to how customers describe the product&apos;s
-          role in their workflow — if it&apos;s &quot;nice to have&quot; rather
+          role in their workflow - if it&apos;s &quot;nice to have&quot; rather
           than &quot;mission critical,&quot; churn risk is higher than the
           numbers suggest.
         </p>
@@ -330,7 +330,7 @@ export default function SaaSAcquisitionArticle() {
             departures.
           </li>
           <li>
-            Identify the &quot;10x engineer&quot; — the one person who
+            Identify the &quot;10x engineer&quot; - the one person who
             understands the entire codebase. This person&apos;s departure is an
             existential risk. Prioritize knowledge documentation and
             cross-training from day one.
@@ -341,8 +341,8 @@ export default function SaaSAcquisitionArticle() {
         <p>
           SaaS acquisitions through search funds combine the best attributes of
           technology investing with the hands-on operational approach of ETA.
-          The key is rigorous due diligence on the metrics that matter —
-          particularly churn, NRR, and codebase quality — combined with a clear
+          The key is rigorous due diligence on the metrics that matter - 
+          particularly churn, NRR, and codebase quality - combined with a clear
           post-acquisition plan for pricing optimization, churn reduction, and
           expansion revenue. The first 90 days post-acquisition should focus on
           stability over transformation: understand the customer base, build

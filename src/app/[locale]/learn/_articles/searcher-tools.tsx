@@ -10,7 +10,7 @@ export default function SearcherToolsArticle() {
       <div className={bodyClass}>
         <p>
           Running an effective search requires more than grit and the right{" "}
-          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">psychological mindset</Link> — it requires the right technology stack. The tools you choose
+          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">psychological mindset</Link> - it requires the right technology stack. The tools you choose
           for deal sourcing, pipeline management, financial modeling, investor
           communication, and legal documentation will directly impact your
           efficiency and ultimately your probability of closing a deal.
@@ -29,8 +29,8 @@ export default function SearcherToolsArticle() {
 
         <h3 className={h3Class}>Proprietary sourcing tools</h3>
         <p>
-          Proprietary sourcing — reaching out directly to business owners who
-          have not listed their company for sale — is widely considered the
+          Proprietary sourcing - reaching out directly to business owners who
+          have not listed their company for sale - is widely considered the
           highest-quality deal flow channel. These sellers are not running a
           competitive process, which typically means lower purchase multiples,
           fewer competing bidders, and more flexibility on deal terms. However,
@@ -43,7 +43,7 @@ export default function SearcherToolsArticle() {
             <strong>LinkedIn Sales Navigator ($99/month):</strong> The most
             powerful tool for identifying business owners by industry, company
             size, geography, seniority, and years of experience. Build saved
-            searches for owners aged 55 and older in fragmented industries —
+            searches for owners aged 55 and older in fragmented industries - 
             these are the most likely succession candidates. Use InMail
             credits for initial outreach and track engagement through the
             built-in CRM features
@@ -79,7 +79,7 @@ export default function SearcherToolsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>SearchFundMarket.com:</strong> Purpose-built for the search fund
-            community — connects searchers with acquisition opportunities and
+            community - connects searchers with acquisition opportunities and
             investors who understand the ETA model
           </li>
           <li>
@@ -139,7 +139,7 @@ export default function SearcherToolsArticle() {
             <strong>HubSpot CRM (free tier):</strong> Robust free CRM with email
             tracking, custom deal stages (Sourced, NDA Signed, CIM Reviewed, LOI
             Submitted, Diligence, Closed), and task reminders. Create two
-            pipelines — one for deals, one for investors. Upgrade to Starter
+            pipelines - one for deals, one for investors. Upgrade to Starter
             ($20/month) for automation
           </li>
           <li>
@@ -231,7 +231,7 @@ export default function SearcherToolsArticle() {
           sell-side processes, the seller&apos;s advisor will typically set up a
           VDR using a professional platform such as Datasite (formerly Merrill
           DataSite), Intralinks, or Firmex. For smaller, proprietary
-          transactions — which are more common in the search fund world — the
+          transactions - which are more common in the search fund world - the
           searcher often creates and manages the VDR themselves using Google
           Drive, Dropbox Business, or Box. The key is to establish a clear
           folder structure: top-level folders for each diligence workstream
@@ -255,7 +255,7 @@ export default function SearcherToolsArticle() {
 
         <h2 className={h2Class}>Legal and document management</h2>
         <p>
-          A search generates enormous volumes of legal documents — NDAs, LOIs,
+          A search generates enormous volumes of legal documents - NDAs, LOIs,
           purchase agreements, and closing documents. Organization prevents
           costly errors and speeds up due diligence.
         </p>
@@ -263,7 +263,7 @@ export default function SearcherToolsArticle() {
           <li>
             <strong>DocuSign / HelloSign:</strong> Electronic signatures for NDAs
             and LOIs. Create templates so you can send a signed NDA in under two
-            minutes — speed matters when brokers send deals. DocuSign starts at
+            minutes - speed matters when brokers send deals. DocuSign starts at
             $10/month; HelloSign at $15/month
           </li>
           <li>
@@ -274,14 +274,14 @@ export default function SearcherToolsArticle() {
           </li>
           <li>
             <strong>Carta ($3,000/year):</strong> Cap table management
-            post-acquisition — tracks equity ownership, vesting schedules, and
+            post-acquisition - tracks equity ownership, vesting schedules, and
             option pools. Set up during acquisition structuring, not the search
           </li>
         </ul>
 
         <h2 className={h2Class}>Investor communication tools</h2>
         <p>
-          Keeping investors informed is not just a courtesy — it is a strategic
+          Keeping investors informed is not just a courtesy - it is a strategic
           imperative. Your search fund investors are your future board members,
           co-investors, and mentors. Regular, high-quality communication builds
           trust, keeps investors engaged, and ensures you have strong support
@@ -297,7 +297,7 @@ export default function SearcherToolsArticle() {
           of the most promising opportunities, key learnings about industries
           or markets, budget versus actual search spending, and a clear ask if
           you need help (introductions, industry expertise, advice on a specific
-          deal). Keep updates concise — one to two pages — and use a consistent
+          deal). Keep updates concise - one to two pages - and use a consistent
           format so investors can quickly scan for the information they care
           about most.
         </p>
@@ -323,7 +323,7 @@ export default function SearcherToolsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Industry research:</strong> Use ChatGPT or Claude to generate
-            overviews of unfamiliar industries — market size, growth trends, key
+            overviews of unfamiliar industries - market size, growth trends, key
             players, regulatory landscape, and common business models
           </li>
           <li>

@@ -144,13 +144,13 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>Break-up fees and cost reimbursement</h3>
         <p>
-          Some sellers request a break-up fee — a payment the buyer must make
+          Some sellers request a break-up fee - a payment the buyer must make
           if the buyer walks away from the deal after signing the LOI. Break-up
           fees are uncommon in search fund transactions but occasionally appear
           in competitive processes where the seller wants compensation for
           taking the company off the market. If you agree to a break-up fee,
           keep it modest (typically 1-2% of the purchase price) and ensure it
-          is only triggered by the buyer&apos;s voluntary withdrawal — not by
+          is only triggered by the buyer&apos;s voluntary withdrawal - not by
           a failure to obtain financing or the discovery of material
           misrepresentations during diligence. Cost reimbursement provisions,
           where the withdrawing party reimburses the other side&apos;s
@@ -173,7 +173,7 @@ export default function LetterOfIntentArticle() {
           The right duration depends on the complexity of the business, the
           scope of diligence required, and the time needed to arrange
           acquisition financing. Push for the longest period the seller will
-          accept — rushing diligence to meet an artificial deadline is one
+          accept - rushing diligence to meet an artificial deadline is one
           of the most common causes of post-acquisition surprises. Include
           an extension mechanism in the LOI, such as an automatic 30-day
           extension if diligence is proceeding in good faith and neither
@@ -186,8 +186,8 @@ export default function LetterOfIntentArticle() {
         <p>
           If exclusivity expires without an extension, the seller is free to
           entertain competing offers. This does not necessarily mean the deal
-          is dead — many sellers prefer to continue with the existing buyer
-          rather than restart the process — but it dramatically weakens your
+          is dead - many sellers prefer to continue with the existing buyer
+          rather than restart the process - but it dramatically weakens your
           negotiating position. You have invested significant time and
           professional fees, and the seller knows you have sunk costs that
           create pressure to close. To avoid this dynamic, monitor your
@@ -214,7 +214,7 @@ export default function LetterOfIntentArticle() {
           twelve-month average of net working capital, though seasonal
           businesses may require a different calculation methodology. Getting
           the working capital peg wrong can shift hundreds of thousands of
-          dollars between buyer and seller — it deserves careful analysis
+          dollars between buyer and seller - it deserves careful analysis
           during diligence and explicit treatment in the LOI.
         </p>
 
@@ -226,14 +226,14 @@ export default function LetterOfIntentArticle() {
           statements, the absence of undisclosed liabilities, compliance with
           laws, the status of material contracts, and the condition of assets.
           The indemnification provisions determine what happens when a rep
-          proves untrue — the seller must compensate the buyer for resulting
+          proves untrue - the seller must compensate the buyer for resulting
           losses. Two critical terms to address at the LOI stage are the
           basket (the minimum threshold of losses before indemnification is
           triggered, typically 0.5-1.0% of the purchase price) and the cap
           (the maximum indemnification liability, typically 10-20% of the
           purchase price for general reps and up to 100% for fundamental reps
-          like ownership and authority). An indemnification holdback — a portion
-          of the purchase price held in escrow for 12-18 months post-closing —
+          like ownership and authority). An indemnification holdback - a portion
+          of the purchase price held in escrow for 12-18 months post-closing - 
           provides practical enforcement of these provisions.
         </p>
 
@@ -312,7 +312,7 @@ export default function LetterOfIntentArticle() {
         <h3 className={h3Class}>Key milestones from LOI to close</h3>
         <p>
           The post-LOI process typically follows a predictable sequence. In
-          weeks one through four, you conduct intensive financial diligence —
+          weeks one through four, you conduct intensive financial diligence - 
           quality of earnings analysis, working capital analysis, and review
           of tax returns and financial statements. In weeks four through eight,
           operational and legal diligence proceeds in parallel: customer and
@@ -335,19 +335,19 @@ export default function LetterOfIntentArticle() {
           Industry data suggests that approximately 30% of signed LOIs do not
           result in a completed transaction. Understanding the most common
           failure modes helps you avoid them. The leading cause is
-          diligence discoveries — material discrepancies between the
+          diligence discoveries - material discrepancies between the
           seller&apos;s representations and the actual condition of the
           business, including overstated earnings, undisclosed liabilities,
           customer concentration risk, or pending litigation. The second
-          most common cause is financing failure — inability to secure
+          most common cause is financing failure - inability to secure
           adequate debt or equity on acceptable terms, often triggered by
           diligence findings that make lenders uncomfortable. Seller&apos;s
           remorse is the third major cause: the emotional difficulty of
           selling a life&apos;s work causes some sellers to create obstacles,
           become unresponsive, or renegotiate terms late in the process.
-          Finally, interpersonal breakdowns between buyer and seller —
+          Finally, interpersonal breakdowns between buyer and seller - 
           damaged trust from aggressive negotiation tactics, cultural
-          mismatches, or communication failures — can kill otherwise viable
+          mismatches, or communication failures - can kill otherwise viable
           deals. The best protection against all of these risks is a
           well-drafted LOI with clear contingencies, disciplined diligence,
           and consistent, empathetic communication with the seller throughout
@@ -372,8 +372,8 @@ export default function LetterOfIntentArticle() {
           submit a competitive LOI alongside other bidders. Competitive LOIs
           require sharper pricing (less room for a valuation range), stronger
           certainty-of-close language, and fewer contingencies to stand out.
-          In a proprietary deal — one you sourced directly through outreach
-          to the owner — you are typically the sole bidder, and the LOI can
+          In a proprietary deal - one you sourced directly through outreach
+          to the owner - you are typically the sole bidder, and the LOI can
           include more buyer-friendly terms like wider price ranges, longer
           exclusivity periods, and broader diligence contingencies. Proprietary
           deals are generally preferable because the relationship dynamic

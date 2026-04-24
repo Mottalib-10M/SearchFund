@@ -12,7 +12,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Neither approach is inherently superior. The right choice depends on your personality, financial situation, skill gaps, risk tolerance, and personal circumstances. This guide examines both models through multiple lenses—operational, financial, psychological, and statistical—to help you make an informed decision that aligns with your strengths and goals.
+        Neither approach is inherently superior. The right choice depends on your personality, financial situation, skill gaps, risk tolerance, and personal circumstances. This guide examines both models through multiple lenses - operational, financial, psychological, and statistical - to help you make an informed decision that aligns with your strengths and goals.
       </p>
 
       <h2 className={h2Class}>Solo Search: Full Control, Full Burden</h2>
@@ -40,11 +40,11 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Geographic and personal flexibility.</strong> Solo searchers can relocate opportunistically based on where attractive targets emerge. If a compelling opportunity appears in Charlotte or Louisville, you can move without uprooting a partner's family or navigating compromise on location. Personal life decisions—marriage, children, family commitments—affect only your own calculus.
+        <strong>Geographic and personal flexibility.</strong> Solo searchers can relocate opportunistically based on where attractive targets emerge. If a compelling opportunity appears in Charlotte or Louisville, you can move without uprooting a partner's family or navigating compromise on location. Personal life decisions - marriage, children, family commitments - affect only your own calculus.
       </p>
 
       <p className={bodyClass}>
-        <strong>All proceeds accrue to one household.</strong> The financial upside from a successful acquisition—both annual compensation and exit proceeds—flows to a single family. For searchers supporting dependents or building generational wealth, this concentration can be transformative.
+        <strong>All proceeds accrue to one household.</strong> The financial upside from a successful acquisition - both annual compensation and exit proceeds - flows to a single family. For searchers supporting dependents or building generational wealth, this concentration can be transformative.
       </p>
 
       <h3 className={h3Class}>Challenges of Solo Search</h3>
@@ -54,7 +54,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Skill set limitations.</strong> Few individuals excel equally at origination, financial modeling, operational strategy, people management, sales, and technology. Solo searchers must either develop proficiency across all domains or compensate with advisors and consultants—which introduces cost and coordination overhead. A solo searcher weak in finance may struggle in negotiations; one uncomfortable with cold outreach may find deal sourcing painfully slow.
+        <strong>Skill set limitations.</strong> Few individuals excel equally at origination, financial modeling, operational strategy, people management, sales, and technology. Solo searchers must either develop proficiency across all domains or compensate with advisors and consultants - which introduces cost and coordination overhead. A solo searcher weak in finance may struggle in negotiations; one uncomfortable with cold outreach may find deal sourcing painfully slow.
       </p>
 
       <p className={bodyClass}>
@@ -66,7 +66,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>No peer accountability.</strong> Partners hold each other accountable to high standards and call out weak thinking or complacency. Solo searchers must cultivate this discipline internally or through advisors—a less reliable forcing function. It's easier to rationalize shortcuts, delay difficult decisions, or avoid uncomfortable conversations when no peer is watching.
+        <strong>No peer accountability.</strong> Partners hold each other accountable to high standards and call out weak thinking or complacency. Solo searchers must cultivate this discipline internally or through advisors - a less reliable forcing function. It's easier to rationalize shortcuts, delay difficult decisions, or avoid uncomfortable conversations when no peer is watching.
       </p>
 
       <h2 className={h2Class}>Partnered Search: Shared Risk, Shared Reward</h2>
@@ -78,7 +78,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Advantages of Partnering</h3>
 
       <p className={bodyClass}>
-        <strong>Complementary skill sets.</strong> The ideal partnership pairs individuals whose strengths offset each other's weaknesses: finance and operations, sales and technology, strategy and execution. One partner might excel at sourcing and relationship-building while the other brings deep analytical rigor. This division of labor allows simultaneous progress on parallel tracks—one partner running diligence while the other manages investor updates, for example.
+        <strong>Complementary skill sets.</strong> The ideal partnership pairs individuals whose strengths offset each other's weaknesses: finance and operations, sales and technology, strategy and execution. One partner might excel at sourcing and relationship-building while the other brings deep analytical rigor. This division of labor allows simultaneous progress on parallel tracks - one partner running diligence while the other manages investor updates, for example.
       </p>
 
       <p className={bodyClass}>
@@ -86,7 +86,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Enhanced credibility with sellers and investors.</strong> Sellers of $10-30 million businesses often find comfort in two capable leaders rather than one, particularly for companies with complex operations or multiple locations. Partners can divide post-acquisition responsibilities—one focused on sales and growth, the other on operations and finance—in ways that appeal to sellers concerned about transition continuity. Investors may perceive lower risk when leadership redundancy exists.
+        <strong>Enhanced credibility with sellers and investors.</strong> Sellers of $10-30 million businesses often find comfort in two capable leaders rather than one, particularly for companies with complex operations or multiple locations. Partners can divide post-acquisition responsibilities - one focused on sales and growth, the other on operations and finance - in ways that appeal to sellers concerned about transition continuity. Investors may perceive lower risk when leadership redundancy exists.
       </p>
 
       <p className={bodyClass}>
@@ -94,7 +94,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Better decision-making through debate.</strong> Partners stress-test each other's assumptions, challenge biases, and identify blind spots. This dialectic process—"I see opportunity here" met with "but have you considered these risks"—often leads to better outcomes than solo deliberation. Partnerships create built-in red teams that question optimistic projections and catch due diligence gaps.
+        <strong>Better decision-making through debate.</strong> Partners stress-test each other's assumptions, challenge biases, and identify blind spots. This dialectic process - "I see opportunity here" met with "but have you considered these risks" - often leads to better outcomes than solo deliberation. Partnerships create built-in red teams that question optimistic projections and catch due diligence gaps.
       </p>
 
       <p className={bodyClass}>
@@ -108,7 +108,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Partnership friction and conflict.</strong> Even the strongest partnerships face disagreements about strategy, deal selection, negotiation tactics, post-acquisition priorities, and resource allocation. Without clear governance mechanisms and communication protocols, these conflicts can paralyze decision-making or, in worst cases, destroy the partnership entirely. Searcher divorces—while rare—do happen and create painful investor situations.
+        <strong>Partnership friction and conflict.</strong> Even the strongest partnerships face disagreements about strategy, deal selection, negotiation tactics, post-acquisition priorities, and resource allocation. Without clear governance mechanisms and communication protocols, these conflicts can paralyze decision-making or, in worst cases, destroy the partnership entirely. Searcher divorces - while rare - do happen and create painful investor situations.
       </p>
 
       <p className={bodyClass}>
@@ -124,7 +124,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Life stage misalignment.</strong> Partners at different life stages—one single and mobile, one with three children in school—face different risk tolerances and constraints. As circumstances evolve during a five-to-seven-year hold, partners may develop divergent preferences about exit timing, growth aggressiveness, or personal time allocation.
+        <strong>Life stage misalignment.</strong> Partners at different life stages - one single and mobile, one with three children in school - face different risk tolerances and constraints. As circumstances evolve during a five-to-seven-year hold, partners may develop divergent preferences about exit timing, growth aggressiveness, or personal time allocation.
       </p>
 
       <h2 className={h2Class}>The Data: Success Rates and Timing</h2>
@@ -140,7 +140,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Solo searchers acquire companies at rates statistically indistinguishable from partnered teams—both hovering around 74-76% success. This suggests that partnership structure itself doesn't dramatically alter acquisition probability. The primary drivers of acquisition success appear to be capital adequacy, geographic flexibility, industry focus discipline, and searcher persistence rather than team composition.
+        Solo searchers acquire companies at rates statistically indistinguishable from partnered teams - both hovering around 74-76% success. This suggests that partnership structure itself doesn't dramatically alter acquisition probability. The primary drivers of acquisition success appear to be capital adequacy, geographic flexibility, industry focus discipline, and searcher persistence rather than team composition.
       </p>
 
       <p className={bodyClass}>
@@ -154,7 +154,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        However, because solo searchers retain roughly twice the equity percentage, their absolute dollar returns per person exceed those of partnered searchers—even when the underlying business performs identically. A $40 million exit with 27% solo ownership yields $10.8 million in proceeds; the same exit with 13.5% partnered ownership yields $5.4 million per partner.
+        However, because solo searchers retain roughly twice the equity percentage, their absolute dollar returns per person exceed those of partnered searchers - even when the underlying business performs identically. A $40 million exit with 27% solo ownership yields $10.8 million in proceeds; the same exit with 13.5% partnered ownership yields $5.4 million per partner.
       </p>
 
       <p className={bodyClass}>
@@ -168,7 +168,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Where partnerships potentially offer advantage is in recovery from early missteps. Anecdotal evidence suggests that partnered teams navigate crises more effectively: one partner focuses on firefighting while the other maintains strategic initiatives, preventing complete organizational drift. In truly catastrophic situations—CEO health crisis, family emergency—partners provide continuity that solo operators cannot. However, these scenarios are sufficiently rare that they don't meaningfully shift aggregate statistics.
+        Where partnerships potentially offer advantage is in recovery from early missteps. Anecdotal evidence suggests that partnered teams navigate crises more effectively: one partner focuses on firefighting while the other maintains strategic initiatives, preventing complete organizational drift. In truly catastrophic situations - CEO health crisis, family emergency - partners provide continuity that solo operators cannot. However, these scenarios are sufficiently rare that they don't meaningfully shift aggregate statistics.
       </p>
 
       <h2 className={h2Class}>Economics and Equity Split</h2>
@@ -200,11 +200,11 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Annual Compensation</h3>
 
       <p className={bodyClass}>
-        During search, both solo and partnered searchers typically receive $80,000-$120,000 annually from search fund capital, with geographic and experience-based variance. Partnered teams receive this amount per person—$160,000-$240,000 combined—consuming search capital twice as fast.
+        During search, both solo and partnered searchers typically receive $80,000-$120,000 annually from search fund capital, with geographic and experience-based variance. Partnered teams receive this amount per person -$160,000-$240,000 combined - consuming search capital twice as fast.
       </p>
 
       <p className={bodyClass}>
-        Post-acquisition CEO compensation runs $150,000-$250,000 base salary plus annual bonuses tied to performance milestones (typically 25-50% of base). Partnered searchers each receive CEO-equivalent compensation, meaning total leadership comp runs $300,000-$500,000 combined—a meaningful expense for a $15-25 million revenue business.
+        Post-acquisition CEO compensation runs $150,000-$250,000 base salary plus annual bonuses tied to performance milestones (typically 25-50% of base). Partnered searchers each receive CEO-equivalent compensation, meaning total leadership comp runs $300,000-$500,000 combined - a meaningful expense for a $15-25 million revenue business.
       </p>
 
       <p className={bodyClass}>
@@ -214,7 +214,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Illustrative Exit Economics</h3>
 
       <p className={bodyClass}>
-        Consider a typical successful search: acquisition at $15 million enterprise value, five-year hold, exit at $40 million—a 2.7x multiple representing healthy but not exceptional performance.
+        Consider a typical successful search: acquisition at $15 million enterprise value, five-year hold, exit at $40 million - a 2.7x multiple representing healthy but not exceptional performance.
       </p>
 
       <p className={bodyClass}>
@@ -284,11 +284,11 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Gap coverage partnerships.</strong> Forming a partnership primarily because one person lacks confidence or fears loneliness—rather than because the combination creates multiplicative value—builds on weak foundation. Better to develop capabilities through advisors or accept solo path than partner for psychic comfort.
+        <strong>Gap coverage partnerships.</strong> Forming a partnership primarily because one person lacks confidence or fears loneliness - rather than because the combination creates multiplicative value - builds on weak foundation. Better to develop capabilities through advisors or accept solo path than partner for psychic comfort.
       </p>
 
       <p className={bodyClass}>
-        <strong>Unequal caliber.</strong> If one partner is objectively stronger—better credentials, more relevant experience, higher investor appeal—the equity split creates built-in resentment. The stronger partner feels they've given away value; the weaker feels pressured to prove worth. Both dynamics undermine trust.
+        <strong>Unequal caliber.</strong> If one partner is objectively stronger - better credentials, more relevant experience, higher investor appeal - the equity split creates built-in resentment. The stronger partner feels they've given away value; the weaker feels pressured to prove worth. Both dynamics undermine trust.
       </p>
 
       <p className={bodyClass}>
@@ -304,7 +304,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Decision-Making Deadlock</h3>
 
       <p className={bodyClass}>
-        Two-person partnerships lack tiebreakers. When partners fundamentally disagree—whether to acquire a particular business, how aggressively to bid, which growth initiatives to fund—someone must yield or compromise must be reached. Without pre-agreed escalation protocols, these standoffs consume time and energy while opportunities slip away.
+        Two-person partnerships lack tiebreakers. When partners fundamentally disagree - whether to acquire a particular business, how aggressively to bid, which growth initiatives to fund - someone must yield or compromise must be reached. Without pre-agreed escalation protocols, these standoffs consume time and energy while opportunities slip away.
       </p>
 
       <p className={bodyClass}>
@@ -318,7 +318,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Address this through regular check-ins—quarterly "partnership retrospectives" where both parties candidly assess workload distribution, contribution quality, and satisfaction levels. These conversations feel awkward initially but prevent resentment from calcifying into partnership-ending bitterness.
+        Address this through regular check-ins - quarterly "partnership retrospectives" where both parties candidly assess workload distribution, contribution quality, and satisfaction levels. These conversations feel awkward initially but prevent resentment from calcifying into partnership-ending bitterness.
       </p>
 
       <h3 className={h3Class}>Role Ambiguity Post-Acquisition</h3>
@@ -348,7 +348,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Sophisticated partnerships establish vesting schedules that allow for divergent timelines—graduated buyout options or drag-along/tag-along rights that balance individual preference with collective interests. Investor board members often mediate these discussions, bringing objective market perspective.
+        Sophisticated partnerships establish vesting schedules that allow for divergent timelines - graduated buyout options or drag-along/tag-along rights that balance individual preference with collective interests. Investor board members often mediate these discussions, bringing objective market perspective.
       </p>
 
       <h2 className={h2Class}>Legal Structure for Partnered Searches</h2>
@@ -411,7 +411,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Skill and Experience Assessment</h3>
 
       <p className={bodyClass}>
-        Rate yourself objectively (or get candid feedback from mentors) across key search fund competencies: deal sourcing, financial analysis, negotiation, people leadership, strategic thinking, operational execution, sales, and technology fluency. If you're strong (top quartile) in most areas, solo search is viable. If you have meaningful gaps—particularly in domains critical to your target industries—partnership with someone who fills those gaps creates real value.
+        Rate yourself objectively (or get candid feedback from mentors) across key search fund competencies: deal sourcing, financial analysis, negotiation, people leadership, strategic thinking, operational execution, sales, and technology fluency. If you're strong (top quartile) in most areas, solo search is viable. If you have meaningful gaps - particularly in domains critical to your target industries - partnership with someone who fills those gaps creates real value.
       </p>
 
       <h3 className={h3Class}>Psychological Needs</h3>
@@ -421,7 +421,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        If you're honest with yourself about needing partnership for emotional resilience, don't frame it as weakness—search is brutal, and psychological sustainability matters. But ensure the partnership creates professional value beyond just companionship, or you're simply buying expensive therapy.
+        If you're honest with yourself about needing partnership for emotional resilience, don't frame it as weakness - search is brutal, and psychological sustainability matters. But ensure the partnership creates professional value beyond just companionship, or you're simply buying expensive therapy.
       </p>
 
       <h3 className={h3Class}>Financial Considerations</h3>
@@ -431,7 +431,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Run scenarios: calculate after-tax proceeds at 13.5% versus 27% across a range of exit values ($20M, $40M, $60M). Does the difference meaningfully affect your life—ability to pay for children's education, retire parents, achieve financial independence? Or is it "nice to have" money beyond core security?
+        Run scenarios: calculate after-tax proceeds at 13.5% versus 27% across a range of exit values ($20M, $40M, $60M). Does the difference meaningfully affect your life - ability to pay for children's education, retire parents, achieve financial independence? Or is it "nice to have" money beyond core security?
       </p>
 
       <h3 className={h3Class}>Geographic and Personal Flexibility</h3>
@@ -457,7 +457,7 @@ export default function SoloVsPartneredSearchArticle() {
       </ul>
 
       <p className={bodyClass}>
-        If any of these raise red flags, don't assume they'll resolve under pressure—they'll amplify. Better to search solo than with the wrong partner.
+        If any of these raise red flags, don't assume they'll resolve under pressure - they'll amplify. Better to search solo than with the wrong partner.
       </p>
 
       <h2 className={h2Class}>Hybrid Models</h2>
@@ -513,7 +513,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h2 className={h2Class}>Making Your Decision</h2>
 
       <p className={bodyClass}>
-        The solo versus partnered decision should be made thoughtfully but not agonized over endlessly. Talk to 10-15 searchers who have taken each path. Ask them what surprised them, what they'd do differently, and how the choice shaped their experience. Consult with potential investors early—their pattern recognition across dozens of searches provides valuable perspective.
+        The solo versus partnered decision should be made thoughtfully but not agonized over endlessly. Talk to 10-15 searchers who have taken each path. Ask them what surprised them, what they'd do differently, and how the choice shaped their experience. Consult with potential investors early - their pattern recognition across dozens of searches provides valuable perspective.
       </p>
 
       <p className={bodyClass}>
@@ -521,7 +521,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Ultimately, both models work. The question isn't which is objectively better but which aligns with your strengths, addresses your weaknesses, fits your life circumstances, and maximizes your probability of success. Choose deliberately, commit fully, and execute relentlessly—that matters far more than whether you search alone or with a partner at your side.
+        Ultimately, both models work. The question isn't which is objectively better but which aligns with your strengths, addresses your weaknesses, fits your life circumstances, and maximizes your probability of success. Choose deliberately, commit fully, and execute relentlessly - that matters far more than whether you search alone or with a partner at your side.
       </p>
 
       <h2 className={h2Class}>Frequently Asked Questions</h2>

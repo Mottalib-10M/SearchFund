@@ -19,7 +19,7 @@ export default function DueDiligenceArticle() {
 
         <p>
           The goal of due diligence is not to confirm what the seller has told
-          you — it is to independently verify every material claim about the
+          you - it is to independently verify every material claim about the
           business and uncover risks that may not be visible from the outside.
           Thorough due diligence protects you, your investors, and your
           lender. It also gives you the operational playbook you will need
@@ -29,13 +29,13 @@ export default function DueDiligenceArticle() {
         <h2 className={h2Class}>Financial due diligence</h2>
         <ul className={ulClass}>
           <li>3-5 years of audited financial statements (P&L, balance sheet, cash flow).</li>
-          <li><Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of earnings (QoE) analysis</Link> — separate recurring vs. non-recurring items.</li>
+          <li><Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of earnings (QoE) analysis</Link> - separate recurring vs. non-recurring items.</li>
           <li>Revenue breakdown by customer, product/service, and geography.</li>
           <li>Customer concentration analysis (top 10 customers as % of revenue).</li>
           <li>Working capital analysis and seasonal patterns.</li>
           <li>Capital expenditure history and future requirements.</li>
           <li>Debt schedule, covenants, and off-balance-sheet liabilities.</li>
-          <li>Owner add-backs and normalization adjustments to EBITDA — see <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation methods</Link> for how these affect pricing.</li>
+          <li>Owner add-backs and normalization adjustments to EBITDA - see <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation methods</Link> for how these affect pricing.</li>
           <li>Tax returns and any ongoing disputes with tax authorities.</li>
         </ul>
 
@@ -54,7 +54,7 @@ export default function DueDiligenceArticle() {
           a third-party accounting firm, the QoE independently verifies the
           company&apos;s adjusted EBITDA by examining every add-back the
           seller has claimed. A good QoE firm will also identify adjustments
-          the seller did not make — both positive and negative. Expect to
+          the seller did not make - both positive and negative. Expect to
           spend $30,000 to $60,000 on a QoE for a typical search fund
           acquisition. This is not the place to cut costs. Your SBA lender
           will almost certainly require a QoE, and your investors will expect
@@ -87,8 +87,8 @@ export default function DueDiligenceArticle() {
         </p>
 
         <p>
-          <strong>Working capital analysis.</strong> Working capital — the
-          difference between current assets and current liabilities — is
+          <strong>Working capital analysis.</strong> Working capital - the
+          difference between current assets and current liabilities - is
           often overlooked during deal negotiations but has significant
           implications for your post-close cash position. Analyze the
           seasonal patterns in accounts receivable, inventory, and accounts
@@ -103,7 +103,7 @@ export default function DueDiligenceArticle() {
         <ul className={ulClass}>
           <li>Corporate formation documents, bylaws, and shareholder agreements.</li>
           <li>All material contracts (customers, suppliers, leases, licenses).</li>
-          <li>Intellectual property — patents, trademarks, trade secrets, software licenses.</li>
+          <li>Intellectual property - patents, trademarks, trade secrets, software licenses.</li>
           <li>Pending or threatened litigation and historical legal disputes.</li>
           <li>Regulatory compliance and industry-specific permits/licenses.</li>
           <li>Environmental liabilities and compliance history.</li>
@@ -111,7 +111,7 @@ export default function DueDiligenceArticle() {
         </ul>
 
         <p>
-          Legal due diligence should be led by experienced M&A counsel — not
+          Legal due diligence should be led by experienced M&A counsel - not
           your family attorney or general corporate lawyer. A specialized M&A
           attorney knows exactly what to look for and can flag risks that a
           generalist would miss. Here are the areas that require the deepest
@@ -154,7 +154,7 @@ export default function DueDiligenceArticle() {
 
         <p>
           <strong>Environmental and regulatory.</strong> For businesses with
-          physical operations — manufacturing, distribution, food service —
+          physical operations - manufacturing, distribution, food service - 
           environmental liabilities can be enormous and hidden. Request a
           Phase I environmental site assessment for any real estate included
           in the transaction. Review the company&apos;s history of
@@ -167,7 +167,7 @@ export default function DueDiligenceArticle() {
         <ul className={ulClass}>
           <li>Organizational chart and key employee identification.</li>
           <li>Employee contracts, benefits, and compensation structures.</li>
-          <li>Key person dependencies — what happens if critical staff leave?</li>
+          <li>Key person dependencies - what happens if critical staff leave?</li>
           <li>Technology stack, IT infrastructure, and cybersecurity posture.</li>
           <li>Facilities, equipment condition, and lease terms.</li>
           <li>Supply chain dependencies and vendor relationships.</li>
@@ -184,7 +184,7 @@ export default function DueDiligenceArticle() {
         <p>
           <strong>Key person risk.</strong> In small businesses, institutional
           knowledge and critical relationships are often concentrated in one
-          or two individuals — sometimes including the departing owner. Map
+          or two individuals - sometimes including the departing owner. Map
           out every key function (sales, operations, finance, IT) and
           identify who holds the institutional knowledge for each. Develop
           a retention plan for critical employees that includes stay bonuses,
@@ -198,7 +198,7 @@ export default function DueDiligenceArticle() {
           technology infrastructure with a critical eye. Is the ERP system
           modern and well-maintained, or is the company running critical
           operations on spreadsheets and legacy software? What is the state
-          of their cybersecurity — do they have proper backup systems,
+          of their cybersecurity - do they have proper backup systems,
           access controls, and incident response plans? Technology
           modernization is a common post-acquisition value creation lever,
           but it can also be a significant unplanned expense if the current
@@ -228,11 +228,11 @@ export default function DueDiligenceArticle() {
         <h2 className={h2Class}>Commercial due diligence</h2>
         <ul className={ulClass}>
           <li>Market size, growth trends, and competitive landscape.</li>
-          <li>Customer interviews — satisfaction, switching costs, contract renewal rates.</li>
+          <li>Customer interviews - satisfaction, switching costs, contract renewal rates.</li>
           <li>Sales pipeline and new business development process.</li>
           <li>Pricing power and margin sustainability.</li>
-          <li>Competitive moat — what makes this business defensible?</li>
-          <li>Growth opportunities — organic expansion, add-on acquisitions, new markets.</li>
+          <li>Competitive moat - what makes this business defensible?</li>
+          <li>Growth opportunities - organic expansion, add-on acquisitions, new markets.</li>
         </ul>
 
         <p>
@@ -272,7 +272,7 @@ export default function DueDiligenceArticle() {
         <ul className={ulClass}>
           <li>Seller&apos;s motivation and timeline for transition.</li>
           <li>Company culture and employee morale assessment.</li>
-          <li>Transition plan — how long will the seller stay to ensure continuity?</li>
+          <li>Transition plan - how long will the seller stay to ensure continuity?</li>
           <li>Relationships with key stakeholders (customers, suppliers, community). Consider <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> who specialize in transition management.</li>
           <li>Identify potential risks of ownership change on business relationships.</li>
         </ul>
@@ -281,7 +281,7 @@ export default function DueDiligenceArticle() {
           Cultural diligence is often underestimated, but McKinsey research on M&A
           integration found that cultural misalignment is the primary driver of
           value destruction in 30% of failed deals. In a search fund context, you
-          are not just acquiring a business — you are stepping into an existing
+          are not just acquiring a business - you are stepping into an existing
           culture as a new leader. Dedicate time to informal employee conversations,
           observe how teams interact during site visits, and ask the seller about
           unwritten norms that shape how work gets done.
@@ -327,7 +327,7 @@ export default function DueDiligenceArticle() {
           These costs are typically funded from the search capital budget,
           though some investors will agree to fund excess diligence costs
           separately if the deal is compelling. Keep in mind that if the deal
-          falls apart during diligence, these costs are sunk — another
+          falls apart during diligence, these costs are sunk - another
           reason to be rigorous in your pre-LOI screening so you only enter
           diligence on deals with a high probability of closing.
         </p>
@@ -341,11 +341,11 @@ export default function DueDiligenceArticle() {
           entirely.
         </p>
         <ul className={ulClass}>
-          <li><strong>Financial fraud or material misrepresentation.</strong> If the seller has intentionally misrepresented financial performance — inflating revenue, hiding liabilities, or fabricating customers — walk away immediately. If they lied during the courtship, they will lie during the transition.</li>
+          <li><strong>Financial fraud or material misrepresentation.</strong> If the seller has intentionally misrepresented financial performance - inflating revenue, hiding liabilities, or fabricating customers - walk away immediately. If they lied during the courtship, they will lie during the transition.</li>
           <li><strong>Irreversible customer concentration.</strong> If a single customer represents 40%+ of revenue and there is no realistic path to diversification, the risk is too high for a leveraged acquisition. The loss of that customer could leave you unable to service your debt.</li>
           <li><strong>Undisclosed litigation or regulatory exposure.</strong> Material legal liabilities that the seller failed to disclose in the LOI process signal both financial risk and a broken trust relationship.</li>
           <li><strong>Key employee who will leave.</strong> If a mission-critical employee (the top salesperson, the operations manager who runs the floor) has indicated they will leave after the sale and cannot be retained, the business you are buying may not be the business you think it is.</li>
-          <li><strong>Structural industry decline.</strong> If your commercial diligence reveals that the company&apos;s core market is in secular decline — not cyclical but structural — the business will require constant reinvention just to maintain revenue. This is the opposite of the stable, cash-generative business that the search fund model is designed for.</li>
+          <li><strong>Structural industry decline.</strong> If your commercial diligence reveals that the company&apos;s core market is in secular decline - not cyclical but structural - the business will require constant reinvention just to maintain revenue. This is the opposite of the stable, cash-generative business that the search fund model is designed for.</li>
           <li><strong>Toxic company culture.</strong> If employee interviews reveal widespread dissatisfaction, a culture of fear, or deep resentment toward the owner, you will face an uphill battle from day one. Culture problems take years to fix and cause attrition in the meantime.</li>
           <li><strong>Environmental contamination.</strong> If a Phase I assessment identifies recognized environmental conditions that require remediation, the cost can be six or seven figures. Unless the seller is willing to fully indemnify and escrow funds for remediation, walk away.</li>
         </ul>

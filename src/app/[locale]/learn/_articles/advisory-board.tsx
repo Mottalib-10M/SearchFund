@@ -10,8 +10,8 @@ export default function AdvisoryBoardArticle() {
       <div className={bodyClass}>
         <p>
           Becoming CEO through a search fund acquisition means stepping into
-          a role with enormous responsibility and — especially in the first
-          year — limited experience running that specific business. An
+          a role with enormous responsibility and - especially in the first
+          year - limited experience running that specific business. An
           advisory board bridges that gap. Unlike a formal{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board of directors</Link>{" "}
           (which typically consists of your investors and has fiduciary and
@@ -26,9 +26,9 @@ export default function AdvisoryBoardArticle() {
         <h2 className={h2Class}>Why advisory boards matter</h2>
         <p>
           Search fund CEOs face a unique set of challenges. They are
-          typically first-time CEOs — especially during the critical{" "}
+          typically first-time CEOs - especially during the critical{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
-          — often operating in an industry they
+          - often operating in an industry they
           did not come from, managing a team that is skeptical of the new
           owner, and managing{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
@@ -38,7 +38,7 @@ export default function AdvisoryBoardArticle() {
           <li>
             <strong>Domain expertise:</strong> Advisors who know the
             industry can help you understand competitive dynamics, pricing
-            norms, regulatory risks, and customer expectations — knowledge
+            norms, regulatory risks, and customer expectations - knowledge
             that would take years to develop on your own.
           </li>
           <li>
@@ -50,7 +50,7 @@ export default function AdvisoryBoardArticle() {
           <li>
             <strong>Network access:</strong> Well-connected advisors can
             introduce you to potential customers, strategic partners,
-            acquisition targets, and talent — dramatically accelerating
+            acquisition targets, and talent - dramatically accelerating
             your growth.
           </li>
           <li>
@@ -81,8 +81,8 @@ export default function AdvisoryBoardArticle() {
 
         <h3 className={h3Class}>Ex-operators and former CEOs</h3>
         <p>
-          Former CEOs of similar-sized businesses — especially those
-          who have gone through a transition or turnaround — bring
+          Former CEOs of similar-sized businesses - especially those
+          who have gone through a transition or turnaround - bring
           practical wisdom about managing people, building culture,
           and navigating the inevitable crises of running a company.
           Ex-searchers who have completed the full cycle (search,
@@ -106,7 +106,7 @@ export default function AdvisoryBoardArticle() {
 
         <h3 className={h3Class}>Local business leaders</h3>
         <p>
-          If you relocated for your acquisition — common in ETA — a
+          If you relocated for your acquisition - common in ETA - a
           well-connected local business leader can be invaluable. They
           can introduce you to the local business community, help you
           recruit talent, navigate municipal regulations, and build
@@ -134,7 +134,7 @@ export default function AdvisoryBoardArticle() {
           this is a retired executive or senior consultant who has both the
           time and the desire to stay connected to the industry without the
           burden of day-to-day operations. Their network within the industry
-          is often as valuable as their knowledge — they can introduce you
+          is often as valuable as their knowledge - they can introduce you
           to potential customers, suppliers, and even acquisition targets
           for add-on deals.
         </p>
@@ -146,8 +146,8 @@ export default function AdvisoryBoardArticle() {
           strategic planning. In the early months of ownership, you will be
           rebuilding financial systems, establishing KPI dashboards, and
           managing banking relationships. A financial advisor who has done
-          this before — particularly in small and mid-sized businesses where
-          the accounting infrastructure is often rudimentary — can save you
+          this before - particularly in small and mid-sized businesses where
+          the accounting infrastructure is often rudimentary - can save you
           months of trial and error. They can also help you prepare for
           board meetings with investors, ensuring your financial narrative
           is clear, accurate, and confidence-inspiring.
@@ -160,17 +160,17 @@ export default function AdvisoryBoardArticle() {
           steady stream of legal questions that arise in running a business:
           employment law, contract disputes, intellectual property protection,
           regulatory compliance, and customer or vendor conflicts. A
-          business-oriented attorney — someone who sees legal advice as a
+          business-oriented attorney - someone who sees legal advice as a
           tool for enabling business outcomes rather than simply avoiding
-          risk — is far more valuable than a purely defensive legal mind.
+          risk - is far more valuable than a purely defensive legal mind.
         </p>
 
         <h3 className={h3Class}>Former searcher or operator</h3>
         <p>
           Perhaps the most valuable advisory board member is someone who has
           walked the exact path you are walking. A former search fund CEO
-          who has completed the full cycle — fundraising, searching,
-          acquiring, operating, and ideally exiting — understands the model&apos;s
+          who has completed the full cycle - fundraising, searching,
+          acquiring, operating, and ideally exiting - understands the model&apos;s
           unique dynamics in a way no other advisor can. They know what
           investor expectations feel like from the inside, how to manage the
           psychological transition from searcher to operator, and which
@@ -193,7 +193,7 @@ export default function AdvisoryBoardArticle() {
           decision-making, and avoid conflicts of interest. In a typical
           search fund structure, the board of directors consists primarily of
           investor representatives who have governance rights specified in
-          the shareholders&apos; agreement — including approval rights over
+          the shareholders&apos; agreement - including approval rights over
           major capital expenditures, executive hiring and firing, debt
           incurrence, and distributions. Directors carry personal liability
           exposure (mitigated by D&amp;O insurance) and are subject to formal
@@ -204,7 +204,7 @@ export default function AdvisoryBoardArticle() {
           Advisors do not vote on company decisions, do not have fiduciary
           duties, and do not bear personal liability for company outcomes.
           Their role is purely consultative. This lack of formality is
-          actually a strength — it allows advisors to speak freely, offer
+          actually a strength - it allows advisors to speak freely, offer
           candid opinions, and provide guidance without the political
           dynamics that can constrain formal board discussions. Many
           searcher-CEOs find that they are more honest and vulnerable with
@@ -231,14 +231,14 @@ export default function AdvisoryBoardArticle() {
           use cliff vesting (nothing vests until the first anniversary) while
           others use monthly or quarterly pro-rata vesting. Equity compensation
           aligns advisors&apos; interests with long-term value creation and
-          requires no cash outlay — an important consideration for
+          requires no cash outlay - an important consideration for
           newly-acquired businesses focused on cash flow management.
         </p>
 
         <h3 className={h3Class}>Fee-for-service and cash retainers</h3>
         <p>
           Some advisors prefer or require cash compensation, particularly
-          those whose time has high direct opportunity cost — active
+          those whose time has high direct opportunity cost - active
           consultants, practicing attorneys, or functional specialists who
           advise multiple companies. Cash retainers typically range from
           $2,000 to $10,000 per year, or $500 to $2,000 per meeting.
@@ -258,7 +258,7 @@ export default function AdvisoryBoardArticle() {
           formal commitment, the advisor&apos;s availability may be inconsistent.
           If you rely on unpaid advisors, be especially respectful of their
           time, prepare thoroughly for every interaction, and find ways to
-          reciprocate value — introductions, recognition, or assistance
+          reciprocate value - introductions, recognition, or assistance
           with their own projects.
         </p>
 
@@ -274,7 +274,7 @@ export default function AdvisoryBoardArticle() {
 
         <h3 className={h3Class}>Structured check-ins and meeting cadence</h3>
         <p>
-          Establish a regular meeting cadence — quarterly is typical for
+          Establish a regular meeting cadence - quarterly is typical for
           group meetings, with ad hoc one-on-one calls as needed. Send a
           written agenda at least one week before each meeting, including
           financial performance data, key decisions you are facing, and
@@ -301,7 +301,7 @@ export default function AdvisoryBoardArticle() {
         <h3 className={h3Class}>Leveraging their networks</h3>
         <p>
           One of the highest-value contributions advisors make is
-          introductions — to potential customers, talent, partners, and
+          introductions - to potential customers, talent, partners, and
           add-on acquisition targets. But most advisors will not proactively
           offer introductions unless you ask explicitly. Maintain a running
           list of the types of connections you are seeking and share it with
@@ -314,7 +314,7 @@ export default function AdvisoryBoardArticle() {
         <h2 className={h2Class}>When to formalize your advisory board</h2>
         <p>
           Timing matters. During the search phase, most advisors are
-          engaged informally — a mentor you call for guidance, an industry
+          engaged informally - a mentor you call for guidance, an industry
           expert you consult before submitting an LOI, a former searcher
           who reviews your investor updates. Formalizing the advisory board
           too early can feel premature and presumptuous.
@@ -332,7 +332,7 @@ export default function AdvisoryBoardArticle() {
         <p>
           As the business matures and potentially grows through add-on
           acquisitions, you may transition some advisory board members to
-          the formal board of directors — particularly if they bring
+          the formal board of directors - particularly if they bring
           governance experience and investor credibility. This transition
           should be deliberate and discussed with your investor board
           members to ensure alignment on governance structure and
@@ -398,7 +398,7 @@ export default function AdvisoryBoardArticle() {
             <strong>Informal advisory relationships</strong> are more
             fluid. You might have three or four people you call
             regularly for advice, take to lunch quarterly, and consult
-            on specific issues — without a formal agreement or
+            on specific issues - without a formal agreement or
             compensation structure. This approach works when advisors
             are motivated by the relationship itself (perhaps they are
             friends, mentors, or fellow alumni) rather than by
@@ -450,8 +450,8 @@ export default function AdvisoryBoardArticle() {
 
         <h3 className={h3Class}>Peer groups and communities</h3>
         <p>
-          Peer groups — small cohorts of 6 to 12 search fund
-          entrepreneurs at similar stages — provide some of the most
+          Peer groups - small cohorts of 6 to 12 search fund
+          entrepreneurs at similar stages - provide some of the most
           valuable support in the ETA world. Members share deal flow,
           compare notes on operational challenges, and hold each other
           accountable. Several organizations facilitate peer groups,

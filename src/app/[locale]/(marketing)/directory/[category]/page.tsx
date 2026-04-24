@@ -25,7 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!cat) return {};
   const entries = getEntriesForCategory(category);
   return {
-    title: `${cat.name} — ${entries.length} Entries | SearchFundMarket Directory`,
+    title: `${cat.name} - ${entries.length} Entries | SearchFundMarket Directory`,
     description: cat.ogDescription,
     alternates: {
       canonical: `${BASE}/${locale}/directory/${category}`,

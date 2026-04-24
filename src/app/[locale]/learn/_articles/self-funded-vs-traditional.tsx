@@ -87,7 +87,7 @@ export default function SelfFundedVsTraditionalArticle() {
           $200K in searcher equity from personal savings or home equity
           (10%), and $200K from a small group of equity co-investors (10%).
           In this scenario, the searcher owns 90% of the business on
-          day one — a dramatically different outcome than the 20-25%
+          day one - a dramatically different outcome than the 20-25%
           ownership in a traditional model.
         </p>
         <p>
@@ -136,7 +136,7 @@ export default function SelfFundedVsTraditionalArticle() {
           acquisition target, they must assemble the capital stack
           (bank debt, SBA loan, seller financing, equity co-investors)
           on a deal-specific basis. This deal-level fundraising typically
-          takes 60-120 days and introduces execution risk — if financing
+          takes 60-120 days and introduces execution risk - if financing
           falls through, the searcher may lose the deal.
         </p>
         <p>
@@ -192,7 +192,7 @@ export default function SelfFundedVsTraditionalArticle() {
           A self-funded searcher who acquires a business generating $500K
           in annual SDE for $1.5M (3x SDE) and owns 80% of the equity is
           earning $400K in annual cash flow on perhaps $200K in personal
-          investment — a fundamentally different wealth-building equation
+          investment - a fundamentally different wealth-building equation
           than a traditional searcher earning 20% of a larger but more
           leveraged entity. The trade-off is that smaller businesses tend
           to be more owner-dependent, less diversified, and more
@@ -228,8 +228,8 @@ export default function SelfFundedVsTraditionalArticle() {
           methodologies.
         </p>
         <p>
-          Stanford GSB&apos;s research on traditional search funds — the most
-          comprehensive dataset available — shows that approximately 70%
+          Stanford GSB&apos;s research on traditional search funds - the most
+          comprehensive dataset available - shows that approximately 70%
           of traditional searchers successfully acquire a business. Of
           those who acquire, roughly 65-70% generate positive returns for
           investors, and the asset class as a whole has produced aggregate
@@ -272,7 +272,7 @@ export default function SelfFundedVsTraditionalArticle() {
           model gives the searcher higher equity ownership (since there is
           no search-phase dilution) while still providing the comfort of
           pre-committed acquisition capital. The searcher typically retains
-          30-50% equity — meaningfully more than the traditional 20-25%
+          30-50% equity - meaningfully more than the traditional 20-25%
           but less than a fully self-funded acquisition.
         </p>
 

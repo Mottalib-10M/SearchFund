@@ -93,10 +93,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     investor.investmentThesis?.slice(0, 160) ||
     `${name} is a search fund investor on SearchFundMarket.`;
   return {
-    title: `${name} — Search Fund Investor | SearchFundMarket`,
+    title: `${name} - Search Fund Investor | SearchFundMarket`,
     description,
     openGraph: {
-      title: `${name} — Search Fund Investor on SearchFundMarket`,
+      title: `${name} - Search Fund Investor on SearchFundMarket`,
       description: investor.headline || `Explore ${name}'s investment criteria and value-add on SearchFundMarket.`,
     },
   };
@@ -161,7 +161,7 @@ export default async function InvestorProfilePage({ params }: PageProps) {
       {/* Sample badge */}
       {isSample && (
         <div className="mt-4 rounded-lg bg-amber-50 border border-amber-200 px-4 py-2">
-          <p className="text-xs text-amber-800">Sample profile — This is a representative example of a search fund investor, not a real individual or firm.</p>
+          <p className="text-xs text-amber-800">Sample profile - This is a representative example of a search fund investor, not a real individual or firm.</p>
         </div>
       )}
 

@@ -100,7 +100,7 @@ export default function CreativeFinancingArticle() {
               search fund model
             </Link>{" "}
             with 10&ndash;20 investors</li>
-          <li><strong>Key consideration:</strong> Structure clearly with a shareholder agreement — define roles, decisions, exit provisions</li>
+          <li><strong>Key consideration:</strong> Structure clearly with a shareholder agreement - define roles, decisions, exit provisions</li>
         </ul>
 
         <h2 className={h2Class}>6. Home equity (HELOC)</h2>

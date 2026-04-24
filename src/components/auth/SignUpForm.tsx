@@ -185,7 +185,7 @@ export function SignUpForm() {
     );
   }
 
-  // Existing account detected — show info message
+  // Existing account detected - show info message
   if (existingAccount) {
     return (
       <div className="w-full max-w-md mx-auto text-center">
@@ -200,7 +200,7 @@ export function SignUpForm() {
         </h1>
         <p className="text-apple-gray-500 mt-3 leading-relaxed">
           An account with <strong className="text-apple-black">{email}</strong> already exists.
-          We&apos;ve sent you a sign-in link — check your inbox.
+          We&apos;ve sent you a sign-in link - check your inbox.
         </p>
 
         <div className="mt-8 p-4 bg-apple-gray-100 rounded-xl">
@@ -232,7 +232,7 @@ export function SignUpForm() {
     );
   }
 
-  // Step 2 — Email auth with selected role
+  // Step 2 - Email auth with selected role
   const roleLabel = roles.find((r) => r.key === selectedRole)?.label;
 
   return (
@@ -310,7 +310,7 @@ export function SignUpForm() {
       </form>
 
       <p className="text-center text-xs text-apple-gray-500 mt-4">
-        We&apos;ll send you a secure link to sign in — no password needed.
+        We&apos;ll send you a secure link to sign in - no password needed.
       </p>
 
       <p className="text-center text-sm text-apple-gray-500 mt-8">

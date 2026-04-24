@@ -89,18 +89,18 @@ export const SECTORS = [
 
 export const EBITDA_RANGES = [
   { label: "< €250K", min: 0, max: 250 },
-  { label: "€250K – €500K", min: 250, max: 500 },
-  { label: "€500K – €1M", min: 500, max: 1000 },
-  { label: "€1M – €2M", min: 1000, max: 2000 },
-  { label: "€2M – €5M", min: 2000, max: 5000 },
+  { label: "€250K - €500K", min: 250, max: 500 },
+  { label: "€500K - €1M", min: 500, max: 1000 },
+  { label: "€1M - €2M", min: 1000, max: 2000 },
+  { label: "€2M - €5M", min: 2000, max: 5000 },
   { label: "> €5M", min: 5000, max: 999999 },
 ];
 
 export const REVENUE_RANGES = [
   { label: "< €500K", min: 0, max: 500 },
-  { label: "€500K – €1M", min: 500, max: 1000 },
-  { label: "€1M – €3M", min: 1000, max: 3000 },
-  { label: "€3M – €5M", min: 3000, max: 5000 },
-  { label: "€5M – €10M", min: 5000, max: 10000 },
+  { label: "€500K - €1M", min: 500, max: 1000 },
+  { label: "€1M - €3M", min: 1000, max: 3000 },
+  { label: "€3M - €5M", min: 3000, max: 5000 },
+  { label: "€5M - €10M", min: 5000, max: 10000 },
   { label: "> €10M", min: 10000, max: 999999 },
 ];

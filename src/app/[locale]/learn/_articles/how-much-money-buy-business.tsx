@@ -35,15 +35,15 @@ export default function HowMuchMoneyBuyBusinessArticle() {
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a) loans
             </Link>{" "}
-            — typically 50&ndash;70% of the purchase price
+            - typically 50&ndash;70% of the purchase price
           </li>
           <li><strong>Seller financing:</strong>{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               Seller notes
             </Link>{" "}
-            — typically 5&ndash;20% of the purchase price
+            - typically 5&ndash;20% of the purchase price
           </li>
-          <li><strong>Equity:</strong> Your personal cash, investor equity, or both — typically 10&ndash;30% of the purchase price</li>
+          <li><strong>Equity:</strong> Your personal cash, investor equity, or both - typically 10&ndash;30% of the purchase price</li>
         </ul>
         <p>
           The key question: how much of the equity needs to come from

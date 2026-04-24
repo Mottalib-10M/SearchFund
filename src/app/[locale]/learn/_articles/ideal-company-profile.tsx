@@ -83,7 +83,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Investor Alignment</h3>
 
       <p className={bodyClass}>
-        Your search fund investors have committed capital based on certain expectations about deal size, industry risk, and return potential. Articulating your ICP early—ideally during fundraising or immediately after—ensures alignment and prevents awkward conversations later when you find a company that excites you but doesn't fit investor parameters.
+        Your search fund investors have committed capital based on certain expectations about deal size, industry risk, and return potential. Articulating your ICP early - ideally during fundraising or immediately after - ensures alignment and prevents awkward conversations later when you find a company that excites you but doesn't fit investor parameters.
       </p>
 
       <p className={bodyClass}>
@@ -127,7 +127,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Be honest about lifestyle constraints. If you have school-age children and a spouse with a career, don't pretend you'll move to rural Montana for the right deal. That said, avoid being too restrictive too early—limiting yourself to a single city can reduce your deal flow by 90%+.
+        Be honest about lifestyle constraints. If you have school-age children and a spouse with a career, don't pretend you'll move to rural Montana for the right deal. That said, avoid being too restrictive too early - limiting yourself to a single city can reduce your deal flow by 90%+.
       </p>
 
       <p className={bodyClass}>
@@ -193,7 +193,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Most searchers target businesses with at least one layer of management beneath the owner—a general manager, operations manager, or sales leader who can provide continuity during transition. Highly owner-dependent businesses can be transformed, but require longer transition periods and more risk.
+        Most searchers target businesses with at least one layer of management beneath the owner - a general manager, operations manager, or sales leader who can provide continuity during transition. Highly owner-dependent businesses can be transformed, but require longer transition periods and more risk.
       </p>
 
       <h3 className={h3Class}>8. Capital Intensity</h3>
@@ -203,7 +203,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        High capital intensity reduces free cash flow available for debt service and growth initiatives. It also creates valuation risk—a business heavily dependent on specialized equipment or facilities may be difficult to exit if market conditions deteriorate.
+        High capital intensity reduces free cash flow available for debt service and growth initiatives. It also creates valuation risk - a business heavily dependent on specialized equipment or facilities may be difficult to exit if market conditions deteriorate.
       </p>
 
       <p className={bodyClass}>
@@ -241,7 +241,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Define your preferred transition period (3-6 months is common) and whether you'll consider businesses requiring immediate takeover with no seller support. Most searchers avoid fire-sale situations or businesses where the seller has been "trying to sell" for years—these often indicate underlying problems.
+        Define your preferred transition period (3-6 months is common) and whether you'll consider businesses requiring immediate takeover with no seller support. Most searchers avoid fire-sale situations or businesses where the seller has been "trying to sell" for years - these often indicate underlying problems.
       </p>
 
       <h3 className={h3Class}>12. Strategic Fit and Defensibility</h3>
@@ -345,7 +345,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Make it visually clean and professional—this document represents you to dozens of intermediaries. Many searchers include a professional headshot and search fund logo to reinforce credibility.
+        Make it visually clean and professional - this document represents you to dozens of intermediaries. Many searchers include a professional headshot and search fund logo to reinforce credibility.
       </p>
 
       <h3 className={h3Class}>Lead with Specificity in Outreach</h3>
@@ -361,7 +361,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Provide Examples of Good Fits</h3>
 
       <p className={bodyClass}>
-        When speaking with brokers, reference actual businesses (either current listings or past transactions) that exemplify your ICP: "The XYZ Medical Supply business you sold last year in Charlotte is exactly the type of company I'm targeting—$20M revenue, 18% EBITDA margin, established customer base of hospitals and clinics."
+        When speaking with brokers, reference actual businesses (either current listings or past transactions) that exemplify your ICP: "The XYZ Medical Supply business you sold last year in Charlotte is exactly the type of company I'm targeting - $20M revenue, 18% EBITDA margin, established customer base of hospitals and clinics."
       </p>
 
       <p className={bodyClass}>
@@ -371,7 +371,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Update Contacts as Your ICP Evolves</h3>
 
       <p className={bodyClass}>
-        As you gain market knowledge and refine your ICP, send brief updates to your broker network: "Quick update on my search criteria—I'm now also targeting commercial HVAC service businesses in addition to my core healthcare focus, given the strong deal flow and attractive unit economics I'm seeing in that vertical."
+        As you gain market knowledge and refine your ICP, send brief updates to your broker network: "Quick update on my search criteria - I'm now also targeting commercial HVAC service businesses in addition to my core healthcare focus, given the strong deal flow and attractive unit economics I'm seeing in that vertical."
       </p>
 
       <p className={bodyClass}>
@@ -411,7 +411,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Incorporate these learnings into ICP refinements. One searcher started with a broad "B2B services" focus, but after evaluating 30+ businesses realized he was consistently most excited about field service businesses with mobile technicians—HVAC, pest control, home services. He narrowed his ICP accordingly and found a company within four months.
+        Incorporate these learnings into ICP refinements. One searcher started with a broad "B2B services" focus, but after evaluating 30+ businesses realized he was consistently most excited about field service businesses with mobile technicians - HVAC, pest control, home services. He narrowed his ICP accordingly and found a company within four months.
       </p>
 
       <p className={bodyClass}>
@@ -501,7 +501,7 @@ export default function IdealCompanyProfileArticle() {
       </ul>
 
       <p className={bodyClass}>
-        She expanded her ICP to include "technology-enabled service businesses"—companies that used software as a tool but derived revenue from services. Within three months, she found a $12M revenue IT managed services provider with 18% EBITDA margins, strong client retention, and a purchase price she could finance. Her SaaS background proved valuable in evaluating the company's technology stack and identifying opportunities to improve service delivery through better tooling.
+        She expanded her ICP to include "technology-enabled service businesses" - companies that used software as a tool but derived revenue from services. Within three months, she found a $12M revenue IT managed services provider with 18% EBITDA margins, strong client retention, and a purchase price she could finance. Her SaaS background proved valuable in evaluating the company's technology stack and identifying opportunities to improve service delivery through better tooling.
       </p>
 
       <h3 className={h3Class}>Case Study 2: Geographic Expansion Unlocks Deal Flow</h3>
@@ -515,7 +515,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Michael expanded his geography to include Houston, Austin, Nashville, Charlotte, and Atlanta. Deal flow increased 5x. Within six months, he acquired a specialty packaging manufacturer in Nashville. His wife secured a position at Vanderbilt, and the family relocated—something they'd initially thought impossible.
+        Michael expanded his geography to include Houston, Austin, Nashville, Charlotte, and Atlanta. Deal flow increased 5x. Within six months, he acquired a specialty packaging manufacturer in Nashville. His wife secured a position at Vanderbilt, and the family relocated - something they'd initially thought impossible.
       </p>
 
       <h3 className={h3Class}>Case Study 3: Adding Industry Verticals Based on Broker Feedback</h3>
@@ -525,7 +525,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        After meeting with 20+ brokers, she heard consistent feedback: "Healthcare services is the most competitive segment we see—every searcher and small PE fund is chasing these deals, so they trade at premium valuations. Have you considered residential services? Similar B2C model, fragmented markets, attractive unit economics, but less competition."
+        After meeting with 20+ brokers, she heard consistent feedback: "Healthcare services is the most competitive segment we see - every searcher and small PE fund is chasing these deals, so they trade at premium valuations. Have you considered residential services? Similar B2C model, fragmented markets, attractive unit economics, but less competition."
       </p>
 
       <p className={bodyClass}>
@@ -533,7 +533,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Four months later, she acquired an HVAC service business doing $15M in revenue with 16% EBITDA margins—a business she would have ignored under her original healthcare-only ICP. The operational playbook she'd developed for managing healthcare services translated directly to managing HVAC technicians and service contracts.
+        Four months later, she acquired an HVAC service business doing $15M in revenue with 16% EBITDA margins - a business she would have ignored under her original healthcare-only ICP. The operational playbook she'd developed for managing healthcare services translated directly to managing HVAC technicians and service contracts.
       </p>
 
       <h2 className={h2Class}>Conclusion</h2>
@@ -581,7 +581,7 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Stanford Graduate School of Business – Search Fund Primer (2023)
+            Stanford Graduate School of Business - Search Fund Primer (2023)
           </a>
         </li>
         <li>
@@ -591,7 +591,7 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Pacific Lake Partners – Search Fund Best Practices
+            Pacific Lake Partners - Search Fund Best Practices
           </a>
         </li>
         <li>
@@ -601,7 +601,7 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            SearchFunder Community – ICP Development Discussion Threads
+            SearchFunder Community - ICP Development Discussion Threads
           </a>
         </li>
         <li>
@@ -617,11 +617,11 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Axial Forum – M&A Deal Sourcing and Buyer Positioning
+            Axial Forum - M&A Deal Sourcing and Buyer Positioning
           </a>
         </li>
         <li>
-          International Business Brokers Association (IBBA) – <em>Market Pulse Report</em> (Q4 2024)
+          International Business Brokers Association (IBBA) - <em>Market Pulse Report</em> (Q4 2024)
         </li>
         <li>
           Author interviews with 15+ search fund entrepreneurs (2023-2024)

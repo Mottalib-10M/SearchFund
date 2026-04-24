@@ -51,7 +51,7 @@ export default function RepsAndWarrantiesArticle() {
         <h3 className={h3Class}>Financial Accuracy</h3>
 
         <p className={bodyClass}>
-          The seller represents that financial statements fairly present the company's financial condition in accordance with GAAP (or another specified accounting standard), that there are no undisclosed liabilities, and that accounts receivable are collectible. This is foundational—if the financials are wrong, your entire valuation is suspect.
+          The seller represents that financial statements fairly present the company's financial condition in accordance with GAAP (or another specified accounting standard), that there are no undisclosed liabilities, and that accounts receivable are collectible. This is foundational - if the financials are wrong, your entire valuation is suspect.
         </p>
 
         <p className={bodyClass}>
@@ -73,7 +73,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          For asset deals, tax reps are less critical since you're not assuming the entity's tax history. For stock deals, they're essential—you're inheriting all tax liabilities.
+          For asset deals, tax reps are less critical since you're not assuming the entity's tax history. For stock deals, they're essential - you're inheriting all tax liabilities.
         </p>
 
         <h3 className={h3Class}>Legal Compliance</h3>
@@ -83,7 +83,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Be specific about critical licenses—general contractor licenses, medical facility certifications, liquor licenses, environmental permits. The absence of a key license could shut down operations.
+          Be specific about critical licenses - general contractor licenses, medical facility certifications, liquor licenses, environmental permits. The absence of a key license could shut down operations.
         </p>
 
         <h3 className={h3Class}>Contracts and Commitments</h3>
@@ -100,7 +100,7 @@ export default function RepsAndWarrantiesArticle() {
         </ul>
 
         <p className={bodyClass}>
-          Define "material" carefully—often any contract representing more than a specified dollar amount (e.g., $25,000 annually) or meeting certain criteria (exclusivity, multi-year term, not terminable on short notice).
+          Define "material" carefully - often any contract representing more than a specified dollar amount (e.g., $25,000 annually) or meeting certain criteria (exclusivity, multi-year term, not terminable on short notice).
         </p>
 
         <h3 className={h3Class}>Employees and Benefits</h3>
@@ -119,7 +119,7 @@ export default function RepsAndWarrantiesArticle() {
         </ul>
 
         <p className={bodyClass}>
-          Employee liabilities can be significant—misclassified contractors, unpaid overtime, discriminatory practices. These typically survive closing even in asset deals since successor liability often applies.
+          Employee liabilities can be significant - misclassified contractors, unpaid overtime, discriminatory practices. These typically survive closing even in asset deals since successor liability often applies.
         </p>
 
         <h3 className={h3Class}>Intellectual Property</h3>
@@ -179,7 +179,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>General representations</strong> cover everything else—operations, contracts, compliance, employees, etc. These typically survive for 12-24 months and are subject to indemnification caps and baskets (discussed below).
+          <strong>General representations</strong> cover everything else - operations, contracts, compliance, employees, etc. These typically survive for 12-24 months and are subject to indemnification caps and baskets (discussed below).
         </p>
 
         <p className={bodyClass}>
@@ -189,7 +189,7 @@ export default function RepsAndWarrantiesArticle() {
         <h2 className={h2Class}>Survival Periods and Baskets</h2>
 
         <p className={bodyClass}>
-          Reps and warranties don't last forever. The purchase agreement specifies how long each category survives after closing—the period during which you can bring indemnification claims.
+          Reps and warranties don't last forever. The purchase agreement specifies how long each category survives after closing - the period during which you can bring indemnification claims.
         </p>
 
         <p className={bodyClass}>
@@ -252,7 +252,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          As a buyer, resist minimum claim amounts if possible—they can eliminate many legitimate small claims that collectively matter.
+          As a buyer, resist minimum claim amounts if possible - they can eliminate many legitimate small claims that collectively matter.
         </p>
 
         <h2 className={h2Class}>R&amp;W Insurance: When It Makes Sense</h2>
@@ -279,7 +279,7 @@ export default function RepsAndWarrantiesArticle() {
 
         <ul className={ulClass}>
           <li><strong>Seller has limited post-close assets:</strong> If seller is retiring and will spend/invest proceeds, collection risk is high. Insurance provides a creditworthy counterparty.</li>
-          <li><strong>Competitive auction:</strong> Offering RWI can be a competitive advantage—seller gets cleaner exit with minimal escrow and indemnification obligations.</li>
+          <li><strong>Competitive auction:</strong> Offering RWI can be a competitive advantage - seller gets cleaner exit with minimal escrow and indemnification obligations.</li>
           <li><strong>Complex business or limited due diligence:</strong> If diligence was constrained by time/resources or business has unusual risks, insurance provides additional protection.</li>
           <li><strong>Estate sale or multiple sellers:</strong> When there are many seller parties or seller is a trust/estate, coordinating indemnification claims is difficult.</li>
         </ul>
@@ -296,7 +296,7 @@ export default function RepsAndWarrantiesArticle() {
         </ul>
 
         <p className={bodyClass}>
-          RWI doesn't eliminate the need for seller indemnification—sellers typically remain liable for fraud and fundamental reps, and you still need seller reps to make claims under the policy.
+          RWI doesn't eliminate the need for seller indemnification - sellers typically remain liable for fraud and fundamental reps, and you still need seller reps to make claims under the policy.
         </p>
 
         <h2 className={h2Class}>Negotiating Reps and Warranties</h2>
@@ -359,7 +359,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>"These reps are too broad and not specific to my business."</strong> Sellers argue that standard reps don't fit their situation. Response: Offer to add appropriate qualifiers and disclosures, but maintain comprehensive coverage. The reps should be broad—that's the point.
+          <strong>"These reps are too broad and not specific to my business."</strong> Sellers argue that standard reps don't fit their situation. Response: Offer to add appropriate qualifiers and disclosures, but maintain comprehensive coverage. The reps should be broad - that's the point.
         </p>
 
         <p className={bodyClass}>
@@ -371,11 +371,11 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>"The basket is too low."</strong> Sellers argue they shouldn't be liable for small claims. Response: Basket protects against small claims. At 0.5-1.5% of purchase price, it's already providing meaningful protection. Consider tipping basket as compromise—seller gets more downside protection, you preserve coverage for larger losses.
+          <strong>"The basket is too low."</strong> Sellers argue they shouldn't be liable for small claims. Response: Basket protects against small claims. At 0.5-1.5% of purchase price, it's already providing meaningful protection. Consider tipping basket as compromise - seller gets more downside protection, you preserve coverage for larger losses.
         </p>
 
         <p className={bodyClass}>
-          <strong>"The cap is too high."</strong> Sellers want to limit maximum exposure. Response: Cap of 10-25% is standard and reasonable. Seller represented the business's condition as basis for purchase price—if representations are materially wrong, significant liability is appropriate. Consider higher cap with RWI as alternative.
+          <strong>"The cap is too high."</strong> Sellers want to limit maximum exposure. Response: Cap of 10-25% is standard and reasonable. Seller represented the business's condition as basis for purchase price - if representations are materially wrong, significant liability is appropriate. Consider higher cap with RWI as alternative.
         </p>
 
         <p className={bodyClass}>
@@ -406,7 +406,7 @@ export default function RepsAndWarrantiesArticle() {
         </ul>
 
         <p className={bodyClass}>
-          Disclosure schedules force seller organization and candor. A seller who can't or won't complete detailed disclosure schedules is a red flag—either they don't know their business well or they're not being forthcoming.
+          Disclosure schedules force seller organization and candor. A seller who can't or won't complete detailed disclosure schedules is a red flag - either they don't know their business well or they're not being forthcoming.
         </p>
 
         <h2 className={h2Class}>Best Practices for Search Fund Acquirers</h2>
@@ -417,7 +417,7 @@ export default function RepsAndWarrantiesArticle() {
 
         <ol className={olClass}>
           <li>
-            <strong>Work with experienced M&amp;A counsel.</strong> This is not the place to cut costs with a general business attorney. Reps and warranties are highly negotiated and technical—you need counsel who does M&amp;A deals regularly and knows market terms.
+            <strong>Work with experienced M&amp;A counsel.</strong> This is not the place to cut costs with a general business attorney. Reps and warranties are highly negotiated and technical - you need counsel who does M&amp;A deals regularly and knows market terms.
           </li>
           <li>
             <strong>Use diligence to inform reps.</strong> Diligence and reps should work together. Findings from diligence should translate into specific reps or disclosures. Areas where diligence was limited should have broader reps to shift risk to seller.
@@ -426,16 +426,16 @@ export default function RepsAndWarrantiesArticle() {
             <strong>Negotiate escrow concurrently with reps.</strong> They're interconnected. Strong indemnification without escrow is worthless if seller has no assets. Weak indemnification might be acceptable with a large escrow and creditworthy seller.
           </li>
           <li>
-            <strong>Don't defer difficult issues to post-closing indemnification.</strong> If diligence reveals a problem, address it directly: adjust price, require pre-closing fix, get specific indemnification carve-out, or walk away. Don't assume you'll successfully claim indemnification later—collection is difficult and relationships matter for transition.
+            <strong>Don't defer difficult issues to post-closing indemnification.</strong> If diligence reveals a problem, address it directly: adjust price, require pre-closing fix, get specific indemnification carve-out, or walk away. Don't assume you'll successfully claim indemnification later - collection is difficult and relationships matter for transition.
           </li>
           <li>
             <strong>Consider the relationship dynamic.</strong> Unlike PE buyers, you'll typically work with the seller post-closing for transition. Being overly aggressive on reps can poison the relationship. Be firm on protections that matter, but pick your battles.
           </li>
           <li>
-            <strong>Document everything.</strong> Keep organized diligence files with all supporting documents for reps. If you need to bring an indemnification claim, you'll need to prove breach and damages—good documentation is essential.
+            <strong>Document everything.</strong> Keep organized diligence files with all supporting documents for reps. If you need to bring an indemnification claim, you'll need to prove breach and damages - good documentation is essential.
           </li>
           <li>
-            <strong>Understand what reps don't cover.</strong> Reps protect against misrepresentations, not business risk. Poor post-acquisition performance, lost customers, or market changes aren't indemnifiable unless caused by a breach. Don't view reps as a safety net for all downside—they're not.
+            <strong>Understand what reps don't cover.</strong> Reps protect against misrepresentations, not business risk. Poor post-acquisition performance, lost customers, or market changes aren't indemnifiable unless caused by a breach. Don't view reps as a safety net for all downside - they're not.
           </li>
           <li>
             <strong>Get investor input on material terms.</strong> Your investors care about indemnification structure. Share the proposed terms (survival, caps, baskets, escrow) and get their feedback, especially if they have prior M&amp;A experience.
@@ -443,7 +443,7 @@ export default function RepsAndWarrantiesArticle() {
         </ol>
 
         <p className={bodyClass}>
-          Representations and warranties are complex, heavily negotiated, and sometimes feel removed from the actual business you're buying. But they're critical protection when things go wrong. Invest time in understanding them, negotiate thoughtfully, and work with experienced counsel. Your future self—dealing with an undisclosed liability or broken rep—will be grateful you did.
+          Representations and warranties are complex, heavily negotiated, and sometimes feel removed from the actual business you're buying. But they're critical protection when things go wrong. Invest time in understanding them, negotiate thoughtfully, and work with experienced counsel. Your future self - dealing with an undisclosed liability or broken rep - will be grateful you did.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>
@@ -477,7 +477,7 @@ export default function RepsAndWarrantiesArticle() {
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                American Bar Association – Stock Purchase Agreement Negotiations
+                American Bar Association - Stock Purchase Agreement Negotiations
               </a>
             </li>
             <li>
@@ -507,7 +507,7 @@ export default function RepsAndWarrantiesArticle() {
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Harvard Law School Forum on Corporate Governance – Private M&amp;A Deal Terms
+                Harvard Law School Forum on Corporate Governance - Private M&amp;A Deal Terms
               </a>
             </li>
           </ul>

@@ -20,7 +20,7 @@ const VALID_LABELS = [
   "Pitch Deck",
 ];
 
-// POST /api/documents — upload a document
+// POST /api/documents - upload a document
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -117,7 +117,7 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// GET /api/documents — list current user's documents
+// GET /api/documents - list current user's documents
 export async function GET() {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -139,7 +139,7 @@ export async function GET() {
   return NextResponse.json({ documents });
 }
 
-// DELETE /api/documents — delete a document by id
+// DELETE /api/documents - delete a document by id
 export async function DELETE(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

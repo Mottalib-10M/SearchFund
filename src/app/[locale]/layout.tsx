@@ -20,7 +20,7 @@ export function generateStaticParams() {
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.searchfundmarket.com"),
   title: {
-    default: "SearchFundMarket — Search Fund Marketplace in Europe",
+    default: "SearchFundMarket - Search Fund Marketplace in Europe",
     template: "%s",
   },
   description:

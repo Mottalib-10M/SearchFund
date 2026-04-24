@@ -11,7 +11,7 @@ export const newsArticles: NewsArticle[] = [
 <p>Several factors have converged to accelerate ETA adoption in Europe:</p>
 <ul>
 <li><strong>Baby boomer succession crisis:</strong> An estimated 2.4 million European SMEs will need to find successors in the next decade, according to the European Commission. This creates a historically large pool of acquisition targets for searchers.</li>
-<li><strong>MBA program adoption:</strong> Leading European business schools — IESE, INSEAD, HEC Paris, London Business School, and WHU — have all expanded their ETA course offerings and alumni networks, producing a steady pipeline of trained searchers.</li>
+<li><strong>MBA program adoption:</strong> Leading European business schools - IESE, INSEAD, HEC Paris, London Business School, and WHU - have all expanded their ETA course offerings and alumni networks, producing a steady pipeline of trained searchers.</li>
 <li><strong>Institutional capital:</strong> Dedicated European search fund investors have emerged, including Scipio Holding (Belgium), Seqos Capital (UK/Germany), and WAD Capital, alongside established US investors expanding their European allocations.</li>
 <li><strong>Lower entry barriers:</strong> Self-funded and accelerator models have made ETA accessible to entrepreneurs who may not fit the traditional two-year MBA-to-search-fund path.</li>
 </ul>
@@ -33,9 +33,9 @@ export const newsArticles: NewsArticle[] = [
     category: "ecosystem",
     tags: ["Europe", "search fund growth", "ETA ecosystem", "IESE", "succession"],
     sources: [
-      { name: "IESE Business School — International Search Fund Study 2024" },
-      { name: "European Commission — SME Succession Report" },
-      { name: "Stanford GSB — 2024 Search Fund Study" },
+      { name: "IESE Business School - International Search Fund Study 2024" },
+      { name: "European Commission - SME Succession Report" },
+      { name: "Stanford GSB - 2024 Search Fund Study" },
     ],
     relatedArticles: ["eta-europe", "search-fund-statistics", "baby-boomer-succession-crisis"],
   },
@@ -60,7 +60,7 @@ export const newsArticles: NewsArticle[] = [
 <p><strong>Internationalization:</strong> While the US remains the primary market, the study tracks growing international activity, particularly in Europe and Latin America.</p>
 
 <h2>What the Data Doesn't Show</h2>
-<p>It's important to note the study's limitations. The data set is subject to survivorship bias — funds that failed early may be underrepresented. The study also measures returns at a point in time, and many recent-vintage funds have not yet reached exit. Individual investor returns vary significantly based on which funds they invested in, and the dispersion of outcomes is wide.</p>
+<p>It's important to note the study's limitations. The data set is subject to survivorship bias - funds that failed early may be underrepresented. The study also measures returns at a point in time, and many recent-vintage funds have not yet reached exit. Individual investor returns vary significantly based on which funds they invested in, and the dispersion of outcomes is wide.</p>
 
 <h2>Implications for the Market</h2>
 <p>The continued publication of rigorous academic research strengthens the ETA asset class's credibility. For aspiring searchers, the data provides benchmarks for search duration, acquisition criteria, and expected outcomes. For investors, it informs portfolio construction and return expectations.</p>`,
@@ -70,7 +70,7 @@ export const newsArticles: NewsArticle[] = [
     category: "research",
     tags: ["Stanford", "search fund study", "returns", "statistics", "research"],
     sources: [
-      { name: "Stanford GSB — 2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" },
+      { name: "Stanford GSB - 2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" },
     ],
     relatedArticles: ["stanford-2024-study", "search-fund-statistics", "search-fund-returns"],
   },
@@ -81,7 +81,7 @@ export const newsArticles: NewsArticle[] = [
     content: `<p>The Federal Trade Commission's final rule banning non-compete agreements has significant implications for the labor market, but its impact on business acquisitions is more nuanced than headlines suggest. The rule includes a critical carve-out that search fund entrepreneurs and business buyers need to understand.</p>
 
 <h2>The Business Sale Exception</h2>
-<p>The FTC rule specifically exempts non-compete agreements entered into in connection with the bona fide sale of a business. This means that when you acquire a company, the seller can still be bound by a non-compete agreement as part of the transaction. The exemption recognizes that these covenants protect the buyer's investment in goodwill — without them, a seller could sell a business and immediately set up a competing operation, destroying the value the buyer just paid for.</p>
+<p>The FTC rule specifically exempts non-compete agreements entered into in connection with the bona fide sale of a business. This means that when you acquire a company, the seller can still be bound by a non-compete agreement as part of the transaction. The exemption recognizes that these covenants protect the buyer's investment in goodwill - without them, a seller could sell a business and immediately set up a competing operation, destroying the value the buyer just paid for.</p>
 
 <h2>What Changed and What Didn't</h2>
 <p><strong>No change for M&A:</strong> Non-compete clauses in acquisition agreements remain enforceable. If you're buying a business and the seller agrees not to compete for 3-5 years within a defined geographic area and scope, that agreement stands.</p>
@@ -94,19 +94,19 @@ export const newsArticles: NewsArticle[] = [
 <li>Which employees were subject to non-compete agreements and how critical they are to the business</li>
 <li>Whether the business's competitive position depends on employee non-competes rather than genuine competitive advantages (moats)</li>
 <li>The company's overall talent retention strategy beyond restrictive covenants</li>
-<li>State-level variations — some states had already banned or limited non-competes (California, Oklahoma, North Dakota)</li>
+<li>State-level variations - some states had already banned or limited non-competes (California, Oklahoma, North Dakota)</li>
 </ul>
 
 <h2>Practical Advice for Searchers</h2>
-<p>For search fund entrepreneurs acquiring businesses: continue to include seller non-compete provisions in your purchase agreements — they remain valid and important. But reassess your approach to employee retention. In a world where employees can't be bound by non-competes, businesses that retain talent through positive culture, competitive compensation, and career development will be more valuable acquisitions than those that relied on restrictive covenants.</p>`,
+<p>For search fund entrepreneurs acquiring businesses: continue to include seller non-compete provisions in your purchase agreements - they remain valid and important. But reassess your approach to employee retention. In a world where employees can't be bound by non-competes, businesses that retain talent through positive culture, competitive compensation, and career development will be more valuable acquisitions than those that relied on restrictive covenants.</p>`,
     author: "SearchFundMarket Editorial",
     datePublished: "2025-04-10",
     dateModified: "2025-04-10",
     category: "regulation",
     tags: ["FTC", "non-compete", "regulation", "employment law", "due diligence"],
     sources: [
-      { name: "Federal Trade Commission — Non-Compete Clause Rule (2024)", url: "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule" },
-      { name: "American Bar Association — M&A Non-Compete Analysis" },
+      { name: "Federal Trade Commission - Non-Compete Clause Rule (2024)", url: "https://www.ftc.gov/legal-library/browse/rules/noncompete-rule" },
+      { name: "American Bar Association - M&A Non-Compete Analysis" },
     ],
     relatedArticles: ["restrictive-covenants", "due-diligence-checklist", "management-transition-plan"],
   },
@@ -140,8 +140,8 @@ export const newsArticles: NewsArticle[] = [
     category: "event",
     tags: ["IESE", "conference", "Barcelona", "networking", "Europe"],
     sources: [
-      { name: "IESE Business School — Search Fund Center" },
-      { name: "SearchFunder.com — IESE Conference Coverage" },
+      { name: "IESE Business School - Search Fund Center" },
+      { name: "SearchFunder.com - IESE Conference Coverage" },
     ],
     relatedArticles: ["eta-europe", "search-fund-conferences-events", "eta-spain"],
   },
@@ -152,7 +152,7 @@ export const newsArticles: NewsArticle[] = [
     content: `<p>The search fund accelerator model, pioneered by the Search Fund Accelerator (SFA) over a decade ago, has evolved into a diverse landscape of platforms offering capital, training, and support to aspiring business acquirers. In 2025, the number of organizations providing structured pathways into entrepreneurship through acquisition has grown considerably.</p>
 
 <h2>What Is a Search Fund Accelerator?</h2>
-<p>A search fund accelerator provides aspiring entrepreneurs with a structured program to find, evaluate, and acquire a small business. Unlike the traditional search fund model — where an individual raises capital from investors, searches for a company, then raises acquisition capital — accelerators typically provide:</p>
+<p>A search fund accelerator provides aspiring entrepreneurs with a structured program to find, evaluate, and acquire a small business. Unlike the traditional search fund model - where an individual raises capital from investors, searches for a company, then raises acquisition capital - accelerators typically provide:</p>
 <ul>
 <li>Training and education on the acquisition process</li>
 <li>Deal sourcing support and proprietary deal flow</li>
@@ -179,9 +179,9 @@ export const newsArticles: NewsArticle[] = [
     category: "ecosystem",
     tags: ["accelerator", "SFA", "Acquisition Lab", "Acquira", "platforms"],
     sources: [
-      { name: "Search Fund Accelerator — Public website" },
-      { name: "Acquisition Lab — Public website" },
-      { name: "Stanford GSB — 2024 Search Fund Study" },
+      { name: "Search Fund Accelerator - Public website" },
+      { name: "Acquisition Lab - Public website" },
+      { name: "Stanford GSB - 2024 Search Fund Study" },
     ],
     relatedArticles: ["search-fund-accelerators", "self-funded-vs-traditional", "search-fund-raising-capital"],
   },

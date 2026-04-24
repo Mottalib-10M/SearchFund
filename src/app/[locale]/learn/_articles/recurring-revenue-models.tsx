@@ -110,7 +110,7 @@ export default function RecurringRevenueModelsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Contract review:</strong> Read every material customer contract. Check auto-renewal terms, termination provisions, and pricing escalation clauses</li>
-          <li><strong>Cohort analysis:</strong> Analyze customer retention by year of acquisition — are older cohorts retaining at the same rate as newer ones?</li>
+          <li><strong>Cohort analysis:</strong> Analyze customer retention by year of acquisition - are older cohorts retaining at the same rate as newer ones?</li>
           <li><strong>Revenue decomposition:</strong> Break total revenue into recurring vs. non-recurring components. Calculate the true recurring percentage</li>
           <li><strong>Concentration within recurring base:</strong> Even recurring revenue businesses can have{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
@@ -136,7 +136,7 @@ export default function RecurringRevenueModelsArticle() {
         <p>
           Increasing recurring revenue from 20% to 60% of total can
           increase the business&rsquo;s exit multiple by 1&ndash;2x
-          EBITDA — one of the most powerful value creation levers
+          EBITDA - one of the most powerful value creation levers
           available to search fund CEOs. For growth strategies, see our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">
             revenue growth playbook

@@ -12,7 +12,7 @@ export default function WomenInETAArticle() {
           The <Link href="/learn/getting-started" className="text-apple-accent hover:underline">search fund model</Link> has produced exceptional returns and created
           hundreds of CEOs over its four-decade history. But the demographics of
           those CEOs have been strikingly homogeneous. Women represent
-          approximately 15% of active searchers today — a number that is growing,
+          approximately 15% of active searchers today - a number that is growing,
           but far too slowly. This article examines the current landscape, the
           barriers that persist, the organizations working to change it, and
           practical steps that aspiring diverse searchers and their investors can
@@ -24,7 +24,7 @@ export default function WomenInETAArticle() {
           According to Stanford GSB Search Fund Study data, women have accounted
           for roughly 10-15% of search fund formations over the past decade.
           Recent cohorts show female participation closer to 18-20%, but absolute
-          numbers remain small — perhaps 15-25 women actively searching in the
+          numbers remain small - perhaps 15-25 women actively searching in the
           US in any given year, compared to 100-150 men.
         </p>
         <p>
@@ -35,7 +35,7 @@ export default function WomenInETAArticle() {
           institutions.
         </p>
         <p>
-          The diversity gap is not merely an equity issue — it is an economic one.
+          The diversity gap is not merely an equity issue - it is an economic one.
           A more diverse pool of searchers means more talent competing for deals,
           better coverage of underserved geographies and industries, and a
           stronger asset class overall. For context on overall search fund performance, see the{" "}
@@ -64,8 +64,8 @@ export default function WomenInETAArticle() {
           Wharton. Europe, particularly through IESE and INSEAD, has seen
           meaningful growth in female searcher representation, with
           international diversity providing a broader pipeline. Latin America
-          and Africa — regions where the search fund model is expanding
-          rapidly — present both opportunity and challenge, as
+          and Africa - regions where the search fund model is expanding
+          rapidly - present both opportunity and challenge, as
           entrepreneurial-by-acquisition pathways are less established and
           the supporting networks are still forming.
         </p>
@@ -84,7 +84,7 @@ export default function WomenInETAArticle() {
           receive more &quot;promotion-oriented&quot; questions (&quot;How
           will you capture upside?&quot;). Women entering ETA fundraising
           should be prepared for this dynamic and practice reframing
-          prevention questions into promotion answers — turning a question
+          prevention questions into promotion answers - turning a question
           about downside protection into a discussion of the opportunity&apos;s
           upside potential.
         </p>
@@ -92,7 +92,7 @@ export default function WomenInETAArticle() {
         <h3 className={h3Class}>Network access and informal gatekeeping</h3>
         <p>
           The ETA ecosystem has historically been built through informal
-          channels — dinners, golf outings, alumni reunions, and conference
+          channels - dinners, golf outings, alumni reunions, and conference
           hallway conversations. Women may find themselves excluded from these
           informal settings, not through intentional gatekeeping but through
           the social dynamics of predominantly male networks. Building a
@@ -105,8 +105,8 @@ export default function WomenInETAArticle() {
 
         <h3 className={h3Class}>Negotiating with traditional business owners</h3>
         <p>
-          Many search fund target businesses are in traditional industries —
-          manufacturing, construction services, distribution — where the
+          Many search fund target businesses are in traditional industries - 
+          manufacturing, construction services, distribution - where the
           ownership demographic skews heavily male and older. Women
           searchers have reported encounters where sellers questioned
           their ability to manage blue-collar workforces or expressed
@@ -115,14 +115,14 @@ export default function WomenInETAArticle() {
           require preparation. Successful female searchers address this by
           leading with deep industry knowledge, bringing operational
           credibility into early conversations, and focusing the seller on
-          their commitment to employees and business legacy — values that
+          their commitment to employees and business legacy - values that
           transcend gender.
         </p>
 
         <h3 className={h3Class}>Work-life balance during search and acquisition</h3>
         <p>
-          The search phase demands intense, sustained effort — often 50-60
-          hours per week of sourcing, networking, diligence, and travel —
+          The search phase demands intense, sustained effort - often 50-60
+          hours per week of sourcing, networking, diligence, and travel - 
           for 18-30 months. The first year of post-acquisition operations
           is equally demanding. For women with family responsibilities or
           who are planning families, this timeline intersects with critical
@@ -131,7 +131,7 @@ export default function WomenInETAArticle() {
           importance of honest conversations with partners about workload
           expectations, building support systems (childcare, household
           management) before launching the search, and recognizing that
-          the intensive period is finite — the lifestyle of an established
+          the intensive period is finite - the lifestyle of an established
           CEO is more manageable than the lifestyle of an active searcher.
         </p>
 
@@ -151,7 +151,7 @@ export default function WomenInETAArticle() {
           operational excellence that female CEOs bring to their
           acquisitions. Multiple studies have found that women leaders
           tend to invest more heavily in employee development, customer
-          relationships, and process improvement — all of which are
+          relationships, and process improvement - all of which are
           critical value creation levers in search fund-backed companies
           where organic growth and margin expansion drive returns.
           Organizations like the Women&apos;s Search Network have begun
@@ -202,7 +202,7 @@ export default function WomenInETAArticle() {
         <h2 className={h2Class}>The investor perspective on diversity</h2>
         <p>
           A growing number of search fund investors are actively seeking
-          diverse candidates — not as a concession to social pressure but
+          diverse candidates - not as a concession to social pressure but
           as a rational investment strategy. The logic is straightforward:
           if the traditional searcher pool is overwhelmingly male and from
           a narrow set of MBA programs, expanding the talent pool to
@@ -215,8 +215,8 @@ export default function WomenInETAArticle() {
           sacrificing returns.
         </p>
         <p>
-          Institutional investors — family offices, endowments, and
-          fund-of-funds — are increasingly incorporating diversity metrics
+          Institutional investors - family offices, endowments, and
+          fund-of-funds - are increasingly incorporating diversity metrics
           into their allocation decisions. For search fund investors raising
           their own capital from these institutions, demonstrating a track
           record of backing diverse searchers is becoming a competitive
@@ -235,7 +235,7 @@ export default function WomenInETAArticle() {
           accessed through MBA alumni networks and warm introductions. If your
           network doesn&apos;t include people who write $50K-$100K checks for
           search funds, fundraising is exponentially harder. Data from venture
-          capital — a related asset class — shows women-led companies receive
+          capital - a related asset class - shows women-led companies receive
           approximately 2% of total VC funding, reflecting a broader pattern of
           capital flowing to founders who look like existing investors.
         </p>
@@ -256,7 +256,7 @@ export default function WomenInETAArticle() {
           When an investor has backed 10 successful searchers sharing similar
           profiles (male, top MBA, consulting or banking background), they
           unconsciously perceive candidates fitting that pattern as lower risk.
-          Candidates who deviate — women, minorities, non-MBA holders — face a
+          Candidates who deviate - women, minorities, non-MBA holders - face a
           higher burden of proof, even when qualifications are equivalent or
           superior.
         </p>
@@ -264,11 +264,11 @@ export default function WomenInETAArticle() {
         <h3 className={h3Class}>Seller dynamics</h3>
         <p>
           Business sellers in traditional industries are overwhelmingly male and
-          often over 55. Some — consciously or not — are more comfortable
+          often over 55. Some - consciously or not - are more comfortable
           handing their life&apos;s work to someone who resembles them. Women
           and minority searchers have reported sellers questioning their ability
           to manage blue-collar workforces or earn employee respect. These biases
-          are real but not universal — many sellers prioritize competence,
+          are real but not universal - many sellers prioritize competence,
           integrity, and commitment above all else.
         </p>
 
@@ -284,7 +284,7 @@ export default function WomenInETAArticle() {
         <h3 className={h3Class}>BDC Thrive Fund</h3>
         <p>
           A dedicated investment vehicle focused on backing diverse search fund
-          entrepreneurs — women, Black, Hispanic, and other underrepresented
+          entrepreneurs - women, Black, Hispanic, and other underrepresented
           searchers. By providing committed capital specifically for diverse
           candidates, Thrive reduces the fundraising barrier and offers
           mentorship, operational support, and a peer network.
@@ -331,7 +331,7 @@ export default function WomenInETAArticle() {
           </li>
           <li>
             <strong>Completion rates:</strong> Women who launch searches complete
-            acquisitions at rates comparable to male searchers — the barriers are
+            acquisitions at rates comparable to male searchers - the barriers are
             in entering the pipeline, not executing once in it
           </li>
         </ul>
@@ -350,7 +350,7 @@ export default function WomenInETAArticle() {
           <li>Establish anti-harassment policies, especially in industries where
             they may not have existed</li>
           <li>Implement parental leave policies for all employees</li>
-          <li>Lead by example — your presence as a diverse CEO normalizes diverse
+          <li>Lead by example - your presence as a diverse CEO normalizes diverse
             leadership for the entire organization</li>
         </ul>
 
@@ -410,7 +410,7 @@ export default function WomenInETAArticle() {
           </li>
           <li>
             <strong>Build your investor pipeline deliberately:</strong> Research
-            <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">investors who have backed diverse searchers</Link> — they&apos;re comfortable
+            <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">investors who have backed diverse searchers</Link> - they&apos;re comfortable
             with non-traditional profiles and can introduce you to others
           </li>
           <li>
@@ -455,9 +455,9 @@ export default function WomenInETAArticle() {
 
         <h2 className={h2Class}>Looking forward</h2>
         <p>
-          The search fund model is at an inflection point. The infrastructure —
+          The search fund model is at an inflection point. The infrastructure - 
           dedicated funds, mentorship networks, affinity groups, and supportive
-          investors — now exists in ways it did not five years ago. The goal is
+          investors - now exists in ways it did not five years ago. The goal is
           to ensure that the best talent, regardless of gender, race, or
           background, has equal access to one of the most compelling paths to
           business ownership available today. Realizing that potential requires

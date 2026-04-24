@@ -15,7 +15,7 @@ export default function CompetitiveMoatEvaluationArticle() {
           replicate their success.
         </p>
         <p>
-          For acquirers — whether search fund entrepreneurs, private equity firms, or strategic buyers —
+          For acquirers - whether search fund entrepreneurs, private equity firms, or strategic buyers - 
           moat evaluation is arguably the single most important element of investment analysis. A
           business purchased at a reasonable multiple but with no durable competitive advantage will
           face relentless margin pressure, while a business with a genuine moat can compound value for
@@ -55,8 +55,8 @@ export default function CompetitiveMoatEvaluationArticle() {
         <p>
           Enterprise software companies are a classic example: once a business has spent months
           implementing an ERP or CRM system, trained its staff, and integrated the software into daily
-          operations, the cost of switching to a competitor — both in direct expense and operational
-          disruption — is enormous. But switching costs also appear in less obvious contexts, such as
+          operations, the cost of switching to a competitor - both in direct expense and operational
+          disruption - is enormous. But switching costs also appear in less obvious contexts, such as
           specialized manufacturing where customers have certified a supplier&apos;s processes, or
           professional services where institutional knowledge about a client&apos;s needs creates
           deep dependency.
@@ -81,9 +81,9 @@ export default function CompetitiveMoatEvaluationArticle() {
         </p>
         <p>
           Direct network effects occur when users benefit directly from other users on the same
-          platform — messaging apps, social networks, and communication tools all exhibit this pattern.
+          platform - messaging apps, social networks, and communication tools all exhibit this pattern.
           Indirect (or two-sided) network effects occur when growth on one side of a platform increases
-          value for users on the other side — marketplaces, payment networks, and operating systems
+          value for users on the other side - marketplaces, payment networks, and operating systems
           benefit from this dynamic.
         </p>
         <p>
@@ -100,8 +100,8 @@ export default function CompetitiveMoatEvaluationArticle() {
           A strong brand creates a moat when it commands a price premium or drives customer preference
           that competitors cannot easily replicate through advertising or promotion alone. Brand moats
           are built over years through consistent quality, customer experience, and market presence.
-          They are especially powerful in categories where trust matters — healthcare, financial
-          services, childcare, and professional services — or where the product is difficult for
+          They are especially powerful in categories where trust matters - healthcare, financial
+          services, childcare, and professional services - or where the product is difficult for
           customers to evaluate before purchase.
         </p>
         <p>
@@ -111,7 +111,7 @@ export default function CompetitiveMoatEvaluationArticle() {
           </Link>, look for evidence of organic customer acquisition (word-of-mouth referrals),
           pricing power relative to competitors, brand recognition in the target market, and customer
           survey data indicating loyalty and satisfaction. Be cautious about brands that depend heavily
-          on the founder&apos;s personal reputation — this &quot;brand&quot; may not transfer with
+          on the founder&apos;s personal reputation - this &quot;brand&quot; may not transfer with
           the business.
         </p>
       </div>
@@ -146,7 +146,7 @@ export default function CompetitiveMoatEvaluationArticle() {
         <p>
           Examples include waste management companies with exclusive municipal contracts, healthcare
           providers with certificates of need, cannabis operators with limited state licenses, and
-          defense contractors with security clearances. These moats can be extremely durable — but
+          defense contractors with security clearances. These moats can be extremely durable - but
           they carry the risk of regulatory change. A licensing regime that protects incumbents today
           could be reformed or deregulated tomorrow.
         </p>
@@ -162,7 +162,7 @@ export default function CompetitiveMoatEvaluationArticle() {
       <div className={bodyClass}>
         <p>
           Identifying a moat is only the first step. The critical question is whether the moat will
-          endure over the buyer&apos;s investment horizon — typically five to ten years or longer.
+          endure over the buyer&apos;s investment horizon - typically five to ten years or longer.
           Several factors affect durability:
         </p>
 
@@ -217,27 +217,27 @@ export default function CompetitiveMoatEvaluationArticle() {
 
         <ol className={olClass}>
           <li>
-            <strong>Switching costs (1–5):</strong> How difficult and costly is it for customers to
+            <strong>Switching costs (1-5):</strong> How difficult and costly is it for customers to
             leave? Score five for mission-critical embedded systems with multi-year contracts; score one
             for commodity services with no barriers to switching.
           </li>
           <li>
-            <strong>Network effects (1–5):</strong> Does the product or service become more valuable as
+            <strong>Network effects (1-5):</strong> Does the product or service become more valuable as
             usage grows? Score five for dominant two-sided platforms; score one for businesses with no
             network-driven value creation.
           </li>
           <li>
-            <strong>Brand/reputation (1–5):</strong> Does the brand command pricing power and customer
+            <strong>Brand/reputation (1-5):</strong> Does the brand command pricing power and customer
             loyalty? Score five for decades-old trusted brands with proven premium pricing; score one
             for unrecognized or commodity brands.
           </li>
           <li>
-            <strong>Cost advantage (1–5):</strong> Can the business deliver at structurally lower costs
+            <strong>Cost advantage (1-5):</strong> Can the business deliver at structurally lower costs
             than competitors? Score five for significant, multi-source structural cost advantages; score
             one for no meaningful cost edge.
           </li>
           <li>
-            <strong>Regulatory/legal barriers (1–5):</strong> Do government-created barriers limit
+            <strong>Regulatory/legal barriers (1-5):</strong> Do government-created barriers limit
             competition? Score five for exclusive licenses with no foreseeable deregulation risk; score
             one for industries with no meaningful regulatory barriers.
           </li>
@@ -334,7 +334,7 @@ export default function CompetitiveMoatEvaluationArticle() {
           </li>
           <li>
             <strong>Employee interviews:</strong> Long-tenured employees understand competitive dynamics
-            at a granular level — which competitors are gaining ground, where the company wins and loses
+            at a granular level - which competitors are gaining ground, where the company wins and loses
             bids, and what advantages drive success.
           </li>
           <li>
@@ -376,8 +376,8 @@ export default function CompetitiveMoatEvaluationArticle() {
           </li>
           <li>
             <strong>Technology shifts:</strong> The emergence of new technologies that make the
-            target&apos;s approach obsolete — cloud replacing on-premise, digital replacing physical,
-            automation replacing manual processes — can rapidly erode established moats.
+            target&apos;s approach obsolete - cloud replacing on-premise, digital replacing physical,
+            automation replacing manual processes - can rapidly erode established moats.
           </li>
           <li>
             <strong>Regulatory changes:</strong> Deregulation, new licensing frameworks, or changes to
@@ -396,7 +396,7 @@ export default function CompetitiveMoatEvaluationArticle() {
 
       <div className={bodyClass}>
         <p>
-          A savvy acquirer does not merely inherit a moat — they actively work to widen it. Post-acquisition
+          A savvy acquirer does not merely inherit a moat - they actively work to widen it. Post-acquisition
           strategies for moat enhancement include:
         </p>
 
@@ -440,27 +440,27 @@ export default function CompetitiveMoatEvaluationArticle() {
         <li>
           <Link href="/learn/acquisition-target-screening" className="text-apple-accent hover:underline">
             Acquisition Target Screening: How to Find the Right Business
-          </Link>{" "}— Identifying targets with strong competitive positions
+          </Link>{" "} - Identifying targets with strong competitive positions
         </li>
         <li>
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             Due Diligence Checklist for Business Acquisitions
-          </Link>{" "}— Comprehensive framework for investigating acquisition targets
+          </Link>{" "} - Comprehensive framework for investigating acquisition targets
         </li>
         <li>
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             Business Valuation Methods Explained
-          </Link>{" "}— How moat strength impacts valuation multiples
+          </Link>{" "} - How moat strength impacts valuation multiples
         </li>
         <li>
           <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
             Quality of Earnings Analysis
-          </Link>{" "}— Uncovering sustainable profitability behind the financials
+          </Link>{" "} - Uncovering sustainable profitability behind the financials
         </li>
         <li>
           <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
             Customer Concentration Risk in Acquisitions
-          </Link>{" "}— When customer dependency is a vulnerability, not a moat
+          </Link>{" "} - When customer dependency is a vulnerability, not a moat
         </li>
       </ul>
 

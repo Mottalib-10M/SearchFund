@@ -174,9 +174,9 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>@searchfunder</strong> – Official account sharing top discussions, new members, and acquisition announcements</li>
-        <li><strong>@StanfordCES</strong> – Stanford Center for Entrepreneurial Studies updates on search fund research and events</li>
-        <li><strong>@ETAEurope</strong> – European search fund news, events, and thought leadership</li>
+        <li><strong>@searchfunder</strong> - Official account sharing top discussions, new members, and acquisition announcements</li>
+        <li><strong>@StanfordCES</strong> - Stanford Center for Entrepreneurial Studies updates on search fund research and events</li>
+        <li><strong>@ETAEurope</strong> - European search fund news, events, and thought leadership</li>
         <li><strong>Individual searchers and operators</strong> who regularly share tactical insights from their searches and acquisitions (names change frequently as searchers complete their searches and become less active on social media)</li>
         <li><strong>Search fund investors</strong> like Pacific Lake Partners, Anacapa Partners, and family offices who share what they're seeing in the market</li>
         <li><strong>M&A advisors and brokers</strong> who post about market trends, valuation multiples, and buyer/seller dynamics</li>
@@ -369,7 +369,7 @@ export default function SearchFundNewslettersArticle() {
         <li><strong>Use a read-it-later app</strong> like Pocket or Instapaper to save articles for weekly deep-reading sessions</li>
         <li><strong>Create a searchable knowledge base</strong> in Notion, Evernote, or Obsidian with notes on key learnings, templates, and frameworks</li>
         <li><strong>Tag and categorize</strong> by topic (due diligence, financing, operations, sector-specific) so you can quickly reference when needed</li>
-        <li><strong>Share what you learn</strong> by writing LinkedIn posts or SearchFunder contributions – teaching forces clarity and builds your reputation</li>
+        <li><strong>Share what you learn</strong> by writing LinkedIn posts or SearchFunder contributions - teaching forces clarity and builds your reputation</li>
         <li><strong>Build a personal CRM</strong> for tracking the authors, searchers, and investors you want to follow up with or potentially reach out to</li>
       </ul>
 
@@ -382,10 +382,10 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Time-box your consumption</strong> – Don't let research become procrastination from uncomfortable activities like cold calling brokers</li>
-        <li><strong>Be ruthless about unsubscribing</strong> – If a newsletter hasn't provided value in three consecutive issues, cut it</li>
-        <li><strong>Focus on actionable insights</strong> – Ask "What will I do differently based on this?" after consuming content</li>
-        <li><strong>Prioritize primary sources</strong> – One conversation with an experienced searcher is worth ten blog posts about search funds</li>
+        <li><strong>Time-box your consumption</strong> - Don't let research become procrastination from uncomfortable activities like cold calling brokers</li>
+        <li><strong>Be ruthless about unsubscribing</strong> - If a newsletter hasn't provided value in three consecutive issues, cut it</li>
+        <li><strong>Focus on actionable insights</strong> - Ask "What will I do differently based on this?" after consuming content</li>
+        <li><strong>Prioritize primary sources</strong> - One conversation with an experienced searcher is worth ten blog posts about search funds</li>
         <li><strong>Schedule "no-content" days</strong> where you focus entirely on execution: calls, emails, financial modeling, meeting prep</li>
       </ul>
 
@@ -406,8 +406,8 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <p className={bodyClass}>
-        Start with the core resources – Stanford research, SearchFunder community, and a few carefully chosen
-        newsletters – then expand based on your specific needs and interests. Most importantly, engage actively
+        Start with the core resources - Stanford research, SearchFunder community, and a few carefully chosen
+        newsletters - then expand based on your specific needs and interests. Most importantly, engage actively
         rather than passively consuming. Share your own learnings, ask questions, and contribute to the ecosystem.
         The search fund community is remarkably generous with knowledge and introductions for those who show up
         authentically and give back.
@@ -435,12 +435,12 @@ export default function SearchFundNewslettersArticle() {
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
-        <li>Stanford Graduate School of Business, Center for Entrepreneurial Studies – <a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds" className="text-apple-accent hover:underline">Search Fund Research</a></li>
-        <li>SearchFunder Community Platform – <a href="https://www.searchfunder.com" className="text-apple-accent hover:underline">www.searchfunder.com</a></li>
-        <li>IESE Business School (Barcelona) – European Search Fund Studies</li>
-        <li>BizBuySell Insight Reports – Quarterly Small Business M&A Market Data</li>
-        <li>Axial Network – Middle Market M&A Trends and Analysis</li>
-        <li>Association for Corporate Growth (ACG) – MiddleMarket.com Industry Coverage</li>
+        <li>Stanford Graduate School of Business, Center for Entrepreneurial Studies - <a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds" className="text-apple-accent hover:underline">Search Fund Research</a></li>
+        <li>SearchFunder Community Platform - <a href="https://www.searchfunder.com" className="text-apple-accent hover:underline">www.searchfunder.com</a></li>
+        <li>IESE Business School (Barcelona) - European Search Fund Studies</li>
+        <li>BizBuySell Insight Reports - Quarterly Small Business M&A Market Data</li>
+        <li>Axial Network - Middle Market M&A Trends and Analysis</li>
+        <li>Association for Corporate Growth (ACG) - MiddleMarket.com Industry Coverage</li>
       </ul>
     </article>
   );

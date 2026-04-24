@@ -50,7 +50,7 @@ export default function DistressedAcquisitionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide explores the nuanced world of distressed acquisitions—when they make sense, how to evaluate them, what strategies work, and most importantly, how to distinguish genuine opportunities from value traps that will consume years of your life with little to show for it.
+        This guide explores the nuanced world of distressed acquisitions - when they make sense, how to evaluate them, what strategies work, and most importantly, how to distinguish genuine opportunities from value traps that will consume years of your life with little to show for it.
       </p>
 
       <h2 className={h2Class}>Understanding Business Distress: Not All Problems Are Equal</h2>
@@ -109,7 +109,7 @@ export default function DistressedAcquisitionsArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Strategic distress is the most dangerous type for searchers. It often requires not just operational improvements but fundamental business model transformation—something that typically exceeds the resources and timeline of a search fund acquisition.
+        Strategic distress is the most dangerous type for searchers. It often requires not just operational improvements but fundamental business model transformation - something that typically exceeds the resources and timeline of a search fund acquisition.
       </p>
 
       <h3 className={h3Class}>Industry-Wide vs. Company-Specific Distress</h3>
@@ -119,7 +119,7 @@ export default function DistressedAcquisitionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        The best turnaround opportunities are company-specific problems in healthy industries. The worst are healthy companies in dying industries—no amount of operational excellence can overcome structural market decline.
+        The best turnaround opportunities are company-specific problems in healthy industries. The worst are healthy companies in dying industries - no amount of operational excellence can overcome structural market decline.
       </p>
 
       <h2 className={h2Class}>Valuing Distressed Businesses</h2>
@@ -131,7 +131,7 @@ export default function DistressedAcquisitionsArticle() {
       <h3 className={h3Class}>Asset-Based Valuation</h3>
 
       <p className={bodyClass}>
-        For severely distressed businesses, start with liquidation value—what assets would fetch in a forced sale. This establishes a floor. Then consider:
+        For severely distressed businesses, start with liquidation value - what assets would fetch in a forced sale. This establishes a floor. Then consider:
       </p>
 
       <ul className={ulClass}>
@@ -178,13 +178,13 @@ export default function DistressedAcquisitionsArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Remember that survivors' bias affects public transaction data—you mainly see successful turnarounds, not the failures that were liquidated.
+        Remember that survivors' bias affects public transaction data - you mainly see successful turnarounds, not the failures that were liquidated.
       </p>
 
       <h3 className={h3Class}>The Time Value of Turnarounds</h3>
 
       <p className={bodyClass}>
-        A critical but often overlooked factor is how long the turnaround will take. A business trading at $2M that could be worth $8M sounds attractive at 4x potential upside. But if the turnaround takes five years, your IRR is only 32%—good but not exceptional given the risk. If it takes seven years, IRR drops to 21%.
+        A critical but often overlooked factor is how long the turnaround will take. A business trading at $2M that could be worth $8M sounds attractive at 4x potential upside. But if the turnaround takes five years, your IRR is only 32% - good but not exceptional given the risk. If it takes seven years, IRR drops to 21%.
       </p>
 
       <p className={bodyClass}>
@@ -194,7 +194,7 @@ export default function DistressedAcquisitionsArticle() {
       <h2 className={h2Class}>Due Diligence for Distressed Acquisitions</h2>
 
       <p className={bodyClass}>
-        Due diligence for distressed businesses requires both more urgency and more skepticism than normal acquisitions. Time pressure is intense—distressed sellers often need to close quickly. But rushing in without proper diligence is a recipe for disaster.
+        Due diligence for distressed businesses requires both more urgency and more skepticism than normal acquisitions. Time pressure is intense - distressed sellers often need to close quickly. But rushing in without proper diligence is a recipe for disaster.
       </p>
 
       <h3 className={h3Class}>Critical Due Diligence Areas</h3>
@@ -208,29 +208,29 @@ export default function DistressedAcquisitionsArticle() {
       <ul className={ulClass}>
         <li>Daily cash position and 13-week cash flow forecast</li>
         <li>Upcoming debt maturities, tax obligations, and other committed expenditures</li>
-        <li>Vendor payment status—who's on COD terms, who's threatening to cut off supply</li>
-        <li>Payroll funding capacity—can you make next week's payroll?</li>
+        <li>Vendor payment status - who's on COD terms, who's threatening to cut off supply</li>
+        <li>Payroll funding capacity - can you make next week's payroll?</li>
         <li>Available credit lines and their conditions</li>
       </ul>
 
       <h4 className={h3Class}>2. Customer Health and Revenue Quality</h4>
 
       <ul className={ulClass}>
-        <li>Top customer interviews—are they staying or leaving?</li>
+        <li>Top customer interviews - are they staying or leaving?</li>
         <li>Contract terms, particularly cancellation provisions</li>
         <li>Recent customer losses and reasons</li>
-        <li>Sales pipeline quality—can you replace churning customers?</li>
-        <li>Pricing trends—are customers demanding discounts to stay?</li>
+        <li>Sales pipeline quality - can you replace churning customers?</li>
+        <li>Pricing trends - are customers demanding discounts to stay?</li>
       </ul>
 
       <h4 className={h3Class}>3. Operational Viability</h4>
 
       <ul className={ulClass}>
-        <li>Key employee retention—who might leave in a transition?</li>
+        <li>Key employee retention - who might leave in a transition?</li>
         <li>Deferred maintenance and capital expenditures</li>
         <li>Quality metrics, returns, and customer satisfaction data</li>
         <li>Supply chain stability and alternative sourcing options</li>
-        <li>Technology systems—can they support operations or do they need immediate replacement?</li>
+        <li>Technology systems - can they support operations or do they need immediate replacement?</li>
       </ul>
 
       <h4 className={h3Class}>4. Legal and Contingent Liabilities</h4>
@@ -279,10 +279,10 @@ export default function DistressedAcquisitionsArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Smaller acquisition prices—you're limited by how much equity you can raise</li>
-        <li>Less leverage risk—no debt service to cover during the turnaround</li>
-        <li>Lower returns if successful—more equity dilution for the same outcome</li>
-        <li>Need for patient capital—investors must wait years for returns</li>
+        <li>Smaller acquisition prices - you're limited by how much equity you can raise</li>
+        <li>Less leverage risk - no debt service to cover during the turnaround</li>
+        <li>Lower returns if successful - more equity dilution for the same outcome</li>
+        <li>Need for patient capital - investors must wait years for returns</li>
       </ul>
 
       <p className={bodyClass}>
@@ -337,9 +337,9 @@ export default function DistressedAcquisitionsArticle() {
 
       <ul className={ulClass}>
         <li>Implement daily cash reporting and weekly cash flow forecasting</li>
-        <li>Negotiate payment extensions with vendors—most will work with you if you communicate proactively</li>
-        <li>Accelerate collections—personally call top receivable accounts</li>
-        <li>Eliminate all non-essential spending—travel, consulting, discretionary projects</li>
+        <li>Negotiate payment extensions with vendors - most will work with you if you communicate proactively</li>
+        <li>Accelerate collections - personally call top receivable accounts</li>
+        <li>Eliminate all non-essential spending - travel, consulting, discretionary projects</li>
         <li>Sell non-core assets and excess inventory for cash</li>
       </ul>
 
@@ -349,7 +349,7 @@ export default function DistressedAcquisitionsArticle() {
         <li>Personally visit or call every major customer in the first 30 days</li>
         <li>Address any service failures or quality issues immediately</li>
         <li>Identify at-risk accounts and develop retention plans</li>
-        <li>Focus on highest-margin customers—let unprofitable ones attrite</li>
+        <li>Focus on highest-margin customers - let unprofitable ones attrite</li>
         <li>Establish regular communication cadence with key accounts</li>
       </ul>
 
@@ -358,7 +358,7 @@ export default function DistressedAcquisitionsArticle() {
       <ul className={ulClass}>
         <li>Have honest conversations with staff about the situation</li>
         <li>Identify critical employees and create retention incentives</li>
-        <li>Remove underperformers quickly—turnarounds need A-players</li>
+        <li>Remove underperformers quickly - turnarounds need A-players</li>
         <li>Establish clear priorities and empower people to make decisions</li>
         <li>Celebrate small wins to rebuild morale</li>
       </ul>
@@ -380,7 +380,7 @@ export default function DistressedAcquisitionsArticle() {
       <h4 className={h3Class}>Cost Structure Rationalization</h4>
 
       <ul className={ulClass}>
-        <li>Zero-based budgeting—justify every expense from scratch</li>
+        <li>Zero-based budgeting - justify every expense from scratch</li>
         <li>Renegotiate supplier contracts with current payment status as leverage</li>
         <li>Consolidate facilities if occupancy or utilization is low</li>
         <li>Automate manual processes to reduce labor costs</li>
@@ -392,7 +392,7 @@ export default function DistressedAcquisitionsArticle() {
       <ul className={ulClass}>
         <li>Win back lost customers once quality/service issues are fixed</li>
         <li>Implement systematic sales process to replace informal approaches</li>
-        <li>Optimize pricing—many distressed businesses have underpriced their offerings</li>
+        <li>Optimize pricing - many distressed businesses have underpriced their offerings</li>
         <li>Expand into adjacent markets or product lines using existing capabilities</li>
         <li>Develop recurring revenue streams to stabilize cash flow</li>
       </ul>
@@ -404,11 +404,11 @@ export default function DistressedAcquisitionsArticle() {
       <h4 className={h3Class}>Systems and Process Improvement</h4>
 
       <ul className={ulClass}>
-        <li>Implement basic financial reporting if it doesn't exist—you can't manage what you don't measure</li>
+        <li>Implement basic financial reporting if it doesn't exist - you can't manage what you don't measure</li>
         <li>Establish KPI dashboards for operations, sales, and quality</li>
         <li>Document core processes and train employees on standard procedures</li>
         <li>Upgrade technology where it provides clear ROI (often CRM, inventory management, or accounting systems)</li>
-        <li>Create management routines—daily huddles, weekly reviews, monthly planning</li>
+        <li>Create management routines - daily huddles, weekly reviews, monthly planning</li>
       </ul>
 
       <h4 className={h3Class}>Working Capital Optimization</h4>
@@ -442,7 +442,7 @@ export default function DistressedAcquisitionsArticle() {
         Many turnarounds fail by pursuing growth too early. Ensure the foundation is solid before scaling.
       </p>
 
-      <h2 className={h2Class}>When Turnarounds Work—and When They Don't</h2>
+      <h2 className={h2Class}>When Turnarounds Work - and When They Don't</h2>
 
       <p className={bodyClass}>
         Pattern recognition is critical. After decades of turnaround attempts, clear predictors of success and failure have emerged.
@@ -480,11 +480,11 @@ export default function DistressedAcquisitionsArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>"I'll just add sales and marketing"—ignoring that the company may have fundamental product-market fit issues</li>
-        <li>"Current management is incompetent; I can do better"—underestimating the skills of people who know the business</li>
-        <li>"The industry is growing so the company should grow too"—not recognizing that competitors are taking share for good reasons</li>
-        <li>"I'll cut costs by 30% and get to profitability"—without understanding that costs may be essential to operations</li>
-        <li>"We'll pivot to a new business model"—attempting entrepreneurship rather than acquisition</li>
+        <li>"I'll just add sales and marketing" - ignoring that the company may have fundamental product-market fit issues</li>
+        <li>"Current management is incompetent; I can do better" - underestimating the skills of people who know the business</li>
+        <li>"The industry is growing so the company should grow too" - not recognizing that competitors are taking share for good reasons</li>
+        <li>"I'll cut costs by 30% and get to profitability" - without understanding that costs may be essential to operations</li>
+        <li>"We'll pivot to a new business model" - attempting entrepreneurship rather than acquisition</li>
       </ul>
 
       <p className={bodyClass}>
@@ -563,7 +563,7 @@ export default function DistressedAcquisitionsArticle() {
       </ul>
 
       <p className={bodyClass}>
-        If these don't describe you, focus your search on stable, profitable businesses. There's nothing wrong with buying a good company at a fair price—it's actually the higher-probability path to success.
+        If these don't describe you, focus your search on stable, profitable businesses. There's nothing wrong with buying a good company at a fair price - it's actually the higher-probability path to success.
       </p>
 
       <p className={bodyClass}>
@@ -581,31 +581,31 @@ export default function DistressedAcquisitionsArticle() {
           <Link href="/learn/valuing-unprofitable-business" className="text-apple-accent hover:underline">
             Valuing Unprofitable Businesses
           </Link>
-          {" "}— Valuation approaches when traditional metrics don't apply
+          {" "}- Valuation approaches when traditional metrics don't apply
         </li>
         <li>
           <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">
             Due Diligence Red Flags
           </Link>
-          {" "}— Warning signs to investigate deeply before closing
+          {" "}- Warning signs to investigate deeply before closing
         </li>
         <li>
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             Your First 100 Days as CEO
           </Link>
-          {" "}— Critical priorities for new owners, especially in turnarounds
+          {" "}- Critical priorities for new owners, especially in turnarounds
         </li>
         <li>
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">
             Revenue Growth Playbook
           </Link>
-          {" "}— Strategies for recovering and expanding top-line revenue
+          {" "}- Strategies for recovering and expanding top-line revenue
         </li>
         <li>
           <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">
             Working Capital Management
           </Link>
-          {" "}— Optimizing cash flow through receivables, inventory, and payables
+          {" "}- Optimizing cash flow through receivables, inventory, and payables
         </li>
       </ul>
 
@@ -641,7 +641,7 @@ export default function DistressedAcquisitionsArticle() {
           >
             "Distressed M&A: Opportunities in Crisis"
           </a>
-          {" "}— Harvard Business Review (2023)
+          {" "}- Harvard Business Review (2023)
         </li>
         <li>
           <a
@@ -652,7 +652,7 @@ export default function DistressedAcquisitionsArticle() {
           >
             "Turnaround Management: Best Practices"
           </a>
-          {" "}— Turnaround Management Association (2024)
+          {" "}- Turnaround Management Association (2024)
         </li>
         <li>
           <a
@@ -663,7 +663,7 @@ export default function DistressedAcquisitionsArticle() {
           >
             "Valuing Distressed Companies"
           </a>
-          {" "}— Journal of Applied Corporate Finance (2023)
+          {" "}- Journal of Applied Corporate Finance (2023)
         </li>
         <li>
           <a
@@ -674,7 +674,7 @@ export default function DistressedAcquisitionsArticle() {
           >
             "Operational Restructuring in Distressed Situations"
           </a>
-          {" "}— McKinsey & Company (2024)
+          {" "}- McKinsey & Company (2024)
         </li>
       </ul>
     </article>

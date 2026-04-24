@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 
-// GET /api/conversations — list user's conversations
+// GET /api/conversations - list user's conversations
 export async function GET() {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -61,7 +61,7 @@ export async function GET() {
   return NextResponse.json({ conversations: result });
 }
 
-// POST /api/conversations — create or get existing conversation
+// POST /api/conversations - create or get existing conversation
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

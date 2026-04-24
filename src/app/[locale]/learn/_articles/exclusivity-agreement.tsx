@@ -60,7 +60,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        An exclusivity agreement—also known as a "no-shop" provision—is a contractual commitment from the seller to negotiate exclusively with you for a defined period while you conduct due diligence and work toward a definitive purchase agreement. For search fund entrepreneurs and independent sponsors operating with limited time and capital, securing exclusivity is often essential to justify the investment in detailed due diligence.
+        An exclusivity agreement - also known as a "no-shop" provision - is a contractual commitment from the seller to negotiate exclusively with you for a defined period while you conduct due diligence and work toward a definitive purchase agreement. For search fund entrepreneurs and independent sponsors operating with limited time and capital, securing exclusivity is often essential to justify the investment in detailed due diligence.
       </p>
 
       <p className={bodyClass}>
@@ -117,7 +117,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Discussion Prohibition:</strong> The seller commits not to engage in discussions or negotiations with third parties regarding a potential transaction. This is broader than just prohibiting solicitation—it prevents the seller from responding to inbound interest.
+        <strong>Discussion Prohibition:</strong> The seller commits not to engage in discussions or negotiations with third parties regarding a potential transaction. This is broader than just prohibiting solicitation - it prevents the seller from responding to inbound interest.
       </p>
 
       <p className={bodyClass}>
@@ -252,7 +252,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        Response: This fear is legitimate—buyers sometimes use the exclusivity period to grind down the price. Address this by including a "hard floor" provision in your LOI where significant price adjustments would give the seller the right to terminate exclusivity. This protects them from bad faith price reductions while preserving your ability to adjust for material adverse findings.
+        Response: This fear is legitimate - buyers sometimes use the exclusivity period to grind down the price. Address this by including a "hard floor" provision in your LOI where significant price adjustments would give the seller the right to terminate exclusivity. This protects them from bad faith price reductions while preserving your ability to adjust for material adverse findings.
       </p>
 
       <h3 className={h3Class}>Strategic Concessions</h3>
@@ -363,7 +363,7 @@ export default function ExclusivityAgreementArticle() {
       <h2 className={h2Class}>Managing the Exclusivity Period</h2>
 
       <p className={bodyClass}>
-        Securing exclusivity is only the beginning—how you manage the exclusivity period can determine whether it becomes a valuable deal protection tool or a source of tension that derails the transaction.
+        Securing exclusivity is only the beginning - how you manage the exclusivity period can determine whether it becomes a valuable deal protection tool or a source of tension that derails the transaction.
       </p>
 
       <h3 className={h3Class}>Moving with Urgency</h3>
@@ -454,7 +454,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>Failed Deals and Reputation</h3>
 
       <p className={bodyClass}>
-        In the tight-knit world of search funds and lower middle market M&A, your reputation matters immensely. How you handle a failed deal during an exclusivity period can impact your ability to secure exclusivity—and complete deals—in the future.
+        In the tight-knit world of search funds and lower middle market M&A, your reputation matters immensely. How you handle a failed deal during an exclusivity period can impact your ability to secure exclusivity - and complete deals - in the future.
       </p>
 
       <p className={bodyClass}>
@@ -462,7 +462,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        Maintain the relationship even after a failed deal—the business might be sellable in the future after addressing the issues you identified, or the seller might know other business owners who could be acquisition targets.
+        Maintain the relationship even after a failed deal - the business might be sellable in the future after addressing the issues you identified, or the seller might know other business owners who could be acquisition targets.
       </p>
 
       <h2 className={h2Class}>Advanced Exclusivity Strategies</h2>
@@ -568,7 +568,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>Injunctive Relief</h3>
 
       <p className={bodyClass}>
-        Some exclusivity agreements include provisions allowing the buyer to seek injunctive relief to prevent the seller from closing a transaction with a third party in violation of the exclusivity terms. However, injunctive relief is difficult to obtain and potentially counterproductive—even if you succeed in blocking a competing transaction, you're left trying to complete a deal with a hostile seller.
+        Some exclusivity agreements include provisions allowing the buyer to seek injunctive relief to prevent the seller from closing a transaction with a third party in violation of the exclusivity terms. However, injunctive relief is difficult to obtain and potentially counterproductive - even if you succeed in blocking a competing transaction, you're left trying to complete a deal with a hostile seller.
       </p>
 
       <h3 className={h3Class}>Practical Enforcement Challenges</h3>
@@ -578,7 +578,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        The primary value of exclusivity agreements is not their enforceability in court but rather the moral and professional commitment they create. A seller who signs an exclusivity agreement and then violates it damages their professional reputation, risks their relationship with their advisors, and exposes themselves to potential damages—all of which create practical deterrence even without aggressive legal enforcement.
+        The primary value of exclusivity agreements is not their enforceability in court but rather the moral and professional commitment they create. A seller who signs an exclusivity agreement and then violates it damages their professional reputation, risks their relationship with their advisors, and exposes themselves to potential damages - all of which create practical deterrence even without aggressive legal enforcement.
       </p>
 
       <h2 className={h2Class}>Conclusion: Exclusivity as Partnership Foundation</h2>
@@ -588,7 +588,7 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <p className={bodyClass}>
-        When a seller grants you exclusivity, they're expressing trust that you'll work diligently and fairly toward completing the transaction. Your job during the exclusivity period isn't just to conduct thorough due diligence—it's to prove that their trust was warranted by acting with integrity, urgency, and transparency.
+        When a seller grants you exclusivity, they're expressing trust that you'll work diligently and fairly toward completing the transaction. Your job during the exclusivity period isn't just to conduct thorough due diligence - it's to prove that their trust was warranted by acting with integrity, urgency, and transparency.
       </p>
 
       <p className={bodyClass}>
@@ -596,17 +596,17 @@ export default function ExclusivityAgreementArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Request exclusivity at the right time—when you've demonstrated serious interest but before incurring major costs</li>
+        <li>Request exclusivity at the right time - when you've demonstrated serious interest but before incurring major costs</li>
         <li>Frame the request around mutual benefit and your commitment to moving quickly</li>
         <li>Keep the exclusivity period realistic given the transaction complexity and your actual ability to complete diligence</li>
-        <li>Move with genuine urgency once you have exclusivity—delays damage credibility and can derail deals</li>
+        <li>Move with genuine urgency once you have exclusivity - delays damage credibility and can derail deals</li>
         <li>Communicate transparently throughout the period about progress, challenges, and timeline</li>
         <li>Adjust price only for material, undisclosed issues, and be prepared to walk away rather than renegotiate aggressively</li>
         <li>Handle failed deals professionally to preserve your reputation for future opportunities</li>
       </ul>
 
       <p className={bodyClass}>
-        Master these elements, and exclusivity becomes more than a protective legal provision—it becomes a tool for building the seller trust and deal momentum that turns opportunities into closed acquisitions. Combined with strong <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">negotiation skills</Link> and efficient <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing processes</Link>, effective use of exclusivity agreements can significantly improve your success rate in completing transactions.
+        Master these elements, and exclusivity becomes more than a protective legal provision - it becomes a tool for building the seller trust and deal momentum that turns opportunities into closed acquisitions. Combined with strong <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">negotiation skills</Link> and efficient <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing processes</Link>, effective use of exclusivity agreements can significantly improve your success rate in completing transactions.
       </p>
 
       <h2 className={h2Class}>Frequently asked questions</h2>

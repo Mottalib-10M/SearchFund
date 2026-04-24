@@ -3,7 +3,7 @@ import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 import { createNotification } from "@/lib/notifications";
 
-// GET /api/connections — get user's connections
+// GET /api/connections - get user's connections
 export async function GET() {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -36,7 +36,7 @@ export async function GET() {
   return NextResponse.json({ connections });
 }
 
-// POST /api/connections — send connection request
+// POST /api/connections - send connection request
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -84,7 +84,7 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// PUT /api/connections — accept or decline
+// PUT /api/connections - accept or decline
 export async function PUT(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

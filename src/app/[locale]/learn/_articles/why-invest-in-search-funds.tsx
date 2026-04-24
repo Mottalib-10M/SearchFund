@@ -20,9 +20,9 @@ export default function WhyInvestInSearchFundsArticle() {
             complete guide to search funds
           </Link>{" "}
           explains how the model works from end to end. This guide is
-          written for prospective investors — whether you are a family
+          written for prospective investors - whether you are a family
           office, a high-net-worth individual, an ex-operator, or an
-          institutional allocator — and covers the return profile, risk
+          institutional allocator - and covers the return profile, risk
           characteristics, portfolio construction, and practical mechanics
           of investing in search funds.
         </p>
@@ -42,7 +42,7 @@ export default function WhyInvestInSearchFundsArticle() {
           </li>
           <li>
             <strong>Aggregate return on invested capital (ROIC) of
-            4.5x</strong> — meaning investors have received $4.50 back
+            4.5x</strong> - meaning investors have received $4.50 back
             for every $1.00 invested, on average.
           </li>
           <li>
@@ -119,7 +119,7 @@ export default function WhyInvestInSearchFundsArticle() {
           <strong> 10 to 15 search funds</strong> provides sufficient
           diversification to approximate the aggregate return profile
           of the asset class. With fewer than 10, you are exposed to
-          significant single-deal risk — one bad outcome can materially
+          significant single-deal risk - one bad outcome can materially
           drag down portfolio returns. With more than 15, you begin to
           see diminishing marginal diversification benefits while
           increasing the time and capital commitment.
@@ -147,11 +147,11 @@ export default function WhyInvestInSearchFundsArticle() {
         <p>
           While the search fund model originated in the United States,
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe represents an increasingly compelling opportunity</Link> for
-          investors. Several structural factors — amplified by the{" "}
+          investors. Several structural factors - amplified by the{" "}
           <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
             baby boomer succession crisis
           </Link>{" "}
-          — make European search funds particularly attractive:
+          - make European search funds particularly attractive:
         </p>
         <ul className={ulClass}>
           <li>
@@ -167,7 +167,7 @@ export default function WhyInvestInSearchFundsArticle() {
             million businesses in the EU will need to transfer ownership
             in the coming decade as baby-boomer founders retire. Many
             of these are profitable, well-run companies with no
-            identified successor — exactly the type of business search
+            identified successor - exactly the type of business search
             funds target.
           </li>
           <li>
@@ -260,7 +260,7 @@ export default function WhyInvestInSearchFundsArticle() {
           </li>
           <li>
             <strong>Search thesis:</strong> A well-defined and realistic
-            search strategy — target industries, geographies, size
+            search strategy - target industries, geographies, size
             criteria, and a credible value creation plan.
           </li>
           <li>
@@ -359,8 +359,8 @@ export default function WhyInvestInSearchFundsArticle() {
         <p>
           Passive investors can expect to spend two to four hours per month
           reviewing updates and attending occasional calls. Board-seat
-          investors commit significantly more time — typically eight to
-          twelve hours per month per company — attending quarterly board
+          investors commit significantly more time - typically eight to
+          twelve hours per month per company - attending quarterly board
           meetings, advising on strategy, and helping with key hires.
           The level of involvement should match your expertise and
           availability.

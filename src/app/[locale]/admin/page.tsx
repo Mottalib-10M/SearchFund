@@ -253,7 +253,7 @@ export default async function AdminDashboardPage() {
             <tbody>
               {recentUsers.map((user) => (
                 <tr key={user.id} className="border-b border-apple-gray-100">
-                  <td className="py-2 text-apple-black font-medium">{user.name ?? "—"}</td>
+                  <td className="py-2 text-apple-black font-medium">{user.name ?? " - "}</td>
                   <td className="py-2 text-apple-gray-700">{user.email}</td>
                   <td className="py-2">
                     <RoleBadge role={user.role} />

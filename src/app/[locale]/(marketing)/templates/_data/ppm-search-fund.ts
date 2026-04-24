@@ -10,19 +10,19 @@ export const ppmSearchFund: TemplateMeta = {
   dateModified: "2025-06-10",
   sources: [
     {
-      name: "Stanford Graduate School of Business — A Primer on Search Funds (2023)",
+      name: "Stanford Graduate School of Business - A Primer on Search Funds (2023)",
       url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer",
     },
     {
-      name: "IESE Business School — International Search Fund Study (2023)",
+      name: "IESE Business School - International Search Fund Study (2023)",
       url: "https://www.iese.edu/entrepreneurship/search-funds/",
     },
     {
-      name: "Searchfunder.com — PPM and Fundraising Resources",
+      name: "Searchfunder.com - PPM and Fundraising Resources",
       url: "https://searchfunder.com",
     },
     {
-      name: "SEC — Regulation D: Rules 504, 506(b), 506(c)",
+      name: "SEC - Regulation D: Rules 504, 506(b), 506(c)",
       url: "https://www.sec.gov/education/smallbusiness/exemptofferings/regD",
     },
   ],
@@ -58,8 +58,8 @@ export const ppmSearchFund: TemplateMeta = {
   opportunity, the economics, and the risk factors associated with investing in a search fund.
 </p>
 <p>
-  In the traditional search fund model, the PPM is used to raise "search capital" — typically $400K–$600K —
-  from 10–20 investors who each contribute $30K–$50K in exchange for the right (but not the obligation) to
+  In the traditional search fund model, the PPM is used to raise "search capital" - typically $400K-$600K - 
+  from 10-20 investors who each contribute $30K-$50K in exchange for the right (but not the obligation) to
   invest in the eventual acquisition. According to the 2023 Stanford Search Fund Primer, the median search
   fund raises approximately $475K in search capital from 14 investors.
 </p>
@@ -81,12 +81,12 @@ export const ppmSearchFund: TemplateMeta = {
   <p><strong>Fund Name:</strong> [Search Fund Name] LLC</p>
   <p><strong>Searcher(s):</strong> [Searcher Name(s)]</p>
   <p><strong>Search Capital Raise:</strong> $[Amount] (target), raised in units of $[Amount] per unit</p>
-  <p><strong>Number of Investors:</strong> [10–20] (target)</p>
-  <p><strong>Search Period:</strong> [18–24] months</p>
+  <p><strong>Number of Investors:</strong> [10-20] (target)</p>
+  <p><strong>Search Period:</strong> [18-24] months</p>
   <p><strong>Target Acquisition Profile:</strong></p>
   <ul class="mt-1 space-y-1">
-    <li>Revenue: $[X]M – $[Y]M</li>
-    <li>EBITDA: $[X]M – $[Y]M</li>
+    <li>Revenue: $[X]M - $[Y]M</li>
+    <li>EBITDA: $[X]M - $[Y]M</li>
     <li>Industries: [Target industries]</li>
     <li>Geography: [Target geographies]</li>
     <li>Business type: [B2B/B2C, services/manufacturing, etc.]</li>
@@ -95,7 +95,7 @@ export const ppmSearchFund: TemplateMeta = {
   <p><strong>Securities Exemption:</strong> Regulation D, Rule 506(b) [or 506(c)]</p>
 </div>
 <p>
-  <strong>Guidance:</strong> The executive summary should be concise (1–2 pages) and give investors
+  <strong>Guidance:</strong> The executive summary should be concise (1-2 pages) and give investors
   a clear picture of who you are, what you are looking for, and how their capital will be used.
   Lead with your strongest credentials and differentiation.
 </p>
@@ -115,19 +115,19 @@ export const ppmSearchFund: TemplateMeta = {
   </p>
   <p class="mt-3"><strong>Relevant Skills</strong></p>
   <ul class="mt-1 space-y-1">
-    <li>[Skill 1 with specific examples — e.g., "P&amp;L management for a $10M business unit at [Company]"]</li>
-    <li>[Skill 2 — e.g., "M&amp;A transaction experience — evaluated 30+ targets at [PE firm]"]</li>
-    <li>[Skill 3 — e.g., "Industry expertise in [sector] from [X] years of experience"]</li>
-    <li>[Skill 4 — e.g., "Operational improvement — implemented [system] reducing costs by X%"]</li>
+    <li>[Skill 1 with specific examples - e.g., "P&amp;L management for a $10M business unit at [Company]"]</li>
+    <li>[Skill 2 - e.g., "M&amp;A transaction experience - evaluated 30+ targets at [PE firm]"]</li>
+    <li>[Skill 3 - e.g., "Industry expertise in [sector] from [X] years of experience"]</li>
+    <li>[Skill 4 - e.g., "Operational improvement - implemented [system] reducing costs by X%"]</li>
   </ul>
   <p class="mt-3"><strong>References</strong></p>
-  <p>[List 2–3 professional references available upon request]</p>
+  <p>[List 2-3 professional references available upon request]</p>
 </div>
 <p>
   <strong>Guidance:</strong> This is the most important section for investors. Search fund investing
   is a bet on the jockey, not the horse (since the company hasn't been identified yet). Be specific
   about accomplishments. Avoid generic statements. According to the Stanford Primer, the most
-  successful searchers tend to have 2–10 years of professional experience, often in consulting,
+  successful searchers tend to have 2-10 years of professional experience, often in consulting,
   private equity, or operational roles.
 </p>
 
@@ -135,8 +135,8 @@ export const ppmSearchFund: TemplateMeta = {
 <div class="bg-gray-50 rounded-lg p-4 mb-4 text-sm">
   <p><strong>Acquisition Criteria</strong></p>
   <ul class="mt-1 space-y-1">
-    <li><strong>EBITDA:</strong> $[1–5]M (target range)</li>
-    <li><strong>Revenue:</strong> $[3–20]M (target range)</li>
+    <li><strong>EBITDA:</strong> $[1-5]M (target range)</li>
+    <li><strong>Revenue:</strong> $[3-20]M (target range)</li>
     <li><strong>Industries:</strong> [List target industries with rationale]</li>
     <li><strong>Geography:</strong> [List target markets]</li>
     <li><strong>Business characteristics:</strong> Recurring/contractual revenue, low customer concentration,
@@ -147,7 +147,7 @@ export const ppmSearchFund: TemplateMeta = {
   <p>
     [Describe your approach to finding acquisition targets: proprietary sourcing (direct outreach to
     business owners), broker relationships, industry networks, geographic focus. Be specific about
-    your plan — investors want to see a systematic approach, not just "I'll look for good companies."]
+    your plan - investors want to see a systematic approach, not just "I'll look for good companies."]
   </p>
   <p class="mt-3"><strong>Value Creation Plan</strong></p>
   <p>
@@ -158,7 +158,7 @@ export const ppmSearchFund: TemplateMeta = {
 </div>
 <p>
   <strong>Guidance:</strong> Be specific but not so narrow that you have a tiny target universe.
-  Most successful search funds target businesses with $1–5M EBITDA in fragmented industries with
+  Most successful search funds target businesses with $1-5M EBITDA in fragmented industries with
   high barriers to entry. Your search strategy should demonstrate that you have thought carefully
   about how you will actually find and evaluate deals.
 </p>
@@ -219,7 +219,7 @@ export const ppmSearchFund: TemplateMeta = {
   <p>
     Each unit of search capital ($[Amount]) entitles the investor to a pro-rata right (but not
     obligation) to invest in the acquisition. Search capital converts into equity in the
-    acquisition vehicle at a [1.5x] step-up — meaning each $1 of search capital converts as
+    acquisition vehicle at a [1.5x] step-up - meaning each $1 of search capital converts as
     if it were $[1.50] of acquisition equity.
   </p>
 
@@ -233,12 +233,12 @@ export const ppmSearchFund: TemplateMeta = {
 
   <p class="mt-3"><strong>Searcher Equity</strong></p>
   <p>
-    The Searcher will receive [20–30]% of the common equity, vesting over [4–5] years, structured
-    in [2–3] tranches:
+    The Searcher will receive [20-30]% of the common equity, vesting over [4-5] years, structured
+    in [2-3] tranches:
   </p>
   <ul class="mt-1 space-y-1">
     <li>Tranche 1 ([X]%): Vests upon closing of the acquisition</li>
-    <li>Tranche 2 ([X]%): Vests over [3–4] years based on continued service</li>
+    <li>Tranche 2 ([X]%): Vests over [3-4] years based on continued service</li>
     <li>Tranche 3 ([X]%, if applicable): Vests upon achieving performance targets (e.g., [X]x MOIC)</li>
   </ul>
 
@@ -251,7 +251,7 @@ export const ppmSearchFund: TemplateMeta = {
 </div>
 <p>
   <strong>Guidance:</strong> Economics are one of the most scrutinized sections. The standard structure
-  per the Stanford Primer is: 20–30% common equity to the searcher, 1.5x step-up on search capital,
+  per the Stanford Primer is: 20-30% common equity to the searcher, 1.5x step-up on search capital,
   and a preferred return (typically 8%) to investors before the searcher participates in distributions.
   Use the Cap Table Simulator tool to model different scenarios.
 </p>
@@ -260,8 +260,8 @@ export const ppmSearchFund: TemplateMeta = {
 <div class="bg-gray-50 rounded-lg p-4 mb-4 text-sm">
   <p><strong>Board Composition</strong></p>
   <p>
-    The acquisition entity will be governed by a Board of Directors consisting of [3–5] members:
-    [1] Searcher/CEO, [1–2] investor representatives, and [1] independent director.
+    The acquisition entity will be governed by a Board of Directors consisting of [3-5] members:
+    [1] Searcher/CEO, [1-2] investor representatives, and [1] independent director.
   </p>
 
   <p class="mt-3"><strong>Investor Protections</strong></p>
@@ -311,7 +311,7 @@ export const ppmSearchFund: TemplateMeta = {
     </li>
     <li>
       <strong>Illiquidity.</strong> There is no public market for the securities offered. Investors
-      should expect to hold their investment for 5–7 years or longer.
+      should expect to hold their investment for 5-7 years or longer.
     </li>
     <li>
       <strong>Conflicts of interest.</strong> The Searcher serves in multiple capacities (manager,
@@ -325,7 +325,7 @@ export const ppmSearchFund: TemplateMeta = {
 </div>
 <p>
   <strong>Guidance:</strong> The risk factors section is legally critical. It protects both the
-  searcher and investors by ensuring full disclosure. Do not minimize risks — sophisticated investors
+  searcher and investors by ensuring full disclosure. Do not minimize risks - sophisticated investors
   expect and respect thorough risk disclosure. Your securities attorney will help tailor this section.
 </p>
 
@@ -345,7 +345,7 @@ export const ppmSearchFund: TemplateMeta = {
   <ol class="mt-1 space-y-1">
     <li>1. Review this PPM and all accompanying documents</li>
     <li>2. Complete the Subscription Agreement and Accredited Investor Questionnaire</li>
-    <li>3. Wire funds to: [Escrow account details — to be provided by counsel]</li>
+    <li>3. Wire funds to: [Escrow account details - to be provided by counsel]</li>
     <li>4. Receive countersigned agreement and unit certificate</li>
   </ol>
 
@@ -404,7 +404,7 @@ export const ppmSearchFund: TemplateMeta = {
   <li>Median number of investors: 14</li>
   <li>Median acquisition EBITDA: $1.8M</li>
   <li>Median acquisition multiple: 5.6x EBITDA</li>
-  <li>Searcher equity: typically 20–25% of common equity</li>
+  <li>Searcher equity: typically 20-25% of common equity</li>
   <li>Acquisition completion rate: approximately 73%</li>
   <li>Median aggregate return to investors: 5.1x MOIC, 32.6% IRR</li>
 </ul>

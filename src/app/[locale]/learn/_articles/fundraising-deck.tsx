@@ -328,7 +328,7 @@ export default function FundraisingDeckArticle() {
         <h3 className={h3Class}>Timeline to close the raise</h3>
         <p>
           Most search fund raises take three to six months from the first
-          investor meeting to the final close — see our detailed <Link href="/learn/search-fund-fundraising-timeline" className="text-apple-accent hover:underline">fundraising timeline</Link> for a week-by-week breakdown. Plan your fundraising
+          investor meeting to the final close - see our detailed <Link href="/learn/search-fund-fundraising-timeline" className="text-apple-accent hover:underline">fundraising timeline</Link> for a week-by-week breakdown. Plan your fundraising
           calendar accordingly. Start by identifying 40 to 60 target
           investors and prioritize them into tiers based on likelihood
           and check size. Schedule meetings in waves: begin with investors
@@ -355,7 +355,7 @@ export default function FundraisingDeckArticle() {
           palette, and ample white space is sufficient. Many successful
           searchers create their own decks. However, if design is not your
           strength, spending $500&ndash;$1,000 on a freelance designer to
-          polish the layout can be a worthwhile investment — first impressions
+          polish the layout can be a worthwhile investment - first impressions
           matter, and a polished deck signals attention to detail.
         </p>
 
@@ -378,7 +378,7 @@ export default function FundraisingDeckArticle() {
         </h3>
         <p>
           No. The search-phase deck pitches you as a person and your thesis.
-          The acquisition deck pitches a specific company — its financials,
+          The acquisition deck pitches a specific company - its financials,
           market position, growth plan, and deal economics. You will need to
           build an entirely new deck when you present a deal to your investor
           syndicate for acquisition capital. The search deck becomes obsolete

@@ -32,7 +32,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h1 className={h1Class}>HR &amp; Employee Due Diligence: Benefits, Contracts &amp; Culture</h1>
 
       <p className={bodyClass}>
-        In any acquisition, the people are often the most valuable asset—and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a comprehensive assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
+        In any acquisition, the people are often the most valuable asset - and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a comprehensive assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
       </p>
 
       <p className={bodyClass}>
@@ -328,7 +328,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Consider how the target company's culture aligns with your own leadership style and values. Perfect alignment isn't necessary—or even desirable if you plan to drive change—but you need to understand the gaps and have a plan for bridging them. See our article on <Link href="/learn/culture-change-post-acquisition" className="text-apple-accent hover:underline">culture change post-acquisition</Link> for strategies on managing cultural integration.
+        Consider how the target company's culture aligns with your own leadership style and values. Perfect alignment isn't necessary, or even desirable if you plan to drive change, but you need to understand the gaps and have a plan for bridging them. See our article on <Link href="/learn/culture-change-post-acquisition" className="text-apple-accent hover:underline">culture change post-acquisition</Link> for strategies on managing cultural integration.
       </p>
 
       <h2 className={h2Class}>Labor Law Compliance Review</h2>

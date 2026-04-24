@@ -48,7 +48,7 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Deal cycles are unpredictable:</strong> You might find the perfect business in month 6, but due diligence and closing could take another 6-9 months. Or you might not find anything compelling until month 18.</li>
         <li><strong>Market conditions vary:</strong> In competitive markets or during economic uncertainty, the search process naturally extends as good opportunities become scarcer.</li>
-        <li><strong>Psychological pressure increases over time:</strong> As your runway shortens, the pressure to close a deal—any deal—intensifies, potentially leading to poor decisions.</li>
+        <li><strong>Psychological pressure increases over time:</strong> As your runway shortens, the pressure to close a deal - any deal - intensifies, potentially leading to poor decisions.</li>
         <li><strong>Investors expect commitment:</strong> If you raise traditional search capital, your investors are betting on your ability to dedicate full-time focus for the duration. Running out of personal runway forces difficult conversations.</li>
       </ul>
 
@@ -63,7 +63,7 @@ export default function FinancialRunwayPlanningArticle() {
       <h2 className={h2Class}>Traditional Search Capital: What's Covered</h2>
 
       <p className={bodyClass}>
-        If you raise a traditional search fund, you'll typically secure $400,000 to $600,000 in search capital from a group of investors. Understanding exactly what these funds cover—and what they don't—is essential for personal financial planning.
+        If you raise a traditional search fund, you'll typically secure $400,000 to $600,000 in search capital from a group of investors. Understanding exactly what these funds cover - and what they don't - is essential for personal financial planning.
       </p>
 
       <h3 className={h3Class}>What Search Capital Typically Covers</h3>
@@ -86,7 +86,7 @@ export default function FinancialRunwayPlanningArticle() {
         <li><strong>Retirement contributions:</strong> Unlike a traditional W-2 job, there's typically no 401(k) match or retirement benefits during the search phase.</li>
         <li><strong>Relocation costs:</strong> If your search requires moving to a new city or if you ultimately acquire a business in a different location, these costs are usually on you.</li>
         <li><strong>Childcare:</strong> Even though you're working full-time, search capital doesn't typically cover dependent care expenses.</li>
-        <li><strong>Pre-search preparation costs:</strong> Any expenses incurred before officially raising your search fund—conference attendance, preliminary travel, database subscriptions—are self-funded.</li>
+        <li><strong>Pre-search preparation costs:</strong> Any expenses incurred before officially raising your search fund - conference attendance, preliminary travel, database subscriptions - are self-funded.</li>
       </ul>
 
       <p className={bodyClass}>
@@ -213,7 +213,7 @@ export default function FinancialRunwayPlanningArticle() {
       <h3 className={h3Class}>Optimize Major Fixed Costs</h3>
 
       <p className={bodyClass}>
-        Your largest expenses—housing, insurance, childcare—deserve scrutiny before you start your search:
+        Your largest expenses - housing, insurance, childcare - deserve scrutiny before you start your search:
       </p>
 
       <ul className={ulClass}>
@@ -505,7 +505,7 @@ export default function FinancialRunwayPlanningArticle() {
             rel="noopener noreferrer"
           >
             Stanford Search Fund Primer
-          </a> — Stanford GSB
+          </a> - Stanford GSB
         </li>
         <li>
           <a
@@ -515,22 +515,22 @@ export default function FinancialRunwayPlanningArticle() {
             rel="noopener noreferrer"
           >
             2024 Search Fund Study
-          </a> — Stanford GSB
+          </a> - Stanford GSB
         </li>
         <li>
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
             Getting Started with Search Funds
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
         <li>
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             Self-Funded vs Traditional Search
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
         <li>
           <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
             The Psychology of Being a Searcher
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
       </ul>
     </article>

@@ -33,7 +33,7 @@ export default function IndustryFragmentationArticle() {
       <h1 className={h1Class}>Industry Fragmentation: Finding Roll-Up Opportunities</h1>
 
       <p className={bodyClass}>
-        Industry fragmentation represents one of the most compelling opportunities for search fund entrepreneurs. When an industry consists of numerous small, independently-owned businesses with no dominant players, the potential exists to build significant value through consolidation. This strategy—commonly called a "roll-up"—has created substantial wealth for searchers who execute it successfully, but it requires careful planning, disciplined execution, and a deep understanding of both the target industry and the integration challenges ahead.
+        Industry fragmentation represents one of the most compelling opportunities for search fund entrepreneurs. When an industry consists of numerous small, independently-owned businesses with no dominant players, the potential exists to build significant value through consolidation. This strategy - commonly called a "roll-up" - has created substantial wealth for searchers who execute it successfully, but it requires careful planning, disciplined execution, and a deep understanding of both the target industry and the integration challenges ahead.
       </p>
 
       <p className={bodyClass}>
@@ -89,7 +89,7 @@ export default function IndustryFragmentationArticle() {
       <h3 className={h3Class}>Quantifying Fragmentation</h3>
 
       <p className={bodyClass}>
-        Start by measuring the degree of fragmentation using industry concentration ratios. The four-firm concentration ratio (C4)—which represents the market share held by the four largest competitors—provides a useful benchmark:
+        Start by measuring the degree of fragmentation using industry concentration ratios. The four-firm concentration ratio (C4) - which represents the market share held by the four largest competitors - provides a useful benchmark:
       </p>
 
       <ul className={ulClass}>
@@ -140,7 +140,7 @@ export default function IndustryFragmentationArticle() {
       <h2 className={h2Class}>Platform vs. Add-On Acquisitions</h2>
 
       <p className={bodyClass}>
-        Successful roll-up strategies distinguish between the platform acquisition—your initial purchase that forms the foundation—and subsequent add-on acquisitions that expand the platform. Each requires different evaluation criteria and integration approaches.
+        Successful roll-up strategies distinguish between the platform acquisition - your initial purchase that forms the foundation - and subsequent add-on acquisitions that expand the platform. Each requires different evaluation criteria and integration approaches.
       </p>
 
       <h3 className={h3Class}>Selecting the Right Platform</h3>
@@ -164,7 +164,7 @@ export default function IndustryFragmentationArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Many searchers make the mistake of selecting a platform primarily based on price or availability. Resist this temptation—paying up for the right platform creates far more value than saving money on a mediocre foundation.
+        Many searchers make the mistake of selecting a platform primarily based on price or availability. Resist this temptation - paying up for the right platform creates far more value than saving money on a mediocre foundation.
       </p>
 
       <h3 className={h3Class}>Add-On Acquisition Strategy</h3>
@@ -218,9 +218,9 @@ export default function IndustryFragmentationArticle() {
 
       <ul className={ulClass}>
         <li><strong>Branding strategy:</strong> Will acquired businesses retain local names or adopt your platform brand? Many consolidators use a hybrid approach, maintaining local operating names while building a corporate brand.</li>
-        <li><strong>Technology integration:</strong> Timeline and approach for migrating acquired businesses to your systems—often the most challenging and critical integration element.</li>
+        <li><strong>Technology integration:</strong> Timeline and approach for migrating acquired businesses to your systems - often the most challenging and critical integration element.</li>
         <li><strong>Centralized vs. local functions:</strong> Which functions (HR, accounting, procurement, marketing) will centralize and which remain local?</li>
-        <li><strong>Leadership structure:</strong> How will acquired business leaders fit into your organization—regional managers, division presidents, or exited entirely?</li>
+        <li><strong>Leadership structure:</strong> How will acquired business leaders fit into your organization - regional managers, division presidents, or exited entirely?</li>
         <li><strong>Performance management:</strong> Consistent metrics, reporting cadence, and accountability systems across all locations.</li>
         <li><strong>Best practice sharing:</strong> Mechanisms for identifying and disseminating operational improvements across the organization.</li>
       </ul>
@@ -256,7 +256,7 @@ export default function IndustryFragmentationArticle() {
       <h2 className={h2Class}>Achieving Economies of Scale</h2>
 
       <p className={bodyClass}>
-        Economies of scale represent the fundamental economic rationale for consolidation. Understanding where scale creates value—and where it doesn't—is critical to successful execution.
+        Economies of scale represent the fundamental economic rationale for consolidation. Understanding where scale creates value - and where it doesn't - is critical to successful execution.
       </p>
 
       <h3 className={h3Class}>Purchasing and Procurement</h3>
@@ -273,7 +273,7 @@ export default function IndustryFragmentationArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Track purchasing savings carefully—they're often overestimated in acquisition underwriting and can take longer to realize than anticipated.
+        Track purchasing savings carefully - they're often overestimated in acquisition underwriting and can take longer to realize than anticipated.
       </p>
 
       <h3 className={h3Class}>Corporate Overhead Leverage</h3>
@@ -346,7 +346,7 @@ export default function IndustryFragmentationArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Communication frequency:</strong> Over-communicate during transitions—uncertainty breeds anxiety and resistance.</li>
+        <li><strong>Communication frequency:</strong> Over-communicate during transitions - uncertainty breeds anxiety and resistance.</li>
         <li><strong>Quick wins:</strong> Identify and celebrate early successes from integration to build momentum and credibility.</li>
         <li><strong>Respect local knowledge:</strong> Balance standardization with respect for practices that work well locally.</li>
         <li><strong>Leadership visibility:</strong> Platform leadership should visit acquired locations frequently during integration.</li>
@@ -361,7 +361,7 @@ export default function IndustryFragmentationArticle() {
 
       <ul className={ulClass}>
         <li><strong>Relationship mapping:</strong> Identify key customer relationships and ensure continuity during transitions.</li>
-        <li><strong>Service consistency:</strong> Maintain or improve service levels during integration—customers care about results, not internal changes.</li>
+        <li><strong>Service consistency:</strong> Maintain or improve service levels during integration - customers care about results, not internal changes.</li>
         <li><strong>Communication planning:</strong> Develop customer communication strategies that emphasize continuity and improvement.</li>
         <li><strong>Seller involvement:</strong> Consider transition services agreements where sellers help maintain key relationships.</li>
       </ul>
@@ -429,7 +429,7 @@ export default function IndustryFragmentationArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Work with lenders and investors who understand consolidation strategies—they'll provide more flexible structures and better partnership through the inevitable challenges.
+        Work with lenders and investors who understand consolidation strategies - they'll provide more flexible structures and better partnership through the inevitable challenges.
       </p>
 
       <h2 className={h2Class}>When to Pursue Consolidation</h2>
@@ -448,20 +448,20 @@ export default function IndustryFragmentationArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Conversely, avoid consolidation strategies if you're pursuing the platform business primarily as a consolidation vehicle rather than a strong standalone opportunity. Your platform must succeed independently—consolidation should enhance a good business, not rescue a mediocre one.
+        Conversely, avoid consolidation strategies if you're pursuing the platform business primarily as a consolidation vehicle rather than a strong standalone opportunity. Your platform must succeed independently - consolidation should enhance a good business, not rescue a mediocre one.
       </p>
 
       <h2 className={h2Class}>Key Takeaways</h2>
 
       <ul className={ulClass}>
         <li>Fragmented industries with concentration ratios below 40% often present the best consolidation opportunities for search fund entrepreneurs</li>
-        <li>Platform selection deserves extraordinary diligence—it sets the foundation for your entire consolidation strategy</li>
+        <li>Platform selection deserves extraordinary diligence - it sets the foundation for your entire consolidation strategy</li>
         <li>Add-on acquisitions follow different evaluation criteria, prioritizing strategic fit and integration ease over standalone quality</li>
         <li>Economies of scale in purchasing, overhead, technology, and marketing create value that independent operators cannot achieve</li>
-        <li>Integration challenges—particularly technology and culture—destroy more value than any other factor in roll-up strategies</li>
+        <li>Integration challenges - particularly technology and culture - destroy more value than any other factor in roll-up strategies</li>
         <li>Successful consolidators follow disciplined playbooks that balance standardization with local flexibility</li>
         <li>Roll-up strategies require sophisticated financing structures combining equity, acquisition lines, and seller financing</li>
-        <li>Your platform must succeed as a standalone business—consolidation enhances strong businesses but rarely rescues weak ones</li>
+        <li>Your platform must succeed as a standalone business - consolidation enhances strong businesses but rarely rescues weak ones</li>
       </ul>
 
       <h2 className={h2Class}>Related Articles</h2>

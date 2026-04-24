@@ -9,13 +9,13 @@ export default function BrokenDealArticle() {
       <div className={bodyClass}>
         <p>
           You&apos;ve spent months searching, weeks in due diligence, and thousands in professional
-          fees — and the deal falls apart. Whether it&apos;s a failed financing, a seller who gets
+          fees - and the deal falls apart. Whether it&apos;s a failed financing, a seller who gets
           cold feet, or due diligence findings that make the acquisition unworkable, broken deals
           are a painful but normal part of the search fund journey.
         </p>
         <p>
-          Approximately 40–50% of deals that reach LOI stage in SME acquisitions ultimately fail
-          to close. For search fund searchers, experiencing 1–2 broken deals before closing is
+          Approximately 40-50% of deals that reach LOI stage in SME acquisitions ultimately fail
+          to close. For search fund searchers, experiencing 1-2 broken deals before closing is
           typical. This guide covers how to manage the fallout, extract lessons, and restart your
           search effectively.
         </p>
@@ -37,7 +37,7 @@ export default function BrokenDealArticle() {
             </Link>{" "}
             like quality of earnings issues, undisclosed liabilities, legal problems, customer
             concentration, or environmental concerns. These are actually the &quot;best&quot;
-            reasons for a deal to fail — the process worked as designed.
+            reasons for a deal to fail - the process worked as designed.
           </li>
           <li>
             <strong>Financing falls through (20%):</strong> Lender pulls commitment, SBA underwriting
@@ -75,16 +75,16 @@ export default function BrokenDealArticle() {
         </p>
 
         <ul className={ulClass}>
-          <li><strong>Legal fees:</strong> $15,000–50,000 for due diligence and purchase agreement negotiation</li>
-          <li><strong>Quality of Earnings report:</strong> $15,000–40,000 (often the single largest cost)</li>
-          <li><strong>Environmental assessments:</strong> $2,000–5,000 for Phase I ESA</li>
-          <li><strong>Other diligence costs:</strong> $2,000–10,000 (IT audits, market research, consulting)</li>
-          <li><strong>Travel expenses:</strong> $2,000–5,000 for site visits, meetings, and closing preparation</li>
-          <li><strong>Opportunity cost:</strong> 2–4 months of time that could have been spent sourcing other deals</li>
+          <li><strong>Legal fees:</strong> $15,000-50,000 for due diligence and purchase agreement negotiation</li>
+          <li><strong>Quality of Earnings report:</strong> $15,000-40,000 (often the single largest cost)</li>
+          <li><strong>Environmental assessments:</strong> $2,000-5,000 for Phase I ESA</li>
+          <li><strong>Other diligence costs:</strong> $2,000-10,000 (IT audits, market research, consulting)</li>
+          <li><strong>Travel expenses:</strong> $2,000-5,000 for site visits, meetings, and closing preparation</li>
+          <li><strong>Opportunity cost:</strong> 2-4 months of time that could have been spent sourcing other deals</li>
         </ul>
 
         <p>
-          <strong>Total typical cost: $35,000–100,000 per broken deal.</strong> This is why managing
+          <strong>Total typical cost: $35,000-100,000 per broken deal.</strong> This is why managing
           your{" "}
           <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
             financial runway
@@ -106,7 +106,7 @@ export default function BrokenDealArticle() {
           <li><strong>Self-doubt:</strong> &quot;Did I miss something? Am I cut out for this?&quot;</li>
           <li><strong>Frustration with the process:</strong> Feeling like the system is broken or unfair</li>
           <li><strong>Decision paralysis:</strong> Becoming overly cautious on the next deal, finding reasons to say no to everything</li>
-          <li><strong>Desperation:</strong> The opposite reaction — rushing into the next deal to avoid &quot;wasting more time&quot;</li>
+          <li><strong>Desperation:</strong> The opposite reaction - rushing into the next deal to avoid &quot;wasting more time&quot;</li>
         </ul>
 
         <p>
@@ -154,18 +154,18 @@ export default function BrokenDealArticle() {
 
       <div className={bodyClass}>
         <p>
-          Within 1–2 weeks of deal termination, conduct a structured post-mortem analysis.
+          Within 1-2 weeks of deal termination, conduct a structured post-mortem analysis.
           The goal is honest assessment, not self-flagellation:
         </p>
 
         <ol className={olClass}>
           <li><strong>Timeline reconstruction:</strong> Document key dates, decisions, and inflection points</li>
-          <li><strong>Red flag inventory:</strong> List all warning signs — both those you caught and those you missed</li>
+          <li><strong>Red flag inventory:</strong> List all warning signs - both those you caught and those you missed</li>
           <li><strong>Decision analysis:</strong> Evaluate key decisions. Would you make them again with the same information?</li>
           <li><strong>Process assessment:</strong> What worked well in your diligence process? What gaps existed?</li>
           <li><strong>Relationship review:</strong> How did communication with seller, advisors, and investors evolve?</li>
           <li><strong>Financial audit:</strong> Track all costs for future budgeting</li>
-          <li><strong>Lesson codification:</strong> Write down 3–5 specific, actionable takeaways</li>
+          <li><strong>Lesson codification:</strong> Write down 3-5 specific, actionable takeaways</li>
         </ol>
       </div>
 
@@ -236,7 +236,7 @@ export default function BrokenDealArticle() {
         <p>Don&apos;t immediately jump back into sourcing:</p>
 
         <ul className={ulClass}>
-          <li><strong>1–2 weeks minimum:</strong> Take real time off to recover</li>
+          <li><strong>1-2 weeks minimum:</strong> Take real time off to recover</li>
           <li><strong>Complete your post-mortem:</strong> Update search criteria before re-engaging the market</li>
           <li><strong>Meet with key investors:</strong> Debrief, realign, and confirm continued support</li>
           <li><strong>Pipeline audit:</strong> Review existing pipeline for opportunities you neglected while focused on the broken deal</li>
@@ -252,7 +252,7 @@ export default function BrokenDealArticle() {
 
       <div className={bodyClass}>
         <ol className={olClass}>
-          <li><strong>Recommit to volume:</strong> Get back to 10–15 new outreach calls per day to rebuild your{" "}
+          <li><strong>Recommit to volume:</strong> Get back to 10-15 new outreach calls per day to rebuild your{" "}
             <Link href="/learn/deal-funnel-metrics" className="text-apple-accent hover:underline">
               deal funnel
             </Link>
@@ -270,11 +270,11 @@ export default function BrokenDealArticle() {
         <p>Common overcorrections to watch for:</p>
 
         <ul className={ulClass}>
-          <li>If the last deal failed on valuation — don&apos;t lowball every subsequent opportunity</li>
-          <li>If the seller backed out — don&apos;t assume every seller is unreliable</li>
-          <li>If diligence revealed issues — don&apos;t become paralyzed by every minor concern</li>
-          <li>If the deal was too complex — don&apos;t only pursue overly simple businesses that lack growth potential</li>
-          <li>If financing fell through — don&apos;t avoid good deals requiring creative capital structures</li>
+          <li>If the last deal failed on valuation - don&apos;t lowball every subsequent opportunity</li>
+          <li>If the seller backed out - don&apos;t assume every seller is unreliable</li>
+          <li>If diligence revealed issues - don&apos;t become paralyzed by every minor concern</li>
+          <li>If the deal was too complex - don&apos;t only pursue overly simple businesses that lack growth potential</li>
+          <li>If financing fell through - don&apos;t avoid good deals requiring creative capital structures</li>
         </ul>
 
         <p>
@@ -302,7 +302,7 @@ export default function BrokenDealArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Price disagreements within range:</strong> A 10–15% valuation gap is often negotiable with creative structuring</li>
+          <li><strong>Price disagreements within range:</strong> A 10-15% valuation gap is often negotiable with creative structuring</li>
           <li><strong>Seller anxiety:</strong> Cold feet can be resolved with reassurance, extended timelines, or earnout provisions</li>
           <li><strong>Third-party delays:</strong> Consent approvals taking longer but still achievable</li>
           <li><strong>Remediable issues:</strong> Problems found in diligence that can be fixed pre- or post-closing</li>
@@ -310,7 +310,7 @@ export default function BrokenDealArticle() {
         </ul>
 
         <p>
-          Great deals aren&apos;t perfect — they&apos;re good deals with solvable problems.
+          Great deals aren&apos;t perfect - they&apos;re good deals with solvable problems.
           Learning to distinguish solvable from fatal is what separates successful searchers.
         </p>
       </div>
@@ -323,11 +323,11 @@ export default function BrokenDealArticle() {
         </p>
 
         <ul className={ulClass}>
-          <li>Searchers review <strong>80–100+ companies</strong> on average before closing an acquisition</li>
-          <li><strong>5–10%</strong> of companies reviewed reach LOI stage</li>
-          <li><strong>50–60%</strong> of LOIs result in a closed transaction</li>
-          <li>The average successful search takes <strong>18–24 months</strong></li>
-          <li><strong>25–30%</strong> of traditional search funds do not complete an acquisition (Stanford GSB, 2024)</li>
+          <li>Searchers review <strong>80-100+ companies</strong> on average before closing an acquisition</li>
+          <li><strong>5-10%</strong> of companies reviewed reach LOI stage</li>
+          <li><strong>50-60%</strong> of LOIs result in a closed transaction</li>
+          <li>The average successful search takes <strong>18-24 months</strong></li>
+          <li><strong>25-30%</strong> of traditional search funds do not complete an acquisition (Stanford GSB, 2024)</li>
         </ul>
 
         <p>
@@ -344,11 +344,11 @@ export default function BrokenDealArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Broken deals are normal:</strong> 40–50% of LOIs don&apos;t close. Budget for it financially and emotionally.</li>
+          <li><strong>Broken deals are normal:</strong> 40-50% of LOIs don&apos;t close. Budget for it financially and emotionally.</li>
           <li><strong>Stage your diligence costs:</strong> Address likely deal-killers before spending on expensive QoE reports.</li>
           <li><strong>Conduct a post-mortem:</strong> Every broken deal contains lessons. Document them systematically.</li>
           <li><strong>Communicate transparently:</strong> Your reputation with investors, brokers, and sellers depends on how you handle failures.</li>
-          <li><strong>Take time to recover:</strong> 1–2 weeks off prevents desperation or paralysis on the next deal.</li>
+          <li><strong>Take time to recover:</strong> 1-2 weeks off prevents desperation or paralysis on the next deal.</li>
           <li><strong>Adjust, don&apos;t overcorrect:</strong> Refine your criteria and process based on specific lessons, not emotional reactions.</li>
         </ul>
       </div>
@@ -359,27 +359,27 @@ export default function BrokenDealArticle() {
         <li>
           <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
             Searcher Psychology: Managing Stress, Uncertainty & Isolation
-          </Link>{" "}— Mental health strategies for the search journey
+          </Link>{" "}- Mental health strategies for the search journey
         </li>
         <li>
           <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">
             Red Flags in Due Diligence: When to Walk Away
-          </Link>{" "}— Early warning signs
+          </Link>{" "}- Early warning signs
         </li>
         <li>
           <Link href="/learn/exclusivity-agreement" className="text-apple-accent hover:underline">
             Exclusivity Agreements in M&A
-          </Link>{" "}— Managing the exclusivity period effectively
+          </Link>{" "}- Managing the exclusivity period effectively
         </li>
         <li>
           <Link href="/learn/deal-funnel-metrics" className="text-apple-accent hover:underline">
             Deal Funnel Metrics: Tracking Your Deal Flow
-          </Link>{" "}— Understanding normal conversion rates
+          </Link>{" "}- Understanding normal conversion rates
         </li>
         <li>
           <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">
             What Happens If You Don&apos;t Acquire a Company?
-          </Link>{" "}— Career paths for searchers who don&apos;t close
+          </Link>{" "}- Career paths for searchers who don&apos;t close
         </li>
       </ul>
 

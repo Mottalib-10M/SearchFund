@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
     title: "Free ETA Tools & Calculators | SearchFundMarket",
-    description: `${tools.length} free interactive tools for search fund entrepreneurs — EBITDA multiples, capital planning, cap table simulation, LBO modeling, and business valuation.`,
+    description: `${tools.length} free interactive tools for search fund entrepreneurs - EBITDA multiples, capital planning, cap table simulation, LBO modeling, and business valuation.`,
     alternates: { canonical: `${BASE}/${locale}/tools` },
   };
 }

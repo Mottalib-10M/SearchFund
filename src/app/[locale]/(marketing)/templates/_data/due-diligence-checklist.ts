@@ -4,25 +4,25 @@ export const dueDiligenceChecklist: TemplateMeta = {
   slug: "due-diligence-checklist",
   title: "Due Diligence Checklist for Small Business Acquisitions",
   description:
-    "A comprehensive due diligence checklist across 8 dimensions — financial, legal, tax, commercial, operational, HR, IT, and ESG — tailored for search fund and SME acquisitions.",
+    "A comprehensive due diligence checklist across 8 dimensions - financial, legal, tax, commercial, operational, HR, IT, and ESG - tailored for search fund and SME acquisitions.",
   phase: "acquire",
   datePublished: "2025-03-15",
   dateModified: "2025-06-10",
   sources: [
     {
-      name: "Stanford Graduate School of Business — A Primer on Search Funds (2023)",
+      name: "Stanford Graduate School of Business - A Primer on Search Funds (2023)",
       url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer",
     },
     {
-      name: "AICPA — Quality of Earnings Guidance",
+      name: "AICPA - Quality of Earnings Guidance",
       url: "https://www.aicpa.org",
     },
     {
-      name: "Harvard Business Review — Guide to Buying a Small Business (2017)",
+      name: "Harvard Business Review - Guide to Buying a Small Business (2017)",
       url: "https://hbr.org/product/hbr-guide-to-buying-a-small-business/10103-PBK-ENG",
     },
     {
-      name: "Searchfunder.com — Due Diligence Best Practices",
+      name: "Searchfunder.com - Due Diligence Best Practices",
       url: "https://searchfunder.com",
     },
   ],
@@ -53,7 +53,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
 <h2>How to Use This Checklist</h2>
 <p>
   This due diligence checklist covers 8 key dimensions that a search fund entrepreneur or SME acquirer should
-  investigate before closing an acquisition. Not every item will apply to every deal — adapt the checklist to your
+  investigate before closing an acquisition. Not every item will apply to every deal - adapt the checklist to your
   target company's industry, size, and jurisdiction.
 </p>
 <p>
@@ -63,7 +63,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
 </p>
 <p>
   <strong>Pro tip:</strong> Set up a virtual data room (VDR) early and organize documents by these categories.
-  Most deals require 4–8 weeks of diligence. Start with financial DD and the Quality of Earnings analysis, as
+  Most deals require 4-8 weeks of diligence. Start with financial DD and the Quality of Earnings analysis, as
   these drive the most deal-critical insights.
 </p>
 
@@ -75,15 +75,15 @@ export const dueDiligenceChecklist: TemplateMeta = {
 
 <h3>Documents to Request</h3>
 <ul>
-  <li>Audited or reviewed financial statements (3–5 years)</li>
+  <li>Audited or reviewed financial statements (3-5 years)</li>
   <li>Monthly P&amp;L, balance sheet, and cash flow statements (trailing 24 months)</li>
-  <li>Tax returns (3–5 years, all entities)</li>
+  <li>Tax returns (3-5 years, all entities)</li>
   <li>General ledger and chart of accounts</li>
   <li>Accounts receivable aging report (current + trailing 12 months)</li>
   <li>Accounts payable aging report</li>
   <li>Inventory listing and valuation methodology</li>
   <li>Capital expenditure schedule (historical and planned)</li>
-  <li>Debt schedule — all outstanding loans, lines of credit, and leases</li>
+  <li>Debt schedule - all outstanding loans, lines of credit, and leases</li>
   <li>Revenue by customer, product/service, and geography (trailing 3 years)</li>
 </ul>
 
@@ -154,7 +154,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
 
 <h3>Documents to Request</h3>
 <ul>
-  <li>Federal, state, and local tax returns (3–5 years)</li>
+  <li>Federal, state, and local tax returns (3-5 years)</li>
   <li>Sales and use tax filings and nexus analysis</li>
   <li>Payroll tax filings (940, 941 in the US)</li>
   <li>Any IRS or tax authority correspondence, audits, or notices</li>
@@ -201,12 +201,12 @@ export const dueDiligenceChecklist: TemplateMeta = {
 
 <h3>Key Questions</h3>
 <ul>
-  <li>What is the customer retention rate over the past 3–5 years?</li>
+  <li>What is the customer retention rate over the past 3-5 years?</li>
   <li>How does the company win new business? (inbound vs. outbound, referrals vs. marketing)</li>
   <li>What is the competitive landscape and the company's sustainable differentiation?</li>
   <li>Are there obvious expansion opportunities (new geographies, products, adjacencies)?</li>
   <li>What would happen to revenue if the owner/founder left?</li>
-  <li>Conduct reference calls with 5–10 key customers (with seller permission)</li>
+  <li>Conduct reference calls with 5-10 key customers (with seller permission)</li>
 </ul>
 
 <h3>Red Flags</h3>
@@ -249,7 +249,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
   <li>Single-source suppliers with no backup</li>
   <li>Aging equipment requiring near-term replacement</li>
   <li>Facility leases expiring within 12 months of closing</li>
-  <li>No documented processes — everything lives in people's heads</li>
+  <li>No documented processes - everything lives in people's heads</li>
 </ul>
 
 <h2>6. Human Resources Due Diligence</h2>
@@ -362,14 +362,14 @@ export const dueDiligenceChecklist: TemplateMeta = {
 
 <h2>Due Diligence Timeline</h2>
 <p>
-  A typical DD process for a $1–10M EBITDA acquisition takes 4–8 weeks. Here is a recommended sequencing:
+  A typical DD process for a $1-10M EBITDA acquisition takes 4-8 weeks. Here is a recommended sequencing:
 </p>
 <ul>
-  <li><strong>Week 1–2:</strong> Financial DD and QoE engagement. Begin legal document review. Set up VDR.</li>
-  <li><strong>Week 2–3:</strong> Tax DD. Commercial DD (customer calls). HR review.</li>
-  <li><strong>Week 3–4:</strong> Operational site visits. IT assessment. Environmental review.</li>
-  <li><strong>Week 4–6:</strong> QoE report delivery. Working capital analysis. Final legal review.</li>
-  <li><strong>Week 5–8:</strong> Resolve open issues. Negotiate purchase agreement adjustments. Pre-closing preparations.</li>
+  <li><strong>Week 1-2:</strong> Financial DD and QoE engagement. Begin legal document review. Set up VDR.</li>
+  <li><strong>Week 2-3:</strong> Tax DD. Commercial DD (customer calls). HR review.</li>
+  <li><strong>Week 3-4:</strong> Operational site visits. IT assessment. Environmental review.</li>
+  <li><strong>Week 4-6:</strong> QoE report delivery. Working capital analysis. Final legal review.</li>
+  <li><strong>Week 5-8:</strong> Resolve open issues. Negotiate purchase agreement adjustments. Pre-closing preparations.</li>
 </ul>
 
 <div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mt-10">

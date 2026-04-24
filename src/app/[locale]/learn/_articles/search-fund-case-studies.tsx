@@ -13,7 +13,7 @@ export default function SearchFundCaseStudiesArticle() {
       </div>
 
       <p className={bodyClass}>
-        The best way to learn about search funds is to study real deals—both successes and failures. While most search fund transactions remain confidential, the patterns that emerge from documented cases provide invaluable insights for aspiring searchers, investors, and anyone interested in entrepreneurship through acquisition.
+        The best way to learn about search funds is to study real deals - both successes and failures. While most search fund transactions remain confidential, the patterns that emerge from documented cases provide invaluable insights for aspiring searchers, investors, and anyone interested in entrepreneurship through acquisition.
       </p>
 
       <p className={bodyClass}>
@@ -248,7 +248,7 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>Key Lessons</h3>
 
       <ul className={ulClass}>
-        <li><strong>SBA leverage risk:</strong> High debt load creates stress during operational challenges—less room for error than equity-backed deals</li>
+        <li><strong>SBA leverage risk:</strong> High debt load creates stress during operational challenges - less room for error than equity-backed deals</li>
         <li><strong>Operations matter more:</strong> Without investor board support, Marcus had to build operational expertise himself or hire it</li>
         <li><strong>Faster decision-making:</strong> No investor approvals meant Marcus could act quickly on hires, small acquisitions, and strategic pivots</li>
         <li><strong>Cash flow discipline:</strong> Debt service forced financial discipline that equity-backed searchers sometimes lack</li>
@@ -344,7 +344,7 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Two-person team:</strong> Shared burden of CEO role valuable during stressful periods; required clear division of responsibilities</li>
       </ul>
 
-      <h2 className={h2Class}>Case Study 4: A Failed Search — Lessons Learned</h2>
+      <h2 className={h2Class}>Case Study 4: A Failed Search - Lessons Learned</h2>
 
       <h3 className={h3Class}>The Searcher</h3>
 
@@ -355,12 +355,12 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>The Search Process</h3>
 
       <p className={bodyClass}>
-        David's search lasted 26 months—longer than planned. Warning signs emerged:
+        David's search lasted 26 months - longer than planned. Warning signs emerged:
       </p>
 
       <ul className={ulClass}>
         <li><strong>Analysis paralysis:</strong> David's finance background led him to over-model deals, struggling to make decisions with imperfect information</li>
-        <li><strong>Unrealistic criteria:</strong> Sought "perfect" businesses with 20%+ EBITDA margins, zero customer concentration, and fragmented industries—very rare combination</li>
+        <li><strong>Unrealistic criteria:</strong> Sought "perfect" businesses with 20%+ EBITDA margins, zero customer concentration, and fragmented industries - very rare combination</li>
         <li><strong>Geography constraints:</strong> Insisted on staying in San Francisco; unwilling to relocate despite better opportunities elsewhere</li>
         <li><strong>Investor patience:</strong> By month 22, several investors were pressuring David to close a deal</li>
       </ul>
@@ -403,14 +403,14 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Month 13-18:</strong> Attempted sale to strategic buyer fell through during diligence. Eventually sold assets to competitor for $2.1M—not enough to repay senior debt. Investors lost 100% of equity. David personally liable for remaining SBA loan balance ($400K after asset sale).
+        <strong>Month 13-18:</strong> Attempted sale to strategic buyer fell through during diligence. Eventually sold assets to competitor for $2.1M - not enough to repay senior debt. Investors lost 100% of equity. David personally liable for remaining SBA loan balance ($400K after asset sale).
       </p>
 
       <h3 className={h3Class}>Post-Mortem: What Went Wrong</h3>
 
       <ul className={ulClass}>
         <li><strong>Confirmation bias:</strong> David talked himself into a marginal deal because he felt pressure to deploy capital</li>
-        <li><strong>Industry selection:</strong> Digital marketing is fast-changing, talent-dependent, and commoditizing—poor fit for search fund model</li>
+        <li><strong>Industry selection:</strong> Digital marketing is fast-changing, talent-dependent, and commoditizing - poor fit for search fund model</li>
         <li><strong>Ignored red flags:</strong> Revenue decline, customer concentration, and employee turnover all visible in diligence</li>
         <li><strong>Insufficient industry expertise:</strong> David had no marketing background; couldn't add value or troubleshoot problems</li>
         <li><strong>Cultural mismatch:</strong> Finance professional struggled to manage creative agency culture</li>
@@ -481,7 +481,7 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Year 2:</strong> Completed first tuck-in acquisition—a competitor in Nashville for $1.8M (3.5x EBITDA on $850K EBITDA). Combined revenue: $16.5M, EBITDA $3.8M. Achieved $200K in cost synergies (eliminated duplicate overhead).
+        <strong>Year 2:</strong> Completed first tuck-in acquisition - a competitor in Nashville for $1.8M (3.5x EBITDA on $850K EBITDA). Combined revenue: $16.5M, EBITDA $3.8M. Achieved $200K in cost synergies (eliminated duplicate overhead).
       </p>
 
       <p className={bodyClass}>
@@ -498,7 +498,7 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Year 4:</strong> Completed largest add-on acquisition—a Chattanooga competitor with $6M revenue and $1.3M EBITDA for $5.5M (4.2x). This acquisition included truck assets, which Jennifer decided to keep rather than convert to pure broker model (strategic shift to hybrid model).
+        <strong>Year 4:</strong> Completed largest add-on acquisition - a Chattanooga competitor with $6M revenue and $1.3M EBITDA for $5.5M (4.2x). This acquisition included truck assets, which Jennifer decided to keep rather than convert to pure broker model (strategic shift to hybrid model).
       </p>
 
       <p className={bodyClass}>
@@ -673,7 +673,7 @@ export default function SearchFundCaseStudiesArticle() {
       <ul className={ulClass}>
         <li>Lack of sales skills in businesses where revenue growth is critical</li>
         <li>Inability to manage blue-collar workforce or field operations</li>
-        <li>Analysis paralysis—over-modeling instead of decisive action</li>
+        <li>Analysis paralysis - over-modeling instead of decisive action</li>
         <li>Cultural mismatch between operator personality and business culture</li>
       </ul>
 
@@ -780,7 +780,7 @@ export default function SearchFundCaseStudiesArticle() {
       </ul>
 
       <p className={bodyClass}>
-        As you pursue your own search fund journey, return to these cases. Each time you face a critical decision—whether to submit an LOI, how to structure a deal, how to respond to a crisis—ask yourself: "What would Sarah, Marcus, Anna, Thomas, Jennifer, or David have done? What can I learn from their successes and failures?"
+        As you pursue your own search fund journey, return to these cases. Each time you face a critical decision - whether to submit an LOI, how to structure a deal, how to respond to a crisis - ask yourself: "What would Sarah, Marcus, Anna, Thomas, Jennifer, or David have done? What can I learn from their successes and failures?"
       </p>
 
       <p className={bodyClass}>

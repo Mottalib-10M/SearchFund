@@ -25,7 +25,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
 
       <p className={bodyClass}>
         Working capital adjustments represent one of the most frequently
-        negotiated—and misunderstood—components of acquisition transactions. For
+        negotiated - and misunderstood - components of acquisition transactions. For
         search fund entrepreneurs, understanding how to properly structure,
         calculate, and negotiate these adjustments can mean the difference
         between securing favorable deal economics and leaving substantial value
@@ -47,7 +47,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
 
       <p className={bodyClass}>
         Net working capital (NWC) represents the operational liquidity of a
-        business—the cushion of current assets over current liabilities that
+        business - the cushion of current assets over current liabilities that
         enables day-to-day operations. In acquisition contexts, NWC is typically
         defined as current assets minus current liabilities, though specific
         definitions vary significantly by transaction.
@@ -700,7 +700,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         <li>
           <strong>Baseball Arbitration:</strong> Each party submits its proposed
           working capital figure, and the arbitrator must choose one or the
-          other—no splitting the difference. This encourages reasonable
+          other - no splitting the difference. This encourages reasonable
           positions.
         </li>
         <li>
@@ -730,7 +730,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
       <ul className={ulClass}>
         <li>
           <strong>Analyze Historical Working Capital Trends:</strong> Don't just
-          look at averages—understand the drivers of working capital
+          look at averages - understand the drivers of working capital
           fluctuations. Is seasonality predictable? Are there structural trends?
           Your{" "}
           <Link
@@ -824,7 +824,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
       <h2 className={h2Class}>Integration with Other Deal Terms</h2>
 
       <p className={bodyClass}>
-        Working capital adjustments don't exist in isolation—they interact with
+        Working capital adjustments don't exist in isolation - they interact with
         other deal provisions in important ways.
       </p>
 
@@ -959,7 +959,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
           renegotiate price
         </li>
         <li>
-          Frame it as mutual protection—ensures both parties receive fair value
+          Frame it as mutual protection - ensures both parties receive fair value
         </li>
         <li>
           Consider engaging the seller's accountant to help explain the concepts
@@ -983,7 +983,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         </li>
         <li>
           <strong>Minimum Cash Delivery:</strong> Forget complex working capital
-          calculations—just require seller to leave $X in the bank account at
+          calculations - just require seller to leave $X in the bank account at
           closing. Works for businesses with minimal receivables/inventory.
         </li>
         <li>
@@ -1050,7 +1050,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
       <ul className={ulClass}>
         <li>
           American Bar Association, <em>Model Asset Purchase Agreement</em> (3rd
-          ed. 2016) — Section 2.5 (Purchase Price Adjustment)
+          ed. 2016) - Section 2.5 (Purchase Price Adjustment)
         </li>
         <li>
           Robert T. Hawley, "Working Capital Adjustments in M&amp;A
@@ -1073,7 +1073,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
           <em>Working Capital in M&amp;A: Key Considerations</em> (2020)
         </li>
         <li>
-          SRS Acquiom, <em>M&amp;A Deal Terms Study</em> (2023) — Analysis of
+          SRS Acquiom, <em>M&amp;A Deal Terms Study</em> (2023) - Analysis of
           working capital provisions in 1,200+ transactions
         </li>
         <li>
@@ -1096,7 +1096,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Working Capital Management for New Owners
             </Link>{" "}
-            — Strategies for optimizing working capital post-acquisition
+ - Strategies for optimizing working capital post-acquisition
           </li>
           <li>
             <Link
@@ -1105,7 +1105,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Quality of Earnings Analysis
             </Link>{" "}
-            — How to analyze working capital during diligence
+ - How to analyze working capital during diligence
           </li>
           <li>
             <Link
@@ -1114,7 +1114,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Letter of Intent Strategy
             </Link>{" "}
-            — Addressing working capital in preliminary agreements
+ - Addressing working capital in preliminary agreements
           </li>
         </ul>
       </div>

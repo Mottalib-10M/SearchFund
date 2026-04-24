@@ -88,7 +88,7 @@ export function SignInForm() {
       </form>
 
       <p className="text-center text-xs text-apple-gray-500 mt-4">
-        We&apos;ll send you a secure link to sign in — no password needed.
+        We&apos;ll send you a secure link to sign in - no password needed.
       </p>
 
       {/* Bottom link */}

@@ -90,11 +90,11 @@ export default function SettingsPage() {
     persist({ [key]: next });
   };
 
-  const userEmail = session?.user?.email ?? "—";
+  const userEmail = session?.user?.email ?? " - ";
   const userRole = (session?.user as Record<string, unknown>)?.role as string | undefined;
   const roleLabel = userRole
     ? userRole.charAt(0) + userRole.slice(1).toLowerCase()
-    : "—";
+    : " - ";
 
   if (!loaded) {
     return (

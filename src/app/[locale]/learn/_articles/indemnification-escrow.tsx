@@ -27,7 +27,7 @@ export default function IndemnificationEscrowArticle() {
       <h3 className={h3Class}>Why Indemnification Matters</h3>
 
       <p className={bodyClass}>
-        Unlike public company stock purchases where buyers typically rely on securities laws and disclosure requirements, private M&A transactions depend heavily on negotiated representations, warranties, and indemnification provisions. The seller makes specific promises about the business in the purchase agreement—from the accuracy of financial statements to the absence of pending litigation—and indemnification provides the mechanism to make the buyer whole if those promises prove false.
+        Unlike public company stock purchases where buyers typically rely on securities laws and disclosure requirements, private M&A transactions depend heavily on negotiated representations, warranties, and indemnification provisions. The seller makes specific promises about the business in the purchase agreement - from the accuracy of financial statements to the absence of pending litigation - and indemnification provides the mechanism to make the buyer whole if those promises prove false.
       </p>
 
       <p className={bodyClass}>
@@ -82,7 +82,7 @@ export default function IndemnificationEscrowArticle() {
         <li><strong>Fundamental Representations:</strong> Longer periods (often 3-5 years or indefinite) for critical matters like ownership, authority, and capitalization</li>
         <li><strong>Tax Representations:</strong> Aligned with statute of limitations (typically 3-4 years, sometimes up to 6 years for certain tax matters)</li>
         <li><strong>Environmental Representations:</strong> Extended periods (3-5 years) reflecting the long-tail nature of environmental liabilities</li>
-        <li><strong>Fraud and Intentional Misrepresentation:</strong> Unlimited survival—no time limit on claims involving intentional misconduct</li>
+        <li><strong>Fraud and Intentional Misrepresentation:</strong> Unlimited survival with no time limit on claims involving intentional misconduct</li>
       </ul>
 
       <h3 className={h3Class}>Negotiating Survival Periods</h3>
@@ -126,7 +126,7 @@ export default function IndemnificationEscrowArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Deductible (Dollar-One) Basket:</strong> The seller is liable only for losses exceeding the basket amount. The basket functions like an insurance deductible—the buyer absorbs losses up to the threshold, and the seller pays only the excess.
+        <strong>Deductible (Dollar-One) Basket:</strong> The seller is liable only for losses exceeding the basket amount. The basket functions like an insurance deductible: the buyer absorbs losses up to the threshold, and the seller pays only the excess.
       </p>
 
       <p className={bodyClass}>
@@ -239,7 +239,7 @@ export default function IndemnificationEscrowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Escrow provides buyers with a readily accessible pool of funds to satisfy indemnification claims without pursuing collection against the seller personally—a significant advantage if the seller is judgment-proof or difficult to locate post-closing.
+        Escrow provides buyers with a readily accessible pool of funds to satisfy indemnification claims without pursuing collection against the seller personally, which is a significant advantage if the seller is judgment-proof or difficult to locate post-closing.
       </p>
 
       <h3 className={h3Class}>Typical Escrow Amounts and Periods</h3>
@@ -440,7 +440,7 @@ export default function IndemnificationEscrowArticle() {
       <h2 className={h2Class}>Integration with Overall Deal Structure</h2>
 
       <p className={bodyClass}>
-        Indemnification and escrow don't exist in isolation—they're integral to your overall deal structure and risk allocation framework.
+        Indemnification and escrow don't exist in isolation; they're integral to your overall deal structure and risk allocation framework.
       </p>
 
       <h3 className={h3Class}>Connection to Reps and Warranties</h3>
@@ -458,7 +458,7 @@ export default function IndemnificationEscrowArticle() {
       <h3 className={h3Class}>Closing Conditions and Letter of Intent</h3>
 
       <p className={bodyClass}>
-        Indemnification terms are typically outlined at the <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link> stage and refined during definitive agreement negotiations. Setting appropriate expectations early—including escrow percentages and survival periods—prevents surprises and maintains deal momentum through the <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing process</Link>.
+        Indemnification terms are typically outlined at the <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link> stage and refined during definitive agreement negotiations. Setting appropriate expectations early, including escrow percentages and survival periods, prevents surprises and maintains deal momentum through the <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing process</Link>.
       </p>
 
       <h3 className={h3Class}>Overall Deal Structure Optimization</h3>
@@ -543,15 +543,15 @@ export default function IndemnificationEscrowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Remember that indemnification provisions don't exist to defeat deals—they exist to allocate risk fairly and provide recourse when things go wrong. Sellers who balk at reasonable indemnification protections may be signaling undisclosed concerns about the business. Conversely, sellers confident in their disclosures typically accept market-standard protections without extensive resistance.
+        Remember that indemnification provisions don't exist to defeat deals; they exist to allocate risk fairly and provide recourse when things go wrong. Sellers who balk at reasonable indemnification protections may be signaling undisclosed concerns about the business. Conversely, sellers confident in their disclosures typically accept market-standard protections without extensive resistance.
       </p>
 
       <p className={bodyClass}>
-        Work closely with experienced M&A counsel who understand lower middle market dynamics and search fund transactions. While legal fees may seem expensive, the cost of inadequate indemnification protections can be exponentially higher. Your attorneys are your guides through this complex terrain—lean on their expertise.
+        Work closely with experienced M&A counsel who understand lower middle market dynamics and search fund transactions. While legal fees may seem expensive, the cost of inadequate indemnification protections can be exponentially higher. Your attorneys are your guides through this complex terrain, so lean on their expertise.
       </p>
 
       <p className={bodyClass}>
-        Finally, remember that the goal isn't to maximize every protection at all costs, but to achieve a balanced framework that protects your interests while allowing the deal to close. The best indemnification provisions are those you never need to invoke—but if you do need them, you'll be grateful for every hour spent negotiating robust protections.
+        Finally, remember that the goal isn't to maximize every protection at all costs, but to achieve a balanced framework that protects your interests while allowing the deal to close. The best indemnification provisions are those you never need to invoke, but if you do need them, you'll be grateful for every hour spent negotiating robust protections.
       </p>
 
       <p className={bodyClass}>
@@ -579,25 +579,25 @@ export default function IndemnificationEscrowArticle() {
 
       <ul className={ulClass}>
         <li>
-          American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em> (2nd ed. 2010) — Comprehensive guidance on indemnification provisions and market standards.
+          American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em> (2nd ed. 2010). Comprehensive guidance on indemnification provisions and market standards.
         </li>
         <li>
-          SRS Acquiom, <em>M&A Deal Terms Study</em> (2023) — Annual analysis of private M&A indemnification terms including basket amounts, caps, survival periods, and escrow structures across thousands of transactions.
+          SRS Acquiom, <em>M&A Deal Terms Study</em> (2023). Annual analysis of private M&A indemnification terms including basket amounts, caps, survival periods, and escrow structures across thousands of transactions.
         </li>
         <li>
-          American Bar Association, <em>Private Target M&A Deal Points Study</em> (2022) — Survey data on key indemnification terms in private company acquisitions.
+          American Bar Association, <em>Private Target M&A Deal Points Study</em> (2022). Survey data on key indemnification terms in private company acquisitions.
         </li>
         <li>
-          Woodruff Sawyer, <em>2023 Representations and Warranties Insurance Market Update</em> — Analysis of R&W insurance market trends, pricing, and policy terms.
+          Woodruff Sawyer, <em>2023 Representations and Warranties Insurance Market Update</em>. Analysis of R&W insurance market trends, pricing, and policy terms.
         </li>
         <li>
-          Practical Law, <em>Indemnification Provisions in Private Acquisition Agreements</em> (Thomson Reuters) — Detailed practice note covering indemnification mechanics and drafting considerations.
+          Practical Law, <em>Indemnification Provisions in Private Acquisition Agreements</em> (Thomson Reuters). Detailed practice note covering indemnification mechanics and drafting considerations.
         </li>
         <li>
-          Eisenhofer, Jay W., "Sandbagging: Default Rule and Underlying Policy," <em>Delaware Journal of Corporate Law</em>, Vol. 38, No. 3 (2014) — Academic analysis of sandbagging provisions and buyer knowledge issues.
+          Eisenhofer, Jay W., "Sandbagging: Default Rule and Underlying Policy," <em>Delaware Journal of Corporate Law</em>, Vol. 38, No. 3 (2014). Academic analysis of sandbagging provisions and buyer knowledge issues.
         </li>
         <li>
-          SRS Acquiom, <em>The Informed Investor's Guide to M&A Escrow</em> — Practical guide to escrow structures and administration.
+          SRS Acquiom, <em>The Informed Investor's Guide to M&A Escrow</em>. Practical guide to escrow structures and administration.
         </li>
       </ul>
     </article>

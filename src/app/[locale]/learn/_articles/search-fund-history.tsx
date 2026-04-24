@@ -435,7 +435,7 @@ export default function SearchFundHistoryArticle() {
           </li>
         </ul>
 
-        {/* ── H2 #8 — FAQ ──────────────────────────────── */}
+        {/* ── H2 #8 - FAQ ──────────────────────────────── */}
         <h2 className={h2Class}>
           Frequently Asked Questions
         </h2>

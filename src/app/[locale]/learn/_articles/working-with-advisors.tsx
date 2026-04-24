@@ -10,9 +10,9 @@ export default function WorkingWithAdvisorsArticle() {
       <div className={bodyClass}>
         <p>
           No searcher acquires a company alone. Behind every successful search
-          fund acquisition is a team of professional advisors — transaction
+          fund acquisition is a team of professional advisors - transaction
           attorneys, accountants, business brokers, and specialized consultants
-          — whose expertise is critical to navigating the legal, financial,
+ - whose expertise is critical to navigating the legal, financial,
           and operational complexities of buying a business. Yet many first-time
           searchers either hire advisors too late, choose based on price rather
           than fit, or fail to manage the advisory process effectively. This
@@ -30,7 +30,7 @@ export default function WorkingWithAdvisorsArticle() {
           stage. Ideally, you should have identified your attorney during the
           search phase, well before you find a deal, so that they are ready to
           move quickly when a target emerges. The LOI is a semi-binding legal
-          document that establishes the key deal terms — price, structure,
+          document that establishes the key deal terms - price, structure,
           exclusivity, and conditions. Having an attorney review the LOI before
           you sign it can prevent costly mistakes that are difficult to
           renegotiate later. From LOI through closing, your attorney will draft
@@ -47,8 +47,8 @@ export default function WorkingWithAdvisorsArticle() {
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>{" "}
           after signing the LOI. The QoE report is the financial backbone of your diligence
           process and will take 3-6 weeks to complete. Second, engage a tax
-          advisor early in the deal structuring process — ideally before the LOI
-          is signed — to ensure the deal structure (asset purchase vs. stock
+          advisor early in the deal structuring process - ideally before the LOI
+          is signed - to ensure the deal structure (asset purchase vs. stock
           purchase, entity selection, purchase price allocation) is optimized
           for tax efficiency. These may be the same firm or different firms
           depending on expertise.
@@ -57,7 +57,7 @@ export default function WorkingWithAdvisorsArticle() {
         <h3 className={h3Class}>Business broker or intermediary</h3>
         <p>
           Brokers enter the picture in two ways. Most commonly, the seller has
-          engaged a broker to represent them in the sale process — in this case,
+          engaged a broker to represent them in the sale process - in this case,
           the broker is the seller&apos;s representative and their fiduciary
           duty runs to the seller. Less commonly, a searcher may engage a
           buy-side advisor or intermediary to help source deals, particularly
@@ -85,7 +85,7 @@ export default function WorkingWithAdvisorsArticle() {
         <h3 className={h3Class}>Search fund experience</h3>
         <p>
           Advisors who have worked with search fund entrepreneurs before
-          understand the unique dynamics of the model — the investor board,
+          understand the unique dynamics of the model - the investor board,
           the stepped-up equity structure, the importance of speed (you are
           burning through search capital every month), and the typical
           post-acquisition governance structure. A growing number of law firms
@@ -204,7 +204,7 @@ export default function WorkingWithAdvisorsArticle() {
           major deliverable (QoE report, purchase agreement, tax analysis)
           personally and ensure you understand every material finding and
           recommendation. Your advisors should explain their work in plain
-          language — if they cannot, that is a red flag about either their
+          language - if they cannot, that is a red flag about either their
           communication skills or the quality of their analysis.
         </p>
 
@@ -234,7 +234,7 @@ export default function WorkingWithAdvisorsArticle() {
           accountant views as quantifiable and manageable. When advisors
           disagree, the searcher must synthesize the different perspectives,
           assess the risk in context, and make the final call. Facilitate a
-          direct conversation between the disagreeing advisors — often, the
+          direct conversation between the disagreeing advisors - often, the
           disagreement stems from different assumptions rather than
           fundamentally irreconcilable positions.
         </p>
@@ -246,7 +246,7 @@ export default function WorkingWithAdvisorsArticle() {
           corporate counsel for the acquired company. Your accountant becomes
           your audit and tax advisor. The broker who sourced your deal may
           source add-on acquisitions. Invest in these relationships beyond the
-          transaction — share updates on the business, refer other searchers,
+          transaction - share updates on the business, refer other searchers,
           and pay invoices promptly. The ETA community is small, and your
           reputation as a client matters.
         </p>
@@ -269,7 +269,7 @@ export default function WorkingWithAdvisorsArticle() {
         <h2 className={h2Class}>Regional differences: US vs. Europe</h2>
         <p>
           Advisory structures differ meaningfully between the US and European
-          markets. In the US, the transaction process is highly standardized —
+          markets. In the US, the transaction process is highly standardized - 
           purchase agreements follow well-established templates, QoE reports
           are nearly universal, and the role of each advisor is well-defined.
           European acquisitions involve additional complexity.
@@ -287,7 +287,7 @@ export default function WorkingWithAdvisorsArticle() {
           </li>
           <li>
             <strong>Tax advisory:</strong> Cross-border tax planning is more
-            complex — budget 20-40% more for European transactions.
+            complex - budget 20-40% more for European transactions.
           </li>
           <li>
             <strong>Broker landscape:</strong> Less developed than the US. Local
@@ -306,8 +306,8 @@ export default function WorkingWithAdvisorsArticle() {
           <li>
             <strong>Choosing on price alone:</strong> The cheapest attorney or
             QoE provider is rarely the best value. An experienced advisor who
-            costs 30% more but catches a material issue during diligence — or
-            negotiates a better deal structure — will pay for the premium many
+            costs 30% more but catches a material issue during diligence - or
+            negotiates a better deal structure - will pay for the premium many
             times over. A missed liability or poorly structured purchase
             agreement can cost you the entire investment.
           </li>
@@ -336,7 +336,7 @@ export default function WorkingWithAdvisorsArticle() {
 
         <h2 className={h2Class}>The bottom line</h2>
         <p>
-          Professional advisors are not optional in a search fund acquisition —
+          Professional advisors are not optional in a search fund acquisition - 
           they are essential. Total advisory costs for a typical deal ($30K-$80K
           legal, $20K-$60K accounting, plus any specialty advisors) represent
           a significant but necessary investment, typically 2-5% of the total

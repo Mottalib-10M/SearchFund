@@ -49,7 +49,7 @@ export default function DCFValuationSmallBusinessArticle() {
       <h1 className={h1Class}>{metadata.title}</h1>
 
       <p className={bodyClass}>
-        Discounted Cash Flow (DCF) analysis is one of the most theoretically sound valuation methods available, yet it remains underutilized in small business acquisitions. While most searchers rely on earnings multiples and comparable transactions, DCF offers a more nuanced approach that can uncover value others miss—or reveal overpricing that multiples obscure. This guide shows you how to apply DCF methodology to SME acquisitions with practical examples and real-world adjustments.
+        Discounted Cash Flow (DCF) analysis is one of the most theoretically sound valuation methods available, yet it remains underutilized in small business acquisitions. While most searchers rely on earnings multiples and comparable transactions, DCF offers a more nuanced approach that can uncover value others miss - or reveal overpricing that multiples obscure. This guide shows you how to apply DCF methodology to SME acquisitions with practical examples and real-world adjustments.
       </p>
 
       <h2 className={h2Class}>Why DCF Matters for Small Business Acquisitions</h2>
@@ -60,7 +60,7 @@ export default function DCFValuationSmallBusinessArticle() {
 
       <ul className={ulClass}>
         <li><strong>Transparency:</strong> Every assumption is visible and testable. You can't hide behind "the market says 5x EBITDA" when a DCF shows the business only generates enough cash to justify 3.5x.</li>
-        <li><strong>Flexibility:</strong> DCF accommodates businesses with unusual characteristics—rapid growth, declining industries, heavy CapEx requirements—that don't fit neatly into multiple-based frameworks.</li>
+        <li><strong>Flexibility:</strong> DCF accommodates businesses with unusual characteristics - rapid growth, declining industries, heavy CapEx requirements - that don't fit neatly into multiple-based frameworks.</li>
         <li><strong>Scenario analysis:</strong> By changing key inputs, you can model best-case, base-case, and worst-case scenarios to understand the range of potential outcomes and make more informed decisions.</li>
       </ul>
 
@@ -97,7 +97,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </ul>
 
       <p className={bodyClass}>
-        In practice, most sophisticated searchers use both methods: multiples for quick screening and market context, DCF for deep analysis of serious candidates. The two approaches should converge—if they don't, investigate why. Learn more about alternative approaches in our guide to <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation fundamentals</Link>.
+        In practice, most sophisticated searchers use both methods: multiples for quick screening and market context, DCF for deep analysis of serious candidates. The two approaches should converge - if they don't, investigate why. Learn more about alternative approaches in our guide to <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation fundamentals</Link>.
       </p>
 
       <h2 className={h2Class}>Building the Financial Projections</h2>
@@ -147,7 +147,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Operating leverage:</strong> As revenue grows, fixed costs (rent, insurance, base salaries) represent a smaller percentage of sales, expanding margins. However, this effect is limited in most SMEs—don't assume infinite margin expansion.</li>
+        <li><strong>Operating leverage:</strong> As revenue grows, fixed costs (rent, insurance, base salaries) represent a smaller percentage of sales, expanding margins. However, this effect is limited in most SMEs - don't assume infinite margin expansion.</li>
         <li><strong>Planned efficiencies:</strong> If you identified specific cost savings during due diligence (renegotiating a supplier contract, eliminating redundant software), model these explicitly with timing assumptions.</li>
         <li><strong>Investment requirements:</strong> If growth requires adding salespeople, expanding facilities, or other upfront costs, margins may compress before expanding. Model the full P&L impact, not just the revenue benefit.</li>
       </ul>
@@ -179,7 +179,7 @@ export default function DCFValuationSmallBusinessArticle() {
         <li><strong>Tax rate:</strong> Use the combined federal and state rate for the jurisdiction where the business operates. In the US, this is typically 25-30% for corporations, though flow-through entities may use the buyer's personal rate.</li>
         <li><strong>CapEx:</strong> Distinguish between maintenance CapEx (required to sustain current operations) and growth CapEx (required for expansion). Only maintenance CapEx should be deducted from steady-state FCF. For asset-light businesses, maintenance CapEx may be just 1-3% of revenue; for manufacturers, 4-7%.</li>
         <li><strong>Working capital:</strong> Model changes in accounts receivable, inventory, and accounts payable based on DSO, inventory turns, and DPO. Growing businesses consume cash; declining businesses release it. If you grow revenue 20% and DSO is 45 days, A/R increases proportionally.</li>
-        <li><strong>D&A add-back:</strong> Depreciation is a non-cash charge, so add it back to cash flow. However, ensure CapEx assumptions are sufficient to replace assets over time—D&A approximates long-term reinvestment needs.</li>
+        <li><strong>D&A add-back:</strong> Depreciation is a non-cash charge, so add it back to cash flow. However, ensure CapEx assumptions are sufficient to replace assets over time - D&A approximates long-term reinvestment needs.</li>
       </ul>
 
       <p className={bodyClass}>
@@ -289,13 +289,13 @@ export default function DCFValuationSmallBusinessArticle() {
       </div>
 
       <p className={bodyClass}>
-        For most search fund acquisitions with 60-70% equity, expect WACC in the 12-18% range. Higher growth, lower risk businesses trend toward 12-14%; slower growth, higher risk businesses toward 16-18%. Understanding valuation fundamentals helps contextualize these ranges—see our overview of <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation methods</Link>.
+        For most search fund acquisitions with 60-70% equity, expect WACC in the 12-18% range. Higher growth, lower risk businesses trend toward 12-14%; slower growth, higher risk businesses toward 16-18%. Understanding valuation fundamentals helps contextualize these ranges - see our overview of <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation methods</Link>.
       </p>
 
       <h2 className={h2Class}>Terminal Value Calculation</h2>
 
       <p className={bodyClass}>
-        Terminal value represents the present value of all cash flows beyond your explicit projection period. Since businesses theoretically operate in perpetuity, terminal value often accounts for 60-80% of total enterprise value in a DCF model—getting this right is critical.
+        Terminal value represents the present value of all cash flows beyond your explicit projection period. Since businesses theoretically operate in perpetuity, terminal value often accounts for 60-80% of total enterprise value in a DCF model - getting this right is critical.
       </p>
 
       <h3 className={h3Class}>Perpetuity Growth Method</h3>
@@ -314,7 +314,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </div>
 
       <p className={bodyClass}>
-        The perpetual growth rate should not exceed long-term GDP growth (2-3% for developed economies). Using higher rates implies the business will eventually become larger than the entire economy—mathematically impossible. For mature, stable businesses, use 2-2.5%. For businesses in declining industries, use 0-1%.
+        The perpetual growth rate should not exceed long-term GDP growth (2-3% for developed economies). Using higher rates implies the business will eventually become larger than the entire economy - mathematically impossible. For mature, stable businesses, use 2-2.5%. For businesses in declining industries, use 0-1%.
       </p>
 
       <p className={bodyClass}>
@@ -342,7 +342,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </div>
 
       <p className={bodyClass}>
-        This method is more intuitive for searchers familiar with transaction multiples. Use multiples from <Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">comparable transactions</Link> in your industry, typically 4-6x EBITDA for most SMEs. Be conservative—assume lower multiples than current market if you expect multiples to compress or the business to mature.
+        This method is more intuitive for searchers familiar with transaction multiples. Use multiples from <Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">comparable transactions</Link> in your industry, typically 4-6x EBITDA for most SMEs. Be conservative - assume lower multiples than current market if you expect multiples to compress or the business to mature.
       </p>
 
       <p className={bodyClass}>
@@ -521,7 +521,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        This implies an entry multiple of 5.9x current EBITDA ($1,526K). If comparable transactions trade at 4.5-6.0x, this DCF valuation sits at the high end—reasonable if you have confidence in the growth assumptions, but risky if execution falters.
+        This implies an entry multiple of 5.9x current EBITDA ($1,526K). If comparable transactions trade at 4.5-6.0x, this DCF valuation sits at the high end - reasonable if you have confidence in the growth assumptions, but risky if execution falters.
       </p>
 
       <h2 className={h2Class}>Sensitivity Analysis: Stress-Testing Your Assumptions</h2>
@@ -588,7 +588,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </div>
 
       <p className={bodyClass}>
-        This shows valuation is highly sensitive to discount rate and terminal growth assumptions. A 1.5% change in WACC moves enterprise value by $1.5-2.0M—a 17-22% swing. This reinforces the importance of carefully justifying your cost of capital.
+        This shows valuation is highly sensitive to discount rate and terminal growth assumptions. A 1.5% change in WACC moves enterprise value by $1.5-2.0M - a 17-22% swing. This reinforces the importance of carefully justifying your cost of capital.
       </p>
 
       <h3 className={h3Class}>Scenario Analysis</h3>
@@ -616,17 +616,17 @@ export default function DCFValuationSmallBusinessArticle() {
       <h3 className={h3Class}>1. Overly Optimistic Projections</h3>
 
       <p className={bodyClass}>
-        The temptation to justify a deal price with aggressive assumptions is strong. Resist it. Historical growth rates are the best predictor of future growth for mature businesses. If the company grew 6% annually over the past 5 years, projecting 15% growth requires extraordinary evidence—new products, market expansion, sales team scale-up—backed by detailed execution plans and budgets.
+        The temptation to justify a deal price with aggressive assumptions is strong. Resist it. Historical growth rates are the best predictor of future growth for mature businesses. If the company grew 6% annually over the past 5 years, projecting 15% growth requires extraordinary evidence - new products, market expansion, sales team scale-up - backed by detailed execution plans and budgets.
       </p>
 
       <p className={bodyClass}>
-        Reality check: Compare your projections to public company growth in the same industry. If you're projecting 12% growth for a commercial printing company but public printers grow 2-3%, explain why your business is exceptional—or revise downward.
+        Reality check: Compare your projections to public company growth in the same industry. If you're projecting 12% growth for a commercial printing company but public printers grow 2-3%, explain why your business is exceptional - or revise downward.
       </p>
 
       <h3 className={h3Class}>2. Underestimating CapEx and Working Capital</h3>
 
       <p className={bodyClass}>
-        Many sellers defer maintenance CapEx in the years leading up to sale to maximize EBITDA. Your DCF should reflect normalized, sustainable CapEx levels. If the business historically spent 5% of revenue on CapEx but only 2% in the trailing year, use 5% in your projections—or risk equipment failures post-close.
+        Many sellers defer maintenance CapEx in the years leading up to sale to maximize EBITDA. Your DCF should reflect normalized, sustainable CapEx levels. If the business historically spent 5% of revenue on CapEx but only 2% in the trailing year, use 5% in your projections - or risk equipment failures post-close.
       </p>
 
       <p className={bodyClass}>
@@ -658,13 +658,13 @@ export default function DCFValuationSmallBusinessArticle() {
       <h3 className={h3Class}>6. Forgetting to Sanity-Check Against Multiples</h3>
 
       <p className={bodyClass}>
-        Always compare your DCF output to market multiples. If comparable businesses trade at 5.0x EBITDA but your DCF implies 7.5x, reconcile the difference. Either your assumptions are too optimistic, the market is mispricing comparables, or there's a specific reason this business deserves a premium. Don't just accept the number—understand why it differs.
+        Always compare your DCF output to market multiples. If comparable businesses trade at 5.0x EBITDA but your DCF implies 7.5x, reconcile the difference. Either your assumptions are too optimistic, the market is mispricing comparables, or there's a specific reason this business deserves a premium. Don't just accept the number - understand why it differs.
       </p>
 
       <h2 className={h2Class}>From DCF to Offer Price: Bridging the Gap</h2>
 
       <p className={bodyClass}>
-        Your DCF model outputs an enterprise value—the theoretical value of the entire business to all stakeholders. To determine your equity offer, adjust for:
+        Your DCF model outputs an enterprise value - the theoretical value of the entire business to all stakeholders. To determine your equity offer, adjust for:
       </p>
 
       <ul className={ulClass}>
@@ -710,7 +710,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </ul>
 
       <p className={bodyClass}>
-        When all methods point to similar values (say, $8-9M), you have high confidence. When they diverge significantly (DCF says $9M, comps say $6M), dig deeper—one approach is missing something important.
+        When all methods point to similar values (say, $8-9M), you have high confidence. When they diverge significantly (DCF says $9M, comps say $6M), dig deeper - one approach is missing something important.
       </p>
 
       <h2 className={h2Class}>Practical Tips for Building Better DCF Models</h2>
@@ -726,11 +726,11 @@ export default function DCFValuationSmallBusinessArticle() {
         <li><strong>Separate inputs and calculations:</strong> Keep user inputs in clearly marked cells (often shaded blue), distinct from formulas. This prevents accidental overwrites.</li>
         <li><strong>Build monthly, aggregate to annual:</strong> For businesses with seasonal patterns or you plan rapid changes, model monthly cash flows then sum to annual. This captures working capital timing more accurately.</li>
         <li><strong>Stress-test extremes:</strong> What if revenue grows 0%? What if margins fall 500 bps? Ensure your model handles edge cases without errors.</li>
-        <li><strong>Benchmark every assumption:</strong> Don't just guess that CapEx is 3% of revenue—look at historical levels, industry averages, and management plans. Every number needs a source.</li>
+        <li><strong>Benchmark every assumption:</strong> Don't just guess that CapEx is 3% of revenue - look at historical levels, industry averages, and management plans. Every number needs a source.</li>
       </ul>
 
       <p className={bodyClass}>
-        Building a robust DCF model takes 15-25 hours for a typical SME. Don't rush it. The discipline of building the model forces you to understand the business deeply—that understanding is as valuable as the valuation output.
+        Building a robust DCF model takes 15-25 hours for a typical SME. Don't rush it. The discipline of building the model forces you to understand the business deeply - that understanding is as valuable as the valuation output.
       </p>
 
       <h2 className={h2Class}>When DCF Changes Your Mind</h2>
@@ -743,7 +743,7 @@ export default function DCFValuationSmallBusinessArticle() {
         <li><strong>The high-growth mirage:</strong> A software company growing 40% annually looked attractive at 6x revenue (in line with SaaS comps). DCF revealed that customer acquisition costs were rising faster than LTV, suggesting growth was unsustainable. The searcher passed, and the company indeed slowed to 10% growth the following year.</li>
         <li><strong>The working capital trap:</strong> A distributor trading at a reasonable 5x EBITDA required massive working capital increases to grow (inventory purchased 90 days before customer payment). DCF showed free cash flow was 40% lower than EBITDA due to working capital consumption, implying actual value was closer to 3x EBITDA.</li>
         <li><strong>The terminal value surprise:</strong> A mature industrial services company seemed cheap at 4x EBITDA. But DCF using conservative 1% terminal growth (reflecting market decline) showed value of only 3.2x. The "bargain" was appropriately priced for a declining business.</li>
-        <li><strong>The CapEx reality check:</strong> A manufacturer had attractive 20% EBITDA margins and traded at 5.5x. DCF analysis showed the seller had deferred $1.5M in equipment maintenance. Normalizing CapEx to sustainable levels dropped free cash flow 30% and intrinsic value to 4.2x—right at the asking price with no upside.</li>
+        <li><strong>The CapEx reality check:</strong> A manufacturer had attractive 20% EBITDA margins and traded at 5.5x. DCF analysis showed the seller had deferred $1.5M in equipment maintenance. Normalizing CapEx to sustainable levels dropped free cash flow 30% and intrinsic value to 4.2x - right at the asking price with no upside.</li>
       </ul>
 
       <p className={bodyClass}>
@@ -760,7 +760,7 @@ export default function DCFValuationSmallBusinessArticle() {
         <li><strong>Build a template model now:</strong> Create a flexible Excel/Google Sheets DCF model before you need it. Include projection years, WACC calculator, terminal value options, and sensitivity tables. Having the infrastructure ready saves time when opportunities arise.</li>
         <li><strong>Practice on public companies:</strong> Download financials for public companies in your target industries and build DCF models. Compare your output to market values to calibrate your assumptions and see where you're too optimistic or conservative.</li>
         <li><strong>Create your WACC assumptions:</strong> Research appropriate cost of equity components (betas, size premiums) for your target industries now. When you find a deal, you'll just need to make company-specific risk adjustments rather than starting from scratch.</li>
-        <li><strong>Study actual deals:</strong> Review search fund acquisition case studies and try to reverse-engineer the DCF. The Stanford Search Fund Study provides returns data—work backward to see what assumptions would have been required.</li>
+        <li><strong>Study actual deals:</strong> Review search fund acquisition case studies and try to reverse-engineer the DCF. The Stanford Search Fund Study provides returns data - work backward to see what assumptions would have been required.</li>
         <li><strong>Get investor feedback:</strong> Share your DCF models with potential investors before you're under LOI. They'll spot optimistic assumptions and help you build more realistic models for actual acquisitions.</li>
       </ol>
 

@@ -354,7 +354,7 @@ export default function RevenueGrowthPlaybookArticle() {
             into recurring revenue through maintenance contracts, service
             agreements, subscriptions, or managed service offerings. Recurring
             revenue is valued at 2&ndash;3x higher multiples than project-based
-            revenue — a key factor in{" "}
+            revenue - a key factor in{" "}
             <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy planning</Link>.
           </li>
           <li>

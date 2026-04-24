@@ -15,8 +15,8 @@ export default function TransitionServiceAgreementArticle() {
           the buyer for a defined period after the deal closes.
         </p>
         <p>
-          TSAs are especially common in carve-out transactions — where a division or product line is
-          separated from a larger parent company — but they also arise in full-company acquisitions when
+          TSAs are especially common in carve-out transactions - where a division or product line is
+          separated from a larger parent company - but they also arise in full-company acquisitions when
           the buyer lacks the infrastructure to absorb certain functions immediately. A well-structured
           TSA protects the buyer from Day One operational disruptions while giving both parties a clear
           roadmap toward full separation.
@@ -41,7 +41,7 @@ export default function TransitionServiceAgreementArticle() {
           broader corporate infrastructure. Common examples include payroll processing, IT hosting and
           support, human resources administration, accounting and financial reporting, procurement
           systems, and facilities management. Without a TSA in place, the buyer would need to replicate
-          or replace all of these functions before closing — an unrealistic expectation in most deals.
+          or replace all of these functions before closing - an unrealistic expectation in most deals.
         </p>
         <p>
           The TSA is generally negotiated alongside the{" "}
@@ -133,7 +133,7 @@ export default function TransitionServiceAgreementArticle() {
           administration), finance and accounting (AP/AR processing, monthly close, tax compliance),
           human resources (payroll, benefits administration, recruiting support), procurement (vendor
           management, purchase order processing), and facilities (building access, maintenance, security).
-          Vague descriptions invite disputes — aim for specificity comparable to a third-party vendor
+          Vague descriptions invite disputes - aim for specificity comparable to a third-party vendor
           contract.
         </p>
       </div>
@@ -161,8 +161,8 @@ export default function TransitionServiceAgreementArticle() {
             services early (with notice) as it completes migration, avoiding unnecessary costs.
           </li>
           <li>
-            <strong>Maximum duration caps:</strong> Sellers often insist on a hard stop date — commonly
-            eighteen to twenty-four months — after which no extensions are available regardless of the
+            <strong>Maximum duration caps:</strong> Sellers often insist on a hard stop date - commonly
+            eighteen to twenty-four months - after which no extensions are available regardless of the
             buyer&apos;s readiness.
           </li>
         </ul>
@@ -187,7 +187,7 @@ export default function TransitionServiceAgreementArticle() {
             Simpler to administer but may not reflect actual costs if usage fluctuates.
           </li>
           <li>
-            <strong>Usage-based:</strong> Pricing tied to measurable metrics — per-employee for HR
+            <strong>Usage-based:</strong> Pricing tied to measurable metrics - per-employee for HR
             services, per-transaction for IT, per-square-foot for facilities. More complex to track but
             fairer when service volumes are uncertain.
           </li>
@@ -218,7 +218,7 @@ export default function TransitionServiceAgreementArticle() {
         </ul>
 
         <p>
-          The baseline standard — &quot;same level of service as provided prior to closing&quot; — is
+          The baseline standard - &quot;same level of service as provided prior to closing&quot; - is
           important because it prevents the seller from deprioritizing the buyer&apos;s needs after the
           deal closes.
         </p>
@@ -256,7 +256,7 @@ export default function TransitionServiceAgreementArticle() {
       <div className={bodyClass}>
         <p>
           TSA negotiations often happen late in the deal process when both parties are focused on
-          closing. This creates pressure to accept vague terms — a mistake that invariably leads to
+          closing. This creates pressure to accept vague terms - a mistake that invariably leads to
           post-closing friction. Here are strategies for both sides:
         </p>
 
@@ -320,8 +320,8 @@ export default function TransitionServiceAgreementArticle() {
             maintain alignment.
           </li>
           <li>
-            <strong>Failing to plan for Day One:</strong> Some functions — payroll, customer-facing
-            systems, regulatory reporting — cannot tolerate any gap. Identify these &quot;Day One
+            <strong>Failing to plan for Day One:</strong> Some functions - payroll, customer-facing
+            systems, regulatory reporting - cannot tolerate any gap. Identify these &quot;Day One
             critical&quot; services early and ensure the TSA provides seamless continuity.
           </li>
           <li>
@@ -380,7 +380,7 @@ export default function TransitionServiceAgreementArticle() {
 
       <div className={bodyClass}>
         <p>
-          The best TSA is one that ends on time — or early. A disciplined exit plan, developed before
+          The best TSA is one that ends on time - or early. A disciplined exit plan, developed before
           closing and refined during{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             post-acquisition integration
@@ -441,8 +441,8 @@ export default function TransitionServiceAgreementArticle() {
             approval requirements.
           </li>
           <li>
-            <strong>Escalation procedures:</strong> Clear escalation paths — from operational contacts
-            to service managers to executive sponsors — ensuring issues are resolved promptly.
+            <strong>Escalation procedures:</strong> Clear escalation paths - from operational contacts
+            to service managers to executive sponsors - ensuring issues are resolved promptly.
           </li>
           <li>
             <strong>Financial tracking:</strong> Regular reconciliation of TSA invoices against agreed
@@ -452,7 +452,7 @@ export default function TransitionServiceAgreementArticle() {
 
         <p>
           Effective governance keeps the TSA on track and preserves the post-closing relationship between
-          buyer and seller — a relationship that often matters beyond the TSA itself, particularly when
+          buyer and seller - a relationship that often matters beyond the TSA itself, particularly when
           the{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             deal includes earnout provisions or seller financing
@@ -467,27 +467,27 @@ export default function TransitionServiceAgreementArticle() {
         <li>
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             Post-Acquisition Integration Playbook
-          </Link>{" "}— Building your 100-day plan for operational independence
+          </Link>{" "} - Building your 100-day plan for operational independence
         </li>
         <li>
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             Due Diligence Checklist for Business Acquisitions
-          </Link>{" "}— Identifying TSA-dependent services during investigation
+          </Link>{" "} - Identifying TSA-dependent services during investigation
         </li>
         <li>
           <Link href="/learn/closing-process" className="text-apple-accent hover:underline">
             The Closing Process: Timeline, Documents & Wire Transfers
-          </Link>{" "}— How the TSA fits into the broader closing framework
+          </Link>{" "} - How the TSA fits into the broader closing framework
         </li>
         <li>
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">
             Management Transition Planning After Acquisition
-          </Link>{" "}— Coordinating leadership transition alongside TSA execution
+          </Link>{" "} - Coordinating leadership transition alongside TSA execution
         </li>
         <li>
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent: How to Draft & Negotiate
-          </Link>{" "}— Addressing TSA expectations early in the deal process
+          </Link>{" "} - Addressing TSA expectations early in the deal process
         </li>
       </ul>
 

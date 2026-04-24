@@ -27,11 +27,11 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        The key word here is "discretionary" — SDE includes not just the profit on the income statement, but also the owner's salary, benefits, perks, and any personal expenses that have been run through the business. The metric answers the question: "How much cash does this business generate for the owner to do with as they please?"
+        The key word here is "discretionary" - SDE includes not just the profit on the income statement, but also the owner's salary, benefits, perks, and any personal expenses that have been run through the business. The metric answers the question: "How much cash does this business generate for the owner to do with as they please?"
       </p>
 
       <p className={bodyClass}>
-        SDE is most commonly used for small businesses where the owner is deeply involved in operations — think of the restaurant owner who also manages the kitchen, the HVAC company owner who still goes out on service calls, or the e-commerce business owner who handles product sourcing and customer service. In these businesses, the owner's compensation and effort are integral to the business model.
+        SDE is most commonly used for small businesses where the owner is deeply involved in operations - think of the restaurant owner who also manages the kitchen, the HVAC company owner who still goes out on service calls, or the e-commerce business owner who handles product sourcing and customer service. In these businesses, the owner's compensation and effort are integral to the business model.
       </p>
 
       <h2 className={h2Class}>What Is EBITDA?</h2>
@@ -182,7 +182,7 @@ export default function SDEvsEBITDAArticle() {
       <h2 className={h2Class}>Common Add-Backs for SDE</h2>
 
       <p className={bodyClass}>
-        When calculating SDE, sellers (and smart buyers) identify "add-backs" — expenses that appear on the income statement but won't continue under new ownership, or that represent owner benefits rather than true business costs. Common legitimate add-backs include:
+        When calculating SDE, sellers (and smart buyers) identify "add-backs" - expenses that appear on the income statement but won't continue under new ownership, or that represent owner benefits rather than true business costs. Common legitimate add-backs include:
       </p>
 
       <h3 className={h3Class}>Owner Compensation and Benefits</h3>
@@ -306,7 +306,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Example: You acquire a business for 3.0x its $800,000 SDE ($2.4M purchase price). You work in it for two years while hiring and training a general manager ($120K/year). After three years, the business now shows $950,000 EBITDA (growth from $800K SDE minus $120K manager salary plus $270K growth). At 5.0x EBITDA, it's worth $4.75M — you've nearly doubled the value.
+        Example: You acquire a business for 3.0x its $800,000 SDE ($2.4M purchase price). You work in it for two years while hiring and training a general manager ($120K/year). After three years, the business now shows $950,000 EBITDA (growth from $800K SDE minus $120K manager salary plus $270K growth). At 5.0x EBITDA, it's worth $4.75M - you've nearly doubled the value.
       </p>
 
       <h2 className={h2Class}>Which Metric Do Lenders Prefer?</h2>
@@ -456,7 +456,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Don't get caught up in comparing multiples across metrics — a 3x SDE business and a 6x EBITDA business might have identical valuations once you account for management costs. Focus instead on the total purchase price, your required involvement, and the true cash flow available after all necessary expenses.
+        Don't get caught up in comparing multiples across metrics - a 3x SDE business and a 6x EBITDA business might have identical valuations once you account for management costs. Focus instead on the total purchase price, your required involvement, and the true cash flow available after all necessary expenses.
       </p>
 
       <p className={bodyClass}>
@@ -502,7 +502,7 @@ export default function SDEvsEBITDAArticle() {
             >
               SBA 7(a) Loan Program Guidelines
             </a>
-            {" — Official SBA guidance on loan underwriting and cash flow analysis"}
+            {" - Official SBA guidance on loan underwriting and cash flow analysis"}
           </li>
           <li>
             <a
@@ -513,7 +513,7 @@ export default function SDEvsEBITDAArticle() {
             >
               Stanford Graduate School of Business: Search Fund Research
             </a>
-            {" — Academic research on search fund valuations and returns"}
+            {" - Academic research on search fund valuations and returns"}
           </li>
           <li>
             <a
@@ -524,7 +524,7 @@ export default function SDEvsEBITDAArticle() {
             >
               BizBuySell Insight Reports
             </a>
-            {" — Quarterly data on small business valuations and market multiples"}
+            {" - Quarterly data on small business valuations and market multiples"}
           </li>
           <li>
             <a
@@ -535,7 +535,7 @@ export default function SDEvsEBITDAArticle() {
             >
               Investopedia: EBITDA Definition and Calculation
             </a>
-            {" — Comprehensive explanation of EBITDA methodology"}
+            {" - Comprehensive explanation of EBITDA methodology"}
           </li>
           <li>
             <a
@@ -546,7 +546,7 @@ export default function SDEvsEBITDAArticle() {
             >
               NACVA/IBA: Professional Standards for Business Valuation
             </a>
-            {" — Industry standards for business appraisal and earnings normalization"}
+            {" - Industry standards for business appraisal and earnings normalization"}
           </li>
         </ul>
       </div>

@@ -12,7 +12,7 @@ export default function SearcherCompensationArticle() {
           Understanding searcher compensation is essential whether you are
           launching a <Link href="/learn/getting-started" className="text-apple-accent hover:underline">search fund</Link>, evaluating the ETA path against other career
           options, or investing in a searcher. The economics are unlike any
-          other entrepreneurial model — combining a modest salary during the
+          other entrepreneurial model - combining a modest salary during the
           search phase with significant equity upside upon a successful
           acquisition and exit. This guide breaks down every component of
           searcher compensation, from search-phase salary through lifetime
@@ -32,7 +32,7 @@ export default function SearcherCompensationArticle() {
           $110,000-$120,000. This salary is designed to cover reasonable living
           expenses while allowing the searcher to focus full-time on deal
           sourcing and evaluation. It is not designed to match pre-search
-          compensation — most searchers take a 30-50% pay cut from their prior
+          compensation - most searchers take a 30-50% pay cut from their prior
           roles in consulting, investment banking, or private equity.
         </p>
         <ul className={ulClass}>
@@ -67,7 +67,7 @@ export default function SearcherCompensationArticle() {
           window, the fund is typically wound down and remaining capital returned
           to investors. Approximately 37% of searchers do not complete an
           acquisition, according to Stanford data. For these searchers, the
-          economic outcome is limited to the salary earned during the search — a
+          economic outcome is limited to the salary earned during the search - a
           meaningful opportunity cost given the career risk involved.
         </p>
 
@@ -124,7 +124,7 @@ export default function SearcherCompensationArticle() {
           The first tranche vests immediately upon the closing of an
           acquisition. It rewards the searcher for successfully identifying,
           negotiating, and closing a deal. In a typical structure, this
-          represents approximately one-third of the total equity grant — roughly
+          represents approximately one-third of the total equity grant - roughly
           8-10% of the company on a fully diluted basis. This tranche
           compensates the searcher for the risk and effort of the search phase
           and aligns their interests with investors from day one.
@@ -146,7 +146,7 @@ export default function SearcherCompensationArticle() {
         <p>
           The third tranche vests only if the searcher achieves specific
           performance thresholds, typically tied to investor returns. The most
-          common structure ties vesting to IRR hurdles — for example, full
+          common structure ties vesting to IRR hurdles - for example, full
           vesting of the performance tranche requires achieving a 25-30% IRR
           for investors, with partial vesting at lower thresholds (e.g., 50%
           vesting at 20% IRR). Some structures use MOIC (multiple on invested
@@ -173,7 +173,7 @@ export default function SearcherCompensationArticle() {
           successful traditional searcher generates approximately $6.4M in
           lifetime economic value (equity gains plus salary). This figure
           includes both the search-phase salary and post-acquisition compensation.
-          The median is lower — approximately $3.5M-$4.5M — reflecting the
+          The median is lower - approximately $3.5M-$4.5M - reflecting the
           right-skewed distribution where a few exceptional outcomes pull the
           average up significantly.
         </p>
@@ -221,7 +221,7 @@ export default function SearcherCompensationArticle() {
             $8M in value over 5 years, and exits with $5.6M in equity value
             ($8M x 70%). Even after accounting for $0 search-phase income, the
             total economic outcome can significantly exceed the traditional
-            model — but the risk-adjusted return must account for the
+            model - but the risk-adjusted return must account for the
             probability of not completing an acquisition.
           </li>
         </ul>
@@ -320,7 +320,7 @@ export default function SearcherCompensationArticle() {
         <h2 className={h2Class}>How compensation evolves through the hold period</h2>
         <p>
           Searcher compensation is not static. In Year 1, the focus is on
-          learning the business and stabilizing operations — compensation
+          learning the business and stabilizing operations - compensation
           is typically at the lower end of the range with modest bonus
           opportunity. By Years 2-3, as the CEO demonstrates results and the
           company grows, base salary increases of 5-10% annually are common,
@@ -339,8 +339,8 @@ export default function SearcherCompensationArticle() {
           competitive CEO compensation plus significant equity upside. For
           successful searchers who acquire well, operate effectively, and pursue strong <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategies</Link>, the lifetime economic outcome of $3.5M-$10M+
           compares favorably to almost any other career path available to
-          MBA-level professionals. The key is understanding the full picture —
-          including the 37% probability of not acquiring — and making an
+          MBA-level professionals. The key is understanding the full picture - 
+          including the 37% probability of not acquiring - and making an
           informed decision about whether the risk-reward profile fits your
           personal financial situation and career goals.
         </p>

@@ -160,7 +160,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
     }
   } catch {
-    // DB unavailable — skip profile pages
+    // DB unavailable - skip profile pages
   }
 
   return entries;

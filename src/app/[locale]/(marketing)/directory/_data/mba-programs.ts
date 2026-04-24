@@ -287,7 +287,7 @@ export const mbaPrograms: MBAProgramEntry[] = [
     city: "Vallendar / Düsseldorf",
     website: "https://www.whu.edu",
     description:
-      "WHU Otto Beisheim School of Management is a leading German business school that has become an important node in the European search fund ecosystem. The school's MBA and entrepreneurship programs include coursework on SME acquisitions, family business succession, and private equity that is directly relevant to the ETA model. WHU's strong ties to the German Mittelstand — the backbone of small and medium enterprises in Germany — give students unique access to deal flow in one of Europe's largest SME markets. The school's Entrepreneurship Center and alumni network support aspiring searchers with mentoring, introductions, and community events. WHU has hosted search fund panels and workshops, and several alumni have launched successful search funds in Germany and the DACH region. The school's practical, entrepreneurship-first culture makes it an ideal springboard for ETA in continental Europe.",
+      "WHU Otto Beisheim School of Management is a leading German business school that has become an important node in the European search fund ecosystem. The school's MBA and entrepreneurship programs include coursework on SME acquisitions, family business succession, and private equity that is directly relevant to the ETA model. WHU's strong ties to the German Mittelstand - the backbone of small and medium enterprises in Germany - give students unique access to deal flow in one of Europe's largest SME markets. The school's Entrepreneurship Center and alumni network support aspiring searchers with mentoring, introductions, and community events. WHU has hosted search fund panels and workshops, and several alumni have launched successful search funds in Germany and the DACH region. The school's practical, entrepreneurship-first culture makes it an ideal springboard for ETA in continental Europe.",
     etaClub: true,
     source: "WHU website",
   },
@@ -319,7 +319,7 @@ export const mbaPrograms: MBAProgramEntry[] = [
   },
   {
     kind: "mba-program",
-    schoolName: "Bocconi University – SDA Bocconi",
+    schoolName: "Bocconi University - SDA Bocconi",
     slug: "bocconi-sda",
     programName: "Entrepreneurship & Private Equity Curriculum",
     country: "Italy",

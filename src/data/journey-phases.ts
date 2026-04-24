@@ -1,5 +1,5 @@
 /**
- * ETA Journey — Phase structural data (language-independent).
+ * ETA Journey - Phase structural data (language-independent).
  * Translatable strings live in messages/{locale}.json under the "journey" namespace.
  */
 
@@ -17,7 +17,7 @@ export interface PhaseTemplate {
 }
 
 export interface PhaseQuote {
-  /** Translation key for the quote text — e.g. "phases.prepare.quote" */
+  /** Translation key for the quote text - e.g. "phases.prepare.quote" */
   textKey: string;
   /** Attribution name (not translated) */
   person: string;
@@ -31,9 +31,9 @@ export interface PhaseQuote {
 
 export interface JourneyPhaseData {
   id: string; // "prepare" | "fundraise" | "search" | "acquire" | "operate" | "exit"
-  number: string; // "01" – "06"
+  number: string; // "01" - "06"
   color: string; // hex
-  durationKey: string; // translation key for "2–4 months"
+  durationKey: string; // translation key for "2-4 months"
   articles: PhaseArticle[];
   tools: PhaseTool[];
   templates: PhaseTemplate[];
@@ -50,7 +50,7 @@ export const PHASE_COLORS = {
 } as const;
 
 export const journeyPhases: JourneyPhaseData[] = [
-  // ── Phase 01 — PREPARE ──────────────────────────────────────────────
+  // ── Phase 01 - PREPARE ──────────────────────────────────────────────
   {
     id: "prepare",
     number: "01",
@@ -76,7 +76,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     },
   },
 
-  // ── Phase 02 — FUNDRAISE ────────────────────────────────────────────
+  // ── Phase 02 - FUNDRAISE ────────────────────────────────────────────
   {
     id: "fundraise",
     number: "02",
@@ -106,7 +106,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     },
   },
 
-  // ── Phase 03 — SEARCH ───────────────────────────────────────────────
+  // ── Phase 03 - SEARCH ───────────────────────────────────────────────
   {
     id: "search",
     number: "03",
@@ -136,7 +136,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     },
   },
 
-  // ── Phase 04 — ACQUIRE ──────────────────────────────────────────────
+  // ── Phase 04 - ACQUIRE ──────────────────────────────────────────────
   {
     id: "acquire",
     number: "04",
@@ -171,7 +171,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     },
   },
 
-  // ── Phase 05 — OPERATE ──────────────────────────────────────────────
+  // ── Phase 05 - OPERATE ──────────────────────────────────────────────
   {
     id: "operate",
     number: "05",
@@ -198,7 +198,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     },
   },
 
-  // ── Phase 06 — EXIT ─────────────────────────────────────────────────
+  // ── Phase 06 - EXIT ─────────────────────────────────────────────────
   {
     id: "exit",
     number: "06",

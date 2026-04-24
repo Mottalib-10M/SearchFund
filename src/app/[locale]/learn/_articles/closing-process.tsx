@@ -14,8 +14,8 @@ export default function ClosingProcessArticle() {
           can delay or even kill an otherwise solid deal.
         </p>
         <p>
-          This guide walks through every phase of the closing process — from pre-closing preparation
-          through post-closing adjustments — so you know exactly what to expect and how to navigate
+          This guide walks through every phase of the closing process - from pre-closing preparation
+          through post-closing adjustments - so you know exactly what to expect and how to navigate
           each step.
         </p>
       </div>
@@ -24,26 +24,26 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <p>
-          For SME acquisitions in the $1M–$20M range, the typical timeline from signed{" "}
+          For SME acquisitions in the $1M-$20M range, the typical timeline from signed{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent (LOI)
           </Link>{" "}
-          to closing is 60–120 days. Here&apos;s a representative breakdown:
+          to closing is 60-120 days. Here&apos;s a representative breakdown:
         </p>
 
         <ul className={ulClass}>
-          <li><strong>Days 1–7:</strong> Finalize exclusivity, engage advisors, set up data room access</li>
-          <li><strong>Days 7–45:</strong> Due diligence (financial, legal, operational, commercial)</li>
-          <li><strong>Days 30–60:</strong> Purchase agreement drafting and negotiation (overlaps with DD)</li>
-          <li><strong>Days 30–75:</strong> Financing finalization — lender underwriting, commitment letter, loan docs</li>
-          <li><strong>Days 60–80:</strong> Third-party consents (landlord, customers, franchisors)</li>
-          <li><strong>Days 75–90:</strong> Pre-closing conditions satisfaction, document execution</li>
-          <li><strong>Day 90:</strong> Closing day — document delivery and wire transfers</li>
+          <li><strong>Days 1-7:</strong> Finalize exclusivity, engage advisors, set up data room access</li>
+          <li><strong>Days 7-45:</strong> Due diligence (financial, legal, operational, commercial)</li>
+          <li><strong>Days 30-60:</strong> Purchase agreement drafting and negotiation (overlaps with DD)</li>
+          <li><strong>Days 30-75:</strong> Financing finalization - lender underwriting, commitment letter, loan docs</li>
+          <li><strong>Days 60-80:</strong> Third-party consents (landlord, customers, franchisors)</li>
+          <li><strong>Days 75-90:</strong> Pre-closing conditions satisfaction, document execution</li>
+          <li><strong>Day 90:</strong> Closing day - document delivery and wire transfers</li>
         </ul>
 
         <p>
-          SBA-financed deals often take 90–120 days due to additional lender requirements. Plan for
-          90 days as a baseline and build in 2–3 weeks of buffer for unexpected delays.
+          SBA-financed deals often take 90-120 days due to additional lender requirements. Plan for
+          90 days as a baseline and build in 2-3 weeks of buffer for unexpected delays.
         </p>
       </div>
 
@@ -51,7 +51,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <p>
-          The pre-closing phase (typically 2–4 weeks before target close date) involves
+          The pre-closing phase (typically 2-4 weeks before target close date) involves
           systematically satisfying all closing conditions and preparing documents for execution.
         </p>
       </div>
@@ -89,23 +89,23 @@ export default function ClosingProcessArticle() {
         </p>
 
         <ol className={olClass}>
-          <li>Purchase agreement and all schedules/exhibits — fully executed</li>
-          <li>Bill of sale — transferring tangible assets</li>
-          <li>Assignment and assumption agreement — transferring contracts and liabilities</li>
-          <li>Intellectual property assignment — trademarks, patents, domain names</li>
-          <li>Non-compete and non-solicitation agreements — signed by seller</li>
-          <li>Employment/consulting agreements — for seller transition and key employees</li>
-          <li>Escrow agreement — signed by buyer, seller, and escrow agent</li>
-          <li>Promissory note — if seller financing is part of the deal</li>
-          <li>Security agreement — securing seller note with business assets</li>
-          <li>Bring-down certificates — from both buyer and seller</li>
-          <li>Good standing certificates — from state of incorporation</li>
-          <li>Board resolutions/member consents — authorizing the transaction</li>
-          <li>Third-party consents — landlord, customers, franchisors</li>
-          <li>UCC-3 termination statements — releasing existing liens</li>
-          <li>Payoff letters — from seller&apos;s existing lenders</li>
-          <li>Title insurance/searches — for real property transfers</li>
-          <li>Closing statement/settlement sheet — showing all sources and uses of funds</li>
+          <li>Purchase agreement and all schedules/exhibits - fully executed</li>
+          <li>Bill of sale - transferring tangible assets</li>
+          <li>Assignment and assumption agreement - transferring contracts and liabilities</li>
+          <li>Intellectual property assignment - trademarks, patents, domain names</li>
+          <li>Non-compete and non-solicitation agreements - signed by seller</li>
+          <li>Employment/consulting agreements - for seller transition and key employees</li>
+          <li>Escrow agreement - signed by buyer, seller, and escrow agent</li>
+          <li>Promissory note - if seller financing is part of the deal</li>
+          <li>Security agreement - securing seller note with business assets</li>
+          <li>Bring-down certificates - from both buyer and seller</li>
+          <li>Good standing certificates - from state of incorporation</li>
+          <li>Board resolutions/member consents - authorizing the transaction</li>
+          <li>Third-party consents - landlord, customers, franchisors</li>
+          <li>UCC-3 termination statements - releasing existing liens</li>
+          <li>Payoff letters - from seller&apos;s existing lenders</li>
+          <li>Title insurance/searches - for real property transfers</li>
+          <li>Closing statement/settlement sheet - showing all sources and uses of funds</li>
         </ol>
       </div>
 
@@ -132,7 +132,7 @@ export default function ClosingProcessArticle() {
 
         <p>
           If the seller cannot deliver a clean bring-down certificate, it signals a potential
-          problem that must be resolved before closing — or may give the buyer grounds to terminate.
+          problem that must be resolved before closing - or may give the buyer grounds to terminate.
         </p>
       </div>
 
@@ -151,8 +151,8 @@ export default function ClosingProcessArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>
-            <strong>Indemnification escrow:</strong> The most common type — holds 5–15% of purchase
-            price for 12–18 months to cover breaches of{" "}
+            <strong>Indemnification escrow:</strong> The most common type - holds 5-15% of purchase
+            price for 12-18 months to cover breaches of{" "}
             <Link href="/learn/indemnification-escrow" className="text-apple-accent hover:underline">
               representations and indemnification
             </Link>{" "}
@@ -163,7 +163,7 @@ export default function ClosingProcessArticle() {
             <Link href="/learn/working-capital-adjustments" className="text-apple-accent hover:underline">
               working capital adjustment
             </Link>{" "}
-            calculation, typically released within 60–90 days
+            calculation, typically released within 60-90 days
           </li>
           <li><strong>Earnout escrow:</strong> For deals with earnout components, holds funds pending target achievement</li>
           <li><strong>Expense escrow:</strong> Covers anticipated post-closing costs (transfer taxes, lease terminations)</li>
@@ -178,10 +178,10 @@ export default function ClosingProcessArticle() {
         <ul className={ulClass}>
           <li><strong>Escrow amount and duration</strong></li>
           <li><strong>Investment of funds:</strong> How escrow money is invested (typically low-risk instruments)</li>
-          <li><strong>Release schedule:</strong> Often in tranches — e.g., 50% at 12 months, 50% at 18 months</li>
+          <li><strong>Release schedule:</strong> Often in tranches - e.g., 50% at 12 months, 50% at 18 months</li>
           <li><strong>Claim procedures:</strong> How the buyer submits claims, including notice requirements</li>
           <li><strong>Dispute resolution:</strong> Process if buyer and seller disagree about a claim</li>
-          <li><strong>Escrow agent fees:</strong> Typically $2,000–5,000 annually, split between parties</li>
+          <li><strong>Escrow agent fees:</strong> Typically $2,000-5,000 annually, split between parties</li>
         </ul>
       </div>
 
@@ -213,7 +213,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Out-of-band verification:</strong> Confirm all wire instructions by phone using a known, pre-verified number — never a number from a recent email</li>
+          <li><strong>Out-of-band verification:</strong> Confirm all wire instructions by phone using a known, pre-verified number - never a number from a recent email</li>
           <li><strong>Change protocols:</strong> If wire instructions change at any point, require verbal confirmation through multiple channels</li>
           <li><strong>Test wires:</strong> For large transactions, send a small test wire ($100) to verify account info</li>
           <li><strong>Same-day confirmation:</strong> Require recipients to confirm receipt on closing day</li>
@@ -277,9 +277,9 @@ export default function ClosingProcessArticle() {
         </p>
 
         <ol className={olClass}>
-          <li><strong>Estimated closing statement:</strong> Prepared 1–3 days before closing with estimated working capital</li>
+          <li><strong>Estimated closing statement:</strong> Prepared 1-3 days before closing with estimated working capital</li>
           <li><strong>Initial payment:</strong> Purchase price paid based on estimated working capital</li>
-          <li><strong>Final calculation:</strong> Within 60–90 days, buyer prepares final working capital determination</li>
+          <li><strong>Final calculation:</strong> Within 60-90 days, buyer prepares final working capital determination</li>
           <li><strong>Review period:</strong> Seller has 30 days to review and dispute</li>
           <li><strong>True-up payment:</strong> Excess goes to seller; shortfall reimbursed to buyer (often from escrow)</li>
         </ol>
@@ -304,7 +304,7 @@ export default function ClosingProcessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Third-party consent delays (most common):</strong> Landlords, franchisors, and
-            key customers may take weeks to respond. Start the consent process as early as possible —
+            key customers may take weeks to respond. Start the consent process as early as possible  -
             ideally as soon as the LOI is signed.
           </li>
           <li>
@@ -352,7 +352,7 @@ export default function ClosingProcessArticle() {
         <p>
           <strong>Virtual closings</strong> have become increasingly common, using electronic
           signatures (DocuSign, Adobe Sign), secure document sharing, and video conferencing.
-          Virtual closings require even more careful coordination — establish a clear schedule
+          Virtual closings require even more careful coordination - establish a clear schedule
           with designated times for document execution and wire transfers.
         </p>
       </div>
@@ -360,7 +360,7 @@ export default function ClosingProcessArticle() {
       <h2 className={h2Class}>Immediate Post-Closing Tasks</h2>
 
       <div className={bodyClass}>
-        <p>The work doesn&apos;t end when wires clear. In the first 1–2 weeks after closing:</p>
+        <p>The work doesn&apos;t end when wires clear. In the first 1-2 weeks after closing:</p>
 
         <ul className={ulClass}>
           <li><strong>Employee announcement:</strong> Introduce yourself, explain the transition, address concerns</li>
@@ -379,9 +379,9 @@ export default function ClosingProcessArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Start early and stay organized.</strong> Use a comprehensive closing checklist and track every action item</li>
-          <li><strong>Build schedule buffer.</strong> Assume delays will occur — budget 2+ weeks of cushion</li>
+          <li><strong>Build schedule buffer.</strong> Assume delays will occur - budget 2+ weeks of cushion</li>
           <li><strong>Secure consents early.</strong> Third-party consents are the #1 source of delays</li>
-          <li><strong>Verify wire instructions rigorously.</strong> Wire fraud is real — use out-of-band verification</li>
+          <li><strong>Verify wire instructions rigorously.</strong> Wire fraud is real - use out-of-band verification</li>
           <li><strong>Prepare for post-closing work.</strong> Working capital adjustments, tax filings, and operational transitions continue after the close</li>
           <li><strong>Don&apos;t over-lawyer.</strong> Focus on material issues; excessive negotiation over minor points kills deals</li>
         </ul>
@@ -393,27 +393,27 @@ export default function ClosingProcessArticle() {
         <li>
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent: How to Draft & Negotiate
-          </Link>{" "}— The foundation document that sets the stage for closing
+          </Link>{" "}- The foundation document that sets the stage for closing
         </li>
         <li>
           <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">
             Representations & Warranties in M&A
-          </Link>{" "}— Understanding buyer protections verified at closing
+          </Link>{" "}- Understanding buyer protections verified at closing
         </li>
         <li>
           <Link href="/learn/working-capital-adjustments" className="text-apple-accent hover:underline">
             Working Capital Adjustments at Closing
-          </Link>{" "}— The most common post-closing adjustment
+          </Link>{" "}- The most common post-closing adjustment
         </li>
         <li>
           <Link href="/learn/indemnification-escrow" className="text-apple-accent hover:underline">
             Indemnification & Escrow Provisions
-          </Link>{" "}— How escrows secure post-closing obligations
+          </Link>{" "}- How escrows secure post-closing obligations
         </li>
         <li>
           <Link href="/learn/exclusivity-agreement" className="text-apple-accent hover:underline">
             Exclusivity Agreements in M&A
-          </Link>{" "}— Protecting the timeline from LOI to close
+          </Link>{" "}- Protecting the timeline from LOI to close
         </li>
       </ul>
 
@@ -448,7 +448,7 @@ export default function ClosingProcessArticle() {
       <ul className={ulClass}>
         <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (3rd ed., 2020)</li>
         <li>Practical Law (Thomson Reuters), <em>Closing Mechanics in M&A Transactions</em> (2023)</li>
-        <li>SBA Office of Capital Access, <em>SBA 7(a) Loan Closing Procedures — SOP 50 10</em> (2024)</li>
+        <li>SBA Office of Capital Access, <em>SBA 7(a) Loan Closing Procedures - SOP 50 10</em> (2024)</li>
         <li>Timothy E. Powers, &quot;Wire Transfer Fraud Prevention in M&A Transactions,&quot; <em>ABA Business Law Section Newsletter</em> (2023)</li>
         <li>Robert F. Reilly, &quot;Purchase Price Allocations and Post-Closing Adjustments,&quot; <em>Willamette Management Associates Insights</em> (2023)</li>
         <li>National Association of Certified Valuators and Analysts (NACVA), <em>Best Practices for Business Closings</em> (2023)</li>

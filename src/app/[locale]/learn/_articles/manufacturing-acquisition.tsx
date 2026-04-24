@@ -81,7 +81,7 @@ export default function ManufacturingAcquisitionArticle() {
           than 20% of total material costs, you have concentration risk. Ask
           whether alternative suppliers have been qualified for each critical
           input. The cost of qualifying a new supplier in manufacturing can be
-          substantial — some customers require a full re-qualification process
+          substantial - some customers require a full re-qualification process
           (including testing and certification) that takes 6-12 months.
         </p>
 
@@ -110,7 +110,7 @@ export default function ManufacturingAcquisitionArticle() {
           insufficient inventory (less than 15 days of critical materials) creates
           production risk. Inventory valuation should be verified through
           physical counts during{" "}
-          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> — do not rely solely on book
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> - do not rely solely on book
           values.
         </p>
 
@@ -212,7 +212,7 @@ export default function ManufacturingAcquisitionArticle() {
           Environmental liability is the single largest &quot;hidden risk&quot;
           in manufacturing acquisitions. Contaminated soil, groundwater issues,
           or improper hazardous waste disposal can create remediation obligations
-          that cost hundreds of thousands — or millions — of dollars.
+          that cost hundreds of thousands - or millions - of dollars.
         </p>
 
         <h3 className={h3Class}>Phase I environmental site assessment</h3>
@@ -231,7 +231,7 @@ export default function ManufacturingAcquisitionArticle() {
           and groundwater sampling to determine whether contamination exists
           and its extent. Cost: $15K-$60K depending on the number of samples
           and contaminants tested. If contamination is found, remediation cost
-          estimates must be obtained and factored into the purchase price — or
+          estimates must be obtained and factored into the purchase price - or
           the seller must remediate before closing.
         </p>
 
@@ -293,7 +293,7 @@ export default function ManufacturingAcquisitionArticle() {
         <p>
           Customer concentration is a pervasive issue in manufacturing. It is
           not uncommon to find small manufacturers where the top customer
-          represents 30-50% of revenue. This creates existential risk — if that
+          represents 30-50% of revenue. This creates existential risk - if that
           customer leaves, the business may not survive. Evaluate customer
           concentration rigorously: the top customer should represent no more
           than 15-20% of revenue, and the top 5 customers no more than 50%.
@@ -332,8 +332,8 @@ export default function ManufacturingAcquisitionArticle() {
         <p>
           Manufacturing acquisitions reward searchers who are willing to learn
           the physical, operational, and regulatory complexities of making
-          things. The barriers to entry — capital intensity, environmental risk,
-          workforce challenges — are precisely what keeps valuations reasonable
+          things. The barriers to entry - capital intensity, environmental risk,
+          workforce challenges - are precisely what keeps valuations reasonable
           (typically 3-6x EBITDA versus 8-15x for SaaS, as our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> details)
           and protects well-run operations from easy disruption. A searcher who masters equipment

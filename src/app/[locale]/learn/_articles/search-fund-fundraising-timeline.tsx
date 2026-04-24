@@ -405,8 +405,8 @@ export default function SearchFundFundraisingTimelineArticle() {
           are both full-time activities, and splitting your attention risks
           doing both poorly. The exception is the period between first close
           and final close: once you have 60 to 70 percent of capital committed,
-          you can begin light deal sourcing — scanning databases, building
-          broker relationships, and refining your pipeline — while still
+          you can begin light deal sourcing - scanning databases, building
+          broker relationships, and refining your pipeline - while still
           filling remaining units. Formal LOIs should wait until the fund is
           substantially closed.
         </p>
@@ -421,7 +421,7 @@ export default function SearchFundFundraisingTimelineArticle() {
           minimum raise) and keeping your pipeline active even after receiving
           verbal commitments. If a key investor drops, reach out immediately
           to your backup prospects and ask existing investors for referrals.
-          Speed is critical — a stalled fundraise can become a negative signal.
+          Speed is critical - a stalled fundraise can become a negative signal.
         </p>
 
         <h3 className={h3Class}>

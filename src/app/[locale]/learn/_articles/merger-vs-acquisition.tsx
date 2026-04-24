@@ -15,7 +15,7 @@ export default function MergerVsAcquisitionArticle() {
           a business combination.
         </p>
         <p>
-          In practice, most transactions in the small and medium enterprise space are acquisitions —
+          In practice, most transactions in the small and medium enterprise space are acquisitions - 
           one entity purchasing the assets or equity of another. But mergers do arise in specific
           contexts, particularly when combining businesses of similar size, consolidating within an
           industry, or achieving specific tax or regulatory objectives. Choosing the wrong structure
@@ -35,7 +35,7 @@ export default function MergerVsAcquisitionArticle() {
         <p>
           At the most fundamental level, a <strong>merger</strong> is a legal combination of two
           entities into one, while an <strong>acquisition</strong> is the purchase of one entity by
-          another. The distinction is not merely semantic — it affects everything from shareholder
+          another. The distinction is not merely semantic - it affects everything from shareholder
           approval requirements to successor liability.
         </p>
       </div>
@@ -52,7 +52,7 @@ export default function MergerVsAcquisitionArticle() {
         <p>
           This &quot;by operation of law&quot; mechanism is a critical distinction. Unlike an asset
           acquisition where the buyer selectively chooses which assets and liabilities to assume, a
-          merger transfers everything automatically — including unknown liabilities, pending litigation,
+          merger transfers everything automatically - including unknown liabilities, pending litigation,
           and contingent obligations. This creates both efficiency (no need to individually assign
           hundreds of contracts) and risk (successor liability for everything the merged entity owed
           or was responsible for).
@@ -61,7 +61,7 @@ export default function MergerVsAcquisitionArticle() {
           Mergers require approval from the shareholders (or members, in the case of LLCs) of both
           entities, typically by a majority or supermajority vote as specified in the entity&apos;s
           governing documents and applicable state law. Dissenting shareholders in many jurisdictions
-          have appraisal rights — the right to receive fair value for their shares rather than accept
+          have appraisal rights - the right to receive fair value for their shares rather than accept
           the merger consideration.
         </p>
       </div>
@@ -97,7 +97,7 @@ export default function MergerVsAcquisitionArticle() {
         <p>
           Acquisitions are generally simpler to execute than mergers because they can be structured as
           a private transaction between the buyer and seller (or the target&apos;s shareholders)
-          without necessarily requiring a vote of all shareholders — particularly in stock acquisitions
+          without necessarily requiring a vote of all shareholders - particularly in stock acquisitions
           where the buyer deals directly with individual shareholders.
         </p>
       </div>
@@ -136,7 +136,7 @@ export default function MergerVsAcquisitionArticle() {
           <li>
             <strong>Stock acquisition (taxable):</strong> The seller recognizes capital gain on the
             sale of stock. The buyer inherits the target entity&apos;s existing (historical) tax basis
-            in its assets — typically a less favorable outcome for the buyer than an asset acquisition
+            in its assets - typically a less favorable outcome for the buyer than an asset acquisition
             because there is no basis step-up. However, if the target is a C corporation, a Section
             338(h)(10) election can treat the stock purchase as an asset acquisition for tax purposes,
             providing the buyer with a stepped-up basis.
@@ -162,7 +162,7 @@ export default function MergerVsAcquisitionArticle() {
           </li>
           <li>
             <strong>Type B (stock-for-stock):</strong> The acquirer exchanges solely its voting stock
-            for the target&apos;s stock. This is the most restrictive form — essentially no non-stock
+            for the target&apos;s stock. This is the most restrictive form - essentially no non-stock
             consideration is permitted. The target becomes a subsidiary of the acquirer.
           </li>
           <li>
@@ -210,7 +210,7 @@ export default function MergerVsAcquisitionArticle() {
             or permits that would be difficult to transfer or re-obtain. You want to maintain the
             target&apos;s legal entity (and its history, credit, and regulatory standing). The target
             has favorable tax attributes (net operating losses, tax credits) that would be lost in an
-            asset acquisition. Simplicity is paramount — stock acquisitions require fewer individual
+            asset acquisition. Simplicity is paramount - stock acquisitions require fewer individual
             transfer documents.
           </li>
         </ul>
@@ -246,7 +246,7 @@ export default function MergerVsAcquisitionArticle() {
         </p>
         <p>
           For most small and medium enterprise transactions, reverse mergers are not relevant. They
-          are primarily tools for companies seeking public market access — a very different objective
+          are primarily tools for companies seeking public market access - a very different objective
           than the typical search fund or private equity acquisition. However, understanding reverse
           mergers is important for complete M&amp;A literacy and for evaluating situations where a target
           company may have previously gone public through this route.
@@ -267,7 +267,7 @@ export default function MergerVsAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          In a statutory merger, two entities merge directly — one absorbs the other. The surviving
+          In a statutory merger, two entities merge directly - one absorbs the other. The surviving
           entity assumes all assets and liabilities of the merged entity. This is the simplest form
           of merger and is governed by the merger statutes of the state(s) where the entities are
           organized.
@@ -275,7 +275,7 @@ export default function MergerVsAcquisitionArticle() {
         <p>
           The primary advantage of a direct merger is simplicity. All assets, contracts, and
           obligations transfer automatically by operation of law. The primary disadvantage is that
-          the surviving entity absorbs all liabilities — including unknown and contingent liabilities —
+          the surviving entity absorbs all liabilities - including unknown and contingent liabilities - 
           of the merged entity. For acquirers concerned about hidden risks, this exposure can be
           problematic.
         </p>
@@ -291,7 +291,7 @@ export default function MergerVsAcquisitionArticle() {
           liabilities.
         </p>
         <p>
-          This structure provides liability isolation — the target&apos;s liabilities are contained
+          This structure provides liability isolation - the target&apos;s liabilities are contained
           within the subsidiary rather than being absorbed directly by the parent acquirer. It also
           allows the acquirer to maintain the target as a separate legal entity, which may be
           important for regulatory, contractual, or operational reasons. Forward triangular mergers
@@ -304,7 +304,7 @@ export default function MergerVsAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           In a reverse triangular merger, the acquirer creates a subsidiary that merges into the
-          target — the opposite direction of a forward triangular merger. The target survives as a
+          target - the opposite direction of a forward triangular merger. The target survives as a
           wholly-owned subsidiary of the acquirer, and the acquisition subsidiary ceases to exist.
         </p>
         <p>
@@ -327,7 +327,7 @@ export default function MergerVsAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           One of the most important practical differences between mergers and acquisitions is how
-          they handle liability transfer — a topic that directly impacts the{" "}
+          they handle liability transfer - a topic that directly impacts the{" "}
           <Link href="/learn/closing-process" className="text-apple-accent hover:underline">
             closing process
           </Link>{" "}
@@ -345,14 +345,14 @@ export default function MergerVsAcquisitionArticle() {
           <li>
             <strong>Asset acquisitions:</strong> The buyer generally assumes only those liabilities
             specifically identified in the purchase agreement. Excluded liabilities remain with the
-            seller entity. However, several legal doctrines — including the &quot;de facto merger&quot;
-            doctrine, the &quot;mere continuation&quot; doctrine, and bulk sales laws — can impose
+            seller entity. However, several legal doctrines - including the &quot;de facto merger&quot;
+            doctrine, the &quot;mere continuation&quot; doctrine, and bulk sales laws - can impose
             successor liability on asset buyers in certain circumstances, particularly when the buyer
             acquires substantially all of the seller&apos;s assets.
           </li>
           <li>
             <strong>Stock acquisitions:</strong> Because the target entity continues to exist with all
-            its existing liabilities, the buyer effectively inherits all liabilities — similar to a
+            its existing liabilities, the buyer effectively inherits all liabilities - similar to a
             merger. However, the liability is contained within the target entity rather than being
             absorbed into the buyer&apos;s own entity, providing some structural separation.
           </li>
@@ -381,12 +381,12 @@ export default function MergerVsAcquisitionArticle() {
             <strong>Merger approvals:</strong> Mergers typically require approval from both boards of
             directors (or managing members) and a shareholder vote of both entities. Most state statutes
             require a majority or supermajority (often two-thirds) vote. This means a merger cannot
-            proceed if a significant minority of shareholders in either entity objects — though
+            proceed if a significant minority of shareholders in either entity objects - though
             dissenting shareholders generally have appraisal rights rather than veto power.
           </li>
           <li>
             <strong>Stock acquisition approvals:</strong> In a stock acquisition, the buyer negotiates
-            directly with each shareholder. No formal shareholder vote is required — but the buyer
+            directly with each shareholder. No formal shareholder vote is required - but the buyer
             must obtain enough shares to achieve its desired ownership level. If any shareholders
             refuse to sell, the buyer may end up with less than full ownership (though a subsequent
             squeeze-out merger can address this).
@@ -401,8 +401,8 @@ export default function MergerVsAcquisitionArticle() {
         </ul>
 
         <p>
-          For acquirers dealing with targets that have multiple shareholders — including those evaluating
-          family-owned businesses with complex ownership structures — the approval requirements
+          For acquirers dealing with targets that have multiple shareholders - including those evaluating
+          family-owned businesses with complex ownership structures - the approval requirements
           significantly influence structure selection.
         </p>
       </div>
@@ -430,7 +430,7 @@ export default function MergerVsAcquisitionArticle() {
           <li>
             <strong>Model the tax consequences:</strong> With your tax advisor, model the after-tax
             cost to both buyer and seller under each structural option. A structure that saves the buyer
-            tax but costs the seller more may affect the negotiated purchase price — analyze the net
+            tax but costs the seller more may affect the negotiated purchase price - analyze the net
             impact to both parties.
           </li>
           <li>
@@ -449,7 +449,7 @@ export default function MergerVsAcquisitionArticle() {
           <li>
             <strong>Align with the seller:</strong> The best structure is one that both parties can
             support. Understanding the seller&apos;s tax priorities, liability concerns, and practical
-            preferences — and being willing to negotiate structure as part of the overall deal — often
+            preferences - and being willing to negotiate structure as part of the overall deal - often
             leads to better outcomes than rigidly insisting on a single approach.
           </li>
         </ol>
@@ -461,27 +461,27 @@ export default function MergerVsAcquisitionArticle() {
         <li>
           <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
             Asset vs. Stock Purchase: Pros, Cons & Tax Impact
-          </Link>{" "}— Deep dive into the two primary acquisition structures
+          </Link>{" "} - Deep dive into the two primary acquisition structures
         </li>
         <li>
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             Business Valuation Methods Explained
-          </Link>{" "}— How structure affects valuation and deal economics
+          </Link>{" "} - How structure affects valuation and deal economics
         </li>
         <li>
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             Tax Planning for Business Acquisitions
-          </Link>{" "}— Optimizing tax outcomes across transaction structures
+          </Link>{" "} - Optimizing tax outcomes across transaction structures
         </li>
         <li>
           <Link href="/learn/closing-process" className="text-apple-accent hover:underline">
             The Closing Process: Timeline, Documents & Wire Transfers
-          </Link>{" "}— Executing the transaction once structure is determined
+          </Link>{" "} - Executing the transaction once structure is determined
         </li>
         <li>
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent: How to Draft & Negotiate
-          </Link>{" "}— Setting the structural framework early in negotiations
+          </Link>{" "} - Setting the structural framework early in negotiations
         </li>
       </ul>
 
@@ -508,7 +508,7 @@ export default function MergerVsAcquisitionArticle() {
 
       <ul className={ulClass}>
         <li>American Bar Association, <em>Model Merger Agreement for the Acquisition of a Public Company</em> (2nd ed., 2021)</li>
-        <li>Internal Revenue Service, <em>IRC Section 368 — Definitions Relating to Corporate Reorganizations</em></li>
+        <li>Internal Revenue Service, <em>IRC Section 368 - Definitions Relating to Corporate Reorganizations</em></li>
         <li>Martin D. Ginsburg, Jack S. Levin, and Donald E. Rocap, <em>Mergers, Acquisitions, and Buyouts</em> (Wolters Kluwer, 2023)</li>
         <li>Robert W. Hamilton, <em>The Law of Corporations in a Nutshell</em> (West Academic, 7th ed., 2020)</li>
         <li>Practical Law (Thomson Reuters), <em>Merger vs. Asset Deal vs. Stock Deal: Tax and Non-Tax Considerations</em> (2023)</li>

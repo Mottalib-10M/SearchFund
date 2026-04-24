@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 
-// GET /api/notifications — get user's notifications
+// GET /api/notifications - get user's notifications
 export async function GET(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -25,7 +25,7 @@ export async function GET(request: NextRequest) {
   return NextResponse.json({ notifications, unreadCount });
 }
 
-// PUT /api/notifications — mark as read
+// PUT /api/notifications - mark as read
 export async function PUT(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

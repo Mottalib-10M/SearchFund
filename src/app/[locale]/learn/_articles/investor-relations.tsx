@@ -11,7 +11,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Strong investor relations are one of the most underappreciated
           competitive advantages in the search fund model. Your investors are
-          not just sources of capital — they are mentors, board members,
+          not just sources of capital - they are mentors, board members,
           connectors, and potential backers of your next deal. How you
           communicate with them, especially during difficult periods,
           determines whether they become lifelong allies or one-time
@@ -52,12 +52,12 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>LOIs and deal activity:</strong> Status of any letters
             of intent submitted, under negotiation, or declined. Explain
-            why deals fell through — investors learn from these just as
+            why deals fell through - investors learn from these just as
             much as from wins.
           </li>
           <li>
             <strong>Market observations:</strong> Themes you are seeing in
-            deal flow — pricing trends, seller motivations, competitive
+            deal flow - pricing trends, seller motivations, competitive
             dynamics, sector insights. This demonstrates the depth of your
             search activity.
           </li>
@@ -68,7 +68,7 @@ export default function InvestorRelationsArticle() {
           </li>
           <li>
             <strong>Asks:</strong> Specific requests for introductions,
-            industry expertise, or advice. Investors want to help — give
+            industry expertise, or advice. Investors want to help - give
             them actionable ways to do so.
           </li>
         </ol>
@@ -82,7 +82,7 @@ export default function InvestorRelationsArticle() {
             <strong>Financial highlights:</strong> Revenue, EBITDA, and
             cash flow for the month, with comparisons to budget, prior
             year, and year-to-date figures. Present these as a simple
-            table — investors should be able to assess performance in
+            table - investors should be able to assess performance in
             under 30 seconds.
           </li>
           <li>
@@ -367,7 +367,7 @@ export default function InvestorRelationsArticle() {
           </li>
           <li>
             <strong>Operational deep-dive (20-30 minutes):</strong> Pick
-            one or two strategic topics to discuss in depth — a new market
+            one or two strategic topics to discuss in depth - a new market
             entry, a pricing change, a major hire, or an add-on acquisition
             opportunity. This is where board members add the most value.
           </li>
@@ -385,7 +385,7 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>Strategic discussion (15-20 minutes):</strong> Use
             the remaining time for open-ended strategic conversation.
-            Present decisions where you genuinely want board input —
+            Present decisions where you genuinely want board input - 
             not just rubber-stamp approvals.
           </li>
         </ul>
@@ -394,7 +394,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Once a year, ideally in person, hold a more comprehensive annual
           meeting with all investors. This meeting serves a different
-          purpose than the quarterly board calls — it is about
+          purpose than the quarterly board calls - it is about
           relationship building, strategic alignment, and celebrating
           (or honestly assessing) the year&apos;s progress. The annual
           meeting typically includes:
@@ -403,7 +403,7 @@ export default function InvestorRelationsArticle() {
           <li>A comprehensive year-in-review presentation covering financial performance, strategic milestones, and organizational development.</li>
           <li>A detailed budget and strategic plan for the coming year.</li>
           <li>If appropriate, a site visit to the business so investors can meet the team and see operations firsthand.</li>
-          <li>Time for informal networking and relationship building — dinner or drinks after the formal meeting.</li>
+          <li>Time for informal networking and relationship building - dinner or drinks after the formal meeting.</li>
         </ul>
 
         <h2 className={h2Class}>Transparency about bad news</h2>
@@ -412,7 +412,7 @@ export default function InvestorRelationsArticle() {
           <strong> never surprising your investors with bad news</strong>.
           If the business is underperforming, a key customer is at risk,
           or a strategic initiative has failed, communicate it immediately
-          and proactively — do not wait for the monthly update or
+          and proactively - do not wait for the monthly update or
           quarterly call. Investors who have backed dozens of search
           funds understand that every business faces setbacks. What they
           cannot tolerate is being kept in the dark.
@@ -441,9 +441,9 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>Year 1:</strong> Monthly written updates and quarterly
             board calls. This is the period of highest uncertainty and
-            learning — particularly during the{" "}
+            learning - particularly during the{" "}
             <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
-            — so more frequent communication is essential.
+ - so more frequent communication is essential.
           </li>
           <li>
             <strong>Years 2-3:</strong> Continue monthly updates but begin
@@ -465,8 +465,8 @@ export default function InvestorRelationsArticle() {
           transition into search fund investing themselves. The investor
           relationships you build during your first deal are the
           foundation for everything that comes next. Investors who had a
-          positive experience — not just financially, but in terms of
-          communication, transparency, and professionalism — are far more
+          positive experience - not just financially, but in terms of
+          communication, transparency, and professionalism - are far more
           likely to back you again or introduce you to their networks.
         </p>
         <p>
@@ -474,7 +474,7 @@ export default function InvestorRelationsArticle() {
           comprehensive report summarizing the investment&apos;s lifecycle,
           returns, and key lessons. Stay in touch with periodic updates
           on your career and future plans. The search fund community is
-          small and reputation-driven — your track record as a
+          small and reputation-driven - your track record as a
           communicator and operator follows you permanently.
         </p>
 

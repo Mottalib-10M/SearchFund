@@ -335,7 +335,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>First Year Priorities:</strong> Join the ETA club immediately and attend every event, even if you're still exploring the path. Take core courses in finance, accounting, strategy, and negotiations seriously—these fundamentals matter more than you realize during search and acquisition. Conduct informational interviews with 10+ alumni searchers to understand their journeys. Begin building investor relationships by attending club speaker events and following up thoughtfully afterward.
+          <strong>First Year Priorities:</strong> Join the ETA club immediately and attend every event, even if you're still exploring the path. Take core courses in finance, accounting, strategy, and negotiations seriously - these fundamentals matter more than you realize during search and acquisition. Conduct informational interviews with 10+ alumni searchers to understand their journeys. Begin building investor relationships by attending club speaker events and following up thoughtfully afterward.
         </p>
 
         <p className={bodyClass}>
@@ -355,7 +355,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Network Beyond Your School:</strong> Attend search fund conferences at other business schools. Join the <Link href="/learn" className="text-apple-accent hover:underline">Search Fund</Link> ecosystem through industry events. Connect with searchers from other programs—you may collaborate on deal flow or share lessons learned. The search fund community is small and collaborative; building cross-school relationships pays dividends.
+          <strong>Network Beyond Your School:</strong> Attend search fund conferences at other business schools. Join the <Link href="/learn" className="text-apple-accent hover:underline">Search Fund</Link> ecosystem through industry events. Connect with searchers from other programs - you may collaborate on deal flow or share lessons learned. The search fund community is small and collaborative; building cross-school relationships pays dividends.
         </p>
 
         <p className={bodyClass}>
@@ -363,7 +363,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          Your MBA program provides two invaluable years to prepare for the search fund journey. The schools profiled above offer varying strengths—investor networks at Stanford and HBS, financial rigor at Booth and Wharton, European opportunities at INSEAD and IESE, and emerging communities at programs like Ross and Darden. Choose the program that aligns with your geographic focus, learning style, and career goals, then commit fully to extracting every resource the school offers.
+          Your MBA program provides two invaluable years to prepare for the search fund journey. The schools profiled above offer varying strengths - investor networks at Stanford and HBS, financial rigor at Booth and Wharton, European opportunities at INSEAD and IESE, and emerging communities at programs like Ross and Darden. Choose the program that aligns with your geographic focus, learning style, and career goals, then commit fully to extracting every resource the school offers.
         </p>
 
         <p className={bodyClass}>

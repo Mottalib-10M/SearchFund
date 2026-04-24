@@ -95,10 +95,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     searcher.thesisDescription?.slice(0, 160) ||
     `${name} is a search fund entrepreneur on SearchFundMarket.`;
   return {
-    title: `${name} — Search Fund Entrepreneur | SearchFundMarket`,
+    title: `${name} - Search Fund Entrepreneur | SearchFundMarket`,
     description,
     openGraph: {
-      title: `${name} — Search Fund Entrepreneur on SearchFundMarket`,
+      title: `${name} - Search Fund Entrepreneur on SearchFundMarket`,
       description: searcher.headline || `Discover ${name}'s search thesis and acquisition criteria on SearchFundMarket.`,
     },
   };
@@ -164,7 +164,7 @@ export default async function SearcherProfilePage({ params }: PageProps) {
       {/* Sample badge */}
       {isSample && (
         <div className="mt-4 rounded-lg bg-amber-50 border border-amber-200 px-4 py-2">
-          <p className="text-xs text-amber-800">Sample profile — This is a representative example of a search fund entrepreneur, not a real individual.</p>
+          <p className="text-xs text-amber-800">Sample profile - This is a representative example of a search fund entrepreneur, not a real individual.</p>
         </div>
       )}
 

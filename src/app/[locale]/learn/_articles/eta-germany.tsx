@@ -9,7 +9,7 @@ export default function ETAGermanyArticle() {
 
       <div className={bodyClass}>
         <p>
-          Germany&apos;s Mittelstand — the backbone of Europe&apos;s largest economy — represents
+          Germany&apos;s Mittelstand - the backbone of Europe&apos;s largest economy - represents
           one of the most compelling opportunities for search fund entrepreneurs within the broader <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA landscape</Link>.
           With over 3.5 million SMEs, a massive succession wave, and
           world-class companies operating in niche markets, Germany is a
@@ -22,7 +22,7 @@ export default function ETAGermanyArticle() {
           form the heart of the German economy. These companies are often
           family-owned, have operated for decades, are market leaders in their
           niches, and are deeply rooted in their local communities. Many are
-          &ldquo;hidden champions&rdquo; — global market leaders in specialized
+          &ldquo;hidden champions&rdquo; - global market leaders in specialized
           products or services that few outside the industry know about.
         </p>
         <p>
@@ -30,9 +30,9 @@ export default function ETAGermanyArticle() {
           embodies a business philosophy: long-term thinking over quarterly
           results, deep technical expertise over financial engineering, loyalty
           to employees and communities over short-term profit maximization.
-          These values are what make Mittelstand companies resilient — many
+          These values are what make Mittelstand companies resilient - many
           survived two World Wars, hyperinflation, and the 2008 financial
-          crisis — and they are also what make succession so delicate. Owners
+          crisis - and they are also what make succession so delicate. Owners
           are not simply selling a revenue stream; they are entrusting their
           family legacy.
         </p>
@@ -44,7 +44,7 @@ export default function ETAGermanyArticle() {
           fund acquisition, they illustrate the depth of German
           specialization. Below the hidden champions, thousands of smaller
           companies with EUR 2-20 million in revenue operate with similar
-          focus and quality — and many of these are within the search fund
+          focus and quality - and many of these are within the search fund
           sweet spot.
         </p>
 
@@ -69,7 +69,7 @@ export default function ETAGermanyArticle() {
           The KfW Research estimates that 600,000 SME owners plan to step
           down by 2027, with approximately 150,000 actively seeking an
           external successor. Many of these owners have been postponing
-          retirement because they cannot find a suitable buyer — someone
+          retirement because they cannot find a suitable buyer - someone
           who will preserve the company culture, retain employees, and
           continue investing in quality. This preference for a
           &ldquo;custodial&rdquo; buyer aligns perfectly with the search fund
@@ -99,7 +99,7 @@ export default function ETAGermanyArticle() {
 
         <h3 className={h3Class}>GmbH &amp; Co. KG</h3>
         <p>
-          Many German family businesses are structured as a GmbH &amp; Co. KG —
+          Many German family businesses are structured as a GmbH &amp; Co. KG - 
           a limited partnership (KG) where the general partner with
           unlimited liability is itself a GmbH, combining liability
           protection with the tax transparency of a partnership. This
@@ -147,7 +147,7 @@ export default function ETAGermanyArticle() {
         <h3 className={h3Class}>KfW development bank: the cornerstone of acquisition financing</h3>
         <p>
           The KfW is the single most important financing institution for
-          search fund acquisitions in Germany. Its ERP-Grunderkredit —
+          search fund acquisitions in Germany. Its ERP-Grunderkredit - 
           Universell program provides loans up to EUR 25 million at
           subsidized interest rates for business acquisitions, with the
           KfW assuming up to 80% of the credit risk from the lending bank.
@@ -214,7 +214,7 @@ export default function ETAGermanyArticle() {
           Regensburg. Valuations tend to be slightly higher here due to
           stronger economic fundamentals, but so is the quality of
           companies. Bavarian business culture is relationship-driven and
-          somewhat conservative — expect longer courtship periods with
+          somewhat conservative - expect longer courtship periods with
           sellers.
         </p>
 
@@ -226,8 +226,8 @@ export default function ETAGermanyArticle() {
           precision engineering, automotive, and mechanical engineering
           companies. Many of these are family-owned, export-oriented, and
           generate EUR 5-50 million in revenue. The Swabian business
-          philosophy — &ldquo;schaffe, schaffe, Hausle baue&rdquo; (work, work,
-          build your house) — values frugality, quality, and long-term
+          philosophy - &ldquo;schaffe, schaffe, Hausle baue&rdquo; (work, work,
+          build your house) - values frugality, quality, and long-term
           thinking, making succession a particularly emotional topic.
         </p>
 
@@ -307,7 +307,7 @@ export default function ETAGermanyArticle() {
           German business culture is fundamentally different from the
           Anglo-Saxon deal-making environment. German sellers are not
           running an auction process looking for the highest bidder. They
-          are looking for a Nachfolger (successor) — someone who will
+          are looking for a Nachfolger (successor) - someone who will
           continue what they built. This means the process is slower,
           more relationship-driven, and places a premium on the buyer&apos;s
           character, competence, and commitment. It is not uncommon for a

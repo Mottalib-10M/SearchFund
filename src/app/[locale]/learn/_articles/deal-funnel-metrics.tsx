@@ -13,7 +13,7 @@ export default function DealFunnelMetricsArticle() {
 
       <div className="prose dark:prose-invert max-w-none">
         <p className={bodyClass}>
-          The search fund journey is fundamentally a numbers game. While every searcher dreams of finding the perfect acquisition on their first try, the reality is that closing a deal requires systematically evaluating hundreds of businesses, conducting dozens of conversations, and maintaining disciplined tracking throughout the process. Understanding your deal funnel—and the metrics that drive it—is critical to successfully acquiring a company within the typical 18-24 month search window.
+          The search fund journey is fundamentally a numbers game. While every searcher dreams of finding the perfect acquisition on their first try, the reality is that closing a deal requires systematically evaluating hundreds of businesses, conducting dozens of conversations, and maintaining disciplined tracking throughout the process. Understanding your deal funnel - and the metrics that drive it - is critical to successfully acquiring a company within the typical 18-24 month search window.
         </p>
 
         <p className={bodyClass}>
@@ -35,7 +35,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          The funnel also evolves throughout your search. In months 1-6, you'll focus heavily on the top of the funnel—identifying businesses, making outreach, and getting initial meetings. In months 7-18, you'll likely have several opportunities moving through the middle stages simultaneously. In months 19-24, if everything goes according to plan, you'll be deep in due diligence and negotiation on your final target. Understanding these phases helps you allocate time and resources appropriately.
+          The funnel also evolves throughout your search. In months 1-6, you'll focus heavily on the top of the funnel - identifying businesses, making outreach, and getting initial meetings. In months 7-18, you'll likely have several opportunities moving through the middle stages simultaneously. In months 19-24, if everything goes according to plan, you'll be deep in due diligence and negotiation on your final target. Understanding these phases helps you allocate time and resources appropriately.
         </p>
 
         <h2 className={h2Class}>Stage-by-Stage Breakdown</h2>
@@ -43,7 +43,7 @@ export default function DealFunnelMetricsArticle() {
         <h3 className={h3Class}>Universe: Identified Targets</h3>
 
         <p className={bodyClass}>
-          The top of your funnel begins with the universe of potential acquisition targets. This includes every business that theoretically fits your acquisition criteria—typically companies generating $1-5 million in EBITDA, operating in industries you understand or can learn, located in geographies where you're willing to operate, and exhibiting characteristics that suggest they might be attractive acquisitions.
+          The top of your funnel begins with the universe of potential acquisition targets. This includes every business that theoretically fits your acquisition criteria - typically companies generating $1-5 million in EBITDA, operating in industries you understand or can learn, located in geographies where you're willing to operate, and exhibiting characteristics that suggest they might be attractive acquisitions.
         </p>
 
         <p className={bodyClass}>
@@ -53,7 +53,7 @@ export default function DealFunnelMetricsArticle() {
         <h3 className={h3Class}>Screened: Reviewed & Qualified</h3>
 
         <p className={bodyClass}>
-          From your universe, you'll conduct deeper screening to identify the 200-500 businesses worth actively pursuing. This stage involves reviewing whatever information is publicly available—company websites, news articles, LinkedIn profiles of key executives, industry reports, and for broker listings, the teaser or executive summary. You're looking for red flags that would disqualify the opportunity (regulatory issues, declining market, key customer concentration) as well as green flags that make it particularly attractive (strong market position, recurring revenue, experienced management team).
+          From your universe, you'll conduct deeper screening to identify the 200-500 businesses worth actively pursuing. This stage involves reviewing whatever information is publicly available - company websites, news articles, LinkedIn profiles of key executives, industry reports, and for broker listings, the teaser or executive summary. You're looking for red flags that would disqualify the opportunity (regulatory issues, declining market, key customer concentration) as well as green flags that make it particularly attractive (strong market position, recurring revenue, experienced management team).
         </p>
 
         <p className={bodyClass}>
@@ -87,7 +87,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          At this stage, you're conducting desktop due diligence—analyzing financials, building valuation models, identifying key diligence questions, and determining if the business merits the significant time investment of in-person meetings and deeper investigation. Many searchers fail to be aggressive enough in killing deals at this stage. If the EBITDA margins are half of what you expected, the revenue growth has been flat or declining, or the working capital requirements are massive, this is the time to politely exit rather than wasting weeks on meetings that go nowhere.
+          At this stage, you're conducting desktop due diligence - analyzing financials, building valuation models, identifying key diligence questions, and determining if the business merits the significant time investment of in-person meetings and deeper investigation. Many searchers fail to be aggressive enough in killing deals at this stage. If the EBITDA margins are half of what you expected, the revenue growth has been flat or declining, or the working capital requirements are massive, this is the time to politely exit rather than wasting weeks on meetings that go nowhere.
         </p>
 
         <h3 className={h3Class}>Meeting: Management Presentations & Site Visits</h3>
@@ -97,7 +97,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          Successful searchers use this stage not just to gather information but to begin building the relationship that will be critical during negotiation and transition. You're selling yourself as much as you're evaluating the business—demonstrating that you're competent, trustworthy, and someone the owner would be comfortable handing their life's work to. The questions you ask, your preparedness, and your professional demeanor all contribute to how seriously your eventual LOI will be considered.
+          Successful searchers use this stage not just to gather information but to begin building the relationship that will be critical during negotiation and transition. You're selling yourself as much as you're evaluating the business - demonstrating that you're competent, trustworthy, and someone the owner would be comfortable handing their life's work to. The questions you ask, your preparedness, and your professional demeanor all contribute to how seriously your eventual LOI will be considered.
         </p>
 
         <h3 className={h3Class}>LOI: Letter of Intent Submitted</h3>
@@ -117,13 +117,13 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          Due diligence is expensive—expect to spend $100,000-$300,000 on professional advisors—and time-consuming. You'll be managing attorneys, accountants, industry consultants, and environmental specialists while continuing to build your relationship with the seller and key employees. Many issues will surface during diligence; the key is distinguishing between deal-breakers that should terminate the transaction and normal issues that warrant price adjustments or modified terms.
+          Due diligence is expensive - expect to spend $100,000-$300,000 on professional advisors - and time-consuming. You'll be managing attorneys, accountants, industry consultants, and environmental specialists while continuing to build your relationship with the seller and key employees. Many issues will surface during diligence; the key is distinguishing between deal-breakers that should terminate the transaction and normal issues that warrant price adjustments or modified terms.
         </p>
 
         <h3 className={h3Class}>Close: Transaction Completed</h3>
 
         <p className={bodyClass}>
-          The final stage is closing the transaction, which involves finalizing the purchase agreement, securing financing, obtaining investor commitments, satisfying conditions precedent, and ultimately transferring ownership. Even at this late stage, deals can fall apart—financing can fail to materialize, sellers can get cold feet, or material adverse changes can occur in the business.
+          The final stage is closing the transaction, which involves finalizing the purchase agreement, securing financing, obtaining investor commitments, satisfying conditions precedent, and ultimately transferring ownership. Even at this late stage, deals can fall apart - financing can fail to materialize, sellers can get cold feet, or material adverse changes can occur in the business.
         </p>
 
         <p className={bodyClass}>
@@ -133,7 +133,7 @@ export default function DealFunnelMetricsArticle() {
         <h2 className={h2Class}>Benchmark Conversion Rates at Each Stage</h2>
 
         <p className={bodyClass}>
-          Understanding typical conversion rates at each funnel stage helps you assess whether your search is on track or if you need to adjust your approach. These benchmarks are drawn from Stanford Search Fund Primer data, interviews with successful searchers, and aggregated industry data. Keep in mind that these are averages—your specific rates will depend on your industry focus, geography, deal sourcing strategy, and execution quality.
+          Understanding typical conversion rates at each funnel stage helps you assess whether your search is on track or if you need to adjust your approach. These benchmarks are drawn from Stanford Search Fund Primer data, interviews with successful searchers, and aggregated industry data. Keep in mind that these are averages - your specific rates will depend on your industry focus, geography, deal sourcing strategy, and execution quality.
         </p>
 
         <p className={bodyClass}>
@@ -208,7 +208,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Weekly outreach target: 15-25 new businesses contacted.</strong> This might be a combination of broker deal IOIs, direct outreach emails to off-market businesses, networking calls to intermediaries, and warm introductions from your investor network. The key is consistency—you should be adding new top-of-funnel activity every single week, even when you're busy with deals in later stages.
+          <strong>Weekly outreach target: 15-25 new businesses contacted.</strong> This might be a combination of broker deal IOIs, direct outreach emails to off-market businesses, networking calls to intermediaries, and warm introductions from your investor network. The key is consistency - you should be adding new top-of-funnel activity every single week, even when you're busy with deals in later stages.
         </p>
 
         <p className={bodyClass}>
@@ -220,7 +220,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Monthly meeting target: 2-4 site visits.</strong> You should be conducting in-person meetings roughly every other week on average. These are time-intensive—often requiring travel, facility tours, and multiple hours of presentations and Q&A—so you can't do them daily. But if you're only doing one per quarter, you're not advancing enough deals through your funnel.
+          <strong>Monthly meeting target: 2-4 site visits.</strong> You should be conducting in-person meetings roughly every other week on average. These are time-intensive - often requiring travel, facility tours, and multiple hours of presentations and Q&A - so you can't do them daily. But if you're only doing one per quarter, you're not advancing enough deals through your funnel.
         </p>
 
         <p className={bodyClass}>
@@ -308,7 +308,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Responded → NDA/CIM: 1-3 weeks.</strong> This stage involves initial qualifying conversations and requesting information. It should move quickly—if a seller is interested, they'll share data promptly. Long delays here often indicate the seller isn't seriously considering a sale or is waiting for a better offer from someone else.
+          <strong>Responded → NDA/CIM: 1-3 weeks.</strong> This stage involves initial qualifying conversations and requesting information. It should move quickly - if a seller is interested, they'll share data promptly. Long delays here often indicate the seller isn't seriously considering a sale or is waiting for a better offer from someone else.
         </p>
 
         <p className={bodyClass}>
@@ -320,15 +320,15 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>LOI → Due Diligence: 1-2 weeks.</strong> Once you submit an LOI, negotiations typically take 1-2 weeks to reach an accepted agreement and signed exclusivity period. Longer negotiations aren't necessarily bad—complex deal structures and multiple parties can extend this—but be wary of deals that drag on for months at the LOI stage without progress.
+          <strong>LOI → Due Diligence: 1-2 weeks.</strong> Once you submit an LOI, negotiations typically take 1-2 weeks to reach an accepted agreement and signed exclusivity period. Longer negotiations aren't necessarily bad - complex deal structures and multiple parties can extend this - but be wary of deals that drag on for months at the LOI stage without progress.
         </p>
 
         <p className={bodyClass}>
-          <strong>Due Diligence → Close: 60-90 days.</strong> Full diligence, financing arrangements, final purchase agreement negotiations, and closing logistics typically require 2-3 months. This is the longest time-in-stage, and it's largely driven by third parties (lawyers, accountants, lenders), so there's limited room to compress it. However, diligence that extends beyond 120 days often indicates problems—either issues discovered that need resolution or parties getting cold feet.
+          <strong>Due Diligence → Close: 60-90 days.</strong> Full diligence, financing arrangements, final purchase agreement negotiations, and closing logistics typically require 2-3 months. This is the longest time-in-stage, and it's largely driven by third parties (lawyers, accountants, lenders), so there's limited room to compress it. However, diligence that extends beyond 120 days often indicates problems - either issues discovered that need resolution or parties getting cold feet.
         </p>
 
         <p className={bodyClass}>
-          From initial contact to close, the entire cycle typically spans 6-12 months for successful transactions. This is why you need multiple deals in your pipeline simultaneously—while one is in diligence, others are progressing through earlier stages. Your goal should be to have 3-5 deals in active stages (CIM → LOI) at any given time during months 6-18 of your search.
+          From initial contact to close, the entire cycle typically spans 6-12 months for successful transactions. This is why you need multiple deals in your pipeline simultaneously - while one is in diligence, others are progressing through earlier stages. Your goal should be to have 3-5 deals in active stages (CIM → LOI) at any given time during months 6-18 of your search.
         </p>
 
         <h2 className={h2Class}>The Quality vs Quantity Debate</h2>
@@ -360,15 +360,15 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Improving contacted → responded conversion:</strong> Test multiple outreach channels (email, phone, LinkedIn, direct mail). Personalize every message with specific references to the business. Lead with a clear value proposition explaining why selling to you specifically is attractive. Use compelling subject lines that generate curiosity without being gimmicky. Follow up persistently but respectfully—often the fifth touch generates the response that the first four didn't. Seek warm introductions rather than cold outreach whenever possible.
+          <strong>Improving contacted → responded conversion:</strong> Test multiple outreach channels (email, phone, LinkedIn, direct mail). Personalize every message with specific references to the business. Lead with a clear value proposition explaining why selling to you specifically is attractive. Use compelling subject lines that generate curiosity without being gimmicky. Follow up persistently but respectfully - often the fifth touch generates the response that the first four didn't. Seek warm introductions rather than cold outreach whenever possible.
         </p>
 
         <p className={bodyClass}>
-          <strong>Improving responded → NDA conversion:</strong> Move fast on initial responses—reply within hours, not days. Ask smart questions that demonstrate you've done your homework. Be clear about your process, timeline, and seriousness as a buyer. Make it easy for the seller by having your NDA template ready and being flexible on their preferred format. Build rapport quickly by finding common ground and demonstrating genuine interest in their business story.
+          <strong>Improving responded → NDA conversion:</strong> Move fast on initial responses - reply within hours, not days. Ask smart questions that demonstrate you've done your homework. Be clear about your process, timeline, and seriousness as a buyer. Make it easy for the seller by having your NDA template ready and being flexible on their preferred format. Build rapport quickly by finding common ground and demonstrating genuine interest in their business story.
         </p>
 
         <p className={bodyClass}>
-          <strong>Improving NDA → meeting conversion:</strong> Conduct thorough desktop diligence and ask insightful questions that show deep understanding. Qualify aggressively—if the financials don't work, politely exit rather than wasting everyone's time. When you do want to pursue a meeting, propose 2-3 specific dates and make scheduling frictionless. Consider video calls before site visits for complex logistics. Demonstrate momentum and decisiveness.
+          <strong>Improving NDA → meeting conversion:</strong> Conduct thorough desktop diligence and ask insightful questions that show deep understanding. Qualify aggressively - if the financials don't work, politely exit rather than wasting everyone's time. When you do want to pursue a meeting, propose 2-3 specific dates and make scheduling frictionless. Consider video calls before site visits for complex logistics. Demonstrate momentum and decisiveness.
         </p>
 
         <p className={bodyClass}>
@@ -376,7 +376,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Improving LOI → diligence conversion:</strong> Make sure your initial LOI is reasonable and market-tested—overly aggressive offers just waste time. Include terms that demonstrate you understand the seller's priorities (transition timeline, employee retention, legacy preservation). Build strong relationships before submitting LOIs so sellers are predisposed to work with you. Be responsive during negotiations and willing to compromise on smaller points. Demonstrate that you have financing lined up and investor support ready.
+          <strong>Improving LOI → diligence conversion:</strong> Make sure your initial LOI is reasonable and market-tested - overly aggressive offers just waste time. Include terms that demonstrate you understand the seller's priorities (transition timeline, employee retention, legacy preservation). Build strong relationships before submitting LOIs so sellers are predisposed to work with you. Be responsive during negotiations and willing to compromise on smaller points. Demonstrate that you have financing lined up and investor support ready.
         </p>
 
         <p className={bodyClass}>
@@ -384,7 +384,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          The compounding effect of small improvements is dramatic. If you improve your response rate from 15% to 20%, your NDA conversion from 50% to 60%, and your LOI acceptance from 50% to 70%, you've nearly doubled your overall funnel efficiency. This means you can acquire a business by contacting 300 businesses instead of 600—a massive time savings that allows you to focus more energy on fewer, higher-quality opportunities.
+          The compounding effect of small improvements is dramatic. If you improve your response rate from 15% to 20%, your NDA conversion from 50% to 60%, and your LOI acceptance from 50% to 70%, you've nearly doubled your overall funnel efficiency. This means you can acquire a business by contacting 300 businesses instead of 600 - a massive time savings that allows you to focus more energy on fewer, higher-quality opportunities.
         </p>
 
         <h2 className={h2Class}>Conclusion</h2>
@@ -425,19 +425,19 @@ export default function DealFunnelMetricsArticle() {
 
         <ul className={ulClass}>
           <li>
-            Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) — comprehensive data on search fund deal flow, conversion rates, and time-to-close metrics
+            Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) - comprehensive data on search fund deal flow, conversion rates, and time-to-close metrics
           </li>
           <li>
-            <em>HBR Guide to Buying a Small Business</em> by Richard S. Ruback & Royce Yudkoff — frameworks for deal sourcing and funnel management strategies
+            <em>HBR Guide to Buying a Small Business</em> by Richard S. Ruback & Royce Yudkoff - frameworks for deal sourcing and funnel management strategies
           </li>
           <li>
-            International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> — data on typical transaction timelines and seller engagement patterns
+            International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> - data on typical transaction timelines and seller engagement patterns
           </li>
           <li>
-            <em>Buy Then Build</em> by Walker Deibel — tactical guidance on CRM systems and activity tracking for acquisition entrepreneurs
+            <em>Buy Then Build</em> by Walker Deibel - tactical guidance on CRM systems and activity tracking for acquisition entrepreneurs
           </li>
           <li>
-            Pacific Lake Partners, <em>Search Fund Best Practices</em> — insights from successful searchers on optimizing conversion rates and managing deal pipelines
+            Pacific Lake Partners, <em>Search Fund Best Practices</em> - insights from successful searchers on optimizing conversion rates and managing deal pipelines
           </li>
           <li>
             Author interviews with 15+ successful search fund entrepreneurs (2023-2024) on actual funnel metrics, time-in-stage analysis, and optimization strategies

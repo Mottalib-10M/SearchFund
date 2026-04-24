@@ -83,7 +83,7 @@ export default function SearchFundLegalStructureArticle() {
         <h3 className={h3Class}>The LLC operating entity</h3>
         <p>
           When a target is identified, the searcher forms a new <strong>Limited
-          Liability Company (LLC)</strong> — or sometimes a C-Corporation — to
+          Liability Company (LLC)</strong> - or sometimes a C-Corporation - to
           serve as the acquisition vehicle. The LP invests its capital into this
           operating entity, which then purchases the target&apos;s assets or equity.
           An LLC taxed as a partnership is the most common choice because it
@@ -124,7 +124,7 @@ export default function SearchFundLegalStructureArticle() {
             popular entity for both the holding company and the operating
             company. The SAS offers enormous flexibility in governance, share
             classes, and shareholder agreements. It has no minimum board
-            requirements and allows customized voting and economic rights — ideal
+            requirements and allows customized voting and economic rights - ideal
             for replicating the US search fund economics.
           </li>
           <li>
@@ -192,7 +192,7 @@ export default function SearchFundLegalStructureArticle() {
             <strong>LLP (Limited Liability Partnership):</strong> Sometimes
             used as the investment vehicle to provide partnership-style
             pass-through taxation to investors while maintaining limited
-            liability. UK LLPs are transparent for tax purposes — profits
+            liability. UK LLPs are transparent for tax purposes - profits
             are taxed at the partner level, not the entity level.
           </li>
           <li>
@@ -243,7 +243,7 @@ export default function SearchFundLegalStructureArticle() {
           entities (LPs and LLCs taxed as partnerships) avoid double taxation:
           profits flow to investors&apos; personal returns and are taxed once. A
           C-Corporation, by contrast, pays corporate tax on profits and
-          shareholders pay tax again on dividends or capital gains — though
+          shareholders pay tax again on dividends or capital gains - though
           QSBS treatment under Section 1202 can eliminate federal capital gains
           tax on up to $10 million (or 10x basis) if the stock is held for at
           least five years.
@@ -273,7 +273,7 @@ export default function SearchFundLegalStructureArticle() {
           </li>
           <li>
             <strong>Before closing:</strong> The operating / acquisition entity
-            must be formed well before closing — lenders, sellers, and
+            must be formed well before closing - lenders, sellers, and
             escrow agents need the entity&apos;s formation documents, EIN (or
             local equivalent), and bank accounts in place.
           </li>
@@ -282,7 +282,7 @@ export default function SearchFundLegalStructureArticle() {
         <h2 className={h2Class}>Working with lawyers</h2>
         <p>
           Search fund entity setup is not a do-it-yourself project. You need
-          counsel experienced with search fund structures specifically — not
+          counsel experienced with search fund structures specifically - not
           just any corporate attorney. The right lawyer will draft your LP
           agreement (or equivalent), advise on securities compliance for the
           fundraise, structure the{" "}
@@ -300,8 +300,8 @@ export default function SearchFundLegalStructureArticle() {
           in the US. These fees are typically paid from search capital.
         </p>
         <p>
-          Start conversations with lawyers early — ideally before you begin
-          fundraising — so that your entity structure, offering documents, and
+          Start conversations with lawyers early - ideally before you begin
+          fundraising - so that your entity structure, offering documents, and
           investor agreements are ready when you start taking meetings. A
           well-prepared legal package signals professionalism to investors and
           avoids delays that can cost you momentum.

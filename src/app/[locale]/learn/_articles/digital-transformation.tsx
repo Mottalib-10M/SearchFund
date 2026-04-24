@@ -405,9 +405,9 @@ export default function DigitalTransformationArticle() {
             employee requests.
           </li>
           <li>
-            Set up basic financial dashboards — including{" "}
+            Set up basic financial dashboards - including{" "}
             <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital metrics</Link>{" "}
-            — using data from your existing accounting system.
+            - using data from your existing accounting system.
           </li>
           <li>
             Clean up the company website: update contact information, improve

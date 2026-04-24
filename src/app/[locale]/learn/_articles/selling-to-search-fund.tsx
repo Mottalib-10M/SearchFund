@@ -546,7 +546,7 @@ export default function SellingToSearchFundArticle() {
           </Link>.
         </p>
 
-        {/* ── H2 8 — FAQ ── */}
+        {/* ── H2 8 - FAQ ── */}
         <h2 className={h2Class}>
           Frequently asked questions about selling to a search fund
         </h2>

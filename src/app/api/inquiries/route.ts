@@ -5,7 +5,7 @@ import { createNotification } from "@/lib/notifications";
 import { newInquiryEmail } from "@/lib/emails/new-inquiry";
 import { sendEmail } from "@/lib/emails/send";
 
-// POST /api/inquiries — send an inquiry to a seller
+// POST /api/inquiries - send an inquiry to a seller
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

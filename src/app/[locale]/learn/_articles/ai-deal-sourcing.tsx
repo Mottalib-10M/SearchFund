@@ -85,7 +85,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Geographic and Market Intelligence</h3>
 
       <p className={bodyClass}>
-        AI tools can identify local market leaders that might not appear in traditional databases. By analyzing review sites, local directories, and social media presence, these platforms find hidden gems—established businesses with strong local reputations but limited online presence.
+        AI tools can identify local market leaders that might not appear in traditional databases. By analyzing review sites, local directories, and social media presence, these platforms find hidden gems - established businesses with strong local reputations but limited online presence.
       </p>
 
       <p className={bodyClass}>
@@ -101,7 +101,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Personalization at Scale</h3>
 
       <p className={bodyClass}>
-        Generic mass emails have abysmal response rates. Sellers can spot templated outreach instantly and typically ignore it. The key to effective outreach is personalization—but personalizing messages for hundreds or thousands of targets is impossibly time-consuming manually.
+        Generic mass emails have abysmal response rates. Sellers can spot templated outreach instantly and typically ignore it. The key to effective outreach is personalization - but personalizing messages for hundreds or thousands of targets is impossibly time-consuming manually.
       </p>
 
       <p className={bodyClass}>
@@ -117,7 +117,7 @@ export default function AIDealSourcingArticle() {
       </ul>
 
       <p className={bodyClass}>
-        A well-crafted AI-generated message might reference a recent article about the company, mention a mutual connection, and explain specifically why you're interested in their business—all without requiring manual research for each target.
+        A well-crafted AI-generated message might reference a recent article about the company, mention a mutual connection, and explain specifically why you're interested in their business - all without requiring manual research for each target.
       </p>
 
       <h3 className={h3Class}>Multi-Channel Sequences</h3>
@@ -149,7 +149,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        Some platforms can handle initial qualification conversations automatically, asking clarifying questions and gathering information before escalating to a human searcher. This is controversial—many sellers want to speak with a real person—but can be effective for high-volume searchers when implemented carefully.
+        Some platforms can handle initial qualification conversations automatically, asking clarifying questions and gathering information before escalating to a human searcher. This is controversial - many sellers want to speak with a real person - but can be effective for high-volume searchers when implemented carefully.
       </p>
 
       <h2 className={h2Class}>CRM and Pipeline Intelligence</h2>
@@ -165,7 +165,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        Natural language processing extracts key information from these interactions—valuation expectations, timing, potential obstacles—and updates deal records automatically. This ensures critical information is never lost in email threads or forgotten after calls.
+        Natural language processing extracts key information from these interactions - valuation expectations, timing, potential obstacles - and updates deal records automatically. This ensures critical information is never lost in email threads or forgotten after calls.
       </p>
 
       <h3 className={h3Class}>Pipeline Predictions and Prioritization</h3>
@@ -225,7 +225,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Valuation Benchmarking</h3>
 
       <p className={bodyClass}>
-        AI platforms can compare a target's financial profile against databases of comparable transactions, providing instant valuation benchmarks. While these should be taken with a grain of salt—every business is unique—they provide useful reference points for initial negotiations.
+        AI platforms can compare a target's financial profile against databases of comparable transactions, providing instant valuation benchmarks. While these should be taken with a grain of salt - every business is unique - they provide useful reference points for initial negotiations.
       </p>
 
       <h2 className={h2Class}>Predictive Models for Seller Intent</h2>
@@ -439,7 +439,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        The searchers who succeed aren't those with the best AI tools—they're those who use AI to free up time for deep relationship-building with the right sellers.
+        The searchers who succeed aren't those with the best AI tools - they're those who use AI to free up time for deep relationship-building with the right sellers.
       </p>
 
       <h3 className={h3Class}>Ethical Considerations</h3>
@@ -498,13 +498,13 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Predictive Acquisition Success Models</h3>
 
       <p className={bodyClass}>
-        As more search fund data becomes available, AI models will get better at predicting which acquisitions are likely to succeed. By analyzing historical patterns—industry, business characteristics, searcher background, financing structure—these models could provide early warnings about potential pitfalls.
+        As more search fund data becomes available, AI models will get better at predicting which acquisitions are likely to succeed. By analyzing historical patterns - industry, business characteristics, searcher background, financing structure - these models could provide early warnings about potential pitfalls.
       </p>
 
       <h3 className={h3Class}>Integration and Ecosystems</h3>
 
       <p className={bodyClass}>
-        Today's tools are mostly standalone. The future will see tighter integration: your target identification platform will automatically enrich data, generate personalized outreach, schedule it through your email system, log interactions in your CRM, and analyze response sentiment—all without manual intervention.
+        Today's tools are mostly standalone. The future will see tighter integration: your target identification platform will automatically enrich data, generate personalized outreach, schedule it through your email system, log interactions in your CRM, and analyze response sentiment - all without manual intervention.
       </p>
 
       <p className={bodyClass}>
@@ -514,7 +514,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Democratization vs. Commoditization</h3>
 
       <p className={bodyClass}>
-        There's a tension in how AI will impact the search fund model. On one hand, it democratizes access—solo searchers can now compete with teams. On the other hand, if everyone has the same AI tools, competitive advantage comes from differentiation: unique insights, better relationships, superior execution.
+        There's a tension in how AI will impact the search fund model. On one hand, it democratizes access - solo searchers can now compete with teams. On the other hand, if everyone has the same AI tools, competitive advantage comes from differentiation: unique insights, better relationships, superior execution.
       </p>
 
       <p className={bodyClass}>
@@ -538,7 +538,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        As you build your AI-augmented search process, start small, measure results, and iterate continuously. The technology is evolving rapidly—what works today may be obsolete in six months. Stay curious, experiment with new tools, but always keep the fundamentals front and center.
+        As you build your AI-augmented search process, start small, measure results, and iterate continuously. The technology is evolving rapidly - what works today may be obsolete in six months. Stay curious, experiment with new tools, but always keep the fundamentals front and center.
       </p>
 
       <p className={bodyClass}>

@@ -24,8 +24,8 @@ export default function EffectiveInvestorMeetingArticle() {
           They treat the meeting as a presentation when it should be a conversation.
         </p>
         <p>
-          This guide covers every phase of the investor meeting — from preparation and structure
-          through follow-up — drawing on patterns observed across hundreds of successful search fund
+          This guide covers every phase of the investor meeting - from preparation and structure
+          through follow-up - drawing on patterns observed across hundreds of successful search fund
           fundraises. Whether you are raising initial search capital or presenting a specific
           acquisition opportunity, these principles will help you{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
@@ -93,13 +93,13 @@ export default function EffectiveInvestorMeetingArticle() {
         <ol className={olClass}>
           <li>
             <strong>Opening (5 minutes):</strong> Build rapport with genuine conversation. Reference
-            something specific from your research — a recent investment they made, an article they
+            something specific from your research - a recent investment they made, an article they
             published, or a mutual connection. This is not small talk; it demonstrates preparation and
             establishes a personal connection.
           </li>
           <li>
             <strong>Your story (10 minutes):</strong> Share your professional journey and what led you
-            to the search fund model. This is not a chronological resume recitation — it is a narrative
+            to the search fund model. This is not a chronological resume recitation - it is a narrative
             that connects your experiences to the skills required to find, acquire, and operate a small
             business. Be specific about what you learned in each role and how it applies.
           </li>
@@ -111,8 +111,8 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Deal criteria and process (5 minutes):</strong> Explain what you look for in a
-            target — business quality, growth potential, competitive moats, management transition
-            readiness — and how you evaluate opportunities. If you are presenting a specific deal,
+            target - business quality, growth potential, competitive moats, management transition
+            readiness - and how you evaluate opportunities. If you are presenting a specific deal,
             this section expands significantly.
           </li>
           <li>
@@ -149,7 +149,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Ground assumptions in reality:</strong> Every assumption should be traceable to
-            observable data — historical performance, industry benchmarks, comparable transactions, or
+            observable data - historical performance, industry benchmarks, comparable transactions, or
             specific operational plans. Avoid aspirational numbers that lack evidentiary support.
           </li>
           <li>
@@ -246,8 +246,8 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>&quot;What&apos;s your edge in sourcing deals?&quot;</strong> Investors know that
-            deal sourcing is competitive. Explain your specific approach — proprietary outreach,
-            industry relationships, geographic focus, intermediary network — and why it gives you
+            deal sourcing is competitive. Explain your specific approach - proprietary outreach,
+            industry relationships, geographic focus, intermediary network - and why it gives you
             access to quality opportunities. Generic answers about &quot;cold calling owners&quot;
             without specificity are unconvincing.
           </li>
@@ -259,7 +259,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>&quot;What industries are you avoiding and why?&quot;</strong> This reveals the
-            rigor of your screening process. Articulate clear exclusion criteria — not just what you
+            rigor of your screening process. Articulate clear exclusion criteria - not just what you
             want, but what you have deliberately excluded and the reasoning behind those decisions.
             This demonstrates disciplined thinking.
           </li>
@@ -295,7 +295,7 @@ export default function EffectiveInvestorMeetingArticle() {
           <li>
             <strong>Don&apos;t be vague about terms:</strong> If asked about deal structure, economics,
             or governance, provide clear answers. Vagueness about financial terms suggests either lack
-            of preparation or intentional opacity — neither inspires confidence.
+            of preparation or intentional opacity - neither inspires confidence.
           </li>
           <li>
             <strong>Don&apos;t dominate the conversation:</strong> If you are talking more than sixty
@@ -314,7 +314,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Don&apos;t rush the relationship:</strong> Pushing for a commitment in the first
-            meeting — unless the investor signals readiness — feels transactional. Focus on building
+            meeting - unless the investor signals readiness - feels transactional. Focus on building
             the relationship and trust. The commitment will follow naturally if the fit is right.
           </li>
         </ul>
@@ -337,7 +337,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Deliver promised materials promptly:</strong> If you committed to sending additional
-            information — deal memos, financial models, references, industry research — deliver it
+            information - deal memos, financial models, references, industry research - deliver it
             within the promised timeframe or sooner. This is your first test of operational reliability.
           </li>
           <li>
@@ -374,7 +374,7 @@ export default function EffectiveInvestorMeetingArticle() {
         <p>
           When you have identified an acquisition target and are presenting the specific deal to your
           investor syndicate, the meeting dynamics shift significantly. Investors are no longer
-          evaluating just you — they are evaluating the business, the deal terms, and the investment
+          evaluating just you - they are evaluating the business, the deal terms, and the investment
           return profile.
         </p>
 
@@ -387,7 +387,7 @@ export default function EffectiveInvestorMeetingArticle() {
           </li>
           <li>
             <strong>Present your due diligence findings:</strong> Share what you have learned through
-            investigation — strengths, risks, and open questions. Transparency about risks builds more
+            investigation - strengths, risks, and open questions. Transparency about risks builds more
             credibility than a sanitized presentation that glosses over concerns.
           </li>
           <li>
@@ -416,27 +416,27 @@ export default function EffectiveInvestorMeetingArticle() {
         <li>
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             How to Raise Capital for Your Search Fund
-          </Link>{" "}— The complete fundraising process from PPM to close
+          </Link>{" "} - The complete fundraising process from PPM to close
         </li>
         <li>
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">
             Search Fund Investor Relations Best Practices
-          </Link>{" "}— Building lasting relationships with your investor base
+          </Link>{" "} - Building lasting relationships with your investor base
         </li>
         <li>
           <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">
             How to Build a Search Fund Pitch Deck
-          </Link>{" "}— Creating the materials that support your meeting
+          </Link>{" "} - Creating the materials that support your meeting
         </li>
         <li>
           <Link href="/learn/investor-update-templates" className="text-apple-accent hover:underline">
             Investor Updates & Reporting Templates
-          </Link>{" "}— Professional communication frameworks post-investment
+          </Link>{" "} - Professional communication frameworks post-investment
         </li>
         <li>
           <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
             Search Fund Economics Explained
-          </Link>{" "}— Understanding the financial model investors evaluate
+          </Link>{" "} - Understanding the financial model investors evaluate
         </li>
       </ul>
 

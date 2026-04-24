@@ -52,7 +52,7 @@ export default function FindingInvestorsArticle() {
         <p>
           Institutional investors typically write checks of $50,000 to $100,000
           per search fund during the search phase, with the expectation of
-          investing significantly more — often $500,000 to $2 million — at
+          investing significantly more - often $500,000 to $2 million - at
           acquisition. Their primary advantage is speed and reliability: they
           understand the model, move quickly on decisions, and rarely require
           extensive education on how search funds work.
@@ -90,7 +90,7 @@ export default function FindingInvestorsArticle() {
           and traditional private equity. Some family offices also bring
           operating expertise from the family&apos;s own business interests,
           which can be valuable during the acquisition and operating phases.
-          That said, family offices can be harder to identify and reach — they
+          That said, family offices can be harder to identify and reach - they
           rarely have public-facing investment mandates.
         </p>
 
@@ -160,8 +160,8 @@ export default function FindingInvestorsArticle() {
           (Barcelona), the Stanford Search Fund CEO Conference, and the HBS
           ETA Conference are the three most important. Regional events hosted
           by university clubs, ETA-focused organizations, and private networks
-          also provide excellent opportunities. Attending these events — even
-          before you are ready to raise — helps you build relationships and
+          also provide excellent opportunities. Attending these events - even
+          before you are ready to raise - helps you build relationships and
           understand what investors are looking for.
         </p>
 
@@ -173,7 +173,7 @@ export default function FindingInvestorsArticle() {
           A single introduction from a trusted source can carry more weight
           than a perfectly crafted cold email. Once you secure your first few
           investors, ask each of them to introduce you to two or three others
-          — referral chains are the most efficient way to fill out your cap
+ - referral chains are the most efficient way to fill out your cap
           table.
         </p>
 
@@ -213,7 +213,7 @@ export default function FindingInvestorsArticle() {
           typically over one to two weeks. They may follow up with questions
           about your financial projections, your search timeline, or specific
           aspects of your background. Some investors will request a second
-          call at this stage. Be responsive and thorough — slow follow-up is
+          call at this stage. Be responsive and thorough - slow follow-up is
           a red flag to experienced investors.
         </p>
 
@@ -245,9 +245,9 @@ export default function FindingInvestorsArticle() {
         <ul className={ulClass}>
           <li><strong>Unit size:</strong> Typically $50,000 to $100,000 per unit, though some funds have units as small as $25,000 for angel investors.</li>
           <li><strong>Number of investors:</strong> Most traditional search funds have 15 to 20 investors to ensure a diverse cap table while keeping the number manageable.</li>
-          <li><strong>Search budget:</strong> The total raise usually covers two years of salary, health insurance, travel, professional fees, and deal expenses — typically $400,000 to $600,000.</li>
+          <li><strong>Search budget:</strong> The total raise usually covers two years of salary, health insurance, travel, professional fees, and deal expenses - typically $400,000 to $600,000.</li>
           <li><strong>Step-up at acquisition:</strong> Search investors&apos; capital converts into equity at a 1.5x step-up at the time of acquisition, compensating them for the risk of funding an unfunded search. For a full breakdown of this mechanism, see our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>.</li>
-          <li><strong>Pro-rata rights:</strong> Investors have the right (but not the obligation) to invest their pro-rata share in the acquisition. This is the primary economic incentive — the search capital itself is a relatively small investment to gain access to the deal.</li>
+          <li><strong>Pro-rata rights:</strong> Investors have the right (but not the obligation) to invest their pro-rata share in the acquisition. This is the primary economic incentive - the search capital itself is a relatively small investment to gain access to the deal.</li>
           <li><strong>Searcher equity:</strong> The searcher typically earns 20-30% of the acquired company&apos;s equity, vesting over 4-5 years, contingent on acquisition and continued employment.</li>
           <li><strong>Board seats:</strong> Investors typically elect a small board of directors (3-5 members), with the searcher serving as CEO and an investor representative serving as board chair.</li>
         </ul>
@@ -270,7 +270,7 @@ export default function FindingInvestorsArticle() {
           <li><strong>Relevant experience:</strong> Prior operating, consulting, or industry experience that will help you evaluate and run a business.</li>
           <li><strong>Clear thesis:</strong> A well-defined search strategy with realistic criteria and a credible value creation plan.</li>
           <li><strong>Coachability:</strong> Willingness to listen to experienced board members and adapt your approach based on their guidance.</li>
-          <li><strong>Personal grit:</strong> The search process is long, lonely, and filled with rejection. Investors want to see evidence that you can push through adversity — whether from your professional career, athletics, military service, or personal history.</li>
+          <li><strong>Personal grit:</strong> The search process is long, lonely, and filled with rejection. Investors want to see evidence that you can push through adversity - whether from your professional career, athletics, military service, or personal history.</li>
           <li><strong>Market thesis:</strong> Do you have a thoughtful perspective on which industries and geographies offer the best acquisition opportunities? Investors appreciate a searcher who has done their homework on market dynamics, fragmentation, and secular tailwinds.</li>
         </ul>
 
@@ -299,7 +299,7 @@ export default function FindingInvestorsArticle() {
           Send a concise monthly update to all investors. Include the number
           of deals reviewed, deals in active discussion, industry trends you
           are observing, and any learnings from proprietary or intermediated
-          deal flow. Keep the tone honest and transparent — investors respect
+          deal flow. Keep the tone honest and transparent - investors respect
           candor about slow periods and deal failures far more than false
           optimism. A well-written monthly update also keeps you top of mind,
           which matters when investors are considering whether to back another
@@ -308,7 +308,7 @@ export default function FindingInvestorsArticle() {
 
         <h3 className={h3Class}>Leverage your board</h3>
         <p>
-          Your investor board is not just a governance requirement — it is a
+          Your investor board is not just a governance requirement - it is a
           strategic asset. Schedule regular calls with individual board members
           to discuss specific deals, seek introductions to industry contacts,
           and pressure-test your search thesis. The most successful searchers
@@ -323,8 +323,8 @@ export default function FindingInvestorsArticle() {
           Almost every searcher goes through a period of 3-6 months with no
           compelling deals. This is normal. Communicate proactively with your
           investors during these periods. Explain what you are doing
-          differently — refining your thesis, expanding geography, adding new
-          deal channels — rather than going silent. Investors who have backed
+          differently - refining your thesis, expanding geography, adding new
+          deal channels - rather than going silent. Investors who have backed
           many searchers understand that the search process is nonlinear, and
           they will be supportive as long as they see that you are putting in
           the work and maintaining intellectual honesty about your progress.
@@ -337,7 +337,7 @@ export default function FindingInvestorsArticle() {
           risks, and gauge investor appetite for the acquisition capital raise.
           This early engagement ensures that when you do find the right deal,
           your investors are already familiar with the opportunity and can
-          make quick commitments — a critical advantage in competitive
+          make quick commitments - a critical advantage in competitive
           situations where seller timelines are tight.
         </p>
 
@@ -363,7 +363,7 @@ export default function FindingInvestorsArticle() {
         <p>
           Start with institutional search fund investors and well-known
           ex-searchers. Their early commitments provide credibility and signal
-          quality to later prospects. Institutional investors also move faster —
+          quality to later prospects. Institutional investors also move faster - 
           they understand the model and can make decisions in two to three weeks.
           Once you have two or three institutional commitments, approaching
           individual investors and family offices becomes significantly easier

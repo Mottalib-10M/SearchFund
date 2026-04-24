@@ -10,15 +10,15 @@ export const letterOfIntent: TemplateMeta = {
   dateModified: "2025-06-10",
   sources: [
     {
-      name: "Stanford Graduate School of Business — A Primer on Search Funds (2023)",
+      name: "Stanford Graduate School of Business - A Primer on Search Funds (2023)",
       url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer",
     },
     {
-      name: "Searchfunder.com — LOI Best Practices",
+      name: "Searchfunder.com - LOI Best Practices",
       url: "https://searchfunder.com",
     },
     {
-      name: "Harvard Business Review — Guide to Buying a Small Business (2017)",
+      name: "Harvard Business Review - Guide to Buying a Small Business (2017)",
       url: "https://hbr.org/product/hbr-guide-to-buying-a-small-business/10103-PBK-ENG",
     },
   ],
@@ -47,8 +47,8 @@ export const letterOfIntent: TemplateMeta = {
 <h2>What Is a Letter of Intent?</h2>
 <p>
   A Letter of Intent (LOI) is a preliminary, largely non-binding document that outlines the key terms of a
-  proposed acquisition. It signals serious buyer intent, sets the framework for due diligence, and — critically
-  for search fund entrepreneurs — triggers the exclusivity period during which the seller agrees not to
+  proposed acquisition. It signals serious buyer intent, sets the framework for due diligence, and - critically
+  for search fund entrepreneurs - triggers the exclusivity period during which the seller agrees not to
   negotiate with other buyers.
 </p>
 <p>
@@ -100,7 +100,7 @@ export const letterOfIntent: TemplateMeta = {
   </p>
 </div>
 <p>
-  <strong>Guidance:</strong> Clearly state whether this is an asset purchase or equity purchase — the tax and
+  <strong>Guidance:</strong> Clearly state whether this is an asset purchase or equity purchase - the tax and
   liability implications differ significantly. Most small business acquisitions in the US use an asset purchase
   structure for tax advantages (Section 338(h)(10) election may also be discussed). In the UK and continental
   Europe, share purchases are more common for SMEs.
@@ -123,12 +123,12 @@ export const letterOfIntent: TemplateMeta = {
   </ul>
   <p class="mt-2">
     The Buyer shall use commercially reasonable efforts to secure financing commitments within
-    [30–60] days of the execution of this LOI.
+    [30-60] days of the execution of this LOI.
   </p>
 </div>
 <p>
   <strong>Guidance:</strong> Sellers want certainty of close. If you are relying on SBA 7(a) financing,
-  be transparent about the timeline (typically 45–90 days). Traditional search fund acquirers may reference
+  be transparent about the timeline (typically 45-90 days). Traditional search fund acquirers may reference
   committed investor capital. Self-funded searchers should describe their financing plan clearly.
 </p>
 
@@ -136,7 +136,7 @@ export const letterOfIntent: TemplateMeta = {
 <div class="bg-gray-50 rounded-lg p-4 mb-4 text-sm">
   <p>
     Upon execution of this LOI, the Seller agrees to negotiate exclusively with the Buyer for a period of
-    <strong>[60–90] days</strong> (the "Exclusivity Period"). During the Exclusivity Period, the Seller shall
+    <strong>[60-90] days</strong> (the "Exclusivity Period"). During the Exclusivity Period, the Seller shall
     not solicit, encourage, or accept any offers, proposals, or inquiries from third parties regarding the
     sale of the Company or any material portion of its assets.
   </p>
@@ -146,15 +146,15 @@ export const letterOfIntent: TemplateMeta = {
   <p class="mt-2 text-amber-700 font-medium">This clause is binding.</p>
 </div>
 <p>
-  <strong>Guidance:</strong> 60–90 days is standard for small business acquisitions. Shorter periods
-  (30–45 days) may be necessary in competitive situations. Request enough time to complete due diligence
+  <strong>Guidance:</strong> 60-90 days is standard for small business acquisitions. Shorter periods
+  (30-45 days) may be necessary in competitive situations. Request enough time to complete due diligence
   and secure financing. If the deal involves SBA lending, you may need the longer end of the range.
 </p>
 
 <h3>5. Due Diligence</h3>
 <div class="bg-gray-50 rounded-lg p-4 mb-4 text-sm">
   <p>
-    The Buyer shall have a period of <strong>[45–60] days</strong> from the execution of this LOI to conduct
+    The Buyer shall have a period of <strong>[45-60] days</strong> from the execution of this LOI to conduct
     customary due diligence on the Company, including but not limited to:
   </p>
   <ul class="mt-1 space-y-1">
@@ -173,7 +173,7 @@ export const letterOfIntent: TemplateMeta = {
 </div>
 <p>
   <strong>Guidance:</strong> The DD period often runs concurrently with (and is shorter than) the exclusivity
-  period. Consider specifying a Quality of Earnings (QoE) analysis as part of financial due diligence —
+  period. Consider specifying a Quality of Earnings (QoE) analysis as part of financial due diligence - 
   this is now standard practice in search fund acquisitions and many lenders require it.
 </p>
 
@@ -216,7 +216,7 @@ export const letterOfIntent: TemplateMeta = {
   </ul>
 </div>
 <p>
-  <strong>Guidance:</strong> The LOI typically previews — but does not finalize — reps and warranties.
+  <strong>Guidance:</strong> The LOI typically previews - but does not finalize - reps and warranties.
   These will be negotiated in detail in the definitive purchase agreement. Representation and warranty
   insurance (RWI) is increasingly available for deals above $10M and can facilitate seller-friendly
   structures.
@@ -263,7 +263,7 @@ export const letterOfIntent: TemplateMeta = {
 <h3>11. Transition &amp; Seller Involvement</h3>
 <div class="bg-gray-50 rounded-lg p-4 mb-4 text-sm">
   <p>
-    The Seller agrees to provide transition assistance for a period of <strong>[3–6] months</strong>
+    The Seller agrees to provide transition assistance for a period of <strong>[3-6] months</strong>
     following closing. The terms of the Seller's continued involvement (consulting agreement,
     employment agreement, or advisory role) shall be negotiated as part of the definitive agreements.
   </p>
@@ -297,9 +297,9 @@ export const letterOfIntent: TemplateMeta = {
   <p>The parties agree to use commercially reasonable efforts to adhere to the following timeline:</p>
   <ul class="mt-1 space-y-1">
     <li>LOI execution: [Date]</li>
-    <li>Due diligence completion: [Date, typically 45–60 days after LOI]</li>
-    <li>Definitive agreement negotiation: [Date, typically 30–45 days after DD]</li>
-    <li>Target closing date: [Date, typically 90–120 days after LOI]</li>
+    <li>Due diligence completion: [Date, typically 45-60 days after LOI]</li>
+    <li>Definitive agreement negotiation: [Date, typically 30-45 days after DD]</li>
+    <li>Target closing date: [Date, typically 90-120 days after LOI]</li>
   </ul>
 </div>
 
@@ -330,14 +330,14 @@ export const letterOfIntent: TemplateMeta = {
 <p>
   Self-funded searchers typically have more flexibility on deal terms but may need to rely more heavily on
   seller financing and SBA 7(a) loans. The LOI should clearly state the financing plan and include a
-  financing contingency. Exclusivity periods may be shorter (45–60 days) since the seller wants speed.
+  financing contingency. Exclusivity periods may be shorter (45-60 days) since the seller wants speed.
 </p>
 
 <h3>Traditional Search Fund</h3>
 <p>
   Traditional search fund LOIs often reference committed capital from institutional investors. The buyer
-  may include a provision requiring investor approval. The purchase price multiples tend to be 4–6x EBITDA
-  for companies in the $1–5M EBITDA range, per the Stanford Search Fund Primer.
+  may include a provision requiring investor approval. The purchase price multiples tend to be 4-6x EBITDA
+  for companies in the $1-5M EBITDA range, per the Stanford Search Fund Primer.
 </p>
 
 <h3>International Considerations</h3>

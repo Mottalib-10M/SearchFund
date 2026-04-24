@@ -41,8 +41,8 @@ export default function ProfessionalServicesAcquisitionArticle() {
 
         <h3 className={h3Class}>Assessing key-person dependency</h3>
         <p>
-          During due diligence, conduct a thorough analysis — guided by our{" "}
-          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> — of revenue
+          During due diligence, conduct a thorough analysis - guided by our{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> - of revenue
           attribution to identify exactly how dependent the business is on
           specific individuals.
         </p>

@@ -63,7 +63,7 @@ export default function DashboardLayout({
 
   return (
     <div className="min-h-screen">
-      {/* Sidebar — desktop only */}
+      {/* Sidebar - desktop only */}
       <aside
         className="fixed top-14 left-0 bottom-0 z-50 w-64 bg-white border-r border-apple-gray-100 py-8 px-4 overflow-y-auto hidden md:block"
       >

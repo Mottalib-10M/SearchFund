@@ -62,7 +62,7 @@ export default function SearchFundPodcastsArticle() {
           education. First, they provide real-time insights from practitioners who are actively
           buying, operating, and selling businesses. You hear about deals that closed last month,
           not case studies from five years ago. Second, the conversational format often reveals
-          nuances and practical details that formal writing glosses over—the messy middle of a
+          nuances and practical details that formal writing glosses over - the messy middle of a
           deal, the relationship dynamics with sellers, the operational challenges in the first
           90 days.
         </p>
@@ -74,7 +74,7 @@ export default function SearchFundPodcastsArticle() {
         </p>
         <p className={bodyClass}>
           The podcasts covered in this guide represent the best of ETA and small business
-          acquisition content. Each brings a different perspective—from traditional search funds
+          acquisition content. Each brings a different perspective - from traditional search funds
           to self-funded searchers, from software businesses to industrial companies, from
           American deals to European markets. Building a regular listening routine across several
           shows will give you a well-rounded education in the craft of buying and running small
@@ -116,29 +116,29 @@ export default function SearchFundPodcastsArticle() {
           Episodes typically run 45-60 minutes and follow a consistent format: the guest's
           background, their deal sourcing and evaluation process, the specific acquisition they're
           discussing, integration and operational improvements, and lessons learned. Dinos is
-          skilled at digging into the numbers—listeners get actual purchase prices, revenue
+          skilled at digging into the numbers - listeners get actual purchase prices, revenue
           figures, and financial performance data that many podcasts avoid.
         </p>
         <div className={bodyClass}>
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "Buying a $2M HVAC Business with No Industry Experience" – A detailed walkthrough of
+              "Buying a $2M HVAC Business with No Industry Experience" - A detailed walkthrough of
               acquiring and scaling a home services business, including the exact due diligence
               checklist and financing structure
             </li>
             <li>
-              "From Software Engineer to Landscaping Owner" – Demonstrates how transferable skills
+              "From Software Engineer to Landscaping Owner" - Demonstrates how transferable skills
               matter more than industry experience, with specific tactics for operational
               improvements
             </li>
             <li>
-              "Deal Sourcing Strategies That Actually Work" – Breaks down the math on outbound
+              "Deal Sourcing Strategies That Actually Work" - Breaks down the math on outbound
               outreach, direct mail campaigns, and broker relationships, with conversion rates and
               cost per acquisition
             </li>
             <li>
-              "When to Walk Away: Red Flags in Due Diligence" – War stories from deals that fell
+              "When to Walk Away: Red Flags in Due Diligence" - War stories from deals that fell
               apart and the specific issues that should kill a transaction
             </li>
           </ul>
@@ -146,7 +146,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           For searchers looking at traditional search fund deals, this podcast provides valuable
           perspective on the self-funded route as an alternative. Many listeners end up pursuing
-          a hybrid approach—raising some outside capital but maintaining more control and
+          a hybrid approach - raising some outside capital but maintaining more control and
           flexibility than a traditional search fund structure.
         </p>
       </section>
@@ -169,7 +169,7 @@ export default function SearchFundPodcastsArticle() {
         </p>
         <p className={bodyClass}>
           Acquiring Minds is the gold standard for traditional search fund education. Will Smith
-          brings extensive experience from both sides of the table—as a searcher who successfully
+          brings extensive experience from both sides of the table - as a searcher who successfully
           acquired and operated a business, and as an investor who has backed multiple search
           funds. This dual perspective makes for nuanced conversations that address both searcher
           and investor concerns.
@@ -192,25 +192,25 @@ export default function SearchFundPodcastsArticle() {
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "Anatomy of a Search Fund Deal" – A comprehensive walkthrough of a real acquisition
+              "Anatomy of a Search Fund Deal" - A comprehensive walkthrough of a real acquisition
               from initial outreach to closing, including all the bumps and negotiations along the
               way
             </li>
             <li>
-              "What Investors Really Want to See in a Search Fund Pitch" – Multiple search fund
+              "What Investors Really Want to See in a Search Fund Pitch" - Multiple search fund
               investors share their evaluation criteria, red flags, and what makes a searcher
               stand out
             </li>
             <li>
-              "The First 100 Days as CEO" – Recent acquirers discuss the transition from searcher
+              "The First 100 Days as CEO" - Recent acquirers discuss the transition from searcher
               to operator, including management team challenges and early strategic decisions
             </li>
             <li>
-              "When the Search Fails: Life After an Unsuccessful Search" – Honest conversations
+              "When the Search Fails: Life After an Unsuccessful Search" - Honest conversations
               with searchers who didn't complete a deal and what they did next
             </li>
             <li>
-              "International Search Funds: Europe vs. US" – Compares search fund models across
+              "International Search Funds: Europe vs. US" - Compares search fund models across
               geographies, with insights on valuation differences, financing options, and investor
               expectations
             </li>
@@ -266,20 +266,20 @@ export default function SearchFundPodcastsArticle() {
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "Creative Financing Structures for Main Street Deals" – Explores seller financing,
+              "Creative Financing Structures for Main Street Deals" - Explores seller financing,
               earnouts, consulting agreements, and hybrid structures that bridge valuation gaps
             </li>
             <li>
-              "What Makes a Quality of Earnings Report Worth the Cost" – An experienced accounting
+              "What Makes a Quality of Earnings Report Worth the Cost" - An experienced accounting
               firm partner explains what QoE actually does and when it's worth the $30-50K investment
             </li>
             <li>
-              "SBA Lending: What Actually Gets Approved" – An SBA loan specialist shares approval
+              "SBA Lending: What Actually Gets Approved" - An SBA loan specialist shares approval
               criteria, common deal-killers, and how to structure transactions for maximum
               likelihood of financing
             </li>
             <li>
-              "Exit Planning: Building a Business Buyers Want" – Focuses on the seller's perspective,
+              "Exit Planning: Building a Business Buyers Want" - Focuses on the seller's perspective,
               helping searchers understand what motivates sellers and what they're looking for in
               buyers
             </li>
@@ -288,7 +288,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           With 2-3 episodes per week, How2Exit provides a steady stream of M&A education. Episodes
           run 30-50 minutes, making them easier to consume in a single sitting than some of the
-          longer-form podcasts. The high publishing frequency also means more current content—
+          longer-form podcasts. The high publishing frequency also means more current content - 
           discussions of new SBA lending changes, emerging trends in deal structures, or shifts
           in market valuations appear quickly.
         </p>
@@ -313,7 +313,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           The SMB Podcast occupies a sweet spot between micro acquisitions and traditional search
           funds, focusing on businesses in the $1-10M purchase price range. This is often the most
-          challenging segment of the market—too large for purely self-funded deals but too small
+          challenging segment of the market - too large for purely self-funded deals but too small
           for traditional private equity, requiring creative approaches to sourcing, financing,
           and operations.
         </p>
@@ -325,7 +325,7 @@ export default function SearchFundPodcastsArticle() {
           management teams, expanding into new markets, and building infrastructure that can scale.
         </p>
         <p className={bodyClass}>
-          The podcast also explores the "buy and build" strategy in depth—how to acquire a platform
+          The podcast also explores the "buy and build" strategy in depth - how to acquire a platform
           company and then add complementary bolt-on acquisitions to drive growth. This is an
           increasingly popular approach for searchers who want to create more value than simply
           running a stable business well. Episodes dissect the specific playbooks for consolidation
@@ -336,19 +336,19 @@ export default function SearchFundPodcastsArticle() {
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "Building a Buy-and-Build Platform in Home Services" – A detailed case study of
+              "Building a Buy-and-Build Platform in Home Services" - A detailed case study of
               acquiring an initial HVAC company and adding three bolt-on acquisitions in 18 months
             </li>
             <li>
-              "Transitioning from Owner-Operator to Multi-Unit Owner" – Discusses the management
+              "Transitioning from Owner-Operator to Multi-Unit Owner" - Discusses the management
               and systems changes required when you go from running one location to running five
             </li>
             <li>
-              "Getting SBA Financing for Add-On Acquisitions" – Explains how SBA lending works for
+              "Getting SBA Financing for Add-On Acquisitions" - Explains how SBA lending works for
               bolt-on deals and alternative financing structures
             </li>
             <li>
-              "Operational Due Diligence: What Actually Matters" – Goes beyond financial due
+              "Operational Due Diligence: What Actually Matters" - Goes beyond financial due
               diligence to cover customer concentration, vendor relationships, employee dynamics,
               and process documentation
             </li>
@@ -356,7 +356,7 @@ export default function SearchFundPodcastsArticle() {
         </div>
         <p className={bodyClass}>
           The podcast's community aspect is another strength. Many listeners are going through
-          similar challenges simultaneously—dealing with their first employee termination as CEO,
+          similar challenges simultaneously - dealing with their first employee termination as CEO,
           implementing an ERP system, or negotiating a second acquisition. The show frequently
           references this community, creating connection points for searchers who might otherwise
           feel isolated in their journey.
@@ -382,7 +382,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           Quiet Light Brokerage specializes in selling online businesses, and their podcast reflects
           this expertise. While not search fund-specific, the content is highly relevant for
-          searchers considering digital businesses—a growing segment of ETA deals as more traditional
+          searchers considering digital businesses - a growing segment of ETA deals as more traditional
           searchers recognize the attractive economics and scalability of well-run online companies.
         </p>
         <p className={bodyClass}>
@@ -404,21 +404,21 @@ export default function SearchFundPodcastsArticle() {
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "SaaS Metrics That Actually Matter in Due Diligence" – Breaks down MRR vs. ARR,
+              "SaaS Metrics That Actually Matter in Due Diligence" - Breaks down MRR vs. ARR,
               gross vs. net churn, revenue retention, and other critical metrics with examples
             </li>
             <li>
-              "Evaluating Amazon FBA Businesses: Red Flags and Opportunities" – Covers the specific
+              "Evaluating Amazon FBA Businesses: Red Flags and Opportunities" - Covers the specific
               risks and opportunities in Amazon-based e-commerce, including account health, product
               concentration, and supplier relationships
             </li>
             <li>
-              "Content Business Economics: Why Traffic Doesn't Equal Value" – Explains how to
+              "Content Business Economics: Why Traffic Doesn't Equal Value" - Explains how to
               properly value content sites and blogs, focusing on monetization efficiency rather
               than just traffic numbers
             </li>
             <li>
-              "Financing Digital Business Acquisitions" – Discusses SBA lending for online businesses,
+              "Financing Digital Business Acquisitions" - Discusses SBA lending for online businesses,
               seller financing structures, and alternative funding approaches for digital assets
             </li>
           </ul>
@@ -427,7 +427,7 @@ export default function SearchFundPodcastsArticle() {
           For searchers who have primarily thought about acquiring traditional brick-and-mortar
           businesses, this podcast opens up a different universe of opportunities. Digital businesses
           often have higher margins, more defensible moats through proprietary technology or brand,
-          and greater scalability than traditional SMBs—though they come with their own unique risks
+          and greater scalability than traditional SMBs - though they come with their own unique risks
           around platform dependencies, technical debt, and rapidly changing digital marketing
           landscapes.
         </p>
@@ -452,7 +452,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           The ETA Podcast takes a broad approach to entrepreneurship through acquisition, featuring
           searchers from various backgrounds, industries, and deal sizes. This diversity is its
-          strength—listeners get exposure to software searchers, industrial company operators,
+          strength - listeners get exposure to software searchers, industrial company operators,
           service business acquirers, international searchers, self-funded entrepreneurs, and
           traditionally-backed search funds all in one feed.
         </p>
@@ -464,7 +464,7 @@ export default function SearchFundPodcastsArticle() {
           successfully completed deals.
         </p>
         <p className={bodyClass}>
-          The podcast also features "mini-series" focused on specific topics—a four-part series
+          The podcast also features "mini-series" focused on specific topics - a four-part series
           on due diligence, for example, or a three-episode arc on management team transition.
           These themed series provide deeper education on critical topics than single episodes
           can achieve.
@@ -488,7 +488,7 @@ export default function SearchFundPodcastsArticle() {
           ($500K-$5M range), and entrepreneurs focused on cash flow over growth
         </p>
         <p className={bodyClass}>
-          MainStreet Operator focuses on the smaller end of the acquisition market—businesses you
+          MainStreet Operator focuses on the smaller end of the acquisition market - businesses you
           might find on BizBuySell rather than through M&A advisors. Connor Leonard brings an
           operator-first mentality, focusing on businesses that generate strong cash flow,
           require minimal capital investment, and can be run without sacrificing quality of life.
@@ -498,12 +498,12 @@ export default function SearchFundPodcastsArticle() {
           funds and private equity, instead advocating for sustainable, profitable businesses that
           generate excellent returns relative to capital invested. Episodes explore businesses like
           laundromats, self-storage facilities, car washes, vending machine routes, and service
-          businesses—unsexy but profitable.
+          businesses - unsexy but profitable.
         </p>
         <p className={bodyClass}>
           What makes this podcast unique is its focus on lifestyle considerations alongside
           financial returns. Leonard discusses how to evaluate businesses based on time commitment,
-          management intensity, geographic flexibility, and scalability—helping listeners find
+          management intensity, geographic flexibility, and scalability - helping listeners find
           acquisitions that align with their life goals, not just their financial targets.
         </p>
       </section>
@@ -554,15 +554,15 @@ export default function SearchFundPodcastsArticle() {
           <strong>Week 1: Understanding the ETA Landscape</strong>
           <ol className={olClass}>
             <li>
-              Acquiring Minds: "Introduction to Search Funds" – Provides overview of the traditional
+              Acquiring Minds: "Introduction to Search Funds" - Provides overview of the traditional
               search fund model, typical economics, and investor expectations
             </li>
             <li>
-              Think Like an Owner: "Self-Funded vs. Traditional Search" – Compares different
+              Think Like an Owner: "Self-Funded vs. Traditional Search" - Compares different
               approaches to buying businesses and helps you determine which path might fit
             </li>
             <li>
-              ETA Podcast: "Why ETA Instead of Startups or Investing" – Discusses the risk/reward
+              ETA Podcast: "Why ETA Instead of Startups or Investing" - Discusses the risk/reward
               profile of acquiring existing businesses versus alternatives
             </li>
           </ol>
@@ -572,15 +572,15 @@ export default function SearchFundPodcastsArticle() {
           <strong>Week 2: The Search Process</strong>
           <ol className={olClass}>
             <li>
-              Think Like an Owner: "Deal Sourcing Strategies That Actually Work" – Practical tactics
+              Think Like an Owner: "Deal Sourcing Strategies That Actually Work" - Practical tactics
               for finding acquisition opportunities
             </li>
             <li>
-              Acquiring Minds: "Writing Effective LOIs" – How to structure initial offers that get
+              Acquiring Minds: "Writing Effective LOIs" - How to structure initial offers that get
               accepted
             </li>
             <li>
-              How2Exit: "Due Diligence Fundamentals" – What to investigate before buying a business
+              How2Exit: "Due Diligence Fundamentals" - What to investigate before buying a business
             </li>
           </ol>
         </div>
@@ -589,15 +589,15 @@ export default function SearchFundPodcastsArticle() {
           <strong>Week 3: Deal Structuring and Financing</strong>
           <ol className={olClass}>
             <li>
-              How2Exit: "SBA Lending 101" – Understanding the most common financing mechanism for
+              How2Exit: "SBA Lending 101" - Understanding the most common financing mechanism for
               small business acquisitions
             </li>
             <li>
-              The SMB Podcast: "Creative Deal Structures" – Alternative ways to finance and
+              The SMB Podcast: "Creative Deal Structures" - Alternative ways to finance and
               structure acquisitions
             </li>
             <li>
-              Acquiring Minds: "Search Fund Economics and Investor Terms" – For those considering
+              Acquiring Minds: "Search Fund Economics and Investor Terms" - For those considering
               raising capital
             </li>
           </ol>
@@ -607,14 +607,14 @@ export default function SearchFundPodcastsArticle() {
           <strong>Week 4: Post-Acquisition Operations</strong>
           <ol className={olClass}>
             <li>
-              Acquiring Minds: "The First 100 Days as CEO" – Managing the critical transition period
+              Acquiring Minds: "The First 100 Days as CEO" - Managing the critical transition period
             </li>
             <li>
-              The SMB Podcast: "Implementing Systems and Processes" – Building infrastructure for
+              The SMB Podcast: "Implementing Systems and Processes" - Building infrastructure for
               growth
             </li>
             <li>
-              Think Like an Owner: "Building Your Management Team" – Hiring, retaining, and
+              Think Like an Owner: "Building Your Management Team" - Hiring, retaining, and
               developing key employees
             </li>
           </ol>
@@ -622,7 +622,7 @@ export default function SearchFundPodcastsArticle() {
 
         <p className={bodyClass}>
           After completing this four-week foundation, you'll have enough context to dive into more
-          specialized episodes based on your specific interests—whether that's particular industries,
+          specialized episodes based on your specific interests - whether that's particular industries,
           deal sizes, geographic markets, or operational challenges.
         </p>
       </section>
@@ -650,7 +650,7 @@ export default function SearchFundPodcastsArticle() {
 
         <h3 className={h3Class}>Take Strategic Notes</h3>
         <p className={bodyClass}>
-          Don't just listen—capture insights. Keep a note-taking app handy (many podcast apps
+          Don't just listen - capture insights. Keep a note-taking app handy (many podcast apps
           include this feature) and jot down specific tactics, contacts to research, questions to
           investigate, or ideas to implement. The act of writing reinforces learning and creates
           a searchable database of knowledge.
@@ -671,15 +671,15 @@ export default function SearchFundPodcastsArticle() {
 
         <h3 className={h3Class}>Relisten to Key Episodes</h3>
         <p className={bodyClass}>
-          When you find an episode that's directly relevant to your current situation—you're about
-          to conduct due diligence on a potential acquisition, for example—relisten to that episode.
+          When you find an episode that's directly relevant to your current situation - you're about
+          to conduct due diligence on a potential acquisition, for example - relisten to that episode.
           You'll catch details you missed the first time and retain information better through
           spaced repetition.
         </p>
 
         <h3 className={h3Class}>Engage with Podcast Communities</h3>
         <p className={bodyClass}>
-          Many podcasts have associated communities—Slack groups, LinkedIn groups, or discussion
+          Many podcasts have associated communities - Slack groups, LinkedIn groups, or discussion
           forums. Join these to connect with other listeners, ask questions about episodes, and
           share your own experiences. The learning compounds when you can discuss podcast content
           with peers facing similar challenges.
@@ -688,14 +688,14 @@ export default function SearchFundPodcastsArticle() {
         <h3 className={h3Class}>Follow Up on Resources</h3>
         <p className={bodyClass}>
           Podcasts often reference books, frameworks, tools, or other resources. Don't let these
-          fly by—pause and add them to a reading list or resource tracker. Many of the best
+          fly by - pause and add them to a reading list or resource tracker. Many of the best
           insights come from following the breadcrumbs podcasts provide to deeper sources.
         </p>
 
         <h3 className={h3Class}>Balance Inspiration with Education</h3>
         <p className={bodyClass}>
-          Some episodes are primarily inspirational—success stories that motivate you to keep
-          pushing forward during difficult parts of your search. Others are deeply educational—
+          Some episodes are primarily inspirational - success stories that motivate you to keep
+          pushing forward during difficult parts of your search. Others are deeply educational - 
           tactical deep-dives into specific skills or processes. You need both. If you find yourself
           only listening to inspiring success stories, you may be avoiding the harder work of
           learning difficult skills. Conversely, if everything is tactical education, you may lose
