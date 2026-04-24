@@ -76,6 +76,23 @@ export default function LogisticsTransportationAcquisitionArticle() {
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What are typical valuation multiples for logistics and transportation companies?</h3>
+      <p className={bodyClass}>
+        Valuation multiples vary significantly by sub-sector and asset intensity. According to FreightWaves&rsquo; 2024 market analysis, asset-light freight brokerages trade at 5&ndash;8x EBITDA, while asset-heavy trucking companies trade at 3&ndash;5x EBITDA due to their higher capital requirements and fleet depreciation. Specialty transport (hazmat, refrigerated, oversized) commands premium multiples of 5&ndash;7x due to higher barriers to entry and margins. Armstrong &amp; Associates&rsquo; 3PL data shows that third-party logistics companies with long-term warehouse contracts trade at 6&ndash;9x EBITDA. The American Trucking Associations notes that companies with strong safety scores (CSA ratings) and diversified customer bases consistently command 1&ndash;2x higher multiples than industry averages.
+      </p>
+
+      <h3 className={h3Class}>How critical is the driver shortage issue for trucking acquisitions?</h3>
+      <p className={bodyClass}>
+        The driver shortage is the single most important operational challenge in the trucking industry. The American Trucking Associations estimates a current shortage of 80,000+ CDL drivers, projected to reach 160,000 by 2030. Annual driver turnover rates for large truckload carriers average 90%+, though smaller, well-managed fleets often achieve 40&ndash;60% turnover. During due diligence, assess the target&rsquo;s driver retention rate, average driver tenure, compensation relative to market (top-quartile pay is essential), and home time policies. Companies with established driver recruiting pipelines, competitive benefits packages, and modern equipment have a significant competitive advantage&mdash;FreightWaves data shows that driver-friendly fleets achieve 30% lower turnover and 15% higher operating margins.
+      </p>
+
+      <h3 className={h3Class}>What technology investments provide the highest ROI in logistics acquisitions?</h3>
+      <p className={bodyClass}>
+        The three highest-ROI technology investments are: a modern transportation management system (TMS), which FreightWaves estimates improves freight costs by 8&ndash;15% through load optimization and carrier management; telematics and GPS tracking, which the American Trucking Associations data shows reduces fuel costs by 10&ndash;15% and improves safety scores; and automated dispatching and digital freight matching platforms, which can increase asset utilization by 15&ndash;20%. Armstrong &amp; Associates&rsquo; research shows that 3PLs with advanced warehouse management systems (WMS) achieve 25% higher throughput than those relying on manual processes. Total technology investment for a mid-sized logistics company typically ranges from $50K&ndash;$200K, with payback periods of 6&ndash;18 months.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>American Trucking Associations, <em>Trucking Industry Overview</em> (2024)</li>

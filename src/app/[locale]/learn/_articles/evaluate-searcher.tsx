@@ -75,6 +75,23 @@ export default function EvaluateSearcherArticle() {
         <li><Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">Writing a PPM</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How many references should an investor check when evaluating a searcher?</h3>
+      <div className={bodyClass}>
+        <p>Experienced search fund investors typically check 5&ndash;8 references, drawing from former managers, direct reports, colleagues, professors, and any previous business partners. According to the Stanford GSB&rsquo;s 2024 Search Fund Study, reference checks are consistently ranked as the single most valuable due diligence tool for evaluating searcher-operators &mdash; more predictive than MBA pedigree, prior work experience, or interview performance alone. The most informative references come from people who managed the searcher directly and can speak to how they performed under pressure, handled failure, and led teams. Investors should ask open-ended questions such as &ldquo;What is this person&rsquo;s biggest weakness?&rdquo; and &ldquo;Would you invest your own money in this person running a company?&rdquo; Lukewarm or evasive responses from references are a significant red flag and should be weighted heavily in the investment decision.</p>
+      </div>
+
+      <h3 className={h3Class}>What background or experience best predicts success as a search fund CEO?</h3>
+      <div className={bodyClass}>
+        <p>Research from both Stanford and IESE indicates that no single background guarantees success, but certain patterns emerge strongly. The most successful searcher-operators typically have 3&ndash;7 years of pre-MBA work experience in consulting, banking, military, engineering, or operations roles that developed analytical rigor and leadership skills. According to the IESE 2024 study, the combination of general management education (MBA) and prior P&amp;L management experience &mdash; even at a small scale &mdash; is the strongest predictor of post-acquisition performance. However, soft traits matter more than credentials: persistence, self-awareness, coachability, and the ability to make decisions under uncertainty are consistently cited by experienced investors as the differentiating factors between top-quartile and bottom-quartile outcomes. Searchers with previous entrepreneurial experience, even unsuccessful ventures, tend to demonstrate the risk tolerance and bias for action that translates well to operating an acquired business.</p>
+      </div>
+
+      <h3 className={h3Class}>What are the most common red flags when evaluating a prospective searcher?</h3>
+      <div className={bodyClass}>
+        <p>The Stanford 2024 study and interviews with experienced search fund investors highlight several recurring red flags. The most concerning is unrealistic expectations &mdash; searchers who project overly optimistic returns (IRRs above 50%) or underestimate the difficulty of operating a small business post-acquisition. A lack of humility, manifested as overconfidence in their ability to &ldquo;fix&rdquo; any business regardless of industry or situation, is another strong negative signal. Geographic inflexibility dramatically narrows the deal universe: investors report that searchers unwilling to relocate eliminate 70&ndash;80% of potential opportunities. Poor communication skills &mdash; inability to clearly articulate their thesis, search criteria, and decision-making framework &mdash; suggest the searcher will struggle in the CEO role, where communication with employees, customers, and the board is constant. Finally, motivation that is purely financial, without genuine interest in building and leading a business, predicts lower resilience during the inevitable difficult periods of both the search and post-acquisition phases.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Search Fund Study: Operator Success Factors</em> (2024)</li>

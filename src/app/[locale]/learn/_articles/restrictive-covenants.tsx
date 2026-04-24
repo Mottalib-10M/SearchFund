@@ -101,6 +101,24 @@ export default function RestrictiveCovenantsArticle() {
         <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations &amp; Warranties</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How long should a non-compete agreement last in a business sale?</h3>
+        <p>
+          For most small business acquisitions, non-compete periods of 3&ndash;5 years are standard and generally enforceable across jurisdictions. According to Russell Beck&rsquo;s comprehensive survey of restrictive covenant law across 50 US jurisdictions, courts consistently uphold 3&ndash;5 year non-competes in the sale-of-business context, where the seller has received substantial consideration (the purchase price) in exchange for the restriction. Professional services firms and businesses with long customer relationship cycles may warrant non-competes of up to 7 years. The duration should correspond to the time needed for the buyer to solidify customer and employee relationships &mdash; typically 2&ndash;3 customer contract cycles or the period during which customer loyalty is most likely to shift. Excessively long periods (10+ years) risk being struck down even in a sale context.
+        </p>
+
+        <h3 className={h3Class}>Are non-compete agreements enforceable in California?</h3>
+        <p>
+          California broadly prohibits non-compete agreements under Business and Professions Code Section 16600, but there is a critical exception for non-competes given in connection with the sale of a business or all of its goodwill. According to the American Bar Association&rsquo;s Model Stock Purchase Agreement commentary, this sale-of-business exception means non-competes are enforceable in California M&amp;A transactions, provided they are properly structured under the statutory requirements (the restriction must be limited to the geographic area in which the sold business was conducted). However, the scope and duration of California non-competes in the sale context are scrutinized more strictly than in business-friendly states like Florida or Texas. Buyers of California businesses should complement their non-compete with robust non-solicitation and confidentiality provisions, which face fewer enforceability challenges.
+        </p>
+
+        <h3 className={h3Class}>What happens if a seller violates their non-compete after the sale?</h3>
+        <p>
+          The buyer&rsquo;s primary remedy is injunctive relief &mdash; a court order requiring the seller to stop the prohibited competitive activity immediately. According to the Harvard Law Review&rsquo;s empirical research on non-compete enforcement, courts grant preliminary injunctions in approximately 60&ndash;70% of sale-of-business non-compete cases where the buyer acts promptly (within weeks of discovering the violation). In addition to injunctions, the buyer may seek monetary damages for lost revenue and profits, disgorgement of profits the seller earned through the prohibited activity, and in some cases, extension (&ldquo;tolling&rdquo;) of the restrictive period by the duration of the breach. Practical Law (Thomson Reuters) notes that the most effective enforcement tool is speed: courts may deny injunctive relief if the buyer delays enforcement, as delay suggests the buyer does not view the harm as irreparable. Purchase agreements should include provisions facilitating injunctive relief, including acknowledgment of irreparable harm and waiver of bond requirements.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em> (2023)</li>

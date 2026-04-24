@@ -74,6 +74,24 @@ export default function RegulatedIndustriesArticle() {
         <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>Do I need industry-specific licenses to acquire a regulated business?</h3>
+        <p>
+          Whether you personally need a license depends on the industry, the type of license, and the deal structure. Entity-based licenses (held by the company rather than an individual) generally transfer in stock acquisitions where the legal entity continues to exist. Individual-based licenses (held by specific professionals like doctors, pharmacists, or CPAs) require that the acquiring entity employ or partner with appropriately licensed individuals. According to the American Bar Association&rsquo;s Regulated Industry Acquisitions Guide, approximately 60% of professional licenses in the US are entity-based and transfer with ownership, while 40% are individual-based and require new applications or licensed personnel on staff. Stock deal structures preserve entity-based licenses automatically, while asset purchases typically require reapplication &mdash; a process that can take 3&ndash;12 months depending on the regulatory body and jurisdiction.
+        </p>
+
+        <h3 className={h3Class}>How much do regulatory barriers increase acquisition valuations?</h3>
+        <p>
+          Businesses in regulated industries typically command valuation premiums of 1&ndash;2x EBITDA above comparable non-regulated businesses. According to Deloitte&rsquo;s Regulatory Risk and M&amp;A report, regulated businesses with current licenses, clean compliance histories, and established regulatory relationships sell at 5&ndash;8x EBITDA in sectors like healthcare and financial services, compared to 3&ndash;5x for similar-sized non-regulated service businesses. The premium reflects the structural moat that regulation creates: licensing barriers deter new competitors, compliance costs create scale advantages for larger operators, and customer switching costs are higher when regulatory requirements are involved. Harvard Business Review research confirms that regulated industries exhibit 30&ndash;40% lower competitive entry rates than unregulated sectors, supporting higher and more sustainable margins.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest risk in acquiring a regulated business?</h3>
+        <p>
+          Regulatory change risk &mdash; the possibility that new legislation, rule changes, or enforcement trends could fundamentally alter the business model &mdash; is the most significant long-term risk in regulated industry acquisitions. According to the American Bar Association, the healthcare sector has experienced the most regulatory disruption over the past decade, with changes to Medicare reimbursement rates, telehealth regulations, and scope-of-practice laws affecting practice valuations by 15&ndash;30%. The second most common risk is compliance failure: inheriting undisclosed violations, inadequate compliance programs, or pending regulatory investigations that were not surfaced during due diligence. Mitigation requires specialized regulatory due diligence (review of all inspection reports, enforcement actions, and correspondence with regulators for at least 5 years), robust <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">representations and warranties</Link> covering regulatory compliance, and engagement of industry-specialist legal counsel who understand the regulatory landscape.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>Competing in Regulated Industries</em> (2024)</li>

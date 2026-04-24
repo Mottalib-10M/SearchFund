@@ -374,6 +374,26 @@ export default function ComparableTransactionsArticle() {
         Start building your comp analysis toolkit early. Gain access to transaction databases, develop relationships with brokers in your target industries, and practice building comp sets for businesses you're tracking. By the time you're negotiating an LOI, comp analysis should feel like second nature—a core competency that sets you apart from less sophisticated buyers and builds trust with sellers who recognize your professionalism.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How many comparable transactions do I need for a reliable comp analysis?</h3>
+
+      <p className={bodyClass}>
+        Aim for at least 5 strong comparables, and preferably 7&ndash;10, to produce statistically meaningful results. A comp set of two or three transactions is insufficient because individual deal circumstances (strategic premiums, distressed sales, unusual deal structures) can skew results. DealStats, the gold standard for private company transaction data, contains over 40,000 transactions and allows filtering by industry, revenue size, EBITDA range, and geography to build relevant comp sets. If you cannot find enough transactions in your exact industry niche, expand to adjacent industries with similar business economics (comparable gross margins, capital intensity, and recurring revenue characteristics) while documenting your reasoning.
+      </p>
+
+      <h3 className={h3Class}>How do I account for the difference between SDE and EBITDA multiples in comp analysis?</h3>
+
+      <p className={bodyClass}>
+        Different databases define earnings differently &mdash; some report seller&rsquo;s discretionary earnings (SDE), which includes full owner compensation, while others report adjusted EBITDA after normalizing for a market-rate manager salary. Mixing these metrics without adjustment produces meaningless results. SDE multiples are typically 0.5&ndash;1.5x lower than EBITDA multiples because SDE includes the cost of management that EBITDA excludes. Always verify what &ldquo;EBITDA&rdquo; means in each data source, normalize all transactions to a consistent definition, and document your adjustments. For SME transactions under $5M, SDE is often more relevant than EBITDA since it captures total economic benefit available to an owner-operator.
+      </p>
+
+      <h3 className={h3Class}>Should I rely on comparable transactions or DCF analysis for valuing an acquisition target?</h3>
+
+      <p className={bodyClass}>
+        The most credible valuation approach uses both methods and triangulates toward a range. Comparable transactions ground your valuation in market reality &mdash; what buyers have actually paid for similar businesses &mdash; while <Link href="/learn/dcf-valuation-small-business" className="text-apple-accent hover:underline">DCF analysis</Link> forces you to build explicit assumptions about future growth, margins, and risk. According to EY&rsquo;s private equity research, when both methods converge on similar values (e.g., $8&ndash;9M), confidence is high. When they diverge significantly, investigate why: perhaps your DCF growth assumptions are aggressive compared to market precedent, or perhaps the comps include strategic buyers paying premiums you cannot justify as a financial buyer. Stanford&rsquo;s search fund study recommends presenting both methods to investors for maximum credibility.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

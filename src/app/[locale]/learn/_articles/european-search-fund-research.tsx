@@ -466,6 +466,30 @@ export default function EuropeanSearchFundResearchArticle() {
           growing.
         </p>
       </div>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How do European search fund returns compare to US returns?</h3>
+      <div className={bodyClass}>
+        <p>According to the IESE International Search Fund Study (2024), European search funds that have completed acquisitions have achieved median IRRs in the 30&ndash;40% range, broadly comparable to the aggregate US figure of approximately 33% IRR and 5.5x return on invested capital reported in the Stanford 2024 study. However, the European dataset remains significantly smaller and less mature, making direct statistical comparison difficult. One notable difference is that European search funds appear to have a slightly lower loss rate than US funds, potentially because European searchers tend to be more conservative in deal selection and use less leverage. Average European acquisition sizes ($3M&ndash;$10M enterprise value) have been smaller than US deals ($5M&ndash;$20M), though this gap is narrowing as the market matures and larger institutional investors enter the European ecosystem.</p>
+      </div>
+
+      <h3 className={h3Class}>Which European country is most active for search fund activity?</h3>
+      <div className={bodyClass}>
+        <p>Spain remains the most active European search fund market by volume, driven largely by IESE Business School&rsquo;s location in Barcelona and the school&rsquo;s role as the intellectual home of European ETA since the early 2000s. Spain benefits from a large SME sector with many family-owned businesses facing succession challenges, relatively lower valuations than Northern Europe (typically 4&ndash;6x EBITDA for SMEs), and a growing ecosystem of local search fund investors. France has emerged as the second-largest market, supported by its enormous SME sector of over 3 million small businesses and a wave of baby boomer retirements. Germany, despite having the largest untapped Mittelstand opportunity in Europe, lags behind in search fund activity due to higher deal multiples, longer relationship-building timelines, and a more conservative business culture &mdash; though it is widely viewed as the next major growth market.</p>
+      </div>
+
+      <h3 className={h3Class}>How has the European search fund ecosystem grown over time?</h3>
+      <div className={bodyClass}>
+        <p>The growth trajectory has been remarkable. According to IESE research, before 2010 fewer than 10 search funds were active in all of Europe. By 2015, approximately 10&ndash;20 new searches launched annually as early success stories demonstrated the model&rsquo;s viability. The market reached a tipping point between 2015 and 2020, when multiple MBA programs began teaching search fund courses and dedicated European investors emerged, growing new annual searches to 30&ndash;50. As of 2024, over 100 search funds are active annually across Europe, with growth rates of 15&ndash;25% per year expected to continue. The ecosystem now includes dedicated search fund investors, annual conferences, peer networks, and a growing body of operational best practices adapted for European markets. Self-funded and partially-funded search models have grown faster than traditional funded searches in several European markets, particularly where the traditional model is less well-known.</p>
+      </div>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        <li>Stanford Graduate School of Business, <em>Search Fund Study</em> (2024)</li>
+        <li>INSEAD, <em>Working Papers on European Search Funds and Investor Behavior</em> (2023)</li>
+      </ul>
     </article>
   );
 }

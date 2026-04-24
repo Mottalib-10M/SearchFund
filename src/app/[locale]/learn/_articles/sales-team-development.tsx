@@ -74,6 +74,24 @@ export default function SalesTeamDevelopmentArticle() {
         <li><Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">Compensation & Incentive Design</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How long should I sell personally before hiring a sales rep?</h3>
+        <p>
+          You should sell personally for at least 3 months &mdash; and ideally close 5&ndash;10 deals yourself &mdash; before hiring your first dedicated salesperson. According to Stanford GSB research on search fund CEO strategies, new owners who sell personally before hiring build critical understanding of the customer buying process, competitive objections, pricing sensitivity, and the ideal customer profile. Harvard Business Review&rsquo;s research on sales organization development confirms that the number one reason first sales hires fail in SMEs is that the CEO could not articulate the sales process clearly enough to train and manage a rep. If you cannot sell the product yourself, a sales rep will not be able to either. During your personal selling period, document every step of the sales process &mdash; from lead generation to close &mdash; so you have a repeatable playbook to train your first hire.
+        </p>
+
+        <h3 className={h3Class}>What is the right compensation structure for the first sales hire?</h3>
+        <p>
+          A base-plus-commission structure with a 60/40 or 70/30 base-to-variable split works best for SME sales roles. According to Salesforce&rsquo;s 2024 State of Sales for SMBs report, commission-only roles attract transactional salespeople who prioritize short-term deals over relationship building &mdash; the opposite of what most acquired businesses need. Include a 3&ndash;6 month ramp period with a guaranteed minimum (typically equal to the base salary) to give the rep time to learn the product, build relationships, and develop pipeline. Set clear expectations: first sale by month 3, quota attainment by month 6. If neither milestone is reached, reassess fit rather than extending the ramp. Total on-target earnings (OTE) should be competitive for your market and industry &mdash; for SME B2B sales roles, this typically ranges from $75,000 to $120,000 depending on geography and deal size.
+        </p>
+
+        <h3 className={h3Class}>How can I build a sales pipeline when the business has relied entirely on referrals?</h3>
+        <p>
+          Start by formalizing and incentivizing the referral engine that already drives the business, then layer on outbound channels. According to Stanford GSB research, the most effective sequence is: first, create a structured referral program with clear incentives for customers, partners, and employees who refer new business; second, implement a CRM and begin tracking every lead source, conversion rate, and deal stage; third, build a target account list based on your ideal customer profile using tools like LinkedIn Sales Navigator or ZoomInfo; and fourth, launch multi-channel outbound (email sequences, phone calls, and LinkedIn messages) targeting high-value prospects. Salesforce data shows that SMEs that add a structured outbound sales motion to an existing referral-based business typically see 20&ndash;40% revenue growth within 12&ndash;18 months. A healthy B2B pipeline should be 3&ndash;4x your quarterly revenue target.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>Building a Sales Machine in a Previously Owner-Run Business</em> (2024)</li>

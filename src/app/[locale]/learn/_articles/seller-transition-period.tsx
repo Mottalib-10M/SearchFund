@@ -649,6 +649,30 @@ export default function SellerTransitionPeriodArticle() {
           themselves leading stronger, more resilient companies &mdash; with
           the full support of the person who built them.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long should a seller transition period last in a search fund acquisition?</h3>
+        <p>
+          Most search fund seller transitions last 6&ndash;12 months, though the optimal duration depends on the complexity of the business and the seller&rsquo;s role. Businesses where the seller is the primary customer relationship holder or possesses deep technical expertise typically require 12 months or longer. The Stanford GSB Search Fund Study reports that acquisitions with structured transitions of at least 6 months have significantly higher post-acquisition performance than those with abrupt handovers. A phased structure &mdash; intensive involvement (20&ndash;30 hours/week) in months 1&ndash;3, advisory (10&ndash;15 hours/week) in months 4&ndash;6, and on-call (5&ndash;10 hours/week) in months 7&ndash;12 &mdash; balances knowledge transfer with the new CEO&rsquo;s need to establish independent leadership.
+        </p>
+
+        <h3 className={h3Class}>How much should you pay the seller during the transition consulting period?</h3>
+        <p>
+          Seller consulting fees typically range from $10,000&ndash;$25,000 per month during the intensive phase, stepping down as the time commitment decreases. Common structures include a flat monthly retainer that decreases at defined intervals (e.g., $20K/month for months 1&ndash;3, $12K/month for months 4&ndash;6, $5K/month for months 7&ndash;12), hourly rates of $150&ndash;$300/hour, or milestone-based payments tied to specific deliverables like customer introductions and knowledge transfer documentation. According to the Exit Planning Institute, the total consulting cost across the full transition period typically represents 2&ndash;5% of the acquisition purchase price &mdash; a small investment relative to the value of the institutional knowledge being transferred.
+        </p>
+
+        <h3 className={h3Class}>What is the most common mistake during the seller transition period?</h3>
+        <p>
+          The most frequently cited mistake is failing to establish clear authority boundaries from Day 1, creating a &ldquo;two bosses&rdquo; dynamic that confuses employees and undermines the new CEO&rsquo;s credibility. When employees receive conflicting signals from the seller and the new CEO, the organization stalls &mdash; decisions get delayed, morale drops, and the new CEO&rsquo;s authority erodes. The consulting agreement should explicitly state that the new CEO is the sole decision-maker from closing day, while the seller serves as an advisor. Harvard Business Review research on leadership transitions confirms that ambiguity about authority during handover periods is the single strongest predictor of failed transitions in acquired businesses.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>
+          <li>Exit Planning Institute, <em>Seller Transition Best Practices</em> (2024)</li>
+          <li>Harvard Business Review, <em>Leadership Transitions in Acquired Businesses</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

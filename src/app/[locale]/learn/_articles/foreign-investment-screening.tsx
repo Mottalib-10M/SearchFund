@@ -92,6 +92,23 @@ export default function ForeignInvestmentScreeningArticle() {
         <li><Link href="/learn/double-taxation-treaties" className="text-apple-accent hover:underline">Double Taxation Treaties</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Do most search fund acquisitions trigger FDI screening?</h3>
+      <p className={bodyClass}>
+        No. The vast majority of typical search fund acquisitions&mdash;targeting services, manufacturing, and distribution businesses in the $2&ndash;15M EBITDA range&mdash;do not trigger FDI review. FDI screening primarily targets sensitive sectors (defense, critical infrastructure, telecommunications, healthcare IT, and data-intensive businesses) and typically applies to cross-border transactions where the acquirer is a foreign person or entity. According to the OECD&rsquo;s 2024 analysis of FDI screening policies, fewer than 5% of SME acquisitions in OECD countries were subject to formal FDI review. However, if your target operates in any potentially sensitive sector, consult local legal counsel early in the process.
+      </p>
+
+      <h3 className={h3Class}>How long does CFIUS review add to an acquisition timeline?</h3>
+      <p className={bodyClass}>
+        A CFIUS review in the United States follows a structured timeline: a 45-day initial review period followed by an optional 45-day investigation if the committee identifies national security concerns. In practice, the U.S. Treasury Department&rsquo;s 2024 annual report shows that approximately 60% of voluntarily filed transactions are cleared within the initial 45-day review period. Including pre-filing consultations and document preparation, the total process typically adds 2&ndash;4 months to an acquisition timeline. For mandatory filings involving critical technology or sensitive personal data, budget 3&ndash;6 months. Include a CFIUS approval condition in your purchase agreement whenever there is any possibility of review.
+      </p>
+
+      <h3 className={h3Class}>What happens if an FDI screening authority blocks or conditions a transaction?</h3>
+      <p className={bodyClass}>
+        If an FDI authority blocks a transaction, the deal cannot proceed in its proposed form. More commonly, authorities impose conditions rather than outright blocking&mdash;these may include security clearance requirements, data localization mandates, restrictions on certain business activities, or appointment of government-approved board members. The European Commission&rsquo;s 2024 FDI annual report found that only 2% of reviewed transactions were blocked, while 15% were approved with conditions. If conditionality is imposed, evaluate whether the conditions materially change the economics or operational flexibility of the acquisition before proceeding.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>European Commission, <em>EU FDI Screening Regulation (2019/452) Annual Report</em> (2024)</li>

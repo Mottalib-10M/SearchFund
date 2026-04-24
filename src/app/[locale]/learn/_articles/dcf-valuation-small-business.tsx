@@ -772,6 +772,26 @@ export default function DCFValuationSmallBusinessArticle() {
         For related topics that complement DCF analysis, explore our guides on <Link href="/learn/financial-modeling-for-acquisitions" className="text-apple-accent hover:underline">financial modeling for acquisitions</Link>, <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings analysis</Link>, and <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation fundamentals</Link>.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>When should I use DCF instead of EBITDA multiples to value a small business?</h3>
+
+      <p className={bodyClass}>
+        DCF valuation is most powerful when the target business has characteristics that don&rsquo;t fit neatly into multiples-based frameworks. According to McKinsey&rsquo;s valuation research, DCF outperforms multiples when cash flows are predictable (recurring revenue, long-term contracts), when growth rates differ significantly from industry peers, when the capital structure will change post-acquisition, or when exit timing is uncertain. Aswath Damodaran&rsquo;s investment valuation framework recommends using DCF for any business where you have 3&ndash;5 years of reliable financial history and can build defensible revenue and margin projections. In practice, most sophisticated searchers use both methods: multiples for quick screening and market context, DCF for deep analysis of serious candidates &mdash; the two approaches should converge, and if they don&rsquo;t, the divergence itself reveals something important about the business.
+      </p>
+
+      <h3 className={h3Class}>What discount rate (WACC) is appropriate for small business acquisitions?</h3>
+
+      <p className={bodyClass}>
+        For most search fund acquisitions with 60&ndash;70% equity financing, expect WACC in the 12&ndash;18% range. Duff &amp; Phelps (now Kroll) and Ibbotson&rsquo;s research on size premiums shows that small businesses require a 3&ndash;6% additional premium over large-cap cost of equity due to customer concentration, limited management depth, and restricted access to capital. Shannon Pratt&rsquo;s valuation framework for small businesses recommends adding a further 0&ndash;5% company-specific risk premium for factors like customer concentration above 25%, single product lines, regulatory exposure, or management transition risk. The cost of equity for a typical SME acquisition therefore ranges from 14&ndash;22%, which when blended with after-tax debt costs of 7&ndash;8% (SBA 7(a) rates at Prime + 2.75%, tax-adjusted), produces the 12&ndash;18% WACC range common in search fund models.
+      </p>
+
+      <h3 className={h3Class}>Why does terminal value often represent 60&ndash;80% of enterprise value, and how do I avoid over-relying on it?</h3>
+
+      <p className={bodyClass}>
+        Terminal value captures the present value of all cash flows beyond the explicit projection period, and since businesses theoretically operate in perpetuity, this component naturally dominates in a standard 5-year DCF model. McKinsey&rsquo;s valuation methodology warns that when terminal value exceeds 80% of enterprise value, the projection period is likely too short or near-term cash flows are understated. Damodaran&rsquo;s framework recommends extending projections to 7&ndash;10 years for high-growth businesses to shift more value into the explicit forecast period where assumptions are more transparent. To sanity-check terminal value, always cross-reference the perpetuity growth method (which should use a growth rate no higher than GDP growth of 2&ndash;3%) against the exit multiple method using <Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">comparable transaction</Link> data &mdash; if the two methods produce materially different results, revisit your growth rate and multiple assumptions until they converge.
+      </p>
+
       <div className="mt-16 border-t border-gray-200 pt-8 dark:border-gray-700">
         <h2 className={h2Class}>Sources</h2>
         <ul className="space-y-3">

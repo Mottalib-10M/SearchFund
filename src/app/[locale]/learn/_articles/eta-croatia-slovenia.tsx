@@ -73,6 +73,26 @@ export default function ETACroatiaSloveniaArticle() {
         <li><Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">Cross-Border Acquisitions in Europe</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How does Croatia&rsquo;s 10% corporate tax rate for small companies work?</h3>
+
+      <div className={bodyClass}>
+        <p>Croatia offers a reduced corporate tax rate of 10% for companies with annual revenue under &euro;1 million, compared to the standard rate of 18%. This makes Croatia one of the most tax-competitive jurisdictions in the EU for small businesses. The reduced rate applies automatically based on the prior year&rsquo;s revenue, with no special application required. For search fund acquirers targeting smaller Croatian businesses, this favorable tax rate can significantly improve post-acquisition cash flows and accelerate return of invested capital. However, as the business grows above the &euro;1 million revenue threshold, the rate increases to 18%&mdash;still competitive by EU standards but representing a meaningful step-up that should be modeled in financial projections.</p>
+      </div>
+
+      <h3 className={h3Class}>Is the tourism seasonality in Croatia a deal-breaker for search fund acquisitions?</h3>
+
+      <div className={bodyClass}>
+        <p>Seasonality is a significant factor but not necessarily a deal-breaker. According to the Croatian Chamber of Economy, Croatia attracts over 20 million tourists annually, with 70&ndash;80% of visits concentrated between May and September. Tourism-dependent businesses (hotels, yacht charter, tour operators) experience dramatic revenue swings, which creates working capital management challenges and complicates financing. However, some searchers view seasonality as an opportunity: off-season months can be used for renovations, system improvements, and strategic planning. Additionally, medical tourism (particularly dental services), year-round IT and software businesses, and manufacturing companies that serve export markets offer non-seasonal alternatives. The key is to model cash flow on a monthly basis and ensure the business can service its obligations during the low season.</p>
+      </div>
+
+      <h3 className={h3Class}>Can I run a combined search across both Croatia and Slovenia?</h3>
+
+      <div className={bodyClass}>
+        <p>A combined Croatia-Slovenia search is feasible given the countries&rsquo; geographic proximity, shared historical ties, and similar business cultures. The combined population of 6 million provides a larger target universe than either country alone. Both countries are EU and Eurozone members using the euro, which eliminates currency risk in cross-border transactions. However, the languages are distinct (Croatian and Slovenian), and each country has its own legal, tax, and regulatory framework. Deal intermediary infrastructure is limited in both countries, so proprietary sourcing through local accountants, lawyers, and industry contacts is essential. Searchers who speak one South Slavic language will find the other relatively accessible, and English is commonly used in business settings in both Ljubljana and Zagreb.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>SPIRIT Slovenia, <em>Invest in Slovenia Guide</em> (2024)</li>

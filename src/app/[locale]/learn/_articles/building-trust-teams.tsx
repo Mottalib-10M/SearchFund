@@ -74,6 +74,23 @@ export default function BuildingTrustTeamsArticle() {
         <li><Link href="/learn/talent-acquisition-post-close" className="text-apple-accent hover:underline">Talent Retention</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does it take to build trust with an inherited team after an acquisition?</h3>
+      <div className={bodyClass}>
+        <p>Research from Harvard Business Review&rsquo;s leadership transition studies suggests that meaningful trust-building takes 6&ndash;12 months of consistent behavior, though the first 30&ndash;90 days set the trajectory. Stanford GSB&rsquo;s search fund operator data shows that CEOs who invest the first 30 days in listening, meeting every employee individually, and making no major changes report significantly higher employee retention in the first year (85&ndash;90% vs. 65&ndash;75% for those who implemented rapid changes). The key insight is that trust accrues through hundreds of small, consistent actions &mdash; following through on commitments, admitting mistakes, and being physically present &mdash; rather than any single grand gesture.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the biggest mistake new owners make when taking over an acquired business?</h3>
+      <div className={bodyClass}>
+        <p>Making significant changes before understanding the existing culture and operations is the most frequently cited mistake by experienced search fund operators. Patrick Lencioni&rsquo;s research on team dynamics shows that employees interpret rapid change as disrespect for what they have built, creating entrenched resistance that becomes difficult to reverse. Common examples include restructuring the organization chart in week one, changing compensation structures before understanding their history, or implementing new technology before learning existing workflows. The recommended approach is to spend at least 30 days in &ldquo;listen and learn&rdquo; mode before making any visible changes.</p>
+      </div>
+
+      <h3 className={h3Class}>How should I handle employees who are loyal to the previous owner and resistant to new leadership?</h3>
+      <div className={bodyClass}>
+        <p>Identify informal leaders &mdash; employees whose opinions carry weight beyond their title &mdash; and invest disproportionately in building relationships with them first. According to organizational psychology research, winning over these cultural anchors creates a cascade effect where their acceptance signals to the broader team that the new leader is trustworthy. Avoid criticizing the previous owner publicly; instead, frame changes as building on the foundation they created. If specific employees remain actively hostile after 3&ndash;6 months of genuine engagement, it may be necessary to have direct conversations about expectations, but premature terminations of respected employees can trigger broader departures.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Patrick Lencioni, <em>The Five Dysfunctions of a Team</em> (2002)</li>

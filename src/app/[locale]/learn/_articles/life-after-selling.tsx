@@ -73,6 +73,23 @@ export default function LifeAfterSellingArticle() {
         <li><Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">Why Invest in Search Funds</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does it take to adjust to life after selling a business?</h3>
+      <p className={bodyClass}>
+        The Exit Planning Institute&rsquo;s 2024 &ldquo;Life After the Exit&rdquo; survey found that the average adjustment period is 12&ndash;24 months, with 75% of former business owners reporting that the transition was more difficult than expected. The first 90 days often feel euphoric (freedom from responsibility), followed by a 6&ndash;12 month period of identity questioning and restlessness. Bo Burlingham&rsquo;s research in <em>Finish Big</em> found that sellers who planned their post-sale activities before closing adjusted 50% faster than those who didn&rsquo;t. The most successful transitions involved gradually building new identities and activities during the 6&ndash;12 months before the sale, rather than facing an abrupt shift.
+      </p>
+
+      <h3 className={h3Class}>What is the biggest mistake former business owners make with their sale proceeds?</h3>
+      <p className={bodyClass}>
+        The biggest financial mistake is making major investment decisions too quickly after the sale. Vistage&rsquo;s 2024 study found that 40% of former business owners invested in a new venture, real estate, or concentrated stock position within 90 days of closing&mdash;and 60% of those investments underperformed. The restlessness and need for activity that follows a sale often drives hasty capital deployment. Financial advisors recommend parking proceeds in conservative instruments for at least 6 months while developing a comprehensive wealth management strategy. The Exit Planning Institute recommends working with a fee-only wealth advisor (not commission-based) who can create a diversified portfolio and sustainable withdrawal strategy before making any significant investments.
+      </p>
+
+      <h3 className={h3Class}>How can former business owners stay engaged and find purpose after selling?</h3>
+      <p className={bodyClass}>
+        The most fulfilling post-sale paths combine intellectual stimulation with social connection and sense of contribution. The Exit Planning Institute&rsquo;s research shows that the highest-satisfaction activities are: board service (reported by 65% as highly fulfilling), mentoring younger entrepreneurs (60%), angel investing or search fund investing (55%), and teaching at business schools (50%). Vistage&rsquo;s study found that former owners who maintained at least 3 structured weekly commitments (board meetings, mentoring sessions, volunteer work) reported 2x higher life satisfaction than those without structure. The key insight is that purpose doesn&rsquo;t need to come from a single source&mdash;building a portfolio of activities that provides intellectual challenge, social connection, and meaningful impact is more sustainable than trying to replicate the all-consuming nature of business ownership.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Bo Burlingham, <em>Finish Big: How Great Entrepreneurs Exit Their Companies on Top</em> (2013)</li>

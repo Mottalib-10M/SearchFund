@@ -408,6 +408,30 @@ export default function SBA7aLoansAcquisitionArticle() {
             self-funded vs. traditional search funds
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much equity do I need for an SBA 7(a) acquisition loan?</h3>
+        <p>
+          The SBA requires a minimum equity injection of 10% of the total project cost (purchase price plus closing costs and working capital). For a $2.5 million acquisition with $200,000 in closing costs, the minimum equity requirement would be approximately $270,000. According to SBA lending data, this equity can come from personal savings, home equity, retirement fund rollovers (ROBS programs), gifts from family, or investor capital &mdash; though lenders may require a larger contribution (15&ndash;20%) if the business has volatile cash flows, high goodwill relative to tangible assets, or if the buyer has limited management experience. The 80/10/10 structure (80% SBA loan, 10% seller note on standby, 10% buyer equity) is the canonical self-funded search deal structure and allows an entrepreneur to acquire a $3 million business with just $300,000 of personal capital while retaining 100% ownership.
+        </p>
+
+        <h3 className={h3Class}>What is the seller note standby requirement and why does it matter?</h3>
+        <p>
+          SBA rules require that any seller financing combined with an SBA 7(a) loan must be placed on full standby for a minimum of 24 months from closing &mdash; meaning zero payments of principal or interest during that period. Interest accrues and is capitalized into the note balance. According to the SBA Standard Operating Procedures, the standby requirement exists to ensure that all available cash flow services the senior SBA debt first, protecting taxpayers who ultimately guarantee the loan. The seller note must be fully subordinated to the SBA loan, and the seller cannot take a security interest in business assets. Many sellers initially balk at receiving no payments for two years, so effective communication is critical: frame the 80% cash at closing as the primary benefit, explain that standby is a standard SBA program requirement (not a personal request), and consider offering a slightly higher interest rate (6&ndash;7% instead of 4&ndash;5%) to compensate for the deferred payments.
+        </p>
+
+        <h3 className={h3Class}>How long does the SBA 7(a) loan process take from application to closing?</h3>
+        <p>
+          The total timeline from LOI to close is typically 75&ndash;120 days for SBA-financed acquisitions. Finding and selecting an SBA Preferred Lending Partner (PLP) takes 1&ndash;2 weeks, application preparation and submission takes 1&ndash;2 weeks, underwriting and approval takes 3&ndash;6 weeks, and loan documentation and closing takes 2&ndash;4 weeks. PLP lenders have delegated authority to approve loans without sending the application to the SBA for review, saving 2&ndash;4 weeks in processing time. According to experienced SBA lenders, the most common cause of delays is slow response to information requests from the buyer or seller &mdash; being responsive and organized can compress the timeline by 2&ndash;3 weeks. Buyers should note that the SBA process is significantly slower than conventional financing (which can close in 30&ndash;45 days), so sellers need to understand the timeline upfront and the LOI should set realistic closing expectations.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>US Small Business Administration, <em>SBA 7(a) Loan Program: Standard Operating Procedures</em> (2024)</li>
+          <li>Stanford GSB, <em>Self-Funded Search: The SBA Acquisition Model</em> (2024)</li>
+          <li>Guidant Financial, <em>Small Business Trends: SBA Lending Data and Analysis</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

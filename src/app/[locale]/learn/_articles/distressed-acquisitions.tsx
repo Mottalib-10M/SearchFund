@@ -609,6 +609,26 @@ export default function DistressedAcquisitionsArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What percentage of turnaround acquisitions actually succeed?</h3>
+
+      <p className={bodyClass}>
+        According to research from the Turnaround Management Association and McKinsey &amp; Company, only about 30&ndash;40% of turnaround attempts result in successful recoveries that generate positive returns for investors. The success rate varies significantly by the type of distress: financial distress with a sound underlying business model has roughly a 50&ndash;60% success rate when properly recapitalized, while strategic distress (obsolete business model or structural market decline) succeeds less than 20% of the time. For search fund entrepreneurs specifically, the Stanford Search Fund Primer data suggests that turnaround-oriented acquisitions underperform stable-business acquisitions on average, though the top quartile of turnarounds can generate exceptional returns exceeding 5x invested capital.
+      </p>
+
+      <h3 className={h3Class}>How much capital reserve should I set aside beyond the acquisition price for a distressed deal?</h3>
+
+      <p className={bodyClass}>
+        Industry best practice, as recommended by the Turnaround Management Association and experienced distressed investors, is to raise 50&ndash;100% more equity than your base case acquisition and stabilization budget requires. For example, if the acquisition costs $2 million and your stabilization plan requires $1 million in working capital and operational improvements, you should target $4.5&ndash;$6 million in total committed capital. This reserve protects against the inevitable surprises that surface post-closing&mdash;vendor demands for prepayment, equipment failures, customer losses, and cash flow shortfalls during the restructuring period. Staging capital in tranches tied to operational milestones is a common approach that preserves investor optionality while ensuring adequate funding.
+      </p>
+
+      <h3 className={h3Class}>Should I pursue an asset deal or a share deal when acquiring a distressed business?</h3>
+
+      <p className={bodyClass}>
+        For distressed acquisitions, asset deals (or Section 363 sales in bankruptcy) are generally preferred over share deals because they allow the buyer to acquire specific assets while leaving behind unwanted liabilities&mdash;including pending litigation, environmental claims, tax obligations, and unfavorable contracts. According to the Journal of Applied Corporate Finance, approximately 65&ndash;70% of distressed acquisitions are structured as asset purchases for this reason. However, asset deals require individual transfer of contracts, licenses, and permits, which can be operationally complex. In bankruptcy scenarios, a 363 sale provides the additional benefit of a court-approved &ldquo;free and clear&rdquo; transfer that extinguishes most pre-existing claims, offering the cleanest path to acquiring distressed assets.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

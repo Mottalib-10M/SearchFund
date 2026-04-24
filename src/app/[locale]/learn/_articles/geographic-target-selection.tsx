@@ -400,6 +400,23 @@ export default function GeographicTargetSelectionArticle() {
           </li>
         </ul>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Should a search fund entrepreneur be willing to relocate for the right acquisition?</h3>
+        <p>
+          Yes, willingness to relocate dramatically expands the deal universe and is associated with better acquisition outcomes. Stanford GSB&rsquo;s 2024 Search Fund Study found that searchers who were open to relocation closed acquisitions 4 months faster on average than those restricted to a single metro area. However, relocation should be approached as a 5&ndash;7 year commitment aligned with the typical hold period. Searchers should evaluate the target geography for quality of life, cost of living, spousal career opportunities, and school quality alongside business factors. The most successful relocating searchers visit their target markets multiple times before closing and begin building community connections well before the move.
+        </p>
+
+        <h3 className={h3Class}>How does geography affect business valuations?</h3>
+        <p>
+          Business valuations vary significantly by geography, primarily driven by buyer competition and market dynamics. The Brookings Institution&rsquo;s metropolitan economic analysis shows that businesses in major metro areas (New York, San Francisco, Boston) typically trade at 0.5&ndash;1.5x higher EBITDA multiples than comparable businesses in secondary or tertiary markets. For searchers, this creates a &ldquo;valuation arbitrage&rdquo; opportunity&mdash;acquiring in less competitive markets where multiples are lower, then building value that can be recognized at exit. The NBER&rsquo;s research on regional economics suggests that businesses in mid-size cities with growing populations often offer the best combination of reasonable acquisition multiples and healthy organic growth.
+        </p>
+
+        <h3 className={h3Class}>What are the key geographic risk factors to evaluate during due diligence?</h3>
+        <p>
+          Key geographic risk factors include population trends (declining populations signal shrinking markets), economic diversification (dependence on a single industry creates vulnerability), natural disaster exposure (FEMA data shows insurance costs can vary 3&ndash;5x between regions), labor market tightness (Bureau of Labor Statistics data on local unemployment and wage growth), and regulatory environment (state-level tax and regulatory differences materially affect profitability). The OECD&rsquo;s Regional Outlook recommends evaluating a 10-year demographic trend rather than a point-in-time snapshot, as gradual population shifts can significantly impact long-term business value.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>Stanford Graduate School of Business, <em>Search Funds &mdash; 2024 Study</em></li>

@@ -82,6 +82,24 @@ export default function MiddleManagementArticle() {
         <li><Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">Compensation & Incentive Design</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How long does it take to develop effective middle managers?</h3>
+        <p>
+          Developing a capable middle manager from an existing frontline employee typically takes 6&ndash;12 months of consistent coaching, training, and support. According to Gallup&rsquo;s State of the American Manager report, managers who receive structured development programs reach full effectiveness 40% faster than those who are simply promoted and left to figure things out. The Harvard Business Review notes that the most critical skills to develop &mdash; delegation, difficult conversations, and decision-making authority &mdash; require repeated practice and coaching to internalize. Plan for weekly one-on-ones, monthly peer roundtables, and quarterly external training during the first year. Most search fund CEOs report that their management layer begins generating meaningful returns (reduced CEO bottlenecks, improved employee retention, faster execution) within 4&ndash;6 months of focused development.
+        </p>
+
+        <h3 className={h3Class}>Should I hire external managers or promote from within?</h3>
+        <p>
+          In most search fund acquisitions, promoting from within is the preferred approach for the first 6&ndash;12 months because internal candidates understand the culture, operations, and customer relationships. Stanford GSB research on search fund companies shows that businesses with at least one internally promoted manager during the first year have 25% higher employee retention rates during the ownership transition. However, external hires become necessary when specific skill gaps exist &mdash; particularly in finance, sales leadership, or technology &mdash; that cannot be addressed through internal development. The best approach is a hybrid: promote your strongest internal candidates into management roles while selectively recruiting external talent for specialized functions, ensuring that new hires respect and learn from the institutional knowledge of the existing team.
+        </p>
+
+        <h3 className={h3Class}>What are the warning signs that a newly promoted manager is struggling?</h3>
+        <p>
+          The most common warning signs include team members bypassing the new manager to come directly to you, increasing employee turnover within their team, declining KPIs in their area of responsibility, and the manager reverting to individual contributor work instead of delegating. According to the Harvard Business Review, approximately 50% of first-time managers report feeling unprepared for their new role, and 60% receive no formal training before or after their promotion. Early intervention is critical &mdash; if you notice warning signs within the first 90 days, increase the frequency of one-on-ones, provide specific behavioral coaching, and consider pairing the struggling manager with a mentor from your <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link>. Failure to address performance issues early often leads to the manager&rsquo;s team losing confidence, which is much harder to rebuild.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>The Critical Role of Middle Management in M&amp;A Integration</em> (2024)</li>

@@ -477,6 +477,23 @@ export default function PostClosingDisputesArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How common are post-closing disputes in M&amp;A transactions?</h3>
+        <p>
+          Post-closing disputes are remarkably common. According to the American Bar Association&rsquo;s Private Target M&amp;A Deal Points Study, approximately 30&ndash;40% of acquisitions involve some form of post-closing disagreement, with working capital adjustments and earn-out calculations being the most frequent sources of contention. SRS Acquiom&rsquo;s annual M&amp;A Deal Terms Study reports that working capital disputes arise in approximately 20&ndash;25% of transactions with purchase price adjustment mechanisms, and earn-out disputes occur in roughly 30&ndash;35% of deals that include earn-out provisions. The frequency of disputes underscores the importance of precise drafting in the purchase agreement &mdash; ambiguity in contract language is the root cause of most post-closing disagreements, and investing additional time in drafting is far less costly than resolving disputes after closing.
+        </p>
+
+        <h3 className={h3Class}>What is the typical cost and duration of resolving a post-closing dispute?</h3>
+        <p>
+          The cost and duration vary significantly based on the dispute resolution mechanism and the amounts at stake. Working capital disputes resolved through an independent accountant typically cost $25,000&ndash;$75,000 in professional fees and take 2&ndash;4 months to resolve. Earn-out disputes that proceed to arbitration can cost $100,000&ndash;$500,000+ in legal and expert fees and take 6&ndash;18 months, while full litigation may exceed $500,000 and take 12&ndash;36 months. According to Houlihan Lokey&rsquo;s Purchase Agreement Study, the average working capital adjustment dispute involves a contested amount of 2&ndash;5% of the purchase price, while earn-out disputes frequently involve 10&ndash;30% of the total deal consideration. These costs highlight why prevention through precise contract drafting and aligned incentives is far preferable to after-the-fact resolution.
+        </p>
+
+        <h3 className={h3Class}>How does representations and warranties insurance reduce post-closing disputes?</h3>
+        <p>
+          Representations and warranties (R&amp;W) insurance fundamentally changes the post-closing dynamic by shifting indemnification risk from the seller to an insurance carrier. According to Aon&rsquo;s R&amp;W Insurance Market Update, R&amp;W policies are now used in over 50% of North American private M&amp;A transactions above $25 million in enterprise value, and adoption is growing rapidly in smaller deals. The key benefit is that the buyer makes indemnification claims against the insurer rather than the seller, preserving the commercial relationship and eliminating the adversarial tension that characterizes traditional indemnification claims. R&amp;W insurance also allows sellers to limit or eliminate their indemnification escrow (from the typical 10&ndash;15% holdback to as little as 1%), which can be a significant negotiating advantage in competitive deal processes.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em></li>

@@ -75,6 +75,23 @@ export default function ITServicesAcquisitionArticle() {
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is a good recurring revenue percentage for an MSP acquisition target?</h3>
+      <p className={bodyClass}>
+        A strong MSP acquisition target should have at least 60% of revenue from recurring managed services contracts, with best-in-class operators reaching 70&ndash;80%. ConnectWise&rsquo;s 2024 MSP Benchmark Report shows that MSPs with 70%+ recurring revenue trade at 6&ndash;8x EBITDA, while those with less than 50% recurring revenue trade at 3&ndash;5x EBITDA. Recurring revenue provides predictable cash flows, higher customer retention (90%+ for good MSPs), and more defensible competitive positioning. During due diligence, analyze the contract base carefully: average contract length, auto-renewal provisions, termination notice periods, and per-user pricing relative to market benchmarks.
+      </p>
+
+      <h3 className={h3Class}>What are typical EBITDA margins for IT services businesses?</h3>
+      <p className={bodyClass}>
+        EBITDA margins vary significantly by sub-sector. According to Gartner&rsquo;s 2024 IT services market data, well-run managed service providers achieve 20&ndash;30% EBITDA margins, IT consulting firms operate at 15&ndash;25%, and systems integrators at 10&ndash;20%. The Channel Futures MSP 501 survey found that top-quartile MSPs achieve EBITDA margins above 25% through disciplined pricing, efficient service delivery, and high utilization rates. The primary margin levers post-acquisition are converting break-fix customers to higher-margin managed services contracts, implementing per-user pricing models, and consolidating vendor relationships for better procurement costs.
+      </p>
+
+      <h3 className={h3Class}>What is the biggest risk in acquiring an IT services business?</h3>
+      <p className={bodyClass}>
+        Technical talent retention is the biggest risk. IT services businesses are fundamentally people businesses, and the loss of key engineers, architects, or project managers can directly impact service delivery and customer relationships. ConnectWise data shows that the average IT services company has an annual employee turnover rate of 20&ndash;25%, with top technicians being actively recruited by competitors. During due diligence, assess certifications (Microsoft, Cisco, AWS), employee tenure, non-compete agreements, and compensation relative to market rates. Budget for retention bonuses of 25&ndash;50% of base salary for critical technical staff, and plan to invest in training and career development to differentiate your company as an employer.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Gartner, <em>IT Services Market Size and Forecast</em> (2024)</li>

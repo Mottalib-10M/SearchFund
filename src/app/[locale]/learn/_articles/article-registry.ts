@@ -570,13 +570,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "is-eta-right-for-you",
-    title: "Is ETA Right for You? A Self-Assessment Framework",
+    title: "Should You Pursue ETA? Skills, Mindset & Readiness Checklist",
     description:
       "Personality traits, financial readiness, career assessment, and a 10-point scorecard to evaluate whether Entrepreneurship Through Acquisition fits your profile.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "Is ETA Right for You? A Self-Assessment Framework",
+    ogTitle: "Should You Pursue ETA? Skills, Mindset & Readiness Checklist",
     ogDescription:
       "Risk tolerance, resilience, financial runway, opportunity cost — rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is the right path.",
     datePublished: "2025-04-21",
@@ -649,13 +649,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "what-makes-good-acquisition-target",
-    title: "What Makes a Good Search Fund Acquisition Target?",
+    title: "Acquisition Target Criteria: Revenue, Margins & Moat Analysis",
     description:
       "The 7 core criteria search fund investors look for: recurring revenue, fragmented industry, low concentration, EBITDA profile, management team, moat, and valuation.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "What Makes a Good Search Fund Acquisition Target? 7 Essential Criteria",
+    ogTitle: "Acquisition Target Criteria: Revenue, Margins & Moat Analysis",
     ogDescription:
       "Recurring revenue, fragmented industry, low customer concentration, $1.5–5M EBITDA, management beyond owner — the 7 criteria that define an ideal search fund target.",
     datePublished: "2025-04-21",
@@ -773,13 +773,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "are-search-funds-good-investment",
-    title: "Are Search Funds a Good Investment? Returns Analyzed",
+    title: "Search Fund Returns: Historical Performance & Risk Analysis",
     description:
       "33% aggregate IRR, 5.5x MOIC, but one-third lose money — return distribution, comparison to PE/VC/public markets, risk factors, and who should invest.",
     readTime: "14 min read",
     tag: "Research",
     category: "Getting Started",
-    ogTitle: "Are Search Funds a Good Investment? Returns Data & Analysis",
+    ogTitle: "Search Fund Returns: Historical Performance & Risk Analysis",
     ogDescription:
       "33% IRR and 5.5x MOIC but significant dispersion. Return distribution, risk factors, comparison to PE/VC/S&P 500, and portfolio construction for search fund investors.",
     datePublished: "2025-04-21",
@@ -897,13 +897,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "creating-icp-acquisitions",
-    title: "Creating Your Ideal Company Profile (ICP) for Acquisitions",
+    title: "How to Build an Acquisition Target Screening ICP",
     description:
       "The 8 ICP dimensions (financial, industry, geography, business model, customers, seller motivation, operations, growth), step-by-step process, and common mistakes.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "How to Build Your Ideal Company Profile (ICP) for Acquisitions",
+    ogTitle: "How to Build an Acquisition Target Screening ICP",
     ogDescription:
       "Define your acquisition criteria across 8 dimensions: financials, industry, geography, business model, customers, seller motivation, operations, and growth potential.",
     datePublished: "2025-04-21",
@@ -1066,13 +1066,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "search-fund-timeline",
-    title: "How Long Does a Search Fund Take? Timeline & Milestones",
+    title: "Search Fund Timeline: Month-by-Month Milestones from Launch to Close",
     description:
       "Phase-by-phase timeline of a search fund: fundraise (3–6 months), search (18–24 months), deal execution (3–6 months), operations (5–7 years), and exit.",
     readTime: "10 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "Search Fund Timeline: How Long Does Each Phase Take?",
+    ogTitle: "Search Fund Timeline: Month-by-Month Milestones from Launch to Close",
     ogDescription:
       "Fundraise in 3–6 months, search for 18–24 months, close in 3–6 months, operate for 5–7 years, exit in 6–12 months. The complete search fund timeline with milestones and Stanford data.",
     datePublished: "2025-04-21",
@@ -1257,13 +1257,13 @@ export const allArticles: ArticleMeta[] = [
 
   {
     slug: "ideal-acquisition-target",
-    title: "What Makes a Good Search Fund Acquisition Target?",
+    title: "The Ideal Acquisition Target: A Search Fund Buyer's Framework",
     description:
       "The key criteria for identifying ideal search fund acquisition targets — revenue size, EBITDA margins, recurring revenue, customer concentration, owner dependency, and industry characteristics.",
     readTime: "11 min read",
     tag: "Guide",
     category: "Getting Started",
-    ogTitle: "What Makes a Good Search Fund Acquisition Target?",
+    ogTitle: "The Ideal Acquisition Target: A Search Fund Buyer's Framework",
     ogDescription:
       "$5–30M enterprise value, 15%+ EBITDA margins, low owner dependency, and recurring revenue. The complete scoring framework for evaluating acquisition targets.",
     datePublished: "2025-04-22",
@@ -1885,13 +1885,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "red-flags-due-diligence",
-    title: "Red Flags in Due Diligence: When to Walk Away",
+    title: "Due Diligence Red Flags: Financial, Legal & Operational Warning Signs",
     description:
       "Financial, operational, legal, and behavioral red flags in acquisition due diligence — with guidance on when to renegotiate and when to walk away.",
     readTime: "15 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "Red Flags in Due Diligence: When to Walk Away from a Deal",
+    ogTitle: "Due Diligence Red Flags: Financial, Legal & Operational Warning Signs",
     ogDescription:
       "EBITDA manipulation, declining revenue, customer concentration, evasive sellers — the red flags that should kill a deal and the ones that just need a price adjustment.",
     datePublished: "2025-04-21",
@@ -2093,13 +2093,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "how-find-businesses-for-sale",
-    title: "How to Find Businesses for Sale: The Complete Guide",
+    title: "Finding Businesses for Sale: Platforms, Brokers & Off-Market Sourcing",
     description:
       "Every major deal sourcing channel: brokers, online marketplaces, direct outreach, professional referrals, and industry-specific sources.",
     readTime: "16 min read",
     tag: "Guide",
     category: "Deal Execution",
-    ogTitle: "How to Find Businesses for Sale: The Complete Guide",
+    ogTitle: "Finding Businesses for Sale: Platforms, Brokers & Off-Market Sourcing",
     ogDescription:
       "BizBuySell, brokers, Axial, direct outreach, CPA referrals — every deal sourcing channel explained with practical tactics for finding the right business to buy.",
     datePublished: "2025-04-21",
@@ -2172,13 +2172,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "working-with-business-brokers",
-    title: "Working with Business Brokers: A Buyer's Guide",
+    title: "Business Broker Relationships: Finding, Vetting & Managing Intermediaries",
     description:
       "How the brokerage industry works, fee structures, finding quality brokers, building buyer relationships, evaluating broker-listed businesses, and navigating common broker tactics.",
     readTime: "11 min read",
     tag: "Strategy",
     category: "Deal Execution",
-    ogTitle: "Working with Business Brokers: A Buyer's Guide",
+    ogTitle: "Business Broker Relationships: Finding, Vetting & Managing Intermediaries",
     ogDescription:
       "Brokers handle ~80% of small business sales. Learn fee structures, relationship building, and how to stand out as a buyer to get the best deal flow.",
     datePublished: "2025-04-22",
@@ -2970,13 +2970,13 @@ export const allArticles: ArticleMeta[] = [
   // ── Legal & Tax ──────────────────────────────────────────────────────
   {
     slug: "sba-7a-loans-complete-guide",
-    title: "SBA 7(a) Loans for Business Acquisitions: Complete Guide",
+    title: "SBA 7(a) Loan Requirements, Rates & Application Process",
     description:
       "Everything about SBA 7(a) loans: eligibility, terms, the application process, capital stack structuring, lender selection, and common pitfalls.",
     readTime: "17 min read",
     tag: "Guide",
     category: "Legal & Tax",
-    ogTitle: "SBA 7(a) Loans for Business Acquisitions: The Complete Guide",
+    ogTitle: "SBA 7(a) Loan Requirements, Rates & Application Process",
     ogDescription:
       "Up to $5M, 10-year terms, 10–20% equity injection. The definitive guide to SBA 7(a) acquisition financing for search fund and self-funded buyers.",
     datePublished: "2025-04-21",
@@ -3727,13 +3727,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "quick-wins-first-90-days",
-    title: "Quick Wins in the First 90 Days Post-Acquisition",
+    title: "First 90 Days as CEO: Actionable Quick Wins After Buying a Business",
     description:
       "Discover high-impact, low-risk quick wins for the first 90 days after acquiring a business — financial, operational, customer-facing, and people-focused improvements that build credibility.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Quick Wins in the First 90 Days After Acquisition | Action Plan",
+    ogTitle: "First 90 Days as CEO: Actionable Quick Wins After Buying a Business",
     ogDescription:
       "High-impact, low-risk improvements for new CEOs: price increases, vendor renegotiation, technology upgrades, and customer calls that build momentum fast.",
     datePublished: "2025-06-15",
@@ -4098,13 +4098,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "preparing-company-exit",
-    title: "Preparing Your Company for Exit: 18-Month Readiness Plan",
+    title: "Exit Preparation Checklist: Getting Your Business Sale-Ready",
     description:
       "Start preparing your company for sale 18 months in advance — clean up financials, reduce owner dependency, demonstrate growth, and assemble your advisory team.",
     readTime: "11 min read",
     tag: "Operations",
     category: "Operations & Growth",
-    ogTitle: "Exit Readiness Plan for Search Fund Companies | 18-Month Checklist",
+    ogTitle: "Exit Preparation Checklist: Getting Your Business Sale-Ready",
     ogDescription:
       "Prepare your company for a successful exit: 18-month timeline covering financial cleanup, owner-dependency reduction, growth trajectory, and go-to-market preparation.",
     datePublished: "2025-06-15",
@@ -4393,13 +4393,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "government-acquisition-financing",
-    title: "Government Acquisition Financing Programs: A Global Comparison",
+    title: "Government-Backed Loans & Grants for Business Acquisitions",
     description:
       "Compare government-backed acquisition financing programs worldwide — SBA (US), BDC (Canada), KfW (Germany), Bpifrance (France), British Business Bank (UK), and more.",
     readTime: "11 min read",
     tag: "Financing",
     category: "Legal & Tax",
-    ogTitle: "Government Acquisition Financing Programs | Global Comparison",
+    ogTitle: "Government-Backed Loans & Grants for Business Acquisitions",
     ogDescription:
       "Compare SBA, BDC, KfW, Bpifrance, and British Business Bank programs. Below-market rates, loan guarantees, and reduced equity requirements for business acquisitions.",
     datePublished: "2025-06-15",
@@ -5604,12 +5604,12 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "portfolio-construction-search-fund",
-    title: "Portfolio Construction for Search Fund Investors",
+    title: "Diversifying a Search Fund LP Portfolio: Strategy & Allocation",
     description: "Build a diversified search fund investment portfolio — allocation sizing, vintage diversification, capital reserves, return expectations, and active management strategies.",
     readTime: "11 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Portfolio Construction — Sizing, Diversification & Returns",
+    ogTitle: "Diversifying a Search Fund LP Portfolio: Strategy & Allocation",
     ogDescription: "Build a portfolio of 20–30+ search fund investments across vintages and geographies. Learn allocation, reserve planning, and return expectations.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -5626,12 +5626,12 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "risk-factors-search-fund",
-    title: "Risk Factors in Search Fund Investing",
+    title: "Search Fund Investment Risks: What LPs Need to Know",
     description: "Catalog of search fund investment risks — search phase failure, acquisition pitfalls, operational challenges, and mitigation strategies for informed investors.",
     readTime: "12 min read",
     tag: "Investing",
     category: "Investor Comparisons",
-    ogTitle: "Search Fund Risk Factors — From Search Failure to Operational Risk",
+    ogTitle: "Search Fund Investment Risks: What LPs Need to Know",
     ogDescription: "25% of search funds fail to acquire. Customer concentration and operator performance are top risks. Learn all major risk factors and mitigation strategies.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
@@ -6816,13 +6816,13 @@ export const allArticles: ArticleMeta[] = [
   },
   {
     slug: "leveraged-buyout-sme",
-    title: "How to Structure a Leveraged Buyout (LBO) for SMEs",
+    title: "Leveraged Buyout Mechanics for Small Business Acquisitions",
     description:
       "LBO mechanics for small-business acquisitions: capital structure, leverage ratios, return drivers, modeling assumptions, debt sources, key risks, and worked examples.",
     readTime: "14 min read",
     tag: "Guide",
     category: "Legal & Tax",
-    ogTitle: "How to Structure an LBO for Small Business Acquisitions",
+    ogTitle: "Leveraged Buyout Mechanics for Small Business Acquisitions",
     ogDescription:
       "60–80% debt, 3–4.5x leverage, 32% IRR example. How to structure a leveraged buyout for SME acquisitions: capital stack, return drivers, SBA vs. bank vs. mezzanine, and risk management.",
     datePublished: "2025-04-21",

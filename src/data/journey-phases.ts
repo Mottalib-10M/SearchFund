@@ -151,11 +151,11 @@ export const journeyPhases: JourneyPhaseData[] = [
     ],
     quote: {
       textKey: "phases.acquire.quote",
-      person: "Ryan Turk",
-      role: "CEO, Radiation Detection Company (acquired via search fund, 2020)",
+      person: "Brent Beshore",
+      role: "Founder & CEO, Permanent Equity",
       sourceUrl:
-        "https://tlaopodcast.com/podcasts/launch-series-ep-3-diligence-and-closing-with-ryan-turk-and-keith-gross-ep-178/",
-      sourceLabel: "Think Like an Owner podcast",
+        "https://www.buzzsprout.com/1783651/episodes/15212523-brent-beshore-private-equity-for-boring-businesses",
+      sourceLabel: "World of DaaS podcast",
     },
   },
 
@@ -179,7 +179,7 @@ export const journeyPhases: JourneyPhaseData[] = [
     quote: {
       textKey: "phases.operate.quote",
       person: "Daniel Muzquiz",
-      role: "CEO, The Predictive Index (acquired via search fund)",
+      role: "Chairman & President, The Predictive Index (serial search fund entrepreneur)",
       sourceUrl: "https://jimsteinsharpe.com/why-search-is-it-right-for-you/",
       sourceLabel: "Jim Stein Sharpe",
     },

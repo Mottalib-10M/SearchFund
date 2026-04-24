@@ -584,6 +584,29 @@ export default function AcquiringGymFitnessArticle() {
           example of the value creation that makes ETA such a powerful
           model for entrepreneurial wealth building.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do gym and fitness businesses typically trade at?</h3>
+        <p>
+          Fitness businesses typically trade at 4&ndash;7x EBITDA, with the range determined by size, growth trajectory, lease quality, and the mix between recurring membership revenue and transactional revenue. Single-location independent gyms generally command 4&ndash;5x EBITDA, while multi-location platforms with $3M+ EBITDA can reach 6&ndash;9x from strategic buyers and private equity firms. Specialized facilities like CrossFit affiliates and martial arts academies often trade at the lower end (3&ndash;5x) because buyers perceive higher dependency on specific methodologies or instructors, according to IHRSA industry benchmark data.
+        </p>
+
+        <h3 className={h3Class}>What is the most important metric to evaluate when buying a gym?</h3>
+        <p>
+          Monthly member churn is the single most important metric in fitness acquisitions. Industry average monthly churn runs 4&ndash;6% for traditional gyms (meaning 50&ndash;70% annual member turnover) and 2&ndash;4% for boutique studios with stronger community ties. During due diligence, request a full membership database export and calculate churn by cohort &mdash; not just the aggregate average. Rising cohort churn is a leading indicator of declining member satisfaction and often signals facility deterioration or competitive pressure. Members who survive their first 90 days typically stay 18&ndash;24 months, making the 90-day retention rate the strongest predictor of long-term membership value.
+        </p>
+
+        <h3 className={h3Class}>How much should I budget for equipment replacement after acquiring a gym?</h3>
+        <p>
+          Budget 3&ndash;5% of revenue annually for equipment replacement and facility maintenance as an ongoing CapEx reserve. Cardio equipment typically needs replacement every 5&ndash;7 years and strength equipment lasts 7&ndash;10 years. Many sellers defer equipment maintenance in the 12&ndash;24 months before sale to maximize EBITDA, so an immediate $200K&ndash;$500K equipment refresh may be required. Always commission an independent equipment condition assessment during due diligence, create a full inventory with purchase dates, and adjust your valuation accordingly by negotiating seller credits for deferred maintenance.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>IHRSA (International Health, Racquet &amp; Sportsclub Association), <em>Global Report on the State of the Health Club Industry</em> (2024)</li>
+          <li>IBISWorld, <em>Gym, Health &amp; Fitness Clubs in the US &mdash; Market Size and Industry Statistics</em> (2024)</li>
+          <li>Club Intel, <em>International Fitness Industry Trend Report</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

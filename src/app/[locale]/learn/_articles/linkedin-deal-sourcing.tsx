@@ -697,6 +697,23 @@ export default function LinkedInDealSourcingArticle() {
           request away.
         </p>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much does LinkedIn Sales Navigator cost and is it worth it for deal sourcing?</h3>
+        <p>
+          LinkedIn Sales Navigator Professional costs approximately $100/month (or $80/month billed annually). For serious search fund deal sourcing, the investment is highly worthwhile. Sales Navigator provides advanced search filters (company size, industry, seniority, years in role), 20&ndash;50 InMail credits per month, lead list management, and CRM integrations that are essential for systematic outreach. HubSpot&rsquo;s research on LinkedIn response rates shows that Sales Navigator InMails achieve 10&ndash;25% response rates compared to 3&ndash;8% for cold email. Given that the total annual cost ($960&ndash;$1,200) is trivial compared to the value of a single quality acquisition lead, Sales Navigator represents one of the highest-ROI investments in a searcher&rsquo;s technology stack.
+        </p>
+
+        <h3 className={h3Class}>What response rate should I expect from LinkedIn outreach to business owners?</h3>
+        <p>
+          Well-targeted, personalized LinkedIn connection requests typically achieve 25&ndash;40% acceptance rates, with subsequent messages converting 10&ndash;20% of connections to phone calls or meetings. According to Stanford GSB&rsquo;s 2024 Search Fund Study, LinkedIn-sourced conversations lead to serious acquisition discussions in approximately 3&ndash;5% of cases. If your connection acceptance rate is below 20%, revisit your targeting criteria or personalization approach. The key variables that drive response rates are: specificity of the compliment or observation (generic messages get ignored), relevance of mutual connections or shared backgrounds, and clarity about your intent without being overly aggressive. Business owners with 10+ years in their role are the most responsive to succession-related conversations.
+        </p>
+
+        <h3 className={h3Class}>How many LinkedIn connection requests should I send per week during active searching?</h3>
+        <p>
+          Target 20&ndash;50 personalized connection requests per week during active deal sourcing. LinkedIn&rsquo;s official best practices recommend staying under 30&ndash;50 requests per day to avoid automated spam flags, but quality matters far more than volume. The LinkedIn Sales Navigator blog notes that profiles sending 200+ requests in a single day risk account restrictions. A sustainable cadence is 5&ndash;10 highly personalized requests per day, sent Tuesday through Thursday mornings (8&ndash;11am in the recipient&rsquo;s time zone) for optimal response rates. Supplement connection requests with 5&ndash;10 InMails per week to your highest-priority targets. Track your metrics weekly and adjust targeting or messaging based on acceptance and response rate trends.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>

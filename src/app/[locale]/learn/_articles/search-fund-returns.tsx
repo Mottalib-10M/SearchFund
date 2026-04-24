@@ -285,6 +285,29 @@ export default function SearchFundReturnsArticle() {
           see our guide to{" "}
           <Link href="/learn/european-search-fund-research" className="text-apple-accent hover:underline">European search fund research from IESE and INSEAD</Link>.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the average return on search fund investments?</h3>
+        <p>
+          The aggregate pre-tax IRR across all US and Canadian search funds from 1984&ndash;2023 is 35.1%, with an aggregate return on invested capital (ROIC) of 4.5x, according to the 2024 Stanford Search Fund Study. The median search fund generates approximately 33% IRR and 5.5x MOIC. However, returns exhibit high variance: top-quartile funds generate 50&ndash;100%+ IRR with 7&ndash;20x MOIC, while bottom-quartile funds produce negative to low single-digit returns with 0&ndash;1x MOIC. Approximately 10&ndash;15% of all acquisitions result in near-total or total loss of invested capital. Sophisticated investors manage this variance by building diversified portfolios of 15&ndash;25 search funds.
+        </p>
+
+        <h3 className={h3Class}>How long does it take to see returns from a search fund investment?</h3>
+        <p>
+          Search fund investing is a long-duration strategy. From the time an investor writes a check for the search phase to receiving exit proceeds, the typical timeline spans 7&ndash;9 years. This includes 18&ndash;24 months for the search phase, 3&ndash;6 months for acquisition and closing, 4&ndash;6 years of active management and value creation, and 6&ndash;12 months for the exit process. Some funds exit as quickly as 3&ndash;4 years post-acquisition in the best cases, while slower-growth scenarios may take 8&ndash;10 years. The illiquidity premium is a key reason why search funds command returns well above liquid alternatives like public equities (8&ndash;10% annual average).
+        </p>
+
+        <h3 className={h3Class}>How do search fund returns compare to private equity and venture capital?</h3>
+        <p>
+          Search funds have consistently outperformed both private equity and venture capital benchmarks on a risk-adjusted basis. Top-quartile PE funds generate net IRRs of 15&ndash;20%, while the search fund median of 33% IRR significantly exceeds even top-quartile PE performance. Top-quartile VC funds target 20&ndash;25% net IRR but with extreme variance, as most individual VC investments fail entirely. Search funds offer a more balanced risk profile with a lower total-loss rate than venture capital. Public equities return 8&ndash;10% long-run average, roughly one-third to one-quarter of search fund median returns, though equities offer daily liquidity. The combination of active management, aligned incentives through the searcher-CEO&rsquo;s equity stake, and small company premiums drives the outperformance.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB Center for Entrepreneurial Studies, <em>2024 Search Fund Study</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>INSEAD ETA &amp; Search Funds Hub, <em>European Search Fund Performance Data</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

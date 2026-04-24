@@ -410,6 +410,23 @@ export default function HowToFindBusinessesForSaleArticle() {
           With the right strategy, tools, and persistence, you'll generate the deal flow needed to find an exceptional business that sets you up for a successful entrepreneurial journey. The search may be long, but the destination—owning and operating a business you're passionate about—makes the effort worthwhile.
         </p>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses should a searcher expect to review before finding the right acquisition?</h3>
+        <p>
+          The typical search fund reviews 200&ndash;400 businesses at the top of the funnel, conducts deep analysis on 20&ndash;40, submits letters of intent on 3&ndash;8, and acquires 1. According to Stanford GSB&rsquo;s 2024 Search Fund Study, the median search duration is 18&ndash;24 months, during which searchers evaluate approximately 300 opportunities. This means generating 15&ndash;25 new top-of-funnel opportunities monthly to maintain adequate deal flow. Conversion rates improve significantly with experience&mdash;your first 50 reviews will be slower and less discerning than your next 50 as you develop pattern recognition for red flags and stronger intuition about valuations.
+        </p>
+
+        <h3 className={h3Class}>What is the most effective channel for finding businesses for sale?</h3>
+        <p>
+          No single channel dominates; the most successful searchers use 3&ndash;4 channels simultaneously. However, proprietary outreach directly to business owners consistently produces the highest-quality deals with the least competition. The Pepperdine Private Capital Markets Project found that proprietary deals close at valuations 0.5&ndash;1.0x EBITDA lower than brokered deals on average, because there is no competitive bidding. Business brokers provide the highest volume of organized deal flow, representing 60&ndash;70% of all small business sales in the $1M&ndash;$10M range according to the IBBA. The optimal strategy combines high-volume channels (marketplaces, brokers) for market intelligence with relationship-driven channels (professional referrals, proprietary outreach) for quality deals.
+        </p>
+
+        <h3 className={h3Class}>How much does deal sourcing technology cost for a professional search?</h3>
+        <p>
+          A professional deal sourcing technology stack typically costs $500&ndash;$1,500 monthly, plus one-time investments in CRM setup and data subscriptions. Key components include: CRM software like HubSpot (free tier available) or Pipedrive ($50&ndash;$100/month), business-for-sale marketplace subscriptions ($50&ndash;$400/month for platforms like Axial or DealStream), data and research platforms like ReferenceUSA or Dun &amp; Bradstreet ($2K&ndash;$10K annually), and email automation tools like Woodpecker or Lemlist ($50&ndash;$150/month). According to BizBuySell&rsquo;s 2024 market data, searchers who invest in systematic technology infrastructure close acquisitions 3&ndash;4 months faster than those using ad hoc spreadsheet-based processes.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>

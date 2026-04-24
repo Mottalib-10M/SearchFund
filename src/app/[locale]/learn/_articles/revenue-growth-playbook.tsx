@@ -505,6 +505,30 @@ export default function RevenueGrowthPlaybookArticle() {
           after acquisition are those where the new CEO brings disciplined
           execution to an already-good business with untapped potential.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the fastest way to grow revenue after acquiring a business?</h3>
+        <p>
+          Pricing optimization is the fastest and highest-impact revenue lever available post-acquisition. According to McKinsey&rsquo;s research on pricing strategy, a 5% price increase on a business with 20% net margins increases profitability by 25% &mdash; with zero additional cost. Most owner-operated SMEs have not raised prices in 2&ndash;5 years, and many actively undercharge relative to the value they deliver. The second fastest lever is cross-selling to existing customers, which Bain &amp; Company research shows costs 5&ndash;7x less than acquiring new customers. In the first 100 days, conduct a wallet share analysis of your top 20 accounts to identify expansion opportunities, and implement a structured quarterly business review process that proactively surfaces new needs and builds relationships beyond the initial sale.
+        </p>
+
+        <h3 className={h3Class}>How much should an SME spend on marketing after acquisition?</h3>
+        <p>
+          Most acquired SMEs spend less than 2% of revenue on marketing. Increasing this to 3&ndash;5% &mdash; even for a $5 million business, that is only $150,000&ndash;$250,000 per year &mdash; can generate outsized returns when deployed effectively. According to Harvard Business Review, email marketing delivers the highest ROI of any marketing channel at $36&ndash;$42 returned per dollar spent, making it the first investment to prioritize. Google Ads is typically the fastest path to inbound leads for B2B and local service businesses, with a starting budget of $2,000&ndash;$5,000 per month targeting high-intent industry-specific keywords. SEO is a longer-term investment (6&ndash;12 months to see meaningful traffic) but generates compounding organic returns. The key is tracking customer acquisition cost (CAC) and lifetime value (LTV) from the outset, targeting an LTV/CAC ratio of 3x or higher.
+        </p>
+
+        <h3 className={h3Class}>When should I hire the first dedicated salesperson?</h3>
+        <p>
+          Do not hire a salesperson until you have personally sold the product or service for at least 3 months and can articulate the sales process, value proposition, and ideal customer profile. According to Stanford GSB research on search fund CEO strategies, new owners who sell personally before hiring gain critical customer insight, develop empathy for the sales cycle, and can effectively train and manage their first rep. When you are ready to hire, look for industry-experienced reps with existing relationships in your market &mdash; they can start contributing faster than generalist salespeople. A 60/40 or 70/30 base-to-variable compensation split works well for SME sales roles, and you should expect the first sale by month 3 and quota attainment by month 6. Start with one rep, prove the model works, and then scale &mdash; hiring three reps simultaneously before having a repeatable process is a common and expensive mistake.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company, <em>Pricing New Products and Services: The Power of Value-Based Pricing</em> (2024)</li>
+          <li>Bain &amp; Company, <em>Customer Retention and Revenue Growth in SMEs</em> (2024)</li>
+          <li>Stanford GSB, <em>Revenue Growth Strategies for Search Fund CEOs</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -491,6 +491,30 @@ export default function QualityOfEarningsArticle() {
           in the right provider &mdash; our guide on <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> covers how to select the right professionals &mdash; engage deeply with the process, and use the
           findings to make a confident, informed acquisition decision.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much does a Quality of Earnings report cost?</h3>
+        <p>
+          QoE costs scale with deal size and complexity. For search fund acquisitions in the $1&ndash;3 million enterprise value range, expect to pay $15,000&ndash;$30,000 from a regional CPA or boutique transaction advisory firm. For deals in the $3&ndash;10 million range, mid-market transaction advisory firms typically charge $25,000&ndash;$50,000. Larger transactions ($10&ndash;25 million) cost $40,000&ndash;$75,000 from national firms with dedicated transaction advisory teams. According to Deloitte and other major accounting firms, the QoE cost typically represents less than 1% of enterprise value and is one of the highest-ROI investments in the deal process &mdash; a well-executed QoE frequently identifies EBITDA adjustments of 10&ndash;30% below the seller&rsquo;s claimed figure, translating to purchase price reductions that are multiples of the QoE fee.
+        </p>
+
+        <h3 className={h3Class}>What is the difference between a QoE and an audit?</h3>
+        <p>
+          An audit confirms that financial statements conform to GAAP or IFRS accounting standards &mdash; it verifies that the numbers are accurately reported. A Quality of Earnings analysis goes significantly further: it stress-tests whether reported EBITDA is a reliable proxy for future cash flow by normalizing owner compensation, identifying non-recurring items, evaluating revenue quality, and establishing a working capital target. According to the American Institute of CPAs, an audit provides an opinion on historical financial statement accuracy, while a QoE provides forward-looking analysis of earnings sustainability. For acquisition purposes, a business can have clean audited financial statements and still have materially overstated sustainable earnings due to above-market owner compensation, below-market related-party rent, deferred maintenance, or aggressive revenue recognition. The QoE is specifically designed to uncover these issues.
+        </p>
+
+        <h3 className={h3Class}>How long does a Quality of Earnings analysis take?</h3>
+        <p>
+          A typical QoE engagement takes 4&ndash;6 weeks from the date the provider is engaged to the delivery of the final report. Week 1 involves engagement letter execution and initial document requests (the seller provides 3&ndash;5 years of financial statements, tax returns, bank statements, and detailed schedules). Weeks 2&ndash;3 are spent on document review, model building, and preparation of 50&ndash;150 follow-up questions. Weeks 3&ndash;4 include a 1&ndash;2 day on-site visit for management interviews and data verification. Weeks 4&ndash;5 produce the draft report, and weeks 5&ndash;6 finalize the report after buyer review and additional analysis. According to leading transaction advisory firms, the most common cause of delays is slow document production from the seller &mdash; establishing clear expectations with the seller&rsquo;s team about response times at the outset can save 1&ndash;2 weeks.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB, <em>Search Fund Primer: Due Diligence Best Practices</em> (2024)</li>
+          <li>Deloitte, <em>Quality of Earnings: A Transaction Advisory Perspective</em> (2024)</li>
+          <li>American Institute of CPAs (AICPA), <em>Transaction Advisory Standards and Practices</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

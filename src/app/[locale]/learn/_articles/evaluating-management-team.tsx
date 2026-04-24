@@ -597,6 +597,23 @@ export default function EvaluatingManagementTeamArticle() {
         Invest the time to get management assessment right. The relationships you build, the insights you gain, and the decisions you make about people will shape everything that follows.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How do you evaluate a management team during due diligence if the seller limits employee access?</h3>
+      <p className={bodyClass}>
+        Limited employee access is common in early-stage diligence. Use indirect methods: review organizational charts and compensation data, analyze turnover statistics (companies with strong management typically show less than 15% annual turnover according to SHRM benchmarks), study work products like internal reports and customer communications, and speak with external stakeholders such as customers and suppliers who can comment on management effectiveness. Request that the seller arrange introductions to at least 2&ndash;3 key managers under NDA before signing definitive agreements. According to Stanford GSB&rsquo;s 2024 Search Fund Study, searchers who conducted at least three management interviews before closing reported 40% fewer post-acquisition people surprises.
+      </p>
+
+      <h3 className={h3Class}>What is the most common management-related mistake search fund CEOs make post-acquisition?</h3>
+      <p className={bodyClass}>
+        The most common mistake is delaying necessary personnel changes. McKinsey research on post-merger integration shows that 60% of successful acquirers make leadership changes within the first 90 days, while underperforming acquirers wait an average of 6&ndash;12 months. In the search fund context, new CEOs often retain underperforming managers out of loyalty to the seller or fear of disruption, only to find that delayed action erodes credibility with the broader team. The Harvard Business Review&rsquo;s &ldquo;New M&amp;A Playbook&rdquo; emphasizes that decisive, respectful personnel decisions early in the transition signal to the organization that performance matters under new ownership.
+      </p>
+
+      <h3 className={h3Class}>How much should a search fund budget for management retention in the acquisition model?</h3>
+      <p className={bodyClass}>
+        Industry best practice suggests budgeting 2&ndash;5% of the purchase price for key employee retention programs. For a typical $10M search fund acquisition, this translates to $200K&ndash;$500K allocated across retention bonuses, compensation adjustments, and equity incentive plans. Stanford&rsquo;s search fund research indicates that retention bonuses of 25&ndash;50% of base salary, vesting over 18&ndash;24 months, are most effective at retaining critical employees. Factor these costs into your financial model during LOI negotiations rather than treating them as a post-close surprise&mdash;investors expect and appreciate this level of planning.
+      </p>
+
       <div className="mt-12 pt-8 border-t border-gray-200">
         <h2 className={h2Class}>Sources</h2>
         <ul className="space-y-2">

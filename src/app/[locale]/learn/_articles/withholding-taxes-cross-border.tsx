@@ -416,6 +416,23 @@ export default function WithholdingTaxesCrossBorderArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much can withholding taxes reduce cross-border acquisition returns?</h3>
+        <p>
+          Withholding taxes can materially erode returns if not planned for during deal structuring. A 5% withholding rate on a EUR 500,000 annual dividend represents EUR 25,000 per year in leakage &mdash; over a five-year hold period, that is EUR 125,000 in reduced returns. At higher statutory rates (15&ndash;30% in many countries without treaty relief), the impact is even more severe. According to PwC&rsquo;s Worldwide Tax Summaries, the cumulative effect of dividend withholding, interest withholding on intercompany debt, and capital gains withholding on exit can reduce the IRR of a cross-border acquisition by 200&ndash;500 basis points compared to a domestic deal with equivalent operating performance. This is why selecting the right <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company jurisdiction</Link> with favorable treaty access is the single most important structural decision in cross-border acquisition planning.
+        </p>
+
+        <h3 className={h3Class}>How do EU directives eliminate withholding taxes within Europe?</h3>
+        <p>
+          The EU Parent-Subsidiary Directive eliminates withholding tax on dividends paid by a subsidiary in one EU member state to a parent company in another, provided the parent holds at least 10% of the subsidiary&rsquo;s capital for a minimum 12-month holding period. The Interest and Royalties Directive similarly eliminates withholding on interest and royalty payments between associated EU companies meeting ownership and holding period requirements. Together, these directives make the EU a particularly attractive environment for cross-border acquisition structures, as they effectively eliminate intra-EU withholding for qualifying corporate groups. According to Deloitte&rsquo;s International Tax Treaty Rates analysis, this gives EU holding jurisdictions (Netherlands, Luxembourg, Ireland) a significant advantage over non-EU alternatives for acquiring businesses in EU member states. However, the directives do not apply to payments to or from non-EU countries, where bilateral tax treaties remain the primary mechanism for withholding relief.
+        </p>
+
+        <h3 className={h3Class}>What substance requirements must a holding company meet to access treaty benefits?</h3>
+        <p>
+          Tax authorities worldwide increasingly require genuine economic substance before granting treaty benefits. A holding company must have real employees who perform genuine functions, directors who meet and make decisions in the jurisdiction, actual office space, and a commercial rationale beyond tax optimization. The OECD&rsquo;s Principal Purpose Test (PPT), adopted through the Multilateral Instrument by most treaty partners, allows countries to deny treaty benefits if obtaining those benefits was one of the principal purposes of an arrangement. The European Court of Justice&rsquo;s Danish beneficial ownership cases established that intermediate holding entities must demonstrate genuine economic ownership of income, not merely legal receipt. IBFD&rsquo;s analysis of substance requirements across jurisdictions shows that the minimum acceptable substance level has risen significantly since the BEPS reforms &mdash; a letterbox company with no employees and a registered agent is no longer sufficient to access favorable withholding rates in any major jurisdiction.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>OECD, <em>Model Tax Convention on Income and on Capital</em> (2017, updated 2024)</li>

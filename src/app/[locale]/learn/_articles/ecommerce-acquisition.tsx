@@ -452,6 +452,34 @@ export default function EcommerceAcquisitionArticle() {
           operationally focused approach that defines successful ETA
           will find genuine opportunities in this sector.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is a healthy customer acquisition cost (CAC) for an e-commerce business?</h3>
+
+        <p>
+          A healthy CAC depends heavily on the product category and average order value, but as a general benchmark, CAC should be recoverable within the first purchase for consumable products and within three purchases for durable goods. According to industry data, median CAC for D2C brands ranges from $30&ndash;$80 depending on the channel mix, with Facebook/Meta and Google remaining the primary paid acquisition channels despite significant CPM inflation since Apple&rsquo;s iOS 14.5 privacy changes. Businesses where organic and earned channels (SEO, email, referral, direct traffic) account for at least 30&ndash;40% of revenue demonstrate more sustainable unit economics. During due diligence, analyze CAC trends over the trailing 36 months and break down acquisition costs by channel to identify which channels are efficient and which are unsustainably expensive.
+        </p>
+
+        <h3 className={h3Class}>How do I assess platform dependency risk when acquiring an Amazon FBA business?</h3>
+
+        <p>
+          Platform dependency is the single greatest risk factor in Amazon FBA acquisitions. Key indicators to evaluate include: the percentage of total revenue derived from Amazon (above 80% represents high concentration risk), the seller&rsquo;s Account Health Rating and history of policy violations, review authenticity (any history of incentivized or manipulated reviews), and ranking stability of core ASINs over the past 12&ndash;24 months. Tools like Helium 10 and Jungle Scout provide historical ranking data that reveals algorithm volatility. The aggregator wave of 2020&ndash;2023 demonstrated that Amazon can change fee structures, category rules, and ranking algorithms with minimal notice&mdash;a single policy change eliminated profitability for dozens of products across major aggregator portfolios. Businesses with genuine brand recognition, diversified channel presence, and a growing D2C website substantially mitigate this risk.
+        </p>
+
+        <h3 className={h3Class}>What return rates should I expect in e-commerce, and how do they affect valuation?</h3>
+
+        <p>
+          Return rates vary dramatically by product category: consumables average 5&ndash;10%, home goods 8&ndash;15%, and apparel 15&ndash;25%. Each return erodes margins through reverse logistics costs, restocking expenses, and inventory write-offs for items that cannot be resold. During due diligence, request return rate data by SKU and by channel, as Amazon FBA returns tend to be higher than D2C returns due to Amazon&rsquo;s generous return policies. A business reporting 20% gross margins with a 20% return rate may have effective gross margins closer to 12&ndash;15% after accounting for the full cost of returns. High return rates should be factored directly into your valuation model and may signal underlying product quality issues, misleading product descriptions, or sizing inconsistencies that require immediate post-acquisition attention.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Marketplace Pulse, <em>State of Amazon FBA Aggregators</em> (2024) &mdash; comprehensive analysis of aggregator performance, deal multiples, and lessons learned</li>
+          <li>Shopify, <em>The State of Commerce Report</em> (2024) &mdash; D2C brand benchmarks for CAC, retention, and channel performance</li>
+          <li>Digital Commerce 360, <em>US E-commerce Market Report</em> (2024) &mdash; industry-wide data on e-commerce growth, return rates, and unit economics by category</li>
+        </ul>
       </div>
     </article>
   );

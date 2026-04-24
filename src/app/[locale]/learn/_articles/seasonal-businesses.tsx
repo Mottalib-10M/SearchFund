@@ -84,6 +84,23 @@ export default function SeasonalBusinessesArticle() {
         <li><Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">Working Capital Management</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How should you value a seasonal business for acquisition?</h3>
+      <div className={bodyClass}>
+        <p>Always value seasonal businesses on annual cash flow, never on trailing monthly or quarterly revenue, which can be highly misleading. Use 3&ndash;5 year EBITDA averages to normalize for weather anomalies, one-time events, and multi-year seasonality patterns. Account for working capital cycles, as seasonal businesses experience large swings &mdash; cash builds during peak season and depletes in the off-season. Fixed costs (rent, insurance, key employee salaries) continue year-round, so understanding the monthly cash burn during slow months is critical. According to IBISWorld, seasonal businesses typically trade at a 10&ndash;20% discount to comparable year-round businesses due to the added complexity of cash flow management.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the best time of year to close on a seasonal business acquisition?</h3>
+      <div className={bodyClass}>
+        <p>The optimal closing timing is just before the peak revenue season begins. Closing before peak season means you immediately capture revenue to fund operations and service acquisition debt, rather than funding a full off-season before any meaningful revenue arrives. For a landscaping or pool service business, this means closing in February or March before spring demand kicks in. For a snow removal or heating business, closing in September or October is ideal. Closing after peak season is the worst-case scenario &mdash; you inherit months of overhead costs with minimal revenue, creating immediate cash flow pressure on a new acquisition.</p>
+      </div>
+
+      <h3 className={h3Class}>How can you reduce the seasonality risk of an acquired business?</h3>
+      <div className={bodyClass}>
+        <p>The most effective strategy is adding complementary off-season services to create year-round revenue. Classic pairings include landscaping plus snow removal, pool service plus winterization, and pest control plus wildlife management. Converting one-time seasonal customers to annual maintenance contracts creates predictable year-round revenue &mdash; SBA data shows that businesses with 60%+ contracted annual revenue receive significantly more favorable lending terms. Other approaches include geographic diversification into regions with different peak seasons, prepayment discount programs that generate off-season cash flow, and cross-training core employees for both peak and off-season services to maintain year-round employment and reduce seasonal recruitment costs.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>IBIS World, <em>Seasonal Business Revenue Patterns</em> (2024)</li>

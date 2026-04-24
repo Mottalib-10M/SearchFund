@@ -74,6 +74,24 @@ export default function RiskFactorsSearchFundArticle() {
         <li><Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">Search Fund Returns</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What percentage of search funds fail to complete an acquisition?</h3>
+        <p>
+          Approximately 25% of traditional search funds do not complete an acquisition, resulting in partial or full loss of search-phase capital. According to the Stanford GSB 2024 Search Fund Study, the primary reasons for search failure include inability to find a suitable target within the search timeline (typically 18&ndash;24 months), failure to agree on valuation with sellers, loss of deals during due diligence, and financing challenges. Self-funded searchers have different failure dynamics &mdash; they face lower search capital at risk but must manage the opportunity cost of their time without investor backing. The IESE Business School&rsquo;s failure analysis shows that searchers who narrow their industry focus early, build strong broker relationships, and maintain disciplined acquisition criteria have significantly higher completion rates (approximately 85%) than those who search broadly across industries (approximately 65%).
+        </p>
+
+        <h3 className={h3Class}>What is the most effective risk mitigation strategy for search fund investors?</h3>
+        <p>
+          Portfolio diversification is the most effective risk mitigation strategy. According to Stanford GSB data, investors with portfolios of 20&ndash;30+ search fund investments across multiple vintages, geographies, and industries consistently achieve returns that approximate the asset class&rsquo;s historical performance (2&ndash;3x net MOIC, 20&ndash;30% gross IRR), while investors with concentrated portfolios of fewer than 10 investments face high variance in outcomes. The second most impactful mitigation strategy is active board involvement &mdash; Search Fund Partners&rsquo; research shows that investors who serve on portfolio company boards and provide regular mentorship, governance oversight, and crisis support achieve 30&ndash;40% better returns than passive investors. Conservative leverage (2&ndash;3x EBITDA total debt with adequate covenant headroom) and thorough due diligence are also essential.
+        </p>
+
+        <h3 className={h3Class}>What are the warning signs that a search fund acquisition is in trouble?</h3>
+        <p>
+          The earliest warning signs typically include missing revenue or EBITDA targets by more than 10% in the first two quarters post-acquisition, key employee departures (especially in customer-facing or operational leadership roles), loss of one or more top-10 customers, and the CEO becoming overwhelmed by operational demands while neglecting strategic leadership. According to the IESE Business School&rsquo;s search fund failure analysis, the two most common post-acquisition failure modes are operator performance issues (the CEO lacks the skills or temperament to run the business effectively) and revenue decline that strains debt service coverage. Stanford GSB research confirms that early intervention by the board &mdash; ideally within the first 90 days of performance deterioration &mdash; dramatically improves outcomes, with board-initiated corrective actions (coaching, operational support, strategic pivots) resolving approximately 60% of early-stage performance issues before they become existential.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Search Fund Study: Risk and Return Analysis</em> (2024)</li>

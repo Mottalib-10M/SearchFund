@@ -609,6 +609,23 @@ export default function ExclusivityAgreementArticle() {
         Master these elements, and exclusivity becomes more than a protective legal provision—it becomes a tool for building the seller trust and deal momentum that turns opportunities into closed acquisitions. Combined with strong <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">negotiation skills</Link> and efficient <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing processes</Link>, effective use of exclusivity agreements can significantly improve your success rate in completing transactions.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long should a search fund entrepreneur request for exclusivity?</h3>
+      <p className={bodyClass}>
+        For typical search fund acquisitions in the $2&ndash;15M EBITDA range, 60&ndash;90 days is the most common and appropriate exclusivity period. This timeframe allows sufficient time for a quality of earnings report (typically 3&ndash;4 weeks), legal due diligence, operational review, and financing finalization. According to the American Bar Association&rsquo;s M&amp;A practice guide, 75% of lower middle market transactions close within the initial exclusivity period when properly managed. If you anticipate complex regulatory approvals or multi-lender financing, request 90&ndash;120 days with a milestone-based extension option. The key is demonstrating urgency&mdash;sellers who see consistent progress are more willing to extend if needed.
+      </p>
+
+      <h3 className={h3Class}>What happens if a seller violates the exclusivity agreement?</h3>
+      <p className={bodyClass}>
+        If a seller breaches exclusivity, your primary remedies are typically expense reimbursement (recovering documented out-of-pocket costs such as legal, accounting, and QoE fees, usually capped at $25K&ndash;$100K) and, in agreements with break-up fee provisions, a termination fee of 1&ndash;3% of transaction value. Injunctive relief is theoretically available but rarely pursued in lower middle market deals because litigation costs often exceed the potential recovery. The Harvard Law School Forum on Corporate Governance notes that the practical deterrent value of exclusivity agreements exceeds their legal enforceability&mdash;sellers who violate exclusivity risk reputational damage with their advisors and the broader deal community.
+      </p>
+
+      <h3 className={h3Class}>Can you secure exclusivity in a competitive auction process?</h3>
+      <p className={bodyClass}>
+        Exclusivity in auction processes is more difficult but achievable. In structured auctions managed by investment bankers, exclusivity is typically granted only to the winning bidder after final bid submission and selection. The exclusivity period in auction contexts is generally shorter (30&ndash;45 days) because substantial due diligence occurs during the auction process itself. According to Axial&rsquo;s market data, approximately 40% of lower middle market deals involve some form of competitive process, and buyers who offer clean deal structures with fewer contingencies are more likely to secure exclusivity. Offering R&amp;W insurance to eliminate the escrow requirement or providing a larger earnest money deposit can differentiate your bid.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         {exclusivityAgreementMeta.sources?.map((source, index) => (

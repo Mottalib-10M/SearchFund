@@ -85,6 +85,23 @@ export default function HiringExecutiveTeamArticle() {
         <li><Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">Employee Retention After Acquisition</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the typical cost of hiring a controller or CFO for a search fund company?</h3>
+      <p className={bodyClass}>
+        For businesses with $5&ndash;15M in revenue, a full-time controller typically costs $80K&ndash;$120K in base salary plus benefits, while a CFO costs $120K&ndash;$180K. Fractional CFOs offer an alternative at $3K&ndash;$8K per month for 1&ndash;2 days per week. According to SHRM&rsquo;s 2024 compensation benchmarking data, total cost (salary, benefits, bonus) for a controller at a small business averages 1.2&ndash;1.5x the base salary. Stanford GSB&rsquo;s search fund research found that the controller hire typically pays for itself within 6 months through improved cash management, better financial visibility, and reduced accounting fees. Start with a fractional CFO if cash is tight, then hire full-time as the business grows.
+      </p>
+
+      <h3 className={h3Class}>How do you attract strong executive talent to a small business that can&rsquo;t match corporate salaries?</h3>
+      <p className={bodyClass}>
+        Small businesses compete for talent on dimensions beyond base salary: equity participation (phantom equity or profit-sharing plans that vest over 3&ndash;5 years), autonomy and impact (the opportunity to build a function from scratch rather than manage an existing bureaucracy), and career development (becoming a true business partner rather than a cog in a large organization). Harvard Business Review&rsquo;s research on executive hiring in acquired companies found that equity participation is the #1 differentiator for executives choosing small companies over large ones. A typical package might include a base salary at the 50th percentile of market, a 20&ndash;30% performance bonus, and 1&ndash;3% phantom equity vesting over 3&ndash;4 years.
+      </p>
+
+      <h3 className={h3Class}>Should you promote from within or hire externally for your first executive positions?</h3>
+      <p className={bodyClass}>
+        Promote from within whenever possible, particularly for operations roles where institutional knowledge is critical. Stanford GSB&rsquo;s Search Fund CEO People Playbook found that internal promotions have a 75% success rate in search fund companies compared to 55% for external hires, largely because internal candidates understand the business, have existing relationships, and face lower cultural adjustment. However, external hiring is often necessary for specialized functions like finance (where the business may lack anyone with controller-level skills) or sales leadership (where a professional sales function may not exist). A common pattern is promoting internally for operations and hiring externally for finance, with the first external hire typically being a controller.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Search Fund CEO People Playbook</em> (2024)</li>

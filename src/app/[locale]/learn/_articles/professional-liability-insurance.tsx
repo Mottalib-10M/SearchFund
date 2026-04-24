@@ -128,6 +128,24 @@ export default function ProfessionalLiabilityInsuranceArticle() {
         <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Risk Assessment in Acquisitions</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What is representations and warranties (R&amp;W) insurance and when should I use it?</h3>
+        <p>
+          R&amp;W insurance provides coverage for losses arising from breaches of the seller&rsquo;s representations and warranties in the purchase agreement, shifting indemnification risk from the seller to an insurance carrier. According to Aon&rsquo;s 2024 R&amp;W Insurance Market Update, buy-side policies represent over 90% of placements and allow buyers to make claims directly against the insurer rather than pursuing the seller. R&amp;W insurance is most valuable when the seller demands a clean exit with minimal escrow holdback, when you want to preserve the buyer-seller relationship (especially if the seller is staying through a transition), or when the seller&rsquo;s ability to fund indemnification claims is uncertain. Premiums typically range from 2&ndash;4% of the policy limit, with minimum premiums starting at $50,000&ndash;$100,000 for smaller deals. For search fund acquisitions in the $5&ndash;30 million range, the cost is increasingly justifiable given the protection it provides.
+        </p>
+
+        <h3 className={h3Class}>How much does D&amp;O insurance cost for a small business acquisition?</h3>
+        <p>
+          For a private company with $5&ndash;30 million in revenue, annual D&amp;O premiums typically range from $5,000 to $25,000 for $1&ndash;5 million in coverage limits. According to the International Risk Management Institute (IRMI) and Marsh McLennan, the cost varies based on industry (financial services and healthcare pay more), company complexity (multiple entities, international operations), claims history, and the breadth of coverage purchased. Search fund acquirers should budget for both a new D&amp;O policy for the go-forward entity and tail coverage for the outgoing management team, which typically costs a one-time premium of 150&ndash;300% of the annual D&amp;O premium and extends the reporting period for 3&ndash;6 years. Tail coverage is essential to protect outgoing directors from claims arising from pre-closing acts that surface after the transaction closes.
+        </p>
+
+        <h3 className={h3Class}>What insurance coverage gaps are most commonly found in small business acquisitions?</h3>
+        <p>
+          According to Marsh McLennan&rsquo;s M&amp;A Transactional Risk Solutions report, the most common insurance gaps in SME acquisitions are inadequate cyber liability coverage (present in over 60% of targets), missing employment practices liability insurance (EPLI), insufficient umbrella or excess limits relative to contract requirements, no key person life insurance for critical employees, and absent or expired professional liability tail coverage from prior policy periods. The National Association of Insurance Commissioners (NAIC) reports that post-acquisition insurance costs frequently increase 20&ndash;40% relative to the seller&rsquo;s historical costs because buyers typically purchase broader coverage, higher limits, and close previously uninsured gaps. Budget 0.5&ndash;2% of revenue for total insurance costs in your financial model, and engage an experienced M&amp;A insurance broker during <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> to identify gaps before closing.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (2023)</li>

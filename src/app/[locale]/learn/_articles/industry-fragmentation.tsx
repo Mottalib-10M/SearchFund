@@ -494,6 +494,23 @@ export default function IndustryFragmentationArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What industries are most fragmented and best suited for search fund roll-ups?</h3>
+      <p className={bodyClass}>
+        The most fragmented industries with four-firm concentration ratios (C4) below 40% include home services (HVAC, plumbing, landscaping, pest control), healthcare services (dental practices, physical therapy, behavioral health), specialized distribution, commercial cleaning, and IT managed services. McKinsey&rsquo;s research on fragmented industry consolidation shows that industries where the top 50 companies control less than 10% of the total market offer the greatest consolidation upside. The ideal search fund roll-up target combines high fragmentation with recurring revenue models, low customer concentration, and succession-driven sellers. According to Stanford GSB&rsquo;s search fund research, roll-up strategies in home services and healthcare have generated some of the highest returns in the asset class.
+      </p>
+
+      <h3 className={h3Class}>How many add-on acquisitions can a search fund realistically complete?</h3>
+      <p className={bodyClass}>
+        Most search fund roll-ups complete 2&ndash;4 add-on acquisitions in the first 3&ndash;5 years, with some aggressive consolidators completing 6&ndash;10 during a full hold period. Harvard Business Review&rsquo;s research on platform companies found that integration capacity is the binding constraint&mdash;each acquisition requires 3&ndash;6 months of intensive integration work before the organization can absorb another. The critical success factor is allowing sufficient time between acquisitions to stabilize operations. Stanford GSB data shows that search fund consolidators who maintained a pace of no more than 2 acquisitions per year had 35% higher returns than those who attempted faster integration schedules.
+      </p>
+
+      <h3 className={h3Class}>What is &ldquo;multiple arbitrage&rdquo; and how does it work in a roll-up?</h3>
+      <p className={bodyClass}>
+        Multiple arbitrage is the value created by buying small businesses at low EBITDA multiples and creating a larger platform that commands premium valuations at exit. For example, acquiring individual businesses at 4&ndash;5x EBITDA and building a $5M+ EBITDA platform that sells at 7&ndash;9x EBITDA. McKinsey&rsquo;s strategy research confirms that larger businesses consistently command higher multiples due to reduced risk concentration, more sophisticated management, and broader buyer pools at exit. In practical terms, if you acquire three $1M EBITDA businesses at 4.5x ($4.5M each, $13.5M total) and sell the combined $3M EBITDA platform at 7.5x ($22.5M), you create $9M of value purely through multiple expansion&mdash;before any operational improvements.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

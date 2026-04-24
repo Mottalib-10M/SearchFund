@@ -79,6 +79,23 @@ export default function CRMImplementationArticle() {
         <li><Link href="/learn/customer-retention-post-acquisition" className="text-apple-accent hover:underline">Customer Retention Programs</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the typical ROI timeline for CRM implementation in an acquired small business?</h3>
+      <div className={bodyClass}>
+        <p>Forrester&rsquo;s research on CRM implementation in small and mid-size businesses indicates that companies typically see measurable ROI within 6&ndash;12 months of go-live, with full adoption and maximum impact realized at 12&ndash;18 months. The initial returns come from pipeline visibility (identifying stalled deals and lost follow-ups), which Gartner estimates can increase close rates by 15&ndash;25% in the first year. HubSpot&rsquo;s State of CRM Adoption report found that SMBs that fully adopt CRM see an average 29% increase in sales revenue within two years, driven by better lead management, improved follow-up discipline, and data-driven pipeline forecasting. The key caveat is that these returns require genuine adoption &mdash; companies where CRM usage is optional or inconsistent see dramatically lower returns.</p>
+      </div>
+
+      <h3 className={h3Class}>How do I get a resistant sales team to actually use the CRM?</h3>
+      <div className={bodyClass}>
+        <p>Gartner&rsquo;s CRM adoption research identifies the CEO&rsquo;s personal commitment as the single strongest predictor of successful CRM adoption in small businesses. The most effective strategy is making the CRM the single source of truth for all sales conversations: pipeline reviews, commission calculations, and performance evaluations should all run through CRM data. Forrester recommends starting with just 5&ndash;7 required fields per record to minimize data entry burden, then expanding as the team sees value. Integration with existing tools &mdash; email, calendar, and invoicing systems &mdash; is critical because it reduces double-entry, which is the primary complaint from sales teams. HubSpot&rsquo;s data shows that companies that integrate CRM with email achieve 47% higher adoption rates than those that treat CRM as a standalone system.</p>
+      </div>
+
+      <h3 className={h3Class}>Should I implement CRM before or after other post-acquisition technology changes?</h3>
+      <div className={bodyClass}>
+        <p>CRM should typically be one of the first technology implementations, ideally within the first 90 days of ownership. Forrester&rsquo;s integration sequencing research recommends CRM as a &ldquo;day one&rdquo; priority because it addresses the most immediate post-acquisition risk: loss of customer relationship visibility during ownership transition. Unlike <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">ERP systems</Link>, which require extensive process mapping and data migration, a basic CRM can be configured and deployed in 8&ndash;12 weeks with minimal disruption. Gartner advises implementing CRM before broader <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation</Link> initiatives because the customer data captured in CRM informs decisions about which other technology investments will have the highest impact on revenue retention and growth.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Gartner, <em>CRM Selection Guide for Small and Mid-Size Businesses</em> (2024)</li>

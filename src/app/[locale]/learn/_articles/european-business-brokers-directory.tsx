@@ -136,6 +136,23 @@ export default function EuropeanBusinessBrokersDirectoryArticle() {
         <li><Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">Deal Sourcing Strategies</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the typical fee structure for European M&amp;A advisors in SME transactions?</h3>
+      <div className={bodyClass}>
+        <p>European M&amp;A advisory fees vary significantly by market but generally follow a retainer-plus-success-fee model. In the UK, sell-side advisors typically charge a monthly retainer of &pound;2,000&ndash;&pound;10,000 plus a success fee of 3&ndash;8% of the transaction value, declining as deal size increases. According to Transeo&rsquo;s 2024 report on European business transfers, French advisors charge success fees of 3&ndash;6%, while German Mittelstand advisors often set a minimum fee of &euro;50,000&ndash;&euro;150,000. Southern European markets (Spain, Italy, Portugal) tend to have lower headline fees of 2&ndash;5%, though longer deal timelines and additional notarial and regulatory costs can increase total transaction expenses. For buy-side mandates common in search fund acquisitions, fee structures are less standardized and typically negotiable &mdash; often involving a smaller retainer with a reduced success fee or a fixed-fee arrangement for deal sourcing support.</p>
+      </div>
+
+      <h3 className={h3Class}>How do European business broker ecosystems differ from the US market?</h3>
+      <div className={bodyClass}>
+        <p>The most fundamental difference is fragmentation. While the US market benefits from centralized platforms like BizBuySell and relatively standardized broker practices, the European market is fractured along national, linguistic, and regulatory lines. According to the European Commission&rsquo;s 2023 report on business transfers, each EU member state has its own brokerage ecosystem with distinct practices and intermediary types &mdash; from France&rsquo;s Chambres de Commerce to Germany&rsquo;s Nachfolgebörsen to the UK&rsquo;s business transfer agents. This fragmentation means there is no single pan-European platform where a searcher can efficiently screen the entire market. Instead, successful European searchers must build relationships with country-specific intermediaries, local accountancy firms, and regional industry associations. The upside of this fragmentation is reduced competition: searchers who invest in building these local networks gain access to proprietary deal flow that is invisible to less-connected buyers.</p>
+      </div>
+
+      <h3 className={h3Class}>Should searchers use local or pan-European M&amp;A advisory networks?</h3>
+      <div className={bodyClass}>
+        <p>The choice depends on your search strategy. For single-country searches, local advisors with deep market knowledge and relationships are almost always superior. According to IESE&rsquo;s International Search Fund Study (2024), searchers who focused on a single country outperformed those running multi-country searches, partly because local advisors provided higher-quality, more relevant deal flow. However, for searchers pursuing a multi-country European strategy, network firms such as Oaklins, Clearwater International, and Clairfield International offer coordinated cross-border coverage from affiliated offices across Europe. These networks can efficiently screen opportunities in 5&ndash;10 countries simultaneously, though they tend to handle larger transactions (&euro;10M+ enterprise value) and may not prioritize the sub-&euro;5M deals where many search fund acquisitions occur. A hybrid approach &mdash; using a network firm for initial market scanning while building direct relationships with local advisors in your top 2&ndash;3 target markets &mdash; often yields the best results.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>European Commission, <em>Transfer of Businesses: Continuity Through a New Beginning</em> (2023)</li>

@@ -382,6 +382,23 @@ export default function MBOExitStrategyArticle() {
           </li>
         </ul>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What valuation multiples do MBO exits typically achieve?</h3>
+        <p>
+          MBO transactions typically close at 3.5x to 6x EBITDA, compared to 6x to 10x EBITDA in competitive strategic sale processes. According to the Centre for Management Buy-Out Research at Nottingham University, the median MBO multiple for SMEs in recent years has been approximately 4.5x EBITDA. The discount reflects management&rsquo;s limited access to capital, the absence of competitive bidding, and the insider knowledge that reduces the information premium external buyers must pay. However, sellers often accept lower headline valuations because MBOs offer faster execution (2&ndash;4 months versus 6&ndash;9 months for strategic sales), greater certainty of close, and lower transaction costs &mdash; often saving 3&ndash;5% of deal value in advisory fees.
+        </p>
+
+        <h3 className={h3Class}>How is an MBO financed when management lacks capital?</h3>
+        <p>
+          The most common MBO financing structure combines <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link> (30&ndash;60% of the purchase price), senior bank debt (30&ndash;50%), and management&rsquo;s personal equity contribution (5&ndash;15%). According to the IESE Business School&rsquo;s 2024 search fund study, seller financing is present in over 70% of SME management buyouts because it bridges the gap between what banks will lend and what management can invest personally. In larger MBOs (above $5 million enterprise value), private equity co-investors may provide additional equity capital, typically taking a majority or significant minority position alongside management. Mezzanine debt at 12&ndash;18% returns can also fill financing gaps when senior debt and seller notes are insufficient.
+        </p>
+
+        <h3 className={h3Class}>What happens if the management team cannot agree on equity allocation?</h3>
+        <p>
+          Equity allocation disputes are one of the most common reasons MBO attempts fail before reaching the financing stage. According to the British Private Equity &amp; Venture Capital Association&rsquo;s MBO guide, successful management teams typically resolve equity allocation by combining capital contribution (those investing more money receive proportional ownership), role-based allocation (the CEO receives a premium of 10&ndash;20% above their pro-rata share), and vesting schedules (equity vests over 3&ndash;5 years to ensure retention). The key is establishing allocation principles early &mdash; ideally before engaging advisors or approaching lenders &mdash; and documenting them in a shareholders&rsquo; agreement that covers governance rights, exit mechanisms, drag-along and tag-along rights, and decision-making authority.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>CMBOR (Centre for Management Buy-Out Research), <em>Management Buy-outs &mdash; Quarterly Review</em> (Nottingham University)</li>

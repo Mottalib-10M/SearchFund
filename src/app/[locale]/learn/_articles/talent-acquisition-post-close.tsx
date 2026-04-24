@@ -681,6 +681,30 @@ export default function TalentAcquisitionPostCloseArticle() {
           and retain talented people will ultimately determine whether your search
           fund acquisition becomes a success story or a cautionary tale.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the most important hire after a search fund acquisition?</h3>
+        <p>
+          The single most common and impactful first hire for search fund CEOs is a finance professional &mdash; typically a controller for businesses under $10M in revenue, or a CFO for larger operations. Most acquired SMEs have rudimentary financial infrastructure: a part-time bookkeeper, a tax CPA who visits once a year, and spreadsheet-based systems with limited visibility. A capable controller or CFO establishes a proper monthly close process, builds cash flow forecasts, creates management dashboards, and ensures debt covenant compliance. According to the Stanford GSB Search Fund Study, operators who hire a finance professional within the first 6 months report significantly better decision-making quality and faster identification of growth opportunities. This hire typically pays for itself within 6&ndash;12 months through tighter cash management and better pricing decisions.
+        </p>
+
+        <h3 className={h3Class}>When should you use fractional executives instead of full-time hires?</h3>
+        <p>
+          Fractional executives are ideal in three scenarios: when the business is too small to justify a full-time role (a $3M revenue company may not need a $150K&ndash;$200K full-time CFO), when you need expertise immediately (fractional executives can start within 1&ndash;2 weeks versus 2&ndash;4 months for a full-time search), or when you&rsquo;re not yet sure what the role requires. Common fractional roles in search fund portfolios include fractional CFO ($3K&ndash;$6K/month for 1&ndash;2 days per week), fractional VP of Sales, and fractional CHRO. The fractional model provides approximately 80% of the value at 30% of the cost, according to industry benchmarks. Many search fund operators use fractional executives as a bridge &mdash; the fractional hire defines the role, builds initial systems, and creates a job description for the eventual full-time replacement.
+        </p>
+
+        <h3 className={h3Class}>How do you recruit senior talent in small or rural markets?</h3>
+        <p>
+          Recruiting in secondary and tertiary markets requires fundamentally different strategies than metro-area hiring. Local networks are the most effective channel &mdash; ask your banker, lawyer, accountant, and board members for referrals, and attend Chamber of Commerce events. For roles that cannot be filled locally, offer relocation packages ($10K&ndash;$25K) to attract talent from larger markets seeking lower cost of living and more meaningful leadership roles. Remote and hybrid work flexibility dramatically expands your candidate pool for specialized roles like CFO or CTO. Bureau of Labor Statistics data shows that compensation benchmarking must be adjusted for market size &mdash; a controller in rural Ohio has vastly different salary expectations than one in Boston. Additionally, local community colleges and trade schools are underutilized pipelines for mid-level roles, and establishing internship programs builds a sustainable talent funnel.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>
+          <li>Bureau of Labor Statistics, <em>Occupational Employment and Wage Statistics</em> (2024)</li>
+          <li>Harvard Business Review, <em>Building Management Teams in Acquired Businesses</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -724,6 +724,34 @@ export default function ETAMiddleEastArticle() {
           </Link>{" "}
           for your search fund.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Can foreign investors own 100% of a business in the UAE and Saudi Arabia?</h3>
+
+        <p>
+          Yes&mdash;both the UAE and Saudi Arabia now permit 100% foreign ownership in most sectors. The UAE amended its Commercial Companies Law in June 2021 to eliminate the previous requirement for a 51% local partner in onshore companies, though strategic sectors (oil &amp; gas, banking, defense) still require Emirati participation. Saudi Arabia&rsquo;s Ministry of Investment (MISA) similarly allows full foreign ownership under the Foreign Investment Law, though certain regulated industries may impose licensing requirements and capital thresholds. However, many older businesses were established under the legacy kafala (sponsorship) system, where a local national held 51% as a silent partner. Unwinding these legacy arrangements can be legally complex and requires experienced local counsel, as side agreements and informal understandings may exist beyond the formal corporate documents.
+        </p>
+
+        <h3 className={h3Class}>What is Islamic finance and how does it affect acquisition financing in the Gulf?</h3>
+
+        <p>
+          Islamic finance is a system of banking and financial services that complies with Sharia (Islamic law), which prohibits charging or paying interest (riba) and requires that transactions be backed by real economic activity. For acquisition financing, the most relevant structures are Murabaha (cost-plus financing where the bank purchases the asset and resells it at a markup, functionally similar to a term loan), Ijara (leasing with eventual ownership transfer), and diminishing Musharaka (joint ownership with the buyer gradually purchasing the financier&rsquo;s share). According to INSEAD Abu Dhabi research, approximately 40&ndash;50% of SME acquisition financing in the GCC uses Sharia-compliant structures. Many regional banks offer both conventional and Islamic products, giving acquirers flexibility in their capital structure design.
+        </p>
+
+        <h3 className={h3Class}>How do workforce nationalization quotas affect acquired businesses?</h3>
+
+        <p>
+          GCC countries impose mandatory workforce nationalization requirements that can significantly affect operating costs and hiring flexibility. Saudi Arabia&rsquo;s Nitaqat (Saudization) program categorizes companies by industry and size, requiring specific percentages of Saudi national employees. The UAE&rsquo;s Emiratization targets focus primarily on private-sector companies with 50+ employees. Non-compliance can result in restrictions on work permit issuances, visa quotas, and government contract eligibility. For acquirers, these quotas affect post-acquisition workforce planning: national employees typically command higher salaries than expatriate workers in equivalent roles, and training requirements may add to onboarding costs. Searchers should model nationalization compliance costs into their post-acquisition operating plans and verify the target company&rsquo;s current compliance status during due diligence.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>INSEAD Abu Dhabi, <em>Entrepreneurship Through Acquisition in the Gulf: Research and Case Studies</em> (2024)</li>
+          <li>UAE Ministry of Economy, <em>Commercial Companies Law Amendment</em> (2021) &mdash; foreign ownership reform documentation</li>
+          <li>Saudi Arabia Ministry of Investment (MISA), <em>Foreign Investment Regulations and Licensing Guide</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

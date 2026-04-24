@@ -76,6 +76,23 @@ export default function FranchiseAcquisitionArticle() {
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How does franchisor approval work when acquiring an existing franchise?</h3>
+      <p className={bodyClass}>
+        Most franchise agreements require the franchisor to approve any change of ownership, and this approval process can take 30&ndash;90 days. The franchisor evaluates the buyer&rsquo;s financial capacity, operational experience, and alignment with brand standards. According to the International Franchise Association, approximately 85% of franchise transfer applications are approved, but buyers must typically meet minimum net worth and liquidity requirements (often $500K&ndash;$2M net worth depending on the brand). Start the franchisor relationship early&mdash;introduce yourself before submitting a formal LOI&mdash;and include franchisor approval as a closing condition in your purchase agreement.
+      </p>
+
+      <h3 className={h3Class}>What are typical valuation multiples for multi-unit franchise acquisitions?</h3>
+      <p className={bodyClass}>
+        Multi-unit franchise operators typically trade at 4&ndash;7x EBITDA, with premium brands and larger portfolios commanding the upper end. FRANdata&rsquo;s 2024 market report shows that QSR (quick-service restaurant) franchises with 10+ units average 5.5&ndash;6.5x EBITDA, while service-based franchises (home services, fitness) trade at 4&ndash;5.5x. Development rights (the contractual right to open additional units in a territory) are a significant value driver and can add 0.5&ndash;1.5x to the multiple. SBA lenders are particularly willing to finance franchise acquisitions due to the documented track records and standardized operations, often requiring only 10&ndash;15% equity injection.
+      </p>
+
+      <h3 className={h3Class}>What is the biggest risk in acquiring a franchise business?</h3>
+      <p className={bodyClass}>
+        The biggest risk is franchise agreement expiration and non-renewal. If the remaining franchise term is short (under 5 years) with no guaranteed renewal rights, the buyer faces the risk of losing the brand, systems, and supply chain that drive the business&rsquo;s value. The Franchise Business Review&rsquo;s 2024 survey found that 12% of franchisees reported concerns about renewal uncertainty. Additionally, franchisor-mandated capital expenditures (store remodels, technology upgrades, menu changes) can require $100K&ndash;$500K per unit and may not be reflected in historical financials. Always review the franchise disclosure document (FDD) Item 17 carefully and model required capital expenditures into your acquisition projections.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>International Franchise Association, <em>Franchising Economic Outlook</em> (2024)</li>

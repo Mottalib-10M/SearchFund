@@ -75,6 +75,26 @@ export default function ETAChinaArticle() {
         <li><Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">Best Countries to Buy a Business</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Can foreign investors acquire 100% ownership of Chinese businesses?</h3>
+
+      <div className={bodyClass}>
+        <p>Foreign investors can acquire 100% ownership in most sectors through a Wholly Foreign-Owned Enterprise (WFOE) structure, as long as the business does not fall within the &ldquo;Negative List&rdquo; of restricted or prohibited industries. According to MOFCOM&rsquo;s latest guidance, the Negative List has been progressively shortened in recent years, with most manufacturing and services sectors now fully open to foreign ownership. However, sectors such as telecommunications, media, education, and certain technology companies remain restricted and may require Variable Interest Entity (VIE) structures or joint ventures with Chinese partners. The MOFCOM review process is required for acquisitions above certain thresholds or in sensitive sectors, and capital repatriation is subject to State Administration of Foreign Exchange (SAFE) procedures and tax clearance.</p>
+      </div>
+
+      <h3 className={h3Class}>Why is Hong Kong commonly used as a holding company jurisdiction for China acquisitions?</h3>
+
+      <div className={bodyClass}>
+        <p>Hong Kong serves as the preferred gateway for international capital entering China due to its common law legal system, absence of capital controls, and favorable tax treatment. The Hong Kong&ndash;China Double Taxation Agreement reduces withholding tax on dividends from 10% to 5% for qualifying holding companies, and Hong Kong imposes no capital gains tax. PwC&rsquo;s <em>Doing Business in China Guide</em> notes that over 70% of inbound foreign direct investment into China flows through Hong Kong structures. For search fund entrepreneurs, establishing a Hong Kong holding company (typically a limited company) that owns the WFOE in Mainland China provides a clean, internationally recognized corporate structure that simplifies future fundraising, profit repatriation, and eventual exit.</p>
+      </div>
+
+      <h3 className={h3Class}>What are the biggest due diligence challenges when acquiring Chinese SMEs?</h3>
+
+      <div className={bodyClass}>
+        <p>Financial record accuracy is the primary due diligence challenge in Chinese SME acquisitions. According to PwC and the All-China Federation of Industry and Commerce, many Chinese SMEs maintain financial records that do not conform to international standards, and related-party transactions, off-book arrangements, and dual bookkeeping (one set for tax authorities, another for internal use) are common. Revenue recognition practices, tax compliance, and social insurance obligations all require careful scrutiny. Additionally, intellectual property protection remains a concern in certain sectors despite improvements in enforcement. Engaging experienced local auditors and legal counsel who understand both Chinese business practices and international acquisition standards is non-negotiable&mdash;generic international advisors without deep China expertise will miss critical issues.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>All-China Federation of Industry and Commerce, <em>Private Enterprise Survey</em> (2024)</li>

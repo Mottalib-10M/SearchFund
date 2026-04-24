@@ -73,6 +73,26 @@ export default function EmployeeCommunicationSellingArticle() {
         <li><Link href="/learn/building-trust-teams" className="text-apple-accent hover:underline">Building Trust with Teams</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Should employees be told about the sale before or after closing?</h3>
+
+      <div className={bodyClass}>
+        <p>The general best practice, supported by the Exit Planning Institute and SHRM research, is to inform the broader employee base at closing or within 24 hours of closing&mdash;not before. Premature disclosure during the search or due diligence phase creates anxiety, fuels rumors, and can trigger key employee departures that may jeopardize the deal itself. The exception is a small group of 2&ndash;3 senior managers who may need to be informed after the LOI is signed to support due diligence. These individuals should sign NDAs and be given retention incentives. Studies show that companies where the announcement is made in person by both the seller and buyer experience 35&ndash;40% lower voluntary turnover in the first 90 days compared to those where the announcement is made by email or memo.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the most important thing to communicate to employees on announcement day?</h3>
+
+      <div className={bodyClass}>
+        <p>Job security is the number one concern for every employee, and it must be addressed immediately and specifically in the first 60 seconds of the announcement. According to Harvard Business Review research on M&amp;A communication, employees who receive clear job security assurances on day one are 3x more likely to remain engaged and productive during the transition period. If positions are genuinely secure, state it unequivocally: &ldquo;Your jobs are secure.&rdquo; If there is uncertainty, be transparent about what you know and what you don&rsquo;t know, and commit to a timeline for providing clarity. Having the buyer present at the announcement meeting is strongly recommended, as it signals commitment and allows employees to put a face to the new ownership.</p>
+      </div>
+
+      <h3 className={h3Class}>How often should updates be communicated during the transition period?</h3>
+
+      <div className={bodyClass}>
+        <p>SHRM&rsquo;s change management research recommends weekly or biweekly written updates during the first 90 days of the transition, supplemented by monthly all-hands meetings. Silence during ownership transitions is the single greatest driver of anxiety, rumors, and voluntary departures&mdash;organizations that communicate at least weekly during transitions experience 50% fewer fear-driven resignations than those that communicate monthly or less. Each update should address three questions: what has changed, what has stayed the same, and what is coming next. Even when there is no material news, communicating that fact (&ldquo;no changes this week, operations continue as planned&rdquo;) is far better than silence, which employees invariably interpret as bad news being withheld.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Exit Planning Institute, <em>Employee Communication During Business Sales</em> (2024)</li>

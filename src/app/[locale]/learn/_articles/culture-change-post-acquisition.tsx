@@ -643,6 +643,31 @@ export default function CultureChangePostAcquisitionArticle() {
           requires equal parts conviction and humility, and it begins the moment
           you walk through the door on Day 1.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long does meaningful culture change take after an acquisition?</h3>
+        <p>
+          Research from McKinsey&rsquo;s organizational health index and Stanford GSB&rsquo;s search fund operator data consistently shows that sustainable cultural transformation takes 18&ndash;24 months at minimum. The first 90 days should be devoted entirely to assessment, listening, and relationship-building &mdash; not active change. Gallup&rsquo;s workplace engagement research indicates that employee engagement scores typically dip 10&ndash;15% in the first six months after an ownership change, then begin recovering as employees gain confidence in the new leader&rsquo;s consistency and intentions. Search fund CEOs who follow the phased approach &mdash; listen for 90 days, co-create for 90 days, embed for 6 months, then sustain &mdash; report significantly higher employee retention and engagement than those who attempt rapid transformation.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest mistake new owners make when trying to change company culture?</h3>
+        <p>
+          Harvard Business Review&rsquo;s research on leadership transitions identifies moving too fast as the single most common and destructive mistake. New owner-operators who implement major cultural changes in the first 90 days &mdash; before earning trust or fully understanding the existing culture &mdash; trigger defensive reactions that can become permanently entrenched. McKinsey&rsquo;s change management data shows that transformations imposed without employee involvement fail at twice the rate of co-created initiatives. The second most common mistake is saying one thing and doing another: if you champion transparency but make decisions behind closed doors, or promote accountability but tolerate underperformance in certain individuals, employees will conclude the new values are hollow and disengage entirely.
+        </p>
+
+        <h3 className={h3Class}>How do I measure whether culture change is actually working?</h3>
+        <p>
+          Gallup&rsquo;s engagement research recommends tracking a combination of quantitative metrics and qualitative signals. On the quantitative side, deploy engagement surveys quarterly for the first year, tracking Employee Net Promoter Score (eNPS) and overall engagement trends over time &mdash; an upward trajectory matters more than absolute scores. Voluntary turnover rate, especially among your top 20% of performers, is the most important lagging indicator: losing average employees is normal, but losing top talent is a cultural alarm bell. On the qualitative side, monitor whether employees are willing to disagree openly in meetings, approach leaders with unsolicited ideas, and refer friends for open positions. Stanford GSB&rsquo;s operator data shows that companies with rising employee referral rates are the strongest signal that culture is heading in the right direction.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company, <em>Organizational Health Index and Change Management Research</em> (2024)</li>
+          <li>Gallup, <em>State of the Global Workplace: Employee Engagement Insights</em> (2024)</li>
+          <li>Harvard Business Review, <em>Leadership Transitions and Culture Change</em> (2024)</li>
+          <li>Stanford GSB, <em>Search Fund CEO Study: Operator Perspectives on Post-Acquisition Leadership</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -447,6 +447,34 @@ export default function ETAFranceArticle() {
           effort for proprietary, off-market outreach via direct mail
           campaigns and personal introductions.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does BPI France support search fund acquisitions?</h3>
+
+        <p>
+          BPI France (Banque Publique d&apos;Investissement) is the single most important institutional supporter of business acquisitions in France. Its Garantie Transmission program covers up to 70% of the bank loan in case of default, dramatically reducing risk for commercial lenders and making them more willing to finance first-time acquirers. Beyond guarantees, BPI France facilitates access to pr&ecirc;ts d&apos;honneur&mdash;interest-free, unsecured personal loans of EUR 30,000&ndash;90,000 through partner organizations like R&eacute;seau Entreprendre and Initiative France. These pr&ecirc;ts d&apos;honneur typically unlock 7&ndash;10x their value in additional bank financing, effectively serving as a catalyst for the entire capital structure. BPI France also operates a business transmission platform that lists thousands of businesses for sale across France.
+        </p>
+
+        <h3 className={h3Class}>What is the effective tax rate on a successful search fund exit in France?</h3>
+
+        <p>
+          Since 2018, France applies a flat tax (Pr&eacute;l&egrave;vement Forfaitaire Unique) of 30% on capital gains&mdash;comprising 12.8% income tax plus 17.2% social charges. This makes France competitive with many other European jurisdictions for exit taxation. Taxpayers can opt for the progressive income tax scale (bar&egrave;me progressif) if it produces a lower rate, though this is rarely beneficial for substantial capital gains. Additionally, the PEA-PME vehicle allows individual investors to benefit from complete income tax exemption on capital gains after a five-year holding period (only the 17.2% social charges apply), which can reduce the effective exit tax rate for qualifying investments to 17.2%. Some search fund structures in France are specifically designed to be PEA-PME eligible to attract French individual investors.
+        </p>
+
+        <h3 className={h3Class}>How important is French language fluency for conducting ETA in France?</h3>
+
+        <p>
+          French language fluency is virtually non-negotiable for search fund operations in France. Unlike Nordic countries or the Netherlands, French is the default language for virtually all business interactions with SME owners. The typical target seller&mdash;aged 55&ndash;65 in a regional city&mdash;conducts all business in French, and financial statements, legal documents, contracts, and collective bargaining agreements (conventions collectives) are all in French. A CCI (Chambre de Commerce et d&apos;Industrie) survey found that non-French-speaking acquirers face rejection rates 2&ndash;3x higher during initial outreach. The most successful international searchers in France have generally reached B2&ndash;C1 level proficiency before beginning their active search. Non-French speakers should consider partnering with a French co-searcher or investing 6&ndash;12 months in intensive language training before launching.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>BPCE Observatoire, <em>Cession-Transmission des PME en France</em> (2024) &mdash; comprehensive data on French business transfer volumes and demographics</li>
+          <li>BPI France, <em>Les PME-ETI et la Transmission d&apos;Entreprise</em> (2024) &mdash; government financing programs and guarantee structures for acquisition entrepreneurs</li>
+          <li>INSEAD International Search Fund Center, <em>European Search Fund Study</em> (2024) &mdash; performance data and case studies on French search fund acquisitions</li>
+        </ul>
       </div>
     </article>
   );

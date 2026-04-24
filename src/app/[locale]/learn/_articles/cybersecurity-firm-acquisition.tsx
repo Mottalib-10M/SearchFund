@@ -133,6 +133,23 @@ export default function CybersecurityFirmAcquisitionArticle() {
         <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS Business Acquisition</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What revenue range and business model make cybersecurity firms most suitable for search fund acquisitions?</h3>
+      <div className={bodyClass}>
+        <p>Gartner&rsquo;s Market Guide for Managed Security Services identifies Managed Security Service Providers (MSSPs) in the $3M&ndash;$20M revenue range as the optimal acquisition targets for search fund-sized deals. These businesses operate on recurring revenue models with monthly or annual contracts, serve SME clients who lack internal security teams, and can be scaled through geographic expansion and service line additions. MSSPs typically command 40&ndash;60% gross margins on managed services, and ISC2&rsquo;s workforce data confirms that the structural talent shortage in cybersecurity creates natural barriers to entry that protect incumbent firms. Niche cybersecurity consulting firms and vertical-specific security software companies also present attractive opportunities, though project-based consulting revenue is less predictable and software businesses require ongoing R&amp;D investment.</p>
+      </div>
+
+      <h3 className={h3Class}>How do compliance certifications like SOC 2 and FedRAMP affect cybersecurity firm valuations?</h3>
+      <div className={bodyClass}>
+        <p>Compliance certifications are significant value drivers because they serve as both trust signals for customers and meaningful barriers to entry for competitors. AICPA data shows that SOC 2 Type II certification &mdash; the most common for US cybersecurity service providers &mdash; costs $50,000&ndash;$150,000 for the initial audit with $30,000&ndash;$80,000 in annual re-certification costs. FedRAMP authorization, required for selling cloud services to US federal agencies, can take 12&ndash;18 months and cost over $500,000 to achieve. Gartner&rsquo;s valuation research indicates that certified firms command 15&ndash;30% valuation premiums over non-certified competitors because certifications unlock access to regulated customer segments &mdash; government agencies, healthcare organizations, and financial institutions &mdash; that represent large, stable revenue pools with long contract durations and high switching costs.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the biggest risk when acquiring a cybersecurity firm, and how can it be mitigated?</h3>
+      <div className={bodyClass}>
+        <p>ISC2&rsquo;s Cybersecurity Workforce Study consistently identifies talent retention as the highest-risk factor in cybersecurity acquisitions. The global cybersecurity workforce gap means skilled professionals are not easily replaceable, and the loss of key security analysts, engineers, or client-facing staff can directly impair service delivery and trigger customer churn. NIST&rsquo;s framework for organizational security management recommends securing employment agreements with key personnel before or at closing, including retention bonuses vesting over 2&ndash;3 years and non-compete provisions. Gartner&rsquo;s M&amp;A research shows that offering phantom equity or equity participation in the combined entity is the most effective long-term retention tool for senior cybersecurity professionals, who are often motivated by technical challenge and career growth in addition to financial incentives. Cultural preservation is equally critical &mdash; heavy-handed integration that disrupts the mission-driven, technically curious culture common in cybersecurity firms can trigger an exodus of talent.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>ISC2, <em>Cybersecurity Workforce Study</em> (2024)</li>

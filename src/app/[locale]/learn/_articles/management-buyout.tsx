@@ -711,6 +711,26 @@ export default function ManagementBuyoutArticle() {
       </section>
 
       <section className="mb-12">
+        <h2 className={h2Class}>Frequently asked questions</h2>
+        <div className={bodyClass}>
+          <h3 className={h3Class}>How much do management teams typically invest in an MBO?</h3>
+          <p>
+            Management teams are generally expected to invest 5&ndash;20% of the total purchase price as personal equity, which often translates to 20&ndash;40% of each participant&rsquo;s net worth. According to the Centre for Management Buyout Research at Imperial College London, the average management equity contribution in lower middle market MBOs is approximately 10&ndash;15% of enterprise value. This &ldquo;skin in the game&rdquo; is critical for securing debt financing and attracting equity partners, as lenders and co-investors view meaningful personal investment as a signal of management&rsquo;s confidence in the business&rsquo;s prospects. Sources of personal capital commonly include savings, home equity lines of credit, 401(k) rollovers (ROBS), and pooled contributions from multiple team members.
+          </p>
+
+          <h3 className={h3Class}>What is the typical success rate for management buyouts?</h3>
+          <p>
+            Research from the Strategic Management Journal indicates that MBOs have a higher success rate than external acquisitions, with approximately 70&ndash;80% of completed MBOs achieving positive returns for investors. The lower information asymmetry &mdash; management already understands the business intimately &mdash; reduces the risk of post-acquisition surprises that derail many external deals. However, approximately 15&ndash;20% of MBOs underperform expectations, typically due to excessive leverage, failure to transition from employee to owner mindset, or market downturns that strain debt service. The Harvard Business Review notes that MBOs with moderate leverage (2&ndash;3.5x EBITDA total debt) and structured seller transitions consistently outperform highly leveraged transactions.
+          </p>
+
+          <h3 className={h3Class}>How long does a management buyout take from start to finish?</h3>
+          <p>
+            A typical MBO process takes 6&ndash;9 months from initial discussions with the owner to transaction close, though timelines vary based on deal complexity and financing availability. The initial assessment and team formation phase usually requires 4&ndash;8 weeks, followed by 8&ndash;12 weeks of financing preparation and lender discussions. The formal offer, due diligence, and negotiation phase adds another 8&ndash;12 weeks, with the final closing and documentation taking 2&ndash;4 weeks. According to research from Imperial College London, MBOs tend to close faster than competitive sale processes (which average 6&ndash;12 months) because management&rsquo;s insider knowledge reduces due diligence time and builds seller confidence in deal certainty.
+          </p>
+        </div>
+      </section>
+
+      <section className="mb-12">
         <h2 className={h2Class}>Sources</h2>
         <div className={bodyClass}>
           <ol className={olClass}>

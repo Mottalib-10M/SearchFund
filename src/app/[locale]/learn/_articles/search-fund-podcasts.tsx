@@ -711,6 +711,25 @@ export default function SearchFundPodcastsArticle() {
       </section>
 
       <section className="mb-12">
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best podcast for someone new to search funds and ETA?</h3>
+        <p className={bodyClass}>
+          For beginners, Acquiring Minds by Will Smith is widely considered the gold standard for traditional search fund education. Will brings experience from both sides of the table &mdash; as a searcher who successfully acquired a business and as an investor who has backed multiple search funds. Episodes average 60&ndash;75 minutes and cover everything from search fund economics and investor terms to detailed case studies of real acquisitions. For those interested in the self-funded or smaller deal route, Think Like an Owner by Alex Dinos focuses on micro acquisitions in the $500K&ndash;$5M range. A recommended four-week listening plan (3 episodes per week) can build foundational ETA knowledge efficiently.
+        </p>
+
+        <h3 className={h3Class}>How many hours per week should a searcher spend listening to ETA podcasts?</h3>
+        <p className={bodyClass}>
+          Most successful searchers consume 3&ndash;5 hours of podcast content per week, translating to roughly 4&ndash;6 episodes depending on length. This can be done during commutes, workouts, walks, and household chores, effectively creating dozens of hours of additional learning time per month. The key is building a deliberate listening routine rather than consuming content randomly &mdash; for example, Think Like an Owner on Mondays, Acquiring Minds on Wednesdays, and How2Exit on Fridays. Taking strategic notes with a tagging system (#deal-structure, #due-diligence, #operations) creates a searchable knowledge base for future reference.
+        </p>
+
+        <h3 className={h3Class}>Are there ETA podcasts focused specifically on European search funds?</h3>
+        <p className={bodyClass}>
+          Yes, several podcasts cater to the European market. The European Search Fund Podcast covers differences in valuation multiples, financing structures, investor terms, and regulatory considerations across the UK, Germany, France, Spain, Italy, and Nordic countries. The SME Acquisition Podcast (UK) focuses specifically on the British market, including HMRC considerations, Companies House filings, and UK-specific financing options. European searchers benefit from listening to both US and European podcasts: while deal structures and financing differ across borders, the fundamentals of deal sourcing, due diligence, and post-acquisition operations translate universally.
+        </p>
+      </section>
+
+      <section className="mb-12">
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>

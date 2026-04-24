@@ -91,6 +91,23 @@ export default function AssetLightVsAssetHeavyArticle() {
         <li><Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">Defining Your Ideal Acquisition Target</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Which model produces better returns for search fund entrepreneurs &mdash; asset-light or asset-heavy?</h3>
+      <div className={bodyClass}>
+        <p>Asset-light businesses tend to produce higher returns on invested capital (ROIC) due to their lower capital requirements and higher margins (typically 20&ndash;40% EBITDA vs. 10&ndash;20% for asset-heavy). However, they carry greater key-person risk and competitive vulnerability. Stanford GSB&rsquo;s search fund data shows that both models can produce strong returns when the operator matches their skillset to the business type. People-oriented CEOs who excel at relationship management and talent retention often outperform in asset-light businesses, while operations-focused CEOs who thrive on process optimization and efficiency tend to create more value in asset-heavy environments.</p>
+      </div>
+
+      <h3 className={h3Class}>Is it easier to finance an asset-light or asset-heavy acquisition?</h3>
+      <div className={bodyClass}>
+        <p>Asset-heavy businesses are generally easier to finance with traditional debt because physical assets (equipment, real estate, inventory) serve as loan collateral. SBA 7(a) lenders and conventional banks prefer tangible collateral that can be valued and liquidated if necessary. Asset-light businesses &mdash; such as professional services firms, SaaS companies, and staffing agencies &mdash; often require more equity in the capital structure because they lack collateral. According to SBA lending data, loan-to-value ratios for asset-heavy acquisitions typically reach 70&ndash;80%, while asset-light deals may require 40&ndash;60% equity contributions depending on the lender&rsquo;s risk assessment.</p>
+      </div>
+
+      <h3 className={h3Class}>What is a hybrid business model, and why is it considered ideal for ETA?</h3>
+      <div className={bodyClass}>
+        <p>A hybrid model combines asset-light service revenue (recurring contracts, management fees) with asset-heavy infrastructure (equipment, facilities) that creates barriers to entry. Examples include HVAC companies with maintenance contracts, managed IT service providers with infrastructure, and property management firms with optional real estate holdings. McKinsey research indicates that hybrid models often deliver the best balance of high margins (from the service component), defensibility (from the asset component), and financing flexibility (collateral for debt plus recurring revenue predictability). For searchers, hybrids offer both operational improvement opportunities and natural paths to <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> strategies.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>The Rise of Asset-Light Business Models</em> (2024)</li>

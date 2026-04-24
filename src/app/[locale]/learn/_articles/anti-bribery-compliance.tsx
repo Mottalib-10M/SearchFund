@@ -103,6 +103,23 @@ export default function AntiBriberyComplianceArticle() {
         <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Post-Acquisition Integration</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Can an acquirer be held liable for bribery that occurred before the acquisition closed?</h3>
+      <div className={bodyClass}>
+        <p>Yes. Under the legal doctrine of successor liability, the acquiring entity may be held responsible for the target company&apos;s pre-existing anti-bribery violations. Both the US Department of Justice (DOJ) and the Securities and Exchange Commission (SEC) have made clear that acquiring companies can face FCPA liability for conduct that occurred before closing. However, the DOJ and SEC have indicated that acquirers who conduct thorough pre-acquisition due diligence, identify corruption issues, disclose them to authorities, and implement effective remediation will be treated more favorably. The structure of the transaction also matters &mdash; asset purchases generally carry lower successor liability risk than stock purchases, though they do not eliminate FCPA exposure entirely.</p>
+      </div>
+
+      <h3 className={h3Class}>What are the penalties for violating the FCPA or UK Bribery Act?</h3>
+      <div className={bodyClass}>
+        <p>Penalties under both statutes are severe. FCPA anti-bribery violations can result in criminal fines of up to $250,000 per violation for individuals and up to $2 million per violation for corporations, plus disgorgement of profits and pre-judgment interest. The SEC can impose additional civil penalties. Under the UK Bribery Act, individuals face up to 10 years&apos; imprisonment and unlimited fines, while corporations face unlimited fines. Beyond direct financial penalties, convicted companies may face debarment from government contracts, reputational damage, and loss of business relationships. The OECD reports that the average resolution amount for FCPA enforcement actions has exceeded $100 million in recent years.</p>
+      </div>
+
+      <h3 className={h3Class}>What should an acquirer do if corruption red flags are discovered during due diligence?</h3>
+      <div className={bodyClass}>
+        <p>If red flags surface during ABAC due diligence, the acquirer should engage experienced anti-corruption counsel to investigate further before closing. Key steps include deepening the investigation of the specific red flag (e.g., forensic accounting review of suspicious payments, interviews with relevant personnel, and background checks on third-party intermediaries), assessing the scope and materiality of the potential violation, and modeling remediation costs. In some cases, it may be appropriate to voluntarily disclose findings to the DOJ or SEC, which can result in more favorable treatment. The acquirer should also negotiate specific ABAC representations and warranties in the purchase agreement, with indemnification provisions and escrow holdbacks to cover potential liability.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>US Department of Justice &amp; SEC, <em>A Resource Guide to the US Foreign Corrupt Practices Act</em> (2020)</li>

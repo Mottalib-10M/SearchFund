@@ -86,6 +86,23 @@ export default function GovernmentAcquisitionFinancingArticle() {
         <li><Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller Financing</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the most commonly used government financing program for search fund acquisitions?</h3>
+      <p className={bodyClass}>
+        The SBA 7(a) loan program is by far the most commonly used government financing tool for search fund acquisitions in the United States. According to the SBA&rsquo;s 2024 annual report, the 7(a) program facilitated over $28 billion in small business lending, with approximately 15% of loans used for business acquisitions. The program offers loans up to $5M with 10&ndash;25 year terms and requires only 10&ndash;20% equity injection from the buyer. Interest rates are typically Prime + 2.75%, making it significantly cheaper than mezzanine or unitranche alternatives. For European acquisitions, equivalent programs include Germany&rsquo;s KfW succession loans and France&rsquo;s Bpifrance guarantees.
+      </p>
+
+      <h3 className={h3Class}>Can government financing programs be combined with other capital sources?</h3>
+      <p className={bodyClass}>
+        Yes, combining government financing with other capital sources is standard practice in search fund acquisitions. A typical capital stack might include an SBA 7(a) loan (50&ndash;60% of the purchase price), seller financing (10&ndash;20%), and equity from search fund investors (20&ndash;30%). The OECD&rsquo;s 2024 report on SME succession financing found that blended capital structures using government programs reduced the weighted average cost of capital by 150&ndash;250 basis points compared to purely commercial financing. In Europe, programs like KfW and Bpifrance explicitly complement commercial bank lending through guarantee structures that reduce the lender&rsquo;s risk exposure, enabling better terms for the borrower.
+      </p>
+
+      <h3 className={h3Class}>How early should I engage with government financing programs during the acquisition process?</h3>
+      <p className={bodyClass}>
+        Engage with government financing programs as early as possible&mdash;ideally during the LOI stage, 60&ndash;90 days before your target close date. SBA 7(a) pre-qualification can be obtained in 2&ndash;4 weeks through a preferred lender, but final approval typically takes 30&ndash;45 days after submission of the complete application. European programs like KfW and Bpifrance may take 4&ndash;8 weeks for guarantee approval. The European Commission&rsquo;s 2024 report on SME business transfers found that 25% of failed transactions were attributed to financing delays. Building relationships with SBA-preferred lenders before you have a specific target allows you to move quickly once you find the right deal.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>SBA, <em>7(a) Loan Program Annual Report</em> (2024)</li>

@@ -74,6 +74,26 @@ export default function EmotionalJourneySellingArticle() {
         <li><Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">Negotiation Tactics</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does the post-sale identity crisis typically last?</h3>
+
+      <div className={bodyClass}>
+        <p>According to research by the Exit Planning Institute and Bo Burlingham&rsquo;s <em>Finish Big</em>, the post-sale identity adjustment period typically lasts 6&ndash;24 months, with the most intense period occurring in the first 3&ndash;6 months after closing. Studies show that approximately 75% of former business owners report feelings of loss, purposelessness, or regret within the first year after selling. The duration and intensity of this phase correlate strongly with how central the business was to the seller&rsquo;s identity and daily routine. Sellers who begin building identity and purpose beyond their business 1&ndash;2 years before selling&mdash;through hobbies, board service, mentoring, or planning a new venture&mdash;experience significantly shorter and less severe adjustment periods.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the most common emotional reason deals fall apart?</h3>
+
+      <div className={bodyClass}>
+        <p>Deal fatigue withdrawal&mdash;where the seller pulls out of a transaction at a late stage due to emotional overwhelm rather than rational assessment&mdash;is the most common emotionally driven deal failure, accounting for an estimated 15&ndash;20% of all failed transactions according to Harvard Business Review research on M&amp;A psychology. The intensity of the due diligence process, combined with the finality of the decision, triggers a fight-or-flight response in many sellers. This risk is highest in the 2&ndash;4 weeks before closing, when legal complexity peaks and the seller faces the reality of signing over their life&rsquo;s work. Buyers can mitigate this risk by maintaining empathetic communication, providing clear timelines, and ensuring the seller has trusted advisors (accountant, lawyer, therapist) who can provide perspective during emotionally charged moments.</p>
+      </div>
+
+      <h3 className={h3Class}>Should sellers seek professional counseling during the sale process?</h3>
+
+      <div className={bodyClass}>
+        <p>Yes, and the research strongly supports this recommendation. The Exit Planning Institute reports that sellers who work with a therapist, executive coach, or peer support group during the sale process are 40% more likely to complete the transaction without regret and report significantly higher life satisfaction 12 months post-sale. The emotional complexity of selling a business&mdash;grief, identity loss, fear of irrelevance, family dynamics&mdash;often exceeds what financial and legal advisors can address. Peer support groups of former business owners (such as those organized through EO, YPO, or local chambers of commerce) are particularly valuable because they normalize the emotional journey and provide practical guidance from people who have navigated the same experience.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Exit Planning Institute, <em>The Emotional Side of Selling a Business</em> (2024)</li>

@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { prisma } from "@/lib/prisma";
 import { allArticles, categoryMeta } from "./[locale]/learn/_articles/article-registry";
+import { hasFRVersion } from "./[locale]/learn/_articles/fr-registry";
 import { routeLocales, locales, type Locale } from "@/lib/i18n-registry";
 
 const BASE = "https://www.searchfundmarket.com";
@@ -61,15 +62,29 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
-  // --- Learn article pages (English only) ---
+  // --- Learn article pages ---
   for (const article of allArticles) {
+    const articleLocales: Locale[] = hasFRVersion(article.slug)
+      ? ["en", "fr"]
+      : ["en"];
+    // English version
     entries.push({
       url: `${BASE}/en/learn/${article.slug}`,
       lastModified: article.dateModified,
       changeFrequency: "monthly",
       priority: 0.7,
-      alternates: buildAlternates(`/learn/${article.slug}`, ["en"]),
+      alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
     });
+    // French version (if available)
+    if (hasFRVersion(article.slug)) {
+      entries.push({
+        url: `${BASE}/fr/learn/${article.slug}`,
+        lastModified: article.dateModified,
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
+      });
+    }
   }
 
   // --- Learn category pages (English only) ---

@@ -74,6 +74,23 @@ export default function StrategicSaleVsFinancialArticle() {
         <li><Link href="/learn/rollover-equity" className="text-apple-accent hover:underline">Rollover Equity</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much more do strategic buyers typically pay compared to financial buyers?</h3>
+      <div className={bodyClass}>
+        <p>Strategic buyers typically pay a 20&ndash;50% premium over financial buyers for the same business, driven by quantifiable revenue and cost synergies that increase the target&rsquo;s value to the strategic acquirer specifically. According to Pitchbook&rsquo;s M&amp;A Buyer Type Analysis, the median EBITDA multiple for strategic acquisitions in the lower middle market was 7.2x in 2023, compared to 5.4x for financial buyers. However, this premium comes with trade-offs: strategic buyers are more likely to integrate (and potentially dissolve) the acquired business, eliminate redundant roles, rebrand, and relocate operations. Financial buyers &mdash; including search funds and private equity &mdash; typically preserve the business as an independent platform, making them more attractive to sellers who care about legacy, employee continuity, and community presence.</p>
+      </div>
+
+      <h3 className={h3Class}>Should sellers run a dual-track process engaging both strategic and financial buyers?</h3>
+      <div className={bodyClass}>
+        <p>Running a dual-track process is generally the optimal strategy for maximizing sale price and deal certainty. By engaging both buyer types simultaneously, sellers create competitive tension that drives higher valuations and better terms. Axial&rsquo;s research shows that dual-track processes achieve 12&ndash;18% higher final sale prices on average compared to single-track processes. However, dual-track adds complexity: sellers must manage confidentiality carefully (strategic buyers may be competitors), coordinate different due diligence timelines, and be prepared for the possibility that the highest bidder may not be the best long-term steward of the business. Working with an experienced M&amp;A advisor or <Link href="/learn/business-brokers" className="text-apple-accent hover:underline">business broker</Link> is particularly valuable in dual-track processes to manage the logistics and maintain competitive dynamics.</p>
+      </div>
+
+      <h3 className={h3Class}>What are the risks of selling to a strategic buyer who is a competitor?</h3>
+      <div className={bodyClass}>
+        <p>The primary risk is confidential information leakage. During due diligence, the strategic buyer gains access to your customer lists, pricing strategies, vendor contracts, financial performance, and operational details &mdash; information that becomes highly damaging if the deal falls through and the buyer remains your competitor. The Exit Planning Institute estimates that 30&ndash;40% of announced M&amp;A transactions fail to close, making this a realistic concern. Mitigation strategies include using phased information disclosure (sharing sensitive data only after a signed LOI with break-up fee provisions), requiring non-disclosure agreements with specific non-solicitation clauses covering customers and employees, and holding back the most competitively sensitive information until exclusivity is granted. Additionally, strategic buyers may face antitrust review that can delay or block the deal, particularly in concentrated industries.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Axial, <em>Strategic vs. Financial Buyer Report</em> (2024)</li>

@@ -345,6 +345,26 @@ export default function EUAntiTaxAvoidanceArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do the ATAD interest limitation rules affect leveraged acquisition financing?</h3>
+
+        <p>
+          The ATAD interest limitation rules cap the tax deductibility of net borrowing costs at 30% of EBITDA, directly limiting the tax shield available in leveraged acquisitions. For search fund and ETA acquisitions where target EBITDA is relatively modest (typically &euro;500,000&ndash;&euro;3 million), this cap can be reached quickly. For example, a business with &euro;1 million EBITDA can deduct at most &euro;300,000 in net interest expense per year&mdash;any excess is non-deductible in the current year (though most Member States allow carryforward). The directive includes a de minimis threshold of &euro;3 million, below which the limitation does not apply. According to KPMG&rsquo;s EU ATAD implementation analysis, acquirers should model the interest limitation into financial projections from the earliest stages of deal evaluation, as it can reduce expected after-tax returns by 2&ndash;5 percentage points for highly leveraged structures.
+        </p>
+
+        <h3 className={h3Class}>Does the EU&rsquo;s global minimum tax (Pillar Two) apply to search fund acquisitions?</h3>
+
+        <p>
+          Pillar Two establishes a 15% global minimum effective tax rate for multinational groups with consolidated revenues above &euro;750 million, which means most search fund and ETA acquisitions are not directly subject to these rules. However, Pillar Two is relevant in two scenarios: when the target is a subsidiary of a larger group exceeding the threshold, or when the acquirer itself is part of a larger group. Additionally, many EU Member States have implemented Qualified Domestic Minimum Top-up Taxes (QDMTTs) that may affect businesses benefiting from local tax incentives reducing their effective rate below 15%. According to the OECD&rsquo;s GloBE model rules, even below the &euro;750 million threshold, the broader tax policy environment is shifting as countries raise domestic minimum rates in response to Pillar Two, which affects all businesses regardless of size.
+        </p>
+
+        <h3 className={h3Class}>What is the GAAR and how does it affect acquisition structuring?</h3>
+
+        <p>
+          The General Anti-Avoidance Rule (GAAR) is a broad backstop provision in ATAD I that allows tax authorities to disregard arrangements that are &ldquo;not genuine&rdquo; and have been put in place primarily to obtain a tax advantage. An arrangement is considered not genuine if it lacks valid commercial reasons reflecting economic reality. For acquirers, the GAAR means that any aggressive tax planning&mdash;even if technically compliant with specific rules&mdash;can be challenged if it lacks genuine commercial substance. According to EY&rsquo;s <em>Worldwide Corporate Tax Guide</em>, holding companies, intercompany financing arrangements, and IP structures must all be supported by robust commercial rationale beyond tax benefits. Entities must have qualified employees, local decision-making authority, and real operational activities to withstand GAAR scrutiny. The subjective nature of the GAAR creates uncertainty that makes professional tax advice essential for any cross-border European acquisition.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>Council of the European Union, <em>Directive 2016/1164 (ATAD I): Rules Against Tax Avoidance Practices</em> (2016)</li>

@@ -495,6 +495,23 @@ export default function SwissEntityStructuresArticle() {
           <li>IESE Business School, <em>International Search Funds &mdash; Selected Observations</em> (2024)</li>
         </ul>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the difference between a Swiss GmbH and an AG for acquisitions?</h3>
+        <p>
+          The Swiss GmbH (Gesellschaft mit beschr&auml;nkter Haftung) requires CHF 20,000 minimum capital and imposes significant share transfer restrictions &mdash; transfers require approval by a two-thirds majority of members, and ownership is publicly recorded in the commercial register. The AG (Aktiengesellschaft) requires CHF 100,000 minimum capital (CHF 50,000 paid up at incorporation) but offers more flexible share transfer mechanics through registered shares with board-controlled Vinkulierung provisions. For search fund acquirers, the AG is generally preferred when institutional investors are involved or complex ownership structures are anticipated, while the GmbH is more common for smaller targets with closely held ownership. According to KPMG&rsquo;s Taxation in Switzerland report, approximately 65% of Swiss SME acquisitions involve GmbH targets, reflecting the entity&rsquo;s prevalence in the small business landscape.
+        </p>
+
+        <h3 className={h3Class}>How do cantonal tax differences affect Swiss acquisition structuring?</h3>
+        <p>
+          Switzerland&rsquo;s three-tier tax system (federal, cantonal, and communal) creates combined effective corporate tax rates ranging from approximately 11% in low-tax cantons like Zug and Nidwalden to 19% or more in cantons like Zurich and Geneva. This variation creates meaningful structuring opportunities: a holding company established in Zug (11&ndash;12% combined rate) owning an operating company in Zurich (approximately 19% combined rate) can benefit from the participation reduction (Beteiligungsabzug) at the holding level while the operating company remains where it best serves business needs. The participation reduction effectively exempts qualifying dividend income and capital gains when the holding owns at least 10% of the subsidiary or the participation has a fair market value of at least CHF 1 million. Following the 2020 TRAF/STAF tax reform, many cantons reduced rates to compensate for abolished special regimes, making the overall Swiss corporate tax landscape more competitive.
+        </p>
+
+        <h3 className={h3Class}>What residence requirements must foreign acquirers satisfy in Switzerland?</h3>
+        <p>
+          Swiss corporate law requires that at least one person authorized to represent the company (a managing officer, director, or authorized signatory) must be resident in Switzerland &mdash; this applies to both GmbHs and AGs. For GmbHs specifically, at least one managing officer (Gesch&auml;ftsf&uuml;hrer) must also be a member (shareholder), which can complicate search fund structures where the CEO may not initially hold shares. Foreign acquirers must also consider Lex Koller restrictions, which regulate the acquisition of Swiss real estate by non-Swiss persons and may require authorization if the target company owns significant property. For non-EU/EFTA nationals, obtaining a Swiss work permit is more difficult and typically requires demonstrating that the position cannot be filled by a Swiss or EU/EFTA resident &mdash; processing times and approval rates vary by canton, so early engagement with cantonal migration authorities is advisable.
+        </p>
+
         <h2 className={h2Class}>Related resources</h2>
         <ul className={ulClass}>
           <li>

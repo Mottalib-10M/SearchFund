@@ -414,6 +414,34 @@ export default function ETAUSArticle() {
           fundamental principles that have made ETA successful for over
           40 years. When the time comes, having a clear plan for your <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy</Link> is essential to realizing that value.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are the historical returns of US search funds?</h3>
+
+        <p>
+          According to the Stanford 2024 Search Fund Study, US search funds have historically achieved aggregate returns of approximately 33% IRR and 5.5x return on invested capital over the four-decade history of the model. These returns place search funds among the highest-performing alternative asset classes. However, the distribution is highly skewed: the top quartile of search funds generates returns above 10x, while approximately 33% of completed acquisitions result in a partial or total loss of capital. The median return is more modest but still attractive at approximately 2.5&ndash;3x. For self-funded searchers who retain more equity, successful exits can generate even higher personal returns, though the personal financial risk during the search phase is also greater.
+        </p>
+
+        <h3 className={h3Class}>How does the SBA 7(a) loan program work for business acquisitions?</h3>
+
+        <p>
+          The SBA 7(a) program guarantees up to 85% of loans under $150,000 and 75% of loans between $150,000 and $5 million, dramatically reducing lender risk and enabling acquisition financing with as little as 10% equity injection from the buyer. Loan terms are 10 years for business acquisitions (25 years if commercial real estate is included), with variable interest rates typically set at Prime + 1.75% to 2.75%. The borrower must provide a personal guarantee, and the target business must meet SBA size standards (generally under $8.5 million in average annual revenue or under 500 employees). The SBA 7(a) program is unique globally&mdash;no comparable government-backed acquisition lending program exists in Europe or Asia&mdash;and is the primary reason self-funded search has grown explosively in the United States.
+        </p>
+
+        <h3 className={h3Class}>Should I pursue a traditional or self-funded search in the US?</h3>
+
+        <p>
+          The choice depends on your financial resources, risk tolerance, and acquisition target size. Traditional search funds (raising $400K&ndash;$600K from 10&ndash;20 investors) provide a salary during the search, access to experienced mentors, and established deal networks, but result in significant equity dilution (searchers typically retain 20&ndash;30% of equity). Self-funded searches offer greater equity retention (often 50&ndash;80%) and full control over criteria and timeline, but require personal financial resources to sustain 12&ndash;24 months without income. According to Stanford GSB data, traditional searches tend to target larger deals ($5M&ndash;$30M enterprise value) while self-funded searchers focus on smaller acquisitions ($1M&ndash;$5M) financed primarily through SBA loans. Both models can generate attractive returns, and the best choice depends on your personal circumstances and risk profile.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study</em> (2024) &mdash; the definitive dataset on US search fund performance, deal structures, and operator outcomes</li>
+          <li>US Small Business Administration, <em>7(a) Loan Program Guide</em> (2024) &mdash; official documentation on SBA lending terms, eligibility, and guarantee structure</li>
+          <li>Pacific Lake Partners, <em>Search Fund Best Practices</em> (2024) &mdash; operational guidance from one of the most active dedicated search fund investment firms</li>
+        </ul>
       </div>
     </article>
   );

@@ -494,6 +494,23 @@ export default function TransferPricingAcquisitionsArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why is transfer pricing important in acquisition due diligence?</h3>
+        <p>
+          Transfer pricing is critical because an acquirer inherits the target company&rsquo;s existing intercompany pricing arrangements and any associated tax exposures. If the target has been using aggressive or unsupported pricing methodologies, the acquirer faces latent risk of audits, adjustments, and penalties that can materially erode returns. According to Deloitte&rsquo;s Global Transfer Pricing Country Guide, transfer pricing disputes account for approximately 60% of all international tax controversies, with average assessment periods of 3&ndash;5 years. Undocumented or under-documented positions are particularly risky because they leave the company unable to defend its pricing during an audit. The OECD&rsquo;s three-tiered documentation framework (Master File, Local File, and Country-by-Country Report) sets the baseline standard &mdash; companies that lack contemporaneous documentation face significantly higher adjustment probabilities.
+        </p>
+
+        <h3 className={h3Class}>What are the most commonly challenged intercompany transactions?</h3>
+        <p>
+          Management fees and cost allocations are among the most frequently challenged transactions because many companies charge fees based on arbitrary allocation keys rather than demonstrable benefit to the receiving entity. Intra-group financing is another perennial focus &mdash; loans with interest rates or terms deviating from market conditions, excessive debt levels (thin capitalization), and lending entities lacking genuine economic substance attract scrutiny. The OECD&rsquo;s BEPS project has intensified challenges to IP structures where valuable intellectual property has been migrated to low-tax jurisdictions without adequate substance, under the DEMPE framework (Development, Enhancement, Maintenance, Protection, and Exploitation). PwC reports that tax authorities are increasingly using data analytics and Country-by-Country Reports to identify profit-shifting patterns, making it essential for acquirers to evaluate the defensibility of all material intercompany transactions before closing.
+        </p>
+
+        <h3 className={h3Class}>How should acquirers protect themselves from transfer pricing risk in the purchase agreement?</h3>
+        <p>
+          Acquirers should negotiate transfer pricing-specific representations and warranties requiring the seller to represent that all intercompany transactions are at arm&rsquo;s length, that documentation is current and complete, and that there are no pending or threatened audits. Specific indemnities for pre-closing transfer pricing exposures provide direct financial protection &mdash; these should cover additional taxes, interest, and penalties arising from periods before the acquisition closes. For quantified risks, negotiate price adjustments or escrow holdbacks. The European Commission&rsquo;s Joint Transfer Pricing Forum recommends that acquirers also evaluate whether existing Advance Pricing Agreements (APAs) will survive the change of ownership, as many APAs contain change-of-control provisions that may terminate or require renegotiation. Post-closing, invest immediately in bringing documentation up to standard and implement intercompany pricing monitoring to ensure ongoing compliance.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>OECD, <em>Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</em> (2022)</li>

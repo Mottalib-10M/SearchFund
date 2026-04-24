@@ -464,6 +464,32 @@ export default function CompetitiveMoatEvaluationArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the most common type of competitive moat in small business acquisitions?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          Switching costs are the most prevalent moat type in SME acquisitions. According to Hamilton Helmer&rsquo;s research in <em>7 Powers</em>, switching costs appear wherever a customer would incur significant expense, effort, or risk in changing providers &mdash; whether through contractual lock-in, deep workflow integration, or accumulated institutional knowledge about the client&rsquo;s needs. In search fund acquisitions, this manifests as embedded enterprise software, specialized manufacturing certifications, and professional services relationships where institutional knowledge creates dependency. McKinsey&rsquo;s valuation research shows that businesses with high switching costs achieve 15&ndash;25% higher valuations than otherwise comparable businesses without them.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>How do I score a competitive moat during due diligence?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          A practical approach evaluates each acquisition target across five moat dimensions &mdash; switching costs, network effects, brand/reputation, cost advantages, and regulatory/legal barriers &mdash; scoring each on a scale of 1 (no meaningful moat) to 5 (exceptionally strong, proven moat). Sum the scores for a composite moat rating: targets scoring above 20 have exceptional competitive protection, while those below 10 warrant careful scrutiny about whether the asking price reflects the limited advantage. Michael Porter&rsquo;s Five Forces framework and Bruce Greenwald&rsquo;s <em>Competition Demystified</em> provide the analytical foundations. Validate your scoring through customer interviews, competitor analysis, supplier conversations, and 5+ years of gross margin trend analysis.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>What are the warning signs that a competitive moat is eroding?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          The most reliable leading indicators of moat erosion include persistent gross margin decline (2&ndash;3+ years of compression), rising customer acquisition costs without corresponding revenue growth, accelerating customer churn rates, and the entry of well-funded competitors willing to operate at a loss to gain share. Pat Dorsey&rsquo;s research in <em>The Little Book That Builds Wealth</em> identifies technology disruption and regulatory change as the two external forces most likely to collapse previously strong moats. During due diligence, a <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings analysis</Link> that shows declining margins over five or more years is often the clearest quantitative signal that competitive advantages are weakening.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

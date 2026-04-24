@@ -74,6 +74,26 @@ export default function ETASouthKoreaArticle() {
         <li><Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">Cross-Border Acquisitions</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How does South Korea&rsquo;s inheritance tax affect business succession opportunities?</h3>
+
+      <div className={bodyClass}>
+        <p>South Korea has among the world&rsquo;s highest inheritance tax rates, reaching up to 50% on the value of inherited assets, with an additional 20% surcharge on controlling stakes in businesses. According to the Korea Small Business Institute, these punitive rates create strong financial incentives for business founders to sell rather than transfer ownership to family members. A business valued at $10 million could generate $6&ndash;7 million in inheritance tax obligations for heirs inheriting a controlling stake. While the government has expanded SME succession tax relief in recent years to encourage ownership transfers, the relief is limited and subject to strict conditions. This tax pressure is accelerating the succession crisis among South Korea&rsquo;s 3.5 million SMEs and creating a growing pool of motivated sellers for acquisition entrepreneurs.</p>
+      </div>
+
+      <h3 className={h3Class}>Is the search fund model established in South Korea?</h3>
+
+      <div className={bodyClass}>
+        <p>The search fund model is virtually unknown in South Korea, making it one of the earliest-stage ETA markets in Asia. According to KOTRA and OECD research, fewer than a handful of search fund-style acquisitions have been completed in the country, compared to Japan, where the model is 5&ndash;10 years further developed. This nascent state presents both challenges&mdash;no local search fund investor base, limited precedent, and the need to educate sellers and advisors about the model&mdash;and significant first-mover advantages. Searchers with Korean language fluency, cultural understanding, and the ability to bridge Western business practices with Korean business norms are best positioned to pioneer the model. Building relationships with Korean accountants, lawyers, and the Korea Small Business Institute is essential for proprietary deal sourcing.</p>
+      </div>
+
+      <h3 className={h3Class}>What sectors offer the strongest acquisition opportunities in South Korea?</h3>
+
+      <div className={bodyClass}>
+        <p>Manufacturing (electronics components, automotive parts, precision machining) is the largest and most accessible sector for search fund acquisitions, leveraging South Korea&rsquo;s world-class supply chain integration. IT services and software (gaming, fintech, e-commerce) benefit from an exceptionally strong developer talent pool and growing domestic demand. Healthcare and medical devices are supported by Korea&rsquo;s leadership in medical tourism and aging demographics. The OECD&rsquo;s 2024 Korea Economic Survey highlights that K-culture products (food, beauty, entertainment) have significant global export potential, creating growth opportunities for acquirers who can professionalize operations and scale distribution. Typical valuations in the SME segment range from 4&ndash;7x EBITDA depending on sector and growth profile.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Korea Small Business Institute, <em>SME Succession Survey</em> (2024)</li>

@@ -409,6 +409,34 @@ export default function ETAIrelandArticle() {
           also mean that London-based investors and advisors are a natural
           source of support for Irish searchers.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does Ireland&rsquo;s 12.5% corporate tax rate benefit search fund acquirers?</h3>
+
+        <p>
+          Ireland&rsquo;s 12.5% corporation tax on trading income is one of the lowest in the OECD and creates a highly tax-efficient operating environment. For search fund acquirers, this means more after-tax cash flow available for debt service, reinvestment, and distributions. A business generating &euro;1 million in pre-tax profit retains &euro;875,000 after Irish corporation tax, compared to &euro;750,000&ndash;&euro;770,000 in France or Germany. This 10&ndash;15% advantage in retained earnings compounds significantly over a 5&ndash;7 year hold period. The rate applies to active trading income; passive investment income is taxed at 25%. Ireland also offers the Revised Entrepreneur Relief, which reduces capital gains tax to 10% on the first &euro;1 million of qualifying gains upon exit, further enhancing net returns for successful search fund operators.
+        </p>
+
+        <h3 className={h3Class}>Is Ireland&rsquo;s small market size a disadvantage for search fund deal flow?</h3>
+
+        <p>
+          Ireland&rsquo;s population of approximately 5.1 million does limit the total number of businesses meeting typical search fund criteria (revenue of &euro;1&ndash;10 million, EBITDA of &euro;300,000&ndash;2 million). However, several factors mitigate this constraint. Ireland&rsquo;s 270,000+ SMEs represent a dense concentration relative to population size. The country&rsquo;s strength in technology services, professional services, and healthcare creates high-quality targets with recurring revenue characteristics. Many Irish businesses serve international markets, meaning their growth potential extends well beyond the domestic economy. Searchers can also consider Northern Ireland (part of the UK but sharing deep economic ties with the Republic) as an extension of their target market. The key trade-off is less deal volume but also less competition from other searchers, resulting in potentially more favorable terms.
+        </p>
+
+        <h3 className={h3Class}>What government supports are available for business acquisitions in Ireland?</h3>
+
+        <p>
+          Ireland offers several institutional supports for business acquirers. The Strategic Banking Corporation of Ireland (SBCI) provides low-cost funding to on-lending partners, resulting in below-market acquisition finance rates. Enterprise Ireland offers post-acquisition growth supports including feasibility grants, innovation vouchers, the Competitive Start Fund, and market development assistance through its network of overseas offices. Microfinance Ireland provides small loans up to &euro;25,000 for working capital needs. Additionally, the 25% R&amp;D tax credit on qualifying expenditure can materially improve cash flows for technology and engineering acquisitions. The Local Enterprise Offices (LEOs) throughout Ireland provide free mentoring and advisory services for business owners including acquirers, making them a valuable resource during the early post-acquisition period.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Central Statistics Office Ireland, <em>Business Demography Report</em> (2024) &mdash; comprehensive data on Irish SME demographics and ownership patterns</li>
+          <li>Enterprise Ireland, <em>Annual Report and Accounts</em> (2024) &mdash; government support programs for business growth and internationalization</li>
+          <li>Revenue Commissioners Ireland, <em>Corporation Tax Statistics</em> (2024) &mdash; official data on Irish tax rates, reliefs, and incentives for businesses</li>
+        </ul>
       </div>
     </article>
   );

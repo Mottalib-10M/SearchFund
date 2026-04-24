@@ -176,21 +176,21 @@ All 5 existing tools are at `src/app/[locale]/(marketing)/tools/[toolSlug]/page.
 **Source:** [Acquiring Minds podcast — "From Search Misery to Successful CEO"](https://acquiringminds.co/articles/steve-divitkos-microdea)
 **Verified:** Yes — Acquiring Minds is the leading ETA podcast hosted by Will Smith
 
-### Phase 04 — ACQUIRE (NEW — per user request, Divitkos replaced)
+### Phase 04 — ACQUIRE (Brent Beshore — verified)
 
-> "We reached an impasse on our seller note. It was a Wednesday evening, and I called the gentleman I was buying the business from and said, Barry, I'm going to be there tomorrow because we need to sit down and talk about this face to face."
+> "We've never had a deal where we closed and not found something weird, hairy, unexpected after close, ever. It's a form of humility to pay a lower price. It's a form of humility not to use debt. And it's a form of humility not to assume that you know what you can do with it post-close."
 
-**— Ryan Turk**, CEO of Radiation Detection Company (acquired via Amberfield Partners search fund, 2020)
-**Source:** [Think Like an Owner podcast — Episode 178: "Launch Series Ep.3: Diligence and Closing"](https://tlaopodcast.com/podcasts/launch-series-ep-3-diligence-and-closing-with-ryan-turk-and-keith-gross-ep-178/)
-**Verified:** Yes — Ryan Turk is a Tuck MBA, former U.S. Navy officer, backed by Pacific Lake Partners. Confirmed via LinkedIn and podcast.
+**— Brent Beshore**, Founder & CEO, Permanent Equity
+**Source:** [World of DaaS podcast — "Brent Beshore — Private Equity for 'Boring' Businesses"](https://www.buzzsprout.com/1783651/episodes/15212523-brent-beshore-private-equity-for-boring-businesses)
+**Verified:** Yes — Brent Beshore is founder of Permanent Equity (acquired dozens of businesses). Quote confirmed via podcast transcript. Also author of *The Messy Marketplace*.
 
-### Phase 05 — OPERATE (NEW — per user request, Muzquiz alternative selected)
+### Phase 05 — OPERATE (Muzquiz — verified, full quote)
 
-> "The importance of my own leadership. This was a shocker."
+> "The importance of my own leadership. This was a shocker, but when you think you're a great leader, it only means you haven't set the bar high enough."
 
-**— Daniel Muzquiz**, CEO of The Predictive Index (acquired via search fund)
+**— Daniel Muzquiz**, Chairman & President, The Predictive Index (serial search fund entrepreneur — also former CEO of ExamSoft Worldwide)
 **Source:** [Jim Stein Sharpe — "Why Search: Is It Right for You?"](https://jimsteinsharpe.com/why-search-is-it-right-for-you/)
-**Verified:** Yes — Jim Stein Sharpe is a Stanford GSB lecturer and search fund advisor
+**Verified:** Yes — Jim Stein Sharpe is a Stanford GSB lecturer and search fund advisor. Muzquiz's role confirmed via [The Org](https://theorg.com/org/the-predictive-index/org-chart/daniel-muzquiz).
 
 ### Phase 06 — EXIT
 
@@ -207,7 +207,7 @@ All 5 existing tools are at `src/app/[locale]/(marketing)/tools/[toolSlug]/page.
 | Prepare | Fernando Garcia Benavides | Divisadero Capital | Searchfunder.com |
 | Fundraise | Christopher Sykes | Swoogo | Relay Investments |
 | Search | Steve Divitkos | Microdea / Mineola | Acquiring Minds |
-| Acquire | Ryan Turk | Radiation Detection Co. | Think Like an Owner |
+| Acquire | Brent Beshore | Permanent Equity | World of DaaS podcast |
 | Operate | Daniel Muzquiz | The Predictive Index | Jim Stein Sharpe |
 | Exit | A.J. Wasserstein | ArchivesOne → Iron Mountain | Deep Wealth Podcast |
 
@@ -330,7 +330,7 @@ src/
 
 | # | Question | Answer |
 |---|----------|--------|
-| Q1 | Quote variety | VARY — Divitkos only for SEARCH. Ryan Turk for ACQUIRE, Muzquiz for OPERATE. 6 unique people. |
+| Q1 | Quote variety | VARY — Divitkos only for SEARCH. Brent Beshore for ACQUIRE, Muzquiz (full quote) for OPERATE. 6 unique people. |
 | Q2 | Tools | 5 of 7 tools EXIST (active links). 2 remaining as "Coming soon" disabled cards. |
 | Q3 | Navbar | YES — "The Journey" between Home and Learn. Visually distinctive (accent color). |
 | Q4 | SVG trail | MULTI-SEGMENT — 6 connected curves, each in phase color, staggered animation. |

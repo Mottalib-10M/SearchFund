@@ -425,6 +425,34 @@ export default function ETAAustriaArticle() {
           economic stability, and succession dynamics make it one of the most
           promising frontier markets on the continent.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are typical SME valuation multiples in Austria?</h3>
+
+        <p>
+          Austrian SME valuations typically range from 3.5x to 6x EBITDA, positioning the market between Germany (where comparable businesses trade at similar or slightly lower multiples) and Switzerland (where premium valuations of 6&ndash;8x are common). Technology and healthcare businesses command higher multiples at the upper end of this range (5&ndash;7x), while traditional manufacturing and construction businesses trade at 3.5&ndash;5x. According to data from Deloitte and the Austrian Federal Economic Chamber (WKO), the limited presence of institutional private equity buyers in the Austrian SME segment helps keep multiples reasonable, creating favorable entry points for search fund acquirers compared to more competitive Western European markets.
+        </p>
+
+        <h3 className={h3Class}>How does the Austrian AWS guarantee program work for acquisition financing?</h3>
+
+        <p>
+          Austria Wirtschaftsservice (AWS) can guarantee up to 80% of the acquisition loan amount, dramatically reducing the risk for the lending bank and making it possible for first-time acquirers to secure financing. AWS guarantees are available for business succession transactions and can be combined with ERP (European Recovery Program) loans that offer subsidized below-market interest rates and favorable repayment terms including initial grace periods. The standard financing blueprint for an Austrian search fund acquisition combines an ERP loan from AWS, a senior loan from a commercial bank (with an AWS guarantee), seller financing of 15&ndash;25%, and an equity contribution from the searcher and investors. This structure can reduce the required equity injection to 20&ndash;30% of the total transaction value.
+        </p>
+
+        <h3 className={h3Class}>Is German language fluency required to conduct ETA in Austria?</h3>
+
+        <p>
+          Yes&mdash;German fluency is essential for deal-making, relationship building with business owners, and post-acquisition operations in Austria. Business documents, contracts, regulatory filings, and court proceedings are all conducted in German. While Austrian German (Osterreichisches Deutsch) differs from standard German in vocabulary, pronunciation, and certain legal terms, the differences are manageable for anyone fluent in standard German. For DACH-focused searchers already operating in Germany, the linguistic transition to Austria is seamless. Non-German-speaking searchers face a significant disadvantage and would need either a local co-searcher, extensive language training to B2 level or above, or a bilingual operating partner.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Wirtschaftskammer &Ouml;sterreich (WKO), <em>Business Succession and Transfer Report</em> (2024)</li>
+          <li>Austria Wirtschaftsservice (AWS), <em>Financing Programs for Business Succession</em> (2024)</li>
+          <li>Deloitte Austria, <em>M&amp;A Market Monitor: Austrian Mid-Market</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

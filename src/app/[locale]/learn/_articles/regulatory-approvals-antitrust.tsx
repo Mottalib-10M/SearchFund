@@ -443,6 +443,23 @@ export default function RegulatoryApprovalsAntitrustArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Do search fund acquisitions typically require antitrust filings?</h3>
+        <p>
+          Most initial search fund acquisitions fall well below the Hart-Scott-Rodino (HSR) Act filing thresholds, which require notification for transactions where the acquiring person will hold assets or voting securities valued above the minimum threshold (approximately $111.4 million as of the most recent annual adjustment). According to US Federal Trade Commission data, fewer than 2,000 HSR filings are made annually out of tens of thousands of M&amp;A transactions, and the vast majority of search fund deals &mdash; typically in the $5&ndash;30 million enterprise value range &mdash; are exempt. However, the FTC and DOJ retain authority to investigate and challenge any acquisition they believe may substantially lessen competition, regardless of size. Search fund entrepreneurs pursuing buy-and-build strategies should be particularly aware that successive acquisitions in the same sector may eventually trigger filing requirements or attract regulatory attention as market share grows.
+        </p>
+
+        <h3 className={h3Class}>How long does regulatory approval add to the closing timeline?</h3>
+        <p>
+          Regulatory approval timelines vary dramatically by jurisdiction and complexity. In the US, the initial HSR waiting period is 30 days (15 days for cash tender offers), and approximately 95% of notified transactions are cleared during this initial period without further investigation. However, if the reviewing agency issues a Second Request for additional information, the process can extend to 6&ndash;12 months or longer. In the EU, Phase I review takes 25&ndash;35 working days, while a Phase II in-depth investigation takes 90&ndash;125 working days. According to the OECD&rsquo;s Competition Assessment Toolkit, sector-specific approvals (healthcare, financial services, telecommunications) can add an additional 2&ndash;6 months to closing timelines. Buyers should address regulatory timing in their <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link> by including conditions precedent for all required approvals and building realistic regulatory timelines into the deal schedule.
+        </p>
+
+        <h3 className={h3Class}>What are the penalties for failing to file required merger notifications?</h3>
+        <p>
+          Penalties for &ldquo;gun-jumping&rdquo; &mdash; consummating a reportable transaction without filing required notifications or before the waiting period expires &mdash; are severe across all major jurisdictions. In the US, the maximum civil penalty under the HSR Act exceeds $50,000 per day of violation, and penalties have been imposed retroactively for transactions completed years earlier. The European Commission has imposed fines of up to &euro;124.5 million for failure to notify, and the UK&rsquo;s National Security and Investment Act 2021 allows transactions completed without required notification to be voided entirely, with civil and criminal penalties for non-compliance. According to the International Competition Network&rsquo;s guidelines, the best protection is to conduct a thorough filing analysis at the outset of any acquisition, covering merger control, sector-specific approvals, and foreign investment screening requirements in every relevant jurisdiction.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>US Federal Trade Commission, <em>Hart-Scott-Rodino Annual Reports to Congress</em></li>

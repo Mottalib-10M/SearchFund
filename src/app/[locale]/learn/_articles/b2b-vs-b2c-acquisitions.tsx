@@ -75,6 +75,23 @@ export default function B2BVsB2CAcquisitionsArticle() {
         <li><Link href="/learn/asset-light-vs-asset-heavy" className="text-apple-accent hover:underline">Asset-Light vs. Asset-Heavy</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Why do over 70% of search fund acquisitions target B2B businesses?</h3>
+      <div className={bodyClass}>
+        <p>Search fund entrepreneurs favor B2B businesses because they offer more predictable revenue, higher margins, and stronger relationship-based retention &mdash; all of which reduce post-acquisition risk. B2B companies typically have contracts or purchase orders creating forecastable revenue, annual churn rates of 5&ndash;15% (vs. 20&ndash;50%+ for B2C), and higher gross margins of 40&ndash;70%. According to Stanford GSB&rsquo;s search fund studies, MBA graduates and corporate professionals also tend to have stronger B2B skills in consultative selling, relationship management, and strategic thinking, which aligns well with B2B operating requirements.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the biggest risk when acquiring a B2B company?</h3>
+      <div className={bodyClass}>
+        <p>Customer concentration is the primary risk in B2B acquisitions. The top 10 customers in a B2B company often represent 40&ndash;80% of total revenue, making the loss of any major customer a potentially devastating event. Bain &amp; Company research shows that B2B companies with their top customer exceeding 25% of revenue are significantly more likely to experience material revenue decline during ownership transitions. Thorough <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">customer concentration analysis</Link> during due diligence &mdash; including customer interviews, contract review, and relationship mapping &mdash; is the single most important step for B2B acquisitions.</p>
+      </div>
+
+      <h3 className={h3Class}>Are there B2C businesses that work well for search fund acquisitions?</h3>
+      <div className={bodyClass}>
+        <p>B2C businesses with recurring revenue models &mdash; subscriptions, memberships, and maintenance contracts &mdash; combine B2C customer diversification with B2B revenue predictability and are attractive for ETA. Examples include gym memberships, pest control contracts, lawn care subscriptions, and home warranty services. McKinsey data shows that recurring-revenue B2C businesses achieve 2&ndash;3x higher valuations than transactional B2C businesses because of their predictable cash flows. Hybrid models that serve both B2B and B2C customers, such as HVAC, IT services, and pest control, offer particularly compelling acquisition opportunities.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Search Fund Study: Industry and Business Model Analysis</em> (2024)</li>

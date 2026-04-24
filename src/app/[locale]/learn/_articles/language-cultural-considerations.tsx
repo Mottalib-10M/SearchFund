@@ -85,6 +85,23 @@ export default function LanguageCulturalConsiderationsArticle() {
         <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Is it possible to acquire a European business without speaking the local language?</h3>
+      <p className={bodyClass}>
+        While the deal itself can often be negotiated in English (particularly in Northern Europe and with larger companies), operating a business post-acquisition almost always requires local language capability. IESE Business School&rsquo;s 2024 research on European search funds found that operators without professional fluency in the local language experienced 2x higher employee turnover and 40% lower employee satisfaction scores in the first year. The practical solution is to hire a strong local operations leader who serves as a cultural bridge, while the acquiring CEO invests seriously in language learning. In the UK, Ireland, and the Netherlands, English proficiency is high enough that non-local speakers can operate effectively, but in Germany, France, Italy, and Spain, local fluency is essential.
+      </p>
+
+      <h3 className={h3Class}>How do works councils affect post-acquisition management in Europe?</h3>
+      <p className={bodyClass}>
+        Works councils are legally mandated employee representation bodies in Germany, France, the Netherlands, and many other EU countries. They must be consulted (and sometimes must approve) decisions regarding restructuring, layoffs, changes to working conditions, and significant operational changes. The European Commission&rsquo;s 2024 business guide notes that failing to properly consult works councils can invalidate management decisions and expose the company to legal liability. For search fund entrepreneurs accustomed to US-style management flexibility, works councils represent a significant adjustment. However, Erin Meyer&rsquo;s research in <em>The Culture Map</em> suggests that companies that genuinely engage with works councils often achieve better outcomes because the consultation process surfaces operational insights and builds employee buy-in.
+      </p>
+
+      <h3 className={h3Class}>What cultural mistakes do American searchers most commonly make in European acquisitions?</h3>
+      <p className={bodyClass}>
+        The three most common cultural mistakes are: moving too fast with changes (European employees expect gradual, consultative change rather than rapid top-down transformation), underestimating the importance of personal relationships in deal-making (particularly in Romance cultures where business is conducted through personal trust built over meals and social interactions), and applying US-style direct management communication in cultures where indirect feedback is the norm. IESE&rsquo;s research shows that American searchers who spent at least 4 weeks in-country before closing had 60% higher first-year employee retention. The fundamental principle is cultural adaptation by the acquirer&mdash;not cultural imposition on the acquired business.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Erin Meyer, <em>The Culture Map: Breaking Through the Invisible Boundaries of Global Business</em> (2014)</li>

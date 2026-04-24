@@ -76,6 +76,23 @@ export default function GovernmentContractingAcquisitionArticle() {
         <li><Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-Build Strategy</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What happens to SBA small business certifications when a government contractor is acquired?</h3>
+      <p className={bodyClass}>
+        SBA certifications (8(a), HUBZone, SDVOSB) are tied to the company and its ownership structure, so acquisitions can trigger recertification requirements or loss of certification. When the acquiring entity does not meet the certification criteria, the company may lose its set-aside eligibility. According to the SBA&rsquo;s 2024 procurement scorecard, small business set-aside contracts represent $160B+ annually in federal spending. To preserve certification value, some search fund acquisitions are structured so the company maintains its small business status under SBA size standards. Consult with an SBA counsel early in due diligence to understand the specific implications for your target&rsquo;s certifications and plan accordingly.
+      </p>
+
+      <h3 className={h3Class}>How important is contract backlog in valuing a government contracting business?</h3>
+      <p className={bodyClass}>
+        Contract backlog is the single most important valuation driver for government contractors. Bloomberg Government&rsquo;s 2024 market analysis shows that GovCon companies with 3+ years of funded and unfunded backlog trade at premium multiples (8&ndash;12x EBITDA) compared to those with shorter backlogs (4&ndash;6x EBITDA). Backlog provides revenue visibility that is unmatched in the private sector&mdash;multi-year contracts with option years create predictable cash flows. During due diligence, analyze funded versus unfunded backlog, option year exercise rates (historically 85&ndash;95% for well-performing contractors per USAspending.gov data), and the recompete schedule to assess sustainability.
+      </p>
+
+      <h3 className={h3Class}>What is the biggest risk in acquiring a government contractor?</h3>
+      <p className={bodyClass}>
+        The biggest risk is contract concentration&mdash;dependence on a single contract or agency for a disproportionate share of revenue. USAspending.gov data shows that small government contractors frequently derive 40&ndash;60% of revenue from their largest contract. If that contract ends, is not renewed, or is recompeted and lost, the business faces severe revenue disruption. Additionally, key personnel risk is heightened in GovCon because contracts often name specific individuals whose departure can trigger contract modifications. Bloomberg Government recommends that no single contract should represent more than 25% of total revenue for a well-diversified GovCon acquisition target.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>USAspending.gov, <em>Federal Contract Spending Data</em> (2024)</li>

@@ -383,6 +383,23 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
           </li>
         </ol>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Does the UK-EU Trade and Cooperation Agreement eliminate tariffs on goods?</h3>
+        <p>
+          The TCA provides for tariff-free and quota-free trade in goods between the UK and EU, but this is subject to rules of origin requirements. Goods must demonstrate sufficient UK or EU content to qualify for zero tariffs &mdash; supply chains relying heavily on components from third countries may not qualify for preferential treatment. Additionally, the TCA does not eliminate customs procedures: all goods moving between the UK and EU are now subject to customs declarations, border checks, sanitary and phytosanitary inspections for food products, and VAT at the border. These requirements add cost, complexity, and 2&ndash;5 days of delay to cross-channel supply chains, according to the Institute for Government&rsquo;s regulatory divergence tracker.
+        </p>
+
+        <h3 className={h3Class}>Can UK nationals still freely work in EU countries after Brexit?</h3>
+        <p>
+          No. UK nationals wishing to work in EU Member States are now subject to each country&rsquo;s national immigration rules for third-country nationals. There is no EU-wide work permit; each Member State has its own requirements, processing times, and conditions. For acquirers planning to deploy UK-based management to oversee EU operations post-acquisition, immigration planning must begin early in the deal process. The UK Home Office&rsquo;s points-based system similarly requires EU nationals to obtain Skilled Worker visas for UK employment, including sponsorship by a UK employer, a job offer at an appropriate skill level, and a minimum salary threshold. Processing times typically range from several weeks to months.
+        </p>
+
+        <h3 className={h3Class}>How does Brexit affect data transfers between the UK and EU?</h3>
+        <p>
+          The European Commission adopted an adequacy decision for the UK in June 2021, recognizing the UK&rsquo;s data protection framework as providing adequate protection under GDPR. This allows personal data to flow from the EU to the UK without additional safeguards. However, the adequacy decision includes a sunset clause requiring periodic review and can be revoked if UK data protection standards diverge materially from EU norms. The UK government has signaled interest in reforming its framework, which could trigger revocation. Acquirers should develop contingency plans (Standard Contractual Clauses or Binding Corporate Rules) and ensure that due diligence data rooms comply with both UK GDPR and EU GDPR requirements.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>UK Government, <em>UK-EU Trade and Cooperation Agreement: Summary</em> (2020)</li>

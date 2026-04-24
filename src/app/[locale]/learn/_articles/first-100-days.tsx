@@ -201,6 +201,22 @@ export default function First100DaysArticle() {
           empathy, decisiveness, humility &mdash; will serve you for the
           rest of your career.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the single most important thing to accomplish in the first 100 days?</h3>
+        <p>
+          Building trust with your inherited team is the single most impactful outcome of the first 100 days. Stanford GSB&rsquo;s research on search fund CEO performance found that operators who prioritized relationship building over operational changes in the first 90 days had 2.5x higher retention rates for key employees and significantly better financial performance in years 1&ndash;3. Trust is built through listening, following through on commitments, respecting the company&rsquo;s history, and making early wins visible to the team. Without trust, even the best strategic plan will fail because your team won&rsquo;t execute it with conviction.
+        </p>
+
+        <h3 className={h3Class}>How quickly should a new search fund CEO make changes to the acquired business?</h3>
+        <p>
+          The consensus from IESE and Stanford research is to make no significant operational changes in the first 30 days, implement only low-risk quick wins in days 30&ndash;60, and begin more substantive initiatives in days 60&ndash;100. Data from the 2024 Stanford Search Fund Study shows that CEOs who made major changes in the first month had a 40% higher rate of key employee departures compared to those who waited. The exception is financial controls&mdash;implementing basic cash management, monthly reporting, and bank account oversight should happen immediately, as these protect the business without disrupting operations.
+        </p>
+
+        <h3 className={h3Class}>What financial controls should be established immediately after closing?</h3>
+        <p>
+          At minimum, establish these controls within the first two weeks: sole signing authority on all bank accounts with dual-signature requirements above a defined threshold, a 13-week rolling cash flow forecast, review of all automatic payments and recurring charges, and accounts receivable aging analysis. According to INSEAD&rsquo;s ETA research, 30% of newly acquired SMEs discover significant cash management issues within the first 60 days that were not identified during due diligence. A weekly cash position report and monthly close process (targeting day 15 initially) provide the visibility needed to catch problems early and make informed decisions.
+        </p>
       </div>
     </article>
   );

@@ -1151,6 +1151,26 @@ export default function ValuingUnprofitableBusinessArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the best way to value a business with no profits?</h3>
+
+      <p className={bodyClass}>
+        The most reliable approach is triangulation &mdash; applying multiple valuation methods and looking for convergence. Start with adjusted book value (total assets at fair market value minus all liabilities) as your floor, then layer in revenue-based multiples (0.2&ndash;3x depending on industry and revenue quality), replacement cost analysis (what it would cost to build an equivalent business from scratch), and a turnaround DCF model if you have a credible path to profitability. According to the American Society of Appraisers, no single method is sufficient for unprofitable businesses because each captures different aspects of value. The gap between your floor (liquidation value) and ceiling (successful turnaround DCF) represents your risk/reward spread. If the upside is only 20&ndash;30% above asset value, the risk-adjusted return may not justify the turnaround effort; if it is 2&ndash;3x asset value, you have meaningful upside even with partial success.
+      </p>
+
+      <h3 className={h3Class}>When does buying an unprofitable business make sense for a search fund?</h3>
+
+      <p className={bodyClass}>
+        An unprofitable acquisition makes sense when five conditions are met: the root cause of losses is clear and fixable (operational inefficiency, poor pricing, absentee ownership &mdash; not a dying market or obsolete product), the business has a strong revenue base ($1M+) with loyal customers, liquidation value provides downside protection of at least 50% of the purchase price, you have specific expertise that gives you an unfair advantage in fixing the core problem, and you can fund 12&ndash;18 months of continued losses during the turnaround. Harvard Business Review research on distressed acquisitions shows that turnarounds with clear, fixable cost problems succeed at roughly 2x the rate of those with revenue decline problems. Additionally, fewer competing bidders for unprofitable businesses creates significant pricing opportunity &mdash; Stanford GSB case studies document several search fund operators generating 3&ndash;5x returns by acquiring at distressed valuations and implementing targeted operational improvements.
+      </p>
+
+      <h3 className={h3Class}>How should you structure the deal when buying a distressed business?</h3>
+
+      <p className={bodyClass}>
+        Deal structure is as important as valuation for distressed acquisitions. Strongly prefer asset purchases over stock purchases to cherry-pick assets, leave behind hidden liabilities, and obtain a <Link href="/learn/step-up-in-basis" className="text-apple-accent hover:underline">step-up in basis</Link> for tax depreciation. Structure a low base purchase price at or below asset value with an <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earnout</Link> tied to profitability milestones &mdash; for example, $300K base price (approximating liquidation value) with an additional $200K if the business achieves $150K+ EBITDA in year 2. If seller financing is necessary, negotiate principal-only payments in year 1, performance triggers that tie payments to revenue/EBITDA thresholds, and subordination to bank debt. The CFA Institute recommends that escrow holdbacks of 15&ndash;20% of the purchase price for 18&ndash;24 months provide essential protection against undisclosed liabilities, which are disproportionately common in distressed businesses.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

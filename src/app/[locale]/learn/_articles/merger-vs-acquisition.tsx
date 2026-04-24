@@ -485,6 +485,25 @@ export default function MergerVsAcquisitionArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What is the main legal difference between a merger and an acquisition?</h3>
+        <p>
+          The fundamental legal difference is that a merger combines two entities into a single surviving entity by operation of law, automatically transferring all assets, liabilities, contracts, and obligations. An acquisition, by contrast, involves one entity purchasing the assets or equity of another, with the acquired entity potentially continuing to exist. According to Ginsburg, Levin, and Rocap&rsquo;s treatise on mergers and acquisitions, this distinction is critical because mergers trigger automatic successor liability for all obligations &mdash; including unknown and contingent liabilities &mdash; while asset acquisitions allow the buyer to selectively choose which liabilities to assume. In practice, most SME transactions are structured as asset or stock acquisitions because buyers prefer the liability protection and flexibility these structures provide.
+        </p>
+
+        <h3 className={h3Class}>When should a buyer choose a stock acquisition over an asset purchase?</h3>
+        <p>
+          A stock acquisition is preferable when the target holds critical contracts, licenses, or permits that contain anti-assignment clauses and would be difficult or impossible to transfer individually. According to Practical Law (Thomson Reuters), stock acquisitions are also favored when the target has valuable tax attributes such as net operating losses or tax credits that would be lost in an asset deal, when the buyer wants to maintain the target&rsquo;s legal entity and its regulatory standing, or when simplicity is paramount and the buyer wants to avoid transferring hundreds of individual assets and contracts. The trade-off is that the buyer inherits all of the target&rsquo;s liabilities within the entity, though these are structurally contained in the subsidiary rather than absorbed into the buyer&rsquo;s parent entity.
+        </p>
+
+        <h3 className={h3Class}>Can a merger be structured as tax-free for the seller&rsquo;s shareholders?</h3>
+        <p>
+          Yes, certain mergers and acquisitions can qualify as tax-free reorganizations under Section 368 of the Internal Revenue Code, allowing the target&rsquo;s shareholders to defer recognition of gain. The most common tax-free structure is a Type A statutory merger, where the consideration is primarily stock of the acquiring company. According to the IRS and the American Bar Association&rsquo;s Model Merger Agreement, the stock component must be &ldquo;substantial&rdquo; (generally at least 40&ndash;50% of total consideration), and the transaction must meet continuity of interest and continuity of business enterprise requirements. Tax-free reorganizations are more common in larger transactions and public company M&amp;A, but they can apply to private company combinations when the seller accepts the acquirer&rsquo;s stock as a significant portion of the deal consideration.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

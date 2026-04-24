@@ -448,6 +448,30 @@ export default function BuyAndBuildArticle() {
           synergies, and the satisfaction of building something significantly
           larger than what you started with.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long should I wait after acquiring a platform before pursuing my first add-on?</h3>
+        <p>
+          Most experienced operators recommend waiting at least 12&ndash;18 months after acquiring the platform before closing the first add-on acquisition. Stanford GSB&rsquo;s search fund research shows that searchers who rush into add-ons before stabilizing the platform have significantly higher integration failure rates. Use months 1&ndash;12 to learn the industry, build relationships, improve operations, and develop your integration playbook. Begin sourcing add-on targets in months 12&ndash;18, and close your first bolt-on in months 18&ndash;24. After one successful integration, many buy-and-build operators accelerate to two to three add-ons per year.
+        </p>
+
+        <h3 className={h3Class}>What is multiple arbitrage, and how does it create value in buy-and-build?</h3>
+        <p>
+          Multiple arbitrage is the primary financial driver of buy-and-build strategies. Individual small businesses with $500K&ndash;$2M EBITDA typically trade at 3&ndash;5x EBITDA, while larger combined entities with $5M&ndash;$10M+ EBITDA command 6&ndash;9x from strategic buyers and private equity firms. By acquiring multiple small businesses at lower multiples and combining them into a larger platform, the acquirer creates value purely through scale. For example, buying four businesses at 4x for a combined $8M EBITDA yields a combined entity worth $56M at 7x &mdash; versus $32M if valued separately. That $24M gap is pure multiple arbitrage, before any operational synergies.
+        </p>
+
+        <h3 className={h3Class}>What are the most common reasons buy-and-build strategies fail?</h3>
+        <p>
+          Integration failure is the leading cause, most commonly driven by acquiring too many businesses too fast (overwhelming the management team), cultural mismatch between acquired companies and the platform, and underestimating integration costs ($50K&ndash;$150K per add-on plus significant management time). Bain &amp; Company research on M&amp;A integration shows that acquirers who complete each integration before pursuing the next deal have 2&ndash;3x higher success rates. Other common mistakes include neglecting the platform business while chasing add-ons, overpaying for &ldquo;strategic&rdquo; value during deal excitement, and ignoring key-person risk in acquired businesses where the owner holds critical customer relationships.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB, <em>Search Fund Study: Buy-and-Build Value Creation</em> (2024)</li>
+          <li>Bain &amp; Company, <em>M&amp;A Integration Best Practices</em> (2024)</li>
+          <li>McKinsey &amp; Company, <em>Multiple Arbitrage in Private Equity Roll-Ups</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -274,6 +274,26 @@ export default function SearchFundCommunitiesArticle() {
           Finally, recognize that network building is a long-term investment that extends well beyond your search. The relationships you develop as a searcher will serve you throughout your tenure as CEO, during your eventual exit, and in whatever comes next. Many of the most successful operators in the ETA space attribute their achievements partly to the strength of relationships they've nurtured over years or decades within the community.
         </p>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best online community for search fund and ETA professionals?</h3>
+
+        <p className={bodyClass}>
+          SearchFunder.com is widely regarded as the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, and alumni. Founded in 2009, SearchFunder provides discussion forums covering every stage of the search fund journey, a deal marketplace for off-market opportunities, and a searchable archive of 15+ years of community wisdom. For real-time conversations, the &ldquo;ETA Searchers&rdquo; Slack workspace (~2,000 members) offers channels organized by topic, geography, and industry. Searchers who engage actively in these communities report faster learning curves, better deal flow, and stronger investor relationships than those who search in isolation.
+        </p>
+
+        <h3 className={h3Class}>How do MBA ETA clubs help aspiring searchers?</h3>
+
+        <p className={bodyClass}>
+          MBA ETA clubs at schools like Stanford GSB, Wharton, HBS, Kellogg, and MIT Sloan provide structured programming that accelerates the ETA learning curve. These clubs organize weekly speaker series featuring successful searchers, workshops on practical skills (financial modeling, LOI writing, QofE analysis), and panel discussions comparing different search fund models. Students who join early &mdash; even in the first year of a two-year program &mdash; gain time to build relationships, secure summer internships with searchers or investors, and develop the knowledge base needed to launch a search immediately after graduation. The alumni networks from these programs extend well beyond graduation, creating lifelong connections.
+        </p>
+
+        <h3 className={h3Class}>Are there search fund communities for international searchers outside the US?</h3>
+
+        <p className={bodyClass}>
+          Yes, vibrant communities have emerged across Europe, Latin America, and Asia-Pacific. ETA Europe serves as the pan-European hub with chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland, hosting an annual conference with 200+ participants. According to the IESE International Search Fund Study, European search fund activity has grown at a 25% compound annual rate since 2015. In Latin America, ETA Latin America coordinates annual conferences and country-specific communities exist in Mexico (80+ searcher WhatsApp group), Colombia, Brazil, and Chile. Asia-Pacific communities are emerging in Japan, India, Singapore, and Australia, though they remain earlier-stage than their Western counterparts.
+        </p>
+
         <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
           <h2 className="text-xl font-semibold mb-4">Sources</h2>
           <ul className="space-y-2">

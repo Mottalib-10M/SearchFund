@@ -567,6 +567,29 @@ export default function SellerFinancingArticle() {
           spirit often carries forward into a smoother post-closing
           transition.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are typical seller financing terms in a search fund acquisition?</h3>
+        <p>
+          Seller notes typically represent 10&ndash;30% of the total purchase price (most commonly 15&ndash;25% in search fund deals), with terms of 2&ndash;5 years and interest rates of 4&ndash;6%. The most common payment structure is interest-only during the term with a balloon principal payment at maturity, which minimizes the buyer&rsquo;s cash flow burden during the critical first years of ownership. In the current interest rate environment, rates at the higher end (5&ndash;6%) are more common. The IRS requires a minimum interest rate (the Applicable Federal Rate, or AFR) to avoid imputed interest rules &mdash; always verify the current AFR before setting the rate.
+        </p>
+
+        <h3 className={h3Class}>Why would a seller agree to finance part of the purchase price?</h3>
+        <p>
+          Sellers agree to finance for several compelling reasons. First, in the US, seller financing enables installment sale treatment under IRC Section 453, allowing the seller to spread capital gains recognition over the payment period rather than recognizing the entire gain in the year of sale &mdash; potentially saving hundreds of thousands of dollars in taxes. Second, sellers who provide financing can often negotiate a higher headline price than their business valuation would support in an all-cash transaction. Third, the interest income from a seller note provides predictable retirement income (5% on a &euro;500K note generates &euro;25K annually). Finally, a seller who is still owed money has a natural incentive to ensure the business succeeds post-closing, aligning interests during the transition.
+        </p>
+
+        <h3 className={h3Class}>How does seller financing interact with SBA 7(a) loans?</h3>
+        <p>
+          In the US, SBA 7(a) lenders typically require the seller to provide a standby seller note (subordinated, with no payments during the SBA loan term) as part of the financing package. The SBA&rsquo;s standby requirements are specific and non-negotiable: the seller note must be fully subordinated to the SBA loan, and typically no payments of principal or interest can be made on the seller note while the SBA loan is outstanding. This can be a difficult negotiation point with sellers who expect to receive payments during the note term. Ensure the seller note complies with SBA guidelines before structuring the deal, as non-compliant notes can jeopardize the entire SBA financing.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB, <em>Search Fund Deal Structure Analysis</em> (2024)</li>
+          <li>SBA, <em>SBA 7(a) Loan Program: Seller Financing Guidelines</em> (2024)</li>
+          <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (3rd ed., 2020)</li>
+        </ul>
       </div>
     </article>
   );

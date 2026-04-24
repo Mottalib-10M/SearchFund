@@ -91,6 +91,23 @@ export default function FinancialReportingUpgradesArticle() {
         <li><Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">Working Capital Management</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does it take to implement a proper monthly close process in an acquired SME?</h3>
+      <p className={bodyClass}>
+        Most search fund companies can establish a basic monthly close process within 60&ndash;90 days of acquisition, with full maturity reached in 4&ndash;6 months. The AICPA recommends targeting a &ldquo;day 15&rdquo; close initially (financial statements within 15 business days of month-end), then gradually improving to day 10. The biggest bottleneck is typically cleaning up the chart of accounts and converting from cash to accrual basis, which requires reconciling historical entries. Stanford GSB&rsquo;s research on search fund financial infrastructure found that companies with a formal monthly close process within 90 days of acquisition reported 35% better board satisfaction scores and faster identification of operational issues.
+      </p>
+
+      <h3 className={h3Class}>Should I hire a full-time controller or use a fractional CFO after acquiring a small business?</h3>
+      <p className={bodyClass}>
+        For businesses under $10M in revenue, a fractional CFO (typically $3K&ndash;$8K per month for 1&ndash;2 days per week) is often the most cost-effective starting point. This provides senior financial leadership without the $120K&ndash;$180K annual cost of a full-time CFO. As the business scales past $10M in revenue, hire a full-time controller ($80K&ndash;$120K) to manage day-to-day accounting while retaining the fractional CFO for strategic guidance. According to SHRM compensation data, search fund companies that hire a controller as their first executive position report it as the highest-ROI hire, typically paying for itself within 6 months through improved cash management and financial visibility.
+      </p>
+
+      <h3 className={h3Class}>When should an acquired business upgrade from QuickBooks to a mid-market ERP like NetSuite?</h3>
+      <p className={bodyClass}>
+        The general rule is to stabilize operations on the existing accounting system for at least 6&ndash;12 months before considering an ERP migration. Consider upgrading when revenue exceeds $10M, you have multi-location operations requiring consolidated reporting, or complex inventory management demands exceed QuickBooks&rsquo; capabilities. ERP implementations typically cost $50K&ndash;$200K and take 3&ndash;6 months for mid-market solutions like NetSuite or Sage Intacct. QuickBooks Online Advanced handles most reporting needs for sub-$10M businesses at a fraction of the cost. The AICPA advises that premature ERP migration is one of the most common and costly technology mistakes new owners make.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>AICPA, <em>Financial Reporting Best Practices for Small and Mid-Size Companies</em> (2024)</li>

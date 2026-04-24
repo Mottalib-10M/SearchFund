@@ -512,6 +512,34 @@ export default function DealSourcingStrategiesArticle() {
           be working. The acquisition that transforms your career is
           out there — your job is to build the machine that finds it.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best deal sourcing channel for search fund entrepreneurs?</h3>
+
+        <p>
+          There is no single &ldquo;best&rdquo; channel&mdash;the most successful searchers use a multi-channel approach combining broker relationships, direct outreach, and network referrals. According to the Stanford Search Fund Primer, approximately 40&ndash;50% of completed search fund acquisitions originate from broker-intermediated deal flow, while 30&ndash;40% come from proprietary direct outreach and 10&ndash;20% from referrals and networking. Proprietary deals tend to close at lower multiples (3&ndash;4.5x EBITDA) compared to brokered deals (4.5&ndash;6x EBITDA), but they require significantly more upfront effort. The optimal strategy typically involves maintaining active broker relationships for steady deal flow while simultaneously running targeted direct outreach campaigns for off-market opportunities.
+        </p>
+
+        <h3 className={h3Class}>How many hours per week should a searcher spend on deal sourcing?</h3>
+
+        <p>
+          During the active search phase (months 3&ndash;18), successful searchers typically dedicate 60&ndash;80% of their working hours to deal sourcing activities, which translates to 30&ndash;40 hours per week. This includes list building, outreach execution, broker calls, initial screening conversations, and CRM management. According to <em>Buy Then Build</em> by Walker Deibel and multiple practitioner surveys, searchers who fall below 20 hours per week on sourcing activities consistently underperform on pipeline metrics. The remaining 20&ndash;40% of time is split between advancing existing opportunities through the funnel, investor updates, and professional development. Discipline in protecting sourcing time&mdash;even when active deals demand attention&mdash;is one of the strongest predictors of search success.
+        </p>
+
+        <h3 className={h3Class}>Is cold email or direct mail more effective for proprietary deal sourcing?</h3>
+
+        <p>
+          Both channels have distinct advantages. Cold email campaigns typically generate response rates of 3&ndash;8% on initial outreach and can be scaled cost-effectively to hundreds of contacts per week. Direct mail (physical letters) achieves lower absolute response rates of 2&ndash;5%, but the quality of responses tends to be significantly higher&mdash;business owners who take the time to respond to a letter are generally more seriously considering a transition. At a cost of $2&ndash;$4 per letter, a campaign of 500 letters runs $1,000&ndash;$2,000, which is modest relative to the potential return. Many experienced searchers recommend a hybrid approach: cold email as the primary volume channel, supplemented by direct mail to the highest-priority targets, and LinkedIn outreach (20&ndash;35% connection acceptance rates) for relationship building.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) &mdash; comprehensive data on deal sourcing channels, conversion rates, and acquisition outcomes</li>
+          <li>Richard S. Ruback &amp; Royce Yudkoff, <em>HBR Guide to Buying a Small Business</em> (2017) &mdash; foundational frameworks for deal sourcing strategy and broker relationship management</li>
+          <li>Walker Deibel, <em>Buy Then Build</em> (2018) &mdash; tactical guidance on direct outreach campaigns, CRM setup, and proprietary deal sourcing for acquisition entrepreneurs</li>
+        </ul>
       </div>
     </article>
   );

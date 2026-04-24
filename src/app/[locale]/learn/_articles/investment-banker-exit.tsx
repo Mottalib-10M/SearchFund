@@ -82,6 +82,23 @@ export default function InvestmentBankerExitArticle() {
         <li><Link href="/learn/strategic-vs-financial-sale" className="text-apple-accent hover:underline">Strategic vs. Financial Sale</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much does it cost to hire an investment banker for a lower middle market exit?</h3>
+      <p className={bodyClass}>
+        For transactions in the $5&ndash;30M range typical of search fund exits, expect total investment banking fees of 3&ndash;5% of the transaction value. Axial&rsquo;s 2024 fee survey shows the median success fee for sub-$25M deals is 4%, with most banks also charging a monthly retainer of $10&ndash;25K (typically credited against the success fee at close). Most bankers have minimum fee floors of $150K&ndash;$500K regardless of deal size. Additional costs include data room expenses ($2K&ndash;$5K), marketing materials ($5K&ndash;$15K), and travel. For a $15M EBITDA business selling at 6x ($90M EV), total banking fees would typically be $2.7M&ndash;$4.5M. The higher fees at smaller deal sizes reflect the similar level of work required regardless of transaction value.
+      </p>
+
+      <h3 className={h3Class}>When should a search fund CEO start preparing for an exit?</h3>
+      <p className={bodyClass}>
+        Begin exit preparation 12&ndash;18 months before your target exit date, and engage an investment banker 6&ndash;9 months before. Stanford GSB&rsquo;s research on search fund exits found that companies with 12+ months of exit preparation sold at multiples 1.0&ndash;1.5x higher than those that initiated sale processes opportunistically. Preparation includes cleaning up financials (2&ndash;3 years of audited or reviewed statements), professionalizing operations, reducing customer and key-person concentration, and building the management team so the business operates independently of you. Harvard Business Review recommends building a &ldquo;sale-ready&rdquo; business from day one, as the disciplines that make a business attractive to buyers also make it better to operate.
+      </p>
+
+      <h3 className={h3Class}>What is the typical timeline for a sell-side M&amp;A process?</h3>
+      <p className={bodyClass}>
+        A complete sell-side process typically takes 6&ndash;9 months from investment banker engagement to close. The phases are: preparation (4&ndash;6 weeks for CIM creation, data room setup, and buyer list development), marketing (4&ndash;6 weeks for teaser distribution and CIM delivery), first round (3&ndash;4 weeks to receive and evaluate IOIs), management presentations (2&ndash;3 weeks), final bids and LOI negotiation (3&ndash;4 weeks), and buyer due diligence through closing (6&ndash;10 weeks). According to Axial&rsquo;s market data, the median time from engaging a banker to signed LOI is 3&ndash;4 months, with an additional 2&ndash;3 months for due diligence and closing. Processes involving strategic buyers often move faster than those involving financial sponsors.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>Selecting and Managing Your Sell-Side Advisor</em> (2024)</li>

@@ -71,6 +71,24 @@ export default function PortfolioConstructionSearchFundArticle() {
         <li><Link href="/learn/risk-factors-search-fund" className="text-apple-accent hover:underline">Risk Factors in Search Fund Investing</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>How many search fund investments do I need for adequate diversification?</h3>
+        <p>
+          Experienced search fund investors recommend a minimum portfolio of 20&ndash;30 investments across multiple vintages to achieve meaningful diversification. According to the Stanford GSB 2024 Search Fund Study, returns in the asset class are highly concentrated &mdash; the top 10&ndash;15% of investments generate the majority of portfolio returns, while approximately 25% of search funds never complete an acquisition and 15% of completed acquisitions underperform. Pacific Lake Partners&rsquo; portfolio construction research shows that investors with fewer than 15 investments face significant variance in outcomes, with portfolio-level returns ranging from negative to 5x+. By contrast, investors with 25+ investments across 5+ vintage years consistently achieve 2&ndash;3x net MOIC and 20&ndash;30% gross IRR, which represents the asset class&rsquo;s true risk-adjusted return profile.
+        </p>
+
+        <h3 className={h3Class}>How much capital should I reserve for acquisition-phase follow-on investments?</h3>
+        <p>
+          Investors should reserve 60&ndash;70% of their total allocated search fund capital for acquisition-phase follow-on investments. According to the IESE Business School&rsquo;s 2024 International Search Fund Study, the acquisition-phase investment is typically 2&ndash;5x the initial search capital commitment, meaning an investor who commits $100,000 to a search fund should expect to invest an additional $200,000&ndash;$500,000 when an acquisition is identified. Failing to reserve adequate capital for follow-on investments is one of the most common mistakes new search fund investors make &mdash; if you deploy too much capital in search-phase commitments, you may be unable to exercise your pro rata rights on the best acquisition opportunities, which is where the majority of returns are generated.
+        </p>
+
+        <h3 className={h3Class}>What is the expected timeline for search fund portfolio returns?</h3>
+        <p>
+          Search fund portfolios exhibit a pronounced J-curve effect, with negative or flat returns in years 1&ndash;3 and meaningful distributions beginning in years 4&ndash;5. According to Stanford GSB data, the median time from search fund formation to first meaningful distribution is approximately 5&ndash;6 years, with full portfolio realization taking 8&ndash;12 years. The first 2 years are the search phase (capital deployed with no returns), followed by 3&ndash;5 years of post-acquisition value creation, and finally exit events in years 5&ndash;8 that generate cash distributions. Investors should plan their personal liquidity needs accordingly and avoid allocating capital to search funds that they may need within the first 5 years. The long-duration nature of search fund investing is one reason the asset class remains less crowded than other alternative investment categories.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Search Fund Study: Investor Returns Analysis</em> (2024)</li>

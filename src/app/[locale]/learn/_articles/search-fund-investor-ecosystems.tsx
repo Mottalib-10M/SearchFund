@@ -84,6 +84,23 @@ export default function SearchFundInvestorEcosystemsArticle() {
         <li><Link href="/learn/international-vs-us-returns" className="text-apple-accent hover:underline">International vs. US Search Fund Returns</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How many investors does a typical search fund need to raise from?</h3>
+      <div className={bodyClass}>
+        <p>A typical traditional search fund raise requires conversations with 30&ndash;50 potential investors to secure commitments from 15&ndash;25. Search capital checks range from $50K&ndash;250K per investor, while acquisition capital commitments are typically $500K&ndash;5M per investor. The Stanford GSB Center for Entrepreneurial Studies reports over 300 active search fund investors in the US alone. The process typically takes 3&ndash;6 months and is relationship-intensive &mdash; every investor meeting should end with &ldquo;who else should I talk to?&rdquo; to leverage warm introductions through the network.</p>
+      </div>
+
+      <h3 className={h3Class}>How does the European search fund investor ecosystem differ from the US?</h3>
+      <div className={bodyClass}>
+        <p>The European search fund investor market is smaller but growing rapidly, centered around IESE in Barcelona and INSEAD in Fontainebleau. Dedicated European funds like Istria Capital, ETAG, and Cassel Capital focus exclusively on European search funds. Typical check sizes are smaller than in the US (&euro;50K&ndash;200K for search capital, &euro;500K&ndash;3M for acquisition capital). A notable gap exists in many European markets: there are more searchers than investors, creating competition for capital. As a result, many European searchers supplement local capital by raising from US investors, particularly those with Stanford, HBS, or IESE connections.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the best way to connect with search fund investors?</h3>
+      <div className={bodyClass}>
+        <p>MBA alumni networks remain the primary channel for connecting with search fund investors. The annual search fund conferences at Stanford, IESE, and Booth are considered the best venues for meeting investors in person. Beyond conferences, warm introductions through classmates, professors, and existing searchers are far more effective than cold outreach. Researching each investor&rsquo;s preferences &mdash; geography, industry, check size, and value-add capabilities &mdash; before approaching them demonstrates professionalism and increases conversion rates. Dedicated search fund investor groups like Pacific Lake Partners, Search Fund Partners, and Relay Investments also organize portfolio conferences that create networking opportunities.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>

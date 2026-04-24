@@ -94,6 +94,23 @@ export default function CompensationIncentiveDesignArticle() {
         <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard Post-Acquisition</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How soon after an acquisition should I redesign the compensation structure?</h3>
+      <div className={bodyClass}>
+        <p>The recommended approach is a phased timeline: spend months 1&ndash;3 auditing current compensation and benchmarking against market data, months 3&ndash;6 designing the new framework and modeling cost impact, and implement at month 6 with clear communication about how the system works. SHRM research shows that rushing compensation changes in the first 90 days often backfires &mdash; employees interpret rapid changes as a signal that their contributions under the previous owner were undervalued. WorldatWork data indicates that companies that follow this phased approach achieve 30&ndash;40% higher employee satisfaction with new compensation structures compared to those that implement changes within the first quarter.</p>
+      </div>
+
+      <h3 className={h3Class}>What percentage of profits should be allocated to an employee bonus pool?</h3>
+      <div className={bodyClass}>
+        <p>Mercer&rsquo;s compensation benchmarking data for small and mid-size companies suggests allocating 5&ndash;15% of EBITDA to a performance bonus pool, depending on industry and competitive dynamics. The most effective structure uses a threshold/target/stretch framework: 50% payout at the threshold performance level, 100% at target, and 150% at stretch. Stanford GSB&rsquo;s research on search fund companies shows that operators who tie bonuses to both company-wide metrics (EBITDA, revenue growth) and individual KPIs (customer retention, production efficiency) produce the strongest alignment between individual performance and business outcomes. Annual bonuses work well for most roles, while quarterly payouts drive better results for sales and operations teams.</p>
+      </div>
+
+      <h3 className={h3Class}>What are phantom equity plans, and why are they popular in acquired businesses?</h3>
+      <div className={bodyClass}>
+        <p>Phantom equity (also called phantom stock or stock appreciation rights) is a cash-settled equity-like instrument that provides employees with economic exposure to company value growth without requiring actual share issuance. When the company is eventually sold, phantom equity holders receive a cash payment equal to their percentage of the increase in enterprise value. Stanford GSB&rsquo;s incentive design research shows that phantom equity is the most popular long-term incentive tool in search fund companies because it avoids the legal complexity and cost of actual equity issuance, doesn&rsquo;t dilute ownership, and creates powerful retention incentives through multi-year vesting schedules. Typical allocations range from 5&ndash;15% of equity value for the top 3&ndash;5 key employees.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>WorldatWork, <em>Total Rewards Framework for SMEs</em> (2024)</li>

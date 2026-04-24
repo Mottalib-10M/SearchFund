@@ -89,6 +89,23 @@ export default function CEOBoardTransitionArticle() {
         <li><Link href="/learn/second-time-searchers" className="text-apple-accent hover:underline">Second-Time Searchers</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How common is it for exited search fund CEOs to experience emotional difficulty after the sale?</h3>
+      <div className={bodyClass}>
+        <p>Extremely common. Stanford GSB and IESE research on post-exit career paths indicates that the vast majority of exited search fund CEOs experience some form of identity loss, purpose vacuum, or anti-climax in the weeks and months following their exit. After 5&ndash;7 years of intense daily responsibility, the sudden absence of decision-making and team leadership can be disorienting. Harvard Business Review&rsquo;s research on CEO transitions confirms that these feelings are a well-documented psychological phenomenon, not a sign of weakness. The recommended approach is to allow 3&ndash;6 months of genuine rest before committing to the next chapter.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the most common career path for search fund CEOs after they exit?</h3>
+      <div className={bodyClass}>
+        <p>According to IESE&rsquo;s longitudinal study of search fund operators, the most common post-exit paths are: (1) becoming a search fund investor and mentor (approximately 35% of exited CEOs), (2) launching a second search or acquiring another business independently (25&ndash;30%), (3) joining boards of search fund companies or PE-backed businesses (20%), and (4) building permanent holding companies or pursuing advisory roles (15&ndash;20%). Many exited CEOs combine multiple paths &mdash; investing in search funds while serving on boards and advising current operators. Second-time searchers have a significant advantage in deal sourcing, investor relationships, and operational credibility.</p>
+      </div>
+
+      <h3 className={h3Class}>How should I manage my wealth immediately after a liquidity event?</h3>
+      <div className={bodyClass}>
+        <p>Financial advisors specializing in liquidity events universally recommend against making major financial decisions in the first 6 months after an exit. The combination of sudden wealth, emotional transition, and the excitement of new opportunities creates conditions for poor decision-making. Engage a fee-only wealth advisor experienced with entrepreneurial liquidity events, park proceeds in conservative instruments while developing a long-term financial plan, and avoid committing to large investments, real estate purchases, or new business ventures during this cooling-off period. Stanford GSB&rsquo;s research shows that exited CEOs who wait at least 6 months before major financial commitments report higher long-term satisfaction with their wealth management outcomes.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford GSB, <em>Life After Search Fund: Post-Exit Career Paths</em> (2024)</li>

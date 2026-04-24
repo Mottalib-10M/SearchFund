@@ -74,6 +74,23 @@ export default function CybersecurityPostAcquisitionArticle() {
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the single most important cybersecurity action to take immediately after acquiring a small business?</h3>
+      <div className={bodyClass}>
+        <p>CISA&rsquo;s cybersecurity best practices for small businesses and NIST&rsquo;s Cybersecurity Framework both identify enabling multi-factor authentication (MFA) on all critical systems as the highest-impact single security measure. Verizon&rsquo;s Data Breach Investigations Report found that over 80% of hacking-related breaches involve stolen or weak credentials, and MFA blocks the vast majority of these attacks by requiring a second verification step beyond a password. The implementation cost is minimal &mdash; most cloud services, email platforms, and banking systems offer MFA at no additional charge &mdash; and deployment can be completed in days rather than weeks. Combined with a full access audit and credential reset in the first 30 days, MFA addresses the peak vulnerability window that ownership transitions create.</p>
+      </div>
+
+      <h3 className={h3Class}>How much should I budget for cybersecurity improvements in an acquired business?</h3>
+      <div className={bodyClass}>
+        <p>NIST&rsquo;s small business cybersecurity framework recommends budgeting 3&ndash;7% of IT spending for security in established SMEs, though newly acquired businesses with minimal existing security infrastructure may require a one-time investment of $15,000&ndash;$50,000 to establish a baseline. The core components include a team password manager ($3&ndash;8 per user per month), endpoint detection and response software ($5&ndash;15 per device per month), email security and phishing protection ($2&ndash;5 per user per month), and managed security services for 24/7 monitoring ($500&ndash;2,000 per month). CISA notes that the average cost of a data breach for small businesses exceeds $120,000 &mdash; and Verizon&rsquo;s breach data shows that 43% of cyberattacks target small businesses &mdash; so the ROI on these foundational investments is substantial relative to the potential exposure.</p>
+      </div>
+
+      <h3 className={h3Class}>How often should backup systems be tested, and what does a proper backup strategy look like?</h3>
+      <div className={bodyClass}>
+        <p>NIST&rsquo;s Cybersecurity Framework recommends testing backup restores at least quarterly, with the 3-2-1 backup strategy as the gold standard: three copies of all critical data, stored on two different media types, with one copy kept offsite or in the cloud. CISA&rsquo;s incident response data shows that organizations with tested, functional backups recover from ransomware attacks in hours rather than days and are far less likely to pay ransoms. The critical emphasis is on &ldquo;tested&rdquo; &mdash; many SMEs have backup systems that have never been verified through an actual restore. Verizon&rsquo;s breach report found that 60% of small businesses that experience a major data loss close within six months, making backup verification one of the most consequential yet often neglected operational disciplines in post-acquisition security management.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>CISA, <em>Cybersecurity Best Practices for Small and Medium Businesses</em> (2024)</li>

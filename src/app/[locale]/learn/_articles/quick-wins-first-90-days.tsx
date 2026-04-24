@@ -92,6 +92,24 @@ export default function QuickWinsFirst90DaysArticle() {
         <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What is the single highest-ROI quick win in an acquired business?</h3>
+        <p>
+          Price increases are consistently the single highest-ROI quick win available to new owners. According to McKinsey&rsquo;s research on post-acquisition value creation, a 3&ndash;5% across-the-board price increase drops straight to the bottom line and can improve profitability by 15&ndash;25% in a business with typical SME margins. Harvard Business Review data confirms that most owner-operated businesses have not raised prices in 2&ndash;5 years, creating a substantial gap between current pricing and market value. The key to successful price increases is framing them around value (&ldquo;we are investing in improved service capabilities&rdquo;), providing 60&ndash;90 days&rsquo; notice, delivering the news personally to top accounts, and implementing annual price escalation clauses (3&ndash;5% per year) in all new contracts to prevent the gap from reopening.
+        </p>
+
+        <h3 className={h3Class}>How do I prioritize which quick wins to tackle first?</h3>
+        <p>
+          The best quick wins are those that are high-impact, low-risk, and team-positive &mdash; meaning they make employees&rsquo; lives better, not harder. According to Stanford GSB research on search fund CEO strategies, the optimal sequence is: first, fix the number one employee complaint (days 1&ndash;14) to demonstrate that you listen and care; second, call your top 20 customers (days 1&ndash;14) to build loyalty and surface revenue opportunities; third, implement price increases and begin vendor renegotiations (days 15&ndash;30) for immediate financial impact; and fourth, upgrade basic technology and launch a cash flow forecast (days 31&ndash;60) for operational improvements. This sequence builds credibility with employees before tackling changes that might cause anxiety, and generates financial results that fund subsequent investments.
+        </p>
+
+        <h3 className={h3Class}>How quickly should I implement changes after acquiring a business?</h3>
+        <p>
+          The first 90 days represent a critical window of opportunity, but the balance between speed and thoughtfulness is essential. According to Harvard Business Review&rsquo;s research on leadership transitions, the first 14 days should be primarily spent listening, observing, and identifying opportunities &mdash; making hasty changes before understanding the business is the most common mistake new owners make. Days 15&ndash;60 are the sweet spot for implementing quick wins that deliver visible results, and days 61&ndash;90 should address compensation gaps, begin documentation efforts, and share early results with the team. McKinsey&rsquo;s post-acquisition research shows that CEOs who achieve 3&ndash;5 visible quick wins within the first 90 days build 40% more organizational trust than those who wait to implement comprehensive strategic plans, because visible progress energizes the team and creates momentum for larger changes ahead.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>The First 90 Days: Proven Strategies for Getting Up to Speed</em> (2024)</li>

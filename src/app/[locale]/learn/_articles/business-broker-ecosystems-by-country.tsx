@@ -94,6 +94,23 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
         <li><Link href="/learn/how-find-businesses-for-sale" className="text-apple-accent hover:underline">Where to Find Businesses for Sale</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Which country has the most developed business brokerage ecosystem?</h3>
+      <div className={bodyClass}>
+        <p>The United States has the world&rsquo;s most developed business brokerage market, with thousands of licensed brokers and M&amp;A advisors, major platforms like BizBuySell and Axial, and established industry associations (IBBA, M&amp;A Source). IBBA data shows that US brokers facilitate over 10,000 SME transactions annually through formal listing platforms, with many more occurring through private networks. The UK ranks second in market maturity, followed by the Netherlands and Australia. In contrast, many European countries (Germany, France, Italy, Spain) rely more heavily on accountants, chambers of commerce, and informal networks than traditional brokers for deal intermediation.</p>
+      </div>
+
+      <h3 className={h3Class}>How do I find business brokers in Germany and France if there are fewer online platforms?</h3>
+      <div className={bodyClass}>
+        <p>In Germany, the primary deal sourcing channels are Steuerberater (tax advisors), Wirtschaftsprüfer (auditors), the Sparkassen (savings bank) network, and the IHK (Chambers of Commerce) through their Nexxt-Change platform. DIHK reports that German Chambers of Commerce maintain succession databases matching thousands of buyers and sellers annually. In France, the CCI (Chambers of Commerce) operates the Transentreprise platform, and expert-comptable (accountants) serve as key intermediaries. BPI France&rsquo;s public investment bank also actively facilitates business transfers through financing and advisory programs. Building relationships with 10&ndash;20 local professional intermediaries in your target geography is essential for consistent deal flow in these markets.</p>
+      </div>
+
+      <h3 className={h3Class}>What are typical business broker commission rates across different countries?</h3>
+      <div className={bodyClass}>
+        <p>Broker commission structures vary significantly by country and deal size. In the US, smaller deals under $5M typically carry flat commissions of 8&ndash;12% of sale price, while larger deals use the Lehman Formula (5% of first $1M, 4% of second $1M, and so on). In the UK, mid-market deals carry commissions of 2&ndash;5%, with higher percentages (8&ndash;10%) for smaller transactions. In many European markets where accountants and chambers of commerce facilitate transactions, formal commission structures may not apply &mdash; advisors are compensated through ongoing professional service relationships instead. Always verify credentials and fee structures before engaging an intermediary, as broker regulation varies dramatically by jurisdiction.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>IBBA, <em>Business Brokerage Industry Report</em> (2024)</li>

@@ -610,6 +610,25 @@ export default function ReadingACIMArticle() {
       </p>
 
       <div className="mt-16 border-t border-gray-200 pt-8">
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <div className={bodyClass}>
+          <h3 className={h3Class}>How many CIMs should I expect to review before finding a deal?</h3>
+          <p>
+            Active searchers typically review 50&ndash;200+ CIMs over an 18&ndash;24 month search period before identifying and closing on an acquisition. According to Stanford GSB&rsquo;s Search Fund Primer, the funnel narrows dramatically at each stage: of every 100 CIMs reviewed, approximately 20&ndash;30 warrant follow-up questions, 5&ndash;10 progress to management meetings, 2&ndash;3 result in Letters of Intent, and only 1 closes. The conversion rate improves as you develop pattern recognition &mdash; experienced searchers can evaluate a CIM in 30&ndash;60 minutes and quickly identify deal-breakers versus opportunities worth pursuing. Building a systematic evaluation framework and deal log from the outset accelerates this learning curve and helps you compare opportunities consistently over time.
+          </p>
+
+          <h3 className={h3Class}>What is the most important red flag to watch for in a CIM?</h3>
+          <p>
+            Excessive EBITDA add-backs are the most dangerous red flag in CIM analysis. According to Deloitte&rsquo;s Quality of Earnings best practices research, if adjusted EBITDA is more than 40&ndash;50% higher than reported EBITDA, something is likely wrong &mdash; either the business is genuinely poorly managed (which creates execution risk for the buyer) or the seller is inflating adjustments to justify a higher valuation (which creates pricing risk). Other critical red flags include customer concentration above 30% of revenue in a single customer, declining revenue masked by add-backs, inconsistencies between tax returns and financial statements, and vague or missing information about key topics like customer retention, management transition, or reason for sale. The rule of thumb: if you cannot verify a specific one-time event and confirm it will not recur, do not accept the add-back.
+          </p>
+
+          <h3 className={h3Class}>Should I hire an advisor to help me evaluate CIMs?</h3>
+          <p>
+            For your first few acquisitions, sharing CIM analyses with experienced investors or advisors provides invaluable perspective, but you should develop the skill to evaluate CIMs independently. According to the Stanford GSB Search Fund Primer, most search fund investors expect their searchers to perform initial CIM screening independently, reserving advisor engagement for the <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of Earnings</Link> analysis and legal due diligence stages that follow an accepted LOI. That said, having a network of experienced searchers, investors, or <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link> members who can provide a second opinion on promising opportunities is extremely valuable &mdash; they can often spot industry-specific red flags or valuation issues that a first-time searcher might miss. The cost of formal advisory support during the CIM review stage is typically not justified given the high volume of opportunities that will be rejected.
+          </p>
+        </div>
+
         <h2 className={h2Class}>Sources and Further Reading</h2>
 
         <ul className={ulClass}>

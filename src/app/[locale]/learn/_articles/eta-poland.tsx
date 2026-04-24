@@ -470,6 +470,34 @@ export default function ETAPolandArticle() {
             best countries to buy a business
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why are Polish SME valuations lower than Western European markets?</h3>
+
+        <p>
+          Polish SMEs typically trade at 3&ndash;5x EBITDA compared to 5&ndash;7x in Germany or the Nordics. This discount reflects several factors: limited institutional buyer competition at the SME level (Poland&rsquo;s private equity industry is smaller and focused on larger transactions), a less mature M&amp;A advisory ecosystem that results in less competitive auction processes, and the perceived country risk premium associated with Central Europe. According to European Commission SBA data, fewer than 10% of Polish SMEs have formal succession plans, creating a seller&rsquo;s urgency that favors buyers. As the Polish ETA market matures and more institutional buyers enter the SME segment, multiples are expected to converge toward Western European levels&mdash;creating a window of opportunity for early-mover searchers who can acquire quality businesses at attractive entry prices.
+        </p>
+
+        <h3 className={h3Class}>How does Poland&rsquo;s 9% reduced corporate tax rate work for small businesses?</h3>
+
+        <p>
+          Poland offers a reduced corporate income tax (CIT) rate of just 9% for small taxpayers (annual revenue below EUR 2 million) and newly established companies. This rate, compared to the standard 19%, makes Poland one of the most tax-competitive jurisdictions in the EU for small businesses. Newly formed acquisition holding companies can benefit from the 9% rate in their early years if they meet the revenue threshold. Additionally, Poland&rsquo;s Estonian-style CIT option (ryczalt od dochod&oacute;w sp&oacute;lek), introduced in 2021, allows companies to defer corporate income tax entirely on retained profits&mdash;tax is triggered only upon distribution. For acquisition targets that reinvest profits into growth, this regime can significantly accelerate capital compounding and improve after-tax returns over a multi-year hold period.
+        </p>
+
+        <h3 className={h3Class}>What is the BGK guarantee program and how does it help search fund financing?</h3>
+
+        <p>
+          Bank Gospodarstwa Krajowego (BGK), Poland&rsquo;s state-owned development bank, provides de minimis guarantees covering up to 80% of the loan principal for SME acquisition financing. These guarantees significantly reduce lending risk for commercial banks, enabling first-time acquirers without extensive personal collateral to secure acquisition loans from major Polish banks including PKO Bank Polski, mBank, and Bank Pekao. BGK also administers EU structural fund programs providing subsidized loans for business development and succession. When combined with the Polish Development Fund (PFR), which offers equity co-investments and mezzanine financing, and seller financing of 15&ndash;30%, the Polish financing ecosystem enables search fund acquirers to structure deals with equity contributions as low as 20&ndash;30% of the total transaction value.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>European Commission, <em>SBA Fact Sheet: Poland</em> (2024) &mdash; comprehensive data on Polish SME demographics, succession dynamics, and business environment</li>
+          <li>Bank Gospodarstwa Krajowego (BGK), <em>SME Guarantee and Financing Programs</em> (2024) &mdash; details on de minimis guarantees and EU-funded lending programs</li>
+          <li>Polish Agency for Enterprise Development (PARP), <em>Report on the Condition of SMEs in Poland</em> (2024) &mdash; industry data and succession planning statistics</li>
+        </ul>
       </div>
     </article>
   );

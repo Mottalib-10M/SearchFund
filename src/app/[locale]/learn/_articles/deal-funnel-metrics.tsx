@@ -401,6 +401,26 @@ export default function DealFunnelMetricsArticle() {
           The businesses you ultimately acquire will likely come from systematic execution of this process, not from a lucky break. Commit to the discipline of funnel management from day one, and you'll dramatically improve your odds of a successful search.
         </p>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses does a typical searcher need to contact to close one deal?</h3>
+
+        <p className={bodyClass}>
+          Based on aggregated data from the Stanford Search Fund Primer and interviews with successful searchers, a typical searcher needs to contact 300&ndash;750 businesses to ultimately close one acquisition. This wide range reflects differences in outreach quality, industry focus, and deal sourcing strategy. Searchers who invest in personalized, relationship-driven outreach and warm introductions can achieve response rates of 20&ndash;25%, dramatically reducing the total volume required compared to those relying on templated cold emails with 5&ndash;10% response rates. The key takeaway is that the search is fundamentally a numbers game, but quality at each stage of the funnel can substantially improve efficiency.
+        </p>
+
+        <h3 className={h3Class}>What is the most common reason deals die during due diligence?</h3>
+
+        <p className={bodyClass}>
+          According to Pacific Lake Partners and multiple search fund operator surveys, the most common reasons deals fail during due diligence are financial discrepancies discovered during the quality of earnings analysis (accounting for roughly 30&ndash;35% of deal failures), followed by seller cold feet or unrealistic valuation expectations (25&ndash;30%), and inability to secure financing on acceptable terms (15&ndash;20%). Even after entering exclusivity and spending $100,000&ndash;$300,000 on professional advisors, only 40&ndash;60% of deals in diligence actually close. This underscores the importance of conducting thorough desktop diligence before submitting LOIs and maintaining multiple opportunities in your pipeline simultaneously.
+        </p>
+
+        <h3 className={h3Class}>What CRM tools do most successful searchers use to track their deal funnel?</h3>
+
+        <p className={bodyClass}>
+          The most popular CRM tools among search fund entrepreneurs include HubSpot (free tier), Pipedrive, Streak (Gmail-integrated), and Airtable, according to surveys by the Stanford Search Fund community and <em>Buy Then Build</em> by Walker Deibel. HubSpot and Pipedrive are favored for their sales-pipeline visualization features, while Airtable appeals to searchers who prefer customizable database structures. Regardless of tool, the critical requirement is consistent daily updating and weekly review. Successful searchers track 7&ndash;10 key data points per opportunity&mdash;including source, stage, financial metrics, last contact date, and next action&mdash;and use dashboard views to monitor conversion rates and identify bottlenecks in real time.
+        </p>
+
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>

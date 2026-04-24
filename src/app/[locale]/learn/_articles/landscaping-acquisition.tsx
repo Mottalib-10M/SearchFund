@@ -74,6 +74,23 @@ export default function LandscapingAcquisitionArticle() {
         <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What are typical valuation multiples for landscaping businesses?</h3>
+      <p className={bodyClass}>
+        Landscaping businesses typically trade at 3&ndash;6x EBITDA, with maintenance-focused companies commanding higher multiples due to their recurring revenue base. According to IBISWorld&rsquo;s 2024 industry analysis, landscaping companies with 60%+ recurring maintenance revenue trade at 4.5&ndash;6x EBITDA, while project-based design/build companies trade at 3&ndash;4.5x. The NALP Landscape Industry Market Report found that companies with year-round revenue (maintenance + snow removal + holiday lighting) achieve the highest multiples because they demonstrate four-season cash flow stability. Equipment condition significantly affects valuation&mdash;a well-maintained fleet adds value while deferred maintenance creates a hidden liability that should be deducted.
+      </p>
+
+      <h3 className={h3Class}>How important is the H-2B visa program for landscaping acquisitions?</h3>
+      <p className={bodyClass}>
+        The H-2B temporary worker visa program is critical for many landscaping businesses, particularly in regions with tight labor markets. NALP&rsquo;s 2024 data shows that approximately 35% of landscaping companies with more than 20 employees rely on H-2B workers for seasonal labor, and companies with established H-2B programs have a significant competitive advantage in recruitment. During due diligence, verify the company&rsquo;s H-2B application history, worker retention rates, and compliance with Department of Labor requirements. An established H-2B pipeline (with returning workers who know the routes and customers) is a genuine business asset that can take 2&ndash;3 years to build from scratch.
+      </p>
+
+      <h3 className={h3Class}>What is the fastest way to improve margins after acquiring a landscaping business?</h3>
+      <p className={bodyClass}>
+        The two fastest margin improvement levers are price increases and route density optimization. Aspire Software&rsquo;s 2024 benchmarking data shows that many landscaping operators haven&rsquo;t raised prices in 2&ndash;3 years, and a 5&ndash;10% increase typically results in less than 3% customer churn. Route optimization&mdash;using GPS tracking and routing software to maximize properties serviced per crew per day&mdash;can improve labor productivity by 15&ndash;25%. Additionally, upselling existing maintenance customers into higher-margin services (fertilization, aeration, pest control, irrigation) adds revenue without new customer acquisition costs. Combined, these levers can improve EBITDA margins by 5&ndash;10 percentage points within the first 12 months.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>NALP, <em>Landscape Industry Market Report</em> (2024)</li>

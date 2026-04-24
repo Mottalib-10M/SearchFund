@@ -74,6 +74,23 @@ export default function SBALoanStateByStateArticle() {
         <li><Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller Financing</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Which US states are best for SBA acquisition financing?</h3>
+      <div className={bodyClass}>
+        <p>California, Texas, and Florida consistently lead in SBA 7(a) lending volume, together accounting for roughly 30% of all SBA acquisition loans nationally. These states benefit from deep ecosystems of SBA-preferred lenders, active SBDC advisor networks, and large pools of small businesses available for acquisition. States with no income tax &mdash; including Texas, Florida, Nevada, Wyoming, Washington, South Dakota, and Tennessee &mdash; further improve post-acquisition cash flow by reducing the new owner&rsquo;s overall tax burden. The SBA Office of Advocacy reports that states with 50+ active SBA lenders see significantly more competitive loan terms than states with fewer than 10 participating lenders.</p>
+      </div>
+
+      <h3 className={h3Class}>How long does SBA 7(a) loan approval take for a business acquisition?</h3>
+      <div className={bodyClass}>
+        <p>SBA 7(a) loan approval typically takes 30&ndash;90 days from application to closing, though the timeline varies depending on the lender and deal complexity. SBA Preferred Lenders (PLP) can approve loans internally without SBA headquarters review, often cutting approval time to 30&ndash;45 days. Standard lenders must submit the application to the SBA for review, which adds 2&ndash;4 weeks. Best practice is to begin the SBA application process immediately after signing the letter of intent, not after completing due diligence. Applying to 2&ndash;3 lenders simultaneously is recommended, as terms, appetite, and timelines vary significantly between institutions.</p>
+      </div>
+
+      <h3 className={h3Class}>Can SBA loans be combined with seller financing for an acquisition?</h3>
+      <div className={bodyClass}>
+        <p>Yes, and this is a common structure in search fund and ETA acquisitions. The SBA requires a 10&ndash;20% equity injection from the buyer, and in some structures, seller financing can count toward this equity injection &mdash; provided the seller note is placed on &ldquo;full standby&rdquo; (no payments of principal or interest during the SBA loan term) and is fully subordinated to the SBA loan. The SBA&rsquo;s standby requirements are specific and non-negotiable, so both buyer and seller must ensure the seller note terms comply with SBA guidelines before finalizing the deal structure. National SBA lenders like Live Oak Bank, Celtic Bank, and Harvest Small Business Finance are experienced in structuring these combined financing packages.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>SBA, <em>7(a) Loan Program Performance Data</em> (2024)</li>

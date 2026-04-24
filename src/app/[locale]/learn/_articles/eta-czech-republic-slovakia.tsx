@@ -74,6 +74,26 @@ export default function ETACzechRepublicSlovakiaArticle() {
         <li><Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">Cross-Border Acquisitions in Europe</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What makes the Czech Republic and Slovakia attractive compared to Western European markets?</h3>
+
+      <div className={bodyClass}>
+        <p>The primary advantages are entry valuations and the timing of the succession wave. Czech and Slovak SMEs typically trade at 3&ndash;6x EBITDA, significantly below the 5&ndash;7x multiples seen in Germany, France, or the Nordics, according to the European Commission&rsquo;s SBA Fact Sheets. The post-1989 generation of entrepreneurs who founded businesses during the transition from a planned to a market economy is now reaching retirement age, creating a growing supply of businesses needing external successors. Additionally, both countries are EU members with access to the single market, strong manufacturing bases (the Czech Republic has the highest industrial output per capita in the EU), and competitive labor costs&mdash;factors that provide genuine operational advantages for businesses serving Western European clients.</p>
+      </div>
+
+      <h3 className={h3Class}>Do I need to speak Czech or Slovak to acquire and operate a business in these countries?</h3>
+
+      <div className={bodyClass}>
+        <p>Czech and Slovak language skills are strongly recommended for deal-making and essential for post-acquisition operations outside of Prague and Bratislava. While younger professionals in the capital cities speak English fluently, older business owners, factory workers, and government officials in regional areas typically do not. All legal documents, court filings, regulatory submissions, and tax returns are in the local language. According to the Czech Statistical Office, approximately 70% of SME employees outside Prague have limited English proficiency. Searchers who are not fluent should consider partnering with a local co-searcher or operating partner who can bridge the language gap, particularly during negotiations and the critical post-acquisition transition period.</p>
+      </div>
+
+      <h3 className={h3Class}>How does the Czech Republic&rsquo;s low unemployment rate affect post-acquisition operations?</h3>
+
+      <div className={bodyClass}>
+        <p>The Czech Republic consistently records one of the lowest unemployment rates in the EU (2&ndash;3%), which creates a tight labor market that presents both challenges and opportunities for acquirers. Hiring is difficult and expensive in competitive sectors like IT, engineering, and skilled manufacturing. Wage inflation has been running at 5&ndash;8% annually in recent years. However, this same tightness means that well-run businesses with strong employee cultures and competitive compensation packages have extremely low turnover&mdash;a valuable asset in an acquisition. Post-acquisition, searchers should invest in employee retention programs, competitive benefits, and training and development to maintain workforce stability. Some acquirers also leverage Slovakia&rsquo;s slightly more available labor market for shared services or back-office functions.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Czech Statistical Office, <em>Business Demographics Report</em> (2024)</li>

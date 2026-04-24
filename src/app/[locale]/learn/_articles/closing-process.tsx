@@ -417,6 +417,32 @@ export default function ClosingProcessArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does it typically take to close an SME acquisition from signed LOI?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          For SME acquisitions in the $1M&ndash;$20M range, the typical timeline from signed LOI to closing is 60&ndash;120 days. Conventional bank-financed deals generally close in 60&ndash;90 days, while SBA-financed deals often take 90&ndash;120 days due to additional lender underwriting requirements. The American Bar Association&rsquo;s M&amp;A practice data shows that third-party consent delays (landlords, franchisors, key customers) are the number one cause of closing delays, followed by lender documentation requirements and last-minute due diligence findings. Build at least 2&ndash;3 weeks of buffer into your closing timeline, and start the consent process as early as possible.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>What is a working capital true-up, and when does it happen?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          A working capital true-up is the most common post-closing adjustment in SME acquisitions. The purchase agreement specifies a target working capital level (typically the trailing 12-month average). An estimated closing statement is prepared 1&ndash;3 days before closing, with the purchase price paid based on estimated figures. Within 60&ndash;90 days after closing, the buyer prepares a final working capital determination. The seller then has 30 days to review and dispute the calculation. If actual working capital exceeds the target, the buyer pays the difference to the seller; if it falls short, the seller reimburses the buyer (often from escrow). SBA SOP 50 10 provides detailed guidance on these procedures for government-backed transactions.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>How can I prevent wire fraud during the closing process?</h3>
+
+      <div className={bodyClass}>
+        <p>
+          Wire fraud in M&amp;A transactions has increased dramatically, with hackers intercepting email communications and sending fraudulent wire instructions. The ABA Business Law Section recommends several critical safeguards: always confirm wire instructions by phone using a known, pre-verified number (never a number from a recent email), require verbal confirmation through multiple channels if wire instructions change at any point, send a small test wire ($100) to verify account information before the main transfer, require recipients to confirm receipt on closing day, and use encrypted portals for transmitting sensitive financial information. These out-of-band verification procedures can prevent the catastrophic loss of funds that has affected dozens of M&amp;A transactions in recent years.
+        </p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>

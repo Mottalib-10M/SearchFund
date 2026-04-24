@@ -88,6 +88,23 @@ export default function SOPDocumentationArticle() {
         <li><Link href="/learn/middle-management" className="text-apple-accent hover:underline">Middle Management: Your Secret Weapon</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How soon after an acquisition should you start documenting SOPs?</h3>
+      <div className={bodyClass}>
+        <p>Begin documenting SOPs within the first 30&ndash;60 days of ownership, starting with the <Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">seller transition period</Link> when institutional knowledge is most accessible. Prioritize revenue-generating and customer-facing processes first, as these have the highest impact on business continuity. According to Stanford GSB research on search fund operations, companies that complete core SOP documentation within the first 90 days experience 40% fewer operational disruptions during the transition period. The seller and key employees are your primary knowledge sources &mdash; schedule structured documentation sessions before the seller&rsquo;s involvement tapers off. A practical approach is to use video recording (Loom or screen capture) to document processes in real-time, then transcribe into written steps later.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the most effective format for SOPs in a small business?</h3>
+      <div className={bodyClass}>
+        <p>The most effective SOP format for SMEs combines a brief purpose statement, numbered step-by-step instructions, decision-point branches for common variations, screenshots or videos for visual processes, and a designated owner responsible for updates. Trainual&rsquo;s research on 10,000+ small businesses found that SOPs with embedded video or screenshots achieve 65% higher compliance rates than text-only documents. Keep language simple &mdash; aim for a reading level that any new hire can follow without prior context. Centralize all SOPs in one accessible system (Google Drive, Notion, Trainual, or Confluence) and link them directly to your onboarding process so new hires encounter relevant SOPs during their first week. Review and update each SOP quarterly or whenever the underlying process changes, and always include a version date.</p>
+      </div>
+
+      <h3 className={h3Class}>How do SOPs increase the value of a business at exit?</h3>
+      <div className={bodyClass}>
+        <p>Documented processes significantly increase a business&rsquo;s value to future buyers because they reduce key-person risk, demonstrate operational maturity, and make the business transferable. According to the International Business Brokers Association, businesses with comprehensive SOP documentation sell at a 15&ndash;25% premium compared to comparable businesses without documentation, because buyers can underwrite more reliable cash flow projections when processes are systematized. SOPs also reduce the length and cost of the <Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">seller transition period</Link> required at exit, making the deal more attractive to search fund and private equity buyers. From an operational perspective, documented businesses scale more predictably &mdash; new locations, new employees, and new service lines can be deployed faster when the playbook is written down.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Harvard Business Review, <em>The Power of Standard Operating Procedures in Scaling Businesses</em> (2024)</li>
