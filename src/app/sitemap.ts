@@ -42,6 +42,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // --- English-only static pages ---
   const englishOnlyPages: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
+    { path: "/the-eta-journey", priority: 0.9, changeFrequency: "weekly" },
     { path: "/searchers", priority: 0.8, changeFrequency: "daily" },
     { path: "/investors", priority: 0.8, changeFrequency: "daily" },
     { path: "/community", priority: 0.7, changeFrequency: "daily" },

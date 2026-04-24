@@ -22,6 +22,7 @@ export default function Navbar() {
   const isDashboard = pathname.startsWith("/dashboard");
 
   const navLinks = [
+    { href: "/the-eta-journey" as const, label: t("theJourney"), highlight: true },
     { href: "/listings" as const, label: t("marketplace"), badge: t("soon") },
     { href: "/learn" as const, label: t("learn") },
     { href: "/community" as const, label: t("community") },
@@ -74,7 +75,11 @@ export default function Navbar() {
               <li key={link.href}>
                 <Link
                   href={link.href}
-                  className="text-sm text-apple-gray-700 transition-colors hover:text-apple-black inline-flex items-center gap-1.5"
+                  className={`text-sm transition-colors inline-flex items-center gap-1.5 ${
+                    "highlight" in link && link.highlight
+                      ? "font-semibold text-[#5856D6] hover:text-[#4240B0]"
+                      : "text-apple-gray-700 hover:text-apple-black"
+                  }`}
                 >
                   {link.label}
                   {"badge" in link && link.badge && (
