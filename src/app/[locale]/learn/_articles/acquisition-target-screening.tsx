@@ -15,8 +15,11 @@ export default function AcquisitionTargetScreeningArticle() {
           businesses in 18 months and reviewing 50 in 6. A systematic
           screening process eliminates poor fits quickly, letting you spend
           time where it matters &mdash; deep evaluation of the 10&ndash;20%
-          of deals that could be your acquisition. This guide provides a
-          complete screening framework.
+          of deals that could be your acquisition. According to the Stanford
+          GSB 2024 Search Fund Study, searchers who closed acquisitions
+          reviewed a median of 83 opportunities before submitting an LOI,
+          underscoring the importance of an efficient screening process.
+          This guide provides a complete screening framework.
         </p>
 
         <h2 className={h2Class}>The screening funnel</h2>
@@ -157,6 +160,46 @@ export default function AcquisitionTargetScreeningArticle() {
               target criteria
             </Link></li>
         </ul>
+
+        <p>
+          IESE&rsquo;s 2024 International Search Fund Study notes that
+          international searchers often face thinner deal flow than US-based
+          peers, making disciplined screening even more critical &mdash;
+          wasting time on a poor-fit opportunity has a higher opportunity
+          cost when the pipeline is smaller.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses do I need to screen to find one to acquire?</h3>
+        <p>
+          The typical search fund funnel starts with 500&ndash;2,000
+          identified businesses and narrows to 200&ndash;400 after Tier 1
+          filters, 50&ndash;100 CIM reviews, 15&ndash;30 deep evaluations,
+          5&ndash;15 seller meetings, 3&ndash;8 LOIs, and ultimately one
+          closed acquisition. This process takes 12&ndash;24 months on
+          average.
+        </p>
+
+        <h3 className={h3Class}>What are the most important screening criteria?</h3>
+        <p>
+          At Tier 1, focus on revenue minimum, EBITDA floor, target industry,
+          geography, and a reasonable asking multiple. At Tier 2, dig into
+          revenue trends, customer concentration, owner dependency, and
+          margin consistency. At Tier 3, recalculate adjusted EBITDA from
+          raw financials, model the deal, and assess management depth and
+          competitive positioning.
+        </p>
+
+        <h3 className={h3Class}>Should I use a scoring rubric or go with intuition?</h3>
+        <p>
+          Use a scoring rubric. A structured 1&ndash;5 scale across
+          8&ndash;10 criteria removes emotional bias and enables
+          consistent comparison between opportunities. Businesses scoring
+          above your threshold (e.g., 35+ out of 50) advance to deep
+          evaluation. This approach is especially important when multiple
+          team members or investors are involved in screening decisions.
+        </p>
 
         <p>
           For the complete deal sourcing strategy that feeds your screening

@@ -73,7 +73,7 @@ export default function ExitReadinessPlanArticle() {
 
         <h3 className={h3Class}>Advisory team</h3>
         <ul className={ulClass}>
-          <li><strong>Engage an investment banker/M&amp;A advisor:</strong> For businesses above $3M EBITDA, a sell-side advisor typically adds 15&ndash;25% to the sale price (net of fees)</li>
+          <li><strong>Engage an investment banker/M&amp;A advisor:</strong> According to Axial&apos;s sell-side M&amp;A data, for businesses above $3M EBITDA a sell-side advisor typically adds 15&ndash;25% to the sale price (net of fees)</li>
           <li><strong>Sell-side QoE:</strong> Commission your own{" "}
             <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
               Quality of Earnings
@@ -105,7 +105,7 @@ export default function ExitReadinessPlanArticle() {
 
         <h2 className={h2Class}>Valuation drivers at exit</h2>
         <ul className={ulClass}>
-          <li><strong>EBITDA level:</strong> $3M&ndash;$5M+ EBITDA commands significantly higher multiples than $1M&ndash;$2M (PE threshold)</li>
+          <li><strong>EBITDA level:</strong> $3M&ndash;$5M+ EBITDA commands significantly higher multiples than $1M&ndash;$2M, as the Stanford GSB 2024 Search Fund Study shows this is the PE buyer threshold</li>
           <li><strong>Growth rate:</strong> Growing businesses sell for 1&ndash;2x higher multiples than flat businesses</li>
           <li><strong>
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
@@ -116,6 +116,56 @@ export default function ExitReadinessPlanArticle() {
           <li><strong>Management depth:</strong> A business that doesn&rsquo;t depend on the CEO sells for more</li>
           <li><strong>Clean financials:</strong> Fewer add-backs = higher buyer confidence = higher price</li>
         </ul>
+
+        <h2 className={h2Class}>The dual-track process</h2>
+        <p>
+          Many experienced search fund CEOs run a dual-track exit process,
+          simultaneously pursuing both a <Link href="/learn/strategic-vs-financial-sale" className="text-apple-accent hover:underline">strategic sale and a financial sale</Link>.
+          Strategic buyers (competitors, adjacent companies) typically pay
+          higher multiples because they can realize synergies, but the
+          process is less certain. Financial buyers (PE firms, family offices,
+          other search funds) offer more standardized processes and faster
+          timelines. Running both tracks in parallel creates competitive
+          tension that maximizes price while providing a fallback if one
+          track stalls. Your M&amp;A advisor manages this complexity, which
+          is one of the key reasons their fees are justified for businesses
+          above the $3M EBITDA threshold.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long does it take to prepare a business for sale?</h3>
+        <p>
+          Plan for 18 months of preparation before going to market. Months
+          18&ndash;12: build audit-quality financials, reduce owner dependency,
+          document processes. Months 12&ndash;6: diversify revenue, lock in
+          contracts, resolve legal issues. Months 6&ndash;3: engage an M&amp;A
+          advisor, commission sell-side QoE, prepare the CIM. Months 3&ndash;0:
+          run a controlled auction process. Rushing this timeline typically
+          results in a lower sale price.
+        </p>
+
+        <h3 className={h3Class}>What increases the value of a business before selling?</h3>
+        <p>
+          The top value drivers are EBITDA level ($3M+ opens the PE buyer
+          universe), growth rate (growing businesses sell for 1&ndash;2x higher
+          multiples), <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">recurring revenue</Link> (adds
+          1&ndash;3x to the multiple), customer diversification (no customer
+          above 10%), management depth, and clean financials with minimal
+          add-backs. Addressing these factors during the preparation window
+          has a direct, measurable impact on exit valuation.
+        </p>
+
+        <h3 className={h3Class}>Should I hire an investment banker to sell my business?</h3>
+        <p>
+          For businesses above $3M EBITDA, yes. A sell-side M&amp;A advisor
+          typically adds 15&ndash;25% to the sale price (net of their fees)
+          by running a competitive process, identifying the right buyers,
+          and managing negotiations professionally. Below $3M EBITDA, the
+          economics are less compelling and business brokers or direct
+          outreach may be more appropriate. See our <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">guide to working
+          with advisors</Link> for more detail.
+        </p>
 
         <p>
           For a complete view of exit options, see our{" "}

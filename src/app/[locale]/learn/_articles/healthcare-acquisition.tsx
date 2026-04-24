@@ -22,8 +22,9 @@ export default function HealthcareAcquisitionArticle() {
         <h2 className={h2Class}>Why healthcare is attractive for search funds</h2>
         <p>
           Healthcare spending in the United States exceeds $4.5 trillion annually
-          and is projected to grow at 5-6% per year through 2030, driven by an
-          aging population, chronic disease prevalence, and expanded insurance
+          and is projected to grow at 5-6% per year through 2030, according to
+          CMS National Health Expenditure projections, driven by an aging
+          population, chronic disease prevalence, and expanded insurance
           coverage. This creates a demand floor that is largely immune to economic
           cycles. During the 2008-2009 recession, healthcare employment actually
           grew while every other major sector contracted. For a search fund
@@ -88,8 +89,9 @@ export default function HealthcareAcquisitionArticle() {
         <p>
           Dental is one of the most proven roll-up sectors in healthcare. Dental
           Service Organizations (DSOs) have consolidated thousands of practices
-          over the past decade, yet only 10-15% of US dental practices are
-          DSO-affiliated, leaving a massive fragmented market. A single dental
+          over the past decade, yet according to the ADA Health Policy Institute,
+          only 10-15% of US dental practices are DSO-affiliated, leaving a
+          massive fragmented market. A single dental
           practice with $1.5M-$5M in revenue typically trades at 4-7x EBITDA — our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> explains
           how these multiples are determined.
@@ -168,9 +170,10 @@ export default function HealthcareAcquisitionArticle() {
           information (PHI). During due diligence, assess the target&apos;s
           HIPAA compliance program, including risk assessments, employee
           training records, business associate agreements, breach notification
-          procedures, and IT security infrastructure. HIPAA violations can
-          result in penalties of $100 to $50,000 per violation, up to $1.5
-          million per year for each violation category.
+          procedures, and IT security infrastructure. According to the HHS
+          Office for Civil Rights, HIPAA violations can result in penalties of
+          $100 to $50,000 per violation, up to $1.5 million per year for each
+          violation category.
         </p>
 
         <h3 className={h3Class}>Stark Law and Anti-Kickback Statute</h3>
@@ -334,6 +337,30 @@ export default function HealthcareAcquisitionArticle() {
           investment.
         </p>
 
+        <h2 className={h2Class}>Credentialing and provider enrollment</h2>
+        <p>
+          Provider credentialing &mdash; the process of verifying a provider&rsquo;s
+          qualifications and enrolling them with insurance payers &mdash; is a
+          critical operational function that buyers often underestimate. Each
+          provider must be credentialed with every insurance company the practice
+          accepts, and re-credentialing occurs every 2&ndash;3 years. A change of
+          ownership can trigger re-credentialing for the entire practice, which
+          takes 90&ndash;180 days per payer. During this period, the practice may
+          be unable to bill certain insurers, creating a revenue gap that must be
+          modeled in your financial projections. The{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis
+          should account for any credentialing-related revenue disruption.
+        </p>
+        <p>
+          To mitigate credentialing risk, structure the acquisition as a stock
+          purchase (rather than asset purchase) whenever possible. Stock purchases
+          preserve existing provider numbers and payer contracts, avoiding the
+          re-enrollment process entirely. If an asset purchase is required for
+          tax or liability reasons, begin the credentialing process 90 days
+          before closing and negotiate a transition services agreement with the
+          seller to bridge the gap.
+        </p>
+
         <h2 className={h2Class}>The bottom line</h2>
         <p>
           Healthcare services acquisitions offer search fund entrepreneurs a
@@ -341,12 +368,55 @@ export default function HealthcareAcquisitionArticle() {
           clear consolidation opportunities. The regulatory complexity creates
           a barrier to entry that keeps valuations more reasonable than in
           sectors like SaaS and protects established operators from easy
-          disruption. The key is assembling the right advisory team — see our guide on{" "}
-          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> — understanding the
+          disruption. The key is assembling the right advisory team &mdash; see our guide on{" "}
+          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> &mdash; understanding the
           reimbursement dynamics of your specific sub-sector, and prioritizing
-          provider retention above all else. Get these fundamentals right, and
+          provider retention above all else. Understanding{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link> best
+          practices is especially important in healthcare, where clinical staff
+          relationships drive patient retention. Get these fundamentals right, and
           healthcare can be one of the most rewarding sectors for entrepreneurship
           through acquisition.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What healthcare sub-sectors are best suited for search fund acquisitions?</h3>
+        <p>
+          The most proven sub-sectors for ETA include dental practices, home
+          health agencies, behavioral health clinics, physical therapy practices,
+          and veterinary clinics. These share common traits: fragmented ownership,
+          single-location operators in the $2M&ndash;$15M revenue range, and
+          clear roll-up economics with multiple arbitrage of 2&ndash;3x between
+          individual practice and platform valuations. Dental and veterinary have
+          the longest track record of successful consolidation, while behavioral
+          health and home health are earlier in their consolidation cycles,
+          offering more opportunity for first-movers.
+        </p>
+
+        <h3 className={h3Class}>How do regulatory requirements affect healthcare acquisition timelines?</h3>
+        <p>
+          Healthcare acquisitions typically take 30&ndash;60 days longer to close
+          than non-regulated businesses due to licensing transfers, Medicare/Medicaid
+          change-of-ownership filings, credentialing processes, and state-specific
+          regulatory approvals. Certificate of Need (CON) states can add additional
+          months. Budget 120&ndash;180 days from LOI to close for most healthcare
+          deals, compared to 90&ndash;120 days in non-regulated sectors. Starting
+          regulatory workstreams early and engaging experienced healthcare counsel
+          are essential for staying on timeline.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest risk in healthcare acquisitions?</h3>
+        <p>
+          Provider retention is the single biggest risk. In healthcare services,
+          providers (physicians, dentists, therapists) generate the revenue and
+          maintain patient relationships. Losing a key provider post-acquisition
+          can mean losing 20&ndash;40% of revenue overnight, as patients often
+          follow their provider. This risk can be mitigated through employment
+          agreements with 2&ndash;3 year terms, enforceable non-compete clauses,
+          retention bonuses, and genuine partnership in practice governance.
+          The second major risk is reimbursement changes, particularly for
+          businesses with heavy Medicare or Medicaid exposure.
         </p>
       </div>
     </article>

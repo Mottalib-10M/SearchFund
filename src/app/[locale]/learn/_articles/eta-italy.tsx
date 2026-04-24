@@ -27,7 +27,8 @@ export default function ETAItalyArticle() {
           Italy&apos;s economy is uniquely structured compared to its European
           peers. While Germany relies on large industrial conglomerates and
           France on centralized national champions, Italy&apos;s economic engine
-          is its vast network of small and medium enterprises. These 4.4 million
+          is its vast network of small and medium enterprises. According to
+          ISTAT (Italy&apos;s national statistics institute), these 4.4 million
           SMEs account for approximately 80% of total employment and generate
           nearly 70% of GDP. The famous &ldquo;quarto capitalismo&rdquo;
           (fourth capitalism) describes the layer of mid-sized companies &mdash;
@@ -46,7 +47,8 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Family business culture</h2>
         <p>
-          An estimated 85% of Italian businesses are family-owned, the highest
+          According to AIDAF (the Italian Association of Family Businesses),
+          an estimated 85% of Italian businesses are family-owned, the highest
           rate among major European economies. This family-centric culture shapes
           every aspect of ETA in Italy, from deal sourcing to negotiation to
           post-acquisition transition. Italian business owners &mdash;
@@ -86,8 +88,8 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>The generational transition challenge</h2>
         <p>
-          Italy faces an acute generational succession crisis. According to
-          Unioncamere and ISTAT data, over 30% of Italian business owners are
+          Italy faces an acute generational succession crisis. A 2023 Unioncamere-InfoCamere
+          report found that over 30% of Italian business owners are
           above 60 years old, and roughly 10% of all SMEs will face a
           leadership transition within the next five years. Yet fewer than
           one-third of Italian family businesses survive to the second
@@ -146,7 +148,7 @@ export default function ETAItalyArticle() {
           debt service through the Italian fiscal consolidation regime
           (consolidato fiscale), enables dividend distributions from the
           target to the holding company with favorable tax treatment, and
-          provides a clean platform for future add-on acquisitions.
+          provides a clean platform for future <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> add-on acquisitions.
         </p>
 
         <h2 className={h2Class}>Financing an acquisition in Italy</h2>
@@ -432,6 +434,39 @@ export default function ETAItalyArticle() {
           demonstrating the long-term commitment that Italian business owners
           need to see before entrusting their life&apos;s work to a new
           steward.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How big is the succession crisis in Italy?</h3>
+        <p>
+          Italy has 4.4 million SMEs &mdash; the largest number in Europe &mdash;
+          and the average business owner is over 65 years old. Only 30% of
+          Italian family businesses survive to the second generation. Unioncamere
+          estimates that over 200,000 succession events will occur over the next
+          decade, creating enormous deal flow for <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">acquisition entrepreneurs</Link>.
+        </p>
+
+        <h3 className={h3Class}>What legal structures are used for Italian business acquisitions?</h3>
+        <p>
+          The SRL (Societ&agrave; a Responsabilit&agrave; Limitata) is the most
+          common vehicle for SME acquisitions in Italy, similar to a GmbH or
+          Ltd. For larger deals, the SPA (Societ&agrave; per Azioni) is used.
+          Italian company law requires notarized closing documents and Registro
+          Imprese filings. The acquiring entity is typically a newly formed SRL
+          holding company (NewCo) that benefits from the consolidato fiscale
+          regime.
+        </p>
+
+        <h3 className={h3Class}>Is there a search fund ecosystem in Italy?</h3>
+        <p>
+          Italy&apos;s search fund ecosystem is emerging, anchored by SDA
+          Bocconi University in Milan and supported by academic research from
+          Politecnico di Milano and LUISS. A growing number of Italian search
+          funds have completed acquisitions, and interest is accelerating.
+          Italian family offices, particularly in Milan and Northern Italy, are
+          beginning to invest in search funds alongside established
+          pan-European <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">search fund investors</Link>.
         </p>
       </div>
     </article>

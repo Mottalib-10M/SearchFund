@@ -38,13 +38,13 @@ export default function ETAVsFranchiseComparisonArticle() {
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
               35%+ median IRR
             </Link>{" "}
-            for traditional search funds. Self-funded searchers can earn even more on their personal equity</li>
+            for traditional search funds according to the Stanford GSB 2024 Search Fund Study. Self-funded searchers can earn even more on their personal equity</li>
         </ul>
 
         <h2 className={h2Class}>The franchise path</h2>
         <ul className={ulClass}>
           <li><strong>What you buy:</strong> The right to operate under an established brand using a proven business system</li>
-          <li><strong>Cost:</strong> $100K&ndash;$2M+ initial investment (franchise fee + buildout + working capital). Some franchises require $5M+</li>
+          <li><strong>Cost:</strong> $100K&ndash;$2M+ initial investment (franchise fee + buildout + working capital), according to the International Franchise Association (IFA). Some franchises require $5M+</li>
           <li><strong>Autonomy:</strong> Limited. The franchisor controls brand, menu/offering, suppliers, pricing, marketing, and store design</li>
           <li><strong>Brand:</strong> Established, recognizable brand with marketing support</li>
           <li><strong>Returns:</strong> Varies widely. Average franchise owner earns $80K&ndash;$150K/year. Top performers earn $300K+. Capital returns of 15&ndash;25% annually for well-performing units</li>
@@ -97,6 +97,53 @@ export default function ETAVsFranchiseComparisonArticle() {
           <li>You want to avoid ongoing royalties and franchisor control</li>
           <li>You want a clear exit path to PE or strategic buyers at premium multiples</li>
         </ul>
+
+        <h2 className={h2Class}>The hidden cost of franchise royalties</h2>
+        <p>
+          One aspect that aspiring franchise owners often underestimate is the
+          cumulative impact of ongoing royalties. A typical franchise charges
+          5&ndash;8% of gross revenue in royalties plus 2&ndash;4% in mandatory
+          marketing fees. On a business generating $1 million in annual revenue,
+          that represents $70,000 to $120,000 per year that flows to the
+          franchisor rather than the owner &mdash; every year, in perpetuity.
+          Over a ten-year hold period, this can total $700,000 to $1.2 million
+          in fees that an independent business owner through ETA would retain
+          entirely. This structural cost difference is a primary driver of the
+          wealth creation gap between the two paths.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Is it better to buy a franchise or an existing business through ETA?</h3>
+        <p>
+          Buy a franchise if you want a proven system, brand recognition, and
+          built-in training. Buy an existing business through{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> if you
+          want full autonomy, higher wealth creation potential (20&ndash;25%
+          equity), and a clear exit path to PE or strategic buyers at premium
+          multiples. ETA has higher upside but requires more independent
+          decision-making and operational leadership.
+        </p>
+
+        <h3 className={h3Class}>Do franchises make more money than independent businesses?</h3>
+        <p>
+          On average, no. Average franchise owners earn $80K&ndash;$150K per year
+          and pay ongoing royalties (5&ndash;8%) and marketing fees (2&ndash;4%).
+          Search fund CEOs earn $150K&ndash;$250K in salary plus 20&ndash;25%
+          equity that can be worth $2M&ndash;$10M or more at exit. However,
+          franchises have lower failure rates and more predictable income
+          streams.
+        </p>
+
+        <h3 className={h3Class}>Can you finance a franchise with an SBA loan?</h3>
+        <p>
+          Yes. The <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) loan program</Link> finances
+          both franchise purchases and independent business acquisitions.
+          However, the SBA maintains a franchise directory of pre-approved
+          concepts, and loans for franchise units may have different
+          underwriting criteria than loans for independent businesses. Both
+          paths typically require a 10&ndash;20% buyer equity injection.
+        </p>
 
         <p>
           For a broader comparison, see{" "}

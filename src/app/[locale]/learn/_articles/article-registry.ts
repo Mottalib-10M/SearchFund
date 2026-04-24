@@ -712,7 +712,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "33% IRR and 5.5x MOIC but significant dispersion. Return distribution, risk factors, comparison to PE/VC/S&P 500, and portfolio construction for search fund investors.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
@@ -1851,7 +1851,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Screen 500+ opportunities down to 1 acquisition. The 4-tier funnel: 30-second filters, CIM review, deep evaluation, and seller engagement — with scoring rubrics and cadence.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
@@ -2764,14 +2764,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Compare BizBuySell, Axial, DealStream, SearchFunder, and European platforms. How to use marketplaces as 20–30% of your deal sourcing strategy.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "IBBA", title: "Market Pulse Survey", year: 2024 },
-      { name: "Axial", title: "Lower Middle Market Report", year: 2024 },
+      { name: "Axial", title: "Lower Middle Market Report", url: "https://www.axial.net/forum/", year: 2024 },
+      { name: "BizBuySell", title: "Insight Report — Q4 2024", url: "https://www.bizbuysell.com/insight-report/", year: 2024 },
     ],
     faqs: [
       { question: "What is the best website to buy a business?", answer: "BizBuySell is the largest (45,000+ listings) for small businesses ($500K–$5M). Axial is the premier platform for lower middle market deals ($1M–$25M+ EBITDA). DealStream covers mid-market and international deals. In Europe, Fusacq (France), Nexxt-Change (Germany), and Daltons (UK) are market leaders." },
       { question: "Should you buy a business from an online marketplace?", answer: "Marketplaces should be 20–30% of your deal sourcing. Combine with broker relationships (40–50%), direct outreach (20–30%), and referral networks (10–20%). Marketplace limitations: the best deals often sell through proprietary channels first, and listed deals face heavy competition from other buyers." },
+      { question: "How do I stand out as a buyer on a marketplace?", answer: "Stand out by: submitting a professional buyer profile with background, criteria, and proof of funds; responding to new listings within 24 hours; having a signed NDA template ready; asking informed questions that show you've read the listing; and being transparent about timeline. Brokers prioritize serious, prepared buyers over generic inquiries." },
     ],
   },
   {
@@ -2999,13 +3001,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Understand mezzanine debt: typical terms, rates, warrants, PIK interest, subordination, and when mezz makes sense for SME acquisitions.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Allied Capital", title: "Mezzanine Financing Guide", year: 2023 },
-      { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
+      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/", year: 2024 },
+      { name: "SBA", title: "SBIC Program Overview and Performance Data", url: "https://www.sba.gov/funding-programs/investment-capital/sbic", year: 2024 },
     ],
     faqs: [
       { question: "What is mezzanine financing in an acquisition?", answer: "Mezzanine debt sits between senior bank debt and equity in the capital stack. It carries higher interest rates (12-20% including PIK) and often includes equity warrants (1-5% of the company). Mezz lenders accept subordination to senior lenders in exchange for higher returns. For search fund acquisitions, mezz is most useful when: (1) the deal is too large for senior debt alone; (2) you want to minimize equity dilution; (3) the business has strong cash flow but insufficient collateral for more senior debt. Minimum deal sizes for institutional mezz are typically $5M+." },
+      { question: "What is the minimum deal size for mezzanine financing?", answer: "Most institutional mezzanine lenders require a minimum of $2M-$5M, corresponding to acquisitions of $15M+. SBICs can invest as little as $500K. BDCs occasionally go below $2M. Family offices may provide flexible subordinated debt at smaller sizes, though terms vary." },
+      { question: "Can you combine mezzanine debt with an SBA loan?", answer: "Generally no. The SBA 7(a) program typically prohibits subordinated debt without explicit approval, which is rarely granted for traditional mezzanine. Seller financing on standby is an exception. If you need additional leverage beyond SBA, maximize the seller note first before exploring mezz alternatives outside the SBA structure." },
     ],
   },
 
@@ -3115,13 +3120,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Negotiate bank debt like a pro: interest rates, covenants, prepayment, collateral, and how to use competing term sheets as leverage.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
-      { name: "ABA Banking Journal", title: "Best Practices in Acquisition Lending", year: 2023 },
+      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/", year: 2024 },
+      { name: "ABA Banking Journal", title: "Best Practices in Acquisition Lending", url: "https://www.aba.com/", year: 2023 },
+      { name: "SBA", title: "Standard Operating Procedure 50 10 — Loan Terms and Conditions", year: 2024 },
     ],
     faqs: [
       { question: "What is the most important bank loan term to negotiate?", answer: "Financial covenants — specifically the Debt Service Coverage Ratio (DSCR) threshold. Set too tight (e.g., 1.50x when the business runs at 1.60x), you'll breach covenants during normal business fluctuations. Negotiate: covenant levels with adequate headroom, cure periods (30 days to fix), equity cure rights (inject cash to fix), and a holiday period (first 6-12 months covenant-free). After covenants, focus on personal guarantee burn-off provisions and prepayment terms." },
+      { question: "How many lenders should I approach for an acquisition loan?", answer: "Approach 3-5 lenders minimum. Multiple term sheets create competitive tension for better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process at LOI signing — financing delays are the top cause of failed closings in SME acquisitions." },
+      { question: "Should I choose a fixed or variable interest rate?", answer: "It depends on risk tolerance and rate environment. Fixed rates provide payment certainty during the uncertain post-acquisition period. Variable rates (SOFR + spread) start lower but carry rate risk. For loans over $5M, consider an interest rate swap. SBA 7(a) rates are capped at SOFR + 2.75% for loans over $50K, making them attractive in high-rate environments." },
     ],
   },
 
@@ -3495,7 +3503,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Understand which licenses transfer automatically, which require re-application, and how deal structure affects license continuity in business acquisitions.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
       { name: "SBA", title: "Licenses and Permits Guide for Business Acquisitions", year: 2024 },
       { name: "ABA", title: "License Transfer Issues in M&A Transactions", year: 2024 },
@@ -4122,7 +4130,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Best practices for evaluating search fund CEO performance: a balanced framework with financial (40%), strategic (25%), people (20%), and board relations (15%) criteria.",
     datePublished: "2025-06-15",
-    dateModified: "2025-06-15",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "Board Governance in Search Fund Companies", year: 2024 },
       { name: "Harvard Business Review", title: "CEO Performance Evaluation Best Practices", year: 2024 },
@@ -5843,17 +5851,19 @@ export const allArticles: ArticleMeta[] = [
     title: "Employment Law in Business Acquisitions: TUPE, WARN & More",
     description:
       "TUPE automatic transfer, WARN Act notice requirements, benefits/compensation handling, works councils, and stock vs. asset purchase employment impact.",
-    readTime: "10 min read",
+    readTime: "12 min read",
     tag: "Guide",
     category: "Legal & Tax",
     ogTitle: "Employment Law in Business Acquisitions: TUPE, WARN & More",
     ogDescription:
       "Navigate employment law: TUPE automatic transfer (UK/EU), WARN Act (US), benefits handling, works councils, and stock vs. asset deal differences.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "UK Government", title: "TUPE: Transfer of Undertakings Guidance", year: 2024 },
+      { name: "ACAS", title: "Handling TUPE Transfers", year: 2024 },
       { name: "U.S. Department of Labor", title: "WARN Act Compliance Guide", year: 2024 },
+      { name: "European Commission", title: "Acquired Rights Directive (2001/23/EC)", year: 2024 },
     ],
     faqs: [
       { question: "What is TUPE and how does it affect business acquisitions?", answer: "TUPE (Transfer of Undertakings) regulations automatically transfer all employees to the buyer on their existing terms in qualifying asset deals in the UK and EU. Key points: dismissals solely because of the transfer are automatically unfair, the buyer must maintain existing salary/benefits/seniority, and both parties must inform and consult employee representatives. TUPE does not apply to pure share purchases (employees stay with the same entity). Pension rights don't fully transfer but the buyer must offer a minimum alternative." },
@@ -6033,17 +6043,19 @@ export const allArticles: ArticleMeta[] = [
     title: "Double Taxation Treaties: How They Affect Acquisitions",
     description:
       "DTT mechanics, withholding tax rates by country pair, dividend/interest/capital gains articles, EU Parent-Subsidiary Directive, and substance requirements.",
-    readTime: "10 min read",
+    readTime: "12 min read",
     tag: "Guide",
     category: "Legal & Tax",
     ogTitle: "Double Taxation Treaties & Business Acquisitions",
     ogDescription:
       "Navigate double taxation treaties: withholding rates, EU Parent-Subsidiary Directive (0% dividends), capital gains treatment, and substance requirements.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
       { name: "OECD", title: "Model Tax Convention on Income and on Capital", year: 2024 },
       { name: "European Commission", title: "Parent-Subsidiary Directive (2011/96/EU)", year: 2024 },
+      { name: "PwC", title: "Worldwide Tax Summaries: Withholding Tax Rates", year: 2024 },
+      { name: "OECD", title: "Multilateral Convention to Implement Tax Treaty Related Measures (MLI)", year: 2024 },
     ],
     faqs: [
       { question: "How do double taxation treaties affect cross-border acquisitions?", answer: "DTTs reduce withholding taxes on cross-border dividends (to 0-15%), interest (to 0-10%), and ensure capital gains are typically taxed only in the seller's country. Within the EU, the Parent-Subsidiary Directive provides 0% withholding on dividends for 10%+ corporate holdings. DTTs determine which country taxes what income, preventing double taxation through tax credits or exemptions. The choice of holding company jurisdiction directly affects these rates, making DTT analysis essential for international deal structuring." },
@@ -6643,17 +6655,19 @@ export const allArticles: ArticleMeta[] = [
     title: "Dutreil Pact: French Business Succession Tax Exemption",
     description:
       "The Pacte Dutreil explained: 75% transfer tax exemption, three phases (collective commitment, transfer, individual commitment), practical scenarios, and quantified tax savings.",
-    readTime: "14 min read",
+    readTime: "16 min read",
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Dutreil Pact: 75% Tax Exemption on French Business Transfers",
     ogDescription:
       "The Pacte Dutreil reduces French business transfer taxes by 75%. How the three phases work, ETA scenarios, holding company combinations, and up to €394K savings on a €1M transfer.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "French Tax Code", title: "Article 787 B CGI — Pacte Dutreil", year: 2024 },
       { name: "Bpifrance", title: "Guide de la Transmission d'Entreprise", year: 2024 },
+      { name: "DGFiP", title: "Bulletin Officiel des Finances Publiques — Pacte Dutreil", year: 2024 },
+      { name: "Cour de cassation", title: "Jurisprudence on Société Holding Animatrice", year: 2024 },
     ],
     faqs: [
       { question: "What is the Dutreil pact?", answer: "The Pacte Dutreil (Article 787 B CGI) is France's most generous business succession tax incentive. It provides a 75% exemption on the taxable value of business shares transferred by donation or inheritance. Combined with the age reduction for donors under 70, the effective tax reduction can reach 87.5% — reducing transfer taxes on €1M of shares from €450K to just €56K." },
@@ -7726,10 +7740,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "5.5 million SMEs, Ltd/LLP structures, British Business Bank financing, and a mature advisory ecosystem. Your guide to ETA in the UK.",
     datePublished: "2024-10-22",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "British Business Bank", title: "Small Business Finance Markets", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "UK Department for Business and Trade", title: "Business Population Estimates", year: 2024 },
     ],
     faqs: [
       { question: "What makes the UK attractive for search fund acquisitions?", answer: "The UK offers: English-speaking market accessible to international searchers, a mature M&A advisory ecosystem, sophisticated business brokerage market, favorable company law (Ltd structure), relatively low regulatory burden, and a large pool of SMEs (5.5 million businesses). London also hosts a growing search fund investor community." },
@@ -7749,9 +7764,10 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "A massive succession crisis, lower multiples, ICO financing, and a nascent but growing ETA ecosystem. Discover the opportunity in Spain and Portugal.",
     datePublished: "2024-11-05",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "IESE", title: "Search Funds in Spain & Latin America", year: 2023 },
+      { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "DGIPYME", title: "Retrato de las PYME en Espa\u00f1a", year: 2024 },
     ],
     faqs: [
       { question: "Why is Spain considered Europe's leading search fund market?", answer: "Spain leads European search fund activity because of IESE Business School in Barcelona, which pioneered ETA education in Europe and hosts the annual IESE Search Fund Conference. Spain has produced more European search fund entrepreneurs than any other country, supported by a strong investor ecosystem and 2M+ businesses needing succession." },
@@ -7771,9 +7787,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "High-trust culture, premium SMEs, strong government financing (Vaekstfonden, Almi). Your guide to search fund acquisitions in the Nordic countries.",
     datePublished: "2024-11-19",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "CBS Copenhagen", title: "Nordic Search Fund Ecosystem", year: 2023 },
+      { name: "EF Education First", title: "EF English Proficiency Index", year: 2024 },
+      { name: "Svenskt N\u00e4ringsliv", title: "F\u00f6retagarnas \u00e5lders- och successionsstatistik", year: 2023 },
     ],
     faqs: [
       { question: "What makes the Nordic countries attractive for search fund acquisitions?", answer: "The Nordics offer: high trust business culture, transparent financial reporting, strong rule of law, educated workforce, tech-forward businesses, high English proficiency, and favorable business succession demographics. Sweden alone has 1.2 million companies, with a significant portion facing generational transitions in the next decade." },
@@ -7816,10 +7834,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "GmbH/AG structures, cantonal tax competition, the Nachfolge crisis, and world-class SMEs. Your guide to search fund acquisitions in Switzerland.",
     datePublished: "2024-12-17",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Swiss Federal Statistical Office", title: "Business Demography Statistics", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "KMU-Institut University of St. Gallen", title: "Nachfolge in KMU", year: 2023 },
     ],
     faqs: [
       { question: "What makes Switzerland attractive for business acquisitions?", answer: "Switzerland offers: 600,000+ SMEs with many facing succession challenges, high profitability (Swiss businesses typically command premium margins), political stability, strong legal framework, access to German, French, and Italian-speaking markets, and a sophisticated financial ecosystem. Swiss cantonal banks actively finance business acquisitions." },
@@ -7839,9 +7858,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "4.4 million SMEs, deep family business culture, SRL/SPA structures, and SIMEST financing. Your guide to search fund acquisitions in Italy.",
     datePublished: "2025-01-07",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Bocconi", title: "Search Funds in Italy", year: 2023 },
+      { name: "ISTAT", title: "Struttura e competitivit\u00e0 del sistema delle imprese", year: 2024 },
+      { name: "Unioncamere-InfoCamere", title: "Rapporto sulla natalit\u00e0 e mortalit\u00e0 delle imprese", year: 2023 },
     ],
     faqs: [
       { question: "How big is the succession crisis in Italy?", answer: "Italy has 4.4 million SMEs — the largest number in Europe — and the average business owner is over 65 years old. Only 30% of Italian family businesses survive to the second generation. This creates an enormous opportunity for acquisition entrepreneurs, estimated at 200,000+ succession events over the next decade." },
@@ -7954,10 +7975,11 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Prêt Transmission (up to €1.5M, no collateral), Garantie Transmission (50–70% bank guarantee), prêt d'honneur (interest-free). How Bpifrance makes France one of the best markets for acquirers.",
     datePublished: "2025-04-21",
-    dateModified: "2025-04-21",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Bpifrance", title: "Transmission-Reprise d'Entreprise", year: 2024 },
       { name: "Réseau Entreprendre", title: "Prêt d'Honneur Program Data", year: 2024 },
+      { name: "IESE", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the Bpifrance Prêt Transmission?", answer: "The Prêt Transmission is Bpifrance's subordinated loan for business acquisitions: €40K–€1.5M, 5–7 year term, fixed rate 1–3% below market, and no collateral or personal guarantee required. It must be paired 1:1 with a commercial bank loan and serves as the junior tranche of the financing." },
@@ -8496,7 +8518,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Cap rates (5-8%) vs EBITDA multiples (3-6x), 80% LTV vs 50-60% acquisition financing. Compare returns, risk, and tax advantages.",
     datePublished: "2024-12-05",
-    dateModified: "2025-04-17",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "NCREIF", title: "Property Index Returns", year: 2024 },
@@ -9462,14 +9484,16 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Stanford GSB, HBS, Booth, INSEAD, IESE — which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems.",
     datePublished: "2025-04-22",
-    dateModified: "2025-04-22",
+    dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/entrepreneurship/", year: 2024 },
+      { name: "Harvard Business School", title: "Rock Center for Entrepreneurship", url: "https://www.hbs.edu/entrepreneurs/Pages/default.aspx", year: 2024 },
     ],
     faqs: [
       { question: "Which MBA programs are best for search funds?", answer: "The top 5 MBA programs for ETA: (1) Stanford GSB — pioneered search funds in 1984, largest ETA club, deepest investor network, (2) Harvard Business School — Ruback/Yudkoff course, strong alumni base, (3) Chicago Booth — growing ETA community, strong finance curriculum, (4) INSEAD — European ETA leader, international network, (5) IESE Barcelona — largest European search fund conference, Spanish/LatAm focus. Kellogg, Wharton, Columbia, and Darden also have growing programs." },
       { question: "Is an MBA worth it for search funds?", answer: "For traditional search funds: an MBA from a target program provides investor access, credibility, a peer network, and structured learning. The ROI is high if you plan to raise investor capital. For self-funded searches: an MBA is less necessary since you're using SBA financing rather than investor capital. Industry expertise and operational experience can substitute for the MBA brand. Many successful self-funded searchers have no MBA." },
+      { question: "Do I need an MBA to start a search fund?", answer: "No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds. Self-funded searchers are less likely to have MBAs. The key advantages — investor networks, peer community, structured learning — can be partially replicated through conferences, accelerators, and mentorship. However, for traditional search funds raising investor capital, an MBA from a recognized program significantly eases fundraising." },
     ],
   },
 
@@ -9671,9 +9695,10 @@ export const allArticles: ArticleMeta[] = [
     ogTitle: "How to Run an Effective Investor Meeting for Your Search Fund",
     ogDescription: "Master the art of search fund investor meetings. Learn how to prepare, structure your pitch, handle tough questions, and follow up effectively to secure commitments.",
     datePublished: "2025-04-23",
-    dateModified: "2025-04-23",
+    dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Entrepreneurship Through Acquisition Course Materials", year: 2024 },
     ],
     faqs: [

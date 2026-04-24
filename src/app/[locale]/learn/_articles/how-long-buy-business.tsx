@@ -14,9 +14,11 @@ export default function HowLongBuyBusinessArticle() {
           One of the most common questions from aspiring business buyers:
           how long will this actually take? The honest answer is 6&ndash;24
           months from the moment you start looking to the day you close.
-          The timeline depends on your approach (search fund vs.
-          self-funded), the complexity of the transaction, financing method,
-          and how competitive the market is.
+          According to the Stanford 2024 Search Fund Study, the median
+          traditional searcher takes approximately 20 months from fund
+          formation to acquisition close. The timeline depends on your
+          approach (search fund vs. self-funded), the complexity of the
+          transaction, financing method, and how competitive the market is.
         </p>
         <p>
           This guide breaks down each phase of the acquisition timeline
@@ -140,7 +142,7 @@ export default function HowLongBuyBusinessArticle() {
           Financing typically runs in parallel with due diligence:
         </p>
         <ul className={ulClass}>
-          <li><strong>SBA 7(a):</strong> 45&ndash;90 days from application to funding. Start early &mdash; SBA underwriting is the most common cause of closing delays.</li>
+          <li><strong>SBA 7(a):</strong> 45&ndash;90 days from application to funding, per SBA processing data. Start early &mdash; SBA underwriting is the most common cause of closing delays.</li>
           <li><strong>Conventional bank loan:</strong> 30&ndash;60 days</li>
           <li><strong>Search fund equity:</strong> 2&ndash;4 weeks (investors have pre-committed)</li>
           <li>
@@ -221,6 +223,55 @@ export default function HowLongBuyBusinessArticle() {
           is one of the most valuable traits in an acquirer. It&rsquo;s
           better to take an extra 3 months finding the right deal than to
           rush into the wrong one.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Can I speed up the acquisition timeline?</h3>
+        <p>
+          Yes, several actions meaningfully compress timelines. Getting SBA
+          pre-qualification before you identify a target eliminates 2&ndash;4
+          weeks of financing uncertainty. Hiring experienced M&amp;A counsel
+          and a CPA who have closed acquisitions before prevents the learning
+          curve that delays first-time advisors. Building broker relationships
+          3&ndash;6 months before you are ready to submit LOIs ensures a warm
+          pipeline when you start actively searching. The single biggest
+          accelerator, however, is searching full-time rather than part-time
+          &mdash; BizBuySell data suggests full-time searchers close 50&ndash;100%
+          faster than those searching alongside a day job.
+        </p>
+
+        <h3 className={h3Class}>What causes deals to fall through after the LOI is signed?</h3>
+        <p>
+          The most common deal-killers after LOI signing are due diligence
+          discoveries (undisclosed liabilities, financial discrepancies, or
+          customer concentration), financing failures (SBA underwriting
+          rejection, lender changes, or collateral shortfalls), and seller
+          cold feet. Approximately 30&ndash;50% of deals that reach LOI stage
+          fail to close, which is why experienced buyers always maintain
+          backup opportunities in their pipeline. A thorough{" "}
+          <Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">
+            red flags assessment
+          </Link>{" "}
+          before signing the LOI can reduce the likelihood of post-LOI
+          surprises.
+        </p>
+
+        <h3 className={h3Class}>Should I search for a business full-time or part-time?</h3>
+        <p>
+          If your financial situation allows it, full-time searching is
+          significantly more effective. Full-time searchers typically close
+          in 6&ndash;18 months, while part-time searchers take 12&ndash;24
+          months. The difference comes from faster response times (good deals
+          move quickly), more capacity for broker relationships and direct
+          outreach, and the ability to conduct deeper analysis on potential
+          targets. If you cannot search full-time, consider building a
+          detailed{" "}
+          <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">
+            search thesis
+          </Link>{" "}
+          with narrow criteria so you can focus your limited time on the
+          highest-quality opportunities.
         </p>
       </div>
     </article>

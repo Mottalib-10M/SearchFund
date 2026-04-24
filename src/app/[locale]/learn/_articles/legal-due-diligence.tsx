@@ -71,7 +71,7 @@ export default function LegalDueDiligenceArticle() {
         <ul className={ulClass}>
           <li><strong>Employment agreements:</strong> Review all executive and key employee contracts, including compensation, non-competes, and severance provisions</li>
           <li><strong>Non-compete and non-solicit agreements:</strong> Are key employees bound by restrictive covenants? Are these enforceable in the relevant jurisdiction?</li>
-          <li><strong>Employee classification:</strong> Independent contractor vs. employee (misclassification creates significant liability)</li>
+          <li><strong>Employee classification:</strong> Independent contractor vs. employee misclassification creates significant liability. According to the American Bar Association M&amp;A Due Diligence Guide, worker classification issues are among the top five legal risks uncovered during acquisition due diligence</li>
           <li><strong>Benefits and pension obligations:</strong> 401(k), health insurance, deferred compensation, unfunded pension liabilities</li>
           <li><strong>WARN Act / TUPE compliance:</strong> In the US, the Worker Adjustment and Retraining Notification Act; in the EU, TUPE transfer of undertakings protections</li>
           <li><strong>Handbook and policies:</strong> Review for compliance with current employment law</li>
@@ -120,10 +120,33 @@ export default function LegalDueDiligenceArticle() {
         <h2 className={h2Class}>Legal DD timeline and costs</h2>
         <ul className={ulClass}>
           <li><strong>Timeline:</strong> 3&ndash;6 weeks running in parallel with financial DD</li>
-          <li><strong>Legal counsel fees:</strong> $15K&ndash;$50K for buyer&rsquo;s counsel to conduct LDD (depends on deal complexity)</li>
+          <li><strong>Legal counsel fees:</strong> $15K&ndash;$50K for buyer&rsquo;s counsel to conduct LDD (depends on deal complexity), according to Stanford GSB acquisition cost benchmarks</li>
           <li><strong>Environmental:</strong> $5K&ndash;$15K for Phase I assessment (if applicable)</li>
           <li><strong>Specialist reviews:</strong> IP counsel, employment counsel, regulatory counsel as needed</li>
         </ul>
+        <h2 className={h2Class}>Negotiating legal protections in the purchase agreement</h2>
+        <p>
+          The findings from legal due diligence directly inform the
+          representations and warranties, indemnification provisions, and
+          escrow terms in the{" "}
+          <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">
+            purchase agreement
+          </Link>. Specific legal risks identified during LDD should be
+          addressed through targeted indemnities (seller agrees to cover
+          losses from identified risks), escrow holdbacks (a portion of
+          the purchase price held in escrow for 12&ndash;18 months), or
+          purchase price reductions. The most common negotiated protections
+          include indemnities for undisclosed litigation, tax liabilities,
+          employee classification issues, and environmental remediation costs.
+        </p>
+        <p>
+          For deal-killing issues discovered during legal DD &mdash; such as
+          unresolvable title defects, material pending litigation, or
+          regulatory non-compliance that threatens the operating license
+          &mdash; the buyer should have a clear termination right in the LOI
+          with recovery of any deposited funds and due diligence costs.
+        </p>
+
         <p>
           Legal DD works alongside{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
@@ -136,7 +159,55 @@ export default function LegalDueDiligenceArticle() {
           to form a complete picture. For the master checklist, see our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
-          </Link>.
+          </Link>. For specific guidance on contract provisions, see our{" "}
+          <Link href="/learn/spa-key-clauses" className="text-apple-accent hover:underline">
+            SPA key clauses
+          </Link>{" "}
+          guide.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the most commonly overlooked area of legal due diligence?</h3>
+        <p>
+          Employee classification (independent contractor vs. employee) is
+          the most commonly overlooked legal risk in SME acquisitions. Many
+          small businesses misclassify workers to reduce payroll taxes and
+          benefits costs. If the IRS or a state agency reclassifies these
+          workers post-acquisition, the buyer inherits liability for unpaid
+          payroll taxes, benefits, overtime, and penalties. In a share
+          purchase, this liability transfers automatically. In an asset
+          purchase, successor liability rules may still apply in some
+          jurisdictions. Review all 1099 relationships carefully and
+          assess each against the IRS common-law test.
+        </p>
+
+        <h3 className={h3Class}>How does deal structure affect legal due diligence scope?</h3>
+        <p>
+          In a share purchase, you acquire the entire legal entity,
+          including all known and unknown liabilities. This requires
+          more extensive legal DD because you inherit the company&rsquo;s
+          full legal history &mdash; every contract, every past dispute,
+          every regulatory interaction. In an asset purchase, you select
+          specific assets and assume only specified liabilities, reducing
+          (but not eliminating) legal risk. However, asset purchases
+          require individual assignment of every contract, lease, and
+          license, which adds complexity and time. Most SME acquisitions
+          structured as asset purchases take 2&ndash;4 weeks longer to
+          close due to the consent and assignment process.
+        </p>
+
+        <h3 className={h3Class}>When should I walk away from a deal based on legal DD findings?</h3>
+        <p>
+          Consider walking away when you discover material pending
+          litigation with uncertain outcomes that could exceed the
+          business&rsquo;s EBITDA, pervasive regulatory non-compliance
+          that threatens the operating license, key contracts with
+          change-of-control termination rights that counterparties refuse
+          to waive, undisclosed tax liabilities that the seller will not
+          indemnify, or IP ownership disputes that undermine the core
+          business. The cost of walking away from a bad deal is always
+          less than the cost of closing one.
         </p>
       </div>
     </article>

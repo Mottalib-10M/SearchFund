@@ -21,11 +21,11 @@ export default function HowToEvaluateSearcherArticle() {
 
         <h2 className={h2Class}>Why searcher selection matters</h2>
         <ul className={ulClass}>
-          <li><strong>Returns concentration:</strong> Stanford data shows{" "}
+          <li><strong>Returns concentration:</strong> The Stanford 2024 Search Fund Study shows{" "}
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
               search fund returns
             </Link>{" "}
-            are driven by the top quartile of operators. The median outcome is far less impressive</li>
+            are driven by the top quartile of operators, with the top 25% generating the vast majority of aggregate investor returns. The median outcome is far less impressive</li>
           <li><strong>Long commitment:</strong> You are backing a 7&ndash;10 year relationship (2 years of search + 5&ndash;8 years of operations)</li>
           <li><strong>Limited diversification:</strong> Each investment is a concentrated single-company bet. The operator is the biggest risk factor</li>
           <li><strong>No recourse:</strong> Once the searcher acquires a business, your capital is locked. There is no exit until the company is sold</li>
@@ -101,11 +101,34 @@ export default function HowToEvaluateSearcherArticle() {
 
         <h2 className={h2Class}>The interview process</h2>
         <ul className={ulClass}>
-          <li><strong>Multiple meetings:</strong> Spend 4&ndash;6 hours across 2&ndash;3 meetings before committing</li>
+          <li><strong>Multiple meetings:</strong> Pacific Lake Partners recommends spending 4&ndash;6 hours across 2&ndash;3 meetings before committing</li>
           <li><strong>Case discussion:</strong> Walk through a real (anonymized) deal together. How do they evaluate it?</li>
           <li><strong>6+ references:</strong> Talk to former managers, peers, and direct reports. Former direct reports are the most revealing</li>
           <li><strong>Co-investor diligence:</strong> Compare notes with other investors evaluating the same candidate</li>
         </ul>
+
+        <h2 className={h2Class}>Post-investment monitoring</h2>
+        <p>
+          Evaluating a searcher does not end at the commitment letter. Active
+          investors monitor searcher performance throughout the search phase
+          to protect their investment and maximize the probability of a
+          successful acquisition. Key monitoring touchpoints include monthly
+          update calls reviewing deal pipeline and sourcing activity, quarterly
+          reviews of search thesis refinement, and milestone-based assessments
+          at 6 and 12 months.
+        </p>
+        <p>
+          Watch for early warning signs during the search: a searcher who
+          has not submitted an LOI within 12 months may need coaching on
+          criteria refinement or deal evaluation. A searcher who submits
+          multiple LOIs that fail to close may have valuation discipline
+          issues. The best investors act as mentors and sounding boards
+          throughout the process, leveraging their experience with{" "}
+          <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">
+            portfolio construction
+          </Link>{" "}
+          to guide searchers toward better outcomes.
+        </p>
 
         <p>
           For the investor perspective on{" "}
@@ -116,6 +139,50 @@ export default function HowToEvaluateSearcherArticle() {
           <Link href="/learn/are-search-funds-good-investment" className="text-apple-accent hover:underline">
             whether search funds are a good investment
           </Link>, see our investor guides.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much weight should investors put on MBA pedigree?</h3>
+        <p>
+          While most traditional search fund entrepreneurs hold MBAs from
+          top programs (Stanford, Harvard, Wharton, IESE, INSEAD), the
+          Stanford 2024 Study shows that the specific school matters less
+          than the competencies developed there. Investors should focus on
+          demonstrated analytical rigor, leadership experience, and
+          operational instincts rather than the school name. Some of the
+          best-performing searchers have non-traditional backgrounds, and
+          the growing self-funded search community has expanded the pool
+          beyond the traditional MBA pipeline significantly.
+        </p>
+
+        <h3 className={h3Class}>What is the ideal age and experience level for a searcher?</h3>
+        <p>
+          Most successful searchers have 3&ndash;7 years of post-undergraduate
+          work experience, putting them in the 27&ndash;35 age range. Too
+          little experience and they lack the management skills needed to
+          run a business; too much and they may struggle with the compensation
+          reduction and ambiguity of the search process. The ideal candidate
+          has held positions with progressively increasing responsibility,
+          ideally including some P&amp;L ownership or general management
+          experience. Military veterans and former management consultants
+          often perform well due to their comfort with ambiguity and
+          structured problem-solving.
+        </p>
+
+        <h3 className={h3Class}>How many searchers should an investor back per year?</h3>
+        <p>
+          Active search fund investors typically back 2&ndash;6 new searchers
+          per year, balancing diversification with the capacity for meaningful
+          engagement. Backing too many searchers dilutes the time available
+          for mentorship and deal evaluation, which are critical to returns.
+          Most experienced investors report that their best outcomes come from
+          searchers with whom they have the closest working relationships.
+          See our{" "}
+          <Link href="/learn/risk-factors-search-fund-investing" className="text-apple-accent hover:underline">
+            risk factors guide
+          </Link>{" "}
+          for more on portfolio strategy.
         </p>
       </div>
     </article>

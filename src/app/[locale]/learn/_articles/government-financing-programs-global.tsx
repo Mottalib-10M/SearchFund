@@ -26,7 +26,7 @@ export default function GovernmentFinancingProgramsGlobalArticle() {
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a) loan program
             </Link></li>
-          <li><strong>Max amount:</strong> $5M</li>
+          <li><strong>Max amount:</strong> $5M (as of the SBA&apos;s current program guidelines)</li>
           <li><strong>Guarantee:</strong> 75&ndash;85% government guarantee to the lender</li>
           <li><strong>Equity required:</strong> 10&ndash;20% buyer injection (can include seller notes on standby)</li>
           <li><strong>Rates:</strong> Prime + 1.75&ndash;2.75% (variable)</li>
@@ -112,7 +112,7 @@ export default function GovernmentFinancingProgramsGlobalArticle() {
         <ul className={ulClass}>
           <li><strong>Program:</strong> Japan Finance Corporation (JFC) &mdash; Small Business Succession Financing</li>
           <li><strong>Products:</strong> Low-interest loans (0.5&ndash;2%) for qualified business succession</li>
-          <li><strong>Government priority:</strong> Business succession is a national policy priority due to the acute Nachfolge crisis (2.45M businesses at risk)</li>
+          <li><strong>Government priority:</strong> According to Japan&apos;s Ministry of Economy, Trade and Industry (METI), business succession is a national policy priority due to the acute crisis (2.45M businesses at risk of closure)</li>
           <li><strong>Tax incentives:</strong> Business succession tax deferrals and the &ldquo;Business Succession Smoothing Act&rdquo; simplify transfers</li>
           <li><strong>Key challenge:</strong> Programs are primarily designed for Japanese nationals or residents with permanent residency</li>
         </ul>
@@ -152,6 +152,55 @@ export default function GovernmentFinancingProgramsGlobalArticle() {
             </Link>{" "}
             can further reduce equity requirements in all markets</li>
         </ul>
+
+        <h2 className={h2Class}>Emerging programs to watch</h2>
+        <p>
+          Several countries are developing or expanding their government-backed
+          acquisition financing programs. The Netherlands is piloting
+          succession-focused lending through the BMKB guarantee scheme.
+          Australia&apos;s Export Finance Australia has broadened its mandate to
+          include domestic business succession. South Korea&apos;s Small and
+          Medium Business Corporation (SBC) has introduced dedicated succession
+          loans. As the global succession crisis intensifies &mdash; with an
+          estimated 10+ million small business owners approaching retirement
+          age across OECD countries &mdash; expect more governments to launch
+          or expand acquisition-specific financing programs in the coming years.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which country has the best government financing for business acquisitions?</h3>
+        <p>
+          The US (<Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a)</Link>)
+          and France (<Link href="/learn/bpifrance-acquisition-financing" className="text-apple-accent hover:underline">Bpifrance</Link>) offer
+          the most generous programs, both allowing acquisitions with as little
+          as 10&ndash;15% buyer equity. Germany (<Link href="/learn/kfw-germany-business-succession" className="text-apple-accent hover:underline">KfW</Link>) is
+          a close third with excellent subordinated capital programs. The UK and
+          Italy have less developed acquisition-specific financing, requiring
+          20&ndash;35% equity.
+        </p>
+
+        <h3 className={h3Class}>Can foreigners access government acquisition financing?</h3>
+        <p>
+          It depends on the country. The SBA requires US residency or
+          citizenship. Bpifrance requires the target company to be French but
+          the buyer can be foreign. KfW programs are available to EU residents
+          acquiring German businesses. BDC Canada requires Canadian residency.
+          Always check the specific eligibility requirements with{" "}
+          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">local advisors</Link> before
+          planning your financing structure.
+        </p>
+
+        <h3 className={h3Class}>Can government financing programs be combined with seller financing?</h3>
+        <p>
+          In most countries, yes. <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller financing</Link> can
+          be layered with government-backed loans to further reduce the buyer&apos;s
+          equity requirement. In the US, SBA-backed deals commonly use a
+          standby seller note. In France, Bpifrance products stack with
+          vendor loans. The key is ensuring that each lender&apos;s subordination
+          and standby requirements are met, which requires careful structuring
+          with experienced counsel.
+        </p>
 
         <p>
           For country-specific acquisition guides, see our{" "}

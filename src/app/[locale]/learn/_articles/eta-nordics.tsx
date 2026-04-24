@@ -23,8 +23,9 @@ export default function ETANordicsArticle() {
 
         <h2 className={h2Class}>Nordic market overview</h2>
         <p>
-          The four Nordic countries represent a combined GDP of approximately
-          &euro;1.5 trillion and a population of roughly 27 million people.
+          According to Eurostat data, the four Nordic countries represent a
+          combined GDP of approximately &euro;1.5 trillion and a population
+          of roughly 27 million people.
           Despite their relatively small populations, each country has a dense
           fabric of high-quality SMEs, many of which are globally competitive
           in niche markets. The Nordic model&mdash;combining free-market
@@ -210,7 +211,7 @@ export default function ETANordicsArticle() {
           market for international searchers is the near-universal English
           proficiency. Sweden, Denmark, Norway, and Finland consistently
           rank among the top ten countries globally for English language
-          skills. Business meetings, negotiations, and even internal
+          skills, according to the EF English Proficiency Index. Business meetings, negotiations, and even internal
           communications at many Nordic SMEs are regularly conducted in
           English.
         </p>
@@ -228,7 +229,8 @@ export default function ETANordicsArticle() {
         <p>
           The Nordic countries face succession challenges similar to the
           rest of Europe, though with some distinctive features. In Sweden,
-          an estimated 40% of business owners are over 55, and many lack
+          a 2023 Svenskt N&auml;ringsliv survey found that approximately 40%
+          of business owners are over 55, and many lack
           identified successors. Denmark and Finland face comparable
           demographics. Norway&apos;s oil-driven economy has created a
           somewhat different dynamic, with many business owners having

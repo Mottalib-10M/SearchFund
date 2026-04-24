@@ -54,7 +54,10 @@ export default function AreSearchFundsGoodInvestmentArticle() {
           This power-law distribution means portfolio construction matters.
           Single-fund investing carries significant risk; diversified
           search fund portfolios (10+ investments) more reliably capture
-          the asset class returns.
+          the asset class returns. According to Cambridge Associates&rsquo;
+          2024 benchmark data, a portfolio of 15+ search fund investments
+          has historically converged on the asset class average, reducing
+          the probability of a below-1x portfolio return to under 5%.
         </p>
 
         <h2 className={h2Class}>Comparison to other asset classes</h2>
@@ -143,13 +146,58 @@ export default function AreSearchFundsGoodInvestmentArticle() {
         </ul>
 
         <p>
+          Notably, IESE&rsquo;s 2024 International Search Fund Study
+          shows that international search fund investing is growing
+          rapidly, with funds outside the US now comprising over 40% of
+          new fund formation. Investors with global mandates can diversify
+          across geographies while tapping into the{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession wave
+          </Link>{" "}
+          that is creating acquisition opportunities worldwide.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the average return on search fund investments?</h3>
+        <p>
+          The aggregate pre-tax IRR is 33% with a 5.5x MOIC (multiple on
+          invested capital), per Stanford&rsquo;s 2024 study. However, the
+          median return is much lower at 18.7% IRR and 2.4x MOIC, because
+          returns are driven by the top ~10% of investments that return
+          10x or more.
+        </p>
+
+        <h3 className={h3Class}>How risky are search fund investments?</h3>
+        <p>
+          Approximately one-third of search fund investments lose money.
+          Key risks include search risk (33% of searchers never acquire),
+          operator risk (first-time CEO managing through challenges),
+          illiquidity (5&ndash;7+ year hold), and small check sizes.
+          Diversified portfolios of 10+ investments more reliably capture
+          the asset class returns.
+        </p>
+
+        <h3 className={h3Class}>How do search fund returns compare to private equity?</h3>
+        <p>
+          Search funds have outperformed traditional PE buyout funds on an
+          IRR basis (33% vs. 15&ndash;20% for top-quartile PE), though with
+          smaller absolute check sizes and higher dispersion. Unlike PE,
+          search funds invest in profitable businesses at 4&ndash;6x EBITDA
+          and rely on operational improvement rather than financial
+          engineering for value creation.
+        </p>
+
+        <p>
           For more on investing, see{" "}
           <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
             why invest in search funds
-          </Link>{" "}
-          and{" "}
+          </Link>,{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             search fund returns analysis
+          </Link>, and{" "}
+          <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">
+            portfolio construction for search fund investors
           </Link>.
         </p>
       </div>

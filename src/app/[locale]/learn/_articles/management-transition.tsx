@@ -10,8 +10,12 @@ export default function ManagementTransitionArticle() {
       <div className={bodyClass}>
         <p>
           The management transition is the highest-stakes moment in any search
-          fund acquisition. You are stepping into a business where employees
-          have often worked for the same owner for 10&ndash;20 years. They are
+          fund acquisition. As Michael Watkins argues in The First 90 Days
+          (Harvard Business School Press), the actions a new leader takes
+          during the transition period are disproportionately consequential
+          for long-term success. You are stepping into a business where
+          employees have often worked for the same owner for 10&ndash;20
+          years. They are
           anxious, skeptical, and watching your every move. How you handle the{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first days, weeks, and months</Link>{" "}
           will determine whether key employees
@@ -169,9 +173,10 @@ export default function ManagementTransitionArticle() {
 
         <h2 className={h2Class}>The first 30 days: listen and learn</h2>
         <p>
-          The biggest mistake new search fund CEOs make is trying to change too
-          much too quickly. The first 30 days should be dedicated to listening,
-          observing, and building relationships.
+          According to the Stanford 2024 Search Fund Study, the biggest mistake
+          new search fund CEOs make is trying to change too much too quickly.
+          The first 30 days should be dedicated to listening, observing, and
+          building relationships.
         </p>
         <ul className={ulClass}>
           <li>
@@ -414,9 +419,62 @@ export default function ManagementTransitionArticle() {
           navigate it most successfully are those who lead with humility,
           listen deeply, maintain transparent{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor communications</Link>, and earn trust through
-          consistent, thoughtful action. The business you bought is only as
-          valuable as the people who run it. Invest in those people from
-          Day 1 and they will invest in your vision.
+          consistent, thoughtful action. For practical strategies to keep
+          your best people, see our guide on{" "}
+          <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">employee retention after acquisition</Link>.
+          The business you bought is only as valuable as the people who run
+          it. Invest in those people from Day 1 and they will invest in
+          your vision. For an in-depth look at building credibility with
+          inherited teams, see our{" "}
+          <Link href="/learn/building-trust-inherited-teams" className="text-apple-accent hover:underline">building trust with inherited teams</Link> guide.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long should the seller transition period last?</h3>
+        <p>
+          Most search fund acquisitions include a seller transition period
+          of 6&ndash;12 months, structured as a consulting agreement. The
+          ideal length depends on how owner-dependent the business is. If
+          the seller has deep customer relationships, holds key vendor
+          contacts, or possesses technical knowledge not documented
+          anywhere, a longer transition (9&ndash;12 months) is warranted.
+          If the business has a strong management team and the seller is
+          primarily a figurehead, 3&ndash;6 months may suffice. Structure
+          the consulting agreement with decreasing time commitments
+          (20&ndash;30 hours per week initially, tapering to 5&ndash;10
+          hours) and clear deliverables for each phase.
+        </p>
+
+        <h3 className={h3Class}>What are the most effective retention tools for key employees?</h3>
+        <p>
+          The most effective retention strategy is a combination of financial
+          incentives and genuine engagement. Retention bonuses paid in two
+          installments (50% at 6 months, 50% at 12 months) provide immediate
+          financial motivation. Title upgrades and expanded responsibilities
+          signal long-term opportunity. Equity participation (phantom equity
+          or profit-sharing) for the top 2&ndash;3 employees aligns their
+          interests with yours. However, the research consistently shows
+          that the single most powerful retention factor is the new
+          owner&rsquo;s visible commitment to the business and genuine respect
+          for existing employees and culture.
+        </p>
+
+        <h3 className={h3Class}>What should I do if a key employee leaves during the transition?</h3>
+        <p>
+          First, do not panic publicly. Acknowledge the departure honestly with
+          the team, emphasize your commitment to the business, and move quickly
+          to redistribute responsibilities. If the departing employee holds
+          critical customer relationships, contact those customers immediately
+          to introduce their new point of contact and reassure them of
+          continuity. Begin recruiting a replacement within the first week,
+          leveraging your{" "}
+          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">advisor network</Link> and
+          industry contacts. Document the departing employee&rsquo;s
+          knowledge and processes during their notice period. This situation,
+          while stressful, also presents an opportunity to promote from
+          within, which demonstrates to the remaining team that the
+          acquisition creates career growth opportunities.
         </p>
       </div>
     </article>

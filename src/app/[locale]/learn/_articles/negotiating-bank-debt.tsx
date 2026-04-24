@@ -6,7 +6,8 @@ export default function NegotiatingBankDebtArticle() {
     <article>
       <h1 className={h1Class}>How to Negotiate Debt Terms for Your Acquisition</h1>
       <div className={bodyClass}>
-        <p>Bank debt is typically the largest component of your <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">capital stack</Link>. The terms you negotiate &mdash; interest rate, amortization, covenants, prepayment, and collateral &mdash; directly impact your cash flow, operational flexibility, and personal risk for years after closing.</p>
+        <p>Bank debt is typically the largest component of your <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">capital stack</Link>, often representing 50&ndash;65% of the total acquisition price. According to the{" "}
+          <a href="https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Pepperdine Private Capital Markets Report (2024)</a>, senior debt terms in the lower middle market have tightened since 2022, with median spreads widening by 50&ndash;75 basis points. The terms you negotiate &mdash; interest rate, amortization, covenants, prepayment, and collateral &mdash; directly impact your cash flow, operational flexibility, and personal risk for years after closing.</p>
       </div>
 
       <h2 className={h2Class}>Key Terms to Negotiate</h2>
@@ -68,9 +69,11 @@ export default function NegotiatingBankDebtArticle() {
           <li><strong>Regional/community banks:</strong> More flexible, relationship-oriented, willing to structure creatively</li>
           <li><strong>National banks:</strong> Competitive rates but less flexibility and harder to build relationships</li>
           <li><strong>Credit unions:</strong> Often competitive on rates, especially for smaller deals</li>
-          <li><strong>Non-bank lenders:</strong> Alternative lenders, BDCs &mdash; faster but typically more expensive</li>
+          <li><strong>Non-bank lenders:</strong> Alternative lenders, BDCs &mdash; faster but typically more expensive. For subordinated capital layers, see our <Link href="/learn/mezzanine-financing" className="text-apple-accent hover:underline">mezzanine financing guide</Link></li>
         </ul>
-        <p>Talk to 3&ndash;5 lenders minimum. Use competing term sheets as leverage in negotiations.</p>
+        <p>Talk to 3&ndash;5 lenders minimum. Use competing term sheets as leverage in negotiations. The{" "}
+          <a href="https://www.aba.com/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">ABA Banking Journal</a>{" "}
+          notes that community and regional banks close over 60% of acquisition loans under $10M, making them the most active lenders for search fund deals.</p>
       </div>
 
       <h2 className={h2Class}>The Term Sheet Process</h2>
@@ -116,6 +119,29 @@ export default function NegotiatingBankDebtArticle() {
         <li><Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">The Capital Stack Explained</Link></li>
         <li><Link href="/learn/debt-structure-optimization" className="text-apple-accent hover:underline">Debt Structure Optimization</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How many lenders should I approach for an acquisition loan?</h3>
+      <div className={bodyClass}>
+        <p>
+          Approach 3&ndash;5 lenders minimum. Having multiple term sheets creates competitive tension and gives you leverage to negotiate better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process when you sign the LOI &mdash; financing delays are the number one cause of failed closings in SME acquisitions.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>What is the most important loan term to negotiate beyond interest rate?</h3>
+      <div className={bodyClass}>
+        <p>
+          Financial covenants. Most borrowers focus on interest rate, but covenants determine whether you keep control of your business. A tight DSCR covenant (e.g., 1.50x) with no cure rights can put you in technical default during a normal business downturn. Negotiate for covenant holidays during the first 6&ndash;12 months, equity cure rights, and 30-day remedy periods. These provisions give you breathing room during the critical post-acquisition transition.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>Should I choose a fixed or variable interest rate?</h3>
+      <div className={bodyClass}>
+        <p>
+          It depends on your risk tolerance and the rate environment. Fixed rates provide payment certainty, which is valuable during the uncertain post-acquisition period. Variable rates (SOFR + spread) typically start lower but expose you to interest rate increases. For loans over $5M, consider an interest rate swap that converts variable to fixed at favorable terms. SBA 7(a) rates are capped at SOFR + 2.75% for loans over $50K, making them attractive in high-rate environments.
+        </p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>

@@ -26,7 +26,8 @@ export default function ETASpainArticle() {
           Spain&apos;s economy is the fourth largest in the eurozone and is
           characterized by a dense fabric of small and medium-sized enterprises.
           Approximately 99.8% of Spanish businesses are SMEs, and they employ
-          roughly two-thirds of the private-sector workforce. The country&apos;s
+          roughly two-thirds of the private-sector workforce, according to Spain&apos;s
+          Directorate General of Industry and SMEs (DGIPYME). The country&apos;s
           succession crisis is particularly acute: industry studies estimate that
           more than two million business owners are over 55, and a large
           proportion have no identified successor within their family.
@@ -143,8 +144,9 @@ export default function ETASpainArticle() {
         <p>
           IESE Business School in Barcelona has been the single most important
           institutional catalyst for search fund activity in Spain and Latin
-          America. Professor Rob Johnson pioneered the study and promotion of
-          the search fund model at IESE, creating a dedicated course and
+          America. The IESE International Search Fund Study (2024 edition)
+          documents the model&apos;s growth globally. Professor Rob Johnson
+          pioneered the study and promotion of the search fund model at IESE, creating a dedicated course and
           research program that has trained hundreds of aspiring searchers.
         </p>
         <p>
@@ -238,9 +240,45 @@ export default function ETASpainArticle() {
           <li><strong>Language:</strong> Spanish fluency is essential for searching in Spain. While many business owners in major cities speak some English, negotiations and relationship-building occur in Spanish. For Portugal, Portuguese proficiency is strongly recommended.</li>
           <li><strong>Local presence:</strong> Being based in-country signals commitment and enables the relationship building that is critical in Iberian deal-making.</li>
           <li><strong>Professional advisors:</strong> Engage a Spanish notary (notario), tax advisor (asesor fiscal), and commercial lawyer (abogado mercantil) early in the process. The notarial system plays a central role in Spanish corporate transactions.</li>
-          <li><strong>Due diligence depth:</strong> Given the prevalence of informal accounting practices in some Spanish SMEs, thorough financial and tax due diligence is particularly important. Engage an auditor experienced with SME businesses.</li>
+          <li><strong>Due diligence depth:</strong> Given the prevalence of informal accounting practices in some Spanish SMEs, thorough financial and tax due diligence is particularly important. Engage an auditor experienced with SME businesses. See our <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">Quality of Earnings guide</Link> for what to expect.</li>
           <li><strong>Patience:</strong> Building the trust required to close a deal with a Spanish business owner takes time. Budget for a search period of 18 to 24 months at minimum. Read our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> for proven approaches to finding targets.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why is Spain considered a leading European search fund market?</h3>
+        <p>
+          Spain leads European search fund activity largely because of IESE
+          Business School in Barcelona, which pioneered ETA education in Europe
+          and hosts the annual IESE Search Fund Conference. Spain has produced
+          more European search fund entrepreneurs than any other country,
+          supported by a strong investor ecosystem and over two million
+          businesses needing succession. Lower entry multiples (3x&ndash;5x EBITDA)
+          compared to Northern Europe make the market particularly accessible
+          for first-time acquirers.
+        </p>
+
+        <h3 className={h3Class}>What government financing programs support business acquisitions in Spain?</h3>
+        <p>
+          Key programs include ICO (Instituto de Cr&eacute;dito Oficial) credit
+          lines for business succession, ENISA participative loans for
+          entrepreneurs, CDTI for technology-related acquisitions, and regional
+          programs from each Comunidad Aut&oacute;noma. Spanish commercial
+          banks (Santander, BBVA, CaixaBank) also offer SME acquisition
+          financing. See our <Link href="/learn/government-financing-programs-global" className="text-apple-accent hover:underline">global comparison of government financing programs</Link> for
+          how Spain compares internationally.
+        </p>
+
+        <h3 className={h3Class}>Do you need to speak Spanish to acquire a business in Spain?</h3>
+        <p>
+          Spanish fluency is essential for searching in Spain. While some
+          business owners in Madrid and Barcelona speak English, deal
+          negotiations, employee communications, and relationship building all
+          occur in Spanish. For the Portuguese market, Portuguese proficiency is
+          strongly recommended. Language competency signals commitment and is a
+          fundamental requirement for building the trust that Iberian sellers
+          expect.
+        </p>
       </div>
     </article>
   );

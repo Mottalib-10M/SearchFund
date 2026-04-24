@@ -16,7 +16,11 @@ export default function ChoosingBuyerTypesArticle() {
           strategic acquirers. Each offers different pricing, terms, and
           post-acquisition outcomes. This guide helps you choose the right
           buyer based on your priorities &mdash; price, legacy, employees,
-          speed, or deal certainty.
+          speed, or deal certainty. According to Bain &amp; Company&rsquo;s
+          2024 Global Private Equity Report, the number of PE firms
+          targeting lower-middle-market deals ($10M&ndash;$100M enterprise
+          value) has more than doubled over the past decade, giving sellers
+          more options but making the buyer-type decision more complex.
         </p>
 
         <h2 className={h2Class}>Search fund buyers</h2>
@@ -107,6 +111,45 @@ export default function ChoosingBuyerTypesArticle() {
           <li><strong>Mix of buyers:</strong> The best processes include 2&ndash;3 buyer types (at least one search fund, one PE, one strategic) to create genuine competition</li>
           <li><strong>Timeline:</strong> Expect 6&ndash;9 months from initial marketing to close</li>
         </ul>
+        <p>
+          Stanford&rsquo;s 2024 Search Fund Study reports that search fund
+          acquisitions have a median close timeline of 7&ndash;9 months from
+          initial contact, compared to 4&ndash;6 months for well-funded PE
+          firms. However, search fund buyers have among the highest
+          completion rates once an LOI is signed, because their investors
+          have pre-committed capital for the acquisition.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Who pays the most for a small business?</h3>
+        <p>
+          Strategic acquirers often pay the highest multiples (4&ndash;10x
+          EBITDA) because they can realize cost savings and revenue
+          synergies. PE firms pay 5&ndash;8x for larger businesses ($5M+
+          EBITDA). Search funds typically pay 4&ndash;6x but offer better
+          terms for employee protection and legacy continuity.
+        </p>
+
+        <h3 className={h3Class}>Should I sell my business to a search fund or private equity?</h3>
+        <p>
+          Choose a search fund if you prioritize employee retention,
+          company legacy, and working with an individual who will operate
+          the business for 5&ndash;8 years. Choose PE if you want the
+          highest possible price and are less concerned about potential
+          management changes, cost restructuring, and a shorter
+          3&ndash;5 year hold period.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest risk of selling to an individual buyer?</h3>
+        <p>
+          Financing uncertainty. Many individual buyers without
+          institutional backing cannot close because they fail to secure
+          bank or SBA financing. Deal certainty is the lowest of all
+          buyer types, and many sellers have experienced failed closings
+          when individual buyer financing falls through at the last
+          stage.
+        </p>
 
         <p>
           For valuation guidance, see{" "}

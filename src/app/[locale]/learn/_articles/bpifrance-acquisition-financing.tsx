@@ -23,6 +23,16 @@ export default function BpifranceAcquisitionFinancingArticle() {
           European market.
         </p>
 
+        <p>
+          France is facing one of Europe&rsquo;s most significant business
+          succession challenges: according to Bpifrance&rsquo;s own 2024
+          data, over 700,000 French SMEs will need to change hands within
+          the next decade as their founders retire. The IESE 2024
+          International Search Fund Study highlights France as one of the
+          fastest-growing ETA markets in continental Europe, driven in
+          large part by this favorable financing ecosystem.
+        </p>
+
         <h2 className={h2Class}>What is Bpifrance?</h2>
         <ul className={ulClass}>
           <li><strong>Role:</strong> France&rsquo;s public investment bank, established in 2013. Supports French businesses from creation to exit</li>
@@ -121,6 +131,40 @@ export default function BpifranceAcquisitionFinancingArticle() {
           <li><strong>France advantage:</strong> Bpifrance&rsquo;s combination of guarantee + subordinated loan + interest-free honor loans makes France one of the most acquirer-friendly markets in the world</li>
         </ul>
 
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the Bpifrance Pr&ecirc;t Transmission?</h3>
+        <p>
+          The Pr&ecirc;t Transmission is Bpifrance&rsquo;s subordinated
+          loan for business acquisitions: &euro;40K&ndash;&euro;1.5M,
+          5&ndash;7 year term, fixed rate 1&ndash;3% below market, and no
+          collateral or personal guarantee required. It must be paired 1:1
+          with a commercial bank loan and serves as the junior tranche of
+          the financing.
+        </p>
+
+        <h3 className={h3Class}>How much personal capital do you need to buy a business in France?</h3>
+        <p>
+          With Bpifrance financing, you can acquire a French business with
+          10&ndash;20% personal equity. A typical structure for a
+          &euro;1M acquisition: &euro;550K bank loan (Bpifrance
+          guaranteed), &euro;200K Pr&ecirc;t Transmission, &euro;50K
+          pr&ecirc;t d&rsquo;honneur (interest-free), &euro;150K buyer
+          equity, and &euro;50K seller financing. You would need
+          approximately &euro;150K of personal capital.
+        </p>
+
+        <h3 className={h3Class}>How does Bpifrance compare to the US SBA program?</h3>
+        <p>
+          Both are government-backed programs that guarantee acquisition
+          loans. The SBA provides guarantees up to 85% of the loan, while
+          Bpifrance guarantees 50&ndash;70%. However, Bpifrance&rsquo;s
+          combination of loan guarantees, subordinated co-lending
+          (Pr&ecirc;t Transmission), and interest-free honor loans creates
+          a more layered and acquirer-friendly capital stack than the SBA
+          model alone.
+        </p>
+
         <p>
           For the complete French ETA guide, see{" "}
           <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
@@ -131,8 +175,8 @@ export default function BpifranceAcquisitionFinancingArticle() {
             acquisition financing
           </Link>{" "}
           and{" "}
-          <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
-            the capital stack explained
+          <Link href="/learn/government-financing-programs-global" className="text-apple-accent hover:underline">
+            government financing programs worldwide
           </Link>.
         </p>
       </div>

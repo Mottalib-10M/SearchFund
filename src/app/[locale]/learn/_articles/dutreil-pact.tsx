@@ -26,6 +26,7 @@ export default function DutreilPactArticle() {
         </p>
 
         <h2 className={h2Class}>What is the Dutreil pact?</h2>
+        <p>Named after Renaud Dutreil, the French minister who introduced the mechanism in 2003, the Pacte Dutreil has become the cornerstone of French business succession planning. According to Bpifrance&apos;s 2024 Transmission Report, approximately 60,000 business transfers occur annually in France, and Dutreil plays a role in a significant share of family-to-family successions. The Direction G&eacute;n&eacute;rale des Finances Publiques (DGFiP) estimates the annual tax expenditure from Dutreil at over &euro;500 million, underscoring its importance in French fiscal policy.</p>
         <ul className={ulClass}>
           <li><strong>Legal basis:</strong> Article 787 B and 787 C of the French Tax Code (Code G&eacute;n&eacute;ral des Imp&ocirc;ts)</li>
           <li><strong>Core benefit:</strong> 75% exemption on the taxable value of business shares transferred by donation or inheritance</li>
@@ -101,6 +102,27 @@ export default function DutreilPactArticle() {
           <li><strong>With Dutreil + age reduction:</strong> If donor is under 70, a further 50% reduction: &euro;250,000 &times; 50% = &euro;125,000 taxable &times; 45% = &euro;56,250</li>
           <li><strong>Total savings:</strong> Up to &euro;394,000 on a &euro;1M transfer (87.5% effective reduction)</li>
         </ul>
+
+        <h2 className={h2Class}>Recent developments and reforms</h2>
+        <p>The Dutreil regime has undergone several refinements in recent years. The 2019 PACTE law (Plan d&apos;Action pour la Croissance et la Transformation des Entreprises) simplified the commitment structure and clarified the &ldquo;deemed collective commitment&rdquo; (engagement r&eacute;put&eacute; acquis) mechanism, making it easier for sole owners to benefit without formal multi-party pacts. In 2024, the Cour de cassation issued several rulings further clarifying the &ldquo;animating holding company&rdquo; doctrine, confirming that the holding must demonstrate active, permanent management involvement in subsidiaries rather than merely exercising shareholder voting rights.</p>
+        <p>Search fund entrepreneurs acquiring French businesses should be aware that Dutreil can influence deal dynamics on the sell-side: sellers with active Dutreil commitments face significant tax penalties if shares are transferred before the commitment period ends. This can affect timing, pricing negotiations, and the willingness of family shareholders to accept your offer. For a deeper look at <Link href="/learn/sas-vs-sarl-france" className="text-apple-accent hover:underline">French entity structures</Link>, see our dedicated guide.</p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Can a non-French resident benefit from the Dutreil pact?</h3>
+        <div className={bodyClass}>
+          <p>The Dutreil exemption applies to the transfer of shares in French companies regardless of the donor&apos;s nationality, but it is specifically relevant for transfers subject to French gift or inheritance tax. Non-residents are subject to French transfer taxes on shares in French companies only if the assets are considered &ldquo;French-situs&rdquo; property. In practice, shares in French companies generally qualify. However, the beneficiary must meet all commitment requirements (holding period, management role), and non-residents face additional compliance complexity with DGFiP reporting.</p>
+        </div>
+
+        <h3 className={h3Class}>What qualifies as an &ldquo;animating holding company&rdquo; for Dutreil purposes?</h3>
+        <div className={bodyClass}>
+          <p>A soci&eacute;t&eacute; holding animatrice must actively participate in determining the strategic direction of its subsidiaries and provide services (management, accounting, legal, HR) to them. Passive shareholding &mdash; simply owning shares and receiving dividends &mdash; does not qualify. The French tax authorities and courts examine whether the holding employs staff, provides documented services under management agreements, and exercises operational control. A search fund HoldCo that actively manages the acquired OpCo will typically qualify, but the burden of proof lies with the taxpayer.</p>
+        </div>
+
+        <h3 className={h3Class}>Can Dutreil be combined with other French tax optimization strategies?</h3>
+        <div className={bodyClass}>
+          <p>Yes, and this is where Dutreil becomes most powerful. It can be combined with: (1) the <Link href="/learn/integration-fiscale-france" className="text-apple-accent hover:underline">int&eacute;gration fiscale</Link> regime for ongoing tax consolidation, (2) the &ldquo;apport-cession&rdquo; mechanism (Article 150-0 B ter CGI) for tax-deferred reinvestment of capital gains, and (3) a holding company structure that benefits from the parent-subsidiary exemption on dividends. Together, these tools can reduce the effective tax burden across the full lifecycle of a French acquisition from entry through succession.</p>
+        </div>
 
         <p>
           For the complete French acquisition framework, see{" "}

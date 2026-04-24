@@ -25,18 +25,19 @@ export default function ETAvsRealEstateArticle() {
         <h2 className={h2Class}>Valuation frameworks: cap rates vs. EBITDA multiples</h2>
         <p>
           Real estate investors think in cap rates — the ratio of net
-          operating income (NOI) to property value. In 2024, commercial
-          real estate cap rates ranged from approximately 4.5% to 8.5%
-          depending on asset class, location, and quality. A 6% cap rate
+          operating income (NOI) to property value. According to the NCREIF
+          Property Index, commercial real estate cap rates in 2024 ranged
+          from approximately 4.5% to 8.5% depending on asset class, location,
+          and quality. A 6% cap rate
           means the property generates $60,000 of annual NOI per
           $1 million of value, equivalent to a 16.7x earnings multiple.
         </p>
         <p>
           ETA investors think in EBITDA multiples — the ratio of
           enterprise value to earnings before interest, taxes,
-          depreciation, and amortization. Search fund acquisitions
-          typically close at 3x to 6x EBITDA, with the median around
-          4x to 5x. A 4x EBITDA multiple means the business generates
+          depreciation, and amortization. The Stanford GSB 2024 Search
+          Fund Study reports that acquisitions typically close at 3x to
+          6x EBITDA, with the median around 4x to 5x. A 4x EBITDA multiple means the business generates
           $250,000 of annual EBITDA per $1 million of enterprise value —
           a dramatically higher cash-flow yield than even the most
           attractive real estate investments.
@@ -367,6 +368,42 @@ export default function ETAvsRealEstateArticle() {
           a diversified search fund program (10% to 20% allocation)
           captures the best attributes of both strategies — tangible
           stability and operational alpha.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do search fund returns compare to real estate investing?</h3>
+        <p>
+          Search funds have generated approximately 35% aggregate IRR
+          according to Stanford GSB data, compared to 8&ndash;12% for
+          diversified real estate portfolios and 15&ndash;20% for value-add
+          real estate strategies. However, real estate offers tangible
+          collateral, more favorable financing terms (30-year mortgages at
+          high LTV), and more predictable cash flows. The right choice depends
+          on your risk tolerance and management preference.
+        </p>
+
+        <h3 className={h3Class}>Can you combine ETA and real estate investing?</h3>
+        <p>
+          Yes. Many search fund acquisitions include real estate components
+          such as owned facilities or land. Some searchers specifically target
+          businesses where real estate is a significant asset (storage
+          facilities, car washes, hotels). Additionally, post-exit search fund
+          operators often allocate exit proceeds to real estate for portfolio
+          diversification, combining the high-growth phase of ETA with the
+          stability of property income.
+        </p>
+
+        <h3 className={h3Class}>Is real estate investing lower risk than search fund investing?</h3>
+        <p>
+          Generally yes. Real estate benefits from tangible collateral,
+          favorable financing, inflation hedging, and lower operational
+          complexity. Search funds offer higher potential returns but require
+          deep operational involvement and carry higher idiosyncratic risk.
+          On a risk-adjusted basis, real estate provides more consistent
+          returns while search funds offer significantly more upside potential.
+          For a deeper look at how to evaluate these trade-offs as an LP,
+          see our <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">guide to search fund investing</Link>.
         </p>
       </div>
     </article>

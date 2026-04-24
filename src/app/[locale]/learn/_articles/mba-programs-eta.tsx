@@ -21,11 +21,14 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>Why MBA Programs Matter for ETA</h2>
 
         <p className={bodyClass}>
-          The connection between top MBA programs and search funds is not coincidental. The search fund model was pioneered at Stanford GSB in 1984, and business schools have remained the primary pipeline for searchers ever since. Several factors make MBA programs particularly valuable for aspiring searchers:
+          The connection between top MBA programs and search funds is not coincidental. The search fund model was pioneered at Stanford GSB in 1984, and business schools have remained the primary pipeline for searchers ever since. According to the{" "}
+          <a href="https://www.gsb.stanford.edu/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</a>, over 70% of traditional search fund entrepreneurs hold an MBA from a top-20 program. Several factors make MBA programs particularly valuable for aspiring searchers:
         </p>
 
         <p className={bodyClass}>
-          <strong>Investor Networks:</strong> Traditional search fund investors are often MBA alumni themselves and actively recruit from specific programs. Stanford, Harvard, and Chicago Booth investors regularly attend ETA club events, review business plans, and conduct mock interviews with students. These relationships dramatically reduce the cold outreach required during fundraising.
+          <strong>Investor Networks:</strong> Traditional{" "}
+          <Link href="/learn/top-search-fund-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
+          are often MBA alumni themselves and actively recruit from specific programs. Stanford, Harvard, and Chicago Booth investors regularly attend ETA club events, review business plans, and conduct mock interviews with students. These relationships dramatically reduce the cold outreach required during fundraising.
         </p>
 
         <p className={bodyClass}>
@@ -33,7 +36,8 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Relevant Coursework:</strong> While general management skills are valuable, programs with strong ETA ecosystems offer specialized courses in small business acquisition, deal structuring, private equity, and negotiations. These courses often feature search fund case studies and bring in successful searchers as guest speakers.
+          <strong>Relevant Coursework:</strong> While general management skills are valuable, programs with strong ETA ecosystems offer specialized courses in{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">small business acquisition</Link>, deal structuring, private equity, and negotiations. These courses often feature search fund case studies and bring in successful searchers as guest speakers.
         </p>
 
         <p className={bodyClass}>
@@ -191,7 +195,9 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>IESE Barcelona</h2>
 
         <p className={bodyClass}>
-          IESE Business School in Barcelona has built a strong ETA ecosystem focused primarily on Southern Europe and Latin America.
+          IESE Business School in Barcelona has built a strong ETA ecosystem focused primarily on Southern Europe and Latin America. The{" "}
+          <a href="https://www.iese.edu/faculty-research/entrepreneurship/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE International Search Fund Study</a>{" "}
+          has tracked over 600 search fund transactions globally, establishing IESE as the leading academic institution for international search fund research.
         </p>
 
         <p className={bodyClass}>
@@ -362,6 +368,23 @@ export default function MBAProgramsETAArticle() {
 
         <p className={bodyClass}>
           The relationships you build, skills you develop, and preparation you complete during business school will shape your entire search fund experience. Invest this time wisely, and you'll begin your search with a powerful network, comprehensive preparation, and the confidence needed to succeed in acquisition entrepreneurship.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Do I need an MBA to start a search fund?</h3>
+        <p className={bodyClass}>
+          No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds including consulting, investment banking, military service, and operating roles. Self-funded searchers, in particular, are less likely to have MBAs. The key advantages an MBA provides &mdash; investor networks, peer community, and structured learning &mdash; can be partially replicated through industry conferences, search fund accelerators, and mentorship relationships. However, for traditional search funds that raise investor capital, an MBA from a recognized program significantly eases the fundraising process.
+        </p>
+
+        <h3 className={h3Class}>When should I start preparing for ETA during my MBA?</h3>
+        <p className={bodyClass}>
+          Begin on day one of your first year. Join the ETA club immediately, attend every speaker event, and start informational interviews with alumni searchers during your first semester. By mid-first year, take foundational finance and accounting courses that prepare you for deal analysis. Use the summer between years to gain relevant experience (search fund operations, lower middle market PE, or small business consulting). Second year should be an intensive preparation phase: refine your investment thesis, build investor relationships, and develop fundraising materials. Students who wait until second year to engage with ETA often find themselves behind in investor relationships and preparation.
+        </p>
+
+        <h3 className={h3Class}>How much does an MBA cost, and does the ROI make sense for ETA?</h3>
+        <p className={bodyClass}>
+          Top MBA programs cost $150,000&ndash;$230,000 in tuition alone, plus $80,000&ndash;$120,000 in opportunity cost from two years of foregone income. Total investment is typically $300,000&ndash;$400,000. The ROI depends on whether you successfully raise a search fund and complete an acquisition. Successful searchers typically earn $100,000&ndash;$150,000 during the search phase and hold 20&ndash;30% equity in the acquired company, which can be worth $2M&ndash;$10M+ at a successful exit. The expected value is attractive but comes with meaningful risk, as roughly 25% of funded searches do not complete an acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

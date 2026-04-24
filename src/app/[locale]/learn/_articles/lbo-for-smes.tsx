@@ -14,8 +14,11 @@ export default function LBOForSMEsArticle() {
           A leveraged buyout uses the target company&rsquo;s own cash flow
           to service the debt used to acquire it. While associated with
           Wall Street mega-deals, LBO principles are the backbone of
-          search fund and self-funded acquisitions. This guide adapts LBO
-          structuring for SME acquisitions with practical examples.
+          search fund and self-funded acquisitions. According to the
+          Pepperdine Private Capital Markets Report, approximately 70% of
+          SME acquisitions use some form of leveraged structure. This
+          guide adapts LBO structuring for SME acquisitions with practical
+          examples.
         </p>
 
         <h2 className={h2Class}>LBO fundamentals for SMEs</h2>
@@ -53,7 +56,7 @@ export default function LBOForSMEsArticle() {
 
         <h3 className={h3Class}>Layer 1: Senior secured debt (50&ndash;70%)</h3>
         <ul className={ulClass}>
-          <li><strong>SBA 7(a):</strong> Up to $5M, 10&ndash;25 year term, Prime + 2.25&ndash;2.75%. The most favorable terms available for SME acquisitions</li>
+          <li><strong>SBA 7(a):</strong> Up to $5M, 10&ndash;25 year term, Prime + 2.25&ndash;2.75% per SBA underwriting standards. The most favorable terms available for SME acquisitions</li>
           <li><strong>Conventional bank debt:</strong> 2.5&ndash;3.5x EBITDA leverage, 5&ndash;7 year term, variable rate</li>
           <li><strong>Collateral:</strong> Secured by business assets + personal guarantee (typically required)</li>
           <li><strong>Covenants:</strong> DSCR minimum (1.25x), leverage ratio maximum, capex limits</li>
@@ -144,6 +147,21 @@ export default function LBOForSMEsArticle() {
             </Link></li>
         </ul>
 
+        <h2 className={h2Class}>Tax considerations in SME LBOs</h2>
+        <p>
+          The tax treatment of an LBO can significantly impact returns. Interest
+          on acquisition debt is generally tax-deductible, creating a &ldquo;tax
+          shield&rdquo; that reduces the effective cost of debt. For a $5M SBA
+          loan at 7% interest, the annual interest expense of $350K generates
+          approximately $85K in tax savings (assuming a 24% effective rate).
+          Over a 5-year hold period, this tax shield can add meaningful value.
+          See our guide to{" "}
+          <Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">
+            deal structure optimization
+          </Link>{" "}
+          for asset vs. stock purchase tax implications.
+        </p>
+
         <p>
           For the complete financing framework, see our{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
@@ -154,6 +172,47 @@ export default function LBOForSMEsArticle() {
             creative financing
           </Link>{" "}
           guides.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What DSCR do lenders require for SME LBOs?</h3>
+        <p>
+          Most SBA preferred lenders require a minimum debt service coverage
+          ratio (DSCR) of 1.25x, meaning the business must generate $1.25 in
+          free cash flow for every $1 of annual debt payments. Conventional
+          bank lenders may require 1.30x&ndash;1.50x for non-SBA deals. In
+          practice, prudent buyers should target 1.5x+ DSCR at acquisition
+          to provide sufficient cushion for revenue dips, working capital
+          surprises, or unexpected capital expenditures. A DSCR below 1.2x
+          at acquisition provides no margin of safety and should prompt a
+          renegotiation of the purchase price or capital structure.
+        </p>
+
+        <h3 className={h3Class}>How much personal equity do I need for an SME LBO?</h3>
+        <p>
+          For SBA-financed deals, the minimum buyer equity injection is
+          typically 10&ndash;15% of the total project cost (including
+          working capital and closing costs). With a seller note on
+          standby, this can be reduced further. For traditional search
+          fund acquisitions, the equity comes from committed investors,
+          and the searcher contributes &ldquo;sweat equity&rdquo; in
+          exchange for a carried interest (typically 20&ndash;30% of
+          upside). Self-funded searchers should expect to contribute
+          $100K&ndash;$500K personally, depending on deal size.
+        </p>
+
+        <h3 className={h3Class}>What types of businesses are poor LBO candidates?</h3>
+        <p>
+          Businesses with cyclical or project-based revenue, high capital
+          expenditure requirements, thin margins, or heavy customer
+          concentration make poor LBO candidates. The LBO model depends
+          on predictable, stable cash flow to service debt. Businesses that
+          experience 20%+ revenue swings between years cannot reliably
+          cover fixed debt payments. Similarly, capital-intensive businesses
+          (manufacturing, heavy equipment) may have maintenance capex that
+          consumes most of the free cash flow, leaving insufficient cushion
+          for debt service.
         </p>
       </div>
     </article>

@@ -10,9 +10,12 @@ export default function EffectiveInvestorMeetingArticle() {
         <p>
           The investor meeting is the decisive moment in search fund fundraising. Your private placement
           memorandum gets you in the door, but the face-to-face (or video) meeting determines whether
-          an investor commits capital. Experienced search fund investors often make their decision
-          within the first thirty minutes — not based on your financial projections, but on their
-          assessment of you as a person they trust to find, acquire, and operate a business.
+          an investor commits capital. According to the Stanford GSB 2024 Search Fund Study, the median
+          traditional search fund raises from 15&ndash;17 investors, meaning searchers must convert a
+          meaningful fraction of their investor meetings into commitments. Experienced search fund investors
+          often make their decision within the first thirty minutes &mdash; not based on your financial
+          projections, but on their assessment of you as a person they trust to find, acquire, and operate
+          a business.
         </p>
         <p>
           Yet many first-time searchers approach investor meetings with the wrong mindset. They
@@ -131,9 +134,11 @@ export default function EffectiveInvestorMeetingArticle() {
 
       <div className={bodyClass}>
         <p>
-          Financial projections are necessary but dangerous. Presenting unrealistic numbers destroys
-          credibility instantly with sophisticated investors. Present projections that are grounded,
-          transparent, and honest about assumptions.
+          Financial projections are necessary but dangerous. As Harvard Business School&apos;s note on
+          the search fund investment process emphasizes, experienced investors have seen thousands of
+          projections and can immediately spot unrealistic assumptions. Presenting unrealistic numbers
+          destroys credibility instantly with sophisticated investors. Present projections that are
+          grounded, transparent, and honest about assumptions.
         </p>
 
         <ul className={ulClass}>
@@ -435,14 +440,31 @@ export default function EffectiveInvestorMeetingArticle() {
         </li>
       </ul>
 
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How should I handle investor meetings when raising internationally?</h3>
+      <div className={bodyClass}>
+        <p>International fundraising adds complexity around time zones, cultural norms, and investment structures. European investors (particularly those from IESE or HEC networks) may focus more on the <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA landscape</Link> and local market dynamics, while US-based investors evaluate through the lens of the Stanford search fund model. Tailor your thesis and market analysis to the investor&apos;s geographic expertise. For cross-border funds, be prepared to explain currency risk, legal structure differences, and how you will manage investor communications across time zones.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the ideal number of investors for a traditional search fund?</h3>
+      <div className={bodyClass}>
+        <p>The Stanford 2024 study shows the median traditional search fund has 15&ndash;17 investors, each committing $30,000&ndash;$50,000 in search capital. Having too few investors (under 10) concentrates risk and limits your acquisition funding pool. Having too many (over 25) creates governance complexity and communication burden. The sweet spot balances sufficient capital, diverse expertise, and manageable investor relations. During meetings, investors may ask about your target syndicate size &mdash; have a clear answer grounded in your <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet</Link> economics.</p>
+      </div>
+
+      <h3 className={h3Class}>How do acquisition-phase investor meetings differ from search-phase meetings?</h3>
+      <div className={bodyClass}>
+        <p>Acquisition-phase meetings are fundamentally different: investors are evaluating a specific business, not just you. The meeting should open with a concise overview of the target, followed by financial performance, deal terms, and your value creation thesis. You should have a complete <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis, a clear capital structure, and sensitivity analysis at multiple exit scenarios ready. Expect deeper questions on customer concentration, competitive dynamics, and management transition. These meetings typically require 60&ndash;90 minutes and often involve multiple rounds before commitment.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
-        <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2023)</li>
-        <li>IESE Business School, <em>International Search Fund Study</em> (2023)</li>
+        <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024)</li>
+        <li>Stanford Graduate School of Business, <em>2024 Search Fund Study</em> (2024)</li>
+        <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
         <li>Harvard Business School, <em>Note on the Search Fund Investment Process</em> (2022)</li>
         <li>Brad Feld and Jason Mendelson, <em>Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist</em> (4th ed., Wiley, 2019)</li>
-        <li>National Venture Capital Association, <em>NVCA Model Legal Documents — Term Sheet</em> (2023)</li>
         <li>Kauffman Fellows, <em>Best Practices in Investor Communication and Fundraising</em> (2022)</li>
       </ul>
     </article>

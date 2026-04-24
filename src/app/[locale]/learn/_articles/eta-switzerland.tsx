@@ -22,8 +22,9 @@ export default function ETASwitzerlandArticle() {
 
         <h2 className={h2Class}>The Swiss market landscape</h2>
         <p>
-          Switzerland is home to approximately 600,000 businesses, of which over
-          99% are classified as KMU (Kleine und Mittlere Unternehmen, the German
+          According to the Swiss Federal Statistical Office, Switzerland is
+          home to approximately 600,000 businesses, of which over 99% are
+          classified as KMU (Kleine und Mittlere Unternehmen, the German
           equivalent of SME). Swiss KMUs employ roughly two-thirds of the private-sector
           workforce and are the backbone of the national economy. The country&apos;s
           KMU sector is renowned globally for engineering excellence, precision
@@ -100,10 +101,10 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>The Nachfolge crisis</h2>
         <p>
           The Nachfolge (succession) crisis is one of the most discussed business
-          challenges in Switzerland. Industry estimates from organizations such
-          as the KMU-Institut at the University of St. Gallen suggest that tens
-          of thousands of Swiss businesses will need to find successors in the
-          coming years. The crisis is driven by several converging factors.
+          challenges in Switzerland. Research from the KMU-Institut at the
+          University of St. Gallen estimates that roughly 75,000 Swiss businesses
+          will need to find successors over the next decade, representing over
+          400,000 jobs. The crisis is driven by several converging factors.
         </p>
         <ul className={ulClass}>
           <li><strong>Demographics:</strong> A significant proportion of KMU owners are baby boomers approaching or past retirement age. Many have been running their businesses for 30 or more years.</li>
@@ -229,8 +230,44 @@ export default function ETASwitzerlandArticle() {
           <li><strong>Local anchoring:</strong> Swiss business culture values local presence and commitment. Relocating to Switzerland and establishing a physical base in the target region signals seriousness.</li>
           <li><strong>Treuhand advisors:</strong> The Swiss Treuhand (fiduciary) system is unique. A licensed Treuhandexperte can provide accounting, tax, and advisory services for the acquisition process and post-completion operations.</li>
           <li><strong>Patience with valuations:</strong> Swiss business owners are well-informed about valuations and are rarely in a hurry to sell. Be prepared for extended negotiations and realistic about the premium required for Swiss quality.</li>
-          <li><strong>Post-acquisition value creation:</strong> The best opportunities for value creation in Swiss acquisitions often lie in digitalization, international expansion, and operational optimization rather than cost-cutting, given the already lean nature of most Swiss KMUs.</li>
+          <li><strong>Post-acquisition value creation:</strong> The best opportunities for value creation in Swiss acquisitions often lie in <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digitalization</Link>, international expansion, and operational optimization rather than cost-cutting, given the already lean nature of most Swiss KMUs.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What makes Switzerland attractive for business acquisitions?</h3>
+        <p>
+          Switzerland offers over 600,000 KMUs with many facing succession
+          challenges, exceptionally high profitability (Swiss businesses
+          typically command premium margins), political and economic stability,
+          a strong legal framework, access to German, French, and
+          Italian-speaking markets, and a sophisticated financial ecosystem.
+          Swiss cantonal banks actively finance business acquisitions, and the
+          participation exemption (Beteiligungsabzug) makes the country
+          tax-efficient for holding structures.
+        </p>
+
+        <h3 className={h3Class}>What are the challenges of acquiring a business in Switzerland?</h3>
+        <p>
+          Key challenges include high valuations (Swiss businesses command a
+          1&ndash;2x EBITDA premium over EU peers), high labor costs, complex
+          cantonal tax variations, multiple languages across regions, and strict
+          work permit requirements for non-EU nationals under the Lex Koller
+          legislation. Competition from local family offices and PE firms for
+          quality deals is also significant.
+        </p>
+
+        <h3 className={h3Class}>How does the Swiss search fund ecosystem compare to other European markets?</h3>
+        <p>
+          Switzerland&apos;s search fund ecosystem is centered around the
+          University of St. Gallen (HSG) and EPFL/HEC Lausanne. Swiss searchers
+          benefit from access to the broader DACH market (Germany, Austria,
+          Switzerland) and multilingual deal flow. Swiss family offices are
+          increasingly active as <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">search fund investors</Link>, and the
+          country&apos;s position at the crossroads of three major European
+          language zones gives Swiss-based searchers a unique geographic
+          advantage.
+        </p>
       </div>
     </article>
   );

@@ -8,7 +8,7 @@ export default function EquityWaterfallArticle() {
 
       <div className={bodyClass}>
         <p>
-          The equity waterfall determines how returns are distributed between search fund investors and the searcher/CEO. Understanding waterfall mechanics is essential for both sides &mdash; it directly impacts how much each party takes home at exit.
+          The equity waterfall determines how returns are distributed between search fund investors and the searcher/CEO. Understanding waterfall mechanics is essential for both sides &mdash; it directly impacts how much each party takes home at exit. According to the Stanford GSB 2024 Search Fund Study, the median search fund generates a 2.9x gross return to investors, but the actual distribution between investors and the searcher depends entirely on how the waterfall is structured. The IESE International Search Fund Study confirms that international search funds increasingly follow the same waterfall conventions established by US programs, though regional variations exist in preferred return rates and vesting schedules.
         </p>
       </div>
 
@@ -106,10 +106,10 @@ export default function EquityWaterfallArticle() {
       <h2 className={h2Class}>Variations by Deal Type</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Traditional search fund:</strong> Standard waterfall as described above. 20&ndash;25% searcher equity with 1.5x step-up.</li>
-          <li><strong>Self-funded search:</strong> No search capital stage, so no step-up. Searcher typically takes larger equity stake (30&ndash;50%) since they bear the search cost personally.</li>
-          <li><strong>Pledge fund:</strong> Similar to traditional but investors commit capital upfront for both search and acquisition. Waterfall terms may be slightly less favorable to the searcher.</li>
-          <li><strong>Independent sponsor:</strong> Deal-by-deal fundraising. Promoted interest (carried interest) of 15&ndash;25% with no search capital stage.</li>
+          <li><strong>Traditional search fund:</strong> Standard waterfall as described above. 20&ndash;25% searcher equity with 1.5x step-up. This is the dominant model tracked by both the Stanford and IESE studies.</li>
+          <li><strong><Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">Self-funded search</Link>:</strong> No search capital stage, so no step-up. Searcher typically takes larger equity stake (30&ndash;50%) since they bear the search cost personally.</li>
+          <li><strong><Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">Pledge fund</Link>:</strong> Similar to traditional but investors commit capital upfront for both search and acquisition. Waterfall terms may be slightly less favorable to the searcher.</li>
+          <li><strong><Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">Independent sponsor</Link>:</strong> Deal-by-deal fundraising. Promoted interest (carried interest) of 15&ndash;25% with no search capital stage.</li>
         </ul>
       </div>
 
@@ -142,9 +142,27 @@ export default function EquityWaterfallArticle() {
         <li><Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">Exit Strategies for Search Fund CEOs</Link></li>
       </ul>
 
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What happens to the searcher&apos;s equity if the search fund does not find an acquisition?</h3>
+      <div className={bodyClass}>
+        <p>If the search fund winds down without completing an acquisition, the searcher earns no equity. Search capital is returned to investors (minus expenses), and the searcher&apos;s sweat equity is worthless. According to the Stanford 2024 study, approximately 25&ndash;30% of funded searches do not result in an acquisition. This risk is a fundamental feature of the model: the searcher takes significant personal career risk in exchange for the potential for substantial equity upside if an acquisition succeeds.</p>
+      </div>
+
+      <h3 className={h3Class}>How is the searcher&apos;s equity taxed at exit?</h3>
+      <div className={bodyClass}>
+        <p>In the US, the searcher&apos;s equity is typically structured as common stock or profits interest, with the goal of qualifying for long-term capital gains treatment (currently 20% federal rate plus 3.8% net investment income tax). The first tranche that vests at closing may be subject to Section 83(b) elections to lock in a low tax basis. Time-vested and performance-vested tranches are taxed as ordinary income on vesting unless properly structured. For international search funds, the tax treatment varies by jurisdiction &mdash; see our <Link href="/learn/capital-gains-tax-by-country" className="text-apple-accent hover:underline">capital gains tax by country</Link> guide.</p>
+      </div>
+
+      <h3 className={h3Class}>Can the waterfall terms be renegotiated after the search fund is formed?</h3>
+      <div className={bodyClass}>
+        <p>Technically yes, but practically it is rare and risky. The waterfall terms are established in the Limited Partnership Agreement (LPA) during the search capital raise. Renegotiating terms after investors have committed capital can damage trust and relationships. The most common scenario for modification is at the acquisition stage, when some investors may negotiate different terms for their acquisition equity. The best practice is to model the waterfall thoroughly at multiple exit scenarios before finalizing the LPA, ensuring both parties are comfortable with the economics across all outcomes.</p>
+      </div>
+
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>Stanford Graduate School of Business, <em>A Primer on Search Funds</em> (2024)</li>
+        <li>Stanford Graduate School of Business, <em>2024 Search Fund Study</em> (2024)</li>
         <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
         <li>Harvard Business School, <em>Note on Search Funds</em> (2023)</li>
         <li>Jim Southern & Peter Kelly, <em>Search Fund Economics</em> (Stanford GSB Case Study, 2022)</li>
