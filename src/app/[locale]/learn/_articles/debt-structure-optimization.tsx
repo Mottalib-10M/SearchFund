@@ -13,7 +13,7 @@ export default function DebtStructureOptimizationArticle() {
           well-designed debt structure reduces your blended cost of capital,
           preserves equity upside for you and your investors, and provides
           the operational flexibility you need during the critical first years
-          of ownership. A poorly designed structure &mdash; too much leverage,
+          of ownership. A poorly designed structure &mdash; too much use,
           mismatched maturities, or overly restrictive covenants &mdash; can
           strangle an otherwise healthy business and force a fire sale.
           Understanding how to architect, negotiate, and manage your debt
@@ -94,22 +94,22 @@ export default function DebtStructureOptimizationArticle() {
         <p>
           Search fund acquisitions typically target businesses with strong,
           recurring cash flows and low capital expenditure requirements. These
-          characteristics support relatively high leverage compared to, say,
+          characteristics support relatively high use compared to, say,
           manufacturing or construction businesses. However, the right
           leverage ratio depends on several factors:
         </p>
         <ul className={ulClass}>
           <li><strong>Revenue stability:</strong> Businesses with contractual or subscription-based revenue can support 3.5x&ndash;4.5x total debt-to-EBITDA. Project-based or cyclical businesses should stay below 3.0x.</li>
           <li><strong>Customer concentration:</strong> If a single customer represents more than 15&ndash;20% of revenue, lenders will reduce advance rates. De-risking customer concentration before or during the acquisition process expands your debt capacity.</li>
-          <li><strong>Capital expenditure requirements:</strong> Asset-light businesses with capex below 5% of revenue can dedicate more free cash flow to debt service. Capital-intensive businesses need lower leverage to preserve reinvestment capacity.</li>
+          <li><strong>Capital expenditure requirements:</strong> Asset-light businesses with capex below 5% of revenue can dedicate more free cash flow to debt service. Capital-intensive businesses need lower use to preserve reinvestment capacity.</li>
           <li><strong>Management transition risk:</strong> A first-time CEO taking over from a founder creates operational risk that lenders will price in. A detailed{" "}
             <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">legal and governance structure</Link>{" "}
             with an experienced board can partially offset this concern.</li>
-          <li><strong>Growth trajectory:</strong> A business growing at 10%+ organically can support higher leverage because the debt-to-EBITDA ratio naturally declines as EBITDA grows. A flat or declining business needs conservative leverage and fast amortization.</li>
+          <li><strong>Growth trajectory:</strong> A business growing at 10%+ organically can support higher use because the debt-to-EBITDA ratio naturally declines as EBITDA grows. A flat or declining business needs conservative use and fast amortization.</li>
         </ul>
         <p>
           As a practical guideline, most successful search fund acquisitions
-          close with total leverage of 3.0x&ndash;4.0x EBITDA, consisting of
+          close with total use of 3.0x&ndash;4.0x EBITDA, consisting of
           2.5x&ndash;3.5x senior debt plus 0.5x&ndash;1.0x in seller notes
           or subordinated debt. This leaves enough free cash flow for debt
           service, working capital fluctuations, modest capital expenditures,
@@ -208,7 +208,7 @@ export default function DebtStructureOptimizationArticle() {
 
         <h3 className={h3Class}>Common financial covenants</h3>
         <ul className={ulClass}>
-          <li><strong>Debt-to-EBITDA ratio:</strong> Maximum total leverage, typically tested quarterly. A common initial covenant is 4.0x with step-downs to 3.0x over 3&ndash;4 years as you repay principal.</li>
+          <li><strong>Debt-to-EBITDA ratio:</strong> Maximum total use, typically tested quarterly. A common initial covenant is 4.0x with step-downs to 3.0x over 3&ndash;4 years as you repay principal.</li>
           <li><strong>Fixed charge coverage ratio (FCCR):</strong> Minimum ratio of EBITDA (or EBITDA minus capex) to total fixed charges (debt service plus lease payments plus taxes). Typically 1.20x&ndash;1.50x.</li>
           <li><strong>Minimum EBITDA:</strong> An absolute dollar floor on EBITDA, ensuring the business maintains a minimum level of profitability. Less common but sometimes included for smaller deals.</li>
           <li><strong>Capital expenditure limit:</strong> A cap on annual capex, preventing you from over-investing and depleting cash that should service the debt.</li>
@@ -221,10 +221,10 @@ export default function DebtStructureOptimizationArticle() {
           safety. Here is how to maximize it:
         </p>
         <ul className={ulClass}>
-          <li><strong>Use realistic projections:</strong> When negotiating covenants, present conservative financial projections. If your base case shows 2.5x leverage and you negotiate a 4.0x covenant, you have 1.5x of headroom. If you presented aggressive projections and negotiated 3.0x, you have only 0.5x of headroom for exactly the same underlying economics.</li>
+          <li><strong>Use realistic projections:</strong> When negotiating covenants, present conservative financial projections. If your base case shows 2.5x use and you negotiate a 4.0x covenant, you have 1.5x of headroom. If you presented aggressive projections and negotiated 3.0x, you have only 0.5x of headroom for exactly the same underlying economics.</li>
           <li><strong>Request EBITDA add-backs:</strong> Negotiate the definition of &quot;EBITDA&quot; in the credit agreement to include specific add-backs: one-time transaction costs, non-recurring legal expenses, owner compensation adjustments, and integration costs. Every add-back increases your measured EBITDA and improves covenant compliance.</li>
           <li><strong>Push for equity cure rights:</strong> An equity cure allows you to inject additional equity into the business to cure a covenant breach rather than triggering an event of default. This is a valuable safety valve that costs nothing to negotiate upfront.</li>
-          <li><strong>Negotiate a cushion on step-downs:</strong> If covenants step down over time (e.g., from 4.0x to 3.0x leverage), ensure the step-down schedule is realistic given your amortization schedule and projected EBITDA growth.</li>
+          <li><strong>Negotiate a cushion on step-downs:</strong> If covenants step down over time (e.g., from 4.0x to 3.0x use), ensure the step-down schedule is realistic given your amortization schedule and projected EBITDA growth.</li>
         </ul>
 
         <h3 className={h3Class}>Negative covenants to watch</h3>
@@ -268,7 +268,7 @@ export default function DebtStructureOptimizationArticle() {
           <li><strong>Year 2&ndash;3 refinancing:</strong> After 18&ndash;24 months of ownership, you have audited financials under your management, a demonstrated track record, and (hopefully) growing EBITDA. This is often the optimal window to refinance senior debt at lower spreads, extend the maturity, or increase the facility to fund growth.</li>
           <li><strong>Taking out mezzanine:</strong> If you used mezzanine debt at acquisition, plan to refinance it with cheaper senior debt as the business deleverages. Replacing 15% mezzanine with 7% senior debt on a $1M tranche saves $80K annually in interest.</li>
           <li><strong>Prepayment penalties:</strong> Understand your prepayment provisions before refinancing. Many senior loans have no prepayment penalty or a modest one (1&ndash;2% in year one, declining to zero). Mezzanine debt often carries steeper prepayment penalties (3&ndash;5%) to protect the lender&rsquo;s yield.</li>
-          <li><strong>Cash-out refinancing:</strong> Once leverage has declined through amortization and EBITDA growth, you may be able to refinance and extract cash for dividends to investors or to fund add-on acquisitions in a{" "}
+          <li><strong>Cash-out refinancing:</strong> Once use has declined through amortization and EBITDA growth, you may be able to refinance and extract cash for dividends to investors or to fund add-on acquisitions in a{" "}
             <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax-efficient manner</Link>.</li>
         </ul>
 
@@ -341,7 +341,7 @@ export default function DebtStructureOptimizationArticle() {
 
         <h3 className={h3Class}>United States</h3>
         <ul className={ulClass}>
-          <li><strong>SBA 7(a) program:</strong> The single most impactful financing tool for US searchers. Up to $5M per borrower at prime + 2.25&ndash;2.75%, with up to 90% leverage and 10-year fully amortizing terms. No other market offers government-backed acquisition financing this generous.</li>
+          <li><strong>SBA 7(a) program:</strong> The single most impactful financing tool for US searchers. Up to $5M per borrower at prime + 2.25&ndash;2.75%, with up to 90% use and 10-year fully amortizing terms. No other market offers government-backed acquisition financing this generous.</li>
           <li><strong>Deep lender ecosystem:</strong> Thousands of community banks, regional banks, credit unions, and specialty lenders compete for acquisition loans. This competition drives favorable pricing and terms.</li>
           <li><strong>Floating-rate norm:</strong> Most US acquisition debt is floating rate (SOFR-based), creating interest rate exposure that must be managed.</li>
           <li><strong>Personal guarantees:</strong> Standard on deals below $5&ndash;10M. Lenders expect the searcher to have &quot;skin in the game&quot; through personal guarantees, even when the business cash flows strongly support the debt.</li>
@@ -353,7 +353,7 @@ export default function DebtStructureOptimizationArticle() {
           <li><strong>Relationship-based lending:</strong> European banks place greater emphasis on the borrower&rsquo;s relationship with the institution. The German &quot;Hausbank&quot; principle means your primary banking relationship often determines your access to acquisition financing. Start building these relationships well before you need them.</li>
           <li><strong>Fixed-rate availability:</strong> European lenders more commonly offer fixed-rate acquisition loans, particularly through government-backed programs. This is a significant advantage in volatile rate environments.</li>
           <li><strong>Cross-border complexity:</strong> Acquiring a business in a country where you are not a resident adds layers of regulatory, tax, and banking complexity. Many European banks will only lend to borrowers with established residency and banking history in the target country.</li>
-          <li><strong>Lower leverage norms:</strong> European acquisition lenders are generally more conservative than their US counterparts, advancing 2.0x&ndash;3.5x EBITDA compared to 2.5x&ndash;4.5x in the US. This gap is partially offset by more favorable government-backed subordinated loan programs.</li>
+          <li><strong>Lower use norms:</strong> European acquisition lenders are generally more conservative than their US counterparts, advancing 2.0x&ndash;3.5x EBITDA compared to 2.5x&ndash;4.5x in the US. This gap is partially offset by more favorable government-backed subordinated loan programs.</li>
         </ul>
 
         <h3 className={h3Class}>Practical implications</h3>
@@ -378,8 +378,8 @@ export default function DebtStructureOptimizationArticle() {
         </p>
         <ol className={olClass}>
           <li><strong>Model the cash flows first:</strong> Before approaching any lender, build a detailed monthly cash flow model for the first 24 months and a quarterly model through your expected exit. Stress test under multiple revenue and margin scenarios. This model is the foundation of every debt structure decision.</li>
-          <li><strong>Determine maximum safe leverage:</strong> Using your cash flow model, identify the maximum debt level that maintains a DSCR above 1.25x in your downside scenario. This is your ceiling &mdash; do not exceed it regardless of what lenders are willing to advance.</li>
-          <li><strong>Design the capital stack:</strong> Allocate total leverage across senior debt, mezzanine, and seller notes. Maximize cheap senior debt first, then fill with seller notes (cheapest subordinated capital), and use mezzanine only if necessary to reach your target equity contribution.</li>
+          <li><strong>Determine maximum safe use:</strong> Using your cash flow model, identify the maximum debt level that maintains a DSCR above 1.25x in your downside scenario. This is your ceiling &mdash; do not exceed it regardless of what lenders are willing to advance.</li>
+          <li><strong>Design the capital stack:</strong> Allocate total use across senior debt, mezzanine, and seller notes. Maximize cheap senior debt first, then fill with seller notes (cheapest subordinated capital), and use mezzanine only if necessary to reach your target equity contribution.</li>
           <li><strong>Select amortization and maturity:</strong> Match maturities to your hold period. Negotiate for interest-only periods where possible, particularly on subordinated layers. Ensure no single maturity date creates a refinancing cliff.</li>
           <li><strong>Hedge rate exposure:</strong> If carrying floating-rate debt, evaluate caps and swaps. Budget 0.5&ndash;1.5% of the floating-rate notional for hedging costs.</li>
           <li><strong>Negotiate covenants with headroom:</strong> Target covenant levels that provide at least 20&ndash;30% headroom over your projected financial metrics. Negotiate EBITDA definitions, cure rights, and basket sizes in the credit agreement.</li>
@@ -388,14 +388,14 @@ export default function DebtStructureOptimizationArticle() {
 
         <h2 className={h2Class}>Common mistakes to avoid</h2>
         <ul className={ulClass}>
-          <li><strong>Over-leveraging based on trailing EBITDA:</strong> Trailing EBITDA may include owner add-backs, one-time revenue, or unsustainable cost structures. Finance based on normalized, sustainable EBITDA &mdash; what the business will actually produce under your ownership.</li>
+          <li><strong>Over-using based on trailing EBITDA:</strong> Trailing EBITDA may include owner add-backs, one-time revenue, or unsustainable cost structures. Finance based on normalized, sustainable EBITDA &mdash; what the business will actually produce under your ownership.</li>
           <li><strong>Ignoring working capital swings:</strong> Seasonal businesses can experience significant{" "}
             <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital fluctuations</Link>{" "}
             that temporarily consume all free cash flow. If your debt structure has no flexibility (revolver, interest-only period) to absorb these swings, you may trip covenants in an otherwise healthy business.</li>
           <li><strong>Focusing only on interest rate:</strong> The cheapest loan is not always the best loan. Flexible covenants, an interest-only period, and a committed revolver can be worth far more than a 0.25% rate reduction.</li>
           <li><strong>Neglecting the credit agreement:</strong> The term sheet is a starting point, not the final word. Many critical terms &mdash; default triggers, cure periods, EBITDA definitions, and permitted activities &mdash; are only defined in the credit agreement. Invest in experienced legal counsel to negotiate this document.</li>
           <li><strong>Failing to build lender relationships early:</strong> Lenders who do not understand the search fund model will take weeks to get comfortable, delaying your closing timeline and weakening your position with the seller.</li>
-          <li><strong>Mismatching maturities:</strong> All debt maturing in the same year creates a refinancing cliff that gives lenders outsized negotiating leverage. Stagger your maturities to maintain optionality.</li>
+          <li><strong>Mismatching maturities:</strong> All debt maturing in the same year creates a refinancing cliff that gives lenders outsized negotiating use. Stagger your maturities to maintain optionality.</li>
         </ul>
 
         <h2 className={h2Class}>Key takeaways</h2>

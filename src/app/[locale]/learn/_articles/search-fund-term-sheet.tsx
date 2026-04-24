@@ -522,7 +522,7 @@ export default function SearchFundTermSheetArticle() {
           (at close, over time, and upon achieving IRR hurdles). A
           two-person search team earns up to 30% combined. The exact
           percentage depends on the total capital raised, the step-up
-          multiple, and the negotiating leverage of the searcher &mdash;
+          multiple, and the negotiating use of the searcher &mdash;
           candidates with prior operating experience, an MBA from a top
           program, or a strong pipeline of acquisition targets can push
           toward the higher end. The performance-vesting tranche (roughly

@@ -30,7 +30,7 @@ export default function CommercialDueDiligenceArticle() {
 
       <ul className={ulClass}>
         <li><strong>Market validation:</strong> Confirming that the target operates in an attractive, growing, or stable market with favorable long-term dynamics</li>
-        <li><strong>Competitive assessment:</strong> Understanding the competitive landscape and evaluating whether the target has sustainable competitive advantages</li>
+        <li><strong>Competitive assessment:</strong> Understanding the competitive environment and evaluating whether the target has sustainable competitive advantages</li>
         <li><strong>Customer analysis:</strong> Assessing customer concentration, retention patterns, and satisfaction to validate revenue stability</li>
         <li><strong>Revenue quality:</strong> Determining whether reported revenues are sustainable, recurring, and likely to continue post-acquisition</li>
         <li><strong>Growth opportunity identification:</strong> Uncovering legitimate opportunities for organic growth, operational improvement, or market expansion</li>
@@ -38,7 +38,7 @@ export default function CommercialDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        For search fund acquisitions, commercial due diligence serves an additional purpose: validating the investment thesis presented to investors. Searchers must demonstrate not only that historical performance has been solid, but that the business has clear pathways to growth and defensible competitive positioning that justify the acquisition premium and leverage being deployed.
+        For search fund acquisitions, commercial due diligence serves an additional purpose: validating the investment thesis presented to investors. Searchers must demonstrate not only that historical performance has been solid, but that the business has clear pathways to growth and defensible competitive positioning that justify the acquisition premium and use being deployed.
       </p>
 
       <p className={bodyClass}>
@@ -91,7 +91,7 @@ export default function CommercialDueDiligenceArticle() {
         Markets with favorable structural characteristics - high barriers to entry, fragmented competition, rational pricing, and low substitution risk - tend to support better long-term profitability and more defensible competitive positions.
       </p>
 
-      <h2 className={h2Class}>Competitive Landscape Mapping</h2>
+      <h2 className={h2Class}>competitive environment Mapping</h2>
 
       <p className={bodyClass}>
         Understanding who you compete against, how competition is evolving, and what differentiates your target company from alternatives is fundamental to assessing sustainability and growth potential.
@@ -359,7 +359,7 @@ export default function CommercialDueDiligenceArticle() {
         <li><strong>Substitutability:</strong> How easily could critical suppliers be replaced if relationships were disrupted?</li>
         <li><strong>Contract terms:</strong> Are supplier relationships governed by long-term contracts or at-will arrangements?</li>
         <li><strong>Switching costs:</strong> What would be the cost and disruption of changing suppliers?</li>
-        <li><strong>Supplier leverage:</strong> Do suppliers have pricing power or other leverage over the business?</li>
+        <li><strong>Supplier use:</strong> Do suppliers have pricing power or other use over the business?</li>
       </ul>
 
       <p className={bodyClass}>
@@ -441,7 +441,7 @@ export default function CommercialDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Searchers conducting their own CDD should leverage free and low-cost resources:
+        Searchers conducting their own CDD should use free and low-cost resources:
       </p>
 
       <ul className={ulClass}>
@@ -475,7 +475,7 @@ export default function CommercialDueDiligenceArticle() {
       <h2 className={h2Class}>Commercial Due Diligence Checklist</h2>
 
       <p className={bodyClass}>
-        A comprehensive commercial due diligence process should systematically address the following areas:
+        A thorough commercial due diligence process should systematically address the following areas:
       </p>
 
       <h3 className={h3Class}>Market Analysis</h3>
@@ -491,7 +491,7 @@ export default function CommercialDueDiligenceArticle() {
         <li>Demographic and macroeconomic drivers</li>
       </ul>
 
-      <h3 className={h3Class}>Competitive Landscape</h3>
+      <h3 className={h3Class}>competitive environment</h3>
 
       <ul className={ulClass}>
         <li>Direct and indirect competitor identification and profiling</li>

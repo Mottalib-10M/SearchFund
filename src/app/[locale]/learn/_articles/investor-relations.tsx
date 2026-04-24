@@ -248,12 +248,12 @@ export default function InvestorRelationsArticle() {
           board on a quarterly schedule.
         </p>
 
-        <h2 className={h2Class}>Leveraging investors as a resource</h2>
+        <h2 className={h2Class}>Using investors as a resource</h2>
         <p>
           Your investor base is far more than a pool of capital. Experienced
           search fund investors have backed dozens of companies, served on
           numerous boards, and built extensive professional networks. Failing
-          to leverage these resources is one of the most common mistakes
+          to use these resources is one of the most common mistakes
           first-time search fund CEOs make.
         </p>
 
@@ -277,7 +277,7 @@ export default function InvestorRelationsArticle() {
           become invaluable advisors. If you acquire a healthcare services
           company and one of your investors has 20 years of healthcare
           operating experience, schedule regular one-on-one calls with them.
-          They can help you navigate regulatory complexities, identify
+          They can help you manage regulatory complexities, identify
           growth opportunities, and avoid common pitfalls specific to the
           sector. Similarly, investors with functional expertise (finance,
           marketing, technology, HR) can provide targeted guidance during
@@ -299,7 +299,7 @@ export default function InvestorRelationsArticle() {
 
         <h3 className={h3Class}>Transition from search to operations</h3>
         <p>
-          In the first month after closing, send a comprehensive
+          In the first month after closing, send a thorough
           &ldquo;Day One&rdquo; update that covers the acquisition summary
           (final terms, financing structure, key metrics), your initial
           impressions of the business, your 90-day priorities, and any
@@ -392,7 +392,7 @@ export default function InvestorRelationsArticle() {
 
         <h2 className={h2Class}>Annual meetings</h2>
         <p>
-          Once a year, ideally in person, hold a more comprehensive annual
+          Once a year, ideally in person, hold a more thorough annual
           meeting with all investors. This meeting serves a different
           purpose than the quarterly board calls - it is about
           relationship building, strategic alignment, and celebrating
@@ -400,7 +400,7 @@ export default function InvestorRelationsArticle() {
           meeting typically includes:
         </p>
         <ul className={ulClass}>
-          <li>A comprehensive year-in-review presentation covering financial performance, strategic milestones, and organizational development.</li>
+          <li>A thorough year-in-review presentation covering financial performance, strategic milestones, and organizational development.</li>
           <li>A detailed budget and strategic plan for the coming year.</li>
           <li>If appropriate, a site visit to the business so investors can meet the team and see operations firsthand.</li>
           <li>Time for informal networking and relationship building - dinner or drinks after the formal meeting.</li>
@@ -471,7 +471,7 @@ export default function InvestorRelationsArticle() {
         </p>
         <p>
           Even after exit, maintain the relationship. Send a final
-          comprehensive report summarizing the investment&apos;s lifecycle,
+          thorough report summarizing the investment&apos;s lifecycle,
           returns, and key lessons. Stay in touch with periodic updates
           on your career and future plans. The search fund community is
           small and reputation-driven - your track record as a

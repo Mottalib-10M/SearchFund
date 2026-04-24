@@ -6,7 +6,7 @@ export default function MiddleManagementArticle() {
     <article>
       <h1 className={h1Class}>Middle Management: Your Secret Weapon Post-Acquisition</h1>
       <div className={bodyClass}>
-        <p>In most search fund acquisitions, the business has been run by an owner who managed everything from strategic decisions to daily operations. When you take over, there&apos;s often a missing layer between you (the CEO) and frontline employees: middle management. Developing existing supervisors, team leads, and department heads into effective middle managers is one of the highest-leverage investments you can make as a new CEO.</p>
+        <p>In most search fund acquisitions, the business has been run by an owner who managed everything from strategic decisions to daily operations. When you take over, there&apos;s often a missing layer between you (the CEO) and frontline employees: middle management. Developing existing supervisors, team leads, and department heads into effective middle managers is one of the highest-use investments you can make as a new CEO.</p>
       </div>
 
       <h2 className={h2Class}>Why Middle Management Matters</h2>

@@ -45,7 +45,7 @@ export default function ETABrazilArticle() {
           60s and 70s. Their children increasingly prefer professional careers in
           S&atilde;o Paulo or abroad over running a regional distribution business or
           dental clinic chain. The PwC survey found that only 12% of Brazilian family
-          firms have a robust, documented succession plan&mdash;far below the global
+          firms have a strong, documented succession plan&mdash;far below the global
           average of 30%. This mismatch between aging founders and absent heirs creates
           exactly the conditions where an outsider with capital, operational ambition,
           and a structured acquisition process can step in.

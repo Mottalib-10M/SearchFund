@@ -12,7 +12,7 @@ export default function AcquiringInsuranceAgencyArticle() {
           Insurance distribution is one of the most attractive sectors in the
           entire{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>{" "}
-          landscape. The economics are hard to beat: recurring commissions that
+          market. The economics are hard to beat: recurring commissions that
           renew year after year, client retention rates that routinely exceed
           90%, a deeply fragmented market with tens of thousands of agencies
           owned by retiring baby boomers, and a business model that requires
@@ -41,7 +41,7 @@ export default function AcquiringInsuranceAgencyArticle() {
         <h3 className={h3Class}>Property &amp; casualty (P&amp;C)</h3>
         <p>
           P&amp;C is the largest segment and the bread and butter of most
-          independent agencies. It encompasses commercial lines (business
+          independent agencies. It includes commercial lines (business
           insurance, workers&rsquo; compensation, commercial auto, general
           liability, professional liability) and personal lines (homeowners,
           auto, umbrella). Commercial lines typically generate higher
@@ -92,7 +92,7 @@ export default function AcquiringInsuranceAgencyArticle() {
             automatically when policies renew. A well-managed P&amp;C book
             will generate 85&ndash;95% of the prior year&rsquo;s commission
             revenue without any new sales activity. This predictability makes
-            insurance agencies highly bankable and attractive for leveraged
+            insurance agencies highly bankable and attractive for used
             acquisitions.
           </li>
           <li>
@@ -300,7 +300,7 @@ export default function AcquiringInsuranceAgencyArticle() {
             of total premium is placed with each carrier. If one carrier
             represents more than 25&ndash;30% of the book, you have
             meaningful concentration risk. That carrier has significant
-            leverage over commission rates and appointment terms.
+            use over commission rates and appointment terms.
           </li>
           <li>
             <strong>Appointment breadth:</strong> A well-appointed agency
@@ -748,7 +748,7 @@ export default function AcquiringInsuranceAgencyArticle() {
           post-acquisition investment in technology and sales talent, and a
           long-term vision for building a scaled platform. For searchers
           willing to learn the nuances of insurance distribution &mdash; the
-          commission structures, carrier dynamics, and regulatory landscape
+          commission structures, carrier dynamics, and regulatory environment
           &mdash; the sector offers a compelling path to building significant
           enterprise value with relatively modest initial capital.
         </p>

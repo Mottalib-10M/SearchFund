@@ -15,7 +15,7 @@ export default function HealthcareAcquisitionArticle() {
           a rich opportunity set. But healthcare acquisitions come with regulatory
           requirements, reimbursement complexity, and clinical integration challenges
           that do not exist in other industries. This guide covers the sub-sectors
-          best suited for ETA, the regulatory landscape you must navigate, and the
+          best suited for ETA, the regulatory environment you must manage, and the
           due diligence processes specific to healthcare services businesses.
         </p>
 
@@ -75,7 +75,7 @@ export default function HealthcareAcquisitionArticle() {
 
         <h3 className={h3Class}>Behavioral health</h3>
         <p>
-          Behavioral health encompasses addiction treatment, mental health
+          Behavioral health includes addiction treatment, mental health
           counseling, autism services (ABA therapy), and psychiatric services.
           Demand has surged post-2020, with the national shortage of mental
           health providers creating significant pricing power for established
@@ -131,7 +131,7 @@ export default function HealthcareAcquisitionArticle() {
           offer search fund-sized targets in the $3M-$25M revenue range.
         </p>
 
-        <h2 className={h2Class}>Regulatory landscape</h2>
+        <h2 className={h2Class}>regulatory environment</h2>
         <p>
           Healthcare regulation is the single greatest source of complexity in
           these acquisitions. Failure to properly assess regulatory compliance
@@ -269,7 +269,7 @@ export default function HealthcareAcquisitionArticle() {
             multi-location network.
           </li>
           <li>
-            <strong>Payor leverage:</strong> Larger provider groups can
+            <strong>Payor use:</strong> Larger provider groups can
             negotiate better reimbursement rates with insurance companies,
             directly improving revenue per visit.
           </li>
@@ -285,7 +285,7 @@ export default function HealthcareAcquisitionArticle() {
         <p>
           Beyond the healthcare-specific items below, our general{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> provides
-          a comprehensive framework for any acquisition.
+          a thorough framework for any acquisition.
         </p>
         <ul className={ulClass}>
           <li>

@@ -535,7 +535,7 @@ export default function GoodwillAmortizationTaxArticle() {
       <ul className={ulClass}>
         <li>
           <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
-            Asset Purchase vs. Stock Purchase: Comprehensive Comparison
+            Asset Purchase vs. Stock Purchase: Thorough Comparison
           </Link>
         </li>
         <li>

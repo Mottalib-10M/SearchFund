@@ -248,7 +248,7 @@ export default function PledgeFundModelArticle() {
             <strong>Aggregate committed capital:</strong>{" "}
             $5M&ndash;$30M+, calibrated to the target enterprise value
             range. A fund targeting $15M&ndash;$25M acquisitions with
-            50%&ndash;60% leverage needs $6M&ndash;$10M in equity
+            50%&ndash;60% use needs $6M&ndash;$10M in equity
             commitments.
           </li>
           <li>
@@ -436,7 +436,7 @@ export default function PledgeFundModelArticle() {
             held for more than three years to qualify for long-term capital
             gains treatment; exits before that threshold trigger ordinary
             income taxation. Tax-exempt LPs (endowments, foundations) face
-            unrelated business taxable income (UBTI) exposure on leveraged
+            unrelated business taxable income (UBTI) exposure on used
             deals, often requiring a blocker corporation that adds cost
             and complexity.
           </li>
@@ -448,7 +448,7 @@ export default function PledgeFundModelArticle() {
         </h2>
         <p>
           The 2024 Stanford GSB Search Fund Study &mdash; the most
-          comprehensive longitudinal dataset in ETA &mdash; tracks 681
+          thorough longitudinal dataset in ETA &mdash; tracks 681
           search funds formed in the United States and Canada since 1984.
           While the study does not publish a separate return series for
           pledge funds, the aggregate data provides a useful benchmark
@@ -602,7 +602,7 @@ export default function PledgeFundModelArticle() {
         {/* ------------------------------------------------------------------ */}
         <p>
           The pledge fund model occupies a distinct and growing niche
-          within the ETA landscape. For experienced searchers targeting
+          within the ETA market. For experienced searchers targeting
           mid-market acquisitions with a curated investor base, it offers
           a compelling blend of committed backing, deal-level
           transparency, and structural flexibility. For everyone else,

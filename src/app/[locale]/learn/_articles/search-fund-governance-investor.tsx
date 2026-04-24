@@ -16,7 +16,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           through a small board with significant protective rights. According
           to the Stanford 2024 Search Fund Study, roughly one-third of
           searcher-CEOs are eventually replaced by their boards &mdash; a
-          statistic that underscores how governance in this asset class is not
+          statistic that highlights how governance in this asset class is not
           ceremonial. This guide breaks down the mechanics of search fund
           governance from the investor&rsquo;s seat: board composition, voting
           rights, protective provisions, information rights, and the delicate
@@ -108,7 +108,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           </li>
           <li>
             <strong>Issuance of new equity or debt above a threshold.</strong>{" "}
-            This prevents dilution of investor stakes and excessive leverage
+            This prevents dilution of investor stakes and excessive use
             without board consent.
           </li>
           <li>
@@ -259,7 +259,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           </li>
           <li>
             Strategic update: progress on the annual plan, competitive
-            landscape shifts, and any proposed changes to strategy.
+            market shifts, and any proposed changes to strategy.
           </li>
           <li>
             Talent review: key hires, departures, organizational changes, and
@@ -504,7 +504,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           2024 study and MBA Search Fund Alliance data) is higher than in
           traditional PE, reflecting the inherent risk of backing
           inexperienced operators. These factors make governance both more
-          important and more nuanced than in a typical PE deal.
+          important and more detailed than in a typical PE deal.
         </p>
 
         <h3 className={h3Class}>

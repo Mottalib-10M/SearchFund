@@ -79,7 +79,7 @@ export const brokers: BrokerEntry[] = [
     country: "United Kingdom",
     website: "https://www.tworldba.co.uk",
     description:
-      "Transworld Business Advisors UK is the British arm of the global Transworld network, one of the largest business brokerage franchises in the world. The firm helps SME owners sell their businesses and assists buyers in finding suitable acquisition targets across a wide range of industries. Transworld UK offers business valuation, confidential marketing, buyer qualification, and deal management services. The franchise model gives Transworld local presence in multiple UK regions while leveraging global best practices and brand recognition. For search fund entrepreneurs, Transworld provides structured deal processes and access to a steady pipeline of businesses coming to market in the UK.",
+      "Transworld Business Advisors UK is the British arm of the global Transworld network, one of the largest business brokerage franchises in the world. The firm helps SME owners sell their businesses and assists buyers in finding suitable acquisition targets across a wide range of industries. Transworld UK offers business valuation, confidential marketing, buyer qualification, and deal management services. The franchise model gives Transworld local presence in multiple UK regions while using global best practices and brand recognition. For search fund entrepreneurs, Transworld provides structured deal processes and access to a steady pipeline of businesses coming to market in the UK.",
     specialization: ["General", "All sectors"],
     dealSizeRange: "£50K-£10M",
     type: "broker",
@@ -108,7 +108,7 @@ export const brokers: BrokerEntry[] = [
     country: "France",
     website: "https://transmission.bpifrance.fr",
     description:
-      "Bpifrance Transmission is the business transfer platform operated by Bpifrance, France's public investment bank. The platform lists thousands of French businesses available for sale or seeking a successor, covering all regions and sectors. Bpifrance Transmission provides tools for buyers to search for businesses by location, sector, revenue, and price range. The platform also connects buyers with financing options through Bpifrance's lending and guarantee programs. As a government-backed initiative, the platform plays a critical role in addressing France's SME succession challenge. For search fund entrepreneurs operating in France, it is one of the most comprehensive sources of deal flow.",
+      "Bpifrance Transmission is the business transfer platform operated by Bpifrance, France's public investment bank. The platform lists thousands of French businesses available for sale or seeking a successor, covering all regions and sectors. Bpifrance Transmission provides tools for buyers to search for businesses by location, sector, revenue, and price range. The platform also connects buyers with financing options through Bpifrance's lending and guarantee programs. As a government-backed initiative, the platform plays a critical role in addressing France's SME succession challenge. For search fund entrepreneurs operating in France, it is one of the most thorough sources of deal flow.",
     specialization: ["General", "All sectors", "SME succession"],
     dealSizeRange: "€50K-€20M",
     type: "platform",
@@ -164,7 +164,7 @@ export const brokers: BrokerEntry[] = [
     country: "France",
     website: "https://www.intercessio.fr",
     description:
-      "Intercessio is a French M&A advisory firm specializing in the transmission and acquisition of small and medium enterprises. The firm provides comprehensive sell-side and buy-side advisory services, including business valuation, confidential marketing, buyer identification, negotiation support, and transaction management. Intercessio focuses on businesses with revenues typically between 1 and 20 million euros, covering sectors such as manufacturing, services, distribution, and technology. The firm's team brings corporate finance and operational experience to each engagement. For search fund entrepreneurs in France, Intercessio represents a professional advisory partner capable of sourcing and executing SME acquisitions in the French market.",
+      "Intercessio is a French M&A advisory firm specializing in the transmission and acquisition of small and medium enterprises. The firm provides thorough sell-side and buy-side advisory services, including business valuation, confidential marketing, buyer identification, negotiation support, and transaction management. Intercessio focuses on businesses with revenues typically between 1 and 20 million euros, covering sectors such as manufacturing, services, distribution, and technology. The firm's team brings corporate finance and operational experience to each engagement. For search fund entrepreneurs in France, Intercessio represents a professional advisory partner capable of sourcing and executing SME acquisitions in the French market.",
     specialization: ["Manufacturing", "Services", "Distribution", "Technology"],
     dealSizeRange: "€500K-€15M",
     type: "advisory",
@@ -221,7 +221,7 @@ export const brokers: BrokerEntry[] = [
     country: "Germany",
     website: "https://www.kern-unternehmensnachfolge.com",
     description:
-      "KERN Unternehmensnachfolge is a specialized German consultancy focused exclusively on business succession and SME transactions. With offices across Germany, Austria, and Switzerland, KERN provides comprehensive advisory services including business valuation, succession planning, buyer search, negotiation, and transaction management. The firm's consultants are specialists in the emotional and practical complexities of transferring family-owned businesses to new ownership. KERN focuses on the Mittelstand segment, typically handling businesses with revenues between 1 and 50 million euros. For search fund entrepreneurs in the DACH region, KERN is a valuable partner that understands both the financial and human dimensions of SME acquisitions.",
+      "KERN Unternehmensnachfolge is a specialized German consultancy focused exclusively on business succession and SME transactions. With offices across Germany, Austria, and Switzerland, KERN provides thorough advisory services including business valuation, succession planning, buyer search, negotiation, and transaction management. The firm's consultants are specialists in the emotional and practical complexities of transferring family-owned businesses to new ownership. KERN focuses on the Mittelstand segment, typically handling businesses with revenues between 1 and 50 million euros. For search fund entrepreneurs in the DACH region, KERN is a valuable partner that understands both the financial and human dimensions of SME acquisitions.",
     specialization: ["SME succession", "Family businesses", "Mittelstand"],
     dealSizeRange: "€500K-€30M",
     type: "consulting",
@@ -250,7 +250,7 @@ export const brokers: BrokerEntry[] = [
     country: "Spain",
     website: "https://www.alantra.com",
     description:
-      "Alantra is a leading mid-market investment banking and asset management firm headquartered in Madrid with offices across Europe and the Americas. The firm's M&A advisory practice specializes in transactions involving companies with enterprise values typically between 20 and 500 million euros across sectors including technology, healthcare, industrials, consumer, and financial services. Alantra's team of sector-specialist bankers provides sell-side and buy-side advisory, due diligence support, and strategic advice. While Alantra generally operates above the typical search fund deal size, the firm is relevant for larger search fund acquisitions and for understanding the competitive M&A landscape in Spain and Southern Europe.",
+      "Alantra is a leading mid-market investment banking and asset management firm headquartered in Madrid with offices across Europe and the Americas. The firm's M&A advisory practice specializes in transactions involving companies with enterprise values typically between 20 and 500 million euros across sectors including technology, healthcare, industrials, consumer, and financial services. Alantra's team of sector-specialist bankers provides sell-side and buy-side advisory, due diligence support, and strategic advice. While Alantra generally operates above the typical search fund deal size, the firm is relevant for larger search fund acquisitions and for understanding the competitive M&A market in Spain and Southern Europe.",
     specialization: ["Technology", "Healthcare", "Industrials", "Consumer", "Financial services"],
     dealSizeRange: "€20M-€500M",
     type: "advisory",
@@ -264,7 +264,7 @@ export const brokers: BrokerEntry[] = [
     country: "Spain",
     website: "https://www.webcapital.es",
     description:
-      "Webcapital is a Spanish online platform specializing in the sale and transfer of small and medium businesses. The platform lists businesses across all sectors in Spain, from small retail operations to mid-sized industrial companies. Webcapital provides listing services, buyer-seller matching, and access to professional advisors for transaction support. The platform serves as a useful complement to traditional M&A advisory for search fund entrepreneurs sourcing deals in the Spanish market. Spain's large SME sector and the wave of baby boomer retirements create significant acquisition opportunities. Webcapital's focus on the smaller end of the market makes it particularly relevant for first-time searchers exploring the Spanish business landscape.",
+      "Webcapital is a Spanish online platform specializing in the sale and transfer of small and medium businesses. The platform lists businesses across all sectors in Spain, from small retail operations to mid-sized industrial companies. Webcapital provides listing services, buyer-seller matching, and access to professional advisors for transaction support. The platform serves as a useful complement to traditional M&A advisory for search fund entrepreneurs sourcing deals in the Spanish market. Spain's large SME sector and the wave of baby boomer retirements create significant acquisition opportunities. Webcapital's focus on the smaller end of the market makes it particularly relevant for first-time searchers exploring the Spanish business market.",
     specialization: ["General", "All sectors"],
     dealSizeRange: "€50K-€10M",
     type: "marketplace",
@@ -424,7 +424,7 @@ export const brokers: BrokerEntry[] = [
     country: "United States",
     website: "https://www.tworld.com",
     description:
-      "Transworld Business Advisors is one of the largest business brokerage franchise networks in the world, with hundreds of offices across the United States and internationally. The firm helps business owners sell their companies and assists buyers in finding and acquiring businesses across all sectors. Each Transworld office is locally owned and operated, providing regional market expertise while leveraging the network's brand, systems, and buyer database. Transworld handles transactions ranging from small main-street businesses to larger SME deals. For search fund entrepreneurs, Transworld provides a structured, professional brokerage process and access to a broad pipeline of businesses at various price points across the United States.",
+      "Transworld Business Advisors is one of the largest business brokerage franchise networks in the world, with hundreds of offices across the United States and internationally. The firm helps business owners sell their companies and assists buyers in finding and acquiring businesses across all sectors. Each Transworld office is locally owned and operated, providing regional market expertise while using the network's brand, systems, and buyer database. Transworld handles transactions ranging from small main-street businesses to larger SME deals. For search fund entrepreneurs, Transworld provides a structured, professional brokerage process and access to a broad pipeline of businesses at various price points across the United States.",
     specialization: ["General", "All sectors"],
     dealSizeRange: "$100K-$25M",
     type: "broker",
@@ -438,7 +438,7 @@ export const brokers: BrokerEntry[] = [
     country: "United States",
     website: "https://www.vikingmergers.com",
     description:
-      "Viking Mergers & Acquisitions is a US-based M&A advisory and business brokerage firm specializing in the sale of small and mid-sized businesses. The firm operates primarily in the southeastern United States, with offices across several states. Viking provides comprehensive sell-side services including business valuation, confidential marketing, buyer qualification, negotiation, and deal closing. The firm handles businesses across diverse sectors including manufacturing, distribution, services, technology, and healthcare. Viking's focus on businesses with revenues typically between 1 and 50 million dollars places it squarely in the search fund target range. For searchers focused on the US Southeast, Viking is a valuable source of curated deal flow.",
+      "Viking Mergers & Acquisitions is a US-based M&A advisory and business brokerage firm specializing in the sale of small and mid-sized businesses. The firm operates primarily in the southeastern United States, with offices across several states. Viking provides thorough sell-side services including business valuation, confidential marketing, buyer qualification, negotiation, and deal closing. The firm handles businesses across diverse sectors including manufacturing, distribution, services, technology, and healthcare. Viking's focus on businesses with revenues typically between 1 and 50 million dollars places it squarely in the search fund target range. For searchers focused on the US Southeast, Viking is a valuable source of curated deal flow.",
     specialization: ["Manufacturing", "Distribution", "Services", "Technology", "Healthcare"],
     dealSizeRange: "$500K-$50M",
     type: "advisory",

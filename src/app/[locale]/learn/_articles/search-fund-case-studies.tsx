@@ -30,8 +30,8 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Pattern recognition:</strong> Identifying what good deals look like before you see hundreds yourself</li>
         <li><strong>Risk awareness:</strong> Understanding failure modes that aren't obvious from theory alone</li>
         <li><strong>Realistic expectations:</strong> Calibrating what "good" performance actually means in practice</li>
-        <li><strong>Decision frameworks:</strong> Learning how experienced operators navigate ambiguity</li>
-        <li><strong>Network leverage:</strong> Understanding how successful searchers used advisors, investors, and service providers</li>
+        <li><strong>Decision frameworks:</strong> Learning how experienced operators manage ambiguity</li>
+        <li><strong>Network use:</strong> Understanding how successful searchers used advisors, investors, and service providers</li>
       </ul>
 
       <p className={bodyClass}>
@@ -248,7 +248,7 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>Key Lessons</h3>
 
       <ul className={ulClass}>
-        <li><strong>SBA leverage risk:</strong> High debt load creates stress during operational challenges - less room for error than equity-backed deals</li>
+        <li><strong>SBA use risk:</strong> High debt load creates stress during operational challenges - less room for error than equity-backed deals</li>
         <li><strong>Operations matter more:</strong> Without investor board support, Marcus had to build operational expertise himself or hire it</li>
         <li><strong>Faster decision-making:</strong> No investor approvals meant Marcus could act quickly on hires, small acquisitions, and strategic pivots</li>
         <li><strong>Cash flow discipline:</strong> Debt service forced financial discipline that equity-backed searchers sometimes lack</li>
@@ -617,7 +617,7 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>5. Support Networks</h3>
 
       <p className={bodyClass}>
-        Successful searchers leveraged advisors and investors:
+        Successful searchers used advisors and investors:
       </p>
 
       <ul className={ulClass}>
@@ -775,7 +775,7 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Quality matters more than timing:</strong> Wait for the right business rather than forcing a mediocre one</li>
         <li><strong>Industry selection is critical:</strong> Choose businesses with favorable structural dynamics</li>
         <li><strong>Operational skill trumps financial skill:</strong> Returns come from growing revenue and improving operations, not financial engineering</li>
-        <li><strong>Support networks accelerate success:</strong> Leverage investors, advisors, and peers ruthlessly</li>
+        <li><strong>Support networks accelerate success:</strong> Use investors, advisors, and peers ruthlessly</li>
         <li><strong>Resilience and adaptability are essential:</strong> Every deal faces unexpected challenges; how you respond determines outcomes</li>
       </ul>
 

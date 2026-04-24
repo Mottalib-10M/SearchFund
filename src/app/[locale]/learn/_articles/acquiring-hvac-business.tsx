@@ -258,7 +258,7 @@ export default function AcquiringHVACBusinessArticle() {
           license transfer requirements, and manufacturer dealer
           relationships. The number and quality of EPA 608 certified
           technicians is a direct indicator of the company&rsquo;s ability
-          to operate and grow. For a comprehensive framework, see our{" "}
+          to operate and grow. For a thorough framework, see our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>.

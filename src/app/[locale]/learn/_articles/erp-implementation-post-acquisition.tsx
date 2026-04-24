@@ -76,7 +76,7 @@ export default function ERPImplementationPostAcquisitionArticle() {
             <strong>Complex inventory management.</strong> Businesses with
             hundreds or thousands of SKUs, multiple warehouses, or
             bill-of-materials requirements will quickly outgrow basic
-            inventory tools. An ERP with a robust inventory module provides
+            inventory tools. An ERP with a strong inventory module provides
             real-time visibility and demand planning capabilities.
           </li>
           <li>
@@ -120,7 +120,7 @@ export default function ERPImplementationPostAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>NetSuite ($30K&ndash;$80K per year).</strong> The
-            mid-market standard for cloud ERP. NetSuite offers comprehensive
+            mid-market standard for cloud ERP. NetSuite offers thorough
             functionality across finance, CRM, inventory, e-commerce, and
             HR. It scales well from $5M to $500M+ in revenue. The ecosystem
             of implementation partners and third-party integrations is

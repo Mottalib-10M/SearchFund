@@ -84,7 +84,7 @@ export default function AdvisoryBoardArticle() {
           Former CEOs of similar-sized businesses - especially those
           who have gone through a transition or turnaround - bring
           practical wisdom about managing people, building culture,
-          and navigating the inevitable crises of running a company.
+          and managing the inevitable crises of running a company.
           Ex-searchers who have completed the full cycle (search,
           acquisition, operation, exit) are particularly valuable
           because they understand the search fund model&apos;s specific
@@ -109,7 +109,7 @@ export default function AdvisoryBoardArticle() {
           If you relocated for your acquisition - common in ETA - a
           well-connected local business leader can be invaluable. They
           can introduce you to the local business community, help you
-          recruit talent, navigate municipal regulations, and build
+          recruit talent, manage municipal regulations, and build
           the relationships that matter in smaller markets where
           business is often done on reputation and personal trust.
         </p>
@@ -298,7 +298,7 @@ export default function AdvisoryBoardArticle() {
           before asking for their time.
         </p>
 
-        <h3 className={h3Class}>Leveraging their networks</h3>
+        <h3 className={h3Class}>Using their networks</h3>
         <p>
           One of the highest-value contributions advisors make is
           introductions - to potential customers, talent, partners, and
@@ -471,7 +471,7 @@ export default function AdvisoryBoardArticle() {
           model and remain the most densely connected network in the US
           market. IESE&apos;s network is dominant in Spain and Latin
           America. HEC Paris, London Business School, and Wharton also
-          have growing ETA communities. Leveraging these networks for
+          have growing ETA communities. Using these networks for
           introductions to sellers, investors, and{" "}
           <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">professional advisors</Link>{" "}
           is one of the highest-ROI activities a searcher can undertake.

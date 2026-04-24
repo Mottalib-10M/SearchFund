@@ -378,7 +378,7 @@ export default function PostClosingDisputesArticle() {
             <strong>Contractual survival periods:</strong> Claims must be
             asserted within the contractually specified survival period.
             Claims not asserted within this period are extinguished,
-            regardless of merit. Buyers must implement robust post-closing
+            regardless of merit. Buyers must implement strong post-closing
             monitoring processes to identify and assert claims before
             survival periods expire.
           </li>
@@ -420,7 +420,7 @@ export default function PostClosingDisputesArticle() {
           <li>
             <strong>Invest in thorough due diligence:</strong> The most
             common indemnification claims arise from issues that could have
-            been identified during due diligence. A comprehensive{" "}
+            been identified during due diligence. A thorough{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence process
             </Link>{" "}
@@ -481,7 +481,7 @@ export default function PostClosingDisputesArticle() {
 
         <h3 className={h3Class}>How common are post-closing disputes in M&amp;A transactions?</h3>
         <p>
-          Post-closing disputes are remarkably common. According to the American Bar Association&rsquo;s Private Target M&amp;A Deal Points Study, approximately 30&ndash;40% of acquisitions involve some form of post-closing disagreement, with working capital adjustments and earn-out calculations being the most frequent sources of contention. SRS Acquiom&rsquo;s annual M&amp;A Deal Terms Study reports that working capital disputes arise in approximately 20&ndash;25% of transactions with purchase price adjustment mechanisms, and earn-out disputes occur in roughly 30&ndash;35% of deals that include earn-out provisions. The frequency of disputes underscores the importance of precise drafting in the purchase agreement &mdash; ambiguity in contract language is the root cause of most post-closing disagreements, and investing additional time in drafting is far less costly than resolving disputes after closing.
+          Post-closing disputes are remarkably common. According to the American Bar Association&rsquo;s Private Target M&amp;A Deal Points Study, approximately 30&ndash;40% of acquisitions involve some form of post-closing disagreement, with working capital adjustments and earn-out calculations being the most frequent sources of contention. SRS Acquiom&rsquo;s annual M&amp;A Deal Terms Study reports that working capital disputes arise in approximately 20&ndash;25% of transactions with purchase price adjustment mechanisms, and earn-out disputes occur in roughly 30&ndash;35% of deals that include earn-out provisions. The frequency of disputes highlights the importance of precise drafting in the purchase agreement &mdash; ambiguity in contract language is the root cause of most post-closing disagreements, and investing additional time in drafting is far less costly than resolving disputes after closing.
         </p>
 
         <h3 className={h3Class}>What is the typical cost and duration of resolving a post-closing dispute?</h3>

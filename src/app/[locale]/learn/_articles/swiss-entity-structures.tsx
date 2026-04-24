@@ -22,7 +22,7 @@ export default function SwissEntityStructuresArticle() {
           the principal Swiss entity types, the cantonal tax system, holding
           company benefits, labor law basics, and key structural
           considerations for foreign acquirers. For a broader overview of
-          the Swiss acquisition landscape, see our guide to{" "}
+          the Swiss acquisition market, see our guide to{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
         </p>
 
@@ -263,7 +263,7 @@ export default function SwissEntityStructuresArticle() {
           </li>
           <li>
             <strong>Services market access:</strong> Unlike for goods,
-            Switzerland does not have comprehensive mutual recognition of
+            Switzerland does not have thorough mutual recognition of
             services with the EU. Swiss service providers may face barriers
             when serving EU clients, and EU regulations (such as data
             protection, financial services regulation, and professional
@@ -436,8 +436,8 @@ export default function SwissEntityStructuresArticle() {
         <h2 className={h2Class}>Practical structuring recommendations</h2>
         <p>
           For search fund entrepreneurs considering a Swiss acquisition,
-          the following practical recommendations will help navigate the
-          structural and tax landscape:
+          the following practical recommendations will help manage the
+          structural and tax environment:
         </p>
         <ul className={ulClass}>
           <li>
@@ -499,12 +499,12 @@ export default function SwissEntityStructuresArticle() {
 
         <h3 className={h3Class}>What is the difference between a Swiss GmbH and an AG for acquisitions?</h3>
         <p>
-          The Swiss GmbH (Gesellschaft mit beschr&auml;nkter Haftung) requires CHF 20,000 minimum capital and imposes significant share transfer restrictions &mdash; transfers require approval by a two-thirds majority of members, and ownership is publicly recorded in the commercial register. The AG (Aktiengesellschaft) requires CHF 100,000 minimum capital (CHF 50,000 paid up at incorporation) but offers more flexible share transfer mechanics through registered shares with board-controlled Vinkulierung provisions. For search fund acquirers, the AG is generally preferred when institutional investors are involved or complex ownership structures are anticipated, while the GmbH is more common for smaller targets with closely held ownership. According to KPMG&rsquo;s Taxation in Switzerland report, approximately 65% of Swiss SME acquisitions involve GmbH targets, reflecting the entity&rsquo;s prevalence in the small business landscape.
+          The Swiss GmbH (Gesellschaft mit beschr&auml;nkter Haftung) requires CHF 20,000 minimum capital and imposes significant share transfer restrictions &mdash; transfers require approval by a two-thirds majority of members, and ownership is publicly recorded in the commercial register. The AG (Aktiengesellschaft) requires CHF 100,000 minimum capital (CHF 50,000 paid up at incorporation) but offers more flexible share transfer mechanics through registered shares with board-controlled Vinkulierung provisions. For search fund acquirers, the AG is generally preferred when institutional investors are involved or complex ownership structures are anticipated, while the GmbH is more common for smaller targets with closely held ownership. According to KPMG&rsquo;s Taxation in Switzerland report, approximately 65% of Swiss SME acquisitions involve GmbH targets, reflecting the entity&rsquo;s prevalence in the small business market.
         </p>
 
         <h3 className={h3Class}>How do cantonal tax differences affect Swiss acquisition structuring?</h3>
         <p>
-          Switzerland&rsquo;s three-tier tax system (federal, cantonal, and communal) creates combined effective corporate tax rates ranging from approximately 11% in low-tax cantons like Zug and Nidwalden to 19% or more in cantons like Zurich and Geneva. This variation creates meaningful structuring opportunities: a holding company established in Zug (11&ndash;12% combined rate) owning an operating company in Zurich (approximately 19% combined rate) can benefit from the participation reduction (Beteiligungsabzug) at the holding level while the operating company remains where it best serves business needs. The participation reduction effectively exempts qualifying dividend income and capital gains when the holding owns at least 10% of the subsidiary or the participation has a fair market value of at least CHF 1 million. Following the 2020 TRAF/STAF tax reform, many cantons reduced rates to compensate for abolished special regimes, making the overall Swiss corporate tax landscape more competitive.
+          Switzerland&rsquo;s three-tier tax system (federal, cantonal, and communal) creates combined effective corporate tax rates ranging from approximately 11% in low-tax cantons like Zug and Nidwalden to 19% or more in cantons like Zurich and Geneva. This variation creates meaningful structuring opportunities: a holding company established in Zug (11&ndash;12% combined rate) owning an operating company in Zurich (approximately 19% combined rate) can benefit from the participation reduction (Beteiligungsabzug) at the holding level while the operating company remains where it best serves business needs. The participation reduction effectively exempts qualifying dividend income and capital gains when the holding owns at least 10% of the subsidiary or the participation has a fair market value of at least CHF 1 million. Following the 2020 TRAF/STAF tax reform, many cantons reduced rates to compensate for abolished special regimes, making the overall Swiss corporate tax environment more competitive.
         </p>
 
         <h3 className={h3Class}>What residence requirements must foreign acquirers satisfy in Switzerland?</h3>

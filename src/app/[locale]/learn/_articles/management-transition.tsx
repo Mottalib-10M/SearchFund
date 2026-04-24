@@ -21,7 +21,7 @@ export default function ManagementTransitionArticle() {
           will determine whether key employees
           stay, whether customers remain loyal, and whether the business
           continues to perform. This guide provides a structured approach to
-          navigating the transition with confidence.
+          managing the transition with confidence.
         </p>
 
         <h2 className={h2Class}>Pre-announcement planning</h2>
@@ -208,7 +208,7 @@ export default function ManagementTransitionArticle() {
           Most search fund acquisitions include a seller transition period of
           6&ndash;12 months, during which the previous owner provides
           consulting services to ensure a smooth handover. Structuring this
-          period correctly is crucial.
+          period correctly is critical.
         </p>
 
         <h3 className={h3Class}>Structuring the consulting agreement</h3>
@@ -339,7 +339,7 @@ export default function ManagementTransitionArticle() {
             informal leaders, the go-to people, and the connectors.
           </li>
           <li>
-            <strong>Assess each manager on a 2x2 matrix:</strong> leverage your{" "}
+            <strong>Assess each manager on a 2x2 matrix:</strong> use your{" "}
             <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link>{" "}
             to evaluate performance (results they deliver) vs. potential (capacity to grow). Invest in
             high-performance/high-potential people. Develop high-potential/low-
@@ -416,7 +416,7 @@ export default function ManagementTransitionArticle() {
         <p>
           The management transition is not a one-time event; it is a process
           that unfolds over 6&ndash;12 months. The search fund CEOs who
-          navigate it most successfully are those who lead with humility,
+          manage it most successfully are those who lead with humility,
           listen deeply, maintain transparent{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor communications</Link>, and earn trust through
           consistent, thoughtful action. For practical strategies to keep
@@ -468,7 +468,7 @@ export default function ManagementTransitionArticle() {
           critical customer relationships, contact those customers immediately
           to introduce their new point of contact and reassure them of
           continuity. Begin recruiting a replacement within the first week,
-          leveraging your{" "}
+          using your{" "}
           <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">advisor network</Link> and
           industry contacts. Document the departing employee&rsquo;s
           knowledge and processes during their notice period. This situation,

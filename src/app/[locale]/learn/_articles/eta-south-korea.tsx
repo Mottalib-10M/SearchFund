@@ -13,7 +13,7 @@ export default function ETASouthKoreaArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Economy:</strong> $1.7T GDP, 52M population. OECD member. World-class infrastructure and technology.</li>
-          <li><strong>SME landscape:</strong> 3.5M SMEs employing 82% of the workforce. Family-owned businesses dominate.</li>
+          <li><strong>SME market:</strong> 3.5M SMEs employing 82% of the workforce. Family-owned businesses dominate.</li>
           <li><strong>Demographics:</strong> World&apos;s lowest birth rate. Rapidly aging population creates an accelerating succession crisis.</li>
           <li><strong>Chaebol shadow:</strong> Large conglomerates (Samsung, Hyundai, LG) dominate the economy, but the SME sector is massive and underserved.</li>
           <li><strong>Cultural shift:</strong> Younger generation increasingly uninterested in inheriting family businesses, preferring careers in tech and finance.</li>
@@ -91,7 +91,7 @@ export default function ETASouthKoreaArticle() {
       <h3 className={h3Class}>What sectors offer the strongest acquisition opportunities in South Korea?</h3>
 
       <div className={bodyClass}>
-        <p>Manufacturing (electronics components, automotive parts, precision machining) is the largest and most accessible sector for search fund acquisitions, leveraging South Korea&rsquo;s world-class supply chain integration. IT services and software (gaming, fintech, e-commerce) benefit from an exceptionally strong developer talent pool and growing domestic demand. Healthcare and medical devices are supported by Korea&rsquo;s leadership in medical tourism and aging demographics. The OECD&rsquo;s 2024 Korea Economic Survey highlights that K-culture products (food, beauty, entertainment) have significant global export potential, creating growth opportunities for acquirers who can professionalize operations and scale distribution. Typical valuations in the SME segment range from 4&ndash;7x EBITDA depending on sector and growth profile.</p>
+        <p>Manufacturing (electronics components, automotive parts, precision machining) is the largest and most accessible sector for search fund acquisitions, using South Korea&rsquo;s world-class supply chain integration. IT services and software (gaming, fintech, e-commerce) benefit from an exceptionally strong developer talent pool and growing domestic demand. Healthcare and medical devices are supported by Korea&rsquo;s leadership in medical tourism and aging demographics. The OECD&rsquo;s 2024 Korea Economic Survey highlights that K-culture products (food, beauty, entertainment) have significant global export potential, creating growth opportunities for acquirers who can professionalize operations and scale distribution. Typical valuations in the SME segment range from 4&ndash;7x EBITDA depending on sector and growth profile.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

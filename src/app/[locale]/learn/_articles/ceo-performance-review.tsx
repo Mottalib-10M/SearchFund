@@ -71,7 +71,7 @@ export default function CEOPerformanceReviewArticle() {
       <h2 className={h2Class}>Common Pitfalls to Avoid</h2>
       <div className={bodyClass}>
         <p>
-          The NACD&apos;s 2024 framework for CEO evaluation identifies several common mistakes boards make. First, conflating the performance review with the compensation discussion in a single meeting creates a dynamic where the CEO focuses on defending outcomes rather than candidly discussing development areas. Second, boards that rely solely on financial metrics miss crucial leading indicators such as employee engagement, management team development, and strategic pipeline quality. Third, reviews that lack a forward-looking component &mdash; clear goals for the next year &mdash; produce accountability gaps that compound over time. Harvard Business Review&apos;s research on CEO evaluations emphasizes that the most effective reviews balance accountability with support, treating the process as a development conversation rather than a judgment.
+          The NACD&apos;s 2024 framework for CEO evaluation identifies several common mistakes boards make. First, conflating the performance review with the compensation discussion in a single meeting creates a dynamic where the CEO focuses on defending outcomes rather than candidly discussing development areas. Second, boards that rely solely on financial metrics miss critical leading indicators such as employee engagement, management team development, and strategic pipeline quality. Third, reviews that lack a forward-looking component &mdash; clear goals for the next year &mdash; produce accountability gaps that compound over time. Harvard Business Review&apos;s research on CEO evaluations emphasizes that the most effective reviews balance accountability with support, treating the process as a development conversation rather than a judgment.
         </p>
       </div>
 
@@ -100,7 +100,7 @@ export default function CEOPerformanceReviewArticle() {
 
         <h3 className={h3Class}>How often should a CEO be reviewed?</h3>
         <p>
-          Conduct a formal comprehensive review annually. However,
+          Conduct a formal thorough review annually. However,
           supplement with quarterly check-ins on key goals and metrics.
           For first-time CEOs in search fund companies, more frequent
           informal touchpoints during Year 1 help surface issues early

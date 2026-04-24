@@ -580,7 +580,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>Verizon &mdash; <em>Data Breach Investigations Report (DBIR)</em>, 2024. Comprehensive analysis of cyberattack patterns, SME vulnerability data, and threat actor methodologies across 10,000+ incidents.</li>
+          <li>Verizon &mdash; <em>Data Breach Investigations Report (DBIR)</em>, 2024. Thorough analysis of cyberattack patterns, SME vulnerability data, and threat actor methodologies across 10,000+ incidents.</li>
           <li>Gartner &mdash; <em>IT Key Metrics Data: Security Spending Benchmarks</em>, 2024. Industry-standard IT and cybersecurity spending benchmarks by company size, industry, and maturity level.</li>
           <li>Microsoft Security &mdash; <em>Cyber Signals: MFA Effectiveness Data</em>, 2024. Research demonstrating multi-factor authentication&rsquo;s effectiveness at blocking automated credential attacks.</li>
         </ul>

@@ -13,17 +13,17 @@ export default function RegulatoryApprovalsAntitrustArticle() {
           consequential &mdash; and frequently misunderstood &mdash; aspects
           of the acquisition process. While many search fund and ETA
           transactions fall below the thresholds that trigger mandatory
-          merger control filings, understanding the regulatory landscape is
+          merger control filings, understanding the regulatory environment is
           essential for any acquirer. As targets grow, as buy-and-build
           strategies create market concentration, and as foreign investment
           screening regimes expand globally, the probability that regulatory
           approval will be required for your transaction increases with each
           deal. A failure to identify filing requirements can result in
           significant fines, voided transactions, and criminal liability
-          in some jurisdictions. This guide provides a comprehensive overview
+          in some jurisdictions. This guide provides a thorough overview
           of merger control frameworks, filing thresholds, review processes,
           remedies, and sector-specific considerations that acquirers must
-          navigate to close their deals successfully.
+          manage to close their deals successfully.
         </p>
 
         <h2 className={h2Class}>Merger control fundamentals</h2>
@@ -290,7 +290,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence process
           </Link>{" "}
-          begins. Implement robust information barriers, restrict access to
+          begins. Implement strong information barriers, restrict access to
           competitively sensitive data to a limited clean team, and ensure
           that all pre-closing planning activities are structured as
           contingent on regulatory approval.
@@ -384,7 +384,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
         <h3 className={h3Class}>UK: National Security and Investment Act</h3>
         <p>
           The UK&apos;s National Security and Investment (NSI) Act 2021
-          introduced a comprehensive foreign investment screening regime.
+          introduced a thorough foreign investment screening regime.
           The NSI Act imposes mandatory filing requirements for acquisitions
           of entities active in 17 specified sectors (including AI, defense,
           energy, transport, and communications). The government can also

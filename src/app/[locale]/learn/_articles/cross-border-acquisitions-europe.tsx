@@ -14,7 +14,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe</Link>{" "}
           is the cross-border acquisition. Rather than limiting your search to a
           single country, a cross-border approach lets you tap into the full
-          breadth of the European SME landscape, accessing deal flow, valuation
+          breadth of the European SME market, accessing deal flow, valuation
           arbitrage, and market dynamics that no single jurisdiction can offer
           on its own. But acquiring a company across borders introduces layers
           of legal, tax, cultural, and operational complexity that demand
@@ -24,7 +24,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <h2 className={h2Class}>Why search across borders in Europe?</h2>
         <p>
           Most searchers begin in the country where they live, studied, or hold
-          citizenship. But Europe&rsquo;s fragmented landscape means that
+          citizenship. But Europe&rsquo;s fragmented market means that
           restricting yourself to one market can significantly limit your
           opportunity set.
         </p>
@@ -61,7 +61,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
 
         <h2 className={h2Class}>EU single market advantages</h2>
         <p>
-          The EU&rsquo;s single market encompasses 27 member states with a
+          The EU&rsquo;s single market includes 27 member states with a
           combined GDP of approximately EUR 16 trillion. For search fund
           entrepreneurs it provides structural advantages that make cross-border
           acquisitions more feasible than in almost any other region.
@@ -215,7 +215,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         </ul>
         <p>
           Conduct cultural due diligence through multiple on-site visits and
-          with a local advisor. For a comprehensive framework, see our{" "}
+          with a local advisor. For a thorough framework, see our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link>.
         </p>
 
@@ -240,7 +240,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
             and beyond.
           </li>
           <li>
-            <strong>Negotiation nuance:</strong> Subtle distinctions in
+            <strong>Negotiation detail:</strong> Subtle distinctions in
             contract language can have major consequences. Always use bilingual
             legal counsel.
           </li>

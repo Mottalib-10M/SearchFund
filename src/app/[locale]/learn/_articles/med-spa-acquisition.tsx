@@ -50,7 +50,7 @@ export default function MedSpaAcquisitionArticle() {
             adjusted EBITDA
           </Link>{" "}
           margins of 20&ndash;35%, with top-performing multi-location operators pushing above 35%
-          through purchasing leverage on injectables and shared overhead.
+          through purchasing use on injectables and shared overhead.
         </p>
         <p>
           Revenue breaks down into distinct service categories, each with different margin profiles:
@@ -359,7 +359,7 @@ export default function MedSpaAcquisitionArticle() {
             and compliance reduces overhead per location by 8&ndash;12%.
           </li>
           <li>
-            <strong>Brand leverage:</strong> A recognizable multi-location brand reduces patient
+            <strong>Brand use:</strong> A recognizable multi-location brand reduces patient
             acquisition cost and enables cross-location marketing (a patient who moves neighborhoods
             stays in the network).
           </li>
@@ -382,7 +382,7 @@ export default function MedSpaAcquisitionArticle() {
           <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
             capital stack
           </Link>{" "}
-          is critical for structuring a multi-unit rollup that avoids over-leverage.
+          is critical for structuring a multi-unit rollup that avoids over-use.
         </p>
 
         {/* ── Section 7 ─────────────────────────────────────────── */}
@@ -452,7 +452,7 @@ export default function MedSpaAcquisitionArticle() {
         </h3>
         <p>
           Single-location med spas with competent management typically produce 20&ndash;30%
-          EBITDA margins. Multi-location operators with purchasing leverage and shared
+          EBITDA margins. Multi-location operators with purchasing use and shared
           overhead can reach 30&ndash;40%. If a seller claims margins above 40%, investigate
           whether the owner is paying themselves below-market compensation, deferring equipment
           maintenance, or underinvesting in marketing&mdash;all of which create post-close

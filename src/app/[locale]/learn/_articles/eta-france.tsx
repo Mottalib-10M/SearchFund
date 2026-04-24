@@ -16,12 +16,12 @@ export default function ETAFranceArticle() {
           fund entrepreneurs. The presence of top-tier business schools like
           INSEAD in Fontainebleau, HEC Paris, and ESSEC has created a thriving
           ecosystem of searchers, investors, and advisors. INSEAD alumni in
-          particular have been at the forefront of ETA in France, leveraging
+          particular have been at the forefront of ETA in France, using
           the school&apos;s global network to connect with international investors
           while targeting French SMEs.
         </p>
 
-        <h2 className={h2Class}>The French market landscape</h2>
+        <h2 className={h2Class}>The French market environment</h2>
         <p>
           France has over 3.9 million SMEs, representing 99.9% of all companies.
           Many are owned by founders in their late 50s and 60s who have no family
@@ -105,7 +105,7 @@ export default function ETAFranceArticle() {
           For a general overview of how search funds are typically structured, see our guide to <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">search fund legal structures</Link>.
         </p>
 
-        <h3 className={h3Class}>The French legal landscape: SAS vs. SARL</h3>
+        <h3 className={h3Class}>The French legal environment: SAS vs. SARL</h3>
         <p>
           Understanding French corporate forms is essential before structuring
           a deal. The two most common legal entities for SMEs in France are the
@@ -471,7 +471,7 @@ export default function ETAFranceArticle() {
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>
-          <li>BPCE Observatoire, <em>Cession-Transmission des PME en France</em> (2024) &mdash; comprehensive data on French business transfer volumes and demographics</li>
+          <li>BPCE Observatoire, <em>Cession-Transmission des PME en France</em> (2024) &mdash; thorough data on French business transfer volumes and demographics</li>
           <li>BPI France, <em>Les PME-ETI et la Transmission d&apos;Entreprise</em> (2024) &mdash; government financing programs and guarantee structures for acquisition entrepreneurs</li>
           <li>INSEAD International Search Fund Center, <em>European Search Fund Study</em> (2024) &mdash; performance data and case studies on French search fund acquisitions</li>
         </ul>

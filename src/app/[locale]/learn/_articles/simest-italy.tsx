@@ -6,8 +6,8 @@ export default function SIMESTItalyArticle() {
     <article>
       <h1 className={h1Class}>SIMEST Italy: Financing for Italian Business Acquisitions</h1>
       <div className={bodyClass}>
-        <p>Italy&apos;s business landscape offers significant acquisition opportunities, particularly given the country&apos;s aging SME ownership demographics. SIMEST, together with Invitalia and regional programs, provides a robust framework for financing business acquisitions in <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">Italy</Link>.</p>
-        <p>According to CERVED&apos;s <em>Italian SME Report</em>, more than 100,000 Italian companies face a generational transition challenge in the next decade, with the majority in manufacturing, food production, and business services. The Italian government has responded by expanding guarantee and subsidy programs, making the financing landscape for acquirers increasingly favorable compared to just five years ago.</p>
+        <p>Italy&apos;s business market offers significant acquisition opportunities, particularly given the country&apos;s aging SME ownership demographics. SIMEST, together with Invitalia and regional programs, provides a strong framework for financing business acquisitions in <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">Italy</Link>.</p>
+        <p>According to CERVED&apos;s <em>Italian SME Report</em>, more than 100,000 Italian companies face a generational transition challenge in the next decade, with the majority in manufacturing, food production, and business services. The Italian government has responded by expanding guarantee and subsidy programs, making the financing market for acquirers increasingly favorable compared to just five years ago.</p>
       </div>
 
       <h2 className={h2Class}>SIMEST (Societ&agrave; Italiana per le Imprese all&apos;Estero)</h2>

@@ -45,7 +45,7 @@ export default function SearchFundLegalDocumentsArticle() {
 
       <h2 className={h2Class}>Private Placement Memorandum (PPM)</h2>
       <div className={bodyClass}>
-        <p>The <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> is the primary fundraising document. Yale SOM&apos;s Search Fund Legal Documents Series emphasizes that a well-crafted PPM not only satisfies SEC Regulation D requirements but also serves as the searcher&apos;s most important marketing tool during the fundraising process:</p>
+        <p>The <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> is the primary fundraising document. Yale SOM&apos;s Search Fund Legal Documents Series emphasizes that a well-crafted PPM satisfies SEC Regulation D requirements and serves as the searcher&apos;s most important marketing tool during the fundraising process:</p>
         <ul className={ulClass}>
           <li>Detailed description of the search fund strategy and investment thesis</li>
           <li>Background and qualifications of the searcher</li>

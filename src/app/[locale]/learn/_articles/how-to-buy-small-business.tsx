@@ -47,7 +47,7 @@ export default function HowToBuySmallBusinessArticle() {
           Decide which industries interest you and where you have a competitive
           advantage. Do you have operating experience in a specific sector?
           Do you understand the customer dynamics, regulations, and competitive
-          landscape? Search fund data shows that acquirers with prior industry
+          market? Search fund data shows that acquirers with prior industry
           experience tend to outperform generalists. Popular sectors include{" "}
           <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">
             SaaS
@@ -214,10 +214,10 @@ export default function HowToBuySmallBusinessArticle() {
             analysis by an independent CPA firm validates the seller&rsquo;s reported EBITDA, normalizes for non-recurring items, and identifies risks.</li>
           <li><strong>Legal due diligence:</strong> Review contracts, leases, employment agreements, litigation history, intellectual property, and regulatory compliance.</li>
           <li><strong>Operational due diligence:</strong> Understand the business processes, key personnel dependencies, technology stack, and customer relationships.</li>
-          <li><strong>Commercial due diligence:</strong> Validate the market position, competitive landscape, growth potential, and customer satisfaction.</li>
+          <li><strong>Commercial due diligence:</strong> Validate the market position, competitive environment, growth potential, and customer satisfaction.</li>
         </ul>
         <p>
-          Our comprehensive{" "}
+          Our thorough{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>{" "}
@@ -315,7 +315,7 @@ export default function HowToBuySmallBusinessArticle() {
           <li><strong>Falling in love with a deal:</strong> Emotional attachment clouds judgment. Always maintain discipline on valuation and deal terms.</li>
           <li><strong>Skimping on due diligence:</strong> The $50K&ndash;$100K you spend on DD can save you from a $1M+ mistake.</li>
           <li><strong>Overpaying:</strong> In a competitive market, it is tempting to stretch on price. But overpaying compresses returns and leaves no margin for error.</li>
-          <li><strong>Underestimating the transition:</strong> The seller&rsquo;s departure creates more disruption than most buyers expect. Plan for a robust transition period.</li>
+          <li><strong>Underestimating the transition:</strong> The seller&rsquo;s departure creates more disruption than most buyers expect. Plan for a strong transition period.</li>
           <li><strong>Ignoring culture:</strong> Employees are watching the new owner closely. Early missteps in communication or leadership style can trigger departures.</li>
           <li><strong>Rushing the search:</strong> The average successful search takes 18&ndash;22 months. Patience is essential.</li>
         </ul>

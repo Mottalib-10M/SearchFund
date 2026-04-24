@@ -136,7 +136,7 @@ export default function SearcherToolsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>HubSpot CRM (free tier):</strong> Robust free CRM with email
+            <strong>HubSpot CRM (free tier):</strong> Strong free CRM with email
             tracking, custom deal stages (Sourced, NDA Signed, CIM Reviewed, LOI
             Submitted, Diligence, Closed), and task reminders. Create two
             pipelines - one for deals, one for investors. Upgrade to Starter
@@ -241,7 +241,7 @@ export default function SearcherToolsArticle() {
 
         <h3 className={h3Class}>Diligence checklists and document request lists</h3>
         <p>
-          A comprehensive document request list is the backbone of diligence.
+          A thorough document request list is the backbone of diligence.
           Standard lists include three to five years of audited or reviewed
           financial statements, tax returns, customer and revenue detail,
           vendor contracts, employee census and benefits information, lease
@@ -249,7 +249,7 @@ export default function SearcherToolsArticle() {
           litigation history, and environmental reports. Many search fund
           accelerator programs and legal firms specializing in ETA provide
           standardized diligence checklists that can be adapted to each deal.
-          Start with a comprehensive template and pare it down based on the
+          Start with a thorough template and pare it down based on the
           specific industry and company.
         </p>
 
@@ -324,7 +324,7 @@ export default function SearcherToolsArticle() {
           <li>
             <strong>Industry research:</strong> Use ChatGPT or Claude to generate
             overviews of unfamiliar industries - market size, growth trends, key
-            players, regulatory landscape, and common business models
+            players, regulatory environment, and common business models
           </li>
           <li>
             <strong>Market sizing:</strong> Build bottom-up market size estimates,
@@ -362,7 +362,7 @@ export default function SearcherToolsArticle() {
           </li>
           <li>
             <strong>Loom:</strong> Record short video investor updates instead of
-            lengthy emails. A 5-minute Loom conveys more nuance than a 2-page
+            lengthy emails. A 5-minute Loom conveys more detail than a 2-page
             written update
           </li>
         </ul>

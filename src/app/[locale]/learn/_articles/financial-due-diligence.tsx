@@ -11,7 +11,7 @@ export default function FinancialDueDiligenceArticle() {
 
       <div className={bodyClass}>
         <p>
-          Financial due diligence is the single highest-leverage activity in any small business
+          Financial due diligence is the single highest-use activity in any small business
           acquisition. It separates buyers who acquire profitable companies from those who inherit
           hidden liabilities.{" "}
           <a href="https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Harvard Business Review</a>{" "}
@@ -203,7 +203,7 @@ export default function FinancialDueDiligenceArticle() {
           and excluding cost-of-goods adjustments without supporting documentation all fall into
           this category. Review our{" "}
           <Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">due diligence red flags guide</Link>{" "}
-          for a comprehensive list of warning signs.
+          for a thorough list of warning signs.
         </p>
         <p>
           The acid test: compare your independently calculated adjusted EBITDA to the seller&rsquo;s
@@ -310,7 +310,7 @@ export default function FinancialDueDiligenceArticle() {
             for deals above $3M, businesses with complex revenue recognition, multiple entities,
             or significant related-party transactions. Includes detailed{" "}
             <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">financial statement analysis</Link>,
-            proof-of-cash testing, customer and vendor verification, and a comprehensive
+            proof-of-cash testing, customer and vendor verification, and a thorough
             normalized earnings bridge.
           </li>
         </ul>

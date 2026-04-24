@@ -99,7 +99,7 @@ export default function SellerFinancingFR() {
       <h2 className={h2Class}>Traitement fiscal du crédit vendeur</h2>
       <div className={bodyClass}>
         <p>
-          Le régime fiscal du crédit vendeur est un élément crucial de la
+          Le régime fiscal du crédit vendeur est un élément critical de la
           négociation, tant pour le cédant que pour l&apos;acquéreur. En droit
           fiscal français, les principales règles sont les suivantes&nbsp;:
         </p>

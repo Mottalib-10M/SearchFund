@@ -29,7 +29,7 @@ export default function WhyInvestInSearchFundsArticle() {
 
         <h2 className={h2Class}>The track record: 35%+ IRRs over 40 years</h2>
         <p>
-          The most comprehensive data on search fund returns comes from the
+          The most thorough data on search fund returns comes from the
           biennial studies published by Stanford Graduate School of Business
           and supplemented by IESE and INSEAD research. The key statistics
           from the <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">2024 Stanford study</Link> are striking:
@@ -68,7 +68,7 @@ export default function WhyInvestInSearchFundsArticle() {
         <h2 className={h2Class}>Risk-return profile vs. PE and VC</h2>
         <p>
           Search funds occupy a distinctive position in the private markets
-          landscape. Compared to traditional private equity and venture
+          market. Compared to traditional private equity and venture
           capital, they offer several structural advantages:
         </p>
         <ul className={ulClass}>
@@ -183,7 +183,7 @@ export default function WhyInvestInSearchFundsArticle() {
             schools like INSEAD, IESE, HEC Paris, and London Business
             School have invested heavily in ETA programs, research, and
             alumni networks. INSEAD&apos;s ETA & Search Funds Hub provides
-            a comprehensive platform for connecting investors with
+            a thorough platform for connecting investors with
             high-quality searchers across European markets.
           </li>
         </ul>
@@ -375,7 +375,7 @@ export default function WhyInvestInSearchFundsArticle() {
           However, direct investing typically offers better returns and
           more control over portfolio construction. Review the{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
-            full ETA landscape
+            full ETA market
           </Link>{" "}
           to understand the range of investment structures available.
         </p>

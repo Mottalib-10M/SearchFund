@@ -151,7 +151,7 @@ export default function RedFlagsDueDiligenceArticle() {
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>,
-          see our comprehensive guide.
+          see our thorough guide.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>

@@ -48,7 +48,7 @@ export default function PortfolioConstructionSearchFundArticle() {
           <li><strong>Follow-on decisions:</strong> Deciding whether to exercise pro rata rights for each acquisition is the most important portfolio management decision.</li>
           <li><strong>Information flow:</strong> Expect quarterly updates from searchers (search phase) and monthly/quarterly financials post-acquisition.</li>
           <li><strong>Board service:</strong> Serving on 2&ndash;4 portfolio company boards provides oversight and value-add but requires significant time commitment.</li>
-          <li><strong>Network leverage:</strong> The search fund investor community is small. Co-investing with experienced investors provides deal flow and due diligence support.</li>
+          <li><strong>Network use:</strong> The search fund investor community is small. Co-investing with experienced investors provides deal flow and due diligence support.</li>
         </ul>
       </div>
 

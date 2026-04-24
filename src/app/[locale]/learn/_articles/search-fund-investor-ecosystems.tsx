@@ -6,7 +6,7 @@ export default function SearchFundInvestorEcosystemsArticle() {
     <article>
       <h1 className={h1Class}>Search Fund Investor Ecosystems by Region</h1>
       <div className={bodyClass}>
-        <p>The search fund investor ecosystem has grown dramatically from its Stanford GSB origins to become a global network spanning the US, Europe, Latin America, and beyond. Understanding which investors are active in your target geography &mdash; and their investment preferences, typical check sizes, and value-add capabilities &mdash; is critical for searchers raising capital. This guide maps the global search fund investor landscape by region.</p>
+        <p>The search fund investor ecosystem has grown dramatically from its Stanford GSB origins to become a global network spanning the US, Europe, Latin America, and beyond. Understanding which investors are active in your target geography &mdash; and their investment preferences, typical check sizes, and value-add capabilities &mdash; is critical for searchers raising capital. This guide maps the global search fund investor market by region.</p>
       </div>
 
       <h2 className={h2Class}>United States: The Deepest Market</h2>
@@ -88,7 +88,7 @@ export default function SearchFundInvestorEcosystemsArticle() {
 
       <h3 className={h3Class}>How many investors does a typical search fund need to raise from?</h3>
       <div className={bodyClass}>
-        <p>A typical traditional search fund raise requires conversations with 30&ndash;50 potential investors to secure commitments from 15&ndash;25. Search capital checks range from $50K&ndash;250K per investor, while acquisition capital commitments are typically $500K&ndash;5M per investor. The Stanford GSB Center for Entrepreneurial Studies reports over 300 active search fund investors in the US alone. The process typically takes 3&ndash;6 months and is relationship-intensive &mdash; every investor meeting should end with &ldquo;who else should I talk to?&rdquo; to leverage warm introductions through the network.</p>
+        <p>A typical traditional search fund raise requires conversations with 30&ndash;50 potential investors to secure commitments from 15&ndash;25. Search capital checks range from $50K&ndash;250K per investor, while acquisition capital commitments are typically $500K&ndash;5M per investor. The Stanford GSB Center for Entrepreneurial Studies reports over 300 active search fund investors in the US alone. The process typically takes 3&ndash;6 months and is relationship-intensive &mdash; every investor meeting should end with &ldquo;who else should I talk to?&rdquo; to use warm introductions through the network.</p>
       </div>
 
       <h3 className={h3Class}>How does the European search fund investor ecosystem differ from the US?</h3>

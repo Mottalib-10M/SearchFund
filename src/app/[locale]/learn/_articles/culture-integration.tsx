@@ -58,7 +58,7 @@ export default function CultureIntegrationArticle() {
         <h2 className={h2Class}>The don&rsquo;ts: what to avoid</h2>
         <ul className={ulClass}>
           <li><strong>Don&rsquo;t trash-talk the seller:</strong> Even if the previous owner made mistakes, criticizing them criticizes the team that worked for them. Never.</li>
-          <li><strong>Don&rsquo;t impose corporate jargon:</strong> &ldquo;Let&rsquo;s leverage our synergies to drive KPI alignment&rdquo; will alienate a blue-collar workforce. Speak their language</li>
+          <li><strong>Don&rsquo;t impose corporate jargon:</strong> &ldquo;Let&rsquo;s use our synergies to drive KPI alignment&rdquo; will alienate a blue-collar workforce. Speak their language</li>
           <li><strong>Don&rsquo;t eliminate traditions hastily:</strong> The annual holiday party, the Friday beers, the owner&rsquo;s birthday celebration &mdash; these matter more than you think</li>
           <li><strong>Don&rsquo;t reorganize in the first 90 days:</strong> Moving people around signals instability. Wait until you understand the informal networks and dependencies</li>
           <li><strong>Don&rsquo;t hire outsiders as first hires:</strong> Bringing in &ldquo;your people&rdquo; from outside tells the existing team they aren&rsquo;t trusted. Promote from within first</li>

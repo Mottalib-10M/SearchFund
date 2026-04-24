@@ -10,7 +10,7 @@ export default function ETAGermanyArticle() {
       <div className={bodyClass}>
         <p>
           Germany&apos;s Mittelstand - the backbone of Europe&apos;s largest economy - represents
-          one of the most compelling opportunities for search fund entrepreneurs within the broader <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA landscape</Link>.
+          one of the most compelling opportunities for search fund entrepreneurs within the broader <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA market</Link>.
           With over 3.5 million SMEs, a massive succession wave, and
           world-class companies operating in niche markets, Germany is a
           frontier market for ETA.
@@ -114,7 +114,7 @@ export default function ETAGermanyArticle() {
 
         <h3 className={h3Class}>Nachfolge programs and the succession infrastructure</h3>
         <p>
-          Germany has developed a robust institutional infrastructure for
+          Germany has developed a strong institutional infrastructure for
           business succession (Unternehmensnachfolge). The IHK (Industrie-
           und Handelskammer) and HWK (Handwerkskammer) chambers of commerce
           operate succession matching platforms (nexxt-change.org) that
@@ -275,7 +275,7 @@ export default function ETAGermanyArticle() {
 
         <h3 className={h3Class}>Handwerk (skilled trades)</h3>
         <p>
-          The Handwerk sector encompasses skilled trades including
+          The Handwerk sector includes skilled trades including
           electrical installation, HVAC (Heizung, Klima, Luftung),
           metalworking, carpentry, and specialized construction services.
           These businesses are licensed through the Handwerkskammer and

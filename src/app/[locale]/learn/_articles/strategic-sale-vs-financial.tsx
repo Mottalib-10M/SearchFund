@@ -50,7 +50,7 @@ export default function StrategicSaleVsFinancialArticle() {
         <ul className={ulClass}>
           <li><strong>Choose strategic when:</strong> Maximizing sale price is the top priority, you&apos;re ready to fully exit, and business legacy is less important.</li>
           <li><strong>Choose financial when:</strong> You want to preserve the business&apos;s independence, protect employees, retain equity upside, or need a faster close.</li>
-          <li><strong>Run a dual process:</strong> Engage both strategic and financial buyers simultaneously. Competition between buyer types maximizes leverage and price.</li>
+          <li><strong>Run a dual process:</strong> Engage both strategic and financial buyers simultaneously. Competition between buyer types maximizes use and price.</li>
           <li><strong>Consider hybrid:</strong> Some financial buyers with platform companies act as both strategic and financial (industry expertise + financial backing).</li>
         </ul>
       </div>

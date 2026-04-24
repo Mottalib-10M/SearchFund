@@ -91,7 +91,7 @@ export default function ETAPortugalArticle() {
 
         <h3 className={h3Class}>Share Deals vs. Asset Deals</h3>
         <p>
-          <strong>Share deals (transmiss&atilde;o de quotas)</strong> are the default for Portuguese SME acquisitions. The buyer acquires the quotas of the Lda, and the company continues with all its contracts, licenses, employees, and liabilities intact. No VAT or transfer tax applies to quota transfers. The main risk: you inherit all historical liabilities, including undisclosed tax obligations. Robust{" "}
+          <strong>Share deals (transmiss&atilde;o de quotas)</strong> are the default for Portuguese SME acquisitions. The buyer acquires the quotas of the Lda, and the company continues with all its contracts, licenses, employees, and liabilities intact. No VAT or transfer tax applies to quota transfers. The main risk: you inherit all historical liabilities, including undisclosed tax obligations. Strong{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
           </Link>{" "}
@@ -128,7 +128,7 @@ export default function ETAPortugalArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Commercial banks:</strong> CGD (Caixa Geral de Dep&oacute;sitos), Millennium BCP, BPI (now part of CaixaBank), and Novo Banco all offer acquisition financing. Typical terms: 60&ndash;70% LTV, 5&ndash;10 year amortization, priced at Euribor + 2&ndash;4%. Banks will want personal guarantees and a credible business plan</li>
-          <li><strong>Mutual guarantee societies:</strong> Lisbon Guarantee (now part of the SPGM system), Norgarante, and Garval provide 50&ndash;80% guarantees on bank loans, effectively reducing the bank&rsquo;s risk and enabling higher leverage. The guarantee fee is typically 1&ndash;2% annually</li>
+          <li><strong>Mutual guarantee societies:</strong> Lisbon Guarantee (now part of the SPGM system), Norgarante, and Garval provide 50&ndash;80% guarantees on bank loans, effectively reducing the bank&rsquo;s risk and enabling higher use. The guarantee fee is typically 1&ndash;2% annually</li>
           <li><strong>IAPMEI programs:</strong> The &ldquo;Linha de Cr&eacute;dito Capitalizar&rdquo; and its successors provide subsidized credit lines specifically for business transfers and succession. Interest rates can be 1&ndash;2 percentage points below market</li>
           <li><strong>Portugal 2030 (EU structural funds):</strong> The current EU programming period runs through 2030 and includes grants and subsidized financing for SME modernization, digital transformation, and internationalization&mdash;all applicable post-acquisition</li>
           <li><strong>Seller financing:</strong> Common and expected in Portuguese family business transfers. Typical structure: 10&ndash;30% of the purchase price deferred over 3&ndash;5 years, sometimes with a modest interest rate or tied to performance milestones. Sellers accept this because the alternative (finding a different buyer) is often worse</li>

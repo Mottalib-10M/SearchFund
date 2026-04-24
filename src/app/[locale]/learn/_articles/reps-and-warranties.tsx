@@ -17,7 +17,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          This guide walks through the essential elements of representations and warranties from a buyer's perspective, helping you navigate one of the most complex aspects of M&amp;A transactions.
+          This guide walks through the essential elements of representations and warranties from a buyer's perspective, helping you manage one of the most complex aspects of M&amp;A transactions.
         </p>
 
         <h2 className={h2Class}>What Are Reps and Warranties</h2>
@@ -45,7 +45,7 @@ export default function RepsAndWarrantiesArticle() {
         <h2 className={h2Class}>Key Seller Representations</h2>
 
         <p className={bodyClass}>
-          A comprehensive purchase agreement includes dozens of specific representations. Here are the most critical categories for search fund acquisitions:
+          A thorough purchase agreement includes dozens of specific representations. Here are the most critical categories for search fund acquisitions:
         </p>
 
         <h3 className={h3Class}>Financial Accuracy</h3>
@@ -204,7 +204,7 @@ export default function RepsAndWarrantiesArticle() {
         </ul>
 
         <p className={bodyClass}>
-          For search fund deals (typically $5-30 million), 12-18 months for general reps is common. You have more leverage for longer periods on larger deals or where due diligence was limited.
+          For search fund deals (typically $5-30 million), 12-18 months for general reps is common. You have more use for longer periods on larger deals or where due diligence was limited.
         </p>
 
         <p className={bodyClass}>
@@ -306,7 +306,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Start with a complete set of buyer-friendly reps.</strong> Use a comprehensive template from your M&amp;A attorney. It's easier to negotiate away protections you don't need than to add protections the seller has already rejected.
+          <strong>Start with a complete set of buyer-friendly reps.</strong> Use a thorough template from your M&amp;A attorney. It's easier to negotiate away protections you don't need than to add protections the seller has already rejected.
         </p>
 
         <p className={bodyClass}>
@@ -359,7 +359,7 @@ export default function RepsAndWarrantiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>"These reps are too broad and not specific to my business."</strong> Sellers argue that standard reps don't fit their situation. Response: Offer to add appropriate qualifiers and disclosures, but maintain comprehensive coverage. The reps should be broad - that's the point.
+          <strong>"These reps are too broad and not specific to my business."</strong> Sellers argue that standard reps don't fit their situation. Response: Offer to add appropriate qualifiers and disclosures, but maintain thorough coverage. The reps should be broad - that's the point.
         </p>
 
         <p className={bodyClass}>
@@ -412,7 +412,7 @@ export default function RepsAndWarrantiesArticle() {
         <h2 className={h2Class}>Best Practices for Search Fund Acquirers</h2>
 
         <p className={bodyClass}>
-          As a first-time acquirer buying a business you'll operate, these practices will help you navigate reps and warranties effectively:
+          As a first-time acquirer buying a business you'll operate, these practices will help you manage reps and warranties effectively:
         </p>
 
         <ol className={olClass}>

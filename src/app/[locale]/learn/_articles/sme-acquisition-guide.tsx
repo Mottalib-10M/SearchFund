@@ -161,7 +161,7 @@ export default function SMEAcquisitionGuideArticle() {
         <p>
           Due diligence is the most critical phase. Use our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
-            comprehensive DD checklist
+            thorough DD checklist
           </Link>{" "}
           and conduct three parallel workstreams:
         </p>
@@ -249,7 +249,7 @@ export default function SMEAcquisitionGuideArticle() {
             </Link>{" "}
             the business</li>
           <li><strong>Ignoring culture:</strong> You&rsquo;re not just buying financials &mdash; you&rsquo;re inheriting a team and culture</li>
-          <li><strong>Over-leveraging:</strong> Aggressive debt structures work until they don&rsquo;t. Leave a margin of safety</li>
+          <li><strong>Over-using:</strong> Aggressive debt structures work until they don&rsquo;t. Leave a margin of safety</li>
           <li><strong>Ignoring target criteria:</strong> Review{" "}
             <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
               what makes a good acquisition target

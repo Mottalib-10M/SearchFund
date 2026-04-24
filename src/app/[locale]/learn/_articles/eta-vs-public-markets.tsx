@@ -99,7 +99,7 @@ export default function ETAvsPublicMarketsArticle() {
           valuations but have no exit mechanism. When the underlying
           business hits a rough patch - a key customer loss, a failed
           product launch, an industry downturn - investors must sit with
-          uncertainty and trust the CEO to navigate through it. This
+          uncertainty and trust the CEO to manage through it. This
           emotional experience is fundamentally different from public
           market investing and is not suitable for every investor
           temperament.

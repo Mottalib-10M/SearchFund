@@ -13,7 +13,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive roadmap for corporate professionals considering the ETA path, from recognizing the signs you're ready to leave to executing a month-by-month transition plan that minimizes risk while maximizing your chances of success.
+        This guide provides a thorough roadmap for corporate professionals considering the ETA path, from recognizing the signs you're ready to leave to executing a month-by-month transition plan that minimizes risk while maximizing your chances of success.
       </p>
 
       <h2 className={h2Class}>The Corporate-to-ETA Transition</h2>
@@ -79,7 +79,7 @@ export default function CorporateToETAArticle() {
       <h2 className={h2Class}>Financial Preparation</h2>
 
       <p className={bodyClass}>
-        The financial preparation for an ETA transition extends well beyond having savings in the bank. Here's a comprehensive framework for getting your finances in order:
+        The financial preparation for an ETA transition extends well beyond having savings in the bank. Here's a thorough framework for getting your finances in order:
       </p>
 
       <h3 className={h3Class}>Build Your Runway</h3>
@@ -482,7 +482,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>No Clear Search Thesis</h3>
 
       <p className={bodyClass}>
-        Some searchers leave corporate without a clear idea of what types of businesses they want to acquire or why they're qualified to run them. Develop your search thesis while employed, leveraging your industry expertise and corporate experience to target specific opportunities.
+        Some searchers leave corporate without a clear idea of what types of businesses they want to acquire or why they're qualified to run them. Develop your search thesis while employed, using your industry expertise and corporate experience to target specific opportunities.
       </p>
 
       <h3 className={h3Class}>Treating It Like a Corporate Job</h3>

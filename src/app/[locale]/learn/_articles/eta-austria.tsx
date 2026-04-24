@@ -9,14 +9,14 @@ export default function ETAAustriaArticle() {
 
       <div className={bodyClass}>
         <p>
-          Austria occupies a unique position in the European acquisition landscape as the
+          Austria occupies a unique position in the European acquisition market as the
           smallest member of the DACH region&mdash;the economic zone comprising Germany,
           Austria, and Switzerland&mdash;yet one with outsized potential for search fund
           entrepreneurs. With over 360,000 SMEs, a family-owned Mittelstand culture closely
           mirroring that of its <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">German neighbor</Link>,
           EU membership, and a stable, high-income economy, Austria offers a compelling
           combination of deal flow and limited competition. For searchers already exploring
-          the broader <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA landscape</Link>,
+          the broader <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA market</Link>,
           Austria deserves serious consideration as either a primary market or a natural
           extension of a DACH-focused search.
         </p>
@@ -55,7 +55,7 @@ export default function ETAAustriaArticle() {
           <li>
             <strong>Strong rule of law:</strong> Austria&rsquo;s legal system is transparent,
             predictable, and well-enforced. Contract law, property rights, and commercial
-            regulations are robust, providing a secure environment for acquisitions.
+            regulations are strong, providing a secure environment for acquisitions.
           </li>
           <li>
             <strong>German-speaking talent pool:</strong> Austria&rsquo;s German-speaking
@@ -178,12 +178,12 @@ export default function ETAAustriaArticle() {
           maximizing the upfront purchase price. Austrian business owners are often
           willing to provide subordinated loans of 15&ndash;25% of the transaction
           value, structured with deferred repayment terms of two to five years. This
-          not only bridges the financing gap but also aligns the seller&rsquo;s
+          bridges the financing gap and aligns the seller&rsquo;s
           incentives with the buyer&rsquo;s success during the critical transition
           period. For more on this approach, see our article on <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>.
         </p>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <p>
           Austria&rsquo;s tax system is competitive within the EU and offers several
           features that are favorable for acquisition structures. Understanding
@@ -298,7 +298,7 @@ export default function ETAAustriaArticle() {
 
         <h3 className={h3Class}>Food and beverage</h3>
         <p>
-          Austria&rsquo;s food and beverage sector encompasses specialty food
+          Austria&rsquo;s food and beverage sector includes specialty food
           producers, regional breweries, wine producers, and food distribution
           companies. Austrian food products carry strong regional branding
           (Alpenregion, organic, artisanal), and many businesses in this sector

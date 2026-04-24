@@ -14,7 +14,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           It is also the least efficient. Industry-specific deal sourcing flips the script: instead
           of casting a wide net and hoping the right fish swims in, you embed yourself in the
           ecosystem where business owners in your target vertical already congregate. This guide
-          covers how to leverage trade shows, industry associations, niche directories, and
+          covers how to use trade shows, industry associations, niche directories, and
           sector-specific networks to build a deal pipeline that is deeper, warmer, and more
           proprietary than anything you can find on a public marketplace. For a broader look at
           deal-finding methods, see our overview of{" "}
@@ -27,7 +27,7 @@ export default function IndustrySpecificDealSourcingArticle() {
         <p>
           The fundamental problem with generic sourcing is competition. Every business listed on
           a popular marketplace is being evaluated by dozens &mdash; sometimes hundreds &mdash;
-          of prospective buyers. Prices get bid up, sellers have leverage, and the best businesses
+          of prospective buyers. Prices get bid up, sellers have use, and the best businesses
           are snapped up before you can complete diligence. Industry-specific sourcing addresses
           this by accessing owners who have not yet decided to sell, or who would prefer to sell
           to someone who understands their industry.
@@ -41,7 +41,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           </li>
           <li>
             <strong>Information asymmetry:</strong> Every industry has its own jargon, KPIs,
-            regulatory landscape, and competitive dynamics. Being embedded in the industry gives
+            regulatory environment, and competitive dynamics. Being embedded in the industry gives
             you pattern recognition that helps you spot undervalued businesses that generalist
             buyers overlook.
           </li>
@@ -144,7 +144,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           across 20 countries.
         </p>
 
-        <h3 className={h3Class}>Leveraging association events and committees</h3>
+        <h3 className={h3Class}>Using association events and committees</h3>
         <p>
           Associations typically run annual conferences, regional meetups, and educational
           seminars. Volunteering for a committee &mdash; especially one related to succession
@@ -336,7 +336,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           outperform the one who spends the same twelve months sending thousands of generic
           outreach emails. The depth of your industry knowledge, the quality of your
           relationships, and the specificity of your search criteria all compound over time,
-          producing a deal pipeline that is not only deeper but also significantly more
+          producing a deal pipeline that is both deeper and significantly more
           proprietary and less competitive.
         </p>
 

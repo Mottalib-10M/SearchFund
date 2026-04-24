@@ -34,7 +34,7 @@ export default function SellerDataRoomArticle() {
           That perception directly affects{" "}
           <Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">how buyers value your business</Link>.
           Conversely, a scattered Google Drive folder with files named &ldquo;scan_003_final_v2_REAL.pdf&rdquo; triggers additional
-          information requests, extends timelines, and gives buyers leverage to renegotiate price.
+          information requests, extends timelines, and gives buyers use to renegotiate price.
         </p>
         <p>
           Mid-market data rooms typically contain between 5,000 and 50,000+ pages of documentation across 150 to 400+ individual files,

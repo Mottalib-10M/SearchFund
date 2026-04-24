@@ -135,7 +135,7 @@ export default function AccountantReferralDealFlowArticle() {
         <li><strong>Insurance brokers:</strong> Especially those selling key person insurance and buy-sell agreements</li>
         <li><strong>Estate planning attorneys:</strong> Work with owners on succession and legacy planning</li>
         <li><strong>Business consultants:</strong> See opportunities when owners need operational improvements</li>
-        <li><strong>Industry association executives:</strong> Know the landscape and key players in specific sectors</li>
+        <li><strong>Industry association executives:</strong> Know the market and key players in specific sectors</li>
         <li><strong>Business brokers:</strong> Can refer off-market opportunities or exclusive listings</li>
       </ul>
 
@@ -315,7 +315,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Start with Warm Introductions</h3>
 
       <p className={bodyClass}>
-        Your first outreach should leverage existing relationships. Ask your investors, board members, former colleagues, and business school classmates for introductions to CPAs and attorneys in their networks. Warm introductions have dramatically higher response rates and lead to better relationships than cold outreach.
+        Your first outreach should use existing relationships. Ask your investors, board members, former colleagues, and business school classmates for introductions to CPAs and attorneys in their networks. Warm introductions have dramatically higher response rates and lead to better relationships than cold outreach.
       </p>
 
       <p className={bodyClass}>
@@ -347,10 +347,10 @@ export default function AccountantReferralDealFlowArticle() {
         <li>Industry-specific networking groups and peer organizations</li>
       </ul>
 
-      <h3 className={h3Class}>Leverage LinkedIn Strategically</h3>
+      <h3 className={h3Class}>Use LinkedIn Strategically</h3>
 
       <p className={bodyClass}>
-        Build a robust LinkedIn presence that positions you as a credible buyer. Share content about search funds, small business acquisition, and your target industries. Engage with posts from CPAs and attorneys in your network.
+        Build a strong LinkedIn presence that positions you as a credible buyer. Share content about search funds, small business acquisition, and your target industries. Engage with posts from CPAs and attorneys in your network.
       </p>
 
       <p className={bodyClass}>
@@ -563,7 +563,7 @@ export default function AccountantReferralDealFlowArticle() {
         Each industry expansion requires new professional relationships with sector-specific expertise.
       </p>
 
-      <h3 className={h3Class}>Leveraging Success Stories</h3>
+      <h3 className={h3Class}>Using Success Stories</h3>
 
       <p className={bodyClass}>
         Once you close a transaction, your credibility with professional advisors increases dramatically. Use this success to:

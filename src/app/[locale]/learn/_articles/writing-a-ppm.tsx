@@ -260,7 +260,7 @@ export default function WritingAPPMArticle() {
           A securities attorney is not optional &mdash; issuing securities
           without proper legal counsel creates personal liability and can
           result in rescission claims from investors. The right attorney adds
-          value beyond simple document drafting; they help you navigate
+          value beyond simple document drafting; they help you manage
           regulatory requirements, structure the fund entity, and avoid
           common legal pitfalls.
         </p>
@@ -305,7 +305,7 @@ export default function WritingAPPMArticle() {
         </p>
         <p>
           The PPM is your disclosure and reference document. It is text-heavy,
-          comprehensive (30-50 pages), and designed for careful, independent
+          thorough (30-50 pages), and designed for careful, independent
           review. It provides the legal framework, detailed terms, risk
           factors, and subscription mechanics. Investors read the PPM after
           the initial meeting to validate the claims made in the deck and
@@ -334,7 +334,7 @@ export default function WritingAPPMArticle() {
 
         <h2 className={h2Class}>EU-specific considerations</h2>
         <p>
-          European searchers must navigate a more fragmented regulatory landscape.
+          European searchers must manage a more fragmented regulatory environment.
           Key considerations include:
         </p>
         <ul className={ulClass}>

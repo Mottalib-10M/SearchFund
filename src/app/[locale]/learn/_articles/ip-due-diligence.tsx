@@ -68,7 +68,7 @@ export default function IPDueDiligenceArticle() {
           <li>In asset deals, every IP asset must be explicitly assigned in writing and recorded with relevant authorities</li>
           <li>Review all third-party licenses for change-of-control provisions that could be triggered by the acquisition</li>
           <li>For software businesses, conduct an open-source audit to identify copyleft license risks</li>
-          <li>Include comprehensive IP{" "}
+          <li>Include thorough IP{" "}
             <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">
               representations and warranties
             </Link>{" "}

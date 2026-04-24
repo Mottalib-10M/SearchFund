@@ -83,7 +83,7 @@ export default function SPAKeyClausesArticle() {
         {/* ───────────── SECTION 2 ───────────── */}
         <h2 className={h2Class}>Purchase Price Mechanics</h2>
         <p>
-          The purchase price clause is more nuanced than a single number.
+          The purchase price clause is more detailed than a single number.
           It establishes how value is measured, when and how payments are
           made, and what adjustments can alter the final amount after
           closing.
@@ -459,7 +459,7 @@ export default function SPAKeyClausesArticle() {
             target&rsquo;s customers for 2&ndash;5 years.</li>
         </ul>
         <p>
-          <strong>Enforceability nuance:</strong> Restrictive covenants
+          <strong>Enforceability detail:</strong> Restrictive covenants
           are governed by state law, and some jurisdictions (notably
           California, Colorado, Minnesota, and Oklahoma) impose strict
           limitations. A clause that is valid in Texas may be void in

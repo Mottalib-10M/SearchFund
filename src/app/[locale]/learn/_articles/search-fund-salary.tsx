@@ -17,7 +17,7 @@ export default function SearchFundSalaryArticle() {
           hunting full-time for an acquisition target. After closing, your pay
           resets to a CEO-level base of $150,000 to $250,000 or more. But the
           real wealth creation comes from equity: successful searchers who
-          navigate both phases walk away with $3.5 million to $10 million or more
+          manage both phases walk away with $3.5 million to $10 million or more
           in total economic value over a five-to-seven-year cycle, according to
           Stanford GSB data. This guide breaks down every layer of search fund
           compensation so you can model the true risk-reward trade-off before

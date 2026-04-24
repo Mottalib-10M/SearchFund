@@ -257,7 +257,7 @@ export default function AcquisitionFinancingFR() {
       <h2 className={h2Class}>Le montage LBO&nbsp;: le levier de la dette</h2>
       <div className={bodyClass}>
         <p>
-          Le Leveraged Buy-Out (LBO) est le montage financier de référence
+          Le Used Buy-Out (LBO) est le montage financier de référence
           pour l&apos;acquisition d&apos;entreprise avec effet de levier. Dans
           un LBO, l&apos;acquéreur crée une holding (société de reprise) qui
           emprunte pour acquérir les titres de la société cible. La dette

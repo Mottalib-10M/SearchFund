@@ -132,7 +132,7 @@ export const directoryCategories: DirectoryCategory[] = [
     slug: "investors",
     name: "ETA Investors",
     description: "Search fund investors, family offices, and institutions that back entrepreneurs through acquisition.",
-    ogDescription: "Comprehensive directory of search fund investors - institutional funds, family offices, ex-searchers, and accelerators backing ETA entrepreneurs worldwide.",
+    ogDescription: "Thorough directory of search fund investors - institutional funds, family offices, ex-searchers, and accelerators backing ETA entrepreneurs worldwide.",
     introText: "Finding the right investors is one of the most critical steps in launching a search fund. This directory catalogs institutional investors, family offices, accelerators, and experienced angel investors who actively invest in search funds and entrepreneurship through acquisition. Each entry includes investment focus, geography, typical ticket size, and a description of their approach.",
   },
   {
@@ -175,6 +175,6 @@ export const directoryCategories: DirectoryCategory[] = [
     name: "Legal & Tax Advisors for M&A",
     description: "Law firms and tax advisory practices specializing in SME M&A transactions across Europe.",
     ogDescription: "Find M&A lawyers and tax advisors who specialize in small business acquisitions across Europe. Country-by-country directory with ETA experience indicators.",
-    introText: "Having experienced legal and tax advisors is essential for navigating the complexities of business acquisitions. This directory lists law firms, tax practices, and advisory firms across Europe that specialize in SME transactions and have experience with search fund deals. Entries include their areas of specialization, geographic focus, and whether they have specific ETA/search fund experience.",
+    introText: "Having experienced legal and tax advisors is essential for managing the complexities of business acquisitions. This directory lists law firms, tax practices, and advisory firms across Europe that specialize in SME transactions and have experience with search fund deals. Entries include their areas of specialization, geographic focus, and whether they have specific ETA/search fund experience.",
   },
 ];

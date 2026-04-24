@@ -24,7 +24,7 @@ export default function CRMImplementationArticle() {
       <div className={bodyClass}>
         <h3 className={h3Class}>For Small Businesses ($2&ndash;10M Revenue)</h3>
         <ul className={ulClass}>
-          <li><strong>HubSpot CRM:</strong> Free tier is surprisingly robust. Best for companies with a marketing/inbound focus. Easy to use.</li>
+          <li><strong>HubSpot CRM:</strong> Free tier is surprisingly strong. Best for companies with a marketing/inbound focus. Easy to use.</li>
           <li><strong>Pipedrive:</strong> Simple, sales-focused CRM. Great for teams that need a visual pipeline without complexity.</li>
           <li><strong>Zoho CRM:</strong> Cost-effective with a broad feature set. Good for budget-conscious implementations.</li>
         </ul>

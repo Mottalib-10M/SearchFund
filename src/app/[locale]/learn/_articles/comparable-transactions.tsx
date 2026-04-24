@@ -29,7 +29,7 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        For search funders and ETA entrepreneurs, comp analysis serves multiple critical functions. It validates your internal valuation models, provides negotiating leverage with sellers who may have unrealistic price expectations, demonstrates market knowledge to investors, and helps establish guardrails that prevent overpaying in competitive situations.
+        For search funders and ETA entrepreneurs, comp analysis serves multiple critical functions. It validates your internal valuation models, provides negotiating use with sellers who may have unrealistic price expectations, demonstrates market knowledge to investors, and helps establish guardrails that prevent overpaying in competitive situations.
       </p>
 
       <p className={bodyClass}>
@@ -55,7 +55,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>BizComps</h3>
 
       <p className={bodyClass}>
-        BizComps is another comprehensive database focusing on main street and lower middle market transactions. While it contains fewer details than DealStats for each transaction, it covers a broader range of very small businesses (under $5M in value) and includes data from business brokers nationwide. Access is typically through subscription or per-report purchase, with costs ranging from $100-$500 depending on the scope.
+        BizComps is another thorough database focusing on main street and lower middle market transactions. While it contains fewer details than DealStats for each transaction, it covers a broader range of very small businesses (under $5M in value) and includes data from business brokers nationwide. Access is typically through subscription or per-report purchase, with costs ranging from $100-$500 depending on the scope.
       </p>
 
       <h3 className={h3Class}>PitchBook and CapIQ</h3>
@@ -167,7 +167,7 @@ export default function ComparableTransactionsArticle() {
       <h2 className={h2Class}>Building a Comp Table</h2>
 
       <p className={bodyClass}>
-        Once you've identified 5-10 strong comparables and determined necessary adjustments, organize your findings in a clear, comprehensive comp table. This table becomes a core deliverable for your investment committee, deal team, and eventually, your negotiating materials.
+        Once you've identified 5-10 strong comparables and determined necessary adjustments, organize your findings in a clear, thorough comp table. This table becomes a core deliverable for your investment committee, deal team, and eventually, your negotiating materials.
       </p>
 
       <p className={bodyClass}>
@@ -245,7 +245,7 @@ export default function ComparableTransactionsArticle() {
       <h2 className={h2Class}>Using Comps to Support Your Offer Price</h2>
 
       <p className={bodyClass}>
-        Comp analysis doesn't determine your offer price in isolation - it's one of several valuation methods, alongside DCF analysis, asset-based valuation, and return-on-investment modeling. However, it plays a crucial role in supporting and defending your pricing decisions.
+        Comp analysis doesn't determine your offer price in isolation - it's one of several valuation methods, alongside DCF analysis, asset-based valuation, and return-on-investment modeling. However, it plays a critical role in supporting and defending your pricing decisions.
       </p>
 
       <h3 className={h3Class}>Triangulation Approach</h3>
@@ -363,11 +363,11 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        For search funders and ETA entrepreneurs, strong comp analysis delivers multiple benefits: it grounds your valuation in market reality, provides negotiating leverage with sellers who have unrealistic expectations, builds credibility with investors, and helps prevent overpaying in competitive situations. The investment in database subscriptions, advisor time, and analytical rigor pays dividends throughout your search and acquisition process.
+        For search funders and ETA entrepreneurs, strong comp analysis delivers multiple benefits: it grounds your valuation in market reality, provides negotiating use with sellers who have unrealistic expectations, builds credibility with investors, and helps prevent overpaying in competitive situations. The investment in database subscriptions, advisor time, and analytical rigor pays dividends throughout your search and acquisition process.
       </p>
 
       <p className={bodyClass}>
-        As you build comp analyses for target companies, remember that the goal isn't to achieve false precision - you're not calculating the "true" value to the dollar. Rather, you're establishing a defensible valuation range supported by market evidence, understanding where your target fits within that range, and arming yourself with data to navigate negotiations confidently.
+        As you build comp analyses for target companies, remember that the goal isn't to achieve false precision - you're not calculating the "true" value to the dollar. Rather, you're establishing a defensible valuation range supported by market evidence, understanding where your target fits within that range, and arming yourself with data to manage negotiations confidently.
       </p>
 
       <p className={bodyClass}>
@@ -459,7 +459,7 @@ export default function ComparableTransactionsArticle() {
           >
             Business Valuation Fundamentals
           </a>
-          {" "} - Comprehensive guide to SME valuation methods and frameworks
+          {" "} - Thorough guide to SME valuation methods and frameworks
         </li>
         <li>
           <a

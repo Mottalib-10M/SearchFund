@@ -22,7 +22,7 @@ export default function HowFindBusinessesForSaleArticle() {
           effectively.
         </p>
 
-        <h2 className={h2Class}>The deal sourcing landscape</h2>
+        <h2 className={h2Class}>The deal sourcing market</h2>
         <p>
           Businesses for sale come through three primary channels:
         </p>

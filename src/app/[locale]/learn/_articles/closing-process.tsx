@@ -15,7 +15,7 @@ export default function ClosingProcessArticle() {
         </p>
         <p>
           This guide walks through every phase of the closing process - from pre-closing preparation
-          through post-closing adjustments - so you know exactly what to expect and how to navigate
+          through post-closing adjustments - so you know exactly what to expect and how to manage
           each step.
         </p>
       </div>
@@ -242,7 +242,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <p>
-          The closing binder is a comprehensive compilation of all executed transaction documents.
+          The closing binder is a thorough compilation of all executed transaction documents.
           While increasingly maintained electronically, a complete binder includes:
         </p>
 
@@ -378,7 +378,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Start early and stay organized.</strong> Use a comprehensive closing checklist and track every action item</li>
+          <li><strong>Start early and stay organized.</strong> Use a thorough closing checklist and track every action item</li>
           <li><strong>Build schedule buffer.</strong> Assume delays will occur - budget 2+ weeks of cushion</li>
           <li><strong>Secure consents early.</strong> Third-party consents are the #1 source of delays</li>
           <li><strong>Verify wire instructions rigorously.</strong> Wire fraud is real - use out-of-band verification</li>

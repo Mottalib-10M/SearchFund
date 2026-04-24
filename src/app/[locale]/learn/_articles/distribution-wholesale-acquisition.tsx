@@ -93,7 +93,7 @@ export default function DistributionWholesaleAcquisitionArticle() {
       <h3 className={h3Class}>What is the typical valuation range for distribution businesses?</h3>
 
       <div className={bodyClass}>
-        <p>Distribution businesses typically trade at 4&ndash;7x EBITDA, with the multiple driven by product type, customer diversification, growth trajectory, and the quality of supplier relationships. Commodity distributors with thin margins and high customer concentration trade at the low end (3.5&ndash;4.5x), while specialty distributors with value-added services, proprietary brands, and recurring revenue streams command 6&ndash;8x, according to NAW industry benchmarks. Technology-enabled distributors with robust e-commerce platforms and strong data analytics capabilities are increasingly attracting premium multiples as private equity recognizes the value of digital infrastructure in traditional distribution businesses.</p>
+        <p>Distribution businesses typically trade at 4&ndash;7x EBITDA, with the multiple driven by product type, customer diversification, growth trajectory, and the quality of supplier relationships. Commodity distributors with thin margins and high customer concentration trade at the low end (3.5&ndash;4.5x), while specialty distributors with value-added services, proprietary brands, and recurring revenue streams command 6&ndash;8x, according to NAW industry benchmarks. Technology-enabled distributors with strong e-commerce platforms and strong data analytics capabilities are increasingly attracting premium multiples as private equity recognizes the value of digital infrastructure in traditional distribution businesses.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

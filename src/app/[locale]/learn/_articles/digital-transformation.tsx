@@ -21,7 +21,7 @@ export default function DigitalTransformationArticle() {
           choosing the wrong tools &mdash; can be equally destructive.
         </p>
 
-        <h2 className={h2Class}>Assessing the current technology landscape</h2>
+        <h2 className={h2Class}>Assessing the current technology market</h2>
         <p>
           Before you invest a dollar in new technology, you need to understand
           what you are working with. During your{" "}
@@ -176,7 +176,7 @@ export default function DigitalTransformationArticle() {
         <ul className={ulClass}>
           <li>
             <strong>NetSuite.</strong> The leading cloud ERP for mid-market
-            businesses. Comprehensive functionality, strong financial reporting,
+            businesses. Thorough functionality, strong financial reporting,
             and a large ecosystem of consultants. Annual costs typically range
             from $30K to $100K+ depending on modules and user count.
             Implementation takes 3&ndash;6 months and costs $50K&ndash;$200K.

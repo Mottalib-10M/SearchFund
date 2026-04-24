@@ -22,7 +22,7 @@ export default function QSBSArticle() {
         <p>
           This guide covers the eligibility requirements, structuring
           strategies, holding period rules, and practical considerations for
-          leveraging QSBS in search fund and ETA transactions. While QSBS
+          using QSBS in search fund and ETA transactions. While QSBS
           applies specifically to US federal taxes, the principles inform
           broader{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
@@ -126,7 +126,7 @@ export default function QSBSArticle() {
 
         <h3 className={h3Class}>Structuring for QSBS eligibility</h3>
         <p>
-          To leverage QSBS in a search fund acquisition, the transaction
+          To use QSBS in a search fund acquisition, the transaction
           should be structured as follows:
         </p>
         <ul className={ulClass}>
@@ -194,7 +194,7 @@ export default function QSBSArticle() {
           For European equivalents, France&rsquo;s Dutreil pact offers similar
           (though less generous) tax benefits for business succession. See our{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
-            comprehensive tax optimization guide
+            thorough tax optimization guide
           </Link>{" "}
           and country-specific articles on{" "}
           <Link href="/learn/eta-france" className="text-apple-accent hover:underline">

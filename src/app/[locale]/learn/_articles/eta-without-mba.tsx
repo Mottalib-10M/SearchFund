@@ -19,7 +19,7 @@ export default function ETAWithoutMBAArticle() {
         </p>
 
         <p>
-          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and leveraged that experience to acquire and operate businesses. As the{" "}
+          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and used that experience to acquire and operate businesses. As the{" "}
           <Link href="/learn/search-fund-history" className="text-apple-accent hover:underline">
             search fund ecosystem
           </Link>{" "}
@@ -60,7 +60,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Data: Non-MBA Searchers Are Growing</h2>
         <div className={bodyClass}>
           <p>
-            While comprehensive data on non-MBA searchers remains limited (most studies focus on traditional search funds), several trends indicate significant growth in alternative pathways:
+            While thorough data on non-MBA searchers remains limited (most studies focus on traditional search funds), several trends indicate significant growth in alternative pathways:
           </p>
 
           <p>
@@ -133,7 +133,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Post-acquisition, industry knowledge becomes even more critical. The first 100 days of ownership are crucial for establishing credibility with employees, customers, and suppliers. An owner who speaks the industry language, understands operational challenges, and brings relevant experience gains trust far more quickly than someone learning on the job.
+            Post-acquisition, industry knowledge becomes even more critical. The first 100 days of ownership are critical for establishing credibility with employees, customers, and suppliers. An owner who speaks the industry language, understands operational challenges, and brings relevant experience gains trust far more quickly than someone learning on the job.
           </p>
 
           <p>
@@ -206,7 +206,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Books and case studies provide foundational knowledge. Reading comprehensive resources like "HBR Guide to Buying a Small Business," studying published case studies from business schools, and following search fund blogs and podcasts can build a solid conceptual foundation. The Stanford Search Fund Study reports are freely available and provide valuable industry data and insights.
+            Books and case studies provide foundational knowledge. Reading thorough resources like "HBR Guide to Buying a Small Business," studying published case studies from business schools, and following search fund blogs and podcasts can build a solid conceptual foundation. The Stanford Search Fund Study reports are freely available and provide valuable industry data and insights.
           </p>
 
           <p>
@@ -218,7 +218,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities (courses, reading, mentorship, practical application) to build comprehensive knowledge without a formal MBA program.
+            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities (courses, reading, mentorship, practical application) to build thorough knowledge without a formal MBA program.
           </p>
         </div>
       </section>
@@ -317,12 +317,12 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            When she identified a distribution business in an industry adjacent to her sales background, she structured the deal with substantial seller financing and an SBA loan, requiring minimal investor capital. Her sales skills proved crucial both in negotiating with the seller and in growing the business post-acquisition through improved customer acquisition systems.
+            When she identified a distribution business in an industry adjacent to her sales background, she structured the deal with substantial seller financing and an SBA loan, requiring minimal investor capital. Her sales skills proved critical both in negotiating with the seller and in growing the business post-acquisition through improved customer acquisition systems.
           </p>
 
           <h3 className={h3Class}>The International Searcher</h3>
           <p>
-            A European with a background in private equity and corporate finance pursued search fund acquisition without an MBA. He leveraged connections from his finance career to raise a small search fund focused on manufacturing businesses in his home country.
+            A European with a background in private equity and corporate finance pursued search fund acquisition without an MBA. He used connections from his finance career to raise a small search fund focused on manufacturing businesses in his home country.
           </p>
 
           <p>
@@ -330,7 +330,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            These examples share common themes: leveraging existing expertise, being creative about funding and networking, focusing on industries where backgrounds provide advantages, and demonstrating capabilities through results rather than credentials.
+            These examples share common themes: using existing expertise, being creative about funding and networking, focusing on industries where backgrounds provide advantages, and demonstrating capabilities through results rather than credentials.
           </p>
         </div>
       </section>
@@ -339,7 +339,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Raising Capital Without the Pedigree</h2>
         <div className={bodyClass}>
           <p>
-            Traditional search fund investors who write checks based primarily on pedigree - Harvard MBA, prior consulting or banking experience - do exist. But many investors take a more nuanced approach, particularly when evaluating self-funded searchers with specific deals.
+            Traditional search fund investors who write checks based primarily on pedigree - Harvard MBA, prior consulting or banking experience - do exist. But many investors take a more detailed approach, particularly when evaluating self-funded searchers with specific deals.
           </p>
 
           <p>
@@ -434,7 +434,7 @@ export default function ETAWithoutMBAArticle() {
             Throughout your search, work on building credibility through content creation (write about your industry insights), speaking or presenting at industry events, building your personal brand and LinkedIn presence, collecting testimonials and references from professional contacts, and demonstrating thought leadership in your target industry.
           </p>
 
-          <h3 className={h3Class}>Step 9: Leverage Your Advantages</h3>
+          <h3 className={h3Class}>Step 9: Use Your Advantages</h3>
           <p>
             Use your industry expertise, operational experience, and practical knowledge as differentiators. When speaking with sellers, emphasize your ability to understand and operate their specific type of business. When speaking with investors, focus on how your background reduces execution risk.
           </p>
@@ -475,7 +475,7 @@ export default function ETAWithoutMBAArticle() {
             investor relationships through{" "}
             <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
               ETA conferences
-            </Link>, accelerators, and direct outreach, or (4) leverage deep
+            </Link>, accelerators, and direct outreach, or (4) use deep
             industry expertise to attract investors who value domain knowledge
             over school brand.
           </p>

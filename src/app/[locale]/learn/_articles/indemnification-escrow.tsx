@@ -15,7 +15,7 @@ export default function IndemnificationEscrowArticle() {
       </p>
 
       <p className={bodyClass}>
-        This comprehensive guide covers indemnification provisions, survival periods, baskets and caps, escrow holdback structures, release schedules, representations and warranties insurance alternatives, and practical negotiation strategies for search fund acquisitions.
+        This thorough guide covers indemnification provisions, survival periods, baskets and caps, escrow holdback structures, release schedules, representations and warranties insurance alternatives, and practical negotiation strategies for search fund acquisitions.
       </p>
 
       <h2 className={h2Class}>Understanding Indemnification</h2>
@@ -31,7 +31,7 @@ export default function IndemnificationEscrowArticle() {
       </p>
 
       <p className={bodyClass}>
-        For search fund acquisitions, indemnification is particularly crucial because you're typically acquiring 100% of a small to mid-sized business with concentrated risk. Unlike private equity firms that can diversify risk across portfolio companies, your entire professional and financial future may depend on one acquisition. Robust indemnification protections are essential.
+        For search fund acquisitions, indemnification is particularly critical because you're typically acquiring 100% of a small to mid-sized business with concentrated risk. Unlike private equity firms that can diversify risk across portfolio companies, your entire professional and financial future may depend on one acquisition. Strong indemnification protections are essential.
       </p>
 
       <h3 className={h3Class}>Scope of Indemnification</h3>
@@ -251,7 +251,7 @@ export default function IndemnificationEscrowArticle() {
       <ul className={ulClass}>
         <li><strong>Deal Size:</strong> Smaller deals often have higher escrow percentages (15-25%) while larger deals may be 10-15%</li>
         <li><strong>Risk Profile:</strong> Higher-risk businesses warrant larger escrows and longer hold periods</li>
-        <li><strong>Due Diligence Quality:</strong> Limited due diligence justifies more robust escrows</li>
+        <li><strong>Due Diligence Quality:</strong> Limited due diligence justifies more strong escrows</li>
         <li><strong>Seller Creditworthiness:</strong> If the seller lacks independent means to satisfy claims, escrow becomes the primary recourse</li>
         <li><strong>Representations Survival:</strong> Escrow periods typically align with survival periods for general representations</li>
       </ul>
@@ -419,7 +419,7 @@ export default function IndemnificationEscrowArticle() {
         <li><strong>Sandbagging Provisions:</strong> Clearly address whether buyers can bring claims for breaches discovered during due diligence (pro-sandbagging favors buyers, anti-sandbagging favors sellers).</li>
         <li><strong>Materiality Scrapes:</strong> For purposes of indemnification claims, read representations without materiality qualifiers to expand buyer recovery.</li>
         <li><strong>R&W Insurance:</strong> When appropriate, insurance can satisfy both parties by providing buyer protection without tying up seller proceeds.</li>
-        <li><strong>Exclusive Remedy Provisions:</strong> Sellers may accept more robust indemnification if it's the buyer's exclusive remedy (barring fraud).</li>
+        <li><strong>Exclusive Remedy Provisions:</strong> Sellers may accept more strong indemnification if it's the buyer's exclusive remedy (barring fraud).</li>
       </ul>
 
       <h3 className={h3Class}>Common Pitfalls to Avoid</h3>
@@ -446,7 +446,7 @@ export default function IndemnificationEscrowArticle() {
       <h3 className={h3Class}>Connection to Reps and Warranties</h3>
 
       <p className={bodyClass}>
-        Your indemnification protections are only as strong as the underlying representations and warranties. Robust reps and warranties in your purchase agreement create the foundation for indemnification claims. Review our detailed guide on <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">representations and warranties</Link> to understand how to negotiate strong seller commitments.
+        Your indemnification protections are only as strong as the underlying representations and warranties. Strong reps and warranties in your purchase agreement create the foundation for indemnification claims. Review our detailed guide on <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">representations and warranties</Link> to understand how to negotiate strong seller commitments.
       </p>
 
       <h3 className={h3Class}>Working Capital Adjustments</h3>
@@ -464,7 +464,7 @@ export default function IndemnificationEscrowArticle() {
       <h3 className={h3Class}>Overall Deal Structure Optimization</h3>
 
       <p className={bodyClass}>
-        Indemnification and escrow are just one piece of comprehensive <Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">deal structure optimization</Link>. Consider how these provisions interact with purchase price allocation, seller financing, earn-outs, and other deal mechanics to create a balanced, executable transaction structure.
+        Indemnification and escrow are just one piece of thorough <Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">deal structure optimization</Link>. Consider how these provisions interact with purchase price allocation, seller financing, earn-outs, and other deal mechanics to create a balanced, executable transaction structure.
       </p>
 
       <h2 className={h2Class}>Practical Implementation Checklist</h2>
@@ -533,7 +533,7 @@ export default function IndemnificationEscrowArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Advocate for robust escrows (15-20% for 18-24 months) as your primary security</li>
+        <li>Advocate for strong escrows (15-20% for 18-24 months) as your primary security</li>
         <li>Push for tipping baskets at or below 1% of enterprise value</li>
         <li>Secure adequate caps (15-20% general, higher for fundamental/tax/environmental)</li>
         <li>Establish reasonable survival periods aligned with risk profiles</li>
@@ -551,7 +551,7 @@ export default function IndemnificationEscrowArticle() {
       </p>
 
       <p className={bodyClass}>
-        Finally, remember that the goal isn't to maximize every protection at all costs, but to achieve a balanced framework that protects your interests while allowing the deal to close. The best indemnification provisions are those you never need to invoke, but if you do need them, you'll be grateful for every hour spent negotiating robust protections.
+        Finally, remember that the goal isn't to maximize every protection at all costs, but to achieve a balanced framework that protects your interests while allowing the deal to close. The best indemnification provisions are those you never need to invoke, but if you do need them, you'll be grateful for every hour spent negotiating strong protections.
       </p>
 
       <p className={bodyClass}>
@@ -579,7 +579,7 @@ export default function IndemnificationEscrowArticle() {
 
       <ul className={ulClass}>
         <li>
-          American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em> (2nd ed. 2010). Comprehensive guidance on indemnification provisions and market standards.
+          American Bar Association, <em>Model Stock Purchase Agreement with Commentary</em> (2nd ed. 2010). Thorough guidance on indemnification provisions and market standards.
         </li>
         <li>
           SRS Acquiom, <em>M&A Deal Terms Study</em> (2023). Annual analysis of private M&A indemnification terms including basket amounts, caps, survival periods, and escrow structures across thousands of transactions.

@@ -28,7 +28,7 @@ export default function LogisticsTransportationAcquisitionArticle() {
           <li><strong>Recurring contracts:</strong> B2B logistics clients sign multi-year agreements, especially in 3PL and dedicated fleet services</li>
           <li><strong>Fragmented:</strong> 97% of trucking companies have fewer than 20 trucks. Enormous consolidation opportunity.</li>
           <li><strong>Barriers to entry:</strong> Operating authority, insurance, equipment, driver recruitment, and customer relationships</li>
-          <li><strong>Technology leverage:</strong> TMS (transportation management systems), route optimization, and automation can dramatically improve margins</li>
+          <li><strong>Technology use:</strong> TMS (transportation management systems), route optimization, and automation can dramatically improve margins</li>
           <li><strong>E-commerce tailwind:</strong> Last-mile delivery and warehousing growing 15&ndash;20% annually</li>
         </ul>
       </div>
@@ -53,7 +53,7 @@ export default function LogisticsTransportationAcquisitionArticle() {
           <li><strong>Geographic expansion:</strong> Add lanes and service areas to serve existing customers&apos; broader needs</li>
           <li><strong>Technology upgrade:</strong> Modern TMS, automated dispatching, and digital freight matching</li>
           <li><strong>Driver recruitment:</strong> Improve compensation, benefits, and home time to attract and retain CDL drivers</li>
-          <li><strong>Consolidation:</strong> <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Roll up smaller operators</Link> in your region for scale and contract leverage</li>
+          <li><strong>Consolidation:</strong> <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Roll up smaller operators</Link> in your region for scale and contract use</li>
         </ul>
       </div>
 

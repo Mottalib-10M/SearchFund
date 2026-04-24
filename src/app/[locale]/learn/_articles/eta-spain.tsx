@@ -21,7 +21,7 @@ export default function ETASpainArticle() {
           attractive destination for search fund entrepreneurs.
         </p>
 
-        <h2 className={h2Class}>The Spanish market landscape</h2>
+        <h2 className={h2Class}>The Spanish market environment</h2>
         <p>
           Spain&apos;s economy is the fourth largest in the eurozone and is
           characterized by a dense fabric of small and medium-sized enterprises.
@@ -88,7 +88,7 @@ export default function ETASpainArticle() {
           financing in recent years. Major institutions such as CaixaBank,
           Santander, BBVA, and Bankinter all have SME lending capabilities,
           though the appetite for leveraged acquisition finance varies.
-          Typical leverage for search fund deals ranges from 2x to 3.5x EBITDA,
+          Typical use for search fund deals ranges from 2x to 3.5x EBITDA,
           somewhat lower than in Northern European markets.
         </p>
 
@@ -152,7 +152,7 @@ export default function ETASpainArticle() {
         <p>
           IESE&apos;s contributions to the Spanish ETA ecosystem include the
           annual International Search Fund Study, which provides the most
-          comprehensive data on search fund performance globally. The school&apos;s
+          thorough data on search fund performance globally. The school&apos;s
           alumni network spans Spain, Portugal, Latin America, and beyond,
           creating a dense web of searchers, investors, and advisors. Many of
           Spain&apos;s most successful search fund acquisitions have been led by
@@ -229,7 +229,7 @@ export default function ETASpainArticle() {
           the following.
         </p>
         <ul className={ulClass}>
-          <li><strong>Dedicated investors:</strong> Several family offices and institutional investors in Spain now specifically allocate capital to search fund investments, providing not only funding but also mentorship and deal support.</li>
+          <li><strong>Dedicated investors:</strong> Several family offices and institutional investors in Spain now specifically allocate capital to search fund investments, providing funding, mentorship, and deal support.</li>
           <li><strong>Advisory networks:</strong> Law firms, accounting practices, and corporate finance boutiques in Madrid and Barcelona have developed search fund expertise and can guide first-time acquirers through the process.</li>
           <li><strong>Community events:</strong> Regular search fund meetups and conferences in Madrid, Barcelona, and Lisbon bring together searchers, investors, and advisors.</li>
           <li><strong>Cross-border opportunities:</strong> The linguistic and cultural links between Spain, Portugal, and Latin America create opportunities for platform acquisitions with international growth potential.</li>

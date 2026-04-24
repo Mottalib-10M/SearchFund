@@ -17,7 +17,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          This article provides a comprehensive framework for building, tracking, and optimizing your acquisition funnel. We'll explore benchmark conversion rates at each stage, establish realistic activity targets, and identify common bottlenecks that can derail your search. Whether you're just beginning your search or six months in and wondering if you're on track, this guide will help you measure what matters and adjust your approach to maximize your chances of success.
+          This article provides a thorough framework for building, tracking, and optimizing your acquisition funnel. We'll explore benchmark conversion rates at each stage, establish realistic activity targets, and identify common bottlenecks that can derail your search. Whether you're just beginning your search or six months in and wondering if you're on track, this guide will help you measure what matters and adjust your approach to maximize your chances of success.
         </p>
 
         <h2 className={h2Class}>The Search Fund Deal Funnel Explained</h2>
@@ -113,7 +113,7 @@ export default function DealFunnelMetricsArticle() {
         <h3 className={h3Class}>Due Diligence: Full Investigation</h3>
 
         <p className={bodyClass}>
-          Once an LOI is accepted and exclusivity begins, you enter the intensive due diligence phase. This typically lasts 60-90 days and involves comprehensive investigation of financials (quality of earnings study, working capital analysis, tax review), legal matters (contracts, litigation, intellectual property), operations (customer interviews, supplier agreements, employee benefits), and commercial aspects (market analysis, competitive positioning, growth opportunities).
+          Once an LOI is accepted and exclusivity begins, you enter the intensive due diligence phase. This typically lasts 60-90 days and involves thorough investigation of financials (quality of earnings study, working capital analysis, tax review), legal matters (contracts, litigation, intellectual property), operations (customer interviews, supplier agreements, employee benefits), and commercial aspects (market analysis, competitive positioning, growth opportunities).
         </p>
 
         <p className={bodyClass}>
@@ -238,7 +238,7 @@ export default function DealFunnelMetricsArticle() {
         <h2 className={h2Class}>Tracking Your Funnel: Tools and Dashboards</h2>
 
         <p className={bodyClass}>
-          A deal funnel is only useful if you actually track it systematically. Many searchers start with good intentions but fall into the trap of managing deals through their inbox, remembering key interactions in their head, and losing track of opportunities that fall through the cracks. Implementing a robust tracking system from day one is critical.
+          A deal funnel is only useful if you actually track it systematically. Many searchers start with good intentions but fall into the trap of managing deals through their inbox, remembering key interactions in their head, and losing track of opportunities that fall through the cracks. Implementing a strong tracking system from day one is critical.
         </p>
 
         <p className={bodyClass}>
@@ -342,7 +342,7 @@ export default function DealFunnelMetricsArticle() {
         </p>
 
         <p className={bodyClass}>
-          As you progress through your search (months 7-18), quality becomes increasingly important. By this point, you should have clear conviction about your target industry, geography, and business model. You're better served by deeply researching 50 ideal-fit businesses, crafting customized outreach, leveraging your network for warm introductions, and building genuine relationships with owners. Your conversion rates should improve dramatically, and the businesses you pursue should be ones you'd genuinely be excited to own.
+          As you progress through your search (months 7-18), quality becomes increasingly important. By this point, you should have clear conviction about your target industry, geography, and business model. You're better served by deeply researching 50 ideal-fit businesses, crafting customized outreach, using your network for warm introductions, and building genuine relationships with owners. Your conversion rates should improve dramatically, and the businesses you pursue should be ones you'd genuinely be excited to own.
         </p>
 
         <p className={bodyClass}>
@@ -412,7 +412,7 @@ export default function DealFunnelMetricsArticle() {
         <h3 className={h3Class}>What is the most common reason deals die during due diligence?</h3>
 
         <p className={bodyClass}>
-          According to Pacific Lake Partners and multiple search fund operator surveys, the most common reasons deals fail during due diligence are financial discrepancies discovered during the quality of earnings analysis (accounting for roughly 30&ndash;35% of deal failures), followed by seller cold feet or unrealistic valuation expectations (25&ndash;30%), and inability to secure financing on acceptable terms (15&ndash;20%). Even after entering exclusivity and spending $100,000&ndash;$300,000 on professional advisors, only 40&ndash;60% of deals in diligence actually close. This underscores the importance of conducting thorough desktop diligence before submitting LOIs and maintaining multiple opportunities in your pipeline simultaneously.
+          According to Pacific Lake Partners and multiple search fund operator surveys, the most common reasons deals fail during due diligence are financial discrepancies discovered during the quality of earnings analysis (accounting for roughly 30&ndash;35% of deal failures), followed by seller cold feet or unrealistic valuation expectations (25&ndash;30%), and inability to secure financing on acceptable terms (15&ndash;20%). Even after entering exclusivity and spending $100,000&ndash;$300,000 on professional advisors, only 40&ndash;60% of deals in diligence actually close. This highlights the importance of conducting thorough desktop diligence before submitting LOIs and maintaining multiple opportunities in your pipeline simultaneously.
         </p>
 
         <h3 className={h3Class}>What CRM tools do most successful searchers use to track their deal funnel?</h3>
@@ -425,7 +425,7 @@ export default function DealFunnelMetricsArticle() {
 
         <ul className={ulClass}>
           <li>
-            Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) - comprehensive data on search fund deal flow, conversion rates, and time-to-close metrics
+            Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) - thorough data on search fund deal flow, conversion rates, and time-to-close metrics
           </li>
           <li>
             <em>HBR Guide to Buying a Small Business</em> by Richard S. Ruback & Royce Yudkoff - frameworks for deal sourcing and funnel management strategies

@@ -17,7 +17,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        This comprehensive guide will walk you through everything you need to know about SDE and EBITDA, including when to use each metric, how to calculate them, and how they affect business valuations. Whether you're evaluating your first acquisition target or comparing multiple opportunities, mastering these concepts will help you make more informed decisions.
+        This thorough guide will walk you through everything you need to know about SDE and EBITDA, including when to use each metric, how to calculate them, and how they affect business valuations. Whether you're evaluating your first acquisition target or comparing multiple opportunities, mastering these concepts will help you make more informed decisions.
       </p>
 
       <h2 className={h2Class}>What Is Seller's Discretionary Earnings (SDE)?</h2>
@@ -535,7 +535,7 @@ export default function SDEvsEBITDAArticle() {
             >
               Investopedia: EBITDA Definition and Calculation
             </a>
-            {" - Comprehensive explanation of EBITDA methodology"}
+            {" - Thorough explanation of EBITDA methodology"}
           </li>
           <li>
             <a

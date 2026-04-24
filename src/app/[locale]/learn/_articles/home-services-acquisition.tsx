@@ -366,7 +366,7 @@ export default function HomeServicesAcquisitionArticle() {
           </li>
           <li>
             <strong>Landscaping:</strong> Highly seasonal, lower barriers
-            to entry, and intense competition. Commercial landscape
+            to entry, and intense competition. Commercial market
             maintenance offers better recurring revenue characteristics
             than residential. Typical multiples: 3-4x EBITDA.
           </li>
@@ -388,7 +388,7 @@ export default function HomeServicesAcquisitionArticle() {
           tailwind that few other sectors can match. The keys to success
           are solving the technician recruitment and retention challenge,
           building recurring revenue through maintenance agreements,
-          leveraging technology for operational efficiency, and &mdash;
+          using technology for operational efficiency, and &mdash;
           for those pursuing a buy-and-build strategy &mdash;
           disciplined tuck-in acquisitions that improve route density
           and drive margin expansion. Once you close, a thoughtful{" "}

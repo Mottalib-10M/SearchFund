@@ -227,7 +227,7 @@ export default function DueDiligenceArticle() {
 
         <h2 className={h2Class}>Commercial due diligence</h2>
         <ul className={ulClass}>
-          <li>Market size, growth trends, and competitive landscape.</li>
+          <li>Market size, growth trends, and competitive environment.</li>
           <li>Customer interviews - satisfaction, switching costs, contract renewal rates.</li>
           <li>Sales pipeline and new business development process.</li>
           <li>Pricing power and margin sustainability.</li>
@@ -257,9 +257,9 @@ export default function DueDiligenceArticle() {
         </p>
 
         <p>
-          <strong>Market size and competitive landscape.</strong> Understand
+          <strong>Market size and competitive environment.</strong> Understand
           the total addressable market and the company&apos;s share of it.
-          Map out the competitive landscape, including both direct
+          Map out the competitive environment, including both direct
           competitors and potential disruptors. For niche businesses, the
           competitive analysis may be more about barriers to entry (licensing,
           relationships, specialization) than about head-to-head competition.
@@ -312,14 +312,14 @@ export default function DueDiligenceArticle() {
         </p>
 
         <p>
-          Budget $75,000 to $150,000 in professional fees for a comprehensive
+          Budget $75,000 to $150,000 in professional fees for a thorough
           due diligence process. This typically breaks down as follows:
         </p>
         <ul className={ulClass}>
           <li><strong>Quality of Earnings (QoE):</strong> $30,000 - $60,000 depending on the complexity of the business and the accounting firm you engage.</li>
           <li><strong>Legal counsel:</strong> $25,000 - $50,000 for contract review, purchase agreement negotiation, and corporate structuring.</li>
           <li><strong>Environmental assessment:</strong> $5,000 - $15,000 for a Phase I assessment; significantly more if a Phase II is required.</li>
-          <li><strong>Insurance review:</strong> $2,000 - $5,000 for a comprehensive analysis of existing coverage and reps & warranties insurance.</li>
+          <li><strong>Insurance review:</strong> $2,000 - $5,000 for a thorough analysis of existing coverage and reps & warranties insurance.</li>
           <li><strong>Specialty consultants:</strong> $5,000 - $20,000 for IT assessments, equipment appraisals, or industry expert calls as needed.</li>
         </ul>
 
@@ -388,7 +388,7 @@ export default function DueDiligenceArticle() {
 
         <h3 className="text-base font-semibold text-apple-black mt-6 mb-2">How much does due diligence cost?</h3>
         <p>
-          Budget $75,000 to $150,000 in professional fees for a comprehensive
+          Budget $75,000 to $150,000 in professional fees for a thorough
           process. The largest line item is the Quality of Earnings report
           ($30,000 to $60,000), followed by legal counsel ($25,000 to $50,000),
           environmental assessments ($5,000 to $15,000), and specialty

@@ -7,7 +7,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h1 className={h1Class}>What Happens If a Searcher Doesn&apos;t Find a Company?</h1>
 
       <p className={bodyClass}>
-        Not every search fund story ends with a successful acquisition. While the entrepreneurship through acquisition (ETA) model has produced impressive returns for many searchers and investors, the reality is that a significant portion of search funds never complete an acquisition. Understanding what happens when a search fails is crucial for anyone considering the ETA path - whether as a searcher or investor.
+        Not every search fund story ends with a successful acquisition. While the entrepreneurship through acquisition (ETA) model has produced impressive returns for many searchers and investors, the reality is that a significant portion of search funds never complete an acquisition. Understanding what happens when a search fails is critical for anyone considering the ETA path - whether as a searcher or investor.
       </p>
 
       <p className={bodyClass}>
@@ -33,7 +33,7 @@ export default function SearchFundNoAcquisitionArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These statistics underscore an important reality: even with strong credentials, dedicated effort, and investor backing, there&apos;s no guarantee of acquisition. The search fund model is inherently risky, and searchers must enter with realistic expectations about the possibility of failure.
+        These statistics highlight an important reality: even with strong credentials, dedicated effort, and investor backing, there&apos;s no guarantee of acquisition. The search fund model is inherently risky, and searchers must enter with realistic expectations about the possibility of failure.
       </p>
 
       <h2 className={h2Class}>Common Reasons Searches Fail</h2>
@@ -158,7 +158,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h2 className={h2Class}>Career Outcomes for Failed Searchers</h2>
 
       <p className={bodyClass}>
-        The end of an unsuccessful search is not the end of a career. In fact, many searchers who don&apos;t complete acquisitions go on to successful careers, leveraging the skills and experience gained during the search process.
+        The end of an unsuccessful search is not the end of a career. In fact, many searchers who don&apos;t complete acquisitions go on to successful careers, using the skills and experience gained during the search process.
       </p>
 
       <h3 className={h3Class}>Common Career Paths</h3>
@@ -193,7 +193,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h2 className={h2Class}>Winding Down the Search Fund</h2>
 
       <p className={bodyClass}>
-        When it becomes clear that a search will not result in an acquisition, the searcher must navigate the practical and emotional process of winding down the fund.
+        When it becomes clear that a search will not result in an acquisition, the searcher must manage the practical and emotional process of winding down the fund.
       </p>
 
       <h3 className={h3Class}>Making the Decision</h3>
@@ -253,7 +253,7 @@ export default function SearchFundNoAcquisitionArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Support from mentors, fellow searchers, and family is crucial during this transition. Many searchers benefit from professional coaching or therapy to process the experience and plan next steps.
+        Support from mentors, fellow searchers, and family is critical during this transition. Many searchers benefit from professional coaching or therapy to process the experience and plan next steps.
       </p>
 
       <h2 className={h2Class}>Lessons Learned from Unsuccessful Searches</h2>
@@ -351,7 +351,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>Advisory or Consulting</h3>
 
       <p className={bodyClass}>
-        Leveraging industry expertise developed during the search, some searchers establish advisory practices serving the industries they targeted. This generates income while maintaining optionality for future acquisitions.
+        Using industry expertise developed during the search, some searchers establish advisory practices serving the industries they targeted. This generates income while maintaining optionality for future acquisitions.
       </p>
 
       <h3 className={h3Class}>Joining an Independent Sponsor or Search Firm</h3>
@@ -417,7 +417,7 @@ export default function SearchFundNoAcquisitionArticle() {
       </p>
 
       <p className={bodyClass}>
-        While approximately one-third of searches fail to acquire a company, this doesn&apos;t mean these searchers have failed as professionals or entrepreneurs. Many go on to successful careers, leveraging the skills, networks, and experiences gained during their search. The key differentiator is often how searchers process the experience, communicate it to future employers or investors, and apply the lessons learned.
+        While approximately one-third of searches fail to acquire a company, this doesn&apos;t mean these searchers have failed as professionals or entrepreneurs. Many go on to successful careers, using the skills, networks, and experiences gained during their search. The key differentiator is often how searchers process the experience, communicate it to future employers or investors, and apply the lessons learned.
       </p>
 
       <p className={bodyClass}>
@@ -425,7 +425,7 @@ export default function SearchFundNoAcquisitionArticle() {
       </p>
 
       <p className={bodyClass}>
-        For investors, the one-third failure rate underscores the importance of portfolio diversification and searcher selection. Backing multiple searches and choosing searchers with the right combination of skills, commitment, and realistic expectations is essential to generating attractive portfolio returns despite inevitable individual failures.
+        For investors, the one-third failure rate highlights the importance of portfolio diversification and searcher selection. Backing multiple searches and choosing searchers with the right combination of skills, commitment, and realistic expectations is essential to generating attractive portfolio returns despite inevitable individual failures.
       </p>
 
       <p className={bodyClass}>

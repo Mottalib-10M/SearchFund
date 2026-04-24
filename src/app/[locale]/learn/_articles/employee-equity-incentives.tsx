@@ -155,7 +155,7 @@ export default function EmployeeEquityIncentivesArticle() {
           In the search fund context, management equity pools typically range
           from 5% to 15% of the fully diluted equity. The exact size depends
           on the depth of the management team, the industry, and the
-          competitive landscape for talent in the company&rsquo;s geography.
+          competitive environment for talent in the company&rsquo;s geography.
           A common starting point is 10%, which provides enough room to
           incentivize 5&ndash;8 key employees without excessively diluting the
           searcher and investors.
@@ -656,7 +656,7 @@ export default function EmployeeEquityIncentivesArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Data on management equity pool sizing, vesting structures, and retention outcomes in search fund acquisitions.</li>
-          <li>National Center for Employee Ownership (NCEO) &mdash; <em>Equity Compensation in Private Companies</em>. Comprehensive guide to real equity, phantom equity, stock options, and profit-sharing plan design and tax treatment.</li>
+          <li>National Center for Employee Ownership (NCEO) &mdash; <em>Equity Compensation in Private Companies</em>. Thorough guide to real equity, phantom equity, stock options, and profit-sharing plan design and tax treatment.</li>
           <li>Internal Revenue Service &mdash; <em>IRC Section 409A: Nonqualified Deferred Compensation Rules</em> and <em>IRC Section 83(b): Election for Restricted Property</em>. Statutory framework governing equity compensation taxation and valuation requirements.</li>
         </ul>
       </div>

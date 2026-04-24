@@ -24,7 +24,7 @@ export default function CapitalStackExplainedArticle() {
           on deal size, business stability, and the acquirer&rsquo;s model.
           This guide breaks down every layer of the capital stack, walks
           through a $5M worked example, compares SBA-backed versus
-          conventional structures, and shows exactly how leverage amplifies
+          conventional structures, and shows exactly how use amplifies
           both returns and risk.
         </p>
 
@@ -123,7 +123,7 @@ export default function CapitalStackExplainedArticle() {
             guarantee from any owner with 20%+ equity
           </li>
           <li>
-            <strong>Leverage capacity:</strong> Up to 4x seller&rsquo;s
+            <strong>Use capacity:</strong> Up to 4x seller&rsquo;s
             discretionary earnings (SDE) for strong businesses
           </li>
         </ul>
@@ -154,7 +154,7 @@ export default function CapitalStackExplainedArticle() {
             <strong>Interest rate:</strong> SOFR + 2&ndash;4%
           </li>
           <li>
-            <strong>Leverage:</strong> Typically 2.5&ndash;3.5x EBITDA
+            <strong>Use:</strong> Typically 2.5&ndash;3.5x EBITDA
           </li>
           <li>
             <strong>Covenants:</strong> Financial covenants on leverage ratio,
@@ -187,7 +187,7 @@ export default function CapitalStackExplainedArticle() {
             <strong>Interest rate:</strong> SOFR + 4&ndash;7%
           </li>
           <li>
-            <strong>Leverage:</strong> 3&ndash;5x EBITDA
+            <strong>Use:</strong> 3&ndash;5x EBITDA
           </li>
           <li>
             <strong>Advantages:</strong> Speed of execution, fewer covenants,
@@ -217,7 +217,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           Mezzanine financing becomes relevant when the senior lender hits
           its lending limit &mdash; usually 60&ndash;80% of purchase price
-          &mdash; but the buyer needs additional leverage beyond what equity
+          &mdash; but the buyer needs additional use beyond what equity
           alone can provide. Key characteristics:
         </p>
         <ul className={ulClass}>
@@ -403,7 +403,7 @@ export default function CapitalStackExplainedArticle() {
           after every debt obligation is met and every preferred distribution
           is satisfied. But in a successful outcome, common equity captures
           100% of the value created above the debt and preferred layers &mdash;
-          which is why leverage amplification (discussed below) is so powerful.
+          which is why use amplification (discussed below) is so powerful.
         </p>
 
         {/* ---------------------------------------------------------------- */}
@@ -464,7 +464,7 @@ export default function CapitalStackExplainedArticle() {
           </li>
         </ul>
         <p>
-          Conventional stacks involve more equity (lowering leverage and
+          Conventional stacks involve more equity (lowering use and
           therefore returns) but offer greater flexibility on deal size,
           covenant negotiation, and speed of execution. The cost of debt is
           higher (SOFR + 2&ndash;7% depending on seniority), but the absence
@@ -544,7 +544,7 @@ export default function CapitalStackExplainedArticle() {
         </p>
         <p>
           The SBA stack produces dramatically higher returns on equity
-          because of greater leverage (90% vs. 65% debt). But the SBA buyer
+          because of greater use (90% vs. 65% debt). But the SBA buyer
           bears a personal guarantee on $4M of debt, while the search fund
           investors&rsquo; exposure is limited to their equity check. Risk and
           return are always two sides of the same coin.
@@ -552,42 +552,42 @@ export default function CapitalStackExplainedArticle() {
 
         {/* ---------------------------------------------------------------- */}
         <h2 className={h2Class}>
-          How the capital stack affects returns: Leverage amplification
+          How the capital stack affects returns: Use amplification
         </h2>
         <p>
-          Leverage is the mechanism through which the capital stack
+          Use is the mechanism through which the capital stack
           transforms modest operational improvements into outsized equity
           returns. The math is straightforward: when you finance an
           acquisition with debt, the lender&rsquo;s capital magnifies the
           equity investor&rsquo;s exposure to both gains and losses.
         </p>
         <p>
-          Consider a $5M acquisition with $1M of equity (80% leverage).
+          Consider a $5M acquisition with $1M of equity (80% use).
           If the business value increases by 20% to $6M, the equity value
           doubles from $1M to $2M &mdash; a 100% return on a 20% value
-          increase. This is the power of leverage amplification.
+          increase. This is the power of use amplification.
         </p>
         <p>
-          But leverage cuts both ways. Using the same 80% leverage example,
+          But use cuts both ways. Using the same 80% use example,
           a 20% decline in business value wipes out 100% of the equity.
           Here is how leverage ratios affect equity sensitivity:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>50% leverage (2:1 debt-to-equity):</strong> A 10%
+            <strong>50% use (2:1 debt-to-equity):</strong> A 10%
             increase in business value produces a 20% equity return; a 10%
             decrease produces a 20% equity loss
           </li>
           <li>
-            <strong>70% leverage (2.3:1):</strong> A 10% increase produces a
+            <strong>70% use (2.3:1):</strong> A 10% increase produces a
             33% equity return; a 10% decrease produces a 33% equity loss
           </li>
           <li>
-            <strong>80% leverage (4:1):</strong> A 10% increase produces a
+            <strong>80% use (4:1):</strong> A 10% increase produces a
             50% equity return; a 10% decrease produces a 50% equity loss
           </li>
           <li>
-            <strong>90% leverage (9:1, typical SBA stack):</strong> A 10%
+            <strong>90% use (9:1, typical SBA stack):</strong> A 10%
             increase produces a 100% equity return; a 10% decrease produces
             a 100% equity loss
           </li>
@@ -688,10 +688,10 @@ export default function CapitalStackExplainedArticle() {
           <strong>Acquisition-phase capital.</strong> A typical B2B services
           search fund acquisition deploys approximately 30&ndash;40% senior
           debt, 10&ndash;20% seller financing, and 40&ndash;60% investor
-          equity. Search fund stacks tend to be less leveraged than SBA-backed
+          equity. Search fund stacks tend to be less used than SBA-backed
           deals because (a) deal sizes often exceed the $5M SBA ceiling, (b)
           search fund investors prefer operational flexibility over return
-          maximization through leverage, and (c) lower leverage provides a
+          maximization through use, and (c) lower use provides a
           larger EBITDA cushion to service debt during the CEO&rsquo;s
           learning curve.
         </p>
@@ -728,7 +728,7 @@ export default function CapitalStackExplainedArticle() {
           stability, cash flow predictability, and the acquirer&rsquo;s risk
           tolerance. As a general framework: businesses with recurring revenue
           and stable margins can support 70&ndash;80% debt (3&ndash;4x
-          EBITDA leverage), while cyclical or project-based businesses should
+          EBITDA use), while cyclical or project-based businesses should
           target 50&ndash;60% debt (2&ndash;3x EBITDA). The critical
           constraint is DSCR: your total annual debt service should not exceed
           65&ndash;70% of trailing EBITDA, leaving a minimum 1.3&ndash;1.5x
@@ -760,7 +760,7 @@ export default function CapitalStackExplainedArticle() {
           changes post-acquisition?
         </h3>
         <p>
-          Heavily leveraged stacks constrain operational flexibility. High
+          Heavily used stacks constrain operational flexibility. High
           debt service consumes cash that could otherwise fund growth
           initiatives, hiring, or capital expenditures. Loan covenants may
           restrict additional borrowing, capital expenditures above certain
@@ -768,7 +768,7 @@ export default function CapitalStackExplainedArticle() {
           require board observation rights or approval for material decisions.
           Conversely, equity-heavy stacks offer maximum flexibility but dilute
           the acquirer&rsquo;s ownership and returns. The best structures
-          balance leverage for return amplification with enough cash flow
+          balance use for return amplification with enough cash flow
           headroom to fund post-acquisition value-creation initiatives.
         </p>
 

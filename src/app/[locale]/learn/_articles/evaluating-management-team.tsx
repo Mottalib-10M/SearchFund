@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const metadata = {
   title: "Evaluating Management Teams in Acquisition Targets | SearchFund",
-  description: "A comprehensive guide to assessing management teams during due diligence, identifying key employees, evaluating retention risk, and building effective leadership post-acquisition.",
+  description: "A thorough guide to assessing management teams during due diligence, identifying key employees, evaluating retention risk, and building effective leadership post-acquisition.",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
   category: "Due Diligence",
@@ -33,11 +33,11 @@ export default function EvaluatingManagementTeamArticle() {
       <h1 className={h1Class}>Evaluating Management Teams in Acquisition Targets</h1>
 
       <p className={bodyClass}>
-        In the world of search fund acquisitions, the quality of the management team often matters more than the business model itself. A strong management team can navigate challenges, drive growth, and create value. A weak or misaligned team can derail even the most promising acquisition. Yet management assessment remains one of the most difficult and frequently mishandled aspects of due diligence.
+        In the world of search fund acquisitions, the quality of the management team often matters more than the business model itself. A strong management team can manage challenges, drive growth, and create value. A weak or misaligned team can derail even the most promising acquisition. Yet management assessment remains one of the most difficult and frequently mishandled aspects of due diligence.
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive framework for evaluating management teams during the acquisition process, identifying key employees, assessing retention risk, and building an effective leadership structure post-close.
+        This guide provides a thorough framework for evaluating management teams during the acquisition process, identifying key employees, assessing retention risk, and building an effective leadership structure post-close.
       </p>
 
       <h2 className={h2Class}>Why Management Assessment Matters</h2>
@@ -63,7 +63,7 @@ export default function EvaluatingManagementTeamArticle() {
       <h2 className={h2Class}>The Management Assessment Framework</h2>
 
       <p className={bodyClass}>
-        A comprehensive management evaluation should cover five dimensions: structure, capability, alignment, culture, and sustainability. Each requires different assessment techniques and reveals different risks.
+        A thorough management evaluation should cover five dimensions: structure, capability, alignment, culture, and sustainability. Each requires different assessment techniques and reveals different risks.
       </p>
 
       <h3 className={h3Class}>1. Organizational Structure Analysis</h3>
@@ -576,7 +576,7 @@ export default function EvaluatingManagementTeamArticle() {
         <li>All key employees plan to leave and the business is deeply dependent on them</li>
         <li>The management team is fundamentally incompetent and rebuilding would take too long or cost too much</li>
         <li>Cultural toxicity is so deep that you'd need to replace most of the organization</li>
-        <li>The seller has been so involved that there effectively is no management team - you'd be buying yourself a demanding job, not a business with leverage</li>
+        <li>The seller has been so involved that there effectively is no management team - you'd be buying yourself a demanding job, not a business with use</li>
       </ul>
 
       <p className={bodyClass}>

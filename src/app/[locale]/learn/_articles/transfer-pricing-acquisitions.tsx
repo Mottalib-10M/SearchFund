@@ -22,7 +22,7 @@ export default function TransferPricingAcquisitionsArticle() {
           </Link>{" "}
           can result in unexpected tax assessments, penalties, double taxation,
           and prolonged disputes with tax authorities in multiple jurisdictions.
-          This guide provides a comprehensive overview of transfer pricing
+          This guide provides a thorough overview of transfer pricing
           considerations that acquirers must address before, during, and after
           an acquisition.
         </p>
@@ -143,7 +143,7 @@ export default function TransferPricingAcquisitionsArticle() {
           guarantees, and any other flows of value between related entities.
           For each transaction, document the parties involved, the jurisdictions,
           the annual volume, the pricing mechanism, and the contractual terms.
-          Many targets lack a comprehensive intercompany transaction map, which
+          Many targets lack a thorough intercompany transaction map, which
           itself is a red flag indicating weak transfer pricing governance.
         </p>
 
@@ -157,7 +157,7 @@ export default function TransferPricingAcquisitionsArticle() {
           justifying their intercompany pricing. Assess whether the target&apos;s
           documentation is current (many companies let documentation lapse for
           years), whether the economic analysis and benchmarking studies are
-          robust, and whether the documentation would withstand scrutiny from
+          strong, and whether the documentation would withstand scrutiny from
           a tax authority during an audit.
         </p>
 
@@ -487,7 +487,7 @@ export default function TransferPricingAcquisitionsArticle() {
           <li>
             <strong>Invest in compliance infrastructure:</strong> After closing,
             ensure that the target&apos;s transfer pricing documentation is
-            brought up to standard across all jurisdictions. Implement robust
+            brought up to standard across all jurisdictions. Implement strong
             intercompany pricing monitoring and true-up mechanisms to ensure
             that actual results align with arm&apos;s length benchmarks on
             an ongoing basis.

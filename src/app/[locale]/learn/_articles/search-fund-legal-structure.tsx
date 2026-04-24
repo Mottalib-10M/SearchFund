@@ -106,7 +106,7 @@ export default function SearchFundLegalStructureArticle() {
 
         <h2 className={h2Class}>European structures by country</h2>
         <p>
-          European search funds face a more fragmented legal landscape. Each
+          European search funds face a more fragmented legal environment. Each
           country has its own entity types, tax regimes, and corporate governance
           requirements. Below are the most common structures in the four largest
           European search fund markets.
@@ -177,7 +177,7 @@ export default function SearchFundLegalStructureArticle() {
 
         <h3 className={h3Class}>United Kingdom</h3>
         <p>
-          The UK has a relatively straightforward entity landscape:
+          The UK has a relatively straightforward entity market:
         </p>
         <ul className={ulClass}>
           <li>
@@ -293,7 +293,7 @@ export default function SearchFundLegalStructureArticle() {
         <p>
           In the US, a handful of law firms dominate the search fund market
           and offer standardized documents that investors recognize and trust.
-          In Europe, the landscape is more fragmented, and you may need local
+          In Europe, the market is more fragmented, and you may need local
           counsel in the target&apos;s jurisdiction alongside a firm familiar
           with ETA deal structures. Budget EUR 15,000 to EUR 40,000 for
           entity setup and LP documentation in Europe, and $15,000 to $30,000

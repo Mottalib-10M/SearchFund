@@ -114,7 +114,7 @@ export default function RetailAcquisitionArticle() {
         </p>
         <p>Key lease provisions to analyze before closing:</p>
         <ul className={ulClass}>
-          <li><strong>Assignment clause:</strong> Can the lease be transferred to a new owner without landlord approval, or does the landlord have the right to reject the assignment (or renegotiate terms)? A restrictive assignment clause gives the landlord leverage to raise rent at closing.</li>
+          <li><strong>Assignment clause:</strong> Can the lease be transferred to a new owner without landlord approval, or does the landlord have the right to reject the assignment (or renegotiate terms)? A restrictive assignment clause gives the landlord use to raise rent at closing.</li>
           <li><strong>Remaining term and options:</strong> Fewer than 5 years remaining (including renewal options) creates refinancing risk and limits your exit options. Lenders typically want to see lease term exceeding the loan term.</li>
           <li><strong>Rent escalation schedule:</strong> Annual increases of 2&ndash;3% are standard. Anything tied to CPI without a cap can become painful during inflationary periods. Flat rent is ideal but increasingly rare.</li>
           <li><strong>Co-tenancy clauses:</strong> In multi-tenant properties, co-tenancy provisions may allow rent reduction if an anchor tenant vacates. These clauses protect you but also signal the property&rsquo;s dependency on traffic generators.</li>

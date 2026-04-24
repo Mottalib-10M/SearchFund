@@ -15,7 +15,7 @@ export default function EuropeanSearchFundResearchArticle() {
           America. Two institutions have been instrumental in documenting,
           researching, and accelerating this growth: IESE Business School in
           Barcelona and INSEAD in Fontainebleau. Their research provides the
-          most comprehensive data available on European search fund
+          most thorough data available on European search fund
           performance, deal structures, and market dynamics. This article
           synthesizes the key findings from their studies and explores what
           they mean for searchers, investors, and the future of ETA in Europe.
@@ -148,13 +148,13 @@ export default function EuropeanSearchFundResearchArticle() {
           <li>
             European returns appear broadly similar for completed acquisitions,
             though the smaller sample size makes the data less statistically
-            robust. The top quartile of European search funds has achieved
+            strong. The top quartile of European search funds has achieved
             returns comparable to the best US outcomes.
           </li>
           <li>
             European search funds have a slightly lower loss rate than US
             funds, potentially because European searchers tend to be more
-            conservative in deal selection and leverage.
+            conservative in deal selection and use.
           </li>
         </ul>
 
@@ -186,7 +186,7 @@ export default function EuropeanSearchFundResearchArticle() {
           <li>
             The longer timeline reflects fewer intermediated deal processes,
             more complex regulatory approvals in some jurisdictions, and the
-            need to navigate different legal and tax frameworks across
+            need to manage different legal and tax frameworks across
             countries.
           </li>
         </ul>
@@ -246,7 +246,7 @@ export default function EuropeanSearchFundResearchArticle() {
           supportive government programs for business succession and a
           well-developed professional services ecosystem. However, labor
           regulations and social charges create complexity that searchers
-          must navigate carefully.
+          must manage carefully.
         </p>
 
         <h3 className={h3Class}>Germany</h3>
@@ -284,7 +284,7 @@ export default function EuropeanSearchFundResearchArticle() {
           multi-market searches more feasible than elsewhere in Europe.
         </p>
 
-        <h2 className={h2Class}>European investor landscape evolution</h2>
+        <h2 className={h2Class}>European investor market evolution</h2>
         <ul className={ulClass}>
           <li>
             In the early days, European search funds relied heavily on US-based
@@ -326,7 +326,7 @@ export default function EuropeanSearchFundResearchArticle() {
             some European markets.
           </li>
           <li>
-            <strong>Lower leverage.</strong> European search fund acquisitions
+            <strong>Lower use.</strong> European search fund acquisitions
             typically use less bank debt than US deals. The absence of an
             SBA-equivalent program in most European countries means that
             commercial bank lending is the primary debt source, and banks
@@ -426,7 +426,7 @@ export default function EuropeanSearchFundResearchArticle() {
         <ul className={ulClass}>
           <li>
             <strong>IESE International Search Fund Study</strong> (updated
-            periodically): the most comprehensive dataset on European search
+            periodically): the most thorough dataset on European search
             fund performance, deal characteristics, and operator profiles.
           </li>
           <li>
@@ -461,7 +461,7 @@ export default function EuropeanSearchFundResearchArticle() {
           combination of academic research, a maturing investor ecosystem,
           and the largest intergenerational wealth transfer in European
           history creates a compelling environment for entrepreneurship
-          through acquisition. Learn <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors are backing search funds</Link> in growing numbers. For searchers willing to navigate the
+          through acquisition. Learn <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors are backing search funds</Link> in growing numbers. For searchers willing to manage the
           complexity of European markets, the opportunities are vast and
           growing.
         </p>
@@ -471,7 +471,7 @@ export default function EuropeanSearchFundResearchArticle() {
 
       <h3 className={h3Class}>How do European search fund returns compare to US returns?</h3>
       <div className={bodyClass}>
-        <p>According to the IESE International Search Fund Study (2024), European search funds that have completed acquisitions have achieved median IRRs in the 30&ndash;40% range, broadly comparable to the aggregate US figure of approximately 33% IRR and 5.5x return on invested capital reported in the Stanford 2024 study. However, the European dataset remains significantly smaller and less mature, making direct statistical comparison difficult. One notable difference is that European search funds appear to have a slightly lower loss rate than US funds, potentially because European searchers tend to be more conservative in deal selection and use less leverage. Average European acquisition sizes ($3M&ndash;$10M enterprise value) have been smaller than US deals ($5M&ndash;$20M), though this gap is narrowing as the market matures and larger institutional investors enter the European ecosystem.</p>
+        <p>According to the IESE International Search Fund Study (2024), European search funds that have completed acquisitions have achieved median IRRs in the 30&ndash;40% range, broadly comparable to the aggregate US figure of approximately 33% IRR and 5.5x return on invested capital reported in the Stanford 2024 study. However, the European dataset remains significantly smaller and less mature, making direct statistical comparison difficult. One notable difference is that European search funds appear to have a slightly lower loss rate than US funds, potentially because European searchers tend to be more conservative in deal selection and use less use. Average European acquisition sizes ($3M&ndash;$10M enterprise value) have been smaller than US deals ($5M&ndash;$20M), though this gap is narrowing as the market matures and larger institutional investors enter the European ecosystem.</p>
       </div>
 
       <h3 className={h3Class}>Which European country is most active for search fund activity?</h3>

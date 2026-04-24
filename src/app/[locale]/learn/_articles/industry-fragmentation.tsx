@@ -37,7 +37,7 @@ export default function IndustryFragmentationArticle() {
       </p>
 
       <p className={bodyClass}>
-        The appeal of fragmented industries is straightforward: by acquiring and integrating multiple smaller businesses, you can achieve economies of scale, improve operational efficiency, expand geographic reach, and build a platform that's worth more than the sum of its parts. However, the execution is anything but simple. This comprehensive guide explores how to identify fragmented industries ripe for consolidation, develop an effective roll-up strategy, navigate the complexities of platform versus add-on acquisitions, and overcome the integration challenges that often derail consolidation plays.
+        The appeal of fragmented industries is straightforward: by acquiring and integrating multiple smaller businesses, you can achieve economies of scale, improve operational efficiency, expand geographic reach, and build a platform that's worth more than the sum of its parts. However, the execution is anything but simple. This thorough guide explores how to identify fragmented industries ripe for consolidation, develop an effective roll-up strategy, manage the complexities of platform versus add-on acquisitions, and overcome the integration challenges that often derail consolidation plays.
       </p>
 
       <h2 className={h2Class}>Understanding Industry Fragmentation</h2>
@@ -127,7 +127,7 @@ export default function IndustryFragmentationArticle() {
       <ul className={ulClass}>
         <li><strong>Revenue synergies:</strong> Cross-selling opportunities, expanded service offerings, or enhanced customer retention through broader capabilities</li>
         <li><strong>Cost synergies:</strong> Purchasing economies, shared overhead, optimized routing/logistics, or centralized back-office functions</li>
-        <li><strong>Technology leverage:</strong> Investments in systems, software, or automation that provide competitive advantages and improve unit economics</li>
+        <li><strong>Technology use:</strong> Investments in systems, software, or automation that provide competitive advantages and improve unit economics</li>
         <li><strong>Operational improvements:</strong> Standardizing best practices across locations and implementing more sophisticated management approaches</li>
         <li><strong>Brand building:</strong> Creating regional or national brand recognition where none previously existed</li>
         <li><strong>Multiple arbitrage:</strong> Buying small businesses at low multiples and creating a larger platform that commands premium valuations</li>
@@ -236,7 +236,7 @@ export default function IndustryFragmentationArticle() {
         <li><strong>Working capital management:</strong> Monitor cash conversion across locations, as small inefficiencies multiply quickly across multiple units.</li>
         <li><strong>Overhead allocation:</strong> Develop fair and transparent approaches for allocating corporate costs to operating units.</li>
         <li><strong>Capital allocation:</strong> Create disciplined processes for allocating growth capital, technology investments, and maintenance spending across locations.</li>
-        <li><strong>Debt covenant compliance:</strong> Track consolidated leverage, coverage ratios, and other covenants that become more complex with each acquisition.</li>
+        <li><strong>Debt covenant compliance:</strong> Track consolidated use, coverage ratios, and other covenants that become more complex with each acquisition.</li>
       </ul>
 
       <h3 className={h3Class}>Talent Strategy</h3>
@@ -276,7 +276,7 @@ export default function IndustryFragmentationArticle() {
         Track purchasing savings carefully - they're often overestimated in acquisition underwriting and can take longer to realize than anticipated.
       </p>
 
-      <h3 className={h3Class}>Corporate Overhead Leverage</h3>
+      <h3 className={h3Class}>Corporate Overhead Use</h3>
 
       <p className={bodyClass}>
         Fixed corporate costs spread across more revenue create margin expansion:
@@ -285,7 +285,7 @@ export default function IndustryFragmentationArticle() {
       <ul className={ulClass}>
         <li><strong>Finance and accounting:</strong> One CFO and corporate accounting team supports multiple operating units.</li>
         <li><strong>Human resources:</strong> Centralized HR provides recruiting, benefits administration, and compliance support.</li>
-        <li><strong>Technology and systems:</strong> Fixed costs for software licenses, technology infrastructure, and IT support leverage across locations.</li>
+        <li><strong>Technology and systems:</strong> Fixed costs for software licenses, technology infrastructure, and IT support use across locations.</li>
         <li><strong>Legal and compliance:</strong> Shared legal resources and compliance programs reduce per-unit costs.</li>
         <li><strong>Insurance:</strong> Consolidated insurance programs often generate premium savings and better coverage.</li>
       </ul>
@@ -311,7 +311,7 @@ export default function IndustryFragmentationArticle() {
 
       <ul className={ulClass}>
         <li><strong>Brand development:</strong> Build regional or national brand recognition through consistent marketing.</li>
-        <li><strong>Digital marketing:</strong> Sophisticated digital marketing campaigns leverage across geographies.</li>
+        <li><strong>Digital marketing:</strong> Sophisticated digital marketing campaigns use across geographies.</li>
         <li><strong>Marketing technology:</strong> Investments in marketing automation, SEO, and analytics spread across larger revenue base.</li>
         <li><strong>Content creation:</strong> Professional content development supports multiple locations.</li>
       </ul>

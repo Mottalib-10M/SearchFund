@@ -16,7 +16,7 @@ export default function ETAIrelandArticle() {
           the lowest corporate tax rates on the continent, Ireland offers a unique
           combination of accessibility and opportunity for search fund
           entrepreneurs. While the{" "}
-          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">broader European ETA landscape</Link>{" "}
+          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">broader European ETA market</Link>{" "}
           continues to mature, and the neighbouring{" "}
           <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">UK market</Link>{" "}
           remains the largest in the region, Ireland presents a distinctive
@@ -77,7 +77,7 @@ export default function ETAIrelandArticle() {
 
         <h2 className={h2Class}>Legal structures for acquisition</h2>
         <p>
-          Understanding the Irish corporate landscape is essential for
+          Understanding the Irish corporate market is essential for
           structuring an acquisition correctly. The Companies Act 2014
           consolidated Irish company law into a single statute and introduced
           several company types.
@@ -123,7 +123,7 @@ export default function ETAIrelandArticle() {
           beneficial ownership must be notified. The CRO maintains a public
           register of directors, secretaries, shareholders, and filed
           accounts&mdash;a valuable resource for deal sourcing and due
-          diligence, though not as comprehensive as the UK&rsquo;s Companies House.
+          diligence, though not as thorough as the UK&rsquo;s Companies House.
         </p>
 
         <h2 className={h2Class}>Financing options</h2>
@@ -139,7 +139,7 @@ export default function ETAIrelandArticle() {
           AIB and Bank of Ireland are the two dominant commercial lenders for
           SME acquisition financing. Both have dedicated business banking
           teams experienced in management buyouts and business transfers.
-          Typical leverage for acquisition financing ranges from 2.5x to 4x
+          Typical use for acquisition financing ranges from 2.5x to 4x
           EBITDA, with loan tenors of five to seven years. Interest rates are
           generally competitive within the eurozone context. Permanent TSB and
           several international banks with Irish operations can also provide
@@ -189,10 +189,10 @@ export default function ETAIrelandArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>.
         </p>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <p>
           Ireland&rsquo;s tax regime is a significant draw for acquirers. For a
-          comprehensive overview of tax planning strategies, see our guide to{" "}
+          thorough overview of tax planning strategies, see our guide to{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link>.
         </p>
 
@@ -433,7 +433,7 @@ export default function ETAIrelandArticle() {
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>
-          <li>Central Statistics Office Ireland, <em>Business Demography Report</em> (2024) &mdash; comprehensive data on Irish SME demographics and ownership patterns</li>
+          <li>Central Statistics Office Ireland, <em>Business Demography Report</em> (2024) &mdash; thorough data on Irish SME demographics and ownership patterns</li>
           <li>Enterprise Ireland, <em>Annual Report and Accounts</em> (2024) &mdash; government support programs for business growth and internationalization</li>
           <li>Revenue Commissioners Ireland, <em>Corporation Tax Statistics</em> (2024) &mdash; official data on Irish tax rates, reliefs, and incentives for businesses</li>
         </ul>

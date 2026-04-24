@@ -255,7 +255,7 @@ export default function EarnOutStructuresArticle() {
         <p>
           Even well-structured earn-outs can generate disagreements
           about calculation methodology, accounting treatment, or
-          whether sandbox provisions were violated. A robust dispute
+          whether sandbox provisions were violated. A strong dispute
           resolution mechanism is essential.
         </p>
 
@@ -552,7 +552,7 @@ export default function EarnOutStructuresArticle() {
         <h3 className={h3Class}>Should a search fund buyer prefer revenue-based or EBITDA-based earn-outs?</h3>
         <p>
           As a buyer, you generally have more control over revenue-based earn-outs because revenue is harder for either party to manipulate -- it sits at the top of the income statement above discretionary expenses. However, revenue-based earn-outs carry the risk that the seller pushes for revenue at any cost, accepting unprofitable contracts or deep discounts to hit targets. EBITDA-based earn-outs align incentives around profitability but give buyers more levers to manipulate results through overhead allocations, management fees, or accelerated spending. For most search fund deals, the pragmatic choice depends on the seller's post-closing role: if the seller is staying involved, use revenue (harder for the buyer to manipulate); if the seller is departing, use{" "}
-          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link> with robust sandbox provisions.
+          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link> with strong sandbox provisions.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

@@ -152,7 +152,7 @@ export default function ETASingaporeArticle() {
             <strong>DBS, OCBC, UOB:</strong> Singapore&rsquo;s three major
             local banks have dedicated SME banking divisions and provide
             acquisition financing. Typical terms: 2.5&ndash;4x EBITDA
-            leverage, 5&ndash;7 year tenor, SORA + 2&ndash;4% interest rates.
+            use, 5&ndash;7 year tenor, SORA + 2&ndash;4% interest rates.
           </li>
           <li>
             <strong>Government SME programs:</strong> Beyond Singapore, each
@@ -185,7 +185,7 @@ export default function ETASingaporeArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
 
         <h3 className={h3Class}>Singapore</h3>
         <ul className={ulClass}>
@@ -332,7 +332,7 @@ export default function ETASingaporeArticle() {
             world-class IP protection (ranked 2nd globally by WIPO),
             enforcement in neighbouring jurisdictions varies significantly.
             Buyers acquiring businesses with valuable intellectual property
-            should ensure robust IP registration and protection across all
+            should ensure strong IP registration and protection across all
             operating markets.
           </li>
           <li>
@@ -389,7 +389,7 @@ export default function ETASingaporeArticle() {
             With a massive base of aging business owners, strong economic
             fundamentals, and Singapore as a world-class operating hub, the
             region offers significant first-mover advantages for ETA
-            entrepreneurs willing to navigate its complexity.
+            entrepreneurs willing to manage its complexity.
           </li>
         </ul>
 

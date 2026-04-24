@@ -10,7 +10,7 @@ export default function FindingInvestorsArticle() {
       <div className={bodyClass}>
         <p>
           Raising search capital is the first major milestone for a traditional
-          search fund entrepreneur. Understanding <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors back search funds</Link> will help you tailor your pitch. This guide covers the landscape of search
+          search fund entrepreneur. Understanding <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors back search funds</Link> will help you tailor your pitch. This guide covers the field of search
           fund investors, how to approach them, and what they look for in a
           searcher.
         </p>
@@ -47,7 +47,7 @@ export default function FindingInvestorsArticle() {
           <li><strong>Pacific Lake Partners:</strong> A well-known institutional search fund investor that provides both search capital and acquisition capital, offering continuity throughout the process.</li>
           <li><strong>Relay Investments:</strong> Active in the US search fund ecosystem, Relay invests across both traditional and self-funded search models.</li>
           <li><strong>Stanford GSB angel network:</strong> While not an institution per se, the Stanford search fund community functions as a semi-institutional network. Stanford professors helped pioneer the search fund model in the 1980s, and the school&apos;s alumni network remains the most active source of search fund capital in the world.</li>
-          <li><strong>IESE and other European networks:</strong> In Europe, IESE Business School has built a robust search fund ecosystem. Dedicated European investors like Borgo Capital and ETA Capital have emerged to serve this growing market.</li>
+          <li><strong>IESE and other European networks:</strong> In Europe, IESE Business School has built a strong search fund ecosystem. Dedicated European investors like Borgo Capital and ETA Capital have emerged to serve this growing market.</li>
         </ul>
         <p>
           Institutional investors typically write checks of $50,000 to $100,000
@@ -180,7 +180,7 @@ export default function FindingInvestorsArticle() {
         <h2 className={h2Class}>How to approach investors</h2>
         <ol className={olClass}>
           <li><strong>Build your thesis first.</strong> Define your target geography, sectors, size criteria, and value creation plan before approaching investors. Pair your thesis with a strong <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link>.</li>
-          <li><strong>Leverage your network.</strong> Start with your MBA alumni network, professors, and personal connections to get warm introductions.</li>
+          <li><strong>Use your network.</strong> Start with your MBA alumni network, professors, and personal connections to get warm introductions.</li>
           <li><strong>Prepare a compelling <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link>.</strong> Your Private Placement Memorandum should cover your background, search thesis, target criteria, and the economics of the search fund structure.</li>
           <li><strong>Meet investors in person.</strong> Attend the INSEAD ETA Conference, IESE Search Fund Conference, Stanford CEO Conference, and ETA networking events. INSEAD&apos;s ETA & Search Funds Hub also provides curated introductions between searchers and investors.</li>
           <li><strong>Be persistent but respectful.</strong> Expect the process to take 2-4 months. Most investors pass on many searchers before committing.</li>
@@ -306,7 +306,7 @@ export default function FindingInvestorsArticle() {
           searcher in your target geography or sector.
         </p>
 
-        <h3 className={h3Class}>Leverage your board</h3>
+        <h3 className={h3Class}>Use your board</h3>
         <p>
           Your investor board is not just a governance requirement - it is a
           strategic asset. Schedule regular calls with individual board members

@@ -11,14 +11,14 @@ export default function HotelHospitalityAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          Hotels sit at the intersection of real estate, operations, and brand management &mdash; making them one of the most complex acquisition targets in any buyer&rsquo;s pipeline. The U.S. lodging industry encompasses over 64,000 properties and nearly 5.7 million guestrooms, according to the{" "}
+          Hotels sit at the intersection of real estate, operations, and brand management &mdash; making them one of the most complex acquisition targets in any buyer&rsquo;s pipeline. The U.S. lodging industry includes over 64,000 properties and nearly 5.7 million guestrooms, according to the{" "}
           <a href="https://www.ahla.com/resource/2025-state-industry-report" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">American Hotel &amp; Lodging Association&rsquo;s 2025 State of the Industry Report</a>
           , with guest spending projected to reach $777 billion in 2025. For an entrepreneur-through-acquisition (ETA) buyer, a hotel deal means acquiring a real asset with tangible cash flow &mdash; but also inheriting a capital-hungry operation where a single deferred renovation cycle can erase years of profit. This guide covers valuation, due diligence, franchise economics, and the honest trade-offs of buying a hotel versus other acquisition targets.
         </p>
       </div>
 
       {/* ── Section 1 ── */}
-      <h2 className={h2Class}>Industry Landscape: Size, Structure, and Segments</h2>
+      <h2 className={h2Class}>industry environment: Size, Structure, and Segments</h2>
       <div className={bodyClass}>
         <p>
           The American hotel industry directly employed over 2.17 million people in 2025, and sold nearly 1.3 billion room nights during the prior year, per the{" "}
@@ -169,8 +169,8 @@ export default function HotelHospitalityAcquisitionArticle() {
           Hotels are among the most capital-intensive businesses a search fund entrepreneur can acquire. Unlike a SaaS company or professional services firm, a hotel requires continuous reinvestment in a physical plant that degrades with every guest stay.
         </p>
         <p>
-          <strong>The renovation cycle problem:</strong> Branded hotels typically require a soft-goods refresh every 5&ndash;7 years and a full renovation every 10&ndash;14 years. An acquirer who buys a property at year 8 of its renovation cycle may face a $3&ndash;5 million PIP within 24 months of closing. That capital obligation is often funded through a combination of an FF&amp;E reserve (which may be underfunded), a CapEx loan, or additional equity &mdash; all of which dilute returns. SBA 7(a) loans, a common ETA financing tool, can fund acquisitions with up to 85&ndash;90% leverage, but lenders typically require 6&ndash;12 months of operating reserves on top of the purchase price, per{" "}
-          <a href="https://realmo.com/blog/hospitality-investing-101-the-comprehensive-guide-to-buying-your-first-hotel-in-2026/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Realmo&rsquo;s 2026 hotel investing guide</a>.
+          <strong>The renovation cycle problem:</strong> Branded hotels typically require a soft-goods refresh every 5&ndash;7 years and a full renovation every 10&ndash;14 years. An acquirer who buys a property at year 8 of its renovation cycle may face a $3&ndash;5 million PIP within 24 months of closing. That capital obligation is often funded through a combination of an FF&amp;E reserve (which may be underfunded), a CapEx loan, or additional equity &mdash; all of which dilute returns. SBA 7(a) loans, a common ETA financing tool, can fund acquisitions with up to 85&ndash;90% use, but lenders typically require 6&ndash;12 months of operating reserves on top of the purchase price, per{" "}
+          <a href="https://realmo.com/blog/hospitality-investing-101-the-thorough-guide-to-buying-your-first-hotel-in-2026/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Realmo&rsquo;s 2026 hotel investing guide</a>.
         </p>
         <p>
           <strong>The labor challenge:</strong> Hotels are labor-intensive operations with high turnover and persistent staffing shortages. The{" "}
@@ -233,7 +233,7 @@ export default function HotelHospitalityAcquisitionArticle() {
 
         <h3 className={h3Class}>Can I use an SBA loan to buy a hotel?</h3>
         <p>
-          Yes. The SBA 7(a) program is widely used for hotel acquisitions, offering up to 85&ndash;90% leverage with longer amortization periods than conventional commercial real estate loans (typically 25 years). However, lenders require the borrower to have relevant management experience or a qualified management team in place, and they typically require 6&ndash;12 months of operating reserves in addition to the equity contribution. SBA 504 loans can also work for the real estate portion of the transaction, with the hotel operations financed separately.
+          Yes. The SBA 7(a) program is widely used for hotel acquisitions, offering up to 85&ndash;90% use with longer amortization periods than conventional commercial real estate loans (typically 25 years). However, lenders require the borrower to have relevant management experience or a qualified management team in place, and they typically require 6&ndash;12 months of operating reserves in addition to the equity contribution. SBA 504 loans can also work for the real estate portion of the transaction, with the hotel operations financed separately.
         </p>
 
         <h3 className={h3Class}>How important is brand affiliation versus going independent?</h3>

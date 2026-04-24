@@ -22,7 +22,7 @@ export default function MBOExitStrategyArticle() {
           sense as an{" "}
           <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy</Link>,
           how they are financed, and what legal and structural considerations
-          the seller must navigate.
+          the seller must manage.
         </p>
 
         <h2 className={h2Class}>What is a management buyout?</h2>
@@ -34,7 +34,7 @@ export default function MBOExitStrategyArticle() {
           with outside financial sponsors such as private equity firms,
           mezzanine lenders, or the selling owner (through{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>).
-          The defining characteristic of an MBO, as opposed to a leveraged
+          The defining characteristic of an MBO, as opposed to a used
           buyout or a strategic acquisition, is that the buyers are insiders
           who already know the business intimately.
         </p>
@@ -108,7 +108,7 @@ export default function MBOExitStrategyArticle() {
           receiving payment over time (typically three to seven years) with
           interest. For the management team, seller financing reduces the
           upfront capital requirement and signals the seller&apos;s confidence
-          in the business&apos;s continued performance. For a comprehensive
+          in the business&apos;s continued performance. For a thorough
           overview of seller financing structures, see our guide to{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing in acquisitions</Link>.
         </p>
@@ -346,10 +346,10 @@ export default function MBOExitStrategyArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Conservative leverage:</strong> MBOs that are financed
+            <strong>Conservative use:</strong> MBOs that are financed
             with excessive debt are vulnerable to economic downturns or
             unexpected business challenges. The most successful MBOs use
-            moderate leverage (typically 2x to 3.5x EBITDA total debt) and
+            moderate use (typically 2x to 3.5x EBITDA total debt) and
             have a clear path to deleveraging within three to four years.
           </li>
           <li>

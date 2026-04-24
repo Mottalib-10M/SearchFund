@@ -233,7 +233,7 @@ export default function SearchFundBoardBestPracticesArticle() {
         <ul className={ulClass}>
           <li><strong>Regular check-ins:</strong> speak with your chair weekly or biweekly, not just before board meetings. Test ideas and get early reads on how the board might react to proposals.</li>
           <li><strong>Co-create the agenda:</strong> develop each meeting agenda collaboratively. The chair knows what topics other directors care about and can help you prioritize discussion time.</li>
-          <li><strong>Leverage their network:</strong> experienced chairs have deep networks of potential customers, hires, and acquisition targets. Be explicit about what introductions would be valuable.</li>
+          <li><strong>Use their network:</strong> experienced chairs have deep networks of potential customers, hires, and acquisition targets. Be explicit about what introductions would be valuable.</li>
           <li><strong>Accept coaching:</strong> the best chairs function as executive coaches. Embrace their candid feedback on your leadership, communication style, and strategic thinking.</li>
         </ul>
         <p>
@@ -304,7 +304,7 @@ export default function SearchFundBoardBestPracticesArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>$1M&ndash;$3M EBITDA:</strong> three-member board (CEO plus two investors). Monthly meetings, informal governance, minimal committee structure.</li>
-          <li><strong>$3M&ndash;$6M EBITDA:</strong> add an independent director with industry expertise. Formalize a compensation committee. Move to quarterly meetings with robust written updates.</li>
+          <li><strong>$3M&ndash;$6M EBITDA:</strong> add an independent director with industry expertise. Formalize a compensation committee. Move to quarterly meetings with strong written updates.</li>
           <li><strong>$6M&ndash;$10M+ EBITDA:</strong> expand to five members. Add a second independent or a director with M&amp;A experience. Formalize audit and exit committees.</li>
         </ul>
 

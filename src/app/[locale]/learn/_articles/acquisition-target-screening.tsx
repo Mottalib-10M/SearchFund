@@ -111,7 +111,7 @@ export default function AcquisitionTargetScreeningArticle() {
         <h3 className={h3Class}>Business quality assessment</h3>
         <ul className={ulClass}>
           <li>Customer retention and churn analysis</li>
-          <li>Competitive landscape: how defensible is the business?</li>
+          <li>competitive environment: how defensible is the business?</li>
           <li>Growth potential: organic levers and{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
               buy-and-build

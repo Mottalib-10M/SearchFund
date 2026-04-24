@@ -23,7 +23,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          This guide maps the landscape of search fund communities - from the largest online forums to regional in-person groups, from MBA-affiliated networks to industry-specific channels. Whether you're just beginning to explore ETA or you're a seasoned searcher looking to deepen your connections, understanding where and how to engage with the community will dramatically accelerate your journey.
+          This guide maps the field of search fund communities - from the largest online forums to regional in-person groups, from MBA-affiliated networks to industry-specific channels. Whether you're just beginning to explore ETA or you're a seasoned searcher looking to deepen your connections, understanding where and how to engage with the community will dramatically accelerate your journey.
         </p>
 
         <h2 className={h2Class}>Why Community Matters in ETA</h2>
@@ -47,7 +47,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>SearchFunder (the Largest Online Community)</h2>
 
         <p className={bodyClass}>
-          SearchFunder.com is the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, advisors, and alumni who have completed acquisitions. Founded in 2009, SearchFunder started as a simple forum and has evolved into a comprehensive platform for the ETA ecosystem.
+          SearchFunder.com is the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, advisors, and alumni who have completed acquisitions. Founded in 2009, SearchFunder started as a simple forum and has evolved into a thorough platform for the ETA ecosystem.
         </p>
 
         <p className={bodyClass}>
@@ -99,7 +99,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>MBA ETA Clubs and Alumni Networks</h2>
 
         <p className={bodyClass}>
-          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB&apos;s ETA Club, Wharton&apos;s Search Fund Club, Harvard Business School&apos;s ETA Club, Kellogg&apos;s ETA Group, and MIT Sloan&apos;s ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors. For a comprehensive comparison of programs, see our guide to <Link href="/learn/mba-programs-eta" className="text-apple-accent hover:underline">top MBA programs for ETA</Link>.
+          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB&apos;s ETA Club, Wharton&apos;s Search Fund Club, Harvard Business School&apos;s ETA Club, Kellogg&apos;s ETA Group, and MIT Sloan&apos;s ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors. For a thorough comparison of programs, see our guide to <Link href="/learn/mba-programs-eta" className="text-apple-accent hover:underline">top MBA programs for ETA</Link>.
         </p>
 
         <p className={bodyClass}>
@@ -169,7 +169,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Following active searchers, investors, and ETA thought leaders on LinkedIn provides a steady stream of insights and updates. Many successful searchers share regular content about their journeys: deal sourcing metrics, lessons from failed LOIs, operational wins, hiring challenges, and reflections on the CEO role. This content serves both as practical learning material and as a reminder that others are navigating the same path.
+          Following active searchers, investors, and ETA thought leaders on LinkedIn provides a steady stream of insights and updates. Many successful searchers share regular content about their journeys: deal sourcing metrics, lessons from failed LOIs, operational wins, hiring challenges, and reflections on the CEO role. This content serves both as practical learning material and as a reminder that others are managing the same path.
         </p>
 
         <p className={bodyClass}>
@@ -191,7 +191,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          ETA Europe serves as the primary pan-European community, with active chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland. The organization hosts an annual conference that brings together 200+ searchers, investors, and service providers from across the continent. These conferences feature country-specific breakout sessions, language-based networking groups, and practical workshops on navigating cross-border regulations and tax structures.
+          ETA Europe serves as the primary pan-European community, with active chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland. The organization hosts an annual conference that brings together 200+ searchers, investors, and service providers from across the continent. These conferences feature country-specific breakout sessions, language-based networking groups, and practical workshops on managing cross-border regulations and tax structures.
         </p>
 
         <p className={bodyClass}>
@@ -217,7 +217,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>Latin American ETA Communities</h2>
 
         <p className={bodyClass}>
-          Latin America represents one of the fastest-growing regions for search fund activity, with communities emerging across Mexico, Colombia, Chile, Argentina, Peru, and Brazil. These communities navigate challenges distinct from both North American and European markets: currency volatility, political uncertainty, varying regulatory frameworks, and limited awareness of the search fund model among local businesses.
+          Latin America represents one of the fastest-growing regions for search fund activity, with communities emerging across Mexico, Colombia, Chile, Argentina, Peru, and Brazil. These communities manage challenges distinct from both North American and European markets: currency volatility, political uncertainty, varying regulatory frameworks, and limited awareness of the search fund model among local businesses.
         </p>
 
         <p className={bodyClass}>
@@ -229,7 +229,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Colombia's ETA community, centered in Bogotá and Medellín, has grown rapidly thanks to support from local business schools like INALDE and Universidad de los Andes. The community organized the first Spanish-language search fund course and has developed resources specifically for navigating Colombian corporate law, tax regulations, and seller financing structures.
+          Colombia's ETA community, centered in Bogotá and Medellín, has grown rapidly thanks to support from local business schools like INALDE and Universidad de los Andes. The community organized the first Spanish-language search fund course and has developed resources specifically for managing Colombian corporate law, tax regulations, and seller financing structures.
         </p>
 
         <p className={bodyClass}>

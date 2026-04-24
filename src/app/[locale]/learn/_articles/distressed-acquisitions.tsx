@@ -5,7 +5,7 @@ export const distressedAcquisitionsMeta = {
   title: "Distressed & Turnaround Acquisitions: Opportunity or Trap?",
   slug: "distressed-acquisitions",
   description:
-    "A comprehensive guide to acquiring and turning around distressed businesses, including valuation strategies, risk assessment, operational restructuring, and when turnarounds succeed or fail.",
+    "A thorough guide to acquiring and turning around distressed businesses, including valuation strategies, risk assessment, operational restructuring, and when turnarounds succeed or fail.",
   category: "acquisition-process",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
@@ -50,7 +50,7 @@ export default function DistressedAcquisitionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide explores the nuanced world of distressed acquisitions - when they make sense, how to evaluate them, what strategies work, and most importantly, how to distinguish genuine opportunities from value traps that will consume years of your life with little to show for it.
+        This guide explores the detailed world of distressed acquisitions - when they make sense, how to evaluate them, what strategies work, and most importantly, how to distinguish genuine opportunities from value traps that will consume years of your life with little to show for it.
       </p>
 
       <h2 className={h2Class}>Understanding Business Distress: Not All Problems Are Equal</h2>
@@ -245,7 +245,7 @@ export default function DistressedAcquisitionsArticle() {
       </ul>
 
       <p className={bodyClass}>
-        For a comprehensive framework, review our <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">due diligence red flags guide</Link>.
+        For a thorough framework, review our <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">due diligence red flags guide</Link>.
       </p>
 
       <h3 className={h3Class}>The "Day One" Test</h3>
@@ -280,7 +280,7 @@ export default function DistressedAcquisitionsArticle() {
 
       <ul className={ulClass}>
         <li>Smaller acquisition prices - you're limited by how much equity you can raise</li>
-        <li>Less leverage risk - no debt service to cover during the turnaround</li>
+        <li>Less use risk - no debt service to cover during the turnaround</li>
         <li>Lower returns if successful - more equity dilution for the same outcome</li>
         <li>Need for patient capital - investors must wait years for returns</li>
       </ul>
@@ -381,7 +381,7 @@ export default function DistressedAcquisitionsArticle() {
 
       <ul className={ulClass}>
         <li>Zero-based budgeting - justify every expense from scratch</li>
-        <li>Renegotiate supplier contracts with current payment status as leverage</li>
+        <li>Renegotiate supplier contracts with current payment status as use</li>
         <li>Consolidate facilities if occupancy or utilization is low</li>
         <li>Automate manual processes to reduce labor costs</li>
         <li>Outsource non-core functions (IT, HR, accounting) to variable cost models</li>

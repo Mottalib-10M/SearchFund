@@ -74,7 +74,7 @@ export default function SearchFundNewslettersArticle() {
       <p className={bodyClass}>
         Acquiring Minds focuses on the human side of search funds and ETA. Each newsletter typically features an
         in-depth interview with a searcher or operator who has successfully acquired and grown a business. Topics
-        range from managing seller psychology during negotiations to implementing your first ERP system to navigating
+        range from managing seller psychology during negotiations to implementing your first ERP system to managing
         culture change post-acquisition.
       </p>
 
@@ -162,7 +162,7 @@ export default function SearchFundNewslettersArticle() {
 
       <p className={bodyClass}>
         Recent content has covered the differences between UK limited companies and French SAS structures, how to
-        navigate German co-determination laws, the rise of family office capital in Spain, and best practices for
+        manage German co-determination laws, the rise of family office capital in Spain, and best practices for
         cross-border acquisitions within the EU.
       </p>
 
@@ -357,7 +357,7 @@ export default function SearchFundNewslettersArticle() {
       <h3 className={h3Class}>Quarterly (Full day)</h3>
 
       <ul className={ulClass}>
-        <li>Complete a comprehensive review of new research publications (Stanford study updates, IESE findings)</li>
+        <li>Complete a thorough review of new research publications (Stanford study updates, IESE findings)</li>
         <li>Binge 5-10 hours of curated content on a specific topic (e.g., SaaS acquisitions, quality of earnings, first 100 days)</li>
         <li>Attend an in-person search fund conference or regional ETA meetup</li>
         <li>Reflect on what you've learned and how it's changed your search strategy or acquisition criteria</li>
@@ -392,7 +392,7 @@ export default function SearchFundNewslettersArticle() {
       <h2 className={h2Class}>Conclusion</h2>
 
       <p className={bodyClass}>
-        The search fund ecosystem has matured significantly over the past decade, creating a rich landscape of
+        The search fund ecosystem has matured significantly over the past decade, creating a rich market of
         content, research, and community resources. By strategically following newsletters like SearchFunder Weekly
         and Acquiring Minds, engaging with thought leaders on LinkedIn and Twitter, consuming academic research from
         Stanford and IESE, and participating in online communities, you'll build a competitive information advantage.

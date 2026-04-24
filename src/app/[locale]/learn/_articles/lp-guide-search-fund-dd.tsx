@@ -316,7 +316,7 @@ export default function LPGuideSearchFundDDArticle() {
         </p>
         <p>
           Model the returns from the LP perspective. At a 5x entry
-          multiple with 3x leverage, a business that grows EBITDA at
+          multiple with 3x use, a business that grows EBITDA at
           8% annually and exits at the same multiple in year 5 generates
           roughly a 3x gross return on equity. Increase the entry
           multiple to 7x with the same assumptions and the return drops
@@ -331,7 +331,7 @@ export default function LPGuideSearchFundDDArticle() {
         <p>
           Evaluate the capital stack: senior debt terms (interest rate,
           amortization, covenants), any mezzanine or seller notes, and
-          the total equity raise. Total leverage above 3.5x EBITDA in
+          the total equity raise. Total use above 3.5x EBITDA in
           a small company with limited margin for error should prompt
           serious questions. Debt service coverage below 1.5x on
           trailing financials is aggressive for a first-time CEO.

@@ -20,7 +20,7 @@ export default function CompetitiveMoatEvaluationArticle() {
           business purchased at a reasonable multiple but with no durable competitive advantage will
           face relentless margin pressure, while a business with a genuine moat can compound value for
           years. Yet assessing moat durability requires more than surface-level observation. It demands
-          rigorous analysis of the competitive landscape, customer behavior, cost structures, and
+          rigorous analysis of the competitive environment, customer behavior, cost structures, and
           industry dynamics.
         </p>
         <p>
@@ -323,7 +323,7 @@ export default function CompetitiveMoatEvaluationArticle() {
             on switching costs and brand value are often more honest than the seller&apos;s claims.
           </li>
           <li>
-            <strong>Competitor analysis:</strong> Map the competitive landscape including direct
+            <strong>Competitor analysis:</strong> Map the competitive environment including direct
             competitors, potential entrants, and substitute products. Understand each competitor&apos;s
             strategy, strengths, and growth trajectory.
           </li>
@@ -445,7 +445,7 @@ export default function CompetitiveMoatEvaluationArticle() {
         <li>
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             Due Diligence Checklist for Business Acquisitions
-          </Link>{" "} - Comprehensive framework for investigating acquisition targets
+          </Link>{" "} - Thorough framework for investigating acquisition targets
         </li>
         <li>
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">

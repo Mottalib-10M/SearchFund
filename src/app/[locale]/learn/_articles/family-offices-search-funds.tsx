@@ -110,7 +110,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           structural differences between family offices and other search fund
           investor types &mdash; dedicated funds-of-funds, individual angels,
           and PE firms &mdash; helps you calibrate your pitch and manage
-          expectations. For a broader look at the full investor landscape, see
+          expectations. For a broader look at the full investor market, see
           our{" "}
           <Link
             href="/learn/top-search-fund-investors"
@@ -151,7 +151,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           based on their fund mandate. Family offices, because they manage
           their own balance sheet, can scale up &mdash; sometimes dramatically
           &mdash; if they develop conviction in a specific acquisition.
-          According to the Searcher Insights 2025 market landscape report,
+          According to the Searcher Insights 2025 market environment report,
           family offices and holding companies have surged into the search fund
           space specifically because of this co-investment flexibility. A family
           office that writes a $40,000 search capital check might contribute
@@ -416,7 +416,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             <strong>Co-investment exclusivity or first-refusal rights.</strong>{" "}
             Some family offices want the right of first refusal on all
             acquisition equity and future add-on investments. This can lock
-            out other investors and reduce your negotiating leverage. A
+            out other investors and reduce your negotiating use. A
             reasonable compromise is to offer super-pro-rata rights (the
             ability to invest more than their proportional share) without
             granting exclusivity.
@@ -521,7 +521,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             criteria, and the reasons you passed on specific deals.
           </li>
           <li>
-            <strong>Leverage their expertise.</strong> The most effective
+            <strong>Use their expertise.</strong> The most effective
             searchers treat family office investors as an extended advisory
             board. Ask for introductions to potential acquisition targets,
             request feedback on your LOI terms, and invite them to join due
@@ -644,7 +644,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           searcher can bring to the cap table. Their patient capital,
           operating expertise, co-investment flexibility, and
           relationship-driven approach make them a natural fit for the search
-          fund model. For a comprehensive view of all investor types and
+          fund model. For a thorough view of all investor types and
           fundraising strategies, explore the{" "}
           <Link
             href="/learn/top-search-fund-investors"

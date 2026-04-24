@@ -16,7 +16,7 @@ export default function LBOForSMEsArticle() {
           Wall Street mega-deals, LBO principles are the backbone of
           search fund and self-funded acquisitions. According to the
           Pepperdine Private Capital Markets Report, approximately 70% of
-          SME acquisitions use some form of leveraged structure. This
+          SME acquisitions use some form of used structure. This
           guide adapts LBO structuring for SME acquisitions with practical
           examples.
         </p>
@@ -24,7 +24,7 @@ export default function LBOForSMEsArticle() {
         <h2 className={h2Class}>LBO fundamentals for SMEs</h2>
         <p>
           The core principle: acquire a business using primarily debt
-          (leveraged), with the business&rsquo;s cash flow servicing
+          (used), with the business&rsquo;s cash flow servicing
           that debt. As debt is paid down, equity value increases
           &mdash; even without any operational improvement.
         </p>
@@ -57,7 +57,7 @@ export default function LBOForSMEsArticle() {
         <h3 className={h3Class}>Layer 1: Senior secured debt (50&ndash;70%)</h3>
         <ul className={ulClass}>
           <li><strong>SBA 7(a):</strong> Up to $5M, 10&ndash;25 year term, Prime + 2.25&ndash;2.75% per SBA underwriting standards. The most favorable terms available for SME acquisitions</li>
-          <li><strong>Conventional bank debt:</strong> 2.5&ndash;3.5x EBITDA leverage, 5&ndash;7 year term, variable rate</li>
+          <li><strong>Conventional bank debt:</strong> 2.5&ndash;3.5x EBITDA use, 5&ndash;7 year term, variable rate</li>
           <li><strong>Collateral:</strong> Secured by business assets + personal guarantee (typically required)</li>
           <li><strong>Covenants:</strong> DSCR minimum (1.25x), leverage ratio maximum, capex limits</li>
         </ul>
@@ -138,7 +138,7 @@ export default function LBOForSMEsArticle() {
         <h2 className={h2Class}>LBO red flags</h2>
         <ul className={ulClass}>
           <li><strong>DSCR below 1.2x:</strong> No margin of safety. Any revenue softness triggers a debt crisis</li>
-          <li><strong>Total leverage above 4x EBITDA:</strong> Aggressive for SMEs. Most lenders cap at 3&ndash;3.5x for a reason</li>
+          <li><strong>Total use above 4x EBITDA:</strong> Aggressive for SMEs. Most lenders cap at 3&ndash;3.5x for a reason</li>
           <li><strong>Cyclical revenue:</strong> LBOs need stable, predictable cash flow to service debt. Project-based or cyclical businesses are poor LBO candidates</li>
           <li><strong>High maintenance capex:</strong> If the business requires heavy capital reinvestment, free cash flow for debt service may be inadequate</li>
           <li><strong>Grow-into-the-multiple:</strong> If the deal only works with aggressive growth assumptions, it&rsquo;s probably too expensive. See{" "}

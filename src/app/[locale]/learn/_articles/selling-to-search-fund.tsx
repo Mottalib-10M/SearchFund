@@ -192,7 +192,7 @@ export default function SellingToSearchFundArticle() {
             <strong>Senior debt (30&ndash;40% of the purchase price).</strong>{" "}
             This comes from banks or SBA-backed lenders. It is the lowest-cost
             capital in the stack and carries covenants around debt-service
-            coverage ratios and leverage.
+            coverage ratios and use.
           </li>
           <li>
             <strong>Investor equity (50&ndash;60%).</strong> The search fund
@@ -224,7 +224,7 @@ export default function SellingToSearchFundArticle() {
         </p>
         <p>
           Why agree to this? First, seller financing often enables a higher
-          total purchase price because the buyer can leverage more capital.
+          total purchase price because the buyer can use more capital.
           Second, you earn interest on the note &mdash; typically at rates
           well above a savings account or Treasury bonds. Third, it signals
           confidence in your business: if you believe in the company&rsquo;s
@@ -533,14 +533,14 @@ export default function SellingToSearchFundArticle() {
           <li>
             <strong>Engage an advisor.</strong> A business broker or M&amp;A
             advisor with experience in search fund transactions can help you
-            navigate negotiations, vet buyers, and avoid common pitfalls.
+            manage negotiations, vet buyers, and avoid common pitfalls.
             Search fund deals have specific norms around valuation, seller
             notes, and transition periods that a generalist advisor may not
             understand.
           </li>
         </ol>
         <p>
-          For a comprehensive pre-sale checklist, see our guide on how to{" "}
+          For a thorough pre-sale checklist, see our guide on how to{" "}
           <Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">
             prepare your business for sale
           </Link>.

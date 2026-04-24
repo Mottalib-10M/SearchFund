@@ -12,14 +12,14 @@ export default function AcquiringAccountingPracticeArticle() {
           Accounting practices are among the most attractive acquisition targets
           in the{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>{" "}
-          landscape. They combine recurring revenue, high client retention, and a
+          market. They combine recurring revenue, high client retention, and a
           massive generational succession wave into an opportunity set that few
           other industries can match. Roughly 75% of CPA firm partners in the
           United States are over the age of 50, and tens of thousands of practices
           will change hands over the next decade. For search fund operators willing
           to learn the nuances of the profession, accounting represents a
           defensible, cash-generative platform with clear paths to post-acquisition
-          value creation. This playbook covers the market landscape, deal sourcing,
+          value creation. This playbook covers the market environment, deal sourcing,
           due diligence specifics, valuation benchmarks, and the operating
           strategies that separate successful acquirers from those who overpay
           for a depreciating client book.
@@ -61,7 +61,7 @@ export default function AcquiringAccountingPracticeArticle() {
         <p>
           Tax obligations do not disappear during recessions. If anything,
           economic downturns increase demand for accounting services as businesses
-          seek to conserve cash, restructure operations, and navigate complex tax
+          seek to conserve cash, restructure operations, and manage complex tax
           provisions like loss carrybacks and credits. During the 2008&ndash;2009
           financial crisis and the 2020 pandemic, accounting firms experienced
           modest revenue dips at worst and, in many cases, saw demand increase
@@ -135,7 +135,7 @@ export default function AcquiringAccountingPracticeArticle() {
           </li>
           <li>
             <strong>Advisory and consulting:</strong> The highest-margin service
-            line, encompassing tax planning, business valuations, M&amp;A due
+            line, including tax planning, business valuations, M&amp;A due
             diligence, CFO-as-a-service, and strategic consulting. Advisory
             revenue commands 2&ndash;3x the effective hourly rate of compliance
             work and is the primary post-acquisition growth lever.
@@ -207,8 +207,8 @@ export default function AcquiringAccountingPracticeArticle() {
             with zero additional labor cost.
           </li>
           <li>
-            <strong>Staff leverage:</strong> Evaluate the ratio of partners to
-            managers to staff. A well-leveraged firm generates $300K&ndash;$500K
+            <strong>Staff use:</strong> Evaluate the ratio of partners to
+            managers to staff. A well-used firm generates $300K&ndash;$500K
             in revenue per professional. Firms where the owner personally handles
             60%+ of billable work are under-leveraged and dependent on that
             individual&rsquo;s continued production.
@@ -365,7 +365,7 @@ export default function AcquiringAccountingPracticeArticle() {
             create high-margin recurring revenue.
           </li>
           <li>
-            <strong>Business valuation and transaction advisory:</strong> Leverage
+            <strong>Business valuation and transaction advisory:</strong> Use
             the firm&rsquo;s existing client relationships to offer valuation
             services, M&amp;A due diligence, and transaction support. These
             engagements command $10K&ndash;$50K+ per project and position the
@@ -432,7 +432,7 @@ export default function AcquiringAccountingPracticeArticle() {
             work is being performed overseas.
           </li>
           <li>
-            <strong>Data security:</strong> Implement robust data handling
+            <strong>Data security:</strong> Implement strong data handling
             protocols, including encrypted file transfers, restricted access
             controls, background checks on offshore staff, and compliance with
             IRS Publication 7216 (governing tax return information disclosure).

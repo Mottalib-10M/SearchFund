@@ -22,7 +22,7 @@ export default function ETAColombiaChilePeruArticle() {
           for search fund entrepreneurs. With EBITDA multiples typically ranging
           from 3&ndash;5x and an expanding network of IESE, IAE, and local
           business school alumni driving deal flow, the Andean corridor represents
-          a high-potential, under-penetrated ETA landscape.
+          a high-potential, under-penetrated ETA market.
         </p>
 
         {/* ── Colombia ── */}
@@ -54,7 +54,7 @@ export default function ETAColombiaChilePeruArticle() {
             </Link></li>
         </ul>
 
-        <h3 className={h3Class}>Tax landscape</h3>
+        <h3 className={h3Class}>tax environment</h3>
         <ul className={ulClass}>
           <li><strong>Corporate tax:</strong> 35% on corporate profits (increased from 33% in 2022 tax reform)</li>
           <li><strong>Capital gains:</strong> 15% on capital gains from share sales for both individuals and corporations</li>
@@ -95,12 +95,12 @@ export default function ETAColombiaChilePeruArticle() {
         <h3 className={h3Class}>Financing</h3>
         <ul className={ulClass}>
           <li><strong>CORFO (Corporaci&oacute;n de Fomento de la Producci&oacute;n):</strong> Chile&rsquo;s development agency offers subsidized credit lines, seed capital matching, and guarantee programs (FOGAPE, FOGAIN) that facilitate SME acquisition financing</li>
-          <li><strong>Commercial banks:</strong> Banco de Chile, BCI, Santander Chile, and Scotiabank Chile offer acquisition financing at TAB + 3&ndash;6%. Chile&rsquo;s lower base rates (vs. Colombia and Peru) make leverage more viable</li>
+          <li><strong>Commercial banks:</strong> Banco de Chile, BCI, Santander Chile, and Scotiabank Chile offer acquisition financing at TAB + 3&ndash;6%. Chile&rsquo;s lower base rates (vs. Colombia and Peru) make use more viable</li>
           <li><strong>Seller financing:</strong> Common at 20&ndash;35% of deal value. Chilean sellers tend to be more sophisticated in deal structuring, often accepting earn-outs tied to performance</li>
           <li><strong>Venture capital &amp; PE funds:</strong> Funds like Austral Capital, CLIN, and family offices provide equity for search fund acquisitions</li>
         </ul>
 
-        <h3 className={h3Class}>Tax landscape</h3>
+        <h3 className={h3Class}>tax environment</h3>
         <ul className={ulClass}>
           <li><strong>Corporate tax:</strong> 27% first category tax on corporate profits (the lowest in the Andean group)</li>
           <li><strong>Tax regimes:</strong> Pro-PyME regime for SMEs with revenue below 75,000 UF (&sim;$3M) offers instant expensing, simplified accounting, and preferential rates</li>
@@ -147,7 +147,7 @@ export default function ETAColombiaChilePeruArticle() {
           <li><strong>Investor equity:</strong> Peru&rsquo;s search fund investor base is smaller than Chile&rsquo;s or Colombia&rsquo;s but growing, anchored by PAD (Universidad de Piura) and IESE alumni</li>
         </ul>
 
-        <h3 className={h3Class}>Tax landscape</h3>
+        <h3 className={h3Class}>tax environment</h3>
         <ul className={ulClass}>
           <li><strong>Corporate tax:</strong> 29.5% on corporate profits</li>
           <li><strong>Dividends:</strong> 5% withholding tax on dividend distributions to individuals and non-residents</li>

@@ -9,7 +9,7 @@ export default function SearchFundConferencesArticle() {
       </h1>
 
       <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
-        A comprehensive guide to the most valuable conferences, events, and networking opportunities in the entrepreneurship through acquisition ecosystem.
+        A thorough guide to the most valuable conferences, events, and networking opportunities in the entrepreneurship through acquisition ecosystem.
       </p>
 
       <div className="bg-blue-50 dark:bg-blue-900/20 border-l-4 border-blue-500 p-6 mb-8">
@@ -192,7 +192,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        This event is particularly valuable for understanding how to navigate Nordic business culture and regulatory environments. Attendees include several successful Nordic searchers who have become informal mentors to newer searchers in the region.
+        This event is particularly valuable for understanding how to manage Nordic business culture and regulatory environments. Attendees include several successful Nordic searchers who have become informal mentors to newer searchers in the region.
       </p>
 
       <h2 className={h2Class}>Latin American ETA Events</h2>
@@ -208,13 +208,13 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        LASFC is particularly strong on topics specific to Latin American searches: currency risk management, cross-border structures, navigating corruption risk, and building management teams in markets with different talent dynamics.
+        LASFC is particularly strong on topics specific to Latin American searches: currency risk management, cross-border structures, managing corruption risk, and building management teams in markets with different talent dynamics.
       </p>
 
       <h3 className={h3Class}>Brazil ETA Summit</h3>
 
       <p className={bodyClass}>
-        Held in São Paulo (typically August), this event focuses specifically on the massive Brazilian market. With 200+ million people and a fragmented SMB landscape, Brazil represents significant opportunity for searchers who understand the market.
+        Held in São Paulo (typically August), this event focuses specifically on the massive Brazilian market. With 200+ million people and a fragmented SMB market, Brazil represents significant opportunity for searchers who understand the market.
       </p>
 
       <p className={bodyClass}>
@@ -240,7 +240,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Past topics include fundraising in difficult markets, operational improvements in the first year post-acquisition, and navigating add-on acquisitions. Recordings are typically available on Stanford's website.
+        Past topics include fundraising in difficult markets, operational improvements in the first year post-acquisition, and managing add-on acquisitions. Recordings are typically available on Stanford's website.
       </p>
 
       <h3 className={h3Class}>Search Funder Monthly Calls</h3>
@@ -272,7 +272,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The format is simple: dinner at a restaurant, informal updates around the table, and open discussion of current challenges. Many searchers credit these dinners with providing crucial support during difficult phases of their searches.
+        The format is simple: dinner at a restaurant, informal updates around the table, and open discussion of current challenges. Many searchers credit these dinners with providing critical support during difficult phases of their searches.
       </p>
 
       <h3 className={h3Class}>New York Search Fund Breakfast Club</h3>
@@ -364,7 +364,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Find a conference buddy - another first-timer or someone you've connected with online. Having one person you know makes it easier to approach groups and navigate social situations.
+        Find a conference buddy - another first-timer or someone you've connected with online. Having one person you know makes it easier to approach groups and manage social situations.
       </p>
 
       <p className={bodyClass}>
@@ -547,9 +547,9 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          University of Washington Foster School of Business - {" "}
+          University of Washington Build School of Business - {" "}
           <a
-            href="https://foster.uw.edu/centers/buerk-center/"
+            href="https://build.uw.edu/centers/buerk-center/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

@@ -26,7 +26,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
         <h2 className={h2Class}>Mapping the existing supply chain</h2>
         <p>
           Before making any changes, spend four to six weeks building a
-          comprehensive supply chain map. Most SMEs lack formal documentation
+          thorough supply chain map. Most SMEs lack formal documentation
           of their supplier relationships, procurement processes, and logistics
           flows.
         </p>
@@ -62,7 +62,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           more strategic partners is typically the highest-impact supply chain
           initiative. Most SMEs accumulate suppliers over time without ever
           pruning the list, resulting in fragmented spend and weak negotiating
-          leverage.
+          use.
         </p>
         <ol className={olClass}>
           <li>
@@ -77,7 +77,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             <strong>Consolidate categories.</strong> Where multiple vendors
             supply similar items, consolidate to one or two preferred
-            suppliers to increase leverage.
+            suppliers to increase use.
           </li>
           <li>
             <strong>Phase the transition.</strong> Qualify preferred vendors,
@@ -106,7 +106,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Get competitive bids.</strong> Soliciting quotes from two
-            or three competitors provides market pricing data and leverage,
+            or three competitors provides market pricing data and use,
             even if you plan to stay with your current vendor.
           </li>
           <li>
@@ -359,7 +359,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             <strong>Centralize procurement data.</strong> Standardize item
             codes and vendor records across locations so spend can be
-            aggregated and leveraged.
+            aggregated and used.
           </li>
           <li>
             <strong>Focus on high-impact categories.</strong> Office supplies,

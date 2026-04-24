@@ -166,7 +166,7 @@ export default function SearchFundVsIndependentSponsorArticle() {
           <li>You want a structured, well-documented process with institutional support</li>
           <li>You want a salary during the search phase</li>
           <li>You plan to operate as CEO full-time</li>
-          <li>You are coming from an MBA program or early career and want to leverage the Stanford/IESE/HBS network</li>
+          <li>You are coming from an MBA program or early career and want to use the Stanford/IESE/HBS network</li>
           <li>You are targeting deals in the $5M&ndash;$20M range</li>
           <li>You value the mentorship and governance that committed investors provide</li>
           <li>You are a{" "}
@@ -215,7 +215,7 @@ export default function SearchFundVsIndependentSponsorArticle() {
 
         <h2 className={h2Class}>Performance comparison</h2>
         <p>
-          Traditional search funds have the most comprehensive performance data,
+          Traditional search funds have the most thorough performance data,
           with the{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             Stanford dataset

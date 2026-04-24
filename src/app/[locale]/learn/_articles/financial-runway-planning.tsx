@@ -3,7 +3,7 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 
 export const metadata = {
   title: "Financial Runway Planning for Search Fund Entrepreneurs",
-  description: "A comprehensive guide to calculating runway, managing burn rate, and making critical financial decisions before launching your search fund.",
+  description: "A thorough guide to calculating runway, managing burn rate, and making critical financial decisions before launching your search fund.",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
   readTime: "9 min read",
@@ -32,7 +32,7 @@ export default function FinancialRunwayPlanningArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive framework for calculating your runway, understanding what traditional search capital covers, planning for self-funded scenarios, and making the difficult decision of when to stop searching. Whether you're raising $500,000 from investors or self-funding your search, understanding these financial realities before you start will dramatically increase your chances of success.
+        This guide provides a thorough framework for calculating your runway, understanding what traditional search capital covers, planning for self-funded scenarios, and making the difficult decision of when to stop searching. Whether you're raising $500,000 from investors or self-funding your search, understanding these financial realities before you start will dramatically increase your chances of success.
       </p>
 
       <h2 className={h2Class}>How Much Runway Do You Need</h2>
@@ -403,14 +403,14 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Communicate with investors:</strong> If you raised search capital, have transparent conversations with your investors about your decision and timeline.</li>
         <li><strong>Return unused capital:</strong> Traditional search funds should return any remaining search capital to investors, maintaining your reputation and relationships.</li>
-        <li><strong>Leverage your experience:</strong> The search process provides incredible learning about business evaluation, financial analysis, and industry dynamics. These skills are valuable in traditional roles.</li>
+        <li><strong>Use your experience:</strong> The search process provides incredible learning about business evaluation, financial analysis, and industry dynamics. These skills are valuable in traditional roles.</li>
         <li><strong>Stay connected:</strong> Many former searchers become investors in other search funds or advisory board members for acquired companies.</li>
       </ul>
 
       <h2 className={h2Class}>Financial Checklist Before Launching</h2>
 
       <p className={bodyClass}>
-        Before you commit to a search fund, work through this comprehensive financial checklist:
+        Before you commit to a search fund, work through this thorough financial checklist:
       </p>
 
       <h3 className={h3Class}>Personal Financial Foundation</h3>

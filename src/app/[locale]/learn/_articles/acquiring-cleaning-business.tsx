@@ -333,7 +333,7 @@ export default function AcquiringCleaningBusinessArticle() {
         <p>
           Crews operating inside client facilities after hours create
           inherent risk &mdash; theft allegations, property damage, and
-          chemical exposure claims. Maintain robust coverage, require
+          chemical exposure claims. Maintain strong coverage, require
           background checks, implement strict access control, and document
           site conditions with timestamped photos. Workers&rsquo;
           compensation typically runs 4&ndash;8% of payroll; managing the

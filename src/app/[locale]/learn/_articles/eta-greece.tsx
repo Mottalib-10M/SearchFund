@@ -13,7 +13,7 @@ export default function ETAGreeceArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>GDP:</strong> $240B with 2&ndash;3% growth. Among the fastest-growing economies in the Eurozone since 2021.</li>
-          <li><strong>Business landscape:</strong> 99.9% SMEs. Family-owned businesses dominate across all sectors.</li>
+          <li><strong>Business market:</strong> 99.9% SMEs. Family-owned businesses dominate across all sectors.</li>
           <li><strong>Succession crisis:</strong> 70% of Greek family businesses are first-generation. Many founders are 60&ndash;75 with no succession plan.</li>
           <li><strong>Investment grade:</strong> Greece regained investment-grade credit rating in 2024, unlocking institutional capital</li>
           <li><strong>Valuations:</strong> 3&ndash;5x EBITDA for SMEs. Significant discount to Western European levels.</li>

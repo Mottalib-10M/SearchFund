@@ -142,7 +142,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Employment", "Real Estate"],
     website: "https://cms.law/en/deu/",
     description:
-      "CMS Germany is the German member firm of CMS, one of the world's largest law firm networks. The firm has a substantial M&A practice that is particularly active in the mid-market segment, regularly advising on acquisitions of German Mittelstand companies. With offices in major German cities, CMS Germany provides nationwide coverage and deep local market knowledge. The firm's integration into the broader CMS network enables seamless cross-border coordination for transactions involving German targets with international operations. CMS Germany offers particular strength in sectors such as manufacturing, technology, healthcare, and energy, and provides comprehensive advice spanning corporate, tax, employment, and regulatory matters.",
+      "CMS Germany is the German member firm of CMS, one of the world's largest law firm networks. The firm has a substantial M&A practice that is particularly active in the mid-market segment, regularly advising on acquisitions of German Mittelstand companies. With offices in major German cities, CMS Germany provides nationwide coverage and deep local market knowledge. The firm's integration into the broader CMS network enables seamless cross-border coordination for transactions involving German targets with international operations. CMS Germany offers particular strength in sectors such as manufacturing, technology, healthcare, and energy, and provides thorough advice spanning corporate, tax, employment, and regulatory matters.",
     etaExperience: true,
     headquarters: "Berlin",
     source: "CMS public website",
@@ -169,7 +169,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Private Equity"],
     website: "https://www.cuatrecasas.com",
     description:
-      "Cuatrecasas is one of the largest and most prestigious law firms in Spain and Portugal, with a corporate M&A practice that is consistently ranked among the top in the Iberian market. The firm advises on transactions across all sectors and sizes, from large-cap deals to mid-market and SME acquisitions. Cuatrecasas has extensive experience with private equity transactions, management buyouts, and acquisitions of family-owned businesses in Spain. With offices throughout Spain and Portugal, as well as international presence, the firm provides comprehensive legal coverage for acquisitions in the Iberian market. Their knowledge of Spanish corporate, tax, and labor law is essential for structuring deals in Spain.",
+      "Cuatrecasas is one of the largest and most prestigious law firms in Spain and Portugal, with a corporate M&A practice that is consistently ranked among the top in the Iberian market. The firm advises on transactions across all sectors and sizes, from large-cap deals to mid-market and SME acquisitions. Cuatrecasas has extensive experience with private equity transactions, management buyouts, and acquisitions of family-owned businesses in Spain. With offices throughout Spain and Portugal, as well as international presence, the firm provides thorough legal coverage for acquisitions in the Iberian market. Their knowledge of Spanish corporate, tax, and labor law is essential for structuring deals in Spain.",
     etaExperience: true,
     headquarters: "Barcelona",
     source: "Cuatrecasas public website",
@@ -209,7 +209,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Private Equity"],
     website: "https://www.belex.com",
     description:
-      "Bonelli Erede is one of Italy's premier law firms, with a leading corporate M&A practice that handles transactions across all sectors of the Italian economy. The firm advises Italian and international clients on domestic and cross-border acquisitions, disposals, joint ventures, and restructurings. Bonelli Erede has deep experience with acquisitions of Italian family-owned businesses, which represent a significant portion of the Italian economy. The firm's M&A team works closely with its tax, employment, and regulatory specialists to provide integrated transaction advice. For search fund entrepreneurs targeting Italian businesses, Bonelli Erede offers the legal expertise and market knowledge necessary to navigate Italy's unique corporate and regulatory landscape.",
+      "Bonelli Erede is one of Italy's premier law firms, with a leading corporate M&A practice that handles transactions across all sectors of the Italian economy. The firm advises Italian and international clients on domestic and cross-border acquisitions, disposals, joint ventures, and restructurings. Bonelli Erede has deep experience with acquisitions of Italian family-owned businesses, which represent a significant portion of the Italian economy. The firm's M&A team works closely with its tax, employment, and regulatory specialists to provide integrated transaction advice. For search fund entrepreneurs targeting Italian businesses, Bonelli Erede offers the legal expertise and market knowledge necessary to manage Italy's unique corporate and regulatory environment.",
     etaExperience: false,
     headquarters: "Milan",
     source: "Bonelli Erede public website",
@@ -235,7 +235,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Private Equity", "Banking & Finance"],
     website: "https://www.chiomenti.net",
     description:
-      "Chiomenti is one of the most established and highly regarded law firms in Italy, with a corporate M&A practice that is consistently ranked at the top of the market. The firm advises on major transactions involving Italian companies and has extensive experience across all sectors, including manufacturing, technology, financial services, and consumer goods. Chiomenti provides comprehensive transaction support including due diligence, deal structuring, negotiation, and post-closing integration advice. The firm's deep expertise in Italian corporate law, tax, and regulatory matters is essential for any acquisition in Italy. While primarily focused on larger transactions, Chiomenti's capabilities extend to the mid-market, where many search fund targets operate.",
+      "Chiomenti is one of the most established and highly regarded law firms in Italy, with a corporate M&A practice that is consistently ranked at the top of the market. The firm advises on major transactions involving Italian companies and has extensive experience across all sectors, including manufacturing, technology, financial services, and consumer goods. Chiomenti provides thorough transaction support including due diligence, deal structuring, negotiation, and post-closing integration advice. The firm's deep expertise in Italian corporate law, tax, and regulatory matters is essential for any acquisition in Italy. While primarily focused on larger transactions, Chiomenti's capabilities extend to the mid-market, where many search fund targets operate.",
     etaExperience: false,
     headquarters: "Milan",
     source: "Chiomenti public website",
@@ -249,7 +249,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Banking & Finance", "Antitrust"],
     website: "https://www.homburger.ch",
     description:
-      "Homburger is one of Switzerland's leading business law firms, with a premier M&A and corporate practice. Based in Zurich, the firm advises on major domestic and cross-border transactions involving Swiss companies. Homburger's M&A team handles the full spectrum of transactions, from public takeovers to private acquisitions of SMEs. The firm has particular expertise in Swiss corporate law, tax structuring, and regulatory compliance, all of which are critical when acquiring businesses in Switzerland. Homburger's reputation for excellence and its deep understanding of the Swiss business landscape make it a top choice for search fund entrepreneurs and investors looking at acquisition opportunities in the Swiss market.",
+      "Homburger is one of Switzerland's leading business law firms, with a premier M&A and corporate practice. Based in Zurich, the firm advises on major domestic and cross-border transactions involving Swiss companies. Homburger's M&A team handles the full spectrum of transactions, from public takeovers to private acquisitions of SMEs. The firm has particular expertise in Swiss corporate law, tax structuring, and regulatory compliance, all of which are critical when acquiring businesses in Switzerland. Homburger's reputation for excellence and its deep understanding of the Swiss business market make it a top choice for search fund entrepreneurs and investors looking at acquisition opportunities in the Swiss market.",
     etaExperience: true,
     headquarters: "Zurich",
     source: "Homburger public website",
@@ -262,7 +262,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Private Equity", "Banking & Finance"],
     website: "https://www.baerkarrer.ch",
     description:
-      "Bar & Karrer is the largest law firm in Switzerland, with offices in Zurich, Geneva, Lugano, Zug, and Basel. The firm's M&A practice is one of the most active in the Swiss market, advising on domestic and international transactions across all sectors. Bar & Karrer has extensive experience with acquisitions of Swiss SMEs and family-owned businesses, which are central to Switzerland's economy. The firm provides integrated advice covering corporate, tax, employment, and regulatory matters, and is well-equipped to handle the multilingual and multi-cantonal complexities that are unique to Swiss transactions. For search fund entrepreneurs, Bar & Karrer offers comprehensive deal execution capabilities combined with deep local market expertise.",
+      "Bar & Karrer is the largest law firm in Switzerland, with offices in Zurich, Geneva, Lugano, Zug, and Basel. The firm's M&A practice is one of the most active in the Swiss market, advising on domestic and international transactions across all sectors. Bar & Karrer has extensive experience with acquisitions of Swiss SMEs and family-owned businesses, which are central to Switzerland's economy. The firm provides integrated advice covering corporate, tax, employment, and regulatory matters, and is well-equipped to handle the multilingual and multi-cantonal complexities that are unique to Swiss transactions. For search fund entrepreneurs, Bar & Karrer offers thorough deal execution capabilities combined with deep local market expertise.",
     etaExperience: true,
     headquarters: "Zurich",
     source: "Bar & Karrer public website",
@@ -275,7 +275,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Tax", "Employment", "IP"],
     website: "https://www.walderwyss.com",
     description:
-      "Walder Wyss is a leading Swiss law firm with a strong M&A and corporate practice, particularly active in the mid-market segment. With offices in Zurich, Geneva, Basel, Bern, and Lugano, the firm covers all major Swiss business regions and language areas. Walder Wyss regularly advises on acquisitions of Swiss SMEs, management buyouts, and private equity transactions. The firm is known for its practical, client-focused approach and its ability to handle complex transactions efficiently. Their experience with Swiss employment law, cantonal tax considerations, and regulatory requirements provides essential support for search fund entrepreneurs navigating the Swiss acquisition landscape.",
+      "Walder Wyss is a leading Swiss law firm with a strong M&A and corporate practice, particularly active in the mid-market segment. With offices in Zurich, Geneva, Basel, Bern, and Lugano, the firm covers all major Swiss business regions and language areas. Walder Wyss regularly advises on acquisitions of Swiss SMEs, management buyouts, and private equity transactions. The firm is known for its practical, client-focused approach and its ability to handle complex transactions efficiently. Their experience with Swiss employment law, cantonal tax considerations, and regulatory requirements provides essential support for search fund entrepreneurs managing the Swiss acquisition market.",
     etaExperience: true,
     headquarters: "Zurich",
     source: "Walder Wyss public website",
@@ -302,7 +302,7 @@ export const advisors: AdvisorEntry[] = [
     specialization: ["M&A", "Corporate", "Private Equity", "Banking & Finance", "Tax"],
     website: "https://www.houthoff.com",
     description:
-      "Houthoff is a prominent Dutch law firm with offices in Amsterdam, Rotterdam, Brussels, London, and New York. The firm's corporate M&A practice is one of the most active in the Netherlands, advising on a high volume of domestic and cross-border transactions. Houthoff has particular strength in private equity transactions and mid-market acquisitions, making it relevant for search fund activity in the Dutch market. The firm's international offices facilitate cross-border deals, and its integrated approach combining corporate, tax, and regulatory advice provides comprehensive transaction support. Houthoff's pragmatic, deal-focused culture is well-suited to the needs of entrepreneurs pursuing business acquisitions.",
+      "Houthoff is a prominent Dutch law firm with offices in Amsterdam, Rotterdam, Brussels, London, and New York. The firm's corporate M&A practice is one of the most active in the Netherlands, advising on a high volume of domestic and cross-border transactions. Houthoff has particular strength in private equity transactions and mid-market acquisitions, making it relevant for search fund activity in the Dutch market. The firm's international offices facilitate cross-border deals, and its integrated approach combining corporate, tax, and regulatory advice provides thorough transaction support. Houthoff's pragmatic, deal-focused culture is well-suited to the needs of entrepreneurs pursuing business acquisitions.",
     etaExperience: false,
     headquarters: "Amsterdam",
     source: "Houthoff public website",

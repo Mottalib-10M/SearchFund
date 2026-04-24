@@ -111,7 +111,7 @@ export default function SearchFundAcceleratorsArticle() {
           Major Search Fund Accelerators &amp; Programs
         </h2>
         <p>
-          The accelerator landscape has expanded rapidly since 2015. Below is a
+          The accelerator market has expanded rapidly since 2015. Below is a
           directory of the most active programs, organized by region.
         </p>
 
@@ -657,7 +657,7 @@ export default function SearchFundAcceleratorsArticle() {
           accelerators are selective about who they admit, so their higher
           success rate partially reflects the quality of candidates they
           attract, not just the value of the program. Across the broader
-          accelerator landscape, published success data is limited &mdash;
+          accelerator market, published success data is limited &mdash;
           always ask a specific program for its numbers before committing.
         </p>
 

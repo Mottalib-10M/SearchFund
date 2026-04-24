@@ -11,7 +11,7 @@ export default function WorkingCapitalManagementArticle() {
         <p>
           Working capital is the lifeblood of any business, but it is
           especially critical in search fund acquisitions where the new CEO
-          is managing a leveraged company with{" "}
+          is managing a used company with{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">debt service obligations</Link>. Poor
           working capital management is one of the most common reasons
           otherwise profitable businesses run into cash flow crises. The good
@@ -221,7 +221,7 @@ export default function WorkingCapitalManagementArticle() {
           </li>
           <li>
             Consolidate suppliers where possible. Concentrating spend with
-            fewer vendors gives you negotiating leverage.
+            fewer vendors gives you negotiating use.
           </li>
           <li>
             Do not stretch payments beyond agreed terms without communication.
@@ -299,7 +299,7 @@ export default function WorkingCapitalManagementArticle() {
           <li>
             <strong>Debt capacity.</strong> Lower working capital needs improve
             cash flow coverage ratios, potentially allowing you to negotiate
-            better debt terms or take on additional leverage for add-on
+            better debt terms or take on additional use for add-on
             acquisitions.
           </li>
           <li>

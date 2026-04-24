@@ -20,7 +20,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           that ETA-focused operators need to evaluate and acquire a vertical SaaS company with confidence.
         </p>
 
-        <h2 className={h2Class}>Why Vertical SaaS Dominates the Search Fund Landscape</h2>
+        <h2 className={h2Class}>Why Vertical SaaS Dominates the search fund market</h2>
         <p>
           Horizontal SaaS tools &mdash; CRMs, project management apps, generic accounting platforms &mdash; compete
           in crowded markets against well-funded incumbents like Salesforce and HubSpot. Vertical SaaS

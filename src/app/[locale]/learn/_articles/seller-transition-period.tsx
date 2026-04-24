@@ -22,7 +22,7 @@ export default function SellerTransitionPeriodArticle() {
           cooperation matters most.
         </p>
         <p>
-          This guide provides a comprehensive framework for structuring,
+          This guide provides a thorough framework for structuring,
           managing, and concluding the seller transition period. Whether you
           are negotiating the terms in your{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
@@ -348,7 +348,7 @@ export default function SellerTransitionPeriodArticle() {
             decline.
           </li>
           <li>
-            Document the competitive landscape from the seller&rsquo;s
+            Document the competitive environment from the seller&rsquo;s
             perspective: who are the real threats, where are the
             opportunities, what has been tried and failed?
           </li>

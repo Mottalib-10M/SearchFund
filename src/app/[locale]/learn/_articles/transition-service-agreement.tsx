@@ -107,7 +107,7 @@ export default function TransitionServiceAgreementArticle() {
 
       <div className={bodyClass}>
         <p>
-          A robust TSA addresses dozens of operational details. The following provisions form the backbone
+          A strong TSA addresses dozens of operational details. The following provisions form the backbone
           of most agreements and should be carefully tailored to the specific transaction.
         </p>
       </div>

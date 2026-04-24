@@ -64,7 +64,7 @@ export default function RiskFactorsSearchFundInvestingArticle() {
 
         <h3 className={h3Class}>4. Financing risk</h3>
         <ul className={ulClass}>
-          <li><strong>Risk:</strong> Excessive leverage (debt-to-EBITDA &gt;3.5x) leaves no margin for operational underperformance</li>
+          <li><strong>Risk:</strong> Excessive use (debt-to-EBITDA &gt;3.5x) leaves no margin for operational underperformance</li>
           <li><strong>Covenant breaches:</strong> Revenue dips can trigger loan covenant violations, leading to forced restructuring or equity dilution</li>
           <li><strong>Mitigation:</strong> Conservative debt levels (2.5&ndash;3x senior), adequate working capital reserves, and flexible loan covenants</li>
         </ul>
@@ -155,7 +155,7 @@ export default function RiskFactorsSearchFundInvestingArticle() {
           Tired searcher syndrome occurs when a searcher, after 18+ months of unsuccessful searching, lowers their acquisition standards and settles for a suboptimal deal rather than returning unused capital. According to research from the Stanford Center for Entrepreneurial Studies, deals closed in the final 3 months of the search window have statistically lower returns than those closed earlier. Investors can mitigate this risk through active board governance &mdash; requiring board approval for any LOI submission, mandating independent <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis, and establishing clear walk-away criteria before the search begins. Some experienced investors also build in a &ldquo;pause and reflect&rdquo; mechanism at the 18-month mark to reassess the searcher&rsquo;s pipeline objectively.
         </p>
 
-        <h3 className={h3Class}>How does leverage risk compare in search fund deals versus traditional private equity?</h3>
+        <h3 className={h3Class}>How does use risk compare in search fund deals versus traditional private equity?</h3>
         <p>
           Search fund acquisitions typically use 2&ndash;4x EBITDA in debt leverage, compared to 5&ndash;7x in traditional PE buyouts. While lower in absolute terms, the risk is often higher because the acquired businesses are smaller ($1.5M&ndash;$4M EBITDA), more volatile, and being managed by a first-time CEO. According to Bain &amp; Company&rsquo;s Private Equity Report, covenant breaches are the most common trigger for value destruction in leveraged small business acquisitions. Conservative investors limit senior debt to 2.5&ndash;3x EBITDA, require adequate working capital reserves (3&ndash;6 months of operating expenses), and negotiate flexible loan covenants that provide breathing room during the critical first year of ownership transition.
         </p>

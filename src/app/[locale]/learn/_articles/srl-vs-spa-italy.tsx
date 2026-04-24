@@ -6,7 +6,7 @@ export default function SRLvsSPAItalyArticle() {
     <article>
       <h1 className={h1Class}>SRL vs. SPA: Italian Entity Structures for Acquisitions</h1>
       <div className={bodyClass}>
-        <p>When acquiring a business in <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">Italy</Link>, the two primary corporate structures are the SRL (Societ&agrave; a Responsabilit&agrave; Limitata) and the SPA (Societ&agrave; per Azioni). The SRL dominates the Italian SME landscape, while the SPA is used for larger companies. Understanding their differences is critical for structuring your deal, managing governance, and planning for exit.</p>
+        <p>When acquiring a business in <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">Italy</Link>, the two primary corporate structures are the SRL (Societ&agrave; a Responsabilit&agrave; Limitata) and the SPA (Societ&agrave; per Azioni). The SRL dominates the Italian SME market, while the SPA is used for larger companies. Understanding their differences is critical for structuring your deal, managing governance, and planning for exit.</p>
         <p>According to data from the Registro Imprese, there are approximately 1.6 million active SRLs in Italy compared to roughly 35,000 SPAs, reflecting the SRL&apos;s dominance in the SME segment. The 2003 reform of the Codice Civile (Italian Civil Code) significantly modernized the SRL, giving it much of the flexibility previously reserved for the SPA &mdash; making it the preferred vehicle for acquisition-by-entrepreneurship transactions.</p>
       </div>
 
@@ -68,7 +68,7 @@ export default function SRLvsSPAItalyArticle() {
           <li><strong>Target acquisition:</strong> The holding SRL acquires 100% of the target company&apos;s quotas or shares</li>
           <li><strong>Consolidato fiscale:</strong> Tax consolidation available if the holding owns the majority of the target</li>
         </ol>
-        <p>This structure mirrors the <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company approach</Link> used across Europe: the holding entity borrows to fund the acquisition, and tax consolidation allows the interest expense to be offset against the target&apos;s operating profits. Combined with <Link href="/learn/simest-italy" className="text-apple-accent hover:underline">Fondo di Garanzia-backed lending</Link>, this creates a tax-efficient leveraged structure with government-supported financing terms.</p>
+        <p>This structure mirrors the <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company approach</Link> used across Europe: the holding entity borrows to fund the acquisition, and tax consolidation allows the interest expense to be offset against the target&apos;s operating profits. Combined with <Link href="/learn/simest-italy" className="text-apple-accent hover:underline">Fondo di Garanzia-backed lending</Link>, this creates a tax-efficient used structure with government-supported financing terms.</p>
       </div>
 
       <h2 className={h2Class}>Tax Considerations</h2>

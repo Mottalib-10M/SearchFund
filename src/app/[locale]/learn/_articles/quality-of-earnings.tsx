@@ -16,7 +16,7 @@ export default function QualityOfEarningsArticle() {
           typical of search fund acquisitions, a well-executed QoE can be the
           difference between a great investment and a catastrophic one. This
           guide covers everything you need to know about commissioning,
-          interpreting, and leveraging a QoE report.
+          interpreting, and using a QoE report.
         </p>
 
         <h2 className={h2Class}>What a QoE report actually covers</h2>
@@ -487,7 +487,7 @@ export default function QualityOfEarningsArticle() {
         <p>
           A Quality of Earnings analysis is not just a due diligence checkbox.
           It is the foundation of your entire acquisition thesis, your
-          negotiation leverage, and your post-close financial baseline. Invest
+          negotiation use, and your post-close financial baseline. Invest
           in the right provider &mdash; our guide on <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> covers how to select the right professionals &mdash; engage deeply with the process, and use the
           findings to make a confident, informed acquisition decision.
         </p>

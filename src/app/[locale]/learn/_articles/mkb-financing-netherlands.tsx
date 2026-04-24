@@ -6,7 +6,7 @@ export default function MKBFinancingNetherlandsArticle() {
     <article>
       <h1 className={h1Class}>MKB Financing Netherlands: Dutch Acquisition Loans</h1>
       <div className={bodyClass}>
-        <p>The Netherlands offers a sophisticated SME financing ecosystem for business acquisitions, combining traditional bank lending with government-backed programs and alternative finance options. For searchers targeting <Link href="/learn/eta-benelux" className="text-apple-accent hover:underline">Dutch acquisitions</Link>, understanding the MKB (Midden- en Kleinbedrijf) financing landscape is essential for structuring competitive deals.</p>
+        <p>The Netherlands offers a sophisticated SME financing ecosystem for business acquisitions, combining traditional bank lending with government-backed programs and alternative finance options. For searchers targeting <Link href="/learn/eta-benelux" className="text-apple-accent hover:underline">Dutch acquisitions</Link>, understanding the MKB (Midden- en Kleinbedrijf) financing market is essential for structuring competitive deals.</p>
         <p>According to the KVK (Kamer van Koophandel), more than 20,000 Dutch businesses change ownership each year, and the Rijksdienst voor Ondernemend Nederland (RVO) reports that BMKB-backed lending exceeded &euro;1 billion in guaranteed volume in 2024. These government programs dramatically improve the financing terms available to first-time acquirers who lack a track record with Dutch banks.</p>
       </div>
 

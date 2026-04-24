@@ -254,10 +254,10 @@ export default function ETAvsPrivateEquityArticle() {
         <h3 className={h3Class}>PE-specific risks</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Leverage risk:</strong> PE transactions typically use
-            60% to 70% debt financing. In downturns, highly leveraged
+            <strong>Use risk:</strong> PE transactions typically use
+            60% to 70% debt financing. In downturns, highly used
             portfolio companies can face covenant breaches and potential
-            bankruptcy. Search fund acquisitions use more moderate leverage
+            bankruptcy. Search fund acquisitions use more moderate use
             (typically 50% to 60% of the purchase price).
           </li>
           <li>

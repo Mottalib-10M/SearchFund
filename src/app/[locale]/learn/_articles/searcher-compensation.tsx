@@ -79,7 +79,7 @@ export default function SearcherCompensationArticle() {
           acquired company, compensation resets to market rates for small
           company CEOs. The typical range is $180,000 to $300,000, depending on
           the size of the acquired company, its geographic market, and the
-          competitive landscape for executive talent.
+          competitive environment for executive talent.
         </p>
         <ul className={ulClass}>
           <li>
@@ -213,7 +213,7 @@ export default function SearcherCompensationArticle() {
             <strong>Acquisition financing:</strong> Self-funded searchers
             typically use more SBA debt (up to $5M through SBA 7(a) loans) and
             seller financing, reducing the need for outside equity. This higher
-            leverage amplifies returns on success but increases financial risk.
+            use amplifies returns on success but increases financial risk.
           </li>
           <li>
             <strong>Lifetime economics example:</strong> A self-funded searcher

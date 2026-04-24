@@ -43,7 +43,7 @@ export default function BuyingVsStartingBusinessArticle() {
 
         <h3 className={h3Class}>Cash flow timeline</h3>
         <ul className={ulClass}>
-          <li><strong>Acquisition:</strong> Positive cash flow from month 1 (after debt service). A $2M EBITDA acquisition with standard leverage generates $500K&ndash;$800K annual free cash flow</li>
+          <li><strong>Acquisition:</strong> Positive cash flow from month 1 (after debt service). A $2M EBITDA acquisition with standard use generates $500K&ndash;$800K annual free cash flow</li>
           <li><strong>Startup:</strong> Negative cash flow for 18&ndash;48 months. Total cash investment before breakeven: $200K&ndash;$2M+ depending on sector</li>
         </ul>
 
@@ -91,7 +91,7 @@ export default function BuyingVsStartingBusinessArticle() {
 
         <h3 className={h3Class}>Financial risk</h3>
         <ul className={ulClass}>
-          <li><strong>Acquisition:</strong> You take on acquisition debt (leverage). Debt service requires consistent cash flow. Risk is manageable with proper{" "}
+          <li><strong>Acquisition:</strong> You take on acquisition debt (use). Debt service requires consistent cash flow. Risk is manageable with proper{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
             </Link></li>

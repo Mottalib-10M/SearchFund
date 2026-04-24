@@ -52,7 +52,7 @@ export default function EBITDAMultiplesByCountryArticle() {
             <Link href="/learn/bpifrance-acquisition-financing" className="text-apple-accent hover:underline">
               Bpifrance financing
             </Link>{" "}
-            makes leverage more accessible than most markets</li>
+            makes use more accessible than most markets</li>
           <li><strong>Tax bonus:</strong>{" "}
             <Link href="/learn/dutreil-pact" className="text-apple-accent hover:underline">
               Dutreil pact
@@ -76,7 +76,7 @@ export default function EBITDAMultiplesByCountryArticle() {
         <ul className={ulClass}>
           <li><strong>Range:</strong> 3&ndash;5x EBITDA</li>
           <li><strong>Median:</strong> ~3.5x</li>
-          <li><strong>Why cheaper:</strong> Less developed M&amp;A market for SMEs, fragmented broker landscape, fewer institutional buyers targeting sub-&euro;5M businesses</li>
+          <li><strong>Why cheaper:</strong> Less developed M&amp;A market for SMEs, fragmented broker market, fewer institutional buyers targeting sub-&euro;5M businesses</li>
           <li><strong>Opportunity:</strong> Tourism, food production, and industrial services in underserved regions</li>
         </ul>
 
@@ -145,7 +145,7 @@ export default function EBITDAMultiplesByCountryArticle() {
         <h2 className={h2Class}>What drives multiple differences?</h2>
         <ul className={ulClass}>
           <li><strong>Buyer competition:</strong> More buyers (PE, search funds, strategics) = higher multiples. The US has the deepest buyer pool</li>
-          <li><strong>Financing availability:</strong> SBA loans (US), Bpifrance (France), KfW (Germany) make leverage accessible, supporting higher prices</li>
+          <li><strong>Financing availability:</strong> SBA loans (US), Bpifrance (France), KfW (Germany) make use accessible, supporting higher prices</li>
           <li><strong>Regulatory environment:</strong> Labor law complexity, tax burden, and bureaucracy create risk premiums that depress multiples</li>
           <li><strong>Currency risk:</strong> Businesses in volatile currencies (BRL, MXN, COP) trade at discounts to hard-currency markets</li>
           <li><strong>Exit market depth:</strong> Countries with more PE and strategic buyers offer better exit options, supporting higher entry multiples</li>

@@ -22,7 +22,7 @@ export default function ETAPolandArticle() {
           entrepreneurs a rare combination of scale, growth, and affordability.
           For those already exploring the broader{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
-            European ETA landscape
+            European ETA market
           </Link>,
           Poland deserves serious attention as either a primary market or a
           strategic complement to a Central European search.
@@ -224,7 +224,7 @@ export default function ETAPolandArticle() {
           their post-acquisition value creation plans.
         </p>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <p>
           Poland&rsquo;s tax system has undergone significant reform in recent
           years and offers several features that are relevant for acquisition
@@ -448,7 +448,7 @@ export default function ETAPolandArticle() {
           organizes events and networking opportunities that can help searchers
           connect with investors, advisors, and intermediaries. Additionally,
           Poland&rsquo;s growing startup ecosystem&mdash;centered in Warsaw,
-          Krak&oacute;w, and Wroc&lstrok;aw&mdash;has fostered an entrepreneurial
+          Krak&oacute;w, and Wroc&lstrok;aw&mdash;has built an entrepreneurial
           culture that is increasingly receptive to the ETA model.
         </p>
         <p>
@@ -494,7 +494,7 @@ export default function ETAPolandArticle() {
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>
-          <li>European Commission, <em>SBA Fact Sheet: Poland</em> (2024) &mdash; comprehensive data on Polish SME demographics, succession dynamics, and business environment</li>
+          <li>European Commission, <em>SBA Fact Sheet: Poland</em> (2024) &mdash; thorough data on Polish SME demographics, succession dynamics, and business environment</li>
           <li>Bank Gospodarstwa Krajowego (BGK), <em>SME Guarantee and Financing Programs</em> (2024) &mdash; details on de minimis guarantees and EU-funded lending programs</li>
           <li>Polish Agency for Enterprise Development (PARP), <em>Report on the Condition of SMEs in Poland</em> (2024) &mdash; industry data and succession planning statistics</li>
         </ul>

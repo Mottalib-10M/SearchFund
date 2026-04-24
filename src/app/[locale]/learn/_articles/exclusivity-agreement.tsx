@@ -4,7 +4,7 @@ import Link from "next/link";
 export const exclusivityAgreementMeta = {
   title: "Exclusivity Agreements in M&A: How to Lock Down a Deal",
   description:
-    "A comprehensive guide to exclusivity agreements in acquisition transactions, covering no-shop clauses, exclusivity period duration, break-up fees, standstill provisions, and negotiation strategies.",
+    "A thorough guide to exclusivity agreements in acquisition transactions, covering no-shop clauses, exclusivity period duration, break-up fees, standstill provisions, and negotiation strategies.",
   category: "Deal Execution",
   slug: "exclusivity-agreement",
   tags: [
@@ -70,7 +70,7 @@ export default function ExclusivityAgreementArticle() {
       <h2 className={h2Class}>Understanding Exclusivity in M&A Transactions</h2>
 
       <p className={bodyClass}>
-        Exclusivity agreements serve a fundamental purpose in the M&A process: they create a protected window for the buyer to thoroughly evaluate the business without fear that the seller is simultaneously negotiating with competing buyers. This protection becomes particularly important as you transition from preliminary discussions to the resource-intensive work of comprehensive due diligence.
+        Exclusivity agreements serve a fundamental purpose in the M&A process: they create a protected window for the buyer to thoroughly evaluate the business without fear that the seller is simultaneously negotiating with competing buyers. This protection becomes particularly important as you transition from preliminary discussions to the resource-intensive work of thorough due diligence.
       </p>
 
       <h3 className={h3Class}>The Buyer's Perspective</h3>
@@ -93,7 +93,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>The Seller's Perspective</h3>
 
       <p className={bodyClass}>
-        Sellers typically resist exclusivity because it removes their negotiating leverage. Once they commit to exclusivity, they lose the ability to create competition among multiple buyers, potentially leaving value on the table if the exclusive buyer reduces their offer during due diligence or walks away entirely.
+        Sellers typically resist exclusivity because it removes their negotiating use. Once they commit to exclusivity, they lose the ability to create competition among multiple buyers, potentially leaving value on the table if the exclusive buyer reduces their offer during due diligence or walks away entirely.
       </p>
 
       <p className={bodyClass}>
@@ -103,7 +103,7 @@ export default function ExclusivityAgreementArticle() {
       <h2 className={h2Class}>Core Components of Exclusivity Agreements</h2>
 
       <p className={bodyClass}>
-        While exclusivity provisions can range from a simple paragraph in a letter of intent to a standalone comprehensive agreement, certain core elements appear in virtually all effective exclusivity arrangements.
+        While exclusivity provisions can range from a simple paragraph in a letter of intent to a standalone thorough agreement, certain core elements appear in virtually all effective exclusivity arrangements.
       </p>
 
       <h3 className={h3Class}>The No-Shop Clause</h3>
@@ -140,7 +140,7 @@ export default function ExclusivityAgreementArticle() {
 
       <ul className={ulClass}>
         <li><strong>30-45 days:</strong> Appropriate for straightforward service businesses with clean financials where the buyer has already conducted substantial preliminary diligence</li>
-        <li><strong>60-90 days:</strong> The most common range for middle market transactions requiring comprehensive financial, legal, and operational due diligence</li>
+        <li><strong>60-90 days:</strong> The most common range for middle market transactions requiring thorough financial, legal, and operational due diligence</li>
         <li><strong>90-120 days:</strong> Necessary for complex businesses with multiple locations, international operations, or complex capital structures requiring extensive third-party reports</li>
       </ul>
 
@@ -228,7 +228,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>Common Seller Objections and Responses</h3>
 
       <p className={bodyClass}>
-        Experienced sellers and their advisors will often push back on exclusivity requests. Being prepared for common objections helps you navigate these negotiations effectively:
+        Experienced sellers and their advisors will often push back on exclusivity requests. Being prepared for common objections helps you manage these negotiations effectively:
       </p>
 
       <p className={bodyClass}>
@@ -277,7 +277,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>Exclusivity Within the Letter of Intent</h3>
 
       <p className={bodyClass}>
-        The most common approach is to include exclusivity as one provision within a comprehensive letter of intent. This approach has several advantages:
+        The most common approach is to include exclusivity as one provision within a thorough letter of intent. This approach has several advantages:
       </p>
 
       <ul className={ulClass}>
@@ -343,7 +343,7 @@ export default function ExclusivityAgreementArticle() {
       <h3 className={h3Class}>Small vs. Large Transactions</h3>
 
       <p className={bodyClass}>
-        In smaller transactions (sub-$5 million enterprise value), exclusivity is often less formal but still important. You might secure exclusivity through a simple letter or email exchange rather than a comprehensive legal document. The principles remain the same, but the formality and legal enforceability may be reduced.
+        In smaller transactions (sub-$5 million enterprise value), exclusivity is often less formal but still important. You might secure exclusivity through a simple letter or email exchange rather than a thorough legal document. The principles remain the same, but the formality and legal enforceability may be reduced.
       </p>
 
       <p className={bodyClass}>

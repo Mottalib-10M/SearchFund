@@ -291,7 +291,7 @@ export default function NDAProcessArticle() {
           <li>
             <strong>Liquidated damages or penalty provisions:</strong> Pre-set damage
             amounts in an NDA&mdash;before any confidential information has even been
-            shared&mdash;suggest the seller is more interested in creating leverage than
+            shared&mdash;suggest the seller is more interested in creating use than
             protecting information. Standard contractual remedies (injunctive relief plus
             actual damages) should be sufficient.
           </li>
@@ -438,7 +438,7 @@ export default function NDAProcessArticle() {
             with proposed terms and exclusivity period
           </li>
           <li>
-            <strong>Due diligence</strong> &rarr; Conduct comprehensive{" "}
+            <strong>Due diligence</strong> &rarr; Conduct thorough{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
             </Link>{" "}

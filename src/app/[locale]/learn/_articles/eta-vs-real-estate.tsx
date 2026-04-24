@@ -16,7 +16,7 @@ export default function ETAvsRealEstateArticle() {
           fundamentally different path to wealth through private asset
           ownership: buying a cash-flowing business rather than a
           cash-flowing property. Both strategies share important
-          characteristics - leverage, active management, tax advantages,
+          characteristics - use, active management, tax advantages,
           and direct control - yet differ in critical ways that determine
           which is the better fit for your capital, skills, and
           risk tolerance.
@@ -51,19 +51,19 @@ export default function ETAvsRealEstateArticle() {
           earnings yield advantage of ETA is substantial.
         </p>
 
-        <h2 className={h2Class}>Leverage comparison</h2>
+        <h2 className={h2Class}>Use comparison</h2>
         <p>
-          Both strategies employ leverage, but the terms and
+          Both strategies employ use, but the terms and
           implications differ significantly.
         </p>
 
-        <h3 className={h3Class}>Real estate leverage</h3>
+        <h3 className={h3Class}>Real estate use</h3>
         <ul className={ulClass}>
           <li>
             <strong>Loan-to-value:</strong> Commercial real estate loans
             typically range from 65% to 80% LTV. Residential investment
             properties can reach 80% to 90% LTV with government-backed
-            programs. This high leverage amplifies returns but also
+            programs. This high use amplifies returns but also
             amplifies losses.
           </li>
           <li>
@@ -102,11 +102,11 @@ export default function ETAvsRealEstateArticle() {
           </li>
         </ul>
         <p>
-          The lower leverage in ETA reduces bankruptcy risk but also
+          The lower use in ETA reduces bankruptcy risk but also
           means that equity returns depend more heavily on operational
           improvement rather than financial engineering. In real estate,
           it is possible to generate attractive returns purely through
-          leverage and modest appreciation. In ETA, the operator must
+          use and modest appreciation. In ETA, the operator must
           actively grow the business to generate investor-grade returns.
         </p>
 
@@ -299,7 +299,7 @@ export default function ETAvsRealEstateArticle() {
           <li>
             <strong>Direct real estate:</strong> Illiquid, management-
             intensive, and tax-advantaged. Expected returns of 12% to 18%
-            annually with leverage. Offers tangible collateral and proven
+            annually with use. Offers tangible collateral and proven
             demand but limited operational upside.
           </li>
           <li>
@@ -318,7 +318,7 @@ export default function ETAvsRealEstateArticle() {
             tangible collateral: the property has residual value even
             in a worst-case scenario. Business value can evaporate more
             quickly if customers leave, key employees depart, or the
-            competitive landscape shifts.
+            competitive environment shifts.
           </li>
           <li>
             <strong>Market risk:</strong> Real estate values are

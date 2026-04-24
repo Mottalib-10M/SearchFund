@@ -56,7 +56,7 @@ export default function QuickWinsPostAcquisitionArticle() {
           including how to communicate price increases to customers and handle objections,
           see our dedicated guide. The key insight from McKinsey&apos;s pricing research
           is that a 1% price increase yields an average 8&ndash;11% improvement in
-          operating profit &mdash; making pricing the single highest-leverage
+          operating profit &mdash; making pricing the single highest-use
           financial quick win available.
         </p>
 

@@ -96,7 +96,7 @@ export default function TalentAcquisitionPostCloseArticle() {
           is often essential. This role frees the CEO from the daily grind of
           scheduling, quality control, vendor management, and process optimization.
           A strong operations manager brings structure to what was previously
-          managed by instinct and habit, and they create the operational leverage
+          managed by instinct and habit, and they create the operational use
           that allows the business to scale without proportional increases in
           complexity and cost.
         </p>
@@ -251,7 +251,7 @@ export default function TalentAcquisitionPostCloseArticle() {
 
         <h2 className={h2Class}>When to promote internally vs. hire externally</h2>
         <p>
-          One of the most nuanced decisions a new CEO faces is whether to fill key
+          One of the most detailed decisions a new CEO faces is whether to fill key
           roles by promoting existing employees or bringing in outside talent. Both
           approaches have advantages and risks, and the right answer depends on the
           specific role, the capabilities of your current team, and the message you

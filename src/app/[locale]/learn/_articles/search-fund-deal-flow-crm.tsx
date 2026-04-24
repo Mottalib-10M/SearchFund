@@ -74,7 +74,7 @@ export default function SearchFundDealFlowCRMArticle() {
           custom views, linked tables connecting company records to contacts
           and brokers, and files attached directly to deal records. It excels
           at tracking qualitative details &mdash; industry research notes,
-          competitive landscape summaries, and scoring rubrics. The free tier
+          competitive environment summaries, and scoring rubrics. The free tier
           is sufficient for most searches.
         </p>
 

@@ -170,13 +170,13 @@ export default function KPIDashboardPostAcquisitionArticle() {
             lenders will have a minimum DSCR covenant &mdash; typically 1.2x
             to 1.5x. Track this monthly and forecast it quarterly. Falling
             below your covenant threshold triggers default provisions and
-            gives lenders significant leverage over the business.
+            gives lenders significant use over the business.
           </li>
           <li>
             <strong>Free cash flow.</strong> Operating cash flow minus capital
             expenditures. This is the cash actually available to service debt,
             fund growth initiatives, and eventually distribute to investors.
-            Positive free cash flow is non-negotiable for a leveraged
+            Positive free cash flow is non-negotiable for a used
             acquisition.
           </li>
         </ul>
@@ -386,7 +386,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>ERP-integrated dashboards.</strong> If the business runs on
             an ERP system (SAP, Oracle, or industry-specific software), the
-            ERP likely has built-in reporting modules. Leverage these before
+            ERP likely has built-in reporting modules. Use these before
             adding external tools.
           </li>
         </ul>
@@ -460,7 +460,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           the reporting cadence and format right is essential for maintaining
           strong{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
-          and leveraging your board as a strategic resource rather than a
+          and using your board as a strategic resource rather than a
           governance burden.
         </p>
 
@@ -629,7 +629,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
 
         <h2 className={h2Class}>Implementing your KPI dashboard: a phased approach</h2>
         <p>
-          Trying to build a comprehensive dashboard on day one is a recipe for
+          Trying to build a thorough dashboard on day one is a recipe for
           failure. Data quality is poor, systems are disconnected, and you do
           not yet understand the business well enough to know which metrics
           truly matter. Take a phased approach.
@@ -773,7 +773,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
 
         <h3 className={h3Class}>What is the most important KPI for a newly acquired business?</h3>
         <p>
-          Cash balance and debt service coverage ratio (DSCR). According to Stanford GSB&rsquo;s research on search fund failures, the most common cause of post-acquisition distress is a cash crisis driven by underestimated working capital needs, unexpected customer churn, or aggressive debt service obligations. Track cash balance daily and DSCR monthly during the first year. Your lenders will have a minimum DSCR covenant &mdash; typically 1.2x&ndash;1.5x &mdash; and falling below it triggers default provisions that give lenders significant leverage. Beyond cash flow, customer retention rate is the leading operational indicator that best predicts long-term business health: even a small increase in annual churn from 5% to 8% compounds into significant revenue loss over a five-year hold period.
+          Cash balance and debt service coverage ratio (DSCR). According to Stanford GSB&rsquo;s research on search fund failures, the most common cause of post-acquisition distress is a cash crisis driven by underestimated working capital needs, unexpected customer churn, or aggressive debt service obligations. Track cash balance daily and DSCR monthly during the first year. Your lenders will have a minimum DSCR covenant &mdash; typically 1.2x&ndash;1.5x &mdash; and falling below it triggers default provisions that give lenders significant use. Beyond cash flow, customer retention rate is the leading operational indicator that best predicts long-term business health: even a small increase in annual churn from 5% to 8% compounds into significant revenue loss over a five-year hold period.
         </p>
 
         <h3 className={h3Class}>What tools should I use for building a KPI dashboard?</h3>

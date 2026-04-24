@@ -84,7 +84,7 @@ export default function ExitStrategiesArticle() {
             <strong>The &quot;second bite of the apple&quot;:</strong> PE buyers
             often ask the CEO to roll 15&ndash;30% of their equity into the new
             entity. This creates a second wealth-creation opportunity: your
-            rolled equity benefits from the PE firm&apos;s leverage and
+            rolled equity benefits from the PE firm&apos;s use and
             operational playbook. In many cases, the second bite is worth as
             much as or more than the first.
           </li>
@@ -114,7 +114,7 @@ export default function ExitStrategiesArticle() {
           <li>
             <strong>Typical multiples:</strong> 3.5&ndash;5.5x EBITDA, generally
             below strategic or PE valuations because the buyer has limited
-            capital and negotiating leverage.
+            capital and negotiating use.
           </li>
           <li>
             <strong>Structure:</strong> often involves significant seller
@@ -142,7 +142,7 @@ export default function ExitStrategiesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical leverage:</strong> 3&ndash;4x EBITDA total debt,
+            <strong>Typical use:</strong> 3&ndash;4x EBITDA total debt,
             depending on the business&apos;s cash flow stability and lender
             appetite.
           </li>
@@ -163,7 +163,7 @@ export default function ExitStrategiesArticle() {
             delevered from the initial acquisition financing.
           </li>
           <li>
-            <strong>Caution:</strong> over-leveraging for a dividend recap can
+            <strong>Caution:</strong> over-using for a dividend recap can
             leave the business vulnerable to downturns. Conservative search
             fund investors may push back on aggressive recaps.
           </li>
@@ -407,7 +407,7 @@ export default function ExitStrategiesArticle() {
           For example, a business acquired at $2M EBITDA and 5x ($10M
           enterprise value) that grows to $4M EBITDA and exits at 7.5x ($30M
           enterprise value) delivers a 3x return on enterprise value. After
-          accounting for leverage and equity structure, investor returns can
+          accounting for use and equity structure, investor returns can
           reach 5&ndash;10x or more.
         </p>
 

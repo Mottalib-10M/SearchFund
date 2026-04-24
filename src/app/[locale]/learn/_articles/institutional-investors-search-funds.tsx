@@ -20,7 +20,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           </Link>.
         </p>
         <p>
-          This guide maps the institutional landscape, explains what institutional investors look for
+          This guide maps the institutional market, explains what institutional investors look for
           in searchers and deals, and provides practical guidance on building relationships that lead
           to committed capital.
         </p>
@@ -67,7 +67,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
         <p>
           Family offices - private wealth management entities serving ultra-high-net-worth families - 
           have become increasingly active search fund investors. Their appeal to searchers is
-          multifaceted: they often have longer investment horizons than traditional funds, more
+          complex: they often have longer investment horizons than traditional funds, more
           flexible mandate constraints, and principals who may have direct operating experience in the
           types of businesses search funds acquire.
         </p>
@@ -164,7 +164,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           <li>
             <strong>Coachability and self-awareness:</strong> The search process is humbling. Investors
             look for searchers who can accept feedback, acknowledge what they don&apos;t know, and
-            leverage their investor network for guidance - without being paralyzed by seeking consensus.
+            use their investor network for guidance - without being paralyzed by seeking consensus.
           </li>
           <li>
             <strong>Cultural fit and values alignment:</strong> Institutional investors often participate
@@ -242,7 +242,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
           Searchers should understand where their investors sit in this chain. Ask direct questions:
           What fund vintage are you investing from? What is the fund&apos;s remaining deployment period?
           What return expectations do your LPs have? How many other search funds are you supporting
-          from this fund? The answers provide crucial context about the investor&apos;s flexibility and
+          from this fund? The answers provide critical context about the investor&apos;s flexibility and
           alignment with your timeline.
         </p>
         <p>
@@ -264,7 +264,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
 
         <ol className={olClass}>
           <li>
-            <strong>Leverage your network strategically:</strong> Business school alumni networks,
+            <strong>Use your network strategically:</strong> Business school alumni networks,
             former search fund operators, professors with search fund expertise, and industry connections
             all provide warm introductions to institutional investors. Cold outreach to institutional
             investors has a very low success rate - warm introductions are essential.
@@ -363,7 +363,7 @@ export default function InstitutionalInvestorsSearchFundsArticle() {
             outline your plan to address it.
           </li>
           <li>
-            <strong>Leverage the network:</strong> Institutional investors invest in search funds partly
+            <strong>Use the network:</strong> Institutional investors invest in search funds partly
             because they can add value. Actively seek their input on deal evaluation, industry dynamics,
             operational questions, and strategic decisions. Investors who feel utilized and valued become
             stronger advocates.

@@ -10,12 +10,12 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
       <div className={bodyClass}>
         <p>
           The United Kingdom&apos;s departure from the European Union has
-          created a fundamentally different landscape for cross-channel
+          created a fundamentally different market for cross-channel
           acquisitions &mdash; transactions where a UK-based acquirer
           purchases an EU business, or vice versa. What were once seamless
           intra-EU transactions governed by harmonized regulations, free
           movement principles, and the Parent-Subsidiary Directive are now
-          cross-border deals that must navigate a new and evolving framework
+          cross-border deals that must manage a new and evolving framework
           of bilateral agreements, regulatory divergence, and additional
           compliance requirements. For search fund entrepreneurs and
           acquisition-minded professionals operating across the English
@@ -26,7 +26,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
           </Link>.
         </p>
 
-        <h2 className={h2Class}>The post-Brexit regulatory landscape</h2>
+        <h2 className={h2Class}>The post-Brexit regulatory environment</h2>
         <p>
           Since January 1, 2021, when the transition period ended, the UK
           has been a &ldquo;third country&rdquo; in relation to the EU. This
@@ -34,7 +34,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
           virtually every area of law and regulation that affects
           acquisitions. The UK-EU Trade and Cooperation Agreement (TCA),
           concluded on December 24, 2020, provides a baseline framework for
-          the economic relationship, but it is far less comprehensive than
+          the economic relationship, but it is far less thorough than
           EU membership. The TCA ensures tariff-free and quota-free trade in
           goods (subject to rules of origin), but it provides only limited
           coverage for services, financial regulation, and professional
@@ -298,7 +298,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
             <strong>Valuation discounts:</strong> Uncertainty and increased
             regulatory complexity have depressed valuations for some
             cross-channel businesses, particularly those heavily dependent
-            on UK-EU trade. Acquirers with the expertise to navigate the
+            on UK-EU trade. Acquirers with the expertise to manage the
             new regulatory environment can acquire businesses at attractive
             valuations that reflect a complexity discount rather than
             fundamental value impairment.

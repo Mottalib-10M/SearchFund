@@ -173,7 +173,7 @@ export default function InterpretingFinancialStatementsArticle() {
           <Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">
             due diligence red flags
           </Link>{" "}
-          guide for a comprehensive list of warning signs.
+          guide for a thorough list of warning signs.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>

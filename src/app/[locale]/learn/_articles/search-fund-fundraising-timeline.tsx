@@ -39,7 +39,7 @@ export default function SearchFundFundraisingTimelineArticle() {
 
         <p>
           The work you do before contacting a single investor is the
-          highest-leverage time in the entire fundraise. During this phase you
+          highest-use time in the entire fundraise. During this phase you
           will build three foundational assets: your fundraising materials,
           your legal framework, and your investor target list.
         </p>

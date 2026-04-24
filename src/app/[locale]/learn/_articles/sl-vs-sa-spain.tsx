@@ -51,7 +51,7 @@ export default function SLvsSASpainArticle() {
         <ol className={olClass}>
           <li><strong>Holding SL or SA:</strong> Create the acquisition vehicle. SL if keeping it simple; SA if investors need preferred shares.</li>
           <li><strong>Financing:</strong> <Link href="/learn/ico-spain" className="text-apple-accent hover:underline">ICO</Link> and <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">commercial bank</Link> loans into the holding entity</li>
-          <li><strong><Link href="/learn/creative-financing" className="text-apple-accent hover:underline">ENISA</Link> participative loan:</strong> Counts as equity under Spanish law, reducing apparent leverage</li>
+          <li><strong><Link href="/learn/creative-financing" className="text-apple-accent hover:underline">ENISA</Link> participative loan:</strong> Counts as equity under Spanish law, reducing apparent use</li>
           <li><strong>Target acquisition:</strong> Purchase the SL or SA shares of the target company</li>
           <li><strong>Tax consolidation:</strong> If the holding owns 75%+ of the target, they can form a consolidated tax group</li>
         </ol>

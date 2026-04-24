@@ -6,7 +6,7 @@ export default function EmotionalJourneySellingArticle() {
     <article>
       <h1 className={h1Class}>The Emotional Journey of Selling Your Business</h1>
       <div className={bodyClass}>
-        <p>Selling a business is often the most significant financial and emotional event in an entrepreneur&apos;s life. After years or decades of building, the decision to sell triggers a complex mix of relief, grief, excitement, anxiety, and identity loss. Understanding this emotional journey &mdash; and planning for it &mdash; helps sellers navigate the process with clarity and avoid decisions driven by emotion rather than logic.</p>
+        <p>Selling a business is often the most significant financial and emotional event in an entrepreneur&apos;s life. After years or decades of building, the decision to sell triggers a complex mix of relief, grief, excitement, anxiety, and identity loss. Understanding this emotional journey &mdash; and planning for it &mdash; helps sellers manage the process with clarity and avoid decisions driven by emotion rather than logic.</p>
       </div>
 
       <h2 className={h2Class}>The Emotional Stages</h2>

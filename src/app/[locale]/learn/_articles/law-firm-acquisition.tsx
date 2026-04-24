@@ -41,7 +41,7 @@ export default function LawFirmAcquisitionArticle() {
           traditional law practice in most jurisdictions.
         </p>
         <p>
-          But the landscape is shifting. Three pathways now exist for non-lawyer acquirers:
+          But the market is shifting. Three pathways now exist for non-lawyer acquirers:
         </p>
         <ul className={ulClass}>
           <li>

@@ -37,7 +37,7 @@ export default function RiskFactorsSearchFundArticle() {
           <li><strong>Operator performance:</strong> The searcher-CEO may lack the skills or temperament to run the acquired business effectively.</li>
           <li><strong>Employee turnover:</strong> Key employees departing after ownership change. Institutional knowledge and customer relationships leave with them.</li>
           <li><strong>Market deterioration:</strong> Industry downturn, competitive disruption, or regulatory change that reduces revenue or margins.</li>
-          <li><strong>Leverage risk:</strong> Debt service during revenue decline. Covenant violations triggering lender intervention or default.</li>
+          <li><strong>Use risk:</strong> Debt service during revenue decline. Covenant violations triggering lender intervention or default.</li>
           <li><strong>Capital needs:</strong> Unexpected capital expenditure requirements (equipment failure, technology obsolescence, facility issues).</li>
           <li><strong>Growth stagnation:</strong> Inability to grow beyond the seller&apos;s baseline. Organic growth proves harder than projected.</li>
         </ul>
@@ -49,8 +49,8 @@ export default function RiskFactorsSearchFundArticle() {
           <li><strong>Searcher selection:</strong> Invest in searchers with strong leadership, resilience, coachability, and relevant experience.</li>
           <li><strong>Portfolio diversification:</strong> Build a portfolio of 20&ndash;30+ search fund investments across vintages and geographies.</li>
           <li><strong>Active board involvement:</strong> Provide governance oversight, mentorship, and crisis support through board participation.</li>
-          <li><strong>Conservative leverage:</strong> Support reasonable debt levels (2&ndash;3x EBITDA) with covenant headroom. Avoid over-leveraging.</li>
-          <li><strong>Thorough due diligence:</strong> Insist on quality of earnings, customer interviews, employee assessments, and comprehensive legal review.</li>
+          <li><strong>Conservative use:</strong> Support reasonable debt levels (2&ndash;3x EBITDA) with covenant headroom. Avoid over-using.</li>
+          <li><strong>Thorough due diligence:</strong> Insist on quality of earnings, customer interviews, employee assessments, and thorough legal review.</li>
           <li><strong>Transition planning:</strong> Require seller transition periods, employee retention plans, and customer relationship transfer protocols.</li>
         </ul>
       </div>
@@ -62,7 +62,7 @@ export default function RiskFactorsSearchFundArticle() {
           <li>Customer concentration and key person dependence are the two highest-impact acquisition risks</li>
           <li>Operator performance is the single most important post-acquisition risk factor &mdash; invest in the best people</li>
           <li>Portfolio diversification (20&ndash;30+ investments) is the most effective risk mitigation strategy</li>
-          <li>Active board involvement, conservative leverage, and thorough due diligence significantly reduce downside risk</li>
+          <li>Active board involvement, conservative use, and thorough due diligence significantly reduce downside risk</li>
         </ul>
       </div>
 
@@ -83,7 +83,7 @@ export default function RiskFactorsSearchFundArticle() {
 
         <h3 className={h3Class}>What is the most effective risk mitigation strategy for search fund investors?</h3>
         <p>
-          Portfolio diversification is the most effective risk mitigation strategy. According to Stanford GSB data, investors with portfolios of 20&ndash;30+ search fund investments across multiple vintages, geographies, and industries consistently achieve returns that approximate the asset class&rsquo;s historical performance (2&ndash;3x net MOIC, 20&ndash;30% gross IRR), while investors with concentrated portfolios of fewer than 10 investments face high variance in outcomes. The second most impactful mitigation strategy is active board involvement &mdash; Search Fund Partners&rsquo; research shows that investors who serve on portfolio company boards and provide regular mentorship, governance oversight, and crisis support achieve 30&ndash;40% better returns than passive investors. Conservative leverage (2&ndash;3x EBITDA total debt with adequate covenant headroom) and thorough due diligence are also essential.
+          Portfolio diversification is the most effective risk mitigation strategy. According to Stanford GSB data, investors with portfolios of 20&ndash;30+ search fund investments across multiple vintages, geographies, and industries consistently achieve returns that approximate the asset class&rsquo;s historical performance (2&ndash;3x net MOIC, 20&ndash;30% gross IRR), while investors with concentrated portfolios of fewer than 10 investments face high variance in outcomes. The second most impactful mitigation strategy is active board involvement &mdash; Search Fund Partners&rsquo; research shows that investors who serve on portfolio company boards and provide regular mentorship, governance oversight, and crisis support achieve 30&ndash;40% better returns than passive investors. Conservative use (2&ndash;3x EBITDA total debt with adequate covenant headroom) and thorough due diligence are also essential.
         </p>
 
         <h3 className={h3Class}>What are the warning signs that a search fund acquisition is in trouble?</h3>

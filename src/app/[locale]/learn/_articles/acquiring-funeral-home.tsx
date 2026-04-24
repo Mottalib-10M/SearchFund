@@ -419,7 +419,7 @@ export default function AcquiringFuneralHomeArticle() {
         <h2 className={h2Class}>The bottom line</h2>
         <p>
           Funeral home acquisitions represent one of the most defensible
-          and predictable opportunities in the ETA landscape. The
+          and predictable opportunities in the ETA market. The
           combination of guaranteed demand, community-based moats, high
           fragmentation, and motivated sellers creates an acquisition
           environment that rewards patient, relationship-oriented searchers.

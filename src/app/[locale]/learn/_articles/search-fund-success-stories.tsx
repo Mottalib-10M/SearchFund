@@ -311,7 +311,7 @@ export default function SearchFundSuccessStoriesArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Overpaying for the acquisition.</strong> Paying too much
-            leaves no margin for error. When leverage is high and the purchase
+            leaves no margin for error. When use is high and the purchase
             price assumes everything goes right, even minor operational
             setbacks can threaten the investment.
           </li>
@@ -370,7 +370,7 @@ export default function SearchFundSuccessStoriesArticle() {
           <li>
             <strong>2015&ndash;present (mainstream era):</strong> the model
             has gone mainstream, with hundreds of new searchers annually.
-            A robust ecosystem of investors, advisors, service providers, and
+            A strong ecosystem of investors, advisors, service providers, and
             peer networks supports today&apos;s searchers. However, increased
             competition has made acquisitions more expensive, potentially
             compressing future returns.
@@ -392,7 +392,7 @@ export default function SearchFundSuccessStoriesArticle() {
           <li>
             Spanish search funds have achieved notable exits in business
             services, healthcare, and technology-enabled services. The
-            fragmented European SME landscape provides abundant acquisition
+            fragmented European SME market provides abundant acquisition
             targets.
           </li>
           <li>
@@ -442,7 +442,7 @@ export default function SearchFundSuccessStoriesArticle() {
             <strong>Use your board and investors.</strong> The search fund
             investor network is one of the model&apos;s greatest assets.
             Successful operators engaged their boards actively, sought advice
-            openly, and leveraged their investors&apos; expertise and
+            openly, and used their investors&apos; expertise and
             networks.
           </li>
           <li>

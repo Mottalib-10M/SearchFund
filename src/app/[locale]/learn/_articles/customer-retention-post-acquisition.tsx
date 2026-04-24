@@ -103,7 +103,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             to likely questions.
           </li>
           <li>
-            <strong>Anticipate questions.</strong> Prepare a comprehensive
+            <strong>Anticipate questions.</strong> Prepare a thorough
             FAQ covering the topics customers will ask about: pricing,
             contracts, points of contact, service levels, warranties, and
             personnel changes.
@@ -415,7 +415,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             <strong>Celebrate promoters.</strong> Customers who score 9&ndash;10
             are your advocates. Ask them for referrals, testimonials, and
             case studies. Their enthusiasm is a growth asset you should
-            actively leverage.
+            actively use.
           </li>
           <li>
             <strong>Segment the data.</strong> Analyze NPS by customer tier,
@@ -632,7 +632,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
 
         <h3 className={h3Class}>How should I prioritize which customers to visit first?</h3>
         <p>
-          Build a churn risk scorecard that rates each customer on five factors: contract expiration timing (within 6&ndash;12 months), depth of personal relationship with the departing seller, revenue trend (declining volumes), unresolved complaints, and revenue contribution. According to Harvard Business Review&rsquo;s research on customer retention economics, the top 20% of customers typically generate 60&ndash;80% of profits, making them the obvious priority. Aim to visit your top 10 accounts in person within the first two weeks, call accounts 11&ndash;30 within 30 days, and send personalized emails to accounts 31&ndash;100 within two weeks. For a comprehensive approach to your{" "}
+          Build a churn risk scorecard that rates each customer on five factors: contract expiration timing (within 6&ndash;12 months), depth of personal relationship with the departing seller, revenue trend (declining volumes), unresolved complaints, and revenue contribution. According to Harvard Business Review&rsquo;s research on customer retention economics, the top 20% of customers typically generate 60&ndash;80% of profits, making them the obvious priority. Aim to visit your top 10 accounts in person within the first two weeks, call accounts 11&ndash;30 within 30 days, and send personalized emails to accounts 31&ndash;100 within two weeks. For a thorough approach to your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>,
           customer outreach should consume 30&ndash;40% of your time in the first month.
         </p>

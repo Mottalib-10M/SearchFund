@@ -166,7 +166,7 @@ export default function SBA7aLoansArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
             seller financing
           </Link>{" "}
-          component is crucial because it reduces the equity needed and signals
+          component is critical because it reduces the equity needed and signals
           the seller&rsquo;s confidence in the business.
         </p>
 

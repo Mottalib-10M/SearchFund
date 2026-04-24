@@ -187,7 +187,7 @@ export default function WhatIsETAArticle() {
 
         <h3 className={h3Class}>4. Due diligence and closing (2&ndash;4 months)</h3>
         <p>
-          Once an LOI is signed, the searcher conducts comprehensive financial,
+          Once an LOI is signed, the searcher conducts thorough financial,
           legal, operational, and commercial{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
@@ -289,7 +289,7 @@ export default function WhatIsETAArticle() {
           </li>
           <li>
             <strong>ETA vs. real estate:</strong> Both are tangible asset
-            investments with leverage. ETA offers higher potential returns but
+            investments with use. ETA offers higher potential returns but
             requires active management. Real estate is more passive but has
             lower return potential. See our{" "}
             <Link href="/learn/eta-vs-real-estate" className="text-apple-accent hover:underline">

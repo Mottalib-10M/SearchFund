@@ -40,7 +40,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Geographic and personal flexibility.</strong> Solo searchers can relocate opportunistically based on where attractive targets emerge. If a compelling opportunity appears in Charlotte or Louisville, you can move without uprooting a partner's family or navigating compromise on location. Personal life decisions - marriage, children, family commitments - affect only your own calculus.
+        <strong>Geographic and personal flexibility.</strong> Solo searchers can relocate opportunistically based on where attractive targets emerge. If a compelling opportunity appears in Charlotte or Louisville, you can move without uprooting a partner's family or managing compromise on location. Personal life decisions - marriage, children, family commitments - affect only your own calculus.
       </p>
 
       <p className={bodyClass}>
@@ -130,13 +130,13 @@ export default function SoloVsPartneredSearchArticle() {
       <h2 className={h2Class}>The Data: Success Rates and Timing</h2>
 
       <p className={bodyClass}>
-        Stanford's biennial search fund survey provides the most comprehensive data on solo versus partnered search outcomes. While sample sizes are modest and confounding factors exist, several patterns have emerged consistently across study iterations.
+        Stanford's biennial search fund survey provides the most thorough data on solo versus partnered search outcomes. While sample sizes are modest and confounding factors exist, several patterns have emerged consistently across study iterations.
       </p>
 
       <h3 className={h3Class}>Acquisition Success Rates</h3>
 
       <p className={bodyClass}>
-        Approximately 75% of search funds successfully acquire a company within their search window. This figure holds relatively constant whether examining traditional searches funded by investors or self-funded searches. However, the data show nuanced differences when comparing solo versus partnered models.
+        Approximately 75% of search funds successfully acquire a company within their search window. This figure holds relatively constant whether examining traditional searches funded by investors or self-funded searches. However, the data show detailed differences when comparing solo versus partnered models.
       </p>
 
       <p className={bodyClass}>
@@ -168,7 +168,7 @@ export default function SoloVsPartneredSearchArticle() {
       </p>
 
       <p className={bodyClass}>
-        Where partnerships potentially offer advantage is in recovery from early missteps. Anecdotal evidence suggests that partnered teams navigate crises more effectively: one partner focuses on firefighting while the other maintains strategic initiatives, preventing complete organizational drift. In truly catastrophic situations - CEO health crisis, family emergency - partners provide continuity that solo operators cannot. However, these scenarios are sufficiently rare that they don't meaningfully shift aggregate statistics.
+        Where partnerships potentially offer advantage is in recovery from early missteps. Anecdotal evidence suggests that partnered teams manage crises more effectively: one partner focuses on firefighting while the other maintains strategic initiatives, preventing complete organizational drift. In truly catastrophic situations - CEO health crisis, family emergency - partners provide continuity that solo operators cannot. However, these scenarios are sufficiently rare that they don't meaningfully shift aggregate statistics.
       </p>
 
       <h2 className={h2Class}>Economics and Equity Split</h2>
@@ -191,7 +191,7 @@ export default function SoloVsPartneredSearchArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These percentages represent post-acquisition, fully diluted ownership. During search, investors typically own preferred units that convert to common equity upon acquisition close. For a comprehensive breakdown of the financial model, see our guide to{" "}
+        These percentages represent post-acquisition, fully diluted ownership. During search, investors typically own preferred units that convert to common equity upon acquisition close. For a thorough breakdown of the financial model, see our guide to{" "}
         <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
           searcher compensation and equity structures
         </Link>.
@@ -252,7 +252,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h2 className={h2Class}>Complementary Skill Sets</h2>
 
       <p className={bodyClass}>
-        The case for partnership strengthens dramatically when co-founders bring genuinely complementary capabilities. The most successful pairings exhibit clear skill differentiation that creates operational leverage.
+        The case for partnership strengthens dramatically when co-founders bring genuinely complementary capabilities. The most successful pairings exhibit clear skill differentiation that creates operational use.
       </p>
 
       <h3 className={h3Class}>High-Value Skill Combinations</h3>
@@ -417,7 +417,7 @@ export default function SoloVsPartneredSearchArticle() {
       <h3 className={h3Class}>Psychological Needs</h3>
 
       <p className={bodyClass}>
-        How do you respond to extended periods of rejection and ambiguity? Can you motivate yourself through long dry spells, or do you need external accountability and encouragement? Are you comfortable making high-stakes decisions alone, or do you prefer sounding board relationships? There's no right answer, but self-awareness here is crucial.
+        How do you respond to extended periods of rejection and ambiguity? Can you motivate yourself through long dry spells, or do you need external accountability and encouragement? Are you comfortable making high-stakes decisions alone, or do you prefer sounding board relationships? There's no right answer, but self-awareness here is critical.
       </p>
 
       <p className={bodyClass}>
@@ -538,7 +538,7 @@ export default function SoloVsPartneredSearchArticle() {
 
       <h3 className={h3Class}>What should a search fund partnership agreement include?</h3>
       <p className={bodyClass}>
-        A comprehensive partnership agreement should cover role definitions and reporting relationships, decision rights and escalation procedures for disagreements, compensation philosophy (whether comp can diverge between partners), performance expectations and consequences for underperformance, exit provisions including buyout formulas and right of first refusal, and dispute resolution mechanisms (mediation before litigation). Negotiate these terms when the relationship is strong, not after conflict has emerged.
+        A thorough partnership agreement should cover role definitions and reporting relationships, decision rights and escalation procedures for disagreements, compensation philosophy (whether comp can diverge between partners), performance expectations and consequences for underperformance, exit provisions including buyout formulas and right of first refusal, and dispute resolution mechanisms (mediation before litigation). Negotiate these terms when the relationship is strong, not after conflict has emerged.
       </p>
 
       <h3 className={h3Class}>Can you start solo and add a partner later?</h3>

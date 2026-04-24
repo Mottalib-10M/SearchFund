@@ -305,7 +305,7 @@ export default function RecurringRevenueBusinessesArticle() {
           <li>
             <strong>Consolidation activity:</strong> In Q3 2025, major operators
             acquired over $83M in Class A assets in a single quarter (SkyView Advisors).
-            A 78-property portfolio encompassing 32,000 units secured $425M in
+            A 78-property portfolio including 32,000 units secured $425M in
             refinancing from Centerbridge and Merit Hill Capital in September 2025.
           </li>
           <li>

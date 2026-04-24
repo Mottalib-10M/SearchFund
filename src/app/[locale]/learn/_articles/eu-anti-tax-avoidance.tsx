@@ -10,11 +10,11 @@ export default function EUAntiTaxAvoidanceArticle() {
       <div className={bodyClass}>
         <p>
           The European Union&apos;s Anti-Tax Avoidance Directives (ATAD I and
-          ATAD II) represent the most comprehensive overhaul of corporate tax
+          ATAD II) represent the most thorough overhaul of corporate tax
           rules in EU history. Adopted in 2016 and 2017 respectively, these
           directives mandate that all EU Member States implement a minimum
           standard of anti-avoidance measures, fundamentally reshaping the
-          tax landscape for acquisitions across Europe. For anyone
+          tax environment for acquisitions across Europe. For anyone
           contemplating a{" "}
           <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">
             cross-border acquisition
@@ -77,7 +77,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           the target&apos;s operating income, creating a &ldquo;tax
           shield&rdquo; that enhances returns. ATAD&apos;s interest
           limitation caps this tax shield at 30% of EBITDA, which means
-          highly leveraged structures may generate non-deductible interest
+          highly used structures may generate non-deductible interest
           expense, reducing the after-tax returns of the acquisition.
         </p>
         <p>
@@ -250,7 +250,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           tax planning &mdash; even if technically compliant with specific
           rules &mdash; may be challenged if it lacks genuine commercial
           substance. Deal structures, holding arrangements, and financing
-          mechanisms must be supported by robust commercial rationale
+          mechanisms must be supported by strong commercial rationale
           beyond tax benefits.
         </p>
 
@@ -338,7 +338,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           </li>
           <li>
             <strong>Due diligence scope:</strong> Tax due diligence must
-            now include a comprehensive assessment of the target&apos;s
+            now include a thorough assessment of the target&apos;s
             compliance with ATAD provisions, including interest limitation
             computations, CFC analysis, hybrid mismatch review, and GAAR
             vulnerability assessment.
@@ -362,7 +362,7 @@ export default function EUAntiTaxAvoidanceArticle() {
         <h3 className={h3Class}>What is the GAAR and how does it affect acquisition structuring?</h3>
 
         <p>
-          The General Anti-Avoidance Rule (GAAR) is a broad backstop provision in ATAD I that allows tax authorities to disregard arrangements that are &ldquo;not genuine&rdquo; and have been put in place primarily to obtain a tax advantage. An arrangement is considered not genuine if it lacks valid commercial reasons reflecting economic reality. For acquirers, the GAAR means that any aggressive tax planning&mdash;even if technically compliant with specific rules&mdash;can be challenged if it lacks genuine commercial substance. According to EY&rsquo;s <em>Worldwide Corporate Tax Guide</em>, holding companies, intercompany financing arrangements, and IP structures must all be supported by robust commercial rationale beyond tax benefits. Entities must have qualified employees, local decision-making authority, and real operational activities to withstand GAAR scrutiny. The subjective nature of the GAAR creates uncertainty that makes professional tax advice essential for any cross-border European acquisition.
+          The General Anti-Avoidance Rule (GAAR) is a broad backstop provision in ATAD I that allows tax authorities to disregard arrangements that are &ldquo;not genuine&rdquo; and have been put in place primarily to obtain a tax advantage. An arrangement is considered not genuine if it lacks valid commercial reasons reflecting economic reality. For acquirers, the GAAR means that any aggressive tax planning&mdash;even if technically compliant with specific rules&mdash;can be challenged if it lacks genuine commercial substance. According to EY&rsquo;s <em>Worldwide Corporate Tax Guide</em>, holding companies, intercompany financing arrangements, and IP structures must all be supported by strong commercial rationale beyond tax benefits. Entities must have qualified employees, local decision-making authority, and real operational activities to withstand GAAR scrutiny. The subjective nature of the GAAR creates uncertainty that makes professional tax advice essential for any cross-border European acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

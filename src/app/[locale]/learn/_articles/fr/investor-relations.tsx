@@ -178,7 +178,7 @@ export default function InvestorRelationsFR() {
       <h2 className={h2Class}>KPIs&nbsp;: les indicateurs à suivre</h2>
       <div className={bodyClass}>
         <p>
-          Le choix des KPIs (Key Performance Indicators) est crucial&nbsp;: trop
+          Le choix des KPIs (Key Performance Indicators) est critical&nbsp;: trop
           d&apos;indicateurs noient l&apos;information, trop peu masquent la réalité.
           Un tableau de bord efficace comprend entre 8 et 15 KPIs répartis en
           trois catégories.

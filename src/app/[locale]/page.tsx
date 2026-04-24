@@ -125,7 +125,7 @@ export default function Home() {
                 Learn the fundamentals
               </h3>
               <p className="text-sm text-apple-gray-700 mt-2">
-                Explore our comprehensive guides on search funds, deal
+                Explore our thorough guides on search funds, deal
                 execution, fundraising, and post-acquisition operations.
               </p>
             </div>

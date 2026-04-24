@@ -123,7 +123,7 @@ export default function HowToEvaluateSearcherArticle() {
           criteria refinement or deal evaluation. A searcher who submits
           multiple LOIs that fail to close may have valuation discipline
           issues. The best investors act as mentors and sounding boards
-          throughout the process, leveraging their experience with{" "}
+          throughout the process, using their experience with{" "}
           <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">
             portfolio construction
           </Link>{" "}

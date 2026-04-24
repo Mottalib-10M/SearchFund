@@ -20,7 +20,7 @@ export default function ETACanadaArticle() {
           self-funded acquirers.
         </p>
         <p>
-          This guide covers the Canadian ETA landscape: deal flow, financing
+          This guide covers the Canadian ETA market: deal flow, financing
           options, legal considerations, tax optimization, and practical advice
           for acquiring a business in Canada.
         </p>
@@ -76,7 +76,7 @@ export default function ETACanadaArticle() {
         </p>
         <ul className={ulClass}>
           <li>Loans of $500K&ndash;$10M+ for qualified acquisitions</li>
-          <li>2.5&ndash;4x EBITDA maximum leverage</li>
+          <li>2.5&ndash;4x EBITDA maximum use</li>
           <li>5&ndash;7 year terms with Prime + 1.5&ndash;3% pricing</li>
           <li>Full recourse with personal guarantees</li>
         </ul>

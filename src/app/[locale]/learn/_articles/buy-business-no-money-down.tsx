@@ -17,7 +17,7 @@ export default function BuyBusinessNoMoneyDownArticle() {
           it is rare and comes with significant trade-offs. The more useful
           question is: &ldquo;How can I minimize the personal capital required
           to buy a business?&rdquo; &mdash; and there, the options are much
-          more robust. The 2024 Stanford Search Fund Study found that the
+          more strong. The 2024 Stanford Search Fund Study found that the
           median searcher in a traditional fund invested zero personal capital
           yet earned 20&ndash;30% equity in a company valued at $5&ndash;$30 million,
           demonstrating that institutional paths to low-capital ownership

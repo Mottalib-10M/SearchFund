@@ -22,7 +22,7 @@ export default function ETAItalyArticle() {
           transition with no clear successor.
         </p>
 
-        <h2 className={h2Class}>The Italian SME landscape</h2>
+        <h2 className={h2Class}>The Italian SME market</h2>
         <p>
           Italy&apos;s economy is uniquely structured compared to its European
           peers. While Germany relies on large industrial conglomerates and
@@ -158,11 +158,11 @@ export default function ETAItalyArticle() {
 
         <h3 className={h3Class}>Bank lending</h3>
         <p>
-          Italian banks have traditionally been cautious about leveraged
+          Italian banks have traditionally been cautious about used
           acquisition financing. However, the market is evolving. Major banks
           (Intesa Sanpaolo, UniCredit, Banco BPM, BPER) and specialized
           lenders increasingly offer acquisition financing, typically at
-          2.5-3.5x EBITDA leverage. Italian banks often require personal
+          2.5-3.5x EBITDA use. Italian banks often require personal
           guarantees from the acquirer and collateral from the target
           company&apos;s assets. Building relationships with local bank
           branches and presenting a thorough business plan are essential.
@@ -267,7 +267,7 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Tax regime</h2>
         <p>
-          The Italian tax landscape is complex but manageable with proper
+          The Italian tax environment is complex but manageable with proper
           planning. Key taxes affecting acquisition structures include:
         </p>
         <ul className={ulClass}>
@@ -302,7 +302,7 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Deal sourcing in Italy</h2>
         <p>
-          For a comprehensive overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
+          For a thorough overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
         </p>
 
         <h3 className={h3Class}>Commercialisti and notai</h3>

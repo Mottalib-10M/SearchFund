@@ -11,7 +11,7 @@ export default function FundraisingDeckArticle() {
         <p>
           Your fundraising deck is the visual companion to your <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> and typically
           the first document an investor sees. While the PPM provides legal
-          disclosure and comprehensive detail, the deck is your storytelling tool
+          disclosure and thorough detail, the deck is your storytelling tool
           &mdash; it frames the conversation during investor meetings and leaves
           a lasting impression. A great deck does not replace the PPM; it
           complements it by making your case concise, visual, and memorable.
@@ -303,7 +303,7 @@ export default function FundraisingDeckArticle() {
           following up. Common questions include: How will you differentiate
           your sourcing approach from other searchers? What happens if the
           search takes longer than 24 months? How do you think about
-          leverage at acquisition? What is your plan if you cannot find a
+          use at acquisition? What is your plan if you cannot find a
           deal? Prepare thoughtful, specific answers to each of these. The
           worst thing you can do is give a vague or evasive response &mdash;
           it signals that you have not thought deeply about the risks and

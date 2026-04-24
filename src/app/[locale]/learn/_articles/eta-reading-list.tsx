@@ -201,7 +201,7 @@ export default function ETAReadingListArticle() {
           >
             Management Review Quarterly
           </a>
-          , this systematic review maps the entire landscape of ETA academic
+          , this systematic review maps the entire market of ETA academic
           literature&mdash;identifying research gaps, methodological approaches,
           and the evolving definition of acquisition entrepreneurship. It is the
           best single source for understanding what scholars have and have not

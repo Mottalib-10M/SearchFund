@@ -14,7 +14,7 @@ export default function AmazonFBAAcquisitionArticle() {
           Buying an established Amazon FBA business can give you instant access
           to hundreds of millions of Prime customers, a proven product catalog,
           and a logistics backbone that would take years to replicate. But the
-          FBA acquisition landscape in 2025 looks nothing like the gold-rush
+          FBA acquisition market in 2025 looks nothing like the gold-rush
           years of 2020&ndash;2021, when aggregators paid 5&ndash;7x multiples
           for any brand with a pulse. Valuations have corrected, due diligence
           standards have tightened, and the buyers who thrive today are
@@ -517,7 +517,7 @@ export default function AmazonFBAAcquisitionArticle() {
           Can I get SBA financing to buy an Amazon FBA business?
         </h3>
         <p>
-          Yes, though it&rsquo;s more nuanced than financing a traditional
+          Yes, though it&rsquo;s more detailed than financing a traditional
           brick-and-mortar business. SBA 7(a) loans can be used for FBA
           acquisitions, but many lenders are unfamiliar with digital-asset
           underwriting and may require additional documentation: 2&ndash;3

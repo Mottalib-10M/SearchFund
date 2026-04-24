@@ -6,7 +6,7 @@ export default function SBALoanStateByStateArticle() {
     <article>
       <h1 className={h1Class}>SBA Loans for Acquisitions: State-by-State Guide</h1>
       <div className={bodyClass}>
-        <p>The SBA 7(a) loan program is the most popular financing tool for search fund and ETA acquisitions in the United States, providing up to $5M in acquisition financing with favorable terms: 10-year repayment, no balloon payments, and rates tied to prime. However, SBA lending activity varies significantly by state &mdash; driven by differences in the number of active SBA lenders, state-level economic programs, local banking relationships, and deal flow. This guide maps the SBA lending landscape for business acquisitions across the US.</p>
+        <p>The SBA 7(a) loan program is the most popular financing tool for search fund and ETA acquisitions in the United States, providing up to $5M in acquisition financing with favorable terms: 10-year repayment, no balloon payments, and rates tied to prime. However, SBA lending activity varies significantly by state &mdash; driven by differences in the number of active SBA lenders, state-level economic programs, local banking relationships, and deal flow. This guide maps the SBA lending environment for business acquisitions across the US.</p>
       </div>
 
       <h2 className={h2Class}>Top SBA Lending States</h2>
@@ -35,7 +35,7 @@ export default function SBALoanStateByStateArticle() {
       <h2 className={h2Class}>Finding SBA Lenders</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>SBA Lender Match:</strong> SBA.gov&apos;s free service connects borrowers with participating lenders. Good starting point but not comprehensive.</li>
+          <li><strong>SBA Lender Match:</strong> SBA.gov&apos;s free service connects borrowers with participating lenders. Good starting point but not thorough.</li>
           <li><strong>Preferred lenders:</strong> SBA Preferred Lenders (PLP) can approve loans internally without SBA review, dramatically speeding the process.</li>
           <li><strong>Community banks:</strong> Local community banks often have the strongest appetite for SBA acquisition loans and provide personalized service.</li>
           <li><strong>Credit unions:</strong> Some credit unions actively participate in SBA lending with competitive rates and fees.</li>

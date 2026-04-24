@@ -18,7 +18,7 @@ export const newsArticles: NewsArticle[] = [
 
 <h2>Country-by-Country Highlights</h2>
 <p><strong>France</strong> has emerged as the largest European ETA market by number of active searchers, supported by a strong ecosystem around HEC Paris and INSEAD, favorable succession legislation (Pacte Dutreil), and BPI France's support for transmission d'entreprise.</p>
-<p><strong>Spain</strong> continues to punch above its weight thanks to IESE's central role in the global search fund community. The IESE Search Fund Center hosts the most comprehensive European data on search fund performance.</p>
+<p><strong>Spain</strong> continues to punch above its weight thanks to IESE's central role in the global search fund community. The IESE Search Fund Center hosts the most thorough European data on search fund performance.</p>
 <p><strong>Germany and the DACH region</strong> represent the largest opportunity by number of succession-ready businesses (the Mittelstand), though cultural factors around business sales have slowed adoption relative to the market's potential.</p>
 <p><strong>The UK</strong> has seen growth particularly in self-funded searches and micro-PE models, with London Business School and Cambridge Judge developing active ETA communities.</p>
 
@@ -43,7 +43,7 @@ export const newsArticles: NewsArticle[] = [
     slug: "stanford-2024-search-fund-study-key-findings",
     title: "Stanford 2024 Search Fund Study: Key Findings and Takeaways",
     description: "Stanford GSB's latest search fund study analyzes 681 funds raised since 1984. We break down the key findings on returns, acquisition rates, and trends.",
-    content: `<p>Stanford Graduate School of Business has published its most comprehensive search fund study to date, analyzing data from 681 search funds raised between 1984 and 2022. The study, which has become the definitive reference for the search fund industry, reveals both encouraging trends and important nuances for searchers and investors.</p>
+    content: `<p>Stanford Graduate School of Business has published its most thorough search fund study to date, analyzing data from 681 search funds raised between 1984 and 2022. The study, which has become the definitive reference for the search fund industry, reveals both encouraging trends and important nuances for searchers and investors.</p>
 
 <h2>Headline Numbers</h2>
 <p>The study's aggregate return data continues to make the case for search funds as an institutional asset class:</p>
@@ -78,7 +78,7 @@ export const newsArticles: NewsArticle[] = [
     slug: "ftc-non-compete-ban-impact-acquisitions",
     title: "FTC Non-Compete Ban: What It Means for Business Acquisitions",
     description: "The FTC's rule banning non-compete agreements includes an important exception for business sales. Here's what acquirers need to know.",
-    content: `<p>The Federal Trade Commission's final rule banning non-compete agreements has significant implications for the labor market, but its impact on business acquisitions is more nuanced than headlines suggest. The rule includes a critical carve-out that search fund entrepreneurs and business buyers need to understand.</p>
+    content: `<p>The Federal Trade Commission's final rule banning non-compete agreements has significant implications for the labor market, but its impact on business acquisitions is more detailed than headlines suggest. The rule includes a critical carve-out that search fund entrepreneurs and business buyers need to understand.</p>
 
 <h2>The Business Sale Exception</h2>
 <p>The FTC rule specifically exempts non-compete agreements entered into in connection with the bona fide sale of a business. This means that when you acquire a company, the seller can still be bound by a non-compete agreement as part of the transaction. The exemption recognizes that these covenants protect the buyer's investment in goodwill - without them, a seller could sell a business and immediately set up a competing operation, destroying the value the buyer just paid for.</p>
@@ -146,10 +146,10 @@ export const newsArticles: NewsArticle[] = [
     relatedArticles: ["eta-europe", "search-fund-conferences-events", "eta-spain"],
   },
   {
-    slug: "search-fund-accelerators-landscape-2025",
-    title: "Search Fund Accelerators in 2025: A Growing Landscape",
-    description: "The search fund accelerator model has expanded significantly. We map the current landscape of ETA accelerators and platforms.",
-    content: `<p>The search fund accelerator model, pioneered by the Search Fund Accelerator (SFA) over a decade ago, has evolved into a diverse landscape of platforms offering capital, training, and support to aspiring business acquirers. In 2025, the number of organizations providing structured pathways into entrepreneurship through acquisition has grown considerably.</p>
+    slug: "search-fund-accelerators-market-2025",
+    title: "Search Fund Accelerators in 2025: A Growing Market",
+    description: "The search fund accelerator model has expanded significantly. We map the current market of ETA accelerators and platforms.",
+    content: `<p>The search fund accelerator model, pioneered by the Search Fund Accelerator (SFA) over a decade ago, has evolved into a diverse market of platforms offering capital, training, and support to aspiring business acquirers. In 2025, the number of organizations providing structured pathways into entrepreneurship through acquisition has grown considerably.</p>
 
 <h2>What Is a Search Fund Accelerator?</h2>
 <p>A search fund accelerator provides aspiring entrepreneurs with a structured program to find, evaluate, and acquire a small business. Unlike the traditional search fund model - where an individual raises capital from investors, searches for a company, then raises acquisition capital - accelerators typically provide:</p>
@@ -161,7 +161,7 @@ export const newsArticles: NewsArticle[] = [
 <li>A community of peers and mentors</li>
 </ul>
 
-<h2>Current Landscape</h2>
+<h2>Current Market</h2>
 <p><strong>Search Fund Accelerator (SFA):</strong> The original model, founded by Jim Southern. SFA partners with searchers globally, providing capital, mentorship, and operational support. Their track record shows a high acquisition completion rate, making them a benchmark for the model.</p>
 <p><strong>Acquisition Lab:</strong> Founded by Walker Deibel (author of Buy Then Build), Acquisition Lab focuses on self-funded searchers and provides a structured 12-month program with deal sourcing, financial analysis, and closing support. They report having facilitated over 200 closed deals.</p>
 <p><strong>Acquira:</strong> Operates an accelerator model that provides training, deal flow, and financing support. Acquira focuses on making business acquisition accessible to a broader audience, including those without MBA backgrounds.</p>

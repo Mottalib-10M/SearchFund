@@ -14,7 +14,7 @@ export default function LeveragedBuyoutSMEArticle() {
           A leveraged buyout (LBO) uses a combination of debt and equity to
           acquire a business, with the target company&rsquo;s cash flow
           servicing the debt. While LBOs are associated with large PE deals,
-          the Stanford 2024 Search Fund Study confirms that the same leveraged
+          the Stanford 2024 Search Fund Study confirms that the same used
           principles apply to SME acquisitions in{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             ETA
@@ -31,7 +31,7 @@ export default function LeveragedBuyoutSMEArticle() {
 
         <h2 className={h2Class}>The three return drivers</h2>
         <ul className={ulClass}>
-          <li><strong>Debt paydown:</strong> As the business repays debt, equity value increases. At 4x leverage, paying down 1 turn of debt adds 25% to equity</li>
+          <li><strong>Debt paydown:</strong> As the business repays debt, equity value increases. At 4x use, paying down 1 turn of debt adds 25% to equity</li>
           <li><strong>EBITDA growth:</strong> Organic and acquisitive growth directly increases enterprise value</li>
           <li><strong>Multiple expansion:</strong> Buy at 4x, sell at 6&ndash;8x. The most powerful (and least reliable) return driver</li>
         </ul>
@@ -97,7 +97,7 @@ export default function LeveragedBuyoutSMEArticle() {
               SBA guide
             </Link></li>
           <li><strong>Commercial banks:</strong> $1M&ndash;$25M, 5&ndash;7 year terms. Requires strong cash flow</li>
-          <li><strong>Private credit:</strong> $5M&ndash;$50M+. More flexible on leverage and covenants</li>
+          <li><strong>Private credit:</strong> $5M&ndash;$50M+. More flexible on use and covenants</li>
           <li><strong>Mezzanine funds:</strong> $1M&ndash;$10M subordinated debt at 12&ndash;18% total cost</li>
           <li><strong>Seller notes:</strong> 10&ndash;30% of price at 4&ndash;8% interest. Subordinated to bank debt</li>
         </ul>
@@ -113,20 +113,20 @@ export default function LeveragedBuyoutSMEArticle() {
             <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">
               working capital
             </Link>{" "}
-            needs create cash crunches in leveraged businesses</li>
-          <li><strong>Over-leverage:</strong> Conservative leverage (3&ndash;3.5x) is safer than aggressive (4.5x+)</li>
+            needs create cash crunches in used businesses</li>
+          <li><strong>Over-use:</strong> Conservative use (3&ndash;3.5x) is safer than aggressive (4.5x+)</li>
           <li><strong>Customer concentration:</strong>{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               Losing a major customer
             </Link>{" "}
-            in a leveraged business is existential</li>
+            in a used business is existential</li>
         </ul>
 
         <h2 className={h2Class}>LBO vs. other acquisition models</h2>
         <ul className={ulClass}>
-          <li><strong>vs. All-equity:</strong> LBO generates higher returns through leverage but carries more risk</li>
+          <li><strong>vs. All-equity:</strong> LBO generates higher returns through use but carries more risk</li>
           <li><strong>vs. Self-funded SBA:</strong> SBA is effectively a small LBO &mdash; 80% debt, 10% seller note, 10% equity</li>
-          <li><strong>vs. Traditional search fund:</strong> Search funds use moderate leverage (2&ndash;3x) vs. full LBO (3.5&ndash;4.5x)</li>
+          <li><strong>vs. Traditional search fund:</strong> Search funds use moderate use (2&ndash;3x) vs. full LBO (3.5&ndash;4.5x)</li>
         </ul>
 
         <h2 className={h2Class}>Building an LBO model: step by step</h2>
@@ -140,7 +140,7 @@ export default function LeveragedBuyoutSMEArticle() {
           analysis with sensitivity to exit multiple and EBITDA at exit.
           Run downside scenarios: what happens if revenue declines 10%?
           What if interest rates rise 200 basis points? What if a key
-          customer is lost? A robust model identifies the conditions
+          customer is lost? A strong model identifies the conditions
           under which the deal breaks and helps you set appropriate
           purchase price limits.
         </p>
@@ -195,7 +195,7 @@ export default function LeveragedBuyoutSMEArticle() {
           is a specific type of LBO where the existing management team
           purchases the business, often with financial backing from PE
           investors or lenders. In the ETA context, a search fund
-          acquisition is technically an LBO (leveraged) but not an MBO
+          acquisition is technically an LBO (used) but not an MBO
           (the buyer is external). Self-funded ETA acquisitions using SBA
           financing are also LBOs in structure, even though they may not
           use the term. The mechanics &mdash; leveraged acquisition with

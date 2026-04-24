@@ -67,7 +67,7 @@ export default function OperationalDueDiligenceArticle() {
           operational risk. When financial DD tells you <em>what</em> a
           business earns, operational DD tells you <em>how</em> it earns
           it&mdash;and whether that &ldquo;how&rdquo; is fragile or
-          robust.
+          strong.
         </p>
         <p>
           A practical way to think about the three workstreams:
@@ -656,7 +656,7 @@ export default function OperationalDueDiligenceArticle() {
         </h3>
         <p>
           Quantified operational findings translate directly into
-          negotiating leverage. Deferred maintenance estimates,
+          negotiating use. Deferred maintenance estimates,
           technology-replacement budgets, and key-employee retention
           costs can all justify reductions to the headline price or
           structured holdbacks. If DD reveals &euro;150,000 in

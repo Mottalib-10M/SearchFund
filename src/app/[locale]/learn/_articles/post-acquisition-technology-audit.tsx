@@ -57,7 +57,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h2 className={h2Class}>The technology audit framework</h2>
         <p>
-          A comprehensive audit covers five domains. During your{" "}
+          A thorough audit covers five domains. During your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>,
           complete at least a high-level assessment of each. A deeper dive into
           critical areas can follow in months three through six.
@@ -401,7 +401,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h3 className={h3Class}>How long does a post-acquisition technology audit take?</h3>
         <p>
-          A comprehensive technology audit can be completed in 10&ndash;12 weeks following a structured approach. According to Gartner&rsquo;s IT assessment framework, the process breaks down as: Weeks 1&ndash;2 for discovery (inventorying hardware, software, contracts, and expenses and interviewing key users), Weeks 3&ndash;4 for assessment (evaluating security, backups, infrastructure age, and application fitness), Weeks 5&ndash;6 for implementing quick wins (enabling MFA, deprovisioning former employees, verifying backups, canceling unused subscriptions), and Weeks 7&ndash;12 for building a prioritized 12&ndash;18 month technology roadmap with costs, timelines, and expected outcomes. A fractional CTO at $3,000&ndash;$10,000 per month can lead this process if you lack internal IT leadership.
+          A thorough technology audit can be completed in 10&ndash;12 weeks following a structured approach. According to Gartner&rsquo;s IT assessment framework, the process breaks down as: Weeks 1&ndash;2 for discovery (inventorying hardware, software, contracts, and expenses and interviewing key users), Weeks 3&ndash;4 for assessment (evaluating security, backups, infrastructure age, and application fitness), Weeks 5&ndash;6 for implementing quick wins (enabling MFA, deprovisioning former employees, verifying backups, canceling unused subscriptions), and Weeks 7&ndash;12 for building a prioritized 12&ndash;18 month technology roadmap with costs, timelines, and expected outcomes. A fractional CTO at $3,000&ndash;$10,000 per month can lead this process if you lack internal IT leadership.
         </p>
 
         <h3 className={h3Class}>How much IT waste is typically found in acquired SMEs?</h3>

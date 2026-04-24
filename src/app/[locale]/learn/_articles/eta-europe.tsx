@@ -12,7 +12,7 @@ export default function ETAEuropeArticle() {
           Europe has more than 23 million SMEs, roughly 2.4 million of which will need a new owner by 2030 according to the European Commission. Acquisition multiples sit at 3&ndash;5x EBITDA&mdash;one to two turns below comparable US targets. Meanwhile, the continent&apos;s search fund investor base has grown from a handful of individuals in 2012 to over 200 active backers tracked in the IESE 2024 International Search Fund Study. For operators willing to learn a second language, tolerate regulatory fragmentation, and build local networks, Europe offers the best risk-adjusted entry point into ETA today.
         </p>
         <p>
-          This article maps the European ETA opportunity country by country, explains how fund structures, deal sizes, and leverage differ from the US model, and distills the latest returns data so you can decide where&mdash;and how&mdash;to search.
+          This article maps the European ETA opportunity country by country, explains how fund structures, deal sizes, and use differ from the US model, and distills the latest returns data so you can decide where&mdash;and how&mdash;to search.
         </p>
 
         {/* ───── SECTION 1 ───── */}
@@ -51,7 +51,7 @@ export default function ETAEuropeArticle() {
 
         <h3 className={h3Class}>Nordics &mdash; Transparent, High-Quality Targets</h3>
         <p>
-          Sweden, Norway, Denmark, and Finland offer some of the highest-quality SMEs in Europe: strong governance, transparent financials, high digital adoption, and robust recurring revenue models. Search fund activity has grown rapidly since 2018, particularly in Sweden and Denmark. Nordic targets typically trade at 4&ndash;6x EBITDA&mdash;higher than Southern Europe but justified by superior margin profiles and lower operational risk. The main limitation is market size: deal flow is thinner, and competition from local PE (especially Nordic Capital and EQT at the larger end) can squeeze valuations in popular sectors.
+          Sweden, Norway, Denmark, and Finland offer some of the highest-quality SMEs in Europe: strong governance, transparent financials, high digital adoption, and strong recurring revenue models. Search fund activity has grown rapidly since 2018, particularly in Sweden and Denmark. Nordic targets typically trade at 4&ndash;6x EBITDA&mdash;higher than Southern Europe but justified by superior margin profiles and lower operational risk. The main limitation is market size: deal flow is thinner, and competition from local PE (especially Nordic Capital and EQT at the larger end) can squeeze valuations in popular sectors.
         </p>
 
         <h3 className={h3Class}>Benelux, Italy, and Portugal &mdash; Emerging Markets</h3>
@@ -76,7 +76,7 @@ export default function ETAEuropeArticle() {
             <strong>Fund sizes are smaller.</strong> The median US search fund raises $450K&ndash;$500K for the search phase and acquires companies with $1&ndash;$3M EBITDA. European funds typically raise &euro;250K&ndash;$400K and target &euro;500K&ndash;$2M EBITDA businesses, reflecting lower multiples and smaller average company size.
           </li>
           <li>
-            <strong>Leverage is harder to source.</strong> US searchers rely heavily on SBA 7(a) loans (up to $5M, 10-year terms). No pan-European equivalent exists. Instead, searchers piece together bank debt (typically 2&ndash;3x EBITDA at EURIBOR + 250&ndash;400 bps), government-backed guarantees (BPI France, ICO Spain, KfW Germany, British Business Bank), and seller notes. Total leverage rarely exceeds 3x vs. 3.5&ndash;4x in the US.
+            <strong>Use is harder to source.</strong> US searchers rely heavily on SBA 7(a) loans (up to $5M, 10-year terms). No pan-European equivalent exists. Instead, searchers piece together bank debt (typically 2&ndash;3x EBITDA at EURIBOR + 250&ndash;400 bps), government-backed guarantees (BPI France, ICO Spain, KfW Germany, British Business Bank), and seller notes. Total use rarely exceeds 3x vs. 3.5&ndash;4x in the US.
           </li>
           <li>
             <strong>Legal structures vary by jurisdiction.</strong> Luxembourg SCSp and SLP are popular for multi-country funds. Single-country searches often use local vehicles: SAS (France), SL (Spain), GmbH &amp; Co. KG (Germany), Ltd (UK). Each comes with different tax treatment, reporting obligations, and investor protections. Our{" "}
@@ -197,7 +197,7 @@ export default function ETAEuropeArticle() {
 
         <h3 className={h3Class}>What is the typical deal size for a European search fund acquisition?</h3>
         <p>
-          Most European search fund acquisitions target companies with &euro;500K&ndash;$2M EBITDA, translating to enterprise values of &euro;1.5M&ndash;$8M. The total equity raise (search + acquisition) typically ranges from &euro;1.5M to &euro;5M depending on the leverage available and the target&apos;s size.
+          Most European search fund acquisitions target companies with &euro;500K&ndash;$2M EBITDA, translating to enterprise values of &euro;1.5M&ndash;$8M. The total equity raise (search + acquisition) typically ranges from &euro;1.5M to &euro;5M depending on the use available and the target&apos;s size.
         </p>
 
         <h3 className={h3Class}>Which European country is best for a first-time searcher?</h3>

@@ -23,7 +23,7 @@ export default function ETABeneluxArticle() {
           of an aging SME ownership base.
         </p>
 
-        <h2 className={h2Class}>The Dutch market landscape</h2>
+        <h2 className={h2Class}>The Dutch market environment</h2>
         <p>
           The Netherlands is the dominant economy in the Benelux region and
           one of the most attractive ETA markets in Europe. With approximately
@@ -143,7 +143,7 @@ export default function ETABeneluxArticle() {
 
         <h2 className={h2Class}>Financing in the Benelux</h2>
         <p>
-          For a comprehensive overview of how searchers fund their deals, see our guide to <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
+          For a thorough overview of how searchers fund their deals, see our guide to <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
         </p>
         <h3 className={h3Class}>MKB financing in the Netherlands</h3>
         <p>
@@ -152,7 +152,7 @@ export default function ETABeneluxArticle() {
           that actively finance business acquisitions. Rabobank, with its
           deep roots in the Dutch SME community and extensive branch network,
           is particularly well-positioned for search fund transactions.
-          Typical leverage for acquisition financing ranges from 3x to 4x
+          Typical use for acquisition financing ranges from 3x to 4x
           EBITDA, with interest rates that are generally competitive within
           the European context.
         </p>
@@ -182,7 +182,7 @@ export default function ETABeneluxArticle() {
           the Randstad.
         </p>
 
-        <h3 className={h3Class}>Belgian financing landscape</h3>
+        <h3 className={h3Class}>Belgian financing market</h3>
         <p>
           Belgian banks such as KBC, BNP Paribas Fortis, Belfius, and ING
           Belgium provide acquisition financing for SME transactions.
@@ -200,7 +200,7 @@ export default function ETABeneluxArticle() {
           entrepreneurs. Several cross-border factors deserve attention.
         </p>
         <ul className={ulClass}>
-          <li><strong>Language diversity:</strong> The Benelux encompasses Dutch, French, German, and Luxembourgish. In Belgium alone, business may be conducted in Dutch (Flanders), French (Wallonia), or both (Brussels). Searchers targeting the entire region need multilingual capabilities.</li>
+          <li><strong>Language diversity:</strong> The Benelux includes Dutch, French, German, and Luxembourgish. In Belgium alone, business may be conducted in Dutch (Flanders), French (Wallonia), or both (Brussels). Searchers targeting the entire region need multilingual capabilities.</li>
           <li><strong>Regulatory differences:</strong> Despite EU harmonization, significant differences exist in company law, labor law, tax, and regulatory requirements across the three countries. Each jurisdiction requires country-specific legal and tax advice.</li>
           <li><strong>Customer overlap:</strong> Many Benelux SMEs serve customers across all three countries, making the region a natural platform for cross-border consolidation strategies.</li>
           <li><strong>Talent mobility:</strong> The Benelux labor market is highly mobile, with many professionals working across borders. This facilitates post-acquisition talent recruitment and management integration.</li>

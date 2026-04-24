@@ -29,7 +29,7 @@ export default function StrategicPartnershipsArticle() {
         <h3 className={h3Class}>Co-Delivery Partnerships</h3>
         <ul className={ulClass}>
           <li>Two companies collaborate to deliver a combined solution</li>
-          <li>Example: An IT services company partners with a cybersecurity firm to offer a comprehensive managed IT + security package</li>
+          <li>Example: An IT services company partners with a cybersecurity firm to offer a thorough managed IT + security package</li>
           <li>Higher complexity but can create differentiated offerings</li>
         </ul>
 

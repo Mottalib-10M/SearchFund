@@ -37,7 +37,7 @@ export default function InternationalVsUSReturnsArticle() {
           Several features of the US market underpin these results. A deep pool of
           300+ active search fund investors provides searchers with capital,
           mentorship, and governance. SBA 7(a) loans offer acquisition financing
-          at favorable terms, allowing searchers to apply meaningful leverage. The
+          at favorable terms, allowing searchers to apply meaningful use. The
           M&amp;A exit market is the deepest in the world &mdash; strategic
           acquirers, private equity firms, and sponsor-backed recapitalizations
           create multiple exit pathways. And four decades of operational playbooks
@@ -133,16 +133,16 @@ export default function InternationalVsUSReturnsArticle() {
           periods, both of which reduce IRR.
         </p>
 
-        <h3 className={h3Class}>3. Leverage availability</h3>
+        <h3 className={h3Class}>3. Use availability</h3>
         <p>
           US searchers routinely use SBA 7(a) loans to finance 60&ndash;70% of
           acquisition cost at favorable rates. No equivalent program exists in
           most international markets. European searchers typically use
           conventional bank financing with lower loan-to-value ratios, or rely
-          more heavily on seller financing. Less leverage means more equity is
+          more heavily on seller financing. Less use means more equity is
           required, which mechanically reduces equity multiples. A deal acquired
-          at 4x EBITDA with 3:1 leverage in the US might return 8x equity on a
-          2x enterprise value gain, while the same deal with 1.5:1 leverage in
+          at 4x EBITDA with 3:1 use in the US might return 8x equity on a
+          2x enterprise value gain, while the same deal with 1.5:1 use in
           Europe returns 4x equity on the same operational improvement.
         </p>
 
@@ -286,7 +286,7 @@ export default function InternationalVsUSReturnsArticle() {
           <strong>Arguments against full convergence:</strong> Some structural
           disadvantages may persist. The fragmentation of European markets by
           language and regulation is a durable feature, not a temporary phase. The
-          absence of an SBA-equivalent lending program limits leverage across most
+          absence of an SBA-equivalent lending program limits use across most
           international markets. And the US M&amp;A exit market&rsquo;s depth
           &mdash; driven by the sheer scale of the US economy and its capital
           markets &mdash; is unlikely to be matched by any single European
@@ -375,7 +375,7 @@ export default function InternationalVsUSReturnsArticle() {
           Yes. European search funds typically acquire at 3&ndash;5x EBITDA vs.
           4.5&ndash;5.5x in the US. Latin American deals often close at
           2.5&ndash;4x. However, lower entry multiples do not automatically
-          translate to higher returns because exit multiples and leverage
+          translate to higher returns because exit multiples and use
           availability are also lower in most international markets.
         </p>
       </div>

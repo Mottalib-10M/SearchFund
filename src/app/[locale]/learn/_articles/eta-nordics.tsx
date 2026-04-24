@@ -58,7 +58,7 @@ export default function ETANordicsArticle() {
         <h3 className={h3Class}>Norway</h3>
         <p>
           Norway&apos;s economy, while heavily influenced by the oil and gas
-          sector, has a diverse SME landscape spanning aquaculture, maritime
+          sector, has a diverse SME market spanning aquaculture, maritime
           services, technology, and specialized manufacturing. With
           approximately 600,000 registered businesses and one of the
           highest GDP-per-capita figures globally, Norwegian businesses

@@ -6,7 +6,7 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
     <article>
       <h1 className={h1Class}>Business Broker Ecosystems by Country</h1>
       <div className={bodyClass}>
-        <p>Business brokers and M&amp;A intermediaries are the primary gateway to deal flow for search fund entrepreneurs. However, the structure, regulation, and maturity of the brokerage ecosystem varies dramatically by country. In some markets, sophisticated broker networks process thousands of listings; in others, deals happen through personal networks and accountant referrals. Understanding the intermediary landscape in your target geography is essential for efficient deal sourcing.</p>
+        <p>Business brokers and M&amp;A intermediaries are the primary gateway to deal flow for search fund entrepreneurs. However, the structure, regulation, and maturity of the brokerage ecosystem varies dramatically by country. In some markets, sophisticated broker networks process thousands of listings; in others, deals happen through personal networks and accountant referrals. Understanding the intermediary market in your target geography is essential for efficient deal sourcing.</p>
       </div>
 
       <h2 className={h2Class}>United States</h2>

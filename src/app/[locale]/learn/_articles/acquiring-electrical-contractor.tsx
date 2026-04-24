@@ -17,7 +17,7 @@ export default function AcquiringElectricalContractorArticle() {
           <Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">
             home services
           </Link>{" "}
-          landscape for search fund entrepreneurs. Every building requires
+          market for search fund entrepreneurs. Every building requires
           electricity, electrification trends are accelerating demand faster
           than the workforce can grow, and licensing requirements create a
           durable moat that keeps under-qualified competitors on the sideline.
@@ -349,7 +349,7 @@ export default function AcquiringElectricalContractorArticle() {
             <strong>Safety and liability:</strong> Arc flash, electrocution,
             and fire hazards create inherent risk. Verify OSHA compliance,
             review the safety program and incident history, and maintain
-            robust coverage. An EMR below 0.85 indicates strong safety
+            strong coverage. An EMR below 0.85 indicates strong safety
             culture.
           </li>
           <li>
@@ -412,7 +412,7 @@ export default function AcquiringElectricalContractorArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             ETA
           </Link>{" "}
-          landscape.
+          market.
         </p>
 
         <h2 className={h2Class}>Frequently Asked Questions</h2>

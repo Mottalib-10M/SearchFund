@@ -259,7 +259,7 @@ export default function StorageSelfStorageAcquisitionArticle() {
 
         <h3 className={h3Class}>Is self-storage still a good investment in 2025 given rising supply?</h3>
         <p>
-          The macro environment is more nuanced than during the pandemic-era boom. National occupancy has declined and new construction has added meaningful supply. However, cap rates have stabilized around 5.8%, rent declines appear to be moderating, and the fragmented ownership base continues to create acquisition opportunities at reasonable prices. The key is being selective: avoid oversupplied Sun Belt metros, target facilities with clear operational upside, and underwrite conservatively. Well-located facilities in supply-constrained markets remain strong investments.
+          The macro environment is more detailed than during the pandemic-era boom. National occupancy has declined and new construction has added meaningful supply. However, cap rates have stabilized around 5.8%, rent declines appear to be moderating, and the fragmented ownership base continues to create acquisition opportunities at reasonable prices. The key is being selective: avoid oversupplied Sun Belt metros, target facilities with clear operational upside, and underwrite conservatively. Well-located facilities in supply-constrained markets remain strong investments.
         </p>
       </div>
     </article>

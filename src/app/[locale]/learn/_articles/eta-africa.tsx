@@ -19,11 +19,11 @@ export default function ETAAfricaArticle() {
           </Link>. While{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European</Link>{" "}
           and North American search fund ecosystems have matured over decades, Africa&rsquo;s ETA
-          landscape is nascent&mdash;meaning early movers face less competition, larger information
+          market is nascent&mdash;meaning early movers face less competition, larger information
           asymmetries, and the chance to shape an entirely new asset class on the continent.
         </p>
 
-        <h2 className={h2Class}>Africa&rsquo;s economic landscape</h2>
+        <h2 className={h2Class}>Africa&rsquo;s economic market</h2>
         <p>
           Africa is not a monolith. It comprises 54 sovereign states, over 2,000 languages, and
           economies ranging from frontier to upper-middle income. Several continental trends create
@@ -58,7 +58,7 @@ export default function ETAAfricaArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>The SME landscape by country</h2>
+        <h2 className={h2Class}>The SME market by country</h2>
 
         <h3 className={h3Class}>Nigeria</h3>
         <p>
@@ -146,7 +146,7 @@ export default function ETAAfricaArticle() {
 
         <h2 className={h2Class}>Family business succession</h2>
         <p>
-          Africa&rsquo;s SME landscape is dominated by family-owned businesses, many established by
+          Africa&rsquo;s SME market is dominated by family-owned businesses, many established by
           the post-independence generation of entrepreneurs in the 1960s through 1980s. Founders are
           now in their 60s, 70s, and 80s, creating an unprecedented succession wave. Many
           second-generation family members have pursued professional careers, emigrated, or lack
@@ -230,7 +230,7 @@ export default function ETAAfricaArticle() {
 
         <h3 className={h3Class}>Local PE and impact funds</h3>
         <p>
-          Africa&rsquo;s PE landscape has evolved significantly. Firms such as Helios Investment
+          Africa&rsquo;s PE market has evolved significantly. Firms such as Helios Investment
           Partners, AfricInvest, and Investisseurs &amp; Partenaires operate across the continent.
           Impact-oriented funds focused on job creation, gender empowerment, and climate resilience
           may find ETA structures particularly aligned with their mandates.
@@ -339,7 +339,7 @@ export default function ETAAfricaArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Cultural bridge:</strong> Diaspora searchers navigate both international
+            <strong>Cultural bridge:</strong> Diaspora searchers manage both international
             investor expectations and African relational dynamics.
           </li>
           <li>

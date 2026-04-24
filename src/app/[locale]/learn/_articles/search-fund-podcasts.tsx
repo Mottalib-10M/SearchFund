@@ -4,7 +4,7 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 export const metadata = {
   title: "Top Search Fund Podcasts to Listen To",
   description:
-    "Comprehensive guide to the best search fund and ETA podcasts for searchers, investors, and aspiring entrepreneurs. Learn from experienced operators and dealmakers.",
+    "Thorough guide to the best search fund and ETA podcasts for searchers, investors, and aspiring entrepreneurs. Learn from experienced operators and dealmakers.",
   readTime: "8 min read",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
@@ -52,7 +52,7 @@ export default function SearchFundPodcastsArticle() {
       <section className="mb-12">
         <h2 className={h2Class}>Why Podcasts Are Essential for ETA Learning</h2>
         <p className={bodyClass}>
-          The entrepreneurship through acquisition landscape evolves rapidly, with new deal
+          The entrepreneurship through acquisition market evolves rapidly, with new deal
           structures, financing options, and market dynamics emerging constantly. Podcasts have
           become an invaluable resource for searchers, investors, and aspiring entrepreneurs to
           stay current, learn from real-world experiences, and avoid costly mistakes.
@@ -171,7 +171,7 @@ export default function SearchFundPodcastsArticle() {
           Acquiring Minds is the gold standard for traditional search fund education. Will Smith
           brings extensive experience from both sides of the table - as a searcher who successfully
           acquired and operated a business, and as an investor who has backed multiple search
-          funds. This dual perspective makes for nuanced conversations that address both searcher
+          funds. This dual perspective makes for detailed conversations that address both searcher
           and investor concerns.
         </p>
         <p className={bodyClass}>
@@ -192,7 +192,7 @@ export default function SearchFundPodcastsArticle() {
           <strong>Standout Episodes:</strong>
           <ul className={ulClass}>
             <li>
-              "Anatomy of a Search Fund Deal" - A comprehensive walkthrough of a real acquisition
+              "Anatomy of a Search Fund Deal" - A thorough walkthrough of a real acquisition
               from initial outreach to closing, including all the bumps and negotiations along the
               way
             </li>
@@ -242,7 +242,7 @@ export default function SearchFundPodcastsArticle() {
           and anyone interested in creative M&A techniques
         </p>
         <p className={bodyClass}>
-          How2Exit takes a broader view of the M&A landscape, covering not just acquisition
+          How2Exit takes a broader view of the M&A market, covering not just acquisition
           strategies but also exit planning, deal structuring innovations, and the full ecosystem
           of service providers that make transactions happen. While not exclusively focused on
           search funds, the podcast provides invaluable insights for searchers, particularly around
@@ -459,7 +459,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           Episodes often follow a narrative arc, taking listeners through a searcher's complete
           journey from deciding to pursue ETA through fundraising, search process, acquisition,
-          and the first year of operations. This comprehensive storytelling helps aspiring searchers
+          and the first year of operations. This thorough storytelling helps aspiring searchers
           understand what the full journey actually looks like, beyond the highlight reel of
           successfully completed deals.
         </p>
@@ -513,7 +513,7 @@ export default function SearchFundPodcastsArticle() {
         <p className={bodyClass}>
           While the podcasts above are primarily US-focused, European searchers have different
           considerations around deal structures, financing options, investor expectations, and
-          market dynamics. Several podcasts specifically address the European ETA landscape.
+          market dynamics. Several podcasts specifically address the European ETA market.
         </p>
 
         <h3 className={h3Class}>European Search Fund Podcast</h3>
@@ -527,7 +527,7 @@ export default function SearchFundPodcastsArticle() {
 
         <h3 className={h3Class}>SME Acquisition Podcast (UK)</h3>
         <p className={bodyClass}>
-          Covers the UK small business acquisition market, with particular focus on how to navigate
+          Covers the UK small business acquisition market, with particular focus on how to manage
           British business culture, HMRC considerations, Companies House filings, and UK-specific
           financing options. Valuable for American searchers considering cross-border deals or
           Europeans new to the acquisition space.
@@ -551,7 +551,7 @@ export default function SearchFundPodcastsArticle() {
         </p>
 
         <div className={bodyClass}>
-          <strong>Week 1: Understanding the ETA Landscape</strong>
+          <strong>Week 1: Understanding the ETA market</strong>
           <ol className={olClass}>
             <li>
               Acquiring Minds: "Introduction to Search Funds" - Provides overview of the traditional

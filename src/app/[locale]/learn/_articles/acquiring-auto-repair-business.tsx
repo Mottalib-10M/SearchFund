@@ -58,7 +58,7 @@ export default function AcquiringAutoRepairBusinessArticle() {
             majority of auto repair shops are single-location, owner-operated
             businesses generating $500K&ndash;$3M in revenue. No single operator holds
             meaningful national market share outside of franchise chains. This
-            fragmentation creates an ideal landscape for{" "}
+            fragmentation creates an ideal market for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>{" "}
             that aggregate local shops into multi-location platforms.
           </li>

@@ -361,7 +361,7 @@ export default function SBA7aLoansAcquisitionArticle() {
           <li>Cash flows are volatile, project-based, or declining</li>
           <li>The business is in an SBA-ineligible industry</li>
           <li>You need to close in under 45 days (SBA timeline is typically 60&ndash;90 days)</li>
-          <li>You&rsquo;re not comfortable with a personal guarantee on 80%+ leverage</li>
+          <li>You&rsquo;re not comfortable with a personal guarantee on 80%+ use</li>
           <li>The target is outside the United States</li>
         </ul>
         <p>
@@ -384,7 +384,7 @@ export default function SBA7aLoansAcquisitionArticle() {
           full ownership &mdash; a proposition that is virtually impossible
           with any other financing structure. But SBA financing is not free
           money. The personal guarantee means you are putting your financial
-          life on the line, and the 80% leverage leaves little room for error.
+          life on the line, and the 80% use leaves little room for error.
           Success requires disciplined target selection, rigorous due
           diligence, conservative financial projections, and a deep
           understanding of the program&rsquo;s rules and requirements.
@@ -397,7 +397,7 @@ export default function SBA7aLoansAcquisitionArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             entrepreneurship through acquisition
           </Link>{" "}
-          landscape, explore our guides on{" "}
+          market, explore our guides on{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
             acquisition financing
           </Link>,{" "}

@@ -6,7 +6,7 @@ export default function LtdvsLLPUKArticle() {
     <article>
       <h1 className={h1Class}>Ltd vs. LLP: UK Entity Structures for Acquisitions</h1>
       <div className={bodyClass}>
-        <p>When acquiring a business in the <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">United Kingdom</Link>, the two most common legal structures you&apos;ll encounter are the Private Limited Company (Ltd) and the Limited Liability Partnership (LLP). According to Companies House data, there are over 5 million active Ltd companies and approximately 65,000 active LLPs registered in the UK. Understanding their differences is crucial for structuring your acquisition, managing tax obligations, and planning for governance and exit.</p>
+        <p>When acquiring a business in the <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">United Kingdom</Link>, the two most common legal structures you&apos;ll encounter are the Private Limited Company (Ltd) and the Limited Liability Partnership (LLP). According to Companies House data, there are over 5 million active Ltd companies and approximately 65,000 active LLPs registered in the UK. Understanding their differences is critical for structuring your acquisition, managing tax obligations, and planning for governance and exit.</p>
       </div>
 
       <h2 className={h2Class}>Private Limited Company (Ltd)</h2>

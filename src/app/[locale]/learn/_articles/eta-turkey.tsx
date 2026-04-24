@@ -18,8 +18,8 @@ export default function ETATurkeyArticle() {
           scale, demographic energy, and structural deal flow that is
           difficult to match anywhere in the{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
-            European ETA landscape
-          </Link>. Yet Turkey also demands a nuanced understanding of its
+            European ETA market
+          </Link>. Yet Turkey also demands a detailed understanding of its
           regulatory environment, currency dynamics, and deeply
           relationship-driven business culture. For searchers who invest the
           time to learn the terrain, the rewards can be extraordinary &mdash;
@@ -63,7 +63,7 @@ export default function ETATurkeyArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>SME landscape and the succession wave</h2>
+        <h2 className={h2Class}>SME market and the succession wave</h2>
         <p>
           Turkey&rsquo;s 3.5 million SMEs account for roughly 73% of total
           employment, 62% of exports, and 50% of GDP. The overwhelming
@@ -402,7 +402,7 @@ export default function ETATurkeyArticle() {
             months to decide. Budget 18&ndash;30 months for the search.
           </li>
           <li>
-            <strong>Leverage the EU customs union:</strong> Duty-free
+            <strong>Use the EU customs union:</strong> Duty-free
             industrial exports to Europe plus lower Turkish labor costs is a
             powerful value creation lever for manufacturing targets.
           </li>
@@ -413,7 +413,7 @@ export default function ETATurkeyArticle() {
           Turkey stands at an inflection point for ETA. A massive succession
           wave, a young and entrepreneurial population, growing institutional
           awareness, and valuations well below Western European levels create
-          a compelling opportunity for searchers willing to navigate the
+          a compelling opportunity for searchers willing to manage the
           complexity. The challenges &mdash; currency risk, regulatory
           uncertainty, deep cultural engagement &mdash; serve as barriers to
           entry that reduce competition and preserve attractive economics.
@@ -447,7 +447,7 @@ export default function ETATurkeyArticle() {
 
         <h3 className={h3Class}>Can a foreign national acquire and operate a business in Turkey?</h3>
         <p>
-          Yes. Turkey permits 100% foreign ownership in most sectors, with no general screening requirement for foreign acquisitions. The standard process involves incorporating a Turkish A.&Scedil;. (joint-stock company) or acquiring shares in an existing entity, with the transaction registered through the Trade Registry and reported to the Central Bank. Foreign nationals can obtain work permits through their Turkish company, though the process typically takes 4&ndash;8 weeks and requires demonstrating that the position cannot be filled by a Turkish national. According to Turkey&rsquo;s Investment Office, the country has signed bilateral investment treaties with over 80 countries and is an OECD member with strong investor protections. KOSGEB subsidized credit programs and KGF loan guarantees are generally available to companies with Turkish operations regardless of ownership nationality. For an overview of how Turkish ETA fits into the broader landscape, see our{" "}
+          Yes. Turkey permits 100% foreign ownership in most sectors, with no general screening requirement for foreign acquisitions. The standard process involves incorporating a Turkish A.&Scedil;. (joint-stock company) or acquiring shares in an existing entity, with the transaction registered through the Trade Registry and reported to the Central Bank. Foreign nationals can obtain work permits through their Turkish company, though the process typically takes 4&ndash;8 weeks and requires demonstrating that the position cannot be filled by a Turkish national. According to Turkey&rsquo;s Investment Office, the country has signed bilateral investment treaties with over 80 countries and is an OECD member with strong investor protections. KOSGEB subsidized credit programs and KGF loan guarantees are generally available to companies with Turkish operations regardless of ownership nationality. For an overview of how Turkish ETA fits into the broader market, see our{" "}
           <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">best countries to buy a business</Link>{" "}
           ranking.
         </p>

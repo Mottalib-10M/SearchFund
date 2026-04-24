@@ -16,7 +16,7 @@ export default function GettingStartedArticle() {
           School of Business in 1984 and has since grown into a well-established
           path for aspiring CEOs who want to skip the corporate ladder and go
           straight to running their own company. For a broader overview of the
-          acquisition landscape, see our guide on{" "}
+          acquisition market, see our guide on{" "}
           <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
             how to buy a small business
           </Link>.
@@ -123,7 +123,7 @@ export default function GettingStartedArticle() {
         <p>
           The acquisition phase typically lasts three to six months from signed
           letter of intent to closing. During this period, the searcher conducts
-          a comprehensive quality of earnings analysis, legal review, customer
+          a thorough quality of earnings analysis, legal review, customer
           and vendor diligence, and operational assessment. They also negotiate
           the definitive purchase agreement, arrange debt financing (often SBA
           loans in the US or bank financing in Europe), and coordinate the equity
@@ -253,9 +253,9 @@ export default function GettingStartedArticle() {
           path for MBA graduates who wanted to become CEOs. The concept crossed the
           Atlantic in the early 2010s, when MBA graduates from IESE, INSEAD, HEC
           Paris, and London Business School began raising search funds focused on
-          European markets. INSEAD has played a pivotal role in this expansion,
+          European markets. INSEAD has played a key role in this expansion,
           establishing its dedicated ETA & Search Funds Hub - one of the most
-          comprehensive platforms for ETA research, education, and community building
+          thorough platforms for ETA research, education, and community building
           in Europe and globally. Today, INSEAD alumni are among the most active
           search fund entrepreneurs and investors in Europe, Africa, and Asia.
         </p>
@@ -295,7 +295,7 @@ export default function GettingStartedArticle() {
           <li>European search funds have grown from fewer than 10 per year in 2010 to over 80 per year as of 2024.</li>
         </ul>
         <p>
-          The Stanford GSB 2024 study - the most comprehensive longitudinal
+          The Stanford GSB 2024 study - the most thorough longitudinal
           dataset on search fund performance - reports an aggregate return of
           approximately 33% IRR and 5.5x multiple on invested capital (MOIC)
           across all funds in the dataset. Roughly 70% of searchers successfully

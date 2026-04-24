@@ -13,7 +13,7 @@ export default function APAGuideArticle() {
         <p>
           An Asset Purchase Agreement (APA) is the single most important
           document you will sign as a business buyer&mdash;yet most
-          first-time acquirers underestimate how much leverage sits inside
+          first-time acquirers underestimate how much use sits inside
           its clauses. In roughly 80% of small-business acquisitions under
           $10&thinsp;M, the deal is structured as an asset purchase rather
           than a{" "}
@@ -424,7 +424,7 @@ export default function APAGuideArticle() {
             courts may hold the buyer liable for the seller&rsquo;s
             pre-closing obligations if the buyer continues the same
             business with substantially the same employees and
-            operations. Comprehensive indemnification and
+            operations. Thorough indemnification and
             representations &amp; warranties insurance (RWI) can
             mitigate this risk.</li>
           <li><strong>Employee re-hiring failures:</strong> In an
@@ -500,7 +500,7 @@ export default function APAGuideArticle() {
             &ldquo;bring-down&rdquo; reps (seller must re-certify
             accuracy at closing), knowledge qualifiers limited to
             &ldquo;actual knowledge after reasonable inquiry,&rdquo;
-            and comprehensive disclosure schedules that update
+            and thorough disclosure schedules that update
             between signing and closing.</li>
           <li><strong>Indemnification:</strong> Negotiate a tipping
             basket (not a true deductible), a cap of at least 20%&ndash;25%
@@ -580,7 +580,7 @@ export default function APAGuideArticle() {
           newer underwriters are offering policies for transactions as
           small as $5&thinsp;M. For sub-$5&thinsp;M acquisitions, a
           well-structured escrow holdback of 15%&ndash;20% of the
-          purchase price, combined with robust indemnification provisions,
+          purchase price, combined with strong indemnification provisions,
           typically provides adequate protection at a fraction of
           the cost.
         </p>

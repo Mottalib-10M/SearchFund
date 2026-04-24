@@ -511,7 +511,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         <li>
           <strong>Operational synergies:</strong> Ability to dramatically reduce
           costs by consolidating operations, eliminating duplicative functions,
-          or leveraging your existing infrastructure
+          or using your existing infrastructure
         </li>
       </ul>
 

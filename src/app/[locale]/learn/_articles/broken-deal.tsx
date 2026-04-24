@@ -278,7 +278,7 @@ export default function BrokenDealArticle() {
         </ul>
 
         <p>
-          The right response is nuanced adjustment, not binary reversal. Each deal should make
+          The right response is detailed adjustment, not binary reversal. Each deal should make
           you slightly more sophisticated, not dramatically more conservative or aggressive.
         </p>
       </div>

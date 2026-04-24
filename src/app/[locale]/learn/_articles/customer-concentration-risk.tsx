@@ -62,13 +62,13 @@ export default function CustomerConcentrationRiskArticle() {
         <ul className={ulClass}>
           <li>SBA lenders flag customer concentration above 15&ndash;20% in a single customer</li>
           <li>Some lenders will decline to finance if concentration exceeds 25&ndash;30%</li>
-          <li>Concentrated businesses may require lower leverage (reducing the amount you can borrow)</li>
+          <li>Concentrated businesses may require lower use (reducing the amount you can borrow)</li>
           <li>Lenders may require key customer contracts as a condition of the loan</li>
         </ul>
 
         <h3 className={h3Class}>Operational risk</h3>
         <ul className={ulClass}>
-          <li>Key customers have disproportionate negotiating leverage (they can demand discounts, extended payment terms, or better service)</li>
+          <li>Key customers have disproportionate negotiating use (they can demand discounts, extended payment terms, or better service)</li>
           <li>The customer may renegotiate or leave during the ownership transition</li>
           <li>Customer concentration limits your strategic options (you can&rsquo;t raise prices if your biggest customer threatens to leave)</li>
         </ul>
@@ -127,7 +127,7 @@ export default function CustomerConcentrationRiskArticle() {
           <li><strong>Deepen key relationships:</strong> Build multiple contact points within key accounts (not just one person)</li>
           <li><strong>Add value to key accounts:</strong> Introduce new services, improve responsiveness, increase switching costs</li>
           <li><strong>Sales and marketing investment:</strong> Allocate budget specifically toward new customer acquisition to reduce concentration over time</li>
-          <li><strong>Strategic pricing:</strong> Gradually increase pricing for concentrated customers toward market rates (they may be under-priced due to their leverage)</li>
+          <li><strong>Strategic pricing:</strong> Gradually increase pricing for concentrated customers toward market rates (they may be under-priced due to their use)</li>
         </ul>
 
         <h2 className={h2Class}>When to accept concentration risk</h2>
@@ -189,7 +189,7 @@ export default function CustomerConcentrationRiskArticle() {
           SBA lenders flag customer concentration above 15&ndash;20% in a single
           customer, and some lenders will decline to finance if concentration
           exceeds 25&ndash;30%. Concentrated businesses typically receive lower
-          leverage (2&ndash;3x EBITDA vs. 3&ndash;5x for diversified peers),
+          use (2&ndash;3x EBITDA vs. 3&ndash;5x for diversified peers),
           reducing the amount you can borrow. Lenders may also require key
           customer contracts or personal guarantees as additional conditions.
           This financing impact compounds the valuation discount, making

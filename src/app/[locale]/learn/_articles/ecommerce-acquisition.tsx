@@ -13,7 +13,7 @@ export default function EcommerceAcquisitionArticle() {
           dynamic &mdash; and most volatile &mdash; sectors for search fund
           acquisitions. The appeal is obvious: digital-native businesses with
           global reach, scalable operations, and the potential for rapid
-          growth. But the e-commerce acquisition landscape has been shaped
+          growth. But the e-commerce acquisition market has been shaped
           by hard-won lessons from the aggregator era of 2020-2023, when
           companies like Thrasio, Perch, and dozens of others raised
           billions to acquire Amazon FBA businesses, only to discover that
@@ -34,7 +34,7 @@ export default function EcommerceAcquisitionArticle() {
 
         <h3 className={h3Class}>Amazon FBA businesses</h3>
         <p>
-          Amazon FBA (Fulfillment by Amazon) businesses leverage Amazon&apos;s
+          Amazon FBA (Fulfillment by Amazon) businesses use Amazon&apos;s
           marketplace, logistics, and customer base. The seller ships
           inventory to Amazon&apos;s warehouses, and Amazon handles
           storage, picking, packing, shipping, and customer service. This
@@ -77,7 +77,7 @@ export default function EcommerceAcquisitionArticle() {
             <strong>Cons:</strong> Must drive traffic independently
             (typically through paid social, SEO, and influencer marketing),
             higher customer acquisition costs, fulfillment complexity, and
-            the need for a more robust technology and marketing team.
+            the need for a more strong technology and marketing team.
           </li>
         </ul>
 
@@ -86,7 +86,7 @@ export default function EcommerceAcquisitionArticle() {
           The strongest e-commerce businesses sell across multiple
           channels: their own D2C website, Amazon, Walmart Marketplace,
           and potentially wholesale and retail distribution. Multi-channel
-          businesses reduce platform dependency risk and can leverage each
+          businesses reduce platform dependency risk and can use each
           channel&apos;s strengths while mitigating its weaknesses.
           During due diligence, assess the revenue split across channels,
           profitability by channel (Amazon is often the lowest-margin
@@ -341,7 +341,7 @@ export default function EcommerceAcquisitionArticle() {
           Launching adjacent products to the existing customer base is
           one of the most capital-efficient growth strategies. A brand
           selling premium yoga mats might expand into yoga blocks,
-          straps, and bags. Product line extensions leverage existing
+          straps, and bags. Product line extensions use existing
           brand equity, customer relationships, and marketing channels.
           The key is maintaining brand coherence &mdash; extensions should
           feel natural to existing customers.
@@ -394,7 +394,7 @@ export default function EcommerceAcquisitionArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>The aggregator landscape and lessons learned</h2>
+        <h2 className={h2Class}>The aggregator market and lessons learned</h2>
         <p>
           The Amazon aggregator wave of 2020-2023 provides invaluable
           lessons for search fund entrepreneurs considering e-commerce
@@ -476,7 +476,7 @@ export default function EcommerceAcquisitionArticle() {
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>
-          <li>Marketplace Pulse, <em>State of Amazon FBA Aggregators</em> (2024) &mdash; comprehensive analysis of aggregator performance, deal multiples, and lessons learned</li>
+          <li>Marketplace Pulse, <em>State of Amazon FBA Aggregators</em> (2024) &mdash; thorough analysis of aggregator performance, deal multiples, and lessons learned</li>
           <li>Shopify, <em>The State of Commerce Report</em> (2024) &mdash; D2C brand benchmarks for CAC, retention, and channel performance</li>
           <li>Digital Commerce 360, <em>US E-commerce Market Report</em> (2024) &mdash; industry-wide data on e-commerce growth, return rates, and unit economics by category</li>
         </ul>

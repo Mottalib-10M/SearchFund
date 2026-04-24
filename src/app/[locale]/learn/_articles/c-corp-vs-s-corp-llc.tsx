@@ -354,7 +354,7 @@ export default function CCorpVsSCorpLLCArticle() {
         </ul>
 
         <p>
-          For a comprehensive view of structuring decisions beyond entity choice, see our
+          For a thorough view of structuring decisions beyond entity choice, see our
           guides on{" "}
           <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">search fund legal structure</Link>{" "}
           and{" "}
@@ -400,7 +400,7 @@ export default function CCorpVsSCorpLLCArticle() {
           in 2025. Most search fund target industries (services, manufacturing, distribution)
           are not specified service trades, so the full deduction applies regardless of income.
           The deduction was made permanent by the{" "}
-          <a href="https://www.foster.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">One Big Beautiful Bill Act in 2025</a>.
+          <a href="https://www.build.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">One Big Beautiful Bill Act in 2025</a>.
         </p>
 
         <h3 className={h3Class}>Can I convert from S-Corp to C-Corp mid-hold to get QSBS at exit?</h3>

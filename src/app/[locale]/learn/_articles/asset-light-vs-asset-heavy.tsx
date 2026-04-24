@@ -45,7 +45,7 @@ export default function AssetLightVsAssetHeavyArticle() {
         <ul className={ulClass}>
           <li><strong>Higher barriers to entry:</strong> Equipment, licenses, permits, and facilities protect against new competitors</li>
           <li><strong>Lower key-person risk:</strong> Value is in assets, not individual relationships. Less dependent on specific employees.</li>
-          <li><strong>Collateral for financing:</strong> Physical assets can be pledged as loan collateral, often enabling higher leverage</li>
+          <li><strong>Collateral for financing:</strong> Physical assets can be pledged as loan collateral, often enabling higher use</li>
           <li><strong>Real estate appreciation:</strong> Facilities and land can appreciate in value independently of operations</li>
           <li><strong>Route/territory protection:</strong> Geographic density creates natural competitive advantages (waste routes, delivery areas)</li>
         </ul>

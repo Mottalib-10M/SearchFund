@@ -423,7 +423,7 @@ export default function DDRedFlagsArticle() {
       </ol>
 
       <p className={bodyClass}>
-        One successful searcher walked away from three deals during due diligence before closing on the fourth. Each failed deal taught valuable lessons about screening, due diligence, and negotiation. The business she ultimately acquired performed exceptionally well, and she credits the discipline to walk away from the first three as crucial to her success.
+        One successful searcher walked away from three deals during due diligence before closing on the fourth. Each failed deal taught valuable lessons about screening, due diligence, and negotiation. The business she ultimately acquired performed exceptionally well, and she credits the discipline to walk away from the first three as critical to her success.
       </p>
 
       <p className={bodyClass}>

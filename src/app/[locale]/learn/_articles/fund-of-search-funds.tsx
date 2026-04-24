@@ -66,7 +66,7 @@ export default function FundOfSearchFundsArticle() {
       <h2 className={h2Class}>Who Runs Fund-of-Search-Funds: Five Firms to Know</h2>
       <div className={bodyClass}>
         <p>
-          The FoSF landscape has grown from a handful of pioneers to a global ecosystem of dedicated vehicles. Here are the key players shaping the space:
+          The FoSF market has grown from a handful of pioneers to a global ecosystem of dedicated vehicles. Here are the key players shaping the space:
         </p>
 
         <p>
@@ -188,7 +188,7 @@ export default function FundOfSearchFundsArticle() {
             <Link href="/learn/risk-factors-search-fund-investing" className="text-apple-accent hover:underline">risk factors guide</Link>, fee drag is one of the most underappreciated risks in search fund allocations.
           </li>
           <li><strong>Illiquidity and long lock-up.</strong> A 10&ndash;12 year fund life with limited secondary market liquidity means capital is locked for a decade or more. Extensions are common. LPs should underwrite a 12&ndash;14 year total commitment period.</li>
-          <li><strong>Manager selection risk.</strong> A first-time FoSF manager without an established track record may struggle with searcher sourcing, portfolio construction, and governance. The Yale study&rsquo;s finding that realized returns vary dramatically by investor underscores how much the GP&rsquo;s selection skill matters.</li>
+          <li><strong>Manager selection risk.</strong> A first-time FoSF manager without an established track record may struggle with searcher sourcing, portfolio construction, and governance. The Yale study&rsquo;s finding that realized returns vary dramatically by investor highlights how much the GP&rsquo;s selection skill matters.</li>
           <li><strong>Limited control.</strong> LPs have no say in which searchers the GP backs or which acquisitions receive co-investment capital. Investors who want deal-level discretion should consider direct investing or a hybrid model.</li>
           <li><strong>Concentration risk within the FoSF.</strong> Smaller FoSF vehicles (&euro;15&ndash;20M) may only back 15&ndash;20 searchers, which may be insufficient to smooth the binary outcome distribution. LPs should ask about target portfolio size during diligence.</li>
         </ul>

@@ -18,7 +18,7 @@ export default function WorkingWithBrokersArticle() {
           of opportunities that reach your desk. But brokers work for sellers,
           not buyers&mdash;a structural reality that creates specific dynamics
           you need to understand before your first phone call. This guide
-          covers the intermediary landscape by deal size, how commissions
+          covers the intermediary market by deal size, how commissions
           actually work, what makes brokers prioritize certain buyers, how to
           read a CIM with healthy skepticism, and how to manage the
           relationship from first contact through closing day.
@@ -115,7 +115,7 @@ export default function WorkingWithBrokersArticle() {
         <p>
           Commission structures vary by deal size, as documented by{" "}
           <a
-            href="https://morganandwestfield.com/knowledge/business-broker-and-ma-advisor-fees-a-comprehensive-guide/"
+            href="https://morganandwestfield.com/knowledge/business-broker-and-ma-advisor-fees-a-thorough-guide/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

@@ -10,7 +10,7 @@ export default function First100DaysArticle() {
       <div className={bodyClass}>
         <p>
           The first 100 days after acquiring a company are critical. How you
-          navigate this period will set the tone for your entire tenure as CEO.
+          manage this period will set the tone for your entire tenure as CEO.
           Here is a structured approach based on insights from successful search
           fund operators and research from Stanford, IESE, and INSEAD&apos;s ETA &
           Search Funds Hub. Every decision you make &mdash; and every decision
@@ -144,7 +144,7 @@ export default function First100DaysArticle() {
         <h3 className={h3Class}>Vendors and suppliers</h3>
         <ul className={ulClass}>
           <li><strong>Reaffirm existing relationships:</strong> Contact your key suppliers to introduce yourself and confirm that existing arrangements will continue. Vendor relationships are often more fragile than they appear &mdash; a change in ownership can trigger renegotiation of terms or credit reviews.</li>
-          <li><strong>Review contracts and terms:</strong> Use the ownership transition as an opportunity to review vendor contracts, but resist the urge to renegotiate aggressively in the first few months. Building trust now creates leverage for better terms later.</li>
+          <li><strong>Review contracts and terms:</strong> Use the ownership transition as an opportunity to review vendor contracts, but resist the urge to renegotiate aggressively in the first few months. Building trust now creates use for better terms later.</li>
         </ul>
 
         <h2 className={h2Class}>Financial controls to establish immediately</h2>
@@ -163,12 +163,12 @@ export default function First100DaysArticle() {
           <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital management</Link>{" "}
           for a deeper dive.</li>
           <li><strong>Insurance review:</strong> Confirm that all insurance policies are current and adequate. Ownership changes often trigger notification requirements in insurance contracts; failing to notify your carriers can void coverage.</li>
-          <li><strong>Debt covenant compliance:</strong> If the acquisition was financed with debt (as most are), establish a monthly process for tracking covenant compliance. Missing a covenant can trigger default provisions and give lenders significant leverage over the business.</li>
+          <li><strong>Debt covenant compliance:</strong> If the acquisition was financed with debt (as most are), establish a monthly process for tracking covenant compliance. Missing a covenant can trigger default provisions and give lenders significant use over the business.</li>
         </ul>
 
         <h2 className={h2Class}>The seller relationship during transition</h2>
         <p>
-          The relationship with the departing seller is one of the most nuanced
+          The relationship with the departing seller is one of the most detailed
           and important dynamics in the first 100 days. Handled well, the
           seller becomes an invaluable resource. Handled poorly, the
           transition can become adversarial and damaging.
@@ -196,7 +196,7 @@ export default function First100DaysArticle() {
           Finally, remember that the first 100 days are also a period of
           intense personal growth. You are likely stepping into a CEO role for
           the first time, managing a team that did not choose you, and
-          navigating an industry you may still be learning. Give yourself
+          managing an industry you may still be learning. Give yourself
           grace. The skills you develop during this period &mdash; listening,
           empathy, decisiveness, humility &mdash; will serve you for the
           rest of your career.

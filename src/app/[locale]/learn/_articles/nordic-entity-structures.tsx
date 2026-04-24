@@ -20,7 +20,7 @@ export default function NordicEntityStructuresArticle() {
           principal entity types in each Nordic jurisdiction, their tax
           regimes, labor law considerations, and the structural planning
           needed for successful acquisitions across the region. For a broader
-          overview of the Nordic ETA landscape, see our guide to{" "}
+          overview of the Nordic ETA market, see our guide to{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
         </p>
 
@@ -331,7 +331,7 @@ export default function NordicEntityStructuresArticle() {
         <p>
           Nordic labor law is characterized by strong employee protections,
           high unionization rates, and the &ldquo;flexicurity&rdquo; model
-          that balances labor market flexibility with robust social safety
+          that balances labor market flexibility with strong social safety
           nets. For search fund acquirers, understanding labor law is critical
           because employment costs and constraints directly affect
           operational flexibility and profitability.
@@ -482,7 +482,7 @@ export default function NordicEntityStructuresArticle() {
         <h2 className={h2Class}>Practical recommendations</h2>
         <p>
           For search fund entrepreneurs targeting the Nordic market, the
-          following practical steps will help navigate the structural
+          following practical steps will help manage the structural
           complexity:
         </p>
         <ul className={ulClass}>
@@ -533,7 +533,7 @@ export default function NordicEntityStructuresArticle() {
 
         <h3 className={h3Class}>What are the minimum capital requirements for acquiring a Nordic company?</h3>
         <p>
-          Minimum share capital requirements vary across the Nordics: Finland has the lowest at EUR 2,500 for a private Oy, followed by Sweden at SEK 25,000 (approximately EUR 2,200) for a private AB, Norway at NOK 30,000 (approximately EUR 2,600) for an AS, and Denmark at DKK 40,000 (approximately EUR 5,400) for an ApS. These minimums apply to the corporate entity itself, not to the acquisition vehicle&rsquo;s total capitalization. For search fund acquisitions, the holding company will typically need substantially more capital &mdash; comprising the management team&rsquo;s equity contribution, co-investor equity, and any shareholder loans &mdash; to fund the acquisition. According to the IESE Business School&rsquo;s 2024 international search fund study, Nordic search fund acquisitions typically range from EUR 2&ndash;15 million in enterprise value, requiring total equity commitments of EUR 1&ndash;5 million depending on leverage and seller financing availability.
+          Minimum share capital requirements vary across the Nordics: Finland has the lowest at EUR 2,500 for a private Oy, followed by Sweden at SEK 25,000 (approximately EUR 2,200) for a private AB, Norway at NOK 30,000 (approximately EUR 2,600) for an AS, and Denmark at DKK 40,000 (approximately EUR 5,400) for an ApS. These minimums apply to the corporate entity itself, not to the acquisition vehicle&rsquo;s total capitalization. For search fund acquisitions, the holding company will typically need substantially more capital &mdash; comprising the management team&rsquo;s equity contribution, co-investor equity, and any shareholder loans &mdash; to fund the acquisition. According to the IESE Business School&rsquo;s 2024 international search fund study, Nordic search fund acquisitions typically range from EUR 2&ndash;15 million in enterprise value, requiring total equity commitments of EUR 1&ndash;5 million depending on use and seller financing availability.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

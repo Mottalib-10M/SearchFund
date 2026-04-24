@@ -90,7 +90,7 @@ export default function RecurringRevenueModelsArticle() {
           acquisition:
         </p>
         <ul className={ulClass}>
-          <li><strong>Higher leverage:</strong> Lenders extend more debt (3&ndash;5x EBITDA) for businesses with 70%+ recurring revenue vs. 2&ndash;3x for non-recurring</li>
+          <li><strong>Higher use:</strong> Lenders extend more debt (3&ndash;5x EBITDA) for businesses with 70%+ recurring revenue vs. 2&ndash;3x for non-recurring</li>
           <li><strong>Better terms:</strong> Lower interest rates and more flexible covenants for predictable cash flows</li>
           <li><strong>SBA eligibility:</strong>{" "}
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">

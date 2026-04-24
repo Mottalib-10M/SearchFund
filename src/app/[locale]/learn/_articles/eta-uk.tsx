@@ -20,7 +20,7 @@ export default function ETAUKArticle() {
           to acquire and operate businesses across the country.
         </p>
 
-        <h2 className={h2Class}>The UK market landscape</h2>
+        <h2 className={h2Class}>The UK market environment</h2>
         <p>
           According to the UK Department for Business and Trade, the UK is home
           to roughly 5.5 million SMEs, which account for over 99% of all
@@ -79,7 +79,7 @@ export default function ETAUKArticle() {
         <h3 className={h3Class}>Senior debt</h3>
         <p>
           UK clearing banks&mdash;including NatWest, HSBC, Lloyds, and Barclays&mdash;all
-          have dedicated SME acquisition finance teams. Typical leverage for a
+          have dedicated SME acquisition finance teams. Typical use for a
           search fund acquisition ranges from 2.5x to 4x EBITDA, depending on the
           quality of the business, sector, and the acquirer&apos;s experience. Interest
           rates are generally competitive, and loan tenors of five to seven years
@@ -93,7 +93,7 @@ export default function ETAUKArticle() {
           scheme provides a government-backed guarantee of up to 75% of the loan
           amount for viable businesses that lack sufficient collateral. The Start
           Up Loans program, while primarily aimed at new businesses, can
-          occasionally be leveraged for acquisition scenarios. The BBB also
+          occasionally be used for acquisition scenarios. The BBB also
           supports a network of regional funds and lending programs that can
           complement senior debt.
         </p>
@@ -148,7 +148,7 @@ export default function ETAUKArticle() {
 
         <h2 className={h2Class}>Deal sourcing in the UK</h2>
         <p>
-          For a comprehensive overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
+          For a thorough overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
         </p>
         <h3 className={h3Class}>Business brokers and intermediaries</h3>
         <p>
@@ -242,7 +242,7 @@ export default function ETAUKArticle() {
           <li><strong>Accountants and tax advisors:</strong> A qualified chartered accountant with experience in business transfers can advise on financial due diligence, tax structuring (including EIS eligibility), and post-completion reporting.</li>
           <li><strong>Corporate finance advisors:</strong> For larger transactions, a corporate finance advisor can help negotiate terms, structure the deal, and manage the process.</li>
           <li><strong>Insurance brokers:</strong> Warranty and indemnity (W&amp;I) insurance is increasingly common in UK SME transactions, providing additional protection for the buyer.</li>
-          <li><strong>Search fund investors:</strong> UK-based search fund investors bring not only capital but also operational expertise, board experience, and connections to other portfolio companies.</li>
+          <li><strong>Search fund investors:</strong> UK-based search fund investors bring capital along with operational expertise, board experience, and connections to other portfolio companies.</li>
         </ul>
 
         <h2 className={h2Class}>Typical deal parameters</h2>

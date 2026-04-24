@@ -16,7 +16,7 @@ export default function OnlineBusinessMarketplacesArticle() {
             deal sourcing channel
           </Link>{" "}
           for search fund entrepreneurs. While they represent only one
-          piece of a comprehensive sourcing strategy, marketplaces offer
+          piece of a thorough sourcing strategy, marketplaces offer
           volume, transparency, and efficiency that complement broker
           relationships and direct outreach.
         </p>

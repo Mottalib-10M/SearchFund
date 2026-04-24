@@ -104,9 +104,9 @@ export default function RolloverEquityArticle() {
             implicit due diligence validation.
           </li>
           <li>
-            <strong>Lower leverage.</strong> Rollover equity reduces the total
-            debt burden on the company. In a leveraged transaction, this can
-            mean the difference between a comfortable 3.0x EBITDA leverage
+            <strong>Lower use.</strong> Rollover equity reduces the total
+            debt burden on the company. In a used transaction, this can
+            mean the difference between a comfortable 3.0x EBITDA use
             ratio and a strained 4.0x ratio &mdash; giving the new operator
             more breathing room for{" "}
             <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
@@ -199,7 +199,7 @@ export default function RolloverEquityArticle() {
             timing to balance this risk.
           </li>
           <li>
-            <strong>Structural subordination.</strong> In a leveraged deal,
+            <strong>Structural subordination.</strong> In a used deal,
             the rollover equity sits below senior debt and any mezzanine
             layers in the capital structure. If the business underperforms and
             the debt burden becomes unsustainable, the equity &mdash;
@@ -211,7 +211,7 @@ export default function RolloverEquityArticle() {
         <p>
           Rollover percentages vary widely depending on the buyer profile,
           transaction size, and the parties&rsquo; respective negotiating
-          leverage. Industry data from SRS Acquiom, Goodwin, and PCE Companies
+          use. Industry data from SRS Acquiom, Goodwin, and PCE Companies
           reveals the following ranges:
         </p>
         <ul className={ulClass}>
@@ -568,10 +568,10 @@ export default function RolloverEquityArticle() {
           Can a seller negotiate the rollover percentage down after the LOI?
         </h3>
         <p>
-          Yes, but it depends on leverage. The letter of intent typically
+          Yes, but it depends on use. The letter of intent typically
           specifies a target rollover percentage, but the definitive
           agreement is where the final number is locked. Sellers with
-          competitive bidding leverage (multiple offers) have successfully
+          competitive bidding use (multiple offers) have successfully
           negotiated rollover down from 25% to 10&ndash;15% during
           definitive documentation. However, pushing rollover to zero after
           agreeing to it in the LOI can crater a deal &mdash; buyers view

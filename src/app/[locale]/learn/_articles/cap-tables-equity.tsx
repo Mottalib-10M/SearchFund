@@ -52,7 +52,7 @@ export default function CapTablesEquityArticle() {
           The equity portion of the acquisition financing is offered first to
           existing search investors (right of first refusal), then to new
           investors. The total equity check depends on the enterprise value and
-          leverage used. Acquisition equity typically represents 30-50% of the
+          use used. Acquisition equity typically represents 30-50% of the
           total purchase price, with the remainder funded by debt.
         </p>
 
@@ -232,7 +232,7 @@ export default function CapTablesEquityArticle() {
           <li><strong>Search costs:</strong> &euro;50K-&euro;150K funded from personal savings.</li>
           <li><strong>Acquisition equity:</strong> Raised from investors for a specific deal &mdash; no step-up, no preferential rights from a search phase.</li>
           <li><strong>Searcher ownership:</strong> 50-80% depending on how much equity the searcher contributes personally and the negotiated carried interest.</li>
-          <li><strong>Leverage:</strong> Often higher use of SBA loans (US) or government-backed lending (EU) to reduce the equity check.</li>
+          <li><strong>Use:</strong> Often higher use of SBA loans (US) or government-backed lending (EU) to reduce the equity check.</li>
         </ul>
         <p>
           The tradeoff is clear: self-funded searchers keep more of the upside
@@ -346,7 +346,7 @@ export default function CapTablesEquityArticle() {
         <p>
           Smart searchers model these dilution scenarios before finalizing the
           cap table. Build a spreadsheet that shows ownership percentages under
-          different deal sizes, leverage levels, and seller rollover assumptions.
+          different deal sizes, use levels, and seller rollover assumptions.
           Share this analysis with investors &mdash; it demonstrates financial
           sophistication and transparency.
         </p>

@@ -228,7 +228,7 @@ export default function AcquiringDaycareChildcareArticle() {
         <p>
           Many independently owned centers are well-loved but under-managed.
           A new owner who brings modern practices and growth ambition can
-          unlock significant value. For a comprehensive framework, see
+          unlock significant value. For a thorough framework, see
           our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link>.
         </p>

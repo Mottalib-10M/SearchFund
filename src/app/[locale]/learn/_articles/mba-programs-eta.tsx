@@ -15,7 +15,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          This guide examines the top MBA programs for aspiring searchers, comparing their ETA ecosystems, resources, and track records. Whether you're choosing where to apply or already enrolled and looking to maximize your program's offerings, understanding the landscape will help you make informed decisions about your search fund journey.
+          This guide examines the top MBA programs for aspiring searchers, comparing their ETA ecosystems, resources, and track records. Whether you're choosing where to apply or already enrolled and looking to maximize your program's offerings, understanding the market will help you make informed decisions about your search fund journey.
         </p>
 
         <h2 className={h2Class}>Why MBA Programs Matter for ETA</h2>
@@ -41,7 +41,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Career Flexibility:</strong> Starting a search fund is a high-conviction decision, and many students change their minds during business school. Programs with robust ETA communities also tend to excel in traditional post-MBA paths like consulting, private equity, and corporate strategy, providing optionality if your plans evolve.
+          <strong>Career Flexibility:</strong> Starting a search fund is a high-conviction decision, and many students change their minds during business school. Programs with strong ETA communities also tend to excel in traditional post-MBA paths like consulting, private equity, and corporate strategy, providing optionality if your plans evolve.
         </p>
 
         <h2 className={h2Class}>Stanford GSB: The ETA Pioneer</h2>
@@ -133,7 +133,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Academic Resources:</strong> Wharton's finance curriculum is comprehensive, with courses like "Leveraged Buyouts" and "Restructuring" providing relevant technical skills. "Entrepreneurship Through Acquisition" offers ETA-specific content. The school's strength in negotiations and deal-making translates well to search fund acquisitions.
+          <strong>Academic Resources:</strong> Wharton's finance curriculum is thorough, with courses like "Leveraged Buyouts" and "Restructuring" providing relevant technical skills. "Entrepreneurship Through Acquisition" offers ETA-specific content. The school's strength in negotiations and deal-making translates well to search fund acquisitions.
         </p>
 
         <p className={bodyClass}>
@@ -147,7 +147,7 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>Kellogg</h2>
 
         <p className={bodyClass}>
-          Northwestern's Kellogg School of Management has a growing ETA community, leveraging the school's strengths in marketing, operations, and general management.
+          Northwestern's Kellogg School of Management has a growing ETA community, using the school's strengths in marketing, operations, and general management.
         </p>
 
         <p className={bodyClass}>
@@ -223,11 +223,11 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Columbia ETA Club has 15-20 active members. New York's business community provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events leveraging Columbia's extensive alumni network in finance and private equity.
+          <strong>ETA Club and Community:</strong> The Columbia ETA Club has 15-20 active members. New York's business community provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events using Columbia's extensive alumni network in finance and private equity.
         </p>
 
         <p className={bodyClass}>
-          <strong>Academic Resources:</strong> Columbia's finance curriculum is robust, with courses in private equity, negotiations, and entrepreneurship. "Private Equity: Value Creation" examines operational improvements relevant to post-acquisition management. The school's location enables frequent guest speakers from the New York investment community.
+          <strong>Academic Resources:</strong> Columbia's finance curriculum is strong, with courses in private equity, negotiations, and entrepreneurship. "Private Equity: Value Creation" examines operational improvements relevant to post-acquisition management. The school's location enables frequent guest speakers from the New York investment community.
         </p>
 
         <p className={bodyClass}>
@@ -283,7 +283,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Curriculum Relevance:</strong> Look for dedicated ETA courses, small business case studies integrated into core curriculum, and electives in private equity, negotiations, and entrepreneurial finance. Programs that treat ETA as a legitimate post-MBA path (rather than an afterthought) will provide more comprehensive preparation.
+          <strong>Curriculum Relevance:</strong> Look for dedicated ETA courses, small business case studies integrated into core curriculum, and electives in private equity, negotiations, and entrepreneurial finance. Programs that treat ETA as a legitimate post-MBA path (rather than an afterthought) will provide more thorough preparation.
         </p>
 
         <p className={bodyClass}>
@@ -305,7 +305,7 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>ETA Resources Within Each Program</h2>
 
         <p className={bodyClass}>
-          Beyond formal courses and clubs, successful ETA students leverage these program resources:
+          Beyond formal courses and clubs, successful ETA students use these program resources:
         </p>
 
         <p className={bodyClass}>
@@ -347,7 +347,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Leverage Projects and Case Competitions:</strong> Many courses include field studies, applied projects, or consulting opportunities. Seek projects involving small business acquisition, due diligence, or post-acquisition value creation. These build relevant skills and create work samples to share with investors. Some schools host search fund case competitions with prize money and investor exposure.
+          <strong>Use Projects and Case Competitions:</strong> Many courses include field studies, applied projects, or consulting opportunities. Seek projects involving small business acquisition, due diligence, or post-acquisition value creation. These build relevant skills and create work samples to share with investors. Some schools host search fund case competitions with prize money and investor exposure.
         </p>
 
         <p className={bodyClass}>
@@ -367,7 +367,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          The relationships you build, skills you develop, and preparation you complete during business school will shape your entire search fund experience. Invest this time wisely, and you'll begin your search with a powerful network, comprehensive preparation, and the confidence needed to succeed in acquisition entrepreneurship.
+          The relationships you build, skills you develop, and preparation you complete during business school will shape your entire search fund experience. Invest this time wisely, and you'll begin your search with a powerful network, thorough preparation, and the confidence needed to succeed in acquisition entrepreneurship.
         </p>
 
         <h2 className={h2Class}>Frequently Asked Questions</h2>

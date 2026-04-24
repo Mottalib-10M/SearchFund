@@ -214,7 +214,7 @@ export default function BestIndustriesSearchFundsArticle() {
 
         <h3 className={h3Class}>Technical background</h3>
         <p>
-          SaaS and IT services leverage your technical skills and give
+          SaaS and IT services use your technical skills and give
           you an edge in evaluating technology assets, technical debt, and
           product roadmaps.
         </p>
@@ -246,7 +246,7 @@ export default function BestIndustriesSearchFundsArticle() {
         <p>
           The highest returns have historically come from technology/SaaS
           and healthcare acquisitions, though past performance doesn&rsquo;t
-          guarantee future results. For comprehensive return analysis, see
+          guarantee future results. For thorough return analysis, see
           our{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             search fund returns
@@ -263,7 +263,7 @@ export default function BestIndustriesSearchFundsArticle() {
           <li><strong>Talk to operators:</strong> Reach out to search fund CEOs operating in the industry &mdash; they&rsquo;ll share what surprised them</li>
         </ul>
         <p>
-          For a broader overview of the ETA landscape, see our{" "}
+          For a broader overview of the ETA market, see our{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             What is ETA?
           </Link>{" "}

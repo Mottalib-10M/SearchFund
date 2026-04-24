@@ -12,12 +12,12 @@ export default function AcquiringGymFitnessArticle() {
           The gym and fitness industry in the United States exceeds $35 billion
           in annual revenue and continues to grow at 3&ndash;5% per year, fueled
           by rising health consciousness, corporate wellness programs, and an
-          expanding definition of &ldquo;fitness&rdquo; that now encompasses
+          expanding definition of &ldquo;fitness&rdquo; that now includes
           everything from traditional weightlifting to boutique cycling, yoga,
           martial arts, and recovery services. For search fund entrepreneurs,
           fitness businesses offer a rare combination of recurring membership
           revenue, tangible real estate opportunities, and a highly fragmented
-          ownership landscape &mdash; yet they also present unique operational
+          ownership market &mdash; yet they also present unique operational
           risks around member churn, equipment capital expenditure, and lease
           exposure. This playbook covers everything a searcher needs to evaluate,
           acquire, and grow a gym or fitness business through{" "}
@@ -455,7 +455,7 @@ export default function AcquiringGymFitnessArticle() {
 
         <h3 className={h3Class}>Technology and app integration</h3>
         <p>
-          Modern gym management requires a robust technology stack that
+          Modern gym management requires a strong technology stack that
           enhances the member experience and provides the operator with
           actionable data. Key technology investments include:
         </p>
@@ -522,14 +522,14 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Competitor blind spots:</strong> A new boutique studio
             or budget gym opening within a 5-mile radius can meaningfully
-            impact membership. Map the competitive landscape thoroughly
+            impact membership. Map the competitive environment thoroughly
             and monitor commercial real estate activity in the trade area.
           </li>
         </ul>
 
         <h2 className={h2Class}>Financial model considerations</h2>
         <p>
-          Building a robust financial model for a gym acquisition requires
+          Building a strong financial model for a gym acquisition requires
           attention to several fitness-specific dynamics:
         </p>
         <ol className={olClass}>

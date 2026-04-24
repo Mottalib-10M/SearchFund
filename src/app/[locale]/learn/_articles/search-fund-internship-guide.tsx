@@ -148,7 +148,7 @@ export default function SearchFundInternshipGuideArticle() {
         <h3 className={h3Class}>Industry evaluation and investor communications</h3>
         <p>
           You will research industry dynamics &mdash; market size, growth
-          trends, competitive landscape, and typical financial profiles &mdash;
+          trends, competitive environment, and typical financial profiles &mdash;
           for the sectors the searcher is targeting. This sharpens your ability
           to spot attractive acquisition characteristics and red flags. You may
           also help draft monthly investor updates, giving you insight into how
@@ -386,7 +386,7 @@ export default function SearchFundInternshipGuideArticle() {
         </p>
         <p>
           If you are considering a career in ETA, a search fund internship is
-          the single highest-leverage step you can take. Start by reading our{" "}
+          the single highest-use step you can take. Start by reading our{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>{" "}
           and{" "}
           <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link>{" "}

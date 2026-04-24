@@ -50,10 +50,10 @@ export default function GovernmentContractingAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Expand existing contracts:</strong> Task order growth, option year exercises, and contract ceiling increases.</li>
-          <li><strong>New agency penetration:</strong> Leverage past performance to win contracts at new agencies.</li>
+          <li><strong>New agency penetration:</strong> Use past performance to win contracts at new agencies.</li>
           <li><strong>Subcontractor to prime:</strong> Transition from subcontractor to prime contractor roles on larger opportunities.</li>
           <li><strong>Tuck-in acquisitions:</strong> Acquire companies with complementary contracts, clearances, or certifications.</li>
-          <li><strong>Certification leverage:</strong> Use 8(a) or other set-aside certifications to access protected contract vehicles.</li>
+          <li><strong>Certification use:</strong> Use 8(a) or other set-aside certifications to access protected contract vehicles.</li>
         </ul>
       </div>
 

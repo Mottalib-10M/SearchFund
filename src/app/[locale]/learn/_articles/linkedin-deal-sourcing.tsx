@@ -122,7 +122,7 @@ export default function LinkedInDealSourcingArticle() {
             &quot;C-Level&quot; to surface decision makers. Many business
             owners list their title as &quot;Owner,&quot; &quot;President,&quot;
             &quot;CEO,&quot; or &quot;Founder.&quot; Use multiple searches with
-            different title filters to ensure comprehensive coverage.
+            different title filters to ensure thorough coverage.
           </li>
           <li>
             <strong>Years in current position:</strong> Filter for individuals
@@ -487,7 +487,7 @@ export default function LinkedInDealSourcingArticle() {
         <h2 className={h2Class}>Using LinkedIn for market mapping</h2>
         <p>
           Beyond individual outreach, LinkedIn is invaluable for understanding
-          the competitive landscape and ecosystem of your target industries.
+          the competitive environment and ecosystem of your target industries.
           This &quot;market mapping&quot; exercise helps you identify the best
           targets and avoid wasting time on businesses that do not meet your
           criteria.
@@ -531,7 +531,7 @@ export default function LinkedInDealSourcingArticle() {
           Effective LinkedIn deal sourcing requires disciplined tracking of
           outreach activity, responses, and relationship progression. Sales
           Navigator provides basic tracking, but integrating with a CRM
-          (Customer Relationship Management) system creates a comprehensive
+          (Customer Relationship Management) system creates a thorough
           view of your deal pipeline.
         </p>
 
@@ -691,7 +691,7 @@ export default function LinkedInDealSourcingArticle() {
           combination of targeting precision, social proof, and relationship
           persistence is unmatched. Invest in your profile, refine your
           messaging, track your metrics, and approach every interaction with
-          authenticity and respect. For a comprehensive overview of all sourcing
+          authenticity and respect. For a thorough overview of all sourcing
           channels, see our guide on <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
           The business you are meant to buy may be one well-crafted connection
           request away.

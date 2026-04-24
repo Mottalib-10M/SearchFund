@@ -11,11 +11,11 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        The entrepreneurship through acquisition (ETA) landscape is undergoing a fundamental transformation. Artificial intelligence and automation technologies are reshaping how searchers identify, evaluate, and engage with acquisition targets. What once required armies of analysts and months of manual research can now be accomplished in days or even hours with the right AI-powered tools.
+        The entrepreneurship through acquisition (ETA) market is undergoing a fundamental transformation. Artificial intelligence and automation technologies are reshaping how searchers identify, evaluate, and engage with acquisition targets. What once required armies of analysts and months of manual research can now be accomplished in days or even hours with the right AI-powered tools.
       </p>
 
       <p className={bodyClass}>
-        This shift is democratizing deal sourcing. Solo searchers and small teams can now compete with well-funded search funds by leveraging AI to analyze thousands of companies, personalize outreach at scale, and identify patterns that human analysts might miss. The question is no longer whether to adopt AI in your search process, but how to do so effectively while maintaining the human judgment that remains essential to successful acquisitions.
+        This shift is democratizing deal sourcing. Solo searchers and small teams can now compete with well-funded search funds by using AI to analyze thousands of companies, personalize outreach at scale, and identify patterns that human analysts might miss. The question is no longer whether to adopt AI in your search process, but how to do so effectively while maintaining the human judgment that remains essential to successful acquisitions.
       </p>
 
       <p className={bodyClass}>
@@ -45,13 +45,13 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        However, AI is not a silver bullet. The most successful searchers use these tools to augment, not replace, human judgment and relationship-building. The goal is to spend less time on data collection and more time on the high-value activities that AI cannot replicate: building trust with sellers, conducting nuanced due diligence, and negotiating win-win deals.
+        However, AI is not a silver bullet. The most successful searchers use these tools to augment, not replace, human judgment and relationship-building. The goal is to spend less time on data collection and more time on the high-value activities that AI cannot replicate: building trust with sellers, conducting detailed due diligence, and negotiating win-win deals.
       </p>
 
       <h2 className={h2Class}>AI-Powered Target Identification</h2>
 
       <p className={bodyClass}>
-        The first step in any search is identifying companies that match your acquisition criteria. AI excels at this task, combining data from multiple sources to build comprehensive target lists.
+        The first step in any search is identifying companies that match your acquisition criteria. AI excels at this task, combining data from multiple sources to build thorough target lists.
       </p>
 
       <h3 className={h3Class}>How AI Identifies Targets</h3>
@@ -113,7 +113,7 @@ export default function AIDealSourcingArticle() {
         <li>Identify common connections or shared backgrounds with the owner</li>
         <li>Adapt tone and messaging based on industry, company size, and recipient role</li>
         <li>Generate multiple message variants for A/B testing</li>
-        <li>Translate messages into multiple languages while preserving nuance</li>
+        <li>Translate messages into multiple languages while preserving detail</li>
       </ul>
 
       <p className={bodyClass}>
@@ -155,7 +155,7 @@ export default function AIDealSourcingArticle() {
       <h2 className={h2Class}>CRM and Pipeline Intelligence</h2>
 
       <p className={bodyClass}>
-        Managing a robust deal pipeline is complex. Searchers often juggle dozens of active conversations at various stages, from initial outreach to advanced due diligence. AI-enhanced CRMs are making this management more intelligent and proactive.
+        Managing a strong deal pipeline is complex. Searchers often juggle dozens of active conversations at various stages, from initial outreach to advanced due diligence. AI-enhanced CRMs are making this management more intelligent and proactive.
       </p>
 
       <h3 className={h3Class}>Automated Data Capture</h3>
@@ -274,7 +274,7 @@ export default function AIDealSourcingArticle() {
       <ul className={ulClass}>
         <li><strong>Harmonic:</strong> Specializes in identifying private company targets with detailed firmographic data and intent signals. Strong for technology and B2B services.</li>
         <li><strong>Cyndx:</strong> AI-powered deal sourcing with a focus on middle-market companies. Integrates financial data with ownership structure insights.</li>
-        <li><strong>SourceScrub:</strong> Aggregates data from over 200 sources to build comprehensive company profiles. Good for manufacturing and distribution targets.</li>
+        <li><strong>SourceScrub:</strong> Aggregates data from over 200 sources to build thorough company profiles. Good for manufacturing and distribution targets.</li>
         <li><strong>Grata:</strong> Focuses on small and mid-sized private companies, with particularly strong coverage of niche industries and regional businesses.</li>
       </ul>
 
@@ -445,7 +445,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Ethical Considerations</h3>
 
       <p className={bodyClass}>
-        AI raises ethical questions searchers must navigate:
+        AI raises ethical questions searchers must manage:
       </p>
 
       <ul className={ulClass}>
@@ -647,7 +647,7 @@ export default function AIDealSourcingArticle() {
 
       <p className={bodyClass}>
         <em>
-          This article is part of our comprehensive guide to entrepreneurship through acquisition.
+          This article is part of our thorough guide to entrepreneurship through acquisition.
           For more on deal sourcing strategies, see{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             Deal Sourcing Strategies

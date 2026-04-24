@@ -16,7 +16,7 @@ export default function SearchFundStatisticsArticle() {
           Business began tracking the asset class in 1996, the data set has
           grown to cover 681 search funds spanning 40 years. Combined with
           IESE&rsquo;s International Search Fund Study and emerging research
-          from INSEAD and HEC Paris, we now have a comprehensive statistical
+          from INSEAD and HEC Paris, we now have a thorough statistical
           picture of ETA (Entrepreneurship Through Acquisition) performance.
         </p>
         <p>
@@ -240,7 +240,7 @@ export default function SearchFundStatisticsArticle() {
 
         <h2 className={h2Class}>Data methodology and limitations</h2>
         <p>
-          The Stanford study is the most comprehensive dataset but has
+          The Stanford study is the most thorough dataset but has
           important limitations to note:
         </p>
         <ul className={ulClass}>
@@ -261,7 +261,7 @@ export default function SearchFundStatisticsArticle() {
 
         <h3 className={h3Class}>How reliable are the published search fund return statistics?</h3>
         <p>
-          The Stanford GSB study is the most comprehensive and widely cited dataset, but investors should be aware of several biases. Returns are self-reported, which introduces potential reporting bias &mdash; funds with poor outcomes are less likely to respond to surveys. The published IRR figures (35%+ aggregate) are pre-tax and gross of search-phase fees, meaning net investor returns are meaningfully lower. Additionally, survivorship bias may inflate results since not all search funds are captured in the database. Despite these limitations, the 681-fund sample over 40 years is statistically significant, and the general patterns &mdash; high variance, positive skew, and strong aggregate returns &mdash; are consistent across independent studies from IESE, INSEAD, and HEC Paris.
+          The Stanford GSB study is the most thorough and widely cited dataset, but investors should be aware of several biases. Returns are self-reported, which introduces potential reporting bias &mdash; funds with poor outcomes are less likely to respond to surveys. The published IRR figures (35%+ aggregate) are pre-tax and gross of search-phase fees, meaning net investor returns are meaningfully lower. Additionally, survivorship bias may inflate results since not all search funds are captured in the database. Despite these limitations, the 681-fund sample over 40 years is statistically significant, and the general patterns &mdash; high variance, positive skew, and strong aggregate returns &mdash; are consistent across independent studies from IESE, INSEAD, and HEC Paris.
         </p>
 
         <h3 className={h3Class}>What is the typical search fund deal size, and how has it changed over time?</h3>

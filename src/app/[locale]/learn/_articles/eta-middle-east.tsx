@@ -45,7 +45,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Regulatory modernization:</strong> New commercial laws,
             bankruptcy frameworks, and foreign-ownership reforms have reshaped
-            the investment landscape in the past five years, making it
+            the investment market in the past five years, making it
             significantly easier for non-nationals to own and operate
             businesses.
           </li>
@@ -69,7 +69,7 @@ export default function ETAMiddleEastArticle() {
           movers can establish themselves before the model becomes crowded.
         </p>
 
-        <h2 className={h2Class}>The SME landscape across the GCC</h2>
+        <h2 className={h2Class}>The SME market across the GCC</h2>
 
         <h3 className={h3Class}>United Arab Emirates</h3>
         <p>
@@ -263,7 +263,7 @@ export default function ETAMiddleEastArticle() {
 
         <h2 className={h2Class}>Financing options: Islamic and conventional</h2>
         <p>
-          The Gulf offers a distinctive financing landscape that blends
+          The Gulf offers a distinctive financing market that blends
           conventional debt and equity instruments with Sharia-compliant
           Islamic finance &mdash; a critical consideration for any searcher
           raising capital in the region.
@@ -396,7 +396,7 @@ export default function ETAMiddleEastArticle() {
           </li>
           <li>
             <strong>Family dynamics:</strong> When acquiring a family
-            business, you are navigating not just a commercial transaction
+            business, you are managing not just a commercial transaction
             but family relationships, pride, and legacy. Multiple family
             members may have informal influence over the decision, even if
             only one is the legal owner.
@@ -528,7 +528,7 @@ export default function ETAMiddleEastArticle() {
 
         <h3 className={h3Class}>Regulatory complexity</h3>
         <p>
-          Despite recent reforms, navigating the regulatory landscape remains
+          Despite recent reforms, managing the regulatory environment remains
           complex. Each emirate in the UAE has its own licensing authority,
           and free zones operate under separate regulatory regimes. Saudi
           Arabia&rsquo;s regulatory environment is evolving rapidly, which
@@ -591,7 +591,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>INSEAD-trained searchers:</strong> Multiple INSEAD MBA
             graduates have launched search funds targeting the Gulf, often
-            leveraging the Abu Dhabi campus network and faculty connections
+            using the Abu Dhabi campus network and faculty connections
             to build investor backing.
           </li>
           <li>
@@ -604,7 +604,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Cross-border roll-ups:</strong> Searchers are acquiring
             businesses in one GCC market and expanding into adjacent
-            countries, leveraging the region&rsquo;s economic integration
+            countries, using the region&rsquo;s economic integration
             and shared cultural context.
           </li>
           <li>
@@ -623,7 +623,7 @@ export default function ETAMiddleEastArticle() {
         <ol className={olClass}>
           <li>
             <strong>Build your knowledge base:</strong> Understand the
-            regulatory, cultural, and commercial landscape before committing
+            regulatory, cultural, and commercial market before committing
             to a search. Attend INSEAD Abu Dhabi events and connect with
             practitioners who have completed Gulf acquisitions.
           </li>
@@ -645,7 +645,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Engage local advisors:</strong> Retain experienced legal
             counsel, accounting firms, and M&amp;A advisors who understand
-            both the local regulatory landscape and ETA deal structures.
+            both the local regulatory environment and ETA deal structures.
           </li>
           <li>
             <strong>Target your sectors carefully:</strong> Focus on
@@ -664,7 +664,7 @@ export default function ETAMiddleEastArticle() {
         <h2 className={h2Class}>How the Gulf compares to other ETA markets</h2>
         <p>
           The Middle East occupies a unique position in the global ETA
-          landscape. Compared to{" "}
+          market. Compared to{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
             European markets
           </Link>,
@@ -699,7 +699,7 @@ export default function ETAMiddleEastArticle() {
           capital pools creates a compelling environment for
           acquisition-driven entrepreneurship. But succeeding here requires
           more than financial acumen &mdash; it demands cultural fluency,
-          patience, strong local networks, and a willingness to navigate
+          patience, strong local networks, and a willingness to manage
           complexity.
         </p>
         <p>

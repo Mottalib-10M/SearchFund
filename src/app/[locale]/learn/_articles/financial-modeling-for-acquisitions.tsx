@@ -37,14 +37,14 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <p>
           Search fund acquisitions are, at their core, leveraged buyouts. You are
           acquiring a business using a combination of debt and equity, and your
-          equity returns are amplified (or destroyed) by the amount of leverage
+          equity returns are amplified (or destroyed) by the amount of use
           you employ. The LBO model captures this dynamic by projecting cash
           flows over a five-year hold period, scheduling debt repayment,
           and calculating the equity value at exit under different scenarios.
         </p>
 
         <p>
-          Even if you are pursuing a self-funded search with minimal leverage,
+          Even if you are pursuing a self-funded search with minimal use,
           the LBO framework is indispensable. It forces you to think rigorously
           about cash flow timing, debt service capacity, and the sensitivity of
           your returns to changes in revenue, margins, and exit multiples. Your
@@ -268,7 +268,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           acquisition models. A business that is growing will consume working
           capital (more receivables, more inventory), while a stable or
           declining business may release it. Your model must capture this
-          dynamic accurately. For a comprehensive treatment, see our guide on{" "}
+          dynamic accurately. For a thorough treatment, see our guide on{" "}
           <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital management</Link>.
         </p>
 
@@ -312,7 +312,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
 
         <h2 className={h2Class}>Capital expenditure forecasting</h2>
         <p>
-          Capex projections require a nuanced understanding of the business.
+          Capex projections require a detailed understanding of the business.
           Distinguish between two categories:
         </p>
 
@@ -619,7 +619,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <p>
           A technically sound model that is poorly organized is nearly as useless
           as a bad model. Follow these conventions to build models that are
-          professional, auditable, and easy for others to navigate.
+          professional, auditable, and easy for others to manage.
         </p>
 
         <h3 className={h3Class}>Workbook structure</h3>

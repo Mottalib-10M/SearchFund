@@ -37,7 +37,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li>Contractual recurring revenue (SaaS, insurance, maintenance contracts) is gold</li>
           <li>Repeat purchase behavior (customers buy every month/quarter) is nearly as good</li>
-          <li>Revenue visibility allows confident forecasting and supports leverage</li>
+          <li>Revenue visibility allows confident forecasting and supports use</li>
           <li>See our{" "}
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               recurring revenue models guide
@@ -112,7 +112,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
               industry
             </Link>)</li>
           <li>Higher multiples (6&ndash;10x) justified for high-growth, high-recurring-revenue businesses</li>
-          <li>The deal must support leverage &mdash; after debt service, there should be meaningful free cash flow</li>
+          <li>The deal must support use &mdash; after debt service, there should be meaningful free cash flow</li>
           <li>See our{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
               business valuation
@@ -215,7 +215,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>How important is recurring revenue in an acquisition target?</h3>
         <p>
-          Recurring revenue is the single most valued characteristic among search fund investors. Contractual recurring revenue (SaaS subscriptions, maintenance contracts, insurance renewals) provides predictable cash flow that supports leverage and reduces risk. However, &ldquo;repeat purchase&rdquo; behavior where customers buy regularly without formal contracts can be nearly as valuable. Businesses with 70%+ recurring revenue command premium multiples (5&ndash;8x EBITDA vs. 3&ndash;5x for project-based revenue).
+          Recurring revenue is the single most valued characteristic among search fund investors. Contractual recurring revenue (SaaS subscriptions, maintenance contracts, insurance renewals) provides predictable cash flow that supports use and reduces risk. However, &ldquo;repeat purchase&rdquo; behavior where customers buy regularly without formal contracts can be nearly as valuable. Businesses with 70%+ recurring revenue command premium multiples (5&ndash;8x EBITDA vs. 3&ndash;5x for project-based revenue).
         </p>
 
         <h3 className={h3Class}>What level of customer concentration is acceptable?</h3>

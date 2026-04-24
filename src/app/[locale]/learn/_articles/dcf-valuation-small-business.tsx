@@ -49,7 +49,7 @@ export default function DCFValuationSmallBusinessArticle() {
       <h1 className={h1Class}>{metadata.title}</h1>
 
       <p className={bodyClass}>
-        Discounted Cash Flow (DCF) analysis is one of the most theoretically sound valuation methods available, yet it remains underutilized in small business acquisitions. While most searchers rely on earnings multiples and comparable transactions, DCF offers a more nuanced approach that can uncover value others miss - or reveal overpricing that multiples obscure. This guide shows you how to apply DCF methodology to SME acquisitions with practical examples and real-world adjustments.
+        Discounted Cash Flow (DCF) analysis is one of the most theoretically sound valuation methods available, yet it remains underutilized in small business acquisitions. While most searchers rely on earnings multiples and comparable transactions, DCF offers a more detailed approach that can uncover value others miss - or reveal overpricing that multiples obscure. This guide shows you how to apply DCF methodology to SME acquisitions with practical examples and real-world adjustments.
       </p>
 
       <h2 className={h2Class}>Why DCF Matters for Small Business Acquisitions</h2>
@@ -199,7 +199,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </div>
 
       <p className={bodyClass}>
-        Repeat this calculation for each projection year. For more details on building comprehensive financial models, see our guide to <Link href="/learn/financial-modeling-for-acquisitions" className="text-apple-accent hover:underline">financial modeling for acquisitions</Link>.
+        Repeat this calculation for each projection year. For more details on building thorough financial models, see our guide to <Link href="/learn/financial-modeling-for-acquisitions" className="text-apple-accent hover:underline">financial modeling for acquisitions</Link>.
       </p>
 
       <h2 className={h2Class}>Selecting the Discount Rate (WACC)</h2>
@@ -640,7 +640,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        For search fund models, unlevered FCF and WACC are simpler and more common. Save equity-level analysis for scenarios where you're modeling specific debt paydown schedules and changing leverage over time.
+        For search fund models, unlevered FCF and WACC are simpler and more common. Save equity-level analysis for scenarios where you're modeling specific debt paydown schedules and changing use over time.
       </p>
 
       <h3 className={h3Class}>4. Ignoring Margin Constraints</h3>
@@ -730,7 +730,7 @@ export default function DCFValuationSmallBusinessArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Building a robust DCF model takes 15-25 hours for a typical SME. Don't rush it. The discipline of building the model forces you to understand the business deeply - that understanding is as valuable as the valuation output.
+        Building a strong DCF model takes 15-25 hours for a typical SME. Don't rush it. The discipline of building the model forces you to understand the business deeply - that understanding is as valuable as the valuation output.
       </p>
 
       <h2 className={h2Class}>When DCF Changes Your Mind</h2>

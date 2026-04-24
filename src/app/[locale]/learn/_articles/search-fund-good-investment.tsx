@@ -9,17 +9,17 @@ export default function SearchFundGoodInvestmentArticle() {
       <p className="text-gray-600 dark:text-gray-400 mb-8">11 min read</p>
 
       <p className={bodyClass}>
-        Search funds have quietly generated some of the most compelling risk-adjusted returns in private equity, yet they remain unknown to many institutional investors. With average internal rates of return (IRR) exceeding 35% and money-on-invested-capital (MOIC) multiples above 4.5x according to Stanford Graduate School of Business research, search funds occupy a unique position in the alternative investment landscape.
+        Search funds have quietly generated some of the most compelling risk-adjusted returns in private equity, yet they remain unknown to many institutional investors. With average internal rates of return (IRR) exceeding 35% and money-on-invested-capital (MOIC) multiples above 4.5x according to Stanford Graduate School of Business research, search funds occupy a unique position in the alternative investment market.
       </p>
 
       <p className={bodyClass}>
-        But raw returns tell only part of the story. Understanding whether search funds deserve a place in your portfolio requires examining the return profile in detail, comparing performance to alternative asset classes, analyzing risk factors, and evaluating the practical challenges of accessing this opportunity set. This article provides a comprehensive analysis of search fund returns from an investor perspective.
+        But raw returns tell only part of the story. Understanding whether search funds deserve a place in your portfolio requires examining the return profile in detail, comparing performance to alternative asset classes, analyzing risk factors, and evaluating the practical challenges of accessing this opportunity set. This article provides a thorough analysis of search fund returns from an investor perspective.
       </p>
 
       <h2 className={h2Class}>The Return Profile: 35% IRR and 4.5x MOIC</h2>
 
       <p className={bodyClass}>
-        The Stanford Search Fund Study, tracking performance since 1984, provides the most comprehensive dataset on search fund returns. The 2024 edition analyzed 656 search funds and revealed remarkable consistency in returns across four decades.
+        The Stanford Search Fund Study, tracking performance since 1984, provides the most thorough dataset on search fund returns. The 2024 edition analyzed 656 search funds and revealed remarkable consistency in returns across four decades.
       </p>
 
       <h3 className={h3Class}>Aggregate Return Metrics</h3>
@@ -311,7 +311,7 @@ export default function SearchFundGoodInvestmentArticle() {
         <li><strong>Customer Concentration (30% of failures):</strong> Company loses major customer representing 20%+ of revenue, creating death spiral</li>
         <li><strong>Searcher-Management Conflict (25%):</strong> Incumbent team quits or sabotages new CEO, operational knowledge lost</li>
         <li><strong>Market Disruption (20%):</strong> Technology change, regulatory shift, or competitor emergence destroys business model</li>
-        <li><strong>Over-Leverage (15%):</strong> Excessive acquisition debt limits operational flexibility, forces distressed sale</li>
+        <li><strong>Over-Use (15%):</strong> Excessive acquisition debt limits operational flexibility, forces distressed sale</li>
         <li><strong>Fraud/Misrepresentation (10%):</strong> Seller concealed problems; due diligence failed to uncover issues</li>
       </ul>
 
@@ -329,7 +329,7 @@ export default function SearchFundGoodInvestmentArticle() {
         <li><strong>Customer Diversification:</strong> Require no single customer exceeding 15% of revenue</li>
         <li><strong>Management Transition Planning:</strong> Assess seller's willingness to support transition; plan for key employee retention</li>
         <li><strong>Industry Defensibility:</strong> Favor businesses with moats: regulatory licenses, network effects, high switching costs</li>
-        <li><strong>Conservative Leverage:</strong> Cap debt at 2.5-3.0x EBITDA to preserve flexibility</li>
+        <li><strong>Conservative Use:</strong> Cap debt at 2.5-3.0x EBITDA to preserve flexibility</li>
         <li><strong>Quality of Earnings:</strong> Insist on thorough QoE analysis; walk away from accounting irregularities</li>
       </ul>
 
@@ -475,7 +475,7 @@ export default function SearchFundGoodInvestmentArticle() {
         <li><strong>Financial Quality:</strong> Real vs. adjusted EBITDA? Working capital needs? Capex requirements? Customer concentration?</li>
         <li><strong>Growth Potential:</strong> Organic growth opportunities? Bolt-on acquisition targets? Geographic expansion? New product/service lines?</li>
         <li><strong>Operational Improvement:</strong> Low-hanging fruit? Professionalizable processes? Technology adoption potential? Cost reduction opportunities?</li>
-        <li><strong>Valuation and Structure:</strong> Purchase multiple vs. comps? Leverage level? Earnout provisions? Seller financing? Rollover equity?</li>
+        <li><strong>Valuation and Structure:</strong> Purchase multiple vs. comps? Use level? Earnout provisions? Seller financing? Rollover equity?</li>
       </ol>
 
       <p className={bodyClass}>
@@ -595,7 +595,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </p>
 
       <p className={bodyClass}>
-        For high-net-worth individuals, family offices, and small institutions with 7-10 year time horizons, appetite for illiquidity, and ability to build diversified portfolios, search funds offer one of the most attractive risk-return profiles in private markets. The key is rigorous searcher selection, valuation discipline, portfolio diversification, and hands-on engagement to help first-time CEOs navigate the challenges of acquisition and operational improvement.
+        For high-net-worth individuals, family offices, and small institutions with 7-10 year time horizons, appetite for illiquidity, and ability to build diversified portfolios, search funds offer one of the most attractive risk-return profiles in private markets. The key is rigorous searcher selection, valuation discipline, portfolio diversification, and hands-on engagement to help first-time CEOs manage the challenges of acquisition and operational improvement.
       </p>
 
       <p className={bodyClass}>

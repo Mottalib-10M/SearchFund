@@ -353,7 +353,7 @@ function SearchCapitalContent() {
             <strong>Personal runway.</strong> The searcher&rsquo;s living
             expenses during the search period. This includes housing, food,
             insurance, and any personal obligations. Setting realistic
-            expectations here is crucial &mdash; a searcher who underestimates
+            expectations here is critical &mdash; a searcher who underestimates
             personal burn rate may be forced to close the fund prematurely.
           </li>
           <li>

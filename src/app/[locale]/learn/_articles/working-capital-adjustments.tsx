@@ -38,7 +38,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         Unlike other purchase price components that remain fixed, working
         capital adjustments create a dynamic element that fluctuates based on
         the actual financial position of the business at closing. This guide
-        provides a comprehensive framework for negotiating, calculating, and
+        provides a thorough framework for negotiating, calculating, and
         resolving working capital adjustments in small to mid-sized business
         acquisitions.
       </p>
@@ -1008,7 +1008,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         The key to successful working capital negotiations lies in thorough
         diligence, clear documentation, and realistic expectations. Invest time
         during your quality of earnings analysis understanding the business's
-        working capital dynamics. Negotiate clear, comprehensive working capital
+        working capital dynamics. Negotiate clear, thorough working capital
         provisions in your letter of intent and purchase agreement. And maintain
         professional, collaborative relationships with sellers throughout the
         post-closing true-up process.

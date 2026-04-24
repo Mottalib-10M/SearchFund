@@ -16,7 +16,7 @@ export default function RealEstateAcquisitionsArticle() {
           <li>Very common in SME acquisitions: the owner holds the real estate in a personal entity or LLC</li>
           <li>The business operates under a lease with the owner&apos;s entity (or with no formal lease at all)</li>
           <li>Options: negotiate to buy the property, negotiate a new arm&apos;s-length lease, or have the seller continue as landlord</li>
-          <li><strong>Risk:</strong> If you don&apos;t buy the property, the seller retains leverage as your landlord</li>
+          <li><strong>Risk:</strong> If you don&apos;t buy the property, the seller retains use as your landlord</li>
         </ul>
 
         <h3 className={h3Class}>2. Business Owns the Property</h3>
@@ -113,7 +113,7 @@ export default function RealEstateAcquisitionsArticle() {
         <p>
           According to the CCIM Institute, approximately 40% of SME acquisitions
           involve the seller retaining real estate ownership. The primary risks
-          are landlord leverage (the seller can raise rent, refuse renewals, or
+          are landlord use (the seller can raise rent, refuse renewals, or
           sell the property to a third party), lack of formal lease terms (many
           owner-operated businesses have no written lease at all), and misaligned
           incentives (the seller may defer maintenance once they no longer

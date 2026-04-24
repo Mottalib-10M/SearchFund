@@ -522,7 +522,7 @@ export default function ProprietaryDealFlowArticle() {
           for 15+ years &mdash; they are statistically the most likely to be
           considering an exit. Cross-reference multiple data sources (business
           directories, LinkedIn, state filings, trade association member lists)
-          to build a comprehensive target list. Unloq recommends analyzing at
+          to build a thorough target list. Unloq recommends analyzing at
           least 5 companies for every 1 you contact to ensure quality targeting.
         </p>
 

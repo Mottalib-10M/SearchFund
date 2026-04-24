@@ -11,7 +11,7 @@ export default function ProfessionalServicesAcquisitionArticle() {
         <p>
           Professional services firms &mdash; accounting practices, consulting
           agencies, engineering companies, IT services providers, and legal
-          practices &mdash; represent one of the most nuanced categories for
+          practices &mdash; represent one of the most detailed categories for
           search fund acquisitions. These businesses generate attractive
           margins, produce predictable cash flows, and often serve deeply
           loyal client bases. However, they also carry a unique risk that
@@ -93,7 +93,7 @@ export default function ProfessionalServicesAcquisitionArticle() {
             seller in a supporting role.
           </li>
           <li>
-            <strong>Non-compete agreements:</strong> Enforce robust
+            <strong>Non-compete agreements:</strong> Enforce strong
             non-compete and non-solicitation agreements with the seller
             and all key professionals. In professional services, a
             departing partner who takes three major clients can destroy
@@ -306,7 +306,7 @@ export default function ProfessionalServicesAcquisitionArticle() {
             is institutional, not personal.
           </li>
           <li>
-            <strong>Leverage technology:</strong> Invest in technology
+            <strong>Use technology:</strong> Invest in technology
             platforms that increase efficiency, improve client
             experience, and create switching costs. CRM systems, client
             portals, proprietary analytics tools, and automation can all

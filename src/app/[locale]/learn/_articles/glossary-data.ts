@@ -109,7 +109,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "Due Diligence",
     definition:
-      "The comprehensive investigation of a target business before acquisition, covering financial, legal, operational, commercial, and environmental aspects. Typically takes 60-90 days.",
+      "The thorough investigation of a target business before acquisition, covering financial, legal, operational, commercial, and environmental aspects. Typically takes 60-90 days.",
     relatedSlug: "due-diligence-checklist",
   },
   {
@@ -144,7 +144,7 @@ export const glossaryTerms: GlossaryTerm[] = [
   {
     term: "ETA (Entrepreneurship Through Acquisition)",
     definition:
-      "The process of acquiring an existing business to run as CEO, rather than starting one from scratch. Encompasses search funds, self-funded searches, and independent sponsors.",
+      "The process of acquiring an existing business to run as CEO, rather than starting one from scratch. Includes search funds, self-funded searches, and independent sponsors.",
     relatedSlug: "getting-started",
   },
   {

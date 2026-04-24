@@ -171,7 +171,7 @@ export default function CoInvestmentSearchFundArticle() {
           <li>
             <strong>Subordinated notes with equity kickers:</strong> A less
             common but growing structure, particularly for deals with higher
-            leverage. The co-investor provides a subordinated loan (often at
+            use. The co-investor provides a subordinated loan (often at
             10&ndash;14% interest) with warrants or conversion rights that
             provide equity upside. This structure offers downside protection
             through the debt coupon while retaining upside through the equity

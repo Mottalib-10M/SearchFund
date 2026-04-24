@@ -199,7 +199,7 @@ export default function SearchFundInvestorEconomicsArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Comprehensive return data, step-up mechanics, and portfolio construction analysis across 500+ search funds.</li>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Study: Selected Observations</em>, 2024 edition. Thorough return data, step-up mechanics, and portfolio construction analysis across 500+ search funds.</li>
           <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. European search fund economics, structural variations, and cross-border return comparisons.</li>
           <li>Harvard Business School &mdash; <em>Search Funds: An Overview of the Asset Class</em>, HBS Case Study. Academic analysis of investor economics, portfolio theory, and risk-return characteristics of search fund investing.</li>
         </ul>

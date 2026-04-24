@@ -27,7 +27,7 @@ export default function AcquiringPrintingBusinessArticle() {
           formidable equipment moats.
         </p>
 
-        <h2 className={h2Class}>Market landscape: bigger than you think</h2>
+        <h2 className={h2Class}>market environment: bigger than you think</h2>
         <p>
           The US commercial printing market accounts for roughly $80 billion
           in annual revenue, while the signage and graphics segment adds
@@ -140,7 +140,7 @@ export default function AcquiringPrintingBusinessArticle() {
 
         <h3 className={h3Class}>Equipment condition and age</h3>
         <p>
-          Build a comprehensive asset register cataloging every major piece
+          Build a thorough asset register cataloging every major piece
           of equipment with manufacturer, model, year, impression or hour
           count, maintenance history, and estimated replacement cost.
         </p>
@@ -418,7 +418,7 @@ export default function AcquiringPrintingBusinessArticle() {
 
         <h3 className={h3Class}>How do I evaluate equipment in a printing business acquisition?</h3>
         <p>
-          Build a comprehensive asset register cataloging every major piece of
+          Build a thorough asset register cataloging every major piece of
           equipment with manufacturer, model, year, impression or hour count,
           maintenance history, and estimated replacement cost. Digital presses
           (HP Indigo, Xerox iGen) have a useful life of 5&ndash;8 years and

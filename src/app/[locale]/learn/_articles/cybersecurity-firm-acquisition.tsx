@@ -7,12 +7,12 @@ export default function CybersecurityFirmAcquisitionArticle() {
       <h1 className={h1Class}>Acquiring a Cybersecurity Firm: Sector-Specific Due Diligence</h1>
       <div className={bodyClass}>
         <p>The cybersecurity industry is one of the fastest-growing sectors in technology, driven by the relentless increase in cyber threats, expanding regulatory requirements, and the digital transformation of every industry. For search fund entrepreneurs and acquisition-minded investors, cybersecurity firms present a compelling opportunity: recurring revenue models, mission-critical services that customers cannot easily abandon, and a structural talent shortage that creates barriers to entry. However, cybersecurity acquisitions also carry unique risks that require specialized due diligence beyond the standard <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link>.</p>
-        <p>This guide covers the cybersecurity market landscape, key valuation drivers, intellectual property assessment, customer contract analysis, compliance certification considerations, talent retention strategies, and integration challenges specific to acquiring a cybersecurity firm.</p>
+        <p>This guide covers the cybersecurity market environment, key valuation drivers, intellectual property assessment, customer contract analysis, compliance certification considerations, talent retention strategies, and integration challenges specific to acquiring a cybersecurity firm.</p>
       </div>
 
       <h2 className={h2Class}>Cybersecurity Industry Overview</h2>
       <div className={bodyClass}>
-        <p>The global cybersecurity market has experienced sustained growth, with spending driven by the increasing frequency and sophistication of cyberattacks, the proliferation of cloud computing and remote work, and tightening regulatory requirements around data protection. The market encompasses several distinct sub-sectors, each with different business models, competitive dynamics, and acquisition characteristics.</p>
+        <p>The global cybersecurity market has experienced sustained growth, with spending driven by the increasing frequency and sophistication of cyberattacks, the proliferation of cloud computing and remote work, and tightening regulatory requirements around data protection. The market includes several distinct sub-sectors, each with different business models, competitive dynamics, and acquisition characteristics.</p>
 
         <h3 className={h3Class}>Managed Security Service Providers (MSSPs)</h3>
         <p>MSSPs provide outsourced security monitoring, incident response, and management of security infrastructure. These businesses are particularly attractive for acquisitions because they typically operate on recurring revenue models (monthly or annual contracts), serve SME clients who lack internal security teams, and can be scaled through geographic expansion and service line additions. MSSPs in the $3M&ndash;$20M revenue range represent the sweet spot for search fund-sized acquisitions.</p>
@@ -42,7 +42,7 @@ export default function CybersecurityFirmAcquisitionArticle() {
 
       <h2 className={h2Class}>Intellectual Property &amp; Technology Assessment</h2>
       <div className={bodyClass}>
-        <p>Technology due diligence is particularly important in cybersecurity acquisitions because the firm&apos;s technology stack is both its primary competitive advantage and its primary operational risk. A comprehensive <Link href="/learn/technology-due-diligence" className="text-apple-accent hover:underline">technology due diligence</Link> process for a cybersecurity firm should cover the following areas.</p>
+        <p>Technology due diligence is particularly important in cybersecurity acquisitions because the firm&apos;s technology stack is both its primary competitive advantage and its primary operational risk. A thorough <Link href="/learn/technology-due-diligence" className="text-apple-accent hover:underline">technology due diligence</Link> process for a cybersecurity firm should cover the following areas.</p>
 
         <h3 className={h3Class}>Proprietary technology evaluation</h3>
         <p>Assess the firm&apos;s proprietary tools, platforms, and detection capabilities. Key questions include: Does the firm develop its own security tools, or does it rely entirely on third-party vendor products? If proprietary, how differentiated are these tools compared to commercial alternatives? What is the technology stack, and is it built on modern, maintainable architectures? How dependent is the technology on specific individuals (key-person risk in the engineering team)?</p>
@@ -101,7 +101,7 @@ export default function CybersecurityFirmAcquisitionArticle() {
 
       <h2 className={h2Class}>Regulatory Considerations</h2>
       <div className={bodyClass}>
-        <p>Cybersecurity firms operate in an increasingly regulated environment, and the regulatory landscape varies significantly by jurisdiction and customer segment.</p>
+        <p>Cybersecurity firms operate in an increasingly regulated environment, and the regulatory environment varies significantly by jurisdiction and customer segment.</p>
         <ul className={ulClass}>
           <li><strong>Data protection regulations:</strong> Firms that handle customer data (which includes virtually all cybersecurity firms) must comply with applicable data protection laws: GDPR in Europe, CCPA/CPRA in California, and sector-specific regulations like HIPAA for healthcare data. Evaluate the firm&apos;s data protection compliance during due diligence, including data processing agreements, privacy policies, data retention practices, and cross-border data transfer mechanisms.</li>
           <li><strong>Export controls:</strong> Certain cybersecurity technologies (encryption, intrusion detection, penetration testing tools) may be subject to export controls under the US Export Administration Regulations (EAR) or the Wassenaar Arrangement. If the target exports products or services internationally, verify compliance with applicable export control regimes.</li>

@@ -129,7 +129,7 @@ export default function NonCompeteAcquisitionArticle() {
         </ul>
 
         <p>
-          The legal landscape continues to evolve, so always have local counsel review your
+          The legal environment continues to evolve, so always have local counsel review your
           restrictive covenants.
         </p>
       </div>
@@ -228,7 +228,7 @@ export default function NonCompeteAcquisitionArticle() {
               transition role
             </Link>, argue for longer restrictions since they&apos;ll have ongoing access to relationships
           </li>
-          <li><strong>Use earnouts as leverage:</strong> Make non-compete violations a breach that terminates earnout obligations</li>
+          <li><strong>Use earnouts as use:</strong> Make non-compete violations a breach that terminates earnout obligations</li>
           <li><strong>Bundle with financial penalties:</strong> Tie violations to seller note acceleration - more effective than litigation threats alone</li>
         </ul>
       </div>

@@ -178,7 +178,7 @@ export default function HowMuchMoneyBuyBusinessArticle() {
 
         <h2 className={h2Class}>What determines how much you need</h2>
         <ul className={ulClass}>
-          <li><strong>Deal size:</strong> Larger deals require more equity (obvious but crucial)</li>
+          <li><strong>Deal size:</strong> Larger deals require more equity (obvious but critical)</li>
           <li><strong>Financing structure:</strong> SBA vs. conventional vs. seller financing &mdash; each has different equity requirements</li>
           <li><strong>Seller flexibility:</strong> A motivated seller willing to carry a large note dramatically reduces your capital needs</li>
           <li><strong>Business quality:</strong> Better businesses (stable cash flow, good assets) are easier to finance with less equity</li>

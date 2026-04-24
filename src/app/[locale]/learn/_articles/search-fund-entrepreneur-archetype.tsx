@@ -31,7 +31,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        Success in search funds requires navigating three distinct phases: raising initial search capital, finding
+        Success in search funds requires managing three distinct phases: raising initial search capital, finding
         and acquiring the right business, and operating and growing that business post-acquisition. Each phase
         demands different capabilities, but the most successful searchers demonstrate competence across all three. If you are
         considering this path from a corporate career, our guide on <Link href="/learn/corporate-to-eta" className="text-apple-accent hover:underline">transitioning from corporate to ETA</Link> covers the practical steps in detail.
@@ -59,7 +59,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <h2 className={h2Class}>The Data: Background of Successful Searchers</h2>
 
       <p className={bodyClass}>
-        Stanford's comprehensive database of search funds provides quantitative insights into searcher backgrounds.
+        Stanford's thorough database of search funds provides quantitative insights into searcher backgrounds.
         The data reveals some surprising patterns about who succeeds in this model.
       </p>
 
@@ -354,9 +354,9 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        The data provides a nuanced answer. Industry experience offers advantages during search (credibility with
+        The data provides a detailed answer. Industry experience offers advantages during search (credibility with
         sellers, faster due diligence, better risk assessment) and early operation (understanding market dynamics,
-        competitive landscape, and customer needs). However, these advantages are often overestimated.
+        competitive environment, and customer needs). However, these advantages are often overestimated.
       </p>
 
       <h3 className={h3Class}>The Case for Industry Agnosticism</h3>
@@ -598,8 +598,8 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
 
       <p className={bodyClass}>
         Cultural differences influence the archetype - European searchers may emphasize operational excellence over
-        financial engineering, Latin American searchers often leverage family business networks, and Asian searchers
-        navigate different investor expectations and business practices.
+        financial engineering, Latin American searchers often use family business networks, and Asian searchers
+        manage different investor expectations and business practices.
       </p>
 
       <h3 className={h3Class}>Greater Diversity</h3>
@@ -683,7 +683,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <h3 className={h3Class}>Do I need prior CEO experience to succeed as a search fund entrepreneur?</h3>
 
       <p className={bodyClass}>
-        No. The vast majority of successful search fund entrepreneurs have never served as a CEO before. The model is designed as an apprenticeship: investors provide mentorship and board-level guidance while the searcher learns on the job. What matters more than CEO experience is demonstrated leadership potential, analytical capability, interpersonal skills, and the resilience to navigate ambiguity during both the search and operational phases.
+        No. The vast majority of successful search fund entrepreneurs have never served as a CEO before. The model is designed as an apprenticeship: investors provide mentorship and board-level guidance while the searcher learns on the job. What matters more than CEO experience is demonstrated leadership potential, analytical capability, interpersonal skills, and the resilience to manage ambiguity during both the search and operational phases.
       </p>
 
       <h3 className={h3Class}>Is a consulting background better than banking for search funds?</h3>

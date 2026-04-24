@@ -75,7 +75,7 @@ export default function BpifranceAcquisitionFinancingArticle() {
           <li><strong>Term:</strong> 2&ndash;5 years, interest-free</li>
           <li><strong>Provided by:</strong> R&eacute;seau Entreprendre, Initiative France, or France Active (partnered with Bpifrance)</li>
           <li><strong>Purpose:</strong> Quasi-equity that strengthens your down payment and signals credibility to banks</li>
-          <li><strong>Leverage effect:</strong> &euro;1 of pr&ecirc;t d&rsquo;honneur typically unlocks &euro;7&ndash;8 of bank debt</li>
+          <li><strong>Use effect:</strong> &euro;1 of pr&ecirc;t d&rsquo;honneur typically unlocks &euro;7&ndash;8 of bank debt</li>
         </ul>
 
         <h2 className={h2Class}>Typical French acquisition financing structure</h2>
@@ -127,7 +127,7 @@ export default function BpifranceAcquisitionFinancingArticle() {
               SBA guide
             </Link></li>
           <li><strong>Germany (KfW):</strong> KfW provides similar acquisition financing programs for German businesses</li>
-          <li><strong>UK:</strong> British Business Bank offers guarantee schemes but less comprehensive than Bpifrance</li>
+          <li><strong>UK:</strong> British Business Bank offers guarantee schemes but less thorough than Bpifrance</li>
           <li><strong>France advantage:</strong> Bpifrance&rsquo;s combination of guarantee + subordinated loan + interest-free honor loans makes France one of the most acquirer-friendly markets in the world</li>
         </ul>
 

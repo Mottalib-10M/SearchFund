@@ -35,7 +35,7 @@ export default function CultureChangePostAcquisitionArticle() {
         <p>
           Before you can change a culture, you must understand it. The first 90 days
           should be devoted primarily to observation, listening, and mapping the
-          cultural landscape of the business you have acquired. Resist the urge to
+          cultural market of the business you have acquired. Resist the urge to
           impose your vision immediately. As part of your broader{" "}
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>{" "}
           plan, culture assessment should be a deliberate, structured process.
@@ -406,7 +406,7 @@ export default function CultureChangePostAcquisitionArticle() {
           </li>
           <li>
             <strong>Best of both.</strong> Selectively combine cultural elements
-            from both organizations. This is the most nuanced approach and
+            from both organizations. This is the most detailed approach and
             requires the most leadership skill, but it often produces the best
             long-term results. It requires honest assessment of where each
             organization excels and a willingness to adopt practices from the

@@ -60,7 +60,7 @@ export default function TechnologyDueDiligenceArticle() {
         <h2 className={h2Class}>Evaluating the IT infrastructure</h2>
         <p>
           The first step in technology due diligence is to map the entire IT
-          landscape. This includes hardware, software, networking, hosting, and all
+          market. This includes hardware, software, networking, hosting, and all
           third-party services the business depends on. You want a complete
           inventory because hidden costs and risks often lurk in systems that
           nobody has fully documented.

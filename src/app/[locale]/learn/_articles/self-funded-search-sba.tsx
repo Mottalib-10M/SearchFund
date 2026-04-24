@@ -99,7 +99,7 @@ export default function SelfFundedSearchSBAArticle() {
         <h2 className={h2Class}>Risks and challenges</h2>
         <ul className={ulClass}>
           <li><strong>Personal guarantee:</strong> You are personally liable for the SBA loan. A failed acquisition can mean personal bankruptcy</li>
-          <li><strong>High debt load:</strong> 80% leverage means thin margins for error. A revenue decline of 15&ndash;20% can threaten debt service</li>
+          <li><strong>High debt load:</strong> 80% use means thin margins for error. A revenue decline of 15&ndash;20% can threaten debt service</li>
           <li><strong>Variable rate:</strong> SBA loans are variable rate. Rising rates increase your debt service burden</li>
           <li><strong>No safety net:</strong> No investors to call for additional capital if things go wrong. You&rsquo;re on your own</li>
           <li><strong>Size constraint:</strong> $5M SBA cap limits you to businesses under ~$6M enterprise value</li>
@@ -112,7 +112,7 @@ export default function SelfFundedSearchSBAArticle() {
           <li>Target deal size: $1M&ndash;$5M enterprise value</li>
           <li>Strong, stable cash flow business (1.25x+ DSCR)</li>
           <li>You have relevant industry or management experience</li>
-          <li>You&rsquo;re comfortable with personal guarantees and high leverage</li>
+          <li>You&rsquo;re comfortable with personal guarantees and high use</li>
         </ul>
 
         <p>
@@ -169,7 +169,7 @@ export default function SelfFundedSearchSBAArticle() {
           According to the Pepperdine Private Capital Markets Report, the
           primary risk is the personal guarantee: unlike a traditional search
           fund where investors bear the equity risk, the self-funded searcher
-          is personally liable for the full SBA loan amount. At 80% leverage,
+          is personally liable for the full SBA loan amount. At 80% use,
           a revenue decline of just 15&ndash;20% can threaten debt service
           coverage. The variable interest rate adds another layer of risk
           &mdash; a 200 basis point increase on a $1.6M loan adds approximately

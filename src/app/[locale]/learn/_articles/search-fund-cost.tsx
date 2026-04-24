@@ -158,7 +158,7 @@ export default function SearchFundCostArticle() {
         <h2 className={h2Class}>How to reduce costs</h2>
         <ul className={ulClass}>
           <li><strong>Search part-time initially:</strong> Keep your day job to avoid drawing down personal runway</li>
-          <li><strong>Leverage free resources:</strong> SearchFunder community, local ETA meetups, free broker deal flow</li>
+          <li><strong>Use free resources:</strong> SearchFunder community, local ETA meetups, free broker deal flow</li>
           <li><strong>Minimize legal spend early:</strong> Use template LOIs, only engage expensive counsel once you have an accepted LOI</li>
           <li><strong>Negotiate QoE costs:</strong> Get 3 quotes; smaller regional CPA firms charge $20K&ndash;$35K vs. Big 4 at $50K&ndash;$80K</li>
           <li><strong>Use{" "}

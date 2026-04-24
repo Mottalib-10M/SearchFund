@@ -3,7 +3,7 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 
 export const metadata = {
   title: "HR & Employee Due Diligence: Benefits, Contracts & Culture",
-  description: "Comprehensive guide to conducting human resources due diligence in acquisition, covering employee census, compensation, benefits, contracts, culture assessment, and people risk.",
+  description: "Thorough guide to conducting human resources due diligence in acquisition, covering employee census, compensation, benefits, contracts, culture assessment, and people risk.",
   datePublished: "2026-04-22",
   dateModified: "2026-04-22",
   category: "Due Diligence",
@@ -32,7 +32,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h1 className={h1Class}>HR &amp; Employee Due Diligence: Benefits, Contracts &amp; Culture</h1>
 
       <p className={bodyClass}>
-        In any acquisition, the people are often the most valuable asset - and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a comprehensive assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
+        In any acquisition, the people are often the most valuable asset - and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a thorough assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
       </p>
 
       <p className={bodyClass}>
@@ -145,7 +145,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h2 className={h2Class}>Benefits Plan Analysis</h2>
 
       <p className={bodyClass}>
-        Employee benefits often represent 20-40% of total compensation costs and can carry significant hidden liabilities. A comprehensive benefits review should cover:
+        Employee benefits often represent 20-40% of total compensation costs and can carry significant hidden liabilities. A thorough benefits review should cover:
       </p>
 
       <h3 className={h3Class}>Health and Welfare Benefits</h3>
@@ -381,7 +381,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Consider engaging an employment law attorney to conduct a comprehensive compliance audit as part of due diligence. The cost (typically $5,000-$15,000) is modest compared to the potential liability for non-compliance.
+        Consider engaging an employment law attorney to conduct a thorough compliance audit as part of due diligence. The cost (typically $5,000-$15,000) is modest compared to the potential liability for non-compliance.
       </p>
 
       <h2 className={h2Class}>Union Considerations</h2>
@@ -436,7 +436,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h2 className={h2Class}>HR Due Diligence Checklist</h2>
 
       <p className={bodyClass}>
-        Use this comprehensive checklist to ensure you cover all critical HR due diligence areas:
+        Use this thorough checklist to ensure you cover all critical HR due diligence areas:
       </p>
 
       <h3 className={h3Class}>Employee Census and Organization</h3>
@@ -577,7 +577,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </p>
 
       <p className={bodyClass}>
-        Approach HR DD with the same rigor you apply to financial and operational diligence. Use the comprehensive checklist above, engage specialists where needed (employment attorneys for compliance, benefits consultants for plan reviews), and budget adequate time for employee interviews and cultural assessment.
+        Approach HR DD with the same rigor you apply to financial and operational diligence. Use the thorough checklist above, engage specialists where needed (employment attorneys for compliance, benefits consultants for plan reviews), and budget adequate time for employee interviews and cultural assessment.
       </p>
 
       <p className={bodyClass}>
@@ -585,7 +585,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </p>
 
       <p className={bodyClass}>
-        For more on conducting comprehensive acquisition due diligence, see our <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">complete due diligence checklist</Link>.
+        For more on conducting thorough acquisition due diligence, see our <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">complete due diligence checklist</Link>.
       </p>
 
       <h2 className={h2Class}>Frequently asked questions</h2>

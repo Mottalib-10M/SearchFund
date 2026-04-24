@@ -11,7 +11,7 @@ export default function ETASwitzerlandArticle() {
         <p>
           Switzerland offers one of the most distinctive and rewarding environments
           for <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Entrepreneurship Through Acquisition in Europe</Link>. With a GDP per capita
-          among the highest in the world, an extraordinarily robust SME sector, and
+          among the highest in the world, an extraordinarily strong SME sector, and
           a well-documented succession crisis known as the Nachfolge problem,
           Switzerland presents search fund entrepreneurs with an unusual combination
           of premium business quality and genuine acquisition need. While valuations
@@ -20,7 +20,7 @@ export default function ETASwitzerlandArticle() {
           conditions for strong long-term returns.
         </p>
 
-        <h2 className={h2Class}>The Swiss market landscape</h2>
+        <h2 className={h2Class}>The Swiss market environment</h2>
         <p>
           According to the Swiss Federal Statistical Office, Switzerland is
           home to approximately 600,000 businesses, of which over 99% are
@@ -85,7 +85,7 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>Cantonal tax competition</h2>
         <p>
           Switzerland&apos;s federal structure gives its 26 cantons significant
-          autonomy in setting tax rates, creating a competitive <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link> landscape
+          autonomy in setting tax rates, creating a competitive <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link> market
           that is unique in Europe. For search fund entrepreneurs, the choice
           of canton for incorporating a holding company can have a meaningful
           impact on overall tax efficiency.
@@ -152,13 +152,13 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>Swiss banking relationships</h2>
         <p>
           Switzerland&apos;s banking sector plays a central role in KMU <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> and can be a critical partner in search fund acquisitions. The Swiss
-          banking landscape for KMU financing includes several tiers.
+          banking market for KMU financing includes several tiers.
         </p>
         <ul className={ulClass}>
           <li><strong>Cantonal banks (Kantonalbanken):</strong> Each canton has its own cantonal bank, most of which benefit from a state guarantee. Cantonal banks are deeply embedded in their local economies and are often the primary banking partners for KMUs. They are well-positioned to finance acquisitions of local businesses.</li>
           <li><strong>Raiffeisen banks:</strong> The Raiffeisen cooperative banking group is Switzerland&apos;s third-largest banking group and has a strong presence in rural and semi-urban areas. Raiffeisen banks are important KMU financiers and can be valuable partners for acquisitions outside major cities.</li>
-          <li><strong>Major banks:</strong> UBS and (the reconstituted post-Credit Suisse integration) the larger banking landscape serve KMU clients through dedicated business banking divisions. These institutions have the capacity to finance larger search fund acquisitions.</li>
-          <li><strong>Typical terms:</strong> Swiss bank acquisition financing typically involves leverage of 2.5x to 4x EBITDA, with terms of five to seven years. Interest rates in Switzerland benefit from the generally low-rate environment, though this is subject to monetary policy conditions.</li>
+          <li><strong>Major banks:</strong> UBS and (the reconstituted post-Credit Suisse integration) the larger banking market serve KMU clients through dedicated business banking divisions. These institutions have the capacity to finance larger search fund acquisitions.</li>
+          <li><strong>Typical terms:</strong> Swiss bank acquisition financing typically involves use of 2.5x to 4x EBITDA, with terms of five to seven years. Interest rates in Switzerland benefit from the generally low-rate environment, though this is subject to monetary policy conditions.</li>
         </ul>
 
         <h2 className={h2Class}>KMU financing beyond banks</h2>
@@ -176,7 +176,7 @@ export default function ETASwitzerlandArticle() {
         <p>
           Switzerland&apos;s regulatory environment is generally business-friendly
           but has several distinctive features that search fund entrepreneurs
-          must navigate.
+          must manage.
         </p>
         <ul className={ulClass}>
           <li><strong>Merger control:</strong> Swiss merger control thresholds (COMCO) apply to transactions where the combined worldwide turnover exceeds CHF 2 billion or combined Swiss turnover exceeds CHF 500 million. Most search fund acquisitions fall well below these thresholds and do not require merger clearance.</li>
@@ -188,7 +188,7 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>Work permits for foreign acquirers</h2>
         <p>
           Non-Swiss nationals who wish to acquire and manage a Swiss business
-          must navigate the country&apos;s immigration requirements. Switzerland
+          must manage the country&apos;s immigration requirements. Switzerland
           is not an EU member, though it has bilateral agreements with the EU
           that provide certain freedoms of movement.
         </p>

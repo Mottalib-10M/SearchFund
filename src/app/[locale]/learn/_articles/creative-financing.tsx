@@ -166,14 +166,14 @@ export default function CreativeFinancingArticle() {
           The most creative deals combine multiple approaches:
         </p>
         <ul className={ulClass}>
-          <li><strong>SBA + seller note + ROBS:</strong> Minimize personal cash while maximizing SBA leverage</li>
+          <li><strong>SBA + seller note + ROBS:</strong> Minimize personal cash while maximizing SBA use</li>
           <li><strong>Equity partner + seller note + earn-out:</strong> Split the equity burden, reduce upfront price, align seller</li>
           <li><strong>Earn-in + seller financing:</strong> Build credibility through employment, then buy with favorable seller terms</li>
         </ul>
 
         <h2 className={h2Class}>Risks of creative financing</h2>
         <ul className={ulClass}>
-          <li><strong>Over-leverage:</strong> Creative structures can lead to excessive total debt burden. Always stress-test with a 20&ndash;30% revenue decline scenario</li>
+          <li><strong>Over-use:</strong> Creative structures can lead to excessive total debt burden. Always stress-test with a 20&ndash;30% revenue decline scenario</li>
           <li><strong>Complexity:</strong> More layers = more relationships to manage, more documents, more potential conflicts</li>
           <li><strong>Personal risk:</strong> ROBS risks retirement savings; HELOCs risk your home; personal guarantees risk personal assets</li>
           <li><strong>Seller alignment:</strong> Complex structures may make sellers uncomfortable (they want certainty of close)</li>

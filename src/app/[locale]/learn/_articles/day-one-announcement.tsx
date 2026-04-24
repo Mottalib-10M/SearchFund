@@ -11,7 +11,7 @@ export default function DayOneAnnouncementArticle() {
         <p>
           Voluntary turnover spikes to 20% the moment a merger or acquisition is announced, according to{" "}
           <a href="https://www.gallup.com/workplace/267494/stop-losing-talent-merge-acquire.aspx" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Gallup research</a>
-          , and the most talented employees are consistently the first to leave. Your Day 1 announcement &mdash; the words you choose, the order you reach each audience, the tone you set &mdash; is the single highest-leverage action you will take as a new owner. This guide gives you the exact scripts, email templates, and stakeholder-by-stakeholder playbook to get it right, drawn from real acquisition handoffs and research-backed communication frameworks.
+          , and the most talented employees are consistently the first to leave. Your Day 1 announcement &mdash; the words you choose, the order you reach each audience, the tone you set &mdash; is the single highest-use action you will take as a new owner. This guide gives you the exact scripts, email templates, and stakeholder-by-stakeholder playbook to get it right, drawn from real acquisition handoffs and research-backed communication frameworks.
         </p>
       </div>
 
@@ -272,7 +272,7 @@ export default function DayOneAnnouncementArticle() {
 
         <h3 className={h3Class}>How do I handle the announcement if the seller has already left?</h3>
         <p>
-          If the seller is not available for a joint announcement, use a pre-recorded video message from them, or a signed letter read aloud at the all-hands. The key is that employees hear the seller&rsquo;s endorsement in some form. If even that is impossible, lean heavily on the most trusted senior manager to introduce you and vouch for the transition. This scenario underscores the importance of negotiating seller involvement during deal structuring.
+          If the seller is not available for a joint announcement, use a pre-recorded video message from them, or a signed letter read aloud at the all-hands. The key is that employees hear the seller&rsquo;s endorsement in some form. If even that is impossible, lean heavily on the most trusted senior manager to introduce you and vouch for the transition. This scenario highlights the importance of negotiating seller involvement during deal structuring.
         </p>
 
         <h3 className={h3Class}>Should I send the customer letter before or after telling employees?</h3>

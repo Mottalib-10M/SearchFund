@@ -17,7 +17,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Your ICP is the strategic foundation of your entire search process. It defines what you're looking for, why you're looking for it, and how you'll recognize the right opportunity when it appears. This article will walk you through the process of creating a robust, actionable ICP that will save you time, improve your credibility with intermediaries, and dramatically increase your odds of finding and closing the right deal.
+        Your ICP is the strategic foundation of your entire search process. It defines what you're looking for, why you're looking for it, and how you'll recognize the right opportunity when it appears. This article will walk you through the process of creating a strong, actionable ICP that will save you time, improve your credibility with intermediaries, and dramatically increase your odds of finding and closing the right deal.
       </p>
 
       <h2 className={h2Class}>What Is an Acquisition ICP?</h2>
@@ -103,7 +103,7 @@ export default function IdealCompanyProfileArticle() {
       <h2 className={h2Class}>The 12 Dimensions of Your ICP</h2>
 
       <p className={bodyClass}>
-        A comprehensive ICP addresses multiple dimensions of the business. Here's a framework covering the twelve most critical areas:
+        A thorough ICP addresses multiple dimensions of the business. Here's a framework covering the twelve most critical areas:
       </p>
 
       <h3 className={h3Class}>1. Industry and Sector</h3>
@@ -387,7 +387,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Deal Flow Reality</h3>
 
       <p className={bodyClass}>
-        If you're seeing robust deal flow that matches your criteria, your ICP is market-calibrated. If you're seeing almost nothing after 3-4 months of active outreach, your ICP may be too narrow or focused on an under-supplied segment.
+        If you're seeing strong deal flow that matches your criteria, your ICP is market-calibrated. If you're seeing almost nothing after 3-4 months of active outreach, your ICP may be too narrow or focused on an under-supplied segment.
       </p>
 
       <p className={bodyClass}>

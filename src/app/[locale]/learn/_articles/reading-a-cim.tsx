@@ -4,7 +4,7 @@ import Link from "next/link";
 export const readingACIMMetadata = {
   title: "Reading a CIM (Confidential Information Memorandum)",
   slug: "reading-a-cim",
-  description: "A comprehensive guide to evaluating Confidential Information Memorandums, identifying red flags, adjusting financials, and making informed decisions about acquisition opportunities.",
+  description: "A thorough guide to evaluating Confidential Information Memorandums, identifying red flags, adjusting financials, and making informed decisions about acquisition opportunities.",
   category: "deal-execution",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
@@ -126,7 +126,7 @@ export default function ReadingACIMArticle() {
         Watch for CIMs that describe "proprietary" solutions without explaining what makes them proprietary, or those that list many products without clarifying which drive profitability.
       </p>
 
-      <h3 className={h3Class}>Market Overview and Competitive Landscape</h3>
+      <h3 className={h3Class}>Market Overview and competitive environment</h3>
 
       <p className={bodyClass}>
         CIMs typically include market size estimates, growth projections, competitive positioning, and market trends. This section often contains the most optimistic (and least verifiable) claims.
@@ -293,7 +293,7 @@ export default function ReadingACIMArticle() {
       </ul>
 
       <p className={bodyClass}>
-        For a comprehensive financial analysis framework, reference our <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">Guide to Interpreting Financial Statements</Link>.
+        For a thorough financial analysis framework, reference our <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">Guide to Interpreting Financial Statements</Link>.
       </p>
 
       <h3 className={h3Class}>Cash Flow vs. EBITDA</h3>
@@ -359,7 +359,7 @@ export default function ReadingACIMArticle() {
       </ul>
 
       <p className={bodyClass}>
-        For a comprehensive list of what to watch for during the diligence process, see our <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">Due Diligence Red Flags Guide</Link>.
+        For a thorough list of what to watch for during the diligence process, see our <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">Due Diligence Red Flags Guide</Link>.
       </p>
 
       <h2 className={h2Class}>Questions to Ask After Reading a CIM</h2>
@@ -478,7 +478,7 @@ export default function ReadingACIMArticle() {
       <h2 className={h2Class}>Working with Brokers and Advisors</h2>
 
       <p className={bodyClass}>
-        The CIM comes from the seller's advisor, who has conflicting interests. The broker wants to close the deal at the highest price - their fee depends on it. Understanding this dynamic helps you navigate the process effectively.
+        The CIM comes from the seller's advisor, who has conflicting interests. The broker wants to close the deal at the highest price - their fee depends on it. Understanding this dynamic helps you manage the process effectively.
       </p>
 
       <p className={bodyClass}>
@@ -489,7 +489,7 @@ export default function ReadingACIMArticle() {
         <li><strong>Be professional and responsive:</strong> Brokers prioritize serious buyers who close deals. Demonstrate you're credible</li>
         <li><strong>Ask direct questions:</strong> Good brokers will answer honestly; evasive responses are telling</li>
         <li><strong>Request supporting documentation:</strong> Tax returns, customer contracts, financial detail - don't just accept the CIM as complete</li>
-        <li><strong>Understand the process:</strong> Is this a broad auction, limited process, or exclusive opportunity? That affects your leverage</li>
+        <li><strong>Understand the process:</strong> Is this a broad auction, limited process, or exclusive opportunity? That affects your use</li>
         <li><strong>Build relationships:</strong> If you pass on a deal, explain why professionally. Brokers remember serious searchers and will bring you future opportunities</li>
       </ul>
 
@@ -655,7 +655,7 @@ export default function ReadingACIMArticle() {
             <li>
               <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
                 Due Diligence Checklist
-              </Link> - Comprehensive framework for investigating acquisition targets
+              </Link> - Thorough framework for investigating acquisition targets
             </li>
             <li>
               <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">
@@ -675,7 +675,7 @@ export default function ReadingACIMArticle() {
             <li>
               <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
                 Working with Brokers
-              </Link> - Navigating relationships with M&A intermediaries
+              </Link> - Managing relationships with M&A intermediaries
             </li>
           </ul>
         </div>

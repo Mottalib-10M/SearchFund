@@ -247,7 +247,7 @@ export default function EducationAcquisitionArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Regulatory landscape</h2>
+        <h2 className={h2Class}>regulatory environment</h2>
 
         <h3 className={h3Class}>Education licensing and state approvals</h3>
         <p>
@@ -483,7 +483,7 @@ export default function EducationAcquisitionArticle() {
           Education and training businesses offer search fund
           entrepreneurs a sector with genuine secular tailwinds,
           meaningful digital transformation upside, and a fragmented
-          competitive landscape rich with acquisition targets. Applying a thorough{" "}
+          competitive environment rich with acquisition targets. Applying a thorough{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> is
           essential. The keys to success are understanding the specific accreditation and
           regulatory requirements of your target sub-sector, mitigating

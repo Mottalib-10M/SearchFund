@@ -121,7 +121,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Businesses with 60%+ recurring revenue typically command premium valuations - and deserve them. This revenue base provides stability during your crucial first year as CEO and reduces the pressure to constantly hunt for new business.
+        Businesses with 60%+ recurring revenue typically command premium valuations - and deserve them. This revenue base provides stability during your critical first year as CEO and reduces the pressure to constantly hunt for new business.
       </p>
 
       <p className={bodyClass}>
@@ -527,7 +527,7 @@ export default function IdealAcquisitionTargetArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Navigate regulatory complexity carefully, but healthcare's growth fundamentals and essential nature create attractive long-term dynamics.
+        Manage regulatory complexity carefully, but healthcare's growth fundamentals and essential nature create attractive long-term dynamics.
       </p>
 
       <h3 className={h3Class}>Education and Training</h3>

@@ -15,7 +15,7 @@ export default function ETACroatiaSloveniaArticle() {
           <li><strong>Slovenia:</strong> $65B GDP, 2.1M population. Most developed ex-Yugoslav economy. Strong manufacturing, pharma, and IT sectors.</li>
           <li><strong>Croatia:</strong> $80B GDP, 3.9M population. Tourism powerhouse (20M+ visitors/year). Growing services and tech sectors.</li>
           <li><strong>EU &amp; Eurozone:</strong> Both are EU and Eurozone members with euro currency. Full access to EU single market.</li>
-          <li><strong>Business landscape:</strong> Dominated by SMEs. Post-transition business founders reaching retirement age.</li>
+          <li><strong>Business market:</strong> Dominated by SMEs. Post-transition business founders reaching retirement age.</li>
           <li><strong>Valuations:</strong> 3&ndash;6x EBITDA. Discount to Austria and Italy but premium to Bulgaria and Romania.</li>
         </ul>
       </div>

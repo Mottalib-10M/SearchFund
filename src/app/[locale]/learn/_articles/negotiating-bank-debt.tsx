@@ -71,7 +71,7 @@ export default function NegotiatingBankDebtArticle() {
           <li><strong>Credit unions:</strong> Often competitive on rates, especially for smaller deals</li>
           <li><strong>Non-bank lenders:</strong> Alternative lenders, BDCs &mdash; faster but typically more expensive. For subordinated capital layers, see our <Link href="/learn/mezzanine-financing" className="text-apple-accent hover:underline">mezzanine financing guide</Link></li>
         </ul>
-        <p>Talk to 3&ndash;5 lenders minimum. Use competing term sheets as leverage in negotiations. The{" "}
+        <p>Talk to 3&ndash;5 lenders minimum. Use competing term sheets as use in negotiations. The{" "}
           <a href="https://www.aba.com/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">ABA Banking Journal</a>{" "}
           notes that community and regional banks close over 60% of acquisition loans under $10M, making them the most active lenders for search fund deals.</p>
       </div>
@@ -103,7 +103,7 @@ export default function NegotiatingBankDebtArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Get 3&ndash;5 competing term sheets and use them as leverage</li>
+          <li>Get 3&ndash;5 competing term sheets and use them as use</li>
           <li>Focus negotiations on covenants, prepayment, and personal guarantee terms &mdash; not just interest rate</li>
           <li>Negotiate interest-only periods and covenant holidays for the transition period</li>
           <li>Start the lender process at LOI signing to avoid closing delays</li>
@@ -125,7 +125,7 @@ export default function NegotiatingBankDebtArticle() {
       <h3 className={h3Class}>How many lenders should I approach for an acquisition loan?</h3>
       <div className={bodyClass}>
         <p>
-          Approach 3&ndash;5 lenders minimum. Having multiple term sheets creates competitive tension and gives you leverage to negotiate better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process when you sign the LOI &mdash; financing delays are the number one cause of failed closings in SME acquisitions.
+          Approach 3&ndash;5 lenders minimum. Having multiple term sheets creates competitive tension and gives you use to negotiate better rates, covenants, and prepayment terms. Include a mix of SBA Preferred Lenders, regional banks, and at least one credit union. Start the process when you sign the LOI &mdash; financing delays are the number one cause of failed closings in SME acquisitions.
         </p>
       </div>
 

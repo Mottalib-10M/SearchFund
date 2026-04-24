@@ -17,7 +17,7 @@ export default function LandscapingAcquisitionArticle() {
           <li><strong>Fragmented:</strong> The top 50 companies have less than 5% market share. Enormous room for consolidation.</li>
           <li><strong>Subscription-friendly:</strong> Monthly contracts are the norm in commercial landscaping and becoming standard in residential</li>
           <li><strong>Revenue diversification:</strong> Snow removal (winter), holiday lighting, irrigation, hardscaping, and tree services offset seasonality</li>
-          <li><strong>Labor leverage:</strong> Well-managed companies with training programs and H-2B visa expertise have a massive competitive advantage</li>
+          <li><strong>Labor use:</strong> Well-managed companies with training programs and H-2B visa expertise have a massive competitive advantage</li>
         </ul>
       </div>
 
@@ -25,7 +25,7 @@ export default function LandscapingAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Maintenance-focused:</strong> Weekly/biweekly mowing, trimming, and property upkeep. Highest recurring revenue. Best for ETA.</li>
-          <li><strong>Design/build:</strong> Landscape design, installation, hardscaping. Higher ticket, project-based. Lower predictability.</li>
+          <li><strong>Design/build:</strong> Market design, installation, hardscaping. Higher ticket, project-based. Lower predictability.</li>
           <li><strong>Commercial maintenance:</strong> HOAs, office parks, municipalities. Larger contracts, bid-driven, lower margins.</li>
           <li><strong>Specialty:</strong> Tree care, irrigation, turf management, snow removal. Can be high-margin add-ons.</li>
         </ul>
@@ -78,7 +78,7 @@ export default function LandscapingAcquisitionArticle() {
 
       <h3 className={h3Class}>What are typical valuation multiples for landscaping businesses?</h3>
       <p className={bodyClass}>
-        Landscaping businesses typically trade at 3&ndash;6x EBITDA, with maintenance-focused companies commanding higher multiples due to their recurring revenue base. According to IBISWorld&rsquo;s 2024 industry analysis, landscaping companies with 60%+ recurring maintenance revenue trade at 4.5&ndash;6x EBITDA, while project-based design/build companies trade at 3&ndash;4.5x. The NALP Landscape Industry Market Report found that companies with year-round revenue (maintenance + snow removal + holiday lighting) achieve the highest multiples because they demonstrate four-season cash flow stability. Equipment condition significantly affects valuation&mdash;a well-maintained fleet adds value while deferred maintenance creates a hidden liability that should be deducted.
+        Landscaping businesses typically trade at 3&ndash;6x EBITDA, with maintenance-focused companies commanding higher multiples due to their recurring revenue base. According to IBISWorld&rsquo;s 2024 industry analysis, landscaping companies with 60%+ recurring maintenance revenue trade at 4.5&ndash;6x EBITDA, while project-based design/build companies trade at 3&ndash;4.5x. The NALP Market Industry Market Report found that companies with year-round revenue (maintenance + snow removal + holiday lighting) achieve the highest multiples because they demonstrate four-season cash flow stability. Equipment condition significantly affects valuation&mdash;a well-maintained fleet adds value while deferred maintenance creates a hidden liability that should be deducted.
       </p>
 
       <h3 className={h3Class}>How important is the H-2B visa program for landscaping acquisitions?</h3>
@@ -93,9 +93,9 @@ export default function LandscapingAcquisitionArticle() {
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
-        <li>NALP, <em>Landscape Industry Market Report</em> (2024)</li>
+        <li>NALP, <em>Market Industry Market Report</em> (2024)</li>
         <li>IBISWorld, <em>Landscaping Services in the US</em> (2024)</li>
-        <li>Aspire Software, <em>Landscape Business Benchmarking Report</em> (2024)</li>
+        <li>Aspire Software, <em>Market Business Benchmarking Report</em> (2024)</li>
       </ul>
     </article>
   );

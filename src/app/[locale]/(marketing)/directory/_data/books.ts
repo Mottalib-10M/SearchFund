@@ -58,7 +58,7 @@ export const books: BookEntry[] = [
     author: "Michael D. Watkins",
     year: 2013,
     description:
-      "The First 90 Days by Michael Watkins is essential reading for any search fund operator transitioning into the CEO role of their newly acquired business. The book provides a systematic framework for navigating leadership transitions, covering how to accelerate learning about a new organization, build relationships with key stakeholders, align expectations, secure early wins, and create coalitions for change. Watkins identifies common traps that derail leaders in transition and provides strategies to avoid them. For search fund entrepreneurs, who often face the unique challenge of stepping into a leadership role in a company they did not build, this book offers critical guidance on the first critical months post-acquisition.",
+      "The First 90 Days by Michael Watkins is essential reading for any search fund operator transitioning into the CEO role of their newly acquired business. The book provides a systematic framework for managing leadership transitions, covering how to accelerate learning about a new organization, build relationships with key stakeholders, align expectations, secure early wins, and create coalitions for change. Watkins identifies common traps that derail leaders in transition and provides strategies to avoid them. For search fund entrepreneurs, who often face the unique challenge of stepping into a leadership role in a company they did not build, this book offers critical guidance on the first critical months post-acquisition.",
     category: "operations",
     targetAudience: ["searcher", "operator"],
     source: "Published book (Harvard Business Review Press, 2013)",
@@ -94,7 +94,7 @@ export const books: BookEntry[] = [
     author: "Verne Harnish",
     year: 2014,
     description:
-      "Scaling Up by Verne Harnish is a comprehensive guide to growing a mid-sized business, organized around four key decisions every company must get right: People, Strategy, Execution, and Cash. The book provides practical tools including the One-Page Strategic Plan, the Rockefeller Habits Checklist, and frameworks for managing cash flow during growth. For search fund operators who have acquired a business and need to scale it, Harnish offers battle-tested methodologies for hiring the right people, developing a differentiated strategy, driving operational execution, and ensuring the business has adequate cash to fund growth. The book is widely used by CEOs and management teams in companies with revenues from several million to hundreds of millions.",
+      "Scaling Up by Verne Harnish is a thorough guide to growing a mid-sized business, organized around four key decisions every company must get right: People, Strategy, Execution, and Cash. The book provides practical tools including the One-Page Strategic Plan, the Rockefeller Habits Checklist, and frameworks for managing cash flow during growth. For search fund operators who have acquired a business and need to scale it, Harnish offers battle-tested methodologies for hiring the right people, developing a differentiated strategy, driving operational execution, and ensuring the business has adequate cash to fund growth. The book is widely used by CEOs and management teams in companies with revenues from several million to hundreds of millions.",
     category: "operations",
     targetAudience: ["operator"],
     source: "Published book (Gazelles Inc., 2014)",
@@ -119,7 +119,7 @@ export const books: BookEntry[] = [
     author: "Aswath Damodaran",
     year: 2012,
     description:
-      "Investment Valuation by NYU Stern professor Aswath Damodaran is the comprehensive reference on business valuation methodology. The book covers the full spectrum of valuation approaches including discounted cash flow analysis, relative valuation using multiples, real options valuation, and valuation of specific asset types. Damodaran provides detailed guidance on estimating discount rates, projecting cash flows, selecting comparable companies, and adjusting for risk. For search fund practitioners, the book serves as the authoritative reference for understanding and applying valuation techniques to potential acquisition targets. While academic in rigor, Damodaran's writing is accessible and supported by extensive real-world examples from public and private markets.",
+      "Investment Valuation by NYU Stern professor Aswath Damodaran is the thorough reference on business valuation methodology. The book covers the full spectrum of valuation approaches including discounted cash flow analysis, relative valuation using multiples, real options valuation, and valuation of specific asset types. Damodaran provides detailed guidance on estimating discount rates, projecting cash flows, selecting comparable companies, and adjusting for risk. For search fund practitioners, the book serves as the authoritative reference for understanding and applying valuation techniques to potential acquisition targets. While academic in rigor, Damodaran's writing is accessible and supported by extensive real-world examples from public and private markets.",
     category: "valuation",
     targetAudience: ["searcher", "investor"],
     source: "Published book (Wiley, 3rd edition, 2012)",

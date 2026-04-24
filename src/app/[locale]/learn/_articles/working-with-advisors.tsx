@@ -290,7 +290,7 @@ export default function WorkingWithAdvisorsArticle() {
             complex - budget 20-40% more for European transactions.
           </li>
           <li>
-            <strong>Broker landscape:</strong> Less developed than the US. Local
+            <strong>Broker market:</strong> Less developed than the US. Local
             intermediaries and Chambers of Commerce play a larger role.
           </li>
         </ul>

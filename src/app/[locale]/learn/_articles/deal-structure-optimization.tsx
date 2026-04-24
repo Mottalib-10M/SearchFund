@@ -29,7 +29,7 @@ export default function DealStructureOptimizationArticle() {
             </Link>{" "}
             or bank) + buyer equity</li>
           <li>Sellers prefer maximum cash at close for certainty</li>
-          <li>Buyers prefer less cash at close to reduce risk and leverage</li>
+          <li>Buyers prefer less cash at close to reduce risk and use</li>
         </ul>
 
         <h3 className={h3Class}>2. Seller financing</h3>
@@ -82,7 +82,7 @@ export default function DealStructureOptimizationArticle() {
           <li><strong>Seller note:</strong> 10&ndash;15% (on standby for 2 years per SBA rules)</li>
           <li><strong>Buyer equity:</strong> 10&ndash;15%</li>
           <li><strong>Best for:</strong> Businesses with $500K&ndash;$1.5M EBITDA, self-funded searchers</li>
-          <li><strong>Total leverage:</strong> 3&ndash;3.5x EBITDA</li>
+          <li><strong>Total use:</strong> 3&ndash;3.5x EBITDA</li>
         </ul>
 
         <h3 className={h3Class}>Structure 2: Traditional search fund acquisition</h3>
@@ -91,7 +91,7 @@ export default function DealStructureOptimizationArticle() {
           <li><strong>Seller note:</strong> 10&ndash;20%</li>
           <li><strong>Search fund investor equity:</strong> 20&ndash;35%</li>
           <li><strong>Best for:</strong> Businesses with $1.5M&ndash;$5M EBITDA</li>
-          <li><strong>Total leverage:</strong> 2.5&ndash;3.5x EBITDA</li>
+          <li><strong>Total use:</strong> 2.5&ndash;3.5x EBITDA</li>
         </ul>
 
         <h3 className={h3Class}>Structure 3: Creative / seller-heavy</h3>
@@ -141,7 +141,7 @@ export default function DealStructureOptimizationArticle() {
               purchase agreement
             </Link></li>
           <li><strong>Escrow / holdback:</strong> 10&ndash;20% of purchase price held back for 12&ndash;24 months to cover indemnification claims</li>
-          <li><strong>Representations &amp; warranties:</strong> Comprehensive reps with meaningful indemnification give you recourse if the seller misrepresented the business</li>
+          <li><strong>Representations &amp; warranties:</strong> Thorough reps with meaningful indemnification give you recourse if the seller misrepresented the business</li>
           <li><strong>Cap on seller note:</strong> Structure the seller note so that payments stop if the business materially underperforms</li>
         </ul>
 

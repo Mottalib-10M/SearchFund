@@ -139,7 +139,7 @@ export default function HowLongSearchFundArticle() {
           to 17 months during the 2020&ndash;2021 period when deal velocity
           was unusually high. Roughly 63% of traditional searchers who have
           concluded their search ultimately acquired a company, which means
-          37% did not &mdash; a sobering statistic that underscores why
+          37% did not &mdash; a sobering statistic that highlights why
           timeline management matters.
         </p>
 

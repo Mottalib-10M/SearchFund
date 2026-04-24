@@ -39,10 +39,10 @@ export default function GoodAcquisitionTargetArticle() {
           at a 7.0x EBITDA multiple, with a median company EBITDA of $2.2
           million at the time of acquisition. Those numbers leave almost no room
           for error: overpay by one turn of EBITDA or misjudge the stability of
-          cash flows, and the leveraged capital structure collapses.
+          cash flows, and the used capital structure collapses.
         </p>
         <p>
-          Target selection is the single highest-leverage decision a searcher
+          Target selection is the single highest-use decision a searcher
           makes. A rigorous Ideal Company Profile (ICP) prevents two common
           failure modes: acquiring a business that cannot service its debt, and
           acquiring a business the new CEO cannot actually operate. The 10
@@ -80,7 +80,7 @@ export default function GoodAcquisitionTargetArticle() {
             <strong>Avoid:</strong> Project-based businesses where every dollar
             of revenue must be re-sold from scratch each quarter. Construction,
             custom fabrication, and one-time consulting engagements carry revenue
-            volatility that compounds under leverage.
+            volatility that compounds under use.
           </li>
           <li>
             See{" "}
@@ -179,7 +179,7 @@ export default function GoodAcquisitionTargetArticle() {
           <li>
             <strong>Margin floor:</strong> Target 15%+ EBITDA margins. The
             median margin among acquired search fund companies is 27%, and that
-            buffer matters when you are servicing 3&ndash;4x leverage.
+            buffer matters when you are servicing 3&ndash;4x use.
           </li>
           <li>
             <strong>Trend requirement:</strong> Flat or growing EBITDA over the

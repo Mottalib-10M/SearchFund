@@ -69,7 +69,7 @@ export default function StrategicVsFinancialSaleArticle() {
         <h3 className={h3Class}>How they value</h3>
         <ul className={ulClass}>
           <li>Financial buyers value based on standalone cash flow, not synergies</li>
-          <li>They use leverage ({" "}
+          <li>They use use ({" "}
             <Link href="/learn/lbo-for-smes" className="text-apple-accent hover:underline">
               LBO
             </Link>{" "}
@@ -80,7 +80,7 @@ export default function StrategicVsFinancialSaleArticle() {
 
         <h3 className={h3Class}>Typical financial buyer deal structure</h3>
         <ul className={ulClass}>
-          <li><strong>Leveraged:</strong> 50&ndash;70% debt, 30&ndash;50% equity. The buyer puts less cash at risk and uses leverage to amplify returns</li>
+          <li><strong>Used:</strong> 50&ndash;70% debt, 30&ndash;50% equity. The buyer puts less cash at risk and uses use to amplify returns</li>
           <li><strong>
             <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
               Earn-outs

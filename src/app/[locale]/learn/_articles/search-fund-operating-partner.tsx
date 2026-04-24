@@ -186,7 +186,7 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h2 className={h2Class}>Legal agreements: the business prenup</h2>
         <p>
-          A search fund partnership without a robust operating agreement is like a marriage
+          A search fund partnership without a strong operating agreement is like a marriage
           without a prenup &mdash; everything is fine until it isn&rsquo;t. The legal
           documents that govern a partnership should be drafted at the very beginning of
           the relationship, when goodwill is high and the incentive to be fair is
@@ -327,7 +327,7 @@ export default function SearchFundOperatingPartnerArticle() {
           Understanding how{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
           evaluate partner teams is essential for anyone considering this model. Investor
-          perspectives on partnerships are nuanced and often divided:
+          perspectives on partnerships are detailed and often divided:
         </p>
 
         <h3 className={h3Class}>What investors like about partnerships</h3>
@@ -567,7 +567,7 @@ export default function SearchFundOperatingPartnerArticle() {
             immediately rather than letting it fester.
           </li>
           <li>
-            <strong>Leverage the board:</strong> Give your board of directors an explicit
+            <strong>Use the board:</strong> Give your board of directors an explicit
             role in monitoring the health of the partnership. A trusted board member who
             can mediate disagreements is invaluable.
           </li>
@@ -609,7 +609,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <h3 className={h3Class}>What percentage of search funds use the operating partner model, and do partnered searches perform differently than solo searches?</h3>
         <p>
           According to the{" "}
-          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, approximately 30&ndash;35% of traditional search funds are raised by partner teams, a proportion that has remained relatively stable over the past two decades. The performance data is nuanced: partnered searches tend to have slightly higher acquisition rates (because two searchers cover more ground), but the aggregate return data does not show a statistically significant difference between solo and partnered funds. The key variable is not the number of partners but the quality of the partnership &mdash; teams with genuinely complementary skills and clear role definition outperform teams composed of two people with similar backgrounds. Investors report that the single greatest risk in partnered searches is partner conflict post-acquisition, which can destabilize the business and destroy value more severely than typical solo-searcher challenges.
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, approximately 30&ndash;35% of traditional search funds are raised by partner teams, a proportion that has remained relatively stable over the past two decades. The performance data is detailed: partnered searches tend to have slightly higher acquisition rates (because two searchers cover more ground), but the aggregate return data does not show a statistically significant difference between solo and partnered funds. The key variable is not the number of partners but the quality of the partnership &mdash; teams with genuinely complementary skills and clear role definition outperform teams composed of two people with similar backgrounds. Investors report that the single greatest risk in partnered searches is partner conflict post-acquisition, which can destabilize the business and destroy value more severely than typical solo-searcher challenges.
         </p>
 
         <h3 className={h3Class}>How should partnered searchers split equity, and what vesting schedule is standard?</h3>
@@ -620,7 +620,7 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h3 className={h3Class}>What legal agreements do search fund partners need before launching?</h3>
         <p>
-          At minimum, partners need a comprehensive operating agreement drafted by counsel experienced in search fund partnerships. Key provisions include: equity allocation and vesting schedules for each partner, written role definitions and authority boundaries, compensation terms (salary, bonus, any differences between partners), buyout provisions with a defined valuation methodology (typically fair market value or formula-based pricing), non-compete and non-solicitation clauses, dissolution triggers and procedures, and a dispute resolution mechanism (mediation first, then binding arbitration). Partners should also align on lifestyle expectations &mdash; hours worked, relocation willingness, exit timeline, risk tolerance &mdash; and document these discussions. Generic partnership templates are insufficient for the specific complexities of search fund economics, investor rights, and vesting structures. The legal cost of drafting these agreements ($10K&ndash;$25K) is a trivial expense relative to the cost of an unstructured partnership breakdown.
+          At minimum, partners need a thorough operating agreement drafted by counsel experienced in search fund partnerships. Key provisions include: equity allocation and vesting schedules for each partner, written role definitions and authority boundaries, compensation terms (salary, bonus, any differences between partners), buyout provisions with a defined valuation methodology (typically fair market value or formula-based pricing), non-compete and non-solicitation clauses, dissolution triggers and procedures, and a dispute resolution mechanism (mediation first, then binding arbitration). Partners should also align on lifestyle expectations &mdash; hours worked, relocation willingness, exit timeline, risk tolerance &mdash; and document these discussions. Generic partnership templates are insufficient for the specific complexities of search fund economics, investor rights, and vesting structures. The legal cost of drafting these agreements ($10K&ndash;$25K) is a trivial expense relative to the cost of an unstructured partnership breakdown.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

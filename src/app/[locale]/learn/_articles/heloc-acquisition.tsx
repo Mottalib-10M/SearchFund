@@ -76,7 +76,7 @@ export default function HELOCAcquisitionArticle() {
           cash. Rates in early 2026 average around 6.25%, which is lower than
           either HELOC or home equity loan rates. However, a cash-out refi
           carries 3&ndash;6% of the loan amount in closing costs, resets your
-          mortgage term, and &mdash; crucially &mdash; destroys any low rate
+          mortgage term, and &mdash; critically &mdash; destroys any low rate
           you locked in during 2020&ndash;2021 (CBS News, 2026). For most
           acquisition-minded homeowners with a sub-4% first mortgage, a HELOC
           or home equity loan is the better option because it preserves that
@@ -231,7 +231,7 @@ export default function HELOCAcquisitionArticle() {
           equity injection source &mdash; <strong>but only if the borrower
           demonstrates sufficient income from outside the acquired business to
           service the HELOC debt</strong> (Sperita Capital; Starfield &amp;
-          Smith, 2025). This is a critical nuance that trips up buyers. The
+          Smith, 2025). This is a critical detail that trips up buyers. The
           SBA&rsquo;s logic is that the business&rsquo;s cash flow should be
           reserved for servicing the SBA loan, not diverted to repay your
           personal HELOC. Acceptable outside income sources include:
@@ -361,7 +361,7 @@ export default function HELOCAcquisitionArticle() {
         </h2>
         <p>
           There is no way to sugarcoat this. When you take a HELOC to fund a
-          business acquisition, you are double-leveraging your personal balance
+          business acquisition, you are double-using your personal balance
           sheet. Your home secures the HELOC. The business secures the SBA loan.
           And you personally guarantee the SBA loan. If the business fails and
           you cannot cover the SBA loan, SBA debt service, and HELOC payments
@@ -382,7 +382,7 @@ export default function HELOCAcquisitionArticle() {
             sensitivity models assuming a 200+ basis-point rate increase.
           </li>
           <li>
-            <strong>Double leverage on a single household:</strong> You may be
+            <strong>Double use on a single household:</strong> You may be
             carrying a first mortgage, a HELOC, personal guarantee on an SBA
             loan, and possibly a car loan and student debt. If the acquired
             business hits a rough quarter and distributions drop, all these
@@ -473,7 +473,7 @@ export default function HELOCAcquisitionArticle() {
             cyclical risk that could disrupt cash flow in year one
           </li>
           <li>
-            You are already highly leveraged personally (high DTI, existing
+            You are already highly used personally (high DTI, existing
             second mortgage, significant consumer debt)
           </li>
           <li>

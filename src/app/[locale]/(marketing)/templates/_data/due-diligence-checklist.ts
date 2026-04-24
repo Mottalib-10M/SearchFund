@@ -4,7 +4,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
   slug: "due-diligence-checklist",
   title: "Due Diligence Checklist for Small Business Acquisitions",
   description:
-    "A comprehensive due diligence checklist across 8 dimensions - financial, legal, tax, commercial, operational, HR, IT, and ESG - tailored for search fund and SME acquisitions.",
+    "A thorough due diligence checklist across 8 dimensions - financial, legal, tax, commercial, operational, HR, IT, and ESG - tailored for search fund and SME acquisitions.",
   phase: "acquire",
   datePublished: "2025-03-15",
   dateModified: "2025-06-10",
@@ -203,7 +203,7 @@ export const dueDiligenceChecklist: TemplateMeta = {
 <ul>
   <li>What is the customer retention rate over the past 3-5 years?</li>
   <li>How does the company win new business? (inbound vs. outbound, referrals vs. marketing)</li>
-  <li>What is the competitive landscape and the company's sustainable differentiation?</li>
+  <li>What is the competitive environment and the company's sustainable differentiation?</li>
   <li>Are there obvious expansion opportunities (new geographies, products, adjacencies)?</li>
   <li>What would happen to revenue if the owner/founder left?</li>
   <li>Conduct reference calls with 5-10 key customers (with seller permission)</li>

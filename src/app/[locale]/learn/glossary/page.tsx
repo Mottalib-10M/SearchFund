@@ -47,7 +47,7 @@ export default function GlossaryPage() {
         ETA Glossary
       </h1>
       <p className="text-apple-gray-500 mt-2 max-w-2xl">
-        A comprehensive dictionary of search fund and acquisition terminology
+        A thorough dictionary of search fund and acquisition terminology
         &mdash; {glossaryTerms.length} terms defined.
       </p>
 

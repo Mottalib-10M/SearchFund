@@ -13,10 +13,10 @@ export default function ETAUSArticle() {
           more than 40 years of evolution, it remains the world&apos;s deepest,
           most mature, and most institutionalized ETA market. What began as an
           experimental concept at Stanford Graduate School of Business in 1984
-          has grown into a well-established asset class with a robust ecosystem
+          has grown into a well-established asset class with a strong ecosystem
           of investors, advisors, lenders, and educational programs. The US
           market offers searchers unmatched access to capital, deal flow, and
-          institutional support &mdash; but also the most competitive landscape
+          institutional support &mdash; but also the most competitive environment
           in the world. Understanding the nuances of the American ETA
           ecosystem is essential for anyone considering a search in the US or
           benchmarking their own market against the global standard. If you are new to ETA, start with our <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link>.
@@ -36,7 +36,7 @@ export default function ETAUSArticle() {
         <p>
           Over the following decades, the model proved remarkably successful.
           Stanford&apos;s Center for Entrepreneurial Studies has tracked
-          search fund performance since the 1990s, publishing comprehensive
+          search fund performance since the 1990s, publishing thorough
           studies &mdash; most recently the <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link> &mdash; that have become the definitive reference for the industry.
           The data has consistently shown that search funds produce attractive
           returns for investors &mdash; historically averaging 30-35% IRR
@@ -65,12 +65,12 @@ export default function ETAUSArticle() {
           <li>
             <strong>Stanford GSB:</strong> The birthplace of the search fund
             model. Offers dedicated ETA courses, maintains the most
-            comprehensive database of search fund outcomes, and produces the
+            thorough database of search fund outcomes, and produces the
             biennial Stanford Search Fund Study. The Stanford network remains
             the largest and most influential in US ETA.
           </li>
           <li>
-            <strong>Harvard Business School:</strong> Has developed a robust
+            <strong>Harvard Business School:</strong> Has developed a strong
             ETA program with case studies, dedicated faculty, and a growing
             alumni network of searchers. HBS searchers benefit from the
             school&apos;s enormous alumni base and brand recognition.
@@ -142,7 +142,7 @@ export default function ETAUSArticle() {
             of post-acquisition equity), full control over search criteria
             and timeline, flexibility to pursue smaller deals that
             traditional investors might reject, ability to use SBA loans
-            for leverage.
+            for use.
           </li>
           <li>
             <strong>Cons:</strong> Personal financial risk during the search
@@ -191,7 +191,7 @@ export default function ETAUSArticle() {
         </ul>
         <p>
           The SBA 7(a) program effectively allows searchers to acquire
-          businesses with as little as 10% equity, creating leverage
+          businesses with as little as 10% equity, creating use
           economics that are virtually impossible to replicate in European
           markets. This has fueled the explosive growth of self-funded
           search in the US.
@@ -344,7 +344,7 @@ export default function ETAUSArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Financing:</strong> SBA loans give US searchers leverage
+            <strong>Financing:</strong> SBA loans give US searchers use
             that is difficult to replicate in Europe. European searchers
             rely more on commercial bank lending, seller financing, and
             government programs (BPI France, ICO Spain, KfW Germany).
@@ -375,7 +375,7 @@ export default function ETAUSArticle() {
         <h2 className={h2Class}>Regulatory considerations</h2>
         <p>
           US acquisitions involve several regulatory considerations that
-          searchers must navigate. Federal securities laws apply to the
+          searchers must manage. Federal securities laws apply to the
           raising of search fund capital (typically structured as a
           Regulation D private placement). State-level regulations vary
           significantly &mdash; some states require business transfer
@@ -393,7 +393,7 @@ export default function ETAUSArticle() {
           After four decades, the US ETA market has reached a level of
           maturity that brings both advantages and challenges. The
           advantages are clear: proven model, extensive data, deep investor
-          base, robust support infrastructure, and a large population of
+          base, strong support infrastructure, and a large population of
           successful alumni who mentor new searchers. The challenges of
           maturity include increased competition for attractive deals,
           higher valuations driven by more buyers, greater sophistication
@@ -410,7 +410,7 @@ export default function ETAUSArticle() {
           outreach and industry networking. The US search fund market
           continues to evolve, and the searchers who will thrive in the
           next decade are those who can differentiate themselves in an
-          increasingly competitive landscape while staying true to the
+          increasingly competitive environment while staying true to the
           fundamental principles that have made ETA successful for over
           40 years. When the time comes, having a clear plan for your <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy</Link> is essential to realizing that value.
         </p>

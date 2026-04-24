@@ -32,7 +32,7 @@ export default function SearchFundReturnsArticle() {
           through a successful exit, a wind-down, or a total loss. Because
           they include all outcomes, they provide a useful picture of the asset
           class as a whole, but they can be skewed by a small number of
-          exceptional performers. To build a more nuanced understanding, it
+          exceptional performers. To build a more detailed understanding, it
           is essential to look at the full distribution of returns.
         </p>
 
@@ -140,7 +140,7 @@ export default function SearchFundReturnsArticle() {
           equity value. In a typical five-year hold, a business might pay down
           most or all of its acquisition debt, creating significant returns
           for equity holders even if the business&rsquo;s enterprise value
-          remains flat. This &ldquo;leveraged equity&rdquo; effect is a
+          remains flat. This &ldquo;used equity&rdquo; effect is a
           structural advantage of the search fund model.
         </p>
 
@@ -269,7 +269,7 @@ export default function SearchFundReturnsArticle() {
           and a larger pool of succession-driven transactions suggest that
           European funds may ultimately deliver returns comparable to or better
           than their US counterparts. INSEAD&apos;s ETA & Search Funds Hub is
-          actively building the most comprehensive dataset on European search
+          actively building the most thorough dataset on European search
           fund performance, tracking deals across France, DACH, Benelux, and
           the Nordics &mdash; providing investors with the data they need to support
           European searchers with confidence.
@@ -281,7 +281,7 @@ export default function SearchFundReturnsArticle() {
           community matures &mdash; with more experienced investors, better
           operational playbooks, and a growing alumni network &mdash; many
           industry observers expect European returns to converge with or
-          exceed US benchmarks. For a deeper look at the European landscape,
+          exceed US benchmarks. For a deeper look at the European market,
           see our guide to{" "}
           <Link href="/learn/european-search-fund-research" className="text-apple-accent hover:underline">European search fund research from IESE and INSEAD</Link>.
         </p>

@@ -79,7 +79,7 @@ export default function ETAJapanArticle() {
           <li><strong>IT Introduction Subsidy:</strong> For digitization post-succession</li>
         </ul>
 
-        <h2 className={h2Class}>The M&amp;A landscape</h2>
+        <h2 className={h2Class}>The M&amp;A market</h2>
 
         <h3 className={h3Class}>Acquisition multiples</h3>
         <p>

@@ -6,7 +6,7 @@ export default function EuropeanBusinessBrokersDirectoryArticle() {
     <article>
       <h1 className={h1Class}>European Business Brokers &amp; M&amp;A Advisors Directory</h1>
       <div className={bodyClass}>
-        <p>Finding the right broker or M&amp;A advisor is one of the most impactful decisions in a European search fund or acquisition process. Unlike the United States, where platforms like BizBuySell and business broker associations provide a relatively centralized marketplace, the European M&amp;A advisory landscape is fragmented along national and linguistic lines. Each country has its own ecosystem of brokers, intermediaries, and advisory firms, each with distinct practices, fee structures, and regulatory frameworks. For searchers pursuing <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">entrepreneurship through acquisition in Europe</Link>, navigating this landscape efficiently can mean the difference between finding a quality deal and spending years in an unproductive search.</p>
+        <p>Finding the right broker or M&amp;A advisor is one of the most impactful decisions in a European search fund or acquisition process. Unlike the United States, where platforms like BizBuySell and business broker associations provide a relatively centralized marketplace, the European M&amp;A advisory market is fragmented along national and linguistic lines. Each country has its own ecosystem of brokers, intermediaries, and advisory firms, each with distinct practices, fee structures, and regulatory frameworks. For searchers pursuing <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">entrepreneurship through acquisition in Europe</Link>, navigating this market efficiently can mean the difference between finding a quality deal and spending years in an unproductive search.</p>
         <p>This directory covers the major brokerage and advisory ecosystems across key European markets, how to evaluate and select an advisor, typical fee structures, and strategies for accessing <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">cross-border deal flow</Link>.</p>
       </div>
 
@@ -58,7 +58,7 @@ export default function EuropeanBusinessBrokersDirectoryArticle() {
         </ul>
 
         <h3 className={h3Class}>Austria</h3>
-        <p>Austria&apos;s M&amp;A advisory landscape mirrors Germany&apos;s on a smaller scale. The Austrian Chamber of Commerce (WKO) operates a business succession exchange, and regional advisory firms handle most SME transactions. Vienna-based firms like Deloitte Corporate Finance Advisory and local boutiques serve the Austrian mid-market.</p>
+        <p>Austria&apos;s M&amp;A advisory market mirrors Germany&apos;s on a smaller scale. The Austrian Chamber of Commerce (WKO) operates a business succession exchange, and regional advisory firms handle most SME transactions. Vienna-based firms like Deloitte Corporate Finance Advisory and local boutiques serve the Austrian mid-market.</p>
       </div>
 
       <h2 className={h2Class}>Iberian Peninsula (Spain &amp; Portugal)</h2>
@@ -83,7 +83,7 @@ export default function EuropeanBusinessBrokersDirectoryArticle() {
 
       <h2 className={h2Class}>Nordic Countries</h2>
       <div className={bodyClass}>
-        <p>The Nordic markets (Sweden, Denmark, Norway, Finland) offer high-quality acquisition targets with strong governance standards, transparent financial reporting, and robust legal frameworks. The aging of business owners across the Nordics is creating a growing pipeline of succession opportunities.</p>
+        <p>The Nordic markets (Sweden, Denmark, Norway, Finland) offer high-quality acquisition targets with strong governance standards, transparent financial reporting, and strong legal frameworks. The aging of business owners across the Nordics is creating a growing pipeline of succession opportunities.</p>
         <ul className={ulClass}>
           <li><strong>Sweden:</strong> Sweden has a particularly active M&amp;A market relative to its size. Advisors include Clearwater International (Sweden), Grant Thornton, and numerous local boutiques. Företagsmäklarna is a network of Swedish business brokers. Online platforms include BusinessForSale.se and the Swedish Chamber of Commerce&apos;s succession exchange.</li>
           <li><strong>Denmark:</strong> Danish M&amp;A advisors for SMEs include Oaklins Denmark, Bluefragment, and Baker Tilly Denmark. Virksomhedsbørsen.dk is a leading platform for business listings. Denmark&apos;s cooperative tradition means many potential targets have unique ownership structures.</li>
@@ -94,7 +94,7 @@ export default function EuropeanBusinessBrokersDirectoryArticle() {
 
       <h2 className={h2Class}>How to Choose the Right Broker or Advisor</h2>
       <div className={bodyClass}>
-        <p>Selecting the right intermediary is critical to a successful search process. The wrong broker can waste months of your time with poorly qualified opportunities, while the right one can provide access to off-market deals that perfectly match your criteria. Our comprehensive guide on <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">working with brokers</Link> covers this topic in depth, but here are the key factors to consider in the European context.</p>
+        <p>Selecting the right intermediary is critical to a successful search process. The wrong broker can waste months of your time with poorly qualified opportunities, while the right one can provide access to off-market deals that perfectly match your criteria. Our thorough guide on <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">working with brokers</Link> covers this topic in depth, but here are the key factors to consider in the European context.</p>
         <ol className={olClass}>
           <li><strong>Sector specialization:</strong> European M&amp;A advisors tend to be more sector-specialized than their US counterparts. A broker who focuses on healthcare transactions will have a different network and skill set than one who focuses on industrial businesses. Match the advisor&apos;s specialization to your target sectors.</li>
           <li><strong>Geographic coverage:</strong> Determine whether you need a local, regional, or pan-European advisor. For a search focused on a single country, a local firm with deep market knowledge and relationships is usually superior. For a multi-country search, a network firm (like Oaklins, Clearwater, or Clairfield) that operates across borders may be more efficient.</li>

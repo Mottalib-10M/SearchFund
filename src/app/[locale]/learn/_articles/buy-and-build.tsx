@@ -403,7 +403,7 @@ export default function BuyAndBuildArticle() {
         <p>
           Total acquisition cost: approximately $19M. Exit value: $60M. The
           original $10M platform investment has generated a 6x return on
-          enterprise value, plus the equity returns are amplified by leverage.
+          enterprise value, plus the equity returns are amplified by use.
           Investor returns in this scenario typically reach 8&ndash;12x.
         </p>
 
@@ -417,7 +417,7 @@ export default function BuyAndBuildArticle() {
           dental practices, or veterinary clinics. The key advantage is that
           integration is simpler because the businesses do the same thing
           &mdash; you are primarily consolidating back-office functions and
-          leveraging purchasing power.
+          using purchasing power.
         </p>
 
         <h3 className={h3Class}>Service line expansion</h3>

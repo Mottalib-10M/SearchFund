@@ -334,7 +334,7 @@ export default function CrossBorderAcquisitionsArticle() {
           </li>
         </ul>
         <p>
-          For a comprehensive comparison of exit-level capital gains treatment,
+          For a thorough comparison of exit-level capital gains treatment,
           see our guide on{" "}
           <Link href="/learn/capital-gains-tax-by-country" className="text-apple-accent hover:underline">
             capital gains tax by country
@@ -637,7 +637,7 @@ export default function CrossBorderAcquisitionsArticle() {
           For additional strategies on structuring your acquisition for tax
           efficiency &mdash; including QSBS planning, Section 338(h)(10)
           elections, and European participation exemptions &mdash; see our
-          comprehensive guide on{" "}
+          thorough guide on{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax optimization for search fund acquisitions
           </Link>. For regional deal-flow intelligence, explore our overviews

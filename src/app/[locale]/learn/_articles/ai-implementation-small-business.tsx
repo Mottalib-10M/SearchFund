@@ -33,7 +33,7 @@ export default function AIImplementationSmallBusinessArticle() {
         </p>
         <p>
           Large enterprises spend millions on AI because they must integrate with
-          hundreds of legacy systems, navigate internal politics across dozens of
+          hundreds of legacy systems, manage internal politics across dozens of
           departments, and comply with layers of corporate governance. A 40-person
           plumbing company has none of those obstacles. You can deploy an AI tool
           on Monday, train the team on Tuesday, and measure results by Friday. The

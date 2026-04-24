@@ -109,7 +109,7 @@ export default function PersonalGuaranteesAcquisitionArticle() {
       <div className={bodyClass}>
         <ol className={olClass}>
           <li><strong>Asset protection planning:</strong> Before signing the PG, consult an asset protection attorney. Some strategies (trusts, entity structuring) can protect certain assets, but they must be implemented before the guarantee &mdash; not after.</li>
-          <li><strong>Insurance:</strong> Ensure robust business insurance (general liability, E&O, key person) to prevent claims that could cascade into PG exposure.</li>
+          <li><strong>Insurance:</strong> Ensure strong business insurance (general liability, E&O, key person) to prevent claims that could cascade into PG exposure.</li>
           <li><strong>Cash reserves:</strong> Maintain 3&ndash;6 months of personal living expenses separate from business accounts.</li>
           <li><strong>Debt service coverage:</strong> Never take on a loan where the business DSCR is below 1.25x. Higher is better &mdash; aim for 1.5x+.</li>
           <li><strong>Pay down aggressively:</strong> The faster you reduce the loan balance, the faster your PG exposure decreases (especially with burn-off provisions).</li>

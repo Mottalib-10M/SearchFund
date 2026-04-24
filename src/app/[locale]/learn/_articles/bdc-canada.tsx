@@ -60,7 +60,7 @@ export default function BDCCanadaArticle() {
           <li><strong>Community Futures Development Corporations:</strong> 267 CFDCs across rural Canada providing small business loans up to CAD 150,000 for acquisitions</li>
           <li><strong>Futurpreneur Canada:</strong> Loans up to CAD 60,000 with mentoring for entrepreneurs 18&ndash;39</li>
         </ul>
-        <p>Provincial programs are especially important in Quebec, where Investissement Qu&eacute;bec&apos;s comprehensive financing suite &mdash; including subordinated debt, equity co-investment, and loan guarantees &mdash; makes the province one of the most accessible markets in Canada for acquisition financing. The <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back financing</Link> culture is also stronger in Quebec, where sellers commonly provide 15&ndash;25% of the purchase price as a deferred note.</p>
+        <p>Provincial programs are especially important in Quebec, where Investissement Qu&eacute;bec&apos;s thorough financing suite &mdash; including subordinated debt, equity co-investment, and loan guarantees &mdash; makes the province one of the most accessible markets in Canada for acquisition financing. The <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back financing</Link> culture is also stronger in Quebec, where sellers commonly provide 15&ndash;25% of the purchase price as a deferred note.</p>
       </div>
 
       <h2 className={h2Class}>Canadian Commercial Banks for Acquisitions</h2>

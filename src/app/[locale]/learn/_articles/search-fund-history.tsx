@@ -52,7 +52,7 @@ export default function SearchFundHistoryArticle() {
           recognized a gap: talented MBA students wanted to lead companies, yet
           most lacked the capital, the deal flow, or the appetite for startup
           risk. Traditional paths to ownership&mdash;inheriting a family
-          business, climbing to a corporate CEO role, or assembling a leveraged
+          business, climbing to a corporate CEO role, or assembling a used
           buyout&mdash;were either unavailable or required decades of waiting.
         </p>
         <p>
@@ -318,7 +318,7 @@ export default function SearchFundHistoryArticle() {
           The Modern ETA Ecosystem (2015&ndash;Present)
         </h2>
         <p>
-          Today&rsquo;s entrepreneurship-through-acquisition landscape barely
+          Today&rsquo;s entrepreneurship-through-acquisition market barely
           resembles the one Jim Southern entered in 1984. The traditional search
           fund remains the flagship model&mdash;94 new ones launched in 2023, a
           record&mdash;but it now coexists with a constellation of related

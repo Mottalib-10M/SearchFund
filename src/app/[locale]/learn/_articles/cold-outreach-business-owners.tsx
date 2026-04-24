@@ -13,7 +13,7 @@ export default function ColdOutreachBusinessOwnersArticle() {
       </p>
 
       <p className={bodyClass}>
-        For search fund entrepreneurs, proprietary deal sourcing through cold outreach represents one of the highest-ROI activities in the acquisition process. While brokered deals offer convenience, they come with inflated prices, intense competition, and sellers who are already shopping their businesses. Cold outreach to business owners, by contrast, allows you to access off-market opportunities, build relationships on your terms, and often negotiate more favorable purchase prices. This comprehensive guide covers proven scripts, strategies, and multi-channel approaches that generate 2-8% response rates and uncover hidden acquisition opportunities.
+        For search fund entrepreneurs, proprietary deal sourcing through cold outreach represents one of the highest-ROI activities in the acquisition process. While brokered deals offer convenience, they come with inflated prices, intense competition, and sellers who are already shopping their businesses. Cold outreach to business owners, by contrast, allows you to access off-market opportunities, build relationships on your terms, and often negotiate more favorable purchase prices. This thorough guide covers proven scripts, strategies, and multi-channel approaches that generate 2-8% response rates and uncover hidden acquisition opportunities.
       </p>
 
       <h2 className={h2Class}>
@@ -55,7 +55,7 @@ export default function ColdOutreachBusinessOwnersArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Dun & Bradstreet (D&B Hoovers):</strong> Comprehensive database with 200M+ businesses, filterable by revenue, employee count, industry, and location</li>
+        <li><strong>Dun & Bradstreet (D&B Hoovers):</strong> Thorough database with 200M+ businesses, filterable by revenue, employee count, industry, and location</li>
         <li><strong>ZoomInfo:</strong> Excellent contact data including direct emails and phone numbers for business owners and key executives</li>
         <li><strong>LinkedIn Sales Navigator:</strong> Powerful filters for company size, industry, and decision-maker identification</li>
         <li><strong>ReferenceUSA:</strong> Often free through public libraries, provides business directory data across the US</li>

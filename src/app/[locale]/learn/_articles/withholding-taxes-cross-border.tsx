@@ -122,7 +122,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
 
         <h2 className={h2Class}>Common withholding rates by country</h2>
         <p>
-          Understanding the withholding tax landscape in the countries most
+          Understanding the withholding tax environment in the countries most
           relevant to search fund acquisitions is essential for deal modeling.
           Below is a summary of key jurisdictions and their general approach,
           though specific rates always depend on the applicable treaty.
@@ -394,7 +394,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
             access, participation exemption regimes, and domestic tax costs.
           </li>
           <li>
-            <strong>Model the total tax cost:</strong> Build a comprehensive
+            <strong>Model the total tax cost:</strong> Build a thorough
             tax model that includes corporate tax in the subsidiary&apos;s
             jurisdiction, withholding on distributions and interest, tax in the
             holding company jurisdiction, and tax on distributions to

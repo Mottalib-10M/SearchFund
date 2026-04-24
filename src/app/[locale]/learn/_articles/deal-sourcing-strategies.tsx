@@ -61,7 +61,7 @@ export default function DealSourcingStrategiesArticle() {
           </li>
         </ul>
         <p>
-          These numbers underscore why deal sourcing must be treated as
+          These numbers highlight why deal sourcing must be treated as
           a disciplined, full-time activity - not an ad hoc effort that
           competes with other priorities. The most successful searchers
           dedicate 60% to 80% of their time to sourcing during the first
@@ -131,7 +131,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>More competition:</strong> You are typically competing
             against other buyers - including PE firms, strategic acquirers,
-            and other searchers - which reduces your negotiating leverage.
+            and other searchers - which reduces your negotiating use.
           </li>
         </ul>
 
@@ -536,7 +536,7 @@ export default function DealSourcingStrategiesArticle() {
         <h2 className={h2Class}>Sources</h2>
 
         <ul className={ulClass}>
-          <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) &mdash; comprehensive data on deal sourcing channels, conversion rates, and acquisition outcomes</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024) &mdash; thorough data on deal sourcing channels, conversion rates, and acquisition outcomes</li>
           <li>Richard S. Ruback &amp; Royce Yudkoff, <em>HBR Guide to Buying a Small Business</em> (2017) &mdash; foundational frameworks for deal sourcing strategy and broker relationship management</li>
           <li>Walker Deibel, <em>Buy Then Build</em> (2018) &mdash; tactical guidance on direct outreach campaigns, CRM setup, and proprietary deal sourcing for acquisition entrepreneurs</li>
         </ul>

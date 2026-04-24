@@ -56,7 +56,7 @@ export default function RevenueGrowthPlaybookArticle() {
             knew existed.
           </li>
           <li>
-            <strong>Competitive landscape.</strong> Map your competitors by
+            <strong>competitive environment.</strong> Map your competitors by
             size, positioning, pricing, and differentiators. Identify gaps in
             the market that you can exploit.
           </li>
@@ -321,7 +321,7 @@ export default function RevenueGrowthPlaybookArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            Start with adjacent markets where you can leverage your existing
+            Start with adjacent markets where you can use your existing
             brand, supply chain, and operational infrastructure.
           </li>
           <li>
@@ -346,7 +346,7 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>
             <strong>Adjacent services.</strong> An HVAC company adds plumbing;
             an IT managed services provider adds cybersecurity; a landscaping
-            company adds snow removal. These extensions leverage existing
+            company adds snow removal. These extensions use existing
             customer relationships and operational capabilities.
           </li>
           <li>

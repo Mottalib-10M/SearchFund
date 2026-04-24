@@ -16,20 +16,20 @@ export default function ETASoutheastAsiaArticle() {
           generational succession, the region offers a scale of opportunity that
           few other markets can match. Yet the ETA model remains in its earliest
           stages here&mdash;creating a first-mover advantage for entrepreneurs
-          willing to navigate regulatory complexity, cultural nuance, and
+          willing to manage regulatory complexity, cultural detail, and
           nascent institutional infrastructure.
         </p>
         <p>
           This guide covers the four largest ASEAN economies by population&mdash;Indonesia,
           Vietnam, Thailand, and the Philippines&mdash;with a focus on the SME
-          landscape, deal sourcing, legal structures, financing, cultural
+          market, deal sourcing, legal structures, financing, cultural
           considerations, and the emerging communities that are beginning to
           shape ETA across the region.
         </p>
 
         <h2 className={h2Class}>The ASEAN economic opportunity</h2>
         <p>
-          The Association of Southeast Asian Nations (ASEAN) encompasses ten
+          The Association of Southeast Asian Nations (ASEAN) includes ten
           member states with a combined GDP exceeding US$3.6&nbsp;trillion. The
           region&rsquo;s economic fundamentals are striking: a median age under
           30 in several countries, urbanization rates climbing by 1&ndash;2
@@ -49,7 +49,7 @@ export default function ETASoutheastAsiaArticle() {
           management.
         </p>
 
-        <h2 className={h2Class}>SME landscape by country</h2>
+        <h2 className={h2Class}>SME market by country</h2>
 
         <h3 className={h3Class}>Indonesia</h3>
         <p>
@@ -221,7 +221,7 @@ export default function ETASoutheastAsiaArticle() {
           companies that receive Board of Investment (BOI) promotion can be
           100% foreign-owned. In practice, many foreign acquirers use BOI
           promotion, Treaty of Amity provisions (for US citizens), or
-          carefully structured joint ventures to navigate ownership
+          carefully structured joint ventures to manage ownership
           restrictions. The use of nominee shareholders is technically
           illegal and carries significant enforcement risk.
         </p>
@@ -299,13 +299,13 @@ export default function ETASoutheastAsiaArticle() {
           region through the Singapore campus, which hosts dedicated ETA
           courses, research projects, and networking events. Many of the
           region&rsquo;s early search fund entrepreneurs are INSEAD alumni
-          who leveraged the school&rsquo;s investor network and mentorship
+          who used the school&rsquo;s investor network and mentorship
           infrastructure to launch searches across Southeast Asia.
         </p>
         <p>
           The <Link href="/learn/eta-singapore" className="text-apple-accent hover:underline">Singapore ETA ecosystem</Link> benefits
           from the city-state&rsquo;s position as ASEAN&rsquo;s financial
-          capital. Singapore&rsquo;s robust legal system, tax efficiency,
+          capital. Singapore&rsquo;s strong legal system, tax efficiency,
           and concentration of family offices and PE funds make it a natural
           base for searchers targeting acquisitions across the region. Several
           Singapore-based search fund investor groups have emerged in recent
@@ -371,7 +371,7 @@ export default function ETASoutheastAsiaArticle() {
           stability but limits recourse in disputes with state-connected
           entities; and Indonesia&rsquo;s decentralized governance means
           that local regulations can differ significantly from national
-          policy. Robust legal documentation, international arbitration
+          policy. Strong legal documentation, international arbitration
           clauses (Singapore International Arbitration Centre is the
           regional standard), and strong local partnerships are essential
           risk mitigants.
@@ -412,12 +412,12 @@ export default function ETASoutheastAsiaArticle() {
           <li><strong>Plan for longer timelines:</strong> Deal cycles in Southeast Asia are typically longer than in Western markets. Relationship-building takes time, regulatory approvals can be slow, and due diligence on SMEs with limited financial infrastructure requires patience. Budget for a search period of 18 to 30&nbsp;months.</li>
           <li><strong>Structure for flexibility:</strong> Given the regulatory complexity and foreign ownership restrictions, work with experienced cross-border legal counsel to design a holding structure that accommodates potential multi-country operations. Singapore is the default jurisdiction for holding companies targeting ASEAN acquisitions.</li>
           <li><strong>Focus on sectors with structural tailwinds:</strong> Healthcare, education, food and beverage, business services, and light manufacturing all benefit from rising incomes and formalization trends. Avoid sectors that are heavily regulated, politically sensitive, or dependent on government contracts unless you have deep local expertise.</li>
-          <li><strong>Prioritize governance from day one:</strong> Implementing professional financial reporting, internal controls, and corporate governance immediately after acquisition not only protects your investment but also builds the foundation for future growth, additional acquisitions, or an eventual exit.</li>
+          <li><strong>Prioritize governance from day one:</strong> Implementing professional financial reporting, internal controls, and corporate governance immediately after acquisition protects your investment and builds the foundation for future growth, additional acquisitions, or an eventual exit.</li>
         </ol>
 
         <h2 className={h2Class}>Looking ahead</h2>
         <p>
-          Southeast Asia&rsquo;s ETA landscape in 2025 resembles where
+          Southeast Asia&rsquo;s ETA market in 2025 resembles where
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe</Link> was
           a decade ago: abundant deal flow, limited competition, and an
           institutional infrastructure that is growing but still incomplete.

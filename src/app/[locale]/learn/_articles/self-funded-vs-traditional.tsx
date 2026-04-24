@@ -115,7 +115,7 @@ export default function SelfFundedVsTraditionalArticle() {
           build a pitch deck, identify potential investors from the
           established search fund investor community, and conduct a
           roadshow of meetings. Most traditional searchers begin this
-          process during or immediately after their MBA program, leveraging
+          process during or immediately after their MBA program, using
           school alumni networks and search fund conferences (Stanford
           Search Fund Conference, IESE, INSEAD) to build relationships
           with investors.
@@ -194,7 +194,7 @@ export default function SelfFundedVsTraditionalArticle() {
           earning $400K in annual cash flow on perhaps $200K in personal
           investment - a fundamentally different wealth-building equation
           than a traditional searcher earning 20% of a larger but more
-          leveraged entity. The trade-off is that smaller businesses tend
+          used entity. The trade-off is that smaller businesses tend
           to be more owner-dependent, less diversified, and more
           vulnerable to single-customer or single-employee risk.
         </p>
@@ -229,7 +229,7 @@ export default function SelfFundedVsTraditionalArticle() {
         </p>
         <p>
           Stanford GSB&apos;s research on traditional search funds - the most
-          comprehensive dataset available - shows that approximately 70%
+          thorough dataset available - shows that approximately 70%
           of traditional searchers successfully acquire a business. Of
           those who acquire, roughly 65-70% generate positive returns for
           investors, and the asset class as a whole has produced aggregate

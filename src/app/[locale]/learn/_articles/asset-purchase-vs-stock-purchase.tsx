@@ -5,7 +5,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
   return (
     <article>
       <h1 className={h1Class}>
-        Asset Purchase vs. Stock Purchase: Comprehensive Comparison
+        Asset Purchase vs. Stock Purchase: Thorough Comparison
       </h1>
       <p className="text-sm text-apple-gray-500 mt-3">14 min read</p>
 
@@ -275,7 +275,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>American Bar Association, Mergers &amp; Acquisitions Committee &mdash; <em>Asset vs. Stock Acquisitions: Tax and Legal Considerations</em>. Comprehensive analysis of structural trade-offs and the 338(h)(10) election.</li>
+          <li>American Bar Association, Mergers &amp; Acquisitions Committee &mdash; <em>Asset vs. Stock Acquisitions: Tax and Legal Considerations</em>. Thorough analysis of structural trade-offs and the 338(h)(10) election.</li>
           <li>U.S. Small Business Administration &mdash; <em>SBA Standard Operating Procedures for Acquisition Lending</em>, SBA.gov. Guidance on preferred deal structures for government-backed acquisition financing.</li>
           <li>Internal Revenue Service &mdash; <em>IRC Section 1060 (Purchase Price Allocation)</em> and <em>IRC Section 338(h)(10) (Election for S Corporation Acquisitions)</em>. Statutory authority governing tax treatment of asset and stock purchases.</li>
         </ul>

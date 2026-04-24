@@ -6,7 +6,7 @@ export default function LifeAfterSellingArticle() {
     <article>
       <h1 className={h1Class}>Life After Selling Your Business</h1>
       <div className={bodyClass}>
-        <p>You sold your business. The wire transfer cleared. Now what? For many entrepreneurs, the post-sale period is surprisingly challenging. After years of 60-hour weeks, constant problem-solving, and deep personal identity tied to the business, suddenly having unlimited time and money but no clear purpose can feel disorienting. This guide helps former business owners navigate the transition from operator to whatever comes next.</p>
+        <p>You sold your business. The wire transfer cleared. Now what? For many entrepreneurs, the post-sale period is surprisingly challenging. After years of 60-hour weeks, constant problem-solving, and deep personal identity tied to the business, suddenly having unlimited time and money but no clear purpose can feel disorienting. This guide helps former business owners manage the transition from operator to whatever comes next.</p>
       </div>
 
       <h2 className={h2Class}>The First 90 Days</h2>
@@ -82,7 +82,7 @@ export default function LifeAfterSellingArticle() {
 
       <h3 className={h3Class}>What is the biggest mistake former business owners make with their sale proceeds?</h3>
       <p className={bodyClass}>
-        The biggest financial mistake is making major investment decisions too quickly after the sale. Vistage&rsquo;s 2024 study found that 40% of former business owners invested in a new venture, real estate, or concentrated stock position within 90 days of closing&mdash;and 60% of those investments underperformed. The restlessness and need for activity that follows a sale often drives hasty capital deployment. Financial advisors recommend parking proceeds in conservative instruments for at least 6 months while developing a comprehensive wealth management strategy. The Exit Planning Institute recommends working with a fee-only wealth advisor (not commission-based) who can create a diversified portfolio and sustainable withdrawal strategy before making any significant investments.
+        The biggest financial mistake is making major investment decisions too quickly after the sale. Vistage&rsquo;s 2024 study found that 40% of former business owners invested in a new venture, real estate, or concentrated stock position within 90 days of closing&mdash;and 60% of those investments underperformed. The restlessness and need for activity that follows a sale often drives hasty capital deployment. Financial advisors recommend parking proceeds in conservative instruments for at least 6 months while developing a thorough wealth management strategy. The Exit Planning Institute recommends working with a fee-only wealth advisor (not commission-based) who can create a diversified portfolio and sustainable withdrawal strategy before making any significant investments.
       </p>
 
       <h3 className={h3Class}>How can former business owners stay engaged and find purpose after selling?</h3>

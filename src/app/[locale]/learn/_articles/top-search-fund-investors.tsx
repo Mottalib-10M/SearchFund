@@ -224,7 +224,7 @@ export default function TopSearchFundInvestorsArticle() {
         <ul className={ulClass}>
           <li>
             Total equity needed: $3&ndash;10 million for most SMB
-            acquisitions, depending on target size and leverage
+            acquisitions, depending on target size and use
           </li>
           <li>
             Individual investors: $25,000&ndash;$200,000 per investor
@@ -382,7 +382,7 @@ export default function TopSearchFundInvestorsArticle() {
             actually run businesses &mdash; not just funded them &mdash;
             deliver the most practical advice during the operating phase.
             Ask them about specific situations where they helped a portfolio
-            CEO navigate a crisis.
+            CEO manage a crisis.
           </li>
           <li>
             <strong>Search fund track record:</strong> How many funds have
@@ -425,7 +425,7 @@ export default function TopSearchFundInvestorsArticle() {
 
         {/* ───────────────────────────── H2 #7 ───────────────────────────── */}
         <h2 className={h2Class}>
-          How the Investor Landscape Has Evolved
+          How the Investor Market Has Evolved
         </h2>
         <p>
           The search fund investor base has transformed significantly since
@@ -568,7 +568,7 @@ export default function TopSearchFundInvestorsArticle() {
         <p>
           Yes, though it requires more hustle. While Stanford GSB, HBS, and
           Wharton alumni networks have traditionally dominated the search
-          fund ecosystem, the landscape has broadened considerably. Platforms
+          fund ecosystem, the market has broadened considerably. Platforms
           such as Searchfunder, the Search Fund Alliance, and ETA-focused
           conferences now connect non-MBA searchers with experienced
           investors. Several dedicated funds &mdash; including Anacapa

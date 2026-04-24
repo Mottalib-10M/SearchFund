@@ -68,7 +68,7 @@ export default function ETAIndiaArticle() {
           <li><strong>Government schemes:</strong> CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises) provides collateral-free loan guarantees up to &#8377;5 crore. MUDRA loans support smaller acquisitions</li>
         </ul>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <ul className={ulClass}>
           <li><strong>Corporate tax (lower rate):</strong> 25% (plus surcharge and cess, effective ~25.17%) for companies with annual turnover up to &#8377;400 crore. New manufacturing companies can opt for 15% under Section 115BAB</li>
           <li><strong>Corporate tax (higher rate):</strong> 30% (plus surcharge and cess, effective ~34.94%) for companies with turnover exceeding &#8377;400 crore</li>
@@ -135,7 +135,7 @@ export default function ETAIndiaArticle() {
 
         <h3 className={h3Class}>How large is the business succession opportunity in India?</h3>
         <p>
-          India&rsquo;s succession opportunity is unparalleled in scale. According to a 2023 PwC India Family Business Survey, over 70% of Indian family businesses are still run by their first-generation founders, and fewer than 20% have a robust succession plan in place. The Ministry of MSME estimates that there are 63.4 million registered micro, small, and medium enterprises in India, contributing approximately 30% of GDP. As the generation that built businesses during India&rsquo;s post-liberalization era (1991 onward) approaches retirement age, tens of thousands of profitable companies in the &#8377;5&ndash;50 crore revenue range will need new ownership. Unlike in the US or Europe, India lacks a mature broker and M&amp;A advisory infrastructure for sub-$10M deals, creating wide-open deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused acquirers</Link>.
+          India&rsquo;s succession opportunity is unparalleled in scale. According to a 2023 PwC India Family Business Survey, over 70% of Indian family businesses are still run by their first-generation founders, and fewer than 20% have a strong succession plan in place. The Ministry of MSME estimates that there are 63.4 million registered micro, small, and medium enterprises in India, contributing approximately 30% of GDP. As the generation that built businesses during India&rsquo;s post-liberalization era (1991 onward) approaches retirement age, tens of thousands of profitable companies in the &#8377;5&ndash;50 crore revenue range will need new ownership. Unlike in the US or Europe, India lacks a mature broker and M&amp;A advisory infrastructure for sub-$10M deals, creating wide-open deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused acquirers</Link>.
         </p>
 
         <h3 className={h3Class}>What are the biggest due diligence risks when acquiring an Indian SME?</h3>

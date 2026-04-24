@@ -22,7 +22,7 @@ export default function SellerPsychologyArticle() {
         <p>
           This guide draws on insights from hundreds of closed (and
           failed) transactions to map the seller&rsquo;s psychological
-          landscape and give buyers practical strategies for navigating it.
+          market and give buyers practical strategies for navigating it.
         </p>
 
         <h2 className={h2Class}>Why sellers sell</h2>

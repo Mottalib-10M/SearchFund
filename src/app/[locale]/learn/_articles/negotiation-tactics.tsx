@@ -66,7 +66,7 @@ export default function NegotiationTacticsArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Creating and leveraging exclusivity</h2>
+        <h2 className={h2Class}>Creating and using exclusivity</h2>
         <p>
           Exclusivity &mdash; the agreement that the seller will
           negotiate only with you for a defined period &mdash; is one
@@ -101,7 +101,7 @@ export default function NegotiationTacticsArticle() {
             breaches representations.
           </li>
           <li>
-            <strong>Leveraging exclusivity:</strong> Once you have
+            <strong>Using exclusivity:</strong> Once you have
             exclusivity, use the time productively but do not rush.
             The seller has committed to working with you alone &mdash;
             this is the moment to build deeper rapport and conduct
@@ -218,7 +218,7 @@ export default function NegotiationTacticsArticle() {
         <p>
           The simplest structure and the one sellers prefer most. It
           provides certainty and finality. However, all-cash deals give
-          you the least negotiating leverage on price and the least
+          you the least negotiating use on price and the least
           protection against post-closing surprises. Reserve all-cash
           offers for situations where the business is well-understood,
           the due diligence was thorough, and the price is within your
@@ -282,7 +282,7 @@ export default function NegotiationTacticsArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Building rapport vs maintaining leverage</h2>
+        <h2 className={h2Class}>Building rapport vs maintaining use</h2>
         <p>
           The most effective SME acquisition negotiators hold two
           seemingly contradictory positions simultaneously: they
@@ -300,7 +300,7 @@ export default function NegotiationTacticsArticle() {
             built.
           </li>
           <li>
-            <strong>Maintaining leverage:</strong> Never signal that
+            <strong>Maintaining use:</strong> Never signal that
             you &ldquo;must&rdquo; have this specific business. Let the
             seller know (subtly) that you are evaluating other
             opportunities. Avoid sunk-cost psychology &mdash; just
@@ -338,7 +338,7 @@ export default function NegotiationTacticsArticle() {
             (when the seller is feeling confident) can be more
             effective than approaching during a slow period. Conversely,
             approaching a seller after a weak quarter may create
-            leverage on price but can also make the seller defensive.
+            use on price but can also make the seller defensive.
           </li>
           <li>
             <strong>Creating urgency:</strong> Soft deadlines
@@ -450,7 +450,7 @@ export default function NegotiationTacticsArticle() {
             <strong>Directness:</strong> German and Dutch negotiators
             tend to be more direct about price and terms. French and
             Southern European negotiations may involve more indirect
-            communication, reading between the lines, and nuanced
+            communication, reading between the lines, and detailed
             positions. US negotiations fall somewhere in between.
           </li>
           <li>
@@ -587,7 +587,7 @@ export default function NegotiationTacticsArticle() {
           in good faith. Some sellers request a break fee (1-2% of purchase price) in exchange
           for exclusivity, which is more common in European than US transactions. If the
           seller refuses exclusivity entirely, it may signal that they are using your offer as
-          leverage with another buyer -- a serious red flag that warrants careful evaluation
+          use with another buyer -- a serious red flag that warrants careful evaluation
           before committing significant diligence dollars.
         </p>
 

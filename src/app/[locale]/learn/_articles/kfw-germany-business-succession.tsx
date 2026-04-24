@@ -135,7 +135,7 @@ export default function KfWGermanyBusinessSuccessionArticle() {
           <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">
             succession-driven acquisition
           </Link>{" "}
-          landscape is fundamentally relationship-driven.
+          market is fundamentally relationship-driven.
         </p>
 
         <p>
@@ -184,7 +184,7 @@ export default function KfWGermanyBusinessSuccessionArticle() {
           (ERP-Kapital) with no SBA equivalent. SBA 7(a) offers
           standardized underwriting across the US, while KfW terms vary by
           Hausbank. Both programs require the borrower to apply before
-          closing the acquisition. The combined leverage effect is similar:
+          closing the acquisition. The combined use effect is similar:
           75&ndash;85% of the purchase price can be financed through
           government-subsidized programs in both countries.
         </p>

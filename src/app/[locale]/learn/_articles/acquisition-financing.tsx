@@ -36,7 +36,7 @@ export default function AcquisitionFinancingArticle() {
           cash flows of the acquired business. Typical terms include:
         </p>
         <ul className={ulClass}>
-          <li><strong>Leverage:</strong> 2.5x-4.0x EBITDA, depending on the business quality, industry, and lender appetite.</li>
+          <li><strong>Use:</strong> 2.5x-4.0x EBITDA, depending on the business quality, industry, and lender appetite.</li>
           <li><strong>Interest rate:</strong> Base rate (SOFR, Euribor) plus 2-4% spread, or fixed rates in the 5-8% range.</li>
           <li><strong>Amortization:</strong> 5-10 year amortization with mandatory quarterly principal payments.</li>
           <li><strong>Covenants:</strong> Financial covenants including debt-to-EBITDA ratio, fixed charge coverage ratio, and minimum liquidity requirements.</li>
@@ -54,7 +54,7 @@ export default function AcquisitionFinancingArticle() {
           <li><strong>Interest rate:</strong> 12-18% total return, often structured as cash interest plus PIK (payment-in-kind) interest that accrues.</li>
           <li><strong>Warrants:</strong> Mezzanine lenders may require equity warrants (1-5% of equity) as additional compensation.</li>
           <li><strong>Term:</strong> 5-7 years, typically interest-only with a bullet maturity.</li>
-          <li><strong>When to use it:</strong> When the deal requires more leverage than a senior lender will provide, but you want to minimize equity dilution.</li>
+          <li><strong>When to use it:</strong> When the deal requires more use than a senior lender will provide, but you want to minimize equity dilution.</li>
         </ul>
 
         <h3 className={h3Class}>Seller notes (10-30% of enterprise value)</h3>
@@ -92,7 +92,7 @@ export default function AcquisitionFinancingArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Loan amount:</strong> Up to $5M per borrower.</li>
-          <li><strong>Leverage:</strong> Up to 90% of the total project cost (purchase price + working capital + closing costs).</li>
+          <li><strong>Use:</strong> Up to 90% of the total project cost (purchase price + working capital + closing costs).</li>
           <li><strong>Term:</strong> 10-year term with full amortization (25 years for real estate portion).</li>
           <li><strong>Interest rate:</strong> Prime + 2.25-2.75%, fully variable.</li>
           <li><strong>Personal guarantee:</strong> Required from anyone with 20%+ ownership.</li>
@@ -183,7 +183,7 @@ export default function AcquisitionFinancingArticle() {
           <li><strong>Build relationships before you need them:</strong> Meet with 5-10 lenders during your search phase. Explain the search fund model and your criteria. Ask about their appetite for acquisition financing and their typical terms.</li>
           <li><strong>Identify the right lenders:</strong> Look for banks with SME acquisition experience, not just general commercial banking. Credit unions, community banks, and specialized acquisition lenders often offer better terms than large institutions.</li>
           <li><strong>Prepare a professional package:</strong> When you approach lenders with a specific deal, present a complete financing memorandum: company overview, historical financials, adjusted EBITDA analysis, management projections, and your proposed capital structure.</li>
-          <li><strong>Get multiple term sheets:</strong> Always solicit offers from at least 3 lenders. Competition improves terms and gives you leverage in negotiations.</li>
+          <li><strong>Get multiple term sheets:</strong> Always solicit offers from at least 3 lenders. Competition improves terms and gives you use in negotiations.</li>
         </ul>
 
         <h2 className={h2Class}>How to present to lenders</h2>

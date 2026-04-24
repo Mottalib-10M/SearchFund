@@ -80,7 +80,7 @@ export const conferences: ConferenceEntry[] = [
     frequency: "annual",
     website: "https://www.insead.edu/centres/entrepreneurship",
     description:
-      "The INSEAD ETA Roundtable is an invite-only gathering organized by INSEAD's entrepreneurship faculty and alumni network. Held at the school's Fontainebleau campus near Paris, the event brings together European searchers, investors, and INSEAD alumni who have acquired or are in the process of acquiring businesses. Sessions focus on the European search fund landscape, cross-border transactions, and the unique challenges of operating acquired businesses in fragmented European markets. INSEAD's global network and strong European presence make this a key event for internationally-oriented ETA practitioners.",
+      "The INSEAD ETA Roundtable is an invite-only gathering organized by INSEAD's entrepreneurship faculty and alumni network. Held at the school's Fontainebleau campus near Paris, the event brings together European searchers, investors, and INSEAD alumni who have acquired or are in the process of acquiring businesses. Sessions focus on the European search fund market, cross-border transactions, and the unique challenges of operating acquired businesses in fragmented European markets. INSEAD's global network and strong European presence make this a key event for internationally-oriented ETA practitioners.",
     typicalDate: "May",
     targetAudience: ["searcher", "investor", "alumni"],
     source: "INSEAD public website",
@@ -122,7 +122,7 @@ export const conferences: ConferenceEntry[] = [
     frequency: "annual",
     website: "https://www.europeansearchfundconference.com",
     description:
-      "The European Search Fund Conference in London is one of the key gathering points for the growing European ETA community. The event brings together searchers, investors, advisors, and operators from across Europe to discuss the state of the search fund model outside North America. Sessions cover topics specific to European transactions, including cross-border deal structuring, navigating different legal and tax regimes, cultural considerations in post-acquisition management, and sourcing deals in markets with less M&A intermediation. The conference has grown significantly as the European search fund ecosystem has matured.",
+      "The European Search Fund Conference in London is one of the key gathering points for the growing European ETA community. The event brings together searchers, investors, advisors, and operators from across Europe to discuss the state of the search fund model outside North America. Sessions cover topics specific to European transactions, including cross-border deal structuring, managing different legal and tax regimes, cultural considerations in post-acquisition management, and sourcing deals in markets with less M&A intermediation. The conference has grown significantly as the European search fund ecosystem has matured.",
     typicalDate: "June",
     targetAudience: ["searcher", "investor", "advisor"],
     source: "Conference public website",
@@ -136,7 +136,7 @@ export const conferences: ConferenceEntry[] = [
     frequency: "biannual",
     website: "https://www.searchfund.ch",
     description:
-      "The DACH Search Fund Meetup serves the German-speaking search fund community across Germany, Austria, and Switzerland (the DACH region). This semi-annual event rotates between major cities and provides a platform for local searchers, investors, and advisors to share experiences and build relationships. The DACH region represents one of the largest SME markets in Europe, with Germany's Mittelstand alone comprising millions of family-owned businesses facing succession challenges. Sessions focus on deal sourcing in the DACH region, navigating local regulatory environments, and the unique cultural aspects of acquiring family-owned businesses in German-speaking markets.",
+      "The DACH Search Fund Meetup serves the German-speaking search fund community across Germany, Austria, and Switzerland (the DACH region). This semi-annual event rotates between major cities and provides a platform for local searchers, investors, and advisors to share experiences and build relationships. The DACH region represents one of the largest SME markets in Europe, with Germany's Mittelstand alone comprising millions of family-owned businesses facing succession challenges. Sessions focus on deal sourcing in the DACH region, managing local regulatory environments, and the unique cultural aspects of acquiring family-owned businesses in German-speaking markets.",
     typicalDate: "Spring / Autumn",
     targetAudience: ["searcher", "investor"],
     source: "DACH search fund community website",

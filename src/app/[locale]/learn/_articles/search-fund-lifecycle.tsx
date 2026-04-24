@@ -357,7 +357,7 @@ export default function SearchFundLifecycleArticle() {
           <Link href="/learn/search-fund-statistics" className="text-apple-accent hover:underline">
             search fund statistics
           </Link>{" "}
-          for comprehensive return data across all funds.
+          for thorough return data across all funds.
         </p>
 
         <h2 className={h2Class}>Timeline summary</h2>

@@ -33,7 +33,7 @@ export default function DividendRecapitalizationArticle() {
       <h2 className={h2Class}>Typical Structure</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Leverage:</strong> Total debt of 3&ndash;4x EBITDA (including existing debt)</li>
+          <li><strong>Use:</strong> Total debt of 3&ndash;4x EBITDA (including existing debt)</li>
           <li><strong>Dividend size:</strong> Typically 1&ndash;2x EBITDA returned to equity holders</li>
           <li><strong>Debt terms:</strong> 5&ndash;7 year term, amortizing, with rates dependent on credit quality and market conditions</li>
           <li><strong>Lender requirements:</strong> Financial covenants, personal guarantees (sometimes), and restrictions on additional distributions</li>
@@ -46,13 +46,13 @@ export default function DividendRecapitalizationArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Increased debt burden:</strong> Higher debt service reduces financial flexibility and margin of safety</li>
-          <li><strong>Recession vulnerability:</strong> A leveraged business is more exposed to economic downturns</li>
+          <li><strong>Recession vulnerability:</strong> A used business is more exposed to economic downturns</li>
           <li><strong>Growth constraints:</strong> Debt service may limit capital available for reinvestment and growth</li>
           <li><strong>Covenant risk:</strong> Violating loan covenants can trigger default provisions</li>
           <li><strong>Investor alignment:</strong> Not all investors may want a recap &mdash; some prefer to wait for a full exit at a higher valuation</li>
         </ul>
         <p>
-          Before pursuing a recap, run a comprehensive{" "}
+          Before pursuing a recap, run a thorough{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
             financial analysis
           </Link>{" "}
@@ -70,7 +70,7 @@ export default function DividendRecapitalizationArticle() {
         <ul className={ulClass}>
           <li>A dividend recap lets you return capital to investors and yourself without selling the business</li>
           <li>Only execute when the business has strong, stable cash flow with 2.0x+ debt service coverage</li>
-          <li>Typical structure: 3&ndash;4x total leverage, 1&ndash;2x EBITDA returned as dividend</li>
+          <li>Typical structure: 3&ndash;4x total use, 1&ndash;2x EBITDA returned as dividend</li>
           <li>The main risk is reduced financial flexibility &mdash; higher debt limits your ability to invest and weather downturns</li>
           <li>Requires alignment with all equity holders and board approval</li>
         </ul>
@@ -95,7 +95,7 @@ export default function DividendRecapitalizationArticle() {
           proceeds to pay a special dividend to equity holders. This lets
           investors and the CEO extract cash without selling the business.
           Ownership percentages stay the same, and the CEO continues operating
-          the company. It is essentially a leveraged distribution of capital.
+          the company. It is essentially a used distribution of capital.
         </p>
       </div>
 
@@ -107,7 +107,7 @@ export default function DividendRecapitalizationArticle() {
           A recap makes sense when the business has strong, stable cash flow
           (2.0x+ debt service coverage), investors need partial liquidity, and
           the CEO believes the business will be worth significantly more in
-          2&ndash;3 years. Typical leverage is 3&ndash;4x EBITDA with
+          2&ndash;3 years. Typical use is 3&ndash;4x EBITDA with
           1&ndash;2x EBITDA returned as a dividend. It is most common
           3&ndash;5 years post-acquisition when the CEO has demonstrated
           consistent operational performance.

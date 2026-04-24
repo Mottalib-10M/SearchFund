@@ -12,7 +12,7 @@ export default function MezzanineFinancingArticle() {
           <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
             capital stack
           </Link>{" "}
-          &mdash; sitting between senior debt and equity. For acquisition entrepreneurs who need more leverage than banks will provide but want to minimize equity dilution, mezzanine debt can be the missing piece that makes a deal work.
+          &mdash; sitting between senior debt and equity. For acquisition entrepreneurs who need more use than banks will provide but want to minimize equity dilution, mezzanine debt can be the missing piece that makes a deal work.
         </p>
       </div>
 
@@ -77,7 +77,7 @@ export default function MezzanineFinancingArticle() {
         <ul className={ulClass}>
           <li><strong>Bridging the gap:</strong> Senior lender funds 60% but you want only 25% equity &mdash; mezz covers the 15%</li>
           <li><strong>Minimizing dilution:</strong> At 15% coupon, mezz is expensive but cheaper than equity at 30%+ IRR</li>
-          <li><strong>Higher leverage acquisitions:</strong> Businesses with strong, predictable cash flows supporting 4&ndash;5x total leverage</li>
+          <li><strong>Higher use acquisitions:</strong> Businesses with strong, predictable cash flows supporting 4&ndash;5x total use</li>
           <li><strong>Add-on acquisitions:</strong> <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">Buy-and-build</Link> strategies needing capital without new equity rounds</li>
           <li><strong>Seller financing gap:</strong> When <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link> is insufficient</li>
         </ul>
@@ -86,7 +86,7 @@ export default function MezzanineFinancingArticle() {
       <h2 className={h2Class}>Mezzanine vs. Other Capital Sources</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Mezz vs. senior debt:</strong> More expensive (12&ndash;20% vs 7&ndash;10%), but provides additional leverage with fewer covenants</li>
+          <li><strong>Mezz vs. senior debt:</strong> More expensive (12&ndash;20% vs 7&ndash;10%), but provides additional use with fewer covenants</li>
           <li><strong>Mezz vs. equity:</strong> Cheaper (15% vs 25&ndash;35% IRR), less dilutive, but requires cash payments and has fixed maturity</li>
           <li><strong>Mezz vs. seller financing:</strong> Seller notes are cheaper (4&ndash;8%) and more flexible. Always maximize seller financing first</li>
           <li><strong>Mezz vs. SBA:</strong> SBA 7(a) loans typically don&apos;t allow subordinated debt without approval &mdash; usually incompatible</li>
@@ -126,7 +126,7 @@ export default function MezzanineFinancingArticle() {
           <li>Mezzanine: $1.0M (10%) &mdash; 6-year, 14% (10% cash + 4% PIK), 2% warrants</li>
           <li>Equity: $2.0M (20%) &mdash; search fund investor capital</li>
         </ul>
-        <p>Total leverage: 8.0x EBITDA. The key question: can the business generate enough free cash flow to service all three debt layers?</p>
+        <p>Total use: 8.0x EBITDA. The key question: can the business generate enough free cash flow to service all three debt layers?</p>
       </div>
 
       <h2 className={h2Class}>Mezzanine in Search Fund Deals</h2>
@@ -147,7 +147,7 @@ export default function MezzanineFinancingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Mezzanine fills the gap between senior debt and equity at 12&ndash;20% total cost</li>
-          <li>Best for deals over $10M needing higher leverage with less equity dilution</li>
+          <li>Best for deals over $10M needing higher use with less equity dilution</li>
           <li>Always maximize cheaper capital sources (senior debt, seller financing) first</li>
           <li>SBICs and BDCs are the best sources for SME-sized mezzanine</li>
           <li>Subordination agreements are critical &mdash; get experienced M&A counsel</li>
@@ -175,7 +175,7 @@ export default function MezzanineFinancingArticle() {
       <h3 className={h3Class}>Can you combine mezzanine debt with an SBA loan?</h3>
       <div className={bodyClass}>
         <p>
-          Generally no. The SBA 7(a) program typically does not allow subordinated debt in the capital stack without explicit SBA approval, which is rarely granted for traditional mezzanine. However, seller financing is an exception &mdash; the SBA permits seller notes on standby (no payments for the first 2 years). If you need additional leverage beyond what SBA provides, consider maximizing the seller note before exploring mezz alternatives outside the SBA structure.
+          Generally no. The SBA 7(a) program typically does not allow subordinated debt in the capital stack without explicit SBA approval, which is rarely granted for traditional mezzanine. However, seller financing is an exception &mdash; the SBA permits seller notes on standby (no payments for the first 2 years). If you need additional use beyond what SBA provides, consider maximizing the seller note before exploring mezz alternatives outside the SBA structure.
         </p>
       </div>
 

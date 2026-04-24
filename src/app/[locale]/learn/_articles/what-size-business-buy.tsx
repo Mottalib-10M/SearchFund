@@ -62,7 +62,7 @@ export default function WhatSizeBusinessBuyArticle() {
             <strong>Financing availability.</strong> The SBA 7(a) program caps
             individual loans at $5 million, which effectively limits
             SBA-financed acquisitions to businesses with roughly $1&ndash;$1.5
-            million in EBITDA at standard leverage. Larger deals require
+            million in EBITDA at standard use. Larger deals require
             conventional bank debt, mezzanine financing, or equity from{" "}
             <Link href="/learn/search-fund-investor-economics" className="text-apple-accent hover:underline">
               search fund investors
@@ -165,7 +165,7 @@ export default function WhatSizeBusinessBuyArticle() {
           <li>
             <strong>Financing:</strong> SBA 7(a) works for deals up to ~$5M
             in total purchase price. Above that threshold, conventional bank
-            debt (typically 2.5&ndash;3.5x EBITDA leverage), seller
+            debt (typically 2.5&ndash;3.5x EBITDA use), seller
             financing (10&ndash;20% of the deal), and equity combine to fund
             the transaction. Learn more about{" "}
             <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
@@ -269,7 +269,7 @@ export default function WhatSizeBusinessBuyArticle() {
             <strong>Sufficient cash flow for the capital stack.</strong> At
             $2M in EBITDA and a 4.5x multiple ($9M purchase price), a
             typical deal might be financed with $5.4M in senior debt (3x
-            leverage), $1.35M in seller financing (15%), and $2.25M in
+            use), $1.35M in seller financing (15%), and $2.25M in
             equity (25%). Annual debt service of roughly $750K&ndash;$900K
             leaves $1.1M&ndash;$1.25M for a CEO salary, taxes, and
             reinvestment. That math works. At $500K in EBITDA, the same
@@ -349,7 +349,7 @@ export default function WhatSizeBusinessBuyArticle() {
           <li>
             <strong>Mid-career with team leadership experience:</strong>{" "}
             Tier 2 (20&ndash;75 employees) is ideal. You understand how to
-            manage managers and can leverage an existing team.
+            manage managers and can use an existing team.
           </li>
           <li>
             <strong>Senior executive or prior acquisition experience:</strong>{" "}
@@ -402,7 +402,7 @@ export default function WhatSizeBusinessBuyArticle() {
           </li>
           <li>
             <strong>Best for:</strong> Main Street and lower Tier 2 deals
-            with up to ~$1.5M in EBITDA at 3&ndash;3.5x leverage
+            with up to ~$1.5M in EBITDA at 3&ndash;3.5x use
           </li>
           <li>
             <strong>Limitation:</strong> The $5M cap means a business priced
@@ -411,7 +411,7 @@ export default function WhatSizeBusinessBuyArticle() {
           </li>
         </ul>
         <p>
-          For a comprehensive walkthrough, read our{" "}
+          For a thorough walkthrough, read our{" "}
           <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
             SBA 7(a) loans complete guide
           </Link>.
@@ -422,7 +422,7 @@ export default function WhatSizeBusinessBuyArticle() {
         </h3>
         <ul className={ulClass}>
           <li>
-            <strong>Leverage:</strong> Typically 2.5&ndash;3.5x EBITDA for
+            <strong>Use:</strong> Typically 2.5&ndash;3.5x EBITDA for
             senior debt; mezzanine or subordinated debt can add another
             1&ndash;1.5x
           </li>
@@ -560,7 +560,7 @@ export default function WhatSizeBusinessBuyArticle() {
           salary leaves no margin for reinvestment or unexpected expenses.
           The 2024 Stanford data shows that the median search fund
           acquisition had $2.2 million in EBITDA, but self-funded searchers
-          (who use more leverage and less equity) often target the
+          (who use more use and less equity) often target the
           $500K&ndash;$1.5M range successfully. The key test: after annual
           debt service and a $120K&ndash;$150K salary, does at least 15% of
           EBITDA remain as free cash flow? If not, the business is too small

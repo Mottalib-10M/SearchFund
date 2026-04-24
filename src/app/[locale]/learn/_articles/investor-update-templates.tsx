@@ -238,7 +238,7 @@ export default function InvestorUpdateTemplatesArticle() {
             months later. Keep investors informed about the evolution.
           </li>
           <li>
-            <strong>Market and competitive landscape.</strong> Relevant industry trends,
+            <strong>Market and competitive environment.</strong> Relevant industry trends,
             competitive moves, or regulatory changes. This section demonstrates that
             you&rsquo;re not just managing the P&amp;L but also thinking strategically about
             the business&rsquo;s position.

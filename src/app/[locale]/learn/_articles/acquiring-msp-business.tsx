@@ -45,7 +45,7 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Exceptional recurring revenue:</strong> Best-in-class MSPs
             generate 85&ndash;95% of total revenue from Monthly Recurring
             Revenue (MRR) contracts. Clients pay a fixed per-user or
-            per-endpoint fee each month for comprehensive IT management,
+            per-endpoint fee each month for thorough IT management,
             monitoring, patching, help desk support, and cybersecurity. This
             subscription-like revenue stream is predictable, high-margin, and
             remarkably durable &mdash; more akin to{" "}
@@ -121,7 +121,7 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Managed services / MRR:</strong> The core of the business.
             Clients pay a fixed monthly fee &mdash; typically $100&ndash;$250
             per user per month or $5&ndash;$15 per endpoint per month &mdash;
-            for comprehensive IT management including remote monitoring,
+            for thorough IT management including remote monitoring,
             patching, help desk support, network management, backup, and basic
             cybersecurity. MRR should represent 70&ndash;95% of total revenue
             for an attractive acquisition target. Contracts are typically
@@ -217,7 +217,7 @@ export default function AcquiringMSPBusinessArticle() {
           MSP acquisitions share foundational due diligence elements with other
           small business purchases &mdash; our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
-            comprehensive due diligence checklist
+            thorough due diligence checklist
           </Link>{" "}
           covers the fundamentals &mdash; but several areas require
           industry-specific scrutiny. Cutting corners on any of these can
@@ -653,7 +653,7 @@ export default function AcquiringMSPBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Technology obsolescence:</strong> The IT landscape evolves
+            <strong>Technology obsolescence:</strong> The IT market evolves
             rapidly. Cloud migration is reducing demand for on-premise server
             management &mdash; once a core MSP revenue stream. MSPs that
             haven&rsquo;t adapted to cloud-first architectures (Azure, AWS,
@@ -691,7 +691,7 @@ export default function AcquiringMSPBusinessArticle() {
             the entire client base, resulting in massive financial liability,
             regulatory exposure, reputational damage, and potential business
             failure. Mitigate by investing aggressively in internal security
-            practices, maintaining robust cyber insurance with appropriate
+            practices, maintaining strong cyber insurance with appropriate
             limits, pursuing SOC 2 certification, and implementing zero-trust
             architecture principles.
           </li>
@@ -720,7 +720,7 @@ export default function AcquiringMSPBusinessArticle() {
           endpoint through pricing optimization and service expansion, layer
           on high-margin security services, invest in automation and tooling
           to improve margins, and &mdash; when ready &mdash; scale through
-          disciplined tuck-in acquisitions that leverage the multiple arbitrage
+          disciplined tuck-in acquisitions that use the multiple arbitrage
           between small-operator entry multiples and platform-level exit
           multiples. The operators who execute this playbook consistently
           build platforms that generate strong free cash flow throughout the
@@ -767,7 +767,7 @@ export default function AcquiringMSPBusinessArticle() {
           for their entire client base. A breach at the MSP level can cascade
           across every client simultaneously, creating catastrophic financial
           and reputational damage. Mitigate by auditing internal security
-          practices during due diligence, maintaining robust cyber insurance,
+          practices during due diligence, maintaining strong cyber insurance,
           and investing in SOC 2 certification and zero-trust architecture
           post-acquisition.
         </p>

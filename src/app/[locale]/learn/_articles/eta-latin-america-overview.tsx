@@ -118,7 +118,7 @@ export default function ETALatinAmericaOverviewArticle() {
         <h2 className={h2Class}>The family business succession wave</h2>
         <p>
           Latin America&rsquo;s ETA opportunity is fundamentally driven by demographics. The
-          generation that built the region&rsquo;s SME landscape&mdash;founders who started
+          generation that built the region&rsquo;s SME market&mdash;founders who started
           businesses during the liberalization and privatization waves of the 1980s and
           1990s&mdash;is now reaching retirement age. Unlike in Europe, where professional
           business brokers and M&amp;A intermediaries handle many transitions, Latin America
@@ -158,14 +158,14 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h2 className={h2Class}>Financing: local vs. international capital</h2>
         <p>
-          Financing search fund acquisitions in Latin America requires navigating a landscape that
+          Financing search fund acquisitions in Latin America requires managing a market that
           differs significantly from the mature capital markets of North America and Europe.
         </p>
 
         <h3 className={h3Class}>International search fund investors</h3>
         <p>
           The majority of Latin American search funds to date have raised capital from US&ndash;
-          and Europe-based search fund investors. These investors bring not only capital but also
+          and Europe-based search fund investors. These investors bring capital along with
           operational expertise, board governance experience, and connections to a global network.
           The typical structure&mdash;raising $400K&ndash;$600K for the search phase, followed by a
           separate acquisition raise&mdash;applies in Latin America, though search budgets may be
@@ -215,7 +215,7 @@ export default function ETALatinAmericaOverviewArticle() {
         <h2 className={h2Class}>Legal frameworks by country</h2>
         <p>
           Each Latin American market has its own corporate law tradition, and searchers must engage
-          local counsel to navigate the specific requirements of their target jurisdiction.
+          local counsel to manage the specific requirements of their target jurisdiction.
         </p>
         <ol className={olClass}>
           <li><strong>Brazil:</strong> Governed by the Civil Code (2002) and the Corporations Law (Lei das S.A., 6.404/1976). The Ltda. is the workhorse entity for SMEs. Foreign investment must be registered with the Central Bank. Labor law (CLT) is highly protective and imposes significant obligations on acquirers.</li>
@@ -248,9 +248,9 @@ export default function ETALatinAmericaOverviewArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Colombian search funds:</strong> Several IESE and Universidad de los Andes alumni have completed acquisitions in sectors ranging from industrial services to healthcare staffing, generating strong returns and creating a visible proof of concept for the Colombian market.</li>
-          <li><strong>Brazilian roll-ups:</strong> Searchers in Brazil have leveraged the country&rsquo;s fragmented markets to execute buy-and-build strategies in sectors like dental clinics, veterinary services, and accounting firms, consolidating local operators into regional platforms.</li>
+          <li><strong>Brazilian roll-ups:</strong> Searchers in Brazil have used the country&rsquo;s fragmented markets to execute buy-and-build strategies in sectors like dental clinics, veterinary services, and accounting firms, consolidating local operators into regional platforms.</li>
           <li><strong>Chilean operational turnarounds:</strong> Chile&rsquo;s transparent business environment has enabled searchers to acquire underperforming SMEs and drive value through operational improvements, ERP implementation, and commercial expansion.</li>
-          <li><strong>Cross-border platforms:</strong> Some of the most ambitious Latin American search fund entrepreneurs have acquired businesses in one market and expanded across borders, leveraging shared language and cultural affinity to build pan-regional platforms.</li>
+          <li><strong>Cross-border platforms:</strong> Some of the most ambitious Latin American search fund entrepreneurs have acquired businesses in one market and expanded across borders, using shared language and cultural affinity to build pan-regional platforms.</li>
         </ul>
 
         <h2 className={h2Class}>Challenges and risk factors</h2>
@@ -272,7 +272,7 @@ export default function ETALatinAmericaOverviewArticle() {
         <p>
           Political risk varies dramatically across the region. Chile and Colombia have generally
           maintained stable, business-friendly policy environments, though both have experienced
-          political shifts in recent years. Brazil&rsquo;s regulatory landscape is complex and can
+          political shifts in recent years. Brazil&rsquo;s regulatory environment is complex and can
           change with elections. Argentina&rsquo;s history of capital controls, price freezes, and
           abrupt policy reversals makes it the highest-risk major market. Mexico&rsquo;s recent
           energy and judicial reforms have introduced new uncertainties for foreign investors.
@@ -351,7 +351,7 @@ export default function ETALatinAmericaOverviewArticle() {
           Whether you are a Latin American professional returning home after an MBA, a US&ndash;
           or Europe-based searcher looking to differentiate through geography, or a local
           entrepreneur seeking a proven path to business ownership, the Latin American ETA
-          landscape deserves serious consideration. The opportunity window is open, the ecosystem
+          market deserves serious consideration. The opportunity window is open, the ecosystem
           is maturing, and the next generation of search fund success stories is being written
           right now.
         </p>
@@ -370,7 +370,7 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h3 className={h3Class}>Do I need to speak Spanish or Portuguese to run a search fund in Latin America?</h3>
         <p>
-          Full professional fluency in Spanish (for Spanish-speaking markets) or Portuguese (for Brazil) is effectively non-negotiable. According to IESE&rsquo;s research on Latin American search funds, every successful searcher in the region has had native or near-native proficiency in the local language. Business negotiations, relationship-building with founders, employee management, and customer interactions all occur in the local language. The cultural dimension of <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> in Latin America&mdash;where personal trust (confianza) is the foundation of every deal&mdash;makes language proficiency inseparable from commercial effectiveness. Some searchers of Latin American heritage who grew up abroad have successfully leveraged their cultural fluency even when their business-language skills required development, but they invested heavily in immersion before launching their search.
+          Full professional fluency in Spanish (for Spanish-speaking markets) or Portuguese (for Brazil) is effectively non-negotiable. According to IESE&rsquo;s research on Latin American search funds, every successful searcher in the region has had native or near-native proficiency in the local language. Business negotiations, relationship-building with founders, employee management, and customer interactions all occur in the local language. The cultural dimension of <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> in Latin America&mdash;where personal trust (confianza) is the foundation of every deal&mdash;makes language proficiency inseparable from commercial effectiveness. Some searchers of Latin American heritage who grew up abroad have successfully used their cultural fluency even when their business-language skills required development, but they invested heavily in immersion before launching their search.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

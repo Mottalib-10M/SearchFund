@@ -19,7 +19,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          This comprehensive guide will walk you through every major channel for finding businesses for sale, from online marketplaces to proprietary outreach strategies. You'll learn how to evaluate each channel's strengths and weaknesses, build a diversified sourcing strategy, and deploy the tools and processes needed to manage a high-volume search efficiently.
+          This thorough guide will walk you through every major channel for finding businesses for sale, from online marketplaces to proprietary outreach strategies. You'll learn how to evaluate each channel's strengths and weaknesses, build a diversified sourcing strategy, and deploy the tools and processes needed to manage a high-volume search efficiently.
         </p>
 
         <h2 className={h2Class}>The Five Channels for Finding Businesses</h2>
@@ -51,7 +51,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Axial operates as a private network connecting buyers, sellers, and intermediaries in the lower middle market. Membership requires vetting and typically costs $5,000-$15,000 annually for buyers. The platform excels at facilitating confidential deal flow and providing robust collaboration tools. Deals on Axial tend to be larger ($5M-$50M enterprise value), more sophisticated, and professionally represented. The quality bar is higher than public marketplaces, but competition from strategic buyers and private equity is significant.
+          Axial operates as a private network connecting buyers, sellers, and intermediaries in the lower middle market. Membership requires vetting and typically costs $5,000-$15,000 annually for buyers. The platform excels at facilitating confidential deal flow and providing strong collaboration tools. Deals on Axial tend to be larger ($5M-$50M enterprise value), more sophisticated, and professionally represented. The quality bar is higher than public marketplaces, but competition from strategic buyers and private equity is significant.
         </p>
 
         <p>
@@ -137,7 +137,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Professional Referrals: CPAs, Attorneys, Wealth Advisors</h2>
 
         <p>
-          Professional advisors (particularly CPAs, M&A attorneys, wealth advisors, and business consultants) sit at the nexus of business ownership transitions. They often know about potential sales before owners go public, have deep knowledge of business quality and owner motivations, and can provide credible introductions. Building a referral network of professional advisors is a high-leverage activity that compounds over time.
+          Professional advisors (particularly CPAs, M&A attorneys, wealth advisors, and business consultants) sit at the nexus of business ownership transitions. They often know about potential sales before owners go public, have deep knowledge of business quality and owner motivations, and can provide credible introductions. Building a referral network of professional advisors is a high-use activity that compounds over time.
         </p>
 
         <p>
@@ -275,7 +275,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          For a broader perspective on sourcing strategy, review our comprehensive guide on <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
+          For a broader perspective on sourcing strategy, review our thorough guide on <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
         </p>
 
         <h2 className={h2Class}>The Numbers: How Many Businesses You Need to Screen</h2>
@@ -319,7 +319,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Tools and Technology for Deal Sourcing</h2>
 
         <p>
-          Modern searchers leverage technology to manage higher volumes, improve efficiency, and maintain organization throughout the search process. The right tools won't find deals for you, but they'll help you work faster, track more opportunities, and avoid the chaos that comes from managing hundreds of relationships and opportunities in spreadsheets or email folders.
+          Modern searchers use technology to manage higher volumes, improve efficiency, and maintain organization throughout the search process. The right tools won't find deals for you, but they'll help you work faster, track more opportunities, and avoid the chaos that comes from managing hundreds of relationships and opportunities in spreadsheets or email folders.
         </p>
 
         <p>
@@ -355,21 +355,21 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          The total technology stack for a professional search typically costs $500-$1,500 monthly, plus one-time investments in CRM setup and data subscriptions. This is a rounding error compared to the transaction you're pursuing but delivers significant leverage. The key is choosing tools you'll actually use and taking time to configure them properly upfront rather than cobbling together ad-hoc solutions under deadline pressure.
+          The total technology stack for a professional search typically costs $500-$1,500 monthly, plus one-time investments in CRM setup and data subscriptions. This is a rounding error compared to the transaction you're pursuing but delivers significant use. The key is choosing tools you'll actually use and taking time to configure them properly upfront rather than cobbling together ad-hoc solutions under deadline pressure.
         </p>
 
         <h2 className={h2Class}>International Deal Sourcing</h2>
 
         <p>
-          While most traditional search funds focus on U.S. markets, international deal sourcing represents an increasingly viable path, particularly in developed markets with strong rule of law, established M&A infrastructure, and searcher-friendly business cultures. Canada, United Kingdom, Germany, France, Australia, and the Nordic countries all have active search fund communities and robust small business sectors.
+          While most traditional search funds focus on U.S. markets, international deal sourcing represents an increasingly viable path, particularly in developed markets with strong rule of law, established M&A infrastructure, and searcher-friendly business cultures. Canada, United Kingdom, Germany, France, Australia, and the Nordic countries all have active search fund communities and strong small business sectors.
         </p>
 
         <p>
-          International sourcing offers several potential advantages: less competition from U.S. searchers and private equity, different valuation norms (some markets trade at lower multiples), access to unique industries or business models, and opportunity to leverage language or cultural expertise if you have relevant background. The search fund model has proven successful across markets, with comparable returns to U.S. searches when properly executed.
+          International sourcing offers several potential advantages: less competition from U.S. searchers and private equity, different valuation norms (some markets trade at lower multiples), access to unique industries or business models, and opportunity to use language or cultural expertise if you have relevant background. The search fund model has proven successful across markets, with comparable returns to U.S. searches when properly executed.
         </p>
 
         <p>
-          However, international searching introduces complexities: you'll need to understand different legal and regulatory frameworks, navigate foreign tax considerations, potentially work in multiple languages, manage currency risk, and build investor comfort with international deals. You'll also face logistical challenges conducting due diligence across time zones and potentially requiring extended travel.
+          However, international searching introduces complexities: you'll need to understand different legal and regulatory frameworks, manage foreign tax considerations, potentially work in multiple languages, manage currency risk, and build investor comfort with international deals. You'll also face logistical challenges conducting due diligence across time zones and potentially requiring extended travel.
         </p>
 
         <p>
@@ -377,7 +377,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         </p>
 
         <p>
-          Sourcing channels in international markets parallel domestic ones but require localized approaches. Each country has regional business brokers, local online marketplaces, and industry associations. Professional networks may be even more important internationally, where business is often conducted through trusted relationships. Consider partnering with local M&A advisors or law firms who can make introductions and navigate cultural expectations.
+          Sourcing channels in international markets parallel domestic ones but require localized approaches. Each country has regional business brokers, local online marketplaces, and industry associations. Professional networks may be even more important internationally, where business is often conducted through trusted relationships. Consider partnering with local M&A advisors or law firms who can make introductions and manage cultural expectations.
         </p>
 
         <p>
@@ -391,7 +391,7 @@ export default function HowToFindBusinessesForSaleArticle() {
         <h2 className={h2Class}>Conclusion: From Search to Success</h2>
 
         <p>
-          Finding the right business to acquire is a systematic process that rewards preparation, persistence, and strategic thinking. By deploying a multi-channel approach that balances high-volume screening with relationship-driven sourcing, measuring your funnel metrics, leveraging technology for efficiency, and maintaining rigorous evaluation standards, you dramatically increase your odds of finding an outstanding acquisition opportunity.
+          Finding the right business to acquire is a systematic process that rewards preparation, persistence, and strategic thinking. By deploying a multi-channel approach that balances high-volume screening with relationship-driven sourcing, measuring your funnel metrics, using technology for efficiency, and maintaining rigorous evaluation standards, you dramatically increase your odds of finding an outstanding acquisition opportunity.
         </p>
 
         <p>

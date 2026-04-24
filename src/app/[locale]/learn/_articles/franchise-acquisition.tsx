@@ -51,7 +51,7 @@ export default function FranchiseAcquisitionArticle() {
           <li><strong>New unit development:</strong> Open additional locations within your development territory</li>
           <li><strong>Underperforming units:</strong> Apply operational best practices from top-performing locations to weaker ones</li>
           <li><strong>Tuck-in acquisitions:</strong> Acquire neighboring franchisees of the same brand for territory consolidation</li>
-          <li><strong>Multi-brand:</strong> Add complementary franchise brands to diversify and leverage management infrastructure</li>
+          <li><strong>Multi-brand:</strong> Add complementary franchise brands to diversify and use management infrastructure</li>
           <li><strong>Technology &amp; operations:</strong> Implement above-store-level management, data analytics, and workforce management tools</li>
           <li><strong>Drive-thru &amp; delivery:</strong> For QSR, add or optimize drive-thru and delivery channels for incremental revenue</li>
         </ul>

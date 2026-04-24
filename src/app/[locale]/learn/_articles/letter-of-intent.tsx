@@ -9,7 +9,7 @@ export default function LetterOfIntentArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Letter of Intent is the pivotal document in any search fund
+          The Letter of Intent is the key document in any search fund
           acquisition. It marks the transition from the search phase to the deal
           phase and sets the framework for everything that follows &mdash;
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, acquisition financing, and the definitive purchase
@@ -127,7 +127,7 @@ export default function LetterOfIntentArticle() {
 
         <h2 className={h2Class}>Binding vs. non-binding provisions</h2>
         <p>
-          Understanding this distinction is crucial. The LOI should explicitly
+          Understanding this distinction is critical. The LOI should explicitly
           state which provisions are binding and which are not:
         </p>
         <ul className={ulClass}>
@@ -178,7 +178,7 @@ export default function LetterOfIntentArticle() {
           an extension mechanism in the LOI, such as an automatic 30-day
           extension if diligence is proceeding in good faith and neither
           party has raised material concerns. This prevents the seller from
-          using an expiring exclusivity period as leverage to force premature
+          using an expiring exclusivity period as use to force premature
           commitment.
         </p>
 
@@ -248,7 +248,7 @@ export default function LetterOfIntentArticle() {
           agreements that will be executed at closing. Getting these terms
           agreed upon early prevents last-minute holdups when the seller or
           key employees attempt to renegotiate their arrangements with
-          closing leverage.
+          closing use.
         </p>
 
         <h2 className={h2Class}>Negotiation strategies</h2>

@@ -468,7 +468,7 @@ export default function FinancialServicesAcquisitionArticle() {
             across a multi-office network.
           </li>
           <li>
-            <strong>Carrier leverage:</strong> Larger premium volumes
+            <strong>Carrier use:</strong> Larger premium volumes
             unlock higher commission tiers, contingent commission
             bonuses, and preferred carrier status. A $20M premium
             platform typically earns 1&ndash;3 percentage points more

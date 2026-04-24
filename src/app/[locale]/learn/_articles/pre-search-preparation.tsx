@@ -401,7 +401,7 @@ export default function PreSearchPreparationArticle() {
         <p>
           Approximately 30% of active searchers do not have an MBA. This cohort
           is growing as the model gains visibility. Non-MBA searchers succeed by
-          leveraging deep industry experience, strong operating backgrounds,
+          using deep industry experience, strong operating backgrounds,
           and self-funded structures that don&apos;t require institutional backing.
           The trade-off: no $200K+ MBA investment and no 2-year delay, but harder
           access to traditional investors and fewer built-in peers.
@@ -519,7 +519,7 @@ export default function PreSearchPreparationArticle() {
 
         <h3 className={h3Class}>Should I get an MBA before pursuing ETA, or can I launch directly from industry?</h3>
         <p>
-          Both paths work, but each has distinct trade-offs. The MBA route provides structured ETA coursework, access to the investor network (the most active search fund investors recruit disproportionately from Stanford, Harvard, INSEAD, IESE, Wharton, and Booth), peer cohorts who become lifelong deal sourcing partners, and a credibility signal with sellers and lenders. The industry route avoids the $200K+ MBA investment and two-year delay, but requires you to build investor relationships, financial modeling proficiency, and industry expertise independently. Approximately 30% of active searchers do not have an MBA and succeed by leveraging deep operating backgrounds and self-funded structures. If you already have strong financial modeling skills, 5&ndash;10 years of relevant operating experience, and access to personal or family capital for a self-funded search, the MBA may not be necessary.
+          Both paths work, but each has distinct trade-offs. The MBA route provides structured ETA coursework, access to the investor network (the most active search fund investors recruit disproportionately from Stanford, Harvard, INSEAD, IESE, Wharton, and Booth), peer cohorts who become lifelong deal sourcing partners, and a credibility signal with sellers and lenders. The industry route avoids the $200K+ MBA investment and two-year delay, but requires you to build investor relationships, financial modeling proficiency, and industry expertise independently. Approximately 30% of active searchers do not have an MBA and succeed by using deep operating backgrounds and self-funded structures. If you already have strong financial modeling skills, 5&ndash;10 years of relevant operating experience, and access to personal or family capital for a self-funded search, the MBA may not be necessary.
         </p>
 
         <h3 className={h3Class}>How do I choose between a focused industry thesis and a generalist approach?</h3>

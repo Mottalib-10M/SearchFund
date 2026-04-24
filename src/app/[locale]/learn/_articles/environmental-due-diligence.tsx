@@ -11,7 +11,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive framework for conducting environmental due diligence, from Phase I assessments through ESG integration, helping you identify risks, quantify potential liabilities, and transform environmental compliance into competitive advantage.
+        This guide provides a thorough framework for conducting environmental due diligence, from Phase I assessments through ESG integration, helping you identify risks, quantify potential liabilities, and transform environmental compliance into competitive advantage.
       </p>
 
       <h2 className={h2Class}>Why Environmental Due Diligence Matters</h2>
@@ -42,7 +42,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h3 className={h3Class}>Phase I ESA Components</h3>
 
       <p className={bodyClass}>
-        A comprehensive Phase I ESA includes:
+        A thorough Phase I ESA includes:
       </p>
 
       <ul className={ulClass}>
@@ -100,7 +100,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </ol>
 
       <p className={bodyClass}>
-        Phase II costs vary widely depending on site size, number of sampling locations, analytical scope, and site access considerations, typically ranging from $10,000 to $100,000+ for comprehensive investigations. Budget adequate time (4-8 weeks) for Phase II work, as it involves regulatory approvals, drilling contractors, laboratory analysis, and report preparation.
+        Phase II costs vary widely depending on site size, number of sampling locations, analytical scope, and site access considerations, typically ranging from $10,000 to $100,000+ for thorough investigations. Budget adequate time (4-8 weeks) for Phase II work, as it involves regulatory approvals, drilling contractors, laboratory analysis, and report preparation.
       </p>
 
       <h3 className={h3Class}>Remediation Cost Estimation</h3>
@@ -124,7 +124,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>CERCLA Liability & Legal Framework</h2>
 
       <p className={bodyClass}>
-        The Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), commonly known as Superfund, creates a strict, joint and several liability scheme for hazardous substance contamination. Understanding CERCLA's liability framework is essential for search fund buyers.
+        The Thorough Environmental Response, Compensation, and Liability Act (CERCLA), commonly known as Superfund, creates a strict, joint and several liability scheme for hazardous substance contamination. Understanding CERCLA's liability framework is essential for search fund buyers.
       </p>
 
       <h3 className={h3Class}>Potentially Responsible Parties (PRPs)</h3>
@@ -184,7 +184,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>Environmental Compliance Audit</h2>
 
       <p className={bodyClass}>
-        Beyond historical contamination, assess the target company's ongoing environmental compliance posture. Regulatory violations create financial exposure through fines, penalties, required capital expenditures, and operational disruptions. A comprehensive compliance audit should address:
+        Beyond historical contamination, assess the target company's ongoing environmental compliance posture. Regulatory violations create financial exposure through fines, penalties, required capital expenditures, and operational disruptions. A thorough compliance audit should address:
       </p>
 
       <h3 className={h3Class}>Air Quality Permits & Compliance</h3>
@@ -366,7 +366,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>Regulatory Compliance Programs</h2>
 
       <p className={bodyClass}>
-        Beyond initial diligence, establish robust environmental compliance programs post-acquisition to maintain regulatory compliance, reduce environmental risk, and demonstrate commitment to continuous improvement.
+        Beyond initial diligence, establish strong environmental compliance programs post-acquisition to maintain regulatory compliance, reduce environmental risk, and demonstrate commitment to continuous improvement.
       </p>
 
       <h3 className={h3Class}>Environmental Management System (EMS)</h3>
@@ -437,7 +437,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h3 className={h3Class}>Representations & Warranties</h3>
 
       <p className={bodyClass}>
-        Negotiate comprehensive environmental representations covering:
+        Negotiate thorough environmental representations covering:
       </p>
 
       <ul className={ulClass}>
@@ -504,7 +504,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Comprehensive Phase I and likely Phase II assessments given industrial history</li>
+        <li>Thorough Phase I and likely Phase II assessments given industrial history</li>
         <li>Air emissions permits and compliance with NESHAPs</li>
         <li>Hazardous waste generation, manifesting, and disposal practices</li>
         <li>Wastewater discharge permits and pretreatment requirements</li>
@@ -559,7 +559,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <ol className={olClass}>
         <li><strong>Immediate compliance verification (Days 1-30):</strong> Confirm all permits are current, review recent monitoring reports, verify training documentation, and assess any immediate compliance gaps</li>
         <li><strong>EHS personnel assessment (Days 1-60):</strong> Evaluate environmental, health, and safety staffing and competency; retain or hire qualified EHS manager if environmental compliance complexity warrants</li>
-        <li><strong>Compliance audit (Days 60-90):</strong> Conduct comprehensive compliance audit to establish baseline and identify improvement priorities</li>
+        <li><strong>Compliance audit (Days 60-90):</strong> Conduct thorough compliance audit to establish baseline and identify improvement priorities</li>
         <li><strong>Environmental metrics integration (Days 90-180):</strong> Establish key environmental performance indicators (energy intensity, waste generation, water consumption, safety incidents) and integrate into operational dashboards</li>
         <li><strong>Improvement initiatives (Year 1+):</strong> Implement targeted environmental improvements with attractive ROI (LED lighting, waste reduction, energy efficiency) and track progress</li>
         <li><strong>ESG reporting framework (Year 1-2):</strong> Develop ESG reporting aligned with investor expectations and industry frameworks (potentially GRI, SASB, or simplified scorecards)</li>
@@ -574,7 +574,7 @@ export default function EnvironmentalDueDiligenceArticle() {
         <li>Environmental compliance extends beyond contamination to ongoing air, water, waste, and chemical management obligations</li>
         <li>ESG considerations increasingly influence investor expectations, customer preferences, and employee attraction in SME acquisitions</li>
         <li>Environmental insurance products (PLL, cost cap, secured creditor) provide important risk transfer mechanisms for identified risks</li>
-        <li>Contractual protections including robust reps, indemnities, escrows, and pre-closing remediation allocate risk appropriately</li>
+        <li>Contractual protections including strong reps, indemnities, escrows, and pre-closing remediation allocate risk appropriately</li>
         <li>Post-acquisition environmental management creates value through compliance assurance, operational efficiency, and stakeholder confidence</li>
         <li>Industry-specific environmental risks require tailored diligence approaches matching operational characteristics</li>
         <li>Early identification and transparent communication of environmental issues enable deal structure creativity rather than deal failure</li>
@@ -583,7 +583,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h2 className={h2Class}>Related Resources</h2>
 
       <ul className={ulClass}>
-        <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Comprehensive Due Diligence Checklist</Link> - Master framework for thorough acquisition diligence</li>
+        <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Thorough Due Diligence Checklist</Link> - Master framework for thorough acquisition diligence</li>
         <li><Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">Legal Due Diligence Guide</Link> - Contracts, litigation, regulatory compliance, and legal risk assessment</li>
         <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Operational Due Diligence</Link> - Evaluate processes, capacity, and operational excellence</li>
         <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties Guide</Link> - Negotiate protective contractual provisions</li>
@@ -601,7 +601,7 @@ export default function EnvironmentalDueDiligenceArticle() {
       <h3 className={h3Class}>Can I be held liable for environmental contamination caused by previous owners?</h3>
 
       <p className={bodyClass}>
-        Yes&mdash;under CERCLA (the Comprehensive Environmental Response, Compensation, and Liability Act), current owners and operators face strict, joint and several liability for hazardous substance contamination, regardless of whether they caused it. However, CERCLA provides critical liability defenses for buyers who conduct &ldquo;all appropriate inquiry&rdquo; before acquisition. Completing a Phase I ESA that meets ASTM E1527-21 standards satisfies this requirement and qualifies you for the &ldquo;innocent landowner defense&rdquo; or &ldquo;bona fide prospective purchaser&rdquo; (BFPP) protection. The BFPP defense can even apply when you knowingly acquire contaminated property, provided you satisfy specific conditions including cooperation with regulators and compliance with institutional controls. Without a Phase I ESA, you have virtually no defense against inherited environmental liability.
+        Yes&mdash;under CERCLA (the Thorough Environmental Response, Compensation, and Liability Act), current owners and operators face strict, joint and several liability for hazardous substance contamination, regardless of whether they caused it. However, CERCLA provides critical liability defenses for buyers who conduct &ldquo;all appropriate inquiry&rdquo; before acquisition. Completing a Phase I ESA that meets ASTM E1527-21 standards satisfies this requirement and qualifies you for the &ldquo;innocent landowner defense&rdquo; or &ldquo;bona fide prospective purchaser&rdquo; (BFPP) protection. The BFPP defense can even apply when you knowingly acquire contaminated property, provided you satisfy specific conditions including cooperation with regulators and compliance with institutional controls. Without a Phase I ESA, you have virtually no defense against inherited environmental liability.
       </p>
 
       <h3 className={h3Class}>Which industries carry the highest environmental due diligence risk?</h3>

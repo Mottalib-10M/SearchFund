@@ -21,7 +21,7 @@ export default function AcquiringHomeHealthcareArticle() {
           compelling acquisition thesis. Yet home healthcare also carries
           meaningful regulatory complexity, workforce challenges, and
           reimbursement risk that demand specialized diligence. This
-          playbook walks through the market landscape, deal evaluation,
+          playbook walks through the market environment, deal evaluation,
           valuation benchmarks, and post-acquisition growth levers you
           need to acquire &mdash; and operate &mdash; a home healthcare
           business successfully. If you are still evaluating whether
@@ -502,7 +502,7 @@ export default function AcquiringHomeHealthcareArticle() {
           </li>
           <li>
             Implementing referral bonuses ($500&ndash;$1,000 per successful
-            hire) to leverage existing staff networks
+            hire) to use existing staff networks
           </li>
           <li>
             Partnering with local nursing schools and CNA training programs
@@ -577,7 +577,7 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Regulatory enforcement:</strong> The OIG and state
             Medicaid Fraud Control Units actively investigate home health
-            billing fraud. Mitigant: invest in a robust compliance
+            billing fraud. Mitigant: invest in a strong compliance
             program, conduct regular internal audits, and engage
             healthcare-specialized legal counsel.
           </li>
@@ -644,7 +644,7 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Layer in new service lines</strong> (hospice, home
             infusion, private-duty nursing) across the entire network
-            simultaneously, leveraging existing referral relationships
+            simultaneously, using existing referral relationships
             and patient populations.
           </li>
           <li>
@@ -764,7 +764,7 @@ export default function AcquiringHomeHealthcareArticle() {
           growth constraint. If a single hospital referral source accounts
           for more than 25% of admissions, losing that relationship can cause
           a sudden census decline. Mitigate through payer diversification,
-          robust compliance programs, competitive compensation, and broad
+          strong compliance programs, competitive compensation, and broad
           referral network development.
         </p>
 

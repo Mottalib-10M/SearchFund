@@ -6,7 +6,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
     <article>
       <h1 className={h1Class}>ETA in Czech Republic &amp; Slovakia</h1>
       <div className={bodyClass}>
-        <p>The Czech Republic and Slovakia &mdash; two countries that share deep historical and economic ties &mdash; represent an emerging frontier for entrepreneurship through acquisition in Central Europe. With combined GDP of $400B+, strong manufacturing bases, EU membership, and an aging generation of post-communist business founders, the region offers attractive entry valuations and untapped consolidation potential for search fund entrepreneurs willing to navigate a less-developed advisory ecosystem.</p>
+        <p>The Czech Republic and Slovakia &mdash; two countries that share deep historical and economic ties &mdash; represent an emerging frontier for entrepreneurship through acquisition in Central Europe. With combined GDP of $400B+, strong manufacturing bases, EU membership, and an aging generation of post-communist business founders, the region offers attractive entry valuations and untapped consolidation potential for search fund entrepreneurs willing to manage a less-developed advisory ecosystem.</p>
       </div>
 
       <h2 className={h2Class}>Market Overview</h2>
@@ -91,7 +91,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
       <h3 className={h3Class}>How does the Czech Republic&rsquo;s low unemployment rate affect post-acquisition operations?</h3>
 
       <div className={bodyClass}>
-        <p>The Czech Republic consistently records one of the lowest unemployment rates in the EU (2&ndash;3%), which creates a tight labor market that presents both challenges and opportunities for acquirers. Hiring is difficult and expensive in competitive sectors like IT, engineering, and skilled manufacturing. Wage inflation has been running at 5&ndash;8% annually in recent years. However, this same tightness means that well-run businesses with strong employee cultures and competitive compensation packages have extremely low turnover&mdash;a valuable asset in an acquisition. Post-acquisition, searchers should invest in employee retention programs, competitive benefits, and training and development to maintain workforce stability. Some acquirers also leverage Slovakia&rsquo;s slightly more available labor market for shared services or back-office functions.</p>
+        <p>The Czech Republic consistently records one of the lowest unemployment rates in the EU (2&ndash;3%), which creates a tight labor market that presents both challenges and opportunities for acquirers. Hiring is difficult and expensive in competitive sectors like IT, engineering, and skilled manufacturing. Wage inflation has been running at 5&ndash;8% annually in recent years. However, this same tightness means that well-run businesses with strong employee cultures and competitive compensation packages have extremely low turnover&mdash;a valuable asset in an acquisition. Post-acquisition, searchers should invest in employee retention programs, competitive benefits, and training and development to maintain workforce stability. Some acquirers also use Slovakia&rsquo;s slightly more available labor market for shared services or back-office functions.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

@@ -306,7 +306,7 @@ export const ppmSearchFund: TemplateMeta = {
       management depth, customer concentration, and sensitivity to economic cycles.
     </li>
     <li>
-      <strong>Leverage risk.</strong> The acquisition will likely be partially debt-financed, increasing
+      <strong>Use risk.</strong> The acquisition will likely be partially debt-financed, increasing
       the risk of financial distress in adverse scenarios.
     </li>
     <li>
@@ -390,7 +390,7 @@ export const ppmSearchFund: TemplateMeta = {
 <p>
   Key differences from US practice include: different accredited investor definitions, varying
   securities registration requirements, and local corporate governance norms. European search
-  funds may also need to navigate cross-border tax implications if the searcher and target are in
+  funds may also need to manage cross-border tax implications if the searcher and target are in
   different countries.
 </p>
 

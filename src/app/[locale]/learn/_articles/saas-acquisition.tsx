@@ -15,7 +15,7 @@ export default function SaaSAcquisitionArticle() {
           strong customer retention create a financial profile that is uniquely
           attractive for entrepreneurship through acquisition. But the same
           characteristics that make SaaS appealing also make due diligence more
-          nuanced. Overpaying for a SaaS business with hidden churn problems or a
+          detailed. Overpaying for a SaaS business with hidden churn problems or a
           crumbling codebase can be catastrophic. This guide walks you through the
           key metrics, valuation frameworks, diligence processes, and post-acquisition
           growth levers specific to acquiring a SaaS company through a search fund.

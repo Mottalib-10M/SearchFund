@@ -12,7 +12,7 @@ export default function Stanford2024Article() {
           The Stanford Graduate School of Business published its landmark 2024
           Search Fund Study, analyzing data from 681 qualifying search funds
           raised in the United States and Canada since 1984. This study, produced
-          by the Center for Entrepreneurial Studies, is the most comprehensive
+          by the Center for Entrepreneurial Studies, is the most thorough
           dataset on search fund performance ever compiled. For anyone
           considering a search fund &mdash; whether as a searcher, investor, or
           advisor &mdash; this study is essential reading. Below we break down
@@ -245,7 +245,7 @@ export default function Stanford2024Article() {
         <p>
           For prospective searchers preparing to raise a search fund, the
           Stanford study is one of the most powerful tools in your arsenal.
-          Here is how to leverage the data effectively in your fundraising
+          Here is how to use the data effectively in your fundraising
           conversations and investor materials.
         </p>
 

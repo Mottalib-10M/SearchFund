@@ -78,7 +78,7 @@ export default function AcquiringCarWashBusinessArticle() {
 
         <h3 className={h3Class}>Full-service</h3>
         <p>
-          Includes exterior washing and comprehensive interior detailing.
+          Includes exterior washing and thorough interior detailing.
           Most labor-intensive format (20&ndash;40+ staff), with higher
           tickets ($20&ndash;$60+) but dramatically lower throughput
           (40&ndash;80 cars/day versus 800&ndash;1,200 for express).

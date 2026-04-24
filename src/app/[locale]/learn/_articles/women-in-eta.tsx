@@ -13,7 +13,7 @@ export default function WomenInETAArticle() {
           hundreds of CEOs over its four-decade history. But the demographics of
           those CEOs have been strikingly homogeneous. Women represent
           approximately 15% of active searchers today - a number that is growing,
-          but far too slowly. This article examines the current landscape, the
+          but far too slowly. This article examines the current market, the
           barriers that persist, the organizations working to change it, and
           practical steps that aspiring diverse searchers and their investors can
           take to accelerate progress.
@@ -46,7 +46,7 @@ export default function WomenInETAArticle() {
 
         <h2 className={h2Class}>Current statistics and trends</h2>
         <p>
-          The most comprehensive data on search fund demographics comes from
+          The most thorough data on search fund demographics comes from
           the Stanford GSB Search Fund Study, which has tracked the model
           since its inception. The numbers paint a clear picture: while female
           participation has grown steadily, it remains far from parity. In the
@@ -414,7 +414,7 @@ export default function WomenInETAArticle() {
             with non-traditional profiles and can introduce you to others
           </li>
           <li>
-            <strong>Leverage your differentiation:</strong> Your background is a
+            <strong>Use your differentiation:</strong> Your background is a
             source of unique insight into industries and seller demographics that
             traditional searchers overlook
           </li>

@@ -444,7 +444,7 @@ export default function EffectiveInvestorMeetingArticle() {
 
       <h3 className={h3Class}>How should I handle investor meetings when raising internationally?</h3>
       <div className={bodyClass}>
-        <p>International fundraising adds complexity around time zones, cultural norms, and investment structures. European investors (particularly those from IESE or HEC networks) may focus more on the <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA landscape</Link> and local market dynamics, while US-based investors evaluate through the lens of the Stanford search fund model. Tailor your thesis and market analysis to the investor&apos;s geographic expertise. For cross-border funds, be prepared to explain currency risk, legal structure differences, and how you will manage investor communications across time zones.</p>
+        <p>International fundraising adds complexity around time zones, cultural norms, and investment structures. European investors (particularly those from IESE or HEC networks) may focus more on the <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA market</Link> and local market dynamics, while US-based investors evaluate through the lens of the Stanford search fund model. Tailor your thesis and market analysis to the investor&apos;s geographic expertise. For cross-border funds, be prepared to explain currency risk, legal structure differences, and how you will manage investor communications across time zones.</p>
       </div>
 
       <h3 className={h3Class}>What is the ideal number of investors for a traditional search fund?</h3>

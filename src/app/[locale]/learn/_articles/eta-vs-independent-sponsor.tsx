@@ -202,7 +202,7 @@ export default function ETAVsIndependentSponsorArticle() {
         <p>
           The career trajectory often connects the two: many successful search
           fund alumni evolve into independent sponsors for their second and
-          third deals, leveraging the investor relationships and operating
+          third deals, using the investor relationships and operating
           credibility built during their first acquisition.
         </p>
 

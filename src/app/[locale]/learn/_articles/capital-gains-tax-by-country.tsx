@@ -441,7 +441,7 @@ export default function CapitalGainsTaxByCountryArticle() {
             authorities may reclassify a seller as a &ldquo;professional
             securities trader&rdquo; (gewerbsm&auml;ssiger
             Wertschriftenh&auml;ndler) if certain criteria are met &mdash;
-            such as high trading volume, leverage, or short holding periods
+            such as high trading volume, use, or short holding periods
             &mdash; which triggers income tax at rates above 40%. Corporate
             sellers benefit from a participation deduction on holdings of 10%
             or more.

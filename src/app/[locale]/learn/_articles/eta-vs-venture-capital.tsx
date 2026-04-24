@@ -180,7 +180,7 @@ export default function ETAvsVentureCapitalArticle() {
         <p>
           ETA investors can achieve strong risk-adjusted returns with
           far fewer investments. A portfolio of 10 to 15 search fund
-          investments provides robust diversification because the return
+          investments provides strong diversification because the return
           distribution is more concentrated. Each individual investment
           has a meaningful probability of success, so the portfolio does
           not depend on a single outlier to drive returns.
@@ -341,7 +341,7 @@ export default function ETAvsVentureCapitalArticle() {
         </ul>
         <p>
           Both strategies have earned their place in the alternative
-          investment landscape. The wisest approach is to understand the
+          investment market. The wisest approach is to understand the
           structural differences, match each strategy to your specific
           investment objectives, and allocate capital accordingly. If ETA
           appeals to you, our{" "}
@@ -373,7 +373,7 @@ export default function ETAvsVentureCapitalArticle() {
           investments, knowing most will fail and one or two must return
           50x&ndash;100x to make the fund successful. ETA investors can
           achieve strong risk-adjusted returns with far fewer bets. A
-          portfolio of 10&ndash;15 search fund investments provides robust
+          portfolio of 10&ndash;15 search fund investments provides strong
           diversification because the return distribution is more
           concentrated &mdash; each individual investment has a meaningful
           probability of success rather than depending on a single outlier.

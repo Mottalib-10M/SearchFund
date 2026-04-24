@@ -111,17 +111,17 @@ export default function WhySearchFundsFailArticle() {
           provide detailed frameworks for navigating this critical period.
         </p>
 
-        <h2 className={h2Class}>Mistake 4: Excessive leverage</h2>
+        <h2 className={h2Class}>Mistake 4: Excessive use</h2>
         <p>
-          Over-leveraging an acquisition is a classic value destroyer. When
+          Over-using an acquisition is a classic value destroyer. When
           debt service consumes too much of the business&rsquo;s cash flow,
           there is no margin for error. A single bad quarter, a lost customer,
           or an unexpected capital expenditure can push the business into
           distress.
         </p>
         <p>
-          The ideal leverage for a search fund acquisition is 2.5&ndash;3.5x
-          EBITDA in senior debt, with total leverage (including seller notes)
+          The ideal use for a search fund acquisition is 2.5&ndash;3.5x
+          EBITDA in senior debt, with total use (including seller notes)
           not exceeding 4&ndash;4.5x. When acquisition financing stretches
           beyond these levels, the risk of covenant violations, cash flow
           shortfalls, and forced restructuring increases dramatically.
@@ -309,13 +309,13 @@ export default function WhySearchFundsFailArticle() {
             <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
               first 100 days
             </Link>{" "}
-            as the highest-leverage period</li>
+            as the highest-use period</li>
           <li>Prioritize revenue growth from day one</li>
           <li>Build a strong{" "}
             <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">
               advisory board
             </Link>{" "}
-            and leverage your investor network</li>
+            and use your investor network</li>
           <li>Manage the{" "}
             <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
               psychological challenges
@@ -344,7 +344,7 @@ export default function WhySearchFundsFailArticle() {
           <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
             quality of earnings analysis
           </Link>{" "}
-          and a comprehensive{" "}
+          and a thorough{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>{" "}

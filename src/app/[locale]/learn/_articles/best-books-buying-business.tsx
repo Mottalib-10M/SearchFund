@@ -3,7 +3,7 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 
 export const metadata = {
   title: "The Best Books on Buying a Business",
-  description: "A comprehensive reading list for aspiring searchers, from foundational guides to advanced acquisition strategies.",
+  description: "A thorough reading list for aspiring searchers, from foundational guides to advanced acquisition strategies.",
   author: "SearchFund Team",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
@@ -34,7 +34,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        This comprehensive reading list is organized by topic and expertise level, covering everything from foundational concepts to advanced negotiation tactics. Each recommendation includes the author, key takeaways, and who will benefit most from reading it. While no book can replace real-world experience, these titles represent the collective wisdom of thousands of successful acquisitions.
+        This thorough reading list is organized by topic and expertise level, covering everything from foundational concepts to advanced negotiation tactics. Each recommendation includes the author, key takeaways, and who will benefit most from reading it. While no book can replace real-world experience, these titles represent the collective wisdom of thousands of successful acquisitions.
       </p>
 
       <h2 className={h2Class}>Must-Read Foundational Books</h2>
@@ -79,7 +79,7 @@ export default function BestBooksBuyingBusinessArticle() {
         <strong>Best For:</strong> Aspiring entrepreneurs weighing the startup vs. acquisition decision, self-funded searchers, and anyone looking for a less academic introduction to ETA than the Harvard approach.
       </p>
 
-      <h3 className={h3Class}>The ETA Handbook: A Comprehensive Guide to Entrepreneurship Through Acquisition</h3>
+      <h3 className={h3Class}>The ETA Handbook: A Thorough Guide to Entrepreneurship Through Acquisition</h3>
 
       <p className={bodyClass}>
         <strong>Author:</strong> SearchFund Team (Updated Annually)
@@ -152,7 +152,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        The McKinsey valuation textbook is the gold standard for corporate valuation. While dense and comprehensive, it's the reference that investment bankers and private equity professionals rely on.
+        The McKinsey valuation textbook is the gold standard for corporate valuation. While dense and thorough, it's the reference that investment bankers and private equity professionals rely on.
       </p>
 
       <p className={bodyClass}>
@@ -202,7 +202,7 @@ export default function BestBooksBuyingBusinessArticle() {
       <h2 className={h2Class}>Negotiation Books for Acquisitions</h2>
 
       <p className={bodyClass}>
-        Deal negotiation is an art as much as a science. These books will help you navigate complex negotiations with sellers, brokers, and investors.
+        Deal negotiation is an art as much as a science. These books will help you manage complex negotiations with sellers, brokers, and investors.
       </p>
 
       <h3 className={h3Class}>Getting to Yes: Negotiating Agreement Without Giving In</h3>
@@ -234,7 +234,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Key Takeaways:</strong> Tactical empathy and mirroring techniques, the power of "no" in negotiations, how to use calibrated questions to guide conversations, and identifying and leveraging different negotiator types.
+        <strong>Key Takeaways:</strong> Tactical empathy and mirroring techniques, the power of "no" in negotiations, how to use calibrated questions to guide conversations, and identifying and using different negotiator types.
       </p>
 
       <p className={bodyClass}>
@@ -340,7 +340,7 @@ export default function BestBooksBuyingBusinessArticle() {
       <h2 className={h2Class}>Industry-Specific Reading</h2>
 
       <p className={bodyClass}>
-        Depending on your target industry, these specialized resources can provide crucial domain knowledge.
+        Depending on your target industry, these specialized resources can provide critical domain knowledge.
       </p>
 
       <h3 className={h3Class}>E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It</h3>
@@ -392,7 +392,7 @@ export default function BestBooksBuyingBusinessArticle() {
       </p>
 
       <p className={bodyClass}>
-        The Stanford Search Fund Study is the most comprehensive dataset on search fund performance, tracking hundreds of searches over multiple decades.
+        The Stanford Search Fund Study is the most thorough dataset on search fund performance, tracking hundreds of searches over multiple decades.
       </p>
 
       <p className={bodyClass}>
@@ -435,7 +435,7 @@ export default function BestBooksBuyingBusinessArticle() {
 
       <ol className={olClass}>
         <li><em>Buy Then Build</em> for the strategic case</li>
-        <li><em>HBR Guide to Buying a Small Business</em> for the comprehensive framework</li>
+        <li><em>HBR Guide to Buying a Small Business</em> for the thorough framework</li>
         <li>Stanford and Harvard search fund studies for the data</li>
         <li><em>Getting to Yes</em> to begin building negotiation skills</li>
       </ol>
@@ -516,7 +516,7 @@ export default function BestBooksBuyingBusinessArticle() {
       <h2 className={h2Class}>Final Thoughts</h2>
 
       <p className={bodyClass}>
-        Reading is crucial, but it's only one part of preparing for acquisition entrepreneurship. The best searchers combine book learning with mentorship from experienced operators, hands-on experience (even if just shadowing deals), and active participation in the search fund community.
+        Reading is critical, but it's only one part of preparing for acquisition entrepreneurship. The best searchers combine book learning with mentorship from experienced operators, hands-on experience (even if just shadowing deals), and active participation in the search fund community.
       </p>
 
       <p className={bodyClass}>
