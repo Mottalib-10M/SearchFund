@@ -22,7 +22,7 @@ export default function MBAProgramsETAArticle() {
 
         <p className={bodyClass}>
           The connection between top MBA programs and search funds is not coincidental. The search fund model was pioneered at Stanford GSB in 1984, and business schools have remained the primary pipeline for searchers ever since. According to the{" "}
-          <a href="https://www.gsb.stanford.edu/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</a>, over 70% of traditional search fund entrepreneurs hold an MBA from a top-20 program. Several factors make MBA programs particularly valuable for aspiring searchers:
+          <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</a>, over 70% of traditional search fund entrepreneurs hold an MBA from a top-20 program. Several factors make MBA programs particularly valuable for aspiring searchers:
         </p>
 
         <p className={bodyClass}>
@@ -196,7 +196,7 @@ export default function MBAProgramsETAArticle() {
 
         <p className={bodyClass}>
           IESE Business School in Barcelona has built a strong ETA ecosystem focused primarily on Southern Europe and Latin America. The{" "}
-          <a href="https://www.iese.edu/faculty-research/entrepreneurship/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE International Search Fund Study</a>{" "}
+          <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE International Search Fund Study</a>{" "}
           has tracked over 600 search fund transactions globally, establishing IESE as the leading academic institution for international search fund research.
         </p>
 
@@ -392,7 +392,7 @@ export default function MBAProgramsETAArticle() {
         <ul className={ulClass}>
           <li>
             <a
-              href="https://www.gsb.stanford.edu/ces/research/search-funds"
+              href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -412,7 +412,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.chicagobooth.edu/research/polsky/news-insights/search-funds"
+              href="https://polsky.uchicago.edu/tag/search-funds/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -432,7 +432,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.iese.edu/faculty-research/entrepreneurship/"
+              href="https://www.iese.edu/entrepreneurship/search-funds/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

@@ -761,7 +761,7 @@ export default function AccountantReferralDealFlowArticle() {
         </li>
         <li>
           <a
-            href="https://www.iese.edu/research/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"

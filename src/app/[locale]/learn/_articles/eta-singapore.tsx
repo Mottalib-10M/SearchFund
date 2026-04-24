@@ -428,7 +428,7 @@ export default function ETASingaporeArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/enterprise-financing-scheme/overview" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               Enterprise Singapore &mdash; Enterprise Financing Scheme for Mergers and Acquisitions
             </a>
           </li>

@@ -61,7 +61,7 @@ export default function ETAReadingListArticle() {
           Acquisition&rdquo; course and real student deal outcomes. If you read
           only one book before launching a search, this is the one. Published by{" "}
           <a
-            href="https://store.hbr.org/product/hbr-guide-to-buying-a-small-business/1915"
+            href="https://store.hbr.org/product/hbr-guide-to-buying-a-small-business/10090"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -414,7 +414,7 @@ export default function ETAReadingListArticle() {
           <strong>Think Like an Owner</strong> &mdash; Hosted by Alex Rumble,
           this{" "}
           <a
-            href="https://tlaopodcast.com/podcast"
+            href="https://tlaopodcast.com/podcasts/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

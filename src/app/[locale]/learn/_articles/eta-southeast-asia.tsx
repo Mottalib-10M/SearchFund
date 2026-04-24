@@ -467,7 +467,7 @@ export default function ETASoutheastAsiaArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.adb.org/publications/asia-small-medium-sized-enterprise-monitor" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.adb.org/publications/series/asia-small-medium-sized-enterprise-monitor" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               Asian Development Bank &mdash; Asia SME Monitor and Country Reports
             </a>
           </li>

@@ -7,7 +7,7 @@ export default function NegotiatingBankDebtArticle() {
       <h1 className={h1Class}>How to Negotiate Debt Terms for Your Acquisition</h1>
       <div className={bodyClass}>
         <p>Bank debt is typically the largest component of your <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">capital stack</Link>, often representing 50&ndash;65% of the total acquisition price. According to the{" "}
-          <a href="https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Pepperdine Private Capital Markets Report (2024)</a>, senior debt terms in the lower middle market have tightened since 2022, with median spreads widening by 50&ndash;75 basis points. The terms you negotiate &mdash; interest rate, amortization, covenants, prepayment, and collateral &mdash; directly impact your cash flow, operational flexibility, and personal risk for years after closing.</p>
+          <a href="https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Pepperdine Private Capital Markets Report (2024)</a>, senior debt terms in the lower middle market have tightened since 2022, with median spreads widening by 50&ndash;75 basis points. The terms you negotiate &mdash; interest rate, amortization, covenants, prepayment, and collateral &mdash; directly impact your cash flow, operational flexibility, and personal risk for years after closing.</p>
       </div>
 
       <h2 className={h2Class}>Key Terms to Negotiate</h2>

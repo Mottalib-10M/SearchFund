@@ -845,7 +845,7 @@ export default function SearchFundCaseStudiesArticle() {
         </li>
         <li>
           <a
-            href="https://acquiringminds.com"
+            href="https://acquiringminds.co"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"

@@ -483,7 +483,7 @@ export default function SearchFundConferencesArticle() {
         <li>
           Stanford Graduate School of Business, Center for Entrepreneurial Studies —{" "}
           <a
-            href="https://www.gsb.stanford.edu/ces/search-funds"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -494,7 +494,7 @@ export default function SearchFundConferencesArticle() {
         <li>
           IESE Business School —{" "}
           <a
-            href="https://www.iese.edu/faculty-research/centers/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -560,7 +560,7 @@ export default function SearchFundConferencesArticle() {
         <li>
           Chicago Booth —{" "}
           <a
-            href="https://www.chicagobooth.edu/research/polsky"
+            href="https://polsky.uchicago.edu/tag/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

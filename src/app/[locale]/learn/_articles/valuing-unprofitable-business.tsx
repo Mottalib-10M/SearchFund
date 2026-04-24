@@ -19,9 +19,9 @@ export const valuingUnprofitableBusinessMeta = {
   featured: false,
   sources: [
     {
-      title: "Valuation of Distressed Companies",
-      author: "Harvard Business Review",
-      url: "https://hbr.org/2009/01/valuing-distressed-companies",
+      title: "Valuing Declining and Distressed Companies",
+      author: "Aswath Damodaran, NYU Stern",
+      url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1428022",
     },
     {
       title: "Asset-Based Valuation Approaches",
@@ -1176,14 +1176,14 @@ export default function ValuingUnprofitableBusinessArticle() {
       <ul className={ulClass}>
         <li>
           <a
-            href="https://hbr.org/2009/01/valuing-distressed-companies"
+            href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1428022"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Valuation of Distressed Companies
+            Valuing Declining and Distressed Companies
           </a>{" "}
-          — Harvard Business Review
+          — Aswath Damodaran, NYU Stern
         </li>
         <li>
           <a

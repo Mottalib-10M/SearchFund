@@ -612,12 +612,12 @@ export default function AIDealSourcingArticle() {
         </li>
         <li>
           <a
-            href="https://hbr.org/2024/03/how-ai-will-transform-private-equity"
+            href="https://hbr.org/2025/06/how-private-equity-firms-are-creating-value-with-ai"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Harvard Business Review - How AI Will Transform Private Equity
+            Harvard Business Review - How Private Equity Firms Are Creating Value with AI
           </a>
         </li>
       </ul>

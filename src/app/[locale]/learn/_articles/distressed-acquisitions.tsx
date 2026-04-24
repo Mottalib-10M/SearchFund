@@ -15,7 +15,7 @@ export const distressedAcquisitionsMeta = {
       title: "Distressed M&A: Opportunities in Crisis",
       author: "Harvard Business Review",
       year: 2023,
-      url: "https://hbr.org/topics/mergers-and-acquisitions"
+      url: "https://hbr.org/topic/subject/mergers-and-acquisitions"
     },
     {
       title: "Turnaround Management: Best Practices",
@@ -634,7 +634,7 @@ export default function DistressedAcquisitionsArticle() {
       <ul className={ulClass}>
         <li>
           <a
-            href="https://hbr.org/topics/mergers-and-acquisitions"
+            href="https://hbr.org/topic/subject/mergers-and-acquisitions"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

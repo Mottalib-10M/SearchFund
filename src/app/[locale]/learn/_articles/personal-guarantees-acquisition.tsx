@@ -23,7 +23,7 @@ export default function PersonalGuaranteesAcquisitionArticle() {
         </ul>
         <p>
           For search fund acquisitions under $15M, expect to provide a personal guarantee on virtually all bank debt. According to{" "}
-          <a href="https://www.sba.gov/document/sop-50-10-sba-lender-lending-guidelines" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA Standard Operating Procedure 50 10</a>, personal guarantees are mandatory for all SBA 7(a) borrowers with 20%+ ownership. The question is not whether you&apos;ll guarantee &mdash; it&apos;s on what terms.
+          <a href="https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA Standard Operating Procedure 50 10</a>, personal guarantees are mandatory for all SBA 7(a) borrowers with 20%+ ownership. The question is not whether you&apos;ll guarantee &mdash; it&apos;s on what terms.
         </p>
       </div>
 

@@ -149,9 +149,7 @@ export default function HotelHospitalityAcquisitionArticle() {
             <strong>Environmental Phase I (and possibly Phase II):</strong> Hotels are high-risk for environmental issues due to laundry chemicals, pool systems, underground storage tanks, and historical land use. Phase I assessments typically cost $3,000&ndash;$6,000; if issues are flagged, Phase II sampling can add $15,000&ndash;$50,000.
           </li>
           <li>
-            <strong>FF&amp;E reserve analysis:</strong> The industry standard FF&amp;E reserve is 4&ndash;5% of gross revenue, but many operators underfund this line. Examine actual capital spending over the past five years against the reserve balance. According to the{" "}
-            <a href="https://www.mnmaao.org/assets/CIAValuations/What%20the%20FF&E_A%20Guide%20to%20Hotel%20Valuation.pdf" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">MNMAAO hotel valuation guide</a>
-            , properties that spend below 3% of revenue on FF&amp;E are accumulating deferred capital obligations that will eventually come due.
+            <strong>FF&amp;E reserve analysis:</strong> The industry standard FF&amp;E reserve is 4&ndash;5% of gross revenue, but many operators underfund this line. Examine actual capital spending over the past five years against the reserve balance. Industry research shows that properties spending below 3% of revenue on FF&amp;E are accumulating deferred capital obligations that will eventually come due.
           </li>
           <li>
             <strong>Revenue-source breakdown:</strong> Examine the mix of corporate, leisure, group/events, and government/contract business. Heavy reliance on a single corporate account or government contract is a{" "}

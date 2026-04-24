@@ -155,7 +155,7 @@ export default function SearchFundNewslettersArticle() {
 
       <p className={bodyClass}>
         The fastest-growing region for search funds is Europe, with vibrant ecosystems emerging in the UK, France,
-        Germany, Spain, and the Nordics. <a href="https://etaeurope.com" className="text-apple-accent hover:underline">ETA Europe</a> serves
+        Germany, Spain, and the Nordics. <a href="https://legacy-partners-newsletter.beehiiv.com/" className="text-apple-accent hover:underline">ETA Europe</a> serves
         as a hub for European searchers, publishing country-specific guides on legal structures, tax optimization,
         funding sources, and cultural considerations.
       </p>

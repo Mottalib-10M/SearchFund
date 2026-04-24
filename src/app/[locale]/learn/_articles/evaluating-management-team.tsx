@@ -11,7 +11,7 @@ export const metadata = {
   sources: [
     {
       title: "Harvard Business Review: The New M&A Playbook",
-      url: "https://hbr.org/2011/03/the-new-ma-playbook",
+      url: "https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook",
       author: "Clayton M. Christensen et al."
     },
     {
@@ -619,7 +619,7 @@ export default function EvaluatingManagementTeamArticle() {
         <ul className="space-y-2">
           <li className={bodyClass}>
             <a
-              href="https://hbr.org/2011/03/the-new-ma-playbook"
+              href="https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

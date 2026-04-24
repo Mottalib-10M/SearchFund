@@ -23,7 +23,7 @@ export default function MezzanineFinancingArticle() {
           Mezzanine debt is a hybrid financing instrument that combines characteristics of both debt and equity. It&apos;s subordinated debt &mdash; ranking below senior bank debt in the repayment hierarchy but above equity holders.
         </p>
         <p>According to the{" "}
-          <a href="https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Pepperdine Private Capital Markets Report (2024)</a>, mezzanine debt accounts for approximately 10&ndash;15% of the capital structure in middle-market acquisitions, with total deployment exceeding $30 billion annually in the US alone.
+          <a href="https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Pepperdine Private Capital Markets Report (2024)</a>, mezzanine debt accounts for approximately 10&ndash;15% of the capital structure in middle-market acquisitions, with total deployment exceeding $30 billion annually in the US alone.
         </p>
         <p>In a typical acquisition capital stack:</p>
         <ol className={olClass}>
@@ -109,7 +109,7 @@ export default function MezzanineFinancingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>SBICs:</strong> SBA-licensed funds investing in small businesses &mdash; can invest as little as $500K. According to the{" "}
-            <a href="https://www.sba.gov/funding-programs/investment-capital/sbic" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA SBIC program data (2024)</a>, over 300 active SBICs manage $30+ billion in combined capital</li>
+            <a href="https://www.sba.gov/partners/sbics" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA SBIC program data (2024)</a>, over 300 active SBICs manage $30+ billion in combined capital</li>
           <li><strong>BDCs:</strong> Business Development Companies (Gladstone Capital, Saratoga Investment, Prospect Capital)</li>
           <li><strong>Family offices:</strong> Flexible mandates, may provide mezz-like structures at smaller sizes</li>
           <li><strong>Search fund investors:</strong> Some provide structured subordinated notes alongside equity</li>

@@ -638,7 +638,7 @@ export default function CommercialDueDiligenceArticle() {
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2024"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -648,7 +648,7 @@ export default function CommercialDueDiligenceArticle() {
         </li>
         <li>
           <a
-            href="https://hbr.org/2011/01/the-five-competitive-forces-that-shape-strategy"
+            href="https://hbr.org/2008/01/the-five-competitive-forces-that-shape-strategy"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -658,7 +658,7 @@ export default function CommercialDueDiligenceArticle() {
         </li>
         <li>
           <a
-            href="https://www.svb.com/startup-insights/vc-relations/saas-metrics-and-benchmarks"
+            href="https://www.svb.com/trends-insights/reports/state-of-saas-report/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

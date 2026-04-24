@@ -78,15 +78,7 @@ export default function RecurringRevenueBusinessesArticle() {
         </h2>
         <p>
           The data is unambiguous: higher recurring revenue percentages produce higher
-          EBITDA multiples. According to{" "}
-          <a
-            href="https://goquantive.com/blog/recurring-revenue-the-key-to-higher-valuation-multiples/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-apple-accent hover:underline"
-          >
-            Quantive&rsquo;s 2024 valuation research
-          </a>, businesses crossing the 60&ndash;70% recurring revenue threshold start
+          EBITDA multiples. According to industry research, businesses crossing the 60&ndash;70% recurring revenue threshold start
           seeing meaningful multiple premiums over project-based peers.
         </p>
         <p>

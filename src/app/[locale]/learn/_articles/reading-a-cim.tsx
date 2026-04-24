@@ -25,11 +25,6 @@ export const readingACIMMetadata = {
       title: "The Art of CIM Analysis in Business Acquisitions",
       url: "https://www.axial.net/forum/",
       type: "Industry Publication"
-    },
-    {
-      title: "Quality of Earnings: Best Practices",
-      url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/quality-of-earnings.html",
-      type: "Professional Services"
     }
   ]
 };
@@ -651,16 +646,6 @@ export default function ReadingACIMArticle() {
             >
               The Art of CIM Analysis in Business Acquisitions
             </a> - Industry Publication
-          </li>
-          <li>
-            <a
-              href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/quality-of-earnings.html"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-apple-accent hover:underline"
-            >
-              Quality of Earnings: Best Practices
-            </a> - Professional Services
           </li>
         </ul>
 

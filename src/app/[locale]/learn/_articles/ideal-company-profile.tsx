@@ -586,7 +586,7 @@ export default function IdealCompanyProfileArticle() {
         </li>
         <li>
           <a
-            href="https://www.pacificsearchpartners.com/search-fund-resources"
+            href="https://www.pacificlake.com/insights"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"

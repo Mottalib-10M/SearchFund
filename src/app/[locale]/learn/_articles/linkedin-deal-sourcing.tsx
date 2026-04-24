@@ -734,14 +734,14 @@ export default function LinkedInDealSourcingArticle() {
             </Link>
           </li>
           <li>
-            HubSpot Research, &quot;LinkedIn InMail Response Rate Benchmarks,&quot;{" "}
+            LinkedIn Talent Blog, &quot;How InMail Response Rates Compare Across Industries and Talent Pools,&quot;{" "}
             <a
-              href="https://www.hubspot.com/linkedin-inmail-benchmarks"
+              href="https://www.linkedin.com/business/talent/blog/talent-engagement/how-inmail-response-rates-compare-across-industries-and-functions"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
             >
-              https://www.hubspot.com/linkedin-inmail-benchmarks
+              linkedin.com/business/talent/blog
             </a>
           </li>
           <li>

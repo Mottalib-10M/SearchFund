@@ -432,7 +432,7 @@ export default function ComparableTransactionsArticle() {
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2024"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

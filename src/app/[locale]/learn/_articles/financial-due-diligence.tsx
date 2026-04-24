@@ -290,7 +290,7 @@ export default function FinancialDueDiligenceArticle() {
           A Quality of Earnings (QoE) report is a third-party financial analysis performed by an
           independent CPA firm that validates (or adjusts) the seller&rsquo;s reported earnings.
           According to a{" "}
-          <a href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Deloitte M&amp;A Trends Survey</a>,
+          <a href="https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Deloitte M&amp;A Trends Survey</a>,
           43% of corporate executives and 39% of private equity investors consider financial
           due diligence &mdash; anchored by the QoE &mdash; the single most important factor in
           achieving a successful acquisition outcome.

@@ -472,7 +472,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www2.deloitte.com/us/en/pages/operations/articles/supply-chain-strategy-operations.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.deloitte.com/us/en/services/consulting/services/supply-chain-strategy-operations-services.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               Deloitte &mdash; Supply Chain Strategy and Post-Merger Integration
             </a>
           </li>

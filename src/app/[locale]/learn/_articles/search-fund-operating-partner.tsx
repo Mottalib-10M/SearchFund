@@ -626,7 +626,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Partner vs. Solo Search Data)
             </a>
           </li>
@@ -636,7 +636,7 @@ export default function SearchFundOperatingPartnerArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.iese.edu/faculty-research/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               IESE Business School &mdash; International Search Fund Study (Partnership Outcomes)
             </a>
           </li>

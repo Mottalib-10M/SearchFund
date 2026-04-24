@@ -90,7 +90,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           27% in most provinces. A proposed increase to a two-thirds (66.7%)
           inclusion rate for gains above $250,000 was deferred to 2026,
           according to{" "}
-          <a href="https://kpmg.com/us/en/taxnewsflash/news/2025/02/tnf-canada-tax-increase-capital-gains-deferred-2026.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+          <a href="https://kpmg.com/ca/en/insights/2025/01/tax-increase-to-capital-gains-deferred-to-2026.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             KPMG
           </a>.
         </p>

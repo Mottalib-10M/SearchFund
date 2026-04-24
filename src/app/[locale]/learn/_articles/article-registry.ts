@@ -292,7 +292,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", year: 2023 },
     ],
     faqs: [
@@ -316,7 +316,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "INSEAD", title: "ETA & Search Funds Hub — Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
     faqs: [
@@ -402,7 +402,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
-      { name: "Brookings Institution", title: "Small Business Acquisition Failure Rates", url: "https://www.brookings.edu/articles/small-business-acquisition-failure/", year: 2023 },
+      { name: "Brookings Institution", title: "The Changing Demographics of Business Ownership", url: "https://www.brookings.edu/articles/the-changing-demographics-of-business-ownership/", year: 2023 },
     ],
     faqs: [
       { question: "What percentage of search funds fail?", answer: "About 33% of traditional search funds never complete an acquisition (returning unused capital to investors). Of those that do acquire, roughly one-third lose some or all invested capital. However, the overall asset class still generates strong returns because the winners more than offset the losers." },
@@ -716,7 +716,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "GF Data", title: "M&A Report — Middle-Market Multiples", url: "https://www.gfdata.com/", year: 2024 },
       { name: "Capstone Partners", title: "Middle Market M&A Valuations Index", url: "https://www.capstonepartners.com/insights/capstone-partners-middle-market-ma-valuations-index/", year: 2025 },
-      { name: "SBA", title: "SOP 50 10 8 — 7(a) Loan Program", url: "https://www.sba.gov/document/sop-50-10-8-lending-standard-operating-procedure", year: 2025 },
+      { name: "SBA", title: "SOP 50 10 8 — 7(a) Loan Program", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
       { name: "Calder Group", title: "Q2 2025 Middle Market M&A Update", url: "https://caldergroup.com/market-update/", year: 2025 },
     ],
     faqs: [
@@ -957,7 +957,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
       { name: "BEI", title: "Business Exit Research", year: 2024 },
-      { name: "PwC", title: "Global Family Business Survey: Succession Planning", url: "https://www.pwc.com/gx/en/family-business-survey.html", year: 2023 },
+      { name: "PwC", title: "Global Family Business Survey: Succession Planning", url: "https://www.pwc.com/gx/en/issues/business-model-reinvention/family-business-survey.html", year: 2023 },
     ],
     faqs: [
       { question: "When should I start planning to sell my business?", answer: "Start 3–5 years before your target exit date. The first 2 years focus on building transferable value (management team, documented processes, diversified customers). Years 2–3 optimize operations and financials. The final 1–2 years prepare the business for market and execute the sale." },
@@ -980,7 +980,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IBBA", title: "Business Reference Guide", year: 2024 },
       { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
-      { name: "Deloitte", title: "M&A Trends: Selling a Privately Held Business", url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html", year: 2024 },
+      { name: "Deloitte", title: "M&A Trends: Selling a Privately Held Business", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
     ],
     faqs: [
       { question: "How long does it take to prepare a business for sale?", answer: "Plan for 18–24 months of preparation before going to market. The first 6 months focus on building a management team and reducing owner dependence. Months 6–12 focus on cleaning financials and documenting processes. Months 12–18 package the business for market. The sale process itself takes 6–9 months." },
@@ -1025,11 +1025,10 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "Gallup", title: "Most Small-Business Owners Lack a Succession Plan", url: "https://news.gallup.com/poll/643498/small-business-owners-lack-succession-plan.aspx", year: 2024 },
+      { name: "Gallup", title: "Most Small-Business Owners Lack a Succession Plan", url: "https://news.gallup.com/poll/657362/small-business-owners-lack-succession-plan.aspx", year: 2024 },
       { name: "McKinsey", title: "The Great Ownership Transfer", url: "https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/the-great-ownership-transfer", year: 2025 },
-      { name: "Searcher Insights", title: "Search Fund Capital Structures 2025", url: "https://www.searcherinsights.com/capital-structures", year: 2025 },
+      { name: "Searcher Insights", title: "Search Fund Capital Structures 2025", url: "https://searcherinsights.com/the-fundamentals-of-search-fund-capital-structures-2025/", year: 2025 },
       { name: "Axial Network", title: "EBITDA Multiples by Industry", url: "https://www.axial.net/forum/ebitda-multiples-by-industry/", year: 2025 },
-      { name: "Acquisition Stars", title: "Search Fund LOI Conversion Rates", url: "https://www.acquisitionstars.com/search-fund-loi-conversion/", year: 2026 },
     ],
     faqs: [
       { question: "How long does a search fund acquisition take from first meeting to closing?", answer: "The typical timeline is three to six months. Initial conversations and NDA take 1\u20133 weeks, the LOI is signed within 4\u20138 weeks, due diligence lasts 6\u201312 weeks, and purchase agreement negotiation adds 4\u20136 weeks. Expect 90\u2013180 days total." },
@@ -1150,8 +1149,8 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
       { name: "Search Fund Accelerator (SFA)", title: "About SFA — Track Record and Program Structure", url: "https://www.searchfundaccelerator.com/", year: 2025 },
       { name: "Broadtree Partners", title: "Broadtree Partners — Search Fund Accelerator", url: "https://www.broadtreepartners.com/", year: 2025 },
-      { name: "The Brydon Group", title: "CEO-in-Residence Program", url: "https://www.thebrydongroup.com/", year: 2025 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "The Brydon Group", title: "CEO-in-Residence Program", url: "https://www.brydon.com/ceo-in-residence-program", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "What is a search fund accelerator?", answer: "A search fund accelerator is a structured program that provides mentorship, investor introductions, deal flow support, and operational resources to aspiring ETA entrepreneurs. Programs typically last 8–16 weeks and include a peer cohort of 5–15 searchers. Some accelerators invest directly in their cohort members." },
@@ -1296,7 +1295,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Pacific Lake Partners", title: "Search Fund Partnership Best Practices", url: "https://www.pacificlake.com/resources", year: 2023 },
+      { name: "Pacific Lake Partners", title: "Search Fund Partnership Best Practices", url: "https://www.pacificlake.com/", year: 2023 },
     ],
     faqs: [
       { question: "Should I do a solo or partnered search fund?", answer: "Solo searches give you full equity (up to 25–30% post-acquisition) and complete decision-making control, but the search is lonely and you bear all the burden. Partnered searches split equity 50/50 (12.5–15% each), reduce burnout risk, and bring complementary skills. Choose solo if you have strong deal-sourcing skills and prefer autonomy. Choose partnered if you complement each other's skills (e.g., one sourcer + one operator) and communicate well under pressure." },
@@ -1370,8 +1369,8 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Search Fund Partners", title: "Searcher Background Analysis", year: 2024 },
-      { name: "Harvard Business Review", title: "The Search Fund Model of Entrepreneurship", url: "https://hbr.org/2021/03/the-search-fund-model-of-entrepreneurship", year: 2021 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "Harvard Business Review", title: "Buying Your Way into Entrepreneurship", url: "https://hbr.org/2017/01/buying-your-way-into-entrepreneurship", year: 2017 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "When should I leave my corporate job for ETA?", answer: "The optimal timing is typically 5–10 years into your career, when you have: (1) enough savings for 18–24 months of personal runway, (2) transferable management and analytical skills, (3) a professional network that can help with fundraising and deal sourcing, and (4) enough career capital that you can return to corporate if the search doesn't work out. Avoid leaving too early (insufficient skills/savings) or too late (golden handcuffs, reduced risk tolerance)." },
@@ -1396,7 +1395,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Angela Duckworth", title: "Grit: The Power of Passion and Perseverance", url: "https://www.angeladuckworth.com/grit-book/", year: 2016 },
-      { name: "SearchFunder", title: "Searcher Profiles and Background Data", url: "https://searchfunder.com/forum", year: 2024 },
+      { name: "SearchFunder", title: "Searcher Profiles and Background Data", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What background do successful search fund entrepreneurs have?", answer: "The most common backgrounds are: management consulting (McKinsey, Bain, BCG — ~25%), investment banking/private equity (~20%), corporate operations/general management (~20%), and industry-specific roles (~15%). However, background alone doesn't predict success — the Stanford data shows that grit, interpersonal skills, and comfort with ambiguity are stronger predictors than pedigree." },
@@ -1419,8 +1418,8 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "Search Funds: 2018 Selected Findings", url: "https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2018", year: 2018 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "Stanford GSB", title: "Search Funds: 2018 Selected Findings", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2018 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "What percentage of search funds fail to acquire?", answer: "Approximately 33% of traditional search funds do not complete an acquisition. Common reasons include: inability to find a suitable target within the search period (most common), inability to agree on price/terms with sellers, failed due diligence on deals that seemed promising, and personal reasons (burnout, family circumstances). The failure rate has improved slightly over time as the ecosystem has matured." },
@@ -1493,7 +1492,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Yale SOM", title: "A Note on Raising Search Fund Capital", year: 2019 },
-      { name: "Harvard Business School", title: "Search Fund Primer: A Guide for the Aspiring Entrepreneur", url: "https://www.hbs.edu/entrepreneurship/Pages/search-funds.aspx", year: 2023 },
+      { name: "Harvard Business School", title: "Search Funds and ETA — Baker Library", url: "https://www.library.hbs.edu/services/help-center/search-funds", year: 2023 },
     ],
     faqs: [
       { question: "How many slides should a search fund fundraising deck have?", answer: "A typical search fund fundraising deck has 15–20 slides covering: your background, the search fund model, deal criteria, target sectors, financing structure, economics, timeline, and investor terms. Keep the narrative tight — investors see dozens of these decks." },
@@ -1539,7 +1538,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business School", title: "Pacific Lake Partners Case Study", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=56408", year: 2024 },
     ],
     faqs: [
@@ -1561,9 +1560,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Goldman Sachs", title: "2024 Family Office Investment Insights", url: "https://www.goldmansachs.com/insights/pages/family-office-investment-insights-2024.html", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
-      { name: "Searcher Insights", title: "2025 Search Fund Market Landscape Report", url: "https://www.searcherinsights.com/market-landscape-2025", year: 2025 },
+      { name: "Goldman Sachs", title: "2024 Family Office Investment Insights", url: "https://www.goldmansachs.com/insights/articles/gs-family-office-investment-insights-report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+      { name: "Searcher Insights", title: "2025 Search Fund Market Landscape Report", url: "https://searcherinsights.com/search-fund-investors-the-definitive-market-landscape-report-2025/", year: 2025 },
     ],
     faqs: [
       { question: "Why do family offices invest in search funds?", answer: "Family offices are attracted to: direct ownership alignment (no layered PE fees), attractive returns (33% aggregate IRR), long-horizon capital compatibility (no 10-year fund lifecycle pressure), mentorship opportunity (many principals are former operators), manageable check sizes ($25K–$50K search + $250K–$2M acquisition), and co-investment optionality." },
@@ -1585,7 +1584,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-fund-primer", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer", year: 2024 },
       { name: "Carta", title: "Cap Table Management Best Practices for Private Companies", year: 2024 },
     ],
     faqs: [
@@ -1608,7 +1607,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
-      { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "IRS", title: "Section 1202 — Qualified Small Business Stock", url: "https://www.irs.gov/pub/irs-pdf/p550.pdf", year: 2024 },
     ],
     faqs: [
@@ -1631,9 +1630,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-fund-primer", year: 2024 },
-      { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer", year: 2024 },
+      { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "What is the step-up in a search fund term sheet?", answer: "The step-up is the premium at which search capital converts into acquisition equity. The standard is 1.5x, meaning $100K of search capital converts to $150K of equity. It compensates early investors for the risk of funding the search phase — about 25% of searches never result in an acquisition." },
@@ -1764,7 +1763,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Bain & Company", title: "M&A Due Diligence Best Practices", url: "https://www.bain.com/insights/topics/mergers-and-acquisitions/", year: 2024 },
-      { name: "Deloitte", title: "M&A Trends Report", url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html", year: 2024 },
+      { name: "Deloitte", title: "M&A Trends Report", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
       { name: "McKinsey & Company", title: "Cultural Integration in M&A", url: "https://www.mckinsey.com/capabilities/m-and-a/our-insights", year: 2024 },
     ],
     faqs: [
@@ -1791,7 +1790,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "AICPA", title: "Due Diligence Standards and Best Practices", url: "https://www.aicpa.org/", year: 2024 },
       { name: "Pepperdine University", title: "2025 Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/18/", year: 2025 },
       { name: "SBA", title: "Market Research & Competitive Analysis Guidelines", url: "https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis", year: 2024 },
-      { name: "Deloitte", title: "M&A Trends Report", url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-a-trends-report.html", year: 2024 },
+      { name: "Deloitte", title: "M&A Trends Report", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
       { name: "Duedilio", title: "Understanding Financial Due Diligence in Small Business Acquisitions", url: "https://www.duedilio.com/understanding-financial-due-diligence-in-small-business-acquisitions/", year: 2024 },
     ],
     faqs: [
@@ -1943,11 +1942,11 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "SE Advisory", title: "How Owner Dependency Affects Business Valuation", url: "https://seadvisory.com/how-owner-dependency-affects-business-valuation/", year: 2025 },
       { name: "Bennett Financials", title: "Key Person Discount in Business Valuation", url: "https://bennettfinancials.com/key-person-discount-in-business-valuation/", year: 2025 },
-      { name: "William Buck", title: "Key Person Risk and Business Valuation", url: "https://www.williambuck.com/key-person-risk-and-business-valuation/", year: 2024 },
-      { name: "Fiveable", title: "Key Person Discount — Business Valuation", url: "https://library.fiveable.me/key-concepts/business-valuation/key-person-discount", year: 2024 },
-      { name: "Website Closers", title: "Owner Dependency and Business Value", url: "https://www.websiteclosers.com/owner-dependency-and-business-value/", year: 2024 },
+      { name: "William Buck", title: "Key Person Risk and Business Valuation", url: "https://williambuck.com/news/ex/general/assessing-the-impact-of-key-person-risk-on-business-valuation/", year: 2024 },
+      { name: "Fiveable", title: "Key Person Discount — Business Valuation", url: "https://fiveable.me/business-valuation/unit-7/key-person-discount/study-guide/AqP8THbPujJl0nIc", year: 2024 },
+      { name: "Website Closers", title: "Effects of Owner Dependence on a Business Valuation", url: "https://www.websiteclosers.com/resources/effects-of-owner-dependence-on-a-business-valuation/", year: 2024 },
       { name: "ClearlyAcquired", title: "Key Employee Retention Post-Acquisition", url: "https://www.clearlyacquired.com/post/key-employee-retention-post-acquisition", year: 2024 },
-      { name: "CAFA Finance", title: "Owner Dependency in Business Sales", url: "https://cafafinance.com/owner-dependency-in-business-sales/", year: 2024 },
+      { name: "PCE Companies", title: "How to Reduce Owner Dependency & Increase Business Value", url: "https://www.pcecompanies.com/resources/how-to-reduce-owner-dependency-and-build-long-term-business-value", year: 2024 },
       { name: "Axial / Harvard Law School Forum", title: "Earnouts in M&A Transactions", url: "https://corpgov.law.harvard.edu/2024/03/15/earnouts-in-ma-transactions/", year: 2024 },
       { name: "Morgan & Westfield", title: "Earn-Out Structures in SME Deals", url: "https://morganandwestfield.com/knowledge/earnouts/", year: 2024 },
       { name: "Via Beacon", title: "Post-Acquisition Transition Planning", url: "https://viabeacon.com/post-acquisition-transition/", year: 2024 },
@@ -3144,8 +3143,8 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Allied Capital", title: "Mezzanine Financing Guide", year: 2023 },
-      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/", year: 2024 },
-      { name: "SBA", title: "SBIC Program Overview and Performance Data", url: "https://www.sba.gov/funding-programs/investment-capital/sbic", year: 2024 },
+      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
+      { name: "SBA", title: "SBIC Program Overview and Performance Data", url: "https://www.sba.gov/partners/sbics", year: 2024 },
     ],
     faqs: [
       { question: "What is mezzanine financing in an acquisition?", answer: "Mezzanine debt sits between senior bank debt and equity in the capital stack. It carries higher interest rates (12-20% including PIK) and often includes equity warrants (1-5% of the company). Mezz lenders accept subordination to senior lenders in exchange for higher returns. For search fund acquisitions, mezz is most useful when: (1) the deal is too large for senior debt alone; (2) you want to minimize equity dilution; (3) the business has strong cash flow but insufficient collateral for more senior debt. Minimum deal sizes for institutional mezz are typically $5M+." },
@@ -3262,7 +3261,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://bschool.pepperdine.edu/institutes-centers/centers/private-capital-markets-project/", year: 2024 },
+      { name: "Pepperdine University", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
       { name: "ABA Banking Journal", title: "Best Practices in Acquisition Lending", url: "https://www.aba.com/", year: 2023 },
       { name: "SBA", title: "Standard Operating Procedure 50 10 — Loan Terms and Conditions", year: 2024 },
     ],
@@ -3531,7 +3530,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Yale SOM", title: "Search Fund Legal Documents Series", url: "https://som.yale.edu/", year: 2024 },
-      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-fund-primer", year: 2024 },
+      { name: "Stanford GSB", title: "Search Fund Primer", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer", year: 2024 },
       { name: "Harvard Business School", title: "Note on Search Fund Governance", year: 2023 },
     ],
     faqs: [
@@ -3583,16 +3582,16 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Bankrate", title: "Current HELOC Rates", url: "https://www.bankrate.com/home-equity/heloc-rates/", year: 2026 },
-      { name: "Intercontinental Exchange", title: "ICE Mortgage Monitor: Home Equity Statistics", url: "https://www.icemortgagetechnology.com/mortgage-monitor", year: 2025 },
-      { name: "SBA", title: "Standard Operating Procedure 50 10 8", url: "https://www.sba.gov/document/sop-50-10-8-lending-policies", year: 2025 },
-      { name: "Sperita Capital", title: "6 Equity Sources that Meet the SBA's Equity Injection Requirements", url: "https://www.speritacapital.com/blog/sba-equity-injection-sources", year: 2025 },
-      { name: "Starfield & Smith", title: "Best Practices: Equity Injection Requirements Under SOP 50 10 8", url: "https://www.starfieldsmith.com/sba-equity-injection", year: 2025 },
+      { name: "Intercontinental Exchange", title: "ICE Mortgage Monitor: Home Equity Statistics", url: "https://mortgagetech.ice.com/resources/data-reports/august-2024-mortgage-monitor", year: 2025 },
+      { name: "SBA", title: "Standard Operating Procedure 50 10 8", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
+      { name: "Speritas Capital", title: "6 Equity Sources that Meet the SBA's Equity Injection Requirements", url: "https://www.speritascapital.com/articles/6-types-of-equity-injection-for-sba-loan-aquisition", year: 2025 },
+      { name: "Starfield & Smith", title: "Best Practices: Equity Injection Requirements Under SOP 50 10 8", url: "https://starfieldsmith.com/2025/05/best-practices-a-review-of-equity-injection-requirements-under-sop-50-10-8/", year: 2025 },
       { name: "Windsor Advantage", title: "Updated SBA Equity Injection Rules: SOP 50 10 8", url: "https://www.windsoradvantage.com/sba-equity-injection-rules", year: 2025 },
       { name: "IRS", title: "Publication 535: Business Expenses — Interest", url: "https://www.irs.gov/publications/p535", year: 2025 },
-      { name: "The Real Estate CPA", title: "Interest Tracing Explained", url: "https://www.therealestatecpa.com/blog/interest-tracing", year: 2025 },
-      { name: "CoreLogic", title: "U.S. Home Equity Report", url: "https://www.corelogic.com/intelligence/homeowner-equity-insights/", year: 2025 },
-      { name: "CBS News", title: "HELOCs vs. Cash-Out Refinancing: Which One Will Be Better in 2026?", url: "https://www.cbsnews.com/news/helocs-vs-cash-out-refinancing-2026/", year: 2026 },
-      { name: "The Mortgage Reports", title: "Maximum HELOC Amount and Limits", url: "https://themortgagereports.com/heloc-limits", year: 2026 },
+      { name: "The Real Estate CPA", title: "Interest Tracing Explained", url: "https://www.therealestatecpa.com/blog/who-said-you-cant-deduct-heloc-interest-interest-tracing-explained/", year: 2025 },
+      { name: "CoreLogic (Cotality)", title: "U.S. Home Equity Report", url: "https://www.cotality.com/press-releases/home-equity-gains-climb-slower-q2", year: 2025 },
+      { name: "CBS News", title: "HELOCs vs. Cash-Out Refinancing: Which One Will Be Better in 2026?", url: "https://www.cbsnews.com/news/helocs-vs-cash-out-refinancing-which-one-will-be-better-in-2026-what-experts-say/", year: 2026 },
+      { name: "The Mortgage Reports", title: "Maximum HELOC Amount and Limits", url: "https://themortgagereports.com/96211/maximum-heloc-amount", year: 2026 },
     ],
     faqs: [
       { question: "Can I use a HELOC to fund a business acquisition?", answer: "Yes. A HELOC or home equity loan can provide the 10-20% equity injection needed for SBA-financed acquisitions. Advantages: fast approval (2-4 weeks), lower cost than equity investors (7-10% interest), and no ownership dilution. Key risks: your home serves as collateral, you face double leverage (personal + business), and some SBA lenders may restrict HELOC-sourced equity. Critical timing tip: apply while still employed, as qualification is much harder without steady W-2 income." },
@@ -5046,7 +5045,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Levera Partners", title: "Recurring vs. Reoccurring Revenue: Why the Difference Matters in M&A", url: "https://www.leverapartners.com/blog/recurring-vs-reoccurring-revenue-why-the-difference-matters-in-ma/", year: 2024 },
-      { name: "Quantive", title: "Recurring Revenue: The Key to Higher Valuation Multiples", url: "https://goquantive.com/blog/recurring-revenue-the-key-to-higher-valuation-multiples/", year: 2024 },
+      { name: "Business Appraisal FL", title: "Achieving Higher Valuation Multiples with Recurring Revenue Models", url: "https://businessappraisalflorida.com/blog/achieving-higher-valuation-multiples-with-recurring-revenue-models/", year: 2024 },
       { name: "Aventis Advisors", title: "MSP Valuation Multiples", url: "https://aventis-advisors.com/msp-valuation-multiples/", year: 2024 },
       { name: "Sica | Fletcher", title: "2025 Valuations, Interest Rates, Spreads & Deal Volume", url: "https://www.sicafletcher.com/2025-valuations-interest-rates-spreads-deal-volume", year: 2025 },
       { name: "Alvarez & Marsal", title: "Inside Job: EBITDA Fraud in M&A Transactions", url: "https://www.alvarezandmarsal.com/insights/inside-job-ebitda-fraud-merger-and-acquisition-ma-transactions", year: 2024 },
@@ -5544,7 +5543,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McGuireWoods", title: "2024 Independent Sponsor Deal Survey (300+ Transactions)", year: 2024 },
       { name: "Axial", title: "2025 Independent Sponsor Report", url: "https://www.axial.net/forum/independent-sponsor-report/", year: 2025 },
       { name: "Holland & Knight", title: "The Emerging Seeded Sponsor Model", year: 2025 },
@@ -5568,7 +5567,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Constellation Software", title: "Annual Report and Public Filings", year: 2024 },
       { name: "Permanent Equity", title: "Public Disclosures — Fund Structure and Portfolio Data", year: 2024 },
       { name: "Tiny Ltd.", title: "Fiscal Year 2024 Financial Results", year: 2024 },
@@ -5658,7 +5657,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study — Governance Outcomes and CEO Replacement Data", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study — Governance Outcomes and CEO Replacement Data", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "MBA Search Fund Alliance", title: "CEO Replacement Rate Data (~33% of Searcher-CEOs)", year: 2024 },
     ],
     faqs: [
@@ -5679,7 +5678,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Adams Street Partners", title: "Co-Investment Performance Analysis Across 270+ Funds", year: 2006 },
       { name: "Braun, Jenkinson & Schemmerl", title: "Adverse Selection and the Performance of Private Equity Co-Investments", url: "https://doi.org/10.1016/j.jfineco.2019.09.009", year: 2020 },
     ],
@@ -5701,7 +5700,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds-2024", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Yale School of Management", title: "How Are Search Fund Investors Really Faring? (1,192 Observations Across 12 Investors)", year: 2025 },
       { name: "Search Fund Partners", title: "Firm Profile — 175+ Searches, 100+ Acquisitions Since 2004", year: 2024 },
       { name: "Pacific Lake Partners", title: "Fund IV ($175M) and Fund VI Profile; Harvard Business School Case Study", year: 2024 },
@@ -6219,9 +6218,9 @@ export const allArticles: ArticleMeta[] = [
       { name: "Cornell LII", title: "26 U.S.C. § 197 — Amortization of Goodwill and Certain Other Intangibles", url: "https://www.law.cornell.edu/uscode/text/26/197", year: 2024 },
       { name: "IRS", title: "Instructions for Form 8594: Asset Acquisition Statement Under Section 1060", url: "https://www.irs.gov/forms-pubs/about-form-8594", year: 2021 },
       { name: "FASB", title: "ASC 350-20: Goodwill — Subsequent Measurement", url: "https://asc.fasb.org/350-20", year: 2024 },
-      { name: "Deloitte", title: "Roadmap: Goodwill and Intangible Assets", url: "https://www.deloitte.com/us/en/services/audit-assurance/accounting-standards/goodwill-intangible-assets.html", year: 2025 },
-      { name: "KPMG", title: "Goodwill Impairment: IFRS vs. U.S. GAAP", url: "https://kpmg.com/xx/en/our-insights/ifrg/goodwill-impairment.html", year: 2022 },
-      { name: "EY", title: "Worldwide Corporate Tax Guide: Goodwill Deductions by Jurisdiction", url: "https://www.ey.com/en_gl/tax-guides/worldwide-corporate-tax-guide", year: 2024 },
+      { name: "Deloitte", title: "Roadmap: Goodwill and Intangible Assets", url: "https://www.deloitte.com/us/en/services/audit-assurance/articles/accounting-for-goodwill-impairment.html", year: 2025 },
+      { name: "KPMG", title: "Goodwill Impairment: IFRS vs. U.S. GAAP", url: "https://kpmg.com/us/en/articles/2022/goodwill-impairment-ifrs-standards-us-gaap.html", year: 2022 },
+      { name: "EY", title: "Worldwide Corporate Tax Guide: Goodwill Deductions by Jurisdiction", url: "https://www.ey.com/en_gl/technical/tax-guides/worldwide-corporate-tax-guide", year: 2024 },
       { name: "U.S. Treasury (eCFR)", title: "26 CFR § 1.197-2 — Amortization of Goodwill and Certain Other Intangibles", url: "https://www.ecfr.gov/current/title-26/chapter-I/subchapter-A/part-1/subject-group-ECFR17eb1ccc6b4f000/section-1.197-2", year: 2024 },
     ],
     faqs: [
@@ -6676,7 +6675,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Corporate Finance Institute", title: "Asset Purchase Agreement Overview", url: "https://corporatefinanceinstitute.com/resources/valuation/asset-purchase-agreement/", year: 2024 },
+      { name: "Corporate Finance Institute", title: "Asset Deal Overview", url: "https://corporatefinanceinstitute.com/resources/valuation/asset-deal/", year: 2024 },
       { name: "ABA", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/deal-points-studies/", year: 2023 },
       { name: "IRS", title: "Instructions for Form 8594: Asset Acquisition Statement Under Section 1060", url: "https://www.irs.gov/forms-pubs/about-form-8594", year: 2024 },
       { name: "ContractsCounsel", title: "Asset Purchase Agreement Legal Fees", url: "https://www.contractscounsel.com/", year: 2024 },
@@ -6702,7 +6701,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IRS", title: "Topic 409 — Capital Gains and Losses", url: "https://www.irs.gov/taxtopics/tc409", year: 2024 },
       { name: "Wilson Sonsini", title: "Understanding Section 1202: The Qualified Small Business Stock Exemption", url: "https://www.wsgr.com/en/insights/understanding-section-1202-the-qualified-small-business-stock-exemption.html", year: 2024 },
-      { name: "KPMG", title: "Canada Capital Gains Tax Increase Deferred to 2026", url: "https://kpmg.com/us/en/taxnewsflash/news/2025/02/tnf-canada-tax-increase-capital-gains-deferred-2026.html", year: 2025 },
+      { name: "KPMG", title: "Canada Capital Gains Tax Increase Deferred to 2026", url: "https://kpmg.com/ca/en/insights/2025/01/tax-increase-to-capital-gains-deferred-to-2026.html", year: 2025 },
       { name: "Canada Revenue Agency", title: "Line 25400 — Capital Gains Deduction", url: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25400-capital-gains-deduction.html", year: 2024 },
       { name: "GOV.UK", title: "Business Asset Disposal Relief", url: "https://www.gov.uk/business-asset-disposal-relief", year: 2024 },
       { name: "PwC Tax Summaries", title: "France — Individual Other Taxes", url: "https://taxsummaries.pwc.com/france/individual/other-taxes", year: 2024 },
@@ -9604,7 +9603,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "SearchFunder", title: "Community Overview", url: "https://www.searchfunder.com/", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/search-funds/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
     faqs: [
       { question: "Where do search fund entrepreneurs connect?", answer: "The largest online community is SearchFunder.com, with 15,000+ members discussing deal sourcing, valuation, operations, and more. MBA ETA clubs (Stanford, HBS, Booth, INSEAD, IESE) have active alumni networks. Regional groups meet in major cities (NYC, SF, Chicago, London, Barcelona). LinkedIn has active ETA discussions. Conferences (Stanford, IESE, MIT) are the best in-person networking events." },
@@ -9626,8 +9625,8 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/ces/research/search-funds", year: 2024 },
-      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/faculty-research/entrepreneurship/", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Harvard Business School", title: "Rock Center for Entrepreneurship", url: "https://www.hbs.edu/entrepreneurs/Pages/default.aspx", year: 2024 },
     ],
     faqs: [
@@ -9696,7 +9695,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-01-15",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Harvard Business Review Press", title: "HBR Guide to Buying a Small Business", url: "https://store.hbr.org/product/hbr-guide-to-buying-a-small-business/1915", year: 2024 },
+      { name: "Harvard Business Review Press", title: "HBR Guide to Buying a Small Business", url: "https://store.hbr.org/product/hbr-guide-to-buying-a-small-business/10090", year: 2017 },
       { name: "Stanford Center for Entrepreneurial Studies", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Springer", title: "Entrepreneurship through Acquisition: A Scoping Review", url: "https://link.springer.com/article/10.1007/s11301-023-00352-6", year: 2023 },
@@ -9704,7 +9703,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Harvard Business Review Press", title: "Financial Intelligence for Entrepreneurs", url: "https://store.hbr.org/product/financial-intelligence-for-entrepreneurs-what-you-really-need-to-know-about-the-numbers/1915", year: 2024 },
       { name: "Newton Equity", title: "Search Fund Institute Library", url: "https://www.newtonequity.com/search-fund-library", year: 2024 },
       { name: "Searchfunder.com", title: "Community Forum", url: "https://www.searchfunder.com", year: 2024 },
-      { name: "Think Like an Owner", title: "Search Fund Podcast", url: "https://tlaopodcast.com/podcast", year: 2024 },
+      { name: "Think Like an Owner", title: "Search Fund Podcast", url: "https://tlaopodcast.com/podcasts/", year: 2024 },
     ],
     faqs: [
       { question: "What is the best first book to read about search funds?", answer: "The HBR Guide to Buying a Small Business by Richard Ruback and Royce Yudkoff is widely considered the best starting point. It provides a practical, accessible overview of the entire acquisition process from two Harvard professors who helped popularize ETA. Buy Then Build by Walker Deibel is the best alternative." },

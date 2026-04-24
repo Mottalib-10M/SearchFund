@@ -713,12 +713,12 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://hbr.org/2021/03/the-search-fund-model-of-entrepreneurship"
+              href="https://hbr.org/2017/01/buying-your-way-into-entrepreneurship"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Harvard Business Review - The Search Fund Model of Entrepreneurship
+              Harvard Business Review - Buying Your Way into Entrepreneurship
             </a>
           </li>
           <li>
@@ -733,7 +733,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://searchfunder.com/forum"
+              href="https://www.searchfunder.com"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -743,7 +743,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://www.pacifictake.com/insights"
+              href="https://www.pacificlake.com/insights"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"

@@ -495,7 +495,7 @@ export default function SDEvsEBITDAArticle() {
         <ul className="space-y-2">
           <li>
             <a
-              href="https://www.sba.gov/partners/lenders/7a-loan-program/7a-forms"
+              href="https://www.sba.gov/funding-programs/loans/7a-loans"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -539,12 +539,12 @@ export default function SDEvsEBITDAArticle() {
           </li>
           <li>
             <a
-              href="https://www.ibanet.org/document?id=Business-Valuation-Standards"
+              href="https://www.nacva.com/standards"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
             >
-              International Business Brokers Association: Business Valuation Standards
+              NACVA/IBA: Professional Standards for Business Valuation
             </a>
             {" — Industry standards for business appraisal and earnings normalization"}
           </li>

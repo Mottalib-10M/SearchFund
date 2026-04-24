@@ -10,7 +10,7 @@ export const podcasts: PodcastEntry[] = [
     description:
       "Think Like An Owner is one of the most well-known podcasts in the search fund and small business acquisition space. Hosted by Alex Dier, the show features in-depth conversations with entrepreneurs who have acquired and are operating small businesses, as well as investors, advisors, and service providers in the ETA ecosystem. Episodes cover a wide range of topics including deal sourcing, due diligence, financing structures, post-acquisition operations, and exits. The podcast is known for its thoughtful, long-form interview format and has built a large following among aspiring and active searchers. It provides practical insights from real operators who share both successes and challenges.",
     platform: "multiple",
-    platformUrl: "https://www.thinklikeanowner.com",
+    platformUrl: "https://tlaopodcast.com",
     episodeCount: "200+",
     status: "active",
     frequency: "weekly",
@@ -85,7 +85,7 @@ export const podcasts: PodcastEntry[] = [
     description:
       "How2Exit is a podcast focused on the end-to-end process of buying and selling businesses, hosted by Ronald Gamble. The show features interviews with business owners who have sold their companies, acquirers who have purchased businesses, and intermediaries who facilitate transactions. Episodes cover topics including business valuation, exit planning, deal structuring, due diligence, and the emotional aspects of buying or selling a business. The podcast provides perspectives from both sides of the transaction, making it valuable for searchers who want to understand seller motivations and expectations. It also covers emerging trends in the lower middle market and SME transaction space.",
     platform: "multiple",
-    platformUrl: "https://how2exit.com",
+    platformUrl: "https://podcasts.apple.com/us/podcast/how2exit-buy-dont-build-m-a-of-small-businesses/id1561038705",
     episodeCount: "150+",
     status: "active",
     frequency: "weekly",

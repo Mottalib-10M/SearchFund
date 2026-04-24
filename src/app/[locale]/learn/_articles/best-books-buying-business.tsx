@@ -15,11 +15,11 @@ export const metadata = {
     },
     {
       title: "Stanford GSB - Search Fund Study",
-      url: "https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2023",
+      url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds",
     },
     {
       title: "Walker Deibel - Buy Then Build",
-      url: "https://acquisitionlab.com/buy-then-build/",
+      url: "https://buythenbuild.com/",
     },
   ],
 };

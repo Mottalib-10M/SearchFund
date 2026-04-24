@@ -13,17 +13,17 @@ export const metadata = {
   sources: [
     {
       title: "Think Like an Owner Podcast",
-      url: "https://www.thinklikeanowner.com/podcast",
+      url: "https://tlaopodcast.com/",
       type: "primary" as const,
     },
     {
       title: "Acquiring Minds Podcast",
-      url: "https://acquiringminds.com",
+      url: "https://acquiringminds.co",
       type: "primary" as const,
     },
     {
       title: "How2Exit Podcast",
-      url: "https://how2exit.com",
+      url: "https://podcasts.apple.com/us/podcast/how2exit-buy-dont-build-m-a-of-small-businesses/id1561038705",
       type: "primary" as const,
     },
     {
@@ -734,7 +734,7 @@ export default function SearchFundPodcastsArticle() {
         <ul className={ulClass}>
           <li>
             <a
-              href="https://www.thinklikeanowner.com/podcast"
+              href="https://tlaopodcast.com/"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -744,7 +744,7 @@ export default function SearchFundPodcastsArticle() {
           </li>
           <li>
             <a
-              href="https://acquiringminds.com"
+              href="https://acquiringminds.co"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -754,7 +754,7 @@ export default function SearchFundPodcastsArticle() {
           </li>
           <li>
             <a
-              href="https://how2exit.com"
+              href="https://podcasts.apple.com/us/podcast/how2exit-buy-dont-build-m-a-of-small-businesses/id1561038705"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"

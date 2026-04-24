@@ -11,6 +11,7 @@ import {
 } from "lucide-react";
 import type { JourneyPhaseData } from "@/data/journey-phases";
 import { allArticles } from "@/app/[locale]/learn/_articles/article-registry";
+import { templates } from "@/app/[locale]/(marketing)/templates/_data";
 
 interface JourneyPhaseProps {
   phase: JourneyPhaseData;
@@ -21,6 +22,14 @@ interface JourneyPhaseProps {
 function articleTitle(slug: string): string {
   const match = allArticles.find((a) => a.slug === slug);
   return match?.title ?? slug.replace(/-/g, " ");
+}
+
+/** Look up a template short name from the registry by slug. */
+function templateName(slug: string): string {
+  const match = templates.find((t) => t.slug === slug);
+  if (!match) return slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase());
+  // Strip parenthetical and "for ..." suffix for compact display
+  return match.title.replace(/ \(.*?\)/, "").replace(/ for .*/, "");
 }
 
 export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
@@ -162,9 +171,25 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
               <FileText className="h-4 w-4" />
               {t("templates")}
             </h3>
-            <p className="text-sm italic text-apple-gray-300">
-              {t("comingSoon")}
-            </p>
+            {phase.templates.length > 0 ? (
+              <ul className="space-y-2">
+                {phase.templates.map((template) => (
+                  <li key={template.slug}>
+                    <Link
+                      href={`/templates/${template.slug}`}
+                      className="group flex items-start gap-1.5 text-sm text-apple-black transition-colors hover:text-apple-accent"
+                    >
+                      <ArrowRight className="mt-0.5 h-3.5 w-3.5 shrink-0 text-apple-gray-300 transition-colors group-hover:text-apple-accent" />
+                      {templateName(template.slug)}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className="text-sm italic text-apple-gray-300">
+                {t("comingSoon")}
+              </p>
+            )}
           </div>
 
           {/* ─ Pitfalls ─ */}

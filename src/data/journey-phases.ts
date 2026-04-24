@@ -12,6 +12,10 @@ export interface PhaseTool {
   exists: boolean; // false = render as "Coming soon"
 }
 
+export interface PhaseTemplate {
+  slug: string; // e.g. "letter-of-intent"
+}
+
 export interface PhaseQuote {
   /** Translation key for the quote text — e.g. "phases.prepare.quote" */
   textKey: string;
@@ -32,6 +36,7 @@ export interface JourneyPhaseData {
   durationKey: string; // translation key for "2–4 months"
   articles: PhaseArticle[];
   tools: PhaseTool[];
+  templates: PhaseTemplate[];
   quote: PhaseQuote;
 }
 
@@ -60,6 +65,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "getting-started" },
     ],
     tools: [{ slug: "search-capital-calculator", exists: true }],
+    templates: [],
     quote: {
       textKey: "phases.prepare.quote",
       person: "Fernando Garcia Benavides",
@@ -90,6 +96,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "cap-table-simulator", exists: true },
       { slug: "search-capital-calculator", exists: true },
     ],
+    templates: [{ slug: "ppm-search-fund" }],
     quote: {
       textKey: "phases.fundraise.quote",
       person: "Christopher Sykes",
@@ -119,6 +126,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "ebitda-multiple-estimator", exists: true },
       { slug: "valuation-calculator", exists: true },
     ],
+    templates: [],
     quote: {
       textKey: "phases.search.quote",
       person: "Steve Divitkos",
@@ -149,6 +157,10 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "lbo-simulator", exists: true },
       { slug: "valuation-calculator", exists: true },
     ],
+    templates: [
+      { slug: "letter-of-intent" },
+      { slug: "due-diligence-checklist" },
+    ],
     quote: {
       textKey: "phases.acquire.quote",
       person: "Brent Beshore",
@@ -176,6 +188,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "kpi-dashboard-post-acquisition" },
     ],
     tools: [{ slug: "kpi-dashboard-builder", exists: false }],
+    templates: [],
     quote: {
       textKey: "phases.operate.quote",
       person: "Daniel Muzquiz",
@@ -201,6 +214,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "life-after-selling" },
     ],
     tools: [{ slug: "exit-value-calculator", exists: false }],
+    templates: [],
     quote: {
       textKey: "phases.exit.quote",
       person: "A.J. Wasserstein",

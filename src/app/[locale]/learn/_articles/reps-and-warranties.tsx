@@ -482,22 +482,22 @@ export default function RepsAndWarrantiesArticle() {
             </li>
             <li>
               <a
-                href="https://www.acc.com/resource-library/representations-and-warranties-deal-study"
+                href="https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Association of Corporate Counsel – M&amp;A Deal Terms Study
+                ABA &ndash; Private Target M&amp;A Deal Points Study
               </a>
             </li>
             <li>
               <a
-                href="https://www.aon.com/getting-smart-transaction-solutions/reps-and-warranties-insurance.jsp"
+                href="https://www.aon.com/en/capabilities/mergers-and-acquisitions/representations-and-warranties"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Aon – Representations and Warranties Insurance Guide
+                Aon &ndash; Representations and Warranties Insurance Guide
               </a>
             </li>
             <li>

@@ -10,14 +10,14 @@ export const metadata = {
   readingTime: "12 min",
   sources: [
     {
-      title: "The Consolidator's Playbook: How to Build Platform Companies Through Roll-Ups",
+      title: "The Consolidation Curve",
       author: "Harvard Business Review",
-      url: "https://hbr.org/consolidation-strategies"
+      url: "https://hbr.org/2002/12/the-consolidation-curve"
     },
     {
       title: "Search Fund Roll-Up Strategies: Platform vs Add-On Acquisitions",
       author: "Stanford GSB Search Fund Primer",
-      url: "https://www.gsb.stanford.edu/faculty-research/publications/search-funds"
+      url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
     },
     {
       title: "Creating Value Through Fragmented Industry Consolidation",
@@ -516,18 +516,18 @@ export default function IndustryFragmentationArticle() {
       <ul className={ulClass}>
         <li>
           <a
-            href="https://hbr.org/consolidation-strategies"
+            href="https://hbr.org/2002/12/the-consolidation-curve"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
           >
-            The Consolidator's Playbook: How to Build Platform Companies Through Roll-Ups
+            The Consolidation Curve
           </a>
           {" "}- Harvard Business Review
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

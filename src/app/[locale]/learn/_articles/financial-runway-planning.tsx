@@ -16,7 +16,7 @@ export const metadata = {
     },
     {
       title: "2024 Search Fund Study",
-      url: "https://www.gsb.stanford.edu/faculty-research/publications/2024-search-fund-study",
+      url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study",
       organization: "Stanford GSB"
     }
   ]
@@ -509,7 +509,7 @@ export default function FinancialRunwayPlanningArticle() {
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/2024-search-fund-study"
+            href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"

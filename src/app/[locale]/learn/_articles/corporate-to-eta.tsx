@@ -544,7 +544,7 @@ export default function CorporateToETAArticle() {
         </li>
         <li>
           <a
-            href="https://www.iese.edu/faculty-research/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

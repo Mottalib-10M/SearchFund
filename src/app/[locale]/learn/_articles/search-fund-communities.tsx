@@ -339,17 +339,17 @@ export default function SearchFundCommunitiesArticle() {
             </li>
             <li>
               <a
-                href="https://www.kellogg.northwestern.edu/news-events/conference/search-fund-conference.aspx"
+                href="https://www.etaconference.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Kellogg School of Management - Search Fund Research
+                Booth-Kellogg ETA Conference
               </a>
             </li>
             <li>
               <a
-                href="https://www.iese.edu/research/search-funds/"
+                href="https://www.iese.edu/entrepreneurship/search-funds/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"

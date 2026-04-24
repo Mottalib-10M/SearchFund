@@ -389,12 +389,12 @@ export default function ETAGermanyArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.ifm-bonn.org/en/statistics/business-transfers" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.ifm-bonn.org/en/statistics/business-transfers-and-succession" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               IfM Bonn (Institut f&uuml;r Mittelstandsforschung) &mdash; Business Transfer Statistics and Succession Research
             </a>
           </li>
           <li>
-            <a href="https://www.kfw.de/About-KfW/Newsroom/Latest-News/Pressemitteilungen-Details_689792.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_833856.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               KfW Research &mdash; SME Succession and ERP Financing Programs
             </a>
           </li>

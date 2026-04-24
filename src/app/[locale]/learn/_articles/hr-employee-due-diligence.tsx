@@ -10,7 +10,7 @@ export const metadata = {
   sources: [
     {
       title: "SHRM M&A Due Diligence Guide",
-      url: "https://www.shrm.org/topics-tools/tools/toolkits/mergers-acquisitions",
+      url: "https://www.shrm.org/topics-tools/tools/toolkits/managing-human-resources-mergers-acquisitions",
       organization: "Society for Human Resource Management"
     },
     {
@@ -20,7 +20,7 @@ export const metadata = {
     },
     {
       title: "Human Capital Due Diligence",
-      url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-and-a-trends-report.html",
+      url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html",
       organization: "Deloitte"
     }
   ]
@@ -610,7 +610,7 @@ export default function HREmployeeDueDiligenceArticle() {
         <ul className={ulClass}>
           <li>
             <a
-              href="https://www.shrm.org/topics-tools/tools/toolkits/mergers-acquisitions"
+              href="https://www.shrm.org/topics-tools/tools/toolkits/managing-human-resources-mergers-acquisitions"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -630,7 +630,7 @@ export default function HREmployeeDueDiligenceArticle() {
           </li>
           <li>
             <a
-              href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-and-a-trends-report.html"
+              href="https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

@@ -477,7 +477,7 @@ export default function ETAAfricaArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.ifc.org/en/what-we-do/sector-expertise/financial-institutions/sme-finance" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.ifc.org/en/what-we-do/sector-expertise/financial-institutions/msme-finance" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               International Finance Corporation (IFC) &mdash; SME Finance in Africa
             </a>
           </li>

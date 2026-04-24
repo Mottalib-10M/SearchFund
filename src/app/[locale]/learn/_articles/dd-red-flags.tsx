@@ -483,7 +483,7 @@ export default function DDRedFlagsArticle() {
         <li>
           International Business Brokers Association (IBBA),{" "}
           <a
-            href="https://www.ibba.org/market-research/"
+            href="https://www.ibba.org/resource-center/industry-research/"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
@@ -505,7 +505,7 @@ export default function DDRedFlagsArticle() {
         <li>
           Pacific Lake Partners,{" "}
           <a
-            href="https://www.pacificlakepartners.com/resources"
+            href="https://www.pacificlake.com/insights"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"

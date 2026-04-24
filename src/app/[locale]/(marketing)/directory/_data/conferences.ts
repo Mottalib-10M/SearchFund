@@ -22,7 +22,7 @@ export const conferences: ConferenceEntry[] = [
     location: "Barcelona, Spain",
     country: "Spain",
     frequency: "annual",
-    website: "https://www.iese.edu/faculty-research/search-funds/",
+    website: "https://www.iese.edu/entrepreneurship/search-funds/",
     description:
       "The IESE Search Fund Conference is the premier European search fund event, organized by IESE Business School in Barcelona. IESE has been at the forefront of the search fund movement in Europe and Latin America, producing annual studies on international search fund performance. The conference typically features keynote addresses from leading investors and former searchers, panel discussions on European deal dynamics, and extensive networking sessions. It attracts searchers, investors, and advisors from across Europe, Latin America, and beyond, making it a critical gathering for anyone involved in international search fund activity.",
     typicalDate: "November",

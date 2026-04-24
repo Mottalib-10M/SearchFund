@@ -3,6 +3,7 @@ import { prisma } from "@/lib/prisma";
 import { allArticles, categoryMeta } from "./[locale]/learn/_articles/article-registry";
 import { hasFRVersion } from "./[locale]/learn/_articles/fr-registry";
 import { routeLocales, locales, type Locale } from "@/lib/i18n-registry";
+import { templates } from "./[locale]/(marketing)/templates/_data";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -51,6 +52,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
     { path: "/terms", priority: 0.3, changeFrequency: "yearly" },
     { path: "/about/editorial-policy", priority: 0.4, changeFrequency: "monthly" },
+    { path: "/templates", priority: 0.7, changeFrequency: "monthly" },
   ];
 
   for (const page of englishOnlyPages) {
@@ -104,6 +106,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.6,
     alternates: buildAlternates("/learn/glossary", ["en"]),
   });
+
+  // --- Template pages (English only) ---
+  for (const template of templates) {
+    entries.push({
+      url: `${BASE}/en/templates/${template.slug}`,
+      lastModified: template.dateModified,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      alternates: buildAlternates(`/templates/${template.slug}`, ["en"]),
+    });
+  }
 
   // --- Dynamic user profile pages (English only) ---
   try {
