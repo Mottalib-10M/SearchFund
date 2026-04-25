@@ -99,6 +99,16 @@ export default function SearchFundDealCharacteristicsArticle() {
         <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
         <li>Search Fund Accelerator, <em>Acquisition Target Analysis</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study: Key Takeaways</Link></li>
+          <li><Link href="/learn/evaluate-searcher" className="text-apple-accent hover:underline">How to Evaluate a Searcher as an Investor</Link></li>
+          <li><Link href="/learn/risk-factors-search-fund" className="text-apple-accent hover:underline">Search Fund Investment Risks: What LPs Need to Know</Link></li>
+          <li><Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">What Industries Are Best for Search Funds?</Link></li>
+          <li><Link href="/learn/search-fund-statistics" className="text-apple-accent hover:underline">Search Fund Statistics: 681 Funds Analyzed</Link></li>
+          <li><Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">Why Invest in Search Funds?</Link></li>
+        </ul>
     </article>
   );
 }

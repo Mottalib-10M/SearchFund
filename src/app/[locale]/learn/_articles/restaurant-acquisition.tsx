@@ -100,6 +100,16 @@ export default function RestaurantAcquisitionArticle() {
         <li>IBISWorld, <em>Restaurant Industry in the US</em> (2024)</li>
         <li>Toast, <em>Restaurant Industry Trends Report</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/hotel-hospitality-acquisition" className="text-apple-accent hover:underline">Acquiring a Hotel or Hospitality Business</Link></li>
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">Deal Sourcing Strategies for Search Funds</Link></li>
+          <li><Link href="/learn/seasonal-businesses" className="text-apple-accent hover:underline">Acquiring Seasonal Businesses: Opportunities &amp; Risks</Link></li>
+        </ul>
     </article>
   );
 }

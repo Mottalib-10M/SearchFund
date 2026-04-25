@@ -546,6 +546,16 @@ export default function DDRedFlagsArticle() {
           </Link>
         </p>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">Financial Due Diligence: What to Look For</Link></li>
+          <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Operational Due Diligence for SME Acquisitions</Link></li>
+          <li><Link href="/learn/commercial-due-diligence" className="text-apple-accent hover:underline">Commercial Due Diligence: Market, Competition &amp; Customers</Link></li>
+          <li><Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">Customer Concentration Risk: How Much Is Too Much?</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors: Lawyers, Accountants &amp; Brokers</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process: Timeline, Documents &amp; Wire Transfers</Link></li>
+        </ul>
     </article>
   );
 }

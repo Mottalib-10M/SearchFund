@@ -112,6 +112,16 @@ export default function CEOBoardTransitionArticle() {
         <li>Harvard Business Review, <em>The CEO Identity Crisis After Exit</em> (2024)</li>
         <li>IESE, <em>Search Fund Operator Career Trajectories</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/board-governance" className="text-apple-accent hover:underline">Board Governance for Search Fund Companies</Link></li>
+          <li><Link href="/learn/dividend-recapitalization" className="text-apple-accent hover:underline">Dividend Recapitalization: Returning Capital Without Selling</Link></li>
+          <li><Link href="/learn/investment-banker-exit" className="text-apple-accent hover:underline">How to Select &amp; Work with an Investment Banker for Your Exit</Link></li>
+          <li><Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">The Search Fund Lifecycle: From Raise to Exit</Link></li>
+          <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition &amp; Employee Communication</Link></li>
+          <li><Link href="/learn/monthly-board-package" className="text-apple-accent hover:underline">Monthly Board Package: Templates &amp; Best Practices</Link></li>
+        </ul>
     </article>
   );
 }

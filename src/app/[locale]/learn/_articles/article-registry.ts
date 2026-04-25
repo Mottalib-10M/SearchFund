@@ -3058,6 +3058,41 @@ export const allArticles: ArticleMeta[] = [
       { question: "How do I increase the value of my business before selling?", answer: "Start 18-24 months early. Reduce owner dependence, build a management team, convert verbal agreements to written contracts, clean up financials, diversify your customer base (no customer >10% of revenue), and document growth opportunities. Running a competitive process with 3-5 buyers increases price by 10-20%." },
     ],
   },
+  {
+    slug: "how-to-value-a-small-business",
+    title: "How to Value a Small Business: The Complete Buyer's Guide",
+    description:
+      "Five valuation methods for small business acquisitions: earnings multiples, DCF, comparable transactions, asset-based, and revenue multiples. Includes industry benchmarks, case studies, and 10 FAQs.",
+    readTime: "25 min",
+    tag: "Valuation",
+    category: "Deal Execution",
+    ogTitle: "How to Value a Small Business - Complete Valuation Guide",
+    ogDescription:
+      "Learn the 5 methods to value a small business with real industry multiples, case studies, and step-by-step process. Free guide for buyers and searchers.",
+    datePublished: "2025-04-01",
+    dateModified: "2026-04-25",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "BizBuySell", title: "Annual Insight Report", url: "https://www.bizbuysell.com/insight-report/", year: 2025 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Business Valuation Resources", title: "DealStats Transaction Database", year: 2024 },
+    ],
+    faqs: [
+      { question: "How much is a small business worth on average?", answer: "According to BizBuySell, the median small business sold for approximately $350,000 in 2024. Businesses with $1M+ EBITDA typically sell for $4M-$8M." },
+      { question: "What multiple should I pay for a small business?", answer: "Multiples range from 2x SDE for owner-operated businesses to 8x+ EBITDA for high-quality businesses with recurring revenue and strong growth." },
+      { question: "Is a business worth its annual revenue?", answer: "Rarely. Most profitable small businesses sell for 0.5x to 2.0x revenue. High-margin SaaS businesses can exceed 3x revenue." },
+      { question: "How do I value a business with no profit?", answer: "Consider revenue multiples, asset-based valuation, DCF with a turnaround plan, or walk away if none produce a compelling valuation." },
+      { question: "What is the difference between enterprise value and equity value?", answer: "Enterprise value represents total business value (debt + equity). Equity value is EV minus debt plus excess cash - what the seller actually receives." },
+      { question: "Should I pay for a formal business valuation?", answer: "For transactions above $1M, a Quality of Earnings report ($15K-$50K) is well worth the investment. For smaller deals, a CPA review ($2K-$5K) provides reasonable assurance." },
+      { question: "How does seller financing affect valuation?", answer: "Seller financing typically allows a buyer to pay a 5-10% premium because it reduces deal risk and keeps the seller invested in a successful transition." },
+      { question: "How long does it take to value a business?", answer: "Preliminary screening takes 30 minutes, rigorous analysis 1-2 days, and full due diligence including QoE takes 30-90 days." },
+      { question: "Do business valuations change over time?", answer: "Yes. Multiples are cyclical. In 2021 (low rates), median EBITDA multiples were 6.5x-7.5x. By 2024 (higher rates), they compressed to 5.0x-6.5x." },
+      { question: "Can I value a business myself or do I need an expert?", answer: "You can perform your own analysis using the methods in this guide. For deals above $2M, complement with a QoE report and potentially a formal valuation from a certified appraiser." },
+    ],
+  },
 
   {
     slug: "financial-modeling-for-acquisitions",
@@ -10881,6 +10916,7 @@ import GovernmentFinancingProgramsGlobalArticle from "./government-financing-pro
 import SuccessionCrisisByCountryArticle from "./succession-crisis-by-country";
 import SellingToSearchFundArticle from "./selling-to-search-fund";
 import WhatIsMyBusinessWorthArticle from "./what-is-my-business-worth";
+import HowToValueASmallBusinessArticle from "./how-to-value-a-small-business";
 import PrepareBusinessForSaleArticle from "./prepare-business-for-sale";
 import ChoosingBuyerTypesArticle from "./choosing-buyer-types";
 import HowToEvaluateSearcherArticle from "./how-to-evaluate-searcher";
@@ -11287,6 +11323,7 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "succession-crisis-by-country": SuccessionCrisisByCountryArticle,
   "selling-to-search-fund": SellingToSearchFundArticle,
   "what-is-my-business-worth": WhatIsMyBusinessWorthArticle,
+  "how-to-value-a-small-business": HowToValueASmallBusinessArticle,
   "prepare-business-for-sale": PrepareBusinessForSaleArticle,
   "choosing-buyer-types": ChoosingBuyerTypesArticle,
   "how-to-evaluate-searcher": HowToEvaluateSearcherArticle,

@@ -812,6 +812,16 @@ export default function SearchFundPodcastsArticle() {
           </li>
         </ul>
       </footer>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/search-fund-communities" className="text-apple-accent hover:underline">Search Fund Communities &amp; Networks: Where to Connect</Link></li>
+          <li><Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">Search Fund Conferences &amp; Events: The Complete Calendar</Link></li>
+          <li><Link href="/learn/best-books-buying-business" className="text-apple-accent hover:underline">The Best Books on Buying a Business</Link></li>
+          <li><Link href="/learn/search-fund-newsletters" className="text-apple-accent hover:underline">Search Fund Newsletters, Blogs &amp; Media to Follow</Link></li>
+          <li><Link href="/learn/search-fund-accelerators" className="text-apple-accent hover:underline">Search Fund Accelerators &amp; Incubators: A Complete List</Link></li>
+          <li><Link href="/learn/mba-programs-eta" className="text-apple-accent hover:underline">Top MBA Programs for Entrepreneurship Through Acquisition</Link></li>
+        </ul>
     </article>
   );
 }

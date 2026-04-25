@@ -541,6 +541,16 @@ export default function DealSourcingStrategiesArticle() {
           <li>Walker Deibel, <em>Buy Then Build</em> (2018) &mdash; tactical guidance on direct outreach campaigns, CRM setup, and proprietary deal sourcing for acquisition entrepreneurs</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">Proprietary Deal Flow: How to Find Off-Market Businesses</Link></li>
+          <li><Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">Cold Outreach to Business Owners: Scripts &amp; Strategies</Link></li>
+          <li><Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">Working with Business Brokers: A Buyer's Guide</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM (Confidential Information Memorandum)</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">The Ideal Acquisition Target: A Search Fund Buyer's Framework</Link></li>
+        </ul>
     </article>
   );
 }

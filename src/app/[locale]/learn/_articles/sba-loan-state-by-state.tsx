@@ -97,6 +97,16 @@ export default function SBALoanStateByStateArticle() {
         <li>SBA Office of Advocacy, <em>Small Business Lending by State</em> (2024)</li>
         <li>NAGGL, <em>Government Guaranteed Lending Guide</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) Loan Requirements, Rates &amp; Application Process</Link></li>
+          <li><Link href="/learn/creative-financing" className="text-apple-accent hover:underline">Creative Financing: 10 Ways to Fund an Acquisition</Link></li>
+          <li><Link href="/learn/personal-guarantees-acquisition" className="text-apple-accent hover:underline">Personal Guarantees in Business Acquisitions: What to Know</Link></li>
+          <li><Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">The Capital Stack Explained: Senior Debt to Equity</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process: Timeline, Documents &amp; Wire Transfers</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure Optimization: Balancing Buyer &amp; Seller Interests</Link></li>
+        </ul>
     </article>
   );
 }

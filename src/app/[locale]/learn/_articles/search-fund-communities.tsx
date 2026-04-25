@@ -360,6 +360,16 @@ export default function SearchFundCommunitiesArticle() {
           </ul>
         </div>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">Search Fund Conferences &amp; Events: The Complete Calendar</Link></li>
+          <li><Link href="/learn/search-fund-podcasts" className="text-apple-accent hover:underline">Top Search Fund Podcasts to Listen To</Link></li>
+          <li><Link href="/learn/best-books-buying-business" className="text-apple-accent hover:underline">The Best Books on Buying a Business</Link></li>
+          <li><Link href="/learn/search-fund-newsletters" className="text-apple-accent hover:underline">Search Fund Newsletters, Blogs &amp; Media to Follow</Link></li>
+          <li><Link href="/learn/search-fund-accelerators" className="text-apple-accent hover:underline">Search Fund Accelerators &amp; Incubators: A Complete List</Link></li>
+          <li><Link href="/learn/eta-reading-list" className="text-apple-accent hover:underline">Essential ETA Reading List</Link></li>
+        </ul>
     </article>
   );
 }

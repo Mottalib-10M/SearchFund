@@ -96,6 +96,16 @@ export default function LifeAfterSellingArticle() {
         <li>Exit Planning Institute, <em>Life After the Exit Survey</em> (2024)</li>
         <li>Vistage, <em>Post-Sale Entrepreneur Transitions Study</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">How to Prepare Your Business for Sale</Link></li>
+          <li><Link href="/learn/choosing-buyer-types" className="text-apple-accent hover:underline">Choosing Between Buyer Types: Search Fund vs. PE vs. Strategic</Link></li>
+          <li><Link href="/learn/employee-communication-selling" className="text-apple-accent hover:underline">Communicating with Employees When Selling Your Business</Link></li>
+          <li><Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">Succession Planning for Business Owners: Start 5 Years Early</Link></li>
+          <li><Link href="/learn/tax-planning-sellers" className="text-apple-accent hover:underline">Tax Planning for Business Sellers: Minimize Your Tax Bill</Link></li>
+          <li><Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">What Is My Business Worth? A Seller's Valuation Guide</Link></li>
+        </ul>
     </article>
   );
 }

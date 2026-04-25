@@ -97,6 +97,16 @@ export default function BuildingTrustTeamsArticle() {
         <li>Harvard Business Review, <em>The First 90 Days in Leadership Transitions</em> (2024)</li>
         <li>Stanford GSB, <em>Search Fund Operator Best Practices</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">Compensation &amp; Incentive Design for Acquired Companies</Link></li>
+          <li><Link href="/learn/hiring-executive-team" className="text-apple-accent hover:underline">Hiring Your First Executive Team Post-Acquisition</Link></li>
+          <li><Link href="/learn/middle-management" className="text-apple-accent hover:underline">Middle Management: Your Secret Weapon Post-Acquisition</Link></li>
+          <li><Link href="/learn/quick-wins-first-90-days" className="text-apple-accent hover:underline">First 90 Days as CEO: Actionable Quick Wins After Buying a Business</Link></li>
+          <li><Link href="/learn/sop-documentation" className="text-apple-accent hover:underline">Standard Operating Procedures (SOPs): Building Documentation</Link></li>
+          <li><Link href="/learn/when-to-let-people-go" className="text-apple-accent hover:underline">When to Let People Go: Making Tough Personnel Decisions</Link></li>
+        </ul>
     </article>
   );
 }

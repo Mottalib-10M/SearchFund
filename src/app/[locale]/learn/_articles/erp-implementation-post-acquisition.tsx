@@ -536,6 +536,16 @@ export default function ERPImplementationPostAcquisitionArticle() {
           <li>Forrester Research &mdash; <em>The Total Economic Impact of Cloud ERP for SMEs</em>. Analysis of NetSuite, Acumatica, and SAP Business One ROI, implementation costs, and time-to-value benchmarks.</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/crm-implementation" className="text-apple-accent hover:underline">Implementing a CRM System in Your Acquired Company</Link></li>
+          <li><Link href="/learn/financial-reporting-upgrades" className="text-apple-accent hover:underline">Financial Reporting Upgrades: From QuickBooks to Controller-Ready</Link></li>
+          <li><Link href="/learn/sop-documentation" className="text-apple-accent hover:underline">Standard Operating Procedures (SOPs): Building Documentation</Link></li>
+          <li><Link href="/learn/process-improvement" className="text-apple-accent hover:underline">Process Improvement: Lean &amp; Six Sigma for Acquired Companies</Link></li>
+          <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard for Post-Acquisition Management</Link></li>
+          <li><Link href="/learn/technology-due-diligence" className="text-apple-accent hover:underline">Technology Due Diligence: IT Systems, Cybersecurity &amp; Tech Debt</Link></li>
+        </ul>
     </article>
   );
 }

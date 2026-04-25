@@ -117,6 +117,16 @@ export default function WhenToLetPeopleGoArticle() {
         <li>Harvard Business Review, <em>The Right Way to Fire Someone</em> (2024)</li>
         <li>SHRM, <em>Termination Best Practices for Small Businesses</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">Compensation &amp; Incentive Design for Acquired Companies</Link></li>
+          <li><Link href="/learn/middle-management" className="text-apple-accent hover:underline">Middle Management: Your Secret Weapon Post-Acquisition</Link></li>
+          <li><Link href="/learn/culture-change-post-acquisition" className="text-apple-accent hover:underline">Culture Change After Acquisition: Leading Transformation Without Losing Trust</Link></li>
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/quick-wins-first-90-days" className="text-apple-accent hover:underline">First 90 Days as CEO: Actionable Quick Wins After Buying a Business</Link></li>
+          <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition &amp; Employee Communication</Link></li>
+        </ul>
     </article>
   );
 }

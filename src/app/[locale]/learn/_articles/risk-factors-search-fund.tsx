@@ -98,6 +98,16 @@ export default function RiskFactorsSearchFundArticle() {
         <li>IESE Business School, <em>Search Fund Failure Analysis</em> (2024)</li>
         <li>Search Fund Partners, <em>Risk Management in Search Fund Portfolios</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study: Key Takeaways</Link></li>
+          <li><Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">Why Invest in Search Funds?</Link></li>
+          <li><Link href="/learn/eta-vs-private-equity" className="text-apple-accent hover:underline">ETA vs. Private Equity: Key Differences for Investors</Link></li>
+          <li><Link href="/learn/search-fund-deal-characteristics" className="text-apple-accent hover:underline">Search Fund Deal Characteristics: What Gets Acquired</Link></li>
+          <li><Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">Search Fund Economics: Cap Tables &amp; Equity</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+        </ul>
     </article>
   );
 }

@@ -95,6 +95,16 @@ export default function PortfolioConstructionSearchFundArticle() {
         <li>Pacific Lake Partners, <em>Search Fund Portfolio Construction Guide</em> (2024)</li>
         <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/eta-vs-private-equity" className="text-apple-accent hover:underline">ETA vs. Private Equity: Key Differences for Investors</Link></li>
+          <li><Link href="/learn/eta-vs-venture-capital" className="text-apple-accent hover:underline">ETA vs. Venture Capital: Risk, Returns &amp; Strategy</Link></li>
+          <li><Link href="/learn/eta-vs-real-estate" className="text-apple-accent hover:underline">ETA vs. Real Estate Investing</Link></li>
+          <li><Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study: Key Takeaways</Link></li>
+          <li><Link href="/learn/search-fund-deal-characteristics" className="text-apple-accent hover:underline">Search Fund Deal Characteristics: What Gets Acquired</Link></li>
+          <li><Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">Search Fund Economics: Cap Tables &amp; Equity</Link></li>
+        </ul>
     </article>
   );
 }

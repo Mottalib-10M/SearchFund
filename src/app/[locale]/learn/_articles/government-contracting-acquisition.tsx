@@ -99,6 +99,16 @@ export default function GovernmentContractingAcquisitionArticle() {
         <li>SBA, <em>Small Business Procurement Scorecard</em> (2024)</li>
         <li>Bloomberg Government, <em>GovCon Market Analysis</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">Deal Sourcing Strategies for Search Funds</Link></li>
+          <li><Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">The Ideal Acquisition Target: A Search Fund Buyer's Framework</Link></li>
+        </ul>
     </article>
   );
 }

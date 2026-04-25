@@ -99,6 +99,16 @@ export default function EmployeeCommunicationSellingArticle() {
         <li>SHRM, <em>Change Management During Ownership Transitions</em> (2024)</li>
         <li>Harvard Business Review, <em>Communicating Through Mergers &amp; Acquisitions</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">How to Prepare Your Business for Sale</Link></li>
+          <li><Link href="/learn/life-after-selling" className="text-apple-accent hover:underline">Life After Selling Your Business</Link></li>
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/culture-integration" className="text-apple-accent hover:underline">Culture Integration After Acquisition: Dos &amp; Don'ts</Link></li>
+          <li><Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">Succession Planning for Business Owners: Start 5 Years Early</Link></li>
+          <li><Link href="/learn/hiring-executive-team" className="text-apple-accent hover:underline">Hiring Your First Executive Team Post-Acquisition</Link></li>
+        </ul>
     </article>
   );
 }

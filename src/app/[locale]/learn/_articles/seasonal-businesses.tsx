@@ -107,6 +107,16 @@ export default function SeasonalBusinessesArticle() {
         <li>SBA, <em>Financing Seasonal Businesses Guide</em> (2024)</li>
         <li>Harvard Business Review, <em>Managing Cash Flow in Seasonal Businesses</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+          <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook Post-Acquisition</Link></li>
+          <li><Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">Financial Runway Planning for Search Fund Entrepreneurs</Link></li>
+          <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard for Post-Acquisition Management</Link></li>
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+        </ul>
     </article>
   );
 }

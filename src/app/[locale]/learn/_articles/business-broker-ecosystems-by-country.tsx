@@ -117,6 +117,16 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
         <li>CCI France, <em>Transentreprise Activity Report</em> (2024)</li>
         <li>DIHK, <em>German Business Succession Report</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">Cold Outreach to Business Owners: Scripts &amp; Strategies</Link></li>
+          <li><Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">Proprietary Deal Flow: How to Find Off-Market Businesses</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM (Confidential Information Memorandum)</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent (LOI): How to Draft &amp; Negotiate</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process: Timeline, Documents &amp; Wire Transfers</Link></li>
+          <li><Link href="/learn/linkedin-deal-sourcing" className="text-apple-accent hover:underline">LinkedIn for Deal Sourcing: Advanced Strategies</Link></li>
+        </ul>
     </article>
   );
 }

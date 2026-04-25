@@ -97,6 +97,16 @@ export default function CybersecurityPostAcquisitionArticle() {
         <li>Verizon, <em>Data Breach Investigations Report</em> (2024)</li>
         <li>NIST, <em>Cybersecurity Framework for Small Business</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/technology-due-diligence" className="text-apple-accent hover:underline">Technology Due Diligence: IT Systems, Cybersecurity &amp; Tech Debt</Link></li>
+          <li><Link href="/learn/sop-documentation" className="text-apple-accent hover:underline">Standard Operating Procedures (SOPs): Building Documentation</Link></li>
+          <li><Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">ERP Implementation After Acquisition: A Practical Guide</Link></li>
+          <li><Link href="/learn/process-improvement" className="text-apple-accent hover:underline">Process Improvement: Lean &amp; Six Sigma for Acquired Companies</Link></li>
+          <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard for Post-Acquisition Management</Link></li>
+          <li><Link href="/learn/crm-implementation" className="text-apple-accent hover:underline">Implementing a CRM System in Your Acquired Company</Link></li>
+        </ul>
     </article>
   );
 }

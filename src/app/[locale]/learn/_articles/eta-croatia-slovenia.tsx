@@ -99,6 +99,16 @@ export default function ETACroatiaSloveniaArticle() {
         <li>Croatian Chamber of Economy, <em>Business Climate Report</em> (2024)</li>
         <li>European Commission, <em>SBA Fact Sheets: Slovenia &amp; Croatia</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/eta-romania-bulgaria" className="text-apple-accent hover:underline">ETA in Romania &amp; Bulgaria</Link></li>
+          <li><Link href="/learn/eta-greece" className="text-apple-accent hover:underline">ETA in Greece: Emerging Opportunity</Link></li>
+          <li><Link href="/learn/eta-baltics" className="text-apple-accent hover:underline">ETA in the Baltics: Estonia, Latvia &amp; Lithuania</Link></li>
+          <li><Link href="/learn/eta-spain" className="text-apple-accent hover:underline">ETA in Spain &amp; Iberia: The Emerging Opportunity</Link></li>
+          <li><Link href="/learn/eta-nordics" className="text-apple-accent hover:underline">ETA in the Nordics: Scandinavia &amp; Finland</Link></li>
+          <li><Link href="/learn/foreign-investment-screening" className="text-apple-accent hover:underline">Foreign Investment Screening: FDI Rules by Country</Link></li>
+        </ul>
     </article>
   );
 }

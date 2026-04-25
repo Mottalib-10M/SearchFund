@@ -100,6 +100,16 @@ export default function PharmacyAcquisitionArticle() {
         <li>IQVIA, <em>US Prescription Market Overview</em> (2024)</li>
         <li>Drug Channels Institute, <em>Independent Pharmacy Economics</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/regulated-industries" className="text-apple-accent hover:underline">Acquiring Businesses in Regulated Industries</Link></li>
+          <li><Link href="/learn/business-licensing-permits" className="text-apple-accent hover:underline">Business Licensing &amp; Permits: What Transfers in an Acquisition?</Link></li>
+        </ul>
     </article>
   );
 }

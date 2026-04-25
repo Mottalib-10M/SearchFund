@@ -516,6 +516,16 @@ export default function QualityOfEarningsArticle() {
           <li>American Institute of CPAs (AICPA), <em>Transaction Advisory Standards and Practices</em> (2023)</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">Financial Due Diligence: What to Look For</Link></li>
+          <li><Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">Adjusted EBITDA: Add-Backs, Normalizations &amp; Red Flags</Link></li>
+          <li><Link href="/learn/red-flags-due-diligence" className="text-apple-accent hover:underline">Due Diligence Red Flags: Financial, Legal &amp; Operational Warning Signs</Link></li>
+          <li><Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">Interpreting Financial Statements for Acquisition Decisions</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure Optimization: Balancing Buyer &amp; Seller Interests</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent (LOI): How to Draft &amp; Negotiate</Link></li>
+        </ul>
     </article>
   );
 }

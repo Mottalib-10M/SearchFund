@@ -490,6 +490,16 @@ export default function EuropeanSearchFundResearchArticle() {
         <li>Stanford Graduate School of Business, <em>Search Fund Study</em> (2024)</li>
         <li>INSEAD, <em>Working Papers on European Search Funds and Investor Behavior</em> (2023)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/search-fund-statistics" className="text-apple-accent hover:underline">Search Fund Statistics: 681 Funds Analyzed</Link></li>
+          <li><Link href="/learn/international-vs-us-returns" className="text-apple-accent hover:underline">International vs. US Search Fund Returns</Link></li>
+          <li><Link href="/learn/search-fund-case-studies" className="text-apple-accent hover:underline">Search Fund Case Studies: Lessons from Real Deals</Link></li>
+          <li><Link href="/learn/search-fund-success-stories" className="text-apple-accent hover:underline">Famous Search Fund Success Stories</Link></li>
+          <li><Link href="/learn/search-fund-deal-characteristics" className="text-apple-accent hover:underline">Search Fund Deal Characteristics: What Gets Acquired</Link></li>
+          <li><Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">What Industries Are Best for Search Funds?</Link></li>
+        </ul>
     </article>
   );
 }

@@ -108,6 +108,16 @@ export default function LanguageCulturalConsiderationsArticle() {
         <li>IESE Business School, <em>Cross-Cultural Considerations in European Search Funds</em> (2024)</li>
         <li>European Commission, <em>Doing Business in Europe: Cultural Guide</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/building-trust-inherited-teams" className="text-apple-accent hover:underline">Building Trust with Inherited Teams: A New CEO's Guide</Link></li>
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/hiring-executive-team" className="text-apple-accent hover:underline">Hiring Your First Executive Team Post-Acquisition</Link></li>
+          <li><Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions: Legal &amp; Tax Guide for Search Fund Buyers</Link></li>
+          <li><Link href="/learn/foreign-investment-screening" className="text-apple-accent hover:underline">Foreign Investment Screening: FDI Rules by Country</Link></li>
+          <li><Link href="/learn/eta-france" className="text-apple-accent hover:underline">ETA in France: How to Acquire a Business</Link></li>
+        </ul>
     </article>
   );
 }

@@ -550,6 +550,16 @@ export default function SDEvsEBITDAArticle() {
           </li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">Adjusted EBITDA: Add-Backs, Normalizations &amp; Red Flags</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+          <li><Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">Financial Due Diligence: What to Look For</Link></li>
+          <li><Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">Interpreting Financial Statements for Acquisition Decisions</Link></li>
+          <li><Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">Comparable Transaction Analysis for SME Acquisitions</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM (Confidential Information Memorandum)</Link></li>
+        </ul>
     </article>
   );
 }

@@ -101,6 +101,16 @@ export default function ETAChinaArticle() {
         <li>MOFCOM, <em>Foreign Investment Statistical Report</em> (2024)</li>
         <li>PwC, <em>Doing Business in China Guide</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/eta-india" className="text-apple-accent hover:underline">ETA in India: The World's Largest SME Market</Link></li>
+          <li><Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">Cross-Border Acquisitions: Legal &amp; Tax Guide for Search Fund Buyers</Link></li>
+          <li><Link href="/learn/foreign-investment-screening" className="text-apple-accent hover:underline">Foreign Investment Screening: FDI Rules by Country</Link></li>
+          <li><Link href="/learn/language-cultural-considerations" className="text-apple-accent hover:underline">Language &amp; Cultural Considerations in European Acquisitions</Link></li>
+          <li><Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe: The Opportunity</Link></li>
+          <li><Link href="/learn/eta-us" className="text-apple-accent hover:underline">ETA in the US: The Original Search Fund Market</Link></li>
+        </ul>
     </article>
   );
 }

@@ -530,6 +530,16 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>Stanford GSB, <em>Revenue Growth Strategies for Search Fund CEOs</em> (2024)</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/sales-team-development" className="text-apple-accent hover:underline">Sales Team Development Post-Acquisition</Link></li>
+          <li><Link href="/learn/marketing-strategy-post-acquisition" className="text-apple-accent hover:underline">Marketing Strategy for Acquired Companies</Link></li>
+          <li><Link href="/learn/cross-selling-upselling" className="text-apple-accent hover:underline">Cross-Selling &amp; Upselling in Acquired Companies</Link></li>
+          <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard for Post-Acquisition Management</Link></li>
+          <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization: The Fastest Path to Profit Growth</Link></li>
+        </ul>
     </article>
   );
 }

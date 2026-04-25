@@ -481,6 +481,16 @@ export default function EcommerceAcquisitionArticle() {
           <li>Digital Commerce 360, <em>US E-commerce Market Report</em> (2024) &mdash; industry-wide data on e-commerce growth, return rates, and unit economics by category</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/amazon-fba-acquisition" className="text-apple-accent hover:underline">Acquiring an Amazon FBA Business</Link></li>
+          <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">Acquiring a SaaS Business: The Search Fund Playbook</Link></li>
+          <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses: The Most Attractive Verticals</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+          <li><Link href="/learn/asset-light-vs-asset-heavy" className="text-apple-accent hover:underline">Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs</Link></li>
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+        </ul>
     </article>
   );
 }

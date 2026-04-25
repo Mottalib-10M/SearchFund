@@ -473,6 +473,16 @@ export default function BuyAndBuildArticle() {
           <li>McKinsey &amp; Company, <em>Multiple Arbitrage in Private Equity Roll-Ups</em> (2024)</li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition &amp; Employee Communication</Link></li>
+          <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook Post-Acquisition</Link></li>
+          <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion After Acquisition</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+        </ul>
     </article>
   );
 }
