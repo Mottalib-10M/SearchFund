@@ -10,10 +10,10 @@ export default function AcquiringCleaningBusinessArticle() {
       <div className={bodyClass}>
         <p>
           The commercial and residential cleaning industry is one of the most
-          fragmented service sectors in the economy &mdash; and that
+          fragmented service sectors in the economy, and that
           fragmentation makes it an exceptionally attractive hunting ground for{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>.
-          With an estimated $90&ndash;$100 billion U.S. market spread across
+          With an estimated $90-$100 billion U.S. market spread across
           hundreds of thousands of small operators, cleaning businesses offer
           search fund buyers recurring revenue, low capital expenditure
           requirements, and clear operational levers for value creation. Yet
@@ -28,12 +28,12 @@ export default function AcquiringCleaningBusinessArticle() {
         <p>
           Commercial janitorial companies clean office buildings, medical
           facilities, schools, retail stores, and industrial spaces under
-          recurring contracts &mdash; often monthly or annual agreements with
+          recurring contracts, often monthly or annual agreements with
           automatic renewal clauses. This subsegment represents roughly 60% of
           the total market. Contract values range from $1,000 per month for a
           small office suite to $50,000+ per month for large campus accounts.
-          Well-managed commercial operators generate 80&ndash;90% of revenue
-          from recurring contracts &mdash; a level of predictability rare
+          Well-managed commercial operators generate 80-90% of revenue
+          from recurring contracts, a level of predictability rare
           outside of SaaS businesses.
         </p>
 
@@ -42,9 +42,9 @@ export default function AcquiringCleaningBusinessArticle() {
           Residential cleaning companies serve homeowners on a recurring
           (weekly, biweekly, or monthly) or one-time basis. Average ticket
           sizes range from $120 to $250 per visit. Customer churn tends to
-          be higher than commercial &mdash; typically 25&ndash;40% annually
-          &mdash; because switching costs are low. Gross margins are higher
-          (35&ndash;50%) than in commercial janitorial (20&ndash;30%) because
+          be higher than commercial, typically 25-40% annually
+          because switching costs are low. Gross margins are higher
+          (35-50%) than in commercial janitorial (20-30%) because
           residential pricing is less aggressively competitive.
         </p>
 
@@ -53,7 +53,7 @@ export default function AcquiringCleaningBusinessArticle() {
           This subsegment includes carpet and upholstery cleaning, window
           washing, post-construction cleanup, disaster restoration, and
           pressure washing. Specialty services command higher margins
-          (40&ndash;55% gross) because they require specialized equipment or
+          (40-55% gross) because they require specialized equipment or
           certifications. Many successful acquirers layer specialty services
           on top of a core janitorial platform as upsell and cross-sell
           offerings.
@@ -65,15 +65,15 @@ export default function AcquiringCleaningBusinessArticle() {
             <strong>Recurring revenue:</strong> Commercial contracts create
             predictable cash flows that support debt service and investor
             returns. A well-managed janitorial company may generate
-            80&ndash;90% of revenue from recurring contracts with average
-            customer tenure of 3&ndash;7 years.
+            80-90% of revenue from recurring contracts with average
+            customer tenure of 3-7 years.
           </li>
           <li>
             <strong>Low capital expenditure:</strong> Unlike{" "}
             <Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">home services</Link>{" "}
             companies that maintain expensive vehicle fleets, cleaning
             businesses require modest investment. Annual capex typically
-            runs at 2&ndash;4% of revenue.
+            runs at 2-4% of revenue.
           </li>
           <li>
             <strong>Labor-intensive model with operational upside:</strong>{" "}
@@ -85,7 +85,7 @@ export default function AcquiringCleaningBusinessArticle() {
             <strong>Extreme fragmentation:</strong> The top 50 cleaning
             companies hold less than 15% of U.S. market share. Most markets
             are served by hundreds of sub-$5M revenue operators with no
-            succession plan &mdash; a deep pipeline for{" "}
+            succession plan, a deep pipeline for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>.
           </li>
           <li>
@@ -109,7 +109,7 @@ export default function AcquiringCleaningBusinessArticle() {
           remaining term, renewal mechanism, termination notice period, and
           price escalation clauses. If a single client exceeds 15% of
           revenue or the top 5 exceed 40%, you face meaningful concentration
-          risk. Check average contract tenure &mdash; above 3 years signals
+          risk. Check average contract tenure, above 3 years signals
           strong service quality; under 18 months is a warning sign. Watch
           for &ldquo;change of control&rdquo; clauses that could allow
           customers to terminate upon acquisition.
@@ -141,8 +141,8 @@ export default function AcquiringCleaningBusinessArticle() {
         <p>
           Review floor machines, carpet extractors, pressure washers,
           commercial vacuums, and vehicles. Deferred equipment replacement
-          is common when sellers prepare for exit. Budget $15,000&ndash;$40,000
-          for immediate refresh in a typical $2M&ndash;$5M revenue company.
+          is common when sellers prepare for exit. Budget $15,000-$40,000
+          for immediate refresh in a typical $2M-$5M revenue company.
         </p>
 
         <h3 className={h3Class}>Insurance &amp; liability</h3>
@@ -151,34 +151,34 @@ export default function AcquiringCleaningBusinessArticle() {
           with access to sensitive areas. Review claims history for five
           years, verify general liability ($1M per occurrence, $2M aggregate),
           confirm workers&rsquo; comp policies are current, and check for a
-          janitorial bond (dishonesty/fidelity bond) &mdash; many commercial
+          janitorial bond (dishonesty/fidelity bond), many commercial
           clients require one as a contract condition.
         </p>
 
         <h2 className={h2Class}>Valuation multiples</h2>
         <ul className={ulClass}>
           <li>
-            <strong>2.5&ndash;4.0x SDE</strong> for small residential-only
-            businesses ($500K&ndash;$2M revenue) with heavy owner involvement.
+            <strong>2.5-4.0x SDE</strong> for small residential-only
+            businesses ($500K-$2M revenue) with heavy owner involvement.
           </li>
           <li>
-            <strong>3.5&ndash;5.5x EBITDA</strong> for established commercial
-            janitorial companies ($2M&ndash;$10M revenue) with a management
+            <strong>3.5-5.5x EBITDA</strong> for established commercial
+            janitorial companies ($2M-$10M revenue) with a management
             layer and diversified contract base.
           </li>
           <li>
-            <strong>5.0&ndash;7.0x EBITDA</strong> for larger platforms
+            <strong>5.0-7.0x EBITDA</strong> for larger platforms
             ($10M+ revenue) with institutional systems and strong recurring
-            revenue &mdash; the exit multiples that{" "}
+            revenue, the exit multiples that{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
             strategies target after consolidation.
           </li>
         </ul>
         <p>
           Cleaning businesses are labor-intensive with thin net margins
-          (typically 8&ndash;15% EBITDA). Scrutinize owner add-backs
+          (typically 8-15% EBITDA). Scrutinize owner add-backs
           carefully and reconcile reported EBITDA against tax returns and
-          bank statements. Seller financing of 10&ndash;20% of purchase
+          bank statements. Seller financing of 10-20% of purchase
           price is common and keeps the former owner aligned with a
           successful transition.
         </p>
@@ -214,7 +214,7 @@ export default function AcquiringCleaningBusinessArticle() {
           Janitorial Manager, Jobber) provides scheduling, GPS-based
           clock-in/clock-out, real-time quality inspection checklists,
           customer portals, and supply tracking. Technology implementation
-          typically saves 10&ndash;15% of labor costs through route
+          typically saves 10-15% of labor costs through route
           optimization and accountability.
         </p>
 
@@ -224,7 +224,7 @@ export default function AcquiringCleaningBusinessArticle() {
           customer satisfaction surveys after every inspection, photo
           documentation of completed work, and tiered response protocols for
           complaints. Companies that measure quality consistently achieve
-          15&ndash;25% lower customer churn than those relying solely on
+          15-25% lower customer churn than those relying solely on
           reactive complaint handling.
         </p>
 
@@ -235,7 +235,7 @@ export default function AcquiringCleaningBusinessArticle() {
           also need carpet cleaning, window washing, pressure washing, day
           porter services, and post-construction cleanup. A systematic
           upsell program can increase average revenue per account by
-          25&ndash;40% over two years. Our{" "}
+          25-40% over two years. Our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link>{" "}
           covers these expansion strategies in detail.
         </p>
@@ -254,8 +254,8 @@ export default function AcquiringCleaningBusinessArticle() {
         <p>
           Most sub-$5M cleaning businesses have flat structures where the
           owner manages everything. Scaling requires an operations manager,
-          area supervisors, and dedicated sales capacity &mdash; typically
-          $150,000&ndash;$300,000 annually. This investment transforms a
+          area supervisors, and dedicated sales capacity, typically
+          $150,000-$300,000 annually. This investment transforms a
           &ldquo;job&rdquo; into a &ldquo;business&rdquo; that commands
           premium exit multiples.
         </p>
@@ -265,9 +265,9 @@ export default function AcquiringCleaningBusinessArticle() {
           Many small cleaning companies underprice because the owner does
           not fully account for labor burden costs, supply costs, or
           required margin. A rigorous job-costing model often reveals that
-          10&ndash;20% of existing contracts are unprofitable.
+          10-20% of existing contracts are unprofitable.
           Systematically repricing or shedding those accounts can improve
-          EBITDA margins by 3&ndash;5 percentage points.
+          EBITDA margins by 3-5 percentage points.
         </p>
 
         <h2 className={h2Class}>The buy-and-build opportunity</h2>
@@ -275,11 +275,11 @@ export default function AcquiringCleaningBusinessArticle() {
           Cleaning is one of the best sectors for a{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategy</Link>{" "}
           because tuck-in acquisitions are abundant, inexpensive (often
-          2&ndash;3x SDE), and straightforward to integrate:
+          2-3x SDE), and straightforward to integrate:
         </p>
         <ol className={olClass}>
           <li>
-            Acquire a well-managed platform at 3.5&ndash;5x EBITDA with
+            Acquire a well-managed platform at 3.5-5x EBITDA with
             strong systems and a management team that can absorb growth.
           </li>
           <li>
@@ -295,14 +295,14 @@ export default function AcquiringCleaningBusinessArticle() {
             supplies with each tuck-in acquisition.
           </li>
           <li>
-            Build toward $8M&ndash;$15M in revenue and command 5&ndash;7x
+            Build toward $8M-$15M in revenue and command 5-7x
             EBITDA from strategic buyers or larger PE firms.
           </li>
         </ol>
         <p>
           The math is compelling: acquire a $200K EBITDA cleaning company at
-          3x ($600K), integrate it, cut $40K&ndash;$60K in duplicate costs,
-          and the effective multiple drops to 2.0&ndash;2.5x. Repeat three
+          3x ($600K), integrate it, cut $40K-$60K in duplicate costs,
+          and the effective multiple drops to 2.0-2.5x. Repeat three
           or four times and you build significant equity through
           consolidation alone.
         </p>
@@ -311,9 +311,9 @@ export default function AcquiringCleaningBusinessArticle() {
 
         <h3 className={h3Class}>Employee turnover</h3>
         <p>
-          Cleaning industry turnover often reaches 100&ndash;200% annually
+          Cleaning industry turnover often reaches 100-200% annually
           for frontline workers. Mitigation strategies include above-market
-          wages (even $1&ndash;$2 per hour above prevailing rates
+          wages (even $1-$2 per hour above prevailing rates
           dramatically reduces turnover), performance bonuses tied to
           attendance and quality, career advancement paths, and reliable
           scheduling that respects employees&rsquo; need for predictable
@@ -332,11 +332,11 @@ export default function AcquiringCleaningBusinessArticle() {
         <h3 className={h3Class}>Insurance &amp; liability exposure</h3>
         <p>
           Crews operating inside client facilities after hours create
-          inherent risk &mdash; theft allegations, property damage, and
+          inherent risk, theft allegations, property damage, and
           chemical exposure claims. Maintain strong coverage, require
           background checks, implement strict access control, and document
           site conditions with timestamped photos. Workers&rsquo;
-          compensation typically runs 4&ndash;8% of payroll; managing the
+          compensation typically runs 4-8% of payroll; managing the
           experience modification rate through safety programs is essential.
         </p>
 
@@ -345,7 +345,7 @@ export default function AcquiringCleaningBusinessArticle() {
           In many small cleaning businesses, critical customer relationships
           rest with the departing owner. Address this by identifying which
           accounts depend on the owner vs. the operational team, negotiating
-          a 6&ndash;12 month transition period, and systematically
+          a 6-12 month transition period, and systematically
           transferring relationship ownership through joint client visits.
         </p>
 
@@ -357,12 +357,12 @@ export default function AcquiringCleaningBusinessArticle() {
         <ol className={olClass}>
           <li>
             <strong>Higher contract values:</strong> A single commercial
-            contract generates $30,000&ndash;$500,000+ annually vs.
-            $3,000&ndash;$10,000 for a residential customer.
+            contract generates $30,000-$500,000+ annually vs.
+            $3,000-$10,000 for a residential customer.
           </li>
           <li>
             <strong>Lower churn:</strong> Commercial clients stay
-            3&ndash;7 years. Residential churn of 25&ndash;40% annually
+            3-7 years. Residential churn of 25-40% annually
             creates a treadmill.
           </li>
           <li>
@@ -385,17 +385,17 @@ export default function AcquiringCleaningBusinessArticle() {
           Cleaning businesses offer search fund entrepreneurs an accessible,
           high-fragmentation sector with strong recurring revenue and clear
           operational improvement levers. The ideal target is a commercial
-          janitorial company with $2M&ndash;$8M in revenue, a diversified
+          janitorial company with $2M-$8M in revenue, a diversified
           contract base with average tenure exceeding three years, a W-2
           employee model with site supervisors in place, and EBITDA margins
-          of 10&ndash;15% with room for improvement through pricing
+          of 10-15% with room for improvement through pricing
           discipline and technology adoption. Acquirers who stabilize the
           workforce, lock in key accounts, implement quality systems, and
           pursue disciplined{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
           acquisitions can build a platform that generates strong cash flow
           and commands premium exit multiples. The cleaning industry will
-          never be glamorous &mdash; but for searchers focused on
+          never be glamorous, but for searchers focused on
           fundamentals rather than flash, it remains one of the most
           compelling opportunities in ETA.
         </p>
@@ -405,22 +405,22 @@ export default function AcquiringCleaningBusinessArticle() {
         <h3 className={h3Class}>Should I target commercial or residential cleaning businesses?</h3>
         <p>
           Most search fund acquirers are better served by targeting commercial
-          janitorial businesses. Commercial contracts generate $30,000&ndash;$500,000+
-          annually per client versus $3,000&ndash;$10,000 for residential customers.
-          Commercial churn is far lower &mdash; clients stay 3&ndash;7 years versus
-          25&ndash;40% annual turnover in residential. Commercial cleaning also offers
+          janitorial businesses. Commercial contracts generate $30,000-$500,000+
+          annually per client versus $3,000-$10,000 for residential customers.
+          Commercial churn is far lower, clients stay 3-7 years versus
+          25-40% annual turnover in residential. Commercial cleaning also offers
           more scalable operations on predictable nightly schedules and commands higher
           exit multiples due to contract-based recurring revenue. That said, residential
           cleaning can be a lower-cost entry point for searchers who plan to build
-          toward commercial work over time, and higher gross margins (35&ndash;50% vs.
-          20&ndash;30% for commercial) can offset the higher churn if managed well.
+          toward commercial work over time, and higher gross margins (35-50% vs.
+          20-30% for commercial) can offset the higher churn if managed well.
         </p>
 
         <h3 className={h3Class}>How do I manage the high turnover rate in cleaning businesses?</h3>
         <p>
-          Cleaning industry turnover often reaches 100&ndash;200% annually for
+          Cleaning industry turnover often reaches 100-200% annually for
           frontline workers, making workforce management the central operational
-          challenge. Effective strategies include paying $1&ndash;$2 per hour above
+          challenge. Effective strategies include paying $1-$2 per hour above
           prevailing market rates (which dramatically reduces turnover at modest cost),
           offering performance bonuses tied to attendance and quality scores, providing
           predictable and reliable scheduling, and creating career advancement paths
@@ -433,13 +433,13 @@ export default function AcquiringCleaningBusinessArticle() {
 
         <h3 className={h3Class}>What are the typical EBITDA margins for a cleaning business?</h3>
         <p>
-          EBITDA margins in cleaning are thin relative to many service sectors &mdash;
-          typically 8&ndash;15% for commercial janitorial and 12&ndash;18% for
-          residential cleaning. Labor represents 55&ndash;65% of revenue, making
+          EBITDA margins in cleaning are thin relative to many service sectors , 
+          typically 8-15% for commercial janitorial and 12-18% for
+          residential cleaning. Labor represents 55-65% of revenue, making
           payroll management the primary margin lever. Post-acquisition, the most
           impactful margin improvement strategies include rigorous job costing to
-          identify and reprice or shed unprofitable contracts (often 10&ndash;20% of
-          the book), technology implementation that saves 10&ndash;15% of labor costs
+          identify and reprice or shed unprofitable contracts (often 10-20% of
+          the book), technology implementation that saves 10-15% of labor costs
           through route optimization, and{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
           consolidation that eliminates duplicate overhead and improves purchasing power.
@@ -448,13 +448,13 @@ export default function AcquiringCleaningBusinessArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <strong>IBISWorld</strong> &mdash; &ldquo;Janitorial Services Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+            <strong>IBISWorld</strong>, &ldquo;Janitorial Services Industry in the US, Market Research Report,&rdquo; 2024.
           </li>
           <li>
-            <strong>ISSA (The Worldwide Cleaning Industry Association)</strong> &mdash; &ldquo;Cleaning Industry Market Size &amp; Benchmarking Study,&rdquo; 2024.
+            <strong>ISSA (The Worldwide Cleaning Industry Association)</strong>: &ldquo;Cleaning Industry Market Size &amp; Benchmarking Study,&rdquo; 2024.
           </li>
           <li>
-            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Janitors and Building Cleaners,&rdquo; 2024.
+            <strong>Bureau of Labor Statistics</strong>: &ldquo;Occupational Outlook Handbook: Janitors and Building Cleaners,&rdquo; 2024.
           </li>
         </ul>
       </div>

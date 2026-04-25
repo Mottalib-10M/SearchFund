@@ -12,7 +12,7 @@ export default function QualityOfEarningsArticle() {
           A Quality of Earnings analysis is the single most important piece of
           financial <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> in any search fund acquisition. It separates
           real, sustainable cash flow from accounting noise, owner adjustments,
-          and one-time anomalies. For deals in the $1M&ndash;$5M EBITDA range
+          and one-time anomalies. For deals in the $1M-$5M EBITDA range
           typical of search fund acquisitions, a well-executed QoE can be the
           difference between a great investment and a catastrophic one. This
           guide covers everything you need to know about commissioning,
@@ -130,7 +130,7 @@ export default function QualityOfEarningsArticle() {
         <h2 className={h2Class}>Common EBITDA adjustments in SME acquisitions</h2>
         <p>
           In a typical search fund deal, adjusted EBITDA can differ from
-          reported EBITDA by 20&ndash;50%. Here are the adjustments you will
+          reported EBITDA by 20-50%. Here are the adjustments you will
           encounter most frequently.
         </p>
 
@@ -142,7 +142,7 @@ export default function QualityOfEarningsArticle() {
           purposes. A QoE provider will benchmark owner compensation against
           market data, typically using sources like Salary.com, Payscale, or
           industry-specific surveys. In a $3M EBITDA business, owner
-          compensation adjustments of $200K&ndash;$500K are common.
+          compensation adjustments of $200K-$500K are common.
         </p>
 
         <h3 className={h3Class}>Related-party transactions</h3>
@@ -204,7 +204,7 @@ export default function QualityOfEarningsArticle() {
           </li>
           <li>
             <strong>Unusually high add-backs.</strong> If add-backs exceed
-            40&ndash;50% of reported EBITDA, something is likely wrong. Either
+            40-50% of reported EBITDA, something is likely wrong. Either
             the business is genuinely poorly managed (risky) or the seller is
             inflating adjustments (deceptive).
           </li>
@@ -235,11 +235,11 @@ export default function QualityOfEarningsArticle() {
           irreplaceable for a first-time buyer.
         </p>
         <p>
-          That said, there are levels of QoE analysis. For a $1M&ndash;$2M
+          That said, there are levels of QoE analysis. For a $1M-$2M
           enterprise value deal, you might use a smaller regional CPA firm that
-          charges $15K&ndash;$25K. For a $5M+ deal, you want a dedicated
-          transaction advisory firm, and the cost will be $30K&ndash;$60K. At
-          the top end, Big Four firms charge $75K&ndash;$150K+ for QoE work on
+          charges $15K-$25K. For a $5M+ deal, you want a dedicated
+          transaction advisory firm, and the cost will be $30K-$60K. At
+          the top end, Big Four firms charge $75K-$150K+ for QoE work on
           larger transactions, but this is overkill for typical search fund
           deals.
         </p>
@@ -247,7 +247,7 @@ export default function QualityOfEarningsArticle() {
         <h3 className={h3Class}>What to look for in a QoE provider</h3>
         <ul className={ulClass}>
           <li>
-            Experience with SME transactions in the $1M&ndash;$10M EBITDA
+            Experience with SME transactions in the $1M-$10M EBITDA
             range. Big Four teams accustomed to $100M+ deals often miss the
             nuances of small business accounting.
           </li>
@@ -279,27 +279,27 @@ export default function QualityOfEarningsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>$1M&ndash;$3M enterprise value:</strong> $15K&ndash;$30K
+            <strong>$1M-$3M enterprise value:</strong> $15K-$30K
             from a regional CPA or boutique transaction advisory firm.
           </li>
           <li>
-            <strong>$3M&ndash;$10M enterprise value:</strong> $25K&ndash;$50K
+            <strong>$3M-$10M enterprise value:</strong> $25K-$50K
             from a mid-market transaction advisory firm.
           </li>
           <li>
-            <strong>$10M&ndash;$25M enterprise value:</strong> $40K&ndash;$75K
+            <strong>$10M-$25M enterprise value:</strong> $40K-$75K
             from a national firm with dedicated transaction advisory.
           </li>
           <li>
             <strong>Additional costs:</strong> legal review of QoE findings
-            ($5K&ndash;$10K), tax due diligence if done separately ($10K&ndash;
-            $20K), environmental or IT assessments ($5K&ndash;$15K each).
+            ($5K-$10K), tax due diligence if done separately ($10K-
+            $20K), environmental or IT assessments ($5K-$15K each).
           </li>
         </ul>
 
         <h2 className={h2Class}>QoE report structure and what each section tells you</h2>
         <p>
-          A thorough QoE report typically runs 40&ndash;80 pages and follows a
+          A thorough QoE report typically runs 40-80 pages and follows a
           standard structure. Understanding each section helps you extract
           maximum value from the analysis.
         </p>
@@ -357,22 +357,22 @@ export default function QualityOfEarningsArticle() {
             customer lists, vendor lists, payroll records, and more.
           </li>
           <li>
-            <strong>Week 2&ndash;3:</strong> The QoE team reviews documents,
+            <strong>Week 2-3:</strong> The QoE team reviews documents,
             builds their model, and prepares a preliminary list of questions.
-            Expect 50&ndash;150 follow-up questions to the seller.
+            Expect 50-150 follow-up questions to the seller.
           </li>
           <li>
-            <strong>Week 3&ndash;4:</strong> On-site visit (one to two days) to
+            <strong>Week 3-4:</strong> On-site visit (one to two days) to
             interview the owner, review physical records, observe operations,
             and tie out data.
           </li>
           <li>
-            <strong>Week 4&ndash;5:</strong> Draft report issued to you for
+            <strong>Week 4-5:</strong> Draft report issued to you for
             review. This is your opportunity to ask questions, request
             additional analysis, and flag areas that need deeper investigation.
           </li>
           <li>
-            <strong>Week 5&ndash;6:</strong> Final report delivered,
+            <strong>Week 5-6:</strong> Final report delivered,
             incorporating your feedback and any additional findings from the
             on-site visit. The QoE provider should present their findings to
             you in a one-to-two hour call.
@@ -401,7 +401,7 @@ export default function QualityOfEarningsArticle() {
             QoE reveals customer concentration, declining trends, or
             aggressive accounting, you can argue for a lower multiple even if
             EBITDA holds up. A business with 35% customer concentration might
-            warrant 3.5&ndash;4x instead of 4.5&ndash;5x.
+            warrant 3.5-4x instead of 4.5-5x.
           </li>
           <li>
             <strong>Identified risks can be allocated to the seller.</strong>{" "}
@@ -419,14 +419,14 @@ export default function QualityOfEarningsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Owner perks:</strong> company cars ($15K&ndash;$30K/year),
-            personal travel ($10K&ndash;$50K/year), club memberships ($5K&ndash;
-            $20K/year), personal insurance ($10K&ndash;$25K/year), and home
+            <strong>Owner perks:</strong> company cars ($15K-$30K/year),
+            personal travel ($10K-$50K/year), club memberships ($5K-
+            $20K/year), personal insurance ($10K-$25K/year), and home
             office expenses routed through the business.
           </li>
           <li>
             <strong>Family payroll:</strong> children or spouses on the payroll
-            with minimal responsibilities. A common add-back of $50K&ndash;
+            with minimal responsibilities. A common add-back of $50K-
             $150K in total.
           </li>
           <li>
@@ -436,7 +436,7 @@ export default function QualityOfEarningsArticle() {
           </li>
           <li>
             <strong>Deferred maintenance:</strong> an owner preparing to sell
-            may defer $50K&ndash;$200K in annual maintenance spending, inflating
+            may defer $50K-$200K in annual maintenance spending, inflating
             near-term EBITDA but creating a liability for the buyer.
           </li>
           <li>
@@ -447,7 +447,7 @@ export default function QualityOfEarningsArticle() {
           </li>
           <li>
             <strong>Key person insurance:</strong> adding key person insurance
-            for the new CEO and critical employees may cost $5K&ndash;$15K
+            for the new CEO and critical employees may cost $5K-$15K
             annually, which should be modeled as a go-forward expense.
           </li>
         </ul>
@@ -488,7 +488,7 @@ export default function QualityOfEarningsArticle() {
           A Quality of Earnings analysis is not just a due diligence checkbox.
           It is the foundation of your entire acquisition thesis, your
           negotiation use, and your post-close financial baseline. Invest
-          in the right provider &mdash; our guide on <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> covers how to select the right professionals &mdash; engage deeply with the process, and use the
+          in the right provider, our guide on <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> covers how to select the right professionals, engage deeply with the process, and use the
           findings to make a confident, informed acquisition decision.
         </p>
 
@@ -496,17 +496,17 @@ export default function QualityOfEarningsArticle() {
 
         <h3 className={h3Class}>How much does a Quality of Earnings report cost?</h3>
         <p>
-          QoE costs scale with deal size and complexity. For search fund acquisitions in the $1&ndash;3 million enterprise value range, expect to pay $15,000&ndash;$30,000 from a regional CPA or boutique transaction advisory firm. For deals in the $3&ndash;10 million range, mid-market transaction advisory firms typically charge $25,000&ndash;$50,000. Larger transactions ($10&ndash;25 million) cost $40,000&ndash;$75,000 from national firms with dedicated transaction advisory teams. According to Deloitte and other major accounting firms, the QoE cost typically represents less than 1% of enterprise value and is one of the highest-ROI investments in the deal process &mdash; a well-executed QoE frequently identifies EBITDA adjustments of 10&ndash;30% below the seller&rsquo;s claimed figure, translating to purchase price reductions that are multiples of the QoE fee.
+          QoE costs scale with deal size and complexity. For search fund acquisitions in the $1-3 million enterprise value range, expect to pay $15,000-$30,000 from a regional CPA or boutique transaction advisory firm. For deals in the $3-10 million range, mid-market transaction advisory firms typically charge $25,000-$50,000. Larger transactions ($10-25 million) cost $40,000-$75,000 from national firms with dedicated transaction advisory teams. According to Deloitte and other major accounting firms, the QoE cost typically represents less than 1% of enterprise value and is one of the highest-ROI investments in the deal process, a well-executed QoE frequently identifies EBITDA adjustments of 10-30% below the seller&rsquo;s claimed figure, translating to purchase price reductions that are multiples of the QoE fee.
         </p>
 
         <h3 className={h3Class}>What is the difference between a QoE and an audit?</h3>
         <p>
-          An audit confirms that financial statements conform to GAAP or IFRS accounting standards &mdash; it verifies that the numbers are accurately reported. A Quality of Earnings analysis goes significantly further: it stress-tests whether reported EBITDA is a reliable proxy for future cash flow by normalizing owner compensation, identifying non-recurring items, evaluating revenue quality, and establishing a working capital target. According to the American Institute of CPAs, an audit provides an opinion on historical financial statement accuracy, while a QoE provides forward-looking analysis of earnings sustainability. For acquisition purposes, a business can have clean audited financial statements and still have materially overstated sustainable earnings due to above-market owner compensation, below-market related-party rent, deferred maintenance, or aggressive revenue recognition. The QoE is specifically designed to uncover these issues.
+          An audit confirms that financial statements conform to GAAP or IFRS accounting standards, it verifies that the numbers are accurately reported. A Quality of Earnings analysis goes significantly further: it stress-tests whether reported EBITDA is a reliable proxy for future cash flow by normalizing owner compensation, identifying non-recurring items, evaluating revenue quality, and establishing a working capital target. According to the American Institute of CPAs, an audit provides an opinion on historical financial statement accuracy, while a QoE provides forward-looking analysis of earnings sustainability. For acquisition purposes, a business can have clean audited financial statements and still have materially overstated sustainable earnings due to above-market owner compensation, below-market related-party rent, deferred maintenance, or aggressive revenue recognition. The QoE is specifically designed to uncover these issues.
         </p>
 
         <h3 className={h3Class}>How long does a Quality of Earnings analysis take?</h3>
         <p>
-          A typical QoE engagement takes 4&ndash;6 weeks from the date the provider is engaged to the delivery of the final report. Week 1 involves engagement letter execution and initial document requests (the seller provides 3&ndash;5 years of financial statements, tax returns, bank statements, and detailed schedules). Weeks 2&ndash;3 are spent on document review, model building, and preparation of 50&ndash;150 follow-up questions. Weeks 3&ndash;4 include a 1&ndash;2 day on-site visit for management interviews and data verification. Weeks 4&ndash;5 produce the draft report, and weeks 5&ndash;6 finalize the report after buyer review and additional analysis. According to leading transaction advisory firms, the most common cause of delays is slow document production from the seller &mdash; establishing clear expectations with the seller&rsquo;s team about response times at the outset can save 1&ndash;2 weeks.
+          A typical QoE engagement takes 4-6 weeks from the date the provider is engaged to the delivery of the final report. Week 1 involves engagement letter execution and initial document requests (the seller provides 3-5 years of financial statements, tax returns, bank statements, and detailed schedules). Weeks 2-3 are spent on document review, model building, and preparation of 50-150 follow-up questions. Weeks 3-4 include a 1-2 day on-site visit for management interviews and data verification. Weeks 4-5 produce the draft report, and weeks 5-6 finalize the report after buyer review and additional analysis. According to leading transaction advisory firms, the most common cause of delays is slow document production from the seller, establishing clear expectations with the seller&rsquo;s team about response times at the outset can save 1-2 weeks.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

@@ -11,7 +11,7 @@ export default function DayOneAnnouncementArticle() {
         <p>
           Voluntary turnover spikes to 20% the moment a merger or acquisition is announced, according to{" "}
           <a href="https://www.gallup.com/workplace/267494/stop-losing-talent-merge-acquire.aspx" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Gallup research</a>
-          , and the most talented employees are consistently the first to leave. Your Day 1 announcement &mdash; the words you choose, the order you reach each audience, the tone you set &mdash; is the single highest-use action you will take as a new owner. This guide gives you the exact scripts, email templates, and stakeholder-by-stakeholder playbook to get it right, drawn from real acquisition handoffs and research-backed communication frameworks.
+          , and the most talented employees are consistently the first to leave. Your Day 1 announcement, the words you choose, the order you reach each audience, the tone you set, is the single highest-use action you will take as a new owner. This guide gives you the exact scripts, email templates, and stakeholder-by-stakeholder playbook to get it right, drawn from real acquisition handoffs and research-backed communication frameworks.
         </p>
       </div>
 
@@ -21,7 +21,7 @@ export default function DayOneAnnouncementArticle() {
         <p>
           Employee psychology during ownership transitions follows a predictable pattern. A{" "}
           <a href="https://news.gallup.com/businessjournal/142859/right.aspx" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Gallup study of 10 high-profile M&amp;A transactions</a>{" "}
-          found that engagement dropped an average of 14% during the transition period. Acquired firms lose four out of ten managers within the first 24 months &mdash; triple the turnover rate of non-acquired companies. An EY analysis pushed the numbers even higher: 47% average employee turnover in year one, rising to 75% within three years.
+          found that engagement dropped an average of 14% during the transition period. Acquired firms lose four out of ten managers within the first 24 months, triple the turnover rate of non-acquired companies. An EY analysis pushed the numbers even higher: 47% average employee turnover in year one, rising to 75% within three years.
         </p>
         <p>
           The root cause is not dissatisfaction with the new owner. It is <strong>uncertainty</strong>. Employees who hear nothing fill the silence with worst-case scenarios: layoffs, pay cuts, culture demolition. Research from the{" "}
@@ -41,15 +41,15 @@ export default function DayOneAnnouncementArticle() {
         <p>
           Experienced acquirers treat Day 1 communication as a project that begins at least two weeks before the legal close. The{" "}
           <a href="https://www.kornferry.com/insights/featured-topics/organizational-transformation/mergers-and-acquisitions-day-one-checklist" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Korn Ferry Day One Readiness Checklist</a>{" "}
-          recommends never scheduling Day 1 events on the same day as the legal close &mdash; too many last-minute issues can derail your careful plans. Here is a condensed pre-close communication checklist:
+          recommends never scheduling Day 1 events on the same day as the legal close, too many last-minute issues can derail your careful plans. Here is a condensed pre-close communication checklist:
         </p>
         <ol className={olClass}>
           <li><strong>T-14 days: Draft all announcements.</strong> Write your all-hands script, customer letter, vendor email, and social media post. Have your attorney review each for regulatory compliance.</li>
           <li><strong>T-10 days: Coordinate with the seller.</strong> Script the seller&rsquo;s introduction and endorsement. Rehearse the handoff. Agree on who says what, in what order.</li>
-          <li><strong>T-7 days: Brief key managers confidentially.</strong> Identify the 2&ndash;4 people whose departure would hurt most (your{" "}
+          <li><strong>T-7 days: Brief key managers confidentially.</strong> Identify the 2-4 people whose departure would hurt most (your{" "}
             <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">employee retention</Link>{" "}
             priority list). Brief them under NDA so they can help manage their teams&rsquo; reactions on Day 1.</li>
-          <li><strong>T-3 days: Logistics.</strong> Book a meeting room that fits the entire team. Order catering &mdash; one acquirer described ordering barbecue for everyone before the announcement, per an{" "}
+          <li><strong>T-3 days: Logistics.</strong> Book a meeting room that fits the entire team. Order catering, one acquirer described ordering barbecue for everyone before the announcement, per an{" "}
             <a href="https://acquira.com/how-to-announce-the-sale-of-a-company-to-its-employees/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Acquira case study</a>
             . Prepare printed FAQ handouts. Pre-schedule customer emails in your CRM to send the moment the all-hands meeting ends.</li>
           <li><strong>T-1 day: Red-team your plan.</strong> Walk through the full Day 1 schedule minute by minute with your advisor or board member. What if the seller gets emotional? What if an employee asks about layoffs? Script your answers to the five hardest questions.</li>
@@ -65,19 +65,19 @@ export default function DayOneAnnouncementArticle() {
       <h2 className={h2Class}>The All-Hands Meeting Script: What to Say (and What Not to Say)</h2>
       <div className={bodyClass}>
         <p>
-          The in-person all-hands meeting is the centerpiece of Day 1. Every employee should hear the news directly from leadership &mdash; never from a customer, a vendor, or the local newspaper. Below is a structured script based on frameworks from{" "}
+          The in-person all-hands meeting is the centerpiece of Day 1. Every employee should hear the news directly from leadership, never from a customer, a vendor, or the local newspaper. Below is a structured script based on frameworks from{" "}
           <a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/communications-in-mergers-the-glue-that-holds-everything-together" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">McKinsey&rsquo;s M&amp;A communications research</a>{" "}
           and real search fund transitions.
         </p>
 
-        <h3 className={h3Class}>Part 1: The Seller&rsquo;s Introduction (3&ndash;5 minutes)</h3>
+        <h3 className={h3Class}>Part 1: The Seller&rsquo;s Introduction (3-5 minutes)</h3>
         <p>
           The departing owner speaks first. Their endorsement carries more weight than anything you can say about yourself. The seller should cover three points:
         </p>
         <ul className={ulClass}>
           <li><strong>Why this buyer:</strong> &ldquo;I turned down several offers because those buyers didn&rsquo;t have the best interest of this company in mind. I chose [Name] because their values align with what we&rsquo;ve built together.&rdquo;</li>
           <li><strong>Confidence in the future:</strong> &ldquo;I would not hand this company to someone I didn&rsquo;t trust to take care of you and our customers.&rdquo;</li>
-          <li><strong>Continued presence (if applicable):</strong> &ldquo;I&rsquo;ll be staying on for the next [3&ndash;6] months to make sure the transition is smooth.&rdquo;</li>
+          <li><strong>Continued presence (if applicable):</strong> &ldquo;I&rsquo;ll be staying on for the next [3-6] months to make sure the transition is smooth.&rdquo;</li>
         </ul>
         <p>
           If the seller&rsquo;s involvement post-close is unclear, read more about structuring that period in our guide to the{" "}
@@ -85,21 +85,21 @@ export default function DayOneAnnouncementArticle() {
           transition.
         </p>
 
-        <h3 className={h3Class}>Part 2: Your Introduction (5&ndash;7 minutes)</h3>
+        <h3 className={h3Class}>Part 2: Your Introduction (5-7 minutes)</h3>
         <p>
           Keep this personal, not corporate. Employees want to know who you are as a person before they care about your &ldquo;strategic vision.&rdquo; A script outline:
         </p>
         <ul className={ulClass}>
           <li><strong>Who you are:</strong> Share your background in plain language. Where you grew up, your family, what you did before this. Two minutes maximum.</li>
           <li><strong>Why this business:</strong> Be specific. &ldquo;I spent 18 months looking at companies across the country. I chose this one because of your reputation, your team, and the quality of what you deliver.&rdquo;</li>
-          <li><strong>The stability commitment:</strong> &ldquo;Your jobs, your pay, your benefits &mdash; nothing is changing today. I&rsquo;m not here to tear things apart. I&rsquo;m here because what you&rsquo;ve built is worth investing in.&rdquo;</li>
+          <li><strong>The stability commitment:</strong> &ldquo;Your jobs, your pay, your benefits, nothing is changing today. I&rsquo;m not here to tear things apart. I&rsquo;m here because what you&rsquo;ve built is worth investing in.&rdquo;</li>
           <li><strong>The listening commitment:</strong> &ldquo;My plan for the next 90 days is simple: listen and learn. I need each of you to teach me how this business really works. You are the experts, not me.&rdquo;</li>
-          <li><strong>Open door:</strong> &ldquo;My phone number is on the handout. My door is open. If you have a question, a concern, or an idea &mdash; come to me directly.&rdquo;</li>
+          <li><strong>Open door:</strong> &ldquo;My phone number is on the handout. My door is open. If you have a question, a concern, or an idea, come to me directly.&rdquo;</li>
         </ul>
 
-        <h3 className={h3Class}>Part 3: Open Q&amp;A (10&ndash;15 minutes)</h3>
+        <h3 className={h3Class}>Part 3: Open Q&amp;A (10-15 minutes)</h3>
         <p>
-          Actively invite questions. If the room is quiet, the Acquira case study recommends the seller prod people: &ldquo;Come on, I know you have questions &mdash; speak up.&rdquo; After the formal Q&amp;A, break into smaller groups so people can approach you informally. Walk around, shake hands, learn names. This is where real trust begins.
+          Actively invite questions. If the room is quiet, the Acquira case study recommends the seller prod people: &ldquo;Come on, I know you have questions, speak up.&rdquo; After the formal Q&amp;A, break into smaller groups so people can approach you informally. Walk around, shake hands, learn names. This is where real trust begins.
         </p>
 
         <h3 className={h3Class}>What NOT to Say on Day 1</h3>
@@ -123,7 +123,7 @@ export default function DayOneAnnouncementArticle() {
         <p>
           Different audiences need different messages, delivered in a specific sequence.{" "}
           <a href="https://www.mckinsey.com/locations/mckinsey-client-capabilities-network/our-work/strategic-and-change-communications/the-communications-exchange/customer-first-communications-five-ways-to-strengthen-relationships-during-m-and-a" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">McKinsey&rsquo;s customer-first communications framework</a>{" "}
-          recommends the top 20&ndash;30 revenue-generating customers receive direct, personalized engagement from senior leadership. Below are templates for each audience.
+          recommends the top 20-30 revenue-generating customers receive direct, personalized engagement from senior leadership. Below are templates for each audience.
         </p>
 
         <h3 className={h3Class}>Customer Email Template (Send Within 24 Hours of Close)</h3>
@@ -132,18 +132,18 @@ export default function DayOneAnnouncementArticle() {
         </p>
         <p><em>
           &ldquo;Dear [Customer Name],<br /><br />
-          I&rsquo;m writing to share some important news. After [X] years of leading [Company Name], I have transitioned ownership to [New Owner Name]. This was not a decision I made lightly &mdash; I spent considerable time finding someone who shares our commitment to the quality and service you&rsquo;ve come to expect.<br /><br />
+          I&rsquo;m writing to share some important news. After [X] years of leading [Company Name], I have transitioned ownership to [New Owner Name]. This was not a decision I made lightly, I spent considerable time finding someone who shares our commitment to the quality and service you&rsquo;ve come to expect.<br /><br />
           [New Owner Name] brings [brief relevant background]. Their investment in [Company Name] means more resources dedicated to serving you better.<br /><br />
           What this means for you: the same team, the same quality, the same commitment. Your point of contact remains [Name/Role]. If you ever need anything, you can also reach [New Owner] directly at [phone] or [email].<br /><br />
           Thank you for your continued trust.<br /><br />
           [Seller Name] &amp; [New Owner Name]&rdquo;
         </em></p>
         <p>
-          For your top 10&ndash;20 accounts, do not rely on this email alone. Call them personally within the first three days or, better, visit in person within the first week. Protecting these relationships is the core of your{" "}
+          For your top 10-20 accounts, do not rely on this email alone. Call them personally within the first three days or, better, visit in person within the first week. Protecting these relationships is the core of your{" "}
           <Link href="/learn/customer-retention-post-acquisition" className="text-apple-accent hover:underline">customer retention strategy</Link>.
         </p>
 
-        <h3 className={h3Class}>Vendor &amp; Supplier Notification (Send Within 48&ndash;72 Hours)</h3>
+        <h3 className={h3Class}>Vendor &amp; Supplier Notification (Send Within 48-72 Hours)</h3>
         <p><em>
           &ldquo;Dear [Vendor Name],<br /><br />
           I&rsquo;m writing to introduce myself as the new owner of [Company Name], effective [Date]. [Seller Name] has transitioned the business to me, and I want to assure you that our existing agreements, payment terms, and open orders remain unchanged.<br /><br />
@@ -173,8 +173,8 @@ export default function DayOneAnnouncementArticle() {
         </p>
         <ol className={olClass}>
           <li><strong>Public endorsement at the all-hands.</strong> The seller speaks first, introduces you, and explicitly states why they chose you over other buyers.</li>
-          <li><strong>Joint visibility in the first 2&ndash;4 weeks.</strong> The seller and buyer should be seen together &mdash; in meetings, walking the floor, visiting customers. This visual continuity signals that the change is collaborative, not hostile.</li>
-          <li><strong>Gradual withdrawal over 3&ndash;6 months.</strong> The Acquira framework recommends a 3&ndash;6 month seller retention period (up to 12 months for SBA-financed deals). The seller gradually shifts from active operator to advisor to occasional consultant.</li>
+          <li><strong>Joint visibility in the first 2-4 weeks.</strong> The seller and buyer should be seen together, in meetings, walking the floor, visiting customers. This visual continuity signals that the change is collaborative, not hostile.</li>
+          <li><strong>Gradual withdrawal over 3-6 months.</strong> The Acquira framework recommends a 3-6 month seller retention period (up to 12 months for SBA-financed deals). The seller gradually shifts from active operator to advisor to occasional consultant.</li>
         </ol>
         <p>
           Negotiate these transition terms during the deal, not after. If the seller plans to disappear the day after closing, you need to know that before you draft your Day 1 script, because the messaging changes significantly. See our full treatment of{" "}
@@ -227,13 +227,13 @@ export default function DayOneAnnouncementArticle() {
 
         <p><strong>Day 2:</strong></p>
         <ul className={ulClass}>
-          <li>Personal calls to customers 6&ndash;20</li>
+          <li>Personal calls to customers 6-20</li>
           <li>Vendor notification emails sent</li>
           <li>Begin scheduling one-on-one meetings with every employee (aim to complete within 14 days)</li>
           <li>Sit with the seller to review the immediate operational calendar: payroll dates, deliverables due, contracts expiring</li>
         </ul>
 
-        <p><strong>Day 3&ndash;4:</strong></p>
+        <p><strong>Day 3-4:</strong></p>
         <ul className={ulClass}>
           <li>Start one-on-one meetings, beginning with the most senior employees and the most anxious (your pre-close manager briefings will tell you who)</li>
           <li>Each one-on-one should cover five questions: What is your role? What works well? What would you change? What do you need? What concerns you about this transition?</li>
@@ -242,7 +242,7 @@ export default function DayOneAnnouncementArticle() {
 
         <p><strong>Day 5:</strong></p>
         <ul className={ulClass}>
-          <li>Send a brief, warm follow-up email to all employees: &ldquo;Thank you for an incredible first week. Here&rsquo;s what I&rsquo;ve learned so far...&rdquo; Share 2&ndash;3 specific positive observations.</li>
+          <li>Send a brief, warm follow-up email to all employees: &ldquo;Thank you for an incredible first week. Here&rsquo;s what I&rsquo;ve learned so far...&rdquo; Share 2-3 specific positive observations.</li>
           <li>Review the week with the seller: What went well? What concerns surfaced? Who needs extra attention?</li>
           <li>Begin drafting your{" "}
             <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days plan</Link>{" "}
@@ -250,7 +250,7 @@ export default function DayOneAnnouncementArticle() {
         </ul>
 
         <p>
-          The one-on-one meetings deserve special emphasis. Schedule 30&ndash;60 minutes per person. Do not take a laptop &mdash; bring a notebook and give them your full attention. These conversations are your richest source of operational intelligence, and they signal that you value each person individually. For a deeper framework on these conversations, see our guide on{" "}
+          The one-on-one meetings deserve special emphasis. Schedule 30-60 minutes per person. Do not take a laptop, bring a notebook and give them your full attention. These conversations are your richest source of operational intelligence, and they signal that you value each person individually. For a deeper framework on these conversations, see our guide on{" "}
           <Link href="/learn/building-trust-teams" className="text-apple-accent hover:underline">building trust with inherited teams</Link>.
         </p>
       </div>
@@ -282,7 +282,7 @@ export default function DayOneAnnouncementArticle() {
 
         <h3 className={h3Class}>How much of my background should I share with employees?</h3>
         <p>
-          Enough to be a real person, not enough to be a resume. Employees want to know you are competent, but they care more about whether you are trustworthy and decent. Share where you are from, what drew you to this business specifically, and one or two personal details (family, hobbies, how you spend weekends). Skip the MBA bullet points and the list of companies you have worked at. Authenticity matters more than credentials &mdash; a finding consistent with{" "}
+          Enough to be a real person, not enough to be a resume. Employees want to know you are competent, but they care more about whether you are trustworthy and decent. Share where you are from, what drew you to this business specifically, and one or two personal details (family, hobbies, how you spend weekends). Skip the MBA bullet points and the list of companies you have worked at. Authenticity matters more than credentials, a finding consistent with{" "}
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S0363811121000710" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">ScienceDirect research on CEO communication</a>{" "}
           showing that responsive, authentic communication drives stronger employee relationships than assertiveness alone.
         </p>

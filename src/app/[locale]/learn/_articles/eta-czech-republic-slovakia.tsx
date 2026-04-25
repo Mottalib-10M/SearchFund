@@ -6,7 +6,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
     <article>
       <h1 className={h1Class}>ETA in Czech Republic &amp; Slovakia</h1>
       <div className={bodyClass}>
-        <p>The Czech Republic and Slovakia &mdash; two countries that share deep historical and economic ties &mdash; represent an emerging frontier for entrepreneurship through acquisition in Central Europe. With combined GDP of $400B+, strong manufacturing bases, EU membership, and an aging generation of post-communist business founders, the region offers attractive entry valuations and untapped consolidation potential for search fund entrepreneurs willing to manage a less-developed advisory ecosystem.</p>
+        <p>The Czech Republic and Slovakia, two countries that share deep historical and economic ties, represent an emerging frontier for entrepreneurship through acquisition in Central Europe. With combined GDP of $400B+, strong manufacturing bases, EU membership, and an aging generation of post-communist business founders, the region offers attractive entry valuations and untapped consolidation potential for search fund entrepreneurs willing to manage a less-developed advisory ecosystem.</p>
       </div>
 
       <h2 className={h2Class}>Market Overview</h2>
@@ -16,7 +16,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
           <li><strong>Slovakia:</strong> $120B GDP, 5.5M population. Major automotive hub (Kia, VW, Stellantis) with growing services sector.</li>
           <li><strong>Succession wave:</strong> First generation of post-1989 entrepreneurs reaching retirement age. Many businesses founded in 1990s need succession solutions.</li>
           <li><strong>EU membership:</strong> Both countries are EU members with euro adoption in Slovakia (2009); Czech Republic retains the crown (CZK).</li>
-          <li><strong>Entry valuations:</strong> 3&ndash;6x EBITDA for SMEs, significantly below Western European levels</li>
+          <li><strong>Entry valuations:</strong> 3-6x EBITDA for SMEs, significantly below Western European levels</li>
         </ul>
       </div>
 
@@ -50,7 +50,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
           <li><strong>Language barrier:</strong> Czech and Slovak are necessary for local business operations. English is common in Prague/Bratislava but less so outside capitals.</li>
           <li><strong>Advisory ecosystem:</strong> M&amp;A advisory and search fund infrastructure is less developed than in Western Europe</li>
           <li><strong>Deal sourcing:</strong> Fewer organized deal platforms. Proprietary deal sourcing through accountants, lawyers, and industry contacts is essential.</li>
-          <li><strong>Labor market tightness:</strong> Czech Republic has one of the lowest unemployment rates in the EU (2&ndash;3%), making hiring challenging</li>
+          <li><strong>Labor market tightness:</strong> Czech Republic has one of the lowest unemployment rates in the EU (2-3%), making hiring challenging</li>
           <li><strong>Cultural factors:</strong> Post-communist business culture may involve informal practices. <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Thorough due diligence</Link> is essential.</li>
         </ul>
       </div>
@@ -58,7 +58,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Czech Republic and Slovakia offer attractive entry valuations (3&ndash;6x EBITDA) with EU market access</li>
+          <li>Czech Republic and Slovakia offer attractive entry valuations (3-6x EBITDA) with EU market access</li>
           <li>The post-1989 business founder generation is reaching retirement, creating a growing succession opportunity</li>
           <li>Manufacturing, IT services, and construction are the strongest target sectors</li>
           <li>Proprietary deal sourcing is necessary due to limited M&amp;A intermediary infrastructure</li>
@@ -79,7 +79,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
       <h3 className={h3Class}>What makes the Czech Republic and Slovakia attractive compared to Western European markets?</h3>
 
       <div className={bodyClass}>
-        <p>The primary advantages are entry valuations and the timing of the succession wave. Czech and Slovak SMEs typically trade at 3&ndash;6x EBITDA, significantly below the 5&ndash;7x multiples seen in Germany, France, or the Nordics, according to the European Commission&rsquo;s SBA Fact Sheets. The post-1989 generation of entrepreneurs who founded businesses during the transition from a planned to a market economy is now reaching retirement age, creating a growing supply of businesses needing external successors. Additionally, both countries are EU members with access to the single market, strong manufacturing bases (the Czech Republic has the highest industrial output per capita in the EU), and competitive labor costs&mdash;factors that provide genuine operational advantages for businesses serving Western European clients.</p>
+        <p>The primary advantages are entry valuations and the timing of the succession wave. Czech and Slovak SMEs typically trade at 3-6x EBITDA, significantly below the 5-7x multiples seen in Germany, France, or the Nordics, according to the European Commission&rsquo;s SBA Fact Sheets. The post-1989 generation of entrepreneurs who founded businesses during the transition from a planned to a market economy is now reaching retirement age, creating a growing supply of businesses needing external successors. Additionally, both countries are EU members with access to the single market, strong manufacturing bases (the Czech Republic has the highest industrial output per capita in the EU), and competitive labor costs, factors that provide genuine operational advantages for businesses serving Western European clients.</p>
       </div>
 
       <h3 className={h3Class}>Do I need to speak Czech or Slovak to acquire and operate a business in these countries?</h3>
@@ -91,7 +91,7 @@ export default function ETACzechRepublicSlovakiaArticle() {
       <h3 className={h3Class}>How does the Czech Republic&rsquo;s low unemployment rate affect post-acquisition operations?</h3>
 
       <div className={bodyClass}>
-        <p>The Czech Republic consistently records one of the lowest unemployment rates in the EU (2&ndash;3%), which creates a tight labor market that presents both challenges and opportunities for acquirers. Hiring is difficult and expensive in competitive sectors like IT, engineering, and skilled manufacturing. Wage inflation has been running at 5&ndash;8% annually in recent years. However, this same tightness means that well-run businesses with strong employee cultures and competitive compensation packages have extremely low turnover&mdash;a valuable asset in an acquisition. Post-acquisition, searchers should invest in employee retention programs, competitive benefits, and training and development to maintain workforce stability. Some acquirers also use Slovakia&rsquo;s slightly more available labor market for shared services or back-office functions.</p>
+        <p>The Czech Republic consistently records one of the lowest unemployment rates in the EU (2-3%), which creates a tight labor market that presents both challenges and opportunities for acquirers. Hiring is difficult and expensive in competitive sectors like IT, engineering, and skilled manufacturing. Wage inflation has been running at 5-8% annually in recent years. However, this same tightness means that well-run businesses with strong employee cultures and competitive compensation packages have extremely low turnover, a valuable asset in an acquisition. Post-acquisition, searchers should invest in employee retention programs, competitive benefits, and training and development to maintain workforce stability. Some acquirers also use Slovakia&rsquo;s slightly more available labor market for shared services or back-office functions.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

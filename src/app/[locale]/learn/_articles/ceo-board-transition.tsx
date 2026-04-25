@@ -6,7 +6,7 @@ export default function CEOBoardTransitionArticle() {
     <article>
       <h1 className={h1Class}>CEO-to-Board Transition: Life After Exiting Your Acquisition</h1>
       <div className={bodyClass}>
-        <p>After spending 5&ndash;7 years building and running your acquired company, the exit closes and you&apos;re no longer the CEO. The transition from operator to... what? This is a moment many search fund entrepreneurs are unprepared for. The identity shift, the loss of daily purpose, and the question of &quot;what next?&quot; can be surprisingly challenging, even amid financial success.</p>
+        <p>After spending 5-7 years building and running your acquired company, the exit closes and you&apos;re no longer the CEO. The transition from operator to... what? This is a moment many search fund entrepreneurs are unprepared for. The identity shift, the loss of daily purpose, and the question of &quot;what next?&quot; can be surprisingly challenging, even amid financial success.</p>
       </div>
 
       <h2 className={h2Class}>The Emotional Transition</h2>
@@ -27,7 +27,7 @@ export default function CEOBoardTransitionArticle() {
         <ul className={ulClass}>
           <li>Launch a new search fund or acquire another business independently</li>
           <li>Second-time searchers have a significant advantage: experience, network, and capital</li>
-          <li>Typical timeline: 6&ndash;12 months of rest, then begin the next search</li>
+          <li>Typical timeline: 6-12 months of rest, then begin the next search</li>
         </ul>
 
         <h3 className={h3Class}>2. Become a Search Fund Investor</h3>
@@ -41,7 +41,7 @@ export default function CEOBoardTransitionArticle() {
         <ul className={ulClass}>
           <li>Board seats on search fund companies, PE-backed companies, or nonprofits</li>
           <li>Your operational experience is highly valued by board chairs looking for practical advisors</li>
-          <li>Flexible time commitment: typically 4&ndash;8 days per quarter per board</li>
+          <li>Flexible time commitment: typically 4-8 days per quarter per board</li>
         </ul>
 
         <h3 className={h3Class}>4. Build a Holding Company</h3>
@@ -62,7 +62,7 @@ export default function CEOBoardTransitionArticle() {
       <h2 className={h2Class}>Practical Transition Tips</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Take a real break:</strong> At least 3&ndash;6 months before committing to the next thing. Travel, rest, reconnect with family.</li>
+          <li><strong>Take a real break:</strong> At least 3-6 months before committing to the next thing. Travel, rest, reconnect with family.</li>
           <li><strong>Build your post-exit network:</strong> Connect with other exited CEOs who understand the transition</li>
           <li><strong>Manage your wealth:</strong> Engage a wealth advisor experienced with liquidity events. Don&apos;t make major financial decisions in the first 6 months.</li>
           <li><strong>Stay connected to the ETA community:</strong> Attend conferences, mentor searchers, invest in deals</li>
@@ -73,11 +73,11 @@ export default function CEOBoardTransitionArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>The emotional transition is harder than expected &mdash; identity loss, purpose vacuum, and anti-climax are normal</li>
-          <li>Take a real break (3&ndash;6 months minimum) before committing to your next chapter</li>
+          <li>The emotional transition is harder than expected, identity loss, purpose vacuum, and anti-climax are normal</li>
+          <li>Take a real break (3-6 months minimum) before committing to your next chapter</li>
           <li>Common paths: do another acquisition, invest in search funds, join boards, build a holding company, or advise</li>
           <li>Your operational experience makes you exceptionally valuable as an investor, board member, or mentor</li>
-          <li>Connect with other exited CEOs &mdash; they understand the transition in ways others can&apos;t</li>
+          <li>Connect with other exited CEOs, they understand the transition in ways others can&apos;t</li>
         </ul>
       </div>
 
@@ -93,12 +93,12 @@ export default function CEOBoardTransitionArticle() {
 
       <h3 className={h3Class}>How common is it for exited search fund CEOs to experience emotional difficulty after the sale?</h3>
       <div className={bodyClass}>
-        <p>Extremely common. Stanford GSB and IESE research on post-exit career paths indicates that the vast majority of exited search fund CEOs experience some form of identity loss, purpose vacuum, or anti-climax in the weeks and months following their exit. After 5&ndash;7 years of intense daily responsibility, the sudden absence of decision-making and team leadership can be disorienting. Harvard Business Review&rsquo;s research on CEO transitions confirms that these feelings are a well-documented psychological phenomenon, not a sign of weakness. The recommended approach is to allow 3&ndash;6 months of genuine rest before committing to the next chapter.</p>
+        <p>Extremely common. Stanford GSB and IESE research on post-exit career paths indicates that the vast majority of exited search fund CEOs experience some form of identity loss, purpose vacuum, or anti-climax in the weeks and months following their exit. After 5-7 years of intense daily responsibility, the sudden absence of decision-making and team leadership can be disorienting. Harvard Business Review&rsquo;s research on CEO transitions confirms that these feelings are a well-documented psychological phenomenon, not a sign of weakness. The recommended approach is to allow 3-6 months of genuine rest before committing to the next chapter.</p>
       </div>
 
       <h3 className={h3Class}>What is the most common career path for search fund CEOs after they exit?</h3>
       <div className={bodyClass}>
-        <p>According to IESE&rsquo;s longitudinal study of search fund operators, the most common post-exit paths are: (1) becoming a search fund investor and mentor (approximately 35% of exited CEOs), (2) launching a second search or acquiring another business independently (25&ndash;30%), (3) joining boards of search fund companies or PE-backed businesses (20%), and (4) building permanent holding companies or pursuing advisory roles (15&ndash;20%). Many exited CEOs combine multiple paths &mdash; investing in search funds while serving on boards and advising current operators. Second-time searchers have a significant advantage in deal sourcing, investor relationships, and operational credibility.</p>
+        <p>According to IESE&rsquo;s longitudinal study of search fund operators, the most common post-exit paths are: (1) becoming a search fund investor and mentor (approximately 35% of exited CEOs), (2) launching a second search or acquiring another business independently (25-30%), (3) joining boards of search fund companies or PE-backed businesses (20%), and (4) building permanent holding companies or pursuing advisory roles (15-20%). Many exited CEOs combine multiple paths, investing in search funds while serving on boards and advising current operators. Second-time searchers have a significant advantage in deal sourcing, investor relationships, and operational credibility.</p>
       </div>
 
       <h3 className={h3Class}>How should I manage my wealth immediately after a liquidity event?</h3>

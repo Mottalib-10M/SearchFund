@@ -12,11 +12,11 @@ export default function SearchFundDealFlowCRMArticle() {
           A search fund is, at its core, a deal-finding machine. Over 18 to 24
           months you will evaluate hundreds of companies, exchange thousands of
           emails with brokers and owners, and submit a handful of letters of
-          intent &mdash; all in pursuit of a single acquisition. Without a
+          intent, all in pursuit of a single acquisition. Without a
           structured system for tracking every interaction and opportunity, you
           will inevitably lose deals to disorganization: missed follow-ups,
           duplicated outreach, and forgotten commitments that erode your
-          credibility. A purpose-built CRM is not optional &mdash; it is the
+          credibility. A purpose-built CRM is not optional, it is the
           backbone of a disciplined{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategy</Link>.
         </p>
@@ -29,7 +29,7 @@ export default function SearchFundDealFlowCRMArticle() {
           flow. But the volume scales fast. The typical searcher contacts 800
           to 1,500 companies, holds 150 to 250 substantive conversations, and
           signs 30 to 60 NDAs. A CRM solves three critical problems: it
-          prevents deal leakage &mdash; opportunities that fall through the
+          prevents deal leakage, opportunities that fall through the
           cracks because no one followed up; it produces the pipeline metrics
           your investors expect in monthly updates; and it creates
           institutional memory so you know exactly whom you spoke with, what
@@ -50,7 +50,7 @@ export default function SearchFundDealFlowCRMArticle() {
           traditional search fund entrepreneurs. The free tier supports
           unlimited contacts, custom deal stages, email tracking, task
           management, and basic reporting. Create two separate pipelines
-          &mdash; one for acquisition targets, one for investor
+          one for acquisition targets, one for investor
           relationships. The built-in email integration logs messages
           automatically. Upgrade to the Starter plan ($20/month) when you
           need workflow automation.
@@ -62,7 +62,7 @@ export default function SearchFundDealFlowCRMArticle() {
           searchers prefer for its simplicity. The drag-and-drop pipeline
           view shows exactly where every deal stands at a glance.
           Pipedrive&rsquo;s mobile app is notably superior to most
-          competitors &mdash; important when you are updating deal notes
+          competitors, important when you are updating deal notes
           between seller meetings. It is lighter on reporting than HubSpot
           but faster to set up and easier to maintain for a solo operator.
         </p>
@@ -73,15 +73,15 @@ export default function SearchFundDealFlowCRMArticle() {
           database. It appeals to searchers who want maximum flexibility:
           custom views, linked tables connecting company records to contacts
           and brokers, and files attached directly to deal records. It excels
-          at tracking qualitative details &mdash; industry research notes,
+          at tracking qualitative details, industry research notes,
           competitive environment summaries, and scoring rubrics. The free tier
           is sufficient for most searches.
         </p>
 
         <h3 className={h3Class}>Custom spreadsheets</h3>
         <p>
-          Some searchers &mdash; particularly self-funded searchers with lean
-          budgets &mdash; start with Google Sheets or Excel. A spreadsheet
+          Some searchers, particularly self-funded searchers with lean
+          budgets, start with Google Sheets or Excel. A spreadsheet
           CRM can work if you update it daily and design it thoughtfully:
           separate tabs for companies, contacts, brokers, and a pipeline
           dashboard. The weakness is that spreadsheets lack automation, email
@@ -117,7 +117,7 @@ export default function SearchFundDealFlowCRMArticle() {
           <li>
             <strong>NDA signed:</strong> Both parties have executed a
             non-disclosure agreement. This is a critical qualification gate
-            &mdash; it signals the seller is serious enough to share real data.
+            it signals the seller is serious enough to share real data.
           </li>
           <li>
             <strong>CIM review:</strong> You have received and reviewed the
@@ -133,7 +133,7 @@ export default function SearchFundDealFlowCRMArticle() {
             <strong>Due diligence:</strong> Your LOI has been accepted and you
             are conducting formal{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>{" "}
-            &mdash; financial, legal, commercial, and operational. This is the
+            financial, legal, commercial, and operational. This is the
             most resource-intensive stage, typically lasting 60 to 90 days.
           </li>
           <li>
@@ -179,25 +179,25 @@ export default function SearchFundDealFlowCRMArticle() {
         <h3 className={h3Class}>Conversion metrics</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Response rate:</strong> Benchmark 10%&ndash;20% for cold
-            email, 20%&ndash;35% for LinkedIn, 40%&ndash;60% for warm
+            <strong>Response rate:</strong> Benchmark 10%-20% for cold
+            email, 20%-35% for LinkedIn, 40%-60% for warm
             introductions. Track by channel so you can allocate time to the
             highest-performing methods.
           </li>
           <li>
-            <strong>Conversation-to-NDA rate:</strong> Benchmark 20%&ndash;30%.
-            A low rate indicates poor initial qualification &mdash; you are
+            <strong>Conversation-to-NDA rate:</strong> Benchmark 20%-30%.
+            A low rate indicates poor initial qualification, you are
             spending time on conversations with no real potential.
           </li>
           <li>
-            <strong>NDA-to-LOI rate:</strong> Benchmark 5%&ndash;10%. This is
+            <strong>NDA-to-LOI rate:</strong> Benchmark 5%-10%. This is
             the stage where analytical rigor and{" "}
             <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link>{" "}
             pay dividends.
           </li>
           <li>
             <strong>LOI-to-close rate:</strong> The industry average is roughly
-            20%&ndash;30%, meaning you should expect to submit three to six
+            20%-30%, meaning you should expect to submit three to six
             LOIs before closing.
           </li>
         </ul>
@@ -206,7 +206,7 @@ export default function SearchFundDealFlowCRMArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Stage distribution:</strong> You want a healthy spread
-            &mdash; a large identified pool, meaningful outreach and
+            a large identified pool, meaningful outreach and
             conversation numbers, and at least two to three companies in
             active financial review. An empty mid-funnel is a warning sign.
           </li>
@@ -218,8 +218,8 @@ export default function SearchFundDealFlowCRMArticle() {
           </li>
           <li>
             <strong>Source attribution:</strong> Track every opportunity back
-            to its source &mdash; specific broker, platform, outreach campaign,
-            or referral &mdash; so you can double down on what works.
+            to its source, specific broker, platform, outreach campaign,
+            or referral, so you can double down on what works.
           </li>
         </ul>
 
@@ -232,14 +232,14 @@ export default function SearchFundDealFlowCRMArticle() {
           sent, quality rating (A/B/C), last contact date, and next follow-up.
         </p>
         <p>
-          Segment brokers into tiers. &ldquo;A-tier&rdquo; brokers &mdash;
-          those who consistently send relevant, right-sized deals &mdash;
+          Segment brokers into tiers. &ldquo;A-tier&rdquo; brokers , 
+          those who consistently send relevant, right-sized deals , 
           deserve personal outreach every three to four weeks. &ldquo;B-tier&rdquo;
           brokers get monthly email updates with your refreshed criteria.
           &ldquo;C-tier&rdquo; brokers receive quarterly touchpoints. The goal
           is to be the first buyer a top broker calls when a new mandate
           comes in. Record every deal a broker sends, even immediate passes
-          &mdash; it builds a complete picture of their deal flow profile
+          it builds a complete picture of their deal flow profile
           and lets you give constructive feedback. For a deeper look at
           sourcing channels, see our guide on{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
@@ -250,7 +250,7 @@ export default function SearchFundDealFlowCRMArticle() {
           Not all deals deserve equal attention. A scoring framework helps you
           triage quickly and explain your prioritization to investors. Build a
           weighted scorecard with five to eight criteria, each rated
-          1&ndash;5.
+          1-5.
         </p>
         <ul className={ulClass}>
           <li>
@@ -269,7 +269,7 @@ export default function SearchFundDealFlowCRMArticle() {
           </li>
           <li>
             <strong>Customer concentration (15%):</strong> No single customer
-            above 10%&ndash;15% of revenue is strongly preferred.
+            above 10%-15% of revenue is strongly preferred.
           </li>
           <li>
             <strong>Operational complexity (10%):</strong> Regulatory burden,
@@ -319,7 +319,7 @@ export default function SearchFundDealFlowCRMArticle() {
             targets and the four-week rolling average.
           </li>
           <li>
-            <strong>Plan the week ahead:</strong> Set specific goals &mdash;
+            <strong>Plan the week ahead:</strong> Set specific goals , 
             companies to identify, messages to send, calls to schedule. Write
             them down.
           </li>
@@ -380,7 +380,7 @@ export default function SearchFundDealFlowCRMArticle() {
         <h3 className={h3Class}>Over-engineering your CRM</h3>
         <p>
           Some searchers spend weeks building an elaborate Airtable or Notion
-          system with dozens of linked tables and beautiful dashboards &mdash;
+          system with dozens of linked tables and beautiful dashboards , 
           before contacting a single company. This is procrastination disguised
           as productivity. Your CRM needs three things on day one: contact
           storage, pipeline stages, and follow-up reminders. Everything else
@@ -396,7 +396,7 @@ export default function SearchFundDealFlowCRMArticle() {
           in, this searcher cannot answer basic questions: How many HVAC
           companies have I reviewed? What did that Dallas broker say? Why did
           I pass on that $3M EBITDA company in February? Thorough
-          documentation pays compound returns &mdash; it accelerates weekly
+          documentation pays compound returns, it accelerates weekly
           reviews, strengthens investor updates, and builds the pattern
           recognition that sharpens deal evaluation over time.
         </p>
@@ -410,7 +410,7 @@ export default function SearchFundDealFlowCRMArticle() {
           </li>
           <li>
             <strong>Ignoring dormant leads:</strong> Set a quarterly
-            re-engagement cadence. Seller circumstances change &mdash; a
+            re-engagement cadence. Seller circumstances change, a
             retirement, a health event, or a bad quarter can turn a
             &ldquo;not now&rdquo; into an eager seller.
           </li>
@@ -424,7 +424,7 @@ export default function SearchFundDealFlowCRMArticle() {
 
         <h2 className={h2Class}>Putting it all together</h2>
         <p>
-          Your CRM is not a chore &mdash; it is a competitive advantage. The
+          Your CRM is not a chore, it is a competitive advantage. The
           searcher with a well-organized pipeline, clear metrics, and
           disciplined follow-up habits will find better deals and close faster
           than the searcher who relies on memory and a cluttered inbox. The
@@ -437,7 +437,7 @@ export default function SearchFundDealFlowCRMArticle() {
           your pipeline stages on day one. Commit to logging every interaction
           within 24 hours. Review your pipeline every Monday without
           exception. The searchers who build these habits early are the ones
-          who close deals &mdash; and the ones who build enduring businesses
+          who close deals, and the ones who build enduring businesses
           on the other side. If you are still in the planning phase, begin
           with our{" "}
           <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link>{" "}
@@ -456,31 +456,31 @@ export default function SearchFundDealFlowCRMArticle() {
 
         <h3 className={h3Class}>Which CRM is best for a first-time searcher on a tight budget?</h3>
         <p>
-          HubSpot CRM&rsquo;s free tier is the most popular choice among traditional search fund entrepreneurs and is sufficient for most searches. It supports unlimited contacts, custom deal stages, email tracking, task management, and basic reporting at no cost. Create two separate pipelines &mdash; one for acquisition targets and one for investor and broker relationships. The built-in email integration logs messages automatically, eliminating manual data entry. Upgrade to the Starter plan ($20/month) when you need workflow automation. For searchers who prefer a more visual interface, Pipedrive ($14.90/month) offers a kanban-style pipeline view and a superior mobile app. Airtable works well for searchers who want maximum flexibility and custom views. The platform matters less than the discipline: log every interaction within 24 hours, use dropdowns instead of free text for standardized fields, and review your pipeline every Monday.
+          HubSpot CRM&rsquo;s free tier is the most popular choice among traditional search fund entrepreneurs and is sufficient for most searches. It supports unlimited contacts, custom deal stages, email tracking, task management, and basic reporting at no cost. Create two separate pipelines, one for acquisition targets and one for investor and broker relationships. The built-in email integration logs messages automatically, eliminating manual data entry. Upgrade to the Starter plan ($20/month) when you need workflow automation. For searchers who prefer a more visual interface, Pipedrive ($14.90/month) offers a kanban-style pipeline view and a superior mobile app. Airtable works well for searchers who want maximum flexibility and custom views. The platform matters less than the discipline: log every interaction within 24 hours, use dropdowns instead of free text for standardized fields, and review your pipeline every Monday.
         </p>
 
         <h3 className={h3Class}>How should I present pipeline data in monthly investor updates?</h3>
         <p>
           Experienced{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
-          expect three categories of data in your pipeline report: activity metrics (outreach volume, conversations held, NDAs signed), conversion metrics (response rates by channel, conversation-to-NDA rate, NDA-to-LOI rate), and pipeline health (stage distribution showing how many opportunities are at each stage, plus the number of deals passed with reasons). Present the data in a simple table or dashboard &mdash; investors appreciate conciseness over design. Include a brief narrative highlighting the two or three most promising active opportunities, any significant deals passed and why, and adjustments to your search strategy based on what the data reveals. A well-organized CRM makes this update a 30-minute exercise. Investors who see disciplined pipeline management gain confidence in your process, which translates directly into support when you need acquisition capital.
+          expect three categories of data in your pipeline report: activity metrics (outreach volume, conversations held, NDAs signed), conversion metrics (response rates by channel, conversation-to-NDA rate, NDA-to-LOI rate), and pipeline health (stage distribution showing how many opportunities are at each stage, plus the number of deals passed with reasons). Present the data in a simple table or dashboard, investors appreciate conciseness over design. Include a brief narrative highlighting the two or three most promising active opportunities, any significant deals passed and why, and adjustments to your search strategy based on what the data reveals. A well-organized CRM makes this update a 30-minute exercise. Investors who see disciplined pipeline management gain confidence in your process, which translates directly into support when you need acquisition capital.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Pipeline and Search Duration Data)
+              Stanford Graduate School of Business, 2024 Search Fund Study (Pipeline and Search Duration Data)
             </a>
           </li>
           <li>
             <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Harvard Business School &mdash; Search Fund Primer (Deal Sourcing Best Practices)
+              Harvard Business School, Search Fund Primer (Deal Sourcing Best Practices)
             </a>
           </li>
           <li>
             <a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              HubSpot &mdash; Free CRM Platform Documentation and Features
+              HubSpot, Free CRM Platform Documentation and Features
             </a>
           </li>
         </ul>

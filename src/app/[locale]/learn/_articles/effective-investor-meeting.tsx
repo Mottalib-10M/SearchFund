@@ -11,9 +11,9 @@ export default function EffectiveInvestorMeetingArticle() {
           The investor meeting is the decisive moment in search fund fundraising. Your private placement
           memorandum gets you in the door, but the face-to-face (or video) meeting determines whether
           an investor commits capital. According to the Stanford GSB 2024 Search Fund Study, the median
-          traditional search fund raises from 15&ndash;17 investors, meaning searchers must convert a
+          traditional search fund raises from 15-17 investors, meaning searchers must convert a
           meaningful fraction of their investor meetings into commitments. Experienced search fund investors
-          often make their decision within the first thirty minutes &mdash; not based on your financial
+          often make their decision within the first thirty minutes, not based on your financial
           projections, but on their assessment of you as a person they trust to find, acquire, and operate
           a business.
         </p>
@@ -449,12 +449,12 @@ export default function EffectiveInvestorMeetingArticle() {
 
       <h3 className={h3Class}>What is the ideal number of investors for a traditional search fund?</h3>
       <div className={bodyClass}>
-        <p>The Stanford 2024 study shows the median traditional search fund has 15&ndash;17 investors, each committing $30,000&ndash;$50,000 in search capital. Having too few investors (under 10) concentrates risk and limits your acquisition funding pool. Having too many (over 25) creates governance complexity and communication burden. The sweet spot balances sufficient capital, diverse expertise, and manageable investor relations. During meetings, investors may ask about your target syndicate size &mdash; have a clear answer grounded in your <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet</Link> economics.</p>
+        <p>The Stanford 2024 study shows the median traditional search fund has 15-17 investors, each committing $30,000-$50,000 in search capital. Having too few investors (under 10) concentrates risk and limits your acquisition funding pool. Having too many (over 25) creates governance complexity and communication burden. The sweet spot balances sufficient capital, diverse expertise, and manageable investor relations. During meetings, investors may ask about your target syndicate size, have a clear answer grounded in your <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet</Link> economics.</p>
       </div>
 
       <h3 className={h3Class}>How do acquisition-phase investor meetings differ from search-phase meetings?</h3>
       <div className={bodyClass}>
-        <p>Acquisition-phase meetings are fundamentally different: investors are evaluating a specific business, not just you. The meeting should open with a concise overview of the target, followed by financial performance, deal terms, and your value creation thesis. You should have a complete <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis, a clear capital structure, and sensitivity analysis at multiple exit scenarios ready. Expect deeper questions on customer concentration, competitive dynamics, and management transition. These meetings typically require 60&ndash;90 minutes and often involve multiple rounds before commitment.</p>
+        <p>Acquisition-phase meetings are fundamentally different: investors are evaluating a specific business, not just you. The meeting should open with a concise overview of the target, followed by financial performance, deal terms, and your value creation thesis. You should have a complete <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link> analysis, a clear capital structure, and sensitivity analysis at multiple exit scenarios ready. Expect deeper questions on customer concentration, competitive dynamics, and management transition. These meetings typically require 60-90 minutes and often involve multiple rounds before commitment.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

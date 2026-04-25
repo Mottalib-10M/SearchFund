@@ -25,7 +25,7 @@ export default function RestaurantAcquisitionArticle() {
       <h2 className={h2Class}>When Restaurants Make Sense for ETA</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Multi-unit concepts:</strong> 3&ndash;10 locations with proven unit economics and replicable systems</li>
+          <li><strong>Multi-unit concepts:</strong> 3-10 locations with proven unit economics and replicable systems</li>
           <li><strong>Catering &amp; food service management:</strong> B2B revenue with recurring corporate contracts. Less location-dependent.</li>
           <li><strong>QSR/fast-casual:</strong> Systemized operations with lower labor requirements per unit. More scalable than full-service.</li>
           <li><strong>Avoid:</strong> Single-location full-service restaurants, chef-dependent fine dining, and concepts without documented systems</li>
@@ -35,7 +35,7 @@ export default function RestaurantAcquisitionArticle() {
       <h2 className={h2Class}>Due Diligence Priorities</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Unit economics:</strong> Revenue per location, food cost percentage (target 28&ndash;32%), labor cost (25&ndash;30%), and 4-wall EBITDA</li>
+          <li><strong>Unit economics:</strong> Revenue per location, food cost percentage (target 28-32%), labor cost (25-30%), and 4-wall EBITDA</li>
           <li><strong>Lease terms:</strong> Remaining lease duration, renewal options, rent as percentage of revenue (target under 8%). Lease loss kills restaurants.</li>
           <li><strong>Same-store sales:</strong> Year-over-year revenue growth per location. Declining same-store sales is the biggest red flag.</li>
           <li><strong>Management depth:</strong> Can locations run without the owner present? General managers and kitchen managers are critical.</li>
@@ -60,11 +60,11 @@ export default function RestaurantAcquisitionArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Focus on multi-unit concepts, catering, and food service management &mdash; avoid single-location restaurants</li>
+          <li>Focus on multi-unit concepts, catering, and food service management, avoid single-location restaurants</li>
           <li>Unit economics (food cost, labor cost, 4-wall EBITDA) and lease terms are the most critical due diligence areas</li>
-          <li>Management depth determines scalability &mdash; the business must run without the owner in the kitchen</li>
+          <li>Management depth determines scalability, the business must run without the owner in the kitchen</li>
           <li>Declining same-store sales and rising food/labor costs are the most common failure modes</li>
-          <li>Typical valuations: 3&ndash;5x EBITDA for multi-unit; 2&ndash;3x for single-unit; catering/food service management at 4&ndash;6x</li>
+          <li>Typical valuations: 3-5x EBITDA for multi-unit; 2-3x for single-unit; catering/food service management at 4-6x</li>
         </ul>
       </div>
 
@@ -80,17 +80,17 @@ export default function RestaurantAcquisitionArticle() {
       <div className={bodyClass}>
         <h3 className={h3Class}>What type of restaurant business is best for search fund acquisition?</h3>
         <p>
-          Multi-unit fast-casual or QSR concepts with 3&ndash;10 locations, proven unit economics, and documented operating systems are the strongest candidates for search fund acquisition. According to the National Restaurant Association&rsquo;s 2024 State of the Restaurant Industry report, multi-unit operators achieve 15&ndash;20% higher EBITDA margins than single-location restaurants because they benefit from purchasing scale, management infrastructure, and brand recognition. Catering and food service management companies are also attractive because they generate recurring B2B revenue with corporate contracts, which provides predictable cash flow that lenders and investors value. Single-location full-service restaurants, chef-dependent fine dining, and concepts without documented recipes and processes should generally be avoided because they carry excessive key-person risk and are difficult to scale.
+          Multi-unit fast-casual or QSR concepts with 3-10 locations, proven unit economics, and documented operating systems are the strongest candidates for search fund acquisition. According to the National Restaurant Association&rsquo;s 2024 State of the Restaurant Industry report, multi-unit operators achieve 15-20% higher EBITDA margins than single-location restaurants because they benefit from purchasing scale, management infrastructure, and brand recognition. Catering and food service management companies are also attractive because they generate recurring B2B revenue with corporate contracts, which provides predictable cash flow that lenders and investors value. Single-location full-service restaurants, chef-dependent fine dining, and concepts without documented recipes and processes should generally be avoided because they carry excessive key-person risk and are difficult to scale.
         </p>
 
         <h3 className={h3Class}>What are the most important financial metrics in restaurant due diligence?</h3>
         <p>
-          The critical financial metrics are food cost percentage (target 28&ndash;32% of revenue), labor cost percentage (target 25&ndash;30%), rent as a percentage of revenue (target under 8%), 4-wall EBITDA (target 15&ndash;20% for QSR/fast-casual, 10&ndash;15% for full-service), and same-store sales growth. According to IBISWorld&rsquo;s 2024 Restaurant Industry Report, the average US restaurant operates with a 3&ndash;9% net profit margin, meaning small deviations in food cost, labor, or rent can destroy profitability entirely. Same-store sales (year-over-year revenue growth at existing locations) is the single most important trend metric &mdash; declining same-store sales is the biggest red flag in restaurant due diligence. Toast&rsquo;s 2024 Restaurant Industry Trends Report shows that restaurants with positive same-store sales growth command 30&ndash;50% higher valuation multiples than those with flat or declining comparable sales.
+          The critical financial metrics are food cost percentage (target 28-32% of revenue), labor cost percentage (target 25-30%), rent as a percentage of revenue (target under 8%), 4-wall EBITDA (target 15-20% for QSR/fast-casual, 10-15% for full-service), and same-store sales growth. According to IBISWorld&rsquo;s 2024 Restaurant Industry Report, the average US restaurant operates with a 3-9% net profit margin, meaning small deviations in food cost, labor, or rent can destroy profitability entirely. Same-store sales (year-over-year revenue growth at existing locations) is the single most important trend metric, declining same-store sales is the biggest red flag in restaurant due diligence. Toast&rsquo;s 2024 Restaurant Industry Trends Report shows that restaurants with positive same-store sales growth command 30-50% higher valuation multiples than those with flat or declining comparable sales.
         </p>
 
         <h3 className={h3Class}>How are restaurant businesses typically valued?</h3>
         <p>
-          Restaurant valuations vary significantly by type: single-location restaurants typically sell at 2&ndash;3x SDE, multi-unit concepts at 3&ndash;5x EBITDA, and catering or food service management businesses at 4&ndash;6x EBITDA. According to the National Restaurant Association, franchise restaurants often trade at higher multiples (4&ndash;7x EBITDA) because they benefit from brand recognition, proven systems, and transferable operating playbooks. Lease terms are a critical valuation factor &mdash; a restaurant with 10+ years remaining on a favorable lease is worth significantly more than one with a lease expiring in 2&ndash;3 years, because lease loss is the number one cause of forced restaurant closures. Buyers should also factor in deferred capital expenditures, as many restaurant sellers reduce equipment maintenance and facility upgrades in the years before sale to inflate near-term profitability.
+          Restaurant valuations vary significantly by type: single-location restaurants typically sell at 2-3x SDE, multi-unit concepts at 3-5x EBITDA, and catering or food service management businesses at 4-6x EBITDA. According to the National Restaurant Association, franchise restaurants often trade at higher multiples (4-7x EBITDA) because they benefit from brand recognition, proven systems, and transferable operating playbooks. Lease terms are a critical valuation factor, a restaurant with 10+ years remaining on a favorable lease is worth significantly more than one with a lease expiring in 2-3 years, because lease loss is the number one cause of forced restaurant closures. Buyers should also factor in deferred capital expenditures, as many restaurant sellers reduce equipment maintenance and facility upgrades in the years before sale to inflate near-term profitability.
         </p>
       </div>
 

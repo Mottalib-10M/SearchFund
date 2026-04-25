@@ -11,7 +11,7 @@ export default function InternationalVsUSReturnsArticle() {
         <p>
           US search funds have generated aggregate returns of 5.2x MOIC and 35%+
           IRR over four decades. International search funds, tracked primarily by
-          IESE Business School, report roughly 2.4x aggregate MOIC &mdash; less
+          IESE Business School, report roughly 2.4x aggregate MOIC, less
           than half the US figure. That gap raises a critical question for
           investors and searchers: is international search fund investing
           structurally inferior, or does the return differential reflect a younger
@@ -29,7 +29,7 @@ export default function InternationalVsUSReturnsArticle() {
           analyzed 681 qualifying search funds raised in the US and Canada since
           1984. The headline numbers set a high bar: 5.2x aggregate pre-tax MOIC,
           35.1% aggregate pre-tax IRR, and a 63% acquisition rate. Median
-          acquisition purchase price was $14.4M, typically at 4.5x&ndash;5.5x
+          acquisition purchase price was $14.4M, typically at 4.5x-5.5x
           EBITDA. The top quartile of completed deals returned north of 10x,
           pulling the aggregate figures upward in a classic power-law distribution.
         </p>
@@ -38,7 +38,7 @@ export default function InternationalVsUSReturnsArticle() {
           300+ active search fund investors provides searchers with capital,
           mentorship, and governance. SBA 7(a) loans offer acquisition financing
           at favorable terms, allowing searchers to apply meaningful use. The
-          M&amp;A exit market is the deepest in the world &mdash; strategic
+          M&amp;A exit market is the deepest in the world, strategic
           acquirers, private equity firms, and sponsor-backed recapitalizations
           create multiple exit pathways. And four decades of operational playbooks
           mean that post-acquisition execution is increasingly professionalized.
@@ -49,7 +49,7 @@ export default function InternationalVsUSReturnsArticle() {
           Returns in those early vintages were volatile and data was sparse. The
           mature, high-returning asset class that exists today was built over
           decades of institutional learning. That context matters when evaluating
-          international markets that are 10&ndash;15 years into the same journey.
+          international markets that are 10-15 years into the same journey.
         </p>
 
         <h2 className={h2Class}>The international picture: IESE 2024 data</h2>
@@ -59,7 +59,7 @@ export default function InternationalVsUSReturnsArticle() {
           covers approximately 200 search funds raised across Europe, Latin
           America, and other regions since the mid-2000s. The aggregate figures
           tell a more modest story: approximately 2.4x MOIC and an acquisition
-          rate of roughly 70&ndash;75% in established markets.
+          rate of roughly 70-75% in established markets.
         </p>
         <p>
           The regional breakdown reveals significant variation:
@@ -69,12 +69,12 @@ export default function InternationalVsUSReturnsArticle() {
             <strong>Spain:</strong> The most mature international market, with
             50+ completed search funds. Returns have been competitive with the
             US in the best vintages, driven by low acquisition multiples
-            (3&ndash;4.5x EBITDA), a strong IESE alumni network, and a deep
+            (3-4.5x EBITDA), a strong IESE alumni network, and a deep
             pool of family-owned SMEs facing succession transitions.
           </li>
           <li>
             <strong>France &amp; DACH region:</strong> Growing ecosystems with
-            15&ndash;30 completed funds each. French search funds benefit from
+            15-30 completed funds each. French search funds benefit from
             Europe&rsquo;s second-largest SME market and favorable
             transmission regulations. Germany, Austria, and Switzerland offer
             higher-quality target companies (the{" "}
@@ -91,7 +91,7 @@ export default function InternationalVsUSReturnsArticle() {
           <li>
             <strong>Latin America:</strong> Brazil and Mexico represent the
             largest opportunities, with a massive base of founder-owned
-            businesses, lower acquisition multiples (often 2.5&ndash;4x
+            businesses, lower acquisition multiples (often 2.5-4x
             EBITDA), and rapidly growing ETA communities. However, currency
             volatility, political risk, and thinner exit markets have
             dampened reported returns. See our regional guides on{" "}
@@ -113,18 +113,18 @@ export default function InternationalVsUSReturnsArticle() {
           The US dataset spans 40 years and 681 funds. The international dataset
           covers roughly 15 years and 200 funds. US returns include vintages from
           the 1990s and 2000s when competition was minimal and entry multiples
-          were low &mdash; some of the highest-returning vintages in the entire
+          were low, some of the highest-returning vintages in the entire
           dataset. International search funds lack this tail of early,
           low-competition deals. When you compare similar vintages
-          (2015&ndash;2023), the gap narrows considerably. IESE&rsquo;s data shows
-          recent European cohorts returning 2.5&ndash;4x MOIC, approaching
+          (2015-2023), the gap narrows considerably. IESE&rsquo;s data shows
+          recent European cohorts returning 2.5-4x MOIC, approaching
           US median levels.
         </p>
 
         <h3 className={h3Class}>2. Exit market depth</h3>
         <p>
           The US has the world&rsquo;s deepest M&amp;A market. Mid-market
-          companies with $5M&ndash;$20M in revenue attract multiple strategic and
+          companies with $5M-$20M in revenue attract multiple strategic and
           financial buyers at exit. European exit markets are fragmented by
           country, language, and regulatory regime. A Spanish company with
           &euro;10M in revenue has a smaller potential buyer universe than
@@ -135,7 +135,7 @@ export default function InternationalVsUSReturnsArticle() {
 
         <h3 className={h3Class}>3. Use availability</h3>
         <p>
-          US searchers routinely use SBA 7(a) loans to finance 60&ndash;70% of
+          US searchers routinely use SBA 7(a) loans to finance 60-70% of
           acquisition cost at favorable rates. No equivalent program exists in
           most international markets. European searchers typically use
           conventional bank financing with lower loan-to-value ratios, or rely
@@ -166,11 +166,11 @@ export default function InternationalVsUSReturnsArticle() {
           International returns are typically reported in local currency, but
           US-based LPs experience them in dollars. A European search fund that
           returns 3x in euros over five years delivers a lower dollar-denominated
-          return if the euro weakens during the hold period &mdash; which it did
+          return if the euro weakens during the hold period, which it did
           significantly from 2014 to 2022. Latin American currencies introduce
           even more volatility: the Brazilian real lost roughly 40% of its value
           against the dollar between 2019 and 2023. Currency effects do not
-          explain the entire gap, but they add 0.3&ndash;0.7x of drag on reported
+          explain the entire gap, but they add 0.3-0.7x of drag on reported
           international returns when measured in US dollar terms.
         </p>
 
@@ -182,9 +182,9 @@ export default function InternationalVsUSReturnsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Acquisition multiples:</strong> US search fund acquisitions
-            price at a median of 4.5&ndash;5.5x EBITDA. European deals
-            typically close at 3&ndash;5x, with Southern European and Latin
-            American markets at the lower end (2.5&ndash;4x). These lower
+            price at a median of 4.5-5.5x EBITDA. European deals
+            typically close at 3-5x, with Southern European and Latin
+            American markets at the lower end (2.5-4x). These lower
             entry multiples provide a margin of safety, but the exit multiple
             expansion that US funds often enjoy is harder to achieve in
             markets with fewer buyers. Accurate{" "}
@@ -197,21 +197,21 @@ export default function InternationalVsUSReturnsArticle() {
           <li>
             <strong>Deal sizes:</strong> International search fund acquisitions
             tend to be smaller. European deals cluster around
-            &euro;3M&ndash;&euro;12M enterprise value vs. $8M&ndash;$25M in
+            &euro;3M-&euro;12M enterprise value vs. $8M-$25M in
             the US. Smaller deals mean lower absolute returns per fund, even
             when multiples are comparable.
           </li>
           <li>
             <strong>Hold periods:</strong> International exits take longer on
-            average. IESE data suggests median hold periods of 6&ndash;8 years
-            for international funds vs. 4&ndash;6 years in the US. Longer
+            average. IESE data suggests median hold periods of 6-8 years
+            for international funds vs. 4-6 years in the US. Longer
             holds compress IRR even when absolute MOIC is similar.
           </li>
           <li>
             <strong>Fund structure:</strong> The standard US search fund
-            structure &mdash; a two-year search phase funded by institutional
+            structure, a two-year search phase funded by institutional
             investors, followed by equity commitment letters for the
-            acquisition &mdash; is well understood. International markets show
+            acquisition, is well understood. International markets show
             more structural variation: some searchers raise acquisition capital
             concurrently, some use accelerator models, and{" "}
             <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">legal structures</Link>{" "}
@@ -256,7 +256,7 @@ export default function InternationalVsUSReturnsArticle() {
           US-based LP investing in a French search fund faces a different tax
           profile than the same LP investing in a Brazilian fund. Structuring
           these flows efficiently requires specialized tax counsel and can reduce
-          net-of-tax returns by 200&ndash;500 basis points relative to a domestic
+          net-of-tax returns by 200-500 basis points relative to a domestic
           US investment if not planned carefully. Understanding these{" "}
           <Link href="/learn/risk-factors-search-fund" className="text-apple-accent hover:underline">risk factors</Link>{" "}
           is essential before making cross-border commitments.
@@ -270,15 +270,15 @@ export default function InternationalVsUSReturnsArticle() {
         </p>
         <p>
           <strong>Arguments for convergence:</strong> Recent European vintages
-          (2018&ndash;2023) show improving returns as ecosystems mature. Spain
+          (2018-2023) show improving returns as ecosystems mature. Spain
           and France now have cohorts of experienced search fund investors who
           provide the same quality of governance and mentorship that US investors
           have offered for decades. Business schools like IESE, INSEAD, and HEC
           have built dedicated ETA programs that produce better-prepared
           searchers. The European private equity market has grown significantly,
           providing more exit options for search fund portfolio companies. And the
-          massive SME succession wave in Europe &mdash; an estimated 2.4 million
-          businesses needing ownership transitions by 2030 &mdash; creates a
+          massive SME succession wave in Europe, an estimated 2.4 million
+          businesses needing ownership transitions by 2030, creates a
           supply of acquisition targets that may rival the US baby-boomer
           retirement opportunity.
         </p>
@@ -288,8 +288,8 @@ export default function InternationalVsUSReturnsArticle() {
           language and regulation is a durable feature, not a temporary phase. The
           absence of an SBA-equivalent lending program limits use across most
           international markets. And the US M&amp;A exit market&rsquo;s depth
-          &mdash; driven by the sheer scale of the US economy and its capital
-          markets &mdash; is unlikely to be matched by any single European
+          driven by the sheer scale of the US economy and its capital
+          markets, is unlikely to be matched by any single European
           country. International returns may approach US levels on a vintage-by-
           vintage basis, but the aggregate dataset will carry the weight of weaker
           early vintages for years to come.
@@ -312,16 +312,16 @@ export default function InternationalVsUSReturnsArticle() {
         </p>
         <p>
           The practical question is how much to allocate. Most experienced search
-          fund investors who do invest internationally allocate 15&ndash;30% of
+          fund investors who do invest internationally allocate 15-30% of
           their search fund capital outside the US, concentrating in established
           European markets (Spain, France, UK, Germany) where the ecosystem is
-          most developed. Frontier markets &mdash; Latin America, Southeast Asia,
-          the Middle East &mdash; receive smaller, more opportunistic allocations
+          most developed. Frontier markets, Latin America, Southeast Asia,
+          the Middle East, receive smaller, more opportunistic allocations
           from investors with specific regional expertise.
         </p>
         <p>
-          A well-constructed portfolio of 15&ndash;25 search fund investments
-          might include 3&ndash;6 international funds, chosen for geographic
+          A well-constructed portfolio of 15-25 search fund investments
+          might include 3-6 international funds, chosen for geographic
           diversity, experienced local investors, and searchers with deep ties to
           their target market. The goal is not to match US returns on every
           individual deal, but to build a portfolio where international exposure
@@ -335,8 +335,8 @@ export default function InternationalVsUSReturnsArticle() {
 
         <h3 className={h3Class}>Are international search fund returns catching up to US returns?</h3>
         <p>
-          Recent European vintages (2018&ndash;2023) show MOIC figures of
-          2.5&ndash;4x, approaching US median levels. The aggregate gap persists
+          Recent European vintages (2018-2023) show MOIC figures of
+          2.5-4x, approaching US median levels. The aggregate gap persists
           largely because the international dataset includes weaker early vintages
           when ecosystems were immature. On a vintage-matched basis, the
           difference is narrowing, particularly in Spain and France.
@@ -345,7 +345,7 @@ export default function InternationalVsUSReturnsArticle() {
         <h3 className={h3Class}>Should US-based investors allocate capital to international search funds?</h3>
         <p>
           For investors with portfolios of 15+ search fund commitments, a
-          15&ndash;30% international allocation provides meaningful geographic
+          15-30% international allocation provides meaningful geographic
           diversification. Focus on established European markets with experienced
           local investor groups. Avoid frontier markets unless you have specific
           regional expertise and relationships.
@@ -372,9 +372,9 @@ export default function InternationalVsUSReturnsArticle() {
 
         <h3 className={h3Class}>Do international search funds pay lower acquisition multiples?</h3>
         <p>
-          Yes. European search funds typically acquire at 3&ndash;5x EBITDA vs.
-          4.5&ndash;5.5x in the US. Latin American deals often close at
-          2.5&ndash;4x. However, lower entry multiples do not automatically
+          Yes. European search funds typically acquire at 3-5x EBITDA vs.
+          4.5-5.5x in the US. Latin American deals often close at
+          2.5-4x. However, lower entry multiples do not automatically
           translate to higher returns because exit multiples and use
           availability are also lower in most international markets.
         </p>

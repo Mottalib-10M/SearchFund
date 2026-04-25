@@ -16,7 +16,7 @@ export default function WhatIsMyBusinessWorthArticle() {
           strength. According to the{" "}
           <a href="https://www.bizbuysell.com/insight-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             BizBuySell 2025 Insight Report
-          </a>, the median small business sold for $350,000 last year &mdash; but that figure masks a wide range
+          </a>, the median small business sold for $350,000 last year, but that figure masks a wide range
           from sub-$100K Main Street shops to $10M+ lower middle market companies. This guide walks you through
           the exact methods buyers use to value a business, what drives your multiple up or down, and how to
           maximize your sale price before going to market.
@@ -36,8 +36,8 @@ export default function WhatIsMyBusinessWorthArticle() {
           For businesses under roughly $1M in annual revenue, buyers typically use SDE because the owner&rsquo;s
           compensation is the largest discretionary expense. SDE adds back the owner&rsquo;s salary, personal
           benefits, and one-time expenses to arrive at total economic benefit to a single owner-operator.
-          Businesses above that threshold &mdash; especially those with $1M+ EBITDA and a management layer
-          &mdash; use EBITDA because the buyer is purchasing a going concern that operates independently. The{" "}
+          Businesses above that threshold, especially those with $1M+ EBITDA and a management layer
+          use EBITDA because the buyer is purchasing a going concern that operates independently. The{" "}
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
             adjusted EBITDA calculation
           </Link>{" "}
@@ -51,7 +51,7 @@ export default function WhatIsMyBusinessWorthArticle() {
           </a>{" "}
           shows that average SDE multiples across all industries cluster around 2.57x, while revenue multiples
           average 0.67x. But these averages obscure enormous variation by industry, size, and growth rate. A
-          well-run SaaS company might trade at 8&ndash;12x EBITDA, while a restaurant might sell at 1.8&ndash;2.5x
+          well-run SaaS company might trade at 8-12x EBITDA, while a restaurant might sell at 1.8-2.5x
           SDE. Understanding where your business falls on this spectrum is what separates a realistic expectation
           from a painful surprise during negotiations.
         </p>
@@ -59,8 +59,8 @@ export default function WhatIsMyBusinessWorthArticle() {
         {/* ─── SECTION 2 ─── */}
         <h2 className={h2Class}>Five Valuation Methods Buyers Actually Use</h2>
         <p>
-          Buyers do not rely on a single approach. Most sophisticated acquirers &mdash; whether search fund
-          operators, private equity firms, or strategic buyers &mdash; triangulate across multiple methods before
+          Buyers do not rely on a single approach. Most sophisticated acquirers, whether search fund
+          operators, private equity firms, or strategic buyers, triangulate across multiple methods before
           settling on a price range. Here are the five you need to understand.
         </p>
 
@@ -78,7 +78,7 @@ export default function WhatIsMyBusinessWorthArticle() {
 
         <h3 className={h3Class}>2. Comparable Transactions</h3>
         <p>
-          This method examines what similar businesses actually sold for &mdash; not theoretical multiples, but
+          This method examines what similar businesses actually sold for, not theoretical multiples, but
           closed transactions. Databases like BizBuySell, DealStats (formerly Pratt&rsquo;s Stats), and
           PitchBook aggregate transaction data. The challenge for small businesses is that deal data below $5M
           is sparse and inconsistent. According to the{" "}
@@ -95,10 +95,10 @@ export default function WhatIsMyBusinessWorthArticle() {
 
         <h3 className={h3Class}>3. Discounted Cash Flow (DCF)</h3>
         <p>
-          DCF projects your future cash flows over 5&ndash;10 years and discounts them back to present value
+          DCF projects your future cash flows over 5-10 years and discounts them back to present value
           using a rate that reflects the risk of your business. For small, privately held businesses, that
-          discount rate typically ranges from 20% to 40% &mdash; far higher than the 8&ndash;12% used for
-          public companies &mdash; because private businesses carry concentration risk, limited liquidity, and
+          discount rate typically ranges from 20% to 40%, far higher than the 8-12% used for
+          public companies, because private businesses carry concentration risk, limited liquidity, and
           key-person exposure. Our{" "}
           <Link href="/learn/dcf-valuation-small-business" className="text-apple-accent hover:underline">
             DCF valuation for small businesses
@@ -117,7 +117,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         <h3 className={h3Class}>5. Revenue Multiple</h3>
         <p>
           Revenue multiples are used when earnings are negative or volatile but revenue is growing rapidly.
-          This is common in SaaS (3&ndash;8x ARR), e-commerce (0.5&ndash;2x revenue), and early-stage
+          This is common in SaaS (3-8x ARR), e-commerce (0.5-2x revenue), and early-stage
           businesses. The{" "}
           <a href="https://www.shopify.com/blog/business-valuation" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             Shopify 2026 valuation benchmarks
@@ -130,7 +130,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         <h2 className={h2Class}>What Multiple Should You Expect? Industry Benchmarks for 2025</h2>
         <p>
           Your industry is the single biggest determinant of your multiple, but size and growth rate matter
-          almost as much. Here is what the data shows for businesses with $500K&ndash;$5M in annual
+          almost as much. Here is what the data shows for businesses with $500K-$5M in annual
           earnings, based on the{" "}
           <a href="https://www.bizbuysell.com/insight-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             BizBuySell 2025 data
@@ -141,18 +141,18 @@ export default function WhatIsMyBusinessWorthArticle() {
           </a>:
         </p>
         <ul className={ulClass}>
-          <li><strong>Technology &amp; SaaS:</strong> 5&ndash;12x EBITDA. Recurring revenue, high margins, and scalability drive the premium. SDE multiples for small tech firms average just above 3x</li>
-          <li><strong>Healthcare services:</strong> 4&ndash;8x EBITDA. Regulatory moats and aging demographics sustain demand</li>
-          <li><strong>Professional services</strong> (accounting, consulting, staffing): 3&ndash;5x EBITDA. Heavily dependent on whether client relationships transfer with the sale</li>
-          <li><strong>Manufacturing:</strong> 3&ndash;5x EBITDA. The BizBuySell 2025 data shows a median sale price of $650,000 for manufacturing, with median cash flow of $254,489</li>
-          <li><strong>Home services</strong> (HVAC, plumbing, electrical): 3&ndash;5x EBITDA for well-run operations with recurring maintenance contracts. Lower for project-based firms</li>
-          <li><strong>Service businesses (general):</strong> 1.69&ndash;3.04x SDE. The median sale price rose 5% to $340,000 in 2025 with average cash flow multiples of 2.52x</li>
-          <li><strong>Restaurants &amp; food service:</strong> 1.5&ndash;2.5x SDE. Thin margins and high owner involvement suppress multiples</li>
-          <li><strong>Retail:</strong> 1.5&ndash;2.5x SDE. The BizBuySell data shows median sale prices fell 2% to $250,000 in 2025</li>
+          <li><strong>Technology &amp; SaaS:</strong> 5-12x EBITDA. Recurring revenue, high margins, and scalability drive the premium. SDE multiples for small tech firms average just above 3x</li>
+          <li><strong>Healthcare services:</strong> 4-8x EBITDA. Regulatory moats and aging demographics sustain demand</li>
+          <li><strong>Professional services</strong> (accounting, consulting, staffing): 3-5x EBITDA. Heavily dependent on whether client relationships transfer with the sale</li>
+          <li><strong>Manufacturing:</strong> 3-5x EBITDA. The BizBuySell 2025 data shows a median sale price of $650,000 for manufacturing, with median cash flow of $254,489</li>
+          <li><strong>Home services</strong> (HVAC, plumbing, electrical): 3-5x EBITDA for well-run operations with recurring maintenance contracts. Lower for project-based firms</li>
+          <li><strong>Service businesses (general):</strong> 1.69-3.04x SDE. The median sale price rose 5% to $340,000 in 2025 with average cash flow multiples of 2.52x</li>
+          <li><strong>Restaurants &amp; food service:</strong> 1.5-2.5x SDE. Thin margins and high owner involvement suppress multiples</li>
+          <li><strong>Retail:</strong> 1.5-2.5x SDE. The BizBuySell data shows median sale prices fell 2% to $250,000 in 2025</li>
         </ul>
         <p>
           Size creates a step-function effect on multiples. The IBBA Q4 2024 survey found that businesses
-          valued between $5M and $50M traded at an average of 6.0x EBITDA &mdash; on par with the hot market
+          valued between $5M and $50M traded at an average of 6.0x EBITDA, on par with the hot market
           of Q4 2021. Businesses valued between $1M and $2M traded at materially lower multiples, and
           sub-$1M businesses lower still. The{" "}
           <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
@@ -162,7 +162,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         </p>
 
         {/* ─── SECTION 4 ─── */}
-        <h2 className={h2Class}>Eight Factors That Drive Your Valuation Up &mdash; or Down</h2>
+        <h2 className={h2Class}>Eight Factors That Drive Your Valuation Up, or Down</h2>
         <p>
           Two businesses in the same industry with identical revenue can sell at vastly different multiples.
           The difference comes down to risk and transferability. Here are the eight factors that matter most
@@ -173,7 +173,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         <ol className={olClass}>
           <li>
             <strong>Recurring revenue.</strong> Contracts, subscriptions, and maintenance agreements reduce
-            acquisition risk. Businesses with 70%+ recurring revenue command 1&ndash;2x higher multiples
+            acquisition risk. Businesses with 70%+ recurring revenue command 1-2x higher multiples
             than project-based peers. Our{" "}
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               recurring revenue models
@@ -183,15 +183,15 @@ export default function WhatIsMyBusinessWorthArticle() {
           <li>
             <strong>Diversified customer base.</strong> No single customer should represent more than 10% of
             revenue. When a customer accounts for 30%+ of revenue, buyers see a risk that can slash multiples
-            by 1&ndash;2 full turns. Read more about{" "}
+            by 1-2 full turns. Read more about{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               customer concentration risk
             </Link>{" "}
             and how to mitigate it before a sale.
           </li>
           <li>
-            <strong>Management independence.</strong> If the business runs without you &mdash; with a general
-            manager, department heads, and documented processes &mdash; buyers pay a premium because they are
+            <strong>Management independence.</strong> If the business runs without you, with a general
+            manager, department heads, and documented processes, buyers pay a premium because they are
             buying a self-sustaining operation rather than a job. The{" "}
             <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
               owner-dependent business
@@ -212,8 +212,8 @@ export default function WhatIsMyBusinessWorthArticle() {
         <ol className={olClass}>
           <li>
             <strong>Owner dependence.</strong> If you are the primary salesperson, technician, and manager,
-            the business is essentially you. Buyers apply steep discounts &mdash; often 30&ndash;50% below
-            comparable businesses with management teams &mdash; because they need to replace your
+            the business is essentially you. Buyers apply steep discounts, often 30-50% below
+            comparable businesses with management teams, because they need to replace your
             institutional knowledge after closing.
           </li>
           <li>
@@ -232,7 +232,7 @@ export default function WhatIsMyBusinessWorthArticle() {
             <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
               quality of earnings report
             </Link>{" "}
-            is the buyer&rsquo;s primary tool for validating &mdash; or challenging &mdash; your numbers.
+            is the buyer&rsquo;s primary tool for validating, or challenging, your numbers.
           </li>
           <li>
             <strong>Deferred maintenance and capex.</strong> Aging equipment, outdated technology, or
@@ -282,7 +282,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         <p>
           Multiply your adjusted earnings by the low end and high end of your multiple range to
           establish a valuation corridor. For example, a landscaping company with $400,000 in SDE
-          and a multiple range of 2.0&ndash;3.0x would have a valuation range of $800,000 to
+          and a multiple range of 2.0-3.0x would have a valuation range of $800,000 to
           $1,200,000. The final price within that range depends on the factors discussed above:
           customer concentration, owner dependence, growth trend, and competitive dynamics of the sale
           process.
@@ -292,21 +292,21 @@ export default function WhatIsMyBusinessWorthArticle() {
         <p>
           Run a DCF analysis using conservative growth assumptions to see if it confirms your
           multiple-based valuation. Check asset values to establish a floor. If your DCF produces a
-          number far above or below your multiple-based estimate, investigate why &mdash; the
+          number far above or below your multiple-based estimate, investigate why, the
           discrepancy often reveals important assumptions about growth or risk.
         </p>
 
         {/* ─── SECTION 6 ─── */}
         <h2 className={h2Class}>How to Maximize Your Business&rsquo;s Sale Price</h2>
         <p>
-          The best time to increase your business&rsquo;s value is 18&ndash;24 months before you plan to sell.
+          The best time to increase your business&rsquo;s value is 18-24 months before you plan to sell.
           Rushed sales leave money on the table. Here are the highest-impact moves, in order of priority.
         </p>
         <p>
           <strong>Clean up your financials.</strong> Eliminate personal expenses from the business. Maintain
           consistent accrual-basis bookkeeping. Consider commissioning a reviewed financial statement or a
           sell-side quality of earnings report. When buyers see clean, well-organized financials, they perceive
-          lower risk &mdash; and lower risk translates directly to higher multiples. The{" "}
+          lower risk, and lower risk translates directly to higher multiples. The{" "}
           <a href="https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/18/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             Pepperdine 2025 report
           </a>{" "}
@@ -317,8 +317,8 @@ export default function WhatIsMyBusinessWorthArticle() {
           <strong>Build a management team.</strong> The single highest-value action you can take is making
           yourself replaceable. Hire or promote a general manager. Document standard operating procedures.
           Transition key customer relationships to account managers. A business that runs without the owner
-          shifts from the &ldquo;job&rdquo; category (2&ndash;3x SDE) to the &ldquo;business&rdquo;
-          category (4&ndash;6x EBITDA), often doubling or tripling the enterprise value.
+          shifts from the &ldquo;job&rdquo; category (2-3x SDE) to the &ldquo;business&rdquo;
+          category (4-6x EBITDA), often doubling or tripling the enterprise value.
         </p>
         <p>
           <strong>Lock in contracts.</strong> Convert verbal agreements to written contracts with customers and
@@ -330,37 +330,37 @@ export default function WhatIsMyBusinessWorthArticle() {
           checklist covers the full list of operational improvements.
         </p>
         <p>
-          <strong>Run a competitive process.</strong> Engaging 3&ndash;5 qualified buyers through a structured
-          sale process typically increases the final price by 10&ndash;20% compared to negotiating with a
-          single buyer. Different buyer types &mdash; strategic acquirers, private equity firms,{" "}
+          <strong>Run a competitive process.</strong> Engaging 3-5 qualified buyers through a structured
+          sale process typically increases the final price by 10-20% compared to negotiating with a
+          single buyer. Different buyer types, strategic acquirers, private equity firms,{" "}
           <Link href="/learn/selling-to-search-fund" className="text-apple-accent hover:underline">
             search fund operators
-          </Link>, and individual buyers &mdash; value different attributes, and competition creates urgency
+          </Link>, and individual buyers, value different attributes, and competition creates urgency
           that prevents low-ball offers.
         </p>
 
         {/* ─── SECTION 7 ─── */}
-        <h2 className={h2Class}>Who Can Value Your Business &mdash; and What It Costs</h2>
+        <h2 className={h2Class}>Who Can Value Your Business, and What It Costs</h2>
         <p>
           The right professional depends on your business size and the purpose of the valuation. Here are
           your options, from least to most expensive.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Online valuation tools ($0&ndash;$500):</strong> Automated calculators from BizBuySell,
+            <strong>Online valuation tools ($0-$500):</strong> Automated calculators from BizBuySell,
             BizEx, or MassMutual provide rough estimates based on industry averages and basic financial
             inputs. Useful for initial orientation, but they miss nuances like customer concentration,
             management depth, and competitive positioning. Treat these as a starting point, not a final
             answer.
           </li>
           <li>
-            <strong>Business broker opinion of value ($0&ndash;$2,000):</strong> Brokers provide free or
+            <strong>Business broker opinion of value ($0-$2,000):</strong> Brokers provide free or
             low-cost estimates, often as part of a listing engagement pitch. Be aware that some brokers
             inflate valuations to win listings. A broker&rsquo;s opinion is most useful when paired with
             comparable transaction data from their own closed deals.
           </li>
           <li>
-            <strong>Certified valuation analyst ($5,000&ndash;$15,000):</strong> Credentialed professionals
+            <strong>Certified valuation analyst ($5,000-$15,000):</strong> Credentialed professionals
             (CVA, ABV, or ASA designations) produce formal valuation reports that hold up in legal and tax
             proceedings. The{" "}
             <a href="https://www.nacva.com/26bv0309upp" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
@@ -374,7 +374,7 @@ export default function WhatIsMyBusinessWorthArticle() {
             <strong>M&amp;A advisor ($15,000+ retainer plus success fee):</strong> For businesses above $3M
             in enterprise value, an M&amp;A advisor provides a market-based valuation range, runs the sale
             process, and negotiates deal terms. Advisors typically charge a monthly retainer plus a success
-            fee of 3&ndash;10% of the transaction value, with the percentage decreasing as deal size
+            fee of 3-10% of the transaction value, with the percentage decreasing as deal size
             increases.
           </li>
         </ul>
@@ -400,18 +400,18 @@ export default function WhatIsMyBusinessWorthArticle() {
             maximizing cash at close, even if it means accepting a slightly lower total price.
           </li>
           <li>
-            <strong>Seller financing:</strong> The seller carries a note for 10&ndash;30% of the purchase
-            price, typically at 5&ndash;8% interest over 3&ndash;7 years. According to the{" "}
+            <strong>Seller financing:</strong> The seller carries a note for 10-30% of the purchase
+            price, typically at 5-8% interest over 3-7 years. According to the{" "}
             <a href="https://www.bizbuysell.com/insight-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               BizBuySell data
-            </a>, roughly 75&ndash;90% of Main Street transactions include some form of{" "}
+            </a>, roughly 75-90% of Main Street transactions include some form of{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               seller financing
             </Link>. Offering it can widen your buyer pool and often justifies a higher total price.
           </li>
           <li>
             <strong>Earn-outs:</strong> A portion of the price is contingent on future performance
-            (typically revenue or EBITDA targets over 1&ndash;3 years). Earn-outs bridge valuation gaps
+            (typically revenue or EBITDA targets over 1-3 years). Earn-outs bridge valuation gaps
             but introduce risk that you will not receive the full amount.
           </li>
           <li>
@@ -430,7 +430,7 @@ export default function WhatIsMyBusinessWorthArticle() {
         <h3 className={h3Class}>How do I calculate what my business is worth quickly?</h3>
         <p>
           Start with your adjusted SDE or EBITDA from the last 12 months. Multiply by an
-          industry-appropriate multiple (typically 2&ndash;4x SDE for Main Street businesses, 3&ndash;6x
+          industry-appropriate multiple (typically 2-4x SDE for Main Street businesses, 3-6x
           EBITDA for lower middle market). This gives you a rough range within 15 minutes. For more
           precision, cross-check with comparable transactions and a{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
@@ -443,10 +443,10 @@ export default function WhatIsMyBusinessWorthArticle() {
           SDE (Seller&rsquo;s Discretionary Earnings) adds back the owner&rsquo;s total compensation,
           personal benefits, and one-time expenses to show the total economic benefit available to a
           single owner-operator. EBITDA strips out only interest, taxes, depreciation, and amortization
-          &mdash; it does not add back the owner&rsquo;s salary. SDE is used for businesses where the
-          owner is the primary operator (typically under $1&ndash;2M in revenue). EBITDA is used when a
+          it does not add back the owner&rsquo;s salary. SDE is used for businesses where the
+          owner is the primary operator (typically under $1-2M in revenue). EBITDA is used when a
           management team is in place and the owner&rsquo;s salary is a market-rate expense. The choice
-          between these two metrics can shift your valuation by 20&ndash;40%, so getting it right matters.
+          between these two metrics can shift your valuation by 20-40%, so getting it right matters.
         </p>
 
         <h3 className={h3Class}>Do I need a professional appraisal to sell my business?</h3>
@@ -461,14 +461,14 @@ export default function WhatIsMyBusinessWorthArticle() {
 
         <h3 className={h3Class}>How long does it take to value and sell a business?</h3>
         <p>
-          A professional valuation typically takes 2&ndash;6 weeks. The sale process itself takes 6&ndash;12
+          A professional valuation typically takes 2-6 weeks. The sale process itself takes 6-12
           months from listing to closing for most small businesses. The Pepperdine 2025 report noted that
           31% of engagements never close, most often due to valuation gaps between buyer and seller
           expectations. Starting your{" "}
           <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
             exit planning
           </Link>{" "}
-          18&ndash;24 months before your target sale date gives you time to improve financials, build
+          18-24 months before your target sale date gives you time to improve financials, build
           management depth, and position the business for maximum value.
         </p>
 

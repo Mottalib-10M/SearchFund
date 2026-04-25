@@ -12,7 +12,7 @@ export default function FundraisingDeckArticle() {
           Your fundraising deck is the visual companion to your <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link> and typically
           the first document an investor sees. While the PPM provides legal
           disclosure and thorough detail, the deck is your storytelling tool
-          &mdash; it frames the conversation during investor meetings and leaves
+          it frames the conversation during investor meetings and leaves
           a lasting impression. A great deck does not replace the PPM; it
           complements it by making your case concise, visual, and memorable.
           If you are still refining your acquisition thesis, review our guide
@@ -26,7 +26,7 @@ export default function FundraisingDeckArticle() {
           meeting. During the meeting, you walk through the deck while the PPM
           sits as a reference document. After the meeting, investors share the
           deck internally with their partners or investment committees, so it
-          must stand on its own. The PPM handles the legal heavy lifting &mdash;
+          must stand on its own. The PPM handles the legal heavy lifting , 
           risk factors, subscription terms, and regulatory disclosures do not
           belong in the deck.
         </p>
@@ -146,8 +146,8 @@ export default function FundraisingDeckArticle() {
         <h3 className={h3Class}>Layout and typography</h3>
         <p>
           Consistency in layout builds credibility before the investor reads a
-          single word. Choose a single sans-serif typeface &mdash; Helvetica Neue,
-          Inter, or similar &mdash; and use it across every slide. Titles should
+          single word. Choose a single sans-serif typeface, Helvetica Neue,
+          Inter, or similar, and use it across every slide. Titles should
           be 28-36pt, body text 16-20pt, and footnotes 10-12pt. Maintain generous
           margins (at least 0.75 inches on every side) so the content breathes.
           Align all elements to a grid: text blocks, charts, and images should
@@ -157,8 +157,8 @@ export default function FundraisingDeckArticle() {
         <p>
           Slide backgrounds should be white or very light gray. Dark backgrounds
           can look dramatic but they print poorly and distract from data.
-          Reserve color for accent elements &mdash; section headers, chart bars,
-          key numbers &mdash; rather than background fills. If you use icons, choose
+          Reserve color for accent elements, section headers, chart bars,
+          key numbers, rather than background fills. If you use icons, choose
           a single icon set (such as Feather or Phosphor) and apply them sparingly.
           Icons should clarify, not decorate.
         </p>
@@ -190,7 +190,7 @@ export default function FundraisingDeckArticle() {
         <p>
           Investors evaluate credibility through a combination of hard
           credentials and demonstrated preparation. An MBA from a top business
-          school is a strong signal, but it is not required &mdash; what matters
+          school is a strong signal, but it is not required, what matters
           more is evidence that you can operate a business. Relevant experience
           might include P&amp;L ownership, general management, consulting
           engagements with SMEs, or M&amp;A transaction experience. Quantify
@@ -198,7 +198,7 @@ export default function FundraisingDeckArticle() {
           from &euro;3M to &euro;8M over three years&rdquo; is far more
           compelling than &ldquo;extensive leadership experience.&rdquo;
           Include recognizable employer logos and educational institution
-          crests &mdash; visual pattern recognition is powerful and fast.
+          crests, visual pattern recognition is powerful and fast.
         </p>
 
         <h3 className={h3Class}>Clarity of market thesis</h3>
@@ -210,7 +210,7 @@ export default function FundraisingDeckArticle() {
           in Europe&rdquo; is not. Investors want to see that you have thought
           deeply about why your chosen market, sector, or geography offers
           attractive acquisition opportunities. Show awareness of
-          competitive dynamics &mdash; how many other searchers are targeting
+          competitive dynamics, how many other searchers are targeting
           the same space, and what gives you an edge in sourcing or
           operating.
         </p>
@@ -235,9 +235,9 @@ export default function FundraisingDeckArticle() {
           hesitation. Reference the Stanford and IESE search fund studies
           and know the key data points: median acquisition size, typical
           search duration, historical return multiples, and success rates.
-          If you are deviating from the traditional model &mdash; for
+          If you are deviating from the traditional model, for
           example, running a self-funded search or targeting a non-standard
-          geography &mdash; explain why and how it affects investor economics.
+          geography, explain why and how it affects investor economics.
         </p>
 
         <h2 className={h2Class}>The investor meeting flow</h2>
@@ -262,8 +262,8 @@ export default function FundraisingDeckArticle() {
           <li><strong>Generic thesis:</strong> &ldquo;Looking for a good business&rdquo; tells investors nothing. Be specific about why your criteria and geography matter.</li>
           <li><strong>No personal story:</strong> Investors fund people. If your background slide reads like a LinkedIn profile, rewrite it as a narrative.</li>
           <li><strong>Ignoring the ask:</strong> Be clear about how much you are raising, how many units remain, and the minimum check size.</li>
-          <li><strong>Sending without context:</strong> Never email the deck cold without a warm introduction or prior conversation. The deck supports a relationship &mdash; it does not replace one.</li>
-          <li><strong>No differentiation from other searchers:</strong> Investors hear dozens of pitches each year. If your deck could belong to any searcher &mdash; swap out the name and photo and nothing changes &mdash; you have not made a compelling case. Emphasize what is unique about your background, your thesis, or your approach to sourcing and operations. A differentiated story is the single strongest tool for standing out in a crowded field.</li>
+          <li><strong>Sending without context:</strong> Never email the deck cold without a warm introduction or prior conversation. The deck supports a relationship, it does not replace one.</li>
+          <li><strong>No differentiation from other searchers:</strong> Investors hear dozens of pitches each year. If your deck could belong to any searcher, swap out the name and photo and nothing changes, you have not made a compelling case. Emphasize what is unique about your background, your thesis, or your approach to sourcing and operations. A differentiated story is the single strongest tool for standing out in a crowded field.</li>
           <li><strong>Vague sector or geography focus:</strong> Saying you will search &ldquo;broadly across Europe&rdquo; or &ldquo;in any industry&rdquo; undermines your credibility. Investors know that effective searching requires focus. A broad mandate suggests you have not done the upfront work of understanding where the best opportunities lie. Even if you plan to remain somewhat flexible, lead with a primary thesis and explain why you may expand beyond it under certain conditions.</li>
           <li><strong>Inconsistent numbers:</strong> If your deck says you are raising &euro;500K but your PPM lists &euro;450K, investors will question your attention to detail. Before sending, cross-check every figure in the deck against the PPM and your financial model. Have a detail-oriented friend or advisor review both documents side by side.</li>
         </ul>
@@ -283,7 +283,7 @@ export default function FundraisingDeckArticle() {
           without reading from slides. Time yourself: the walk-through
           portion should take 12 to 15 minutes, leaving the majority of a
           45-minute meeting for discussion. Open with a brief personal
-          introduction &mdash; your name, your background in two sentences,
+          introduction, your name, your background in two sentences,
           and why you are excited about this opportunity. Then move into
           the deck. On each slide, state the key message, provide one or
           two supporting points, and pause briefly to check for questions
@@ -305,7 +305,7 @@ export default function FundraisingDeckArticle() {
           search takes longer than 24 months? How do you think about
           use at acquisition? What is your plan if you cannot find a
           deal? Prepare thoughtful, specific answers to each of these. The
-          worst thing you can do is give a vague or evasive response &mdash;
+          worst thing you can do is give a vague or evasive response , 
           it signals that you have not thought deeply about the risks and
           challenges of the model.
         </p>
@@ -336,7 +336,7 @@ export default function FundraisingDeckArticle() {
           momentum. Track every interaction in a simple CRM or
           spreadsheet: date of outreach, meeting date, follow-up dates,
           status, and notes. Set a soft deadline for the raise and
-          communicate it to investors &mdash; scarcity and urgency drive
+          communicate it to investors, scarcity and urgency drive
           decisions. Once you have commitments for 60 to 70 percent of
           your target, the remaining capital typically comes together
           quickly as later investors gain confidence from the social proof
@@ -354,7 +354,7 @@ export default function FundraisingDeckArticle() {
           PowerPoint or Google Slides with consistent fonts, a limited color
           palette, and ample white space is sufficient. Many successful
           searchers create their own decks. However, if design is not your
-          strength, spending $500&ndash;$1,000 on a freelance designer to
+          strength, spending $500-$1,000 on a freelance designer to
           polish the layout can be a worthwhile investment - first impressions
           matter, and a polished deck signals attention to detail.
         </p>

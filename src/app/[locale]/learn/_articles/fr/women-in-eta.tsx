@@ -15,7 +15,7 @@ export default function WomenInETAFR() {
           dirigeants au cours de ses quatre d&eacute;cennies d&apos;existence. Mais la
           d&eacute;mographie de ces dirigeants reste remarquablement homog&egrave;ne. Les
           femmes repr&eacute;sentent environ 15% des searchers actifs aujourd&apos;hui
-          &mdash; un chiffre en progression, mais bien trop lentement. Cet
+          un chiffre en progression, mais bien trop lentement. Cet
           article examine le paysage actuel en Europe et en France, les
           barri&egrave;res qui persistent, les organisations qui travaillent au
           changement, et les &eacute;tapes concretes que les aspirantes searchers
@@ -46,7 +46,7 @@ export default function WomenInETAFR() {
         </p>
         <p>
           Le d&eacute;ficit de diversit&eacute; n&apos;est pas simplement une question
-          d&apos;&eacute;quit&eacute; &mdash; c&apos;est une question &eacute;conomique. Un vivier plus
+          d&apos;&eacute;quit&eacute;, c&apos;est une question &eacute;conomique. Un vivier plus
           diversifi&eacute; de searchers signifie plus de talents en comp&eacute;tition
           pour les deals, une meilleure couverture des g&eacute;ographies et
           secteurs sous-repr&eacute;sent&eacute;s, et une classe d&apos;actifs globalement
@@ -73,7 +73,7 @@ export default function WomenInETAFR() {
         <p>
           Les femmes entrant dans le fundraising ETA doivent &ecirc;tre pr&eacute;par&eacute;es
           &agrave; cette dynamique et s&apos;entra&icirc;ner &agrave; recadrer les questions de
-          pr&eacute;vention en r&eacute;ponses de promotion &mdash; transformer une question
+          pr&eacute;vention en r&eacute;ponses de promotion, transformer une question
           sur la protection contre les baisses en une discussion sur le
           potentiel haussier de l&apos;opportunit&eacute;.
         </p>
@@ -81,7 +81,7 @@ export default function WomenInETAFR() {
         <h3 className={h3Class}>Acc&egrave;s aux r&eacute;seaux et gatekeeping informel</h3>
         <p>
           L&apos;&eacute;cosyst&egrave;me ETA s&apos;est historiquement construit &agrave; travers des
-          canaux informels &mdash; d&icirc;ners, &eacute;v&eacute;nements alumni, conversations
+          canaux informels, d&icirc;ners, &eacute;v&eacute;nements alumni, conversations
           de couloir lors de conf&eacute;rences. Les femmes peuvent se trouver
           exclues de ces cadres informels, non par un gatekeeping
           intentionnel mais par les dynamiques sociales de r&eacute;seaux &agrave;
@@ -102,8 +102,8 @@ export default function WomenInETAFR() {
         <h3 className={h3Class}>N&eacute;gocier avec des c&eacute;dants traditionnels</h3>
         <p>
           De nombreuses entreprises cibles de search funds op&egrave;rent dans des
-          secteurs traditionnels &mdash; industrie manufacturi&egrave;re, BTP,
-          distribution &mdash; o&ugrave; le profil des dirigeants est &agrave;
+          secteurs traditionnels, industrie manufacturi&egrave;re, BTP,
+          distribution, o&ugrave; le profil des dirigeants est &agrave;
           pr&eacute;dominance masculine et plus &acirc;g&eacute;. Des searchers femmes ont
           rapport&eacute; des situations o&ugrave; des c&eacute;dants ont questionn&eacute; leur
           capacit&eacute; &agrave; diriger une main-d&apos;&oelig;uvre ouvri&egrave;re ou exprim&eacute; du
@@ -113,15 +113,15 @@ export default function WomenInETAFR() {
           une expertise sectorielle approfondie, en apportant une
           cr&eacute;dibilit&eacute; op&eacute;rationnelle d&egrave;s les premi&egrave;res conversations, et
           en concentrant le c&eacute;dant sur leur engagement envers les salari&eacute;s
-          et l&apos;h&eacute;ritage de l&apos;entreprise &mdash; des valeurs qui transcendent le
+          et l&apos;h&eacute;ritage de l&apos;entreprise, des valeurs qui transcendent le
           genre.
         </p>
 
         <h3 className={h3Class}>&Eacute;quilibre vie professionnelle-vie personnelle</h3>
         <p>
-          La phase de recherche exige un effort intense et soutenu &mdash;
+          La phase de recherche exige un effort intense et soutenu , 
           souvent 50 &agrave; 60 heures par semaine de sourcing, networking, due
-          diligence et d&eacute;placements &mdash; pendant 18 &agrave; 30 mois. La premi&egrave;re
+          diligence et d&eacute;placements, pendant 18 &agrave; 30 mois. La premi&egrave;re
           ann&eacute;e d&apos;op&eacute;rations post-acquisition est &eacute;galement exigeante. Pour
           les femmes avec des responsabilit&eacute;s familiales ou qui planifient
           une famille, ce calendrier croise des d&eacute;cisions de vie critiques.
@@ -129,7 +129,7 @@ export default function WomenInETAFR() {
           conversations honn&ecirc;tes avec les partenaires sur les attentes de
           charge de travail, de la mise en place de syst&egrave;mes de soutien
           (garde d&apos;enfants, gestion du foyer) avant de lancer la recherche,
-          et de la reconnaissance que la p&eacute;riode intensive est finie &mdash;
+          et de la reconnaissance que la p&eacute;riode intensive est finie , 
           le mode de vie d&apos;un dirigeant &eacute;tabli est plus g&eacute;rable que celui
           d&apos;un searcher actif.
         </p>
@@ -153,8 +153,8 @@ export default function WomenInETAFR() {
           INSEAD &agrave; Fontainebleau est le pionnier de l&apos;&eacute;ducation ETA en
           Europe. Son International Search Fund Center a &eacute;t&eacute; un catalyseur
           pour la diversification du profil des searchers. Le r&eacute;seau alumni
-          global d&apos;INSEAD &mdash; l&apos;un des plus diversifi&eacute;s au monde en termes
-          de nationalit&eacute;s &mdash; offre aux femmes searchers un acc&egrave;s &agrave; un
+          global d&apos;INSEAD, l&apos;un des plus diversifi&eacute;s au monde en termes
+          de nationalit&eacute;s, offre aux femmes searchers un acc&egrave;s &agrave; un
           vivier d&apos;investisseurs international qui peut &ecirc;tre plus r&eacute;ceptif
           &agrave; des profils non traditionnels que les r&eacute;seaux purement locaux.
         </p>
@@ -197,7 +197,7 @@ export default function WomenInETAFR() {
         <h2 className={h2Class}>La perspective des investisseurs sur la diversit&eacute;</h2>
         <p>
           Un nombre croissant d&apos;investisseurs en search funds recherchent
-          activement des candidates diverses &mdash; non pas comme une
+          activement des candidates diverses, non pas comme une
           concession &agrave; la pression sociale, mais comme une strat&eacute;gie
           d&apos;investissement rationnelle. La logique est directe&nbsp;: si le
           vivier traditionnel de searchers est massivement masculin et issu
@@ -211,8 +211,8 @@ export default function WomenInETAFR() {
           sur l&apos;&eacute;quilibre hommes-femmes dans les conseils d&apos;administration
           des soci&eacute;t&eacute;s cot&eacute;es a cr&eacute;&eacute; une dynamique culturelle favorable &agrave;
           la diversit&eacute; du leadership qui se diffuse progressivement dans
-          l&apos;&eacute;cosyst&egrave;me des PME. Les investisseurs institutionnels &mdash;
-          family offices, fonds de dotation, fonds de fonds &mdash; int&egrave;grent
+          l&apos;&eacute;cosyst&egrave;me des PME. Les investisseurs institutionnels , 
+          family offices, fonds de dotation, fonds de fonds, int&egrave;grent
           de plus en plus des crit&egrave;res de diversit&eacute; dans leurs d&eacute;cisions
           d&apos;allocation. Pour les investisseurs en search funds levant
           eux-m&ecirc;mes du capital aupr&egrave;s de ces institutions, d&eacute;montrer un
@@ -243,7 +243,7 @@ export default function WomenInETAFR() {
           <li>
             <strong>Taux de compl&eacute;tion&nbsp;:</strong> Les femmes qui lancent des
             recherches compl&egrave;tent des acquisitions &agrave; des taux comparables
-            aux searchers masculins &mdash; les barri&egrave;res se situent dans
+            aux searchers masculins, les barri&egrave;res se situent dans
             l&apos;entr&eacute;e dans le pipeline, pas dans l&apos;ex&eacute;cution une fois dedans
           </li>
         </ul>
@@ -283,7 +283,7 @@ export default function WomenInETAFR() {
           des profils similaires (homme, MBA prestigieux, pass&eacute; en conseil
           ou en banque d&apos;affaires), il per&ccedil;oit inconsciemment les candidats
           correspondant &agrave; ce pattern comme moins risqu&eacute;s. Les candidates qui
-          d&eacute;vient &mdash; femmes, minorit&eacute;s, profils non-MBA &mdash; font face &agrave;
+          d&eacute;vient, femmes, minorit&eacute;s, profils non-MBA, font face &agrave;
           une charge de preuve plus &eacute;lev&eacute;e, m&ecirc;me lorsque les qualifications
           sont &eacute;quivalentes ou sup&eacute;rieures.
         </p>
@@ -298,9 +298,9 @@ export default function WomenInETAFR() {
         <ul className={ulClass}>
           <li>Mettre en place des entretiens structur&eacute;s pour r&eacute;duire les biais inconscients</li>
           <li>&Eacute;largir le recrutement aux &eacute;coles techniques, aux formations en alternance et aux organisations servant les communaut&eacute;s sous-repr&eacute;sent&eacute;es</li>
-          <li>Auditer la r&eacute;mun&eacute;ration pour l&apos;&eacute;quit&eacute; salariale entre genres &mdash; obligation l&eacute;gale en France via l&apos;Index de l&apos;&eacute;galit&eacute; professionnelle</li>
+          <li>Auditer la r&eacute;mun&eacute;ration pour l&apos;&eacute;quit&eacute; salariale entre genres, obligation l&eacute;gale en France via l&apos;Index de l&apos;&eacute;galit&eacute; professionnelle</li>
           <li>Mettre en place des politiques de cong&eacute; parental pour tous les salari&eacute;s</li>
-          <li>Montrer l&apos;exemple &mdash; votre pr&eacute;sence en tant que dirigeante diverse normalise le leadership diversifi&eacute; pour l&apos;ensemble de l&apos;organisation</li>
+          <li>Montrer l&apos;exemple, votre pr&eacute;sence en tant que dirigeante diverse normalise le leadership diversifi&eacute; pour l&apos;ensemble de l&apos;organisation</li>
         </ul>
 
         <h2 className={h2Class}>Comment les investisseurs peuvent soutenir la diversit&eacute;</h2>
@@ -345,7 +345,7 @@ export default function WomenInETAFR() {
             <strong>Construire votre pipeline investisseur
             d&eacute;lib&eacute;r&eacute;ment&nbsp;:</strong> Rechercher les{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">investisseurs qui ont soutenu des searchers divers</Link>{" "}
-            &mdash; ils sont &agrave; l&apos;aise avec des profils non traditionnels et
+            ils sont &agrave; l&apos;aise avec des profils non traditionnels et
             peuvent vous introduire aupr&egrave;s d&apos;autres
           </li>
           <li>
@@ -393,8 +393,8 @@ export default function WomenInETAFR() {
         <h2 className={h2Class}>Perspective d&apos;avenir</h2>
         <p>
           Le mod&egrave;le du search fund est &agrave; un point d&apos;inflexion. L&apos;infrastructure
-          &mdash; fonds d&eacute;di&eacute;s, r&eacute;seaux de mentorat, groupes d&apos;affinit&eacute; et
-          investisseurs engag&eacute;s &mdash; existe d&eacute;sormais de mani&egrave;res qui
+          fonds d&eacute;di&eacute;s, r&eacute;seaux de mentorat, groupes d&apos;affinit&eacute; et
+          investisseurs engag&eacute;s, existe d&eacute;sormais de mani&egrave;res qui
           n&apos;existaient pas il y a cinq ans. En France, le cadre r&eacute;glementaire
           (Index de l&apos;&eacute;galit&eacute; professionnelle, loi Rixain sur les quotas en
           comit&eacute;s de direction) cr&eacute;e une dynamique culturelle favorable &agrave; la

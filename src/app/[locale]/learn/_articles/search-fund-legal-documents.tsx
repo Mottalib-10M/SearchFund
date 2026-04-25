@@ -72,7 +72,7 @@ export default function SearchFundLegalDocumentsArticle() {
         <p>Documents governing the searcher&apos;s equity participation at acquisition:</p>
         <ul className={ulClass}>
           <li><strong>Step-up conversion:</strong> How search capital converts to acquisition equity (typically at 1.5x, meaning $1 of search capital converts to $1.50 of acquisition equity)</li>
-          <li><strong>Searcher equity vesting:</strong> Schedule for the searcher&apos;s <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">carried interest / management equity</Link> (typically 20&ndash;25% over 4&ndash;5 years)</li>
+          <li><strong>Searcher equity vesting:</strong> Schedule for the searcher&apos;s <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">carried interest / management equity</Link> (typically 20-25% over 4-5 years)</li>
           <li><strong>Equity rollover:</strong> Terms for the searcher to invest personal capital alongside investors</li>
           <li><strong>Accelerated vesting:</strong> Conditions under which vesting accelerates (change of control, termination without cause)</li>
         </ul>
@@ -82,7 +82,7 @@ export default function SearchFundLegalDocumentsArticle() {
       <div className={bodyClass}>
         <p>After the acquisition closes, a new operating agreement governs the acquired company:</p>
         <ul className={ulClass}>
-          <li><strong>Board composition:</strong> Typically 3&ndash;5 members (searcher + investor representatives + independent)</li>
+          <li><strong>Board composition:</strong> Typically 3-5 members (searcher + investor representatives + independent)</li>
           <li><strong>Reserved matters:</strong> Decisions requiring board/investor approval (new debt, major capex, hiring/firing executives, dividends)</li>
           <li><strong>Drag-along/tag-along rights:</strong> Sale protections for majority and minority holders</li>
           <li><strong>Anti-dilution provisions:</strong> Protection against value dilution in future financing rounds</li>
@@ -105,10 +105,10 @@ export default function SearchFundLegalDocumentsArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>The LPA, subscription agreement, and PPM form the core legal documents for a search fund raise</li>
-          <li>Yale SOM and Stanford GSB templates are the industry standard &mdash; use them as your starting point</li>
-          <li>Negotiate the step-up ratio, vesting schedule, and reserved matters carefully &mdash; these define your economics</li>
+          <li>Yale SOM and Stanford GSB templates are the industry standard, use them as your starting point</li>
+          <li>Negotiate the step-up ratio, vesting schedule, and reserved matters carefully, these define your economics</li>
           <li>Side letters should be used sparingly for anchor investors providing outsized value</li>
-          <li>Engage an attorney experienced in search fund structures &mdash; generic M&A lawyers may miss industry-specific nuances</li>
+          <li>Engage an attorney experienced in search fund structures, generic M&A lawyers may miss industry-specific nuances</li>
         </ul>
       </div>
 
@@ -134,7 +134,7 @@ export default function SearchFundLegalDocumentsArticle() {
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
-        <li>Yale SOM, <em>Search Fund Legal Documents Series</em> (2020&ndash;2024)</li>
+        <li>Yale SOM, <em>Search Fund Legal Documents Series</em> (2020-2024)</li>
         <li>Stanford GSB, <em>Search Fund Primer</em> (2024)</li>
         <li>IESE Business School, <em>International Search Fund Study: Legal Structures</em> (2024)</li>
         <li>Harvard Business School, <em>Note on Search Fund Governance</em> (2023)</li>

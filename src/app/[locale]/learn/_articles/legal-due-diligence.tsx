@@ -27,7 +27,7 @@ export default function LegalDueDiligenceArticle() {
           <li><strong>Entity formation documents:</strong> Articles of incorporation/organization, bylaws, operating agreements</li>
           <li><strong>Good standing certificates:</strong> Verify the entity is in good standing in its state/jurisdiction of formation and all states where it operates</li>
           <li><strong>Capitalization and ownership:</strong> Confirm who owns what. Are there any minority shareholders, phantom equity, or options outstanding?</li>
-          <li><strong>Board minutes:</strong> Review board and shareholder meeting minutes for the past 3&ndash;5 years</li>
+          <li><strong>Board minutes:</strong> Review board and shareholder meeting minutes for the past 3-5 years</li>
           <li><strong>Authority to sell:</strong> Verify that the seller has the legal authority to execute the transaction (shareholder approvals, spousal consent if applicable)</li>
         </ul>
 
@@ -48,7 +48,7 @@ export default function LegalDueDiligenceArticle() {
         <h3 className={h3Class}>Change-of-control provisions</h3>
         <p>
           Identify any contracts that contain change-of-control clauses
-          &mdash; these allow the counterparty to terminate or renegotiate
+          these allow the counterparty to terminate or renegotiate
           the agreement upon a change in ownership:
         </p>
         <ul className={ulClass}>
@@ -62,7 +62,7 @@ export default function LegalDueDiligenceArticle() {
         <ul className={ulClass}>
           <li><strong>Active litigation:</strong> All pending lawsuits, arbitrations, and administrative proceedings</li>
           <li><strong>Threatened claims:</strong> Demand letters, cease-and-desist notices, regulatory investigations</li>
-          <li><strong>Historical litigation:</strong> Review resolved cases from the past 3&ndash;5 years (patterns matter)</li>
+          <li><strong>Historical litigation:</strong> Review resolved cases from the past 3-5 years (patterns matter)</li>
           <li><strong>Workers&rsquo; compensation claims:</strong> History and current Experience Modification Rate (EMR)</li>
           <li><strong>Regulatory enforcement:</strong> Any OSHA citations, EPA violations, or industry-specific regulatory actions</li>
         </ul>
@@ -87,14 +87,14 @@ export default function LegalDueDiligenceArticle() {
           <li><strong>Trade secrets:</strong> How are proprietary processes, formulas, and customer lists protected?</li>
           <li><strong>Software and technology:</strong> Ownership of code, licenses, and whether key technology was developed by employees (work-for-hire) or contractors (assignment required)</li>
           <li><strong>Domain names and digital assets:</strong> Ownership and registration details</li>
-          <li><strong>IP ownership:</strong> Critical check &mdash; was IP properly assigned from contractors or former employees?</li>
+          <li><strong>IP ownership:</strong> Critical check, was IP properly assigned from contractors or former employees?</li>
         </ul>
 
         <h2 className={h2Class}>Real estate and environmental</h2>
         <ul className={ulClass}>
           <li><strong>Owned property:</strong> Title search, liens, encumbrances, zoning compliance</li>
           <li><strong>Leased property:</strong> Lease assignment provisions, landlord consent, rent above/below market</li>
-          <li><strong>Environmental:</strong> Phase I Environmental Site Assessment for owned or leased property with industrial/manufacturing use. Budget $5K&ndash;$15K</li>
+          <li><strong>Environmental:</strong> Phase I Environmental Site Assessment for owned or leased property with industrial/manufacturing use. Budget $5K-$15K</li>
           <li><strong>Permits and zoning:</strong> All required operating permits, zoning approvals, certificates of occupancy</li>
         </ul>
 
@@ -126,9 +126,9 @@ export default function LegalDueDiligenceArticle() {
 
         <h2 className={h2Class}>Legal DD timeline and costs</h2>
         <ul className={ulClass}>
-          <li><strong>Timeline:</strong> 3&ndash;6 weeks running in parallel with financial DD</li>
-          <li><strong>Legal counsel fees:</strong> $15K&ndash;$50K for buyer&rsquo;s counsel to conduct LDD (depends on deal complexity), according to Stanford GSB acquisition cost benchmarks</li>
-          <li><strong>Environmental:</strong> $5K&ndash;$15K for Phase I assessment (if applicable)</li>
+          <li><strong>Timeline:</strong> 3-6 weeks running in parallel with financial DD</li>
+          <li><strong>Legal counsel fees:</strong> $15K-$50K for buyer&rsquo;s counsel to conduct LDD (depends on deal complexity), according to Stanford GSB acquisition cost benchmarks</li>
+          <li><strong>Environmental:</strong> $5K-$15K for Phase I assessment (if applicable)</li>
           <li><strong>Specialist reviews:</strong> IP counsel, employment counsel, regulatory counsel as needed</li>
         </ul>
         <h2 className={h2Class}>Negotiating legal protections in the purchase agreement</h2>
@@ -141,16 +141,16 @@ export default function LegalDueDiligenceArticle() {
           </Link>. Specific legal risks identified during LDD should be
           addressed through targeted indemnities (seller agrees to cover
           losses from identified risks), escrow holdbacks (a portion of
-          the purchase price held in escrow for 12&ndash;18 months), or
+          the purchase price held in escrow for 12-18 months), or
           purchase price reductions. The most common negotiated protections
           include indemnities for undisclosed litigation, tax liabilities,
           employee classification issues, and environmental remediation costs.
         </p>
         <p>
-          For deal-killing issues discovered during legal DD &mdash; such as
+          For deal-killing issues discovered during legal DD, such as
           unresolvable title defects, material pending litigation, or
           regulatory non-compliance that threatens the operating license
-          &mdash; the buyer should have a clear termination right in the{" "}
+          the buyer should have a clear termination right in the{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             LOI
           </Link>{" "}
@@ -197,13 +197,13 @@ export default function LegalDueDiligenceArticle() {
           In a share purchase, you acquire the entire legal entity,
           including all known and unknown liabilities. This requires
           more extensive legal DD because you inherit the company&rsquo;s
-          full legal history &mdash; every contract, every past dispute,
+          full legal history, every contract, every past dispute,
           every regulatory interaction. In an asset purchase, you select
           specific assets and assume only specified liabilities, reducing
           (but not eliminating) legal risk. However, asset purchases
           require individual assignment of every contract, lease, and
           license, which adds complexity and time. Most SME acquisitions
-          structured as asset purchases take 2&ndash;4 weeks longer to
+          structured as asset purchases take 2-4 weeks longer to
           close due to the consent and assignment process.
         </p>
 

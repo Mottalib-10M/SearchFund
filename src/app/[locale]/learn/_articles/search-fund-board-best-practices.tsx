@@ -10,7 +10,7 @@ export default function SearchFundBoardBestPracticesArticle() {
       <div className={bodyClass}>
         <p>
           A well-functioning board of directors is one of the most powerful
-          assets a search fund CEO can have &mdash; and one of the most
+          assets a search fund CEO can have, and one of the most
           underutilized. Search fund boards occupy a distinctive middle
           ground: investors hold the majority of seats, the CEO is a
           first-time operator, and the stakes are intensely personal for
@@ -24,7 +24,7 @@ export default function SearchFundBoardBestPracticesArticle() {
         <h2 className={h2Class}>Board composition: who belongs at the table</h2>
         <p>
           Board composition is typically negotiated during the acquisition
-          &mdash; enshrined in the shareholders&rsquo; agreement alongside{" "}
+          enshrined in the shareholders&rsquo; agreement alongside{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap table and equity terms</Link>.
           Negotiating intelligently requires understanding what makes a
           board effective, not just what satisfies governance requirements.
@@ -33,14 +33,14 @@ export default function SearchFundBoardBestPracticesArticle() {
         <h3 className={h3Class}>Investor seats</h3>
         <p>
           In a traditional search fund with ten to twenty investors, only
-          two or three take board seats &mdash; typically the lead investors
+          two or three take board seats, typically the lead investors
           who committed the largest checks. The best investor directors
           bring operating experience in addition to financial acumen.
           Advocate for investor directors who have managed a P&amp;L rather
           than those who have only managed a portfolio.
         </p>
         <ul className={ulClass}>
-          <li>Prioritize investors with direct operating experience &mdash; ideally in your industry or an adjacent one.</li>
+          <li>Prioritize investors with direct operating experience, ideally in your industry or an adjacent one.</li>
           <li>Assess availability honestly. An investor managing thirty portfolio companies will not have time to take your calls between meetings.</li>
           <li>Look for investors who have served on other search fund boards and understand the dynamics of a first-time CEO leading a newly-acquired SME.</li>
           <li>Consider chemistry. You will work with these people for five to seven years. Mutual respect and trust are prerequisites, not aspirations.</li>
@@ -48,8 +48,8 @@ export default function SearchFundBoardBestPracticesArticle() {
 
         <h3 className={h3Class}>Independent directors</h3>
         <p>
-          An independent director &mdash; someone unaffiliated with any
-          investor group &mdash; brings objectivity, industry-specific
+          An independent director, someone unaffiliated with any
+          investor group, brings objectivity, industry-specific
           expertise, and a perspective unclouded by return expectations.
           Many search fund CEOs recruit independent directors from their{" "}
           <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link>,
@@ -58,8 +58,8 @@ export default function SearchFundBoardBestPracticesArticle() {
           when CEO-investor dynamics become strained: they serve as a
           bridge between the CEO&rsquo;s operational reality and
           investors&rsquo; financial expectations. Compensation typically
-          ranges from $5K&ndash;$15K annually in cash or a small equity
-          grant of 0.25%&ndash;1.0%.
+          ranges from $5K-$15K annually in cash or a small equity
+          grant of 0.25%-1.0%.
         </p>
 
         <h3 className={h3Class}>Industry experts</h3>
@@ -85,23 +85,23 @@ export default function SearchFundBoardBestPracticesArticle() {
 
         <h3 className={h3Class}>Recommended cadence</h3>
         <ul className={ulClass}>
-          <li><strong>Year one post-acquisition:</strong> monthly board meetings. The first year is the riskiest &mdash; management transition, employee retention, and operational stabilization all require close oversight.</li>
+          <li><strong>Year one post-acquisition:</strong> monthly board meetings. The first year is the riskiest, management transition, employee retention, and operational stabilization all require close oversight.</li>
           <li><strong>Year two and beyond:</strong> quarterly board meetings supplemented by monthly written investor updates and ad hoc calls as needed.</li>
-          <li><strong>Crisis periods:</strong> return to monthly or biweekly meetings during material events &mdash; key customer loss, acquisition integration, financial underperformance, or exit preparation.</li>
+          <li><strong>Crisis periods:</strong> return to monthly or biweekly meetings during material events, key customer loss, acquisition integration, financial underperformance, or exit preparation.</li>
         </ul>
 
-        <h3 className={h3Class}>Meeting structure (2&ndash;3 hours)</h3>
+        <h3 className={h3Class}>Meeting structure (2-3 hours)</h3>
         <p>
           A common mistake is spending 80% of the meeting reviewing
           financials and 20% on strategy. The best boards flip this ratio.
         </p>
         <ol className={olClass}>
           <li><strong>Consent agenda (5 min):</strong> approve prior meeting minutes, routine resolutions, and committee reports distributed in advance.</li>
-          <li><strong>CEO narrative update (20&ndash;30 min):</strong> high-level overview of performance, key wins, challenges, and priorities. Tell a story &mdash; do not recite numbers.</li>
-          <li><strong>Financial review (20&ndash;30 min):</strong> walk through key metrics, budget variances, and cash flow. Focus on exceptions and trends, not line-by-line details.</li>
-          <li><strong>Strategic deep dive (45&ndash;60 min):</strong> the heart of the meeting. One strategic topic &mdash; pricing strategy, add-on evaluation, technology investment, organizational design, or exit planning. Rotate each meeting.</li>
-          <li><strong>Decision items (15&ndash;20 min):</strong> specific decisions framed clearly: situation, options, recommendation.</li>
-          <li><strong>Executive session (15 min):</strong> board members meet without the CEO. Standard practice &mdash; not adversarial.</li>
+          <li><strong>CEO narrative update (20-30 min):</strong> high-level overview of performance, key wins, challenges, and priorities. Tell a story, do not recite numbers.</li>
+          <li><strong>Financial review (20-30 min):</strong> walk through key metrics, budget variances, and cash flow. Focus on exceptions and trends, not line-by-line details.</li>
+          <li><strong>Strategic deep dive (45-60 min):</strong> the heart of the meeting. One strategic topic, pricing strategy, add-on evaluation, technology investment, organizational design, or exit planning. Rotate each meeting.</li>
+          <li><strong>Decision items (15-20 min):</strong> specific decisions framed clearly: situation, options, recommendation.</li>
+          <li><strong>Executive session (15 min):</strong> board members meet without the CEO. Standard practice, not adversarial.</li>
         </ol>
 
         <h2 className={h2Class}>Board materials and deck best practices</h2>
@@ -112,13 +112,13 @@ export default function SearchFundBoardBestPracticesArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Financial statements:</strong> monthly P&amp;L, balance sheet, and cash flow with budget variances. Include trailing twelve-month trends and year-over-year comparisons.</li>
-          <li><strong>KPI dashboard:</strong> five to ten key metrics &mdash; both financial (revenue growth, gross margin, EBITDA margin, cash conversion) and operational (customer retention, employee turnover, NPS, pipeline).</li>
+          <li><strong>KPI dashboard:</strong> five to ten key metrics, both financial (revenue growth, gross margin, EBITDA margin, cash conversion) and operational (customer retention, employee turnover, NPS, pipeline).</li>
           <li><strong>CEO narrative memo:</strong> a two-to-three page memo summarizing the state of the business, key developments, and the CEO&rsquo;s assessment of risks and opportunities.</li>
           <li><strong>Deep dive materials:</strong> background reading and analysis for the strategic topic, including data, options, and your preliminary recommendation.</li>
           <li><strong>Decision items:</strong> clearly framed proposals with context, alternatives, and the CEO&rsquo;s recommendation. Directors should never make decisions without adequate preparation time.</li>
         </ul>
         <p>
-          Keep slides concise &mdash; no more than 15&ndash;20 for the
+          Keep slides concise, no more than 15-20 for the
           entire meeting. Lead with the headline on each slide. Use
           appendix slides for detailed backup and reference them when
           questions arise. Never circulate the deck the morning of the
@@ -138,7 +138,7 @@ export default function SearchFundBoardBestPracticesArticle() {
           The cardinal rule of{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
           applies doubly to board management. If something material happens
-          &mdash; positive or negative &mdash; communicate it immediately,
+         , positive or negative, communicate it immediately,
           not at the next meeting. Bad news does not improve with age. A
           director who learns about a significant problem for the first
           time in a board meeting will feel blindsided, and blindsided
@@ -172,8 +172,8 @@ export default function SearchFundBoardBestPracticesArticle() {
           A common source of tension is the boundary between strategic
           oversight (the board&rsquo;s domain) and operational management
           (the CEO&rsquo;s domain). When directors cross from strategy into
-          operations &mdash; questioning individual hiring decisions or
-          inserting themselves into customer relationships &mdash; the CEO
+          operations, questioning individual hiring decisions or
+          inserting themselves into customer relationships, the CEO
           feels micromanaged and the board becomes a drag on execution.
         </p>
         <p>
@@ -182,7 +182,7 @@ export default function SearchFundBoardBestPracticesArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>CEO authority:</strong> hiring and firing below VP level, capital expenditures under $50K, operational decisions within approved budget, pricing within defined bands.</li>
-          <li><strong>Board notification:</strong> senior management changes, capex of $50K&ndash;$200K, customer or vendor concentration changes, competitive threats, material litigation.</li>
+          <li><strong>Board notification:</strong> senior management changes, capex of $50K-$200K, customer or vendor concentration changes, competitive threats, material litigation.</li>
           <li><strong>Board approval required:</strong> annual budget, CEO compensation, acquisitions or divestitures, capex above $200K, new debt or equity issuance, changes to corporate structure,{" "}
             <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">equity grants</Link>{" "}
             or option pool changes.</li>
@@ -211,14 +211,14 @@ export default function SearchFundBoardBestPracticesArticle() {
         <p>
           An executive session is a portion of the board meeting where
           directors meet without the CEO. Every meeting should include one
-          &mdash; typically 10&ndash;15 minutes at the end. Its absence
+          typically 10-15 minutes at the end. Its absence
           signals naivety about{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board governance</Link>{" "}
           or a CEO uncomfortable with candid evaluation.
         </p>
         <ul className={ulClass}>
           <li><strong>Purpose:</strong> discuss CEO performance, compensation, succession planning, and concerns about business or leadership without the CEO in the room.</li>
-          <li><strong>Feedback loop:</strong> after the session, the board chair should debrief the CEO on actionable feedback. Without this loop, the CEO is left guessing &mdash; and guessing erodes trust.</li>
+          <li><strong>Feedback loop:</strong> after the session, the board chair should debrief the CEO on actionable feedback. Without this loop, the CEO is left guessing, and guessing erodes trust.</li>
           <li><strong>Do not take it personally:</strong> reframe executive sessions as an opportunity. They give your board a safe space to align, which produces clearer guidance for you.</li>
         </ul>
 
@@ -237,8 +237,8 @@ export default function SearchFundBoardBestPracticesArticle() {
           <li><strong>Accept coaching:</strong> the best chairs function as executive coaches. Embrace their candid feedback on your leadership, communication style, and strategic thinking.</li>
         </ul>
         <p>
-          If the chair relationship is not working &mdash; too hands-off or
-          too controlling &mdash; address it directly. A dysfunctional
+          If the chair relationship is not working, too hands-off or
+          too controlling, address it directly. A dysfunctional
           CEO-chair relationship poisons the entire board dynamic.
         </p>
 
@@ -247,13 +247,13 @@ export default function SearchFundBoardBestPracticesArticle() {
           First-time CEOs tend to make predictable mistakes. The board
           members who{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">invested in your search fund</Link>{" "}
-          expect problems &mdash; they do not expect to be kept in the dark
+          expect problems, they do not expect to be kept in the dark
           about them.
         </p>
 
         <h3 className={h3Class}>Treating the board as an audience</h3>
         <p>
-          Many new CEOs approach meetings as presentations &mdash; polished
+          Many new CEOs approach meetings as presentations, polished
           decks, rehearsed delivery, focus on impressing rather than
           engaging. The result is a one-way information dump that wastes
           the board&rsquo;s collective expertise. The best CEOs present
@@ -264,8 +264,8 @@ export default function SearchFundBoardBestPracticesArticle() {
         <h3 className={h3Class}>Hiding bad news</h3>
         <p>
           The instinct to downplay problems is understandable but
-          destructive. When bad news surfaces &mdash; and it always does
-          &mdash; the cover-up damages trust far more than the original
+          destructive. When bad news surfaces, and it always does
+          the cover-up damages trust far more than the original
           problem. Report honestly; investors can handle setbacks.
         </p>
 
@@ -291,7 +291,7 @@ export default function SearchFundBoardBestPracticesArticle() {
         <p>
           First-time CEOs often interpret pushback as lack of confidence
           rather than constructive challenge. Directors who push back are
-          engaged directors &mdash; far preferable to those who nod along
+          engaged directors, far preferable to those who nod along
           and lose confidence quietly. Respond with data and logic,
           acknowledge valid concerns, and demonstrate you can incorporate
           feedback without losing direction.
@@ -303,20 +303,20 @@ export default function SearchFundBoardBestPracticesArticle() {
           not what you need at $10M EBITDA. Plan for the board to evolve.
         </p>
         <ul className={ulClass}>
-          <li><strong>$1M&ndash;$3M EBITDA:</strong> three-member board (CEO plus two investors). Monthly meetings, informal governance, minimal committee structure.</li>
-          <li><strong>$3M&ndash;$6M EBITDA:</strong> add an independent director with industry expertise. Formalize a compensation committee. Move to quarterly meetings with strong written updates.</li>
-          <li><strong>$6M&ndash;$10M+ EBITDA:</strong> expand to five members. Add a second independent or a director with M&amp;A experience. Formalize audit and exit committees.</li>
+          <li><strong>$1M-$3M EBITDA:</strong> three-member board (CEO plus two investors). Monthly meetings, informal governance, minimal committee structure.</li>
+          <li><strong>$3M-$6M EBITDA:</strong> add an independent director with industry expertise. Formalize a compensation committee. Move to quarterly meetings with strong written updates.</li>
+          <li><strong>$6M-$10M+ EBITDA:</strong> expand to five members. Add a second independent or a director with M&amp;A experience. Formalize audit and exit committees.</li>
         </ul>
 
         <p>
           Effective board governance is not about compliance or control
-          &mdash; it is about building a trusted partnership that produces
+          it is about building a trusted partnership that produces
           better decisions, faster growth, and stronger returns. The search
           fund CEOs who manage their boards most effectively treat directors
           as partners rather than overseers, communicate proactively rather
           than reactively, and invest in the individual relationships that
           transform a governance obligation into a genuine strategic
-          advantage. Your board is not a hurdle to clear &mdash; it is a
+          advantage. Your board is not a hurdle to clear, it is a
           resource to deploy.
         </p>
 
@@ -324,37 +324,37 @@ export default function SearchFundBoardBestPracticesArticle() {
 
         <h3 className={h3Class}>How many board members should a search fund company have, and how does this change over time?</h3>
         <p>
-          At the platform acquisition stage ($1M&ndash;$3M EBITDA), most search fund companies operate with a three-member board: the CEO and two investor directors who represent the lead investors. According to the{" "}
-          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, this lean structure works well during the critical first year when monthly meetings and informal governance are appropriate. As the company grows past $3M EBITDA, adding an independent director with industry expertise improves decision quality and provides an objective voice. At $6M&ndash;$10M+ EBITDA, expanding to five members and formalizing audit, compensation, and exit committees aligns governance with the complexity of a larger organization. The Stanford data also shows that approximately 25&ndash;30% of search fund CEOs are eventually replaced by their boards, making the composition and dynamics of the board a critical factor in the CEO&rsquo;s own tenure.
+          At the platform acquisition stage ($1M-$3M EBITDA), most search fund companies operate with a three-member board: the CEO and two investor directors who represent the lead investors. According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, this lean structure works well during the critical first year when monthly meetings and informal governance are appropriate. As the company grows past $3M EBITDA, adding an independent director with industry expertise improves decision quality and provides an objective voice. At $6M-$10M+ EBITDA, expanding to five members and formalizing audit, compensation, and exit committees aligns governance with the complexity of a larger organization. The Stanford data also shows that approximately 25-30% of search fund CEOs are eventually replaced by their boards, making the composition and dynamics of the board a critical factor in the CEO&rsquo;s own tenure.
         </p>
 
         <h3 className={h3Class}>What should I do if my board is micromanaging operational decisions?</h3>
         <p>
-          Board micromanagement is one of the most common friction points in search fund governance. The root cause is typically unclear decision-making authority. The most effective solution is to proactively define and document three tiers of authority in the shareholders&rsquo; agreement or a board charter: decisions the CEO can make unilaterally (hiring below VP level, capital expenditures under $50K, pricing within defined bands), decisions requiring board notification (senior management changes, capex of $50K&ndash;$200K), and decisions requiring formal board approval (annual budget, acquisitions, new debt or equity). When a director drifts into operational territory during a meeting, redirect diplomatically by acknowledging the insight and steering back to the strategic question. Between meetings, build individual relationships with each director through monthly one-on-one calls &mdash; directors who feel well-informed are far less likely to micromanage during formal sessions. For more on managing{" "}
+          Board micromanagement is one of the most common friction points in search fund governance. The root cause is typically unclear decision-making authority. The most effective solution is to proactively define and document three tiers of authority in the shareholders&rsquo; agreement or a board charter: decisions the CEO can make unilaterally (hiring below VP level, capital expenditures under $50K, pricing within defined bands), decisions requiring board notification (senior management changes, capex of $50K-$200K), and decisions requiring formal board approval (annual budget, acquisitions, new debt or equity). When a director drifts into operational territory during a meeting, redirect diplomatically by acknowledging the insight and steering back to the strategic question. Between meetings, build individual relationships with each director through monthly one-on-one calls, directors who feel well-informed are far less likely to micromanage during formal sessions. For more on managing{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
           effectively, see our dedicated guide.
         </p>
 
         <h3 className={h3Class}>How should I handle the executive session where the board meets without me?</h3>
         <p>
-          Executive sessions &mdash; where directors meet without the CEO &mdash; are standard governance practice, not a sign of distrust. Every board meeting should include a 10&ndash;15 minute executive session at the end. According to governance best practices documented by the National Association of Corporate Directors (NACD), the executive session serves three purposes: discussing CEO performance and compensation, airing concerns that directors may not feel comfortable raising in front of management, and aligning the board on strategic priorities. The critical element is the feedback loop: after each session, the board chair should debrief you on actionable feedback. Without this loop, you are left guessing, which erodes trust. Proactively schedule executive sessions, prepare for them by pre-socializing important topics with your chair, and reframe them as an opportunity for your board to align &mdash; which produces clearer, more consistent guidance for you as CEO.
+          Executive sessions, where directors meet without the CEO, are standard governance practice, not a sign of distrust. Every board meeting should include a 10-15 minute executive session at the end. According to governance best practices documented by the National Association of Corporate Directors (NACD), the executive session serves three purposes: discussing CEO performance and compensation, airing concerns that directors may not feel comfortable raising in front of management, and aligning the board on strategic priorities. The critical element is the feedback loop: after each session, the board chair should debrief you on actionable feedback. Without this loop, you are left guessing, which erodes trust. Proactively schedule executive sessions, prepare for them by pre-socializing important topics with your chair, and reframe them as an opportunity for your board to align, which produces clearer, more consistent guidance for you as CEO.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.nacdonline.org/insights/publications" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              National Association of Corporate Directors (NACD) &mdash; Board Governance Best Practices
+              National Association of Corporate Directors (NACD), Board Governance Best Practices
             </a>
           </li>
           <li>
             <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Harvard Business School &mdash; Search Fund Primer (Board Governance Section)
+              Harvard Business School, Search Fund Primer (Board Governance Section)
             </a>
           </li>
         </ul>

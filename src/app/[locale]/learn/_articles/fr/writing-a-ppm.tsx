@@ -8,8 +8,8 @@ export default function WritingAPPMFR() {
 
       <div className={bodyClass}>
         <p>
-          Le Private Placement Memorandum (PPM) &mdash; ou mémorandum de
-          placement privé &mdash; est le document fondateur du search fund.
+          Le Private Placement Memorandum (PPM), ou mémorandum de
+          placement privé, est le document fondateur du search fund.
           C&apos;est à travers ce document que le searcher présente son projet,
           sa thèse d&apos;investissement, les conditions financières de la levée
           et les facteurs de risque aux investisseurs potentiels. En France,
@@ -143,7 +143,7 @@ export default function WritingAPPMFR() {
           </li>
           <li>
             <strong>Géographie&nbsp;:</strong> France métropolitaine, Belgique
-            francophone, Suisse romande &mdash; ou un périmètre plus restreint
+            francophone, Suisse romande, ou un périmètre plus restreint
             (Île-de-France, Auvergne-Rhône-Alpes, etc.).
           </li>
           <li>
@@ -289,7 +289,7 @@ export default function WritingAPPMFR() {
         <ol className={olClass}>
           <li>
             <strong>Identification des investisseurs&nbsp;:</strong> Le searcher
-            constitue une liste ciblée d&apos;investisseurs potentiels &mdash;
+            constitue une liste ciblée d&apos;investisseurs potentiels , 
             family offices, investisseurs ETA spécialisés, business angels
             qualifiés, anciens searchers. Le réseau des{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">

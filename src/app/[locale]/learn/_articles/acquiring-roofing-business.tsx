@@ -15,10 +15,10 @@ export default function AcquiringRoofingBusinessArticle() {
           when that roof fails, the repair or replacement is urgent.
           Storm-driven demand cycles create periodic surges that can double or
           triple a roofer&rsquo;s annual revenue in hail-prone geographies,
-          while baseline re-roofing demand (driven by 20&ndash;30 year shingle
+          while baseline re-roofing demand (driven by 20-30 year shingle
           life cycles) provides a steady floor. The NRCA estimates that more
           than 100,000 contractors operate in the U.S. The industry is
-          extraordinarily fragmented &mdash; no single company holds meaningful
+          extraordinarily fragmented, no single company holds meaningful
           national market
           share. For search fund entrepreneurs, roofing offers a compelling
           combination of high ticket sizes, strong cash flow, and clear
@@ -40,23 +40,23 @@ export default function AcquiringRoofingBusinessArticle() {
           <li>
             <strong>Massive, fragmented market:</strong> Over 100,000 roofing
             companies compete in a $60B+ U.S. market. The vast majority are
-            small, owner-operated businesses with $1M&ndash;$5M in revenue.
+            small, owner-operated businesses with $1M-$5M in revenue.
             This fragmentation creates abundant deal flow and significant
             roll-up potential for acquirers pursuing a{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategy</Link>.
           </li>
           <li>
             <strong>High revenue per job:</strong> Residential re-roofing jobs
-            average $8,000&ndash;$15,000, while commercial projects routinely
+            average $8,000-$15,000, while commercial projects routinely
             exceed $50,000. These large ticket sizes mean that even a small crew
-            can generate substantial annual revenue &mdash; a single five-person
+            can generate substantial annual revenue, a single five-person
             crew completing four residential roofs per week produces over $2M
             in annual revenue.
           </li>
           <li>
             <strong>Insurance restoration drives volume:</strong> In
             storm-prone markets, insurance-paid restoration work can represent
-            50&ndash;80% of a roofer&rsquo;s revenue. Insurance jobs carry
+            50-80% of a roofer&rsquo;s revenue. Insurance jobs carry
             attractive margins because pricing is set by carrier-approved
             estimating software (Xactimate) rather than competitive bidding,
             and homeowners have little price sensitivity when insurance covers
@@ -68,7 +68,7 @@ export default function AcquiringRoofingBusinessArticle() {
             of the work, combined with declining interest in trade careers, means
             that an established company with a reliable crew has a genuine
             competitive advantage. New entrants cannot simply hire roofers off
-            the street &mdash; experienced crews take years to build.
+            the street, experienced crews take years to build.
           </li>
           <li>
             <strong>Consolidation opportunity:</strong> Most roofing companies
@@ -93,8 +93,8 @@ export default function AcquiringRoofingBusinessArticle() {
           shingles. Storm restoration specialists follow hail and wind events,
           canvassing affected neighborhoods and working with homeowners to file
           insurance claims. This segment produces the highest margins
-          (30&ndash;45% gross margin on insurance work) but is the most
-          cyclical &mdash; revenue can swing dramatically year-to-year
+          (30-45% gross margin on insurance work) but is the most
+          cyclical, revenue can swing dramatically year-to-year
           depending on storm activity. Acquirers should normalize EBITDA
           across a multi-year storm cycle rather than paying peak-year
           multiples.
@@ -103,9 +103,9 @@ export default function AcquiringRoofingBusinessArticle() {
         <h3 className={h3Class}>Residential new construction</h3>
         <p>
           Roofing for new home builders. Revenue is more predictable than
-          storm restoration but margins are thinner (15&ndash;25% gross margin)
+          storm restoration but margins are thinner (15-25% gross margin)
           because builders negotiate aggressively on price and control the
-          relationship. Concentration risk is a concern &mdash; if a company
+          relationship. Concentration risk is a concern, if a company
           depends on two or three large builders, the loss of a single
           relationship can be devastating. Evaluate builder diversification
           carefully during due diligence.
@@ -116,7 +116,7 @@ export default function AcquiringRoofingBusinessArticle() {
           Flat and low-slope roofing for commercial, industrial, and
           institutional buildings. Commercial work requires different skills,
           materials (TPO, EPDM, modified bitumen, built-up roofing), and
-          equipment than residential. Projects are larger ($50K&ndash;$500K+),
+          equipment than residential. Projects are larger ($50K-$500K+),
           bid cycles are longer, and bonding requirements are common.
           Commercial roofing offers more predictable revenue, longer customer
           relationships, and natural opportunities for recurring maintenance
@@ -129,15 +129,15 @@ export default function AcquiringRoofingBusinessArticle() {
           Metal roofing, slate, tile, cedar shake, and specialty flat systems
           (spray foam, coatings). These niches command premium pricing and face
           less competition due to the specialized skills required. A metal
-          roofing installer, for example, may charge 2&ndash;3x the price of
+          roofing installer, for example, may charge 2-3x the price of
           an asphalt shingle installer for the same square footage.
           The trade-off is a smaller addressable market and longer sales cycles.
         </p>
 
         <h3 className={h3Class}>Maintenance &amp; repair programs</h3>
         <p>
-          Some roofing companies &mdash; particularly those with commercial
-          clients &mdash; operate ongoing maintenance and inspection programs.
+          Some roofing companies, particularly those with commercial
+          clients, operate ongoing maintenance and inspection programs.
           These programs generate recurring revenue through annual inspections,
           gutter cleaning, minor repairs, and warranty management. While
           maintenance revenue is typically a small percentage of total revenue
@@ -158,8 +158,8 @@ export default function AcquiringRoofingBusinessArticle() {
           Most states require a contractor&rsquo;s license to perform roofing
           work, and requirements vary significantly by state. Verify that all
           licenses are current, properly held (by the company, not just the
-          departing owner), and transferable. Surety bonds &mdash; particularly
-          performance and payment bonds for commercial work &mdash; are often
+          departing owner), and transferable. Surety bonds, particularly
+          performance and payment bonds for commercial work, are often
           required. Review bonding capacity and the company&rsquo;s bonding
           history with its surety provider.
         </p>
@@ -170,7 +170,7 @@ export default function AcquiringRoofingBusinessArticle() {
           General liability (GL) insurance for roofers is significantly more
           expensive than for other trades due to the height-related risk
           exposure. Workers&rsquo; compensation rates for roofing are among
-          the highest in any industry &mdash; WC premiums can run 20&ndash;40%
+          the highest in any industry, WC premiums can run 20-40%
           of payroll depending on the state and the company&rsquo;s claims
           history. Verify current policies, review claims history for the
           past five years, and confirm that coverage limits are adequate for
@@ -183,7 +183,7 @@ export default function AcquiringRoofingBusinessArticle() {
           safety metric in roofing. An EMR of 1.0 means the company&rsquo;s
           claims experience matches the industry average. Below 1.0 is better
           than average; above 1.0 is worse. An EMR above 1.2 is a serious red
-          flag &mdash; it indicates a poor safety culture, will result in
+          flag, it indicates a poor safety culture, will result in
           significantly higher insurance premiums, and may disqualify the
           company from bidding on commercial and government work. Review OSHA
           logs, safety training records, fall protection programs, and any
@@ -198,7 +198,7 @@ export default function AcquiringRoofingBusinessArticle() {
           and state labor departments have intensified enforcement of worker
           misclassification, and reclassification can trigger back taxes,
           penalties, unpaid workers&rsquo; comp premiums, and litigation.
-          Evaluate the company&rsquo;s labor model carefully &mdash; if
+          Evaluate the company&rsquo;s labor model carefully, if
           crews are classified as 1099 but functionally operate as employees
           (set schedules, company-provided equipment, exclusive work
           arrangements), budget for the cost of reclassification
@@ -230,9 +230,9 @@ export default function AcquiringRoofingBusinessArticle() {
 
         <h3 className={h3Class}>Manufacturer certifications</h3>
         <p>
-          Certifications from major shingle manufacturers &mdash; GAF Master
+          Certifications from major shingle manufacturers, GAF Master
           Elite, Owens Corning Platinum Preferred, CertainTeed SELECT
-          ShingleMaster &mdash; are valuable competitive assets. These
+          ShingleMaster, are valuable competitive assets. These
           certifications allow the company to offer enhanced manufacturer
           warranties (up to 50 years), serve as marketing differentiators,
           and often include lead generation programs. Verify that
@@ -264,7 +264,7 @@ export default function AcquiringRoofingBusinessArticle() {
 
         <h2 className={h2Class}>Valuation</h2>
         <p>
-          Roofing companies typically trade at 2.5&ndash;5x EBITDA, with
+          Roofing companies typically trade at 2.5-5x EBITDA, with
           multiples varying based on size, revenue mix, geographic
           diversification, and business quality. Key valuation considerations
           for roofing businesses include the following.
@@ -273,7 +273,7 @@ export default function AcquiringRoofingBusinessArticle() {
           <li>
             <strong>Normalize for storm cycles:</strong> Storm restoration
             businesses may show exceptional EBITDA in peak storm years.
-            Sophisticated acquirers normalize EBITDA across a 3&ndash;5 year
+            Sophisticated acquirers normalize EBITDA across a 3-5 year
             period to account for cyclicality. A company showing $2M EBITDA
             in a banner storm year but averaging $1.2M over five years should
             be valued on the normalized figure.
@@ -289,13 +289,13 @@ export default function AcquiringRoofingBusinessArticle() {
             <strong>Recurring revenue premium:</strong> Companies with
             established maintenance and inspection programs command higher
             multiples. Even a modest recurring revenue stream
-            (10&ndash;15% of total revenue) signals operational
+            (10-15% of total revenue) signals operational
             sophistication and improves valuation.
           </li>
           <li>
             <strong>EMR and safety:</strong> A company with an EMR below 0.85
             and a strong safety record will have meaningfully lower insurance
-            costs and access to more commercial bid opportunities &mdash;
+            costs and access to more commercial bid opportunities , 
             both of which support a premium valuation. Conversely, a high
             EMR should be treated as a valuation headwind.
           </li>
@@ -323,11 +323,11 @@ export default function AcquiringRoofingBusinessArticle() {
           This is the single highest-impact post-acquisition initiative. Most
           roofing companies install a roof and never contact the homeowner
           again. By creating a formal annual inspection and maintenance program
-          &mdash; priced at $150&ndash;$300 per year for residential,
-          $500&ndash;$5,000+ for commercial &mdash; you convert one-time
+          priced at $150-$300 per year for residential,
+          $500-$5,000+ for commercial, you convert one-time
           customers into recurring revenue. Maintenance programs also generate
           repair leads, extend warranty relationships, and create a pipeline
-          for future re-roofing projects. Target 20&ndash;30% maintenance
+          for future re-roofing projects. Target 20-30% maintenance
           contract penetration on your installed customer base within the
           first two years.
         </p>
@@ -358,11 +358,11 @@ export default function AcquiringRoofingBusinessArticle() {
         <p>
           Most small roofing companies run on spreadsheets, paper estimates,
           and the owner&rsquo;s memory. Implementing purpose-built roofing
-          software &mdash; AccuLynx, JobNimbus, Roofr, or similar platforms
-          &mdash; transforms visibility into the sales pipeline, automates
+          software, AccuLynx, JobNimbus, Roofr, or similar platforms
+          transforms visibility into the sales pipeline, automates
           follow-up with prospects, standardizes estimating, and provides
           real-time production tracking. These systems typically pay for
-          themselves within 3&ndash;6 months through improved close rates
+          themselves within 3-6 months through improved close rates
           and reduced administrative overhead.
         </p>
 
@@ -382,7 +382,7 @@ export default function AcquiringRoofingBusinessArticle() {
         <p>
           Roofing companies are naturally positioned to offer adjacent
           exterior services: gutters, siding, windows, exterior painting,
-          and &mdash; increasingly &mdash; solar panel installation. Each
+          and, increasingly, solar panel installation. Each
           adjacent service increases revenue per customer, improves marketing
           efficiency (sell more to the same customer base), and reduces
           weather and seasonal dependency. Gutters are the easiest adjacency
@@ -399,7 +399,7 @@ export default function AcquiringRoofingBusinessArticle() {
           Given that workers&rsquo; compensation and general liability
           insurance represent some of the largest line items in a roofing
           company&rsquo;s P&amp;L, improving safety is not just the right
-          thing to do &mdash; it&rsquo;s one of the most direct paths to
+          thing to do, it&rsquo;s one of the most direct paths to
           margin improvement. Implement formal fall protection programs,
           conduct weekly toolbox talks, invest in safety equipment (harnesses,
           guardrails, warning line systems), and track leading indicators
@@ -419,9 +419,9 @@ export default function AcquiringRoofingBusinessArticle() {
           The keys to success are normalizing for storm cyclicality during
           underwriting, managing insurance and safety costs aggressively
           post-close, building recurring revenue through maintenance programs,
-          and &mdash; for those pursuing a{" "}
+          and, for those pursuing a{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategy</Link>{" "}
-          &mdash; executing disciplined tuck-in acquisitions that expand
+          executing disciplined tuck-in acquisitions that expand
           geographic coverage and deepen crew capacity. For acquirers
           interested in adjacent construction verticals, see our guide to{" "}
           <Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">acquiring a construction company</Link>.
@@ -433,8 +433,8 @@ export default function AcquiringRoofingBusinessArticle() {
           How much is a roofing business worth?
         </h3>
         <p>
-          Most roofing businesses trade at 2.5&ndash;5x EBITDA. The key is
-          normalizing for storm cycles &mdash; a company showing $2M EBITDA
+          Most roofing businesses trade at 2.5-5x EBITDA. The key is
+          normalizing for storm cycles, a company showing $2M EBITDA
           in a banner hail year but averaging $1.2M over five years should
           be valued on the normalized figure. Companies with diversified
           revenue (retail re-roofing, commercial work, and maintenance
@@ -452,7 +452,7 @@ export default function AcquiringRoofingBusinessArticle() {
           dramatically year-to-year), worker classification issues (many
           roofers use 1099 subcontractors who may be misclassified), high
           workers&rsquo; compensation and insurance costs (WC premiums can run
-          20&ndash;40% of payroll), warranty liabilities that transfer with
+          20-40% of payroll), warranty liabilities that transfer with
           the business, and seasonal cash flow challenges in northern climates.
           The{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
@@ -468,12 +468,12 @@ export default function AcquiringRoofingBusinessArticle() {
         </h3>
         <p>
           Create a formal annual inspection and maintenance program priced at
-          $150&ndash;$300 per year for residential and $500&ndash;$5,000+ for
+          $150-$300 per year for residential and $500-$5,000+ for
           commercial customers. Most roofing companies install a roof and
-          never contact the homeowner again &mdash; this is a massive missed
+          never contact the homeowner again, this is a massive missed
           opportunity. Maintenance programs generate predictable cash flow,
           extend warranty relationships, create repair leads, and build a
-          pipeline for future re-roofing projects. Target 20&ndash;30%
+          pipeline for future re-roofing projects. Target 20-30%
           penetration on your installed customer base within two years.
           Commercial maintenance contracts are especially valuable because
           they provide non-seasonal revenue.

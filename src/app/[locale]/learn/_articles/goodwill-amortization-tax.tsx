@@ -10,12 +10,12 @@ export default function GoodwillAmortizationTaxArticle() {
 
       <div className={bodyClass}>
         <p>
-          In most small-business acquisitions, goodwill accounts for 40&ndash;70%
+          In most small-business acquisitions, goodwill accounts for 40-70%
           of the total purchase price. Under IRC Section 197, buyers who structure
           the deal correctly can amortize that goodwill over 15 years, generating
           annual tax deductions that materially reduce the effective cost of the
           acquisition. On a $3&thinsp;million deal with $1.8&thinsp;million of
-          goodwill, the deduction is $120,000 per year &mdash; roughly $30,000 in
+          goodwill, the deduction is $120,000 per year, roughly $30,000 in
           cash tax savings at a 25% effective rate. This guide explains exactly
           how goodwill arises, how the IRS lets you deduct it, and how deal
           structure determines whether you unlock those savings or leave them on
@@ -42,7 +42,7 @@ export default function GoodwillAmortizationTaxArticle() {
           (customer list, trade name, non-compete agreements). If the buyer pays
           $2.5&thinsp;million, the remaining $1.5&thinsp;million is classified as
           goodwill. In SME acquisitions, this residual amount is often the single
-          largest line item on the purchase price allocation schedule &mdash;
+          largest line item on the purchase price allocation schedule , 
           which is precisely why its tax treatment matters so much.
         </p>
       </div>
@@ -84,7 +84,7 @@ export default function GoodwillAmortizationTaxArticle() {
         <p>
           Notably, non-compete agreements are amortized over the full 15 years
           for tax purposes regardless of their contractual term. A three-year
-          non-compete still gets a 15-year amortization schedule &mdash; a
+          non-compete still gets a 15-year amortization schedule, a
           common point of confusion in deal negotiations.
         </p>
       </div>
@@ -112,30 +112,30 @@ export default function GoodwillAmortizationTaxArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Class I</strong> &mdash; Cash and cash equivalents
+            <strong>Class I</strong>: Cash and cash equivalents
           </li>
           <li>
-            <strong>Class II</strong> &mdash; Actively traded securities, CDs,
+            <strong>Class II</strong>: Actively traded securities, CDs,
             foreign currency
           </li>
           <li>
-            <strong>Class III</strong> &mdash; Accounts receivable, mortgages,
+            <strong>Class III</strong>: Accounts receivable, mortgages,
             credit card receivables
           </li>
           <li>
-            <strong>Class IV</strong> &mdash; Inventory and stock in trade
+            <strong>Class IV</strong>: Inventory and stock in trade
           </li>
           <li>
-            <strong>Class V</strong> &mdash; All other tangible and intangible
+            <strong>Class V</strong>: All other tangible and intangible
             assets not in another class (equipment, real estate, furniture)
           </li>
           <li>
-            <strong>Class VI</strong> &mdash; Section 197 intangibles other than
+            <strong>Class VI</strong>: Section 197 intangibles other than
             goodwill and going-concern value (customer lists, trade names,
             non-competes, licenses)
           </li>
           <li>
-            <strong>Class VII</strong> &mdash; Goodwill and going-concern value
+            <strong>Class VII</strong>: Goodwill and going-concern value
             (the residual)
           </li>
         </ol>
@@ -171,14 +171,14 @@ export default function GoodwillAmortizationTaxArticle() {
             asset purchase
           </Link>
           , the buyer acquires individual assets and assumes specified
-          liabilities. All acquired assets &mdash; tangible and intangible &mdash;
+          liabilities. All acquired assets, tangible and intangible , 
           receive a new, &ldquo;stepped-up&rdquo; tax basis equal to their
           respective fair market values (the{" "}
           <Link href="/learn/step-up-in-basis" className="text-apple-accent hover:underline">
             step-up in basis
           </Link>{" "}
           principle). Goodwill, as the Class VII residual, is fully amortizable
-          over 15 years under Section 197. Approximately 70&ndash;80% of
+          over 15 years under Section 197. Approximately 70-80% of
           SBA-financed small-business acquisitions are structured as asset
           purchases, largely because of this tax benefit.
         </p>
@@ -189,7 +189,7 @@ export default function GoodwillAmortizationTaxArticle() {
           interests. The target entity continues to exist with its historical
           asset basis intact. No new goodwill is created for tax purposes, and
           the buyer inherits whatever depreciation and amortization schedules
-          the seller already had &mdash; often fully depreciated assets with
+          the seller already had, often fully depreciated assets with
           minimal remaining deductions. The result: no goodwill amortization
           and no step-up.
         </p>
@@ -246,7 +246,7 @@ export default function GoodwillAmortizationTaxArticle() {
         <h3 className={h3Class}>Annual Amortization &amp; Depreciation</h3>
         <ul className={ulClass}>
           <li>
-            Equipment ($350K over 5&ndash;7 years MACRS): ~$50,000&ndash;$70,000/year
+            Equipment ($350K over 5-7 years MACRS): ~$50,000-$70,000/year
           </li>
           <li>
             Furniture ($50K over 7 years MACRS): ~$7,100/year
@@ -273,7 +273,7 @@ export default function GoodwillAmortizationTaxArticle() {
           At a combined federal and state effective tax rate of 25%, goodwill
           amortization alone generates $30,000 per year in cash tax savings
           ($120,000 &times; 0.25). Over the full 15-year period, total goodwill
-          tax savings equal $450,000 &mdash; effectively reducing the real cost
+          tax savings equal $450,000, effectively reducing the real cost
           of the acquisition from $3,000,000 to approximately $2,550,000 on a
           nominal (undiscounted) basis.
         </p>
@@ -281,7 +281,7 @@ export default function GoodwillAmortizationTaxArticle() {
           When combined with depreciation and amortization on other acquired
           assets, total annual tax deductions in the first five years can exceed
           $230,000/year, producing roughly $57,500 in annual tax savings. For a
-          business generating $600,000&ndash;$800,000 in{" "}
+          business generating $600,000-$800,000 in{" "}
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
             adjusted EBITDA
           </Link>
@@ -291,8 +291,8 @@ export default function GoodwillAmortizationTaxArticle() {
         <p>
           Had the same acquisition been structured as a stock purchase without a
           338(h)(10) election, the buyer would inherit the seller&rsquo;s
-          historical basis &mdash; likely near zero for fully depreciated
-          equipment &mdash; and receive no goodwill amortization whatsoever. The
+          historical basis, likely near zero for fully depreciated
+          equipment, and receive no goodwill amortization whatsoever. The
           $450,000 in lifetime tax savings would simply disappear.
         </p>
       </div>
@@ -312,7 +312,7 @@ export default function GoodwillAmortizationTaxArticle() {
 
         <h3 className={h3Class}>GAAP (ASC 350)</h3>
         <p>
-          Under U.S. Generally Accepted Accounting Principles (ASC 350 &mdash;
+          Under U.S. Generally Accepted Accounting Principles (ASC 350 , 
           Intangibles: Goodwill and Other), goodwill recognized in a business
           combination is <strong>not amortized</strong>. Instead, it is carried
           on the balance sheet indefinitely and tested for impairment at least
@@ -331,7 +331,7 @@ export default function GoodwillAmortizationTaxArticle() {
           amortized ratably over 15 years beginning in the month the intangible
           is acquired. This deduction reduces taxable income regardless of
           whether the goodwill has lost economic value. The tax amortization
-          continues mechanically each year &mdash; no annual impairment test
+          continues mechanically each year, no annual impairment test
           required.
         </p>
 
@@ -413,7 +413,7 @@ export default function GoodwillAmortizationTaxArticle() {
           </li>
           <li>
             <strong>Netherlands:</strong> Amortizable over economic useful life,
-            typically 5&ndash;10 years &mdash; one of Europe&rsquo;s most
+            typically 5-10 years, one of Europe&rsquo;s most
             favorable regimes.
           </li>
           <li>
@@ -445,8 +445,8 @@ export default function GoodwillAmortizationTaxArticle() {
         <p>
           On a &euro;3M acquisition with &euro;1.8M in goodwill, the annual
           deduction ranges from &euro;257,000/year in the Netherlands (seven-year
-          life) to &euro;0 in the UK and France &mdash; a difference that can
-          shift the after-tax IRR of a deal by 200&ndash;400 basis points over
+          life) to &euro;0 in the UK and France, a difference that can
+          shift the after-tax IRR of a deal by 200-400 basis points over
           the hold period.
         </p>
       </div>
@@ -479,7 +479,7 @@ export default function GoodwillAmortizationTaxArticle() {
           in the same transaction), you can recognize the remaining unamortized
           basis as part of your gain or loss calculation on the disposition. If
           you sell only some of the section 197 intangibles, the anti-churning
-          rules prevent early loss recognition &mdash; the remaining basis is
+          rules prevent early loss recognition, the remaining basis is
           reallocated to the surviving pool and continues amortizing over the
           original 15-year schedule.
         </p>
@@ -490,8 +490,8 @@ export default function GoodwillAmortizationTaxArticle() {
         <p>
           They are analogous but technically distinct. Depreciation applies to
           tangible assets (equipment, buildings, vehicles) under Sections 167 and
-          168. Amortization applies to intangible assets &mdash; including
-          goodwill &mdash; under Section 197. Both reduce taxable income over
+          168. Amortization applies to intangible assets, including
+          goodwill, under Section 197. Both reduce taxable income over
           time. However, tangible assets may qualify for accelerated methods
           (MACRS, bonus depreciation, or Section 179 expensing), whereas section
           197 intangibles are always amortized straight-line over 15 years with
@@ -502,9 +502,9 @@ export default function GoodwillAmortizationTaxArticle() {
           How does the purchase price allocation affect my goodwill amount?
         </h3>
         <p>
-          Goodwill is the residual &mdash; the purchase price minus the FMV of
+          Goodwill is the residual, the purchase price minus the FMV of
           all identified assets. Allocating more to Class V tangible assets
-          (which may depreciate over 5&ndash;7 years) or to non-compete
+          (which may depreciate over 5-7 years) or to non-compete
           agreements reduces the goodwill amount but does not change the total
           deduction. It changes <em>when</em> you realize the deduction. Because
           Class VI intangibles are also amortized over 15 years under Section
@@ -575,7 +575,7 @@ export default function GoodwillAmortizationTaxArticle() {
       <ul className={ulClass}>
         <li>
           Internal Revenue Service,{" "}
-          <em>26 U.S.C. &sect;&thinsp;197 &mdash; Amortization of Goodwill and Certain Other Intangibles</em>{" "}
+          <em>26 U.S.C. &sect;&thinsp;197, Amortization of Goodwill and Certain Other Intangibles</em>{" "}
           (Cornell LII)
         </li>
         <li>
@@ -585,7 +585,7 @@ export default function GoodwillAmortizationTaxArticle() {
         </li>
         <li>
           Financial Accounting Standards Board,{" "}
-          <em>ASC 350-20: Goodwill &mdash; Subsequent Measurement</em>{" "}
+          <em>ASC 350-20: Goodwill, Subsequent Measurement</em>{" "}
           (FASB Codification)
         </li>
         <li>
@@ -605,7 +605,7 @@ export default function GoodwillAmortizationTaxArticle() {
         </li>
         <li>
           U.S. Treasury,{" "}
-          <em>26 CFR &sect;&thinsp;1.197-2 &mdash; Amortization of Goodwill and Certain Other Intangibles</em>{" "}
+          <em>26 CFR &sect;&thinsp;1.197-2, Amortization of Goodwill and Certain Other Intangibles</em>{" "}
           (eCFR, August 2024)
         </li>
       </ul>

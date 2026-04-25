@@ -23,7 +23,7 @@ export default function ETAWithoutMBAArticle() {
           <Link href="/learn/search-fund-history" className="text-apple-accent hover:underline">
             search fund ecosystem
           </Link>{" "}
-          matures and diversifies, alternative paths into ETA are not just possible &mdash; they're becoming increasingly common and, in some cases, advantageous.
+          matures and diversifies, alternative paths into ETA are not just possible, they're becoming increasingly common and, in some cases, advantageous.
         </p>
 
         <p>
@@ -457,7 +457,7 @@ export default function ETAWithoutMBAArticle() {
           <p>
             Yes. While roughly 70% of traditional searchers have MBAs, the
             self-funded search model is particularly well-suited for non-MBA
-            professionals. Industry expertise (5&ndash;10+ years in a target
+            professionals. Industry expertise (5-10+ years in a target
             sector), operational experience, and personal savings or{" "}
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA financing

@@ -14,7 +14,7 @@ export default function SearchFundHistoryArticle() {
           In 1984, a Stanford professor named H. Irving Grousbeck gave two MBA
           graduates a radical proposition: raise a small pool of capital, spend
           up to two years finding one company to buy, then run it as CEO. That
-          experiment produced the first search fund&mdash;and the entrepreneur
+          experiment produced the first search fund, and the entrepreneur
           who ran it returned investors more than 24&times; their money. Four
           decades later, the model Grousbeck invented has generated over 680
           funds in the United States and Canada alone, expanded to 40+ countries,
@@ -27,7 +27,7 @@ export default function SearchFundHistoryArticle() {
           >
             2024 Stanford Search Fund Study
           </a>
-          . This article traces the full arc&mdash;from a single classroom idea
+          . This article traces the full arc, from a single classroom idea
           to one of the highest-returning alternative asset classes in private
           equity.
         </p>
@@ -51,18 +51,18 @@ export default function SearchFundHistoryArticle() {
           earlier. As a professor focused on entrepreneurship, Grousbeck
           recognized a gap: talented MBA students wanted to lead companies, yet
           most lacked the capital, the deal flow, or the appetite for startup
-          risk. Traditional paths to ownership&mdash;inheriting a family
+          risk. Traditional paths to ownership, inheriting a family
           business, climbing to a corporate CEO role, or assembling a used
-          buyout&mdash;were either unavailable or required decades of waiting.
+          buyout, were either unavailable or required decades of waiting.
         </p>
         <p>
           Grousbeck&rsquo;s solution was elegant. A recent graduate would raise a
-          modest fund&mdash;typically $150,000 to $400,000&mdash;from a small
+          modest fund, typically $150,000 to $400,000, from a small
           group of investors. That money would cover living expenses and search
           costs for up to two years while the &ldquo;searcher&rdquo; identified,
           evaluated, and negotiated the acquisition of a single small business.
           Once a target was found, the same investors (plus new ones) would fund
-          the acquisition. The searcher would become CEO and earn 20&ndash;30% of
+          the acquisition. The searcher would become CEO and earn 20-30% of
           the equity over time, creating powerful alignment between operator and
           capital. If you&rsquo;re new to the concept, the{" "}
           <Link
@@ -76,12 +76,12 @@ export default function SearchFundHistoryArticle() {
 
         {/* ── H2 #2 ────────────────────────────────────── */}
         <h2 className={h2Class}>
-          Jim Southern and the First Proof of Concept (1984&ndash;1994)
+          Jim Southern and the First Proof of Concept (1984-1994)
         </h2>
         <p>
           The first person to test Grousbeck&rsquo;s thesis was Jim Southern, a
           Stanford MBA from the class of 1983. In 1984, Southern raised roughly
-          $150,000 from professors and friends&mdash;money that would fund an
+          $150,000 from professors and friends, money that would fund an
           18-month search. He found his target in Uniform Printing, a specialty
           insurance-document printing company generating about $5 million in
           revenue. Southern acquired the business, stepped in as CEO and
@@ -95,7 +95,7 @@ export default function SearchFundHistoryArticle() {
           >
             24&times; the acquisition capital
           </a>
-          &mdash;a staggering outcome that validated the entire concept.
+         , a staggering outcome that validated the entire concept.
         </p>
         <p>
           Southern&rsquo;s success proved three things. First, a young MBA with
@@ -112,7 +112,7 @@ export default function SearchFundHistoryArticle() {
           >
             Pacific Lake Partners
           </a>{" "}
-          in 2009 with Coley Andrews&mdash;one of the first institutional
+          in 2009 with Coley Andrews, one of the first institutional
           vehicles dedicated exclusively to search fund investing. The firm has
           since backed hundreds of search fund entrepreneurs and invested in over
           70 companies.
@@ -129,7 +129,7 @@ export default function SearchFundHistoryArticle() {
         {/* ── H2 #3 ────────────────────────────────────── */}
         <h2 className={h2Class}>
           Building the Evidence Base: The Stanford Search Fund Studies
-          (1996&ndash;2024)
+          (1996-2024)
         </h2>
         <p>
           What transformed the search fund from a niche Stanford experiment into
@@ -147,7 +147,7 @@ export default function SearchFundHistoryArticle() {
           analysis.
         </p>
         <p>
-          Fourteen editions have been published to date&mdash;in 1996, 1998,
+          Fourteen editions have been published to date, in 1996, 1998,
           2001, 2003, 2005, 2007, 2009, 2011, 2013, 2016, 2018, 2020, 2022, and
           2024. Each edition expanded the dataset and refined the methodology.
           Key milestones in the study series include:
@@ -155,7 +155,7 @@ export default function SearchFundHistoryArticle() {
         <ul className={ulClass}>
           <li>
             <strong>2001 study:</strong> The first widely cited edition,
-            documenting a 36% gross IRR&mdash;a number that caught the attention
+            documenting a 36% gross IRR, a number that caught the attention
             of institutional investors and business school faculty outside
             Stanford.
           </li>
@@ -190,8 +190,8 @@ export default function SearchFundHistoryArticle() {
           </li>
         </ul>
         <p>
-          The consistent finding across all 14 editions&mdash;gross IRRs in the
-          33&ndash;36% range&mdash;is what makes search funds remarkable. Few
+          The consistent finding across all 14 editions, gross IRRs in the
+          33-36% range, is what makes search funds remarkable. Few
           asset classes have maintained that level of performance over a 40-year
           window, which is why{" "}
           <Link
@@ -205,7 +205,7 @@ export default function SearchFundHistoryArticle() {
 
         {/* ── H2 #4 ────────────────────────────────────── */}
         <h2 className={h2Class}>
-          From Cottage Industry to Asset Class (2000&ndash;2015)
+          From Cottage Industry to Asset Class (2000-2015)
         </h2>
         <p>
           The early 2000s marked a turning point. The 2001 Stanford study gave
@@ -232,7 +232,7 @@ export default function SearchFundHistoryArticle() {
           <li>
             <strong>Dedicated investor firms emerged.</strong> Rich Kelley, a
             Stanford MBA who had been investing in search funds since 1994,
-            co-founded Search Fund Partners in 2004 with David Carver&mdash;one
+            co-founded Search Fund Partners in 2004 with David Carver, one
             of the earliest institutional vehicles focused purely on search fund
             deals. Pacific Lake Partners followed in 2009. These firms
             professionalized the investor side, creating repeatable diligence
@@ -247,7 +247,7 @@ export default function SearchFundHistoryArticle() {
           </li>
           <li>
             <strong>The self-funded model gained traction.</strong> Not every
-            aspiring acquirer could&mdash;or wanted to&mdash;raise a traditional
+            aspiring acquirer could, or wanted to, raise a traditional
             search fund. By the late 2000s, entrepreneurs began{" "}
             <Link
               href="/learn/self-funded-vs-traditional"
@@ -261,7 +261,7 @@ export default function SearchFundHistoryArticle() {
           </li>
           <li>
             <strong>Deal sizes grew.</strong> The median purchase price of search
-            fund acquisitions climbed from the $3&ndash;$10 million range in the
+            fund acquisitions climbed from the $3-$10 million range in the
             1990s to above $10 million by 2010, reflecting both inflation and
             searchers&rsquo; increasing ambition.
           </li>
@@ -269,7 +269,7 @@ export default function SearchFundHistoryArticle() {
         <p>
           By 2010, roughly 180 total search funds had been raised, and
           cumulative acquisitions were approaching $2.5 billion. The model was no
-          longer a Stanford curiosity&mdash;it was an asset class with a
+          longer a Stanford curiosity, it was an asset class with a
           documented track record and a growing ecosystem of specialized capital.
         </p>
 
@@ -291,7 +291,7 @@ export default function SearchFundHistoryArticle() {
             IESE 2024 study
           </a>{" "}
           tracks 320 international search funds across 40 countries on five
-          continents, documenting 146 completed acquisitions&mdash;85 in Europe,
+          continents, documenting 146 completed acquisitions, 85 in Europe,
           54 in Latin America, 5 in Asia-Pacific, 1 in the Middle East, and 1 in
           Africa.
         </p>
@@ -304,7 +304,7 @@ export default function SearchFundHistoryArticle() {
         </p>
         <p>
           Several factors fueled international adoption. European business
-          schools&mdash;IESE, INSEAD, London Business School&mdash;began
+          schools, IESE, INSEAD, London Business School, began
           teaching the search fund model, creating local pipelines of aspiring
           searchers. Baby-boomer succession dynamics are not unique to the United
           States; Europe and Latin America face similar waves of retiring
@@ -315,13 +315,13 @@ export default function SearchFundHistoryArticle() {
 
         {/* ── H2 #6 ────────────────────────────────────── */}
         <h2 className={h2Class}>
-          The Modern ETA Ecosystem (2015&ndash;Present)
+          The Modern ETA Ecosystem (2015-Present)
         </h2>
         <p>
           Today&rsquo;s entrepreneurship-through-acquisition market barely
           resembles the one Jim Southern entered in 1984. The traditional search
-          fund remains the flagship model&mdash;94 new ones launched in 2023, a
-          record&mdash;but it now coexists with a constellation of related
+          fund remains the flagship model, 94 new ones launched in 2023, a
+          record, but it now coexists with a constellation of related
           structures:
         </p>
         <ul className={ulClass}>
@@ -341,7 +341,7 @@ export default function SearchFundHistoryArticle() {
           <li>
             <strong>Search fund accelerators:</strong> Programs like Search Fund
             Accelerator (founded 2015), Relay Investments, and Trilogy Search
-            Partners provide structured cohort experiences&mdash;combining
+            Partners provide structured cohort experiences, combining
             capital, mentorship, and operational training. Our guide to{" "}
             <Link
               href="/learn/search-fund-accelerators"
@@ -373,7 +373,7 @@ export default function SearchFundHistoryArticle() {
           The investor base has matured alongside the models. Family offices,
           endowments, and dedicated search fund investment firms now maintain
           standing allocation pools. Search capital raised across the U.S. and
-          Canada grew from $5 million in 2010 to $75 million in 2023&mdash;a
+          Canada grew from $5 million in 2010 to $75 million in 2023, a
           15&times; increase in just 13 years.
         </p>
         <p>
@@ -398,12 +398,12 @@ export default function SearchFundHistoryArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Incentive alignment:</strong> The searcher&rsquo;s
-            20&ndash;30% equity stake creates CEO-level motivation with a direct
+            20-30% equity stake creates CEO-level motivation with a direct
             tie to investor returns. Both sides win or lose together.
           </li>
           <li>
             <strong>Structural market advantage:</strong> Search funds target the
-            $1&ndash;$5 million EBITDA &ldquo;sweet spot&rdquo; where private
+            $1-$5 million EBITDA &ldquo;sweet spot&rdquo; where private
             equity competition is thin and sellers value a relationship-driven
             buyer who will preserve their legacy.
           </li>
@@ -416,7 +416,7 @@ export default function SearchFundHistoryArticle() {
           <li>
             <strong>Demographic tailwind:</strong> The baby-boomer retirement
             wave is creating a growing supply of quality acquisition
-            targets&mdash;an estimated 10,000 U.S. small-business owners reach
+            targets, an estimated 10,000 U.S. small-business owners reach
             retirement age every day, and many lack a succession plan.
           </li>
           <li>
@@ -470,7 +470,7 @@ export default function SearchFundHistoryArticle() {
           Across all 681 funds in the Stanford dataset, the aggregate pre-tax IRR
           is 35.1% and the return on invested capital is 4.5&times;. These
           figures have remained remarkably stable across 14 biennial
-          studies&mdash;typically falling in the 33&ndash;36% IRR range. For a
+          studies, typically falling in the 33-36% IRR range. For a
           deeper analysis, read our guide to{" "}
           <Link
             href="/learn/search-fund-returns"
@@ -503,7 +503,7 @@ export default function SearchFundHistoryArticle() {
           investors get the right (but not the obligation) to invest in the
           eventual acquisition. In a self-funded search, the entrepreneur covers
           search costs personally and only raises capital when a specific deal is
-          identified&mdash;typically using SBA loans, seller financing, or
+          identified, typically using SBA loans, seller financing, or
           private investors. Our{" "}
           <Link
             href="/learn/self-funded-vs-traditional"

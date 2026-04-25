@@ -16,10 +16,10 @@ export default function BuyBusinessNoMoneyDownArticle() {
           acquisition. The short answer is: technically yes, but practically
           it is rare and comes with significant trade-offs. The more useful
           question is: &ldquo;How can I minimize the personal capital required
-          to buy a business?&rdquo; &mdash; and there, the options are much
+          to buy a business?&rdquo;, and there, the options are much
           more strong. The 2024 Stanford Search Fund Study found that the
           median searcher in a traditional fund invested zero personal capital
-          yet earned 20&ndash;30% equity in a company valued at $5&ndash;$30 million,
+          yet earned 20-30% equity in a company valued at $5-$30 million,
           demonstrating that institutional paths to low-capital ownership
           do exist.
         </p>
@@ -42,16 +42,16 @@ export default function BuyBusinessNoMoneyDownArticle() {
           stack includes:
         </p>
         <ul className={ulClass}>
-          <li><strong>Senior debt:</strong> 50&ndash;70% of the purchase price (bank loan or{" "}
+          <li><strong>Senior debt:</strong> 50-70% of the purchase price (bank loan or{" "}
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a) loan
             </Link>)</li>
-          <li><strong>Seller financing:</strong> 10&ndash;30% (the seller accepts deferred payment)</li>
-          <li><strong>Buyer equity:</strong> 10&ndash;25% (your cash or investor capital)</li>
+          <li><strong>Seller financing:</strong> 10-30% (the seller accepts deferred payment)</li>
+          <li><strong>Buyer equity:</strong> 10-25% (your cash or investor capital)</li>
         </ul>
         <p>
           &ldquo;No money down&rdquo; means eliminating or minimizing the
-          buyer equity component. This is possible &mdash; but it requires
+          buyer equity component. This is possible, but it requires
           either (a) a very willing seller, (b) third-party investors, or
           (c) creative structuring that shifts the risk profile.
         </p>
@@ -66,13 +66,13 @@ export default function BuyBusinessNoMoneyDownArticle() {
           model in existence. Here is how it works:
         </p>
         <ul className={ulClass}>
-          <li>You raise $400K&ndash;$600K from 10&ndash;20 investors to fund a 2-year search</li>
-          <li>Investors pay you a salary ($100K&ndash;$150K) while you search</li>
+          <li>You raise $400K-$600K from 10-20 investors to fund a 2-year search</li>
+          <li>Investors pay you a salary ($100K-$150K) while you search</li>
           <li>When you find a target, investors provide the equity for the acquisition</li>
-          <li>You invest zero personal capital but earn 20&ndash;30% equity through a step-up</li>
+          <li>You invest zero personal capital but earn 20-30% equity through a step-up</li>
         </ul>
         <p>
-          The trade-off: you give up 70&ndash;80% of the equity to investors. But
+          The trade-off: you give up 70-80% of the equity to investors. But
           your personal financial risk is essentially zero. This model has
           generated{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
@@ -94,8 +94,8 @@ export default function BuyBusinessNoMoneyDownArticle() {
           cash at close. In the most aggressive scenario:
         </p>
         <ul className={ulClass}>
-          <li>The seller finances 80&ndash;100% of the purchase price as a promissory note</li>
-          <li>Terms are negotiated: 5&ndash;7 year term, 5&ndash;8% interest, monthly payments</li>
+          <li>The seller finances 80-100% of the purchase price as a promissory note</li>
+          <li>Terms are negotiated: 5-7 year term, 5-8% interest, monthly payments</li>
           <li>The business&rsquo;s cash flow services the note</li>
           <li>You acquire the business with little or no cash upfront</li>
         </ul>
@@ -141,7 +141,7 @@ export default function BuyBusinessNoMoneyDownArticle() {
         <ul className={ulClass}>
           <li>Join the company as a general manager or COO under the current owner</li>
           <li>Negotiate a future buyout option at a predetermined price or formula</li>
-          <li>Over 2&ndash;5 years, earn a portion of equity through performance milestones</li>
+          <li>Over 2-5 years, earn a portion of equity through performance milestones</li>
           <li>Finance the remaining purchase with seller financing and bank debt once you have a track record</li>
         </ul>
         <p>
@@ -183,7 +183,7 @@ export default function BuyBusinessNoMoneyDownArticle() {
         <ul className={ulClass}>
           <li>The platform provides search capital, salary, and back-office support</li>
           <li>You identify and operate the acquisition</li>
-          <li>Equity is split between you (typically 20&ndash;40%) and the platform</li>
+          <li>Equity is split between you (typically 20-40%) and the platform</li>
           <li>You invest zero personal capital but earn meaningful ownership and a CEO salary</li>
         </ul>
         <p>
@@ -209,9 +209,9 @@ export default function BuyBusinessNoMoneyDownArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Traditional search fund:</strong> $0 personal capital (investors fund everything)</li>
-          <li><strong>Self-funded search, SBA-financed:</strong> $50K&ndash;$200K personal capital (10&ndash;15% of a $500K&ndash;$1.5M deal)</li>
-          <li><strong>Self-funded with aggressive seller financing:</strong> $10K&ndash;$50K (legal costs, working capital buffer)</li>
-          <li><strong>Earn-in / management buyout:</strong> $0&ndash;$25K upfront (legal costs only)</li>
+          <li><strong>Self-funded search, SBA-financed:</strong> $50K-$200K personal capital (10-15% of a $500K-$1.5M deal)</li>
+          <li><strong>Self-funded with aggressive seller financing:</strong> $10K-$50K (legal costs, working capital buffer)</li>
+          <li><strong>Earn-in / management buyout:</strong> $0-$25K upfront (legal costs only)</li>
           <li><strong>Platform / accelerator:</strong> $0 personal capital</li>
         </ul>
         <p>
@@ -231,14 +231,14 @@ export default function BuyBusinessNoMoneyDownArticle() {
           Even if you acquire a business with no money down, budget for:
         </p>
         <ul className={ulClass}>
-          <li><strong>Legal fees:</strong> $15K&ndash;$40K for purchase agreement, entity formation, and lender documentation</li>
-          <li><strong>Due diligence:</strong> $30K&ndash;$80K for{" "}
+          <li><strong>Legal fees:</strong> $15K-$40K for purchase agreement, entity formation, and lender documentation</li>
+          <li><strong>Due diligence:</strong> $30K-$80K for{" "}
             <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
               Quality of Earnings
             </Link>{" "}
             and professional DD</li>
           <li><strong>Working capital:</strong> The business may need cash reserves post-close for seasonal needs or growth investment</li>
-          <li><strong>Personal living expenses:</strong> 3&ndash;6 months of savings as a buffer during the transition</li>
+          <li><strong>Personal living expenses:</strong> 3-6 months of savings as a buffer during the transition</li>
           <li><strong>Insurance:</strong> D&amp;O, key person, and general liability policies</li>
         </ul>
 
@@ -251,7 +251,7 @@ export default function BuyBusinessNoMoneyDownArticle() {
           the capital while you provide the operating commitment and earn
           equity through performance. However, these paths require strong
           credentials, a compelling personal pitch, and the willingness to
-          share 60&ndash;80% of the equity with investors.
+          share 60-80% of the equity with investors.
         </p>
 
         <h3 className={h3Class}>What credit score do I need to qualify for SBA financing?</h3>
@@ -289,7 +289,7 @@ export default function BuyBusinessNoMoneyDownArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
             seller financing
           </Link>{" "}
-          structures. For most aspiring acquirers, saving $50K&ndash;$150K in
+          structures. For most aspiring acquirers, saving $50K-$150K in
           personal capital dramatically expands the universe of accessible deals
           and puts you in a much stronger negotiating position.
         </p>

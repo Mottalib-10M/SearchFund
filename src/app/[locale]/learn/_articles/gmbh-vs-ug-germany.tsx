@@ -15,14 +15,14 @@ export default function GmbHvsUGGermanyArticle() {
           <li><strong>Minimum share capital:</strong> &euro;25,000 (at least &euro;12,500 paid in at formation)</li>
           <li><strong>Liability:</strong> Limited to company assets. Shareholders&apos; personal liability is limited to their capital contribution.</li>
           <li><strong>Governance:</strong> Gesch&auml;ftsf&uuml;hrer (managing director/CEO) manages day-to-day operations. Gesellschafterversammlung (shareholders&apos; meeting) for major decisions.</li>
-          <li><strong>Notarization:</strong> Share transfers must be notarized (notariell beurkundet) &mdash; a significant cost and process requirement.</li>
+          <li><strong>Notarization:</strong> Share transfers must be notarized (notariell beurkundet), a significant cost and process requirement.</li>
           <li><strong>Registration:</strong> Must be registered in the Handelsregister (commercial register) at the local Amtsgericht.</li>
           <li><strong>Audit:</strong> Required if the company exceeds certain thresholds (revenue &gt;&euro;12M, assets &gt;&euro;6M, or &gt;50 employees for two consecutive years).</li>
           <li><strong>Employee co-determination:</strong> Companies with 500+ employees must have employee representatives on a supervisory board (Aufsichtsrat).</li>
         </ul>
       </div>
 
-      <h2 className={h2Class}>UG (haftungsbeschr&auml;nkt) &mdash; Mini-GmbH</h2>
+      <h2 className={h2Class}>UG (haftungsbeschr&auml;nkt), Mini-GmbH</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Minimum share capital:</strong> &euro;1 (the key difference from a GmbH)</li>
@@ -62,12 +62,12 @@ export default function GmbHvsUGGermanyArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Corporate tax (K&ouml;rperschaftsteuer):</strong> 15% + 5.5% solidarity surcharge = 15.825%</li>
-          <li><strong>Trade tax (Gewerbesteuer):</strong> 7&ndash;17% depending on municipality (Hebesatz). Typical: 14&ndash;16%.</li>
-          <li><strong>Total effective rate:</strong> 29&ndash;33% combined corporate + trade tax</li>
+          <li><strong>Trade tax (Gewerbesteuer):</strong> 7-17% depending on municipality (Hebesatz). Typical: 14-16%.</li>
+          <li><strong>Total effective rate:</strong> 29-33% combined corporate + trade tax</li>
           <li><strong>Participation exemption:</strong> 95% of dividends and capital gains from qualifying participations are tax-free at the holding level</li>
           <li><strong>Interest deductibility:</strong> Limited to 30% of EBITDA (Zinsschranke)</li>
           <li><strong>Goodwill:</strong> Tax-deductible amortization over 15 years in asset deals; no step-up in share deals</li>
-          <li><strong>Notary fees:</strong> Share transfer notarization costs are regulated and typically 0.5&ndash;2% of deal value</li>
+          <li><strong>Notary fees:</strong> Share transfer notarization costs are regulated and typically 0.5-2% of deal value</li>
         </ul>
       </div>
 
@@ -84,11 +84,11 @@ export default function GmbHvsUGGermanyArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>The GmbH is Germany&apos;s standard acquisition vehicle &mdash; use it for both the holding and operating company</li>
+          <li>The GmbH is Germany&apos;s standard acquisition vehicle, use it for both the holding and operating company</li>
           <li>The UG is a low-cost alternative but carries credibility concerns; avoid it for serious acquisition structures</li>
           <li>All GmbH share transfers must be notarized by a German notary, adding cost and process time</li>
           <li>Organschaft (tax consolidation) enables interest deduction at the holding level against operating profits</li>
-          <li>Total corporate tax rates of 29&ndash;33% are competitive within the EU for the level of infrastructure and market access Germany provides</li>
+          <li>Total corporate tax rates of 29-33% are competitive within the EU for the level of infrastructure and market access Germany provides</li>
         </ul>
       </div>
 

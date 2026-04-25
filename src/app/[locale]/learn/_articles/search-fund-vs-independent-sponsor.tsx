@@ -37,11 +37,11 @@ export default function SearchFundVsIndependentSponsorArticle() {
             traditional search fund
           </Link>{" "}
           is a two-phase investment vehicle. In Phase 1, the searcher raises a
-          small pool of capital ($400K&ndash;$600K) from 10&ndash;20 investors
-          to fund a full-time, 18&ndash;24 month search for an acquisition
+          small pool of capital ($400K-$600K) from 10-20 investors
+          to fund a full-time, 18-24 month search for an acquisition
           target. In Phase 2, once a suitable company is identified, the same
           investors have the right (but not obligation) to co-invest in the
-          acquisition. The searcher becomes CEO and earns 20&ndash;30% of the
+          acquisition. The searcher becomes CEO and earns 20-30% of the
           equity through a{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
             step-up mechanism
@@ -52,9 +52,9 @@ export default function SearchFundVsIndependentSponsorArticle() {
         </p>
         <ul className={ulClass}>
           <li>Committed search capital before the search begins</li>
-          <li>Dedicated 18&ndash;24 month search period with a salary ($100K&ndash;$150K)</li>
+          <li>Dedicated 18-24 month search period with a salary ($100K-$150K)</li>
           <li>Pre-built investor consortium for the acquisition</li>
-          <li>Typical deal size: $5M&ndash;$20M enterprise value</li>
+          <li>Typical deal size: $5M-$20M enterprise value</li>
           <li>Searcher becomes full-time CEO and operator</li>
           <li>35% aggregate IRR over 40 years (Stanford data)</li>
         </ul>
@@ -72,19 +72,19 @@ export default function SearchFundVsIndependentSponsorArticle() {
           Key characteristics:
         </p>
         <ul className={ulClass}>
-          <li>No committed search capital &mdash; operates &ldquo;at risk&rdquo; during the search</li>
+          <li>No committed search capital, operates &ldquo;at risk&rdquo; during the search</li>
           <li>Capital is raised deal-by-deal once a specific target is identified</li>
           <li>More flexibility in deal size, structure, and operator role</li>
-          <li>Typical deal size: $10M&ndash;$100M+ enterprise value</li>
+          <li>Typical deal size: $10M-$100M+ enterprise value</li>
           <li>Sponsor may or may not operate as CEO (can hire a management team)</li>
-          <li>Economics vary widely &mdash; typically management fees + carried interest</li>
+          <li>Economics vary widely, typically management fees + carried interest</li>
         </ul>
 
         <h2 className={h2Class}>Side-by-side comparison</h2>
 
         <h3 className={h3Class}>Capital structure</h3>
         <p>
-          <strong>Search fund:</strong> Raises $400K&ndash;$600K upfront for the
+          <strong>Search fund:</strong> Raises $400K-$600K upfront for the
           search phase. Investors commit capital in advance, providing financial
           security during the search. At acquisition, search capital converts
           at a 1.5x step-up, and investors co-invest additional equity.
@@ -99,9 +99,9 @@ export default function SearchFundVsIndependentSponsorArticle() {
 
         <h3 className={h3Class}>Economics and compensation</h3>
         <p>
-          <strong>Search fund:</strong> The searcher earns a salary ($100K&ndash;$150K)
-          during the search and a CEO salary ($200K&ndash;$300K) post-acquisition.
-          Equity is earned through a three-tranche step-up totaling 20&ndash;30%.
+          <strong>Search fund:</strong> The searcher earns a salary ($100K-$150K)
+          during the search and a CEO salary ($200K-$300K) post-acquisition.
+          Equity is earned through a three-tranche step-up totaling 20-30%.
           See our{" "}
           <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
             searcher compensation guide
@@ -111,8 +111,8 @@ export default function SearchFundVsIndependentSponsorArticle() {
         <p>
           <strong>Independent sponsor:</strong> No salary during the search
           phase. Post-acquisition, the sponsor may earn a management fee
-          (1&ndash;2% of equity), a transaction fee at closing (1&ndash;3%), and
-          carried interest (15&ndash;25% of profits above a hurdle rate).
+          (1-2% of equity), a transaction fee at closing (1-3%), and
+          carried interest (15-25% of profits above a hurdle rate).
           If operating as CEO, they also draw a CEO salary. Total economics
           can be higher than a search fund for larger deals, but the zero-income
           search phase is a significant personal risk.
@@ -121,12 +121,12 @@ export default function SearchFundVsIndependentSponsorArticle() {
         <h3 className={h3Class}>Deal size and scope</h3>
         <p>
           <strong>Search fund:</strong> Targets a single acquisition in the
-          $5M&ndash;$20M enterprise value range. The model is built around the
+          $5M-$20M enterprise value range. The model is built around the
           searcher operating one business.
         </p>
         <p>
           <strong>Independent sponsor:</strong> More flexible. Can target
-          larger deals ($10M&ndash;$100M+) and sometimes pursue multiple
+          larger deals ($10M-$100M+) and sometimes pursue multiple
           deals simultaneously or sequentially. Some independent sponsors evolve
           into small PE firms over time.
         </p>
@@ -134,7 +134,7 @@ export default function SearchFundVsIndependentSponsorArticle() {
         <h3 className={h3Class}>Operator role</h3>
         <p>
           <strong>Search fund:</strong> The searcher always becomes CEO. This
-          is a core premise of the model &mdash; investors are backing the
+          is a core premise of the model, investors are backing the
           individual as the operator, not just as a deal sourcer.
         </p>
         <p>
@@ -147,7 +147,7 @@ export default function SearchFundVsIndependentSponsorArticle() {
         <h3 className={h3Class}>Investor relationships</h3>
         <p>
           <strong>Search fund:</strong> Deep, committed relationships with
-          10&ndash;20 investors who provide not just capital but mentorship,
+          10-20 investors who provide not just capital but mentorship,
           board service, and operational guidance. Investors have a clear
           framework (the Stanford model) for evaluating and supporting searchers.
         </p>
@@ -167,7 +167,7 @@ export default function SearchFundVsIndependentSponsorArticle() {
           <li>You want a salary during the search phase</li>
           <li>You plan to operate as CEO full-time</li>
           <li>You are coming from an MBA program or early career and want to use the Stanford/IESE/HBS network</li>
-          <li>You are targeting deals in the $5M&ndash;$20M range</li>
+          <li>You are targeting deals in the $5M-$20M range</li>
           <li>You value the mentorship and governance that committed investors provide</li>
           <li>You are a{" "}
             <Link href="/learn/buy-business-no-experience" className="text-apple-accent hover:underline">
@@ -187,12 +187,12 @@ export default function SearchFundVsIndependentSponsorArticle() {
 
         <h3 className={h3Class}>Consider a self-funded search if:</h3>
         <p>
-          A third option &mdash; the{" "}
+          A third option, the{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             self-funded search
           </Link>{" "}
-          &mdash; combines elements of both. You self-fund the search (like an
-          independent sponsor) but target smaller deals ($1M&ndash;$5M) and
+          combines elements of both. You self-fund the search (like an
+          independent sponsor) but target smaller deals ($1M-$5M) and
           always operate as CEO (like a search fund). Self-funded searches
           maximize equity retention and use{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">

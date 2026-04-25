@@ -14,7 +14,7 @@ export default function SellingToSearchFundArticle() {
           If you have spent decades building a profitable small or mid-sized
           business, the decision to sell is one of the most consequential you
           will ever make. You want a buyer who will protect your employees, honor
-          your legacy, and pay a fair price &mdash; not a faceless corporation
+          your legacy, and pay a fair price, not a faceless corporation
           that will strip assets and cut headcount. A search fund buyer offers
           exactly that combination. In this guide, you will learn what a search
           fund buyer actually is, how the deal process works from first contact
@@ -31,13 +31,13 @@ export default function SellingToSearchFundArticle() {
 
         {/* ── H2 1 ── */}
         <h2 className={h2Class}>
-          What is a search fund buyer &mdash; and why should you care?
+          What is a search fund buyer, and why should you care?
         </h2>
         <p>
           A search fund buyer is not a private equity firm, a strategic
           acquirer, or a competitor looking to absorb your company. A search
-          fund buyer is a single individual &mdash; typically an MBA graduate
-          or experienced operator &mdash; who has raised capital from a
+          fund buyer is a single individual, typically an MBA graduate
+          or experienced operator, who has raised capital from a
           syndicate of investors for the sole purpose of finding, acquiring,
           and personally running one business as its new CEO. The concept,
           known as{" "}
@@ -60,7 +60,7 @@ export default function SellingToSearchFundArticle() {
           </li>
           <li>
             <strong>Backed by committed capital.</strong> Search fund investors
-            &mdash; typically 10 to 14 individuals and institutions &mdash;
+            typically 10 to 14 individuals and institutions , 
             have already committed acquisition equity. The median initial
             capital raise is roughly $550,000 for the search phase, with
             additional equity reserved for the acquisition itself (Searcher
@@ -83,7 +83,7 @@ export default function SellingToSearchFundArticle() {
           For a business owner who cares about what happens after the sale, this
           profile is often more appealing than any alternative. According to
           a Gallup survey (2024), fewer than one in three small-business
-          owners have a formal succession plan &mdash; and search funds provide
+          owners have a formal succession plan, and search funds provide
           a ready-made solution that combines professional governance,
           committed capital, and operational continuity.
         </p>
@@ -101,7 +101,7 @@ export default function SellingToSearchFundArticle() {
         <h3 className={h3Class}>Legacy preservation</h3>
         <p>
           A search fund buyer is purchasing your company because they want to
-          run it &mdash; not because they want to merge it into a larger entity,
+          run it, not because they want to merge it into a larger entity,
           strip its brand, or consolidate operations into a distant
           headquarters. Your company name, your culture, and the customer
           relationships you have nurtured over decades are the core of what
@@ -116,8 +116,8 @@ export default function SellingToSearchFundArticle() {
           For many sellers, the fear that employees will be laid off after a
           sale is the single greatest source of anxiety. Search fund buyers
           actively mitigate this concern. Because the incoming CEO is a single
-          individual &mdash; not an executive team or a management layer from
-          an acquiring corporation &mdash; they need your existing team to
+          individual, not an executive team or a management layer from
+          an acquiring corporation, they need your existing team to
           operate the business. Mass layoffs after a search fund acquisition
           are exceptionally rare. In fact, successful search fund operators
           invest in{" "}
@@ -134,7 +134,7 @@ export default function SellingToSearchFundArticle() {
           team. When you sell to a strategic acquirer, you deal with a
           corporate development department. When you sell to a search fund
           buyer, you work directly with the person who will run your business.
-          This creates a fundamentally different dynamic &mdash; one built on
+          This creates a fundamentally different dynamic, one built on
           personal trust, transparent communication, and mutual respect. Many
           sellers describe the search fund process as collaborative rather than
           adversarial.
@@ -170,9 +170,9 @@ export default function SellingToSearchFundArticle() {
           The 2024 Stanford Search Fund Study reports a median EBITDA multiple
           of 7.0x and a median purchase price of $14.4 million. However, these
           figures skew toward the upper end of the search fund spectrum. For
-          businesses in the $1 million to $3 million EBITDA range &mdash;
+          businesses in the $1 million to $3 million EBITDA range , 
           which represent the sweet spot for many search fund acquisitions
-          &mdash; multiples more commonly fall between 4x and 6x adjusted
+          multiples more commonly fall between 4x and 6x adjusted
           EBITDA. Factors that push toward the higher end include recurring
           revenue, low customer concentration, strong growth trends, and a
           well-documented operating model. For a deeper dive on how your
@@ -189,21 +189,21 @@ export default function SellingToSearchFundArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Senior debt (30&ndash;40% of the purchase price).</strong>{" "}
+            <strong>Senior debt (30-40% of the purchase price).</strong>{" "}
             This comes from banks or SBA-backed lenders. It is the lowest-cost
             capital in the stack and carries covenants around debt-service
             coverage ratios and use.
           </li>
           <li>
-            <strong>Investor equity (50&ndash;60%).</strong> The search fund
+            <strong>Investor equity (50-60%).</strong> The search fund
             investors who backed the searcher&rsquo;s initial search phase
-            receive a 1.5x step-up on their search capital &mdash; meaning a
+            receive a 1.5x step-up on their search capital, meaning a
             $50,000 search investment converts to $75,000 of equity at
-            closing &mdash; and they typically invest additional equity to
+            closing, and they typically invest additional equity to
             fund the acquisition.
           </li>
           <li>
-            <strong>Seller financing (10&ndash;20%).</strong> A seller note
+            <strong>Seller financing (10-20%).</strong> A seller note
             bridges the gap and aligns incentives between buyer and seller.
             This component is standard in small-business acquisitions, not a
             sign of weak financing.
@@ -216,8 +216,8 @@ export default function SellingToSearchFundArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
             seller note
           </Link>, that is normal. Seller notes in search fund deals typically
-          represent 10&ndash;20% of the total purchase price, carry interest
-          rates of 5&ndash;8%, and have terms of three to five years. The note
+          represent 10-20% of the total purchase price, carry interest
+          rates of 5-8%, and have terms of three to five years. The note
           is usually subordinated to the senior bank debt, meaning the bank
           gets paid first. In SBA-financed deals, the lender may require the
           seller note to be on standby (no payments) for the first 24 months.
@@ -225,7 +225,7 @@ export default function SellingToSearchFundArticle() {
         <p>
           Why agree to this? First, seller financing often enables a higher
           total purchase price because the buyer can use more capital.
-          Second, you earn interest on the note &mdash; typically at rates
+          Second, you earn interest on the note, typically at rates
           well above a savings account or Treasury bonds. Third, it signals
           confidence in your business: if you believe in the company&rsquo;s
           continued performance, carrying a note is a rational economic
@@ -241,34 +241,34 @@ export default function SellingToSearchFundArticle() {
           negotiate from a position of strength. Here is the typical timeline:
         </p>
 
-        <h3 className={h3Class}>Stage 1: Initial contact and NDA (weeks 1&ndash;3)</h3>
+        <h3 className={h3Class}>Stage 1: Initial contact and NDA (weeks 1-3)</h3>
         <p>
-          The searcher reaches out &mdash; either directly through cold
+          The searcher reaches out, either directly through cold
           outreach, through a business broker, or via a referral from an
           accountant or attorney. After a preliminary conversation and a signed
           non-disclosure agreement, you share high-level financial information:
           a profit-and-loss summary, revenue trends, a customer overview, and
           basic operational details. The searcher evaluates whether your
-          business fits their acquisition criteria (typically $1&ndash;5M
+          business fits their acquisition criteria (typically $1-5M
           EBITDA, stable cash flow, non-cyclical industry, low customer
           concentration).
         </p>
 
-        <h3 className={h3Class}>Stage 2: Letter of Intent (weeks 3&ndash;8)</h3>
+        <h3 className={h3Class}>Stage 2: Letter of Intent (weeks 3-8)</h3>
         <p>
           If the fit is strong, the searcher submits a{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent (LOI)
           </Link>{" "}
           that outlines the proposed purchase price, deal structure, financing
-          assumptions, and timeline. The LOI typically includes a 60&ndash;90
+          assumptions, and timeline. The LOI typically includes a 60-90
           day exclusivity period during which neither party can negotiate with
           other buyers. The price is usually expressed as a multiple of
-          adjusted EBITDA. This is a negotiation point &mdash; you can
+          adjusted EBITDA. This is a negotiation point, you can
           counter on price, structure, transition terms, or any other element.
         </p>
 
-        <h3 className={h3Class}>Stage 3: Due diligence (weeks 8&ndash;18)</h3>
+        <h3 className={h3Class}>Stage 3: Due diligence (weeks 8-18)</h3>
         <p>
           Once you sign the LOI, the searcher and their investor group conduct
           thorough due diligence across eight key areas: financial, legal,
@@ -277,8 +277,8 @@ export default function SellingToSearchFundArticle() {
           <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
             Quality of Earnings (QoE)
           </Link>{" "}
-          report &mdash; an independent review of your financial statements
-          conducted by a third-party accounting firm &mdash; is standard.
+          report, an independent review of your financial statements
+          conducted by a third-party accounting firm, is standard.
           Expect detailed questions about customer concentration, key-person
           dependencies, recurring revenue, deferred maintenance, and growth
           potential. This phase typically lasts six to twelve weeks.
@@ -296,9 +296,9 @@ export default function SellingToSearchFundArticle() {
           negotiation points.
         </p>
 
-        <h3 className={h3Class}>Stage 4: Purchase agreement and closing (weeks 16&ndash;22)</h3>
+        <h3 className={h3Class}>Stage 4: Purchase agreement and closing (weeks 16-22)</h3>
         <p>
-          Attorneys draft a definitive purchase agreement &mdash; either a
+          Attorneys draft a definitive purchase agreement, either a
           Share Purchase Agreement (SPA) or an Asset Purchase Agreement (APA),
           depending on the deal structure. Financing is finalized, including
           bank approval, investor equity wire, and any seller note
@@ -308,7 +308,7 @@ export default function SellingToSearchFundArticle() {
           complex situations can extend to six months.
         </p>
 
-        <h3 className={h3Class}>Stage 5: Transition period (months 1&ndash;12 post-close)</h3>
+        <h3 className={h3Class}>Stage 5: Transition period (months 1-12 post-close)</h3>
         <p>
           Most search fund deals include a transition period of 6 to 12
           months during which you help the new CEO learn the business. This
@@ -352,19 +352,19 @@ export default function SellingToSearchFundArticle() {
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-3 pr-4 font-medium">Typical hold period</td>
-                <td className="py-3 pr-4">5&ndash;8 years</td>
-                <td className="py-3 pr-4">3&ndash;5 years</td>
+                <td className="py-3 pr-4">5-8 years</td>
+                <td className="py-3 pr-4">3-5 years</td>
                 <td className="py-3">Permanent (integration)</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-3 pr-4 font-medium">Valuation range</td>
-                <td className="py-3 pr-4">4&ndash;7x EBITDA</td>
-                <td className="py-3 pr-4">6&ndash;10x+ EBITDA</td>
-                <td className="py-3">5&ndash;12x+ EBITDA (with synergies)</td>
+                <td className="py-3 pr-4">4-7x EBITDA</td>
+                <td className="py-3 pr-4">6-10x+ EBITDA</td>
+                <td className="py-3">5-12x+ EBITDA (with synergies)</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-3 pr-4 font-medium">Target EBITDA size</td>
-                <td className="py-3 pr-4">$1&ndash;5M</td>
+                <td className="py-3 pr-4">$1-5M</td>
                 <td className="py-3 pr-4">$5M+</td>
                 <td className="py-3">Varies widely</td>
               </tr>
@@ -376,9 +376,9 @@ export default function SellingToSearchFundArticle() {
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-3 pr-4 font-medium">Financing certainty</td>
-                <td className="py-3 pr-4">High &mdash; committed investor capital</td>
-                <td className="py-3 pr-4">High &mdash; large fund commitments</td>
-                <td className="py-3">High &mdash; corporate balance sheet</td>
+                <td className="py-3 pr-4">High, committed investor capital</td>
+                <td className="py-3 pr-4">High, large fund commitments</td>
+                <td className="py-3">High, corporate balance sheet</td>
               </tr>
               <tr>
                 <td className="py-3 pr-4 font-medium">Seller relationship</td>
@@ -394,7 +394,7 @@ export default function SellingToSearchFundArticle() {
           The trade-off is clear: search fund buyers typically pay lower
           headline multiples than PE or strategic buyers, but they offer
           significantly more operational continuity, personal attention, and
-          legacy preservation. For businesses with $1&ndash;5M EBITDA, search
+          legacy preservation. For businesses with $1-5M EBITDA, search
           funds are often the most relevant buyer type because PE firms
           generally focus on larger targets, and strategic acquirers may not
           exist in your niche. A{" "}
@@ -407,7 +407,7 @@ export default function SellingToSearchFundArticle() {
 
         {/* ── H2 6 ── */}
         <h2 className={h2Class}>
-          Common seller concerns &mdash; addressed honestly
+          Common seller concerns, addressed honestly
         </h2>
         <p>
           Every seller has questions and reservations. Here are the ones we
@@ -419,7 +419,7 @@ export default function SellingToSearchFundArticle() {
           company.&rdquo;
         </h3>
         <p>
-          This is the most common objection &mdash; and the most frequently
+          This is the most common objection, and the most frequently
           dispelled after sellers meet the buyer. Search fund entrepreneurs
           are rigorously vetted by investors who have evaluated hundreds of
           candidates. The typical searcher has an MBA from a top program,
@@ -429,7 +429,7 @@ export default function SellingToSearchFundArticle() {
           experienced board of directors drawn from their investor group.
           According to the Stanford 2024 study, 63% of searchers
           successfully acquire a company, and the acquired businesses
-          generate a median 25% EBITDA growth rate &mdash; evidence that
+          generate a median 25% EBITDA growth rate, evidence that
           these buyers know how to operate and grow.
         </p>
 
@@ -441,8 +441,8 @@ export default function SellingToSearchFundArticle() {
           Financing certainty is a legitimate concern. Unlike an individual
           buyer without backing who may struggle to secure a loan, a search
           fund buyer has committed investor capital ready to deploy. The
-          capital stack &mdash; combining senior bank debt, investor equity,
-          and a seller note &mdash; is a well-established structure used in
+          capital stack, combining senior bank debt, investor equity,
+          and a seller note, is a well-established structure used in
           hundreds of completed transactions. That said, deals can and do
           fall through during due diligence. Research suggests that roughly
           31% of search fund deals close once an LOI is signed; the average
@@ -460,7 +460,7 @@ export default function SellingToSearchFundArticle() {
           In almost all search fund acquisitions, the answer is no. The
           entire business model depends on the existing team staying in
           place. The new CEO is a single individual stepping into a
-          leadership role &mdash; they are not bringing in a parallel
+          leadership role, they are not bringing in a parallel
           management team. Key employees are often given retention incentives,
           new growth opportunities, and a clearer long-term career path under
           an owner with a multi-year commitment. If employee welfare is your
@@ -479,7 +479,7 @@ export default function SellingToSearchFundArticle() {
           those multiples apply to significantly larger businesses ($10M+
           EBITDA) with institutional-quality financials, diversified customer
           bases, and proven management teams. For businesses in the
-          $1&ndash;5M EBITDA range, 4&ndash;6x EBITDA is the market rate
+          $1-5M EBITDA range, 4-6x EBITDA is the market rate
           across all buyer types, not just search funds. Axial Network data
           confirms that mid-market multiples vary widely by industry, but
           the median for small businesses consistently falls in this range.
@@ -496,7 +496,7 @@ export default function SellingToSearchFundArticle() {
         </h2>
         <p>
           Sellers who prepare in advance consistently achieve better outcomes
-          &mdash; higher valuations, smoother due diligence, and fewer
+          higher valuations, smoother due diligence, and fewer
           last-minute surprises. Here are the most impactful steps you can
           take:
         </p>
@@ -588,7 +588,7 @@ export default function SellingToSearchFundArticle() {
         <p>
           While all-cash deals do occur, seller financing is a standard
           component of most search fund transactions. Typical seller notes
-          represent 10&ndash;20% of the purchase price at 5&ndash;8%
+          represent 10-20% of the purchase price at 5-8%
           interest over three to five years. Some sellers view the note as
           undesirable, but it can actually work in your favor: it often
           enables a higher total purchase price, provides you with a
@@ -608,7 +608,7 @@ export default function SellingToSearchFundArticle() {
           70% of search fund acquisitions generate positive returns, while
           approximately 10% result in a total loss and 20% result in a
           partial loss. If the business struggles, the search fund&rsquo;s
-          investor board will step in &mdash; potentially replacing the CEO,
+          investor board will step in, potentially replacing the CEO,
           bringing in operational support, or restructuring. Your exposure
           as a seller depends on your deal structure: if you carried a
           seller note, it may be at risk if the business cannot service its
@@ -644,7 +644,7 @@ export default function SellingToSearchFundArticle() {
           Search fund buyers offer a compelling answer. They bring committed
           capital, professional governance, a long-term operating horizon,
           and a personal stake in your company&rsquo;s success. They will not
-          always pay the highest headline price &mdash; but for sellers who
+          always pay the highest headline price, but for sellers who
           value continuity, employee welfare, and legacy, they are often the
           best overall outcome.
         </p>
@@ -655,7 +655,7 @@ export default function SellingToSearchFundArticle() {
           for qualified buyers far exceeds the supply. Search funds represent
           a growing and increasingly sophisticated segment of that buyer
           market. If you are considering a sale, understanding how this model
-          works puts you in a stronger position &mdash; whether you ultimately
+          works puts you in a stronger position, whether you ultimately
           choose a search fund buyer or not.
         </p>
         <p>

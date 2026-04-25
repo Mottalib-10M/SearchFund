@@ -14,13 +14,13 @@ export default function SuccessionPlanningOwnersArticle() {
           Most business owners spend decades building their company but
           only weeks planning their exit. The result: 70% of businesses
           listed for sale never sell, and owners who do sell often leave
-          20&ndash;40% of value on the table. Effective succession
-          planning starts 3&ndash;5 years before you want to exit.
+          20-40% of value on the table. Effective succession
+          planning starts 3-5 years before you want to exit.
         </p>
 
         <h2 className={h2Class}>Why start 5 years early?</h2>
         <ul className={ulClass}>
-          <li><strong>Value creation takes time:</strong> Reducing owner dependence, building a management team, and diversifying revenue are 2&ndash;3 year projects</li>
+          <li><strong>Value creation takes time:</strong> Reducing owner dependence, building a management team, and diversifying revenue are 2-3 year projects</li>
           <li><strong>Tax optimization requires planning:</strong> Most{" "}
             <Link href="/learn/tax-planning-sellers" className="text-apple-accent hover:underline">
               tax strategies
@@ -32,7 +32,7 @@ export default function SuccessionPlanningOwnersArticle() {
 
         <h2 className={h2Class}>The 5-year succession roadmap</h2>
 
-        <h3 className={h3Class}>Years 5&ndash;4: Strategic planning</h3>
+        <h3 className={h3Class}>Years 5-4: Strategic planning</h3>
         <ul className={ulClass}>
           <li><strong>Define your goals:</strong> Retirement? Another venture? Partial sale with continued involvement? Your goals shape the entire strategy</li>
           <li><strong>Get a baseline valuation:</strong> Understand{" "}
@@ -43,7 +43,7 @@ export default function SuccessionPlanningOwnersArticle() {
           <li><strong>Tax structure review:</strong> Assess whether your current entity structure is optimal for a sale. Consider restructuring if needed</li>
         </ul>
 
-        <h3 className={h3Class}>Years 4&ndash;3: Build transferable value</h3>
+        <h3 className={h3Class}>Years 4-3: Build transferable value</h3>
         <ul className={ulClass}>
           <li><strong>Hire and develop a #2:</strong> Your most important hire. This person should be able to run the business without you within 2 years</li>
           <li><strong>Reduce owner dependence:</strong> Systematically transfer customer relationships, vendor contacts, and operational knowledge to your team. See{" "}
@@ -54,7 +54,7 @@ export default function SuccessionPlanningOwnersArticle() {
           <li><strong>Professionalize financials:</strong> Move to accrual accounting, implement a proper chart of accounts, consider audited or reviewed financial statements</li>
         </ul>
 
-        <h3 className={h3Class}>Years 3&ndash;2: Optimize operations</h3>
+        <h3 className={h3Class}>Years 3-2: Optimize operations</h3>
         <ul className={ulClass}>
           <li><strong>Grow selectively:</strong>{" "}
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
@@ -70,7 +70,7 @@ export default function SuccessionPlanningOwnersArticle() {
           <li><strong>Clean up:</strong> Resolve pending legal issues, update compliance, address deferred maintenance</li>
         </ul>
 
-        <h3 className={h3Class}>Years 2&ndash;1: Prepare for market</h3>
+        <h3 className={h3Class}>Years 2-1: Prepare for market</h3>
         <ul className={ulClass}>
           <li><strong>Assemble advisory team:</strong> M&amp;A attorney, CPA, and broker/advisor. See{" "}
             <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">
@@ -84,18 +84,18 @@ export default function SuccessionPlanningOwnersArticle() {
           <li><strong>Personal planning:</strong> What comes after the sale? Financial planning, estate planning, personal identity transition</li>
         </ul>
 
-        <h3 className={h3Class}>Year 1&ndash;0: Execute the sale</h3>
+        <h3 className={h3Class}>Year 1-0: Execute the sale</h3>
         <ul className={ulClass}>
           <li><strong>Go to market:</strong> CIM, buyer screening, LOI negotiation</li>
           <li><strong>Due diligence:</strong> Support buyer review process</li>
-          <li><strong>Close and transition:</strong> 6&ndash;12 month transition period with the new owner</li>
+          <li><strong>Close and transition:</strong> 6-12 month transition period with the new owner</li>
         </ul>
 
         <h2 className={h2Class}>Succession options compared</h2>
         <ul className={ulClass}>
           <li><strong>Family succession:</strong> Preserves legacy but often undervalues the business. Tax-advantaged transfer tools (Dutreil, estate planning) available</li>
           <li><strong>Management buyout (MBO):</strong> Employees know the business, but financing is often the challenge. May need seller financing</li>
-          <li><strong>Search fund sale:</strong> Individual operator who preserves culture and employees. Fair valuation (4&ndash;6x EBITDA). See{" "}
+          <li><strong>Search fund sale:</strong> Individual operator who preserves culture and employees. Fair valuation (4-6x EBITDA). See{" "}
             <Link href="/learn/selling-to-search-fund" className="text-apple-accent hover:underline">
               selling to a search fund
             </Link></li>
@@ -108,7 +108,7 @@ export default function SuccessionPlanningOwnersArticle() {
 
         <h2 className={h2Class}>The cost of not planning</h2>
         <ul className={ulClass}>
-          <li><strong>Forced sale:</strong> Health issues, divorce, or burnout force sales at discounted prices (20&ndash;40% below market)</li>
+          <li><strong>Forced sale:</strong> Health issues, divorce, or burnout force sales at discounted prices (20-40% below market)</li>
           <li><strong>Business closure:</strong> 70% of businesses that go to market without preparation fail to sell</li>
           <li><strong>Tax waste:</strong> Without advance planning, sellers typically pay the highest possible tax rate</li>
           <li><strong>Employee impact:</strong> Unprepared exits often result in employee layoffs and community impact</li>
@@ -136,10 +136,10 @@ export default function SuccessionPlanningOwnersArticle() {
 
         <h3 className={h3Class}>What is the biggest mistake owners make when planning succession?</h3>
         <p>
-          Waiting too long. Most owners start thinking about succession 6&ndash;12
+          Waiting too long. Most owners start thinking about succession 6-12
           months before they want to exit, but the most impactful value drivers
-          &mdash; reducing owner dependence, building a management team,
-          diversifying revenue &mdash; require 2&ndash;3 years of sustained
+          reducing owner dependence, building a management team,
+          diversifying revenue, require 2-3 years of sustained
           effort. Starting late leaves money on the table and limits your
           options for deal structure, buyer selection, and tax optimization.
         </p>
@@ -149,15 +149,15 @@ export default function SuccessionPlanningOwnersArticle() {
           Not in the early stages. Premature disclosure can cause anxiety,
           productivity declines, and even key employee departures. Most
           advisors recommend telling only your most senior, trusted
-          leaders &mdash; and only when their participation is essential
+          leaders, and only when their participation is essential
           to the plan. Broader communication should happen after a deal
-          is signed, typically 30&ndash;60 days before closing.
+          is signed, typically 30-60 days before closing.
         </p>
 
         <h3 className={h3Class}>How do I choose between selling to a search fund, PE firm, or strategic buyer?</h3>
         <p>
           It depends on your priorities. Search funds preserve company culture
-          and employees, paying fair multiples (4&ndash;6x EBITDA). PE firms
+          and employees, paying fair multiples (4-6x EBITDA). PE firms
           pay higher multiples for larger businesses but may restructure
           operations. Strategic buyers offer the highest potential price but
           often integrate the company. See our{" "}

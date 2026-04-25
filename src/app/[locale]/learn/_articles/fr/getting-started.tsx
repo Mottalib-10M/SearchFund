@@ -8,7 +8,7 @@ export default function GettingStartedFR() {
 
       <div className={bodyClass}>
         <p>
-          Le search fund &mdash; ou fonds de recherche &mdash; est un véhicule
+          Le search fund, ou fonds de recherche, est un véhicule
           d&apos;investissement qui permet à un entrepreneur de lever des capitaux
           auprès d&apos;investisseurs pour financer la recherche, l&apos;acquisition et
           la direction opérationnelle d&apos;une PME rentable. Né en 1984 à la
@@ -28,7 +28,7 @@ export default function GettingStartedFR() {
           Contrairement au capital-investissement classique, où des gérants
           professionnels déploient un fonds sur un portefeuille de sociétés, le
           search fund est dédié à l&apos;acquisition d&apos;une seule entreprise. Le
-          searcher &mdash; l&apos;entrepreneur-acquéreur &mdash; ne se contente pas
+          searcher, l&apos;entrepreneur-acquéreur, ne se contente pas
           d&apos;être un investisseur financier&nbsp;: il devient le dirigeant
           opérationnel (Président ou Directeur Général) de la société acquise.
           C&apos;est ce modèle d&apos;owner-operator qui distingue le search fund des
@@ -138,7 +138,7 @@ export default function GettingStartedFR() {
 
         <h3 className={h3Class}>Phase 2&nbsp;: Levée du capital de recherche (2 à 4 mois)</h3>
         <p>
-          Le searcher présente son PPM aux investisseurs potentiels &mdash;
+          Le searcher présente son PPM aux investisseurs potentiels , 
           family offices, investisseurs institutionnels spécialisés dans l&apos;ETA,
           anciens searchers devenus investisseurs. En France, le réseau des
           investisseurs search fund est encore en construction, mais il s&apos;étoffe

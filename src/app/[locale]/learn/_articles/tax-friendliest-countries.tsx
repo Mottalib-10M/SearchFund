@@ -19,7 +19,7 @@ export default function TaxFriendliestCountriesArticle() {
           <li>Entrepreneur relief: 10% CGT rate on first &euro;1M of qualifying gains</li>
         </ul>
 
-        <h3 className={h3Class}>2. Switzerland (11&ndash;21% effective rate)</h3>
+        <h3 className={h3Class}>2. Switzerland (11-21% effective rate)</h3>
         <ul className={ulClass}>
           <li>Combined federal/cantonal corporate tax rates vary by canton (Zug: ~11%, Geneva: ~14%, Zurich: ~19%)</li>
           <li>Participation deduction reduces effective rate on qualifying dividends and capital gains</li>
@@ -45,7 +45,7 @@ export default function TaxFriendliestCountriesArticle() {
 
         <h3 className={h3Class}>5. United States (21% federal + state)</h3>
         <ul className={ulClass}>
-          <li>Effective combined rate: 25&ndash;30% depending on state</li>
+          <li>Effective combined rate: 25-30% depending on state</li>
           <li>Generous goodwill amortization (15-year straight-line for asset purchases)</li>
           <li><Link href="/learn/338h10-election" className="text-apple-accent hover:underline">338(h)(10) elections</Link> allow step-up in basis even in stock deals</li>
           <li>Section 1202 QSBS exclusion: potential exclusion of up to $10M in capital gains</li>
@@ -71,7 +71,7 @@ export default function TaxFriendliestCountriesArticle() {
           <li>Ireland, Switzerland, and the UK offer the most tax-friendly environments for business acquisitions in Europe</li>
           <li>The US has higher headline rates but generous goodwill amortization and QSBS exclusions that improve effective returns</li>
           <li>The Netherlands and Luxembourg excel as holding company jurisdictions for multi-country structures</li>
-          <li>Tax should inform but not drive acquisition decisions &mdash; operational factors matter more</li>
+          <li>Tax should inform but not drive acquisition decisions, operational factors matter more</li>
           <li>Always work with local tax advisors: tax law changes frequently and varies by specific circumstances</li>
         </ul>
       </div>
@@ -93,12 +93,12 @@ export default function TaxFriendliestCountriesArticle() {
 
       <h3 className={h3Class}>How does goodwill amortization affect acquisition returns across countries?</h3>
       <div className={bodyClass}>
-        <p>Goodwill amortization is one of the most significant tax variables in acquisition returns because it creates a non-cash deduction that reduces taxable income for years post-acquisition. The US allows 15-year straight-line <Link href="/learn/goodwill-amortization-tax" className="text-apple-accent hover:underline">goodwill amortization</Link> for asset purchases, effectively returning 21&ndash;30% of the goodwill value (depending on combined federal and state rates) through tax savings over 15 years. The UK allows amortization on most intangible assets acquired in asset deals. In contrast, many European jurisdictions (including the Netherlands and Germany) do not allow tax-deductible goodwill amortization in share deals, making asset deal structures more attractive where available. PwC&rsquo;s Worldwide Tax Summaries estimates that goodwill amortization can increase after-tax IRR by 200&ndash;400 basis points over a typical 5&ndash;7 year hold period, making it a critical factor in cross-border deal structuring.</p>
+        <p>Goodwill amortization is one of the most significant tax variables in acquisition returns because it creates a non-cash deduction that reduces taxable income for years post-acquisition. The US allows 15-year straight-line <Link href="/learn/goodwill-amortization-tax" className="text-apple-accent hover:underline">goodwill amortization</Link> for asset purchases, effectively returning 21-30% of the goodwill value (depending on combined federal and state rates) through tax savings over 15 years. The UK allows amortization on most intangible assets acquired in asset deals. In contrast, many European jurisdictions (including the Netherlands and Germany) do not allow tax-deductible goodwill amortization in share deals, making asset deal structures more attractive where available. PwC&rsquo;s Worldwide Tax Summaries estimates that goodwill amortization can increase after-tax IRR by 200-400 basis points over a typical 5-7 year hold period, making it a critical factor in cross-border deal structuring.</p>
       </div>
 
       <h3 className={h3Class}>What role do holding company jurisdictions play in tax-efficient acquisitions?</h3>
       <div className={bodyClass}>
-        <p>Holding company jurisdictions with participation exemptions enable acquirers to receive dividends from operating subsidiaries and realize capital gains on exits with minimal or zero additional tax at the holding level. The Netherlands and Luxembourg are the most popular holding jurisdictions due to their 100% participation exemptions, extensive tax treaty networks, and favorable <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company regimes</Link>. Switzerland offers a participation reduction (Beteiligungsabzug) that effectively exempts qualifying dividends and capital gains, while Ireland&rsquo;s participation exemption covers disposal gains on qualifying subsidiaries. According to OECD data, the choice of holding jurisdiction can reduce the total effective tax rate on repatriated profits by 5&ndash;15 percentage points compared to a direct ownership structure, though anti-avoidance rules (including the OECD&rsquo;s Principal Purpose Test) require genuine economic substance in the holding entity.</p>
+        <p>Holding company jurisdictions with participation exemptions enable acquirers to receive dividends from operating subsidiaries and realize capital gains on exits with minimal or zero additional tax at the holding level. The Netherlands and Luxembourg are the most popular holding jurisdictions due to their 100% participation exemptions, extensive tax treaty networks, and favorable <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company regimes</Link>. Switzerland offers a participation reduction (Beteiligungsabzug) that effectively exempts qualifying dividends and capital gains, while Ireland&rsquo;s participation exemption covers disposal gains on qualifying subsidiaries. According to OECD data, the choice of holding jurisdiction can reduce the total effective tax rate on repatriated profits by 5-15 percentage points compared to a direct ownership structure, though anti-avoidance rules (including the OECD&rsquo;s Principal Purpose Test) require genuine economic substance in the holding entity.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

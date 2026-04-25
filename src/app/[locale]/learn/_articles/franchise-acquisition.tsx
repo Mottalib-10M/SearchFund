@@ -6,7 +6,7 @@ export default function FranchiseAcquisitionArticle() {
     <article>
       <h1 className={h1Class}>Acquiring a Franchise Business (Multi-Unit)</h1>
       <div className={bodyClass}>
-        <p>Acquiring an existing multi-unit franchise operation offers search fund entrepreneurs a unique hybrid: the proven systems and brand recognition of a franchisor combined with the local market execution and growth potential of an independent business. The US franchise sector generates over $800B annually across 800,000+ establishments. For ETA, the sweet spot is acquiring multi-unit operators (3&ndash;20+ locations) with established management teams and room for additional unit growth.</p>
+        <p>Acquiring an existing multi-unit franchise operation offers search fund entrepreneurs a unique hybrid: the proven systems and brand recognition of a franchisor combined with the local market execution and growth potential of an independent business. The US franchise sector generates over $800B annually across 800,000+ establishments. For ETA, the sweet spot is acquiring multi-unit operators (3-20+ locations) with established management teams and room for additional unit growth.</p>
       </div>
 
       <h2 className={h2Class}>Types of Franchise Acquisitions</h2>
@@ -39,7 +39,7 @@ export default function FranchiseAcquisitionArticle() {
           <li><strong>Franchisor consent:</strong> Most franchisors must approve the buyer. Understand their requirements and timeline.</li>
           <li><strong>Unit-level economics:</strong> AUV (average unit volume), 4-wall EBITDA, food/labor costs by location, and trend by unit</li>
           <li><strong>Development rights:</strong> Do you have the right to open additional units? How many? What timeline?</li>
-          <li><strong>Franchise costs:</strong> Royalty rate (typically 4&ndash;8% of revenue), advertising fund contribution (1&ndash;4%), and other fees</li>
+          <li><strong>Franchise costs:</strong> Royalty rate (typically 4-8% of revenue), advertising fund contribution (1-4%), and other fees</li>
           <li><strong>Lease portfolio:</strong> Remaining lease terms, renewal options, and rent-to-revenue ratios across all locations</li>
           <li><strong>Manager quality:</strong> Unit-level general managers determine location performance. Assess talent across all units.</li>
         </ul>
@@ -61,10 +61,10 @@ export default function FranchiseAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Multi-unit franchise acquisitions offer proven systems, brand recognition, and scalable growth potential</li>
-          <li>Franchisor approval is required &mdash; start the relationship early and understand their buyer requirements</li>
+          <li>Franchisor approval is required, start the relationship early and understand their buyer requirements</li>
           <li>Unit-level economics and lease terms are the two most critical due diligence areas</li>
           <li>Development rights (ability to open new units) are a key driver of long-term value creation</li>
-          <li>Typical valuations: 4&ndash;7x EBITDA for established multi-unit operators with development rights</li>
+          <li>Typical valuations: 4-7x EBITDA for established multi-unit operators with development rights</li>
         </ul>
       </div>
 
@@ -80,17 +80,17 @@ export default function FranchiseAcquisitionArticle() {
 
       <h3 className={h3Class}>How does franchisor approval work when acquiring an existing franchise?</h3>
       <p className={bodyClass}>
-        Most franchise agreements require the franchisor to approve any change of ownership, and this approval process can take 30&ndash;90 days. The franchisor evaluates the buyer&rsquo;s financial capacity, operational experience, and alignment with brand standards. According to the International Franchise Association, approximately 85% of franchise transfer applications are approved, but buyers must typically meet minimum net worth and liquidity requirements (often $500K&ndash;$2M net worth depending on the brand). Start the franchisor relationship early&mdash;introduce yourself before submitting a formal LOI&mdash;and include franchisor approval as a closing condition in your purchase agreement.
+        Most franchise agreements require the franchisor to approve any change of ownership, and this approval process can take 30-90 days. The franchisor evaluates the buyer&rsquo;s financial capacity, operational experience, and alignment with brand standards. According to the International Franchise Association, approximately 85% of franchise transfer applications are approved, but buyers must typically meet minimum net worth and liquidity requirements (often $500K-$2M net worth depending on the brand). Start the franchisor relationship early, introduce yourself before submitting a formal LOI, and include franchisor approval as a closing condition in your purchase agreement.
       </p>
 
       <h3 className={h3Class}>What are typical valuation multiples for multi-unit franchise acquisitions?</h3>
       <p className={bodyClass}>
-        Multi-unit franchise operators typically trade at 4&ndash;7x EBITDA, with premium brands and larger portfolios commanding the upper end. FRANdata&rsquo;s 2024 market report shows that QSR (quick-service restaurant) franchises with 10+ units average 5.5&ndash;6.5x EBITDA, while service-based franchises (home services, fitness) trade at 4&ndash;5.5x. Development rights (the contractual right to open additional units in a territory) are a significant value driver and can add 0.5&ndash;1.5x to the multiple. SBA lenders are particularly willing to finance franchise acquisitions due to the documented track records and standardized operations, often requiring only 10&ndash;15% equity injection.
+        Multi-unit franchise operators typically trade at 4-7x EBITDA, with premium brands and larger portfolios commanding the upper end. FRANdata&rsquo;s 2024 market report shows that QSR (quick-service restaurant) franchises with 10+ units average 5.5-6.5x EBITDA, while service-based franchises (home services, fitness) trade at 4-5.5x. Development rights (the contractual right to open additional units in a territory) are a significant value driver and can add 0.5-1.5x to the multiple. SBA lenders are particularly willing to finance franchise acquisitions due to the documented track records and standardized operations, often requiring only 10-15% equity injection.
       </p>
 
       <h3 className={h3Class}>What is the biggest risk in acquiring a franchise business?</h3>
       <p className={bodyClass}>
-        The biggest risk is franchise agreement expiration and non-renewal. If the remaining franchise term is short (under 5 years) with no guaranteed renewal rights, the buyer faces the risk of losing the brand, systems, and supply chain that drive the business&rsquo;s value. The Franchise Business Review&rsquo;s 2024 survey found that 12% of franchisees reported concerns about renewal uncertainty. Additionally, franchisor-mandated capital expenditures (store remodels, technology upgrades, menu changes) can require $100K&ndash;$500K per unit and may not be reflected in historical financials. Always review the franchise disclosure document (FDD) Item 17 carefully and model required capital expenditures into your acquisition projections.
+        The biggest risk is franchise agreement expiration and non-renewal. If the remaining franchise term is short (under 5 years) with no guaranteed renewal rights, the buyer faces the risk of losing the brand, systems, and supply chain that drive the business&rsquo;s value. The Franchise Business Review&rsquo;s 2024 survey found that 12% of franchisees reported concerns about renewal uncertainty. Additionally, franchisor-mandated capital expenditures (store remodels, technology upgrades, menu changes) can require $100K-$500K per unit and may not be reflected in historical financials. Always review the franchise disclosure document (FDD) Item 17 carefully and model required capital expenditures into your acquisition projections.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

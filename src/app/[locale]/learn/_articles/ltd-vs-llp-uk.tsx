@@ -17,9 +17,9 @@ export default function LtdvsLLPUKArticle() {
           <li><strong>Liability:</strong> Shareholders&apos; liability limited to their shareholding</li>
           <li><strong>Minimum share capital:</strong> &pound;1 (no practical minimum)</li>
           <li><strong>Governance:</strong> At least one director. No minimum number of shareholders. Company secretary optional.</li>
-          <li><strong>Taxation:</strong> Corporation Tax on profits (currently 25% for profits over &pound;250K; 19% small profits rate for profits under &pound;50K; marginal relief between &pound;50K&ndash;&pound;250K)</li>
+          <li><strong>Taxation:</strong> Corporation Tax on profits (currently 25% for profits over &pound;250K; 19% small profits rate for profits under &pound;50K; marginal relief between &pound;50K-&pound;250K)</li>
           <li><strong>Share classes:</strong> Can create ordinary, preference, and other share classes with different rights</li>
-          <li><strong>Transfer:</strong> Share transfers are simple &mdash; no notarization required (unlike Germany)</li>
+          <li><strong>Transfer:</strong> Share transfers are simple, no notarization required (unlike Germany)</li>
           <li><strong>Stamp duty:</strong> 0.5% on share purchases above &pound;1,000</li>
           <li><strong>Companies House:</strong> Annual confirmation statement and accounts must be filed publicly</li>
         </ul>
@@ -32,10 +32,10 @@ export default function LtdvsLLPUKArticle() {
           <li><strong>Legal status:</strong> Separate legal entity (unlike traditional partnerships)</li>
           <li><strong>Liability:</strong> Members&apos; liability limited to their capital contribution</li>
           <li><strong>Minimum members:</strong> Two designated members required</li>
-          <li><strong>Taxation:</strong> Tax-transparent &mdash; profits are taxed at each member&apos;s individual income tax rate (up to 45% for additional rate taxpayers)</li>
-          <li><strong>National Insurance:</strong> Members treated as self-employed &mdash; Class 2 and Class 4 NIC applies</li>
+          <li><strong>Taxation:</strong> Tax-transparent, profits are taxed at each member&apos;s individual income tax rate (up to 45% for additional rate taxpayers)</li>
+          <li><strong>National Insurance:</strong> Members treated as self-employed, Class 2 and Class 4 NIC applies</li>
           <li><strong>Profit distribution:</strong> Flexible profit-sharing based on the LLP agreement</li>
-          <li><strong>No shares:</strong> Members hold membership interests, not shares &mdash; harder to create preference structures</li>
+          <li><strong>No shares:</strong> Members hold membership interests, not shares, harder to create preference structures</li>
           <li><strong>No stamp duty:</strong> On transfer of LLP interests (significant advantage for professional services acquisitions)</li>
         </ul>
       </div>
@@ -43,7 +43,7 @@ export default function LtdvsLLPUKArticle() {
       <h2 className={h2Class}>Key Differences for Acquirers</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Tax treatment:</strong> Ltd pays Corporation Tax (19&ndash;25%); LLP is transparent (members pay income tax up to 45%). For profitable businesses, Ltd is typically more tax-efficient.</li>
+          <li><strong>Tax treatment:</strong> Ltd pays Corporation Tax (19-25%); LLP is transparent (members pay income tax up to 45%). For profitable businesses, Ltd is typically more tax-efficient.</li>
           <li><strong>Investor compatibility:</strong> Ltd is strongly preferred. Investors can receive preferred shares, and governance is well-understood. LLP structures are less familiar to search fund investors.</li>
           <li><strong>Debt financing:</strong> Banks strongly prefer lending to Ltd companies. LLPs can be harder to finance.</li>
           <li><strong>Exit:</strong> Ltd shares are easily sold. LLP interests are harder to value and transfer.</li>
@@ -79,10 +79,10 @@ export default function LtdvsLLPUKArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Ltd is the standard structure for UK acquisitions &mdash; preferred by investors, banks, and for governance flexibility</li>
+          <li>Ltd is the standard structure for UK acquisitions, preferred by investors, banks, and for governance flexibility</li>
           <li>LLP is common in professional services but less suitable for search fund structures due to investor and financing constraints</li>
           <li>UK share transfers are simple and inexpensive (0.5% stamp duty, no notarization), making exits straightforward</li>
-          <li>Corporation Tax rates of 19&ndash;25% are competitive, with the small profits rate benefiting companies under &pound;50K profit</li>
+          <li>Corporation Tax rates of 19-25% are competitive, with the small profits rate benefiting companies under &pound;50K profit</li>
           <li>EMI share options provide a tax-efficient way to incentivize management post-acquisition</li>
         </ul>
       </div>
@@ -103,7 +103,7 @@ export default function LtdvsLLPUKArticle() {
       <div className={bodyClass}>
         <p>
           An Ltd is almost always the better choice. It is the standard
-          structure for UK acquisitions &mdash; preferred by search fund
+          structure for UK acquisitions, preferred by search fund
           investors (who can hold preference shares), banks (which strongly
           prefer lending to Ltd companies), and for governance flexibility.
           LLPs are common in professional services but create complications
@@ -136,8 +136,8 @@ export default function LtdvsLLPUKArticle() {
           transfer the LLP&rsquo;s business, assets, and employees to the Ltd,
           and then wind down the LLP. This process requires careful planning
           around employment (TUPE regulations), lease assignments, contract
-          novation, and tax implications. Budget 3&ndash;6 months and
-          &pound;10K&ndash;&pound;30K in professional fees for a clean
+          novation, and tax implications. Budget 3-6 months and
+          &pound;10K-&pound;30K in professional fees for a clean
           conversion.
         </p>
       </div>

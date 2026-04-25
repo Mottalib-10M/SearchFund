@@ -15,7 +15,7 @@ export default function LegalStructureFR() {
           chacune présente des avantages et des contraintes spécifiques. Le
           searcher doit arbitrer entre souplesse statutaire, régime fiscal,
           protection du patrimoine personnel et capacité à accueillir des
-          investisseurs institutionnels &mdash; le tout dans le respect du Code
+          investisseurs institutionnels, le tout dans le respect du Code
           de commerce et du droit des sociétés.
         </p>
         <p>

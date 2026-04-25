@@ -567,12 +567,12 @@ export default function IdealAcquisitionTargetArticle() {
 
       <h3 className={h3Class}>What size company should a search fund target?</h3>
       <p className={bodyClass}>
-        The traditional search fund sweet spot is $5&ndash;30 million in enterprise value, with $1&ndash;5 million in EBITDA. Businesses below $5M often lack the infrastructure to support a professional CEO, while those above $30M attract well-capitalized private equity firms. Self-funded searchers typically target the lower end of this range ($5&ndash;15M), while traditional searchers with institutional backing can pursue larger targets up to $30M.
+        The traditional search fund sweet spot is $5-30 million in enterprise value, with $1-5 million in EBITDA. Businesses below $5M often lack the infrastructure to support a professional CEO, while those above $30M attract well-capitalized private equity firms. Self-funded searchers typically target the lower end of this range ($5-15M), while traditional searchers with institutional backing can pursue larger targets up to $30M.
       </p>
 
       <h3 className={h3Class}>Why do search funds avoid high-growth tech companies?</h3>
       <p className={bodyClass}>
-        Search funds prioritize predictable cash flows and proven business models over high-growth potential. Technology companies facing rapid change carry disruption risk that is difficult for a first-time CEO to manage. The ideal search fund target is a &ldquo;boring, profitable&rdquo; company in a stable industry&mdash;think HVAC services, specialty manufacturing, or B2B distribution&mdash;rather than a high-growth startup competing in a rapidly evolving market.
+        Search funds prioritize predictable cash flows and proven business models over high-growth potential. Technology companies facing rapid change carry disruption risk that is difficult for a first-time CEO to manage. The ideal search fund target is a &ldquo;boring, profitable&rdquo; company in a stable industry, think HVAC services, specialty manufacturing, or B2B distribution, rather than a high-growth startup competing in a rapidly evolving market.
       </p>
 
       <h3 className={h3Class}>How important is recurring revenue in an acquisition target?</h3>

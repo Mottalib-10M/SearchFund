@@ -9,7 +9,7 @@ export default function NordicEntityStructuresArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Nordic countries &mdash; Sweden, Norway, Denmark, and Finland &mdash;
+          The Nordic countries, Sweden, Norway, Denmark, and Finland , 
           are among the most attractive markets in Europe for search fund
           acquisitions. Each offers a well-developed SME sector, high-trust
           business culture, strong legal frameworks, and transparent regulatory
@@ -385,8 +385,8 @@ export default function NordicEntityStructuresArticle() {
         <h2 className={h2Class}>Cross-Nordic deal structures</h2>
         <p>
           For search fund entrepreneurs considering acquisitions across
-          multiple Nordic countries &mdash; either through initial
-          acquisitions or subsequent bolt-on deals &mdash; the question of
+          multiple Nordic countries, either through initial
+          acquisitions or subsequent bolt-on deals, the question of
           how to structure the group across jurisdictions becomes important.
           Key considerations include:
         </p>
@@ -523,17 +523,17 @@ export default function NordicEntityStructuresArticle() {
 
         <h3 className={h3Class}>Which Nordic country is best for a search fund holding company?</h3>
         <p>
-          Sweden is the most commonly chosen jurisdiction for Nordic search fund holding structures, due to its combination of a competitive 20.6% corporate tax rate, a broad participation exemption on capital gains and dividends from qualifying subsidiaries, an extensive double tax treaty network, and the region&rsquo;s most developed ETA ecosystem. According to PwC&rsquo;s annual Doing Business in Sweden guide, the Swedish participation exemption allows tax-free exit on subsidiary share sales when the holding exceeds 10% for at least one year &mdash; a significant advantage for search fund investors planning a 5&ndash;7 year hold. Finland&rsquo;s 20% corporate tax rate is the lowest in the Nordics, making it an attractive alternative, particularly for acquisitions of Finnish targets where the group contribution regime provides efficient tax consolidation.
+          Sweden is the most commonly chosen jurisdiction for Nordic search fund holding structures, due to its combination of a competitive 20.6% corporate tax rate, a broad participation exemption on capital gains and dividends from qualifying subsidiaries, an extensive double tax treaty network, and the region&rsquo;s most developed ETA ecosystem. According to PwC&rsquo;s annual Doing Business in Sweden guide, the Swedish participation exemption allows tax-free exit on subsidiary share sales when the holding exceeds 10% for at least one year, a significant advantage for search fund investors planning a 5-7 year hold. Finland&rsquo;s 20% corporate tax rate is the lowest in the Nordics, making it an attractive alternative, particularly for acquisitions of Finnish targets where the group contribution regime provides efficient tax consolidation.
         </p>
 
         <h3 className={h3Class}>How do Nordic labor laws affect post-acquisition restructuring?</h3>
         <p>
-          Nordic labor laws impose strong employee protections that significantly constrain post-acquisition restructuring. All Nordic countries implement the EU&rsquo;s Transfer of Undertakings (TUPE) directive, which means employees&rsquo; rights, contracts, seniority, and pension obligations transfer automatically to the new owner. Dismissal requires just cause or objective business reasons, and notice periods can extend to six months for long-tenured employees in Sweden. According to Deloitte&rsquo;s Taxation and Investment in the Nordic Countries report, employer-mandated pension contributions add 10&ndash;30% to base salary costs depending on the country and collective bargaining agreement. Search fund acquirers should budget 6&ndash;12 months for any workforce restructuring and factor mandatory pension obligations into their acquisition valuation models from the outset.
+          Nordic labor laws impose strong employee protections that significantly constrain post-acquisition restructuring. All Nordic countries implement the EU&rsquo;s Transfer of Undertakings (TUPE) directive, which means employees&rsquo; rights, contracts, seniority, and pension obligations transfer automatically to the new owner. Dismissal requires just cause or objective business reasons, and notice periods can extend to six months for long-tenured employees in Sweden. According to Deloitte&rsquo;s Taxation and Investment in the Nordic Countries report, employer-mandated pension contributions add 10-30% to base salary costs depending on the country and collective bargaining agreement. Search fund acquirers should budget 6-12 months for any workforce restructuring and factor mandatory pension obligations into their acquisition valuation models from the outset.
         </p>
 
         <h3 className={h3Class}>What are the minimum capital requirements for acquiring a Nordic company?</h3>
         <p>
-          Minimum share capital requirements vary across the Nordics: Finland has the lowest at EUR 2,500 for a private Oy, followed by Sweden at SEK 25,000 (approximately EUR 2,200) for a private AB, Norway at NOK 30,000 (approximately EUR 2,600) for an AS, and Denmark at DKK 40,000 (approximately EUR 5,400) for an ApS. These minimums apply to the corporate entity itself, not to the acquisition vehicle&rsquo;s total capitalization. For search fund acquisitions, the holding company will typically need substantially more capital &mdash; comprising the management team&rsquo;s equity contribution, co-investor equity, and any shareholder loans &mdash; to fund the acquisition. According to the IESE Business School&rsquo;s 2024 international search fund study, Nordic search fund acquisitions typically range from EUR 2&ndash;15 million in enterprise value, requiring total equity commitments of EUR 1&ndash;5 million depending on use and seller financing availability.
+          Minimum share capital requirements vary across the Nordics: Finland has the lowest at EUR 2,500 for a private Oy, followed by Sweden at SEK 25,000 (approximately EUR 2,200) for a private AB, Norway at NOK 30,000 (approximately EUR 2,600) for an AS, and Denmark at DKK 40,000 (approximately EUR 5,400) for an ApS. These minimums apply to the corporate entity itself, not to the acquisition vehicle&rsquo;s total capitalization. For search fund acquisitions, the holding company will typically need substantially more capital, comprising the management team&rsquo;s equity contribution, co-investor equity, and any shareholder loans, to fund the acquisition. According to the IESE Business School&rsquo;s 2024 international search fund study, Nordic search fund acquisitions typically range from EUR 2-15 million in enterprise value, requiring total equity commitments of EUR 1-5 million depending on use and seller financing availability.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
@@ -545,7 +545,7 @@ export default function NordicEntityStructuresArticle() {
           <li>Nordic Council of Ministers, <em>Nordic Tax Treaty Commentary</em></li>
           <li>PwC, <em>Doing Business in Sweden / Norway / Denmark / Finland</em> (annual publications)</li>
           <li>Deloitte, <em>Taxation and Investment in the Nordic Countries</em></li>
-          <li>IESE Business School, <em>International Search Funds &mdash; Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Funds, Selected Observations</em> (2024)</li>
         </ul>
 
         <h2 className={h2Class}>Related resources</h2>

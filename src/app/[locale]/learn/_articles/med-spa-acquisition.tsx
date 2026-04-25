@@ -19,7 +19,7 @@ export default function MedSpaAcquisitionArticle() {
             className="text-apple-accent hover:underline"
           >
             Grand View Research
-          </a>. Nearly all of that revenue&mdash;95% or more&mdash;is cash-pay, meaning no insurance
+          </a>. Nearly all of that revenue, 95% or more, is cash-pay, meaning no insurance
           billing, no claims denials, and no reimbursement risk. For acquisition entrepreneurs,
           med spas combine healthcare-grade recurring demand with consumer-facing branding and
           margins that rival software businesses. But the opportunity comes with a regulatory
@@ -49,7 +49,7 @@ export default function MedSpaAcquisitionArticle() {
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
             adjusted EBITDA
           </Link>{" "}
-          margins of 20&ndash;35%, with top-performing multi-location operators pushing above 35%
+          margins of 20-35%, with top-performing multi-location operators pushing above 35%
           through purchasing use on injectables and shared overhead.
         </p>
         <p>
@@ -59,19 +59,19 @@ export default function MedSpaAcquisitionArticle() {
           <li>
             <strong>Neurotoxins and dermal fillers</strong> (Botox, Dysport, Juvederm, Restylane)
             account for roughly 55% of total procedure volume industry-wide, per AmSpa data.
-            Product cost for Botox runs $5&ndash;7 per unit at wholesale against a retail price
-            of $12&ndash;18 per unit, producing gross margins of 70&ndash;80%.
+            Product cost for Botox runs $5-7 per unit at wholesale against a retail price
+            of $12-18 per unit, producing gross margins of 70-80%.
           </li>
           <li>
             <strong>Body contouring</strong> treatments like AbbVie&rsquo;s CoolSculpting Elite
-            and BTL&rsquo;s Emsculpt NEO command $2,000&ndash;4,000 per treatment cycle. Equipment
-            leases or purchases ($100K&ndash;$300K) create a capital barrier but also a competitive
+            and BTL&rsquo;s Emsculpt NEO command $2,000-4,000 per treatment cycle. Equipment
+            leases or purchases ($100K-$300K) create a capital barrier but also a competitive
             moat once installed.
           </li>
           <li>
-            <strong>Skin rejuvenation</strong>&mdash;HydraFacial, chemical peels, microneedling,
-            and laser resurfacing&mdash;makes up about 32% of procedure volume. HydraFacial
-            sessions price at $150&ndash;350, with lower margins per session but higher visit
+            <strong>Skin rejuvenation</strong>, HydraFacial, chemical peels, microneedling,
+            and laser resurfacing, makes up about 32% of procedure volume. HydraFacial
+            sessions price at $150-350, with lower margins per session but higher visit
             frequency (monthly for many patients).
           </li>
           <li>
@@ -82,7 +82,7 @@ export default function MedSpaAcquisitionArticle() {
           </li>
           <li>
             <strong>Medical-grade skincare retail</strong> (SkinCeuticals, ZO Skin Health,
-            Alastin) contributes 8&ndash;15% of revenue with minimal labor cost, since products
+            Alastin) contributes 8-15% of revenue with minimal labor cost, since products
             sell during treatment visits.
           </li>
         </ul>
@@ -95,8 +95,8 @@ export default function MedSpaAcquisitionArticle() {
             className="text-apple-accent hover:underline"
           >
             2025 Scope Research analysis
-          </a>, single-location med spas trade at 3&ndash;6x EBITDA,
-          multi-unit platforms at 5&ndash;8x, and PE-backed national brands at 10x or higher.
+          </a>, single-location med spas trade at 3-6x EBITDA,
+          multi-unit platforms at 5-8x, and PE-backed national brands at 10x or higher.
           Understanding how to calculate{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
             EBITDA multiples by industry
@@ -133,7 +133,7 @@ export default function MedSpaAcquisitionArticle() {
           <li>
             <strong>California and New York</strong> enforce strict corporate practice rules.
             California regulators have shut down spas using &ldquo;paper&rdquo; medical
-            directors&mdash;physicians who sign agreements but have no real involvement. Only
+            directors, physicians who sign agreements but have no real involvement. Only
             physician-owned entities can provide medical services, pushing non-physician buyers
             toward the MSO model.
           </li>
@@ -158,8 +158,8 @@ export default function MedSpaAcquisitionArticle() {
           you will likely acquire the business through a Management Services Organization. The
           MSO owns the non-clinical assets (brand, equipment, leases, staff contracts) and
           provides management services to a physician-owned professional entity (PC or PLLC)
-          through a Management Services Agreement (MSA). The MSA defines service fees&mdash;typically
-          structured as a percentage of collected revenue or a fixed monthly fee&mdash;that
+          through a Management Services Agreement (MSA). The MSA defines service fees, typically
+          structured as a percentage of collected revenue or a fixed monthly fee, that
           flow from the PC to the MSO. The critical compliance rule: the MSO cannot control
           clinical decisions, hire or fire physicians, or set treatment pricing. Violating this
           boundary can void the entire structure and expose the buyer to practicing-medicine-without-a-license
@@ -189,9 +189,9 @@ export default function MedSpaAcquisitionArticle() {
         <p>
           <strong>1. Practitioner dependency.</strong> The single biggest risk in any med spa
           acquisition is that revenue walks out the door with a star injector. A skilled nurse
-          injector generating $500,000&ndash;800,000 in annual collections often has deep
-          patient loyalty. If that provider leaves post-close&mdash;and takes 200+ loyal
-          patients&mdash;the business loses 30&ndash;50% of revenue overnight. Analyze revenue
+          injector generating $500,000-800,000 in annual collections often has deep
+          patient loyalty. If that provider leaves post-close, and takes 200+ loyal
+          patients, the business loses 30-50% of revenue overnight. Analyze revenue
           concentration by provider. If any single injector generates more than 35% of
           collections, treat the business as{" "}
           <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
@@ -203,21 +203,21 @@ export default function MedSpaAcquisitionArticle() {
         <p>
           <strong>2. Membership health.</strong> Membership programs now exist at an estimated
           85% of U.S. med spas, according to industry consultants at Nextech, with monthly fees
-          typically ranging $99&ndash;299. Healthy programs have monthly churn below 5% and
-          generate 20&ndash;30% of total revenue. Red flags include: churn above 8% per month,
+          typically ranging $99-299. Healthy programs have monthly churn below 5% and
+          generate 20-30% of total revenue. Red flags include: churn above 8% per month,
           aggressive annual prepay discounts that pull forward revenue, or membership terms that
           lock in below-market treatment pricing (destroying margin as product costs rise).
         </p>
         <p>
           <strong>3. Equipment age and lease obligations.</strong> CoolSculpting machines,
-          laser platforms, and radiofrequency devices have 5&ndash;8 year useful lives and carry
-          $100K&ndash;300K replacement costs. Review all equipment leases, maintenance contracts,
+          laser platforms, and radiofrequency devices have 5-8 year useful lives and carry
+          $100K-300K replacement costs. Review all equipment leases, maintenance contracts,
           and remaining useful life. An aging fleet of laser devices due for simultaneous replacement
           can create a $500K+ capital cliff post-close that wipes out a year of EBITDA.
         </p>
         <p>
           <strong>4. Online reputation.</strong> AmSpa&rsquo;s data shows 73% of med spa patients
-          are repeat visitors&mdash;but first-time patients discover clinics through Google and
+          are repeat visitors, but first-time patients discover clinics through Google and
           Instagram. A location with fewer than 4.5 stars on Google (with meaningful review
           volume) signals service quality issues or unresolved patient complaints. Check Google
           Business Profile, Yelp, and RealSelf reviews for patterns: adverse outcomes,
@@ -247,12 +247,12 @@ export default function MedSpaAcquisitionArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Base tier ($99&ndash;149/month):</strong> Includes one monthly treatment
-            (HydraFacial, chemical peel, or dermaplaning), 10&ndash;15% off injectables, and
+            <strong>Base tier ($99-149/month):</strong> Includes one monthly treatment
+            (HydraFacial, chemical peel, or dermaplaning), 10-15% off injectables, and
             10% off retail skincare. This tier drives visit frequency and product cross-selling.
           </li>
           <li>
-            <strong>Premium tier ($199&ndash;299/month):</strong> Adds injectable credits
+            <strong>Premium tier ($199-299/month):</strong> Adds injectable credits
             (e.g., 20 units of Botox included), priority booking, and exclusive access to new
             treatments. This tier captures high-LTV patients who would otherwise buy services
             &agrave; la carte.
@@ -260,7 +260,7 @@ export default function MedSpaAcquisitionArticle() {
           <li>
             <strong>VIP/concierge ($300+/month):</strong> Bundles significant injectable
             allotments, body contouring sessions, and premium skincare. Suited for affluent
-            markets where patients regularly spend $5,000&ndash;15,000 annually.
+            markets where patients regularly spend $5,000-15,000 annually.
           </li>
         </ol>
         <p>
@@ -282,20 +282,20 @@ export default function MedSpaAcquisitionArticle() {
         <p>
           <strong>Practitioner dependency and retention.</strong> Unlike a plumbing company
           or HVAC business, med spa revenue is deeply tied to specific human beings. Patients
-          choose their injector the way they choose a hairstylist&mdash;by personal trust and
+          choose their injector the way they choose a hairstylist, by personal trust and
           demonstrated results. The{" "}
           <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
             employee retention strategies
           </Link>{" "}
           that work for general small businesses need significant adaptation here. Effective
           retention tools include: equity or phantom equity for top providers, production-based
-          compensation (typically 20&ndash;30% of collected revenue), 12&ndash;24 month
+          compensation (typically 20-30% of collected revenue), 12-24 month
           non-compete agreements with reasonable geographic scope, and building a brand identity
           that transcends any single provider.
         </p>
         <p>
           <strong>Treatment trend cycles.</strong> Aesthetic medicine is fashion-adjacent. CoolSculpting
-          dominated body contouring from 2015&ndash;2020, but demand plateaued as competitors
+          dominated body contouring from 2015-2020, but demand plateaued as competitors
           like Emsculpt NEO gained traction. GLP-1 weight-loss medications simultaneously
           reduced demand for surgical and non-surgical fat reduction while creating a new
           service line (GLP-1 prescribing and monitoring) and boosting demand for post-weight-loss
@@ -308,7 +308,7 @@ export default function MedSpaAcquisitionArticle() {
           >
             McKinsey analysis
           </a>{" "}
-          found that &ldquo;Ozempic face&rdquo;&mdash;volume loss from rapid weight reduction&mdash;has
+          found that &ldquo;Ozempic face&rdquo;, volume loss from rapid weight reduction, has
           driven 63% of post-weight-loss aesthetic patients into med spas for the first time.
           Acquirers should evaluate whether the target&rsquo;s treatment mix is diversified
           enough to weather the next trend shift.
@@ -319,7 +319,7 @@ export default function MedSpaAcquisitionArticle() {
           perform injectable procedures. The FDA&rsquo;s crackdown on compounded semaglutide
           in late 2024 also forced med spas that relied heavily on compounded GLP-1 prescriptions
           to pivot to brand-name products at higher cost. Budget for ongoing compliance counsel
-          ($10,000&ndash;25,000 annually) and build regulatory monitoring into your operating
+          ($10,000-25,000 annually) and build regulatory monitoring into your operating
           model.
         </p>
 
@@ -343,20 +343,20 @@ export default function MedSpaAcquisitionArticle() {
         </p>
         <p>
           The rollup economics are compelling. A search fund operator can acquire a first
-          location at 4&ndash;5x EBITDA, add two to three more locations through tuck-in
-          acquisitions at similar multiples, and build a platform valued at 7&ndash;10x by
+          location at 4-5x EBITDA, add two to three more locations through tuck-in
+          acquisitions at similar multiples, and build a platform valued at 7-10x by
           institutional buyers. The multiple arbitrage comes from:
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Centralized purchasing:</strong> Allergan (Botox, Juvederm) and Galderma
             (Restylane, Dysport) offer volume-tiered pricing. A three-location operator buying
-            5,000+ vials annually can negotiate 15&ndash;25% lower product costs than a single
+            5,000+ vials annually can negotiate 15-25% lower product costs than a single
             location, according to industry distributor data.
           </li>
           <li>
             <strong>Shared back-office:</strong> Centralized scheduling, billing, marketing,
-            and compliance reduces overhead per location by 8&ndash;12%.
+            and compliance reduces overhead per location by 8-12%.
           </li>
           <li>
             <strong>Brand use:</strong> A recognizable multi-location brand reduces patient
@@ -397,23 +397,23 @@ export default function MedSpaAcquisitionArticle() {
           </Link>.
         </p>
         <p>
-          <strong>Days 1&ndash;30: Stabilize and listen.</strong> Meet every employee and
+          <strong>Days 1-30: Stabilize and listen.</strong> Meet every employee and
           provider one-on-one. Confirm the Medical Director&rsquo;s commitment. Review all
           patient data to understand revenue concentration by provider, treatment, and referral
           source. Do not change compensation structures, treatment protocols, or branding during
           this period.
         </p>
         <p>
-          <strong>Days 30&ndash;60: Launch or optimize the membership program.</strong> If the
+          <strong>Days 30-60: Launch or optimize the membership program.</strong> If the
           practice has no membership program, launch a two-tier structure targeting the existing
           patient base first. If a program exists, analyze churn, average revenue per member,
           and the discount-to-margin ratio. Tighten any membership terms that give away margin
           without improving retention.
         </p>
         <p>
-          <strong>Days 60&ndash;90: Expand the treatment menu.</strong> Adding one or two
-          high-demand services&mdash;GLP-1 weight management, IV therapy, or a body contouring
-          device the practice lacks&mdash;can add 10&ndash;20% in new revenue within six months.
+          <strong>Days 60-90: Expand the treatment menu.</strong> Adding one or two
+          high-demand services, GLP-1 weight management, IV therapy, or a body contouring
+          device the practice lacks, can add 10-20% in new revenue within six months.
           Use{" "}
           <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">
             pricing optimization
@@ -422,7 +422,7 @@ export default function MedSpaAcquisitionArticle() {
           owner&rsquo;s intuition-based pricing.
         </p>
         <p>
-          <strong>Months 3&ndash;12: Scale marketing and evaluate expansion.</strong> Invest
+          <strong>Months 3-12: Scale marketing and evaluate expansion.</strong> Invest
           in Instagram and TikTok content (before-and-after reels are the highest-converting
           format in aesthetics). Build a Google Business Profile strategy targeting
           &ldquo;med spa near me&rdquo; and treatment-specific queries. Once the first location
@@ -443,7 +443,7 @@ export default function MedSpaAcquisitionArticle() {
           business services to a physician-owned professional entity. In states like Florida that
           do not strictly enforce the doctrine, non-physicians can own a med spa directly,
           provided a licensed physician serves as Medical Director and supervises all clinical
-          activity. Regardless of structure, budget $15,000&ndash;30,000 in legal fees to set
+          activity. Regardless of structure, budget $15,000-30,000 in legal fees to set
           up the entity correctly.
         </p>
 
@@ -451,11 +451,11 @@ export default function MedSpaAcquisitionArticle() {
           What EBITDA margin should I expect from a med spa acquisition?
         </h3>
         <p>
-          Single-location med spas with competent management typically produce 20&ndash;30%
+          Single-location med spas with competent management typically produce 20-30%
           EBITDA margins. Multi-location operators with purchasing use and shared
-          overhead can reach 30&ndash;40%. If a seller claims margins above 40%, investigate
+          overhead can reach 30-40%. If a seller claims margins above 40%, investigate
           whether the owner is paying themselves below-market compensation, deferring equipment
-          maintenance, or underinvesting in marketing&mdash;all of which create post-close
+          maintenance, or underinvesting in marketing, all of which create post-close
           cost cliffs. Always recast financials by calculating{" "}
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
             adjusted EBITDA
@@ -467,11 +467,11 @@ export default function MedSpaAcquisitionArticle() {
           How do I protect against a key injector leaving after the acquisition?
         </h3>
         <p>
-          Three-pronged approach: (1) production-based compensation at 20&ndash;30% of collected
+          Three-pronged approach: (1) production-based compensation at 20-30% of collected
           revenue, which aligns the injector&rsquo;s income with their performance and exceeds
-          flat-salary offers from competitors; (2) a 12&ndash;24 month non-compete with a
-          reasonable geographic radius (5&ndash;15 miles, depending on market density); and
-          (3) equity or phantom equity vesting over 3&ndash;4 years for providers generating
+          flat-salary offers from competitors; (2) a 12-24 month non-compete with a
+          reasonable geographic radius (5-15 miles, depending on market density); and
+          (3) equity or phantom equity vesting over 3-4 years for providers generating
           $500K+ in annual collections. Structure the purchase agreement with a portion of
           consideration paid as an earnout tied to key employee retention milestones.
         </p>
@@ -481,7 +481,7 @@ export default function MedSpaAcquisitionArticle() {
         </h3>
         <p>
           AmSpa&rsquo;s 2024 data puts average single-location revenue at $1.4 million. At
-          25% EBITDA margins, that produces $350,000 in earnings. Applied to the 4&ndash;6x
+          25% EBITDA margins, that produces $350,000 in earnings. Applied to the 4-6x
           multiple range typical for single locations, enterprise value falls between $1.4
           million and $2.1 million. Practices with strong membership programs, diversified
           provider bases, and above-average margins can command the upper end. Evaluate whether
@@ -497,10 +497,10 @@ export default function MedSpaAcquisitionArticle() {
         </h3>
         <p>
           Partially. The industry grew through the 2020 pandemic-era disruptions and showed
-          resilience during 2022&ndash;2023 inflationary pressures. AmSpa reported year-over-year
+          resilience during 2022-2023 inflationary pressures. AmSpa reported year-over-year
           revenue growth every year since 2015. That said, med spa treatments are discretionary
           spending, and a deep consumer recession would likely slow new patient acquisition and
-          reduce average ticket sizes&mdash;particularly for premium treatments like body
+          reduce average ticket sizes, particularly for premium treatments like body
           contouring. Neurotoxins and basic injectables tend to hold up better because patients
           view maintenance Botox as a semi-necessity once they start. A diversified treatment
           mix and a healthy membership base provide the best insulation against economic cycles.

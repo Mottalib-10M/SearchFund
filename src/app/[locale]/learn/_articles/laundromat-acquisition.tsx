@@ -8,16 +8,16 @@ export default function LaundromatAcquisitionArticle() {
       <p className="text-sm text-apple-gray-500 mt-3">14 min read</p>
       <div className={bodyClass}>
         <p>
-          A well-run laundromat generates $200,000 to $500,000 in annual revenue with 20&ndash;35%
-          net margins, requires minimal staff, and serves demand that never disappears&mdash;people
+          A well-run laundromat generates $200,000 to $500,000 in annual revenue with 20-35%
+          net margins, requires minimal staff, and serves demand that never disappears, people
           always need clean clothes. The U.S. coin laundry market is worth roughly{" "}
           <a href="https://www.kentleyinsights.com/laundromats-industry-market-research-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">$6.8 billion according to Kentley Insights</a>,
           yet the industry remains highly fragmented across roughly 18,000 independent locations.
           That fragmentation creates a clear acquisition opportunity: buy an underperforming store,
           upgrade equipment and payments, layer on wash-and-fold service, and either operate it
           semi-passively or use it as a platform for a multi-unit roll-up. This guide walks through
-          every step&mdash;from valuation and revenue verification to lease negotiation and
-          post-close growth&mdash;so you can underwrite a laundromat deal with confidence.
+          every step, from valuation and revenue verification to lease negotiation and
+          post-close growth, so you can underwrite a laundromat deal with confidence.
         </p>
       </div>
 
@@ -33,11 +33,11 @@ export default function LaundromatAcquisitionArticle() {
         <p>
           A typical self-service laundromat occupies 1,500 to 3,000 square feet, runs 20 to 60
           machines, and grosses between $150,000 and $500,000 per year. Net operating margins
-          cluster in the 20&ndash;35% range after rent, utilities, maintenance, and insurance.
-          Utility costs&mdash;water, gas, and electricity&mdash;represent 20&ndash;30% of revenue,
+          cluster in the 20-35% range after rent, utilities, maintenance, and insurance.
+          Utility costs, water, gas, and electricity, represent 20-30% of revenue,
           making them the second-largest line item after rent. Stores that add wash-and-fold or
-          pickup-and-delivery services often push total revenue 30&ndash;50% higher because
-          drop-off service commands $1.50&ndash;$2.50 per pound versus $0.50&ndash;$0.75 per
+          pickup-and-delivery services often push total revenue 30-50% higher because
+          drop-off service commands $1.50-$2.50 per pound versus $0.50-$0.75 per
           pound in self-service equivalent yield.
         </p>
         <p>
@@ -65,11 +65,11 @@ export default function LaundromatAcquisitionArticle() {
         </p>
         <p>
           Alternative benchmarks can serve as sanity checks. Industry brokers often cite a
-          rule-of-thumb price of 30&ndash;50% of annual gross revenue, or $30&ndash;$80 per
+          rule-of-thumb price of 30-50% of annual gross revenue, or $30-$80 per
           square foot of operating space in urban markets, per{" "}
           <a href="https://www.bizbuysell.com/learning-center/valuation-benchmarks/laundromats-coin-laundry/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">BizBuySell&rsquo;s laundromat valuation benchmarks</a>.
           A 2,000-square-foot store grossing $300,000 might therefore list at $90,000 to
-          $150,000&mdash;cross-reference that against an SDE multiple to see if the ask price
+          $150,000, cross-reference that against an SDE multiple to see if the ask price
           makes sense.
         </p>
         <p>
@@ -95,24 +95,24 @@ export default function LaundromatAcquisitionArticle() {
             <strong>Water-bill analysis.</strong> This is the industry-standard technique described
             by{" "}
             <a href="https://www.laundromatresource.com/3-ways-to-verify-laundromat-income/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Laundromat Resource</a>.
-            Gather 24&ndash;36 months of water bills and convert usage into gallons (1 HCF = 748
+            Gather 24-36 months of water bills and convert usage into gallons (1 HCF = 748
             gallons). Divide total gallons by the average gallons-per-cycle for the installed
-            machines&mdash;typically about 15 gallons for a standard top-load washer, 8&ndash;12
+            machines, typically about 15 gallons for a standard top-load washer, 8-12
             gallons for a high-efficiency front-loader. Multiply estimated cycles by the average
             vend price to arrive at implied wash revenue. If the seller&rsquo;s claimed revenue
-            exceeds your water-derived estimate by more than 15&ndash;20%, that gap demands
+            exceeds your water-derived estimate by more than 15-20%, that gap demands
             explanation.
           </li>
           <li>
             <strong>Direct coin counting.</strong> Spend two to four weeks collecting coins with
-            the owner. This method is tedious but precise. Ask to collect on random days&mdash;not
-            just the schedule the owner suggests&mdash;to avoid cherry-picked high-volume periods.
+            the owner. This method is tedious but precise. Ask to collect on random days, not
+            just the schedule the owner suggests, to avoid cherry-picked high-volume periods.
           </li>
           <li>
             <strong>Tax returns and bank deposits.</strong> Request three years of filed tax
             returns and compare reported income against monthly bank statements. Cash businesses
             sometimes underreport income on taxes, so deposits that consistently exceed tax
-            returns can actually signal hidden upside&mdash;but they also indicate a seller
+            returns can actually signal hidden upside, but they also indicate a seller
             who may have been evading taxes, which carries its own risk.
           </li>
         </ol>
@@ -133,8 +133,8 @@ export default function LaundromatAcquisitionArticle() {
         </p>
         <p>
           Commercial washers from leading manufacturers like Speed Queen and Dexter Laundry
-          typically cost $1,500&ndash;$5,000 for standard 20&ndash;25 lb. units, while
-          larger 40&ndash;60 lb. machines run $5,000&ndash;$13,000, according to pricing
+          typically cost $1,500-$5,000 for standard 20-25 lb. units, while
+          larger 40-60 lb. machines run $5,000-$13,000, according to pricing
           compiled by{" "}
           <a href="https://www.trycents.com/our-2-cents/average-cost-top-commercial-washers-dryers" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Cents</a>.
           Commercial dryers range from $1,500 to $4,000. A full retool of a 30-machine store
@@ -144,9 +144,9 @@ export default function LaundromatAcquisitionArticle() {
         <p>
           During diligence, request a complete machine inventory: brand, model, serial number,
           installation date, and maintenance logs. Commercial laundry equipment is engineered
-          for 10&ndash;15 years or roughly 5,000&ndash;8,000 wash cycles. Machines past year
+          for 10-15 years or roughly 5,000-8,000 wash cycles. Machines past year
           ten will have increasing repair frequency and declining water and energy efficiency.
-          A store full of 12-year-old top-loaders is not necessarily a dealbreaker&mdash;but
+          A store full of 12-year-old top-loaders is not necessarily a dealbreaker, but
           you should discount the purchase price by the expected retool cost and factor that
           capital outlay into your return model.
         </p>
@@ -154,8 +154,8 @@ export default function LaundromatAcquisitionArticle() {
           One silver lining: equipment upgrades are the single fastest lever for revenue growth.
           Modern card- and app-operated machines eliminate the coin dependency, enable dynamic
           pricing (charging more for hot water, extra rinse cycles, or peak hours), and
-          according to multiple operators, increase per-machine revenue by 15&ndash;25%.
-          High-efficiency front-loaders also reduce water and gas costs by 30&ndash;40%
+          according to multiple operators, increase per-machine revenue by 15-25%.
+          High-efficiency front-loaders also reduce water and gas costs by 30-40%
           compared to legacy top-loaders.
         </p>
       </div>
@@ -165,7 +165,7 @@ export default function LaundromatAcquisitionArticle() {
         <p>
           A laundromat cannot be relocated. The machines are plumbed in, the customer base is
           local, and the entire business value is tied to a specific address. That makes the
-          lease the single most important document in the transaction&mdash;more important,
+          lease the single most important document in the transaction, more important,
           arguably, than the financials. If the lease expires in two years with no renewal
           option, the landlord can effectively take your business by raising rent to
           unsustainable levels or simply not renewing.
@@ -174,14 +174,14 @@ export default function LaundromatAcquisitionArticle() {
           The{" "}
           <a href="https://planetlaundry.com/a-lease-you-can-live-with/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Coin Laundry Association&rsquo;s leasing guide</a>{" "}
           recommends targeting a remaining lease term (including renewal options) of at least
-          10&ndash;15 years. Rent should stay at or below 25% of gross revenue. As that
+          10-15 years. Rent should stay at or below 25% of gross revenue. As that
           percentage climbs above 25%, your margin erodes and the business becomes harder
           to finance or resell. When evaluating a lease, pay attention to these specifics:
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Renewal options and escalation caps.</strong> Annual rent increases of
-            2&ndash;3% are standard. Watch for leases tied to CPI with no cap&mdash;those
+            2-3% are standard. Watch for leases tied to CPI with no cap, those
             can spike unexpectedly.
           </li>
           <li>
@@ -191,8 +191,8 @@ export default function LaundromatAcquisitionArticle() {
           </li>
           <li>
             <strong>Assignment rights.</strong> When you eventually sell, the buyer needs to
-            assume the lease. Leases that require landlord consent for assignment&mdash;with
-            no standard of reasonableness&mdash;create exit risk.
+            assume the lease. Leases that require landlord consent for assignment, with
+            no standard of reasonableness, create exit risk.
           </li>
           <li>
             <strong>Responsibility for plumbing and HVAC.</strong> Laundromats are hard on
@@ -217,11 +217,11 @@ export default function LaundromatAcquisitionArticle() {
           even if they share the same zip code.
         </p>
         <p>
-          The ideal trade area has a high concentration of renters&mdash;apartment dwellers
+          The ideal trade area has a high concentration of renters, apartment dwellers
           without in-unit laundry are the core customer base. Census data and tools like ESRI
           Business Analyst can tell you the renter-versus-owner ratio within a one-mile radius.
           A ratio above 50% renters generally signals strong demand. Median household income
-          in the $25,000&ndash;$60,000 range is the sweet spot: high enough that customers can
+          in the $25,000-$60,000 range is the sweet spot: high enough that customers can
           afford regular wash cycles, low enough that in-home washer-dryer ownership is uncommon.
         </p>
         <p>
@@ -238,17 +238,17 @@ export default function LaundromatAcquisitionArticle() {
       <h2 className={h2Class}>Structuring and Financing the Deal</h2>
       <div className={bodyClass}>
         <p>
-          Most laundromat acquisitions fall in the $100,000&ndash;$500,000 range, a size
+          Most laundromat acquisitions fall in the $100,000-$500,000 range, a size
           that sits below the threshold of most institutional lenders but fits well within
           SBA 7(a) loan parameters. SBA loans cover up to 90% of the purchase price for
           qualifying deals, with terms up to 10 years and rates typically pegged to prime
-          plus 2&ndash;3%.
+          plus 2-3%.
         </p>
         <p>
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">Seller financing</Link>{" "}
           is common in laundromat transactions and worth pursuing aggressively. Many owners
-          are retiring baby boomers who are willing to carry 20&ndash;40% of the purchase
-          price on a 5&ndash;7 year note. Seller-financed deals have a built-in alignment
+          are retiring baby boomers who are willing to carry 20-40% of the purchase
+          price on a 5-7 year note. Seller-financed deals have a built-in alignment
           mechanism: if the seller believes in the income they reported, they should be
           comfortable receiving payment from that income stream. Reluctance to offer seller
           financing on a cash business can itself be a red flag about revenue accuracy.
@@ -257,7 +257,7 @@ export default function LaundromatAcquisitionArticle() {
           Because the business is asset-heavy, the equipment itself serves as partial
           collateral. Some buyers finance the equipment separately through equipment leasing
           programs offered by manufacturers like Speed Queen and Dexter, which spread the
-          cost of a retool over 5&ndash;7 years at competitive rates.
+          cost of a retool over 5-7 years at competitive rates.
         </p>
       </div>
 
@@ -269,8 +269,8 @@ export default function LaundromatAcquisitionArticle() {
           is ripe for a{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategy</Link>.
           Acquire one store as a platform, systematize operations, and then bolt on additional
-          locations at 2&ndash;3x SDE while the combined portfolio commands 4&ndash;6x
-          EBITDA&mdash;the classic multiple arbitrage play.
+          locations at 2-3x SDE while the combined portfolio commands 4-6x
+          EBITDA, the classic multiple arbitrage play.
         </p>
         <p>
           Within your first store, the growth playbook is straightforward. Prioritize these
@@ -280,14 +280,14 @@ export default function LaundromatAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Payment modernization.</strong> Install card and mobile payment systems.
-            Operators report 15&ndash;25% revenue increases from eliminating the coin barrier
+            Operators report 15-25% revenue increases from eliminating the coin barrier
             and enabling dynamic pricing.
           </li>
           <li>
             <strong>Wash-and-fold service.</strong> A single attendant running a wash-dry-fold
-            operation can generate $1.50&ndash;$2.50 per pound on laundry that would otherwise
-            yield $0.50&ndash;$0.75 per pound in self-service. For a store processing 500 pounds
-            per week, that is an incremental $40,000&ndash;$65,000 in annual revenue.
+            operation can generate $1.50-$2.50 per pound on laundry that would otherwise
+            yield $0.50-$0.75 per pound in self-service. For a store processing 500 pounds
+            per week, that is an incremental $40,000-$65,000 in annual revenue.
           </li>
           <li>
             <strong>Pickup and delivery.</strong> App-based laundry pickup is growing rapidly in
@@ -296,21 +296,21 @@ export default function LaundromatAcquisitionArticle() {
           </li>
           <li>
             <strong>Ancillary revenue.</strong> Vending machines, ATMs, drop-off lockers, and
-            detergent dispensers add $5,000&ndash;$15,000 in annual revenue with near-zero labor.
+            detergent dispensers add $5,000-$15,000 in annual revenue with near-zero labor.
           </li>
           <li>
             <strong>Equipment retool.</strong> Replace aging top-loaders with high-efficiency
-            front-loaders over a phased 12&ndash;18 month schedule. New machines reduce utility
-            costs 30&ndash;40% and justify higher vend prices, often paying for themselves
-            within 3&ndash;5 years.
+            front-loaders over a phased 12-18 month schedule. New machines reduce utility
+            costs 30-40% and justify higher vend prices, often paying for themselves
+            within 3-5 years.
           </li>
         </ul>
         <p>
           As you scale to multiple locations, centralized management becomes possible: one
-          operations manager overseeing 3&ndash;5 stores, a shared maintenance technician,
+          operations manager overseeing 3-5 stores, a shared maintenance technician,
           and consolidated vendor contracts for chemicals and equipment servicing. That
           operational efficiency is what drives EBITDA margin expansion from the single-store
-          20&ndash;35% range toward 35&ndash;40% at the portfolio level.
+          20-35% range toward 35-40% at the portfolio level.
         </p>
       </div>
 
@@ -319,8 +319,8 @@ export default function LaundromatAcquisitionArticle() {
         <h3 className={h3Class}>How much does it cost to buy a laundromat?</h3>
         <p>
           Most single-location laundromats sell for $100,000 to $500,000, with the median
-          transaction around $200,000&ndash;$300,000 depending on geography. The price is
-          driven by annual SDE (typically valued at 2.0x&ndash;4.5x), equipment age and
+          transaction around $200,000-$300,000 depending on geography. The price is
+          driven by annual SDE (typically valued at 2.0x-4.5x), equipment age and
           condition, remaining lease term, and location quality. A store with new equipment
           and a 15-year lease in a high-density renter area will command a premium over one
           with aging machines and a short lease.
@@ -328,7 +328,7 @@ export default function LaundromatAcquisitionArticle() {
 
         <h3 className={h3Class}>Are laundromats actually recession-proof?</h3>
         <p>
-          Largely, yes. Laundry is non-discretionary&mdash;people need clean clothes regardless
+          Largely, yes. Laundry is non-discretionary, people need clean clothes regardless
           of economic conditions. The Coin Laundry Association reports a roughly 95% five-year
           survival rate for laundromats, significantly higher than the small-business average of
           about 50%. During the 2020 pandemic, laundromats were classified as essential businesses
@@ -339,10 +339,10 @@ export default function LaundromatAcquisitionArticle() {
         <h3 className={h3Class}>Can I run a laundromat semi-passively?</h3>
         <p>
           A self-service-only laundromat with card payment systems can operate with as few as
-          10&ndash;15 hours of owner time per week, mostly spent on cleaning, machine
+          10-15 hours of owner time per week, mostly spent on cleaning, machine
           maintenance, and coin collection. Adding wash-and-fold requires hiring attendants,
           which increases labor costs but also increases revenue meaningfully. Many
-          multi-store operators hire a part-time attendant at $12&ndash;$18 per hour and
+          multi-store operators hire a part-time attendant at $12-$18 per hour and
           manage the business remotely through app-based payment dashboards and security
           cameras.
         </p>
@@ -360,8 +360,8 @@ export default function LaundromatAcquisitionArticle() {
         <h3 className={h3Class}>How do I find laundromats for sale?</h3>
         <p>
           Start with listing sites like BizBuySell, BizQuest, and LoopNet. Specialized brokers
-          in the laundromat space&mdash;such as those affiliated with the Coin Laundry
-          Association&mdash;maintain deal flow that never hits public marketplaces. Direct
+          in the laundromat space, such as those affiliated with the Coin Laundry
+          Association, maintain deal flow that never hits public marketplaces. Direct
           outreach also works: identify underperforming stores in your target area, introduce
           yourself to the owner, and express interest. Many of the best deals come from aging
           owners who have not yet listed and are open to a private, no-broker transaction.

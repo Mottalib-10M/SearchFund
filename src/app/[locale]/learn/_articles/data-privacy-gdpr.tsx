@@ -49,9 +49,9 @@ export default function DataPrivacyGDPRArticle() {
 
       <h2 className={h2Class}>Stock vs. Asset Purchase: Data Privacy Impact</h2>
       <div className={bodyClass}>
-        <p>The deal structure you choose &mdash; whether a{" "}
+        <p>The deal structure you choose, whether a{" "}
           <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">stock purchase or asset purchase</Link>{" "}
-          &mdash; has significant implications for how personal data transfers and what obligations you inherit:
+          has significant implications for how personal data transfers and what obligations you inherit:
         </p>
         <ul className={ulClass}>
           <li><strong>Stock purchase:</strong> The legal entity remains the same data controller. Existing consents and processing bases generally continue. Update privacy notices to reflect ownership change.</li>
@@ -65,7 +65,7 @@ export default function DataPrivacyGDPRArticle() {
         <ul className={ulClass}>
           <li><strong>GDPR fines:</strong> Up to &euro;20 million or 4% of annual global turnover (whichever is higher)</li>
           <li><strong>CCPA fines:</strong> Up to $7,500 per intentional violation; $2,500 per unintentional violation</li>
-          <li><strong>Class action risk:</strong> Under CCPA, consumers can seek $100&ndash;$750 per consumer per incident for data breaches</li>
+          <li><strong>Class action risk:</strong> Under CCPA, consumers can seek $100-$750 per consumer per incident for data breaches</li>
           <li><strong>Successor liability:</strong> The European Data Protection Board has confirmed that the acquiring entity inherits the target&apos;s compliance history, including liability for past violations discovered after closing</li>
           <li><strong>Reputational damage:</strong> Data privacy failures post-acquisition can erode customer trust and brand value</li>
         </ul>
@@ -97,7 +97,7 @@ export default function DataPrivacyGDPRArticle() {
       </h3>
       <div className={bodyClass}>
         <p>
-          In a stock deal, yes &mdash; the acquired company retains its full
+          In a stock deal, yes, the acquired company retains its full
           compliance history, including any past violations. The EDPB has
           confirmed that supervisory authorities can investigate and fine for
           pre-acquisition breaches discovered after the deal closes. In an
@@ -131,7 +131,7 @@ export default function DataPrivacyGDPRArticle() {
           new data controller, review and renegotiate vendor data processing
           agreements, appoint a Data Protection Officer if required, and
           conduct a gap analysis between your privacy standards and the
-          acquired company&apos;s practices. Budget $20K&ndash;$50K for a
+          acquired company&apos;s practices. Budget $20K-$50K for a
           professional privacy audit on mid-sized acquisitions.
         </p>
       </div>

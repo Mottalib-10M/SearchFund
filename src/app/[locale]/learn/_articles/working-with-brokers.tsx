@@ -12,11 +12,11 @@ export default function WorkingWithBrokersArticle() {
       <div className={bodyClass}>
         <p>
           Business brokers and M&amp;A intermediaries control an estimated
-          50&ndash;70% of all small and mid-market deal flow. If you are
+          50-70% of all small and mid-market deal flow. If you are
           acquiring a company, your ability to build productive broker
           relationships will directly shape the quality, volume, and pricing
           of opportunities that reach your desk. But brokers work for sellers,
-          not buyers&mdash;a structural reality that creates specific dynamics
+          not buyers, a structural reality that creates specific dynamics
           you need to understand before your first phone call. This guide
           covers the intermediary market by deal size, how commissions
           actually work, what makes brokers prioritize certain buyers, how to
@@ -33,7 +33,7 @@ export default function WorkingWithBrokersArticle() {
           professionals. The intermediary you encounter depends almost entirely
           on the size of the transaction. Understanding these tiers prevents
           the common mistake of applying Main Street expectations to a
-          middle-market process&mdash;or vice versa.
+          middle-market process, or vice versa.
         </p>
         <ul className={ulClass}>
           <li>
@@ -51,14 +51,14 @@ export default function WorkingWithBrokersArticle() {
             >
               IBBA Market Pulse surveys
             </a>
-            , only about 20% of Main Street listings actually close&mdash;so
+            , only about 20% of Main Street listings actually close, so
             expect a large volume of listings with variable quality.
           </li>
           <li>
-            <strong>Professional brokers</strong> (businesses priced $2M&ndash;$10M):
+            <strong>Professional brokers</strong> (businesses priced $2M-$10M):
             These intermediaries handle more established companies with
             multiple employees and documented financials. They tend to carry
-            fewer listings simultaneously (8&ndash;15 at a time) and invest
+            fewer listings simultaneously (8-15 at a time) and invest
             more effort in preparing each business for sale. Look for brokers
             with CBI (Certified Business Intermediary) or M&amp;AMI
             designations from the{" "}
@@ -72,8 +72,8 @@ export default function WorkingWithBrokersArticle() {
             </a>.
           </li>
           <li>
-            <strong>M&amp;A advisors</strong> (enterprise value $5M&ndash;$50M):
-            These firms typically charge a retainer ($5,000&ndash;$15,000/month)
+            <strong>M&amp;A advisors</strong> (enterprise value $5M-$50M):
+            These firms typically charge a retainer ($5,000-$15,000/month)
             plus a success fee. They run structured sale processes with
             management presentations, multiple bid rounds, and detailed data
             rooms. Firms in this tier include Generational Equity, Woodbridge
@@ -82,14 +82,14 @@ export default function WorkingWithBrokersArticle() {
           <li>
             <strong>Investment banks</strong> (enterprise value $25M+):
             Full-scale auction processes with institutional-grade marketing
-            materials. Minimum fees of $250,000&ndash;$500,000 are common.
+            materials. Minimum fees of $250,000-$500,000 are common.
             Buyers encounter formal process letters, strict deadlines, and
             competition from private equity firms. Think Houlihan Lokey,
             Lincoln International, and Harris Williams at the upper end.
           </li>
         </ul>
         <p>
-          For search fund buyers targeting $1M&ndash;$5M EBITDA businesses,
+          For search fund buyers targeting $1M-$5M EBITDA businesses,
           the sweet spot is professional brokers and lower-middle-market M&amp;A
           advisors. These intermediaries handle deals large enough to support
           a full-time owner-operator but small enough to avoid intense PE
@@ -125,16 +125,16 @@ export default function WorkingWithBrokersArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Under $1M sale price:</strong> Flat 8&ndash;12% commission,
+            <strong>Under $1M sale price:</strong> Flat 8-12% commission,
             with 10% being the industry standard. A $600,000 deal at 10%
             generates $60,000 for the broker. Minimum fees of
-            $10,000&ndash;$25,000 apply to very small transactions.
+            $10,000-$25,000 apply to very small transactions.
           </li>
           <li>
-            <strong>$1M&ndash;$5M (Double Lehman scale):</strong> 10% on the
+            <strong>$1M-$5M (Double Lehman scale):</strong> 10% on the
             first $1M, 8% on the second, 6% on the third, 4% on the fourth,
             2% on the fifth. A $5M deal under this formula produces a
-            $300,000 fee&mdash;a 6% effective rate, as explained by{" "}
+            $300,000 fee, a 6% effective rate, as explained by{" "}
             <a
               href="https://www.midstreet.com/blog/double-lehman-scale-business-broker-commission"
               target="_blank"
@@ -145,14 +145,14 @@ export default function WorkingWithBrokersArticle() {
             </a>.
           </li>
           <li>
-            <strong>$5M&ndash;$25M:</strong> Negotiated success fees typically
-            ranging 3&ndash;5% of enterprise value, often layered on top of
+            <strong>$5M-$25M:</strong> Negotiated success fees typically
+            ranging 3-5% of enterprise value, often layered on top of
             a monthly retainer. Some advisors credit the retainer against the
             success fee; others do not.
           </li>
           <li>
-            <strong>$25M+:</strong> Investment banking fees of 1&ndash;3%,
-            with minimum fees of $250,000&ndash;$500,000. The original Lehman
+            <strong>$25M+:</strong> Investment banking fees of 1-3%,
+            with minimum fees of $250,000-$500,000. The original Lehman
             formula (5-4-3-2-1) was designed for this tier, though most banks
             now negotiate custom structures.
           </li>
@@ -161,7 +161,7 @@ export default function WorkingWithBrokersArticle() {
           A critical detail for buyers: confirm whether the broker&rsquo;s
           fee is calculated on equity value or enterprise value. On a $10M
           deal with $3M in debt, a 5% fee on enterprise value is $500,000
-          versus $350,000 on equity value&mdash;a $150,000 difference that
+          versus $350,000 on equity value, a $150,000 difference that
           affects the seller&rsquo;s net proceeds and, indirectly, their
           flexibility on price. This matters when you&rsquo;re assessing{" "}
           <Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">
@@ -175,7 +175,7 @@ export default function WorkingWithBrokersArticle() {
         </h2>
         <p>
           Brokers have a mental ranking of their buyer pool. The best
-          opportunities go to the top 3&ndash;5 buyers they trust most,
+          opportunities go to the top 3-5 buyers they trust most,
           sometimes before the listing hits BizBuySell or any public
           marketplace. According to a{" "}
           <a
@@ -186,15 +186,15 @@ export default function WorkingWithBrokersArticle() {
           >
             BizBuySell Insight Report
           </a>
-          , over 90% of business brokers use the platform&mdash;but the
+          , over 90% of business brokers use the platform, but the
           highest-quality listings often trade through private networks
           before they appear online. Here is how to earn priority status:
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Register with 15&ndash;25 brokers</strong> in your target
+            <strong>Register with 15-25 brokers</strong> in your target
             geography and industry. Cast a wide net initially, then deepen
-            relationships with the 5&ndash;8 who handle the most relevant
+            relationships with the 5-8 who handle the most relevant
             deal flow. This is part of any serious{" "}
             <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">
               proprietary deal flow
@@ -203,7 +203,7 @@ export default function WorkingWithBrokersArticle() {
           </li>
           <li>
             <strong>Submit a specific buyer profile.</strong> &ldquo;I&rsquo;m
-            looking for B2B services businesses with $750K&ndash;$2M EBITDA
+            looking for B2B services businesses with $750K-$2M EBITDA
             in the Southeast US, and I have SBA pre-approval for up to $5M
             with 10% equity injection&rdquo; is far stronger than &ldquo;I&rsquo;m
             open to any good business.&rdquo; Vague criteria signal an
@@ -220,7 +220,7 @@ export default function WorkingWithBrokersArticle() {
             <strong>Respond within 24 hours.</strong> When a broker sends a
             teaser, reply the same day with a clear yes, no, or specific
             follow-up questions. The 2025 BizBuySell data shows businesses
-            sell at a median 94% of asking price&mdash;good deals move fast,
+            sell at a median 94% of asking price, good deals move fast,
             and brokers track your response speed.
           </li>
           <li>
@@ -243,7 +243,7 @@ export default function WorkingWithBrokersArticle() {
         <p>
           The Confidential Information Memorandum is a sales document, not an
           audit. Brokers prepare CIMs to present the business in its best
-          light&mdash;that is literally their job. Your role as a buyer is to
+          light, that is literally their job. Your role as a buyer is to
           read between the lines. Here are the specific areas where CIMs
           routinely overstate reality:
         </p>
@@ -257,7 +257,7 @@ export default function WorkingWithBrokersArticle() {
             <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
               adjusted EBITDA
             </Link>{" "}
-            from the raw financials. A gap of more than 15&ndash;20% between
+            from the raw financials. A gap of more than 15-20% between
             the CIM&rsquo;s adjusted number and yours is a yellow flag.
           </li>
           <li>
@@ -269,7 +269,7 @@ export default function WorkingWithBrokersArticle() {
           <li>
             <strong>Customer concentration.</strong> If the CIM does not
             disclose the percentage of revenue from the top 5 customers,
-            request it immediately. Concentration above 20&ndash;30% in a
+            request it immediately. Concentration above 20-30% in a
             single customer creates meaningful{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               customer concentration risk
@@ -288,8 +288,8 @@ export default function WorkingWithBrokersArticle() {
           <li>
             <strong>Tax return cross-reference.</strong> Request 3 years of
             federal tax returns early in the process and compare them line by
-            line against the CIM financials. Material discrepancies&mdash;revenue
-            differences of more than 5%, unexplained expense categories&mdash;warrant
+            line against the CIM financials. Material discrepancies, revenue
+            differences of more than 5%, unexplained expense categories, warrant
             a direct conversation before investing further time.
           </li>
         </ul>
@@ -299,7 +299,7 @@ export default function WorkingWithBrokersArticle() {
             Quality of Earnings
           </Link>{" "}
           report from an independent accounting firm. A QofE typically costs
-          $20,000&ndash;$60,000 depending on the business&rsquo;s complexity,
+          $20,000-$60,000 depending on the business&rsquo;s complexity,
           but it is the single most effective tool for validating (or
           deflating) the numbers in a CIM. Your{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
@@ -323,7 +323,7 @@ export default function WorkingWithBrokersArticle() {
           three-way dynamic well can accelerate a deal by weeks; managing it
           poorly can kill one. IBBA data shows the average Main Street
           deal takes about 6.5 months to close, while lower-middle-market
-          transactions average 9 months&mdash;plenty of time for
+          transactions average 9 months, plenty of time for
           misunderstandings to derail a transaction.
         </p>
         <p>
@@ -337,13 +337,13 @@ export default function WorkingWithBrokersArticle() {
           </li>
           <li>
             <strong>NDA execution:</strong> You sign a non-disclosure
-            agreement to receive the full CIM. Most NDAs are 2&ndash;3
+            agreement to receive the full CIM. Most NDAs are 2-3
             years in duration and are seller-friendly by default.
           </li>
           <li>
             <strong>CIM review and initial questions:</strong> You review
             the full package and submit written questions through the broker.
-            Limit your first round to 5&ndash;10 substantive questions that
+            Limit your first round to 5-10 substantive questions that
             help you decide whether to proceed.
           </li>
           <li>
@@ -359,11 +359,11 @@ export default function WorkingWithBrokersArticle() {
             </Link>{" "}
             through the broker. The LOI should include price, structure,
             financing contingencies, due diligence period (typically
-            60&ndash;90 days), and exclusivity terms.
+            60-90 days), and exclusivity terms.
           </li>
           <li>
             <strong>Due diligence:</strong> The broker facilitates document
-            exchange and schedules management meetings. Expect 60&ndash;90
+            exchange and schedules management meetings. Expect 60-90
             days for a thorough review, per IBBA benchmarks.
           </li>
           <li>
@@ -375,7 +375,7 @@ export default function WorkingWithBrokersArticle() {
         <p>
           Throughout this process, maintain one communication rule: never
           contact the seller directly unless the broker explicitly invites
-          you to. Going around the broker will get you blacklisted&mdash;not
+          you to. Going around the broker will get you blacklisted, not
           just from that deal, but across the broker&rsquo;s entire listing
           portfolio and professional network.
         </p>
@@ -391,7 +391,7 @@ export default function WorkingWithBrokersArticle() {
         <ul className={ulClass}>
           <li>
             <strong>The broker pressures you to raise your offer.</strong>{" "}
-            This is expected&mdash;they represent the seller. Respond with
+            This is expected, they represent the seller. Respond with
             data: &ldquo;Based on 4.5x trailing EBITDA and comparable
             transactions in this sector, our offer at $X represents a fair
             price. Here is the analysis.&rdquo; Brokers respect buyers who
@@ -429,10 +429,10 @@ export default function WorkingWithBrokersArticle() {
             <strong>The broker is unresponsive.</strong> If your broker
             consistently takes more than 48 hours to return calls or emails,
             consider whether this reflects their workload (many Main Street
-            brokers carry 20&ndash;30 listings simultaneously) or their
-            assessment of you as a buyer. A direct conversation&mdash;&ldquo;I
+            brokers carry 20-30 listings simultaneously) or their
+            assessment of you as a buyer. A direct conversation, &ldquo;I
             want to move quickly on the right deal; what do you need from
-            me to make this a priority?&rdquo;&mdash;usually clarifies the
+            me to make this a priority?&rdquo;, usually clarifies the
             situation.
           </li>
         </ul>
@@ -443,7 +443,7 @@ export default function WorkingWithBrokersArticle() {
         </h2>
         <p>
           Not all brokers operate professionally. The business brokerage
-          industry has low barriers to entry in most states&mdash;many
+          industry has low barriers to entry in most states, many
           require only a real estate license or no license at all. The{" "}
           <a
             href="https://www.websiteclosers.com/resources/red-flags-when-choosing-a-business-broker/"
@@ -467,7 +467,7 @@ export default function WorkingWithBrokersArticle() {
         <ul className={ulClass}>
           <li>
             <strong>No verifiable track record.</strong> A broker who cannot
-            provide 3&ndash;5 references from completed transactions in the
+            provide 3-5 references from completed transactions in the
             past 12 months is either new or has a poor close rate. Either
             way, your deal carries more risk.
           </li>
@@ -475,7 +475,7 @@ export default function WorkingWithBrokersArticle() {
             <strong>Inflated valuations to win listings.</strong> Some brokers
             tell sellers their business is worth far more than market
             comparables support, then gradually reduce the asking price over
-            6&ndash;12 months. This wasted time harms the seller and
+            6-12 months. This wasted time harms the seller and
             creates unrealistic expectations you will have to negotiate
             against.
           </li>
@@ -520,11 +520,11 @@ export default function WorkingWithBrokersArticle() {
         </h3>
         <p>
           In the vast majority of transactions, the seller pays the broker
-          commission. Buyer-side representation does exist&mdash;some M&amp;A
+          commission. Buyer-side representation does exist, some M&amp;A
           advisory firms will conduct a targeted search on behalf of a buyer
-          for a retainer plus success fee&mdash;but this is uncommon below
+          for a retainer plus success fee, but this is uncommon below
           $10M enterprise value. When a buyer engages a buy-side advisor,
-          fees typically range from 3&ndash;5% of the purchase price,
+          fees typically range from 3-5% of the purchase price,
           according to{" "}
           <a
             href="https://www.bizquest.com/learn/article/broker-and-ma-advisory-fees/"
@@ -543,8 +543,8 @@ export default function WorkingWithBrokersArticle() {
           How many brokers should I work with at once?
         </h3>
         <p>
-          Start by registering with 15&ndash;25 brokers in your target
-          geography, then narrow your active relationships to the 5&ndash;8
+          Start by registering with 15-25 brokers in your target
+          geography, then narrow your active relationships to the 5-8
           who send you the most relevant deal flow. Maintaining too many
           shallow relationships dilutes your effort; maintaining too few
           limits your pipeline. Check in monthly with your top brokers,
@@ -563,7 +563,7 @@ export default function WorkingWithBrokersArticle() {
           happens during the buyer-seller meeting stage and sometimes during
           due diligence. Reaching out to the seller without the broker&rsquo;s
           knowledge violates your NDA in many cases and will almost certainly
-          get you removed from the deal. Brokers talk to each other&mdash;a
+          get you removed from the deal. Brokers talk to each other, a
           reputation for going around intermediaries will follow you across
           your entire search.
         </p>
@@ -575,7 +575,7 @@ export default function WorkingWithBrokersArticle() {
           IBBA Market Pulse data indicates that roughly 20% of Main Street
           listings (businesses under $1M) result in a completed sale. The
           close rate improves for larger businesses: approximately 30% of
-          businesses in the $1M&ndash;$30M revenue range eventually
+          businesses in the $1M-$30M revenue range eventually
           transact, according to{" "}
           <a
             href="https://worldwidebusinessbrokers.com/how-many-businesses-sell/"
@@ -586,9 +586,9 @@ export default function WorkingWithBrokersArticle() {
             Worldwide Business Brokers
           </a>
           . These figures mean that the majority of businesses you
-          evaluate will not result in a deal&mdash;factor this into your
+          evaluate will not result in a deal, factor this into your
           pipeline math and review enough opportunities to maintain
-          2&ndash;3 active LOI candidates at any given time.
+          2-3 active LOI candidates at any given time.
         </p>
 
         <h3 className={h3Class}>
@@ -598,15 +598,15 @@ export default function WorkingWithBrokersArticle() {
           No. Brokered deals provide faster access to a larger volume of
           opportunities, but they are also more competitive and typically
           priced higher than off-market transactions. Most successful
-          acquirers allocate 50&ndash;60% of their pipeline to brokered
-          channels, 30&ndash;40% to{" "}
+          acquirers allocate 50-60% of their pipeline to brokered
+          channels, 30-40% to{" "}
           <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">
             proprietary deal flow
           </Link>
           , and the remainder to online marketplaces and referral networks.
           The 2025 BizBuySell data shows that 43% of brokers reported
-          increased activity from business-school-trained buyers&mdash;and
-          44% reported more private equity interest&mdash;meaning brokered
+          increased activity from business-school-trained buyers, and
+          44% reported more private equity interest, meaning brokered
           deals face growing competition from sophisticated, well-funded
           participants.
         </p>

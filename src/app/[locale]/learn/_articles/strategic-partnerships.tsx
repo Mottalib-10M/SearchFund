@@ -6,7 +6,7 @@ export default function StrategicPartnershipsArticle() {
     <article>
       <h1 className={h1Class}>Strategic Partnerships &amp; Channel Development</h1>
       <div className={bodyClass}>
-        <p>Strategic partnerships are a powerful growth lever for acquired businesses, enabling you to access new customers, markets, and capabilities without the full cost of building them internally. For search fund CEOs, partnerships can accelerate growth while conserving capital &mdash; an especially important consideration when you&apos;re balancing debt service with investment in growth.</p>
+        <p>Strategic partnerships are a powerful growth lever for acquired businesses, enabling you to access new customers, markets, and capabilities without the full cost of building them internally. For search fund CEOs, partnerships can accelerate growth while conserving capital, an especially important consideration when you&apos;re balancing debt service with investment in growth.</p>
       </div>
 
       <h2 className={h2Class}>Types of Strategic Partnerships</h2>
@@ -16,7 +16,7 @@ export default function StrategicPartnershipsArticle() {
           <li>Two complementary businesses refer customers to each other</li>
           <li>Example: A roofing company partners with a real estate inspector; each refers customers to the other</li>
           <li>Low cost, low complexity, and often the best place to start</li>
-          <li>Can be formalized with referral fees (5&ndash;15% of first contract value is typical)</li>
+          <li>Can be formalized with referral fees (5-15% of first contract value is typical)</li>
         </ul>
 
         <h3 className={h3Class}>Channel Partnerships</h3>
@@ -66,7 +66,7 @@ export default function StrategicPartnershipsArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Strategic partnerships are a capital-efficient growth lever &mdash; access new customers without building capabilities in-house</li>
+          <li>Strategic partnerships are a capital-efficient growth lever, access new customers without building capabilities in-house</li>
           <li>Start with referral partnerships (low cost, low complexity) and evolve to deeper partnerships as trust builds</li>
           <li>Choose partners who serve the same customer with complementary (not competitive) services</li>
           <li>Start informally, test the relationship, then formalize with clear terms and accountability</li>
@@ -86,17 +86,17 @@ export default function StrategicPartnershipsArticle() {
 
       <h3 className={h3Class}>How quickly can strategic partnerships generate revenue after an acquisition?</h3>
       <p>
-        Referral partnerships can begin generating leads within 30&ndash;60 days of launch, making them one of the fastest <Link href="/learn/quick-wins-post-acquisition" className="text-apple-accent hover:underline">quick wins</Link> available to new owners. According to Forrester, companies with structured referral programs see 15&ndash;25% of new revenue sourced through partners within the first year. The key is starting informally with 2&ndash;3 complementary businesses, testing the referral flow, and then formalizing with clear referral fees and monthly tracking. More complex partnerships like co-delivery arrangements take 6&ndash;12 months to mature but can ultimately contribute 20&ndash;40% of total revenue.
+        Referral partnerships can begin generating leads within 30-60 days of launch, making them one of the fastest <Link href="/learn/quick-wins-post-acquisition" className="text-apple-accent hover:underline">quick wins</Link> available to new owners. According to Forrester, companies with structured referral programs see 15-25% of new revenue sourced through partners within the first year. The key is starting informally with 2-3 complementary businesses, testing the referral flow, and then formalizing with clear referral fees and monthly tracking. More complex partnerships like co-delivery arrangements take 6-12 months to mature but can ultimately contribute 20-40% of total revenue.
       </p>
 
       <h3 className={h3Class}>What referral fee percentage is standard for SME partnerships?</h3>
       <p>
-        According to McKinsey&rsquo;s research on partnership-led growth, referral fees in the SME services sector typically range from 5&ndash;15% of the first contract value, with 10% being the most common. For recurring revenue businesses, a common alternative is paying 5&ndash;8% of the first year&rsquo;s contract value rather than an ongoing percentage. The fee should be high enough to motivate referrals but not so high that it erodes your margins. Track your customer acquisition cost (CAC) from other channels &mdash; as long as partner-sourced CAC is lower, the arrangement is economically sound. Some partnerships also work on a reciprocal basis with no fees, where both parties simply refer customers to each other.
+        According to McKinsey&rsquo;s research on partnership-led growth, referral fees in the SME services sector typically range from 5-15% of the first contract value, with 10% being the most common. For recurring revenue businesses, a common alternative is paying 5-8% of the first year&rsquo;s contract value rather than an ongoing percentage. The fee should be high enough to motivate referrals but not so high that it erodes your margins. Track your customer acquisition cost (CAC) from other channels, as long as partner-sourced CAC is lower, the arrangement is economically sound. Some partnerships also work on a reciprocal basis with no fees, where both parties simply refer customers to each other.
       </p>
 
       <h3 className={h3Class}>How do I prevent a strategic partner from becoming a competitor?</h3>
       <p>
-        Harvard Business Review research on strategic alliances recommends three safeguards. First, choose partners whose core competency is genuinely complementary &mdash; a plumbing company partnering with an HVAC company serves the same customer without overlapping services. Second, include clear non-compete and non-solicitation provisions in your partnership agreement that restrict each party from entering the other&rsquo;s core service line within a defined territory. Third, create mutual dependency by sharing customers, co-branding, and building joint service offerings that are more valuable together than apart. The strongest partnerships align incentives so deeply that competition becomes economically irrational for both parties. See our <Link href="/learn/sales-team-development" className="text-apple-accent hover:underline">sales team development</Link> guide for building internal capacity alongside partnerships.
+        Harvard Business Review research on strategic alliances recommends three safeguards. First, choose partners whose core competency is genuinely complementary, a plumbing company partnering with an HVAC company serves the same customer without overlapping services. Second, include clear non-compete and non-solicitation provisions in your partnership agreement that restrict each party from entering the other&rsquo;s core service line within a defined territory. Third, create mutual dependency by sharing customers, co-branding, and building joint service offerings that are more valuable together than apart. The strongest partnerships align incentives so deeply that competition becomes economically irrational for both parties. See our <Link href="/learn/sales-team-development" className="text-apple-accent hover:underline">sales team development</Link> guide for building internal capacity alongside partnerships.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

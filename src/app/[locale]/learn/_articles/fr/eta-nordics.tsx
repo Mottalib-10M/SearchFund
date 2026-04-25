@@ -10,8 +10,8 @@ export default function ETANordicsFR() {
 
       <div className={bodyClass}>
         <p>
-          Les pays nordiques &mdash; Su&egrave;de, Danemark, Norv&egrave;ge
-          et Finlande &mdash; offrent un environnement distinctif et
+          Les pays nordiques, Su&egrave;de, Danemark, Norv&egrave;ge
+          et Finlande, offrent un environnement distinctif et
           hautement attractif pour l&apos;
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
             Entrepreneurship Through Acquisition en Europe
@@ -47,9 +47,9 @@ export default function ETANordicsFR() {
           Malgr&eacute; leurs populations relativement modestes, chaque pays
           poss&egrave;de un tissu dense de PME de haute qualit&eacute;, dont
           beaucoup sont mondialement comp&eacute;titives sur des niches de
-          march&eacute;. Le mod&egrave;le nordique &mdash; combinant
+          march&eacute;. Le mod&egrave;le nordique, combinant
           &eacute;conomie de march&eacute; et filets de
-          s&eacute;curit&eacute; sociale robustes &mdash; a produit des
+          s&eacute;curit&eacute; sociale robustes, a produit des
           entreprises qui tendent &agrave; &ecirc;tre bien g&eacute;r&eacute;es,
           rentables et r&eacute;silientes.
         </p>
@@ -186,7 +186,7 @@ export default function ETANordicsFR() {
           pr&ecirc;ts Almi sont particuli&egrave;rement pr&eacute;cieux car
           ils sont souvent subordonn&eacute;s &agrave; la dette bancaire
           senior, fonctionnant effectivement comme des quasi-fonds propres
-          dans la structure de capital &mdash; un m&eacute;canisme comparable
+          dans la structure de capital, un m&eacute;canisme comparable
           aux pr&ecirc;ts d&apos;honneur fran&ccedil;ais d&apos;Initiative
           France, en termes de positionnement dans la structure. Almi
           dispose &eacute;galement de bureaux r&eacute;gionaux &agrave;
@@ -530,7 +530,7 @@ export default function ETANordicsFR() {
           </Link>{" "}
           o&ugrave; l&apos;allemand est quasi indispensable pour les
           n&eacute;gociations. N&eacute;anmoins, apprendre la langue locale
-          &mdash; m&ecirc;me &agrave; un niveau basique &mdash;
+          m&ecirc;me &agrave; un niveau basique , 
           t&eacute;moigne d&apos;un engagement sinc&egrave;re et facilite
           consid&eacute;rablement l&apos;int&eacute;gration post-acquisition.
           Le su&eacute;dois, le danois et le norv&eacute;gien sont

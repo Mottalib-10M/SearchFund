@@ -43,7 +43,7 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
           <li><strong>Schedule of assumed liabilities:</strong> Explicitly enumerate each liability you&rsquo;re taking on</li>
           <li><strong>Bulk sale compliance:</strong> Some states require notice to the seller&rsquo;s creditors before an asset sale</li>
           <li><strong>Assignment of contracts:</strong> Customer and vendor contracts must be individually assigned. Some require counterparty consent</li>
-          <li><strong>Employee matters:</strong> You&rsquo;re not acquiring the seller&rsquo;s employees &mdash; you&rsquo;re hiring them as new employees of your entity. Handle benefits, PTO accruals, and employment terms carefully</li>
+          <li><strong>Employee matters:</strong> You&rsquo;re not acquiring the seller&rsquo;s employees, you&rsquo;re hiring them as new employees of your entity. Handle benefits, PTO accruals, and employment terms carefully</li>
           <li><strong>Allocation of purchase price:</strong> How the total price is allocated across asset classes (equipment, goodwill, non-compete, etc.) affects tax treatment for both parties</li>
         </ul>
 
@@ -75,11 +75,11 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
 
         <h3 className={h3Class}>Key SPA clauses</h3>
         <ul className={ulClass}>
-          <li><strong>Representations and warranties:</strong> More extensive than in an APA because you&rsquo;re buying the entire entity. The seller represents the company&rsquo;s condition across 20&ndash;40 categories</li>
+          <li><strong>Representations and warranties:</strong> More extensive than in an APA because you&rsquo;re buying the entire entity. The seller represents the company&rsquo;s condition across 20-40 categories</li>
           <li><strong>Disclosure schedules:</strong> Detailed exceptions to representations (known liabilities, pending litigation, contract defaults)</li>
           <li><strong>Indemnification:</strong> Seller agrees to compensate buyer for losses from breaches of reps/warranties, typically with caps, baskets, and time limits</li>
           <li><strong>R&amp;W insurance:</strong> For larger deals ($10M+), Representations &amp; Warranties insurance can supplement or replace seller indemnification</li>
-          <li><strong>Escrow/holdback:</strong> 10&ndash;15% of purchase price held in escrow for 12&ndash;24 months to cover indemnification claims</li>
+          <li><strong>Escrow/holdback:</strong> 10-15% of purchase price held in escrow for 12-24 months to cover indemnification claims</li>
         </ul>
 
         <h3 className={h3Class}>When to use an SPA</h3>
@@ -148,20 +148,20 @@ export default function PurchaseAgreementAPAvsSPAArticle() {
         <ul className={ulClass}>
           <li><strong>Indemnification:</strong> Seller covers losses from breaches of reps/warranties and undisclosed liabilities</li>
           <li><strong>Escrow:</strong> Purchase price holdback to secure indemnification obligations</li>
-          <li><strong>Non-compete:</strong> Seller agrees not to compete for 3&ndash;5 years within a defined geography</li>
-          <li><strong>Transition assistance:</strong> Seller provides consulting services for 6&ndash;12 months post-closing</li>
+          <li><strong>Non-compete:</strong> Seller agrees not to compete for 3-5 years within a defined geography</li>
+          <li><strong>Transition assistance:</strong> Seller provides consulting services for 6-12 months post-closing</li>
         </ul>
 
         <h2 className={h2Class}>Negotiation tips for buyers</h2>
         <ul className={ulClass}>
-          <li><strong>Hire experienced M&amp;A counsel:</strong> The purchase agreement is not the place to save money. Budget $30K&ndash;$75K in{" "}
+          <li><strong>Hire experienced M&amp;A counsel:</strong> The purchase agreement is not the place to save money. Budget $30K-$75K in{" "}
             <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">
               legal fees
             </Link>{" "}
             for the buy-side</li>
           <li><strong>Don&rsquo;t negotiate every clause:</strong> Focus on material provisions (price, reps/warranties, indemnification) rather than fighting over boilerplate</li>
           <li><strong>Working capital peg is critical:</strong> Get this right. Disagreements over working capital adjustments are the #1 source of post-closing disputes</li>
-          <li><strong>Escrow protects you:</strong> Push for 15&ndash;20% escrow for 18&ndash;24 months, especially in share purchases where you inherit unknown liabilities</li>
+          <li><strong>Escrow protects you:</strong> Push for 15-20% escrow for 18-24 months, especially in share purchases where you inherit unknown liabilities</li>
           <li><strong>Read disclosure schedules carefully:</strong> The exceptions to reps/warranties are where the risks hide</li>
         </ul>
 

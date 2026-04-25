@@ -12,10 +12,10 @@ export default function CrossBorderAcquisitionsArticle() {
       <div className={bodyClass}>
         <p>
           Acquiring a business across national borders can unlock valuation
-          arbitrage of 2&ndash;3x EBITDA, access to fragmented European and
+          arbitrage of 2-3x EBITDA, access to fragmented European and
           Latin American markets, and a deeper pipeline of succession-driven
           sellers. But cross-border deals introduce layered complexity that
-          domestic transactions never touch &mdash; foreign tax regimes,
+          domestic transactions never touch, foreign tax regimes,
           withholding taxes on profit repatriation, CFC inclusion rules,
           transfer pricing documentation, FDI screening, and currency
           exposure. This guide gives search fund buyers a concrete,
@@ -92,7 +92,7 @@ export default function CrossBorderAcquisitionsArticle() {
         </ul>
         <p>
           The key principle: a HoldCo must have genuine economic substance
-          &mdash; a local office, directors who exercise real decision-making
+          a local office, directors who exercise real decision-making
           authority, and bank accounts with meaningful cash flows. Tax
           authorities across the OECD increasingly deny treaty benefits and
           participation exemptions to shell entities lacking substance, per the
@@ -109,7 +109,7 @@ export default function CrossBorderAcquisitionsArticle() {
           buyer&rsquo;s home country and the target country, and they reduce
           statutory withholding tax rates on three critical cash flows:
           dividends, interest, and royalties. Without treaty relief, statutory
-          withholding can reach 25&ndash;30% on dividends alone (e.g., 25.8%
+          withholding can reach 25-30% on dividends alone (e.g., 25.8%
           in Germany, 25% in France, 30% in the US). Treaty networks bring
           these rates down substantially. According to the OECD&rsquo;s 2025
           Corporate Tax Statistics, the average treaty-reduced withholding rate
@@ -119,33 +119,33 @@ export default function CrossBorderAcquisitionsArticle() {
         <h3 className={h3Class}>Key treaty rates for search fund buyers</h3>
         <ul className={ulClass}>
           <li>
-            <strong>US&ndash;UK:</strong> 0% withholding on dividends when
+            <strong>US-UK:</strong> 0% withholding on dividends when
             the beneficial owner holds 80%+ of the voting power; 5% for 10%+
             ownership; 15% for portfolio holdings. Interest: 0%. Royalties: 0%.
           </li>
           <li>
-            <strong>US&ndash;France:</strong> 5% on dividends (10%+
+            <strong>US-France:</strong> 5% on dividends (10%+
             ownership); 15% otherwise. Interest: 0%. Royalties: 0%.
           </li>
           <li>
-            <strong>US&ndash;Germany:</strong> 5% on dividends (10%+
+            <strong>US-Germany:</strong> 5% on dividends (10%+
             ownership); 15% otherwise. Interest: 0%. Royalties: 0%.
           </li>
           <li>
-            <strong>US&ndash;Netherlands:</strong> 5% on dividends (10%+
+            <strong>US-Netherlands:</strong> 5% on dividends (10%+
             ownership); 15% otherwise. Interest: 0%. Royalties: 0%.
           </li>
           <li>
-            <strong>US&ndash;Brazil:</strong> 15% on dividends (Brazil
+            <strong>US-Brazil:</strong> 15% on dividends (Brazil
             currently exempts dividend withholding at the domestic level but
-            reform proposals have fluctuated). Interest: 10&ndash;15%.
-            Royalties: 10&ndash;25% depending on category.
+            reform proposals have fluctuated). Interest: 10-15%.
+            Royalties: 10-25% depending on category.
           </li>
           <li>
             <strong>Intra-EU:</strong> The Parent-Subsidiary Directive
             eliminates withholding on dividends between EU parent and
             subsidiary companies (10%+ ownership, held 2+ years). Post-Brexit,
-            UK companies no longer benefit &mdash; treaty rates apply instead.
+            UK companies no longer benefit, treaty rates apply instead.
           </li>
         </ul>
         <p>
@@ -166,7 +166,7 @@ export default function CrossBorderAcquisitionsArticle() {
         <p>
           If you are a US tax resident acquiring a foreign company, controlled
           foreign corporation (CFC) rules will tax you on certain categories
-          of the foreign company&rsquo;s income &mdash; even if no cash is
+          of the foreign company&rsquo;s income, even if no cash is
           distributed. Understanding these rules is critical to projecting your
           actual after-tax return. For a deeper dive into how entity choice
           affects your US tax posture, see our guide on{" "}
@@ -178,7 +178,7 @@ export default function CrossBorderAcquisitionsArticle() {
         <h3 className={h3Class}>Subpart F income</h3>
         <p>
           Subpart F captures &ldquo;passive&rdquo; and &ldquo;related-party&rdquo;{" "}
-          income earned by a CFC &mdash; interest, dividends, rents, royalties,
+          income earned by a CFC, interest, dividends, rents, royalties,
           and certain services income. This income is included in the US
           shareholder&rsquo;s taxable income currently, regardless of whether
           dividends are paid. For a typical search fund OpCo that earns active
@@ -194,8 +194,8 @@ export default function CrossBorderAcquisitionsArticle() {
           Low-Taxed Income (GILTI), which taxes US shareholders on CFC
           earnings that exceed a 10% deemed return on tangible assets (Qualified
           Business Asset Investment, or QBAI). For asset-light service
-          businesses &mdash; exactly the kind search funds typically acquire
-          &mdash; GILTI inclusion can be substantial because QBAI is low.
+          businesses, exactly the kind search funds typically acquire
+          GILTI inclusion can be substantial because QBAI is low.
         </p>
         <p>
           The One Big Beautiful Bill Act (OBBBA), signed into law in 2025,
@@ -215,14 +215,14 @@ export default function CrossBorderAcquisitionsArticle() {
             <strong>Permanent 40% deduction:</strong> C-Corp shareholders
             receive a 40% deduction on NCTI, resulting in an effective US tax
             rate of approximately 12.6% (21% x 60%) on foreign earnings
-            &mdash; before foreign tax credits.
+            before foreign tax credits.
           </li>
           <li>
             <strong>Improved foreign tax credit (FTC):</strong> The OBBBA
             reduces the FTC haircut to 10%, so 90% of foreign taxes deemed
             paid on NCTI are creditable. If the foreign effective tax rate
             exceeds roughly 14%, the FTC will fully offset the US NCTI tax
-            &mdash; meaning no residual US tax.
+            meaning no residual US tax.
           </li>
           <li>
             <strong>Timing change:</strong> NCTI is allocated to US
@@ -244,8 +244,8 @@ export default function CrossBorderAcquisitionsArticle() {
         </h2>
         <p>
           Whenever a cross-border structure involves two or more related
-          entities &mdash; HoldCo, OpCo, a management company, or a US parent
-          &mdash; every transaction between them must comply with the
+          entities, HoldCo, OpCo, a management company, or a US parent
+          every transaction between them must comply with the
           arm&rsquo;s-length principle codified in the OECD Transfer Pricing
           Guidelines. The three most common intercompany flows in search fund
           structures are management fees, intercompany loans, and IP license
@@ -256,7 +256,7 @@ export default function CrossBorderAcquisitionsArticle() {
             <strong>Management fees:</strong> Charge OpCo a fee for
             strategic oversight, board governance, and shared services
             provided by HoldCo. The fee must be benchmarked against comparable
-            third-party management consulting rates &mdash; typically 2&ndash;5%
+            third-party management consulting rates, typically 2-5%
             of OpCo revenue for SMEs. Document the services rendered in a
             written management services agreement.
           </li>
@@ -283,7 +283,7 @@ export default function CrossBorderAcquisitionsArticle() {
           Documentation requirements vary by country but follow the OECD
           three-tiered approach: a Master File (group-wide overview), a Local
           File (entity-level transactional analysis), and Country-by-Country
-          Reporting (for groups exceeding EUR 750 million in revenue &mdash;
+          Reporting (for groups exceeding EUR 750 million in revenue , 
           not applicable to most search funds, but the Master/Local File
           obligations often apply at lower thresholds). The 2025 OECD Transfer
           Pricing Guidelines introduced simplified rules for baseline
@@ -363,7 +363,7 @@ export default function CrossBorderAcquisitionsArticle() {
             <strong>United States (CFIUS):</strong> The Committee on Foreign
             Investment in the United States reviews transactions that could
             give a foreign person control of a US business in sectors
-            touching national security &mdash; defense, critical
+            touching national security, defense, critical
             infrastructure, personal data, AI, and semiconductors. CFIUS
             filings are voluntary but effectively mandatory for covered
             transactions (penalties for non-filing can reach the full value
@@ -378,7 +378,7 @@ export default function CrossBorderAcquisitionsArticle() {
             review period. Sectors subject to mandatory screening include
             critical raw materials, transport infrastructure, AI, and
             semiconductors. Individual member states may have broader scopes
-            &mdash; France already screens acquisitions above EUR 10 million
+            France already screens acquisitions above EUR 10 million
             in listed sectors, and Germany&rsquo;s AWV screening covers
             targets with revenue exceeding EUR 3 million in sensitive
             industries.
@@ -404,7 +404,7 @@ export default function CrossBorderAcquisitionsArticle() {
           Most search fund acquisitions of SMEs fall below merger-control
           notification thresholds. In the EU, the combined worldwide turnover
           threshold is EUR 5 billion (or EUR 250 million for each of at least
-          two parties in a single member state) &mdash; well above typical
+          two parties in a single member state), well above typical
           search fund deal sizes. However, national thresholds are lower:
           Germany&rsquo;s GWB requires notification when combined revenues
           exceed EUR 500 million and the target&rsquo;s German revenue exceeds
@@ -478,7 +478,7 @@ export default function CrossBorderAcquisitionsArticle() {
             <strong>Accounting standards:</strong> Financial statements may
             follow local GAAP (HGB in Germany, Plan Comptable G&eacute;n&eacute;ral
             in France, NIF in Mexico) rather than US GAAP or IFRS. Engage a
-            local audit firm to bridge material differences &mdash; especially
+            local audit firm to bridge material differences, especially
             revenue recognition, lease treatment, and pension obligations.
           </li>
           <li>
@@ -493,7 +493,7 @@ export default function CrossBorderAcquisitionsArticle() {
             (Transfer of Undertakings Protection of Employment) regulations
             automatically transfer employees to the buyer with their existing
             terms. Termination costs in Europe are materially higher than in
-            the US &mdash; severance in France can reach 12&ndash;18 months
+            the US, severance in France can reach 12-18 months
             of salary for long-tenured employees. In Germany, works council
             (Betriebsrat) consultation is mandatory before any workforce
             restructuring.
@@ -535,7 +535,7 @@ export default function CrossBorderAcquisitionsArticle() {
         <ol className={olClass}>
           <li>
             <strong>Structure:</strong> US C-Corp (parent) &rarr; UK Ltd
-            (OpCo). No intermediate HoldCo &mdash; the US&ndash;UK treaty
+            (OpCo). No intermediate HoldCo, the US-UK treaty
             provides 0% withholding on dividends at 80%+ ownership, and UK
             corporate tax (25%) exceeds the NCTI effective rate, so FTCs
             fully offset US tax.
@@ -565,7 +565,7 @@ export default function CrossBorderAcquisitionsArticle() {
           <li>
             <strong>Regulatory:</strong> NSI Act filing required (SaaS
             business may touch &ldquo;communications&rdquo; or &ldquo;data
-            infrastructure&rdquo; categories). Budget 6&ndash;10 weeks for
+            infrastructure&rdquo; categories). Budget 6-10 weeks for
             clearance. No competition filing needed (below UK CMA thresholds).
           </li>
         </ol>
@@ -581,11 +581,11 @@ export default function CrossBorderAcquisitionsArticle() {
         <ol className={olClass}>
           <li>
             <strong>Structure:</strong> US C-Corp (parent) &rarr; Colombian
-            SAS (OpCo). The US&ndash;Colombia treaty is not yet in force
+            SAS (OpCo). The US-Colombia treaty is not yet in force
             (signed 2001, never ratified), so statutory withholding rates
             apply: 20% on dividends and 20% on interest. Consider a
             Spanish or Panamanian HoldCo to access better treaty rates
-            (Spain&ndash;Colombia treaty reduces dividend withholding to 5%
+            (Spain-Colombia treaty reduces dividend withholding to 5%
             at 20%+ ownership).
           </li>
           <li>
@@ -606,7 +606,7 @@ export default function CrossBorderAcquisitionsArticle() {
           </li>
           <li>
             <strong>Currency risk:</strong> The Colombian peso can fluctuate
-            15&ndash;25% annually against the USD. COP-denominated debt
+            15-25% annually against the USD. COP-denominated debt
             provides a partial natural hedge, but investor equity returns
             remain fully exposed. Consider hedging via forward contracts for
             planned dividend repatriations.
@@ -628,15 +628,15 @@ export default function CrossBorderAcquisitionsArticle() {
             for most sectors, but SIC (Superintendencia de Industria y
             Comercio) merger notification is required when combined assets
             or revenue exceed approximately COP 313 billion (~USD 72 million)
-            &mdash; well above typical search fund deal sizes.
+            well above typical search fund deal sizes.
           </li>
         </ol>
 
         {/* ── Tax optimization link ───────────────────────────────── */}
         <p>
           For additional strategies on structuring your acquisition for tax
-          efficiency &mdash; including QSBS planning, Section 338(h)(10)
-          elections, and European participation exemptions &mdash; see our
+          efficiency: including QSBS planning, Section 338(h)(10)
+          elections, and European participation exemptions, see our
           thorough guide on{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax optimization for search fund acquisitions
@@ -665,7 +665,7 @@ export default function CrossBorderAcquisitionsArticle() {
           multi-country acquisitions, need participation exemptions for a
           tax-efficient exit, or want to reinvest profits without triggering
           home-country personal income tax. Formation and annual maintenance
-          of a Dutch or Luxembourg HoldCo typically costs EUR 15,000&ndash;25,000
+          of a Dutch or Luxembourg HoldCo typically costs EUR 15,000-25,000
           per year, so the tax savings must justify the overhead.
         </p>
 
@@ -676,14 +676,14 @@ export default function CrossBorderAcquisitionsArticle() {
           The replacement of GILTI with NCTI changes the math for US buyers
           of foreign companies in two important ways. First, the elimination
           of the QBAI offset means asset-light and asset-heavy businesses are
-          now treated the same &mdash; all CFC earnings face NCTI inclusion.
+          now treated the same, all CFC earnings face NCTI inclusion.
           Second, the improved FTC mechanism (90% of foreign taxes creditable)
           means that any foreign OpCo paying an effective tax rate above
           approximately 14% will generate enough credits to fully offset the
           US NCTI tax. For search fund buyers targeting the UK (25%), Germany
           (30%), or France (25%), NCTI is effectively a non-event. For
           targets in Ireland (12.5%) or low-tax LatAm jurisdictions, expect
-          a residual US tax of 1&ndash;3% on CFC earnings.
+          a residual US tax of 1-3% on CFC earnings.
         </p>
 
         <h3 className={h3Class}>
@@ -692,14 +692,14 @@ export default function CrossBorderAcquisitionsArticle() {
         <p>
           Three costs consistently surprise first-time cross-border buyers.
           First, advisory fees double because you need both home-country and
-          target-country lawyers, accountants, and tax advisors &mdash; budget
-          $80,000&ndash;$150,000 in total professional fees versus
-          $40,000&ndash;$70,000 for a comparable domestic deal. Second,
+          target-country lawyers, accountants, and tax advisors, budget
+          $80,000-$150,000 in total professional fees versus
+          $40,000-$70,000 for a comparable domestic deal. Second,
           translation and localization of due diligence materials, contracts,
-          and employee communications adds $10,000&ndash;$30,000. Third,
+          and employee communications adds $10,000-$30,000. Third,
           ongoing multi-jurisdiction compliance (annual tax filings, transfer
           pricing documentation, statutory audits, beneficial ownership
-          reporting) costs $20,000&ndash;$40,000 per year more than a
+          reporting) costs $20,000-$40,000 per year more than a
           single-country structure. Factor these into your financial model
           from the LOI stage.
         </p>
@@ -711,7 +711,7 @@ export default function CrossBorderAcquisitionsArticle() {
           Start by financing in the OpCo&rsquo;s local currency to create a
           natural hedge on debt service. For equity returns, the most practical
           approach is to accept moderate FX exposure and communicate it
-          transparently to investors &mdash; most search fund LPs investing in{" "}
+          transparently to investors, most search fund LPs investing in{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
             European
           </Link>{" "}
@@ -720,8 +720,8 @@ export default function CrossBorderAcquisitionsArticle() {
             Latin American
           </Link>{" "}
           deals understand the risk. For large planned distributions or exit
-          proceeds, use forward contracts to lock in rates 3&ndash;6 months
-          ahead. Avoid complex derivatives &mdash; for a single-entity
+          proceeds, use forward contracts to lock in rates 3-6 months
+          ahead. Avoid complex derivatives, for a single-entity
           search fund, the cost and complexity of options or swaps rarely
           justifies the hedge.
         </p>
@@ -732,7 +732,7 @@ export default function CrossBorderAcquisitionsArticle() {
         <p>
           Employment law and tax compliance generate the most post-closing
           surprises. In EU jurisdictions, employee protections under TUPE and
-          local labor codes mean that restructuring costs can reach 6&ndash;18
+          local labor codes mean that restructuring costs can reach 6-18
           months of salary per employee. Tax compliance review should cover
           not just corporate income tax but also VAT recovery positions,
           payroll tax calculations, and transfer pricing documentation for

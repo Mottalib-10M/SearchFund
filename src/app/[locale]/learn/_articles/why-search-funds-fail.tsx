@@ -11,7 +11,7 @@ export default function WhySearchFundsFailArticle() {
 
       <div className={bodyClass}>
         <p>
-          The search fund model has an impressive track record &mdash; 35%
+          The search fund model has an impressive track record, 35%
           aggregate IRR over 40 years according to the{" "}
           <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">
             Stanford 2024 study
@@ -34,7 +34,7 @@ export default function WhySearchFundsFailArticle() {
         <h2 className={h2Class}>Mistake 1: Overpaying for the acquisition</h2>
         <p>
           Overpaying is the single most damaging mistake a searcher can make,
-          and it happens more often than you might think. After 12&ndash;18
+          and it happens more often than you might think. After 12-18
           months of searching, reviewing hundreds of companies, and submitting
           multiple LOIs that fell through, the psychological pressure to close a
           deal is enormous. This &ldquo;deal fatigue&rdquo; leads searchers to
@@ -68,7 +68,7 @@ export default function WhySearchFundsFailArticle() {
           post-acquisition failure. The most dangerous DD failures include:
         </p>
         <ul className={ulClass}>
-          <li><strong>Customer concentration:</strong> Discovering after closing that 30&ndash;40% of revenue comes from one or two customers who have a personal relationship with the previous owner</li>
+          <li><strong>Customer concentration:</strong> Discovering after closing that 30-40% of revenue comes from one or two customers who have a personal relationship with the previous owner</li>
           <li><strong>Financial irregularities:</strong> Cash-basis accounting that masks declining profitability, or personal expenses run through the business that overstate true EBITDA</li>
           <li><strong>Key person dependency:</strong> The business depends on one or two employees (often family members) who leave shortly after the acquisition</li>
           <li><strong>Regulatory risk:</strong> Compliance issues, pending litigation, or licensing requirements that were not properly identified</li>
@@ -81,7 +81,7 @@ export default function WhySearchFundsFailArticle() {
           </Link>. Invest in a professional QoE. Conduct customer reference
           calls. Visit the business multiple times. Talk to employees at all
           levels. Spend time with the company&rsquo;s CPA and attorney. Budget
-          $50K&ndash;$150K for professional DD fees &mdash; this is the best
+          $50K-$150K for professional DD fees, this is the best
           insurance you can buy.
         </p>
 
@@ -120,15 +120,15 @@ export default function WhySearchFundsFailArticle() {
           distress.
         </p>
         <p>
-          The ideal use for a search fund acquisition is 2.5&ndash;3.5x
+          The ideal use for a search fund acquisition is 2.5-3.5x
           EBITDA in senior debt, with total use (including seller notes)
-          not exceeding 4&ndash;4.5x. When acquisition financing stretches
+          not exceeding 4-4.5x. When acquisition financing stretches
           beyond these levels, the risk of covenant violations, cash flow
           shortfalls, and forced restructuring increases dramatically.
         </p>
         <p>
           <strong>How to avoid it:</strong> Stress-test your financial model
-          with 20&ndash;30% revenue declines. Ensure debt service coverage
+          with 20-30% revenue declines. Ensure debt service coverage
           ratios remain above 1.5x even in a downturn. Build working capital
           reserves. Understand your{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
@@ -161,7 +161,7 @@ export default function WhySearchFundsFailArticle() {
           <Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">
             home services
           </Link>{" "}
-          &mdash; all of which feature recurring revenue, healthy margins, and
+          all of which feature recurring revenue, healthy margins, and
           clear value creation levers.
         </p>
 
@@ -191,7 +191,7 @@ export default function WhySearchFundsFailArticle() {
         <p>
           Search fund investors are not passive limited partners. They are
           experienced operators and investors who can provide enormous value
-          &mdash; or create significant problems if they lose confidence in the
+          or create significant problems if they lose confidence in the
           CEO. Common investor relations failures include:
         </p>
         <ul className={ulClass}>
@@ -267,7 +267,7 @@ export default function WhySearchFundsFailArticle() {
           <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
             exit strategies guide
           </Link>{" "}
-          recommends starting exit planning 18&ndash;24 months before the
+          recommends starting exit planning 18-24 months before the
           target date, with clear milestones for exit readiness.
         </p>
 
@@ -278,7 +278,7 @@ export default function WhySearchFundsFailArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Single point of failure:</strong> Most search fund failures result from one primary cause rather than a combination of issues. The key is identifying and mitigating the highest-risk factor in your specific situation.</li>
-          <li><strong>First-year vulnerability:</strong> The majority of value destruction occurs in the first 12&ndash;18 months post-acquisition, during the transition period. Getting the first year right is disproportionately important.</li>
+          <li><strong>First-year vulnerability:</strong> The majority of value destruction occurs in the first 12-18 months post-acquisition, during the transition period. Getting the first year right is disproportionately important.</li>
           <li><strong>Revenue dependency:</strong> Businesses that lose a major customer or fail to replace departing revenue streams almost never recover. Customer diversification and retention should be the number-one priority.</li>
           <li><strong>Capital structure fragility:</strong> Acquisitions with thin equity cushions and aggressive debt terms are much more likely to end in distress.</li>
         </ul>
@@ -294,7 +294,7 @@ export default function WhySearchFundsFailArticle() {
               preparation
             </Link>{" "}
             before launching your search</li>
-          <li>Maintain valuation discipline &mdash; never overpay due to deal fatigue</li>
+          <li>Maintain valuation discipline, never overpay due to deal fatigue</li>
           <li>Conduct thorough, professional{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
@@ -323,7 +323,7 @@ export default function WhySearchFundsFailArticle() {
             of the search and the CEO role</li>
         </ul>
         <p>
-          The search fund model works &mdash; the 40-year track record proves
+          The search fund model works, the 40-year track record proves
           it. But it works best for those who study the failure modes, prepare
           rigorously, and execute with discipline at every stage of the{" "}
           <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
@@ -335,9 +335,9 @@ export default function WhySearchFundsFailArticle() {
 
         <h3 className={h3Class}>How much does poor due diligence cost search fund investors?</h3>
         <p>
-          Inadequate due diligence is responsible for an estimated 25&ndash;30%
+          Inadequate due diligence is responsible for an estimated 25-30%
           of all search fund value destruction. The direct cost of professional
-          DD ($50K&ndash;$150K) pales in comparison to the millions lost when
+          DD ($50K-$150K) pales in comparison to the millions lost when
           issues like customer concentration, undisclosed liabilities, or
           working capital misunderstandings surface post-close. Investing in a
           thorough{" "}
@@ -353,8 +353,8 @@ export default function WhySearchFundsFailArticle() {
 
         <h3 className={h3Class}>What is the survival rate after the first year of ownership?</h3>
         <p>
-          The first 12&ndash;18 months are the highest-risk window.
-          Approximately 60&ndash;70% of total value destruction in failing
+          The first 12-18 months are the highest-risk window.
+          Approximately 60-70% of total value destruction in failing
           search funds occurs during this period. CEOs who follow a
           structured{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">

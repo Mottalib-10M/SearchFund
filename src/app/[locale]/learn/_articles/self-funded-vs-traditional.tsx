@@ -351,8 +351,8 @@ export default function SelfFundedVsTraditionalArticle() {
 
         <h3 className={h3Class}>How much does it cost to self-fund a search?</h3>
         <p>
-          Most self-funded searchers spend $50K&ndash;$150K out of pocket over
-          12&ndash;24 months. This covers living expenses (if not working part-time),
+          Most self-funded searchers spend $50K-$150K out of pocket over
+          12-24 months. This covers living expenses (if not working part-time),
           CRM software, legal fees, travel, and deal evaluation costs. Some
           searchers reduce this by maintaining part-time consulting income or
           working from a home office. Unlike the traditional model, there is no
@@ -376,7 +376,7 @@ export default function SelfFundedVsTraditionalArticle() {
         <p>
           SBA 7(a) loans are the backbone of most self-funded deals in the
           United States. They allow up to $5M in financing with a 10-year
-          term and relatively low down payments (typically 10&ndash;20%).
+          term and relatively low down payments (typically 10-20%).
           This government-backed debt significantly reduces the equity
           required from the searcher and co-investors, making it possible
           to acquire a business with modest personal capital. Outside the

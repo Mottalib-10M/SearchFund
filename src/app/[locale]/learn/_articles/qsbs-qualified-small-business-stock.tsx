@@ -77,7 +77,7 @@ export default function QSBSArticle() {
           million at any time before and immediately after the stock issuance.
           Gross assets means the cash and adjusted basis of all assets held by
           the corporation. For most search fund acquisitions (targeting
-          businesses with $2M&ndash;$20M enterprise value), this threshold is
+          businesses with $2M-$20M enterprise value), this threshold is
           comfortably met.
         </p>
         <p>
@@ -118,7 +118,7 @@ export default function QSBSArticle() {
           for money, other property (not stock), or services. Stock purchased
           on the secondary market from another shareholder does not qualify.
           This means QSBS planning must be built into the acquisition
-          structure from the beginning &mdash; it cannot be retroactively
+          structure from the beginning, it cannot be retroactively
           applied to stock purchased in the market.
         </p>
 
@@ -140,7 +140,7 @@ export default function QSBSArticle() {
         <h3 className={h3Class}>The 5-year holding period</h3>
         <p>
           QSBS requires a minimum 5-year holding period from the date of stock
-          issuance. For search fund acquisitions with a typical 5&ndash;7 year
+          issuance. For search fund acquisitions with a typical 5-7 year
           hold period to exit, this timeline aligns naturally. However, early
           exits (before 5 years) would forfeit the QSBS benefit.
         </p>
@@ -222,7 +222,7 @@ export default function QSBSArticle() {
         <p>
           QSBS planning should involve both a tax attorney and a CPA with
           experience in M&amp;A transactions. The planning should begin at
-          entity formation &mdash; not at exit. Key moments to involve advisors:
+          entity formation, not at exit. Key moments to involve advisors:
         </p>
         <ul className={ulClass}>
           <li>Entity selection and formation (ensure C corp + QSBS eligibility)</li>
@@ -289,7 +289,7 @@ export default function QSBSArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>Internal Revenue Service, <em>IRC Section 1202 &mdash; Qualified Small Business Stock</em> (2024)</li>
+          <li>Internal Revenue Service, <em>IRC Section 1202, Qualified Small Business Stock</em> (2024)</li>
           <li>Stanford Graduate School of Business, <em>Search Fund Primer: Tax Planning and QSBS</em> (2023)</li>
           <li>American Bar Association, <em>Section 1202 Planning for Entrepreneurs and Investors</em> (2024)</li>
         </ul>

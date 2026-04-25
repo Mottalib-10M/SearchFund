@@ -15,10 +15,10 @@ export default function AmazonFBAAcquisitionArticle() {
           to hundreds of millions of Prime customers, a proven product catalog,
           and a logistics backbone that would take years to replicate. But the
           FBA acquisition market in 2025 looks nothing like the gold-rush
-          years of 2020&ndash;2021, when aggregators paid 5&ndash;7x multiples
+          years of 2020-2021, when aggregators paid 5-7x multiples
           for any brand with a pulse. Valuations have corrected, due diligence
           standards have tightened, and the buyers who thrive today are
-          disciplined operators &mdash; not financial engineers chasing
+          disciplined operators, not financial engineers chasing
           roll-up arbitrage. This guide walks you through everything a
           first-time or experienced buyer needs to evaluate, negotiate, and
           close an Amazon FBA acquisition with confidence.
@@ -55,8 +55,8 @@ export default function AmazonFBAAcquisitionArticle() {
           negotiation table. For search fund entrepreneurs and independent
           acquirers, this is arguably the best buying environment since FBA
           acquisitions became mainstream. However, the same structural risks
-          that hurt aggregators &mdash; fee inflation, platform dependency,
-          and thin margins &mdash; still apply. Success requires rigorous
+          that hurt aggregators, fee inflation, platform dependency,
+          and thin margins, still apply. Success requires rigorous
           due diligence and realistic post-close planning.
         </p>
 
@@ -66,7 +66,7 @@ export default function AmazonFBAAcquisitionArticle() {
         </h2>
         <p>
           FBA businesses are almost always valued on a multiple of{" "}
-          <strong>seller&rsquo;s discretionary earnings (SDE)</strong> &mdash;
+          <strong>seller&rsquo;s discretionary earnings (SDE)</strong> , 
           essentially net profit plus owner compensation, one-time expenses,
           and non-recurring add-backs. Understanding{" "}
           <Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">
@@ -79,36 +79,36 @@ export default function AmazonFBAAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical range:</strong> 2.5&ndash;4.0x trailing-twelve-month
+            <strong>Typical range:</strong> 2.5-4.0x trailing-twelve-month
             (TTM) SDE for most FBA businesses. The average multiple reported by
             Empire Flippers in 2024 was 3.1x, while Quiet Light Brokerage
-            reports 3.5&ndash;4.0x for clean, evergreen brands (Empire Flippers,
+            reports 3.5-4.0x for clean, evergreen brands (Empire Flippers,
             2024; Quiet Light, 2024).
           </li>
           <li>
-            <strong>Premium tier (4.0&ndash;5.0x+):</strong> Reserved for
+            <strong>Premium tier (4.0-5.0x+):</strong> Reserved for
             businesses with multiple product lines, strong year-over-year growth,
             4.5+ star reviews, a registered trademark under Amazon Brand
             Registry, and a meaningful share of organic (non-PPC) revenue.
           </li>
           <li>
-            <strong>Discount tier (2.0&ndash;2.5x):</strong> Common for
+            <strong>Discount tier (2.0-2.5x):</strong> Common for
             single-SKU businesses, declining revenue trends, heavy PPC
             dependency (TACoS above 25%), or accounts with policy-violation
             history.
           </li>
           <li>
             <strong>Down from peaks:</strong> During 2021, premium FBA brands
-            regularly transacted at 5&ndash;7x SDE. The correction has been
-            significant &mdash; and warranted, given that many of those
+            regularly transacted at 5-7x SDE. The correction has been
+            significant, and warranted, given that many of those
             acquisitions ultimately destroyed value.
           </li>
         </ul>
         <p>
-          Deal structures also shifted. In the aggregator era, 80&ndash;90% cash
+          Deal structures also shifted. In the aggregator era, 80-90% cash
           at close was standard. Today, buyers frequently negotiate
-          60&ndash;70% at close with 20&ndash;30% in earnout payments tied to
-          12&ndash;18 months of post-sale performance. This protects the buyer
+          60-70% at close with 20-30% in earnout payments tied to
+          12-18 months of post-sale performance. This protects the buyer
           against revenue cliffs and incentivizes the seller to support a smooth
           transition.
         </p>
@@ -119,7 +119,7 @@ export default function AmazonFBAAcquisitionArticle() {
         </h2>
         <p>
           Amazon businesses generate a wealth of data inside Seller Central.
-          The challenge isn&rsquo;t access &mdash; it&rsquo;s knowing which
+          The challenge isn&rsquo;t access, it&rsquo;s knowing which
           metrics matter and which red flags to catch. Before diving into
           numbers, review the broader{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
@@ -131,13 +131,13 @@ export default function AmazonFBAAcquisitionArticle() {
         <h3 className={h3Class}>Organic vs. PPC Revenue Split</h3>
         <p>
           This is the single most important metric in FBA due diligence. A
-          healthy FBA business generates at least 50&ndash;70% of its revenue
+          healthy FBA business generates at least 50-70% of its revenue
           from organic search. Heavy PPC dependency (organic share below 40%)
-          means the business is &ldquo;renting&rdquo; its traffic &mdash; turn
+          means the business is &ldquo;renting&rdquo; its traffic, turn
           off the ads and revenue collapses. Measure this using{" "}
           <strong>TACoS (Total Advertising Cost of Sales)</strong>, which
-          divides total ad spend by total revenue. A TACoS under 10&ndash;15%
-          typically signals a strong organic base; TACoS above 20&ndash;25%
+          divides total ad spend by total revenue. A TACoS under 10-15%
+          typically signals a strong organic base; TACoS above 20-25%
           warrants deep scrutiny.
         </p>
 
@@ -145,11 +145,11 @@ export default function AmazonFBAAcquisitionArticle() {
         <p>
           <strong>ACoS (Advertising Cost of Sales)</strong> measures ad spend
           divided by ad-attributed revenue. The benchmark varies by category,
-          but most established FBA businesses target 15&ndash;25% ACoS. For
+          but most established FBA businesses target 15-25% ACoS. For
           context, the average Amazon PPC cost-per-click in 2025 runs
-          $0.99&ndash;$1.04, with seasonal peaks around $1.14 during Q4
-          (Velocity Sellers, 2025). A rising ACoS trend over 12+ months &mdash;
-          especially if revenue is flat &mdash; signals either growing
+          $0.99-$1.04, with seasonal peaks around $1.14 during Q4
+          (Velocity Sellers, 2025). A rising ACoS trend over 12+ months , 
+          especially if revenue is flat, signals either growing
           competition or deteriorating listing quality.
         </p>
 
@@ -157,7 +157,7 @@ export default function AmazonFBAAcquisitionArticle() {
         <p>
           BSR indicates a product&rsquo;s relative sales volume within its
           category. Lower is better. But a single snapshot is meaningless
-          &mdash; you need 12&ndash;24 months of BSR history to understand
+          you need 12-24 months of BSR history to understand
           trends and seasonality. Tools like Keepa and Helium 10 track
           historical BSR. Look for stable or improving BSR over time. A
           deteriorating BSR paired with increasing PPC spend is one of the
@@ -168,9 +168,9 @@ export default function AmazonFBAAcquisitionArticle() {
         <p>
           Reviews are the lifeblood of Amazon conversion. Evaluate both the
           average star rating (4.0+ minimum; 4.3+ preferred) and{" "}
-          <strong>review velocity</strong> &mdash; how many new reviews the
+          <strong>review velocity</strong>: how many new reviews the
           product earns per month. A healthy product in a competitive category
-          might add 20&ndash;50 reviews per month. Declining velocity can
+          might add 20-50 reviews per month. Declining velocity can
           signal waning demand or the loss of a Vine enrollment or review-
           request automation. Also check for negative review patterns: product
           quality issues flagged in 1-star reviews often point to supplier or
@@ -181,7 +181,7 @@ export default function AmazonFBAAcquisitionArticle() {
         <p>
           Analyze SKU-level revenue data for at least 24 months. If a single
           ASIN accounts for more than 60% of total revenue, you&rsquo;re
-          essentially buying a single-product business &mdash; which carries
+          essentially buying a single-product business, which carries
           significantly higher risk. Seasonal businesses (holiday decorations,
           tax-season products) aren&rsquo;t inherently bad, but they require
           careful cash-flow management and inventory planning. Understanding{" "}
@@ -207,7 +207,7 @@ export default function AmazonFBAAcquisitionArticle() {
 
         <h3 className={h3Class}>Account Health and Policy Compliance</h3>
         <p>
-          Request full Seller Central access during diligence &mdash; never
+          Request full Seller Central access during diligence, never
           rely on screenshots or seller-provided summaries. Amazon&rsquo;s
           Account Health Dashboard tracks policy violations, intellectual
           property complaints, product authenticity claims, and late shipment
@@ -246,7 +246,7 @@ export default function AmazonFBAAcquisitionArticle() {
           Brand Registry grants access to A+ Content, Sponsored Brands ads,
           Amazon Stores, and critical anti-counterfeiting tools like Project
           Zero and Transparency. Without it, you&rsquo;re vulnerable to
-          hijackers &mdash; unauthorized sellers attaching themselves to your
+          hijackers, unauthorized sellers attaching themselves to your
           listing and undercutting your price.
         </p>
         <p>
@@ -276,9 +276,9 @@ export default function AmazonFBAAcquisitionArticle() {
           <li>
             <strong>Landed cost trends:</strong> Request 24 months of landed
             cost data (product cost + shipping + duties + prep fees). Rising
-            tariffs &mdash; particularly U.S.-China tariffs that have
-            escalated since 2018 &mdash; can quietly erode margins by
-            5&ndash;15 percentage points.
+            tariffs, particularly U.S.-China tariffs that have
+            escalated since 2018, can quietly erode margins by
+            5-15 percentage points.
           </li>
           <li>
             <strong>Quality control:</strong> Does the seller use third-party
@@ -294,21 +294,21 @@ export default function AmazonFBAAcquisitionArticle() {
         <p>
           Buying an FBA business means accepting Amazon as your landlord,
           distribution partner, payment processor, and de facto regulator
-          &mdash; all in one. Understanding these platform-specific risks is
+          all in one. Understanding these platform-specific risks is
           non-negotiable.
         </p>
 
         <h3 className={h3Class}>Fee Inflation</h3>
         <p>
           Amazon fees have steadily increased. Most sellers now pay
-          25&ndash;32% of gross revenue in combined Amazon fees: 15% average
-          referral fee, $3.22&ndash;$6.75+ per unit in fulfillment fees,
-          monthly storage fees ($0.78/ft&sup3; January&ndash;September,
-          $2.40/ft&sup3; October&ndash;December), and inbound placement fees
+          25-32% of gross revenue in combined Amazon fees: 15% average
+          referral fee, $3.22-$6.75+ per unit in fulfillment fees,
+          monthly storage fees ($0.78/ft&sup3; January-September,
+          $2.40/ft&sup3; October-December), and inbound placement fees
           introduced in 2024 (Amazon Seller Central, 2025). Fulfillment fees
-          jumped 20&ndash;30% in 2023 alone (exit.io, 2025). Model your
-          acquisition at current fee levels plus a 5&ndash;10% annual fee
-          increase buffer &mdash; Amazon has never permanently reduced its
+          jumped 20-30% in 2023 alone (exit.io, 2025). Model your
+          acquisition at current fee levels plus a 5-10% annual fee
+          increase buffer, Amazon has never permanently reduced its
           fee structure.
         </p>
 
@@ -347,7 +347,7 @@ export default function AmazonFBAAcquisitionArticle() {
           competes directly, you&rsquo;re fighting a landlord who can see
           your sales data. Even without direct Amazon competition, FBA&rsquo;s
           low barriers to entry mean that successful products are quickly
-          copied &mdash; often by manufacturers who already have access to
+          copied, often by manufacturers who already have access to
           your exact molds or formulations through shared suppliers.
         </p>
 
@@ -370,7 +370,7 @@ export default function AmazonFBAAcquisitionArticle() {
             Empire Flippers performs initial vetting, verifies revenue through
             direct API connections to Seller Central, and holds funds in
             escrow. Buyer commission is built into the listing price (no
-            separate buyer fee). Typical listing multiples: 2.5&ndash;4.5x
+            separate buyer fee). Typical listing multiples: 2.5-4.5x
             monthly net profit.
           </li>
           <li>
@@ -382,7 +382,7 @@ export default function AmazonFBAAcquisitionArticle() {
           </li>
           <li>
             <strong>FE International:</strong> Specializes in SaaS and
-            e-commerce businesses in the $500K&ndash;$50M range. Provides
+            e-commerce businesses in the $500K-$50M range. Provides
             detailed prospectuses and managed sale processes. More institutional
             feel, suitable for larger acquisitions or buyers backed by search
             fund investors.
@@ -420,12 +420,12 @@ export default function AmazonFBAAcquisitionArticle() {
             pause bleeding keywords, shift budget to high-converting exact-match
             terms, and implement dayparting to reduce wasted spend during
             low-conversion hours. A skilled PPC restructure can improve ACoS
-            by 20&ndash;40% within 60 days.
+            by 20-40% within 60 days.
           </li>
           <li>
             <strong>Renegotiate supplier terms.</strong> Post-acquisition,
             signal long-term commitment and higher volumes to your
-            manufacturer. Target 5&ndash;15% cost reductions through volume
+            manufacturer. Target 5-15% cost reductions through volume
             commitments, payment-term renegotiation, or competitive quoting
             with backup suppliers.
           </li>
@@ -433,7 +433,7 @@ export default function AmazonFBAAcquisitionArticle() {
             <strong>Expand product line strategically.</strong> Use Amazon
             Brand Analytics (available through Brand Registry) to identify
             the exact keywords your customers search before purchasing your
-            product &mdash; then launch complementary SKUs that address
+            product, then launch complementary SKUs that address
             adjacent needs. Prioritize products with review counts under 200
             in the top ten results, signaling less entrenched competition.
           </li>
@@ -441,8 +441,8 @@ export default function AmazonFBAAcquisitionArticle() {
             <strong>Upgrade listings and A+ Content.</strong> Invest in
             professional photography, infographic images, and A+ Content
             modules. Data consistently shows that A+ Content increases
-            conversion rates by 3&ndash;10%. Add video content to your
-            listings &mdash; Amazon prioritizes listings with video in search
+            conversion rates by 3-10%. Add video content to your
+            listings, Amazon prioritizes listings with video in search
             results.
           </li>
           <li>
@@ -460,7 +460,7 @@ export default function AmazonFBAAcquisitionArticle() {
             </Link>.</strong>{" "}
             Many FBA sellers set prices once and never revisit them. Dynamic
             repricing tools and systematic A/B price testing can improve
-            margins by 5&ndash;15% without sacrificing volume, especially in
+            margins by 5-15% without sacrificing volume, especially in
             categories with inelastic demand.
           </li>
           <li>
@@ -484,13 +484,13 @@ export default function AmazonFBAAcquisitionArticle() {
           How much does it cost to buy an Amazon FBA business?
         </h3>
         <p>
-          Entry-level FBA businesses with $50K&ndash;$100K in annual revenue
-          list for $50K&ndash;$150K on platforms like Flippa and Empire
-          Flippers. Mid-market brands generating $300K&ndash;$1M in annual
-          SDE typically sell for $750K&ndash;$4M at 2.5&ndash;4.0x multiples.
+          Entry-level FBA businesses with $50K-$100K in annual revenue
+          list for $50K-$150K on platforms like Flippa and Empire
+          Flippers. Mid-market brands generating $300K-$1M in annual
+          SDE typically sell for $750K-$4M at 2.5-4.0x multiples.
           Premium multi-brand portfolios or businesses with $1M+ SDE can
           exceed $5M, though these deals increasingly include earnout
-          components. In addition to the purchase price, budget $20K&ndash;$50K
+          components. In addition to the purchase price, budget $20K-$50K
           for legal fees, due diligence tools, broker commissions (if buying
           off-market), and working capital to fund initial inventory orders.
         </p>
@@ -499,16 +499,16 @@ export default function AmazonFBAAcquisitionArticle() {
           How long does it take to close an FBA acquisition?
         </h3>
         <p>
-          The typical timeline from LOI to close is 45&ndash;90 days. The
-          first 2&ndash;3 weeks focus on due diligence: verifying Seller
+          The typical timeline from LOI to close is 45-90 days. The
+          first 2-3 weeks focus on due diligence: verifying Seller
           Central data, auditing financials, confirming supplier
-          relationships, and inspecting account health. Weeks 3&ndash;6
+          relationships, and inspecting account health. Weeks 3-6
           involve purchase agreement negotiation, escrow setup, and securing
           any financing (SBA loans can fund FBA acquisitions, though lender
           familiarity with the asset class varies). The final stage is the
-          Amazon account transfer itself &mdash; which Amazon facilitates
+          Amazon account transfer itself, which Amazon facilitates
           through its &ldquo;Change of Ownership&rdquo; process, typically
-          completed within 5&ndash;10 business days once initiated. Factor in
+          completed within 5-10 business days once initiated. Factor in
           a 30-day transition period where the seller assists with supplier
           introductions, PPC management handoff, and operational training.
         </p>
@@ -520,14 +520,14 @@ export default function AmazonFBAAcquisitionArticle() {
           Yes, though it&rsquo;s more detailed than financing a traditional
           brick-and-mortar business. SBA 7(a) loans can be used for FBA
           acquisitions, but many lenders are unfamiliar with digital-asset
-          underwriting and may require additional documentation: 2&ndash;3
+          underwriting and may require additional documentation: 2-3
           years of tax returns, a quality-of-earnings report, and a detailed
           business plan showing post-acquisition growth strategy. Some
           SBA-preferred lenders like Live Oak Bank and Pursuit Lending have
           dedicated digital-business acquisition teams. Expect to contribute
-          10&ndash;20% equity injection and pay rates in the 10&ndash;12%
+          10-20% equity injection and pay rates in the 10-12%
           range (variable, tied to Prime + 2.75%). Seller financing covering
-          10&ndash;20% of the purchase price strengthens your application
+          10-20% of the purchase price strengthens your application
           significantly, as it signals the seller&rsquo;s confidence in the
           business&rsquo;s continued performance.
         </p>
@@ -545,7 +545,7 @@ export default function AmazonFBAAcquisitionArticle() {
           pricing visibility, search ranking, fee structures, and
           account status. A single account suspension can halt 100% of
           revenue overnight. The risk is manageable but not eliminable
-          &mdash; the mitigation strategy is maintaining flawless account
+          the mitigation strategy is maintaining flawless account
           health, building brand equity that extends beyond Amazon, and
           diversifying to additional sales channels as quickly as possible
           post-acquisition.
@@ -559,12 +559,12 @@ export default function AmazonFBAAcquisitionArticle() {
           product faces a sudden ranking drop, competitor attack, or listing
           suspension, the other SKUs provide revenue continuity. However,
           single-product brands aren&rsquo;t automatically bad investments
-          &mdash; they&rsquo;re fine if the product has a dominant BSR
+          they&rsquo;re fine if the product has a dominant BSR
           position, strong review moat (500+ reviews at 4.3+ stars), low
           TACoS (under 12%), and clear expansion opportunities into adjacent
           products. Price single-product risk into your offer: expect to pay
-          at the lower end of the multiple range (2.0&ndash;2.8x) and
-          structure 20&ndash;30% of the purchase price as an earnout.
+          at the lower end of the multiple range (2.0-2.8x) and
+          structure 20-30% of the purchase price as an earnout.
         </p>
       </div>
 

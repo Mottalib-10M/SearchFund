@@ -30,17 +30,17 @@ export default function SearchFundInvestorEconomicsArticle() {
 
         <h3 className={h3Class}>Stage 1: Search capital</h3>
         <ul className={ulClass}>
-          <li><strong>Amount per investor:</strong> $25K&ndash;$50K (typically 5% of total search capital)</li>
-          <li><strong>Total raised:</strong> $400K&ndash;$600K from 10&ndash;20 investors</li>
-          <li><strong>Purpose:</strong> Fund the searcher&rsquo;s salary, travel, legal, and operating expenses during the 18&ndash;24 month search</li>
+          <li><strong>Amount per investor:</strong> $25K-$50K (typically 5% of total search capital)</li>
+          <li><strong>Total raised:</strong> $400K-$600K from 10-20 investors</li>
+          <li><strong>Purpose:</strong> Fund the searcher&rsquo;s salary, travel, legal, and operating expenses during the 18-24 month search</li>
           <li><strong>Risk:</strong> If no acquisition is completed, this capital is partially or fully lost (search expenses are sunk costs)</li>
           <li><strong>Structure:</strong> Convertible note or preferred equity that converts at acquisition</li>
         </ul>
 
         <h3 className={h3Class}>Stage 2: Acquisition capital</h3>
         <ul className={ulClass}>
-          <li><strong>Amount per investor:</strong> $100K&ndash;$1M+ (depends on deal size and investor allocation)</li>
-          <li><strong>Total equity raised:</strong> $2M&ndash;$10M+ (equity component of the acquisition)</li>
+          <li><strong>Amount per investor:</strong> $100K-$1M+ (depends on deal size and investor allocation)</li>
+          <li><strong>Total equity raised:</strong> $2M-$10M+ (equity component of the acquisition)</li>
           <li><strong>Purpose:</strong> Fund the equity portion of the business acquisition</li>
           <li><strong>Right, not obligation:</strong> Search investors have the right to invest pro-rata in the acquisition, but they can pass</li>
         </ul>
@@ -71,7 +71,7 @@ export default function SearchFundInvestorEconomicsArticle() {
           At the time of acquisition, the equity is typically allocated:
         </p>
         <ul className={ulClass}>
-          <li><strong>Searcher/CEO:</strong> 20&ndash;25% (vesting over 4&ndash;5 years)</li>
+          <li><strong>Searcher/CEO:</strong> 20-25% (vesting over 4-5 years)</li>
           <li><strong>Search investors (with step-up):</strong> Their converted search capital + pro-rata acquisition equity</li>
           <li><strong>Acquisition-only investors:</strong> New investors who participate only at the acquisition stage (no step-up)</li>
         </ul>
@@ -129,7 +129,7 @@ export default function SearchFundInvestorEconomicsArticle() {
                 Private equity
               </Link>:
             </strong>{" "}
-            Search funds generate higher IRRs (35% vs. 15&ndash;20%) but smaller absolute dollar returns per investment. PE offers more diversification and liquidity
+            Search funds generate higher IRRs (35% vs. 15-20%) but smaller absolute dollar returns per investment. PE offers more diversification and liquidity
           </li>
           <li>
             <strong>vs.{" "}
@@ -151,20 +151,20 @@ export default function SearchFundInvestorEconomicsArticle() {
 
         <h2 className={h2Class}>Portfolio construction</h2>
         <ul className={ulClass}>
-          <li><strong>Typical allocation:</strong> Experienced search fund investors back 10&ndash;30+ searchers to build a diversified portfolio</li>
-          <li><strong>Search capital at risk:</strong> $250K&ndash;$1.5M across the portfolio (search capital that may be lost if searchers don&rsquo;t acquire)</li>
-          <li><strong>Acquisition capital reserved:</strong> $1M&ndash;$10M+ for follow-on investment in the ~67% of searches that complete acquisitions</li>
-          <li><strong>Expected losses:</strong> 33% of search investments result in total loss (searcher doesn&rsquo;t acquire). Another ~15&ndash;20% of acquisitions underperform</li>
+          <li><strong>Typical allocation:</strong> Experienced search fund investors back 10-30+ searchers to build a diversified portfolio</li>
+          <li><strong>Search capital at risk:</strong> $250K-$1.5M across the portfolio (search capital that may be lost if searchers don&rsquo;t acquire)</li>
+          <li><strong>Acquisition capital reserved:</strong> $1M-$10M+ for follow-on investment in the ~67% of searches that complete acquisitions</li>
+          <li><strong>Expected losses:</strong> 33% of search investments result in total loss (searcher doesn&rsquo;t acquire). Another ~15-20% of acquisitions underperform</li>
           <li><strong>Winners pay for losers:</strong> The portfolio model works because the top-quartile performers generate 10x+ returns, more than compensating for losses</li>
         </ul>
 
         <h2 className={h2Class}>Key investor considerations</h2>
         <ul className={ulClass}>
-          <li><strong>Illiquidity:</strong> Capital is locked up for 7&ndash;10 years with no secondary market</li>
+          <li><strong>Illiquidity:</strong> Capital is locked up for 7-10 years with no secondary market</li>
           <li><strong>Manager risk:</strong> Each investment is a bet on a single CEO. The searcher&rsquo;s quality is the #1 determinant of returns</li>
-          <li><strong>Minimum ticket size:</strong> Typically $25K&ndash;$50K per search (search capital) + $100K+ per acquisition (equity capital)</li>
+          <li><strong>Minimum ticket size:</strong> Typically $25K-$50K per search (search capital) + $100K+ per acquisition (equity capital)</li>
           <li><strong>Accredited investor:</strong> Most search fund investments require accredited investor status under SEC rules</li>
-          <li><strong>Time commitment:</strong> Active investors serve on boards (3&ndash;5 hours/month per company) and provide mentorship</li>
+          <li><strong>Time commitment:</strong> Active investors serve on boards (3-5 hours/month per company) and provide mentorship</li>
         </ul>
         <p>
           For more on the investor perspective, see{" "}
@@ -182,19 +182,19 @@ export default function SearchFundInvestorEconomicsArticle() {
 
         <h3 className={h3Class}>What is the expected return on search fund investments?</h3>
         <p>
-          According to the Stanford GSB 2024 Search Fund Study, the asset class has generated median returns of approximately 35% IRR and 5.5x MOIC across all completed acquisitions. However, returns are highly skewed: the top quartile of acquisitions generates 10x+ returns, while approximately 33% of search investments result in total loss (the searcher never closes an acquisition). Among completed acquisitions, roughly 15&ndash;20% underperform the invested capital. Experienced search fund investors build diversified portfolios of 10&ndash;30+ search commitments to smooth out these outcomes, with portfolio-level returns typically ranging from 25&ndash;40% IRR depending on vintage and manager selection quality.
+          According to the Stanford GSB 2024 Search Fund Study, the asset class has generated median returns of approximately 35% IRR and 5.5x MOIC across all completed acquisitions. However, returns are highly skewed: the top quartile of acquisitions generates 10x+ returns, while approximately 33% of search investments result in total loss (the searcher never closes an acquisition). Among completed acquisitions, roughly 15-20% underperform the invested capital. Experienced search fund investors build diversified portfolios of 10-30+ search commitments to smooth out these outcomes, with portfolio-level returns typically ranging from 25-40% IRR depending on vintage and manager selection quality.
         </p>
 
         <h3 className={h3Class}>How does the 1.5x step-up work in practice?</h3>
         <p>
-          The step-up compensates early-stage search capital investors for the higher risk they bear during the unfunded search phase. For every $1 invested as search capital, the investor receives $1.50 worth of equity at the acquisition-stage valuation. For example, an investor who commits $50K in search capital receives $75K worth of acquisition equity &mdash; a 50% premium. According to IESE Business School&rsquo;s research on European search funds, the 1.5x step-up has become the global standard, though some European funds use a 1.0x structure (no step-up) to simplify the cap table. The step-up is economically justified because approximately one-third of funded searches never complete an acquisition, making search capital a high-risk investment with binary outcomes at the individual deal level.
+          The step-up compensates early-stage search capital investors for the higher risk they bear during the unfunded search phase. For every $1 invested as search capital, the investor receives $1.50 worth of equity at the acquisition-stage valuation. For example, an investor who commits $50K in search capital receives $75K worth of acquisition equity, a 50% premium. According to IESE Business School&rsquo;s research on European search funds, the 1.5x step-up has become the global standard, though some European funds use a 1.0x structure (no step-up) to simplify the cap table. The step-up is economically justified because approximately one-third of funded searches never complete an acquisition, making search capital a high-risk investment with binary outcomes at the individual deal level.
         </p>
 
         <h3 className={h3Class}>How many search funds should an investor back to build a diversified portfolio?</h3>
         <p>
-          Stanford GSB research suggests that backing 10&ndash;15 search funds provides meaningful diversification, with portfolios of 20+ commitments approaching optimal risk-adjusted returns. At $25K&ndash;$50K per search commitment, this requires $250K&ndash;$1M in search capital alone, plus $1M&ndash;$10M+ reserved for follow-on{" "}
+          Stanford GSB research suggests that backing 10-15 search funds provides meaningful diversification, with portfolios of 20+ commitments approaching optimal risk-adjusted returns. At $25K-$50K per search commitment, this requires $250K-$1M in search capital alone, plus $1M-$10M+ reserved for follow-on{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition equity</Link>{" "}
-          in the approximately two-thirds of searches that complete acquisitions. The portfolio model works because top-performing acquisitions generate 10x&ndash;30x returns, which more than compensate for the 33% total loss rate on unfunded searches and the 15&ndash;20% of completed acquisitions that underperform. Investors with fewer than 10 commitments face significant single-manager risk and may experience highly variable outcomes.
+          in the approximately two-thirds of searches that complete acquisitions. The portfolio model works because top-performing acquisitions generate 10x-30x returns, which more than compensate for the 33% total loss rate on unfunded searches and the 15-20% of completed acquisitions that underperform. Investors with fewer than 10 commitments face significant single-manager risk and may experience highly variable outcomes.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

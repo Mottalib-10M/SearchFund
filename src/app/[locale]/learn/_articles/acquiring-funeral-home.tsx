@@ -9,8 +9,8 @@ export default function AcquiringFuneralHomeArticle() {
 
       <div className={bodyClass}>
         <p>
-          The funeral services industry is one of the most misunderstood &mdash;
-          and most compelling &mdash; sectors for entrepreneurship through
+          The funeral services industry is one of the most misunderstood , 
+          and most compelling, sectors for entrepreneurship through
           acquisition. With over $20 billion in annual US revenue, death-care
           is a mature, fragmented industry with characteristics that ETA
           investors prize: non-cyclical demand, high barriers to entry,
@@ -30,17 +30,17 @@ export default function AcquiringFuneralHomeArticle() {
           annual revenue across roughly 19,000 funeral homes. Despite decades
           of consolidation by public companies like Service Corporation
           International (SCI), Carriage Services, and Park Lawn Corporation,
-          approximately 85% of funeral homes remain independently owned &mdash;
+          approximately 85% of funeral homes remain independently owned , 
           many by second- or third-generation families. The average funeral
-          home handles 100&ndash;250 calls (cases) per year, generating
-          $1.5M&ndash;$5M in revenue with EBITDA margins of 15&ndash;30%.
+          home handles 100-250 calls (cases) per year, generating
+          $1.5M-$5M in revenue with EBITDA margins of 15-30%.
         </p>
         <p>
           The US death rate is projected to increase steadily through the
           2050s as the baby boomer generation ages, with annual deaths rising
           from approximately 3.3 million today to over 4 million by the
           mid-2040s. This demographic tailwind is perhaps the most predictable
-          demand driver in all of business &mdash; mortality is the one
+          demand driver in all of business, mortality is the one
           certainty no economic cycle can alter. For searchers evaluating the
           sector through the lens of{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>,
@@ -52,7 +52,7 @@ export default function AcquiringFuneralHomeArticle() {
           <li>
             <strong>Non-cyclical demand:</strong> Unlike virtually every other
             consumer-facing industry, funeral services are immune to
-            recessions. During the 2008&ndash;2009 financial crisis and the
+            recessions. During the 2008-2009 financial crisis and the
             COVID-19 pandemic, funeral home revenue remained stable or
             increased. Families do not skip funeral arrangements regardless
             of economic conditions.
@@ -60,8 +60,8 @@ export default function AcquiringFuneralHomeArticle() {
           <li>
             <strong>High barriers to entry:</strong> Opening a new funeral
             home requires state mortuary licenses, FTC compliance systems,
-            environmental permits, specialized real estate, and &mdash; most
-            critically &mdash; years of community relationship-building. A
+            environmental permits, specialized real estate, and, most
+            critically, years of community relationship-building. A
             new entrant cannot simply compete with a home that has served a
             community for 50 years.
           </li>
@@ -74,7 +74,7 @@ export default function AcquiringFuneralHomeArticle() {
           </li>
           <li>
             <strong>Pre-need revenue visibility:</strong> Many funeral homes
-            sell pre-need contracts &mdash; arrangements purchased and paid
+            sell pre-need contracts, arrangements purchased and paid
             for before death occurs. A funeral home with 500+ pre-need
             contracts has years of committed future revenue, providing
             visibility that few service businesses can match.
@@ -96,7 +96,7 @@ export default function AcquiringFuneralHomeArticle() {
           ceremonies, graveside services, and coordination with cemeteries
           and clergy. These businesses occupy large, purpose-built facilities
           with chapels, viewing rooms, and preparation areas. Average revenue
-          per call ranges from $7,000&ndash;$12,000. Traditional homes
+          per call ranges from $7,000-$12,000. Traditional homes
           command the highest per-call revenue but face headwinds from the
           secular shift toward cremation.
         </p>
@@ -104,8 +104,8 @@ export default function AcquiringFuneralHomeArticle() {
         <h3 className={h3Class}>Cremation-focused operations</h3>
         <p>
           Direct cremation providers offer a streamlined, lower-cost
-          alternative. Revenue per call is lower ($2,000&ndash;$5,000) but
-          operating costs are significantly reduced &mdash; less real estate,
+          alternative. Revenue per call is lower ($2,000-$5,000) but
+          operating costs are significantly reduced, less real estate,
           fewer staff, simpler logistics. The US cremation rate has surged
           from 27% in 2001 to over 60% today and is projected to reach 80%
           by 2040 in many markets.
@@ -114,10 +114,10 @@ export default function AcquiringFuneralHomeArticle() {
         <h3 className={h3Class}>Combination funeral homes</h3>
         <p>
           The most common and often most attractive acquisition target for
-          ETA &mdash; a full-service funeral home offering both traditional
+          ETA, a full-service funeral home offering both traditional
           burial and cremation. Combination homes capture the full spectrum
           of consumer preferences. Blended revenue per call typically falls
-          between $5,000&ndash;$9,000, and EBITDA margins of 20&ndash;30%
+          between $5,000-$9,000, and EBITDA margins of 20-30%
           are achievable when cremation services are properly priced.
         </p>
 
@@ -125,9 +125,9 @@ export default function AcquiringFuneralHomeArticle() {
         <p>
           An emerging adjacency that many operators overlook. US households
           spend over $2 billion annually on pet end-of-life services, growing
-          at 8&ndash;10% per year. Pet cremation can utilize excess crematory
+          at 8-10% per year. Pet cremation can utilize excess crematory
           capacity during off-peak hours, with EBITDA margins of
-          40&ndash;60%.
+          40-60%.
         </p>
 
         <h2 className={h2Class}>Due diligence: what makes funeral homes unique</h2>
@@ -156,7 +156,7 @@ export default function AcquiringFuneralHomeArticle() {
           Verify that all pre-need trust accounts are fully funded per state
           requirements, that trust investments are appropriate and liquid,
           and that the trust administrator is reputable. Underfunded trusts
-          are a material hidden liability &mdash; you will be obligated to
+          are a material hidden liability, you will be obligated to
           deliver services at the contracted price even if trust funds are
           insufficient. Review at least three years of trust statements and
           reconcile balances to outstanding contract obligations.
@@ -179,7 +179,7 @@ export default function AcquiringFuneralHomeArticle() {
         <p>
           Funeral homes with crematories must comply with EPA and state air
           quality regulations under the Clean Air Act. Embalming chemicals
-          &mdash; particularly formaldehyde &mdash; are regulated hazardous
+         , particularly formaldehyde, are regulated hazardous
           materials requiring proper handling and disposal. Commission a
           Phase I Environmental Site Assessment for any property with a
           crematory or long operating history. Remediation costs can be
@@ -192,7 +192,7 @@ export default function AcquiringFuneralHomeArticle() {
           Funeral service is a licensed profession in every state. The
           acquiring entity must hold a valid funeral director&rsquo;s license
           (or employ a licensed manager), and the establishment itself must
-          be licensed by the state board. Requirements vary &mdash; some
+          be licensed by the state board. Requirements vary, some
           states require owner licensure, others allow non-licensed ownership
           with a licensed manager. Before signing a letter of intent, confirm
           that your planned ownership structure is permissible and that
@@ -201,7 +201,7 @@ export default function AcquiringFuneralHomeArticle() {
 
         <h3 className={h3Class}>Call volume trends</h3>
         <p>
-          Call volume &mdash; the number of families served per year &mdash;
+          Call volume, the number of families served per year , 
           is the single most important metric. Request at least five years
           of data broken down by service type (traditional burial, cremation
           with service, direct cremation). Declining call volume is the most
@@ -221,13 +221,13 @@ export default function AcquiringFuneralHomeArticle() {
 
         <h3 className={h3Class}>EBITDA multiples</h3>
         <p>
-          Independent funeral homes typically trade at 4&ndash;7x adjusted
+          Independent funeral homes typically trade at 4-7x adjusted
           EBITDA. Homes handling fewer than 150 calls per year in rural
-          markets trade at 4&ndash;5x, while high-volume operations (300+
-          calls) in growing metropolitan areas command 6&ndash;7x or higher.
+          markets trade at 4-5x, while high-volume operations (300+
+          calls) in growing metropolitan areas command 6-7x or higher.
           On-site crematories, strong pre-need backlogs, and owned real
           estate push multiples higher. Corporate acquirers like SCI pay
-          7&ndash;10x for strategic acquisitions, creating a clear exit
+          7-10x for strategic acquisitions, creating a clear exit
           premium for platform builders.
         </p>
 
@@ -235,7 +235,7 @@ export default function AcquiringFuneralHomeArticle() {
         <p>
           An industry-specific methodology that values the business based on
           annual call volume. Typical per-call valuations range from
-          $3,000&ndash;$8,000 per call. A funeral home handling 200 calls at
+          $3,000-$8,000 per call. A funeral home handling 200 calls at
           $5,000 per call would be valued at $1 million on this basis. This
           method is useful for comparing homes with different service mixes
           and serves as a sanity check against EBITDA-based valuations.
@@ -246,7 +246,7 @@ export default function AcquiringFuneralHomeArticle() {
           <li>
             <strong>Owner compensation:</strong> Normalize to market-rate
             compensation for a managing funeral director
-            ($80,000&ndash;$130,000 depending on market).
+            ($80,000-$130,000 depending on market).
           </li>
           <li>
             <strong>Pre-need trust income:</strong> Trust investment income
@@ -280,7 +280,7 @@ export default function AcquiringFuneralHomeArticle() {
           Pre-need sales are the highest-impact growth lever for most funeral
           home acquisitions. Many independent operators have no structured
           pre-need program. Implementing a proactive program with a dedicated
-          counselor can increase contract volume by 50&ndash;200% within two
+          counselor can increase contract volume by 50-200% within two
           years. Each contract locks in future revenue at today&rsquo;s
           prices, reduces future marketing costs, and provides immediate
           cash flow if insurance-funded pre-need products are used.
@@ -288,22 +288,22 @@ export default function AcquiringFuneralHomeArticle() {
 
         <h3 className={h3Class}>Cremation services expansion</h3>
         <p>
-          The cremation trend is not a threat &mdash; it is an opportunity.
+          The cremation trend is not a threat, it is an opportunity.
           Progressive operators develop packages that include memorial
           services, celebration of life events, keepsake urns, cremation
           jewelry, and scattering services. These packages increase revenue
-          per cremation case from $2,000&ndash;$3,000 (direct cremation) to
-          $5,000&ndash;$8,000 (full-service cremation with memorial). If
+          per cremation case from $2,000-$3,000 (direct cremation) to
+          $5,000-$8,000 (full-service cremation with memorial). If
           the acquired home lacks an on-site crematory, evaluate installing
-          one &mdash; ownership provides margin improvement of
-          $500&ndash;$1,500 per case and faster service delivery.
+          one, ownership provides margin improvement of
+          $500-$1,500 per case and faster service delivery.
         </p>
 
         <h3 className={h3Class}>Memorial products and merchandise</h3>
         <p>
-          Funeral merchandise &mdash; caskets, urns, vaults, keepsakes,
-          flowers, and printed materials &mdash; typically represents
-          25&ndash;40% of revenue with gross margins of 50&ndash;70%.
+          Funeral merchandise, caskets, urns, vaults, keepsakes,
+          flowers, and printed materials, typically represents
+          25-40% of revenue with gross margins of 50-70%.
           Upgrading the showroom, offering online catalogs, introducing
           personalization options, and expanding the keepsake product line
           can meaningfully increase average revenue per call. This aligns
@@ -319,16 +319,16 @@ export default function AcquiringFuneralHomeArticle() {
           partnerships, live-streamed services, multimedia tribute
           presentations, themed celebrations, and reception hosting. This
           repositioning increases average revenue per service by
-          $1,000&ndash;$3,000 while attracting families who might otherwise
-          choose no formal service. The investment is modest &mdash; facility
+          $1,000-$3,000 while attracting families who might otherwise
+          choose no formal service. The investment is modest, facility
           upgrades for reception capability, AV equipment, and staff
           training in event planning.
         </p>
 
         <h3 className={h3Class}>Aftercare and digital transformation</h3>
         <p>
-          Structured aftercare programs &mdash; bereavement resources,
-          anniversary acknowledgments, holiday remembrance events &mdash;
+          Structured aftercare programs, bereavement resources,
+          anniversary acknowledgments, holiday remembrance events , 
           maintain family relationships, generate referrals, and create
           pre-need conversation opportunities with surviving family members.
           On the digital side, many independent funeral homes have severely
@@ -354,27 +354,27 @@ export default function AcquiringFuneralHomeArticle() {
           </li>
           <li>
             <strong>Tuck-in acquisitions:</strong> Target smaller homes
-            (75&ndash;150 calls) within a 30&ndash;60 minute drive. These
-            often sell at 3&ndash;5x EBITDA, with owners motivated by
+            (75-150 calls) within a 30-60 minute drive. These
+            often sell at 3-5x EBITDA, with owners motivated by
             retirement or inability to invest in facility upgrades.
           </li>
           <li>
             <strong>Centralized operations:</strong> Consolidate embalming
             at the platform location, centralize administrative functions,
             and implement unified technology. Each satellite maintains its
-            name and community presence &mdash; families choose based on
+            name and community presence, families choose based on
             local reputation, not corporate branding.
           </li>
           <li>
             <strong>Margin expansion:</strong> A three-location cluster with
-            500+ combined calls can achieve EBITDA margins 5&ndash;10
+            500+ combined calls can achieve EBITDA margins 5-10
             percentage points higher through shared preparation staff,
             consolidated purchasing, and shared on-call rotation.
           </li>
           <li>
             <strong>Exit positioning:</strong> Multi-location platforms with
             $2M+ EBITDA attract corporate acquirers and private equity at
-            8&ndash;12x EBITDA &mdash; well above the 4&ndash;7x entry
+            8-12x EBITDA, well above the 4-7x entry
             multiple for individual homes.
           </li>
         </ol>
@@ -391,7 +391,7 @@ export default function AcquiringFuneralHomeArticle() {
           <li>
             <strong>Key person risk:</strong> The owner-operator is often
             the face of the business and the primary community relationship
-            holder. Structure a 12&ndash;24 month transition, introduce the
+            holder. Structure a 12-24 month transition, introduce the
             new owner to community partners and clergy early, and retain
             key staff who have their own community relationships.
           </li>
@@ -403,7 +403,7 @@ export default function AcquiringFuneralHomeArticle() {
           </li>
           <li>
             <strong>Facility obsolescence:</strong> Facilities built in the
-            1960s&ndash;1980s may not meet modern expectations or ADA
+            1960s-1980s may not meet modern expectations or ADA
             requirements. Budget for modernization and evaluate whether
             phased renovation or a new build is more cost-effective.
           </li>
@@ -430,7 +430,7 @@ export default function AcquiringFuneralHomeArticle() {
           multiples. The keys to success are respecting the deeply personal
           nature of the service, investing in community relationships,
           building a pre-need sales engine, and executing tuck-in
-          acquisitions with discipline &mdash; principles that align
+          acquisitions with discipline, principles that align
           perfectly with the searcher&rsquo;s operational toolkit across
           any{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">people-driven service business</Link>.
@@ -460,14 +460,14 @@ export default function AcquiringFuneralHomeArticle() {
           The US cremation rate has surged from 27% in 2001 to over 60% today
           and is projected to reach 80% by 2040 in many markets, according to
           the National Funeral Directors Association (NFDA). While direct
-          cremation revenue per case ($2,000&ndash;$3,000) is lower than
-          traditional burial ($7,000&ndash;$12,000), progressive operators
-          develop full-service cremation packages &mdash; memorial services,
+          cremation revenue per case ($2,000-$3,000) is lower than
+          traditional burial ($7,000-$12,000), progressive operators
+          develop full-service cremation packages, memorial services,
           celebration of life events, keepsake urns, and scattering services
-          &mdash; that increase revenue per cremation case to
-          $5,000&ndash;$8,000. Funeral homes that embrace cremation as an
+          that increase revenue per cremation case to
+          $5,000-$8,000. Funeral homes that embrace cremation as an
           opportunity rather than a threat can maintain strong blended revenue
-          per call of $5,000&ndash;$9,000 with EBITDA margins of 20&ndash;30%.
+          per call of $5,000-$9,000 with EBITDA margins of 20-30%.
         </p>
 
         <h3 className={h3Class}>What makes pre-need contracts so valuable in funeral home acquisitions?</h3>
@@ -488,13 +488,13 @@ export default function AcquiringFuneralHomeArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <strong>National Funeral Directors Association (NFDA)</strong> &mdash; &ldquo;Cremation &amp; Burial Report: Research, Statistics, and Projections,&rdquo; 2024.
+            <strong>National Funeral Directors Association (NFDA)</strong>: &ldquo;Cremation &amp; Burial Report: Research, Statistics, and Projections,&rdquo; 2024.
           </li>
           <li>
-            <strong>IBISWorld</strong> &mdash; &ldquo;Funeral Homes &amp; Funeral Services Industry in the US,&rdquo; 2024.
+            <strong>IBISWorld</strong>: &ldquo;Funeral Homes &amp; Funeral Services Industry in the US,&rdquo; 2024.
           </li>
           <li>
-            <strong>Federal Trade Commission</strong> &mdash; &ldquo;The FTC Funeral Rule: Compliance Guide for Funeral Industry Professionals,&rdquo; 2024.
+            <strong>Federal Trade Commission</strong>: &ldquo;The FTC Funeral Rule: Compliance Guide for Funeral Industry Professionals,&rdquo; 2024.
           </li>
         </ul>
       </div>

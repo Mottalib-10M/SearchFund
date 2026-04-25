@@ -9,7 +9,7 @@ export default function ETANordicsArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Nordic countries&mdash;Sweden, Denmark, Norway, and Finland&mdash;offer
+          The Nordic countries, Sweden, Denmark, Norway, and Finland, offer
           a distinctive and highly attractive environment for <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Entrepreneurship
           Through Acquisition in Europe</Link>. Characterized by high-trust business cultures,
           exceptional SME quality, transparent regulatory frameworks, and near-universal
@@ -28,8 +28,8 @@ export default function ETANordicsArticle() {
           of roughly 27 million people.
           Despite their relatively small populations, each country has a dense
           fabric of high-quality SMEs, many of which are globally competitive
-          in niche markets. The Nordic model&mdash;combining free-market
-          economics with strong social safety nets&mdash;has produced
+          in niche markets. The Nordic model, combining free-market
+          economics with strong social safety nets, has produced
           businesses that tend to be well-managed, profitable, and resilient.
         </p>
 
@@ -257,7 +257,7 @@ export default function ETANordicsArticle() {
           <li><strong>Revenue:</strong> &euro;2 million to &euro;15 million annual turnover.</li>
           <li><strong>EBITDA:</strong> &euro;500,000 to &euro;2.5 million.</li>
           <li><strong>Valuation multiples:</strong> 5x to 8x EBITDA, reflecting the premium quality of Nordic businesses. Multiples at the lower end are found in traditional industries, while technology-enabled services and recurring-revenue businesses command higher valuations.</li>
-          <li><strong>Financing structure:</strong> Typical deals involve 50&ndash;60% senior debt, 10&ndash;20% seller financing or government-backed subordinated debt, and 25&ndash;35% equity from search fund investors.</li>
+          <li><strong>Financing structure:</strong> Typical deals involve 50-60% senior debt, 10-20% seller financing or government-backed subordinated debt, and 25-35% equity from search fund investors.</li>
         </ul>
 
         <h2 className={h2Class}>Key ecosystems and investors</h2>
@@ -278,7 +278,7 @@ export default function ETANordicsArticle() {
           <li><strong>Cost of living:</strong> The Nordic countries have among the highest costs of living in Europe. Search fund budgets should account for higher salaries, office costs, and travel expenses.</li>
           <li><strong>Labor regulations:</strong> While generally business-friendly, Nordic labor laws provide strong employee protections. Collective bargaining agreements are widespread and must be respected post-acquisition.</li>
           <li><strong>Seasonal patterns:</strong> Nordic business culture features extended summer holidays (particularly in July) and a slower pace around Christmas. Deal timelines should account for these seasonal patterns.</li>
-          <li><strong>Tax considerations:</strong> Corporate tax rates are competitive (20&ndash;22% across the Nordics), but personal income tax rates are high. Structuring compensation and incentive packages requires careful tax planning.</li>
+          <li><strong>Tax considerations:</strong> Corporate tax rates are competitive (20-22% across the Nordics), but personal income tax rates are high. Structuring compensation and incentive packages requires careful tax planning.</li>
           <li><strong>Cross-border potential:</strong> The cultural and economic similarities between Nordic countries create opportunities for cross-border platform strategies, acquiring in one country and expanding into neighboring markets. Our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> covers proven approaches for finding targets across borders.</li>
         </ul>
 
@@ -286,7 +286,7 @@ export default function ETANordicsArticle() {
 
         <h3 className={h3Class}>How many Nordic businesses need succession solutions in the coming decade?</h3>
         <p>
-          According to Svenskt N&auml;ringsliv (the Confederation of Swedish Enterprise), approximately 40% of Swedish business owners are over 55 years old, translating to roughly 250,000 businesses that will need ownership transitions by 2035. Dansk Industri estimates that 20,000&ndash;25,000 Danish SMEs face similar succession challenges. In Finland, Finnvera&apos;s annual survey reports that approximately 30,000 Finnish businesses will undergo generational transfers in the next decade. Norway&apos;s NHO (Confederation of Norwegian Enterprise) identifies comparable dynamics across approximately 40,000 businesses. In total, an estimated 340,000&ndash;350,000 Nordic SMEs will need new ownership over the next ten years, creating deep deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused search fund</Link> entrepreneurs operating in the region.
+          According to Svenskt N&auml;ringsliv (the Confederation of Swedish Enterprise), approximately 40% of Swedish business owners are over 55 years old, translating to roughly 250,000 businesses that will need ownership transitions by 2035. Dansk Industri estimates that 20,000-25,000 Danish SMEs face similar succession challenges. In Finland, Finnvera&apos;s annual survey reports that approximately 30,000 Finnish businesses will undergo generational transfers in the next decade. Norway&apos;s NHO (Confederation of Norwegian Enterprise) identifies comparable dynamics across approximately 40,000 businesses. In total, an estimated 340,000-350,000 Nordic SMEs will need new ownership over the next ten years, creating deep deal flow for <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">succession-focused search fund</Link> entrepreneurs operating in the region.
         </p>
 
         <h3 className={h3Class}>Are Nordic EBITDA multiples too high for search fund economics to work?</h3>

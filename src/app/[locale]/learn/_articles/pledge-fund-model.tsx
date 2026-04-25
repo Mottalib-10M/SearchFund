@@ -14,7 +14,7 @@ export default function PledgeFundModelArticle() {
           A pledge fund lets an acquisition entrepreneur secure committed
           investor backing without locking anyone&rsquo;s capital into a blind
           pool. Investors sign commitment letters pledging a defined amount
-          &mdash; typically $250K&ndash;$2M each &mdash; but money changes
+         , typically $250K-$2M each, but money changes
           hands only after the searcher identifies a specific company to buy
           and the investor group approves the deal. The result is a structure
           that sits between a{" "}
@@ -29,7 +29,7 @@ export default function PledgeFundModelArticle() {
           since 1984. With that growth, the pledge fund variant has gained
           traction among searchers who want committed backing, larger deal
           capacity, and the flexibility to target acquisitions above the
-          typical $10M&ndash;$20M traditional range. This guide explains
+          typical $10M-$20M traditional range. This guide explains
           exactly how the model works, what it costs, when it makes sense,
           and where it can go wrong.
         </p>
@@ -39,8 +39,8 @@ export default function PledgeFundModelArticle() {
           What Is a Pledge Fund and Why Does It Exist?
         </h2>
         <p>
-          A pledge fund &mdash; sometimes called a &ldquo;fundless
-          sponsor&rdquo; or &ldquo;non-committed fund&rdquo; &mdash; is a
+          A pledge fund, sometimes called a &ldquo;fundless
+          sponsor&rdquo; or &ldquo;non-committed fund&rdquo;, is a
           collective investment vehicle in which limited partners (LPs)
           provide a soft or conditional commitment of capital before any
           target company has been identified. Unlike a traditional search
@@ -58,8 +58,8 @@ export default function PledgeFundModelArticle() {
           deal-by-deal structures that offered greater transparency. In the
           ETA (entrepreneurship through acquisition) ecosystem, the pledge
           fund fills a specific gap: it gives the searcher a named roster of
-          committed backers &mdash; which sellers and brokers find more
-          credible than an unfunded letter of intent &mdash; while letting
+          committed backers, which sellers and brokers find more
+          credible than an unfunded letter of intent, while letting
           investors evaluate the actual business before writing a check.
         </p>
 
@@ -75,15 +75,15 @@ export default function PledgeFundModelArticle() {
         <ol className={olClass}>
           <li>
             <strong>Fund formation and commitment letters.</strong>{" "}
-            The searcher identifies 8&ndash;20 prospective investors &mdash;
+            The searcher identifies 8-20 prospective investors , 
             often{" "}
             <Link href="/learn/family-offices-search-funds" className="text-apple-accent hover:underline">
               family offices
             </Link>,{" "}
-            experienced search fund LPs, or high-net-worth individuals &mdash;
+            experienced search fund LPs, or high-net-worth individuals , 
             and negotiates commitment letters. Each letter specifies the
-            pledged dollar amount (commonly $250K&ndash;$2M per LP), the
-            commitment period (typically 2&ndash;3 years), and the conditions
+            pledged dollar amount (commonly $250K-$2M per LP), the
+            commitment period (typically 2-3 years), and the conditions
             under which capital will be called. Total aggregate commitments
             often range from $5M to $30M or more, depending on the target
             deal size.
@@ -92,9 +92,9 @@ export default function PledgeFundModelArticle() {
             <strong>Search-phase funding.</strong>{" "}
             Because there is no blind-pool capital to draw from, the
             searcher either self-funds the search phase or raises a small
-            expense pool of $100K&ndash;$300K from a subset of pledge
+            expense pool of $100K-$300K from a subset of pledge
             investors. This covers salary, travel, legal fees, and deal
-            sourcing for 18&ndash;24 months. Self-funding the search is
+            sourcing for 18-24 months. Self-funding the search is
             common among experienced operators who already have deal-flow
             networks in place.
           </li>
@@ -103,7 +103,7 @@ export default function PledgeFundModelArticle() {
             The searcher identifies acquisition targets, conducts
             preliminary diligence, and negotiates a letter of intent (LOI)
             with the seller. During this phase, the pledge fund structure
-            has no material impact &mdash; the process is identical to any
+            has no material impact, the process is identical to any
             other ETA model.
           </li>
           <li>
@@ -115,13 +115,13 @@ export default function PledgeFundModelArticle() {
             <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">
               term sheet
             </Link>{" "}
-            economics. Each LP then has a decision window &mdash; typically
-            10&ndash;30 business days &mdash; to opt in or opt out.
+            economics. Each LP then has a decision window, typically
+            10-30 business days, to opt in or opt out.
           </li>
           <li>
             <strong>Capital call and closing.</strong>{" "}
             Investors who opt in submit binding commitment notices and fund
-            their share within 5&ndash;10 business days. The capital flows
+            their share within 5-10 business days. The capital flows
             into a special purpose vehicle (SPV) that consummates the
             acquisition. If total opt-in commitments exceed the equity
             needed, allocations may be prorated; if they fall short, the
@@ -132,14 +132,14 @@ export default function PledgeFundModelArticle() {
             <strong>Operations and value creation.</strong>{" "}
             Post-acquisition, the searcher assumes the CEO role and operates
             the company with the same governance framework as any other
-            search fund &mdash; regular board meetings, investor updates,
+            search fund, regular board meetings, investor updates,
             and milestone tracking.
           </li>
           <li>
             <strong>Exit and distribution.</strong>{" "}
             Upon exit, proceeds flow through the waterfall defined in the
             deal-specific operating agreement: return of capital first,
-            then a preferred return (typically 8%&ndash;10% annually),
+            then a preferred return (typically 8%-10% annually),
             then a catch-up provision, and finally carried interest split
             between LP and GP.
           </li>
@@ -150,14 +150,14 @@ export default function PledgeFundModelArticle() {
           Pledge Fund vs. Traditional Search Fund: A Direct Comparison
         </h2>
         <p>
-          The distinction is not merely legal &mdash; it changes incentives,
+          The distinction is not merely legal, it changes incentives,
           deal speed, and investor behavior at every stage. The table below
           maps the core differences.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Capital deployment.</strong>{" "}
-            In a traditional fund, investors wire $400K&ndash;$600K of search
+            In a traditional fund, investors wire $400K-$600K of search
             capital upfront (median $500K according to the 2024 Stanford
             study) and pre-commit to fund the acquisition at the
             searcher&rsquo;s discretion. In a pledge fund, no capital is
@@ -167,7 +167,7 @@ export default function PledgeFundModelArticle() {
             <strong>Investor control.</strong>{" "}
             Traditional investors delegate acquisition authority to the
             searcher (subject to board governance). Pledge investors retain
-            individual veto power &mdash; they can decline any transaction
+            individual veto power, they can decline any transaction
             even if it meets the original investment criteria.
           </li>
           <li>
@@ -183,7 +183,7 @@ export default function PledgeFundModelArticle() {
           </li>
           <li>
             <strong>Searcher equity.</strong>{" "}
-            Both models target 20%&ndash;30% founder equity, though pledge
+            Both models target 20%-30% founder equity, though pledge
             fund searchers sometimes negotiate the higher end because they
             absorb more deal-execution risk. Equity is typically earned
             through vesting and performance milestones rather than a
@@ -192,24 +192,24 @@ export default function PledgeFundModelArticle() {
           <li>
             <strong>Speed to close.</strong>{" "}
             Traditional funds hold committed capital and can close an
-            acquisition in 60&ndash;90 days from LOI. Pledge funds add a
-            4&ndash;8 week syndication layer for each deal as investors
+            acquisition in 60-90 days from LOI. Pledge funds add a
+            4-8 week syndication layer for each deal as investors
             review the opportunity and fund their capital calls. In
             competitive processes, this latency can be disqualifying.
           </li>
           <li>
             <strong>Deal-size range.</strong>{" "}
             Traditional funds usually target enterprise values of
-            $5M&ndash;$20M (median purchase price $14.4M per the 2024
+            $5M-$20M (median purchase price $14.4M per the 2024
             Stanford data). Pledge funds can aggregate larger capital pools
-            &mdash; $10M&ndash;$30M or more in equity &mdash; because
+           , $10M-$30M or more in equity, because
             investors are more comfortable pledging larger amounts when they
             retain deal-by-deal approval.
           </li>
           <li>
             <strong>Cost to the investor on a failed search.</strong>{" "}
             Traditional investors lose their search capital (typically
-            $25K&ndash;$50K per unit) if no acquisition is completed &mdash;
+            $25K-$50K per unit) if no acquisition is completed , 
             roughly 25% of searches end without a deal. Pledge fund investors
             have zero capital at risk during the search phase.
           </li>
@@ -231,14 +231,14 @@ export default function PledgeFundModelArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Number of investors:</strong>{" "}
-            8&ndash;20 individuals or family offices. Fewer than eight
+            8-20 individuals or family offices. Fewer than eight
             concentrates funding risk; more than twenty creates
             administrative complexity that erodes the model&rsquo;s
             simplicity advantage.
           </li>
           <li>
             <strong>Individual pledge size:</strong>{" "}
-            $250K&ndash;$2M per LP, with a common sweet spot of $500K.
+            $250K-$2M per LP, with a common sweet spot of $500K.
             Larger pledges come from family offices and institutional
             allocators; smaller ones from individual accredited investors
             ($200K+ annual income or $1M+ net worth per SEC Regulation D
@@ -246,30 +246,30 @@ export default function PledgeFundModelArticle() {
           </li>
           <li>
             <strong>Aggregate committed capital:</strong>{" "}
-            $5M&ndash;$30M+, calibrated to the target enterprise value
-            range. A fund targeting $15M&ndash;$25M acquisitions with
-            50%&ndash;60% use needs $6M&ndash;$10M in equity
+            $5M-$30M+, calibrated to the target enterprise value
+            range. A fund targeting $15M-$25M acquisitions with
+            50%-60% use needs $6M-$10M in equity
             commitments.
           </li>
           <li>
             <strong>Commitment period:</strong>{" "}
-            2&ndash;3 years from the date of the commitment letter.
-            Extensions of 6&ndash;12 months are sometimes negotiated if
+            2-3 years from the date of the commitment letter.
+            Extensions of 6-12 months are sometimes negotiated if
             the searcher is in active diligence on a specific target.
           </li>
           <li>
             <strong>Management fees:</strong>{" "}
             Lower than traditional PE funds because no large pool of
             uninvested capital exists. Common structures include a modest
-            annual fee of 1%&ndash;2% on deployed capital, or a one-time
-            transaction fee of 1%&ndash;2% at closing. Some pledge funds
+            annual fee of 1%-2% on deployed capital, or a one-time
+            transaction fee of 1%-2% at closing. Some pledge funds
             charge no ongoing fee at all, relying entirely on carried
             interest for GP compensation.
           </li>
           <li>
             <strong>Carried interest:</strong>{" "}
             Typically 20% of profits above a preferred return hurdle of
-            8%&ndash;10% annually (sometimes expressed as an IRR gate).
+            8%-10% annually (sometimes expressed as an IRR gate).
             Critically, carry is calculated on a deal-by-deal basis rather
             than across a blended portfolio, which means the GP can realize
             profits faster but also faces clawback provisions if aggregate
@@ -277,8 +277,8 @@ export default function PledgeFundModelArticle() {
           </li>
           <li>
             <strong>Searcher equity:</strong>{" "}
-            20%&ndash;30% of the acquired company, earned through a
-            combination of time-based vesting (typically 4&ndash;5 years)
+            20%-30% of the acquired company, earned through a
+            combination of time-based vesting (typically 4-5 years)
             and performance milestones tied to EBITDA growth or return
             thresholds.
           </li>
@@ -315,12 +315,12 @@ export default function PledgeFundModelArticle() {
             <strong>You have prior deal experience.</strong>{" "}
             Pledge fund investors are backing a person, not a pool.
             Searchers with backgrounds in private equity, investment
-            banking, or operating roles &mdash; or those who have
+            banking, or operating roles, or those who have
             previously completed a{" "}
             <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
               traditional or self-funded search
             </Link>{" "}
-            &mdash; can credibly assemble a pledge roster. First-time
+            can credibly assemble a pledge roster. First-time
             searchers with no transaction experience will struggle to
             convince LPs that soft commitments will convert to real dollars
             when it matters.
@@ -328,7 +328,7 @@ export default function PledgeFundModelArticle() {
           <li>
             <strong>You are targeting larger deals.</strong>{" "}
             If your acquisition criteria point to companies with enterprise
-            values of $15M&ndash;$50M, you likely need $6M&ndash;$20M in
+            values of $15M-$50M, you likely need $6M-$20M in
             equity. Traditional search funds rarely aggregate that much
             capital because the blind-pool model caps investor appetite.
             Pledge funds can, precisely because each LP evaluates the
@@ -344,8 +344,8 @@ export default function PledgeFundModelArticle() {
           </li>
           <li>
             <strong>You are searching in a narrow sector.</strong>{" "}
-            Industry-specific searches &mdash; healthcare IT, niche
-            manufacturing, specialty distribution &mdash; attract investors
+            Industry-specific searches, healthcare IT, niche
+            manufacturing, specialty distribution, attract investors
             who want exposure to a particular vertical but only if the right
             asset surfaces. Pledge funds let them wait for the right fit
             rather than committing to a generalist mandate.
@@ -383,7 +383,7 @@ export default function PledgeFundModelArticle() {
             conditional, not absolute, a pledge fund can reach the
             closing table and discover that too few investors have opted in.
             If aggregate opt-in capital falls short of the equity required,
-            the searcher must scramble to fill the gap &mdash; either by
+            the searcher must scramble to fill the gap, either by
             recruiting new investors under deal-day time pressure, accepting
             less favorable terms from a mezzanine lender, or walking away
             from the deal entirely. According to Axial, &ldquo;there are no
@@ -408,22 +408,22 @@ export default function PledgeFundModelArticle() {
             commitments of $12M&rdquo; is not the same as &ldquo;we have
             $12M in escrow.&rdquo; Searchers can mitigate this with strong
             commitment letters, named investor references, and proof of
-            prior closed deals &mdash; but the perception gap remains,
+            prior closed deals, but the perception gap remains,
             especially in competitive processes.
           </li>
           <li>
             <strong>Speed disadvantage.</strong>{" "}
-            The 4&ndash;8 week investor-review period after LOI creates a
+            The 4-8 week investor-review period after LOI creates a
             structural latency that PE firms with committed capital do not
             face. In auctions or processes with multiple bidders, this
-            delay can be disqualifying. Sellers with urgency &mdash;
-            health issues, partner disputes, regulatory deadlines &mdash;
+            delay can be disqualifying. Sellers with urgency , 
+            health issues, partner disputes, regulatory deadlines , 
             will often choose a slower price over a faster close, but not
             always.
           </li>
           <li>
             <strong>Administrative complexity.</strong>{" "}
-            Managing 10&ndash;20 LP relationships, each with individual
+            Managing 10-20 LP relationships, each with individual
             preferences, side letters, and opt-in decisions, requires
             significantly more operational overhead than a pooled fund.
             Deal-by-deal waterfall calculations, separate K-1 filings per
@@ -447,8 +447,8 @@ export default function PledgeFundModelArticle() {
           What the Data Says: Pledge Fund Outcomes vs. Traditional
         </h2>
         <p>
-          The 2024 Stanford GSB Search Fund Study &mdash; the most
-          thorough longitudinal dataset in ETA &mdash; tracks 681
+          The 2024 Stanford GSB Search Fund Study, the most
+          thorough longitudinal dataset in ETA, tracks 681
           search funds formed in the United States and Canada since 1984.
           While the study does not publish a separate return series for
           pledge funds, the aggregate data provides a useful benchmark
@@ -462,13 +462,13 @@ export default function PledgeFundModelArticle() {
           </li>
           <li>
             <strong>IRR for exited companies:</strong>{" "}
-            42.9%, driven by several high-return exits in 2022&ndash;2023.
+            42.9%, driven by several high-return exits in 2022-2023.
           </li>
           <li>
             <strong>Return distribution (n = 296 acquired companies):</strong>{" "}
-            8% achieved 10x+ ROIC, 17.5% returned 5x&ndash;10x, 25%
-            returned 2x&ndash;5x (the largest cohort), 18.5% returned
-            1x&ndash;2x, 20.5% experienced a partial loss, and 10.5%
+            8% achieved 10x+ ROIC, 17.5% returned 5x-10x, 25%
+            returned 2x-5x (the largest cohort), 18.5% returned
+            1x-2x, 20.5% experienced a partial loss, and 10.5%
             resulted in a total loss. For a deeper dive into these numbers,
             see our analysis of{" "}
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
@@ -489,14 +489,14 @@ export default function PledgeFundModelArticle() {
         <p>
           Pledge funds, because they typically target larger deals and
           attract more experienced searchers, are generally expected by
-          practitioners to produce IRRs in the 20%&ndash;35% range &mdash;
+          practitioners to produce IRRs in the 20%-35% range , 
           slightly below the traditional search fund average but with a
           tighter distribution (fewer total losses, fewer 10x outliers).
           The reasoning: larger companies carry less single-point-of-failure
           risk than the $2M EBITDA businesses that dominate traditional
           search, but they also offer less asymmetric upside because the
           purchase price already reflects a more competitive market.
-          Deal-by-deal carry at 20% above an 8%&ndash;10% hurdle means LPs
+          Deal-by-deal carry at 20% above an 8%-10% hurdle means LPs
           capture a larger share of moderate gains compared to traditional
           fund structures where the 1.5x step-up dilutes investor returns
           on the first dollars in.
@@ -511,8 +511,8 @@ export default function PledgeFundModelArticle() {
           How does capital-call risk differ from deal-sourcing risk?
         </h3>
         <p>
-          Deal-sourcing risk &mdash; the possibility that the searcher
-          never finds a suitable acquisition &mdash; is common to every
+          Deal-sourcing risk, the possibility that the searcher
+          never finds a suitable acquisition, is common to every
           ETA model. Capital-call risk is unique to pledge funds: the
           searcher finds the deal, signs the LOI, and then discovers that
           not enough LPs opt in to fund the equity requirement. This can
@@ -520,15 +520,15 @@ export default function PledgeFundModelArticle() {
           individual LPs may face their own liquidity constraints,
           portfolio-concentration limits, or disagreements on valuation.
           The mitigation strategy is to maintain aggregate pledged capital
-          at 1.5x&ndash;2x the anticipated equity need so that even a
-          30%&ndash;40% opt-out rate still covers the check.
+          at 1.5x-2x the anticipated equity need so that even a
+          30%-40% opt-out rate still covers the check.
         </p>
 
         <h3 className={h3Class}>
           Can I convert a pledge fund into a traditional search fund?
         </h3>
         <p>
-          In principle, yes &mdash; if your pledge investors are willing
+          In principle, yes, if your pledge investors are willing
           to convert their conditional commitments into a blind-pool
           structure with upfront search capital. In practice, this rarely
           happens. The investors who chose the pledge model specifically
@@ -545,7 +545,7 @@ export default function PledgeFundModelArticle() {
         <p>
           Partnership agreements typically include escalating default
           remedies: punitive interest on the unfunded amount (often
-          SOFR + 8%&ndash;12%), withheld distributions from other
+          SOFR + 8%-12%), withheld distributions from other
           investments the LP participates in, a forced sale of the
           LP&rsquo;s interest at a steep discount (commonly 50% or more
           below fair market value), and in extreme cases, complete
@@ -564,11 +564,11 @@ export default function PledgeFundModelArticle() {
         <p>
           Traditional search funds charge no management fee during the
           search phase (investors pay search capital instead) and
-          typically do not charge carry on the acquisition itself &mdash;
+          typically do not charge carry on the acquisition itself , 
           the searcher&rsquo;s economics come from equity earned through
           the step-up mechanism. Pledge funds, by contrast, often charge
-          a 1%&ndash;2% management fee on deployed capital plus 20%
-          carried interest above an 8%&ndash;10% preferred return. On a
+          a 1%-2% management fee on deployed capital plus 20%
+          carried interest above an 8%-10% preferred return. On a
           net-to-LP basis, the pledge fund structure can be more expensive
           on moderate returns but cheaper on very high returns, because the
           traditional step-up dilutes investors more aggressively when the
@@ -584,9 +584,9 @@ export default function PledgeFundModelArticle() {
         <p>
           It depends on your investor network and deal-sourcing
           credibility. First-time searchers with strong professional
-          networks &mdash; former PE associates, management consultants
+          networks, former PE associates, management consultants
           with sector expertise, or operators with deep industry
-          relationships &mdash; can assemble a credible pledge roster.
+          relationships, can assemble a credible pledge roster.
           But the bar is higher than for a traditional search fund, where
           established{" "}
           <Link href="/learn/top-search-fund-investors" className="text-apple-accent hover:underline">
@@ -606,8 +606,8 @@ export default function PledgeFundModelArticle() {
           mid-market acquisitions with a curated investor base, it offers
           a compelling blend of committed backing, deal-level
           transparency, and structural flexibility. For everyone else,
-          understanding how pledge funds work &mdash; their mechanics,
-          their economics, and their risks &mdash; is essential context
+          understanding how pledge funds work, their mechanics,
+          their economics, and their risks, is essential context
           for choosing the right acquisition model and presenting yourself
           credibly to investors, sellers, and intermediaries.
         </p>

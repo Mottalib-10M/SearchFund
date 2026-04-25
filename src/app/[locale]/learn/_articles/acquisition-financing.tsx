@@ -11,8 +11,8 @@ export default function AcquisitionFinancingArticle() {
         <p>
           Financing is the engine that turns a signed LOI into a closed deal.
           Search fund acquisitions typically combine multiple sources of capital
-          &mdash; senior debt, mezzanine financing, seller notes, and equity
-          &mdash; into a capital stack that balances cost of capital, risk, and
+          senior debt, mezzanine financing, seller notes, and equity
+          into a capital stack that balances cost of capital, risk, and
           repayment capacity. The right financing approach works hand-in-hand with
           your{" "}
           <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">legal entity structure</Link>. Understanding each layer and how to negotiate it
@@ -61,7 +61,7 @@ export default function AcquisitionFinancingArticle() {
         <p>
           A{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller note</Link>{" "}
-          is deferred purchase price &mdash; the seller agrees to
+          is deferred purchase price, the seller agrees to
           receive a portion of the purchase price over time rather than all cash
           at closing. Seller notes are one of the most powerful tools in a
           search fund buyer&apos;s toolkit:
@@ -79,7 +79,7 @@ export default function AcquisitionFinancingArticle() {
           step-up) and new acquisition equity investors. In a traditional
           search fund, existing investors have the right of first refusal on
           the acquisition equity. The equity check is the most expensive layer
-          of the capital stack &mdash; investors expect 25-35% IRR &mdash; but
+          of the capital stack, investors expect 25-35% IRR, but
           it provides the cushion that makes lenders comfortable providing debt.
         </p>
 
@@ -130,7 +130,7 @@ export default function AcquisitionFinancingArticle() {
           include:
         </p>
         <ul className={ulClass}>
-          <li><strong>ERP-Gr&uuml;nderkredit &mdash; Universell:</strong> Loans up to &euro;25M for business acquisitions with subsidized interest rates and up to 2 years of repayment deferral.</li>
+          <li><strong>ERP-Gr&uuml;nderkredit, Universell:</strong> Loans up to &euro;25M for business acquisitions with subsidized interest rates and up to 2 years of repayment deferral.</li>
           <li><strong>ERP-Kapital f&uuml;r Gr&uuml;ndung:</strong> Subordinated loans (mezzanine equivalent) up to &euro;500K that count as equity for bank lending purposes. This is particularly valuable for searchers with limited personal capital.</li>
           <li><strong>Process:</strong> KfW loans are routed through your commercial bank (Hausbank principle). You apply through the bank, and KfW provides the funding and guarantee behind the scenes.</li>
         </ul>
@@ -148,7 +148,7 @@ export default function AcquisitionFinancingArticle() {
 
         <h2 className={h2Class}>Seller financing strategies</h2>
         <p>
-          Seller financing is not just a financial tool &mdash; it is a
+          Seller financing is not just a financial tool, it is a
           negotiation tool. Here are strategies for maximizing its effectiveness:
         </p>
         <ul className={ulClass}>
@@ -176,7 +176,7 @@ export default function AcquisitionFinancingArticle() {
         <h2 className={h2Class}>Working with banks</h2>
         <p>
           Building relationships with lenders is a critical skill for search
-          fund entrepreneurs. Start early &mdash; do not wait until you have a
+          fund entrepreneurs. Start early, do not wait until you have a
           signed LOI to introduce yourself to banks.
         </p>
         <ul className={ulClass}>
@@ -195,7 +195,7 @@ export default function AcquisitionFinancingArticle() {
         <ul className={ulClass}>
           <li><strong>Cash flow coverage:</strong> Demonstrate that the business generates sufficient cash flow to service the proposed debt with a comfortable margin. Lenders want to see a fixed charge coverage ratio of 1.25x or higher.</li>
           <li><strong>Adjusted EBITDA quality:</strong> Present a rigorous quality of earnings analysis based on a thorough{" "}
-            <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation</Link>. Lenders will scrutinize add-backs aggressively &mdash; only include adjustments you can defend with documentation.</li>
+            <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation</Link>. Lenders will scrutinize add-backs aggressively, only include adjustments you can defend with documentation.</li>
           <li><strong>Collateral value:</strong> Inventory the tangible assets available as collateral: real estate, equipment, inventory, receivables. Asset-heavy businesses are easier to finance.</li>
           <li><strong>Management transition plan:</strong> Lenders worry about the risk of a new, inexperienced owner running the business. Present a detailed transition plan showing how you will maintain continuity with employees, customers, and suppliers.</li>
           <li><strong>Downside scenarios:</strong> Show sensitivity analysis with revenue declines of 10-20%. If the business can still service debt in a downturn, lenders gain confidence. Never present only the upside case.</li>
@@ -216,26 +216,26 @@ export default function AcquisitionFinancingArticle() {
           Understand the programs available in your geography, build lender
           relationships, and model multiple capital structures for different deal
           sizes. When the right acquisition appears, you want to move quickly
-          &mdash; financing delays kill more deals than valuation disagreements.
+          financing delays kill more deals than valuation disagreements.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>
 
         <h3 className={h3Class}>How much equity do I need for a search fund acquisition?</h3>
         <p>
-          Equity requirements typically range from 30&ndash;50% of enterprise value in traditionally funded search fund deals, and as low as 10&ndash;20% for{" "}
+          Equity requirements typically range from 30-50% of enterprise value in traditionally funded search fund deals, and as low as 10-20% for{" "}
           <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a)-financed acquisitions</Link>.
-          According to Stanford GSB&rsquo;s 2024 Search Fund Study, the median equity check for a traditional search fund acquisition is approximately $5.3M, representing roughly 40% of enterprise value. Self-funded searchers using SBA loans can acquire businesses with as little as $500K&ndash;$750K in personal and investor equity on a $5M deal, making the SBA program the single most important tool for reducing equity requirements in US-based acquisitions.
+          According to Stanford GSB&rsquo;s 2024 Search Fund Study, the median equity check for a traditional search fund acquisition is approximately $5.3M, representing roughly 40% of enterprise value. Self-funded searchers using SBA loans can acquire businesses with as little as $500K-$750K in personal and investor equity on a $5M deal, making the SBA program the single most important tool for reducing equity requirements in US-based acquisitions.
         </p>
 
         <h3 className={h3Class}>Can I combine SBA loans with seller financing?</h3>
         <p>
-          Yes, and most experienced SBA lenders actively encourage it. According to the SBA&rsquo;s Standard Operating Procedures, seller notes are permitted as part of the capital stack and can count toward the buyer&rsquo;s equity injection under certain conditions. The key constraint is that most SBA lenders require the seller note to be on &ldquo;full standby&rdquo; for the first 24 months &mdash; meaning no principal or interest payments during that period. A typical SBA-financed deal might include 65&ndash;75% SBA debt, 10&ndash;15% seller note, and 10&ndash;20% buyer equity. This structure dramatically reduces out-of-pocket capital while providing sellers with tax-advantaged installment sale treatment.
+          Yes, and most experienced SBA lenders actively encourage it. According to the SBA&rsquo;s Standard Operating Procedures, seller notes are permitted as part of the capital stack and can count toward the buyer&rsquo;s equity injection under certain conditions. The key constraint is that most SBA lenders require the seller note to be on &ldquo;full standby&rdquo; for the first 24 months, meaning no principal or interest payments during that period. A typical SBA-financed deal might include 65-75% SBA debt, 10-15% seller note, and 10-20% buyer equity. This structure dramatically reduces out-of-pocket capital while providing sellers with tax-advantaged installment sale treatment.
         </p>
 
         <h3 className={h3Class}>What interest rates should I expect for acquisition financing in 2025?</h3>
         <p>
-          Interest rates vary significantly by capital source and geography. As of 2025, SBA 7(a) loans are priced at Prime + 2.25&ndash;2.75% (approximately 10&ndash;11% all-in). Conventional senior bank debt ranges from SOFR + 2&ndash;4% (approximately 7&ndash;9%). European government-backed programs like BPI France and KfW offer subsidized rates that can be 200&ndash;300 basis points below market. Mezzanine debt commands 12&ndash;18% total return, while seller notes are typically negotiated at 3&ndash;6%. According to the American Bankers Association, competition among community banks for acquisition lending has kept spreads stable despite base rate volatility, making this a reasonably favorable environment for borrowers with strong deal profiles.
+          Interest rates vary significantly by capital source and geography. As of 2025, SBA 7(a) loans are priced at Prime + 2.25-2.75% (approximately 10-11% all-in). Conventional senior bank debt ranges from SOFR + 2-4% (approximately 7-9%). European government-backed programs like BPI France and KfW offer subsidized rates that can be 200-300 basis points below market. Mezzanine debt commands 12-18% total return, while seller notes are typically negotiated at 3-6%. According to the American Bankers Association, competition among community banks for acquisition lending has kept spreads stable despite base rate volatility, making this a reasonably favorable environment for borrowers with strong deal profiles.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

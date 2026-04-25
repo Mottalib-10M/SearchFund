@@ -22,8 +22,8 @@ export default function SearcherToolsFR() {
 
         <h2 className={h2Class}>Outils de sourcing propri&eacute;taire en France</h2>
         <p>
-          Le sourcing propri&eacute;taire &mdash; contacter directement des dirigeants
-          qui n&apos;ont pas encore mis leur entreprise en vente &mdash; est
+          Le sourcing propri&eacute;taire, contacter directement des dirigeants
+          qui n&apos;ont pas encore mis leur entreprise en vente, est
           unanimement consid&eacute;r&eacute; comme le canal de deal flow le plus qualitatif.
           Ces cibles ne font pas l&apos;objet d&apos;un processus comp&eacute;titif, ce qui
           signifie g&eacute;n&eacute;ralement des multiples de valorisation plus bas, moins de
@@ -32,7 +32,7 @@ export default function SearcherToolsFR() {
           un ensemble d&apos;outils sp&eacute;cifiques au march&eacute; local.
         </p>
 
-        <h3 className={h3Class}>Pappers.fr &mdash; la base de donn&eacute;es l&eacute;gales incontournable</h3>
+        <h3 className={h3Class}>Pappers.fr, la base de donn&eacute;es l&eacute;gales incontournable</h3>
         <p>
           Pappers.fr est devenu l&apos;outil de r&eacute;f&eacute;rence pour les searchers en
           France. Cette plateforme gratuite agr&egrave;ge l&apos;ensemble des donn&eacute;es
@@ -63,7 +63,7 @@ export default function SearcherToolsFR() {
           minutes.
         </p>
 
-        <h3 className={h3Class}>Soci&eacute;t&eacute;.com &mdash; l&apos;analyse financi&egrave;re approfondie</h3>
+        <h3 className={h3Class}>Soci&eacute;t&eacute;.com, l&apos;analyse financi&egrave;re approfondie</h3>
         <p>
           Soci&eacute;t&eacute;.com compl&egrave;te Pappers en offrant une analyse financi&egrave;re
           plus d&eacute;taill&eacute;e des entreprises fran&ccedil;aises. La plateforme propose des
@@ -83,14 +83,14 @@ export default function SearcherToolsFR() {
           &eacute;conomis&eacute; sur l&apos;analyse pr&eacute;liminaire.
         </p>
 
-        <h3 className={h3Class}>LinkedIn Sales Navigator &mdash; identifier les dirigeants</h3>
+        <h3 className={h3Class}>LinkedIn Sales Navigator, identifier les dirigeants</h3>
         <p>
           LinkedIn Sales Navigator reste l&apos;outil le plus puissant pour
           identifier les dirigeants d&apos;entreprises par secteur, taille, zone
           g&eacute;ographique, anciennet&eacute; et &acirc;ge. En France, la p&eacute;n&eacute;tration de
           LinkedIn est particuli&egrave;rement forte chez les cadres et dirigeants
           de PME. Un searcher peut cr&eacute;er des recherches sauvegard&eacute;es ciblant
-          les dirigeants de plus de 55 ans dans des secteurs fragment&eacute;s &mdash;
+          les dirigeants de plus de 55 ans dans des secteurs fragment&eacute;s , 
           le profil type du candidat &agrave; la cession.
         </p>
         <p>
@@ -113,7 +113,7 @@ export default function SearcherToolsFR() {
 
         <h2 className={h2Class}>Plateformes de mise en relation et marketplaces</h2>
 
-        <h3 className={h3Class}>Fusacq.com &mdash; la marketplace de r&eacute;f&eacute;rence</h3>
+        <h3 className={h3Class}>Fusacq.com, la marketplace de r&eacute;f&eacute;rence</h3>
         <p>
           Fusacq est la plateforme leader en France pour la transmission
           d&apos;entreprises. Elle r&eacute;f&eacute;rence des milliers d&apos;annonces de cession
@@ -135,7 +135,7 @@ export default function SearcherToolsFR() {
           vous assure de ne manquer aucune nouvelle opportunit&eacute;.
         </p>
 
-        <h3 className={h3Class}>Bpifrance Transmission &mdash; l&apos;outil institutionnel</h3>
+        <h3 className={h3Class}>Bpifrance Transmission, l&apos;outil institutionnel</h3>
         <p>
           La plateforme Bpifrance Transmission (anciennement mise en relation
           via le R&eacute;seau Transmission) est un service public de mise en relation
@@ -155,7 +155,7 @@ export default function SearcherToolsFR() {
           diff&eacute;rents dispositifs de Bpifrance.
         </p>
 
-        <h3 className={h3Class}>Transentreprise &mdash; le r&eacute;seau des CCI</h3>
+        <h3 className={h3Class}>Transentreprise, le r&eacute;seau des CCI</h3>
         <p>
           Transentreprise est la plateforme de transmission d&apos;entreprises
           op&eacute;r&eacute;e par les Chambres de Commerce et d&apos;Industrie (CCI). Elle
@@ -167,7 +167,7 @@ export default function SearcherToolsFR() {
           un prix r&eacute;aliste.
         </p>
 
-        <h3 className={h3Class}>CRA &mdash; C&eacute;dants et Repreneurs d&apos;Affaires</h3>
+        <h3 className={h3Class}>CRA, C&eacute;dants et Repreneurs d&apos;Affaires</h3>
         <p>
           Le CRA est une association nationale de b&eacute;n&eacute;voles qui accompagne
           les c&eacute;dants et les repreneurs dans leurs d&eacute;marches de transmission.
@@ -236,8 +236,8 @@ export default function SearcherToolsFR() {
           financiers adapt&eacute;s aux sp&eacute;cificit&eacute;s comptables fran&ccedil;aises. Le plan
           comptable g&eacute;n&eacute;ral (PCG) structure les comptes diff&eacute;remment des
           normes IFRS ou US GAAP, et les soldes interm&eacute;diaires de gestion
-          (SIG) &mdash; marge commerciale, valeur ajout&eacute;e, EBE (exc&eacute;dent brut
-          d&apos;exploitation), r&eacute;sultat d&apos;exploitation &mdash; constituent le cadre
+          (SIG), marge commerciale, valeur ajout&eacute;e, EBE (exc&eacute;dent brut
+          d&apos;exploitation), r&eacute;sultat d&apos;exploitation, constituent le cadre
           d&apos;analyse privil&eacute;gi&eacute; des banquiers et experts-comptables fran&ccedil;ais.
         </p>
         <p>
@@ -282,7 +282,7 @@ export default function SearcherToolsFR() {
         <p>
           Pour les transactions interm&eacute;di&eacute;es, l&apos;interm&eacute;diaire met
           g&eacute;n&eacute;ralement en place une data room s&eacute;curis&eacute;e. Pour les transactions
-          propri&eacute;taires &mdash; plus fr&eacute;quentes dans le monde du search fund &mdash;
+          propri&eacute;taires, plus fr&eacute;quentes dans le monde du search fund , 
           c&apos;est au searcher de cr&eacute;er et g&eacute;rer la data room. Une structure
           claire est essentielle&nbsp;: dossiers principaux par domaine de
           diligence (financier, juridique, fiscal, commercial, op&eacute;rationnel,
@@ -305,7 +305,7 @@ export default function SearcherToolsFR() {
         <h2 className={h2Class}>Outils de communication avec les investisseurs</h2>
         <p>
           Maintenir une communication r&eacute;guli&egrave;re et de qualit&eacute; avec vos
-          investisseurs n&apos;est pas une simple courtoisie &mdash; c&apos;est un
+          investisseurs n&apos;est pas une simple courtoisie, c&apos;est un
           imp&eacute;ratif strat&eacute;gique. Vos investisseurs de search fund sont vos
           futurs administrateurs, co-investisseurs et mentors.
         </p>
@@ -339,7 +339,7 @@ export default function SearcherToolsFR() {
         <h2 className={h2Class}>Outils juridiques et signatures &eacute;lectroniques</h2>
         <p>
           Une recherche g&eacute;n&egrave;re un volume consid&eacute;rable de documents
-          juridiques &mdash; accords de confidentialit&eacute;, lettres d&apos;intention,
+          juridiques, accords de confidentialit&eacute;, lettres d&apos;intention,
           protocoles de cession, actes de closing. En France, certains actes
           n&eacute;cessitent une signature manuscrite ou un passage chez le notaire,
           mais la signature &eacute;lectronique est de plus en plus accept&eacute;e pour
@@ -352,7 +352,7 @@ export default function SearcherToolsFR() {
             est particuli&egrave;rement adapt&eacute;e au march&eacute; fran&ccedil;ais et accept&eacute;e par
             les professionnels du droit locaux. Cr&eacute;ez des mod&egrave;les pour
             envoyer un accord de confidentialit&eacute; sign&eacute; en moins de deux
-            minutes &mdash; la r&eacute;activit&eacute; compte quand les interm&eacute;diaires
+            minutes, la r&eacute;activit&eacute; compte quand les interm&eacute;diaires
             envoient des dossiers
           </li>
           <li>
@@ -374,7 +374,7 @@ export default function SearcherToolsFR() {
           <li>
             <strong>Recherche sectorielle&nbsp;:</strong> Utilisez des outils d&apos;IA
             pour g&eacute;n&eacute;rer des analyses de march&eacute;s que vous ne connaissez
-            pas &mdash; taille du march&eacute;, tendances, acteurs cl&eacute;s, cadre
+            pas, taille du march&eacute;, tendances, acteurs cl&eacute;s, cadre
             r&eacute;glementaire et mod&egrave;les &eacute;conomiques typiques
           </li>
           <li>

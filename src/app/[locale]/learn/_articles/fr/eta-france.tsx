@@ -10,8 +10,8 @@ export default function ETAFranceFR() {
 
       <div className={bodyClass}>
         <p>
-          L&apos;Entrepreneurship Through Acquisition (ETA) &mdash;
-          l&apos;entrepreneuriat par acquisition &mdash; connaît un essor
+          L&apos;Entrepreneurship Through Acquisition (ETA) , 
+          l&apos;entrepreneuriat par acquisition, connaît un essor
           remarquable en France. Ce modèle, qui consiste à rechercher,
           acquérir et diriger une PME existante plutôt que de créer une
           entreprise de zéro, répond à un double enjeu structurel du marché
@@ -49,7 +49,7 @@ export default function ETAFranceFR() {
           familiales rentables, souvent leaders sur des niches de marché
           régionales ou nationales, avec des équipes stables et un savoir-faire
           établi. Nombre de ces entreprises n&apos;ont pas de successeur identifié
-          au sein de la famille &mdash; un phénomène qui s&apos;accentue avec
+          au sein de la famille, un phénomène qui s&apos;accentue avec
           l&apos;évolution sociétale&nbsp;: les enfants de dirigeants choisissent
           de plus en plus fréquemment des carrières différentes de celles de
           leurs parents.
@@ -80,8 +80,8 @@ export default function ETAFranceFR() {
           l&apos;intégration de l&apos;ETA dans ses programmes. L&apos;école propose un
           cours dédié à l&apos;entrepreneuriat par acquisition dans son programme
           MBA et son programme Grande École. Le réseau des alumni HEC
-          impliqués dans l&apos;ETA &mdash; en tant que searchers, investisseurs
-          ou conseillers &mdash; constitue l&apos;un des réseaux les plus actifs
+          impliqués dans l&apos;ETA, en tant que searchers, investisseurs
+          ou conseillers, constitue l&apos;un des réseaux les plus actifs
           en Europe continentale.
         </p>
 

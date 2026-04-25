@@ -101,13 +101,13 @@ export default function CapTablesEquityArticle() {
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">Step-up at acquisition</td>
                 <td className="py-2 pr-4">&euro;750K equity credit</td>
-                <td className="py-2 pr-4">&mdash;</td>
+                <td className="py-2 pr-4">, </td>
                 <td className="py-2">1.5x on &euro;500K search capital</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">New acquisition equity</td>
                 <td className="py-2 pr-4">&euro;1,650K additional</td>
-                <td className="py-2 pr-4">&mdash;</td>
+                <td className="py-2 pr-4">, </td>
                 <td className="py-2">Total equity = &euro;2.4M</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
@@ -130,7 +130,7 @@ export default function CapTablesEquityArticle() {
           (&euro;500K search + &euro;1.65M acquisition equity) and own 75% of the
           company. The searcher deploys &euro;0 in cash but earns 25% of the
           equity through sweat equity. At a &euro;30M exit (5x enterprise value),
-          investors receive &euro;22.5M on &euro;2.15M invested &mdash; a 10.5x
+          investors receive &euro;22.5M on &euro;2.15M invested, a 10.5x
           gross multiple. The searcher receives &euro;7.5M.
         </p>
 
@@ -230,7 +230,7 @@ export default function CapTablesEquityArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Search costs:</strong> &euro;50K-&euro;150K funded from personal savings.</li>
-          <li><strong>Acquisition equity:</strong> Raised from investors for a specific deal &mdash; no step-up, no preferential rights from a search phase.</li>
+          <li><strong>Acquisition equity:</strong> Raised from investors for a specific deal, no step-up, no preferential rights from a search phase.</li>
           <li><strong>Searcher ownership:</strong> 50-80% depending on how much equity the searcher contributes personally and the negotiated carried interest.</li>
           <li><strong>Use:</strong> Often higher use of SBA loans (US) or government-backed lending (EU) to reduce the equity check.</li>
         </ul>
@@ -347,7 +347,7 @@ export default function CapTablesEquityArticle() {
           Smart searchers model these dilution scenarios before finalizing the
           cap table. Build a spreadsheet that shows ownership percentages under
           different deal sizes, use levels, and seller rollover assumptions.
-          Share this analysis with investors &mdash; it demonstrates financial
+          Share this analysis with investors, it demonstrates financial
           sophistication and transparency.
         </p>
 
@@ -446,7 +446,7 @@ export default function CapTablesEquityArticle() {
           <li>The traditional search fund model is designed to align searcher and investor incentives through the three-tranche vesting structure.</li>
           <li>The step-up rewards early search investors for taking pre-deal risk but dilutes the overall equity pool.</li>
           <li>Self-funded searchers trade investor support for significantly higher equity ownership.</li>
-          <li>Always model dilution scenarios before committing to a deal structure &mdash; what looks like 25% equity can shrink quickly with additional financing layers.</li>
+          <li>Always model dilution scenarios before committing to a deal structure, what looks like 25% equity can shrink quickly with additional financing layers.</li>
           <li>Cap table transparency builds investor trust. Share your models early and update them as the deal evolves.</li>
         </ul>
 

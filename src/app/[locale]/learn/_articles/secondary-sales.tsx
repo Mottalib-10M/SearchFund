@@ -10,13 +10,13 @@ export default function SecondarySalesArticle() {
       <div className={bodyClass}>
         <p>
           Search fund investors commit capital with the understanding that
-          liquidity arrives only at exit &mdash; typically five to seven years
+          liquidity arrives only at exit, typically five to seven years
           after the initial investment. But life circumstances change. An LP
           may need cash for a divorce settlement, a fund may approach the end
           of its own term, or an institution may decide to rebalance away from
-          micro-cap private equity. Secondary sales &mdash; the transfer of an
+          micro-cap private equity. Secondary sales, the transfer of an
           existing LP interest to a new buyer before the underlying company is
-          sold &mdash; offer a pressure valve. This article explains how
+          sold, offer a pressure valve. This article explains how
           secondary transactions work in search fund portfolios, how positions
           are priced, what structural hurdles exist, and what the growing
           secondary market means for searchers and investors alike.
@@ -28,8 +28,8 @@ export default function SecondarySalesArticle() {
           the purchase and sale of pre-existing investor commitments in a fund
           or direct co-investment. The same logic applies to search funds, but
           the scale and structure differ. A typical search fund raises $400K
-          &ndash; $600K in initial capital from 10 &ndash; 20 LPs, then calls
-          acquisition capital of $5M &ndash; $20M. An LP holding a $50K unit
+          - $600K in initial capital from 10 - 20 LPs, then calls
+          acquisition capital of $5M - $20M. An LP holding a $50K unit
           in a search fund cannot simply list it on an exchange. Instead, the
           seller must find a willing buyer, agree on a price, and satisfy any
           transfer restrictions in the fund&apos;s operating documents.
@@ -38,8 +38,8 @@ export default function SecondarySalesArticle() {
           Two broad categories exist. <strong>LP-to-LP secondaries</strong> are
           the straightforward case: one limited partner sells their interest to
           another investor. <strong>GP-led secondaries</strong> involve the
-          searcher-CEO or fund manager restructuring the vehicle &mdash; often
-          through a continuation fund &mdash; to provide liquidity to some
+          searcher-CEO or fund manager restructuring the vehicle, often
+          through a continuation fund, to provide liquidity to some
           investors while allowing others to stay invested. Both types are
           becoming more common as the search fund asset class matures and the
           number of outstanding positions grows.
@@ -58,7 +58,7 @@ export default function SecondarySalesArticle() {
             <strong>Seller identifies a buyer.</strong> The seller approaches
             other existing LPs, the searcher&apos;s investor network, or a
             secondary broker. Because search fund positions are small
-            (often $25K &ndash; $200K per LP), most transactions happen through
+            (often $25K - $200K per LP), most transactions happen through
             personal relationships rather than formal auctions.
           </li>
           <li>
@@ -66,7 +66,7 @@ export default function SecondarySalesArticle() {
             transfer price, typically expressed as a percentage of the
             position&apos;s estimated net asset value (NAV). According to
             industry data from Jefferies&apos; Global Secondary Market Review,
-            small-fund LP interests trade at 10 &ndash; 30% discounts to NAV
+            small-fund LP interests trade at 10 - 30% discounts to NAV
             due to illiquidity and the lack of competitive bidding.
           </li>
           <li>
@@ -127,7 +127,7 @@ export default function SecondarySalesArticle() {
           GP-led transactions require careful{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board governance</Link>{" "}
           to manage conflicts of interest. The GP is effectively on both sides
-          of the deal &mdash; setting the price at which the old vehicle sells
+          of the deal, setting the price at which the old vehicle sells
           and the new vehicle buys. Best practice calls for an independent
           valuation, a fairness opinion from a third party, and full
           transparency with all LPs before any vote.
@@ -145,17 +145,17 @@ export default function SecondarySalesArticle() {
           <li>
             <strong>Multiple of EBITDA minus net debt.</strong> The most common
             approach. The buyer estimates the company&apos;s enterprise value
-            using a trailing or forward EBITDA multiple (typically 4 &ndash; 7x
+            using a trailing or forward EBITDA multiple (typically 4 - 7x
             for search fund companies), subtracts net debt, and calculates the
             LP&apos;s pro-rata share. For context, Stanford&apos;s 2024 search
             fund study reports median acquisition multiples of roughly 4.5x
-            EBITDA, while median exit multiples reach 6 &ndash; 8x &mdash;
+            EBITDA, while median exit multiples reach 6 - 8x , 
             meaning a mid-life valuation often falls somewhere in between.
           </li>
           <li>
             <strong>Discounted cash flow (DCF).</strong> A DCF model projects
             the company&apos;s free cash flows through exit, applies a
-            discount rate (often 25 &ndash; 35% for search fund risk), and
+            discount rate (often 25 - 35% for search fund risk), and
             arrives at a present value. This method is more rigorous but
             requires assumptions about exit timing, terminal value, and
             growth rates that are difficult to pin down.
@@ -171,7 +171,7 @@ export default function SecondarySalesArticle() {
         </ul>
         <p>
           Regardless of method, secondary buyers almost always apply an
-          <strong> illiquidity discount</strong>. The typical range is 10 &ndash;
+          <strong> illiquidity discount</strong>. The typical range is 10 -
           30% below estimated NAV, with deeper discounts for positions in
           search funds that are still in the search phase (pre-acquisition),
           have limited financial reporting, or impose heavy transfer
@@ -191,7 +191,7 @@ export default function SecondarySalesArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Fund lifecycle constraints.</strong> Institutional LPs
-            &mdash; particularly fund-of-funds &mdash; operate under fixed
+           , particularly fund-of-funds, operate under fixed
             terms, often 10 years with limited extensions. If a search fund
             investment is approaching year eight with no exit in sight, the
             fund manager faces pressure to liquidate.
@@ -201,7 +201,7 @@ export default function SecondarySalesArticle() {
             make up a large share of search fund investors) may face divorce,
             estate planning needs, or simply want to rebalance personal
             portfolios. According to data from the Search Fund Accelerator,
-            roughly 15 &ndash; 20% of search fund LP groups experience at
+            roughly 15 - 20% of search fund LP groups experience at
             least one LP seeking early liquidity during the hold period.
           </li>
           <li>
@@ -227,7 +227,7 @@ export default function SecondarySalesArticle() {
 
         <h2 className={h2Class}>The emerging secondary market for search fund interests</h2>
         <p>
-          For decades, search fund secondaries were ad hoc &mdash; a phone
+          For decades, search fund secondaries were ad hoc, a phone
           call between LPs, a quiet email to the searcher asking if anyone in
           the cap table wanted to buy. That is changing. Several factors are
           accelerating the development of a more structured secondary market:
@@ -242,16 +242,16 @@ export default function SecondarySalesArticle() {
         <p>
           <strong>Dedicated secondary buyers.</strong> A handful of firms and
           family offices now actively seek search fund secondary positions,
-          viewing the 10 &ndash; 30% illiquidity discount as a systematic
+          viewing the 10 - 30% illiquidity discount as a systematic
           source of alpha. These buyers bring speed and certainty of close,
           which attracts motivated sellers.
         </p>
         <p>
           <strong>Improved information flow.</strong> As search fund
-          investors adopt more standardized reporting &mdash; quarterly
+          investors adopt more standardized reporting, quarterly
           financials, annual valuations, standardized{" "}
           <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheets</Link>{" "}
-          &mdash; it becomes easier for secondary buyers to underwrite
+          it becomes easier for secondary buyers to underwrite
           positions without extensive proprietary due diligence.
         </p>
         <p>
@@ -261,13 +261,13 @@ export default function SecondarySalesArticle() {
           billion in transaction volume, while search fund secondaries likely
           represent less than $100 million. The gap reflects both the smaller
           asset base and the friction inherent in transferring positions in
-          single-company vehicles with 10 &ndash; 20 investors.
+          single-company vehicles with 10 - 20 investors.
         </p>
 
         <h2 className={h2Class}>Impact on the searcher-CEO</h2>
         <p>
           When an LP sells their position, the searcher-CEO gets a new
-          investor &mdash; possibly one they did not choose. This can be
+          investor, possibly one they did not choose. This can be
           neutral, positive, or disruptive depending on who the buyer is and
           what they expect.
         </p>
@@ -293,13 +293,13 @@ export default function SecondarySalesArticle() {
           <li>
             <strong>Signal risk.</strong> If multiple LPs sell simultaneously,
             other investors may interpret the activity as a negative signal
-            about the company&apos;s prospects &mdash; even if the sales are
+            about the company&apos;s prospects, even if the sales are
             driven by unrelated personal factors.
           </li>
         </ul>
         <p>
           Smart searcher-CEOs address these dynamics proactively. The GP
-          consent right is not just a legal formality &mdash; it is a tool
+          consent right is not just a legal formality, it is a tool
           to curate the investor base. Before approving any transfer, the CEO
           should interview the prospective buyer, understand their
           expectations, and ensure alignment with the company&apos;s operating
@@ -311,7 +311,7 @@ export default function SecondarySalesArticle() {
         <p>
           Search fund secondary transactions sit at the intersection of
           securities law, partnership law, and fund documentation. Several
-          structural elements shape how &mdash; and whether &mdash; a
+          structural elements shape how, and whether, a
           transfer can happen:
         </p>
         <ul className={ulClass}>
@@ -349,9 +349,9 @@ export default function SecondarySalesArticle() {
           <li>
             <strong>Information rights.</strong> The incoming LP inherits
             whatever information rights the fund documents provide. Savvy
-            secondary buyers negotiate supplemental information rights &mdash;
+            secondary buyers negotiate supplemental information rights , 
             monthly financials, board packages, or direct access to the CEO
-            &mdash; as part of the transaction.
+            as part of the transaction.
           </li>
         </ul>
 
@@ -359,21 +359,21 @@ export default function SecondarySalesArticle() {
         <p>
           Investors familiar with the broader PE secondary market will find
           search fund secondaries both familiar and distinct. The core
-          mechanics &mdash; negotiated price, GP consent, assignment of
-          interest &mdash; are the same. But several differences stand out:
+          mechanics, negotiated price, GP consent, assignment of
+          interest, are the same. But several differences stand out:
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Position size.</strong> A typical PE secondary involves
-            fund interests worth $5M &ndash; $500M. A search fund secondary
-            might involve $25K &ndash; $200K. The small size limits
+            fund interests worth $5M - $500M. A search fund secondary
+            might involve $25K - $200K. The small size limits
             institutional interest and raises the per-dollar transaction cost.
           </li>
           <li>
             <strong>Single-asset concentration.</strong> A PE fund secondary
             gives the buyer exposure to a diversified portfolio. A search fund
             secondary is a bet on a single company managed by a single
-            CEO &mdash; a fundamentally different risk profile. Investors
+            CEO, a fundamentally different risk profile. Investors
             pursuing a{" "}
             <Link href="/learn/portfolio-construction-search-fund" className="text-apple-accent hover:underline">portfolio approach</Link>{" "}
             to search fund investing may assemble a diversified basket of
@@ -383,7 +383,7 @@ export default function SecondarySalesArticle() {
             <strong>Information asymmetry.</strong> PE secondaries benefit from
             standardized quarterly reports, audited financials, and ILPA-
             compliant capital account statements. Search fund reporting varies
-            widely &mdash; some CEOs provide detailed quarterly updates while
+            widely, some CEOs provide detailed quarterly updates while
             others send sporadic emails. This information gap widens the
             bid-ask spread.
           </li>
@@ -408,7 +408,7 @@ export default function SecondarySalesArticle() {
 
         <h3 className={h3Class}>What discount to NAV should I expect when selling?</h3>
         <p>
-          Discounts typically range from 10 &ndash; 30%, depending on the
+          Discounts typically range from 10 - 30%, depending on the
           quality of the underlying company, the stage of the investment, the
           availability of financial data, and the urgency of the sale. A
           position in a strong-performing company with clear exit timing
@@ -429,7 +429,7 @@ export default function SecondarySalesArticle() {
           The market is still too small for dedicated search fund secondary
           brokers, but some advisors in the broader small-fund secondary space
           handle these transactions. More commonly, deals happen through
-          direct outreach within the search fund investor community &mdash;
+          direct outreach within the search fund investor community , 
           conferences, LP networks, and introductions from the CEO.
         </p>
 

@@ -13,8 +13,8 @@ export default function WorkingWithAdvisorsFR() {
           L&apos;acquisition d&apos;une PME en France est un processus complexe
           qui mobilise des compétences juridiques, comptables, fiscales et
           financières que même le repreneur le plus expérimenté ne maîtrise
-          pas seul. Le choix de ses conseillers &mdash; avocats d&apos;affaires,
-          experts-comptables, notaires, courtiers en cession &mdash; est l&apos;une
+          pas seul. Le choix de ses conseillers, avocats d&apos;affaires,
+          experts-comptables, notaires, courtiers en cession, est l&apos;une
           des décisions les plus structurantes du parcours de reprise. Un bon
           conseil accélère la transaction, protège l&apos;acquéreur contre les
           risques cachés et optimise le montage juridique et fiscal. Un mauvais
@@ -81,7 +81,7 @@ export default function WorkingWithAdvisorsFR() {
           </li>
           <li>
             <strong>Rédaction du protocole de cession&nbsp;:</strong> Le
-            protocole (ou SPA &mdash; Share Purchase Agreement) est le contrat
+            protocole (ou SPA, Share Purchase Agreement) est le contrat
             définitif de cession. Il comporte les déclarations et garanties du
             vendeur, la garantie d&apos;actif et de passif (GAP), les conditions
             de la clause d&apos;accompagnement, les ajustements de prix et les
@@ -278,9 +278,9 @@ export default function WorkingWithAdvisorsFR() {
           </li>
           <li>
             <strong>Immobilier&nbsp;:</strong> Si l&apos;acquisition inclut des
-            biens immobiliers (locaux d&apos;exploitation, terrains) &mdash;
+            biens immobiliers (locaux d&apos;exploitation, terrains) , 
             ce qui est fréquent dans les PME industrielles ou artisanales
-            &mdash; l&apos;intervention du notaire est obligatoire pour la
+            l&apos;intervention du notaire est obligatoire pour la
             publicité foncière.
           </li>
           <li>

@@ -26,14 +26,14 @@ export default function DoubleTaxationTreatiesArticle() {
       <div className={bodyClass}>
         <h3 className={h3Class}>Dividends (Article 10)</h3>
         <ul className={ulClass}>
-          <li>Source country withholding tax typically reduced to 5&ndash;15% (vs. domestic rates of 20&ndash;30%)</li>
+          <li>Source country withholding tax typically reduced to 5-15% (vs. domestic rates of 20-30%)</li>
           <li>Many treaties provide 0% withholding for substantial holdings (25%+) between EU companies (Parent-Subsidiary Directive)</li>
           <li>Critical for repatriation of profits from operating subsidiary to holding company</li>
         </ul>
 
         <h3 className={h3Class}>Interest (Article 11)</h3>
         <ul className={ulClass}>
-          <li>Withholding tax typically reduced to 0&ndash;10% (vs. domestic rates of 15&ndash;30%)</li>
+          <li>Withholding tax typically reduced to 0-10% (vs. domestic rates of 15-30%)</li>
           <li>Many EU-based DTTs provide 0% withholding on interest</li>
           <li>Relevant when acquisition debt is provided by entities in another country</li>
         </ul>
@@ -41,7 +41,7 @@ export default function DoubleTaxationTreatiesArticle() {
         <h3 className={h3Class}>Capital Gains (Article 13)</h3>
         <ul className={ulClass}>
           <li>Gains from selling shares typically taxable only in the seller&apos;s residence country</li>
-          <li>Exception: &quot;real property-rich companies&quot; &mdash; if the target&apos;s value is primarily from real estate, the source country may tax the gain</li>
+          <li>Exception: &quot;real property-rich companies&quot;, if the target&apos;s value is primarily from real estate, the source country may tax the gain</li>
           <li>Essential for exit planning in cross-border structures</li>
         </ul>
       </div>
@@ -55,13 +55,13 @@ export default function DoubleTaxationTreatiesArticle() {
           <li><strong>US &rarr; Germany:</strong> 5% (for 10%+ holdings)</li>
           <li><strong>US &rarr; Netherlands:</strong> 5% (for 10%+ holdings)</li>
           <li><strong>Within EU:</strong> 0% (under the Parent-Subsidiary Directive for 10%+ holdings held 2+ years)</li>
-          <li><strong>UK &rarr; EU:</strong> Variable post-Brexit; typically 5&ndash;15% depending on the specific bilateral DTT</li>
+          <li><strong>UK &rarr; EU:</strong> Variable post-Brexit; typically 5-15% depending on the specific bilateral DTT</li>
         </ul>
       </div>
 
       <h2 className={h2Class}>The EU Parent-Subsidiary Directive</h2>
       <div className={bodyClass}>
-        <p>For search fund entrepreneurs operating within the European Union, the Parent-Subsidiary Directive (2011/96/EU) is arguably more important than bilateral DTTs. According to the European Commission, this directive eliminates withholding tax on dividend payments between associated companies of different EU member states, provided the parent holds at least 10% of the subsidiary for a minimum of two years. This means a Dutch holding company receiving dividends from a French operating subsidiary pays 0% withholding tax &mdash; a significant advantage over non-EU structures where bilateral treaty rates of 5&ndash;15% would apply.</p>
+        <p>For search fund entrepreneurs operating within the European Union, the Parent-Subsidiary Directive (2011/96/EU) is arguably more important than bilateral DTTs. According to the European Commission, this directive eliminates withholding tax on dividend payments between associated companies of different EU member states, provided the parent holds at least 10% of the subsidiary for a minimum of two years. This means a Dutch holding company receiving dividends from a French operating subsidiary pays 0% withholding tax, a significant advantage over non-EU structures where bilateral treaty rates of 5-15% would apply.</p>
         <p>Post-Brexit, UK-based holding companies no longer benefit from the Parent-Subsidiary Directive, and must rely on individual bilateral DTTs with each EU country. This has made jurisdictions like the Netherlands, Luxembourg, and Ireland even more attractive as <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company locations</Link> for pan-European acquisition strategies.</p>
       </div>
 
@@ -80,7 +80,7 @@ export default function DoubleTaxationTreatiesArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>DTTs reduce withholding taxes on cross-border dividends, interest, and royalties &mdash; sometimes to 0%</li>
+          <li>DTTs reduce withholding taxes on cross-border dividends, interest, and royalties, sometimes to 0%</li>
           <li>Within the EU, the Parent-Subsidiary Directive provides 0% withholding for qualifying corporate holdings</li>
           <li>The choice of holding company jurisdiction significantly impacts the overall tax efficiency of cross-border structures</li>
           <li>Modern anti-abuse provisions (LOB, PPT) require genuine substance and business purpose</li>
@@ -100,7 +100,7 @@ export default function DoubleTaxationTreatiesArticle() {
 
       <h3 className={h3Class}>What happens if there is no DTT between two countries?</h3>
       <div className={bodyClass}>
-        <p>Without a DTT, both the source and residence countries may tax the same income at their full domestic rates, leading to economic double taxation. In practice, this means withholding tax rates of 20&ndash;30% on dividends and interest in the source country, plus full taxation in the residence country. Some countries offer unilateral tax credits for foreign taxes paid, but these are often less generous than treaty-based relief. For search fund structures, the absence of a DTT typically makes a particular holding jurisdiction uneconomic for cross-border flows.</p>
+        <p>Without a DTT, both the source and residence countries may tax the same income at their full domestic rates, leading to economic double taxation. In practice, this means withholding tax rates of 20-30% on dividends and interest in the source country, plus full taxation in the residence country. Some countries offer unilateral tax credits for foreign taxes paid, but these are often less generous than treaty-based relief. For search fund structures, the absence of a DTT typically makes a particular holding jurisdiction uneconomic for cross-border flows.</p>
       </div>
 
       <h3 className={h3Class}>How do anti-abuse provisions affect search fund holding structures?</h3>

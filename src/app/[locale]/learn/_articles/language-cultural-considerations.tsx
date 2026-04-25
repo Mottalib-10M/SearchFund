@@ -38,7 +38,7 @@ export default function LanguageCulturalConsiderationsArticle() {
           <li><strong>Works councils:</strong> Mandatory in Germany, France, Netherlands, and many EU countries. Must be consulted on major decisions including ownership changes.</li>
           <li><strong>Communication style:</strong> Direct feedback in Germanic cultures; indirect in Romance cultures. Adjust management style accordingly.</li>
           <li><strong>Work-life boundaries:</strong> Stricter in Northern Europe (no emails after hours in France). More flexible in Southern and Eastern Europe.</li>
-          <li><strong>Loyalty patterns:</strong> Longer employee tenure in many European markets (10&ndash;20+ years common). Stability is valued over career switching.</li>
+          <li><strong>Loyalty patterns:</strong> Longer employee tenure in many European markets (10-20+ years common). Stability is valued over career switching.</li>
           <li><strong>Change management:</strong> Europeans generally prefer gradual change with consultation vs. rapid top-down transformation</li>
         </ul>
       </div>
@@ -49,7 +49,7 @@ export default function LanguageCulturalConsiderationsArticle() {
           <li><strong>Pace:</strong> Deals move slower in Europe than the US. Relationship building is part of the process, not a delay.</li>
           <li><strong>Written vs. verbal:</strong> Northern Europe relies heavily on written agreements. Southern Europe values verbal commitments and personal honor.</li>
           <li><strong>Advisors:</strong> Sellers in Germany and Switzerland rely heavily on their Steuerberater (tax advisor). Building trust with the seller&apos;s advisor is critical.</li>
-          <li><strong>Price sensitivity:</strong> European sellers often care deeply about legacy, employee welfare, and company reputation &mdash; not just price</li>
+          <li><strong>Price sensitivity:</strong> European sellers often care deeply about legacy, employee welfare, and company reputation, not just price</li>
           <li><strong>Formality:</strong> Use formal address (Sie/Vous/Lei) until invited otherwise. Business cards, professional dress, and punctuality matter.</li>
         </ul>
       </div>
@@ -57,11 +57,11 @@ export default function LanguageCulturalConsiderationsArticle() {
       <h2 className={h2Class}>Practical Tips for Cross-Cultural Success</h2>
       <div className={bodyClass}>
         <ol className={olClass}>
-          <li>Invest in language learning &mdash; even basic proficiency signals respect and commitment to the local market</li>
+          <li>Invest in language learning, even basic proficiency signals respect and commitment to the local market</li>
           <li>Hire a local operations leader or cultural bridge person before closing the deal</li>
           <li>Spend time in-country before and after the acquisition to understand the culture firsthand</li>
           <li>Adapt your communication and management style to local norms rather than imposing your home culture</li>
-          <li>Be patient with the pace of relationship building &mdash; trust takes longer to establish but is more durable once earned</li>
+          <li>Be patient with the pace of relationship building, trust takes longer to establish but is more durable once earned</li>
           <li>Consult with the seller&apos;s trusted advisors (accountant, lawyer) rather than bypassing them</li>
         </ol>
       </div>
@@ -70,7 +70,7 @@ export default function LanguageCulturalConsiderationsArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Language fluency (or trusted local leadership) is non-negotiable for post-acquisition operations</li>
-          <li>European business cultures vary significantly by region &mdash; Germanic directness vs. Romance relationship-building vs. Nordic consensus</li>
+          <li>European business cultures vary significantly by region, Germanic directness vs. Romance relationship-building vs. Nordic consensus</li>
           <li>Works councils and employee consultation requirements are legally mandated in many EU countries</li>
           <li>European sellers often prioritize legacy, employee welfare, and reputation alongside financial terms</li>
           <li>Cultural adaptation by the acquirer (not cultural imposition) is the key to successful integration</li>
@@ -99,7 +99,7 @@ export default function LanguageCulturalConsiderationsArticle() {
 
       <h3 className={h3Class}>What cultural mistakes do American searchers most commonly make in European acquisitions?</h3>
       <p className={bodyClass}>
-        The three most common cultural mistakes are: moving too fast with changes (European employees expect gradual, consultative change rather than rapid top-down transformation), underestimating the importance of personal relationships in deal-making (particularly in Romance cultures where business is conducted through personal trust built over meals and social interactions), and applying US-style direct management communication in cultures where indirect feedback is the norm. IESE&rsquo;s research shows that American searchers who spent at least 4 weeks in-country before closing had 60% higher first-year employee retention. The fundamental principle is cultural adaptation by the acquirer&mdash;not cultural imposition on the acquired business.
+        The three most common cultural mistakes are: moving too fast with changes (European employees expect gradual, consultative change rather than rapid top-down transformation), underestimating the importance of personal relationships in deal-making (particularly in Romance cultures where business is conducted through personal trust built over meals and social interactions), and applying US-style direct management communication in cultures where indirect feedback is the norm. IESE&rsquo;s research shows that American searchers who spent at least 4 weeks in-country before closing had 60% higher first-year employee retention. The fundamental principle is cultural adaptation by the acquirer, not cultural imposition on the acquired business.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

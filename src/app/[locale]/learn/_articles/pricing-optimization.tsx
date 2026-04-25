@@ -15,7 +15,7 @@ export default function PricingOptimizationArticle() {
           acquiring a small business. A{" "}
           <a href="https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/pricing-the-next-frontier-of-value-creation-in-private-equity" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">McKinsey study</a>{" "}
           found that a 1% improvement in pricing raises profits by 6% on
-          average &mdash; more than double the impact of cutting variable costs
+          average, more than double the impact of cutting variable costs
           and nearly six times the impact of reducing fixed costs. Yet most
           owner-operated SMEs have not raised prices strategically in years.
           The ownership transition is your single best window to fix that. This
@@ -32,7 +32,7 @@ export default function PricingOptimizationArticle() {
           Cost-cutting gets attention. Revenue growth sounds exciting. But
           pricing outperforms both on speed and bottom-line impact. Consider a
           $3M-revenue HVAC company with 25% EBITDA margins. An 8% price
-          increase &mdash; assuming just 2% customer churn &mdash; adds roughly
+          increase, assuming just 2% customer churn, adds roughly
           $230K of nearly pure profit. At a 5x exit multiple, that single
           initiative creates over $1.1M in enterprise value.
         </p>
@@ -43,15 +43,15 @@ export default function PricingOptimizationArticle() {
           diminishing returns and can hurt quality), a well-executed price
           increase incurs near-zero incremental cost.{" "}
           <a href="https://www.simon-kucher.com/en/insights/global-pricing-study-2025" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Simon-Kucher&apos;s Global Pricing Study</a>{" "}
-          found that a 5% price increase &mdash; without sacrificing volume
-          &mdash; can boost profits by 30% to 50% for the average company.
+          found that a 5% price increase, without sacrificing volume
+          can boost profits by 30% to 50% for the average company.
         </p>
         <p>
           Private equity firms have long understood this.{" "}
           <a href="https://www.bain.com/industry-expertise/private-equity/portfolio-value-creation/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Bain &amp; Company&apos;s PE research</a>{" "}
           shows that in a market where multiple expansion has stalled, EBITDA
-          growth through operational improvements &mdash; particularly pricing
-          &mdash; is the primary driver of returns. For search fund operators
+          growth through operational improvements, particularly pricing
+          is the primary driver of returns. For search fund operators
           and independent acquirers, the opportunity is even greater because
           most SME sellers have never treated pricing as a strategic discipline.
           Understanding{" "}
@@ -72,18 +72,18 @@ export default function PricingOptimizationArticle() {
         <ol className={olClass}>
           <li>
             <strong>No price increase in 2+ years.</strong> With cumulative
-            inflation of 15&ndash;20% since 2020 in most Western economies,
+            inflation of 15-20% since 2020 in most Western economies,
             flat pricing means real revenue has declined. Every year without an
             increase is margin left on the table.
           </li>
           <li>
             <strong>Win rate above 80% on proposals.</strong> A healthy win rate
-            for B2B services is 60&ndash;70%. If you are closing more than 80%
+            for B2B services is 60-70%. If you are closing more than 80%
             of bids, you are almost certainly underpriced.
           </li>
           <li>
             <strong>Zero customer pushback on pricing.</strong> Absence of
-            negotiation is not a sign of good relationships &mdash; it is a
+            negotiation is not a sign of good relationships, it is a
             sign customers perceive outsized value relative to price.
           </li>
           <li>
@@ -93,18 +93,18 @@ export default function PricingOptimizationArticle() {
             cost structure issues, or both.
           </li>
           <li>
-            <strong>Competitors charge 15&ndash;30% more.</strong> Mystery-shop
-            5&ndash;10 competitors. If your prices consistently trail the
+            <strong>Competitors charge 15-30% more.</strong> Mystery-shop
+            5-10 competitors. If your prices consistently trail the
             market, you have a clear mandate to raise.
           </li>
           <li>
             <strong>Customer churn below 5% annually.</strong> Very low churn
-            indicates switching costs or deep loyalty &mdash; conditions that
+            indicates switching costs or deep loyalty, conditions that
             support price increases with minimal volume loss.
           </li>
           <li>
             <strong>The prior owner avoided &ldquo;difficult&rdquo; conversations.</strong>{" "}
-            Many SME founders price emotionally &mdash; they are too close to
+            Many SME founders price emotionally, they are too close to
             long-term customers to raise rates. A new owner has the distance
             and the mandate to reset pricing objectively.
           </li>
@@ -116,17 +116,17 @@ export default function PricingOptimizationArticle() {
         </h2>
         <p>
           Jumping straight to an across-the-board increase wastes your best
-          opportunity. Spend 2&ndash;3 weeks on analysis first.
+          opportunity. Spend 2-3 weeks on analysis first.
         </p>
 
         <h3 className={h3Class}>Step 1: Competitive Benchmarking</h3>
         <p>
-          Survey 5&ndash;10 competitor prices for equivalent services.
+          Survey 5-10 competitor prices for equivalent services.
           Mystery-shop by requesting quotes. Document pricing structures (flat
           fee vs. hourly vs. subscription) as well as the absolute numbers. A
           commercial cleaning company that discovers competitors charge $0.18
-          per square foot while it charges $0.12 has a 50% pricing gap &mdash;
-          the kind of insight that justifies a phased 20&ndash;30% increase.
+          per square foot while it charges $0.12 has a 50% pricing gap , 
+          the kind of insight that justifies a phased 20-30% increase.
         </p>
 
         <h3 className={h3Class}>Step 2: Customer Profitability Analysis</h3>
@@ -145,7 +145,7 @@ export default function PricingOptimizationArticle() {
         <p>
           Not every customer responds the same way to a price increase.
           Enterprise clients with annual contracts and high switching costs will
-          absorb 8&ndash;12% without blinking. Small, price-sensitive customers
+          absorb 8-12% without blinking. Small, price-sensitive customers
           on month-to-month terms may push back at 5%. Segment your customer
           base by sensitivity before setting increase targets. A good proxy for
           sensitivity: how often the customer mentioned price during the sales
@@ -156,7 +156,7 @@ export default function PricingOptimizationArticle() {
         <p>
           Call your top 10 customers and ask two questions: &ldquo;What do you
           value most about working with us?&rdquo; and &ldquo;What would you
-          improve?&rdquo; Their answers reveal your pricing anchors &mdash;
+          improve?&rdquo; Their answers reveal your pricing anchors , 
           the features or service attributes that justify premium positioning.
           If customers consistently cite reliability and responsiveness, those
           are the value drivers to emphasize when you communicate price changes.
@@ -174,10 +174,10 @@ export default function PricingOptimizationArticle() {
           Strategy 1: Across-the-Board Increase (Fastest to Implement)
         </h3>
         <p>
-          Raise all prices by 3&ndash;8% simultaneously. This is the simplest
+          Raise all prices by 3-8% simultaneously. This is the simplest
           approach and works best for businesses with menu-based pricing,
           commodity services, or annual contract renewal cycles. Expected
-          customer churn for increases under 5% is typically 0&ndash;3%. A
+          customer churn for increases under 5% is typically 0-3%. A
           landscaping company with $2M in revenue raising prices 5% adds $100K
           to revenue and, at a 90%+ flow-through rate, roughly $90K to EBITDA.
           If you lose zero customers, you did not raise enough.
@@ -193,21 +193,21 @@ export default function PricingOptimizationArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Premium customers with few alternatives:</strong>{" "}
-            8&ndash;15% increase. These customers value your service and have
+            8-15% increase. These customers value your service and have
             high switching costs.
           </li>
           <li>
-            <strong>Core customers:</strong> 5&ndash;8% increase. The backbone
-            of revenue &mdash; enough to recapture inflation and improve
+            <strong>Core customers:</strong> 5-8% increase. The backbone
+            of revenue, enough to recapture inflation and improve
             margins without provoking churn.
           </li>
           <li>
-            <strong>Price-sensitive customers:</strong> 2&ndash;4% increase or
+            <strong>Price-sensitive customers:</strong> 2-4% increase or
             hold flat. Protect volume in this segment while you grow the
             premium tier.
           </li>
           <li>
-            <strong>Unprofitable customers:</strong> 15&ndash;30% increase. If
+            <strong>Unprofitable customers:</strong> 15-30% increase. If
             they leave, your margins improve. If they stay, they finally become
             profitable. Either outcome is positive.
           </li>
@@ -216,7 +216,7 @@ export default function PricingOptimizationArticle() {
           This approach maximizes total margin improvement while limiting
           churn risk. A $4M managed IT services firm used this framework to
           raise effective pricing 11% in aggregate while losing only 3% of
-          customers &mdash; net EBITDA gain of over $400K.
+          customers, net EBITDA gain of over $400K.
         </p>
 
         <h3 className={h3Class}>
@@ -263,12 +263,12 @@ export default function PricingOptimizationArticle() {
         </h2>
         <p>
           Poor communication is where most pricing initiatives fail. The
-          price increase itself rarely causes churn &mdash; the way it is
+          price increase itself rarely causes churn, the way it is
           delivered does. Follow these six rules:
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Give 30&ndash;60 days notice.</strong> For annual
+            <strong>Give 30-60 days notice.</strong> For annual
             contracts, implement at renewal. Never surprise a customer with a
             higher invoice.
           </li>
@@ -283,7 +283,7 @@ export default function PricingOptimizationArticle() {
           </li>
           <li>
             <strong>Pair with a tangible improvement.</strong> Announce a
-            service upgrade alongside the increase &mdash; faster response
+            service upgrade alongside the increase, faster response
             times, extended hours, a customer portal, or enhanced reporting.
             Even small improvements reduce price sensitivity.
           </li>
@@ -292,7 +292,7 @@ export default function PricingOptimizationArticle() {
             ownership is a natural reset point. Customers expect changes, and
             the previous owner&apos;s reluctance to raise prices is no longer
             an emotional barrier. Many search fund operators execute their
-            first increase within 60&ndash;90 days of closing. See our{" "}
+            first increase within 60-90 days of closing. See our{" "}
             <Link href="/learn/quick-wins-post-acquisition" className="text-apple-accent hover:underline">post-acquisition quick wins</Link>{" "}
             guide for more on timing.
           </li>
@@ -305,7 +305,7 @@ export default function PricingOptimizationArticle() {
           <li>
             <strong>Handle exceptions strategically.</strong> Decide in
             advance which key accounts (if any) receive a reduced increase.
-            Keep a short list &mdash; overly generous exceptions erode the
+            Keep a short list, overly generous exceptions erode the
             initiative&apos;s impact.
           </li>
         </ol>
@@ -330,12 +330,12 @@ export default function PricingOptimizationArticle() {
           <li>
             <strong>Inflation floor of 3% minimum:</strong> Build annual
             escalation clauses into every new contract. Even in low-inflation
-            years, 3% is a reasonable floor that compounds meaningfully &mdash;
+            years, 3% is a reasonable floor that compounds meaningfully , 
             3% annually turns into 16% over five years.
           </li>
           <li>
             <strong>Win/loss tracking:</strong> Monitor proposal win rates
-            monthly. Target 60&ndash;70%. Above 80% means you are still
+            monthly. Target 60-70%. Above 80% means you are still
             underpriced. Below 50% means you may be overpriced or your sales
             qualification needs work.
           </li>
@@ -362,7 +362,7 @@ export default function PricingOptimizationArticle() {
           <li>
             <strong>Raising too timidly.</strong> A 2% increase barely
             covers inflation. If competitive benchmarking shows you are
-            15&ndash;20% below market, a 3% bump does not solve the problem.
+            15-20% below market, a 3% bump does not solve the problem.
             Phased increases (8% now, 5% in six months) close gaps faster
             while managing perception.
           </li>
@@ -370,7 +370,7 @@ export default function PricingOptimizationArticle() {
             <strong>Grandfathering loyal customers indefinitely.</strong>{" "}
             Long-tenured customers who have not seen a price increase in five
             years are often your largest source of margin leakage. Their
-            loyalty is not contingent on below-market pricing &mdash; test
+            loyalty is not contingent on below-market pricing, test
             that assumption.
           </li>
           <li>
@@ -381,7 +381,7 @@ export default function PricingOptimizationArticle() {
           </li>
           <li>
             <strong>Ignoring the Pareto distribution.</strong> In most SMEs,
-            20% of customers generate 60&ndash;80% of revenue. Focus your
+            20% of customers generate 60-80% of revenue. Focus your
             pricing strategy and communication effort on those accounts first.
             Do not spend weeks optimizing pricing for the long tail.
           </li>
@@ -401,11 +401,11 @@ export default function PricingOptimizationArticle() {
           How much can I raise prices without losing customers?
         </h3>
         <p>
-          For most B2B service businesses, a 5&ndash;8% increase results in
-          0&ndash;3% customer churn. The key variables are switching costs,
+          For most B2B service businesses, a 5-8% increase results in
+          0-3% customer churn. The key variables are switching costs,
           competitive alternatives, and the quality of your communication.
           Businesses with recurring contracts, high switching costs, and
-          limited local competition can typically absorb 10&ndash;15% without
+          limited local competition can typically absorb 10-15% without
           meaningful volume loss. Start with your least price-sensitive
           segment and measure response before rolling out to the broader
           customer base.
@@ -415,7 +415,7 @@ export default function PricingOptimizationArticle() {
           When is the best time to raise prices after acquiring a business?
         </h3>
         <p>
-          Within the first 60&ndash;90 days of ownership, ideally timed to
+          Within the first 60-90 days of ownership, ideally timed to
           coincide with the start of a new contract period or fiscal year.
           The ownership transition provides natural cover: customers expect
           changes under new management. Waiting longer means you internalize
@@ -429,9 +429,9 @@ export default function PricingOptimizationArticle() {
         </h3>
         <p>
           It depends on the gap between your current pricing and market
-          rates. If you are within 5&ndash;8% of market, a single increase
+          rates. If you are within 5-8% of market, a single increase
           works well. If the gap is 15%+, phase the increase: implement
-          8&ndash;10% immediately and a second increase of 5&ndash;7% six to
+          8-10% immediately and a second increase of 5-7% six to
           nine months later. Phasing manages customer perception while
           closing the gap faster than annual 3% increments would.
         </p>
@@ -441,12 +441,12 @@ export default function PricingOptimizationArticle() {
         </h3>
         <p>
           Then your first priority is changing the competitive positioning,
-          not raising prices. Identify differentiators &mdash; service speed,
-          quality guarantees, specialized expertise, customer experience &mdash;
+          not raising prices. Identify differentiators, service speed,
+          quality guarantees, specialized expertise, customer experience , 
           and build your pricing around those value drivers. A{" "}
           <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation</Link>{" "}
           that improves service delivery can justify premium positioning
-          within 6&ndash;12 months. Competing on price alone is not a
+          within 6-12 months. Competing on price alone is not a
           sustainable strategy for an SME, and it makes the business
           worth less at exit due to lower margins and higher risk.
         </p>
@@ -457,8 +457,8 @@ export default function PricingOptimizationArticle() {
         <p>
           Pricing improvements have a multiplied impact on valuation. Every
           dollar of EBITDA improvement from pricing is valued at your exit
-          multiple &mdash; typically 4&ndash;7x for SMEs. A $200K annual
-          EBITDA gain from pricing optimization translates to $800K&ndash;$1.4M
+          multiple, typically 4-7x for SMEs. A $200K annual
+          EBITDA gain from pricing optimization translates to $800K-$1.4M
           in additional enterprise value. Buyers also pay premium multiples
           for businesses with demonstrated pricing power and contractual
           escalation clauses, since these signal sustainable, predictable

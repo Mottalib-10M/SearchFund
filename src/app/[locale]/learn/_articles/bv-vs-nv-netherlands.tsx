@@ -15,7 +15,7 @@ export default function BVvsNVNetherlandsArticle() {
         <p>The BV is the standard structure for Dutch SME acquisitions:</p>
         <ul className={ulClass}>
           <li><strong>Minimum capital:</strong> &euro;0.01 (effectively no minimum since the 2012 Flex-BV reform)</li>
-          <li><strong>Ownership units:</strong> Aandelen (shares) &mdash; but transfer restricted by default</li>
+          <li><strong>Ownership units:</strong> Aandelen (shares), but transfer restricted by default</li>
           <li><strong>Transfer:</strong> Requires notarial deed (notari&euml;le akte) for all share transfers</li>
           <li><strong>Share classes:</strong> Full flexibility to create multiple classes with different voting rights, dividend preferences, and economic rights</li>
           <li><strong>Governance:</strong> Managed by a Bestuur (management board). Optional Raad van Commissarissen (supervisory board).</li>
@@ -28,7 +28,7 @@ export default function BVvsNVNetherlandsArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Minimum capital:</strong> &euro;45,000 (at least 25% paid in at formation)</li>
-          <li><strong>Ownership units:</strong> Aandelen (shares) &mdash; freely transferable by default (bearer or registered)</li>
+          <li><strong>Ownership units:</strong> Aandelen (shares), freely transferable by default (bearer or registered)</li>
           <li><strong>Governance:</strong> More formal requirements. Mandatory management board. Supervisory board required for larger companies.</li>
           <li><strong>Stock exchange:</strong> Only NVs can be listed on Euronext Amsterdam</li>
           <li><strong>Employee participation:</strong> Works council (ondernemingsraad) mandatory for 50+ employees, with advisory rights on acquisitions</li>
@@ -51,7 +51,7 @@ export default function BVvsNVNetherlandsArticle() {
       <div className={bodyClass}>
         <ol className={olClass}>
           <li><strong>Holding BV:</strong> Create a new BV as the acquisition vehicle</li>
-          <li><strong>Stichting Administratiekantoor (STAK):</strong> Optional &mdash; a foundation structure that separates economic and voting rights, sometimes used for employee participation or governance purposes</li>
+          <li><strong>Stichting Administratiekantoor (STAK):</strong> Optional, a foundation structure that separates economic and voting rights, sometimes used for employee participation or governance purposes</li>
           <li><strong>Bank financing:</strong> <Link href="/learn/mkb-financing-netherlands" className="text-apple-accent hover:underline">BMKB-backed</Link> and commercial bank loans into the holding BV</li>
           <li><strong>Target acquisition:</strong> Holding BV acquires 100% of the target BV shares</li>
           <li><strong>Fiscal unity:</strong> Tax consolidation between holding and subsidiary if the holding owns 95%+ of the target</li>
@@ -63,9 +63,9 @@ export default function BVvsNVNetherlandsArticle() {
         <ul className={ulClass}>
           <li><strong>Corporate tax:</strong> 19% on first &euro;200,000; 25.8% above that</li>
           <li><strong>Participation exemption (deelnemingsvrijstelling):</strong> 100% exemption on dividends and capital gains from qualifying participations (5%+ ownership). This is one of Europe&apos;s most generous participation exemptions.</li>
-          <li><strong>Fiscal unity:</strong> Full tax consolidation between 95%+ owned group members &mdash; offsetting profits and losses</li>
+          <li><strong>Fiscal unity:</strong> Full tax consolidation between 95%+ owned group members, offsetting profits and losses</li>
           <li><strong>Innovation box:</strong> 9% effective tax rate on qualifying IP income</li>
-          <li><strong>Goodwill:</strong> Deductible over its useful economic life in asset deals (typically 5&ndash;10 years)</li>
+          <li><strong>Goodwill:</strong> Deductible over its useful economic life in asset deals (typically 5-10 years)</li>
           <li><strong>Treaty network:</strong> The Netherlands has one of the world&apos;s most extensive tax treaty networks (90+ treaties)</li>
           <li><strong>30% ruling:</strong> Expatriate employees can receive 30% of their salary tax-free for up to 5 years</li>
         </ul>
@@ -94,7 +94,7 @@ export default function BVvsNVNetherlandsArticle() {
       <h2 className={h2Class}>Frequently Asked Questions</h2>
       <h3 className={h3Class}>Should I use a BV or NV for a Dutch acquisition?</h3>
       <div className={bodyClass}>
-        <p>For virtually all SME acquisitions, the BV is the correct choice. Since the 2012 Flex-BV reform, the BV offers nearly unlimited flexibility for governance, share classes, and profit distribution &mdash; with essentially no minimum capital requirement (&euro;0.01). The NV is only relevant for companies planning a stock exchange listing on Euronext Amsterdam or large financial institutions that need to issue publicly traded shares. The BV fully supports preferred shares, tracking shares, and complex equity waterfall structures used in search fund deals.</p>
+        <p>For virtually all SME acquisitions, the BV is the correct choice. Since the 2012 Flex-BV reform, the BV offers nearly unlimited flexibility for governance, share classes, and profit distribution, with essentially no minimum capital requirement (&euro;0.01). The NV is only relevant for companies planning a stock exchange listing on Euronext Amsterdam or large financial institutions that need to issue publicly traded shares. The BV fully supports preferred shares, tracking shares, and complex equity waterfall structures used in search fund deals.</p>
       </div>
 
       <h3 className={h3Class}>What is fiscal unity and how does it benefit acquisition structures?</h3>
@@ -104,7 +104,7 @@ export default function BVvsNVNetherlandsArticle() {
 
       <h3 className={h3Class}>Do I need a works council for a Dutch acquisition?</h3>
       <div className={bodyClass}>
-        <p>Yes, if the target company has 50 or more employees, it must have a works council (ondernemingsraad), which has advisory rights on acquisitions and other major business decisions under Dutch law. The works council must be consulted before closing &mdash; failing to do so can delay or even block the transaction. For companies with 10&ndash;50 employees, a personnel representation body (personeelsvertegenwoordiging) may be required with more limited rights. Factor works council consultation into your <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing timeline</Link>, as it typically adds 4&ndash;6 weeks to the process.</p>
+        <p>Yes, if the target company has 50 or more employees, it must have a works council (ondernemingsraad), which has advisory rights on acquisitions and other major business decisions under Dutch law. The works council must be consulted before closing, failing to do so can delay or even block the transaction. For companies with 10-50 employees, a personnel representation body (personeelsvertegenwoordiging) may be required with more limited rights. Factor works council consultation into your <Link href="/learn/closing-process" className="text-apple-accent hover:underline">closing timeline</Link>, as it typically adds 4-6 weeks to the process.</p>
       </div>
     </article>
   );

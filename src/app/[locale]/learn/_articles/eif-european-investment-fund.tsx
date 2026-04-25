@@ -23,8 +23,8 @@ export default function EIFEuropeanInvestmentFundArticle() {
       <div className={bodyClass}>
         <p>The InvestEU program (successor to EFSI/Juncker Plan) provides the EIF&apos;s primary SME support framework:</p>
         <ul className={ulClass}>
-          <li><strong>SME guarantee:</strong> Portfolio guarantees to banks covering 50&ndash;80% of losses on SME loan portfolios</li>
-          <li><strong>Impact:</strong> Banks can offer lower interest rates (typically 0.5&ndash;2% below market) and reduced collateral requirements</li>
+          <li><strong>SME guarantee:</strong> Portfolio guarantees to banks covering 50-80% of losses on SME loan portfolios</li>
+          <li><strong>Impact:</strong> Banks can offer lower interest rates (typically 0.5-2% below market) and reduced collateral requirements</li>
           <li><strong>Eligible uses:</strong> Business acquisitions, expansion, working capital, equipment, real estate</li>
           <li><strong>Loan size:</strong> Typically &euro;25,000 to &euro;7.5 million per borrower</li>
           <li><strong>Access:</strong> Through accredited financial intermediaries in each country (check EIF website for partner list)</li>
@@ -80,11 +80,11 @@ export default function EIFEuropeanInvestmentFundArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>The EIF doesn&apos;t lend directly &mdash; it provides guarantees and capital to banks, improving SME lending terms across Europe</li>
-          <li>InvestEU SME Window provides 50&ndash;80% loss coverage, enabling lower rates and reduced collateral for acquisitions</li>
+          <li>The EIF doesn&apos;t lend directly, it provides guarantees and capital to banks, improving SME lending terms across Europe</li>
+          <li>InvestEU SME Window provides 50-80% loss coverage, enabling lower rates and reduced collateral for acquisitions</li>
           <li>EIF programs are available in all EU countries through accredited financial intermediaries</li>
           <li>National development banks (KfW, Bpifrance, ICO, etc.) are typically the primary EIF partners</li>
-          <li>Always ask your bank if EIF-backed products are available &mdash; they may offer significantly better terms</li>
+          <li>Always ask your bank if EIF-backed products are available, they may offer significantly better terms</li>
         </ul>
       </div>
 
@@ -117,13 +117,13 @@ export default function EIFEuropeanInvestmentFundArticle() {
       </h3>
       <div className={bodyClass}>
         <p>
-          EIF-backed loans typically offer interest rates 0.5&ndash;2
+          EIF-backed loans typically offer interest rates 0.5-2
           percentage points below standard commercial rates, plus reduced
           collateral requirements. The exact benefit varies by country and
           intermediary, but the EIF&rsquo;s risk-sharing reduces the bank&rsquo;s
           capital requirement, which translates directly into better pricing
-          for borrowers. For acquisition financing in the &euro;500K&ndash;&euro;5M
-          range, EIF-backed products can save &euro;5K&ndash;&euro;50K annually in
+          for borrowers. For acquisition financing in the &euro;500K-&euro;5M
+          range, EIF-backed products can save &euro;5K-&euro;50K annually in
           interest costs.
         </p>
       </div>

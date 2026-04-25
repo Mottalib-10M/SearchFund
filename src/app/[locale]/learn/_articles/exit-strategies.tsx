@@ -14,15 +14,15 @@ export default function ExitStrategiesArticle() {
           execute your exit determines the ultimate return for you and your
           investors. According to Stanford&apos;s 2024 search fund study, the
           median hold period is approximately five years, and the best exits
-          achieve 5&ndash;10x return on invested capital. This guide covers
+          achieve 5-10x return on invested capital. This guide covers
           every exit path available to a search fund CEO, how to prepare, and
           how to maximize value.
         </p>
 
         <h2 className={h2Class}>Strategic sale: the most common exit</h2>
         <p>
-          A strategic sale &mdash; selling to a larger company in the same or
-          adjacent industry &mdash; accounts for approximately 60&ndash;70% of
+          A strategic sale, selling to a larger company in the same or
+          adjacent industry, accounts for approximately 60-70% of
           successful search fund exits. Strategic buyers pay premiums because
           they can extract synergies: eliminating redundant overhead, cross-
           selling to their existing customer base, or acquiring capabilities
@@ -30,12 +30,12 @@ export default function ExitStrategiesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical multiples:</strong> 6&ndash;10x EBITDA for well-
-            positioned companies, compared to the 4&ndash;6x entry multiple
+            <strong>Typical multiples:</strong> 6-10x EBITDA for well-
+            positioned companies, compared to the 4-6x entry multiple
             typical of search fund acquisitions.
           </li>
           <li>
-            <strong>Synergy premium:</strong> strategic buyers may pay 15&ndash;
+            <strong>Synergy premium:</strong> strategic buyers may pay 15-
             30% above financial buyer valuations because they can model cost
             savings and revenue synergies.
           </li>
@@ -51,7 +51,7 @@ export default function ExitStrategiesArticle() {
           </li>
           <li>
             <strong>Considerations:</strong> the buyer often wants the CEO to
-            stay for 12&ndash;24 months post-close. This can add significant
+            stay for 12-24 months post-close. This can add significant
             value through an earnout or retention payment.
           </li>
         </ul>
@@ -69,20 +69,20 @@ export default function ExitStrategiesArticle() {
         <h2 className={h2Class}>Private equity sale</h2>
         <p>
           Selling to a private equity fund is the second most common exit path,
-          particularly attractive for businesses that have reached $3M&ndash;$8M
+          particularly attractive for businesses that have reached $3M-$8M
           EBITDA during the hold period. PE buyers are disciplined,
           process-driven, and typically offer clean transactions with certainty
           of close.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical multiples:</strong> 5&ndash;8x EBITDA, generally
+            <strong>Typical multiples:</strong> 5-8x EBITDA, generally
             lower than strategic buyers unless the business is in a hot sector
             or has exceptional growth characteristics.
           </li>
           <li>
             <strong>The &quot;second bite of the apple&quot;:</strong> PE buyers
-            often ask the CEO to roll 15&ndash;30% of their equity into the new
+            often ask the CEO to roll 15-30% of their equity into the new
             entity. This creates a second wealth-creation opportunity: your
             rolled equity benefits from the PE firm&apos;s use and
             operational playbook. In many cases, the second bite is worth as
@@ -112,13 +112,13 @@ export default function ExitStrategiesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical multiples:</strong> 3.5&ndash;5.5x EBITDA, generally
+            <strong>Typical multiples:</strong> 3.5-5.5x EBITDA, generally
             below strategic or PE valuations because the buyer has limited
             capital and negotiating use.
           </li>
           <li>
             <strong>Structure:</strong> often involves significant seller
-            financing (30&ndash;50% of the purchase price) because the
+            financing (30-50% of the purchase price) because the
             management team lacks equity to contribute.
           </li>
           <li>
@@ -142,7 +142,7 @@ export default function ExitStrategiesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical use:</strong> 3&ndash;4x EBITDA total debt,
+            <strong>Typical use:</strong> 3-4x EBITDA total debt,
             depending on the business&apos;s cash flow stability and lender
             appetite.
           </li>
@@ -153,7 +153,7 @@ export default function ExitStrategiesArticle() {
           </li>
           <li>
             <strong>Investor impact:</strong> a dividend recap can return
-            50&ndash;100% of invested capital while investors retain their
+            50-100% of invested capital while investors retain their
             equity positions. This de-risks the investment and resets the
             return clock.
           </li>
@@ -185,12 +185,12 @@ export default function ExitStrategiesArticle() {
             years, and a credible story for public investors.
           </li>
           <li>
-            <strong>Costs:</strong> $1M&ndash;$3M in legal, accounting, and
-            underwriting fees, plus ongoing public company costs of $1M&ndash;
+            <strong>Costs:</strong> $1M-$3M in legal, accounting, and
+            underwriting fees, plus ongoing public company costs of $1M-
             $2M annually.
           </li>
           <li>
-            <strong>Timeline:</strong> 12&ndash;18 months of preparation before
+            <strong>Timeline:</strong> 12-18 months of preparation before
             filing, then three to six months to complete the offering.
           </li>
           <li>
@@ -202,11 +202,11 @@ export default function ExitStrategiesArticle() {
 
         <h2 className={h2Class}>Exit timeline planning</h2>
         <p>
-          The best exits are planned 18&ndash;24 months in advance. Rushing an
+          The best exits are planned 18-24 months in advance. Rushing an
           exit process almost always leaves money on the table.
         </p>
 
-        <h3 className={h3Class}>18&ndash;24 months before target exit</h3>
+        <h3 className={h3Class}>18-24 months before target exit</h3>
         <ul className={ulClass}>
           <li>Align with your <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board</Link> and investors on timing and expectations.</li>
           <li>
@@ -221,7 +221,7 @@ export default function ExitStrategiesArticle() {
           <li>Start researching and interviewing investment bankers.</li>
         </ul>
 
-        <h3 className={h3Class}>12&ndash;18 months before target exit</h3>
+        <h3 className={h3Class}>12-18 months before target exit</h3>
         <ul className={ulClass}>
           <li>Engage an investment banker and begin preparation work.</li>
           <li>
@@ -238,7 +238,7 @@ export default function ExitStrategiesArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>6&ndash;12 months before target exit</h3>
+        <h3 className={h3Class}>6-12 months before target exit</h3>
         <ul className={ulClass}>
           <li>Launch the formal sale process.</li>
           <li>
@@ -250,7 +250,7 @@ export default function ExitStrategiesArticle() {
             create competitive tension.
           </li>
           <li>
-            Maintain business performance &mdash; nothing kills a deal faster
+            Maintain business performance, nothing kills a deal faster
             than declining results during the sale process.
           </li>
         </ul>
@@ -284,18 +284,18 @@ export default function ExitStrategiesArticle() {
           </li>
           <li>
             <strong>Diversified revenue:</strong> no single customer above
-            15&ndash;20% of revenue. A diversified customer base commands a
+            15-20% of revenue. A diversified customer base commands a
             premium multiple.
           </li>
           <li>
             <strong>Growth trajectory:</strong> buyers pay the highest multiples
-            for businesses that are growing. Even 5&ndash;10% annual revenue
+            for businesses that are growing. Even 5-10% annual revenue
             growth significantly improves valuation.
           </li>
           <li>
             <strong>Recurring revenue:</strong> the higher the percentage of
             recurring or contractual revenue, the higher the multiple.
-            Businesses with 70%+ recurring revenue routinely trade at 1&ndash;2x
+            Businesses with 70%+ recurring revenue routinely trade at 1-2x
             higher multiples than project-based businesses.
           </li>
         </ul>
@@ -322,12 +322,12 @@ export default function ExitStrategiesArticle() {
           <li>
             <strong>Customer diversification reduces risk premium.</strong>{" "}
             Reducing your top customer from 25% to 12% of revenue can add
-            0.5&ndash;1x to your multiple.
+            0.5-1x to your multiple.
           </li>
           <li>
             <strong>Competitive processes yield higher prices.</strong> An
             investment banker who creates genuine competition among three to
-            five bidders will generate 15&ndash;25% higher valuations than a
+            five bidders will generate 15-25% higher valuations than a
             bilateral negotiation.
           </li>
         </ul>
@@ -336,9 +336,9 @@ export default function ExitStrategiesArticle() {
         <p>
           For most search fund exits, you will want a lower middle-market
           investment bank with experience in your industry. Our guide to <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">working with advisors</Link> covers how to evaluate and engage professional service providers. Fees typically
-          follow a modified Lehman formula, with a retainer of $25K&ndash;$75K
-          and a success fee of 2&ndash;5% of enterprise value. For a $20M exit,
-          total banking fees might be $500K&ndash;$800K.
+          follow a modified Lehman formula, with a retainer of $25K-$75K
+          and a success fee of 2-5% of enterprise value. For a $20M exit,
+          total banking fees might be $500K-$800K.
         </p>
         <ul className={ulClass}>
           <li>
@@ -399,8 +399,8 @@ export default function ExitStrategiesArticle() {
         <p>
           The multiple arbitrage between entry and exit is one of the core
           drivers of search fund returns. According to industry data, the
-          typical search fund acquires a business at 4&ndash;6x EBITDA and
-          exits at 6&ndash;10x EBITDA, creating 2&ndash;4x of multiple
+          typical search fund acquires a business at 4-6x EBITDA and
+          exits at 6-10x EBITDA, creating 2-4x of multiple
           expansion in addition to any EBITDA growth during the hold period.
         </p>
         <p>
@@ -408,7 +408,7 @@ export default function ExitStrategiesArticle() {
           enterprise value) that grows to $4M EBITDA and exits at 7.5x ($30M
           enterprise value) delivers a 3x return on enterprise value. After
           accounting for use and equity structure, investor returns can
-          reach 5&ndash;10x or more.
+          reach 5-10x or more.
         </p>
 
         <p>

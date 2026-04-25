@@ -14,7 +14,7 @@ export default function AcquisitionTargetScreeningArticle() {
           Effective screening is the difference between reviewing 200
           businesses in 18 months and reviewing 50 in 6. A systematic
           screening process eliminates poor fits quickly, letting you spend
-          time where it matters &mdash; deep evaluation of the 10&ndash;20%
+          time where it matters, deep evaluation of the 10-20%
           of deals that could be your acquisition. According to the Stanford
           GSB 2024 Search Fund Study, searchers who closed acquisitions
           reviewed a median of 83 opportunities before submitting an LOI,
@@ -27,12 +27,12 @@ export default function AcquisitionTargetScreeningArticle() {
           The typical search fund funnel:
         </p>
         <ol className={olClass}>
-          <li><strong>Universe:</strong> 500&ndash;2,000 businesses identified through sourcing channels</li>
-          <li><strong>Tier 1 screen (30 seconds):</strong> 200&ndash;400 pass basic criteria</li>
-          <li><strong>Tier 2 screen (15 minutes):</strong> 50&ndash;100 warrant CIM review</li>
-          <li><strong>Tier 3 evaluation (2&ndash;5 hours):</strong> 15&ndash;30 deserve deep analysis</li>
-          <li><strong>Seller meetings:</strong> 5&ndash;15 in-person meetings</li>
-          <li><strong>LOI submissions:</strong> 3&ndash;8 LOIs submitted</li>
+          <li><strong>Universe:</strong> 500-2,000 businesses identified through sourcing channels</li>
+          <li><strong>Tier 1 screen (30 seconds):</strong> 200-400 pass basic criteria</li>
+          <li><strong>Tier 2 screen (15 minutes):</strong> 50-100 warrant CIM review</li>
+          <li><strong>Tier 3 evaluation (2-5 hours):</strong> 15-30 deserve deep analysis</li>
+          <li><strong>Seller meetings:</strong> 5-15 in-person meetings</li>
+          <li><strong>LOI submissions:</strong> 3-8 LOIs submitted</li>
           <li><strong>Acquisition:</strong> 1 closed deal</li>
         </ol>
 
@@ -54,13 +54,13 @@ export default function AcquisitionTargetScreeningArticle() {
 
         <h2 className={h2Class}>Tier 2: CIM-level screening</h2>
         <p>
-          After signing the NDA and receiving the CIM, spend 15&ndash;30
+          After signing the NDA and receiving the CIM, spend 15-30
           minutes on:
         </p>
 
         <h3 className={h3Class}>Financial quick-check</h3>
         <ul className={ulClass}>
-          <li><strong>Revenue trend:</strong> 3&ndash;5 year trajectory. Growing, stable, or declining?</li>
+          <li><strong>Revenue trend:</strong> 3-5 year trajectory. Growing, stable, or declining?</li>
           <li><strong>EBITDA margin:</strong> Is it consistent with industry norms? Volatile margins are a warning sign</li>
           <li><strong>Add-backs:</strong> Are the seller&rsquo;s{" "}
             <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
@@ -92,7 +92,7 @@ export default function AcquisitionTargetScreeningArticle() {
 
         <h2 className={h2Class}>Tier 3: Deep evaluation</h2>
         <p>
-          For the 15&ndash;30 businesses that pass Tier 2, invest 2&ndash;5
+          For the 15-30 businesses that pass Tier 2, invest 2-5
           hours per opportunity:
         </p>
 
@@ -105,7 +105,7 @@ export default function AcquisitionTargetScreeningArticle() {
             from raw financials (don&rsquo;t trust the CIM)</li>
           <li>Analyze monthly revenue trends (annual numbers can hide seasonality or decline)</li>
           <li>Model the acquisition: purchase price, debt service, free cash flow to equity</li>
-          <li>Estimate returns: can you achieve 25%+ IRR over 5&ndash;7 years with realistic assumptions?</li>
+          <li>Estimate returns: can you achieve 25%+ IRR over 5-7 years with realistic assumptions?</li>
         </ul>
 
         <h3 className={h3Class}>Business quality assessment</h3>
@@ -138,7 +138,7 @@ export default function AcquisitionTargetScreeningArticle() {
         <h3 className={h3Class}>Tools</h3>
         <ul className={ulClass}>
           <li><strong>CRM/spreadsheet:</strong> Track every opportunity with key data fields (source, industry, revenue, EBITDA, status, notes)</li>
-          <li><strong>Scoring rubric:</strong> 1&ndash;5 score on 8&ndash;10 criteria. Businesses scoring 35+ out of 50 get deep evaluation</li>
+          <li><strong>Scoring rubric:</strong> 1-5 score on 8-10 criteria. Businesses scoring 35+ out of 50 get deep evaluation</li>
           <li><strong>Deal memo template:</strong> One-page summary for promising opportunities (thesis fit, financials, key risks, next steps)</li>
         </ul>
 
@@ -153,7 +153,7 @@ export default function AcquisitionTargetScreeningArticle() {
         <ul className={ulClass}>
           <li><strong>Analysis paralysis:</strong> Spending 10 hours on every opportunity instead of screening ruthlessly. Use the tiered approach</li>
           <li><strong>Falling for the story:</strong> A compelling CIM doesn&rsquo;t mean good economics. Always check the numbers first</li>
-          <li><strong>Ignoring your thesis:</strong> &ldquo;This isn&rsquo;t in my target industry but looks interesting&rdquo; &mdash; stay disciplined</li>
+          <li><strong>Ignoring your thesis:</strong> &ldquo;This isn&rsquo;t in my target industry but looks interesting&rdquo;, stay disciplined</li>
           <li><strong>Not tracking metrics:</strong> If you can&rsquo;t measure your funnel, you can&rsquo;t improve it</li>
           <li><strong>Screening too tightly:</strong> If you pass on everything, your criteria may be unrealistic. Revisit your{" "}
             <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
@@ -164,7 +164,7 @@ export default function AcquisitionTargetScreeningArticle() {
         <p>
           IESE&rsquo;s 2024 International Search Fund Study notes that
           international searchers often face thinner deal flow than US-based
-          peers, making disciplined screening even more critical &mdash;
+          peers, making disciplined screening even more critical , 
           wasting time on a poor-fit opportunity has a higher opportunity
           cost when the pipeline is smaller.
         </p>
@@ -173,11 +173,11 @@ export default function AcquisitionTargetScreeningArticle() {
 
         <h3 className={h3Class}>How many businesses do I need to screen to find one to acquire?</h3>
         <p>
-          The typical search fund funnel starts with 500&ndash;2,000
-          identified businesses and narrows to 200&ndash;400 after Tier 1
-          filters, 50&ndash;100 CIM reviews, 15&ndash;30 deep evaluations,
-          5&ndash;15 seller meetings, 3&ndash;8 LOIs, and ultimately one
-          closed acquisition. This process takes 12&ndash;24 months on
+          The typical search fund funnel starts with 500-2,000
+          identified businesses and narrows to 200-400 after Tier 1
+          filters, 50-100 CIM reviews, 15-30 deep evaluations,
+          5-15 seller meetings, 3-8 LOIs, and ultimately one
+          closed acquisition. This process takes 12-24 months on
           average.
         </p>
 
@@ -193,8 +193,8 @@ export default function AcquisitionTargetScreeningArticle() {
 
         <h3 className={h3Class}>Should I use a scoring rubric or go with intuition?</h3>
         <p>
-          Use a scoring rubric. A structured 1&ndash;5 scale across
-          8&ndash;10 criteria removes emotional bias and enables
+          Use a scoring rubric. A structured 1-5 scale across
+          8-10 criteria removes emotional bias and enables
           consistent comparison between opportunities. Businesses scoring
           above your threshold (e.g., 35+ out of 50) advance to deep
           evaluation. This approach is especially important when multiple

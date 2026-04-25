@@ -10,7 +10,7 @@ export default function ETABeneluxFR() {
 
       <div className={bodyClass}>
         <p>
-          Les pays du Benelux &mdash; Pays-Bas, Belgique et Luxembourg &mdash;
+          Les pays du Benelux, Pays-Bas, Belgique et Luxembourg , 
           forment une r&eacute;gion compacte mais &eacute;conomiquement
           puissante au c&oelig;ur de l&apos;Europe, offrant des
           opportunit&eacute;s convaincantes pour l&apos;
@@ -47,8 +47,8 @@ export default function ETABeneluxFR() {
           d&apos;approximativement 950&nbsp;milliards d&apos;euros,
           l&apos;&eacute;conomie n&eacute;erlandaise surperforme par rapport
           &agrave; sa taille. Les entreprises n&eacute;erlandaises sont
-          connues pour leur orientation mondiale &mdash; les Pays-Bas sont
-          le cinqui&egrave;me exportateur mondial &mdash; et de nombreuses
+          connues pour leur orientation mondiale, les Pays-Bas sont
+          le cinqui&egrave;me exportateur mondial, et de nombreuses
           PME op&egrave;rent sur des niches de march&eacute; internationales.
         </p>
         <p>
@@ -223,8 +223,8 @@ export default function ETABeneluxFR() {
       <div className={bodyClass}>
         <h3 className={h3Class}>Financement MKB aux Pays-Bas</h3>
         <p>
-          Les banques n&eacute;erlandaises &mdash; notamment Rabobank, ING,
-          ABN AMRO et de Volksbank &mdash; disposent toutes de divisions
+          Les banques n&eacute;erlandaises, notamment Rabobank, ING,
+          ABN AMRO et de Volksbank, disposent toutes de divisions
           d&eacute;di&eacute;es au pr&ecirc;t MKB (PME) qui financent
           activement les acquisitions d&apos;entreprise. Rabobank, avec
           ses racines profondes dans la communaut&eacute; PME
@@ -435,7 +435,7 @@ export default function ETABeneluxFR() {
             pour les transactions soci&eacute;taires. Les transferts de
             parts, modifications statutaires et autres actes soci&eacute;taires
             doivent &ecirc;tre pass&eacute;s devant notaire, ajoutant un
-            co&ucirc;t et un formalisme au processus &mdash; un
+            co&ucirc;t et un formalisme au processus, un
             environnement familier pour les repreneurs fran&ccedil;ais.
           </li>
           <li>

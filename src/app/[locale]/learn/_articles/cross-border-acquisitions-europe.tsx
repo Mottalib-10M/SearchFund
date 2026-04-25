@@ -9,7 +9,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
 
       <div className={bodyClass}>
         <p>
-          One of the most compelling &mdash; and most complex &mdash; strategies
+          One of the most compelling, and most complex, strategies
           available to search fund entrepreneurs in{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe</Link>{" "}
           is the cross-border acquisition. Rather than limiting your search to a
@@ -31,15 +31,15 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Wider deal flow:</strong> A searcher focused on France alone
-            might screen 300&ndash;500 targets. Adding Belgium, the Netherlands,
+            might screen 300-500 targets. Adding Belgium, the Netherlands,
             and Luxembourg could double or triple that pipeline without
             requiring a new language.
           </li>
           <li>
             <strong>Valuation arbitrage:</strong> A B2B services company might
-            trade at 5&ndash;6x EBITDA in the{" "}
+            trade at 5-6x EBITDA in the{" "}
             <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">United Kingdom</Link>{" "}
-            but only 3.5&ndash;4.5x in Southern or Eastern Europe.
+            but only 3.5-4.5x in Southern or Eastern Europe.
           </li>
           <li>
             <strong>Sector depth:</strong> Germany leads in precision
@@ -81,7 +81,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
           <li>
             <strong>Parent-Subsidiary Directive:</strong> Dividends paid between
             an EU parent and its EU subsidiary are exempt from withholding tax,
-            provided certain ownership thresholds are met &mdash; critical for
+            provided certain ownership thresholds are met, critical for
             cross-border holding structures.
           </li>
           <li>
@@ -104,7 +104,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <h3 className={h3Class}>Direct acquisition from your home country</h3>
         <p>
           Use a holding company in your country of residence to acquire the
-          target directly &mdash; for example, a French SAS acquires a Spanish
+          target directly, for example, a French SAS acquires a Spanish
           SL. This works well for bilateral deals where the holding jurisdiction
           has a favourable treaty with the target country.
         </p>
@@ -179,7 +179,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <h2 className={h2Class}>Cultural due diligence</h2>
         <p>
           Perhaps the most underestimated risk in cross-border acquisitions is
-          cultural mismatch. Culture is not quantifiable &mdash; and yet it
+          cultural mismatch. Culture is not quantifiable, and yet it
           often determines whether an acquisition succeeds or fails.
         </p>
         <ul className={ulClass}>
@@ -209,7 +209,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
             <strong>Work-life balance:</strong> French employees have a 35-hour
             statutory work week. German employees protect personal time
             fiercely. Southern European cultures may involve different daily
-            rhythms. None are &quot;wrong&quot; &mdash; they require
+            rhythms. None are &quot;wrong&quot;, they require
             adaptation.
           </li>
         </ul>
@@ -221,7 +221,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
 
         <h2 className={h2Class}>Language barriers</h2>
         <p>
-          Language affects every aspect of a cross-border acquisition &mdash;
+          Language affects every aspect of a cross-border acquisition , 
           financial statements, legal contracts, employee management, and
           customer relationships. Assess your capabilities honestly.
         </p>
@@ -268,8 +268,8 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
 
         <h3 className={h3Class}>Seller financing</h3>
         <p>
-          Seller financing (typically 15&ndash;30% of the price, subordinated,
-          repaid over 2&ndash;5 years) is common in European SME deals and
+          Seller financing (typically 15-30% of the price, subordinated,
+          repaid over 2-5 years) is common in European SME deals and
           aligns the seller&rsquo;s incentives during the transition. In
           cross-border deals, ensure the seller note is governed by a single
           law and denominated in a single currency.
@@ -343,7 +343,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <h2 className={h2Class}>Common mistakes</h2>
         <ol className={olClass}>
           <li>
-            <strong>Underestimating complexity:</strong> Budget 20&ndash;40%
+            <strong>Underestimating complexity:</strong> Budget 20-40%
             more for legal and tax advisory fees than a domestic deal.
           </li>
           <li>
@@ -363,7 +363,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
           </li>
           <li>
             <strong>Rushing post-acquisition changes:</strong> Spend the first
-            90&ndash;180 days listening and building trust before making
+            90-180 days listening and building trust before making
             significant operational changes.
           </li>
           <li>
@@ -413,7 +413,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
             a contract, and managing an employee dispute in that language.
           </li>
           <li>
-            <strong>Legal &amp; tax pre-screening:</strong> Model 2&ndash;3
+            <strong>Legal &amp; tax pre-screening:</strong> Model 2-3
             holding structures before you begin active searching.
           </li>
           <li>
@@ -446,7 +446,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
           also introduce complexities that require careful planning, experienced
           advisors, and a willingness to adapt. The most successful cross-border
           searchers combine rigorous structural planning with genuine cultural
-          curiosity &mdash; seeing the cross-border dimension not as a hurdle
+          curiosity, seeing the cross-border dimension not as a hurdle
           but as a competitive advantage.
         </p>
         <p>
@@ -470,12 +470,12 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
 
         <h3 className={h3Class}>How much more do cross-border European acquisitions cost in advisory fees compared to domestic deals?</h3>
         <p>
-          Cross-border European acquisitions typically cost 20&ndash;40% more in legal and tax advisory fees than domestic deals. According to IESE research on European search funds, the median cross-border transaction incurs EUR 80K&ndash;150K in advisory costs versus EUR 50K&ndash;100K for a domestic deal of equivalent size. The additional expense covers dual-jurisdiction legal counsel, cross-border tax structuring, holding company formation, and translation services. Searchers should budget for these costs from the outset and factor them into their total acquisition cost model rather than treating them as an afterthought.
+          Cross-border European acquisitions typically cost 20-40% more in legal and tax advisory fees than domestic deals. According to IESE research on European search funds, the median cross-border transaction incurs EUR 80K-150K in advisory costs versus EUR 50K-100K for a domestic deal of equivalent size. The additional expense covers dual-jurisdiction legal counsel, cross-border tax structuring, holding company formation, and translation services. Searchers should budget for these costs from the outset and factor them into their total acquisition cost model rather than treating them as an afterthought.
         </p>
 
         <h3 className={h3Class}>Is it possible to run a cross-border European search fund without relocating to the target country?</h3>
         <p>
-          While some searchers have successfully acquired businesses across borders without permanent relocation, the evidence strongly favors relocating &mdash; at least for the first 12&ndash;18 months post-acquisition. INSEAD&rsquo;s ETA research shows that search fund operators who relocate to the target company&rsquo;s country achieve significantly better employee retention and customer preservation during the transition. The EU&rsquo;s freedom of movement makes relocation straightforward for EU citizens. For non-EU citizens, most member states offer investor or entrepreneur visa categories that facilitate relocation when linked to a qualifying business acquisition.
+          While some searchers have successfully acquired businesses across borders without permanent relocation, the evidence strongly favors relocating, at least for the first 12-18 months post-acquisition. INSEAD&rsquo;s ETA research shows that search fund operators who relocate to the target company&rsquo;s country achieve significantly better employee retention and customer preservation during the transition. The EU&rsquo;s freedom of movement makes relocation straightforward for EU citizens. For non-EU citizens, most member states offer investor or entrepreneur visa categories that facilitate relocation when linked to a qualifying business acquisition.
         </p>
 
         <h3 className={h3Class}>Which European holding company jurisdiction is best for a multi-country search fund?</h3>
@@ -487,17 +487,17 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; International Search Fund Study and European ETA Data
+              IESE Business School, International Search Fund Study and European ETA Data
             </a>
           </li>
           <li>
             <a href="https://www.insead.edu/centres/entrepreneurship/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              INSEAD &mdash; ETA &amp; Search Funds Research Hub
+              INSEAD, ETA &amp; Search Funds Research Hub
             </a>
           </li>
           <li>
             <a href="https://taxation-customs.ec.europa.eu/anti-tax-avoidance-directive_en" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              European Commission &mdash; Anti-Tax Avoidance Directives (ATAD I &amp; II)
+              European Commission, Anti-Tax Avoidance Directives (ATAD I &amp; II)
             </a>
           </li>
         </ul>

@@ -14,7 +14,7 @@ export default function ICOSpainArticle() {
         <p>The primary ICO program relevant to business acquisitions:</p>
         <ul className={ulClass}>
           <li><strong>Loan amount:</strong> Up to &euro;12.5 million per client per year</li>
-          <li><strong>Term:</strong> 1&ndash;20 years (including grace period)</li>
+          <li><strong>Term:</strong> 1-20 years (including grace period)</li>
           <li><strong>Grace period:</strong> Up to 3 years for principal payments</li>
           <li><strong>Interest rate:</strong> Fixed or variable, set by the intermediary bank within ICO-established maximums</li>
           <li><strong>Use of proceeds:</strong> Business acquisitions, productive investments, working capital</li>
@@ -24,9 +24,9 @@ export default function ICOSpainArticle() {
 
       <h2 className={h2Class}>ENISA (Empresa Nacional de Innovaci&oacute;n)</h2>
       <div className={bodyClass}>
-        <p>ENISA provides participative loans (pr&eacute;stamos participativos) &mdash; a uniquely Spanish instrument:</p>
+        <p>ENISA provides participative loans (pr&eacute;stamos participativos), a uniquely Spanish instrument:</p>
         <ul className={ulClass}>
-          <li><strong>Amount:</strong> &euro;25,000&ndash;&euro;1.5 million</li>
+          <li><strong>Amount:</strong> &euro;25,000-&euro;1.5 million</li>
           <li><strong>Structure:</strong> Subordinated loan with interest tied to company performance</li>
           <li><strong>No collateral:</strong> No personal guarantees or collateral required</li>
           <li><strong>Counts as equity:</strong> Under Spanish law, participative loans count as net worth for capital adequacy</li>
@@ -55,16 +55,16 @@ export default function ICOSpainArticle() {
           <li><strong>Andalusia:</strong> Idea Agency programs</li>
           <li><strong>Valencia:</strong> IVF (Institut Valenci&agrave; de Finances)</li>
         </ul>
-        <p>Mutual guarantee societies (Sociedades de Garant&iacute;a Rec&iacute;proca or SGRs) are particularly useful &mdash; they provide guarantees to banks, enabling better loan terms for acquisitions. According to CESGAR (the Spanish confederation of SGRs), these societies guaranteed over &euro;5 billion in outstanding loans in 2023, with default rates significantly below the SME average.</p>
+        <p>Mutual guarantee societies (Sociedades de Garant&iacute;a Rec&iacute;proca or SGRs) are particularly useful, they provide guarantees to banks, enabling better loan terms for acquisitions. According to CESGAR (the Spanish confederation of SGRs), these societies guaranteed over &euro;5 billion in outstanding loans in 2023, with default rates significantly below the SME average.</p>
       </div>
 
       <h2 className={h2Class}>Typical Spanish Acquisition Structure</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Senior bank debt (ICO-backed): 40&ndash;50% of deal value</li>
-          <li>Vendor loan: 15&ndash;25%</li>
-          <li>ENISA participative loan: 10&ndash;15%</li>
-          <li>Buyer equity: 20&ndash;30%</li>
+          <li>Senior bank debt (ICO-backed): 40-50% of deal value</li>
+          <li>Vendor loan: 15-25%</li>
+          <li>ENISA participative loan: 10-15%</li>
+          <li>Buyer equity: 20-30%</li>
         </ul>
       </div>
 
@@ -79,7 +79,7 @@ export default function ICOSpainArticle() {
             <Link href="/learn/goodwill-amortization-tax" className="text-apple-accent hover:underline">goodwill amortization guide</Link>{" "}
             for cross-country comparison</li>
           <li><strong>Interest deductibility:</strong> Limited to 30% of EBITDA</li>
-          <li><strong>Transfer tax (ITP):</strong> 1&ndash;6% on share transfers depending on region</li>
+          <li><strong>Transfer tax (ITP):</strong> 1-6% on share transfers depending on region</li>
         </ul>
       </div>
 
@@ -125,7 +125,7 @@ export default function ICOSpainArticle() {
       <div className={bodyClass}>
         <p>
           ENISA participative loans are subordinated loans of
-          &euro;25K&ndash;&euro;1.5M with interest tied to company performance.
+          &euro;25K-&euro;1.5M with interest tied to company performance.
           Under Spanish law, they count as net worth (fondos propios), which
           means they strengthen the company&rsquo;s balance sheet rather than
           adding conventional debt. They require no personal guarantee or
@@ -143,9 +143,9 @@ export default function ICOSpainArticle() {
         <p>
           SGRs act as guarantors to commercial banks, covering a portion of
           the loan risk. When you bring an SGR guarantee, banks can offer
-          lower interest rates (typically 0.5&ndash;1.5% less), reduced
+          lower interest rates (typically 0.5-1.5% less), reduced
           collateral requirements, and longer repayment terms. The cost of an
-          SGR guarantee is typically 0.5&ndash;1.5% annually on the
+          SGR guarantee is typically 0.5-1.5% annually on the
           guaranteed amount. Each autonomous community has one or more SGRs,
           so contact the one in the region where the target business operates.
         </p>

@@ -11,7 +11,7 @@ export default function DealStructureOptimizationArticle() {
 
       <div className={bodyClass}>
         <p>
-          The best acquisitions aren&rsquo;t won on price alone &mdash;
+          The best acquisitions aren&rsquo;t won on price alone , 
           they&rsquo;re won on structure. Creative deal structures can bridge
           valuation gaps, reduce risk for both parties, optimize tax outcomes,
           and make deals work that would otherwise fail. This guide covers
@@ -34,11 +34,11 @@ export default function DealStructureOptimizationArticle() {
 
         <h3 className={h3Class}>2. Seller financing</h3>
         <ul className={ulClass}>
-          <li>Deferred payment of 10&ndash;30% of purchase price. See{" "}
+          <li>Deferred payment of 10-30% of purchase price. See{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               seller financing guide
             </Link></li>
-          <li>Typical terms: 5&ndash;7% interest, 3&ndash;7 year term, subordinated to senior debt</li>
+          <li>Typical terms: 5-7% interest, 3-7 year term, subordinated to senior debt</li>
           <li>Aligns seller&rsquo;s interests with buyer&rsquo;s success (seller only gets paid if business survives)</li>
           <li>SBA requires a minimum 2-year standby period on seller notes</li>
         </ul>
@@ -51,13 +51,13 @@ export default function DealStructureOptimizationArticle() {
             </Link></li>
           <li>Bridge valuation gaps when buyer and seller disagree on future performance</li>
           <li>Common metrics: revenue, EBITDA, customer retention, specific milestones</li>
-          <li>Typical range: 10&ndash;30% of total consideration</li>
+          <li>Typical range: 10-30% of total consideration</li>
           <li>Risk: Disputes over earn-out calculations are common. Define formulas precisely</li>
         </ul>
 
         <h3 className={h3Class}>4. Equity rollover</h3>
         <ul className={ulClass}>
-          <li>Seller retains 10&ndash;30% ownership in the acquired business</li>
+          <li>Seller retains 10-30% ownership in the acquired business</li>
           <li>Aligns long-term interests and demonstrates seller confidence</li>
           <li>Can satisfy part of the equity injection requirement</li>
           <li>Common in PE-backed deals and some search fund structures</li>
@@ -78,41 +78,41 @@ export default function DealStructureOptimizationArticle() {
 
         <h3 className={h3Class}>Structure 1: Classic SBA (self-funded)</h3>
         <ul className={ulClass}>
-          <li><strong>Senior debt (SBA 7(a)):</strong> 70&ndash;80% of purchase price</li>
-          <li><strong>Seller note:</strong> 10&ndash;15% (on standby for 2 years per SBA rules)</li>
-          <li><strong>Buyer equity:</strong> 10&ndash;15%</li>
-          <li><strong>Best for:</strong> Businesses with $500K&ndash;$1.5M EBITDA, self-funded searchers</li>
-          <li><strong>Total use:</strong> 3&ndash;3.5x EBITDA</li>
+          <li><strong>Senior debt (SBA 7(a)):</strong> 70-80% of purchase price</li>
+          <li><strong>Seller note:</strong> 10-15% (on standby for 2 years per SBA rules)</li>
+          <li><strong>Buyer equity:</strong> 10-15%</li>
+          <li><strong>Best for:</strong> Businesses with $500K-$1.5M EBITDA, self-funded searchers</li>
+          <li><strong>Total use:</strong> 3-3.5x EBITDA</li>
         </ul>
 
         <h3 className={h3Class}>Structure 2: Traditional search fund acquisition</h3>
         <ul className={ulClass}>
-          <li><strong>Senior debt:</strong> 50&ndash;65% of purchase price</li>
-          <li><strong>Seller note:</strong> 10&ndash;20%</li>
-          <li><strong>Search fund investor equity:</strong> 20&ndash;35%</li>
-          <li><strong>Best for:</strong> Businesses with $1.5M&ndash;$5M EBITDA</li>
-          <li><strong>Total use:</strong> 2.5&ndash;3.5x EBITDA</li>
+          <li><strong>Senior debt:</strong> 50-65% of purchase price</li>
+          <li><strong>Seller note:</strong> 10-20%</li>
+          <li><strong>Search fund investor equity:</strong> 20-35%</li>
+          <li><strong>Best for:</strong> Businesses with $1.5M-$5M EBITDA</li>
+          <li><strong>Total use:</strong> 2.5-3.5x EBITDA</li>
         </ul>
 
         <h3 className={h3Class}>Structure 3: Creative / seller-heavy</h3>
         <ul className={ulClass}>
-          <li><strong>Cash at close:</strong> 40&ndash;60% (minimal bank debt or no bank debt)</li>
-          <li><strong>Seller note:</strong> 25&ndash;40% (larger note, longer term)</li>
-          <li><strong>Earn-out:</strong> 10&ndash;20% tied to performance</li>
-          <li><strong>Equity rollover:</strong> 5&ndash;15%</li>
+          <li><strong>Cash at close:</strong> 40-60% (minimal bank debt or no bank debt)</li>
+          <li><strong>Seller note:</strong> 25-40% (larger note, longer term)</li>
+          <li><strong>Earn-out:</strong> 10-20% tied to performance</li>
+          <li><strong>Equity rollover:</strong> 5-15%</li>
           <li><strong>Best for:</strong> Deals where bank financing is difficult (declining revenue, customer concentration, short operating history)</li>
         </ul>
 
         <h2 className={h2Class}>Structural levers to bridge valuation gaps</h2>
         <p>
-          When buyer and seller are $500K&ndash;$2M apart on price, structure
+          When buyer and seller are $500K-$2M apart on price, structure
           is the negotiation tool:
         </p>
         <ul className={ulClass}>
           <li><strong>Earn-out on the gap:</strong> &ldquo;I&rsquo;ll pay your price IF the business performs as you project.&rdquo; The seller gets their price only if their revenue projections materialize</li>
-          <li><strong>Seller note with interest premium:</strong> Offer above-market interest (7&ndash;8%) on a larger seller note. The seller earns more total, and you reduce cash-at-close risk</li>
-          <li><strong>Equity rollover:</strong> Give the seller 10&ndash;20% equity in the recapitalized business. They participate in future upside from your value creation</li>
-          <li><strong>Consulting agreement:</strong> A 12&ndash;24 month consulting agreement at $5K&ndash;$15K/month gives the seller additional income and ensures a smooth{" "}
+          <li><strong>Seller note with interest premium:</strong> Offer above-market interest (7-8%) on a larger seller note. The seller earns more total, and you reduce cash-at-close risk</li>
+          <li><strong>Equity rollover:</strong> Give the seller 10-20% equity in the recapitalized business. They participate in future upside from your value creation</li>
+          <li><strong>Consulting agreement:</strong> A 12-24 month consulting agreement at $5K-$15K/month gives the seller additional income and ensures a smooth{" "}
             <Link href="/learn/management-transition" className="text-apple-accent hover:underline">
               transition
             </Link></li>
@@ -128,7 +128,7 @@ export default function DealStructureOptimizationArticle() {
           for details. Key structural considerations:
         </p>
         <ul className={ulClass}>
-          <li><strong>Purchase price allocation:</strong> In asset deals, allocating more to depreciable assets (equipment, goodwill) creates tax shields worth 20&ndash;30% of the allocated amount</li>
+          <li><strong>Purchase price allocation:</strong> In asset deals, allocating more to depreciable assets (equipment, goodwill) creates tax shields worth 20-30% of the allocated amount</li>
           <li><strong>Non-compete allocation:</strong> Payments allocated to the seller&rsquo;s non-compete are deductible to the buyer and ordinary income to the seller. Negotiate this jointly</li>
           <li><strong>338(h)(10) election:</strong> Treats a stock sale as an asset sale for tax purposes. Can give buyers asset-purchase tax benefits while maintaining stock-purchase contract continuity</li>
           <li><strong>Installment sale treatment:</strong> For the seller, spreading payments over time can reduce the tax rate on gains</li>
@@ -136,11 +136,11 @@ export default function DealStructureOptimizationArticle() {
 
         <h2 className={h2Class}>Protecting the downside</h2>
         <ul className={ulClass}>
-          <li><strong>Working capital adjustment:</strong> Ensure the business is delivered with adequate working capital. Disagreements on the &ldquo;peg&rdquo; are common &mdash; define it precisely in the{" "}
+          <li><strong>Working capital adjustment:</strong> Ensure the business is delivered with adequate working capital. Disagreements on the &ldquo;peg&rdquo; are common, define it precisely in the{" "}
             <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">
               purchase agreement
             </Link></li>
-          <li><strong>Escrow / holdback:</strong> 10&ndash;20% of purchase price held back for 12&ndash;24 months to cover indemnification claims</li>
+          <li><strong>Escrow / holdback:</strong> 10-20% of purchase price held back for 12-24 months to cover indemnification claims</li>
           <li><strong>Representations &amp; warranties:</strong> Thorough reps with meaningful indemnification give you recourse if the seller misrepresented the business</li>
           <li><strong>Cap on seller note:</strong> Structure the seller note so that payments stop if the business materially underperforms</li>
         </ul>
@@ -162,26 +162,26 @@ export default function DealStructureOptimizationArticle() {
         <h3 className={h3Class}>What is the most common deal structure for search fund acquisitions?</h3>
         <p>
           According to the Stanford GSB 2024 Search Fund Study, the most
-          common structure is senior debt (50&ndash;70% of purchase price)
-          plus search fund investor equity (20&ndash;35%) plus a seller note
-          (10&ndash;20%). For self-funded searchers using SBA 7(a) loans,
-          the typical split is 70&ndash;80% SBA debt, 10&ndash;15% seller
-          financing on a 2-year standby, and 10&ndash;15% buyer equity.
+          common structure is senior debt (50-70% of purchase price)
+          plus search fund investor equity (20-35%) plus a seller note
+          (10-20%). For self-funded searchers using SBA 7(a) loans,
+          the typical split is 70-80% SBA debt, 10-15% seller
+          financing on a 2-year standby, and 10-15% buyer equity.
           The right structure depends on deal size, business quality, and
           lender appetite.
         </p>
 
         <h3 className={h3Class}>How can I bridge a valuation gap with the seller?</h3>
         <p>
-          The most effective tools for bridging a $500K&ndash;$2M valuation
+          The most effective tools for bridging a $500K-$2M valuation
           gap are{" "}
           <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
             earn-outs
           </Link>{" "}
           tied to future performance, larger seller notes at above-market
-          interest rates (7&ndash;8%), equity rollover giving the seller
-          10&ndash;20% ownership, and consulting agreements at
-          $5K&ndash;$15K per month. These mechanisms let you pay the
+          interest rates (7-8%), equity rollover giving the seller
+          10-20% ownership, and consulting agreements at
+          $5K-$15K per month. These mechanisms let you pay the
           seller&rsquo;s price contingent on performance while protecting
           your downside if the business underperforms.
         </p>
@@ -192,7 +192,7 @@ export default function DealStructureOptimizationArticle() {
           (creating tax-deductible depreciation and amortization), while
           stock purchases benefit sellers through capital gains treatment.
           Most search fund deals are structured as asset purchases because
-          the buyer&rsquo;s tax benefits over 5&ndash;15 years often exceed
+          the buyer&rsquo;s tax benefits over 5-15 years often exceed
           the seller&rsquo;s incremental tax cost. When the gap is
           significant, buyers can offer a modest price increase to compensate
           the seller. A{" "}

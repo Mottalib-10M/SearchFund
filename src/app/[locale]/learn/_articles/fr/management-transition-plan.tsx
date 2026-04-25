@@ -425,16 +425,16 @@ export default function ManagementTransitionFR() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>
-          Code du travail &mdash; Article L2312-8 (consultation du CSE sur l&apos;organisation et la marche générale de l&apos;entreprise).
+          Code du travail, Article L2312-8 (consultation du CSE sur l&apos;organisation et la marche générale de l&apos;entreprise).
         </li>
         <li>
-          Code du travail &mdash; Article L2312-42 (consultation du CSE en cas de modification de l&apos;organisation économique ou juridique).
+          Code du travail, Article L2312-42 (consultation du CSE en cas de modification de l&apos;organisation économique ou juridique).
         </li>
         <li>
-          Code du travail &mdash; Article L2317-1 (délit d&apos;entrave).
+          Code du travail, Article L2317-1 (délit d&apos;entrave).
         </li>
         <li>
-          Code de commerce &mdash; Articles L23-10-1 et suivants (droit d&apos;information préalable des salariés, loi Hamon).
+          Code de commerce, Articles L23-10-1 et suivants (droit d&apos;information préalable des salariés, loi Hamon).
         </li>
         <li>
           Bpifrance &mdash; <em>Reprendre une Entreprise&nbsp;: Le Guide du Repreneur</em>, 2024.

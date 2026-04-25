@@ -8,9 +8,9 @@ export default function TaxImplicationsSearchFundArticle() {
       <p className="text-sm text-apple-gray-500 mt-3">14 min read</p>
       <div className={bodyClass}>
         <p>
-          A search fund&apos;s tax structure can swing net returns by 15&ndash;30% over the life of a deal.
+          A search fund&apos;s tax structure can swing net returns by 15-30% over the life of a deal.
           From the moment you raise search capital through the day you sell the acquired company, every
-          phase&mdash;searching, acquiring, operating, exiting&mdash;carries distinct tax consequences that
+          phase, searching, acquiring, operating, exiting, carries distinct tax consequences that
           affect searchers, investors, and sellers differently. This article breaks down IRC provisions,
           entity-level choices, and equity compensation mechanics that determine how much of your return
           the IRS keeps. If you are raising a search fund, investing in one, or selling your business to
@@ -30,21 +30,21 @@ export default function TaxImplicationsSearchFundArticle() {
           begins (reduced dollar-for-dollar once total start-up costs exceed $50,000). The remaining balance
           is amortized ratably over 180 months (15 years) beginning in the month the acquired business starts
           operating. For a search fund that spends $400,000 during a two-year search, this means roughly
-          $26,400 per year in amortization deductions&mdash;modest, but real.
+          $26,400 per year in amortization deductions, modest, but real.
         </p>
         <p>
           If the search fails and no acquisition closes, investors face a different path. The search entity
           typically liquidates, and investors recognize a capital loss equal to their invested search
           capital. Whether this loss is short-term or long-term depends on the holding period from
-          investment to liquidation. Most search phases run 18&ndash;24 months, so losses often qualify as
-          long-term capital losses. According to Stanford&apos;s 2023 Search Fund Study, roughly 25&ndash;30%
+          investment to liquidation. Most search phases run 18-24 months, so losses often qualify as
+          long-term capital losses. According to Stanford&apos;s 2023 Search Fund Study, roughly 25-30%
           of traditional search funds do not complete an acquisition, making this scenario more than
           theoretical.
         </p>
         <p>
           Operationally, search-phase expenses like the searcher&apos;s salary and health insurance are
           typically paid by the fund entity. Because the entity is not yet operating a trade or business,
-          these are not ordinary business deductions&mdash;they accumulate as Section 195 start-up costs
+          these are not ordinary business deductions, they accumulate as Section 195 start-up costs
           or, if the search fails, become part of the investors&apos; capital loss. Understanding this
           distinction matters for cash flow planning, since investors will not receive any pass-through
           deductions during the search itself. For more on how search fund entities are set up, see{" "}
@@ -56,7 +56,7 @@ export default function TaxImplicationsSearchFundArticle() {
         <h2 className={h2Class}>The Equity Step-Up: Tax Consequences of Converting Search Capital</h2>
         <p>
           When a search fund closes an acquisition, investors who funded the search phase receive a
-          step-up on their capital&mdash;typically 1.5x their original investment. A $100,000 search
+          step-up on their capital, typically 1.5x their original investment. A $100,000 search
           investment converts into $150,000 of acquisition equity. This step-up is not a taxable event
           for the investor. Instead, it is built into the{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
@@ -70,21 +70,21 @@ export default function TaxImplicationsSearchFundArticle() {
         <p>
           For the searcher, the equity step-up is the mechanism that funds their &ldquo;promote&rdquo;
           or carried interest. The 1.5x step-up effectively dilutes the searcher&apos;s relative
-          ownership, but the searcher receives their own equity tranche (typically 20&ndash;30% of
+          ownership, but the searcher receives their own equity tranche (typically 20-30% of
           total equity) as compensation for finding and operating the deal. How this equity is taxed
           depends heavily on whether it is structured as profits interest, restricted stock, or
-          stock options&mdash;a topic addressed in the section on 83(b) elections below.
+          stock options, a topic addressed in the section on 83(b) elections below.
         </p>
 
         <h2 className={h2Class}>Searcher Equity and the 83(b) Election</h2>
         <p>
           The searcher&apos;s equity stake is the single most consequential tax decision in a search
-          fund. Most searcher equity vests over 4&ndash;5 years following acquisition, and the tax
+          fund. Most searcher equity vests over 4-5 years following acquisition, and the tax
           treatment depends on the type of equity and when it is recognized.
         </p>
         <p>
           <strong>Profits interest in a partnership/LLC.</strong> If the acquisition entity is an LLC
-          taxed as a partnership, the searcher typically receives a &ldquo;profits interest&rdquo;&mdash;a
+          taxed as a partnership, the searcher typically receives a &ldquo;profits interest&rdquo;, a
           right to share in future appreciation above a specified threshold. When properly structured,
           a profits interest grant has zero value at issuance under IRS Revenue Procedure 93-27, meaning
           no taxable income at grant. Future gains are taxed as they accrue (for pass-through entities)
@@ -107,7 +107,7 @@ export default function TaxImplicationsSearchFundArticle() {
           and converts all future appreciation into long-term capital gains. The savings can be
           enormous: the difference between a 37% ordinary income rate and a 20% long-term capital
           gains rate on equity that may grow from near-zero to millions. Missing the 30-day filing
-          deadline is irrevocable&mdash;there are no extensions, no exceptions.
+          deadline is irrevocable, there are no extensions, no exceptions.
         </p>
         <p>
           <strong>The risk.</strong> An 83(b) election is a bet. If the searcher leaves before vesting
@@ -133,7 +133,7 @@ export default function TaxImplicationsSearchFundArticle() {
           personal returns via Schedule K-1. There is no entity-level federal tax. The 2017 Tax Cuts and
           Jobs Act added a 20% qualified business income (QBI) deduction under Section 199A for certain
           pass-through income, potentially reducing the effective rate on operating income to roughly
-          29.6% for top-bracket taxpayers. However, pass-throughs create &ldquo;phantom income&rdquo;&mdash;investors
+          29.6% for top-bracket taxpayers. However, pass-throughs create &ldquo;phantom income&rdquo;, investors
           owe tax on their allocated share of profits whether or not cash is distributed. For a search
           fund holding a profitable business, this mismatch can strain investor relations unless the
           operating agreement mandates tax distributions.
@@ -146,7 +146,7 @@ export default function TaxImplicationsSearchFundArticle() {
           versus 37% (or 29.6% with QBI) for pass-throughs. However, C-Corps offer one powerful
           advantage: Section 1202 Qualified Small Business Stock (QSBS) eligibility. If the stock is
           held for at least five years and the corporation meets gross asset and active business tests,
-          shareholders can exclude up to $10 million or 10x their basis from capital gains&mdash;potentially
+          shareholders can exclude up to $10 million or 10x their basis from capital gains, potentially
           a tax-free exit. For deals where a five-year hold is realistic and the company meets
           qualification thresholds (gross assets under $50 million at issuance), the QSBS benefit
           can outweigh the cost of double taxation during operations.
@@ -172,7 +172,7 @@ export default function TaxImplicationsSearchFundArticle() {
         <p>
           <strong>Stock sale (seller-friendly).</strong> The seller recognizes a single layer of capital
           gains tax on the difference between their stock basis and the sale price. For individual
-          shareholders of a C-Corp, this produces a 20% federal rate plus 3.8% NIIT&mdash;a combined
+          shareholders of a C-Corp, this produces a 20% federal rate plus 3.8% NIIT, a combined
           23.8%. For S-Corp shareholders, the pass-through of the deemed asset sale under a{" "}
           <Link href="/learn/338h10-election" className="text-apple-accent hover:underline">
             338(h)(10) election
@@ -191,11 +191,11 @@ export default function TaxImplicationsSearchFundArticle() {
         </p>
         <p>
           <strong>Bridging the gap.</strong> The tax differential between asset and stock sale treatment
-          typically runs 5&ndash;15% of the purchase price for the seller. Buyers often compensate
+          typically runs 5-15% of the purchase price for the seller. Buyers often compensate
           sellers with a modest price increase (sometimes called a &ldquo;tax gross-up&rdquo;) to
           secure the asset sale structure. Alternatively, a 338(h)(10) election for S-Corp targets
           gives the buyer the stepped-up basis while the seller recognizes a mix of ordinary and
-          capital gains&mdash;a middle ground that frequently appears in search fund transactions.
+          capital gains, a middle ground that frequently appears in search fund transactions.
           Purchase price allocation under Section 1060 must follow the residual method across seven
           asset classes, and this allocation is a negotiated term in the{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
@@ -206,7 +206,7 @@ export default function TaxImplicationsSearchFundArticle() {
 
         <h2 className={h2Class}>State Tax Nexus and Multi-State Considerations</h2>
         <p>
-          Federal tax planning captures most of the attention, but state taxes can add 3&ndash;13%
+          Federal tax planning captures most of the attention, but state taxes can add 3-13%
           to effective rates depending on where the acquired business operates, where the searcher
           resides, and where investors are located.
         </p>
@@ -241,8 +241,8 @@ export default function TaxImplicationsSearchFundArticle() {
         <h2 className={h2Class}>International Search Fund Tax Considerations</h2>
         <p>
           Cross-border search funds introduce additional layers of tax planning. For US-based
-          investors backing a searcher acquiring a business abroad&mdash;or non-US investors
-          participating in a domestic search fund&mdash;several issues arise.
+          investors backing a searcher acquiring a business abroad, or non-US investors
+          participating in a domestic search fund, several issues arise.
         </p>
         <p>
           <strong>Outbound (US investors, foreign target).</strong> A US person acquiring a foreign
@@ -287,7 +287,7 @@ export default function TaxImplicationsSearchFundArticle() {
 
         <h3 className={h3Class}>What happens if a searcher misses the 83(b) election deadline?</h3>
         <p>
-          The 30-day filing window is absolute&mdash;the IRS grants no extensions or exceptions. Without
+          The 30-day filing window is absolute, the IRS grants no extensions or exceptions. Without
           the election, each vesting tranche of restricted stock is taxed as ordinary income at the
           fair market value on the vesting date. If the company has appreciated significantly, this
           can result in a tax bill of hundreds of thousands of dollars, often before the searcher has
@@ -308,7 +308,7 @@ export default function TaxImplicationsSearchFundArticle() {
           Yes, if the acquisition vehicle is a C-Corporation, the stock was acquired at original issuance,
           the corporation&apos;s gross assets never exceeded $50 million, and the stock is held for at
           least five years. The exclusion under Section 1202 can eliminate federal capital gains tax on
-          up to $10 million or 10x the shareholder&apos;s adjusted basis. State treatment varies&mdash;California,
+          up to $10 million or 10x the shareholder&apos;s adjusted basis. State treatment varies, California,
           for example, does not conform to the federal QSBS exclusion.
         </p>
 

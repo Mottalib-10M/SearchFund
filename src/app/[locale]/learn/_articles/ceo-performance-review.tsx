@@ -61,7 +61,7 @@ export default function CEOPerformanceReviewArticle() {
         <ol className={olClass}>
           <li><strong>CEO self-assessment:</strong> The CEO completes a written self-evaluation against agreed-upon goals</li>
           <li><strong>Board feedback:</strong> Each board member provides independent written feedback</li>
-          <li><strong>360-degree input:</strong> Optional but valuable &mdash; gather feedback from direct reports and key stakeholders</li>
+          <li><strong>360-degree input:</strong> Optional but valuable, gather feedback from direct reports and key stakeholders</li>
           <li><strong>Lead director meeting:</strong> The lead director or board chair consolidates feedback and meets with the CEO</li>
           <li><strong>Written summary:</strong> Document agreed-upon strengths, development areas, and goals for the next year</li>
           <li><strong>Compensation discussion:</strong> Separate meeting (not the same day) to discuss compensation implications</li>
@@ -71,14 +71,14 @@ export default function CEOPerformanceReviewArticle() {
       <h2 className={h2Class}>Common Pitfalls to Avoid</h2>
       <div className={bodyClass}>
         <p>
-          The NACD&apos;s 2024 framework for CEO evaluation identifies several common mistakes boards make. First, conflating the performance review with the compensation discussion in a single meeting creates a dynamic where the CEO focuses on defending outcomes rather than candidly discussing development areas. Second, boards that rely solely on financial metrics miss critical leading indicators such as employee engagement, management team development, and strategic pipeline quality. Third, reviews that lack a forward-looking component &mdash; clear goals for the next year &mdash; produce accountability gaps that compound over time. Harvard Business Review&apos;s research on CEO evaluations emphasizes that the most effective reviews balance accountability with support, treating the process as a development conversation rather than a judgment.
+          The NACD&apos;s 2024 framework for CEO evaluation identifies several common mistakes boards make. First, conflating the performance review with the compensation discussion in a single meeting creates a dynamic where the CEO focuses on defending outcomes rather than candidly discussing development areas. Second, boards that rely solely on financial metrics miss critical leading indicators such as employee engagement, management team development, and strategic pipeline quality. Third, reviews that lack a forward-looking component, clear goals for the next year, produce accountability gaps that compound over time. Harvard Business Review&apos;s research on CEO evaluations emphasizes that the most effective reviews balance accountability with support, treating the process as a development conversation rather than a judgment.
         </p>
       </div>
 
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Annual CEO reviews are essential governance practice &mdash; especially for first-time CEOs in search fund companies</li>
+          <li>Annual CEO reviews are essential governance practice, especially for first-time CEOs in search fund companies</li>
           <li>Use a balanced framework: financial performance (40%), strategic execution (25%), people (20%), board relations (15%)</li>
           <li>Start with CEO self-assessment, gather board feedback independently, then consolidate with the lead director</li>
           <li>Separate the performance discussion from the compensation discussion</li>
@@ -110,7 +110,7 @@ export default function CEOPerformanceReviewArticle() {
         <h3 className={h3Class}>Should compensation be discussed in the same meeting as performance?</h3>
         <p>
           No. Separating the performance conversation from the compensation
-          discussion &mdash; ideally by at least a week &mdash; ensures the
+          discussion, ideally by at least a week, ensures the
           CEO engages candidly in the review rather than advocating for a
           particular outcome. Address performance and development first,
           then use those conclusions to inform compensation decisions in a

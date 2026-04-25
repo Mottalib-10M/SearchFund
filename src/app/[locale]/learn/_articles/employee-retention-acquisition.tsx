@@ -24,9 +24,9 @@ export default function EmployeeRetentionAcquisitionArticle() {
           </a>
           , 47% of key employees leave within the first year of an acquisition,
           and 75% are gone within three years. For a search fund acquisition
-          where the business often has 10&ndash;30 employees and one or two
+          where the business often has 10-30 employees and one or two
           irreplaceable people, losing a single critical team member can wipe
-          out 20&ndash;40% of the enterprise value you just paid for. This guide
+          out 20-40% of the enterprise value you just paid for. This guide
           gives you a week-by-week, month-by-month retention plan built for
           the ETA operator who just walked through the door.
         </p>
@@ -47,8 +47,8 @@ export default function EmployeeRetentionAcquisitionArticle() {
             Mercer analysis of over 200 transactions
           </a>{" "}
           found that approximately 40% of critical talent is lost within
-          18&ndash;24 months post-close. In a Fortune 500 company, that loss is
-          painful but survivable. In a $2M&ndash;$5M EBITDA business with a
+          18-24 months post-close. In a Fortune 500 company, that loss is
+          painful but survivable. In a $2M-$5M EBITDA business with a
           flat org chart, losing the operations manager who knows every
           customer by name or the lead technician who holds certifications the
           business depends on can be existential.
@@ -64,7 +64,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
             MIT Sloan
           </a>{" "}
           analyzing 4,000 acquisitions and 350,000 transferred employees found
-          that 33% of acquired workers leave within the first year &mdash;
+          that 33% of acquired workers leave within the first year , 
           nearly three times the 12% departure rate of regular hires. The core
           reason: acquired employees didn&apos;t choose the new arrangement.
           They chose to work for the previous owner. You are an unknown, and
@@ -93,7 +93,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Week 1&ndash;2 (Shock phase):</strong> Employees are
+            <strong>Week 1-2 (Shock phase):</strong> Employees are
             stunned and watching. They are not yet job-searching, but they are
             forming first impressions of you that will be difficult to reverse.
             This is the window covered in your{" "}
@@ -106,9 +106,9 @@ export default function EmployeeRetentionAcquisitionArticle() {
             .
           </li>
           <li>
-            <strong>Month 1&ndash;3 (Evaluation phase):</strong> Employees
+            <strong>Month 1-3 (Evaluation phase):</strong> Employees
             start comparing the new reality to the old one. Recruiters begin
-            calling &mdash; word travels fast in local industries. According to{" "}
+            calling, word travels fast in local industries. According to{" "}
             <a
               href="https://www.gallup.com/workplace/267494/stop-losing-talent-merge-acquire.aspx"
               target="_blank"
@@ -121,20 +121,20 @@ export default function EmployeeRetentionAcquisitionArticle() {
             six months.
           </li>
           <li>
-            <strong>Month 3&ndash;6 (Decision phase):</strong> This is peak
+            <strong>Month 3-6 (Decision phase):</strong> This is peak
             voluntary departure. Employees who were uncertain have now either
             built trust with the new owner or started interviewing.
           </li>
           <li>
-            <strong>Month 6&ndash;12 (Settling or exit phase):</strong>{" "}
+            <strong>Month 6-12 (Settling or exit phase):</strong>{" "}
             Retention bonuses with 12-month cliffs often expire here. Some
             employees collect their bonus and leave. The ones who stay past 12
             months are statistically likely to remain for the long term.
           </li>
           <li>
-            <strong>Month 12&ndash;24 (Rebuild phase):</strong> The
+            <strong>Month 12-24 (Rebuild phase):</strong> The
             organization has stabilized. Voluntary turnover should return to
-            baseline industry rates (typically 15&ndash;20% annually for SMBs).
+            baseline industry rates (typically 15-20% annually for SMBs).
           </li>
         </ul>
 
@@ -164,11 +164,11 @@ export default function EmployeeRetentionAcquisitionArticle() {
           approached by competitors?).
         </p>
         <p>
-          In a typical 15-person SMB, you will find 2&ndash;4 people who are
+          In a typical 15-person SMB, you will find 2-4 people who are
           truly critical. These might be the GM who runs daily operations, the
           lead salesperson who manages 60% of customer relationships, or the
           senior technician whose certifications take two years to obtain. These
-          are the people who need individual retention plans &mdash; not a
+          are the people who need individual retention plans, not a
           generic company-wide approach.
         </p>
         <p>
@@ -220,8 +220,8 @@ export default function EmployeeRetentionAcquisitionArticle() {
           approximately 1% of the purchase price. For a $4M acquisition, that
           means roughly $40,000 allocated to retention bonuses. In ETA
           acquisitions, where you are buying smaller companies with thinner
-          management layers, consider budgeting 1.5&ndash;2.5% of the purchase
-          price &mdash; the concentration risk is higher.
+          management layers, consider budgeting 1.5-2.5% of the purchase
+          price, the concentration risk is higher.
         </p>
 
         <h3 className={h3Class}>How much per person</h3>
@@ -233,20 +233,20 @@ export default function EmployeeRetentionAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>General Manager / Ops Manager:</strong> 30&ndash;50% of
-            base salary ($25,000&ndash;$45,000 for someone earning $85,000)
+            <strong>General Manager / Ops Manager:</strong> 30-50% of
+            base salary ($25,000-$45,000 for someone earning $85,000)
           </li>
           <li>
-            <strong>Key salesperson:</strong> 20&ndash;40% of base salary, or
-            structure as enhanced commission guarantees for 12&ndash;18 months
+            <strong>Key salesperson:</strong> 20-40% of base salary, or
+            structure as enhanced commission guarantees for 12-18 months
           </li>
           <li>
-            <strong>Senior technician / specialist:</strong> 20&ndash;35% of
-            base salary ($12,000&ndash;$25,000 for someone earning $65,000)
+            <strong>Senior technician / specialist:</strong> 20-35% of
+            base salary ($12,000-$25,000 for someone earning $65,000)
           </li>
           <li>
-            <strong>Office manager / bookkeeper:</strong> 15&ndash;25% of base
-            salary ($8,000&ndash;$15,000)
+            <strong>Office manager / bookkeeper:</strong> 15-25% of base
+            salary ($8,000-$15,000)
           </li>
         </ul>
 
@@ -257,15 +257,15 @@ export default function EmployeeRetentionAcquisitionArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>25% at 90 days</strong> &mdash; rewards surviving the
+            <strong>25% at 90 days</strong>: rewards surviving the
             transition shock
           </li>
           <li>
-            <strong>25% at 6 months</strong> &mdash; bridges the peak
+            <strong>25% at 6 months</strong>: bridges the peak
             departure window
           </li>
           <li>
-            <strong>50% at 12 months</strong> &mdash; the largest tranche,
+            <strong>50% at 12 months</strong>: the largest tranche,
             creating a meaningful &ldquo;cost of leaving&rdquo; as the
             anniversary approaches
           </li>
@@ -273,7 +273,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
         <p>
           Include a clawback clause: if the employee leaves voluntarily before
           the vesting date, any unpaid portions are forfeited. Most employment
-          attorneys can draft a retention agreement for $1,500&ndash;$2,500.{" "}
+          attorneys can draft a retention agreement for $1,500-$2,500.{" "}
           <a
             href="https://www.shrm.org/topics-tools/tools/forms/retention-bonus-agreement"
             target="_blank"
@@ -322,12 +322,12 @@ export default function EmployeeRetentionAcquisitionArticle() {
             office for the first 90 days. Sit in the building. Eat lunch with
             the team. Gallup&apos;s engagement data shows that only 22% of
             employees strongly agree their leadership has a clear direction
-            &mdash; your physical presence signals exactly that.
+            your physical presence signals exactly that.
           </li>
           <li>
             <strong>Honor every existing commitment.</strong> If the previous
             owner promised someone a raise, a vacation, or a schedule change
-            &mdash; honor it. Breaking inherited promises is the fastest way to
+            honor it. Breaking inherited promises is the fastest way to
             destroy trust.
           </li>
         </ul>
@@ -345,11 +345,11 @@ export default function EmployeeRetentionAcquisitionArticle() {
 
         {/* ── Section 6 ── */}
         <h2 className={h2Class}>
-          Month 1&ndash;3: Stabilize, Listen, and Close Compensation Gaps
+          Month 1-3: Stabilize, Listen, and Close Compensation Gaps
         </h2>
         <p>
           The first quarter is about earning the right to lead. You are not the
-          boss yet &mdash; you are the new person who happens to own the company.
+          boss yet, you are the new person who happens to own the company.
           Credibility comes from competence and consistency, not from the title
           on your business card.
         </p>
@@ -399,13 +399,13 @@ export default function EmployeeRetentionAcquisitionArticle() {
             <strong>Deliver quick wins.</strong> Fix the broken HVAC, replace
             the ancient printer, repave the parking lot. These small
             investments show employees that the new owner invests in the
-            business &mdash; and by extension, in them.
+            business, and by extension, in them.
           </li>
         </ul>
 
         {/* ── Section 7 ── */}
         <h2 className={h2Class}>
-          Quarter 2&ndash;4: Building Long-Term Loyalty Through Growth and Equity
+          Quarter 2-4: Building Long-Term Loyalty Through Growth and Equity
         </h2>
         <p>
           Once you have stabilized the team and built baseline trust, shift
@@ -421,15 +421,15 @@ export default function EmployeeRetentionAcquisitionArticle() {
           not on developing talent. Sit down with each key employee and ask:
           Where do you want to be in 3 years? What skills do you want to build?
           Then create a written plan and fund it. Send your operations manager
-          to a leadership program ($3,000&ndash;$5,000). Pay for your
-          technician&apos;s next certification ($1,500&ndash;$3,000). These
+          to a leadership program ($3,000-$5,000). Pay for your
+          technician&apos;s next certification ($1,500-$3,000). These
           investments have massive retention returns because they signal a
           commitment to the <em>person</em>, not just the role.
         </p>
 
         <h3 className={h3Class}>Phantom equity and profit-sharing</h3>
         <p>
-          For your top 2&ndash;4 employees, consider implementing a{" "}
+          For your top 2-4 employees, consider implementing a{" "}
           <Link
             href="/learn/employee-equity-incentives"
             className="text-apple-accent hover:underline"
@@ -442,11 +442,11 @@ export default function EmployeeRetentionAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            Allocate 5&ndash;15% of equity value appreciation to a phantom
+            Allocate 5-15% of equity value appreciation to a phantom
             equity pool
           </li>
           <li>
-            Vest over 3&ndash;4 years with a one-year cliff
+            Vest over 3-4 years with a one-year cliff
           </li>
           <li>
             Pay out upon a future sale of the business or via annual
@@ -455,7 +455,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
           <li>
             For a $3M EBITDA business that grows to $5M under new management, a
             10% phantom equity pool distributes $200,000 across
-            2&ndash;4 key employees &mdash; a life-changing sum that
+            2-4 key employees, a life-changing sum that
             costs you nothing out of pocket today
           </li>
         </ul>
@@ -468,7 +468,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
           title costs nothing and signals career trajectory. Search fund CEOs
           often underestimate how meaningful a title change and expanded
           responsibilities are to someone who has worked the same role for a
-          decade. Pair the title with genuine authority &mdash; let them own
+          decade. Pair the title with genuine authority, let them own
           their budget, hire for their team, and report directly to you. Read
           our guide on{" "}
           <Link
@@ -521,11 +521,11 @@ export default function EmployeeRetentionAcquisitionArticle() {
         <p className="mt-4">
           <strong>The downside scenario without retention spending:</strong>{" "}
           If the Operations Manager leaves, recruiting a replacement takes
-          4&ndash;6 months, costs $25,000&ndash;$40,000 in recruiter fees, and
-          results in $150,000&ndash;$300,000 in productivity loss and customer
+          4-6 months, costs $25,000-$40,000 in recruiter fees, and
+          results in $150,000-$300,000 in productivity loss and customer
           disruption during the vacancy. If the Lead Sales Rep leaves and takes
           even 20% of the customer base, you lose $600K+ in annual revenue. The
-          $180,000 retention budget is insurance against a potential $500,000&ndash;
+          $180,000 retention budget is insurance against a potential $500,000-
           $1,000,000 in value destruction.
         </p>
 
@@ -534,7 +534,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
           When People Leave Despite Your Best Efforts
         </h2>
         <p>
-          Not every departure is a failure. Some turnover is healthy &mdash; an
+          Not every departure is a failure. Some turnover is healthy, an
           underperformer who self-selects out saves you the difficult
           conversation covered in our{" "}
           <Link
@@ -568,7 +568,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
           <li>
             <strong>Document institutional knowledge.</strong> Key processes,
             customer preferences, vendor contacts, pricing history, equipment
-            quirks &mdash; get it out of people&apos;s heads and into written
+            quirks, get it out of people&apos;s heads and into written
             SOPs during the first 90 days, while people are still there.
           </li>
           <li>
@@ -595,8 +595,8 @@ export default function EmployeeRetentionAcquisitionArticle() {
           </li>
           <li>
             <strong>The &ldquo;shadow CEO.&rdquo;</strong> In many SMBs, one
-            long-tenured employee &mdash; often someone who has been there 15+
-            years &mdash; effectively runs the daily operations. The team
+            long-tenured employee, often someone who has been there 15+
+            years, effectively runs the daily operations. The team
             respects them more than they will respect you initially. This
             person is not a threat; they are your most important ally. Elevate
             them, compensate them generously, and give them genuine authority.
@@ -625,9 +625,9 @@ export default function EmployeeRetentionAcquisitionArticle() {
           small business?
         </h3>
         <p>
-          Plan for 1.5&ndash;2.5% of the total purchase price as your
+          Plan for 1.5-2.5% of the total purchase price as your
           first-year retention budget. For a $4M acquisition, that means
-          $60,000&ndash;$100,000 allocated across retention bonuses,
+          $60,000-$100,000 allocated across retention bonuses,
           compensation adjustments, and benefits improvements. The{" "}
           <a
             href="https://www.wtwco.com/en-us/insights/2024/03/2024-m-and-a-retention-study"
@@ -666,12 +666,12 @@ export default function EmployeeRetentionAcquisitionArticle() {
           Should I offer retention bonuses to every employee or only key people?
         </h3>
         <p>
-          Focus formal retention agreements on your top 3&ndash;5 critical
+          Focus formal retention agreements on your top 3-5 critical
           employees. Spreading the budget too thin dilutes the impact. For the
           broader team, retention comes through actions: consistent
           communication, honoring commitments, benefits improvements, and
           showing up as a competent, caring leader. A $5,000 retention bonus
-          split among 15 people is $333 each &mdash; meaningless. That same
+          split among 15 people is $333 each, meaningless. That same
           $5,000 concentrated on one critical technician is a real incentive.
         </p>
 
@@ -679,10 +679,10 @@ export default function EmployeeRetentionAcquisitionArticle() {
           What if the best employees leave despite my retention efforts?
         </h3>
         <p>
-          First, diagnose why. If multiple key people leave in months 1&ndash;3,
+          First, diagnose why. If multiple key people leave in months 1-3,
           the problem is likely communication or trust. If departures cluster
           at the 12-month mark, they may be collecting retention bonuses and
-          leaving &mdash; which means the bonus bought you time but you failed
+          leaving, which means the bonus bought you time but you failed
           to build a compelling reason to stay beyond the money. Use the time
           that retention bonuses buy you to build culture, career paths, and
           equity participation that create genuine long-term commitment.
@@ -714,7 +714,7 @@ export default function EmployeeRetentionAcquisitionArticle() {
 
         {/* ── Closing ── */}
         <p>
-          Employee retention after an acquisition is not a one-time event &mdash;
+          Employee retention after an acquisition is not a one-time event , 
           it is an ongoing campaign that starts during{" "}
           <Link
             href="/learn/hr-employee-due-diligence"

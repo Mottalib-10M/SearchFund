@@ -266,8 +266,8 @@ export default function ETASwitzerlandFR() {
       <h2 className={h2Class}>Le march&eacute; multilingue</h2>
       <div className={bodyClass}>
         <p>
-          Les quatre langues nationales de la Suisse &mdash; allemand,
-          fran&ccedil;ais, italien et romanche &mdash; cr&eacute;ent des
+          Les quatre langues nationales de la Suisse, allemand,
+          fran&ccedil;ais, italien et romanche, cr&eacute;ent des
           environnements d&apos;affaires r&eacute;gionaux distincts au sein
           d&apos;un m&ecirc;me pays. Comprendre ces r&eacute;gions
           linguistiques est essentiel pour les searchers.

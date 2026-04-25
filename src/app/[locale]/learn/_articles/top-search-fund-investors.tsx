@@ -11,7 +11,7 @@ export default function TopSearchFundInvestorsArticle() {
 
       <div className={bodyClass}>
         <p>
-          Your choice of investors shapes every phase of a search fund &mdash;
+          Your choice of investors shapes every phase of a search fund , 
           from the quality of mentorship during the search, to the speed of
           acquisition-equity commitments, to the strategic guidance you receive
           as a first-time CEO. The Stanford GSB 2024 Search Fund Study tracked
@@ -33,7 +33,7 @@ export default function TopSearchFundInvestorsArticle() {
           where investors wire funds and wait for board decks, search fund
           backers serve as operating advisors, deal-evaluation partners, and
           board members. The median search takes roughly two years, followed by
-          five to seven years of ownership &mdash; a timeline that demands
+          five to seven years of ownership, a timeline that demands
           patient, engaged capital. According to the Stanford 2024 study, 63%
           of search funds result in an acquisition, meaning more than a third
           of searchers return unused capital. Investors who have seen that
@@ -42,7 +42,7 @@ export default function TopSearchFundInvestorsArticle() {
         </p>
         <p>
           The practical implications are significant. When you find a target
-          company and need $3&ndash;8 million in acquisition equity within
+          company and need $3-8 million in acquisition equity within
           three weeks, experienced investors move fast because they already
           understand the{" "}
           <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">
@@ -54,7 +54,7 @@ export default function TopSearchFundInvestorsArticle() {
           </Link>{" "}
           of the model. Novice investors, by contrast, often require weeks of
           education on step-up multiples, pro-rata rights, and common-versus-
-          preferred waterfalls &mdash; delays that kill deals.
+          preferred waterfalls, delays that kill deals.
         </p>
 
         {/* ───────────────────────────── H2 #2 ───────────────────────────── */}
@@ -76,7 +76,7 @@ export default function TopSearchFundInvestorsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Pacific Lake Partners</strong> &mdash; Founded in 2009 by
+            <strong>Pacific Lake Partners</strong>: Founded in 2009 by
             Coley Andrews and Jim Southern (who launched the first search fund
             in 1984), Pacific Lake has backed more than 100 search fund
             entrepreneurs and invested in over 70 operating companies. The firm
@@ -86,16 +86,16 @@ export default function TopSearchFundInvestorsArticle() {
             case study.
           </li>
           <li>
-            <strong>Relay Investments</strong> &mdash; Founded in 2013 by
+            <strong>Relay Investments</strong>: Founded in 2013 by
             Sandro Mina, who has been active in search fund investing since
             1991. Relay focuses exclusively on search funds and manages
             approximately $200 million across three funds. Fund I (2015)
             invested in 63 search funds and 35 companies. Relay typically takes
-            15&ndash;25% of a search cap table and invests $1&ndash;3.5 million
+            15-25% of a search cap table and invests $1-3.5 million
             in acquisition equity per deal.
           </li>
           <li>
-            <strong>Search Fund Partners</strong> &mdash; Founded in 2004 by
+            <strong>Search Fund Partners</strong>: Founded in 2004 by
             Dave Carver and Rich Kelley, Search Fund Partners was the first
             private-equity fund dedicated to investing in search funds. The
             firm is led by ex-searchers and emphasizes long-term mentorship,
@@ -104,14 +104,14 @@ export default function TopSearchFundInvestorsArticle() {
             ranks among the highest-rated backers.
           </li>
           <li>
-            <strong>Anacapa Partners</strong> &mdash; One of the earliest
+            <strong>Anacapa Partners</strong>: One of the earliest
             institutional search fund investors, Anacapa invests in small
             businesses with stable cash flow and growth potential. The firm
             works directly with CEOs on operations and strategy and maintains
             an open-door policy for new searchers seeking capital and guidance.
           </li>
           <li>
-            <strong>Broadtree Partners</strong> &mdash; A hybrid between a
+            <strong>Broadtree Partners</strong>: A hybrid between a
             search fund platform and a traditional private-equity firm,
             Broadtree co-invests and co-operates with searchers, offering
             shared operational systems, expert advisors, and financial support.
@@ -127,25 +127,25 @@ export default function TopSearchFundInvestorsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Peterson Partners</strong> &mdash; A Salt Lake City-based
+            <strong>Peterson Partners</strong>: A Salt Lake City-based
             private-equity firm founded in 2003 by Joel Peterson, former
             Managing Partner of Trammell Crow Company and a long-time Stanford
             GSB professor. Peterson Partners manages over $1 billion and writes
             acquisition-equity checks of $500,000 to $5 million per deal.
           </li>
           <li>
-            <strong>ETA Equity</strong> &mdash; Frequently ranked among the
+            <strong>ETA Equity</strong>: Frequently ranked among the
             top search fund investors in searcher satisfaction surveys, ETA
             Equity focuses specifically on the entrepreneurship-through-acquisition
             model and provides both search capital and follow-on investment.
           </li>
           <li>
-            <strong>Red Forest Capital</strong> &mdash; A focused investor
+            <strong>Red Forest Capital</strong>: A focused investor
             known for backing first-time searchers with clear acquisition
             theses and demonstrable operational potential.
           </li>
           <li>
-            <strong>Additional active firms</strong> &mdash; The Nashton
+            <strong>Additional active firms</strong>: The Nashton
             Company, The Cambria Group, Futaleufu Partners, Marion Equity,
             Liberty Partners, TTCER Partners, Aspect Investors, Housatonic
             Partners, and Next Coast ETA all maintain active search fund
@@ -177,7 +177,7 @@ export default function TopSearchFundInvestorsArticle() {
         <p>
           Many of the most valuable search fund investors are former searchers
           and operators who now invest in the next generation. They typically
-          write smaller search-phase checks ($25,000&ndash;$50,000) but bring
+          write smaller search-phase checks ($25,000-$50,000) but bring
           irreplaceable operational experience, having personally navigated the
           search, negotiated acquisitions, and run the companies they bought.
           Prominent individual investors include Jim Southern (co-founder of
@@ -203,11 +203,11 @@ export default function TopSearchFundInvestorsArticle() {
         <p><strong>Search phase (Year 0)</strong></p>
         <ul className={ulClass}>
           <li>
-            Total raise: $400,000&ndash;$600,000, sourced from 10&ndash;20
+            Total raise: $400,000-$600,000, sourced from 10-20
             investors
           </li>
           <li>
-            Individual check: $25,000&ndash;$50,000 per investor
+            Individual check: $25,000-$50,000 per investor
           </li>
           <li>
             In exchange for: the right (but not obligation) to invest
@@ -215,26 +215,26 @@ export default function TopSearchFundInvestorsArticle() {
             search capital invested (commonly 1.5x)
           </li>
           <li>
-            Dedicated funds such as Relay Investments may take 15&ndash;25%
+            Dedicated funds such as Relay Investments may take 15-25%
             of a search-phase cap table in a single allocation
           </li>
         </ul>
 
-        <p><strong>Acquisition phase (Year 1&ndash;3)</strong></p>
+        <p><strong>Acquisition phase (Year 1-3)</strong></p>
         <ul className={ulClass}>
           <li>
-            Total equity needed: $3&ndash;10 million for most SMB
+            Total equity needed: $3-10 million for most SMB
             acquisitions, depending on target size and use
           </li>
           <li>
-            Individual investors: $25,000&ndash;$200,000 per investor
+            Individual investors: $25,000-$200,000 per investor
           </li>
           <li>
-            Dedicated funds and family offices: $500,000&ndash;$5 million
+            Dedicated funds and family offices: $500,000-$5 million
             per deal
           </li>
           <li>
-            Your search investors typically cover 30&ndash;50% of the
+            Your search investors typically cover 30-50% of the
             total acquisition equity; the remainder comes from
             co-investors, family offices, and new institutional capital
           </li>
@@ -259,7 +259,7 @@ export default function TopSearchFundInvestorsArticle() {
         <p>
           Search fund investing is fundamentally a bet on the individual. The
           company has not been identified yet, the industry may shift during
-          the search, and the terms are largely standardized &mdash; so the
+          the search, and the terms are largely standardized, so the
           differentiator is the searcher. Based on interviews with active
           investors and published criteria, here is what moves the needle:
         </p>
@@ -275,7 +275,7 @@ export default function TopSearchFundInvestorsArticle() {
             <strong>Authentic commitment to long-term ownership.</strong>{" "}
             Most search fund investors are former operators themselves. They
             look for entrepreneurs who view this as more than financial
-            arbitrage &mdash; people who want to build culture, steward
+            arbitrage, people who want to build culture, steward
             employees, and create real value over five to seven years.
           </li>
           <li>
@@ -292,7 +292,7 @@ export default function TopSearchFundInvestorsArticle() {
             <strong>Coachability and self-awareness.</strong> Investors will
             ask about your weaknesses, your blind spots, and how you plan to
             address them. The right answer is not &ldquo;I have none&rdquo;
-            &mdash; it is a specific, honest assessment and a plan to
+            it is a specific, honest assessment and a plan to
             surround yourself with complementary talent.
           </li>
           <li>
@@ -304,8 +304,8 @@ export default function TopSearchFundInvestorsArticle() {
           </li>
           <li>
             <strong>Network and industry proximity.</strong> Searchers who
-            already have relationships in their target industries &mdash;
-            with brokers, operators, lenders, or advisors &mdash; start the
+            already have relationships in their target industries , 
+            with brokers, operators, lenders, or advisors, start the
             search with a meaningful advantage.
           </li>
         </ol>
@@ -319,9 +319,9 @@ export default function TopSearchFundInvestorsArticle() {
           blitz. The most effective approach unfolds in three phases:
         </p>
 
-        <h3 className={h3Class}>Phase 1: Warm introductions (weeks 1&ndash;4)</h3>
+        <h3 className={h3Class}>Phase 1: Warm introductions (weeks 1-4)</h3>
         <p>
-          Start with people who already know you &mdash; former colleagues,
+          Start with people who already know you, former colleagues,
           MBA classmates, and alumni who have recently raised search funds.
           Recent searchers are the single best source of intelligence on which
           investors are deploying, which ones passed, and why. Use these early
@@ -330,7 +330,7 @@ export default function TopSearchFundInvestorsArticle() {
           mistakes with friendly audiences.
         </p>
 
-        <h3 className={h3Class}>Phase 2: Experienced search fund investors (weeks 4&ndash;10)</h3>
+        <h3 className={h3Class}>Phase 2: Experienced search fund investors (weeks 4-10)</h3>
         <p>
           Batch your meetings with dedicated search fund firms and serial
           individual investors into two or three waves. Even when a meeting
@@ -341,24 +341,24 @@ export default function TopSearchFundInvestorsArticle() {
           </Link>{" "}
           accessible, know your terms cold, and be ready to explain your
           &ldquo;why&rdquo; in under two minutes. Lead with your personal
-          story and career arc &mdash; not with a lecture on search fund
+          story and career arc, not with a lecture on search fund
           mechanics. One experienced searcher found that flipping the order
           from &ldquo;here is how the model works&rdquo; to &ldquo;here is
           who I am and why I want to own a business&rdquo; doubled his
           conversion rate.
         </p>
 
-        <h3 className={h3Class}>Phase 3: Broadening the syndicate (weeks 8&ndash;16)</h3>
+        <h3 className={h3Class}>Phase 3: Broadening the syndicate (weeks 8-16)</h3>
         <p>
           Once you have commitments from two or three anchor investors
-          &mdash; ideally recognized names such as Pacific Lake, Relay, or
-          Search Fund Partners &mdash; use their participation to attract
+          ideally recognized names such as Pacific Lake, Relay, or
+          Search Fund Partners, use their participation to attract
           family offices, individual operators, and newer entrants to the
           space. Anchor names provide validation that dramatically shortens
           due diligence for later investors. Target a final syndicate of
-          10&ndash;20 investors with a balanced mix: 3&ndash;5 experienced
-          operators for mentorship, 2&ndash;3 dedicated funds or family
-          offices for large follow-on capacity, and 5&ndash;10 individual
+          10-20 investors with a balanced mix: 3-5 experienced
+          operators for mentorship, 2-3 dedicated funds or family
+          offices for large follow-on capacity, and 5-10 individual
           investors with relevant domain expertise. For alternative
           structures, explore the{" "}
           <Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">
@@ -379,7 +379,7 @@ export default function TopSearchFundInvestorsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Operational experience:</strong> Investors who have
-            actually run businesses &mdash; not just funded them &mdash;
+            actually run businesses, not just funded them , 
             deliver the most practical advice during the operating phase.
             Ask them about specific situations where they helped a portfolio
             CEO manage a crisis.
@@ -392,7 +392,7 @@ export default function TopSearchFundInvestorsArticle() {
           </li>
           <li>
             <strong>Follow-on capacity:</strong> Can they write a
-            $500,000&ndash;$3 million acquisition-equity check when the time
+            $500,000-$3 million acquisition-equity check when the time
             comes? Some investors are excellent mentors at the search stage
             but cannot follow on, creating a gap in your capital plan.
           </li>
@@ -459,7 +459,7 @@ export default function TopSearchFundInvestorsArticle() {
           <li>
             <strong>2020s:</strong> The Stanford 2024 study recorded a
             record 94 search funds launched in 2023 alone, up from
-            20&ndash;30 annually a decade earlier. The explosion in
+            20-30 annually a decade earlier. The explosion in
             supply has been matched by a growth in investor capital,
             with family offices emerging as the fastest-growing capital
             source.
@@ -467,7 +467,7 @@ export default function TopSearchFundInvestorsArticle() {
           <li>
             <strong>Demographic shifts:</strong> The 2024 study found that
             18% of new searchers in 2023 were women, and the average
-            searcher age has broadened beyond the traditional 28&ndash;32
+            searcher age has broadened beyond the traditional 28-32
             MBA-graduate profile to include operators in their mid-30s
             and beyond.
           </li>
@@ -477,7 +477,7 @@ export default function TopSearchFundInvestorsArticle() {
           for searchers: more capital means more competition among investors,
           better terms, and faster commitments. However, it also means that
           investors now see more pitches and can be more selective. Building
-          genuine relationships &mdash; not just sending decks &mdash; is
+          genuine relationships, not just sending decks, is
           more important than ever.
         </p>
 
@@ -503,7 +503,7 @@ export default function TopSearchFundInvestorsArticle() {
             <strong>Excessive control demands:</strong> Board seats and
             quarterly reporting are standard. Veto rights over day-to-day
             operational decisions, approval requirements for hires, or
-            restrictions on compensation structures are not &mdash; and
+            restrictions on compensation structures are not, and
             they signal misalignment with the operator-centric search fund
             model.
           </li>
@@ -535,11 +535,11 @@ export default function TopSearchFundInvestorsArticle() {
         </h3>
         <p>
           The standard range is 10 to 20 investors for the search phase,
-          raising a total of $400,000&ndash;$600,000. A syndicate in this
+          raising a total of $400,000-$600,000. A syndicate in this
           range provides enough mentorship diversity without creating an
           unwieldy cap table. At the acquisition stage, you may bring in
-          additional co-investors &mdash; particularly family offices and
-          dedicated funds that can write larger checks &mdash; to cover the
+          additional co-investors, particularly family offices and
+          dedicated funds that can write larger checks, to cover the
           full equity requirement. Most acquisition syndicates include 15
           to 30 total investors.
         </p>
@@ -553,9 +553,9 @@ export default function TopSearchFundInvestorsArticle() {
           exited deals specifically, the IRR rose to 42.9%. However,
           individual fund outcomes vary widely: roughly 30% of acquisitions
           generate less than 1x return, while the top quartile delivers
-          10x or more. Experienced investors underwrite to a 3&ndash;5x
+          10x or more. Experienced investors underwrite to a 3-5x
           gross return on acquisition equity, knowing that portfolio
-          diversification across 10&ndash;20+ search funds smooths out
+          diversification across 10-20+ search funds smooths out
           individual-deal volatility. For a detailed breakdown, see our{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             search fund returns analysis
@@ -571,8 +571,8 @@ export default function TopSearchFundInvestorsArticle() {
           fund ecosystem, the market has broadened considerably. Platforms
           such as Searchfunder, the Search Fund Alliance, and ETA-focused
           conferences now connect non-MBA searchers with experienced
-          investors. Several dedicated funds &mdash; including Anacapa
-          Partners and Red Forest Capital &mdash; explicitly welcome
+          investors. Several dedicated funds: including Anacapa
+          Partners and Red Forest Capital, explicitly welcome
           non-traditional backgrounds. The key is demonstrating the same
           qualities investors seek in any searcher: operational leadership,
           analytical rigor, and authentic commitment to long-term
@@ -584,7 +584,7 @@ export default function TopSearchFundInvestorsArticle() {
           pledge fund from an investor&rsquo;s perspective?
         </h3>
         <p>
-          In a traditional search fund, investors contribute $25,000&ndash;$50,000
+          In a traditional search fund, investors contribute $25,000-$50,000
           upfront to fund the search phase and receive the right to invest
           pro-rata in the acquisition. In a{" "}
           <Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">
@@ -593,8 +593,8 @@ export default function TopSearchFundInvestorsArticle() {
           until an acquisition is identified. Pledge funds give investors
           more optionality (they can decline the specific deal), while
           traditional funds give searchers more certainty and stability.
-          Most dedicated search fund investors &mdash; Pacific Lake, Relay,
-          Search Fund Partners &mdash; operate primarily in the traditional
+          Most dedicated search fund investors, Pacific Lake, Relay,
+          Search Fund Partners, operate primarily in the traditional
           model, though some will participate in pledge structures for the
           right searcher.
         </p>
@@ -611,7 +611,7 @@ export default function TopSearchFundInvestorsArticle() {
           group. The best updates are concise (one page), honest about
           challenges, and specific about where investor input would be
           helpful. When you identify a potential acquisition, bring your
-          most experienced investors into the evaluation early &mdash;
+          most experienced investors into the evaluation early , 
           they can pressure-test your assumptions, introduce you to
           industry contacts, and accelerate the{" "}
           <Link href="/learn/co-investment-search-fund" className="text-apple-accent hover:underline">

@@ -17,9 +17,9 @@ export default function SelfFundedSearchSBAArticle() {
           </Link>{" "}
           model has exploded in popularity because it allows entrepreneurs
           to acquire businesses with minimal personal capital while retaining
-          80&ndash;100% ownership. The key enabler? SBA 7(a) loans. This
+          80-100% ownership. The key enabler? SBA 7(a) loans. This
           guide explains how self-funded searchers use the &ldquo;80/10/10&rdquo;
-          structure to buy businesses with just 5&ndash;10% equity.
+          structure to buy businesses with just 5-10% equity.
         </p>
 
         <h2 className={h2Class}>What is the 80/10/10 structure?</h2>
@@ -40,8 +40,8 @@ export default function SelfFundedSearchSBAArticle() {
         <ul className={ulClass}>
           <li><strong>Maximum loan:</strong> $5M (up to $5.5M with working capital)</li>
           <li><strong>Term:</strong> 10 years for business acquisitions (25 years if real estate is included)</li>
-          <li><strong>Interest rate:</strong> Prime + 2.25&ndash;2.75% (variable). Currently 10&ndash;12%</li>
-          <li><strong>Down payment:</strong> 10&ndash;20% equity injection required (10% with seller note on standby)</li>
+          <li><strong>Interest rate:</strong> Prime + 2.25-2.75% (variable). Currently 10-12%</li>
+          <li><strong>Down payment:</strong> 10-20% equity injection required (10% with seller note on standby)</li>
           <li><strong>Personal guarantee:</strong> Required for anyone with 20%+ ownership</li>
           <li><strong>Collateral:</strong> All business assets + personal guarantee. SBA does not require full collateral coverage</li>
         </ul>
@@ -58,7 +58,7 @@ export default function SelfFundedSearchSBAArticle() {
 
         <h3 className={h3Class}>SBA lender selection</h3>
         <ul className={ulClass}>
-          <li><strong>Preferred Lending Partners (PLPs):</strong> Banks with delegated SBA authority can approve loans faster (2&ndash;4 weeks vs. 6&ndash;8 weeks)</li>
+          <li><strong>Preferred Lending Partners (PLPs):</strong> Banks with delegated SBA authority can approve loans faster (2-4 weeks vs. 6-8 weeks)</li>
           <li><strong>Key lenders:</strong> Live Oak Bank, Byline Bank, Harvest Small Business Finance, Celtic Bank, and CDFIs specializing in SBA acquisitions</li>
           <li><strong>Work with a broker:</strong> SBA loan brokers (distinct from business brokers) help match you with the right lender and package your application</li>
         </ul>
@@ -68,7 +68,7 @@ export default function SelfFundedSearchSBAArticle() {
         <h3 className={h3Class}>Example: $2M acquisition</h3>
         <ul className={ulClass}>
           <li>SBA 7(a) loan: $1,600,000 (80%)</li>
-          <li>Seller note (full standby): $200,000 (10%) at 5&ndash;7%, 5-year term, 2-year standby</li>
+          <li>Seller note (full standby): $200,000 (10%) at 5-7%, 5-year term, 2-year standby</li>
           <li>Buyer equity injection: $200,000 (10%)</li>
           <li>Total acquisition cost: $2,000,000</li>
           <li>Monthly SBA payment: ~$21,000 (10-year, Prime + 2.75%)</li>
@@ -82,24 +82,24 @@ export default function SelfFundedSearchSBAArticle() {
         <h3 className={h3Class}>Seller note on standby</h3>
         <ul className={ulClass}>
           <li>SBA requires the seller note to be on &ldquo;full standby&rdquo; for at least 24 months (no principal or interest payments)</li>
-          <li>After standby, the seller note is typically repaid over 3&ndash;5 years</li>
-          <li>Interest accrues during standby. Negotiate a lower rate (5&ndash;6%) since the seller is already getting 80% cash at close</li>
-          <li>Many sellers resist standby notes &mdash; you need to explain that their alternative is a lower price</li>
+          <li>After standby, the seller note is typically repaid over 3-5 years</li>
+          <li>Interest accrues during standby. Negotiate a lower rate (5-6%) since the seller is already getting 80% cash at close</li>
+          <li>Many sellers resist standby notes, you need to explain that their alternative is a lower price</li>
         </ul>
 
         <h2 className={h2Class}>Advantages of the self-funded SBA model</h2>
         <ul className={ulClass}>
           <li><strong>100% ownership:</strong> No investor dilution. You own 100% of the business from day one</li>
-          <li><strong>Minimal capital:</strong> Acquire a $2M+ business with $150K&ndash;$300K of personal capital</li>
+          <li><strong>Minimal capital:</strong> Acquire a $2M+ business with $150K-$300K of personal capital</li>
           <li><strong>Tax deductible interest:</strong> SBA loan interest is fully tax deductible, reducing effective cost of debt</li>
           <li><strong>No investors to manage:</strong> No board meetings, no investor reports, no step-up equity dilution</li>
-          <li><strong>Speed:</strong> SBA pre-approval + deal close in 60&ndash;90 days (faster than traditional search fund acquisition)</li>
+          <li><strong>Speed:</strong> SBA pre-approval + deal close in 60-90 days (faster than traditional search fund acquisition)</li>
         </ul>
 
         <h2 className={h2Class}>Risks and challenges</h2>
         <ul className={ulClass}>
           <li><strong>Personal guarantee:</strong> You are personally liable for the SBA loan. A failed acquisition can mean personal bankruptcy</li>
-          <li><strong>High debt load:</strong> 80% use means thin margins for error. A revenue decline of 15&ndash;20% can threaten debt service</li>
+          <li><strong>High debt load:</strong> 80% use means thin margins for error. A revenue decline of 15-20% can threaten debt service</li>
           <li><strong>Variable rate:</strong> SBA loans are variable rate. Rising rates increase your debt service burden</li>
           <li><strong>No safety net:</strong> No investors to call for additional capital if things go wrong. You&rsquo;re on your own</li>
           <li><strong>Size constraint:</strong> $5M SBA cap limits you to businesses under ~$6M enterprise value</li>
@@ -107,9 +107,9 @@ export default function SelfFundedSearchSBAArticle() {
 
         <h2 className={h2Class}>When to use the self-funded SBA model</h2>
         <ul className={ulClass}>
-          <li>You have $100K&ndash;$500K in personal capital available</li>
+          <li>You have $100K-$500K in personal capital available</li>
           <li>You want to retain 100% ownership</li>
-          <li>Target deal size: $1M&ndash;$5M enterprise value</li>
+          <li>Target deal size: $1M-$5M enterprise value</li>
           <li>Strong, stable cash flow business (1.25x+ DSCR)</li>
           <li>You have relevant industry or management experience</li>
           <li>You&rsquo;re comfortable with personal guarantees and high use</li>
@@ -139,10 +139,10 @@ export default function SelfFundedSearchSBAArticle() {
           the 80/10/10 structure (80% SBA loan, 10% seller note on full
           standby, 10% buyer equity), a $2 million acquisition requires
           approximately $200,000 in personal capital. However, experienced
-          SBA lenders report that most successful applicants bring 10&ndash;15%
+          SBA lenders report that most successful applicants bring 10-15%
           beyond the minimum to cover working capital, closing costs (typically
-          $15K&ndash;$40K), and an operating reserve. Realistically, budget
-          $250K&ndash;$350K in liquid capital for a $2M deal. Some searchers
+          $15K-$40K), and an operating reserve. Realistically, budget
+          $250K-$350K in liquid capital for a $2M deal. Some searchers
           reduce their cash outlay by using{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link> creatively
           or by bringing in a silent partner for part of the equity injection.
@@ -160,8 +160,8 @@ export default function SelfFundedSearchSBAArticle() {
           direct industry experience close SBA loans at roughly twice the rate
           of those without. The SBA does not require full collateral coverage,
           but personal guarantees are mandatory for anyone with 20%+ ownership.
-          Budget 30&ndash;60 days for loan approval through a Preferred
-          Lending Partner, or 60&ndash;90 days through a standard SBA lender.
+          Budget 30-60 days for loan approval through a Preferred
+          Lending Partner, or 60-90 days through a standard SBA lender.
         </p>
 
         <h3 className={h3Class}>What are the biggest risks of the 80/10/10 SBA structure compared to a traditional search fund?</h3>
@@ -170,9 +170,9 @@ export default function SelfFundedSearchSBAArticle() {
           primary risk is the personal guarantee: unlike a traditional search
           fund where investors bear the equity risk, the self-funded searcher
           is personally liable for the full SBA loan amount. At 80% use,
-          a revenue decline of just 15&ndash;20% can threaten debt service
+          a revenue decline of just 15-20% can threaten debt service
           coverage. The variable interest rate adds another layer of risk
-          &mdash; a 200 basis point increase on a $1.6M loan adds approximately
+          a 200 basis point increase on a $1.6M loan adds approximately
           $32,000 in annual interest expense. Additionally, there is no
           investor safety net: if the business needs emergency capital, you
           have no institutional investors to call. Our{" "}
@@ -183,7 +183,7 @@ export default function SelfFundedSearchSBAArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>U.S. Small Business Administration, <em>Standard Operating Procedure 50 10 &mdash; Lender and Development Company Loan Programs</em> (2024)</li>
+          <li>U.S. Small Business Administration, <em>Standard Operating Procedure 50 10, Lender and Development Company Loan Programs</em> (2024)</li>
           <li>Pepperdine Graziadio Business School, <em>Private Capital Markets Report: SBA Acquisition Financing</em> (2024)</li>
           <li>Stanford Graduate School of Business, <em>Search Fund Primer: Self-Funded Search Economics</em> (2023)</li>
         </ul>

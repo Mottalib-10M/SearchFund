@@ -363,51 +363,51 @@ export default function ETAvsVentureCapitalArticle() {
           rather than complete wipeouts because the acquired business has
           existing customers, employees, and cash flows that retain some
           value even under suboptimal management. VC failures are typically
-          existential &mdash; the product never finds market fit or the
+          existential, the product never finds market fit or the
           company runs out of cash entirely.
         </p>
 
         <h3 className={h3Class}>How many investments do I need for a diversified ETA portfolio vs. VC?</h3>
         <p>
-          Because VC relies on the power law, funds must make 25&ndash;40
+          Because VC relies on the power law, funds must make 25-40
           investments, knowing most will fail and one or two must return
-          50x&ndash;100x to make the fund successful. ETA investors can
+          50x-100x to make the fund successful. ETA investors can
           achieve strong risk-adjusted returns with far fewer bets. A
-          portfolio of 10&ndash;15 search fund investments provides strong
+          portfolio of 10-15 search fund investments provides strong
           diversification because the return distribution is more
-          concentrated &mdash; each individual investment has a meaningful
+          concentrated, each individual investment has a meaningful
           probability of success rather than depending on a single outlier.
-          Individual check sizes of $50,000&ndash;$200,000 per search fund
+          Individual check sizes of $50,000-$200,000 per search fund
           make ETA portfolio construction accessible to a broader range of
           accredited investors.
         </p>
 
         <h3 className={h3Class}>Can ETA generate the same 100x returns as venture capital?</h3>
         <p>
-          No &mdash; and that is by design. ETA can deliver 10x&ndash;20x
+          No, and that is by design. ETA can deliver 10x-20x
           returns in exceptional cases, but the 100x outcomes that define
           top-tier VC funds are structurally unavailable because search funds
           acquire established businesses rather than creating winner-take-all
           platforms. However, ETA compensates with dramatically higher base
           rates of success: roughly two-thirds of acquired search funds
-          generate positive returns, with a median of approximately 3x&ndash;5x
-          MOIC. For investors who need consistent 25&ndash;35% IRR rather
+          generate positive returns, with a median of approximately 3x-5x
+          MOIC. For investors who need consistent 25-35% IRR rather
           than lottery-ticket upside, ETA provides a more reliable return
           profile. Many sophisticated investors allocate to both strategies
-          &mdash; ETA for consistent risk-adjusted returns and VC for
+          ETA for consistent risk-adjusted returns and VC for
           convexity exposure.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <strong>Stanford GSB</strong> &mdash; &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+            <strong>Stanford GSB</strong>: &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
           </li>
           <li>
-            <strong>Cambridge Associates</strong> &mdash; &ldquo;US Venture Capital Index &amp; Benchmark Statistics,&rdquo; 2024.
+            <strong>Cambridge Associates</strong>: &ldquo;US Venture Capital Index &amp; Benchmark Statistics,&rdquo; 2024.
           </li>
           <li>
-            <strong>Kauffman Foundation</strong> &mdash; &ldquo;We Have Met the Enemy and He Is Us: Lessons from Twenty Years of the Kauffman Foundation&rsquo;s Investments in Venture Capital Funds,&rdquo; 2023.
+            <strong>Kauffman Foundation</strong>: &ldquo;We Have Met the Enemy and He Is Us: Lessons from Twenty Years of the Kauffman Foundation&rsquo;s Investments in Venture Capital Funds,&rdquo; 2023.
           </li>
         </ul>
       </div>

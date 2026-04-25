@@ -10,7 +10,7 @@ export default function FindingInvestorsFR() {
         <p>
           La levée du capital de recherche est la première étape structurante d&apos;un
           search fund traditionnel. En France et en Europe, l&apos;écosystème des
-          investisseurs search fund est en pleine construction &mdash; plus jeune
+          investisseurs search fund est en pleine construction, plus jeune
           qu&apos;aux États-Unis, mais de plus en plus dynamique grâce à
           l&apos;implication des grandes écoles de commerce, des family offices et
           des fonds européens spécialisés. Ce guide présente l&apos;ensemble des
@@ -78,9 +78,9 @@ export default function FindingInvestorsFR() {
           constituent des partenaires potentiels intéressants.
         </p>
         <p>
-          Certains fonds régionaux de capital-investissement &mdash; comme ceux
+          Certains fonds régionaux de capital-investissement, comme ceux
           soutenus par les Conseils Régionaux ou par Bpifrance en co-investissement
-          &mdash; peuvent intervenir dans le financement d&apos;un search fund,
+          peuvent intervenir dans le financement d&apos;un search fund,
           notamment lors de la phase d&apos;acquisition. La participation à des
           événements organisés par France Invest (conférences annuelles, petits
           déjeuners thématiques) permet de se faire connaître dans cet écosystème
@@ -206,7 +206,7 @@ export default function FindingInvestorsFR() {
           Le financement participatif en capital (equity crowdfunding) est une
           option émergente pour la levée de fonds des search funds en France. Les
           plateformes agréées par l&apos;Autorité des Marchés Financiers (AMF)
-          &mdash; telles que Wiseed, Anaxago ou Tudigo &mdash; permettent de
+         , telles que Wiseed, Anaxago ou Tudigo, permettent de
           lever des fonds auprès d&apos;un large nombre d&apos;investisseurs
           particuliers.
         </p>
@@ -291,7 +291,7 @@ export default function FindingInvestorsFR() {
             <strong>Le profil du searcher&nbsp;:</strong> Parcours professionnel,
             formation, motivation entrepreneuriale, capacité d&apos;exécution,
             résilience. Les investisseurs cherchent des profils combinant
-            intelligence analytique et compétences relationnelles &mdash; le
+            intelligence analytique et compétences relationnelles, le
             futur dirigeant devra aussi bien analyser un bilan que motiver une
             équipe d&apos;ouvriers.
           </li>

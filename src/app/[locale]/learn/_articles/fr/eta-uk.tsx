@@ -95,8 +95,8 @@ export default function ETAUKFR() {
 
         <h3 className={h3Class}>Dette senior</h3>
         <p>
-          Les grandes banques britanniques &mdash; NatWest, HSBC, Lloyds et
-          Barclays &mdash; disposent toutes d&apos;&eacute;quipes d&eacute;di&eacute;es au financement
+          Les grandes banques britanniques, NatWest, HSBC, Lloyds et
+          Barclays, disposent toutes d&apos;&eacute;quipes d&eacute;di&eacute;es au financement
           d&apos;acquisition de PME. L&apos;effet de levier typique pour une
           acquisition search fund va de 2,5x &agrave; 4x EBITDA, selon la qualit&eacute;
           de l&apos;entreprise, le secteur et l&apos;exp&eacute;rience de l&apos;acqu&eacute;reur. Les
@@ -109,8 +109,8 @@ export default function ETAUKFR() {
 
         <h3 className={h3Class}>British Business Bank</h3>
         <p>
-          La British Business Bank (BBB) &mdash; l&apos;&eacute;quivalent britannique de
-          Bpifrance &mdash; op&egrave;re plusieurs programmes qui peuvent soutenir
+          La British Business Bank (BBB), l&apos;&eacute;quivalent britannique de
+          Bpifrance, op&egrave;re plusieurs programmes qui peuvent soutenir
           le financement d&apos;acquisition. Le sch&eacute;ma Enterprise Finance
           Guarantee (EFG) fournit une garantie gouvernementale allant
           jusqu&apos;&agrave; 75% du montant du pr&ecirc;t pour les entreprises viables
@@ -219,7 +219,7 @@ export default function ETAUKFR() {
           <li>
             <strong>Classification sectorielle&nbsp;:</strong> Les codes SIC
             permettent de filtrer les entreprises par secteur et de
-            construire des listes de prospection cibl&eacute;es &mdash; un
+            construire des listes de prospection cibl&eacute;es, un
             &eacute;quivalent du code NAF fran&ccedil;ais
           </li>
           <li>
@@ -508,8 +508,8 @@ export default function ETAUKFR() {
           internationaux. Pour un searcher fran&ccedil;ais, le Royaume-Uni
           offre un acc&egrave;s &agrave; un march&eacute; anglophone compl&eacute;mentaire au march&eacute;
           fran&ccedil;ais, avec des synergies potentielles dans les secteurs &agrave;
-          vocation internationale. Les d&eacute;fis &mdash; visa, diff&eacute;rences
-          r&eacute;glementaires, barriere culturelle subtile &mdash; sont r&eacute;els
+          vocation internationale. Les d&eacute;fis, visa, diff&eacute;rences
+          r&eacute;glementaires, barriere culturelle subtile, sont r&eacute;els
           mais g&eacute;rables avec une bonne pr&eacute;paration. Notre guide sur
           l&apos;
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">ETA pour d&eacute;butants</Link>{" "}

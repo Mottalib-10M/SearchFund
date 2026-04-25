@@ -42,7 +42,7 @@ export default function ETAReadingListArticle() {
           >
             entrepreneurship through acquisition
           </Link>{" "}
-          actually works&mdash;from fundraising through exit. These three books
+          actually works, from fundraising through exit. These three books
           are where nearly every successful searcher begins.
         </p>
 
@@ -51,12 +51,12 @@ export default function ETAReadingListArticle() {
             &ldquo;HBR Guide to Buying a Small Business&rdquo; by Richard S.
             Ruback &amp; Royce Yudkoff
           </strong>{" "}
-          &mdash; Harvard Business School professors Ruback and Yudkoff wrote
+          Harvard Business School professors Ruback and Yudkoff wrote
           what the search fund community treats as its founding text. The book
           walks through each stage of the acquisition process: deciding whether
           the path fits your goals, raising capital, screening targets,
           performing due diligence, negotiating a letter of intent, and closing.
-          What makes it essential is its specificity&mdash;the authors draw on
+          What makes it essential is its specificity, the authors draw on
           decades of teaching HBS&rsquo;s &ldquo;Entrepreneurship through
           Acquisition&rdquo; course and real student deal outcomes. If you read
           only one book before launching a search, this is the one. Published by{" "}
@@ -76,9 +76,9 @@ export default function ETAReadingListArticle() {
             &ldquo;Buy Then Build: How Acquisition Entrepreneurs Outsmart the
             Startup Game&rdquo; by Walker Deibel
           </strong>{" "}
-          &mdash; While Ruback and Yudkoff focus on the traditional search fund
+          While Ruback and Yudkoff focus on the traditional search fund
           model, Deibel broadens the lens to all forms of acquisition
-          entrepreneurship&mdash;self-funded searches, independent sponsors, and
+          entrepreneurship, self-funded searches, independent sponsors, and
           small-business buyouts. His nine-step framework covers deal sourcing,
           valuation, financing structures, and post-acquisition growth. The book
           is particularly useful for searchers weighing a{" "}
@@ -97,7 +97,7 @@ export default function ETAReadingListArticle() {
             &ldquo;Search Funds &amp; Entrepreneurial Acquisitions&rdquo; by Jan
             Simon
           </strong>{" "}
-          &mdash; Simon, a managing partner at Vonzeo Capital and an academic
+          Simon, a managing partner at Vonzeo Capital and an academic
           director at{" "}
           <a
             href="https://www.iese.edu/entrepreneurship/search-funds/"
@@ -113,7 +113,7 @@ export default function ETAReadingListArticle() {
           class that, as he documents, has turned &ldquo;$1.4 billion of
           investments into $8.7 billion.&rdquo; The book covers fundraising,
           investor relations, deal sourcing, due diligence, financing, and
-          post-acquisition management&mdash;making it especially strong for
+          post-acquisition management, making it especially strong for
           searchers planning to raise a traditional fund with institutional
           investors.
         </p>
@@ -125,7 +125,7 @@ export default function ETAReadingListArticle() {
         <p>
           Search funds are one of the few entrepreneurial models with decades of
           rigorous academic tracking. These studies are not optional
-          reading&mdash;they are the empirical backbone of every investor pitch
+          reading, they are the empirical backbone of every investor pitch
           and every serious feasibility analysis. Understanding{" "}
           <Link
             href="/learn/search-fund-history"
@@ -137,8 +137,8 @@ export default function ETAReadingListArticle() {
         </p>
 
         <p>
-          <strong>Stanford Search Fund Studies (1996&ndash;present)</strong>{" "}
-          &mdash; Published by{" "}
+          <strong>Stanford Search Fund Studies (1996-present)</strong>{" "}
+          Published by{" "}
           <a
             href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
@@ -159,16 +159,16 @@ export default function ETAReadingListArticle() {
           aggregate pre-tax IRR, 4.5x return on invested capital, and a 63%
           acquisition rate. Researchers Sara Heston and Peter Kelly assemble each
           edition through standardized surveys of searchers and investors. Every
-          searcher should study the latest release cover to cover&mdash;it
+          searcher should study the latest release cover to cover, it
           reveals which industries, deal sizes, and fund structures correlate
           with the strongest outcomes.
         </p>
 
         <p>
           <strong>
-            IESE International Search Fund Study (2016&ndash;present)
+            IESE International Search Fund Study (2016-present)
           </strong>{" "}
-          &mdash; While Stanford tracks primarily U.S. and Canadian funds, IESE
+          While Stanford tracks primarily U.S. and Canadian funds, IESE
           fills the gap for the rest of the world. The{" "}
           <a
             href="https://www.iese.edu/media/research/pdfs/ST-0658-E"
@@ -192,7 +192,7 @@ export default function ETAReadingListArticle() {
             &ldquo;Entrepreneurship through Acquisition: A Scoping Review&rdquo;
             (Management Review Quarterly, Springer)
           </strong>{" "}
-          &mdash; Published in{" "}
+          Published in{" "}
           <a
             href="https://link.springer.com/article/10.1007/s11301-023-00352-6"
             target="_blank"
@@ -202,14 +202,14 @@ export default function ETAReadingListArticle() {
             Management Review Quarterly
           </a>
           , this systematic review maps the entire market of ETA academic
-          literature&mdash;identifying research gaps, methodological approaches,
+          literature, identifying research gaps, methodological approaches,
           and the evolving definition of acquisition entrepreneurship. It is the
           best single source for understanding what scholars have and have not
           yet studied about search funds.
         </p>
 
         <p>
-          <strong>Stanford Search Fund Primer</strong> &mdash; Distinct from the
+          <strong>Stanford Search Fund Primer</strong>: Distinct from the
           biennial data studies, the{" "}
           <a
             href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds/primer"
@@ -249,13 +249,13 @@ export default function ETAReadingListArticle() {
             &ldquo;Financial Intelligence for Entrepreneurs&rdquo; by Karen
             Berman &amp; Joe Knight
           </strong>{" "}
-          &mdash; Many searchers come from consulting, banking, or engineering
-          backgrounds&mdash;strong on strategy, weaker on the accounting
+          Many searchers come from consulting, banking, or engineering
+          backgrounds, strong on strategy, weaker on the accounting
           fundamentals they&rsquo;ll need to interrogate a target&rsquo;s
           financials. Berman and Knight break down income statements, balance
           sheets, cash-flow statements, and financial ratios in plain language.
-          Their core insight&mdash;what they call the &ldquo;art of
-          finance&rdquo;&mdash;is that financial statements reflect decisions,
+          Their core insight, what they call the &ldquo;art of
+          finance&rdquo;, is that financial statements reflect decisions,
           assumptions, and estimates, not objective truth. For a searcher
           evaluating a small business with owner-adjusted EBITDA, that
           perspective is critical. Published by{" "}
@@ -275,11 +275,11 @@ export default function ETAReadingListArticle() {
             &ldquo;A Practical Guide to Buying a Business&rdquo; by Robert
             Chalfin
           </strong>{" "}
-          &mdash; Chalfin&rsquo;s book focuses squarely on the mechanics that
+          Chalfin&rsquo;s book focuses squarely on the mechanics that
           trip up first-time acquirers: structuring letters of intent,
           negotiating seller financing, understanding earn-outs, and navigating
           the gap between signing and closing. It includes sample term sheets,
-          checklists, and agreement templates&mdash;the kind of practical
+          checklists, and agreement templates, the kind of practical
           scaffolding that theoretical books leave out. Particularly valuable for
           self-funded searchers who lack the institutional support of a
           traditional fund.
@@ -289,7 +289,7 @@ export default function ETAReadingListArticle() {
           <strong>
             &ldquo;The Messy Marketplace&rdquo; by Brent Beshore
           </strong>{" "}
-          &mdash; Written from the perspective of a buyer who has completed
+          Written from the perspective of a buyer who has completed
           hundreds of small-business evaluations, Beshore explains why the lower
           middle market is chaotic: sellers have emotional attachments,
           information is incomplete, and deal processes rarely follow textbook
@@ -304,10 +304,10 @@ export default function ETAReadingListArticle() {
             &ldquo;Value: The Four Cornerstones of Corporate Finance&rdquo; by
             McKinsey &amp; Company (Koller, Goedhart &amp; Wessels)
           </strong>{" "}
-          &mdash; When you need to build a discounted cash flow model, justify a
+          When you need to build a discounted cash flow model, justify a
           purchase price to your investor group, or compare a target to public
           market comparables, this is the reference text. Dense and technical, it
-          is not a cover-to-cover read&mdash;but having it on your desk during
+          is not a cover-to-cover read, but having it on your desk during
           due diligence will save hours of second-guessing your valuation
           assumptions.
         </p>
@@ -320,7 +320,7 @@ export default function ETAReadingListArticle() {
           Acquiring a company is the midpoint of the ETA journey, not the
           destination. The first year as CEO determines whether you create value
           or destroy it. The books below address the operational challenges that
-          search fund CEOs face from day one&mdash;challenges that are distinct
+          search fund CEOs face from day one, challenges that are distinct
           from those covered in our guide to the{" "}
           <Link
             href="/learn/first-100-days"
@@ -335,7 +335,7 @@ export default function ETAReadingListArticle() {
           <strong>
             &ldquo;The First 90 Days&rdquo; by Michael D. Watkins
           </strong>{" "}
-          &mdash; Watkins wrote the definitive playbook for leaders transitioning
+          Watkins wrote the definitive playbook for leaders transitioning
           into new roles, and search fund CEOs face one of the most complex
           transitions imaginable: stepping into a company you&rsquo;ve never
           worked at, managing employees who may be skeptical of the new owner,
@@ -347,7 +347,7 @@ export default function ETAReadingListArticle() {
         </p>
 
         <p>
-          <strong>&ldquo;Traction&rdquo; by Gino Wickman</strong> &mdash;
+          <strong>&ldquo;Traction&rdquo; by Gino Wickman</strong> , 
           Wickman&rsquo;s Entrepreneurial Operating System (EOS) provides a
           step-by-step framework for running a small-to-midsize business:
           setting a clear vision, building accountability, establishing meeting
@@ -370,10 +370,10 @@ export default function ETAReadingListArticle() {
           <strong>
             &ldquo;Good to Great&rdquo; by Jim Collins
           </strong>{" "}
-          &mdash; Collins&rsquo;s research identified the patterns that separate
+          Collins&rsquo;s research identified the patterns that separate
           companies with sustained excellence from those that plateau. His
-          concept of Level 5 Leadership&mdash;leaders who combine personal
-          humility with professional will&mdash;resonates deeply in the search
+          concept of Level 5 Leadership, leaders who combine personal
+          humility with professional will, resonates deeply in the search
           fund context, where CEOs must earn authority rather than inherit it.
           The Hedgehog Concept (finding the intersection of what you can be best
           at, what drives your economic engine, and what you are passionate
@@ -387,9 +387,9 @@ export default function ETAReadingListArticle() {
           <strong>
             &ldquo;The E-Myth Revisited&rdquo; by Michael E. Gerber
           </strong>{" "}
-          &mdash; Gerber&rsquo;s central argument&mdash;that most small
+          Gerber&rsquo;s central argument, that most small
           businesses are run by technicians who got trapped in management roles,
-          not entrepreneurs who built scalable systems&mdash;describes the exact
+          not entrepreneurs who built scalable systems, describes the exact
           condition of many search fund acquisition targets. The book teaches you
           to see a business as a set of repeatable processes rather than a
           collection of tribal knowledge, which is precisely the perspective a
@@ -411,7 +411,7 @@ export default function ETAReadingListArticle() {
         </p>
 
         <p>
-          <strong>Think Like an Owner</strong> &mdash; Hosted by Alex Rumble,
+          <strong>Think Like an Owner</strong>: Hosted by Alex Rumble,
           this{" "}
           <a
             href="https://tlaopodcast.com/podcasts/"
@@ -437,7 +437,7 @@ export default function ETAReadingListArticle() {
         </p>
 
         <p>
-          <strong>INSEAD ETA and Search Funds Podcast</strong> &mdash;
+          <strong>INSEAD ETA and Search Funds Podcast</strong> , 
           INSEAD&rsquo;s podcast draws from its global network of searchers,
           operators, and investors, with a strong focus on European and
           international ETA. Episodes frequently cover topics underrepresented in
@@ -448,7 +448,7 @@ export default function ETAReadingListArticle() {
         </p>
 
         <p>
-          <strong>Searchfunder.com</strong> &mdash; The largest online community
+          <strong>Searchfunder.com</strong>: The largest online community
           dedicated to search funds, co-founded by MIT graduates Luke Tatone and
           Mark Yuan.{" "}
           <a
@@ -462,7 +462,7 @@ export default function ETAReadingListArticle() {
           hosts active forums where searchers share deal flow strategies, compare
           investor terms, and discuss operational challenges
           post-acquisition. Its value lies in the specificity of the
-          conversations&mdash;real numbers, real deal structures, real lessons
+          conversations, real numbers, real deal structures, real lessons
           from people in the middle of their searches. For those exploring{" "}
           <Link
             href="/learn/search-fund-accelerators"
@@ -488,22 +488,22 @@ export default function ETAReadingListArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Stanford Search Fund CEO Conference</strong> (Stanford, CA)
-            &mdash; The original and most prestigious search fund gathering,
+            The original and most prestigious search fund gathering,
             hosted by Stanford&rsquo;s Center for Entrepreneurial Studies. It
             attracts the densest concentration of experienced search fund
             investors in one room. Attending as a pre-search candidate signals
             seriousness and opens doors to capital.
           </li>
           <li>
-            <strong>IESE Search Fund Conference</strong> (Barcelona) &mdash; The
+            <strong>IESE Search Fund Conference</strong> (Barcelona), The
             premier European ETA event, held annually at IESE Business School.
-            With international search funds growing at a record pace&mdash;59
-            new funds in 2023 alone&mdash;this conference has become the primary
+            With international search funds growing at a record pace, 59
+            new funds in 2023 alone, this conference has become the primary
             networking hub for European and Latin American searchers and their
             investor base.
           </li>
           <li>
-            <strong>INSEAD ETA Conference</strong> (Fontainebleau) &mdash; INSEAD
+            <strong>INSEAD ETA Conference</strong> (Fontainebleau), INSEAD
             has built a dedicated ETA research and resource platform connecting
             entrepreneurs, investors, and board members from across Europe,
             Africa, and Asia. The annual conference features panels with
@@ -523,13 +523,13 @@ export default function ETAReadingListArticle() {
 
         <ol className={olClass}>
           <li>
-            <strong>Exploring ETA (months 1&ndash;3):</strong> Start with the
+            <strong>Exploring ETA (months 1-3):</strong> Start with the
             HBR Guide, the Stanford Primer, and the latest Stanford and IESE
             studies. This gives you the conceptual framework and the data to
             decide whether the model fits your goals and risk tolerance.
           </li>
           <li>
-            <strong>Pre-search preparation (months 3&ndash;6):</strong> Add
+            <strong>Pre-search preparation (months 3-6):</strong> Add
             &ldquo;Buy Then Build,&rdquo; Jan Simon&rsquo;s book, and
             &ldquo;Financial Intelligence for Entrepreneurs.&rdquo; Begin
             listening to Think Like an Owner and join Searchfunder.com. Attend a
@@ -611,8 +611,8 @@ export default function ETAReadingListArticle() {
           teach you the unique structural elements of ETA: investor
           relationships, search fund economics, and the two-phase capital raise.
           General acquisition books (Chalfin, Beshore, Berman &amp; Knight) fill
-          in the operational skills&mdash;financial analysis, negotiation, due
-          diligence mechanics&mdash;that are universal across deal types. A
+          in the operational skills, financial analysis, negotiation, due
+          diligence mechanics, that are universal across deal types. A
           well-rounded searcher reads both categories.
         </p>
 
@@ -622,7 +622,7 @@ export default function ETAReadingListArticle() {
         <p>
           Books give you frameworks; communities give you pattern recognition.
           Platforms like Searchfunder.com expose you to dozens of real deal
-          experiences that no single book could capture&mdash;including failures,
+          experiences that no single book could capture, including failures,
           broken deals, and lessons about specific industries or geographies.
           Podcasts like Think Like an Owner compress years of operator experience
           into hour-long conversations. The most successful searchers
@@ -636,7 +636,7 @@ export default function ETAReadingListArticle() {
         </h3>
         <p>
           Start with the latest Stanford Search Fund Study for hard return
-          data&mdash;the 2024 edition reports 35.1% aggregate IRR and 4.5x ROIC
+          data, the 2024 edition reports 35.1% aggregate IRR and 4.5x ROIC
           across 681 funds. Then read Jan Simon&rsquo;s book for the
           investor&rsquo;s perspective on fund structure and economics. For a
           broader context on how search fund returns compare to other asset

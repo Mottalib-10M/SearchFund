@@ -16,7 +16,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           high-tax European countries. For search fund entrepreneurs and
           acquisition-driven buyers, the difference between structuring an exit
           in one country versus another can translate into hundreds of thousands
-          &mdash; or millions &mdash; of dollars in after-tax proceeds. This
+         , or millions, of dollars in after-tax proceeds. This
           guide breaks down the capital gains tax rates, exemptions, and
           planning opportunities in over 20 countries, organized by region, so
           you can factor tax into your{" "}
@@ -64,7 +64,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           <Link href="/learn/c-corp-vs-s-corp-llc" className="text-apple-accent hover:underline">
             C-Corp structure
           </Link>{" "}
-          from the outset &mdash; the double-taxation drawback of C-Corps
+          from the outset, the double-taxation drawback of C-Corps
           becomes irrelevant when the entire gain is excluded at exit.
         </p>
         <p>
@@ -106,7 +106,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           must have been held for at least 24 months, and more than 50% of
           assets must have been used in active business throughout that holding
           period. For a married couple each holding QSBC shares, this allows up
-          to $2.5 million in tax-free gains &mdash; a powerful incentive to
+          to $2.5 million in tax-free gains, a powerful incentive to
           structure ownership correctly at acquisition.
         </p>
 
@@ -117,8 +117,8 @@ export default function CapitalGainsTaxByCountryArticle() {
         <p>
           The UK taxes capital gains at 18% for basic-rate taxpayers and 24% for
           higher and additional-rate taxpayers (as of the 2024/25 tax year).
-          Business Asset Disposal Relief (BADR) &mdash; formerly known as
-          Entrepreneurs&rsquo; Relief &mdash; reduces the rate on the first
+          Business Asset Disposal Relief (BADR), formerly known as
+          Entrepreneurs&rsquo; Relief, reduces the rate on the first
           &pound;1 million of qualifying business gains. However, the BADR rate
           is rising in stages: 10% through April 5, 2025; 14% from April 6,
           2025 to April 5, 2026; and 18% from April 6, 2026 onward, per{" "}
@@ -133,7 +133,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           (SSE), which provides a full exemption on gains from disposing of
           shares in a trading company, provided the seller held at least 10% of
           the shares for a continuous 12-month period. The SSE effectively
-          creates a 0% rate for qualifying corporate disposals &mdash; a strong
+          creates a 0% rate for qualifying corporate disposals, a strong
           reason to consider a{" "}
           <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">
             holding company structure
@@ -166,7 +166,7 @@ export default function CapitalGainsTaxByCountryArticle() {
             Dutreil pact
           </Link>{" "}
           provides a 75% exemption for business share transfers made via
-          donation or inheritance &mdash; a valuable tool for succession-driven
+          donation or inheritance, a valuable tool for succession-driven
           acquisitions.
         </p>
 
@@ -204,7 +204,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           for holding companies. Individual shareholders with a &ldquo;substantial
           interest&rdquo; (5% or more) in a company are taxed under Box 2 at
           26.9% on realized gains. For holdings below 5%, gains are imputed
-          under Box 3 rather than taxed on realization &mdash; a unique Dutch
+          under Box 3 rather than taxed on realization, a unique Dutch
           approach that creates planning opportunities for smaller stakes.
         </p>
 
@@ -273,8 +273,8 @@ export default function CapitalGainsTaxByCountryArticle() {
           potentially pushing the effective rate to 48%.
         </p>
         <p>
-          The original Non-Habitual Resident (NHR) regime &mdash; which exempted
-          many forms of foreign-sourced capital gains &mdash; officially closed
+          The original Non-Habitual Resident (NHR) regime, which exempted
+          many forms of foreign-sourced capital gains, officially closed
           to new applicants in March 2025. Its replacement, the IFICI regime
           (Tax Incentives for Scientific Research and Innovation), still offers
           exemptions on foreign-sourced capital gains for qualifying taxpayers,
@@ -312,8 +312,8 @@ export default function CapitalGainsTaxByCountryArticle() {
           private business sales, gains are treated as ordinary income and
           taxed at progressive rates up to 35%. Corporate sellers include
           capital gains in taxable income at the 30% corporate rate. Mexico
-          has an extensive network of double tax treaties &mdash; including with
-          the US, Canada, and most EU countries &mdash; that can reduce or
+          has an extensive network of double tax treaties: including with
+          the US, Canada, and most EU countries, that can reduce or
           eliminate withholding taxes on cross-border transactions.
         </p>
 
@@ -334,7 +334,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           Chile does not have a standalone capital gains tax. Gains are generally
           taxed as ordinary income at the corporate rate of 27%. Publicly traded
           shares held by individuals benefit from a preferential 10% rate. A
-          temporary 12.5% rate applies for qualifying SMEs during 2025&ndash;2027,
+          temporary 12.5% rate applies for qualifying SMEs during 2025-2027,
           as described in the{" "}
           <a href="https://practiceguides.chambers.com/practice-guides/corporate-tax-2025/chile" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             Chambers Corporate Tax Guide for Chile
@@ -359,8 +359,8 @@ export default function CapitalGainsTaxByCountryArticle() {
           </a>.
         </p>
         <p>
-          The four small business CGT concessions &mdash; applied in statutory
-          order &mdash; are:
+          The four small business CGT concessions, applied in statutory
+          order, are:
         </p>
         <ol className={olClass}>
           <li>
@@ -440,9 +440,9 @@ export default function CapitalGainsTaxByCountryArticle() {
             generally pay zero CGT on share disposals. However, the Swiss tax
             authorities may reclassify a seller as a &ldquo;professional
             securities trader&rdquo; (gewerbsm&auml;ssiger
-            Wertschriftenh&auml;ndler) if certain criteria are met &mdash;
+            Wertschriftenh&auml;ndler) if certain criteria are met , 
             such as high trading volume, use, or short holding periods
-            &mdash; which triggers income tax at rates above 40%. Corporate
+            which triggers income tax at rates above 40%. Corporate
             sellers benefit from a participation deduction on holdings of 10%
             or more.
           </li>
@@ -482,7 +482,7 @@ export default function CapitalGainsTaxByCountryArticle() {
             <strong>Double tax treaties (DTTs):</strong> Most treaties follow the
             OECD Model Convention, which generally grants exclusive taxing
             rights on capital gains from shares to the seller&rsquo;s country of
-            residence &mdash; unless the shares derive more than 50% of their
+            residence, unless the shares derive more than 50% of their
             value from real property in the source country. The US has treaties
             with over 65 countries; the EU&rsquo;s parent-subsidiary directive
             eliminates withholding on dividends and certain gains between
@@ -499,9 +499,9 @@ export default function CapitalGainsTaxByCountryArticle() {
             <strong>Withholding taxes:</strong> Some countries impose withholding
             on cross-border share sales. Canada withholds 25% on gains from
             &ldquo;taxable Canadian property&rdquo; sold by non-residents
-            (reducible by treaty). India withholds 10&ndash;20% on share
-            transfers by non-residents. Treaty shopping &mdash; routing a
-            transaction through a treaty-favorable jurisdiction &mdash; is
+            (reducible by treaty). India withholds 10-20% on share
+            transfers by non-residents. Treaty shopping, routing a
+            transaction through a treaty-favorable jurisdiction, is
             increasingly scrutinized under BEPS (Base Erosion and Profit
             Shifting) rules.
           </li>
@@ -535,7 +535,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           </li>
           <li>
             <strong>Holding period discipline:</strong> Nearly every favorable
-            regime requires a minimum holding period &mdash; 5 years for QSBS,
+            regime requires a minimum holding period, 5 years for QSBS,
             2 years for the French participation exemption, 12 months for
             Italy&rsquo;s PEX and Spain&rsquo;s corporate exemption, 24 months
             for Canada&rsquo;s LCGE. Rushed exits forfeit these benefits
@@ -561,7 +561,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           <Link href="/learn/goodwill-amortization-tax" className="text-apple-accent hover:underline">
             goodwill
           </Link>{" "}
-          &mdash; creating a natural tension in negotiations that the purchase
+          creating a natural tension in negotiations that the purchase
           price must bridge.
         </p>
 
@@ -595,8 +595,8 @@ export default function CapitalGainsTaxByCountryArticle() {
           23.8% combined federal rate, that exclusion is worth up to $2.38
           million (or $3.57 million) in tax savings on a single exit. The
           corporation must use at least 80% of its assets in a qualified active
-          trade or business, and certain industries &mdash; financial services,
-          hospitality, farming &mdash; are excluded.
+          trade or business, and certain industries, financial services,
+          hospitality, farming, are excluded.
         </p>
 
         <h3 className={h3Class}>
@@ -610,7 +610,7 @@ export default function CapitalGainsTaxByCountryArticle() {
           shares derive more than 50% of their value from real property in the
           source country, both countries may tax the gain, with credits to
           prevent full double taxation. Treaty benefits also require substance
-          &mdash; holding companies with no real economic activity may be denied
+          holding companies with no real economic activity may be denied
           treaty access under the Principal Purpose Test (PPT) or Limitation
           on Benefits (LOB) provisions.
         </p>
@@ -623,8 +623,8 @@ export default function CapitalGainsTaxByCountryArticle() {
           all capital gains from the sale of a subsidiary. The Netherlands
           offers a 100% exemption, Germany and Italy exempt 95% of gains,
           France exempts 88%, and Spain exempts 95% for qualifying holdings.
-          Requirements typically include a minimum ownership threshold (5&ndash;10%),
-          a holding period (12&ndash;24 months), and an active business test.
+          Requirements typically include a minimum ownership threshold (5-10%),
+          a holding period (12-24 months), and an active business test.
           These exemptions are one of the primary reasons search fund
           operators in Europe use holding company structures for their
           acquisitions.
@@ -635,7 +635,7 @@ export default function CapitalGainsTaxByCountryArticle() {
         </h3>
         <p>
           Both. The entity structure and jurisdiction you choose at acquisition
-          set the ceiling on your tax efficiency at exit &mdash; and these
+          set the ceiling on your tax efficiency at exit, and these
           decisions are often irreversible or prohibitively expensive to
           change later. A C-Corp election in the US, a holding GmbH in
           Germany, or proper QSBC share structuring in Canada should be locked

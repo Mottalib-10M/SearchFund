@@ -13,7 +13,7 @@ export default function LandscapingAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Highly recurring:</strong> Weekly mowing, monthly maintenance, and seasonal services create predictable revenue streams</li>
-          <li><strong>Low barriers to entry, high barriers to scale:</strong> Anyone can start a lawn care business, but building a professional, multi-crew operation is hard &mdash; that&apos;s your opportunity</li>
+          <li><strong>Low barriers to entry, high barriers to scale:</strong> Anyone can start a lawn care business, but building a professional, multi-crew operation is hard, that&apos;s your opportunity</li>
           <li><strong>Fragmented:</strong> The top 50 companies have less than 5% market share. Enormous room for consolidation.</li>
           <li><strong>Subscription-friendly:</strong> Monthly contracts are the norm in commercial landscaping and becoming standard in residential</li>
           <li><strong>Revenue diversification:</strong> Snow removal (winter), holiday lighting, irrigation, hardscaping, and tree services offset seasonality</li>
@@ -47,7 +47,7 @@ export default function LandscapingAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Add year-round services:</strong> Snow removal, holiday lighting, and irrigation winterization extend the revenue season</li>
-          <li><strong>Raise prices:</strong> Many landscapers haven&apos;t raised prices in years. A 5&ndash;10% increase typically has minimal customer churn.</li>
+          <li><strong>Raise prices:</strong> Many landscapers haven&apos;t raised prices in years. A 5-10% increase typically has minimal customer churn.</li>
           <li><strong>Route density:</strong> Optimize crew routes to maximize properties per day. GPS tracking and routing software help.</li>
           <li><strong>Upsell existing customers:</strong> Fertilization, aeration, pest control, and seasonal color add revenue without new customer acquisition</li>
           <li><strong>Technology:</strong> Implement Aspire, LMN, or Service Autopilot for estimating, scheduling, and job costing</li>
@@ -78,17 +78,17 @@ export default function LandscapingAcquisitionArticle() {
 
       <h3 className={h3Class}>What are typical valuation multiples for landscaping businesses?</h3>
       <p className={bodyClass}>
-        Landscaping businesses typically trade at 3&ndash;6x EBITDA, with maintenance-focused companies commanding higher multiples due to their recurring revenue base. According to IBISWorld&rsquo;s 2024 industry analysis, landscaping companies with 60%+ recurring maintenance revenue trade at 4.5&ndash;6x EBITDA, while project-based design/build companies trade at 3&ndash;4.5x. The NALP Market Industry Market Report found that companies with year-round revenue (maintenance + snow removal + holiday lighting) achieve the highest multiples because they demonstrate four-season cash flow stability. Equipment condition significantly affects valuation&mdash;a well-maintained fleet adds value while deferred maintenance creates a hidden liability that should be deducted.
+        Landscaping businesses typically trade at 3-6x EBITDA, with maintenance-focused companies commanding higher multiples due to their recurring revenue base. According to IBISWorld&rsquo;s 2024 industry analysis, landscaping companies with 60%+ recurring maintenance revenue trade at 4.5-6x EBITDA, while project-based design/build companies trade at 3-4.5x. The NALP Market Industry Market Report found that companies with year-round revenue (maintenance + snow removal + holiday lighting) achieve the highest multiples because they demonstrate four-season cash flow stability. Equipment condition significantly affects valuation, a well-maintained fleet adds value while deferred maintenance creates a hidden liability that should be deducted.
       </p>
 
       <h3 className={h3Class}>How important is the H-2B visa program for landscaping acquisitions?</h3>
       <p className={bodyClass}>
-        The H-2B temporary worker visa program is critical for many landscaping businesses, particularly in regions with tight labor markets. NALP&rsquo;s 2024 data shows that approximately 35% of landscaping companies with more than 20 employees rely on H-2B workers for seasonal labor, and companies with established H-2B programs have a significant competitive advantage in recruitment. During due diligence, verify the company&rsquo;s H-2B application history, worker retention rates, and compliance with Department of Labor requirements. An established H-2B pipeline (with returning workers who know the routes and customers) is a genuine business asset that can take 2&ndash;3 years to build from scratch.
+        The H-2B temporary worker visa program is critical for many landscaping businesses, particularly in regions with tight labor markets. NALP&rsquo;s 2024 data shows that approximately 35% of landscaping companies with more than 20 employees rely on H-2B workers for seasonal labor, and companies with established H-2B programs have a significant competitive advantage in recruitment. During due diligence, verify the company&rsquo;s H-2B application history, worker retention rates, and compliance with Department of Labor requirements. An established H-2B pipeline (with returning workers who know the routes and customers) is a genuine business asset that can take 2-3 years to build from scratch.
       </p>
 
       <h3 className={h3Class}>What is the fastest way to improve margins after acquiring a landscaping business?</h3>
       <p className={bodyClass}>
-        The two fastest margin improvement levers are price increases and route density optimization. Aspire Software&rsquo;s 2024 benchmarking data shows that many landscaping operators haven&rsquo;t raised prices in 2&ndash;3 years, and a 5&ndash;10% increase typically results in less than 3% customer churn. Route optimization&mdash;using GPS tracking and routing software to maximize properties serviced per crew per day&mdash;can improve labor productivity by 15&ndash;25%. Additionally, upselling existing maintenance customers into higher-margin services (fertilization, aeration, pest control, irrigation) adds revenue without new customer acquisition costs. Combined, these levers can improve EBITDA margins by 5&ndash;10 percentage points within the first 12 months.
+        The two fastest margin improvement levers are price increases and route density optimization. Aspire Software&rsquo;s 2024 benchmarking data shows that many landscaping operators haven&rsquo;t raised prices in 2-3 years, and a 5-10% increase typically results in less than 3% customer churn. Route optimization, using GPS tracking and routing software to maximize properties serviced per crew per day, can improve labor productivity by 15-25%. Additionally, upselling existing maintenance customers into higher-margin services (fertilization, aeration, pest control, irrigation) adds revenue without new customer acquisition costs. Combined, these levers can improve EBITDA margins by 5-10 percentage points within the first 12 months.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

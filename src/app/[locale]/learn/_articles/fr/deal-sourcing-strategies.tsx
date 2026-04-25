@@ -8,7 +8,7 @@ export default function DealSourcingFR() {
 
       <div className={bodyClass}>
         <p>
-          Le sourcing &mdash; la recherche active de cibles d&apos;acquisition &mdash;
+          Le sourcing, la recherche active de cibles d&apos;acquisition , 
           est la phase la plus chronophage et la plus déterminante du parcours d&apos;un
           searcher. En France, où le marché de la transmission d&apos;entreprise reste
           structurellement sous-intermédié par rapport aux États-Unis ou au
@@ -35,8 +35,8 @@ export default function DealSourcingFR() {
         <p>
           Le CRA est le premier réseau associatif français dédié à la transmission
           d&apos;entreprise. Fondé en 1986, il regroupe plus de 130 consultants
-          bénévoles &mdash; anciens chefs d&apos;entreprise, cadres dirigeants ou
-          professionnels de la finance &mdash; répartis dans toute la France. Chaque
+          bénévoles, anciens chefs d&apos;entreprise, cadres dirigeants ou
+          professionnels de la finance, répartis dans toute la France. Chaque
           consultant accompagne gratuitement les cédants dans la préparation de leur
           transmission et les repreneurs dans leur recherche.
         </p>
@@ -56,7 +56,7 @@ export default function DealSourcingFR() {
           entreprises dont le chiffre d&apos;affaires se situe entre 500&nbsp;000&nbsp;&euro;
           et 10&nbsp;millions d&apos;euros, ce qui correspond parfaitement au
           segment visé par les search funds. Cependant, les dossiers les plus
-          attractifs sont rapidement absorbés &mdash; il faut donc établir une
+          attractifs sont rapidement absorbés, il faut donc établir une
           relation régulière avec les consultants pour être informé en priorité.
         </p>
       </div>
@@ -78,7 +78,7 @@ export default function DealSourcingFR() {
           géographique, effectif et motif de cession. Pour un searcher, il est
           pertinent de configurer des alertes automatiques correspondant à ses
           critères d&apos;acquisition et de consulter la plateforme quotidiennement.
-          Les annonces nouvellement publiées suscitent un intérêt immédiat &mdash;
+          Les annonces nouvellement publiées suscitent un intérêt immédiat , 
           la réactivité est un facteur clé de succès.
         </p>
         <p>
@@ -154,8 +154,8 @@ export default function DealSourcingFR() {
           (construction, services à la personne, alimentaire de niche).
         </p>
         <p>
-          Participer aux événements organisés par les CCI &mdash; forums de la
-          reprise, speed dating repreneurs-cédants, ateliers thématiques &mdash;
+          Participer aux événements organisés par les CCI, forums de la
+          reprise, speed dating repreneurs-cédants, ateliers thématiques , 
           permet de se faire connaître dans l&apos;écosystème local et d&apos;identifier
           des cédants avant même qu&apos;ils ne formalisent leur projet de cession.
         </p>
@@ -167,7 +167,7 @@ export default function DealSourcingFR() {
           L&apos;approche directe consiste à contacter proactivement des dirigeants
           d&apos;entreprises qui correspondent à vos critères d&apos;acquisition, sans
           passer par un intermédiaire. C&apos;est le canal qui génère le deal flow le
-          plus propriétaire &mdash; c&apos;est-à-dire le moins concurrentiel &mdash;
+          plus propriétaire, c&apos;est-à-dire le moins concurrentiel , 
           mais aussi le plus exigeant en temps et en persévérance.
         </p>
         <h3 className={h3Class}>Constitution de la base de données</h3>
@@ -203,8 +203,8 @@ export default function DealSourcingFR() {
       <h2 className={h2Class}>Le réseau de prescripteurs</h2>
       <div className={bodyClass}>
         <p>
-          Les prescripteurs &mdash; experts-comptables, avocats d&apos;affaires,
-          notaires, banquiers d&apos;entreprise &mdash; constituent le canal de
+          Les prescripteurs, experts-comptables, avocats d&apos;affaires,
+          notaires, banquiers d&apos;entreprise, constituent le canal de
           sourcing le plus qualitatif en France. Ces professionnels sont souvent les
           premiers informés du projet de cession de leurs clients et jouent un rôle
           de tiers de confiance dans le processus de transmission.

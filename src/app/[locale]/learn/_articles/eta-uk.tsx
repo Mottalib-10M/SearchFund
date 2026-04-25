@@ -78,7 +78,7 @@ export default function ETAUKArticle() {
         </p>
         <h3 className={h3Class}>Senior debt</h3>
         <p>
-          UK clearing banks&mdash;including NatWest, HSBC, Lloyds, and Barclays&mdash;all
+          UK clearing banks, including NatWest, HSBC, Lloyds, and Barclays, all
           have dedicated SME acquisition finance teams. Typical use for a
           search fund acquisition ranges from 2.5x to 4x EBITDA, depending on the
           quality of the business, sector, and the acquirer&apos;s experience. Interest
@@ -101,7 +101,7 @@ export default function ETAUKArticle() {
         <h3 className={h3Class}>Seller financing</h3>
         <p>
           Deferred consideration or vendor loans are common in UK business
-          transfers. Sellers typically accept 10&ndash;25% of the purchase price as
+          transfers. Sellers typically accept 10-25% of the purchase price as
           deferred payments over two to three years. Earn-out arrangements tied
           to post-completion performance are also widely used, particularly when
           there is a gap between buyer and seller valuation expectations.

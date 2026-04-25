@@ -43,10 +43,10 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges &mdash; from hiring their first CFO to implementing{" "}
+        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges, from hiring their first CFO to implementing{" "}
         <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">
           ERP systems
-        </Link>{" "}&mdash; provides invaluable support and pattern recognition.
+        </Link>{" "},  provides invaluable support and pattern recognition.
       </p>
 
       <h2 className={h2Class}>The Big Three: Stanford, IESE, MIT</h2>
@@ -456,22 +456,22 @@ export default function SearchFundConferencesArticle() {
 
       <h3 className={h3Class}>How much does it cost to attend ETA conferences?</h3>
       <p className={bodyClass}>
-        Registration fees range from $300&ndash;$600 per conference for
+        Registration fees range from $300-$600 per conference for
         searchers, with student discounts often available. When you factor in
-        travel, accommodation, and meals, budget $1,500&ndash;$2,500 per
-        conference or $5,000&ndash;$8,000 annually for 2&ndash;3 major events
-        plus local meetups. Consider this a high-ROI investment &mdash; many
+        travel, accommodation, and meals, budget $1,500-$2,500 per
+        conference or $5,000-$8,000 annually for 2-3 major events
+        plus local meetups. Consider this a high-ROI investment, many
         searchers trace their investor commitments and deal flow directly to
         conference connections.
       </p>
 
       <h3 className={h3Class}>How should a first-time attendee prepare for a search fund conference?</h3>
       <p className={bodyClass}>
-        Review the attendee list and identify 10&ndash;15 specific people you
+        Review the attendee list and identify 10-15 specific people you
         want to meet. Prepare a 60-second elevator pitch covering your
         background, search focus, and current status. Set concrete goals
         (e.g., &ldquo;schedule follow-up calls with three investors&rdquo;).
-        Attend social events even if you are introverted &mdash; the dinners
+        Attend social events even if you are introverted, the dinners
         and receptions are where the deepest relationships form. Follow up
         within 48 hours with personalized emails referencing specific
         conversation points.

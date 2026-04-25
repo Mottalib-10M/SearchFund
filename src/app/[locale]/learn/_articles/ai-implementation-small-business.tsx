@@ -17,7 +17,7 @@ export default function AIImplementationSmallBusinessArticle() {
           scores inbound leads, and an accounting tool that categorizes 500
           transactions per month without human input. According to a 2024 McKinsey
           survey, small businesses that adopted AI tools reported a median 15%
-          reduction in operating costs within 12 months &mdash; but 42% of SME AI
+          reduction in operating costs within 12 months, but 42% of SME AI
           projects fail because owners skip the groundwork. This article covers
           how to implement AI in a recently acquired small business without wasting
           money, alienating employees, or chasing hype.
@@ -25,8 +25,8 @@ export default function AIImplementationSmallBusinessArticle() {
 
         <h2 className={h2Class}>The AI opportunity for search fund portfolio companies</h2>
         <p>
-          Most businesses acquired through search funds share a profile: $1M&ndash;$10M
-          in revenue, 10&ndash;200 employees, and technology infrastructure that
+          Most businesses acquired through search funds share a profile: $1M-$10M
+          in revenue, 10-200 employees, and technology infrastructure that
           ranges from basic to nonexistent. The previous owner ran the business on
           spreadsheets, phone calls, and personal relationships. That operational
           simplicity is actually an advantage when it comes to AI adoption.
@@ -45,7 +45,7 @@ export default function AIImplementationSmallBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Cost elimination.</strong> AI replaces manual tasks that
-            currently consume 20&ndash;40% of administrative hours: data entry,
+            currently consume 20-40% of administrative hours: data entry,
             appointment scheduling, invoice processing, and basic customer
             inquiries. For a business spending $400K/year on administrative labor,
             even a 25% reduction means $100K back on the bottom line.
@@ -70,7 +70,7 @@ export default function AIImplementationSmallBusinessArticle() {
         <p>
           The mistake most new owners make is treating AI as a single, monolithic
           project. It is not. AI implementation is a series of small, independent
-          bets &mdash; each with its own ROI timeline. Start with the applications
+          bets, each with its own ROI timeline. Start with the applications
           that require the least data preparation, the least employee behavior
           change, and the shortest payback period.
         </p>
@@ -79,11 +79,11 @@ export default function AIImplementationSmallBusinessArticle() {
         <p>
           This is the highest-impact, lowest-risk starting point for almost every
           acquired SME. Tools like Intercom, Tidio, and Zendesk AI can handle
-          60&ndash;80% of repetitive customer inquiries &mdash; pricing questions,
-          business hours, appointment scheduling, order status &mdash; without
-          human involvement. A well-configured AI chatbot costs $100&ndash;$300/month
-          and typically replaces 1&ndash;2 FTE-equivalents of customer service
-          labor ($50K&ndash;$100K/year).
+          60-80% of repetitive customer inquiries, pricing questions,
+          business hours, appointment scheduling, order status, without
+          human involvement. A well-configured AI chatbot costs $100-$300/month
+          and typically replaces 1-2 FTE-equivalents of customer service
+          labor ($50K-$100K/year).
         </p>
         <p>
           Voice AI has matured rapidly. Services like Bland.ai and Vapi can answer
@@ -100,12 +100,12 @@ export default function AIImplementationSmallBusinessArticle() {
           route approvals automatically. Ramp and Brex categorize transactions and
           enforce spending policies without manual review. For a business processing
           200+ invoices per month, AI can cut accounts payable processing time by
-          60&ndash;80%.
+          60-80%.
         </p>
         <p>
           Cash flow forecasting is another quick win. AI models built into tools
           like Float and Pulse analyze historical patterns, seasonal trends, and
-          outstanding receivables to project cash positions 30&ndash;90 days out.
+          outstanding receivables to project cash positions 30-90 days out.
           This directly supports the financial visibility you need when building
           your{" "}
           <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">
@@ -118,9 +118,9 @@ export default function AIImplementationSmallBusinessArticle() {
           For businesses with field teams, delivery routes, or shift-based
           workforces, AI scheduling tools deliver immediate savings. Route
           optimization software like OptimoRoute and Routific reduce drive time by
-          15&ndash;25%, cutting fuel costs and increasing the number of jobs per
+          15-25%, cutting fuel costs and increasing the number of jobs per
           day. AI-powered shift scheduling tools like Deputy and When I Work
-          reduce manager time spent on scheduling by 70&ndash;80% while improving
+          reduce manager time spent on scheduling by 70-80% while improving
           coverage.
         </p>
 
@@ -138,7 +138,7 @@ export default function AIImplementationSmallBusinessArticle() {
         <p>
           HubSpot, Salesforce, and Pipedrive all offer AI-based lead scoring that
           analyzes historical deal data to predict which inbound leads are most
-          likely to convert. In a typical SME with 200&ndash;500 leads per month,
+          likely to convert. In a typical SME with 200-500 leads per month,
           AI scoring lets a small sales team focus on the top 20% of prospects
           instead of working every lead equally. The result is higher close rates
           with the same headcount.
@@ -158,7 +158,7 @@ export default function AIImplementationSmallBusinessArticle() {
           include AI features that auto-populate proposals with relevant case
           studies, pricing configurations, and scope descriptions based on the
           deal record. A roofing company that used to spend 45 minutes per quote
-          can cut that to 10 minutes &mdash; and send proposals the same day
+          can cut that to 10 minutes, and send proposals the same day
           instead of three days later. Speed-to-quote is one of the strongest
           predictors of win rates in service businesses.
         </p>
@@ -168,7 +168,7 @@ export default function AIImplementationSmallBusinessArticle() {
           The highest-dollar AI opportunities in many acquired businesses are on
           the operations side, not the back office. These applications require
           more data and more setup time, making them better suited for months
-          3&ndash;12 rather than the{" "}
+          3-12 rather than the{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
             first 100 days
           </Link>.
@@ -181,7 +181,7 @@ export default function AIImplementationSmallBusinessArticle() {
           temperature, vibration, and performance data to models that flag
           anomalies. Upkeep and Fiix offer SME-friendly predictive maintenance
           platforms starting at $45/user/month. Companies using predictive
-          maintenance report 25&ndash;35% reductions in unplanned downtime,
+          maintenance report 25-35% reductions in unplanned downtime,
           according to Deloitte research.
         </p>
 
@@ -202,11 +202,11 @@ export default function AIImplementationSmallBusinessArticle() {
         <h2 className={h2Class}>Build vs. buy: the decision framework</h2>
         <p>
           For search fund portfolio companies, the answer is almost always
-          &ldquo;buy.&rdquo; Off-the-shelf AI SaaS tools solve 80&ndash;90% of
-          SME use cases at 5&ndash;10% of the cost of custom development. A
-          custom AI model costs $50K&ndash;$200K to build, requires ongoing
+          &ldquo;buy.&rdquo; Off-the-shelf AI SaaS tools solve 80-90% of
+          SME use cases at 5-10% of the cost of custom development. A
+          custom AI model costs $50K-$200K to build, requires ongoing
           maintenance, and needs a technical team to manage. A SaaS subscription
-          costs $100&ndash;$500/month and is maintained by the vendor.
+          costs $100-$500/month and is maintained by the vendor.
         </p>
         <p>
           There are only three scenarios where custom AI development makes sense
@@ -215,9 +215,9 @@ export default function AIImplementationSmallBusinessArticle() {
         <ol className={olClass}>
           <li>
             <strong>Proprietary data advantage.</strong> If your business has a
-            unique dataset that no off-the-shelf tool can replicate &mdash; for
+            unique dataset that no off-the-shelf tool can replicate, for
             example, 20 years of equipment failure records in a niche industry
-            &mdash; a custom model trained on that data can become a genuine
+            a custom model trained on that data can become a genuine
             competitive advantage.
           </li>
           <li>
@@ -233,8 +233,8 @@ export default function AIImplementationSmallBusinessArticle() {
           </li>
         </ol>
         <p>
-          For everything else &mdash; customer service, sales automation, accounting,
-          scheduling, and document processing &mdash; buy the tool, configure it
+          For everything else, customer service, sales automation, accounting,
+          scheduling, and document processing, buy the tool, configure it
           well, and move on.
         </p>
 
@@ -269,16 +269,16 @@ export default function AIImplementationSmallBusinessArticle() {
             <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">
               digital transformation
             </Link>{" "}
-            &mdash; getting data into proper cloud-based systems &mdash; often
+           , getting data into proper cloud-based systems, often
             must precede AI implementation.
           </li>
           <li>
             <strong>Volume.</strong> Some AI applications need historical data
-            to work. Lead scoring requires at least 6&ndash;12 months of deal
-            data. Demand forecasting needs 2&ndash;3 years of sales history.
+            to work. Lead scoring requires at least 6-12 months of deal
+            data. Demand forecasting needs 2-3 years of sales history.
             Predictive maintenance needs months of sensor readings. If the data
             does not exist yet, start collecting it now and plan AI deployment
-            for 6&ndash;12 months out.
+            for 6-12 months out.
           </li>
         </ul>
 
@@ -308,13 +308,13 @@ export default function AIImplementationSmallBusinessArticle() {
             handles the tedious parts of their job, not the valuable parts.
           </li>
           <li>
-            <strong>Start with volunteers.</strong> Identify the 2&ndash;3
+            <strong>Start with volunteers.</strong> Identify the 2-3
             employees most open to new technology and pilot AI tools with them
             first. Their success stories become internal proof points that
             persuade skeptics more effectively than any memo from the CEO.
           </li>
           <li>
-            <strong>Make training non-negotiable.</strong> Budget 2&ndash;4
+            <strong>Make training non-negotiable.</strong> Budget 2-4
             hours of hands-on training for every AI tool you deploy. Do not
             assume people will figure it out. Create simple one-page guides
             with screenshots. Pair less technical employees with early adopters.
@@ -328,7 +328,7 @@ export default function AIImplementationSmallBusinessArticle() {
           </li>
           <li>
             <strong>Accept that some resistance is permanent.</strong> In a
-            40-person company, 2&ndash;3 employees will never embrace AI tools.
+            40-person company, 2-3 employees will never embrace AI tools.
             That is acceptable as long as their roles do not bottleneck
             adoption for everyone else. Do not let a few holdouts delay
             implementation for the entire organization.
@@ -346,35 +346,35 @@ export default function AIImplementationSmallBusinessArticle() {
         <h3 className={h3Class}>Budget ranges by application</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Customer service AI</strong> (chatbot + voice): $200&ndash;$500/month.
-            Payback period: 1&ndash;3 months. Typical annual savings: $50K&ndash;$120K.
+            <strong>Customer service AI</strong> (chatbot + voice): $200-$500/month.
+            Payback period: 1-3 months. Typical annual savings: $50K-$120K.
           </li>
           <li>
             <strong>Sales AI</strong> (lead scoring, CRM automation, call
-            recording): $300&ndash;$800/month. Payback period: 3&ndash;6
-            months. Typical revenue lift: 10&ndash;20%.
+            recording): $300-$800/month. Payback period: 3-6
+            months. Typical revenue lift: 10-20%.
           </li>
           <li>
             <strong>Accounting AI</strong> (invoice processing, expense
-            categorization, cash flow forecasting): $200&ndash;$600/month.
-            Payback period: 1&ndash;2 months. Typical time savings: 20&ndash;30
+            categorization, cash flow forecasting): $200-$600/month.
+            Payback period: 1-2 months. Typical time savings: 20-30
             hours/month.
           </li>
           <li>
             <strong>Operations AI</strong> (route optimization, scheduling,
-            inventory): $500&ndash;$2,000/month. Payback period: 3&ndash;6
-            months. Typical cost reduction: 10&ndash;20% in targeted area.
+            inventory): $500-$2,000/month. Payback period: 3-6
+            months. Typical cost reduction: 10-20% in targeted area.
           </li>
           <li>
             <strong>Knowledge management AI</strong> (internal assistant,
-            document processing): $100&ndash;$500/month. Payback period:
-            2&ndash;4 months. Primary value: reduced onboarding time and
+            document processing): $100-$500/month. Payback period:
+            2-4 months. Primary value: reduced onboarding time and
             key-person risk mitigation.
           </li>
         </ul>
         <p>
           For a $3M-revenue business, a reasonable Year 1 AI budget is
-          $5K&ndash;$15K. For a $10M-revenue business, plan for $15K&ndash;$50K.
+          $5K-$15K. For a $10M-revenue business, plan for $15K-$50K.
           These numbers include subscription costs and initial setup/training
           but exclude major data cleanup or system migration work, which falls
           under your broader digital transformation budget.
@@ -383,31 +383,31 @@ export default function AIImplementationSmallBusinessArticle() {
         <h3 className={h3Class}>Implementation timeline</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Weeks 1&ndash;4:</strong> Audit current processes.
-            Identify the 3&ndash;5 tasks that consume the most manual hours
+            <strong>Weeks 1-4:</strong> Audit current processes.
+            Identify the 3-5 tasks that consume the most manual hours
             and have the most repetitive, data-heavy characteristics. Assess
             data readiness for each.
           </li>
           <li>
-            <strong>Weeks 5&ndash;8:</strong> Deploy your first AI tool
-            &mdash; typically customer service or accounting. Use off-the-shelf
+            <strong>Weeks 5-8:</strong> Deploy your first AI tool
+            typically customer service or accounting. Use off-the-shelf
             SaaS, not custom builds. Train the team. Measure baseline metrics
             before launch so you can quantify impact.
           </li>
           <li>
-            <strong>Months 3&ndash;6:</strong> Evaluate ROI on the first tool.
+            <strong>Months 3-6:</strong> Evaluate ROI on the first tool.
             If positive (it almost always is for customer service and accounting
             AI), deploy the second and third applications. Begin collecting data
             for more advanced use cases like lead scoring and demand forecasting.
           </li>
           <li>
-            <strong>Months 6&ndash;12:</strong> Expand AI into sales and
+            <strong>Months 6-12:</strong> Expand AI into sales and
             operations. Build AI workflows into standard operating procedures.
             At this point AI should be part of how the business runs, not a
             side experiment.
           </li>
           <li>
-            <strong>Year 2:</strong> Explore advanced applications &mdash;
+            <strong>Year 2:</strong> Explore advanced applications , 
             predictive analytics, AI-powered dynamic pricing, custom models
             built on proprietary data. Consider whether AI capabilities should
             factor into your acquisition criteria for add-on acquisitions.
@@ -420,7 +420,7 @@ export default function AIImplementationSmallBusinessArticle() {
           Should I implement AI before fixing basic processes?
         </h3>
         <p>
-          No. AI amplifies what already exists &mdash; if your underlying
+          No. AI amplifies what already exists, if your underlying
           processes are broken, AI will make them fail faster and at scale.
           Fix data quality issues, standardize workflows, and get your CRM
           and accounting systems in order first. A business that cannot
@@ -456,11 +456,11 @@ export default function AIImplementationSmallBusinessArticle() {
           What are the biggest risks of AI implementation in an SME?
         </h3>
         <p>
-          The top risk is not technology failure &mdash; it is employee
+          The top risk is not technology failure, it is employee
           resistance and wasted spend on tools nobody uses. The second risk is
           data privacy: AI tools that process customer data must comply with
           relevant regulations (GDPR, CCPA, industry-specific rules). The
-          third risk is vendor dependency &mdash; always ensure you can export
+          third risk is vendor dependency, always ensure you can export
           your data and switch providers if a vendor raises prices or shuts
           down.
         </p>
@@ -475,7 +475,7 @@ export default function AIImplementationSmallBusinessArticle() {
           </Link>{" "}
           should include a technology audit and one quick-win AI deployment
           (customer service or accounting). Save larger AI projects for months
-          4&ndash;12, after you have established trust with the team and
+          4-12, after you have established trust with the team and
           fixed any foundational data and process issues.
         </p>
       </div>

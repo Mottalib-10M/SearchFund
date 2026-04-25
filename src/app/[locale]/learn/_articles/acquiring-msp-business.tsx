@@ -11,14 +11,14 @@ export default function AcquiringMSPBusinessArticle() {
 
       <div className={bodyClass}>
         <p>
-          Managed Service Providers &mdash; the companies that serve as
-          outsourced IT departments for small and mid-sized businesses &mdash;
+          Managed Service Providers, the companies that serve as
+          outsourced IT departments for small and mid-sized businesses , 
           represent one of the most compelling acquisition targets in{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             entrepreneurship through acquisition
           </Link>.
           The business model is nearly purpose-built for search fund success:
-          85&ndash;95% recurring revenue from monthly managed-service contracts,
+          85-95% recurring revenue from monthly managed-service contracts,
           deeply embedded customer relationships that create natural switching
           costs, an essential service that businesses cannot operate without,
           and a massively fragmented $150B+ global market with over 40,000
@@ -37,18 +37,18 @@ export default function AcquiringMSPBusinessArticle() {
           The MSP industry checks virtually every box that search fund
           investors and lenders look for in an acquisition target. Understanding
           these structural advantages explains why private equity firms have
-          been aggressively consolidating the sector &mdash; and why the
+          been aggressively consolidating the sector, and why the
           opportunity remains enormous for individual searchers.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Exceptional recurring revenue:</strong> Best-in-class MSPs
-            generate 85&ndash;95% of total revenue from Monthly Recurring
+            generate 85-95% of total revenue from Monthly Recurring
             Revenue (MRR) contracts. Clients pay a fixed per-user or
             per-endpoint fee each month for thorough IT management,
             monitoring, patching, help desk support, and cybersecurity. This
             subscription-like revenue stream is predictable, high-margin, and
-            remarkably durable &mdash; more akin to{" "}
+            remarkably durable, more akin to{" "}
             <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">
               SaaS businesses
             </Link>{" "}
@@ -60,10 +60,10 @@ export default function AcquiringMSPBusinessArticle() {
             one of the most disruptive decisions a small business can make. The
             MSP has access to every system, password, network configuration, and
             backup. Migrating to a new provider requires weeks of planning, data
-            transfer, credential rotation, and risk &mdash; all while the
+            transfer, credential rotation, and risk, all while the
             business must continue operating. This creates annual customer
-            retention rates of 90&ndash;95% for well-run MSPs, meaning churn is
-            typically just 5&ndash;10% per year. Few industries outside of SaaS
+            retention rates of 90-95% for well-run MSPs, meaning churn is
+            typically just 5-10% per year. Few industries outside of SaaS
             offer this level of revenue durability.
           </li>
           <li>
@@ -72,7 +72,7 @@ export default function AcquiringMSPBusinessArticle() {
             stops working, or a ransomware attack encrypts files, business
             grinds to a halt. Companies will cut marketing budgets, delay
             office renovations, and reduce travel long before they cancel their
-            MSP contract. The industry grew through the 2008&ndash;2009
+            MSP contract. The industry grew through the 2008-2009
             recession and accelerated during the COVID-19 pandemic as remote
             work drove urgent IT needs. This recession resistance makes MSPs
             particularly attractive for leveraged acquisitions.
@@ -81,8 +81,8 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Massive fragmentation:</strong> With over 40,000 MSPs in the
             US alone and a global market exceeding $150 billion, the industry
             remains extraordinarily fragmented. The vast majority of MSPs are
-            small, owner-operated businesses with $1M&ndash;$5M in revenue,
-            5&ndash;25 employees, and 50&ndash;200 client endpoints. No single
+            small, owner-operated businesses with $1M-$5M in revenue,
+            5-25 employees, and 50-200 client endpoints. No single
             operator controls more than a low-single-digit percentage of the
             market. This fragmentation creates an enormous pipeline of
             acquisition targets and natural consolidation economics.
@@ -91,10 +91,10 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Proven roll-up economics:</strong> ConnectWise&rsquo;s annual
             MSP Benchmark Survey confirms that private equity firms have
             demonstrated MSP consolidation generates exceptional returns.
-            Acquirers routinely purchase small MSPs at 4&ndash;6x EBITDA,
+            Acquirers routinely purchase small MSPs at 4-6x EBITDA,
             integrate them onto a common platform, eliminate duplicate overhead
             (office leases, redundant PSA/RMM licenses, back-office staff),
-            and build platforms that command 8&ndash;12x EBITDA at exit. The
+            and build platforms that command 8-12x EBITDA at exit. The
             arbitrage between entry and exit multiples, combined with organic
             growth and margin expansion, creates a compelling value-creation
             formula.
@@ -105,7 +105,7 @@ export default function AcquiringMSPBusinessArticle() {
             profiles, asset-light balance sheets, and strong free cash flow
             characteristics. Lenders increasingly understand the MSP model and
             are comfortable financing acquisitions in the sector, enabling
-            searchers to acquire businesses with 10&ndash;15% equity down.
+            searchers to acquire businesses with 10-15% equity down.
           </li>
         </ul>
 
@@ -119,13 +119,13 @@ export default function AcquiringMSPBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Managed services / MRR:</strong> The core of the business.
-            Clients pay a fixed monthly fee &mdash; typically $100&ndash;$250
-            per user per month or $5&ndash;$15 per endpoint per month &mdash;
+            Clients pay a fixed monthly fee, typically $100-$250
+            per user per month or $5-$15 per endpoint per month , 
             for thorough IT management including remote monitoring,
             patching, help desk support, network management, backup, and basic
-            cybersecurity. MRR should represent 70&ndash;95% of total revenue
+            cybersecurity. MRR should represent 70-95% of total revenue
             for an attractive acquisition target. Contracts are typically
-            12&ndash;36 months with auto-renewal clauses and 60&ndash;90 day
+            12-36 months with auto-renewal clauses and 60-90 day
             termination notice periods.
           </li>
           <li>
@@ -133,15 +133,15 @@ export default function AcquiringMSPBusinessArticle() {
             migrations, office moves, network buildouts, cloud migrations, and
             infrastructure upgrades. Project revenue is lumpy and
             unpredictable but often high-margin. Well-run MSPs use project
-            work as both a profit center and a lead generation tool &mdash;
+            work as both a profit center and a lead generation tool , 
             completing a successful project for a prospect often converts them
             into a managed-services client. Project work should ideally
-            represent no more than 15&ndash;20% of total revenue.
+            represent no more than 15-20% of total revenue.
           </li>
           <li>
             <strong>Break-fix / time-and-materials:</strong> The legacy MSP
             revenue model where clients pay hourly for reactive IT support.
-            Break-fix revenue is the least valuable stream &mdash; it is
+            Break-fix revenue is the least valuable stream, it is
             unpredictable, low-margin, and creates misaligned incentives (the
             MSP profits from things breaking). A high percentage of break-fix
             revenue is a yellow flag that the business has not fully
@@ -152,7 +152,7 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Cloud and SaaS resale:</strong> MSPs frequently resell
             Microsoft 365, Google Workspace, cloud hosting (Azure, AWS),
             backup solutions, and other SaaS products to their clients. Margins
-            on resale are typically thin (10&ndash;25%) but the revenue is
+            on resale are typically thin (10-25%) but the revenue is
             recurring, and bundling these products into managed-service
             agreements deepens the client relationship and increases switching
             costs.
@@ -178,8 +178,8 @@ export default function AcquiringMSPBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Small MSPs ($1M&ndash;$5M revenue):</strong> Typically
-            valued at 4&ndash;6x EBITDA or 1&ndash;2x annual recurring revenue
+            <strong>Small MSPs ($1M-$5M revenue):</strong> Typically
+            valued at 4-6x EBITDA or 1-2x annual recurring revenue
             (ARR). These are the most common ETA targets. Multiples at the
             lower end reflect owner-dependency, limited documentation, aging
             technology stacks, or meaningful break-fix revenue. Multiples at
@@ -188,15 +188,15 @@ export default function AcquiringMSPBusinessArticle() {
             owner.
           </li>
           <li>
-            <strong>Mid-market MSPs ($5M&ndash;$20M revenue):</strong> Valued
-            at 6&ndash;8x EBITDA or 2&ndash;3x ARR. These businesses have
+            <strong>Mid-market MSPs ($5M-$20M revenue):</strong> Valued
+            at 6-8x EBITDA or 2-3x ARR. These businesses have
             typically built management layers, formalized operations, and
             developed specializations that command premium pricing. They
             attract both PE platforms looking for add-ons and larger strategic
             acquirers.
           </li>
           <li>
-            <strong>Platform MSPs ($20M+ revenue):</strong> Command 7&ndash;10x
+            <strong>Platform MSPs ($20M+ revenue):</strong> Command 7-10x
             EBITDA or higher, particularly if they have developed MSSP
             capabilities, vertical specialization (healthcare, legal,
             financial services), or multi-geography presence. These are the
@@ -206,8 +206,8 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Key valuation metrics:</strong> Beyond EBITDA multiples,
             buyers and sellers negotiate around MRR as a percentage of total
             revenue, average contract length and auto-renewal rates, net
-            revenue retention (NRR &mdash; ideally above 105%), revenue per
-            endpoint managed, gross margin on managed services (target: 55&ndash;70%),
+            revenue retention (NRR, ideally above 105%), revenue per
+            endpoint managed, gross margin on managed services (target: 55-70%),
             and customer acquisition cost versus lifetime value.
           </li>
         </ul>
@@ -215,11 +215,11 @@ export default function AcquiringMSPBusinessArticle() {
         <h2 className={h2Class}>Due diligence deep dive</h2>
         <p>
           MSP acquisitions share foundational due diligence elements with other
-          small business purchases &mdash; our{" "}
+          small business purchases, our{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             thorough due diligence checklist
           </Link>{" "}
-          covers the fundamentals &mdash; but several areas require
+          covers the fundamentals, but several areas require
           industry-specific scrutiny. Cutting corners on any of these can
           result in costly post-close surprises.
         </p>
@@ -255,7 +255,7 @@ export default function AcquiringMSPBusinessArticle() {
             scripts, and policies configured in the RMM. Best-in-class MSPs
             automate patching, monitoring alerts, ticket creation, and common
             remediation tasks. Low automation levels mean higher labor costs
-            per endpoint &mdash; but also represent a clear efficiency
+            per endpoint, but also represent a clear efficiency
             improvement opportunity post-acquisition.
           </li>
           <li>
@@ -278,13 +278,13 @@ export default function AcquiringMSPBusinessArticle() {
           </li>
           <li>
             <strong>Termination provisions:</strong> What notice period is
-            required for cancellation? 30 days is weak; 60&ndash;90 days is
+            required for cancellation? 30 days is weak; 60-90 days is
             standard; 90+ days is strong. Assess whether contracts include
             early termination fees or penalties.
           </li>
           <li>
             <strong>Price escalation clauses:</strong> Do contracts include
-            annual price increase provisions (e.g., 3&ndash;5% annual
+            annual price increase provisions (e.g., 3-5% annual
             escalators tied to CPI or a fixed percentage)? Contracts without
             escalation clauses erode margin over time as costs rise while
             revenue remains flat.
@@ -375,7 +375,7 @@ export default function AcquiringMSPBusinessArticle() {
         <p>
           This is perhaps the most critical and most underappreciated due
           diligence area in MSP acquisitions. MSPs hold the keys to their
-          clients&rsquo; entire IT kingdoms &mdash; admin credentials, network
+          clients&rsquo; entire IT kingdoms, admin credentials, network
           access, backup systems, and security tools. A breach at the MSP
           level can cascade across every client simultaneously, creating
           catastrophic liability.
@@ -401,7 +401,7 @@ export default function AcquiringMSPBusinessArticle() {
             adequate cyber liability insurance with appropriate limits. Review
             claims history and ensure the policy covers both the MSP&rsquo;s
             own systems and liability arising from client breaches. Cyber
-            insurance premiums for MSPs have risen significantly &mdash;
+            insurance premiums for MSPs have risen significantly , 
             factor current and projected premiums into your financial model.
           </li>
           <li>
@@ -421,7 +421,7 @@ export default function AcquiringMSPBusinessArticle() {
             contracts (response time, resolution time, uptime guarantees) and
             measure actual performance against those commitments. Consistent
             SLA violations indicate staffing problems, process failures, or
-            overcommitment &mdash; and may give clients contractual
+            overcommitment, and may give clients contractual
             termination rights.
           </li>
           <li>
@@ -442,8 +442,8 @@ export default function AcquiringMSPBusinessArticle() {
 
         <h2 className={h2Class}>Post-acquisition growth playbook</h2>
         <p>
-          Closing the acquisition is where the real work &mdash; and the real
-          value creation &mdash; begins. The MSP model offers an unusually rich
+          Closing the acquisition is where the real work, and the real
+          value creation, begins. The MSP model offers an unusually rich
           set of growth levers that can be pulled systematically in the months
           and years following close.
         </p>
@@ -453,7 +453,7 @@ export default function AcquiringMSPBusinessArticle() {
           The single highest-impact lever in most MSP acquisitions is
           increasing the revenue generated from each managed endpoint. Many
           small, owner-operated MSPs have not raised prices in years, either
-          out of fear of losing clients or simple inertia. A 10&ndash;20%
+          out of fear of losing clients or simple inertia. A 10-20%
           price increase on existing managed-service agreements is often
           achievable with minimal churn, particularly when paired with
           tangible service improvements such as faster response times,
@@ -467,8 +467,8 @@ export default function AcquiringMSPBusinessArticle() {
         <p>
           Cybersecurity is the single largest growth opportunity in the MSP
           industry. Small and mid-sized businesses face the same threats as
-          enterprises &mdash; ransomware, phishing, business email compromise,
-          data exfiltration &mdash; but lack internal security expertise. MSPs
+          enterprises, ransomware, phishing, business email compromise,
+          data exfiltration, but lack internal security expertise. MSPs
           are uniquely positioned to fill this gap by layering security
           services on top of existing managed-service agreements.
         </p>
@@ -478,7 +478,7 @@ export default function AcquiringMSPBusinessArticle() {
             monitoring and threat response through a Security Operations
             Center (SOC), typically delivered via a vendor partnership
             (Arctic Wolf, Huntress, SentinelOne, CrowdStrike). Adds
-            $30&ndash;$80 per endpoint per month in recurring revenue.
+            $30-$80 per endpoint per month in recurring revenue.
           </li>
           <li>
             <strong>Security awareness training:</strong> Phishing simulations
@@ -504,7 +504,7 @@ export default function AcquiringMSPBusinessArticle() {
         </ul>
         <p>
           A well-executed security services expansion can increase per-client
-          revenue by 25&ndash;50% while improving retention, as clients who
+          revenue by 25-50% while improving retention, as clients who
           purchase both IT management and security services from the same
           provider are significantly less likely to churn.
         </p>
@@ -516,11 +516,11 @@ export default function AcquiringMSPBusinessArticle() {
           advisor. The vCIO conducts quarterly business reviews, develops
           technology roadmaps, manages IT budgets, evaluates vendors, and
           aligns technology investments with business objectives. vCIO
-          services typically command $1,000&ndash;$3,000 per client per month
+          services typically command $1,000-$3,000 per client per month
           on top of the base managed-service agreement, carry gross margins
           of 70%+, and dramatically increase client stickiness. Clients who
-          view their MSP as a strategic partner &mdash; rather than a
-          commodity help desk &mdash; are far less likely to switch providers
+          view their MSP as a strategic partner, rather than a
+          commodity help desk, are far less likely to switch providers
           and far more likely to expand the relationship over time.
         </p>
 
@@ -535,7 +535,7 @@ export default function AcquiringMSPBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Entry multiples:</strong> Acquire small MSPs at
-            3&ndash;5x EBITDA. Many owner-operators are nearing retirement,
+            3-5x EBITDA. Many owner-operators are nearing retirement,
             burned out from the relentless demands of 24/7 IT support, or
             simply lack the capital and expertise to invest in security and
             automation. These sellers are motivated and realistic on price.
@@ -546,22 +546,22 @@ export default function AcquiringMSPBusinessArticle() {
             back-office overhead, rationalize vendor agreements to capture
             volume pricing, and cross-sell security services to the acquired
             client base. Well-executed integrations typically yield
-            15&ndash;25% cost synergies.
+            15-25% cost synergies.
           </li>
           <li>
-            <strong>Exit multiples:</strong> Platforms with $3M&ndash;$5M+
+            <strong>Exit multiples:</strong> Platforms with $3M-$5M+
             EBITDA, diversified client bases, strong MRR percentages, and
-            security capabilities command 8&ndash;12x EBITDA from PE buyers
-            and strategic acquirers. The arbitrage between 3&ndash;5x entry
-            and 8&ndash;12x exit, combined with organic growth and margin
+            security capabilities command 8-12x EBITDA from PE buyers
+            and strategic acquirers. The arbitrage between 3-5x entry
+            and 8-12x exit, combined with organic growth and margin
             expansion, creates the potential for exceptional returns.
           </li>
           <li>
             <strong>Integration playbook:</strong> Successful MSP roll-ups
-            follow a disciplined 90-day integration timeline: Day 1&ndash;30
+            follow a disciplined 90-day integration timeline: Day 1-30
             focuses on client communication, team retention, and billing
-            continuity. Day 31&ndash;60 consolidates PSA/RMM platforms and
-            rationalizes vendor agreements. Day 61&ndash;90 cross-sells
+            continuity. Day 31-60 consolidates PSA/RMM platforms and
+            rationalizes vendor agreements. Day 61-90 cross-sells
             security services and implements standardized pricing. Rushing
             integration or neglecting client communication is the number-one
             cause of post-acquisition churn in MSP roll-ups.
@@ -593,7 +593,7 @@ export default function AcquiringMSPBusinessArticle() {
             automated scripts that resolve common issues (disk space cleanup,
             service restarts, printer fixes, user onboarding/offboarding)
             without technician intervention. Best-in-class MSPs resolve
-            30&ndash;40% of tickets through automation.
+            30-40% of tickets through automation.
           </li>
           <li>
             <strong>Documentation systems:</strong> Implement an IT
@@ -614,14 +614,14 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>SBA 7(a) loans:</strong> The recurring revenue profile,
             asset-light balance sheet, and strong cash flow generation make
             MSPs ideal SBA candidates. SBA 7(a) loans can finance up to $5M
-            in total project costs with as little as 10&ndash;15% equity
+            in total project costs with as little as 10-15% equity
             injection. The predictable MRR stream makes debt service
             coverage calculations straightforward for lenders. Interest
-            rates are typically Prime + 2.25&ndash;2.75% with 10-year terms.
+            rates are typically Prime + 2.25-2.75% with 10-year terms.
           </li>
           <li>
             <strong>Seller financing:</strong> Many MSP owners are willing to
-            carry 10&ndash;30% of the purchase price as a seller note,
+            carry 10-30% of the purchase price as a seller note,
             particularly if they are motivated by retirement or burnout. Seller
             financing aligns incentives by keeping the seller invested in a
             smooth transition and can bridge the gap between SBA limits and
@@ -640,7 +640,7 @@ export default function AcquiringMSPBusinessArticle() {
             <strong>Earn-out structures:</strong> Given that MSP valuations
             are heavily tied to MRR durability, structuring a portion of the
             purchase price as an earn-out tied to client retention or MRR
-            maintenance over 12&ndash;24 months can reduce upfront capital
+            maintenance over 12-24 months can reduce upfront capital
             requirements and mitigate transition risk.
           </li>
         </ul>
@@ -655,7 +655,7 @@ export default function AcquiringMSPBusinessArticle() {
           <li>
             <strong>Technology obsolescence:</strong> The IT market evolves
             rapidly. Cloud migration is reducing demand for on-premise server
-            management &mdash; once a core MSP revenue stream. MSPs that
+            management, once a core MSP revenue stream. MSPs that
             haven&rsquo;t adapted to cloud-first architectures (Azure, AWS,
             Microsoft 365) risk losing relevance as clients move
             infrastructure to the cloud. Mitigate by targeting MSPs that have
@@ -710,7 +710,7 @@ export default function AcquiringMSPBusinessArticle() {
         <p>
           Managed Service Providers represent one of the strongest acquisition
           opportunities available to search fund entrepreneurs today. The
-          combination of 85&ndash;95% recurring revenue, deeply sticky customer
+          combination of 85-95% recurring revenue, deeply sticky customer
           relationships, essential-service demand dynamics, and massive market
           fragmentation creates a structural opportunity that is difficult to
           replicate in other sectors. For searchers willing to learn the
@@ -719,7 +719,7 @@ export default function AcquiringMSPBusinessArticle() {
           acquire a well-run MSP at a reasonable multiple, increase MRR per
           endpoint through pricing optimization and service expansion, layer
           on high-margin security services, invest in automation and tooling
-          to improve margins, and &mdash; when ready &mdash; scale through
+          to improve margins, and, when ready, scale through
           disciplined tuck-in acquisitions that use the multiple arbitrage
           between small-operator entry multiples and platform-level exit
           multiples. The operators who execute this playbook consistently
@@ -748,12 +748,12 @@ export default function AcquiringMSPBusinessArticle() {
           What is a good valuation multiple for an MSP?
         </h3>
         <p>
-          Small MSPs ($1M&ndash;$5M revenue) typically trade at 4&ndash;6x
-          EBITDA or 1&ndash;2x annual recurring revenue (ARR). Mid-market
-          MSPs ($5M&ndash;$20M) command 6&ndash;8x EBITDA. Platform MSPs
+          Small MSPs ($1M-$5M revenue) typically trade at 4-6x
+          EBITDA or 1-2x annual recurring revenue (ARR). Mid-market
+          MSPs ($5M-$20M) command 6-8x EBITDA. Platform MSPs
           ($20M+) with MSSP capabilities and vertical specialization can
-          reach 7&ndash;10x or higher. The single most important valuation
-          driver is MRR as a percentage of total revenue &mdash; MSPs with
+          reach 7-10x or higher. The single most important valuation
+          driver is MRR as a percentage of total revenue, MSPs with
           80%+ MRR command significantly higher multiples than those with
           heavy break-fix revenue.
         </p>
@@ -777,13 +777,13 @@ export default function AcquiringMSPBusinessArticle() {
         </h3>
         <p>
           The highest-impact levers are: (1) increase MRR per endpoint
-          through 10&ndash;20% price adjustments on underpriced contracts,
+          through 10-20% price adjustments on underpriced contracts,
           (2) layer security services (MDR, SIEM, compliance) which can
-          increase per-client revenue by 25&ndash;50%, (3) launch vCIO
-          advisory services at $1,000&ndash;$3,000 per client per month,
+          increase per-client revenue by 25-50%, (3) launch vCIO
+          advisory services at $1,000-$3,000 per client per month,
           (4) invest in RMM automation to reduce cost per endpoint, and
-          (5) execute tuck-in acquisitions at 3&ndash;5x EBITDA to build
-          a platform that commands 8&ndash;12x at exit.
+          (5) execute tuck-in acquisitions at 3-5x EBITDA to build
+          a platform that commands 8-12x at exit.
         </p>
       </div>
     </article>

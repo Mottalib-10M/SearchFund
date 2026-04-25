@@ -130,7 +130,7 @@ export default function ETAvsPEFR() {
           entreprises au quotidien. L&apos;implication du PE se manifeste au
           niveau du conseil d&apos;administration, de la définition de la
           stratégie, de la structuration financière et du suivi de la
-          performance &mdash; mais pas dans l&apos;exécution opérationnelle
+          performance, mais pas dans l&apos;exécution opérationnelle
           directe.
         </p>
         <p>
@@ -219,7 +219,7 @@ export default function ETAvsPEFR() {
           mature et dynamique. France Invest (anciennement AFIC),
           l&apos;association française des investisseurs pour la croissance,
           recense plusieurs centaines de fonds de PE actifs en France,
-          couvrant l&apos;ensemble du spectre &mdash; du venture capital au
+          couvrant l&apos;ensemble du spectre, du venture capital au
           large-cap LBO. Les données publiées par France Invest montrent
           que le capital-investissement français est le plus important en
           Europe continentale par les montants levés et investis.
@@ -299,7 +299,7 @@ export default function ETAvsPEFR() {
           capital humain et sa réputation dans une seule entreprise. En cas
           d&apos;échec de l&apos;acquisition ou de l&apos;opération, les
           conséquences personnelles sont significatives. Pour les
-          investisseurs, le risque est atténué par la diversification &mdash;
+          investisseurs, le risque est atténué par la diversification , 
           un investisseur ETA typique participe à 10 à 20 search funds,
           sachant qu&apos;un certain pourcentage ne complétera pas
           d&apos;acquisition et qu&apos;un autre sous-performera.

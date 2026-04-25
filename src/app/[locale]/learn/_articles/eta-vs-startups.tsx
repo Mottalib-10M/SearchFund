@@ -344,11 +344,11 @@ export default function ETAvsStartupsArticle() {
 
         <h2 className={h2Class}>Frequently asked questions</h2>
 
-        <h3 className={h3Class}>Can I combine ETA with a startup approach &mdash; for example, acquiring a business and then innovating its product?</h3>
+        <h3 className={h3Class}>Can I combine ETA with a startup approach, for example, acquiring a business and then innovating its product?</h3>
         <p>
           Yes, and this hybrid approach is increasingly common among search fund operators. The{" "}
           <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>{" "}
-          documents multiple cases where searchers acquired traditional service businesses and then layered technology-enabled improvements &mdash; mobile workforce management, proprietary software tools, e-commerce channels &mdash; that transformed the company&rsquo;s competitive position and exit multiple. The key advantage of this approach over a pure startup is that you innovate on top of existing cash flows, customers, and a proven business model, dramatically reducing the binary risk of a startup. EndoChoice, one of the most famous search fund success stories, followed exactly this pattern: acquiring a small medical device company and then investing aggressively in R&amp;D and product development to build a differentiated competitor in the endoscopy market.
+          documents multiple cases where searchers acquired traditional service businesses and then layered technology-enabled improvements, mobile workforce management, proprietary software tools, e-commerce channels, that transformed the company&rsquo;s competitive position and exit multiple. The key advantage of this approach over a pure startup is that you innovate on top of existing cash flows, customers, and a proven business model, dramatically reducing the binary risk of a startup. EndoChoice, one of the most famous search fund success stories, followed exactly this pattern: acquiring a small medical device company and then investing aggressively in R&amp;D and product development to build a differentiated competitor in the endoscopy market.
         </p>
 
         <h3 className={h3Class}>Is an MBA necessary for ETA, or can I pursue it without one?</h3>
@@ -360,24 +360,24 @@ export default function ETAvsStartupsArticle() {
 
         <h3 className={h3Class}>What are the realistic income expectations for each path in the first five years?</h3>
         <p>
-          Income trajectories differ dramatically across the three paths. Startup founders typically earn $0&ndash;$80K in years one through three, with income rising to $100K&ndash;$200K only if the company reaches meaningful scale &mdash; the 90% who fail may earn nothing. Franchise owner-operators reach operational breakeven within 12&ndash;24 months, with annual income typically ranging from $60K to $150K for a single unit. ETA offers the most immediate income: search fund CEOs earn $150K&ndash;$250K in base salary from day one post-acquisition, with total compensation growing as the company grows. More importantly, the equity component of ETA distinguishes it from both alternatives. A searcher holding 25% equity in a company that grows from $10M to $20M in enterprise value over five years would realize approximately $2.5M in personal wealth at exit, an outcome that is realistic and well-documented in the Stanford data.
+          Income trajectories differ dramatically across the three paths. Startup founders typically earn $0-$80K in years one through three, with income rising to $100K-$200K only if the company reaches meaningful scale, the 90% who fail may earn nothing. Franchise owner-operators reach operational breakeven within 12-24 months, with annual income typically ranging from $60K to $150K for a single unit. ETA offers the most immediate income: search fund CEOs earn $150K-$250K in base salary from day one post-acquisition, with total compensation growing as the company grows. More importantly, the equity component of ETA distinguishes it from both alternatives. A searcher holding 25% equity in a company that grows from $10M to $20M in enterprise value over five years would realize approximately $2.5M in personal wealth at exit, an outcome that is realistic and well-documented in the Stanford data.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.cbinsights.com/research/startup-failure-reasons-top/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              CB Insights &mdash; Top Reasons Startups Fail (Research Report)
+              CB Insights, Top Reasons Startups Fail (Research Report)
             </a>
           </li>
           <li>
             <a href="https://www.franchise.org/franchising-economic-outlook/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              International Franchise Association &mdash; Franchise Business Economic Outlook
+              International Franchise Association, Franchise Business Economic Outlook
             </a>
           </li>
         </ul>

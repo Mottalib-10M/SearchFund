@@ -16,7 +16,7 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
           <li><strong>Key platforms:</strong> BizBuySell, BizQuest, BusinessBroker.net, and Axial for larger deals. LoopNet for businesses with real estate.</li>
           <li><strong>Broker associations:</strong> International Business Brokers Association (IBBA) and M&amp;A Source provide credentialing, training, and deal databases.</li>
           <li><strong>Licensing:</strong> Varies by state. Some states require real estate licenses; others have no specific business broker licensing requirements.</li>
-          <li><strong>Fee structure:</strong> Lehman Formula for larger deals. Flat commission (8&ndash;12% of sale price) for smaller deals under $5M.</li>
+          <li><strong>Fee structure:</strong> Lehman Formula for larger deals. Flat commission (8-12% of sale price) for smaller deals under $5M.</li>
           <li><strong>Deal flow:</strong> Abundant online listings but quality varies. Best deals often come through direct broker relationships rather than public listings.</li>
         </ul>
       </div>
@@ -28,7 +28,7 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
           <li><strong>Key platforms:</strong> Rightbiz.co.uk, BusinessesForSale.com, Daltons Business. BCMS and Altius for mid-market.</li>
           <li><strong>Regulation:</strong> No specific broker licensing but must comply with FCA rules if providing financial advice.</li>
           <li><strong>Accountant channel:</strong> Chartered accountants (ICAEW members) are a major deal sourcing channel. Many handle informal mandates.</li>
-          <li><strong>Fee structure:</strong> 2&ndash;5% for mid-market deals. Higher percentages (8&ndash;10%) for smaller transactions.</li>
+          <li><strong>Fee structure:</strong> 2-5% for mid-market deals. Higher percentages (8-10%) for smaller transactions.</li>
         </ul>
       </div>
 
@@ -81,8 +81,8 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
           <li>The US has the most developed broker ecosystem with abundant online listings; Europe relies more on accountants and chambers of commerce</li>
           <li>In Germany and France, Steuerberater/Expert-comptable and Chambers of Commerce are more important than traditional brokers</li>
           <li>Best deals in every market come through direct relationships (accountants, lawyers, industry contacts), not just online platforms</li>
-          <li>Broker regulation and licensing varies dramatically by country &mdash; verify credentials before engaging an intermediary</li>
-          <li>Build relationships with 10&ndash;20 local intermediaries in your target geography for consistent, quality deal flow</li>
+          <li>Broker regulation and licensing varies dramatically by country, verify credentials before engaging an intermediary</li>
+          <li>Build relationships with 10-20 local intermediaries in your target geography for consistent, quality deal flow</li>
         </ul>
       </div>
 
@@ -103,12 +103,12 @@ export default function BusinessBrokerEcosystemsByCountryArticle() {
 
       <h3 className={h3Class}>How do I find business brokers in Germany and France if there are fewer online platforms?</h3>
       <div className={bodyClass}>
-        <p>In Germany, the primary deal sourcing channels are Steuerberater (tax advisors), Wirtschaftsprüfer (auditors), the Sparkassen (savings bank) network, and the IHK (Chambers of Commerce) through their Nexxt-Change platform. DIHK reports that German Chambers of Commerce maintain succession databases matching thousands of buyers and sellers annually. In France, the CCI (Chambers of Commerce) operates the Transentreprise platform, and expert-comptable (accountants) serve as key intermediaries. BPI France&rsquo;s public investment bank also actively facilitates business transfers through financing and advisory programs. Building relationships with 10&ndash;20 local professional intermediaries in your target geography is essential for consistent deal flow in these markets.</p>
+        <p>In Germany, the primary deal sourcing channels are Steuerberater (tax advisors), Wirtschaftsprüfer (auditors), the Sparkassen (savings bank) network, and the IHK (Chambers of Commerce) through their Nexxt-Change platform. DIHK reports that German Chambers of Commerce maintain succession databases matching thousands of buyers and sellers annually. In France, the CCI (Chambers of Commerce) operates the Transentreprise platform, and expert-comptable (accountants) serve as key intermediaries. BPI France&rsquo;s public investment bank also actively facilitates business transfers through financing and advisory programs. Building relationships with 10-20 local professional intermediaries in your target geography is essential for consistent deal flow in these markets.</p>
       </div>
 
       <h3 className={h3Class}>What are typical business broker commission rates across different countries?</h3>
       <div className={bodyClass}>
-        <p>Broker commission structures vary significantly by country and deal size. In the US, smaller deals under $5M typically carry flat commissions of 8&ndash;12% of sale price, while larger deals use the Lehman Formula (5% of first $1M, 4% of second $1M, and so on). In the UK, mid-market deals carry commissions of 2&ndash;5%, with higher percentages (8&ndash;10%) for smaller transactions. In many European markets where accountants and chambers of commerce facilitate transactions, formal commission structures may not apply &mdash; advisors are compensated through ongoing professional service relationships instead. Always verify credentials and fee structures before engaging an intermediary, as broker regulation varies dramatically by jurisdiction.</p>
+        <p>Broker commission structures vary significantly by country and deal size. In the US, smaller deals under $5M typically carry flat commissions of 8-12% of sale price, while larger deals use the Lehman Formula (5% of first $1M, 4% of second $1M, and so on). In the UK, mid-market deals carry commissions of 2-5%, with higher percentages (8-10%) for smaller transactions. In many European markets where accountants and chambers of commerce facilitate transactions, formal commission structures may not apply, advisors are compensated through ongoing professional service relationships instead. Always verify credentials and fee structures before engaging an intermediary, as broker regulation varies dramatically by jurisdiction.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

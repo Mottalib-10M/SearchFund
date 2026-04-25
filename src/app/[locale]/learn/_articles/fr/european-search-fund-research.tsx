@@ -70,7 +70,7 @@ export default function EuropeanResearchFR() {
             Les search funds européens ont atteint des rendements agrégés
             globalement comparables au modèle américain, avec des TRI médians
             dans la fourchette de 30 à 40&nbsp;% pour les acquisitions
-            complétées &mdash; bien que le jeu de données reste plus petit et
+            complétées, bien que le jeu de données reste plus petit et
             moins mature.
           </li>
           <li>
@@ -235,8 +235,8 @@ export default function EuropeanResearchFR() {
           des search funds en Europe, apportant non seulement du capital mais
           aussi l&apos;expertise opérationnelle et les meilleures pratiques
           développées sur le marché américain. Parallèlement, des
-          investisseurs européens spécialisés émergent &mdash; family offices,
-          fonds dédiés et anciens searchers réinvestissant &mdash; créant un
+          investisseurs européens spécialisés émergent, family offices,
+          fonds dédiés et anciens searchers réinvestissant, créant un
           écosystème de financement plus profond. Pour comprendre les
           dynamiques de rendement, consultez notre article sur les{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
@@ -252,8 +252,8 @@ export default function EuropeanResearchFR() {
           France, en Allemagne, en Italie, dans les pays nordiques, aux
           Pays-Bas, en Suisse, et même en Europe centrale et orientale. Sur
           le plan sectoriel, les acquisitions reflètent les mêmes préférences
-          qu&apos;aux États-Unis &mdash; services B2B, services technologiques,
-          santé, industrie de niche &mdash; mais avec des adaptations locales
+          qu&apos;aux États-Unis, services B2B, services technologiques,
+          santé, industrie de niche, mais avec des adaptations locales
           liées aux spécificités économiques de chaque marché. Pour un
           panorama complet, consultez notre guide sur l&apos;
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
@@ -368,8 +368,8 @@ export default function EuropeanResearchFR() {
           comparées entre marchés européens et nord-américains.
         </p>
         <p>
-          La convergence entre les écoles de commerce européennes &mdash;
-          IESE, INSEAD, HEC, Vlerick, IMD, LBS, Bocconi &mdash; autour de
+          La convergence entre les écoles de commerce européennes , 
+          IESE, INSEAD, HEC, Vlerick, IMD, LBS, Bocconi, autour de
           la recherche et de l&apos;enseignement ETA crée un effet de réseau qui
           accélère la diffusion du modèle et la production de connaissances.
           Pour les praticiens francophones, cette dynamique académique est

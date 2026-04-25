@@ -21,9 +21,9 @@ export default function AcquiringPrintingBusinessArticle() {
           pricing dislocation that rewards searchers who take the time to
           understand what this industry actually looks like today. Modern
           printing and signage businesses have evolved into diversified visual
-          communications companies &mdash; spanning wide-format signage,
+          communications companies, spanning wide-format signage,
           packaging, promotional products, managed print services, and
-          e-commerce storefronts &mdash; with sticky B2B relationships and
+          e-commerce storefronts, with sticky B2B relationships and
           formidable equipment moats.
         </p>
 
@@ -31,11 +31,11 @@ export default function AcquiringPrintingBusinessArticle() {
         <p>
           The US commercial printing market accounts for roughly $80 billion
           in annual revenue, while the signage and graphics segment adds
-          another $15&ndash;$18 billion. Including adjacent verticals like
+          another $15-$18 billion. Including adjacent verticals like
           packaging, promotional products, and managed print services, the
           addressable market exceeds $120 billion. The top 50 printers
           control less than 20% of industry revenue, leaving thousands of
-          $2M&ndash;$20M EBITDA businesses owned by aging operators with no
+          $2M-$20M EBITDA businesses owned by aging operators with no
           succession plan. This fragmentation makes the sector attractive
           for search fund entrepreneurs seeking{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
@@ -51,17 +51,17 @@ export default function AcquiringPrintingBusinessArticle() {
           marketing collateral, direct mail, catalogs, and manuals. The best
           operators have transitioned to marketing services, offering
           data-driven variable printing, mailing, fulfillment, and design.
-          Margins are thin on commodity work (5&ndash;8% EBITDA) but expand
-          to 12&ndash;18% for printers that bundle value-added services.
+          Margins are thin on commodity work (5-8% EBITDA) but expand
+          to 12-18% for printers that bundle value-added services.
         </p>
 
         <h3 className={h3Class}>Wide-format and signage</h3>
         <p>
           Wide-format printers produce banners, vehicle wraps, wall graphics,
           trade-show displays, and architectural signage. This is one of the
-          fastest-growing segments, with margins of 15&ndash;25% EBITDA. The
+          fastest-growing segments, with margins of 15-25% EBITDA. The
           work is custom, time-sensitive, and often includes installation
-          services that create a local moat &mdash; trained crews,
+          services that create a local moat, trained crews,
           specialized vehicles, and permitting relationships are genuine
           barriers to entry.
         </p>
@@ -73,13 +73,13 @@ export default function AcquiringPrintingBusinessArticle() {
           drive demand for digital packaging and label production. Companies
           benefit from recurring revenue, higher switching costs
           (FDA-regulated label approvals, structural design files), and
-          premium valuations of 5&ndash;7x EBITDA.
+          premium valuations of 5-7x EBITDA.
         </p>
 
         <h3 className={h3Class}>Promotional products</h3>
         <p>
           Promotional products companies source and brand merchandise
-          &mdash; apparel, drinkware, pens, tech accessories &mdash; for
+         , apparel, drinkware, pens, tech accessories, for
           corporate clients in a $26 billion US market. These businesses are
           asset-light relative to commercial printers; margins depend on the
           mix of in-house versus outsourced decoration capabilities.
@@ -89,7 +89,7 @@ export default function AcquiringPrintingBusinessArticle() {
         <p>
           MPS providers manage a client&rsquo;s fleet of office printers and
           copiers under monthly contracts. Revenue is highly recurring
-          (3&ndash;5 year terms), margins are strong (18&ndash;28% EBITDA),
+          (3-5 year terms), margins are strong (18-28% EBITDA),
           and customer retention rates typically exceed 90%. MPS is a
           compelling diversification play for commercial printers seeking
           predictable recurring revenue.
@@ -106,15 +106,15 @@ export default function AcquiringPrintingBusinessArticle() {
           re-calibrating color profiles, rebuilding template libraries, and
           training new contacts. Retention rates at well-run printers
           typically exceed 85%, with many relationships spanning
-          10&ndash;20 years.
+          10-20 years.
         </p>
 
         <h3 className={h3Class}>Equipment moats</h3>
         <p>
-          A modern digital production press costs $500K&ndash;$3M. A
-          wide-format flatbed runs $300K&ndash;$1.2M. A packaging converting
+          A modern digital production press costs $500K-$3M. A
+          wide-format flatbed runs $300K-$1.2M. A packaging converting
           line can exceed $5M. These capital requirements create a natural
-          barrier to entry &mdash; a new competitor needs millions in
+          barrier to entry, a new competitor needs millions in
           equipment plus the technical expertise to operate it. For
           acquirers, existing assets represent a genuine competitive moat.
         </p>
@@ -147,18 +147,18 @@ export default function AcquiringPrintingBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Digital presses:</strong> HP Indigo, Xerox iGen, and
-            Ricoh Pro units have a useful life of 5&ndash;8 years and
-            15&ndash;30 million impressions. Replacement runs
-            $500K&ndash;$2M.
+            Ricoh Pro units have a useful life of 5-8 years and
+            15-30 million impressions. Replacement runs
+            $500K-$2M.
           </li>
           <li>
             <strong>Offset presses:</strong> Heidelberg, Komori, and
-            manroland presses last 20&ndash;30 years but require maintenance
-            budgets of 3&ndash;5% of replacement value annually.
+            manroland presses last 20-30 years but require maintenance
+            budgets of 3-5% of replacement value annually.
           </li>
           <li>
             <strong>Wide-format devices:</strong> Large-format inkjet
-            printers and cutters have 5&ndash;7 year replacement cycles.
+            printers and cutters have 5-7 year replacement cycles.
             Evaluate print-head condition and ink system records.
           </li>
           <li>
@@ -184,10 +184,10 @@ export default function AcquiringPrintingBusinessArticle() {
           Revenue per machine hour is the single most important operating
           metric. Calculate it for each major device by dividing attributable
           revenue by total operating hours. A well-utilized digital
-          production press should generate $300&ndash;$600 per hour; a
-          wide-format device should produce $150&ndash;$400 per hour. Low
+          production press should generate $300-$600 per hour; a
+          wide-format device should produce $150-$400 per hour. Low
           figures indicate pricing problems, excessive makeready time, or
-          underutilization &mdash; all post-acquisition improvement
+          underutilization, all post-acquisition improvement
           opportunities. Our{" "}
           <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">
             pricing optimization guide
@@ -228,33 +228,33 @@ export default function AcquiringPrintingBusinessArticle() {
 
         <h2 className={h2Class}>Valuation: what to expect</h2>
         <p>
-          Printing and signage businesses typically trade at 3&ndash;5x
+          Printing and signage businesses typically trade at 3-5x
           EBITDA. The range reflects business quality:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>3&ndash;3.5x EBITDA:</strong> Commodity commercial
+            <strong>3-3.5x EBITDA:</strong> Commodity commercial
             printers with aging offset equipment, high customer
             concentration, and declining revenue.
           </li>
           <li>
-            <strong>3.5&ndash;4.5x EBITDA:</strong> Diversified printers
+            <strong>3.5-4.5x EBITDA:</strong> Diversified printers
             with digital and offset capabilities, reasonable customer
             diversification, and stable revenue. The sweet spot for most
             search fund acquisitions.
           </li>
           <li>
-            <strong>4.5&ndash;5x+ EBITDA:</strong> Businesses with
+            <strong>4.5-5x+ EBITDA:</strong> Businesses with
             significant signage, packaging, or MPS revenue; strong recurring
             income; and demonstrated growth. Packaging or MPS operations may
-            command 5&ndash;7x.
+            command 5-7x.
           </li>
         </ul>
         <p>
           Adjust EBITDA for true maintenance capex. A business reporting
           $1.5M EBITDA but requiring $400K in annual equipment replacement
           has only $1.1M in maintenance-free cash flow. Scrutinize capex
-          trends over a 5&ndash;7 year window &mdash; many sellers defer
+          trends over a 5-7 year window, many sellers defer
           replacement to inflate EBITDA before a sale.
         </p>
 
@@ -271,8 +271,8 @@ export default function AcquiringPrintingBusinessArticle() {
         <h3 className={h3Class}>Managed print services expansion</h3>
         <p>
           Launching MPS converts one-time sales into recurring monthly
-          contracts with 18&ndash;28% margins. Existing commercial print
-          customers are natural MPS prospects &mdash; companies that trust
+          contracts with 18-28% margins. Existing commercial print
+          customers are natural MPS prospects, companies that trust
           you with marketing print are warm candidates for office print
           management. MPS also creates a &ldquo;land and expand&rdquo;
           dynamic opening doors to production print, signage, and
@@ -281,13 +281,13 @@ export default function AcquiringPrintingBusinessArticle() {
 
         <h3 className={h3Class}>Signage and wide-format upsell</h3>
         <p>
-          A $300K&ndash;$800K investment in a flatbed UV printer,
-          roll-to-roll device, and digital cutter unlocks 15&ndash;25%
-          EBITDA margins versus 8&ndash;12% for commercial print. Existing
+          A $300K-$800K investment in a flatbed UV printer,
+          roll-to-roll device, and digital cutter unlocks 15-25%
+          EBITDA margins versus 8-12% for commercial print. Existing
           customers purchasing marketing collateral need banners,
           trade-show graphics, and environmental graphics. Cross-selling
-          signage can generate $500K&ndash;$1.5M in incremental annual
-          revenue within 18&ndash;24 months.
+          signage can generate $500K-$1.5M in incremental annual
+          revenue within 18-24 months.
         </p>
 
         <h3 className={h3Class}>Packaging growth</h3>
@@ -295,8 +295,8 @@ export default function AcquiringPrintingBusinessArticle() {
           Digital packaging presses enable short-run, variable-data packaging
           that traditional converters cannot economically produce. The rise
           of direct-to-consumer brands and craft producers has created
-          strong demand. Entry requires $1M&ndash;$5M in capital but
-          commands premium pricing and 5&ndash;7x multiples at exit.
+          strong demand. Entry requires $1M-$5M in capital but
+          commands premium pricing and 5-7x multiples at exit.
         </p>
 
         <h3 className={h3Class}>E-commerce storefronts</h3>
@@ -304,8 +304,8 @@ export default function AcquiringPrintingBusinessArticle() {
           Web-to-print storefronts let clients order pre-approved materials
           through branded online portals, embedding the printer in the
           client&rsquo;s procurement workflow. Solutions from EFI
-          MarketDirect, PageFlex, or RedTie cost $15K&ndash;$50K and drive
-          20&ndash;40% higher revenue per customer versus non-storefront
+          MarketDirect, PageFlex, or RedTie cost $15K-$50K and drive
+          20-40% higher revenue per customer versus non-storefront
           accounts.
         </p>
 
@@ -318,9 +318,9 @@ export default function AcquiringPrintingBusinessArticle() {
           opportunity. Acquiring two or three regional printers enables
           production consolidation, elimination of duplicative overhead, and
           cross-selling across combined customer bases. A three-location
-          consolidation typically achieves 15&ndash;25% cost synergies, and
+          consolidation typically achieves 15-25% cost synergies, and
           the combined entity re-enters the market at a higher valuation
-          multiple &mdash; the classic &ldquo;multiple arbitrage&rdquo; play.
+          multiple, the classic &ldquo;multiple arbitrage&rdquo; play.
         </p>
 
         <h2 className={h2Class}>Technology and automation investments</h2>
@@ -328,7 +328,7 @@ export default function AcquiringPrintingBusinessArticle() {
           <li>
             <strong>Prepress automation:</strong> Enfocus Switch, Esko
             Automation Engine, or Tilia Labs reduce touch time per job by
-            50&ndash;70% and eliminate prepress errors.
+            50-70% and eliminate prepress errors.
           </li>
           <li>
             <strong>MIS/ERP systems:</strong> EFI Pace, Avanti Slingshot, or
@@ -338,7 +338,7 @@ export default function AcquiringPrintingBusinessArticle() {
           <li>
             <strong>Color management:</strong> Spectrophotometers, G7
             certification, and standardized profiles ensure consistent color
-            across devices &mdash; the top quality concern for brand clients.
+            across devices, the top quality concern for brand clients.
           </li>
           <li>
             <strong>Inline finishing:</strong> Connecting print and finishing
@@ -351,7 +351,7 @@ export default function AcquiringPrintingBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Secular volume decline:</strong> Offset volumes have
-            fallen 2&ndash;4% annually for over a decade. Target businesses
+            fallen 2-4% annually for over a decade. Target businesses
             already diversified into growth segments or plan to diversify
             post-acquisition.
           </li>
@@ -371,7 +371,7 @@ export default function AcquiringPrintingBusinessArticle() {
           </li>
           <li>
             <strong>Substrate price volatility:</strong> Paper prices can
-            swing 10&ndash;20% in a year. Implement material surcharge
+            swing 10-20% in a year. Implement material surcharge
             clauses and maintain strategic substrate inventory.
           </li>
           <li>
@@ -386,15 +386,15 @@ export default function AcquiringPrintingBusinessArticle() {
         <p>
           Acquiring a printing and signage business is a contrarian bet that
           rewards operators willing to look past negative headlines. The
-          combination of depressed valuations (3&ndash;5x EBITDA), genuine
+          combination of depressed valuations (3-5x EBITDA), genuine
           equipment moats, sticky B2B relationships, and multiple growth
-          vectors &mdash; signage, packaging, MPS, e-commerce storefronts,
-          and multi-location consolidation &mdash; creates a compelling
+          vectors, signage, packaging, MPS, e-commerce storefronts,
+          and multi-location consolidation, creates a compelling
           return profile. The keys to success are rigorous equipment
           diligence, a clear plan to diversify away from commodity
           commercial print, and the operational discipline to invest in
           technology, automation, and talent. For searchers who approach it
-          with discipline, print is far from dead &mdash; it&rsquo;s a
+          with discipline, print is far from dead, it&rsquo;s a
           $90B+ industry hiding in plain sight.
         </p>
 
@@ -404,15 +404,15 @@ export default function AcquiringPrintingBusinessArticle() {
         <p>
           The &ldquo;death of print&rdquo; narrative is vastly oversimplified.
           While traditional offset commercial print volumes have declined
-          2&ndash;4% annually, the broader visual communications market
-          &mdash; including wide-format signage, packaging, promotional
-          products, and managed print services &mdash; exceeds $120 billion
+          2-4% annually, the broader visual communications market
+          including wide-format signage, packaging, promotional
+          products, and managed print services, exceeds $120 billion
           in the US and continues to grow. The key is targeting businesses
           already diversified into growth segments or with clear
           post-acquisition diversification paths. A well-managed printing
           company generating 40%+ of revenue from signage, packaging, or
           MPS is a fundamentally different risk profile than one dependent
-          entirely on commodity offset work. Depressed valuations (3&ndash;5x
+          entirely on commodity offset work. Depressed valuations (3-5x
           EBITDA) actually create opportunity for disciplined acquirers.
         </p>
 
@@ -421,12 +421,12 @@ export default function AcquiringPrintingBusinessArticle() {
           Build a thorough asset register cataloging every major piece of
           equipment with manufacturer, model, year, impression or hour count,
           maintenance history, and estimated replacement cost. Digital presses
-          (HP Indigo, Xerox iGen) have a useful life of 5&ndash;8 years and
-          cost $500K&ndash;$2M to replace. Wide-format devices have 5&ndash;7
-          year cycles at $300K&ndash;$1.2M. Offset presses last 20&ndash;30
-          years but require 3&ndash;5% of replacement value annually in
+          (HP Indigo, Xerox iGen) have a useful life of 5-8 years and
+          cost $500K-$2M to replace. Wide-format devices have 5-7
+          year cycles at $300K-$1.2M. Offset presses last 20-30
+          years but require 3-5% of replacement value annually in
           maintenance. Critically, adjust EBITDA for true maintenance capex
-          &mdash; many sellers defer equipment replacement to inflate earnings
+          many sellers defer equipment replacement to inflate earnings
           before a sale. Our{" "}
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA guide</Link>{" "}
           covers these normalization techniques.
@@ -436,14 +436,14 @@ export default function AcquiringPrintingBusinessArticle() {
         <p>
           Managed print services involves managing a client&rsquo;s fleet of
           office printers and copiers under monthly contracts. Revenue is
-          highly recurring (3&ndash;5 year terms), EBITDA margins are strong
-          (18&ndash;28%), and customer retention rates typically exceed 90%.
+          highly recurring (3-5 year terms), EBITDA margins are strong
+          (18-28%), and customer retention rates typically exceed 90%.
           For commercial printers, MPS creates a &ldquo;land and expand&rdquo;
           dynamic: companies that trust you with office print management are
           warm candidates for production print, signage, and promotional
           budgets. Launching MPS converts one-time sales into monthly
           recurring contracts and transforms the revenue profile of a
-          traditional commercial printer &mdash; a powerful lever for
+          traditional commercial printer, a powerful lever for
           improving both margins and{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">exit multiples</Link>.
         </p>
@@ -451,13 +451,13 @@ export default function AcquiringPrintingBusinessArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <strong>IBISWorld</strong> &mdash; &ldquo;Printing Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+            <strong>IBISWorld</strong>, &ldquo;Printing Industry in the US, Market Research Report,&rdquo; 2024.
           </li>
           <li>
-            <strong>PRINTING United Alliance</strong> &mdash; &ldquo;State of the Industry Report &amp; Economic Outlook,&rdquo; 2024.
+            <strong>PRINTING United Alliance</strong>: &ldquo;State of the Industry Report &amp; Economic Outlook,&rdquo; 2024.
           </li>
           <li>
-            <strong>Smithers</strong> &mdash; &ldquo;The Future of Global Printing to 2028 &mdash; Market Forecasts,&rdquo; 2024.
+            <strong>Smithers</strong>, &ldquo;The Future of Global Printing to 2028, Market Forecasts,&rdquo; 2024.
           </li>
         </ul>
       </div>

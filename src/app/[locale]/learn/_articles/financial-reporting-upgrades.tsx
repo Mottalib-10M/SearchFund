@@ -6,14 +6,14 @@ export default function FinancialReportingUpgradesArticle() {
     <article>
       <h1 className={h1Class}>Financial Reporting Upgrades: From QuickBooks to Controller-Ready</h1>
       <div className={bodyClass}>
-        <p>Most search fund acquisitions come with bare-bones financial reporting: a basic QuickBooks file maintained by a part-time bookkeeper, no monthly close process, no departmental P&amp;L, and financial statements that arrive weeks late. Upgrading financial reporting is one of the first and most important operational improvements you&apos;ll make &mdash; it gives you the visibility to make informed decisions and the reporting your board and investors expect.</p>
+        <p>Most search fund acquisitions come with bare-bones financial reporting: a basic QuickBooks file maintained by a part-time bookkeeper, no monthly close process, no departmental P&amp;L, and financial statements that arrive weeks late. Upgrading financial reporting is one of the first and most important operational improvements you&apos;ll make, it gives you the visibility to make informed decisions and the reporting your board and investors expect.</p>
       </div>
 
       <h2 className={h2Class}>Typical State of Acquired Company Financials</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>QuickBooks or Xero with a messy chart of accounts</li>
-          <li>No monthly close process &mdash; financial statements produced quarterly or only at tax time</li>
+          <li>No monthly close process, financial statements produced quarterly or only at tax time</li>
           <li>Heavily intermingled personal and business expenses</li>
           <li>No budget or variance analysis</li>
           <li>Cash-basis accounting (not accrual)</li>
@@ -59,7 +59,7 @@ export default function FinancialReportingUpgradesArticle() {
           <li>Build an annual budget bottom-up by department</li>
           <li>Implement monthly budget-vs-actual variance analysis</li>
           <li>Create a 13-week cash flow forecast</li>
-          <li>Set up a <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link> with 5&ndash;10 key metrics</li>
+          <li>Set up a <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link> with 5-10 key metrics</li>
         </ol>
       </div>
 
@@ -75,11 +75,11 @@ export default function FinancialReportingUpgradesArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Most acquired businesses have minimal financial reporting &mdash; upgrading is a top priority</li>
+          <li>Most acquired businesses have minimal financial reporting, upgrading is a top priority</li>
           <li>Target a monthly close within 15 business days, accrual basis, with budget variance analysis</li>
           <li>Clean up the foundation first (chart of accounts, bank recs, accrual conversion) before adding analysis</li>
-          <li>Hire a controller or fractional CFO to lead the upgrade &mdash; this is hard to do alone</li>
-          <li>Don&apos;t change the accounting software in the first 6 months &mdash; stabilize on what exists first</li>
+          <li>Hire a controller or fractional CFO to lead the upgrade, this is hard to do alone</li>
+          <li>Don&apos;t change the accounting software in the first 6 months, stabilize on what exists first</li>
         </ul>
       </div>
 
@@ -95,17 +95,17 @@ export default function FinancialReportingUpgradesArticle() {
 
       <h3 className={h3Class}>How long does it take to implement a proper monthly close process in an acquired SME?</h3>
       <p className={bodyClass}>
-        Most search fund companies can establish a basic monthly close process within 60&ndash;90 days of acquisition, with full maturity reached in 4&ndash;6 months. The AICPA recommends targeting a &ldquo;day 15&rdquo; close initially (financial statements within 15 business days of month-end), then gradually improving to day 10. The biggest bottleneck is typically cleaning up the chart of accounts and converting from cash to accrual basis, which requires reconciling historical entries. Stanford GSB&rsquo;s research on search fund financial infrastructure found that companies with a formal monthly close process within 90 days of acquisition reported 35% better board satisfaction scores and faster identification of operational issues.
+        Most search fund companies can establish a basic monthly close process within 60-90 days of acquisition, with full maturity reached in 4-6 months. The AICPA recommends targeting a &ldquo;day 15&rdquo; close initially (financial statements within 15 business days of month-end), then gradually improving to day 10. The biggest bottleneck is typically cleaning up the chart of accounts and converting from cash to accrual basis, which requires reconciling historical entries. Stanford GSB&rsquo;s research on search fund financial infrastructure found that companies with a formal monthly close process within 90 days of acquisition reported 35% better board satisfaction scores and faster identification of operational issues.
       </p>
 
       <h3 className={h3Class}>Should I hire a full-time controller or use a fractional CFO after acquiring a small business?</h3>
       <p className={bodyClass}>
-        For businesses under $10M in revenue, a fractional CFO (typically $3K&ndash;$8K per month for 1&ndash;2 days per week) is often the most cost-effective starting point. This provides senior financial leadership without the $120K&ndash;$180K annual cost of a full-time CFO. As the business scales past $10M in revenue, hire a full-time controller ($80K&ndash;$120K) to manage day-to-day accounting while retaining the fractional CFO for strategic guidance. According to SHRM compensation data, search fund companies that hire a controller as their first executive position report it as the highest-ROI hire, typically paying for itself within 6 months through improved cash management and financial visibility.
+        For businesses under $10M in revenue, a fractional CFO (typically $3K-$8K per month for 1-2 days per week) is often the most cost-effective starting point. This provides senior financial leadership without the $120K-$180K annual cost of a full-time CFO. As the business scales past $10M in revenue, hire a full-time controller ($80K-$120K) to manage day-to-day accounting while retaining the fractional CFO for strategic guidance. According to SHRM compensation data, search fund companies that hire a controller as their first executive position report it as the highest-ROI hire, typically paying for itself within 6 months through improved cash management and financial visibility.
       </p>
 
       <h3 className={h3Class}>When should an acquired business upgrade from QuickBooks to a mid-market ERP like NetSuite?</h3>
       <p className={bodyClass}>
-        The general rule is to stabilize operations on the existing accounting system for at least 6&ndash;12 months before considering an ERP migration. Consider upgrading when revenue exceeds $10M, you have multi-location operations requiring consolidated reporting, or complex inventory management demands exceed QuickBooks&rsquo; capabilities. ERP implementations typically cost $50K&ndash;$200K and take 3&ndash;6 months for mid-market solutions like NetSuite or Sage Intacct. QuickBooks Online Advanced handles most reporting needs for sub-$10M businesses at a fraction of the cost. The AICPA advises that premature ERP migration is one of the most common and costly technology mistakes new owners make.
+        The general rule is to stabilize operations on the existing accounting system for at least 6-12 months before considering an ERP migration. Consider upgrading when revenue exceeds $10M, you have multi-location operations requiring consolidated reporting, or complex inventory management demands exceed QuickBooks&rsquo; capabilities. ERP implementations typically cost $50K-$200K and take 3-6 months for mid-market solutions like NetSuite or Sage Intacct. QuickBooks Online Advanced handles most reporting needs for sub-$10M businesses at a fraction of the cost. The AICPA advises that premature ERP migration is one of the most common and costly technology mistakes new owners make.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

@@ -21,7 +21,7 @@ export default function AcquiringPestControlBusinessArticle() {
           the National Pest Management Association (NPMA), over 23,000 pest
           control companies operate in the United States, with a total
           addressable market exceeding $23 billion. There is no shortage
-          of acquisition targets &mdash; and no shortage of opportunity to build
+          of acquisition targets, and no shortage of opportunity to build
           a platform that generates exceptional returns.
         </p>
 
@@ -30,16 +30,16 @@ export default function AcquiringPestControlBusinessArticle() {
           The pest control industry combines several characteristics that make it
           an ideal ETA target. Understanding these structural advantages helps
           explain why private equity firms and strategic acquirers like Rollins
-          (Orkin) &mdash; which has completed over 200 tuck-in acquisitions
-          according to its annual reports &mdash; and Rentokil have spent
-          decades rolling up the sector &mdash;
+          (Orkin), which has completed over 200 tuck-in acquisitions
+          according to its annual reports, and Rentokil have spent
+          decades rolling up the sector , 
           and why the opportunity remains wide open for search fund entrepreneurs.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Exceptional recurring revenue:</strong> Unlike most home
             services trades where revenue is primarily transactional, pest
-            control businesses routinely generate 70&ndash;80% of revenue from
+            control businesses routinely generate 70-80% of revenue from
             monthly or quarterly service plans. Customers sign up for ongoing
             protection against ants, roaches, spiders, rodents, and termites,
             creating a predictable, subscription-like revenue stream that is
@@ -49,8 +49,8 @@ export default function AcquiringPestControlBusinessArticle() {
             <strong>Licensing moats:</strong> Every state requires pest control
             operators to hold specific licenses, and individual technicians must
             obtain pesticide applicator certifications. These licensing
-            requirements &mdash; which often involve exams, continuing education,
-            and insurance minimums &mdash; create real barriers to entry that
+            requirements, which often involve exams, continuing education,
+            and insurance minimums, create real barriers to entry that
             protect incumbents from fly-by-night competitors.
           </li>
           <li>
@@ -58,7 +58,7 @@ export default function AcquiringPestControlBusinessArticle() {
             discretionary problems. A homeowner with termites in the joists or
             roaches in the kitchen will call an exterminator regardless of GDP
             growth, interest rates, or stock market performance. The industry
-            grew through the 2008&ndash;2009 recession and through the COVID-19
+            grew through the 2008-2009 recession and through the COVID-19
             pandemic, demonstrating remarkable demand stability.
           </li>
           <li>
@@ -66,7 +66,7 @@ export default function AcquiringPestControlBusinessArticle() {
             in the US, the industry remains extraordinarily fragmented despite
             decades of consolidation by the largest players. The vast majority of
             pest control companies are small, owner-operated businesses doing
-            $500K&ndash;$5M in annual revenue. This fragmentation creates an
+            $500K-$5M in annual revenue. This fragmentation creates an
             enormous acquisition pipeline for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>.
           </li>
@@ -76,7 +76,7 @@ export default function AcquiringPestControlBusinessArticle() {
             multi-billion-dollar platforms through decades of disciplined
             tuck-in acquisitions. Their success validates the consolidation
             playbook and demonstrates that scale creates durable competitive
-            advantages in pest control &mdash; including purchasing power,
+            advantages in pest control: including purchasing power,
             brand recognition, and route density.
           </li>
           <li>
@@ -101,7 +101,7 @@ export default function AcquiringPestControlBusinessArticle() {
           <li>
             <strong>General pest control:</strong> The bread-and-butter of the
             industry. General pest operators treat homes and businesses for
-            common pests &mdash; ants, cockroaches, spiders, mice, and rats.
+            common pests, ants, cockroaches, spiders, mice, and rats.
             Service is typically delivered on monthly or quarterly schedules, and
             the work requires basic pesticide applicator licensing. This is the
             highest-volume, most recurring segment.
@@ -162,7 +162,7 @@ export default function AcquiringPestControlBusinessArticle() {
             all required state and local pest control operator licenses. Confirm
             that the licenses are transferable or can be reissued to a new owner.
             In some states, the business license is tied to a qualifying
-            individual &mdash; if that person is the departing owner, you will
+            individual, if that person is the departing owner, you will
             need a plan to re-qualify.
           </li>
           <li>
@@ -187,7 +187,7 @@ export default function AcquiringPestControlBusinessArticle() {
           <li>
             <strong>Recurring revenue percentage:</strong> Calculate the exact
             percentage of revenue from recurring service plans versus one-time
-            treatments. Best-in-class operators achieve 70&ndash;80% recurring.
+            treatments. Best-in-class operators achieve 70-80% recurring.
             Anything above 60% is strong. Below 50% suggests the business is
             overly reliant on one-time work and may require significant effort
             to build a subscription base.
@@ -245,7 +245,7 @@ export default function AcquiringPestControlBusinessArticle() {
           <li>
             <strong>Pollution liability insurance:</strong> This is a
             pest-control-specific requirement that covers claims arising from
-            chemical application &mdash; drift, contamination, or improper
+            chemical application, drift, contamination, or improper
             treatment. Not all general liability policies cover pollution
             events, so a separate pollution liability policy is essential.
             Review the claims history carefully.
@@ -292,7 +292,7 @@ export default function AcquiringPestControlBusinessArticle() {
 
         <h2 className={h2Class}>Valuation</h2>
         <p>
-          Pest control businesses typically trade at 3&ndash;6x EBITDA, with
+          Pest control businesses typically trade at 3-6x EBITDA, with
           the specific multiple driven primarily by the quality and
           predictability of the revenue base. Key factors that influence
           valuation include:
@@ -301,15 +301,15 @@ export default function AcquiringPestControlBusinessArticle() {
           <li>
             <strong>Recurring revenue premium:</strong> Businesses with 70%+
             recurring revenue from service plans command valuations at the
-            higher end of the range (5&ndash;6x or above). The subscription-like
-            revenue is valued similarly to SaaS recurring revenue &mdash;
+            higher end of the range (5-6x or above). The subscription-like
+            revenue is valued similarly to SaaS recurring revenue , 
             predictable, high-margin, and durable.
           </li>
           <li>
             <strong>Owner-dependency discount:</strong> If the owner runs
             routes, manages all customer relationships, or is the sole licensed
             operator, the business is heavily dependent on a person who is
-            leaving. Expect a discount of 0.5&ndash;1.5x EBITDA relative to a
+            leaving. Expect a discount of 0.5-1.5x EBITDA relative to a
             business with a strong management team in place.
           </li>
           <li>
@@ -326,7 +326,7 @@ export default function AcquiringPestControlBusinessArticle() {
             <strong>SBA compatibility:</strong> Many pest control acquisitions
             are financed with{" "}
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) loans</Link>,
-            which allow buyers to acquire businesses with as little as 10&ndash;15%
+            which allow buyers to acquire businesses with as little as 10-15%
             equity down. SBA financing expands the buyer pool and supports
             valuations, but SBA lenders will scrutinize DSCR (debt service
             coverage ratio) and may cap multiples at levels they deem
@@ -350,14 +350,14 @@ export default function AcquiringPestControlBusinessArticle() {
           technicians to present service plans at the end of every initial
           treatment, and offer incentives (bonuses or commissions) for plan
           sign-ups. A well-executed conversion program can increase recurring
-          revenue from 50% to 70%+ within 12&ndash;18 months.
+          revenue from 50% to 70%+ within 12-18 months.
         </p>
 
         <h3 className={h3Class}>Raise prices strategically</h3>
         <p>
           Many small pest control operators have not raised prices in years,
           either out of fear of losing customers or simple inertia. A
-          10&ndash;20% price increase on existing service plans is often
+          10-20% price increase on existing service plans is often
           possible with minimal customer attrition, particularly if paired with
           service improvements (faster response times, better communication,
           digital service reports). For guidance on executing price increases
@@ -393,7 +393,7 @@ export default function AcquiringPestControlBusinessArticle() {
           </li>
           <li>
             <strong>Bed bug treatment:</strong> High-ticket service
-            ($1,000&ndash;$3,000 per treatment) that commands premium pricing
+            ($1,000-$3,000 per treatment) that commands premium pricing
             due to the urgency and emotional distress of infestations.
           </li>
           <li>
@@ -409,9 +409,9 @@ export default function AcquiringPestControlBusinessArticle() {
           Pest control is a &ldquo;near me&rdquo; business. When a homeowner
           discovers ants in the kitchen or a rat in the garage, they search
           &ldquo;pest control near me&rdquo; on their phone. Winning the local
-          SEO game &mdash; Google Business Profile optimization, review
+          SEO game, Google Business Profile optimization, review
           generation, local service ads, and a fast, mobile-friendly website
-          &mdash; is essential for organic customer acquisition. Many acquired
+          is essential for organic customer acquisition. Many acquired
           businesses will have underinvested in digital marketing, creating
           immediate upside from targeted investment.
         </p>
@@ -424,7 +424,7 @@ export default function AcquiringPestControlBusinessArticle() {
           dispatching, CRM, invoicing, chemical usage tracking, and regulatory
           reporting into a single platform. If the acquired business runs on
           paper, spreadsheets, or an outdated system, implementing a modern FSM
-          platform can improve technician productivity by 15&ndash;25% through
+          platform can improve technician productivity by 15-25% through
           optimized routing alone, while enabling automated customer
           communications, online payments, and data-driven decision-making.
         </p>
@@ -448,13 +448,13 @@ export default function AcquiringPestControlBusinessArticle() {
         <p>
           Once the platform is running well, pest control is one of the best
           sectors for tuck-in acquisitions. Acquire smaller operators in
-          adjacent markets at 2&ndash;4x EBITDA, integrate their customer base
+          adjacent markets at 2-4x EBITDA, integrate their customer base
           onto your systems and routes, eliminate duplicate overhead, and
           improve margins through route density gains and purchasing power.
           The math is compelling: acquire a $300K EBITDA operator at 3x ($900K),
-          integrate it onto your platform, eliminate $75K&ndash;$100K in
+          integrate it onto your platform, eliminate $75K-$100K in
           duplicate overhead, and the effective acquisition multiple drops to
-          2.0&ndash;2.5x. Repeat this across multiple markets and the
+          2.0-2.5x. Repeat this across multiple markets and the
           aggregate platform commands a premium exit multiple that far exceeds
           the cost of assembly.
         </p>
@@ -470,7 +470,7 @@ export default function AcquiringPestControlBusinessArticle() {
           acquire a well-run general pest and termite business at a reasonable
           multiple, convert one-time customers to recurring plans, raise prices,
           add service lines, invest in digital marketing and technology, and
-          &mdash; when ready &mdash; scale through disciplined tuck-in
+         , when ready, scale through disciplined tuck-in
           acquisitions. The operators who execute this playbook consistently
           build platforms that generate strong free cash flow throughout the
           hold period and command premium exit multiples when it&rsquo;s time
@@ -483,10 +483,10 @@ export default function AcquiringPestControlBusinessArticle() {
           How much is a pest control business worth?
         </h3>
         <p>
-          Most pest control businesses trade at 3&ndash;6x EBITDA, with the
+          Most pest control businesses trade at 3-6x EBITDA, with the
           specific multiple driven primarily by recurring revenue quality.
           Companies with 70%+ recurring revenue from service plans command
-          5&ndash;6x or higher. Revenue-based pricing of 1&ndash;2x annual
+          5-6x or higher. Revenue-based pricing of 1-2x annual
           recurring revenue is also common for smaller operators. Key premium
           factors include strong route density, diversified service offerings
           (general pest plus termite), low customer concentration, and a
@@ -497,12 +497,12 @@ export default function AcquiringPestControlBusinessArticle() {
           What makes pest control a good acquisition target?
         </h3>
         <p>
-          Pest control checks every box on the ETA criteria list: 70&ndash;85%
+          Pest control checks every box on the ETA criteria list: 70-85%
           recurring revenue from monthly and quarterly service plans, licensing
           requirements that create genuine barriers to entry, recession-resistant
           demand (pests ignore economic cycles), route-density economics that
           create local competitive moats, and a massively fragmented market
-          with over 23,000 operators. Operating margins of 15&ndash;25% are
+          with over 23,000 operators. Operating margins of 15-25% are
           typical for well-run companies, and the{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build playbook
@@ -515,13 +515,13 @@ export default function AcquiringPestControlBusinessArticle() {
         </h3>
         <p>
           Train technicians to present service plans at the end of every
-          initial treatment &mdash; this is the single highest-conversion
+          initial treatment, this is the single highest-conversion
           moment because the customer has just experienced a pest problem
           and wants ongoing protection. Offer incentives (bonuses or
           commissions) for plan sign-ups, and create tiered plan options
           (basic, premium, ultimate) so customers can choose their
           coverage level. A well-executed conversion program can increase
-          recurring revenue from 50% to 70%+ within 12&ndash;18 months.
+          recurring revenue from 50% to 70%+ within 12-18 months.
           For guidance on implementing price increases alongside plan
           conversions, see our{" "}
           <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">

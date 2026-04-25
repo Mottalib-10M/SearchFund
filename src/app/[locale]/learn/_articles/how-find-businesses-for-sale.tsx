@@ -27,9 +27,9 @@ export default function HowFindBusinessesForSaleArticle() {
           Businesses for sale come through three primary channels:
         </p>
         <ul className={ulClass}>
-          <li><strong>Brokered deals (50&ndash;70% of market):</strong> Listed through business brokers and M&amp;A intermediaries</li>
-          <li><strong>Proprietary/off-market (20&ndash;35%):</strong> Found through direct outreach, referrals, and networking</li>
-          <li><strong>Online marketplaces (10&ndash;20%):</strong> Listed on platforms like BizBuySell, Axial, or Acquire.com</li>
+          <li><strong>Brokered deals (50-70% of market):</strong> Listed through business brokers and M&amp;A intermediaries</li>
+          <li><strong>Proprietary/off-market (20-35%):</strong> Found through direct outreach, referrals, and networking</li>
+          <li><strong>Online marketplaces (10-20%):</strong> Listed on platforms like BizBuySell, Axial, or Acquire.com</li>
         </ul>
 
         <h2 className={h2Class}>Channel 1: Business brokers &amp; M&amp;A intermediaries</h2>
@@ -42,14 +42,14 @@ export default function HowFindBusinessesForSaleArticle() {
         <h3 className={h3Class}>Types of intermediaries</h3>
         <ul className={ulClass}>
           <li><strong>Main Street brokers:</strong> Handle businesses with &lt;$1M revenue. Sunbelt, Transworld, Murphy Business</li>
-          <li><strong>Lower mid-market advisors:</strong> $1M&ndash;$10M EBITDA businesses. Regional M&amp;A firms, boutiques</li>
+          <li><strong>Lower mid-market advisors:</strong> $1M-$10M EBITDA businesses. Regional M&amp;A firms, boutiques</li>
           <li><strong>Investment banks:</strong> $10M+ EBITDA. Generalist and sector-focused (Harris Williams, Lincoln International)</li>
         </ul>
 
         <h3 className={h3Class}>How to work with brokers effectively</h3>
         <ul className={ulClass}>
-          <li><strong>Register with 10&ndash;20 brokers</strong> in your target geography and industry</li>
-          <li><strong>Be specific about your criteria:</strong> Industry, geography, revenue range, EBITDA floor. Brokers receive dozens of inquiries &mdash; a clear profile helps them remember you</li>
+          <li><strong>Register with 10-20 brokers</strong> in your target geography and industry</li>
+          <li><strong>Be specific about your criteria:</strong> Industry, geography, revenue range, EBITDA floor. Brokers receive dozens of inquiries, a clear profile helps them remember you</li>
           <li><strong>Respond quickly:</strong> The best deals go fast. Aim to respond to new opportunities within 24 hours</li>
           <li><strong>Build personal relationships:</strong> Take brokers to lunch, attend local business events, follow up regularly</li>
           <li><strong>Prove you&rsquo;re a serious buyer:</strong> Show proof of funds, financing pre-approval, and professional advisory team</li>
@@ -71,7 +71,7 @@ export default function HowFindBusinessesForSaleArticle() {
           <li><strong>Axial:</strong> Curated platform connecting buyers with lower mid-market M&amp;A advisors. Requires verification</li>
           <li><strong>DealNexus:</strong> Global M&amp;A deal matching platform</li>
           <li><strong>Acquire.com:</strong> Technology/SaaS business marketplace</li>
-          <li><strong>MicroAcquire:</strong> Rebranded to Acquire.com &mdash; focus on startups and micro-SaaS</li>
+          <li><strong>MicroAcquire:</strong> Rebranded to Acquire.com, focus on startups and micro-SaaS</li>
           <li><strong>Empire Flippers:</strong> Online businesses (e-commerce, content sites, SaaS)</li>
           <li><strong>FE International:</strong> Premium SaaS and e-commerce brokerage</li>
         </ul>
@@ -96,8 +96,8 @@ export default function HowFindBusinessesForSaleArticle() {
         <ul className={ulClass}>
           <li>Purchase targeted business owner lists (by industry, geography, revenue, owner age)</li>
           <li>Send personalized letters introducing yourself as a potential buyer</li>
-          <li>Expect 1&ndash;3% response rate on well-crafted campaigns</li>
-          <li>Follow up with phone calls 1&ndash;2 weeks after mailing</li>
+          <li>Expect 1-3% response rate on well-crafted campaigns</li>
+          <li>Follow up with phone calls 1-2 weeks after mailing</li>
           <li>Track metrics: letters sent → responses → meetings → LOIs</li>
         </ul>
 
@@ -105,8 +105,8 @@ export default function HowFindBusinessesForSaleArticle() {
         <ul className={ulClass}>
           <li>Build lists using industry databases, trade association directories, and LinkedIn</li>
           <li>Keep the pitch brief: who you are, what you&rsquo;re looking for, why you&rsquo;re reaching out</li>
-          <li>Aim for 20&ndash;30 calls per day during active sourcing</li>
-          <li>Many owners will say &ldquo;not interested&rdquo; today but may reconsider in 6&ndash;12 months &mdash; maintain a follow-up cadence</li>
+          <li>Aim for 20-30 calls per day during active sourcing</li>
+          <li>Many owners will say &ldquo;not interested&rdquo; today but may reconsider in 6-12 months, maintain a follow-up cadence</li>
         </ul>
 
         <h3 className={h3Class}>LinkedIn outreach</h3>
@@ -129,7 +129,7 @@ export default function HowFindBusinessesForSaleArticle() {
           <li><strong>Industry consultants:</strong> Sector specialists who advise multiple businesses</li>
         </ul>
         <p>
-          Building these relationships takes time (3&ndash;12 months) but
+          Building these relationships takes time (3-12 months) but
           yields the highest quality and most exclusive deal flow.
         </p>
 
@@ -152,22 +152,22 @@ export default function HowFindBusinessesForSaleArticle() {
 
         <h2 className={h2Class}>Building a multi-channel strategy</h2>
         <p>
-          The most successful searchers use 3&ndash;4 channels
+          The most successful searchers use 3-4 channels
           simultaneously:
         </p>
         <ul className={ulClass}>
           <li><strong>Foundation:</strong> Register with brokers + set up marketplace alerts (day 1)</li>
-          <li><strong>Month 1&ndash;3:</strong> Build professional referral network, attend industry events</li>
-          <li><strong>Month 2&ndash;6:</strong> Launch direct outreach campaigns (mail + LinkedIn)</li>
+          <li><strong>Month 1-3:</strong> Build professional referral network, attend industry events</li>
+          <li><strong>Month 2-6:</strong> Launch direct outreach campaigns (mail + LinkedIn)</li>
           <li><strong>Ongoing:</strong> Maintain all channels, track metrics, adjust allocation based on results</li>
         </ul>
 
         <h2 className={h2Class}>How many deals should you see?</h2>
         <ul className={ulClass}>
-          <li><strong>Opportunities reviewed:</strong> 100&ndash;300</li>
-          <li><strong>NDAs signed:</strong> 30&ndash;80</li>
-          <li><strong>Deep analysis:</strong> 10&ndash;20</li>
-          <li><strong>LOIs submitted:</strong> 2&ndash;5</li>
+          <li><strong>Opportunities reviewed:</strong> 100-300</li>
+          <li><strong>NDAs signed:</strong> 30-80</li>
+          <li><strong>Deep analysis:</strong> 10-20</li>
+          <li><strong>LOIs submitted:</strong> 2-5</li>
           <li><strong>Deals closed:</strong> 1</li>
         </ul>
         <p>

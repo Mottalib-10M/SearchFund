@@ -16,8 +16,8 @@ export default function BDCCanadaArticle() {
         <ul className={ulClass}>
           <li><strong>Loan amount:</strong> CAD 100,000 to CAD 10 million+</li>
           <li><strong>Term:</strong> Up to 15 years for business acquisitions</li>
-          <li><strong>Interest rate:</strong> Floating or fixed, typically BDC prime + 1&ndash;4%</li>
-          <li><strong>Down payment:</strong> Typically requires 10&ndash;20% buyer equity</li>
+          <li><strong>Interest rate:</strong> Floating or fixed, typically BDC prime + 1-4%</li>
+          <li><strong>Down payment:</strong> Typically requires 10-20% buyer equity</li>
           <li><strong>Grace period:</strong> Up to 12 months for principal payments</li>
           <li><strong>Flexible repayment:</strong> Seasonal payment schedules available for cyclical businesses</li>
           <li><strong>Subordinated to banks:</strong> BDC often takes a subordinated position, allowing commercial bank senior debt alongside</li>
@@ -58,9 +58,9 @@ export default function BDCCanadaArticle() {
           <li><strong>Alberta Enterprise Corporation:</strong> Growth capital for Alberta-based technology and innovation businesses</li>
           <li><strong>BC Renaissance Capital Fund:</strong> For British Columbia acquisitions in technology and clean tech sectors</li>
           <li><strong>Community Futures Development Corporations:</strong> 267 CFDCs across rural Canada providing small business loans up to CAD 150,000 for acquisitions</li>
-          <li><strong>Futurpreneur Canada:</strong> Loans up to CAD 60,000 with mentoring for entrepreneurs 18&ndash;39</li>
+          <li><strong>Futurpreneur Canada:</strong> Loans up to CAD 60,000 with mentoring for entrepreneurs 18-39</li>
         </ul>
-        <p>Provincial programs are especially important in Quebec, where Investissement Qu&eacute;bec&apos;s thorough financing suite &mdash; including subordinated debt, equity co-investment, and loan guarantees &mdash; makes the province one of the most accessible markets in Canada for acquisition financing. The <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back financing</Link> culture is also stronger in Quebec, where sellers commonly provide 15&ndash;25% of the purchase price as a deferred note.</p>
+        <p>Provincial programs are especially important in Quebec, where Investissement Qu&eacute;bec&apos;s thorough financing suite, including subordinated debt, equity co-investment, and loan guarantees, makes the province one of the most accessible markets in Canada for acquisition financing. The <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back financing</Link> culture is also stronger in Quebec, where sellers commonly provide 15-25% of the purchase price as a deferred note.</p>
       </div>
 
       <h2 className={h2Class}>Canadian Commercial Banks for Acquisitions</h2>
@@ -79,18 +79,18 @@ export default function BDCCanadaArticle() {
       <div className={bodyClass}>
         <p>A typical CAD 3M Canadian acquisition might be structured as:</p>
         <ul className={ulClass}>
-          <li>Senior bank debt (CSBFP-backed): 35&ndash;45%</li>
-          <li>BDC subordinate financing: 15&ndash;25%</li>
-          <li>Vendor take-back: 15&ndash;20%</li>
-          <li>Buyer equity: 15&ndash;25%</li>
+          <li>Senior bank debt (CSBFP-backed): 35-45%</li>
+          <li>BDC subordinate financing: 15-25%</li>
+          <li>Vendor take-back: 15-20%</li>
+          <li>Buyer equity: 15-25%</li>
         </ul>
       </div>
 
       <h2 className={h2Class}>Canadian Tax Considerations</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Small Business Deduction:</strong> 9% federal rate on first CAD 500,000 of active business income (combined federal/provincial: 10&ndash;13.5%)</li>
-          <li><strong>General corporate rate:</strong> 15% federal + 8&ndash;16% provincial = 23&ndash;31% combined</li>
+          <li><strong>Small Business Deduction:</strong> 9% federal rate on first CAD 500,000 of active business income (combined federal/provincial: 10-13.5%)</li>
+          <li><strong>General corporate rate:</strong> 15% federal + 8-16% provincial = 23-31% combined</li>
           <li><strong>Lifetime Capital Gains Exemption (LCGE):</strong> CAD 1,016,836 (2024) tax-free capital gains on qualifying small business shares</li>
           <li><strong>Goodwill (eligible capital property):</strong> 75% deductible on declining balance basis at 5% per year</li>
           <li><strong>Interest deductibility:</strong> Acquisition debt interest generally deductible against business income</li>

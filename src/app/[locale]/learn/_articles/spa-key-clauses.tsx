@@ -12,8 +12,8 @@ export default function SPAKeyClausesArticle() {
       <div className={bodyClass}>
         <p>
           A Share Purchase Agreement (SPA) is the definitive contract that
-          transfers ownership of an entire business entity&mdash;every asset,
-          liability, contract, and employee&mdash;from seller to buyer. Unlike
+          transfers ownership of an entire business entity, every asset,
+          liability, contract, and employee, from seller to buyer. Unlike
           an{" "}
           <Link href="/learn/apa-guide" className="text-apple-accent hover:underline">
             Asset Purchase Agreement
@@ -32,7 +32,7 @@ export default function SPAKeyClausesArticle() {
         <p>
           Before diving into individual clauses, you need to understand what
           makes a share purchase fundamentally different from an asset
-          purchase&mdash;because the distinction shapes every provision in
+          purchase, because the distinction shapes every provision in
           the agreement.
         </p>
         <p>
@@ -40,8 +40,8 @@ export default function SPAKeyClausesArticle() {
           the seller&rsquo;s equity in the target company. The legal entity
           survives intact: permits, licences, customer contracts, bank
           accounts, and employee relationships all remain in place. The
-          trade-off is that you also inherit <em>all</em> liabilities&mdash;disclosed
-          and undisclosed&mdash;including pending litigation, tax arrears,
+          trade-off is that you also inherit <em>all</em> liabilities, disclosed
+          and undisclosed, including pending litigation, tax arrears,
           and environmental obligations. That is why SPAs tend to run 50 to
           120 pages and contain significantly more protective provisions
           than a typical APA.
@@ -68,7 +68,7 @@ export default function SPAKeyClausesArticle() {
           <li>The target holds non-assignable permits, government contracts,
             or professional licences that would terminate in an asset transfer.</li>
           <li>The seller is a C-Corp and insists on a stock sale to avoid
-            double taxation&mdash;though a{" "}
+            double taxation, though a{" "}
             <Link href="/learn/338h10-election" className="text-apple-accent hover:underline">
               338(h)(10) election
             </Link>{" "}
@@ -110,15 +110,15 @@ export default function SPAKeyClausesArticle() {
         <ul className={ulClass}>
           <li><strong>Cash at close:</strong> The majority of the purchase
             price delivered via wire transfer on the closing date.</li>
-          <li><strong>Seller note:</strong> A deferred portion (often 10&ndash;30%
+          <li><strong>Seller note:</strong> A deferred portion (often 10-30%
             of the price) with a fixed interest rate, repayment schedule,
             and subordination terms relative to senior debt.</li>
           <li><strong>Earn-out:</strong> Contingent payments tied to
-            post-closing financial targets&mdash;revenue, EBITDA, or
-            customer retention milestones&mdash;paid over one to three years.</li>
-          <li><strong>Escrow/holdback:</strong> Typically 10&ndash;20% of
+            post-closing financial targets, revenue, EBITDA, or
+            customer retention milestones, paid over one to three years.</li>
+          <li><strong>Escrow/holdback:</strong> Typically 10-20% of
             the purchase price deposited with a third-party escrow agent
-            for 12&ndash;24 months to satisfy potential indemnification claims
+            for 12-24 months to satisfy potential indemnification claims
             (JP Morgan 2025 Holdback Escrow Study).</li>
         </ul>
 
@@ -132,7 +132,7 @@ export default function SPAKeyClausesArticle() {
           of net current assets. The SPA sets a <strong>target peg</strong>{" "}
           (usually the trailing-12-month average of current assets minus
           current liabilities) and requires a <strong>true-up</strong>{" "}
-          within 60&ndash;90 days post-closing. If actual working capital
+          within 60-90 days post-closing. If actual working capital
           exceeds the peg, the buyer pays the surplus to the seller; if it
           falls short, the purchase price is reduced dollar for dollar.
         </p>
@@ -151,7 +151,7 @@ export default function SPAKeyClausesArticle() {
           statements of fact the seller makes about the business. If a
           representation later proves false, the buyer can seek
           indemnification. This section is typically the longest in the
-          SPA&mdash;often 15 to 25 pages&mdash;and the most heavily
+          SPA, often 15 to 25 pages, and the most heavily
           negotiated.
         </p>
 
@@ -194,7 +194,7 @@ export default function SPAKeyClausesArticle() {
           for absolute representations wherever possible. When knowledge
           qualifiers are unavoidable, define &ldquo;knowledge&rdquo; as
           what the seller <em>knew or should have known</em> after
-          reasonable inquiry&mdash;this is a meaningful upgrade over bare
+          reasonable inquiry, this is a meaningful upgrade over bare
           actual knowledge.
         </p>
 
@@ -205,16 +205,16 @@ export default function SPAKeyClausesArticle() {
           bring claims:
         </p>
         <ul className={ulClass}>
-          <li><strong>General representations:</strong> 12&ndash;24 months
+          <li><strong>General representations:</strong> 12-24 months
             post-closing (18 months is the most common market term
             according to the ABA Private Target Study).</li>
           <li><strong>Fundamental representations</strong> (authority,
-            capitalization, title to shares): 3&ndash;6 years or until
+            capitalization, title to shares): 3-6 years or until
             the applicable statute of limitations expires.</li>
           <li><strong>Tax representations:</strong> Typically survive until
-            60&ndash;90 days after the statute of limitations for the
+            60-90 days after the statute of limitations for the
             relevant tax period.</li>
-          <li><strong>Environmental representations:</strong> 3&ndash;5
+          <li><strong>Environmental representations:</strong> 3-5
             years, reflecting the delayed-discovery nature of contamination
             claims.</li>
           <li><strong>Fraud:</strong> No cap and no time limit in virtually
@@ -243,19 +243,19 @@ export default function SPAKeyClausesArticle() {
           kicks in. There are two common types:
         </p>
         <ul className={ulClass}>
-          <li><strong>True deductible (most common&mdash;approximately 70%
+          <li><strong>True deductible (most common, approximately 70%
             of deals):</strong> The buyer absorbs the first X dollars of
             losses and can only recover amounts <em>above</em> the
-            basket. Typical size: 0.5&ndash;1% of the purchase price.</li>
+            basket. Typical size: 0.5-1% of the purchase price.</li>
           <li><strong>Tipping basket (approximately 26% of deals):</strong>{" "}
             Once cumulative losses reach X dollars, the buyer recovers
-            from the first dollar&mdash;the basket &ldquo;tips&rdquo; and
+            from the first dollar, the basket &ldquo;tips&rdquo; and
             the seller is liable for the full amount.</li>
         </ul>
         <p>
           Some SPAs include a <strong>mini-basket</strong> (or &ldquo;de
           minimis&rdquo; threshold) that prevents nuisance claims below a
-          specified per-item amount (commonly $5&thinsp;K&ndash;$25&thinsp;K)
+          specified per-item amount (commonly $5&thinsp;K-$25&thinsp;K)
           from counting toward the basket.
         </p>
 
@@ -267,13 +267,13 @@ export default function SPAKeyClausesArticle() {
           10% of transaction value, but ranges are wide:
         </p>
         <ul className={ulClass}>
-          <li><strong>Lower-middle-market deals ($1&ndash;10&thinsp;M):</strong>{" "}
-            Caps of 20&ndash;50% are common because buyers have less room
+          <li><strong>Lower-middle-market deals ($1-10&thinsp;M):</strong>{" "}
+            Caps of 20-50% are common because buyers have less room
             to absorb loss.</li>
-          <li><strong>Mid-market deals ($10&ndash;100&thinsp;M):</strong>{" "}
-            Caps of 10&ndash;20% are standard.</li>
+          <li><strong>Mid-market deals ($10-100&thinsp;M):</strong>{" "}
+            Caps of 10-20% are standard.</li>
           <li><strong>Large-cap deals ($100&thinsp;M+):</strong> Caps of
-            5&ndash;15% are typical, often supplemented by representations
+            5-15% are typical, often supplemented by representations
             and warranties insurance (RWI).</li>
           <li><strong>Fundamental reps and fraud:</strong> Usually uncapped
             or capped at 100% of the purchase price.</li>
@@ -288,11 +288,11 @@ export default function SPAKeyClausesArticle() {
         <h3 className={h3Class}>Escrow Provisions</h3>
         <p>
           An <strong>escrow</strong> holds a portion of the purchase
-          price&mdash;typically 10&ndash;20%&mdash;in a third-party
+          price, typically 10-20%, in a third-party
           account to fund potential indemnification claims. According to
           JP Morgan&rsquo;s 2025 M&A Holdback Escrow Study, the median
-          escrow term is 15&ndash;18 months, with a partial release at 12
-          months and final release at 18&ndash;24 months.
+          escrow term is 15-18 months, with a partial release at 12
+          months and final release at 18-24 months.
         </p>
         <p>
           Key provisions to negotiate:
@@ -314,11 +314,11 @@ export default function SPAKeyClausesArticle() {
           For deals above roughly $25&thinsp;M, buyers increasingly
           purchase an <strong>RWI policy</strong> that sits on top of (or
           replaces) the seller&rsquo;s indemnification obligation. RWI
-          premiums have fallen to approximately 2&ndash;2.5% of the
-          policy limit in 2025 (down from 3.5&ndash;4% in 2022),
+          premiums have fallen to approximately 2-2.5% of the
+          policy limit in 2025 (down from 3.5-4% in 2022),
           according to CBIZ and Woodruff Sawyer market reports. Typical
-          deductibles range from 0.5&ndash;0.8% of enterprise value,
-          dropping to 0.3&ndash;0.5% twelve months after closing. RWI
+          deductibles range from 0.5-0.8% of enterprise value,
+          dropping to 0.3-0.5% twelve months after closing. RWI
           now appears in roughly 75% of private-equity transactions.
         </p>
 
@@ -327,7 +327,7 @@ export default function SPAKeyClausesArticle() {
         <p>
           A <strong>Material Adverse Change</strong> (also called Material
           Adverse Effect or MAE) clause allows the buyer to walk away from
-          the deal&mdash;without penalty&mdash;if the target business
+          the deal, without penalty, if the target business
           suffers a significant deterioration between signing and closing.
           MAC clauses appear in approximately 95% of M&A agreements and
           are among the most heavily negotiated provisions.
@@ -339,8 +339,8 @@ export default function SPAKeyClausesArticle() {
           &ldquo;durationally significant&rdquo; and substantially
           threaten the overall earnings potential of the business. In
           practice, most acquirers negotiate quantitative thresholds as
-          supplements&mdash;for example, a decline in trailing-twelve-month
-          EBITDA of more than 15&ndash;20% or the loss of a customer
+          supplements, for example, a decline in trailing-twelve-month
+          EBITDA of more than 15-20% or the loss of a customer
           representing more than 10% of revenue.
         </p>
 
@@ -369,9 +369,9 @@ export default function SPAKeyClausesArticle() {
         {/* ───────────── SECTION 6 ───────────── */}
         <h2 className={h2Class}>Closing Conditions and Pre-Closing Covenants</h2>
         <p>
-          The period between signing and closing&mdash;typically 30 to 90
+          The period between signing and closing, typically 30 to 90
           days, though regulatory complexity can push it past six
-          months&mdash;is governed by two interlocking mechanisms:{" "}
+          months, is governed by two interlocking mechanisms:{" "}
           <strong>conditions precedent</strong> (CPs) and{" "}
           <strong>pre-closing covenants</strong>.
         </p>
@@ -445,18 +445,18 @@ export default function SPAKeyClausesArticle() {
           <li><strong>Non-compete:</strong> Prohibits the seller from
             engaging in the same or substantially similar business within
             a defined geographic area for a specified period. The
-            enforceable range is typically 3&ndash;5 years and a
+            enforceable range is typically 3-5 years and a
             reasonable geography (state-wide, region-wide, or
             nationwide, depending on the business footprint and state
             law).</li>
           <li><strong>Non-solicitation of employees:</strong> Prevents
             the seller from recruiting or hiring former employees for
-            2&ndash;5 years. Some agreements also bar the seller from
+            2-5 years. Some agreements also bar the seller from
             inducing independent contractors to terminate their
             relationships.</li>
           <li><strong>Non-solicitation of customers:</strong> Blocks the
             seller from contacting, soliciting, or servicing the
-            target&rsquo;s customers for 2&ndash;5 years.</li>
+            target&rsquo;s customers for 2-5 years.</li>
         </ul>
         <p>
           <strong>Enforceability detail:</strong> Restrictive covenants
@@ -483,22 +483,22 @@ export default function SPAKeyClausesArticle() {
 
         <h3 className={h3Class}>Typical Timeline</h3>
         <ol className={olClass}>
-          <li><strong>LOI to first SPA draft:</strong> 2&ndash;4 weeks.
+          <li><strong>LOI to first SPA draft:</strong> 2-4 weeks.
             The buyer&rsquo;s attorney produces the initial draft while{" "}
             <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
               financial due diligence
             </Link>{" "}
             runs in parallel.</li>
-          <li><strong>Negotiation rounds:</strong> 3&ndash;6 weeks.
-            Expect 2&ndash;4 mark-up exchanges. The reps, indemnification,
+          <li><strong>Negotiation rounds:</strong> 3-6 weeks.
+            Expect 2-4 mark-up exchanges. The reps, indemnification,
             and working-capital sections consume the most time.</li>
-          <li><strong>Disclosure schedules:</strong> 1&ndash;3 weeks.
-            The seller compiles exceptions to each representation&mdash;this
+          <li><strong>Disclosure schedules:</strong> 1-3 weeks.
+            The seller compiles exceptions to each representation, this
             is effectively a second round of due diligence.</li>
-          <li><strong>Signing to closing:</strong> 30&ndash;90 days,
+          <li><strong>Signing to closing:</strong> 30-90 days,
             depending on regulatory approvals, financing conditions, and
             third-party consents.</li>
-          <li><strong>Total LOI to close:</strong> 60&ndash;120 days for
+          <li><strong>Total LOI to close:</strong> 60-120 days for
             most lower-middle-market transactions; complex or regulated
             deals can extend to six months or longer.</li>
         </ol>
@@ -509,21 +509,21 @@ export default function SPAKeyClausesArticle() {
           complexity:
         </p>
         <ul className={ulClass}>
-          <li><strong>Sub-$2&thinsp;M deals:</strong> $15&thinsp;K&ndash;$35&thinsp;K
+          <li><strong>Sub-$2&thinsp;M deals:</strong> $15&thinsp;K-$35&thinsp;K
             for the buyer&rsquo;s attorney, often on a hybrid fixed-fee
             plus hourly model.</li>
-          <li><strong>$2&ndash;10&thinsp;M deals:</strong> $25&thinsp;K&ndash;$75&thinsp;K,
+          <li><strong>$2-10&thinsp;M deals:</strong> $25&thinsp;K-$75&thinsp;K,
             reflecting more complex reps, working-capital mechanics, and
             potential SBA documentation.</li>
-          <li><strong>$10&ndash;50&thinsp;M deals:</strong> $50&thinsp;K&ndash;$200&thinsp;K,
+          <li><strong>$10-50&thinsp;M deals:</strong> $50&thinsp;K-$200&thinsp;K,
             often involving multiple law-firm teams (corporate, tax,
             employment, environmental).</li>
-          <li><strong>Escrow agent fees:</strong> $3&thinsp;K&ndash;$10&thinsp;K
+          <li><strong>Escrow agent fees:</strong> $3&thinsp;K-$10&thinsp;K
             for account setup and administration.</li>
         </ul>
         <p>
           Each party customarily bears its own legal costs. Budget an
-          additional $5&thinsp;K&ndash;$15&thinsp;K for the working-capital
+          additional $5&thinsp;K-$15&thinsp;K for the working-capital
           true-up if you engage an independent accounting firm to verify
           the closing balance sheet.
         </p>
@@ -536,7 +536,7 @@ export default function SPAKeyClausesArticle() {
         </h3>
         <p>
           An SPA transfers the seller&rsquo;s shares (equity) in the
-          target company, so the buyer acquires the entire entity&mdash;all
+          target company, so the buyer acquires the entire entity, all
           assets <em>and</em> all liabilities. An{" "}
           <Link href="/learn/apa-guide" className="text-apple-accent hover:underline">
             APA
@@ -553,11 +553,11 @@ export default function SPAKeyClausesArticle() {
           How long do representations and warranties survive after closing?
         </h3>
         <p>
-          General reps typically survive 12&ndash;24 months (18 months
-          being the most common market term). Fundamental reps&mdash;such
-          as authority, capitalisation, and title to shares&mdash;survive
-          3&ndash;6 years. Tax and environmental reps often survive until
-          the applicable statute of limitations expires plus a 60&ndash;90
+          General reps typically survive 12-24 months (18 months
+          being the most common market term). Fundamental reps, such
+          as authority, capitalisation, and title to shares, survive
+          3-6 years. Tax and environmental reps often survive until
+          the applicable statute of limitations expires plus a 60-90
           day claim-filing window. Fraud claims are almost universally
           uncapped and have no expiration.
         </p>
@@ -567,13 +567,13 @@ export default function SPAKeyClausesArticle() {
         </h3>
         <p>
           The basket (the loss threshold before indemnification applies)
-          is typically 0.5&ndash;1% of the purchase price. Approximately
+          is typically 0.5-1% of the purchase price. Approximately
           70% of deals use a true deductible structure (buyer recovers only
           amounts above the basket), while 26% use a tipping basket (once
           the threshold is reached, the buyer recovers from dollar one).
           The cap on seller liability for general-rep breaches is most
-          commonly 10&ndash;15% of transaction value in mid-market deals
-          and 20&ndash;50% in lower-middle-market transactions. Fundamental
+          commonly 10-15% of transaction value in mid-market deals
+          and 20-50% in lower-middle-market transactions. Fundamental
           reps and fraud are usually uncapped.
         </p>
 
@@ -587,7 +587,7 @@ export default function SPAKeyClausesArticle() {
           failure); (b) a Material Adverse Change has occurred; (c) a
           condition precedent has not been satisfied by the
           &ldquo;drop-dead&rdquo; date (a contractual deadline, usually
-          90&ndash;180 days post-signing); or (d) the seller has breached
+          90-180 days post-signing); or (d) the seller has breached
           a pre-closing covenant. Outside these scenarios, walking away
           exposes the buyer to breach-of-contract liability, which may
           include a reverse break-up fee.
@@ -597,12 +597,12 @@ export default function SPAKeyClausesArticle() {
           Do I need an M&amp;A attorney to negotiate an SPA?
         </h3>
         <p>
-          Unequivocally, yes. The SPA is a 50&ndash;120 page contract with
+          Unequivocally, yes. The SPA is a 50-120 page contract with
           interlocking economic provisions, and a single misworded clause
           can cost you hundreds of thousands of dollars. Experienced M&amp;A
           counsel will typically pay for themselves many times over by
           negotiating tighter reps, better indemnification terms, and
-          protective closing conditions. Budget $25&thinsp;K&ndash;$75&thinsp;K
+          protective closing conditions. Budget $25&thinsp;K-$75&thinsp;K
           for a competent acquisition attorney on a deal under $10&thinsp;M.
         </p>
 
@@ -610,8 +610,8 @@ export default function SPAKeyClausesArticle() {
         <p className="mt-8 pt-6 border-t border-apple-gray-100">
           The Share Purchase Agreement is where the economic and legal
           terms of your acquisition crystallise into enforceable
-          obligations. Every clause&mdash;from purchase price mechanics to
-          indemnification caps to MAC definitions&mdash;represents a
+          obligations. Every clause, from purchase price mechanics to
+          indemnification caps to MAC definitions, represents a
           negotiation opportunity that directly affects your risk and
           return. Start with a thorough{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
@@ -627,7 +627,7 @@ export default function SPAKeyClausesArticle() {
           </Link>{" "}
           targets, and engage experienced M&amp;A counsel before the first
           draft hits your inbox. The buyers who close the best deals are
-          not the ones with the highest offers&mdash;they are the ones
+          not the ones with the highest offers, they are the ones
           who understand what every clause in the SPA actually means.
         </p>
       </div>

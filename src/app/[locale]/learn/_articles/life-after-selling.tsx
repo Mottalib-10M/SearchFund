@@ -12,11 +12,11 @@ export default function LifeAfterSellingArticle() {
       <h2 className={h2Class}>The First 90 Days</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Rest and decompress:</strong> Give yourself permission to do nothing for 30&ndash;90 days. You&apos;ve been running at maximum intensity. Your body and mind need recovery.</li>
+          <li><strong>Rest and decompress:</strong> Give yourself permission to do nothing for 30-90 days. You&apos;ve been running at maximum intensity. Your body and mind need recovery.</li>
           <li><strong>Resist the urge:</strong> Don&apos;t start a new business, make major investments, or commit to anything significant in the first 90 days. Bad decisions often come from restlessness.</li>
           <li><strong>Financial planning:</strong> Work with a wealth advisor to invest proceeds, plan for taxes (particularly capital gains), and create a sustainable withdrawal strategy.</li>
           <li><strong>Transition support:</strong> If you have a transition services agreement with the buyer, honor it fully. A clean transition protects your reputation.</li>
-          <li><strong>Process the emotions:</strong> It&apos;s normal to feel lost, relieved, sad, or anxious &mdash; sometimes all in the same day. Talk to other sellers, a coach, or a therapist.</li>
+          <li><strong>Process the emotions:</strong> It&apos;s normal to feel lost, relieved, sad, or anxious, sometimes all in the same day. Talk to other sellers, a coach, or a therapist.</li>
         </ul>
       </div>
 
@@ -35,10 +35,10 @@ export default function LifeAfterSellingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Angel investing:</strong> Deploy capital and expertise into startups. Provides deal flow, mentorship opportunities, and community without full-time commitment.</li>
-          <li><strong>Board service:</strong> Join 2&ndash;4 boards as a director or advisor. Share your operational expertise while maintaining flexibility.</li>
+          <li><strong>Board service:</strong> Join 2-4 boards as a director or advisor. Share your operational expertise while maintaining flexibility.</li>
           <li><strong>Mentoring &amp; teaching:</strong> Teach at a business school, mentor young entrepreneurs, or join organizations like SCORE or ETA communities.</li>
           <li><strong>Philanthropy:</strong> Start a foundation, fund scholarships, or get involved with nonprofits that align with your values.</li>
-          <li><strong>Serial entrepreneurship:</strong> After adequate rest (6&ndash;12 months), start or acquire another business. Many entrepreneurs can&apos;t stay away from building.</li>
+          <li><strong>Serial entrepreneurship:</strong> After adequate rest (6-12 months), start or acquire another business. Many entrepreneurs can&apos;t stay away from building.</li>
           <li><strong>Search fund investing:</strong> Invest in search funds. Provide capital, mentorship, and board service to the next generation of ETA entrepreneurs.</li>
           <li><strong>Lifestyle design:</strong> Travel, hobbies, family time, and personal growth. Design the life you couldn&apos;t live while running a business.</li>
         </ul>
@@ -57,11 +57,11 @@ export default function LifeAfterSellingArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Take 30&ndash;90 days to rest before making any major decisions &mdash; post-sale restlessness leads to bad investments and premature commitments</li>
-          <li>Identity loss is the #1 post-sale challenge &mdash; plan for it by building identity and relationships beyond your business before selling</li>
+          <li>Take 30-90 days to rest before making any major decisions, post-sale restlessness leads to bad investments and premature commitments</li>
+          <li>Identity loss is the #1 post-sale challenge, plan for it by building identity and relationships beyond your business before selling</li>
           <li>Common post-sale paths include angel investing, board service, mentoring, philanthropy, and serial entrepreneurship</li>
           <li>Work with a wealth advisor on tax planning, diversification, and sustainable withdrawal strategies before closing</li>
-          <li>The adjustment period takes 6&ndash;24 months &mdash; be patient with yourself and stay connected to support systems</li>
+          <li>The adjustment period takes 6-24 months, be patient with yourself and stay connected to support systems</li>
         </ul>
       </div>
 
@@ -77,17 +77,17 @@ export default function LifeAfterSellingArticle() {
 
       <h3 className={h3Class}>How long does it take to adjust to life after selling a business?</h3>
       <p className={bodyClass}>
-        The Exit Planning Institute&rsquo;s 2024 &ldquo;Life After the Exit&rdquo; survey found that the average adjustment period is 12&ndash;24 months, with 75% of former business owners reporting that the transition was more difficult than expected. The first 90 days often feel euphoric (freedom from responsibility), followed by a 6&ndash;12 month period of identity questioning and restlessness. Bo Burlingham&rsquo;s research in <em>Finish Big</em> found that sellers who planned their post-sale activities before closing adjusted 50% faster than those who didn&rsquo;t. The most successful transitions involved gradually building new identities and activities during the 6&ndash;12 months before the sale, rather than facing an abrupt shift.
+        The Exit Planning Institute&rsquo;s 2024 &ldquo;Life After the Exit&rdquo; survey found that the average adjustment period is 12-24 months, with 75% of former business owners reporting that the transition was more difficult than expected. The first 90 days often feel euphoric (freedom from responsibility), followed by a 6-12 month period of identity questioning and restlessness. Bo Burlingham&rsquo;s research in <em>Finish Big</em> found that sellers who planned their post-sale activities before closing adjusted 50% faster than those who didn&rsquo;t. The most successful transitions involved gradually building new identities and activities during the 6-12 months before the sale, rather than facing an abrupt shift.
       </p>
 
       <h3 className={h3Class}>What is the biggest mistake former business owners make with their sale proceeds?</h3>
       <p className={bodyClass}>
-        The biggest financial mistake is making major investment decisions too quickly after the sale. Vistage&rsquo;s 2024 study found that 40% of former business owners invested in a new venture, real estate, or concentrated stock position within 90 days of closing&mdash;and 60% of those investments underperformed. The restlessness and need for activity that follows a sale often drives hasty capital deployment. Financial advisors recommend parking proceeds in conservative instruments for at least 6 months while developing a thorough wealth management strategy. The Exit Planning Institute recommends working with a fee-only wealth advisor (not commission-based) who can create a diversified portfolio and sustainable withdrawal strategy before making any significant investments.
+        The biggest financial mistake is making major investment decisions too quickly after the sale. Vistage&rsquo;s 2024 study found that 40% of former business owners invested in a new venture, real estate, or concentrated stock position within 90 days of closing, and 60% of those investments underperformed. The restlessness and need for activity that follows a sale often drives hasty capital deployment. Financial advisors recommend parking proceeds in conservative instruments for at least 6 months while developing a thorough wealth management strategy. The Exit Planning Institute recommends working with a fee-only wealth advisor (not commission-based) who can create a diversified portfolio and sustainable withdrawal strategy before making any significant investments.
       </p>
 
       <h3 className={h3Class}>How can former business owners stay engaged and find purpose after selling?</h3>
       <p className={bodyClass}>
-        The most fulfilling post-sale paths combine intellectual stimulation with social connection and sense of contribution. The Exit Planning Institute&rsquo;s research shows that the highest-satisfaction activities are: board service (reported by 65% as highly fulfilling), mentoring younger entrepreneurs (60%), angel investing or search fund investing (55%), and teaching at business schools (50%). Vistage&rsquo;s study found that former owners who maintained at least 3 structured weekly commitments (board meetings, mentoring sessions, volunteer work) reported 2x higher life satisfaction than those without structure. The key insight is that purpose doesn&rsquo;t need to come from a single source&mdash;building a portfolio of activities that provides intellectual challenge, social connection, and meaningful impact is more sustainable than trying to replicate the all-consuming nature of business ownership.
+        The most fulfilling post-sale paths combine intellectual stimulation with social connection and sense of contribution. The Exit Planning Institute&rsquo;s research shows that the highest-satisfaction activities are: board service (reported by 65% as highly fulfilling), mentoring younger entrepreneurs (60%), angel investing or search fund investing (55%), and teaching at business schools (50%). Vistage&rsquo;s study found that former owners who maintained at least 3 structured weekly commitments (board meetings, mentoring sessions, volunteer work) reported 2x higher life satisfaction than those without structure. The key insight is that purpose doesn&rsquo;t need to come from a single source, building a portfolio of activities that provides intellectual challenge, social connection, and meaningful impact is more sustainable than trying to replicate the all-consuming nature of business ownership.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

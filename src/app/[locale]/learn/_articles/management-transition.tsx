@@ -14,7 +14,7 @@ export default function ManagementTransitionArticle() {
           (Harvard Business School Press), the actions a new leader takes
           during the transition period are disproportionately consequential
           for long-term success. You are stepping into a business where
-          employees have often worked for the same owner for 10&ndash;20
+          employees have often worked for the same owner for 10-20
           years. They are
           anxious, skeptical, and watching your every move. How you handle the{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first days, weeks, and months</Link>{" "}
@@ -78,8 +78,8 @@ export default function ManagementTransitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Stay bonuses:</strong> one-time cash payments of
-            $5K&ndash;$50K (depending on role and seniority) paid in two
-            installments &mdash; half at 6 months, half at 12 months after
+            $5K-$50K (depending on role and seniority) paid in two
+            installments, half at 6 months, half at 12 months after
             close.
           </li>
           <li>
@@ -110,12 +110,12 @@ export default function ManagementTransitionArticle() {
           spend months recovering. Here is a structure that works.
         </p>
 
-        <h3 className={h3Class}>Meeting structure (45&ndash;60 minutes)</h3>
+        <h3 className={h3Class}>Meeting structure (45-60 minutes)</h3>
         <ul className={ulClass}>
           <li>
             <strong>Seller introduction (5 minutes):</strong> the seller
             introduces you, endorses the transition, and thanks employees for
-            their loyalty. This endorsement is critical &mdash; it transfers
+            their loyalty. This endorsement is critical, it transfers
             credibility from the trusted owner to the unknown newcomer.
           </li>
           <li>
@@ -135,11 +135,11 @@ export default function ManagementTransitionArticle() {
             <strong>What will change and what will not (10 minutes):</strong>{" "}
             be specific about what is staying the same (roles, compensation,
             benefits, processes) and honest about what might evolve over time.
-            Do not promise that nothing will ever change &mdash; that is not
+            Do not promise that nothing will ever change, that is not
             credible.
           </li>
           <li>
-            <strong>Q&amp;A (15&ndash;20 minutes):</strong> open the floor for
+            <strong>Q&amp;A (15-20 minutes):</strong> open the floor for
             questions. Expect silence initially. Have a few planted questions
             ready (ask a friendly manager to break the ice). Answer honestly.
             If you do not know the answer, say so and commit to following up.
@@ -167,7 +167,7 @@ export default function ManagementTransitionArticle() {
           </li>
           <li>
             Rushing through the meeting. Take your time. This is not a board
-            presentation &mdash; it is a relationship-building moment.
+            presentation, it is a relationship-building moment.
           </li>
         </ul>
 
@@ -180,7 +180,7 @@ export default function ManagementTransitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>One-on-one meetings:</strong> schedule 30&ndash;60 minute
+            <strong>One-on-one meetings:</strong> schedule 30-60 minute
             meetings with every employee (or every manager and key contributor
             in larger organizations). Ask: what works well? What is frustrating?
             What would you change if you could? What are you worried about?
@@ -191,7 +191,7 @@ export default function ManagementTransitionArticle() {
             Front-line employees will respect a CEO who gets their hands dirty.
           </li>
           <li>
-            <strong>Customer visits:</strong> meet the top 10&ndash;20
+            <strong>Customer visits:</strong> meet the top 10-20
             customers in person. Introduce yourself, learn about their
             relationship with the business, and identify opportunities to
             deepen the partnership.
@@ -206,7 +206,7 @@ export default function ManagementTransitionArticle() {
         <h2 className={h2Class}>Seller transition period</h2>
         <p>
           Most search fund acquisitions include a seller transition period of
-          6&ndash;12 months, during which the previous owner provides
+          6-12 months, during which the previous owner provides
           consulting services to ensure a smooth handover. Structuring this
           period correctly is critical.
         </p>
@@ -214,19 +214,19 @@ export default function ManagementTransitionArticle() {
         <h3 className={h3Class}>Structuring the consulting agreement</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Duration:</strong> 6&ndash;12 months is standard. Shorter
+            <strong>Duration:</strong> 6-12 months is standard. Shorter
             periods work for businesses with strong management teams. Longer
             periods may be needed when the seller has deep customer
             relationships or technical expertise.
           </li>
           <li>
-            <strong>Time commitment:</strong> typically starts at 20&ndash;30
-            hours per week and decreases to 5&ndash;10 hours per week over the
+            <strong>Time commitment:</strong> typically starts at 20-30
+            hours per week and decreases to 5-10 hours per week over the
             course of the engagement. Define the schedule explicitly in the
             agreement.
           </li>
           <li>
-            <strong>Compensation:</strong> $10K&ndash;$25K per month for the
+            <strong>Compensation:</strong> $10K-$25K per month for the
             first six months, often stepping down in months seven through
             twelve. Some sellers accept a flat monthly fee; others prefer an
             hourly rate.
@@ -289,7 +289,7 @@ export default function ManagementTransitionArticle() {
           <li>
             <strong>&quot;Will my benefits change?&quot;</strong> Benefits are
             deeply personal. Commit to maintaining current benefits for at
-            least 90&ndash;180 days while you evaluate options.
+            least 90-180 days while you evaluate options.
           </li>
           <li>
             <strong>&quot;Will the culture change?&quot;</strong> Culture
@@ -374,12 +374,12 @@ export default function ManagementTransitionArticle() {
             harassment, dishonesty).
           </li>
           <li>
-            <strong>Wait 60&ndash;90 days for:</strong> organizational
+            <strong>Wait 60-90 days for:</strong> organizational
             restructuring, role changes, compensation adjustments, and process
             improvements. This gives you time to understand the full picture.
           </li>
           <li>
-            <strong>Wait 6&ndash;12 months for:</strong> major strategic
+            <strong>Wait 6-12 months for:</strong> major strategic
             shifts, significant technology changes, cultural transformations,
             and large-scale reorganizations.
           </li>
@@ -393,12 +393,12 @@ export default function ManagementTransitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Weeks 1&ndash;4:</strong> weekly all-hands meetings (15&ndash;
+            <strong>Weeks 1-4:</strong> weekly all-hands meetings (15-
             20 minutes). Share updates, celebrate wins, answer questions. High
             frequency builds familiarity and trust.
           </li>
           <li>
-            <strong>Months 2&ndash;3:</strong> biweekly all-hands meetings.
+            <strong>Months 2-3:</strong> biweekly all-hands meetings.
             Frequency can decrease as anxiety subsides and routines are
             established.
           </li>
@@ -415,7 +415,7 @@ export default function ManagementTransitionArticle() {
 
         <p>
           The management transition is not a one-time event; it is a process
-          that unfolds over 6&ndash;12 months. The search fund CEOs who
+          that unfolds over 6-12 months. The search fund CEOs who
           manage it most successfully are those who lead with humility,
           listen deeply, maintain transparent{" "}
           <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor communications</Link>, and earn trust through
@@ -434,15 +434,15 @@ export default function ManagementTransitionArticle() {
         <h3 className={h3Class}>How long should the seller transition period last?</h3>
         <p>
           Most search fund acquisitions include a seller transition period
-          of 6&ndash;12 months, structured as a consulting agreement. The
+          of 6-12 months, structured as a consulting agreement. The
           ideal length depends on how owner-dependent the business is. If
           the seller has deep customer relationships, holds key vendor
           contacts, or possesses technical knowledge not documented
-          anywhere, a longer transition (9&ndash;12 months) is warranted.
+          anywhere, a longer transition (9-12 months) is warranted.
           If the business has a strong management team and the seller is
-          primarily a figurehead, 3&ndash;6 months may suffice. Structure
+          primarily a figurehead, 3-6 months may suffice. Structure
           the consulting agreement with decreasing time commitments
-          (20&ndash;30 hours per week initially, tapering to 5&ndash;10
+          (20-30 hours per week initially, tapering to 5-10
           hours) and clear deliverables for each phase.
         </p>
 
@@ -453,7 +453,7 @@ export default function ManagementTransitionArticle() {
           installments (50% at 6 months, 50% at 12 months) provide immediate
           financial motivation. Title upgrades and expanded responsibilities
           signal long-term opportunity. Equity participation (phantom equity
-          or profit-sharing) for the top 2&ndash;3 employees aligns their
+          or profit-sharing) for the top 2-3 employees aligns their
           interests with yours. However, the research consistently shows
           that the single most powerful retention factor is the new
           owner&rsquo;s visible commitment to the business and genuine respect

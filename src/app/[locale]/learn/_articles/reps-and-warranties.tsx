@@ -487,7 +487,7 @@ export default function RepsAndWarrantiesArticle() {
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                ABA &ndash; Private Target M&amp;A Deal Points Study
+                ABA - Private Target M&amp;A Deal Points Study
               </a>
             </li>
             <li>
@@ -497,12 +497,12 @@ export default function RepsAndWarrantiesArticle() {
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Aon &ndash; Representations and Warranties Insurance Guide
+                Aon - Representations and Warranties Insurance Guide
               </a>
             </li>
             {/* Removed: corpgov.law.harvard.edu/2020/01/15/private-target-mergers-and-acquisitions-deal-terms/ (404) */}
             <li>
-              Harvard Law School Forum on Corporate Governance &ndash; Private M&amp;A Deal Terms
+              Harvard Law School Forum on Corporate Governance - Private M&amp;A Deal Terms
             </li>
           </ul>
         </div>

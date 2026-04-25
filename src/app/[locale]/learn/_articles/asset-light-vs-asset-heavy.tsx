@@ -6,7 +6,7 @@ export default function AssetLightVsAssetHeavyArticle() {
     <article>
       <h1 className={h1Class}>Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs</h1>
       <div className={bodyClass}>
-        <p>One of the most fundamental decisions in entrepreneurship through acquisition is whether to buy an asset-light business (where value comes from people, relationships, and intellectual property) or an asset-heavy business (where value is tied to physical equipment, facilities, or inventory). Each model has distinct advantages for cash flow, financing, scalability, and risk &mdash; understanding the tradeoffs is critical to finding your ideal acquisition target.</p>
+        <p>One of the most fundamental decisions in entrepreneurship through acquisition is whether to buy an asset-light business (where value comes from people, relationships, and intellectual property) or an asset-heavy business (where value is tied to physical equipment, facilities, or inventory). Each model has distinct advantages for cash flow, financing, scalability, and risk, understanding the tradeoffs is critical to finding your ideal acquisition target.</p>
       </div>
 
       <h2 className={h2Class}>What Makes a Business Asset-Light?</h2>
@@ -22,7 +22,7 @@ export default function AssetLightVsAssetHeavyArticle() {
       <h2 className={h2Class}>What Makes a Business Asset-Heavy?</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Equipment-based:</strong> Revenue tied to physical assets &mdash; trucks, machines, facilities, inventory</li>
+          <li><strong>Equipment-based:</strong> Revenue tied to physical assets, trucks, machines, facilities, inventory</li>
           <li><strong>Significant capex:</strong> Ongoing investment required to maintain and replace physical infrastructure</li>
           <li><strong>Higher barriers:</strong> Physical assets create barriers to entry that protect market position</li>
           <li><strong>Examples:</strong> <Link href="/learn/logistics-transportation-acquisition" className="text-apple-accent hover:underline">Trucking companies</Link>, <Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">manufacturing</Link>, <Link href="/learn/construction-acquisition" className="text-apple-accent hover:underline">construction firms</Link>, <Link href="/learn/waste-management-acquisition" className="text-apple-accent hover:underline">waste management</Link>, <Link href="/learn/storage-self-storage-acquisition" className="text-apple-accent hover:underline">self-storage</Link></li>
@@ -32,7 +32,7 @@ export default function AssetLightVsAssetHeavyArticle() {
       <h2 className={h2Class}>Asset-Light Advantages</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Higher margins:</strong> 20&ndash;40% EBITDA margins typical for well-run asset-light firms vs. 10&ndash;20% for asset-heavy</li>
+          <li><strong>Higher margins:</strong> 20-40% EBITDA margins typical for well-run asset-light firms vs. 10-20% for asset-heavy</li>
           <li><strong>Lower financing needs:</strong> Less capital required upfront and for ongoing operations</li>
           <li><strong>Scalability:</strong> Can grow without proportional capital investment. Adding clients doesn&apos;t require buying trucks or machines.</li>
           <li><strong>Flexibility:</strong> Easier to pivot, expand into new markets, or add service lines</li>
@@ -57,7 +57,7 @@ export default function AssetLightVsAssetHeavyArticle() {
           <li><strong>Margins vs. barriers:</strong> Asset-light = higher margins but weaker moats. Asset-heavy = lower margins but stronger competitive position.</li>
           <li><strong>People risk vs. capex risk:</strong> Asset-light businesses depend on retaining key talent. Asset-heavy face equipment obsolescence and replacement costs.</li>
           <li><strong>Scalability vs. stability:</strong> Asset-light scales faster but revenue can evaporate quickly. Asset-heavy grows slower but is stickier.</li>
-          <li><strong>Valuation multiples:</strong> Asset-light businesses typically command higher EBITDA multiples (6&ndash;12x) vs. asset-heavy (3&ndash;7x)</li>
+          <li><strong>Valuation multiples:</strong> Asset-light businesses typically command higher EBITDA multiples (6-12x) vs. asset-heavy (3-7x)</li>
           <li><strong>Financing:</strong> SBA and traditional lenders often prefer asset-heavy businesses with tangible collateral. Software and services may require more equity.</li>
         </ul>
       </div>
@@ -79,7 +79,7 @@ export default function AssetLightVsAssetHeavyArticle() {
           <li>Asset-heavy businesses provide stronger barriers to entry and collateral value but require ongoing capital investment</li>
           <li>Hybrid models (service + equipment) often offer the best balance of margins, barriers, and stability</li>
           <li>Your personal strengths matter: people-oriented CEOs may excel in asset-light; operations-focused CEOs in asset-heavy</li>
-          <li>Financing availability varies &mdash; asset-heavy is often easier to finance with traditional debt; asset-light may require more equity</li>
+          <li>Financing availability varies, asset-heavy is often easier to finance with traditional debt; asset-light may require more equity</li>
         </ul>
       </div>
 
@@ -93,14 +93,14 @@ export default function AssetLightVsAssetHeavyArticle() {
 
       <h2 className={h2Class}>Frequently asked questions</h2>
 
-      <h3 className={h3Class}>Which model produces better returns for search fund entrepreneurs &mdash; asset-light or asset-heavy?</h3>
+      <h3 className={h3Class}>Which model produces better returns for search fund entrepreneurs, asset-light or asset-heavy?</h3>
       <div className={bodyClass}>
-        <p>Asset-light businesses tend to produce higher returns on invested capital (ROIC) due to their lower capital requirements and higher margins (typically 20&ndash;40% EBITDA vs. 10&ndash;20% for asset-heavy). However, they carry greater key-person risk and competitive vulnerability. Stanford GSB&rsquo;s search fund data shows that both models can produce strong returns when the operator matches their skillset to the business type. People-oriented CEOs who excel at relationship management and talent retention often outperform in asset-light businesses, while operations-focused CEOs who thrive on process optimization and efficiency tend to create more value in asset-heavy environments.</p>
+        <p>Asset-light businesses tend to produce higher returns on invested capital (ROIC) due to their lower capital requirements and higher margins (typically 20-40% EBITDA vs. 10-20% for asset-heavy). However, they carry greater key-person risk and competitive vulnerability. Stanford GSB&rsquo;s search fund data shows that both models can produce strong returns when the operator matches their skillset to the business type. People-oriented CEOs who excel at relationship management and talent retention often outperform in asset-light businesses, while operations-focused CEOs who thrive on process optimization and efficiency tend to create more value in asset-heavy environments.</p>
       </div>
 
       <h3 className={h3Class}>Is it easier to finance an asset-light or asset-heavy acquisition?</h3>
       <div className={bodyClass}>
-        <p>Asset-heavy businesses are generally easier to finance with traditional debt because physical assets (equipment, real estate, inventory) serve as loan collateral. SBA 7(a) lenders and conventional banks prefer tangible collateral that can be valued and liquidated if necessary. Asset-light businesses &mdash; such as professional services firms, SaaS companies, and staffing agencies &mdash; often require more equity in the capital structure because they lack collateral. According to SBA lending data, loan-to-value ratios for asset-heavy acquisitions typically reach 70&ndash;80%, while asset-light deals may require 40&ndash;60% equity contributions depending on the lender&rsquo;s risk assessment.</p>
+        <p>Asset-heavy businesses are generally easier to finance with traditional debt because physical assets (equipment, real estate, inventory) serve as loan collateral. SBA 7(a) lenders and conventional banks prefer tangible collateral that can be valued and liquidated if necessary. Asset-light businesses, such as professional services firms, SaaS companies, and staffing agencies, often require more equity in the capital structure because they lack collateral. According to SBA lending data, loan-to-value ratios for asset-heavy acquisitions typically reach 70-80%, while asset-light deals may require 40-60% equity contributions depending on the lender&rsquo;s risk assessment.</p>
       </div>
 
       <h3 className={h3Class}>What is a hybrid business model, and why is it considered ideal for ETA?</h3>

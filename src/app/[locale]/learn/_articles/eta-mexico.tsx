@@ -16,8 +16,8 @@ export default function ETAMexicoArticle() {
           <Link href="/learn/eta-brazil" className="text-apple-accent hover:underline">
             emerging ETA markets
           </Link>{" "}
-          outside the US and Europe. Acquisition multiples sit between 3&ndash;5x EBITDA for most
-          privately held companies, seller financing covers 30&ndash;50% of deal value in a typical
+          outside the US and Europe. Acquisition multiples sit between 3-5x EBITDA for most
+          privately held companies, seller financing covers 30-50% of deal value in a typical
           transaction, and USMCA trade access gives Mexican businesses tariff-free reach into a $28
           trillion consumer market. For searchers willing to operate in Spanish, build local
           relationships, and manage currency exposure, Mexico offers a rare combination of deal flow
@@ -38,7 +38,7 @@ export default function ETAMexicoArticle() {
           foreign direct investment in 2023, a significant share of which flowed into manufacturing
           states like Nuevo Le&oacute;n, Jalisco, and Guanajuato. This FDI creates downstream demand
           for local contract manufacturers, logistics providers, industrial maintenance firms, and
-          staffing agencies&mdash;exactly the kind of B2B service businesses that fit the{" "}
+          staffing agencies, exactly the kind of B2B service businesses that fit the{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             search fund acquisition model
           </Link>.
@@ -67,7 +67,7 @@ export default function ETAMexicoArticle() {
             injection molding, metal stamping, and contract assembly. Nearshoring demand has pushed
             capacity utilization above 85% in major industrial corridors. Businesses with
             established US client relationships and ISO certifications command premium valuations
-            but still trade at 4&ndash;5x EBITDA.
+            but still trade at 4-5x EBITDA.
           </li>
           <li>
             <strong>Logistics and cross-border transport:</strong> US-Mexico bilateral trade
@@ -81,7 +81,7 @@ export default function ETAMexicoArticle() {
           </li>
           <li>
             <strong>Healthcare services:</strong> Dental chains, diagnostic laboratories, specialty
-            clinics, and medical tourism operators. Private healthcare spending grows 6&ndash;8%
+            clinics, and medical tourism operators. Private healthcare spending grows 6-8%
             annually as public-system capacity lags demand.
           </li>
           <li>
@@ -110,8 +110,8 @@ export default function ETAMexicoArticle() {
 
         <h2 className={h2Class}>Valuation and Deal Economics</h2>
         <p>
-          Most Mexican SMEs trade between 3&ndash;5x trailing EBITDA, with outliers reaching
-          6&ndash;7x for businesses that have audited financials, diversified customer bases, and
+          Most Mexican SMEs trade between 3-5x trailing EBITDA, with outliers reaching
+          6-7x for businesses that have audited financials, diversified customer bases, and
           recurring-revenue models. Several factors compress multiples relative to US comparables:
         </p>
         <ul className={ulClass}>
@@ -139,8 +139,8 @@ export default function ETAMexicoArticle() {
           revenue or margin improvement.
         </p>
         <p>
-          Understanding the nuances of how Mexican businesses are valued&mdash;including
-          adjustments for PTU profit-sharing, owner perks, and informal cash flows&mdash;is
+          Understanding the nuances of how Mexican businesses are valued, including
+          adjustments for PTU profit-sharing, owner perks, and informal cash flows, is
           critical. Our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             business valuation guide
@@ -152,7 +152,7 @@ export default function ETAMexicoArticle() {
         <p>
           The dominant corporate form for acquisitions is the <strong>S.A. de C.V.</strong>{" "}
           (Sociedad An&oacute;nima de Capital Variable). Its variable-capital feature lets
-          shareholders increase or decrease capital without amending the corporate charter&mdash;a
+          shareholders increase or decrease capital without amending the corporate charter, a
           practical advantage when structuring investor contributions. A minimum of two shareholders
           is required, and governance is defined by the company&rsquo;s estatutos sociales (bylaws).
         </p>
@@ -176,7 +176,7 @@ export default function ETAMexicoArticle() {
           Most acquisitions are structured as <strong>share purchases</strong>: the buyer acquires
           100% of the target&rsquo;s equity. This preserves contracts, permits, and client
           relationships but means the buyer inherits all liabilities, including contingent tax and
-          labor obligations. A 10&ndash;15% escrow holdback for 12&ndash;24 months is standard
+          labor obligations. A 10-15% escrow holdback for 12-24 months is standard
           practice to cover undisclosed liabilities. Asset purchases avoid liability inheritance but
           trigger 16% IVA (VAT) on transferred assets and require individual contract assignments,
           making them slower and more expensive for most SME deals.
@@ -203,8 +203,8 @@ export default function ETAMexicoArticle() {
           law requires employers to distribute 10% of pre-tax profits to employees annually. A
           2021 reform capped each worker&rsquo;s PTU at three months&rsquo; salary or the average
           of the prior three years&rsquo; PTU (whichever is higher), reducing the burden for
-          highly profitable firms. Still, PTU is a material line item&mdash;typically 2&ndash;4% of
-          revenue for a profitable SME&mdash;and must be factored into any{" "}
+          highly profitable firms. Still, PTU is a material line item, typically 2-4% of
+          revenue for a profitable SME, and must be factored into any{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence process
           </Link>.
@@ -219,37 +219,37 @@ export default function ETAMexicoArticle() {
           through a US or European holding company must comply with Mexican transfer-pricing rules.
           The SAT (Mexico&rsquo;s tax authority) requires arm&rsquo;s-length documentation for
           intercompany loans, management fees, and royalties. Non-compliance triggers penalties of
-          55&ndash;75% of the unpaid tax.
+          55-75% of the unpaid tax.
         </p>
         <p>
-          <strong>Labor reform (2019&ndash;2023):</strong> Mexico overhauled its labor law in
+          <strong>Labor reform (2019-2023):</strong> Mexico overhauled its labor law in
           stages, establishing independent labor courts, requiring secret-ballot union votes, and
           banning outsourcing of core business activities (the &ldquo;subcontrataci&oacute;n&rdquo;
           ban of April 2021). The outsourcing ban forced companies to bring contract workers onto
-          their own payrolls, increasing labor costs by 15&ndash;25% for firms that had previously
+          their own payrolls, increasing labor costs by 15-25% for firms that had previously
           relied heavily on staffing agencies. For a buyer, this means verifying that the target has
-          fully complied with the new rules&mdash;outstanding liabilities from the transition period
+          fully complied with the new rules, outstanding liabilities from the transition period
           remain a common due-diligence finding.
         </p>
 
         <h2 className={h2Class}>Financing and the Mexican Investor Base</h2>
         <p>
           High domestic interest rates (Banxico&rsquo;s reference rate has hovered between
-          10&ndash;11.25% in recent years) make traditional bank financing expensive. Commercial
-          acquisition loans from BBVA Mexico, Banorte, or Santander typically price at TIIE + 4&ndash;8
+          10-11.25% in recent years) make traditional bank financing expensive. Commercial
+          acquisition loans from BBVA Mexico, Banorte, or Santander typically price at TIIE + 4-8
           percentage points, producing all-in rates above 15%. As a result, search fund deal
           structures in Mexico rely heavily on three alternatives:
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Seller financing (30&ndash;50% of deal value):</strong> The most common debt
+            <strong>Seller financing (30-50% of deal value):</strong> The most common debt
             instrument in Mexican SME acquisitions. Structured as a subordinated promissory note
-            over 3&ndash;5 years, often with a 6&ndash;12 month principal grace period. Sellers
-            accept below-market interest rates (8&ndash;10%) because the alternative&mdash;finding
-            no buyer&mdash;is worse.
+            over 3-5 years, often with a 6-12 month principal grace period. Sellers
+            accept below-market interest rates (8-10%) because the alternative, finding
+            no buyer, is worse.
           </li>
           <li>
-            <strong>Investor equity (40&ndash;60%):</strong> Mexico&rsquo;s search fund investor
+            <strong>Investor equity (40-60%):</strong> Mexico&rsquo;s search fund investor
             base has grown substantially since 2015. IPADE alumni, Monterrey-based family offices,
             and international investors connected through Stanford GSB and IESE now participate
             regularly. Most invest through a SAPI holdco, with USD-denominated side letters to
@@ -303,7 +303,7 @@ export default function ETAMexicoArticle() {
             <strong>Mexican family offices:</strong> Second- and third-generation wealth families
             in Monterrey, Guadalajara, and Mexico City are allocating to search fund investments as
             an alternative to private equity and real estate. Typical check sizes range from
-            $50,000&ndash;$250,000 per deal.
+            $50,000-$250,000 per deal.
           </li>
           <li>
             <strong>Professional advisors:</strong> Law firms such as Galicia Abogados, Creel
@@ -361,11 +361,11 @@ export default function ETAMexicoArticle() {
           What EBITDA range should a searcher target in Mexico?
         </h3>
         <p>
-          Most Mexican search fund acquisitions target businesses with $300,000&ndash;$1.5 million
-          in adjusted EBITDA (MXN 5&ndash;25 million). Below that range, formalization costs and
+          Most Mexican search fund acquisitions target businesses with $300,000-$1.5 million
+          in adjusted EBITDA (MXN 5-25 million). Below that range, formalization costs and
           PTU liabilities eat into margins; above it, you compete with domestic private equity funds
           and strategic acquirers who can pay higher multiples. The sweet spot for a first-time
-          searcher is a $500K&ndash;$1M EBITDA business with 15%+ margins and at least 50% formal
+          searcher is a $500K-$1M EBITDA business with 15%+ margins and at least 50% formal
           revenue.
         </p>
 
@@ -412,10 +412,10 @@ export default function ETAMexicoArticle() {
           What is the typical timeline for a Mexican search fund acquisition?
         </h3>
         <p>
-          Expect 14&ndash;20 months from search launch to close. The search phase runs
-          8&ndash;12 months (longer than in the US due to relationship-based sourcing), due
-          diligence takes 2&ndash;4 months (informal economy exposure adds complexity), and
-          closing mechanics require 4&ndash;6 weeks for notarial formalization, RNIE registration
+          Expect 14-20 months from search launch to close. The search phase runs
+          8-12 months (longer than in the US due to relationship-based sourcing), due
+          diligence takes 2-4 months (informal economy exposure adds complexity), and
+          closing mechanics require 4-6 weeks for notarial formalization, RNIE registration
           (if applicable), and escrow setup.
         </p>
       </div>

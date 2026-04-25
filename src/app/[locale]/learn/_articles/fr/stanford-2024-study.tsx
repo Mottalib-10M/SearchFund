@@ -60,8 +60,8 @@ export default function Stanford2024FR() {
         <p>
           Pour le marché français, cette croissance est un signal encourageant.
           L&apos;écosystème hexagonal se situe encore dans une phase précoce
-          &mdash; comparable à la situation nord-américaine du début des
-          années 2000 &mdash;, ce qui signifie que le potentiel de
+          comparable à la situation nord-américaine du début des
+          années 2000 , , ce qui signifie que le potentiel de
           développement est considérable. L&apos;
           <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
             écosystème ETA en France

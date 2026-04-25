@@ -65,11 +65,11 @@ export default function WhatIsETAArticle() {
         <h3 className={h3Class}>Traditional search fund</h3>
         <p>
           The original ETA model, pioneered at Stanford. A searcher raises a
-          small pool of capital (typically $400,000&ndash;$600,000) from 10&ndash;20
+          small pool of capital (typically $400,000-$600,000) from 10-20
           investors to fund a two-year search for an acquisition target. Upon
           finding a suitable company, the searcher raises additional equity from
           the same investors to complete the purchase. The searcher becomes CEO
-          and earns 20&ndash;30% of the equity through a step-up mechanism. This
+          and earns 20-30% of the equity through a step-up mechanism. This
           model is covered in depth in our{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
             complete guide to search funds
@@ -81,8 +81,8 @@ export default function WhatIsETAArticle() {
           A growing alternative where the searcher uses personal savings and
           bootstrapped deal-sourcing to find an acquisition target without
           raising institutional search capital. The searcher typically retains
-          more equity (often 50&ndash;100%) but bears more personal financial risk.
-          Self-funded searchers usually target smaller deals ($500K&ndash;$3M
+          more equity (often 50-100%) but bears more personal financial risk.
+          Self-funded searchers usually target smaller deals ($500K-$3M
           enterprise value) and rely more heavily on{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
             SBA loans and seller financing
@@ -99,7 +99,7 @@ export default function WhatIsETAArticle() {
           between traditional search funds and private equity. The independent
           sponsor sources deals without committed capital, then raises equity
           deal-by-deal from investors once a specific target is identified. This
-          model allows for larger transactions ($5M&ndash;$50M enterprise value)
+          model allows for larger transactions ($5M-$50M enterprise value)
           and sometimes involves hiring a management team rather than the
           sponsor operating as CEO.
         </p>
@@ -116,7 +116,7 @@ export default function WhatIsETAArticle() {
 
         <h2 className={h2Class}>Who pursues ETA?</h2>
         <p>
-          The typical ETA practitioner is a 28&ndash;38 year old professional with
+          The typical ETA practitioner is a 28-38 year old professional with
           five to ten years of operating experience in management consulting,
           finance, technology, or industry operations. About 85% of traditional
           searchers hold MBAs from top programs, though the self-funded path is
@@ -132,8 +132,8 @@ export default function WhatIsETAArticle() {
           <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
             searcher compensation data
           </Link>,
-          post-acquisition CEO salaries average $200K&ndash;$300K, with total
-          wealth creation potential of $3M&ndash;$10M+ at exit.
+          post-acquisition CEO salaries average $200K-$300K, with total
+          wealth creation potential of $3M-$10M+ at exit.
         </p>
 
         <h2 className={h2Class}>The ETA lifecycle</h2>
@@ -142,7 +142,7 @@ export default function WhatIsETAArticle() {
           lifecycle:
         </p>
 
-        <h3 className={h3Class}>1. Preparation (3&ndash;6 months)</h3>
+        <h3 className={h3Class}>1. Preparation (3-6 months)</h3>
         <p>
           The aspiring acquirer studies the ETA model, develops an investment
           thesis (target industries, geographies, company sizes), builds a
@@ -154,27 +154,27 @@ export default function WhatIsETAArticle() {
           for a detailed playbook.
         </p>
 
-        <h3 className={h3Class}>2. Fundraising (2&ndash;4 months, traditional only)</h3>
+        <h3 className={h3Class}>2. Fundraising (2-4 months, traditional only)</h3>
         <p>
           Traditional searchers raise search capital by writing a{" "}
           <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">
             Private Placement Memorandum (PPM)
           </Link>{" "}
           and presenting to prospective investors. The fundraising process
-          typically involves meeting 50&ndash;100+ investors to secure commitments
-          from 10&ndash;20. Our guide on{" "}
+          typically involves meeting 50-100+ investors to secure commitments
+          from 10-20. Our guide on{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             finding search fund investors
           </Link>{" "}
           covers the full process.
         </p>
 
-        <h3 className={h3Class}>3. Search (12&ndash;24 months)</h3>
+        <h3 className={h3Class}>3. Search (12-24 months)</h3>
         <p>
           The searcher identifies, evaluates, and approaches potential
-          acquisition targets. A typical search involves reviewing 200&ndash;300
-          companies, conducting 50&ndash;100 management meetings, submitting
-          5&ndash;15{" "}
+          acquisition targets. A typical search involves reviewing 200-300
+          companies, conducting 50-100 management meetings, submitting
+          5-15{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letters of Intent (LOIs)
           </Link>,
@@ -185,7 +185,7 @@ export default function WhatIsETAArticle() {
           guide covers the most effective approaches.
         </p>
 
-        <h3 className={h3Class}>4. Due diligence and closing (2&ndash;4 months)</h3>
+        <h3 className={h3Class}>4. Due diligence and closing (2-4 months)</h3>
         <p>
           Once an LOI is signed, the searcher conducts thorough financial,
           legal, operational, and commercial{" "}
@@ -199,7 +199,7 @@ export default function WhatIsETAArticle() {
           legal documents are negotiated, and the acquisition closes.
         </p>
 
-        <h3 className={h3Class}>5. Operations and value creation (3&ndash;7 years)</h3>
+        <h3 className={h3Class}>5. Operations and value creation (3-7 years)</h3>
         <p>
           The new CEO-operator runs the business, implements improvements, and
           grows the company. The{" "}
@@ -216,7 +216,7 @@ export default function WhatIsETAArticle() {
           and digital transformation.
         </p>
 
-        <h3 className={h3Class}>6. Exit (year 5&ndash;7+)</h3>
+        <h3 className={h3Class}>6. Exit (year 5-7+)</h3>
         <p>
           Most ETA exits occur through strategic sales, private equity
           transactions, or management buyouts. Read our{" "}
@@ -244,15 +244,15 @@ export default function WhatIsETAArticle() {
           <li>Approximately 67% of funds successfully acquire a company</li>
           <li>35% aggregate IRR for investors (pre-tax)</li>
           <li>4.5x aggregate return on invested capital</li>
-          <li>Median acquisition enterprise value: $8&ndash;$15 million</li>
-          <li>Median hold period: 5&ndash;7 years</li>
+          <li>Median acquisition enterprise value: $8-$15 million</li>
+          <li>Median hold period: 5-7 years</li>
           <li>Record 94 new search funds launched in 2023 alone</li>
         </ul>
         <p>
           It is important to note that these returns are heavily skewed by top
           performers. The median search fund return is more modest, and roughly
           one-third of acquisitions lose money for investors. ETA is not a
-          guaranteed path to wealth &mdash; it requires exceptional execution,
+          guaranteed path to wealth, it requires exceptional execution,
           discipline, and a strong company match.
         </p>
 
@@ -273,7 +273,7 @@ export default function WhatIsETAArticle() {
             </Link>.
           </li>
           <li>
-            <strong>ETA vs. private equity:</strong> ETA deals are smaller ($1&ndash;$20M
+            <strong>ETA vs. private equity:</strong> ETA deals are smaller ($1-$20M
             vs. $100M+), involve a single operator-CEO, and use step-up equity
             rather than 2/20 fee structures. Returns have historically been
             higher on an IRR basis. See our{" "}
@@ -314,32 +314,32 @@ export default function WhatIsETAArticle() {
             <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
               France
             </Link>{" "}
-            &mdash; the largest European market with strong government support
+            the largest European market with strong government support
             (Bpifrance)
           </li>
           <li>
             <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">
               Germany
             </Link>{" "}
-            &mdash; the Mittelstand offers world-class industrial SMEs
+            the Mittelstand offers world-class industrial SMEs
           </li>
           <li>
             <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">
               United Kingdom
             </Link>{" "}
-            &mdash; the most developed English-speaking European ETA market
+            the most developed English-speaking European ETA market
           </li>
           <li>
             <Link href="/learn/eta-spain" className="text-apple-accent hover:underline">
               Spain
             </Link>{" "}
-            &mdash; IESE is a global hub for ETA education and research
+            IESE is a global hub for ETA education and research
           </li>
           <li>
             <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">
               Italy
             </Link>{" "}
-            &mdash; family business succession creates massive deal flow
+            family business succession creates massive deal flow
           </li>
         </ul>
 
@@ -350,7 +350,7 @@ export default function WhatIsETAArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Enterprise value of $2M&ndash;$20M:</strong> Large enough to
+            <strong>Enterprise value of $2M-$20M:</strong> Large enough to
             support a CEO salary and investor returns, small enough that
             competition from PE firms is limited
           </li>
@@ -359,12 +359,12 @@ export default function WhatIsETAArticle() {
             contracts, or habitual repeat customers
           </li>
           <li>
-            <strong>EBITDA margins of 15&ndash;25%+:</strong> Sufficient cash flow
+            <strong>EBITDA margins of 15-25%+:</strong> Sufficient cash flow
             to service acquisition debt and fund growth
           </li>
           <li>
             <strong>Low customer concentration:</strong> No single customer
-            should represent more than 15&ndash;20% of revenue
+            should represent more than 15-20% of revenue
           </li>
           <li>
             <strong>Owner-dependent operations:</strong> A business where the

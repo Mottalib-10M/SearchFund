@@ -22,10 +22,10 @@ export default function ProprietaryDealFlowArticle() {
             Unloq
           </a>
           . The other 98% represent an enormous, untapped pool of acquisition
-          targets that most buyers never see. Proprietary deal flow &mdash; the
+          targets that most buyers never see. Proprietary deal flow, the
           practice of sourcing businesses through direct outreach, referral
           networks, and relationship-building rather than brokered listings
-          &mdash; gives you access to that invisible market. For search fund
+          gives you access to that invisible market. For search fund
           entrepreneurs and independent acquirers willing to put in the work,
           proprietary sourcing consistently produces better pricing, less
           competition, and stronger seller relationships than auction-driven
@@ -38,7 +38,7 @@ export default function ProprietaryDealFlowArticle() {
         </h2>
         <p>
           When a business hits the open market through a broker or M&amp;A
-          advisor, it typically attracts 5&ndash;20 bidders. That competition
+          advisor, it typically attracts 5-20 bidders. That competition
           drives up the price. A{" "}
           <a
             href="https://www.pioneercapitaladvisory.com/post/how-and-why-to-source-off-market-deal-flow"
@@ -48,7 +48,7 @@ export default function ProprietaryDealFlowArticle() {
           >
             Pioneer Capital Advisory analysis
           </a>{" "}
-          found that proprietary deals regularly close at 0.5&ndash;1.5x lower{" "}
+          found that proprietary deals regularly close at 0.5-1.5x lower{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
             EBITDA multiples
           </Link>{" "}
@@ -69,7 +69,7 @@ export default function ProprietaryDealFlowArticle() {
               creative deal terms
             </Link>
             , including seller financing, earn-outs, or extended transition
-            periods &mdash; all of which reduce the buyer&rsquo;s upfront cash
+            periods, all of which reduce the buyer&rsquo;s upfront cash
             requirement.
           </li>
           <li>
@@ -92,7 +92,7 @@ export default function ProprietaryDealFlowArticle() {
         <p>
           Unloq reports that over 85% of their completed transactions are
           off-market deals, and that their outreach achieves a 47% interest rate
-          from contacted business owners &mdash; a figure that reflects
+          from contacted business owners, a figure that reflects
           relationship-driven sourcing rather than cold spam.
         </p>
 
@@ -154,8 +154,8 @@ export default function ProprietaryDealFlowArticle() {
           Physical letters remain surprisingly effective with older business
           owners. Purchase targeted lists from data providers such as Dun &amp;
           Bradstreet, Data.com, or ReferenceUSA, filtering by SIC/NAICS code,
-          geography, revenue range ($1M&ndash;$20M), employee count, and owner
-          age (55+). A single campaign should target 500&ndash;5,000 businesses.
+          geography, revenue range ($1M-$20M), employee count, and owner
+          age (55+). A single campaign should target 500-5,000 businesses.
         </p>
         <p>
           The letter itself should be one page, personalized with the
@@ -163,13 +163,13 @@ export default function ProprietaryDealFlowArticle() {
           tone: &ldquo;I&rsquo;m an entrepreneur looking to acquire and operate a
           business like yours in [industry].&rdquo; Include your background for
           credibility and your specific acquisition criteria. Handwritten
-          envelopes and signatures increase open rates by 2&ndash;3x.
+          envelopes and signatures increase open rates by 2-3x.
         </p>
         <p>
-          <strong>Expected response rate:</strong> 1&ndash;3% on the initial
-          mailing. A phone follow-up 1&ndash;2 weeks later and a second mailing
-          4&ndash;6 weeks after that can lift cumulative response rates to
-          3&ndash;5%.
+          <strong>Expected response rate:</strong> 1-3% on the initial
+          mailing. A phone follow-up 1-2 weeks later and a second mailing
+          4-6 weeks after that can lift cumulative response rates to
+          3-5%.
         </p>
 
         <h3 className={h3Class}>Cold email outreach</h3>
@@ -186,21 +186,21 @@ export default function ProprietaryDealFlowArticle() {
             Sopro&rsquo;s 2026 outreach benchmarks
           </a>
           , well-executed cold emails average about 5% reply rates, while
-          top-quartile performers &mdash; those with tight targeting and
-          signal-based personalization &mdash; achieve 15&ndash;25%.
+          top-quartile performers, those with tight targeting and
+          signal-based personalization, achieve 15-25%.
         </p>
         <p>
           For acquisition outreach specifically, keep the subject line
           straightforward (&ldquo;Question about [Business Name]&rdquo;) and
           the body under 150 words. Mention one specific detail about their
           company to prove you&rsquo;ve done your homework. A three-email
-          sequence spaced 5&ndash;7 days apart is standard.
+          sequence spaced 5-7 days apart is standard.
         </p>
 
         <h3 className={h3Class}>Cold calling</h3>
         <p>
           Phone calls create the most immediate human connection. Aim for
-          20&ndash;30 calls per day during active sourcing. Use an indirect
+          20-30 calls per day during active sourcing. Use an indirect
           approach: &ldquo;I&rsquo;m an entrepreneur looking to buy and operate a
           business in [industry]. Are you familiar with anyone who might be
           considering retirement or succession planning?&rdquo; Asking about
@@ -209,8 +209,8 @@ export default function ProprietaryDealFlowArticle() {
           about it myself.&rdquo;
         </p>
         <p>
-          <strong>Expected conversion:</strong> 5&ndash;10% of calls will
-          produce a meaningful conversation; 1&ndash;2% may become genuine
+          <strong>Expected conversion:</strong> 5-10% of calls will
+          produce a meaningful conversation; 1-2% may become genuine
           leads over the following months.
         </p>
 
@@ -220,8 +220,8 @@ export default function ProprietaryDealFlowArticle() {
           owner title (Owner, Founder, CEO), years in current position, and
           geography. Send a personalized connection request referencing their
           business or industry, then follow a connect &rarr; value-add message
-          &rarr; direct ask cadence over 2&ndash;4 weeks. Personalized InMails
-          to targeted owners see 10&ndash;20% response rates &mdash;
+          &rarr; direct ask cadence over 2-4 weeks. Personalized InMails
+          to targeted owners see 10-20% response rates , 
           significantly higher than cold email. For a complete playbook on this
           channel, see our{" "}
           <Link href="/learn/linkedin-deal-sourcing" className="text-apple-accent hover:underline">
@@ -250,7 +250,7 @@ export default function ProprietaryDealFlowArticle() {
             <strong>CPAs and accountants.</strong> They prepare tax returns,
             model retirement scenarios, and often hear about sale intentions
             years before anyone else. Accountants also value referrals
-            themselves &mdash; 89% of CPA firms cite referrals as their top
+            themselves, 89% of CPA firms cite referrals as their top
             source of new clients, according to the{" "}
             <a
               href="https://www.clearlyrated.com/blog/ways-to-increase-cpa-referrals-for-your-accounting-firm"
@@ -285,7 +285,7 @@ export default function ProprietaryDealFlowArticle() {
           To build these relationships, attend local chamber of commerce events,
           Rotary meetings, and professional networking groups. Be specific about
           what you&rsquo;re looking for: &ldquo;I want to acquire a
-          $1M&ndash;$5M revenue services business in the Southeast with an owner
+          $1M-$5M revenue services business in the Southeast with an owner
           approaching retirement.&rdquo; Specificity makes you memorable and
           easy to refer. Follow up quarterly even when there&rsquo;s no
           immediate deal. For more on how{" "}
@@ -335,7 +335,7 @@ export default function ProprietaryDealFlowArticle() {
             <strong>Franchise resale programs.</strong> Franchise brands like
             ServiceMaster, SERVPRO, and The UPS Store operate internal resale
             programs for retiring franchisees. These transactions are
-            semi-proprietary &mdash; they never hit public markets, but the
+            semi-proprietary, they never hit public markets, but the
             franchise development office will connect qualified buyers with
             retiring owners.
           </li>
@@ -362,7 +362,7 @@ export default function ProprietaryDealFlowArticle() {
         </h2>
         <p>
           Proprietary deal sourcing is a volume game with a long conversion
-          cycle. The reference funnel from the IESE &ldquo;Search Funds &mdash;
+          cycle. The reference funnel from the IESE &ldquo;Search Funds , 
           Best Practices for the Search Phase&rdquo;{" "}
           <a
             href="https://hadleyfamilycapital.com/wp-content/uploads/ces-search-funds-best-practices-search-phase.pdf"
@@ -405,11 +405,11 @@ export default function ProprietaryDealFlowArticle() {
         </ul>
         <p>
           That means the overall funnel conversion is roughly 1 deal per 3,000
-          contacts &mdash; a 0.03% end-to-end rate. Scaling down, 1,000
-          contacts should yield approximately 85 responses, 8&ndash;9 meetings,
-          1&ndash;2 LOIs, and statistically less than one completed acquisition.
+          contacts, a 0.03% end-to-end rate. Scaling down, 1,000
+          contacts should yield approximately 85 responses, 8-9 meetings,
+          1-2 LOIs, and statistically less than one completed acquisition.
           This is precisely why most search fund entrepreneurs plan for a
-          12&ndash;24 month active search period.
+          12-24 month active search period.
         </p>
         <p>
           Track every touchpoint in a CRM. HubSpot, Pipedrive, and Airtable are
@@ -437,16 +437,16 @@ export default function ProprietaryDealFlowArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Monday&ndash;Tuesday:</strong> Send 50&ndash;75 personalized
+            <strong>Monday-Tuesday:</strong> Send 50-75 personalized
             emails or LinkedIn messages targeting new prospects.
           </li>
           <li>
-            <strong>Wednesday&ndash;Thursday:</strong> Make 40&ndash;60 cold
+            <strong>Wednesday-Thursday:</strong> Make 40-60 cold
             calls, including follow-ups on previous mail and email campaigns.
           </li>
           <li>
-            <strong>Friday:</strong> Referral development &mdash; schedule 2&ndash;3
-            coffee meetings with CPAs, attorneys, or bankers. Send 10&ndash;20
+            <strong>Friday:</strong> Referral development, schedule 2-3
+            coffee meetings with CPAs, attorneys, or bankers. Send 10-20
             direct mail letters to your highest-value targets.
           </li>
           <li>
@@ -460,9 +460,9 @@ export default function ProprietaryDealFlowArticle() {
           </li>
         </ul>
         <p>
-          At this pace, a searcher contacts roughly 250&ndash;400 new businesses
+          At this pace, a searcher contacts roughly 250-400 new businesses
           per month, which aligns with the 3,000+ contacts needed over a
-          12-month search. Consistency matters more than intensity &mdash; one
+          12-month search. Consistency matters more than intensity, one
           month of heavy outreach followed by three months of silence is far
           less effective than steady, sustained effort.
         </p>
@@ -474,16 +474,16 @@ export default function ProprietaryDealFlowArticle() {
           How long does it take to close a proprietary deal?
         </h3>
         <p>
-          Expect 6&ndash;18 months from first contact to close. The initial
-          conversation-to-LOI phase often takes 3&ndash;6 months because you
+          Expect 6-18 months from first contact to close. The initial
+          conversation-to-LOI phase often takes 3-6 months because you
           are building a relationship with a seller who wasn&rsquo;t actively
           looking to sell. The{" "}
           <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">
             search fund thesis
           </Link>{" "}
-          stage, diligence, and closing add another 3&ndash;6 months. By
+          stage, diligence, and closing add another 3-6 months. By
           comparison, a brokered deal with an active seller can move from
-          first meeting to close in 3&ndash;4 months, but you pay a higher
+          first meeting to close in 3-4 months, but you pay a higher
           multiple for that speed.
         </p>
 
@@ -492,10 +492,10 @@ export default function ProprietaryDealFlowArticle() {
         </h3>
         <p>
           Response rates vary significantly by channel and quality of targeting.
-          Physical mail typically generates 1&ndash;3% on first contact, rising
-          to 3&ndash;5% with follow-up. Cold email averages 3&ndash;8.5%
+          Physical mail typically generates 1-3% on first contact, rising
+          to 3-5% with follow-up. Cold email averages 3-8.5%
           broadly, though personalized acquisition outreach to targeted owners
-          can reach 15&ndash;25% according to{" "}
+          can reach 15-25% according to{" "}
           <a
             href="https://sopro.io/resources/blog/cold-outreach-statistics/"
             target="_blank"
@@ -504,9 +504,9 @@ export default function ProprietaryDealFlowArticle() {
           >
             Sopro&rsquo;s benchmarks
           </a>
-          . LinkedIn InMails see 10&ndash;20% response rates. The most
+          . LinkedIn InMails see 10-20% response rates. The most
           important variable across all channels is personalization: generic
-          templates consistently underperform by 3&ndash;5x.
+          templates consistently underperform by 3-5x.
         </p>
 
         <h3 className={h3Class}>
@@ -519,7 +519,7 @@ export default function ProprietaryDealFlowArticle() {
           </Link>
           : industry, geography, revenue range, margin profile, and owner
           demographics. Filter for owners aged 55+ who have led the business
-          for 15+ years &mdash; they are statistically the most likely to be
+          for 15+ years, they are statistically the most likely to be
           considering an exit. Cross-reference multiple data sources (business
           directories, LinkedIn, state filings, trade association member lists)
           to build a thorough target list. Unloq recommends analyzing at
@@ -545,7 +545,7 @@ export default function ProprietaryDealFlowArticle() {
         </h3>
         <p>
           Absolutely. The best searchers run proprietary outreach as their
-          primary channel while maintaining active relationships with 10&ndash;20
+          primary channel while maintaining active relationships with 10-20
           business brokers in their target geographies. Brokers bring you
           listed deal flow that supplements your proprietary pipeline, and a
           strong track record of closing proprietary deals makes brokers more

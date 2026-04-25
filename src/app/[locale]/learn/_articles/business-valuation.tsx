@@ -327,7 +327,7 @@ export default function BusinessValuationArticle() {
           EBITDA, though the range spans from 3x to 8x depending on business
           quality. Start with a baseline of 4x for a stable, modestly growing
           business with manageable customer concentration. Adjust upward by
-          0.25&ndash;0.5x for each positive factor (high recurring revenue,
+          0.25-0.5x for each positive factor (high recurring revenue,
           strong growth, low owner dependency) and downward for each risk
           factor (customer concentration, declining revenue, high capex).
           The multiple should produce a deal that services its debt at 1.25x+
@@ -338,12 +338,12 @@ export default function BusinessValuationArticle() {
         <p>
           Small business valuation relies heavily on EBITDA multiples rather
           than DCF or comparable public company analysis. Key differences
-          include: illiquidity discounts of 20&ndash;40%, the need for
+          include: illiquidity discounts of 20-40%, the need for
           extensive normalization adjustments (owner compensation, personal
           expenses, related-party transactions), limited comparable
           transaction data, and the absence of audited financials. IESE
           Business School&rsquo;s research on international search funds
-          notes that European SME multiples tend to be 1&ndash;2x lower than
+          notes that European SME multiples tend to be 1-2x lower than
           US equivalents for similar businesses, reflecting differences in
           market depth and financing availability.
         </p>
@@ -355,8 +355,8 @@ export default function BusinessValuationArticle() {
             Quality of Earnings
           </Link>{" "}
           report independently validates the seller&rsquo;s adjusted EBITDA
-          and typically catches 10&ndash;30% of claimed add-backs as
-          unsupported. At a cost of $15K&ndash;$50K, it is one of the
+          and typically catches 10-30% of claimed add-backs as
+          unsupported. At a cost of $15K-$50K, it is one of the
           highest-ROI investments in the acquisition process. Engage a QoE
           provider as soon as the LOI is signed, not at the end of
           diligence. Lenders require a QoE for loan underwriting, and the

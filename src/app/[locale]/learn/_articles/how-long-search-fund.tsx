@@ -12,7 +12,7 @@ export default function HowLongSearchFundArticle() {
       <div className={bodyClass}>
         <p>
           A search fund from first capital raise through exit typically spans
-          seven to ten years &mdash; but the two phases that make or break the
+          seven to ten years, but the two phases that make or break the
           endeavor are the fundraise (two to five months) and the active search
           (a median of twenty months, according to the{" "}
           <strong>2024 Stanford GSB Search Fund Study</strong> covering 681
@@ -30,8 +30,8 @@ export default function HowLongSearchFundArticle() {
         <h2 className={h2Class}>The full search fund lifecycle at a glance</h2>
         <p>
           Before diving into each phase, it helps to see the entire arc.
-          Stanford&rsquo;s longitudinal dataset &mdash; now spanning four decades
-          and 681 first-time search funds in the US and Canada &mdash; provides
+          Stanford&rsquo;s longitudinal dataset, now spanning four decades
+          and 681 first-time search funds in the US and Canada, provides
           the most reliable benchmarks available. The table below summarizes
           typical durations for a{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
@@ -41,34 +41,34 @@ export default function HowLongSearchFundArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Pre-search preparation:</strong> 2&ndash;4 months of
+            <strong>Pre-search preparation:</strong> 2-4 months of
             thesis development, market mapping, and personal readiness
           </li>
           <li>
-            <strong>Fundraise (traditional):</strong> 2&ndash;5 months to
-            close initial search capital of roughly $400K&ndash;$600K from
-            10&ndash;20 investors
+            <strong>Fundraise (traditional):</strong> 2-5 months to
+            close initial search capital of roughly $400K-$600K from
+            10-20 investors
           </li>
           <li>
-            <strong>Active search:</strong> 18&ndash;24 months (median 20
+            <strong>Active search:</strong> 18-24 months (median 20
             months per the 2024 Stanford study; earlier vintages averaged 17
-            months during the compressed 2020&ndash;2021 period)
+            months during the compressed 2020-2021 period)
           </li>
           <li>
-            <strong>Deal execution (LOI to close):</strong> 3&ndash;6 months,
+            <strong>Deal execution (LOI to close):</strong> 3-6 months,
             including due diligence, financing, and definitive agreement
             negotiation
           </li>
           <li>
-            <strong>Operations as CEO:</strong> 4&ndash;7 years (median
-            approximately 5&ndash;6 years for funds that have reached exit)
+            <strong>Operations as CEO:</strong> 4-7 years (median
+            approximately 5-6 years for funds that have reached exit)
           </li>
           <li>
             <strong>Exit:</strong> Typically occurs in years five through seven
             from acquisition
           </li>
           <li>
-            <strong>Total raise-to-exit cycle:</strong> 7&ndash;10+ years
+            <strong>Total raise-to-exit cycle:</strong> 7-10+ years
           </li>
         </ul>
         <p>
@@ -80,30 +80,30 @@ export default function HowLongSearchFundArticle() {
 
         {/* ---------------------------------------------------------- */}
         <h2 className={h2Class}>
-          Phase 1: Fundraising &mdash; two to five months
+          Phase 1: Fundraising, two to five months
         </h2>
         <p>
           For a traditional search fund, the fundraise is the first real test
           of execution speed. Stanford&rsquo;s 2024 data shows the median
           initial capital raise reached $500K for the first time among
-          2022&ndash;2023 vintage funds. Principals in the US and Canada
+          2022-2023 vintage funds. Principals in the US and Canada
           typically secure commitments from around 15 investors, though that
           number can range from 8 to 25 depending on check size and fund
           structure.
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Preparation (weeks 1&ndash;4):</strong> Draft your{" "}
+            <strong>Preparation (weeks 1-4):</strong> Draft your{" "}
             <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">
               fundraising deck
             </Link>{" "}
             and Private Placement Memorandum (PPM). Define your search
-            thesis &mdash; the industries, geographies, and company
+            thesis, the industries, geographies, and company
             characteristics you intend to target. Form the legal entity
             (usually a Delaware LLC or LP).
           </li>
           <li>
-            <strong>Investor outreach (weeks 3&ndash;12):</strong> Meet with
+            <strong>Investor outreach (weeks 3-12):</strong> Meet with
             30 to 60 prospective investors. The best-prepared searchers
             close their round in as few as eight weeks. Others take four or
             more months, particularly if they lack warm introductions to
@@ -113,7 +113,7 @@ export default function HowLongSearchFundArticle() {
             </Link>.
           </li>
           <li>
-            <strong>Legal closing (weeks 10&ndash;16):</strong> Finalize
+            <strong>Legal closing (weeks 10-16):</strong> Finalize
             subscription agreements, fund the escrow account, and formally
             launch the search. From this point forward the clock on your
             search capital begins ticking.
@@ -130,20 +130,20 @@ export default function HowLongSearchFundArticle() {
 
         {/* ---------------------------------------------------------- */}
         <h2 className={h2Class}>
-          Phase 2: The active search &mdash; eighteen to twenty-four months
+          Phase 2: The active search, eighteen to twenty-four months
         </h2>
         <p>
           The search phase is the longest and most uncertain part of the
           journey. According to the 2024 Stanford study, the average search
           length returned to a more typical 20 months after briefly shortening
-          to 17 months during the 2020&ndash;2021 period when deal velocity
+          to 17 months during the 2020-2021 period when deal velocity
           was unusually high. Roughly 63% of traditional searchers who have
           concluded their search ultimately acquired a company, which means
-          37% did not &mdash; a sobering statistic that highlights why
+          37% did not, a sobering statistic that highlights why
           timeline management matters.
         </p>
 
-        <h3 className={h3Class}>Months 1&ndash;3: Infrastructure and calibration</h3>
+        <h3 className={h3Class}>Months 1-3: Infrastructure and calibration</h3>
         <p>
           The first quarter is about building your deal machine. Set up a CRM
           to track every lead, establish{" "}
@@ -155,13 +155,13 @@ export default function HowLongSearchFundArticle() {
             proprietary and intermediated deal-sourcing channels
           </Link>{" "}
           simultaneously. During this period you will review your first wave of
-          opportunities &mdash; often 50 to 100 teasers per month &mdash; and
+          opportunities, often 50 to 100 teasers per month, and
           start calibrating your screening criteria. Almost no one signs a
           Letter of Intent in the first three months, so treat this as a
           learning phase rather than a deal-closing phase.
         </p>
 
-        <h3 className={h3Class}>Months 4&ndash;12: Full-speed sourcing and first LOIs</h3>
+        <h3 className={h3Class}>Months 4-12: Full-speed sourcing and first LOIs</h3>
         <p>
           By month four your sourcing engine should be running at full capacity.
           Experienced searchers aim to review 80 to 120 teasers monthly, conduct
@@ -171,29 +171,29 @@ export default function HowLongSearchFundArticle() {
           </Link>{" "}
           between months six and nine. The 2024 Stanford data notes that
           searchers who had not signed a single LOI by month twelve were
-          significantly less likely to ever complete an acquisition &mdash;
+          significantly less likely to ever complete an acquisition , 
           nearly 40% of that group ultimately wound down without a deal.
           This is the critical window where deal activity must accelerate.
         </p>
 
-        <h3 className={h3Class}>Months 12&ndash;20: Exclusivity, due diligence, and pivots</h3>
+        <h3 className={h3Class}>Months 12-20: Exclusivity, due diligence, and pivots</h3>
         <p>
           By the second year, most successful searchers have entered
           exclusivity on at least one target. Some will complete{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
           </Link>{" "}
-          and close during this window. Others will see a deal fall apart &mdash;
+          and close during this window. Others will see a deal fall apart , 
           a failed{" "}
           <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
             Quality of Earnings analysis
           </Link>, a financing gap, or irreconcilable negotiation differences
-          &mdash; and return to sourcing with sharper criteria. Broken deals
+          and return to sourcing with sharper criteria. Broken deals
           are common; the key is having enough pipeline depth that one failure
           does not end the search.
         </p>
 
-        <h3 className={h3Class}>Months 20&ndash;24+: The extension decision</h3>
+        <h3 className={h3Class}>Months 20-24+: The extension decision</h3>
         <p>
           Traditional search funds typically budget search capital for a
           two-year window. If you reach month twenty without a signed purchase
@@ -205,7 +205,7 @@ export default function HowLongSearchFundArticle() {
 
         {/* ---------------------------------------------------------- */}
         <h2 className={h2Class}>
-          Phase 3: Deal execution &mdash; three to six months from LOI to
+          Phase 3: Deal execution, three to six months from LOI to
           close
         </h2>
         <p>
@@ -216,34 +216,34 @@ export default function HowLongSearchFundArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Quality of Earnings report:</strong> 4&ndash;6 weeks.
+            <strong>Quality of Earnings report:</strong> 4-6 weeks.
             This is often the longest single workstream and the one most
             likely to surface deal-breaking issues.
           </li>
           <li>
-            <strong>Legal due diligence:</strong> 3&ndash;4 weeks. Review
+            <strong>Legal due diligence:</strong> 3-4 weeks. Review
             of contracts, litigation, intellectual property, and regulatory
             compliance.
           </li>
           <li>
-            <strong>Operational due diligence:</strong> 2&ndash;3 weeks.
+            <strong>Operational due diligence:</strong> 2-3 weeks.
             Customer interviews, employee assessments, and facility reviews.
           </li>
           <li>
-            <strong>Acquisition financing:</strong> 4&ndash;8 weeks.
+            <strong>Acquisition financing:</strong> 4-8 weeks.
             Traditional funds raise acquisition equity from existing and
             new investors (the 2024 Stanford study shows a median of 16
-            investors per acquisition &mdash; 12 original search investors
+            investors per acquisition, 12 original search investors
             plus 4 new). Debt financing through SBA 7(a) loans or
             conventional lenders runs concurrently.
           </li>
           <li>
-            <strong>Definitive purchase agreement:</strong> 2&ndash;4 weeks
+            <strong>Definitive purchase agreement:</strong> 2-4 weeks
             of negotiation on representations, warranties, indemnities,
             and earnout structures.
           </li>
           <li>
-            <strong>Final closing:</strong> 1&ndash;2 weeks for document
+            <strong>Final closing:</strong> 1-2 weeks for document
             execution, fund transfers, and legal filing.
           </li>
         </ul>
@@ -257,7 +257,7 @@ export default function HowLongSearchFundArticle() {
 
         {/* ---------------------------------------------------------- */}
         <h2 className={h2Class}>
-          Phase 4: Operations and exit &mdash; four to seven years
+          Phase 4: Operations and exit, four to seven years
         </h2>
         <p>
           After closing, you become the CEO. The operating phase is where
@@ -282,24 +282,24 @@ export default function HowLongSearchFundArticle() {
             compensation in the 2024 Stanford study was $190K at this stage.
           </li>
           <li>
-            <strong>Years 2&ndash;3:</strong> Execute growth initiatives
-            &mdash; pricing optimization, new customer channels, geographic
+            <strong>Years 2-3:</strong> Execute growth initiatives
+            pricing optimization, new customer channels, geographic
             expansion, and potentially a first add-on acquisition. This is
             when EBITDA growth compounds most aggressively.
           </li>
           <li>
-            <strong>Years 4&ndash;5:</strong> Begin exit preparation at least
+            <strong>Years 4-5:</strong> Begin exit preparation at least
             18 months before your target exit date. Professionalize financial
             reporting, reduce key-person dependencies, and build a narrative
             that appeals to strategic or financial buyers.
           </li>
           <li>
-            <strong>Years 5&ndash;7:</strong> Execute the{" "}
+            <strong>Years 5-7:</strong> Execute the{" "}
             <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
               exit
             </Link>. The 2024 Stanford study reported that the IRR for exited
             funds reached 42.9%, driven in part by several high-return exits
-            in 2022&ndash;2023.
+            in 2022-2023.
           </li>
         </ol>
         <p>
@@ -322,8 +322,8 @@ export default function HowLongSearchFundArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Thesis specificity:</strong> A very narrow focus &mdash;
-            one sub-industry in one metro area &mdash; limits the universe
+            <strong>Thesis specificity:</strong> A very narrow focus , 
+            one sub-industry in one metro area, limits the universe
             of potential targets and extends the search. Broadening your
             criteria to adjacent industries or wider geographies typically
             shortens the timeline at the cost of operating with less
@@ -332,8 +332,8 @@ export default function HowLongSearchFundArticle() {
           <li>
             <strong>Deal-sourcing intensity:</strong> Full-time, disciplined
             searchers who treat deal flow as a numbers game (100+
-            teasers reviewed per month, 5&ndash;10 management meetings,
-            2&ndash;3 LOIs per quarter) close faster than those who are
+            teasers reviewed per month, 5-10 management meetings,
+            2-3 LOIs per quarter) close faster than those who are
             sporadic or overly selective early on.
           </li>
           <li>
@@ -347,7 +347,7 @@ export default function HowLongSearchFundArticle() {
           </li>
           <li>
             <strong>Market conditions:</strong> During seller-friendly
-            markets (2020&ndash;2021, for instance), more businesses come
+            markets (2020-2021, for instance), more businesses come
             to market and deals move faster. In cautious markets, deal
             flow slows and sellers take longer to commit.
           </li>
@@ -409,8 +409,8 @@ export default function HowLongSearchFundArticle() {
           </li>
           <li>
             <strong>Deal execution speed:</strong> Self-funded acquisitions
-            tend to close faster &mdash; as little as two to three months
-            from LOI to close &mdash; because they involve fewer investors,
+            tend to close faster, as little as two to three months
+            from LOI to close, because they involve fewer investors,
             smaller deal sizes, and simpler capital structures. Traditional
             deals with 16 or more investors and layered financing can take
             four to six months.
@@ -418,7 +418,7 @@ export default function HowLongSearchFundArticle() {
           <li>
             <strong>Operating and exit horizon:</strong> Traditional
             investors expect a four-to-seven-year exit window targeting
-            2&ndash;3x MOIC or higher. Self-funded operators can hold
+            2-3x MOIC or higher. Self-funded operators can hold
             indefinitely, choosing between long-term distributions and a
             strategic exit when market conditions are favorable.
           </li>
@@ -438,7 +438,7 @@ export default function HowLongSearchFundArticle() {
         <p>
           This is the most emotionally charged decision in the search fund
           lifecycle. Stanford data shows that 37% of concluded traditional
-          searches ended without an acquisition &mdash; a statistic driven
+          searches ended without an acquisition, a statistic driven
           largely by searchers who ran out of capital, conviction, or both.
           Here is a framework for approaching the extension decision:
         </p>
@@ -560,7 +560,7 @@ export default function HowLongSearchFundArticle() {
           The 2024 Stanford GSB Search Fund Study reports a median of 20
           months from the start of the active search to a completed
           acquisition. This figure returned to its historical norm after
-          briefly compressing to 17 months during the 2020&ndash;2021 period
+          briefly compressing to 17 months during the 2020-2021 period
           of elevated deal activity. Including the two-to-five-month
           fundraise, total elapsed time from inception to acquisition is
           typically 22 to 25 months for a traditional search fund.
@@ -575,8 +575,8 @@ export default function HowLongSearchFundArticle() {
           pool of search capital being depleted. In practice, many
           self-funded searchers take 12 to 36 months to close a deal,
           depending on whether they search full-time or part-time. The deal
-          execution phase is often shorter &mdash; two to three months from
-          LOI to close &mdash; because self-funded acquisitions involve
+          execution phase is often shorter, two to three months from
+          LOI to close, because self-funded acquisitions involve
           fewer investors, smaller transaction sizes, and simpler capital
           structures. The tradeoff is that part-time searching reduces
           weekly deal flow and extends the calendar timeline.
@@ -606,8 +606,8 @@ export default function HowLongSearchFundArticle() {
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             multiple sourcing channels
           </Link>{" "}
-          &mdash; proprietary outreach, broker relationships, and online
-          platforms &mdash; from day one; (3) pre-assemble your diligence
+          proprietary outreach, broker relationships, and online
+          platforms, from day one; (3) pre-assemble your diligence
           and financing teams so that you can move from signed LOI to
           close in three months rather than six; and (4) maintain a broad
           enough thesis that you are not dependent on a single industry
@@ -620,7 +620,7 @@ export default function HowLongSearchFundArticle() {
         <p>
           Traditional search funds budget capital for roughly 24 months of
           search activity. If you have not closed a deal by that point,
-          you can request an extension from your investors &mdash; typically
+          you can request an extension from your investors, typically
           three to six additional months, often at a reduced or zero salary.
           Whether investors approve depends on the quality of your pipeline
           and your track record of disciplined execution during the search.
@@ -638,11 +638,11 @@ export default function HowLongSearchFundArticle() {
         {/* ---------------------------------------------------------- */}
         <p>
           The search fund timeline rewards patience paired with relentless
-          execution. Every phase &mdash; fundraising, searching, closing,
-          and operating &mdash; has a predictable range grounded in decades
+          execution. Every phase, fundraising, searching, closing,
+          and operating, has a predictable range grounded in decades
           of data. Use that data to set realistic expectations, communicate
           transparently with your investors, and make high-stakes decisions
-          &mdash; especially the extension-versus-wind-down call &mdash; with
+         , especially the extension-versus-wind-down call, with
           clarity rather than emotion. For the complete financial picture
           behind these timelines, explore our{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">

@@ -528,12 +528,12 @@ export default function SoloVsPartneredSearchArticle() {
 
       <h3 className={h3Class}>Do partnered search funds have better returns than solo?</h3>
       <p className={bodyClass}>
-        On an enterprise level, solo and partnered search funds generate similar returns to investors&mdash;approximately 3.3&ndash;3.8x cash-on-cash over five-to-seven-year hold periods. However, because solo searchers retain roughly twice the equity percentage (25&ndash;30% vs. 12.5&ndash;15% each), their per-person absolute dollar returns are significantly higher. The data on whether partnerships drive enough incremental business performance to offset the dilution is inconclusive.
+        On an enterprise level, solo and partnered search funds generate similar returns to investors, approximately 3.3-3.8x cash-on-cash over five-to-seven-year hold periods. However, because solo searchers retain roughly twice the equity percentage (25-30% vs. 12.5-15% each), their per-person absolute dollar returns are significantly higher. The data on whether partnerships drive enough incremental business performance to offset the dilution is inconclusive.
       </p>
 
       <h3 className={h3Class}>How should search fund partners split roles after acquisition?</h3>
       <p className={bodyClass}>
-        The most successful post-acquisition partnerships designate clear roles rather than attempting co-CEO arrangements. Common structures include CEO/COO, CEO/CFO, or President-External/President-Internal. Decision rights for key areas&mdash;capital allocation, hiring, strategy&mdash;should be clearly defined in the partnership agreement before acquisition. Partners who maintain ambiguous role definitions often experience friction within the first 12 months of operations.
+        The most successful post-acquisition partnerships designate clear roles rather than attempting co-CEO arrangements. Common structures include CEO/COO, CEO/CFO, or President-External/President-Internal. Decision rights for key areas, capital allocation, hiring, strategy, should be clearly defined in the partnership agreement before acquisition. Partners who maintain ambiguous role definitions often experience friction within the first 12 months of operations.
       </p>
 
       <h3 className={h3Class}>What should a search fund partnership agreement include?</h3>
@@ -543,7 +543,7 @@ export default function SoloVsPartneredSearchArticle() {
 
       <h3 className={h3Class}>Can you start solo and add a partner later?</h3>
       <p className={bodyClass}>
-        Yes. The &ldquo;solo search with operating partner&rdquo; hybrid model involves conducting the search alone and then recruiting a complementary executive post-acquisition. The operating partner typically receives 5&ndash;10% equity plus competitive compensation&mdash;less than a full search partner would receive, but appropriate given the lower risk of joining an already-acquired business. This model preserves more equity during the search phase while still bringing leadership depth for the operating phase.
+        Yes. The &ldquo;solo search with operating partner&rdquo; hybrid model involves conducting the search alone and then recruiting a complementary executive post-acquisition. The operating partner typically receives 5-10% equity plus competitive compensation, less than a full search partner would receive, but appropriate given the lower risk of joining an already-acquired business. This model preserves more equity during the search phase while still bringing leadership depth for the operating phase.
       </p>
 
       <p className={bodyClass}>

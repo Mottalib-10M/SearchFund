@@ -29,21 +29,21 @@ export default function AcquiringDentalPracticeArticle() {
           <li><strong>Recession-resistant:</strong> Dental spending is relatively stable through economic cycles. People continue routine dental care</li>
           <li><strong>Massive fragmentation:</strong> 200,000+ practices, 80% are solo or small group practices. The Association of Dental Support Organizations (ADSO) estimates DSOs represent only about 10% of the market</li>
           <li><strong>Succession wave:</strong> ADA Health Policy Institute data shows the average dentist age is 55+. Thousands of practices will need new ownership in the next decade</li>
-          <li><strong>High margins:</strong> Well-run practices generate 25&ndash;40% EBITDA margins</li>
+          <li><strong>High margins:</strong> Well-run practices generate 25-40% EBITDA margins</li>
         </ul>
 
         <h2 className={h2Class}>The DSO model</h2>
         <ul className={ulClass}>
           <li><strong>What is a DSO?</strong> A Dental Service Organization provides business management services (billing, HR, marketing, procurement) to dental practices while the dentist retains clinical autonomy</li>
           <li><strong>Why DSO?</strong> Most states require a licensed dentist to own a dental practice. The DSO structure allows a non-dentist investor/operator to manage the business side</li>
-          <li><strong>Structure:</strong> The DSO enters a management services agreement (MSA) with the clinical entity. The DSO receives a management fee (typically 15&ndash;25% of collections)</li>
+          <li><strong>Structure:</strong> The DSO enters a management services agreement (MSA) with the clinical entity. The DSO receives a management fee (typically 15-25% of collections)</li>
           <li><strong>Regulatory note:</strong> DSO regulations vary by state. Some states restrict corporate practice of dentistry. Work with healthcare attorneys</li>
         </ul>
 
         <h2 className={h2Class}>Valuation</h2>
         <ul className={ulClass}>
-          <li><strong>Single practice:</strong> 4&ndash;7x EBITDA (or 60&ndash;80% of annual collections for practices with typical margins)</li>
-          <li><strong>Multi-location DSO:</strong> 8&ndash;12x+ EBITDA for platforms with 5+ locations and proven management</li>
+          <li><strong>Single practice:</strong> 4-7x EBITDA (or 60-80% of annual collections for practices with typical margins)</li>
+          <li><strong>Multi-location DSO:</strong> 8-12x+ EBITDA for platforms with 5+ locations and proven management</li>
           <li><strong>Premium factors:</strong> Multiple dentists (not owner-dependent), insurance mix (more fee-for-service = more valuable), modern equipment, strong hygiene program</li>
           <li><strong>Discount factors:</strong> Single-dentist dependency, Medicaid-heavy payer mix, aging equipment, declining patient count</li>
         </ul>
@@ -54,8 +54,8 @@ export default function AcquiringDentalPracticeArticle() {
         <ul className={ulClass}>
           <li><strong>Collections vs. production:</strong> Healthy practices collect 95%+ of production. Low collection rates signal billing or insurance issues</li>
           <li><strong>Payer mix:</strong> Fee-for-service (highest revenue per procedure), PPO insurance, HMO/DHMO (lowest), Medicaid. More fee-for-service = better</li>
-          <li><strong>Hygiene production:</strong> Should be 30&ndash;35% of total production. Strong hygiene = healthy recurring revenue base</li>
-          <li><strong>New patient flow:</strong> 20&ndash;40 new patients/month per dentist is healthy. Declining new patients is a red flag</li>
+          <li><strong>Hygiene production:</strong> Should be 30-35% of total production. Strong hygiene = healthy recurring revenue base</li>
+          <li><strong>New patient flow:</strong> 20-40 new patients/month per dentist is healthy. Declining new patients is a red flag</li>
         </ul>
 
         <h3 className={h3Class}>Clinical assessment</h3>
@@ -78,7 +78,7 @@ export default function AcquiringDentalPracticeArticle() {
 
         <h2 className={h2Class}>Post-acquisition growth strategies</h2>
         <ul className={ulClass}>
-          <li><strong>Extended hours:</strong> Adding evening and Saturday appointments can increase production 15&ndash;25%</li>
+          <li><strong>Extended hours:</strong> Adding evening and Saturday appointments can increase production 15-25%</li>
           <li><strong>Fee schedule optimization:</strong> Many practices haven&rsquo;t raised fees in years.{" "}
             <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">
               Pricing optimization
@@ -86,12 +86,12 @@ export default function AcquiringDentalPracticeArticle() {
             is the fastest path to profit growth</li>
           <li><strong>Add specialties:</strong> Adding implants, Invisalign, or sedation dentistry to a general practice increases revenue per patient</li>
           <li><strong>Marketing:</strong> Digital marketing (Google Ads, SEO) for new patient acquisition. Most solo dentists underinvest in marketing</li>
-          <li><strong>DSO roll-up:</strong> Acquire 3&ndash;10 practices within a geography. Centralize billing, marketing, procurement, and HR for 20&ndash;30% cost savings</li>
+          <li><strong>DSO roll-up:</strong> Acquire 3-10 practices within a geography. Centralize billing, marketing, procurement, and HR for 20-30% cost savings</li>
         </ul>
 
         <h2 className={h2Class}>Dental-specific risks</h2>
         <ul className={ulClass}>
-          <li><strong>Dentist retention:</strong> If the selling dentist leaves and takes patients, revenue drops 30&ndash;50%. Retention agreements and non-competes are essential</li>
+          <li><strong>Dentist retention:</strong> If the selling dentist leaves and takes patients, revenue drops 30-50%. Retention agreements and non-competes are essential</li>
           <li><strong>Regulatory risk:</strong> State dental boards, HIPAA, OSHA, EPA regulations. Compliance failures can result in fines and practice closure</li>
           <li><strong>Insurance reimbursement:</strong> Insurance companies periodically reduce reimbursement rates. Medicaid-heavy practices are most vulnerable</li>
           <li><strong>Corporate practice restrictions:</strong> State laws may limit non-dentist ownership. DSO structure must comply with local regulations</li>
@@ -104,9 +104,9 @@ export default function AcquiringDentalPracticeArticle() {
           leasehold improvements, and goodwill. The DSO model adds a layer of
           complexity: the clinical entity (owned by a licensed dentist) is
           separate from the management company (the DSO), which can be owned by
-          non-dentists. Typical deal structures include 60&ndash;70% at
-          closing, 15&ndash;25% in seller financing over 3&ndash;5 years, and
-          10&ndash;20% in a retention-based earnout tied to patient retention
+          non-dentists. Typical deal structures include 60-70% at
+          closing, 15-25% in seller financing over 3-5 years, and
+          10-20% in a retention-based earnout tied to patient retention
           and production milestones at 12 and 24 months.
         </p>
         <p>
@@ -127,13 +127,13 @@ export default function AcquiringDentalPracticeArticle() {
           How much is a dental practice worth?
         </h3>
         <p>
-          Single dental practices typically sell for 4&ndash;7x EBITDA, or
-          60&ndash;80% of annual collections for practices with typical
+          Single dental practices typically sell for 4-7x EBITDA, or
+          60-80% of annual collections for practices with typical
           margins. Multi-location DSO platforms with 5+ locations and proven
-          management command 8&ndash;12x EBITDA or higher. Premium factors
+          management command 8-12x EBITDA or higher. Premium factors
           include multiple dentists (reduces key-person risk), a high
           fee-for-service payer mix, modern equipment, and a strong hygiene
-          program producing 30&ndash;35% of total production.
+          program producing 30-35% of total production.
         </p>
 
         <h3 className={h3Class}>
@@ -145,7 +145,7 @@ export default function AcquiringDentalPracticeArticle() {
           primary workaround: a management services agreement allows a
           non-dentist operator to run the business side while a licensed
           dentist maintains clinical ownership and autonomy. DSO regulations
-          vary significantly by state &mdash; some are more permissive than
+          vary significantly by state, some are more permissive than
           others. Engaging a healthcare attorney with DSO experience is
           essential before structuring the deal.
         </p>
@@ -155,16 +155,16 @@ export default function AcquiringDentalPracticeArticle() {
         </h3>
         <p>
           A Dental Service Organization provides business management services
-          &mdash; billing, HR, marketing, procurement &mdash; to dental
+         , billing, HR, marketing, procurement, to dental
           practices while dentists retain full clinical autonomy. The DSO
-          receives a management fee, typically 15&ndash;25% of collections.
+          receives a management fee, typically 15-25% of collections.
           This structure lets non-dentist investors and operators manage the
           business side, making dental one of the few healthcare verticals
           accessible to search fund entrepreneurs. The DSO model also unlocks{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build strategies
           </Link>{" "}
-          where centralized management creates 20&ndash;30% cost savings
+          where centralized management creates 20-30% cost savings
           across multiple locations.
         </p>
 

@@ -13,7 +13,7 @@ export default function PharmacyAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Community/retail pharmacy:</strong> Traditional prescription filling + OTC retail. Competing directly with chains on price. Challenging margins.</li>
-          <li><strong>Compounding pharmacy:</strong> Custom-made medications. Higher margins (40&ndash;60% gross), specialized expertise, and less chain competition.</li>
+          <li><strong>Compounding pharmacy:</strong> Custom-made medications. Higher margins (40-60% gross), specialized expertise, and less chain competition.</li>
           <li><strong>Long-term care (LTC):</strong> Serving nursing homes, assisted living, and group homes. Contract-based recurring revenue.</li>
           <li><strong>Specialty pharmacy:</strong> High-cost medications for complex conditions (oncology, autoimmune, HIV). Very high revenue per script.</li>
           <li><strong>340B pharmacy:</strong> Serving federally qualified health centers. Discounted drug purchasing creates higher margins.</li>
@@ -27,7 +27,7 @@ export default function PharmacyAcquisitionArticle() {
           <li><strong>Essential service:</strong> People always need medications. Prescription volume is largely recession-proof.</li>
           <li><strong>Recurring revenue:</strong> Chronic medication refills create monthly recurring revenue per patient</li>
           <li><strong>Specialty niches:</strong> Compounding, LTC, and specialty pharmacy offer significantly higher margins than retail</li>
-          <li><strong>Aging population:</strong> 55+ age group takes 2&ndash;3x more prescriptions per capita. Demographics drive volume growth.</li>
+          <li><strong>Aging population:</strong> 55+ age group takes 2-3x more prescriptions per capita. Demographics drive volume growth.</li>
           <li><strong>Community ties:</strong> Independent pharmacies have deep patient loyalty and community trust</li>
           <li><strong>Clinical services expansion:</strong> Pharmacists can now provide more clinical services (immunizations, testing, prescribing in some states)</li>
         </ul>
@@ -39,7 +39,7 @@ export default function PharmacyAcquisitionArticle() {
           <li><strong>Prescription volume:</strong> Scripts per day (target 150+ for community pharmacy), trend over 24 months, and new vs. refill ratio</li>
           <li><strong>PBM contracts:</strong> Reimbursement rates from major PBMs (Express Scripts, CVS Caremark, OptumRx). DIR fees and clawbacks.</li>
           <li><strong>Revenue mix:</strong> Prescription vs. OTC vs. clinical services vs. specialty. Higher specialty/compounding percentage = better margins.</li>
-          <li><strong>Gross margin by category:</strong> Generic prescriptions (60&ndash;80% gross margin), brand (10&ndash;20%), compounding (40&ndash;60%).</li>
+          <li><strong>Gross margin by category:</strong> Generic prescriptions (60-80% gross margin), brand (10-20%), compounding (40-60%).</li>
           <li><strong>Regulatory compliance:</strong> State pharmacy license, DEA registration, controlled substance records, and any board actions</li>
           <li><strong>Pharmacist staffing:</strong> Licensed pharmacist-in-charge, pharmacist coverage, and technician certifications</li>
         </ul>
@@ -60,11 +60,11 @@ export default function PharmacyAcquisitionArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Standard retail pharmacy is challenging due to PBM pressure &mdash; focus on compounding, LTC, specialty, or clinical services</li>
-          <li>Generic prescription margins (60&ndash;80%) subsidize low brand margins (10&ndash;20%). Generic fill rate is critical.</li>
+          <li>Standard retail pharmacy is challenging due to PBM pressure, focus on compounding, LTC, specialty, or clinical services</li>
+          <li>Generic prescription margins (60-80%) subsidize low brand margins (10-20%). Generic fill rate is critical.</li>
           <li>PBM contract terms and DIR fee exposure are the most important financial due diligence items</li>
           <li>Clinical services (immunizations, MTM, testing) represent the fastest-growing revenue stream for independent pharmacies</li>
-          <li>Typical valuations: 2&ndash;4x annual SDE for community pharmacy; 4&ndash;7x EBITDA for compounding or specialty pharmacies</li>
+          <li>Typical valuations: 2-4x annual SDE for community pharmacy; 4-7x EBITDA for compounding or specialty pharmacies</li>
         </ul>
       </div>
 
@@ -80,12 +80,12 @@ export default function PharmacyAcquisitionArticle() {
       <div className={bodyClass}>
         <h3 className={h3Class}>What are the typical valuation multiples for independent pharmacies?</h3>
         <p>
-          Independent pharmacy valuations vary significantly by type and revenue mix. Community pharmacies focused primarily on basic prescription filling typically sell at 2&ndash;4x annual seller&rsquo;s discretionary earnings (SDE), while compounding pharmacies and specialty pharmacies command 4&ndash;7x EBITDA due to their higher margins and more defensible market positions. According to the National Community Pharmacists Association&rsquo;s annual NCPA Digest, the average independent pharmacy generates $4.5&ndash;5 million in annual revenue with net profit margins of 3&ndash;5% for retail-focused operations, rising to 10&ndash;15% for compounding and specialty pharmacies. The most valuable pharmacies combine multiple revenue streams &mdash; retail prescriptions, compounding, clinical services, and long-term care contracts &mdash; which reduces dependence on any single reimbursement model.
+          Independent pharmacy valuations vary significantly by type and revenue mix. Community pharmacies focused primarily on basic prescription filling typically sell at 2-4x annual seller&rsquo;s discretionary earnings (SDE), while compounding pharmacies and specialty pharmacies command 4-7x EBITDA due to their higher margins and more defensible market positions. According to the National Community Pharmacists Association&rsquo;s annual NCPA Digest, the average independent pharmacy generates $4.5-5 million in annual revenue with net profit margins of 3-5% for retail-focused operations, rising to 10-15% for compounding and specialty pharmacies. The most valuable pharmacies combine multiple revenue streams, retail prescriptions, compounding, clinical services, and long-term care contracts, which reduces dependence on any single reimbursement model.
         </p>
 
         <h3 className={h3Class}>How do PBM contracts affect pharmacy profitability?</h3>
         <p>
-          Pharmacy Benefit Manager (PBM) contracts are the single most important determinant of community pharmacy profitability. The three major PBMs &mdash; Express Scripts, CVS Caremark, and OptumRx &mdash; control approximately 80% of US prescription volume and set reimbursement rates that often fall below the pharmacy&rsquo;s acquisition cost for brand-name drugs. According to the Drug Channels Institute, DIR (Direct and Indirect Remuneration) fees &mdash; retroactive clawbacks from PBMs &mdash; reduced independent pharmacy margins by an average of $0.50&ndash;$1.50 per prescription in 2024. During due diligence, buyers must analyze PBM contract terms, reimbursement rates by drug category, DIR fee exposure, and the pharmacy&rsquo;s generic dispensing rate (higher is better, as generic margins of 60&ndash;80% subsidize low brand margins of 10&ndash;20%).
+          Pharmacy Benefit Manager (PBM) contracts are the single most important determinant of community pharmacy profitability. The three major PBMs, Express Scripts, CVS Caremark, and OptumRx, control approximately 80% of US prescription volume and set reimbursement rates that often fall below the pharmacy&rsquo;s acquisition cost for brand-name drugs. According to the Drug Channels Institute, DIR (Direct and Indirect Remuneration) fees, retroactive clawbacks from PBMs, reduced independent pharmacy margins by an average of $0.50-$1.50 per prescription in 2024. During due diligence, buyers must analyze PBM contract terms, reimbursement rates by drug category, DIR fee exposure, and the pharmacy&rsquo;s generic dispensing rate (higher is better, as generic margins of 60-80% subsidize low brand margins of 10-20%).
         </p>
 
         <h3 className={h3Class}>Do you need to be a licensed pharmacist to acquire a pharmacy?</h3>

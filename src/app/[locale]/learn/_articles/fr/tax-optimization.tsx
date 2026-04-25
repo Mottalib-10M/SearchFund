@@ -12,7 +12,7 @@ export default function TaxOptimizationFR() {
           domaine à la fois complexe et riche en opportunités. Pour un
           searcher, la maîtrise des mécanismes fiscaux applicables à
           l&apos;acquisition, à la détention et à la cession de PME constitue un
-          avantage compétitif décisif &mdash; tant pour optimiser le coût
+          avantage compétitif décisif, tant pour optimiser le coût
           d&apos;entrée que pour maximiser le rendement net pour les investisseurs
           lors de la sortie.
         </p>
@@ -331,7 +331,7 @@ export default function TaxOptimizationFR() {
           3&nbsp;000&nbsp;000&nbsp;&euro;, les droits d&apos;enregistrement
           s&apos;élèveront à seulement 3&nbsp;000&nbsp;&euro;. La même opération
           sur une SARL coûterait environ 89&nbsp;310&nbsp;&euro; en droits
-          d&apos;enregistrement &mdash; une différence qui justifie parfois de
+          d&apos;enregistrement, une différence qui justifie parfois de
           transformer la cible en SAS avant la cession.
         </p>
       </div>

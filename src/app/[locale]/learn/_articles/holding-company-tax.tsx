@@ -29,7 +29,7 @@ export default function HoldingCompanyTaxArticle() {
           <li>Through tax consolidation, the holding company&apos;s interest expense offsets the operating company&apos;s taxable income</li>
           <li>Net effect: the acquisition debt interest reduces the group&apos;s total tax bill</li>
         </ol>
-        <p><strong>Limitation:</strong> Most jurisdictions cap interest deductibility at 30% of EBITDA (EU ATAD directive implementation, transposed from OECD BEPS Action 4 recommendations). Some have additional thin capitalization rules. The OECD&rsquo;s 2024 report on interest limitation effectiveness found that the 30% EBITDA cap reduced aggressive debt-shifting by an estimated 25&ndash;30% across adopting jurisdictions.</p>
+        <p><strong>Limitation:</strong> Most jurisdictions cap interest deductibility at 30% of EBITDA (EU ATAD directive implementation, transposed from OECD BEPS Action 4 recommendations). Some have additional thin capitalization rules. The OECD&rsquo;s 2024 report on interest limitation effectiveness found that the 30% EBITDA cap reduced aggressive debt-shifting by an estimated 25-30% across adopting jurisdictions.</p>
       </div>
 
       <h2 className={h2Class}>Participation Exemptions by Country</h2>
@@ -39,7 +39,7 @@ export default function HoldingCompanyTaxArticle() {
           <li><strong>Luxembourg:</strong> 100% exemption (10%+ ownership or &euro;1.2M+ cost)</li>
           <li><strong>France:</strong> 95% exemption on capital gains; dividends 95% exempt (5% taxed as expenses)</li>
           <li><strong>Germany:</strong> 95% of dividends and capital gains exempt (5% taxed as non-deductible expenses)</li>
-          <li><strong>UK:</strong> Substantial Shareholdings Exemption (SSE) &mdash; 100% on capital gains for qualifying disposals</li>
+          <li><strong>UK:</strong> Substantial Shareholdings Exemption (SSE), 100% on capital gains for qualifying disposals</li>
           <li><strong>Italy:</strong> 95% exemption on capital gains (PEX); 95% exemption on dividends</li>
           <li><strong>Spain:</strong> 95% exemption on dividends and capital gains (5%+ ownership, 1+ year holding)</li>
           <li><strong>Belgium:</strong> 100% exemption on dividends (95% before recent reform); 100% capital gains exemption</li>
@@ -111,9 +111,9 @@ export default function HoldingCompanyTaxArticle() {
           The primary saving comes from interest deductibility through tax
           consolidation. For a typical &euro;3M acquisition financed with
           &euro;2M in debt at 5% interest (&euro;100K annual interest), tax
-          consolidation saves approximately &euro;25K&ndash;&euro;33K per year
-          (at a 25&ndash;33% corporate tax rate). Over a seven-year holding
-          period, cumulative savings can reach &euro;150K&ndash;&euro;200K,
+          consolidation saves approximately &euro;25K-&euro;33K per year
+          (at a 25-33% corporate tax rate). Over a seven-year holding
+          period, cumulative savings can reach &euro;150K-&euro;200K,
           significantly improving investor returns.
         </p>
       </div>
@@ -141,7 +141,7 @@ export default function HoldingCompanyTaxArticle() {
           Under the EU Anti-Tax Avoidance Directive (ATAD), net borrowing
           costs are deductible only up to 30% of the group&rsquo;s EBITDA.
           Most EU countries also provide a safe harbor (typically
-          &euro;1M&ndash;&euro;3M) below which the cap does not apply. For
+          &euro;1M-&euro;3M) below which the cap does not apply. For
           search fund acquisitions under &euro;5M, the safe harbor often
           covers the full interest expense, making the 30% cap irrelevant
           in practice.

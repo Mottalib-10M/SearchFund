@@ -15,9 +15,9 @@ export default function WhyInvestFR() {
           private equity et les marchés publics sur une base ajustée au risque.
           Pourtant, le modèle reste relativement méconnu en dehors d&apos;un cercle
           restreint d&apos;investisseurs institutionnels et individuels. Ce guide
-          s&apos;adresse aux investisseurs potentiels &mdash; family offices,
+          s&apos;adresse aux investisseurs potentiels, family offices,
           particuliers à haut patrimoine, ex-dirigeants, allocataires
-          institutionnels &mdash; et présente le profil de rendement, les
+          institutionnels, et présente le profil de rendement, les
           caractéristiques de risque, la construction de portefeuille et les
           avantages fiscaux spécifiques au contexte français.
         </p>
@@ -43,7 +43,7 @@ export default function WhyInvestFR() {
             totales et les dépréciations.
           </li>
           <li>
-            <strong>Multiple agrégé du capital investi de 4,5x</strong> &mdash;
+            <strong>Multiple agrégé du capital investi de 4,5x</strong> , 
             signifiant que les investisseurs ont récupéré en moyenne
             4,50&nbsp;&euro; pour chaque euro investi.
           </li>

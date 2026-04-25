@@ -78,7 +78,7 @@ export default function SearcherCompensationFR() {
             assimilé salarié ne cotise pas à l&apos;assurance chômage (sauf adhésion
             volontaire à la GSC ou à APPI). En cas d&apos;échec de la recherche, le
             searcher ne bénéficie d&apos;aucun filet de sécurité au titre du chômage
-            &mdash; un risque à intégrer dans la décision de se lancer.
+            un risque à intégrer dans la décision de se lancer.
           </li>
         </ul>
 
@@ -106,8 +106,8 @@ export default function SearcherCompensationFR() {
 
         <h3 className={h3Class}>Assimilé salarié&nbsp;: le Président de SAS</h3>
         <p>
-          Dans une SAS &mdash; la forme juridique la plus courante pour les
-          search funds français &mdash; le Président (et le Directeur Général le
+          Dans une SAS, la forme juridique la plus courante pour les
+          search funds français, le Président (et le Directeur Général le
           cas échéant) relève du régime des assimilés salariés. Ce statut offre
           une protection sociale complète mais entraîne un coût global élevé.
         </p>
@@ -214,7 +214,7 @@ export default function SearcherCompensationFR() {
           </li>
           <li>
             <strong>Avantages en nature&nbsp;:</strong> Véhicule de fonction,
-            téléphone, logement &mdash; ces avantages sont soumis à cotisations
+            téléphone, logement, ces avantages sont soumis à cotisations
             sociales et à l&apos;impôt sur le revenu (IR) mais permettent de compléter
             la rémunération de manière fiscalement efficiente dans certaines
             configurations.
@@ -348,7 +348,7 @@ export default function SearcherCompensationFR() {
           private equity, le management package combine actions ordinaires, actions
           de préférence, obligations convertibles et instruments dérivés. La
           structuration doit être validée par un expert indépendant pour éviter la
-          requalification en rémunération &mdash; un risque contentieux majeur
+          requalification en rémunération, un risque contentieux majeur
           depuis la jurisprudence du Conseil d&apos;État de 2021. Le conseil d&apos;un
           avocat fiscaliste est indispensable.
         </p>

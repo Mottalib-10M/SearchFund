@@ -9,8 +9,8 @@ export default function WithholdingTaxesCrossBorderArticle() {
 
       <div className={bodyClass}>
         <p>
-          Withholding taxes are one of the most consequential &mdash; and most
-          frequently underestimated &mdash; costs in cross-border acquisitions.
+          Withholding taxes are one of the most consequential, and most
+          frequently underestimated, costs in cross-border acquisitions.
           When a company in one country pays dividends, interest, or royalties
           to a recipient in another country, the source country typically
           requires the paying entity to &ldquo;withhold&rdquo; a percentage of
@@ -33,7 +33,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
           remits it to the tax authority, with the net amount going to the
           foreign recipient. The recipient may then be able to credit the
           withholding tax against its domestic tax liability, claim a refund
-          from the source country, or &mdash; in the worst case &mdash; bear
+          from the source country, or, in the worst case, bear
           the tax as a permanent cost.
         </p>
         <p>
@@ -51,9 +51,9 @@ export default function WithholdingTaxesCrossBorderArticle() {
           <li>
             <strong>Interest:</strong> Payments on debt owed by a subsidiary to
             a foreign lender or parent company. When acquisition financing is
-            structured through intercompany loans &mdash; a common technique in{" "}
+            structured through intercompany loans, a common technique in{" "}
             <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">international acquisition financing</Link>{" "}
-            &mdash; the interest payments may be subject to withholding in the
+            the interest payments may be subject to withholding in the
             subsidiary&apos;s country.
           </li>
           <li>
@@ -65,8 +65,8 @@ export default function WithholdingTaxesCrossBorderArticle() {
           </li>
         </ul>
         <p>
-          Statutory withholding rates &mdash; the rates that apply in the absence
-          of a tax treaty &mdash; can be significant. Many countries impose
+          Statutory withholding rates, the rates that apply in the absence
+          of a tax treaty, can be significant. Many countries impose
           domestic withholding rates of 15% to 30% on dividends, interest, and
           royalties paid to non-residents. Without treaty relief, these rates
           can dramatically reduce the after-tax return of a cross-border
@@ -77,7 +77,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
         <p>
           Bilateral tax treaties (also called double taxation agreements, or
           DTAs) are the primary mechanism for reducing withholding taxes. Most
-          industrialized countries have extensive treaty networks &mdash; the
+          industrialized countries have extensive treaty networks, the
           United States has treaties with over 65 countries, and most Western
           European countries have 70 to 100 treaties each. These treaties
           typically reduce withholding rates on dividends, interest, and
@@ -144,7 +144,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
         <h3 className={h3Class}>United Kingdom</h3>
         <p>
           The UK does not impose withholding tax on dividends paid to
-          non-residents &mdash; a significant advantage for search fund
+          non-residents, a significant advantage for search fund
           acquirers. The UK does impose withholding on interest payments (at a
           statutory rate of 20%), but this is typically reduced to 0% under
           most UK tax treaties and eliminated for payments between EU/EEA
@@ -211,8 +211,8 @@ export default function WithholdingTaxesCrossBorderArticle() {
         <p>
           Even without the MLI, most countries have domestic anti-avoidance
           rules that can deny treaty benefits to entities that lack genuine
-          economic substance. A holding company that exists only on paper &mdash;
-          with no employees, no office, no decision-making function &mdash; is
+          economic substance. A holding company that exists only on paper , 
+          with no employees, no office, no decision-making function, is
           vulnerable to being treated as a conduit and denied treaty benefits.
           For search fund acquirers, this means that any{" "}
           <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company structure</Link>{" "}
@@ -243,7 +243,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
           acquirer in the target&apos;s country. A PE arises when a foreign
           entity has a fixed place of business, a dependent agent, or
           significant economic activity in a country, and its creation triggers
-          full corporate tax liability in that country &mdash; not just
+          full corporate tax liability in that country, not just
           withholding on specific payments.
         </p>
         <ul className={ulClass}>
@@ -317,7 +317,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
 
         <h3 className={h3Class}>Hybrid instruments</h3>
         <p>
-          Some jurisdictions allow the use of hybrid instruments &mdash;
+          Some jurisdictions allow the use of hybrid instruments , 
           financial instruments that are treated as debt in one country and
           equity in another. For example, a preferred equity instrument that
           pays a fixed return might be treated as debt (with deductible interest
@@ -341,7 +341,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
             distribution from the subsidiary to the holding company (and from
             the holding company to investors) may trigger withholding. A 5%
             withholding rate on a EUR 500,000 annual dividend represents
-            EUR 25,000 per year in leakage &mdash; over a five-year hold
+            EUR 25,000 per year in leakage, over a five-year hold
             period, that is EUR 125,000 in reduced returns.
           </li>
           <li>
@@ -378,8 +378,8 @@ export default function WithholdingTaxesCrossBorderArticle() {
         <ol className={olClass}>
           <li>
             <strong>Map the payment flows:</strong> Before selecting a
-            structure, diagram all expected cross-border payments &mdash;
-            dividends, interest, management fees, royalties &mdash; and
+            structure, diagram all expected cross-border payments , 
+            dividends, interest, management fees, royalties, and
             identify which withholding taxes apply to each.
           </li>
           <li>
@@ -420,7 +420,7 @@ export default function WithholdingTaxesCrossBorderArticle() {
 
         <h3 className={h3Class}>How much can withholding taxes reduce cross-border acquisition returns?</h3>
         <p>
-          Withholding taxes can materially erode returns if not planned for during deal structuring. A 5% withholding rate on a EUR 500,000 annual dividend represents EUR 25,000 per year in leakage &mdash; over a five-year hold period, that is EUR 125,000 in reduced returns. At higher statutory rates (15&ndash;30% in many countries without treaty relief), the impact is even more severe. According to PwC&rsquo;s Worldwide Tax Summaries, the cumulative effect of dividend withholding, interest withholding on intercompany debt, and capital gains withholding on exit can reduce the IRR of a cross-border acquisition by 200&ndash;500 basis points compared to a domestic deal with equivalent operating performance. This is why selecting the right <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company jurisdiction</Link> with favorable treaty access is the single most important structural decision in cross-border acquisition planning.
+          Withholding taxes can materially erode returns if not planned for during deal structuring. A 5% withholding rate on a EUR 500,000 annual dividend represents EUR 25,000 per year in leakage, over a five-year hold period, that is EUR 125,000 in reduced returns. At higher statutory rates (15-30% in many countries without treaty relief), the impact is even more severe. According to PwC&rsquo;s Worldwide Tax Summaries, the cumulative effect of dividend withholding, interest withholding on intercompany debt, and capital gains withholding on exit can reduce the IRR of a cross-border acquisition by 200-500 basis points compared to a domestic deal with equivalent operating performance. This is why selecting the right <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company jurisdiction</Link> with favorable treaty access is the single most important structural decision in cross-border acquisition planning.
         </p>
 
         <h3 className={h3Class}>How do EU directives eliminate withholding taxes within Europe?</h3>
@@ -430,14 +430,14 @@ export default function WithholdingTaxesCrossBorderArticle() {
 
         <h3 className={h3Class}>What substance requirements must a holding company meet to access treaty benefits?</h3>
         <p>
-          Tax authorities worldwide increasingly require genuine economic substance before granting treaty benefits. A holding company must have real employees who perform genuine functions, directors who meet and make decisions in the jurisdiction, actual office space, and a commercial rationale beyond tax optimization. The OECD&rsquo;s Principal Purpose Test (PPT), adopted through the Multilateral Instrument by most treaty partners, allows countries to deny treaty benefits if obtaining those benefits was one of the principal purposes of an arrangement. The European Court of Justice&rsquo;s Danish beneficial ownership cases established that intermediate holding entities must demonstrate genuine economic ownership of income, not merely legal receipt. IBFD&rsquo;s analysis of substance requirements across jurisdictions shows that the minimum acceptable substance level has risen significantly since the BEPS reforms &mdash; a letterbox company with no employees and a registered agent is no longer sufficient to access favorable withholding rates in any major jurisdiction.
+          Tax authorities worldwide increasingly require genuine economic substance before granting treaty benefits. A holding company must have real employees who perform genuine functions, directors who meet and make decisions in the jurisdiction, actual office space, and a commercial rationale beyond tax optimization. The OECD&rsquo;s Principal Purpose Test (PPT), adopted through the Multilateral Instrument by most treaty partners, allows countries to deny treaty benefits if obtaining those benefits was one of the principal purposes of an arrangement. The European Court of Justice&rsquo;s Danish beneficial ownership cases established that intermediate holding entities must demonstrate genuine economic ownership of income, not merely legal receipt. IBFD&rsquo;s analysis of substance requirements across jurisdictions shows that the minimum acceptable substance level has risen significantly since the BEPS reforms, a letterbox company with no employees and a registered agent is no longer sufficient to access favorable withholding rates in any major jurisdiction.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>OECD, <em>Model Tax Convention on Income and on Capital</em> (2017, updated 2024)</li>
-          <li>OECD, <em>Action 6 &mdash; Prevention of Treaty Abuse (BEPS)</em> (2015)</li>
-          <li>OECD, <em>Action 4 &mdash; Limiting Base Erosion Involving Interest Deductions</em> (2015)</li>
+          <li>OECD, <em>Action 6, Prevention of Treaty Abuse (BEPS)</em> (2015)</li>
+          <li>OECD, <em>Action 4, Limiting Base Erosion Involving Interest Deductions</em> (2015)</li>
           <li>European Commission, <em>Parent-Subsidiary Directive (2011/96/EU)</em></li>
           <li>European Commission, <em>Interest and Royalties Directive (2003/49/EC)</em></li>
           <li>PwC, <em>Worldwide Tax Summaries</em> (annual publication)</li>

@@ -11,7 +11,7 @@ export default function CapitalStackExplainedArticle() {
 
       <div className={bodyClass}>
         <p>
-          Every SME acquisition is financed by a stack of capital layers &mdash;
+          Every SME acquisition is financed by a stack of capital layers , 
           each with different costs, risk profiles, repayment priorities, and
           control implications. Whether you are structuring a $1.5M SBA-backed
           deal or a $15M traditional search fund acquisition, the way you
@@ -19,8 +19,8 @@ export default function CapitalStackExplainedArticle() {
           equity, and common equity determines your returns, your downside
           exposure, and your operating flexibility for years after closing.
           According to Stanford&rsquo;s 2024 Search Fund Study, the median
-          search fund acquisition uses roughly 55&ndash;65% debt and
-          35&ndash;45% equity &mdash; but these ratios vary dramatically based
+          search fund acquisition uses roughly 55-65% debt and
+          35-45% equity, but these ratios vary dramatically based
           on deal size, business stability, and the acquirer&rsquo;s model.
           This guide breaks down every layer of the capital stack, walks
           through a $5M worked example, compares SBA-backed versus
@@ -35,33 +35,33 @@ export default function CapitalStackExplainedArticle() {
           fund a business acquisition, organized from the most senior (lowest
           risk, lowest return) to the most junior (highest risk, highest
           return). In a liquidation or sale, capital is repaid in strict
-          priority order &mdash; a concept known as the{" "}
+          priority order, a concept known as the{" "}
           <strong>waterfall</strong>. Senior secured debt gets paid first; common
           equity gets paid last. This priority structure determines the
-          risk&ndash;return tradeoff at every layer.
+          risk-return tradeoff at every layer.
         </p>
         <p>
           For SME acquisitions, the stack typically contains five layers:
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Senior secured debt</strong> &mdash; first claim on assets
+            <strong>Senior secured debt</strong>: first claim on assets
             and cash flow
           </li>
           <li>
-            <strong>Subordinated (mezzanine) debt</strong> &mdash; junior to
+            <strong>Subordinated (mezzanine) debt</strong>: junior to
             senior debt, senior to equity
           </li>
           <li>
-            <strong>Seller financing</strong> &mdash; deferred purchase price
+            <strong>Seller financing</strong>: deferred purchase price
             structured as a loan from the seller
           </li>
           <li>
-            <strong>Preferred equity</strong> &mdash; ownership with
+            <strong>Preferred equity</strong>: ownership with
             liquidation preference over common equity
           </li>
           <li>
-            <strong>Common equity</strong> &mdash; residual ownership that
+            <strong>Common equity</strong>: residual ownership that
             absorbs losses first and captures upside last
           </li>
         </ol>
@@ -87,11 +87,11 @@ export default function CapitalStackExplainedArticle() {
           inventory, and sometimes real estate), and lenders have the first
           claim on all cash flows and liquidation proceeds. Because of this
           protected position, senior debt carries the lowest interest rate in
-          the stack &mdash; typically 5&ndash;10% depending on the instrument
+          the stack, typically 5-10% depending on the instrument
           and borrower profile.
         </p>
         <p>
-          In SME acquisitions, senior debt usually accounts for 50&ndash;80% of
+          In SME acquisitions, senior debt usually accounts for 50-80% of
           the total purchase price. There are three primary sources:
         </p>
 
@@ -99,7 +99,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           The SBA 7(a) program is the dominant financing tool for U.S. small
           business acquisitions under $5M. The U.S. Small Business
-          Administration guarantees 75&ndash;85% of the loan amount to the
+          Administration guarantees 75-85% of the loan amount to the
           lender, enabling banks to extend credit to first-time buyers who
           lack a long commercial lending history. Key terms include:
         </p>
@@ -112,11 +112,11 @@ export default function CapitalStackExplainedArticle() {
             years if the transaction includes real estate
           </li>
           <li>
-            <strong>Interest rate:</strong> Prime + 2.25&ndash;2.75% (variable)
+            <strong>Interest rate:</strong> Prime + 2.25-2.75% (variable)
           </li>
           <li>
             <strong>Equity injection:</strong> Minimum 10% of total project
-            cost, though many lenders require 15&ndash;20%
+            cost, though many lenders require 15-20%
           </li>
           <li>
             <strong>Collateral:</strong> All business assets plus a personal
@@ -129,7 +129,7 @@ export default function CapitalStackExplainedArticle() {
         </ul>
         <p>
           The SBA&rsquo;s guarantee structure means buyers can acquire
-          profitable businesses with as little as 10% cash down &mdash; a
+          profitable businesses with as little as 10% cash down, a
           leverage ratio that would be impossible with conventional lending.
           For a detailed walkthrough, see our{" "}
           <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
@@ -145,23 +145,23 @@ export default function CapitalStackExplainedArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Amount:</strong> $500K&ndash;$50M+
+            <strong>Amount:</strong> $500K-$50M+
           </li>
           <li>
-            <strong>Term:</strong> 5&ndash;7 years (shorter than SBA)
+            <strong>Term:</strong> 5-7 years (shorter than SBA)
           </li>
           <li>
-            <strong>Interest rate:</strong> SOFR + 2&ndash;4%
+            <strong>Interest rate:</strong> SOFR + 2-4%
           </li>
           <li>
-            <strong>Use:</strong> Typically 2.5&ndash;3.5x EBITDA
+            <strong>Use:</strong> Typically 2.5-3.5x EBITDA
           </li>
           <li>
             <strong>Covenants:</strong> Financial covenants on leverage ratio,
             fixed charge coverage, and sometimes minimum EBITDA levels
           </li>
           <li>
-            <strong>Equity requirement:</strong> 25&ndash;40% of purchase price
+            <strong>Equity requirement:</strong> 25-40% of purchase price
           </li>
         </ul>
         <p>
@@ -175,19 +175,19 @@ export default function CapitalStackExplainedArticle() {
         <p>
           The private credit market reached $1.5 trillion in assets under
           management in 2024 and is projected to exceed $2.6 trillion by 2029,
-          according to industry data. For mid-market acquisitions ($5M&ndash;$100M+),
+          according to industry data. For mid-market acquisitions ($5M-$100M+),
           private credit funds offer senior debt with more flexible covenant
           packages than banks:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Term:</strong> 5&ndash;7 years
+            <strong>Term:</strong> 5-7 years
           </li>
           <li>
-            <strong>Interest rate:</strong> SOFR + 4&ndash;7%
+            <strong>Interest rate:</strong> SOFR + 4-7%
           </li>
           <li>
-            <strong>Use:</strong> 3&ndash;5x EBITDA
+            <strong>Use:</strong> 3-5x EBITDA
           </li>
           <li>
             <strong>Advantages:</strong> Speed of execution, fewer covenants,
@@ -205,45 +205,45 @@ export default function CapitalStackExplainedArticle() {
           Layer 2: Subordinated and mezzanine debt
         </h2>
         <p>
-          Subordinated debt &mdash; often called mezzanine debt or junior
-          capital &mdash; sits below senior debt in the repayment waterfall but
+          Subordinated debt, often called mezzanine debt or junior
+          capital, sits below senior debt in the repayment waterfall but
           above equity. Because mezzanine lenders take a junior position
           (typically unsecured or with a second lien), they demand
           substantially higher returns than senior lenders. Industry data
-          shows blended all-in returns of 12&ndash;20% through a combination
+          shows blended all-in returns of 12-20% through a combination
           of cash interest, payment-in-kind (PIK) interest, and equity
           warrants.
         </p>
         <p>
           Mezzanine financing becomes relevant when the senior lender hits
-          its lending limit &mdash; usually 60&ndash;80% of purchase price
-          &mdash; but the buyer needs additional use beyond what equity
+          its lending limit, usually 60-80% of purchase price
+          but the buyer needs additional use beyond what equity
           alone can provide. Key characteristics:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical amount:</strong> 0.5&ndash;1.5x EBITDA, or
-            10&ndash;20% of purchase price
+            <strong>Typical amount:</strong> 0.5-1.5x EBITDA, or
+            10-20% of purchase price
           </li>
           <li>
-            <strong>Cash interest rate:</strong> 8&ndash;12%
+            <strong>Cash interest rate:</strong> 8-12%
           </li>
           <li>
-            <strong>PIK component:</strong> 2&ndash;6% additional interest that
+            <strong>PIK component:</strong> 2-6% additional interest that
             compounds and is paid at maturity rather than quarterly
           </li>
           <li>
-            <strong>Equity kicker:</strong> Warrants granting 2&ndash;10% of
+            <strong>Equity kicker:</strong> Warrants granting 2-10% of
             fully diluted equity, aligning the mezzanine lender with upside
           </li>
           <li>
-            <strong>Maturity:</strong> 5&ndash;7 years, often with bullet
+            <strong>Maturity:</strong> 5-7 years, often with bullet
             repayment (interest-only during the term, principal due at maturity)
           </li>
           <li>
             <strong>Subordination agreement:</strong> The mezzanine lender
             contractually agrees not to enforce remedies until the senior
-            lender is satisfied &mdash; a critical protection for the senior
+            lender is satisfied, a critical protection for the senior
             lender that makes the overall structure viable
           </li>
         </ul>
@@ -265,35 +265,35 @@ export default function CapitalStackExplainedArticle() {
           is arguably the most versatile tool in SME deal structuring. The
           seller agrees to defer a portion of the purchase price, effectively
           lending money to the buyer in the form of a promissory note. Seller
-          notes typically occupy a subordinated position &mdash; junior to
-          senior bank debt but senior to equity &mdash; placing them in the
+          notes typically occupy a subordinated position, junior to
+          senior bank debt but senior to equity, placing them in the
           middle of the capital stack.
         </p>
         <p>
           Seller financing matters for three reasons. First, it reduces the
           equity the buyer needs to bring to the table. Second, it signals
           the seller&rsquo;s confidence in the ongoing performance of the
-          business &mdash; the seller only gets repaid if the business
+          business, the seller only gets repaid if the business
           continues generating cash. Third, it provides powerful alignment
           during the transition period when the seller is often still involved
           operationally.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical amount:</strong> 5&ndash;20% of purchase price
+            <strong>Typical amount:</strong> 5-20% of purchase price
             (sometimes as high as 30% in buyer-friendly deals)
           </li>
           <li>
-            <strong>Interest rate:</strong> 4&ndash;8%, though rates of
-            6&ndash;10% are increasingly common as base rates have risen
+            <strong>Interest rate:</strong> 4-8%, though rates of
+            6-10% are increasingly common as base rates have risen
           </li>
           <li>
-            <strong>Term:</strong> 3&ndash;7 years
+            <strong>Term:</strong> 3-7 years
           </li>
           <li>
             <strong>Standby requirements:</strong> SBA-backed transactions
             require seller notes to be on &ldquo;full standby&rdquo; for the
-            first 24 months &mdash; no principal or interest payments during
+            first 24 months, no principal or interest payments during
             this period. Some lenders accept &ldquo;partial standby&rdquo;
             where interest-only payments are permitted
           </li>
@@ -326,7 +326,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           In the standard search fund model documented in Stanford&rsquo;s
           research, investors who funded the search phase receive a{" "}
-          <strong>1.5x step-up</strong> on their invested capital &mdash;
+          <strong>1.5x step-up</strong> on their invested capital , 
           meaning a $25,000 search-phase investment converts to $37,500 of
           acquisition equity. These investors also receive the right of first
           refusal to participate in the acquisition round on a pro-rata basis.
@@ -339,7 +339,7 @@ export default function CapitalStackExplainedArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Liquidation preference:</strong> Preferred holders receive
-            1x&ndash;1.5x their invested capital before any distribution to
+            1x-1.5x their invested capital before any distribution to
             common equity
           </li>
           <li>
@@ -351,7 +351,7 @@ export default function CapitalStackExplainedArticle() {
           </li>
           <li>
             <strong>Dividends:</strong> Some preferred equity structures include
-            a cumulative dividend (typically 6&ndash;10%) that accrues and must
+            a cumulative dividend (typically 6-10%) that accrues and must
             be paid before common equity distributions
           </li>
         </ul>
@@ -366,7 +366,7 @@ export default function CapitalStackExplainedArticle() {
         {/* ---------------------------------------------------------------- */}
         <h2 className={h2Class}>Layer 5: Common equity</h2>
         <p>
-          Common equity is the foundation of the capital stack &mdash; the
+          Common equity is the foundation of the capital stack, the
           highest-risk, highest-return layer. Common equity holders absorb
           losses first (after all debt and preferred equity claims are
           satisfied) but capture all residual upside. In an SME acquisition,
@@ -378,7 +378,7 @@ export default function CapitalStackExplainedArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Self-funded acquirer:</strong> Retains 80&ndash;100% of
+            <strong>Self-funded acquirer:</strong> Retains 80-100% of
             common equity, since no external equity investors are involved.
             The full equity injection comes from personal savings, a{" "}
             <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
@@ -387,14 +387,14 @@ export default function CapitalStackExplainedArticle() {
           </li>
           <li>
             <strong>Traditional search fund CEO:</strong> Typically receives
-            20&ndash;25% of common equity (for a solo searcher) or up to 30%
-            (for a two-person team), vesting in three equal tranches &mdash;
-            one-third at closing, one-third over 4&ndash;5 years of service,
+            20-25% of common equity (for a solo searcher) or up to 30%
+            (for a two-person team), vesting in three equal tranches , 
+            one-third at closing, one-third over 4-5 years of service,
             and one-third upon achieving specified IRR targets at exit
           </li>
           <li>
             <strong>Search fund investors:</strong> Hold the remaining
-            70&ndash;80% of common equity, with protections through preferred
+            70-80% of common equity, with protections through preferred
             equity conversion and board control
           </li>
         </ul>
@@ -402,7 +402,7 @@ export default function CapitalStackExplainedArticle() {
           Common equity has no guaranteed return. Equity holders get paid only
           after every debt obligation is met and every preferred distribution
           is satisfied. But in a successful outcome, common equity captures
-          100% of the value created above the debt and preferred layers &mdash;
+          100% of the value created above the debt and preferred layers , 
           which is why use amplification (discussed below) is so powerful.
         </p>
 
@@ -417,19 +417,19 @@ export default function CapitalStackExplainedArticle() {
         </p>
 
         <h3 className={h3Class}>
-          SBA-backed stack (typical $2M&ndash;$5M deal)
+          SBA-backed stack (typical $2M-$5M deal)
         </h3>
         <ul className={ulClass}>
           <li>
-            <strong>SBA 7(a) senior debt:</strong> 75&ndash;80% of purchase
+            <strong>SBA 7(a) senior debt:</strong> 75-80% of purchase
             price
           </li>
           <li>
-            <strong>Seller note (on standby):</strong> 5&ndash;15% of purchase
+            <strong>Seller note (on standby):</strong> 5-15% of purchase
             price
           </li>
           <li>
-            <strong>Buyer equity injection:</strong> 10&ndash;15% of purchase
+            <strong>Buyer equity injection:</strong> 10-15% of purchase
             price (can include ROBS, HELOC, or personal cash)
           </li>
           <li>
@@ -439,35 +439,35 @@ export default function CapitalStackExplainedArticle() {
         </ul>
         <p>
           The SBA stack is notable for its high leverage ratio (up to 90%
-          debt) and low cost of debt (Prime + 2.25&ndash;2.75%). The tradeoff
+          debt) and low cost of debt (Prime + 2.25-2.75%). The tradeoff
           is the personal guarantee, the $5M loan ceiling, SBA eligibility
-          requirements, and longer closing timelines (60&ndash;90 days).
+          requirements, and longer closing timelines (60-90 days).
         </p>
 
         <h3 className={h3Class}>
-          Conventional/search fund stack (typical $5M&ndash;$30M deal)
+          Conventional/search fund stack (typical $5M-$30M deal)
         </h3>
         <ul className={ulClass}>
           <li>
-            <strong>Senior bank debt:</strong> 40&ndash;60% of purchase price
+            <strong>Senior bank debt:</strong> 40-60% of purchase price
           </li>
           <li>
-            <strong>Mezzanine debt (if used):</strong> 5&ndash;15% of purchase
+            <strong>Mezzanine debt (if used):</strong> 5-15% of purchase
             price
           </li>
           <li>
-            <strong>Seller note:</strong> 5&ndash;15% of purchase price
+            <strong>Seller note:</strong> 5-15% of purchase price
           </li>
           <li>
             <strong>Investor equity (preferred + common):</strong>
-            25&ndash;40% of purchase price
+            25-40% of purchase price
           </li>
         </ul>
         <p>
           Conventional stacks involve more equity (lowering use and
           therefore returns) but offer greater flexibility on deal size,
           covenant negotiation, and speed of execution. The cost of debt is
-          higher (SOFR + 2&ndash;7% depending on seniority), but the absence
+          higher (SOFR + 2-7% depending on seniority), but the absence
           of SBA restrictions on business type, owner experience, and loan
           size makes this the path for larger acquisitions. For more on how
           to choose between these models, see our{" "}
@@ -516,7 +516,7 @@ export default function CapitalStackExplainedArticle() {
           annually and you exit at 4.5x EBITDA in year 5, the business sells
           for approximately $7.18M. After repaying remaining debt of roughly
           $2.7M, your equity value is approximately $4.48M on a $500K
-          investment &mdash; a <strong>55% IRR</strong> and{" "}
+          investment, a <strong>55% IRR</strong> and{" "}
           <strong>9.0x cash-on-cash return</strong>.
         </p>
 
@@ -539,7 +539,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           <strong>Year-1 DSCR:</strong> $1.25M / $638K = <strong>1.96x</strong>.
           Under the same exit assumptions (4.5x EBITDA in year 5), equity
-          value is approximately $4.79M on $1.75M invested &mdash; a{" "}
+          value is approximately $4.79M on $1.75M invested, a{" "}
           <strong>22% IRR</strong> and <strong>2.7x cash-on-cash return</strong>.
         </p>
         <p>
@@ -564,7 +564,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           Consider a $5M acquisition with $1M of equity (80% use).
           If the business value increases by 20% to $6M, the equity value
-          doubles from $1M to $2M &mdash; a 100% return on a 20% value
+          doubles from $1M to $2M, a 100% return on a 20% value
           increase. This is the power of use amplification.
         </p>
         <p>
@@ -598,7 +598,7 @@ export default function CapitalStackExplainedArticle() {
           service exceeding 35% of gross revenue at origination default at
           rates 2.3x higher than businesses where debt service stays below
           20% of revenue. The capital stack is not just a return optimization
-          exercise &mdash; it is fundamentally a risk management decision.
+          exercise, it is fundamentally a risk management decision.
           For detailed return modeling, see our{" "}
           <Link href="/learn/financial-modeling-for-acquisitions" className="text-apple-accent hover:underline">
             financial modeling for acquisitions
@@ -620,11 +620,11 @@ export default function CapitalStackExplainedArticle() {
             increases on variable-rate loans, personal guarantee exposure for
             SBA and conventional loans. Loans originated at DSCR of 1.5x or
             higher default at roughly one-third the rate of loans originated
-            at 1.1&ndash;1.25x DSCR
+            at 1.1-1.25x DSCR
           </li>
           <li>
             <strong>Mezzanine debt risks:</strong> PIK interest compounds
-            rapidly &mdash; a $500K mezzanine note at 15% PIK grows to $1M in
+            rapidly, a $500K mezzanine note at 15% PIK grows to $1M in
             under 5 years. Equity warrants dilute common holders. In
             distress, mezzanine lenders may push for restructuring or
             conversion to equity
@@ -654,7 +654,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           The best protection against capital-stack risk is conservative
           underwriting: target a minimum 1.5x DSCR at closing, stress-test
-          your model for a 20&ndash;30% EBITDA decline, and maintain at least
+          your model for a 20-30% EBITDA decline, and maintain at least
           three months of operating expenses in cash reserves post-close. For
           more on managing post-acquisition financial risk, see our guide on{" "}
           <Link href="/learn/debt-structure-optimization" className="text-apple-accent hover:underline">
@@ -677,17 +677,17 @@ export default function CapitalStackExplainedArticle() {
         </p>
         <p>
           <strong>Search-phase capital.</strong> The median search fund raises
-          $500K&ndash;$550K during the search phase from 10&ndash;20
-          investors, each purchasing units at $20K&ndash;$50K. This capital
+          $500K-$550K during the search phase from 10-20
+          investors, each purchasing units at $20K-$50K. This capital
           covers the searcher&rsquo;s salary, deal-sourcing expenses, and
-          operating costs for an 18&ndash;30 month search. At acquisition,
-          search capital converts to equity at a 1.5x step-up &mdash;
+          operating costs for an 18-30 month search. At acquisition,
+          search capital converts to equity at a 1.5x step-up , 
           rewarding early-stage investors for their higher risk.
         </p>
         <p>
           <strong>Acquisition-phase capital.</strong> A typical B2B services
-          search fund acquisition deploys approximately 30&ndash;40% senior
-          debt, 10&ndash;20% seller financing, and 40&ndash;60% investor
+          search fund acquisition deploys approximately 30-40% senior
+          debt, 10-20% seller financing, and 40-60% investor
           equity. Search fund stacks tend to be less used than SBA-backed
           deals because (a) deal sizes often exceed the $5M SBA ceiling, (b)
           search fund investors prefer operational flexibility over return
@@ -697,11 +697,11 @@ export default function CapitalStackExplainedArticle() {
         </p>
         <p>
           <strong>Equity structure.</strong> The searcher-CEO receives
-          20&ndash;30% of common equity, vesting in three tranches (closing,
-          time-based, and performance-based). Investors hold 70&ndash;80% of
+          20-30% of common equity, vesting in three tranches (closing,
+          time-based, and performance-based). Investors hold 70-80% of
           common equity plus preferred equity positions with liquidation
           preferences. This creates a capital stack where the CEO&rsquo;s
-          economic interest is entirely in common equity &mdash; maximally
+          economic interest is entirely in common equity, maximally
           aligned with long-term value creation.
         </p>
         <p>
@@ -724,16 +724,16 @@ export default function CapitalStackExplainedArticle() {
           What is the ideal debt-to-equity ratio for an SME acquisition?
         </h3>
         <p>
-          There is no single ideal ratio &mdash; it depends on business
+          There is no single ideal ratio, it depends on business
           stability, cash flow predictability, and the acquirer&rsquo;s risk
           tolerance. As a general framework: businesses with recurring revenue
-          and stable margins can support 70&ndash;80% debt (3&ndash;4x
+          and stable margins can support 70-80% debt (3-4x
           EBITDA use), while cyclical or project-based businesses should
-          target 50&ndash;60% debt (2&ndash;3x EBITDA). The critical
+          target 50-60% debt (2-3x EBITDA). The critical
           constraint is DSCR: your total annual debt service should not exceed
-          65&ndash;70% of trailing EBITDA, leaving a minimum 1.3&ndash;1.5x
+          65-70% of trailing EBITDA, leaving a minimum 1.3-1.5x
           coverage cushion. SBA lenders typically require a minimum DSCR of
-          1.15&ndash;1.25x, though conservative structuring targets 1.5x or
+          1.15-1.25x, though conservative structuring targets 1.5x or
           higher.
         </p>
 
@@ -747,8 +747,8 @@ export default function CapitalStackExplainedArticle() {
           injection requirement, effectively allowing the buyer to close with
           as little as 5% cash out of pocket. In non-SBA deals, seller
           financing directly reduces the equity check by filling the gap
-          between senior debt capacity and the purchase price. A 10&ndash;15%
-          seller note can cut the buyer&rsquo;s required equity by 25&ndash;40%.
+          between senior debt capacity and the purchase price. A 10-15%
+          seller note can cut the buyer&rsquo;s required equity by 25-40%.
           For negotiation strategies, see our{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
             seller financing guide
@@ -779,7 +779,7 @@ export default function CapitalStackExplainedArticle() {
         <p>
           Underperformance triggers a cascade of consequences up the capital
           stack. First, free cash flow shrinks, reducing the buffer above
-          debt service. If DSCR drops below covenant minimums (typically 1.1&ndash;1.25x),
+          debt service. If DSCR drops below covenant minimums (typically 1.1-1.25x),
           senior lenders may declare a default, accelerate repayment, or
           demand additional collateral. Mezzanine lenders may trigger
           conversion rights or push for restructuring. Seller note payments
@@ -787,7 +787,7 @@ export default function CapitalStackExplainedArticle() {
           out entirely and the business is either sold to satisfy creditors or
           restructured through a workout. The key protection is building
           conservative projections: stress-test your capital stack for a
-          25&ndash;30% EBITDA decline and ensure the business can still
+          25-30% EBITDA decline and ensure the business can still
           service senior debt at that reduced level.
         </p>
 
@@ -799,11 +799,11 @@ export default function CapitalStackExplainedArticle() {
           This is one of the most important post-acquisition capital
           allocation decisions, and the answer depends on the spread between
           your cost of debt and the return on reinvested capital. If your
-          senior debt costs 8&ndash;10% and you can generate 20&ndash;30%+
+          senior debt costs 8-10% and you can generate 20-30%+
           returns by investing in sales, operations, or technology, the math
           favors reinvestment. However, if you are carrying high-cost
-          mezzanine debt at 12&ndash;18%, paying that down first almost
-          always makes sense &mdash; few operational initiatives can reliably
+          mezzanine debt at 12-18%, paying that down first almost
+          always makes sense, few operational initiatives can reliably
           generate risk-adjusted returns above 15%. A practical approach:
           maintain minimum required debt payments, accelerate mezzanine
           paydown, and deploy remaining free cash into the highest-ROI growth

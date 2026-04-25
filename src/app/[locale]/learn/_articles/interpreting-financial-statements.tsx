@@ -14,7 +14,7 @@ export default function InterpretingFinancialStatementsArticle() {
           The ability to read and interpret financial statements is the
           single most important skill for any acquisition buyer. Financial
           statements tell you what the business earns, what it owns, and
-          how it manages cash &mdash; the three pillars of any investment
+          how it manages cash, the three pillars of any investment
           decision. This guide shows you how to read P&amp;L, balance
           sheet, and cash flow statements through the lens of an acquirer.
         </p>
@@ -27,7 +27,7 @@ export default function InterpretingFinancialStatementsArticle() {
           focus on:
         </p>
         <ul className={ulClass}>
-          <li><strong>Revenue:</strong> Total sales. Analyze by customer, product/service line, and month. Look for trends over 3&ndash;5 years</li>
+          <li><strong>Revenue:</strong> Total sales. Analyze by customer, product/service line, and month. Look for trends over 3-5 years</li>
           <li><strong>Cost of Goods Sold (COGS):</strong> Direct costs of delivering products/services. Gross margin = (Revenue &minus; COGS) / Revenue. Compare to industry benchmarks</li>
           <li><strong>Operating expenses:</strong> SGA (selling, general, administrative). Includes salaries, rent, marketing, insurance, and the owner&rsquo;s compensation</li>
           <li><strong>EBITDA:</strong> Earnings Before Interest, Taxes, Depreciation, and Amortization. The standard profitability metric for acquisitions. See{" "}
@@ -71,8 +71,8 @@ export default function InterpretingFinancialStatementsArticle() {
         <h3 className={h3Class}>3. Cash flow statement</h3>
         <p>
           Shows how cash moves through the business. The most important
-          statement for an acquirer because cash &mdash; not accounting
-          profit &mdash; pays debt service and dividends.
+          statement for an acquirer because cash, not accounting
+          profit, pays debt service and dividends.
         </p>
         <ul className={ulClass}>
           <li><strong>Operating cash flow:</strong> Cash generated from core operations. Should be positive and growing. As the Stanford 2024 Search Fund Study notes, a persistent gap between EBITDA and operating cash flow is one of the most common red flags in SME acquisitions. If EBITDA is high but operating cash flow is low, investigate</li>
@@ -92,7 +92,7 @@ export default function InterpretingFinancialStatementsArticle() {
 
         <h3 className={h3Class}>Revenue analysis</h3>
         <ul className={ulClass}>
-          <li>Request monthly revenue for the trailing 3&ndash;5 years (not just annual)</li>
+          <li>Request monthly revenue for the trailing 3-5 years (not just annual)</li>
           <li>Break down by customer to assess{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               concentration risk
@@ -116,7 +116,7 @@ export default function InterpretingFinancialStatementsArticle() {
 
         <h3 className={h3Class}>Cash flow analysis</h3>
         <ul className={ulClass}>
-          <li>Calculate free cash flow for the trailing 3&ndash;5 years</li>
+          <li>Calculate free cash flow for the trailing 3-5 years</li>
           <li>Assess working capital trends (increasing NWC absorbs cash; decreasing NWC generates cash)</li>
           <li>Estimate maintenance capex separately from growth capex</li>
           <li>Calculate debt service coverage ratio (DSCR): free cash flow / annual debt payments. Lenders want 1.25x+</li>
@@ -155,7 +155,7 @@ export default function InterpretingFinancialStatementsArticle() {
           legitimate add-backs (owner compensation, one-time expenses, personal
           expenses) are standard, aggressive add-backs that assume future
           cost savings or revenue improvements should be viewed skeptically.
-          A general rule: if more than 30&ndash;40% of stated EBITDA comes
+          A general rule: if more than 30-40% of stated EBITDA comes
           from add-backs, the underlying business may be weaker than it
           appears.
         </p>
@@ -214,7 +214,7 @@ export default function InterpretingFinancialStatementsArticle() {
           </Link>{" "}
           is strongly recommended. A QoE report independently verifies revenue,
           normalizes expenses, and identifies accounting issues that the
-          seller&rsquo;s financials may not reveal. Budget $15K&ndash;$50K
+          seller&rsquo;s financials may not reveal. Budget $15K-$50K
           for a QoE depending on deal size and complexity. It is one of the
           highest-ROI investments in the acquisition process.
         </p>

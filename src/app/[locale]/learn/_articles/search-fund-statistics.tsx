@@ -36,17 +36,17 @@ export default function SearchFundStatisticsArticle() {
           dramatically over the past decade:
         </p>
         <ul className={ulClass}>
-          <li><strong>1984&ndash;2000:</strong> Roughly 2&ndash;5 new funds per year, almost exclusively in the US</li>
-          <li><strong>2001&ndash;2010:</strong> Growth to 10&ndash;20 new funds per year as MBA programs began teaching the model</li>
-          <li><strong>2011&ndash;2018:</strong> Acceleration to 30&ndash;50 new funds per year, with international expansion beginning</li>
-          <li><strong>2019&ndash;2023:</strong> Explosive growth with a record 94 new search funds launched in 2023</li>
+          <li><strong>1984-2000:</strong> Roughly 2-5 new funds per year, almost exclusively in the US</li>
+          <li><strong>2001-2010:</strong> Growth to 10-20 new funds per year as MBA programs began teaching the model</li>
+          <li><strong>2011-2018:</strong> Acceleration to 30-50 new funds per year, with international expansion beginning</li>
+          <li><strong>2019-2023:</strong> Explosive growth with a record 94 new search funds launched in 2023</li>
         </ul>
         <p>
           The total cumulative count reached 681 search funds by the time the
           2024 Stanford study was published. This excludes self-funded
           searchers, independent sponsors, and international funds not captured
           in the Stanford database, meaning the true number of ETA
-          practitioners is likely 2&ndash;3x higher.
+          practitioners is likely 2-3x higher.
         </p>
 
         <h2 className={h2Class}>Acquisition success rates</h2>
@@ -56,8 +56,8 @@ export default function SearchFundStatisticsArticle() {
         <ul className={ulClass}>
           <li><strong>~67% of traditional search funds</strong> complete an acquisition</li>
           <li><strong>~33% return unused capital</strong> to investors without acquiring</li>
-          <li>The average search duration for successful funds is <strong>18&ndash;22 months</strong></li>
-          <li>Searchers typically review <strong>200&ndash;300 targets</strong>, meet <strong>50&ndash;100 owners</strong>, and submit <strong>5&ndash;15 LOIs</strong> before closing</li>
+          <li>The average search duration for successful funds is <strong>18-22 months</strong></li>
+          <li>Searchers typically review <strong>200-300 targets</strong>, meet <strong>50-100 owners</strong>, and submit <strong>5-15 LOIs</strong> before closing</li>
         </ul>
         <p>
           The acquisition rate has remained remarkably stable over time,
@@ -91,14 +91,14 @@ export default function SearchFundStatisticsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>~33% of acquisitions</strong> lose some or all invested capital</li>
-          <li><strong>~17% of acquisitions</strong> return 1&ndash;2x invested capital</li>
-          <li><strong>~20% of acquisitions</strong> return 2&ndash;5x</li>
-          <li><strong>~15% of acquisitions</strong> return 5&ndash;10x</li>
+          <li><strong>~17% of acquisitions</strong> return 1-2x invested capital</li>
+          <li><strong>~20% of acquisitions</strong> return 2-5x</li>
+          <li><strong>~15% of acquisitions</strong> return 5-10x</li>
           <li><strong>~15% of acquisitions</strong> return 10x+ (the &ldquo;home runs&rdquo;)</li>
         </ul>
         <p>
           This distribution means portfolio construction matters enormously.
-          Investors who back 10&ndash;20 search funds can expect the winners to
+          Investors who back 10-20 search funds can expect the winners to
           more than compensate for the losers, while a single investment carries
           significant binary risk. See our{" "}
           <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
@@ -112,13 +112,13 @@ export default function SearchFundStatisticsArticle() {
           The typical search fund acquisition has the following profile:
         </p>
         <ul className={ulClass}>
-          <li><strong>Enterprise value:</strong> $8&ndash;$15M median (up from $5&ndash;$8M a decade ago)</li>
-          <li><strong>Revenue:</strong> $5&ndash;$25M</li>
-          <li><strong>EBITDA:</strong> $1.5&ndash;$4M</li>
-          <li><strong>EBITDA margin:</strong> 15&ndash;25%</li>
-          <li><strong>Purchase multiple:</strong> 4&ndash;7x EBITDA (inclusive of all consideration)</li>
-          <li><strong>Equity raised at acquisition:</strong> $3&ndash;$8M</li>
-          <li><strong>Debt leverage:</strong> 2&ndash;4x EBITDA</li>
+          <li><strong>Enterprise value:</strong> $8-$15M median (up from $5-$8M a decade ago)</li>
+          <li><strong>Revenue:</strong> $5-$25M</li>
+          <li><strong>EBITDA:</strong> $1.5-$4M</li>
+          <li><strong>EBITDA margin:</strong> 15-25%</li>
+          <li><strong>Purchase multiple:</strong> 4-7x EBITDA (inclusive of all consideration)</li>
+          <li><strong>Equity raised at acquisition:</strong> $3-$8M</li>
+          <li><strong>Debt leverage:</strong> 2-4x EBITDA</li>
         </ul>
         <p>
           Deal sizes have trended upward as the asset class has matured and
@@ -158,9 +158,9 @@ export default function SearchFundStatisticsArticle() {
           The profile of the typical searcher has evolved over time:
         </p>
         <ul className={ulClass}>
-          <li><strong>Age:</strong> Average 30&ndash;33 at fund launch</li>
+          <li><strong>Age:</strong> Average 30-33 at fund launch</li>
           <li><strong>Education:</strong> ~85% hold an MBA (Stanford, Harvard, Wharton, Columbia, and IESE are the most represented)</li>
-          <li><strong>Prior experience:</strong> 4&ndash;8 years in consulting (30%), finance (25%), operations (20%), or technology (15%)</li>
+          <li><strong>Prior experience:</strong> 4-8 years in consulting (30%), finance (25%), operations (20%), or technology (15%)</li>
           <li><strong>Gender:</strong> ~15% female (growing slowly but still significantly underrepresented)</li>
           <li><strong>Partnership:</strong> ~35% search with a partner (two-person team), ~65% solo</li>
         </ul>
@@ -178,11 +178,11 @@ export default function SearchFundStatisticsArticle() {
           The financial economics for searchers are well-documented:
         </p>
         <ul className={ulClass}>
-          <li><strong>Search-phase salary:</strong> $100K&ndash;$150K per year</li>
-          <li><strong>Post-acquisition CEO salary:</strong> $200K&ndash;$300K</li>
-          <li><strong>Equity earned:</strong> 20&ndash;30% through a three-tranche step-up</li>
-          <li><strong>Average lifetime wealth creation:</strong> $3&ndash;$10M+ for successful acquisitions</li>
-          <li><strong>Hold period:</strong> Median 5&ndash;7 years from acquisition to exit</li>
+          <li><strong>Search-phase salary:</strong> $100K-$150K per year</li>
+          <li><strong>Post-acquisition CEO salary:</strong> $200K-$300K</li>
+          <li><strong>Equity earned:</strong> 20-30% through a three-tranche step-up</li>
+          <li><strong>Average lifetime wealth creation:</strong> $3-$10M+ for successful acquisitions</li>
+          <li><strong>Hold period:</strong> Median 5-7 years from acquisition to exit</li>
         </ul>
         <p>
           See our{" "}
@@ -203,7 +203,7 @@ export default function SearchFundStatisticsArticle() {
         <ul className={ulClass}>
           <li><strong>150+ active search funds</strong> across Europe as of 2024</li>
           <li><strong>France and Spain</strong> are the two largest European markets</li>
-          <li><strong>3&ndash;5x EBITDA</strong> average acquisition multiples (vs. 4&ndash;7x in the US)</li>
+          <li><strong>3-5x EBITDA</strong> average acquisition multiples (vs. 4-7x in the US)</li>
           <li><strong>Comparable returns</strong> to US search funds for completed acquisitions</li>
           <li><strong>23 million SMEs</strong> in the EU facing succession challenges</li>
           <li><strong>450,000 businesses</strong> change hands in Europe each year</li>
@@ -261,17 +261,17 @@ export default function SearchFundStatisticsArticle() {
 
         <h3 className={h3Class}>How reliable are the published search fund return statistics?</h3>
         <p>
-          The Stanford GSB study is the most thorough and widely cited dataset, but investors should be aware of several biases. Returns are self-reported, which introduces potential reporting bias &mdash; funds with poor outcomes are less likely to respond to surveys. The published IRR figures (35%+ aggregate) are pre-tax and gross of search-phase fees, meaning net investor returns are meaningfully lower. Additionally, survivorship bias may inflate results since not all search funds are captured in the database. Despite these limitations, the 681-fund sample over 40 years is statistically significant, and the general patterns &mdash; high variance, positive skew, and strong aggregate returns &mdash; are consistent across independent studies from IESE, INSEAD, and HEC Paris.
+          The Stanford GSB study is the most thorough and widely cited dataset, but investors should be aware of several biases. Returns are self-reported, which introduces potential reporting bias, funds with poor outcomes are less likely to respond to surveys. The published IRR figures (35%+ aggregate) are pre-tax and gross of search-phase fees, meaning net investor returns are meaningfully lower. Additionally, survivorship bias may inflate results since not all search funds are captured in the database. Despite these limitations, the 681-fund sample over 40 years is statistically significant, and the general patterns, high variance, positive skew, and strong aggregate returns, are consistent across independent studies from IESE, INSEAD, and HEC Paris.
         </p>
 
         <h3 className={h3Class}>What is the typical search fund deal size, and how has it changed over time?</h3>
         <p>
-          The median enterprise value of search fund acquisitions has approximately doubled over the past decade, from $5&ndash;$8M to $8&ndash;$15M according to the 2024 Stanford study. This increase reflects both asset price inflation and the entry of more institutional capital into the asset class. EBITDA at acquisition typically ranges from $1.5M&ndash;$4M, with purchase multiples of 4&ndash;7x EBITDA inclusive of all consideration. The upward trend in deal sizes has important implications for <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">portfolio construction</Link> &mdash; investors now need larger follow-on reserves, and total equity raised per acquisition has grown to $3M&ndash;$8M.
+          The median enterprise value of search fund acquisitions has approximately doubled over the past decade, from $5-$8M to $8-$15M according to the 2024 Stanford study. This increase reflects both asset price inflation and the entry of more institutional capital into the asset class. EBITDA at acquisition typically ranges from $1.5M-$4M, with purchase multiples of 4-7x EBITDA inclusive of all consideration. The upward trend in deal sizes has important implications for <Link href="/learn/portfolio-construction-search-funds" className="text-apple-accent hover:underline">portfolio construction</Link>, investors now need larger follow-on reserves, and total equity raised per acquisition has grown to $3M-$8M.
         </p>
 
         <h3 className={h3Class}>How do European search fund statistics compare to US data?</h3>
         <p>
-          According to IESE Business School research, European search funds offer several statistical advantages over their US counterparts. Acquisition multiples average 3&ndash;5x EBITDA in Europe versus 4&ndash;7x in the US, providing a lower entry price. The European market features 23 million SMEs facing succession challenges and 450,000 annual ownership transitions. Returns for completed European acquisitions have been comparable to US funds, though the dataset is smaller (150+ active funds as of 2024 versus 681 cumulative in the Stanford database). The key risk is lower exit liquidity &mdash; Europe has fewer strategic acquirers and a less developed lower-middle-market PE ecosystem. France, Spain, and Germany are the most mature European markets. See our <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link> guide for detailed analysis.
+          According to IESE Business School research, European search funds offer several statistical advantages over their US counterparts. Acquisition multiples average 3-5x EBITDA in Europe versus 4-7x in the US, providing a lower entry price. The European market features 23 million SMEs facing succession challenges and 450,000 annual ownership transitions. Returns for completed European acquisitions have been comparable to US funds, though the dataset is smaller (150+ active funds as of 2024 versus 681 cumulative in the Stanford database). The key risk is lower exit liquidity, Europe has fewer strategic acquirers and a less developed lower-middle-market PE ecosystem. France, Spain, and Germany are the most mature European markets. See our <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link> guide for detailed analysis.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

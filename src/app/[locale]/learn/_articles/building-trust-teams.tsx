@@ -6,7 +6,7 @@ export default function BuildingTrustTeamsArticle() {
     <article>
       <h1 className={h1Class}>Building Trust with Teams After Acquisition</h1>
       <div className={bodyClass}>
-        <p>When a new owner walks through the door after an acquisition, every employee is asking the same question: &ldquo;What does this mean for me?&rdquo; Building trust with an inherited team is the single most important task in the first 100 days of ownership. Trust determines whether key employees stay, whether institutional knowledge transfers, whether customers remain loyal, and ultimately whether the acquisition succeeds. Trust cannot be demanded &mdash; it must be earned through consistent actions over time.</p>
+        <p>When a new owner walks through the door after an acquisition, every employee is asking the same question: &ldquo;What does this mean for me?&rdquo; Building trust with an inherited team is the single most important task in the first 100 days of ownership. Trust determines whether key employees stay, whether institutional knowledge transfers, whether customers remain loyal, and ultimately whether the acquisition succeeds. Trust cannot be demanded, it must be earned through consistent actions over time.</p>
       </div>
 
       <h2 className={h2Class}>The Trust Deficit</h2>
@@ -32,7 +32,7 @@ export default function BuildingTrustTeamsArticle() {
         </ol>
       </div>
 
-      <h2 className={h2Class}>Days 30&ndash;90: Quick Wins</h2>
+      <h2 className={h2Class}>Days 30-90: Quick Wins</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Solve a pain point:</strong> Fix something employees have been complaining about for years. Broken equipment, outdated software, uncomfortable workspace.</li>
@@ -58,11 +58,11 @@ export default function BuildingTrustTeamsArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Building trust is the #1 priority in the first 100 days &mdash; it determines employee retention, knowledge transfer, and acquisition success</li>
+          <li>Building trust is the #1 priority in the first 100 days, it determines employee retention, knowledge transfer, and acquisition success</li>
           <li>Spend the first 30 days listening, learning, and meeting every employee individually before making any changes</li>
           <li>Quick wins (fixing pain points, modest compensation improvements, investing in training) build credibility early</li>
           <li>Consistency, vulnerability, and transparency are the three pillars of long-term trust with inherited teams</li>
-          <li>Trust takes months to build and seconds to destroy &mdash; every interaction matters, especially in the early days</li>
+          <li>Trust takes months to build and seconds to destroy, every interaction matters, especially in the early days</li>
         </ul>
       </div>
 
@@ -78,7 +78,7 @@ export default function BuildingTrustTeamsArticle() {
 
       <h3 className={h3Class}>How long does it take to build trust with an inherited team after an acquisition?</h3>
       <div className={bodyClass}>
-        <p>Research from Harvard Business Review&rsquo;s leadership transition studies suggests that meaningful trust-building takes 6&ndash;12 months of consistent behavior, though the first 30&ndash;90 days set the trajectory. Stanford GSB&rsquo;s search fund operator data shows that CEOs who invest the first 30 days in listening, meeting every employee individually, and making no major changes report significantly higher employee retention in the first year (85&ndash;90% vs. 65&ndash;75% for those who implemented rapid changes). The key insight is that trust accrues through hundreds of small, consistent actions &mdash; following through on commitments, admitting mistakes, and being physically present &mdash; rather than any single grand gesture.</p>
+        <p>Research from Harvard Business Review&rsquo;s leadership transition studies suggests that meaningful trust-building takes 6-12 months of consistent behavior, though the first 30-90 days set the trajectory. Stanford GSB&rsquo;s search fund operator data shows that CEOs who invest the first 30 days in listening, meeting every employee individually, and making no major changes report significantly higher employee retention in the first year (85-90% vs. 65-75% for those who implemented rapid changes). The key insight is that trust accrues through hundreds of small, consistent actions, following through on commitments, admitting mistakes, and being physically present, rather than any single grand gesture.</p>
       </div>
 
       <h3 className={h3Class}>What is the biggest mistake new owners make when taking over an acquired business?</h3>
@@ -88,7 +88,7 @@ export default function BuildingTrustTeamsArticle() {
 
       <h3 className={h3Class}>How should I handle employees who are loyal to the previous owner and resistant to new leadership?</h3>
       <div className={bodyClass}>
-        <p>Identify informal leaders &mdash; employees whose opinions carry weight beyond their title &mdash; and invest disproportionately in building relationships with them first. According to organizational psychology research, winning over these cultural anchors creates a cascade effect where their acceptance signals to the broader team that the new leader is trustworthy. Avoid criticizing the previous owner publicly; instead, frame changes as building on the foundation they created. If specific employees remain actively hostile after 3&ndash;6 months of genuine engagement, it may be necessary to have direct conversations about expectations, but premature terminations of respected employees can trigger broader departures.</p>
+        <p>Identify informal leaders, employees whose opinions carry weight beyond their title, and invest disproportionately in building relationships with them first. According to organizational psychology research, winning over these cultural anchors creates a cascade effect where their acceptance signals to the broader team that the new leader is trustworthy. Avoid criticizing the previous owner publicly; instead, frame changes as building on the foundation they created. If specific employees remain actively hostile after 3-6 months of genuine engagement, it may be necessary to have direct conversations about expectations, but premature terminations of respected employees can trigger broader departures.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

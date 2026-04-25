@@ -10,8 +10,8 @@ export default function SearcherPsychologyFR() {
 
       <div className={bodyClass}>
         <p>
-          Le search &mdash; la phase de recherche active d&apos;une entreprise
-          à acquérir dans le cadre de l&apos;ETA &mdash; est un parcours aussi
+          Le search, la phase de recherche active d&apos;une entreprise
+          à acquérir dans le cadre de l&apos;ETA, est un parcours aussi
           psychologiquement exigeant qu&apos;intellectuellement stimulant. Pendant
           18 à 24 mois en moyenne, le searcher évolue dans un environnement
           d&apos;incertitude permanente&nbsp;: incertitude sur la durée du search,
@@ -27,7 +27,7 @@ export default function SearcherPsychologyFR() {
           identifie les facteurs de stress principaux, propose des
           stratégies concrètes de préservation de la santé mentale et recense
           les ressources disponibles en France. Ce sujet est rarement traité
-          dans les guides ETA &mdash; il est pourtant l&apos;un des déterminants
+          dans les guides ETA, il est pourtant l&apos;un des déterminants
           les plus critiques du succès ou de l&apos;abandon.
         </p>
       </div>
@@ -57,12 +57,12 @@ export default function SearcherPsychologyFR() {
           Cette phase est productive mais comporte un piège&nbsp;: la
           tentation de disperser son énergie sur trop de dossiers
           simultanément, sans approfondir suffisamment les plus prometteurs.
-          La discipline de la thèse d&apos;investissement &mdash; définie lors de
+          La discipline de la thèse d&apos;investissement, définie lors de
           la{" "}
           <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">
             phase de préparation
           </Link>{" "}
-          &mdash; est le garde-fou essentiel contre cette dispersion.
+          est le garde-fou essentiel contre cette dispersion.
         </p>
 
         <h3 className={h3Class}>Phase 2&nbsp;: la confrontation au réel (mois 4 à 10)</h3>
@@ -152,7 +152,7 @@ export default function SearcherPsychologyFR() {
           le searcher doit rendre des comptes régulièrement (reporting
           mensuel, appels trimestriels), justifier ses choix et démontrer sa
           progression. Plus le search se prolonge, plus la pression
-          augmente &mdash; les investisseurs s&apos;interrogent sur la capacité du
+          augmente, les investisseurs s&apos;interrogent sur la capacité du
           searcher à conclure, et le searcher peut ressentir une obligation
           de résultat qui altère la qualité de son jugement.
         </p>
@@ -174,7 +174,7 @@ export default function SearcherPsychologyFR() {
           celles-ci, une poignée justifie une analyse approfondie. Parmi
           ces dernières, une ou deux peuvent aboutir à une lettre
           d&apos;intention. Et la signature de la LOI ne garantit pas le
-          closing. Ce taux d&apos;attrition est normal et structurel &mdash; mais
+          closing. Ce taux d&apos;attrition est normal et structurel, mais
           il est émotionnellement éprouvant, surtout pour des profils
           habitués à la réussite (anciens consultants, banquiers, ingénieurs
           de grandes écoles).
@@ -273,7 +273,7 @@ export default function SearcherPsychologyFR() {
           (sport, marche, vélo), une alimentation équilibrée et un sommeil
           de qualité traversent les phases difficiles du search avec une
           résilience nettement supérieure à ceux qui négligent ces aspects.
-          Ce n&apos;est pas un luxe &mdash; c&apos;est un investissement dans votre
+          Ce n&apos;est pas un luxe, c&apos;est un investissement dans votre
           capacité de performance durable.
         </p>
         <p>
@@ -312,7 +312,7 @@ export default function SearcherPsychologyFR() {
       <div className={bodyClass}>
         <p>
           L&apos;acquisition de l&apos;entreprise ne met pas fin aux défis
-          psychologiques &mdash; elle en inaugure de nouveaux. Le passage du
+          psychologiques, elle en inaugure de nouveaux. Le passage du
           statut de searcher (seul, autonome, sans responsabilité
           opérationnelle) à celui de dirigeant de PME (responsable
           d&apos;employés, de clients, de fournisseurs et d&apos;investisseurs)

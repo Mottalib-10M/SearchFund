@@ -15,8 +15,8 @@ export default function FinancialModelingForAcquisitionsArticle() {
           scenarios, structure the optimal capital stack, and ultimately convince
           your investors and lenders that the acquisition generates attractive
           risk-adjusted returns. Yet many first-time searchers treat the model as
-          an afterthought &mdash; a spreadsheet they throw together the weekend
-          before an investor call &mdash; rather than the rigorous analytical
+          an afterthought, a spreadsheet they throw together the weekend
+          before an investor call, rather than the rigorous analytical
           engine it needs to be.
         </p>
 
@@ -48,7 +48,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           the LBO framework is indispensable. It forces you to think rigorously
           about cash flow timing, debt service capacity, and the sensitivity of
           your returns to changes in revenue, margins, and exit multiples. Your
-          investors &mdash; whether they are committing $50K or $5M &mdash;
+          investors, whether they are committing $50K or $5M , 
           expect to see a model that demonstrates you understand the economics
           of the deal inside and out.
         </p>
@@ -75,7 +75,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
 
         <ul className={ulClass}>
           <li>
-            <strong>Historical trend analysis:</strong> Plot 3&ndash;5 years of
+            <strong>Historical trend analysis:</strong> Plot 3-5 years of
             revenue by driver. Look for patterns, seasonality, and inflection
             points. If the business has grown at 5% annually for the past four
             years, a 15% growth assumption requires a compelling narrative.
@@ -97,7 +97,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <p>
           Build at least three revenue scenarios: base case, upside, and
           downside. Your base case should reflect what you genuinely believe will
-          happen &mdash; not the rosy case you want to show investors and not the
+          happen, not the rosy case you want to show investors and not the
           doomsday scenario either. The upside should capture the value of
           realistic operational improvements you plan to implement. The downside
           should model what happens if the business loses its largest customer,
@@ -107,12 +107,12 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <p>
           A practical approach is to set the base case at the company&rsquo;s
           trailing twelve-month revenue growing at the historical compound annual
-          growth rate. The upside adds 2&ndash;3 percentage points of growth from
+          growth rate. The upside adds 2-3 percentage points of growth from
           specific, identified initiatives (price increases, new sales channels,
-          geographic expansion). The downside assumes a 10&ndash;15% revenue
+          geographic expansion). The downside assumes a 10-15% revenue
           decline in year one followed by a slow recovery. If the deal does not
-          work in the downside case &mdash; meaning you cannot service debt and
-          your equity is wiped out &mdash; the deal is probably too risky.
+          work in the downside case, meaning you cannot service debt and
+          your equity is wiped out, the deal is probably too risky.
         </p>
 
         <h2 className={h2Class}>EBITDA normalization adjustments</h2>
@@ -132,12 +132,12 @@ export default function FinancialModelingForAcquisitionsArticle() {
             <strong>Owner compensation:</strong> Replace the owner&rsquo;s total
             compensation (salary, bonuses, benefits, personal expenses) with
             market-rate CEO compensation. This is typically the largest single
-            adjustment and can swing EBITDA by $100K&ndash;$400K in either
+            adjustment and can swing EBITDA by $100K-$400K in either
             direction.
           </li>
           <li>
             <strong>Non-recurring items:</strong> Remove one-time revenues and
-            expenses &mdash; litigation settlements, PPP loan forgiveness, COVID
+            expenses, litigation settlements, PPP loan forgiveness, COVID
             disruptions, insurance proceeds, and restructuring costs. Be
             disciplined: if a &ldquo;one-time&rdquo; expense appears in three of
             the last five years, it is recurring.
@@ -157,7 +157,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           </li>
           <li>
             <strong>Revenue quality:</strong> Adjust for any revenue that is not
-            sustainable &mdash; a one-time project, a customer that has already
+            sustainable, a one-time project, a customer that has already
             given notice, or a product line being discontinued.
           </li>
         </ol>
@@ -179,7 +179,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           The debt schedule is where the LBO model earns its name. For a typical
           search fund acquisition, you will model three to four layers of debt,
           each with different terms, interest rates, and repayment mechanics.
-          Understanding how to optimize this structure is critical &mdash; for a
+          Understanding how to optimize this structure is critical, for a
           deeper treatment, see our guide on{" "}
           <Link href="/learn/debt-structure-optimization" className="text-apple-accent hover:underline">debt structure optimization</Link>.
         </p>
@@ -191,7 +191,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Principal amount:</strong> Typically 2.5x&ndash;4.0x EBITDA,
+            <strong>Principal amount:</strong> Typically 2.5x-4.0x EBITDA,
             or up to 90% of the project cost for SBA 7(a) loans.
           </li>
           <li>
@@ -203,12 +203,12 @@ export default function FinancialModelingForAcquisitionsArticle() {
             <strong>Amortization:</strong> Build a full amortization schedule
             showing quarterly or monthly principal payments. SBA loans amortize
             over 10 years (25 years for real estate portions); conventional bank
-            loans typically amortize over 5&ndash;7 years.
+            loans typically amortize over 5-7 years.
           </li>
           <li>
             <strong>Covenants:</strong> Model the key financial covenants
-            &mdash; debt-to-EBITDA ratio, fixed charge coverage ratio,
-            minimum liquidity &mdash; and flag any period where your
+            debt-to-EBITDA ratio, fixed charge coverage ratio,
+            minimum liquidity, and flag any period where your
             projections breach a covenant. A covenant breach in your base case
             is a deal-killer.
           </li>
@@ -217,7 +217,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <h3 className={h3Class}>Seller note</h3>
         <p>
           The seller note is typically subordinated to senior debt and carries
-          a below-market interest rate (3&ndash;6%). Model the following:
+          a below-market interest rate (3-6%). Model the following:
         </p>
         <ul className={ulClass}>
           <li>
@@ -227,7 +227,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           </li>
           <li>
             <strong>Amortization or bullet:</strong> After the standby period,
-            the seller note may amortize over 3&ndash;5 years or be due as a
+            the seller note may amortize over 3-5 years or be due as a
             bullet at maturity. Model both structures to see the cash flow
             impact.
           </li>
@@ -246,7 +246,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Commitment amount:</strong> Typically sized at 1.0x&ndash;1.5x
+            <strong>Commitment amount:</strong> Typically sized at 1.0x-1.5x
             the business&rsquo;s peak working capital requirement.
           </li>
           <li>
@@ -257,7 +257,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           </li>
           <li>
             <strong>Commitment fee:</strong> Model the unused commitment fee
-            (typically 0.25&ndash;0.50% of the undrawn balance) as an ongoing
+            (typically 0.25-0.50% of the undrawn balance) as an ongoing
             expense.
           </li>
         </ul>
@@ -286,7 +286,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           <li>
             <strong>Inventory:</strong> Project as days inventory outstanding
             (DIO) multiplied by daily cost of goods sold. Be alert to
-            seasonality &mdash; a business that builds inventory ahead of its
+            seasonality, a business that builds inventory ahead of its
             peak season will show significant working capital swings.
           </li>
           <li>
@@ -306,7 +306,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           into your free cash flow calculation. A growing business at a company
           with 60 DSO, 45 DIO, and 30 DPO will consume roughly 75 days of
           incremental revenue as working capital for every dollar of revenue
-          growth. This cash consumption is real and must be funded &mdash;
+          growth. This cash consumption is real and must be funded , 
           either from operating cash flow, the revolver, or additional equity.
         </p>
 
@@ -321,8 +321,8 @@ export default function FinancialModelingForAcquisitionsArticle() {
           This is the minimum spending required to keep the business running at
           its current capacity. It includes equipment replacement, vehicle fleet
           maintenance, technology refreshes, and facility upkeep. A common
-          benchmark is 2&ndash;5% of revenue for asset-light businesses and
-          5&ndash;10% for asset-heavy businesses, but always validate against
+          benchmark is 2-5% of revenue for asset-light businesses and
+          5-10% for asset-heavy businesses, but always validate against
           the company&rsquo;s actual historical spending and the condition of
           its existing assets.
         </p>
@@ -341,8 +341,8 @@ export default function FinancialModelingForAcquisitionsArticle() {
           <strong>Catch-up capex.</strong> Many small businesses under-invest
           in their final years under the original owner, particularly if the
           owner has been planning a sale. Budget for one-time catch-up spending
-          in year one &mdash; technology systems, deferred equipment maintenance,
-          facility improvements &mdash; that restores the business to a
+          in year one, technology systems, deferred equipment maintenance,
+          facility improvements, that restores the business to a
           sustainable operating baseline.
         </p>
 
@@ -371,7 +371,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
             <strong>Balance sheet:</strong> Project assets (cash, receivables,
             inventory, PP&amp;E, goodwill), liabilities (payables, accrued
             expenses, each layer of debt), and equity (retained earnings). The
-            balance sheet must balance in every period &mdash; this is your
+            balance sheet must balance in every period, this is your
             error check.
           </li>
           <li>
@@ -392,7 +392,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           capturing working capital seasonality, debt service timing, and the
           cash flow impact of transition costs. Many deals that look attractive
           on an annual basis reveal cash flow problems when modeled monthly
-          &mdash; a January acquisition with a large April tax payment and
+          a January acquisition with a large April tax payment and
           seasonal revenue trough in Q1 can create a liquidity crunch that
           your annual model would never surface.
         </p>
@@ -415,13 +415,13 @@ export default function FinancialModelingForAcquisitionsArticle() {
             flow in period zero).
           </li>
           <li>
-            <strong>Interim distributions</strong> &mdash; any dividends or
+            <strong>Interim distributions</strong>: any dividends or
             distributions paid to equity holders during the hold period.
             Many search fund acquisitions reinvest all free cash flow into debt
             paydown, resulting in zero interim distributions.
           </li>
           <li>
-            <strong>Exit proceeds</strong> &mdash; the equity value at exit,
+            <strong>Exit proceeds</strong>: the equity value at exit,
             calculated as exit EBITDA multiplied by the exit multiple, minus
             remaining debt, plus excess cash.
           </li>
@@ -439,7 +439,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           The multiple on invested capital measures absolute return regardless
           of timing. MOIC equals total distributions plus exit proceeds divided
           by total equity invested. Search fund investors typically target a
-          3.0x&ndash;5.0x MOIC over a 5&ndash;7 year hold period. A deal that
+          3.0x-5.0x MOIC over a 5-7 year hold period. A deal that
           generates a 30% IRR but only a 2.0x MOIC may indicate that the hold
           period is too short to build meaningful value, or that too much
           equity was required relative to the opportunity.
@@ -486,7 +486,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
             by far. Many models project EBITDA growing at 10% annually but
             assume zero change in working capital. In reality, a growing
             business consumes cash as receivables and inventory expand. This
-            oversight can overstate free cash flow by 20&ndash;30%.
+            oversight can overstate free cash flow by 20-30%.
           </li>
           <li>
             <strong>Hockey-stick revenue projections:</strong> Showing 5%
@@ -506,7 +506,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           <li>
             <strong>Forgetting transaction costs:</strong> Legal fees, QoE
             analysis, lender fees, title insurance, environmental studies, and
-            other closing costs can add 3&ndash;5% to the total project cost.
+            other closing costs can add 3-5% to the total project cost.
             These must be funded and should be included in your sources and
             uses.
           </li>
@@ -525,7 +525,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           <li>
             <strong>Assuming the exit multiple equals the entry multiple:</strong>{" "}
             While this is a reasonable base case assumption, you should also
-            model a scenario where the exit multiple compresses by 0.5x&ndash;1.0x.
+            model a scenario where the exit multiple compresses by 0.5x-1.0x.
             If your returns depend entirely on maintaining or expanding the
             multiple, the deal is more speculative than it appears.
           </li>
@@ -566,7 +566,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           </li>
           <li>
             <strong>Sources and uses:</strong> A clean table showing where every
-            dollar of capital comes from and where it goes &mdash; purchase
+            dollar of capital comes from and where it goes, purchase
             price, transaction costs, working capital, reserves.
           </li>
           <li>
@@ -632,7 +632,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
             another tab.
           </li>
           <li>
-            <strong>Historical financials tab:</strong> 3&ndash;5 years of
+            <strong>Historical financials tab:</strong> 3-5 years of
             historical income statements, balance sheets, and cash flows
             formatted consistently with your projection tabs. This allows
             side-by-side comparison of projections versus actuals.
@@ -680,7 +680,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           </li>
           <li>
             <strong>Error checks:</strong> Build automated checks into the
-            model &mdash; balance sheet balance check, cash flow reconciliation,
+            model, balance sheet balance check, cash flow reconciliation,
             sources equals uses. Flag errors prominently in red so they are
             impossible to miss.
           </li>
@@ -695,7 +695,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           <li>
             <strong>Performance:</strong> Google Sheets slows down significantly
             with complex formulas across multiple tabs. Keep your model lean
-            &mdash; avoid unnecessary array formulas and volatile functions.
+            avoid unnecessary array formulas and volatile functions.
           </li>
           <li>
             <strong>Iterative calculations:</strong> Google Sheets supports
@@ -720,7 +720,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
         <h2 className={h2Class}>Putting it all together</h2>
         <p>
           A well-built acquisition model is not a one-time exercise. It
-          evolves as you move through the deal process &mdash; from a
+          evolves as you move through the deal process, from a
           preliminary screening model built on the CIM, to a detailed model
           informed by management meetings and data room access, to the final
           model that incorporates QoE findings and negotiated terms. At each
@@ -734,7 +734,7 @@ export default function FinancialModelingForAcquisitionsArticle() {
           rebuild a completed search fund&rsquo;s actual deal economics from
           their investor materials. The searchers who close the best deals are
           almost always the ones who can build and manipulate a model
-          fluently &mdash; not because the model makes the decision, but
+          fluently, not because the model makes the decision, but
           because it gives them the clarity and confidence to make the
           decision themselves.
         </p>
@@ -743,9 +743,9 @@ export default function FinancialModelingForAcquisitionsArticle() {
           When you are ready to move from modeling to action, the model
           becomes the foundation for your{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
-          and the negotiation that follows. Every number in the LOI &mdash;
+          and the negotiation that follows. Every number in the LOI , 
           purchase price, working capital peg, earn-out thresholds, debt
-          structure &mdash; should trace back to a cell in your model. That
+          structure, should trace back to a cell in your model. That
           traceability is what separates a disciplined acquirer from a hopeful
           one.
         </p>

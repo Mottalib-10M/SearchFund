@@ -10,7 +10,7 @@ export default function CapTablesEquityFR() {
         <p>
           Comprendre l&apos;économie d&apos;un search fund est essentiel aussi bien
           pour le searcher que pour ses investisseurs. La structure capitalistique
-          &mdash; communément appelée &laquo;&nbsp;cap table&nbsp;&raquo; &mdash;
+          communément appelée &laquo;&nbsp;cap table&nbsp;&raquo; , 
           détermine comment la valeur est répartie entre les différentes parties
           prenantes tout au long de la vie du fonds&nbsp;: phase de recherche,
           acquisition et exploitation opérationnelle. Ce guide détaille la
@@ -46,7 +46,7 @@ export default function CapTablesEquityFR() {
         <p>
           Lorsqu&apos;une cible d&apos;acquisition est identifiée, le capital de
           recherche se convertit en capital d&apos;acquisition à un multiple
-          préférentiel &mdash; le step-up &mdash; typiquement fixé à 1,5x. Cela
+          préférentiel, le step-up, typiquement fixé à 1,5x. Cela
           signifie que pour chaque euro de capital de recherche investi,
           l&apos;investisseur reçoit 1,50&nbsp;&euro; de capital d&apos;acquisition.
           Le step-up rémunère les investisseurs de la phase de recherche pour le
@@ -75,7 +75,7 @@ export default function CapTablesEquityFR() {
         <h3 className={h3Class}>Le preferred return (rendement préférentiel)</h3>
         <p>
           La plupart des structures de search fund prévoient un preferred return
-          en faveur des investisseurs &mdash; un rendement minimum que les
+          en faveur des investisseurs, un rendement minimum que les
           investisseurs doivent recevoir avant que le searcher ne puisse
           bénéficier de certaines tranches de sa participation. Ce rendement
           préférentiel est typiquement fixé à 8 à 10&nbsp;% par an (rendement
@@ -109,7 +109,7 @@ export default function CapTablesEquityFR() {
           </li>
           <li>
             <strong>Tranche 3 (un tiers)&nbsp;:</strong> Acquise sous condition
-            de performance &mdash; typiquement l&apos;atteinte d&apos;un TRI
+            de performance, typiquement l&apos;atteinte d&apos;un TRI
             minimum pour les investisseurs (souvent 25 à 35&nbsp;%). Cette
             tranche aligne le searcher sur la création de valeur pour les
             investisseurs.
@@ -220,8 +220,8 @@ export default function CapTablesEquityFR() {
           </li>
           <li>
             Des clauses de good leaver / bad leaver déterminant les conditions
-            de rachat des titres en cas de départ du searcher &mdash; volontaire
-            ou non &mdash; avant la fin de la période de vesting.
+            de rachat des titres en cas de départ du searcher, volontaire
+            ou non, avant la fin de la période de vesting.
           </li>
           <li>
             Un mécanisme d&apos;accélération (acceleration) en cas de changement
@@ -282,8 +282,8 @@ export default function CapTablesEquityFR() {
       <h2 className={h2Class}>Le waterfall de sortie (exit waterfall)</h2>
       <div className={bodyClass}>
         <p>
-          L&apos;exit waterfall &mdash; la cascade de distribution du produit de
-          cession &mdash; est le mécanisme qui détermine comment le prix de vente
+          L&apos;exit waterfall, la cascade de distribution du produit de
+          cession, est le mécanisme qui détermine comment le prix de vente
           est réparti entre les différentes catégories d&apos;actionnaires lors de
           la sortie. Voici l&apos;ordre de distribution typique&nbsp;:
         </p>
@@ -333,7 +333,7 @@ export default function CapTablesEquityFR() {
         </p>
         <ul className={ulClass}>
           <li>
-            Pas de capital de recherche ni de step-up &mdash; le searcher
+            Pas de capital de recherche ni de step-up, le searcher
             finance sa propre recherche sur ses économies ou un revenu parallèle.
           </li>
           <li>
@@ -403,10 +403,10 @@ export default function CapTablesEquityFR() {
           Stanford Graduate School of Business &mdash; <em>2024 Search Fund Study</em>, 2024.
         </li>
         <li>
-          Code de commerce &mdash; Articles L. 228-11 et suivants (actions de préférence), L. 225-177 et suivants (BSA).
+          Code de commerce, Articles L. 228-11 et suivants (actions de préférence), L. 225-177 et suivants (BSA).
         </li>
         <li>
-          Code général des impôts &mdash; Article 163 bis G (BSPCE).
+          Code général des impôts, Article 163 bis G (BSPCE).
         </li>
         <li>
           HEC Paris, Chaire Entrepreneuriat &mdash; <em>Entrepreneuriat par Acquisition&nbsp;: état des lieux et perspectives</em>, 2024.

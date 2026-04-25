@@ -12,30 +12,30 @@ export default function KeyPersonRiskArticle() {
       <div className={bodyClass}>
         <p>
           A Stanford GSB study of 401 search fund acquisitions found that
-          &ldquo;people risk&rdquo;&mdash;specifically the loss of critical
-          employees or over-reliance on the departing owner&mdash;was the single
+          &ldquo;people risk&rdquo;, specifically the loss of critical
+          employees or over-reliance on the departing owner, was the single
           most cited reason for post-close underperformance. In smaller
-          businesses with $1&ndash;5M EBITDA, three to five individuals often
-          control 70&ndash;90% of customer relationships, institutional
+          businesses with $1-5M EBITDA, three to five individuals often
+          control 70-90% of customer relationships, institutional
           knowledge, and operational continuity. If any of them walks out the
           door, revenue follows. This article gives you a practical system to
           identify key person risk during{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
           </Link>, quantify its impact on valuation, and neutralize it
-          before&mdash;and after&mdash;you close.
+          before, and after, you close.
         </p>
 
         {/* ───────────── H2 #1 ───────────── */}
         <h2 className={h2Class}>What Key Person Risk Actually Means in ETA</h2>
         <p>
           Key person risk is the probability that a business suffers material
-          harm&mdash;lost revenue, broken processes, customer churn&mdash;when a
+          harm, lost revenue, broken processes, customer churn, when a
           specific individual leaves. Every company has some. But in
           owner-operated small businesses, the concentration is extreme.
         </p>
         <p>
-          The typical search fund target was built by a founder who spent 15&ndash;25
+          The typical search fund target was built by a founder who spent 15-25
           years embedding themselves in every dimension of the business: selling
           to the top accounts, setting prices by gut feel, approving every
           purchase order, and personally resolving the hardest customer
@@ -79,7 +79,7 @@ export default function KeyPersonRiskArticle() {
         <p>
           Most acquirers ask the seller, &ldquo;Who are your most important
           employees?&rdquo; This is the wrong question. Sellers have blind
-          spots&mdash;they underestimate their own centrality and overestimate
+          spots, they underestimate their own centrality and overestimate
           their team&rsquo;s autonomy. Instead, use three independent
           detection methods and triangulate.
         </p>
@@ -125,7 +125,7 @@ export default function KeyPersonRiskArticle() {
 
         <h3 className={h3Class}>3. Process dependency mapping</h3>
         <p>
-          List the 10&ndash;15 processes that keep the business running: sales,
+          List the 10-15 processes that keep the business running: sales,
           estimating, billing, scheduling, production, quality control,
           procurement, customer service, HR, and IT. For each one, write down
           who executes it, who can back it up, and where the instructions live
@@ -152,7 +152,7 @@ export default function KeyPersonRiskArticle() {
           International Search Fund Study reported that in 60% of acquired
           businesses, the selling owner was directly responsible for the
           majority of new business development. When they leave, the sales
-          pipeline does not just slow&mdash;it stops.
+          pipeline does not just slow, it stops.
         </p>
         <p>
           Warning signs of the owner-as-rainmaker:
@@ -176,7 +176,7 @@ export default function KeyPersonRiskArticle() {
           </li>
         </ul>
         <p>
-          If this describes your target, you must plan for a 6&ndash;18 month
+          If this describes your target, you must plan for a 6-18 month
           revenue dip after close. Model it explicitly in your{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
             valuation
@@ -196,28 +196,28 @@ export default function KeyPersonRiskArticle() {
           that produces a number. Here is one that works.
         </p>
         <p>
-          For each identified key person, score four dimensions on a 1&ndash;5
+          For each identified key person, score four dimensions on a 1-5
           scale:
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Impact magnitude (1&ndash;5):</strong> If they left tomorrow,
+            <strong>Impact magnitude (1-5):</strong> If they left tomorrow,
             how much revenue or operational capacity is at risk? (1 = under 5%;
             5 = over 25%.)
           </li>
           <li>
-            <strong>Replaceability (1&ndash;5):</strong> How long to hire and
+            <strong>Replaceability (1-5):</strong> How long to hire and
             train a replacement to 80% effectiveness? (1 = under 30 days;
             5 = over 12 months.)
           </li>
           <li>
-            <strong>Flight probability (1&ndash;5):</strong> Given their
+            <strong>Flight probability (1-5):</strong> Given their
             compensation, tenure, personal situation, and attitude toward the
             acquisition, how likely are they to leave within 24 months?
             (1 = very unlikely; 5 = already interviewing.)
           </li>
           <li>
-            <strong>Knowledge documentation (1&ndash;5):</strong> How much of
+            <strong>Knowledge documentation (1-5):</strong> How much of
             their critical knowledge is written down, systematized, or shared
             with others? (1 = fully documented; 5 = entirely in their head.)
           </li>
@@ -250,10 +250,10 @@ export default function KeyPersonRiskArticle() {
 
         <h3 className={h3Class}>Seller transition agreements</h3>
         <p>
-          Negotiate a transition period of 6&ndash;18 months (not the 30&ndash;90
+          Negotiate a transition period of 6-18 months (not the 30-90
           days sellers prefer). Structure the seller&rsquo;s compensation
           during this period to incentivize genuine knowledge transfer, not
-          just physical presence. Tie 30&ndash;50% of the transition payment to
+          just physical presence. Tie 30-50% of the transition payment to
           measurable milestones: customer introductions completed, SOPs written,
           key employee relationships handed off.
         </p>
@@ -262,7 +262,7 @@ export default function KeyPersonRiskArticle() {
         <p>
           If the seller is the primary rainmaker, an earn-out pegged to
           post-close revenue retention directly aligns their incentives with
-          yours. A 12&ndash;24 month earn-out equal to 15&ndash;30% of the
+          yours. A 12-24 month earn-out equal to 15-30% of the
           purchase price, paid only if revenue stays within 90% of trailing
           twelve months, gives the seller a financial reason to introduce you
           to every customer and ensure a smooth handoff.
@@ -276,7 +276,7 @@ export default function KeyPersonRiskArticle() {
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             letter of intent
           </Link>{" "}
-          and formalized at closing. Standard terms: 2&ndash;4 year duration,
+          and formalized at closing. Standard terms: 2-4 year duration,
           geographic scope matching the business&rsquo;s service area, and
           specific enough to be enforceable in the relevant jurisdiction.
         </p>
@@ -284,8 +284,8 @@ export default function KeyPersonRiskArticle() {
         <h3 className={h3Class}>Pre-close retention packages</h3>
         <p>
           For non-owner key employees, sign retention agreements before or at
-          closing. The typical structure: a stay bonus of 25&ndash;50% of annual
-          salary, paid in quarterly installments over 12&ndash;24 months,
+          closing. The typical structure: a stay bonus of 25-50% of annual
+          salary, paid in quarterly installments over 12-24 months,
           contingent on continued employment. Some acquirers fund these through
           an escrow established at closing. Others negotiate for the seller to
           fund them from the purchase price.
@@ -328,10 +328,10 @@ export default function KeyPersonRiskArticle() {
         <h3 className={h3Class}>Long-term incentive plans</h3>
         <p>
           For the top three to five employees, financial handcuffs work. Options
-          include phantom equity (3&ndash;5% of total equity value, vesting
-          over 4 years), profit-sharing pools (distributing 5&ndash;15% of
+          include phantom equity (3-5% of total equity value, vesting
+          over 4 years), profit-sharing pools (distributing 5-15% of
           EBITDA growth above a baseline), or deferred compensation plans that
-          pay out only after 3&ndash;5 years of service. For a full playbook,
+          pay out only after 3-5 years of service. For a full playbook,
           see our guide on{" "}
           <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
             employee retention after acquisition
@@ -347,7 +347,7 @@ export default function KeyPersonRiskArticle() {
           person. The deliverables: written SOPs for their top 10 recurring
           tasks, documented customer and vendor relationship maps, recorded
           walkthroughs of critical systems, and a trained backup person for
-          every function. The goal is not to make key people feel replaceable&mdash;it
+          every function. The goal is not to make key people feel replaceable, it
           is to make the business resilient. Frame it as &ldquo;building a team
           that can grow&rdquo; rather than &ldquo;reducing dependence on you.&rdquo;
         </p>
@@ -368,7 +368,7 @@ export default function KeyPersonRiskArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Multiple compression:</strong> A business that would
-            otherwise trade at 4.5&ndash;5.5x EBITDA may trade at 3.5&ndash;4.5x
+            otherwise trade at 4.5-5.5x EBITDA may trade at 3.5-4.5x
             if the owner is the sole rainmaker with no documented sales process.
             That 1x turn on $2M EBITDA is a $2M price reduction.
           </li>
@@ -381,7 +381,7 @@ export default function KeyPersonRiskArticle() {
           </li>
           <li>
             <strong>Earn-out structuring:</strong> Instead of paying full price
-            at close, buyers shift 15&ndash;30% into contingent payments
+            at close, buyers shift 15-30% into contingent payments
             tied to customer retention, employee retention, or revenue
             maintenance. This transfers risk back to the seller.
           </li>
@@ -391,9 +391,9 @@ export default function KeyPersonRiskArticle() {
           valuation model. If you are the seller preparing for a{" "}
           <Link href="/learn/closing-process" className="text-apple-accent hover:underline">
             closing
-          </Link>, reducing key person risk before going to market&mdash;by
+          </Link>, reducing key person risk before going to market, by
           hiring a sales manager, documenting processes, and signing key
-          employees to contracts&mdash;can add 0.5&ndash;1.0x to your
+          employees to contracts, can add 0.5-1.0x to your
           effective multiple.
         </p>
 
@@ -404,9 +404,9 @@ export default function KeyPersonRiskArticle() {
           How much should I budget for key employee retention packages?
         </h3>
         <p>
-          Plan for 25&ndash;50% of annual salary per key person, paid over
-          12&ndash;24 months. For a business with five key employees earning an
-          average of $80K, that is $100K&ndash;$200K in total retention spend.
+          Plan for 25-50% of annual salary per key person, paid over
+          12-24 months. For a business with five key employees earning an
+          average of $80K, that is $100K-$200K in total retention spend.
           Most search fund operators fund this from the acquisition capital
           stack or negotiate seller concessions at closing.
         </p>
@@ -417,8 +417,8 @@ export default function KeyPersonRiskArticle() {
         <p>
           Yes, for any individual whose sudden absence would cause more than
           $500K in economic damage. Key man insurance policies typically cost
-          1&ndash;3% of the coverage amount annually. A $1M policy on your top
-          salesperson costs $10K&ndash;$30K per year&mdash;cheap relative to the
+          1-3% of the coverage amount annually. A $1M policy on your top
+          salesperson costs $10K-$30K per year, cheap relative to the
           risk. The proceeds buy you time to recruit a replacement and cover
           lost revenue during the transition.
         </p>
@@ -428,7 +428,7 @@ export default function KeyPersonRiskArticle() {
         </h3>
         <p>
           This is common and usually a test. If their current pay is below
-          market, correct it&mdash;you should have budgeted for this.
+          market, correct it, you should have budgeted for this.
           If their demand is above market, negotiate calmly and tie any
           increase to measurable performance targets. Never capitulate out of
           fear. Overpaying one person creates resentment across the
@@ -439,9 +439,9 @@ export default function KeyPersonRiskArticle() {
           How long does it take to fully de-risk a key person dependency?
         </h3>
         <p>
-          For most functions, 12&ndash;18 months of deliberate cross-training,
+          For most functions, 12-18 months of deliberate cross-training,
           documentation, and backup development reduces dependency to a
-          manageable level. Revenue relationships take longer&mdash;expect 18&ndash;24
+          manageable level. Revenue relationships take longer, expect 18-24
           months before customers are fully comfortable with their new primary
           contact. The process accelerates dramatically if the departing key
           person (especially the seller) actively participates in introductions
@@ -455,7 +455,7 @@ export default function KeyPersonRiskArticle() {
           Absolutely, and sometimes you should. If the owner is the sole
           customer relationship, has no interest in a meaningful transition,
           and the business has no documented processes, you are not buying a
-          company&mdash;you are buying a job with debt. The search fund model
+          company, you are buying a job with debt. The search fund model
           depends on acquiring a business that can operate independently.
           Walking away from an over-concentrated deal is not failure; it is
           discipline.

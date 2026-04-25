@@ -35,7 +35,7 @@ export default function ETAvsStartupsFR() {
         <p>
           Environ 90% des startups &eacute;chouent, selon les donn&eacute;es compil&eacute;es par
           CB Insights. Parmi celles qui survivent, le r&eacute;sultat m&eacute;dian est
-          modeste &mdash; la plupart des startups &laquo;&nbsp;r&eacute;ussies&nbsp;&raquo; n&apos;atteignent
+          modeste, la plupart des startups &laquo;&nbsp;r&eacute;ussies&nbsp;&raquo; n&apos;atteignent
           jamais des rendements &agrave; l&apos;&eacute;chelle venture. En France, l&apos;&eacute;cosyst&egrave;me
           French Tech a produit des r&eacute;ussites spectaculaires (BlaBlaCar,
           Doctolib, Back Market), mais ces succ&egrave;s sont statistiquement
@@ -53,7 +53,7 @@ export default function ETAvsStartupsFR() {
           la franchise, avec plus de 2&nbsp;000 r&eacute;seaux et 92&nbsp;000 points de vente.
           Ce taux d&apos;&eacute;chec plus bas refl&egrave;te la valeur des syst&egrave;mes &eacute;prouv&eacute;s,
           de la notori&eacute;t&eacute; de marque et du soutien du franchiseur. Cependant,
-          la d&eacute;finition de &laquo;&nbsp;succ&egrave;s&nbsp;&raquo; varie &mdash; de nombreux franchis&eacute;s qui
+          la d&eacute;finition de &laquo;&nbsp;succ&egrave;s&nbsp;&raquo; varie, de nombreux franchis&eacute;s qui
           survivent techniquement gagnent en dessous de leur co&ucirc;t
           d&apos;opportunit&eacute;, rendant leur &laquo;&nbsp;r&eacute;ussite&nbsp;&raquo; &eacute;conomiquement
           discutable.
@@ -76,7 +76,7 @@ export default function ETAvsStartupsFR() {
           Cela signifie qu&apos;environ deux tiers des searchers r&eacute;ussissent
           &agrave; acqu&eacute;rir et &agrave; op&eacute;rer une entreprise. Quand un search fund &eacute;choue,
           c&apos;est le plus souvent parce que le searcher n&apos;a pas trouv&eacute; de
-          cible d&apos;acquisition ad&eacute;quate dans la fen&ecirc;tre de recherche &mdash; pas
+          cible d&apos;acquisition ad&eacute;quate dans la fen&ecirc;tre de recherche, pas
           parce que l&apos;entreprise acquise s&apos;est effondr&eacute;e. Les taux d&apos;&eacute;chec
           post-acquisition sont significativement plus bas, de l&apos;ordre de
           10 &agrave; 15%. Pour une analyse compl&egrave;te de la performance, consultez
@@ -122,7 +122,7 @@ export default function ETAvsStartupsFR() {
           </li>
           <li>
             <strong>Frais continus&nbsp;:</strong> Redevances de 3-7% du chiffre
-            d&apos;affaires plus contributions au fonds publicitaire de 1-3% &mdash;
+            d&apos;affaires plus contributions au fonds publicitaire de 1-3% , 
             ces co&ucirc;ts sont perp&eacute;tuels
           </li>
           <li>
@@ -151,7 +151,7 @@ export default function ETAvsStartupsFR() {
           <li>
             <strong>&Eacute;quit&eacute; du searcher&nbsp;:</strong> 20 &agrave; 30% de l&apos;entreprise
             acquise, typiquement vest&eacute;e sur 4 &agrave; 5 ans. C&apos;est de l&apos;&eacute;quit&eacute;
-            m&eacute;rit&eacute;e &mdash; vous ne l&apos;achetez pas, vous la gagnez par votre
+            m&eacute;rit&eacute;e, vous ne l&apos;achetez pas, vous la gagnez par votre
             travail et votre ex&eacute;cution
           </li>
         </ul>
@@ -169,7 +169,7 @@ export default function ETAvsStartupsFR() {
           La plupart des startups mettent 3 &agrave; 7 ans pour atteindre la
           rentabilit&eacute;, et beaucoup n&apos;y parviennent jamais. Les salaires des
           fondateurs pendant les premi&egrave;res ann&eacute;es sont souvent de 0 &agrave;
-          3&nbsp;000&nbsp;&euro;/mois &mdash; bien en dessous de ce que ces individus
+          3&nbsp;000&nbsp;&euro;/mois, bien en dessous de ce que ces individus
           pourraient gagner en entreprise. En France, le statut
           d&apos;auto-entrepreneur peut faciliter le d&eacute;marrage, mais les
           plafonds de chiffre d&apos;affaires limitent rapidement la croissance.
@@ -206,7 +206,7 @@ export default function ETAvsStartupsFR() {
         <ul className={ulClass}>
           <li>
             <strong>Startup&nbsp;:</strong> Contr&ocirc;le cr&eacute;atif et strat&eacute;gique total.
-            Vous d&eacute;finissez le produit, le march&eacute;, la marque, la culture &mdash;
+            Vous d&eacute;finissez le produit, le march&eacute;, la marque, la culture , 
             tout. Cette libert&eacute; est enivrante mais peut aussi &ecirc;tre
             paralysante sans garde-fous
           </li>
@@ -221,8 +221,8 @@ export default function ETAvsStartupsFR() {
             l&apos;acquisition. Vous avez un conseil d&apos;administration (typiquement
             vos investisseurs), mais vous &ecirc;tes le dirigeant qui prend les
             d&eacute;cisions quotidiennes et strat&eacute;giques. La diff&eacute;rence cl&eacute; avec
-            la startup est que vous h&eacute;ritez d&apos;un syst&egrave;me existant &mdash;
-            salari&eacute;s, clients, processus &mdash; plut&ocirc;t que de construire &agrave;
+            la startup est que vous h&eacute;ritez d&apos;un syst&egrave;me existant , 
+            salari&eacute;s, clients, processus, plut&ocirc;t que de construire &agrave;
             partir de z&eacute;ro
           </li>
         </ul>
@@ -231,7 +231,7 @@ export default function ETAvsStartupsFR() {
 
         <h3 className={h3Class}>Sorties de startups</h3>
         <p>
-          Le potentiel th&eacute;orique des startups est illimit&eacute; &mdash; un r&eacute;sultat
+          Le potentiel th&eacute;orique des startups est illimit&eacute;, un r&eacute;sultat
           licorne peut g&eacute;n&eacute;rer des centaines de millions de richesse pour
           le fondateur. En pratique, la sortie m&eacute;diane d&apos;une startup
           financ&eacute;e par du venture capital est d&apos;environ 50&nbsp;M&euro; en valeur
@@ -242,7 +242,7 @@ export default function ETAvsStartupsFR() {
 
         <h3 className={h3Class}>Sorties de franchises</h3>
         <p>
-          Les valeurs de revente de franchises sont g&eacute;n&eacute;ralement modestes &mdash;
+          Les valeurs de revente de franchises sont g&eacute;n&eacute;ralement modestes , 
           2 &agrave; 4 fois le flux de tr&eacute;sorerie annuel pour une unit&eacute; unique. Une
           franchise g&eacute;n&eacute;rant 80&nbsp;K&euro; de revenu annuel net pourrait se vendre
           160&nbsp;K&euro; &agrave; 320&nbsp;K&euro;. Le mod&egrave;le de franchise est mieux compris comme
@@ -256,7 +256,7 @@ export default function ETAvsStartupsFR() {
           deals du premier quartile d&eacute;passant 10x. Un searcher qui acquiert
           une entreprise de 5&nbsp;M&euro;, la fait cro&icirc;tre &agrave; 10&nbsp;M&euro; de valeur
           d&apos;entreprise sur cinq ans et d&eacute;tient 25% d&apos;&eacute;quit&eacute; r&eacute;aliserait
-          2,5&nbsp;M&euro; de patrimoine personnel &mdash; un r&eacute;sultat r&eacute;aliste et
+          2,5&nbsp;M&euro; de patrimoine personnel, un r&eacute;sultat r&eacute;aliste et
           atteignable dans le march&eacute; fran&ccedil;ais.
         </p>
 
@@ -330,8 +330,8 @@ export default function ETAvsStartupsFR() {
 
         <h3 className={h3Class}>Cr&eacute;ativit&eacute; vs. orientation op&eacute;rationnelle</h3>
         <p>
-          Si vous &ecirc;tes anim&eacute; par l&apos;invention de quelque chose de nouveau &mdash;
-          un produit, un march&eacute;, une cat&eacute;gorie &mdash; les startups sont votre
+          Si vous &ecirc;tes anim&eacute; par l&apos;invention de quelque chose de nouveau , 
+          un produit, un march&eacute;, une cat&eacute;gorie, les startups sont votre
           habitat naturel. Si vous excellez dans l&apos;optimisation de syst&egrave;mes
           existants, le management d&apos;&eacute;quipes et l&apos;am&eacute;lioration incr&eacute;mentale,
           l&apos;ETA est un meilleur choix. Les franchises conviennent aux
@@ -362,7 +362,7 @@ export default function ETAvsStartupsFR() {
           Harvard) est un avantage significatif en ETA car il donne acc&egrave;s au
           r&eacute;seau d&apos;investisseurs, au deal flow alumni et &agrave; la cr&eacute;dibilit&eacute;
           aupr&egrave;s des c&eacute;dants. Dans les startups, un MBA est moins pertinent
-          &mdash; l&apos;expertise sectorielle et les comp&eacute;tences techniques comptent
+          l&apos;expertise sectorielle et les comp&eacute;tences techniques comptent
           davantage. Dans les franchises, un MBA est largement sans objet&nbsp;;
           la discipline op&eacute;rationnelle et la capacit&eacute; commerciale sont les
           facteurs cl&eacute;s de succ&egrave;s.
@@ -371,7 +371,7 @@ export default function ETAvsStartupsFR() {
         <h2 className={h2Class}>Consid&eacute;rations de mode de vie</h2>
         <p>
           Devenir chef d&apos;entreprise n&apos;est pas seulement une d&eacute;cision de
-          carri&egrave;re &mdash; c&apos;est une d&eacute;cision de vie qui affecte votre famille,
+          carri&egrave;re, c&apos;est une d&eacute;cision de vie qui affecte votre famille,
           votre sant&eacute; et votre quotidien.
         </p>
         <ul className={ulClass}>
@@ -390,7 +390,7 @@ export default function ETAvsStartupsFR() {
           <li>
             <strong>ETA&nbsp;:</strong> 50 &agrave; 60 heures par semaine en tant que
             dirigeant. Vous h&eacute;ritez d&apos;une &eacute;quipe et d&apos;un rythme existants.
-            La flexibilit&eacute; g&eacute;ographique est limit&eacute;e &mdash; vous allez l&agrave; o&ugrave;
+            La flexibilit&eacute; g&eacute;ographique est limit&eacute;e, vous allez l&agrave; o&ugrave;
             se trouve l&apos;entreprise, ce qui peut signifier d&eacute;m&eacute;nager dans
             une ville de province. La stabilit&eacute; des flux de tr&eacute;sorerie
             existants r&eacute;duit (mais n&apos;&eacute;limine pas) le stress financier
@@ -406,9 +406,9 @@ export default function ETAvsStartupsFR() {
           une startup. Si vous voulez de la pr&eacute;visibilit&eacute; et un syst&egrave;me
           &eacute;prouv&eacute;, achetez une franchise. Si vous voulez &ecirc;tre dirigeant
           d&apos;une vraie entreprise rentable avec un potentiel significatif de
-          cr&eacute;ation de patrimoine &mdash; et que vous avez la mentalit&eacute;
+          cr&eacute;ation de patrimoine, et que vous avez la mentalit&eacute;
           op&eacute;rationnelle et les comp&eacute;tences en mod&eacute;lisation financi&egrave;re pour
-          structurer une transaction &mdash; l&apos;ETA est la voie la plus
+          structurer une transaction, l&apos;ETA est la voie la plus
           convaincante ajust&eacute;e du risque vers la direction d&apos;entreprise
           disponible aujourd&apos;hui. Notre{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">guide de d&eacute;marrage</Link> peut vous

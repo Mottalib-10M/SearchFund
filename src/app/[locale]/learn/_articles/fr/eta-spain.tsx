@@ -25,8 +25,8 @@ export default function ETASpainFR() {
           inf&eacute;rieurs &agrave; ceux d&apos;Europe du Nord, un soutien
           institutionnel en am&eacute;lioration constante et le r&ocirc;le
           d&eacute;terminant de l&apos;IESE Business School font de
-          l&apos;Espagne &mdash; et plus largement de la p&eacute;ninsule
-          Ib&eacute;rique incluant le Portugal &mdash; une destination de
+          l&apos;Espagne, et plus largement de la p&eacute;ninsule
+          Ib&eacute;rique incluant le Portugal, une destination de
           plus en plus attractive pour les praticiens du search fund.
         </p>
         <p>
@@ -63,7 +63,7 @@ export default function ETASpainFR() {
           agroalimentaire, distribution, services aux entreprises et
           industries li&eacute;es &agrave; la construction. Si
           l&apos;&eacute;conomie espagnole a souffert significativement durant
-          la crise financi&egrave;re de 2008&ndash;2014, les entreprises qui
+          la crise financi&egrave;re de 2008-2014, les entreprises qui
           ont surv&eacute;cu sont souvent des structures bien g&eacute;r&eacute;es,
           l&eacute;g&egrave;res, avec des bases clients fid&egrave;les et des
           &eacute;quipes exp&eacute;riment&eacute;es. Cette r&eacute;silience
@@ -147,7 +147,7 @@ export default function ETASpainFR() {
           fiscale consolid&eacute;e unique, permettant aux d&eacute;ductions
           d&apos;int&eacute;r&ecirc;ts sur la dette d&apos;acquisition de
           compenser les b&eacute;n&eacute;fices d&apos;exploitation de la
-          cible &mdash; un m&eacute;canisme comparable &agrave;
+          cible, un m&eacute;canisme comparable &agrave;
           l&apos;int&eacute;gration fiscale fran&ccedil;aise.
         </p>
       </div>
@@ -243,7 +243,7 @@ export default function ETASpainFR() {
           <li>
             <strong>&Eacute;cosyst&egrave;me d&apos;acqu&eacute;reurs limit&eacute;&nbsp;:</strong> Si
             le private equity est devenu actif sur le mid-market espagnol, le
-            segment micro-cap (500K&ndash;3M&nbsp;&euro; d&apos;EBITDA) reste
+            segment micro-cap (500K-3M&nbsp;&euro; d&apos;EBITDA) reste
             largement sous-desservi par les acheteurs institutionnels.
           </li>
           <li>
@@ -347,7 +347,7 @@ export default function ETASpainFR() {
           De nombreux dirigeants de PME espagnoles exercent en tant
           qu&apos;aut&oacute;nomos (travailleurs ind&eacute;pendants)
           plut&ocirc;t qu&apos;&agrave; travers une structure
-          soci&eacute;taire &mdash; un ph&eacute;nom&egrave;ne comparable
+          soci&eacute;taire, un ph&eacute;nom&egrave;ne comparable
           aux auto-entrepreneurs fran&ccedil;ais. L&apos;acquisition de
           l&apos;activit&eacute; d&apos;un aut&oacute;nomo
           n&eacute;cessite un achat d&apos;actifs (asset deal) plut&ocirc;t

@@ -14,7 +14,7 @@ export default function BabyBoomerSuccessionArticle() {
           Over the next decade, the largest generational transfer of business
           ownership in history will reshape the global economy. In the United
           States alone, approximately 10 million businesses are owned by baby
-          boomers (born 1946&ndash;1964) who are now between 62 and 80 years
+          boomers (born 1946-1964) who are now between 62 and 80 years
           old. These businesses collectively represent an estimated $10 trillion
           in enterprise value. In Europe, the European Commission estimates that
           450,000 businesses change hands each year, and the pace is
@@ -37,10 +37,10 @@ export default function BabyBoomerSuccessionArticle() {
         <h3 className={h3Class}>United States</h3>
         <ul className={ulClass}>
           <li><strong>10 million businesses</strong> owned by people aged 55+</li>
-          <li><strong>~70% of private businesses</strong> will change ownership in the next 10&ndash;15 years</li>
-          <li>Only <strong>20&ndash;30%</strong> of family businesses successfully transition to the next generation</li>
+          <li><strong>~70% of private businesses</strong> will change ownership in the next 10-15 years</li>
+          <li>Only <strong>20-30%</strong> of family businesses successfully transition to the next generation</li>
           <li><strong>4.5 million businesses</strong> with employees (non-employer firms excluded) face succession</li>
-          <li>The US Census Bureau reports that <strong>business exits peak</strong> when owners reach age 65&ndash;70</li>
+          <li>The US Census Bureau reports that <strong>business exits peak</strong> when owners reach age 65-70</li>
           <li><strong>Fewer than 25%</strong> of business owners have a formal succession plan</li>
         </ul>
 
@@ -58,8 +58,8 @@ export default function BabyBoomerSuccessionArticle() {
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
             European ETA market
           </Link>{" "}
-          is especially compelling because lower acquisition multiples (3&ndash;5x
-          EBITDA vs. 4&ndash;7x in the US) combine with government-backed
+          is especially compelling because lower acquisition multiples (3-5x
+          EBITDA vs. 4-7x in the US) combine with government-backed
           financing programs designed to support business succession.
         </p>
 
@@ -74,7 +74,7 @@ export default function BabyBoomerSuccessionArticle() {
           When supply exceeds demand, prices moderate. Baby boomer owners who
           struggle to find successors often accept lower multiples than they
           would in a balanced market. For businesses under $5M in enterprise
-          value &mdash; a segment where private equity firms rarely operate &mdash;
+          value, a segment where private equity firms rarely operate , 
           the supply-demand imbalance is most pronounced. This is the sweet spot
           for{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
@@ -95,7 +95,7 @@ export default function BabyBoomerSuccessionArticle() {
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
             seller financing
           </Link>{" "}
-          (10&ndash;30% of the purchase price) and flexible{" "}
+          (10-30% of the purchase price) and flexible{" "}
           <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
             earn-out structures
           </Link>{" "}
@@ -177,10 +177,10 @@ export default function BabyBoomerSuccessionArticle() {
           <li><strong>Demographic shifts:</strong> Smaller family sizes mean fewer potential successors per business owner</li>
         </ul>
         <p>
-          The result: an estimated 70&ndash;80% of business owners who plan to
+          The result: an estimated 70-80% of business owners who plan to
           transfer within the family ultimately cannot do so successfully. This
           creates a massive pool of &ldquo;orphaned&rdquo; businesses seeking
-          external buyers &mdash; the exact target market for ETA practitioners.
+          external buyers, the exact target market for ETA practitioners.
         </p>
 
         <h2 className={h2Class}>The risks: what happens without a buyer</h2>
@@ -202,7 +202,7 @@ export default function BabyBoomerSuccessionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>United States &mdash; SBA 7(a):</strong> The Small Business
+            <strong>United States, SBA 7(a):</strong> The Small Business
             Administration&rsquo;s flagship loan program provides up to $5M for
             business acquisitions with 10-year terms and competitive rates.
             Learn more in our{" "}
@@ -211,7 +211,7 @@ export default function BabyBoomerSuccessionArticle() {
             </Link>.
           </li>
           <li>
-            <strong>France &mdash; Bpifrance:</strong> France&rsquo;s public
+            <strong>France, Bpifrance:</strong> France&rsquo;s public
             investment bank offers dedicated &ldquo;Transmission-Reprise&rdquo;
             programs with subsidized loans, guarantees, and advisory support for
             business succession. See our{" "}
@@ -220,7 +220,7 @@ export default function BabyBoomerSuccessionArticle() {
             </Link>.
           </li>
           <li>
-            <strong>Germany &mdash; KfW:</strong> The KfW&rsquo;s ERP programs
+            <strong>Germany, KfW:</strong> The KfW&rsquo;s ERP programs
             provide favorable financing for Nachfolge (succession) transactions.
             See our{" "}
             <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">
@@ -228,7 +228,7 @@ export default function BabyBoomerSuccessionArticle() {
             </Link>.
           </li>
           <li>
-            <strong>UK &mdash; British Business Bank:</strong> Provides
+            <strong>UK, British Business Bank:</strong> Provides
             financing support and guarantee schemes for SME acquisitions.
           </li>
           <li>
@@ -249,7 +249,7 @@ export default function BabyBoomerSuccessionArticle() {
           succession wave because:
         </p>
         <ul className={ulClass}>
-          <li><strong>Right size:</strong> Search funds target the $2&ndash;$20M enterprise value segment that large PE firms ignore and individual buyers struggle to finance</li>
+          <li><strong>Right size:</strong> Search funds target the $2-$20M enterprise value segment that large PE firms ignore and individual buyers struggle to finance</li>
           <li><strong>Right approach:</strong> The searcher-as-CEO model appeals to sellers who want a committed, hands-on successor rather than a financial buyer</li>
           <li><strong>Right financing:</strong> The combination of investor equity, bank debt, seller notes, and government programs makes acquisitions feasible</li>
           <li><strong>Right economics:</strong> With lower multiples due to succession urgency and value creation through modernization, returns are attractive for both operators and{" "}
@@ -263,7 +263,7 @@ export default function BabyBoomerSuccessionArticle() {
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             search fund performance data
           </Link>{" "}
-          &mdash; 35% aggregate IRR over 40 years &mdash; has been achieved
+         , 35% aggregate IRR over 40 years, has been achieved
           largely by acquiring businesses from retiring owners and
           professionalizing their operations.
         </p>
@@ -277,23 +277,23 @@ export default function BabyBoomerSuccessionArticle() {
             <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">
               preparing
             </Link>{" "}
-            early &mdash; develop your thesis, build your network, and understand your financing options</li>
+            early, develop your thesis, build your network, and understand your financing options</li>
           <li>Focus on{" "}
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
               proprietary deal sourcing
             </Link>{" "}
-            &mdash; many succession-driven deals never hit the open market</li>
+            many succession-driven deals never hit the open market</li>
           <li>Build relationships with business brokers, CPAs, and wealth advisors who counsel retiring business owners</li>
           <li>Learn the{" "}
             <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">
               negotiation dynamics
             </Link>{" "}
             unique to succession-driven deals (legacy concerns, employee welfare, transition support)</li>
-          <li>Understand the seller&rsquo;s perspective &mdash; for most owners, their business is their legacy, their retirement fund, and their identity. Empathy is your strongest negotiating tool.</li>
+          <li>Understand the seller&rsquo;s perspective, for most owners, their business is their legacy, their retirement fund, and their identity. Empathy is your strongest negotiating tool.</li>
         </ul>
         <p>
-          The succession crisis is not a temporary event &mdash; it will
-          persist for at least 10&ndash;15 years as the boomer generation fully
+          The succession crisis is not a temporary event, it will
+          persist for at least 10-15 years as the boomer generation fully
           exits the workforce. For those who prepare now, it represents the
           defining opportunity of a generation in small business acquisition.
           Learn how to take advantage in our{" "}

@@ -13,8 +13,8 @@ export default function ETAReadingListFR() {
           Que vous découvriez l&apos;Entrepreneurship Through Acquisition
           (ETA) ou que vous prépariez le lancement de votre search fund, une
           base de connaissances solide est indispensable. La littérature sur
-          les search funds &mdash; longtemps cantonnée aux cercles
-          académiques de Stanford et de Harvard &mdash; s&apos;est
+          les search funds, longtemps cantonnée aux cercles
+          académiques de Stanford et de Harvard, s&apos;est
           considérablement enrichie ces dernières années, avec l&apos;émergence
           de recherches européennes, de podcasts spécialisés et de
           ressources francophones. Cet article propose une bibliographie
@@ -98,7 +98,7 @@ export default function ETAReadingListFR() {
           <li>
             <strong>&laquo;&nbsp;HBR Guide to Buying a Small
             Business&nbsp;&raquo;</strong> de Richard S. Ruback et Royce
-            Yudkoff &mdash; Deux professeurs de Harvard Business School
+            Yudkoff, Deux professeurs de Harvard Business School
             exposent un cadre pratique pour l&apos;acquisition d&apos;une
             petite entreprise. L&apos;ouvrage couvre la recherche de cibles,
             l&apos;évaluation, le financement, la négociation et la
@@ -111,7 +111,7 @@ export default function ETAReadingListFR() {
           </li>
           <li>
             <strong>&laquo;&nbsp;Buy Then Build&nbsp;&raquo;</strong> de
-            Walker Deibel &mdash; Un guide complet de l&apos;entrepreneuriat
+            Walker Deibel, Un guide complet de l&apos;entrepreneuriat
             par acquisition, couvrant l&apos;ensemble du cycle de vie, de la
             recherche aux opérations post-acquisition. Deibel, lui-même
             entrepreneur par acquisition, offre une perspective
@@ -122,7 +122,7 @@ export default function ETAReadingListFR() {
           </li>
           <li>
             <strong>&laquo;&nbsp;Search Funds&nbsp;&raquo;</strong> de
-            Jeffrey C. Yoder et Paul J. Kelly &mdash; Un ouvrage spécifiquement
+            Jeffrey C. Yoder et Paul J. Kelly, Un ouvrage spécifiquement
             dédié au modèle search fund, écrit par des praticiens-investisseurs
             de longue date. Le livre couvre en détail la levée du capital de
             recherche, la structuration du search fund, la recherche et
@@ -133,7 +133,7 @@ export default function ETAReadingListFR() {
           </li>
           <li>
             <strong>&laquo;&nbsp;The First 90 Days&nbsp;&raquo;</strong> de
-            Michael D. Watkins &mdash; Bien que cet ouvrage ne traite pas
+            Michael D. Watkins, Bien que cet ouvrage ne traite pas
             spécifiquement des search funds, il est devenu une lecture
             quasi obligatoire pour les searchers qui s&apos;apprêtent à
             prendre la direction d&apos;une entreprise acquise. Watkins
@@ -146,7 +146,7 @@ export default function ETAReadingListFR() {
           </li>
           <li>
             <strong>&laquo;&nbsp;A Practical Guide to Buying a
-            Business&nbsp;&raquo;</strong> de Robert Chalfin &mdash; Focalisé
+            Business&nbsp;&raquo;</strong> de Robert Chalfin, Focalisé
             sur les aspects mécaniques de la structuration du deal, de la
             négociation et du closing. Cet ouvrage complète les lectures
             plus stratégiques par une approche concrète des processus
@@ -219,7 +219,7 @@ export default function ETAReadingListFR() {
         <ul className={ulClass}>
           <li>
             <strong>&laquo;&nbsp;Entrepreneurship through acquisition&nbsp;:
-            A scoping review&nbsp;&raquo;</strong> &mdash; Publié dans le
+            A scoping review&nbsp;&raquo;</strong>: Publié dans le
             <em> Management Review Quarterly</em> (Springer), cet article
             propose une revue systématique de la littérature académique sur
             l&apos;ETA. Il cartographie les thèmes de recherche, identifie les
@@ -230,7 +230,7 @@ export default function ETAReadingListFR() {
           <li>
             <strong>Yale School of Management&nbsp;:</strong>{" "}
             &laquo;&nbsp;Evolution of a Search Fund CEO and
-            Company&nbsp;&raquo; &mdash; Cette étude examine comment les
+            Company&nbsp;&raquo;, Cette étude examine comment les
             searchers-CEOs évoluent en tant que leaders au fil du temps,
             analysant les phases de développement managérial et les
             facteurs de succès à long terme.
@@ -238,7 +238,7 @@ export default function ETAReadingListFR() {
           <li>
             <strong>University of Chicago Booth&nbsp;:</strong>{" "}
             &laquo;&nbsp;The Evolution of Entrepreneurship Through
-            Acquisition&nbsp;&raquo; &mdash; Retrace l&apos;histoire et le
+            Acquisition&nbsp;&raquo;, Retrace l&apos;histoire et le
             développement de l&apos;ETA en tant que classe d&apos;actifs, depuis
             les premiers search funds de Stanford jusqu&apos;à
             l&apos;internationalisation du modèle.

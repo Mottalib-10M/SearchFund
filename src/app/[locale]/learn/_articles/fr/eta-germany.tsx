@@ -9,8 +9,8 @@ export default function ETAGermanyFR() {
 
       <div className={bodyClass}>
         <p>
-          Le Mittelstand allemand &mdash; colonne vert&eacute;brale de la premi&egrave;re
-          &eacute;conomie europ&eacute;enne &mdash; repr&eacute;sente l&apos;une des opportunit&eacute;s les plus
+          Le Mittelstand allemand, colonne vert&eacute;brale de la premi&egrave;re
+          &eacute;conomie europ&eacute;enne, repr&eacute;sente l&apos;une des opportunit&eacute;s les plus
           convaincantes pour les entrepreneurs par acquisition dans le{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">paysage europ&eacute;en de l&apos;ETA</Link>.
           Avec plus de 3,5 millions de PME, une vague massive de succession
@@ -18,7 +18,7 @@ export default function ETAGermanyFR() {
           niche, l&apos;Allemagne est un march&eacute; fronti&egrave;re pour l&apos;ETA. Pour un
           searcher fran&ccedil;ais, le march&eacute; allemand offre une proximit&eacute;
           g&eacute;ographique, des compl&eacute;mentarit&eacute;s &eacute;conomiques &eacute;videntes et un
-          potentiel consid&eacute;rable &mdash; &agrave; condition de comprendre ses
+          potentiel consid&eacute;rable, &agrave; condition de comprendre ses
           sp&eacute;cificit&eacute;s culturelles et juridiques.
         </p>
 
@@ -29,7 +29,7 @@ export default function ETAGermanyFR() {
           souvent familiales, op&egrave;rent depuis des d&eacute;cennies, sont leaders de
           march&eacute; dans leurs niches et profond&eacute;ment enracin&eacute;es dans leurs
           communaut&eacute;s locales. Beaucoup sont des &laquo;&nbsp;champions
-          cach&eacute;s&nbsp;&raquo; &mdash; leaders mondiaux de march&eacute; dans des produits ou
+          cach&eacute;s&nbsp;&raquo;, leaders mondiaux de march&eacute; dans des produits ou
           services sp&eacute;cialis&eacute;s que peu de personnes en dehors du secteur
           connaissent.
         </p>
@@ -40,9 +40,9 @@ export default function ETAGermanyFR() {
           technique approfondie plut&ocirc;t que l&apos;ing&eacute;nierie financi&egrave;re, la
           loyaut&eacute; envers les employ&eacute;s et les communaut&eacute;s plut&ocirc;t que la
           maximisation du profit &agrave; court terme. Ces valeurs sont ce qui rend
-          les entreprises du Mittelstand r&eacute;silientes &mdash; beaucoup ont
+          les entreprises du Mittelstand r&eacute;silientes, beaucoup ont
           survcu &agrave; deux guerres mondiales, &agrave; l&apos;hyperinflation et &agrave; la crise
-          financi&egrave;re de 2008 &mdash; et elles sont aussi ce qui rend la
+          financi&egrave;re de 2008, et elles sont aussi ce qui rend la
           succession si d&eacute;licate. Les propri&eacute;taires ne vendent pas
           simplement un flux de revenus&nbsp;; ils confient l&apos;h&eacute;ritage de leur
           famille.
@@ -57,7 +57,7 @@ export default function ETAGermanyFR() {
           sp&eacute;cialisation allemande. En dessous de ces champions cach&eacute;s, des
           milliers d&apos;entreprises plus petites avec 2 &agrave; 20 millions d&apos;euros
           de chiffre d&apos;affaires op&egrave;rent avec le m&ecirc;me focus et la m&ecirc;me
-          qualit&eacute; &mdash; et nombre d&apos;entre elles se situent dans la zone
+          qualit&eacute;, et nombre d&apos;entre elles se situent dans la zone
           id&eacute;ale du search fund.
         </p>
 
@@ -85,7 +85,7 @@ export default function ETAGermanyFR() {
           se retirer d&apos;ici 2027, dont environ 150&nbsp;000 recherchent activement
           un successeur externe. Beaucoup de ces dirigeants repoussent leur
           d&eacute;part &agrave; la retraite parce qu&apos;ils ne trouvent pas d&apos;acheteur
-          ad&eacute;quat &mdash; quelqu&apos;un qui pr&eacute;servera la culture d&apos;entreprise,
+          ad&eacute;quat, quelqu&apos;un qui pr&eacute;servera la culture d&apos;entreprise,
           maintiendra les employ&eacute;s et continuera d&apos;investir dans la
           qualit&eacute;. Cette pr&eacute;f&eacute;rence pour un acheteur &laquo;&nbsp;gardien&nbsp;&raquo;
           s&apos;aligne parfaitement avec le mod&egrave;le du search fund, o&ugrave;
@@ -120,7 +120,7 @@ export default function ETAGermanyFR() {
         <h3 className={h3Class}>La GmbH &amp; Co. KG</h3>
         <p>
           Beaucoup d&apos;entreprises familiales allemandes sont structur&eacute;es en
-          GmbH &amp; Co. KG &mdash; une soci&eacute;t&eacute; en commandite (KG) dont
+          GmbH &amp; Co. KG, une soci&eacute;t&eacute; en commandite (KG) dont
           l&apos;associ&eacute; commandit&eacute; &agrave; responsabilit&eacute; illimit&eacute;e est une GmbH,
           combinant la protection de la responsabilit&eacute; avec la transparence
           fiscale d&apos;une soci&eacute;t&eacute; de personnes. Cette structure &eacute;tait
@@ -155,8 +155,8 @@ export default function ETAGermanyFR() {
         <p>
           La KfW (Kreditanstalt f&uuml;r Wiederaufbau) est l&apos;institution de
           financement la plus importante pour les acquisitions search fund
-          en Allemagne &mdash; l&apos;&eacute;quivalent de Bpifrance. Son programme
-          ERP-Gr&uuml;nderkredit &mdash; Universell offre des pr&ecirc;ts jusqu&apos;&agrave;
+          en Allemagne, l&apos;&eacute;quivalent de Bpifrance. Son programme
+          ERP-Gr&uuml;nderkredit, Universell offre des pr&ecirc;ts jusqu&apos;&agrave;
           25 millions d&apos;euros &agrave; des taux bonifi&eacute;s pour les acquisitions
           d&apos;entreprises, la KfW assumant jusqu&apos;&agrave; 80% du risque de cr&eacute;dit
           pour la banque pr&ecirc;teuse. Ce m&eacute;canisme de partage des risques est
@@ -221,7 +221,7 @@ export default function ETAGermanyFR() {
           valorisations y sont l&eacute;g&egrave;rement plus &eacute;lev&eacute;es en raison de
           fondamentaux &eacute;conomiques plus solides, mais la qualit&eacute; des
           entreprises l&apos;est aussi. La culture d&apos;affaires bavaroise est
-          relationnelle et assez conservatrice &mdash; attendez-vous &agrave; des
+          relationnelle et assez conservatrice, attendez-vous &agrave; des
           p&eacute;riodes de courtisage plus longues avec les c&eacute;dants.
         </p>
 
@@ -233,8 +233,8 @@ export default function ETAGermanyFR() {
           d&apos;entreprises d&apos;ing&eacute;nierie de pr&eacute;cision, automobile et m&eacute;canique.
           Beaucoup sont familiales, orient&eacute;es export et g&eacute;n&egrave;rent 5 &agrave;
           50 millions d&apos;euros de chiffre d&apos;affaires. La philosophie
-          d&apos;entreprise souabe &mdash; &laquo;&nbsp;schaffe, schaffe, H&auml;usle
-          baue&nbsp;&raquo; (travailler, travailler, construire sa maison) &mdash;
+          d&apos;entreprise souabe, &laquo;&nbsp;schaffe, schaffe, H&auml;usle
+          baue&nbsp;&raquo; (travailler, travailler, construire sa maison) , 
           valorise la frugalit&eacute;, la qualit&eacute; et la pens&eacute;e &agrave; long terme.
         </p>
 
@@ -319,7 +319,7 @@ export default function ETAGermanyFR() {
           La culture d&apos;affaires allemande est fondamentalement diff&eacute;rente
           de l&apos;environnement anglo-saxon de deal-making. Les c&eacute;dants
           allemands ne m&egrave;nent pas un processus d&apos;ench&egrave;res cherchant le
-          plus offrant. Ils recherchent un Nachfolger (successeur) &mdash;
+          plus offrant. Ils recherchent un Nachfolger (successeur) , 
           quelqu&apos;un qui continuera ce qu&apos;ils ont construit. Cela signifie
           que le processus est plus lent, plus relationnel, et met l&apos;accent
           sur le caract&egrave;re, la comp&eacute;tence et l&apos;engagement de l&apos;acheteur.
@@ -328,7 +328,7 @@ export default function ETAGermanyFR() {
           confiance pour pr&eacute;server la culture de l&apos;entreprise et bien
           traiter les employ&eacute;s. Pour un searcher fran&ccedil;ais, cette mentalit&eacute;
           est en fait assez proche de la culture de cession des PME
-          fran&ccedil;aises &mdash; un atout culturel significatif par rapport aux
+          fran&ccedil;aises, un atout culturel significatif par rapport aux
           searchers anglo-saxons.
         </p>
 

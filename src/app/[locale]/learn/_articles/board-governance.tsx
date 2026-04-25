@@ -38,15 +38,15 @@ export default function BoardGovernanceArticle() {
             power.
           </li>
           <li>
-            <strong>Investor representatives (2&ndash;3 seats):</strong> these
+            <strong>Investor representatives (2-3 seats):</strong> these
             are typically the lead investors who committed the largest checks
             during the search phase and acquisition. They bring deal
             experience, industry knowledge, and networks. In a traditional
-            search fund with 10&ndash;20 investors, only two to three will have
+            search fund with 10-20 investors, only two to three will have
             board seats; the rest participate through investor updates.
           </li>
           <li>
-            <strong>Independent director (0&ndash;1 seat):</strong> an outside
+            <strong>Independent director (0-1 seat):</strong> an outside
             director with relevant industry experience - often recruited from your{" "}
             <Link href="/learn/advisory-board" className="text-apple-accent hover:underline">advisory board</Link>{" "}
             - who is not affiliated with any investor group. Independent directors bring objectivity,
@@ -118,7 +118,7 @@ export default function BoardGovernanceArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Effective meeting structure (2&ndash;3 hours)</h3>
+        <h3 className={h3Class}>Effective meeting structure (2-3 hours)</h3>
         <p>
           The best board meetings are structured, focused, and leave ample
           time for strategic discussion. A common mistake is spending 80% of
@@ -133,28 +133,28 @@ export default function BoardGovernanceArticle() {
             unless a board member raises an issue.
           </li>
           <li>
-            <strong>CEO update (20&ndash;30 minutes):</strong> high-level
+            <strong>CEO update (20-30 minutes):</strong> high-level
             overview of business performance, key wins, challenges, and
             priorities for the next quarter. This should be a narrative, not a
             data dump. Board members should have received the detailed
             financials three to five days before the meeting.
           </li>
           <li>
-            <strong>Financial review (20&ndash;30 minutes):</strong> walk
+            <strong>Financial review (20-30 minutes):</strong> walk
             through key metrics, variances to budget, and cash flow. Focus on
             exceptions and trends rather than line-by-line details. Board
             members should come prepared with questions based on the pre-read
             materials.
           </li>
           <li>
-            <strong>Deep dive topic (45&ndash;60 minutes):</strong> dedicate a
+            <strong>Deep dive topic (45-60 minutes):</strong> dedicate a
             substantial block to one strategic topic that benefits from board
             input. Examples: pricing strategy, add-on acquisition evaluation,
             technology investment, organizational design, competitive response,
             or exit planning. Rotate topics each meeting.
           </li>
           <li>
-            <strong>Issues for discussion (15&ndash;20 minutes):</strong>{" "}
+            <strong>Issues for discussion (15-20 minutes):</strong>{" "}
             specific decisions or risks the CEO wants board input on. Frame
             these clearly: here is the situation, here are the options, here is
             my recommendation, what does the board think?
@@ -217,8 +217,8 @@ export default function BoardGovernanceArticle() {
             <strong>No surprises:</strong> the cardinal rule of board
             management - and of{" "}
             <Link href="/learn/investor-relations" className="text-apple-accent hover:underline">investor relations</Link>{" "}
-            more broadly. If something material happens &mdash; positive or
-            negative &mdash; communicate it to the board immediately, not at
+            more broadly. If something material happens, positive or
+            negative, communicate it to the board immediately, not at
             the next meeting. Bad news does not improve with age.
           </li>
           <li>
@@ -257,7 +257,7 @@ export default function BoardGovernanceArticle() {
           </li>
           <li>
             <strong>Board notification:</strong> hiring or terminating senior
-            managers, capital expenditures of $50K&ndash;$200K, customer or
+            managers, capital expenditures of $50K-$200K, customer or
             vendor concentration changes, competitive threats.
           </li>
           <li>
@@ -309,8 +309,8 @@ export default function BoardGovernanceArticle() {
             the time, interest, and expertise to contribute meaningfully.
           </li>
           <li>
-            <strong>Compensation:</strong> $5K&ndash;$15K per year in cash, or
-            a small equity grant (0.25&ndash;1% of the company). Independent
+            <strong>Compensation:</strong> $5K-$15K per year in cash, or
+            a small equity grant (0.25-1% of the company). Independent
             directors for search fund companies are not compensated like
             public company directors; the primary motivation should be
             interest in the business and the CEO&apos;s success.
@@ -353,9 +353,9 @@ export default function BoardGovernanceArticle() {
 
         <h2 className={h2Class}>Managing investor expectations</h2>
         <p>
-          Search fund investors expect to see a 3&ndash;5x return on their
+          Search fund investors expect to see a 3-5x return on their
           investment over a five-to-seven year hold period, with a target IRR
-          of 25&ndash;35%. Managing these expectations requires transparent
+          of 25-35%. Managing these expectations requires transparent
           communication and realistic goal-setting.
         </p>
         <ul className={ulClass}>
@@ -421,24 +421,24 @@ export default function BoardGovernanceArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>$1M&ndash;$3M EBITDA:</strong> three-member board (CEO
+            <strong>$1M-$3M EBITDA:</strong> three-member board (CEO
             plus two investors). Focus on stabilization, operational
             improvement, and building management depth.
           </li>
           <li>
-            <strong>$3M&ndash;$6M EBITDA:</strong> add an independent director
+            <strong>$3M-$6M EBITDA:</strong> add an independent director
             with industry expertise. Begin discussing add-on acquisitions and
             long-term strategic direction.
           </li>
           <li>
-            <strong>$6M&ndash;$10M+ EBITDA:</strong> expand to five members if
+            <strong>$6M-$10M+ EBITDA:</strong> expand to five members if
             needed. Add a second independent director or a board member with
             M&amp;A or exit experience. Begin formal exit planning discussions.
           </li>
         </ul>
 
         <p>
-          Effective board governance is not about control &mdash; it is about
+          Effective board governance is not about control, it is about
           creating a trusted partnership between the CEO and investors that
           drives better decisions, faster growth, and ultimately stronger
           returns. The CEOs who manage their boards most effectively are those
@@ -453,18 +453,18 @@ export default function BoardGovernanceArticle() {
         <h3 className={h3Class}>How often should a search fund board meet?</h3>
         <p>
           Board meeting frequency should match the stage and risk profile of the business. According to Stanford GSB&rsquo;s research on search fund governance, the recommended cadence is monthly meetings during the first year post-acquisition (the highest-risk period, particularly during the{" "}
-          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>), transitioning to quarterly meetings in year two and beyond. Monthly meetings in year one ensure the board stays close to the business and can provide timely guidance on critical decisions &mdash; pricing, key hires, customer retention, and operational challenges. During crisis periods (major customer loss, key employee departure, financial underperformance), boards should return to monthly or even biweekly cadence regardless of the company&rsquo;s stage.
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>), transitioning to quarterly meetings in year two and beyond. Monthly meetings in year one ensure the board stays close to the business and can provide timely guidance on critical decisions, pricing, key hires, customer retention, and operational challenges. During crisis periods (major customer loss, key employee departure, financial underperformance), boards should return to monthly or even biweekly cadence regardless of the company&rsquo;s stage.
         </p>
 
         <h3 className={h3Class}>What decision authority does the CEO have versus the board?</h3>
         <p>
-          Decision boundaries should be established early and documented clearly. According to the National Association of Corporate Directors (NACD), the standard framework for search fund companies gives the CEO unilateral authority over hiring below the VP level, capital expenditures under $50K, and operational decisions within the approved budget. Board notification is required for senior management changes and capex of $50K&ndash;$200K. Board approval is required for the annual budget, CEO compensation changes, acquisitions or divestitures, capital expenditures above $200K, new debt or equity issuance, and related-party transactions. The specific thresholds should be tailored to the company&rsquo;s size and documented in the shareholders&rsquo; agreement or{" "}
+          Decision boundaries should be established early and documented clearly. According to the National Association of Corporate Directors (NACD), the standard framework for search fund companies gives the CEO unilateral authority over hiring below the VP level, capital expenditures under $50K, and operational decisions within the approved budget. Board notification is required for senior management changes and capex of $50K-$200K. Board approval is required for the annual budget, CEO compensation changes, acquisitions or divestitures, capital expenditures above $200K, new debt or equity issuance, and related-party transactions. The specific thresholds should be tailored to the company&rsquo;s size and documented in the shareholders&rsquo; agreement or{" "}
           <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">corporate governance documents</Link>.
         </p>
 
         <h3 className={h3Class}>When should I add an independent director to the board?</h3>
         <p>
-          An independent director adds the most value when the business reaches $3M+ EBITDA and strategic decisions become more complex. According to IESE Business School&rsquo;s research on search fund governance, boards with at least one independent director report higher CEO satisfaction scores and better alignment on exit timing. Independent directors are particularly valuable when investor board members lack industry-specific expertise, when CEO-investor dynamics become strained, when the company is evaluating add-on acquisitions, or when preparing for exit. Compensation for independent directors in search fund companies typically ranges from $5K&ndash;$15K per year in cash or 0.25&ndash;1.0% equity, well below public company standards &mdash; the primary motivation should be genuine interest in the business and the CEO&rsquo;s success.
+          An independent director adds the most value when the business reaches $3M+ EBITDA and strategic decisions become more complex. According to IESE Business School&rsquo;s research on search fund governance, boards with at least one independent director report higher CEO satisfaction scores and better alignment on exit timing. Independent directors are particularly valuable when investor board members lack industry-specific expertise, when CEO-investor dynamics become strained, when the company is evaluating add-on acquisitions, or when preparing for exit. Compensation for independent directors in search fund companies typically ranges from $5K-$15K per year in cash or 0.25-1.0% equity, well below public company standards, the primary motivation should be genuine interest in the business and the CEO&rsquo;s success.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

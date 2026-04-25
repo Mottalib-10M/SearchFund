@@ -12,13 +12,13 @@ export default function ROBSAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           A Rollovers as Business Startups (ROBS) arrangement lets you redirect retirement
-          savings &mdash; a 401(k), traditional IRA, 403(b), or other qualified plan &mdash;
+          savings, a 401(k), traditional IRA, 403(b), or other qualified plan , 
           into a business acquisition without paying early-withdrawal penalties or income tax.
           The mechanism is fully legal under ERISA and the Internal Revenue Code, and{" "}
           <a href="https://www.guidantfinancial.com/small-business-trends/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Guidant Financial&rsquo;s 2024 Small Business Trends survey</a>{" "}
           found that 52% of prospective small-business owners used ROBS as their primary
-          funding source &mdash; making it the single most popular financing method ahead
-          of personal cash (19%) and SBA loans (12%). Setup typically costs $5,000&ndash;$7,000,
+          funding source, making it the single most popular financing method ahead
+          of personal cash (19%) and SBA loans (12%). Setup typically costs $5,000-$7,000,
           requires a minimum retirement balance of roughly $50,000, and takes three to
           six weeks from incorporation to funded C-Corporation. This guide walks through
           every step of the process, the IRS compliance requirements that trip up most
@@ -34,7 +34,7 @@ export default function ROBSAcquisitionArticle() {
         <p>
           ROBS exploits a provision in the{" "}
           <a href="https://www.irs.gov/retirement-plans/rollovers-as-business-start-ups-compliance-project" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Internal Revenue Code</a>{" "}
-          that allows a 401(k) plan to invest in Qualified Employer Securities (QES) &mdash;
+          that allows a 401(k) plan to invest in Qualified Employer Securities (QES) , 
           the stock of the sponsoring employer. Congress established this right through
           ERISA in 1974, and the IRS has confirmed the legality of ROBS while flagging
           compliance concerns through its dedicated ROBS Compliance Project, which it
@@ -43,7 +43,7 @@ export default function ROBSAcquisitionArticle() {
         <ol className={olClass}>
           <li>
             <strong>Form a C-Corporation.</strong> You incorporate a new C-Corp in your
-            state. ROBS requires a C-Corporation specifically &mdash; not an LLC, S-Corp,
+            state. ROBS requires a C-Corporation specifically, not an LLC, S-Corp,
             or partnership. The reason is structural: only a C-Corp can issue the class
             of stock that a 401(k) plan is permitted to purchase as QES. Learn more about
             entity selection in our{" "}
@@ -51,7 +51,7 @@ export default function ROBSAcquisitionArticle() {
           </li>
           <li>
             <strong>Establish a 401(k) plan under the new C-Corp.</strong> The corporation
-            adopts a new retirement plan &mdash; a 401(k) &mdash; with plan documents that
+            adopts a new retirement plan, a 401(k), with plan documents that
             explicitly permit investment in employer stock. This is the plan that will
             hold the rolled-over funds.
           </li>
@@ -81,7 +81,7 @@ export default function ROBSAcquisitionArticle() {
         </ol>
         <p>
           The critical distinction: your retirement money is not &ldquo;withdrawn.&rdquo;
-          It is invested &mdash; specifically, it buys equity in a company you operate.
+          It is invested, specifically, it buys equity in a company you operate.
           If the business grows in value, your retirement account grows with it through
           the appreciation of the company stock it holds.
         </p>
@@ -97,7 +97,7 @@ export default function ROBSAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Setup fee: $4,000&ndash;$8,000.</strong> This covers C-Corp
+            <strong>Setup fee: $4,000-$8,000.</strong> This covers C-Corp
             formation, 401(k) plan document drafting, IRS determination letter
             application, rollover facilitation, and initial stock issuance. Guidant
             Financial, the largest ROBS provider with over 35,000 clients since 2003,
@@ -105,31 +105,31 @@ export default function ROBSAcquisitionArticle() {
             more affordable but may offer fewer compliance support features.
           </li>
           <li>
-            <strong>Monthly administration: $100&ndash;$200 per month ($1,200&ndash;$2,400/year).</strong>{" "}
+            <strong>Monthly administration: $100-$200 per month ($1,200-$2,400/year).</strong>{" "}
             Ongoing fees cover annual Form 5500 filing, plan compliance monitoring,
             and participant record-keeping. Some providers bundle annual stock
             valuations; others charge separately.
           </li>
           <li>
-            <strong>Annual stock valuation: $500&ndash;$2,000.</strong> The IRS
+            <strong>Annual stock valuation: $500-$2,000.</strong> The IRS
             requires an independent fair-market-value appraisal of the C-Corp stock
-            held by the 401(k) every year. This is non-negotiable &mdash; skipping
+            held by the 401(k) every year. This is non-negotiable, skipping
             the valuation is a compliance violation that can trigger plan
             disqualification.
           </li>
           <li>
-            <strong>Tax attorney review: $1,000&ndash;$3,000 (one-time).</strong>{" "}
+            <strong>Tax attorney review: $1,000-$3,000 (one-time).</strong>{" "}
             While not strictly required, independent legal review of the ROBS
             structure is strongly recommended. ROBS providers have an inherent
-            conflict of interest &mdash; they earn fees from setting up the plan.
+            conflict of interest, they earn fees from setting up the plan.
           </li>
         </ul>
         <p>
-          <strong>Total first-year cost: roughly $6,500&ndash;$14,000.</strong> Ongoing
-          annual costs run $2,500&ndash;$5,000. Compare this to the 10% early-withdrawal
+          <strong>Total first-year cost: roughly $6,500-$14,000.</strong> Ongoing
+          annual costs run $2,500-$5,000. Compare this to the 10% early-withdrawal
           penalty plus income tax you would owe on a direct 401(k) distribution: on
           a $200,000 rollover, a direct withdrawal in the 24% federal bracket would
-          cost you approximately $68,000 in taxes and penalties &mdash; making the
+          cost you approximately $68,000 in taxes and penalties, making the
           ROBS structure far cheaper in almost every scenario above $50,000.
         </p>
 
@@ -143,7 +143,7 @@ export default function ROBSAcquisitionArticle() {
           or were on the road to failure with high rates of bankruptcy, liens, and
           corporate dissolutions.&rdquo; Many entrepreneurs lost their accumulated
           retirement savings before the business even launched its product or service.
-          The compliance requirements below are not optional &mdash; violating any one
+          The compliance requirements below are not optional, violating any one
           can result in plan disqualification, retroactive taxation, and excise penalties.
         </p>
         <ol className={olClass}>
@@ -151,7 +151,7 @@ export default function ROBSAcquisitionArticle() {
             <strong>Annual Form 5500 filing.</strong> Every ROBS-sponsored 401(k)
             must file Form 5500 with the IRS and Department of Labor each year.
             Many sponsors incorrectly believe the Form 5500-EZ exception for
-            one-participant plans applies to ROBS arrangements. It does not &mdash;
+            one-participant plans applies to ROBS arrangements. It does not , 
             because, as the IRS states, &ldquo;the plan, through its company stock
             investments, rather than the individual, owns the trade or business.&rdquo;
             Failure to file triggers a $250-per-day penalty (up to $150,000) from the
@@ -159,7 +159,7 @@ export default function ROBSAcquisitionArticle() {
           </li>
           <li>
             <strong>Non-discrimination and coverage.</strong> The 401(k) plan must
-            be open to all eligible employees &mdash; not just the owner. Sponsors
+            be open to all eligible employees, not just the owner. Sponsors
             who amend the plan after receiving an IRS determination letter to restrict
             employee participation violate coverage and non-discrimination requirements
             under IRC Sections 410(b) and 401(a)(4). This is one of the most common
@@ -168,9 +168,9 @@ export default function ROBSAcquisitionArticle() {
           <li>
             <strong>Annual independent stock valuation.</strong> The C-Corp stock
             held by the 401(k) must be appraised at fair market value annually by
-            a qualified, independent appraiser. Deficient valuations &mdash;
+            a qualified, independent appraiser. Deficient valuations , 
             particularly over-valuations designed to make the plan look healthier
-            than it is &mdash; are a primary trigger for prohibited-transaction
+            than it is, are a primary trigger for prohibited-transaction
             findings.
           </li>
           <li>
@@ -210,7 +210,7 @@ export default function ROBSAcquisitionArticle() {
           <li>
             <strong>Loans between you and the company.</strong> Borrowing from the
             C-Corp or lending personal funds to it creates a direct transaction
-            between a disqualified person and the plan &mdash; a classic prohibited
+            between a disqualified person and the plan, a classic prohibited
             transaction.
           </li>
           <li>
@@ -251,17 +251,17 @@ export default function ROBSAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>ROBS equity injection: 10&ndash;20% of deal value.</strong> Your
+            <strong>ROBS equity injection: 10-20% of deal value.</strong> Your
             retirement funds, rolled through the ROBS structure, provide the equity
             that satisfies the SBA&rsquo;s down-payment requirement.
           </li>
           <li>
-            <strong>SBA 7(a) loan: 70&ndash;80% of deal value.</strong> The SBA loan
+            <strong>SBA 7(a) loan: 70-80% of deal value.</strong> The SBA loan
             covers the bulk of the purchase price, with terms typically at 10 years
-            for business acquisitions and interest rates of prime plus 2.25&ndash;2.75%.
+            for business acquisitions and interest rates of prime plus 2.25-2.75%.
           </li>
           <li>
-            <strong>Seller financing (standby): 5&ndash;10%.</strong> Many deal
+            <strong>Seller financing (standby): 5-10%.</strong> Many deal
             structures include a{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller note</Link>{" "}
             on standby (no payments during the SBA loan&rsquo;s term), which the SBA
@@ -276,13 +276,13 @@ export default function ROBSAcquisitionArticle() {
           out-of-pocket cost is approximately $7,000 in ROBS setup fees and $3,000 in
           legal and{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">due diligence</Link>{" "}
-          costs. The retirement funds remain invested &mdash; they now sit as equity
+          costs. The retirement funds remain invested, they now sit as equity
           in a cash-flowing business instead of a target-date mutual fund.
         </p>
         <p>
-          This structure works particularly well for acquisitions in the $250,000&ndash;$2M
-          range &mdash; the sweet spot where SBA lending is most accessible and where
-          buyers often lack the liquid savings to cover a 10&ndash;20% equity injection.
+          This structure works particularly well for acquisitions in the $250,000-$2M
+          range, the sweet spot where SBA lending is most accessible and where
+          buyers often lack the liquid savings to cover a 10-20% equity injection.
           For a deeper look at how much capital you need, see our guide on{" "}
           <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">how much money you need to buy a business</Link>.
         </p>
@@ -290,8 +290,8 @@ export default function ROBSAcquisitionArticle() {
         {/* ── Section 6 ── */}
         <h2 className={h2Class}>Tax Advantages, Disadvantages, and the C-Corp Trade-Off</h2>
         <p>
-          ROBS delivers an immediate tax advantage &mdash; you access retirement funds
-          without taxation &mdash; but it creates a long-term structural trade-off because
+          ROBS delivers an immediate tax advantage, you access retirement funds
+          without taxation, but it creates a long-term structural trade-off because
           the business must remain a C-Corporation. Understanding the full tax picture is
           essential before committing.
         </p>
@@ -308,7 +308,7 @@ export default function ROBSAcquisitionArticle() {
             <strong>21% flat corporate tax rate.</strong> Since the Tax Cuts and Jobs
             Act of 2017, C-Corporations pay a flat 21% federal tax rate on profits,
             down from the previous top rate of 35%. For businesses generating
-            $100,000&ndash;$400,000 in taxable income, this rate is often lower than
+            $100,000-$400,000 in taxable income, this rate is often lower than
             the owner&rsquo;s personal marginal rate.
           </li>
           <li>
@@ -334,14 +334,14 @@ export default function ROBSAcquisitionArticle() {
             shareholders as dividends (at the qualified-dividend rate of 0%, 15%,
             or 20% depending on your bracket). On $100,000 of pre-tax profit, a
             C-Corp owner in the 15% dividend bracket nets roughly $67,150 after both
-            layers &mdash; compared to roughly $76,000 for an S-Corp owner at a 24%
+            layers, compared to roughly $76,000 for an S-Corp owner at a 24%
             personal rate.
           </li>
           <li>
             <strong>No pass-through deduction.</strong> S-Corps and LLCs receive a
             20% Qualified Business Income (QBI) deduction under Section 199A.
             C-Corporations do not. For profitable pass-through businesses, this
-            deduction can be worth $20,000&ndash;$60,000 annually.
+            deduction can be worth $20,000-$60,000 annually.
           </li>
           <li>
             <strong>Higher compliance costs.</strong> C-Corporations file a separate
@@ -360,7 +360,7 @@ export default function ROBSAcquisitionArticle() {
         </p>
 
         {/* ── Section 7 ── */}
-        <h2 className={h2Class}>When ROBS Makes Sense &mdash; and When It Doesn&rsquo;t</h2>
+        <h2 className={h2Class}>When ROBS Makes Sense, and When It Doesn&rsquo;t</h2>
         <p>
           ROBS is a powerful tool, but it is not the right choice for every buyer. Here
           is a decision framework based on the financial and risk profile of the
@@ -370,7 +370,7 @@ export default function ROBSAcquisitionArticle() {
         <h3 className={h3Class}>ROBS is a strong fit when:</h3>
         <ul className={ulClass}>
           <li>
-            You have $50,000&ndash;$300,000+ in rollable retirement assets and limited
+            You have $50,000-$300,000+ in rollable retirement assets and limited
             liquid savings for a down payment
           </li>
           <li>
@@ -395,7 +395,7 @@ export default function ROBSAcquisitionArticle() {
         <h3 className={h3Class}>ROBS is a poor fit when:</h3>
         <ul className={ulClass}>
           <li>
-            Your total retirement balance is under $50,000 &mdash; the setup costs
+            Your total retirement balance is under $50,000, the setup costs
             consume too large a percentage, and the equity injection is too small
             to meaningfully support an acquisition
           </li>
@@ -435,14 +435,14 @@ export default function ROBSAcquisitionArticle() {
           benefit one individual,&rdquo; and the agency actively monitors compliance
           through its{" "}
           <a href="https://www.irs.gov/retirement-plans/rollovers-as-business-start-ups-compliance-project" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">ROBS Compliance Project</a>.
-          Legality requires strict ongoing compliance &mdash; a poorly administered
+          Legality requires strict ongoing compliance, a poorly administered
           ROBS can be retroactively disqualified.
         </p>
 
         <h3 className={h3Class}>What happens to my retirement if the ROBS-funded business fails?</h3>
         <p>
           If the business fails, the 401(k) plan&rsquo;s investment in the C-Corp stock
-          becomes worthless. Your retirement funds are gone &mdash; there is no FDIC
+          becomes worthless. Your retirement funds are gone, there is no FDIC
           insurance, no creditor protection for employer stock held in a 401(k), and
           no mechanism to recover the rolled-over amount. The IRS ROBS Compliance
           Project found that many failed ROBS businesses resulted in both personal and
@@ -450,7 +450,7 @@ export default function ROBSAcquisitionArticle() {
           important risk factor in any ROBS decision: you are concentrating your
           retirement in a single, illiquid, uninsured investment. Treat the ROBS capital
           with the same rigor you would apply to any investment that represents a
-          significant portion of your net worth &mdash; conduct thorough{" "}
+          significant portion of your net worth, conduct thorough{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">financial due diligence</Link>{" "}
           before committing.
         </p>
@@ -463,7 +463,7 @@ export default function ROBSAcquisitionArticle() {
           include: traditional 401(k), traditional IRA, 403(b), SEP-IRA, SIMPLE IRA,
           governmental 457(b), Thrift Savings Plan (TSP), and Keogh plans. If the
           majority of your retirement savings are in Roth accounts, ROBS will not work
-          for you &mdash; explore{" "}
+          for you, explore{" "}
           <Link href="/learn/creative-financing" className="text-apple-accent hover:underline">alternative acquisition financing methods</Link>{" "}
           instead.
         </p>
@@ -472,19 +472,19 @@ export default function ROBSAcquisitionArticle() {
         <p>
           A typical ROBS setup takes three to six weeks from the decision to proceed
           to the C-Corp being funded and ready to deploy capital. The timeline includes
-          state incorporation (1&ndash;5 business days depending on the state), 401(k)
-          plan drafting and adoption (1&ndash;2 weeks), rollover initiation from the
-          existing custodian (1&ndash;3 weeks depending on the plan administrator),
+          state incorporation (1-5 business days depending on the state), 401(k)
+          plan drafting and adoption (1-2 weeks), rollover initiation from the
+          existing custodian (1-3 weeks depending on the plan administrator),
           and stock purchase execution (a few days after funds arrive). Some ROBS
           providers offer expedited service in as little as two weeks for an additional
-          fee. Once the C-Corp holds the capital, you can deploy it immediately &mdash;
+          fee. Once the C-Corp holds the capital, you can deploy it immediately , 
           there is no waiting period before using the funds for an acquisition.
         </p>
 
         <h3 className={h3Class}>Can I convert from a C-Corp to an S-Corp after using ROBS?</h3>
         <p>
           In theory, you can elect S-Corp status after the 401(k) plan divests its
-          shares &mdash; typically by distributing the stock to participants or
+          shares, typically by distributing the stock to participants or
           selling it back to the company. In practice, this is complex, tax-sensitive,
           and requires careful coordination with a tax attorney. The conversion triggers
           built-in gains tax if done within five years of the C-to-S election and may
@@ -498,18 +498,18 @@ export default function ROBSAcquisitionArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>
-            ROBS lets you use pre-tax retirement funds &mdash; 401(k), IRA, 403(b),
-            TSP, and more &mdash; to fund a business acquisition with no taxes, no
+            ROBS lets you use pre-tax retirement funds, 401(k), IRA, 403(b),
+            TSP, and more, to fund a business acquisition with no taxes, no
             penalties, and no debt service
           </li>
           <li>
-            The structure requires a C-Corporation, costs $5,000&ndash;$8,000 to set up,
-            and carries $2,500&ndash;$5,000 in annual compliance costs including plan
+            The structure requires a C-Corporation, costs $5,000-$8,000 to set up,
+            and carries $2,500-$5,000 in annual compliance costs including plan
             administration and mandatory stock valuations
           </li>
           <li>
             The ROBS + SBA combination is the dominant acquisition structure for
-            self-funded buyers: retirement funds cover the 10&ndash;20% equity injection,
+            self-funded buyers: retirement funds cover the 10-20% equity injection,
             and the SBA loan finances the remainder
           </li>
           <li>
@@ -534,19 +534,19 @@ export default function ROBSAcquisitionArticle() {
           <a href="https://www.irs.gov/pub/irs-tege/robs_guidelines.pdf" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IRS, <em>Guidelines Regarding Rollover as Business Start-Ups</em></a> (2024)
         </li>
         <li>
-          <a href="https://www.guidantfinancial.com/small-business-trends/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Guidant Financial, <em>2024 Small Business Trends Report</em></a> &mdash; 52% of prospective owners used ROBS as primary funding
+          <a href="https://www.guidantfinancial.com/small-business-trends/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Guidant Financial, <em>2024 Small Business Trends Report</em></a>, 52% of prospective owners used ROBS as primary funding
         </li>
         <li>
-          <a href="https://fitsmallbusiness.com/best-rollover-business-startup-robs-providers/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Fit Small Business, <em>Best ROBS Providers Comparison</em></a> (2026) &mdash; setup costs and provider analysis
+          <a href="https://fitsmallbusiness.com/best-rollover-business-startup-robs-providers/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Fit Small Business, <em>Best ROBS Providers Comparison</em></a> (2026), setup costs and provider analysis
         </li>
         <li>
-          <a href="https://www.guidantfinancial.com/blog/robs-401k-business-financing-retirement-plans/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Guidant Financial, <em>10 Types of Eligible Retirement Funds for ROBS</em></a> &mdash; account eligibility details
+          <a href="https://www.guidantfinancial.com/blog/robs-401k-business-financing-retirement-plans/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Guidant Financial, <em>10 Types of Eligible Retirement Funds for ROBS</em></a>, account eligibility details
         </li>
         <li>
-          <a href="https://www.napa-net.org/news/2024/3/case-week-rollovers-business-startups-robs-0/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">NAPA, <em>Case of the Week: Rollovers as Business Startups</em></a> (2024) &mdash; compliance case studies
+          <a href="https://www.napa-net.org/news/2024/3/case-week-rollovers-business-startups-robs-0/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">NAPA, <em>Case of the Week: Rollovers as Business Startups</em></a> (2024), compliance case studies
         </li>
         <li>
-          <a href="https://www.eisneramper.com/insights/financial-services/qualified-small-business-stock-ea-1220/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">EisnerAmper, <em>IRC Section 1202: Qualified Small Business Stock Exclusion</em></a> &mdash; QSBS tax benefit analysis
+          <a href="https://www.eisneramper.com/insights/financial-services/qualified-small-business-stock-ea-1220/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">EisnerAmper, <em>IRC Section 1202: Qualified Small Business Stock Exclusion</em></a>, QSBS tax benefit analysis
         </li>
       </ul>
     </article>

@@ -41,7 +41,7 @@ export default function SwissCantonalBanksArticle() {
           <li>Four federally recognized guarantee cooperatives provide loan guarantees for SME acquisitions</li>
           <li><strong>Maximum guarantee:</strong> CHF 1 million per company (approximately &euro;1.05M)</li>
           <li><strong>Coverage:</strong> Guarantees up to 100% of the bank loan</li>
-          <li><strong>Premium:</strong> 1&ndash;1.5% annual guarantee fee</li>
+          <li><strong>Premium:</strong> 1-1.5% annual guarantee fee</li>
           <li><strong>Application:</strong> Through your commercial bank, which forwards to the cooperative</li>
           <li><strong>Regional cooperatives:</strong> BG Mitte, Bürgschaftsgenossenschaft Ostschweiz, Cautionnement romand, Cooperativa di fideiussione della Svizzera italiana</li>
         </ul>
@@ -53,7 +53,7 @@ export default function SwissCantonalBanksArticle() {
           <li><strong>Raiffeisen Switzerland:</strong> Cooperative banking group with 800+ locations. Strong local expertise and SME focus.</li>
           <li><strong>PostFinance:</strong> Switzerland&apos;s postal bank, increasingly active in business lending.</li>
           <li><strong>UBS/Credit Suisse (now UBS):</strong> For larger acquisitions (CHF 5M+), dedicated M&A financing teams.</li>
-          <li><strong>Innosuisse:</strong> Swiss innovation agency &mdash; relevant for technology-related acquisitions needing R&D support.</li>
+          <li><strong>Innosuisse:</strong> Swiss innovation agency, relevant for technology-related acquisitions needing R&D support.</li>
           <li><strong>Cantonal economic promotion agencies:</strong> Each canton has an economic development office that can provide tax incentives and sometimes direct financing.</li>
         </ul>
       </div>
@@ -62,12 +62,12 @@ export default function SwissCantonalBanksArticle() {
       <div className={bodyClass}>
         <p>A typical CHF 3M Swiss acquisition might be structured as:</p>
         <ul className={ulClass}>
-          <li>Senior bank debt (cantonal bank): 40&ndash;50%</li>
-          <li>Bürgschaft-backed loan: 10&ndash;15%</li>
-          <li>Vendor loan (Verkäuferdarlehen): 15&ndash;20%</li>
-          <li>Buyer equity: 25&ndash;35%</li>
+          <li>Senior bank debt (cantonal bank): 40-50%</li>
+          <li>Bürgschaft-backed loan: 10-15%</li>
+          <li>Vendor loan (Verkäuferdarlehen): 15-20%</li>
+          <li>Buyer equity: 25-35%</li>
         </ul>
-        <p>Swiss banks typically require more equity (25&ndash;35%) than other European markets, reflecting the conservative Swiss banking culture. The Verband Schweizerischer Kantonalbanken notes that cantonal banks view <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> as a long-term relationship, often requiring a thorough business plan, management due diligence, and a clear 5-year investment thesis before committing.</p>
+        <p>Swiss banks typically require more equity (25-35%) than other European markets, reflecting the conservative Swiss banking culture. The Verband Schweizerischer Kantonalbanken notes that cantonal banks view <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> as a long-term relationship, often requiring a thorough business plan, management due diligence, and a clear 5-year investment thesis before committing.</p>
       </div>
 
       <h2 className={h2Class}>Swiss Tax Considerations</h2>
@@ -75,12 +75,12 @@ export default function SwissCantonalBanksArticle() {
         <ul className={ulClass}>
           <li><strong>Federal corporate tax:</strong> 8.5% on profit (effective ~7.83% after deductions)</li>
           <li><strong>Cantonal/municipal tax:</strong> Varies widely by canton, from ~5% (Zug, Nidwalden) to ~15% (Geneva, Basel-Stadt)</li>
-          <li><strong>Total effective tax rate:</strong> 11.5%&ndash;21% depending on canton</li>
+          <li><strong>Total effective tax rate:</strong> 11.5%-21% depending on canton</li>
           <li><strong>Participation relief:</strong> Dividends and capital gains on qualifying participations (10%+ or CHF 1M+) benefit from participation relief</li>
-          <li><strong>No goodwill amortization:</strong> In share deals, goodwill is not tax-deductible. In asset deals, goodwill can be amortized over its useful life (typically 5&ndash;20 years).</li>
+          <li><strong>No goodwill amortization:</strong> In share deals, goodwill is not tax-deductible. In asset deals, goodwill can be amortized over its useful life (typically 5-20 years).</li>
           <li><strong>No stamp duty on share transfers:</strong> Swiss securities transfer tax (0.15% domestic, 0.30% foreign) applies but is modest</li>
         </ul>
-        <p>KPMG Switzerland&apos;s <em>Clarity on Swiss Taxes</em> report highlights that the dramatic variation in cantonal tax rates makes location selection a critical part of <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company tax planning</Link>. A holding company in Zug (effective rate ~11.5%) pays roughly half the tax of one in Geneva (~21%), which can compound into hundreds of thousands of francs in savings over a typical 5&ndash;7 year holding period.</p>
+        <p>KPMG Switzerland&apos;s <em>Clarity on Swiss Taxes</em> report highlights that the dramatic variation in cantonal tax rates makes location selection a critical part of <Link href="/learn/holding-company-tax" className="text-apple-accent hover:underline">holding company tax planning</Link>. A holding company in Zug (effective rate ~11.5%) pays roughly half the tax of one in Geneva (~21%), which can compound into hundreds of thousands of francs in savings over a typical 5-7 year holding period.</p>
       </div>
 
       <h2 className={h2Class}>The Nachfolge Opportunity</h2>
@@ -88,7 +88,7 @@ export default function SwissCantonalBanksArticle() {
         <p>Switzerland&apos;s business succession (Nachfolge/succession) market is compelling:</p>
         <ul className={ulClass}>
           <li>Over 80,000 Swiss SMEs will need succession solutions in the next decade</li>
-          <li>Only 40&ndash;50% of family businesses find a family successor</li>
+          <li>Only 40-50% of family businesses find a family successor</li>
           <li>Swiss business owners are increasingly open to external buyers, including search fund entrepreneurs</li>
           <li>The Swiss Venture Club and various cantonal programs actively promote succession solutions</li>
         </ul>
@@ -99,8 +99,8 @@ export default function SwissCantonalBanksArticle() {
         <ul className={ulClass}>
           <li>Cantonal banks are the primary acquisition financing partners in Switzerland, with deep local expertise and state backing</li>
           <li>Bürgschaftsgenossenschaften provide up to CHF 1M in loan guarantees for acquisition financing</li>
-          <li>Swiss banks require higher equity contributions (25&ndash;35%) than other European markets</li>
-          <li>Total corporate tax rates vary dramatically by canton (11.5&ndash;21%), making location selection important</li>
+          <li>Swiss banks require higher equity contributions (25-35%) than other European markets</li>
+          <li>Total corporate tax rates vary dramatically by canton (11.5-21%), making location selection important</li>
           <li>Over 80,000 Swiss SMEs need succession solutions, creating a large acquisition pipeline</li>
         </ul>
       </div>

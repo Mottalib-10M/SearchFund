@@ -12,7 +12,7 @@ export default function APAGuideArticle() {
       <div className={bodyClass}>
         <p>
           An Asset Purchase Agreement (APA) is the single most important
-          document you will sign as a business buyer&mdash;yet most
+          document you will sign as a business buyer, yet most
           first-time acquirers underestimate how much use sits inside
           its clauses. In roughly 80% of small-business acquisitions under
           $10&thinsp;M, the deal is structured as an asset purchase rather
@@ -28,14 +28,14 @@ export default function APAGuideArticle() {
         </p>
 
         {/* ───────────── SECTION 1 ───────────── */}
-        <h2 className={h2Class}>What Is an Asset Purchase Agreement&mdash;and When Is It Used?</h2>
+        <h2 className={h2Class}>What Is an Asset Purchase Agreement, and When Is It Used?</h2>
         <p>
           An APA is a binding contract in which a buyer acquires specific
           assets (and sometimes assumes specific liabilities) of a
           business, rather than purchasing the entity&rsquo;s equity.
           After closing, the seller&rsquo;s legal entity continues to
-          exist&mdash;holding any excluded assets and remaining
-          responsible for any excluded liabilities&mdash;while the buyer
+          exist, holding any excluded assets and remaining
+          responsible for any excluded liabilities, while the buyer
           operates the business through a new or existing entity of its
           own.
         </p>
@@ -61,9 +61,9 @@ export default function APAGuideArticle() {
               stepped-up tax basis
             </Link>{" "}
             in the acquired assets, enabling accelerated depreciation and amortization deductions.</li>
-          <li>You need to exclude specific liabilities&mdash;such as outstanding lawsuits, tax arrears, or environmental cleanup costs.</li>
+          <li>You need to exclude specific liabilities, such as outstanding lawsuits, tax arrears, or environmental cleanup costs.</li>
           <li>The target is a sole proprietorship, partnership, or LLC taxed as a partnership (where a stock/equity sale is unavailable or less efficient).</li>
-          <li>SBA 7(a) or SBA 504 financing is involved&mdash;lenders overwhelmingly prefer asset deals because the collateral is clearly identified.</li>
+          <li>SBA 7(a) or SBA 504 financing is involved, lenders overwhelmingly prefer asset deals because the collateral is clearly identified.</li>
         </ul>
         <p>
           <strong>When an SPA may be preferable:</strong> the target holds
@@ -80,8 +80,8 @@ export default function APAGuideArticle() {
         {/* ───────────── SECTION 2 ───────────── */}
         <h2 className={h2Class}>Key Sections of an APA</h2>
         <p>
-          A well-drafted APA for a $1&thinsp;M&ndash;$25&thinsp;M
-          acquisition typically runs 40&ndash;80 pages (excluding
+          A well-drafted APA for a $1&thinsp;M-$25&thinsp;M
+          acquisition typically runs 40-80 pages (excluding
           schedules and exhibits). Below are the sections that carry the
           most economic and legal weight for buyers.
         </p>
@@ -102,8 +102,8 @@ export default function APAGuideArticle() {
             The IRS requires buyer and seller to allocate the price across
             seven asset classes on Form 8594. Buyers benefit from
             allocating more to Class V assets (tangible personal
-            property) that qualify for bonus depreciation&mdash;potentially
-            100% in the first year under current law&mdash;and less to
+            property) that qualify for bonus depreciation, potentially
+            100% in the first year under current law, and less to
             Class VII goodwill, which must be{" "}
             <Link href="/learn/goodwill-amortization-tax" className="text-apple-accent hover:underline">
               amortized over 15 years
@@ -118,10 +118,10 @@ export default function APAGuideArticle() {
             earnout language is among the top sources of post-closing
             disputes.</li>
           <li><strong>Escrow holdback:</strong> Market practice is to
-            withhold 10%&ndash;20% of the purchase price in a third-party
-            escrow account for 12&ndash;24 months to fund potential
+            withhold 10%-20% of the purchase price in a third-party
+            escrow account for 12-24 months to fund potential
             indemnification claims. For a $3&thinsp;M deal, that means
-            $300&thinsp;K&ndash;$600&thinsp;K sitting in escrow.</li>
+            $300&thinsp;K-$600&thinsp;K sitting in escrow.</li>
         </ul>
 
         <h3 className={h3Class}>2. Included and Excluded Assets</h3>
@@ -152,7 +152,7 @@ export default function APAGuideArticle() {
         <p>
           This is where the APA&rsquo;s liability-shielding power lives.
           In an asset purchase, you only assume the liabilities
-          explicitly listed in the agreement&mdash;everything else stays
+          explicitly listed in the agreement, everything else stays
           with the seller.
         </p>
         <ul className={ulClass}>
@@ -185,7 +185,7 @@ export default function APAGuideArticle() {
           </Link>, and (2) the legal basis for indemnification claims if
           those statements turn out to be false.
         </p>
-        <p><strong>Seller&rsquo;s typical reps (20&ndash;30+ categories):</strong></p>
+        <p><strong>Seller&rsquo;s typical reps (20-30+ categories):</strong></p>
         <ul className={ulClass}>
           <li>Organization, good standing, and authority to sell.</li>
           <li>Accuracy of financial statements and absence of undisclosed liabilities.</li>
@@ -198,7 +198,7 @@ export default function APAGuideArticle() {
           <li>Employee matters: no pending labor disputes, WARN Act compliance, benefit plan status.</li>
           <li>Tax compliance for all pre-closing periods.</li>
         </ul>
-        <p><strong>Buyer&rsquo;s typical reps (5&ndash;8 categories):</strong></p>
+        <p><strong>Buyer&rsquo;s typical reps (5-8 categories):</strong></p>
         <ul className={ulClass}>
           <li>Organization and authority to purchase.</li>
           <li>Sufficient funds or committed financing to close.</li>
@@ -235,14 +235,14 @@ export default function APAGuideArticle() {
             Association&rsquo;s Private Target M&amp;A Deal Points Study
             shows a median cap of approximately 10% of enterprise value
             for general reps, though in smaller transactions the cap
-            frequently reaches 25%&ndash;50% of the purchase price.
+            frequently reaches 25%-50% of the purchase price.
             &ldquo;Fundamental&rdquo; reps (title, authority, taxes)
             are typically carved out with higher caps, often up to 100%
             of the purchase price.</li>
           <li><strong>Survival period:</strong> How long after closing a
             buyer can bring a claim. General reps typically survive
-            12&ndash;24 months; fundamental reps survive until the
-            applicable statute of limitations (often 3&ndash;6 years);
+            12-24 months; fundamental reps survive until the
+            applicable statute of limitations (often 3-6 years);
             tax reps survive for the full tax-audit window (typically
             3 years, or 6 years if there is a substantial omission of
             income).</li>
@@ -298,7 +298,7 @@ export default function APAGuideArticle() {
             before closing, the seller delivers an estimated closing
             balance sheet. The purchase price is adjusted up or down
             based on the estimated working capital versus the peg.</li>
-          <li><strong>True-up post-closing:</strong> Within 60&ndash;90
+          <li><strong>True-up post-closing:</strong> Within 60-90
             days after closing, the buyer prepares a final working
             capital calculation. If actual working capital exceeds the
             estimate, the buyer pays the difference; if it falls
@@ -309,7 +309,7 @@ export default function APAGuideArticle() {
           inventory valuation methods (FIFO vs. weighted average),
           the collectibility of accounts receivable, and the
           treatment of customer deposits. Specify the accounting
-          methodology in the APA itself&mdash;do not leave it to
+          methodology in the APA itself, do not leave it to
           post-closing interpretation.
         </p>
 
@@ -323,13 +323,13 @@ export default function APAGuideArticle() {
           <li><strong>Non-compete / non-solicit:</strong> The seller
             (and often key employees) agrees not to compete with
             the business or solicit its customers and employees for
-            a specified period&mdash;typically 3&ndash;5 years within
+            a specified period, typically 3-5 years within
             a defined geographic area. Courts will enforce reasonable
             restrictions; overly broad covenants risk being struck
             down entirely.</li>
           <li><strong>Transition services agreement (TSA):</strong>{" "}
             The seller provides operational support (introductions
-            to key customers, training, IT migration) for 30&ndash;180
+            to key customers, training, IT migration) for 30-180
             days after closing, usually at no additional cost or for
             a nominal consulting fee.</li>
           <li><strong>Earnout adjustments:</strong> If part of the
@@ -363,7 +363,7 @@ export default function APAGuideArticle() {
         </p>
         <ol className={olClass}>
           <li>Obtain a sworn list of the seller&rsquo;s creditors at
-            least 10&ndash;12 business days before closing.</li>
+            least 10-12 business days before closing.</li>
           <li>Notify each listed creditor of the pending sale.</li>
           <li>In some states (notably California and New Jersey),
             publish notice of the sale in a local newspaper.</li>
@@ -402,8 +402,8 @@ export default function APAGuideArticle() {
           <li><strong>Sales and use tax surprises:</strong> Transfers
             of tangible personal property in an asset sale trigger
             state sales tax in most jurisdictions. On a $2&thinsp;M
-            equipment allocation, a 6%&ndash;8% sales tax adds
-            $120&thinsp;K&ndash;$160&thinsp;K to closing costs.
+            equipment allocation, a 6%-8% sales tax adds
+            $120&thinsp;K-$160&thinsp;K to closing costs.
             Check whether your state offers a &ldquo;casual sale&rdquo;
             or &ldquo;bulk sale&rdquo; exemption.</li>
           <li><strong>Misaligned purchase price allocation:</strong>{" "}
@@ -442,30 +442,30 @@ export default function APAGuideArticle() {
           acquisitions. Here is what to expect based on deal size:
         </p>
         <ul className={ulClass}>
-          <li><strong>Sub-$1&thinsp;M deals:</strong> $5&thinsp;K&ndash;$15&thinsp;K
+          <li><strong>Sub-$1&thinsp;M deals:</strong> $5&thinsp;K-$15&thinsp;K
             for a straightforward APA with limited negotiation. Many
             attorneys offer flat-fee packages at this level.</li>
-          <li><strong>$1&thinsp;M&ndash;$5&thinsp;M deals:</strong>{" "}
-            $15&thinsp;K&ndash;$30&thinsp;K is the typical range.
+          <li><strong>$1&thinsp;M-$5&thinsp;M deals:</strong>{" "}
+            $15&thinsp;K-$30&thinsp;K is the typical range.
             Complexity increases with earnout provisions, SBA lender
             requirements, and multi-state operations.</li>
-          <li><strong>$5&thinsp;M&ndash;$25&thinsp;M deals:</strong>{" "}
-            $30&thinsp;K&ndash;$50&thinsp;K or more, particularly if
+          <li><strong>$5&thinsp;M-$25&thinsp;M deals:</strong>{" "}
+            $30&thinsp;K-$50&thinsp;K or more, particularly if
             the APA includes complex indemnification structures,
             regulatory approvals, or intellectual property assignments.</li>
           <li><strong>Hourly rates:</strong> Business acquisition
-            attorneys typically charge $250&ndash;$500 per hour,
+            attorneys typically charge $250-$500 per hour,
             according to ContractsCounsel marketplace data. A senior
             M&amp;A partner at a mid-sized firm may charge $500+
             per hour, while a junior associate handles much of the
-            drafting at $250&ndash;$350 per hour.</li>
+            drafting at $250-$350 per hour.</li>
         </ul>
         <p>
           Beyond legal fees, budget for: escrow agent fees
-          ($1&thinsp;K&ndash;$3&thinsp;K), title searches on real
-          property ($500&ndash;$2&thinsp;K per parcel), UCC lien
-          searches ($200&ndash;$500), environmental assessments
-          ($2&thinsp;K&ndash;$10&thinsp;K for a Phase I), and
+          ($1&thinsp;K-$3&thinsp;K), title searches on real
+          property ($500-$2&thinsp;K per parcel), UCC lien
+          searches ($200-$500), environmental assessments
+          ($2&thinsp;K-$10&thinsp;K for a Phase I), and
           state filing fees for bulk sales compliance,
           assumed-name registrations, and entity formation.
         </p>
@@ -490,7 +490,7 @@ export default function APAGuideArticle() {
               15-year goodwill
             </Link>.{" "}
             A favorable allocation on a $5&thinsp;M deal can generate
-            $200&thinsp;K&ndash;$400&thinsp;K in first-year tax
+            $200&thinsp;K-$400&thinsp;K in first-year tax
             savings through bonus depreciation.</li>
           <li><strong>Assets and liabilities:</strong> Start with the
             broadest &ldquo;included&rdquo; language and the narrowest
@@ -503,10 +503,10 @@ export default function APAGuideArticle() {
             and thorough disclosure schedules that update
             between signing and closing.</li>
           <li><strong>Indemnification:</strong> Negotiate a tipping
-            basket (not a true deductible), a cap of at least 20%&ndash;25%
+            basket (not a true deductible), a cap of at least 20%-25%
             of purchase price for general reps, uncapped liability for
             fraud and fundamental reps, and a survival period of at
-            least 18&ndash;24 months for general reps.</li>
+            least 18-24 months for general reps.</li>
           <li><strong>Closing conditions:</strong> Include assignment
             of the real estate lease, consent of top customers/vendors,
             seller&rsquo;s delivery of audited or reviewed financials,
@@ -514,10 +514,10 @@ export default function APAGuideArticle() {
             certificates.</li>
           <li><strong>Working capital:</strong> Define the peg using a
             12-month trailing average, specify GAAP-consistent
-            accounting policies, and set a 60&ndash;90 day true-up
+            accounting policies, and set a 60-90 day true-up
             window with binding expert determination for disputes.</li>
           <li><strong>Post-closing covenants:</strong> Secure a
-            non-compete of 4&ndash;5 years (the maximum courts
+            non-compete of 4-5 years (the maximum courts
             typically enforce), a transition services period of at
             least 90 days, and a clear mechanism for resolving
             earnout disputes.</li>
@@ -533,8 +533,8 @@ export default function APAGuideArticle() {
             letter of intent
           </Link>{" "}
           to closing, most small-business asset acquisitions take
-          60&ndash;120 days. The APA drafting and negotiation phase
-          typically consumes 3&ndash;6 weeks of that timeline. Deals
+          60-120 days. The APA drafting and negotiation phase
+          typically consumes 3-6 weeks of that timeline. Deals
           with SBA financing, complex regulatory requirements, or
           contentious indemnification negotiations can extend to
           150+ days. The biggest time sink is usually third-party
@@ -544,7 +544,7 @@ export default function APAGuideArticle() {
 
         <h3 className={h3Class}>Can a buyer be held liable for the seller&rsquo;s pre-closing debts in an asset purchase?</h3>
         <p>
-          Generally no&mdash;that liability shield is a primary reason
+          Generally no, that liability shield is a primary reason
           buyers choose asset structures. However, exceptions exist.
           Courts have imposed successor liability under four doctrines:
           (1) express or implied assumption, (2) fraud or inadequate
@@ -576,10 +576,10 @@ export default function APAGuideArticle() {
         <p>
           Representations and warranties insurance (RWI) has historically
           been cost-prohibitive for deals below $20&thinsp;M, with
-          minimum premiums of $150&thinsp;K&ndash;$200&thinsp;K. However,
+          minimum premiums of $150&thinsp;K-$200&thinsp;K. However,
           newer underwriters are offering policies for transactions as
           small as $5&thinsp;M. For sub-$5&thinsp;M acquisitions, a
-          well-structured escrow holdback of 15%&ndash;20% of the
+          well-structured escrow holdback of 15%-20% of the
           purchase price, combined with strong indemnification provisions,
           typically provides adequate protection at a fraction of
           the cost.
@@ -593,7 +593,7 @@ export default function APAGuideArticle() {
           offer letters, establishing new benefit plans (health
           insurance, 401(k), PTO policies), and addressing any
           accrued obligations like unused vacation. Identify the
-          5&ndash;10 employees most critical to business continuity
+          5-10 employees most critical to business continuity
           and sign pre-closing employment agreements with them. Some
           buyers make retention of these key employees a closing
           condition to avoid being locked into a deal if the

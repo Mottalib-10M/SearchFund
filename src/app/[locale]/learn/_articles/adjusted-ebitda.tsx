@@ -22,7 +22,7 @@ export default function AdjustedEBITDAArticle() {
           </Link>{" "}
           (lenders size loans as a multiple of EBITDA), and the number
           that determines whether the deal economics work. Getting this
-          number right &mdash; or wrong &mdash; can make or break your
+          number right, or wrong, can make or break your
           acquisition.
         </p>
         <p>
@@ -68,7 +68,7 @@ export default function AdjustedEBITDAArticle() {
         <h3 className={h3Class}>Owner-related adjustments</h3>
         <ul className={ulClass}>
           <li><strong>Above-market owner compensation:</strong> If the owner pays themselves $300K but the market rate for a replacement CEO is $150K, the $150K difference is a legitimate add-back</li>
-          <li><strong>Owner perks and personal expenses:</strong> Car payments, country club dues, personal travel, family member salaries for no-show positions &mdash; if run through the business</li>
+          <li><strong>Owner perks and personal expenses:</strong> Car payments, country club dues, personal travel, family member salaries for no-show positions, if run through the business</li>
           <li><strong>Owner health insurance and benefits:</strong> Above-market benefits specific to the owner</li>
           <li><strong>Related-party rent:</strong> If the owner charges the business above-market rent for property they own personally</li>
         </ul>
@@ -90,11 +90,11 @@ export default function AdjustedEBITDAArticle() {
 
         <h2 className={h2Class}>Gray-area add-backs (scrutinize carefully)</h2>
         <ul className={ulClass}>
-          <li><strong>Pro-forma revenue adjustments:</strong> &ldquo;We just signed a contract worth $500K annually&rdquo; &mdash; the contract may be real, but normalized earnings should reflect actual historical performance</li>
-          <li><strong>Cost savings the buyer will realize:</strong> &ldquo;You can save $200K by renegotiating vendor contracts&rdquo; &mdash; these are buyer synergies, not seller add-backs</li>
+          <li><strong>Pro-forma revenue adjustments:</strong> &ldquo;We just signed a contract worth $500K annually&rdquo;, the contract may be real, but normalized earnings should reflect actual historical performance</li>
+          <li><strong>Cost savings the buyer will realize:</strong> &ldquo;You can save $200K by renegotiating vendor contracts&rdquo;, these are buyer synergies, not seller add-backs</li>
           <li><strong>&ldquo;Discretionary&rdquo; marketing spend:</strong> The seller may call marketing discretionary, but you might need to maintain it to sustain revenue</li>
           <li><strong>Under-market employee compensation:</strong> If key employees are underpaid (will need raises post-acquisition), EBITDA should be adjusted downward, not upward</li>
-          <li><strong>Deferred maintenance:</strong> If the seller has been cutting capex to inflate EBITDA, you&rsquo;ll need to spend more post-close &mdash; this is an implicit deduction</li>
+          <li><strong>Deferred maintenance:</strong> If the seller has been cutting capex to inflate EBITDA, you&rsquo;ll need to spend more post-close, this is an implicit deduction</li>
         </ul>
 
         <h2 className={h2Class}>Red flag add-backs</h2>
@@ -103,9 +103,9 @@ export default function AdjustedEBITDAArticle() {
           diligence alarm should go off:
         </p>
         <ul className={ulClass}>
-          <li><strong>Add-backs exceeding 30&ndash;40% of stated EBITDA:</strong> If the adjusted EBITDA is 2x the reported EBITDA, the &ldquo;adjustments&rdquo; are doing more work than the business itself</li>
-          <li><strong>Revenue normalization:</strong> Claiming COVID was an anomaly (in 2020&ndash;2021) while also claiming the 2022&ndash;2023 boom was &ldquo;normal&rdquo;</li>
-          <li><strong>&ldquo;Synergy&rdquo; adjustments:</strong> Projected cost savings that the buyer will realize &mdash; these should not be added to the seller&rsquo;s EBITDA</li>
+          <li><strong>Add-backs exceeding 30-40% of stated EBITDA:</strong> If the adjusted EBITDA is 2x the reported EBITDA, the &ldquo;adjustments&rdquo; are doing more work than the business itself</li>
+          <li><strong>Revenue normalization:</strong> Claiming COVID was an anomaly (in 2020-2021) while also claiming the 2022-2023 boom was &ldquo;normal&rdquo;</li>
+          <li><strong>&ldquo;Synergy&rdquo; adjustments:</strong> Projected cost savings that the buyer will realize, these should not be added to the seller&rsquo;s EBITDA</li>
           <li><strong>Vague &ldquo;one-time&rdquo; expenses:</strong> If &ldquo;one-time&rdquo; expenses show up every year, they&rsquo;re not one-time</li>
           <li><strong>Related-party manipulation:</strong> Complex related-party transactions that obscure the true economics</li>
           <li><strong>Cash vs. accrual inconsistencies:</strong> Businesses that switch between cash and accrual accounting to present the best picture</li>
@@ -113,15 +113,15 @@ export default function AdjustedEBITDAArticle() {
 
         <h2 className={h2Class}>SDE vs. EBITDA</h2>
         <p>
-          For small businesses (typically under $1&ndash;2M in revenue),
+          For small businesses (typically under $1-2M in revenue),
           <strong> Seller&rsquo;s Discretionary Earnings (SDE)</strong> is
           often used instead of EBITDA:
         </p>
         <ul className={ulClass}>
           <li>SDE = EBITDA + total owner compensation (salary + benefits + perks)</li>
           <li>SDE assumes the buyer will be an owner-operator who replaces the seller</li>
-          <li>SDE is typically 1.2&ndash;2x EBITDA for owner-operated businesses</li>
-          <li>Businesses valued on SDE trade at lower multiples (2&ndash;4x SDE) than those valued on EBITDA (4&ndash;6x)</li>
+          <li>SDE is typically 1.2-2x EBITDA for owner-operated businesses</li>
+          <li>Businesses valued on SDE trade at lower multiples (2-4x SDE) than those valued on EBITDA (4-6x)</li>
         </ul>
         <p>
           For{" "}
@@ -144,13 +144,13 @@ export default function AdjustedEBITDAArticle() {
           <li><strong>Revenue quality:</strong> Is revenue recurring, contractual, or one-time? What&rsquo;s the retention rate?</li>
           <li><strong>Earnings sustainability:</strong> Are the adjusted earnings repeatable under new ownership?</li>
           <li><strong>Working capital analysis:</strong> Is the business generating or consuming cash beyond EBITDA?</li>
-          <li><strong>Add-back validation:</strong> Independent assessment of each seller add-back &mdash; accepted, partially accepted, or rejected</li>
+          <li><strong>Add-back validation:</strong> Independent assessment of each seller add-back, accepted, partially accepted, or rejected</li>
           <li><strong>Normalized run-rate:</strong> The QoE provider&rsquo;s independent estimate of sustainable EBITDA</li>
         </ul>
         <p>
-          QoE reports typically cost $20K&ndash;$80K depending on deal
+          QoE reports typically cost $20K-$80K depending on deal
           size and complexity. They are not optional for serious
-          acquisitions &mdash; they are the single most important piece
+          acquisitions, they are the single most important piece
           of{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
@@ -182,7 +182,7 @@ export default function AdjustedEBITDAArticle() {
             </Link>{" "}
             before looking at the seller&rsquo;s adjusted figures</li>
           <li><strong>Compare tax returns to P&amp;L:</strong> Tax returns are harder to manipulate. If reported income on tax returns is materially lower than the seller&rsquo;s stated EBITDA, investigate</li>
-          <li><strong>Look at 3&ndash;5 years of data:</strong> One good year doesn&rsquo;t make a trend. Normalize across the full period</li>
+          <li><strong>Look at 3-5 years of data:</strong> One good year doesn&rsquo;t make a trend. Normalize across the full period</li>
           <li><strong>Understand capex requirements:</strong> EBITDA is meaningless if the business requires heavy reinvestment. Calculate free cash flow (EBITDA &minus; capex &minus; working capital changes)</li>
           <li><strong>Hire a QoE provider early:</strong> Don&rsquo;t wait until the end of diligence. Engage QoE as soon as the LOI is signed</li>
           <li><strong>Negotiate based on verified EBITDA:</strong> Use the QoE-adjusted EBITDA as the basis for your final purchase price in the{" "}
@@ -209,7 +209,7 @@ export default function AdjustedEBITDAArticle() {
         <p>
           Standard EBITDA is calculated by adding back interest, taxes, depreciation,
           and amortization to net income. Adjusted EBITDA goes further by normalizing
-          for items specific to the current owner &mdash; above-market owner
+          for items specific to the current owner, above-market owner
           compensation, personal expenses run through the business, one-time legal
           costs, and non-recurring items. Adjusted EBITDA represents the sustainable
           cash earnings a new owner can expect and is the number used for valuation
@@ -218,7 +218,7 @@ export default function AdjustedEBITDAArticle() {
 
         <h3 className={h3Class}>How many add-backs are too many in adjusted EBITDA?</h3>
         <p>
-          As a rule of thumb, if total add-backs exceed 30&ndash;40% of the stated
+          As a rule of thumb, if total add-backs exceed 30-40% of the stated
           EBITDA, treat the adjustments with heavy skepticism. At that level, the
           &ldquo;adjustments&rdquo; are doing more work than the business itself.
           Two to four clearly documented, objectively verifiable add-backs (such as
@@ -231,10 +231,10 @@ export default function AdjustedEBITDAArticle() {
         <p>
           A QoE report is a third-party financial analysis that independently validates
           or refutes the seller&rsquo;s adjusted EBITDA. Lenders require it to size
-          the loan, and it typically catches 10&ndash;30% of claimed add-backs as
-          unsupported or inflated. The $20K&ndash;$80K cost is a fraction of the
+          the loan, and it typically catches 10-30% of claimed add-backs as
+          unsupported or inflated. The $20K-$80K cost is a fraction of the
           overpayment risk it prevents. Engage a QoE provider as soon as the LOI is
-          signed &mdash; do not treat it as optional.
+          signed, do not treat it as optional.
         </p>
       </div>
     </article>

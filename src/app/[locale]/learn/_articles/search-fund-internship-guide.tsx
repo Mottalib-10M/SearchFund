@@ -13,8 +13,8 @@ export default function SearchFundInternshipGuideArticle() {
           acquisition but not yet ready to launch a full search, a search fund
           internship offers the ideal entry point. Working alongside an active
           searcher or a search fund investor gives you a front-row seat to the
-          entire acquisition process &mdash; from deal sourcing and financial
-          analysis to due diligence and closing &mdash; without the personal
+          entire acquisition process, from deal sourcing and financial
+          analysis to due diligence and closing, without the personal
           financial commitment of running your own fund. If you are an MBA
           student, a recent graduate, or an early-career professional exploring
           the ETA path, understanding how to find and maximize a search fund
@@ -23,9 +23,9 @@ export default function SearchFundInternshipGuideArticle() {
 
         <h2 className={h2Class}>What is a search fund internship?</h2>
         <p>
-          A search fund internship is a short-term role &mdash; typically 8 to
+          A search fund internship is a short-term role, typically 8 to
           12 weeks during the summer, though some extend to a full semester or
-          even a part-time academic-year engagement &mdash; in which you work
+          even a part-time academic-year engagement, in which you work
           directly with a search fund entrepreneur or a search fund investor.
           Unlike traditional private equity or investment banking internships
           that operate within large institutional frameworks, search fund
@@ -39,7 +39,7 @@ export default function SearchFundInternshipGuideArticle() {
           campaigns, screen hundreds of potential acquisition targets, build
           financial models for companies under consideration, assist with
           preliminary due diligence, and help prepare investor updates. Some
-          interns work on a live transaction &mdash; drafting sections of a
+          interns work on a live transaction, drafting sections of a
           letter of intent, coordinating with legal counsel, or building the
           quality of earnings analysis that underpins the acquisition thesis.
           Our{" "}
@@ -84,7 +84,7 @@ export default function SearchFundInternshipGuideArticle() {
         <p>
           Search fund investors often know which of their portfolio searchers
           need intern support. Building relationships with investors early
-          &mdash; even before you are ready to search yourself &mdash; can
+         , even before you are ready to search yourself, can
           open doors to placements that are never publicly advertised. Our
           guide on{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding investors</Link>{" "}
@@ -97,7 +97,7 @@ export default function SearchFundInternshipGuideArticle() {
           Many successful internships begin with a well-crafted cold email or
           LinkedIn message to a searcher in the early months of their search.
           Active searchers are often overwhelmed with deal flow, broker
-          communications, and investor updates &mdash; an intern who can take
+          communications, and investor updates, an intern who can take
           ownership of sourcing tasks or financial screening is genuinely
           valuable. Identify active searchers through LinkedIn (look for
           profiles mentioning &ldquo;search fund&rdquo; or &ldquo;ETA&rdquo;),
@@ -115,7 +115,7 @@ export default function SearchFundInternshipGuideArticle() {
         <p>
           You will learn how to build and execute systematic{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>{" "}
-          across multiple channels &mdash; proprietary outreach to business
+          across multiple channels, proprietary outreach to business
           owners, broker relationship management, conference networking, and
           referral-driven leads. You will develop an intuition for which
           businesses are &ldquo;search fund-friendly&rdquo;: recurring revenue,
@@ -128,7 +128,7 @@ export default function SearchFundInternshipGuideArticle() {
           Search fund internships provide intensive exposure to LBO models,
           discounted cash flow analyses, seller earnings normalization, and
           scenario stress-testing. Unlike theoretical classroom exercises,
-          these models drive real investment decisions &mdash; the numbers
+          these models drive real investment decisions, the numbers
           you produce may directly influence whether the searcher submits a
           letter of intent or walks away from a deal.
         </p>
@@ -147,8 +147,8 @@ export default function SearchFundInternshipGuideArticle() {
 
         <h3 className={h3Class}>Industry evaluation and investor communications</h3>
         <p>
-          You will research industry dynamics &mdash; market size, growth
-          trends, competitive environment, and typical financial profiles &mdash;
+          You will research industry dynamics, market size, growth
+          trends, competitive environment, and typical financial profiles , 
           for the sectors the searcher is targeting. This sharpens your ability
           to spot attractive acquisition characteristics and red flags. You may
           also help draft monthly investor updates, giving you insight into how
@@ -176,7 +176,7 @@ export default function SearchFundInternshipGuideArticle() {
           </li>
           <li>
             <strong>Sit in on every call.</strong> Broker calls, seller
-            meetings, investor updates, lender conversations &mdash; each
+            meetings, investor updates, lender conversations, each
             interaction teaches nuances of deal-making that textbooks cannot
           </li>
           <li>
@@ -242,7 +242,7 @@ export default function SearchFundInternshipGuideArticle() {
           and operational infrastructure. Some interns launch immediately after
           graduation; others return to industry for two to three years to build
           operating experience and personal savings. There is no single correct
-          timeline &mdash; the right moment depends on financial readiness,
+          timeline, the right moment depends on financial readiness,
           family situation, and confidence in your thesis.
         </p>
 
@@ -251,7 +251,7 @@ export default function SearchFundInternshipGuideArticle() {
           Your internship is a unique opportunity to engage with the investor
           community in a low-pressure context. Unlike a searcher who is
           actively fundraising, you can approach investors as a learner seeking
-          advice rather than a candidate seeking capital &mdash; and investors
+          advice rather than a candidate seeking capital, and investors
           are more candid when there is no ask on the table.
         </p>
         <ul className={ulClass}>
@@ -297,17 +297,17 @@ export default function SearchFundInternshipGuideArticle() {
         <h3 className={h3Class}>Duration and timing</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Summer internships (10&ndash;12 weeks):</strong> The most
+            <strong>Summer internships (10-12 weeks):</strong> The most
             common format, running June through August and aligning with the
             standard MBA summer internship window
           </li>
           <li>
-            <strong>Semester-long engagements (15&ndash;20 hours/week):</strong>{" "}
+            <strong>Semester-long engagements (15-20 hours/week):</strong>{" "}
             Part-time roles during the academic year that provide deeper
             involvement across more of the deal cycle
           </li>
           <li>
-            <strong>Post-graduation apprenticeships (3&ndash;6 months):</strong>{" "}
+            <strong>Post-graduation apprenticeships (3-6 months):</strong>{" "}
             The deepest immersion, treating the role as a full-time
             apprenticeship before launching your own fund
           </li>
@@ -321,7 +321,7 @@ export default function SearchFundInternshipGuideArticle() {
             $5,000. Compensation is funded from the search budget
           </li>
           <li>
-            <strong>Investor-sponsored programs:</strong> $3,000&ndash;$6,000
+            <strong>Investor-sponsored programs:</strong> $3,000-$6,000
             per month with structured rotations across portfolio searchers
           </li>
           <li>
@@ -335,14 +335,14 @@ export default function SearchFundInternshipGuideArticle() {
           The value lies in the experience, the network, and the head start it
           provides if you decide to launch your own search. MBA programs
           sometimes offer supplemental summer funding for students pursuing
-          entrepreneurial internships &mdash; ask your career services office.
+          entrepreneurial internships, ask your career services office.
         </p>
 
         <h2 className={h2Class}>Common mistakes to avoid</h2>
         <ul className={ulClass}>
           <li>
             <strong>Treating it like a passive learning experience.</strong>{" "}
-            The best interns are proactive &mdash; they identify gaps, propose
+            The best interns are proactive, they identify gaps, propose
             projects, and take initiative rather than waiting for a syllabus
           </li>
           <li>
@@ -359,7 +359,7 @@ export default function SearchFundInternshipGuideArticle() {
           <li>
             <strong>Being unreliable.</strong> In a two-person operation,
             missed deadlines are immediately visible. Treat every deliverable
-            as though it will be shown to an investor &mdash; because it
+            as though it will be shown to an investor, because it
             often will be
           </li>
         </ul>
@@ -376,9 +376,9 @@ export default function SearchFundInternshipGuideArticle() {
         </p>
         <p>
           Even for those who ultimately decide not to pursue a search fund,
-          the skills developed during the internship &mdash; business
+          the skills developed during the internship, business
           evaluation, financial analysis, cold outreach, and relationship
-          management &mdash; transfer directly to careers in private equity,
+          management, transfer directly to careers in private equity,
           corporate development, venture capital, and independent consulting.
           The ETA community is also remarkably loyal: people you meet as an
           intern become co-investors, deal sources, advisors, and friends
@@ -398,19 +398,19 @@ export default function SearchFundInternshipGuideArticle() {
 
         <h3 className={h3Class}>Do I need an MBA to get a search fund internship?</h3>
         <p>
-          No, but MBA enrollment significantly increases your access to opportunities. The most reliable path to a search fund internship runs through MBA programs with dedicated ETA coursework and clubs &mdash; Stanford GSB, IESE, Harvard, Wharton, Booth, INSEAD, and Kellogg all maintain databases of active searchers seeking interns. However, undergraduate students, recent graduates, and early-career professionals can access internships through direct outreach to active searchers on LinkedIn, attendance at ETA conferences (Stanford Search Fund Conference, IESE International Search Fund Conference, ETA Summit), and relationships with search fund investors who know which portfolio searchers need support. The key differentiator is not your degree but your preparation: searchers want interns who can add value immediately in financial modeling, deal sourcing, and industry research. Our guide on{" "}
+          No, but MBA enrollment significantly increases your access to opportunities. The most reliable path to a search fund internship runs through MBA programs with dedicated ETA coursework and clubs, Stanford GSB, IESE, Harvard, Wharton, Booth, INSEAD, and Kellogg all maintain databases of active searchers seeking interns. However, undergraduate students, recent graduates, and early-career professionals can access internships through direct outreach to active searchers on LinkedIn, attendance at ETA conferences (Stanford Search Fund Conference, IESE International Search Fund Conference, ETA Summit), and relationships with search fund investors who know which portfolio searchers need support. The key differentiator is not your degree but your preparation: searchers want interns who can add value immediately in financial modeling, deal sourcing, and industry research. Our guide on{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding investors</Link>{" "}
           explains how to identify the most active participants in the ecosystem.
         </p>
 
         <h3 className={h3Class}>What is typical compensation for a search fund internship?</h3>
         <p>
-          Compensation varies significantly by structure and geography. Paid internships with active searchers typically range from $1,500 to $4,000 per month, with some in higher-cost cities (New York, San Francisco, London) paying up to $5,000. The compensation is funded from the search budget. Investor-sponsored programs with structured rotations across portfolio searchers pay $3,000 to $6,000 per month. Unpaid or stipend-based roles are common in Europe and with early-stage searchers operating on tight budgets. Most people do not pursue search fund internships for the paycheck &mdash; the value lies in the hands-on experience, the network, and the head start it provides when launching your own search. MBA programs sometimes offer supplemental summer funding for students pursuing entrepreneurial internships, so check with your career services office.
+          Compensation varies significantly by structure and geography. Paid internships with active searchers typically range from $1,500 to $4,000 per month, with some in higher-cost cities (New York, San Francisco, London) paying up to $5,000. The compensation is funded from the search budget. Investor-sponsored programs with structured rotations across portfolio searchers pay $3,000 to $6,000 per month. Unpaid or stipend-based roles are common in Europe and with early-stage searchers operating on tight budgets. Most people do not pursue search fund internships for the paycheck, the value lies in the hands-on experience, the network, and the head start it provides when launching your own search. MBA programs sometimes offer supplemental summer funding for students pursuing entrepreneurial internships, so check with your career services office.
         </p>
 
         <h3 className={h3Class}>How do I transition from a search fund internship to launching my own fund?</h3>
         <p>
-          The typical path from internship to active search unfolds over 12 to 24 months. During your second year of business school (if applicable), refine your investment thesis based on the industries and deal characteristics that excited you during the internship, deepen relationships with the investors you met, and assemble your legal and operational infrastructure. The single most valuable outcome of a strong internship is investor introductions: if you performed well, ask your host searcher to introduce you to their investors. According to Stanford GSB data, a warm introduction from a searcher who can vouch for your work ethic carries enormous weight &mdash; many investors explicitly prefer backing aspiring searchers who have completed internships because it signals preparation and realistic expectations. For a detailed launch framework, see our{" "}
+          The typical path from internship to active search unfolds over 12 to 24 months. During your second year of business school (if applicable), refine your investment thesis based on the industries and deal characteristics that excited you during the internship, deepen relationships with the investors you met, and assemble your legal and operational infrastructure. The single most valuable outcome of a strong internship is investor introductions: if you performed well, ask your host searcher to introduce you to their investors. According to Stanford GSB data, a warm introduction from a searcher who can vouch for your work ethic carries enormous weight, many investors explicitly prefer backing aspiring searchers who have completed internships because it signals preparation and realistic expectations. For a detailed launch framework, see our{" "}
           <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link>{" "}
           guide.
         </p>
@@ -419,17 +419,17 @@ export default function SearchFundInternshipGuideArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study (Searcher Demographics and Career Paths)
+              Stanford Graduate School of Business, 2024 Search Fund Study (Searcher Demographics and Career Paths)
             </a>
           </li>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; International Search Fund Study and ETA Curriculum
+              IESE Business School, International Search Fund Study and ETA Curriculum
             </a>
           </li>
           <li>
             <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Harvard Business School &mdash; Search Fund Primer (Ruback &amp; Yudkoff)
+              Harvard Business School, Search Fund Primer (Ruback &amp; Yudkoff)
             </a>
           </li>
         </ul>

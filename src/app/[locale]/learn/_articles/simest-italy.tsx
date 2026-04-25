@@ -60,10 +60,10 @@ export default function SIMESTItalyArticle() {
       <h2 className={h2Class}>Typical Italian Acquisition Structure</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Senior bank debt (Fondo di Garanzia-backed): 40&ndash;50%</li>
-          <li>Vendor loan (finanziamento venditore): 15&ndash;25%</li>
-          <li>Invitalia/SIMEST subsidized loan: 10&ndash;15%</li>
-          <li>Buyer equity: 20&ndash;30%</li>
+          <li>Senior bank debt (Fondo di Garanzia-backed): 40-50%</li>
+          <li>Vendor loan (finanziamento venditore): 15-25%</li>
+          <li>Invitalia/SIMEST subsidized loan: 10-15%</li>
+          <li>Buyer equity: 20-30%</li>
         </ul>
       </div>
 
@@ -122,7 +122,7 @@ export default function SIMESTItalyArticle() {
 
       <h3 className={h3Class}>How does the 18-year goodwill amortization compare to other European countries?</h3>
       <div className={bodyClass}>
-        <p>Italy&apos;s 18-year goodwill amortization period is longer than most European peers &mdash; France allows 10 years, Germany permits amortization over the asset&apos;s useful life (typically 5&ndash;15 years), and Spain allows 20 years. While the annual deduction per euro of goodwill is smaller, Italy compensates with the &euro;200 flat registration tax on share deals (compared to percentage-based transfer taxes elsewhere) and the highly favorable 95% participation exemption on exit gains.</p>
+        <p>Italy&apos;s 18-year goodwill amortization period is longer than most European peers, France allows 10 years, Germany permits amortization over the asset&apos;s useful life (typically 5-15 years), and Spain allows 20 years. While the annual deduction per euro of goodwill is smaller, Italy compensates with the &euro;200 flat registration tax on share deals (compared to percentage-based transfer taxes elsewhere) and the highly favorable 95% participation exemption on exit gains.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

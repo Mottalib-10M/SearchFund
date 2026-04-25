@@ -28,7 +28,7 @@ export default function OnlineBusinessMarketplacesArticle() {
           <li><strong>Overview:</strong> The largest online marketplace for businesses for sale in the US. Owned by CoStar Group. According to{" "}
             <a href="https://www.bizbuysell.com/insight-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">BizBuySell&apos;s Insight Report (2024)</a>, closed transactions on the platform reached a record high in Q4 2024, with a median sale price of $340,000</li>
           <li><strong>Listings:</strong> 45,000+ active listings at any time, ranging from $50K corner stores to $10M+ established businesses</li>
-          <li><strong>Best for:</strong> Self-funded searchers targeting smaller businesses ($500K&ndash;$5M). High volume but lower average quality</li>
+          <li><strong>Best for:</strong> Self-funded searchers targeting smaller businesses ($500K-$5M). High volume but lower average quality</li>
           <li><strong>Pros:</strong> Enormous inventory, free to browse, good filtering tools, quarterly market reports with data</li>
           <li><strong>Cons:</strong> Listings are often stale, many are overpriced, some are &ldquo;tire-kicker&rdquo; sellers who aren&rsquo;t serious</li>
         </ul>
@@ -42,10 +42,10 @@ export default function OnlineBusinessMarketplacesArticle() {
 
         <h3 className={h3Class}>Axial</h3>
         <ul className={ulClass}>
-          <li><strong>Overview:</strong> The premier marketplace for lower middle market deals ($1M&ndash;$25M+ EBITDA). Connects buyers, sellers, M&amp;A advisors, and lenders. Per{" "}
+          <li><strong>Overview:</strong> The premier marketplace for lower middle market deals ($1M-$25M+ EBITDA). Connects buyers, sellers, M&amp;A advisors, and lenders. Per{" "}
             <a href="https://www.axial.net/forum/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Axial&apos;s Lower Middle Market Report (2024)</a>, the platform facilitates over 5,000 deal introductions monthly</li>
           <li><strong>Listings:</strong> Higher quality, vetted by M&amp;A advisors. Fewer but more serious opportunities</li>
-          <li><strong>Best for:</strong> Traditional search funds targeting $5M&ndash;$30M enterprise value deals</li>
+          <li><strong>Best for:</strong> Traditional search funds targeting $5M-$30M enterprise value deals</li>
           <li><strong>Pros:</strong> Pre-qualified deals, sophisticated seller advisors, built-in NDA workflow, deal management tools</li>
           <li><strong>Cons:</strong> Requires membership/subscription, fewer small deals, competitive (PE firms also use Axial)</li>
         </ul>
@@ -53,7 +53,7 @@ export default function OnlineBusinessMarketplacesArticle() {
         <h3 className={h3Class}>DealStream (formerly MergerNetwork)</h3>
         <ul className={ulClass}>
           <li><strong>Overview:</strong> Mid-market platform connecting buyers, sellers, and intermediaries. Good international coverage</li>
-          <li><strong>Listings:</strong> Mix of US and international deals, $500K&ndash;$50M range</li>
+          <li><strong>Listings:</strong> Mix of US and international deals, $500K-$50M range</li>
           <li><strong>Best for:</strong> Searchers looking at cross-border or international deals, especially in{" "}
             <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
               Europe
@@ -87,7 +87,7 @@ export default function OnlineBusinessMarketplacesArticle() {
             <Link href="/learn/creating-icp-acquisitions" className="text-apple-accent hover:underline">
               ICP criteria
             </Link>. Check daily for new listings</li>
-          <li><strong>Move fast:</strong> Good deals get under LOI within 2&ndash;4 weeks. If you see something promising, contact the broker within 24 hours</li>
+          <li><strong>Move fast:</strong> Good deals get under LOI within 2-4 weeks. If you see something promising, contact the broker within 24 hours</li>
           <li><strong>Look beyond the listing:</strong> Many listings are poorly written. A bad listing doesn&rsquo;t mean a bad business. Request the CIM before making judgments</li>
           <li><strong>Track everything:</strong> Use a CRM or spreadsheet to track every deal you review, the source, status, and reason for passing. This data helps you refine your criteria over time</li>
           <li><strong>Follow up on stale listings:</strong> Businesses listed for 6+ months may have a more motivated seller and a lower price expectation than when first listed</li>
@@ -110,19 +110,19 @@ export default function OnlineBusinessMarketplacesArticle() {
 
         <h2 className={h2Class}>Marketplaces in your overall sourcing strategy</h2>
         <p>
-          Online marketplaces should represent 20&ndash;30% of your deal flow.
+          Online marketplaces should represent 20-30% of your deal flow.
           Combine them with:
         </p>
         <ul className={ulClass}>
           <li><strong>{" "}
             <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
               Broker relationships
-            </Link>:</strong> 40&ndash;50% of deal flow. Brokers send you deals before they hit marketplaces</li>
+            </Link>:</strong> 40-50% of deal flow. Brokers send you deals before they hit marketplaces</li>
           <li><strong>{" "}
             <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">
               Direct/proprietary outreach
-            </Link>:</strong> 20&ndash;30% of deal flow. Contact business owners directly</li>
-          <li><strong>Referral networks:</strong> Accountants, lawyers, and wealth advisors. 10&ndash;20% of deal flow</li>
+            </Link>:</strong> 20-30% of deal flow. Contact business owners directly</li>
+          <li><strong>Referral networks:</strong> Accountants, lawyers, and wealth advisors. 10-20% of deal flow</li>
         </ul>
 
         <p>
@@ -148,12 +148,12 @@ export default function OnlineBusinessMarketplacesArticle() {
 
         <h3 className={h3Class}>What is the best website to buy a business?</h3>
         <p>
-          It depends on the deal size. BizBuySell is the largest platform for small businesses ($500K&ndash;$5M) with 45,000+ active listings. Axial is the premier platform for lower middle market deals ($1M&ndash;$25M+ EBITDA) with higher-quality, vetted opportunities. DealStream provides good international coverage for cross-border acquisitions. In Europe, Fusacq (France), Nexxt-Change (Germany), and Daltons (UK) are the leading regional platforms. Most serious searchers monitor 3&ndash;5 platforms simultaneously and supplement with broker relationships and direct outreach.
+          It depends on the deal size. BizBuySell is the largest platform for small businesses ($500K-$5M) with 45,000+ active listings. Axial is the premier platform for lower middle market deals ($1M-$25M+ EBITDA) with higher-quality, vetted opportunities. DealStream provides good international coverage for cross-border acquisitions. In Europe, Fusacq (France), Nexxt-Change (Germany), and Daltons (UK) are the leading regional platforms. Most serious searchers monitor 3-5 platforms simultaneously and supplement with broker relationships and direct outreach.
         </p>
 
         <h3 className={h3Class}>Should marketplaces be my primary deal sourcing strategy?</h3>
         <p>
-          No. Online marketplaces should represent 20&ndash;30% of your deal flow at most. The best businesses often sell through proprietary channels before being listed publicly, and marketplace deals face heavy buyer competition that drives up prices. Complement marketplaces with broker relationships (40&ndash;50% of deal flow), direct outreach to owners (20&ndash;30%), and professional referral networks from CPAs, attorneys, and wealth advisors (10&ndash;20%). This diversified approach ensures you see both listed and off-market opportunities.
+          No. Online marketplaces should represent 20-30% of your deal flow at most. The best businesses often sell through proprietary channels before being listed publicly, and marketplace deals face heavy buyer competition that drives up prices. Complement marketplaces with broker relationships (40-50% of deal flow), direct outreach to owners (20-30%), and professional referral networks from CPAs, attorneys, and wealth advisors (10-20%). This diversified approach ensures you see both listed and off-market opportunities.
         </p>
 
         <h3 className={h3Class}>How do I stand out as a buyer on a marketplace?</h3>

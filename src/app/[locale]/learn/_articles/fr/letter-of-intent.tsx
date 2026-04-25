@@ -8,7 +8,7 @@ export default function LetterOfIntentFR() {
 
       <div className={bodyClass}>
         <p>
-          La lettre d&apos;intention (LOI &mdash; Letter of Intent), également
+          La lettre d&apos;intention (LOI, Letter of Intent), également
           appelée offre indicative ou protocole d&apos;accord, est le document
           qui formalise l&apos;intérêt d&apos;un searcher pour l&apos;acquisition d&apos;une
           entreprise cible et fixe les grandes lignes de la transaction
@@ -238,7 +238,7 @@ export default function LetterOfIntentFR() {
           interdit au cédant de solliciter activement d&apos;autres acquéreurs
           pendant la période d&apos;exclusivité. Elle se distingue de la clause de
           no-talk, plus restrictive, qui interdit au cédant de répondre à
-          toute sollicitation non sollicitée &mdash; cette dernière étant plus
+          toute sollicitation non sollicitée, cette dernière étant plus
           rarement acceptée dans le contexte français des PME.
         </p>
 

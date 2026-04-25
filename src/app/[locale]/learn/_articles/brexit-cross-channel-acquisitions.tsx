@@ -11,7 +11,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
         <p>
           The United Kingdom&apos;s departure from the European Union has
           created a fundamentally different market for cross-channel
-          acquisitions &mdash; transactions where a UK-based acquirer
+          acquisitions, transactions where a UK-based acquirer
           purchases an EU business, or vice versa. What were once seamless
           intra-EU transactions governed by harmonized regulations, free
           movement principles, and the Parent-Subsidiary Directive are now
@@ -332,7 +332,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
             rules have created skill shortages in some UK sectors, while
             EU labor markets remain accessible to EU-based businesses.
             Acquirers who can deploy talent flexibly across both markets
-            &mdash; working within the new immigration frameworks &mdash;
+            working within the new immigration frameworks , 
             have a competitive advantage over those limited to a single
             labor pool.
           </li>
@@ -387,7 +387,7 @@ export default function BrexitCrossChannelAcquisitionsArticle() {
 
         <h3 className={h3Class}>Does the UK-EU Trade and Cooperation Agreement eliminate tariffs on goods?</h3>
         <p>
-          The TCA provides for tariff-free and quota-free trade in goods between the UK and EU, but this is subject to rules of origin requirements. Goods must demonstrate sufficient UK or EU content to qualify for zero tariffs &mdash; supply chains relying heavily on components from third countries may not qualify for preferential treatment. Additionally, the TCA does not eliminate customs procedures: all goods moving between the UK and EU are now subject to customs declarations, border checks, sanitary and phytosanitary inspections for food products, and VAT at the border. These requirements add cost, complexity, and 2&ndash;5 days of delay to cross-channel supply chains, according to the Institute for Government&rsquo;s regulatory divergence tracker.
+          The TCA provides for tariff-free and quota-free trade in goods between the UK and EU, but this is subject to rules of origin requirements. Goods must demonstrate sufficient UK or EU content to qualify for zero tariffs, supply chains relying heavily on components from third countries may not qualify for preferential treatment. Additionally, the TCA does not eliminate customs procedures: all goods moving between the UK and EU are now subject to customs declarations, border checks, sanitary and phytosanitary inspections for food products, and VAT at the border. These requirements add cost, complexity, and 2-5 days of delay to cross-channel supply chains, according to the Institute for Government&rsquo;s regulatory divergence tracker.
         </p>
 
         <h3 className={h3Class}>Can UK nationals still freely work in EU countries after Brexit?</h3>

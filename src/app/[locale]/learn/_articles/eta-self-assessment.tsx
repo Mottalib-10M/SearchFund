@@ -10,8 +10,8 @@ export default function ETASelfAssessmentArticle() {
       <div className={bodyClass}>
         <p>
           Entrepreneurship Through Acquisition is one of the most compelling
-          career paths available to ambitious professionals &mdash; but it is not
-          for everyone. Roughly 25&ndash;30% of searchers never complete an
+          career paths available to ambitious professionals, but it is not
+          for everyone. Roughly 25-30% of searchers never complete an
           acquisition, and among those who do, a meaningful percentage struggle
           in the CEO seat. The difference between a transformative career move
           and a costly detour often comes down to honest self-assessment before
@@ -24,14 +24,14 @@ export default function ETASelfAssessmentArticle() {
         <h2 className={h2Class}>What ETA demands: time, capital, and risk</h2>
         <p>
           Before assessing your personal fit, understand what you are signing up
-          for. ETA is not a side project or a speculative investment &mdash; it
+          for. ETA is not a side project or a speculative investment, it
           is a full-time, multi-year commitment that touches every dimension of
           your life.
         </p>
 
         <h3 className={h3Class}>Time commitment</h3>
         <p>
-          A typical search takes 18&ndash;24 months of full-time work. During
+          A typical search takes 18-24 months of full-time work. During
           that period, you will review hundreds of companies, conduct dozens of
           deep-dive evaluations, submit multiple letters of intent, and
           experience several deals that fall through. After closing an
@@ -43,8 +43,8 @@ export default function ETASelfAssessmentArticle() {
             corporate-to-ETA transition guide
           </Link>{" "}
           covers this career shift in detail). If
-          you acquire a business with $5&ndash;30M in enterprise value &mdash;
-          the typical range for search fund acquisitions &mdash; you will manage
+          you acquire a business with $5-30M in enterprise value , 
+          the typical range for search fund acquisitions, you will manage
           30 to 200 employees and be responsible for every aspect of the
           operation.
         </p>
@@ -52,28 +52,28 @@ export default function ETASelfAssessmentArticle() {
         <h3 className={h3Class}>Financial exposure</h3>
         <p>
           In a traditional search fund, investors cover your salary during the
-          search phase &mdash; typically $100,000&ndash;$150,000 per year. That
+          search phase, typically $100,000-$150,000 per year. That
           sounds comfortable until you compare it to the total compensation
           (salary, bonus, equity, benefits) you are likely leaving behind. For
-          a mid-career professional earning $200K&ndash;$350K in total
+          a mid-career professional earning $200K-$350K in total
           compensation, the opportunity cost of a two-year search exceeds
-          $400K&ndash;$700K. Careful{" "}
+          $400K-$700K. Careful{" "}
           <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
             financial runway planning
           </Link>{" "}
           is essential before committing. Self-funded searchers bear even more risk,
           financing the search entirely from personal savings. In both cases,
-          you will typically invest $25K&ndash;$100K of personal capital at
+          you will typically invest $25K-$100K of personal capital at
           acquisition. If the deal fails, that money is at risk.
         </p>
 
         <h3 className={h3Class}>Career risk</h3>
         <p>
-          Approximately 70% of searchers ultimately acquire a company &mdash;
+          Approximately 70% of searchers ultimately acquire a company , 
           which means 30% do not. If you search for two years and do not close
           a deal, you return to the job market with a gap on your resume and no
           traditional &ldquo;exit&rdquo; to show for it. While most former
-          searchers land well &mdash; the skills are transferable &mdash; you
+          searchers land well, the skills are transferable, you
           should enter the process understanding that failure is a real
           possibility, not just a theoretical one.
         </p>
@@ -85,7 +85,7 @@ export default function ETASelfAssessmentArticle() {
           <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">
             pre-search preparation
           </Link>. The key is knowing where you stand today. Rate yourself
-          honestly on each of the following competencies using a 1&ndash;5
+          honestly on each of the following competencies using a 1-5
           scale (1 = significant gap, 5 = strong proficiency).
         </p>
 
@@ -105,8 +105,8 @@ export default function ETASelfAssessmentArticle() {
         <p>
           The search itself is fundamentally a sales process. You are selling
           investors on your fund, selling brokers on prioritizing your
-          inquiries, and selling business owners on the idea that you &mdash; a
-          stranger &mdash; should be the steward of their life&apos;s work.
+          inquiries, and selling business owners on the idea that you, a
+          stranger, should be the steward of their life&apos;s work.
           Searchers who cannot build rapport quickly, follow up persistently
           without being pushy, and handle rejection gracefully tend to struggle
           with{" "}
@@ -122,9 +122,9 @@ export default function ETASelfAssessmentArticle() {
           existing team. Many employees will be skeptical, anxious, or
           resistant. You need to earn trust quickly, make difficult personnel
           decisions, and lead through ambiguity. Prior management experience
-          &mdash; even managing a small team of three to five people &mdash;
+          even managing a small team of three to five people , 
           is a meaningful signal. If you have never managed anyone, consider
-          whether you can develop this competency in the 12&ndash;18 months
+          whether you can develop this competency in the 12-18 months
           before your search or whether a few more years of operating
           experience would serve you better.
         </p>
@@ -137,7 +137,7 @@ export default function ETASelfAssessmentArticle() {
           </Link>{" "}
           explores in depth, months of rejection, dead-end conversations, and
           broken deals take a toll. Searchers who tie their self-worth to
-          outcomes &mdash; rather than process &mdash; are most at risk of
+          outcomes, rather than process, are most at risk of
           burnout and poor decision-making. Reflect honestly: how have you
           handled extended periods of uncertainty and rejection in the past?
         </p>
@@ -164,18 +164,18 @@ export default function ETASelfAssessmentArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Emergency fund:</strong> Do you have 12&ndash;24 months of
+            <strong>Emergency fund:</strong> Do you have 12-24 months of
             personal living expenses saved in liquid accounts, separate from
             any search fund capital?
           </li>
           <li>
             <strong>Debt obligations:</strong> Are your personal debt payments
             (mortgage, student loans, car payments) manageable on a searcher
-            salary of $100K&ndash;$150K per year, or $0 in a self-funded
+            salary of $100K-$150K per year, or $0 in a self-funded
             search?
           </li>
           <li>
-            <strong>Co-investment capital:</strong> Do you have $25K&ndash;$100K
+            <strong>Co-investment capital:</strong> Do you have $25K-$100K
             available for a personal investment at acquisition, without
             depleting your emergency fund?
           </li>
@@ -215,7 +215,7 @@ export default function ETASelfAssessmentArticle() {
         <h2 className={h2Class}>Personality fit: self-assessment questions</h2>
         <p>
           Beyond skills and finances, ETA requires specific personality
-          characteristics. These are harder to develop than skills &mdash;
+          characteristics. These are harder to develop than skills , 
           they tend to be deeply ingrained. Answer each question below with
           brutal honesty. There are no right or wrong answers, but there are
           patterns that predict success and patterns that predict misery.
@@ -225,8 +225,8 @@ export default function ETASelfAssessmentArticle() {
             <strong>Ambiguity tolerance:</strong> When you face a major life
             decision with incomplete information, do you (a) gather what you
             can and make a call, or (b) freeze until you have certainty?
-            ETA requires making consequential decisions &mdash; submitting
-            LOIs, hiring and firing, setting strategy &mdash; with imperfect
+            ETA requires making consequential decisions, submitting
+            LOIs, hiring and firing, setting strategy, with imperfect
             data, every week.
           </li>
           <li>
@@ -240,7 +240,7 @@ export default function ETASelfAssessmentArticle() {
             <strong>Ownership drive:</strong> Do you genuinely want to own and
             operate a business, or are you attracted to the idea of ETA because
             it looks good on paper? There is a meaningful difference between
-            wanting to be a CEO and wanting to do the work of a CEO &mdash;
+            wanting to be a CEO and wanting to do the work of a CEO , 
             which includes plumbing emergencies, HR disputes, and cash flow
             crunches, not just strategy offsites.
           </li>
@@ -254,21 +254,21 @@ export default function ETASelfAssessmentArticle() {
           <li>
             <strong>Risk relationship:</strong> How do you feel about the
             possibility of investing two years and emerging with nothing? Not
-            how you think you should feel &mdash; how you actually feel, in
+            how you think you should feel, how you actually feel, in
             your gut, right now. If the honest answer is &ldquo;sick to my
             stomach,&rdquo; that is important data.
           </li>
           <li>
             <strong>Social stamina:</strong> The search requires relentless
-            networking &mdash; investor meetings, broker calls, seller
+            networking, investor meetings, broker calls, seller
             conversations, conference attendance. If networking drains you
             rather than energizes you, factor in the psychological cost of
             doing it full-time for two years.
           </li>
           <li>
             <strong>Small business affinity:</strong> Search fund acquisitions
-            are typically businesses with $5M&ndash;$30M in enterprise value
-            and 30&ndash;200 employees. These are not glamorous Silicon Valley
+            are typically businesses with $5M-$30M in enterprise value
+            and 30-200 employees. These are not glamorous Silicon Valley
             companies. They are HVAC contractors, specialty manufacturers,
             business services firms, and healthcare clinics. Are you genuinely
             excited about running a business like this, or does the idea feel
@@ -278,14 +278,14 @@ export default function ETASelfAssessmentArticle() {
             <strong>Relocation willingness:</strong> Most searchers need to
             relocate for the right deal. Are you and your family genuinely
             willing to move to wherever the best acquisition opportunity
-            exists &mdash; which may be a small city or rural area?
+            exists, which may be a small city or rural area?
           </li>
         </ol>
 
-        <h2 className={h2Class}>Risk tolerance framework: rate yourself 1&ndash;10</h2>
+        <h2 className={h2Class}>Risk tolerance framework: rate yourself 1-10</h2>
         <p>
-          Understanding your actual risk tolerance &mdash; as opposed to your
-          stated risk tolerance &mdash; is critical. Most people overestimate
+          Understanding your actual risk tolerance, as opposed to your
+          stated risk tolerance, is critical. Most people overestimate
           their comfort with risk in the abstract and underestimate it when
           real money and real consequences are involved. For each scenario
           below, rate your comfort level from 1 (extremely uncomfortable) to
@@ -293,12 +293,12 @@ export default function ETASelfAssessmentArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Income reduction:</strong> Taking a 40&ndash;60% cut in
-            total compensation for 18&ndash;24 months with no guarantee of
+            <strong>Income reduction:</strong> Taking a 40-60% cut in
+            total compensation for 18-24 months with no guarantee of
             future upside. (Your score: ___/10)
           </li>
           <li>
-            <strong>Capital at risk:</strong> Investing $50K&ndash;$100K of
+            <strong>Capital at risk:</strong> Investing $50K-$100K of
             personal savings into an acquisition that could lose value.
             (Your score: ___/10)
           </li>
@@ -309,7 +309,7 @@ export default function ETASelfAssessmentArticle() {
           </li>
           <li>
             <strong>Debt responsibility:</strong> Personally guaranteeing
-            $1M&ndash;$5M in acquisition debt (SBA loans or bank financing)
+            $1M-$5M in acquisition debt (SBA loans or bank financing)
             secured against the assets of the business you acquire.
             (Your score: ___/10)
           </li>
@@ -341,7 +341,7 @@ export default function ETASelfAssessmentArticle() {
           well-suited to ETA. An average between 5 and 7 suggests you can
           likely manage the discomfort but should build strong support systems
           (mentors, peer groups, family alignment) before launching. An
-          average below 5 is a serious signal &mdash; not that you cannot do
+          average below 5 is a serious signal, not that you cannot do
           ETA, but that the psychological cost may exceed the potential
           reward. Consider whether the discomfort is situational (and can be
           addressed) or dispositional (and is unlikely to change).
@@ -351,13 +351,13 @@ export default function ETASelfAssessmentArticle() {
         <p>
           There is no universally perfect time to launch a search, but certain
           career stages offer structural advantages. Most successful searchers
-          fall into the 28&ndash;38 age range, though outliers in both
+          fall into the 28-38 age range, though outliers in both
           directions exist. The relevant question is not &ldquo;how old am
           I?&rdquo; but &ldquo;where am I in terms of experience, finances,
           and life obligations?&rdquo;
         </p>
 
-        <h3 className={h3Class}>Early career (25&ndash;30)</h3>
+        <h3 className={h3Class}>Early career (25-30)</h3>
         <p>
           You likely have lower financial obligations (no mortgage, fewer
           dependents), high energy, and a long time horizon to compound the
@@ -370,7 +370,7 @@ export default function ETASelfAssessmentArticle() {
           confidence.
         </p>
 
-        <h3 className={h3Class}>Mid-career (30&ndash;40)</h3>
+        <h3 className={h3Class}>Mid-career (30-40)</h3>
         <p>
           This is the sweet spot for most searchers. You have enough
           professional experience to be credible as a CEO, sufficient savings
@@ -412,7 +412,7 @@ export default function ETASelfAssessmentArticle() {
           of the search and the CEO role, the financial risks involved, and
           the emotional ups and downs that come with months of uncertainty.
           Have this conversation early, thoroughly, and repeatedly. Share
-          your full financial picture &mdash; income projections, worst-case
+          your full financial picture, income projections, worst-case
           scenarios, emergency plans. Discuss relocation boundaries: which
           cities or regions are acceptable, which are non-negotiable
           deal-breakers? Agree on a maximum search duration and what happens
@@ -425,7 +425,7 @@ export default function ETASelfAssessmentArticle() {
           constraints that are not inherently disqualifying but must be
           planned for. Childcare costs during a reduced-income period,
           school disruption from relocation, and the CEO time demands that
-          compete with family presence &mdash; these are real and
+          compete with family presence, these are real and
           significant. Many successful searchers with young families
           explicitly discuss division of household and childcare
           responsibilities with their partners before launching, so there
@@ -442,7 +442,7 @@ export default function ETASelfAssessmentArticle() {
           The search is isolating. Unlike corporate careers with built-in
           teams and social structures, you will be working largely alone for
           months. Having people you can call when a deal collapses at the
-          last minute or when self-doubt creeps in is not a luxury &mdash;
+          last minute or when self-doubt creeps in is not a luxury , 
           it is essential infrastructure.
         </p>
 
@@ -459,7 +459,7 @@ export default function ETASelfAssessmentArticle() {
             Join as COO, VP of Operations, or GM at a company recently
             acquired by a searcher. You gain acquisition-adjacent experience,
             work in a small business environment, and build relationships
-            with search fund investors &mdash; all without bearing the search
+            with search fund investors, all without bearing the search
             risk yourself. This is one of the best preparation paths for a
             future search.
           </li>
@@ -472,8 +472,8 @@ export default function ETASelfAssessmentArticle() {
             </Link>{" "}
             lets you pursue
             specific deals as they arise, raising capital on a deal-by-deal
-            basis. The economics are different &mdash; less structured, more
-            opportunistic &mdash; but the time commitment is more flexible.
+            basis. The economics are different, less structured, more
+            opportunistic, but the time commitment is more flexible.
           </li>
           <li>
             <strong>Search fund investing:</strong> If you have capital but
@@ -544,7 +544,7 @@ export default function ETASelfAssessmentArticle() {
               <tr className="border-b border-gray-100 bg-gray-50">
                 <td className="px-4 py-3 font-medium">Financial position</td>
                 <td className="px-4 py-3 text-red-800">High personal debt; no emergency fund; partner income insufficient</td>
-                <td className="px-4 py-3 text-green-800">12&ndash;24 months of expenses saved; manageable debt; co-investment capital available</td>
+                <td className="px-4 py-3 text-green-800">12-24 months of expenses saved; manageable debt; co-investment capital available</td>
               </tr>
               <tr className="border-b border-gray-100">
                 <td className="px-4 py-3 font-medium">Risk tolerance</td>
@@ -569,7 +569,7 @@ export default function ETASelfAssessmentArticle() {
               <tr className="border-b border-gray-100">
                 <td className="px-4 py-3 font-medium">Time horizon</td>
                 <td className="px-4 py-3 text-red-800">Wants quick financial returns; impatient with long processes</td>
-                <td className="px-4 py-3 text-green-800">Willing to commit 7&ndash;10 years; patient with compounding</td>
+                <td className="px-4 py-3 text-green-800">Willing to commit 7-10 years; patient with compounding</td>
               </tr>
               <tr className="border-b border-gray-100 bg-gray-50">
                 <td className="px-4 py-3 font-medium">Business type</td>
@@ -606,52 +606,52 @@ export default function ETASelfAssessmentArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Financial preparedness</strong> &mdash; emergency fund,
+            <strong>Financial preparedness</strong>: emergency fund,
             co-investment capital, debt management, partner income
             (Score: ___/10)
           </li>
           <li>
-            <strong>Professional skills</strong> &mdash; financial modeling,
+            <strong>Professional skills</strong>: financial modeling,
             sales ability, negotiation, operational understanding
             (Score: ___/10)
           </li>
           <li>
-            <strong>Leadership experience</strong> &mdash; team management,
+            <strong>Leadership experience</strong>: team management,
             hiring/firing, executive presence, conflict resolution
             (Score: ___/10)
           </li>
           <li>
-            <strong>Risk tolerance</strong> &mdash; comfort with income
+            <strong>Risk tolerance</strong>: comfort with income
             reduction, capital at risk, career gap, debt guarantees
             (Score: ___/10)
           </li>
           <li>
-            <strong>Psychological resilience</strong> &mdash; ability to
+            <strong>Psychological resilience</strong>: ability to
             handle rejection, ambiguity, isolation, and extended timelines
             (Score: ___/10)
           </li>
           <li>
-            <strong>Family and partner alignment</strong> &mdash; support
+            <strong>Family and partner alignment</strong>: support
             from household, relocation flexibility, agreed boundaries
             (Score: ___/10)
           </li>
           <li>
-            <strong>Career timing</strong> &mdash; right experience level,
+            <strong>Career timing</strong>: right experience level,
             appropriate age window, manageable opportunity cost
             (Score: ___/10)
           </li>
           <li>
-            <strong>Motivation quality</strong> &mdash; genuine desire to
+            <strong>Motivation quality</strong>: genuine desire to
             operate a small business, not just escape current job or pursue
             status (Score: ___/10)
           </li>
           <li>
-            <strong>Network readiness</strong> &mdash; connections to
+            <strong>Network readiness</strong>: connections to
             investors, mentors, brokers, and the broader ETA community
             (Score: ___/10)
           </li>
           <li>
-            <strong>Industry knowledge</strong> &mdash; understanding of
+            <strong>Industry knowledge</strong>: understanding of
             target sectors, credibility with sellers, developed thesis
             (Score: ___/10)
           </li>
@@ -660,7 +660,7 @@ export default function ETASelfAssessmentArticle() {
         <h3 className={h3Class}>Interpreting your total score</h3>
         <ul className={ulClass}>
           <li>
-            <strong>80&ndash;100:</strong> Strong readiness. You are
+            <strong>80-100:</strong> Strong readiness. You are
             well-positioned to launch a search. Focus your remaining
             preparation on the one or two lowest-scoring areas. Begin
             building investor relationships and refining your{" "}
@@ -669,7 +669,7 @@ export default function ETASelfAssessmentArticle() {
             </Link>.
           </li>
           <li>
-            <strong>60&ndash;79:</strong> Promising with gaps. You have a
+            <strong>60-79:</strong> Promising with gaps. You have a
             solid foundation but meaningful areas to strengthen. Identify
             your two to three lowest scores and create a six-to-twelve-month
             action plan to address them before launching. Consider{" "}
@@ -679,10 +679,10 @@ export default function ETASelfAssessmentArticle() {
             to close the gaps systematically.
           </li>
           <li>
-            <strong>40&ndash;59:</strong> Significant development needed.
+            <strong>40-59:</strong> Significant development needed.
             ETA may be right for you in the future, but launching now
-            carries outsized risk. Invest 12&ndash;24 months in
-            strengthening your weakest areas &mdash; whether that means
+            carries outsized risk. Invest 12-24 months in
+            strengthening your weakest areas, whether that means
             building savings, gaining management experience, or developing
             financial skills. Consider an{" "}
             <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
@@ -692,7 +692,7 @@ export default function ETASelfAssessmentArticle() {
           </li>
           <li>
             <strong>Below 40:</strong> ETA is likely not the right path at
-            this stage. This is not a failure &mdash; it is a productive
+            this stage. This is not a failure, it is a productive
             realization. Explore the alternative paths described above,
             continue building your career and financial position, and
             reassess in two to three years. The model is not going
@@ -706,16 +706,16 @@ export default function ETASelfAssessmentArticle() {
           ETA is right for you. What it can do is surface the questions you
           need to answer honestly before committing years of your life and
           significant financial resources. The best searchers are not the
-          ones who score perfectly on every dimension &mdash; they are the
+          ones who score perfectly on every dimension, they are the
           ones who have a clear-eyed understanding of their strengths and
           weaknesses and have built plans to compensate for the gaps.
         </p>
         <p>
-          Remember the base rates: the typical search takes 18&ndash;24
-          months, the average acquisition is $5M&ndash;$30M in enterprise
+          Remember the base rates: the typical search takes 18-24
+          months, the average acquisition is $5M-$30M in enterprise
           value, roughly 70% of searchers ultimately acquire, and the
-          searcher salary during search is approximately $100,000&ndash;$150,000
-          per year. These are not aspirational figures &mdash; they are the
+          searcher salary during search is approximately $100,000-$150,000
+          per year. These are not aspirational figures, they are the
           statistical reality you are entering. If those numbers work for
           your life, your finances, and your temperament, ETA may be one of
           the most rewarding career decisions you ever make.
@@ -731,11 +731,11 @@ export default function ETASelfAssessmentArticle() {
 
         <h3 className={h3Class}>What experience level do you need to start a search fund?</h3>
         <p className={bodyClass}>
-          Most successful searchers have 3&ndash;10 years of professional experience, often in
+          Most successful searchers have 3-10 years of professional experience, often in
           management consulting, investment banking, private equity, or operational roles. An MBA
           from a program with an ETA track (Stanford, IESE, Booth) is common but not required. The
-          critical factor is not credential-based &mdash; it is whether you can credibly step into a
-          CEO role at a $5&ndash;30M enterprise value business and earn the trust of employees,
+          critical factor is not credential-based, it is whether you can credibly step into a
+          CEO role at a $5-30M enterprise value business and earn the trust of employees,
           customers, and investors from day one.
         </p>
 
@@ -746,7 +746,7 @@ export default function ETASelfAssessmentArticle() {
             self-funded search
           </Link>{" "}
           can technically be conducted part-time, but the trade-offs are significant. Part-time
-          searches typically take 36&ndash;48 months rather than 18&ndash;24, and your deal sourcing
+          searches typically take 36-48 months rather than 18-24, and your deal sourcing
           bandwidth is severely limited. Traditional investor-backed search funds require full-time
           commitment. Many aspiring searchers use a phased approach: researching and networking while
           employed, then transitioning to full-time search once they have validated their thesis and
@@ -755,10 +755,10 @@ export default function ETASelfAssessmentArticle() {
 
         <h3 className={h3Class}>What happens if your search fails after 24 months?</h3>
         <p className={bodyClass}>
-          Approximately 25&ndash;30% of searchers do not complete an acquisition. While this
+          Approximately 25-30% of searchers do not complete an acquisition. While this
           represents a real risk, most former searchers find that the skills developed during the
-          search &mdash; financial modeling, deal evaluation, negotiation, and business assessment
-          &mdash; are highly transferable. Common post-search career paths include corporate
+          search, financial modeling, deal evaluation, negotiation, and business assessment
+          are highly transferable. Common post-search career paths include corporate
           development roles, private equity operating positions, and joining other search fund
           portfolio companies as executives. Having a clear{" "}
           <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
@@ -771,7 +771,7 @@ export default function ETASelfAssessmentArticle() {
         <p className={bodyClass}>
           The risk tolerance framework above provides a structured approach, but the most revealing
           test is behavioral, not hypothetical. Reflect on how you have actually responded to past
-          financial uncertainty, career setbacks, and ambiguous situations &mdash; not how you think
+          financial uncertainty, career setbacks, and ambiguous situations, not how you think
           you would respond. Talking to current and former searchers about their emotional experience
           is invaluable. Many aspiring searchers also find that discussing the specific financial
           scenarios with their partner surfaces risk preferences they had not articulated.
@@ -783,37 +783,37 @@ export default function ETASelfAssessmentArticle() {
             <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
               What Is a Search Fund? Complete Guide
             </Link>{" "}
-            &mdash; the foundational overview of the ETA model
+            the foundational overview of the ETA model
           </li>
           <li>
             <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">
               Pre-Search Preparation: Career Transition to ETA
             </Link>{" "}
-            &mdash; detailed guidance on getting ready before you launch
+            detailed guidance on getting ready before you launch
           </li>
           <li>
             <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
               Self-Funded Search vs. Traditional Search Fund
             </Link>{" "}
-            &mdash; compare the two primary search models
+            compare the two primary search models
           </li>
           <li>
             <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
               The Psychology of the Search: Mindset &amp; Resilience
             </Link>{" "}
-            &mdash; understanding the emotional demands of the journey
+            understanding the emotional demands of the journey
           </li>
           <li>
             <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">
               Searcher Compensation &amp; Equity
             </Link>{" "}
-            &mdash; how the financial model works for the entrepreneur
+            how the financial model works for the entrepreneur
           </li>
           <li>
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
               Search Fund Returns &amp; Performance Data
             </Link>{" "}
-            &mdash; the historical data behind the asset class
+            the historical data behind the asset class
           </li>
         </ul>
       </div>

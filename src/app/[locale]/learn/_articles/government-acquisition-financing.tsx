@@ -6,13 +6,13 @@ export default function GovernmentAcquisitionFinancingArticle() {
     <article>
       <h1 className={h1Class}>Government Acquisition Financing Programs: A Global Comparison</h1>
       <div className={bodyClass}>
-        <p>Governments worldwide offer financing programs to facilitate business acquisitions, particularly for small and mid-size enterprises where succession failures would destroy jobs and economic value. For search fund entrepreneurs, these programs can provide below-market interest rates, longer repayment terms, and reduced equity requirements &mdash; making acquisitions more accessible and improving returns.</p>
+        <p>Governments worldwide offer financing programs to facilitate business acquisitions, particularly for small and mid-size enterprises where succession failures would destroy jobs and economic value. For search fund entrepreneurs, these programs can provide below-market interest rates, longer repayment terms, and reduced equity requirements, making acquisitions more accessible and improving returns.</p>
       </div>
 
       <h2 className={h2Class}>United States: SBA Programs</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong><Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a)</Link>:</strong> Up to $5M for acquisitions. 10&ndash;25 year terms. Requires 10&ndash;20% equity injection. Prime + 2.75% typical.</li>
+          <li><strong><Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a)</Link>:</strong> Up to $5M for acquisitions. 10-25 year terms. Requires 10-20% equity injection. Prime + 2.75% typical.</li>
           <li><strong>SBA 504:</strong> For real estate and equipment in acquisitions. Up to $5.5M. Below-market fixed rates.</li>
           <li><strong><Link href="/learn/robs-acquisition" className="text-apple-accent hover:underline">ROBS</Link>:</strong> Use retirement funds for acquisition equity without early withdrawal penalties</li>
           <li><strong>USDA Business &amp; Industry:</strong> For rural acquisitions, loans up to $25M with government guarantee</li>
@@ -41,7 +41,7 @@ export default function GovernmentAcquisitionFinancingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Bpifrance:</strong> State investment bank providing guarantees (up to 70% of loan), co-investment, and innovation grants</li>
-          <li><strong><Link href="/learn/simest-italy" className="text-apple-accent hover:underline">SIMEST</Link> equivalent &mdash; Bpifrance Assurance Export:</strong> Export credit and international acquisition support</li>
+          <li><strong><Link href="/learn/simest-italy" className="text-apple-accent hover:underline">SIMEST</Link> equivalent, Bpifrance Assurance Export:</strong> Export credit and international acquisition support</li>
           <li><strong>R&eacute;gions:</strong> Regional economic development agencies offer subsidized loans and grants for acquisitions in their territory</li>
         </ul>
       </div>
@@ -71,10 +71,10 @@ export default function GovernmentAcquisitionFinancingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Government financing programs exist in every major economy to prevent succession failures and preserve SME jobs</li>
-          <li>The US SBA 7(a) is the most established program, offering up to $5M with 10&ndash;20% equity requirement</li>
+          <li>The US SBA 7(a) is the most established program, offering up to $5M with 10-20% equity requirement</li>
           <li>European programs (KfW, Bpifrance, BDC) often offer even more favorable terms including loan guarantees</li>
           <li>Programs typically offer below-market rates, longer terms, and reduced equity requirements vs. commercial lending</li>
-          <li>Qualification criteria, processing time, and program details vary significantly &mdash; engage early in the acquisition process</li>
+          <li>Qualification criteria, processing time, and program details vary significantly, engage early in the acquisition process</li>
         </ul>
       </div>
 
@@ -90,17 +90,17 @@ export default function GovernmentAcquisitionFinancingArticle() {
 
       <h3 className={h3Class}>What is the most commonly used government financing program for search fund acquisitions?</h3>
       <p className={bodyClass}>
-        The SBA 7(a) loan program is by far the most commonly used government financing tool for search fund acquisitions in the United States. According to the SBA&rsquo;s 2024 annual report, the 7(a) program facilitated over $28 billion in small business lending, with approximately 15% of loans used for business acquisitions. The program offers loans up to $5M with 10&ndash;25 year terms and requires only 10&ndash;20% equity injection from the buyer. Interest rates are typically Prime + 2.75%, making it significantly cheaper than mezzanine or unitranche alternatives. For European acquisitions, equivalent programs include Germany&rsquo;s KfW succession loans and France&rsquo;s Bpifrance guarantees.
+        The SBA 7(a) loan program is by far the most commonly used government financing tool for search fund acquisitions in the United States. According to the SBA&rsquo;s 2024 annual report, the 7(a) program facilitated over $28 billion in small business lending, with approximately 15% of loans used for business acquisitions. The program offers loans up to $5M with 10-25 year terms and requires only 10-20% equity injection from the buyer. Interest rates are typically Prime + 2.75%, making it significantly cheaper than mezzanine or unitranche alternatives. For European acquisitions, equivalent programs include Germany&rsquo;s KfW succession loans and France&rsquo;s Bpifrance guarantees.
       </p>
 
       <h3 className={h3Class}>Can government financing programs be combined with other capital sources?</h3>
       <p className={bodyClass}>
-        Yes, combining government financing with other capital sources is standard practice in search fund acquisitions. A typical capital stack might include an SBA 7(a) loan (50&ndash;60% of the purchase price), seller financing (10&ndash;20%), and equity from search fund investors (20&ndash;30%). The OECD&rsquo;s 2024 report on SME succession financing found that blended capital structures using government programs reduced the weighted average cost of capital by 150&ndash;250 basis points compared to purely commercial financing. In Europe, programs like KfW and Bpifrance explicitly complement commercial bank lending through guarantee structures that reduce the lender&rsquo;s risk exposure, enabling better terms for the borrower.
+        Yes, combining government financing with other capital sources is standard practice in search fund acquisitions. A typical capital stack might include an SBA 7(a) loan (50-60% of the purchase price), seller financing (10-20%), and equity from search fund investors (20-30%). The OECD&rsquo;s 2024 report on SME succession financing found that blended capital structures using government programs reduced the weighted average cost of capital by 150-250 basis points compared to purely commercial financing. In Europe, programs like KfW and Bpifrance explicitly complement commercial bank lending through guarantee structures that reduce the lender&rsquo;s risk exposure, enabling better terms for the borrower.
       </p>
 
       <h3 className={h3Class}>How early should I engage with government financing programs during the acquisition process?</h3>
       <p className={bodyClass}>
-        Engage with government financing programs as early as possible&mdash;ideally during the LOI stage, 60&ndash;90 days before your target close date. SBA 7(a) pre-qualification can be obtained in 2&ndash;4 weeks through a preferred lender, but final approval typically takes 30&ndash;45 days after submission of the complete application. European programs like KfW and Bpifrance may take 4&ndash;8 weeks for guarantee approval. The European Commission&rsquo;s 2024 report on SME business transfers found that 25% of failed transactions were attributed to financing delays. Building relationships with SBA-preferred lenders before you have a specific target allows you to move quickly once you find the right deal.
+        Engage with government financing programs as early as possible, ideally during the LOI stage, 60-90 days before your target close date. SBA 7(a) pre-qualification can be obtained in 2-4 weeks through a preferred lender, but final approval typically takes 30-45 days after submission of the complete application. European programs like KfW and Bpifrance may take 4-8 weeks for guarantee approval. The European Commission&rsquo;s 2024 report on SME business transfers found that 25% of failed transactions were attributed to financing delays. Building relationships with SBA-preferred lenders before you have a specific target allows you to move quickly once you find the right deal.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

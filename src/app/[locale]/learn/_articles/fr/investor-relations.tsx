@@ -12,8 +12,8 @@ export default function InvestorRelationsFR() {
           d&apos;un search fund en France. Les investisseurs ne sont pas de simples
           apporteurs de capitaux&nbsp;: ils sont des partenaires stratégiques,
           des mentors, des connecteurs et, dans certains cas, des membres actifs
-          de la gouvernance. La qualité de la communication &mdash; sa régularité,
-          sa transparence, son professionnalisme &mdash; détermine la confiance
+          de la gouvernance. La qualité de la communication, sa régularité,
+          sa transparence, son professionnalisme, détermine la confiance
           que les investisseurs accordent au searcher et, par extension, leur
           disposition à accompagner la croissance de l&apos;entreprise, à refinancer
           en cas de besoin et à soutenir le dirigeant dans les moments difficiles.
@@ -189,7 +189,7 @@ export default function InvestorRelationsFR() {
           <li>Chiffre d&apos;affaires mensuel (réalisé vs budget vs N-1)</li>
           <li>EBITDA mensuel et marge d&apos;EBITDA</li>
           <li>Trésorerie disponible et dette nette</li>
-          <li>Ratio dette nette / EBITDA (LTM &mdash; Last Twelve Months)</li>
+          <li>Ratio dette nette / EBITDA (LTM, Last Twelve Months)</li>
           <li>BFR (Besoin en Fonds de Roulement) et DSO (Days Sales Outstanding)</li>
           <li>CAPEX (investissements de maintien et de croissance)</li>
         </ul>
@@ -231,7 +231,7 @@ export default function InvestorRelationsFR() {
       <div className={bodyClass}>
         <p>
           La qualité de la relation investisseurs se mesure véritablement en
-          période de crise &mdash; perte d&apos;un client majeur, départ d&apos;un
+          période de crise, perte d&apos;un client majeur, départ d&apos;un
           collaborateur clé, retournement conjoncturel, problème de trésorerie.
           Les searchers les plus expérimentés suivent un principe simple&nbsp;:
           les mauvaises nouvelles doivent circuler plus vite que les bonnes.
@@ -260,7 +260,7 @@ export default function InvestorRelationsFR() {
             <strong>Sollicitation d&apos;aide&nbsp;:</strong> Les investisseurs de
             search fund disposent souvent de réseaux et d&apos;expériences
             directement mobilisables en situation de crise. Ne pas hésiter à
-            demander leur aide &mdash; c&apos;est précisément la valeur ajoutée
+            demander leur aide, c&apos;est précisément la valeur ajoutée
             d&apos;un investisseur actif par rapport à un investisseur passif.
           </li>
         </ul>
@@ -405,7 +405,7 @@ export default function InvestorRelationsFR() {
           reporting, de la transparence dans la communication et de l&apos;empathie
           dans la relation. Les searchers qui excellent dans cet exercice
           construisent un capital de confiance qui leur ouvre des portes tout au
-          long de leur carrière &mdash; pour le financement de bolt-on, pour le
+          long de leur carrière, pour le financement de bolt-on, pour le
           lancement d&apos;un deuxième search fund ou pour la levée de fonds d&apos;un
           futur projet entrepreneurial.
         </p>

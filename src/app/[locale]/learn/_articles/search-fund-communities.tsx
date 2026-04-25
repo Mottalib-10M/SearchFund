@@ -33,7 +33,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Third, the timeline is long and uncertain. The median search takes 18&ndash;24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. For a detailed look at what this timeline involves, see our guide to the <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">search fund lifecycle</Link>. Having peers who understand these challenges  - and who can share that they faced the same struggles before succeeding  - provides critical emotional support and perspective.
+          Third, the timeline is long and uncertain. The median search takes 18-24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. For a detailed look at what this timeline involves, see our guide to the <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">search fund lifecycle</Link>. Having peers who understand these challenges  - and who can share that they faced the same struggles before succeeding  - provides critical emotional support and perspective.
         </p>
 
         <p className={bodyClass}>
@@ -285,7 +285,7 @@ export default function SearchFundCommunitiesArticle() {
         <h3 className={h3Class}>How do MBA ETA clubs help aspiring searchers?</h3>
 
         <p className={bodyClass}>
-          MBA ETA clubs at schools like Stanford GSB, Wharton, HBS, Kellogg, and MIT Sloan provide structured programming that accelerates the ETA learning curve. These clubs organize weekly speaker series featuring successful searchers, workshops on practical skills (financial modeling, LOI writing, QofE analysis), and panel discussions comparing different search fund models. Students who join early &mdash; even in the first year of a two-year program &mdash; gain time to build relationships, secure summer internships with searchers or investors, and develop the knowledge base needed to launch a search immediately after graduation. The alumni networks from these programs extend well beyond graduation, creating lifelong connections.
+          MBA ETA clubs at schools like Stanford GSB, Wharton, HBS, Kellogg, and MIT Sloan provide structured programming that accelerates the ETA learning curve. These clubs organize weekly speaker series featuring successful searchers, workshops on practical skills (financial modeling, LOI writing, QofE analysis), and panel discussions comparing different search fund models. Students who join early, even in the first year of a two-year program, gain time to build relationships, secure summer internships with searchers or investors, and develop the knowledge base needed to launch a search immediately after graduation. The alumni networks from these programs extend well beyond graduation, creating lifelong connections.
         </p>
 
         <h3 className={h3Class}>Are there search fund communities for international searchers outside the US?</h3>

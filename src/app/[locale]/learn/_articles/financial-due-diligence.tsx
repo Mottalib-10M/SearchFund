@@ -15,13 +15,13 @@ export default function FinancialDueDiligenceArticle() {
           acquisition. It separates buyers who acquire profitable companies from those who inherit
           hidden liabilities.{" "}
           <a href="https://hbr.org/2011/03/the-big-idea-the-new-ma-playbook" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Harvard Business Review</a>{" "}
-          research shows that 70&ndash;90% of M&amp;A transactions fail to create value, and
+          research shows that 70-90% of M&amp;A transactions fail to create value, and
           inadequate due diligence ranks among the top reasons. For search fund operators and
-          first-time buyers spending $1M&ndash;$10M on an acquisition, the financial DD process
+          first-time buyers spending $1M-$10M on an acquisition, the financial DD process
           is your primary defense against overpaying, inheriting undisclosed debt, or acquiring
           a business whose earnings evaporate after closing. This guide provides a practical,
           step-by-step framework grounded in what experienced M&amp;A advisors actually examine
-          &mdash; with specific dollar thresholds, real-world red flags, and the exact documents
+          with specific dollar thresholds, real-world red flags, and the exact documents
           you need to request.
         </p>
 
@@ -37,14 +37,14 @@ export default function FinancialDueDiligenceArticle() {
           forward-looking risk assessment tailored to the buyer&rsquo;s specific concerns.
         </p>
         <p>
-          In practice, financial DD for a small business typically spans 30&ndash;90 days after
+          In practice, financial DD for a small business typically spans 30-90 days after
           signing a{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
           The scope covers five core areas: revenue quality, earnings normalization, working
           capital, balance sheet integrity, and cash flow sustainability. Each area feeds
           directly into{" "}
           <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link>{" "}
-          &mdash; the metric that drives both{" "}
+          the metric that drives both{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">valuation multiples</Link>{" "}
           and lender underwriting decisions.
         </p>
@@ -67,24 +67,24 @@ export default function FinancialDueDiligenceArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Federal and state tax returns (3&ndash;5 years):</strong> Tax returns are the
+            <strong>Federal and state tax returns (3-5 years):</strong> Tax returns are the
             single most reliable financial document because they carry penalties for
-            misrepresentation. Compare reported revenue on the return to the P&amp;L &mdash; any
+            misrepresentation. Compare reported revenue on the return to the P&amp;L, any
             gap above 5% needs a written explanation.
           </li>
           <li>
-            <strong>Profit &amp; loss statements (3&ndash;5 years, monthly):</strong> Annual P&amp;Ls
+            <strong>Profit &amp; loss statements (3-5 years, monthly):</strong> Annual P&amp;Ls
             hide seasonal swings. A landscaping company might show $1.2M in annual revenue but
             generate 70% of it between April and September, creating severe cash flow pressure in
             winter months.
           </li>
           <li>
-            <strong>Balance sheets (3&ndash;5 years, quarterly at minimum):</strong> Look for trends
-            in receivables growth outpacing revenue growth &mdash; a classic sign of deteriorating
+            <strong>Balance sheets (3-5 years, quarterly at minimum):</strong> Look for trends
+            in receivables growth outpacing revenue growth, a classic sign of deteriorating
             collection quality.
           </li>
           <li>
-            <strong>Cash flow statements (3&ndash;5 years):</strong> If cash flow from operations
+            <strong>Cash flow statements (3-5 years):</strong> If cash flow from operations
             diverges significantly from net income, dig into accruals. A $200K gap between net
             income and operating cash flow in a $3M revenue business demands investigation.
           </li>
@@ -111,7 +111,7 @@ export default function FinancialDueDiligenceArticle() {
           <li>
             <strong>Revenue breakdown by customer and product/service:</strong> This is essential for{" "}
             <Link href="/learn/dd-red-flags" className="text-apple-accent hover:underline">identifying concentration risk</Link>.
-            If any single customer represents more than 15&ndash;20% of revenue, the deal economics
+            If any single customer represents more than 15-20% of revenue, the deal economics
             change materially.
           </li>
           <li>
@@ -136,7 +136,7 @@ export default function FinancialDueDiligenceArticle() {
         <p>
           Revenue is the starting point of every valuation, which makes revenue quality the most
           consequential determination in financial DD. A $5M revenue business trading at 4x
-          EBITDA might look like a $2M deal &mdash; until you discover that $800K of revenue came
+          EBITDA might look like a $2M deal, until you discover that $800K of revenue came
           from a single government contract that ended six months ago.
         </p>
         <p>
@@ -144,8 +144,8 @@ export default function FinancialDueDiligenceArticle() {
           or repeat purchase), semi-recurring (same customers but no contractual obligation), and
           non-recurring (one-time projects, liquidation sales, pandemic-related spikes). The{" "}
           <a href="https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/18/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2025 Pepperdine Private Capital Markets Report</a>{" "}
-          confirms that acquirers consistently pay higher multiples &mdash; often 1&ndash;2x more
-          &mdash; for businesses with a high percentage of recurring revenue, reflecting lower
+          confirms that acquirers consistently pay higher multiples, often 1-2x more
+          for businesses with a high percentage of recurring revenue, reflecting lower
           risk and greater predictability.
         </p>
         <p>
@@ -153,7 +153,7 @@ export default function FinancialDueDiligenceArticle() {
           report for the trailing three years and calculate the Herfindahl-Hirschman Index (HHI)
           or simply flag any customer representing 15%+ of total revenue. A manufacturing company
           with 40% of revenue from a single retailer is one purchasing decision away from a
-          crisis &mdash; and lenders will discount the business accordingly. According to{" "}
+          crisis, and lenders will discount the business accordingly. According to{" "}
           <a href="https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA lending guidelines</a>,
           customer concentration above 20% often triggers additional underwriting scrutiny for
           SBA 7(a) acquisition loans.
@@ -162,7 +162,7 @@ export default function FinancialDueDiligenceArticle() {
           Finally, verify revenue against bank deposits. For every dollar of reported revenue,
           you should be able to trace a corresponding bank deposit (adjusted for receivables
           timing). In cash-heavy businesses, discrepancies between reported revenue and bank
-          deposits can indicate unreported cash income &mdash; which creates a paradox: the
+          deposits can indicate unreported cash income, which creates a paradox: the
           seller claims higher earnings, but the tax returns show lower income. You cannot
           pay a multiple on income the IRS has never seen.
         </p>
@@ -178,7 +178,7 @@ export default function FinancialDueDiligenceArticle() {
           but the core framework involves three tiers of add-backs.
         </p>
         <p>
-          <strong>Tier 1 &mdash; Legitimate add-backs</strong> include owner compensation above
+          <strong>Tier 1: Legitimate add-backs</strong> include owner compensation above
           market rate (if the owner pays themselves $350K but a replacement GM would cost $150K,
           the $200K difference is a valid add-back), one-time legal settlements, non-recurring
           consulting fees for a completed project, and personal expenses run through the business
@@ -189,7 +189,7 @@ export default function FinancialDueDiligenceArticle() {
           manager is in place.
         </p>
         <p>
-          <strong>Tier 2 &mdash; Gray-area add-backs</strong> require scrutiny. These include
+          <strong>Tier 2: Gray-area add-backs</strong> require scrutiny. These include
           &ldquo;one-time&rdquo; expenses that recur every year (equipment repairs, marketing
           campaigns, employee severance), above-market rent paid to a related party (the owner
           who also owns the building), and cost savings that haven&rsquo;t been implemented yet
@@ -197,7 +197,7 @@ export default function FinancialDueDiligenceArticle() {
           occurred in two of the last three years, it is not one-time.
         </p>
         <p>
-          <strong>Tier 3 &mdash; Red-flag add-backs</strong> should trigger deeper investigation.
+          <strong>Tier 3: Red-flag add-backs</strong> should trigger deeper investigation.
           Adding back &ldquo;marketing spend&rdquo; as discretionary when the business depends on
           paid advertising to generate leads, normalizing away customer refunds or warranty claims,
           and excluding cost-of-goods adjustments without supporting documentation all fall into
@@ -207,7 +207,7 @@ export default function FinancialDueDiligenceArticle() {
         </p>
         <p>
           The acid test: compare your independently calculated adjusted EBITDA to the seller&rsquo;s
-          figure. If the gap exceeds 15&ndash;20%, either the seller is being aggressive with
+          figure. If the gap exceeds 15-20%, either the seller is being aggressive with
           add-backs or you are being too conservative. A third-party QoE report resolves the
           disagreement with an objective analysis.
         </p>
@@ -216,15 +216,15 @@ export default function FinancialDueDiligenceArticle() {
         <h2 className={h2Class}>Working Capital: The Hidden Cash Trap That Catches First-Time Buyers</h2>
         <p>
           Working capital is the operational cash a business needs to fund day-to-day operations
-          &mdash; inventory on shelves, receivables waiting to be collected, minus payables owed
+          inventory on shelves, receivables waiting to be collected, minus payables owed
           to vendors. Many first-time buyers focus exclusively on EBITDA and ignore working
-          capital, only to discover post-closing that they need to inject $200K&ndash;$500K of
+          capital, only to discover post-closing that they need to inject $200K-$500K of
           additional cash just to keep the business operating normally.
         </p>
         <p>
           The standard approach is to calculate a{" "}
           <Link href="/learn/working-capital-adjustments" className="text-apple-accent hover:underline">net working capital (NWC) peg</Link>{" "}
-          &mdash; a normalized level of working capital based on a trailing 12-month average,
+          a normalized level of working capital based on a trailing 12-month average,
           excluding cash and current-portion debt. The purchase agreement should specify that
           the seller delivers the business with NWC at or above the peg; any shortfall results
           in a dollar-for-dollar price reduction at closing.
@@ -237,7 +237,7 @@ export default function FinancialDueDiligenceArticle() {
             <strong>Days Sales Outstanding (DSO):</strong> The average number of days to collect
             receivables. A DSO of 45 days is typical for B2B services. If DSO has climbed from
             35 to 55 days over two years, customers are either unhappy or financially strained
-            &mdash; either way, the business needs more working capital to bridge the gap.
+            either way, the business needs more working capital to bridge the gap.
           </li>
           <li>
             <strong>Days Payable Outstanding (DPO):</strong> How long the business takes to pay
@@ -265,14 +265,14 @@ export default function FinancialDueDiligenceArticle() {
           Start with adjusted EBITDA, then subtract maintenance capital expenditures (the minimum
           spend required to keep equipment and facilities operational), normalize for working
           capital changes, and account for taxes. The result is unlevered free cash flow (UFCF).
-          Compare UFCF against projected annual debt service &mdash; principal plus interest on
-          the acquisition loan &mdash; to calculate the debt service coverage ratio (DSCR).
+          Compare UFCF against projected annual debt service, principal plus interest on
+          the acquisition loan, to calculate the debt service coverage ratio (DSCR).
         </p>
         <p>
           SBA 7(a) lenders typically require a minimum DSCR of 1.25x, meaning the business must
           generate $1.25 of free cash flow for every $1.00 of debt service. Conventional lenders
           often want 1.5x or higher. If your DSCR is below 1.15x with realistic assumptions, the
-          deal is too thinly capitalized &mdash; either the purchase price needs to come down or
+          deal is too thinly capitalized, either the purchase price needs to come down or
           you need more equity in the deal.
         </p>
         <p>
@@ -292,7 +292,7 @@ export default function FinancialDueDiligenceArticle() {
           According to a{" "}
           <a href="https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Deloitte M&amp;A Trends Survey</a>,
           43% of corporate executives and 39% of private equity investors consider financial
-          due diligence &mdash; anchored by the QoE &mdash; the single most important factor in
+          due diligence, anchored by the QoE, the single most important factor in
           achieving a successful acquisition outcome.
         </p>
         <p>
@@ -300,13 +300,13 @@ export default function FinancialDueDiligenceArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Lite-scope QoE ($5,000&ndash;$15,000, 2&ndash;4 weeks):</strong> Appropriate
+            <strong>Lite-scope QoE ($5,000-$15,000, 2-4 weeks):</strong> Appropriate
             for deals under $2M in enterprise value with clean financials and a single operating
             entity. Covers revenue trending, EBITDA normalization, and working capital analysis
             but typically does not include detailed balance sheet testing or field verification.
           </li>
           <li>
-            <strong>Full-scope QoE ($15,000&ndash;$50,000+, 4&ndash;8 weeks):</strong> Required
+            <strong>Full-scope QoE ($15,000-$50,000+, 4-8 weeks):</strong> Required
             for deals above $3M, businesses with complex revenue recognition, multiple entities,
             or significant related-party transactions. Includes detailed{" "}
             <Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">financial statement analysis</Link>,
@@ -339,7 +339,7 @@ export default function FinancialDueDiligenceArticle() {
           <li>
             <strong>Reviewing annual financials instead of monthly:</strong> Annual P&amp;Ls
             average out monthly volatility. A business showing $400K of annual EBITDA might have
-            generated $500K in the first half and lost $100K in the second &mdash; a trend that
+            generated $500K in the first half and lost $100K in the second, a trend that
             annual numbers completely obscure.
           </li>
           <li>
@@ -351,7 +351,7 @@ export default function FinancialDueDiligenceArticle() {
           <li>
             <strong>Accepting seller add-backs at face value:</strong> Sellers routinely add back
             expenses that should not be added back. In a recent transaction, a seller added back
-            $180K of &ldquo;discretionary marketing&rdquo; &mdash; but the business had generated
+            $180K of &ldquo;discretionary marketing&rdquo;, but the business had generated
             zero organic leads in three years. Removing the marketing would have destroyed the
             revenue base.
           </li>
@@ -362,7 +362,7 @@ export default function FinancialDueDiligenceArticle() {
           </li>
           <li>
             <strong>Starting the QoE engagement too late:</strong> Full-scope QoE reports take
-            4&ndash;8 weeks. If your LOI gives you 90 days of exclusivity and you wait until day
+            4-8 weeks. If your LOI gives you 90 days of exclusivity and you wait until day
             30 to engage a QoE provider, you are compressing the most important analysis into an
             impossibly tight window. Engage QoE firms before signing the LOI so they can start
             immediately.
@@ -370,9 +370,9 @@ export default function FinancialDueDiligenceArticle() {
           <li>
             <strong>Failing to model post-acquisition cash flow:</strong> Financial DD is
             backward-looking by nature, but buying a business is a forward-looking decision.
-            Build a 3&ndash;5 year{" "}
+            Build a 3-5 year{" "}
             <Link href="/learn/financial-modeling-for-acquisitions" className="text-apple-accent hover:underline">financial model</Link>{" "}
-            that stress-tests revenue declines of 10&ndash;20%, interest rate increases, and
+            that stress-tests revenue declines of 10-20%, interest rate increases, and
             customer loss scenarios.
           </li>
         </ol>
@@ -380,37 +380,37 @@ export default function FinancialDueDiligenceArticle() {
         {/* ── Section 9 ── */}
         <h2 className={h2Class}>A 60-Day Financial DD Timeline for Small Business Acquisitions</h2>
         <p>
-          Most small business acquisitions complete financial DD within 60&ndash;90 days of LOI
+          Most small business acquisitions complete financial DD within 60-90 days of LOI
           signing. Here is a practical timeline based on the standard workflow used by search
           fund operators and independent sponsors:
         </p>
         <p>
-          <strong>Days 1&ndash;7: Document collection and QoE engagement.</strong> Send the
+          <strong>Days 1-7: Document collection and QoE engagement.</strong> Send the
           full document request list on day one. Simultaneously engage your QoE provider (if
           using one) and brief them on the deal thesis, key risks, and areas of focus. Set up
           the virtual data room and establish a cadence for weekly seller calls.
         </p>
         <p>
-          <strong>Days 8&ndash;21: Revenue and earnings deep dive.</strong> Analyze revenue by
+          <strong>Days 8-21: Revenue and earnings deep dive.</strong> Analyze revenue by
           customer, product, and month. Build the EBITDA bridge independently. Identify every
           add-back the seller has proposed and categorize each as Tier 1, 2, or 3. Compare
           P&amp;L figures against tax returns. Flag discrepancies for the management
           presentation.
         </p>
         <p>
-          <strong>Days 22&ndash;35: Working capital and balance sheet testing.</strong> Calculate
+          <strong>Days 22-35: Working capital and balance sheet testing.</strong> Calculate
           the NWC peg. Age receivables and payables. Test inventory against physical counts (if
           applicable). Identify off-balance-sheet obligations: operating leases, contingent
           liabilities, personal guarantees, and unfunded commitments.
         </p>
         <p>
-          <strong>Days 36&ndash;50: Cash flow modeling and QoE review.</strong> Build the
+          <strong>Days 36-50: Cash flow modeling and QoE review.</strong> Build the
           post-acquisition financial model with conservative, base, and optimistic scenarios.
           Review the draft QoE report. Reconcile any differences between your independent
           analysis and the QoE findings. Prepare a list of open items for the seller.
         </p>
         <p>
-          <strong>Days 51&ndash;60: Final negotiation and deal structuring.</strong> Use the
+          <strong>Days 51-60: Final negotiation and deal structuring.</strong> Use the
           completed financial DD to negotiate final price adjustments, working capital pegs,
           representations and warranties, and any escrow or earnout provisions. Coordinate
           with{" "}
@@ -425,10 +425,10 @@ export default function FinancialDueDiligenceArticle() {
         <p>
           Total financial DD costs depend on whether you hire a QoE provider and the complexity
           of the business. For a straightforward single-entity deal under $2M, expect to spend
-          $5,000&ndash;$15,000 on a lite-scope QoE, plus $3,000&ndash;$8,000 in accounting
-          advisory fees. For deals between $3M&ndash;$10M, a full-scope QoE runs
-          $15,000&ndash;$50,000, with total financial DD costs (including legal review of
-          financial representations) reaching $25,000&ndash;$75,000. These costs are a fraction
+          $5,000-$15,000 on a lite-scope QoE, plus $3,000-$8,000 in accounting
+          advisory fees. For deals between $3M-$10M, a full-scope QoE runs
+          $15,000-$50,000, with total financial DD costs (including legal review of
+          financial representations) reaching $25,000-$75,000. These costs are a fraction
           of the losses you&rsquo;d incur from acquiring a business with $200K of undisclosed
           liabilities.
         </p>
@@ -440,9 +440,9 @@ export default function FinancialDueDiligenceArticle() {
           analyzing revenue by customer, and calculating basic working capital metrics require
           spreadsheet skills, not a CPA license. However, for any deal above $1M, a professional
           QoE report provides independent verification that lenders require and that protects you
-          from seller misrepresentation. Think of it as insurance: $15K&ndash;$30K to validate a
-          $3M&ndash;$5M purchase decision is a 0.5&ndash;1% cost that routinely uncovers issues
-          worth 5&ndash;15% of the deal value.
+          from seller misrepresentation. Think of it as insurance: $15K-$30K to validate a
+          $3M-$5M purchase decision is a 0.5-1% cost that routinely uncovers issues
+          worth 5-15% of the deal value.
         </p>
 
         <h3 className={h3Class}>What are the biggest red flags in financial due diligence?</h3>
@@ -459,11 +459,11 @@ export default function FinancialDueDiligenceArticle() {
 
         <h3 className={h3Class}>How long does financial due diligence take for a small business?</h3>
         <p>
-          Most small business acquisitions ($1M&ndash;$10M enterprise value) complete financial
-          DD in 45&ndash;90 days. The timeline depends on three variables: how quickly the seller
-          provides requested documents, whether a QoE provider is engaged (adding 2&ndash;8
+          Most small business acquisitions ($1M-$10M enterprise value) complete financial
+          DD in 45-90 days. The timeline depends on three variables: how quickly the seller
+          provides requested documents, whether a QoE provider is engaged (adding 2-8
           weeks), and the complexity of the business itself. A single-location service business
-          with clean QuickBooks records might wrap in 30&ndash;45 days. A multi-entity
+          with clean QuickBooks records might wrap in 30-45 days. A multi-entity
           manufacturing company with inventory, related-party leases, and international
           suppliers could take 90+ days. Build your LOI exclusivity period to accommodate the
           longer end of this range.
@@ -475,7 +475,7 @@ export default function FinancialDueDiligenceArticle() {
           and obligates the seller to open their books. However, smart buyers perform preliminary
           financial analysis before the LOI using publicly available information, broker-provided
           financials, and initial management meetings. This pre-LOI screening helps you avoid
-          wasting $15K&ndash;$50K in DD costs on deals with fundamental financial problems. The
+          wasting $15K-$50K in DD costs on deals with fundamental financial problems. The
           LOI should include specific DD contingencies allowing you to terminate without penalty
           if financial DD reveals material discrepancies from the seller&rsquo;s representations.
         </p>

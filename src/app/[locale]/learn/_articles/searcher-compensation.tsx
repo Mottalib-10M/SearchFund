@@ -252,7 +252,7 @@ export default function SearcherCompensationArticle() {
           case at the time of acquisition) and appreciates significantly over
           the vesting period, an 83(b) election converts what would be ordinary
           income into long-term capital gains. The election must be filed with
-          the IRS within 30 days of the equity grant &mdash; missing this
+          the IRS within 30 days of the equity grant, missing this
           deadline is irrevocable. For a broader view of tax structures relevant
           to acquisitions, see our <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">legal due diligence</Link> guide.
         </p>
@@ -358,7 +358,7 @@ export default function SearcherCompensationArticle() {
           $140,000 range. A significantly higher salary reduces the runway
           available for deal expenses and travel, which investors view
           negatively. The strongest lever for higher overall compensation is
-          equity performance &mdash; focus your negotiation energy on the
+          equity performance, focus your negotiation energy on the
           equity structure and vesting terms rather than on search-phase
           salary.
         </p>
@@ -383,7 +383,7 @@ export default function SearcherCompensationArticle() {
         <p>
           In a partnered search, each searcher typically earns a similar
           search-phase salary ($100,000 to $130,000 each), but the total
-          equity pool is shared &mdash; usually 25 to 30 percent split
+          equity pool is shared, usually 25 to 30 percent split
           between two people. This means each partner ends up with 12 to 15
           percent equity rather than 20 to 25 percent in a solo search. The
           tradeoff is reduced risk, shared workload, and complementary skills.

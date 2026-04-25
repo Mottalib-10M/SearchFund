@@ -19,7 +19,7 @@ export default function ETAItalyFR() {
           l&apos;&eacute;pine dorsale de la huiti&egrave;me &eacute;conomie
           mondiale, le volume de cibles potentielles est consid&eacute;rable.
           Pourtant, le march&eacute; italien s&apos;accompagne de
-          complexit&eacute;s uniques &mdash; une culture d&apos;entreprise
+          complexit&eacute;s uniques, une culture d&apos;entreprise
           familiale profond&eacute;ment enracin&eacute;e, des
           disparit&eacute;s &eacute;conomiques r&eacute;gionales et un
           environnement r&eacute;glementaire qui r&eacute;compense les
@@ -53,8 +53,8 @@ export default function ETAItalyFR() {
           pr&egrave;s de 70&nbsp;% du PIB. Le c&eacute;l&egrave;bre
           &laquo;&nbsp;quarto capitalismo&nbsp;&raquo; (quatri&egrave;me
           capitalisme) d&eacute;signe la couche d&apos;entreprises de taille
-          moyenne &mdash; typiquement 50 &agrave; 500&nbsp;millions
-          d&apos;euros de chiffre d&apos;affaires &mdash; qui rivalisent
+          moyenne, typiquement 50 &agrave; 500&nbsp;millions
+          d&apos;euros de chiffre d&apos;affaires, qui rivalisent
           mondialement dans la fabrication de niche, le luxe,
           l&apos;agroalimentaire et les composants industriels
           sp&eacute;cialis&eacute;s.
@@ -80,8 +80,8 @@ export default function ETAItalyFR() {
           europ&eacute;ennes. Cette culture familio-centrique fa&ccedil;onne
           chaque aspect de l&apos;ETA en Italie, du sourcing &agrave; la
           n&eacute;gociation &agrave; la transition post-acquisition. Les
-          dirigeants italiens &mdash; particuli&egrave;rement dans la
-          fabrication et les secteurs artisanaux &mdash; consid&egrave;rent
+          dirigeants italiens, particuli&egrave;rement dans la
+          fabrication et les secteurs artisanaux, consid&egrave;rent
           leur entreprise comme une extension de leur identit&eacute;
           personnelle et de l&apos;h&eacute;ritage familial. Une
           &laquo;&nbsp;cessione d&apos;azienda&nbsp;&raquo; (cession
@@ -149,7 +149,7 @@ export default function ETAItalyFR() {
           structurel pour l&apos;activit&eacute; search fund en Italie. Les
           dirigeants qui auraient autrefois transmis l&apos;entreprise &agrave;
           un fils ou une fille sont de plus en plus ouverts &agrave; des
-          acheteurs externes &mdash; &agrave; condition que l&apos;acheteur
+          acheteurs externes, &agrave; condition que l&apos;acheteur
           d&eacute;montre la comp&eacute;tence, l&apos;engagement et la
           sensibilit&eacute; culturelle n&eacute;cessaires pour faire
           prosp&eacute;rer l&apos;entreprise. Le concept d&apos;ETA gagne
@@ -238,7 +238,7 @@ export default function ETAItalyFR() {
           consolidation fiscale (consolidato fiscale), permet les
           distributions de dividendes de la cible vers la holding avec un
           traitement fiscal favorable, et fournit une plateforme propre pour
-          de futures acquisitions compl&eacute;mentaires &mdash; un
+          de futures acquisitions compl&eacute;mentaires, un
           m&eacute;canisme comparable &agrave; l&apos;int&eacute;gration
           fiscale fran&ccedil;aise.
         </p>
@@ -275,7 +275,7 @@ export default function ETAItalyFR() {
           jusqu&apos;&agrave; 80&nbsp;% des pr&ecirc;ts bancaires pour les
           PME &eacute;ligibles. Ces garanties r&eacute;duisent
           significativement le risque pour les banques commerciales et
-          peuvent am&eacute;liorer les conditions de pr&ecirc;t &mdash; un
+          peuvent am&eacute;liorer les conditions de pr&ecirc;t, un
           m&eacute;canisme comparable aux garanties Bpifrance en France.
         </p>
 
@@ -359,7 +359,7 @@ export default function ETAItalyFR() {
             r&eacute;sultat net), ce qui signifie qu&apos;il s&apos;applique
             m&ecirc;me aux entreprises non rentables. C&apos;est un imp&ocirc;t
             sp&eacute;cifiquement italien sans &eacute;quivalent direct
-            ailleurs en Europe &mdash; les searchers fran&ccedil;ais doivent
+            ailleurs en Europe, les searchers fran&ccedil;ais doivent
             en tenir compte dans leur mod&eacute;lisation financi&egrave;re.
           </li>
           <li>
@@ -399,7 +399,7 @@ export default function ETAItalyFR() {
             l&apos;ensemble des droits, de l&apos;anciennet&eacute; et des
             conditions contractuelles existantes. Les salari&eacute;s ne
             peuvent &ecirc;tre licenci&eacute;s en cons&eacute;quence du
-            transfert &mdash; une disposition comparable &agrave; l&apos;article
+            transfert, une disposition comparable &agrave; l&apos;article
             L.1224-1 du Code du travail fran&ccedil;ais.
           </li>
           <li>
@@ -445,7 +445,7 @@ export default function ETAItalyFR() {
           envisage une cession ou un plan de succession. Construire un
           r&eacute;seau de 50 &agrave; 100 commercialisti dans vos
           r&eacute;gions cibles est l&apos;une des strat&eacute;gies de
-          recherche les plus efficaces &mdash; un r&ocirc;le comparable
+          recherche les plus efficaces, un r&ocirc;le comparable
           &agrave; celui des experts-comptables en France, mais avec une
           influence encore plus centrale sur les d&eacute;cisions du
           dirigeant.
@@ -576,7 +576,7 @@ export default function ETAItalyFR() {
           qui r&eacute;compense l&apos;approche relationnelle et
           pratique qui est la marque de fabrique des entrepreneurs-acqu&eacute;reurs
           r&eacute;ussis. La cl&eacute; est d&apos;aborder l&apos;Italie
-          selon ses propres termes &mdash; en respectant la culture de
+          selon ses propres termes, en respectant la culture de
           l&apos;entreprise familiale, en investissant dans les relations
           locales et en d&eacute;montrant l&apos;engagement &agrave; long
           terme que les dirigeants italiens ont besoin de voir avant de

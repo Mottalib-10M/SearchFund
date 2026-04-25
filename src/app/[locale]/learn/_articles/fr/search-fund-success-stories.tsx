@@ -12,9 +12,9 @@ export default function SuccessStoriesFR() {
         <p>
           Le modèle du search fund a produit des réussites remarquables en
           Europe depuis son introduction sur le continent au milieu des
-          années 2000. Si les success stories américaines &mdash; avec des
+          années 2000. Si les success stories américaines, avec des
           valorisations atteignant parfois plusieurs milliards de dollars
-          &mdash; dominent souvent la conversation, l&apos;Europe a développé
+          dominent souvent la conversation, l&apos;Europe a développé
           ses propres trajectoires de succès, adaptées aux réalités du
           marché continental. Comprendre ces réussites ne relève pas de
           la simple inspiration&nbsp;: cela permet d&apos;identifier les
@@ -137,9 +137,9 @@ export default function SuccessStoriesFR() {
       <h2 className={h2Class}>Réussites dans les services technologiques</h2>
       <div className={bodyClass}>
         <p>
-          L&apos;acquisition de PME technologiques &mdash; éditeurs de
+          L&apos;acquisition de PME technologiques, éditeurs de
           logiciels de niche, fournisseurs de SaaS vertical, intégrateurs
-          de solutions &mdash; a produit certaines des performances les
+          de solutions, a produit certaines des performances les
           plus spectaculaires parmi les search funds européens. Le
           secteur technologique offre un levier opérationnel
           exceptionnel&nbsp;: une fois la base de clients établie, chaque
@@ -229,7 +229,7 @@ export default function SuccessStoriesFR() {
             <strong>Rapidité d&apos;intégration et premiers succès&nbsp;:</strong>{" "}
             Les searchers les plus performants identifient et réalisent des
             &laquo;&nbsp;quick wins&nbsp;&raquo; dans les 100 premiers jours
-            suivant l&apos;acquisition &mdash; qu&apos;il s&apos;agisse
+            suivant l&apos;acquisition, qu&apos;il s&apos;agisse
             d&apos;optimisations tarifaires, d&apos;amélioration du
             processus commercial ou de la mise en place d&apos;un reporting
             financier structuré. Ces succès rapides renforcent la
@@ -250,8 +250,8 @@ export default function SuccessStoriesFR() {
           <li>
             <strong>Investissement dans la croissance&nbsp;:</strong> Les
             meilleurs résultats européens proviennent de search funds qui
-            ont investi activement dans la croissance &mdash; organique et
-            externe &mdash; plutôt que de se limiter à l&apos;optimisation
+            ont investi activement dans la croissance, organique et
+            externe, plutôt que de se limiter à l&apos;optimisation
             des coûts. L&apos;embauche de commerciaux, le développement de
             nouveaux services et les acquisitions complémentaires sont des
             leviers de création de valeur plus puissants que la seule
@@ -311,9 +311,9 @@ export default function SuccessStoriesFR() {
           <li>
             <strong>Synergies opérationnelles réelles&nbsp;:</strong> Les
             meilleures stratégies de buy-and-build reposent sur des
-            synergies tangibles &mdash; mutualisation des fonctions
+            synergies tangibles, mutualisation des fonctions
             support, élargissement de l&apos;offre commerciale, couverture
-            géographique étendue &mdash; plutôt que sur de simples
+            géographique étendue, plutôt que sur de simples
             projections financières.
           </li>
         </ul>

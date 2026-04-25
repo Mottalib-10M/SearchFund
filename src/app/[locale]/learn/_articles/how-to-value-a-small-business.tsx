@@ -27,7 +27,7 @@ export default function HowToValueASmallBusinessArticle() {
         </p>
 
         {/* ─── SECTION 1: SDE vs EBITDA ─── */}
-        <h2 className={h2Class}>Step 1: Choose the Right Earnings Metric &mdash; SDE vs EBITDA</h2>
+        <h2 className={h2Class}>Step 1: Choose the Right Earnings Metric, SDE vs EBITDA</h2>
         <p>
           Before applying any valuation method, you must determine the correct earnings metric. This
           single decision affects every number that follows. The two dominant metrics in small business

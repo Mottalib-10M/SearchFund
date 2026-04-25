@@ -27,8 +27,8 @@ export default function HELOCAcquisitionArticle() {
           </Link>
           , letting you acquire a profitable company with no outside investors,
           no equity dilution, and no months-long fundraise. Current HELOC rates
-          in the 7&ndash;8% range make the cost of capital significantly cheaper
-          than mezzanine debt (12&ndash;18%) or the implied cost of giving away
+          in the 7-8% range make the cost of capital significantly cheaper
+          than mezzanine debt (12-18%) or the implied cost of giving away
           equity to search fund investors. The trade-off is real, though: your
           home is the collateral. This guide covers exactly how HELOCs and home
           equity loans work in an acquisition context, current rates and terms,
@@ -43,7 +43,7 @@ export default function HELOCAcquisitionArticle() {
         <p>
           Both a HELOC and a home equity loan let you borrow against the
           difference between your home&rsquo;s appraised value and your
-          outstanding mortgage balance. They are second-lien instruments &mdash;
+          outstanding mortgage balance. They are second-lien instruments , 
           meaning your first mortgage stays in place and the home equity product
           sits behind it in priority. The critical difference is how the money is
           disbursed and how the interest rate behaves.
@@ -54,7 +54,7 @@ export default function HELOCAcquisitionArticle() {
           maximum credit limit and can draw funds as needed during a draw period
           (typically 10 years), paying interest only on the outstanding balance.
           After the draw period ends, the loan enters a repayment phase (usually
-          15&ndash;20 years) during which you can no longer draw and must pay
+          15-20 years) during which you can no longer draw and must pay
           both principal and interest. HELOC rates are variable, tied to the
           prime rate plus a margin. As of April 2026, the national average HELOC
           rate is approximately 7.09%, down more than two full percentage points
@@ -64,9 +64,9 @@ export default function HELOCAcquisitionArticle() {
         <p>
           A <strong>home equity loan</strong> provides a lump sum upfront at a
           fixed interest rate with predictable monthly payments over a set term
-          (5&ndash;30 years). As of early 2026, average home equity loan rates
+          (5-30 years). As of early 2026, average home equity loan rates
           hover around 7.56% (Bankrate, 2026). Because the rate is locked, your
-          monthly payment never changes &mdash; a meaningful advantage when
+          monthly payment never changes, a meaningful advantage when
           you&rsquo;re also servicing acquisition debt with variable-rate
           components.
         </p>
@@ -75,9 +75,9 @@ export default function HELOCAcquisitionArticle() {
           mortgage with a new, larger mortgage and gives you the difference in
           cash. Rates in early 2026 average around 6.25%, which is lower than
           either HELOC or home equity loan rates. However, a cash-out refi
-          carries 3&ndash;6% of the loan amount in closing costs, resets your
-          mortgage term, and &mdash; critically &mdash; destroys any low rate
-          you locked in during 2020&ndash;2021 (CBS News, 2026). For most
+          carries 3-6% of the loan amount in closing costs, resets your
+          mortgage term, and, critically, destroys any low rate
+          you locked in during 2020-2021 (CBS News, 2026). For most
           acquisition-minded homeowners with a sub-4% first mortgage, a HELOC
           or home equity loan is the better option because it preserves that
           low primary rate.
@@ -117,20 +117,20 @@ export default function HELOCAcquisitionArticle() {
               </tr>
               <tr>
                 <td className="px-4 py-3 font-medium border-b border-apple-gray-100">Closing costs</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">Minimal ($0&ndash;$500)</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">Moderate (2&ndash;5%)</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">High (3&ndash;6%)</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">Minimal ($0-$500)</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">Moderate (2-5%)</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">High (3-6%)</td>
               </tr>
               <tr>
                 <td className="px-4 py-3 font-medium border-b border-apple-gray-100">Preserves low 1st mortgage?</td>
                 <td className="px-4 py-3 border-b border-apple-gray-100">Yes</td>
                 <td className="px-4 py-3 border-b border-apple-gray-100">Yes</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">No &mdash; replaces it</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">No, replaces it</td>
               </tr>
               <tr>
                 <td className="px-4 py-3 font-medium border-b border-apple-gray-100">Max CLTV</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">80&ndash;85%</td>
-                <td className="px-4 py-3 border-b border-apple-gray-100">80&ndash;85%</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">80-85%</td>
+                <td className="px-4 py-3 border-b border-apple-gray-100">80-85%</td>
                 <td className="px-4 py-3 border-b border-apple-gray-100">80%</td>
               </tr>
               <tr>
@@ -147,8 +147,8 @@ export default function HELOCAcquisitionArticle() {
           equity loan is the dominant choice. If you need the full amount at
           closing and want payment predictability while managing other
           variable-rate debt, a fixed-rate home equity loan has a slight edge.
-          If you value flexibility &mdash; say you&rsquo;re still negotiating
-          final deal terms and want to draw only what you need &mdash; a HELOC
+          If you value flexibility, say you&rsquo;re still negotiating
+          final deal terms and want to draw only what you need, a HELOC
           gives you that optionality.
         </p>
 
@@ -159,7 +159,7 @@ export default function HELOCAcquisitionArticle() {
           Your borrowing capacity depends on three factors: your home&rsquo;s
           appraised value, your outstanding mortgage balance, and the
           lender&rsquo;s maximum combined loan-to-value (CLTV) ratio. Most
-          lenders cap CLTV at 80&ndash;85% (The Mortgage Reports, 2026). A few
+          lenders cap CLTV at 80-85% (The Mortgage Reports, 2026). A few
           credit unions and online lenders push to 90%, but they charge higher
           rates and fees.
         </p>
@@ -175,15 +175,15 @@ export default function HELOCAcquisitionArticle() {
           ($600,000 x 0.80) &minus; $300,000 = $180,000 available
         </p>
         <p>
-          At an 85% CLTV cap the number rises to $210,000 &mdash; enough to
-          cover the 10% equity injection on a business priced at $1.8&ndash;$2.1
+          At an 85% CLTV cap the number rises to $210,000, enough to
+          cover the 10% equity injection on a business priced at $1.8-$2.1
           million, depending on total project costs. Homeowners in high-value
-          markets (where a $900,000&ndash;$1.2M home is common) can often unlock
-          $250,000&ndash;$400,000 or more, positioning themselves to pursue{" "}
+          markets (where a $900,000-$1.2M home is common) can often unlock
+          $250,000-$400,000 or more, positioning themselves to pursue{" "}
           <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
             larger acquisition targets
           </Link>{" "}
-          in the $2M&ndash;$4M range.
+          in the $2M-$4M range.
         </p>
         <p>
           Qualification requirements also matter. Most lenders look for a credit
@@ -209,7 +209,7 @@ export default function HELOCAcquisitionArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>SBA 7(a) loan:</strong> 80&ndash;90% of total project costs
+            <strong>SBA 7(a) loan:</strong> 80-90% of total project costs
           </li>
           <li>
             <strong>Buyer&rsquo;s equity injection:</strong> 10% minimum
@@ -228,7 +228,7 @@ export default function HELOCAcquisitionArticle() {
         </ul>
         <p>
           Under the updated SOP 50 10 8 guidance, a HELOC draw is an acceptable
-          equity injection source &mdash; <strong>but only if the borrower
+          equity injection source, <strong>but only if the borrower
           demonstrates sufficient income from outside the acquired business to
           service the HELOC debt</strong> (Sperita Capital; Starfield &amp;
           Smith, 2025). This is a critical detail that trips up buyers. The
@@ -269,8 +269,8 @@ export default function HELOCAcquisitionArticle() {
           Let&rsquo;s walk through a concrete deal to show how the numbers flow.
           Assume you are buying a profitable HVAC service company listed at
           $1.5M (roughly 3.5x adjusted EBITDA of $430,000). Total project costs
-          &mdash; including the purchase price, working capital, closing fees,
-          and SBA guarantee fee &mdash; come to $1.62M.
+          including the purchase price, working capital, closing fees,
+          and SBA guarantee fee, come to $1.62M.
         </p>
         <p><strong>Capital stack:</strong></p>
         <ul className={ulClass}>
@@ -310,9 +310,9 @@ export default function HELOCAcquisitionArticle() {
         </p>
         <p>
           Compare that $8,400 cost to what you would pay if you raised $162,000
-          from search fund investors who took 25&ndash;30% of equity &mdash;
+          from search fund investors who took 25-30% of equity , 
           which, on a business generating $430,000 in EBITDA, could represent
-          $1M+ in value over a 5&ndash;7 year hold. The HELOC is dramatically
+          $1M+ in value over a 5-7 year hold. The HELOC is dramatically
           cheaper in total cost of capital for a deal of this size.
         </p>
 
@@ -321,7 +321,7 @@ export default function HELOCAcquisitionArticle() {
         </h2>
         <p>
           The tax treatment of HELOC interest depends entirely on how you use
-          the borrowed funds &mdash; not on the fact that the loan is secured by
+          the borrowed funds, not on the fact that the loan is secured by
           your home. This is governed by what the IRS calls{" "}
           <strong>interest tracing</strong> rules (IRS Publication 535; The Real
           Estate CPA, 2025).
@@ -335,9 +335,9 @@ export default function HELOCAcquisitionArticle() {
           buy a business does not qualify under this provision.
         </p>
         <p>
-          However, when you use HELOC proceeds for a business purpose &mdash;
+          However, when you use HELOC proceeds for a business purpose , 
           specifically, as an equity investment in a trade or business you
-          materially participate in &mdash; the interest may be deductible as{" "}
+          materially participate in, the interest may be deductible as{" "}
           <strong>business interest</strong> under IRC Section 163(a), traced to
           the business use of the proceeds. In practice, this means you would
           deduct the interest on Schedule C or Schedule E (depending on entity
@@ -423,7 +423,7 @@ export default function HELOCAcquisitionArticle() {
         </p>
 
         <h2 className={h2Class}>
-          When a HELOC makes sense &mdash; and when it does not
+          When a HELOC makes sense, and when it does not
         </h2>
         <p>
           A HELOC or home equity loan is a strong financing tool under specific
@@ -445,7 +445,7 @@ export default function HELOCAcquisitionArticle() {
             debt-service coverage ratio above 1.5x on all combined obligations
           </li>
           <li>
-            You plan to pay off the HELOC within 2&ndash;4 years using business
+            You plan to pay off the HELOC within 2-4 years using business
             distributions
           </li>
           <li>
@@ -538,12 +538,12 @@ export default function HELOCAcquisitionArticle() {
           How long does it take to get approved for a HELOC?
         </h3>
         <p>
-          Most HELOCs close in 2&ndash;6 weeks from application, depending on
+          Most HELOCs close in 2-6 weeks from application, depending on
           the lender and whether a full appraisal is required. Some online
-          lenders and credit unions offer expedited timelines of 10&ndash;14
+          lenders and credit unions offer expedited timelines of 10-14
           business days using automated valuation models (AVMs) instead of
           in-person appraisals. Apply while you are still employed with a W-2
-          income &mdash; underwriting becomes significantly harder once you
+          income, underwriting becomes significantly harder once you
           leave your job to search full-time or operate the business.
         </p>
 
@@ -567,10 +567,10 @@ export default function HELOCAcquisitionArticle() {
           For most acquisition buyers, a fixed-rate home equity loan is the
           slightly safer choice because your payment is predictable while you
           are also managing variable-rate SBA debt. However, a HELOC costs less
-          upfront (minimal closing costs vs. 2&ndash;5% for a home equity loan),
+          upfront (minimal closing costs vs. 2-5% for a home equity loan),
           gives you flexibility to draw only what you need, and can save money
           if you pay it down aggressively in the first few years. If you plan to
-          repay within 2&ndash;3 years using business cash flow, a HELOC&rsquo;s
+          repay within 2-3 years using business cash flow, a HELOC&rsquo;s
           variable rate is less of a concern. If repayment will take 5+ years,
           the certainty of a fixed rate is worth the higher closing costs.
         </p>
@@ -584,7 +584,7 @@ export default function HELOCAcquisitionArticle() {
             Intercontinental Exchange, <em>&ldquo;ICE Mortgage Monitor: Home Equity Statistics&rdquo;</em> (2025)
           </li>
           <li>
-            SBA, <em>&ldquo;Standard Operating Procedure 50 10 8&rdquo;</em> &mdash;
+            SBA, <em>&ldquo;Standard Operating Procedure 50 10 8&rdquo;</em> , 
             Equity Injection Requirements (effective June 1, 2025)
           </li>
           <li>
@@ -597,7 +597,7 @@ export default function HELOCAcquisitionArticle() {
             Windsor Advantage, <em>&ldquo;Updated SBA Equity Injection Rules: SOP 50 10 8&rdquo;</em> (2025)
           </li>
           <li>
-            IRS, <em>&ldquo;Publication 535: Business Expenses &mdash; Interest&rdquo;</em>; The Real Estate CPA, <em>&ldquo;Interest Tracing Explained&rdquo;</em> (2025)
+            IRS, <em>&ldquo;Publication 535: Business Expenses, Interest&rdquo;</em>; The Real Estate CPA, <em>&ldquo;Interest Tracing Explained&rdquo;</em> (2025)
           </li>
           <li>
             CoreLogic, <em>&ldquo;U.S. Home Equity Report&rdquo;</em> (Q3 2025)

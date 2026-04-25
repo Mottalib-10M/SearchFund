@@ -8,7 +8,7 @@ export default function VerticalSaaSAcquisitionArticle() {
       <p className="text-sm text-apple-gray-500 mt-3">14 min read</p>
       <div className={bodyClass}>
         <p>
-          Vertical SaaS &mdash; software purpose-built for a single industry &mdash; has become the dominant
+          Vertical SaaS, software purpose-built for a single industry, has become the dominant
           deal category in search fund acquisitions. According to the{" "}
           <a href="https://cdn.prod.website-files.com/6455268783d6938b9451ea80/669fbcb3e5f07cc9a6093751_StanfordGSB_Study_2024.pdf" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford GSB Search Fund Study</a>,
           software is now the largest industry category by far, with nearly one in two search fund
@@ -22,7 +22,7 @@ export default function VerticalSaaSAcquisitionArticle() {
 
         <h2 className={h2Class}>Why Vertical SaaS Dominates the search fund market</h2>
         <p>
-          Horizontal SaaS tools &mdash; CRMs, project management apps, generic accounting platforms &mdash; compete
+          Horizontal SaaS tools, CRMs, project management apps, generic accounting platforms, compete
           in crowded markets against well-funded incumbents like Salesforce and HubSpot. Vertical SaaS
           flips the dynamic. A dental practice management system or a construction estimating tool
           embeds itself into daily workflows so deeply that ripping it out would mean retraining staff,
@@ -32,7 +32,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           The{" "}
           <a href="https://www.saas.wtf/p/search-funds-saas" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SaaS.wtf research on search funds in SaaS</a>{" "}
           notes that searchers typically acquire founder-led vertical software companies serving a
-          niche with a total addressable market between $300 million and $1 billion &mdash; large enough
+          niche with a total addressable market between $300 million and $1 billion, large enough
           to grow, small enough to deter venture-backed competition. That sweet spot creates several
           structural advantages for ETA operators:
         </p>
@@ -75,35 +75,35 @@ export default function VerticalSaaSAcquisitionArticle() {
         </p>
         <p>
           According to{" "}
-          <a href="https://aventis-advisors.com/saas-valuation-multiples/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Aventis Advisors&rsquo; 2024&ndash;2026 multiples analysis</a>,
+          <a href="https://aventis-advisors.com/saas-valuation-multiples/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Aventis Advisors&rsquo; 2024-2026 multiples analysis</a>,
           the median SaaS M&amp;A revenue multiple was 4.1x in 2024, rebounding to 3.8x on a broader
-          basis in 2025. But vertical SaaS commands a 25&ndash;30% premium over horizontal SaaS at
+          basis in 2025. But vertical SaaS commands a 25-30% premium over horizontal SaaS at
           comparable financial performance, driven by higher switching costs and stronger gross retention.
           Here is a practical framework for SMB-focused vertical SaaS:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>$1M&ndash;$3M ARR, sub-20% growth, no payments:</strong> 3&ndash;5x ARR.
+            <strong>$1M-$3M ARR, sub-20% growth, no payments:</strong> 3-5x ARR.
             These are bootstrapped, founder-operated tools with stable but modest traction.
             Ideal search fund targets when combined with a clear{" "}
             <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link>.
           </li>
           <li>
-            <strong>$3M&ndash;$10M ARR, 15&ndash;30% growth, NRR above 105%:</strong> 5&ndash;8x ARR.
+            <strong>$3M-$10M ARR, 15-30% growth, NRR above 105%:</strong> 5-8x ARR.
             The core search fund sweet spot. Growth is proven, churn is manageable, and the operator
             can accelerate through pricing and product expansion.
           </li>
           <li>
-            <strong>$5M&ndash;$15M ARR, 30%+ growth, embedded payments:</strong> 7&ndash;12x ARR.
+            <strong>$5M-$15M ARR, 30%+ growth, embedded payments:</strong> 7-12x ARR.
             These companies attract PE competition. As{" "}
             <a href="https://windsordrake.com/saas-valuation-multiples/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Windsor Drake&rsquo;s 2026 data</a>{" "}
-            shows, vertical SaaS platforms with embedded fintech capabilities trade at 7&ndash;9.5x revenue,
-            compared to 4.8&ndash;6.2x for horizontal infrastructure solutions.
+            shows, vertical SaaS platforms with embedded fintech capabilities trade at 7-9.5x revenue,
+            compared to 4.8-6.2x for horizontal infrastructure solutions.
           </li>
         </ul>
         <p>
-          Strategic buyers consistently pay 1.5&ndash;2x more than private equity on comparable deals.
-          Search fund operators compete on speed, relationship, and founder-friendly transitions &mdash; not
+          Strategic buyers consistently pay 1.5-2x more than private equity on comparable deals.
+          Search fund operators compete on speed, relationship, and founder-friendly transitions, not
           on price. Understanding how{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples vary by industry</Link>{" "}
           helps you benchmark whether a seller&rsquo;s asking price aligns with market reality.
@@ -119,7 +119,7 @@ export default function VerticalSaaSAcquisitionArticle() {
         <p>
           The U.S. has roughly 200,000 dental practices, and the majority still rely on legacy systems
           like Dentrix (Henry Schein) or Eaglesoft (Patterson Dental) that were built in the 1990s.
-          Cloud-native challengers &mdash; companies like Curve Dental, Tab32, and Oryx &mdash; are winning
+          Cloud-native challengers, companies like Curve Dental, Tab32, and Oryx, are winning
           practices that want modern UI, integrated imaging, and automated patient communication.
           The moat here is clinical data: migrating years of radiographs, treatment plans, and insurance
           claim history is painful enough that gross retention rates typically exceed 93%.
@@ -132,10 +132,10 @@ export default function VerticalSaaSAcquisitionArticle() {
         <p>
           Construction is a $2 trillion U.S. industry that has historically been among the least
           digitized. Procore went public in 2021 at a $12 billion valuation, but the long tail of
-          subcontractor-focused tools &mdash; estimating, bid management, equipment tracking &mdash; remains
+          subcontractor-focused tools, estimating, bid management, equipment tracking, remains
           fragmented. ServiceTitan&rsquo;s acquisitions of Aspire (commercial landscaping software) and
           ServicePro (pest control software) show how vertical consolidation plays work in adjacent
-          trades. For a search fund, a $2M&ndash;$5M ARR construction estimating tool with 200+ SMB
+          trades. For a search fund, a $2M-$5M ARR construction estimating tool with 200+ SMB
           contractor customers offers a defensible base. The embedded payments opportunity is significant:
           construction invoicing tied to milestone-based payment schedules naturally lends itself to
           integrated lending and payment facilitation.
@@ -144,12 +144,12 @@ export default function VerticalSaaSAcquisitionArticle() {
         <h3 className={h3Class}>Property Management Software</h3>
         <p>
           Thoma Bravo&rsquo;s $10.2 billion acquisition of RealPage in 2021 signaled the scale of
-          this vertical. But below the enterprise tier, thousands of property managers with 50&ndash;500
+          this vertical. But below the enterprise tier, thousands of property managers with 50-500
           units use mid-market platforms like AppFolio, Buildium, or niche tools for short-term
           rentals. These platforms handle leasing, maintenance requests, accounting, and resident
           communication. The embedded fintech layer is especially potent: rent collection via ACH,
-          tenant insurance, and deposit alternatives can add 20&ndash;40% to per-unit revenue without
-          meaningful incremental cost. Identifying a $1M&ndash;$4M ARR property management tool
+          tenant insurance, and deposit alternatives can add 20-40% to per-unit revenue without
+          meaningful incremental cost. Identifying a $1M-$4M ARR property management tool
           serving a specific property type (student housing, self-storage, HOAs) is a proven{" "}
           <Link href="/learn/good-acquisition-target" className="text-apple-accent hover:underline">acquisition target</Link>{" "}
           profile for the ETA model.
@@ -181,7 +181,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           <li>
             <strong>Logo Churn vs. Revenue Churn.</strong> SMB-focused SaaS sees higher logo churn
             (businesses close, owners retire) but this is partially offset by expansion in surviving
-            accounts. Target monthly logo churn below 1.5% &mdash; equivalent to roughly 17% annual
+            accounts. Target monthly logo churn below 1.5%, equivalent to roughly 17% annual
             churn. Per{" "}
             <a href="https://chartmogul.com/reports/saas-retention-the-new-normal/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">ChartMogul&rsquo;s 2024 retention report</a>,
             43% of all SMB customer losses occur in the first 90 days, so strong onboarding directly
@@ -195,14 +195,14 @@ export default function VerticalSaaSAcquisitionArticle() {
           <li>
             <strong>ARR per Customer.</strong> Higher ARPU (average revenue per user) correlates with
             lower churn and higher willingness to pay. Vertical SaaS serving SMBs typically ranges
-            from $2,400 to $24,000 per customer annually ($200&ndash;$2,000/month). Companies at
+            from $2,400 to $24,000 per customer annually ($200-$2,000/month). Companies at
             the higher end of that range have more room for embedded fintech layering.
           </li>
           <li>
             <strong>Technology Stack Assessment.</strong> Cloud-native architecture (AWS/GCP/Azure),
             API-first design, and CI/CD pipelines signal a codebase that can scale. Legacy on-premise
             deployments or monolithic architectures require significant capital to modernize. Factor
-            $500K&ndash;$1.5M in technical debt remediation for legacy codebases when modeling your
+            $500K-$1.5M in technical debt remediation for legacy codebases when modeling your
             {" "}<Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link>.
           </li>
         </ol>
@@ -210,8 +210,8 @@ export default function VerticalSaaSAcquisitionArticle() {
         <h2 className={h2Class}>Sourcing the Deal: Where Vertical SaaS Founders Sell</h2>
         <p>
           The best vertical SaaS acquisitions rarely hit the open market. Most founder-operators
-          in these niches are technically skilled but not M&amp;A savvy &mdash; they built a product
-          that solves a real problem for an industry they know, grew to $1M&ndash;$5M ARR through
+          in these niches are technically skilled but not M&amp;A savvy, they built a product
+          that solves a real problem for an industry they know, grew to $1M-$5M ARR through
           word of mouth, and eventually want a transition without the disruption of a full auction process.
         </p>
         <p>
@@ -222,7 +222,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           rooms with the vendors who exhibit year after year. SaaS review platforms like G2 and
           Capterra let you identify every player in a niche, sorted by user count and rating. LinkedIn
           Sales Navigator searches for &ldquo;Founder&rdquo; + &ldquo;[industry] software&rdquo; with
-          10&ndash;50 employees generate highly qualified lead lists.
+          10-50 employees generate highly qualified lead lists.
         </p>
         <p>
           When you do encounter broker-listed opportunities, approach them with the same rigor
@@ -241,12 +241,12 @@ export default function VerticalSaaSAcquisitionArticle() {
           creation levers that differ from traditional small business acquisitions.
         </p>
 
-        <h3 className={h3Class}>Phase 1: Stabilize (Days 1&ndash;90)</h3>
+        <h3 className={h3Class}>Phase 1: Stabilize (Days 1-90)</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Retain key engineers.</strong> In a vertical SaaS company with 10&ndash;25 employees,
+            <strong>Retain key engineers.</strong> In a vertical SaaS company with 10-25 employees,
             losing two senior developers can stall the product roadmap for 6+ months. Offer retention
-            bonuses vesting over 18&ndash;24 months on day one. Our guide on{" "}
+            bonuses vesting over 18-24 months on day one. Our guide on{" "}
             <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">employee retention after acquisition</Link>{" "}
             covers specific structures that work.
           </li>
@@ -259,17 +259,17 @@ export default function VerticalSaaSAcquisitionArticle() {
           </li>
           <li>
             <strong>Document institutional knowledge.</strong> Founder-led SaaS companies often have
-            critical processes locked in one person&rsquo;s head &mdash; deployment procedures,
+            critical processes locked in one person&rsquo;s head, deployment procedures,
             customer escalation workflows, pricing exception rules. Extract and document everything
             before the founder&rsquo;s transition period ends.
           </li>
         </ul>
 
-        <h3 className={h3Class}>Phase 2: Optimize (Days 90&ndash;180)</h3>
+        <h3 className={h3Class}>Phase 2: Optimize (Days 90-180)</h3>
         <ul className={ulClass}>
           <li>
             <strong>Reprice the product.</strong> Vertical SaaS companies run by technical founders
-            almost always underprice. A 15&ndash;25% price increase on new customers, combined with
+            almost always underprice. A 15-25% price increase on new customers, combined with
             grandfathering existing contracts until renewal, typically results in less than 2% incremental
             churn. Value-based pricing tied to customer outcomes (number of units managed, patients
             seen, jobs completed) aligns incentives and supports higher ARPU.
@@ -279,7 +279,7 @@ export default function VerticalSaaSAcquisitionArticle() {
             <Link href="/learn/churn-reduction" className="text-apple-accent hover:underline">churn reduction</Link>{" "}
             program.</strong> Implement automated health scoring based on login frequency, feature
             adoption, and support ticket volume. Proactive outreach to at-risk accounts can reduce
-            monthly churn by 20&ndash;30% within two quarters.
+            monthly churn by 20-30% within two quarters.
           </li>
           <li>
             <strong>Build the{" "}
@@ -290,14 +290,14 @@ export default function VerticalSaaSAcquisitionArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Phase 3: Grow (Days 180&ndash;365)</h3>
+        <h3 className={h3Class}>Phase 3: Grow (Days 180-365)</h3>
         <ul className={ulClass}>
           <li>
             <strong>Add embedded payments.</strong> Integrating payment processing via Stripe Connect,
-            Finix, or Payabli lets you capture 1&ndash;3% of transaction volume flowing through
+            Finix, or Payabli lets you capture 1-3% of transaction volume flowing through
             your platform. Toast&rsquo;s evolution illustrates the ceiling: payments revenue reached
             $4.1 billion in 2024, dwarfing its $706 million subscription revenue. At the SMB vertical
-            SaaS scale, even modest payment volumes ($5M&ndash;$20M annually) add $50K&ndash;$600K in
+            SaaS scale, even modest payment volumes ($5M-$20M annually) add $50K-$600K in
             high-margin revenue.
           </li>
           <li>
@@ -351,7 +351,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           </li>
           <li>
             <strong>Neglecting the founder transition.</strong> Vertical SaaS founders often have deep
-            industry relationships that drive referrals and renewals. Build a 6&ndash;12 month
+            industry relationships that drive referrals and renewals. Build a 6-12 month
             transition plan, consider{" "}
             <Link href="/learn/rollover-equity" className="text-apple-accent hover:underline">rollover equity</Link>{" "}
             to keep them invested, and systematize their tribal knowledge into CRM data and
@@ -365,7 +365,7 @@ export default function VerticalSaaSAcquisitionArticle() {
         <p>
           Most search fund acquisitions fall between $1M and $10M ARR. The 2024 Stanford study shows a
           median acquisition price of $12.8 million with revenues of $7.3 million, which aligns with
-          the 5&ndash;8x ARR multiple range typical for profitable, growing vertical SaaS. Companies
+          the 5-8x ARR multiple range typical for profitable, growing vertical SaaS. Companies
           below $1M ARR carry higher product-market-fit risk, while companies above $10M ARR
           typically attract competitive PE bids that push valuations beyond search fund budgets.
         </p>
@@ -374,7 +374,7 @@ export default function VerticalSaaSAcquisitionArticle() {
         <p>
           Vertical SaaS tends to outperform on gross retention (less competitive displacement) but
           may lag on expansion revenue if the product is a single-module tool. Top-performing vertical
-          SaaS companies with multi-product suites achieve 110&ndash;130% NRR, comparable to the
+          SaaS companies with multi-product suites achieve 110-130% NRR, comparable to the
           best horizontal peers. The key differentiator is that vertical SaaS expansion often comes
           from embedded fintech and adjacent modules rather than seat-based upgrades, making the
           expansion revenue more durable and less discretionary.
@@ -384,7 +384,7 @@ export default function VerticalSaaSAcquisitionArticle() {
         <p>
           Yes. SBA 7(a) loans are increasingly used for SaaS acquisitions, provided the business
           demonstrates stable recurring revenue and positive cash flow. Lenders look favorably on
-          high gross margins (typically 70&ndash;85% for SaaS), low customer concentration, and
+          high gross margins (typically 70-85% for SaaS), low customer concentration, and
           contracted annual recurring revenue. The main challenge is that SBA lenders often discount
           MRR growth projections and focus on trailing twelve months of EBITDA, which can make
           high-growth but lower-margin companies harder to finance through this channel.
@@ -393,10 +393,10 @@ export default function VerticalSaaSAcquisitionArticle() {
         <h3 className={h3Class}>What is the biggest risk in acquiring a vertical SaaS company?</h3>
         <p>
           Technology stack obsolescence. A vertical SaaS product that runs on legacy infrastructure
-          (on-premise servers, outdated frameworks, no API layer) will require $500K&ndash;$1.5M and
-          12&ndash;24 months to modernize before you can execute any growth strategy. During that
+          (on-premise servers, outdated frameworks, no API layer) will require $500K-$1.5M and
+          12-24 months to modernize before you can execute any growth strategy. During that
           period, you are burning capital without growing revenue. The second-largest risk is
-          key-person dependency &mdash; if the founder is also the lead developer and the top
+          key-person dependency, if the founder is also the lead developer and the top
           salesperson, losing them without a transition plan can destabilize the entire business.
         </p>
 
@@ -405,10 +405,10 @@ export default function VerticalSaaSAcquisitionArticle() {
           The 2024 Stanford study reports aggregate pre-tax returns of 4.5x invested capital and a
           35.1% IRR across all search fund acquisitions. Vertical SaaS deals with strong retention
           metrics can generate returns faster because the pricing optimization and embedded payments
-          levers are executable within the first 12&ndash;18 months. A realistic timeline: stabilize
-          in the first 6 months, implement pricing and churn improvements in months 6&ndash;12,
-          and layer in fintech and product expansion in months 12&ndash;24. Most search fund operators
-          target a 5&ndash;7 year hold period, with the option to exit earlier if growth accelerates.
+          levers are executable within the first 12-18 months. A realistic timeline: stabilize
+          in the first 6 months, implement pricing and churn improvements in months 6-12,
+          and layer in fintech and product expansion in months 12-24. Most search fund operators
+          target a 5-7 year hold period, with the option to exit earlier if growth accelerates.
         </p>
       </div>
     </article>

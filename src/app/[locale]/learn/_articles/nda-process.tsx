@@ -10,7 +10,7 @@ export default function NDAProcessArticle() {
       <div className={bodyClass}>
         <p>
           The non-disclosure agreement is the first legal document most buyers sign when
-          pursuing an acquisition&mdash;and it sets the tone for everything that follows.
+          pursuing an acquisition, and it sets the tone for everything that follows.
           A well-negotiated NDA protects confidential deal information, establishes trust
           with the seller, and prevents costly legal exposure down the road. Yet many
           searchers treat NDAs as boilerplate. That is a mistake. Active acquirers routinely
@@ -46,8 +46,8 @@ export default function NDAProcessArticle() {
         </p>
         <p>
           Getting this step wrong has real consequences. Breaching an NDA can expose you to
-          injunctive relief&mdash;a court order barring you from using or disclosing
-          information&mdash;plus compensatory damages covering lost profits and loss of
+          injunctive relief, a court order barring you from using or disclosing
+          information, plus compensatory damages covering lost profits and loss of
           goodwill (
           <a
             href="https://www.sterlingtonlaw.com/key-provisions-of-non-disclosure-agreements-2/"
@@ -59,7 +59,7 @@ export default function NDAProcessArticle() {
           </a>
           ). Beyond litigation, a reputation for careless handling of confidential
           information will close doors with brokers and sellers permanently. The lower
-          middle market is a small world&mdash;word travels fast.
+          middle market is a small world, word travels fast.
         </p>
       </div>
 
@@ -75,14 +75,14 @@ export default function NDAProcessArticle() {
           <li>
             <strong>Unilateral (one-way) NDA:</strong> The most common form in acquisitions.
             Only the buyer is bound by confidentiality obligations; the seller shares data and
-            the buyer promises not to disclose it. Used in roughly 70&ndash;80% of lower
+            the buyer promises not to disclose it. Used in roughly 70-80% of lower
             middle-market deals where the seller controls the information flow.
           </li>
           <li>
             <strong>Mutual (two-way) NDA:</strong> Both parties exchange confidential
             information and owe reciprocal obligations. This structure is appropriate when the
-            buyer must also share sensitive data&mdash;such as proof of financial capacity,
-            investor commitments, or proprietary operating playbooks&mdash;with the seller.
+            buyer must also share sensitive data, such as proof of financial capacity,
+            investor commitments, or proprietary operating playbooks, with the seller.
             According to Exitwise, mutual NDAs &ldquo;demonstrate professionalism and build
             confidence&rdquo; early in negotiations (
             <a
@@ -111,7 +111,7 @@ export default function NDAProcessArticle() {
           You will also see variations based on who drafts the agreement. Broker-provided NDAs
           tend to follow standardized templates from organizations like the International
           Business Brokers Association (IBBA). NDAs drafted by the seller&rsquo;s counsel
-          often include more aggressive terms&mdash;broader non-solicitation clauses, longer
+          often include more aggressive terms, broader non-solicitation clauses, longer
           durations, and restrictions that favor the seller. When you are{" "}
           <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
             working with brokers
@@ -132,7 +132,7 @@ export default function NDAProcessArticle() {
         <h3 className={h3Class}>Definition of Confidential Information</h3>
         <p>
           This clause defines what is protected. Sellers typically seek broad definitions
-          covering oral, visual, written, and electronic information&mdash;including data
+          covering oral, visual, written, and electronic information, including data
           not explicitly labeled &ldquo;confidential&rdquo; and any work product derived from
           it (
           <a
@@ -146,15 +146,15 @@ export default function NDAProcessArticle() {
           ). Standard exclusions apply to information already in your possession before
           signing, information that becomes publicly available through no fault of yours, and
           information received from a third party on a non-confidential basis. Always confirm
-          these exclusions are present&mdash;without them, you could be bound by information
+          these exclusions are present, without them, you could be bound by information
           you already knew.
         </p>
 
         <h3 className={h3Class}>Permitted Use and Purpose</h3>
         <p>
           This restricts your use of confidential information to a single purpose: evaluating
-          the potential acquisition. Any other use&mdash;competitive intelligence, market
-          research, poaching customers&mdash;constitutes a breach. The language should be
+          the potential acquisition. Any other use, competitive intelligence, market
+          research, poaching customers, constitutes a breach. The language should be
           specific enough that you understand the boundaries but not so narrow that it
           prevents normal due diligence activities. If you plan to pursue a{" "}
           <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
@@ -168,7 +168,7 @@ export default function NDAProcessArticle() {
         <p>
           This specifies who can see the information beyond you personally. At minimum,
           ensure the NDA permits disclosure to your attorneys, accountants, lenders, and
-          investors&mdash;provided they are bound by their own confidentiality obligations.
+          investors, provided they are bound by their own confidentiality obligations.
           Some sellers restrict access only to representatives with a genuine &ldquo;need to
           know,&rdquo; which is reasonable. What is not reasonable is limiting disclosure to
           named individuals, as your advisory team may change during a months-long
@@ -181,8 +181,8 @@ export default function NDAProcessArticle() {
           being standard for the lower middle market. Exitwise notes that a 3-year duration
           is a common &ldquo;middle ground when indefinite terms face resistance.&rdquo; Be
           cautious of perpetual terms applied to all information rather than just trade
-          secrets. An NDA with an unlimited or excessively long duration&mdash;say 20+
-          years&mdash;can be challenged as unreasonable and potentially rendered
+          secrets. An NDA with an unlimited or excessively long duration, say 20+
+          years, can be challenged as unreasonable and potentially rendered
           unenforceable (
           <a
             href="https://www.crowleylawllc.com/nda-hidden-risks/"
@@ -222,15 +222,15 @@ export default function NDAProcessArticle() {
             DealRoom, &ldquo;Standstill Agreements&rdquo;
           </a>
           ). In a search fund context, standstill clauses are less common but may appear in
-          seller-drafted NDAs&mdash;particularly when the seller is exploring multiple offers
+          seller-drafted NDAs, particularly when the seller is exploring multiple offers
           and wants to control the pace of the process.
         </p>
 
         <h3 className={h3Class}>Return or Destruction of Materials</h3>
         <p>
           When you pass on a deal or negotiations end, the NDA will require you to return or
-          destroy all confidential materials&mdash;CIMs, financial statements, data room
-          downloads&mdash;and certify compliance if requested. Many buyers negotiate the
+          destroy all confidential materials, CIMs, financial statements, data room
+          downloads, and certify compliance if requested. Many buyers negotiate the
           right to retain one archival copy held by legal counsel for compliance purposes.
           This is standard and most sellers accept it.
         </p>
@@ -240,7 +240,7 @@ export default function NDAProcessArticle() {
           Most M&amp;A NDAs provide for injunctive relief in addition to all other remedies
           available at law. This means a court can issue an emergency order barring you from
           further disclosure before a full trial even begins. Some agreements include
-          liquidated damages&mdash;pre-determined penalty amounts&mdash;though these are more
+          liquidated damages, pre-determined penalty amounts, though these are more
           common in larger transactions. According to Sterlington PLLC, the purpose of an
           injunctive relief clause is to &ldquo;better safeguard the availability of an
           equitable remedy by setting out the objective understanding of the parties of the
@@ -258,7 +258,7 @@ export default function NDAProcessArticle() {
         <ol className={olClass}>
           <li>
             <strong>Residual knowledge clauses:</strong> Some NDAs prohibit you from using
-            &ldquo;residual knowledge&rdquo;&mdash;information retained in your memory after
+            &ldquo;residual knowledge&rdquo;, information retained in your memory after
             reviewing documents. This is nearly impossible to comply with and effectively
             bars you from working in the industry. Conversely, private equity buyers
             sometimes push for broad residual knowledge carve-outs that let them use
@@ -279,7 +279,7 @@ export default function NDAProcessArticle() {
             <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
               letter of intent
             </Link>{" "}
-            or purchase agreement&mdash;not an NDA you sign just to receive a CIM.
+            or purchase agreement, not an NDA you sign just to receive a CIM.
           </li>
           <li>
             <strong>Unlimited duration on all information:</strong> Perpetual terms are
@@ -290,8 +290,8 @@ export default function NDAProcessArticle() {
           </li>
           <li>
             <strong>Liquidated damages or penalty provisions:</strong> Pre-set damage
-            amounts in an NDA&mdash;before any confidential information has even been
-            shared&mdash;suggest the seller is more interested in creating use than
+            amounts in an NDA, before any confidential information has even been
+            shared, suggest the seller is more interested in creating use than
             protecting information. Standard contractual remedies (injunctive relief plus
             actual damages) should be sufficient.
           </li>
@@ -356,13 +356,13 @@ export default function NDAProcessArticle() {
       <div className={bodyClass}>
         <p>
           The most frequent NDA violations in the search fund world are not deliberate acts of
-          espionage&mdash;they are careless habits that create unnecessary risk.
+          espionage, they are careless habits that create unnecessary risk.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Signing without reading:</strong> Broker NDAs are often presented as
-            routine, but every agreement is different. One unusual clause&mdash;a hidden
-            non-compete, an aggressive non-solicitation, or a perpetual term&mdash;can
+            routine, but every agreement is different. One unusual clause, a hidden
+            non-compete, an aggressive non-solicitation, or a perpetual term, can
             create obligations you did not anticipate. Allocate 15 to 20 minutes per NDA
             and flag anything non-standard for your attorney.
           </li>
@@ -393,7 +393,7 @@ export default function NDAProcessArticle() {
             <strong>Forgetting non-solicitation after passing on a deal:</strong> You
             evaluate a company, decide not to proceed, and then six months later hire one
             of their employees through LinkedIn. If your NDA includes an 18-month
-            non-solicitation clause, you are in violation&mdash;even though you never
+            non-solicitation clause, you are in violation, even though you never
             acquired the business.
           </li>
           <li>
@@ -410,7 +410,7 @@ export default function NDAProcessArticle() {
       <div className={bodyClass}>
         <p>
           Understanding where the NDA fits in the broader deal process helps you approach it
-          with the right level of seriousness. The NDA is step one&mdash;but it
+          with the right level of seriousness. The NDA is step one, but it
           creates obligations that persist well beyond closing or deal termination.
         </p>
         <ol className={olClass}>
@@ -452,7 +452,7 @@ export default function NDAProcessArticle() {
         <p>
           Note that the NDA&rsquo;s non-solicitation and confidentiality obligations do not
           end just because you decided not to acquire the business. They run for the full
-          stated term&mdash;typically 2 to 3 years from signing. If you are actively
+          stated term, typically 2 to 3 years from signing. If you are actively
           searching in a specific industry, this means your earliest NDAs may still be in
           effect when you close your eventual acquisition.
         </p>
@@ -463,13 +463,13 @@ export default function NDAProcessArticle() {
       <div className={bodyClass}>
         <h3 className={h3Class}>Should I have my attorney review every NDA?</h3>
         <p>
-          Ideally, yes&mdash;but practically, the cost of legal review for 50 to 100 NDAs
+          Ideally, yes, but practically, the cost of legal review for 50 to 100 NDAs
           can be prohibitive. A common approach: have your attorney review the first 3 to 5
           NDAs you receive to build your understanding of standard terms. After that, you
           can review most broker-provided NDAs yourself, flagging only those with
           non-standard provisions (unusual duration, aggressive non-solicitation, hidden
           non-competes) for attorney review. Any NDA drafted by the seller&rsquo;s
-          counsel&mdash;as opposed to a broker template&mdash;warrants a full legal review.
+          counsel, as opposed to a broker template, warrants a full legal review.
         </p>
 
         <h3 className={h3Class}>Can I negotiate an NDA, or will the seller walk away?</h3>
@@ -478,14 +478,14 @@ export default function NDAProcessArticle() {
           are accustomed to negotiation on term length, non-solicitation scope, permitted
           disclosures, and governing law. What will turn off a seller is excessive redlining
           of a standard agreement or weeks of back-and-forth over minor points. Focus your
-          negotiation energy on 2 to 3 provisions that materially affect your risk&mdash;and
+          negotiation energy on 2 to 3 provisions that materially affect your risk, and
           accept the rest if they are within market norms.
         </p>
 
         <h3 className={h3Class}>What happens if I accidentally breach an NDA?</h3>
         <p>
-          Accidental breaches&mdash;such as an advisor forwarding a document to an
-          unauthorized person&mdash;should be addressed immediately and transparently.
+          Accidental breaches, such as an advisor forwarding a document to an
+          unauthorized person, should be addressed immediately and transparently.
           Notify your attorney, contain the disclosure (request deletion from the
           unauthorized recipient), and consider whether you need to inform the seller. In
           practice, minor accidental breaches rarely result in litigation if they are caught
@@ -501,13 +501,13 @@ export default function NDAProcessArticle() {
           strategic plans during a face-to-face meeting, that information is confidential
           under the agreement. Some NDAs require the disclosing party to confirm verbal
           disclosures in writing within a specified period (often 10 to 30 days), but many
-          do not include this requirement&mdash;meaning anything said in a meeting is
+          do not include this requirement, meaning anything said in a meeting is
           automatically covered.
         </p>
 
         <h3 className={h3Class}>Can I sign NDAs for competing businesses in the same industry?</h3>
         <p>
-          Generally, yes&mdash;unless the NDA contains a non-compete or exclusivity
+          Generally, yes, unless the NDA contains a non-compete or exclusivity
           provision that restricts you from evaluating competitors. This is uncommon in
           standard NDAs but does appear occasionally in seller-drafted agreements. The
           practical challenge is maintaining information barriers between competing

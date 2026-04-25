@@ -17,7 +17,7 @@ export default function PreSearchPreparationFR() {
           académique et institutionnel de premier plan, et complexifiée par
           des considérations réglementaires, financières et culturelles
           spécifiques. Une préparation rigoureuse en amont du search est le
-          facteur déterminant du succès &mdash; ou de l&apos;échec &mdash; d&apos;un
+          facteur déterminant du succès, ou de l&apos;échec, d&apos;un
           projet ETA.
         </p>
         <p>
@@ -33,8 +33,8 @@ export default function PreSearchPreparationFR() {
       <h2 className={h2Class}>Pourquoi se préparer avant de chercher</h2>
       <div className={bodyClass}>
         <p>
-          Le search &mdash; la phase de recherche active d&apos;une cible
-          d&apos;acquisition &mdash; est un processus long, intense et
+          Le search, la phase de recherche active d&apos;une cible
+          d&apos;acquisition, est un processus long, intense et
           émotionnellement éprouvant. Les données disponibles sur les search
           funds en Europe indiquent une durée moyenne de search de 18 à
           24 mois. Pendant cette période, le searcher doit être entièrement
@@ -48,8 +48,8 @@ export default function PreSearchPreparationFR() {
           plusieurs risques majeurs&nbsp;: épuisement financier prématuré,
           manque de crédibilité auprès des cédants et des investisseurs,
           incapacité à évaluer correctement les opportunités, et pression
-          psychologique insoutenable. La phase de préparation &mdash;
-          idéalement de 6 à 12 mois avant le début du search &mdash; permet
+          psychologique insoutenable. La phase de préparation , 
+          idéalement de 6 à 12 mois avant le début du search, permet
           de réduire ces risques en structurant le projet sur des bases
           solides.
         </p>
@@ -68,8 +68,8 @@ export default function PreSearchPreparationFR() {
         <p>
           La Chaire Entrepreneuriat de HEC Paris propose des cours dédiés à
           l&apos;entrepreneuriat par acquisition dans ses programmes MBA et Grande
-          École. Le réseau des alumni HEC impliqués dans l&apos;ETA &mdash;
-          searchers, investisseurs, conseillers &mdash; est l&apos;un des plus
+          École. Le réseau des alumni HEC impliqués dans l&apos;ETA , 
+          searchers, investisseurs, conseillers, est l&apos;un des plus
           actifs d&apos;Europe continentale. HEC organise régulièrement des
           événements, conférences et sessions de mentorat autour de l&apos;ETA.
           Pour un professionnel en reconversion, le programme Executive MBA
@@ -173,7 +173,7 @@ export default function PreSearchPreparationFR() {
           <li>
             <strong>Professionnels du conseil&nbsp;:</strong> Avocats
             d&apos;affaires spécialisés en transmission, banquiers d&apos;affaires,
-            notaires &mdash; ces professionnels sont des prescripteurs et des
+            notaires, ces professionnels sont des prescripteurs et des
             facilitateurs indispensables tout au long du processus.
           </li>
         </ul>
@@ -211,7 +211,7 @@ export default function PreSearchPreparationFR() {
           assurance santé, dépenses des enfants). Ce matelas doit être
           distinct de l&apos;apport personnel que vous investirez dans
           l&apos;acquisition. Sous-estimer la durée du search est l&apos;erreur la
-          plus courante des searchers débutants &mdash; et celle qui a les
+          plus courante des searchers débutants, et celle qui a les
           conséquences les plus lourdes sur la qualité de la décision
           d&apos;investissement (pression à acheter n&apos;importe quelle cible pour
           ne pas &laquo;&nbsp;perdre&nbsp;&raquo; son temps).

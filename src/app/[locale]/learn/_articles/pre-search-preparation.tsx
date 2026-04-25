@@ -512,19 +512,19 @@ export default function PreSearchPreparationArticle() {
 
         <h3 className={h3Class}>How much personal savings do I need before launching a search fund?</h3>
         <p>
-          For a traditional search fund, you should have 12&ndash;24 months of personal living expenses saved (typically $50K&ndash;$100K above and beyond the search budget funded by investors), plus $25K&ndash;$100K set aside for co-investment at acquisition closing. According to the{" "}
-          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, the average search duration is 20 months, but many searches extend to 24&ndash;30 months. For a{" "}
-          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link>, you will need a minimum of 18 months of living expenses plus $20K&ndash;$50K for search-related costs (legal, travel, diligence deposits). The fully loaded opportunity cost of a two-year search for a mid-career professional earning $150K&ndash;$250K in total compensation can exceed $500K when you factor in lost salary, bonus, equity vesting, 401(k) match, and health benefits. Financial stress is one of the most common reasons searchers abandon their efforts prematurely.
+          For a traditional search fund, you should have 12-24 months of personal living expenses saved (typically $50K-$100K above and beyond the search budget funded by investors), plus $25K-$100K set aside for co-investment at acquisition closing. According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, the average search duration is 20 months, but many searches extend to 24-30 months. For a{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link>, you will need a minimum of 18 months of living expenses plus $20K-$50K for search-related costs (legal, travel, diligence deposits). The fully loaded opportunity cost of a two-year search for a mid-career professional earning $150K-$250K in total compensation can exceed $500K when you factor in lost salary, bonus, equity vesting, 401(k) match, and health benefits. Financial stress is one of the most common reasons searchers abandon their efforts prematurely.
         </p>
 
         <h3 className={h3Class}>Should I get an MBA before pursuing ETA, or can I launch directly from industry?</h3>
         <p>
-          Both paths work, but each has distinct trade-offs. The MBA route provides structured ETA coursework, access to the investor network (the most active search fund investors recruit disproportionately from Stanford, Harvard, INSEAD, IESE, Wharton, and Booth), peer cohorts who become lifelong deal sourcing partners, and a credibility signal with sellers and lenders. The industry route avoids the $200K+ MBA investment and two-year delay, but requires you to build investor relationships, financial modeling proficiency, and industry expertise independently. Approximately 30% of active searchers do not have an MBA and succeed by using deep operating backgrounds and self-funded structures. If you already have strong financial modeling skills, 5&ndash;10 years of relevant operating experience, and access to personal or family capital for a self-funded search, the MBA may not be necessary.
+          Both paths work, but each has distinct trade-offs. The MBA route provides structured ETA coursework, access to the investor network (the most active search fund investors recruit disproportionately from Stanford, Harvard, INSEAD, IESE, Wharton, and Booth), peer cohorts who become lifelong deal sourcing partners, and a credibility signal with sellers and lenders. The industry route avoids the $200K+ MBA investment and two-year delay, but requires you to build investor relationships, financial modeling proficiency, and industry expertise independently. Approximately 30% of active searchers do not have an MBA and succeed by using deep operating backgrounds and self-funded structures. If you already have strong financial modeling skills, 5-10 years of relevant operating experience, and access to personal or family capital for a self-funded search, the MBA may not be necessary.
         </p>
 
         <h3 className={h3Class}>How do I choose between a focused industry thesis and a generalist approach?</h3>
         <p>
-          The evidence from Stanford and IESE research consistently favors focused searches over generalist approaches. Focused searchers build deeper broker relationships in their target sectors, evaluate opportunities faster because they understand industry-specific risks, and present more credibly to sellers who want to know their buyer understands the business. However, overly narrow criteria can reduce deal flow to unsustainable levels. Most experienced search fund investors recommend targeting two to three adjacent sectors that share common characteristics &mdash; for example, &ldquo;facilities services including HVAC, plumbing, and electrical&rdquo; rather than &ldquo;HVAC only.&rdquo; The ideal thesis balances specificity (enough to build genuine expertise and credibility) with breadth (enough to generate 5&ndash;10 serious deal opportunities per quarter). For detailed guidance on building your thesis, see our{" "}
+          The evidence from Stanford and IESE research consistently favors focused searches over generalist approaches. Focused searchers build deeper broker relationships in their target sectors, evaluate opportunities faster because they understand industry-specific risks, and present more credibly to sellers who want to know their buyer understands the business. However, overly narrow criteria can reduce deal flow to unsustainable levels. Most experienced search fund investors recommend targeting two to three adjacent sectors that share common characteristics, for example, &ldquo;facilities services including HVAC, plumbing, and electrical&rdquo; rather than &ldquo;HVAC only.&rdquo; The ideal thesis balances specificity (enough to build genuine expertise and credibility) with breadth (enough to generate 5-10 serious deal opportunities per quarter). For detailed guidance on building your thesis, see our{" "}
           <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">search fund thesis</Link>{" "}
           guide.
         </p>
@@ -533,17 +533,17 @@ export default function PreSearchPreparationArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Harvard Business School &mdash; Search Fund Primer (Ruback &amp; Yudkoff)
+              Harvard Business School, Search Fund Primer (Ruback &amp; Yudkoff)
             </a>
           </li>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; International Search Fund Study
+              IESE Business School, International Search Fund Study
             </a>
           </li>
         </ul>

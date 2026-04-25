@@ -54,20 +54,20 @@ export default function WorkingCapitalFR() {
         <h3 className={h3Class}>Les composantes du BFR</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Créances clients (DSO &mdash; Days Sales Outstanding)&nbsp;:</strong> Le
+            <strong>Créances clients (DSO, Days Sales Outstanding)&nbsp;:</strong> Le
             délai moyen de règlement des factures clients. En France, il
             s&apos;établit en moyenne autour de 40 à 50 jours pour les PME selon
             les données de la Banque de France, avec des variations
             sectorielles importantes.
           </li>
           <li>
-            <strong>Stocks (DIO &mdash; Days Inventory Outstanding)&nbsp;:</strong> La
+            <strong>Stocks (DIO, Days Inventory Outstanding)&nbsp;:</strong> La
             durée moyenne de rotation des stocks. Ce poste est
             particulièrement significatif dans le négoce, la distribution et
             l&apos;industrie manufacturière.
           </li>
           <li>
-            <strong>Dettes fournisseurs (DPO &mdash; Days Payable Outstanding)&nbsp;:</strong> Le
+            <strong>Dettes fournisseurs (DPO, Days Payable Outstanding)&nbsp;:</strong> Le
             délai moyen de paiement des factures fournisseurs. Un allongement
             du DPO réduit le BFR, mais il est encadré par la loi.
           </li>
@@ -165,8 +165,8 @@ export default function WorkingCapitalFR() {
           établissements hospitaliers, administrations) et les grands
           comptes, avec des conditions de commission compétitives et un
           processus dématérialisé. Pour les PME qui travaillent avec des
-          donneurs d&apos;ordre publics &mdash; réputés pour leurs délais de
-          paiement étendus &mdash; Avance+ est un outil particulièrement
+          donneurs d&apos;ordre publics, réputés pour leurs délais de
+          paiement étendus, Avance+ est un outil particulièrement
           pertinent.
         </p>
 

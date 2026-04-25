@@ -12,8 +12,8 @@ export default function OperationalDueDiligenceArticle() {
       <div className={bodyClass}>
         <p>
           Operational due diligence (ODD) answers the question financial
-          statements cannot: will this business keep running&mdash;and
-          grow&mdash;once the current owner walks away? A{" "}
+          statements cannot: will this business keep running, and
+          grow, once the current owner walks away? A{" "}
           <a
             href="https://www.mckinsey.com/capabilities/m-and-a/how-we-help-clients/m-and-a-strategy-due-diligence"
             target="_blank"
@@ -46,8 +46,8 @@ export default function OperationalDueDiligenceArticle() {
           EBITDA, and stress-tests the income statement. Legal DD flags
           pending litigation, regulatory exposure, and contract
           liabilities. Operational DD is forward-looking. It examines
-          whether the machinery behind those earnings&mdash;people,
-          processes, systems, vendors, and physical assets&mdash;can
+          whether the machinery behind those earnings, people,
+          processes, systems, vendors, and physical assets, can
           sustain and scale performance under new ownership.
         </p>
         <p>
@@ -66,7 +66,7 @@ export default function OperationalDueDiligenceArticle() {
           value-creation opportunities, and assesses the extent of
           operational risk. When financial DD tells you <em>what</em> a
           business earns, operational DD tells you <em>how</em> it earns
-          it&mdash;and whether that &ldquo;how&rdquo; is fragile or
+          it, and whether that &ldquo;how&rdquo; is fragile or
           strong.
         </p>
         <p>
@@ -113,7 +113,7 @@ export default function OperationalDueDiligenceArticle() {
         <h3 className={h3Class}>Core process documentation audit</h3>
         <p>
           Request written standard operating procedures (SOPs) for
-          the five to ten most important workflows&mdash;order
+          the five to ten most important workflows, order
           fulfillment, customer onboarding, invoicing, quality control,
           and escalation handling. Rate each on a simple maturity scale:
         </p>
@@ -139,7 +139,7 @@ export default function OperationalDueDiligenceArticle() {
           </li>
         </ol>
         <p>
-          Most SMEs sit at levels 1&ndash;2. That is not necessarily a
+          Most SMEs sit at levels 1-2. That is not necessarily a
           dealbreaker, but it directly affects your post-close workload
           and integration budget.
         </p>
@@ -148,10 +148,10 @@ export default function OperationalDueDiligenceArticle() {
         <p>
           Ask the seller: &ldquo;If revenue increased 30% in six
           months, what would break first?&rdquo; The answer reveals the
-          binding constraint&mdash;production capacity, scheduling
+          binding constraint, production capacity, scheduling
           software, warehouse space, or a single overworked manager.
           Map these bottlenecks against your growth thesis. If your plan
-          calls for 20&ndash;50% top-line growth, every bottleneck
+          calls for 20-50% top-line growth, every bottleneck
           becomes a capital expenditure line item in your post-close
           budget.
         </p>
@@ -161,7 +161,7 @@ export default function OperationalDueDiligenceArticle() {
           Collect at least three years of defect rates, warranty claims,
           service-failure logs, and customer return percentages. A
           rising defect trend may signal that the business has been
-          cutting corners to preserve margins&mdash;a red flag that
+          cutting corners to preserve margins, a red flag that
           financial DD alone would not catch.
         </p>
 
@@ -221,7 +221,7 @@ export default function OperationalDueDiligenceArticle() {
         </ul>
         <p>
           Budget for a third-party IT audit if annual revenue exceeds
-          &euro;2&ndash;3M or if the business handles sensitive
+          &euro;2-3M or if the business handles sensitive
           customer data (healthcare, financial services). For guidance
           on modernization opportunities, see our article on{" "}
           <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">
@@ -260,18 +260,18 @@ export default function OperationalDueDiligenceArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Tier 1 &mdash; Critical:</strong> Single-source
+            <strong>Tier 1: Critical:</strong> Single-source
             suppliers, vendors providing &gt;15% of inputs, or
             technology platforms the business cannot operate without.
             These require deep diligence.
           </li>
           <li>
-            <strong>Tier 2 &mdash; Important:</strong> Suppliers with
+            <strong>Tier 2: Important:</strong> Suppliers with
             ready alternatives but meaningful switching costs or lead
             times. Review contract terms and pricing agreements.
           </li>
           <li>
-            <strong>Tier 3 &mdash; Commodity:</strong> Easily
+            <strong>Tier 3: Commodity:</strong> Easily
             replaceable suppliers. A quick terms review is sufficient.
           </li>
         </ul>
@@ -325,7 +325,7 @@ export default function OperationalDueDiligenceArticle() {
           </a>{" "}
           shows that nearly 50% of key employees leave within the first
           year after a deal closes, climbing to 75% within three years.
-          Replacing a skilled employee costs 50&ndash;200% of their
+          Replacing a skilled employee costs 50-200% of their
           annual salary when you factor in recruiting, training, and
           lost productivity.
         </p>
@@ -341,8 +341,8 @@ export default function OperationalDueDiligenceArticle() {
           profile. Shadow the current owner for a full working day:
           who do they speak with, what decisions do they make, and
           what would happen if they stopped showing up tomorrow? Then
-          identify the 3&ndash;5 non-owner employees the business
-          cannot function without&mdash;the classic{" "}
+          identify the 3-5 non-owner employees the business
+          cannot function without, the classic{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">
             key-person risk
           </Link>{" "}
@@ -379,7 +379,7 @@ export default function OperationalDueDiligenceArticle() {
           </li>
           <li>
             Annual turnover rate. The SME benchmark is typically
-            15&ndash;25%; anything above 30% warrants investigation.
+            15-25%; anything above 30% warrants investigation.
           </li>
           <li>
             Average tenure by role. Short average tenure in
@@ -391,7 +391,7 @@ export default function OperationalDueDiligenceArticle() {
             that are legally required to operate.
           </li>
           <li>
-            Open positions and recruiting pipeline status&mdash;chronic
+            Open positions and recruiting pipeline status, chronic
             vacancies signal either labor-market difficulty or
             cultural issues.
           </li>
@@ -404,12 +404,12 @@ export default function OperationalDueDiligenceArticle() {
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
           >
-            Mercer&ndash;Marsh report
+            Mercer-Marsh report
           </a>,
           roughly 30% of M&amp;A retention failures stem from cultural
           mismatches rather than compensation gaps. Schedule informal
-          conversations with frontline staff&mdash;not just
-          management&mdash;to gauge morale, communication quality, and
+          conversations with frontline staff, not just
+          management, to gauge morale, communication quality, and
           attitudes toward the ownership transition.
         </p>
 
@@ -420,7 +420,7 @@ export default function OperationalDueDiligenceArticle() {
           Facilities, Equipment, and Physical Asset Inspection
         </h2>
         <p>
-          Walk every facility yourself&mdash;photographs and reports are
+          Walk every facility yourself, photographs and reports are
           not substitutes for direct observation. Allocate at least two
           site visits during the DD window: an initial tour and a
           deep-dive inspection.
@@ -460,7 +460,7 @@ export default function OperationalDueDiligenceArticle() {
         <ul className={ulClass}>
           <li>
             Purchase date, expected useful life, and current condition
-            (rated 1&ndash;5).
+            (rated 1-5).
           </li>
           <li>
             Maintenance history and outstanding repair needs.
@@ -469,7 +469,7 @@ export default function OperationalDueDiligenceArticle() {
             Replacement cost estimate at current market prices.
           </li>
           <li>
-            Whether the asset is owned, leased, or financed&mdash;and
+            Whether the asset is owned, leased, or financed, and
             transferability of any lease or loan.
           </li>
         </ul>
@@ -488,7 +488,7 @@ export default function OperationalDueDiligenceArticle() {
         </h2>
         <p>
           Revenue that disappears when the owner leaves is not revenue
-          you are buying&mdash;it is goodwill you are overpaying for.
+          you are buying, it is goodwill you are overpaying for.
           Validate the durability of the income stream through three
           lenses: concentration, retention, and satisfaction.
         </p>
@@ -509,7 +509,7 @@ export default function OperationalDueDiligenceArticle() {
           for more than 50%, the risk is extreme. Build a revenue
           waterfall showing each customer&rsquo;s contribution over the
           past three years. Flag any customer whose revenue share is
-          trending upward while total revenue is flat&mdash;that
+          trending upward while total revenue is flat, that
           signals growing dependence, not growth.
         </p>
 
@@ -532,7 +532,7 @@ export default function OperationalDueDiligenceArticle() {
           </li>
           <li>
             <strong>Direct customer interviews:</strong> Speak with
-            5&ndash;10 customers (with seller permission). Ask three
+            5-10 customers (with seller permission). Ask three
             questions: Why do you buy from this company? Have you
             considered switching? What would make you leave?
           </li>
@@ -555,7 +555,7 @@ export default function OperationalDueDiligenceArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Days 1&ndash;30 (Stabilize):</strong> Secure
+            <strong>Days 1-30 (Stabilize):</strong> Secure
             retention agreements for key employees, confirm all vendor
             contracts transfer cleanly, establish your presence without
             disrupting day-to-day operations, and complete any
@@ -563,7 +563,7 @@ export default function OperationalDueDiligenceArticle() {
             risk.
           </li>
           <li>
-            <strong>Days 31&ndash;90 (Assess and Quick Wins):</strong>{" "}
+            <strong>Days 31-90 (Assess and Quick Wins):</strong>{" "}
             Document the top five undocumented processes, implement
             basic KPI dashboards (daily revenue, weekly cash, monthly
             customer metrics), resolve the most obvious bottleneck
@@ -571,7 +571,7 @@ export default function OperationalDueDiligenceArticle() {
             review with upgrade recommendations.
           </li>
           <li>
-            <strong>Days 91&ndash;180 (Build):</strong> Begin{" "}
+            <strong>Days 91-180 (Build):</strong> Begin{" "}
             <Link href="/learn/process-improvement" className="text-apple-accent hover:underline">
               process improvement
             </Link>{" "}
@@ -602,14 +602,14 @@ export default function OperationalDueDiligenceArticle() {
           How long does operational due diligence take for an SME?
         </h3>
         <p>
-          Most SME operational DD processes run 4&ndash;8 weeks in
+          Most SME operational DD processes run 4-8 weeks in
           parallel with financial and legal workstreams. Plan for at
           least two site visits (initial tour plus a deep-dive
-          inspection), 5&ndash;10 customer conversations, and meetings
+          inspection), 5-10 customer conversations, and meetings
           with key managers and frontline employees. Businesses with
           multiple locations, complex supply chains, or
           compliance-heavy industries (healthcare, food production) may
-          require 8&ndash;12 weeks and third-party specialist audits.
+          require 8-12 weeks and third-party specialist audits.
         </p>
 
         <h3 className={h3Class}>
@@ -622,8 +622,8 @@ export default function OperationalDueDiligenceArticle() {
           decisions, and has no documented processes, earnings are
           likely to decline the moment they leave. Shadow the owner for
           a full day and count how many decisions only they can
-          make&mdash;if the answer is more than a handful, build a
-          12&ndash;18 month owner-transition period into the deal
+          make, if the answer is more than a handful, build a
+          12-18 month owner-transition period into the deal
           structure or walk away.
         </p>
 

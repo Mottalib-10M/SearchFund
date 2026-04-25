@@ -10,14 +10,14 @@ export default function InvestorUpdateTemplatesArticle() {
       <div className={bodyClass}>
         <p>
           Your investors wrote six- and seven-figure checks based on a bet on you. The investor
-          update is how you honor that bet &mdash; and how you turn passive capital into active
+          update is how you honor that bet, and how you turn passive capital into active
           support. According to data from{" "}
           <a href="https://visible.vc/blog/investor-reporting/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Visible.vc</a>,
           companies that send regular investor updates are twice as likely to raise follow-on
           funding. In the search fund world, where your investor base is often the same group
           funding your next acquisition or providing bridge capital, that statistic carries
           even more weight. This guide provides field-tested templates for every stage of the
-          search fund lifecycle &mdash; from your first month of deal sourcing through quarterly
+          search fund lifecycle, from your first month of deal sourcing through quarterly
           board-level reviews as an operating CEO.
         </p>
       </div>
@@ -30,7 +30,7 @@ export default function InvestorUpdateTemplatesArticle() {
           as a personal commitment. The{" "}
           <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</a>{" "}
           tracked 681 qualifying search funds and found an aggregate pre-tax IRR of 35.1% and
-          a 4.5x return on invested capital &mdash; returns that depend on hands-on investor
+          a 4.5x return on invested capital, returns that depend on hands-on investor
           involvement during the acquisition and operating phases. Your update is the mechanism
           that unlocks that involvement.
         </p>
@@ -39,7 +39,7 @@ export default function InvestorUpdateTemplatesArticle() {
           warm for the equity raise when you find a deal. A searcher who has sent 18 months
           of clear, candid updates will close an acquisition fundraise faster than one who
           went silent after cashing the search capital check. Second, updates surface advice
-          at the exact moment it&rsquo;s useful &mdash; an investor who knows you&rsquo;re
+          at the exact moment it&rsquo;s useful, an investor who knows you&rsquo;re
           struggling with seller negotiations can make a single phone call that saves the
           deal. Third, consistent communication builds the governance muscle you&rsquo;ll
           need post-close, when you&rsquo;re reporting to a{" "}
@@ -59,7 +59,7 @@ export default function InvestorUpdateTemplatesArticle() {
       <h2 className={h2Class}>Search Phase Monthly Update Template</h2>
       <div className={bodyClass}>
         <p>
-          During the search, you should send updates monthly &mdash; on the same date each
+          During the search, you should send updates monthly, on the same date each
           month, no exceptions. Your investors are evaluating your work ethic, judgment, and
           process discipline long before they see a deal. The typical search reviews 1,500+
           companies before submitting an LOI, according to deal funnel data compiled by{" "}
@@ -67,11 +67,11 @@ export default function InvestorUpdateTemplatesArticle() {
           Your update should quantify exactly where you stand in that funnel.
         </p>
         <p>
-          <strong>Subject line:</strong> [Your Name] Search Update &mdash; [Month Year]
+          <strong>Subject line:</strong> [Your Name] Search Update, [Month Year]
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Executive summary (3&ndash;4 sentences).</strong> Lead with the most
+            <strong>Executive summary (3-4 sentences).</strong> Lead with the most
             important development: a new LOI, a dead deal, a strategic pivot, or a milestone
             (e.g., &ldquo;We submitted our second LOI this month on a $4.2M EBITDA
             industrial services company in the Southeast&rdquo;).
@@ -87,10 +87,10 @@ export default function InvestorUpdateTemplatesArticle() {
             </ul>
           </li>
           <li>
-            <strong>Pipeline spotlight (2&ndash;3 deals).</strong> For each active opportunity,
+            <strong>Pipeline spotlight (2-3 deals).</strong> For each active opportunity,
             include: industry, geography, revenue range, EBITDA range, asking price or
             valuation multiple, current stage, and your assessment of likelihood to close.
-            No company names needed at this stage &mdash; a brief descriptor works
+            No company names needed at this stage, a brief descriptor works
             (e.g., &ldquo;Midwest HVAC distributor, $6M revenue, ~18% EBITDA margins&rdquo;).
           </li>
           <li>
@@ -111,7 +111,7 @@ export default function InvestorUpdateTemplatesArticle() {
             <strong>The ask.</strong> One specific, actionable request. Not &ldquo;any
             introductions you can make.&rdquo; Instead: &ldquo;We are looking for
             introductions to owners of environmental services companies in Texas with
-            $3&ndash;8M in revenue. If you know anyone in this space, a warm intro would
+            $3-8M in revenue. If you know anyone in this space, a warm intro would
             be extremely helpful.&rdquo;
           </li>
         </ol>
@@ -135,19 +135,19 @@ export default function InvestorUpdateTemplatesArticle() {
           should contain, adapted for an email-friendly format.
         </p>
         <p>
-          <strong>Subject line:</strong> [Company Name] &mdash; [Month Year] Investor Update
+          <strong>Subject line:</strong> [Company Name], [Month Year] Investor Update
         </p>
         <ol className={olClass}>
           <li>
             <strong>CEO summary (one paragraph).</strong> The single most important thing
             that happened this month and your overall assessment of business health. Be
-            direct: &ldquo;July was a strong month &mdash; revenue came in 8% above plan
+            direct: &ldquo;July was a strong month, revenue came in 8% above plan
             driven by the new commercial contract we signed in June&rdquo; or &ldquo;July
-            was challenging &mdash; we lost our second-largest customer, representing 11%
+            was challenging, we lost our second-largest customer, representing 11%
             of revenue, and I&rsquo;ll outline our response plan below.&rdquo;
           </li>
           <li>
-            <strong>Financial snapshot (5&ndash;7 metrics).</strong> Show actual vs. budget
+            <strong>Financial snapshot (5-7 metrics).</strong> Show actual vs. budget
             vs. prior year for:
             <ul className={ulClass}>
               <li>Revenue (month and YTD)</li>
@@ -165,23 +165,23 @@ export default function InvestorUpdateTemplatesArticle() {
             </p>
           </li>
           <li>
-            <strong>Key operating metrics (3&ndash;5 KPIs).</strong> These vary by business
+            <strong>Key operating metrics (3-5 KPIs).</strong> These vary by business
             type and should align with the{" "}
             <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link>{" "}
             you present to your board. Choose metrics that are leading indicators, not just
             lagging financial results.
           </li>
           <li>
-            <strong>Wins (2&ndash;3 bullets).</strong> New customer signings, key hires
+            <strong>Wins (2-3 bullets).</strong> New customer signings, key hires
             completed, operational improvements, or strategic milestones. Be specific:
             &ldquo;Hired VP of Operations with 15 years of experience at [Industry
             Peer]&rdquo; is better than &ldquo;Made a key hire.&rdquo;
           </li>
           <li>
-            <strong>Challenges and risks (1&ndash;3 bullets).</strong> What is not going
+            <strong>Challenges and risks (1-3 bullets).</strong> What is not going
             well, and what are you doing about it? This section is where you build or erode
             trust. Investors who have backed dozens of search funds know that every business
-            faces problems &mdash; they&rsquo;re evaluating whether you recognize issues
+            faces problems, they&rsquo;re evaluating whether you recognize issues
             early and respond decisively.
           </li>
           <li>
@@ -192,7 +192,7 @@ export default function InvestorUpdateTemplatesArticle() {
           <li>
             <strong>The ask.</strong> A single, specific request: an introduction to a
             potential customer, advice on a compensation structure, a recommendation for a
-            fractional CFO. Investors want to contribute &mdash; your job is to make it easy.
+            fractional CFO. Investors want to contribute, your job is to make it easy.
           </li>
         </ol>
       </div>
@@ -200,10 +200,10 @@ export default function InvestorUpdateTemplatesArticle() {
       <h2 className={h2Class}>Quarterly Deep-Dive Template</h2>
       <div className={bodyClass}>
         <p>
-          Once you&rsquo;ve been operating for 12&ndash;18 months and the business is stable,
+          Once you&rsquo;ve been operating for 12-18 months and the business is stable,
           many boards shift to quarterly reporting cadence (with ad hoc communication for
           material events). The quarterly update is longer and more strategic than the monthly
-          email. It typically runs 3&ndash;5 pages and may be presented as a deck or a
+          email. It typically runs 3-5 pages and may be presented as a deck or a
           structured memo. This template works for both formats.
         </p>
         <ol className={olClass}>
@@ -220,7 +220,7 @@ export default function InvestorUpdateTemplatesArticle() {
             if you have acquisition debt.
           </li>
           <li>
-            <strong>Operating KPI review.</strong> A deeper look at the 5&ndash;8 metrics
+            <strong>Operating KPI review.</strong> A deeper look at the 5-8 metrics
             that define your business. Show trends over time (quarter-over-quarter for at
             least four quarters) rather than just a single snapshot. Investors care about
             trajectory, not just absolute values.
@@ -267,7 +267,7 @@ export default function InvestorUpdateTemplatesArticle() {
           from the{" "}
           <a href="https://www.financialprofessionals.org/training-resources/resources/articles/Details/tracking-kpis-after-an-acquisition" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Association of Financial Professionals</a>,
           effective post-acquisition KPIs should exist across four categories: customers,
-          employees, processes, and revenue &mdash; with a balance between metrics that
+          employees, processes, and revenue, with a balance between metrics that
           measure current health and those that project future growth.
         </p>
         <p>
@@ -298,7 +298,7 @@ export default function InvestorUpdateTemplatesArticle() {
           <li>Contracted ARR vs. recognized revenue</li>
         </ul>
         <p>
-          Pick 3&ndash;5 KPIs for your monthly updates and expand to 5&ndash;8 for quarterly
+          Pick 3-5 KPIs for your monthly updates and expand to 5-8 for quarterly
           deep-dives. The key is consistency: once you start reporting a metric, keep
           reporting it every period, even when the numbers aren&rsquo;t flattering. Dropping
           a metric the month it turns negative is one of the fastest ways to lose investor
@@ -310,7 +310,7 @@ export default function InvestorUpdateTemplatesArticle() {
       <div className={bodyClass}>
         <p>
           The single biggest mistake search fund CEOs make in investor updates is treating
-          them like marketing materials. Your investors are sophisticated operators &mdash;
+          them like marketing materials. Your investors are sophisticated operators , 
           many have run companies themselves. They can see through spin, and they resent it.
           A{" "}
           <a href="https://www.symphony100.com/post/founder-investor-communication-breakdown" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">study of founder-investor communication breakdowns</a>{" "}
@@ -330,7 +330,7 @@ export default function InvestorUpdateTemplatesArticle() {
         <ul className={ulClass}>
           <li>Lengthy product roadmap details (unless investors specifically requested them)</li>
           <li>Industry news that doesn&rsquo;t directly affect your business</li>
-          <li>Self-congratulatory narratives &mdash; let the numbers speak</li>
+          <li>Self-congratulatory narratives, let the numbers speak</li>
           <li>Granular operational details that don&rsquo;t connect to financial outcomes</li>
           <li>Information that belongs in a board meeting, not an email (e.g., detailed
             compensation discussions, legal disputes requiring board action)</li>
@@ -359,7 +359,7 @@ export default function InvestorUpdateTemplatesArticle() {
           </li>
           <li>
             <strong>Too long.</strong> Monthly updates should be one page of email text
-            (roughly 500&ndash;700 words). Quarterly deep-dives should not exceed five
+            (roughly 500-700 words). Quarterly deep-dives should not exceed five
             pages. If investors need to block 30 minutes to read your update, most
             won&rsquo;t.
           </li>
@@ -383,7 +383,7 @@ export default function InvestorUpdateTemplatesArticle() {
           <li>
             <strong>Changing the format.</strong> Adopt a template and stick with it. When
             investors can compare month-over-month in a consistent format, they spot trends
-            faster &mdash; and your updates become more efficient to produce. Use the same
+            faster, and your updates become more efficient to produce. Use the same
             KPIs, the same order, the same level of detail every time.
           </li>
           <li>
@@ -403,7 +403,7 @@ export default function InvestorUpdateTemplatesArticle() {
           Monthly during the entire search phase, monthly for at least the first 12 months
           post-acquisition, then transition to quarterly once operations stabilize (typically
           in year two). Regardless of cadence, communicate immediately if a material event
-          occurs &mdash; a key employee departure, a major customer loss, a covenant breach,
+          occurs, a key employee departure, a major customer loss, a covenant breach,
           or a significant strategic shift. The{" "}
           <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE International Search Fund Center</a>{" "}
           recommends maintaining monthly communication through the first full fiscal year
@@ -416,7 +416,7 @@ export default function InvestorUpdateTemplatesArticle() {
           month; we reviewed 47 companies and are narrowing our focus to environmental
           services in the Gulf Coast region&rdquo; is infinitely better than silence. The
           discipline of regular communication matters as much as the content. Investors
-          who don&rsquo;t hear from you will assume the worst &mdash; not that things are
+          who don&rsquo;t hear from you will assume the worst, not that things are
           going smoothly.
         </p>
 
@@ -440,7 +440,7 @@ export default function InvestorUpdateTemplatesArticle() {
           technician turnover. We have implemented a retention bonus program and are actively
           pursuing three new commercial accounts that would replace 80% of lost revenue by
           Q1.&rdquo; This structure shows you understand the problem, own it, and have a plan.
-          Investors don&rsquo;t expect perfection &mdash; they expect competence and honesty.
+          Investors don&rsquo;t expect perfection, they expect competence and honesty.
         </p>
 
         <h3 className={h3Class}>What tools should I use to send and track investor updates?</h3>

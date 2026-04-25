@@ -423,7 +423,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <p>
-          For SME acquisitions in the $1M&ndash;$20M range, the typical timeline from signed LOI to closing is 60&ndash;120 days. Conventional bank-financed deals generally close in 60&ndash;90 days, while SBA-financed deals often take 90&ndash;120 days due to additional lender underwriting requirements. The American Bar Association&rsquo;s M&amp;A practice data shows that third-party consent delays (landlords, franchisors, key customers) are the number one cause of closing delays, followed by lender documentation requirements and last-minute due diligence findings. Build at least 2&ndash;3 weeks of buffer into your closing timeline, and start the consent process as early as possible.
+          For SME acquisitions in the $1M-$20M range, the typical timeline from signed LOI to closing is 60-120 days. Conventional bank-financed deals generally close in 60-90 days, while SBA-financed deals often take 90-120 days due to additional lender underwriting requirements. The American Bar Association&rsquo;s M&amp;A practice data shows that third-party consent delays (landlords, franchisors, key customers) are the number one cause of closing delays, followed by lender documentation requirements and last-minute due diligence findings. Build at least 2-3 weeks of buffer into your closing timeline, and start the consent process as early as possible.
         </p>
       </div>
 
@@ -431,7 +431,7 @@ export default function ClosingProcessArticle() {
 
       <div className={bodyClass}>
         <p>
-          A working capital true-up is the most common post-closing adjustment in SME acquisitions. The purchase agreement specifies a target working capital level (typically the trailing 12-month average). An estimated closing statement is prepared 1&ndash;3 days before closing, with the purchase price paid based on estimated figures. Within 60&ndash;90 days after closing, the buyer prepares a final working capital determination. The seller then has 30 days to review and dispute the calculation. If actual working capital exceeds the target, the buyer pays the difference to the seller; if it falls short, the seller reimburses the buyer (often from escrow). SBA SOP 50 10 provides detailed guidance on these procedures for government-backed transactions.
+          A working capital true-up is the most common post-closing adjustment in SME acquisitions. The purchase agreement specifies a target working capital level (typically the trailing 12-month average). An estimated closing statement is prepared 1-3 days before closing, with the purchase price paid based on estimated figures. Within 60-90 days after closing, the buyer prepares a final working capital determination. The seller then has 30 days to review and dispute the calculation. If actual working capital exceeds the target, the buyer pays the difference to the seller; if it falls short, the seller reimburses the buyer (often from escrow). SBA SOP 50 10 provides detailed guidance on these procedures for government-backed transactions.
         </p>
       </div>
 

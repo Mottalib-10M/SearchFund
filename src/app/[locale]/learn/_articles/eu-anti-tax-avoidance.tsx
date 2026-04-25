@@ -20,7 +20,7 @@ export default function EUAntiTaxAvoidanceArticle() {
             cross-border acquisition
           </Link>{" "}
           involving EU entities, understanding these rules is no longer
-          optional &mdash; it is essential. The directives affect everything
+          optional, it is essential. The directives affect everything
           from how acquisition financing is structured to how holding
           companies are designed, and non-compliance can result in
           significant and unexpected tax costs.
@@ -100,7 +100,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           transfers assets or moves its tax residence from one Member State
           to another (or to a third country), to the extent the departing
           state loses the right to tax the transferred assets. The exit tax
-          is levied on the unrealized capital gains &mdash; the difference
+          is levied on the unrealized capital gains, the difference
           between the market value of the assets at the time of transfer and
           their tax book value.
         </p>
@@ -177,7 +177,7 @@ export default function EUAntiTaxAvoidanceArticle() {
         <h2 className={h2Class}>Anti-hybrid mismatch rules (ATAD II)</h2>
         <p>
           ATAD II (Council Directive 2017/952) extended the anti-avoidance
-          framework to address hybrid mismatches &mdash; arrangements that
+          framework to address hybrid mismatches, arrangements that
           exploit differences in the tax treatment of entities or instruments
           between jurisdictions to achieve double deductions (the same
           expense deducted in two jurisdictions) or deduction/non-inclusion
@@ -247,8 +247,8 @@ export default function EUAntiTaxAvoidanceArticle() {
           arrangement. Its broad and subjective language gives tax
           authorities significant discretion, which creates uncertainty
           for taxpayers. For acquirers, the GAAR means that any aggressive
-          tax planning &mdash; even if technically compliant with specific
-          rules &mdash; may be challenged if it lacks genuine commercial
+          tax planning, even if technically compliant with specific
+          rules, may be challenged if it lacks genuine commercial
           substance. Deal structures, holding arrangements, and financing
           mechanisms must be supported by strong commercial rationale
           beyond tax benefits.
@@ -350,7 +350,7 @@ export default function EUAntiTaxAvoidanceArticle() {
         <h3 className={h3Class}>How do the ATAD interest limitation rules affect leveraged acquisition financing?</h3>
 
         <p>
-          The ATAD interest limitation rules cap the tax deductibility of net borrowing costs at 30% of EBITDA, directly limiting the tax shield available in leveraged acquisitions. For search fund and ETA acquisitions where target EBITDA is relatively modest (typically &euro;500,000&ndash;&euro;3 million), this cap can be reached quickly. For example, a business with &euro;1 million EBITDA can deduct at most &euro;300,000 in net interest expense per year&mdash;any excess is non-deductible in the current year (though most Member States allow carryforward). The directive includes a de minimis threshold of &euro;3 million, below which the limitation does not apply. According to KPMG&rsquo;s EU ATAD implementation analysis, acquirers should model the interest limitation into financial projections from the earliest stages of deal evaluation, as it can reduce expected after-tax returns by 2&ndash;5 percentage points for highly leveraged structures.
+          The ATAD interest limitation rules cap the tax deductibility of net borrowing costs at 30% of EBITDA, directly limiting the tax shield available in leveraged acquisitions. For search fund and ETA acquisitions where target EBITDA is relatively modest (typically &euro;500,000-&euro;3 million), this cap can be reached quickly. For example, a business with &euro;1 million EBITDA can deduct at most &euro;300,000 in net interest expense per year, any excess is non-deductible in the current year (though most Member States allow carryforward). The directive includes a de minimis threshold of &euro;3 million, below which the limitation does not apply. According to KPMG&rsquo;s EU ATAD implementation analysis, acquirers should model the interest limitation into financial projections from the earliest stages of deal evaluation, as it can reduce expected after-tax returns by 2-5 percentage points for highly leveraged structures.
         </p>
 
         <h3 className={h3Class}>Does the EU&rsquo;s global minimum tax (Pillar Two) apply to search fund acquisitions?</h3>
@@ -362,7 +362,7 @@ export default function EUAntiTaxAvoidanceArticle() {
         <h3 className={h3Class}>What is the GAAR and how does it affect acquisition structuring?</h3>
 
         <p>
-          The General Anti-Avoidance Rule (GAAR) is a broad backstop provision in ATAD I that allows tax authorities to disregard arrangements that are &ldquo;not genuine&rdquo; and have been put in place primarily to obtain a tax advantage. An arrangement is considered not genuine if it lacks valid commercial reasons reflecting economic reality. For acquirers, the GAAR means that any aggressive tax planning&mdash;even if technically compliant with specific rules&mdash;can be challenged if it lacks genuine commercial substance. According to EY&rsquo;s <em>Worldwide Corporate Tax Guide</em>, holding companies, intercompany financing arrangements, and IP structures must all be supported by strong commercial rationale beyond tax benefits. Entities must have qualified employees, local decision-making authority, and real operational activities to withstand GAAR scrutiny. The subjective nature of the GAAR creates uncertainty that makes professional tax advice essential for any cross-border European acquisition.
+          The General Anti-Avoidance Rule (GAAR) is a broad backstop provision in ATAD I that allows tax authorities to disregard arrangements that are &ldquo;not genuine&rdquo; and have been put in place primarily to obtain a tax advantage. An arrangement is considered not genuine if it lacks valid commercial reasons reflecting economic reality. For acquirers, the GAAR means that any aggressive tax planning, even if technically compliant with specific rules, can be challenged if it lacks genuine commercial substance. According to EY&rsquo;s <em>Worldwide Corporate Tax Guide</em>, holding companies, intercompany financing arrangements, and IP structures must all be supported by strong commercial rationale beyond tax benefits. Entities must have qualified employees, local decision-making authority, and real operational activities to withstand GAAR scrutiny. The subjective nature of the GAAR creates uncertainty that makes professional tax advice essential for any cross-border European acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
@@ -370,7 +370,7 @@ export default function EUAntiTaxAvoidanceArticle() {
           <li>Council of the European Union, <em>Directive 2016/1164 (ATAD I): Rules Against Tax Avoidance Practices</em> (2016)</li>
           <li>Council of the European Union, <em>Directive 2017/952 (ATAD II): Hybrid Mismatches with Third Countries</em> (2017)</li>
           <li>Council of the European Union, <em>Directive 2022/2523: Minimum Level of Taxation for Multinational Groups (Pillar Two)</em> (2022)</li>
-          <li>OECD, <em>Tax Challenges Arising from the Digitalisation of the Economy &mdash; Global Anti-Base Erosion Model Rules (Pillar Two)</em> (2021)</li>
+          <li>OECD, <em>Tax Challenges Arising from the Digitalisation of the Economy, Global Anti-Base Erosion Model Rules (Pillar Two)</em> (2021)</li>
           <li>European Commission, <em>Anti-Tax Avoidance Package: Key Measures</em></li>
           <li>KPMG, <em>EU Anti-Tax Avoidance Directive: Implementation Status by Country</em></li>
           <li>EY, <em>Worldwide Corporate Tax Guide</em></li>

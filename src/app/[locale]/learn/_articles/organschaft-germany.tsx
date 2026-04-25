@@ -7,13 +7,13 @@ export default function OrganschaftGermanyArticle() {
       <h1 className={h1Class}>Organschaft (Germany): German Tax Consolidation</h1>
       <div className={bodyClass}>
         <p>Organschaft is Germany&apos;s tax consolidation regime, enabling a parent company (Organtr&auml;ger) and its subsidiaries (Organgesellschaften) to be treated as a single tax entity. For search fund entrepreneurs acquiring Mittelstand businesses through a <Link href="/learn/gmbh-vs-ug-germany" className="text-apple-accent hover:underline">holding GmbH</Link> in <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">Germany</Link>, Organschaft is essential for making acquisition debt interest tax-deductible.</p>
-        <p>Under &sect;&sect;14&ndash;19 of the K&ouml;rperschaftsteuergesetz (KStG), an Organschaft permits the consolidated taxation of corporate groups, which can produce annual tax savings of &euro;30,000&ndash;&euro;80,000 or more on a typical &euro;2&ndash;5M Mittelstand acquisition. The BFH (Bundesfinanzhof) has confirmed in recent case law that the requirements are strictly interpreted, making proper setup essential.</p>
+        <p>Under &sect;&sect;14-19 of the K&ouml;rperschaftsteuergesetz (KStG), an Organschaft permits the consolidated taxation of corporate groups, which can produce annual tax savings of &euro;30,000-&euro;80,000 or more on a typical &euro;2-5M Mittelstand acquisition. The BFH (Bundesfinanzhof) has confirmed in recent case law that the requirements are strictly interpreted, making proper setup essential.</p>
       </div>
 
       <h2 className={h2Class}>How Organschaft Works</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Profit transfer agreement:</strong> The subsidiary must enter into a Gewinnabf&uuml;hrungsvertrag (profit and loss transfer agreement &mdash; PLTA) with the parent, committing to transfer all profits to the parent</li>
+          <li><strong>Profit transfer agreement:</strong> The subsidiary must enter into a Gewinnabf&uuml;hrungsvertrag (profit and loss transfer agreement, PLTA) with the parent, committing to transfer all profits to the parent</li>
           <li><strong>Financial integration:</strong> The parent must hold a majority of voting rights in the subsidiary</li>
           <li><strong>Economic integration:</strong> The subsidiary&apos;s activities must be economically integrated with the parent</li>
           <li><strong>Organizational integration:</strong> The parent must have decision-making control over the subsidiary</li>
@@ -40,7 +40,7 @@ export default function OrganschaftGermanyArticle() {
           <li>Target GmbH generates &euro;500K annual taxable profit</li>
           <li>With Organschaft: the PLTA transfers the target&apos;s profit to the holding. The holding offsets interest against transferred profit.</li>
           <li>Taxable result: &euro;500K &minus; &euro;150K = &euro;350K</li>
-          <li>Tax savings: approximately &euro;45K&ndash;&euro;50K per year (at ~30% combined rate on the &euro;150K deduction)</li>
+          <li>Tax savings: approximately &euro;45K-&euro;50K per year (at ~30% combined rate on the &euro;150K deduction)</li>
         </ol>
       </div>
 
@@ -100,12 +100,12 @@ export default function OrganschaftGermanyArticle() {
 
       <h3 className={h3Class}>Is Gewerbesteuer Organschaft automatic when establishing K&ouml;rperschaftsteuer Organschaft?</h3>
       <div className={bodyClass}>
-        <p>No, but the requirements largely overlap. The Gewerbesteuer (trade tax) Organschaft under &sect;2 Abs. 2 GewStG requires financial integration and a valid PLTA, the same as K&ouml;rperschaftsteuer Organschaft. In practice, both are usually established simultaneously, and the combined benefit covers both the 15% corporate income tax (plus solidarity surcharge) and the 7&ndash;17% trade tax, depending on the municipality&apos;s Hebesatz (multiplier rate).</p>
+        <p>No, but the requirements largely overlap. The Gewerbesteuer (trade tax) Organschaft under &sect;2 Abs. 2 GewStG requires financial integration and a valid PLTA, the same as K&ouml;rperschaftsteuer Organschaft. In practice, both are usually established simultaneously, and the combined benefit covers both the 15% corporate income tax (plus solidarity surcharge) and the 7-17% trade tax, depending on the municipality&apos;s Hebesatz (multiplier rate).</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
-        <li>K&ouml;rperschaftsteuergesetz (KStG), <em>&sect;&sect;14&ndash;19: Organschaft Provisions</em></li>
+        <li>K&ouml;rperschaftsteuergesetz (KStG), <em>&sect;&sect;14-19: Organschaft Provisions</em></li>
         <li>Gewerbesteuergesetz (GewStG), <em>&sect;2 Abs. 2: Gewerbesteuer Organschaft</em></li>
         <li>BFH (Bundesfinanzhof), <em>Recent Case Law on Organschaft Requirements</em> (2024)</li>
         <li>KPMG Germany, <em>German Tax Consolidation Guide</em> (2024)</li>

@@ -16,7 +16,7 @@ export default function WorkingCapitalManagementArticle() {
           working capital management is one of the most common reasons
           otherwise profitable businesses run into cash flow crises. The good
           news is that working capital optimization is one of the most
-          accessible value creation levers available to a new CEO &mdash;
+          accessible value creation levers available to a new CEO , 
           improvements often require process changes, not capital investment,
           and the results flow directly to free cash flow and debt paydown
           capacity.
@@ -58,30 +58,30 @@ export default function WorkingCapitalManagementArticle() {
         <p>
           Accounts receivable (AR) is typically the largest working capital
           opportunity in acquired SMEs. Many small businesses have lax
-          collection practices &mdash; invoices go out late, payment terms are
+          collection practices, invoices go out late, payment terms are
           generous, and past-due balances accumulate without follow-up.
         </p>
 
         <h3 className={h3Class}>Aging analysis</h3>
         <p>
           The first step is to run an AR aging report and categorize all
-          outstanding invoices by age: current, 1&ndash;30 days past due,
-          31&ndash;60 days, 61&ndash;90 days, and 90+ days. This report will
+          outstanding invoices by age: current, 1-30 days past due,
+          31-60 days, 61-90 days, and 90+ days. This report will
           reveal the scope of the problem and identify specific customers
           who are chronically late payers.
         </p>
         <ul className={ulClass}>
           <li>
-            Current and 1&ndash;30 days past due: normal business operations.
+            Current and 1-30 days past due: normal business operations.
             Monitor but do not panic.
           </li>
           <li>
-            31&ndash;60 days past due: escalate to personal phone calls from
+            31-60 days past due: escalate to personal phone calls from
             the billing team or account manager. Understand the reason for
             delay.
           </li>
           <li>
-            61&ndash;90 days past due: escalate to management. Consider
+            61-90 days past due: escalate to management. Consider
             stopping new work or shipments until the balance is resolved.
           </li>
           <li>
@@ -101,7 +101,7 @@ export default function WorkingCapitalManagementArticle() {
           <li>
             <strong>Electronic invoicing.</strong> Switch from mailed invoices
             to email with PDF attachments. Include a link to pay online via
-            ACH or credit card. This alone can reduce DSO by 5&ndash;10 days.
+            ACH or credit card. This alone can reduce DSO by 5-10 days.
           </li>
           <li>
             <strong>Automated reminders.</strong> Set up automated email
@@ -124,7 +124,7 @@ export default function WorkingCapitalManagementArticle() {
             default but have never tested Net 15 or payment on receipt.
           </li>
           <li>
-            Offer early payment discounts (e.g., 2/10 Net 30 &mdash; a 2%
+            Offer early payment discounts (e.g., 2/10 Net 30, a 2%
             discount for payment within 10 days). This effectively costs
             you 36% annualized, so use it selectively for large, slow-paying
             customers where the cash flow benefit outweighs the cost.
@@ -134,7 +134,7 @@ export default function WorkingCapitalManagementArticle() {
             them only as the relationship and credit history are established.
           </li>
           <li>
-            Require deposits or progress payments for large projects. A 25&ndash;
+            Require deposits or progress payments for large projects. A 25-
             50% deposit upfront dramatically reduces working capital needs on
             project-based work.
           </li>
@@ -188,7 +188,7 @@ export default function WorkingCapitalManagementArticle() {
           <li>
             Implement a perpetual inventory system if one does not exist. You
             cannot optimize what you cannot measure. Even a simple barcode
-            scanning system ($5K&ndash;$15K) pays for itself in reduced
+            scanning system ($5K-$15K) pays for itself in reduced
             shrinkage and better ordering decisions.
           </li>
           <li>
@@ -204,7 +204,7 @@ export default function WorkingCapitalManagementArticle() {
           While AR and inventory are about accelerating cash inflows and
           reducing cash tied up in operations, accounts payable (AP) is about
           strategically managing cash outflows. The goal is not to pay late
-          or damage supplier relationships &mdash; it is to use your full
+          or damage supplier relationships, it is to use your full
           payment terms effectively and negotiate better terms where possible.
         </p>
 
@@ -235,7 +235,7 @@ export default function WorkingCapitalManagementArticle() {
           <li>
             If a supplier offers 2/10 Net 30, paying early earns you an
             annualized return of approximately 36%. If you have the cash,
-            take the discount &mdash; it is one of the highest-return
+            take the discount, it is one of the highest-return
             investments available.
           </li>
           <li>
@@ -274,7 +274,7 @@ export default function WorkingCapitalManagementArticle() {
           </li>
           <li>
             Update the forecast weekly. Compare actual results to the forecast
-            and refine assumptions. After 8&ndash;12 weeks, your forecast
+            and refine assumptions. After 8-12 weeks, your forecast
             accuracy will improve significantly.
           </li>
           <li>
@@ -350,7 +350,7 @@ export default function WorkingCapitalManagementArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            Size the facility at 10&ndash;15% of annual revenue or one to two
+            Size the facility at 10-15% of annual revenue or one to two
             months of operating expenses, whichever is larger.
           </li>
           <li>
@@ -421,7 +421,7 @@ export default function WorkingCapitalManagementArticle() {
           <li>
             <strong>Switch to electronic invoicing</strong> as part of your{" "}
             <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation</Link>{" "}
-            with online payment options. This alone typically reduces DSO by 5&ndash;10 days.
+            with online payment options. This alone typically reduces DSO by 5-10 days.
           </li>
           <li>
             <strong>Review inventory</strong> and identify the bottom 20% of
@@ -449,7 +449,7 @@ export default function WorkingCapitalManagementArticle() {
           Working capital management is not glamorous, but it is one of the
           highest-impact activities a new CEO can undertake. The cash freed
           by better AR, inventory, and AP management often equals or exceeds
-          the annual debt service on the acquisition loan &mdash; effectively
+          the annual debt service on the acquisition loan, effectively
           funding the deal from operational improvements alone.
         </p>
 
@@ -457,17 +457,17 @@ export default function WorkingCapitalManagementArticle() {
 
         <h3 className={h3Class}>How much cash can working capital optimization realistically free up in a search fund acquisition?</h3>
         <p>
-          For a typical search fund acquisition of a $5M&ndash;$15M revenue business, disciplined working capital optimization can free $200K&ndash;$750K in cash within the first year. The Stanford 2024 Search Fund Study shows that top-quartile operators achieve 15&ndash;25% improvements in their cash conversion cycle during the first 18 months of ownership. The largest gains typically come from reducing DSO by 10&ndash;15 days through electronic invoicing and systematic collections, and from liquidating 6&ndash;12 months of dead inventory. These freed funds can be deployed toward debt paydown, which accelerates equity value creation.
+          For a typical search fund acquisition of a $5M-$15M revenue business, disciplined working capital optimization can free $200K-$750K in cash within the first year. The Stanford 2024 Search Fund Study shows that top-quartile operators achieve 15-25% improvements in their cash conversion cycle during the first 18 months of ownership. The largest gains typically come from reducing DSO by 10-15 days through electronic invoicing and systematic collections, and from liquidating 6-12 months of dead inventory. These freed funds can be deployed toward debt paydown, which accelerates equity value creation.
         </p>
 
         <h3 className={h3Class}>What is a good cash conversion cycle target for an acquired SME?</h3>
         <p>
-          The target depends heavily on industry. For B2B services businesses, a CCC of 30&ndash;45 days is considered healthy; for manufacturing and distribution, 45&ndash;75 days is typical. According to the Federal Reserve Bank&rsquo;s Small Business Credit Survey, the median SME has a CCC of approximately 60 days. If the business you acquire has a CCC above 75 days, there is almost certainly room for significant improvement. The key benchmarks to target are DSO below 40 days, DIO below 30 days (for non-manufacturing), and DPO at or above 30 days. Compare your metrics to industry peers using data from RMA Annual Statement Studies.
+          The target depends heavily on industry. For B2B services businesses, a CCC of 30-45 days is considered healthy; for manufacturing and distribution, 45-75 days is typical. According to the Federal Reserve Bank&rsquo;s Small Business Credit Survey, the median SME has a CCC of approximately 60 days. If the business you acquire has a CCC above 75 days, there is almost certainly room for significant improvement. The key benchmarks to target are DSO below 40 days, DIO below 30 days (for non-manufacturing), and DPO at or above 30 days. Compare your metrics to industry peers using data from RMA Annual Statement Studies.
         </p>
 
         <h3 className={h3Class}>Should a new CEO prioritize working capital optimization over revenue growth?</h3>
         <p>
-          In a leveraged acquisition, working capital optimization should generally be prioritized in the first 6&ndash;12 months because it generates immediate free cash flow that improves debt service coverage and reduces financial risk. Revenue growth initiatives &mdash; new sales hires, marketing spend, product development &mdash; require cash investment and take 12&ndash;24 months to generate returns. The optimal sequence, supported by research from Harvard Business School&rsquo;s search fund studies, is to stabilize operations and optimize working capital first, then reinvest the freed cash into{" "}
+          In a leveraged acquisition, working capital optimization should generally be prioritized in the first 6-12 months because it generates immediate free cash flow that improves debt service coverage and reduces financial risk. Revenue growth initiatives, new sales hires, marketing spend, product development, require cash investment and take 12-24 months to generate returns. The optimal sequence, supported by research from Harvard Business School&rsquo;s search fund studies, is to stabilize operations and optimize working capital first, then reinvest the freed cash into{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth initiatives</Link>{" "}
           from a position of financial strength.
         </p>
@@ -476,17 +476,17 @@ export default function WorkingCapitalManagementArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.fedsmallbusiness.org/survey" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Federal Reserve Banks &mdash; Small Business Credit Survey
+              Federal Reserve Banks, Small Business Credit Survey
             </a>
           </li>
           <li>
             <a href="https://www.rmahq.org/annual-statement-studies/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Risk Management Association (RMA) &mdash; Annual Statement Studies: Industry Financial Benchmarks
+              Risk Management Association (RMA), Annual Statement Studies: Industry Financial Benchmarks
             </a>
           </li>
         </ul>

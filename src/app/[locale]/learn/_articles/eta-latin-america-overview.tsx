@@ -17,7 +17,7 @@ export default function ETALatinAmericaOverviewArticle() {
           relatively low competition from institutional buyers. From the industrial powerhouses of
           Brazil and Mexico to the dynamic mid-sized economies of Colombia, Chile, Argentina, and
           Peru, Latin America presents diverse markets with distinct legal frameworks, cultural
-          norms, and financing landscapes&mdash;all united by a growing appetite for the search
+          norms, and financing landscapes, all united by a growing appetite for the search
           fund model.
         </p>
 
@@ -28,7 +28,7 @@ export default function ETALatinAmericaOverviewArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Massive succession wave:</strong> An estimated 70% of Latin American SMEs are family-owned, and a significant share of founders are approaching retirement age with no clear successor. Unlike in Europe or the US, the professional M&amp;A infrastructure to facilitate these transitions remains underdeveloped, creating wide-open deal flow for searchers.</li>
-          <li><strong>Lower entry multiples:</strong> Acquisition prices for profitable SMEs commonly range from 3x to 5x EBITDA&mdash;significantly below the 5x to 8x multiples seen in the United States and Northern <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe</Link>. This discount reflects both lower competition and higher perceived country risk, but it translates into superior equity returns when deals are structured well.</li>
+          <li><strong>Lower entry multiples:</strong> Acquisition prices for profitable SMEs commonly range from 3x to 5x EBITDA, significantly below the 5x to 8x multiples seen in the United States and Northern <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Europe</Link>. This discount reflects both lower competition and higher perceived country risk, but it translates into superior equity returns when deals are structured well.</li>
           <li><strong>Young, growing populations:</strong> Unlike the aging demographics of Europe and East Asia, Latin America&rsquo;s relatively youthful workforce provides a natural tailwind for consumer-facing and services businesses.</li>
           <li><strong>Digital transformation opportunities:</strong> Many Latin American SMEs operate with limited technology adoption, creating significant value-creation levers through operational improvements, CRM implementation, and e-commerce expansion.</li>
           <li><strong>Growing investor appetite:</strong> International search fund investors are increasingly allocating capital to Latin American deals. Our guide to <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding investors</Link> covers strategies for building these relationships.</li>
@@ -42,16 +42,16 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h3 className={h3Class}>Brazil</h3>
         <p>
-          As the largest economy in the region&mdash;accounting for roughly a third of Latin
-          America&rsquo;s total GDP&mdash;<Link href="/learn/eta-brazil" className="text-apple-accent hover:underline">Brazil</Link> offers
+          As the largest economy in the region, accounting for roughly a third of Latin
+          America&rsquo;s total GDP, <Link href="/learn/eta-brazil" className="text-apple-accent hover:underline">Brazil</Link> offers
           the deepest pool of acquisition targets. The country is home to an estimated six&nbsp;million
           SMEs, many concentrated in S&atilde;o Paulo, Minas Gerais, and the southern states. Key
           sectors include manufacturing, agribusiness services, healthcare clinics, education,
           logistics, and professional services.
         </p>
         <p>
-          Brazil&rsquo;s complexity&mdash;its labyrinthine tax system, labor regulations, and
-          bureaucratic environment&mdash;acts as a natural moat: it deters foreign institutional
+          Brazil&rsquo;s complexity, its labyrinthine tax system, labor regulations, and
+          bureaucratic environment, acts as a natural moat: it deters foreign institutional
           buyers but rewards locally grounded searchers. The Sociedade Limitada (Ltda.) is the
           most common corporate form for SMEs. Brazil&rsquo;s corporate tax burden, including IRPJ,
           CSLL, PIS, and COFINS, varies by regime (Simples Nacional, Lucro Presumido, or Lucro
@@ -109,7 +109,7 @@ export default function ETALatinAmericaOverviewArticle() {
           cultures in Latin America, combined with chronic macroeconomic instability, currency
           controls, and unpredictable regulatory changes. For searchers with high risk tolerance
           and deep local knowledge, Argentine SMEs can be acquired at extremely attractive
-          multiples&mdash;sometimes as low as 2x to 3x EBITDA&mdash;precisely because
+          multiples, sometimes as low as 2x to 3x EBITDA, precisely because
           institutional buyers have largely exited the market. Buenos Aires has a vibrant
           community of business school alumni (IAE, UTDT, UdeSA) who increasingly view ETA as a
           viable career path.
@@ -118,9 +118,9 @@ export default function ETALatinAmericaOverviewArticle() {
         <h2 className={h2Class}>The family business succession wave</h2>
         <p>
           Latin America&rsquo;s ETA opportunity is fundamentally driven by demographics. The
-          generation that built the region&rsquo;s SME market&mdash;founders who started
+          generation that built the region&rsquo;s SME market, founders who started
           businesses during the liberalization and privatization waves of the 1980s and
-          1990s&mdash;is now reaching retirement age. Unlike in Europe, where professional
+          1990s, is now reaching retirement age. Unlike in Europe, where professional
           business brokers and M&amp;A intermediaries handle many transitions, Latin America
           lacks the institutional infrastructure to facilitate orderly succession at scale.
         </p>
@@ -129,7 +129,7 @@ export default function ETALatinAmericaOverviewArticle() {
           and the number of qualified buyers. In many cases, the founder&rsquo;s children have
           pursued professional careers in banking, consulting, or technology and have no interest
           in running the family business. This dynamic creates both urgency and opportunity for
-          search fund entrepreneurs who can position themselves as credible successors&mdash;someone
+          search fund entrepreneurs who can position themselves as credible successors, someone
           who will preserve the company&rsquo;s legacy, retain employees, and invest in growth.
         </p>
         <p>
@@ -148,7 +148,7 @@ export default function ETALatinAmericaOverviewArticle() {
           schools, both regional and international.
         </p>
         <ul className={ulClass}>
-          <li><strong>IESE Business School (Barcelona):</strong> IESE has been the single most important catalyst for Latin American ETA. Its International Search Fund Study tracks deals across the region, and its alumni network&mdash;particularly graduates from Colombia, Mexico, Brazil, and Peru&mdash;has seeded many of the region&rsquo;s earliest search funds.</li>
+          <li><strong>IESE Business School (Barcelona):</strong> IESE has been the single most important catalyst for Latin American ETA. Its International Search Fund Study tracks deals across the region, and its alumni network, particularly graduates from Colombia, Mexico, Brazil, and Peru, has seeded many of the region&rsquo;s earliest search funds.</li>
           <li><strong>Stanford GSB:</strong> Stanford&rsquo;s Search Fund Primer and faculty research have shaped the model globally. Several Stanford alumni have launched Latin American search funds, often raising capital from US-based investors.</li>
           <li><strong>Universidad de los Andes (Colombia):</strong> The MBA program has developed dedicated ETA coursework and hosts an annual search fund conference that draws participants from across the Andean region.</li>
           <li><strong>IPADE and EGADE (Mexico):</strong> Mexico&rsquo;s leading business schools have begun integrating ETA into their curricula, with alumni pursuing both traditional and self-funded searches.</li>
@@ -164,11 +164,11 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h3 className={h3Class}>International search fund investors</h3>
         <p>
-          The majority of Latin American search funds to date have raised capital from US&ndash;
+          The majority of Latin American search funds to date have raised capital from US-
           and Europe-based search fund investors. These investors bring capital along with
           operational expertise, board governance experience, and connections to a global network.
-          The typical structure&mdash;raising $400K&ndash;$600K for the search phase, followed by a
-          separate acquisition raise&mdash;applies in Latin America, though search budgets may be
+          The typical structure, raising $400K-$600K for the search phase, followed by a
+          separate acquisition raise, applies in Latin America, though search budgets may be
           lower to reflect lower local costs.
         </p>
 
@@ -238,7 +238,7 @@ export default function ETALatinAmericaOverviewArticle() {
           <li><strong>Formality and hierarchy:</strong> Despite the warmth of social interactions, Latin American business culture can be hierarchical. Titles matter, and protocol should be observed in initial interactions. Addressing a business owner as &ldquo;Don Carlos&rdquo; or &ldquo;Do&ntilde;a Mar&iacute;a&rdquo; signals respect.</li>
           <li><strong>Language proficiency:</strong> Spanish fluency is non-negotiable for searching in Spanish-speaking markets. Portuguese fluency is equally essential in Brazil. Negotiations, relationship-building, and post-acquisition management all happen in the local language.</li>
           <li><strong>Legacy preservation:</strong> Founders care deeply about what happens to their employees, their brand, and their reputation in the local community. Demonstrating a genuine commitment to preserving the company&rsquo;s identity is often the deciding factor.</li>
-          <li><strong>Pace of business:</strong> Deal timelines in Latin America tend to be longer than in Anglo-Saxon markets. Relationships develop gradually, and rushing the process can be counterproductive. Budget for 18&ndash;30&nbsp;months from search launch to deal close.</li>
+          <li><strong>Pace of business:</strong> Deal timelines in Latin America tend to be longer than in Anglo-Saxon markets. Relationships develop gradually, and rushing the process can be counterproductive. Budget for 18-30&nbsp;months from search launch to deal close.</li>
         </ul>
 
         <h2 className={h2Class}>Emerging success stories</h2>
@@ -300,10 +300,10 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h2 className={h2Class}>Practical advice for Latin American searchers</h2>
         <ol className={olClass}>
-          <li><strong>Choose your market carefully:</strong> Each Latin American country has a distinct risk&ndash;reward profile. First-time searchers with lower risk tolerance may prefer Chile or Colombia, while experienced operators with local knowledge may find Argentina or Brazil more rewarding.</li>
+          <li><strong>Choose your market carefully:</strong> Each Latin American country has a distinct risk-reward profile. First-time searchers with lower risk tolerance may prefer Chile or Colombia, while experienced operators with local knowledge may find Argentina or Brazil more rewarding.</li>
           <li><strong>Build local networks before launching:</strong> Spend time in your target market before raising capital. Attend industry events, connect with local business school alumni, and develop relationships with intermediaries who can refer deal flow.</li>
-          <li><strong>Engage local legal and tax counsel early:</strong> The regulatory complexity of Latin American markets demands specialized local expertise. Do not rely solely on international law firms&mdash;engage practitioners who work with SMEs daily.</li>
-          <li><strong>Plan for longer timelines:</strong> Deal processes in Latin America typically take longer than in the US or Europe. Budget for a 20&ndash;30&nbsp;month search period and ensure your search fund capitalization reflects this reality.</li>
+          <li><strong>Engage local legal and tax counsel early:</strong> The regulatory complexity of Latin American markets demands specialized local expertise. Do not rely solely on international law firms, engage practitioners who work with SMEs daily.</li>
+          <li><strong>Plan for longer timelines:</strong> Deal processes in Latin America typically take longer than in the US or Europe. Budget for a 20-30&nbsp;month search period and ensure your search fund capitalization reflects this reality.</li>
           <li><strong>Diversify your investor base:</strong> Combine international search fund investors (for capital and global best practices) with local investors (for on-the-ground knowledge and networks). This blended approach maximizes both financial and strategic support.</li>
           <li><strong>Prioritize compliance and formalization:</strong> One of the most impactful post-acquisition initiatives is often bringing the business into full tax and labor compliance. While this may increase short-term costs, it de-risks the business and positions the company for future growth or exit.</li>
           <li><strong>Manage currency exposure:</strong> Structure your deal with currency risk in mind. Consider local-currency debt, revenue diversification, and natural hedging strategies to mitigate foreign exchange risk.</li>
@@ -314,7 +314,7 @@ export default function ETALatinAmericaOverviewArticle() {
           Compared to <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European ETA markets</Link>,
           Latin America offers lower entry multiples and less competition but higher country risk
           and less developed financing infrastructure. Compared to the United States, the region
-          provides a wider open field for first-time acquirers&mdash;the US search fund market has
+          provides a wider open field for first-time acquirers, the US search fund market has
           become increasingly competitive, with hundreds of active searchers targeting a finite
           pool of quality businesses. Latin America&rsquo;s searcher-to-target ratio remains
           highly favorable, though this advantage will narrow as the ecosystem matures.
@@ -323,7 +323,7 @@ export default function ETALatinAmericaOverviewArticle() {
           The cultural and linguistic barriers that limit foreign competition in Latin America
           also create a moat for searchers who invest in building deep local expertise. A
           Colombian-born, IESE-educated searcher operating in Bogot&aacute; has structural
-          advantages that no foreign fund can easily replicate&mdash;language fluency, cultural
+          advantages that no foreign fund can easily replicate, language fluency, cultural
           intuition, local networks, and the ability to build trust with founders who are selling
           their life&rsquo;s work.
         </p>
@@ -333,14 +333,14 @@ export default function ETALatinAmericaOverviewArticle() {
           Latin America&rsquo;s ETA ecosystem is at an inflection point. The number of active
           searchers, completed deals, and dedicated investors has grown dramatically over the past
           five years, and the trend is accelerating. As more success stories emerge and the model
-          becomes better understood by business owners, the flywheel effect will strengthen&mdash;more
+          becomes better understood by business owners, the flywheel effect will strengthen, more
           searchers attract more investors, which funds more deals, which produces more success
           stories, which inspires more searchers.
         </p>
         <p>
-          The continent&rsquo;s structural advantages&mdash;a massive succession wave, low
+          The continent&rsquo;s structural advantages, a massive succession wave, low
           competition, attractive valuations, and untapped operational improvement
-          potential&mdash;are not going away. For searchers willing to embrace the complexity,
+          potential, are not going away. For searchers willing to embrace the complexity,
           build deep local relationships, and take a long-term view, Latin America offers the kind
           of asymmetric opportunity that defined ETA&rsquo;s early days in the United States and is
           now unfolding in{" "}
@@ -348,7 +348,7 @@ export default function ETALatinAmericaOverviewArticle() {
           and beyond.
         </p>
         <p>
-          Whether you are a Latin American professional returning home after an MBA, a US&ndash;
+          Whether you are a Latin American professional returning home after an MBA, a US-
           or Europe-based searcher looking to differentiate through geography, or a local
           entrepreneur seeking a proven path to business ownership, the Latin American ETA
           market deserves serious consideration. The opportunity window is open, the ecosystem
@@ -360,17 +360,17 @@ export default function ETALatinAmericaOverviewArticle() {
 
         <h3 className={h3Class}>How many search funds have been launched in Latin America, and what are their returns?</h3>
         <p>
-          According to IESE Business School&rsquo;s 2024 International Search Fund Study, Latin America has seen over 80 search funds launched since 2010, with the majority concentrated in Colombia, Mexico, Brazil, and Chile. The study reports that Latin American search funds have generated aggregate returns comparable to or above their US and European counterparts, with median IRRs in the 25&ndash;35% range for completed deals. This performance reflects the combination of lower entry multiples (3x to 5x EBITDA versus 5x to 8x in the US), significant operational improvement opportunities, and growing exit options as the mid-market M&amp;A ecosystem matures. Colombia has produced the largest number of completed deals, driven by the IESE and Universidad de los Andes alumni networks and a growing base of <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">local and international investors</Link>.
+          According to IESE Business School&rsquo;s 2024 International Search Fund Study, Latin America has seen over 80 search funds launched since 2010, with the majority concentrated in Colombia, Mexico, Brazil, and Chile. The study reports that Latin American search funds have generated aggregate returns comparable to or above their US and European counterparts, with median IRRs in the 25-35% range for completed deals. This performance reflects the combination of lower entry multiples (3x to 5x EBITDA versus 5x to 8x in the US), significant operational improvement opportunities, and growing exit options as the mid-market M&amp;A ecosystem matures. Colombia has produced the largest number of completed deals, driven by the IESE and Universidad de los Andes alumni networks and a growing base of <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">local and international investors</Link>.
         </p>
 
         <h3 className={h3Class}>What are the biggest risks of acquiring a business in Latin America compared to the US or Europe?</h3>
         <p>
-          According to the World Bank&rsquo;s Doing Business indicators and the Inter-American Development Bank (IDB), the primary risks for Latin American acquisitions include: (1) currency volatility, with major Latin American currencies experiencing 10&ndash;30% annual fluctuations against the USD over the past decade; (2) informal economy practices, where even formally incorporated businesses may have unreported cash transactions or informal employment arrangements; (3) political and regulatory instability, which varies by country but can include capital controls (Argentina), tax reform (Colombia, Brazil), and judicial uncertainty (Mexico); (4) weaker contract enforcement, with court proceedings averaging 2&ndash;4 years in most markets; and (5) infrastructure gaps in logistics, power, and connectivity outside major cities. Thorough <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, local legal counsel, and currency hedging strategies are essential mitigants.
+          According to the World Bank&rsquo;s Doing Business indicators and the Inter-American Development Bank (IDB), the primary risks for Latin American acquisitions include: (1) currency volatility, with major Latin American currencies experiencing 10-30% annual fluctuations against the USD over the past decade; (2) informal economy practices, where even formally incorporated businesses may have unreported cash transactions or informal employment arrangements; (3) political and regulatory instability, which varies by country but can include capital controls (Argentina), tax reform (Colombia, Brazil), and judicial uncertainty (Mexico); (4) weaker contract enforcement, with court proceedings averaging 2-4 years in most markets; and (5) infrastructure gaps in logistics, power, and connectivity outside major cities. Thorough <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, local legal counsel, and currency hedging strategies are essential mitigants.
         </p>
 
         <h3 className={h3Class}>Do I need to speak Spanish or Portuguese to run a search fund in Latin America?</h3>
         <p>
-          Full professional fluency in Spanish (for Spanish-speaking markets) or Portuguese (for Brazil) is effectively non-negotiable. According to IESE&rsquo;s research on Latin American search funds, every successful searcher in the region has had native or near-native proficiency in the local language. Business negotiations, relationship-building with founders, employee management, and customer interactions all occur in the local language. The cultural dimension of <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> in Latin America&mdash;where personal trust (confianza) is the foundation of every deal&mdash;makes language proficiency inseparable from commercial effectiveness. Some searchers of Latin American heritage who grew up abroad have successfully used their cultural fluency even when their business-language skills required development, but they invested heavily in immersion before launching their search.
+          Full professional fluency in Spanish (for Spanish-speaking markets) or Portuguese (for Brazil) is effectively non-negotiable. According to IESE&rsquo;s research on Latin American search funds, every successful searcher in the region has had native or near-native proficiency in the local language. Business negotiations, relationship-building with founders, employee management, and customer interactions all occur in the local language. The cultural dimension of <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA</Link> in Latin America, where personal trust (confianza) is the foundation of every deal, makes language proficiency inseparable from commercial effectiveness. Some searchers of Latin American heritage who grew up abroad have successfully used their cultural fluency even when their business-language skills required development, but they invested heavily in immersion before launching their search.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

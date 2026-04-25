@@ -374,12 +374,12 @@ export default function ETAvsPrivateEquityArticle() {
         <h2 className={h2Class}>Frequently Asked Questions</h2>
         <h3 className={h3Class}>How is ETA different from private equity?</h3>
         <p>
-          ETA targets smaller deals ($1&ndash;20M enterprise value vs. $100M+ for PE),
+          ETA targets smaller deals ($1-20M enterprise value vs. $100M+ for PE),
           involves a single operator-CEO rather than a professional management team,
           uses step-up equity instead of 2/20 fee structures, and focuses on one
           business at a time. The operator is deeply aligned through personal equity
           and earns outsized returns only when investors earn outsized returns.
-          There are no management fees in ETA, whereas PE firms charge 1.5&ndash;2%
+          There are no management fees in ETA, whereas PE firms charge 1.5-2%
           annually regardless of performance. For a deeper understanding of ETA
           mechanics, see our guide on{" "}
           <Link href="/learn/what-is-a-search-fund" className="text-apple-accent hover:underline">what is a search fund</Link>.
@@ -389,7 +389,7 @@ export default function ETAvsPrivateEquityArticle() {
         <p>
           On an IRR basis, search funds have historically outperformed PE. The
           2024 Stanford study reports median pre-tax IRR of approximately 33%
-          for search funds versus 14&ndash;18% median net IRR for traditional PE.
+          for search funds versus 14-18% median net IRR for traditional PE.
           However, PE offers larger absolute returns per fund, more
           diversification, and greater liquidity. The comparison depends on
           the investor&apos;s portfolio construction goals: PE for scale and
@@ -400,9 +400,9 @@ export default function ETAvsPrivateEquityArticle() {
         <h3 className={h3Class}>Can I invest in both ETA and PE?</h3>
         <p>
           Yes, and many sophisticated investors do exactly that. A typical
-          approach allocates 60&ndash;70% of private equity capital to
+          approach allocates 60-70% of private equity capital to
           traditional PE funds for diversified, institutional-quality
-          exposure and 20&ndash;30% across 10&ndash;20 search fund investments
+          exposure and 20-30% across 10-20 search fund investments
           per vintage year for high-IRR alpha. The low correlation between
           individual search fund outcomes and broader PE market cycles adds
           genuine diversification benefit to the overall portfolio. Learn

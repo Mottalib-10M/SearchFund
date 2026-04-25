@@ -18,7 +18,7 @@ export default function ETAUSFR() {
           bien établie, dotée d&apos;un écosystème robuste d&apos;investisseurs, de
           conseillers, de prêteurs et de programmes universitaires. Pour un
           entrepreneur-acquéreur français ou européen, comprendre les
-          spécificités du marché américain est essentiel &mdash; non seulement
+          spécificités du marché américain est essentiel, non seulement
           pour y envisager une recherche, mais aussi pour en tirer des
           enseignements applicables à l&apos;écosystème européen. Si vous
           découvrez l&apos;ETA, commencez par notre{" "}
@@ -63,11 +63,11 @@ export default function ETAUSFR() {
           Au cours des décennies suivantes, le modèle a prouvé sa robustesse.
           Le Center for Entrepreneurial Studies de Stanford a suivi la
           performance des search funds depuis les années 1990, publiant des
-          études biennales &mdash; dont la plus récente est l&apos;
+          études biennales, dont la plus récente est l&apos;
           <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">
             étude Stanford 2024
           </Link>{" "}
-          &mdash; qui sont devenues la référence absolue du secteur. Les
+          qui sont devenues la référence absolue du secteur. Les
           données ont montré de manière constante que les search funds
           produisent des rendements attractifs pour les investisseurs, avec
           des TRI historiques médians significativement supérieurs à ceux du
@@ -211,7 +211,7 @@ export default function ETAUSFR() {
           Le choix entre LLC et C-Corp dépend de plusieurs facteurs&nbsp;: la
           préférence fiscale des investisseurs, la complexité de la
           structure capitalistique souhaitée, l&apos;éligibilité aux avantages
-          fiscaux (notamment le QSBS &mdash; Qualified Small Business Stock,
+          fiscaux (notamment le QSBS, Qualified Small Business Stock,
           qui permet une exonération significative des plus-values), et la
           perspective de sortie envisagée.
         </p>
@@ -393,7 +393,7 @@ export default function ETAUSFR() {
           La relation entre acquéreur et cédant est aussi différente. Aux
           États-Unis, la transaction est souvent vue comme un événement
           commercial rationnel. En France et en Europe du Sud, la dimension
-          émotionnelle de la transmission est plus prononcée &mdash;
+          émotionnelle de la transmission est plus prononcée , 
           l&apos;attachement du fondateur à &laquo;&nbsp;son&nbsp;&raquo;
           entreprise, à ses salariés et à son héritage nécessite une approche
           relationnelle plus fine de la part du searcher.
@@ -442,7 +442,7 @@ export default function ETAUSFR() {
           U.S. Small Business Administration &mdash; <em>SBA 7(a) Loan Program Overview</em>, 2024.
         </li>
         <li>
-          Harvard Business School &mdash; Ruback, R. &amp; Yudkoff, R., <em>HBR Guide to Buying a Small Business</em>.
+          Harvard Business School, Ruback, R. &amp; Yudkoff, R., <em>HBR Guide to Buying a Small Business</em>.
         </li>
         <li>
           IESE Business School &mdash; <em>International Search Fund Study</em>, 2024.

@@ -15,10 +15,10 @@ export default function ChoosingBuyerTypesArticle() {
           types: search fund entrepreneurs, private equity firms, and
           strategic acquirers. Each offers different pricing, terms, and
           post-acquisition outcomes. This guide helps you choose the right
-          buyer based on your priorities &mdash; price, legacy, employees,
+          buyer based on your priorities, price, legacy, employees,
           speed, or deal certainty. According to Bain &amp; Company&rsquo;s
           2024 Global Private Equity Report, the number of PE firms
-          targeting lower-middle-market deals ($10M&ndash;$100M enterprise
+          targeting lower-middle-market deals ($10M-$100M enterprise
           value) has more than doubled over the past decade, giving sellers
           more options but making the buyer-type decision more complex.
         </p>
@@ -36,9 +36,9 @@ export default function ChoosingBuyerTypesArticle() {
         <h2 className={h2Class}>Search fund buyers</h2>
         <ul className={ulClass}>
           <li><strong>Who they are:</strong> Individual entrepreneurs (often MBA graduates) backed by committed investors. They buy one business and operate it as CEO</li>
-          <li><strong>Deal size:</strong> $1M&ndash;$20M enterprise value ($500K&ndash;$5M EBITDA)</li>
-          <li><strong>Typical multiple:</strong> 4&ndash;6x EBITDA</li>
-          <li><strong>Hold period:</strong> 5&ndash;8 years</li>
+          <li><strong>Deal size:</strong> $1M-$20M enterprise value ($500K-$5M EBITDA)</li>
+          <li><strong>Typical multiple:</strong> 4-6x EBITDA</li>
+          <li><strong>Hold period:</strong> 5-8 years</li>
           <li><strong>Best for sellers who:</strong> Care about employee welfare, company legacy, and working with an individual rather than a corporation</li>
           <li><strong>Pros:</strong> Personal attention, long-term commitment, employee retention priority, continuity of business name and culture</li>
           <li><strong>Cons:</strong> May offer lower headline price than PE or strategics for larger businesses. Longer due diligence (investor approval required)</li>
@@ -52,8 +52,8 @@ export default function ChoosingBuyerTypesArticle() {
         <ul className={ulClass}>
           <li><strong>Who they are:</strong> Investment firms that buy businesses using investor capital and debt. Managed by professional deal teams</li>
           <li><strong>Deal size:</strong> $10M+ enterprise value ($2M+ EBITDA for lower middle market PE)</li>
-          <li><strong>Typical multiple:</strong> 5&ndash;8x EBITDA (higher for larger, growing businesses)</li>
-          <li><strong>Hold period:</strong> 3&ndash;5 years (fund lifecycle driven)</li>
+          <li><strong>Typical multiple:</strong> 5-8x EBITDA (higher for larger, growing businesses)</li>
+          <li><strong>Hold period:</strong> 3-5 years (fund lifecycle driven)</li>
           <li><strong>Best for sellers who:</strong> Want the highest possible price and are less concerned about long-term legacy</li>
           <li><strong>Pros:</strong> Higher valuations (especially for $5M+ EBITDA businesses), professional process, access to growth capital</li>
           <li><strong>Cons:</strong> Management changes likely, focus on cost reduction, may consolidate with other portfolio companies, shorter time horizon. The buyer is a fund, not a person</li>
@@ -63,7 +63,7 @@ export default function ChoosingBuyerTypesArticle() {
         <ul className={ulClass}>
           <li><strong>Who they are:</strong> Companies in your industry or adjacent industries that acquire businesses for strategic reasons (market share, geography, capabilities, talent)</li>
           <li><strong>Deal size:</strong> Any size</li>
-          <li><strong>Typical multiple:</strong> 4&ndash;10x EBITDA (highest for businesses with strong strategic fit)</li>
+          <li><strong>Typical multiple:</strong> 4-10x EBITDA (highest for businesses with strong strategic fit)</li>
           <li><strong>Hold period:</strong> Permanent (integrated into the acquirer)</li>
           <li><strong>Best for sellers who:</strong> Want the highest possible price and don&rsquo;t mind the business being absorbed into a larger company</li>
           <li><strong>Pros:</strong> Often pay the highest multiples due to synergies (cost savings, cross-selling, market access)</li>
@@ -73,8 +73,8 @@ export default function ChoosingBuyerTypesArticle() {
         <h2 className={h2Class}>Individual buyers (no institutional backing)</h2>
         <ul className={ulClass}>
           <li><strong>Who they are:</strong> Individuals buying a business to operate, without institutional investor backing</li>
-          <li><strong>Deal size:</strong> $100K&ndash;$5M enterprise value</li>
-          <li><strong>Typical multiple:</strong> 2&ndash;4x EBITDA or SDE</li>
+          <li><strong>Deal size:</strong> $100K-$5M enterprise value</li>
+          <li><strong>Typical multiple:</strong> 2-4x EBITDA or SDE</li>
           <li><strong>Pros:</strong> May offer the most personal attention, willing to learn from you</li>
           <li><strong>Cons:</strong> Financing uncertainty is the biggest risk. Many individual buyers cannot close because they fail to secure financing. Deal certainty is the lowest of all buyer types</li>
         </ul>
@@ -128,15 +128,15 @@ export default function ChoosingBuyerTypesArticle() {
 
         <h2 className={h2Class}>Running a competitive process</h2>
         <ul className={ulClass}>
-          <li><strong>Why:</strong> Competition increases price by 10&ndash;20% and improves deal terms</li>
+          <li><strong>Why:</strong> Competition increases price by 10-20% and improves deal terms</li>
           <li><strong>How:</strong> Work with a broker or M&amp;A advisor to approach multiple buyer types simultaneously</li>
-          <li><strong>Mix of buyers:</strong> The best processes include 2&ndash;3 buyer types (at least one search fund, one PE, one strategic) to create genuine competition</li>
-          <li><strong>Timeline:</strong> Expect 6&ndash;9 months from initial marketing to close</li>
+          <li><strong>Mix of buyers:</strong> The best processes include 2-3 buyer types (at least one search fund, one PE, one strategic) to create genuine competition</li>
+          <li><strong>Timeline:</strong> Expect 6-9 months from initial marketing to close</li>
         </ul>
         <p>
           Stanford&rsquo;s 2024 Search Fund Study reports that search fund
-          acquisitions have a median close timeline of 7&ndash;9 months from
-          initial contact, compared to 4&ndash;6 months for well-funded PE
+          acquisitions have a median close timeline of 7-9 months from
+          initial contact, compared to 4-6 months for well-funded PE
           firms. However, search fund buyers have among the highest
           completion rates once an LOI is signed, because their investors
           have pre-committed capital for the acquisition.
@@ -146,10 +146,10 @@ export default function ChoosingBuyerTypesArticle() {
 
         <h3 className={h3Class}>Who pays the most for a small business?</h3>
         <p>
-          Strategic acquirers often pay the highest multiples (4&ndash;10x
+          Strategic acquirers often pay the highest multiples (4-10x
           EBITDA) because they can realize cost savings and revenue
-          synergies. PE firms pay 5&ndash;8x for larger businesses ($5M+
-          EBITDA). Search funds typically pay 4&ndash;6x but offer better
+          synergies. PE firms pay 5-8x for larger businesses ($5M+
+          EBITDA). Search funds typically pay 4-6x but offer better
           terms for employee protection and legacy continuity.
         </p>
 
@@ -157,10 +157,10 @@ export default function ChoosingBuyerTypesArticle() {
         <p>
           Choose a search fund if you prioritize employee retention,
           company legacy, and working with an individual who will operate
-          the business for 5&ndash;8 years. Choose PE if you want the
+          the business for 5-8 years. Choose PE if you want the
           highest possible price and are less concerned about potential
           management changes, cost restructuring, and a shorter
-          3&ndash;5 year hold period.
+          3-5 year hold period.
         </p>
 
         <h3 className={h3Class}>What is the biggest risk of selling to an individual buyer?</h3>

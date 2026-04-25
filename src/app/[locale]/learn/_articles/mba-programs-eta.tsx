@@ -374,7 +374,7 @@ export default function MBAProgramsETAArticle() {
 
         <h3 className={h3Class}>Do I need an MBA to start a search fund?</h3>
         <p className={bodyClass}>
-          No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds including consulting, investment banking, military service, and operating roles. Self-funded searchers, in particular, are less likely to have MBAs. The key advantages an MBA provides &mdash; investor networks, peer community, and structured learning &mdash; can be partially replicated through industry conferences, search fund accelerators, and mentorship relationships. However, for traditional search funds that raise investor capital, an MBA from a recognized program significantly eases the fundraising process.
+          No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds including consulting, investment banking, military service, and operating roles. Self-funded searchers, in particular, are less likely to have MBAs. The key advantages an MBA provides, investor networks, peer community, and structured learning, can be partially replicated through industry conferences, search fund accelerators, and mentorship relationships. However, for traditional search funds that raise investor capital, an MBA from a recognized program significantly eases the fundraising process.
         </p>
 
         <h3 className={h3Class}>When should I start preparing for ETA during my MBA?</h3>
@@ -384,7 +384,7 @@ export default function MBAProgramsETAArticle() {
 
         <h3 className={h3Class}>How much does an MBA cost, and does the ROI make sense for ETA?</h3>
         <p className={bodyClass}>
-          Top MBA programs cost $150,000&ndash;$230,000 in tuition alone, plus $80,000&ndash;$120,000 in opportunity cost from two years of foregone income. Total investment is typically $300,000&ndash;$400,000. The ROI depends on whether you successfully raise a search fund and complete an acquisition. Successful searchers typically earn $100,000&ndash;$150,000 during the search phase and hold 20&ndash;30% equity in the acquired company, which can be worth $2M&ndash;$10M+ at a successful exit. The expected value is attractive but comes with meaningful risk, as roughly 25% of funded searches do not complete an acquisition.
+          Top MBA programs cost $150,000-$230,000 in tuition alone, plus $80,000-$120,000 in opportunity cost from two years of foregone income. Total investment is typically $300,000-$400,000. The ROI depends on whether you successfully raise a search fund and complete an acquisition. Successful searchers typically earn $100,000-$150,000 during the search phase and hold 20-30% equity in the acquired company, which can be worth $2M-$10M+ at a successful exit. The expected value is attractive but comes with meaningful risk, as roughly 25% of funded searches do not complete an acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

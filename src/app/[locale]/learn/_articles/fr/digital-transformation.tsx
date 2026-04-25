@@ -54,7 +54,7 @@ export default function DigitalTransformationFR() {
           relation client directe, a sous-investi dans les outils
           numériques. La digitalisation post-acquisition permet de réaliser
           des gains de productivité rapides, d&apos;améliorer la qualité du
-          pilotage et d&apos;ouvrir de nouveaux canaux de croissance &mdash;
+          pilotage et d&apos;ouvrir de nouveaux canaux de croissance , 
           autant de leviers qui se traduisent directement en création de
           valeur.
         </p>
@@ -179,7 +179,7 @@ export default function DigitalTransformationFR() {
           croissance particulièrement puissant pour les PME de négoce, de
           distribution et de fabrication. En France, la vente en ligne B2B
           connaît une croissance soutenue, tirée par l&apos;évolution des
-          habitudes d&apos;achat des professionnels &mdash; qui attendent désormais
+          habitudes d&apos;achat des professionnels, qui attendent désormais
           la même expérience d&apos;achat en ligne que dans leur vie personnelle.
         </p>
 
@@ -227,7 +227,7 @@ export default function DigitalTransformationFR() {
       <h2 className={h2Class}>Chantier 4&nbsp;: automatisation des processus</h2>
       <div className={bodyClass}>
         <p>
-          L&apos;automatisation des processus métier (aussi appelée RPA &mdash;
+          L&apos;automatisation des processus métier (aussi appelée RPA , 
           Robotic Process Automation, ou plus simplement automatisation des
           tâches répétitives) est un levier de productivité considérable pour
           les PME. Les processus candidats à l&apos;automatisation sont ceux qui
@@ -265,7 +265,7 @@ export default function DigitalTransformationFR() {
           des fonctionnalités d&apos;automatisation accessibles aux PME, avec des
           connecteurs prêts à l&apos;emploi entre les applications courantes.
           L&apos;enjeu principal est la cartographie des processus existants et
-          l&apos;identification des tâches à automatiser en priorité &mdash; celles
+          l&apos;identification des tâches à automatiser en priorité, celles
           qui mobilisent le plus de temps pour la plus faible valeur ajoutée.
         </p>
       </div>

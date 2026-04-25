@@ -16,8 +16,8 @@ export default function ETASpainArticle() {
           faces a generational succession crisis that creates enormous deal flow
           for aspiring acquirers. Lower entry multiples compared to Northern
           Europe, combined with improving institutional support and the
-          influential role of IESE Business School, make Spain&mdash;and the
-          broader Iberian Peninsula including Portugal&mdash;an increasingly
+          influential role of IESE Business School, make Spain, and the
+          broader Iberian Peninsula including Portugal, an increasingly
           attractive destination for search fund entrepreneurs.
         </p>
 
@@ -36,7 +36,7 @@ export default function ETASpainArticle() {
           Many of these businesses are concentrated in traditional sectors such
           as manufacturing, food and agriculture, distribution, professional
           services, and construction-adjacent industries. While Spain&apos;s economy
-          suffered significantly during the 2008&ndash;2014 financial crisis,
+          suffered significantly during the 2008-2014 financial crisis,
           the businesses that survived are often well-managed, lean operations
           with loyal customer bases and experienced workforces. This resilience
           makes them attractive acquisition targets.
@@ -119,7 +119,7 @@ export default function ETASpainArticle() {
         <p>
           Seller financing is less culturally embedded in Spain than in France
           or the UK, but it is becoming more common as the search fund model
-          gains traction. Vendors are often willing to defer 10&ndash;20% of
+          gains traction. Vendors are often willing to defer 10-20% of
           the purchase price over one to three years, particularly when the
           buyer demonstrates a genuine commitment to preserving the business
           and its employees.
@@ -135,7 +135,7 @@ export default function ETASpainArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Supply-demand imbalance:</strong> The sheer volume of businesses facing succession issues creates a buyer&apos;s market, particularly outside Madrid and Barcelona.</li>
-          <li><strong>Limited acquirer ecosystem:</strong> While private equity has become active in Spain&apos;s mid-market, the micro-cap space (&euro;500K&ndash;&euro;3M EBITDA) remains underserved by institutional buyers.</li>
+          <li><strong>Limited acquirer ecosystem:</strong> While private equity has become active in Spain&apos;s mid-market, the micro-cap space (&euro;500K-&euro;3M EBITDA) remains underserved by institutional buyers.</li>
           <li><strong>Information asymmetry:</strong> Many Spanish SMEs lack audited financial statements and have complex tax histories, which deters larger institutional buyers and creates opportunities for hands-on searchers willing to do deep diligence.</li>
           <li><strong>Regional opportunities:</strong> Businesses outside Madrid, Barcelona, and Bilbao often trade at even lower multiples due to the smaller pool of local acquirers.</li>
         </ul>
@@ -216,7 +216,7 @@ export default function ETASpainArticle() {
           (Impuesto sobre Transmisiones Patrimoniales) and VAT, making share
           purchases tax-efficient. Asset purchases, however, may trigger
           Transfer Tax at rates varying by autonomous community (typically
-          6&ndash;10%).
+          6-10%).
         </p>
 
         <h2 className={h2Class}>The growing Iberian ecosystem</h2>
@@ -253,7 +253,7 @@ export default function ETASpainArticle() {
           and hosts the annual IESE Search Fund Conference. Spain has produced
           more European search fund entrepreneurs than any other country,
           supported by a strong investor ecosystem and over two million
-          businesses needing succession. Lower entry multiples (3x&ndash;5x EBITDA)
+          businesses needing succession. Lower entry multiples (3x-5x EBITDA)
           compared to Northern Europe make the market particularly accessible
           for first-time acquirers.
         </p>

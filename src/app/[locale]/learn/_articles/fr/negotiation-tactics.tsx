@@ -96,7 +96,7 @@ export default function NegotiationTacticsFR() {
         <p>
           La négociation d&apos;une acquisition ne se résume pas à un
           marchandage sur le prix. Le prix n&apos;est qu&apos;une composante
-          &mdash; certes importante &mdash; d&apos;un ensemble de conditions
+         , certes importante, d&apos;un ensemble de conditions
           qui déterminent la réalité économique de la transaction pour chaque
           partie. Un repreneur habile négocie le &laquo;&nbsp;package&nbsp;&raquo;
           global, en jouant sur les leviers suivants&nbsp;:
@@ -107,8 +107,8 @@ export default function NegotiationTacticsFR() {
           Le prix facial (affiché dans le protocole de cession) et le prix
           effectif (réellement payé, compte tenu des ajustements et des
           différés) peuvent être significativement différents. Le repreneur
-          peut accepter un prix facial élevé &mdash; satisfaisant l&apos;ego
-          et les besoins patrimoniaux du cédant &mdash; tout en négociant des
+          peut accepter un prix facial élevé, satisfaisant l&apos;ego
+          et les besoins patrimoniaux du cédant, tout en négociant des
           conditions qui réduisent le prix effectif&nbsp;:
         </p>
         <ul className={ulClass}>
@@ -246,8 +246,8 @@ export default function NegotiationTacticsFR() {
         <h3 className={h3Class}>Créer de la valeur pour les deux parties</h3>
         <p>
           La négociation gagnante n&apos;est pas un jeu à somme nulle. Le
-          repreneur doit identifier les priorités du cédant &mdash; qui ne
-          sont pas toujours le prix &mdash; et proposer des solutions qui
+          repreneur doit identifier les priorités du cédant, qui ne
+          sont pas toujours le prix, et proposer des solutions qui
           satisfont les deux parties&nbsp;:
         </p>
         <ul className={ulClass}>
@@ -427,7 +427,7 @@ export default function NegotiationTacticsFR() {
           Ordre des Avocats de Paris &mdash; <em>La Garantie d&apos;Actif et de Passif&nbsp;: Guide Pratique</em>, 2024.
         </li>
         <li>
-          Code de Commerce &mdash; Articles L.141-1 et suivants (cession de fonds de commerce), articles L.2312-8 et suivants (consultation du CSE).
+          Code de Commerce, Articles L.141-1 et suivants (cession de fonds de commerce), articles L.2312-8 et suivants (consultation du CSE).
         </li>
       </ul>
     </article>

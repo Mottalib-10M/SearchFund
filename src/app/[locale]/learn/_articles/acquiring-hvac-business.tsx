@@ -36,10 +36,10 @@ export default function AcquiringHVACBusinessArticle() {
 
         <h2 className={h2Class}>Why HVAC is an ideal ETA target</h2>
         <ul className={ulClass}>
-          <li><strong>Essential service:</strong> Heating and cooling are non-discretionary &mdash; HVAC demand is recession-resistant. People will defer a vacation before going without heat in January or AC in August.</li>
-          <li><strong>Recurring revenue:</strong> Maintenance contracts (service agreements) provide predictable, high-margin recurring revenue streams, typically 20&ndash;40% of total revenue for well-run companies.</li>
+          <li><strong>Essential service:</strong> Heating and cooling are non-discretionary, HVAC demand is recession-resistant. People will defer a vacation before going without heat in January or AC in August.</li>
+          <li><strong>Recurring revenue:</strong> Maintenance contracts (service agreements) provide predictable, high-margin recurring revenue streams, typically 20-40% of total revenue for well-run companies.</li>
           <li><strong>Fragmented market:</strong> According to IBISWorld, the US HVAC market exceeds $150 billion in annual revenue, served by tens of thousands of small operators. The top 10 companies hold less than 15% market share, creating enormous consolidation opportunity.</li>
-          <li><strong>Strong margins:</strong> Well-managed HVAC companies generate 12&ndash;20% EBITDA margins on service/maintenance and 8&ndash;15% on installation work.</li>
+          <li><strong>Strong margins:</strong> Well-managed HVAC companies generate 12-20% EBITDA margins on service/maintenance and 8-15% on installation work.</li>
           <li><strong>Succession urgency:</strong> Data from ACHR News indicates that the average HVAC company owner is 58+ years old. Thousands of profitable HVAC businesses will change hands in the next decade as baby boomer owners retire without internal successors.</li>
           <li><strong>Scalable operations:</strong> HVAC operations can be systematized through dispatching software, inventory management, and standardized training, enabling efficient multi-location scaling.</li>
         </ul>
@@ -50,10 +50,10 @@ export default function AcquiringHVACBusinessArticle() {
           mix, and market position:
         </p>
         <ul className={ulClass}>
-          <li><strong>Small operators (&lt;$2M revenue):</strong> 2&ndash;3.5x SDE (Seller&rsquo;s Discretionary Earnings)</li>
-          <li><strong>Mid-size (&dollar;2M&ndash;$10M revenue):</strong> 3.5&ndash;5.5x EBITDA</li>
-          <li><strong>Larger platforms (&dollar;10M+ revenue):</strong> 5&ndash;7x EBITDA (PE multiples)</li>
-          <li><strong>Add-on acquisitions:</strong> 2&ndash;3.5x EBITDA (significant discount for bolt-on targets)</li>
+          <li><strong>Small operators (&lt;$2M revenue):</strong> 2-3.5x SDE (Seller&rsquo;s Discretionary Earnings)</li>
+          <li><strong>Mid-size (&dollar;2M-$10M revenue):</strong> 3.5-5.5x EBITDA</li>
+          <li><strong>Larger platforms (&dollar;10M+ revenue):</strong> 5-7x EBITDA (PE multiples)</li>
+          <li><strong>Add-on acquisitions:</strong> 2-3.5x EBITDA (significant discount for bolt-on targets)</li>
         </ul>
         <p>
           The spread between platform and add-on multiples is the core
@@ -61,8 +61,8 @@ export default function AcquiringHVACBusinessArticle() {
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build strategies
           </Link>:
-          acquire a platform at 4&ndash;5x, add bolt-ons at 2&ndash;3x, and
-          build toward a 6&ndash;8x exit multiple. For more on valuation
+          acquire a platform at 4-5x, add bolt-ons at 2-3x, and
+          build toward a 6-8x exit multiple. For more on valuation
           methodology, see our{" "}
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
             EBITDA multiples by industry
@@ -83,18 +83,18 @@ export default function AcquiringHVACBusinessArticle() {
 
         <h3 className={h3Class}>Service &amp; maintenance (highest margin)</h3>
         <ul className={ulClass}>
-          <li>Maintenance contracts (monthly/annual service agreements): 40&ndash;60% gross margin</li>
-          <li>Emergency/demand service calls: 50&ndash;65% gross margin</li>
-          <li>Typically 30&ndash;50% of total revenue for mature companies</li>
+          <li>Maintenance contracts (monthly/annual service agreements): 40-60% gross margin</li>
+          <li>Emergency/demand service calls: 50-65% gross margin</li>
+          <li>Typically 30-50% of total revenue for mature companies</li>
           <li>Best-in-class companies have 1,500+ active maintenance contracts</li>
         </ul>
 
         <h3 className={h3Class}>Replacement &amp; installation (growth driver)</h3>
         <ul className={ulClass}>
-          <li>Equipment replacement (aging units, new construction): 30&ndash;45% gross margin</li>
-          <li>New construction installs: 20&ndash;35% gross margin (more competitive)</li>
-          <li>Typically 40&ndash;60% of total revenue</li>
-          <li>Average ticket: $5K&ndash;$15K residential, $25K&ndash;$200K+ commercial</li>
+          <li>Equipment replacement (aging units, new construction): 30-45% gross margin</li>
+          <li>New construction installs: 20-35% gross margin (more competitive)</li>
+          <li>Typically 40-60% of total revenue</li>
+          <li>Average ticket: $5K-$15K residential, $25K-$200K+ commercial</li>
         </ul>
 
         <h3 className={h3Class}>Commercial vs. residential mix</h3>
@@ -105,7 +105,7 @@ export default function AcquiringHVACBusinessArticle() {
         <ul className={ulClass}>
           <li><strong>Residential:</strong> Higher margins, more fragmented, easier to systematize, better for first-time operators</li>
           <li><strong>Commercial:</strong> Larger projects, longer sales cycles, more technical complexity, higher barriers to entry</li>
-          <li><strong>Ideal target:</strong> 60&ndash;80% residential, 20&ndash;40% light commercial, with a growing maintenance contract base</li>
+          <li><strong>Ideal target:</strong> 60-80% residential, 20-40% light commercial, with a growing maintenance contract base</li>
         </ul>
 
         <h2 className={h2Class}>Due diligence specifics for HVAC</h2>
@@ -122,14 +122,14 @@ export default function AcquiringHVACBusinessArticle() {
           <li>Number and tenure of licensed HVAC technicians</li>
           <li>EPA 608 certifications (required for refrigerant handling)</li>
           <li>State/local HVAC contractor licenses and who holds them (owner vs. company)</li>
-          <li>Compensation benchmarks: $50K&ndash;$90K for experienced residential techs, $70K&ndash;$120K for commercial</li>
-          <li>Turnover rate: industry average is 15&ndash;25% annually; below 15% is excellent</li>
+          <li>Compensation benchmarks: $50K-$90K for experienced residential techs, $70K-$120K for commercial</li>
+          <li>Turnover rate: industry average is 15-25% annually; below 15% is excellent</li>
           <li>Recruiting pipeline: relationships with trade schools, apprenticeship programs</li>
         </ul>
 
         <h3 className={h3Class}>Vehicle fleet and equipment</h3>
         <ul className={ulClass}>
-          <li>Fleet condition, age, and replacement schedule (budget $40K&ndash;$60K per equipped service van)</li>
+          <li>Fleet condition, age, and replacement schedule (budget $40K-$60K per equipped service van)</li>
           <li>GPS tracking and route optimization systems</li>
           <li>Specialized tools and diagnostic equipment</li>
           <li>Parts inventory value and management system</li>
@@ -158,16 +158,16 @@ export default function AcquiringHVACBusinessArticle() {
         <h3 className={h3Class}>1. Grow the maintenance contract base</h3>
         <p>
           Every service call is an opportunity to sell a maintenance contract.
-          Best-in-class HVAC companies convert 30&ndash;40% of service calls
+          Best-in-class HVAC companies convert 30-40% of service calls
           into maintenance agreements. Implementing a systematic sales process
-          for technicians can grow the contract base 20&ndash;30% annually.
+          for technicians can grow the contract base 20-30% annually.
         </p>
 
         <h3 className={h3Class}>2. Digital marketing and lead generation</h3>
         <p>
           Most owner-operated HVAC companies underinvest in digital marketing.
           Implementing professional SEO, Google Ads, and a modern website can
-          increase inbound leads by 50&ndash;100%. HVAC keywords have high
+          increase inbound leads by 50-100%. HVAC keywords have high
           commercial intent and strong local search volume.
         </p>
 
@@ -175,7 +175,7 @@ export default function AcquiringHVACBusinessArticle() {
         <p>
           Many HVAC companies underprice their services. Implementing flat-rate
           pricing (vs. time-and-materials) and regularly benchmarking against
-          market rates can improve gross margins by 5&ndash;10 points without
+          market rates can improve gross margins by 5-10 points without
           losing customers.
         </p>
 
@@ -198,10 +198,10 @@ export default function AcquiringHVACBusinessArticle() {
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build strategies
           </Link>.
-          Acquire smaller competitors at 2&ndash;3.5x EBITDA, integrate them
+          Acquire smaller competitors at 2-3.5x EBITDA, integrate them
           onto your platform (shared dispatching, purchasing power, marketing),
           and build toward a larger, more valuable business. Many PE firms
-          will pay 6&ndash;8x for a $5M+ EBITDA HVAC platform with multiple
+          will pay 6-8x for a $5M+ EBITDA HVAC platform with multiple
           locations and strong management.
         </p>
 
@@ -211,7 +211,7 @@ export default function AcquiringHVACBusinessArticle() {
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a) guide
             </Link>.</li>
-          <li><strong>Seller financing:</strong> Very common in HVAC deals, typically 10&ndash;20% as a{" "}
+          <li><strong>Seller financing:</strong> Very common in HVAC deals, typically 10-20% as a{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               vendor note
             </Link></li>
@@ -234,11 +234,11 @@ export default function AcquiringHVACBusinessArticle() {
           What are typical HVAC business valuation multiples?
         </h3>
         <p>
-          Small HVAC operators (under $2M revenue) trade at 2&ndash;3.5x
-          SDE. Mid-size companies ($2M&ndash;$10M revenue) typically sell
-          for 3.5&ndash;5.5x EBITDA. Larger platforms ($10M+ revenue)
-          command 5&ndash;7x EBITDA from private equity buyers. Add-on
-          acquisitions can be acquired at 2&ndash;3.5x EBITDA, creating
+          Small HVAC operators (under $2M revenue) trade at 2-3.5x
+          SDE. Mid-size companies ($2M-$10M revenue) typically sell
+          for 3.5-5.5x EBITDA. Larger platforms ($10M+ revenue)
+          command 5-7x EBITDA from private equity buyers. Add-on
+          acquisitions can be acquired at 2-3.5x EBITDA, creating
           significant arbitrage in{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             buy-and-build strategies
@@ -271,10 +271,10 @@ export default function AcquiringHVACBusinessArticle() {
           The highest-impact levers are: (1) growing the maintenance
           contract base by converting every service call into a plan
           sale, (2) investing in digital marketing to increase inbound
-          leads by 50&ndash;100%, (3) implementing flat-rate pricing to
-          improve gross margins by 5&ndash;10 points, (4) deploying field
+          leads by 50-100%, (3) implementing flat-rate pricing to
+          improve gross margins by 5-10 points, (4) deploying field
           service management software for operational efficiency, and
-          (5) executing tuck-in acquisitions at 2&ndash;3.5x EBITDA to
+          (5) executing tuck-in acquisitions at 2-3.5x EBITDA to
           build a multi-location platform. ServiceTitan benchmarks show
           that companies with 1,500+ active maintenance contracts achieve
           materially higher EBITDA margins than those without a contract

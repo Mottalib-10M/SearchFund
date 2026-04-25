@@ -12,9 +12,9 @@ export default function ETABrazilArticle() {
       <div className={bodyClass}>
         <p>
           Brazil has 20 million small and medium enterprises, a GDP near $2.1 trillion,
-          and a founder generation exiting without successors&mdash;58% of family businesses
+          and a founder generation exiting without successors, 58% of family businesses
           lack a succession plan according to the PwC Family Business Survey. Acquisition
-          multiples sit at 3&ndash;5x EBITDA, one to two turns below US and European
+          multiples sit at 3-5x EBITDA, one to two turns below US and European
           comparables. For search fund entrepreneurs who can tolerate tax complexity,
           currency volatility, and dense labor regulation, Brazil offers the highest-volume
           deal pipeline in Latin America at prices that make strong equity returns possible
@@ -23,7 +23,7 @@ export default function ETABrazilArticle() {
         <p>
           This article covers the structural reasons Brazil works for ETA, where deals
           cluster by industry and geography, how legal and tax structures shape acquisition
-          mechanics, what financing looks like when the base interest rate runs 10&ndash;14%,
+          mechanics, what financing looks like when the base interest rate runs 10-14%,
           and the concrete risks that separate successful Brazilian acquisitions from
           expensive lessons.
         </p>
@@ -45,7 +45,7 @@ export default function ETABrazilArticle() {
           60s and 70s. Their children increasingly prefer professional careers in
           S&atilde;o Paulo or abroad over running a regional distribution business or
           dental clinic chain. The PwC survey found that only 12% of Brazilian family
-          firms have a strong, documented succession plan&mdash;far below the global
+          firms have a strong, documented succession plan, far below the global
           average of 30%. This mismatch between aging founders and absent heirs creates
           exactly the conditions where an outsider with capital, operational ambition,
           and a structured acquisition process can step in.
@@ -56,7 +56,7 @@ export default function ETABrazilArticle() {
           EBITDA, the Brazilian buy-side remains fragmented. Private equity in Brazil
           focuses overwhelmingly on growth-stage tech and large-cap assets.
           The IESE 2024 International Search Fund Study counted fewer than 50 completed
-          search fund acquisitions across all of Latin America&mdash;a fraction of the
+          search fund acquisitions across all of Latin America, a fraction of the
           US total. That competitive gap means Brazilian sellers frequently receive only
           one or two serious offers, giving searchers room to negotiate favorable
           structures. For context on how these returns compare globally, see our analysis
@@ -79,13 +79,13 @@ export default function ETABrazilArticle() {
             (Sistema &Uacute;nico de Sa&uacute;de) system is overwhelmed: 49 million
             Brazilians hold private health insurance (ANS, 2023), and private clinics,
             dental chains, and diagnostic labs are expanding to fill the gap. Dental
-            clinic chains in mid-sized cities regularly trade at 3&ndash;4x EBITDA with
+            clinic chains in mid-sized cities regularly trade at 3-4x EBITDA with
             strong cash flow. Multi-site roll-up potential is significant.
           </li>
           <li>
             <strong>Education.</strong> Brazil has one of the largest private education
             markets globally. Language schools (English instruction is a $3 billion+
-            industry), K&ndash;12 private schools, and professional certification
+            industry), K-12 private schools, and professional certification
             programs offer subscription-like tuition revenue. Enrollment data is
             publicly available through INEP, making pre-acquisition diligence
             straightforward.
@@ -105,13 +105,13 @@ export default function ETABrazilArticle() {
             cybersecurity consultancies. Many were founded in the early 2000s by
             technical entrepreneurs who now want an exit. Recurring managed-services
             contracts provide revenue visibility that supports higher multiples
-            (4&ndash;5x EBITDA).
+            (4-5x EBITDA).
           </li>
           <li>
             <strong>Franchises.</strong> Brazil has the 4th largest franchise market
             globally, with over 3,000 franchise brands and 184,000 franchise units
-            (ABF, 2023). Multi-unit franchise acquisitions&mdash;buying 5&ndash;15
-            units of a proven brand&mdash;are an established ETA path with lower
+            (ABF, 2023). Multi-unit franchise acquisitions, buying 5-15
+            units of a proven brand, are an established ETA path with lower
             operational risk. Food, beauty, and fitness are the most active categories.
           </li>
           <li>
@@ -123,8 +123,8 @@ export default function ETABrazilArticle() {
         <p>
           Geographically, S&atilde;o Paulo state alone accounts for roughly 32% of
           Brazil&rsquo;s GDP and has the densest concentration of acquisition targets.
-          But secondary markets&mdash;Minas Gerais, Paran&aacute;, Rio Grande do
-          Sul, and the interior of S&atilde;o Paulo state&mdash;often yield better
+          But secondary markets, Minas Gerais, Paran&aacute;, Rio Grande do
+          Sul, and the interior of S&atilde;o Paulo state, often yield better
           multiples because fewer buyers operate there. A searcher based in S&atilde;o
           Paulo can efficiently cover deals within a 500 km radius while accessing
           most of the country&rsquo;s professional services infrastructure. For more on
@@ -171,7 +171,7 @@ export default function ETABrazilArticle() {
 
         <h3 className={h3Class}>Share Deals vs. Asset Deals (Trespasse)</h3>
         <p>
-          Share deals dominate Brazilian ETA&mdash;roughly 80&ndash;90% of SME
+          Share deals dominate Brazilian ETA, roughly 80-90% of SME
           acquisitions. The buyer purchases all quotas or shares of the target entity,
           inheriting contracts, employees, and liabilities in one transaction. The
           advantage is simplicity: customer and vendor contracts transfer automatically,
@@ -180,7 +180,7 @@ export default function ETABrazilArticle() {
         </p>
         <p>
           The risk is successor liability. Brazilian law holds buyers responsible for
-          pre-closing tax debts, labor claims, and consumer liabilities&mdash;even in
+          pre-closing tax debts, labor claims, and consumer liabilities, even in
           some asset-deal structures. The Consolidation of Labor Laws (CLT) and
           Brazilian Tax Code (C&oacute;digo Tribut&aacute;rio Nacional, Art. 133)
           both establish successor liability rules that can follow the business
@@ -189,15 +189,15 @@ export default function ETABrazilArticle() {
             thorough due diligence
           </Link>{" "}
           on labor contingencies, tax debts, and pending litigation not optional but
-          existential. Budget 10&ndash;20% of the deal value for an escrow or
+          existential. Budget 10-20% of the deal value for an escrow or
           holdback to cover undisclosed liabilities.
         </p>
 
         {/* ───── SECTION 4 ───── */}
         <h2 className={h2Class}>Valuation and Deal Economics</h2>
         <p>
-          Brazilian SMEs in the R$5&ndash;50 million revenue range typically sell at
-          3&ndash;5x EBITDA. The discount relative to US multiples (5&ndash;8x for
+          Brazilian SMEs in the R$5-50 million revenue range typically sell at
+          3-5x EBITDA. The discount relative to US multiples (5-8x for
           comparable businesses) reflects three structural factors: higher country risk
           (Brazil&rsquo;s sovereign credit rating sits at BB, two notches below
           investment grade), fewer organized buyers competing for deals, and the
@@ -214,19 +214,19 @@ export default function ETABrazilArticle() {
             <strong>Goodwill amortization.</strong> Brazilian tax law allows acquirers
             to amortize goodwill (more specifically, the intangible asset premium paid
             above book value) for tax purposes over five years. This can reduce the
-            effective corporate tax rate by 5&ndash;10 percentage points in the early
+            effective corporate tax rate by 5-10 percentage points in the early
             post-acquisition years, materially improving cash-on-cash returns.
           </li>
           <li>
             <strong>Earnouts and seller notes.</strong> Seller financing represents
-            20&ndash;40% of total deal value in most Brazilian ETA transactions,
+            20-40% of total deal value in most Brazilian ETA transactions,
             primarily because commercial bank acquisition debt is prohibitively
-            expensive. Structuring 24&ndash;36 month earnouts tied to EBITDA milestones
+            expensive. Structuring 24-36 month earnouts tied to EBITDA milestones
             protects the buyer while giving the seller upside if the business performs.
           </li>
           <li>
             <strong>Working capital adjustments.</strong> Brazilian SMEs often have
-            volatile working capital due to extended payment terms (60&ndash;90 day
+            volatile working capital due to extended payment terms (60-90 day
             receivables are standard). Negotiate a working capital peg at closing
             and a true-up mechanism within 90 days.
           </li>
@@ -247,7 +247,7 @@ export default function ETABrazilArticle() {
           of 1,501 hours per year on tax compliance, versus 175 hours in OECD
           countries. There are roughly 5,000 distinct tax obligations across federal,
           state, and municipal levels. Getting the tax regime right at acquisition
-          can swing annual cash flow by 10&ndash;15%.
+          can swing annual cash flow by 10-15%.
         </p>
         <p>
           The three regimes any buyer must understand:
@@ -259,7 +259,7 @@ export default function ETABrazilArticle() {
             ICMS (state) and ISS (municipal) into a single monthly payment. Effective
             rates range from 4% to 33% depending on the activity type and revenue tier.
             If your target qualifies, keeping it on Simples post-acquisition is almost
-            always optimal&mdash;but growth beyond the R$4.8M cap forces a regime
+            always optimal, but growth beyond the R$4.8M cap forces a regime
             change, which must be modeled in your{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
               valuation
@@ -285,24 +285,24 @@ export default function ETABrazilArticle() {
         <p>
           Beyond income tax, buyers must account for PIS/COFINS (federal social
           contributions on revenue, 3.65% cumulative or 9.25% non-cumulative),
-          ICMS (state VAT equivalent, rates vary from 7&ndash;25% by state and
-          product), and ISS (municipal services tax, 2&ndash;5%). Brazil&rsquo;s
+          ICMS (state VAT equivalent, rates vary from 7-25% by state and
+          product), and ISS (municipal services tax, 2-5%). Brazil&rsquo;s
           ongoing tax reform (EC 132/2023) will eventually replace PIS, COFINS,
           ICMS, and ISS with a dual VAT system (IBS + CBS), but full implementation
           is not expected before 2033. In the meantime, hire a Brazilian tax advisor
-          before closing any deal&mdash;the cost of getting this wrong is measured in
+          before closing any deal, the cost of getting this wrong is measured in
           multiples of their fee.
         </p>
 
         {/* ───── SECTION 6 ───── */}
-        <h2 className={h2Class}>Financing an Acquisition When Interest Rates Run 10&ndash;14%</h2>
+        <h2 className={h2Class}>Financing an Acquisition When Interest Rates Run 10-14%</h2>
         <p>
           The Selic (Brazil&rsquo;s base interest rate) has fluctuated between
           10.5% and 13.75% since 2022. Commercial bank acquisition debt prices at
-          CDI (which tracks Selic) plus 3&ndash;8%, meaning all-in borrowing costs
-          of 13&ndash;22%. At those rates, the leveraged buyout math that works in
+          CDI (which tracks Selic) plus 3-8%, meaning all-in borrowing costs
+          of 13-22%. At those rates, the leveraged buyout math that works in
           the US simply does not translate. Brazilian ETA capital structures are
-          consequently equity-heavy, with debt rarely exceeding 30&ndash;40% of
+          consequently equity-heavy, with debt rarely exceeding 30-40% of
           total deal value.
         </p>
         <p>
@@ -326,15 +326,15 @@ export default function ETABrazilArticle() {
             <strong>BNDES.</strong> Brazil&rsquo;s national development bank offers
             subsidized acquisition financing through programs like BNDES
             Autom&aacute;tico and BNDES Finame. Rates are typically TLP (Taxa de Longo
-            Prazo, currently near 6%) plus a spread&mdash;significantly below
+            Prazo, currently near 6%) plus a spread, significantly below
             commercial bank rates. Qualification requires the target to meet employment
-            and revenue thresholds, and approval timelines run 60&ndash;120 days.
+            and revenue thresholds, and approval timelines run 60-120 days.
           </li>
           <li>
             <strong>Seller financing.</strong> The most common debt component in
-            Brazilian ETA deals, typically 20&ndash;40% of total deal value structured
-            as promissory notes (notas promiss&oacute;rias) with 24&ndash;36 month
-            amortization. Sellers accept below-market rates (often IPCA + 4&ndash;6%)
+            Brazilian ETA deals, typically 20-40% of total deal value structured
+            as promissory notes (notas promiss&oacute;rias) with 24-36 month
+            amortization. Sellers accept below-market rates (often IPCA + 4-6%)
             because it allows them to close the transaction.
           </li>
           <li>
@@ -350,8 +350,8 @@ export default function ETABrazilArticle() {
             self-funded versus traditional search fund
           </Link>{" "}
           question takes on a different character in Brazil. High interest rates
-          make the traditional model&mdash;where investors fund the search phase
-          and then co-invest in the acquisition&mdash;more attractive because it
+          make the traditional model, where investors fund the search phase
+          and then co-invest in the acquisition, more attractive because it
           reduces reliance on expensive local debt. Self-funded searchers need either
           substantial personal capital or strong relationships with angel investors
           willing to write equity checks on deal-specific terms.
@@ -389,7 +389,7 @@ export default function ETABrazilArticle() {
             <strong>Termination costs.</strong> Dismissing an employee without cause
             requires 30 days&rsquo; advance notice (plus 3 days per year of service,
             up to 90 days), payment of accrued vacation and 13th salary, and the 40%
-            FGTS penalty. Total termination cost can reach 3&ndash;6 months&rsquo;
+            FGTS penalty. Total termination cost can reach 3-6 months&rsquo;
             salary per employee.
           </li>
           <li>
@@ -401,11 +401,11 @@ export default function ETABrazilArticle() {
           </li>
         </ul>
         <p>
-          The 2017 labor reform (Lei 13.467) introduced some flexibility&mdash;allowing
+          The 2017 labor reform (Lei 13.467) introduced some flexibility, allowing
           individual negotiation of certain terms, enabling intermittent work contracts,
           and limiting &quot;moral damages&quot; claims to a multiple of the employee&rsquo;s
           salary. But the reform did not fundamentally change the high baseline cost of
-          employment. Budget total employer cost at 70&ndash;80% above the base salary
+          employment. Budget total employer cost at 70-80% above the base salary
           when modeling post-acquisition payroll.
         </p>
 
@@ -414,10 +414,10 @@ export default function ETABrazilArticle() {
         <p>
           The term &ldquo;Custo Brasil&rdquo; (Brazil Cost) captures the cumulative
           burden of doing business in the country: tax compliance that consumes 1,500+
-          hours annually, infrastructure bottlenecks that add 15&ndash;20% to logistics
-          costs, regulatory approvals that take 2&ndash;5x longer than OECD norms,
-          and a judicial system where commercial disputes can take 4&ndash;8 years
-          to resolve. These friction costs add an estimated 30&ndash;40% to operating
+          hours annually, infrastructure bottlenecks that add 15-20% to logistics
+          costs, regulatory approvals that take 2-5x longer than OECD norms,
+          and a judicial system where commercial disputes can take 4-8 years
+          to resolve. These friction costs add an estimated 30-40% to operating
           expenses compared to OECD averages, according to CNI (Confedera&ccedil;&atilde;o
           Nacional da Ind&uacute;stria) estimates.
         </p>
@@ -445,12 +445,12 @@ export default function ETABrazilArticle() {
             and 5.8 per USD in the past three years. For international investors,
             a 20% depreciation can wipe out an entire year&rsquo;s operating profit
             in USD terms. Hedging options exist (NDF contracts through Brazilian banks)
-            but are expensive, typically costing 5&ndash;8% annually due to the
+            but are expensive, typically costing 5-8% annually due to the
             interest rate differential.
           </li>
           <li>
             <strong>Political and regulatory instability.</strong> Tax rules change
-            frequently&mdash;Brazil has amended its tax code over 400,000 times since
+            frequently, Brazil has amended its tax code over 400,000 times since
             1988, according to IBPT (Instituto Brasileiro de Planejamento e
             Tributa&ccedil;&atilde;o). Regulatory shifts in healthcare, education,
             and financial services can alter business economics with limited notice.
@@ -474,11 +474,11 @@ export default function ETABrazilArticle() {
 
         <h3 className={h3Class}>What acquisition multiples should I expect for Brazilian SMEs?</h3>
         <p>
-          Most Brazilian SMEs in the ETA-relevant range (R$5&ndash;50M revenue) trade
-          at 3&ndash;5x EBITDA. Healthcare, IT services, and businesses with strong
+          Most Brazilian SMEs in the ETA-relevant range (R$5-50M revenue) trade
+          at 3-5x EBITDA. Healthcare, IT services, and businesses with strong
           recurring revenue command the higher end; regional distribution businesses,
           construction services, and asset-heavy operations trade at the lower end.
-          These multiples are 1&ndash;2 turns below US equivalents for similar
+          These multiples are 1-2 turns below US equivalents for similar
           businesses, reflecting higher country risk and thinner buyer competition.
         </p>
 
@@ -488,7 +488,7 @@ export default function ETABrazilArticle() {
           S&atilde;o Paulo often speak English, deal sourcing, seller conversations,
           employee management, and government interactions happen almost exclusively
           in Portuguese. Searchers who are not fluent typically partner with a
-          Brazilian co-searcher or spend 6&ndash;12 months in-country building
+          Brazilian co-searcher or spend 6-12 months in-country building
           language skills before launching their search. Legal documents and
           government filings are all in Portuguese, and courts do not accept
           English-language evidence without certified translation.
@@ -496,13 +496,13 @@ export default function ETABrazilArticle() {
 
         <h3 className={h3Class}>How long does a typical Brazilian ETA deal take from LOI to close?</h3>
         <p>
-          Expect 4&ndash;8 months from signed letter of intent to closing. Due
+          Expect 4-8 months from signed letter of intent to closing. Due
           diligence in Brazil takes longer than in the US because financial records
           are often less organized, tax reconciliation requires specialist accountants,
           labor contingency analysis involves reviewing individual employee files,
-          and BNDES or commercial bank financing approvals add 60&ndash;120 days.
+          and BNDES or commercial bank financing approvals add 60-120 days.
           Government registrations at the Junta Comercial (commercial registry) and
-          Receita Federal (federal revenue service) add 2&ndash;4 weeks post-signing.
+          Receita Federal (federal revenue service) add 2-4 weeks post-signing.
         </p>
 
         <h3 className={h3Class}>Can a foreign citizen acquire a business in Brazil?</h3>

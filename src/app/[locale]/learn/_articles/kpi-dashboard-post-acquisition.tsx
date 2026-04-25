@@ -10,7 +10,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           After closing on a search fund acquisition, you inherit a business that
-          likely operated for years &mdash; or decades &mdash; without formal
+          likely operated for years, or decades, without formal
           performance measurement. The previous owner may have run the company on
           gut instinct, a handful of spreadsheets, and deep institutional
           knowledge that walked out the door on their last day. Your job as the
@@ -25,7 +25,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           problems before they become crises. During{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">the first 100 days</Link>,
           establishing this measurement infrastructure should be among your
-          highest priorities &mdash; right alongside learning the business,
+          highest priorities, right alongside learning the business,
           building trust with employees, and stabilizing operations.
         </p>
 
@@ -41,7 +41,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>Early warning system.</strong> KPIs surface problems before
             they become visible in financial statements. A rising Days Sales
-            Outstanding (DSO) today predicts a cash crunch in 60&ndash;90 days.
+            Outstanding (DSO) today predicts a cash crunch in 60-90 days.
             Declining customer retention rates today predict revenue declines
             two to three quarters from now.
           </li>
@@ -99,7 +99,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
             <strong>Revenue per employee.</strong> This productivity metric
             reveals operational efficiency and scales appropriately as the
             business grows. A declining ratio signals that you are adding
-            headcount faster than revenue &mdash; a red flag.
+            headcount faster than revenue, a red flag.
           </li>
           <li>
             <strong>Gross margin.</strong> Track gross margin as a percentage
@@ -167,7 +167,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>Debt service coverage ratio (DSCR).</strong> EBITDA divided
             by total debt service (principal plus interest payments). Your
-            lenders will have a minimum DSCR covenant &mdash; typically 1.2x
+            lenders will have a minimum DSCR covenant, typically 1.2x
             to 1.5x. Track this monthly and forecast it quarterly. Falling
             below your covenant threshold triggers default provisions and
             gives lenders significant use over the business.
@@ -184,7 +184,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <h2 className={h2Class}>Operational KPIs: the leading indicators</h2>
         <p>
           Financial KPIs tell you what happened. Operational KPIs tell you what
-          is happening &mdash; and, more importantly, what is about to happen.
+          is happening, and, more importantly, what is about to happen.
           These leading indicators give you time to intervene before financial
           results deteriorate.
         </p>
@@ -203,9 +203,9 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>Employee satisfaction or eNPS.</strong> Conduct quarterly
             pulse surveys to measure employee engagement. The Employee Net
-            Promoter Score (eNPS) &mdash; &ldquo;On a scale of 0&ndash;10,
+            Promoter Score (eNPS), &ldquo;On a scale of 0-10,
             how likely are you to recommend this company as a place to
-            work?&rdquo; &mdash; provides a simple, trackable measure of
+            work?&rdquo;, provides a simple, trackable measure of
             organizational health.
           </li>
           <li>
@@ -223,16 +223,16 @@ export default function KPIDashboardPostAcquisitionArticle() {
             lost over a given period. For subscription or contract-based
             businesses, track monthly and annual churn. For project-based
             businesses, track repeat purchase rates. Even a small increase in
-            churn &mdash; from 5% to 8% annually &mdash; compounds into
+            churn, from 5% to 8% annually, compounds into
             significant revenue loss over time.
           </li>
           <li>
             <strong>Net Promoter Score (NPS).</strong> Survey customers
             quarterly with the standard NPS question: &ldquo;On a scale of
-            0&ndash;10, how likely are you to recommend us to a colleague or
+            0-10, how likely are you to recommend us to a colleague or
             friend?&rdquo; NPS above 50 is excellent for B2B; above 30 is
             acceptable. More important than the absolute score is the trend
-            &mdash; a declining NPS demands immediate investigation.
+            a declining NPS demands immediate investigation.
           </li>
           <li>
             <strong>Customer concentration.</strong> Track revenue share of
@@ -268,7 +268,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Quality metrics.</strong> Defect rates, rework rates,
-            warranty claims, or customer complaints per 1,000 orders &mdash;
+            warranty claims, or customer complaints per 1,000 orders , 
             whatever quality measure is most relevant to your industry. Quality
             problems destroy margins and customer relationships simultaneously.
           </li>
@@ -276,7 +276,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
             <strong>Backlog or pipeline value.</strong> For project-based
             businesses, the dollar value of contracted but undelivered work
             provides forward visibility into revenue. Track backlog in months
-            of revenue equivalent. A healthy backlog is 3&ndash;6 months
+            of revenue equivalent. A healthy backlog is 3-6 months
             for most SMEs.
           </li>
         </ul>
@@ -285,8 +285,8 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <p>
           Understanding the distinction between leading and lagging indicators
           is fundamental to building an effective dashboard. Lagging indicators
-          tell you what already happened &mdash; revenue, profit, cash balance.
-          Leading indicators predict what will happen &mdash; pipeline value,
+          tell you what already happened, revenue, profit, cash balance.
+          Leading indicators predict what will happen, pipeline value,
           customer satisfaction, employee engagement. The best dashboards
           balance both types.
         </p>
@@ -344,7 +344,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <p>
           A dashboard is only valuable if the right people see the right data
           at the right frequency. Over-engineering the dashboard is as dangerous
-          as not having one at all &mdash; if it takes 20 hours to update each
+          as not having one at all, if it takes 20 hours to update each
           month, it will eventually be abandoned.
         </p>
 
@@ -358,7 +358,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Spreadsheets (Excel or Google Sheets).</strong> For most
-            SMEs in the first 6&ndash;12 months, a well-structured spreadsheet
+            SMEs in the first 6-12 months, a well-structured spreadsheet
             is sufficient. It is flexible, familiar, and free. The downside is
             manual data entry, version control issues, and limited
             visualization. But it works.
@@ -381,7 +381,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
             These tools specialize in pulling data from multiple sources into
             a single dashboard. They are more expensive than spreadsheets but
             less complex than full BI platforms. Good for businesses with
-            5&ndash;15 data sources.
+            5-15 data sources.
           </li>
           <li>
             <strong>ERP-integrated dashboards.</strong> If the business runs on
@@ -429,12 +429,12 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>CEO dashboard.</strong> A one-page summary of
-            10&ndash;15 KPIs covering financial performance, operational
+            10-15 KPIs covering financial performance, operational
             health, and strategic progress. This is your daily management
             tool.
           </li>
           <li>
-            <strong>Board dashboard.</strong> A curated set of 8&ndash;12
+            <strong>Board dashboard.</strong> A curated set of 8-12
             metrics with trend lines, variance analysis (actual vs. budget
             vs. prior year), and narrative commentary. Boards want to see
             the big picture, not operational detail.
@@ -442,12 +442,12 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>Department dashboards.</strong> Each functional leader
             (sales, operations, finance) should have a dashboard tailored to
-            their domain with 5&ndash;8 metrics they directly influence.
+            their domain with 5-8 metrics they directly influence.
             These drive daily management within each function.
           </li>
           <li>
             <strong>Team-level scoreboards.</strong> Simplified displays
-            showing 2&ndash;3 metrics visible to front-line employees. A
+            showing 2-3 metrics visible to front-line employees. A
             warehouse team might see on-time shipment rate and order accuracy.
             A sales team might see pipeline value and monthly bookings vs.
             target. Visibility creates accountability and engagement.
@@ -468,7 +468,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <p>
           Most search fund boards expect a monthly written update, even if
           formal board meetings happen quarterly. This update should be concise
-          &mdash; no more than two to three pages &mdash; and follow a
+         , no more than two to three pages, and follow a
           consistent format.
         </p>
         <ol className={olClass}>
@@ -478,7 +478,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
             with brief explanations.
           </li>
           <li>
-            <strong>Key operational metrics.</strong> Your top 5&ndash;8
+            <strong>Key operational metrics.</strong> Your top 5-8
             operational KPIs with trend arrows (improving, stable, declining).
           </li>
           <li>
@@ -489,12 +489,12 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>
             <strong>Risks and issues.</strong> Proactively flag anything that
             could impact performance in the coming months. Boards hate
-            surprises &mdash; they respect CEOs who surface problems early
+            surprises, they respect CEOs who surface problems early
             and present plans to address them.
           </li>
           <li>
-            <strong>Asks.</strong> If you need anything from the board &mdash;
-            introductions, advice, approval &mdash; state it explicitly. Do
+            <strong>Asks.</strong> If you need anything from the board , 
+            introductions, advice, approval, state it explicitly. Do
             not bury requests in narrative text.
           </li>
         </ol>
@@ -575,7 +575,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
 
         <h3 className={h3Class}>Professional services</h3>
         <ul className={ulClass}>
-          <li>Billable utilization rate (target: 70&ndash;80%)</li>
+          <li>Billable utilization rate (target: 70-80%)</li>
           <li>Average bill rate and realization rate</li>
           <li>Revenue per consultant</li>
           <li>Project margin by engagement type</li>
@@ -635,9 +635,9 @@ export default function KPIDashboardPostAcquisitionArticle() {
           truly matter. Take a phased approach.
         </p>
 
-        <h3 className={h3Class}>Phase 1: Weeks 1&ndash;4 &mdash; survival metrics</h3>
+        <h3 className={h3Class}>Phase 1: Weeks 1-4, survival metrics</h3>
         <p>
-          Start with the bare minimum &mdash; the metrics you need to ensure
+          Start with the bare minimum, the metrics you need to ensure
           the business is stable and you are not heading for a cash crisis.
         </p>
         <ul className={ulClass}>
@@ -648,7 +648,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>Employee headcount (to detect unexpected departures)</li>
         </ul>
 
-        <h3 className={h3Class}>Phase 2: Months 2&ndash;3 &mdash; management dashboard</h3>
+        <h3 className={h3Class}>Phase 2: Months 2-3, management dashboard</h3>
         <p>
           Expand to a full set of monthly financial and operational KPIs. This
           is the dashboard you will use to manage the business day-to-day and
@@ -664,7 +664,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>Pipeline value and win rates</li>
         </ul>
 
-        <h3 className={h3Class}>Phase 3: Months 4&ndash;6 &mdash; strategic dashboard</h3>
+        <h3 className={h3Class}>Phase 3: Months 4-6, strategic dashboard</h3>
         <p>
           Add forward-looking and strategic metrics that support the{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth initiatives</Link>{" "}
@@ -678,7 +678,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
           <li>Strategic initiative scorecards with milestones and deadlines</li>
         </ul>
 
-        <h3 className={h3Class}>Phase 4: Months 6&ndash;12 &mdash; automation and refinement</h3>
+        <h3 className={h3Class}>Phase 4: Months 6-12, automation and refinement</h3>
         <ul className={ulClass}>
           <li>
             Automate data collection by integrating your accounting system,
@@ -702,8 +702,8 @@ export default function KPIDashboardPostAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Too many metrics.</strong> If you track 50 KPIs, you
-            effectively track none. A CEO dashboard should have 10&ndash;15
-            metrics. Each department dashboard should have 5&ndash;8. If you
+            effectively track none. A CEO dashboard should have 10-15
+            metrics. Each department dashboard should have 5-8. If you
             cannot fit it on one page, it is too complex.
           </li>
           <li>
@@ -743,7 +743,7 @@ export default function KPIDashboardPostAcquisitionArticle() {
 
         <h2 className={h2Class}>From dashboard to decision-making culture</h2>
         <p>
-          The ultimate goal is not a dashboard &mdash; it is a data-driven
+          The ultimate goal is not a dashboard, it is a data-driven
           culture where decisions at every level of the organization are
           informed by evidence rather than intuition. The dashboard is the
           tool; the culture is the outcome.
@@ -758,8 +758,8 @@ export default function KPIDashboardPostAcquisitionArticle() {
         </p>
         <p>
           The search fund CEOs who create the most value are those who combine
-          the art of leadership &mdash; vision, empathy, communication &mdash;
-          with the science of management &mdash; data, measurement, and
+          the art of leadership, vision, empathy, communication , 
+          with the science of management, data, measurement, and
           accountability. A well-built KPI dashboard gives you the science.
           What you do with it is the art.
         </p>
@@ -768,19 +768,19 @@ export default function KPIDashboardPostAcquisitionArticle() {
 
         <h3 className={h3Class}>How many KPIs should I track on my CEO dashboard?</h3>
         <p>
-          A CEO dashboard should contain 10&ndash;15 metrics &mdash; no more. According to Gartner&rsquo;s research on executive dashboards, tracking more than 15 KPIs at the CEO level leads to information overload and dilutes focus on the metrics that actually drive decisions. The optimal dashboard balances lagging indicators (revenue, EBITDA, cash flow) with leading indicators (pipeline value, NPS, employee retention) and should fit on a single page. Each department dashboard should have 5&ndash;8 metrics that the functional leader directly influences. The antidote to dashboard bloat is asking three questions about every KPI: Does it inform a decision? Does it predict an outcome? Can we influence it? If the answer to all three is no, remove it.
+          A CEO dashboard should contain 10-15 metrics, no more. According to Gartner&rsquo;s research on executive dashboards, tracking more than 15 KPIs at the CEO level leads to information overload and dilutes focus on the metrics that actually drive decisions. The optimal dashboard balances lagging indicators (revenue, EBITDA, cash flow) with leading indicators (pipeline value, NPS, employee retention) and should fit on a single page. Each department dashboard should have 5-8 metrics that the functional leader directly influences. The antidote to dashboard bloat is asking three questions about every KPI: Does it inform a decision? Does it predict an outcome? Can we influence it? If the answer to all three is no, remove it.
         </p>
 
         <h3 className={h3Class}>What is the most important KPI for a newly acquired business?</h3>
         <p>
-          Cash balance and debt service coverage ratio (DSCR). According to Stanford GSB&rsquo;s research on search fund failures, the most common cause of post-acquisition distress is a cash crisis driven by underestimated working capital needs, unexpected customer churn, or aggressive debt service obligations. Track cash balance daily and DSCR monthly during the first year. Your lenders will have a minimum DSCR covenant &mdash; typically 1.2x&ndash;1.5x &mdash; and falling below it triggers default provisions that give lenders significant use. Beyond cash flow, customer retention rate is the leading operational indicator that best predicts long-term business health: even a small increase in annual churn from 5% to 8% compounds into significant revenue loss over a five-year hold period.
+          Cash balance and debt service coverage ratio (DSCR). According to Stanford GSB&rsquo;s research on search fund failures, the most common cause of post-acquisition distress is a cash crisis driven by underestimated working capital needs, unexpected customer churn, or aggressive debt service obligations. Track cash balance daily and DSCR monthly during the first year. Your lenders will have a minimum DSCR covenant, typically 1.2x-1.5x, and falling below it triggers default provisions that give lenders significant use. Beyond cash flow, customer retention rate is the leading operational indicator that best predicts long-term business health: even a small increase in annual churn from 5% to 8% compounds into significant revenue loss over a five-year hold period.
         </p>
 
         <h3 className={h3Class}>What tools should I use for building a KPI dashboard?</h3>
         <p>
-          Start simple and upgrade over time. According to Forrester&rsquo;s research on BI adoption in SMEs, a well-structured Google Sheets or Excel spreadsheet is sufficient for most businesses in the first 6&ndash;12 months &mdash; it is flexible, familiar, and free. Once you have clean, consistent data sources, move to a business intelligence tool: Microsoft Power BI ($10 per user per month) is the most cost-effective option for SMEs and integrates well with QuickBooks, Xero, and most ERP systems. Dedicated KPI platforms like Databox or Geckoboard ($50&ndash;$300 per month) specialize in pulling data from multiple sources into a single dashboard. For a deeper look at selecting and implementing these tools, see our{" "}
+          Start simple and upgrade over time. According to Forrester&rsquo;s research on BI adoption in SMEs, a well-structured Google Sheets or Excel spreadsheet is sufficient for most businesses in the first 6-12 months, it is flexible, familiar, and free. Once you have clean, consistent data sources, move to a business intelligence tool: Microsoft Power BI ($10 per user per month) is the most cost-effective option for SMEs and integrates well with QuickBooks, Xero, and most ERP systems. Dedicated KPI platforms like Databox or Geckoboard ($50-$300 per month) specialize in pulling data from multiple sources into a single dashboard. For a deeper look at selecting and implementing these tools, see our{" "}
           <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation guide</Link>.
-          The best tool is the one your team will actually use &mdash; do not let perfection delay progress.
+          The best tool is the one your team will actually use, do not let perfection delay progress.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

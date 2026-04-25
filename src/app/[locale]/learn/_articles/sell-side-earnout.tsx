@@ -9,12 +9,12 @@ export default function SellSideEarnoutArticle() {
 
       <div className={bodyClass}>
         <p>
-          If you&apos;re selling a business to a search fund acquirer, there is a strong chance an earnout will land on the table. According to SRS Acquiom&apos;s 2024 Deal Terms Study, roughly 63% of private M&amp;A transactions below $100 million include some form of contingent consideration. For sellers, this creates a distinct challenge: a portion of your purchase price &mdash; often 10% to 30% &mdash; hinges on future performance metrics you may no longer control. This guide explains how sell-side earnouts work in search fund deals, what structures protect you, where sellers most often lose money, and how to negotiate terms that reflect your company&apos;s actual value.
+          If you&apos;re selling a business to a search fund acquirer, there is a strong chance an earnout will land on the table. According to SRS Acquiom&apos;s 2024 Deal Terms Study, roughly 63% of private M&amp;A transactions below $100 million include some form of contingent consideration. For sellers, this creates a distinct challenge: a portion of your purchase price, often 10% to 30%, hinges on future performance metrics you may no longer control. This guide explains how sell-side earnouts work in search fund deals, what structures protect you, where sellers most often lose money, and how to negotiate terms that reflect your company&apos;s actual value.
         </p>
 
         <h2 className={h2Class}>What a sell-side earnout is and when to expect one</h2>
         <p>
-          An earnout is a contractual mechanism that makes part of the purchase price contingent on the business hitting specified performance targets after closing. The seller receives a base payment at close and additional payments &mdash; typically over one to three years &mdash; if agreed-upon metrics are met.
+          An earnout is a contractual mechanism that makes part of the purchase price contingent on the business hitting specified performance targets after closing. The seller receives a base payment at close and additional payments, typically over one to three years, if agreed-upon metrics are met.
         </p>
         <p>
           Search fund buyers propose earnouts in predictable scenarios. The most common is a <strong>valuation gap</strong>: you believe your business is worth 5.5x EBITDA based on its growth trajectory, but the buyer&apos;s model supports 4.5x based on historical performance. An earnout structured around revenue growth can bridge that 1x gap without requiring either party to concede. In the search fund world, where acquirers raise finite equity from institutional investors and layer on SBA or bank debt, an earnout also eases financing constraints by deferring a slice of the total consideration.
@@ -34,12 +34,12 @@ export default function SellSideEarnoutArticle() {
           Revenue is the metric most favorable to sellers. It sits at the top of the income statement, is auditable from bank deposits and invoices, and is difficult for a buyer to manipulate without visibly damaging the business. A typical structure might pay the seller an additional $500,000 if trailing twelve-month revenue exceeds $5 million by the first anniversary of close.
         </p>
         <p>
-          The main risk is that the buyer shifts revenue recognition timing &mdash; delaying invoicing near the measurement date or reclassifying certain income streams. Protect against this by specifying that revenue is calculated using the same recognition policies the company applied during the two fiscal years before closing.
+          The main risk is that the buyer shifts revenue recognition timing, delaying invoicing near the measurement date or reclassifying certain income streams. Protect against this by specifying that revenue is calculated using the same recognition policies the company applied during the two fiscal years before closing.
         </p>
 
         <h3 className={h3Class}>EBITDA-based earnouts</h3>
         <p>
-          EBITDA-based earnouts are the most common in private M&amp;A &mdash; and the most dangerous for sellers. The buyer, who controls the company post-close, has dozens of levers to reduce reported EBITDA: hiring a management company that charges administrative fees, accelerating discretionary spending, allocating shared corporate overhead, changing depreciation schedules, or increasing executive compensation. A 2023 American Bar Association study found that EBITDA-based earnout disputes were three times more likely to result in litigation than revenue-based ones.
+          EBITDA-based earnouts are the most common in private M&amp;A, and the most dangerous for sellers. The buyer, who controls the company post-close, has dozens of levers to reduce reported EBITDA: hiring a management company that charges administrative fees, accelerating discretionary spending, allocating shared corporate overhead, changing depreciation schedules, or increasing executive compensation. A 2023 American Bar Association study found that EBITDA-based earnout disputes were three times more likely to result in litigation than revenue-based ones.
         </p>
         <p>
           If you agree to an EBITDA metric, insist on a detailed definition of &ldquo;Adjusted EBITDA&rdquo; in the purchase agreement that mirrors the adjustments used during the{" "}
@@ -52,7 +52,7 @@ export default function SellSideEarnoutArticle() {
           Milestone earnouts tie payments to specific events: renewing a key customer contract, obtaining a regulatory approval, launching a product line, or retaining a certain percentage of employees. These work well when the valuation gap stems from a single identifiable risk. For example, if a buyer is concerned that your largest client (30% of revenue) may leave after the transition, an earnout that pays $300,000 upon that client&apos;s renewal at the next contract anniversary addresses the concern directly.
         </p>
         <p>
-          The pitfall is vague language. &ldquo;Successful integration&rdquo; or &ldquo;customer satisfaction improvement&rdquo; are subjective and unenforceable. Every milestone must be binary &mdash; either it happened or it did not &mdash; with no room for interpretation.
+          The pitfall is vague language. &ldquo;Successful integration&rdquo; or &ldquo;customer satisfaction improvement&rdquo; are subjective and unenforceable. Every milestone must be binary, either it happened or it did not, with no room for interpretation.
         </p>
 
         <h2 className={h2Class}>Earnout sizing and duration: what is typical</h2>
@@ -60,7 +60,7 @@ export default function SellSideEarnoutArticle() {
           In search fund acquisitions, earnouts typically represent <strong>10% to 30% of the total purchase price</strong>. On a $4 million deal valued at 4x EBITDA on a $1 million cash flow business, that means $400,000 to $1.2 million is at risk. The percentage tends to increase when the valuation gap is wider or when the business has identifiable risks the buyer wants the seller to share.
         </p>
         <p>
-          Duration matters as much as size. According to SRS Acquiom data, the median earnout period in sub-$100 million deals is 24 months, with a range from 12 to 36 months. As a seller, shorter is better &mdash; every additional month gives the buyer more time to make operational changes that could depress your metrics. Push for <strong>12 to 18 months</strong> with annual or semi-annual measurement dates. If the buyer insists on 24+ months, negotiate for interim payments rather than a single lump-sum at the end.
+          Duration matters as much as size. According to SRS Acquiom data, the median earnout period in sub-$100 million deals is 24 months, with a range from 12 to 36 months. As a seller, shorter is better, every additional month gives the buyer more time to make operational changes that could depress your metrics. Push for <strong>12 to 18 months</strong> with annual or semi-annual measurement dates. If the buyer insists on 24+ months, negotiate for interim payments rather than a single lump-sum at the end.
         </p>
         <p>
           Some sellers negotiate <strong>tiered earnouts</strong> with partial payouts at lower thresholds. For example: 50% of the earnout pays if revenue reaches $4.5 million, 75% at $4.75 million, and 100% at $5 million. This structure reduces the all-or-nothing risk that makes earnouts punitive for sellers who fall just short of a single target.
@@ -68,14 +68,14 @@ export default function SellSideEarnoutArticle() {
 
         <h2 className={h2Class}>Seller protection mechanisms</h2>
         <p>
-          The core problem with any earnout is that once you close the sale, the buyer controls the business. Your financial outcome depends on someone else&apos;s decisions. The protections below are not optional &mdash; they are the difference between an earnout that pays and one that becomes a litigation expense. These protections should be addressed during the{" "}
+          The core problem with any earnout is that once you close the sale, the buyer controls the business. Your financial outcome depends on someone else&apos;s decisions. The protections below are not optional, they are the difference between an earnout that pays and one that becomes a litigation expense. These protections should be addressed during the{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
           stage, not left for definitive documents.
         </p>
 
         <h3 className={h3Class}>Reporting rights</h3>
         <p>
-          Require monthly or quarterly financial statements prepared using the same accounting policies in effect before close. You should have the right to review these statements within 30 days of each period-end and to request supporting documentation for any line item. Without reporting rights, you are flying blind until the earnout measurement date &mdash; and by then it may be too late to object to changes that reduced your payout.
+          Require monthly or quarterly financial statements prepared using the same accounting policies in effect before close. You should have the right to review these statements within 30 days of each period-end and to request supporting documentation for any line item. Without reporting rights, you are flying blind until the earnout measurement date, and by then it may be too late to object to changes that reduced your payout.
         </p>
 
         <h3 className={h3Class}>Operational covenants</h3>
@@ -85,7 +85,7 @@ export default function SellSideEarnoutArticle() {
 
         <h3 className={h3Class}>Dispute resolution</h3>
         <p>
-          Specify that disagreements over earnout calculations are resolved by an independent accounting firm (typically a Big Four or regional firm agreed upon at signing). The independent accountant&apos;s determination should be final and binding. This is faster and cheaper than litigation. Avoid arbitration panels with multiple arbitrators &mdash; they add cost and delay. The purchase agreement should also allocate the cost of the independent accountant based on which party&apos;s position was further from the final determination.
+          Specify that disagreements over earnout calculations are resolved by an independent accounting firm (typically a Big Four or regional firm agreed upon at signing). The independent accountant&apos;s determination should be final and binding. This is faster and cheaper than litigation. Avoid arbitration panels with multiple arbitrators, they add cost and delay. The purchase agreement should also allocate the cost of the independent accountant based on which party&apos;s position was further from the final determination.
         </p>
 
         <h3 className={h3Class}>Anti-sandbagging and acceleration</h3>
@@ -138,18 +138,18 @@ export default function SellSideEarnoutArticle() {
 
         <h3 className={h3Class}>Accept when:</h3>
         <ul className={ulClass}>
-          <li>The earnout bridges a genuine valuation gap of 10&ndash;20% and you have high confidence in hitting the targets based on current trajectory</li>
-          <li>The metric is revenue-based, the duration is 12&ndash;18 months, and the buyer has agreed to operational covenants and reporting rights</li>
+          <li>The earnout bridges a genuine valuation gap of 10-20% and you have high confidence in hitting the targets based on current trajectory</li>
+          <li>The metric is revenue-based, the duration is 12-18 months, and the buyer has agreed to operational covenants and reporting rights</li>
           <li>You are staying on in a management role and will directly influence the metrics being measured</li>
           <li>The base consideration (cash at close) already covers your minimum acceptable price, and the earnout represents upside</li>
         </ul>
 
         <h3 className={h3Class}>Counter when:</h3>
         <ul className={ulClass}>
-          <li>The buyer proposes EBITDA-based metrics &mdash; counter with revenue or gross profit instead</li>
-          <li>The duration exceeds 18 months &mdash; counter with a shorter period and interim payment dates</li>
-          <li>The earnout exceeds 25% of total consideration &mdash; propose a higher base price with a smaller contingent component</li>
-          <li>The proposal lacks operational covenants &mdash; provide a specific list of required protections before discussing the earnout amount</li>
+          <li>The buyer proposes EBITDA-based metrics, counter with revenue or gross profit instead</li>
+          <li>The duration exceeds 18 months, counter with a shorter period and interim payment dates</li>
+          <li>The earnout exceeds 25% of total consideration, propose a higher base price with a smaller contingent component</li>
+          <li>The proposal lacks operational covenants, provide a specific list of required protections before discussing the earnout amount</li>
         </ul>
 
         <h3 className={h3Class}>Reject when:</h3>
@@ -158,10 +158,10 @@ export default function SellSideEarnoutArticle() {
           <li>The metric is EBITDA or net income and the buyer refuses to add covenant protections</li>
           <li>You are departing immediately after close and will have zero influence over performance</li>
           <li>The buyer has a track record of acquiring companies with earnouts and consistently under-paying (check references from prior sellers)</li>
-          <li>You have competing offers with more certain consideration &mdash; a bird in hand is worth more than a contingent payment</li>
+          <li>You have competing offers with more certain consideration, a bird in hand is worth more than a contingent payment</li>
         </ul>
         <p>
-          Remember that an earnout is not free money for the seller &mdash; it transfers risk from the buyer to you. Every dollar in the earnout is a dollar of uncertainty. Price that uncertainty by discounting the expected earnout value by 25% to 40% when comparing offers, depending on the strength of protections and your confidence in the metrics. If you are evaluating multiple paths, the{" "}
+          Remember that an earnout is not free money for the seller, it transfers risk from the buyer to you. Every dollar in the earnout is a dollar of uncertainty. Price that uncertainty by discounting the expected earnout value by 25% to 40% when comparing offers, depending on the strength of protections and your confidence in the metrics. If you are evaluating multiple paths, the{" "}
           <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategies guide</Link>{" "}
           provides a broader framework for weighing your options.
         </p>
@@ -170,7 +170,7 @@ export default function SellSideEarnoutArticle() {
         <p>
           Before accepting an earnout, consider whether alternative deal structures achieve the same goal with less risk. A{" "}
           <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back note</Link>{" "}
-          (seller financing) gives the buyer deferred payments without tying them to performance metrics &mdash; you get paid as long as the business stays solvent, regardless of whether it hits growth targets. The tradeoff is that seller notes typically carry lower total consideration than an earnout at maximum payout, but the payments are more certain.
+          (seller financing) gives the buyer deferred payments without tying them to performance metrics, you get paid as long as the business stays solvent, regardless of whether it hits growth targets. The tradeoff is that seller notes typically carry lower total consideration than an earnout at maximum payout, but the payments are more certain.
         </p>
         <p>
           Other alternatives include{" "}
@@ -182,7 +182,7 @@ export default function SellSideEarnoutArticle() {
 
         <h3 className={h3Class}>What percentage of the purchase price should I accept as an earnout?</h3>
         <p>
-          Most M&amp;A advisors recommend keeping the earnout below 20&ndash;25% of total consideration. Above that threshold, you are bearing a disproportionate share of the buyer&apos;s risk. If the buyer insists on 30%+ contingent consideration, push for a higher base price or explore alternative structures like seller financing that provide more payment certainty.
+          Most M&amp;A advisors recommend keeping the earnout below 20-25% of total consideration. Above that threshold, you are bearing a disproportionate share of the buyer&apos;s risk. If the buyer insists on 30%+ contingent consideration, push for a higher base price or explore alternative structures like seller financing that provide more payment certainty.
         </p>
 
         <h3 className={h3Class}>Can a buyer deliberately tank earnout metrics to avoid paying?</h3>

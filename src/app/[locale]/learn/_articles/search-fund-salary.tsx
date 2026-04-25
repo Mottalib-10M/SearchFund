@@ -13,7 +13,7 @@ export default function SearchFundSalaryArticle() {
         <p>
           Search fund compensation is structured unlike any other entrepreneurial
           path. During the search phase, you earn a modest salary funded by
-          investors &mdash; typically $100,000 to $150,000 per year &mdash; while
+          investors, typically $100,000 to $150,000 per year, while
           hunting full-time for an acquisition target. After closing, your pay
           resets to a CEO-level base of $150,000 to $250,000 or more. But the
           real wealth creation comes from equity: successful searchers who
@@ -33,9 +33,9 @@ export default function SearchFundSalaryArticle() {
         <p>
           In a traditional search fund, investor capital covers the searcher&rsquo;s
           salary throughout the deal-sourcing period. The 2024 Stanford Search
-          Fund Study &mdash; which tracked 152 searchers who launched in 2022 and
-          2023 &mdash; reported a mean search salary of $139,000, up from $120,000
-          in the 2020&ndash;2021 cohort. Individual figures ranged from $60,000 to
+          Fund Study, which tracked 152 searchers who launched in 2022 and
+          2023, reported a mean search salary of $139,000, up from $120,000
+          in the 2020-2021 cohort. Individual figures ranged from $60,000 to
           $250,000, with the median clustering around $130,000.
         </p>
 
@@ -49,15 +49,15 @@ export default function SearchFundSalaryArticle() {
           </li>
           <li>
             <strong>Partnered searchers:</strong> Each partner typically draws
-            a salary in the same range as solo searchers &mdash; approximately
-            $100,000 to $130,000 per person &mdash; because the total search
+            a salary in the same range as solo searchers, approximately
+            $100,000 to $130,000 per person, because the total search
             capital raised is higher (median of $620,000 for a duo versus
             $425,000 for a solo fund).
           </li>
           <li>
             <strong>Sponsored-model searchers:</strong> When a single
             institutional investor or search fund accelerator backs the search,
-            salaries tend to be lower &mdash; $80,000 to $100,000 &mdash;
+            salaries tend to be lower, $80,000 to $100,000 , 
             because the sponsor provides infrastructure, deal flow, and
             mentorship that reduce overall search expenses.
           </li>
@@ -86,8 +86,8 @@ export default function SearchFundSalaryArticle() {
         <ol className={olClass}>
           <li>
             <strong>Investor expectations.</strong> Search fund investors have
-            seen hundreds of deals. Most have informal benchmarks &mdash;
-            typically $110,000 to $140,000 &mdash; that they consider reasonable.
+            seen hundreds of deals. Most have informal benchmarks , 
+            typically $110,000 to $140,000, that they consider reasonable.
             Asking for $200,000 as a first-time searcher will raise eyebrows
             and may signal misaligned priorities.
           </li>
@@ -135,7 +135,7 @@ export default function SearchFundSalaryArticle() {
 
         <p>
           Beyond base salary, the search fund covers a defined set of expenses.
-          Understanding what is &mdash; and is not &mdash; included prevents
+          Understanding what is, and is not, included prevents
           surprises during the most financially lean period of the ETA journey.
         </p>
 
@@ -162,7 +162,7 @@ export default function SearchFundSalaryArticle() {
           <li>
             <strong>Technology and tools:</strong> CRM software, data
             subscriptions, deal aggregation platforms, and email tools are
-            standard reimbursable expenses &mdash; typically $500 to $1,000 per
+            standard reimbursable expenses, typically $500 to $1,000 per
             month.
           </li>
           <li>
@@ -185,14 +185,14 @@ export default function SearchFundSalaryArticle() {
 
         <ul className={ulClass}>
           <li>
-            <strong>$1M&ndash;$3M EBITDA companies:</strong> Base salary of
-            $150,000 to $220,000. At this scale, the CEO wears many hats &mdash;
+            <strong>$1M-$3M EBITDA companies:</strong> Base salary of
+            $150,000 to $220,000. At this scale, the CEO wears many hats , 
             head of sales, chief financial decision-maker, and primary people
             manager. Board members expect the salary to reflect the company&rsquo;s
             cash-flow reality.
           </li>
           <li>
-            <strong>$3M&ndash;$5M EBITDA companies:</strong> Base salary of
+            <strong>$3M-$5M EBITDA companies:</strong> Base salary of
             $200,000 to $270,000. The business can support a small executive
             team, freeing the CEO to focus on strategy, key customer
             relationships, and growth initiatives.
@@ -209,7 +209,7 @@ export default function SearchFundSalaryArticle() {
           includes investor representatives. Benchmarking against third-party
           compensation surveys for similarly sized companies in the same industry
           and region is the best way to anchor the discussion. Investors want the
-          CEO fairly compensated &mdash; not distracted by financial stress, but
+          CEO fairly compensated, not distracted by financial stress, but
           not overpaid relative to the company&rsquo;s earnings power.
         </p>
 
@@ -231,7 +231,7 @@ export default function SearchFundSalaryArticle() {
         <h3 className={h3Class}>How compensation evolves over the hold period</h3>
         <p>
           CEO pay is not static. In Year 1, the focus is on stabilizing
-          operations and learning the business &mdash; compensation sits at the
+          operations and learning the business, compensation sits at the
           lower end of the range. By Years 2 and 3, as the CEO delivers results,
           base salary increases of 5% to 10% annually are common. By Years 4 and
           5, total cash compensation (salary plus bonus) may be 40% to 60%
@@ -256,8 +256,8 @@ export default function SearchFundSalaryArticle() {
         <ol className={olClass}>
           <li>
             <strong>Acquisition tranche (roughly one-third):</strong> Vests
-            immediately upon closing the deal. This tranche &mdash; typically
-            8% to 10% of fully diluted equity &mdash; rewards the searcher for
+            immediately upon closing the deal. This tranche, typically
+            8% to 10% of fully diluted equity, rewards the searcher for
             identifying, negotiating, and completing the acquisition.
           </li>
           <li>
@@ -269,7 +269,7 @@ export default function SearchFundSalaryArticle() {
           </li>
           <li>
             <strong>Performance tranche (roughly one-third):</strong> Vests only
-            if investor returns hit specific IRR thresholds &mdash; commonly 25%
+            if investor returns hit specific IRR thresholds, commonly 25%
             to 35% IRR for full vesting, with partial vesting at lower hurdles.
             This tranche directly ties the searcher&rsquo;s upside to investor
             outcomes, creating deep alignment.
@@ -292,7 +292,7 @@ export default function SearchFundSalaryArticle() {
           Consider a traditional searcher who acquires a company at $10 million
           enterprise value ($4 million equity, $6 million debt) and earns 25%
           equity across all three tranches. Over five years, the CEO grows EBITDA
-          from $2 million to $3.5 million and exits at 5.5x EBITDA &mdash; a
+          from $2 million to $3.5 million and exits at 5.5x EBITDA, a
           $19.25 million enterprise value. After repaying $4 million in remaining
           debt, equity value is approximately $15.25 million. The searcher&rsquo;s
           25% share is worth roughly $3.8 million. Add five years of CEO cash
@@ -328,14 +328,14 @@ export default function SearchFundSalaryArticle() {
             receive no salary during the search. They finance living expenses
             from personal savings, a working spouse&rsquo;s income, part-time
             consulting, or a combination. Personal burn rates of $3,000 to
-            $10,000 per month &mdash; depending on location, family situation,
-            and lifestyle &mdash; mean total out-of-pocket costs of $50,000 to
+            $10,000 per month, depending on location, family situation,
+            and lifestyle, mean total out-of-pocket costs of $50,000 to
             $150,000 over a 6-to-18-month search.
           </li>
           <li>
             <strong>Post-acquisition CEO salary:</strong> Once the deal closes,
             self-funded CEOs typically pay themselves a market-rate salary
-            similar to the traditional model &mdash; $150,000 to $250,000
+            similar to the traditional model, $150,000 to $250,000
             depending on company size. Because they control the board (or are
             the sole owner), they have more discretion over their own pay, but
             prudent operators keep salaries conservative to preserve cash for
@@ -345,16 +345,16 @@ export default function SearchFundSalaryArticle() {
             <strong>Equity ownership: 50% to 100%.</strong> The defining
             advantage. Without institutional investors taking 70% to 80% of
             the equity, self-funded searchers retain majority or full ownership.
-            This means a smaller acquisition &mdash; say a $3 million to $5
+            This means a smaller acquisition, say a $3 million to $5
             million enterprise value business financed with SBA 7(a) debt and
-            seller notes &mdash; can still produce life-changing wealth if
+            seller notes, can still produce life-changing wealth if
             operated well over five to seven years.
           </li>
           <li>
             <strong>Long-term cash flow:</strong> Self-funded owners who grow a
             business and pay down acquisition debt can eventually generate
             $250,000 to $500,000 per year in combined salary, distributions, and
-            debt-free cash flow &mdash; without ever selling the business.
+            debt-free cash flow, without ever selling the business.
           </li>
         </ul>
 
@@ -369,7 +369,7 @@ export default function SearchFundSalaryArticle() {
 
         <p>
           To evaluate search fund compensation accurately, you need to model the
-          entire seven-year arc &mdash; from the first day of the search through
+          entire seven-year arc, from the first day of the search through
           exit.
         </p>
 
@@ -385,9 +385,9 @@ export default function SearchFundSalaryArticle() {
         <p>
           This scenario assumes the searcher acquires a company, all three
           equity tranches vest, and the business achieves a strong but not
-          exceptional exit. The median outcome is lower &mdash; Stanford data
+          exceptional exit. The median outcome is lower, Stanford data
           suggests $3.5 million to $4.5 million in total economic value for the
-          median successful searcher &mdash; because the distribution is
+          median successful searcher, because the distribution is
           right-skewed by a handful of exceptional exits.
         </p>
 
@@ -396,7 +396,7 @@ export default function SearchFundSalaryArticle() {
           <li>Search-phase salary (1.5 years): <strong>$0</strong></li>
           <li>Personal search expenses: <strong>($100,000)</strong></li>
           <li>CEO salary (5.5 years at $175K average): <strong>$962,500</strong></li>
-          <li>Owner distributions (years 4&ndash;7 after debt paydown): <strong>$400,000</strong></li>
+          <li>Owner distributions (years 4-7 after debt paydown): <strong>$400,000</strong></li>
           <li>Equity at exit (75% of $12M equity value): <strong>$9,000,000</strong></li>
           <li><strong>Total seven-year compensation: approximately $10.3 million</strong></li>
           <li><strong>Annualized: approximately $1.5 million per year</strong></li>
@@ -420,7 +420,7 @@ export default function SearchFundSalaryArticle() {
         <p>
           For traditional search funds in the United States, the typical range is
           $100,000 to $150,000 per year, with the 2024 Stanford study reporting a
-          mean of $139,000 for searchers who launched in 2022&ndash;2023. The exact
+          mean of $139,000 for searchers who launched in 2022-2023. The exact
           figure depends on geography, cost of living, and how much total search
           capital you raise. Self-funded searchers earn no salary during the
           search and finance their living expenses personally.
@@ -458,8 +458,8 @@ export default function SearchFundSalaryArticle() {
         </h3>
         <p>
           For searchers who successfully acquire and operate a business, the
-          lifetime economic outcome &mdash; typically $3.5 million to $10 million
-          or more over seven years &mdash; far exceeds what most professionals
+          lifetime economic outcome, typically $3.5 million to $10 million
+          or more over seven years, far exceeds what most professionals
           earn on a traditional corporate or consulting career path over the same
           period. However, approximately 37% of traditional searchers never
           complete an acquisition, and their economic return is limited to the

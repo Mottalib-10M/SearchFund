@@ -9,9 +9,9 @@ export default function HomeServicesAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          Home services and field services businesses &mdash; HVAC, plumbing,
+          Home services and field services businesses, HVAC, plumbing,
           electrical, pest control, landscaping, roofing, and related trades
-          &mdash; have emerged as one of the most popular sectors for search
+          have emerged as one of the most popular sectors for search
           fund acquisitions and{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>. The thesis is
           compelling: essential, non-discretionary services with recurring
@@ -61,8 +61,8 @@ export default function HomeServicesAcquisitionArticle() {
 
         <h2 className={h2Class}>Route density and service territory analysis</h2>
         <p>
-          Route density &mdash; the concentration of customers within a
-          defined geographic area &mdash; is a critical driver of
+          Route density, the concentration of customers within a
+          defined geographic area, is a critical driver of
           profitability in field services. Every mile a technician drives
           between jobs is a mile of unproductive, unbillable time that
           consumes fuel, vehicle wear, and labor cost. The most profitable
@@ -75,7 +75,7 @@ export default function HomeServicesAcquisitionArticle() {
             HVAC maintenance technician should complete 5-8 service calls
             per day. If the business is averaging 3-4 calls, there is
             likely a routing problem, a territory problem, or a scheduling
-            efficiency problem &mdash; all of which represent upside.
+            efficiency problem, all of which represent upside.
           </li>
           <li>
             <strong>Drive time analysis:</strong> Review dispatching data
@@ -180,8 +180,8 @@ export default function HomeServicesAcquisitionArticle() {
           strategies have generated the most compelling returns. According
           to the Pepperdine Private Capital Markets Report, the economics
           work because of a clear arbitrage: individual home services
-          businesses sell for 3&ndash;4x EBITDA, while consolidated
-          platforms with $5M+ EBITDA trade at 6&ndash;10x or higher.
+          businesses sell for 3-4x EBITDA, while consolidated
+          platforms with $5M+ EBITDA trade at 6-10x or higher.
         </p>
         <ul className={ulClass}>
           <li>
@@ -224,7 +224,7 @@ export default function HomeServicesAcquisitionArticle() {
           and condition of the fleet, the maintenance schedule (or lack
           thereof), whether vehicles are owned or leased, and the
           replacement cycle. Deferred fleet maintenance is a common
-          hidden liability in home services acquisitions &mdash; sellers
+          hidden liability in home services acquisitions, sellers
           may delay vehicle replacements to improve short-term cash flow
           at the expense of future capital needs.
         </p>
@@ -388,8 +388,8 @@ export default function HomeServicesAcquisitionArticle() {
           tailwind that few other sectors can match. The keys to success
           are solving the technician recruitment and retention challenge,
           building recurring revenue through maintenance agreements,
-          using technology for operational efficiency, and &mdash;
-          for those pursuing a buy-and-build strategy &mdash;
+          using technology for operational efficiency, and , 
+          for those pursuing a buy-and-build strategy , 
           disciplined tuck-in acquisitions that improve route density
           and drive margin expansion. Once you close, a thoughtful{" "}
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link> plan
@@ -409,10 +409,10 @@ export default function HomeServicesAcquisitionArticle() {
           revenue potential (maintenance agreements), essential demand (heating
           and cooling are non-discretionary), equipment replacement cycles
           that drive predictable demand, and proven roll-up economics. HVAC
-          businesses typically trade at 4&ndash;6x EBITDA, and the regulatory
+          businesses typically trade at 4-6x EBITDA, and the regulatory
           complexity around refrigerant handling and energy efficiency creates
           meaningful barriers to entry for new competitors. Pest control is
-          another strong option due to its 70&ndash;80% recurring revenue base,
+          another strong option due to its 70-80% recurring revenue base,
           though customer acquisition costs are higher.
         </p>
 
@@ -420,9 +420,9 @@ export default function HomeServicesAcquisitionArticle() {
         <p>
           Route density is one of the most important drivers of profitability
           and therefore valuation in field services businesses. A company with
-          tight geographic coverage can complete 6&ndash;8 service calls per
+          tight geographic coverage can complete 6-8 service calls per
           technician per day, while a company with sprawling territory may only
-          manage 3&ndash;4. That difference translates directly to revenue per
+          manage 3-4. That difference translates directly to revenue per
           technician and EBITDA margin. Buyers performing{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> should
           map all customer locations, calculate average drive times, and
@@ -433,11 +433,11 @@ export default function HomeServicesAcquisitionArticle() {
         <h3 className={h3Class}>What margins should I expect in a home services acquisition?</h3>
         <p>
           EBITDA margins in home services vary by sub-sector and operational
-          maturity. HVAC businesses typically achieve 12&ndash;20% EBITDA
-          margins, with best-in-class operators reaching 22&ndash;25%. Plumbing
-          runs 10&ndash;18%, electrical 10&ndash;15%, and pest control
-          15&ndash;25% (higher due to recurring revenue). Landscaping margins
-          are typically lower at 8&ndash;15%. Post-acquisition, the primary
+          maturity. HVAC businesses typically achieve 12-20% EBITDA
+          margins, with best-in-class operators reaching 22-25%. Plumbing
+          runs 10-18%, electrical 10-15%, and pest control
+          15-25% (higher due to recurring revenue). Landscaping margins
+          are typically lower at 8-15%. Post-acquisition, the primary
           margin improvement levers are route density optimization, maintenance
           agreement penetration, overhead consolidation (for tuck-in
           acquisitions), and technology implementation that reduces

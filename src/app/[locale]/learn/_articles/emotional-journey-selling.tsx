@@ -6,7 +6,7 @@ export default function EmotionalJourneySellingArticle() {
     <article>
       <h1 className={h1Class}>The Emotional Journey of Selling Your Business</h1>
       <div className={bodyClass}>
-        <p>Selling a business is often the most significant financial and emotional event in an entrepreneur&apos;s life. After years or decades of building, the decision to sell triggers a complex mix of relief, grief, excitement, anxiety, and identity loss. Understanding this emotional journey &mdash; and planning for it &mdash; helps sellers manage the process with clarity and avoid decisions driven by emotion rather than logic.</p>
+        <p>Selling a business is often the most significant financial and emotional event in an entrepreneur&apos;s life. After years or decades of building, the decision to sell triggers a complex mix of relief, grief, excitement, anxiety, and identity loss. Understanding this emotional journey, and planning for it, helps sellers manage the process with clarity and avoid decisions driven by emotion rather than logic.</p>
       </div>
 
       <h2 className={h2Class}>The Emotional Stages</h2>
@@ -17,7 +17,7 @@ export default function EmotionalJourneySellingArticle() {
           <li><strong>Process intensity:</strong> Due diligence, negotiations, and deal complexity consume all mental energy. Stress peaks.</li>
           <li><strong>Closing euphoria:</strong> The deal closes. Financial security achieved. Brief period of intense relief and celebration.</li>
           <li><strong>Identity crisis:</strong> Within weeks to months, many sellers experience a loss of identity, purpose, and daily structure.</li>
-          <li><strong>Adjustment:</strong> Gradually finding new purpose, relationships, and activities. This phase can take 6&ndash;24 months.</li>
+          <li><strong>Adjustment:</strong> Gradually finding new purpose, relationships, and activities. This phase can take 6-24 months.</li>
         </ol>
       </div>
 
@@ -36,7 +36,7 @@ export default function EmotionalJourneySellingArticle() {
       <h2 className={h2Class}>Preparing Emotionally</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Start early:</strong> Begin emotional preparation 1&ndash;2 years before selling. Gradually delegate and create distance from daily operations.</li>
+          <li><strong>Start early:</strong> Begin emotional preparation 1-2 years before selling. Gradually delegate and create distance from daily operations.</li>
           <li><strong>Define your &ldquo;why&rdquo;:</strong> Clarify your reasons for selling. Write them down. Revisit during difficult moments in the process.</li>
           <li><strong>Build identity beyond the business:</strong> Develop hobbies, relationships, and activities independent of your company before selling.</li>
           <li><strong>Plan your next chapter:</strong> Have a vision for post-sale life: travel, consulting, philanthropy, new ventures, or family time.</li>
@@ -60,9 +60,9 @@ export default function EmotionalJourneySellingArticle() {
         <ul className={ulClass}>
           <li>Selling a business triggers a predictable emotional journey: contemplation, decision, process stress, closing euphoria, identity crisis, and adjustment</li>
           <li>Common traps include deal fatigue withdrawal, overvaluation from emotional attachment, and post-sale identity loss</li>
-          <li>Start emotional preparation 1&ndash;2 years before selling by building identity and purpose beyond the business</li>
+          <li>Start emotional preparation 1-2 years before selling by building identity and purpose beyond the business</li>
           <li>Buyers who demonstrate empathy, respect for legacy, and structured transition support close more deals and better prices</li>
-          <li>Post-sale adjustment takes 6&ndash;24 months &mdash; plan for this period with clear goals and support systems</li>
+          <li>Post-sale adjustment takes 6-24 months, plan for this period with clear goals and support systems</li>
         </ul>
       </div>
 
@@ -79,19 +79,19 @@ export default function EmotionalJourneySellingArticle() {
       <h3 className={h3Class}>How long does the post-sale identity crisis typically last?</h3>
 
       <div className={bodyClass}>
-        <p>According to research by the Exit Planning Institute and Bo Burlingham&rsquo;s <em>Finish Big</em>, the post-sale identity adjustment period typically lasts 6&ndash;24 months, with the most intense period occurring in the first 3&ndash;6 months after closing. Studies show that approximately 75% of former business owners report feelings of loss, purposelessness, or regret within the first year after selling. The duration and intensity of this phase correlate strongly with how central the business was to the seller&rsquo;s identity and daily routine. Sellers who begin building identity and purpose beyond their business 1&ndash;2 years before selling&mdash;through hobbies, board service, mentoring, or planning a new venture&mdash;experience significantly shorter and less severe adjustment periods.</p>
+        <p>According to research by the Exit Planning Institute and Bo Burlingham&rsquo;s <em>Finish Big</em>, the post-sale identity adjustment period typically lasts 6-24 months, with the most intense period occurring in the first 3-6 months after closing. Studies show that approximately 75% of former business owners report feelings of loss, purposelessness, or regret within the first year after selling. The duration and intensity of this phase correlate strongly with how central the business was to the seller&rsquo;s identity and daily routine. Sellers who begin building identity and purpose beyond their business 1-2 years before selling, through hobbies, board service, mentoring, or planning a new venture, experience significantly shorter and less severe adjustment periods.</p>
       </div>
 
       <h3 className={h3Class}>What is the most common emotional reason deals fall apart?</h3>
 
       <div className={bodyClass}>
-        <p>Deal fatigue withdrawal&mdash;where the seller pulls out of a transaction at a late stage due to emotional overwhelm rather than rational assessment&mdash;is the most common emotionally driven deal failure, accounting for an estimated 15&ndash;20% of all failed transactions according to Harvard Business Review research on M&amp;A psychology. The intensity of the due diligence process, combined with the finality of the decision, triggers a fight-or-flight response in many sellers. This risk is highest in the 2&ndash;4 weeks before closing, when legal complexity peaks and the seller faces the reality of signing over their life&rsquo;s work. Buyers can mitigate this risk by maintaining empathetic communication, providing clear timelines, and ensuring the seller has trusted advisors (accountant, lawyer, therapist) who can provide perspective during emotionally charged moments.</p>
+        <p>Deal fatigue withdrawal, where the seller pulls out of a transaction at a late stage due to emotional overwhelm rather than rational assessment, is the most common emotionally driven deal failure, accounting for an estimated 15-20% of all failed transactions according to Harvard Business Review research on M&amp;A psychology. The intensity of the due diligence process, combined with the finality of the decision, triggers a fight-or-flight response in many sellers. This risk is highest in the 2-4 weeks before closing, when legal complexity peaks and the seller faces the reality of signing over their life&rsquo;s work. Buyers can mitigate this risk by maintaining empathetic communication, providing clear timelines, and ensuring the seller has trusted advisors (accountant, lawyer, therapist) who can provide perspective during emotionally charged moments.</p>
       </div>
 
       <h3 className={h3Class}>Should sellers seek professional counseling during the sale process?</h3>
 
       <div className={bodyClass}>
-        <p>Yes, and the research strongly supports this recommendation. The Exit Planning Institute reports that sellers who work with a therapist, executive coach, or peer support group during the sale process are 40% more likely to complete the transaction without regret and report significantly higher life satisfaction 12 months post-sale. The emotional complexity of selling a business&mdash;grief, identity loss, fear of irrelevance, family dynamics&mdash;often exceeds what financial and legal advisors can address. Peer support groups of former business owners (such as those organized through EO, YPO, or local chambers of commerce) are particularly valuable because they normalize the emotional journey and provide practical guidance from people who have navigated the same experience.</p>
+        <p>Yes, and the research strongly supports this recommendation. The Exit Planning Institute reports that sellers who work with a therapist, executive coach, or peer support group during the sale process are 40% more likely to complete the transaction without regret and report significantly higher life satisfaction 12 months post-sale. The emotional complexity of selling a business, grief, identity loss, fear of irrelevance, family dynamics, often exceeds what financial and legal advisors can address. Peer support groups of former business owners (such as those organized through EO, YPO, or local chambers of commerce) are particularly valuable because they normalize the emotional journey and provide practical guidance from people who have navigated the same experience.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

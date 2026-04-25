@@ -14,14 +14,14 @@ export default function BuyBusinessNoExperienceArticle() {
           You don&rsquo;t need to have run a business before to acquire one.
           About 85% of traditional search fund entrepreneurs are first-time
           operators. The search fund model was specifically designed to
-          enable talented individuals &mdash; often from consulting, banking,
-          or corporate roles &mdash; to become CEOs through acquisition.
+          enable talented individuals, often from consulting, banking,
+          or corporate roles, to become CEOs through acquisition.
           Here&rsquo;s how to do it credibly.
         </p>
 
         <h2 className={h2Class}>Why experience isn&rsquo;t a prerequisite</h2>
         <ul className={ulClass}>
-          <li><strong>You&rsquo;re buying a working system:</strong> Unlike a startup, the business already operates. Customers buy, employees work, and cash flows. Your job is to manage and improve &mdash; not build from zero</li>
+          <li><strong>You&rsquo;re buying a working system:</strong> Unlike a startup, the business already operates. Customers buy, employees work, and cash flows. Your job is to manage and improve, not build from zero</li>
           <li><strong>The model compensates for inexperience:</strong>{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
               Search fund investors
@@ -84,7 +84,7 @@ export default function BuyBusinessNoExperienceArticle() {
               acquisition thesis
             </Link>{" "}
             shows you&rsquo;ve done your homework</li>
-          <li><strong>Demonstrate domain learning:</strong> Spend 2&ndash;3 months studying your target industry. Talk to operators, attend trade shows, read trade publications</li>
+          <li><strong>Demonstrate domain learning:</strong> Spend 2-3 months studying your target industry. Talk to operators, attend trade shows, read trade publications</li>
           <li><strong>Build an advisory network:</strong> Having experienced operators and investors as{" "}
             <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">
               advisors
@@ -116,7 +116,7 @@ export default function BuyBusinessNoExperienceArticle() {
               first 100 days
             </Link>{" "}
             listening. The existing team knows the business better than you do</li>
-          <li><strong>Lean on experienced managers:</strong> Identify and empower the 2&ndash;3 key employees who run daily operations</li>
+          <li><strong>Lean on experienced managers:</strong> Identify and empower the 2-3 key employees who run daily operations</li>
           <li><strong>Be transparent:</strong> &ldquo;I&rsquo;m new to this industry but committed to learning&rdquo; is more credible than pretending you know everything</li>
         </ul>
 
@@ -127,7 +127,7 @@ export default function BuyBusinessNoExperienceArticle() {
               Pre-search preparation
             </Link>:
           </strong> Financial planning, skill assessment, network building</li>
-          <li><strong>Industry research:</strong> Deep-dive into 2&ndash;3{" "}
+          <li><strong>Industry research:</strong> Deep-dive into 2-3{" "}
             <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
               target industries
             </Link>. Understand market dynamics, key metrics, and common challenges</li>
@@ -135,7 +135,7 @@ export default function BuyBusinessNoExperienceArticle() {
             <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
               EBITDA analysis
             </Link></li>
-          <li><strong>ETA community:</strong> Join search fund communities. Attend conferences. Connect with 10&ndash;20 current or former searchers</li>
+          <li><strong>ETA community:</strong> Join search fund communities. Attend conferences. Connect with 10-20 current or former searchers</li>
           <li><strong>Mentor:</strong> Find an experienced searcher or CEO who will be your informal advisor throughout the process</li>
         </ol>
 
@@ -145,7 +145,7 @@ export default function BuyBusinessNoExperienceArticle() {
           <li><strong>Simple business model:</strong> Revenue from services or products you can understand quickly. Avoid highly technical or regulated industries unless you have relevant background</li>
           <li><strong>Loyal customer base:</strong> Low churn, diversified customers, contractual relationships. Don&rsquo;t buy a business where customer retention depends on the current owner&rsquo;s personal relationships</li>
           <li><strong>Stable or growing:</strong> Don&rsquo;t try to execute a turnaround as your first acquisition. Buy a healthy business and make it better</li>
-          <li><strong>Reasonable owner transition:</strong> Negotiate 6&ndash;12 months of seller involvement to transfer knowledge and relationships</li>
+          <li><strong>Reasonable owner transition:</strong> Negotiate 6-12 months of seller involvement to transfer knowledge and relationships</li>
           <li><strong>Right size:</strong> Target{" "}
             <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
               the appropriate size range
@@ -157,7 +157,7 @@ export default function BuyBusinessNoExperienceArticle() {
         <ul className={ulClass}>
           <li><strong>The search is the hard part:</strong>{" "}
             <Link href="/learn/how-long-buy-business" className="text-apple-accent hover:underline">
-              12&ndash;24 months of searching
+              12-24 months of searching
             </Link>{" "}
             is emotionally draining. Prepare for the marathon</li>
           <li><strong>Every deal falls apart:</strong> Your first{" "}

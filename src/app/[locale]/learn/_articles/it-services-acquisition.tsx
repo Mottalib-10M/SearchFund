@@ -6,18 +6,18 @@ export default function ITServicesAcquisitionArticle() {
     <article>
       <h1 className={h1Class}>Acquiring an IT Services &amp; Consulting Firm</h1>
       <div className={bodyClass}>
-        <p>IT services companies &mdash; including managed service providers (MSPs), IT consulting firms, and systems integrators &mdash; are among the most popular search fund targets. The sector offers high recurring revenue through managed services contracts, strong margins, low capital intensity, and a massive consolidation opportunity in a $500B+ global market. For search fund entrepreneurs with technology backgrounds, IT services is often the ideal acquisition vertical.</p>
+        <p>IT services companies, including managed service providers (MSPs), IT consulting firms, and systems integrators, are among the most popular search fund targets. The sector offers high recurring revenue through managed services contracts, strong margins, low capital intensity, and a massive consolidation opportunity in a $500B+ global market. For search fund entrepreneurs with technology backgrounds, IT services is often the ideal acquisition vertical.</p>
       </div>
 
       <h2 className={h2Class}>Why IT Services Businesses Are Attractive</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Recurring revenue:</strong> <Link href="/learn/acquiring-msp-business" className="text-apple-accent hover:underline">Managed service providers</Link> generate 60&ndash;80% recurring revenue through monthly contracts</li>
-          <li><strong>High margins:</strong> EBITDA margins of 15&ndash;25% for well-run firms; MSPs can reach 20&ndash;30%</li>
+          <li><strong>Recurring revenue:</strong> <Link href="/learn/acquiring-msp-business" className="text-apple-accent hover:underline">Managed service providers</Link> generate 60-80% recurring revenue through monthly contracts</li>
+          <li><strong>High margins:</strong> EBITDA margins of 15-25% for well-run firms; MSPs can reach 20-30%</li>
           <li><strong>Low capex:</strong> People-based business with minimal physical infrastructure</li>
-          <li><strong>Sticky customers:</strong> Switching IT providers is painful &mdash; retention rates exceed 90% for good MSPs</li>
-          <li><strong>Fragmented market:</strong> Thousands of small IT companies with 5&ndash;50 employees</li>
-          <li><strong>Growing demand:</strong> SMB IT spending increases 8&ndash;12% annually as technology becomes more critical</li>
+          <li><strong>Sticky customers:</strong> Switching IT providers is painful, retention rates exceed 90% for good MSPs</li>
+          <li><strong>Fragmented market:</strong> Thousands of small IT companies with 5-50 employees</li>
+          <li><strong>Growing demand:</strong> SMB IT spending increases 8-12% annually as technology becomes more critical</li>
         </ul>
       </div>
 
@@ -63,7 +63,7 @@ export default function ITServicesAcquisitionArticle() {
           <li>Target MSPs with 60%+ recurring revenue, diverse customer base, and certified technical talent</li>
           <li>Converting project clients to managed services contracts is the #1 post-acquisition lever</li>
           <li>Cybersecurity and cloud services are the highest-growth add-ons</li>
-          <li>Technical talent retention is critical &mdash; assess certifications, tenure, and non-compete status</li>
+          <li>Technical talent retention is critical, assess certifications, tenure, and non-compete status</li>
         </ul>
       </div>
 
@@ -79,17 +79,17 @@ export default function ITServicesAcquisitionArticle() {
 
       <h3 className={h3Class}>What is a good recurring revenue percentage for an MSP acquisition target?</h3>
       <p className={bodyClass}>
-        A strong MSP acquisition target should have at least 60% of revenue from recurring managed services contracts, with best-in-class operators reaching 70&ndash;80%. ConnectWise&rsquo;s 2024 MSP Benchmark Report shows that MSPs with 70%+ recurring revenue trade at 6&ndash;8x EBITDA, while those with less than 50% recurring revenue trade at 3&ndash;5x EBITDA. Recurring revenue provides predictable cash flows, higher customer retention (90%+ for good MSPs), and more defensible competitive positioning. During due diligence, analyze the contract base carefully: average contract length, auto-renewal provisions, termination notice periods, and per-user pricing relative to market benchmarks.
+        A strong MSP acquisition target should have at least 60% of revenue from recurring managed services contracts, with best-in-class operators reaching 70-80%. ConnectWise&rsquo;s 2024 MSP Benchmark Report shows that MSPs with 70%+ recurring revenue trade at 6-8x EBITDA, while those with less than 50% recurring revenue trade at 3-5x EBITDA. Recurring revenue provides predictable cash flows, higher customer retention (90%+ for good MSPs), and more defensible competitive positioning. During due diligence, analyze the contract base carefully: average contract length, auto-renewal provisions, termination notice periods, and per-user pricing relative to market benchmarks.
       </p>
 
       <h3 className={h3Class}>What are typical EBITDA margins for IT services businesses?</h3>
       <p className={bodyClass}>
-        EBITDA margins vary significantly by sub-sector. According to Gartner&rsquo;s 2024 IT services market data, well-run managed service providers achieve 20&ndash;30% EBITDA margins, IT consulting firms operate at 15&ndash;25%, and systems integrators at 10&ndash;20%. The Channel Futures MSP 501 survey found that top-quartile MSPs achieve EBITDA margins above 25% through disciplined pricing, efficient service delivery, and high utilization rates. The primary margin levers post-acquisition are converting break-fix customers to higher-margin managed services contracts, implementing per-user pricing models, and consolidating vendor relationships for better procurement costs.
+        EBITDA margins vary significantly by sub-sector. According to Gartner&rsquo;s 2024 IT services market data, well-run managed service providers achieve 20-30% EBITDA margins, IT consulting firms operate at 15-25%, and systems integrators at 10-20%. The Channel Futures MSP 501 survey found that top-quartile MSPs achieve EBITDA margins above 25% through disciplined pricing, efficient service delivery, and high utilization rates. The primary margin levers post-acquisition are converting break-fix customers to higher-margin managed services contracts, implementing per-user pricing models, and consolidating vendor relationships for better procurement costs.
       </p>
 
       <h3 className={h3Class}>What is the biggest risk in acquiring an IT services business?</h3>
       <p className={bodyClass}>
-        Technical talent retention is the biggest risk. IT services businesses are fundamentally people businesses, and the loss of key engineers, architects, or project managers can directly impact service delivery and customer relationships. ConnectWise data shows that the average IT services company has an annual employee turnover rate of 20&ndash;25%, with top technicians being actively recruited by competitors. During due diligence, assess certifications (Microsoft, Cisco, AWS), employee tenure, non-compete agreements, and compensation relative to market rates. Budget for retention bonuses of 25&ndash;50% of base salary for critical technical staff, and plan to invest in training and career development to differentiate your company as an employer.
+        Technical talent retention is the biggest risk. IT services businesses are fundamentally people businesses, and the loss of key engineers, architects, or project managers can directly impact service delivery and customer relationships. ConnectWise data shows that the average IT services company has an annual employee turnover rate of 20-25%, with top technicians being actively recruited by competitors. During due diligence, assess certifications (Microsoft, Cisco, AWS), employee tenure, non-compete agreements, and compensation relative to market rates. Budget for retention bonuses of 25-50% of base salary for critical technical staff, and plan to invest in training and career development to differentiate your company as an employer.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

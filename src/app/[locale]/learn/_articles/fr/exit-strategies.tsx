@@ -34,8 +34,8 @@ export default function ExitStrategiesFR() {
       <h2 className={h2Class}>Vente industrielle (vente stratégique)</h2>
       <div className={bodyClass}>
         <p>
-          La vente à un acquéreur industriel &mdash; une entreprise opérant
-          dans le même secteur ou un secteur adjacent &mdash; est la voie de
+          La vente à un acquéreur industriel, une entreprise opérant
+          dans le même secteur ou un secteur adjacent, est la voie de
           sortie la plus courante et souvent la plus valorisante pour les
           search funds. L&apos;acquéreur stratégique paie une prime parce
           qu&apos;il peut extraire des synergies&nbsp;: mutualisation des
@@ -181,8 +181,8 @@ export default function ExitStrategiesFR() {
       <h2 className={h2Class}>MBO (Management Buy-Out)</h2>
       <div className={bodyClass}>
         <p>
-          Le MBO &mdash; rachat de l&apos;entreprise par son équipe de
-          direction &mdash; est une option de sortie pertinente lorsque le
+          Le MBO, rachat de l&apos;entreprise par son équipe de
+          direction, est une option de sortie pertinente lorsque le
           search fund a mis en place une équipe managériale solide et
           autonome. Le CEO vend ses parts à un ou plusieurs cadres dirigeants
           de l&apos;entreprise, qui deviennent les nouveaux actionnaires.
@@ -335,8 +335,8 @@ export default function ExitStrategiesFR() {
           </li>
         </ol>
         <p>
-          Ce mécanisme permet au CEO de différer &mdash; voire d&apos;annuler
-          à terme &mdash; l&apos;impôt sur la plus-value, tout en conservant
+          Ce mécanisme permet au CEO de différer, voire d&apos;annuler
+          à terme, l&apos;impôt sur la plus-value, tout en conservant
           une capacité de réinvestissement maximale. L&apos;apport-cession
           est particulièrement pertinent pour les CEO de search funds qui
           envisagent de réaliser une nouvelle acquisition après la sortie
@@ -480,7 +480,7 @@ export default function ExitStrategiesFR() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>
-          Code général des impôts &mdash; Articles 150-0 A, 150-0 B ter, 150-0 D ter (plus-values mobilières et apport-cession).
+          Code général des impôts, Articles 150-0 A, 150-0 B ter, 150-0 D ter (plus-values mobilières et apport-cession).
         </li>
         <li>
           Bulletin Officiel des Finances Publiques (BOFiP) &mdash; <em>Plus-values de cession de titres&nbsp;: régime applicable</em>, 2024.

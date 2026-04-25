@@ -11,9 +11,9 @@ export default function First100DaysFR() {
           Les 100 premiers jours après la reprise d&apos;une PME sont une période
           charnière qui conditionne la réussite à long terme de l&apos;opération. En
           France, cette transition s&apos;inscrit dans un cadre juridique et social
-          spécifique &mdash; droit du travail protecteur, rôle central des
+          spécifique, droit du travail protecteur, rôle central des
           instances représentatives du personnel, conventions collectives
-          contraignantes &mdash; qui impose au nouveau dirigeant une approche
+          contraignantes, qui impose au nouveau dirigeant une approche
           méthodique et respectueuse des équilibres existants. Ce guide détaille
           les étapes clés de cette période cruciale, adaptées au contexte
           réglementaire et culturel français.
@@ -24,8 +24,8 @@ export default function First100DaysFR() {
           Général d&apos;une PME française exige une compétence que votre parcours
           antérieur ne vous a pas nécessairement enseignée&nbsp;: la capacité à
           diriger une organisation existante, avec ses habitudes, ses fiertés et
-          ses réticences au changement. Chaque décision prise &mdash; ou différée
-          &mdash; durant ces premières semaines façonnera votre crédibilité
+          ses réticences au changement. Chaque décision prise, ou différée
+          durant ces premières semaines façonnera votre crédibilité
           auprès des salariés, des clients et de vos investisseurs.
         </p>
       </div>
@@ -75,14 +75,14 @@ export default function First100DaysFR() {
         <p>
           Le premier mois est consacré à l&apos;écoute et à l&apos;observation. Vous
           héritez d&apos;une organisation vivante, avec ses codes, ses rituels et sa
-          culture propre. Votre priorité absolue n&apos;est pas de diriger &mdash;
+          culture propre. Votre priorité absolue n&apos;est pas de diriger , 
           c&apos;est de comprendre.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Rencontrez chaque salarié individuellement.</strong> Dans une
-            PME de 20 à 80 personnes, il est possible &mdash; et indispensable
-            &mdash; de consacrer 20 à 30 minutes à chaque collaborateur. Posez
+            PME de 20 à 80 personnes, il est possible, et indispensable
+            de consacrer 20 à 30 minutes à chaque collaborateur. Posez
             des questions ouvertes&nbsp;: &laquo;&nbsp;Qu&apos;est-ce qui
             fonctionne bien ici&nbsp;?&nbsp;&raquo;, &laquo;&nbsp;Qu&apos;est-ce
             que vous changeriez si vous le pouviez&nbsp;?&nbsp;&raquo;,
@@ -99,7 +99,7 @@ export default function First100DaysFR() {
           <li>
             <strong>Assistez à toutes les réunions.</strong> Réunions
             commerciales, points de production, comités de direction, réunions
-            CSE &mdash; observez comment les décisions sont prises dans la
+            CSE, observez comment les décisions sont prises dans la
             réalité, au-delà de l&apos;organigramme formel.
           </li>
         </ul>
@@ -111,7 +111,7 @@ export default function First100DaysFR() {
             lignes hiérarchiques, les processus de décision et les structures de
             pouvoir informelles. Dans de nombreuses PME, les dynamiques réelles
             diffèrent significativement de l&apos;organigramme officiel. Repérez
-            les collaborateurs &laquo;&nbsp;pivots&nbsp;&raquo; &mdash; ceux vers
+            les collaborateurs &laquo;&nbsp;pivots&nbsp;&raquo;, ceux vers
             qui les autres se tournent pour les questions techniques, les
             problèmes clients ou les arbitrages internes.
           </li>
@@ -137,8 +137,8 @@ export default function First100DaysFR() {
       <h2 className={h2Class}>Communication aux salariés</h2>
       <div className={bodyClass}>
         <p>
-          La communication est le levier le plus puissant &mdash; et le plus
-          sous-estimé &mdash; des premiers jours. Les salariés sont naturellement
+          La communication est le levier le plus puissant, et le plus
+          sous-estimé, des premiers jours. Les salariés sont naturellement
           inquiets face au changement de propriétaire. Leurs préoccupations portent
           sur la pérennité de leur emploi, le maintien de leurs avantages acquis et
           la personnalité du nouveau dirigeant.
@@ -159,7 +159,7 @@ export default function First100DaysFR() {
           </li>
           <li>
             <strong>Respectez les instances représentatives.</strong> Le CSE
-            n&apos;est pas un obstacle administratif &mdash; c&apos;est un
+            n&apos;est pas un obstacle administratif, c&apos;est un
             interlocuteur légitime et un relais d&apos;information précieux.
             Établissez une relation constructive avec les élus du personnel dès
             le premier jour. Prévoyez des réunions régulières au-delà du minimum
@@ -212,7 +212,7 @@ export default function First100DaysFR() {
             cotisations sociales en France. Assurez-vous que l&apos;entreprise est
             à jour de ses obligations déclaratives et de paiement. Les arriérés de
             cotisations sociales constituent l&apos;un des risques les plus
-            fréquents lors d&apos;une reprise &mdash; vérifiez que votre{" "}
+            fréquents lors d&apos;une reprise, vérifiez que votre{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
             </Link>{" "}
@@ -232,7 +232,7 @@ export default function First100DaysFR() {
       <div className={bodyClass}>
         <p>
           La dernière phase des 100 premiers jours est celle de la mise en
-          œuvre. Vous avez écouté, diagnostiqué et planifié &mdash; il est temps
+          œuvre. Vous avez écouté, diagnostiqué et planifié, il est temps
           d&apos;agir, mais de façon mesurée et communiquée.
         </p>
         <h3 className={h3Class}>Prise en main opérationnelle</h3>
@@ -269,8 +269,8 @@ export default function First100DaysFR() {
         <ul className={ulClass}>
           <li>
             <strong>Envoyez votre premier reporting investisseur.</strong> Un
-            rapport mensuel structuré &mdash; résultats financiers, indicateurs
-            opérationnels, faits marquants, prochaines étapes &mdash; installe
+            rapport mensuel structuré, résultats financiers, indicateurs
+            opérationnels, faits marquants, prochaines étapes, installe
             la discipline et la confiance avec vos investisseurs. Soyez honnête
             sur les difficultés rencontrées.
           </li>
@@ -363,7 +363,7 @@ export default function First100DaysFR() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>
-          Code du travail &mdash; Articles L. 2312-8 et suivants (information et consultation du CSE).
+          Code du travail, Articles L. 2312-8 et suivants (information et consultation du CSE).
         </li>
         <li>
           Loi n&deg; 2014-856 du 31 juillet 2014 (loi Hamon) &mdash; <em>Droit d&apos;information des salariés en cas de cession</em>.

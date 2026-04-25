@@ -15,8 +15,8 @@ export default function EmployeeEquityIncentivesArticle() {
           owner-operator faces in the first year is how to design equity and
           incentive plans for key employees. The right plan retains critical
           talent, aligns incentives with long-term value creation, and satisfies
-          investor expectations. The wrong plan &mdash; or the absence of one
-          &mdash; can trigger departures, misaligned behavior, and value
+          investor expectations. The wrong plan, or the absence of one
+          can trigger departures, misaligned behavior, and value
           destruction during the most vulnerable phase of the transition.
         </p>
         <p>
@@ -45,7 +45,7 @@ export default function EmployeeEquityIncentivesArticle() {
           Equity incentives solve several problems simultaneously. First, they
           create a financial reason for key employees to stay through the
           transition period and beyond. Second, they align employee behavior
-          with the goal of growing enterprise value &mdash; not just hitting
+          with the goal of growing enterprise value, not just hitting
           short-term targets. Third, they signal to employees that the new
           owner views them as partners in building something valuable, not
           merely as cost centers to be optimized. In an acquisition context
@@ -97,7 +97,7 @@ export default function EmployeeEquityIncentivesArticle() {
           </li>
           <li>
             <strong>Best for:</strong> C-suite executives and a small number of
-            senior leaders (typically 2&ndash;5 people) who are critical to
+            senior leaders (typically 2-5 people) who are critical to
             the long-term success of the business and sophisticated enough
             to understand ownership rights and obligations.
           </li>
@@ -105,8 +105,8 @@ export default function EmployeeEquityIncentivesArticle() {
 
         <h3 className={h3Class}>Phantom equity (synthetic ownership)</h3>
         <p>
-          Phantom equity &mdash; also called shadow equity, synthetic equity,
-          or stock appreciation rights (SARs) &mdash; provides the economic
+          Phantom equity, also called shadow equity, synthetic equity,
+          or stock appreciation rights (SARs), provides the economic
           benefit of ownership without granting actual shares. The employee
           receives a contractual right to a cash payment that mirrors what
           they would have received if they owned actual shares, typically
@@ -138,13 +138,13 @@ export default function EmployeeEquityIncentivesArticle() {
         <h3 className={h3Class}>Choosing between the two</h3>
         <p>
           Many search fund CEOs use a hybrid approach: real equity for the top
-          2&ndash;3 executives who are indispensable to the business, and
-          phantom equity or profit-sharing for the next tier of 5&ndash;10 key
+          2-3 executives who are indispensable to the business, and
+          phantom equity or profit-sharing for the next tier of 5-10 key
           employees. This preserves cap table simplicity while still giving
           critical employees meaningful upside participation. Discuss the
           approach with your{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board of directors</Link>{" "}
-          before making commitments &mdash; investors will have strong opinions
+          before making commitments, investors will have strong opinions
           about dilution and governance complexity.
         </p>
 
@@ -157,23 +157,23 @@ export default function EmployeeEquityIncentivesArticle() {
           on the depth of the management team, the industry, and the
           competitive environment for talent in the company&rsquo;s geography.
           A common starting point is 10%, which provides enough room to
-          incentivize 5&ndash;8 key employees without excessively diluting the
+          incentivize 5-8 key employees without excessively diluting the
           searcher and investors.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>5&ndash;7%:</strong> Appropriate when the existing team is
+            <strong>5-7%:</strong> Appropriate when the existing team is
             strong and stable, turnover risk is low, and the company operates
             in a market where equity compensation is less common (e.g., blue-
             collar industries, smaller markets).
           </li>
           <li>
-            <strong>8&ndash;12%:</strong> The most common range for search fund
+            <strong>8-12%:</strong> The most common range for search fund
             acquisitions. Provides meaningful grants for a COO/GM, a VP of
-            Sales, a finance lead, and 2&ndash;3 additional key contributors.
+            Sales, a finance lead, and 2-3 additional key contributors.
           </li>
           <li>
-            <strong>12&ndash;15%:</strong> Appropriate for acquisitions in
+            <strong>12-15%:</strong> Appropriate for acquisitions in
             competitive talent markets (technology, professional services) or
             when the business requires significant hiring of senior talent
             post-acquisition.
@@ -182,7 +182,7 @@ export default function EmployeeEquityIncentivesArticle() {
         <p>
           The pool should be established and approved by the board at or
           shortly after closing. Do not wait until you need to make a grant to
-          begin the process &mdash; the legal and valuation work takes time,
+          begin the process, the legal and valuation work takes time,
           and delays can cost you a key hire.
         </p>
 
@@ -201,7 +201,7 @@ export default function EmployeeEquityIncentivesArticle() {
             someone who leaves within the first year.
           </li>
           <li>
-            <strong>Years 2&ndash;4 (monthly or quarterly vesting):</strong>{" "}
+            <strong>Years 2-4 (monthly or quarterly vesting):</strong>{" "}
             The remaining 75% vests in equal monthly or quarterly increments
             over the next 36 months. Monthly vesting is the most common
             approach and provides the smoothest retention incentive.
@@ -239,14 +239,14 @@ export default function EmployeeEquityIncentivesArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Structure:</strong> A common approach is to allocate
-            10&ndash;20% of EBITDA above a baseline threshold to a profit-
+            10-20% of EBITDA above a baseline threshold to a profit-
             sharing pool, which is then distributed to eligible employees
             based on a formula (equal shares, salary-weighted, or performance-
             weighted).
           </li>
           <li>
             <strong>Eligibility:</strong> Profit-sharing can be extended more
-            broadly than equity &mdash; to all employees or all employees
+            broadly than equity, to all employees or all employees
             above a certain tenure threshold. This makes it a powerful
             tool for building a culture of ownership across the entire
             organization, not just senior leadership.
@@ -265,7 +265,7 @@ export default function EmployeeEquityIncentivesArticle() {
         </ul>
         <p>
           Many search fund CEOs use profit-sharing for the broader employee
-          base while reserving equity or phantom equity for the top 5&ndash;10
+          base while reserving equity or phantom equity for the top 5-10
           key people. This layered approach maximizes retention of critical
           talent while building a performance-oriented culture across the
           entire company.
@@ -274,7 +274,7 @@ export default function EmployeeEquityIncentivesArticle() {
         <h2 className={h2Class}>Stay bonuses and key-person retention</h2>
         <p>
           Stay bonuses are one-time cash payments contingent on an employee
-          remaining with the company through a specified date &mdash; typically
+          remaining with the company through a specified date, typically
           12 to 24 months after the acquisition closes. They are particularly
           useful in the first year when the new owner is still building trust
           and the management transition is underway.
@@ -297,7 +297,7 @@ export default function EmployeeEquityIncentivesArticle() {
             <strong>Bridge to equity plan:</strong> Stay bonuses can serve as
             a short-term retention tool while the longer-term equity
             incentive plan is being designed and implemented, which
-            often takes 3&ndash;6 months after closing.
+            often takes 3-6 months after closing.
           </li>
         </ul>
 
@@ -305,7 +305,7 @@ export default function EmployeeEquityIncentivesArticle() {
         <p>
           Typical stay bonuses range from 25% to 100% of the employee&rsquo;s
           annual base salary, depending on their criticality and flight risk.
-          For the most important 2&ndash;3 employees, a bonus equal to 50&ndash;100%
+          For the most important 2-3 employees, a bonus equal to 50-100%
           of salary is common. The payment is typically split: 50% paid at
           the 12-month anniversary and 50% at the 24-month anniversary, or
           100% paid at a single milestone date. Stay bonuses are taxed as
@@ -314,8 +314,8 @@ export default function EmployeeEquityIncentivesArticle() {
 
         <h3 className={h3Class}>Key-person retention agreements</h3>
         <p>
-          For the most critical employees &mdash; often the general manager,
-          head of sales, or lead technical person &mdash; a formal retention
+          For the most critical employees, often the general manager,
+          head of sales, or lead technical person, a formal retention
           agreement may be warranted. This goes beyond a simple stay bonus
           and may include enhanced severance protections, change-of-control
           benefits, non-compete restrictions with associated compensation,
@@ -339,7 +339,7 @@ export default function EmployeeEquityIncentivesArticle() {
           value of the company&rsquo;s common stock. It establishes the
           exercise price for stock options and the value at which restricted
           stock or other equity awards are granted. The IRS requires that
-          stock options be granted at or above fair market value &mdash;
+          stock options be granted at or above fair market value , 
           granting options below fair market value (known as &quot;cheap
           stock&quot;) triggers immediate 409A penalties.
         </p>
@@ -347,14 +347,14 @@ export default function EmployeeEquityIncentivesArticle() {
           <li>
             <strong>Timing:</strong> A 409A valuation should be completed
             before the first equity grants are made, typically within
-            3&ndash;6 months of the acquisition closing. The valuation is
+            3-6 months of the acquisition closing. The valuation is
             valid for 12 months unless a material event occurs (e.g., a
             significant change in revenue, a new financing round, or a
             change in business fundamentals).
           </li>
           <li>
             <strong>Cost:</strong> Third-party 409A valuations typically cost
-            $3,000&ndash;$10,000 for a small private company. This is a
+            $3,000-$10,000 for a small private company. This is a
             modest cost relative to the legal and tax risks of non-compliance.
           </li>
           <li>
@@ -374,7 +374,7 @@ export default function EmployeeEquityIncentivesArticle() {
           grant (often the case shortly after an acquisition) and expected to
           appreciate significantly. The employee pays tax on a small amount
           now and converts all future appreciation into long-term capital
-          gains. Missing the 30-day filing deadline is irrevocable &mdash;
+          gains. Missing the 30-day filing deadline is irrevocable , 
           as discussed in our{" "}
           <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">searcher compensation guide</Link>,
           this is one of the most common and costly tax mistakes in the
@@ -439,7 +439,7 @@ export default function EmployeeEquityIncentivesArticle() {
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap table and equity structure</Link>,
           and it must satisfy the expectations of the investors who funded
           the acquisition. Getting investor buy-in early is not optional
-          &mdash; it is essential.
+          it is essential.
         </p>
 
         <h3 className={h3Class}>Present the plan to the board before implementation</h3>
@@ -456,9 +456,9 @@ export default function EmployeeEquityIncentivesArticle() {
 
         <h3 className={h3Class}>Align vesting with the expected hold period</h3>
         <p>
-          Search fund investors typically expect a 5&ndash;7 year hold period.
+          Search fund investors typically expect a 5-7 year hold period.
           If your equity plan uses a four-year vesting schedule, key employees
-          will be fully vested 1&ndash;3 years before the expected exit. This
+          will be fully vested 1-3 years before the expected exit. This
           creates a retention gap: once fully vested, employees have less
           financial incentive to stay. Consider adding a &quot;refresh
           grant&quot; provision that allows for additional grants after the
@@ -471,7 +471,7 @@ export default function EmployeeEquityIncentivesArticle() {
           Investors generally support incentive plans that tie vesting to
           metrics they care about: EBITDA growth, revenue growth, customer
           retention, and cash flow generation. Avoid plans that vest purely
-          on time &mdash; while time-based vesting is simpler, investors
+          on time, while time-based vesting is simpler, investors
           want to see that management equity is earned through performance,
           not merely through showing up. A common structure is 50%
           time-based vesting and 50% performance-based vesting, which
@@ -482,19 +482,19 @@ export default function EmployeeEquityIncentivesArticle() {
         <ol className={olClass}>
           <li>
             <strong>Identify key employees:</strong> Within the first 30 days,
-            map the organization and identify the 5&ndash;10 people whose
+            map the organization and identify the 5-10 people whose
             departure would materially impact the business. These are your
             priority recipients.
           </li>
           <li>
             <strong>Determine the total pool size:</strong> Work with your
-            board to set aside 5&ndash;15% of fully diluted equity for the
+            board to set aside 5-15% of fully diluted equity for the
             management incentive pool. Document the dilution impact on all
             existing shareholders.
           </li>
           <li>
             <strong>Choose the instrument:</strong> Real equity for the top
-            2&ndash;3 executives, phantom equity or SARs for the next tier,
+            2-3 executives, phantom equity or SARs for the next tier,
             and profit-sharing for the broader team.
           </li>
           <li>
@@ -537,17 +537,17 @@ export default function EmployeeEquityIncentivesArticle() {
           calls from recruiters and wondering whether the new ownership
           values them. Aim to have stay bonuses in place within the first
           30 days and a full equity incentive plan approved and communicated
-          within the first 90&ndash;120 days. Speed matters more than
+          within the first 90-120 days. Speed matters more than
           perfection.
         </p>
 
         <h3 className={h3Class}>Granting too much equity too broadly</h3>
         <p>
-          Equity is a finite resource. Granting 1&ndash;2% to every manager
+          Equity is a finite resource. Granting 1-2% to every manager
           in the company may feel generous, but it can quickly consume the
           entire pool and leave nothing for future hires or performance-based
-          grants. Be strategic: concentrate meaningful grants (2&ndash;5%) on
-          the 2&ndash;3 most critical people and use smaller grants or phantom
+          grants. Be strategic: concentrate meaningful grants (2-5%) on
+          the 2-3 most critical people and use smaller grants or phantom
           equity for others.
         </p>
 
@@ -564,7 +564,7 @@ export default function EmployeeEquityIncentivesArticle() {
         <p>
           If your investors expect a 6-year hold and your vesting schedule
           is 3 years, your key employees will be fully vested with 3 years
-          of runway remaining &mdash; precisely when you need them most to
+          of runway remaining, precisely when you need them most to
           prepare for and execute the exit. Match vesting to the expected
           timeline and include provisions for refresh grants.
         </p>
@@ -574,8 +574,8 @@ export default function EmployeeEquityIncentivesArticle() {
           Equity that employees do not understand or cannot see growing has
           no retention power. Send regular updates showing the estimated
           value of vested and unvested equity. When the company hits
-          milestones &mdash; a record revenue quarter, a successful new
-          product launch, a debt paydown &mdash; connect those achievements
+          milestones, a record revenue quarter, a successful new
+          product launch, a debt paydown, connect those achievements
           to the growth in equity value. Make the incentive plan a living,
           visible part of the company&rsquo;s culture, not a dusty document
           filed in HR.
@@ -588,9 +588,9 @@ export default function EmployeeEquityIncentivesArticle() {
           reason, termination without cause) typically allow the employee
           to retain vested equity. Bad leaver provisions (termination for
           cause, voluntary resignation without good reason) may require
-          forfeiture of some or all vested equity. Repurchase rights &mdash;
+          forfeiture of some or all vested equity. Repurchase rights , 
           allowing the company to buy back vested shares at fair market
-          value &mdash; prevent former employees from becoming passive
+          value, prevent former employees from becoming passive
           minority shareholders with governance rights but no operational
           involvement.
         </p>
@@ -603,13 +603,13 @@ export default function EmployeeEquityIncentivesArticle() {
             most powerful retention and alignment tool.
           </li>
           <li>
-            Use a layered approach: real equity for the top 2&ndash;3
+            Use a layered approach: real equity for the top 2-3
             executives, phantom equity or SARs for the next tier, and
             profit-sharing for the broader team.
           </li>
           <li>
-            Size the option pool at 5&ndash;15% of fully diluted equity,
-            with 8&ndash;12% being the most common range in search fund
+            Size the option pool at 5-15% of fully diluted equity,
+            with 8-12% being the most common range in search fund
             acquisitions.
           </li>
           <li>
@@ -624,7 +624,7 @@ export default function EmployeeEquityIncentivesArticle() {
           </li>
           <li>
             Move quickly: stay bonuses within 30 days, full incentive plan
-            within 90&ndash;120 days. Do not let perfect be the enemy of
+            within 90-120 days. Do not let perfect be the enemy of
             good when key talent is at risk.
           </li>
           <li>
@@ -638,19 +638,19 @@ export default function EmployeeEquityIncentivesArticle() {
 
         <h3 className={h3Class}>How large should the management equity pool be in a search fund acquisition?</h3>
         <p>
-          Management equity pools in search fund acquisitions typically range from 5% to 15% of fully diluted equity, with 8&ndash;12% being the most common range. According to Stanford GSB&rsquo;s Search Fund Study, acquisitions with management equity pools in the 8&ndash;12% range show the strongest correlation with employee retention and operational performance in the first three years. The exact size depends on management team depth, local talent market competitiveness, and the number of key employees requiring incentives. Concentrate meaningful grants (2&ndash;5%) on the 2&ndash;3 most critical people (COO/GM, VP Sales, finance lead) and use smaller grants or{" "}
+          Management equity pools in search fund acquisitions typically range from 5% to 15% of fully diluted equity, with 8-12% being the most common range. According to Stanford GSB&rsquo;s Search Fund Study, acquisitions with management equity pools in the 8-12% range show the strongest correlation with employee retention and operational performance in the first three years. The exact size depends on management team depth, local talent market competitiveness, and the number of key employees requiring incentives. Concentrate meaningful grants (2-5%) on the 2-3 most critical people (COO/GM, VP Sales, finance lead) and use smaller grants or{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">phantom equity</Link>{" "}
           for the next tier. Present the total pool and allocation plan to your board before making individual commitments.
         </p>
 
         <h3 className={h3Class}>Should I use phantom equity or real equity for key employees?</h3>
         <p>
-          The best approach is a hybrid: real equity for the top 2&ndash;3 executives who are indispensable, and phantom equity for the next tier of 5&ndash;10 key employees. According to the National Center for Employee Ownership (NCEO), real equity provides the strongest alignment because employees become true co-owners with voting rights and direct participation in exit proceeds, but it complicates the cap table and may require 409A valuations ($3K&ndash;$10K each). Phantom equity provides the economic benefit without cap table complexity, but payments are taxed as ordinary income (not capital gains) for the recipient. S-corporations and certain LLC structures may make issuing real equity to employees problematic from a tax perspective &mdash; consult with your tax advisor before deciding.
+          The best approach is a hybrid: real equity for the top 2-3 executives who are indispensable, and phantom equity for the next tier of 5-10 key employees. According to the National Center for Employee Ownership (NCEO), real equity provides the strongest alignment because employees become true co-owners with voting rights and direct participation in exit proceeds, but it complicates the cap table and may require 409A valuations ($3K-$10K each). Phantom equity provides the economic benefit without cap table complexity, but payments are taxed as ordinary income (not capital gains) for the recipient. S-corporations and certain LLC structures may make issuing real equity to employees problematic from a tax perspective, consult with your tax advisor before deciding.
         </p>
 
         <h3 className={h3Class}>What is a 409A valuation and when do I need one?</h3>
         <p>
-          A 409A valuation is an independent appraisal of the fair market value of the company&rsquo;s common stock, required by IRS Section 409A before granting stock options or other equity-based awards. According to the AICPA, non-compliance with 409A can result in severe penalties for the employee: immediate taxation of all deferred compensation, a 20% additional tax, and interest penalties. The valuation should be completed within 3&ndash;6 months of closing and before the first equity grants are made. Third-party 409A valuations cost $3,000&ndash;$10,000 for a small private company and are valid for 12 months unless a material event occurs. Using a qualified independent appraiser provides a &ldquo;safe harbor&rdquo; presumption that the valuation is reasonable, shifting the burden of proof to the IRS if challenged.
+          A 409A valuation is an independent appraisal of the fair market value of the company&rsquo;s common stock, required by IRS Section 409A before granting stock options or other equity-based awards. According to the AICPA, non-compliance with 409A can result in severe penalties for the employee: immediate taxation of all deferred compensation, a 20% additional tax, and interest penalties. The valuation should be completed within 3-6 months of closing and before the first equity grants are made. Third-party 409A valuations cost $3,000-$10,000 for a small private company and are valid for 12 months unless a material event occurs. Using a qualified independent appraiser provides a &ldquo;safe harbor&rdquo; presumption that the valuation is reasonable, shifting the burden of proof to the IRS if challenged.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

@@ -321,7 +321,7 @@ export default function SearchFundLegalStructureArticle() {
 
         <h3 className={h3Class}>How much does entity setup cost for a search fund?</h3>
         <p>
-          In the US, total legal costs for entity setup and LP documentation typically range from $15,000 to $30,000, paid from search capital. This includes forming the Delaware LP, the GP entity (single-member LLC), drafting the Limited Partnership Agreement, preparing the Private Placement Memorandum and subscription documents, and securities compliance review. In Europe, costs are generally higher at EUR 15,000 to EUR 40,000 due to notarial requirements (mandatory in France, Germany, and the Netherlands), more complex cross-border tax structuring, and the need for jurisdiction-specific counsel. According to IESE&rsquo;s Search Fund Conference data, European searchers should budget 20&ndash;40% more for legal setup compared to their US counterparts.
+          In the US, total legal costs for entity setup and LP documentation typically range from $15,000 to $30,000, paid from search capital. This includes forming the Delaware LP, the GP entity (single-member LLC), drafting the Limited Partnership Agreement, preparing the Private Placement Memorandum and subscription documents, and securities compliance review. In Europe, costs are generally higher at EUR 15,000 to EUR 40,000 due to notarial requirements (mandatory in France, Germany, and the Netherlands), more complex cross-border tax structuring, and the need for jurisdiction-specific counsel. According to IESE&rsquo;s Search Fund Conference data, European searchers should budget 20-40% more for legal setup compared to their US counterparts.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

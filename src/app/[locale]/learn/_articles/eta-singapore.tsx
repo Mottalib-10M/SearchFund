@@ -20,8 +20,8 @@ export default function ETASingaporeArticle() {
           one of the world&rsquo;s largest untapped opportunities for
           acquisition-driven entrepreneurship. An aging founder generation, a
           rapidly expanding middle class of 400+ million consumers, and
-          deepening capital markets make Southeast Asia a compelling &mdash; if
-          complex &mdash; frontier for search fund operators.
+          deepening capital markets make Southeast Asia a compelling, if
+          complex, frontier for search fund operators.
         </p>
 
         <h2 className={h2Class}>Why Singapore &amp; SEA for ETA?</h2>
@@ -41,9 +41,9 @@ export default function ETASingaporeArticle() {
           </li>
           <li>
             <strong>Aging founder demographics:</strong> First-generation
-            business owners across the region &mdash; many of whom built
-            companies during the rapid growth years of the 1980s&ndash;2000s
-            &mdash; are now in their 60s and 70s. Research from the Singapore
+            business owners across the region, many of whom built
+            companies during the rapid growth years of the 1980s-2000s
+            are now in their 60s and 70s. Research from the Singapore
             Business Federation indicates that fewer than 30% of family
             businesses have a formal succession plan.
           </li>
@@ -52,7 +52,7 @@ export default function ETASingaporeArticle() {
             is expanding rapidly, with over 400 million middle-class consumers
             expected by 2030. This demographic shift drives demand for
             healthcare, education, financial services, and consumer businesses
-            &mdash; all prime acquisition targets.
+            all prime acquisition targets.
           </li>
           <li>
             <strong>Singapore as a hub:</strong> Singapore&rsquo;s rule of law,
@@ -62,8 +62,8 @@ export default function ETASingaporeArticle() {
           </li>
           <li>
             <strong>Attractive multiples:</strong> SME valuations in the region
-            typically range from 3&ndash;6x EBITDA in Singapore and
-            2&ndash;5x in neighbouring markets, well below US and European
+            typically range from 3-6x EBITDA in Singapore and
+            2-5x in neighbouring markets, well below US and European
             levels.
           </li>
         </ul>
@@ -77,7 +77,7 @@ export default function ETASingaporeArticle() {
             corporate vehicle for acquisitions. Minimum one director
             (ordinarily resident in Singapore), one shareholder, a company
             secretary, and a registered address. No minimum paid-up capital
-            requirement. Incorporation takes 1&ndash;2 days via BizFile+.
+            requirement. Incorporation takes 1-2 days via BizFile+.
           </li>
           <li>
             <strong>Holding company structure:</strong> Most search fund
@@ -151,8 +151,8 @@ export default function ETASingaporeArticle() {
           <li>
             <strong>DBS, OCBC, UOB:</strong> Singapore&rsquo;s three major
             local banks have dedicated SME banking divisions and provide
-            acquisition financing. Typical terms: 2.5&ndash;4x EBITDA
-            use, 5&ndash;7 year tenor, SORA + 2&ndash;4% interest rates.
+            acquisition financing. Typical terms: 2.5-4x EBITDA
+            use, 5-7 year tenor, SORA + 2-4% interest rates.
           </li>
           <li>
             <strong>Government SME programs:</strong> Beyond Singapore, each
@@ -164,8 +164,8 @@ export default function ETASingaporeArticle() {
           <li>
             <strong>Seller financing:</strong> Common across the region,
             particularly in markets where bank acquisition financing is less
-            developed. Typical structures involve 20&ndash;40% of the purchase
-            price on 2&ndash;5 year terms. See our{" "}
+            developed. Typical structures involve 20-40% of the purchase
+            price on 2-5 year terms. See our{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               seller financing guide
             </Link>.
@@ -190,7 +190,7 @@ export default function ETASingaporeArticle() {
         <h3 className={h3Class}>Singapore</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Corporate tax:</strong> 17% headline rate &mdash; one of
+            <strong>Corporate tax:</strong> 17% headline rate, one of
             the lowest in Asia. Effective rates can be significantly lower due
             to partial tax exemptions and incentives.
           </li>
@@ -240,12 +240,12 @@ export default function ETASingaporeArticle() {
           </li>
           <li>
             <strong>Thailand:</strong> 20% corporate tax. BOI-promoted
-            companies can receive 3&ndash;8 year corporate tax holidays.
+            companies can receive 3-8 year corporate tax holidays.
             Capital gains taxed at the standard corporate rate.
           </li>
           <li>
             <strong>Vietnam:</strong> 20% corporate tax. Preferential rates
-            (10&ndash;17%) available for businesses in encouraged sectors or
+            (10-17%) available for businesses in encouraged sectors or
             special economic zones. 20% capital gains tax on share transfers.
           </li>
         </ul>
@@ -254,7 +254,7 @@ export default function ETASingaporeArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Technology services:</strong> IT outsourcing, managed
-            services, software development, and SaaS businesses &mdash;
+            services, software development, and SaaS businesses , 
             particularly in Singapore and Vietnam. Southeast Asia&rsquo;s tech
             talent pool and competitive labour costs make this sector
             attractive for buy-and-build strategies.
@@ -301,7 +301,7 @@ export default function ETASingaporeArticle() {
             population of just 5.9 million, Singapore&rsquo;s domestic market
             is limited. Many Singapore-based SMEs derive significant revenue
             from regional operations, and organic growth often requires
-            expansion into neighbouring markets &mdash; adding complexity to
+            expansion into neighbouring markets, adding complexity to
             post-acquisition operations.
           </li>
           <li>
@@ -322,7 +322,7 @@ export default function ETASingaporeArticle() {
           </li>
           <li>
             <strong>Talent competition:</strong> Singapore&rsquo;s tight labour
-            market (2&ndash;3% unemployment) and high cost of living create
+            market (2-3% unemployment) and high cost of living create
             fierce competition for talent, particularly in technology, finance,
             and professional services. Employee retention post-acquisition
             requires thoughtful compensation and culture strategies.
@@ -415,13 +415,13 @@ export default function ETASingaporeArticle() {
 
         <h3 className={h3Class}>How much capital do I need to acquire an SME in Singapore?</h3>
         <p>
-          Total capital requirements for a Singapore SME acquisition typically range from S$2 million to S$15 million, depending on the target&rsquo;s EBITDA and the acquisition multiple (3&ndash;6x is standard for Singapore SMEs). A typical capital structure might include 40&ndash;50% equity from search fund investors or personal capital, 30&ndash;40% senior bank debt from DBS, OCBC, or UOB at SORA + 2&ndash;4%, and 10&ndash;20% in{" "}
-          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>. Enterprise Singapore&rsquo;s EFS-M&amp;A scheme can facilitate bank lending by providing a government guarantee on a portion of the loan. For a traditional search fund, search-phase capital of S$400K&ndash;S$600K is standard. Self-funded searchers typically need S$200K&ndash;S$500K in personal capital for the down payment and co-investment. IRAS does not impose capital gains tax on the disposal of shares, making Singapore one of the most tax-efficient exit jurisdictions globally.
+          Total capital requirements for a Singapore SME acquisition typically range from S$2 million to S$15 million, depending on the target&rsquo;s EBITDA and the acquisition multiple (3-6x is standard for Singapore SMEs). A typical capital structure might include 40-50% equity from search fund investors or personal capital, 30-40% senior bank debt from DBS, OCBC, or UOB at SORA + 2-4%, and 10-20% in{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>. Enterprise Singapore&rsquo;s EFS-M&amp;A scheme can facilitate bank lending by providing a government guarantee on a portion of the loan. For a traditional search fund, search-phase capital of S$400K-S$600K is standard. Self-funded searchers typically need S$200K-S$500K in personal capital for the down payment and co-investment. IRAS does not impose capital gains tax on the disposal of shares, making Singapore one of the most tax-efficient exit jurisdictions globally.
         </p>
 
         <h3 className={h3Class}>Can a foreign national fully own a business in Singapore?</h3>
         <p>
-          Yes. Singapore places no restrictions on foreign ownership of companies in the vast majority of sectors. A foreign national can incorporate a Pte Ltd company with 100% foreign shareholding, requiring only one ordinarily resident director (who can be a professional nominee or a Singapore permanent resident). The incorporation process takes one to two days through BizFile+ and requires no minimum paid-up capital. However, the founder or CEO will need a valid work pass &mdash; typically an Employment Pass (EP) for professionals earning at least S$5,000 per month, or an EntrePass for entrepreneurs meeting specific criteria. Neighboring countries impose more significant restrictions: Indonesia requires PT PMA structures with IDR 10 billion minimum capital, Thailand&rsquo;s Foreign Business Act limits foreign ownership to 49% in most service sectors, and Malaysia requires Foreign Investment Committee approval in regulated industries. For detailed country comparisons, see our{" "}
+          Yes. Singapore places no restrictions on foreign ownership of companies in the vast majority of sectors. A foreign national can incorporate a Pte Ltd company with 100% foreign shareholding, requiring only one ordinarily resident director (who can be a professional nominee or a Singapore permanent resident). The incorporation process takes one to two days through BizFile+ and requires no minimum paid-up capital. However, the founder or CEO will need a valid work pass, typically an Employment Pass (EP) for professionals earning at least S$5,000 per month, or an EntrePass for entrepreneurs meeting specific criteria. Neighboring countries impose more significant restrictions: Indonesia requires PT PMA structures with IDR 10 billion minimum capital, Thailand&rsquo;s Foreign Business Act limits foreign ownership to 49% in most service sectors, and Malaysia requires Foreign Investment Committee approval in regulated industries. For detailed country comparisons, see our{" "}
           <Link href="/learn/eta-southeast-asia" className="text-apple-accent hover:underline">Southeast Asia ETA guide</Link>.
         </p>
 
@@ -429,17 +429,17 @@ export default function ETASingaporeArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.enterprisesg.gov.sg/financial-support/enterprise-financing-scheme" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Enterprise Singapore &mdash; Enterprise Financing Scheme for Mergers and Acquisitions
+              Enterprise Singapore, Enterprise Financing Scheme for Mergers and Acquisitions
             </a>
           </li>
           <li>
             <a href="https://www.insead.edu/centres/entrepreneurship" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              INSEAD &mdash; ETA &amp; Search Funds Hub, Asia-Pacific Research
+              INSEAD, ETA &amp; Search Funds Hub, Asia-Pacific Research
             </a>
           </li>
           <li>
             <a href="https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/taxable-non-taxable-income" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Inland Revenue Authority of Singapore (IRAS) &mdash; Capital Gains and Corporate Tax Guide
+              Inland Revenue Authority of Singapore (IRAS), Capital Gains and Corporate Tax Guide
             </a>
           </li>
         </ul>

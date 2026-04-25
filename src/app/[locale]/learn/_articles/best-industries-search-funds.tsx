@@ -30,7 +30,7 @@ export default function BestIndustriesSearchFundsArticle() {
         <h2 className={h2Class}>What makes an industry &ldquo;search fund friendly&rdquo;?</h2>
         <ul className={ulClass}>
           <li><strong>Recurring or contractual revenue:</strong> Maintenance contracts, subscriptions, retainers, or recurring billing create predictable cash flows and higher valuations</li>
-          <li><strong>Low customer concentration:</strong> No single customer should represent more than 10&ndash;15% of revenue</li>
+          <li><strong>Low customer concentration:</strong> No single customer should represent more than 10-15% of revenue</li>
           <li><strong>Fragmented market:</strong> Many small operators with no dominant market leader, creating{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
               buy-and-build
@@ -43,7 +43,7 @@ export default function BestIndustriesSearchFundsArticle() {
               baby boomer wave
             </Link>)</li>
           <li><strong>Scalable operations:</strong> Ability to systematize through technology, processes, and professional management</li>
-          <li><strong>Reasonable multiples:</strong> Businesses purchasable at 3&ndash;6x EBITDA with standard{" "}
+          <li><strong>Reasonable multiples:</strong> Businesses purchasable at 3-6x EBITDA with standard{" "}
             <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
               financing structures
             </Link></li>
@@ -59,8 +59,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Contractual revenue, low capex, scalable, high fragmentation</li>
-          <li><strong>Typical multiples:</strong> 4&ndash;6x EBITDA</li>
-          <li><strong>EBITDA margins:</strong> 12&ndash;25%</li>
+          <li><strong>Typical multiples:</strong> 4-6x EBITDA</li>
+          <li><strong>EBITDA margins:</strong> 12-25%</li>
           <li><strong>Key risk:</strong> Employee-dependent businesses can face retention challenges</li>
         </ul>
 
@@ -74,8 +74,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> 90%+ gross margins, predictable ARR, high switching costs, strong unit economics</li>
-          <li><strong>Typical multiples:</strong> 4&ndash;8x ARR (higher than other industries)</li>
-          <li><strong>EBITDA margins:</strong> 20&ndash;40%</li>
+          <li><strong>Typical multiples:</strong> 4-8x ARR (higher than other industries)</li>
+          <li><strong>EBITDA margins:</strong> 20-40%</li>
           <li><strong>Key risk:</strong> Technical debt, key developer dependency, competitive threat from larger platforms</li>
         </ul>
 
@@ -89,8 +89,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Recession-proof demand, aging population tailwind, high barriers to entry (licensing), fragmented</li>
-          <li><strong>Typical multiples:</strong> 4&ndash;7x EBITDA</li>
-          <li><strong>EBITDA margins:</strong> 15&ndash;30%</li>
+          <li><strong>Typical multiples:</strong> 4-7x EBITDA</li>
+          <li><strong>EBITDA margins:</strong> 15-30%</li>
           <li><strong>Key risk:</strong> Regulatory complexity, reimbursement rate changes, practitioner dependency</li>
           <li><strong>Sub-sectors:</strong> Dental practices, veterinary clinics, home health, behavioral health, specialty clinics</li>
         </ul>
@@ -109,8 +109,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Essential services, maintenance contracts, huge fragmentation (100K+ operators per trade), ideal for buy-and-build</li>
-          <li><strong>Typical multiples:</strong> 3&ndash;5.5x EBITDA</li>
-          <li><strong>EBITDA margins:</strong> 10&ndash;20%</li>
+          <li><strong>Typical multiples:</strong> 3-5.5x EBITDA</li>
+          <li><strong>EBITDA margins:</strong> 10-20%</li>
           <li><strong>Key risk:</strong> Technician recruitment and retention (skilled labor shortage)</li>
         </ul>
 
@@ -124,8 +124,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Relationship-based revenue, high margins, low capex, recurring engagements</li>
-          <li><strong>Typical multiples:</strong> 4&ndash;7x EBITDA (higher for IT/MSP)</li>
-          <li><strong>EBITDA margins:</strong> 15&ndash;30%</li>
+          <li><strong>Typical multiples:</strong> 4-7x EBITDA (higher for IT/MSP)</li>
+          <li><strong>EBITDA margins:</strong> 15-30%</li>
           <li><strong>Key risk:</strong> Key-person dependency, client relationships tied to the owner</li>
         </ul>
 
@@ -136,14 +136,14 @@ export default function BestIndustriesSearchFundsArticle() {
           <Link href="/learn/manufacturing-acquisition" className="text-apple-accent hover:underline">
             Niche manufacturing
           </Link>{" "}
-          businesses with defensible positions &mdash; specialty
-          fabrication, custom components, precision machining &mdash; can
+          businesses with defensible positions, specialty
+          fabrication, custom components, precision machining, can
           be excellent search fund targets.
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> High barriers to entry, long customer relationships, pricing power in niches</li>
-          <li><strong>Typical multiples:</strong> 3.5&ndash;6x EBITDA</li>
-          <li><strong>EBITDA margins:</strong> 10&ndash;20%</li>
+          <li><strong>Typical multiples:</strong> 3.5-6x EBITDA</li>
+          <li><strong>EBITDA margins:</strong> 10-20%</li>
           <li><strong>Key risk:</strong> Capital intensity, supply chain dependency, cyclicality for some sub-sectors</li>
         </ul>
 
@@ -157,8 +157,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Counter-cyclical (enrollment rises in recessions), growing demand for workforce development</li>
-          <li><strong>Typical multiples:</strong> 3&ndash;5x EBITDA</li>
-          <li><strong>EBITDA margins:</strong> 15&ndash;25%</li>
+          <li><strong>Typical multiples:</strong> 3-5x EBITDA</li>
+          <li><strong>EBITDA margins:</strong> 15-25%</li>
           <li><strong>Key risk:</strong> Instructor dependency, regulatory (accreditation), digital disruption</li>
         </ul>
 
@@ -172,8 +172,8 @@ export default function BestIndustriesSearchFundsArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Why it works:</strong> Scalable, data-rich, global addressable market</li>
-          <li><strong>Typical multiples:</strong> 3&ndash;5x SDE (lower than traditional industries)</li>
-          <li><strong>EBITDA margins:</strong> 15&ndash;35% (varies widely)</li>
+          <li><strong>Typical multiples:</strong> 3-5x SDE (lower than traditional industries)</li>
+          <li><strong>EBITDA margins:</strong> 15-35% (varies widely)</li>
           <li><strong>Key risk:</strong> Platform dependency (Amazon can change rules overnight), CAC inflation, low barriers</li>
         </ul>
 
@@ -186,15 +186,15 @@ export default function BestIndustriesSearchFundsArticle() {
           offer exceptional recurring revenue economics.
         </p>
         <ul className={ulClass}>
-          <li><strong>Why it works:</strong> Renewal-based revenue (85&ndash;95% retention), high margins, strong roll-up economics</li>
-          <li><strong>Typical multiples:</strong> 6&ndash;10x EBITDA for insurance (premium sector)</li>
-          <li><strong>EBITDA margins:</strong> 20&ndash;40%</li>
+          <li><strong>Why it works:</strong> Renewal-based revenue (85-95% retention), high margins, strong roll-up economics</li>
+          <li><strong>Typical multiples:</strong> 6-10x EBITDA for insurance (premium sector)</li>
+          <li><strong>EBITDA margins:</strong> 20-40%</li>
           <li><strong>Key risk:</strong> Regulatory licensing, compliance burden, higher multiples reduce entry attractiveness</li>
         </ul>
 
         <h2 className={h2Class}>Industries to approach with caution</h2>
         <ul className={ulClass}>
-          <li><strong>Restaurants &amp; hospitality:</strong> Low margins (5&ndash;10%), high failure rates, labor-intensive, discretionary spending</li>
+          <li><strong>Restaurants &amp; hospitality:</strong> Low margins (5-10%), high failure rates, labor-intensive, discretionary spending</li>
           <li><strong>Retail (physical):</strong> E-commerce disruption, declining foot traffic, inventory risk</li>
           <li><strong>Construction (general contracting):</strong> Project-based (no recurring revenue), highly cyclical, low margins, bonding requirements</li>
           <li><strong>Media &amp; publishing:</strong> Structural decline in traditional media, advertising revenue uncertainty</li>
@@ -260,7 +260,7 @@ export default function BestIndustriesSearchFundsArticle() {
           <li><strong>Validate the structural characteristics:</strong> Does it check the &ldquo;search fund friendly&rdquo; boxes above?</li>
           <li><strong>Check the deal flow:</strong> Are there enough businesses for sale in your target geography and size range?</li>
           <li><strong>Assess your competitive advantage:</strong> Do you bring relevant experience, relationships, or insights?</li>
-          <li><strong>Talk to operators:</strong> Reach out to search fund CEOs operating in the industry &mdash; they&rsquo;ll share what surprised them</li>
+          <li><strong>Talk to operators:</strong> Reach out to search fund CEOs operating in the industry, they&rsquo;ll share what surprised them</li>
         </ul>
         <p>
           For a broader overview of the ETA market, see our{" "}
@@ -284,7 +284,7 @@ export default function BestIndustriesSearchFundsArticle() {
           industries like business services and home services, where
           transferable management skills matter more than domain expertise.
           Regulated industries like healthcare and financial services are the
-          exception &mdash; domain knowledge significantly reduces compliance
+          exception, domain knowledge significantly reduces compliance
           risk and accelerates the{" "}
           <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">
             lifecycle
@@ -309,10 +309,10 @@ export default function BestIndustriesSearchFundsArticle() {
 
         <h3 className={h3Class}>How much do search fund-friendly industries typically cost to acquire?</h3>
         <p>
-          Tier 1 industries trade at 3&ndash;8x EBITDA depending on the
-          sector: home services at 3&ndash;5.5x, business services at
-          4&ndash;6x, professional services at 4&ndash;7x, healthcare at
-          4&ndash;7x, and SaaS at 4&ndash;8x ARR. Our{" "}
+          Tier 1 industries trade at 3-8x EBITDA depending on the
+          sector: home services at 3-5.5x, business services at
+          4-6x, professional services at 4-7x, healthcare at
+          4-7x, and SaaS at 4-8x ARR. Our{" "}
           <Link href="/learn/search-fund-cost" className="text-apple-accent hover:underline">
             search fund cost guide
           </Link>{" "}

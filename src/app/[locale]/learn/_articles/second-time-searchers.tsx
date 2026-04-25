@@ -16,7 +16,7 @@ export default function SecondTimeSearchersArticle() {
           <li><strong>Pattern recognition:</strong> You know what good and bad deals look like, and your search will be more efficient</li>
           <li><strong>Existing relationships:</strong> Previous investors, lenders, and advisors may back you again or refer you</li>
           <li><strong>Operational expertise:</strong> You&apos;ve managed a business and understand post-acquisition challenges</li>
-          <li><strong>Fundraising speed:</strong> Second raises typically close 40&ndash;60% faster than first-time raises</li>
+          <li><strong>Fundraising speed:</strong> Second raises typically close 40-60% faster than first-time raises</li>
         </ul>
       </div>
 
@@ -25,7 +25,7 @@ export default function SecondTimeSearchersArticle() {
         <h3 className={h3Class}>1. Successful Exit &rarr; New Search</h3>
         <ul className={ulClass}>
           <li>Easiest fundraising path. Investors love backing proven operators.</li>
-          <li>Often raise larger funds and target bigger companies (3&ndash;5x EBITDA of first deal)</li>
+          <li>Often raise larger funds and target bigger companies (3-5x EBITDA of first deal)</li>
           <li>May shift from traditional search fund to independent sponsor or pledge fund structure</li>
           <li>Can self-fund a portion from exit proceeds, improving economics for all parties</li>
         </ul>
@@ -33,7 +33,7 @@ export default function SecondTimeSearchersArticle() {
         <h3 className={h3Class}>2. Current Company &rarr; Add-On Acquisition</h3>
         <ul className={ulClass}>
           <li>The <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategy</Link>: acquire bolt-on companies to grow your existing platform</li>
-          <li>Financing is often simpler &mdash; the existing company&apos;s cash flow supports the new debt</li>
+          <li>Financing is often simpler, the existing company&apos;s cash flow supports the new debt</li>
           <li>Investors may provide follow-on capital or co-invest in the add-on</li>
         </ul>
 
@@ -47,7 +47,7 @@ export default function SecondTimeSearchersArticle() {
 
         <h3 className={h3Class}>4. Operating CEO &rarr; New Company</h3>
         <ul className={ulClass}>
-          <li>After running the acquired company for 5&ndash;7 years, some CEOs want a new challenge</li>
+          <li>After running the acquired company for 5-7 years, some CEOs want a new challenge</li>
           <li>May hire a successor CEO for Company 1 while searching for Company 2</li>
           <li>Can create a holding company structure to manage multiple portfolio companies</li>
         </ul>
@@ -59,7 +59,7 @@ export default function SecondTimeSearchersArticle() {
           <li><strong>Structure evolution:</strong> Many move from traditional search fund to independent sponsor, pledge fund, or self-funded model</li>
           <li><strong>Economics:</strong> Investors may expect better terms (lower step-up, different carried interest) given lower risk of backing an experienced operator</li>
           <li><strong>Investor mix:</strong> First-time investors are often individual angels; second-time capital frequently includes family offices and institutional allocators</li>
-          <li><strong>Fund size:</strong> Second raises are typically 2&ndash;3x larger, reflecting larger target companies and reduced search risk</li>
+          <li><strong>Fund size:</strong> Second raises are typically 2-3x larger, reflecting larger target companies and reduced search risk</li>
           <li><strong>Personal co-investment:</strong> Investors often expect meaningful personal capital alongside their money</li>
         </ul>
       </div>
@@ -69,7 +69,7 @@ export default function SecondTimeSearchersArticle() {
         <p>Some second-time searchers build permanent capital vehicles:</p>
         <ul className={ulClass}>
           <li><strong>Holding company model:</strong> Acquire and hold multiple businesses permanently, paying dividends to investors</li>
-          <li><strong>Micro-PE fund:</strong> Raise a fund with 3&ndash;5 year deployment period to acquire multiple companies</li>
+          <li><strong>Micro-PE fund:</strong> Raise a fund with 3-5 year deployment period to acquire multiple companies</li>
           <li><strong>Operating group:</strong> Shared services across portfolio companies (finance, HR, IT, marketing)</li>
           <li><strong>Industry-focused platform:</strong> Build expertise in one sector and acquire multiple companies within it</li>
         </ul>
@@ -91,9 +91,9 @@ export default function SecondTimeSearchersArticle() {
         <h3 className={h3Class}>How much faster do second-time searchers raise capital?</h3>
         <p>
           According to the Stanford GSB 2024 Search Fund Study, second-time
-          searchers typically close their fundraise 40&ndash;60% faster than
-          first-time searchers, often completing the raise in 2&ndash;4
-          months versus 4&ndash;8 months. The acceleration comes from
+          searchers typically close their fundraise 40-60% faster than
+          first-time searchers, often completing the raise in 2-4
+          months versus 4-8 months. The acceleration comes from
           existing investor relationships, a proven track record (even if
           the first deal had mixed results), and a more refined search
           thesis that investors find credible.
@@ -121,7 +121,7 @@ export default function SecondTimeSearchersArticle() {
           capital deal-by-deal rather than during the search phase), pledge
           funds (commitments from investors deployed when a deal is found),
           holding company models (permanent capital for acquiring and
-          holding multiple businesses), and micro-PE funds with 3&ndash;5
+          holding multiple businesses), and micro-PE funds with 3-5
           year deployment periods. The choice depends on the searcher&rsquo;s
           goals: independent sponsors maximize deal-by-deal economics, while
           holding companies build long-term wealth through retained

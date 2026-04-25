@@ -14,8 +14,8 @@ export default function CoInvestmentSearchFundArticle() {
           Co-investment is the single largest lever a search fund LP has to
           concentrate capital into their highest-conviction deals. When a
           searcher closes an acquisition, existing investors can deploy capital
-          well beyond their pro-rata share &mdash; often 2x to 10x their
-          original search commitment &mdash; into a specific company they have
+          well beyond their pro-rata share, often 2x to 10x their
+          original search commitment, into a specific company they have
           personally underwritten. The{" "}
           <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">
             2024 Stanford Search Fund Study
@@ -38,8 +38,8 @@ export default function CoInvestmentSearchFundArticle() {
           $550,000 in initial search capital from 10 to 14 investors, each
           contributing $25,000 to $75,000, according to data tracked by Stanford
           GSB across 681 qualifying funds formed since 1984. That search capital
-          converts into acquisition equity at a 1.5x step-up &mdash; a $50,000
-          search contribution becomes $75,000 of equity at closing &mdash; but
+          converts into acquisition equity at a 1.5x step-up, a $50,000
+          search contribution becomes $75,000 of equity at closing, but
           rarely covers the full equity requirement.
         </p>
         <p>
@@ -48,9 +48,9 @@ export default function CoInvestmentSearchFundArticle() {
           <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
             capital stack
           </Link>{" "}
-          typically composed of 30&ndash;40% senior debt, 10&ndash;20% seller
-          notes, and 50&ndash;60% investor equity. That equity slice can
-          easily reach $7 million to $9 million &mdash; far more than the
+          typically composed of 30-40% senior debt, 10-20% seller
+          notes, and 50-60% investor equity. That equity slice can
+          easily reach $7 million to $9 million, far more than the
           $550,000 of converted search capital covers. The gap is filled
           through co-investment.
         </p>
@@ -67,8 +67,8 @@ export default function CoInvestmentSearchFundArticle() {
           </li>
           <li>
             <strong>Co-investment offering:</strong> If the total equity need
-            exceeds what pro-rata commitments cover &mdash; which it almost
-            always does &mdash; the searcher offers additional allocation to
+            exceeds what pro-rata commitments cover, which it almost
+            always does, the searcher offers additional allocation to
             existing investors who want to increase exposure.
           </li>
           <li>
@@ -80,7 +80,7 @@ export default function CoInvestmentSearchFundArticle() {
           <li>
             <strong>Closing:</strong> Co-investors wire funds within a tight
             window, usually 10 to 30 days of the final capital call. Speed
-            matters &mdash; searchers prioritize investors who can commit
+            matters, searchers prioritize investors who can commit
             quickly and without extensive re-negotiation.
           </li>
         </ol>
@@ -106,8 +106,8 @@ export default function CoInvestmentSearchFundArticle() {
           </li>
           <li>
             <strong>Deal-specific underwriting:</strong> Unlike the initial
-            search commitment &mdash; where you bet on a person before they
-            have identified a target &mdash; co-investment lets you evaluate a
+            search commitment, where you bet on a person before they
+            have identified a target, co-investment lets you evaluate a
             real business with audited financials, customer concentration data,
             and a concrete operating plan. You can apply the same{" "}
             <Link href="/learn/lp-guide-search-fund-dd" className="text-apple-accent hover:underline">
@@ -120,7 +120,7 @@ export default function CoInvestmentSearchFundArticle() {
             {" "}The aggregate pre-tax IRR for search funds stands at 35.1% with
             a 4.5x return on invested capital, per the 2024 Stanford study.
             Exited deals performed even better, posting a 42.9% IRR driven by
-            several high-return exits in 2022&ndash;2023. Co-investment lets
+            several high-return exits in 2022-2023. Co-investment lets
             you shift portfolio weight toward the specific deals you believe
             will land in that top quartile. Explore the full{" "}
             <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
@@ -133,8 +133,8 @@ export default function CoInvestmentSearchFundArticle() {
           A concrete example: an LP who commits $50,000 to a search fund during
           the search phase, exercises their pro-rata right for $150,000 at
           acquisition, and adds a $300,000 co-investment has $500,000 deployed
-          into a single deal. If that company exits at 5x equity &mdash;
-          roughly the median outcome per Stanford &mdash; the LP receives $2.5
+          into a single deal. If that company exits at 5x equity , 
+          roughly the median outcome per Stanford, the LP receives $2.5
           million. The co-investment portion alone accounts for $1.5 million of
           that return, with no carry paid on it.
         </p>
@@ -153,9 +153,9 @@ export default function CoInvestmentSearchFundArticle() {
             <strong>Same-class equity:</strong> The majority of search fund
             co-investments place capital into the same participating preferred
             stock that pro-rata investors hold. This preferred typically carries
-            a 6&ndash;8% cumulative coupon and participates in common equity
+            a 6-8% cumulative coupon and participates in common equity
             upside after the preference is repaid. The simplicity benefits
-            everyone &mdash; one cap table, one class of economic rights, no
+            everyone, one cap table, one class of economic rights, no
             inter-creditor disputes at exit.
           </li>
           <li>
@@ -172,7 +172,7 @@ export default function CoInvestmentSearchFundArticle() {
             <strong>Subordinated notes with equity kickers:</strong> A less
             common but growing structure, particularly for deals with higher
             use. The co-investor provides a subordinated loan (often at
-            10&ndash;14% interest) with warrants or conversion rights that
+            10-14% interest) with warrants or conversion rights that
             provide equity upside. This structure offers downside protection
             through the debt coupon while retaining upside through the equity
             component.
@@ -203,7 +203,7 @@ export default function CoInvestmentSearchFundArticle() {
           <li>
             <strong>Single-asset exposure vs. portfolio allocation:</strong>
             {" "}A PE co-investment supplements a diversified fund portfolio. A
-            search fund co-investment is the portfolio &mdash; there is only
+            search fund co-investment is the portfolio, there is only
             one company. This makes individual deal selection far more
             consequential. See{" "}
             <Link href="/learn/risk-factors-search-fund-investing" className="text-apple-accent hover:underline">
@@ -222,13 +222,13 @@ export default function CoInvestmentSearchFundArticle() {
           <li>
             <strong>No GP fee economics to create misalignment:</strong> PE
             co-investment has historically raised adverse selection concerns
-            &mdash; the fear that GPs offer co-investment on their weakest
+            the fear that GPs offer co-investment on their weakest
             deals because they earn no carry on co-invested capital. Research by
             Braun, Jenkinson, and Schemmerl published in the{" "}
             <em>Journal of Financial Economics</em> (2020) found no systematic
             evidence of adverse selection in PE co-investments. In search funds,
             the concern is even less relevant: the searcher has no separate fee
-            stream to protect. Their 20&ndash;25% equity stake vests only if
+            stream to protect. Their 20-25% equity stake vests only if
             the company succeeds, creating direct alignment with every dollar
             of co-investment capital.
           </li>
@@ -237,8 +237,8 @@ export default function CoInvestmentSearchFundArticle() {
             co-investments can range from $10 million to $100 million+. Search
             fund co-investments typically range from $100,000 to $2 million per
             LP, with decision timelines measured in weeks rather than months.
-            Family offices and high-net-worth individuals &mdash; not
-            institutional LPs &mdash; are the primary participants. Learn how{" "}
+            Family offices and high-net-worth individuals, not
+            institutional LPs, are the primary participants. Learn how{" "}
             <Link href="/learn/family-offices-search-funds" className="text-apple-accent hover:underline">
               family offices approach search funds
             </Link>{" "}
@@ -294,8 +294,8 @@ export default function CoInvestmentSearchFundArticle() {
           A decision framework for evaluating co-investment opportunities
         </h2>
         <p>
-          Experienced search fund investors &mdash; firms like Pacific Lake
-          Partners, Relay Investments, and Search Fund Partners &mdash; use
+          Experienced search fund investors, firms like Pacific Lake
+          Partners, Relay Investments, and Search Fund Partners, use
           systematic frameworks rather than gut feel. The following checklist
           synthesizes common practices across the most active search fund
           investor networks.
@@ -334,7 +334,7 @@ export default function CoInvestmentSearchFundArticle() {
           <li>
             <strong>Size the position relative to your portfolio:</strong> A
             common rule among seasoned LPs: no single co-investment should
-            exceed 15&ndash;20% of your total search fund allocation. This
+            exceed 15-20% of your total search fund allocation. This
             ensures that even a total loss on one co-investment does not
             materially impair the portfolio.
           </li>
@@ -359,7 +359,7 @@ export default function CoInvestmentSearchFundArticle() {
           willing to co-invest up to $5 million can realistically target
           companies priced at $10 million to $20 million. Without co-investment
           capacity, that same searcher is limited to businesses under $5 million
-          &mdash; a segment with thinner margins, less professional management
+          a segment with thinner margins, less professional management
           infrastructure, and higher operating risk.
         </p>
         <p>
@@ -383,7 +383,7 @@ export default function CoInvestmentSearchFundArticle() {
           Individual co-investment checks typically range from $100,000 to $2
           million, depending on the LP&rsquo;s capacity and the total equity
           requirement. For a median-priced acquisition at $14.4 million with
-          50&ndash;60% equity, the total co-investment pool across all investors
+          50-60% equity, the total co-investment pool across all investors
           can reach $5 million to $7 million. Family offices at the larger end
           of the spectrum may deploy $1 million to $5 million in a single
           co-investment, per data from dedicated search fund investor networks.
@@ -399,7 +399,7 @@ export default function CoInvestmentSearchFundArticle() {
           participation in common equity upside. Some searchers offer co-investment
           through side-car SPVs that aggregate smaller checks, but the underlying
           economics are typically the same. The key exception is when co-investors
-          provide capital as subordinated debt with equity kickers &mdash; a
+          provide capital as subordinated debt with equity kickers, a
           structure that trades some upside for downside protection through
           interest payments.
         </p>
@@ -409,7 +409,7 @@ export default function CoInvestmentSearchFundArticle() {
         </h3>
         <p>
           The most effective guardrail is a hard cap on position size. Experienced
-          LPs limit any single co-investment to 15&ndash;20% of their total
+          LPs limit any single co-investment to 15-20% of their total
           search fund allocation. If your total search fund portfolio is $1
           million across ten funds, cap individual co-investments at $150,000 to
           $200,000. This preserves the{" "}
@@ -418,7 +418,7 @@ export default function CoInvestmentSearchFundArticle() {
           </Link>{" "}
           of a multi-fund strategy while still allowing meaningful concentrated
           bets. Track your aggregate exposure by sector and geography as well
-          &mdash; two co-investments in HVAC businesses in the same region
+          two co-investments in HVAC businesses in the same region
           creates correlated risk even if the position sizes are modest.
         </p>
 
@@ -426,10 +426,10 @@ export default function CoInvestmentSearchFundArticle() {
           Is adverse selection a real concern in search fund co-investment?
         </h3>
         <p>
-          Less than in traditional PE. The adverse selection hypothesis &mdash;
-          that GPs offer co-investment on their weakest deals &mdash; relies on
+          Less than in traditional PE. The adverse selection hypothesis , 
+          that GPs offer co-investment on their weakest deals, relies on
           a fee structure where the GP earns carry on fund capital but not on
-          co-invested capital. Search fund operators hold 20&ndash;25% equity
+          co-invested capital. Search fund operators hold 20-25% equity
           that vests based on company performance, meaning their incentives are
           fully aligned regardless of where the capital comes from. Empirical
           research supports this: Adams Street Partners analyzed co-investment
@@ -449,7 +449,7 @@ export default function CoInvestmentSearchFundArticle() {
           investors as co-investment, and finally opens remaining allocation to
           new investors. The 2024 Stanford study found that the median
           acquisition syndicate includes four new investors who join specifically
-          at the acquisition stage &mdash; evidence that co-investment
+          at the acquisition stage, evidence that co-investment
           capacity regularly exceeds what the original search syndicate can
           absorb. New investors who want access to{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">

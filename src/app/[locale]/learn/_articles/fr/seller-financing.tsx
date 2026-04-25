@@ -343,13 +343,13 @@ export default function SellerFinancingFR() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>
-          Code général des impôts &mdash; Articles 150-0 D bis et 150-0 D ter (régime des plus-values de cession de titres).
+          Code général des impôts, Articles 150-0 D bis et 150-0 D ter (régime des plus-values de cession de titres).
         </li>
         <li>
-          Code de commerce &mdash; Articles L141-5 et suivants (privilège du vendeur de fonds de commerce).
+          Code de commerce, Articles L141-5 et suivants (privilège du vendeur de fonds de commerce).
         </li>
         <li>
-          Code général des impôts &mdash; Article 212 bis (déductibilité des charges financières).
+          Code général des impôts, Article 212 bis (déductibilité des charges financières).
         </li>
         <li>
           Bpifrance &mdash; <em>Reprendre une Entreprise&nbsp;: Le Guide du Repreneur</em>, 2024.

@@ -99,7 +99,7 @@ export default function HoldingCompanyStructuresArticle() {
             <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">
               purchase agreement
             </Link>. The acquisition should be made by HoldCo, not by you personally</li>
-          <li><strong>Legal costs:</strong> $5K&ndash;$15K for entity formation, shareholder agreements, and initial governance documents</li>
+          <li><strong>Legal costs:</strong> $5K-$15K for entity formation, shareholder agreements, and initial governance documents</li>
           <li><strong>Capitalization:</strong> Investors inject equity into HoldCo. Bank lends to HoldCo. HoldCo uses the funds to acquire OpCo</li>
           <li><strong>Governance:</strong> HoldCo board = investor board. OpCo board can be the CEO + management (simpler governance for day-to-day)</li>
         </ul>
@@ -143,15 +143,15 @@ export default function HoldingCompanyStructuresArticle() {
           no state income tax on out-of-state revenue, and compatibility
           with{" "}
           <Link href="/learn/qsbs-qualified-small-business-stock" className="text-apple-accent hover:underline">QSBS eligibility</Link>.
-          In Europe, costs are typically EUR 3,000&ndash;EUR 10,000 for a
+          In Europe, costs are typically EUR 3,000-EUR 10,000 for a
           French SAS or German GmbH holding entity. The key is to form HoldCo
-          before signing the purchase agreement &mdash; restructuring afterward
+          before signing the purchase agreement, restructuring afterward
           is far more expensive and can trigger adverse tax consequences.
         </p>
 
         <h3 className={h3Class}>Can I use a holding company to pursue a buy-and-build strategy with multiple acquisitions?</h3>
         <p>
-          Yes &mdash; this is one of the primary advantages of a HoldCo
+          Yes, this is one of the primary advantages of a HoldCo
           structure. According to IESE Business School&apos;s research on
           serial acquisitions, a HoldCo allows each add-on acquisition to sit
           as a separate subsidiary, isolating operational and legal risk

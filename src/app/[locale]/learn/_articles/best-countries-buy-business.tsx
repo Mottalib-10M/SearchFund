@@ -54,8 +54,8 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> 10+ million boomer-owned businesses, massive broker ecosystem</li>
-          <li><strong>Multiples:</strong> 4&ndash;7x EBITDA for SMEs with $1&ndash;5M EBITDA</li>
-          <li><strong>Financing:</strong> Unrivaled &mdash;{" "}
+          <li><strong>Multiples:</strong> 4-7x EBITDA for SMEs with $1-5M EBITDA</li>
+          <li><strong>Financing:</strong> Unrivaled , {" "}
             <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a)
             </Link>{" "}
@@ -86,7 +86,7 @@ export default function BestCountriesBuyBusinessArticle() {
             <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
               succession wave
             </Link></li>
-          <li><strong>Multiples:</strong> 3&ndash;5x EBITDA &mdash; 1&ndash;2 turns below US equivalents</li>
+          <li><strong>Multiples:</strong> 3-5x EBITDA, 1-2 turns below US equivalents</li>
           <li><strong>Financing:</strong> Bpifrance Transmission-Reprise loans, BPI guarantees, active bank lending for succession deals</li>
           <li><strong>Ecosystem:</strong> HEC Paris, INSEAD, growing community of 30+ active searchers</li>
           <li><strong>Tax advantages:</strong> Dutreil pact (75% exemption on business succession), integration fiscale</li>
@@ -103,9 +103,9 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> 5.5 million SMEs, active broker network, strong succession dynamics</li>
-          <li><strong>Multiples:</strong> 4&ndash;6x EBITDA &mdash; between US and continental Europe</li>
+          <li><strong>Multiples:</strong> 4-6x EBITDA, between US and continental Europe</li>
           <li><strong>Financing:</strong> British Business Bank, established private debt market, seller financing common</li>
-          <li><strong>Ecosystem:</strong> LBS, Oxford, Cambridge &mdash; growing ETA community</li>
+          <li><strong>Ecosystem:</strong> LBS, Oxford, Cambridge, growing ETA community</li>
           <li><strong>Tax advantages:</strong> Business Asset Disposal Relief (10% CGT on first &pound;1M), R&amp;D tax credits</li>
           <li><strong>Downside:</strong> Post-Brexit regulatory complexity for EU-linked businesses</li>
         </ul>
@@ -122,7 +122,7 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> 125,000 companies per year need successors</li>
-          <li><strong>Multiples:</strong> 3.5&ndash;5.5x EBITDA</li>
+          <li><strong>Multiples:</strong> 3.5-5.5x EBITDA</li>
           <li><strong>Financing:</strong> KfW ERP programs, strong banking relationships (Hausbank model)</li>
           <li><strong>Downside:</strong> German language essential, complex Betriebsrat (works council) rules, relationship-driven deal culture</li>
         </ul>
@@ -137,7 +137,7 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> 3+ million SMEs with aging owners</li>
-          <li><strong>Multiples:</strong> 3&ndash;5x EBITDA &mdash; among the lowest in Western Europe</li>
+          <li><strong>Multiples:</strong> 3-5x EBITDA, among the lowest in Western Europe</li>
           <li><strong>Financing:</strong> ICO credit lines, growing bank appetite for succession deals</li>
           <li><strong>Ecosystem:</strong> IESE is the #1 global institution for ETA research and education</li>
           <li><strong>Downside:</strong> Spanish language required, complex regional regulations</li>
@@ -150,7 +150,7 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> 1.2 million SMEs, massive boomer succession (76% of owners plan to exit within 10 years)</li>
-          <li><strong>Multiples:</strong> 3.5&ndash;6x EBITDA</li>
+          <li><strong>Multiples:</strong> 3.5-6x EBITDA</li>
           <li><strong>Financing:</strong> BDC (Business Development Bank of Canada), CSBFP (Canada Small Business Financing Program)</li>
           <li><strong>Tax advantages:</strong> Lifetime Capital Gains Exemption (~$1M CAD for qualifying small business shares)</li>
           <li><strong>Downside:</strong> Smaller market, provincial regulatory differences, bilingual requirements in Quebec</li>
@@ -165,7 +165,7 @@ export default function BestCountriesBuyBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Deal flow:</strong> Strong SME ecosystem across Netherlands, Belgium, Luxembourg</li>
-          <li><strong>Multiples:</strong> 3.5&ndash;5.5x EBITDA</li>
+          <li><strong>Multiples:</strong> 3.5-5.5x EBITDA</li>
           <li><strong>Financing:</strong> Qredits (NL), BIO (BE), established bank lending</li>
           <li><strong>Downside:</strong> Small domestic market, high labor costs</li>
         </ul>
@@ -177,7 +177,7 @@ export default function BestCountriesBuyBusinessArticle() {
           <Link href="/learn/eta-switzerland" className="text-apple-accent hover:underline">
             Switzerland
           </Link>{" "}
-          offers premium businesses at premium multiples (4&ndash;6x) with
+          offers premium businesses at premium multiples (4-6x) with
           unparalleled economic stability. HSG St. Gallen is developing an ETA
           research program. Trilingual country (German/French/Italian) adds
           complexity.
@@ -189,7 +189,7 @@ export default function BestCountriesBuyBusinessArticle() {
             Italy
           </Link>{" "}
           has 4+ million family businesses with a massive generational
-          transition underway. Multiples are low (3&ndash;4.5x) but legal
+          transition underway. Multiples are low (3-4.5x) but legal
           complexity and regional variation require local expertise. SDA
           Bocconi is building the Italian ETA ecosystem.
         </p>
@@ -201,14 +201,14 @@ export default function BestCountriesBuyBusinessArticle() {
           </Link>{" "}
           (Sweden, Norway, Denmark, Finland) offer high-quality businesses,
           strong rule of law, and excellent English proficiency, but high
-          tax rates and labor costs. Multiples are 4&ndash;6x for quality SMEs.
+          tax rates and labor costs. Multiples are 4-6x for quality SMEs.
         </p>
 
         <h3 className={h3Class}>Japan</h3>
         <p>
           Japan faces the most severe business succession crisis in the
           developed world: 1.27 million companies risk closure by 2025 due
-          to aging owners. Multiples are low (2&ndash;4x) and the government
+          to aging owners. Multiples are low (2-4x) and the government
           actively subsidizes succession. However, language barriers, cultural
           complexity, and a unique business environment make it challenging
           for foreign acquirers.
@@ -244,7 +244,7 @@ export default function BestCountriesBuyBusinessArticle() {
         <h3 className={h3Class}>Which country offers the best risk-adjusted returns for a first-time search fund entrepreneur?</h3>
         <p>
           For English-speaking searchers, the United States remains the strongest risk-adjusted market due to the depth of deal flow (10+ million boomer-owned businesses), the mature SBA financing ecosystem, the proven search fund investor network, and the established playbooks documented in the{" "}
-          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>. For European searchers with language fluency, France and Spain offer lower multiples (3&ndash;5x vs. 4&ndash;7x in the US) with strong government financing support from Bpifrance and ICO respectively. The IESE International Search Fund Study shows that European search funds achieve comparable returns to US funds despite lower entry multiples, partly due to less competition.
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>. For European searchers with language fluency, France and Spain offer lower multiples (3-5x vs. 4-7x in the US) with strong government financing support from Bpifrance and ICO respectively. The IESE International Search Fund Study shows that European search funds achieve comparable returns to US funds despite lower entry multiples, partly due to less competition.
         </p>
 
         <h3 className={h3Class}>Can a foreign national buy a business in any of these countries?</h3>
@@ -254,24 +254,24 @@ export default function BestCountriesBuyBusinessArticle() {
 
         <h3 className={h3Class}>How do EBITDA multiples differ between urban and rural markets within the same country?</h3>
         <p>
-          Within any given country, multiples can vary by 1&ndash;2 turns between major metropolitan areas and secondary or rural markets. In the US, a business in New York or San Francisco might trade at 5&ndash;7x EBITDA while a comparable business in a mid-sized Southern or Midwestern city trades at 3.5&ndash;5x. In France, Parisian businesses command 15&ndash;25% premiums over similar companies in provincial cities. The OECD reports that this urban-rural valuation gap is driven by buyer competition, access to professional management talent, and perceived lifestyle preferences. For searchers willing to relocate to secondary cities, these discounts create significant entry valuation advantages.
+          Within any given country, multiples can vary by 1-2 turns between major metropolitan areas and secondary or rural markets. In the US, a business in New York or San Francisco might trade at 5-7x EBITDA while a comparable business in a mid-sized Southern or Midwestern city trades at 3.5-5x. In France, Parisian businesses command 15-25% premiums over similar companies in provincial cities. The OECD reports that this urban-rural valuation gap is driven by buyer competition, access to professional management talent, and perceived lifestyle preferences. For searchers willing to relocate to secondary cities, these discounts create significant entry valuation advantages.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; International Search Fund Study
+              IESE Business School, International Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.worldbank.org/en/programs/business-enabling-environment" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              World Bank &mdash; Business Enabling Environment (Ease of Doing Business)
+              World Bank, Business Enabling Environment (Ease of Doing Business)
             </a>
           </li>
         </ul>

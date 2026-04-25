@@ -13,7 +13,7 @@ export default function SearchFundTermSheetArticle() {
         <p>
           A search fund term sheet is the single document that defines
           how risk, reward, and control are split between the entrepreneur
-          and a syndicate of investors &mdash; before anyone has identified
+          and a syndicate of investors, before anyone has identified
           a company to buy. Getting these provisions wrong can cripple a
           deal years later: overly aggressive step-ups dilute the searcher
           into mediocrity, loose governance clauses let one dissenting
@@ -21,8 +21,8 @@ export default function SearchFundTermSheetArticle() {
           lawsuits at exit. The 2024 Stanford GSB Search Fund Study,
           covering 681 funds formed since 1984, shows that the median
           initial search raise reached $500,000 for the first time in
-          2022&ndash;2023, with 94 new traditional funds launched in 2023
-          alone. The stakes &mdash; and the capital &mdash; have never been
+          2022-2023, with 94 new traditional funds launched in 2023
+          alone. The stakes, and the capital, have never been
           higher. This guide walks through every major clause, explains
           what each provision means in practice, and highlights the
           negotiation levers that experienced{" "}
@@ -38,7 +38,7 @@ export default function SearchFundTermSheetArticle() {
         </h2>
         <p>
           Before any acquisition happens, investors fund the search itself.
-          This phase is the highest-risk stage of the entire model &mdash;
+          This phase is the highest-risk stage of the entire model , 
           roughly 25% of searches never result in a completed acquisition,
           according to longitudinal Stanford data. Search capital provisions
           establish exactly how much is raised, how it is spent, and what
@@ -46,22 +46,22 @@ export default function SearchFundTermSheetArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Total raise:</strong> $400,000&ndash;$600,000 is the
+            <strong>Total raise:</strong> $400,000-$600,000 is the
             standard range for a solo searcher, with a median of roughly
-            $500,000&ndash;$550,000 as of 2023. Dual-searcher partnerships
-            typically raise $700,000&ndash;$800,000 to cover two salaries
+            $500,000-$550,000 as of 2023. Dual-searcher partnerships
+            typically raise $700,000-$800,000 to cover two salaries
             and a longer timeline.
           </li>
           <li>
             <strong>Unit structure:</strong> Capital is divided into units
-            of $25,000&ndash;$50,000 each. Investors sign subscription
+            of $25,000-$50,000 each. Investors sign subscription
             agreements committing to a specific number of units. Each unit
             carries identical economic and governance rights, creating a
             flat syndicate rather than a lead-investor hierarchy.
           </li>
           <li>
             <strong>Syndicate size:</strong> Most term sheets target
-            10&ndash;20 investors. The sweet spot is 12&ndash;15: enough
+            10-20 investors. The sweet spot is 12-15: enough
             diversity of expertise and deal-sourcing networks, but not so
             many that governance becomes unwieldy. Every additional investor
             beyond roughly 15 increases coordination cost without
@@ -69,8 +69,8 @@ export default function SearchFundTermSheetArticle() {
           </li>
           <li>
             <strong>Permitted use of funds:</strong> The term sheet
-            specifies eligible expenses &mdash; searcher salary
-            ($100,000&ndash;$150,000 per year), travel for company visits,
+            specifies eligible expenses, searcher salary
+            ($100,000-$150,000 per year), travel for company visits,
             legal fees, CRM and data subscriptions, D&amp;O insurance, and
             search infrastructure. Most term sheets require quarterly budget
             reporting against a pre-approved annual plan.
@@ -79,7 +79,7 @@ export default function SearchFundTermSheetArticle() {
             <strong>Search period:</strong> Typically 24 months, with an
             optional six-month extension requiring an investor vote
             (usually simple majority). Monthly burn rates run
-            $15,000&ndash;$25,000. If the searcher fails to close an
+            $15,000-$25,000. If the searcher fails to close an
             acquisition by the end of the term, remaining capital is
             returned to investors and the fund winds down.
           </li>
@@ -99,7 +99,7 @@ export default function SearchFundTermSheetArticle() {
           The step-up is the defining economic feature of the traditional
           search fund model. It compensates investors who funded the
           uncertain search phase by converting their search capital into
-          acquisition equity at a premium &mdash; typically 1.5x the
+          acquisition equity at a premium, typically 1.5x the
           original amount invested. A $50,000 search-phase investment
           becomes $75,000 worth of equity at the closing of the
           acquisition, even though the investor writes no additional check
@@ -123,7 +123,7 @@ export default function SearchFundTermSheetArticle() {
           </li>
           <li>
             <strong>Pro-rata rights:</strong> Search investors typically
-            receive the right &mdash; but not the obligation &mdash; to
+            receive the right, but not the obligation, to
             invest their pro-rata share of acquisition equity at the
             step-up price. This means they can maintain their percentage
             ownership or choose to dilute down if they are not confident
@@ -153,30 +153,30 @@ export default function SearchFundTermSheetArticle() {
         <p>
           The primary incentive for an entrepreneur to spend two years
           searching and then run a small company as CEO is not the salary
-          &mdash; it is a significant equity stake in the acquired business.
-          A solo searcher typically earns 20%&ndash;25% of common equity;
+          it is a significant equity stake in the acquired business.
+          A solo searcher typically earns 20%-25% of common equity;
           a two-person partnership earns up to 30% split between both
           partners. That equity vests in three tranches, each tied to a
           different milestone.
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Tranche 1 &mdash; Acquisition close (one-third):</strong>{" "}
-            Roughly 7%&ndash;10% of total equity vests immediately when the
+            <strong>Tranche 1, Acquisition close (one-third):</strong>{" "}
+            Roughly 7%-10% of total equity vests immediately when the
             acquisition closes. This rewards the searcher for completing
             the hardest part of the model: finding, diligencing, negotiating,
             and financing a deal that investors approve.
           </li>
           <li>
-            <strong>Tranche 2 &mdash; Time-based vesting (one-third):</strong>{" "}
-            Another 7%&ndash;10% vests monthly or quarterly over a
+            <strong>Tranche 2, Time-based vesting (one-third):</strong>{" "}
+            Another 7%-10% vests monthly or quarterly over a
             three-to-five-year period, contingent on the searcher remaining
             as CEO. This aligns the searcher with long-term value creation
             and protects investors from a quick exit.
           </li>
           <li>
-            <strong>Tranche 3 &mdash; Performance-based vesting (one-third):</strong>{" "}
-            The final 7%&ndash;10% vests only when investors achieve
+            <strong>Tranche 3, Performance-based vesting (one-third):</strong>{" "}
+            The final 7%-10% vests only when investors achieve
             specified return hurdles, typically measured as a net IRR
             ranging from 20% to 35%. Some term sheets use a single hurdle
             (for instance, 25% net IRR); others use a graduated scale where
@@ -206,7 +206,7 @@ export default function SearchFundTermSheetArticle() {
         <p>
           Governance provisions determine who makes decisions after the
           acquisition closes. These clauses matter far more than most
-          first-time searchers realize &mdash; a poorly structured board
+          first-time searchers realize, a poorly structured board
           or an ambiguous investor-approval threshold can paralyze
           operations or even allow the searcher to be removed without cause.
         </p>
@@ -221,7 +221,7 @@ export default function SearchFundTermSheetArticle() {
           </li>
           <li>
             <strong>Investor approval rights:</strong> Major decisions
-            require an investor vote &mdash; typically majority or
+            require an investor vote, typically majority or
             supermajority of the preferred shareholders. These reserved
             matters almost always include the acquisition itself, additional
             equity raises above a specified threshold, any sale or
@@ -241,7 +241,7 @@ export default function SearchFundTermSheetArticle() {
             specify the vote threshold required to approve (or reject) a
             proposed acquisition. Some funds use simple majority; others
             require supermajority (typically 67% or 75%). The term sheet
-            should also clarify what happens if investors disagree &mdash;
+            should also clarify what happens if investors disagree , 
             can the searcher bring the same deal back after modifications,
             or is it permanently declined?
           </li>
@@ -271,14 +271,14 @@ export default function SearchFundTermSheetArticle() {
             have the right to participate in the acquisition equity round,
             usually on a pro-rata basis. This right is one of the primary
             reasons investors agree to fund the high-risk search phase in
-            the first place &mdash; it gives them a seat at the table for
+            the first place, it gives them a seat at the table for
             a deal they have watched develop from the earliest stages.
           </li>
           <li>
             <strong>Preferred equity structure:</strong> Acquisition-round
             investors typically receive participating preferred shares with
             a 1x liquidation preference and a preferred dividend coupon of
-            6%&ndash;8% per annum. The liquidation preference ensures
+            6%-8% per annum. The liquidation preference ensures
             investors get their capital back before any common equity
             (including the searcher&rsquo;s stake) participates in
             distributions.
@@ -295,9 +295,9 @@ export default function SearchFundTermSheetArticle() {
             <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
               capital stack
             </Link>{" "}
-            &mdash; the mix of senior debt (typically 30%&ndash;40% of
-            enterprise value), investor equity (50%&ndash;60%), and seller
-            notes (10%&ndash;20%) &mdash; is determined at acquisition,
+            the mix of senior debt (typically 30%-40% of
+            enterprise value), investor equity (50%-60%), and seller
+            notes (10%-20%), is determined at acquisition,
             not in the search-phase term sheet. However, the term sheet
             may set guardrails, such as maximum leverage ratios or minimum
             debt service coverage requirements.
@@ -348,7 +348,7 @@ export default function SearchFundTermSheetArticle() {
           </li>
           <li>
             <strong>Drag-along rights:</strong> If investors holding a
-            specified percentage (usually 67%&ndash;75%) approve a sale,
+            specified percentage (usually 67%-75%) approve a sale,
             all shareholders must participate on the same terms. This
             prevents minority holders from blocking a profitable exit.
           </li>
@@ -381,13 +381,13 @@ export default function SearchFundTermSheetArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>1984&ndash;2000 (pioneer era):</strong> Small investor
-            pools of 5&ndash;8 individuals, minimal standardization, and
+            <strong>1984-2000 (pioneer era):</strong> Small investor
+            pools of 5-8 individuals, minimal standardization, and
             ad-hoc governance. Step-ups were not yet codified as a standard
             term. Searcher equity allocations varied widely.
           </li>
           <li>
-            <strong>2000&ndash;2015 (institutionalization):</strong> Stanford
+            <strong>2000-2015 (institutionalization):</strong> Stanford
             and IESE began publishing research that codified &ldquo;standard&rdquo;
             terms. The 1.5x step-up, three-tranche vesting, and
             five-seat board structure emerged as defaults during this
@@ -395,24 +395,24 @@ export default function SearchFundTermSheetArticle() {
             reference document for new searchers and investors.
           </li>
           <li>
-            <strong>2015&ndash;2023 (scaling era):</strong> The number of
+            <strong>2015-2023 (scaling era):</strong> The number of
             funds launched annually grew from roughly 20 to 94 in 2023,
             according to the 2024 Stanford study. Median search capital
             rose to $500,000. Institutional investors (dedicated search
             fund funds, family offices, and former operators) displaced
             individual angels as the primary capital source. Self-funded
-            and partially-funded models introduced step-ups of 2.0x&ndash;2.5x,
+            and partially-funded models introduced step-ups of 2.0x-2.5x,
             reflecting the searcher&rsquo;s own capital at risk.
           </li>
           <li>
-            <strong>2023&ndash;present:</strong> With $682 million of
+            <strong>2023-present:</strong> With $682 million of
             investor equity deployed into core search funds and
-            search-acquired companies in 2022&ndash;2023 combined, the
+            search-acquired companies in 2022-2023 combined, the
             asset class has attracted more sophisticated legal and
-            financial structuring. Preferred dividend coupons of 6%&ndash;8%
-            are now standard. Redeemable preferred structures &mdash; where
+            financial structuring. Preferred dividend coupons of 6%-8%
+            are now standard. Redeemable preferred structures, where
             the company can pay down expensive preferred equity via cash
-            flow over time &mdash; are becoming more common, preserving
+            flow over time, are becoming more common, preserving
             long-term searcher equity upside.
           </li>
         </ul>
@@ -447,8 +447,8 @@ export default function SearchFundTermSheetArticle() {
           </li>
           <li>
             <strong>Ignoring CEO termination provisions.</strong> A board
-            that can fire the searcher without cause &mdash; and claw back
-            unvested equity &mdash; creates existential risk. Negotiate
+            that can fire the searcher without cause, and claw back
+            unvested equity, creates existential risk. Negotiate
             for &ldquo;good reason&rdquo; protections, severance terms,
             and accelerated vesting on a change-of-control event.
           </li>
@@ -456,9 +456,9 @@ export default function SearchFundTermSheetArticle() {
             <strong>Assembling too large a syndicate.</strong> More than 15
             investors creates coordination overhead that slows every
             decision from deal approval to exit planning. Each additional
-            investor should bring demonstrable value &mdash; operating
+            investor should bring demonstrable value, operating
             expertise, industry connections, or follow-on capital capacity
-            &mdash; beyond just a check.
+            beyond just a check.
           </li>
           <li>
             <strong>Leaving deal-authority ambiguous.</strong> If the term
@@ -502,8 +502,8 @@ export default function SearchFundTermSheetArticle() {
           a searcher and a syndicate of investors that governs the search
           phase, the step-up conversion, searcher equity vesting, and
           governance of the eventual acquisition. Unlike a venture capital
-          term sheet &mdash; which prices a round based on a company&rsquo;s
-          current valuation &mdash; a search fund term sheet establishes
+          term sheet, which prices a round based on a company&rsquo;s
+          current valuation, a search fund term sheet establishes
           economic rights for a company that does not yet exist in the
           portfolio. The step-up mechanism, the three-tranche equity
           vesting model, and the two-stage capital commitment (search
@@ -517,17 +517,17 @@ export default function SearchFundTermSheetArticle() {
           How much equity should a searcher expect to receive?
         </h3>
         <p>
-          A solo searcher typically earns 20%&ndash;25% of common equity
+          A solo searcher typically earns 20%-25% of common equity
           in the acquired company, vesting across three equal tranches
           (at close, over time, and upon achieving IRR hurdles). A
           two-person search team earns up to 30% combined. The exact
           percentage depends on the total capital raised, the step-up
-          multiple, and the negotiating use of the searcher &mdash;
+          multiple, and the negotiating use of the searcher , 
           candidates with prior operating experience, an MBA from a top
           program, or a strong pipeline of acquisition targets can push
           toward the higher end. The performance-vesting tranche (roughly
           one-third of total equity) typically requires achieving a net
-          investor IRR of 20%&ndash;35%, with many term sheets using a
+          investor IRR of 20%-35%, with many term sheets using a
           graduated scale within that range.
         </p>
 
@@ -539,7 +539,7 @@ export default function SearchFundTermSheetArticle() {
           Every provision is negotiable, but the search fund community has
           converged on a set of widely accepted defaults: the 1.5x step-up,
           equal three-tranche vesting, a five-seat board, and 1x
-          liquidation preference with a 6%&ndash;8% preferred dividend
+          liquidation preference with a 6%-8% preferred dividend
           coupon. Deviating from these norms is possible but requires a
           clear rationale. For instance, a searcher who co-invests personal
           capital alongside investors may negotiate a lower step-up (1.0x
@@ -561,7 +561,7 @@ export default function SearchFundTermSheetArticle() {
           unspent search capital is returned to investors on a pro-rata
           basis. The searcher&rsquo;s salary and expenses already incurred
           are sunk costs and are not recoverable. The searcher receives no
-          equity because the vesting never began &mdash; the first tranche
+          equity because the vesting never began, the first tranche
           only triggers at acquisition close. According to Stanford data,
           approximately 25% of traditional search funds do not result in
           a completed acquisition, which is why the step-up exists: it
@@ -576,20 +576,20 @@ export default function SearchFundTermSheetArticle() {
           Experienced search fund investors benchmark every provision
           against the Stanford and IESE standard templates, which reflect
           decades of market data. They focus on four dimensions: (1)
-          alignment &mdash; does the equity structure motivate the searcher
+          alignment, does the equity structure motivate the searcher
           to create long-term value rather than chase a quick exit;
-          (2) downside protection &mdash; do the liquidation preference,
+          (2) downside protection, do the liquidation preference,
           preferred dividend, and anti-dilution provisions adequately
           protect capital in a downside scenario; (3) governance balance
-          &mdash; does the board structure provide oversight without
-          micromanaging the CEO; and (4) deal-flow optionality &mdash; do
+          does the board structure provide oversight without
+          micromanaging the CEO; and (4) deal-flow optionality, do
           the follow-on and pro-rata rights give investors meaningful
           access to the acquisition round. Investors who have backed
-          multiple search funds &mdash; the{" "}
+          multiple search funds, the{" "}
           <Link href="/learn/top-search-fund-investors" className="text-apple-accent hover:underline">
             top search fund investors
           </Link>{" "}
-          typically invest in 5&ndash;15 searches simultaneously &mdash;
+          typically invest in 5-15 searches simultaneously , 
           evaluate each term sheet in the context of their broader
           portfolio, accepting higher risk on individual deals in exchange
           for aggregate returns that have historically averaged 35.1% IRR

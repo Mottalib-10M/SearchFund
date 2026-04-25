@@ -10,11 +10,11 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
       <div className={bodyClass}>
         <p>
           When you acquire a small or mid-sized business, you inherit its
-          cybersecurity posture &mdash; or, more often, the absence of one.
+          cybersecurity posture, or, more often, the absence of one.
           Most SMEs targeted by search funds have invested little to nothing in
           information security. Passwords are shared, backups are untested,
           software is unpatched, and no one has thought about what happens when
-          &mdash; not if &mdash; a breach occurs. As the new CEO, cybersecurity
+         , not if, a breach occurs. As the new CEO, cybersecurity
           is your responsibility, and the consequences of neglecting it range
           from operational disruption to regulatory fines to complete business
           failure. The good news is that protecting an SME does not require an
@@ -28,8 +28,8 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           corporations. The reality is exactly the opposite. According to
           Verizon&rsquo;s Data Breach Investigations Report, over 40% of
           cyberattacks target small businesses. The reason is straightforward:
-          SMEs have valuable data &mdash; customer records, payment information,
-          employee Social Security numbers, bank account details &mdash; but
+          SMEs have valuable data, customer records, payment information,
+          employee Social Security numbers, bank account details, but
           lack the security infrastructure to protect it. They are soft targets.
         </p>
         <ul className={ulClass}>
@@ -49,9 +49,9 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           </li>
           <li>
             <strong>Business email compromise (BEC) is the top threat.</strong>{" "}
-            BEC attacks &mdash; where criminals impersonate executives or
+            BEC attacks, where criminals impersonate executives or
             vendors to trick employees into wiring money or sharing credentials
-            &mdash; cost businesses over $2.7 billion annually. SMEs without
+            cost businesses over $2.7 billion annually. SMEs without
             email security controls or employee training are especially
             vulnerable.
           </li>
@@ -69,7 +69,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           During your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
           as CEO, cybersecurity should be addressed in the first 30. The items
-          below are not aspirational &mdash; they are urgent. A single
+          below are not aspirational, they are urgent. A single
           ransomware attack during the transition period can cripple a business
           you have not yet had time to understand.
         </p>
@@ -112,25 +112,25 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         <h3 className={h3Class}>4. Verify backup integrity</h3>
         <p>
           Do not assume backups exist or work. Verify that critical data
-          &mdash; financial records, customer databases, operational systems,
-          email archives &mdash; is being backed up automatically, encrypted,
+          financial records, customer databases, operational systems,
+          email archives, is being backed up automatically, encrypted,
           and stored offsite or in the cloud. Then test a restore. A backup
           that has never been tested is not a backup; it is a hope. Implement
           the 3-2-1 rule: three copies of your data, on two different types
           of media, with one copy offsite. Solutions like Veeam, Datto, or
           cloud-native backups (AWS Backup, Azure Backup) cost
-          $200&ndash;$1,000 per month for a typical SME.
+          $200-$1,000 per month for a typical SME.
         </p>
 
         <h3 className={h3Class}>5. Deploy endpoint protection</h3>
         <p>
-          Every company device &mdash; laptops, desktops, servers, and mobile
-          devices used for business &mdash; needs managed endpoint protection.
+          Every company device, laptops, desktops, servers, and mobile
+          devices used for business, needs managed endpoint protection.
           This goes beyond traditional antivirus: modern endpoint detection
           and response (EDR) tools monitor for suspicious behavior, contain
           threats automatically, and provide forensic data after incidents.
           CrowdStrike Falcon Go, SentinelOne, and Microsoft Defender for
-          Business are all suitable for SMEs, costing $5&ndash;$12 per
+          Business are all suitable for SMEs, costing $5-$12 per
           endpoint per month. Deploy within the first two weeks and ensure
           every device is enrolled.
         </p>
@@ -150,7 +150,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             <strong>Apply before you need it.</strong> Insurers increasingly
             require MFA, endpoint protection, and backup verification before
             issuing policies. Completing the first-30-days checklist above
-            makes you insurable &mdash; and lowers your premiums.
+            makes you insurable, and lowers your premiums.
           </li>
           <li>
             <strong>Understand the exclusions.</strong> Read the policy
@@ -173,7 +173,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Employee training: your strongest &mdash; or weakest &mdash; link</h2>
+        <h2 className={h2Class}>Employee training: your strongest, or weakest, link</h2>
         <p>
           Technology can block many attacks, but employees remain the primary
           attack vector. Phishing emails, social engineering calls, and
@@ -186,14 +186,14 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             <strong>Launch security awareness training immediately.</strong>{" "}
             Platforms like KnowBe4, Proofpoint Security Awareness, or Ninjio
             provide automated training modules, simulated phishing campaigns,
-            and compliance tracking. Costs range from $15&ndash;$25 per user
+            and compliance tracking. Costs range from $15-$25 per user
             per year. Deploy within the first 60 days.
           </li>
           <li>
             <strong>Run simulated phishing exercises quarterly.</strong> These
             tests identify employees who are most susceptible and provide
-            targeted coaching. Track click rates over time &mdash; you should
-            see them decline from a typical baseline of 20&ndash;30% to under
+            targeted coaching. Track click rates over time, you should
+            see them decline from a typical baseline of 20-30% to under
             5% within six months.
           </li>
           <li>
@@ -217,9 +217,9 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         <h2 className={h2Class}>Vendor and third-party risk management</h2>
         <p>
           Your security is only as strong as your weakest vendor. Most SMEs
-          share data with dozens of third parties &mdash; accounting firms,
+          share data with dozens of third parties, accounting firms,
           payroll processors, IT consultants, cloud service providers, payment
-          processors &mdash; and rarely assess those vendors&rsquo; security
+          processors, and rarely assess those vendors&rsquo; security
           posture.
         </p>
         <ul className={ulClass}>
@@ -234,7 +234,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             sensitive data (payroll, payments, customer PII), request their
             SOC 2 report or security questionnaire responses. If a critical
             vendor cannot demonstrate basic security controls, that is a
-            risk you need to manage &mdash; either through contractual
+            risk you need to manage, either through contractual
             requirements, additional monitoring, or replacing the vendor.
           </li>
           <li>
@@ -255,7 +255,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         <h2 className={h2Class}>Incident response planning</h2>
         <p>
           An incident response plan is not something you create during a
-          crisis &mdash; it is something you create so you can function during
+          crisis, it is something you create so you can function during
           one. Without a plan, a ransomware attack at 2 a.m. on a Friday
           becomes a week of chaos, bad decisions, and preventable damage.
         </p>
@@ -264,7 +264,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             <strong>Define roles and responsibilities.</strong> Who leads the
             response? Who communicates with customers? Who contacts the
             insurer? Who handles law enforcement? In an SME, these roles often
-            fall to just two or three people &mdash; make sure they know it
+            fall to just two or three people, make sure they know it
             before an incident occurs.
           </li>
           <li>
@@ -284,8 +284,8 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           </li>
           <li>
             <strong>Run tabletop exercises annually.</strong> Walk through a
-            realistic scenario &mdash; a ransomware attack, a BEC wire fraud,
-            or a data breach &mdash; with your leadership team. Identify gaps
+            realistic scenario, a ransomware attack, a BEC wire fraud,
+            or a data breach, with your leadership team. Identify gaps
             in the plan and fix them. Many cyber insurance carriers will
             facilitate these exercises at no additional cost.
           </li>
@@ -310,9 +310,9 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         <ul className={ulClass}>
           <li>
             <strong>HIPAA (healthcare).</strong> If the business handles
-            protected health information (PHI) &mdash; common in healthcare
+            protected health information (PHI), common in healthcare
             services, dental practices, home health, and medical billing
-            &mdash; you must comply with HIPAA&rsquo;s Security Rule. This
+            you must comply with HIPAA&rsquo;s Security Rule. This
             includes encryption of PHI at rest and in transit, access controls,
             audit logging, workforce training, and a documented risk
             assessment. Penalties for non-compliance range from $100 to
@@ -327,12 +327,12 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             maintaining a secure network, protecting cardholder data,
             implementing access controls, and conducting quarterly
             vulnerability scans. Non-compliance can result in fines of
-            $5,000&ndash;$100,000 per month from payment processors.
+            $5,000-$100,000 per month from payment processors.
           </li>
           <li>
             <strong>GDPR (European data).</strong> If the business collects or
-            processes personal data of EU residents &mdash; even if the
-            business is based outside Europe &mdash; GDPR applies. Key
+            processes personal data of EU residents, even if the
+            business is based outside Europe, GDPR applies. Key
             requirements include lawful basis for data processing, data
             minimization, breach notification within 72 hours, and the right
             to erasure. Fines can reach 4% of annual global revenue or
@@ -362,8 +362,8 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Benchmark:</strong> plan to allocate 3&ndash;7% of your IT
-            budget to security, or roughly $500&ndash;$2,000 per employee per
+            <strong>Benchmark:</strong> plan to allocate 3-7% of your IT
+            budget to security, or roughly $500-$2,000 per employee per
             year for a typical SME. For businesses in regulated industries
             (healthcare, financial services), budget toward the higher end.
           </li>
@@ -372,9 +372,9 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             realistic first-year cybersecurity budget includes: password
             manager ($2,400/year), endpoint protection ($3,600/year), backup
             solution ($6,000/year), security awareness training ($600/year),
-            cyber insurance ($3,000&ndash;$5,000/year), and MSP security
-            services or consultant time ($12,000&ndash;$24,000/year). Total:
-            approximately $28,000&ndash;$42,000, or roughly $1,000&ndash;$1,400
+            cyber insurance ($3,000-$5,000/year), and MSP security
+            services or consultant time ($12,000-$24,000/year). Total:
+            approximately $28,000-$42,000, or roughly $1,000-$1,400
             per employee.
           </li>
           <li>
@@ -382,16 +382,16 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             cybersecurity budget should not exist in isolation. It is a
             component of your overall{" "}
             <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation</Link>{" "}
-            investment. Many security improvements &mdash; moving to cloud
+            investment. Many security improvements, moving to cloud
             platforms, implementing modern ERP systems, upgrading email
-            infrastructure &mdash; deliver both operational and security
+            infrastructure, deliver both operational and security
             benefits simultaneously.
           </li>
           <li>
             <strong>Frame it as risk management, not cost.</strong> When
             presenting cybersecurity spending to your board and investors,
             frame it in terms of risk reduction. The average cost of a data
-            breach for an SME exceeds $120,000 &mdash; and that figure does
+            breach for an SME exceeds $120,000, and that figure does
             not include reputational damage, customer attrition, or the
             management time consumed by incident response. A $30,000 annual
             investment in prevention is cheap insurance.
@@ -415,9 +415,9 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             response support.
           </li>
           <li>
-            <strong>Cost:</strong> $100&ndash;$250 per endpoint per month for
-            a full managed security stack, or $1,000&ndash;$3,000 per month
-            for a 20&ndash;30 person company with basic coverage.
+            <strong>Cost:</strong> $100-$250 per endpoint per month for
+            a full managed security stack, or $1,000-$3,000 per month
+            for a 20-30 person company with basic coverage.
           </li>
           <li>
             <strong>Best for:</strong> businesses under 50 employees without
@@ -440,15 +440,15 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             <strong>What this looks like:</strong> a full-time IT manager or
             systems administrator who handles day-to-day technology operations,
             supplemented by a fractional CISO who provides strategic security
-            leadership for 8&ndash;16 hours per month.
+            leadership for 8-16 hours per month.
           </li>
           <li>
-            <strong>Cost:</strong> the IT manager costs $60,000&ndash;$90,000
+            <strong>Cost:</strong> the IT manager costs $60,000-$90,000
             per year in salary and benefits; a fractional CISO costs
-            $3,000&ndash;$8,000 per month depending on scope and seniority.
+            $3,000-$8,000 per month depending on scope and seniority.
           </li>
           <li>
-            <strong>Best for:</strong> businesses with 50&ndash;150 employees,
+            <strong>Best for:</strong> businesses with 50-150 employees,
             regulated industries requiring deeper compliance expertise, or
             companies executing a{" "}
             <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">major ERP implementation</Link>{" "}
@@ -459,7 +459,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
         <h2 className={h2Class}>Board reporting on cyber risk</h2>
         <p>
           As CEO of a search fund portfolio company, you report to a board
-          that expects visibility into material risks &mdash; and cyber risk
+          that expects visibility into material risks, and cyber risk
           is now firmly in that category. Integrate cybersecurity into your
           regular board reporting alongside financial performance, operational
           metrics, and strategic initiatives. Your{" "}
@@ -492,7 +492,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
             <strong>Disclose material incidents promptly.</strong> If a
             security incident occurs that could affect business operations,
             financial results, or customer relationships, notify the board
-            immediately &mdash; do not wait for the next scheduled meeting.
+            immediately, do not wait for the next scheduled meeting.
             Transparency builds trust; surprises destroy it.
           </li>
         </ul>
@@ -504,7 +504,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           newly acquired SME.
         </p>
 
-        <h3 className={h3Class}>Days 1&ndash;30: Foundation</h3>
+        <h3 className={h3Class}>Days 1-30: Foundation</h3>
         <ol className={olClass}>
           <li>Complete technology and access audit.</li>
           <li>Enable MFA on all critical accounts.</li>
@@ -515,7 +515,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           <li>Apply for cyber insurance.</li>
         </ol>
 
-        <h3 className={h3Class}>Days 30&ndash;90: Hardening</h3>
+        <h3 className={h3Class}>Days 30-90: Hardening</h3>
         <ol className={olClass}>
           <li>Launch employee security awareness training.</li>
           <li>Conduct first simulated phishing exercise.</li>
@@ -525,7 +525,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           <li>Begin compliance gap assessment for applicable regulations.</li>
         </ol>
 
-        <h3 className={h3Class}>Days 90&ndash;180: Maturation</h3>
+        <h3 className={h3Class}>Days 90-180: Maturation</h3>
         <ol className={olClass}>
           <li>Develop and test incident response plan.</li>
           <li>Conduct first tabletop exercise with leadership team.</li>
@@ -534,7 +534,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
           <li>Begin board-level cybersecurity reporting.</li>
         </ol>
 
-        <h3 className={h3Class}>Days 180&ndash;365: Optimization</h3>
+        <h3 className={h3Class}>Days 180-365: Optimization</h3>
         <ol className={olClass}>
           <li>Achieve compliance with applicable regulatory requirements.</li>
           <li>Implement security monitoring and log aggregation.</li>
@@ -547,21 +547,21 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
 
         <p>
           Cybersecurity in an acquired SME is not about achieving perfection
-          &mdash; it is about systematically reducing risk to a level that
+          it is about systematically reducing risk to a level that
           protects the business, satisfies regulators, and gives your board
           confidence. The companies that treat cybersecurity as a strategic
           priority rather than a back-office cost center are the ones that
           avoid the headline-making breaches that destroy value overnight.
           Start with the fundamentals, build discipline into the process, and
-          invest consistently. Your future self &mdash; and your investors
-          &mdash; will thank you.
+          invest consistently. Your future self, and your investors
+          will thank you.
         </p>
 
         <h2 className={h2Class}>Frequently asked questions</h2>
 
         <h3 className={h3Class}>How much should an acquired SME spend on cybersecurity annually?</h3>
         <p>
-          According to Gartner&rsquo;s IT spending benchmarks, SMEs should allocate 3&ndash;7% of their IT budget to security, which translates to roughly $500&ndash;$2,000 per employee per year. For a typical 30-person company acquired through a search fund, a realistic first-year cybersecurity budget includes: password manager ($2,400/year), endpoint protection ($3,600/year), backup solution ($6,000/year), security awareness training ($600/year), cyber insurance ($3,000&ndash;$5,000/year), and MSP security services ($12,000&ndash;$24,000/year) &mdash; totaling approximately $28,000&ndash;$42,000, or roughly $1,000&ndash;$1,400 per employee. When presenting this to your{" "}
+          According to Gartner&rsquo;s IT spending benchmarks, SMEs should allocate 3-7% of their IT budget to security, which translates to roughly $500-$2,000 per employee per year. For a typical 30-person company acquired through a search fund, a realistic first-year cybersecurity budget includes: password manager ($2,400/year), endpoint protection ($3,600/year), backup solution ($6,000/year), security awareness training ($600/year), cyber insurance ($3,000-$5,000/year), and MSP security services ($12,000-$24,000/year), totaling approximately $28,000-$42,000, or roughly $1,000-$1,400 per employee. When presenting this to your{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board</Link>,
           frame it as risk management: the average cost of a data breach for an SME exceeds $120,000, making the annual prevention investment compelling.
         </p>
@@ -573,7 +573,7 @@ export default function CybersecurityForAcquiredBusinessesArticle() {
 
         <h3 className={h3Class}>Does my acquired business need cyber insurance?</h3>
         <p>
-          Yes. According to the Insurance Information Institute, standalone cyber insurance is a non-negotiable for any business handling customer data, financial information, or regulated data (HIPAA, PCI-DSS, GDPR). Many general commercial liability policies explicitly exclude cyber incidents, leaving the business fully exposed. Standalone cyber policies cost $1,000&ndash;$7,500 per year for most SMEs and cover incident response costs, forensic investigation, legal fees, notification expenses, business interruption losses, and potentially ransom payments. Insurers increasingly require MFA, endpoint protection, and verified backups before issuing policies &mdash; completing the first-30-days{" "}
+          Yes. According to the Insurance Information Institute, standalone cyber insurance is a non-negotiable for any business handling customer data, financial information, or regulated data (HIPAA, PCI-DSS, GDPR). Many general commercial liability policies explicitly exclude cyber incidents, leaving the business fully exposed. Standalone cyber policies cost $1,000-$7,500 per year for most SMEs and cover incident response costs, forensic investigation, legal fees, notification expenses, business interruption losses, and potentially ransom payments. Insurers increasingly require MFA, endpoint protection, and verified backups before issuing policies, completing the first-30-days{" "}
           <Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">technology audit</Link>{" "}
           checklist makes your business insurable and lowers premiums. Apply within the first 30 days of ownership.
         </p>

@@ -22,17 +22,17 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h2 className={h2Class}>Why technology matters in acquired SMEs</h2>
         <p>
-          Technology is not a side concern &mdash; it is the connective tissue
+          Technology is not a side concern, it is the connective tissue
           of modern business operations. In a typical search fund acquisition,
-          the target generates $3M&ndash;$30M in revenue and employs
-          20&ndash;200 people. At this scale, technology decisions have an
+          the target generates $3M-$30M in revenue and employs
+          20-200 people. At this scale, technology decisions have an
           outsized impact on margins, scalability, and risk.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Operational efficiency.</strong> Manual processes that worked
             at ten employees become bottlenecks at thirty. Technology lets you
-            scale operations without proportionally scaling headcount &mdash;
+            scale operations without proportionally scaling headcount , 
             the primary lever for margin expansion in most value creation plans.
           </li>
           <li>
@@ -74,7 +74,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           <li>
             <strong>Networking.</strong> Document routers, switches, firewalls,
             Wi-Fi, and VPN configurations. Check internet bandwidth and
-            redundancy &mdash; many SMEs run on a single ISP with no failover.
+            redundancy, many SMEs run on a single ISP with no failover.
           </li>
           <li>
             <strong>End-user devices.</strong> Inventory all laptops, desktops,
@@ -115,7 +115,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           </li>
           <li>
             <strong>Backup status.</strong> Verify backup frequency, location,
-            encryption, and &mdash; critically &mdash; when backups were last
+            encryption, and, critically, when backups were last
             tested. A backup that has never been restored is not a backup.
           </li>
           <li>
@@ -125,7 +125,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           </li>
           <li>
             <strong>Ownership.</strong> Verify that all data, domain names, and
-            cloud accounts are owned by the company entity &mdash; not by the
+            cloud accounts are owned by the company entity, not by the
             former owner personally or an external consultant.
           </li>
         </ul>
@@ -153,7 +153,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           <li>
             <strong>Cyber insurance.</strong> Many general commercial policies
             exclude cyber incidents entirely. Standalone coverage costs
-            $1,000&ndash;$5,000 per year for most SMEs.
+            $1,000-$5,000 per year for most SMEs.
           </li>
         </ul>
 
@@ -166,13 +166,13 @@ export default function PostAcquisitionTechnologyAuditArticle() {
             percentage of revenue.
           </li>
           <li>
-            <strong>Benchmark.</strong> Typical SME IT spending is 3%&ndash;6%
+            <strong>Benchmark.</strong> Typical SME IT spending is 3%-6%
             of revenue. Below 2% signals accumulated tech debt. Above 8%
             suggests redundant tools or over-engineered solutions.
           </li>
           <li>
             <strong>Identify waste.</strong> It is common to find
-            $20K&ndash;$50K in annual savings by canceling unused subscriptions
+            $20K-$50K in annual savings by canceling unused subscriptions
             and eliminating redundant tools during the first spend review.
           </li>
         </ul>
@@ -181,7 +181,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Unsupported software.</strong> Applications on versions that
-            no longer receive security patches &mdash; Windows Server 2012,
+            no longer receive security patches, Windows Server 2012,
             QuickBooks Desktop 2018, custom apps on deprecated frameworks.
           </li>
           <li>
@@ -215,8 +215,8 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           Migrating from on-premise Exchange or a local file server to
           Microsoft 365 or Google Workspace is one of the highest-value quick
           wins. These platforms deliver enterprise-grade email, cloud storage,
-          and collaboration for $6&ndash;$22 per user per month. Migration
-          takes one to three weeks for 20&ndash;100 employees and eliminates
+          and collaboration for $6-$22 per user per month. Migration
+          takes one to three weeks for 20-100 employees and eliminates
           the cost and risk of maintaining on-premise servers.
         </p>
 
@@ -228,7 +228,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           </li>
           <li>
             <strong>Deploy endpoint protection.</strong> CrowdStrike,
-            SentinelOne, or Microsoft Defender for Business at $5&ndash;$12
+            SentinelOne, or Microsoft Defender for Business at $5-$12
             per endpoint per month for real-time threat detection.
           </li>
           <li>
@@ -238,7 +238,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           </li>
           <li>
             <strong>Implement a password manager.</strong> 1Password Business
-            or Dashlane at $4&ndash;$8 per user per month replaces shared
+            or Dashlane at $4-$8 per user per month replaces shared
             passwords and sticky-note credentials.
           </li>
         </ol>
@@ -247,7 +247,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
         <p>
           Implement the 3-2-1 rule: three copies of critical data, on two
           different media, with one stored off-site. Cloud backup solutions
-          like Veeam, Datto, or Acronis cost $200&ndash;$1,000 per month and
+          like Veeam, Datto, or Acronis cost $200-$1,000 per month and
           provide automated, encrypted, verified backups. Document a disaster
           recovery plan, test it quarterly, and answer: if we lose everything
           tomorrow, how do we resume operations and how long will it take?
@@ -264,7 +264,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
         <h3 className={h3Class}>Invest now</h3>
         <ul className={ulClass}>
           <li><strong>Security vulnerabilities</strong> that expose the business to data loss, regulatory penalties, or operational shutdown.</li>
-          <li><strong>Single points of failure</strong> &mdash; no redundancy for critical systems, people, or connections.</li>
+          <li><strong>Single points of failure</strong>: no redundancy for critical systems, people, or connections.</li>
           <li><strong>Compliance gaps</strong> that create legal and financial exposure.</li>
           <li><strong>Revenue-enabling technology</strong> like a CRM for a sales team with no pipeline visibility.</li>
         </ul>
@@ -286,7 +286,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           </li>
           <li>
             <strong>The true cost of building.</strong> Custom projects
-            routinely cost 2&ndash;3x their estimate and take twice as long.
+            routinely cost 2-3x their estimate and take twice as long.
             A $50K build easily becomes $150K over three years when you add
             maintenance, security patches, and enhancements.
           </li>
@@ -299,7 +299,7 @@ export default function PostAcquisitionTechnologyAuditArticle() {
           <li>
             <strong>The middle path.</strong> Low-code platforms like Airtable,
             Monday.com, or Microsoft Power Apps let you build lightweight
-            workflows without traditional development &mdash; ideal for
+            workflows without traditional development, ideal for
             bridging gaps between off-the-shelf tools.
           </li>
         </ul>
@@ -308,9 +308,9 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h3 className={h3Class}>Managed service providers (MSPs)</h3>
         <p>
-          An MSP provides outsourced IT support &mdash; help desk, monitoring,
-          patch management, backups, and basic cybersecurity &mdash; for
-          $100&ndash;$250 per user per month. For companies with 20&ndash;50
+          An MSP provides outsourced IT support, help desk, monitoring,
+          patch management, backups, and basic cybersecurity, for
+          $100-$250 per user per month. For companies with 20-50
           employees, an MSP is almost always more cost-effective than an
           internal hire. Evaluate providers on response time SLAs, industry
           references, security certifications (SOC 2, ISO 27001), and pricing
@@ -320,13 +320,13 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h3 className={h3Class}>In-house IT and the hybrid model</h3>
         <p>
-          Consider an internal IT hire when you exceed 75&ndash;100 employees,
+          Consider an internal IT hire when you exceed 75-100 employees,
           operate proprietary systems, or have complex compliance requirements.
           The most effective approach for many search fund businesses is a
           hybrid: one internal IT manager for strategy and vendor management,
           supported by an MSP for day-to-day operations. For strategic
           technology leadership without a full-time executive, a fractional CTO
-          at $3,000&ndash;$10,000 per month can conduct your audit, develop
+          at $3,000-$10,000 per month can conduct your audit, develop
           the roadmap, oversee implementations, and then reduce involvement
           once the foundation is in place.
         </p>
@@ -334,13 +334,13 @@ export default function PostAcquisitionTechnologyAuditArticle() {
         <h2 className={h2Class}>Budgeting IT spend as a percentage of revenue</h2>
         <ul className={ulClass}>
           <li>
-            <strong>Year one: 4%&ndash;6% of revenue.</strong> Elevated
+            <strong>Year one: 4%-6% of revenue.</strong> Elevated
             spending to address deferred maintenance, close security gaps,
             and implement foundational systems. For a $10M business, this means
-            $400K&ndash;$600K including one-time project costs.
+            $400K-$600K including one-time project costs.
           </li>
           <li>
-            <strong>Steady state: 3%&ndash;5% of revenue.</strong> Covers
+            <strong>Steady state: 3%-5% of revenue.</strong> Covers
             ongoing SaaS subscriptions, MSP or staff costs, hardware
             replacement on a lifecycle basis, and incremental improvements.
           </li>
@@ -361,27 +361,27 @@ export default function PostAcquisitionTechnologyAuditArticle() {
         <h2 className={h2Class}>Putting it all together: the audit timeline</h2>
         <ul className={ulClass}>
           <li>
-            <strong>Weeks 1&ndash;2: Discovery.</strong> Inventory hardware,
+            <strong>Weeks 1-2: Discovery.</strong> Inventory hardware,
             software, contracts, and expenses. Interview key users about pain
             points. Identify who currently handles IT.
           </li>
           <li>
-            <strong>Weeks 3&ndash;4: Assessment.</strong> Evaluate security,
+            <strong>Weeks 3-4: Assessment.</strong> Evaluate security,
             backups, infrastructure age, and application fitness. Score each
             domain on a red-yellow-green scale.
           </li>
           <li>
-            <strong>Weeks 5&ndash;6: Quick wins.</strong> Enable MFA,
+            <strong>Weeks 5-6: Quick wins.</strong> Enable MFA,
             deprovision former employees, verify backups, cancel unused
             subscriptions.
           </li>
           <li>
-            <strong>Weeks 7&ndash;10: Roadmap.</strong> Build a prioritized
-            12&ndash;18 month technology roadmap with costs, timelines, and
+            <strong>Weeks 7-10: Roadmap.</strong> Build a prioritized
+            12-18 month technology roadmap with costs, timelines, and
             expected outcomes. Present to your board alongside the IT budget.
           </li>
           <li>
-            <strong>Weeks 11&ndash;12: Kick-off.</strong> Select vendors or an
+            <strong>Weeks 11-12: Kick-off.</strong> Select vendors or an
             MSP and begin executing highest-priority initiatives.
           </li>
         </ul>
@@ -401,19 +401,19 @@ export default function PostAcquisitionTechnologyAuditArticle() {
 
         <h3 className={h3Class}>How long does a post-acquisition technology audit take?</h3>
         <p>
-          A thorough technology audit can be completed in 10&ndash;12 weeks following a structured approach. According to Gartner&rsquo;s IT assessment framework, the process breaks down as: Weeks 1&ndash;2 for discovery (inventorying hardware, software, contracts, and expenses and interviewing key users), Weeks 3&ndash;4 for assessment (evaluating security, backups, infrastructure age, and application fitness), Weeks 5&ndash;6 for implementing quick wins (enabling MFA, deprovisioning former employees, verifying backups, canceling unused subscriptions), and Weeks 7&ndash;12 for building a prioritized 12&ndash;18 month technology roadmap with costs, timelines, and expected outcomes. A fractional CTO at $3,000&ndash;$10,000 per month can lead this process if you lack internal IT leadership.
+          A thorough technology audit can be completed in 10-12 weeks following a structured approach. According to Gartner&rsquo;s IT assessment framework, the process breaks down as: Weeks 1-2 for discovery (inventorying hardware, software, contracts, and expenses and interviewing key users), Weeks 3-4 for assessment (evaluating security, backups, infrastructure age, and application fitness), Weeks 5-6 for implementing quick wins (enabling MFA, deprovisioning former employees, verifying backups, canceling unused subscriptions), and Weeks 7-12 for building a prioritized 12-18 month technology roadmap with costs, timelines, and expected outcomes. A fractional CTO at $3,000-$10,000 per month can lead this process if you lack internal IT leadership.
         </p>
 
         <h3 className={h3Class}>How much IT waste is typically found in acquired SMEs?</h3>
         <p>
-          According to Flexera&rsquo;s annual IT spending waste report, organizations waste an average of 30&ndash;35% of their software spending on unused or underutilized licenses. In acquired SMEs, this waste is often even higher. It is common to find $20K&ndash;$50K in annual savings by canceling unused SaaS subscriptions, eliminating redundant tools (multiple project management platforms, duplicate email marketing services), and renegotiating vendor contracts that auto-renewed at inflated rates. The technology audit pays for itself through these savings alone, before you even begin investing in improvements. Document every software tool and subscription, including costs and contract renewal dates, and rationalize the portfolio within the first 90 days.
+          According to Flexera&rsquo;s annual IT spending waste report, organizations waste an average of 30-35% of their software spending on unused or underutilized licenses. In acquired SMEs, this waste is often even higher. It is common to find $20K-$50K in annual savings by canceling unused SaaS subscriptions, eliminating redundant tools (multiple project management platforms, duplicate email marketing services), and renegotiating vendor contracts that auto-renewed at inflated rates. The technology audit pays for itself through these savings alone, before you even begin investing in improvements. Document every software tool and subscription, including costs and contract renewal dates, and rationalize the portfolio within the first 90 days.
         </p>
 
         <h3 className={h3Class}>Should I use an MSP or hire an in-house IT person?</h3>
         <p>
           For businesses with fewer than 50 employees, a Managed Service Provider (MSP) is almost always more cost-effective. According to CompTIA&rsquo;s managed services research, MSPs provide 24/7 monitoring, help desk support, patch management, and basic{" "}
           <Link href="/learn/cybersecurity-for-acquired-businesses" className="text-apple-accent hover:underline">cybersecurity</Link>{" "}
-          for $100&ndash;$250 per endpoint per month, which translates to $2,000&ndash;$7,500 per month for a 20&ndash;30 person company &mdash; a fraction of the $60K&ndash;$90K annual cost of a full-time IT hire plus benefits. Consider an internal IT manager when the business exceeds 75&ndash;100 employees, operates proprietary systems, or has complex compliance requirements. The most effective model for many search fund businesses is a hybrid: one internal IT manager for strategy and vendor management, supported by an MSP for day-to-day operations.
+          for $100-$250 per endpoint per month, which translates to $2,000-$7,500 per month for a 20-30 person company, a fraction of the $60K-$90K annual cost of a full-time IT hire plus benefits. Consider an internal IT manager when the business exceeds 75-100 employees, operates proprietary systems, or has complex compliance requirements. The most effective model for many search fund businesses is a hybrid: one internal IT manager for strategy and vendor management, supported by an MSP for day-to-day operations.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

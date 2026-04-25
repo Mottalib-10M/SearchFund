@@ -9,8 +9,8 @@ export default function TransferPricingAcquisitionsArticle() {
 
       <div className={bodyClass}>
         <p>
-          Transfer pricing &mdash; the pricing of transactions between related
-          parties within a multinational group &mdash; is one of the most
+          Transfer pricing, the pricing of transactions between related
+          parties within a multinational group, is one of the most
           consequential yet frequently underestimated areas of risk in
           acquisitions. When an acquirer purchases a business that engages in
           intercompany transactions across borders, the transfer pricing
@@ -47,8 +47,8 @@ export default function TransferPricingAcquisitionsArticle() {
         </p>
         <p>
           The practical challenge is that many intercompany transactions
-          &mdash; particularly those involving intellectual property, management
-          services, cost-sharing arrangements, and intra-group financing &mdash;
+          particularly those involving intellectual property, management
+          services, cost-sharing arrangements, and intra-group financing , 
           have no direct comparable on the open market. Determining what
           &ldquo;arm&apos;s length&rdquo; means in these contexts requires
           economic analysis, comparable benchmarking studies, and significant
@@ -59,8 +59,8 @@ export default function TransferPricingAcquisitionsArticle() {
         <h2 className={h2Class}>The arm&apos;s length principle in practice</h2>
         <p>
           The arm&apos;s length principle requires that the conditions of
-          intercompany transactions &mdash; including pricing, terms, and
-          risk allocation &mdash; be consistent with what independent parties
+          intercompany transactions: including pricing, terms, and
+          risk allocation, be consistent with what independent parties
           would agree to in comparable circumstances. Tax authorities around
           the world use several prescribed methods to test compliance with
           this principle.
@@ -113,7 +113,7 @@ export default function TransferPricingAcquisitionsArticle() {
         </ul>
         <p>
           For acquirers, understanding which methods the target company uses
-          &mdash; and whether those methods are defensible &mdash; is critical.
+         , and whether those methods are defensible, is critical.
           A target that uses an aggressive or unsupported pricing methodology
           carries latent tax risk that may materialize in the form of audits
           and adjustments after closing. This is a key area of{" "}
@@ -250,7 +250,7 @@ export default function TransferPricingAcquisitionsArticle() {
         </p>
         <p>
           The OECD guidelines were substantially revised as part of the BEPS
-          project (Actions 8&ndash;10 and Action 13), with significant
+          project (Actions 8-10 and Action 13), with significant
           implications for acquirers.
         </p>
         <ul className={ulClass}>
@@ -268,7 +268,7 @@ export default function TransferPricingAcquisitionsArticle() {
           <li>
             <strong>Substance requirements:</strong> The BEPS reforms
             emphasized that transfer pricing outcomes must align with
-            genuine economic substance &mdash; the actual functions performed,
+            genuine economic substance, the actual functions performed,
             assets used, and risks assumed by each entity. Entities that lack
             qualified personnel, decision-making authority, or genuine
             operational capacity cannot claim returns commensurate with
@@ -498,23 +498,23 @@ export default function TransferPricingAcquisitionsArticle() {
 
         <h3 className={h3Class}>Why is transfer pricing important in acquisition due diligence?</h3>
         <p>
-          Transfer pricing is critical because an acquirer inherits the target company&rsquo;s existing intercompany pricing arrangements and any associated tax exposures. If the target has been using aggressive or unsupported pricing methodologies, the acquirer faces latent risk of audits, adjustments, and penalties that can materially erode returns. According to Deloitte&rsquo;s Global Transfer Pricing Country Guide, transfer pricing disputes account for approximately 60% of all international tax controversies, with average assessment periods of 3&ndash;5 years. Undocumented or under-documented positions are particularly risky because they leave the company unable to defend its pricing during an audit. The OECD&rsquo;s three-tiered documentation framework (Master File, Local File, and Country-by-Country Report) sets the baseline standard &mdash; companies that lack contemporaneous documentation face significantly higher adjustment probabilities.
+          Transfer pricing is critical because an acquirer inherits the target company&rsquo;s existing intercompany pricing arrangements and any associated tax exposures. If the target has been using aggressive or unsupported pricing methodologies, the acquirer faces latent risk of audits, adjustments, and penalties that can materially erode returns. According to Deloitte&rsquo;s Global Transfer Pricing Country Guide, transfer pricing disputes account for approximately 60% of all international tax controversies, with average assessment periods of 3-5 years. Undocumented or under-documented positions are particularly risky because they leave the company unable to defend its pricing during an audit. The OECD&rsquo;s three-tiered documentation framework (Master File, Local File, and Country-by-Country Report) sets the baseline standard, companies that lack contemporaneous documentation face significantly higher adjustment probabilities.
         </p>
 
         <h3 className={h3Class}>What are the most commonly challenged intercompany transactions?</h3>
         <p>
-          Management fees and cost allocations are among the most frequently challenged transactions because many companies charge fees based on arbitrary allocation keys rather than demonstrable benefit to the receiving entity. Intra-group financing is another perennial focus &mdash; loans with interest rates or terms deviating from market conditions, excessive debt levels (thin capitalization), and lending entities lacking genuine economic substance attract scrutiny. The OECD&rsquo;s BEPS project has intensified challenges to IP structures where valuable intellectual property has been migrated to low-tax jurisdictions without adequate substance, under the DEMPE framework (Development, Enhancement, Maintenance, Protection, and Exploitation). PwC reports that tax authorities are increasingly using data analytics and Country-by-Country Reports to identify profit-shifting patterns, making it essential for acquirers to evaluate the defensibility of all material intercompany transactions before closing.
+          Management fees and cost allocations are among the most frequently challenged transactions because many companies charge fees based on arbitrary allocation keys rather than demonstrable benefit to the receiving entity. Intra-group financing is another perennial focus, loans with interest rates or terms deviating from market conditions, excessive debt levels (thin capitalization), and lending entities lacking genuine economic substance attract scrutiny. The OECD&rsquo;s BEPS project has intensified challenges to IP structures where valuable intellectual property has been migrated to low-tax jurisdictions without adequate substance, under the DEMPE framework (Development, Enhancement, Maintenance, Protection, and Exploitation). PwC reports that tax authorities are increasingly using data analytics and Country-by-Country Reports to identify profit-shifting patterns, making it essential for acquirers to evaluate the defensibility of all material intercompany transactions before closing.
         </p>
 
         <h3 className={h3Class}>How should acquirers protect themselves from transfer pricing risk in the purchase agreement?</h3>
         <p>
-          Acquirers should negotiate transfer pricing-specific representations and warranties requiring the seller to represent that all intercompany transactions are at arm&rsquo;s length, that documentation is current and complete, and that there are no pending or threatened audits. Specific indemnities for pre-closing transfer pricing exposures provide direct financial protection &mdash; these should cover additional taxes, interest, and penalties arising from periods before the acquisition closes. For quantified risks, negotiate price adjustments or escrow holdbacks. The European Commission&rsquo;s Joint Transfer Pricing Forum recommends that acquirers also evaluate whether existing Advance Pricing Agreements (APAs) will survive the change of ownership, as many APAs contain change-of-control provisions that may terminate or require renegotiation. Post-closing, invest immediately in bringing documentation up to standard and implement intercompany pricing monitoring to ensure ongoing compliance.
+          Acquirers should negotiate transfer pricing-specific representations and warranties requiring the seller to represent that all intercompany transactions are at arm&rsquo;s length, that documentation is current and complete, and that there are no pending or threatened audits. Specific indemnities for pre-closing transfer pricing exposures provide direct financial protection, these should cover additional taxes, interest, and penalties arising from periods before the acquisition closes. For quantified risks, negotiate price adjustments or escrow holdbacks. The European Commission&rsquo;s Joint Transfer Pricing Forum recommends that acquirers also evaluate whether existing Advance Pricing Agreements (APAs) will survive the change of ownership, as many APAs contain change-of-control provisions that may terminate or require renegotiation. Post-closing, invest immediately in bringing documentation up to standard and implement intercompany pricing monitoring to ensure ongoing compliance.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>OECD, <em>Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations</em> (2022)</li>
-          <li>OECD, <em>BEPS Actions 8&ndash;10: Aligning Transfer Pricing Outcomes with Value Creation</em> (2015)</li>
+          <li>OECD, <em>BEPS Actions 8-10: Aligning Transfer Pricing Outcomes with Value Creation</em> (2015)</li>
           <li>OECD, <em>BEPS Action 13: Transfer Pricing Documentation and Country-by-Country Reporting</em> (2015)</li>
           <li>European Commission, <em>EU Joint Transfer Pricing Forum Reports</em></li>
           <li>Deloitte, <em>Global Transfer Pricing Country Guide</em></li>

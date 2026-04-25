@@ -558,7 +558,7 @@ export default function IdealCompanyProfileArticle() {
 
       <h3 className={h3Class}>How many industries should your ICP include?</h3>
       <p className={bodyClass}>
-        Most successful searchers target 3&ndash;5 tier-one industries where they have knowledge, network, or genuine interest, plus 2&ndash;3 tier-two industries they will evaluate on an inbound basis. Focusing on fewer than two industries creates deal flow risk, while chasing more than eight creates inefficiency and dilutes your credibility with brokers. The key is balancing focus with adequate opportunity volume&mdash;a good test is whether you can expect to see at least 5&ndash;10 relevant opportunities per month.
+        Most successful searchers target 3-5 tier-one industries where they have knowledge, network, or genuine interest, plus 2-3 tier-two industries they will evaluate on an inbound basis. Focusing on fewer than two industries creates deal flow risk, while chasing more than eight creates inefficiency and dilutes your credibility with brokers. The key is balancing focus with adequate opportunity volume, a good test is whether you can expect to see at least 5-10 relevant opportunities per month.
       </p>
 
       <h3 className={h3Class}>When should you revise your ICP during a search?</h3>
@@ -568,7 +568,7 @@ export default function IdealCompanyProfileArticle() {
 
       <h3 className={h3Class}>What is the most common ICP mistake new searchers make?</h3>
       <p className={bodyClass}>
-        The most common mistake is creating a &ldquo;perfect business&rdquo; profile that describes a unicorn: recurring revenue, 30%+ EBITDA margins, zero customer concentration, fully delegated operations, and a motivated seller offering seller financing. This business does not exist at reasonable valuations. Every acquisition involves trade-offs. The second most common mistake is excessive geographic restriction&mdash;limiting yourself to a single metro area can reduce deal flow by 85&ndash;95%.
+        The most common mistake is creating a &ldquo;perfect business&rdquo; profile that describes a unicorn: recurring revenue, 30%+ EBITDA margins, zero customer concentration, fully delegated operations, and a motivated seller offering seller financing. This business does not exist at reasonable valuations. Every acquisition involves trade-offs. The second most common mistake is excessive geographic restriction, limiting yourself to a single metro area can reduce deal flow by 85-95%.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

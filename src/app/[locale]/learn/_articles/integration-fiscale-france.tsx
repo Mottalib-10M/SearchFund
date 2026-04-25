@@ -71,7 +71,7 @@ export default function IntegrationFiscaleFranceArticle() {
         <ul className={ulClass}>
           <li>Int&eacute;gration fiscale enables the holding company&apos;s acquisition debt interest to offset the target&apos;s operating profits</li>
           <li>Requires 95%+ ownership and same fiscal year-end across all group members</li>
-          <li>The election is irrevocable for 5 years &mdash; plan carefully before opting in</li>
+          <li>The election is irrevocable for 5 years, plan carefully before opting in</li>
           <li>Interest deduction is capped at 30% of consolidated EBITDA with a &euro;3M safe harbor</li>
           <li>Work with a French expert-comptable and fiscaliste to set up and maintain the consolidated group</li>
         </ul>

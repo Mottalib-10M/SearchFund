@@ -12,7 +12,7 @@ export default function EBITDAMultiplesByCountryArticle() {
       <div className={bodyClass}>
         <p>
           Business valuations vary dramatically by country. The same
-          $1M&ndash;EBITDA services company might sell for 3x in Southern
+          $1M-EBITDA services company might sell for 3x in Southern
           Europe and 6x+ in the United States. For search fund
           entrepreneurs and{" "}
           <Link href="/learn/cross-border-acquisitions" className="text-apple-accent hover:underline">
@@ -21,14 +21,14 @@ export default function EBITDAMultiplesByCountryArticle() {
           arbitrage and larger deal pools.
         </p>
 
-        <h2 className={h2Class}>EBITDA multiples by country (2024&ndash;2025)</h2>
+        <h2 className={h2Class}>EBITDA multiples by country (2024-2025)</h2>
 
         <h3 className={h3Class}>United States</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 4&ndash;7x EBITDA for SMEs ($1M&ndash;$5M EBITDA)</li>
+          <li><strong>Range:</strong> 4-7x EBITDA for SMEs ($1M-$5M EBITDA)</li>
           <li><strong>Median:</strong> ~5.5x for search fund acquisitions</li>
           <li><strong>Why higher:</strong> Deep buyer pool (PE, search funds, strategic), SBA financing availability, mature M&amp;A market, strong rule of law</li>
-          <li><strong>Sweet spot:</strong> 4&ndash;5x for businesses with $1&ndash;2M EBITDA (below PE radar, above micro-acquisition)</li>
+          <li><strong>Sweet spot:</strong> 4-5x for businesses with $1-2M EBITDA (below PE radar, above micro-acquisition)</li>
           <li><strong>See:</strong>{" "}
             <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
               US multiples by industry
@@ -37,7 +37,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>United Kingdom</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 4&ndash;6x EBITDA for SMEs</li>
+          <li><strong>Range:</strong> 4-6x EBITDA for SMEs</li>
           <li><strong>Median:</strong> ~4.5x</li>
           <li><strong>Why:</strong> Well-developed broker network, but smaller buyer pool than the US. Brexit has created uncertainty premiums in some sectors</li>
           <li><strong>Opportunity:</strong> Northern England, Scotland, and Wales trade at lower multiples than London and the Southeast</li>
@@ -45,8 +45,8 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>France</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3.5&ndash;6x EBITDA</li>
-          <li><strong>Median:</strong> ~4x for businesses with &euro;500K&ndash;&euro;2M EBITDA</li>
+          <li><strong>Range:</strong> 3.5-6x EBITDA</li>
+          <li><strong>Median:</strong> ~4x for businesses with &euro;500K-&euro;2M EBITDA</li>
           <li><strong>Why cheaper:</strong> Labor regulations perceived as complex, fewer financial buyers, strong seller preference for employee welfare over price</li>
           <li><strong>Advantage:</strong>{" "}
             <Link href="/learn/bpifrance-acquisition-financing" className="text-apple-accent hover:underline">
@@ -62,7 +62,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Germany</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 4&ndash;7x EBITDA for Mittelstand companies</li>
+          <li><strong>Range:</strong> 4-7x EBITDA for Mittelstand companies</li>
           <li><strong>Median:</strong> ~5x</li>
           <li><strong>Why higher:</strong> Strong industrial base, excellent cash flow, and growing PE interest in the Mittelstand. The Nachfolge (succession) crisis creates urgency but also competition</li>
           <li><strong>Financing:</strong>{" "}
@@ -74,7 +74,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Spain</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3&ndash;5x EBITDA</li>
+          <li><strong>Range:</strong> 3-5x EBITDA</li>
           <li><strong>Median:</strong> ~3.5x</li>
           <li><strong>Why cheaper:</strong> Less developed M&amp;A market for SMEs, fragmented broker market, fewer institutional buyers targeting sub-&euro;5M businesses</li>
           <li><strong>Opportunity:</strong> Tourism, food production, and industrial services in underserved regions</li>
@@ -82,7 +82,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Italy</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3&ndash;5x EBITDA</li>
+          <li><strong>Range:</strong> 3-5x EBITDA</li>
           <li><strong>Median:</strong> ~3.5x</li>
           <li><strong>Why cheaper:</strong> Fragmented market, family-ownership culture, complex bureaucracy, and limited acquisition financing</li>
           <li><strong>Opportunity:</strong> Northern Italy (Lombardy, Veneto, Emilia-Romagna) has world-class manufacturing at Southern European multiples</li>
@@ -90,15 +90,15 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Nordics (Sweden, Denmark, Norway, Finland)</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 4&ndash;6x EBITDA</li>
+          <li><strong>Range:</strong> 4-6x EBITDA</li>
           <li><strong>Median:</strong> ~5x</li>
           <li><strong>Why:</strong> Strong economies, high transparency, reliable financial reporting. Sweden and Denmark have the most active M&amp;A markets</li>
-          <li><strong>Premium sectors:</strong> SaaS/tech (8&ndash;12x), healthcare services (6&ndash;8x)</li>
+          <li><strong>Premium sectors:</strong> SaaS/tech (8-12x), healthcare services (6-8x)</li>
         </ul>
 
         <h3 className={h3Class}>Switzerland</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 5&ndash;8x EBITDA</li>
+          <li><strong>Range:</strong> 5-8x EBITDA</li>
           <li><strong>Median:</strong> ~6x</li>
           <li><strong>Why higher:</strong> Strong franc, high profitability, excellent rule of law, and limited deal supply. Swiss SMEs often have premium margins</li>
           <li><strong>Tax advantage:</strong> Individual capital gains on shares are generally tax-free</li>
@@ -106,7 +106,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Netherlands &amp; Belgium</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 4&ndash;6x EBITDA</li>
+          <li><strong>Range:</strong> 4-6x EBITDA</li>
           <li><strong>Median:</strong> ~4.5x</li>
           <li><strong>Why:</strong> Efficient M&amp;A market, good transparency, but limited deal supply in smaller size ranges</li>
           <li><strong>Netherlands advantage:</strong> 100% participation exemption makes it ideal for{" "}
@@ -117,7 +117,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Canada</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3.5&ndash;6x EBITDA</li>
+          <li><strong>Range:</strong> 3.5-6x EBITDA</li>
           <li><strong>Median:</strong> ~4.5x</li>
           <li><strong>Why:</strong> Smaller buyer pool than the US, but similar business quality. BDC (Business Development Bank) provides acquisition financing</li>
           <li><strong>Tax advantage:</strong> ~$1M CAD lifetime capital gains exemption (LCGE) for qualifying small business shares</li>
@@ -125,7 +125,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Japan</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3&ndash;5x EBITDA</li>
+          <li><strong>Range:</strong> 3-5x EBITDA</li>
           <li><strong>Median:</strong> ~3.5x</li>
           <li><strong>Why cheapest:</strong> Acute succession crisis (2.45M businesses at risk), cultural aversion to selling outside the family, limited M&amp;A infrastructure for SMEs</li>
           <li><strong>Challenge:</strong> Language barrier, cultural integration, and regulatory complexity</li>
@@ -133,7 +133,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Latin America (Brazil, Mexico, Colombia)</h3>
         <ul className={ulClass}>
-          <li><strong>Range:</strong> 3&ndash;5x EBITDA</li>
+          <li><strong>Range:</strong> 3-5x EBITDA</li>
           <li><strong>Median:</strong> ~3.5x</li>
           <li><strong>Why cheapest:</strong> Country risk, currency risk, less developed exit markets, informality in financial reporting</li>
           <li><strong>See:</strong>{" "}
@@ -154,7 +154,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h2 className={h2Class}>Valuation arbitrage strategies</h2>
         <ul className={ulClass}>
-          <li><strong>Buy low, sell high:</strong> Acquire at 3&ndash;4x in a lower-multiple market, professionalize operations, then sell to a US or UK PE fund at 5&ndash;7x</li>
+          <li><strong>Buy low, sell high:</strong> Acquire at 3-4x in a lower-multiple market, professionalize operations, then sell to a US or UK PE fund at 5-7x</li>
           <li><strong>Cross-border roll-up:</strong> Acquire businesses in multiple countries at local multiples, then sell the combined platform at a premium</li>
           <li><strong>Currency play:</strong> Acquire during currency weakness (e.g., GBP post-Brexit, EUR during ECB tightening) for additional upside when the currency recovers</li>
           <li><strong>Professionalization premium:</strong> Implement financial reporting, governance, and growth initiatives that justify a multiple re-rating at exit</li>
@@ -162,7 +162,7 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h2 className={h2Class}>Important caveats</h2>
         <ul className={ulClass}>
-          <li><strong>Averages hide ranges:</strong> Within any country, multiples vary 2&ndash;3x based on industry, growth rate, customer concentration, and business quality</li>
+          <li><strong>Averages hide ranges:</strong> Within any country, multiples vary 2-3x based on industry, growth rate, customer concentration, and business quality</li>
           <li><strong>EBITDA definition varies:</strong>{" "}
             <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
               Adjusted EBITDA
@@ -186,36 +186,36 @@ export default function EBITDAMultiplesByCountryArticle() {
 
         <h3 className={h3Class}>Why are EBITDA multiples so much lower in Southern Europe than in the United States?</h3>
         <p>
-          The multiple gap between Southern Europe (3&ndash;4x) and the US (5&ndash;7x) is driven by three primary factors. First, buyer competition: the US has over 500 active search funds, hundreds of lower-middle-market PE firms, and thousands of strategic acquirers competing for SMEs, while Southern European markets have far fewer institutional buyers. Second, financing availability: the SBA 7(a) program provides up to $5M in government-guaranteed acquisition financing in the US, while no equivalent exists at comparable scale in Spain, Italy, or Portugal. Third, perceived regulatory risk: stringent labor laws and complex bureaucracies in Southern Europe create a risk premium that depresses valuations. IESE research shows that searchers who acquire at 3&ndash;4x in Spain and professionalize operations can exit at 5&ndash;7x to pan-European PE firms, capturing significant multiple arbitrage.
+          The multiple gap between Southern Europe (3-4x) and the US (5-7x) is driven by three primary factors. First, buyer competition: the US has over 500 active search funds, hundreds of lower-middle-market PE firms, and thousands of strategic acquirers competing for SMEs, while Southern European markets have far fewer institutional buyers. Second, financing availability: the SBA 7(a) program provides up to $5M in government-guaranteed acquisition financing in the US, while no equivalent exists at comparable scale in Spain, Italy, or Portugal. Third, perceived regulatory risk: stringent labor laws and complex bureaucracies in Southern Europe create a risk premium that depresses valuations. IESE research shows that searchers who acquire at 3-4x in Spain and professionalize operations can exit at 5-7x to pan-European PE firms, capturing significant multiple arbitrage.
         </p>
 
         <h3 className={h3Class}>Do higher multiples in a country always mean worse returns for search fund investors?</h3>
         <p>
           Not necessarily. The{" "}
           <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>{" "}
-          shows that aggregate US search fund returns remain above 35% IRR despite median acquisition multiples of 4.5&ndash;5.5x EBITDA. Higher-multiple markets typically offer deeper exit markets, more sophisticated financing structures, and stronger economic stability &mdash; all of which can compensate for the higher entry price. Conversely, low-multiple markets carry currency risk, political uncertainty, and thinner exit options that may erode returns despite the cheaper entry. The best risk-adjusted returns come from matching entry multiples to exit potential: buying at 3&ndash;4x in a market where PE firms pay 6&ndash;8x at exit produces the strongest MOIC.
+          shows that aggregate US search fund returns remain above 35% IRR despite median acquisition multiples of 4.5-5.5x EBITDA. Higher-multiple markets typically offer deeper exit markets, more sophisticated financing structures, and stronger economic stability, all of which can compensate for the higher entry price. Conversely, low-multiple markets carry currency risk, political uncertainty, and thinner exit options that may erode returns despite the cheaper entry. The best risk-adjusted returns come from matching entry multiples to exit potential: buying at 3-4x in a market where PE firms pay 6-8x at exit produces the strongest MOIC.
         </p>
 
         <h3 className={h3Class}>How should searchers account for currency risk when comparing multiples across countries?</h3>
         <p>
-          Currency risk can significantly impact dollar-denominated returns even when the underlying business performs well. A business acquired at 4x EBITDA in Turkey may generate a 3x return in lira terms but a 1.5x return in dollars if the lira depreciates 50% during the hold period. Searchers should model returns in both local currency and their investors&rsquo; home currency using conservative exchange rate scenarios. Natural hedging strategies &mdash; acquiring businesses with export revenues denominated in hard currencies, or using local-currency acquisition debt &mdash; can materially reduce FX exposure. The World Bank and IMF publish exchange rate forecasts and volatility data that should inform country-level return modeling.
+          Currency risk can significantly impact dollar-denominated returns even when the underlying business performs well. A business acquired at 4x EBITDA in Turkey may generate a 3x return in lira terms but a 1.5x return in dollars if the lira depreciates 50% during the hold period. Searchers should model returns in both local currency and their investors&rsquo; home currency using conservative exchange rate scenarios. Natural hedging strategies, acquiring businesses with export revenues denominated in hard currencies, or using local-currency acquisition debt, can materially reduce FX exposure. The World Bank and IMF publish exchange rate forecasts and volatility data that should inform country-level return modeling.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              Stanford Graduate School of Business &mdash; 2024 Search Fund Study
+              Stanford Graduate School of Business, 2024 Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; International Search Fund Study
+              IESE Business School, International Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.worldbank.org/en/publication/gfdr" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              World Bank &mdash; Global Financial Development Report and Country Risk Data
+              World Bank, Global Financial Development Report and Country Risk Data
             </a>
           </li>
         </ul>

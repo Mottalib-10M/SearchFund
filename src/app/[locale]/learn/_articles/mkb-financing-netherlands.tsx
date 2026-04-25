@@ -21,7 +21,7 @@ export default function MKBFinancingNetherlandsArticle() {
           <li><strong>Premium:</strong> 3.9% one-time guarantee premium to the state</li>
           <li><strong>Term:</strong> Up to 8 years for investments, 4 years for working capital</li>
         </ul>
-        <p>The BMKB significantly improves lending conditions for acquisitions where the buyer lacks sufficient collateral. RVO data shows that BMKB-backed loans carry interest rates approximately 0.5&ndash;1.5 percentage points lower than unsecured equivalents, making them especially attractive for <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">leveraged acquisition structures</Link>.</p>
+        <p>The BMKB significantly improves lending conditions for acquisitions where the buyer lacks sufficient collateral. RVO data shows that BMKB-backed loans carry interest rates approximately 0.5-1.5 percentage points lower than unsecured equivalents, making them especially attractive for <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">leveraged acquisition structures</Link>.</p>
       </div>
 
       <h2 className={h2Class}>Qredits</h2>
@@ -29,7 +29,7 @@ export default function MKBFinancingNetherlandsArticle() {
         <p>Qredits is a Dutch microfinance institution backed by the government and major banks:</p>
         <ul className={ulClass}>
           <li><strong>Business takeover loan:</strong> Up to &euro;250,000 specifically for business acquisitions</li>
-          <li><strong>Interest rate:</strong> Typically 5&ndash;9% depending on risk assessment</li>
+          <li><strong>Interest rate:</strong> Typically 5-9% depending on risk assessment</li>
           <li><strong>Term:</strong> Up to 10 years</li>
           <li><strong>Grace period:</strong> Up to 6 months for principal payments</li>
           <li><strong>Coaching:</strong> Free business coaching included for 1 year after funding</li>
@@ -47,7 +47,7 @@ export default function MKBFinancingNetherlandsArticle() {
           <li><strong>NOM (Northern Netherlands):</strong> Covering Groningen, Friesland, and Drenthe</li>
           <li><strong>InnovationQuarter (Zuid-Holland):</strong> Growth financing for South Holland businesses</li>
         </ul>
-        <p>ROMs typically invest &euro;250K&ndash;&euro;5M and can be valuable co-investors in acquisition structures. Because ROMs are mandated to support regional economic development, they often accept lower return hurdles than private equity, making them patient capital partners well-suited to <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company structures</Link>.</p>
+        <p>ROMs typically invest &euro;250K-&euro;5M and can be valuable co-investors in acquisition structures. Because ROMs are mandated to support regional economic development, they often accept lower return hurdles than private equity, making them patient capital partners well-suited to <Link href="/learn/holding-company-structures" className="text-apple-accent hover:underline">holding company structures</Link>.</p>
       </div>
 
       <h2 className={h2Class}>Dutch Commercial Banks for Acquisitions</h2>
@@ -65,10 +65,10 @@ export default function MKBFinancingNetherlandsArticle() {
       <div className={bodyClass}>
         <p>A typical &euro;2M Dutch acquisition might be structured as:</p>
         <ul className={ulClass}>
-          <li>Senior bank debt (BMKB-backed): 40&ndash;50%</li>
-          <li>Vendor loan (achtergestelde lening): 15&ndash;25%</li>
-          <li>ROM/mezzanine: 10&ndash;15%</li>
-          <li>Buyer equity: 20&ndash;30%</li>
+          <li>Senior bank debt (BMKB-backed): 40-50%</li>
+          <li>Vendor loan (achtergestelde lening): 15-25%</li>
+          <li>ROM/mezzanine: 10-15%</li>
+          <li>Buyer equity: 20-30%</li>
         </ul>
       </div>
 
@@ -77,7 +77,7 @@ export default function MKBFinancingNetherlandsArticle() {
         <ul className={ulClass}>
           <li><strong>Corporate tax:</strong> 19% on first &euro;200,000 profit; 25.8% above that threshold</li>
           <li><strong>Participation exemption:</strong> 100% exemption on qualifying dividends and capital gains (very favorable for holding structures)</li>
-          <li><strong>Goodwill amortization:</strong> Deductible over the useful economic life (typically 5&ndash;10 years) in asset deals</li>
+          <li><strong>Goodwill amortization:</strong> Deductible over the useful economic life (typically 5-10 years) in asset deals</li>
           <li><strong>Interest deductibility:</strong> Limited to 20% of EBITDA (ATAD implementation)</li>
           <li><strong>Fiscal unity:</strong> Tax consolidation between parent and 95%+ subsidiaries</li>
           <li><strong>Innovation box:</strong> 9% effective rate on qualifying IP income (relevant for tech acquisitions)</li>
@@ -123,7 +123,7 @@ export default function MKBFinancingNetherlandsArticle() {
 
       <h3 className={h3Class}>How long does the BMKB application process take?</h3>
       <div className={bodyClass}>
-        <p>The BMKB guarantee is applied for through your bank, not directly with RVO. Once your bank submits the BMKB request, approval typically takes 2&ndash;4 weeks. The overall timeline depends on the bank&apos;s own credit assessment, which can take 4&ndash;8 weeks for a full acquisition loan package. Starting early and having a complete business plan with financial projections significantly accelerates the process.</p>
+        <p>The BMKB guarantee is applied for through your bank, not directly with RVO. Once your bank submits the BMKB request, approval typically takes 2-4 weeks. The overall timeline depends on the bank&apos;s own credit assessment, which can take 4-8 weeks for a full acquisition loan package. Starting early and having a complete business plan with financial projections significantly accelerates the process.</p>
       </div>
 
       <h3 className={h3Class}>Is the Dutch participation exemption available from day one after acquisition?</h3>

@@ -24,11 +24,11 @@ export default function HowToBuySmallBusinessArticle() {
           decision to successful closing.
         </p>
         <p>
-          The search fund model &mdash; detailed in our{" "}
+          The search fund model, detailed in our{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
             complete guide to search funds
           </Link>{" "}
-          &mdash; has generated 35% aggregate IRR over 40 years by
+          has generated 35% aggregate IRR over 40 years by
           systematically acquiring and operating small businesses. But the
           principles of buying a business extend far beyond the search fund
           model. This guide covers the universal steps that apply to any small
@@ -70,8 +70,8 @@ export default function HowToBuySmallBusinessArticle() {
         <p>
           What enterprise value range can you realistically pursue given your
           capital and financing capacity? For first-time buyers, the sweet spot
-          is typically $1M&ndash;$5M in enterprise value (roughly $300K&ndash;$1.5M
-          in EBITDA). Larger deals ($5M&ndash;$20M) are more common in the
+          is typically $1M-$5M in enterprise value (roughly $300K-$1.5M
+          in EBITDA). Larger deals ($5M-$20M) are more common in the
           traditional search fund model, which involves raising capital from
           institutional investors. Set minimum thresholds for revenue, EBITDA
           margin, and growth trajectory. Understanding{" "}
@@ -84,7 +84,7 @@ export default function HowToBuySmallBusinessArticle() {
         <h3 className={h3Class}>Geography</h3>
         <p>
           Will you search locally, nationally, or internationally? Most
-          first-time buyers start local (within a 2&ndash;3 hour drive) to
+          first-time buyers start local (within a 2-3 hour drive) to
           facilitate relationship building and due diligence. However, some
           industries (like SaaS) allow for remote acquisitions. International
           acquirers should review our{" "}
@@ -113,7 +113,7 @@ export default function HowToBuySmallBusinessArticle() {
           </li>
           <li>
             <strong>Seller financing:</strong> Many sellers agree to finance
-            10&ndash;30% of the purchase price, typically with a 3&ndash;5 year
+            10-30% of the purchase price, typically with a 3-5 year
             note at negotiated interest rates. This aligns incentives and
             reduces the equity needed. See our{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
@@ -122,7 +122,7 @@ export default function HowToBuySmallBusinessArticle() {
           </li>
           <li>
             <strong>Investor equity:</strong> In the traditional search fund
-            model, 10&ndash;20 investors co-invest equity alongside the buyer.
+            model, 10-20 investors co-invest equity alongside the buyer.
             Learn about{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
               how to find search fund investors
@@ -130,7 +130,7 @@ export default function HowToBuySmallBusinessArticle() {
           </li>
           <li>
             <strong>Personal savings:</strong> Self-funded buyers typically
-            invest $50K&ndash;$200K of personal capital as the down payment or
+            invest $50K-$200K of personal capital as the down payment or
             equity injection.
           </li>
           <li>
@@ -141,7 +141,7 @@ export default function HowToBuySmallBusinessArticle() {
         </ul>
         <p>
           A typical capital stack for a small business acquisition might be
-          50&ndash;60% bank debt, 10&ndash;20% seller note, and 25&ndash;35%
+          50-60% bank debt, 10-20% seller note, and 25-35%
           buyer equity. Understanding{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">
             cap table economics
@@ -156,7 +156,7 @@ export default function HowToBuySmallBusinessArticle() {
           channels simultaneously:
         </p>
         <ul className={ulClass}>
-          <li><strong>Business brokers:</strong> Brokers list businesses for sale and connect buyers with sellers. They represent about 50&ndash;60% of all SME transactions. The downside: higher prices (broker-listed businesses typically sell at premium multiples) and competition from other buyers.</li>
+          <li><strong>Business brokers:</strong> Brokers list businesses for sale and connect buyers with sellers. They represent about 50-60% of all SME transactions. The downside: higher prices (broker-listed businesses typically sell at premium multiples) and competition from other buyers.</li>
           <li><strong>Direct outreach:</strong> Proactively contacting business owners who may not have their business listed for sale. This is the preferred approach for search fund practitioners and yields lower multiples. Our{" "}
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
               deal sourcing strategies
@@ -175,7 +175,7 @@ export default function HowToBuySmallBusinessArticle() {
         <ul className={ulClass}>
           <li><strong>Initial review (15 minutes):</strong> Does the business match your industry, size, and geography criteria? If not, pass immediately.</li>
           <li><strong>Information request:</strong> Request a Confidential Information Memorandum (CIM) or financial summary. Review 3 years of financials, revenue trends, customer concentration, and owner involvement.</li>
-          <li><strong>Management meeting:</strong> Meet the owner for 1&ndash;2 hours. Understand the business story, motivation for selling, transition plan, and culture. This is as much about evaluating the opportunity as building rapport with the seller.</li>
+          <li><strong>Management meeting:</strong> Meet the owner for 1-2 hours. Understand the business story, motivation for selling, transition plan, and culture. This is as much about evaluating the opportunity as building rapport with the seller.</li>
           <li><strong>Deep financial analysis:</strong> Analyze adjusted EBITDA, normalize for owner perks, one-time expenses, and market-rate compensation. Understand working capital requirements and capital expenditure needs.</li>
         </ul>
 
@@ -192,7 +192,7 @@ export default function HowToBuySmallBusinessArticle() {
         </p>
         <p>
           Negotiation is a critical skill in small business acquisitions. The
-          price is rarely the only factor &mdash; sellers care deeply about
+          price is rarely the only factor, sellers care deeply about
           legacy, employee treatment, transition support, and deal certainty.
           Our{" "}
           <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">
@@ -204,7 +204,7 @@ export default function HowToBuySmallBusinessArticle() {
         <h2 className={h2Class}>Step 6: Conduct due diligence</h2>
         <p>
           Once the LOI is signed and you have exclusivity, the real work begins.
-          Due diligence typically takes 60&ndash;90 days and covers:
+          Due diligence typically takes 60-90 days and covers:
         </p>
         <ul className={ulClass}>
           <li><strong>Financial due diligence:</strong> A{" "}
@@ -221,7 +221,7 @@ export default function HowToBuySmallBusinessArticle() {
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>{" "}
-          covers every item across all four workstreams. Budget $50K&ndash;$150K
+          covers every item across all four workstreams. Budget $50K-$150K
           for professional DD fees.
         </p>
 
@@ -292,7 +292,7 @@ export default function HowToBuySmallBusinessArticle() {
           <li>Meet every employee individually and establish open communication</li>
           <li>Understand every customer relationship and revenue driver</li>
           <li>Assess the financial reporting and put proper controls in place</li>
-          <li>Identify 2&ndash;3 quick wins that demonstrate competence and build momentum</li>
+          <li>Identify 2-3 quick wins that demonstrate competence and build momentum</li>
           <li>Develop a 12-month strategic plan with clear priorities</li>
           <li>Establish a{" "}
             <Link href="/learn/board-governance" className="text-apple-accent hover:underline">
@@ -313,11 +313,11 @@ export default function HowToBuySmallBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Falling in love with a deal:</strong> Emotional attachment clouds judgment. Always maintain discipline on valuation and deal terms.</li>
-          <li><strong>Skimping on due diligence:</strong> The $50K&ndash;$100K you spend on DD can save you from a $1M+ mistake.</li>
+          <li><strong>Skimping on due diligence:</strong> The $50K-$100K you spend on DD can save you from a $1M+ mistake.</li>
           <li><strong>Overpaying:</strong> In a competitive market, it is tempting to stretch on price. But overpaying compresses returns and leaves no margin for error.</li>
           <li><strong>Underestimating the transition:</strong> The seller&rsquo;s departure creates more disruption than most buyers expect. Plan for a strong transition period.</li>
           <li><strong>Ignoring culture:</strong> Employees are watching the new owner closely. Early missteps in communication or leadership style can trigger departures.</li>
-          <li><strong>Rushing the search:</strong> The average successful search takes 18&ndash;22 months. Patience is essential.</li>
+          <li><strong>Rushing the search:</strong> The average successful search takes 18-22 months. Patience is essential.</li>
         </ul>
         <p>
           For a deeper dive into failure patterns, read our article on{" "}

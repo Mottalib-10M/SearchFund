@@ -16,11 +16,11 @@ export default function ETAColombiaChilePeruArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             entrepreneurship through acquisition
           </Link>
-          . Colombia, Chile, and Peru share common tailwinds &mdash; growing
+          . Colombia, Chile, and Peru share common tailwinds, growing
           middle classes, generational succession waves, and maturing private
-          equity ecosystems &mdash; while each market offers distinct advantages
+          equity ecosystems, while each market offers distinct advantages
           for search fund entrepreneurs. With EBITDA multiples typically ranging
-          from 3&ndash;5x and an expanding network of IESE, IAE, and local
+          from 3-5x and an expanding network of IESE, IAE, and local
           business school alumni driving deal flow, the Andean corridor represents
           a high-potential, under-penetrated ETA market.
         </p>
@@ -33,12 +33,12 @@ export default function ETAColombiaChilePeruArticle() {
           <li><strong>600,000+ formal SMEs</strong> and a total business base of 1.6 million registered companies. SMEs generate roughly 40% of GDP and 80% of employment</li>
           <li><strong>Growing middle class:</strong> Colombia&rsquo;s middle class has more than doubled since 2002, driving domestic demand in consumer services, healthcare, and education</li>
           <li><strong>Succession wave:</strong> Many first-generation founders who built businesses during Colombia&rsquo;s economic opening in the 1990s are now approaching retirement without clear successors</li>
-          <li><strong>Attractive multiples:</strong> 3&ndash;5x EBITDA for most SMEs, with lower multiples in secondary cities like Medell&iacute;n, Barranquilla, and Cali compared to Bogot&aacute;</li>
+          <li><strong>Attractive multiples:</strong> 3-5x EBITDA for most SMEs, with lower multiples in secondary cities like Medell&iacute;n, Barranquilla, and Cali compared to Bogot&aacute;</li>
         </ul>
 
         <h3 className={h3Class}>Legal &amp; corporate structure</h3>
         <ul className={ulClass}>
-          <li><strong>S.A.S. (Sociedad por Acciones Simplificada):</strong> Colombia&rsquo;s most popular corporate vehicle, introduced in 2008. Highly flexible &mdash; allows a single shareholder, no mandatory board, simplified governance, and variable capital. Over 90% of new company registrations use the S.A.S. structure</li>
+          <li><strong>S.A.S. (Sociedad por Acciones Simplificada):</strong> Colombia&rsquo;s most popular corporate vehicle, introduced in 2008. Highly flexible, allows a single shareholder, no mandatory board, simplified governance, and variable capital. Over 90% of new company registrations use the S.A.S. structure</li>
           <li><strong>S.A. (Sociedad An&oacute;nima):</strong> Traditional corporation requiring at least 5 shareholders and a board. Used by larger businesses and required for certain regulated industries</li>
           <li><strong>Acquisition vehicle:</strong> Most buyers create a new S.A.S. holdco to acquire 100% of the target&rsquo;s shares. The S.A.S. flexibility makes it ideal for search fund structures with multiple investor classes</li>
         </ul>
@@ -46,9 +46,9 @@ export default function ETAColombiaChilePeruArticle() {
         <h3 className={h3Class}>Financing</h3>
         <ul className={ulClass}>
           <li><strong>Banc&oacute;ldex:</strong> Colombia&rsquo;s development bank for entrepreneurship and foreign trade. Offers subsidized credit lines, partial credit guarantees, and special programs for SME acquisitions and modernization</li>
-          <li><strong>Fondo Nacional de Garant&iacute;as (FNG):</strong> Provides credit guarantees covering up to 50&ndash;80% of SME loans, making bank financing more accessible for acquisition transactions</li>
-          <li><strong>Commercial banks:</strong> Bancolombia, Davivienda, and Banco de Bogot&aacute; offer acquisition financing, though rates remain high (IBR + 4&ndash;8%)</li>
-          <li><strong>Seller financing:</strong> Common at 20&ndash;40% of deal value, typically structured over 2&ndash;4 years. See{" "}
+          <li><strong>Fondo Nacional de Garant&iacute;as (FNG):</strong> Provides credit guarantees covering up to 50-80% of SME loans, making bank financing more accessible for acquisition transactions</li>
+          <li><strong>Commercial banks:</strong> Bancolombia, Davivienda, and Banco de Bogot&aacute; offer acquisition financing, though rates remain high (IBR + 4-8%)</li>
+          <li><strong>Seller financing:</strong> Common at 20-40% of deal value, typically structured over 2-4 years. See{" "}
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               seller financing guide
             </Link></li>
@@ -59,7 +59,7 @@ export default function ETAColombiaChilePeruArticle() {
           <li><strong>Corporate tax:</strong> 35% on corporate profits (increased from 33% in 2022 tax reform)</li>
           <li><strong>Capital gains:</strong> 15% on capital gains from share sales for both individuals and corporations</li>
           <li><strong>VAT (IVA):</strong> 19% on most goods and services</li>
-          <li><strong>Industry &amp; commerce tax (ICA):</strong> Municipal tax of 0.2&ndash;1.4% on gross revenue, varying by municipality and economic activity. Often overlooked in{" "}
+          <li><strong>Industry &amp; commerce tax (ICA):</strong> Municipal tax of 0.2-1.4% on gross revenue, varying by municipality and economic activity. Often overlooked in{" "}
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
             </Link></li>
@@ -87,7 +87,7 @@ export default function ETAColombiaChilePeruArticle() {
 
         <h3 className={h3Class}>Legal &amp; corporate structure</h3>
         <ul className={ulClass}>
-          <li><strong>SpA (Sociedad por Acciones):</strong> Chile&rsquo;s preferred acquisition vehicle. Introduced in 2007, it allows a single shareholder, flexible bylaws, and multiple share classes &mdash; ideal for search fund structures with preferred investor returns</li>
+          <li><strong>SpA (Sociedad por Acciones):</strong> Chile&rsquo;s preferred acquisition vehicle. Introduced in 2007, it allows a single shareholder, flexible bylaws, and multiple share classes, ideal for search fund structures with preferred investor returns</li>
           <li><strong>S.A. (Sociedad An&oacute;nima):</strong> Traditional corporation. Open S.A. companies are subject to securities regulation (CMF supervision). Closed S.A. companies have lighter governance requirements</li>
           <li><strong>Acquisition vehicle:</strong> Most search fund buyers create a SpA holdco. The structure&rsquo;s flexibility with share classes (e.g., preferred vs. common) maps naturally to search fund economics</li>
         </ul>
@@ -95,8 +95,8 @@ export default function ETAColombiaChilePeruArticle() {
         <h3 className={h3Class}>Financing</h3>
         <ul className={ulClass}>
           <li><strong>CORFO (Corporaci&oacute;n de Fomento de la Producci&oacute;n):</strong> Chile&rsquo;s development agency offers subsidized credit lines, seed capital matching, and guarantee programs (FOGAPE, FOGAIN) that facilitate SME acquisition financing</li>
-          <li><strong>Commercial banks:</strong> Banco de Chile, BCI, Santander Chile, and Scotiabank Chile offer acquisition financing at TAB + 3&ndash;6%. Chile&rsquo;s lower base rates (vs. Colombia and Peru) make use more viable</li>
-          <li><strong>Seller financing:</strong> Common at 20&ndash;35% of deal value. Chilean sellers tend to be more sophisticated in deal structuring, often accepting earn-outs tied to performance</li>
+          <li><strong>Commercial banks:</strong> Banco de Chile, BCI, Santander Chile, and Scotiabank Chile offer acquisition financing at TAB + 3-6%. Chile&rsquo;s lower base rates (vs. Colombia and Peru) make use more viable</li>
+          <li><strong>Seller financing:</strong> Common at 20-35% of deal value. Chilean sellers tend to be more sophisticated in deal structuring, often accepting earn-outs tied to performance</li>
           <li><strong>Venture capital &amp; PE funds:</strong> Funds like Austral Capital, CLIN, and family offices provide equity for search fund acquisitions</li>
         </ul>
 
@@ -133,7 +133,7 @@ export default function ETAColombiaChilePeruArticle() {
 
         <h3 className={h3Class}>Legal &amp; corporate structure</h3>
         <ul className={ulClass}>
-          <li><strong>S.A.C. (Sociedad An&oacute;nima Cerrada):</strong> Peru&rsquo;s preferred structure for SME acquisitions. Allows 2&ndash;20 shareholders, simpler governance than an open S.A., and pre-emptive rights that can be waived in bylaws</li>
+          <li><strong>S.A.C. (Sociedad An&oacute;nima Cerrada):</strong> Peru&rsquo;s preferred structure for SME acquisitions. Allows 2-20 shareholders, simpler governance than an open S.A., and pre-emptive rights that can be waived in bylaws</li>
           <li><strong>S.A. (Sociedad An&oacute;nima):</strong> Open corporation for larger companies. Required for publicly listed entities. No shareholder cap</li>
           <li><strong>S.R.L. (Sociedad de Responsabilidad Limitada):</strong> Limited liability company for smaller businesses. Maximum 20 partners. Less flexible than S.A.C. for investor structuring</li>
           <li><strong>Acquisition vehicle:</strong> Most buyers create a new S.A.C. holdco. The structure accommodates multiple share classes with some creativity in bylaw drafting</li>
@@ -142,8 +142,8 @@ export default function ETAColombiaChilePeruArticle() {
         <h3 className={h3Class}>Financing</h3>
         <ul className={ulClass}>
           <li><strong>COFIDE (Corporaci&oacute;n Financiera de Desarrollo):</strong> Peru&rsquo;s development bank channels subsidized credit through commercial banks (second-tier lending). Programs like PROPEM and Multisectorial support SME growth and acquisitions</li>
-          <li><strong>Commercial banks:</strong> BCP (Banco de Cr&eacute;dito del Per&uacute;), BBVA Per&uacute;, Interbank, and Scotiabank Per&uacute; offer business acquisition loans at TAMN-linked rates. Effective rates of 12&ndash;18% are common</li>
-          <li><strong>Seller financing:</strong> Essential in Peru given high bank rates. Typically 25&ndash;40% of deal value over 2&ndash;4 years. Many sellers prefer cash at close, making negotiation important</li>
+          <li><strong>Commercial banks:</strong> BCP (Banco de Cr&eacute;dito del Per&uacute;), BBVA Per&uacute;, Interbank, and Scotiabank Per&uacute; offer business acquisition loans at TAMN-linked rates. Effective rates of 12-18% are common</li>
+          <li><strong>Seller financing:</strong> Essential in Peru given high bank rates. Typically 25-40% of deal value over 2-4 years. Many sellers prefer cash at close, making negotiation important</li>
           <li><strong>Investor equity:</strong> Peru&rsquo;s search fund investor base is smaller than Chile&rsquo;s or Colombia&rsquo;s but growing, anchored by PAD (Universidad de Piura) and IESE alumni</li>
         </ul>
 
@@ -154,7 +154,7 @@ export default function ETAColombiaChilePeruArticle() {
           <li><strong>Capital gains:</strong> 30% for Peruvian-source capital gains realized by individuals and corporations. Reduced 5% rate for gains on shares traded on the Lima Stock Exchange (BVL)</li>
           <li><strong>VAT (IGV):</strong> 18% (16% IGV + 2% municipal tax) on most goods and services</li>
           <li><strong>MYPE regime:</strong> Simplified tax and labor regime for micro and small enterprises. Reduces labor costs significantly (no CTS, no profit sharing for micro) but imposes revenue caps</li>
-          <li><strong>Profit sharing:</strong> Mandatory distribution of 5&ndash;10% of pre-tax profits to employees, depending on the industry sector</li>
+          <li><strong>Profit sharing:</strong> Mandatory distribution of 5-10% of pre-tax profits to employees, depending on the industry sector</li>
         </ul>
 
         <h3 className={h3Class}>Target industries</h3>
@@ -181,8 +181,8 @@ export default function ETAColombiaChilePeruArticle() {
 
         <h3 className={h3Class}>Valuation &amp; deal economics</h3>
         <ul className={ulClass}>
-          <li><strong>Multiples:</strong> 3&ndash;5x EBITDA is the typical range across all three markets, well below US (5&ndash;8x) and European (4&ndash;7x) averages. Lower multiples reflect higher country risk, smaller buyer pools, and less auction-driven processes</li>
-          <li><strong>Deal size:</strong> Most Andean search fund acquisitions target companies with $500K&ndash;$3M EBITDA. Smaller deals face less competition from PE firms</li>
+          <li><strong>Multiples:</strong> 3-5x EBITDA is the typical range across all three markets, well below US (5-8x) and European (4-7x) averages. Lower multiples reflect higher country risk, smaller buyer pools, and less auction-driven processes</li>
+          <li><strong>Deal size:</strong> Most Andean search fund acquisitions target companies with $500K-$3M EBITDA. Smaller deals face less competition from PE firms</li>
           <li><strong>Value creation:</strong> Professionalization, technology adoption, and geographic expansion drive post-acquisition growth. See{" "}
             <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">
               the first 100 days playbook
@@ -191,7 +191,7 @@ export default function ETAColombiaChilePeruArticle() {
 
         <h3 className={h3Class}>Growing ecosystem</h3>
         <ul className={ulClass}>
-          <li><strong>Business school networks:</strong> IESE (Barcelona) and IAE (Buenos Aires) have produced the majority of Latin American search fund entrepreneurs. Local schools &mdash; Universidad de los Andes (Colombia), PUC/UAI (Chile), and PAD/UTEC (Peru) &mdash; are building dedicated ETA programs</li>
+          <li><strong>Business school networks:</strong> IESE (Barcelona) and IAE (Buenos Aires) have produced the majority of Latin American search fund entrepreneurs. Local schools, Universidad de los Andes (Colombia), PUC/UAI (Chile), and PAD/UTEC (Peru), are building dedicated ETA programs</li>
           <li><strong>Investor networks:</strong> Latin American search fund investors (many first-generation successful searchers themselves) are reinvesting in the next generation. Cross-border investor syndicates spanning the Pacific Alliance countries are becoming common</li>
           <li><strong>PE ecosystem:</strong> Private equity penetration in the Andean region is growing rapidly, validating the SME acquisition model and creating future exit opportunities for search fund operators</li>
           <li><strong>Conferences &amp; events:</strong> The IESE Search Fund Conference, LAVCA events, and country-specific ETA meetups in Bogot&aacute;, Santiago, and Lima are building community and deal flow</li>
@@ -216,8 +216,8 @@ export default function ETAColombiaChilePeruArticle() {
           understand cultural nuances, and partner with experienced local advisors.
           Bilingual proficiency (Spanish is essential in all three markets) and
           on-the-ground presence significantly improve deal sourcing outcomes.
-          The Pacific Alliance framework &mdash; linking Colombia, Chile, Peru,
-          and Mexico &mdash; creates natural cross-border deal flow and investor
+          The Pacific Alliance framework, linking Colombia, Chile, Peru,
+          and Mexico, creates natural cross-border deal flow and investor
           networks that benefit ETA operators across the region.
         </p>
 
@@ -245,12 +245,12 @@ export default function ETAColombiaChilePeruArticle() {
 
         <h3 className={h3Class}>How do search fund investors view currency risk in Andean acquisitions?</h3>
         <p>
-          Currency risk is the single most discussed concern among international investors evaluating Andean search fund opportunities. The Colombian peso (COP), Chilean peso (CLP), and Peruvian sol (PEN) have all experienced 15&ndash;30% swings against the US dollar over five-year periods. IESE research on Latin American search funds shows that currency depreciation has reduced dollar-denominated returns by an average of 3&ndash;5 percentage points annually over holding periods. Experienced investors mitigate this by targeting businesses with natural currency hedges &mdash; export revenues, dollar-linked contracts, or operations serving multinational clients. Some funds also use local-currency acquisition debt to match the currency of cash flows with debt service, creating a partial natural hedge.
+          Currency risk is the single most discussed concern among international investors evaluating Andean search fund opportunities. The Colombian peso (COP), Chilean peso (CLP), and Peruvian sol (PEN) have all experienced 15-30% swings against the US dollar over five-year periods. IESE research on Latin American search funds shows that currency depreciation has reduced dollar-denominated returns by an average of 3-5 percentage points annually over holding periods. Experienced investors mitigate this by targeting businesses with natural currency hedges, export revenues, dollar-linked contracts, or operations serving multinational clients. Some funds also use local-currency acquisition debt to match the currency of cash flows with debt service, creating a partial natural hedge.
         </p>
 
         <h3 className={h3Class}>What are the most common due diligence red flags in Andean SME acquisitions?</h3>
         <p>
-          Three red flags appear consistently across all three markets. First, informality in financial records: an estimated 40&ndash;60% of Andean SMEs maintain some degree of off-book revenue or informal labor arrangements, according to OECD studies on Latin American informality. Second, customer concentration: many mid-market businesses depend heavily on government contracts or a single large client, creating revenue vulnerability. Third, tax compliance gaps: the ICA municipal tax in Colombia, the profit-sharing obligation in Peru, and VAT compliance across all three countries are areas where liabilities often surface during{" "}
+          Three red flags appear consistently across all three markets. First, informality in financial records: an estimated 40-60% of Andean SMEs maintain some degree of off-book revenue or informal labor arrangements, according to OECD studies on Latin American informality. Second, customer concentration: many mid-market businesses depend heavily on government contracts or a single large client, creating revenue vulnerability. Third, tax compliance gaps: the ICA municipal tax in Colombia, the profit-sharing obligation in Peru, and VAT compliance across all three countries are areas where liabilities often surface during{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>. Searchers should engage local forensic accountants and insist on three years of reconciled tax filings before proceeding.
         </p>
 
@@ -258,17 +258,17 @@ export default function ETAColombiaChilePeruArticle() {
         <ul className={ulClass}>
           <li>
             <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IESE Business School &mdash; Latin American Search Fund Study
+              IESE Business School, Latin American Search Fund Study
             </a>
           </li>
           <li>
             <a href="https://www.oecd.org/latin-america/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              OECD &mdash; Latin American Economic Outlook and SME Informality Reports
+              OECD, Latin American Economic Outlook and SME Informality Reports
             </a>
           </li>
           <li>
             <a href="https://www.worldbank.org/en/programs/business-enabling-environment" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              World Bank &mdash; Business Enabling Environment: Latin America Country Data
+              World Bank, Business Enabling Environment: Latin America Country Data
             </a>
           </li>
         </ul>

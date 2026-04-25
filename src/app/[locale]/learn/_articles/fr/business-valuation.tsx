@@ -19,7 +19,7 @@ export default function BusinessValuationFR() {
           fois technique et humain&nbsp;: technique parce qu&apos;elle mobilise
           des méthodes financières rigoureuses, humain parce que le prix
           accepté par le cédant dépend aussi de facteurs émotionnels
-          &mdash; l&apos;attachement à son entreprise, les attentes pour ses
+          l&apos;attachement à son entreprise, les attentes pour ses
           salariés, la reconnaissance de son travail de toute une vie.
         </p>
         <p>
@@ -106,7 +106,7 @@ export default function BusinessValuationFR() {
           d&apos;investissement importants, activité projet).
         </p>
         <p>
-          Pour une PME française, le taux d&apos;actualisation (WACC &mdash;
+          Pour une PME française, le taux d&apos;actualisation (WACC , 
           Weighted Average Cost of Capital) se situe généralement entre
           10&nbsp;% et 15&nbsp;%, reflétant la prime de risque associée aux
           petites entreprises (illiquidité, dépendance au dirigeant,

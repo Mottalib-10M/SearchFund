@@ -10,13 +10,13 @@ export default function CustomerRetentionPostAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           When you acquire a small or medium-sized business, you are not just
-          buying assets, contracts, and cash flows &mdash; you are inheriting
+          buying assets, contracts, and cash flows, you are inheriting
           relationships. Those relationships are the foundation of the
           company&rsquo;s revenue, and they are more fragile than most new
           owners realize. Research on post-acquisition performance consistently
           shows that customer churn is one of the leading destroyers of value
-          in the first 12&ndash;24 months after a deal closes. Protecting
-          your customer base is not a secondary concern &mdash; it is the
+          in the first 12-24 months after a deal closes. Protecting
+          your customer base is not a secondary concern, it is the
           single most important operational priority during your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
           and well beyond.
@@ -24,7 +24,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
 
         <h2 className={h2Class}>Why customer churn spikes after acquisitions</h2>
         <p>
-          Customer defection rates routinely increase by 10&ndash;25% in the
+          Customer defection rates routinely increase by 10-25% in the
           year following a change of ownership. Understanding the root causes
           is the first step toward preventing it.
         </p>
@@ -32,7 +32,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Fear of the unknown.</strong> Customers have built trust
             with the previous owner over years or even decades. A new owner
-            represents uncertainty &mdash; will pricing change? Will the
+            represents uncertainty, will pricing change? Will the
             same people answer the phone? Will quality stay the same? In the
             absence of clear communication, customers fill the void with
             worst-case assumptions.
@@ -49,19 +49,19 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             ownership changes closely. The moment word gets out that a
             business has been sold, competitors will reach out to your
             customers with offers, discounts, and scare tactics:
-            &ldquo;Who knows what the new owners will do &mdash; why not
+            &ldquo;Who knows what the new owners will do, why not
             lock in a deal with us?&rdquo;
           </li>
           <li>
             <strong>Operational disruption.</strong> Even well-managed
-            transitions create temporary friction &mdash; new systems, new
+            transitions create temporary friction, new systems, new
             processes, staff uncertainty, and slower response times.
             Customers experience this disruption firsthand and may decide
             the risk of staying outweighs the cost of switching.
           </li>
           <li>
             <strong>Pricing anxiety.</strong> Customers instinctively expect
-            a new owner &mdash; especially one backed by investors &mdash;
+            a new owner, especially one backed by investors , 
             to raise prices. Even if you have no immediate plans to adjust
             pricing, the perception alone can push customers to explore
             alternatives.
@@ -82,7 +82,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Prepare a tiered communication plan.</strong> Not all
             customers should hear the news the same way. Segment your
-            customer base into tiers: top 10&ndash;20 accounts get personal
+            customer base into tiers: top 10-20 accounts get personal
             phone calls or in-person visits; the next tier gets personalized
             emails; the broader base receives a formal letter or
             announcement.
@@ -121,7 +121,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Introduce yourself as a steward, not a disruptor.</strong>{" "}
             Position yourself as someone who chose this business because of
-            its strengths &mdash; its people, its reputation, and its
+            its strengths, its people, its reputation, and its
             customer relationships. You are here to build on what works,
             not to tear it down.
           </li>
@@ -133,9 +133,9 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Set a follow-up timeline.</strong> Tell customers when
-            they will hear from you next. A specific commitment &mdash;
+            they will hear from you next. A specific commitment , 
             &ldquo;I will call you within the next two weeks to introduce
-            myself properly&rdquo; &mdash; is far more reassuring than a
+            myself properly&rdquo;, is far more reassuring than a
             vague promise to stay in touch.
           </li>
         </ul>
@@ -152,7 +152,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <h3 className={h3Class}>Red flags that signal churn risk</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Contracts expiring within 6&ndash;12 months.</strong>{" "}
+            <strong>Contracts expiring within 6-12 months.</strong>{" "}
             Customers whose contracts are up for renewal soon have a natural
             decision point. Competitors will target these accounts
             aggressively.
@@ -166,7 +166,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Declining purchase volumes.</strong> Customers who have
-            been reducing their spend over the past 12&ndash;18 months may
+            been reducing their spend over the past 12-18 months may
             already be evaluating alternatives. An ownership change gives
             them an additional reason to accelerate the switch.
           </li>
@@ -197,8 +197,8 @@ export default function CustomerRetentionPostAcquisitionArticle() {
 
         <h2 className={h2Class}>Customer concentration risk</h2>
         <p>
-          Customer concentration &mdash; where a small number of accounts
-          represent a disproportionate share of revenue &mdash; amplifies
+          Customer concentration, where a small number of accounts
+          represent a disproportionate share of revenue, amplifies
           every retention risk discussed above. If your top five customers
           represent 40% or more of revenue, losing even one of them could
           jeopardize the entire acquisition thesis.
@@ -213,8 +213,8 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Diversify deliberately.</strong> Building your{" "}
             <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth plan</Link>{" "}
-            around new customer acquisition &mdash; not just expanding
-            existing accounts &mdash; reduces concentration over time.
+            around new customer acquisition, not just expanding
+            existing accounts, reduces concentration over time.
           </li>
           <li>
             <strong>Secure long-term agreements.</strong> For your largest
@@ -264,7 +264,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Post-transition availability.</strong> Negotiate a
             consulting arrangement that keeps the seller available for
-            customer-related questions for 6&ndash;12 months after the
+            customer-related questions for 6-12 months after the
             formal transition period ends. A single phone call from the
             seller to a wavering customer can save an account worth
             hundreds of thousands in annual revenue.
@@ -273,7 +273,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
 
         <h2 className={h2Class}>Retention strategies that work</h2>
         <p>
-          Retention is not a single initiative &mdash; it is a system of
+          Retention is not a single initiative, it is a system of
           interlocking tactics that collectively make it easy for customers
           to stay and costly for them to leave. Here are the strategies that
           experienced search fund operators have found most effective.
@@ -282,7 +282,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <h3 className={h3Class}>Personal outreach at scale</h3>
         <p>
           In the first 90 days, your most important job is meeting customers.
-          Not sending emails &mdash; having real conversations, ideally face
+          Not sending emails, having real conversations, ideally face
           to face.
         </p>
         <ol className={olClass}>
@@ -292,12 +292,12 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             contact, and ideally the end users. Bring the seller if possible.
           </li>
           <li>
-            <strong>Accounts 11&ndash;30:</strong> Personal phone calls
+            <strong>Accounts 11-30:</strong> Personal phone calls
             within the first 30 days. Schedule follow-up visits within 60
             days.
           </li>
           <li>
-            <strong>Accounts 31&ndash;100:</strong> Personalized emails
+            <strong>Accounts 31-100:</strong> Personalized emails
             within the first two weeks, followed by phone calls within
             45 days.
           </li>
@@ -313,7 +313,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           A formal service guarantee addresses the customer&rsquo;s deepest
           fear: that quality will decline under new ownership. Consider
           offering a written commitment to maintain current service levels
-          for a defined period &mdash; 12 months is typical. This can
+          for a defined period, 12 months is typical. This can
           include:
         </p>
         <ul className={ulClass}>
@@ -328,7 +328,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <p>
           Pricing anxiety is one of the most common drivers of
           post-acquisition churn. Commit to pricing stability for the first
-          6&ndash;12 months, and communicate that commitment explicitly.
+          6-12 months, and communicate that commitment explicitly.
         </p>
         <ul className={ulClass}>
           <li>
@@ -341,13 +341,13 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Honor all existing agreements.</strong> If the seller
             made pricing commitments, verbal or written, honor them. Breaking
-            promises &mdash; even informal ones &mdash; will destroy trust
+            promises, even informal ones, will destroy trust
             faster than anything else.
           </li>
           <li>
             <strong>When you do raise prices, do it right.</strong> When
             the time comes to adjust pricing, give customers adequate notice
-            (60&ndash;90 days minimum), explain the rationale clearly, and
+            (60-90 days minimum), explain the rationale clearly, and
             deliver the news personally to your largest accounts. Never
             surprise a key customer with a price increase via email or
             invoice.
@@ -392,7 +392,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Establish a baseline within 30 days.</strong> Survey all
             active customers with the standard NPS question: &ldquo;On a
-            scale of 0&ndash;10, how likely are you to recommend our company
+            scale of 0-10, how likely are you to recommend our company
             to a colleague?&rdquo; Include an open-ended follow-up:
             &ldquo;What is the primary reason for your score?&rdquo; This
             baseline tells you exactly where you stand and surfaces issues
@@ -401,18 +401,18 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Survey quarterly.</strong> Track NPS over time to measure
             the impact of your retention initiatives. A declining NPS is an
-            early warning system &mdash; it tells you customers are becoming
+            early warning system, it tells you customers are becoming
             less satisfied before they actually leave.
           </li>
           <li>
             <strong>Follow up with every detractor.</strong> Any customer who
-            scores 0&ndash;6 should receive a personal phone call from you
+            scores 0-6 should receive a personal phone call from you
             within 48 hours. The goal is not to argue with their score but
             to understand their concerns and demonstrate that you take
             feedback seriously.
           </li>
           <li>
-            <strong>Celebrate promoters.</strong> Customers who score 9&ndash;10
+            <strong>Celebrate promoters.</strong> Customers who score 9-10
             are your advocates. Ask them for referrals, testimonials, and
             case studies. Their enthusiasm is a growth asset you should
             actively use.
@@ -440,7 +440,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             frequency, support ticket volume, product usage, and meeting
             attendance. A customer who stops calling, stops ordering, or
             stops attending quarterly reviews is showing you they are
-            disengaging &mdash; even if they have not formally churned yet.
+            disengaging, even if they have not formally churned yet.
           </li>
           <li>
             <strong>Churn analysis.</strong> When a customer does leave,
@@ -454,7 +454,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <p>
           Most acquired SMEs do not have a formal customer success function.
           Customer relationships are managed ad hoc by the owner,
-          salespeople, or operations staff &mdash; whoever happens to pick
+          salespeople, or operations staff, whoever happens to pick
           up the phone. Building a dedicated customer success capability is
           one of the highest-return investments a new search fund CEO can
           make.
@@ -464,24 +464,24 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <p>
           You do not need a large team on day one. Start by assigning
           customer success responsibilities to an existing team member
-          &mdash; someone with strong relationship skills and deep knowledge
+          someone with strong relationship skills and deep knowledge
           of the customer base. As the business stabilizes, formalize the
           role and eventually build a small team.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Months 1&ndash;3:</strong> Designate an internal customer
+            <strong>Months 1-3:</strong> Designate an internal customer
             success lead. Define their responsibilities: onboarding,
             quarterly reviews, escalation management, and retention tracking.
           </li>
           <li>
-            <strong>Months 3&ndash;6:</strong> Implement basic tooling
-            &mdash; a CRM with customer health scores, automated survey
+            <strong>Months 3-6:</strong> Implement basic tooling
+            a CRM with customer health scores, automated survey
             distribution, and a shared dashboard for tracking retention
             KPIs.
           </li>
           <li>
-            <strong>Months 6&ndash;12:</strong> Hire a dedicated customer
+            <strong>Months 6-12:</strong> Hire a dedicated customer
             success manager if the business supports it. For B2B businesses
             with 50+ active accounts, a full-time CSM typically pays for
             itself within one quarter through reduced churn and increased
@@ -500,7 +500,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Quarterly business reviews (QBRs).</strong> For your
-            top 20&ndash;30 accounts, schedule formal quarterly reviews.
+            top 20-30 accounts, schedule formal quarterly reviews.
             These meetings should cover performance metrics, upcoming needs,
             satisfaction feedback, and expansion opportunities. QBRs
             transform a transactional relationship into a strategic
@@ -516,7 +516,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Expansion playbook.</strong> Customer success is not just
-            about retention &mdash; it is about growth. Equip your CSM with
+            about retention, it is about growth. Equip your CSM with
             a playbook for identifying and pursuing upsell and cross-sell
             opportunities within existing accounts.
           </li>
@@ -531,7 +531,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           <li>
             <strong>Waiting too long to communicate.</strong> If customers
             learn about the ownership change from someone other than you
-            &mdash; a competitor, a vendor, an industry rumor &mdash; you
+           , a competitor, a vendor, an industry rumor, you
             have already lost the narrative. Speed matters. Communicate
             within days of closing, not weeks.
           </li>
@@ -539,7 +539,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             <strong>Leading with changes instead of continuity.</strong> New
             owners often make the mistake of highlighting all the
             improvements they plan to make. Customers do not want to hear
-            about improvements &mdash; they want to hear that what they
+            about improvements, they want to hear that what they
             value will not change. Lead with stability; introduce
             improvements gradually.
           </li>
@@ -561,7 +561,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
             <strong>Raising prices too soon.</strong> Implementing price
             increases in the first six months signals that the acquisition
             was about extracting value, not creating it. Customers will
-            punish you for it &mdash; not by complaining, but by quietly
+            punish you for it, not by complaining, but by quietly
             moving their business to a competitor.
           </li>
           <li>
@@ -574,8 +574,8 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Neglecting the &ldquo;middle&rdquo; customers.</strong>{" "}
-            Most retention efforts focus on the top 10&ndash;20 accounts.
-            But the middle tier &mdash; accounts 20 through 100 &mdash;
+            Most retention efforts focus on the top 10-20 accounts.
+            But the middle tier, accounts 20 through 100 , 
             often represents the majority of revenue in aggregate. These
             customers are large enough to matter but small enough to feel
             overlooked. A structured communication plan that reaches this
@@ -586,7 +586,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
         <h2 className={h2Class}>Retention as a foundation for growth</h2>
         <p>
           Customer retention and revenue growth are not competing priorities
-          &mdash; they are two sides of the same coin. A high retention rate
+          they are two sides of the same coin. A high retention rate
           means every new customer you acquire adds to an expanding base
           rather than replacing one who left. It means your{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link>{" "}
@@ -596,8 +596,8 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           The math is compelling: a business with 95% annual retention and
           10% new customer growth adds 5% net customers per year. The same
           business with 85% retention and 10% new customer growth loses 5%
-          per year. Over five years &mdash; a typical search fund hold
-          period &mdash; that 10-percentage-point difference in retention
+          per year. Over five years, a typical search fund hold
+          period, that 10-percentage-point difference in retention
           translates to a roughly 60% difference in cumulative revenue. That
           is the difference between a successful exit and a disappointing
           one.
@@ -607,7 +607,7 @@ export default function CustomerRetentionPostAcquisitionArticle() {
           defensive exercise but as the foundation of their entire value
           creation strategy. They invest in relationships, measure
           sentiment rigorously, build customer success capabilities, and
-          address churn risk proactively &mdash; long before customers start
+          address churn risk proactively, long before customers start
           looking for the door. The time to start is before the ink on the
           purchase agreement is dry. Integrate retention planning into your{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence process</Link>,
@@ -622,19 +622,19 @@ export default function CustomerRetentionPostAcquisitionArticle() {
 
         <h3 className={h3Class}>How much customer churn should I expect after an acquisition?</h3>
         <p>
-          Customer defection rates routinely increase by 10&ndash;25% in the year following a change of ownership. According to Bain &amp; Company&rsquo;s research on post-acquisition performance, businesses that execute proactive retention strategies (tiered customer communication, pricing stability commitments, and personal outreach by the new CEO) reduce post-acquisition churn to 5&ndash;10% above baseline levels, while those that do not can lose 20&ndash;30% of revenue from existing accounts. The financial impact is significant: a business with 95% annual retention and 10% new customer growth adds 5% net customers per year, while the same business with 85% retention loses 5% per year. Over a five-year hold period, that 10-percentage-point difference translates to roughly 60% difference in cumulative revenue.
+          Customer defection rates routinely increase by 10-25% in the year following a change of ownership. According to Bain &amp; Company&rsquo;s research on post-acquisition performance, businesses that execute proactive retention strategies (tiered customer communication, pricing stability commitments, and personal outreach by the new CEO) reduce post-acquisition churn to 5-10% above baseline levels, while those that do not can lose 20-30% of revenue from existing accounts. The financial impact is significant: a business with 95% annual retention and 10% new customer growth adds 5% net customers per year, while the same business with 85% retention loses 5% per year. Over a five-year hold period, that 10-percentage-point difference translates to roughly 60% difference in cumulative revenue.
         </p>
 
         <h3 className={h3Class}>What is the most effective way to announce an ownership change to customers?</h3>
         <p>
-          According to McKinsey&rsquo;s research on post-merger integration, the most effective announcements follow a tiered approach: top 10&ndash;20 accounts receive personal phone calls or in-person visits jointly with the departing owner, the next tier receives personalized emails, and the broader base gets a formal letter. The announcement should lead with continuity (&ldquo;what you value about this business is not changing&rdquo;), include the seller&rsquo;s explicit endorsement, and provide the new CEO&rsquo;s direct contact information. Timing is critical &mdash; communicate within days of closing, not weeks. Customers who learn about the change from competitors, vendors, or industry rumors have significantly higher defection rates than those who hear directly from you first.
+          According to McKinsey&rsquo;s research on post-merger integration, the most effective announcements follow a tiered approach: top 10-20 accounts receive personal phone calls or in-person visits jointly with the departing owner, the next tier receives personalized emails, and the broader base gets a formal letter. The announcement should lead with continuity (&ldquo;what you value about this business is not changing&rdquo;), include the seller&rsquo;s explicit endorsement, and provide the new CEO&rsquo;s direct contact information. Timing is critical, communicate within days of closing, not weeks. Customers who learn about the change from competitors, vendors, or industry rumors have significantly higher defection rates than those who hear directly from you first.
         </p>
 
         <h3 className={h3Class}>How should I prioritize which customers to visit first?</h3>
         <p>
-          Build a churn risk scorecard that rates each customer on five factors: contract expiration timing (within 6&ndash;12 months), depth of personal relationship with the departing seller, revenue trend (declining volumes), unresolved complaints, and revenue contribution. According to Harvard Business Review&rsquo;s research on customer retention economics, the top 20% of customers typically generate 60&ndash;80% of profits, making them the obvious priority. Aim to visit your top 10 accounts in person within the first two weeks, call accounts 11&ndash;30 within 30 days, and send personalized emails to accounts 31&ndash;100 within two weeks. For a thorough approach to your{" "}
+          Build a churn risk scorecard that rates each customer on five factors: contract expiration timing (within 6-12 months), depth of personal relationship with the departing seller, revenue trend (declining volumes), unresolved complaints, and revenue contribution. According to Harvard Business Review&rsquo;s research on customer retention economics, the top 20% of customers typically generate 60-80% of profits, making them the obvious priority. Aim to visit your top 10 accounts in person within the first two weeks, call accounts 11-30 within 30 days, and send personalized emails to accounts 31-100 within two weeks. For a thorough approach to your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>,
-          customer outreach should consume 30&ndash;40% of your time in the first month.
+          customer outreach should consume 30-40% of your time in the first month.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

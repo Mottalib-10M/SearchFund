@@ -12,11 +12,11 @@ export default function RevenueBasedFinancingArticle() {
       <h2 className={h2Class}>How Revenue-Based Financing Works</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Capital advance:</strong> You receive a lump sum (typically $100K&ndash;$5M)</li>
-          <li><strong>Repayment:</strong> A fixed percentage of monthly gross revenue (typically 2&ndash;8%) until a predetermined cap is reached</li>
-          <li><strong>Repayment cap:</strong> Usually 1.3&ndash;2.5x the original advance (the &quot;payback multiple&quot;)</li>
-          <li><strong>Timeline:</strong> Repayment typically takes 12&ndash;60 months, depending on revenue growth</li>
-          <li><strong>No equity dilution:</strong> RBF is debt, not equity &mdash; you retain full ownership</li>
+          <li><strong>Capital advance:</strong> You receive a lump sum (typically $100K-$5M)</li>
+          <li><strong>Repayment:</strong> A fixed percentage of monthly gross revenue (typically 2-8%) until a predetermined cap is reached</li>
+          <li><strong>Repayment cap:</strong> Usually 1.3-2.5x the original advance (the &quot;payback multiple&quot;)</li>
+          <li><strong>Timeline:</strong> Repayment typically takes 12-60 months, depending on revenue growth</li>
+          <li><strong>No equity dilution:</strong> RBF is debt, not equity, you retain full ownership</li>
           <li><strong>No personal guarantee:</strong> Many RBF providers don&apos;t require personal guarantees (though some do)</li>
         </ul>
       </div>
@@ -39,7 +39,7 @@ export default function RevenueBasedFinancingArticle() {
           <li><strong>vs. Bank loans:</strong> RBF is faster to obtain, more flexible on repayment, but more expensive. No covenants or fixed maturity dates. If you already carry an <Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a) loan</Link> from your acquisition, RBF can layer on top without triggering existing covenants.</li>
           <li><strong>vs. Equity:</strong> RBF preserves ownership. No board seats, no dilution, no investor approval for decisions.</li>
           <li><strong>vs. Mezzanine:</strong> RBF is simpler to structure, faster to close, and doesn&apos;t require warrants or equity kickers.</li>
-          <li><strong>vs. Merchant cash advance:</strong> RBF has more transparent pricing and longer terms. MCAs can carry effective APRs of 50&ndash;100%+.</li>
+          <li><strong>vs. Merchant cash advance:</strong> RBF has more transparent pricing and longer terms. MCAs can carry effective APRs of 50-100%+.</li>
         </ul>
       </div>
 
@@ -48,7 +48,7 @@ export default function RevenueBasedFinancingArticle() {
         <ul className={ulClass}>
           <li><strong>Payback multiple:</strong> The total amount you repay divided by the amount received. Lower is better (1.3x is good; 2.5x is expensive).</li>
           <li><strong>Revenue share percentage:</strong> The monthly percentage of revenue going to repayment. Higher percentages mean faster repayment but more cash flow strain.</li>
-          <li><strong>Minimum payment:</strong> Some RBF agreements include a minimum monthly payment regardless of revenue &mdash; this reduces the flexibility benefit.</li>
+          <li><strong>Minimum payment:</strong> Some RBF agreements include a minimum monthly payment regardless of revenue, this reduces the flexibility benefit.</li>
           <li><strong>Prepayment:</strong> Can you repay early at a discount? Some providers offer this; others don&apos;t.</li>
           <li><strong>Covenants:</strong> RBF typically has fewer covenants than bank debt, but check for revenue floors or operational restrictions.</li>
         </ul>
@@ -71,7 +71,7 @@ export default function RevenueBasedFinancingArticle() {
         <ul className={ulClass}>
           <li>RBF ties repayment to revenue, providing natural protection during slow periods</li>
           <li>Best suited for post-acquisition growth capital, not acquisition financing itself</li>
-          <li>Evaluate the payback multiple (1.3&ndash;2.5x) and revenue share percentage (2&ndash;8%) carefully</li>
+          <li>Evaluate the payback multiple (1.3-2.5x) and revenue share percentage (2-8%) carefully</li>
           <li>Most RBF providers serve SaaS, e-commerce, and subscription businesses; fewer options for traditional SMEs</li>
           <li>RBF is more expensive than bank debt but faster, more flexible, and non-dilutive</li>
         </ul>

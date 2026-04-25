@@ -14,7 +14,7 @@ export default function RolloverEquityArticle() {
           ownership stake in the post-acquisition entity instead of taking 100%
           cash at close. For sellers, this unlocks tax deferral on the rolled
           amount and a chance to participate in the upside of a well-capitalized,
-          professionally managed successor company &mdash; a dynamic the
+          professionally managed successor company, a dynamic the
           industry calls the &ldquo;second bite of the apple.&rdquo; For buyers,
           rollover equity reduces the cash required at closing, lowers the debt
           load on the{" "}
@@ -23,7 +23,7 @@ export default function RolloverEquityArticle() {
           </Link>, and creates a powerful alignment mechanism during the
           critical transition period. According to Goodwin&rsquo;s Private
           Equity Deal Database, equity rollovers appeared in 57% of mid-market
-          transactions in 2023, up from 46% in 2020 &mdash; an 11-percentage-point
+          transactions in 2023, up from 46% in 2020, an 11-percentage-point
           surge driven by tighter financing conditions and heightened focus on
           management alignment.
         </p>
@@ -63,15 +63,15 @@ export default function RolloverEquityArticle() {
           The seller now holds a 20% minority stake in the post-acquisition
           entity alongside the buyer&rsquo;s investors. If the buyer grows the
           business to a $25 million valuation within five years and exits, the
-          seller&rsquo;s $2 million rollover becomes worth $5 million &mdash;
+          seller&rsquo;s $2 million rollover becomes worth $5 million , 
           making the total realized value $13 million versus $10 million in an
           all-cash deal.
         </p>
 
         <h2 className={h2Class}>Why Buyers Want Rollover Equity</h2>
         <p>
-          Buyers &mdash; especially search fund entrepreneurs and lower-middle-market
-          private equity sponsors &mdash; negotiate rollover equity for several
+          Buyers, especially search fund entrepreneurs and lower-middle-market
+          private equity sponsors, negotiate rollover equity for several
           strategic and financial reasons.
         </p>
         <ol className={olClass}>
@@ -88,7 +88,7 @@ export default function RolloverEquityArticle() {
             <strong>Reduced cash at closing.</strong> Every dollar of rollover
             equity is a dollar the buyer does not need to fund with investor
             capital or debt. In a $10 million deal, a 20% rollover saves
-            $2 million in equity raises or bank financing &mdash; materially
+            $2 million in equity raises or bank financing, materially
             improving returns on invested capital. This is why rollover is a
             key component of{" "}
             <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
@@ -107,7 +107,7 @@ export default function RolloverEquityArticle() {
             <strong>Lower use.</strong> Rollover equity reduces the total
             debt burden on the company. In a used transaction, this can
             mean the difference between a comfortable 3.0x EBITDA use
-            ratio and a strained 4.0x ratio &mdash; giving the new operator
+            ratio and a strained 4.0x ratio, giving the new operator
             more breathing room for{" "}
             <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">
               financial management
@@ -117,15 +117,15 @@ export default function RolloverEquityArticle() {
           <li>
             <strong>Higher headline price.</strong> Because the buyer&rsquo;s
             effective cash outlay is lower, they can afford to offer a higher
-            total enterprise value. Many sellers find that accepting a 15&ndash;20%
-            rollover results in a 0.5x&ndash;1.0x higher multiple than an
+            total enterprise value. Many sellers find that accepting a 15-20%
+            rollover results in a 0.5x-1.0x higher multiple than an
             all-cash offer would command.
           </li>
         </ol>
 
         <h2 className={h2Class}>Benefits and Risks for Sellers</h2>
         <p>
-          Rollover equity is not free money &mdash; it is a concentrated,
+          Rollover equity is not free money, it is a concentrated,
           illiquid investment in a company the seller no longer controls. The
           benefits are meaningful, but the risks deserve equal attention.
         </p>
@@ -150,8 +150,8 @@ export default function RolloverEquityArticle() {
             successful value-creation plan (operational improvements, add-on
             acquisitions, revenue growth), the seller&rsquo;s minority stake
             can appreciate significantly. In PE-backed deals, sponsors
-            typically target a 2.5x&ndash;3.0x return on equity over a
-            3&ndash;5 year hold period. A seller who rolled 20% at the
+            typically target a 2.5x-3.0x return on equity over a
+            3-5 year hold period. A seller who rolled 20% at the
             platform acquisition stands to realize substantial additional
             value on their retained stake.
           </li>
@@ -159,13 +159,13 @@ export default function RolloverEquityArticle() {
             <strong>Ongoing distributions.</strong> If the post-acquisition
             entity generates distributable cash flow, the rollover holder
             receives their pro-rata share. In cash-flowing service businesses
-            common in search fund deals, annual distributions of 5&ndash;15%
+            common in search fund deals, annual distributions of 5-15%
             of equity value are not uncommon.
           </li>
           <li>
             <strong>Higher total consideration.</strong> As noted above,
             buyers often pay more when rollover reduces their cash burden. The
-            total package &mdash; cash plus rollover &mdash; may exceed what
+            total package, cash plus rollover, may exceed what
             an all-cash bid would have been.
           </li>
         </ul>
@@ -176,7 +176,7 @@ export default function RolloverEquityArticle() {
             <strong>Illiquidity.</strong> Rollover stakes in private companies
             have no public market. The seller&rsquo;s capital is locked up
             until a liquidity event (buyer exit, put option exercise, or
-            secondary sale) that could be 3&ndash;7 years away. If the seller
+            secondary sale) that could be 3-7 years away. If the seller
             has personal financial needs during that period, the illiquidity
             is a genuine hardship.
           </li>
@@ -202,8 +202,8 @@ export default function RolloverEquityArticle() {
             <strong>Structural subordination.</strong> In a used deal,
             the rollover equity sits below senior debt and any mezzanine
             layers in the capital structure. If the business underperforms and
-            the debt burden becomes unsustainable, the equity &mdash;
-            including the rollover &mdash; is the first to absorb losses.
+            the debt burden becomes unsustainable, the equity , 
+            including the rollover, is the first to absorb losses.
           </li>
         </ul>
 
@@ -216,22 +216,22 @@ export default function RolloverEquityArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Search fund and self-funded acquisitions (5&ndash;20%):</strong>{" "}
-            Most search fund entrepreneurs negotiate 10&ndash;20% rollover.
-            The smaller end (5&ndash;10%) is common when the buyer has ample
+            <strong>Search fund and self-funded acquisitions (5-20%):</strong>{" "}
+            Most search fund entrepreneurs negotiate 10-20% rollover.
+            The smaller end (5-10%) is common when the buyer has ample
             investor equity; the higher end applies when the buyer needs to
             minimize cash at close or when the SBA lender requires it.
           </li>
           <li>
-            <strong>Lower-middle-market PE ($10M&ndash;$100M deals, 15&ndash;30%):</strong>{" "}
-            PE sponsors typically ask for 20&ndash;30% rollover to ensure
+            <strong>Lower-middle-market PE ($10M-$100M deals, 15-30%):</strong>{" "}
+            PE sponsors typically ask for 20-30% rollover to ensure
             meaningful skin in the game from the management team. Goodwin data
             shows these percentages have been rising as financing conditions
             tightened between 2021 and 2024.
           </li>
           <li>
-            <strong>Upper-middle-market PE ($100M+ deals, 20&ndash;40%):</strong>{" "}
-            Larger transactions may involve 30&ndash;40% rollover,
+            <strong>Upper-middle-market PE ($100M+ deals, 20-40%):</strong>{" "}
+            Larger transactions may involve 30-40% rollover,
             particularly in management-led buyouts where the operating team
             is also the selling shareholder. Linden Law Partners reports
             that some sponsors push rollover as high as 49% in sectors where
@@ -239,7 +239,7 @@ export default function RolloverEquityArticle() {
           </li>
         </ul>
         <p>
-          For most search fund deals, the practical sweet spot is 10&ndash;20%.
+          For most search fund deals, the practical sweet spot is 10-20%.
           This is enough to create genuine alignment and provide tax benefits
           without leaving the seller with excessive illiquidity or giving
           them outsized influence over post-acquisition operations.
@@ -295,7 +295,7 @@ export default function RolloverEquityArticle() {
           When the acquiring entity is a C corporation, IRC Section 351
           governs the rollover. The seller contributes their equity to the
           new corporation in exchange for stock, and the transaction is
-          tax-free &mdash; provided two key requirements are met:
+          tax-free, provided two key requirements are met:
         </p>
         <ol className={olClass}>
           <li>
@@ -317,8 +317,8 @@ export default function RolloverEquityArticle() {
         </ol>
         <p>
           According to Koley Jessen, the LLC &ldquo;drop-down&rdquo;
-          structure &mdash; where the acquiring holding company contributes
-          assets into an operating LLC &mdash; is &ldquo;often considered
+          structure, where the acquiring holding company contributes
+          assets into an operating LLC, is &ldquo;often considered
           the most tax-efficient structure when available&rdquo; because it
           combines Section 351 deferral at the holding-company level with
           partnership tax benefits at the operating level.
@@ -342,7 +342,7 @@ export default function RolloverEquityArticle() {
           The rollover equity must be valued at the same per-unit price as
           the cash portion of the transaction. Accepting a &ldquo;minority
           discount&rdquo; or &ldquo;illiquidity discount&rdquo; at the time
-          of the deal is a red flag &mdash; it means the buyer is effectively
+          of the deal is a red flag, it means the buyer is effectively
           paying less per share for the rollover than they are for the
           cash-purchased shares. If the enterprise value is $10 million and
           the seller rolls 20%, the rollover should be credited at exactly
@@ -364,7 +364,7 @@ export default function RolloverEquityArticle() {
           </li>
           <li>
             <strong>Board representation.</strong> For rollover stakes above
-            15&ndash;20%, a board observer seat is common. Full board seats
+            15-20%, a board observer seat is common. Full board seats
             are rare below 25% ownership but can be negotiated in
             founder-friendly deals.
           </li>
@@ -394,7 +394,7 @@ export default function RolloverEquityArticle() {
           <li>
             <strong>Put option.</strong> The seller can force the company
             to repurchase their rollover stake after a specified period
-            (typically 3&ndash;5 years). The put price is usually set at
+            (typically 3-5 years). The put price is usually set at
             fair market value determined by an independent appraiser or a
             formula (e.g., trailing 12-month EBITDA multiplied by an agreed
             multiple).
@@ -444,7 +444,7 @@ export default function RolloverEquityArticle() {
         <p>
           The seller defers $452,200 in taxes by rolling over 20%. If the
           rollover stake appreciates to $5 million at a future exit (Year 5),
-          the deferred gain plus additional appreciation is taxed then &mdash;
+          the deferred gain plus additional appreciation is taxed then , 
           but the time value of $452,200 over five years (at a 6% discount
           rate) is worth approximately $114,000 in present-value savings.
           Meanwhile, the seller has participated in $3 million of value
@@ -488,7 +488,7 @@ export default function RolloverEquityArticle() {
           </li>
           <li>
             <strong>Clear path to a second exit.</strong> The rollover
-            holder needs a realistic path to liquidity &mdash; whether
+            holder needs a realistic path to liquidity, whether
             through a put option, a sponsor-led recapitalization, or a
             strategic sale to a third party. Without a defined{" "}
             <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
@@ -534,7 +534,7 @@ export default function RolloverEquityArticle() {
           <li>
             <strong>Earn-outs</strong> tie additional payments to specific
             performance metrics (revenue, EBITDA, customer retention) over
-            a defined period (typically 1&ndash;3 years). They bridge
+            a defined period (typically 1-3 years). They bridge
             valuation gaps but are taxed as ordinary income and are
             notoriously contentious to administer. Earn-outs end; rollover
             equity persists until exit.
@@ -546,16 +546,16 @@ export default function RolloverEquityArticle() {
               </Link>
             </strong>{" "}
             is a promissory note from the buyer to the seller, typically
-            5&ndash;15% of the purchase price at a fixed interest rate over
-            3&ndash;7 years. It provides a fixed return with no upside
+            5-15% of the purchase price at a fixed interest rate over
+            3-7 years. It provides a fixed return with no upside
             participation, sits higher in the capital structure than equity,
             and may qualify for installment sale treatment under IRC Section
             453 (spreading gain recognition over the payment period).
           </li>
           <li>
             <strong>Combination structures.</strong> Sophisticated deals
-            often combine all three: 60&ndash;70% cash at close, 10&ndash;15%
-            seller note, 10&ndash;15% rollover equity, and a 5&ndash;10%
+            often combine all three: 60-70% cash at close, 10-15%
+            seller note, 10-15% rollover equity, and a 5-10%
             earn-out. This diversifies the seller&rsquo;s risk across
             different payout mechanisms while minimizing the buyer&rsquo;s
             upfront cash requirement.
@@ -572,9 +572,9 @@ export default function RolloverEquityArticle() {
           specifies a target rollover percentage, but the definitive
           agreement is where the final number is locked. Sellers with
           competitive bidding use (multiple offers) have successfully
-          negotiated rollover down from 25% to 10&ndash;15% during
+          negotiated rollover down from 25% to 10-15% during
           definitive documentation. However, pushing rollover to zero after
-          agreeing to it in the LOI can crater a deal &mdash; buyers view
+          agreeing to it in the LOI can crater a deal, buyers view
           rollover as a trust signal, and withdrawing it suggests the seller
           lacks confidence in the business.
         </p>
@@ -605,7 +605,7 @@ export default function RolloverEquityArticle() {
           seller confidence. Others may require the rollover to be structured
           as a standby equity position that cannot receive distributions
           until the SBA loan is repaid. Consult your SBA lender early in
-          the process &mdash; ideally before the LOI stage.
+          the process, ideally before the LOI stage.
         </p>
 
         <h3 className={h3Class}>
@@ -620,7 +620,7 @@ export default function RolloverEquityArticle() {
           the stake for $5 million, the taxable gain is $4.9 million. The
           gain is taxed at the long-term capital gains rate (currently
           20% federal plus 3.8% NIIT for high earners). The deferral is
-          not forgiveness &mdash; the tax is eventually paid, but the seller
+          not forgiveness, the tax is eventually paid, but the seller
           benefits from the time value of the deferred amount and potentially
           from lower tax rates if rates decrease between the acquisition and
           the exit.
@@ -696,7 +696,7 @@ export default function RolloverEquityArticle() {
           Alston &amp; Bird LLP, <em>Federal Tax Advisory: Equity Rollovers</em> (2023)
         </li>
         <li>
-          Cranfill Sumner LLP, <em>Rollover Equity in M&amp;A &mdash; Investment or Illusion?</em> (2025)
+          Cranfill Sumner LLP, <em>Rollover Equity in M&amp;A, Investment or Illusion?</em> (2025)
         </li>
         <li>
           SRS Acquiom, <em>M&amp;A Deal Terms Study: Rollover Equity Trends</em> (2024)

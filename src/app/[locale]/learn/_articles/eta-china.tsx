@@ -6,7 +6,7 @@ export default function ETAChinaArticle() {
     <article>
       <h1 className={h1Class}>ETA in China &amp; Greater China</h1>
       <div className={bodyClass}>
-        <p>China, the world&apos;s second-largest economy at $18T+ GDP, has 50 million+ SMEs &mdash; more than any other country. While the Chinese market presents unique challenges for foreign acquirers (regulatory complexity, language, and cultural barriers), the sheer scale of the succession opportunity, combined with a maturing private sector and growing interest in professional management, makes it impossible to ignore for global ETA practitioners.</p>
+        <p>China, the world&apos;s second-largest economy at $18T+ GDP, has 50 million+ SMEs, more than any other country. While the Chinese market presents unique challenges for foreign acquirers (regulatory complexity, language, and cultural barriers), the sheer scale of the succession opportunity, combined with a maturing private sector and growing interest in professional management, makes it impossible to ignore for global ETA practitioners.</p>
       </div>
 
       <h2 className={h2Class}>Market Overview</h2>
@@ -14,7 +14,7 @@ export default function ETAChinaArticle() {
         <ul className={ulClass}>
           <li><strong>Economy:</strong> $18T+ GDP, 1.4B population. World&apos;s largest manufacturing economy and second-largest consumer market.</li>
           <li><strong>SME scale:</strong> 50M+ SMEs generating over 60% of GDP and 80% of urban employment</li>
-          <li><strong>First-generation transition:</strong> Entrepreneurs who started businesses in the 1980s&ndash;1990s (reform era) are reaching retirement age</li>
+          <li><strong>First-generation transition:</strong> Entrepreneurs who started businesses in the 1980s-1990s (reform era) are reaching retirement age</li>
           <li><strong>&ldquo;Rich second generation&rdquo; challenge:</strong> Many founders&apos; children prefer finance, tech, or lifestyle over inheriting manufacturing businesses</li>
           <li><strong>Greater China:</strong> Hong Kong (gateway for international capital), Taiwan (semiconductor and manufacturing), and Mainland China each offer distinct opportunities</li>
         </ul>
@@ -61,7 +61,7 @@ export default function ETAChinaArticle() {
         <ul className={ulClass}>
           <li>China&apos;s 50M+ SMEs represent the world&apos;s largest succession opportunity by volume</li>
           <li>Hong Kong serves as the preferred gateway and holding company jurisdiction for international investors</li>
-          <li>Regulatory risk is the primary concern &mdash; focus on sectors aligned with government policy priorities</li>
+          <li>Regulatory risk is the primary concern, focus on sectors aligned with government policy priorities</li>
           <li>Manufacturing and healthcare offer the most accessible opportunities for foreign acquirers</li>
           <li>Local partners, advisors, and language capability are non-negotiable requirements for success</li>
         </ul>
@@ -86,13 +86,13 @@ export default function ETAChinaArticle() {
       <h3 className={h3Class}>Why is Hong Kong commonly used as a holding company jurisdiction for China acquisitions?</h3>
 
       <div className={bodyClass}>
-        <p>Hong Kong serves as the preferred gateway for international capital entering China due to its common law legal system, absence of capital controls, and favorable tax treatment. The Hong Kong&ndash;China Double Taxation Agreement reduces withholding tax on dividends from 10% to 5% for qualifying holding companies, and Hong Kong imposes no capital gains tax. PwC&rsquo;s <em>Doing Business in China Guide</em> notes that over 70% of inbound foreign direct investment into China flows through Hong Kong structures. For search fund entrepreneurs, establishing a Hong Kong holding company (typically a limited company) that owns the WFOE in Mainland China provides a clean, internationally recognized corporate structure that simplifies future fundraising, profit repatriation, and eventual exit.</p>
+        <p>Hong Kong serves as the preferred gateway for international capital entering China due to its common law legal system, absence of capital controls, and favorable tax treatment. The Hong Kong-China Double Taxation Agreement reduces withholding tax on dividends from 10% to 5% for qualifying holding companies, and Hong Kong imposes no capital gains tax. PwC&rsquo;s <em>Doing Business in China Guide</em> notes that over 70% of inbound foreign direct investment into China flows through Hong Kong structures. For search fund entrepreneurs, establishing a Hong Kong holding company (typically a limited company) that owns the WFOE in Mainland China provides a clean, internationally recognized corporate structure that simplifies future fundraising, profit repatriation, and eventual exit.</p>
       </div>
 
       <h3 className={h3Class}>What are the biggest due diligence challenges when acquiring Chinese SMEs?</h3>
 
       <div className={bodyClass}>
-        <p>Financial record accuracy is the primary due diligence challenge in Chinese SME acquisitions. According to PwC and the All-China Federation of Industry and Commerce, many Chinese SMEs maintain financial records that do not conform to international standards, and related-party transactions, off-book arrangements, and dual bookkeeping (one set for tax authorities, another for internal use) are common. Revenue recognition practices, tax compliance, and social insurance obligations all require careful scrutiny. Additionally, intellectual property protection remains a concern in certain sectors despite improvements in enforcement. Engaging experienced local auditors and legal counsel who understand both Chinese business practices and international acquisition standards is non-negotiable&mdash;generic international advisors without deep China expertise will miss critical issues.</p>
+        <p>Financial record accuracy is the primary due diligence challenge in Chinese SME acquisitions. According to PwC and the All-China Federation of Industry and Commerce, many Chinese SMEs maintain financial records that do not conform to international standards, and related-party transactions, off-book arrangements, and dual bookkeeping (one set for tax authorities, another for internal use) are common. Revenue recognition practices, tax compliance, and social insurance obligations all require careful scrutiny. Additionally, intellectual property protection remains a concern in certain sectors despite improvements in enforcement. Engaging experienced local auditors and legal counsel who understand both Chinese business practices and international acquisition standards is non-negotiable, generic international advisors without deep China expertise will miss critical issues.</p>
       </div>
 
       <h2 className={h2Class}>Sources</h2>

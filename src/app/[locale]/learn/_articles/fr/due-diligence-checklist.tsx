@@ -8,7 +8,7 @@ export default function DueDiligenceFR() {
 
       <div className={bodyClass}>
         <p>
-          La due diligence &mdash; ou audit d&apos;acquisition &mdash; est
+          La due diligence, ou audit d&apos;acquisition, est
           l&apos;étape la plus critique du processus d&apos;acquisition d&apos;une PME
           par un searcher. C&apos;est pendant cette phase que l&apos;acquéreur
           vérifie la réalité des informations communiquées par le cédant,
@@ -77,11 +77,11 @@ export default function DueDiligenceFR() {
 
         <h3 className={h3Class}>Rapports du commissaire aux comptes</h3>
         <p>
-          Si la société dispose d&apos;un commissaire aux comptes (CAC) &mdash;
+          Si la société dispose d&apos;un commissaire aux comptes (CAC) , 
           obligation pour les sociétés dépassant deux des trois seuils
           suivants&nbsp;: 4&nbsp;000&nbsp;000&nbsp;&euro; de total bilan,
           8&nbsp;000&nbsp;000&nbsp;&euro; de chiffre d&apos;affaires,
-          50&nbsp;salariés &mdash; les rapports de certification doivent être
+          50&nbsp;salariés, les rapports de certification doivent être
           analysés attentivement. Les réserves, observations et vérifications
           spécifiques signalées par le CAC sont des indicateurs précieux de
           zones de risque.
@@ -109,7 +109,7 @@ export default function DueDiligenceFR() {
           </li>
           <li>
             Identification des conventions réglementées (article L.&nbsp;227-10
-            du Code de commerce pour les SAS) &mdash; contrats entre la société
+            du Code de commerce pour les SAS), contrats entre la société
             et ses dirigeants ou actionnaires significatifs.
           </li>
           <li>

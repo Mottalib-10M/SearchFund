@@ -6,7 +6,7 @@ export default function SASvsSARLFranceArticle() {
     <article>
       <h1 className={h1Class}>SAS vs. SARL: French Legal Structures for Acquisitions</h1>
       <div className={bodyClass}>
-        <p>Choosing between a SAS (Soci&eacute;t&eacute; par Actions Simplifi&eacute;e) and a SARL (Soci&eacute;t&eacute; &agrave; Responsabilit&eacute; Limit&eacute;e) is one of the most important decisions when structuring a business acquisition in <Link href="/learn/eta-france" className="text-apple-accent hover:underline">France</Link>. Each structure has distinct advantages for governance, taxation, and flexibility &mdash; and the right choice depends on your deal structure and growth plans.</p>
+        <p>Choosing between a SAS (Soci&eacute;t&eacute; par Actions Simplifi&eacute;e) and a SARL (Soci&eacute;t&eacute; &agrave; Responsabilit&eacute; Limit&eacute;e) is one of the most important decisions when structuring a business acquisition in <Link href="/learn/eta-france" className="text-apple-accent hover:underline">France</Link>. Each structure has distinct advantages for governance, taxation, and flexibility, and the right choice depends on your deal structure and growth plans.</p>
         <p>According to INSEE, the SAS has become France&apos;s most popular business formation, accounting for over 65% of new company registrations in 2024. For acquisition-by-entrepreneurship (reprise d&apos;entreprise) transactions, the dominance is even stronger: Bpifrance reports that the vast majority of <Link href="/learn/bpifrance-acquisition-financing" className="text-apple-accent hover:underline">acquisition-financed</Link> deals use a holding SAS as the acquisition vehicle.</p>
       </div>
 
@@ -43,7 +43,7 @@ export default function SASvsSARLFranceArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Investor-friendliness:</strong> SAS is strongly preferred. Investors can receive preferred shares, and governance can be tailored in the statutes. SARL is too rigid for typical investor structures.</li>
-          <li><strong>Transfer cost:</strong> SAS share transfers cost 0.1% vs. 3% for SARL &mdash; a massive difference on larger deals.</li>
+          <li><strong>Transfer cost:</strong> SAS share transfers cost 0.1% vs. 3% for SARL, a massive difference on larger deals.</li>
           <li><strong>Exit flexibility:</strong> SAS shares are more liquid and easier to transfer, facilitating future exits.</li>
           <li><strong>Social charge optimization:</strong> SAS dividends avoid social charges; SARL majority G&eacute;rant dividends face ~45% charges on amounts exceeding the 10% threshold.</li>
           <li><strong>Governance design:</strong> SAS allows total freedom (drag-along, tag-along, vesting, board composition); SARL is constrained by code.</li>
@@ -70,9 +70,9 @@ export default function SASvsSARLFranceArticle() {
           <li><strong><Link href="/learn/dutreil-pact" className="text-apple-accent hover:underline">Dutreil Pact</Link>:</strong> 75% exemption on gift/inheritance tax for business transfers (applies to both SAS and SARL shares)</li>
           <li><strong>Participation exemption:</strong> 95% of capital gains on qualifying participations exempt (only 12% of gains effectively taxed as a &quot;quote-part de frais et charges&quot;)</li>
           <li><strong>Interest deductibility:</strong> Acquisition debt interest deductible (subject to 30% EBITDA cap and other anti-abuse rules)</li>
-          <li><strong>Flat tax (PFU):</strong> 30% flat tax on dividends (12.8% income tax + 17.2% social levies) &mdash; same for both SAS and SARL</li>
+          <li><strong>Flat tax (PFU):</strong> 30% flat tax on dividends (12.8% income tax + 17.2% social levies), same for both SAS and SARL</li>
         </ul>
-        <p>When combined with <Link href="/learn/integration-fiscale-france" className="text-apple-accent hover:underline">int&eacute;gration fiscale</Link> (French tax consolidation) between the holding SAS and the operating company, acquisition debt interest becomes deductible against operating profits &mdash; a critical tax benefit that mirrors the German Organschaft concept.</p>
+        <p>When combined with <Link href="/learn/integration-fiscale-france" className="text-apple-accent hover:underline">int&eacute;gration fiscale</Link> (French tax consolidation) between the holding SAS and the operating company, acquisition debt interest becomes deductible against operating profits, a critical tax benefit that mirrors the German Organschaft concept.</p>
       </div>
 
       <h2 className={h2Class}>Key Takeaways</h2>
@@ -98,7 +98,7 @@ export default function SASvsSARLFranceArticle() {
 
       <h3 className={h3Class}>Can I convert a SARL to a SAS after acquisition?</h3>
       <div className={bodyClass}>
-        <p>Yes. SARL-to-SAS conversion is a well-established process in France, requiring a unanimous decision of the associates (or two-thirds majority depending on the articles), appointment of a commissaire &agrave; la transformation, and new statutes. The transformation triggers no capital gains tax if done as a change of legal form rather than a dissolution/recreation. Many acquirers buy a SARL target and convert it to a SAS within 6&ndash;12 months to gain governance flexibility.</p>
+        <p>Yes. SARL-to-SAS conversion is a well-established process in France, requiring a unanimous decision of the associates (or two-thirds majority depending on the articles), appointment of a commissaire &agrave; la transformation, and new statutes. The transformation triggers no capital gains tax if done as a change of legal form rather than a dissolution/recreation. Many acquirers buy a SARL target and convert it to a SAS within 6-12 months to gain governance flexibility.</p>
       </div>
 
       <h3 className={h3Class}>How do social charges on SARL dividends work for a majority G&eacute;rant?</h3>

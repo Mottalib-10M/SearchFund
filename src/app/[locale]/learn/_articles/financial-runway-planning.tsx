@@ -481,17 +481,17 @@ export default function FinancialRunwayPlanningArticle() {
 
       <h3 className={h3Class}>How much personal savings do you need for a self-funded search?</h3>
       <p className={bodyClass}>
-        A realistic self-funded search requires $189,000&ndash;$396,000 over 24 months, depending on your location, family size, and lifestyle. This covers personal living expenses ($60,000&ndash;$120,000 per year), health insurance ($12,000&ndash;$18,000 per year), search operating costs ($15,000&ndash;$30,000 per year), and an emergency buffer. Many self-funded searchers reduce burn rate through part-time consulting, geographic arbitrage, or relying on spousal income for household expenses.
+        A realistic self-funded search requires $189,000-$396,000 over 24 months, depending on your location, family size, and lifestyle. This covers personal living expenses ($60,000-$120,000 per year), health insurance ($12,000-$18,000 per year), search operating costs ($15,000-$30,000 per year), and an emergency buffer. Many self-funded searchers reduce burn rate through part-time consulting, geographic arbitrage, or relying on spousal income for household expenses.
       </p>
 
       <h3 className={h3Class}>Should you keep working while searching for a business to buy?</h3>
       <p className={bodyClass}>
-        A part-time search while employed extends your runway significantly but limits your deal sourcing bandwidth and typically extends the search to 36&ndash;48 months. Many searchers use a phased approach: networking and researching while employed, then transitioning to full-time once they have validated deal flow, built broker relationships, and secured adequate personal financial runway. Traditional investor-backed search funds require full-time dedication.
+        A part-time search while employed extends your runway significantly but limits your deal sourcing bandwidth and typically extends the search to 36-48 months. Many searchers use a phased approach: networking and researching while employed, then transitioning to full-time once they have validated deal flow, built broker relationships, and secured adequate personal financial runway. Traditional investor-backed search funds require full-time dedication.
       </p>
 
       <h3 className={h3Class}>When should you stop searching and return to employment?</h3>
       <p className={bodyClass}>
-        Establish &ldquo;kill switch&rdquo; criteria before you start: time-based (maximum 24 months), runway-based (begin job searching when 6 months of personal runway remain), milestone-based (reassess if fewer than 3 LOIs submitted by month 15), and quality-based (pivot or exit if deal quality remains below threshold for 6+ months). The most important signal is financial desperation&mdash;if you are rationalizing red flags or considering marginal businesses because you are running out of money, it is time to stop.
+        Establish &ldquo;kill switch&rdquo; criteria before you start: time-based (maximum 24 months), runway-based (begin job searching when 6 months of personal runway remain), milestone-based (reassess if fewer than 3 LOIs submitted by month 15), and quality-based (pivot or exit if deal quality remains below threshold for 6+ months). The most important signal is financial desperation, if you are rationalizing red flags or considering marginal businesses because you are running out of money, it is time to stop.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

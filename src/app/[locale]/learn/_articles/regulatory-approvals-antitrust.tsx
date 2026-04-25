@@ -10,7 +10,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
       <div className={bodyClass}>
         <p>
           Regulatory approvals and antitrust review are among the most
-          consequential &mdash; and frequently misunderstood &mdash; aspects
+          consequential, and frequently misunderstood, aspects
           of the acquisition process. While many search fund and ETA
           transactions fall below the thresholds that trigger mandatory
           merger control filings, understanding the regulatory environment is
@@ -90,7 +90,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
           the reviewing agency (either the FTC or DOJ, which allocate cases
           between them) conducts a preliminary assessment. If the agency
           has competition concerns, it issues a &ldquo;Second Request&rdquo;
-          for additional information &mdash; a detailed and often burdensome
+          for additional information, a detailed and often burdensome
           document request that can take months to comply with. The waiting
           period is extended until 30 days after the parties have
           substantially complied with the Second Request. The entire process,
@@ -129,7 +129,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
             worldwide turnover of all undertakings concerned exceeds &euro;5
             billion, AND (b) the aggregate EU-wide turnover of each of at
             least two of the undertakings concerned exceeds &euro;250 million
-            &mdash; unless each of the undertakings concerned achieves more
+            unless each of the undertakings concerned achieves more
             than two-thirds of its aggregate EU-wide turnover within one
             and the same Member State.
           </li>
@@ -141,7 +141,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
             of those same three Member States, the aggregate turnover of
             each of at least two parties exceeds &euro;25 million, AND
             (d) the aggregate EU-wide turnover of each of at least two
-            parties exceeds &euro;100 million &mdash; again subject to the
+            parties exceeds &euro;100 million, again subject to the
             two-thirds rule.
           </li>
         </ul>
@@ -171,7 +171,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
         <p>
           Since Brexit, the UK Competition and Markets Authority (CMA)
           operates independently of the European Commission. The UK has a
-          voluntary merger control regime &mdash; there is no mandatory
+          voluntary merger control regime, there is no mandatory
           filing requirement. However, the CMA has the power to investigate
           and intervene in any merger that meets its jurisdictional
           thresholds, whether or not the parties have notified the
@@ -210,7 +210,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
         <p>
           When a competition authority concludes that a proposed acquisition
           raises competition concerns, the authority may clear the
-          transaction subject to remedies &mdash; conditions that the parties
+          transaction subject to remedies, conditions that the parties
           must satisfy to address the identified concerns. Remedies
           fall into two broad categories.
         </p>
@@ -218,7 +218,7 @@ export default function RegulatoryApprovalsAntitrustArticle() {
         <h3 className={h3Class}>Structural remedies</h3>
         <p>
           Structural remedies involve changes to the ownership or control of
-          assets. The most common structural remedy is a divestiture &mdash;
+          assets. The most common structural remedy is a divestiture , 
           the sale of a business unit, product line, or specific assets to
           an independent third party. Structural remedies are generally
           preferred by competition authorities because they address the
@@ -447,17 +447,17 @@ export default function RegulatoryApprovalsAntitrustArticle() {
 
         <h3 className={h3Class}>Do search fund acquisitions typically require antitrust filings?</h3>
         <p>
-          Most initial search fund acquisitions fall well below the Hart-Scott-Rodino (HSR) Act filing thresholds, which require notification for transactions where the acquiring person will hold assets or voting securities valued above the minimum threshold (approximately $111.4 million as of the most recent annual adjustment). According to US Federal Trade Commission data, fewer than 2,000 HSR filings are made annually out of tens of thousands of M&amp;A transactions, and the vast majority of search fund deals &mdash; typically in the $5&ndash;30 million enterprise value range &mdash; are exempt. However, the FTC and DOJ retain authority to investigate and challenge any acquisition they believe may substantially lessen competition, regardless of size. Search fund entrepreneurs pursuing buy-and-build strategies should be particularly aware that successive acquisitions in the same sector may eventually trigger filing requirements or attract regulatory attention as market share grows.
+          Most initial search fund acquisitions fall well below the Hart-Scott-Rodino (HSR) Act filing thresholds, which require notification for transactions where the acquiring person will hold assets or voting securities valued above the minimum threshold (approximately $111.4 million as of the most recent annual adjustment). According to US Federal Trade Commission data, fewer than 2,000 HSR filings are made annually out of tens of thousands of M&amp;A transactions, and the vast majority of search fund deals, typically in the $5-30 million enterprise value range, are exempt. However, the FTC and DOJ retain authority to investigate and challenge any acquisition they believe may substantially lessen competition, regardless of size. Search fund entrepreneurs pursuing buy-and-build strategies should be particularly aware that successive acquisitions in the same sector may eventually trigger filing requirements or attract regulatory attention as market share grows.
         </p>
 
         <h3 className={h3Class}>How long does regulatory approval add to the closing timeline?</h3>
         <p>
-          Regulatory approval timelines vary dramatically by jurisdiction and complexity. In the US, the initial HSR waiting period is 30 days (15 days for cash tender offers), and approximately 95% of notified transactions are cleared during this initial period without further investigation. However, if the reviewing agency issues a Second Request for additional information, the process can extend to 6&ndash;12 months or longer. In the EU, Phase I review takes 25&ndash;35 working days, while a Phase II in-depth investigation takes 90&ndash;125 working days. According to the OECD&rsquo;s Competition Assessment Toolkit, sector-specific approvals (healthcare, financial services, telecommunications) can add an additional 2&ndash;6 months to closing timelines. Buyers should address regulatory timing in their <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link> by including conditions precedent for all required approvals and building realistic regulatory timelines into the deal schedule.
+          Regulatory approval timelines vary dramatically by jurisdiction and complexity. In the US, the initial HSR waiting period is 30 days (15 days for cash tender offers), and approximately 95% of notified transactions are cleared during this initial period without further investigation. However, if the reviewing agency issues a Second Request for additional information, the process can extend to 6-12 months or longer. In the EU, Phase I review takes 25-35 working days, while a Phase II in-depth investigation takes 90-125 working days. According to the OECD&rsquo;s Competition Assessment Toolkit, sector-specific approvals (healthcare, financial services, telecommunications) can add an additional 2-6 months to closing timelines. Buyers should address regulatory timing in their <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link> by including conditions precedent for all required approvals and building realistic regulatory timelines into the deal schedule.
         </p>
 
         <h3 className={h3Class}>What are the penalties for failing to file required merger notifications?</h3>
         <p>
-          Penalties for &ldquo;gun-jumping&rdquo; &mdash; consummating a reportable transaction without filing required notifications or before the waiting period expires &mdash; are severe across all major jurisdictions. In the US, the maximum civil penalty under the HSR Act exceeds $50,000 per day of violation, and penalties have been imposed retroactively for transactions completed years earlier. The European Commission has imposed fines of up to &euro;124.5 million for failure to notify, and the UK&rsquo;s National Security and Investment Act 2021 allows transactions completed without required notification to be voided entirely, with civil and criminal penalties for non-compliance. According to the International Competition Network&rsquo;s guidelines, the best protection is to conduct a thorough filing analysis at the outset of any acquisition, covering merger control, sector-specific approvals, and foreign investment screening requirements in every relevant jurisdiction.
+          Penalties for &ldquo;gun-jumping&rdquo;, consummating a reportable transaction without filing required notifications or before the waiting period expires, are severe across all major jurisdictions. In the US, the maximum civil penalty under the HSR Act exceeds $50,000 per day of violation, and penalties have been imposed retroactively for transactions completed years earlier. The European Commission has imposed fines of up to &euro;124.5 million for failure to notify, and the UK&rsquo;s National Security and Investment Act 2021 allows transactions completed without required notification to be voided entirely, with civil and criminal penalties for non-compliance. According to the International Competition Network&rsquo;s guidelines, the best protection is to conduct a thorough filing analysis at the outset of any acquisition, covering merger control, sector-specific approvals, and foreign investment screening requirements in every relevant jurisdiction.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

@@ -12,7 +12,7 @@ export default function TechnologyDueDiligenceArticle() {
           Technology has become a foundational pillar of virtually every small and
           medium-sized business, regardless of industry. When acquiring a company
           through a search fund or entrepreneurship-through-acquisition pathway,
-          technology due diligence is no longer a secondary concern &mdash; it is a
+          technology due diligence is no longer a secondary concern, it is a
           critical workstream that can reveal hidden liabilities, inform your
           post-acquisition capital expenditure plan, and even serve as a deal-breaker
           if the findings are severe enough. A thorough{" "}
@@ -48,9 +48,9 @@ export default function TechnologyDueDiligenceArticle() {
           of every future enhancement.
         </p>
         <p>
-          For search fund acquisitions &mdash; where the target company is
-          typically a small or mid-market business with $1M&ndash;$5M in EBITDA
-          &mdash; technology issues can be especially acute because these companies
+          For search fund acquisitions, where the target company is
+          typically a small or mid-market business with $1M-$5M in EBITDA
+          technology issues can be especially acute because these companies
           often lack dedicated technology leadership. The founder or owner may have
           made technology decisions based on short-term convenience rather than
           long-term scalability. IT infrastructure may have been implemented
@@ -98,7 +98,7 @@ export default function TechnologyDueDiligenceArticle() {
           </li>
           <li>
             <strong>Custom-built software:</strong> If the company has developed
-            proprietary software &mdash; whether customer-facing or internal &mdash;
+            proprietary software, whether customer-facing or internal , 
             this requires deep technical review. Who built it? Is the code well
             documented? What programming languages and frameworks were used? Is the
             development team still available?
@@ -111,7 +111,7 @@ export default function TechnologyDueDiligenceArticle() {
           <li>
             <strong>SaaS subscriptions:</strong> Many small businesses accumulate
             dozens of SaaS subscriptions over time, some of which may be redundant
-            or unused. A full audit often reveals cost savings of 10&ndash;25%.
+            or unused. A full audit often reveals cost savings of 10-25%.
           </li>
         </ul>
 
@@ -257,7 +257,7 @@ export default function TechnologyDueDiligenceArticle() {
         <h2 className={h2Class}>Assessing the technology team</h2>
         <p>
           In many small businesses, the technology function is managed by one or two
-          individuals &mdash; sometimes a full-time IT manager, sometimes a
+          individuals, sometimes a full-time IT manager, sometimes a
           part-time contractor, and sometimes the owner personally. Understanding
           the human capital behind the technology is as important as understanding
           the systems themselves.
@@ -337,8 +337,8 @@ export default function TechnologyDueDiligenceArticle() {
           </li>
           <li>
             <strong>Single points of failure:</strong> Systems with no redundancy
-            or failover &mdash; a single server, a single internet connection, a
-            single person who knows the password &mdash; represent unacceptable
+            or failover, a single server, a single internet connection, a
+            single person who knows the password, represent unacceptable
             operational risk.
           </li>
           <li>
@@ -369,19 +369,19 @@ export default function TechnologyDueDiligenceArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Immediate security remediation (Month 1&ndash;3):</strong>{" "}
+            <strong>Immediate security remediation (Month 1-3):</strong>{" "}
             Address critical vulnerabilities, implement MFA, update unpatched
             systems, and establish backup and recovery procedures. Budget: $10,000
             to $50,000.
           </li>
           <li>
-            <strong>Infrastructure modernization (Month 3&ndash;12):</strong>{" "}
+            <strong>Infrastructure modernization (Month 3-12):</strong>{" "}
             Migrate to cloud, replace aging hardware, consolidate SaaS
             subscriptions, and implement monitoring and management tools. Budget:
             $25,000 to $150,000.
           </li>
           <li>
-            <strong>Application modernization (Month 6&ndash;24):</strong>{" "}
+            <strong>Application modernization (Month 6-24):</strong>{" "}
             Refactor or replace legacy custom applications, implement modern ERP or
             CRM systems, and build integrations between systems. Budget: $50,000
             to $300,000.
@@ -395,7 +395,7 @@ export default function TechnologyDueDiligenceArticle() {
         </ol>
 
         <p>
-          Technology due diligence is not about finding perfection &mdash; no small
+          Technology due diligence is not about finding perfection, no small
           business has a flawless technology environment. It is about identifying
           and quantifying the gaps so that you can negotiate appropriately, budget
           realistically, and execute a remediation plan that protects the business
@@ -412,17 +412,17 @@ export default function TechnologyDueDiligenceArticle() {
 
         <h3 className={h3Class}>How much does technology remediation typically cost after a search fund acquisition?</h3>
         <p>
-          For a typical small business acquisition ($1M&ndash;$5M EBITDA), technology remediation costs range from $50,000 to $500,000 or more, depending on the severity of issues discovered during due diligence. Immediate security remediation (months 1&ndash;3) typically costs $10,000&ndash;$50,000 to address critical vulnerabilities, implement multi-factor authentication, and establish backup procedures. Infrastructure modernization (months 3&ndash;12) adds $25,000&ndash;$150,000 for cloud migration, hardware replacement, and SaaS consolidation. Application modernization (months 6&ndash;24) can cost $50,000&ndash;$300,000 for legacy system replacement or ERP implementation. According to Deloitte and McKinsey research on M&amp;A integration, technology-related issues are among the top reasons acquisitions fail to achieve projected returns, making these costs essential to model before closing.
+          For a typical small business acquisition ($1M-$5M EBITDA), technology remediation costs range from $50,000 to $500,000 or more, depending on the severity of issues discovered during due diligence. Immediate security remediation (months 1-3) typically costs $10,000-$50,000 to address critical vulnerabilities, implement multi-factor authentication, and establish backup procedures. Infrastructure modernization (months 3-12) adds $25,000-$150,000 for cloud migration, hardware replacement, and SaaS consolidation. Application modernization (months 6-24) can cost $50,000-$300,000 for legacy system replacement or ERP implementation. According to Deloitte and McKinsey research on M&amp;A integration, technology-related issues are among the top reasons acquisitions fail to achieve projected returns, making these costs essential to model before closing.
         </p>
 
         <h3 className={h3Class}>What are the biggest cybersecurity risks in acquiring a small business?</h3>
         <p>
-          The most critical cybersecurity risks in SME acquisitions are unpatched systems, lack of multi-factor authentication, and absent or untested backup procedures. CISA and ENISA have both highlighted small and medium-sized businesses as particularly vulnerable because they often lack dedicated security staff. A surprising number of small businesses fail to revoke access when employees depart &mdash; active accounts for former employees represent an immediate security vulnerability. Ransomware attacks are a particularly acute threat; reliable, tested backups stored offsite or in a separate cloud region are the primary defense. During due diligence, also evaluate third-party risk, as a breach at a vendor can compromise the target company&rsquo;s data even if internal systems are secure. Budget at least $10,000&ndash;$50,000 for immediate security remediation in the first 90 days post-closing.
+          The most critical cybersecurity risks in SME acquisitions are unpatched systems, lack of multi-factor authentication, and absent or untested backup procedures. CISA and ENISA have both highlighted small and medium-sized businesses as particularly vulnerable because they often lack dedicated security staff. A surprising number of small businesses fail to revoke access when employees depart, active accounts for former employees represent an immediate security vulnerability. Ransomware attacks are a particularly acute threat; reliable, tested backups stored offsite or in a separate cloud region are the primary defense. During due diligence, also evaluate third-party risk, as a breach at a vendor can compromise the target company&rsquo;s data even if internal systems are secure. Budget at least $10,000-$50,000 for immediate security remediation in the first 90 days post-closing.
         </p>
 
         <h3 className={h3Class}>How should technology due diligence differ for a SaaS acquisition versus a traditional business?</h3>
         <p>
-          For <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS acquisitions</Link> where the technology is the product, technology due diligence becomes the most important workstream. You need to assess architecture scalability, code quality, deployment frequency, uptime history, mean time to recovery, and the development team&rsquo;s ability to execute the product roadmap. Key metrics include test coverage, technical debt ratio, and dependency on deprecated frameworks. For traditional services or manufacturing businesses, the focus shifts to operational technology: ERP systems, CRM, production control, and business intelligence tools. The key question is whether the technology supports current operations and can scale with growth plans. In both cases, look for single points of failure &mdash; a single server, a single person who holds all passwords, or a single custom application with no documentation. McKinsey estimates that undiscovered technical debt adds 20&ndash;40% to post-acquisition technology costs when not properly assessed during diligence.
+          For <Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">SaaS acquisitions</Link> where the technology is the product, technology due diligence becomes the most important workstream. You need to assess architecture scalability, code quality, deployment frequency, uptime history, mean time to recovery, and the development team&rsquo;s ability to execute the product roadmap. Key metrics include test coverage, technical debt ratio, and dependency on deprecated frameworks. For traditional services or manufacturing businesses, the focus shifts to operational technology: ERP systems, CRM, production control, and business intelligence tools. The key question is whether the technology supports current operations and can scale with growth plans. In both cases, look for single points of failure, a single server, a single person who holds all passwords, or a single custom application with no documentation. McKinsey estimates that undiscovered technical debt adds 20-40% to post-acquisition technology costs when not properly assessed during diligence.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

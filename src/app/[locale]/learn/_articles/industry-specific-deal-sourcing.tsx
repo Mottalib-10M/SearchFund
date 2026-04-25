@@ -9,8 +9,8 @@ export default function IndustrySpecificDealSourcingArticle() {
 
       <div className={bodyClass}>
         <p>
-          Generic deal sourcing &mdash; browsing listing sites, reaching out to random owners, or
-          relying entirely on brokers &mdash; is the default approach for most first-time acquirers.
+          Generic deal sourcing, browsing listing sites, reaching out to random owners, or
+          relying entirely on brokers, is the default approach for most first-time acquirers.
           It is also the least efficient. Industry-specific deal sourcing flips the script: instead
           of casting a wide net and hoping the right fish swims in, you embed yourself in the
           ecosystem where business owners in your target vertical already congregate. This guide
@@ -26,7 +26,7 @@ export default function IndustrySpecificDealSourcingArticle() {
         <h2 className={h2Class}>Why industry-specific sourcing outperforms generic methods</h2>
         <p>
           The fundamental problem with generic sourcing is competition. Every business listed on
-          a popular marketplace is being evaluated by dozens &mdash; sometimes hundreds &mdash;
+          a popular marketplace is being evaluated by dozens, sometimes hundreds , 
           of prospective buyers. Prices get bid up, sellers have use, and the best businesses
           are snapped up before you can complete diligence. Industry-specific sourcing addresses
           this by accessing owners who have not yet decided to sell, or who would prefer to sell
@@ -51,7 +51,7 @@ export default function IndustrySpecificDealSourcingArticle() {
             <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">
               proprietary deal flow
             </Link>{" "}
-            &mdash; opportunities that never reach the open market. A retiring owner who knows
+            opportunities that never reach the open market. A retiring owner who knows
             you from the trade association is far more likely to call you first than to list
             with a broker.
           </li>
@@ -106,8 +106,8 @@ export default function IndustrySpecificDealSourcingArticle() {
           industry, learning about trends, and considering opportunities. Useful conversation
           starters include asking about their biggest challenges, what has changed in the
           industry over the past five years, and what they would do differently if they were
-          starting over. These questions surface pain points &mdash; including succession
-          concerns &mdash; organically.
+          starting over. These questions surface pain points: including succession
+          concerns, organically.
         </p>
         <p>
           Collect business cards, take notes, and follow up within 48 hours. A simple email
@@ -116,7 +116,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           <Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">
             cold outreach to business owners
           </Link>{" "}
-          &mdash; except it is no longer cold, because you have met face-to-face.
+          except it is no longer cold, because you have met face-to-face.
         </p>
 
         <h2 className={h2Class}>Industry associations and membership organizations</h2>
@@ -139,7 +139,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           In the United States, examples include the Mechanical Contractors Association of
           America (MCAA) for mechanical contracting, the International Franchise Association
           (IFA) for franchise businesses, and NAID for information destruction. In Europe,
-          sector federations are organized at both national and EU levels &mdash; the European
+          sector federations are organized at both national and EU levels, the European
           Federation of Cleaning Industries (EFCI), for instance, connects cleaning companies
           across 20 countries.
         </p>
@@ -147,8 +147,8 @@ export default function IndustrySpecificDealSourcingArticle() {
         <h3 className={h3Class}>Using association events and committees</h3>
         <p>
           Associations typically run annual conferences, regional meetups, and educational
-          seminars. Volunteering for a committee &mdash; especially one related to succession
-          planning, education, or industry research &mdash; positions you as a contributor
+          seminars. Volunteering for a committee, especially one related to succession
+          planning, education, or industry research, positions you as a contributor
           rather than a predator. Committee work gives you direct contact with board members,
           past presidents, and long-tenured members who know which owners are thinking about
           retirement.
@@ -182,7 +182,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           <li>
             <strong>Industry rankings and awards:</strong> Publications like Inc. 5000,
             Deloitte Fast 500, and sector-specific &quot;Top 100&quot; lists identify companies
-            that are growing fast &mdash; and whose founders may be ready to cash in on that
+            that are growing fast, and whose founders may be ready to cash in on that
             growth. Regional business journals publish their own annual lists.
           </li>
         </ul>
@@ -222,7 +222,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           </li>
           <li>
             <strong>Build relationships:</strong> After you have a basic understanding of the
-            industry, start developing relationships with industry advisors &mdash; accountants,
+            industry, start developing relationships with industry advisors, accountants,
             lawyers, and consultants who serve business owners in the space. These professionals
             are often the first to know when an owner is considering a sale.
           </li>
@@ -234,7 +234,7 @@ export default function IndustrySpecificDealSourcingArticle() {
           <li>
             <strong>Track and iterate:</strong> Use a CRM to track every interaction. Over
             twelve to eighteen months, your pipeline will include owners in various stages of
-            readiness &mdash; some just planting the seed, others actively exploring a sale.
+            readiness, some just planting the seed, others actively exploring a sale.
           </li>
         </ol>
 
@@ -268,7 +268,7 @@ export default function IndustrySpecificDealSourcingArticle() {
         <h2 className={h2Class}>Combining industry-specific sourcing with other channels</h2>
         <p>
           Industry-specific sourcing works best when layered with other channels. Use broker
-          relationships to surface industry-specific listings &mdash; let{" "}
+          relationships to surface industry-specific listings, let{" "}
           <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
             brokers who specialize in your target sector
           </Link>{" "}

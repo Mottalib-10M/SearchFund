@@ -9,7 +9,7 @@ export default function BuyAndBuildFR() {
       <div className={bodyClass}>
         <p>
           La stratégie de build-up (ou buy-and-build) consiste à acquérir une
-          plateforme &mdash; une PME solide servant de socle &mdash; puis à
+          plateforme, une PME solide servant de socle, puis à
           réaliser une série d&apos;acquisitions complémentaires (bolt-on) pour
           constituer un groupe de taille supérieure. En France, cette approche est
           particulièrement pertinente dans les secteurs fragmentés où coexistent de
@@ -36,7 +36,7 @@ export default function BuyAndBuildFR() {
       <div className={bodyClass}>
         <h3 className={h3Class}>L&apos;acquisition de plateforme</h3>
         <p>
-          La plateforme est la première acquisition du searcher &mdash; celle sur
+          La plateforme est la première acquisition du searcher, celle sur
           laquelle repose l&apos;ensemble de la stratégie de build-up. Elle doit
           réunir plusieurs caractéristiques essentielles&nbsp;:
         </p>
@@ -321,7 +321,7 @@ export default function BuyAndBuildFR() {
           <li>
             <strong>Croissance organique accélérée&nbsp;:</strong> L&apos;effet de
             taille permet d&apos;accéder à des contrats plus importants, de recruter
-            de meilleurs commerciaux et d&apos;investir dans le marketing &mdash;
+            de meilleurs commerciaux et d&apos;investir dans le marketing , 
             autant de leviers de{" "}
             <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">
               croissance du chiffre d&apos;affaires
@@ -347,7 +347,7 @@ export default function BuyAndBuildFR() {
             <strong>Surendettement&nbsp;:</strong> Multiplier les acquisitions
             financées par dette peut fragiliser la structure financière du groupe,
             surtout en période de ralentissement économique. Le ratio
-            d&apos;endettement (dette nette / EBITDA) doit rester sous contrôle &mdash;
+            d&apos;endettement (dette nette / EBITDA) doit rester sous contrôle , 
             les banques françaises deviennent prudentes au-delà de 3,5x.
           </li>
           <li>

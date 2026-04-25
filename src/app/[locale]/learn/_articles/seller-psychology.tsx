@@ -13,7 +13,7 @@ export default function SellerPsychologyArticle() {
         <p>
           The most underappreciated factor in business acquisitions is
           seller psychology. Business owners aren&rsquo;t selling a
-          financial asset &mdash; they&rsquo;re selling their life&rsquo;s
+          financial asset, they&rsquo;re selling their life&rsquo;s
           work, their identity, and their employees&rsquo; livelihoods.
           Understanding and navigating the seller&rsquo;s emotional
           journey is often the difference between a closed deal and a
@@ -38,7 +38,7 @@ export default function SellerPsychologyArticle() {
         <h3 className={h3Class}>Push factors (urgency)</h3>
         <ul className={ulClass}>
           <li><strong>Health issues:</strong> Personal health crisis forcing a sale. Highest urgency, most emotionally charged</li>
-          <li><strong>Burnout:</strong> After 20&ndash;30 years, the owner is exhausted and wants out. The{" "}
+          <li><strong>Burnout:</strong> After 20-30 years, the owner is exhausted and wants out. The{" "}
             <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
               baby boomer generation
             </Link>{" "}
@@ -64,7 +64,7 @@ export default function SellerPsychologyArticle() {
         <h3 className={h3Class}>1. Exploration (&ldquo;Maybe I should sell&rdquo;)</h3>
         <ul className={ulClass}>
           <li>Testing the waters, talking to brokers or advisors</li>
-          <li>High emotional volatility &mdash; can pull out at any moment</li>
+          <li>High emotional volatility, can pull out at any moment</li>
           <li>Often overestimates the business value</li>
           <li><strong>Buyer strategy:</strong> Be patient, build rapport, don&rsquo;t push</li>
         </ul>
@@ -82,7 +82,7 @@ export default function SellerPsychologyArticle() {
             <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
               LOI negotiation
             </Link></li>
-          <li>Every price discussion feels personal &mdash; &ldquo;Is my business worth this?&rdquo; becomes &ldquo;Am I worth this?&rdquo;</li>
+          <li>Every price discussion feels personal, &ldquo;Is my business worth this?&rdquo; becomes &ldquo;Am I worth this?&rdquo;</li>
           <li>Sellers may anchor on an unrealistic number they heard from a friend or read online</li>
           <li><strong>Buyer strategy:</strong> Use data (
             <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
@@ -97,7 +97,7 @@ export default function SellerPsychologyArticle() {
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               Due diligence
             </Link>{" "}
-            feels invasive &mdash; every financial question can feel like a criticism
+            feels invasive, every financial question can feel like a criticism
           </li>
           <li>Seller may become defensive, slow to respond, or withhold information</li>
           <li>DD surprises (issues the seller didn&rsquo;t disclose) create trust crises</li>
@@ -168,7 +168,7 @@ export default function SellerPsychologyArticle() {
 
         <h3 className={h3Class}>Manage the timeline</h3>
         <ul className={ulClass}>
-          <li>Keep the process moving &mdash; delays breed anxiety and cold feet</li>
+          <li>Keep the process moving, delays breed anxiety and cold feet</li>
           <li>Set clear milestones and communicate progress regularly</li>
           <li>If DD takes longer than expected, explain why and give the seller visibility into the timeline</li>
         </ul>
@@ -191,7 +191,7 @@ export default function SellerPsychologyArticle() {
           negotiators. Every dollar you save by understanding the
           seller&rsquo;s non-financial motivations is easier to earn
           than a dollar extracted through adversarial negotiation. Build
-          trust, honor the legacy, and close with integrity &mdash;
+          trust, honor the legacy, and close with integrity , 
           your reputation as a buyer will generate future deal flow.
         </p>
 
@@ -202,7 +202,7 @@ export default function SellerPsychologyArticle() {
           Research from the International Business Brokers Association and
           insights from hundreds of closed transactions consistently show
           that employee welfare, legacy preservation, and certainty of close
-          rank as high as &mdash; or higher than &mdash; purchase price for
+          rank as high as, or higher than, purchase price for
           most retiring business owners. According to the Exit Planning
           Institute, 75% of business owners who sold reported that they
           wished they had prepared more for the emotional aspects of the
@@ -220,16 +220,16 @@ export default function SellerPsychologyArticle() {
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             LOI
           </Link>{" "}
-          is signed, consider walking away &mdash; post-LOI term changes
+          is signed, consider walking away, post-LOI term changes
           predict post-closing disputes and a difficult transition.
         </p>
 
         <h3 className={h3Class}>How long should the seller&rsquo;s transition period last?</h3>
         <p>
-          A typical transition period is 6&ndash;12 months, structured as
-          a gradual step-down: full involvement for months 1&ndash;3,
-          advisory-only for months 4&ndash;6, and available by phone
-          thereafter. Compensate the seller at $5K&ndash;$15K per month
+          A typical transition period is 6-12 months, structured as
+          a gradual step-down: full involvement for months 1-3,
+          advisory-only for months 4-6, and available by phone
+          thereafter. Compensate the seller at $5K-$15K per month
           during the active period. The Stanford GSB study notes that
           search fund acquisitions with longer, well-structured transition
           periods correlate with better post-acquisition performance,

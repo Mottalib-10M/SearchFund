@@ -7,13 +7,13 @@ export default function SRLvsSPAItalyArticle() {
       <h1 className={h1Class}>SRL vs. SPA: Italian Entity Structures for Acquisitions</h1>
       <div className={bodyClass}>
         <p>When acquiring a business in <Link href="/learn/eta-italy" className="text-apple-accent hover:underline">Italy</Link>, the two primary corporate structures are the SRL (Societ&agrave; a Responsabilit&agrave; Limitata) and the SPA (Societ&agrave; per Azioni). The SRL dominates the Italian SME market, while the SPA is used for larger companies. Understanding their differences is critical for structuring your deal, managing governance, and planning for exit.</p>
-        <p>According to data from the Registro Imprese, there are approximately 1.6 million active SRLs in Italy compared to roughly 35,000 SPAs, reflecting the SRL&apos;s dominance in the SME segment. The 2003 reform of the Codice Civile (Italian Civil Code) significantly modernized the SRL, giving it much of the flexibility previously reserved for the SPA &mdash; making it the preferred vehicle for acquisition-by-entrepreneurship transactions.</p>
+        <p>According to data from the Registro Imprese, there are approximately 1.6 million active SRLs in Italy compared to roughly 35,000 SPAs, reflecting the SRL&apos;s dominance in the SME segment. The 2003 reform of the Codice Civile (Italian Civil Code) significantly modernized the SRL, giving it much of the flexibility previously reserved for the SPA, making it the preferred vehicle for acquisition-by-entrepreneurship transactions.</p>
       </div>
 
       <h2 className={h2Class}>SRL (Societ&agrave; a Responsabilit&agrave; Limitata)</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Minimum capital:</strong> &euro;10,000 (or &euro;1 for SRLS &mdash; simplified SRL)</li>
+          <li><strong>Minimum capital:</strong> &euro;10,000 (or &euro;1 for SRLS, simplified SRL)</li>
           <li><strong>Ownership units:</strong> Quote di partecipazione (ownership quotas), not shares</li>
           <li><strong>Transfer:</strong> Requires notarial deed or certified digital signature through the Chamber of Commerce</li>
           <li><strong>Governance:</strong> Managed by one or more Amministratori (directors). Can have a sole administrator or a board (Consiglio di Amministrazione).</li>
@@ -39,11 +39,11 @@ export default function SRLvsSPAItalyArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Minimum capital:</strong> &euro;50,000 (at least 25% paid in at formation)</li>
-          <li><strong>Ownership units:</strong> Azioni (shares) &mdash; freely transferable unless restricted by statutes</li>
+          <li><strong>Ownership units:</strong> Azioni (shares), freely transferable unless restricted by statutes</li>
           <li><strong>Share classes:</strong> Can issue ordinary shares, preferred shares, savings shares, and other categories</li>
           <li><strong>Governance models:</strong> Three options: (1) Traditional (board + statutory auditors), (2) One-tier (board with audit committee), (3) Two-tier (supervisory board + management board)</li>
           <li><strong>Audit:</strong> Always mandatory. Must appoint a Collegio Sindacale (board of statutory auditors) or a single statutory auditor.</li>
-          <li><strong>Bonds:</strong> Can issue bonds (obbligazioni) to raise debt capital &mdash; SRLs are limited in this area</li>
+          <li><strong>Bonds:</strong> Can issue bonds (obbligazioni) to raise debt capital, SRLs are limited in this area</li>
           <li><strong>Listed potential:</strong> Only SPAs can be listed on Borsa Italiana</li>
         </ul>
       </div>
@@ -53,11 +53,11 @@ export default function SRLvsSPAItalyArticle() {
         <ul className={ulClass}>
           <li><strong>Transfer tax:</strong> SPA share transfers: &euro;200 flat registration tax. SRL quota transfers: &euro;200 flat registration tax + notary/digital signature costs.</li>
           <li><strong>Investor structures:</strong> SPA allows multiple share classes with different rights; SRL can create some differentiation through the bylaws but with more constraints.</li>
-          <li><strong>Cost:</strong> SRL requires &euro;10K capital; SPA requires &euro;50K &mdash; significant difference for holding company setup.</li>
+          <li><strong>Cost:</strong> SRL requires &euro;10K capital; SPA requires &euro;50K, significant difference for holding company setup.</li>
           <li><strong>Governance complexity:</strong> SPA has mandatory governance bodies (Collegio Sindacale); SRL governance is simpler and cheaper to maintain.</li>
           <li><strong>Market perception:</strong> SPA carries more prestige with banks, suppliers, and large customers.</li>
         </ul>
-        <p>As SDA Bocconi&apos;s research on Italian corporate structures notes, the SRL&apos;s lower formation and maintenance costs make it the overwhelmingly practical choice for acquisitions below &euro;10M in enterprise value. The SPA&apos;s mandatory governance bodies (Collegio Sindacale, external auditor) add &euro;20,000&ndash;50,000 in annual compliance costs that are difficult to justify for smaller deals.</p>
+        <p>As SDA Bocconi&apos;s research on Italian corporate structures notes, the SRL&apos;s lower formation and maintenance costs make it the overwhelmingly practical choice for acquisitions below &euro;10M in enterprise value. The SPA&apos;s mandatory governance bodies (Collegio Sindacale, external auditor) add &euro;20,000-50,000 in annual compliance costs that are difficult to justify for smaller deals.</p>
       </div>
 
       <h2 className={h2Class}>Typical Italian Acquisition Structure</h2>

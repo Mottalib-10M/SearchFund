@@ -9,8 +9,8 @@ export default function EarnOutStructuresArticle() {
 
       <div className={bodyClass}>
         <p>
-          Earn-outs are one of the most powerful &mdash; and most
-          contentious &mdash; tools in acquisition deal structuring.
+          Earn-outs are one of the most powerful, and most
+          contentious, tools in acquisition deal structuring.
           When a buyer and seller disagree on the <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">value of a business</Link>,
           an earn-out allows the business itself to resolve the
           disagreement by tying a portion of the purchase price to
@@ -81,7 +81,7 @@ export default function EarnOutStructuresArticle() {
           EBITDA is the most common earn-out metric because it captures
           both revenue growth and operational efficiency. However,
           EBITDA is susceptible to buyer manipulation through
-          discretionary expenses &mdash; the buyer could load the
+          discretionary expenses, the buyer could load the
           business with corporate overhead allocations, management fees,
           or accelerated spending that depress EBITDA without reflecting
           genuine business deterioration. If using EBITDA, you must
@@ -98,7 +98,7 @@ export default function EarnOutStructuresArticle() {
           for businesses in growth mode where the buyer and seller agree
           that revenue growth is the primary value driver. The drawback
           is that revenue-based earn-outs do not incentivize
-          profitability &mdash; a seller might push for revenue at any
+          profitability, a seller might push for revenue at any
           cost (discounting, unprofitable contracts) to maximize their
           earn-out.
         </p>
@@ -132,7 +132,7 @@ export default function EarnOutStructuresArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Duration:</strong> Most earn-outs use measurement
-            periods of 1&ndash;3 years, with 2 years being the most
+            periods of 1-3 years, with 2 years being the most
             common. Shorter periods (12 months) are simpler but may
             not capture the full impact of growth initiatives. Longer
             periods (3+ years) increase uncertainty and the
@@ -366,7 +366,7 @@ export default function EarnOutStructuresArticle() {
           recognize the fair value of contingent consideration (including
           earn-outs) at the acquisition date. Subsequent changes in the
           fair value of the earn-out liability are recognized in the
-          buyer&apos;s income statement &mdash; creating earnings
+          buyer&apos;s income statement, creating earnings
           volatility that can be material for smaller acquirers. If
           the earn-out is classified as equity (settled in shares rather
           than cash), it is not remeasured after initial recognition.
@@ -397,9 +397,9 @@ export default function EarnOutStructuresArticle() {
 
         <h3 className={h3Class}>Holdbacks</h3>
         <p>
-          A portion of the purchase price (typically 10&ndash;15%) is
+          A portion of the purchase price (typically 10-15%) is
           held in escrow and released to the seller after a defined
-          period (12&ndash;18 months), subject to adjustment for
+          period (12-18 months), subject to adjustment for
           indemnification claims or working capital true-ups. Holdbacks
           are simpler than earn-outs because they do not require
           ongoing performance measurement. They protect the buyer
@@ -413,7 +413,7 @@ export default function EarnOutStructuresArticle() {
           rather than retained by the buyer. Escrow provides the seller
           with greater confidence that the funds exist and will be
           released according to the agreed terms. Escrow agent fees
-          are typically $3K&ndash;$10K annually.
+          are typically $3K-$10K annually.
         </p>
 
         <h3 className={h3Class}>Seller notes</h3>
@@ -430,7 +430,7 @@ export default function EarnOutStructuresArticle() {
         <h3 className={h3Class}>Equity rollover</h3>
         <p>
           The seller retains a minority equity stake (typically
-          10&ndash;25%) in the business post-acquisition. This aligns
+          10-25%) in the business post-acquisition. This aligns
           the seller&apos;s interests with the buyer&apos;s long-term
           success and provides the seller with upside participation
           if the business grows. Equity rollover avoids the measurement

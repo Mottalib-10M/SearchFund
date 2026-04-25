@@ -18,7 +18,7 @@ export default function SearchFundAcceleratorsArticle() {
           by packaging capital, mentorship, deal-sourcing infrastructure, and
           investor introductions into a single program. According to the Search
           Fund Accelerator (SFA), searchers who go through an accelerator reach
-          an 85% acquisition success rate &mdash; versus roughly 57&ndash;63%
+          an 85% acquisition success rate, versus roughly 57-63%
           for the traditional model tracked in the 2024 Stanford GSB study of
           681 search funds. For first-time searchers without top-MBA networks or
           prior M&amp;A experience, accelerators can mean the difference between
@@ -32,7 +32,7 @@ export default function SearchFundAcceleratorsArticle() {
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             traditional or self-funded search
           </Link>, breaks down typical economic terms, and gives you a
-          framework for deciding which program &mdash; if any &mdash; is the
+          framework for deciding which program, if any, is the
           right fit for your search.
         </p>
 
@@ -43,9 +43,9 @@ export default function SearchFundAcceleratorsArticle() {
           every new searcher faces. The traditional search fund model asks you to
           raise search capital from investors, build a deal pipeline from
           scratch, learn due diligence on the fly, negotiate your first
-          acquisition, and then run a company &mdash; all within roughly 24
+          acquisition, and then run a company, all within roughly 24
           months. Most searchers have never done any of these things before. The
-          Stanford study found that about 37&ndash;43% of searchers fail to
+          Stanford study found that about 37-43% of searchers fail to
           acquire a company at all, and another 28% acquire a business but
           ultimately earn little or nothing on their equity.
         </p>
@@ -54,7 +54,7 @@ export default function SearchFundAcceleratorsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Structured training:</strong> Boot camps of 2&ndash;6 weeks
+            <strong>Structured training:</strong> Boot camps of 2-6 weeks
             covering valuation, financial modeling,{" "}
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
               deal sourcing
@@ -66,7 +66,7 @@ export default function SearchFundAcceleratorsArticle() {
             <strong>Search capital and salary:</strong> Most accelerators pay
             searchers a salary during the search phase and fund operating costs
             (CRM tools, travel, legal fees). This removes the need to
-            independently raise $400K&ndash;$500K in search capital.
+            independently raise $400K-$500K in search capital.
           </li>
           <li>
             <strong>Acquisition equity capital:</strong> When a searcher
@@ -78,21 +78,21 @@ export default function SearchFundAcceleratorsArticle() {
           <li>
             <strong>Mentorship from experienced operators:</strong> Cohort
             members are paired with former searchers and CEOs who have completed
-            the full cycle &mdash; search, acquisition, value creation, and
+            the full cycle, search, acquisition, value creation, and
             exit. At Broadtree Partners, co-founder David Slenzak built the
             program based on the pain points of his own 2010 search fund
             experience.
           </li>
           <li>
-            <strong>Peer cohorts:</strong> Groups of 4&ndash;8 searchers
+            <strong>Peer cohorts:</strong> Groups of 4-8 searchers
             progress together, sharing leads, reviewing deal memos, and holding
             each other accountable. The Brydon Group, for instance, selects
-            6&ndash;8 CEO-in-Residence executives per annual cohort.
+            6-8 CEO-in-Residence executives per annual cohort.
           </li>
           <li>
             <strong>Back-office infrastructure:</strong> Legal templates,
             financial model libraries, CRM setups, data-room management, and
-            post-acquisition playbooks &mdash; resources that a solo searcher
+            post-acquisition playbooks, resources that a solo searcher
             would spend months assembling.
           </li>
           <li>
@@ -121,7 +121,7 @@ export default function SearchFundAcceleratorsArticle() {
             <strong>Search Fund Accelerator (SFA):</strong> Founded in 2015 by
             Timothy Bovard, SFA is the original dedicated ETA accelerator. Now
             in its 10th cohort, SFA has worked with 46 searchers, 27 of whom
-            have become equity-owning CEOs after acquiring businesses &mdash; a
+            have become equity-owning CEOs after acquiring businesses, a
             roughly 85% success rate among those who have concluded their
             search. SFA provides 100% of search and acquisition capital from
             committed funds and eliminates the traditional 50% step-up on search
@@ -133,13 +133,13 @@ export default function SearchFundAcceleratorsArticle() {
             exited in 2016). Broadtree describes itself as &ldquo;halfway
             between a search fund and an operator-centric PE fund.&rdquo;
             Searchers are Broadtree employees during the search period, working
-            in cohorts of six to target $1M&ndash;$5M EBITDA companies. At
+            in cohorts of six to target $1M-$5M EBITDA companies. At
             least 10 acquisitions completed. Based in Charlotte, North Carolina.
           </li>
           <li>
-            <strong>The Brydon Group:</strong> Invests $10M&ndash;$20M in equity
+            <strong>The Brydon Group:</strong> Invests $10M-$20M in equity
             per platform and runs a CEO-in-Residence program selecting
-            6&ndash;8 executives annually. Over 30% of participants come from
+            6-8 executives annually. Over 30% of participants come from
             veteran or underrepresented-minority backgrounds. Focuses on
             software, business services, and healthcare services.
           </li>
@@ -162,7 +162,7 @@ export default function SearchFundAcceleratorsArticle() {
           <li>
             <strong>Halstatt Legacy Partners:</strong> Based in Naples, Florida.
             Provides 100% equity capital plus senior debt for acquisitions.
-            Targets companies with $1M&ndash;$5M EBITDA and takes a long-term
+            Targets companies with $1M-$5M EBITDA and takes a long-term
             ownership approach.
           </li>
           <li>
@@ -210,7 +210,7 @@ export default function SearchFundAcceleratorsArticle() {
           </li>
           <li>
             <strong>WAD Capital:</strong> Belgian accelerator targeting
-            businesses with &euro;1M&ndash;&euro;5M EBITDA. Uses a data-driven
+            businesses with &euro;1M-&euro;5M EBITDA. Uses a data-driven
             cohort approach with technology-enabled company identification,
             aligned with European legacy businesses.
           </li>
@@ -273,14 +273,14 @@ export default function SearchFundAcceleratorsArticle() {
 
         <p>
           <strong>Traditional search fund:</strong> You raise
-          $400K&ndash;$500K in search capital from 10&ndash;20 individual
+          $400K-$500K in search capital from 10-20 individual
           investors who receive the right (but not the obligation) to invest in
           your eventual acquisition. You control the search, but you also bear
           the full administrative burden: setting up the entity, managing
           investor communications, and building a deal pipeline from zero. The
-          2024 Stanford study found a 57&ndash;63% acquisition rate. On a
+          2024 Stanford study found a 57-63% acquisition rate. On a
           successful deal, the searcher typically earns up to 25% of equity
-          &mdash; 8% at closing with two additional 8% tranches vesting over
+          8% at closing with two additional 8% tranches vesting over
           time and upon achieving return targets. However, investors benefit
           from a portfolio effect across many searchers, while each individual
           searcher has exactly one shot. Learn more in our{" "}
@@ -294,7 +294,7 @@ export default function SearchFundAcceleratorsArticle() {
           <strong>Accelerator model:</strong> The accelerator provides search
           capital, a salary, infrastructure, and equity capital at closing. SFA,
           for example, gives searchers 25% equity in their acquired business
-          &mdash; the same ceiling as a traditional search &mdash; but removes
+         , the same ceiling as a traditional search, but removes
           the 50% step-up cost on search capital that traditional investors
           typically charge. In return, SFA asks searchers to contribute a small
           portion of their 25% into a &ldquo;Common Fund,&rdquo; receiving
@@ -310,8 +310,8 @@ export default function SearchFundAcceleratorsArticle() {
           entirely, using personal savings or a small commitment from partners
           to fund the search, then finance the acquisition with SBA 7(a) loans,
           seller notes, and minimal outside equity. Self-funded searchers
-          typically retain a majority ownership stake &mdash; 60&ndash;80% or
-          more &mdash; because they are not diluting across a large investor
+          typically retain a majority ownership stake, 60-80% or
+          more, because they are not diluting across a large investor
           group. The trade-off is personal financial risk during the search
           phase and lower acquisition capital ceilings. See our{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
@@ -331,13 +331,13 @@ export default function SearchFundAcceleratorsArticle() {
         <ol className={olClass}>
           <li>
             <strong>Searcher salary:</strong> Accelerators pay searchers
-            $80K&ndash;$120K during the search phase (roughly 12&ndash;24
+            $80K-$120K during the search phase (roughly 12-24
             months). This is funded from the accelerator&rsquo;s committed
             capital, not from a separately raised search fund.
           </li>
           <li>
             <strong>Equity at closing:</strong> Searchers typically receive
-            20&ndash;30% of equity in the acquired business. SFA offers 25%.
+            20-30% of equity in the acquired business. SFA offers 25%.
             Broadtree and similar PE-hybrid models may offer less upfront equity
             but provide a salary and infrastructure that reduce personal risk.
           </li>
@@ -346,20 +346,20 @@ export default function SearchFundAcceleratorsArticle() {
             programs ask searchers to share a portion of their equity with the
             platform (SFA&rsquo;s Common Fund model) or accept a lower equity
             percentage than a traditional searcher would receive. The Brydon
-            Group, which invests $10M&ndash;$20M per platform, negotiates equity
+            Group, which invests $10M-$20M per platform, negotiates equity
             terms closer to a traditional PE co-investment.
           </li>
           <li>
             <strong>No step-up on search costs:</strong> In a traditional search
             fund, investors typically receive a 50% step-up on their search
-            capital at closing &mdash; meaning $400K in search capital converts
+            capital at closing, meaning $400K in search capital converts
             to $600K of equity credit. Most accelerators eliminate this step-up,
             which preserves more equity for the searcher.
           </li>
           <li>
             <strong>Post-acquisition support:</strong> Accelerators typically
             provide ongoing board involvement, operational coaching, and access
-            to their network for 3&ndash;5 years after closing. This is a
+            to their network for 3-5 years after closing. This is a
             significant advantage over the traditional model, where investor
             involvement varies widely.
           </li>
@@ -381,15 +381,15 @@ export default function SearchFundAcceleratorsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Higher acquisition success rate:</strong> SFA reports 85%
-            versus roughly 57&ndash;63% in the traditional model. Structured
+            versus roughly 57-63% in the traditional model. Structured
             training, experienced mentors, and deal-flow infrastructure reduce
             the most common failure modes: poor sourcing discipline, confirmation
             bias during diligence, and inability to close financing.
           </li>
           <li>
             <strong>No independent fundraising required:</strong> You skip the
-            3&ndash;6 month process of raising search capital from individual
-            investors &mdash; a process that itself has a meaningful failure
+            3-6 month process of raising search capital from individual
+            investors, a process that itself has a meaningful failure
             rate.
           </li>
           <li>
@@ -410,8 +410,8 @@ export default function SearchFundAcceleratorsArticle() {
           </li>
           <li>
             <strong>Expanded access:</strong> Accelerators like BETA-i and DVG
-            Partners explicitly target underrepresented groups &mdash; Black
-            entrepreneurs, military veterans &mdash; who may face additional
+            Partners explicitly target underrepresented groups, Black
+            entrepreneurs, military veterans, who may face additional
             barriers in the traditional investor-dependent model.
           </li>
         </ul>
@@ -422,7 +422,7 @@ export default function SearchFundAcceleratorsArticle() {
             <strong>Less autonomy:</strong> You follow the accelerator&rsquo;s
             process, investment criteria, and timelines. If you want to pursue a
             deal outside their target profile (say, a $15M EBITDA company when
-            the accelerator targets $1M&ndash;$5M), you may be constrained.
+            the accelerator targets $1M-$5M), you may be constrained.
           </li>
           <li>
             <strong>Equity sharing:</strong> Giving up a portion of your equity
@@ -432,7 +432,7 @@ export default function SearchFundAcceleratorsArticle() {
           <li>
             <strong>Selectivity:</strong> Top accelerators accept a small
             fraction of applicants. SFA has worked with 46 searchers across 10
-            cohorts &mdash; roughly 4&ndash;5 per cohort. Getting in is
+            cohorts, roughly 4-5 per cohort. Getting in is
             competitive.
           </li>
           <li>
@@ -516,7 +516,7 @@ export default function SearchFundAcceleratorsArticle() {
             <strong>Exit expectations:</strong> Some accelerators (like
             permanent holding companies such as Chenmark and Permanent Equity)
             intend to hold acquired businesses indefinitely. Others expect a
-            3&ndash;7 year exit. Your own timeline and goals need to match.
+            3-7 year exit. Your own timeline and goals need to match.
           </li>
         </ol>
 
@@ -607,7 +607,7 @@ export default function SearchFundAcceleratorsArticle() {
               self-funded search
             </Link>{" "}
             instead if:</strong> You want majority ownership, you are targeting
-            smaller deals ($500K&ndash;$3M enterprise value) that do not fit
+            smaller deals ($500K-$3M enterprise value) that do not fit
             the accelerator&rsquo;s profile, or you have access to SBA 7(a)
             financing and can tolerate the personal guarantee risk. Self-funded
             searchers trade institutional support for greater equity and
@@ -636,9 +636,9 @@ export default function SearchFundAcceleratorsArticle() {
           traditional searchers?
         </h3>
         <p>
-          In most accelerator programs, searchers receive 20&ndash;30% equity
-          in their acquired business. SFA offers 25% &mdash; the same ceiling
-          as a traditional search fund &mdash; but without the 50% step-up on
+          In most accelerator programs, searchers receive 20-30% equity
+          in their acquired business. SFA offers 25%, the same ceiling
+          as a traditional search fund, but without the 50% step-up on
           search costs that traditional investors charge. The key difference is
           that some accelerators ask searchers to contribute a portion of their
           equity to a common pool (giving you diversification across cohort
@@ -652,12 +652,12 @@ export default function SearchFundAcceleratorsArticle() {
         </h3>
         <p>
           SFA reports an 85% acquisition success rate among searchers who have
-          concluded their search, compared to 57&ndash;63% for the traditional
+          concluded their search, compared to 57-63% for the traditional
           model (per the 2024 Stanford GSB study of 681 funds). However,
           accelerators are selective about who they admit, so their higher
           success rate partially reflects the quality of candidates they
           attract, not just the value of the program. Across the broader
-          accelerator market, published success data is limited &mdash;
+          accelerator market, published success data is limited , 
           always ask a specific program for its numbers before committing.
         </p>
 
@@ -682,14 +682,14 @@ export default function SearchFundAcceleratorsArticle() {
           How long does the accelerator process take from start to acquisition?
         </h3>
         <p>
-          Most accelerator-backed searches take 12&ndash;24 months from program
+          Most accelerator-backed searches take 12-24 months from program
           start to closing an acquisition. The initial boot camp or training
-          phase typically runs 2&ndash;6 weeks, followed by 10&ndash;20 months
+          phase typically runs 2-6 weeks, followed by 10-20 months
           of active search, due diligence, and deal closing. SFA begins each
           cohort with a three-week intensive, while Broadtree and similar
           programs integrate training into the search process more
           continuously. These timelines are comparable to the traditional model
-          (average 20&ndash;22 months), but accelerator searchers typically
+          (average 20-22 months), but accelerator searchers typically
           begin productive outreach sooner because the infrastructure is already
           in place.
         </p>

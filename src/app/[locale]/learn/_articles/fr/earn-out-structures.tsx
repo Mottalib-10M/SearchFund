@@ -10,8 +10,8 @@ export default function EarnOutStructuresFR() {
 
       <div className={bodyClass}>
         <p>
-          Le complément de prix &mdash; couramment désigné par son terme
-          anglo-saxon &laquo;&nbsp;earn-out&nbsp;&raquo; &mdash; est un
+          Le complément de prix, couramment désigné par son terme
+          anglo-saxon &laquo;&nbsp;earn-out&nbsp;&raquo;, est un
           mécanisme contractuel par lequel une fraction du prix de cession
           d&apos;une entreprise est conditionnée à la réalisation d&apos;objectifs
           de performance définis à l&apos;avance. Cet outil, devenu courant
@@ -447,10 +447,10 @@ export default function EarnOutStructuresFR() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>
-          Code civil &mdash; Articles 1104, 1163 et suivants (réforme du droit des obligations du 1er octobre 2016).
+          Code civil, Articles 1104, 1163 et suivants (réforme du droit des obligations du 1er octobre 2016).
         </li>
         <li>
-          Code général des impôts &mdash; Article 150-0 A (plus-values mobilières des particuliers).
+          Code général des impôts, Article 150-0 A (plus-values mobilières des particuliers).
         </li>
         <li>
           Bulletin Officiel des Finances Publiques (BOFiP) &mdash; <em>Régime fiscal des compléments de prix de cession de titres</em>, 2024.

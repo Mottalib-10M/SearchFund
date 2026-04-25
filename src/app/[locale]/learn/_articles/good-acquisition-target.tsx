@@ -15,7 +15,7 @@ export default function GoodAcquisitionTargetArticle() {
           and 4.5x return on invested capital, according to the 2024 Stanford
           Search Fund Study. Search funds that acquire the wrong company lose
           everything. The difference almost always traces back to target
-          selection&mdash;whether the business matched a proven set of
+          selection, whether the business matched a proven set of
           acquisition criteria before the searcher ever signed a letter of
           intent. This guide breaks down the 10 characteristics that separate
           high-performing search fund acquisitions from costly mistakes, drawn
@@ -34,7 +34,7 @@ export default function GoodAcquisitionTargetArticle() {
         <p>
           Of the 681 search funds tracked since 1984, roughly 63% completed an
           acquisition. Among those that closed deals, 69.5% generated positive
-          returns for investors&mdash;but 10.5% resulted in a total loss of
+          returns for investors, but 10.5% resulted in a total loss of
           capital. The median purchase price in the 2024 study was $14.4 million
           at a 7.0x EBITDA multiple, with a median company EBITDA of $2.2
           million at the time of acquisition. Those numbers leave almost no room
@@ -87,7 +87,7 @@ export default function GoodAcquisitionTargetArticle() {
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               recurring revenue models
             </Link>{" "}
-            for why acquirers pay a 1&ndash;3x EBITDA premium for contractual
+            for why acquirers pay a 1-3x EBITDA premium for contractual
             revenue streams.
           </li>
         </ul>
@@ -132,7 +132,7 @@ export default function GoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Switching costs:</strong> The strongest moats come from
-            embedded workflows&mdash;think ERP integrations, regulatory
+            embedded workflows, think ERP integrations, regulatory
             certifications tied to the vendor, or proprietary data that
             customers depend on daily.
           </li>
@@ -160,16 +160,16 @@ export default function GoodAcquisitionTargetArticle() {
           $2.2 million. This range exists for structural reasons: below $750K,
           the business cannot simultaneously service acquisition debt, pay a
           CEO salary, and fund reinvestment. Above $5M, the purchase price
-          (typically $15M&ndash;$35M at prevailing multiples) pushes beyond the
+          (typically $15M-$35M at prevailing multiples) pushes beyond the
           capital-raising capacity of most traditional search funds.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Minimum EBITDA:</strong> $750K&ndash;$1M for self-funded
+            <strong>Minimum EBITDA:</strong> $750K-$1M for self-funded
             searchers; $1.5M+ for traditional search funds.
           </li>
           <li>
-            <strong>Sweet spot:</strong> $1.5M&ndash;$4M provides enough cash
+            <strong>Sweet spot:</strong> $1.5M-$4M provides enough cash
             flow to absorb the inevitable post-acquisition surprises while
             leaving room for growth investment. See our guide on{" "}
             <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
@@ -179,12 +179,12 @@ export default function GoodAcquisitionTargetArticle() {
           <li>
             <strong>Margin floor:</strong> Target 15%+ EBITDA margins. The
             median margin among acquired search fund companies is 27%, and that
-            buffer matters when you are servicing 3&ndash;4x use.
+            buffer matters when you are servicing 3-4x use.
           </li>
           <li>
             <strong>Trend requirement:</strong> Flat or growing EBITDA over the
             trailing three to five years. A declining trend requires a specific,
-            actionable turnaround thesis&mdash;and even then, experienced search
+            actionable turnaround thesis, and even then, experienced search
             fund investors will push back.
           </li>
         </ul>
@@ -216,7 +216,7 @@ export default function GoodAcquisitionTargetArticle() {
             <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
               owner-dependent businesses
             </Link>{" "}
-            can lose 20&ndash;40% of revenue within 12 months of a transition if
+            can lose 20-40% of revenue within 12 months of a transition if
             the dependency is not resolved before closing.
           </li>
         </ul>
@@ -235,7 +235,7 @@ export default function GoodAcquisitionTargetArticle() {
           </li>
           <li>
             <strong>Acceptable:</strong> Capex between 5% and 10% of revenue
-            with predictable, schedulable replacement cycles&mdash;for example,
+            with predictable, schedulable replacement cycles, for example,
             a fleet of service vehicles replaced on a rolling five-year basis.
           </li>
           <li>
@@ -265,7 +265,7 @@ export default function GoodAcquisitionTargetArticle() {
           <li>
             <strong>Why it works:</strong> Fragmentation usually signals that
             the industry rewards local relationships, specialized knowledge, or
-            regional density over scale&mdash;exactly the conditions where a
+            regional density over scale, exactly the conditions where a
             hands-on CEO-operator can win.
           </li>
           <li>
@@ -305,15 +305,15 @@ export default function GoodAcquisitionTargetArticle() {
             <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
               seller financing
             </Link>{" "}
-            (typically 10&ndash;20% of the purchase price) and commit to a
-            6&ndash;12 month transition period, both of which reduce risk for
+            (typically 10-20% of the purchase price) and commit to a
+            6-12 month transition period, both of which reduce risk for
             the incoming operator.
           </li>
         </ul>
 
         <h3 className={h3Class}>9. Identifiable growth levers</h3>
         <p>
-          A good acquisition target is not a turnaround&mdash;it is a healthy
+          A good acquisition target is not a turnaround, it is a healthy
           business with untapped upside. The best targets have growth potential
           that the current owner has chosen not to pursue, often because they
           are nearing retirement and have stopped reinvesting.
@@ -331,7 +331,7 @@ export default function GoodAcquisitionTargetArticle() {
               Pricing optimization
             </Link>{" "}
             is often the single fastest value-creation lever. Many
-            owner-operators have not raised prices in years, leaving 5&ndash;15%
+            owner-operators have not raised prices in years, leaving 5-15%
             of margin on the table.
           </li>
           <li>
@@ -345,20 +345,20 @@ export default function GoodAcquisitionTargetArticle() {
             <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">
               Digital transformation
             </Link>{" "}
-            initiatives&mdash;implementing modern ERP, automating back-office
-            workflows, deploying field service management software&mdash;can
-            improve EBITDA margins by 5&ndash;15 percentage points in
+            initiatives, implementing modern ERP, automating back-office
+            workflows, deploying field service management software, can
+            improve EBITDA margins by 5-15 percentage points in
             traditionally-run businesses.
           </li>
         </ul>
 
-        <h3 className={h3Class}>10. Reasonable valuation (3&ndash;6x EBITDA)</h3>
+        <h3 className={h3Class}>10. Reasonable valuation (3-6x EBITDA)</h3>
         <p>
           The 2024 Stanford study reports a median acquisition multiple of 7.0x
           EBITDA, which includes software and tech-enabled service businesses
           that trade at premium valuations. For traditional service and
-          industrial businesses&mdash;the core of most search fund
-          strategies&mdash;the target range remains 3&ndash;6x EBITDA.
+          industrial businesses, the core of most search fund
+          strategies, the target range remains 3-6x EBITDA.
         </p>
         <ul className={ulClass}>
           <li>
@@ -400,16 +400,16 @@ export default function GoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Revenue declining more than 5% for two or more consecutive
-            years</strong>&mdash;indicates a structural problem, not a
+            years</strong>, indicates a structural problem, not a
             temporary dip.
           </li>
           <li>
-            <strong>Single customer above 30% of revenue</strong>&mdash;creates
+            <strong>Single customer above 30% of revenue</strong>, creates
             binary risk that no amount of operational skill can mitigate.
           </li>
           <li>
             <strong>Owner is the sole rainmaker with no second-in-command
-            </strong>&mdash;customer relationships, vendor terms, and
+            </strong>, customer relationships, vendor terms, and
             institutional knowledge walk out the door at closing.
           </li>
           <li>
@@ -419,18 +419,18 @@ export default function GoodAcquisitionTargetArticle() {
           </li>
           <li>
             <strong>Technology disruption threatening the core value
-            proposition</strong>&mdash;if a SaaS tool or AI workflow can
+            proposition</strong>, if a SaaS tool or AI workflow can
             replace the company&rsquo;s core service within five years, the
             terminal value assumption in your model is unreliable.
           </li>
           <li>
             <strong>Unresolved environmental or legal liabilities
-            </strong>&mdash;these can exceed the purchase price and are often
+            </strong>, these can exceed the purchase price and are often
             invisible without specialized due diligence.
           </li>
           <li>
             <strong>Seller demanding all-cash at close with no transition
-            period</strong>&mdash;signals misaligned incentives and eliminates
+            period</strong>, signals misaligned incentives and eliminates
             the alignment that seller financing provides.
           </li>
         </ul>
@@ -459,7 +459,7 @@ export default function GoodAcquisitionTargetArticle() {
           and 5% each to fragmentation, seller motivation, and growth levers.
         </p>
         <p>
-          <strong>Step 2: Score each criterion on a 1&ndash;5 scale.</strong>
+          <strong>Step 2: Score each criterion on a 1-5 scale.</strong>
         </p>
         <ul className={ulClass}>
           <li>
@@ -478,7 +478,7 @@ export default function GoodAcquisitionTargetArticle() {
           </li>
           <li>
             <strong>2 (Concerning):</strong> Below threshold but potentially
-            fixable within 12&ndash;18 months post-acquisition.
+            fixable within 12-18 months post-acquisition.
           </li>
           <li>
             <strong>1 (Disqualifying):</strong> Hard red flag. Unless every
@@ -489,7 +489,7 @@ export default function GoodAcquisitionTargetArticle() {
           <strong>Step 3: Calculate weighted scores and set a cutoff.</strong>{" "}
           Multiply each score by its weight, sum the results, and divide by the
           maximum possible score to get a percentage. Most experienced searchers
-          set a minimum threshold of 70%&mdash;any target below that threshold
+          set a minimum threshold of 70%, any target below that threshold
           goes into a &ldquo;pass&rdquo; pile unless a single extraordinary
           factor (such as an unbeatable price) justifies a deeper look.
         </p>
@@ -505,7 +505,7 @@ export default function GoodAcquisitionTargetArticle() {
           Good target vs. bad target: two scenarios
         </h2>
 
-        <h3 className={h3Class}>Scenario A: Strong target&mdash;regional fire protection services</h3>
+        <h3 className={h3Class}>Scenario A: Strong target, regional fire protection services</h3>
         <ul className={ulClass}>
           <li>$2.4M EBITDA on $9M revenue (27% margin)</li>
           <li>78% of revenue from recurring inspection and maintenance contracts</li>
@@ -513,18 +513,18 @@ export default function GoodAcquisitionTargetArticle() {
           <li>Owner is 64, wants to retire, willing to stay 12 months and carry 15% seller note</li>
           <li>Three managers (operations, sales, admin) with 8+ years tenure each</li>
           <li>Capex is 3% of revenue (service vans replaced on a five-year cycle)</li>
-          <li>No website, no CRM, no outbound sales&mdash;all growth has been referral-based</li>
+          <li>No website, no CRM, no outbound sales, all growth has been referral-based</li>
           <li>Asking price: 4.8x EBITDA ($11.5M)</li>
           <li><strong>Rubric score: 92%.</strong> Proceed to LOI.</li>
         </ul>
 
-        <h3 className={h3Class}>Scenario B: Risky target&mdash;custom metal fabrication shop</h3>
+        <h3 className={h3Class}>Scenario B: Risky target, custom metal fabrication shop</h3>
         <ul className={ulClass}>
           <li>$1.8M EBITDA on $12M revenue (15% margin)</li>
-          <li>Zero recurring revenue&mdash;100% project-based, re-bid quarterly</li>
+          <li>Zero recurring revenue, 100% project-based, re-bid quarterly</li>
           <li>Top customer (a single general contractor) is 35% of revenue</li>
           <li>Owner is the sole estimator, project manager, and client relationship holder</li>
-          <li>No middle management&mdash;foremen report directly to the owner</li>
+          <li>No middle management, foremen report directly to the owner</li>
           <li>Capex is 12% of revenue (CNC machines, welding equipment, facility maintenance)</li>
           <li>Revenue declined 8% last year due to a lost contract</li>
           <li>Asking price: 5.5x EBITDA ($9.9M)</li>
@@ -601,7 +601,7 @@ export default function GoodAcquisitionTargetArticle() {
           primary client relationship holder, the business effectively
           disappears when they leave. The key test: can the business operate at
           80%+ of current revenue for 90 days without the owner present? If
-          yes, the dependency is manageable. If no, factor in 12&ndash;18
+          yes, the dependency is manageable. If no, factor in 12-18
           months of transition overlap and price the risk into your offer. See
           our full analysis of{" "}
           <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
@@ -618,7 +618,7 @@ export default function GoodAcquisitionTargetArticle() {
           least 7 of the 10 criteria, with no more than one score in the
           &ldquo;disqualifying&rdquo; range. Certain criteria are harder to fix
           post-acquisition than others. Customer concentration, capital
-          intensity, and industry fragmentation are structural&mdash;they rarely
+          intensity, and industry fragmentation are structural, they rarely
           change within a typical five-to-seven-year hold period. Revenue
           quality, management depth, and growth levers, by contrast, are areas
           where a strong operator can create meaningful improvement. Weight your
@@ -632,7 +632,7 @@ export default function GoodAcquisitionTargetArticle() {
           No. The best search fund acquisitions frequently come from proprietary
           outreach to owners who had not yet listed their business. Among the
           roughly 12 million boomer-owned businesses in the U.S., fewer than a
-          third have a formal succession plan&mdash;meaning millions of owners
+          third have a formal succession plan, meaning millions of owners
           would consider a sale if the right buyer approached them. Proprietary{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             deal sourcing
@@ -667,7 +667,7 @@ export default function GoodAcquisitionTargetArticle() {
         {/* ------------------------------------------------------------------ */}
         <h2 className={h2Class}>Start building your target profile today</h2>
         <p>
-          The 10 criteria above are not theoretical&mdash;they are the
+          The 10 criteria above are not theoretical, they are the
           distillation of 681 search fund outcomes tracked by Stanford over
           four decades. Searchers who internalize these standards before they
           start reviewing deals make faster decisions, waste less time on

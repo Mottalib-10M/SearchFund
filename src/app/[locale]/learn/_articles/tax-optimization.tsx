@@ -326,13 +326,13 @@ export default function TaxOptimizationArticle() {
           According to Stanford GSB&apos;s Search Fund Primer, the most
           common and costly tax mistake is waiting until after the LOI is
           signed to engage a tax advisor. By that point, critical structural
-          decisions &mdash; entity type, asset vs. stock, purchase price
-          allocation &mdash; may already be locked in. Engage a tax advisor
+          decisions, entity type, asset vs. stock, purchase price
+          allocation, may already be locked in. Engage a tax advisor
           during the{" "}
           <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">entity formation stage</Link>,
-          ideally 2&ndash;4 weeks before submitting your{" "}
+          ideally 2-4 weeks before submitting your{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
-          Budget $10,000&ndash;$25,000 for US tax advisory and EUR 15,000&ndash;EUR
+          Budget $10,000-$25,000 for US tax advisory and EUR 15,000-EUR
           35,000 in Europe. The ROI on early tax planning is typically 10x
           or higher over the life of the investment, as the compounding
           effect of correct structuring amplifies each year.
@@ -358,7 +358,7 @@ export default function TaxOptimizationArticle() {
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>Internal Revenue Service, <em>IRC Sections 197, 338(h)(10), and 1202 &mdash; Tax Treatment of Business Acquisitions</em> (2024)</li>
+          <li>Internal Revenue Service, <em>IRC Sections 197, 338(h)(10), and 1202, Tax Treatment of Business Acquisitions</em> (2024)</li>
           <li>PwC, <em>Worldwide Tax Summaries: France Dutreil Pact and Cross-Border Structuring</em> (2024)</li>
           <li>Stanford Graduate School of Business, <em>Search Fund Primer: Tax Planning Best Practices</em> (2023)</li>
         </ul>

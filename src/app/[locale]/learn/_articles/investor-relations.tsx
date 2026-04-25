@@ -114,7 +114,7 @@ export default function InvestorRelationsArticle() {
 
         <h3 className={h3Class}>Format, tone, and timing</h3>
         <p>
-          The ideal monthly update is a short, well-structured email &mdash;
+          The ideal monthly update is a short, well-structured email , 
           not a PDF attachment that investors must open separately. Keep it to
           one to two pages of text. Use clear section headings so investors can
           scan quickly. Write in the first person, in a tone that is honest,
@@ -124,7 +124,7 @@ export default function InvestorRelationsArticle() {
           PR department.
         </p>
         <p>
-          Send the update on the same date each month &mdash; the first Monday,
+          Send the update on the same date each month, the first Monday,
           the 5th, or the 15th. Consistency matters because it signals
           discipline and respect for investors&apos; time. If you miss a month
           or send it late, it communicates disorganization or, worse, that
@@ -140,7 +140,7 @@ export default function InvestorRelationsArticle() {
           and what you learned. Investors who have backed multiple search funds
           understand that most months produce no breakthroughs. They are
           evaluating your judgment, your resilience, and your communication
-          skills &mdash; not just your deal flow. An honest update that says
+          skills, not just your deal flow. An honest update that says
           &ldquo;this was a slow month&rdquo; builds more trust than an
           artificially optimistic update that inflates mediocre activity.
         </p>
@@ -159,7 +159,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Failed deals are a normal part of the search process. Most
           searchers submit three to five LOIs before closing an acquisition.
-          When a deal falls through, communicate it promptly &mdash; do
+          When a deal falls through, communicate it promptly, do
           not wait for the monthly update if the deal was well-known to
           investors. Send a brief email within 48 hours explaining what
           happened, why the deal did not close (price disagreement,
@@ -178,7 +178,7 @@ export default function InvestorRelationsArticle() {
           update. Explain what you have learned about the market, how you
           have refined your thesis, and what changes you are making to your
           sourcing strategy. If you need additional search capital to extend
-          the timeline, raise the topic early &mdash; well before the existing
+          the timeline, raise the topic early, well before the existing
           capital runs out. Most investor groups will consider a modest
           extension (three to six months of additional capital) if the
           searcher has demonstrated diligence, learning, and a credible
@@ -196,7 +196,7 @@ export default function InvestorRelationsArticle() {
           community is small, and information travels fast. Proactive
           disclosure demonstrates integrity and gives investors the
           opportunity to help before problems escalate. The worst outcome
-          is not the bad news itself &mdash; it is the perception that you
+          is not the bad news itself, it is the perception that you
           tried to hide it.
         </p>
 
@@ -283,7 +283,7 @@ export default function InvestorRelationsArticle() {
           marketing, technology, HR) can provide targeted guidance during
           your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
-          and beyond. The key is asking specifically and respectfully &mdash;
+          and beyond. The key is asking specifically and respectfully , 
           investors are busy, so make every request count and always follow
           up to share how their advice was applied.
         </p>
@@ -303,7 +303,7 @@ export default function InvestorRelationsArticle() {
           &ldquo;Day One&rdquo; update that covers the acquisition summary
           (final terms, financing structure, key metrics), your initial
           impressions of the business, your 90-day priorities, and any
-          immediate surprises &mdash; positive or negative. This update
+          immediate surprises, positive or negative. This update
           sets the baseline against which all future performance will be
           measured, so be honest and thorough. Subsequent monthly updates
           should follow the post-acquisition template described above,
@@ -343,8 +343,8 @@ export default function InvestorRelationsArticle() {
           want earlier liquidity. Understanding these preferences and
           balancing them against the company&apos;s optimal trajectory is
           a key responsibility of the CEO. Regular updates on exit
-          readiness &mdash; including audited financials, management team
-          depth, customer diversification, and growth trajectory &mdash;
+          readiness: including audited financials, management team
+          depth, customer diversification, and growth trajectory , 
           give investors confidence that you are building a business
           designed to be sold at an attractive multiple.
         </p>
@@ -482,7 +482,7 @@ export default function InvestorRelationsArticle() {
 
         <h3 className={h3Class}>How often should I send investor updates?</h3>
         <p>
-          Monthly written updates are the backbone of search fund investor relations during both the search phase and post-acquisition. According to Stanford GSB&rsquo;s Search Fund Primer, the best-performing searchers send updates on the same date each month &mdash; the first Monday, the 5th, or the 15th &mdash; because consistency signals discipline and respect for investors&rsquo; time. During the search phase, updates should cover pipeline activity, top opportunities, LOI status, and market observations. Post-acquisition, they shift to financial highlights, KPIs, operational updates, and strategic priorities. Supplement monthly written updates with quarterly board calls (60&ndash;90 minutes) and an annual in-person meeting with all investors. If a material event occurs (positive or negative), communicate it immediately rather than waiting for the scheduled update.
+          Monthly written updates are the backbone of search fund investor relations during both the search phase and post-acquisition. According to Stanford GSB&rsquo;s Search Fund Primer, the best-performing searchers send updates on the same date each month, the first Monday, the 5th, or the 15th, because consistency signals discipline and respect for investors&rsquo; time. During the search phase, updates should cover pipeline activity, top opportunities, LOI status, and market observations. Post-acquisition, they shift to financial highlights, KPIs, operational updates, and strategic priorities. Supplement monthly written updates with quarterly board calls (60-90 minutes) and an annual in-person meeting with all investors. If a material event occurs (positive or negative), communicate it immediately rather than waiting for the scheduled update.
         </p>
 
         <h3 className={h3Class}>How should I deliver bad news to investors?</h3>
@@ -494,7 +494,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Post-acquisition, investors expect professional-grade monthly financial reporting including an income statement, balance sheet, and cash flow statement with comparisons to budget, prior year, and year-to-date figures. According to Stanford GSB&rsquo;s data on search fund best practices, the highest-rated CEOs also provide a{" "}
           <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link>{" "}
-          with 5&ndash;10 operational metrics tracked consistently each month (customer retention, pipeline value, employee turnover, DSCR). Quarterly financials should be reviewed by an external accountant, and annual financials should be audited if required by the operating agreement or if the business exceeds certain revenue thresholds. Investing in a competent controller or fractional CFO early is essential if the business did not have reliable financial reporting before the acquisition.
+          with 5-10 operational metrics tracked consistently each month (customer retention, pipeline value, employee turnover, DSCR). Quarterly financials should be reviewed by an external accountant, and annual financials should be audited if required by the operating agreement or if the business exceeds certain revenue thresholds. Investing in a competent controller or fractional CFO early is essential if the business did not have reliable financial reporting before the acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

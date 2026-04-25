@@ -10,8 +10,8 @@ export default function ETAAustriaArticle() {
       <div className={bodyClass}>
         <p>
           Austria occupies a unique position in the European acquisition market as the
-          smallest member of the DACH region&mdash;the economic zone comprising Germany,
-          Austria, and Switzerland&mdash;yet one with outsized potential for search fund
+          smallest member of the DACH region, the economic zone comprising Germany,
+          Austria, and Switzerland, yet one with outsized potential for search fund
           entrepreneurs. With over 360,000 SMEs, a family-owned Mittelstand culture closely
           mirroring that of its <Link href="/learn/eta-germany" className="text-apple-accent hover:underline">German neighbor</Link>,
           EU membership, and a stable, high-income economy, Austria offers a compelling
@@ -110,7 +110,7 @@ export default function ETAAustriaArticle() {
           incorporated holding GmbH (HoldCo) that acquires the target operating company.
           The choice between a share deal (Anteilskauf) and an asset deal
           (Unternehmenskauf) has significant legal and tax implications. Share deals are
-          more common for GmbH acquisitions because they are simpler to execute&mdash;the
+          more common for GmbH acquisitions because they are simpler to execute, the
           buyer acquires the existing legal entity with all its contracts, employees, and
           liabilities. Asset deals, where the buyer acquires individual assets and
           assumes selected liabilities, offer more flexibility in cherry-picking assets
@@ -132,8 +132,8 @@ export default function ETAAustriaArticle() {
         <h3 className={h3Class}>Austrian banks</h3>
         <p>
           Austria&rsquo;s banking sector is experienced in financing SME transactions.
-          The three largest banking groups&mdash;Erste Group, Raiffeisen Bank International,
-          and UniCredit Bank Austria&mdash;all maintain dedicated corporate and SME banking
+          The three largest banking groups, Erste Group, Raiffeisen Bank International,
+          and UniCredit Bank Austria, all maintain dedicated corporate and SME banking
           divisions with expertise in acquisition financing. Regional banks, including the
           Sparkassen network (Erste Group affiliates) and the Raiffeisen cooperative banks,
           are deeply embedded in local economies and often have existing relationships
@@ -176,7 +176,7 @@ export default function ETAAustriaArticle() {
           Seller financing is common in Austrian SME transactions, particularly when
           the seller is motivated by finding the right successor rather than
           maximizing the upfront purchase price. Austrian business owners are often
-          willing to provide subordinated loans of 15&ndash;25% of the transaction
+          willing to provide subordinated loans of 15-25% of the transaction
           value, structured with deferred repayment terms of two to five years. This
           bridges the financing gap and aligns the seller&rsquo;s
           incentives with the buyer&rsquo;s success during the critical transition
@@ -195,7 +195,7 @@ export default function ETAAustriaArticle() {
         <p>
           Austria&rsquo;s corporate income tax rate stands at 23%, having been reduced
           from 25% as part of a phased reform completed in 2024. This rate applies
-          uniformly across all of Austria&mdash;unlike Germany, where the effective
+          uniformly across all of Austria, unlike Germany, where the effective
           corporate tax rate varies by municipality due to the Gewerbesteuer (trade
           tax), or Switzerland, where cantonal rates differ dramatically. The flat,
           predictable 23% rate simplifies tax planning and makes Austria competitive
@@ -231,7 +231,7 @@ export default function ETAAustriaArticle() {
         <p>
           Austria does not levy a general inheritance or gift tax on business
           transfers, which was abolished in 2008. However, transfers of real
-          estate&mdash;whether by sale, gift, or inheritance&mdash;are subject to
+          estate, whether by sale, gift, or inheritance, are subject to
           the Grunderwerbsteuer (real estate transfer tax) at a rate of 3.5% for
           arm&rsquo;s-length transactions (reduced to 2% for transfers within
           families, with a 0.5% registration fee). For businesses with significant
@@ -282,7 +282,7 @@ export default function ETAAustriaArticle() {
           recurring revenue models, high switching costs, and strong demand driven
           by the digital transformation of Austria&rsquo;s traditional industrial
           base. Technology services companies tend to command higher valuation
-          multiples (5&ndash;8x EBITDA) but offer attractive organic growth
+          multiples (5-8x EBITDA) but offer attractive organic growth
           trajectories.
         </p>
 
@@ -400,8 +400,8 @@ export default function ETAAustriaArticle() {
           Austria&rsquo;s search fund and ETA ecosystem is nascent but developing.
           Unlike the more established scenes in Germany, the UK, or Spain, Austria
           has yet to see a significant number of completed search fund transactions.
-          This represents both a challenge&mdash;fewer local mentors, investors,
-          and case studies to draw from&mdash;and a significant opportunity for
+          This represents both a challenge, fewer local mentors, investors,
+          and case studies to draw from, and a significant opportunity for
           first movers.
         </p>
         <p>
@@ -410,8 +410,8 @@ export default function ETAAustriaArticle() {
           acquisition into its curriculum and research. Other Austrian universities,
           including the University of Innsbruck and Johannes Kepler University Linz,
           have active entrepreneurship programs that could serve as pipelines for
-          future searchers. The proximity to Germany&rsquo;s growing ETA community&mdash;and
-          the shared language&mdash;means that Austrian searchers can tap into
+          future searchers. The proximity to Germany&rsquo;s growing ETA community, and
+          the shared language, means that Austrian searchers can tap into
           German-language ETA networks, conferences, and investor groups while
           focusing their deal search on Austria.
         </p>
@@ -431,19 +431,19 @@ export default function ETAAustriaArticle() {
         <h3 className={h3Class}>What are typical SME valuation multiples in Austria?</h3>
 
         <p>
-          Austrian SME valuations typically range from 3.5x to 6x EBITDA, positioning the market between Germany (where comparable businesses trade at similar or slightly lower multiples) and Switzerland (where premium valuations of 6&ndash;8x are common). Technology and healthcare businesses command higher multiples at the upper end of this range (5&ndash;7x), while traditional manufacturing and construction businesses trade at 3.5&ndash;5x. According to data from Deloitte and the Austrian Federal Economic Chamber (WKO), the limited presence of institutional private equity buyers in the Austrian SME segment helps keep multiples reasonable, creating favorable entry points for search fund acquirers compared to more competitive Western European markets.
+          Austrian SME valuations typically range from 3.5x to 6x EBITDA, positioning the market between Germany (where comparable businesses trade at similar or slightly lower multiples) and Switzerland (where premium valuations of 6-8x are common). Technology and healthcare businesses command higher multiples at the upper end of this range (5-7x), while traditional manufacturing and construction businesses trade at 3.5-5x. According to data from Deloitte and the Austrian Federal Economic Chamber (WKO), the limited presence of institutional private equity buyers in the Austrian SME segment helps keep multiples reasonable, creating favorable entry points for search fund acquirers compared to more competitive Western European markets.
         </p>
 
         <h3 className={h3Class}>How does the Austrian AWS guarantee program work for acquisition financing?</h3>
 
         <p>
-          Austria Wirtschaftsservice (AWS) can guarantee up to 80% of the acquisition loan amount, dramatically reducing the risk for the lending bank and making it possible for first-time acquirers to secure financing. AWS guarantees are available for business succession transactions and can be combined with ERP (European Recovery Program) loans that offer subsidized below-market interest rates and favorable repayment terms including initial grace periods. The standard financing blueprint for an Austrian search fund acquisition combines an ERP loan from AWS, a senior loan from a commercial bank (with an AWS guarantee), seller financing of 15&ndash;25%, and an equity contribution from the searcher and investors. This structure can reduce the required equity injection to 20&ndash;30% of the total transaction value.
+          Austria Wirtschaftsservice (AWS) can guarantee up to 80% of the acquisition loan amount, dramatically reducing the risk for the lending bank and making it possible for first-time acquirers to secure financing. AWS guarantees are available for business succession transactions and can be combined with ERP (European Recovery Program) loans that offer subsidized below-market interest rates and favorable repayment terms including initial grace periods. The standard financing blueprint for an Austrian search fund acquisition combines an ERP loan from AWS, a senior loan from a commercial bank (with an AWS guarantee), seller financing of 15-25%, and an equity contribution from the searcher and investors. This structure can reduce the required equity injection to 20-30% of the total transaction value.
         </p>
 
         <h3 className={h3Class}>Is German language fluency required to conduct ETA in Austria?</h3>
 
         <p>
-          Yes&mdash;German fluency is essential for deal-making, relationship building with business owners, and post-acquisition operations in Austria. Business documents, contracts, regulatory filings, and court proceedings are all conducted in German. While Austrian German (Osterreichisches Deutsch) differs from standard German in vocabulary, pronunciation, and certain legal terms, the differences are manageable for anyone fluent in standard German. For DACH-focused searchers already operating in Germany, the linguistic transition to Austria is seamless. Non-German-speaking searchers face a significant disadvantage and would need either a local co-searcher, extensive language training to B2 level or above, or a bilingual operating partner.
+          Yes, German fluency is essential for deal-making, relationship building with business owners, and post-acquisition operations in Austria. Business documents, contracts, regulatory filings, and court proceedings are all conducted in German. While Austrian German (Osterreichisches Deutsch) differs from standard German in vocabulary, pronunciation, and certain legal terms, the differences are manageable for anyone fluent in standard German. For DACH-focused searchers already operating in Germany, the linguistic transition to Austria is seamless. Non-German-speaking searchers face a significant disadvantage and would need either a local co-searcher, extensive language training to B2 level or above, or a bilingual operating partner.
         </p>
 
         <h2 className={h2Class}>Sources</h2>

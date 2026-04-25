@@ -375,8 +375,8 @@ export default function ETAvsRealEstateArticle() {
         <h3 className={h3Class}>How do search fund returns compare to real estate investing?</h3>
         <p>
           Search funds have generated approximately 35% aggregate IRR
-          according to Stanford GSB data, compared to 8&ndash;12% for
-          diversified real estate portfolios and 15&ndash;20% for value-add
+          according to Stanford GSB data, compared to 8-12% for
+          diversified real estate portfolios and 15-20% for value-add
           real estate strategies. However, real estate offers tangible
           collateral, more favorable financing terms (30-year mortgages at
           high LTV), and more predictable cash flows. The right choice depends

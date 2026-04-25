@@ -12,14 +12,14 @@ export default function ETAAfricaArticle() {
       <div className={bodyClass}>
         <p>
           Africa is the world&rsquo;s youngest and fastest-growing continent. With a population
-          exceeding 1.4 billion&mdash;projected to double by 2050&mdash;and a rapidly expanding
+          exceeding 1.4 billion, projected to double by 2050, and a rapidly expanding
           middle class, the continent presents a once-in-a-generation opportunity for{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             Entrepreneurship Through Acquisition
           </Link>. While{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European</Link>{" "}
           and North American search fund ecosystems have matured over decades, Africa&rsquo;s ETA
-          market is nascent&mdash;meaning early movers face less competition, larger information
+          market is nascent, meaning early movers face less competition, larger information
           asymmetries, and the chance to shape an entirely new asset class on the continent.
         </p>
 
@@ -36,9 +36,9 @@ export default function ETAAfricaArticle() {
             consumer demand, urbanization, and a growing labor force.
           </li>
           <li>
-            <strong>GDP growth:</strong> Sub-Saharan Africa averaged 3.5&ndash;4% annual GDP
-            growth in the decade preceding the pandemic, and several economies&mdash;including
-            C&ocirc;te d&rsquo;Ivoire, Rwanda, and Ethiopia&mdash;consistently exceeded 6%.
+            <strong>GDP growth:</strong> Sub-Saharan Africa averaged 3.5-4% annual GDP
+            growth in the decade preceding the pandemic, and several economies, including
+            C&ocirc;te d&rsquo;Ivoire, Rwanda, and Ethiopia, consistently exceeded 6%.
           </li>
           <li>
             <strong>Urbanization:</strong> Lagos, Nairobi, Johannesburg, Cairo, and Accra are
@@ -65,7 +65,7 @@ export default function ETAAfricaArticle() {
           Nigeria is Africa&rsquo;s largest economy by GDP and its most populous nation with over
           220 million people. The country is home to an estimated 40 million MSMEs, though the vast
           majority are informal micro-businesses. The addressable ETA market sits in the formalized
-          SME segment&mdash;companies with annual revenues between $500,000 and $10 million, audited
+          SME segment, companies with annual revenues between $500,000 and $10 million, audited
           financials, and established operations.
         </p>
         <p>
@@ -78,8 +78,8 @@ export default function ETAAfricaArticle() {
 
         <h3 className={h3Class}>Kenya</h3>
         <p>
-          Kenya is East Africa&rsquo;s economic hub. Nairobi&mdash;often called &ldquo;Silicon
-          Savannah&rdquo;&mdash;hosts dozens of multinational regional headquarters and a vibrant
+          Kenya is East Africa&rsquo;s economic hub. Nairobi, often called &ldquo;Silicon
+          Savannah&rdquo;, hosts dozens of multinational regional headquarters and a vibrant
           tech startup ecosystem. Attractive ETA sectors include technology-enabled services,
           agro-processing, tourism and hospitality, healthcare, and professional services.
           Membership in the East African Community (EAC) provides access to a combined market of
@@ -95,7 +95,7 @@ export default function ETAAfricaArticle() {
           plays a central role in business ownership and procurement, creating both opportunities and
           complexities for searchers. Key sectors include B2B services, specialist manufacturing,
           logistics, mining services, insurance brokerage, and private healthcare. The legal
-          framework&mdash;based on Roman-Dutch law with strong English common law influence&mdash;provides
+          framework, based on Roman-Dutch law with strong English common law influence, provides
           predictable transaction structures.
         </p>
 
@@ -124,14 +124,14 @@ export default function ETAAfricaArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>MBA programs:</strong> Africa&rsquo;s leading business schools&mdash;Lagos
+            <strong>MBA programs:</strong> Africa&rsquo;s leading business schools, Lagos
             Business School, Strathmore (Nairobi), UCT Graduate School of Business, and INSEAD
-            Africa initiatives&mdash;are introducing ETA concepts into their curricula.
+            Africa initiatives, are introducing ETA concepts into their curricula.
           </li>
           <li>
             <strong>Investor interest:</strong> DFIs, impact investors, and family offices
             increasingly recognize ETA as a mechanism to address Africa&rsquo;s &ldquo;missing
-            middle&rdquo;&mdash;the gap between informal micro-enterprises and large corporations.
+            middle&rdquo;, the gap between informal micro-enterprises and large corporations.
           </li>
           <li>
             <strong>Conference presence:</strong> African searchers and investors are appearing at
@@ -150,7 +150,7 @@ export default function ETAAfricaArticle() {
           the post-independence generation of entrepreneurs in the 1960s through 1980s. Founders are
           now in their 60s, 70s, and 80s, creating an unprecedented succession wave. Many
           second-generation family members have pursued professional careers, emigrated, or lack
-          interest in operating the business&mdash;precisely the dynamic that makes ETA viable.
+          interest in operating the business, precisely the dynamic that makes ETA viable.
         </p>
         <ul className={ulClass}>
           <li>
@@ -163,7 +163,7 @@ export default function ETAAfricaArticle() {
           </li>
           <li>
             <strong>Informal governance:</strong> Many family businesses lack audited financials or
-            clear separation between personal and business finances&mdash;creating due diligence
+            clear separation between personal and business finances, creating due diligence
             challenges but also value creation opportunities.
           </li>
           <li>
@@ -191,8 +191,8 @@ export default function ETAAfricaArticle() {
             federations maintain member directories and host events where owners can be approached.
           </li>
           <li>
-            <strong>Banking relationships:</strong> Commercial banks serving SMEs&mdash;Standard
-            Bank, Equity Bank, Access Bank, Ecobank&mdash;can be sources of introductions.
+            <strong>Banking relationships:</strong> Commercial banks serving SMEs, Standard
+            Bank, Equity Bank, Access Bank, Ecobank, can be sources of introductions.
           </li>
           <li>
             <strong>Diaspora networks:</strong> African diaspora communities in London, New York,
@@ -223,8 +223,8 @@ export default function ETAAfricaArticle() {
         <h3 className={h3Class}>Development finance institutions (DFIs)</h3>
         <p>
           The IFC, British International Investment, African Development Bank, Proparco, DEG, and
-          FMO provide patient capital&mdash;subordinated debt, mezzanine, and equity
-          co-investments&mdash;at rates and tenors commercial banks cannot match, often with
+          FMO provide patient capital, subordinated debt, mezzanine, and equity
+          co-investments, at rates and tenors commercial banks cannot match, often with
           mandates to support SME ownership transitions.
         </p>
 
@@ -239,7 +239,7 @@ export default function ETAAfricaArticle() {
         <h3 className={h3Class}>Seller financing</h3>
         <p>
           Seller financing is even more critical in Africa than in developed markets. Structuring
-          20&ndash;40% of the purchase price as deferred consideration or vendor notes can bridge
+          20-40% of the purchase price as deferred consideration or vendor notes can bridge
           the financing gap. African sellers may be receptive to installment payments, particularly
           when the arrangement provides ongoing income during retirement.
         </p>
@@ -291,13 +291,13 @@ export default function ETAAfricaArticle() {
         <p>
           OHADA provides a unified legal framework across 17 francophone countries including Senegal,
           C&ocirc;te d&rsquo;Ivoire, Cameroon, and the DRC. The Uniform Acts govern company law,
-          securities, insolvency, and arbitration&mdash;creating predictability for cross-border
+          securities, insolvency, and arbitration, creating predictability for cross-border
           transactions.
         </p>
 
         <h2 className={h2Class}>Cultural considerations</h2>
         <p>
-          Cultural intelligence is not optional in African ETA&mdash;it is a prerequisite for
+          Cultural intelligence is not optional in African ETA, it is a prerequisite for
           success.
         </p>
         <ul className={ulClass}>
@@ -312,8 +312,8 @@ export default function ETAAfricaArticle() {
             business&rsquo;s history is essential.
           </li>
           <li>
-            <strong>Extended timelines:</strong> Deals can take 12&ndash;24 months from first
-            meeting to close&mdash;significantly longer than in developed markets.
+            <strong>Extended timelines:</strong> Deals can take 12-24 months from first
+            meeting to close, significantly longer than in developed markets.
           </li>
           <li>
             <strong>Language and presence:</strong> Local languages matter enormously for trust with
@@ -355,7 +355,7 @@ export default function ETAAfricaArticle() {
             multinationals provides frameworks that dramatically improve acquired SME governance.
           </li>
           <li>
-            <strong>Personal mission:</strong> Many describe their return as a calling&mdash;a
+            <strong>Personal mission:</strong> Many describe their return as a calling, a
             desire to contribute to their country&rsquo;s development while building personal
             wealth, sustaining them through frontier-market challenges.
           </li>
@@ -363,10 +363,10 @@ export default function ETAAfricaArticle() {
 
         <h2 className={h2Class}>Success stories and emerging models</h2>
         <ul className={ulClass}>
-          <li><strong>Self-funded acquisitions:</strong> African entrepreneurs have executed acquisitions using personal savings, family capital, and seller financing&mdash;functionally identical to the ETA model even without the label.</li>
+          <li><strong>Self-funded acquisitions:</strong> African entrepreneurs have executed acquisitions using personal savings, family capital, and seller financing, functionally identical to the ETA model even without the label.</li>
           <li><strong>DFI-backed management buyins:</strong> Programs placing experienced operators into SMEs as owner-managers with institutional capital backing.</li>
           <li><strong>Franchise acquisitions:</strong> Searchers acquiring master franchise rights for international brands as platforms for multi-unit operations.</li>
-          <li><strong>Cross-border consolidation:</strong> Buy-and-build strategies across borders&mdash;e.g., acquiring a Kenyan logistics company and expanding into Uganda, Tanzania, and Rwanda through the EAC.</li>
+          <li><strong>Cross-border consolidation:</strong> Buy-and-build strategies across borders, e.g., acquiring a Kenyan logistics company and expanding into Uganda, Tanzania, and Rwanda through the EAC.</li>
         </ul>
 
         <h2 className={h2Class}>Challenges: governance, currency, and infrastructure</h2>
@@ -389,13 +389,13 @@ export default function ETAAfricaArticle() {
         <h3 className={h3Class}>Infrastructure deficits</h3>
         <p>
           Nigeria&rsquo;s chronic power shortages force most businesses to operate diesel
-          generators, adding 20&ndash;40% to operating costs. Road infrastructure is poor across
+          generators, adding 20-40% to operating costs. Road infrastructure is poor across
           much of the continent. Factor infrastructure constraints into valuation assumptions.
         </p>
 
         <h3 className={h3Class}>Regulatory complexity and talent retention</h3>
         <p>
-          Many countries rank poorly on ease of doing business metrics&mdash;engaging experienced
+          Many countries rank poorly on ease of doing business metrics, engaging experienced
           local counsel is essential. Africa&rsquo;s brain drain means skilled professionals may
           emigrate or be recruited away by multinationals. Strong culture, competitive compensation,
           and employee development are critical retention strategies.
@@ -413,7 +413,7 @@ export default function ETAAfricaArticle() {
             economies.
           </li>
           <li>
-            <strong>Build a local advisory board:</strong> Assemble trusted local advisors&mdash;a
+            <strong>Build a local advisory board:</strong> Assemble trusted local advisors, a
             lawyer, an accountant, a senior business leader, and ideally an entrepreneur who has
             navigated a similar transition.
           </li>
@@ -422,8 +422,8 @@ export default function ETAAfricaArticle() {
             Combine international investor equity, DFI facilities, seller financing, and earn-outs.
           </li>
           <li>
-            <strong>Extend your timeline:</strong> Plan for 18&ndash;30 months of search, compared
-            to 12&ndash;24 months in developed markets.
+            <strong>Extend your timeline:</strong> Plan for 18-30 months of search, compared
+            to 12-24 months in developed markets.
           </li>
           <li>
             <strong>Focus on value creation:</strong> The greatest returns will come from
@@ -443,7 +443,7 @@ export default function ETAAfricaArticle() {
           decades to come.
         </p>
         <p>
-          Africa is not the next frontier for ETA. It is the frontier&mdash;the largest, youngest,
+          Africa is not the next frontier for ETA. It is the frontier, the largest, youngest,
           and most underserved market for Entrepreneurship Through Acquisition in the world.
         </p>
 
@@ -451,34 +451,34 @@ export default function ETAAfricaArticle() {
 
         <h3 className={h3Class}>What are realistic EBITDA multiples for SME acquisitions in Nigeria, Kenya, and South Africa?</h3>
         <p>
-          Multiples vary significantly by country, sector, and financial reporting quality. In Nigeria, formalized SMEs with audited financials typically trade at 2.5&ndash;4x EBITDA, with businesses in the oil and gas services sector commanding the upper range. Kenyan SMEs with clean books trade at 3&ndash;5x EBITDA, with technology-enabled services at the higher end. South Africa offers the most transparent market, with multiples of 3.5&ndash;5.5x EBITDA for well-run businesses, comparable to emerging European markets. The African Private Equity and Venture Capital Association (AVCA) reports that average entry multiples for PE transactions across Sub-Saharan Africa have remained in the 4&ndash;6x range, though search fund-sized deals typically trade below this due to smaller deal sizes and limited buyer competition.
+          Multiples vary significantly by country, sector, and financial reporting quality. In Nigeria, formalized SMEs with audited financials typically trade at 2.5-4x EBITDA, with businesses in the oil and gas services sector commanding the upper range. Kenyan SMEs with clean books trade at 3-5x EBITDA, with technology-enabled services at the higher end. South Africa offers the most transparent market, with multiples of 3.5-5.5x EBITDA for well-run businesses, comparable to emerging European markets. The African Private Equity and Venture Capital Association (AVCA) reports that average entry multiples for PE transactions across Sub-Saharan Africa have remained in the 4-6x range, though search fund-sized deals typically trade below this due to smaller deal sizes and limited buyer competition.
         </p>
 
         <h3 className={h3Class}>How can a diaspora searcher structure financing for an African acquisition?</h3>
         <p>
-          The most viable financing stack for African ETA combines international investor equity (40&ndash;60% of the purchase price), seller financing (20&ndash;40% deferred over 2&ndash;5 years), and where available, DFI facilities from organizations like the IFC, British International Investment, or Proparco. Traditional local bank debt is challenging due to interest rates exceeding 20% in many markets. Some diaspora searchers have successfully raised capital from US and European search fund investors who are familiar with the ETA model, supplemented by Africa-focused family offices and impact funds. Currency structuring is critical: raising equity in dollars while generating revenue in local currencies creates FX risk that must be modeled conservatively.
+          The most viable financing stack for African ETA combines international investor equity (40-60% of the purchase price), seller financing (20-40% deferred over 2-5 years), and where available, DFI facilities from organizations like the IFC, British International Investment, or Proparco. Traditional local bank debt is challenging due to interest rates exceeding 20% in many markets. Some diaspora searchers have successfully raised capital from US and European search fund investors who are familiar with the ETA model, supplemented by Africa-focused family offices and impact funds. Currency structuring is critical: raising equity in dollars while generating revenue in local currencies creates FX risk that must be modeled conservatively.
         </p>
 
         <h3 className={h3Class}>What due diligence challenges are unique to African SME acquisitions?</h3>
         <p>
-          The most significant challenges are financial transparency, informal economy overlap, and regulatory compliance verification. Many African SMEs maintain financial records that do not conform to international accounting standards, requiring extensive reconstruction of financial statements from bank records, invoices, and tax filings. Cash transactions may represent 15&ndash;40% of revenue in some businesses, making revenue verification particularly difficult. The World Bank&rsquo;s Doing Business reports highlight that contract enforcement and business registration processes vary dramatically across African jurisdictions. Searchers should budget 2&ndash;3x the time typically allocated for due diligence in developed markets and engage local accounting firms with forensic capabilities to validate revenue, tax compliance, and employee benefit obligations.
+          The most significant challenges are financial transparency, informal economy overlap, and regulatory compliance verification. Many African SMEs maintain financial records that do not conform to international accounting standards, requiring extensive reconstruction of financial statements from bank records, invoices, and tax filings. Cash transactions may represent 15-40% of revenue in some businesses, making revenue verification particularly difficult. The World Bank&rsquo;s Doing Business reports highlight that contract enforcement and business registration processes vary dramatically across African jurisdictions. Searchers should budget 2-3x the time typically allocated for due diligence in developed markets and engage local accounting firms with forensic capabilities to validate revenue, tax compliance, and employee benefit obligations.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.avca.africa/data-intelligence/research-publications/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              African Private Equity and Venture Capital Association (AVCA) &mdash; Annual Private Equity Data
+              African Private Equity and Venture Capital Association (AVCA), Annual Private Equity Data
             </a>
           </li>
           <li>
             <a href="https://www.worldbank.org/en/region/afr" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              World Bank &mdash; Africa Region Economic Data and Doing Business Reports
+              World Bank, Africa Region Economic Data and Doing Business Reports
             </a>
           </li>
           <li>
             <a href="https://www.ifc.org/en/what-we-do/sector-expertise/financial-institutions/msme-finance" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              International Finance Corporation (IFC) &mdash; SME Finance in Africa
+              International Finance Corporation (IFC), SME Finance in Africa
             </a>
           </li>
         </ul>

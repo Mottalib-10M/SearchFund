@@ -11,7 +11,7 @@ export default function BoardGovernanceFR() {
           La gouvernance d&apos;entreprise après une acquisition dans le cadre d&apos;un
           search fund est un sujet souvent sous-estimé par les searchers
           débutants. En France, les règles de gouvernance sont étroitement liées à
-          la forme juridique choisie &mdash; SA, SAS ou SARL &mdash; et les
+          la forme juridique choisie, SA, SAS ou SARL, et les
           investisseurs attendent une structuration qui protège leurs intérêts tout
           en laissant au dirigeant-acquéreur la latitude opérationnelle nécessaire
           pour créer de la valeur. Ce guide détaille les mécanismes de gouvernance
@@ -46,7 +46,7 @@ export default function BoardGovernanceFR() {
         <h3 className={h3Class}>Le Président&nbsp;: seul organe obligatoire</h3>
         <p>
           Le Président de SAS est le seul représentant légal de la société. Il
-          dispose de pouvoirs étendus vis-à-vis des tiers &mdash; les limitations
+          dispose de pouvoirs étendus vis-à-vis des tiers, les limitations
           statutaires sont inopposables aux tiers de bonne foi. Dans un search
           fund, le searcher occupe naturellement cette fonction. Son pouvoir est
           toutefois encadré en interne par les clauses du pacte d&apos;actionnaires,
@@ -82,8 +82,8 @@ export default function BoardGovernanceFR() {
           En l&apos;absence de conseil d&apos;administration obligatoire, les search funds
           structurés en SAS mettent en place un comité stratégique (parfois appelé
           comité de surveillance ou advisory committee). Cet organe n&apos;a pas
-          d&apos;existence légale propre &mdash; il est créé par les statuts ou le
-          pacte d&apos;actionnaires &mdash; mais il joue un rôle central dans la
+          d&apos;existence légale propre, il est créé par les statuts ou le
+          pacte d&apos;actionnaires, mais il joue un rôle central dans la
           gouvernance effective de la société.
         </p>
         <ul className={ulClass}>
@@ -126,7 +126,7 @@ export default function BoardGovernanceFR() {
         <p>
           La Société Anonyme (SA) est la forme juridique traditionnelle des
           grandes entreprises françaises, mais elle reste pertinente pour certaines
-          opérations de search fund &mdash; notamment lorsque la cible est
+          opérations de search fund, notamment lorsque la cible est
           elle-même une SA ou lorsque la taille de l&apos;opération justifie une
           gouvernance plus formalisée. La SA impose un conseil d&apos;administration
           composé de 3 à 18 membres, avec des règles strictes de fonctionnement.
@@ -222,7 +222,7 @@ export default function BoardGovernanceFR() {
             <strong>Remplacement du dirigeant&nbsp;:</strong> Le pacte
             d&apos;actionnaires prévoit les conditions dans lesquelles les
             investisseurs peuvent révoquer le Président et nommer un remplaçant.
-            Ce pouvoir est le levier ultime de la gouvernance &mdash; il doit
+            Ce pouvoir est le levier ultime de la gouvernance, il doit
             être exercé avec discernement.
           </li>
         </ul>
@@ -338,8 +338,8 @@ export default function BoardGovernanceFR() {
         </ul>
         <p>
           Une gouvernance bien structurée est un facteur de valorisation au moment
-          de la sortie. Les acquéreurs &mdash; fonds de private equity, groupes
-          industriels ou autres search funds &mdash; valorisent les entreprises
+          de la sortie. Les acquéreurs, fonds de private equity, groupes
+          industriels ou autres search funds, valorisent les entreprises
           dotées d&apos;une gouvernance professionnelle, de processus documentés et
           d&apos;un reporting fiable. C&apos;est un investissement qui se rentabilise
           à chaque étape du cycle de vie du search fund.

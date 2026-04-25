@@ -29,7 +29,7 @@ export default function CreatingICPAcquisitionsArticle() {
             <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
               Brokers
             </Link>{" "}
-            need clear criteria to send you relevant deals. &ldquo;I want a good business&rdquo; is not actionable. &ldquo;I want a $1.5&ndash;$4M EBITDA B2B services company in the Southeast&rdquo; is</li>
+            need clear criteria to send you relevant deals. &ldquo;I want a good business&rdquo; is not actionable. &ldquo;I want a $1.5-$4M EBITDA B2B services company in the Southeast&rdquo; is</li>
           <li><strong>Investor alignment:</strong> Your{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
               investors
@@ -42,19 +42,19 @@ export default function CreatingICPAcquisitionsArticle() {
 
         <h3 className={h3Class}>1. Financial profile</h3>
         <ul className={ulClass}>
-          <li><strong>Revenue range:</strong> $3M&ndash;$30M (varies by ETA model)</li>
-          <li><strong>EBITDA/SDE range:</strong> $750K&ndash;$5M for most search funds; $500K&ndash;$2M for self-funded. See{" "}
+          <li><strong>Revenue range:</strong> $3M-$30M (varies by ETA model)</li>
+          <li><strong>EBITDA/SDE range:</strong> $750K-$5M for most search funds; $500K-$2M for self-funded. See{" "}
             <Link href="/learn/what-size-business-buy" className="text-apple-accent hover:underline">
               what size business to buy
             </Link></li>
           <li><strong>EBITDA margins:</strong> 15%+ (ensures cash flow for debt service and reinvestment)</li>
           <li><strong>Revenue growth:</strong> Stable to growing. Declining revenue is a red flag unless it&rsquo;s a turnaround thesis</li>
-          <li><strong>Enterprise value:</strong> $3M&ndash;$20M for traditional search; $1M&ndash;$5M for self-funded</li>
+          <li><strong>Enterprise value:</strong> $3M-$20M for traditional search; $1M-$5M for self-funded</li>
         </ul>
 
         <h3 className={h3Class}>2. Industry</h3>
         <ul className={ulClass}>
-          <li>Define 2&ndash;5 target industries based on your{" "}
+          <li>Define 2-5 target industries based on your{" "}
             <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">
               search thesis
             </Link></li>
@@ -85,7 +85,7 @@ export default function CreatingICPAcquisitionsArticle() {
 
         <h3 className={h3Class}>5. Customer profile</h3>
         <ul className={ulClass}>
-          <li><strong>Concentration:</strong> No customer above 15&ndash;20% of revenue. See{" "}
+          <li><strong>Concentration:</strong> No customer above 15-20% of revenue. See{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               customer concentration risk
             </Link></li>
@@ -99,9 +99,9 @@ export default function CreatingICPAcquisitionsArticle() {
             <Link href="/learn/succession-driven-acquisitions" className="text-apple-accent hover:underline">
               Succession-driven sales
             </Link>{" "}
-            are the ideal scenario &mdash; motivated seller, clean business, reasonable expectations</li>
-          <li><strong>Owner age:</strong> 55&ndash;70 (approaching retirement but still running the business well)</li>
-          <li><strong>Transition willingness:</strong> Seller willing to stay 3&ndash;12 months for knowledge transfer</li>
+            are the ideal scenario, motivated seller, clean business, reasonable expectations</li>
+          <li><strong>Owner age:</strong> 55-70 (approaching retirement but still running the business well)</li>
+          <li><strong>Transition willingness:</strong> Seller willing to stay 3-12 months for knowledge transfer</li>
         </ul>
 
         <h3 className={h3Class}>7. Operations</h3>
@@ -110,7 +110,7 @@ export default function CreatingICPAcquisitionsArticle() {
             <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">
               key person risk
             </Link></li>
-          <li><strong>Employee count:</strong> 10&ndash;100 employees (manageable for a first-time CEO)</li>
+          <li><strong>Employee count:</strong> 10-100 employees (manageable for a first-time CEO)</li>
           <li><strong>Technology dependency:</strong> Understand the{" "}
             <Link href="/learn/owner-dependent-business" className="text-apple-accent hover:underline">
               owner dependency
@@ -138,10 +138,10 @@ export default function CreatingICPAcquisitionsArticle() {
 
         <h2 className={h2Class}>Building your ICP: step-by-step</h2>
         <ol className={olClass}>
-          <li><strong>Define must-haves:</strong> The 3&ndash;5 criteria that are non-negotiable (e.g., $1M+ EBITDA, recurring revenue, willing to relocate to specific states)</li>
+          <li><strong>Define must-haves:</strong> The 3-5 criteria that are non-negotiable (e.g., $1M+ EBITDA, recurring revenue, willing to relocate to specific states)</li>
           <li><strong>Define nice-to-haves:</strong> Preferences that improve the deal but aren&rsquo;t required</li>
           <li><strong>Define deal-breakers:</strong> Characteristics that eliminate a business from consideration regardless of other attributes</li>
-          <li><strong>Test against real deals:</strong> Apply your ICP to 20&ndash;30 listings on BizBuySell or broker CIMs. If nothing passes, your criteria are too narrow</li>
+          <li><strong>Test against real deals:</strong> Apply your ICP to 20-30 listings on BizBuySell or broker CIMs. If nothing passes, your criteria are too narrow</li>
           <li><strong>Iterate:</strong> Your ICP will evolve as you see more deals. The best ICP at month 12 is different from month 1</li>
         </ol>
 
@@ -182,8 +182,8 @@ export default function CreatingICPAcquisitionsArticle() {
         <h3 className={h3Class}>How narrow should my ICP be when starting a search?</h3>
         <p>
           Start broad and narrow over time. In the first 3 months, define
-          3&ndash;5 must-haves (e.g., $1M+ EBITDA, B2B, and a geographic range)
-          but leave other dimensions flexible. After reviewing 50&ndash;100
+          3-5 must-haves (e.g., $1M+ EBITDA, B2B, and a geographic range)
+          but leave other dimensions flexible. After reviewing 50-100
           opportunities, you will develop sharper intuition about which
           industries, business models, and seller profiles excite you.
           Revisit and tighten your ICP quarterly.

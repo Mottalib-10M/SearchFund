@@ -373,34 +373,34 @@ export default function ETAGermanyArticle() {
 
         <h3 className={h3Class}>Do I need to speak German to acquire a Mittelstand company?</h3>
         <p>
-          In the overwhelming majority of cases, yes. The IfM Bonn (Institut f&uuml;r Mittelstandsforschung) estimates that over 95% of Mittelstand companies conduct all business operations in German. Legal documents, regulatory filings, employee communications, and supplier negotiations are all in German. While some tech-oriented companies in Berlin or Munich may operate partially in English, the typical search fund target &mdash; a manufacturing or services company in a regional city &mdash; operates entirely in German. The KfW Research has documented that foreign acquirers who lack German fluency face significantly longer transition periods and higher employee turnover post-acquisition. At minimum, searchers should have B2/C1 German proficiency (CEFR scale) before entering the market.
+          In the overwhelming majority of cases, yes. The IfM Bonn (Institut f&uuml;r Mittelstandsforschung) estimates that over 95% of Mittelstand companies conduct all business operations in German. Legal documents, regulatory filings, employee communications, and supplier negotiations are all in German. While some tech-oriented companies in Berlin or Munich may operate partially in English, the typical search fund target, a manufacturing or services company in a regional city, operates entirely in German. The KfW Research has documented that foreign acquirers who lack German fluency face significantly longer transition periods and higher employee turnover post-acquisition. At minimum, searchers should have B2/C1 German proficiency (CEFR scale) before entering the market.
         </p>
 
         <h3 className={h3Class}>How does KfW financing compare to the US SBA 7(a) program for search fund acquisitions?</h3>
         <p>
-          The KfW programs are in many ways more generous than SBA 7(a). The KfW ERP-Gr&uuml;nderkredit provides loans up to EUR 25 million at subsidized rates with the KfW assuming up to 80% of credit risk from the lending bank, compared to the SBA&rsquo;s $5M cap with a 75&ndash;85% guarantee. The ERP-Kapital f&uuml;r Gr&uuml;ndung program provides up to EUR 500,000 in subordinated debt with a seven-year interest-only period and 100% liability release for the bank &mdash; effectively functioning as quasi-equity. Unlike SBA loans, KfW programs can be combined with B&uuml;rgschaftsbank guarantees to further reduce the equity requirement. The trade-off is that KfW loans must be applied for through a commercial bank (the Hausbank principle), which adds a layer of relationship management.
+          The KfW programs are in many ways more generous than SBA 7(a). The KfW ERP-Gr&uuml;nderkredit provides loans up to EUR 25 million at subsidized rates with the KfW assuming up to 80% of credit risk from the lending bank, compared to the SBA&rsquo;s $5M cap with a 75-85% guarantee. The ERP-Kapital f&uuml;r Gr&uuml;ndung program provides up to EUR 500,000 in subordinated debt with a seven-year interest-only period and 100% liability release for the bank, effectively functioning as quasi-equity. Unlike SBA loans, KfW programs can be combined with B&uuml;rgschaftsbank guarantees to further reduce the equity requirement. The trade-off is that KfW loans must be applied for through a commercial bank (the Hausbank principle), which adds a layer of relationship management.
         </p>
 
         <h3 className={h3Class}>What EBITDA multiples should I expect for German Mittelstand companies?</h3>
         <p>
-          German SMEs outside of technology and healthcare typically trade at 3.5&ndash;5.5x EBITDA, which is 0.5&ndash;1.5 turns below comparable US acquisitions. Within this range, valuations vary significantly by region and sector. Bavarian and Baden-W&uuml;rttemberg manufacturing companies command premiums (4.5&ndash;6x) due to their strong export orientation and world-class engineering quality. Eastern German companies trade at the lower end (3&ndash;4.5x) despite often excellent fundamentals, reflecting thinner buyer markets and location discounts. Handwerk (skilled trades) businesses typically trade at 3&ndash;4x due to their smaller scale. IT services and B2B software companies are the exception, commanding 5&ndash;8x EBITDA. The IHK (Industrie- und Handelskammer) publishes annual succession market reports with regional valuation data.
+          German SMEs outside of technology and healthcare typically trade at 3.5-5.5x EBITDA, which is 0.5-1.5 turns below comparable US acquisitions. Within this range, valuations vary significantly by region and sector. Bavarian and Baden-W&uuml;rttemberg manufacturing companies command premiums (4.5-6x) due to their strong export orientation and world-class engineering quality. Eastern German companies trade at the lower end (3-4.5x) despite often excellent fundamentals, reflecting thinner buyer markets and location discounts. Handwerk (skilled trades) businesses typically trade at 3-4x due to their smaller scale. IT services and B2B software companies are the exception, commanding 5-8x EBITDA. The IHK (Industrie- und Handelskammer) publishes annual succession market reports with regional valuation data.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
             <a href="https://www.ifm-bonn.org/en/statistics/business-transfers-and-succession" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              IfM Bonn (Institut f&uuml;r Mittelstandsforschung) &mdash; Business Transfer Statistics and Succession Research
+              IfM Bonn (Institut f&uuml;r Mittelstandsforschung), Business Transfer Statistics and Succession Research
             </a>
           </li>
           <li>
             <a href="https://www.kfw.de/%C3%9Cber-die-KfW/Newsroom/Aktuelles/News-Details_833856.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              KfW Research &mdash; SME Succession and ERP Financing Programs
+              KfW Research, SME Succession and ERP Financing Programs
             </a>
           </li>
           <li>
             <a href="https://www.dihk.de/en" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
-              DIHK (German Chambers of Commerce and Industry) &mdash; Succession Reports and Mittelstand Data
+              DIHK (German Chambers of Commerce and Industry), Succession Reports and Mittelstand Data
             </a>
           </li>
         </ul>

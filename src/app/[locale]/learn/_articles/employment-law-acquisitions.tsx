@@ -9,7 +9,7 @@ export default function EmploymentLawAcquisitionsArticle() {
         <p>Employment law is one of the most critical and complex areas of business acquisitions. Whether employees transfer automatically, what notice requirements apply, and how benefits must be handled varies significantly between <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">asset and stock purchases</Link> and across jurisdictions. Getting employment law wrong can result in costly claims, regulatory penalties, and the loss of key employees.</p>
       </div>
 
-      <h2 className={h2Class}>TUPE (Transfer of Undertakings) &mdash; UK & EU</h2>
+      <h2 className={h2Class}>TUPE (Transfer of Undertakings), UK & EU</h2>
       <div className={bodyClass}>
         <p>The Transfer of Undertakings (Protection of Employment) Regulations 2006 (as amended in 2014) implement the EU Acquired Rights Directive (2001/23/EC) in the UK. According to the UK Government&apos;s ACAS guidance, TUPE applies to approximately 2,500 business transfers per year in the UK alone. Post-Brexit, the UK retained TUPE as domestic law, and equivalent protections exist across all EU member states under the Directive. For search fund acquirers, TUPE is the single most important employment law consideration in European asset deals:</p>
         <ul className={ulClass}>
@@ -22,7 +22,7 @@ export default function EmploymentLawAcquisitionsArticle() {
         </ul>
       </div>
 
-      <h2 className={h2Class}>WARN Act &mdash; United States</h2>
+      <h2 className={h2Class}>WARN Act, United States</h2>
       <div className={bodyClass}>
         <p>The Worker Adjustment and Retraining Notification (WARN) Act of 1988, as enforced by the U.S. Department of Labor, applies to employers with 100 or more employees. While most search fund acquisitions involve smaller companies below this threshold, searchers planning post-acquisition <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link> that aggregate multiple businesses may quickly cross the 100-employee mark.</p>
         <ul className={ulClass}>
@@ -68,14 +68,14 @@ export default function EmploymentLawAcquisitionsArticle() {
           <li><strong>Germany:</strong> Works council (Betriebsrat) must be consulted on acquisitions. Companies with 500+ employees require employee representation on the supervisory board.</li>
           <li><strong>France:</strong> CSE (Comit&eacute; Social et &Eacute;conomique) must be informed and consulted before any acquisition. The opinion must be rendered before closing.</li>
           <li><strong>Netherlands:</strong> Works council (Ondernemingsraad) has advisory rights on acquisitions and major restructurings.</li>
-          <li><strong>Timeline impact:</strong> Employee consultation can add 4&ndash;8 weeks to the acquisition timeline in Europe.</li>
+          <li><strong>Timeline impact:</strong> Employee consultation can add 4-8 weeks to the acquisition timeline in Europe.</li>
         </ul>
       </div>
 
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>TUPE (UK/EU) automatically transfers employees in asset deals on their existing terms &mdash; dismissals related to the transfer are unfair</li>
+          <li>TUPE (UK/EU) automatically transfers employees in asset deals on their existing terms, dismissals related to the transfer are unfair</li>
           <li>The US WARN Act requires 60 days&apos; notice for mass layoffs, with stricter state laws in many jurisdictions</li>
           <li>Stock purchases preserve employment continuity; asset purchases require new hiring/onboarding processes</li>
           <li>European works council consultation can add weeks to the acquisition timeline</li>
@@ -95,12 +95,12 @@ export default function EmploymentLawAcquisitionsArticle() {
 
       <h3 className={h3Class}>Does TUPE apply to share purchases?</h3>
       <div className={bodyClass}>
-        <p>No. TUPE applies to &ldquo;relevant transfers&rdquo; &mdash; essentially asset deals and business transfers where a business or part of a business changes hands as a going concern. In a share purchase, the employer (the company) remains the same legal entity; only its shareholders change. Therefore TUPE does not apply and employees continue on their existing terms without any transfer mechanism. However, change-of-control clauses in individual employment contracts may be triggered by a share sale, potentially entitling key employees to severance or accelerated vesting.</p>
+        <p>No. TUPE applies to &ldquo;relevant transfers&rdquo;, essentially asset deals and business transfers where a business or part of a business changes hands as a going concern. In a share purchase, the employer (the company) remains the same legal entity; only its shareholders change. Therefore TUPE does not apply and employees continue on their existing terms without any transfer mechanism. However, change-of-control clauses in individual employment contracts may be triggered by a share sale, potentially entitling key employees to severance or accelerated vesting.</p>
       </div>
 
       <h3 className={h3Class}>Can an employer change employee terms and conditions after a TUPE transfer?</h3>
       <div className={bodyClass}>
-        <p>Changes to employment terms that are solely or principally because of the TUPE transfer are void under UK law, even if the employee agrees. Changes unconnected to the transfer, or connected to an economic, technical, or organizational (ETO) reason entailing changes in the workforce, may be lawful. In practice, most <Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">compensation restructuring</Link> should wait at least 12&ndash;24 months post-transfer and should be clearly driven by operational business reasons rather than the transfer itself.</p>
+        <p>Changes to employment terms that are solely or principally because of the TUPE transfer are void under UK law, even if the employee agrees. Changes unconnected to the transfer, or connected to an economic, technical, or organizational (ETO) reason entailing changes in the workforce, may be lawful. In practice, most <Link href="/learn/compensation-incentive-design" className="text-apple-accent hover:underline">compensation restructuring</Link> should wait at least 12-24 months post-transfer and should be clearly driven by operational business reasons rather than the transfer itself.</p>
       </div>
 
       <h3 className={h3Class}>What employment due diligence should search fund acquirers prioritize?</h3>

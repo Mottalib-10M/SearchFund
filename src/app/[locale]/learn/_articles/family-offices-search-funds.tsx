@@ -14,7 +14,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           Family offices now allocate roughly 42 percent of their portfolios to
           alternative investments, according to Goldman Sachs&rsquo;s 2024
           Family Office Investment Insights report, and direct private equity
-          deals &mdash; including search funds &mdash; account for a growing
+          deals, including search funds, account for a growing
           share. For searchers, family offices represent some of the most
           aligned capital available: patient hold periods, direct-investment
           orientation, check sizes that fit ETA deal flow, and principals who
@@ -30,9 +30,9 @@ export default function FamilyOfficesSearchFundsArticle() {
           Why Family Offices Are Drawn to Search Fund Investing
         </h2>
         <p>
-          The traditional search fund model &mdash; in which an entrepreneur
+          The traditional search fund model, in which an entrepreneur
           raises a small pool of search capital, acquires a single company, and
-          operates it for five to eight years &mdash; maps neatly onto the
+          operates it for five to eight years, maps neatly onto the
           preferences that distinguish family offices from other institutional
           allocators. Six characteristics explain the fit.
         </p>
@@ -74,13 +74,13 @@ export default function FamilyOfficesSearchFundsArticle() {
             office principals built their wealth by founding or operating
             businesses. Backing a searcher allows them to mentor the next
             generation of entrepreneurs while drawing on their own expertise
-            &mdash; a psychic return that purely financial allocators rarely
+            a psychic return that purely financial allocators rarely
             offer.
           </li>
           <li>
             <strong>Right-sized check amounts.</strong> A typical search fund
-            raises $400,000&ndash;$600,000 in search capital from 10 to 20
-            investors, meaning individual commitments of $25,000&ndash;$50,000.
+            raises $400,000-$600,000 in search capital from 10 to 20
+            investors, meaning individual commitments of $25,000-$50,000.
             At the acquisition stage, equity checks range from $250,000 to $2.5
             million per investor. These amounts sit comfortably within the
             direct-deal budget of most single-family and multi-family offices.
@@ -90,7 +90,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             the ability to deploy additional capital at the acquisition stage
             and in subsequent add-on deals. The standard search fund structure
             grants pro-rata rights that allow investors to increase their
-            exposure to winners &mdash; a feature that aligns well with the{" "}
+            exposure to winners, a feature that aligns well with the{" "}
             <Link
               href="/learn/co-investment-search-fund"
               className="text-apple-accent hover:underline"
@@ -108,8 +108,8 @@ export default function FamilyOfficesSearchFundsArticle() {
         <p>
           Not all investor capital is created equal. Understanding the
           structural differences between family offices and other search fund
-          investor types &mdash; dedicated funds-of-funds, individual angels,
-          and PE firms &mdash; helps you calibrate your pitch and manage
+          investor types, dedicated funds-of-funds, individual angels,
+          and PE firms, helps you calibrate your pitch and manage
           expectations. For a broader look at the full investor market, see
           our{" "}
           <Link
@@ -127,8 +127,8 @@ export default function FamilyOfficesSearchFundsArticle() {
           one or two principals who can approve an investment over a phone call.
           A multi-family office (MFO), by contrast, often routes decisions
           through a formal investment committee. Dedicated search fund
-          funds-of-funds &mdash; like Pacific Lake Partners or Search Fund
-          Partners &mdash; run structured diligence processes that can take four
+          funds-of-funds, like Pacific Lake Partners or Search Fund
+          Partners, run structured diligence processes that can take four
           to six weeks. Individual angels decide quickly but tend to write
           smaller checks. The practical takeaway: SFOs can close fastest, which
           matters when you need to hit a fundraising timeline.
@@ -149,8 +149,8 @@ export default function FamilyOfficesSearchFundsArticle() {
         <p>
           Dedicated search fund funds typically commit a fixed amount per deal
           based on their fund mandate. Family offices, because they manage
-          their own balance sheet, can scale up &mdash; sometimes dramatically
-          &mdash; if they develop conviction in a specific acquisition.
+          their own balance sheet, can scale up, sometimes dramatically
+          if they develop conviction in a specific acquisition.
           According to the Searcher Insights 2025 market environment report,
           family offices and holding companies have surged into the search fund
           space specifically because of this co-investment flexibility. A family
@@ -187,7 +187,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             family, typically $100 million or more in assets under management.
             Decision-making is concentrated in one or two principals. SFOs
             often have specific industry preferences that trace back to the
-            family&rsquo;s operating history &mdash; a family that built a
+            family&rsquo;s operating history, a family that built a
             manufacturing business, for example, may be drawn to search funds
             targeting industrial companies. Many SFOs want active involvement:
             board seats, strategic advising, or introductions to potential
@@ -208,13 +208,13 @@ export default function FamilyOfficesSearchFundsArticle() {
             run a family office arm that deploys the founding family&rsquo;s
             personal capital into adjacent investments. These can be powerful
             partners when your search thesis overlaps with the parent
-            company&rsquo;s industry &mdash; they bring not only capital but
+            company&rsquo;s industry, they bring not only capital but
             also customer relationships, supply chain knowledge, and potential
             bolt-on targets.
           </li>
           <li>
             <strong>Virtual or outsourced family offices:</strong> Smaller
-            families ($20 million&ndash;$100 million in wealth) may use an
+            families ($20 million-$100 million in wealth) may use an
             outsourced CIO model. These families can still be excellent search
             fund investors, but the outsourced advisor may introduce an
             additional layer of decision-making. Build the relationship with
@@ -311,7 +311,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           <li>
             <strong>Character and integrity.</strong> Family office principals
             are entrusting their family&rsquo;s wealth to you. They will
-            reference-check extensively &mdash; former managers, colleagues,
+            reference-check extensively, former managers, colleagues,
             professors. Demonstrate integrity, self-awareness, and a
             willingness to be coached.
           </li>
@@ -326,7 +326,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           <li>
             <strong>Clear acquisition criteria.</strong> Family offices expect
             you to articulate which industries, geographies, and deal sizes
-            you are targeting &mdash; and why. A focused thesis signals
+            you are targeting, and why. A focused thesis signals
             discipline. A broad, &ldquo;I&rsquo;ll buy anything
             profitable&rdquo; thesis signals the opposite.
           </li>
@@ -367,11 +367,11 @@ export default function FamilyOfficesSearchFundsArticle() {
 
         <h3 className={h3Class}>Search capital stage</h3>
         <p>
-          A traditional search fund raises $400,000&ndash;$600,000 from 10 to
-          20 investors. Individual investors typically commit $25,000&ndash;$50,000
-          per unit. Family offices often take one to four units ($25,000&ndash;$200,000),
-          but some &mdash; especially those with a dedicated search fund
-          allocation &mdash; will anchor the raise with a $100,000&ndash;$200,000
+          A traditional search fund raises $400,000-$600,000 from 10 to
+          20 investors. Individual investors typically commit $25,000-$50,000
+          per unit. Family offices often take one to four units ($25,000-$200,000),
+          but some, especially those with a dedicated search fund
+          allocation, will anchor the raise with a $100,000-$200,000
           commitment. The standard 1.5x step-up converts this search capital
           into acquisition equity at a premium to compensate for the early-stage
           risk.
@@ -381,9 +381,9 @@ export default function FamilyOfficesSearchFundsArticle() {
         <p>
           When a searcher identifies a target and signs a letter of intent,
           search investors have pro-rata rights to participate in the acquisition
-          equity round. For a typical $5 million&ndash;$15 million acquisition,
+          equity round. For a typical $5 million-$15 million acquisition,
           the equity portion (after senior debt and any seller note) might be
-          $2 million&ndash;$7 million. Family offices can contribute $500,000
+          $2 million-$7 million. Family offices can contribute $500,000
           to $2.5 million at this stage. Some family offices will also provide
           mezzanine or subordinated debt alongside their equity, effectively
           financing a larger portion of the capital stack. For details on how
@@ -409,7 +409,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             writing the largest checks, may request a board seat or board
             observation rights at the acquisition stage. A board seat for your
             lead investor is reasonable and can add real value. Multiple board
-            seats for multiple family offices is a governance risk &mdash;
+            seats for multiple family offices is a governance risk , 
             negotiate carefully.
           </li>
           <li>
@@ -427,7 +427,7 @@ export default function FamilyOfficesSearchFundsArticle() {
             request preferred equity with a guaranteed return before common
             equity participates. This is not standard in the search fund
             model and can misalign incentives. Push back firmly, or offer a
-            modest preferred return (6&ndash;8 percent) only if the family
+            modest preferred return (6-8 percent) only if the family
             office is providing the majority of acquisition equity.
           </li>
           <li>
@@ -441,8 +441,8 @@ export default function FamilyOfficesSearchFundsArticle() {
           <li>
             <strong>Veto rights on strategic decisions.</strong> Acquisition
             approval rights for large investors are reasonable. Operational
-            veto rights &mdash; over hiring decisions, capital expenditures,
-            or pricing strategy &mdash; are not. Protect your autonomy as
+            veto rights, over hiring decisions, capital expenditures,
+            or pricing strategy, are not. Protect your autonomy as
             CEO.
           </li>
         </ul>
@@ -473,8 +473,8 @@ export default function FamilyOfficesSearchFundsArticle() {
           <li>
             <strong>Larger individual commitments.</strong> Because pledge fund
             investors are committing to a specific business, family offices
-            are often willing to write larger checks &mdash; sometimes
-            $1 million or more &mdash; than they would for speculative search
+            are often willing to write larger checks, sometimes
+            $1 million or more, than they would for speculative search
             capital.
           </li>
           <li>
@@ -555,13 +555,13 @@ export default function FamilyOfficesSearchFundsArticle() {
         </h3>
         <p>
           At the search capital stage, family offices usually commit
-          $25,000&ndash;$200,000, which translates to one to four standard
+          $25,000-$200,000, which translates to one to four standard
           units. At the acquisition stage, contributions range from $250,000
           to $2.5 million depending on the deal size and the family
           office&rsquo;s conviction level. According to the Searcher Insights
           2025 market report, dedicated search fund family offices and holding
           companies can invest up to $2.5 million per deal, while individual
-          investors typically stay in the $25,000&ndash;$200,000 range.
+          investors typically stay in the $25,000-$200,000 range.
         </p>
 
         <h3 className={h3Class}>
@@ -575,8 +575,8 @@ export default function FamilyOfficesSearchFundsArticle() {
           >
             search fund term sheet
           </Link>{" "}
-          &mdash; including the 1.5x step-up on search capital, pro-rata
-          acquisition rights, and 20&ndash;25 percent CEO equity &mdash; is
+          including the 1.5x step-up on search capital, pro-rata
+          acquisition rights, and 20-25 percent CEO equity, is
           widely accepted by family offices that are familiar with the asset
           class. Newcomer family offices may initially push for preferred
           equity or enhanced governance rights. Educating them on the standard
@@ -599,7 +599,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           Insights maintain directories of active family office investors.
           Industry associations including TIGER 21 and CampdenFB provide
           additional networking opportunities. Start building relationships
-          well before you need capital &mdash; family offices invest in people
+          well before you need capital, family offices invest in people
           they know and trust, not cold outreach.
         </p>
 
@@ -613,7 +613,7 @@ export default function FamilyOfficesSearchFundsArticle() {
           engage them operationally. Family office principals who built
           businesses expect to be consulted, updated regularly, and invited to
           contribute their expertise. If you only reach out when you need
-          money, you will lose the relationship &mdash; and the referrals that
+          money, you will lose the relationship, and the referrals that
           come with it. The second most common mistake is accepting non-standard
           terms (such as operational veto rights or excessive preferred
           returns) simply because the check is large. Protect your standard

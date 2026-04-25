@@ -37,7 +37,7 @@ export default function SearchFundThesisArticle() {
 
         <h3 className={h3Class}>1. Industry selection</h3>
         <p>
-          Pick 2&ndash;4{" "}
+          Pick 2-4{" "}
           <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">
             target industries
           </Link>{" "}
@@ -63,11 +63,11 @@ export default function SearchFundThesisArticle() {
           Define your Ideal Company Profile:
         </p>
         <ul className={ulClass}>
-          <li><strong>Revenue range:</strong> $3M&ndash;$20M for traditional search; $1M&ndash;$10M for self-funded</li>
-          <li><strong>EBITDA range:</strong> $1M&ndash;$5M for traditional search; $500K&ndash;$2M for self-funded</li>
+          <li><strong>Revenue range:</strong> $3M-$20M for traditional search; $1M-$10M for self-funded</li>
+          <li><strong>EBITDA range:</strong> $1M-$5M for traditional search; $500K-$2M for self-funded</li>
           <li><strong>EBITDA margin:</strong> 15%+ for services, 10%+ for manufacturing</li>
-          <li><strong>Growth rate:</strong> Stable to moderate growth (3&ndash;15% annual). Avoid declining businesses</li>
-          <li><strong>Customer concentration:</strong> No customer above 10&ndash;15% of revenue. See{" "}
+          <li><strong>Growth rate:</strong> Stable to moderate growth (3-15% annual). Avoid declining businesses</li>
+          <li><strong>Customer concentration:</strong> No customer above 10-15% of revenue. See{" "}
             <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">
               concentration risk guide
             </Link></li>
@@ -76,7 +76,7 @@ export default function SearchFundThesisArticle() {
               management layer
             </Link>{" "}
             preferred</li>
-          <li><strong>Geography:</strong> Cities or regions where you&rsquo;re willing to live for 5&ndash;7 years</li>
+          <li><strong>Geography:</strong> Cities or regions where you&rsquo;re willing to live for 5-7 years</li>
         </ul>
 
         <h3 className={h3Class}>3. Value creation hypothesis</h3>
@@ -99,7 +99,7 @@ export default function SearchFundThesisArticle() {
 
         <h3 className={h3Class}>4. Acquisition economics</h3>
         <ul className={ulClass}>
-          <li><strong>Target multiple:</strong> 3&ndash;6x EBITDA entry ({" "}
+          <li><strong>Target multiple:</strong> 3-6x EBITDA entry ({" "}
             <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
               industry-specific benchmarks
             </Link>)</li>
@@ -107,13 +107,13 @@ export default function SearchFundThesisArticle() {
             <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">
               Capital structure
             </Link>:
-          </strong> 50&ndash;70% senior debt, 10&ndash;20% seller note, 10&ndash;30% equity</li>
-          <li><strong>Returns target:</strong> 25%+ IRR for investors, $5M+ CEO equity over 5&ndash;7 years</li>
+          </strong> 50-70% senior debt, 10-20% seller note, 10-30% equity</li>
+          <li><strong>Returns target:</strong> 25%+ IRR for investors, $5M+ CEO equity over 5-7 years</li>
           <li><strong>Exit strategy:</strong>{" "}
             <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">
               Strategic sale, financial sale, or dividend recap
             </Link>{" "}
-            in 5&ndash;7 years</li>
+            in 5-7 years</li>
         </ul>
 
         <h2 className={h2Class}>Thesis examples by industry</h2>
@@ -126,9 +126,9 @@ export default function SearchFundThesisArticle() {
           </Link>{" "}
           platform (HVAC, plumbing, or electrical) with $1.5M+ EBITDA in a
           mid-size US metro. Execute a buy-and-build strategy to reach $5M+
-          EBITDA through 3&ndash;5 tuck-in acquisitions. Value creation
+          EBITDA through 3-5 tuck-in acquisitions. Value creation
           through route density optimization, centralized dispatch, and
-          recurring maintenance contracts. Target exit at 7&ndash;9x EBITDA
+          recurring maintenance contracts. Target exit at 7-9x EBITDA
           to a PE-backed consolidator.&rdquo;
         </p>
 
@@ -141,7 +141,7 @@ export default function SearchFundThesisArticle() {
           serving a niche industry with $2M+ ARR, 90%+ gross margins, and
           net revenue retention above 100%. Value creation through sales
           team buildout, product investment, and adjacent vertical expansion.
-          Target exit at 6&ndash;10x ARR.&rdquo;
+          Target exit at 6-10x ARR.&rdquo;
         </p>
 
         <h3 className={h3Class}>Example 3: European industrial services</h3>
@@ -161,7 +161,7 @@ export default function SearchFundThesisArticle() {
           with &euro;1.5M+ EBITDA. Target Mittelstand businesses facing
           generational succession. Value creation through digitalization,
           operational excellence, and geographic expansion. Exit to trade
-          buyer or PE in 5&ndash;7 years.&rdquo;
+          buyer or PE in 5-7 years.&rdquo;
         </p>
 
         <h2 className={h2Class}>Testing your thesis</h2>
@@ -169,12 +169,12 @@ export default function SearchFundThesisArticle() {
           Before committing to a thesis, validate it:
         </p>
         <ol className={olClass}>
-          <li><strong>Deal flow test:</strong> Spend 2 weeks sourcing &mdash; are there enough businesses for sale in your target industries and geographies?</li>
-          <li><strong>Investor test:</strong> Present your thesis to 3&ndash;5{" "}
+          <li><strong>Deal flow test:</strong> Spend 2 weeks sourcing, are there enough businesses for sale in your target industries and geographies?</li>
+          <li><strong>Investor test:</strong> Present your thesis to 3-5{" "}
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
               search fund investors
             </Link>. Do they find it compelling?</li>
-          <li><strong>Expert test:</strong> Talk to 5&ndash;10 industry operators. Do your assumptions about margins, growth, and consolidation hold up?</li>
+          <li><strong>Expert test:</strong> Talk to 5-10 industry operators. Do your assumptions about margins, growth, and consolidation hold up?</li>
           <li><strong>Financial test:</strong> Model a representative deal. Does the math work with realistic assumptions on{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
               valuation
@@ -182,15 +182,15 @@ export default function SearchFundThesisArticle() {
             <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">
               financing
             </Link>, and growth?</li>
-          <li><strong>Personal fit test:</strong> Can you see yourself running this type of business for 5&ndash;7 years? Visit some operations, talk to CEOs in the industry</li>
+          <li><strong>Personal fit test:</strong> Can you see yourself running this type of business for 5-7 years? Visit some operations, talk to CEOs in the industry</li>
         </ol>
 
         <h2 className={h2Class}>Common thesis mistakes</h2>
         <ul className={ulClass}>
-          <li><strong>Too narrow:</strong> &ldquo;I only want a SaaS company doing $3M ARR in Austin&rdquo; &mdash; you&rsquo;ll never find it. Expand geography or industry</li>
-          <li><strong>Too broad:</strong> &ldquo;I&rsquo;ll buy any profitable business&rdquo; &mdash; you&rsquo;ll waste months on dead ends. Pick 2&ndash;4 industries</li>
+          <li><strong>Too narrow:</strong> &ldquo;I only want a SaaS company doing $3M ARR in Austin&rdquo;, you&rsquo;ll never find it. Expand geography or industry</li>
+          <li><strong>Too broad:</strong> &ldquo;I&rsquo;ll buy any profitable business&rdquo;, you&rsquo;ll waste months on dead ends. Pick 2-4 industries</li>
           <li><strong>Ignoring deal flow reality:</strong> Your dream industry may have zero businesses for sale. Test supply before committing</li>
-          <li><strong>Overweighting passion:</strong> You don&rsquo;t need to love the industry &mdash; you need to love running the business. The best search fund targets are often &ldquo;boring&rdquo; industries</li>
+          <li><strong>Overweighting passion:</strong> You don&rsquo;t need to love the industry, you need to love running the business. The best search fund targets are often &ldquo;boring&rdquo; industries</li>
           <li><strong>Thesis rigidity:</strong> Good searchers evolve their thesis as they learn. Your thesis at month 6 should be more refined than at month 1. See{" "}
             <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">
               how thesis development differs between search funds and independent sponsors

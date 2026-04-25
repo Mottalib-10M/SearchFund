@@ -85,7 +85,7 @@ export default function GeographicTargetSelectionArticle() {
           </li>
           <li>
             <strong>Specific industry clusters:</strong> Certain industries
-            are concentrated in specific geographies &mdash; technology in
+            are concentrated in specific geographies, technology in
             major metro areas, manufacturing in the industrial heartland,
             energy services near resource extraction regions. If you are
             targeting a specific industry, you may need to go where the
@@ -149,9 +149,9 @@ export default function GeographicTargetSelectionArticle() {
         <p>
           The geographic density of a business&apos;s customer base is a
           critical but often overlooked factor in target selection. Businesses
-          that serve customers within a defined geographic radius &mdash;
+          that serve customers within a defined geographic radius , 
           such as home services companies, healthcare practices, restaurants,
-          or professional services firms &mdash; are fundamentally different
+          or professional services firms, are fundamentally different
           from businesses that serve a national or international customer
           base.
         </p>
@@ -227,7 +227,7 @@ export default function GeographicTargetSelectionArticle() {
 
         <h2 className={h2Class}>Multi-location targets</h2>
         <p>
-          Some acquisition targets operate from multiple locations &mdash;
+          Some acquisition targets operate from multiple locations , 
           branch offices, satellite service centers, multiple retail
           locations, or distributed production facilities. Multi-location
           businesses add geographic complexity but can also offer
@@ -307,7 +307,7 @@ export default function GeographicTargetSelectionArticle() {
         <p>
           Rather than treating geography as a constraint to be minimized,
           the most successful searchers develop a deliberate geographic
-          thesis &mdash; a reasoned view of where they want to search and
+          thesis, a reasoned view of where they want to search and
           why. A strong geographic thesis typically includes:
         </p>
         <ol className={olClass}>
@@ -358,9 +358,9 @@ export default function GeographicTargetSelectionArticle() {
           takes on additional dimensions. Language, culture, legal systems,
           currency, and tax regimes all become part of the geographic
           analysis. The decision to search internationally should be
-          grounded in a genuine advantage &mdash; language fluency, cultural
+          grounded in a genuine advantage, language fluency, cultural
           familiarity, an existing professional network, or access to a
-          specific market opportunity &mdash; rather than simply a desire
+          specific market opportunity, rather than simply a desire
           to expand the deal universe.
         </p>
         <ul className={ulClass}>
@@ -404,26 +404,26 @@ export default function GeographicTargetSelectionArticle() {
 
         <h3 className={h3Class}>Should a search fund entrepreneur be willing to relocate for the right acquisition?</h3>
         <p>
-          Yes, willingness to relocate dramatically expands the deal universe and is associated with better acquisition outcomes. Stanford GSB&rsquo;s 2024 Search Fund Study found that searchers who were open to relocation closed acquisitions 4 months faster on average than those restricted to a single metro area. However, relocation should be approached as a 5&ndash;7 year commitment aligned with the typical hold period. Searchers should evaluate the target geography for quality of life, cost of living, spousal career opportunities, and school quality alongside business factors. The most successful relocating searchers visit their target markets multiple times before closing and begin building community connections well before the move.
+          Yes, willingness to relocate dramatically expands the deal universe and is associated with better acquisition outcomes. Stanford GSB&rsquo;s 2024 Search Fund Study found that searchers who were open to relocation closed acquisitions 4 months faster on average than those restricted to a single metro area. However, relocation should be approached as a 5-7 year commitment aligned with the typical hold period. Searchers should evaluate the target geography for quality of life, cost of living, spousal career opportunities, and school quality alongside business factors. The most successful relocating searchers visit their target markets multiple times before closing and begin building community connections well before the move.
         </p>
 
         <h3 className={h3Class}>How does geography affect business valuations?</h3>
         <p>
-          Business valuations vary significantly by geography, primarily driven by buyer competition and market dynamics. The Brookings Institution&rsquo;s metropolitan economic analysis shows that businesses in major metro areas (New York, San Francisco, Boston) typically trade at 0.5&ndash;1.5x higher EBITDA multiples than comparable businesses in secondary or tertiary markets. For searchers, this creates a &ldquo;valuation arbitrage&rdquo; opportunity&mdash;acquiring in less competitive markets where multiples are lower, then building value that can be recognized at exit. The NBER&rsquo;s research on regional economics suggests that businesses in mid-size cities with growing populations often offer the best combination of reasonable acquisition multiples and healthy organic growth.
+          Business valuations vary significantly by geography, primarily driven by buyer competition and market dynamics. The Brookings Institution&rsquo;s metropolitan economic analysis shows that businesses in major metro areas (New York, San Francisco, Boston) typically trade at 0.5-1.5x higher EBITDA multiples than comparable businesses in secondary or tertiary markets. For searchers, this creates a &ldquo;valuation arbitrage&rdquo; opportunity, acquiring in less competitive markets where multiples are lower, then building value that can be recognized at exit. The NBER&rsquo;s research on regional economics suggests that businesses in mid-size cities with growing populations often offer the best combination of reasonable acquisition multiples and healthy organic growth.
         </p>
 
         <h3 className={h3Class}>What are the key geographic risk factors to evaluate during due diligence?</h3>
         <p>
-          Key geographic risk factors include population trends (declining populations signal shrinking markets), economic diversification (dependence on a single industry creates vulnerability), natural disaster exposure (FEMA data shows insurance costs can vary 3&ndash;5x between regions), labor market tightness (Bureau of Labor Statistics data on local unemployment and wage growth), and regulatory environment (state-level tax and regulatory differences materially affect profitability). The OECD&rsquo;s Regional Outlook recommends evaluating a 10-year demographic trend rather than a point-in-time snapshot, as gradual population shifts can significantly impact long-term business value.
+          Key geographic risk factors include population trends (declining populations signal shrinking markets), economic diversification (dependence on a single industry creates vulnerability), natural disaster exposure (FEMA data shows insurance costs can vary 3-5x between regions), labor market tightness (Bureau of Labor Statistics data on local unemployment and wage growth), and regulatory environment (state-level tax and regulatory differences materially affect profitability). The OECD&rsquo;s Regional Outlook recommends evaluating a 10-year demographic trend rather than a point-in-time snapshot, as gradual population shifts can significantly impact long-term business value.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
-          <li>Stanford Graduate School of Business, <em>Search Funds &mdash; 2024 Study</em></li>
-          <li>IESE Business School, <em>International Search Funds &mdash; Selected Observations</em> (2024)</li>
+          <li>Stanford Graduate School of Business, <em>Search Funds, 2024 Study</em></li>
+          <li>IESE Business School, <em>International Search Funds, Selected Observations</em> (2024)</li>
           <li>Harvard Business School, <em>Entrepreneurship Through Acquisition</em> (course materials)</li>
-          <li>Brookings Institution, <em>Metropolitan Policy Program &mdash; Regional Economic Analysis</em></li>
-          <li>OECD, <em>Regional Outlook &mdash; The Geography of Firm Dynamics</em></li>
+          <li>Brookings Institution, <em>Metropolitan Policy Program, Regional Economic Analysis</em></li>
+          <li>OECD, <em>Regional Outlook, The Geography of Firm Dynamics</em></li>
           <li>National Bureau of Economic Research (NBER), <em>Working Papers on Regional Economics</em></li>
         </ul>
 

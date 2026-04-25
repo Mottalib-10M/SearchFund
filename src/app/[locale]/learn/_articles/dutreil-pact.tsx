@@ -116,7 +116,7 @@ export default function DutreilPactArticle() {
 
         <h3 className={h3Class}>What qualifies as an &ldquo;animating holding company&rdquo; for Dutreil purposes?</h3>
         <div className={bodyClass}>
-          <p>A soci&eacute;t&eacute; holding animatrice must actively participate in determining the strategic direction of its subsidiaries and provide services (management, accounting, legal, HR) to them. Passive shareholding &mdash; simply owning shares and receiving dividends &mdash; does not qualify. The French tax authorities and courts examine whether the holding employs staff, provides documented services under management agreements, and exercises operational control. A search fund HoldCo that actively manages the acquired OpCo will typically qualify, but the burden of proof lies with the taxpayer.</p>
+          <p>A soci&eacute;t&eacute; holding animatrice must actively participate in determining the strategic direction of its subsidiaries and provide services (management, accounting, legal, HR) to them. Passive shareholding, simply owning shares and receiving dividends, does not qualify. The French tax authorities and courts examine whether the holding employs staff, provides documented services under management agreements, and exercises operational control. A search fund HoldCo that actively manages the acquired OpCo will typically qualify, but the burden of proof lies with the taxpayer.</p>
         </div>
 
         <h3 className={h3Class}>Can Dutreil be combined with other French tax optimization strategies?</h3>

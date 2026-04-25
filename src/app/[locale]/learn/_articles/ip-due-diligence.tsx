@@ -37,9 +37,9 @@ export default function IPDueDiligenceArticle() {
 
       <h2 className={h2Class}>IP Transfer in Asset vs. Stock Deals</h2>
       <div className={bodyClass}>
-        <p>The deal structure &mdash; whether a{" "}
+        <p>The deal structure, whether a{" "}
           <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">stock purchase or asset purchase</Link>{" "}
-          &mdash; fundamentally changes how IP transfers and what risks you inherit:
+          fundamentally changes how IP transfers and what risks you inherit:
         </p>
         <ul className={ulClass}>
           <li><strong>Stock purchase:</strong> IP stays with the company entity. No transfer needed. But verify there are no change-of-control triggers in licenses.</li>
@@ -64,7 +64,7 @@ export default function IPDueDiligenceArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Verify that the seller actually owns all claimed IP &mdash; missing contractor assignments are the most common issue</li>
+          <li>Verify that the seller actually owns all claimed IP, missing contractor assignments are the most common issue</li>
           <li>In asset deals, every IP asset must be explicitly assigned in writing and recorded with relevant authorities</li>
           <li>Review all third-party licenses for change-of-control provisions that could be triggered by the acquisition</li>
           <li>For software businesses, conduct an open-source audit to identify copyleft license risks</li>
@@ -107,13 +107,13 @@ export default function IPDueDiligenceArticle() {
       <div className={bodyClass}>
         <p>
           In a stock deal, the company entity remains the same, so IP
-          ownership does not change hands &mdash; but you must check for
+          ownership does not change hands, but you must check for
           change-of-control triggers in third-party licenses. In an asset
           deal, every IP asset must be explicitly assigned to the buyer in
           writing, and assignments must be recorded with relevant
           authorities (USPTO for patents and trademarks, EUIPO for EU
           trademarks, etc.). Domain names require separate transfer
-          processes through each registrar. Allow 2&ndash;4 weeks for
+          processes through each registrar. Allow 2-4 weeks for
           patent and trademark assignment recordings.
         </p>
       </div>
@@ -125,8 +125,8 @@ export default function IPDueDiligenceArticle() {
         <p>
           For any business where IP is a material driver of value (software,
           branded products, proprietary processes), engaging an IP attorney
-          is strongly recommended. Typical costs are $5K&ndash;$20K for a
-          focused IP audit. For software businesses, add $3K&ndash;$10K for
+          is strongly recommended. Typical costs are $5K-$20K for a
+          focused IP audit. For software businesses, add $3K-$10K for
           an open-source license audit using tools like Black Duck or FOSSA.
           These costs are small relative to the risk of acquiring impaired
           or contaminated IP assets.

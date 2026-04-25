@@ -93,7 +93,7 @@ export default function ETAEuropeFR() {
         <h3 className={h3Class}>Allemagne&nbsp;: le Mittelstand en mutation</h3>
         <p>
           L&apos;Allemagne présente une opportunité colossale avec son
-          Mittelstand &mdash; le réseau de PME et ETI (Entreprises de Taille
+          Mittelstand, le réseau de PME et ETI (Entreprises de Taille
           Intermédiaire) qui constitue l&apos;épine dorsale de l&apos;économie
           allemande. Des centaines de milliers d&apos;entreprises du Mittelstand
           font face au défi de la succession, selon l&apos;institut IfM Bonn.

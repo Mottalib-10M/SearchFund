@@ -17,7 +17,7 @@ export default function MBAToCEOPipelineArticle() {
       </p>
 
       <p className={bodyClass}>
-        The relationship between MBA programs and search funds is symbiotic and self-reinforcing. Top business schools provide the analytical frameworks, network connections, and institutional credibility that searchers need to succeed. In return, search funds offer MBA graduates an entrepreneurial path that leverages their newly acquired skills while avoiding the extreme uncertainty of traditional startups. Understanding this pipeline &mdash; how it works, which programs dominate, and how to use it &mdash; is essential for anyone considering the{" "}
+        The relationship between MBA programs and search funds is symbiotic and self-reinforcing. Top business schools provide the analytical frameworks, network connections, and institutional credibility that searchers need to succeed. In return, search funds offer MBA graduates an entrepreneurial path that leverages their newly acquired skills while avoiding the extreme uncertainty of traditional startups. Understanding this pipeline, how it works, which programs dominate, and how to use it, is essential for anyone considering the{" "}
         <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
           ETA path
         </Link>.
@@ -395,7 +395,7 @@ export default function MBAToCEOPipelineArticle() {
           fastest-growing segment of the ETA ecosystem.
         </p>
 
-        <h3 className={h3Class}>When should I launch my search &mdash; during or after my MBA?</h3>
+        <h3 className={h3Class}>When should I launch my search, during or after my MBA?</h3>
         <p className={bodyClass}>
           A hybrid approach has become the most common: begin preparation and
           network building during second year, conduct serious fundraising in

@@ -15,7 +15,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           back a first-time CEO to acquire and run a company, then govern
           through a small board with significant protective rights. According
           to the Stanford 2024 Search Fund Study, roughly one-third of
-          searcher-CEOs are eventually replaced by their boards &mdash; a
+          searcher-CEOs are eventually replaced by their boards, a
           statistic that highlights how governance in this asset class is not
           ceremonial. This guide breaks down the mechanics of search fund
           governance from the investor&rsquo;s seat: board composition, voting
@@ -24,10 +24,10 @@ export default function SearchFundGovernanceInvestorArticle() {
           performance falters.
         </p>
 
-        <h2 className={h2Class}>Board composition: the 3&ndash;5 seat standard</h2>
+        <h2 className={h2Class}>Board composition: the 3-5 seat standard</h2>
         <p>
           The typical search fund board has three to five seats. That small
-          number is intentional &mdash; it keeps decision-making fast while
+          number is intentional, it keeps decision-making fast while
           still representing all key stakeholders. The{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">
             standard board structure
@@ -36,9 +36,9 @@ export default function SearchFundGovernanceInvestorArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Investor directors (2&ndash;3 seats):</strong> The lead
+            <strong>Investor directors (2-3 seats):</strong> The lead
             investors who committed the largest checks typically claim board
-            seats. In a traditional search fund with 10&ndash;20 investors,
+            seats. In a traditional search fund with 10-20 investors,
             only two or three will sit on the board; the rest receive
             information rights and observer access. The lead investor usually
             serves as board chair and acts as the primary mentor to the CEO.
@@ -50,9 +50,9 @@ export default function SearchFundGovernanceInvestorArticle() {
             influence comes from operational credibility, not vote count.
           </li>
           <li>
-            <strong>Independent director (0&ndash;1 seat):</strong> An outside
+            <strong>Independent director (0-1 seat):</strong> An outside
             director with relevant industry expertise. This seat is
-            increasingly common and serves a dual purpose &mdash; it provides
+            increasingly common and serves a dual purpose, it provides
             domain knowledge the investor directors may lack, and it creates a
             neutral voice during contentious decisions like CEO compensation or
             removal. Some boards recruit this director from the{" "}
@@ -64,8 +64,8 @@ export default function SearchFundGovernanceInvestorArticle() {
         </ul>
         <p>
           The Stanford 2024 study found that search funds with active,
-          well-composed boards &mdash; meaning at least one director with deep
-          industry experience &mdash; delivered higher median returns than those
+          well-composed boards, meaning at least one director with deep
+          industry experience, delivered higher median returns than those
           with purely financial boards. Board composition is not a formality;
           it is a performance lever.
         </p>
@@ -86,9 +86,9 @@ export default function SearchFundGovernanceInvestorArticle() {
 
         <h3 className={h3Class}>Ordinary board decisions</h3>
         <p>
-          Standard board votes &mdash; approving annual budgets, authorizing
+          Standard board votes, approving annual budgets, authorizing
           capital expenditures above a threshold, hiring senior executives
-          &mdash; typically require a simple majority. Because investor
+          typically require a simple majority. Because investor
           directors hold two or three of the three to five seats, they can pass
           or block any ordinary resolution without the CEO&rsquo;s vote.
         </p>
@@ -97,7 +97,7 @@ export default function SearchFundGovernanceInvestorArticle() {
         <p>
           Protective provisions are the investor&rsquo;s strongest governance
           tool. These require consent from a supermajority of preferred
-          shareholders (often 60&ndash;75%) and typically cover:
+          shareholders (often 60-75%) and typically cover:
         </p>
         <ul className={ulClass}>
           <li>
@@ -117,7 +117,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           </li>
           <li>
             <strong>CEO compensation changes.</strong> Base salary, bonus
-            structures, and equity grants require investor approval &mdash;
+            structures, and equity grants require investor approval , 
             typically reviewed annually during the{" "}
             <Link href="/learn/ceo-performance-review" className="text-apple-accent hover:underline">
               CEO performance review
@@ -131,7 +131,7 @@ export default function SearchFundGovernanceInvestorArticle() {
         <p>
           These provisions give investors a hard veto on the decisions that
           matter most. They are the backstop that makes it possible to entrust
-          a $5&ndash;30M acquisition to a first-time CEO &mdash; the investor
+          a $5-30M acquisition to a first-time CEO, the investor
           group retains ultimate control over the capital structure, exit, and
           leadership of the business.
         </p>
@@ -145,7 +145,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           Alliance and the Stanford 2024 study show that approximately one in
           three searcher-CEOs are replaced at some point during the
           hold period. That figure is not a sign of failure in the model
-          &mdash; it is a feature. The search fund structure explicitly
+          it is a feature. The search fund structure explicitly
           contemplates that not every first-time CEO will succeed, and the
           governance framework is designed to allow a clean transition when
           performance warrants it.
@@ -177,8 +177,8 @@ export default function SearchFundGovernanceInvestorArticle() {
             searcher&rsquo;s carried interest. A CEO removed &ldquo;for
             cause&rdquo; typically forfeits all unvested equity. A CEO removed
             &ldquo;without cause&rdquo; may retain a portion of vested shares,
-            but the specifics vary by deal. The vesting schedule &mdash;
-            usually four years with a one-year cliff &mdash; gives the board a
+            but the specifics vary by deal. The vesting schedule , 
+            usually four years with a one-year cliff, gives the board a
             window to act before the CEO is fully vested.
           </li>
           <li>
@@ -189,14 +189,14 @@ export default function SearchFundGovernanceInvestorArticle() {
             <Link href="/learn/ceo-board-transition" className="text-apple-accent hover:underline">
               CEO-board transition playbook
             </Link>{" "}
-            matters enormously here &mdash; a botched handoff can damage
+            matters enormously here, a botched handoff can damage
             employee morale and customer relationships.
           </li>
         </ol>
         <p>
           The Stanford 2024 data show that funds where the board acted
-          decisively on CEO replacement &mdash; within the first 18 months of
-          recognizing a performance gap &mdash; had significantly better
+          decisively on CEO replacement, within the first 18 months of
+          recognizing a performance gap, had significantly better
           outcomes than those where the board delayed. Speed of action is a
           governance discipline, not a sign of impatience.
         </p>
@@ -216,7 +216,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           <Link href="/learn/monthly-board-package" className="text-apple-accent hover:underline">
             monthly board package
           </Link>{" "}
-          within 15&ndash;20 days of month-end. A strong package includes:
+          within 15-20 days of month-end. A strong package includes:
         </p>
         <ul className={ulClass}>
           <li>
@@ -228,11 +228,11 @@ export default function SearchFundGovernanceInvestorArticle() {
             pipeline, churn, employee headcount, and any industry-specific KPIs.
           </li>
           <li>
-            A CEO narrative (1&ndash;2 pages) covering wins, losses, and the
+            A CEO narrative (1-2 pages) covering wins, losses, and the
             top three priorities for the coming month.
           </li>
           <li>
-            Cash balance and a rolling 13-week cash flow forecast &mdash;
+            Cash balance and a rolling 13-week cash flow forecast , 
             especially critical in the first year post-acquisition when working
             capital patterns are still being understood.
           </li>
@@ -248,7 +248,7 @@ export default function SearchFundGovernanceInvestorArticle() {
         <p>
           The standard cadence is quarterly in-person (or video) board
           meetings, supplemented by the monthly written package. Some boards
-          meet monthly during the first 6&ndash;12 months post-acquisition,
+          meet monthly during the first 6-12 months post-acquisition,
           then shift to quarterly as the CEO demonstrates competence. Each
           quarterly meeting should cover:
         </p>
@@ -311,13 +311,13 @@ export default function SearchFundGovernanceInvestorArticle() {
             the business and needs a sounding board.
           </li>
           <li>
-            <strong>Years 2&ndash;3 (steady state):</strong> Quarterly board
+            <strong>Years 2-3 (steady state):</strong> Quarterly board
             meetings, monthly packages, and ad-hoc calls as needed. The CEO has
             established credibility and the board&rsquo;s role shifts from
             coaching to strategic oversight.
           </li>
           <li>
-            <strong>Years 4&ndash;7 (exit planning):</strong> Engagement
+            <strong>Years 4-7 (exit planning):</strong> Engagement
             increases again as the board and CEO align on exit timing,
             preparation, and process. The board&rsquo;s network becomes
             critical for sourcing buyers, negotiating terms, and managing the
@@ -353,8 +353,8 @@ export default function SearchFundGovernanceInvestorArticle() {
           </li>
           <li>
             <strong>Delayed CEO replacement.</strong> Boards that recognize
-            underperformance but delay action for two or three quarters &mdash;
-            hoping for a turnaround &mdash; consistently produce worse outcomes
+            underperformance but delay action for two or three quarters , 
+            hoping for a turnaround, consistently produce worse outcomes
             than boards that act within 90 days of confirming a pattern. The
             ~33% replacement rate exists because the model demands it; boards
             that avoid this responsibility do their LPs a disservice.
@@ -369,7 +369,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           </li>
           <li>
             <strong>Micromanagement disguised as mentorship.</strong> Some
-            investor directors &mdash; especially former operators &mdash;
+            investor directors, especially former operators , 
             insert themselves into hiring decisions, pricing strategy, or
             vendor negotiations. This erodes the CEO&rsquo;s authority with
             their own team and sends a signal that the board does not trust the
@@ -380,8 +380,8 @@ export default function SearchFundGovernanceInvestorArticle() {
           <li>
             <strong>Misaligned exit timing.</strong> Investors on a 7-year
             fund timeline may push for an earlier exit than the CEO believes
-            is optimal. This tension should be surfaced early &mdash;
-            ideally in the term sheet &mdash; with clear drag-along and
+            is optimal. This tension should be surfaced early , 
+            ideally in the term sheet, with clear drag-along and
             tag-along provisions. The{" "}
             <Link href="/learn/co-investment-search-fund" className="text-apple-accent hover:underline">
               co-investment structure
@@ -395,7 +395,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           Building a governance framework that works
         </h2>
         <p>
-          Effective governance is not about maximizing control &mdash; it is
+          Effective governance is not about maximizing control, it is
           about creating the conditions for a first-time CEO to succeed while
           protecting investor capital when they do not. Here is a practical
           framework:
@@ -467,8 +467,8 @@ export default function SearchFundGovernanceInvestorArticle() {
           without cause through a standard board vote. &ldquo;For cause&rdquo;
           removal (fraud, gross negligence, material breach of duties) typically
           results in forfeiture of all unvested equity. &ldquo;Without
-          cause&rdquo; removal &mdash; which covers straightforward
-          performance issues &mdash; usually allows the CEO to retain vested
+          cause&rdquo; removal, which covers straightforward
+          performance issues, usually allows the CEO to retain vested
           shares but accelerates no unvested equity. The specific terms are
           defined in the operating agreement and the CEO&rsquo;s employment
           contract, which are negotiated alongside the{" "}
@@ -498,7 +498,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           Three key differences. First, the CEO is typically a first-time
           operator rather than an experienced executive, so the board plays a
           larger mentorship role. Second, the investor base is fragmented
-          &mdash; 10 to 20 investors rather than a single fund &mdash; which
+         , 10 to 20 investors rather than a single fund, which
           means governance must accommodate multiple stakeholders with limited
           board seats. Third, the ~33% CEO replacement rate (per the Stanford
           2024 study and MBA Search Fund Alliance data) is higher than in
@@ -517,7 +517,7 @@ export default function SearchFundGovernanceInvestorArticle() {
           serves as a neutral voice during sensitive discussions like CEO
           compensation or removal. If budget constraints prevent adding an
           independent director at closing, investors should plan to add one
-          within the first 12&ndash;18 months. Companies reviewing their{" "}
+          within the first 12-18 months. Companies reviewing their{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
             investor selection process
           </Link>{" "}

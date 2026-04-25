@@ -16,7 +16,7 @@ export default function ETACroatiaSloveniaArticle() {
           <li><strong>Croatia:</strong> $80B GDP, 3.9M population. Tourism powerhouse (20M+ visitors/year). Growing services and tech sectors.</li>
           <li><strong>EU &amp; Eurozone:</strong> Both are EU and Eurozone members with euro currency. Full access to EU single market.</li>
           <li><strong>Business market:</strong> Dominated by SMEs. Post-transition business founders reaching retirement age.</li>
-          <li><strong>Valuations:</strong> 3&ndash;6x EBITDA. Discount to Austria and Italy but premium to Bulgaria and Romania.</li>
+          <li><strong>Valuations:</strong> 3-6x EBITDA. Discount to Austria and Italy but premium to Bulgaria and Romania.</li>
         </ul>
       </div>
 
@@ -25,7 +25,7 @@ export default function ETACroatiaSloveniaArticle() {
         <ul className={ulClass}>
           <li><strong>Slovenia corporate tax:</strong> 22%. Tax incentives for R&amp;D (100% deduction) and investment (40% deduction).</li>
           <li><strong>Croatia corporate tax:</strong> 18% (10% for companies with revenue under &euro;1M).</li>
-          <li><strong>Entity types:</strong> d.o.o. (both countries) &mdash; limited liability company, the standard acquisition vehicle</li>
+          <li><strong>Entity types:</strong> d.o.o. (both countries), limited liability company, the standard acquisition vehicle</li>
           <li><strong>Dividend tax:</strong> 25% in Slovenia; 10% in Croatia (with DTAA reductions possible)</li>
           <li><strong>Employment:</strong> Strong labor protections in both countries. Minimum notice periods and severance requirements.</li>
         </ul>
@@ -57,7 +57,7 @@ export default function ETACroatiaSloveniaArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Slovenia and Croatia offer EU/Eurozone access with 3&ndash;6x EBITDA valuations and high quality of life</li>
+          <li>Slovenia and Croatia offer EU/Eurozone access with 3-6x EBITDA valuations and high quality of life</li>
           <li>Slovenia&apos;s manufacturing and pharma sectors offer export-oriented, year-round business opportunities</li>
           <li>Croatia&apos;s tourism sector is booming but seasonal; services and tech are growing year-round alternatives</li>
           <li>Croatia&apos;s 10% corporate tax rate for small companies is among the EU&apos;s most attractive</li>
@@ -78,13 +78,13 @@ export default function ETACroatiaSloveniaArticle() {
       <h3 className={h3Class}>How does Croatia&rsquo;s 10% corporate tax rate for small companies work?</h3>
 
       <div className={bodyClass}>
-        <p>Croatia offers a reduced corporate tax rate of 10% for companies with annual revenue under &euro;1 million, compared to the standard rate of 18%. This makes Croatia one of the most tax-competitive jurisdictions in the EU for small businesses. The reduced rate applies automatically based on the prior year&rsquo;s revenue, with no special application required. For search fund acquirers targeting smaller Croatian businesses, this favorable tax rate can significantly improve post-acquisition cash flows and accelerate return of invested capital. However, as the business grows above the &euro;1 million revenue threshold, the rate increases to 18%&mdash;still competitive by EU standards but representing a meaningful step-up that should be modeled in financial projections.</p>
+        <p>Croatia offers a reduced corporate tax rate of 10% for companies with annual revenue under &euro;1 million, compared to the standard rate of 18%. This makes Croatia one of the most tax-competitive jurisdictions in the EU for small businesses. The reduced rate applies automatically based on the prior year&rsquo;s revenue, with no special application required. For search fund acquirers targeting smaller Croatian businesses, this favorable tax rate can significantly improve post-acquisition cash flows and accelerate return of invested capital. However, as the business grows above the &euro;1 million revenue threshold, the rate increases to 18%, still competitive by EU standards but representing a meaningful step-up that should be modeled in financial projections.</p>
       </div>
 
       <h3 className={h3Class}>Is the tourism seasonality in Croatia a deal-breaker for search fund acquisitions?</h3>
 
       <div className={bodyClass}>
-        <p>Seasonality is a significant factor but not necessarily a deal-breaker. According to the Croatian Chamber of Economy, Croatia attracts over 20 million tourists annually, with 70&ndash;80% of visits concentrated between May and September. Tourism-dependent businesses (hotels, yacht charter, tour operators) experience dramatic revenue swings, which creates working capital management challenges and complicates financing. However, some searchers view seasonality as an opportunity: off-season months can be used for renovations, system improvements, and strategic planning. Additionally, medical tourism (particularly dental services), year-round IT and software businesses, and manufacturing companies that serve export markets offer non-seasonal alternatives. The key is to model cash flow on a monthly basis and ensure the business can service its obligations during the low season.</p>
+        <p>Seasonality is a significant factor but not necessarily a deal-breaker. According to the Croatian Chamber of Economy, Croatia attracts over 20 million tourists annually, with 70-80% of visits concentrated between May and September. Tourism-dependent businesses (hotels, yacht charter, tour operators) experience dramatic revenue swings, which creates working capital management challenges and complicates financing. However, some searchers view seasonality as an opportunity: off-season months can be used for renovations, system improvements, and strategic planning. Additionally, medical tourism (particularly dental services), year-round IT and software businesses, and manufacturing companies that serve export markets offer non-seasonal alternatives. The key is to model cash flow on a monthly basis and ensure the business can service its obligations during the low season.</p>
       </div>
 
       <h3 className={h3Class}>Can I run a combined search across both Croatia and Slovenia?</h3>

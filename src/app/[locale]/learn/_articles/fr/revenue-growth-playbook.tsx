@@ -185,7 +185,7 @@ export default function RevenueGrowthFR() {
       <div className={bodyClass}>
         <p>
           Dans de nombreuses PME françaises, le processus commercial repose
-          sur le fondateur &mdash; qui est souvent le premier (voire le seul)
+          sur le fondateur, qui est souvent le premier (voire le seul)
           commercial de l&apos;entreprise. Le départ du cédant crée un risque
           majeur de perte de chiffre d&apos;affaires si les relations commerciales
           ne sont pas formalisées et transférées. La structuration du
@@ -245,7 +245,7 @@ export default function RevenueGrowthFR() {
         <p>
           Le cross-selling (vente croisée) et l&apos;up-selling (montée en gamme)
           représentent des leviers de croissance à fort potentiel, car ils
-          s&apos;appuient sur une base de clients existante &mdash; le coût
+          s&apos;appuient sur une base de clients existante, le coût
           d&apos;acquisition est donc nul ou marginal. Pourtant, de nombreuses PME
           n&apos;exploitent pas systématiquement ces opportunités.
         </p>

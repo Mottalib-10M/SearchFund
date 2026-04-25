@@ -11,7 +11,7 @@ export default function AcquiringDaycareChildcareArticle() {
         <p>
           The US childcare industry exceeds $60 billion in annual revenue and
           serves roughly 12 million children under age five. Yet the sector
-          remains deeply fragmented &mdash; dominated by single-location,
+          remains deeply fragmented, dominated by single-location,
           owner-operated centers ripe for{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>.
           Childcare is an essential service with structural demand that far
@@ -26,30 +26,30 @@ export default function AcquiringDaycareChildcareArticle() {
           <li>
             <strong>Essential service with inelastic demand:</strong> Parents
             cannot go to work without childcare. Demand remained resilient
-            during the 2008&ndash;2009 downturn and rebounded faster than
+            during the 2008-2009 downturn and rebounded faster than
             most sectors after pandemic-era disruptions.
           </li>
           <li>
             <strong>Chronic supply shortage:</strong> An estimated 51% of
-            Americans live in a &ldquo;childcare desert&rdquo; &mdash; more
+            Americans live in a &ldquo;childcare desert&rdquo;, more
             than three children under five for every licensed slot. Waitlists
-            stretch 6&ndash;18 months, providing exceptional revenue visibility.
+            stretch 6-18 months, providing exceptional revenue visibility.
           </li>
           <li>
             <strong>Recurring tuition revenue:</strong> Families pay weekly
-            or monthly tuition via autopay for 3&ndash;5 years per child,
+            or monthly tuition via autopay for 3-5 years per child,
             creating predictable, subscription-like cash flow.
           </li>
           <li>
             <strong>Community moat:</strong> Parents choose childcare based
             on proximity, trust, and caregiver relationships. Switching costs
-            are high &mdash; logistically and emotionally &mdash; making
+            are high, logistically and emotionally, making
             centers remarkably defensible against competitors.
           </li>
           <li>
             <strong>Fragmented ownership:</strong> Over 70% of US childcare
             centers are independently owned, many by founders approaching
-            retirement. This creates a large pipeline of $1M&ndash;$10M
+            retirement. This creates a large pipeline of $1M-$10M
             revenue targets ideal for search funds.
           </li>
         </ul>
@@ -59,39 +59,39 @@ export default function AcquiringDaycareChildcareArticle() {
         <h3 className={h3Class}>Center-based daycare</h3>
         <p>
           The most common model: a standalone facility licensed for
-          30&ndash;200+ children across infant, toddler, and preschool age
-          groups. Centers typically charge $800&ndash;$2,500 per month per
+          30-200+ children across infant, toddler, and preschool age
+          groups. Centers typically charge $800-$2,500 per month per
           child depending on age and geography. A well-run center with 100+
-          children can generate $1.5M&ndash;$4M in annual revenue with
-          12&ndash;20% EBITDA margins.
+          children can generate $1.5M-$4M in annual revenue with
+          12-20% EBITDA margins.
         </p>
 
         <h3 className={h3Class}>Family daycare (home-based)</h3>
         <p>
-          Home-based providers serving 6&ndash;12 children each. Individual
+          Home-based providers serving 6-12 children each. Individual
           family daycares are too small for search funds, but managed networks
-          of home-based providers can reach $2M&ndash;$8M in revenue and
+          of home-based providers can reach $2M-$8M in revenue and
           make attractive acquisition targets.
         </p>
 
         <h3 className={h3Class}>Montessori and specialized curriculum programs</h3>
         <p>
-          Montessori, Reggio Emilia, and Waldorf programs command 20&ndash;40%
+          Montessori, Reggio Emilia, and Waldorf programs command 20-40%
           tuition premiums, attracting higher-income families with lower price
           sensitivity. They require specially trained teachers (Montessori
-          certification takes 1&ndash;2 years) and adherence to pedagogical
+          certification takes 1-2 years) and adherence to pedagogical
           standards that constrain operational flexibility. Affluent-market
-          Montessori schools can generate $2M&ndash;$6M in revenue with
-          15&ndash;25% EBITDA margins.
+          Montessori schools can generate $2M-$6M in revenue with
+          15-25% EBITDA margins.
         </p>
 
         <h3 className={h3Class}>Before-school and after-school programs</h3>
         <p>
-          These serve school-age children (5&ndash;12) outside regular school
+          These serve school-age children (5-12) outside regular school
           hours, often operating within public school facilities under
-          district contracts. Revenue per child is lower ($300&ndash;$800/month)
+          district contracts. Revenue per child is lower ($300-$800/month)
           but facility costs are minimal and staff ratios more favorable
-          (1:10&ndash;1:15 vs. 1:3&ndash;1:4 for infants). They scale
+          (1:10-1:15 vs. 1:3-1:4 for infants). They scale
           efficiently across multiple school sites.
         </p>
 
@@ -99,10 +99,10 @@ export default function AcquiringDaycareChildcareArticle() {
         <p>
           National franchises (KinderCare, Goddard School, Primrose Schools)
           provide brand recognition, operational playbooks, and marketing
-          support but charge 5&ndash;7% of gross revenue in fees, compressing
+          support but charge 5-7% of gross revenue in fees, compressing
           margins and restricting autonomy. Independent centers offer greater
           flexibility and higher margins but require you to build systems
-          from scratch &mdash; or inherit whatever the previous owner created.
+          from scratch, or inherit whatever the previous owner created.
         </p>
 
         <h2 className={h2Class}>Due diligence: what to examine closely</h2>
@@ -115,8 +115,8 @@ export default function AcquiringDaycareChildcareArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            Obtain the complete licensing history &mdash; inspection reports,
-            citations, corrective actions, and complaints &mdash; for at
+            Obtain the complete licensing history, inspection reports,
+            citations, corrective actions, and complaints, for at
             least five years.
           </li>
           <li>
@@ -124,9 +124,9 @@ export default function AcquiringDaycareChildcareArticle() {
             ADA accessibility, and health department regulations.
           </li>
           <li>
-            Confirm how ownership transfer affects the license &mdash; some
+            Confirm how ownership transfer affects the license, some
             states allow transfer, others require a new application that
-            can take 30&ndash;90 days.
+            can take 30-90 days.
           </li>
           <li>
             Review pending regulatory actions or upcoming changes to
@@ -141,15 +141,15 @@ export default function AcquiringDaycareChildcareArticle() {
           State-mandated ratios typically fall within these ranges:
         </p>
         <ul className={ulClass}>
-          <li><strong>Infants (0&ndash;12 months):</strong> 1:3 to 1:4</li>
-          <li><strong>Toddlers (12&ndash;24 months):</strong> 1:4 to 1:6</li>
+          <li><strong>Infants (0-12 months):</strong> 1:3 to 1:4</li>
+          <li><strong>Toddlers (12-24 months):</strong> 1:4 to 1:6</li>
           <li><strong>Two-year-olds:</strong> 1:5 to 1:8</li>
-          <li><strong>Preschool (3&ndash;5 years):</strong> 1:8 to 1:12</li>
+          <li><strong>Preschool (3-5 years):</strong> 1:8 to 1:12</li>
           <li><strong>School-age (5+):</strong> 1:10 to 1:15</li>
         </ul>
         <p>
           A center heavy on infant enrollment will have significantly higher
-          labor costs per revenue dollar than one focused on preschool &mdash;
+          labor costs per revenue dollar than one focused on preschool , 
           even though infant tuition is higher. Verify actual staffing
           against both state minimums and industry best practices.
         </p>
@@ -181,7 +181,7 @@ export default function AcquiringDaycareChildcareArticle() {
           electrical, playground equipment, fencing, and environmental concerns
           (lead paint, asbestos). For leased facilities, review remaining
           term, renewal options, rent escalation, and change-of-control
-          provisions &mdash; a center with fewer than five years on its lease
+          provisions, a center with fewer than five years on its lease
           carries significant location risk. On insurance, childcare requires
           general liability, professional liability (abuse/molestation
           coverage), workers&rsquo; compensation, and property coverage.
@@ -191,23 +191,23 @@ export default function AcquiringDaycareChildcareArticle() {
 
         <h2 className={h2Class}>Valuation benchmarks</h2>
         <p>
-          Childcare businesses typically trade at 5&ndash;8x EBITDA:
+          Childcare businesses typically trade at 5-8x EBITDA:
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Single-location independents:</strong> 4&ndash;6x EBITDA.
-            The core search fund opportunity &mdash; a center with
-            $500K&ndash;$1.5M EBITDA that can serve as a growth platform.
+            <strong>Single-location independents:</strong> 4-6x EBITDA.
+            The core search fund opportunity, a center with
+            $500K-$1.5M EBITDA that can serve as a growth platform.
           </li>
           <li>
-            <strong>Multi-location operators:</strong> 6&ndash;8x EBITDA
+            <strong>Multi-location operators:</strong> 6-8x EBITDA
             due to reduced{" "}
             <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link> and
             demonstrated scalability.
           </li>
           <li>
             <strong>Premium programs:</strong> Montessori and language
-            immersion programs in affluent markets can command 7&ndash;9x
+            immersion programs in affluent markets can command 7-9x
             EBITDA with strong brand recognition and long waitlists.
           </li>
           <li>
@@ -238,12 +238,12 @@ export default function AcquiringDaycareChildcareArticle() {
           <li>
             <strong>Classroom reconfiguration:</strong> Reallocating space
             from over-supplied age groups to under-supplied ones (e.g.,
-            infants with the longest waitlists) can add 10&ndash;20 children
+            infants with the longest waitlists) can add 10-20 children
             without facility expansion.
           </li>
           <li>
             <strong>Flexible scheduling:</strong> Part-time options (2-day,
-            3-day, 5-day) let you serve 15&ndash;18 children in a 12-spot
+            3-day, 5-day) let you serve 15-18 children in a 12-spot
             classroom through staggered enrollment.
           </li>
           <li>
@@ -258,29 +258,29 @@ export default function AcquiringDaycareChildcareArticle() {
           <li>
             <strong>Summer camp:</strong> Fills the revenue gap when
             before/after-school programs pause. Tuition can reach
-            $250&ndash;$500 per week per child.
+            $250-$500 per week per child.
           </li>
           <li>
             <strong>Enrichment classes:</strong> Spanish, music, coding, or
-            swimming add $50&ndash;$200/month per child, delivered by
+            swimming add $50-$200/month per child, delivered by
             contracted specialists rather than permanent staff.
           </li>
           <li>
             <strong>Drop-in care:</strong> Hourly or daily spots at
-            $15&ndash;$25/hour serve parents with irregular schedules and
+            $15-$25/hour serve parents with irregular schedules and
             fill unused capacity.
           </li>
         </ul>
 
         <h3 className={h3Class}>Staff retention and training</h3>
         <p>
-          Annual turnover averages 30&ndash;40% industry-wide, with median
+          Annual turnover averages 30-40% industry-wide, with median
           childcare worker pay at roughly $14/hour. Effective{" "}
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link> practices
           are essential for maintaining team stability. Even modest wage
-          increases ($1&ndash;$2/hour) with benefits (health insurance, PTO,
-          employee childcare discounts) dramatically reduce turnover &mdash;
-          replacing a trained caregiver costs $3,000&ndash;$5,000. Build
+          increases ($1-$2/hour) with benefits (health insurance, PTO,
+          employee childcare discounts) dramatically reduce turnover , 
+          replacing a trained caregiver costs $3,000-$5,000. Build
           career pathways from assistant teacher to lead teacher to director,
           and fund CDA credentials and continuing education.
         </p>
@@ -289,14 +289,14 @@ export default function AcquiringDaycareChildcareArticle() {
         <p>
           Childcare is one of the strongest{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> sectors
-          in ETA. A cluster strategy &mdash; acquiring centers within a
-          15&ndash;30-mile radius &mdash; enables shared management,
+          in ETA. A cluster strategy, acquiring centers within a
+          15-30-mile radius, enables shared management,
           substitute teacher pools, centralized purchasing, and unified
-          marketing. Individual centers acquired at 4&ndash;6x EBITDA
-          integrate into a platform valued at 7&ndash;10x, creating
+          marketing. Individual centers acquired at 4-6x EBITDA
+          integrate into a platform valued at 7-10x, creating
           substantial arbitrage. For de novo expansion in underserved
-          markets, expect 12&ndash;18 months to breakeven and
-          $500K&ndash;$1.5M in pre-opening capital.
+          markets, expect 12-18 months to breakeven and
+          $500K-$1.5M in pre-opening capital.
         </p>
 
         <h3 className={h3Class}>Technology for parent communication</h3>
@@ -305,22 +305,22 @@ export default function AcquiringDaycareChildcareArticle() {
           reports, and manual invoicing. Modern childcare software
           (Brightwheel, HiMama, Procare) delivers immediate wins: real-time
           photo and activity updates that build parent trust, automated
-          billing that reduces accounts receivable from 15&ndash;20 days to
+          billing that reduces accounts receivable from 15-20 days to
           near-zero, digital compliance documentation that streamlines
           licensing inspections, and operational dashboards tracking
-          enrollment, capacity utilization, and cost per classroom &mdash;
+          enrollment, capacity utilization, and cost per classroom , 
           data most independent operators have never had.
         </p>
 
         <h2 className={h2Class}>Government subsidies and funding</h2>
         <p>
           The Child Care and Development Fund (CCDF) and state-level
-          programs &mdash; including Head Start partnerships and pre-K
-          funding &mdash; can contribute 10&ndash;40% of a center&rsquo;s
+          programs: including Head Start partnerships and pre-K
+          funding, can contribute 10-40% of a center&rsquo;s
           revenue. During diligence, assess subsidy revenue as a share of
           total revenue, reimbursement rates versus private-pay tuition
-          (subsidies typically reimburse 60&ndash;80% of market rates),
-          payment timing (government payments can lag 30&ndash;60 days),
+          (subsidies typically reimburse 60-80% of market rates),
+          payment timing (government payments can lag 30-60 days),
           and the political stability of funding programs. The most
           resilient businesses maintain a balanced mix of private-pay and
           subsidy-funded enrollment.
@@ -331,7 +331,7 @@ export default function AcquiringDaycareChildcareArticle() {
           <li>
             <strong>Labor scarcity:</strong> Mitigate through above-market
             compensation, benefits, career development, and workplace
-            culture. Budget 55&ndash;65% of revenue for total labor costs.
+            culture. Budget 55-65% of revenue for total labor costs.
           </li>
           <li>
             <strong>Regulatory changes:</strong> Legislatures periodically
@@ -363,9 +363,9 @@ export default function AcquiringDaycareChildcareArticle() {
           Daycare and childcare businesses offer search fund operators a
           compelling combination of essential-service demand, recurring
           revenue, community-based defensibility, and abundant operational
-          improvement opportunities. The challenges are real &mdash; labor
+          improvement opportunities. The challenges are real, labor
           scarcity, regulatory complexity, and the weighty responsibility
-          of caring for children &mdash; but they also create barriers to
+          of caring for children, but they also create barriers to
           entry that protect established operators. For ETA entrepreneurs
           willing to invest in their teams, embrace compliance as a
           competitive advantage, and build systems that enable multi-location
@@ -377,17 +377,17 @@ export default function AcquiringDaycareChildcareArticle() {
 
         <h3 className={h3Class}>How much does it cost to acquire a daycare or childcare center?</h3>
         <p>
-          Childcare centers typically trade at 5&ndash;8x EBITDA. A well-run
-          single-location center generating $500K&ndash;$1.5M in EBITDA will
-          have a total enterprise value of $2.5M&ndash;$12M. Multi-location
-          operators command 6&ndash;8x due to reduced{" "}
+          Childcare centers typically trade at 5-8x EBITDA. A well-run
+          single-location center generating $500K-$1.5M in EBITDA will
+          have a total enterprise value of $2.5M-$12M. Multi-location
+          operators command 6-8x due to reduced{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link>{" "}
           and demonstrated scalability. Premium programs such as Montessori or
-          language immersion in affluent markets can reach 7&ndash;9x. When
+          language immersion in affluent markets can reach 7-9x. When
           the facility is owned, real estate is typically valued separately and
           structured as a lease-back arrangement. Total acquisition capital
           (including working capital and any deferred maintenance) often exceeds
-          the headline purchase price by 10&ndash;15%.
+          the headline purchase price by 10-15%.
         </p>
 
         <h3 className={h3Class}>What licensing requirements apply to childcare acquisitions?</h3>
@@ -395,9 +395,9 @@ export default function AcquiringDaycareChildcareArticle() {
           Every childcare center operates under a state-issued license covering
           staff qualifications, child-to-staff ratios, facility safety, health
           protocols, and background check requirements. The critical diligence
-          question is how ownership transfer affects the license &mdash; some
+          question is how ownership transfer affects the license, some
           states allow direct transfer, while others require a new application
-          that can take 30&ndash;90 days. Obtain the complete licensing history
+          that can take 30-90 days. Obtain the complete licensing history
           for at least five years, including inspection reports, citations,
           corrective actions, and complaints. Verify that the facility meets
           current building codes, fire safety, ADA accessibility, and health
@@ -408,14 +408,14 @@ export default function AcquiringDaycareChildcareArticle() {
         <p>
           Staff retention is the single most important operational priority in
           childcare acquisitions. Industry-wide annual turnover averages
-          30&ndash;40%, driven by median childcare worker pay of roughly $14
-          per hour. Even modest wage increases of $1&ndash;$2 per hour, combined
+          30-40%, driven by median childcare worker pay of roughly $14
+          per hour. Even modest wage increases of $1-$2 per hour, combined
           with benefits such as health insurance, paid time off, and employee
           childcare discounts, can dramatically reduce turnover. Building career
           pathways from assistant teacher to lead teacher to director, funding
           CDA credentials and continuing education, and creating a positive
           workplace culture are all essential. Replacing a trained caregiver
-          costs $3,000&ndash;$5,000, so retention investments pay for themselves
+          costs $3,000-$5,000, so retention investments pay for themselves
           quickly. A thoughtful{" "}
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link>{" "}
           plan is critical during the first 90 days.
@@ -424,13 +424,13 @@ export default function AcquiringDaycareChildcareArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <strong>IBISWorld</strong> &mdash; &ldquo;Child Care Services Industry in the US &mdash; Market Research Report,&rdquo; 2024.
+            <strong>IBISWorld</strong>, &ldquo;Child Care Services Industry in the US, Market Research Report,&rdquo; 2024.
           </li>
           <li>
-            <strong>Child Care Aware of America</strong> &mdash; &ldquo;The State of Child Care in America &mdash; Supply, Demand, and Affordability,&rdquo; 2024.
+            <strong>Child Care Aware of America</strong>, &ldquo;The State of Child Care in America, Supply, Demand, and Affordability,&rdquo; 2024.
           </li>
           <li>
-            <strong>Bureau of Labor Statistics</strong> &mdash; &ldquo;Occupational Outlook Handbook: Childcare Workers,&rdquo; 2024.
+            <strong>Bureau of Labor Statistics</strong>: &ldquo;Occupational Outlook Handbook: Childcare Workers,&rdquo; 2024.
           </li>
         </ul>
       </div>

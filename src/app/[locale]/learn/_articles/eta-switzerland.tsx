@@ -91,8 +91,8 @@ export default function ETASwitzerlandArticle() {
           impact on overall tax efficiency.
         </p>
         <ul className={ulClass}>
-          <li><strong>Zug:</strong> Canton Zug is Switzerland&apos;s most famous low-tax jurisdiction, with an effective combined corporate tax rate (federal, cantonal, and municipal) of approximately 11&ndash;12%. Zug has attracted a large number of international companies and holding structures. The city of Zug itself offers some of the lowest rates in the canton.</li>
-          <li><strong>Schwyz:</strong> Canton Schwyz offers similarly competitive tax rates, with effective corporate tax rates in certain municipalities as low as 12&ndash;13%. Schwyz is particularly attractive for holding companies due to its favorable treatment of participation income.</li>
+          <li><strong>Zug:</strong> Canton Zug is Switzerland&apos;s most famous low-tax jurisdiction, with an effective combined corporate tax rate (federal, cantonal, and municipal) of approximately 11-12%. Zug has attracted a large number of international companies and holding structures. The city of Zug itself offers some of the lowest rates in the canton.</li>
+          <li><strong>Schwyz:</strong> Canton Schwyz offers similarly competitive tax rates, with effective corporate tax rates in certain municipalities as low as 12-13%. Schwyz is particularly attractive for holding companies due to its favorable treatment of participation income.</li>
           <li><strong>Nidwalden:</strong> Canton Nidwalden has established itself as a competitive alternative to Zug and Schwyz, with effective corporate tax rates around 12%. The canton actively courts new businesses with a streamlined administrative environment.</li>
           <li><strong>Other competitive cantons:</strong> Appenzell Innerrhoden, Obwalden, and Lucerne also offer competitive rates. Even traditionally higher-tax cantons like Zurich and Geneva have reduced their rates following the 2020 federal tax reform (TRAF).</li>
           <li><strong>TRAF impact:</strong> The Tax Reform and AHV Financing (TRAF) reform, which took effect in 2020, abolished preferential tax regimes for holding, domiciliary, and mixed companies but introduced new tools such as the patent box, R&amp;D super deductions, and stepped-up depreciation that can benefit acquirers of innovative businesses.</li>
@@ -121,8 +121,8 @@ export default function ETASwitzerlandArticle() {
 
         <h2 className={h2Class}>The multilingual market</h2>
         <p>
-          Switzerland&apos;s four national languages&mdash;German, French, Italian,
-          and Romansh&mdash;create distinct regional business environments within
+          Switzerland&apos;s four national languages, German, French, Italian,
+          and Romansh, create distinct regional business environments within
           a single country. Understanding these linguistic regions is essential
           for search fund entrepreneurs.
         </p>
@@ -146,7 +146,7 @@ export default function ETASwitzerlandArticle() {
           <li><strong>Skilled workforce:</strong> Switzerland&apos;s dual education system (combining academic and vocational training) produces one of the most skilled workforces in the world. Employee expertise is a genuine competitive advantage that is difficult to replicate.</li>
           <li><strong>Innovation:</strong> Swiss KMUs are often highly innovative, investing in R&amp;D and continuously improving their products and processes. This innovation creates sustainable competitive moats.</li>
           <li><strong>Economic stability:</strong> Switzerland&apos;s stable political and economic environment reduces risk premiums. Low inflation, a strong currency, and predictable regulation create an environment where long-term business planning is feasible.</li>
-          <li><strong>Export orientation:</strong> Many Swiss KMUs derive 50&ndash;80% of revenue from exports, diversifying their revenue base beyond the small domestic market.</li>
+          <li><strong>Export orientation:</strong> Many Swiss KMUs derive 50-80% of revenue from exports, diversifying their revenue base beyond the small domestic market.</li>
         </ul>
 
         <h2 className={h2Class}>Swiss banking relationships</h2>
@@ -167,7 +167,7 @@ export default function ETASwitzerlandArticle() {
           are available for search fund acquisitions in Switzerland.
         </p>
         <ul className={ulClass}>
-          <li><strong>Seller financing:</strong> Swiss business owners are often willing to provide seller financing of 15&ndash;25% of the purchase price, particularly when the buyer demonstrates commitment to the business&apos;s long-term success. Seller loans are typically subordinated to bank debt and structured with terms of two to five years.</li>
+          <li><strong>Seller financing:</strong> Swiss business owners are often willing to provide seller financing of 15-25% of the purchase price, particularly when the buyer demonstrates commitment to the business&apos;s long-term success. Seller loans are typically subordinated to bank debt and structured with terms of two to five years.</li>
           <li><strong>Technology funds:</strong> Various cantonal and federal technology and innovation funds can provide financing for acquisitions of technology-oriented KMUs, particularly where the acquirer plans post-acquisition investment in R&amp;D or digitalization.</li>
           <li><strong>Private debt funds:</strong> A growing number of Swiss private debt funds provide mezzanine and subordinated financing for KMU transactions, filling the gap between senior bank debt and equity.</li>
         </ul>
@@ -250,7 +250,7 @@ export default function ETASwitzerlandArticle() {
         <h3 className={h3Class}>What are the challenges of acquiring a business in Switzerland?</h3>
         <p>
           Key challenges include high valuations (Swiss businesses command a
-          1&ndash;2x EBITDA premium over EU peers), high labor costs, complex
+          1-2x EBITDA premium over EU peers), high labor costs, complex
           cantonal tax variations, multiple languages across regions, and strict
           work permit requirements for non-EU nationals under the Lex Koller
           legislation. Competition from local family offices and PE firms for

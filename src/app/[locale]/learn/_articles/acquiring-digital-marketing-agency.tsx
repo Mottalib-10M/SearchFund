@@ -24,9 +24,9 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
         <h2 className={h2Class}>Why acquire a digital marketing agency?</h2>
         <ul className={ulClass}>
           <li><strong>Fragmented market:</strong> According to IBISWorld, there are 120,000+ digital marketing agencies in the US alone, the vast majority with under $5M revenue. No dominant player controls meaningful market share</li>
-          <li><strong>Recurring revenue:</strong> Well-run agencies generate 60&ndash;80% of revenue from monthly retainer contracts (SEO, social media management, PPC management)</li>
+          <li><strong>Recurring revenue:</strong> Well-run agencies generate 60-80% of revenue from monthly retainer contracts (SEO, social media management, PPC management)</li>
           <li><strong>Asset-light:</strong> Minimal capex. Primary assets are people, client relationships, and processes</li>
-          <li><strong>High margins:</strong> Gross margins of 50&ndash;70%, EBITDA margins of 15&ndash;25% for well-managed agencies</li>
+          <li><strong>High margins:</strong> Gross margins of 50-70%, EBITDA margins of 15-25% for well-managed agencies</li>
           <li><strong>Roll-up potential:</strong> Add specialized capabilities (SEO, paid media, creative, web dev) through{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
               add-on acquisitions
@@ -57,27 +57,27 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
               concentration risk
             </Link>. Agency clients can leave with 30 days notice</li>
           <li><strong>Client retention rate:</strong> Target 85%+ annual net revenue retention. Ask for monthly MRR cohort data, not just top-line revenue</li>
-          <li><strong>Contract structure:</strong> Monthly retainers with 30&ndash;90 day notice periods. Longer notice = more stability. Check for auto-renewal clauses</li>
+          <li><strong>Contract structure:</strong> Monthly retainers with 30-90 day notice periods. Longer notice = more stability. Check for auto-renewal clauses</li>
           <li><strong>Key person dependency:</strong> Is the founder the primary client relationship manager? If clients came for the founder, they may leave after the sale. See{" "}
             <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">
               key person risk
             </Link></li>
           <li><strong>Employee retention:</strong> Agency talent is the product. Assess account manager tenure, compensation competitiveness, and flight risk of key employees</li>
-          <li><strong>Revenue per employee:</strong> Promethean Research benchmarks indicate healthy agencies generate $120K&ndash;$200K+ per employee. Below $100K signals overstaffing or low pricing</li>
+          <li><strong>Revenue per employee:</strong> Promethean Research benchmarks indicate healthy agencies generate $120K-$200K+ per employee. Below $100K signals overstaffing or low pricing</li>
           <li><strong>Contractor vs. employee mix:</strong> Heavy contractor reliance reduces fixed costs but increases delivery risk and institutional knowledge loss</li>
         </ul>
 
         <h2 className={h2Class}>Valuation</h2>
         <ul className={ulClass}>
-          <li><strong>Typical range:</strong> 3&ndash;6x EBITDA or 0.6&ndash;1.2x revenue for agencies with $500K&ndash;$3M EBITDA</li>
+          <li><strong>Typical range:</strong> 3-6x EBITDA or 0.6-1.2x revenue for agencies with $500K-$3M EBITDA</li>
           <li><strong>Premium factors:</strong> Vertical specialization (+1x), 80%+ recurring revenue (+1x), strong management team (+0.5x), proven growth (+0.5x)</li>
-          <li><strong>Discount factors:</strong> Founder-dependent (-1&ndash;2x), project-based revenue (-1x), high client concentration (-1x)</li>
+          <li><strong>Discount factors:</strong> Founder-dependent (-1-2x), project-based revenue (-1x), high client concentration (-1x)</li>
           <li><strong>SDE vs. EBITDA:</strong> For sub-$1M EBITDA agencies, use{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
               SDE (Seller&rsquo;s Discretionary Earnings)
             </Link>{" "}
             which adds back the owner&rsquo;s salary and perks</li>
-          <li><strong>Earn-out:</strong> Common to structure 20&ndash;30% of the price as an{" "}
+          <li><strong>Earn-out:</strong> Common to structure 20-30% of the price as an{" "}
             <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
               earn-out
             </Link>{" "}
@@ -86,10 +86,10 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
 
         <h2 className={h2Class}>Post-acquisition playbook</h2>
         <ul className={ulClass}>
-          <li><strong>Retain key account managers:</strong> Offer retention bonuses and equity incentives to the top 3&ndash;5 client-facing employees</li>
+          <li><strong>Retain key account managers:</strong> Offer retention bonuses and equity incentives to the top 3-5 client-facing employees</li>
           <li><strong>Meet every client:</strong> Within 30 days, meet each client personally. Reassure them about continuity and gather feedback on service quality</li>
           <li><strong>Systematize delivery:</strong> Document processes, create SOPs, and implement project management tools (Asana, Monday, ClickUp) to reduce dependence on tribal knowledge</li>
-          <li><strong>Raise prices:</strong> Most founder-led agencies undercharge. A 10&ndash;20%{" "}
+          <li><strong>Raise prices:</strong> Most founder-led agencies undercharge. A 10-20%{" "}
             <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">
               pricing increase
             </Link>{" "}
@@ -102,13 +102,13 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
         <p>
           Digital marketing agencies carry several unique risks that
           acquirers must underwrite carefully. Client concentration is the
-          most immediate threat &mdash; agencies often have short contract
-          terms (30&ndash;90 day cancellation clauses), and a single large
+          most immediate threat, agencies often have short contract
+          terms (30-90 day cancellation clauses), and a single large
           client departure can materially impair the business. Talent
           retention is equally critical because the agency&rsquo;s product
           is its people. Senior account managers and strategists who leave
           post-acquisition may take client relationships with them. AI
-          disruption is an emerging risk &mdash; generative AI tools are
+          disruption is an emerging risk, generative AI tools are
           already automating content creation, basic design, and ad
           optimization, which could compress margins on lower-value services.
           The best defense is to acquire agencies with defensible specialization
@@ -122,12 +122,12 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
           How much is a digital marketing agency worth?
         </h3>
         <p>
-          Most digital marketing agencies sell for 3&ndash;6x EBITDA or
-          0.6&ndash;1.2x revenue for agencies with $500K&ndash;$3M EBITDA.
+          Most digital marketing agencies sell for 3-6x EBITDA or
+          0.6-1.2x revenue for agencies with $500K-$3M EBITDA.
           Vertical specialization, 80%+ recurring retainer revenue, and a
-          strong management team each add approximately 0.5&ndash;1x to the
+          strong management team each add approximately 0.5-1x to the
           multiple. Founder-dependent agencies with project-based revenue
-          trade at significant discounts. Earn-outs of 20&ndash;30% tied to
+          trade at significant discounts. Earn-outs of 20-30% tied to
           client retention are common deal structures. For more detail, see
           our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
@@ -158,7 +158,7 @@ export default function AcquiringDigitalMarketingAgencyArticle() {
           them about service continuity, introduce yourself as someone
           investing in the agency&rsquo;s growth (not cutting costs), and
           gather feedback on what they value most. Retain key account
-          managers with bonuses vesting over 12&ndash;18 months &mdash; in
+          managers with bonuses vesting over 12-18 months, in
           agencies, the account manager relationship is often more important
           to the client than the agency brand itself. Document all processes
           and create SOPs so that institutional knowledge does not reside

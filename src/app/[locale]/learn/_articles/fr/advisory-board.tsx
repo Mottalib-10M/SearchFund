@@ -100,9 +100,9 @@ export default function AdvisoryBoardFR() {
 
         <h3 className={h3Class}>Le financier / ex-banker</h3>
         <p>
-          Un professionnel de la finance d&apos;entreprise &mdash; ancien banquier
+          Un professionnel de la finance d&apos;entreprise, ancien banquier
           d&apos;affaires, directeur financier de PME-ETI, expert-comptable
-          expérimenté &mdash; qui apporte son expertise sur la structuration
+          expérimenté, qui apporte son expertise sur la structuration
           financière, la gestion de trésorerie, les relations bancaires et les
           opérations de croissance externe. Ce profil est particulièrement
           précieux pour un searcher issu d&apos;un parcours non financier.
@@ -221,7 +221,7 @@ export default function AdvisoryBoardFR() {
             <strong>Présentation du dirigeant (30 min)&nbsp;:</strong> Le
             searcher présente les faits marquants du trimestre, les résultats
             financiers et opérationnels, les réussites et les difficultés. Le
-            format est moins formel que le reporting aux investisseurs &mdash;
+            format est moins formel que le reporting aux investisseurs , 
             l&apos;accent est mis sur les enjeux opérationnels concrets.
           </li>
           <li>
@@ -385,7 +385,7 @@ export default function AdvisoryBoardFR() {
           <li>
             <strong>Exprimer sa gratitude&nbsp;:</strong> Un remerciement
             personnalisé après chaque réunion, un cadeau symbolique en fin
-            d&apos;année, une invitation à un événement d&apos;entreprise &mdash; ces
+            d&apos;année, une invitation à un événement d&apos;entreprise, ces
             gestes simples entretiennent la motivation des membres bénévoles.
           </li>
           <li>

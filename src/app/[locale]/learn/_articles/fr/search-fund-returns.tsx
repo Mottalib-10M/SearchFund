@@ -95,7 +95,7 @@ export default function SearchFundReturnsFR() {
           Ces chiffres incluent les search funds qui ont réalisé une
           acquisition mais dont le résultat est négatif (perte partielle ou
           totale du capital). Ils excluent en revanche les search funds qui
-          n&apos;ont pas abouti à une acquisition &mdash; dans ce cas, les
+          n&apos;ont pas abouti à une acquisition, dans ce cas, les
           investisseurs de la phase de recherche perdent typiquement leur
           mise initiale (300&nbsp;000 à 600&nbsp;000&nbsp;&euro;), mais cette
           perte est mitigée par le mécanisme de step-up sur les search funds

@@ -474,7 +474,7 @@ export default function AcquisitionFinancingFR() {
           CRA (Cédants et Repreneurs d&apos;Affaires) &mdash; <em>Le Financement de la Reprise&nbsp;: sources et montages</em>, 2024.
         </li>
         <li>
-          Code Général des Impôts &mdash; Article 212 bis (limitation de la déductibilité des charges financières), version en vigueur.
+          Code Général des Impôts, Article 212 bis (limitation de la déductibilité des charges financières), version en vigueur.
         </li>
       </ul>
     </article>

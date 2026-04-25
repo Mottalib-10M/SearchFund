@@ -11,12 +11,12 @@ export default function ETABalticsArticle() {
         <p>
           Estonia, Latvia, and Lithuania form one of Europe&apos;s most overlooked acquisition
           markets. Together they offer 6 million people, three EU and Eurozone member states,
-          and SME valuations that routinely sit at 2&ndash;4x EBITDA&mdash;a fraction of the
-          8&ndash;12x multiples common in the Nordics next door. For search fund entrepreneurs
+          and SME valuations that routinely sit at 2-4x EBITDA, a fraction of the
+          8-12x multiples common in the Nordics next door. For search fund entrepreneurs
           willing to operate in smaller economies, the Baltics deliver a rare combination:
           EU legal protections, Estonia&apos;s 0% corporate tax on retained earnings, a wave
           of first-generation owners retiring without successors, and a deep pool of
-          technical talent that costs 40&ndash;60% less than in Western Europe. This article
+          technical talent that costs 40-60% less than in Western Europe. This article
           breaks down how to source, structure, and run an{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA deal in Europe</Link>{" "}
           specifically across the three Baltic states.
@@ -54,12 +54,12 @@ export default function ETABalticsArticle() {
         <p>
           <strong>Lithuania</strong> (population 2.8 million, GDP ~&euro;67 billion) is
           the largest Baltic economy and has emerged as Europe&apos;s leading fintech
-          licensing hub&mdash;the Bank of Lithuania has issued over 140 fintech
+          licensing hub, the Bank of Lithuania has issued over 140 fintech
           licenses, more than any other EU member state. Beyond fintech,
           Lithuania has a strong shared services sector: over 80 shared service
           centers and business process outsourcing operations serve Nordic, German,
           and UK clients from Vilnius and Kaunas. The UAB entity requires &euro;2,500
-          minimum share capital and can be registered within 3&ndash;5 business days.
+          minimum share capital and can be registered within 3-5 business days.
         </p>
         <p>
           What unites them: all three are Eurozone members (eliminating currency risk
@@ -80,12 +80,12 @@ export default function ETABalticsArticle() {
         </p>
         <p>
           The math creates urgency. Estonia has approximately 90,000 registered enterprises,
-          Latvia around 155,000, and Lithuania roughly 220,000. Even if only 5&ndash;10%
+          Latvia around 155,000, and Lithuania roughly 220,000. Even if only 5-10%
           of these businesses are viable acquisition targets (profitable, owner-operated,
-          &euro;500K&ndash;&euro;5M revenue), the pipeline dwarfs the number of active
+          &euro;500K-&euro;5M revenue), the pipeline dwarfs the number of active
           acquirers. Private equity barely touches companies below &euro;5 million EBITDA
           in the Baltics. Strategic buyers from Scandinavia focus on larger deals. That
-          leaves a genuine white space for search fund operators&mdash;a dynamic that mirrors
+          leaves a genuine white space for search fund operators, a dynamic that mirrors
           the broader{" "}
           <Link href="/learn/international-vs-us-returns" className="text-apple-accent hover:underline">international ETA return profile</Link>{" "}
           where less competition correlates with better entry multiples.
@@ -95,7 +95,7 @@ export default function ETABalticsArticle() {
           to anonymous investment firms. They built their companies during a nation-building
           period and feel deep personal responsibility toward employees. An individual
           acquirer who commits to continuing the business and preserving jobs can win deals
-          that a faceless fund cannot&mdash;sometimes at a discount to fair market value.
+          that a faceless fund cannot, sometimes at a discount to fair market value.
         </p>
 
         <h2 className={h2Class}>Target industries and what to look for</h2>
@@ -108,9 +108,9 @@ export default function ETABalticsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>IT services and software development:</strong> The Baltics produce
-            strong technical talent&mdash;Estonia alone has 30,000+ ICT workers, and
-            average developer salaries of &euro;30,000&ndash;&euro;45,000 are well below
-            the &euro;65,000&ndash;&euro;90,000 range in Germany or the Nordics. IT firms
+            strong technical talent, Estonia alone has 30,000+ ICT workers, and
+            average developer salaries of &euro;30,000-&euro;45,000 are well below
+            the &euro;65,000-&euro;90,000 range in Germany or the Nordics. IT firms
             with long-term contracts serving Nordic or Western European clients represent
             high-quality targets with built-in currency and geographic diversification.
           </li>
@@ -119,14 +119,14 @@ export default function ETABalticsArticle() {
             between Scandinavia, Poland, and Central Europe. Latvia&apos;s Riga Free Port
             and Lithuania&apos;s Klaipeda port handle significant cargo volumes. Third-party
             logistics firms with established routing networks and fleet assets trade at
-            2&ndash;4x EBITDA and often have sticky customer relationships.
+            2-4x EBITDA and often have sticky customer relationships.
           </li>
           <li>
             <strong>Manufacturing (wood, food, metal):</strong> Latvia and Lithuania have
             strong niches in timber processing, food production, and precision
-            metalworking. These businesses often sell 60&ndash;80% of output to EU export
+            metalworking. These businesses often sell 60-80% of output to EU export
             markets. Look for companies with ISO certifications and long-term supply
-            contracts&mdash;these qualify for better financing terms and are easier
+            contracts, these qualify for better financing terms and are easier
             to diligence.
           </li>
           <li>
@@ -147,7 +147,7 @@ export default function ETABalticsArticle() {
           Regardless of sector, apply the standard{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation</Link>{" "}
           framework but pay special attention to customer concentration. In small
-          economies, a single Nordic client representing 30&ndash;40% of revenue is
+          economies, a single Nordic client representing 30-40% of revenue is
           common and creates outsized risk.
         </p>
 
@@ -188,8 +188,8 @@ export default function ETABalticsArticle() {
           jurisdictions.
         </p>
         <p>
-          VAT is 20&ndash;21% across all three countries. Social security contributions
-          add 33&ndash;34% on top of gross wages (employer share), which is meaningful
+          VAT is 20-21% across all three countries. Social security contributions
+          add 33-34% on top of gross wages (employer share), which is meaningful
           for labor-intensive businesses. Factor this into your{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>{" "}
           when modeling post-acquisition labor costs.
@@ -198,8 +198,8 @@ export default function ETABalticsArticle() {
         <h2 className={h2Class}>Deal sourcing in small markets</h2>
         <p>
           The Baltics have a limited intermediary ecosystem compared to Western Europe.
-          There are M&amp;A advisory firms&mdash;Redgate Capital in Estonia, Prudentia in
-          Latvia, Capitalia in Lithuania&mdash;but the deal market is not centralized.
+          There are M&amp;A advisory firms, Redgate Capital in Estonia, Prudentia in
+          Latvia, Capitalia in Lithuania, but the deal market is not centralized.
           Most transactions happen through personal networks, and off-market
           proprietary sourcing is the norm rather than the exception.
         </p>
@@ -235,7 +235,7 @@ export default function ETABalticsArticle() {
           </li>
         </ol>
         <p>
-          Budget 6&ndash;12 months for sourcing. In a market this size, trust is the
+          Budget 6-12 months for sourcing. In a market this size, trust is the
           primary currency. Founders want to meet you several times before sharing
           financial details. For a deeper playbook, see our guide on{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
@@ -252,11 +252,11 @@ export default function ETABalticsArticle() {
           Typical senior debt terms for a Baltic SME acquisition:
         </p>
         <ul className={ulClass}>
-          <li>Loan-to-value: 50&ndash;70% of the enterprise value</li>
-          <li>Interest rates: Euribor + 2.5&ndash;4.5% (floating)</li>
-          <li>Tenor: 5&ndash;7 years with amortization</li>
+          <li>Loan-to-value: 50-70% of the enterprise value</li>
+          <li>Interest rates: Euribor + 2.5-4.5% (floating)</li>
+          <li>Tenor: 5-7 years with amortization</li>
           <li>Collateral: business assets, personal guarantee, and often real estate pledges</li>
-          <li>Minimum equity contribution: 30&ndash;50% from the acquirer&apos;s side</li>
+          <li>Minimum equity contribution: 30-50% from the acquirer&apos;s side</li>
         </ul>
         <p>
           Beyond commercial banks, several alternative funding sources apply to Baltic
@@ -267,8 +267,8 @@ export default function ETABalticsArticle() {
             <strong>EU structural and cohesion funds:</strong> All three countries
             receive significant EU funding for SME development. While these rarely
             finance the acquisition itself, they can subsidize post-acquisition
-            investments&mdash;new equipment, R&amp;D, digitalization, energy
-            efficiency&mdash;freeing up operating cash flow for debt service.
+            investments, new equipment, R&amp;D, digitalization, energy
+            efficiency, freeing up operating cash flow for debt service.
           </li>
           <li>
             <strong>EBRD and EIF-backed programs:</strong> The European Bank for
@@ -279,7 +279,7 @@ export default function ETABalticsArticle() {
           <li>
             <strong>Seller financing:</strong> Common in Baltic deals, particularly
             where the seller has an emotional stake in continuity. Structuring
-            20&ndash;30% of the purchase price as a seller note with a 2&ndash;3 year
+            20-30% of the purchase price as a seller note with a 2-3 year
             term is a standard approach and signals alignment between buyer and seller.
           </li>
         </ul>
@@ -287,7 +287,7 @@ export default function ETABalticsArticle() {
           The{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional search fund</Link>{" "}
           choice is particularly relevant here. Given the lower acquisition prices
-          (&euro;500K&ndash;&euro;2M for many targets), a self-funded approach is
+          (&euro;500K-&euro;2M for many targets), a self-funded approach is
           more viable in the Baltics than in higher-priced Western European markets.
         </p>
 
@@ -301,9 +301,9 @@ export default function ETABalticsArticle() {
           of 6 million is smaller than the city of London. Any business dependent
           primarily on domestic demand will hit a ceiling quickly. The mitigation is
           to target businesses that already serve export markets (Nordics, Germany,
-          Poland) or that can be repositioned to do so. Cross-Baltic strategies&mdash;using
+          Poland) or that can be repositioned to do so. Cross-Baltic strategies, using
           Estonia as the holding company hub and operating across all three
-          markets&mdash;can triple your addressable market without leaving the region.
+          markets, can triple your addressable market without leaving the region.
         </p>
         <p>
           <strong>Brain drain and labor scarcity.</strong> An estimated 500,000 Baltic
@@ -332,7 +332,7 @@ export default function ETABalticsArticle() {
         </h3>
         <p>
           English proficiency is high across the Baltics, especially in business
-          contexts&mdash;Estonia ranks 3rd globally in the EF English Proficiency Index.
+          contexts, Estonia ranks 3rd globally in the EF English Proficiency Index.
           You can conduct an acquisition entirely in English in most cases. However,
           operating the business long-term will require either learning the local
           language or retaining strong bilingual management. Legal documents and
@@ -355,11 +355,11 @@ export default function ETABalticsArticle() {
           What acquisition multiples should I expect in the Baltics?
         </h3>
         <p>
-          SMEs in the &euro;500K&ndash;&euro;3M EBITDA range typically trade at
-          2&ndash;4x EBITDA, depending on sector and growth profile. IT services
-          and fintech command the higher end (4&ndash;6x for recurring revenue models),
-          while manufacturing and logistics cluster at 2&ndash;3.5x. These multiples
-          represent a 50&ndash;70% discount to comparable Nordic businesses, which is
+          SMEs in the &euro;500K-&euro;3M EBITDA range typically trade at
+          2-4x EBITDA, depending on sector and growth profile. IT services
+          and fintech command the higher end (4-6x for recurring revenue models),
+          while manufacturing and logistics cluster at 2-3.5x. These multiples
+          represent a 50-70% discount to comparable Nordic businesses, which is
           the core valuation arbitrage in the region.
         </p>
 
@@ -380,7 +380,7 @@ export default function ETABalticsArticle() {
           How does geopolitical risk actually affect Baltic business valuations?
         </h3>
         <p>
-          Proximity to Russia creates a perception discount of roughly 15&ndash;25%
+          Proximity to Russia creates a perception discount of roughly 15-25%
           relative to comparably sized businesses in, say, the Czech Republic or
           Poland. NATO membership, EU integration, and significant allied military
           presence substantially mitigate actual security risk. For ETA operators,

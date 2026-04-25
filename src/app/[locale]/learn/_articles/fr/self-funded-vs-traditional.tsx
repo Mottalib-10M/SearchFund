@@ -19,15 +19,15 @@ export default function SelfFundedVsTraditionalFR() {
           capital de recherche, et le search fund autofinancé (self-funded),
           dans lequel l&apos;entrepreneur finance lui-même sa phase de recherche
           avant de lever des fonds uniquement au moment de l&apos;acquisition. Ces
-          deux approches poursuivent le même objectif &mdash; permettre à un
+          deux approches poursuivent le même objectif, permettre à un
           entrepreneur de devenir dirigeant-propriétaire d&apos;une PME rentable
-          &mdash; mais diffèrent sensiblement dans leur structure financière,
+          mais diffèrent sensiblement dans leur structure financière,
           leur gouvernance et leur profil de risque.
         </p>
         <p>
           En France, cette distinction prend une couleur particulière. Le tissu
-          institutionnel &mdash; Bpifrance, le réseau CRA, les dispositifs
-          Initiative France &mdash; offre des ressources qui n&apos;existent pas
+          institutionnel, Bpifrance, le réseau CRA, les dispositifs
+          Initiative France, offre des ressources qui n&apos;existent pas
           nécessairement dans d&apos;autres marchés et qui peuvent avantager l&apos;une
           ou l&apos;autre approche selon la situation du repreneur. Comprendre les
           forces et faiblesses de chaque modèle dans le contexte français est
@@ -278,8 +278,8 @@ export default function SelfFundedVsTraditionalFR() {
         <p>
           Le CRA (Cédants et Repreneurs d&apos;Affaires) offre un accompagnement
           gratuit qui bénéficie particulièrement au searcher autofinancé. Ses
-          consultants bénévoles &mdash; souvent d&apos;anciens chefs d&apos;entreprise
-          &mdash; apportent un regard extérieur sur la stratégie de recherche,
+          consultants bénévoles, souvent d&apos;anciens chefs d&apos;entreprise
+          apportent un regard extérieur sur la stratégie de recherche,
           la valorisation des cibles et la négociation. Les CCI proposent
           également des formations à la reprise d&apos;entreprise et des mises en
           relation avec des cédants.
