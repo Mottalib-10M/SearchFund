@@ -16,7 +16,7 @@ URL_MAP = {
     "IESE": "https://www.iese.edu/entrepreneurship/search-funds/",
     "Harvard Business School": "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260",  # 403 bot-block
     "Harvard Business Review": "https://hbr.org/",
-    "INSEAD": "https://www.insead.edu/centres/entrepreneurship",  # 403 bot-block
+    "INSEAD": "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition",  # 403 bot-block
     "Yale SOM": "https://som.yale.edu/",
     "Pepperdine University": "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/",
 

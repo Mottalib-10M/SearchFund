@@ -78,7 +78,7 @@ export const conferences: ConferenceEntry[] = [
     location: "Fontainebleau, France",
     country: "France",
     frequency: "annual",
-    website: "https://www.insead.edu/centres/entrepreneurship",
+    website: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition",
     description:
       "The INSEAD ETA Roundtable is an invite-only gathering organized by INSEAD's entrepreneurship faculty and alumni network. Held at the school's Fontainebleau campus near Paris, the event brings together European searchers, investors, and INSEAD alumni who have acquired or are in the process of acquiring businesses. Sessions focus on the European search fund market, cross-border transactions, and the unique challenges of operating acquired businesses in fragmented European markets. INSEAD's global network and strong European presence make this a key event for internationally-oriented ETA practitioners.",
     typicalDate: "May",

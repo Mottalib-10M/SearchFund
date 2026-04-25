@@ -462,7 +462,7 @@ export default function ETASoutheastAsiaArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.insead.edu/centres/entrepreneurship" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               INSEAD, ETA &amp; Search Funds Hub, Southeast Asia Research
             </a>
           </li>

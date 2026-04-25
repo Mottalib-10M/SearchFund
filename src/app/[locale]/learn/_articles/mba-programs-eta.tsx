@@ -422,7 +422,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.insead.edu/centres/global-private-equity-initiative"
+              href="https://www.insead.edu/global-private-equity-initiative"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

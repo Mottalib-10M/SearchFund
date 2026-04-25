@@ -433,7 +433,7 @@ export default function ETASingaporeArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.insead.edu/centres/entrepreneurship" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               INSEAD, ETA &amp; Search Funds Hub, Asia-Pacific Research
             </a>
           </li>

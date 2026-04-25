@@ -235,7 +235,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/centres/entrepreneurship", year: 2022 },
+      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2022 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", url: "https://single-market-economy.ec.europa.eu/smes_en", year: 2024 },
     ],
@@ -264,7 +264,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub - European Research and Community", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - European Research and Community", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2024 },
     ],
     faqs: [
       { question: "What is a search fund?", answer: "A search fund is an investment vehicle where an entrepreneur raises capital from investors to fund a full-time search for, acquisition of, and operation of a single privately held company. The model was pioneered at Stanford GSB in 1984." },
@@ -317,7 +317,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2024 },
     ],
     faqs: [
       { question: "What is the typical return on search fund investments?", answer: "Search funds have delivered a 35% aggregate IRR and 4.5x return on invested capital over 40 years of data tracked by Stanford GSB, making them one of the highest-returning alternative asset classes." },
@@ -1545,7 +1545,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", url: "https://www.insead.edu/centres/entrepreneurship", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Investor Resources", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2024 },
       { name: "Search Fund Partners", title: "The search fund market: Capital Formation & Investor Dynamics", url: "https://www.searchfundpartners.com/", year: 2023 },
     ],
     faqs: [
@@ -7297,7 +7297,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-17",
     sources: [
 { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "INSEAD", title: "ETA & Search Funds Hub - Building Your Advisory Network", url: "https://www.insead.edu/centres/entrepreneurship", year: 2024 },
+      { name: "INSEAD", title: "ETA & Search Funds Hub - Building Your Advisory Network", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
     ],
@@ -7950,7 +7950,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
-      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/centres/entrepreneurship", year: 2022 },
+      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2022 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
@@ -8048,7 +8048,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-17",
     sources: [
 { name: "IESE", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2023 },
-      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/centres/entrepreneurship", year: 2022 },
+      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2022 },
       { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
@@ -8254,7 +8254,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", url: "https://single-market-economy.ec.europa.eu/smes_en", year: 2024 },
-      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/centres/entrepreneurship", year: 2022 },
+      { name: "INSEAD", title: "European Search Fund Study", url: "https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition", year: 2022 },
     ],
     faqs: [
       { question: "What is the Mittelstand and why does it matter for ETA?", answer: "The German Mittelstand refers to the 3.5 million small and medium enterprises that form the backbone of the German economy, generating over 60% of all jobs. Many are family-owned, highly specialized, and face succession challenges as the founding generation retires - creating significant acquisition opportunities for search fund entrepreneurs." },

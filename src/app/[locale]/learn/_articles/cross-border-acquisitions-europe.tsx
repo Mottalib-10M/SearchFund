@@ -491,7 +491,7 @@ export default function CrossBorderAcquisitionsEuropeArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.insead.edu/centres/entrepreneurship/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.insead.edu/insead-centre-entrepreneurship/entrepreneurship-through-acquisition" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               INSEAD, ETA &amp; Search Funds Research Hub
             </a>
           </li>
