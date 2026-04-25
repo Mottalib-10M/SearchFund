@@ -170,7 +170,7 @@ export default function HotelHospitalityAcquisitionArticle() {
         </p>
         <p>
           <strong>The renovation cycle problem:</strong> Branded hotels typically require a soft-goods refresh every 5&ndash;7 years and a full renovation every 10&ndash;14 years. An acquirer who buys a property at year 8 of its renovation cycle may face a $3&ndash;5 million PIP within 24 months of closing. That capital obligation is often funded through a combination of an FF&amp;E reserve (which may be underfunded), a CapEx loan, or additional equity &mdash; all of which dilute returns. SBA 7(a) loans, a common ETA financing tool, can fund acquisitions with up to 85&ndash;90% use, but lenders typically require 6&ndash;12 months of operating reserves on top of the purchase price, per{" "}
-          <a href="https://realmo.com/blog/hospitality-investing-101-the-thorough-guide-to-buying-your-first-hotel-in-2026/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Realmo&rsquo;s 2026 hotel investing guide</a>.
+          <a href="https://realmo.com/blog/hospitality-investing-101-the-comprehensive-guide-to-buying-your-first-hotel-in-2026/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Realmo&rsquo;s 2026 hotel investing guide</a>.
         </p>
         <p>
           <strong>The labor challenge:</strong> Hotels are labor-intensive operations with high turnover and persistent staffing shortages. The{" "}

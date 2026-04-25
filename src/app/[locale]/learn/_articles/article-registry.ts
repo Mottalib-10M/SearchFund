@@ -233,7 +233,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
@@ -262,7 +262,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-03-12",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "ETA & Search Funds Hub - European Research and Community", url: "https://www.insead.edu/centres/entrepreneurship/search-funds", year: 2024 },
     ],
@@ -374,7 +374,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
-      { name: "Bpifrance", title: "Transmission-Reprise: Panorama des Cessions et Reprises d'Entreprise", url: "https://www.bpifrance.fr/nos-solutions/transmission-reprise", year: 2024 },
+      { name: "Bpifrance", title: "Transmission-Reprise: Panorama des Cessions et Reprises d'Entreprise", url: "https://www.bpifrance.fr/reprise-et-transmission", year: 2024 },
       { name: "National Bureau of Economic Research", title: "Business Dynamics of Baby Boomer Retirements", year: 2023 },
     ],
     faqs: [
@@ -718,7 +718,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "GF Data", title: "M&A Report - Middle-Market Multiples", url: "https://www.gfdata.com/", year: 2024 },
-      { name: "Capstone Partners", title: "Middle Market M&A Valuations Index", url: "https://www.capstonepartners.com/insights/capstone-partners-middle-market-ma-valuations-index/", year: 2025 },
+      { name: "Capstone Partners", title: "Middle Market M&A Valuations Index", url: "https://www.capstonepartners.com/insights/report-capstone-partners-middle-market-mergers-and-acquisitions-valuations-index/", year: 2025 },
       { name: "SBA", title: "SOP 50 10 8 - 7(a) Loan Program", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
       { name: "Calder Group", title: "Q2 2025 Middle Market M&A Update", url: "https://caldergroup.com/market-update/", year: 2025 },
     ],
@@ -950,7 +950,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IRS", title: "Section 1202 QSBS Guidance", year: 2024 },
       { name: "HMRC", title: "Business Asset Disposal Relief", year: 2024 },
       { name: "Bundesministerium der Finanzen", title: "Teileinkünfteverfahren - Partial Income Method", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -975,7 +975,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
       { name: "BEI", title: "Business Exit Research", year: 2024 },
       { name: "PwC", title: "Global Family Business Survey: Succession Planning", url: "https://www.pwc.com/gx/en/issues/business-model-reinvention/family-business-survey.html", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -1000,7 +1000,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IBBA", title: "Business Reference Guide", year: 2024 },
       { name: "Exit Planning Institute", title: "State of Owner Readiness Survey", year: 2024 },
       { name: "Deloitte", title: "M&A Trends: Selling a Privately Held Business", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -1593,7 +1593,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Goldman Sachs", title: "2024 Family Office Investment Insights", url: "https://www.goldmansachs.com/insights/articles/gs-family-office-investment-insights-report", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "Searcher Insights", title: "2025 Search Fund market environment Report", url: "https://searcherinsights.com/search-fund-investors-the-definitive-market-market-report-2025/", year: 2025 },
+      { name: "Searcher Insights", title: "2025 Search Fund market environment Report", url: "https://searcherinsights.com/search-fund-investors-the-definitive-market-landscape-report-2025/", year: 2025 },
     ],
     faqs: [
       { question: "Why do family offices invest in search funds?", answer: "Family offices are attracted to: direct ownership alignment (no layered PE fees), attractive returns (33% aggregate IRR), long-horizon capital compatibility (no 10-year fund lifecycle pressure), mentorship opportunity (many principals are former operators), manageable check sizes ($25K-$50K search + $250K-$2M acquisition), and co-investment optionality." },
@@ -1983,7 +1983,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Website Closers", title: "Effects of Owner Dependence on a Business Valuation", url: "https://www.websiteclosers.com/resources/effects-of-owner-dependence-on-a-business-valuation/", year: 2024 },
       { name: "ClearlyAcquired", title: "Key Employee Retention Post-Acquisition", url: "https://www.clearlyacquired.com/post/key-employee-retention-post-acquisition", year: 2024 },
       { name: "PCE Companies", title: "How to Reduce Owner Dependency & Increase Business Value", url: "https://www.pcecompanies.com/resources/how-to-reduce-owner-dependency-and-build-long-term-business-value", year: 2024 },
-      { name: "Axial / Harvard Law School Forum", title: "Earnouts in M&A Transactions", url: "https://corpgov.law.harvard.edu/2024/03/15/earnouts-in-ma-transactions/", year: 2024 },
+      { name: "Axial / Harvard Law School Forum", title: "Earnouts in M&A Transactions", url: "https://corpgov.law.harvard.edu/2023/11/29/earnouts-update-2023/", year: 2023 },
       { name: "Morgan & Westfield", title: "Earn-Out Structures in SME Deals", url: "https://morganandwestfield.com/knowledge/earnouts/", year: 2024 },
       { name: "Via Beacon", title: "Post-Acquisition Transition Planning", url: "https://viabeacon.com/post-acquisition-transition/", year: 2024 },
     ],
@@ -2233,7 +2233,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBBA", title: "Business Broker Market Report", year: 2024 },
       { name: "BizBuySell", title: "Annual Insight Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2333,7 +2333,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "LinkedIn", title: "Sales Navigator Best Practices", year: 2024 },
       { name: "SearchFunder", title: "Deal Sourcing Survey", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2409,7 +2409,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBBA", title: "Business Valuation Standards", year: 2024 },
       { name: "BizBuySell", title: "Market Data Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -2435,7 +2435,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "DealStats (BVR)", title: "Transaction Database", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -2511,7 +2511,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2536,7 +2536,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Aswath Damodaran", title: "Valuing Private Companies", year: 2024 },
       { name: "CFA Institute", title: "Business Valuation: Principles and Procedures", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2561,7 +2561,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "BVR", title: "Guide to Business Valuation", year: 2024 },
       { name: "NACVA", title: "Fundamentals of Business Valuation", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2585,7 +2585,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "US EPA", title: "CERCLA Overview", year: 2024 },
       { name: "ASTM International", title: "E1527-21 Phase I ESA Standard", year: 2021 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2609,7 +2609,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "SHRM", title: "Due Diligence in Mergers & Acquisitions", year: 2024 },
       { name: "Deloitte", title: "M&A Human Capital Playbook", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2633,7 +2633,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "SRS Acquiom", title: "Working Capital in M&A", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2657,7 +2657,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "Bloomberg Law", title: "M&A Exclusivity Provisions Guide", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2681,7 +2681,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "ABA", title: "Model Asset Purchase Agreement", year: 2024 },
       { name: "Practical Law", title: "Closing Mechanics in M&A", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2705,7 +2705,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "FTC", title: "Non-Compete Clause Rule", year: 2024 },
       { name: "ABA", title: "Restrictive Covenants in M&A", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -2730,7 +2730,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
       { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2778,7 +2778,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Harvard Business Review", title: "Assessing Leadership During M&A", year: 2023 },
       { name: "McKinsey & Company", title: "People in M&A: Talent Matters", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -2803,7 +2803,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Bain & Company", title: "The Art of the Roll-Up", year: 2023 },
       { name: "Harvard Business School", title: "Industry Consolidation Strategies", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2827,7 +2827,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Axial", title: "Guide to Reading CIMs", year: 2024 },
       { name: "Divestopedia", title: "Confidential Information Memorandum Best Practices", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -2852,7 +2852,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Turnaround Management Association", title: "Body of Knowledge", year: 2024 },
       { name: "Harvard Business Review", title: "Leading Turnarounds", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2876,7 +2876,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "CMBOR (Centre for Management Buyout Research)", title: "European Management Buyout Review", year: 2024 },
       { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -2973,7 +2973,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Harvard Business School", title: "Negotiation, Organizations & Markets", year: 2023 },
       { name: "BizBuySell", title: "Insight Report: Seller Motivations", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -3072,7 +3072,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-01",
     dateModified: "2026-04-25",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
       { name: "BizBuySell", title: "Annual Insight Report", url: "https://www.bizbuysell.com/insight-report/", year: 2025 },
@@ -3236,7 +3236,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
       { name: "Bpifrance", title: "Transmission-Reprise", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Can you get an SBA loan for a search fund acquisition?", answer: "Yes. The SBA 7(a) program is the most common financing tool for US search fund acquisitions. It offers up to $5M with 10-year terms and rates around Prime + 2.75%. Borrowers typically need 10-20% equity injection." },
@@ -3362,7 +3362,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "BDC Canada", title: "Vendor Take-Back Financing Guide", year: 2024 },
       { name: "Practical Law", title: "Deferred Consideration in M&A", year: 2023 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is vendor take-back financing?", answer: "Vendor take-back (VTB) is when the seller finances part of the purchase price as a loan to the buyer. The seller 'takes back' a promissory note instead of full cash payment. In North America, this is called 'seller financing' or 'seller note.' In Europe, it's commonly called VTB or deferred consideration. Typical terms: 10-30% of purchase price, 3-7 year term, 4-8% interest rate, often subordinated to senior bank debt. VTB benefits buyers (less cash needed) and sellers (higher total price, interest income, and signals confidence)." },
@@ -3409,7 +3409,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "SBA", title: "7(a) Loan Program Personal Guarantee Requirements", year: 2024 },
       { name: "ABA", title: "Personal Guarantees in Commercial Lending", year: 2023 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Do I have to personally guarantee an SBA loan?", answer: "Yes. SBA requires personal guarantees from anyone with 20% or more ownership in the borrowing entity. The guarantee is unlimited - meaning you're personally liable for the full loan amount, not just your ownership share. Spouses who co-own may also need to guarantee. However, you can negotiate: (1) Burn-off provisions - guarantee reduces as the loan is paid down; (2) Limited guarantees on non-SBA portions; (3) Excluding personal residence from collateral (though SBA can still pursue it in default). For search fund structures, the searcher typically provides the PG since they hold the controlling equity." },
@@ -3558,7 +3558,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "KVK", title: "Bedrijf Overnemen: Financiering", year: 2024 },
       { name: "CBS Netherlands", title: "Business Demographics and Succession Data", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is the BMKB and how does it help with Dutch acquisitions?", answer: "The BMKB (Borgstelling MKB-kredieten) is the Dutch government's primary SME credit guarantee scheme. It guarantees up to 90% of the loan value (67.5% for established businesses), with a maximum guarantee of €1.5 million. Applied through any accredited Dutch bank (Rabobank, ABN AMRO, ING), it requires a one-time 3.9% premium. For acquisitions where the buyer lacks sufficient collateral, the BMKB dramatically improves lending terms and bank willingness to finance." },
@@ -3632,7 +3632,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ISDE Canada", title: "Canada Small Business Financing Program Guide", year: 2024 },
       { name: "CFIB", title: "SME Succession Survey", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is BDC financing equivalent to SBA loans in the US?", answer: "BDC and SBA serve similar roles but differ: BDC is a direct lender while SBA guarantees commercial bank loans. BDC offers both senior and subordinated financing; SBA only guarantees senior debt. BDC amounts can exceed CAD 10M+ vs. SBA's $5M cap. The CSBFP program (85% guarantee, CAD 1.15M max) is the closer Canadian equivalent to SBA." },
@@ -3659,7 +3659,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "European Commission", title: "InvestEU Programme Guide", year: 2024 },
       { name: "European Court of Auditors", title: "EU Support for SME Competitiveness", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Can I get an EIF loan directly?", answer: "No. The EIF does not lend directly to businesses. It provides guarantees and capital to financial intermediaries (banks, leasing companies, microfinance institutions) that then lend to SMEs on improved terms. Contact your commercial bank or national development bank and ask whether they participate in EIF or InvestEU guarantee programs." },
@@ -3763,7 +3763,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA", title: "Standard Operating Procedure 50 10 8", url: "https://www.sba.gov/document/sop-50-10-lender-development-company-loan-programs", year: 2025 },
       { name: "Speritas Capital", title: "6 Equity Sources that Meet the SBA's Equity Injection Requirements", url: "https://www.speritascapital.com/articles/6-types-of-equity-injection-for-sba-loan-aquisition", year: 2025 },
       { name: "Starfield & Smith", title: "Best Practices: Equity Injection Requirements Under SOP 50 10 8", url: "https://starfieldsmith.com/2025/05/best-practices-a-review-of-equity-injection-requirements-under-sop-50-10-8/", year: 2025 },
-      { name: "Windsor Advantage", title: "Updated SBA Equity Injection Rules: SOP 50 10 8", url: "https://www.windsoradvantage.com/sba-equity-injection-rules", year: 2025 },
+      { name: "Windsor Advantage", title: "Updated SBA Equity Injection Rules: SOP 50 10 8", url: "https://windsoradvantage.com/news/updated-sba-equity-injection-rules-what-you-need-to-know-about-sop-50-10-8", year: 2025 },
       { name: "IRS", title: "Publication 535: Business Expenses - Interest", url: "https://www.irs.gov/publications/p535", year: 2025 },
       { name: "The Real Estate CPA", title: "Interest Tracing Explained", url: "https://www.therealestatecpa.com/blog/who-said-you-cant-deduct-heloc-interest-interest-tracing-explained/", year: 2025 },
       { name: "CoreLogic (Cotality)", title: "U.S. Home Equity Report", url: "https://www.cotality.com/press-releases/home-equity-gains-climb-slower-q2", year: 2025 },
@@ -3825,7 +3825,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ABA", title: "License Transfer Issues in M&A Transactions", year: 2024 },
       { name: "NAIC", title: "Insurance Company Change of Control Regulations", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -4021,7 +4021,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Gartner", title: "CRM Selection Guide for Small and Mid-Size Businesses", year: 2024 },
       { name: "Forrester", title: "CRM Implementation Best Practices", year: 2024 },
       { name: "HubSpot", title: "State of CRM Adoption in SMBs", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -4120,7 +4120,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Lean Enterprise Institute", title: "Lean Thinking for Small and Mid-Size Manufacturers", year: 2024 },
       { name: "ASQ", title: "Six Sigma Fundamentals for Small Business", year: 2024 },
       { name: "McKinsey", title: "Operational Excellence in Acquired Companies", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -4249,7 +4249,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Harvard Business Review", title: "The Economics of Cross-Selling and Customer Expansion", year: 2024 },
       { name: "Bain & Company", title: "The Value of Customer Retention vs. Acquisition", year: 2024 },
       { name: "Salesforce", title: "Cross-Sell and Upsell Best Practices for SMBs", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
     ],
     faqs: [
@@ -4282,7 +4282,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Harvard Business Review", title: "Strategic Alliances for Small and Mid-Size Companies", year: 2024 },
       { name: "McKinsey", title: "Partnership-Led Growth Strategies", year: 2024 },
       { name: "Forrester", title: "The Channel Partnership Playbook", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
     ],
     faqs: [
@@ -4621,7 +4621,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "OECD", title: "Government Support Programs for SME Succession", year: 2024 },
       { name: "European Commission", title: "Access to Finance for SME Business Transfers", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -4654,7 +4654,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "KPMG", title: "Global Corporate Tax Rates Table", year: 2024 },
       { name: "PwC", title: "Worldwide Tax Summaries", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -4722,7 +4722,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IBISWorld", title: "Plumbing Industry in the US: Market Report", year: 2024 },
       { name: "PHCC", title: "Plumbing-Heating-Cooling Contractors Industry Report", year: 2024 },
       { name: "ServiceTitan", title: "Home Services Industry Benchmark Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -4755,7 +4755,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "NALP", title: "Market Industry Market Report", year: 2024 },
       { name: "IBISWorld", title: "Landscaping Services in the US", year: 2024 },
       { name: "Aspire Software", title: "Market Business Benchmarking Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -4788,7 +4788,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Gartner", title: "IT Services Market Size and Forecast", year: 2024 },
       { name: "ConnectWise", title: "MSP Benchmark Report", year: 2024 },
       { name: "Channel Futures", title: "MSP 501 Annual Survey", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -4932,7 +4932,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "American Trucking Associations", title: "Trucking Industry Overview", year: 2024 },
       { name: "Armstrong & Associates", title: "3PL Market Analysis", year: 2024 },
       { name: "FreightWaves", title: "State of the Freight Market", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -4965,7 +4965,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "US Census Bureau", title: "Value of Construction Put in Place Survey", year: 2024 },
       { name: "Associated General Contractors of America", title: "Construction Industry Overview", year: 2024 },
       { name: "FMI Corporation", title: "Construction Outlook", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5034,7 +5034,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "National Association of Wholesaler-Distributors", title: "Facing the Forces of Change Report", year: 2024 },
       { name: "US Census Bureau", title: "Annual Wholesale Trade Survey", year: 2024 },
       { name: "McKinsey & Company", title: "The Future of B2B Distribution", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5067,7 +5067,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "National Restaurant Association", title: "State of the Restaurant Industry", year: 2024 },
       { name: "IBISWorld", title: "Restaurant Industry in the US", year: 2024 },
       { name: "Toast", title: "Restaurant Industry Trends Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5100,7 +5100,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "International Franchise Association", title: "Franchising Economic Outlook", year: 2024 },
       { name: "FRANdata", title: "Annual Franchise Market Report", year: 2024 },
       { name: "Franchise Business Review", title: "Franchisee Satisfaction Survey", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5316,7 +5316,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Harvard Business Review", title: "The Rise of Asset-Light Business Models", year: 2024 },
       { name: "McKinsey & Company", title: "Capital Intensity and Returns in Services vs. Industrial Businesses", year: 2024 },
       { name: "Bain & Company", title: "Asset-Light Strategies in Private Equity", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5386,7 +5386,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "National Community Pharmacists Association", title: "NCPA Digest", year: 2024 },
       { name: "IQVIA", title: "US Prescription Market Overview", year: 2024 },
       { name: "Drug Channels Institute", title: "Independent Pharmacy Economics", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5453,7 +5453,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Slovak Investment and Trade Development Agency", title: "Doing Business in Slovakia", year: 2024 },
       { name: "European Commission", title: "SBA Fact Sheet: Czech Republic & Slovakia", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -5486,7 +5486,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Enterprise Greece", title: "Invest in Greece Guide", year: 2024 },
       { name: "European Commission", title: "SBA Fact Sheet: Greece", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -5583,7 +5583,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Croatian Chamber of Economy", title: "Business Climate Report", year: 2024 },
       { name: "European Commission", title: "SBA Fact Sheets: Slovenia & Croatia", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       {
@@ -5614,7 +5614,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "KOTRA", title: "Invest Korea Guide", year: 2024 },
       { name: "OECD", title: "Korea Economic Survey", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is there a search fund ecosystem in South Korea?", answer: "South Korea's search fund ecosystem is nascent but growing. KAIST and Seoul National University have introduced ETA courses, and a handful of Korean searchers have completed acquisitions since 2020. The country's large SME sector (99.9% of all businesses) and aging ownership present significant opportunity." },
@@ -5638,7 +5638,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "MOFCOM", title: "Foreign Investment Statistical Report", year: 2024 },
       { name: "PwC", title: "Doing Business in China Guide", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is ETA viable in China?", answer: "ETA in mainland China is extremely early-stage. While China has millions of SMEs and an aging ownership cohort, the regulatory environment, SOE dominance, foreign investment restrictions, and cultural factors around business succession make traditional search fund models challenging. Hong Kong and Taiwan offer more accessible entry points." },
@@ -5684,7 +5684,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Erin Meyer", title: "The Culture Map: Breaking Through the Invisible Boundaries of Global Business", year: 2014 },
       { name: "IESE Business School", title: "Cross-Cultural Considerations in European Search Funds", year: 2024 },
       { name: "European Commission", title: "Doing Business in Europe: Cultural Guide", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -5708,7 +5708,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "USAspending.gov", title: "Federal Contract Spending Data", year: 2024 },
       { name: "SBA", title: "Small Business Procurement Scorecard", year: 2024 },
       { name: "Bloomberg Government", title: "GovCon Market Analysis", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -5732,7 +5732,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Harvard Business Review", title: "Competing in Regulated Industries", year: 2024 },
       { name: "Deloitte", title: "Regulatory Risk and M&A", year: 2024 },
       { name: "American Bar Association", title: "Regulated Industry Acquisitions Guide", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -5756,7 +5756,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IBIS World", title: "Seasonal Business Revenue Patterns", year: 2024 },
       { name: "SBA", title: "Financing Seasonal Businesses Guide", year: 2024 },
       { name: "Harvard Business Review", title: "Managing Cash Flow in Seasonal Businesses", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
     ],
     faqs: [
@@ -5803,7 +5803,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McGuireWoods", title: "2024 Independent Sponsor Deal Survey (300+ Transactions)", year: 2024 },
-      { name: "Axial", title: "2025 Independent Sponsor Report", url: "https://www.axial.net/forum/independent-sponsor-report/", year: 2025 },
+      { name: "Axial", title: "2025 Independent Sponsor Report", url: "https://www.axial.net/forum/axials-2025-independent-sponsor-report/", year: 2025 },
       { name: "Holland & Knight", title: "The Emerging Seeded Sponsor Model", year: 2025 },
       { name: "Charles Aris", title: "Independent Sponsor Trends and Operator Profiles", year: 2024 },
     ],
@@ -6070,7 +6070,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Exit Planning Institute", title: "The Emotional Side of Selling a Business", year: 2024 },
       { name: "Harvard Business Review", title: "When Founders Leave Their Companies", year: 2024 },
       { name: "Bo Burlingham", title: "Finish Big: How Great Entrepreneurs Exit Their Companies on Top", year: 2013 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -6118,7 +6118,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Exit Planning Institute", title: "Employee Communication During Business Sales", year: 2024 },
       { name: "SHRM", title: "Change Management During Ownership Transitions", year: 2024 },
       { name: "Harvard Business Review", title: "Communicating Through Mergers & Acquisitions", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -6142,7 +6142,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Bo Burlingham", title: "Finish Big: How Great Entrepreneurs Exit Their Companies on Top", year: 2013 },
       { name: "Exit Planning Institute", title: "Life After the Exit Survey", year: 2024 },
       { name: "Vistage", title: "Post-Sale Entrepreneur Transitions Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -6190,7 +6190,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "CISA", title: "Cybersecurity Best Practices for Small and Medium Businesses", year: 2024 },
       { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
       { name: "NIST", title: "Cybersecurity Framework for Small Business", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -6214,7 +6214,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Axial", title: "Strategic vs. Financial Buyer Report", year: 2024 },
       { name: "Pitchbook", title: "M&A Buyer Type Analysis", year: 2024 },
       { name: "Exit Planning Institute", title: "Choosing the Right Buyer", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -6239,7 +6239,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "SBA Office of Advocacy", title: "Small Business Lending by State", year: 2024 },
       { name: "NAGGL", title: "Government Guaranteed Lending Guide", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Do SBA loan rules vary by state?", answer: "The core SBA 7(a) program is federal, but implementation varies by state. Key differences include: preferred lender networks, state-level guarantee programs that layer on top of SBA, processing times (rural vs urban), industry preferences of regional lenders, and state-specific compliance requirements." },
@@ -6262,7 +6262,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IBBA", title: "Business Brokerage Industry Report", year: 2024 },
       { name: "CCI France", title: "Transentreprise Activity Report", year: 2024 },
       { name: "DIHK", title: "German Business Succession Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
@@ -6313,7 +6313,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "USPTO", title: "Trademark and Patent Assignment Guide", year: 2024 },
       { name: "OSI", title: "Open Source License Compliance in M&A", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is the most common IP issue found during acquisition due diligence?", answer: "Missing contractor IP assignments are the single most common issue. When a business hires freelancers without proper IP assignment agreements, the contractor may legally own that work. Always verify that written assignment agreements exist for every piece of contractor-created IP." },
@@ -6389,7 +6389,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "CCIM Institute", title: "Commercial Real Estate in Business Acquisitions", year: 2024 },
       { name: "SBA", title: "Real Property Guidelines for 7(a) and 504 Loans", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -6440,7 +6440,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "DGFiP", title: "Guide Pratique de l'Intégration Fiscale", year: 2024 },
       { name: "Francis Lefebvre", title: "Mémento Fiscal: Intégration Fiscale", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "How quickly can I set up intégration fiscale after acquiring a French company?", answer: "The election must be filed before the start of the first consolidated fiscal year. If you close mid-year, you may need to wait until the following fiscal year. Work with your expert-comptable to align the holding and target's fiscal year-ends before filing." },
@@ -6541,7 +6541,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Ley de Sociedades de Capital", title: "Real Decreto Legislativo 1/2010", year: 2024 },
       { name: "IESE Business School", title: "Search Fund Structures in Spain", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Should I use an SL or SA for a Spanish acquisition?", answer: "SL (Sociedad Limitada) is the default for smaller SME acquisitions: only €3K minimum capital, simpler governance, and adequate flexibility. SA (Sociedad Anónima) is better for investor-backed deals requiring preferred share classes, as SA shares are freely transferable and exempt from ITP transfer tax (vs. 1-6% for SL). SA requires €60K minimum capital. For search fund structures with ENISA participative loans, both work - ENISA counts as equity under Spanish law regardless of entity type." },
@@ -6738,7 +6738,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "KfW", title: "Nachfolgemonitor Mittelstand", year: 2024 },
       { name: "DIHK", title: "Unternehmensnachfolge: Rechtliche Rahmenbedingungen", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is the minimum capital required for a GmbH?", answer: "A GmbH requires €25,000 in share capital, with at least €12,500 paid in at formation. A UG (haftungsbeschränkt) can be formed with as little as €1 but must retain 25% of annual net profit until reaching the €25,000 threshold." },
@@ -7168,7 +7168,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
       { name: "Forbes", title: "SBA Loan Guide for Small Business Acquisitions", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "How much can you borrow with an SBA 7(a) loan for an acquisition?", answer: "The maximum SBA 7(a) loan amount is $5 million. The SBA guarantees 75-85% of the loan (85% for loans up to $150K, 75% for larger loans). Typical terms: 10-year fully amortizing repayment, Prime + 2.25-2.75% interest rate, no balloon payments. You need a minimum 10% equity injection." },
@@ -7193,7 +7193,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", year: 2024 },
       { name: "SBA", title: "7(a) Loan Program Guidelines", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is the optimal debt structure for a search fund acquisition?", answer: "The typical structure is 50-65% senior debt (bank or SBA), 10-20% seller note (often on partial standby), and 20-35% equity. Target a total use of 3-3.5x EBITDA with a minimum 1.25x debt service coverage ratio. The mix depends on deal size, business stability, and lender appetite." },
@@ -7398,7 +7398,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "McKinsey & Company", title: "Digital Transformation of SMEs", year: 2023 },
       { name: "European Commission", title: "Digitising European Industry", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7597,7 +7597,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Harvard Business Review", title: "The Role of Culture in M&A Integration", year: 2023 },
       { name: "Bain & Company", title: "Culture in M&A: Keys to Successful Integration", year: 2022 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -7697,7 +7697,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Gartner", title: "ERP Implementation Best Practices", year: 2024 },
       { name: "Panorama Consulting", title: "ERP Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7722,7 +7722,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IESE", title: "Search Fund Study: Transition Best Practices", year: 2024 },
       { name: "HBR", title: "Managing Leadership Transitions in Acquisitions", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
     ],
@@ -7798,7 +7798,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Bain & Company", title: "The Economics of Customer Loyalty in M&A", year: 2024 },
       { name: "HBR", title: "Retaining Customers Through Mergers and Acquisitions", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7848,7 +7848,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "McKinsey", title: "Supply Chain Optimization in Mid-Market Companies", year: 2024 },
       { name: "ISM", title: "Report on Business: Procurement Benchmarks", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7873,7 +7873,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Gartner", title: "IT Spending Benchmarks for Mid-Market Companies", year: 2024 },
       { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7898,7 +7898,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
       { name: "CISA", title: "Cybersecurity Best Practices for Small Businesses", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
@@ -7923,7 +7923,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "HBR", title: "The Role of Culture in M&A Integration", year: 2024 },
       { name: "Deloitte", title: "Cultural Issues in Mergers and Acquisitions", year: 2023 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
       { name: "McKinsey & Company", title: "Creating Value Through M&A Integration", year: 2023 },
     ],
@@ -7948,7 +7948,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-{ name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
@@ -7973,7 +7973,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-08-12",
     dateModified: "2025-04-17",
     sources: [
-{ name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
@@ -8049,7 +8049,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IESE", title: "International Search Fund Study", year: 2023 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
@@ -8228,7 +8228,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "HEC Paris", title: "Entrepreneurial Acquisition in France", year: 2023 },
       { name: "Bpifrance", title: "Les PME-ETI en France", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "How big is the business succession market in France?", answer: "France faces a massive succession wave: approximately 700,000 businesses will change hands in the next decade, representing a total transaction value exceeding €100 billion. This is driven by the aging of the baby boomer generation of business owners, with the average French business owner now aged 58." },
@@ -8252,7 +8252,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
       { name: "INSEAD", title: "European Search Fund Study", year: 2022 },
     ],
@@ -8280,7 +8280,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "UK Department for Business and Trade", title: "Business Population Estimates", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What makes the UK attractive for search fund acquisitions?", answer: "The UK offers: English-speaking market accessible to international searchers, a mature M&A advisory ecosystem, sophisticated business brokerage market, favorable company law (Ltd structure), relatively low regulatory burden, and a large pool of SMEs (5.5 million businesses). London also hosts a growing search fund investor community." },
@@ -8305,7 +8305,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "DGIPYME", title: "Retrato de las PYME en Espa\u00f1a", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8332,7 +8332,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "EF Education First", title: "EF English Proficiency Index", year: 2024 },
       { name: "Svenskt N\u00e4ringsliv", title: "F\u00f6retagarnas \u00e5lders- och successionsstatistik", year: 2023 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What makes the Nordic countries attractive for search fund acquisitions?", answer: "The Nordics offer: high trust business culture, transparent financial reporting, strong rule of law, educated workforce, tech-forward businesses, high English proficiency, and favorable business succession demographics. Sweden alone has 1.2 million companies, with a significant portion facing generational transitions in the next decade." },
@@ -8357,7 +8357,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "CBS Centraal Bureau voor de Statistiek", title: "Bedrijvendynamiek in Nederland", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8384,7 +8384,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "KMU-Institut University of St. Gallen", title: "Nachfolge in KMU", year: 2023 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What makes Switzerland attractive for business acquisitions?", answer: "Switzerland offers: 600,000+ SMEs with many facing succession challenges, high profitability (Swiss businesses typically command premium margins), political stability, strong legal framework, access to German, French, and Italian-speaking markets, and a sophisticated financial ecosystem. Swiss cantonal banks actively finance business acquisitions." },
@@ -8410,7 +8410,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "ISTAT", title: "Struttura e competitivit\u00e0 del sistema delle imprese", year: 2024 },
       { name: "Unioncamere-InfoCamere", title: "Rapporto sulla natalit\u00e0 e mortalit\u00e0 delle imprese", year: 2023 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "How big is the succession crisis in Italy?", answer: "Italy has 4.4 million SMEs - the largest number in Europe - and the average business owner is over 65 years old. Only 30% of Italian family businesses survive to the second generation. This creates an enormous opportunity for acquisition entrepreneurs, estimated at 200,000+ succession events over the next decade." },
@@ -8432,7 +8432,7 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-01-21",
     dateModified: "2025-04-17",
     sources: [
-{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
@@ -8508,7 +8508,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "KfW", title: "Gründen und Nachfolgen Program", year: 2024 },
       { name: "DIHK", title: "Unternehmensnachfolge Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "How does KfW financing work for business acquisitions in Germany?", answer: "KfW doesn't lend directly - it provides subsidized loans through commercial banks (Hausbanken) at below-market rates. Key programs: ERP-Gründerkredit Startgeld (up to €125K, KfW assumes 80% risk), ERP-Universell (up to €25M, 50% risk), and ERP-Kapital (up to €500K subordinated, quasi-equity). Apply through your Hausbank before signing the purchase agreement." },
@@ -8555,7 +8555,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "DealRoom", title: "Global M&A Multiples Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "PitchBook", title: "European PE Deal Multiples", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8604,7 +8604,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Japan METI", title: "Small Business White Paper", year: 2024 },
       { name: "KfW", title: "Nachfolge-Monitoring Mittelstand", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Which country has the worst business succession crisis?", answer: "Japan has the most acute crisis: 2.45 million SME owners are over 70 with ~1.27 million having no identified successor. Germany (600K businesses needing succession by 2030) and the US (4.5M boomer-owned businesses) follow." },
@@ -8708,7 +8708,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Australian Bureau of Statistics", title: "Counts of Australian Businesses", year: 2024 },
       { name: "ASBFEO", title: "Small Business Succession Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is Australia a good market for search fund acquisitions?", answer: "Australia is one of the strongest English-speaking markets for ETA outside North America. The combination of 2.5 million SMEs, a A$3.5 trillion succession wave, stable rule of law, and minimal search fund competition creates favorable conditions. The main constraint is capital access - you will likely need to raise from US or international investors since the local search fund investor ecosystem is still developing." },
@@ -8736,7 +8736,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "WKO", title: "Austrian Economic Chambers SME Statistics", year: 2024 },
       { name: "KMU Forschung Austria", title: "Business Succession Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8761,7 +8761,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "CSO Ireland", title: "Business Demography Statistics", year: 2024 },
       { name: "Enterprise Ireland", title: "SME Succession Planning Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8787,7 +8787,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "GUS (Statistics Poland)", title: "SME Activity Report", year: 2024 },
       { name: "PARP", title: "Business Succession in Poland", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8812,7 +8812,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Department of Statistics Singapore", title: "Singapore Business Demographics", year: 2024 },
       { name: "ASEAN Secretariat", title: "ASEAN SME Policy Index", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8837,7 +8837,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "Ministry of MSME", title: "Annual Report on MSMEs", year: 2024 },
       { name: "PwC India", title: "Family Business Survey: India Edition", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is India a good market for ETA?", answer: "Yes. India has 63M+ MSMEs - the world's largest base - with over 70% being first-generation family businesses facing succession. The $5T economy, young population (median age 28), growing formalization, and 3-6x EBITDA multiples make it compelling. However, regulatory complexity and cultural nuances require deep local knowledge." },
@@ -8862,7 +8862,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
       { name: "EY", title: "M&A Activity in Andean Markets", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Which Andean country is best for ETA?", answer: "Chile offers the most business-friendly environment (ranked #1 in Latin America for ease of doing business), but smaller deal flow. Colombia has the largest SME base and most active M&A market. Peru offers lower multiples (3-5x EBITDA) but requires more local knowledge. Many searchers target 2-3 countries simultaneously." },
@@ -8887,7 +8887,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "European Commission", title: "Single Market Report: Cross-Border M&A", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Can you run a cross-border search fund in Europe?", answer: "Yes, and it's increasingly common. The EU single market allows free movement of capital, making cross-border acquisitions structurally simpler than in most regions. However, you need to manage different legal systems, tax regimes, languages, and business cultures. Most successful cross-border searchers focus on 2-3 adjacent countries with shared language or cultural similarities." },
@@ -8912,7 +8912,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "PwC", title: "Family Business Survey: Middle East Edition", year: 2024 },
       { name: "Dubai SME", title: "State of Small and Medium Enterprises Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Is the Middle East a good market for ETA?", answer: "Increasingly yes. Vision 2030 reforms in Saudi Arabia and the UAE's business-friendly free zones are creating a new M&A ecosystem. The GCC has 3M+ SMEs, and 70% of family businesses face succession challenges within the next decade. INSEAD Abu Dhabi is driving ETA education in the region. Challenges include regulatory complexity and cultural nuances around ownership transfers." },
@@ -8937,7 +8937,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "ASEAN Secretariat", title: "ASEAN SME Policy Index", year: 2024 },
       { name: "Bain & Company", title: "Southeast Asia Private Equity Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Which Southeast Asian country is best for ETA?", answer: "Singapore serves as the ideal base (strong legal system, English-speaking, INSEAD campus) while targeting acquisitions in Indonesia (65M+ MSMEs, largest economy), Vietnam (fastest-growing), Thailand (mature SME ecosystem), or the Philippines (English-speaking workforce). Most searchers base their holding company in Singapore and acquire operating businesses in neighboring countries." },
@@ -8962,7 +8962,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "TUIK", title: "Turkish Statistical Institute SME Data", year: 2024 },
       { name: "Deloitte", title: "Turkey Private Equity Market", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "European Commission", title: "SME Performance Review - Business Transfers", year: 2024 },
     ],
     faqs: [
@@ -8988,7 +8988,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
       { name: "LAVCA", title: "Latin America Private Equity Report", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Which Latin American country is best for ETA?", answer: "Mexico and Brazil have the largest SME markets and most developed M&A ecosystems. Chile offers the most business-friendly regulatory environment. Colombia is growing rapidly with strong IESE and local MBA alumni networks. Most searchers focus on one country due to the diversity of legal and tax systems across the continent." },
@@ -9013,7 +9013,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IFC", title: "MSME Finance Gap Report: Sub-Saharan Africa", year: 2024 },
       { name: "McKinsey", title: "Africa's Business Revolution", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Which African countries are best for ETA?", answer: "South Africa has the most developed M&A ecosystem and legal framework. Nigeria offers the largest SME market (40M+ MSMEs) but more complexity. Kenya is emerging as East Africa's hub with a strong tech-forward business culture. Egypt and Ghana are growing markets. Most searchers focus on one country initially, using local networks and advisors." },
@@ -9566,7 +9566,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBISWorld", title: "Janitorial Services Industry Report", year: 2024 },
       { name: "ISSA", title: "Cleaning Industry Market Size Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9641,7 +9641,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBISWorld", title: "Auto Mechanics Industry Report", year: 2024 },
       { name: "Auto Care Association", title: "Factbook & Industry Overview", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9666,7 +9666,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "NFDA", title: "Cremation and Burial Report", year: 2024 },
       { name: "IBISWorld", title: "Funeral Homes & Services Industry Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
@@ -9692,7 +9692,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IHRSA", title: "Global Report on the State of the Health Club Industry", year: 2024 },
       { name: "IBISWorld", title: "Gym, Health & Fitness Clubs Industry Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9717,7 +9717,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "CMS", title: "Medicare Home Health Data", year: 2024 },
       { name: "IBISWorld", title: "Home Care Providers Industry Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9742,7 +9742,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "ICA", title: "International Carwash Association Industry Report", year: 2024 },
       { name: "IBISWorld", title: "Car Wash & Auto Detailing Industry Report", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9767,7 +9767,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBISWorld", title: "Child Care Services Industry Report", year: 2024 },
       { name: "Child Care Aware", title: "State of Child Care in America", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9792,7 +9792,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBISWorld", title: "Moving Services Industry Report", year: 2024 },
       { name: "American Moving & Storage Association", title: "Industry Data", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -9842,7 +9842,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "IBISWorld", title: "Printing Industry Report", year: 2024 },
       { name: "PRINTING United Alliance", title: "State of the Industry", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
@@ -10066,7 +10066,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-22",
     sources: [
 { name: "Apple Podcasts", title: "ETA & Business Acquisition Category", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
@@ -10188,7 +10188,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2025-04-22",
     sources: [
 { name: "SearchFunder", title: "Community Resources", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
       { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
@@ -10380,7 +10380,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "American Bar Association", title: "M&A Deal Structures Handbook", year: 2024 },
       { name: "Deloitte", title: "M&A Tax Structuring Guide", year: 2024 },
       { name: "Harvard Law School Forum on Corporate Governance", title: "Merger vs. Acquisition Structures", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -10517,7 +10517,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "PwC", title: "International Transfer Pricing Guide", year: 2024 },
       { name: "EY", title: "Transfer Pricing and M&A: Key Considerations", year: 2024 },
       { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "Why is transfer pricing important in acquisitions?", answer: "Transfer pricing affects how profits are allocated between related entities across jurisdictions. In acquisitions, pre-existing transfer pricing arrangements may create hidden tax liabilities, affect the quality of earnings, or require costly restructuring. Non-compliance can result in double taxation, penalties, and reputational damage." },
@@ -10541,7 +10541,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "OECD", title: "Pillar Two Global Anti-Base Erosion Rules", year: 2024 },
       { name: "Deloitte", title: "ATAD Implementation Across EU Member States", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
     ],
     faqs: [
       { question: "What is ATAD and how does it affect acquisitions?", answer: "ATAD (Anti-Tax Avoidance Directive) is EU legislation requiring member states to implement rules against tax avoidance. It affects acquisitions through interest limitation rules (limiting debt-heavy structures), CFC rules (targeting low-tax subsidiaries), exit taxation, and a general anti-avoidance rule. ATAD II added anti-hybrid mismatch provisions." },
@@ -10652,7 +10652,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "American Bar Association", title: "Non-Compete Agreements in M&A Transactions", year: 2024 },
       { name: "Federal Trade Commission", title: "Non-Compete Clause Rule", year: 2024 },
       { name: "Practical Law (Thomson Reuters)", title: "Restrictive Covenants in Business Sales", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
@@ -10698,7 +10698,7 @@ export const allArticles: ArticleMeta[] = [
 { name: "IBBA", title: "International Business Brokers Association Directory", year: 2024 },
       { name: "CNCFA (France)", title: "National Council of M&A Advisors", year: 2024 },
       { name: "BVK (Germany)", title: "German Private Equity and Venture Capital Association", year: 2024 },
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [

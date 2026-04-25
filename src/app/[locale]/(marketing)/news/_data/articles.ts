@@ -70,7 +70,7 @@ export const newsArticles: NewsArticle[] = [
     category: "research",
     tags: ["Stanford", "search fund study", "returns", "statistics", "research"],
     sources: [
-      { name: "Stanford GSB - 2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" },
+      { name: "Stanford GSB - 2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study" },
     ],
     relatedArticles: ["stanford-2024-study", "search-fund-statistics", "search-fund-returns"],
   },

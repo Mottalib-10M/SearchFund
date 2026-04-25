@@ -39,7 +39,7 @@ export const exclusivityAgreementMeta = {
     },
     {
       title: "Structuring Exclusivity Periods in Lower Middle Market M&A",
-      url: "https://www.axial.net/forum/mergers-acquisitions/",
+      url: "https://www.axial.net/forum/",
       author: "Axial",
       type: "article" as const,
     },

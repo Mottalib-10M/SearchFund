@@ -467,7 +467,7 @@ export default function ETAAfricaArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.avca-africa.org/research-publications/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.avca.africa/data-intelligence/research-publications/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               African Private Equity and Venture Capital Association (AVCA) &mdash; Annual Private Equity Data
             </a>
           </li>

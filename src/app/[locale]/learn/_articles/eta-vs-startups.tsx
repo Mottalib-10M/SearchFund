@@ -376,7 +376,7 @@ export default function ETAvsStartupsArticle() {
             </a>
           </li>
           <li>
-            <a href="https://www.franchise.org/research/economic-outlook" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.franchise.org/franchising-economic-outlook/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               International Franchise Association &mdash; Franchise Business Economic Outlook
             </a>
           </li>

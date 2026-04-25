@@ -500,15 +500,9 @@ export default function RepsAndWarrantiesArticle() {
                 Aon &ndash; Representations and Warranties Insurance Guide
               </a>
             </li>
+            {/* Removed: corpgov.law.harvard.edu/2020/01/15/private-target-mergers-and-acquisitions-deal-terms/ (404) */}
             <li>
-              <a
-                href="https://corpgov.law.harvard.edu/2020/01/15/private-target-mergers-and-acquisitions-deal-terms/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-apple-accent hover:underline"
-              >
-                Harvard Law School Forum on Corporate Governance - Private M&amp;A Deal Terms
-              </a>
+              Harvard Law School Forum on Corporate Governance &ndash; Private M&amp;A Deal Terms
             </li>
           </ul>
         </div>

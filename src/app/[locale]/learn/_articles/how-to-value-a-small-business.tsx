@@ -15,7 +15,7 @@ export default function HowToValueASmallBusinessArticle() {
           an acquisition target, a self-funded searcher negotiating directly with an owner, or a business
           broker trying to price a listing fairly, getting the valuation right determines whether a deal
           creates or destroys value. According to{" "}
-          <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+          <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             Stanford GSB&rsquo;s 2024 Search Fund Study
           </a>, the median acquisition price for search fund deals was 5.6x EBITDA, with a range spanning
           3.0x to over 9.0x depending on industry, growth, and risk profile.
@@ -103,7 +103,7 @@ export default function HowToValueASmallBusinessArticle() {
           <a href="https://www.ibba.org/resource-center/industry-research/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             IBBA Market Pulse Reports
           </a>,{" "}
-          <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+          <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
             Stanford Search Fund data
           </a>, and{" "}
           <a href="https://www.bizbuysell.com/insight-report/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
@@ -414,7 +414,7 @@ export default function HowToValueASmallBusinessArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className="list-disc pl-6 space-y-1 text-sm text-apple-gray-500">
           <li>
-            <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               Stanford GSB - 2024 Search Fund Study
             </a>
           </li>

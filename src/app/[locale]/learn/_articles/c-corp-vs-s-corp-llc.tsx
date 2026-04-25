@@ -400,7 +400,7 @@ export default function CCorpVsSCorpLLCArticle() {
           in 2025. Most search fund target industries (services, manufacturing, distribution)
           are not specified service trades, so the full deduction applies regardless of income.
           The deduction was made permanent by the{" "}
-          <a href="https://www.build.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">One Big Beautiful Bill Act in 2025</a>.
+{/* Removed: build.com/larry-s-tax-law/... (404) */}One Big Beautiful Bill Act in 2025.
         </p>
 
         <h3 className={h3Class}>Can I convert from S-Corp to C-Corp mid-hold to get QSBS at exit?</h3>

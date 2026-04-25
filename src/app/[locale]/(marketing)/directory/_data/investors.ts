@@ -137,13 +137,13 @@ export const investors: InvestorEntry[] = [
     name: "Seqos Capital",
     slug: "seqos-capital",
     type: "institutional",
-    website: "https://www.seqos.capital",
+    website: "https://www.seqos.de",
     description:
       "Seqos Capital is a search fund platform and investment firm with offices in London and Hamburg, focused on the DACH region (Germany, Austria, and Switzerland). Seqos provides a structured platform for search fund entrepreneurs targeting the German-speaking market, offering search capital, acquisition financing, and operational support. The firm was founded to address the significant opportunity in DACH small business succession, where thousands of established SMEs seek new ownership each year. Seqos combines the traditional search fund model with local market expertise, helping entrepreneurs manage the cultural and regulatory specificities of doing business in the DACH region. The firm's team includes professionals with backgrounds in private equity, management consulting, and entrepreneurship. Seqos focuses on businesses in sectors such as business services, industrial technology, healthcare services, and software.",
     geographyFocus: ["DACH"],
     typicalTicketSize: "€30K-€50K search, €2-15M acquisition",
     headquarters: "London, UK / Hamburg, Germany",
-    source: "Public website (seqos.capital), IESE European Search Fund Study",
+    source: "Public website (seqos.de), IESE European Search Fund Study",
   },
   {
     kind: "investor",

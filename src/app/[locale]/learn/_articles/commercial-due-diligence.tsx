@@ -628,7 +628,7 @@ export default function CommercialDueDiligenceArticle() {
         </li>
         <li>
           <a
-            href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/solutions/commercial-due-diligence-services.html"
+            href="https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/services/mergers-acquisitions-restructuring-services.html"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

@@ -15,7 +15,7 @@ export const metadata = {
     },
     {
       title: "Department of Labor Compliance Assistance",
-      url: "https://www.dol.gov/general/topics/hiring",
+      url: "https://www.dol.gov/general/topics",
       organization: "U.S. Department of Labor"
     },
     {
@@ -620,7 +620,7 @@ export default function HREmployeeDueDiligenceArticle() {
           </li>
           <li>
             <a
-              href="https://www.dol.gov/general/topics/hiring"
+              href="https://www.dol.gov/general/topics"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

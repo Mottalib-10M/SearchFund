@@ -455,7 +455,7 @@ export default function ETATurkeyArticle() {
         <h2 className={h2Class}>Sources</h2>
         <ul className={ulClass}>
           <li>
-            <a href="https://www.kosgeb.gov.tr/site/tr/genel/destekler/6315/kosgeb-destek-programlari" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+            <a href="https://www.kosgeb.gov.tr/site/tr/genel/destekler/25/girisimci-destek-programi" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
               KOSGEB &mdash; Small and Medium Enterprises Development Organization, Support Programs
             </a>
           </li>

@@ -148,7 +148,7 @@ export const brokers: BrokerEntry[] = [
     name: "Michel Simond",
     slug: "michel-simond",
     country: "France",
-    website: "https://www.michelsimond.com",
+    website: "https://www.msimond.fr",
     description:
       "Michel Simond is one of France's oldest and largest business brokerage networks, with over 100 offices across the country. Founded in 1968, the firm specializes in the sale and transfer of small and medium businesses, particularly in commerce, hospitality, food service, and professional services. Michel Simond's extensive regional presence gives it access to a large volume of businesses coming to market, including many that never appear on online platforms. The firm provides valuation, confidential marketing, buyer matching, and transaction support. For search fund entrepreneurs seeking broad geographic coverage in France, Michel Simond is an essential intermediary to engage.",
     specialization: ["Commerce", "Hospitality", "Food service", "Professional services"],
@@ -233,7 +233,7 @@ export const brokers: BrokerEntry[] = [
     name: "BizTrade.de",
     slug: "biztrade-de",
     country: "Germany",
-    website: "https://www.biztrade.de",
+    website: "https://www.biz-trade.de",
     description:
       "BizTrade.de is a German online marketplace for buying and selling businesses, offering a straightforward platform for listing and discovering SME acquisition opportunities. The site covers a range of sectors and business sizes, with a focus on smaller enterprises suitable for individual buyers and first-time acquirers. BizTrade.de provides basic listing services, search tools, and contact facilitation between buyers and sellers. The platform complements larger exchanges like DUB.de and Nexxt-Change by serving the micro and small business segment. For search fund entrepreneurs at the earlier stages of deal sourcing, BizTrade.de offers an additional channel to discover opportunities in the German market.",
     specialization: ["General", "Small businesses"],
@@ -257,35 +257,9 @@ export const brokers: BrokerEntry[] = [
     headquarters: "Madrid, Spain",
     source: "Alantra website",
   },
-  {
-    kind: "broker",
-    name: "Webcapital",
-    slug: "webcapital",
-    country: "Spain",
-    website: "https://www.webcapital.es",
-    description:
-      "Webcapital is a Spanish online platform specializing in the sale and transfer of small and medium businesses. The platform lists businesses across all sectors in Spain, from small retail operations to mid-sized industrial companies. Webcapital provides listing services, buyer-seller matching, and access to professional advisors for transaction support. The platform serves as a useful complement to traditional M&A advisory for search fund entrepreneurs sourcing deals in the Spanish market. Spain's large SME sector and the wave of baby boomer retirements create significant acquisition opportunities. Webcapital's focus on the smaller end of the market makes it particularly relevant for first-time searchers exploring the Spanish business market.",
-    specialization: ["General", "All sectors"],
-    dealSizeRange: "€50K-€10M",
-    type: "marketplace",
-    headquarters: "Madrid, Spain",
-    source: "Webcapital website",
-  },
+  // Removed: Webcapital (webcapital.es) - domain is dead, no replacement found
   // ── Italy ──────────────────────────────────────────────────────────────
-  {
-    kind: "broker",
-    name: "Borsino delle Imprese",
-    slug: "borsino-delle-imprese",
-    country: "Italy",
-    website: "https://www.borsinodelleimprese.it",
-    description:
-      "Borsino delle Imprese is an Italian online platform for buying and selling businesses, serving as a marketplace connecting sellers with potential acquirers across Italy. The platform lists businesses in various sectors including manufacturing, food and beverage, services, retail, and tourism. Borsino delle Imprese provides basic listing services, search functionality, and contact facilitation. Italy's economy is characterized by a vast network of small and medium enterprises, many of which face succession challenges as founding generations retire. For search fund entrepreneurs exploring the Italian market, Borsino delle Imprese is a useful starting point for identifying acquisition opportunities across Italian regions and sectors.",
-    specialization: ["General", "Manufacturing", "Food & beverage", "Services", "Tourism"],
-    dealSizeRange: "€50K-€10M",
-    type: "marketplace",
-    headquarters: "Italy",
-    source: "Borsino delle Imprese website",
-  },
+  // Removed: Borsino delle Imprese (borsinodelleimprese.it) - domain is dead, no replacement found
   // ── Netherlands ────────────────────────────────────────────────────────
   {
     kind: "broker",
@@ -301,20 +275,7 @@ export const brokers: BrokerEntry[] = [
     headquarters: "Amsterdam, Netherlands",
     source: "Brookz.nl website",
   },
-  {
-    kind: "broker",
-    name: "Marktplaats Ondernemingen",
-    slug: "marktplaats-ondernemingen",
-    country: "Netherlands",
-    website: "https://www.marktplaatsondernemingen.nl",
-    description:
-      "Marktplaats Ondernemingen is a Dutch platform for business transfers, offering a marketplace where sellers can list their businesses and buyers can search for acquisition opportunities in the Netherlands. The platform covers businesses across sectors and sizes, with a particular focus on small and medium enterprises. Marktplaats Ondernemingen provides listing services, buyer matching, and access to professional advisors. The Netherlands' strong SME sector, transparent business culture, and well-developed advisory ecosystem make it an attractive market for search fund activity. The platform complements Brookz and other intermediaries, providing additional deal flow for acquirers exploring the Dutch market.",
-    specialization: ["General", "SME"],
-    dealSizeRange: "€25K-€10M",
-    type: "marketplace",
-    headquarters: "Netherlands",
-    source: "Marktplaats Ondernemingen website",
-  },
+  // Removed: Marktplaats Ondernemingen (marktplaatsondernemingen.nl) - domain is dead, no replacement found
   // ── Switzerland ────────────────────────────────────────────────────────
   {
     kind: "broker",

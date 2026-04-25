@@ -8,7 +8,7 @@ export const conferences: ConferenceEntry[] = [
     location: "Stanford, CA",
     country: "United States",
     frequency: "annual",
-    website: "https://www.gsb.stanford.edu/experience/learning/entrepreneurship/search-funds",
+    website: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds",
     description:
       "The Stanford Search Fund Conference is the longest-running and most prestigious gathering in the search fund ecosystem. Organized by Stanford Graduate School of Business, where the search fund model was pioneered in the 1980s by Professor H. Irving Grousbeck, this annual event brings together searchers, investors, former operators, and academics for a full day of panels, case studies, and networking. Topics typically include fundraising strategies, deal sourcing, due diligence best practices, and post-acquisition leadership. Attendance is highly sought after and draws participants from around the world.",
     typicalDate: "March",
@@ -120,7 +120,7 @@ export const conferences: ConferenceEntry[] = [
     location: "London, United Kingdom",
     country: "United Kingdom",
     frequency: "annual",
-    website: "https://www.europeansearchfundconference.com",
+    // website removed: europeansearchfundconference.com domain is dead
     description:
       "The European Search Fund Conference in London is one of the key gathering points for the growing European ETA community. The event brings together searchers, investors, advisors, and operators from across Europe to discuss the state of the search fund model outside North America. Sessions cover topics specific to European transactions, including cross-border deal structuring, managing different legal and tax regimes, cultural considerations in post-acquisition management, and sourcing deals in markets with less M&A intermediation. The conference has grown significantly as the European search fund ecosystem has matured.",
     typicalDate: "June",

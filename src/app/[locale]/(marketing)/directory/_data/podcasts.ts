@@ -40,7 +40,7 @@ export const podcasts: PodcastEntry[] = [
     description:
       "Buy and Build is a podcast that explores the strategy of acquiring a platform business and then growing it through additional acquisitions. Hosted by James Dabbro, the show features interviews with entrepreneurs, investors, and operators who have executed buy-and-build strategies across various industries. Episodes cover topics such as identifying roll-up opportunities, integrating acquisitions, managing organizational growth, and creating value through operational improvements and add-on deals. The podcast is particularly relevant for searchers and operators who are thinking beyond the initial acquisition and considering how to scale through M&A as a growth strategy.",
     platform: "multiple",
-    platformUrl: "https://www.buyandbuild.fm",
+    platformUrl: "https://buyandbuild.co",
     episodeCount: "100+",
     status: "active",
     frequency: "weekly",
@@ -70,7 +70,7 @@ export const podcasts: PodcastEntry[] = [
     description:
       "The Searchfunder Podcast is produced by Searchfunder.com, the largest online community for entrepreneurs pursuing business acquisitions through the search fund model. The podcast features conversations with searchers at various stages, investors who back search funds, and operators who have successfully acquired and grown businesses. Topics span the entire search fund lifecycle, from raising capital and structuring a search fund through deal sourcing, evaluation, negotiation, and post-acquisition management. As an extension of the Searchfunder online community, the podcast benefits from a deep network of practitioners and provides access to perspectives from across the ETA ecosystem.",
     platform: "multiple",
-    platformUrl: "https://www.searchfunder.com/podcast",
+    platformUrl: "https://www.searchfunder.com", // /podcast path no longer exists
     episodeCount: "100+",
     status: "active",
     frequency: "biweekly",
@@ -100,9 +100,9 @@ export const podcasts: PodcastEntry[] = [
     description:
       "The Micro PE Podcast covers the micro private equity space, focusing on the acquisition and operation of small businesses with enterprise values typically below ten million dollars. The show features interviews with micro PE practitioners, independent sponsors, and self-funded searchers who share their experiences acquiring and managing small companies. Episodes discuss deal sourcing strategies, creative financing structures, operational improvements in small businesses, and the unique challenges of running very small companies. The podcast fills a niche for acquirers focused on the smaller end of the market, where deals often have different dynamics than traditional search fund or lower middle market transactions.",
     platform: "multiple",
-    platformUrl: "https://www.micropepodcast.com",
+    platformUrl: "", // micropepodcast.com domain is dead
     episodeCount: "50+",
-    status: "active",
+    status: "inactive",
     frequency: "biweekly",
     source: "Public podcast directory",
   },
@@ -145,9 +145,9 @@ export const podcasts: PodcastEntry[] = [
     description:
       "Entrepreneurs Through Acquisition is a podcast that features interviews with entrepreneurs who have taken the path of buying existing businesses rather than starting from scratch. Each episode explores a guest's journey through the acquisition process, including how they identified their target, structured the deal, managed the transition, and drove growth post-acquisition. The podcast covers a range of deal sizes and structures, from self-funded main street acquisitions to traditional search fund deals. It provides a candid look at both the rewards and challenges of the ETA path, including stories of deals that did not go as planned, making it a well-rounded resource for aspiring acquirers.",
     platform: "multiple",
-    platformUrl: "https://www.etathroughacquisition.com",
+    platformUrl: "", // etathroughacquisition.com domain is dead
     episodeCount: "80+",
-    status: "active",
+    status: "inactive",
     frequency: "weekly",
     source: "Public podcast directory",
   },
@@ -160,9 +160,9 @@ export const podcasts: PodcastEntry[] = [
     description:
       "The Minds Capital Podcast covers entrepreneurship through acquisition with a focus on the European and international search fund ecosystem. The show features conversations with searchers, investors, and operators who discuss the nuances of acquiring businesses outside of North America, including cross-border considerations, local market dynamics, and cultural differences in deal-making. Episodes provide insight into how the search fund model is being adapted for different geographies and legal systems. The podcast is a useful resource for searchers considering international transactions and investors looking to understand the global evolution of the ETA model.",
     platform: "multiple",
-    platformUrl: "https://www.mindscapital.com/podcast",
+    platformUrl: "", // mindscapital.com domain is dead
     episodeCount: "40+",
-    status: "active",
+    status: "inactive",
     frequency: "biweekly",
     source: "Public podcast directory",
   },

@@ -547,9 +547,9 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          University of Washington Build School of Business - {" "}
+          University of Washington Foster School of Business - {" "}
           <a
-            href="https://build.uw.edu/centers/buerk-center/"
+            href="https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
