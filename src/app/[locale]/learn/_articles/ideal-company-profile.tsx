@@ -627,6 +627,15 @@ export default function IdealCompanyProfileArticle() {
           Author interviews with 15+ search fund entrepreneurs (2023-2024)
         </li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">What is ETA</Link></li>
+          <li><Link href="/learn/getting-started" className="text-apple-accent hover:underline">Getting Started</Link></li>
+          <li><Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">Self-Funded vs Traditional</Link></li>
+          <li><Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">Search Fund Lifecycle</Link></li>
+          <li><Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">How to Buy a Small Business</Link></li>
+        </ul>
     </article>
   );
 }

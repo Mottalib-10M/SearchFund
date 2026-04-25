@@ -331,6 +331,14 @@ export default function SearchFundLegalStructureArticle() {
           <li>Internal Revenue Service &mdash; <em>IRC Section 1202 (Qualified Small Business Stock)</em> and <em>IRC Subchapter K (Partnership Taxation)</em>. Statutory framework governing entity-level taxation and QSBS eligibility.</li>
         </ul>
       </div>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Reps and Warranties</Link></li>
+          <li><Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">Asset vs Stock Purchase</Link></li>
+          <li><Link href="/learn/indemnification-escrow" className="text-apple-accent hover:underline">Indemnification and Escrow</Link></li>
+          <li><Link href="/learn/exclusivity-agreement" className="text-apple-accent hover:underline">Exclusivity Agreements</Link></li>
+        </ul>
     </article>
   );
 }

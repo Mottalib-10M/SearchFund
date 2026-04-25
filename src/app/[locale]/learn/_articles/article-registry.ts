@@ -769,7 +769,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "How much do search fund entrepreneurs earn during the search?", answer: "In a traditional search fund: $80,000-$120,000/year (US), paid from investor-funded search capital. In self-funded search: $0 - you fund your own living expenses. The search phase typically lasts 12-24 months." },
@@ -897,7 +899,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "How long does a search fund take from start to finish?", answer: "The full search fund cycle takes 5-10 years: 3-6 months of preparation, 2-4 months to fundraise, 12-24 months to search, 2-4 months to close, 3-7 years operating (median 5.5 years), and then exit. Total from fundraise to acquisition is typically 18-36 months." },
@@ -1119,7 +1123,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "What makes a good search fund acquisition target?", answer: "The ideal ETA target has 70%+ recurring revenue, no customer above 10% of revenue, $1-5M EBITDA with stable or growing margins, an existing management team (2-3 key managers), low capital intensity (capex <5% of revenue), a fragmented industry, a succession-driven seller, clear growth levers, and a reasonable valuation (3-6x EBITDA)." },
@@ -1561,8 +1567,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Harvard Business School", title: "Pacific Lake Partners Case Study", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=56408", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
     ],
     faqs: [
       { question: "What types of investors back search funds?", answer: "Five main types: (1) Serial search fund investors (former searchers), (2) Dedicated search fund funds (Pacific Lake Partners, Relay Investments), (3) Family offices, (4) Institutional investors (endowments, pension funds), and (5) MBA school alumni networks (Stanford, HBS, Wharton). Each brings different check sizes, mentorship, and network value." },
@@ -1919,8 +1927,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "AICPA", title: "Due Diligence Standards and Best Practices", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What are the biggest red flags in due diligence?", answer: "The top deal-killers are: seller dishonesty (if they lied about one thing, assume more), declining revenue for 3+ years (structural decline is hard to reverse), EBITDA add-backs exceeding 40% of reported EBITDA, and extreme customer concentration (>40% single customer) without contractual protection." },
@@ -1996,8 +2006,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "SBA", title: "7(a) Loan Structuring Guidelines", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How can deal structure bridge a valuation gap?", answer: "Key structural tools: earn-outs (seller gets their price IF performance targets are met), larger seller note with interest premium, equity rollover (seller keeps 10-20% ownership), consulting agreements ($5K-$15K/month for 12-24 months), and real estate separation (lease the property instead of buying it with the business)." },
@@ -2091,8 +2103,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-06-11",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What EBITDA multiple should I pay for a small business?", answer: "Search fund acquisitions typically trade at 3x-6x EBITDA, depending on size, growth, recurring revenue, customer concentration, and industry. The Stanford 2024 Study reports a median purchase price of $14.4M at approximately 7.0x EBITDA." },
@@ -2114,8 +2128,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-06-25",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How do search fund entrepreneurs find businesses to buy?", answer: "Searchers use a mix of proprietary outreach (cold emails and calls to business owners), broker relationships, online marketplaces (BizBuySell, Axial), LinkedIn, and accountant/lawyer referrals. Top searchers contact 1,000+ companies to acquire one." },
@@ -2215,8 +2231,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBBA", title: "Business Broker Market Report", year: 2024 },
+{ name: "IBBA", title: "Business Broker Market Report", year: 2024 },
       { name: "BizBuySell", title: "Annual Insight Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How do business brokers charge fees?", answer: "Brokers charge the seller a success fee (commission) of 8-12% for businesses under $5M and 3-6% for larger deals, often following the Lehman formula (5% of first $1M, 4% of second $1M, etc.). Some M&A advisors also charge upfront retainers of $10K-$50K. As a buyer, you typically pay nothing to the seller's broker - but a buy-side advisor will charge their own fee." },
@@ -2238,8 +2256,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
+{ name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
       { name: "SearchFunder", title: "Deal Sourcing Survey", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How do you approach a business owner about buying their company?", answer: "The best approach is respectful, brief, and positions you as a long-term operator - not a corporate raider. Lead with your background and genuine interest in the industry. Avoid mentioning price or valuation in initial outreach. Successful searchers use a multi-channel approach: personalized direct mail (3-5% response rate), followed by email (2-5%), then a phone call (5-8%). Expect to contact 1,500-3,000 owners to find your acquisition." },
@@ -2311,8 +2331,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "LinkedIn", title: "Sales Navigator Best Practices", year: 2024 },
+{ name: "LinkedIn", title: "Sales Navigator Best Practices", year: 2024 },
       { name: "SearchFunder", title: "Deal Sourcing Survey", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "Can you find businesses to buy on LinkedIn?", answer: "Yes. LinkedIn is one of the most effective proprietary deal sourcing channels for search fund entrepreneurs. Using Sales Navigator, you can filter for business owners by industry, geography, company size, and seniority. Successful searchers report 5-15% response rates on personalized InMails - significantly higher than cold email. The key is building genuine relationships rather than immediately pitching an acquisition." },
@@ -2334,8 +2356,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "Technology in Search Funds", year: 2024 },
+{ name: "Stanford GSB", title: "Technology in Search Funds", year: 2024 },
       { name: "SearchFunder", title: "Deal Sourcing Technology Survey", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How is AI used in deal sourcing?", answer: "AI is used across the deal sourcing funnel: (1) Target identification - machine learning models analyze business databases to surface companies matching your ICP, (2) Seller intent prediction - algorithms flag businesses likely to sell based on owner age, industry trends, and behavioral signals, (3) Outreach automation - AI personalizes email and mail campaigns at scale, (4) Financial screening - NLP extracts and analyzes financial data from CIMs and public filings, (5) CRM intelligence - AI prioritizes pipeline based on engagement signals." },
@@ -2435,8 +2459,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "AICPA", title: "Due Diligence Standards", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is commercial due diligence?", answer: "Commercial due diligence (CDD) evaluates the market opportunity, competitive position, and customer dynamics of an acquisition target. Unlike financial DD (which looks backward at historical performance), CDD looks forward at the sustainability of revenue and earnings. Key areas: market size and growth, competitive environment, customer concentration and retention, pricing power, and sales pipeline quality." },
@@ -2458,8 +2484,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "AICPA", title: "Quality of Earnings Standards", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What are the biggest red flags in business due diligence?", answer: "Top deal-killers: (1) Declining revenue or margin compression with no clear explanation, (2) EBITDA add-backs exceeding 40% of stated earnings, (3) Significant undisclosed liabilities or pending litigation, (4) Customer concentration >30% in a single client with no contract, (5) Owner is the sole customer relationship holder, (6) Deferred maintenance that would require immediate capital investment, (7) Key employees threatening to leave post-acquisition." },
@@ -2481,8 +2509,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
+{ name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "What are representations and warranties in M&A?", answer: "Representations are statements of fact about the business (e.g., 'the financial statements are accurate'). Warranties are promises that those statements are true. Together, they allocate risk between buyer and seller. If a representation turns out to be false, the buyer can seek indemnification (financial compensation) from the seller. Key reps cover: financial accuracy, tax compliance, legal compliance, contracts, employees, IP, and environmental matters." },
@@ -2504,8 +2534,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Aswath Damodaran", title: "Valuing Private Companies", year: 2024 },
+{ name: "Aswath Damodaran", title: "Valuing Private Companies", year: 2024 },
       { name: "CFA Institute", title: "Business Valuation: Principles and Procedures", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "Is DCF appropriate for small business valuations?", answer: "DCF can work for SMEs with predictable cash flows, but multiples-based valuation (EBITDA or SDE multiples) is more common for businesses under $5M in revenue. DCF is most useful when: the business has unusual growth or decline patterns, cash flows differ significantly from earnings, or you need to model specific operational changes post-acquisition. The main challenge is that small businesses have higher uncertainty in projections and limited comparable data for discount rates." },
@@ -2527,8 +2559,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "BVR", title: "Guide to Business Valuation", year: 2024 },
+{ name: "BVR", title: "Guide to Business Valuation", year: 2024 },
       { name: "NACVA", title: "Fundamentals of Business Valuation", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How do you value a business that is losing money?", answer: "When a business has no profits, you can use: (1) Asset-based approach - value tangible assets minus liabilities (equipment, inventory, real estate); (2) Revenue multiples - typically 0.3-1.5x revenue depending on industry; (3) Replacement cost - what it would cost to build the business from scratch; (4) Strategic value - worth of customer relationships, licenses, or market position. The final price often reflects a blend of these methods, heavily discounted for turnaround risk." },
@@ -2549,8 +2583,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "US EPA", title: "CERCLA Overview", year: 2024 },
+{ name: "US EPA", title: "CERCLA Overview", year: 2024 },
       { name: "ASTM International", title: "E1527-21 Phase I ESA Standard", year: 2021 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "Do I need a Phase I environmental assessment?", answer: "A Phase I ESA is recommended for any acquisition involving real property, manufacturing, or industrial operations. It costs $2,000-5,000 and takes 2-4 weeks. Without it, you lose the 'innocent landowner' defense under CERCLA, meaning you could be held liable for pre-existing contamination. Even service businesses in leased spaces should consider it if the property has industrial history. Lenders typically require a Phase I for SBA or bank-financed acquisitions." },
@@ -2571,8 +2607,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "SHRM", title: "Due Diligence in Mergers & Acquisitions", year: 2024 },
+{ name: "SHRM", title: "Due Diligence in Mergers & Acquisitions", year: 2024 },
       { name: "Deloitte", title: "M&A Human Capital Playbook", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "What should HR due diligence cover in a small business acquisition?", answer: "Key areas: (1) Employee census - headcount, roles, tenure, compensation, benefits; (2) Key employee identification - who is critical and what's the retention risk; (3) Employment agreements - contracts, non-competes, severance obligations; (4) Benefits review - health insurance, retirement plans, PTO policies; (5) Compliance - wage & hour, I-9s, workplace safety, discrimination claims; (6) Culture assessment - employee satisfaction, management style, potential friction. For small businesses, key person risk and benefit cost continuation are often the biggest issues." },
@@ -2593,8 +2631,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
+{ name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "SRS Acquiom", title: "Working Capital in M&A", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "What is a working capital adjustment in M&A?", answer: "A working capital adjustment ensures the buyer receives a 'normal' level of working capital (current assets minus current liabilities) at closing. The process: (1) Establish a 'peg' or target - typically the trailing 12-month average of net working capital; (2) At closing, estimate actual working capital; (3) After closing (60-90 days), calculate final working capital; (4) If actual exceeds the peg, seller receives the excess; if below, buyer receives the shortfall. This prevents sellers from 'draining' the business before closing by collecting receivables early or delaying payables." },
@@ -2615,8 +2655,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
+{ name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
       { name: "Bloomberg Law", title: "M&A Exclusivity Provisions Guide", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How long should an exclusivity period be?", answer: "Typical exclusivity periods in SME acquisitions range from 30-90 days. Most search fund deals use 45-60 day exclusivity periods. The period should give you enough time to complete due diligence but not so long that you lose use. Extensions of 15-30 days are common if due diligence is progressing in good faith. Sellers may resist long exclusivity periods because they take the business off the market." },
@@ -2637,8 +2679,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ABA", title: "Model Asset Purchase Agreement", year: 2024 },
+{ name: "ABA", title: "Model Asset Purchase Agreement", year: 2024 },
       { name: "Practical Law", title: "Closing Mechanics in M&A", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How long does the closing process take?", answer: "From signed LOI to closing typically takes 60-120 days for SME acquisitions. The timeline: LOI signing (Day 0), due diligence (30-60 days), purchase agreement negotiation (15-30 days concurrent), financing finalization (30-45 days concurrent), pre-closing conditions (5-10 days), and closing day. Common delays include: lender requirements, landlord consent, third-party consents, working capital disputes, and title/environmental issues. Plan for 90 days as a baseline." },
@@ -2684,8 +2728,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
+{ name: "SRS Acquiom", title: "M&A Deal Terms Study", year: 2024 },
       { name: "ABA", title: "Private Target M&A Deal Points Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How much should be held in escrow?", answer: "Typical escrow holdbacks in SME acquisitions range from 5-15% of the purchase price, with 10% being most common. The escrow period usually lasts 12-18 months after closing. Release is often structured in two tranches: 50% at 12 months, 50% at 18 months. The escrow covers potential indemnification claims for breaches of representations and warranties. For search fund deals, the escrow amount and seller financing are often the primary sources of post-closing protection." },
@@ -2706,8 +2752,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business Review", title: "Why M&A Deals Fail", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How often do acquisition deals fall apart?", answer: "In the SME space, approximately 40-50% of deals that reach LOI stage ultimately fail to close. Common reasons: (1) Due diligence findings (35% of failures) - quality of earnings issues, legal problems, or undisclosed liabilities; (2) Financing falls through (20%); (3) Seller changes mind (15%); (4) Valuation gap widens (15%); (5) Key employee departures or customer losses (10%); (6) Other (5%). For search fund searchers, experiencing 1-2 broken deals before closing is typical." },
@@ -2753,8 +2801,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Bain & Company", title: "The Art of the Roll-Up", year: 2023 },
+{ name: "Bain & Company", title: "The Art of the Roll-Up", year: 2023 },
       { name: "Harvard Business School", title: "Industry Consolidation Strategies", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "What makes an industry good for a roll-up strategy?", answer: "Key characteristics: (1) Highly fragmented - no single player has more than 5-10% market share; (2) Recurring revenue - predictable cash flows enable debt financing for add-ons; (3) Aging owner demographics - many owners nearing retirement creates acquisition supply; (4) Scalable operations - shared back-office, purchasing, or technology provides real synergies; (5) Local relationships matter - customers prefer local service but benefit from a larger organization's resources. Examples: HVAC, plumbing, dental practices, veterinary clinics, home services, and managed IT services." },
@@ -2800,8 +2850,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Turnaround Management Association", title: "Body of Knowledge", year: 2024 },
+{ name: "Turnaround Management Association", title: "Body of Knowledge", year: 2024 },
       { name: "Harvard Business Review", title: "Leading Turnarounds", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "Should search fund searchers pursue distressed acquisitions?", answer: "Generally, distressed acquisitions are not recommended for first-time search fund acquirers. Turnarounds require deep operational expertise, significant working capital reserves, and the ability to make rapid, high-stakes decisions. Stanford's search fund data shows that the highest-returning acquisitions are typically healthy businesses bought at fair prices with clear growth opportunities - not turnarounds. However, if you have specific industry expertise and operational experience, a mildly distressed business (e.g., poor management but good underlying business model) can offer attractive entry pricing." },
@@ -2822,8 +2874,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "CMBOR (Centre for Management Buyout Research)", title: "European Management Buyout Review", year: 2024 },
+{ name: "CMBOR (Centre for Management Buyout Research)", title: "European Management Buyout Review", year: 2024 },
       { name: "Bain & Company", title: "Global Private Equity Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How does an MBO differ from a search fund acquisition?", answer: "Key differences: (1) The buyer - in an MBO, existing management buys the business; in a search fund, an external entrepreneur acquires it; (2) Due diligence advantage - MBO managers already know the business intimately, reducing information asymmetry; (3) Transition risk - MBOs have smoother transitions since management stays in place; (4) Financing - MBOs often use more seller financing and bank debt since lenders are comfortable with continuity; (5) Price - MBOs may get favorable pricing since the seller wants to reward loyal managers; (6) Growth potential - search fund operators may bring fresh perspectives that MBO managers lack. Both models can be highly successful depending on the situation." },
@@ -2868,8 +2922,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-07-23",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "When do most search fund CEOs exit their company?", answer: "The median hold period for search fund acquisitions is 5-7 years. Most operators begin exit planning 18-24 months before the target date. Early exits (3-4 years) are possible if rapid growth creates a compelling valuation story." },
@@ -2890,8 +2946,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-08-06",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Harvard Business School", title: "Negotiation, Organizations & Markets", year: 2023 },
+{ name: "Harvard Business School", title: "Negotiation, Organizations & Markets", year: 2023 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the most common negotiation mistake in SME acquisitions?", answer: "The most common mistake is negotiating only on price. Experienced acquirers know that deal structure - seller financing, earn-outs, working capital adjustments, employment agreements, and non-competes - can be worth more than a 10-15% price concession. Focus on total deal economics, not headline price." },
@@ -2938,8 +2996,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-08-19",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Yale SOM", title: "A Note on Structuring Earn-Outs in Search Fund Acquisitions", year: 2021 },
+{ name: "Yale SOM", title: "A Note on Structuring Earn-Outs in Search Fund Acquisitions", year: 2021 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is an earn-out in an acquisition?", answer: "An earn-out is a portion of the purchase price that is contingent on the business achieving specific performance targets (usually revenue or EBITDA) after the acquisition closes. It bridges the gap when buyer and seller disagree on valuation." },
@@ -3013,8 +3073,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Financial Modeling Best Practices", year: 2024 },
+{ name: "Stanford GSB", title: "Search Fund Financial Modeling Best Practices", year: 2024 },
       { name: "Macabacus", title: "LBO Modeling Guide for Mid-Market Transactions", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What should a search fund LBO model include?", answer: "A complete model includes: historical financials (3-5 years), EBITDA normalization adjustments, revenue and expense projections (5-year), debt schedule (senior + seller note + revolver), working capital forecast, capex assumptions, tax calculations, free cash flow to equity, and returns analysis (IRR and MOIC) under base, upside, and downside scenarios." },
@@ -3037,8 +3099,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
+{ name: "SBA", title: "7(a) Loan Program Overview", url: "https://www.sba.gov/funding-programs/loans/7a-loans", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the maximum SBA 7(a) loan amount?", answer: "The maximum SBA 7(a) loan is $5,000,000. For business acquisitions, terms are typically 10 years with variable interest rates (Prime + 2.25-2.75%). The SBA guarantees 75-85% of the loan to the lender." },
@@ -3085,8 +3149,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "IRS", title: "IRC Section 1202 - Qualified Small Business Stock", year: 2024 },
+{ name: "IRS", title: "IRC Section 1202 - Qualified Small Business Stock", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is QSBS and how much tax can it save?", answer: "QSBS (Qualified Small Business Stock) under IRC Section 1202 allows shareholders to exclude up to $10 million (or 10x their basis) in capital gains from federal income tax when selling stock held for 5+ years in a qualifying C corporation. On a $10M gain, this saves up to $2.38M in federal taxes." },
@@ -3107,8 +3173,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-06-04",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Yale SOM", title: "Legal Documents for Search Fund Transactions", year: 2020 },
+{ name: "Yale SOM", title: "Legal Documents for Search Fund Transactions", year: 2020 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the typical legal structure of a search fund?", answer: "In the US, search funds are typically structured as limited partnerships (LPs) or LLCs. In Europe, structures vary by country: SAS in France, GmbH in Germany, SL in Spain, Ltd in the UK, and BV in the Netherlands. The structure must accommodate search capital, step-up equity, and eventual acquisition financing." },
@@ -3130,8 +3198,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-06-18",
     dateModified: "2025-04-17",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
+{ name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
       { name: "Bpifrance", title: "Transmission-Reprise", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Can you get an SBA loan for a search fund acquisition?", answer: "Yes. The SBA 7(a) program is the most common financing tool for US search fund acquisitions. It offers up to $5M with 10-year terms and rates around Prime + 2.75%. Borrowers typically need 10-20% equity injection." },
@@ -3254,8 +3324,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "BDC Canada", title: "Vendor Take-Back Financing Guide", year: 2024 },
+{ name: "BDC Canada", title: "Vendor Take-Back Financing Guide", year: 2024 },
       { name: "Practical Law", title: "Deferred Consideration in M&A", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is vendor take-back financing?", answer: "Vendor take-back (VTB) is when the seller finances part of the purchase price as a loan to the buyer. The seller 'takes back' a promissory note instead of full cash payment. In North America, this is called 'seller financing' or 'seller note.' In Europe, it's commonly called VTB or deferred consideration. Typical terms: 10-30% of purchase price, 3-7 year term, 4-8% interest rate, often subordinated to senior bank debt. VTB benefits buyers (less cash needed) and sellers (higher total price, interest income, and signals confidence)." },
@@ -3276,8 +3348,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
+{ name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
       { name: "IESE Business School", title: "Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
     ],
     faqs: [
       { question: "How does the equity waterfall work in a search fund?", answer: "The typical search fund waterfall: (1) Return of invested capital - investors get their money back first; (2) Preferred return - investors receive 8-10% annual preferred return on invested capital; (3) Catch-up - the searcher/CEO receives distributions until they reach their earned equity percentage (typically 20-30%); (4) Carried interest split - remaining distributions split per the operating agreement (commonly 70/30 or 75/25 investor/searcher). The searcher's equity vests over 4-5 years to ensure alignment. The 1.5x step-up from search to acquisition capital means early investors get more equity per dollar." },
@@ -3298,8 +3371,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program Personal Guarantee Requirements", year: 2024 },
+{ name: "SBA", title: "7(a) Loan Program Personal Guarantee Requirements", year: 2024 },
       { name: "ABA", title: "Personal Guarantees in Commercial Lending", year: 2023 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Do I have to personally guarantee an SBA loan?", answer: "Yes. SBA requires personal guarantees from anyone with 20% or more ownership in the borrowing entity. The guarantee is unlimited - meaning you're personally liable for the full loan amount, not just your ownership share. Spouses who co-own may also need to guarantee. However, you can negotiate: (1) Burn-off provisions - guarantee reduces as the loan is paid down; (2) Limited guarantees on non-SBA portions; (3) Excluding personal residence from collateral (though SBA can still pursue it in default). For search fund structures, the searcher typically provides the PG since they hold the controlling equity." },
@@ -4105,7 +4180,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Outcomes Study - Geographic Expansion Timing", year: 2024 },
+{ name: "Stanford GSB", title: "Search Fund Outcomes Study - Geographic Expansion Timing", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       {
@@ -5881,8 +5958,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "2024 International Search Fund Study", year: 2024 },
+      { name: "Cambridge Associates", title: "Private Equity Index and Benchmark Statistics", year: 2024 },
     ],
     faqs: [
       { question: "Do international search funds generate lower returns than US search funds?", answer: "International search funds have historically generated slightly lower aggregate returns than US funds (approximately 25-30% IRR internationally vs 35% in the US). However, the gap is narrowing as international ecosystems mature, and European search funds have shown strong recent performance, particularly in Spain, France, and the UK." },
@@ -6699,8 +6777,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the step-up in search fund investing?", answer: "The step-up gives search capital investors a 1.5x credit: for every $1 invested during the search phase, the investor receives $1.50 worth of equity at the acquisition. This compensates for the risk that the search may not result in a completed acquisition (33% of searches end without a deal)." },
@@ -6794,8 +6874,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-07-16",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What advisors do you need for a search fund acquisition?", answer: "Essential advisors include: an M&A attorney ($30,000-$80,000 for the transaction), a tax advisor/CPA ($5,000-$20,000 for structuring), a QoE provider ($20,000-$60,000), and optionally an insurance broker, environmental consultant, and IT due diligence firm. The total advisory cost is typically 3-5% of deal value." },
@@ -7023,8 +7105,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pepperdine University", title: "Private Capital Markets Report", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How does a leveraged buyout work for small businesses?", answer: "An LBO uses the target company's cash flow to service acquisition debt. Typical SME structure: 50-70% senior debt (SBA or bank), 10-20% seller note, 15-35% buyer/investor equity. The business generates cash to repay debt over 5-10 years, building equity value. At exit, you sell at a higher EBITDA and/or multiple." },
@@ -7046,8 +7130,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
+{ name: "SBA", title: "7(a) Loan Program Overview", year: 2024 },
       { name: "Forbes", title: "SBA Loan Guide for Small Business Acquisitions", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "How much can you borrow with an SBA 7(a) loan for an acquisition?", answer: "The maximum SBA 7(a) loan amount is $5 million. The SBA guarantees 75-85% of the loan (85% for loans up to $150K, 75% for larger loans). Typical terms: 10-year fully amortizing repayment, Prime + 2.25-2.75% interest rate, no balloon payments. You need a minimum 10% equity injection." },
@@ -7069,8 +7155,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", year: 2024 },
+{ name: "Pepperdine Graziadio", title: "Private Capital Markets Report", year: 2024 },
       { name: "SBA", title: "7(a) Loan Program Guidelines", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "What is the optimal debt structure for a search fund acquisition?", answer: "The typical structure is 50-65% senior debt (bank or SBA), 10-20% seller note (often on partial standby), and 20-35% equity. Target a total use of 3-3.5x EBITDA with a minimum 1.25x debt service coverage ratio. The mix depends on deal size, business stability, and lender appetite." },
@@ -7173,8 +7261,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-08-07",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "INSEAD", title: "ETA & Search Funds Hub - Building Your Advisory Network", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the difference between an advisory board and a board of directors?", answer: "A board of directors has legal fiduciary duties, governance authority, and decision-making power (approving budgets, CEO compensation, major transactions). An advisory board has no legal authority - members provide advice, introductions, and expertise on a voluntary or lightly compensated basis. Search fund companies typically have both." },
@@ -7246,8 +7336,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-09-18",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Yale SOM", title: "A Note on Board Governance for Search Fund Companies", year: 2021 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What does a search fund board of directors typically look like?", answer: "A typical search fund board has 3-5 members: the CEO (former searcher), 1-2 investor representatives (usually the most experienced and largest investors), and 1-2 independent directors with relevant industry or functional expertise. The board meets quarterly with additional calls as needed." },
@@ -7269,8 +7361,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-10-02",
     dateModified: "2025-04-17",
     sources: [
-      { name: "McKinsey & Company", title: "Digital Transformation of SMEs", year: 2023 },
+{ name: "McKinsey & Company", title: "Digital Transformation of SMEs", year: 2023 },
       { name: "European Commission", title: "Digitising European Industry", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "What does digital transformation mean for an acquired SME?", answer: "For acquired SMEs, digital transformation means implementing technology to improve operations, customer experience, and decision-making. Common initiatives include: cloud migration, CRM implementation, ERP upgrades, digital marketing, e-commerce capabilities, business intelligence dashboards, and process automation. The goal is to modernize without disrupting ongoing operations." },
@@ -7292,8 +7386,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-10-16",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Harvard Business School", title: "Search Fund Primer", year: 2023 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What are the fastest revenue growth levers after acquiring a business?", answer: "The fastest growth levers (in order of speed-to-impact) are: price optimization (immediate, typically 5-15% increase), reducing customer churn, cross-selling and upselling to existing customers, improving sales team effectiveness, expanding into adjacent markets or services, and adding digital marketing channels. Pricing is almost always the single highest-ROI lever." },
@@ -7564,8 +7660,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Gartner", title: "ERP Implementation Best Practices", year: 2024 },
+{ name: "Gartner", title: "ERP Implementation Best Practices", year: 2024 },
       { name: "Panorama Consulting", title: "ERP Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "When should you implement an ERP after acquiring a business?", answer: "Wait at least 6-12 months. Spend the first 100 days understanding current processes before proposing system changes. The ideal window is months 9-18 post-acquisition, after you've stabilized the business, built trust with employees, and identified the biggest operational pain points." },
@@ -7613,8 +7711,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "McKinsey", title: "Performance Management in Private Equity Portfolio Companies", year: 2024 },
+{ name: "McKinsey", title: "Performance Management in Private Equity Portfolio Companies", year: 2024 },
       { name: "Stanford GSB", title: "Search Fund CEO Operating Playbook", year: 2023 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What KPIs should you track after acquiring a business?", answer: "Start with the Big 5: revenue (trailing 12-month and monthly trend), EBITDA margin, cash conversion cycle (DSO + DIO − DPO), employee retention rate, and customer churn. Layer in industry-specific metrics as you learn the business. Avoid tracking more than 12-15 KPIs - focus creates clarity." },
@@ -7636,8 +7736,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "NCEO", title: "Equity Compensation in Privately Held Companies", year: 2024 },
+{ name: "NCEO", title: "Equity Compensation in Privately Held Companies", year: 2024 },
       { name: "Stanford GSB", title: "Search Fund CEO Compensation Study", year: 2023 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "Should you offer equity to employees after acquiring a business?", answer: "Yes, selectively. Equity incentives for the top 2-5 key employees align their interests with long-term value creation. Most search fund CEOs use phantom equity (synthetic equity that pays out at exit) rather than real equity, which avoids cap table complexity and requires no 409A valuation. Reserve 5-10% of total equity value for the management incentive pool." },
@@ -7659,8 +7761,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Bain & Company", title: "The Economics of Customer Loyalty in M&A", year: 2024 },
+{ name: "Bain & Company", title: "The Economics of Customer Loyalty in M&A", year: 2024 },
       { name: "HBR", title: "Retaining Customers Through Mergers and Acquisitions", year: 2023 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "How much customer churn should you expect after an acquisition?", answer: "Without proactive management, customer churn can spike 15-25% in the first year after an ownership change. With a structured retention plan (personal outreach within 30 days, service guarantees, pricing stability commitments), most search fund acquisitions limit churn to 5-10%. B2B businesses with contracts see lower churn than B2C or transactional businesses." },
@@ -7682,8 +7786,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "SHRM", title: "Talent Acquisition Benchmarking Report", year: 2024 },
+{ name: "SHRM", title: "Talent Acquisition Benchmarking Report", year: 2024 },
       { name: "Stanford GSB", title: "Search Fund CEO Operating Playbook", year: 2023 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What is the first hire a search fund CEO should make?", answer: "A controller or fractional CFO. Most acquired SMEs have a bookkeeper but no one who can produce management-quality financials, cash flow forecasts, or board reporting. This hire typically costs $80K-$120K for a full-time controller or $3K-$8K/month for a fractional CFO, and pays for itself through better financial visibility and decision-making." },
@@ -7705,8 +7811,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "McKinsey", title: "Supply Chain Optimization in Mid-Market Companies", year: 2024 },
+{ name: "McKinsey", title: "Supply Chain Optimization in Mid-Market Companies", year: 2024 },
       { name: "ISM", title: "Report on Business: Procurement Benchmarks", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "How much can supply chain optimization save after an acquisition?", answer: "Typical savings range from 5-15% of total procurement spend within the first 12-18 months. For a $10M revenue business with 50% COGS, that translates to $250K-$750K in annual savings flowing directly to EBITDA. The biggest levers are vendor consolidation, competitive rebidding, and payment terms optimization." },
@@ -7728,8 +7836,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Gartner", title: "IT Spending Benchmarks for Mid-Market Companies", year: 2024 },
+{ name: "Gartner", title: "IT Spending Benchmarks for Mid-Market Companies", year: 2024 },
       { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "How much should an SME spend on IT?", answer: "Best-in-class SMEs spend 3-5% of revenue on IT (including personnel, infrastructure, software, and security). Most acquired SMEs are significantly under-investing at 1-2% of revenue, creating tech debt that manifests as security vulnerabilities, manual processes, and inability to scale. Budget for a 50-100% increase in IT spend in the first 18 months." },
@@ -7751,8 +7861,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
+{ name: "Verizon", title: "Data Breach Investigations Report", year: 2024 },
       { name: "CISA", title: "Cybersecurity Best Practices for Small Businesses", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "Harvard Business Review", title: "What Great Managers Do", url: "https://hbr.org/topic/managing-people", year: 2024 },
     ],
     faqs: [
       { question: "What cybersecurity steps should you take immediately after an acquisition?", answer: "Day 1-7: Change all admin passwords, enable MFA on email and critical systems, verify backup integrity. Day 7-30: Conduct a vulnerability scan, review firewall rules, audit user access permissions (especially departing employees), and purchase cyber insurance if not already in place. These basics prevent 80%+ of common attacks." },
@@ -7851,8 +7963,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-08-26",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2023 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "What is the average return on a search fund?", answer: "Search funds have generated a 35% aggregate IRR and 4.5x return on invested capital across 681 funds tracked by Stanford GSB since 1984. However, returns are highly skewed - the top quartile drives most of the aggregate performance." },
@@ -7972,8 +8086,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-24",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Pacific Lake Partners", title: "LP Due Diligence Best Practices", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Harvard Business School", title: "Search Funds: What Has Changed and What Has Not", url: "https://www.hbs.edu/faculty/Pages/item.aspx?num=54260", year: 2023 },
     ],
     faqs: [
       { question: "How many reference calls should I make before backing a searcher?", answer: "A minimum of six, with eight to ten as the target. Include former managers, peers, and direct reports. Always request at least two back-channel references - people the searcher did not provide." },
@@ -8074,8 +8190,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-09-24",
     dateModified: "2025-04-17",
     sources: [
-      { name: "HEC Paris", title: "Entrepreneurial Acquisition in France", year: 2023 },
+{ name: "HEC Paris", title: "Entrepreneurial Acquisition in France", year: 2023 },
       { name: "Bpifrance", title: "Les PME-ETI en France", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "How big is the business succession market in France?", answer: "France faces a massive succession wave: approximately 700,000 businesses will change hands in the next decade, representing a total transaction value exceeding €100 billion. This is driven by the aging of the baby boomer generation of business owners, with the average French business owner now aged 58." },
@@ -8352,8 +8470,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "KfW", title: "Gründen und Nachfolgen Program", year: 2024 },
+{ name: "KfW", title: "Gründen und Nachfolgen Program", year: 2024 },
       { name: "DIHK", title: "Unternehmensnachfolge Report", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "How does KfW financing work for business acquisitions in Germany?", answer: "KfW doesn't lend directly - it provides subsidized loans through commercial banks (Hausbanken) at below-market rates. Key programs: ERP-Gründerkredit Startgeld (up to €125K, KfW assumes 80% risk), ERP-Universell (up to €25M, 50% risk), and ERP-Kapital (up to €500K subordinated, quasi-equity). Apply through your Hausbank before signing the purchase agreement." },
@@ -8550,8 +8670,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2026-04-24",
     sources: [
-      { name: "Australian Bureau of Statistics", title: "Counts of Australian Businesses", year: 2024 },
+{ name: "Australian Bureau of Statistics", title: "Counts of Australian Businesses", year: 2024 },
       { name: "ASBFEO", title: "Small Business Succession Report", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Is Australia a good market for search fund acquisitions?", answer: "Australia is one of the strongest English-speaking markets for ETA outside North America. The combination of 2.5 million SMEs, a A$3.5 trillion succession wave, stable rule of law, and minimal search fund competition creates favorable conditions. The main constraint is capital access - you will likely need to raise from US or international investors since the local search fund investor ecosystem is still developing." },
@@ -8677,8 +8799,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Ministry of MSME", title: "Annual Report on MSMEs", year: 2024 },
+{ name: "Ministry of MSME", title: "Annual Report on MSMEs", year: 2024 },
       { name: "PwC India", title: "Family Business Survey: India Edition", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Is India a good market for ETA?", answer: "Yes. India has 63M+ MSMEs - the world's largest base - with over 70% being first-generation family businesses facing succession. The $5T economy, young population (median age 28), growing formalization, and 3-6x EBITDA multiples make it compelling. However, regulatory complexity and cultural nuances require deep local knowledge." },
@@ -8700,8 +8824,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
+{ name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
       { name: "EY", title: "M&A Activity in Andean Markets", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Which Andean country is best for ETA?", answer: "Chile offers the most business-friendly environment (ranked #1 in Latin America for ease of doing business), but smaller deal flow. Colombia has the largest SME base and most active M&A market. Peru offers lower multiples (3-5x EBITDA) but requires more local knowledge. Many searchers target 2-3 countries simultaneously." },
@@ -8723,8 +8849,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "European Commission", title: "Single Market Report: Cross-Border M&A", year: 2024 },
+{ name: "European Commission", title: "Single Market Report: Cross-Border M&A", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Can you run a cross-border search fund in Europe?", answer: "Yes, and it's increasingly common. The EU single market allows free movement of capital, making cross-border acquisitions structurally simpler than in most regions. However, you need to manage different legal systems, tax regimes, languages, and business cultures. Most successful cross-border searchers focus on 2-3 adjacent countries with shared language or cultural similarities." },
@@ -8746,8 +8874,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "PwC", title: "Family Business Survey: Middle East Edition", year: 2024 },
+{ name: "PwC", title: "Family Business Survey: Middle East Edition", year: 2024 },
       { name: "Dubai SME", title: "State of Small and Medium Enterprises Report", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Is the Middle East a good market for ETA?", answer: "Increasingly yes. Vision 2030 reforms in Saudi Arabia and the UAE's business-friendly free zones are creating a new M&A ecosystem. The GCC has 3M+ SMEs, and 70% of family businesses face succession challenges within the next decade. INSEAD Abu Dhabi is driving ETA education in the region. Challenges include regulatory complexity and cultural nuances around ownership transfers." },
@@ -8769,8 +8899,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ASEAN Secretariat", title: "ASEAN SME Policy Index", year: 2024 },
+{ name: "ASEAN Secretariat", title: "ASEAN SME Policy Index", year: 2024 },
       { name: "Bain & Company", title: "Southeast Asia Private Equity Report", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Which Southeast Asian country is best for ETA?", answer: "Singapore serves as the ideal base (strong legal system, English-speaking, INSEAD campus) while targeting acquisitions in Indonesia (65M+ MSMEs, largest economy), Vietnam (fastest-growing), Thailand (mature SME ecosystem), or the Philippines (English-speaking workforce). Most searchers base their holding company in Singapore and acquire operating businesses in neighboring countries." },
@@ -8818,8 +8950,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
+{ name: "IDB", title: "SME Market in Latin America and the Caribbean", year: 2024 },
       { name: "LAVCA", title: "Latin America Private Equity Report", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Which Latin American country is best for ETA?", answer: "Mexico and Brazil have the largest SME markets and most developed M&A ecosystems. Chile offers the most business-friendly regulatory environment. Colombia is growing rapidly with strong IESE and local MBA alumni networks. Most searchers focus on one country due to the diversity of legal and tax systems across the continent." },
@@ -8841,8 +8975,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IFC", title: "MSME Finance Gap Report: Sub-Saharan Africa", year: 2024 },
+{ name: "IFC", title: "MSME Finance Gap Report: Sub-Saharan Africa", year: 2024 },
       { name: "McKinsey", title: "Africa's Business Revolution", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
     ],
     faqs: [
       { question: "Which African countries are best for ETA?", answer: "South Africa has the most developed M&A ecosystem and legal framework. Nigeria offers the largest SME market (40M+ MSMEs) but more complexity. Kenya is emerging as East Africa's hub with a strong tech-forward business culture. Egypt and Ghana are growing markets. Most searchers focus on one country initially, using local networks and advisors." },
@@ -8890,8 +9026,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-10-24",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Cambridge Associates", title: "US Venture Capital Index", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "How do search fund returns compare to venture capital?", answer: "Search funds have generated approximately 35% aggregate IRR with a 4.5x MOIC, compared to top-quartile VC fund returns of 20-30% IRR. However, VC outliers (top decile) can generate 50%+ IRR. The key difference is variance: VC follows a power-law distribution, while search fund returns are more normally distributed." },
@@ -8965,8 +9102,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IFA", title: "Franchise Business Economic Outlook", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Cambridge Associates", title: "Private Equity Index and Benchmark Statistics", year: 2024 },
     ],
     faqs: [
       { question: "Is it better to buy a franchise or an existing business?", answer: "Buy a franchise if you want a proven system, brand recognition, and built-in training. Buy an existing business through ETA if you want full autonomy, higher wealth creation potential (20-25% equity), and a clear exit path to PE/strategic buyers at premium multiples. ETA has higher upside but requires more independent decision-making." },
@@ -8989,8 +9128,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-11-12",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Bessemer Venture Partners", title: "Cloud Index & SaaS Metrics", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What EBITDA multiple do SaaS businesses trade at?", answer: "Bootstrapped SaaS businesses with $1-5M ARR typically trade at 3-6x ARR or 8-15x EBITDA for search fund acquisitions. Key drivers are net revenue retention (NRR), gross margins, churn rate, and growth trajectory." },
@@ -9012,8 +9153,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-11-26",
     dateModified: "2025-04-17",
     sources: [
-      { name: "CMS", title: "Healthcare Regulatory Overview for Acquisitions", year: 2024 },
+{ name: "CMS", title: "Healthcare Regulatory Overview for Acquisitions", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What types of healthcare businesses are most commonly acquired by search funds?", answer: "The most common healthcare acquisitions for search funds include: dental practices (DSO model), veterinary clinics, physical therapy practices, home health agencies, behavioral health practices, med spas, pharmacy businesses, and urgent care centers. These businesses offer recurring revenue, fragmented markets, and high barriers to entry." },
@@ -9035,8 +9178,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-12-10",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "Deloitte", title: "Manufacturing Industry Outlook", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "Is manufacturing a good sector for search fund acquisitions?", answer: "Manufacturing can be excellent for search funds, offering: tangible assets, high barriers to entry, long customer relationships, and significant operational improvement potential. However, it also involves higher capital expenditure, inventory management, supply chain complexity, and environmental liability risks. Niche manufacturing (medical devices, aerospace parts, specialty food) tends to perform best." },
@@ -9058,8 +9203,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2024-12-24",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What makes professional services firms attractive for acquisition?", answer: "Professional services firms (consulting, accounting, staffing, engineering) are attractive because they are: asset-light (low capex), high-margin (15-30% EBITDA), cash-generative, relatively recession-resistant, and fragmented (many small firms in every market). They also scale well through talent acquisition and service expansion." },
@@ -9081,8 +9228,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-01-14",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "Why are home services businesses popular search fund targets?", answer: "Home services businesses (HVAC, plumbing, electrical, pest control, landscaping) are popular because they offer: recession-resistant demand, recurring revenue from maintenance contracts, fragmented markets ideal for consolidation, low technology disruption risk, and strong cash flow characteristics. Many also benefit from aging housing stock driving repair demand." },
@@ -9104,8 +9253,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-01-28",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Marketplace Pulse", title: "E-commerce Market Data", year: 2024 },
+{ name: "Marketplace Pulse", title: "E-commerce Market Data", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What types of e-commerce businesses are best for search fund acquisitions?", answer: "The best e-commerce targets for search funds have: proprietary products (not reselling commodities), strong brand identity, diversified traffic sources (not dependent on a single platform), repeat customers (high LTV:CAC ratio), defensible supply chains, and stable margins. D2C brands with loyal communities are particularly attractive." },
@@ -9127,8 +9278,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-02-11",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What types of education businesses are suitable for search fund acquisitions?", answer: "Suitable education targets include: vocational training providers, test prep companies, corporate training firms, language schools, online course platforms, early childhood education centers, tutoring chains, and professional certification providers. Businesses with recurring enrollment, regulatory accreditation, and strong outcomes data are most attractive." },
@@ -9150,8 +9303,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-02-25",
     dateModified: "2025-04-17",
     sources: [
-      { name: "FCA", title: "Financial Services Regulatory Framework", year: 2024 },
+{ name: "FCA", title: "Financial Services Regulatory Framework", year: 2024 },
       { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What types of financial services businesses are suitable for search fund acquisitions?", answer: "Common targets include: insurance brokerages, independent financial advisory practices, accounting firms, wealth management firms, payment processing companies, and specialty lending businesses. Insurance brokerages are particularly popular due to high recurring commission revenue and fragmented markets." },
@@ -9374,8 +9529,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBISWorld", title: "Janitorial Services Industry Report", year: 2024 },
+{ name: "IBISWorld", title: "Janitorial Services Industry Report", year: 2024 },
       { name: "ISSA", title: "Cleaning Industry Market Size Study", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a cleaning business worth?", answer: "Commercial cleaning businesses typically trade at 3-6x EBITDA, with contract-based businesses at the higher end. Residential cleaning companies trade at 2-4x EBITDA due to higher customer churn and lower barriers to entry. Key premium factors: long-term contracts (3+ years), diversified customer base, low employee turnover, and recurring revenue above 80%." },
@@ -9447,8 +9604,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBISWorld", title: "Auto Mechanics Industry Report", year: 2024 },
+{ name: "IBISWorld", title: "Auto Mechanics Industry Report", year: 2024 },
       { name: "Auto Care Association", title: "Factbook & Industry Overview", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is an auto repair shop worth?", answer: "Auto repair businesses typically trade at 2.5-5x EBITDA or 40-60% of annual revenue. Premium factors: ASE-certified technicians, fleet accounts (recurring revenue), modern equipment, strong online reviews (4.5+ stars), multiple bays (6+), and a diversified service mix. Owner-operator shops with no management layer trade at the lower end." },
@@ -9496,8 +9655,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IHRSA", title: "Global Report on the State of the Health Club Industry", year: 2024 },
+{ name: "IHRSA", title: "Global Report on the State of the Health Club Industry", year: 2024 },
       { name: "IBISWorld", title: "Gym, Health & Fitness Clubs Industry Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a gym or fitness studio worth?", answer: "Gyms typically trade at 4-7x EBITDA for established operations with strong membership bases. Revenue per square foot ($30-$80/sqft for traditional gyms, $100-$200+ for boutique studios) is a key metric. Franchise locations may trade at a premium due to brand recognition. Key valuation drivers: member count and churn rate, lease terms, equipment age, and ancillary revenue (personal training, retail, classes)." },
@@ -9519,8 +9680,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "CMS", title: "Medicare Home Health Data", year: 2024 },
+{ name: "CMS", title: "Medicare Home Health Data", year: 2024 },
       { name: "IBISWorld", title: "Home Care Providers Industry Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a home healthcare agency worth?", answer: "Medicare-certified home health agencies trade at 6-10x EBITDA, with premium agencies (strong survey history, diverse payer mix, multiple locations) at the high end. Non-medical/companion care agencies trade at 3-5x EBITDA. Key valuation drivers: Medicare certification status, patient census, payer mix, compliance history, and geographic coverage." },
@@ -9542,8 +9705,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "ICA", title: "International Carwash Association Industry Report", year: 2024 },
+{ name: "ICA", title: "International Carwash Association Industry Report", year: 2024 },
       { name: "IBISWorld", title: "Car Wash & Auto Detailing Industry Report", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a car wash worth?", answer: "Express tunnel car washes with strong membership programs trade at 6-10x EBITDA. Self-serve and in-bay automatic washes trade at 3-5x EBITDA. Key metrics: membership count and penetration rate, wash count per day, revenue per car, and real estate value. Membership-heavy operations command premium valuations due to recurring revenue predictability." },
@@ -9565,8 +9730,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBISWorld", title: "Child Care Services Industry Report", year: 2024 },
+{ name: "IBISWorld", title: "Child Care Services Industry Report", year: 2024 },
       { name: "Child Care Aware", title: "State of Child Care in America", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a daycare business worth?", answer: "Childcare centers typically trade at 5-8x EBITDA for licensed, well-established operations. Key valuation drivers: enrollment vs. licensed capacity (above 85% is strong), waitlist length, facility condition and lease terms, staff tenure, licensing history (no violations), and location demographics (dual-income households, population growth). Centers with government subsidy contracts may trade at a premium." },
@@ -9588,8 +9755,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBISWorld", title: "Moving Services Industry Report", year: 2024 },
+{ name: "IBISWorld", title: "Moving Services Industry Report", year: 2024 },
       { name: "American Moving & Storage Association", title: "Industry Data", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "How much is a moving company worth?", answer: "Moving companies typically trade at 3-5x EBITDA. Premium factors: corporate relocation contracts (recurring), strong online reviews (4.5+ stars), diverse revenue mix (local + long-distance + storage), owned fleet in good condition, and experienced crew retention. Companies dependent on seasonal residential moves with no corporate accounts trade at the lower end." },
@@ -9636,8 +9805,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "IBISWorld", title: "Printing Industry Report", year: 2024 },
+{ name: "IBISWorld", title: "Printing Industry Report", year: 2024 },
       { name: "PRINTING United Alliance", title: "State of the Industry", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IBBA", title: "Market Pulse Report", url: "https://www.ibba.org/resource-center/industry-research/", year: 2024 },
     ],
     faqs: [
       { question: "Is buying a printing business a good investment?", answer: "Printing businesses can be excellent acquisitions at 2.5-4.5x EBITDA due to industry consolidation and aging owners. The key is finding companies that have transitioned to digital and wide-format, have recurring contract revenue (managed print services, marketing fulfillment), and serve industries with ongoing print needs (healthcare, real estate, legal). Avoid companies dependent on commodity offset printing with declining volumes." },
@@ -9709,7 +9880,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-01-23",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What CRM tools do search fund entrepreneurs use?", answer: "Popular CRM tools for searchers include: HubSpot (free tier is sufficient for most searches), Affinity (relationship intelligence), Streak (Gmail-integrated), and custom Airtable or Notion databases. The key requirement is tracking deal pipeline stages, contact history, and follow-up reminders across hundreds of leads." },
@@ -9731,8 +9904,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-02-06",
     dateModified: "2025-04-17",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE", title: "International Search Fund Study", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "Do I need an MBA to start a search fund?", answer: "No, but it helps significantly for traditional search funds. About 85% of traditional searchers have MBAs (primarily from top-20 programs), which provide investor networks and credibility. Self-funded searches are more accessible without an MBA, relying more on industry experience and personal capital." },
@@ -9754,8 +9929,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study: Partnership Outcomes", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study: Partnership Outcomes", year: 2024 },
       { name: "IESE", title: "International Search Fund Study: Team Dynamics", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "Should you have a partner for your search fund?", answer: "It depends on your strengths and the complexity of your search. Partnerships work best when partners have complementary skills (e.g., one is strong in operations and one in finance/deal-making) and aligned values. About 30% of search funds have co-searchers. Partnerships reduce individual risk but require clear role definitions and decision-making frameworks to avoid conflict." },
@@ -9827,8 +10004,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
+{ name: "Stanford GSB", title: "Search Fund Primer", year: 2024 },
       { name: "Search Fund Partners", title: "Best Practices in Deal Sourcing", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What CRM do search funds use?", answer: "Popular choices include: HubSpot Free/Starter (most common - free tier handles 1,000+ contacts), Affinity (relationship intelligence, popular with larger searches), Airtable (flexible pipeline tracking), DealCloud (purpose-built for deal flow), and even Google Sheets for early-stage searches. The best CRM is one you'll actually use consistently. Most successful searchers contact 1,500-3,000 business owners, so scalability matters." },
@@ -9851,7 +10030,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Apple Podcasts", title: "ETA & Business Acquisition Category", year: 2024 },
+{ name: "Apple Podcasts", title: "ETA & Business Acquisition Category", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What are the best search fund podcasts?", answer: "The top ETA podcasts are: (1) Think Like an Owner by Alex Dinos - deep interviews with search fund operators and investors, (2) Acquiring Minds by Will Smith - focused on real acquisition stories and lessons learned, (3) How2Exit - M&A-focused with practical deal insights, (4) The SMB Podcast - small business acquisition strategies, and (5) MainStreet Operator - operations-focused content for post-acquisition CEOs." },
@@ -9875,6 +10057,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
 { name: "Stanford GSB", title: "Recommended Reading List", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What is the best book about buying a small business?", answer: "The HBR Guide to Buying a Small Business by Richard Ruback and Royce Yudkoff is widely considered the definitive guide. Written by two Harvard Business School professors who created the ETA curriculum, it covers everything from search strategy to negotiation to post-acquisition management. Buy Then Build by Walker Deibel is the best book for self-funded searchers. The ETA Handbook provides a thorough operational guide." },
@@ -9945,8 +10128,9 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
+{ name: "Stanford GSB", title: "2024 Search Fund Study", year: 2024 },
       { name: "IESE Business School", title: "Search Fund Case Library", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What can you learn from search fund case studies?", answer: "Case studies reveal patterns that aggregate data misses: how searchers narrowed their industry focus, what made sellers choose them over other buyers, how they structured creative deals, what went wrong in the first 100 days, and how they grew the business post-acquisition. The most valuable case studies cover both successes and failures, with candid reflections on what the searcher would do differently." },
@@ -9968,7 +10152,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
-      { name: "SearchFunder", title: "Community Resources", year: 2024 },
+{ name: "SearchFunder", title: "Community Resources", year: 2024 },
+      { name: "Stanford GSB", title: "2024 Search Fund Study: Selected Observations", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
+      { name: "Searchfunder.com", title: "Search Fund Community Resources", url: "https://www.searchfunder.com", year: 2024 },
     ],
     faqs: [
       { question: "What are the best search fund newsletters?", answer: "Top ETA newsletters: SearchFunder Weekly Digest (community highlights and new discussions), Acquiring Minds Newsletter (deal stories and operator insights), The SMB Brief (small business acquisition news), and various MBA ETA club newsletters (Stanford, HBS, Booth). For broader M&A news: Axial Forum, PitchBook Daily, and Deal Pipeline." },
@@ -10044,8 +10231,10 @@ export const allArticles: ArticleMeta[] = [
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
-      { name: "IBBA", title: "Business Broker Industry Report", year: 2024 },
+{ name: "IBBA", title: "Business Broker Industry Report", year: 2024 },
       { name: "Stanford GSB", title: "Search Fund Study - Deal Sourcing Channels", year: 2024 },
+      { name: "American Bar Association", title: "Private Target M&A Deal Points Study", url: "https://www.americanbar.org/groups/business_law/resources/business-law-today/2025-december/aba-2025-private-target-mergers-acquisitions-deal-points-study/", year: 2025 },
+      { name: "IESE Business School", title: "International Search Fund Study", year: 2024 },
     ],
     faqs: [
       { question: "What are the best trade shows for finding acquisition targets?", answer: "The best trade shows depend on your target industry. Look for sector-specific events where business owners attend (not just employees). Industry association annual conferences, regional business expos, and franchise expos can all surface potential sellers. Focus on events with owner-operator attendance." },
