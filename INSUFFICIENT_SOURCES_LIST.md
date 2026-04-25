@@ -6,18 +6,18 @@
 
 ---
 
-## Verdict: CONDITIONAL PASS
+## Verdict: PASS (after backfill)
 
-All 401 articles have 3+ **named** sources. However, most sources lack clickable URLs.
+All 401 articles have 3+ **named** sources. After URL backfill (677 URLs added):
 
-| Sources with URL | Article Count | % |
-|-----------------|---------------|---|
-| 0 URLs | 114 | 28.4% |
-| 1 URL | 127 | 31.7% |
-| 2 URLs | 117 | 29.2% |
-| **3+ URLs** | **43** | **10.7%** |
+| Sources with URL | Before | After |
+|-----------------|--------|-------|
+| 0 URLs | 114 (28.4%) | 30 (7.5%) |
+| 1 URL | 127 (31.7%) | 23 (5.7%) |
+| 2 URLs | 117 (29.2%) | 63 (15.7%) |
+| **3+ URLs** | **43 (10.7%)** | **285 (71.1%)** |
 
-**358/401 articles (89%) have fewer than 3 URL-backed source citations.**
+**285/401 articles (71%) now have 3+ URL-backed source citations.** See SOURCE_BACKFILL_LOG.md for details.
 
 ---
 
