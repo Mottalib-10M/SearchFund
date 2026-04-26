@@ -5,7 +5,6 @@ import { COUNTRIES } from "@/lib/utils";
 
 type SearcherCardProps = {
   searcher: SearcherWithUser;
-  isSample?: boolean;
 };
 
 const SEARCH_TYPE_LABELS: Record<string, string> = {
@@ -26,7 +25,7 @@ function getInitials(name: string | null | undefined): string {
     .toUpperCase();
 }
 
-export default function SearcherCard({ searcher, isSample }: SearcherCardProps) {
+export default function SearcherCard({ searcher }: SearcherCardProps) {
   const { user } = searcher;
   const country = user.country ? COUNTRIES[user.country] : null;
   const initials = getInitials(user.name);
@@ -90,11 +89,6 @@ export default function SearcherCard({ searcher, isSample }: SearcherCardProps) 
         <span className="bg-apple-gray-100 rounded-full px-2.5 py-0.5 text-xs text-apple-gray-700">
           {typeLabel}
         </span>
-        {isSample && (
-          <span className="bg-amber-50 text-amber-700 border border-amber-200 rounded-full px-2.5 py-0.5 text-xs">
-            Sample
-          </span>
-        )}
       </div>
     </Link>
   );

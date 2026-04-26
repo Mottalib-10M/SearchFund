@@ -113,7 +113,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
   }
 
   const { user } = searcher;
-  const isSample = user.email?.endsWith("@example.com") ?? false;
   const initials = getInitials(user.name);
   const country = user.country ? COUNTRIES[user.country] : null;
   const typeLabel = SEARCH_TYPE_LABELS[searcher.searchType] ?? searcher.searchType;
@@ -143,8 +142,8 @@ export default async function SearcherProfilePage({ params }: PageProps) {
     connectionStatus = (conn?.status ?? null) as typeof connectionStatus;
   }
 
-  // Person JSON-LD for real profiles only
-  const personJsonLd = !isSample && user.name ? {
+  // Person JSON-LD
+  const personJsonLd = user.name ? {
     "@context": "https://schema.org",
     "@type": "Person",
     name: user.name,
@@ -160,13 +159,6 @@ export default async function SearcherProfilePage({ params }: PageProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }} />
       )}
       <BackButton fallbackHref="/searchers" label="Back" />
-
-      {/* Sample badge */}
-      {isSample && (
-        <div className="mt-4 rounded-lg bg-amber-50 border border-amber-200 px-4 py-2">
-          <p className="text-xs text-amber-800">Sample profile - This is a representative example of a search fund entrepreneur, not a real individual.</p>
-        </div>
-      )}
 
       {/* Header */}
       <div className="mt-8 flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">

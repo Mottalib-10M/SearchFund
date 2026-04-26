@@ -111,7 +111,6 @@ export default async function InvestorProfilePage({ params }: PageProps) {
   }
 
   const { user } = investor;
-  const isSample = user.email?.endsWith("@example.com") ?? false;
   const displayName = investor.firmName || user.name || "Anonymous Investor";
   const initials = getInitials(displayName);
   const country = user.country ? COUNTRIES[user.country] : null;
@@ -141,8 +140,8 @@ export default async function InvestorProfilePage({ params }: PageProps) {
     connectionStatus = (conn?.status ?? null) as typeof connectionStatus;
   }
 
-  // Person/Organization JSON-LD for real profiles only
-  const profileJsonLd = !isSample && (user.name || investor.firmName) ? {
+  // Person/Organization JSON-LD
+  const profileJsonLd = (user.name || investor.firmName) ? {
     "@context": "https://schema.org",
     "@type": investor.firmName ? "Organization" : "Person",
     name: investor.firmName || user.name,
@@ -157,13 +156,6 @@ export default async function InvestorProfilePage({ params }: PageProps) {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(profileJsonLd) }} />
       )}
       <BackButton fallbackHref="/investors" label="Back" />
-
-      {/* Sample badge */}
-      {isSample && (
-        <div className="mt-4 rounded-lg bg-amber-50 border border-amber-200 px-4 py-2">
-          <p className="text-xs text-amber-800">Sample profile - This is a representative example of a search fund investor, not a real individual or firm.</p>
-        </div>
-      )}
 
       <div className="mt-8 flex flex-col sm:flex-row sm:items-start gap-4 sm:gap-6">
         <div className="w-16 h-16 sm:w-20 sm:h-20 shrink-0 rounded-full bg-apple-gray-100 flex items-center justify-center">
