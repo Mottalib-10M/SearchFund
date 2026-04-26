@@ -9,9 +9,9 @@ export default function LetterOfIntentArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Letter of Intent is the pivotal document in any search fund
+          The Letter of Intent is the key document in any search fund
           acquisition. It marks the transition from the search phase to the deal
-          phase and sets the framework for everything that follows &mdash;
+          phase and sets the framework for everything that follows , 
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, acquisition financing, and the definitive purchase
           agreement. A well-drafted LOI protects the buyer, reassures the
           seller, and establishes the commercial terms that will govern months
@@ -25,8 +25,8 @@ export default function LetterOfIntentArticle() {
           both parties commit to the expense and effort of full due diligence
           and legal documentation. It is primarily <strong>non-binding</strong>,
           meaning neither party is legally obligated to complete the transaction.
-          However, certain provisions &mdash; exclusivity, confidentiality, and
-          expense allocation &mdash; are typically binding.
+          However, certain provisions, exclusivity, confidentiality, and
+          expense allocation, are typically binding.
         </p>
         <p>
           The LOI matters for several reasons. First, it forces both parties to
@@ -35,7 +35,7 @@ export default function LetterOfIntentArticle() {
           shopping the deal while you conduct diligence. Third, it gives your
           investors and lenders confidence that a deal is progressing, which is
           essential for lining up acquisition financing. Fourth, it establishes
-          the negotiating dynamic &mdash; the tone and structure of the LOI
+          the negotiating dynamic, the tone and structure of the LOI
           often set the pattern for the entire deal process.
         </p>
 
@@ -54,8 +54,11 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>2. Transaction structure</h3>
         <p>
-          Specify whether you are proposing an asset purchase or a share
-          purchase. Asset purchases are more common in the US (favorable tax
+          Specify whether you are proposing an{" "}
+          <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
+            asset purchase or a share purchase
+          </Link>.
+          Asset purchases are more common in the US (favorable tax
           treatment for buyers, ability to select assets and exclude
           liabilities). Share purchases are more common in Europe, particularly
           in France and Germany, where asset transfers can trigger complex
@@ -69,7 +72,7 @@ export default function LetterOfIntentArticle() {
           The exclusivity clause is arguably the most important binding
           provision. It prevents the seller from soliciting or entertaining
           competing offers during the due diligence period. Typical exclusivity
-          periods range from 60 to 120 days. Push for 90-120 days &mdash;
+          periods range from 60 to 120 days. Push for 90-120 days , 
           search fund acquisitions require extensive diligence, financing
           arrangements, and investor coordination. Include an extension
           mechanism (e.g., automatic 30-day extension if diligence is
@@ -83,7 +86,7 @@ export default function LetterOfIntentArticle() {
           buyer will have full access to financial records, contracts, employees
           (typically after a certain milestone), customers, and facilities.
           State that the transaction is contingent on satisfactory completion of
-          due diligence &mdash; this gives you an exit ramp if you discover
+          due diligence, this gives you an exit ramp if you discover
           material issues. Be explicit about what &ldquo;satisfactory&rdquo;
           means: it should be at the buyer&apos;s sole discretion.
         </p>
@@ -110,7 +113,7 @@ export default function LetterOfIntentArticle() {
           almost always subordinated to senior bank debt). For earn-outs,
           define the performance metrics (revenue, EBITDA, customer retention),
           measurement period, and payout formula. <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">Earn-outs are notoriously
-          difficult to negotiate</Link> &mdash; keep the metrics simple and
+          difficult to negotiate</Link>, keep the metrics simple and
           objectively measurable.
         </p>
 
@@ -124,7 +127,7 @@ export default function LetterOfIntentArticle() {
 
         <h2 className={h2Class}>Binding vs. non-binding provisions</h2>
         <p>
-          Understanding this distinction is crucial. The LOI should explicitly
+          Understanding this distinction is critical. The LOI should explicitly
           state which provisions are binding and which are not:
         </p>
         <ul className={ulClass}>
@@ -141,13 +144,13 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>Break-up fees and cost reimbursement</h3>
         <p>
-          Some sellers request a break-up fee — a payment the buyer must make
+          Some sellers request a break-up fee - a payment the buyer must make
           if the buyer walks away from the deal after signing the LOI. Break-up
           fees are uncommon in search fund transactions but occasionally appear
           in competitive processes where the seller wants compensation for
           taking the company off the market. If you agree to a break-up fee,
           keep it modest (typically 1-2% of the purchase price) and ensure it
-          is only triggered by the buyer&apos;s voluntary withdrawal — not by
+          is only triggered by the buyer&apos;s voluntary withdrawal - not by
           a failure to obtain financing or the discovery of material
           misrepresentations during diligence. Cost reimbursement provisions,
           where the withdrawing party reimburses the other side&apos;s
@@ -170,12 +173,12 @@ export default function LetterOfIntentArticle() {
           The right duration depends on the complexity of the business, the
           scope of diligence required, and the time needed to arrange
           acquisition financing. Push for the longest period the seller will
-          accept — rushing diligence to meet an artificial deadline is one
+          accept - rushing diligence to meet an artificial deadline is one
           of the most common causes of post-acquisition surprises. Include
           an extension mechanism in the LOI, such as an automatic 30-day
           extension if diligence is proceeding in good faith and neither
           party has raised material concerns. This prevents the seller from
-          using an expiring exclusivity period as leverage to force premature
+          using an expiring exclusivity period as use to force premature
           commitment.
         </p>
 
@@ -183,8 +186,8 @@ export default function LetterOfIntentArticle() {
         <p>
           If exclusivity expires without an extension, the seller is free to
           entertain competing offers. This does not necessarily mean the deal
-          is dead — many sellers prefer to continue with the existing buyer
-          rather than restart the process — but it dramatically weakens your
+          is dead - many sellers prefer to continue with the existing buyer
+          rather than restart the process - but it dramatically weakens your
           negotiating position. You have invested significant time and
           professional fees, and the seller knows you have sunk costs that
           create pressure to close. To avoid this dynamic, monitor your
@@ -211,7 +214,7 @@ export default function LetterOfIntentArticle() {
           twelve-month average of net working capital, though seasonal
           businesses may require a different calculation methodology. Getting
           the working capital peg wrong can shift hundreds of thousands of
-          dollars between buyer and seller — it deserves careful analysis
+          dollars between buyer and seller - it deserves careful analysis
           during diligence and explicit treatment in the LOI.
         </p>
 
@@ -223,14 +226,14 @@ export default function LetterOfIntentArticle() {
           statements, the absence of undisclosed liabilities, compliance with
           laws, the status of material contracts, and the condition of assets.
           The indemnification provisions determine what happens when a rep
-          proves untrue — the seller must compensate the buyer for resulting
+          proves untrue - the seller must compensate the buyer for resulting
           losses. Two critical terms to address at the LOI stage are the
           basket (the minimum threshold of losses before indemnification is
           triggered, typically 0.5-1.0% of the purchase price) and the cap
           (the maximum indemnification liability, typically 10-20% of the
           purchase price for general reps and up to 100% for fundamental reps
-          like ownership and authority). An indemnification holdback — a portion
-          of the purchase price held in escrow for 12-18 months post-closing —
+          like ownership and authority). An indemnification holdback - a portion
+          of the purchase price held in escrow for 12-18 months post-closing - 
           provides practical enforcement of these provisions.
         </p>
 
@@ -245,7 +248,7 @@ export default function LetterOfIntentArticle() {
           agreements that will be executed at closing. Getting these terms
           agreed upon early prevents last-minute holdups when the seller or
           key employees attempt to renegotiate their arrangements with
-          closing leverage.
+          closing use.
         </p>
 
         <h2 className={h2Class}>Negotiation strategies</h2>
@@ -255,7 +258,7 @@ export default function LetterOfIntentArticle() {
           <li><strong>Use structure to bridge price gaps:</strong> If the seller&apos;s price expectation exceeds your valuation, bridge the gap with seller notes, earn-outs, or a management consulting agreement during the transition period. These tools reduce your upfront cash outlay and align incentives.</li>
           <li><strong>Keep the LOI simple:</strong> Resist the urge to over-negotiate the LOI. It is a framework, not a definitive agreement. Over-lawyering the LOI signals distrust and can kill deals. Save the detailed provisions for the purchase agreement.</li>
           <li><strong>Protect your exit ramps:</strong> Ensure the due diligence contingency and financing contingency are clearly worded and at your sole discretion. These are your protection against overpaying or acquiring a problematic business.</li>
-          <li><strong>Address the seller&apos;s concerns proactively:</strong> Most SME owners care about their employees, their legacy, and certainty of close. Address these directly in the LOI &mdash; commit to employee retention, describe your operating philosophy, and demonstrate that your financing is credible.</li>
+          <li><strong>Address the seller&apos;s concerns proactively:</strong> Most SME owners care about their employees, their legacy, and certainty of close. Address these directly in the LOI, commit to employee retention, describe your operating philosophy, and demonstrate that your financing is credible.</li>
         </ul>
 
         <h2 className={h2Class}>EU-specific formats and considerations</h2>
@@ -269,7 +272,7 @@ export default function LetterOfIntentArticle() {
           should reference &ldquo;sous r&eacute;serve de&rdquo; (subject to)
           due diligence and financing. Employee information rights under
           the Hamon Law (for businesses with fewer than 250 employees) must be
-          observed &mdash; employees have a right to be informed of a potential
+          observed, employees have a right to be informed of a potential
           sale and may make a competing offer.
         </p>
 
@@ -309,7 +312,7 @@ export default function LetterOfIntentArticle() {
         <h3 className={h3Class}>Key milestones from LOI to close</h3>
         <p>
           The post-LOI process typically follows a predictable sequence. In
-          weeks one through four, you conduct intensive financial diligence —
+          weeks one through four, you conduct intensive financial diligence - 
           quality of earnings analysis, working capital analysis, and review
           of tax returns and financial statements. In weeks four through eight,
           operational and legal diligence proceeds in parallel: customer and
@@ -332,19 +335,19 @@ export default function LetterOfIntentArticle() {
           Industry data suggests that approximately 30% of signed LOIs do not
           result in a completed transaction. Understanding the most common
           failure modes helps you avoid them. The leading cause is
-          diligence discoveries — material discrepancies between the
+          diligence discoveries - material discrepancies between the
           seller&apos;s representations and the actual condition of the
           business, including overstated earnings, undisclosed liabilities,
           customer concentration risk, or pending litigation. The second
-          most common cause is financing failure — inability to secure
+          most common cause is financing failure - inability to secure
           adequate debt or equity on acceptable terms, often triggered by
           diligence findings that make lenders uncomfortable. Seller&apos;s
           remorse is the third major cause: the emotional difficulty of
           selling a life&apos;s work causes some sellers to create obstacles,
           become unresponsive, or renegotiate terms late in the process.
-          Finally, interpersonal breakdowns between buyer and seller —
+          Finally, interpersonal breakdowns between buyer and seller - 
           damaged trust from aggressive negotiation tactics, cultural
-          mismatches, or communication failures — can kill otherwise viable
+          mismatches, or communication failures - can kill otherwise viable
           deals. The best protection against all of these risks is a
           well-drafted LOI with clear contingencies, disciplined diligence,
           and consistent, empathetic communication with the seller throughout
@@ -361,12 +364,16 @@ export default function LetterOfIntentArticle() {
 
         <h3 className={h3Class}>Competitive vs. exclusive LOIs</h3>
         <p>
-          In a brokered process where multiple buyers are bidding, you may
+          In a brokered process, often sourced through{" "}
+          <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
+            business brokers
+          </Link>{" "}
+          where multiple buyers are bidding, you may
           submit a competitive LOI alongside other bidders. Competitive LOIs
           require sharper pricing (less room for a valuation range), stronger
           certainty-of-close language, and fewer contingencies to stand out.
-          In a proprietary deal — one you sourced directly through outreach
-          to the owner — you are typically the sole bidder, and the LOI can
+          In a proprietary deal - one you sourced directly through outreach
+          to the owner - you are typically the sole bidder, and the LOI can
           include more buyer-friendly terms like wider price ranges, longer
           exclusivity periods, and broader diligence contingencies. Proprietary
           deals are generally preferable because the relationship dynamic
@@ -392,7 +399,48 @@ export default function LetterOfIntentArticle() {
           your next-best opportunity, which you have already vetted at a
           preliminary level. This disciplined approach balances pipeline
           management with the integrity that the search fund community
-          demands.
+          demands. For more on building a healthy pipeline, see our guide on{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+            deal sourcing strategies
+          </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What should the purchase price section of an LOI include?</h3>
+        <p>
+          The purchase price section should state the proposed enterprise value
+          and how you arrived at it (for example, a multiple of trailing twelve
+          months adjusted EBITDA). Specify whether the price is fixed or subject
+          to a working capital adjustment at closing. Many search fund LOIs
+          express the price as a range to preserve negotiating flexibility while
+          giving the seller a clear indication. Also clarify the form of
+          consideration, cash at closing, seller notes, earn-outs, or a
+          combination.
+        </p>
+
+        <h3 className={h3Class}>How long does it take to go from LOI to closing?</h3>
+        <p>
+          The typical path from a signed LOI to closing takes 3-6 months.
+          The first four weeks focus on intensive financial diligence and a quality
+          of earnings analysis. Weeks four through eight cover operational and
+          legal diligence plus purchase agreement drafting. Weeks eight through
+          twelve involve finalizing the purchase agreement, securing acquisition
+          financing, and closing remaining diligence items. Industry data
+          suggests approximately 30% of signed LOIs do not result in a completed
+          transaction, most commonly due to diligence discoveries, financing
+          failures, or seller&rsquo;s remorse.
+        </p>
+
+        <h3 className={h3Class}>Can I submit LOIs to multiple sellers at the same time?</h3>
+        <p>
+          You can advance multiple opportunities through initial evaluation and
+          management meetings simultaneously, but you should sign an exclusive
+          LOI with only one target at a time. Signing multiple exclusive LOIs
+          simultaneously is considered unethical in the search fund community
+          and risks reputational damage. If your first deal falls through, you
+          can quickly pivot to your next-best opportunity if you have maintained
+          a warm pipeline.
         </p>
       </div>
     </article>

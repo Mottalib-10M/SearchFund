@@ -13,7 +13,7 @@ export default function ETAvsPublicMarketsArticle() {
           core of their portfolio. The S&P 500 is the benchmark against
           which all other strategies are measured. Hedge funds promise
           alpha through sophisticated strategies. Entrepreneurship Through
-          Acquisition (ETA) offers something different entirely — direct
+          Acquisition (ETA) offers something different entirely - direct
           ownership of a private business with active operational
           involvement. This comparison examines how ETA stacks up against
           public equities and hedge funds across returns, risk, liquidity,
@@ -50,7 +50,7 @@ export default function ETAvsPublicMarketsArticle() {
           has been disappointing. According to data from Hedge Fund
           Research (HFR), the HFRI Fund Weighted Composite Index has
           delivered annualized returns of approximately 6% to 8% over
-          the past 15 years — after fees, underperforming the S&P 500
+          the past 15 years - after fees, underperforming the S&P 500
           in most periods. The average hedge fund charges 1.5% management
           fees plus 15% to 20% performance fees (the &quot;2/20&quot;
           model, though actual fees have compressed slightly). After
@@ -76,12 +76,12 @@ export default function ETAvsPublicMarketsArticle() {
           business.
         </p>
         <p>
-          This illiquidity is not merely an inconvenience — it is a
+          This illiquidity is not merely an inconvenience - it is a
           structural feature that creates both risk and opportunity.
           The risk is straightforward: if you need capital during the
           hold period, it is simply unavailable. The opportunity is that
-          the illiquidity premium — the excess return investors demand
-          for accepting illiquidity — is well-documented in academic
+          the illiquidity premium - the excess return investors demand
+          for accepting illiquidity - is well-documented in academic
           finance. Studies estimate the illiquidity premium in private
           markets at 3% to 5% annually. ETA&apos;s 20%+ premium over
           public markets substantially exceeds the typical illiquidity
@@ -97,9 +97,9 @@ export default function ETAvsPublicMarketsArticle() {
           value daily and sell instantly if they lose confidence. Search
           fund investors receive quarterly financial reports and annual
           valuations but have no exit mechanism. When the underlying
-          business hits a rough patch — a key customer loss, a failed
-          product launch, an industry downturn — investors must sit with
-          uncertainty and trust the CEO to navigate through it. This
+          business hits a rough patch - a key customer loss, a failed
+          product launch, an industry downturn - investors must sit with
+          uncertainty and trust the CEO to manage through it. This
           emotional experience is fundamentally different from public
           market investing and is not suitable for every investor
           temperament.
@@ -120,8 +120,8 @@ export default function ETAvsPublicMarketsArticle() {
           One of the most compelling arguments for including ETA in a
           portfolio is its low correlation with public markets. Search
           fund returns are driven primarily by company-specific
-          operational factors — the CEO&apos;s ability to grow revenue,
-          improve margins, and build organizational capability — rather
+          operational factors - the CEO&apos;s ability to grow revenue,
+          improve margins, and build organizational capability - rather
           than by macroeconomic variables or market sentiment that drive
           public equity prices.
         </p>
@@ -132,7 +132,7 @@ export default function ETAvsPublicMarketsArticle() {
           public markets (typically 0.5 to 0.7 for equity-oriented
           strategies). This low correlation means that adding ETA to a
           traditional stock-and-bond portfolio can improve the
-          portfolio&apos;s risk-adjusted returns — higher expected returns
+          portfolio&apos;s risk-adjusted returns - higher expected returns
           without a proportional increase in volatility.
         </p>
 
@@ -145,7 +145,7 @@ export default function ETAvsPublicMarketsArticle() {
           private investments is methodologically challenging because
           valuations are infrequent and potentially smoothed, but
           reasonable estimates for a diversified ETA portfolio suggest
-          Sharpe ratios in the range of 0.8 to 1.2 — roughly double
+          Sharpe ratios in the range of 0.8 to 1.2 - roughly double
           that of public equities. Even after adjusting for the
           potential smoothing bias in private market valuations, ETA
           offers superior risk-adjusted returns.
@@ -157,7 +157,7 @@ export default function ETAvsPublicMarketsArticle() {
           efficient markets in the world. Thousands of analysts, quant
           funds, and algorithmic traders process every piece of public
           information within milliseconds. Generating alpha through
-          superior information is extraordinarily difficult — even most
+          superior information is extraordinarily difficult - even most
           professional fund managers fail to beat their benchmarks
           consistently.
         </p>
@@ -198,7 +198,7 @@ export default function ETAvsPublicMarketsArticle() {
         <h2 className={h2Class}>Why family offices allocate to search funds</h2>
         <p>
           Family offices have been among the earliest and most
-          enthusiastic institutional adopters of search fund investing — our guide on{" "}
+          enthusiastic institutional adopters of search fund investing - our guide on{" "}
           <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors choose search funds</Link> explores
           their motivations in depth.
           Their reasons illuminate the asset class&apos;s structural
@@ -215,7 +215,7 @@ export default function ETAvsPublicMarketsArticle() {
           <li>
             <strong>Concentrated conviction:</strong> Family offices are
             often built on the wealth created by a single business. The
-            principals understand — viscerally — the value of backing a
+            principals understand - viscerally - the value of backing a
             talented operator to run a single company. They are
             comfortable with concentration because it mirrors their own
             wealth-creation experience.
@@ -246,7 +246,7 @@ export default function ETAvsPublicMarketsArticle() {
             investors who need significant liquidity and have limited
             experience with private markets. Even a 5% allocation to
             ETA, earning 30% IRR, adds approximately 1% to 2% to
-            overall portfolio returns — meaningful over decades.
+            overall portfolio returns - meaningful over decades.
           </li>
           <li>
             <strong>Moderate allocation (10% to 20%):</strong> For
@@ -314,10 +314,73 @@ export default function ETAvsPublicMarketsArticle() {
           choosing one over the other but combining both. Public markets
           provide the liquid foundation, while ETA provides the alpha
           engine. Together, they create a portfolio that is both resilient
-          and high-performing — offering daily liquidity for near-term
+          and high-performing - offering daily liquidity for near-term
           needs and outsized returns from patient, long-term private
           market investments.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How do search fund returns compare to the S&amp;P 500 after adjusting for risk?</h3>
+        <p>
+          On a risk-adjusted basis, ETA significantly outperforms public
+          equities. The S&amp;P 500 has historically delivered a Sharpe
+          ratio of approximately 0.4 to 0.5. Reasonable estimates for a
+          diversified ETA portfolio of 10 or more search fund investments
+          suggest Sharpe ratios in the range of 0.8 to 1.2, roughly
+          double that of public markets. Even after adjusting for the
+          potential smoothing bias inherent in private market valuations
+          (where returns are reported infrequently), ETA offers superior
+          risk-adjusted returns. The{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</Link>{" "}
+          reports a median pre-tax IRR of approximately 33% for acquired
+          funds, with a mean return on invested capital of 5.2x.
+        </p>
+
+        <h3 className={h3Class}>Why do family offices allocate to search funds instead of hedge funds?</h3>
+        <p>
+          Family offices have been among the earliest institutional adopters
+          of search fund investing for several reasons. First, ETA delivers
+          3x to 5x the absolute return of the average hedge fund without
+          management fees or performance fee layers. Second, family office
+          principals, who often built their own wealth through a
+          single business, understand viscerally the value of backing
+          a talented operator. Third, modest check sizes ($50,000-$200,000
+          per search fund) allow easy portfolio diversification. Fourth,
+          the low correlation between search fund returns and public markets
+          (estimated at 0.2-0.3, vs. 0.5-0.7 for equity-oriented
+          hedge funds) provides genuine diversification benefit. Learn more
+          about{" "}
+          <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors choose search funds</Link>.
+        </p>
+
+        <h3 className={h3Class}>What percentage of a portfolio should be allocated to ETA?</h3>
+        <p>
+          Allocation depends on liquidity needs, time horizon, and risk
+          tolerance. A conservative allocation of 5-10% suits investors
+          who need significant liquidity and have limited private market
+          experience. A moderate 10-20% allocation works for accredited
+          investors with stable income who can tolerate five-to-seven-year
+          lock-ups. Aggressive allocations of 20-35% are appropriate
+          for family offices and ultra-high-net-worth individuals with long
+          time horizons and no near-term liquidity needs. Regardless of
+          allocation size, investors should diversify across vintage years,
+          deploying capital over three to five years and backing two to four
+          new searchers annually.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong>: &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>S&amp;P Global</strong>: &ldquo;S&amp;P 500 Historical Returns &amp; Performance Data,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Hedge Fund Research (HFR)</strong>, &ldquo;HFRI Fund Weighted Composite Index, Performance Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

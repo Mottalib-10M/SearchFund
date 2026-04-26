@@ -87,7 +87,7 @@ export default function SelfFundedVsTraditionalArticle() {
           $200K in searcher equity from personal savings or home equity
           (10%), and $200K from a small group of equity co-investors (10%).
           In this scenario, the searcher owns 90% of the business on
-          day one — a dramatically different outcome than the 20-25%
+          day one - a dramatically different outcome than the 20-25%
           ownership in a traditional model.
         </p>
         <p>
@@ -115,7 +115,7 @@ export default function SelfFundedVsTraditionalArticle() {
           build a pitch deck, identify potential investors from the
           established search fund investor community, and conduct a
           roadshow of meetings. Most traditional searchers begin this
-          process during or immediately after their MBA program, leveraging
+          process during or immediately after their MBA program, using
           school alumni networks and search fund conferences (Stanford
           Search Fund Conference, IESE, INSEAD) to build relationships
           with investors.
@@ -136,7 +136,7 @@ export default function SelfFundedVsTraditionalArticle() {
           acquisition target, they must assemble the capital stack
           (bank debt, SBA loan, seller financing, equity co-investors)
           on a deal-specific basis. This deal-level fundraising typically
-          takes 60-120 days and introduces execution risk — if financing
+          takes 60-120 days and introduces execution risk - if financing
           falls through, the searcher may lose the deal.
         </p>
         <p>
@@ -192,9 +192,9 @@ export default function SelfFundedVsTraditionalArticle() {
           A self-funded searcher who acquires a business generating $500K
           in annual SDE for $1.5M (3x SDE) and owns 80% of the equity is
           earning $400K in annual cash flow on perhaps $200K in personal
-          investment — a fundamentally different wealth-building equation
+          investment - a fundamentally different wealth-building equation
           than a traditional searcher earning 20% of a larger but more
-          leveraged entity. The trade-off is that smaller businesses tend
+          used entity. The trade-off is that smaller businesses tend
           to be more owner-dependent, less diversified, and more
           vulnerable to single-customer or single-employee risk.
         </p>
@@ -228,8 +228,8 @@ export default function SelfFundedVsTraditionalArticle() {
           methodologies.
         </p>
         <p>
-          Stanford GSB&apos;s research on traditional search funds — the most
-          comprehensive dataset available — shows that approximately 70%
+          Stanford GSB&apos;s research on traditional search funds - the most
+          thorough dataset available - shows that approximately 70%
           of traditional searchers successfully acquire a business. Of
           those who acquire, roughly 65-70% generate positive returns for
           investors, and the asset class as a whole has produced aggregate
@@ -272,7 +272,7 @@ export default function SelfFundedVsTraditionalArticle() {
           model gives the searcher higher equity ownership (since there is
           no search-phase dilution) while still providing the comfort of
           pre-committed acquisition capital. The searcher typically retains
-          30-50% equity — meaningfully more than the traditional 20-25%
+          30-50% equity - meaningfully more than the traditional 20-25%
           but less than a fully self-funded acquisition.
         </p>
 
@@ -333,6 +333,54 @@ export default function SelfFundedVsTraditionalArticle() {
           understanding your financial position, risk tolerance, network,
           and goals, and choosing the model that aligns with your personal
           circumstances rather than chasing the one that looks best on paper.
+        </p>
+
+        <p>
+          For additional context, explore our guides on{" "}
+          <Link href="/learn/creating-icp-acquisitions" className="text-apple-accent hover:underline">
+            building your ideal company profile
+          </Link>{" "}
+          and the{" "}
+          <Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">
+            pledge fund model
+          </Link>{" "}
+          as a hybrid alternative.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much does it cost to self-fund a search?</h3>
+        <p>
+          Most self-funded searchers spend $50K-$150K out of pocket over
+          12-24 months. This covers living expenses (if not working part-time),
+          CRM software, legal fees, travel, and deal evaluation costs. Some
+          searchers reduce this by maintaining part-time consulting income or
+          working from a home office. Unlike the traditional model, there is no
+          salary during the search, so personal financial runway is critical.
+        </p>
+
+        <h3 className={h3Class}>Can I switch from self-funded to traditional mid-search?</h3>
+        <p>
+          It is difficult to switch models once you have started. Traditional
+          investors expect to fund the search from day one and receive the
+          corresponding equity terms. However, some searchers who begin
+          self-funded later bring in equity co-investors for a specific deal
+          using a{" "}
+          <Link href="/learn/pledge-fund-model" className="text-apple-accent hover:underline">
+            pledge fund
+          </Link>{" "}
+          structure, which offers a practical middle ground.
+        </p>
+
+        <h3 className={h3Class}>What role does SBA financing play in self-funded acquisitions?</h3>
+        <p>
+          SBA 7(a) loans are the backbone of most self-funded deals in the
+          United States. They allow up to $5M in financing with a 10-year
+          term and relatively low down payments (typically 10-20%).
+          This government-backed debt significantly reduces the equity
+          required from the searcher and co-investors, making it possible
+          to acquire a business with modest personal capital. Outside the
+          US, equivalent programs vary by country.
         </p>
       </div>
     </article>

@@ -22,7 +22,7 @@ export default function ETAPolandArticle() {
           entrepreneurs a rare combination of scale, growth, and affordability.
           For those already exploring the broader{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
-            European ETA landscape
+            European ETA market
           </Link>,
           Poland deserves serious attention as either a primary market or a
           strategic complement to a Central European search.
@@ -46,7 +46,7 @@ export default function ETAPolandArticle() {
             <strong>EU&rsquo;s 5th largest economy:</strong> With GDP exceeding
             EUR 650 billion, Poland is the fifth-largest economy in the European
             Union and the dominant economic force in Central Europe. The country
-            has recorded over 30 consecutive years of GDP growth&mdash;the only
+            has recorded over 30 consecutive years of GDP growth, the only
             EU member to avoid recession during the 2008 financial crisis.
           </li>
           <li>
@@ -60,7 +60,7 @@ export default function ETAPolandArticle() {
           </li>
           <li>
             <strong>Attractive multiples:</strong> Polish SMEs typically trade at
-            3&ndash;5x EBITDA, well below multiples in Germany (5&ndash;7x),
+            3-5x EBITDA, well below multiples in Germany (5-7x),
             France, or the Nordics. This discount reflects the earlier stage of
             the Polish acquisition market and limited institutional buyer
             competition at the SME level.
@@ -144,8 +144,8 @@ export default function ETAPolandArticle() {
           (HoldCo) that acquires 100% of the target&rsquo;s shares.
           Representations, warranties, and indemnification provisions in the
           share purchase agreement (SPA) address liability concerns. Escrow
-          arrangements of 10&ndash;20% of the purchase price held for
-          12&ndash;24 months are standard practice.
+          arrangements of 10-20% of the purchase price held for
+          12-24 months are standard practice.
         </p>
 
         <h2 className={h2Class}>Financing options</h2>
@@ -184,14 +184,14 @@ export default function ETAPolandArticle() {
 
         <h3 className={h3Class}>Commercial banks</h3>
         <p>
-          Poland&rsquo;s major commercial banks&mdash;PKO Bank Polski, mBank,
-          Bank Pekao, Santander Bank Polska, and ING Bank &Sacute;l&aogon;ski&mdash;all
+          Poland&rsquo;s major commercial banks, PKO Bank Polski, mBank,
+          Bank Pekao, Santander Bank Polska, and ING Bank &Sacute;l&aogon;ski, all
           maintain corporate banking divisions experienced in acquisition
           financing. PKO BP, as Poland&rsquo;s largest bank, is particularly
           active in SME lending and has dedicated programs for business
           succession. Acquisition loans are typically structured with
-          3&ndash;5 year terms, require 20&ndash;30% equity contribution, and
-          are priced at WIBOR (or its successor WIRON) plus 2&ndash;5% margin.
+          3-5 year terms, require 20-30% equity contribution, and
+          are priced at WIBOR (or its successor WIRON) plus 2-5% margin.
           Interest rates in Poland have been volatile in recent years, so
           searchers should model financing costs conservatively.
         </p>
@@ -201,7 +201,7 @@ export default function ETAPolandArticle() {
           Seller financing is increasingly common in Polish SME transactions,
           particularly when the seller is motivated by ensuring a smooth
           transition and the long-term success of the business. Typical
-          structures involve 15&ndash;30% of the transaction value provided as
+          structures involve 15-30% of the transaction value provided as
           a subordinated loan with deferred repayment over two to five years.
           Earn-out arrangements tied to post-acquisition performance metrics
           are also used to bridge valuation gaps. For more on this approach,
@@ -218,13 +218,13 @@ export default function ETAPolandArticle() {
           programs for investment, innovation, digitalization, and
           internationalization. While these funds cannot typically be used to
           finance the acquisition itself, they can significantly reduce
-          post-acquisition capital expenditure needs&mdash;for example, by
+          post-acquisition capital expenditure needs, for example, by
           funding factory modernization, IT infrastructure upgrades, or new
           product development. Searchers should factor EU fund eligibility into
           their post-acquisition value creation plans.
         </p>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <p>
           Poland&rsquo;s tax system has undergone significant reform in recent
           years and offers several features that are relevant for acquisition
@@ -273,8 +273,8 @@ export default function ETAPolandArticle() {
           Poland&rsquo;s IP Box regime offers a preferential 5% tax rate on
           income derived from qualifying intellectual property rights, including
           patents, registered designs, and copyrighted software. For businesses
-          with significant IP&mdash;particularly in the technology, software,
-          and engineering sectors&mdash;the IP Box can substantially reduce the
+          with significant IP, particularly in the technology, software,
+          and engineering sectors, the IP Box can substantially reduce the
           effective tax rate. This makes Polish technology and software
           companies particularly attractive acquisition targets, as the IP Box
           benefit flows through to the post-acquisition operating company.
@@ -284,7 +284,7 @@ export default function ETAPolandArticle() {
         <p>
           Since 2021, Poland has offered an Estonian-style CIT option (ryczalt
           od dochod&oacute;w sp&oacute;&lstrok;ek), under which companies pay
-          no corporate income tax on retained profits&mdash;tax is only
+          no corporate income tax on retained profits, tax is only
           triggered upon distribution. For acquisition targets that generate
           strong cash flows and reinvest profits into growth, this regime can
           significantly improve after-tax returns and accelerate capital
@@ -307,7 +307,7 @@ export default function ETAPolandArticle() {
           manufacturing businesses were founded in the 1990s, are now run by
           aging founders, and hold specialized capabilities, long-standing OEM
           relationships, and EU certifications that create barriers to entry.
-          Valuations in manufacturing typically range from 3&ndash;4.5x EBITDA,
+          Valuations in manufacturing typically range from 3-4.5x EBITDA,
           offering strong value for acquirers.
         </p>
 
@@ -320,7 +320,7 @@ export default function ETAPolandArticle() {
           practices. Polish IT firms typically serve Western European and US
           clients at competitive price points while maintaining high quality.
           Recurring revenue models, high margins, and strong growth trajectories
-          make this sector attractive, though valuations (5&ndash;8x EBITDA)
+          make this sector attractive, though valuations (5-8x EBITDA)
           reflect the premium.
         </p>
 
@@ -389,7 +389,7 @@ export default function ETAPolandArticle() {
           </li>
           <li>
             <strong>Workforce emigration:</strong> Since EU accession in 2004,
-            an estimated 2&ndash;3 million Poles have emigrated to Western
+            an estimated 2-3 million Poles have emigrated to Western
             Europe, particularly the UK, Germany, and the Netherlands. While
             return migration has increased, labor shortages persist in certain
             sectors (manufacturing, construction, logistics), driving wage
@@ -447,8 +447,8 @@ export default function ETAPolandArticle() {
           The Polish Private Equity and Venture Capital Association (PSIK)
           organizes events and networking opportunities that can help searchers
           connect with investors, advisors, and intermediaries. Additionally,
-          Poland&rsquo;s growing startup ecosystem&mdash;centered in Warsaw,
-          Krak&oacute;w, and Wroc&lstrok;aw&mdash;has fostered an entrepreneurial
+          Poland&rsquo;s growing startup ecosystem, centered in Warsaw,
+          Krak&oacute;w, and Wroc&lstrok;aw, has built an entrepreneurial
           culture that is increasingly receptive to the ETA model.
         </p>
         <p>
@@ -470,6 +470,34 @@ export default function ETAPolandArticle() {
             best countries to buy a business
           </Link>.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Why are Polish SME valuations lower than Western European markets?</h3>
+
+        <p>
+          Polish SMEs typically trade at 3-5x EBITDA compared to 5-7x in Germany or the Nordics. This discount reflects several factors: limited institutional buyer competition at the SME level (Poland&rsquo;s private equity industry is smaller and focused on larger transactions), a less mature M&amp;A advisory ecosystem that results in less competitive auction processes, and the perceived country risk premium associated with Central Europe. According to European Commission SBA data, fewer than 10% of Polish SMEs have formal succession plans, creating a seller&rsquo;s urgency that favors buyers. As the Polish ETA market matures and more institutional buyers enter the SME segment, multiples are expected to converge toward Western European levels, creating a window of opportunity for early-mover searchers who can acquire quality businesses at attractive entry prices.
+        </p>
+
+        <h3 className={h3Class}>How does Poland&rsquo;s 9% reduced corporate tax rate work for small businesses?</h3>
+
+        <p>
+          Poland offers a reduced corporate income tax (CIT) rate of just 9% for small taxpayers (annual revenue below EUR 2 million) and newly established companies. This rate, compared to the standard 19%, makes Poland one of the most tax-competitive jurisdictions in the EU for small businesses. Newly formed acquisition holding companies can benefit from the 9% rate in their early years if they meet the revenue threshold. Additionally, Poland&rsquo;s Estonian-style CIT option (ryczalt od dochod&oacute;w sp&oacute;lek), introduced in 2021, allows companies to defer corporate income tax entirely on retained profits, tax is triggered only upon distribution. For acquisition targets that reinvest profits into growth, this regime can significantly accelerate capital compounding and improve after-tax returns over a multi-year hold period.
+        </p>
+
+        <h3 className={h3Class}>What is the BGK guarantee program and how does it help search fund financing?</h3>
+
+        <p>
+          Bank Gospodarstwa Krajowego (BGK), Poland&rsquo;s state-owned development bank, provides de minimis guarantees covering up to 80% of the loan principal for SME acquisition financing. These guarantees significantly reduce lending risk for commercial banks, enabling first-time acquirers without extensive personal collateral to secure acquisition loans from major Polish banks including PKO Bank Polski, mBank, and Bank Pekao. BGK also administers EU structural fund programs providing subsidized loans for business development and succession. When combined with the Polish Development Fund (PFR), which offers equity co-investments and mezzanine financing, and seller financing of 15-30%, the Polish financing ecosystem enables search fund acquirers to structure deals with equity contributions as low as 20-30% of the total transaction value.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>European Commission, <em>SBA Fact Sheet: Poland</em> (2024), thorough data on Polish SME demographics, succession dynamics, and business environment</li>
+          <li>Bank Gospodarstwa Krajowego (BGK), <em>SME Guarantee and Financing Programs</em> (2024), details on de minimis guarantees and EU-funded lending programs</li>
+          <li>Polish Agency for Enterprise Development (PARP), <em>Report on the Condition of SMEs in Poland</em> (2024), industry data and succession planning statistics</li>
+        </ul>
       </div>
     </article>
   );

@@ -10,7 +10,7 @@ export default function AcquiringAutoRepairBusinessArticle() {
       <div className={bodyClass}>
         <p>
           The US auto repair and maintenance industry generates over $75 billion
-          in annual revenue across more than 160,000 establishments &mdash; and it
+          in annual revenue across more than 160,000 establishments, and it
           remains one of the most fragmented sectors in the American economy. Independent
           shops vastly outnumber dealership service departments, and the typical owner
           is a skilled technician who built the business from a single bay decades ago.
@@ -33,9 +33,9 @@ export default function AcquiringAutoRepairBusinessArticle() {
             <strong>Essential, non-discretionary service:</strong> Cars break down
             regardless of the economy. A failed transmission, worn brake pads, or a
             check-engine light cannot be ignored. Unlike home renovation or elective
-            upgrades, auto repair is a must-do purchase &mdash; consumers defer it
+            upgrades, auto repair is a must-do purchase, consumers defer it
             temporarily at best. This makes the industry remarkably
-            recession-resistant. During the 2008&ndash;2009 recession, the auto repair
+            recession-resistant. During the 2008-2009 recession, the auto repair
             sector actually grew as consumers chose to maintain aging vehicles rather
             than buy new ones.
           </li>
@@ -44,11 +44,11 @@ export default function AcquiringAutoRepairBusinessArticle() {
             roughly 13,500 miles per year. Oil changes, tire rotations, brake
             replacements, fluid flushes, and state inspections create a predictable
             cadence of repeat visits. A well-managed shop with a loyal customer base
-            can expect 60&ndash;70% of annual revenue from returning customers.
+            can expect 60-70% of annual revenue from returning customers.
           </li>
           <li>
             <strong>Aging vehicle fleet:</strong> The average age of a vehicle on US
-            roads has risen to over 12 years &mdash; a record high. Older vehicles
+            roads has risen to over 12 years, a record high. Older vehicles
             require more frequent and more expensive repairs, expanding the total
             addressable market for independent shops. This trend shows no signs of
             reversing as new-car prices continue to climb.
@@ -56,9 +56,9 @@ export default function AcquiringAutoRepairBusinessArticle() {
           <li>
             <strong>Fragmentation and consolidation opportunity:</strong> The vast
             majority of auto repair shops are single-location, owner-operated
-            businesses generating $500K&ndash;$3M in revenue. No single operator holds
+            businesses generating $500K-$3M in revenue. No single operator holds
             meaningful national market share outside of franchise chains. This
-            fragmentation creates an ideal landscape for{" "}
+            fragmentation creates an ideal market for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>{" "}
             that aggregate local shops into multi-location platforms.
           </li>
@@ -82,7 +82,7 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <p>
           Full-service shops handling everything from oil changes to engine
           diagnostics and major repairs. These are the most common acquisition
-          targets and typically operate 4&ndash;12 bays with 3&ndash;10 technicians.
+          targets and typically operate 4-12 bays with 3-10 technicians.
           Revenue ranges from $800K to $3M+ depending on location, reputation, and
           bay count. General repair offers the broadest customer base and the most
           diversified revenue mix, reducing dependence on any single service line.
@@ -96,7 +96,7 @@ export default function AcquiringAutoRepairBusinessArticle() {
           Collision repair, in particular, has its own economics driven by insurance
           direct-repair programs (DRPs) and requires separate expertise in estimating,
           paint and body work, and insurer relationships. Transmission and drivetrain
-          specialists benefit from high-ticket jobs ($2,000&ndash;$5,000+) but face
+          specialists benefit from high-ticket jobs ($2,000-$5,000+) but face
           volume risk as modern transmissions become more reliable.
         </p>
 
@@ -104,8 +104,8 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <p>
           Tire retailers that also offer alignment, brakes, suspension, and basic
           maintenance represent an attractive hybrid model. Tire sales provide a
-          steady traffic driver &mdash; every vehicle needs new tires every
-          40,000&ndash;60,000 miles &mdash; and the service work attached to each
+          steady traffic driver, every vehicle needs new tires every
+          40,000-60,000 miles, and the service work attached to each
           tire visit (alignment, brake inspection, fluid top-offs) generates
           high-margin ancillary revenue. Tire shops also benefit from manufacturer
           rebate and co-op advertising programs that reduce customer acquisition
@@ -116,8 +116,8 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <p>
           Quick-lube operations focus on speed and volume: oil changes, filter
           replacements, fluid flushes, and basic inspections completed in
-          15&ndash;30 minutes without an appointment. The model trades lower
-          average ticket ($50&ndash;$100) for higher car count and operating
+          15-30 minutes without an appointment. The model trades lower
+          average ticket ($50-$100) for higher car count and operating
           simplicity. Quick lubes require less-skilled labor than general repair,
           making staffing easier, but face intense competition from dealership
           service departments and national chains like Jiffy Lube and Valvoline.
@@ -136,8 +136,8 @@ export default function AcquiringAutoRepairBusinessArticle() {
 
         <h3 className={h3Class}>Technician certifications and skill depth</h3>
         <p>
-          The single most important asset in an auto repair business &mdash; after
-          the customer base &mdash; is the technician team. Evaluate each
+          The single most important asset in an auto repair business, after
+          the customer base, is the technician team. Evaluate each
           technician&rsquo;s ASE (Automotive Service Excellence) certifications,
           manufacturer-specific training, and years of experience. ASE offers over
           40 individual certifications across categories including engine repair,
@@ -155,15 +155,15 @@ export default function AcquiringAutoRepairBusinessArticle() {
           Key equipment includes vehicle lifts (two-post, four-post, and
           alignment racks), diagnostic scan tools, tire changers and balancers,
           brake lathes, AC recovery machines, and alignment systems. A single
-          alignment rack costs $30K&ndash;$60K installed; a full set of OEM-level
+          alignment rack costs $30K-$60K installed; a full set of OEM-level
           diagnostic tools can exceed $20K. Assess the age, condition, and remaining
           useful life of all major equipment. Deferred equipment maintenance is
           common in owner-operator shops and represents hidden capital needs
           post-acquisition.
         </p>
         <p>
-          Shop layout matters as well. Efficient bay flow &mdash; vehicles entering,
-          moving through service, and exiting without bottlenecks &mdash; directly
+          Shop layout matters as well. Efficient bay flow, vehicles entering,
+          moving through service, and exiting without bottlenecks, directly
           impacts technician productivity. Shops with awkward layouts, narrow bays,
           or insufficient parts storage will limit throughput regardless of
           technician talent.
@@ -173,8 +173,8 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <p>
           Auto repair shops handle a range of regulated materials: used motor oil,
           transmission fluid, antifreeze, brake cleaner solvents, refrigerants, and
-          batteries. Improper disposal &mdash; or decades of minor spills soaking
-          into concrete floors and soil &mdash; can create environmental remediation
+          batteries. Improper disposal, or decades of minor spills soaking
+          into concrete floors and soil, can create environmental remediation
           obligations that cost tens or hundreds of thousands of dollars. Order a
           Phase I Environmental Site Assessment for any acquisition where you are
           purchasing the real estate or signing a long-term lease. Pay special
@@ -195,11 +195,11 @@ export default function AcquiringAutoRepairBusinessArticle() {
             but require ongoing marketing investment to attract and retain.
           </li>
           <li>
-            <strong>Fleet accounts:</strong> Commercial fleets &mdash; delivery
+            <strong>Fleet accounts:</strong> Commercial fleets, delivery
             companies, construction firms, municipal vehicles, rental car agencies
-            &mdash; provide steady, predictable volume. Fleet work is often
+            provide steady, predictable volume. Fleet work is often
             lower-margin per job but higher-volume and more consistent than retail.
-            A healthy fleet mix of 20&ndash;40% of revenue provides an excellent
+            A healthy fleet mix of 20-40% of revenue provides an excellent
             revenue floor.
           </li>
           <li>
@@ -226,14 +226,14 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <ol className={olClass}>
           <li>
             <strong>Average repair order (ARO):</strong> The average dollar value per
-            customer visit. General repair shops typically see AROs of $250&ndash;$450.
+            customer visit. General repair shops typically see AROs of $250-$450.
             An ARO below $200 may indicate the shop is under-selling, missing
             upsell opportunities, or relying too heavily on low-ticket oil changes.
           </li>
           <li>
             <strong>Car count:</strong> The number of vehicles serviced per week.
             Multiply car count by ARO to get weekly revenue. Tracking car count
-            trends over 24&ndash;36 months reveals whether the business is growing,
+            trends over 24-36 months reveals whether the business is growing,
             stable, or declining.
           </li>
           <li>
@@ -258,19 +258,19 @@ export default function AcquiringAutoRepairBusinessArticle() {
 
         <h2 className={h2Class}>Valuation benchmarks</h2>
         <p>
-          Auto repair businesses typically trade at 2.5&ndash;5x adjusted EBITDA,
+          Auto repair businesses typically trade at 2.5-5x adjusted EBITDA,
           depending on size, revenue quality, customer concentration, and asset
           condition. Shops with strong fleet accounts, modern equipment, and
           diversified revenue command the upper end of the range. Single-technician
           owner-operator shops with no management layer and heavy owner dependence
-          trade at the lower end &mdash; often 2.0&ndash;3.0x seller&rsquo;s
+          trade at the lower end, often 2.0-3.0x seller&rsquo;s
           discretionary earnings (SDE).
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Asset-heavy deals:</strong> If the acquisition includes owned
             real estate, the property is typically valued separately (often via
-            cap-rate analysis at 7&ndash;9%) and either included in the purchase
+            cap-rate analysis at 7-9%) and either included in the purchase
             price or held in a separate entity with a lease-back arrangement. Be
             careful not to double-count real estate value in the EBITDA multiple.
           </li>
@@ -278,12 +278,12 @@ export default function AcquiringAutoRepairBusinessArticle() {
             <strong>Franchise vs. independent:</strong> Franchise locations (Meineke,
             Midas, AAMCO, Maaco) may carry a modest premium for brand recognition
             and franchisor support but also impose ongoing royalty fees (typically
-            5&ndash;8% of revenue) that reduce free cash flow.
+            5-8% of revenue) that reduce free cash flow.
           </li>
           <li>
             <strong>Comparable transactions:</strong> Review BizBuySell, DealStream,
             and franchise resale databases for recent comparable sales. SBA 7(a)
-            loan data &mdash; available through FOIA requests &mdash; also provides
+            loan data, available through FOIA requests, also provides
             transaction multiples for SBA-financed auto repair acquisitions.
           </li>
         </ul>
@@ -316,9 +316,9 @@ export default function AcquiringAutoRepairBusinessArticle() {
             lowest price.
           </li>
           <li>
-            Target a fleet revenue mix of 25&ndash;35% within 18&ndash;24 months
+            Target a fleet revenue mix of 25-35% within 18-24 months
             of acquisition. Each new fleet account with 10+ vehicles can add
-            $30K&ndash;$100K+ in annual revenue.
+            $30K-$100K+ in annual revenue.
           </li>
         </ul>
 
@@ -327,14 +327,14 @@ export default function AcquiringAutoRepairBusinessArticle() {
           Implementing DVI technology is one of the fastest wins in auto repair.
           With DVI, technicians use a tablet to photograph and annotate findings
           during each inspection, then send the results to the customer via text
-          or email &mdash; complete with photos and color-coded severity ratings
+          or email, complete with photos and color-coded severity ratings
           (red for immediate, yellow for soon, green for good). The benefits are
           substantial:
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Increased ARO:</strong> Shops that implement DVI consistently
-            report 15&ndash;30% increases in average repair order because customers
+            report 15-30% increases in average repair order because customers
             can see the problem with their own eyes. Trust replaces skepticism, and
             approval rates climb.
           </li>
@@ -371,22 +371,22 @@ export default function AcquiringAutoRepairBusinessArticle() {
           <li>
             <strong>Review generation:</strong> Implement a systematic
             post-service review request via text message. Shops that ask every
-            customer for a review typically generate 20&ndash;40 new Google reviews
+            customer for a review typically generate 20-40 new Google reviews
             per month, compounding their local search advantage over time.
           </li>
           <li>
             <strong>Targeted direct mail:</strong> Despite the digital shift,
             direct mail (especially new-mover campaigns and radius marketing
             around the shop location) remains effective for auto repair.
-            Response rates of 1&ndash;3% are common, and the lifetime value of
-            a new auto repair customer ($1,500&ndash;$3,000+ over 3&ndash;5 years)
+            Response rates of 1-3% are common, and the lifetime value of
+            a new auto repair customer ($1,500-$3,000+ over 3-5 years)
             makes the unit economics compelling.
           </li>
           <li>
             <strong>Retention marketing:</strong> Automated service reminders based
             on mileage intervals and time since last visit keep customers returning.
             A simple &ldquo;your vehicle is due for service&rdquo; text or email
-            at the right moment can generate a 10&ndash;15% appointment booking
+            at the right moment can generate a 10-15% appointment booking
             rate.
           </li>
         </ul>
@@ -411,10 +411,10 @@ export default function AcquiringAutoRepairBusinessArticle() {
           owner sets rates based on personal comfort rather than market analysis.
           Benchmark your posted door rate against competitors within a 5-mile
           radius. In most markets, there is room to increase the labor rate by
-          $10&ndash;$20 per hour without any measurable impact on car count.
+          $10-$20 per hour without any measurable impact on car count.
           A shop billing 200 labor hours per week that increases its effective
           rate by $15/hour generates an additional $156,000 in annual revenue
-          &mdash; nearly all of which flows to the bottom line. Our{" "}
+          nearly all of which flows to the bottom line. Our{" "}
           <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">pricing optimization guide</Link>{" "}
           covers the methodology for implementing price increases without
           customer attrition.
@@ -426,17 +426,17 @@ export default function AcquiringAutoRepairBusinessArticle() {
           expansion through tuck-in acquisitions becomes the primary growth
           lever. The economics of auto repair roll-ups mirror the broader{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
-          playbook: acquire smaller shops at 2.5&ndash;3.5x EBITDA, integrate
+          playbook: acquire smaller shops at 2.5-3.5x EBITDA, integrate
           them onto a shared management layer, centralize back-office functions
           (accounting, marketing, parts purchasing, HR), and achieve margin
           expansion through scale.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Centralized parts purchasing:</strong> A 3&ndash;5 location
+            <strong>Centralized parts purchasing:</strong> A 3-5 location
             platform can negotiate significantly better pricing with parts
             suppliers. Moving from individual-shop purchasing to consolidated
-            accounts typically saves 5&ndash;10% on parts cost, which drops
+            accounts typically saves 5-10% on parts cost, which drops
             directly to gross margin.
           </li>
           <li>
@@ -452,9 +452,9 @@ export default function AcquiringAutoRepairBusinessArticle() {
           </li>
           <li>
             <strong>Exit multiple expansion:</strong> A single-location shop
-            with $300K in EBITDA sells for 2.5&ndash;3.5x. A 5-location platform
+            with $300K in EBITDA sells for 2.5-3.5x. A 5-location platform
             generating $1.5M+ in EBITDA attracts private equity interest at
-            5&ndash;7x, creating significant value through multiple arbitrage
+            5-7x, creating significant value through multiple arbitrage
             alone.
           </li>
         </ul>
@@ -469,13 +469,13 @@ export default function AcquiringAutoRepairBusinessArticle() {
           service, HVAC systems, and high-voltage electrical diagnostics. The shops
           that invest in EV training and equipment now will capture a growing
           segment of the market as the EV fleet share rises from roughly 3% today
-          toward a projected 25&ndash;40% by 2035.
+          toward a projected 25-40% by 2035.
         </p>
         <p>
-          ADAS &mdash; lane-departure warning, adaptive cruise control, automatic
-          emergency braking, parking sensors &mdash; adds complexity (and revenue
+          ADAS, lane-departure warning, adaptive cruise control, automatic
+          emergency braking, parking sensors, adds complexity (and revenue
           opportunity) to routine repairs. A simple windshield replacement now
-          often requires ADAS camera recalibration, a $200&ndash;$400 add-on.
+          often requires ADAS camera recalibration, a $200-$400 add-on.
           Shops equipped with ADAS calibration tools and trained technicians will
           command pricing power that less-prepared competitors cannot match.
         </p>
@@ -484,13 +484,13 @@ export default function AcquiringAutoRepairBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Technician departure:</strong> If the selling owner is also
-            the lead technician, plan for a 6&ndash;12 month transition period
+            the lead technician, plan for a 6-12 month transition period
             with an earnout or consulting agreement that keeps them in the shop.
             Cross-train junior technicians aggressively during this window.
           </li>
           <li>
             <strong>Lease risk:</strong> Many shops operate on leased premises.
-            Secure a lease assignment or new long-term lease (7&ndash;10 years
+            Secure a lease assignment or new long-term lease (7-10 years
             with renewal options) before closing. A landlord who refuses favorable
             lease terms can undermine the entire investment thesis.
           </li>
@@ -519,19 +519,76 @@ export default function AcquiringAutoRepairBusinessArticle() {
 
         <h2 className={h2Class}>The bottom line</h2>
         <p>
-          Auto repair is a blue-collar, unglamorous industry &mdash; and that is
+          Auto repair is a blue-collar, unglamorous industry, and that is
           precisely what makes it attractive for ETA. The essential nature of the
           service, the recession-resistant demand profile, the massive fragmentation,
           and the aging owner demographic create a structural buying opportunity
           that will persist for years. Valuations remain reasonable at
-          2.5&ndash;5x EBITDA because most financial buyers overlook the sector,
+          2.5-5x EBITDA because most financial buyers overlook the sector,
           leaving search fund entrepreneurs with less competition at the deal table.
           A disciplined operator who invests in DVI technology, builds a fleet book
           of business, optimizes pricing, and expands to multiple locations can
           transform a single neighborhood repair shop into a scalable platform that
-          commands a premium exit multiple &mdash; all while generating strong free
+          commands a premium exit multiple, all while generating strong free
           cash flow throughout the hold period.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do auto repair businesses trade at?</h3>
+        <p>
+          Auto repair businesses typically trade between 2.5x and 5x adjusted EBITDA,
+          depending on size, customer mix, equipment condition, and management depth.
+          Single-technician owner-operator shops with no management layer often sell
+          at 2.0-3.0x seller&rsquo;s discretionary earnings, while shops with
+          diversified revenue, strong fleet accounts, modern equipment, and a functional
+          management team command 4-5x EBITDA. Franchise locations may carry a
+          modest premium for brand recognition but also face ongoing royalty fees of
+          5-8% of revenue. For broader valuation context, see our{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples by industry</Link>{" "}
+          guide.
+        </p>
+
+        <h3 className={h3Class}>How do I evaluate the technician team during due diligence?</h3>
+        <p>
+          The technician team is the most critical asset after the customer base. Review
+          each technician&rsquo;s ASE (Automotive Service Excellence) certifications,
+          manufacturer-specific training records, and years of hands-on experience. A
+          shop with multiple ASE Master Technicians signals deep technical capability
+          and the ability to handle complex, high-margin work. Conversely, reliance on
+          a single highly skilled technician creates acute{" "}
+          <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link>.
+          Also assess average tenure, compensation benchmarks against the local market,
+          and whether the shop has documented training programs or apprenticeship
+          pipelines, factors that directly impact post-acquisition retention.
+        </p>
+
+        <h3 className={h3Class}>How will electric vehicles affect auto repair businesses?</h3>
+        <p>
+          The EV transition will reshape demand but not eliminate it. EVs reduce demand
+          for oil changes, transmission repairs, and exhaust work, but increase demand
+          for tire replacement (heavier vehicles wear tires faster), suspension and
+          brake service, HVAC systems, and high-voltage electrical diagnostics. The
+          Bureau of Labor Statistics projects EVs will reach 25-40% of the fleet
+          by 2035, meaning internal combustion engines will dominate for decades.
+          Shops that invest in EV training and equipment now, particularly ADAS
+          camera recalibration tools, will capture a growing segment while
+          competitors lag behind. The key is ensuring the business is not over-reliant
+          on service lines like oil changes that will decline as EV penetration grows.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>IBISWorld</strong>, &ldquo;Auto Mechanics Industry in the US, Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Auto Care Association</strong>: &ldquo;Auto Care Factbook &amp; Industry Overview,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong>: &ldquo;Occupational Outlook Handbook: Automotive Service Technicians and Mechanics,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

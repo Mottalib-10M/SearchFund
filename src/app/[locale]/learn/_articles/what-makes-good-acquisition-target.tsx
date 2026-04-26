@@ -16,7 +16,11 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
           criteria over 40 years and 681+ search funds that define an
           &ldquo;ideal&rdquo; acquisition. This guide covers the essential
           characteristics, common disqualifiers, and how to build a
-          systematic screening process.
+          systematic screening process. Once you know what to look for, our{" "}
+          <Link href="/learn/sme-acquisition-guide" className="text-apple-accent hover:underline">
+            SME acquisition guide
+          </Link>{" "}
+          walks you through the full buying process.
         </p>
 
         <h2 className={h2Class}>The core criteria: what investors want</h2>
@@ -33,7 +37,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li>Contractual recurring revenue (SaaS, insurance, maintenance contracts) is gold</li>
           <li>Repeat purchase behavior (customers buy every month/quarter) is nearly as good</li>
-          <li>Revenue visibility allows confident forecasting and supports leverage</li>
+          <li>Revenue visibility allows confident forecasting and supports use</li>
           <li>See our{" "}
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               recurring revenue models guide
@@ -43,7 +47,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>2. Fragmented industry with no dominant player</h3>
         <ul className={ulClass}>
-          <li>Markets with hundreds of small competitors and no player above 10&ndash;15% market share</li>
+          <li>Markets with hundreds of small competitors and no player above 10-15% market share</li>
           <li>Enables{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
               buy-and-build
@@ -70,9 +74,9 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>4. Moderate and growing EBITDA</h3>
         <ul className={ulClass}>
-          <li><strong>Target range:</strong> $1.5M&ndash;$5M EBITDA for traditional search funds, $750K&ndash;$2M for self-funded</li>
-          <li><strong>Margins:</strong> 15&ndash;25% EBITDA margin is typical for service businesses; 10&ndash;20% for manufacturing</li>
-          <li><strong>Growth:</strong> 5&ndash;15% annual revenue growth is ideal &mdash; stable enough to finance, growing enough to create value</li>
+          <li><strong>Target range:</strong> $1.5M-$5M EBITDA for traditional search funds, $750K-$2M for self-funded</li>
+          <li><strong>Margins:</strong> 15-25% EBITDA margin is typical for service businesses; 10-20% for manufacturing</li>
+          <li><strong>Growth:</strong> 5-15% annual revenue growth is ideal, stable enough to finance, growing enough to create value</li>
           <li>Calculate{" "}
             <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">
               adjusted EBITDA
@@ -82,7 +86,7 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>5. Management team beyond the owner</h3>
         <ul className={ulClass}>
-          <li>At least 1&ndash;2 capable managers who run day-to-day operations</li>
+          <li>At least 1-2 capable managers who run day-to-day operations</li>
           <li>The business should not collapse if the owner steps away</li>
           <li>Avoid businesses where the owner is the top salesperson, the only customer relationship, or the sole decision-maker</li>
           <li>See our{" "}
@@ -103,12 +107,12 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>7. Reasonable valuation</h3>
         <ul className={ulClass}>
-          <li>3&ndash;6x EBITDA for most SMEs (varies by{" "}
+          <li>3-6x EBITDA for most SMEs (varies by{" "}
             <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
               industry
             </Link>)</li>
-          <li>Higher multiples (6&ndash;10x) justified for high-growth, high-recurring-revenue businesses</li>
-          <li>The deal must support leverage &mdash; after debt service, there should be meaningful free cash flow</li>
+          <li>Higher multiples (6-10x) justified for high-growth, high-recurring-revenue businesses</li>
+          <li>The deal must support use, after debt service, there should be meaningful free cash flow</li>
           <li>See our{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">
               business valuation
@@ -130,11 +134,16 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
 
         <h3 className={h3Class}>Yellow flags (negotiate, don&rsquo;t walk)</h3>
         <ul className={ulClass}>
-          <li><strong>Moderate customer concentration (15&ndash;25%):</strong> Price discount needed, but mitigatable</li>
+          <li><strong>Moderate customer concentration (15-25%):</strong> Price discount needed, but mitigatable</li>
           <li><strong>Deferred maintenance or capex:</strong> Price adjustment for catch-up investment required</li>
-          <li><strong>Flat revenue:</strong> Not growing but not declining &mdash; value creation comes from operational improvements</li>
+          <li><strong>Flat revenue:</strong> Not growing but not declining, value creation comes from operational improvements</li>
           <li><strong>Key employee risk:</strong> Manageable with retention agreements and equity incentives</li>
           <li><strong>Below-average margins:</strong> May indicate pricing opportunity or operational inefficiency (upside potential)</li>
+          <li><strong>Owner near retirement:</strong> The{" "}
+            <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+              baby boomer succession wave
+            </Link>{" "}
+            creates motivated sellers, but ensure adequate transition planning</li>
         </ul>
 
         <h2 className={h2Class}>Top industries for search fund targets</h2>
@@ -170,12 +179,16 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
         <ul className={ulClass}>
           <li><strong>Tier 1 filter (30 seconds):</strong> Revenue, EBITDA, industry, geography. Pass/fail against your criteria</li>
           <li><strong>Tier 2 filter (15 minutes):</strong> CIM review, customer concentration, owner role, growth trends, asking price vs. EBITDA multiple</li>
-          <li><strong>Tier 3 evaluation (2&ndash;5 hours):</strong> Deep financial analysis, management assessment, competitive dynamics, deal modeling</li>
-          <li><strong>Tier 4 engagement (1&ndash;2 weeks):</strong> Seller meetings, site visits, LOI development</li>
+          <li><strong>Tier 3 evaluation (2-5 hours):</strong> Deep financial analysis, management assessment, competitive dynamics, deal modeling</li>
+          <li><strong>Tier 4 engagement (1-2 weeks):</strong> Seller meetings, site visits, LOI development</li>
         </ul>
         <p>
-          Expect to screen 100&ndash;200 opportunities, evaluate 20&ndash;40
-          deeply, and submit 3&ndash;8 LOIs before closing one deal. See{" "}
+          Expect to screen 100-200 opportunities, evaluate 20-40
+          deeply, and submit 3-8 LOIs before closing one deal. Understanding{" "}
+          <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
+            how much capital you need
+          </Link>{" "}
+          helps you set realistic size parameters early. See{" "}
           <Link href="/learn/how-long-buy-business" className="text-apple-accent hover:underline">
             how long does it take to buy a business
           </Link>{" "}
@@ -191,6 +204,23 @@ export default function WhatMakesGoodAcquisitionTargetArticle() {
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             deal sourcing strategies
           </Link>.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What EBITDA range should a first-time buyer target?</h3>
+        <p>
+          For a traditional search fund, the ideal range is $1.5M-$5M EBITDA, which supports institutional investor return expectations and professional debt financing. Self-funded searchers typically target $750K-$2M EBITDA, where SBA loans and seller financing can cover most of the capital structure. Businesses below $500K EBITDA are harder to finance and often too owner-dependent, while those above $5M attract professional private equity competition.
+        </p>
+
+        <h3 className={h3Class}>How important is recurring revenue in an acquisition target?</h3>
+        <p>
+          Recurring revenue is the single most valued characteristic among search fund investors. Contractual recurring revenue (SaaS subscriptions, maintenance contracts, insurance renewals) provides predictable cash flow that supports use and reduces risk. However, &ldquo;repeat purchase&rdquo; behavior where customers buy regularly without formal contracts can be nearly as valuable. Businesses with 70%+ recurring revenue command premium multiples (5-8x EBITDA vs. 3-5x for project-based revenue).
+        </p>
+
+        <h3 className={h3Class}>What level of customer concentration is acceptable?</h3>
+        <p>
+          The ideal target has no single customer above 10% of revenue and the top 10 customers below 40% of total revenue. A single customer at 15-25% is a yellow flag that warrants a price discount and retention analysis, but is not a deal-killer. Any single customer above 40% of revenue is a hard disqualifier for most search fund investors, as losing that customer could collapse the entire business. Lenders also scrutinize customer concentration heavily when underwriting acquisition debt.
         </p>
       </div>
     </article>

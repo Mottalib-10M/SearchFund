@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 
-// GET /api/saved-listings — get user's saved listings
+// GET /api/saved-listings - get user's saved listings
 export async function GET() {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -34,7 +34,7 @@ export async function GET() {
   return NextResponse.json({ saved });
 }
 
-// POST /api/saved-listings — save a listing
+// POST /api/saved-listings - save a listing
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -69,7 +69,7 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// DELETE /api/saved-listings — unsave a listing
+// DELETE /api/saved-listings - unsave a listing
 export async function DELETE(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

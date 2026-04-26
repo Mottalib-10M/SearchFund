@@ -15,7 +15,7 @@ export default function SearchFundCommunitiesArticle() {
 
       <div className="prose prose-lg dark:prose-invert max-w-none">
         <p className={bodyClass}>
-          The search fund and entrepreneurship through acquisition (ETA) journey can be isolating. You're analyzing businesses in niche industries, negotiating complex deals, and making career-defining decisions—often without the built-in peer network that traditional corporate roles or venture-backed startups provide. This is precisely why the ETA community has become such a vital resource for searchers worldwide.
+          The search fund and entrepreneurship through acquisition (ETA) journey can be isolating. You&apos;re analyzing businesses in niche industries, negotiating complex deals, and making career-defining decisions  - often without the built-in peer network that traditional corporate roles or venture-backed startups provide. The 2024 Stanford Search Fund Study documented over 600 search funds launched in the United States alone, creating a growing cohort of searchers who share similar challenges and can benefit enormously from peer connection. This is precisely why the ETA community has become such a vital resource for searchers worldwide.
         </p>
 
         <p className={bodyClass}>
@@ -23,17 +23,17 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          This guide maps the landscape of search fund communities—from the largest online forums to regional in-person groups, from MBA-affiliated networks to industry-specific channels. Whether you're just beginning to explore ETA or you're a seasoned searcher looking to deepen your connections, understanding where and how to engage with the community will dramatically accelerate your journey.
+          This guide maps the field of search fund communities - from the largest online forums to regional in-person groups, from MBA-affiliated networks to industry-specific channels. Whether you're just beginning to explore ETA or you're a seasoned searcher looking to deepen your connections, understanding where and how to engage with the community will dramatically accelerate your journey.
         </p>
 
         <h2 className={h2Class}>Why Community Matters in ETA</h2>
 
         <p className={bodyClass}>
-          The search fund model creates unique challenges that make community particularly valuable. First, searchers typically operate as solo entrepreneurs or small teams, without the organizational infrastructure that would provide mentorship, peer review, or institutional knowledge. Second, the search process involves highly specialized skills—from industry research to quality of earnings analysis to CEO transition planning—that are rarely taught in traditional academic or corporate settings.
+          The search fund model creates unique challenges that make community particularly valuable. First, searchers typically operate as solo entrepreneurs or small teams, without the organizational infrastructure that would provide mentorship, peer review, or institutional knowledge. Second, the search process involves highly specialized skills - from industry research to quality of earnings analysis to CEO transition planning - that are rarely taught in traditional academic or corporate settings.
         </p>
 
         <p className={bodyClass}>
-          Third, the timeline is long and uncertain. The median search takes 18-24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. Having peers who understand these challenges—and who can share that they faced the same struggles before succeeding—provides critical emotional support and perspective.
+          Third, the timeline is long and uncertain. The median search takes 18-24 months, during which searchers face dozens of setbacks, near-misses, and moments of self-doubt. For a detailed look at what this timeline involves, see our guide to the <Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">search fund lifecycle</Link>. Having peers who understand these challenges  - and who can share that they faced the same struggles before succeeding  - provides critical emotional support and perspective.
         </p>
 
         <p className={bodyClass}>
@@ -41,13 +41,13 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          The benefits of community engagement include access to deal flow through referrals, introductions to investors and advisors, feedback on LOIs and deal structures, emotional support during difficult periods, and accelerated learning through others' experiences. Some of the most successful searchers attribute their outcomes directly to connections made through the community—whether a broker referral, an investor introduction, or advice that helped them avoid a bad deal.
+          The benefits of community engagement include access to deal flow through referrals, introductions to investors and advisors, feedback on LOIs and deal structures, emotional support during difficult periods, and accelerated learning through others' experiences. Some of the most successful searchers attribute their outcomes directly to connections made through the community - whether a broker referral, an investor introduction, or advice that helped them avoid a bad deal.
         </p>
 
         <h2 className={h2Class}>SearchFunder (the Largest Online Community)</h2>
 
         <p className={bodyClass}>
-          SearchFunder.com is the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, advisors, and alumni who have completed acquisitions. Founded in 2009, SearchFunder started as a simple forum and has evolved into a comprehensive platform for the ETA ecosystem.
+          SearchFunder.com is the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, advisors, and alumni who have completed acquisitions. Founded in 2009, SearchFunder started as a simple forum and has evolved into a thorough platform for the ETA ecosystem.
         </p>
 
         <p className={bodyClass}>
@@ -55,7 +55,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          One of SearchFunder's most valuable features is its extensive archive of discussions. Nearly every question a new searcher might ask has been addressed multiple times, often with detailed responses from experienced practitioners. Before posting a new question, members are encouraged to search the archives—the collective wisdom accumulated over 15+ years is extraordinary.
+          One of SearchFunder's most valuable features is its extensive archive of discussions. Nearly every question a new searcher might ask has been addressed multiple times, often with detailed responses from experienced practitioners. Before posting a new question, members are encouraged to search the archives - the collective wisdom accumulated over 15+ years is extraordinary.
         </p>
 
         <p className={bodyClass}>
@@ -71,7 +71,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          SearchFunder's culture emphasizes transparency and generosity. Members regularly share financial models, LOI templates, investor pitch decks, and other proprietary materials. This openness creates a powerful learning environment but also requires reciprocity—members who only take without contributing eventually find the community less responsive to their needs.
+          SearchFunder's culture emphasizes transparency and generosity. Members regularly share financial models, LOI templates, investor pitch decks, and other proprietary materials. This openness creates a powerful learning environment but also requires reciprocity - members who only take without contributing eventually find the community less responsive to their needs.
         </p>
 
         <h2 className={h2Class}>ETA-Specific Slack and Discord Groups</h2>
@@ -93,13 +93,13 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          These platforms work best for members who can participate actively. Because conversations happen in real-time and aren't always archived accessibly, the most valuable insights often come from being present during active discussions rather than reading backlogs. Setting aside time each week to engage with these communities—even just 30 minutes to scan channels and reply to a few threads—yields better results than sporadic check-ins.
+          These platforms work best for members who can participate actively. Because conversations happen in real-time and aren't always archived accessibly, the most valuable insights often come from being present during active discussions rather than reading backlogs. Setting aside time each week to engage with these communities - even just 30 minutes to scan channels and reply to a few threads - yields better results than sporadic check-ins.
         </p>
 
         <h2 className={h2Class}>MBA ETA Clubs and Alumni Networks</h2>
 
         <p className={bodyClass}>
-          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB's ETA Club, Wharton's Search Fund Club, Harvard Business School's ETA Club, Kellogg's ETA Group, and MIT Sloan's ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors.
+          Many business schools now have formal ETA clubs that serve as hubs for students interested in search funds. Stanford GSB&apos;s ETA Club, Wharton&apos;s Search Fund Club, Harvard Business School&apos;s ETA Club, Kellogg&apos;s ETA Group, and MIT Sloan&apos;s ETA Club organize speaker events, facilitate peer learning groups, and connect students with alumni searchers and investors. For a thorough comparison of programs, see our guide to <Link href="/learn/mba-programs-eta" className="text-apple-accent hover:underline">top MBA programs for ETA</Link>.
         </p>
 
         <p className={bodyClass}>
@@ -107,7 +107,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          For students seriously considering ETA, joining the club early—even in the first year of a two-year MBA program—provides time to build relationships, secure summer internships with searchers or search fund investors, and develop the knowledge base needed to launch a search immediately after graduation. Many successful searchers spent their entire MBA experience embedded in the ETA community, treating the degree primarily as preparation for a search rather than a general management education.
+          For students seriously considering ETA, joining the club early - even in the first year of a two-year MBA program - provides time to build relationships, secure summer internships with searchers or search fund investors, and develop the knowledge base needed to launch a search immediately after graduation. Many successful searchers spent their entire MBA experience embedded in the ETA community, treating the degree primarily as preparation for a search rather than a general management education.
         </p>
 
         <p className={bodyClass}>
@@ -129,7 +129,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Chicago ETA meets quarterly for breakfast gatherings and occasional happy hours. The group maintains a shared database of local service providers—lawyers, accountants, lenders, consultants—who understand the search fund model and offer reasonable pricing for searchers' limited budgets. Members also coordinate on industry research, often dividing up sectors to build collective knowledge more efficiently than each searcher working independently.
+          Chicago ETA meets quarterly for breakfast gatherings and occasional happy hours. The group maintains a shared database of local service providers - lawyers, accountants, lenders, consultants - who understand the search fund model and offer reasonable pricing for searchers' limited budgets. Members also coordinate on industry research, often dividing up sectors to build collective knowledge more efficiently than each searcher working independently.
         </p>
 
         <p className={bodyClass}>
@@ -141,7 +141,7 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Starting a regional group where none exists can be as simple as posting on SearchFunder or relevant Slack channels to gauge interest, then organizing an initial coffee meetup. Many thriving regional communities began with just 3-5 committed members who met consistently and gradually attracted others. The key is regular cadence—monthly or quarterly gatherings work better than sporadic events—and creating genuine value through speaker content, peer learning, or social connection.
+          Starting a regional group where none exists can be as simple as posting on SearchFunder or relevant Slack channels to gauge interest, then organizing an initial coffee meetup. Many thriving regional communities began with just 3-5 committed members who met consistently and gradually attracted others. The key is regular cadence - monthly or quarterly gatherings work better than sporadic events - and creating genuine value through speaker content, peer learning, or social connection.
         </p>
 
         <h2 className={h2Class}>Investor Networks</h2>
@@ -155,21 +155,21 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Family offices and individual investors sometimes organize local searcher networks as well. An investor who has backed 8-10 searchers might introduce them all, creating a informal advisory group where members can seek input on challenges they're facing. These investor-facilitated networks provide psychological safety—everyone has been vetted by the same investor and shares accountability to that relationship—that can make members more willing to be vulnerable about struggles or mistakes.
+          Family offices and individual investors sometimes organize local searcher networks as well. An investor who has backed 8-10 searchers might introduce them all, creating a informal advisory group where members can seek input on challenges they're facing. These investor-facilitated networks provide psychological safety - everyone has been vetted by the same investor and shares accountability to that relationship - that can make members more willing to be vulnerable about struggles or mistakes.
         </p>
 
         <p className={bodyClass}>
-          For searchers, engaging with investor communities often starts by asking your own investors about their networks. "Do you have other searchers in your portfolio I could connect with?" nearly always receives a positive response. Investors want their searchers to succeed and recognize that peer learning improves outcomes. Taking initiative to build these connections demonstrates resourcefulness that investors appreciate.
+          For searchers, engaging with investor communities often starts by asking your own investors about their networks. &quot;Do you have other searchers in your portfolio I could connect with?&quot; nearly always receives a positive response. Investors want their searchers to succeed and recognize that peer learning improves outcomes. Taking initiative to build these connections demonstrates resourcefulness that investors appreciate. For strategies on building investor relationships from the beginning, see our guide to <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding search fund investors</Link>.
         </p>
 
         <h2 className={h2Class}>LinkedIn Groups and Following Key People</h2>
 
         <p className={bodyClass}>
-          LinkedIn serves as a complementary platform to the more active communities, useful primarily for discovering new connections and following thought leaders in the space. The "Search Funds & ETA" LinkedIn group has over 8,000 members and hosts weekly discussions on topics ranging from industry selection to post-acquisition value creation. The conversation quality varies—some threads generate substantive insights while others remain superficial—but the group helps searchers discover peers they might not encounter elsewhere.
+          LinkedIn serves as a complementary platform to the more active communities, useful primarily for discovering new connections and following thought leaders in the space. The "Search Funds & ETA" LinkedIn group has over 8,000 members and hosts weekly discussions on topics ranging from industry selection to post-acquisition value creation. The conversation quality varies - some threads generate substantive insights while others remain superficial - but the group helps searchers discover peers they might not encounter elsewhere.
         </p>
 
         <p className={bodyClass}>
-          Following active searchers, investors, and ETA thought leaders on LinkedIn provides a steady stream of insights and updates. Many successful searchers share regular content about their journeys: deal sourcing metrics, lessons from failed LOIs, operational wins, hiring challenges, and reflections on the CEO role. This content serves both as practical learning material and as a reminder that others are navigating the same path.
+          Following active searchers, investors, and ETA thought leaders on LinkedIn provides a steady stream of insights and updates. Many successful searchers share regular content about their journeys: deal sourcing metrics, lessons from failed LOIs, operational wins, hiring challenges, and reflections on the CEO role. This content serves both as practical learning material and as a reminder that others are managing the same path.
         </p>
 
         <p className={bodyClass}>
@@ -177,21 +177,21 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          LinkedIn also facilitates direct outreach to searchers and investors. Unlike cold emails which often go unanswered, LinkedIn messages—especially when personalized with specific references to the recipient's content or experience—tend to receive responses. Asking thoughtful questions, sharing relevant insights, or offering to be helpful creates the foundation for relationships that may evolve into mentorship, collaboration, or investor connections.
+          LinkedIn also facilitates direct outreach to searchers and investors. Unlike cold emails which often go unanswered, LinkedIn messages - especially when personalized with specific references to the recipient's content or experience - tend to receive responses. Asking thoughtful questions, sharing relevant insights, or offering to be helpful creates the foundation for relationships that may evolve into mentorship, collaboration, or investor connections.
         </p>
 
         <p className={bodyClass}>
-          For searchers willing to build their own presence, regularly posting about your search journey on LinkedIn generates inbound opportunities: brokers may reach out with deal flow, potential investors may express interest, and fellow searchers may propose collaborations. The key is consistency and authenticity—sharing genuine challenges and learnings rather than polished success stories—which builds trust and engagement over time.
+          For searchers willing to build their own presence, regularly posting about your search journey on LinkedIn generates inbound opportunities: brokers may reach out with deal flow, potential investors may express interest, and fellow searchers may propose collaborations. The key is consistency and authenticity - sharing genuine challenges and learnings rather than polished success stories - which builds trust and engagement over time.
         </p>
 
         <h2 className={h2Class}>European ETA Communities</h2>
 
         <p className={bodyClass}>
-          The European search fund ecosystem has developed its own communities tailored to the region's distinctive characteristics: greater regulatory complexity across multiple jurisdictions, different cultural norms around acquisitions and owner-manager transitions, and varying levels of institutional knowledge about the search fund model.
+          The European search fund ecosystem has developed its own communities tailored to the region&apos;s distinctive characteristics: greater regulatory complexity across multiple jurisdictions, different cultural norms around acquisitions and owner-manager transitions, and varying levels of institutional knowledge about the search fund model. According to the IESE International Search Fund Study, the number of search funds in Europe has grown at a 25% compound annual rate since 2015, creating critical mass for vibrant regional communities. For country-specific guidance, see our overview of <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
         </p>
 
         <p className={bodyClass}>
-          ETA Europe serves as the primary pan-European community, with active chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland. The organization hosts an annual conference that brings together 200+ searchers, investors, and service providers from across the continent. These conferences feature country-specific breakout sessions, language-based networking groups, and practical workshops on navigating cross-border regulations and tax structures.
+          ETA Europe serves as the primary pan-European community, with active chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland. The organization hosts an annual conference that brings together 200+ searchers, investors, and service providers from across the continent. These conferences feature country-specific breakout sessions, language-based networking groups, and practical workshops on managing cross-border regulations and tax structures.
         </p>
 
         <p className={bodyClass}>
@@ -203,11 +203,11 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          The Nordic Search Fund Network spans Sweden, Norway, Denmark, and Finland, coordinating quarterly gatherings that rotate among capital cities. The Nordic market's characteristics—smaller population, high trust culture, strong SME sector, and favorable tax treatment in some jurisdictions—create distinctive opportunities and challenges that the community addresses collectively.
+          The Nordic Search Fund Network spans Sweden, Norway, Denmark, and Finland, coordinating quarterly gatherings that rotate among capital cities. The Nordic market's characteristics - smaller population, high trust culture, strong SME sector, and favorable tax treatment in some jurisdictions - create distinctive opportunities and challenges that the community addresses collectively.
         </p>
 
         <p className={bodyClass}>
-          Southern European communities in Spain, Italy, and Portugal are earlier in development but growing quickly. These markets offer compelling economics—lower purchase multiples, underserved SME sectors, limited private equity competition—but require navigation of less-familiar regulatory environments and cultural dynamics. Searchers in these regions particularly value community connections given the nascency of local search fund awareness.
+          Southern European communities in Spain, Italy, and Portugal are earlier in development but growing quickly. These markets offer compelling economics - lower purchase multiples, underserved SME sectors, limited private equity competition - but require navigation of less-familiar regulatory environments and cultural dynamics. Searchers in these regions particularly value community connections given the nascency of local search fund awareness.
         </p>
 
         <p className={bodyClass}>
@@ -217,7 +217,7 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>Latin American ETA Communities</h2>
 
         <p className={bodyClass}>
-          Latin America represents one of the fastest-growing regions for search fund activity, with communities emerging across Mexico, Colombia, Chile, Argentina, Peru, and Brazil. These communities navigate challenges distinct from both North American and European markets: currency volatility, political uncertainty, varying regulatory frameworks, and limited awareness of the search fund model among local businesses.
+          Latin America represents one of the fastest-growing regions for search fund activity, with communities emerging across Mexico, Colombia, Chile, Argentina, Peru, and Brazil. These communities manage challenges distinct from both North American and European markets: currency volatility, political uncertainty, varying regulatory frameworks, and limited awareness of the search fund model among local businesses.
         </p>
 
         <p className={bodyClass}>
@@ -225,11 +225,11 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Mexico's search fund community has achieved critical mass, with an active WhatsApp group of 80+ searchers and regular in-person gatherings in Mexico City, Guadalajara, and Monterrey. The community benefits from proximity to the US market—many searchers have US business school backgrounds or US-based investors—while developing expertise in Mexico-specific opportunities and challenges.
+          Mexico's search fund community has achieved critical mass, with an active WhatsApp group of 80+ searchers and regular in-person gatherings in Mexico City, Guadalajara, and Monterrey. The community benefits from proximity to the US market - many searchers have US business school backgrounds or US-based investors - while developing expertise in Mexico-specific opportunities and challenges.
         </p>
 
         <p className={bodyClass}>
-          Colombia's ETA community, centered in Bogotá and Medellín, has grown rapidly thanks to support from local business schools like INALDE and Universidad de los Andes. The community organized the first Spanish-language search fund course and has developed resources specifically for navigating Colombian corporate law, tax regulations, and seller financing structures.
+          Colombia's ETA community, centered in Bogotá and Medellín, has grown rapidly thanks to support from local business schools like INALDE and Universidad de los Andes. The community organized the first Spanish-language search fund course and has developed resources specifically for managing Colombian corporate law, tax regulations, and seller financing structures.
         </p>
 
         <p className={bodyClass}>
@@ -243,11 +243,11 @@ export default function SearchFundCommunitiesArticle() {
         <h2 className={h2Class}>Building Your Personal Network</h2>
 
         <p className={bodyClass}>
-          While formal communities provide structure and access, building your personal network within the ETA ecosystem amplifies the value of community participation. Personal relationships—with specific searchers, investors, advisors, and alumni—often prove more impactful than broad community engagement because they enable deeper trust, more candid conversations, and mutual investment in each other's success.
+          While formal communities provide structure and access, building your personal network within the ETA ecosystem amplifies the value of community participation. Personal relationships - with specific searchers, investors, advisors, and alumni - often prove more impactful than broad community engagement because they enable deeper trust, more candid conversations, and mutual investment in each other's success.
         </p>
 
         <p className={bodyClass}>
-          Start by identifying 5-10 people in the ETA community whose experiences align with your interests or goals. Perhaps they searched in your target industry, raised from investors you're approaching, navigated a similar career transition, or operate in your geography. Reach out with specific, personalized messages explaining why you'd value learning from them and proposing a concrete next step—usually a 20-30 minute phone call.
+          Start by identifying 5-10 people in the ETA community whose experiences align with your interests or goals. Perhaps they searched in your target industry, raised from investors you're approaching, navigated a similar career transition, or operate in your geography. Reach out with specific, personalized messages explaining why you'd value learning from them and proposing a concrete next step - usually a 20-30 minute phone call.
         </p>
 
         <p className={bodyClass}>
@@ -255,11 +255,11 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          Maintain relationships through regular touchpoints. Share relevant articles or opportunities with your network. Update them on your progress at meaningful milestones. Offer help when you can provide value, even in small ways—making an introduction, sharing an insight from your industry research, or providing feedback on something they're working on. Relationships strengthen through mutual exchange rather than one-way asking.
+          Maintain relationships through regular touchpoints. Share relevant articles or opportunities with your network. Update them on your progress at meaningful milestones. Offer help when you can provide value, even in small ways - making an introduction, sharing an insight from your industry research, or providing feedback on something they're working on. Relationships strengthen through mutual exchange rather than one-way asking.
         </p>
 
         <p className={bodyClass}>
-          Consider forming or joining a peer learning group—a small cohort of 4-6 searchers at similar stages who meet regularly (weekly or bi-weekly) to discuss challenges, share resources, and hold each other accountable. These groups work best when members commit to consistent participation, establish clear discussion topics or frameworks, and maintain confidentiality to enable vulnerable sharing.
+          Consider forming or joining a peer learning group - a small cohort of 4-6 searchers at similar stages who meet regularly (weekly or bi-weekly) to discuss challenges, share resources, and hold each other accountable. These groups work best when members commit to consistent participation, establish clear discussion topics or frameworks, and maintain confidentiality to enable vulnerable sharing.
         </p>
 
         <p className={bodyClass}>
@@ -267,11 +267,31 @@ export default function SearchFundCommunitiesArticle() {
         </p>
 
         <p className={bodyClass}>
-          As your search progresses and you develop expertise, transition from primarily learning to actively contributing. Answer questions on SearchFunder. Share your experiences in Slack channels. Mentor newer searchers. Speak at regional gatherings or MBA club events. This generosity serves the community while also reinforcing your own learning—teaching forces clarity—and expanding your network of relationships built on mutual contribution rather than transactional asking.
+          As your search progresses and you develop expertise, transition from primarily learning to actively contributing. Answer questions on SearchFunder. Share your experiences in Slack channels. Mentor newer searchers. Speak at regional gatherings or MBA club events. This generosity serves the community while also reinforcing your own learning - teaching forces clarity - and expanding your network of relationships built on mutual contribution rather than transactional asking.
         </p>
 
         <p className={bodyClass}>
           Finally, recognize that network building is a long-term investment that extends well beyond your search. The relationships you develop as a searcher will serve you throughout your tenure as CEO, during your eventual exit, and in whatever comes next. Many of the most successful operators in the ETA space attribute their achievements partly to the strength of relationships they've nurtured over years or decades within the community.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best online community for search fund and ETA professionals?</h3>
+
+        <p className={bodyClass}>
+          SearchFunder.com is widely regarded as the central hub of the global search fund community, with over 15,000 members including active searchers, investors, brokers, and alumni. Founded in 2009, SearchFunder provides discussion forums covering every stage of the search fund journey, a deal marketplace for off-market opportunities, and a searchable archive of 15+ years of community wisdom. For real-time conversations, the &ldquo;ETA Searchers&rdquo; Slack workspace (~2,000 members) offers channels organized by topic, geography, and industry. Searchers who engage actively in these communities report faster learning curves, better deal flow, and stronger investor relationships than those who search in isolation.
+        </p>
+
+        <h3 className={h3Class}>How do MBA ETA clubs help aspiring searchers?</h3>
+
+        <p className={bodyClass}>
+          MBA ETA clubs at schools like Stanford GSB, Wharton, HBS, Kellogg, and MIT Sloan provide structured programming that accelerates the ETA learning curve. These clubs organize weekly speaker series featuring successful searchers, workshops on practical skills (financial modeling, LOI writing, QofE analysis), and panel discussions comparing different search fund models. Students who join early, even in the first year of a two-year program, gain time to build relationships, secure summer internships with searchers or investors, and develop the knowledge base needed to launch a search immediately after graduation. The alumni networks from these programs extend well beyond graduation, creating lifelong connections.
+        </p>
+
+        <h3 className={h3Class}>Are there search fund communities for international searchers outside the US?</h3>
+
+        <p className={bodyClass}>
+          Yes, vibrant communities have emerged across Europe, Latin America, and Asia-Pacific. ETA Europe serves as the pan-European hub with chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland, hosting an annual conference with 200+ participants. According to the IESE International Search Fund Study, European search fund activity has grown at a 25% compound annual rate since 2015. In Latin America, ETA Latin America coordinates annual conferences and country-specific communities exist in Mexico (80+ searcher WhatsApp group), Colombia, Brazil, and Chile. Asia-Pacific communities are emerging in Japan, India, Singapore, and Australia, though they remain earlier-stage than their Western counterparts.
         </p>
 
         <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
@@ -319,17 +339,17 @@ export default function SearchFundCommunitiesArticle() {
             </li>
             <li>
               <a
-                href="https://www.kellogg.northwestern.edu/news-events/conference/search-fund-conference.aspx"
+                href="https://www.etaconference.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
               >
-                Kellogg School of Management - Search Fund Research
+                Booth-Kellogg ETA Conference
               </a>
             </li>
             <li>
               <a
-                href="https://www.iese.edu/research/search-funds/"
+                href="https://www.iese.edu/entrepreneurship/search-funds/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-apple-accent hover:underline"
@@ -340,6 +360,16 @@ export default function SearchFundCommunitiesArticle() {
           </ul>
         </div>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">Search Fund Conferences &amp; Events: The Complete Calendar</Link></li>
+          <li><Link href="/learn/search-fund-podcasts" className="text-apple-accent hover:underline">Top Search Fund Podcasts to Listen To</Link></li>
+          <li><Link href="/learn/best-books-buying-business" className="text-apple-accent hover:underline">The Best Books on Buying a Business</Link></li>
+          <li><Link href="/learn/search-fund-newsletters" className="text-apple-accent hover:underline">Search Fund Newsletters, Blogs &amp; Media to Follow</Link></li>
+          <li><Link href="/learn/search-fund-accelerators" className="text-apple-accent hover:underline">Search Fund Accelerators &amp; Incubators: A Complete List</Link></li>
+          <li><Link href="/learn/eta-reading-list" className="text-apple-accent hover:underline">Essential ETA Reading List</Link></li>
+        </ul>
     </article>
   );
 }

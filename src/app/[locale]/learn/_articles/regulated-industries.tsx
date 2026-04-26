@@ -6,7 +6,7 @@ export default function RegulatedIndustriesArticle() {
     <article>
       <h1 className={h1Class}>Acquiring Businesses in Regulated Industries</h1>
       <div className={bodyClass}>
-        <p>Regulated industries &mdash; healthcare, financial services, environmental services, energy, telecommunications, and others &mdash; present unique acquisition challenges and opportunities. Regulatory barriers create high moats and reduce competition, but they also introduce compliance costs, licensing requirements, and transfer restrictions that can complicate deals. For search fund entrepreneurs willing to navigate regulatory complexity, these industries offer premium returns and defensible market positions.</p>
+        <p>Regulated industries, healthcare, financial services, environmental services, energy, telecommunications, and others, present unique acquisition challenges and opportunities. Regulatory barriers create high moats and reduce competition, but they also introduce compliance costs, licensing requirements, and transfer restrictions that can complicate deals. For search fund entrepreneurs willing to manage regulatory complexity, these industries offer premium returns and defensible market positions.</p>
       </div>
 
       <h2 className={h2Class}>Common Regulated Sectors for ETA</h2>
@@ -48,7 +48,7 @@ export default function RegulatedIndustriesArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Stock vs. asset purchase:</strong> Stock purchases preserve entity-based licenses but inherit liabilities. Asset purchases may require new license applications.</li>
-          <li><strong>Regulatory approval timeline:</strong> Some transfers require agency approval that can take 3&ndash;12 months. Build this into the deal timeline.</li>
+          <li><strong>Regulatory approval timeline:</strong> Some transfers require agency approval that can take 3-12 months. Build this into the deal timeline.</li>
           <li><strong>Change of control notifications:</strong> Many regulated entities must notify regulators of ownership changes. Some require pre-approval.</li>
           <li><strong>Transition services:</strong> Licensed professionals (previous owner or employees) may need to remain during license transfer periods.</li>
           <li><strong>Representations &amp; warranties:</strong> Seller reps on compliance history, pending investigations, and regulatory status are especially important.</li>
@@ -59,9 +59,9 @@ export default function RegulatedIndustriesArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Regulated industries offer structural moats, pricing power, and consolidation opportunities that justify premium valuations</li>
-          <li>License transferability is the single most important legal question &mdash; stock deals generally preserve licenses while asset deals may require reapplication</li>
+          <li>License transferability is the single most important legal question, stock deals generally preserve licenses while asset deals may require reapplication</li>
           <li>Compliance history and qualified personnel retention are critical due diligence areas unique to regulated acquisitions</li>
-          <li>Regulatory approval timelines can add 3&ndash;12 months to deal closing &mdash; plan accordingly</li>
+          <li>Regulatory approval timelines can add 3-12 months to deal closing, plan accordingly</li>
           <li>The complexity of regulated acquisitions deters many buyers, creating less competitive deal environments for prepared acquirers</li>
         </ul>
       </div>
@@ -71,8 +71,26 @@ export default function RegulatedIndustriesArticle() {
         <li><Link href="/learn/healthcare-acquisition" className="text-apple-accent hover:underline">Healthcare Acquisition Guide</Link></li>
         <li><Link href="/learn/financial-services-acquisition" className="text-apple-accent hover:underline">Financial Services Acquisition</Link></li>
         <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
-        <li><Link href="/learn/reps-warranties-indemnification" className="text-apple-accent hover:underline">Representations & Warranties</Link></li>
+        <li><Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">Representations & Warranties</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>Do I need industry-specific licenses to acquire a regulated business?</h3>
+        <p>
+          Whether you personally need a license depends on the industry, the type of license, and the deal structure. Entity-based licenses (held by the company rather than an individual) generally transfer in stock acquisitions where the legal entity continues to exist. Individual-based licenses (held by specific professionals like doctors, pharmacists, or CPAs) require that the acquiring entity employ or partner with appropriately licensed individuals. According to the American Bar Association&rsquo;s Regulated Industry Acquisitions Guide, approximately 60% of professional licenses in the US are entity-based and transfer with ownership, while 40% are individual-based and require new applications or licensed personnel on staff. Stock deal structures preserve entity-based licenses automatically, while asset purchases typically require reapplication, a process that can take 3-12 months depending on the regulatory body and jurisdiction.
+        </p>
+
+        <h3 className={h3Class}>How much do regulatory barriers increase acquisition valuations?</h3>
+        <p>
+          Businesses in regulated industries typically command valuation premiums of 1-2x EBITDA above comparable non-regulated businesses. According to Deloitte&rsquo;s Regulatory Risk and M&amp;A report, regulated businesses with current licenses, clean compliance histories, and established regulatory relationships sell at 5-8x EBITDA in sectors like healthcare and financial services, compared to 3-5x for similar-sized non-regulated service businesses. The premium reflects the structural moat that regulation creates: licensing barriers deter new competitors, compliance costs create scale advantages for larger operators, and customer switching costs are higher when regulatory requirements are involved. Harvard Business Review research confirms that regulated industries exhibit 30-40% lower competitive entry rates than unregulated sectors, supporting higher and more sustainable margins.
+        </p>
+
+        <h3 className={h3Class}>What is the biggest risk in acquiring a regulated business?</h3>
+        <p>
+          Regulatory change risk, the possibility that new legislation, rule changes, or enforcement trends could fundamentally alter the business model, is the most significant long-term risk in regulated industry acquisitions. According to the American Bar Association, the healthcare sector has experienced the most regulatory disruption over the past decade, with changes to Medicare reimbursement rates, telehealth regulations, and scope-of-practice laws affecting practice valuations by 15-30%. The second most common risk is compliance failure: inheriting undisclosed violations, inadequate compliance programs, or pending regulatory investigations that were not surfaced during due diligence. Mitigation requires specialized regulatory due diligence (review of all inspection reports, enforcement actions, and correspondence with regulators for at least 5 years), strong <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">representations and warranties</Link> covering regulatory compliance, and engagement of industry-specialist legal counsel who understand the regulatory environment.
+        </p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>

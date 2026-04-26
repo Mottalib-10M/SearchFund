@@ -13,7 +13,7 @@ export default function SearchFundCaseStudiesArticle() {
       </div>
 
       <p className={bodyClass}>
-        The best way to learn about search funds is to study real deals—both successes and failures. While most search fund transactions remain confidential, the patterns that emerge from documented cases provide invaluable insights for aspiring searchers, investors, and anyone interested in entrepreneurship through acquisition.
+        The best way to learn about search funds is to study real deals - both successes and failures. While most search fund transactions remain confidential, the patterns that emerge from documented cases provide invaluable insights for aspiring searchers, investors, and anyone interested in entrepreneurship through acquisition.
       </p>
 
       <p className={bodyClass}>
@@ -30,8 +30,8 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Pattern recognition:</strong> Identifying what good deals look like before you see hundreds yourself</li>
         <li><strong>Risk awareness:</strong> Understanding failure modes that aren't obvious from theory alone</li>
         <li><strong>Realistic expectations:</strong> Calibrating what "good" performance actually means in practice</li>
-        <li><strong>Decision frameworks:</strong> Learning how experienced operators navigate ambiguity</li>
-        <li><strong>Network leverage:</strong> Understanding how successful searchers used advisors, investors, and service providers</li>
+        <li><strong>Decision frameworks:</strong> Learning how experienced operators manage ambiguity</li>
+        <li><strong>Network use:</strong> Understanding how successful searchers used advisors, investors, and service providers</li>
       </ul>
 
       <p className={bodyClass}>
@@ -248,7 +248,7 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>Key Lessons</h3>
 
       <ul className={ulClass}>
-        <li><strong>SBA leverage risk:</strong> High debt load creates stress during operational challenges—less room for error than equity-backed deals</li>
+        <li><strong>SBA use risk:</strong> High debt load creates stress during operational challenges - less room for error than equity-backed deals</li>
         <li><strong>Operations matter more:</strong> Without investor board support, Marcus had to build operational expertise himself or hire it</li>
         <li><strong>Faster decision-making:</strong> No investor approvals meant Marcus could act quickly on hires, small acquisitions, and strategic pivots</li>
         <li><strong>Cash flow discipline:</strong> Debt service forced financial discipline that equity-backed searchers sometimes lack</li>
@@ -344,7 +344,7 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Two-person team:</strong> Shared burden of CEO role valuable during stressful periods; required clear division of responsibilities</li>
       </ul>
 
-      <h2 className={h2Class}>Case Study 4: A Failed Search — Lessons Learned</h2>
+      <h2 className={h2Class}>Case Study 4: A Failed Search - Lessons Learned</h2>
 
       <h3 className={h3Class}>The Searcher</h3>
 
@@ -355,12 +355,12 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>The Search Process</h3>
 
       <p className={bodyClass}>
-        David's search lasted 26 months—longer than planned. Warning signs emerged:
+        David's search lasted 26 months - longer than planned. Warning signs emerged:
       </p>
 
       <ul className={ulClass}>
         <li><strong>Analysis paralysis:</strong> David's finance background led him to over-model deals, struggling to make decisions with imperfect information</li>
-        <li><strong>Unrealistic criteria:</strong> Sought "perfect" businesses with 20%+ EBITDA margins, zero customer concentration, and fragmented industries—very rare combination</li>
+        <li><strong>Unrealistic criteria:</strong> Sought "perfect" businesses with 20%+ EBITDA margins, zero customer concentration, and fragmented industries - very rare combination</li>
         <li><strong>Geography constraints:</strong> Insisted on staying in San Francisco; unwilling to relocate despite better opportunities elsewhere</li>
         <li><strong>Investor patience:</strong> By month 22, several investors were pressuring David to close a deal</li>
       </ul>
@@ -403,14 +403,14 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Month 13-18:</strong> Attempted sale to strategic buyer fell through during diligence. Eventually sold assets to competitor for $2.1M—not enough to repay senior debt. Investors lost 100% of equity. David personally liable for remaining SBA loan balance ($400K after asset sale).
+        <strong>Month 13-18:</strong> Attempted sale to strategic buyer fell through during diligence. Eventually sold assets to competitor for $2.1M - not enough to repay senior debt. Investors lost 100% of equity. David personally liable for remaining SBA loan balance ($400K after asset sale).
       </p>
 
       <h3 className={h3Class}>Post-Mortem: What Went Wrong</h3>
 
       <ul className={ulClass}>
         <li><strong>Confirmation bias:</strong> David talked himself into a marginal deal because he felt pressure to deploy capital</li>
-        <li><strong>Industry selection:</strong> Digital marketing is fast-changing, talent-dependent, and commoditizing—poor fit for search fund model</li>
+        <li><strong>Industry selection:</strong> Digital marketing is fast-changing, talent-dependent, and commoditizing - poor fit for search fund model</li>
         <li><strong>Ignored red flags:</strong> Revenue decline, customer concentration, and employee turnover all visible in diligence</li>
         <li><strong>Insufficient industry expertise:</strong> David had no marketing background; couldn't add value or troubleshoot problems</li>
         <li><strong>Cultural mismatch:</strong> Finance professional struggled to manage creative agency culture</li>
@@ -481,7 +481,7 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Year 2:</strong> Completed first tuck-in acquisition—a competitor in Nashville for $1.8M (3.5x EBITDA on $850K EBITDA). Combined revenue: $16.5M, EBITDA $3.8M. Achieved $200K in cost synergies (eliminated duplicate overhead).
+        <strong>Year 2:</strong> Completed first tuck-in acquisition - a competitor in Nashville for $1.8M (3.5x EBITDA on $850K EBITDA). Combined revenue: $16.5M, EBITDA $3.8M. Achieved $200K in cost synergies (eliminated duplicate overhead).
       </p>
 
       <p className={bodyClass}>
@@ -498,7 +498,7 @@ export default function SearchFundCaseStudiesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Year 4:</strong> Completed largest add-on acquisition—a Chattanooga competitor with $6M revenue and $1.3M EBITDA for $5.5M (4.2x). This acquisition included truck assets, which Jennifer decided to keep rather than convert to pure broker model (strategic shift to hybrid model).
+        <strong>Year 4:</strong> Completed largest add-on acquisition - a Chattanooga competitor with $6M revenue and $1.3M EBITDA for $5.5M (4.2x). This acquisition included truck assets, which Jennifer decided to keep rather than convert to pure broker model (strategic shift to hybrid model).
       </p>
 
       <p className={bodyClass}>
@@ -617,7 +617,7 @@ export default function SearchFundCaseStudiesArticle() {
       <h3 className={h3Class}>5. Support Networks</h3>
 
       <p className={bodyClass}>
-        Successful searchers leveraged advisors and investors:
+        Successful searchers used advisors and investors:
       </p>
 
       <ul className={ulClass}>
@@ -673,7 +673,7 @@ export default function SearchFundCaseStudiesArticle() {
       <ul className={ulClass}>
         <li>Lack of sales skills in businesses where revenue growth is critical</li>
         <li>Inability to manage blue-collar workforce or field operations</li>
-        <li>Analysis paralysis—over-modeling instead of decisive action</li>
+        <li>Analysis paralysis - over-modeling instead of decisive action</li>
         <li>Cultural mismatch between operator personality and business culture</li>
       </ul>
 
@@ -775,16 +775,36 @@ export default function SearchFundCaseStudiesArticle() {
         <li><strong>Quality matters more than timing:</strong> Wait for the right business rather than forcing a mediocre one</li>
         <li><strong>Industry selection is critical:</strong> Choose businesses with favorable structural dynamics</li>
         <li><strong>Operational skill trumps financial skill:</strong> Returns come from growing revenue and improving operations, not financial engineering</li>
-        <li><strong>Support networks accelerate success:</strong> Leverage investors, advisors, and peers ruthlessly</li>
+        <li><strong>Support networks accelerate success:</strong> Use investors, advisors, and peers ruthlessly</li>
         <li><strong>Resilience and adaptability are essential:</strong> Every deal faces unexpected challenges; how you respond determines outcomes</li>
       </ul>
 
       <p className={bodyClass}>
-        As you pursue your own search fund journey, return to these cases. Each time you face a critical decision—whether to submit an LOI, how to structure a deal, how to respond to a crisis—ask yourself: "What would Sarah, Marcus, Anna, Thomas, Jennifer, or David have done? What can I learn from their successes and failures?"
+        As you pursue your own search fund journey, return to these cases. Each time you face a critical decision - whether to submit an LOI, how to structure a deal, how to respond to a crisis - ask yourself: "What would Sarah, Marcus, Anna, Thomas, Jennifer, or David have done? What can I learn from their successes and failures?"
       </p>
 
       <p className={bodyClass}>
         The most valuable education comes not from theory but from studying real deals, extracting patterns, and applying those lessons to your unique circumstances.
+      </p>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What is the typical return profile for a successful search fund acquisition?</h3>
+
+      <p className={bodyClass}>
+        Successful search fund acquisitions typically generate investor returns of 5-10x multiple on invested capital (MOIC) with IRRs of 30-50%+, based on data from the 2024 Stanford Search Fund Study. The median search fund generates approximately 33% IRR and 5.5x MOIC across all outcomes. The searcher-CEO typically earns 20-30% of the acquired company&rsquo;s equity, which in successful cases translates to $5-15M+ in personal wealth creation over a 5-7 year hold period. However, these returns are not guaranteed: approximately 37% of funded searchers never complete an acquisition, and 10-15% of completed acquisitions result in near-total loss of invested capital.
+      </p>
+
+      <h3 className={h3Class}>What industries are most common in successful search fund deals?</h3>
+
+      <p className={bodyClass}>
+        Business services (IT services, staffing, facilities management) account for 30-35% of successful search fund acquisitions, followed by healthcare (10-15%), technology/SaaS (10-15%), and education (5-10%). The most successful deals share common characteristics regardless of industry: essential or non-discretionary services, fragmented markets with consolidation opportunities, high switching costs, recurring revenue models, and businesses that are not facing structural disruption from technology. The Stanford data consistently shows that industries with these characteristics produce the best risk-adjusted returns for search fund investors.
+      </p>
+
+      <h3 className={h3Class}>What is the most common reason search fund deals fail?</h3>
+
+      <p className={bodyClass}>
+        The most common failure pattern is settling for a marginal deal due to time pressure, investor expectations, or personal financial stress, rather than waiting for a truly strong business. Failed acquisitions frequently share warning signs that were visible during due diligence: declining revenue, high customer concentration (top 3 clients representing 50%+ of revenue), fast-changing industries facing structural disruption, and talent-dependent businesses where the founder&rsquo;s personal relationships drive the majority of revenue. The Stanford data shows that boards that act quickly to replace underperforming CEOs often salvage outcomes that would otherwise deteriorate further, with CEO replacement occurring in roughly 25-30% of cases.
       </p>
 
       <h2 className={h2Class}>Sources</h2>
@@ -825,7 +845,7 @@ export default function SearchFundCaseStudiesArticle() {
         </li>
         <li>
           <a
-            href="https://acquiringminds.com"
+            href="https://acquiringminds.co"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
@@ -837,6 +857,15 @@ export default function SearchFundCaseStudiesArticle() {
           European Search Funds Study (IESE Business School), 2023 edition
         </li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+        </ul>
     </article>
   );
 }

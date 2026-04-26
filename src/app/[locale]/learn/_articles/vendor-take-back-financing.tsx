@@ -8,7 +8,7 @@ export default function VendorTakeBackFinancingArticle() {
 
       <div className={bodyClass}>
         <p>
-          Vendor take-back financing &mdash; known as seller financing or seller notes in the US &mdash; is one of the most powerful tools in acquisition financing. When the seller agrees to finance part of the purchase price, it signals confidence in the business, reduces the buyer&apos;s cash requirement, and creates alignment between both parties.
+          Vendor take-back financing, known as seller financing or seller notes in the US, is one of the most powerful tools in acquisition financing. When the seller agrees to finance part of the purchase price, it signals confidence in the business, reduces the buyer&apos;s cash requirement, and creates alignment between both parties.
         </p>
       </div>
 
@@ -21,9 +21,9 @@ export default function VendorTakeBackFinancingArticle() {
       <h2 className={h2Class}>Typical VTB Terms</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Amount:</strong> 10&ndash;30% of purchase price (15&ndash;20% is most common)</li>
-          <li><strong>Interest rate:</strong> 4&ndash;8% (below bank rates but above risk-free)</li>
-          <li><strong>Term:</strong> 3&ndash;7 years</li>
+          <li><strong>Amount:</strong> 10-30% of purchase price (15-20% is most common)</li>
+          <li><strong>Interest rate:</strong> 4-8% (below bank rates but above risk-free)</li>
+          <li><strong>Term:</strong> 3-7 years</li>
           <li><strong>Amortization:</strong> Monthly or quarterly payments; sometimes interest-only with balloon</li>
           <li><strong>Security:</strong> Usually a second lien on business assets (subordinated to senior lender)</li>
           <li><strong>Standby period:</strong> SBA deals often require 24-month full standby (no payments)</li>
@@ -36,8 +36,8 @@ export default function VendorTakeBackFinancingArticle() {
         <ul className={ulClass}>
           <li><strong>Reduced cash at closing:</strong> Less equity needed, improving returns on invested capital</li>
           <li><strong>Seller alignment:</strong> Seller has financial incentive to support a smooth transition</li>
-          <li><strong>Cheaper than equity:</strong> VTB at 6% costs far less than equity at 25&ndash;35% target IRR</li>
-          <li><strong>Flexible terms:</strong> Negotiable directly with seller &mdash; no bank underwriting committee</li>
+          <li><strong>Cheaper than equity:</strong> VTB at 6% costs far less than equity at 25-35% target IRR</li>
+          <li><strong>Flexible terms:</strong> Negotiable directly with seller, no bank underwriting committee</li>
           <li><strong>Signals quality:</strong> Seller willingness to finance signals confidence in the business</li>
         </ul>
       </div>
@@ -46,7 +46,7 @@ export default function VendorTakeBackFinancingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Higher total price:</strong> Buyers often pay more when VTB reduces their risk</li>
-          <li><strong>Interest income:</strong> Earn 5&ndash;7% on the note versus 3&ndash;4% in a savings account</li>
+          <li><strong>Interest income:</strong> Earn 5-7% on the note versus 3-4% in a savings account</li>
           <li><strong>Tax deferral:</strong> Installment sale treatment spreads capital gains recognition over the note term</li>
           <li><strong>Broader buyer pool:</strong> More buyers can afford the business with VTB</li>
           <li><strong>Transition security:</strong> Ongoing payments create natural touchpoints with the buyer</li>
@@ -80,9 +80,9 @@ export default function VendorTakeBackFinancingArticle() {
       <h3 className={h3Class}>For Buyers</h3>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Frame VTB as standard practice &mdash; &quot;most deals in this size range include seller financing&quot;</li>
-          <li>Start your ask high (30&ndash;40% VTB) and negotiate down to 15&ndash;20%</li>
-          <li>Offer a slightly higher purchase price in exchange for more VTB &mdash; sellers often prefer total value</li>
+          <li>Frame VTB as standard practice, &quot;most deals in this size range include seller financing&quot;</li>
+          <li>Start your ask high (30-40% VTB) and negotiate down to 15-20%</li>
+          <li>Offer a slightly higher purchase price in exchange for more VTB, sellers often prefer total value</li>
           <li>Propose interest-only payments with a balloon to preserve early cash flow</li>
           <li>Include reasonable prepayment terms so you can retire the note early if the business performs well</li>
         </ul>
@@ -102,7 +102,7 @@ export default function VendorTakeBackFinancingArticle() {
       <h2 className={h2Class}>International Considerations</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>US:</strong> Seller financing is extremely common (present in 60&ndash;80% of SME deals). Installment sale treatment under IRC &sect;453 provides tax deferral.</li>
+          <li><strong>US:</strong> Seller financing is extremely common (present in 60-80% of SME deals). Installment sale treatment under IRC &sect;453 provides tax deferral.</li>
           <li><strong>Canada:</strong> VTB is the standard term. Tax treatment allows capital gains deferral via the capital gains reserve.</li>
           <li><strong>UK:</strong> &quot;Deferred consideration&quot; is the more common term. Tax treatment depends on whether payments are contingent or fixed.</li>
           <li><strong>France:</strong> Cr&eacute;dit-vendeur is increasingly used. Specific tax rules apply under French law.</li>
@@ -125,12 +125,69 @@ export default function VendorTakeBackFinancingArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>VTB is present in 60&ndash;80% of SME deals &mdash; it&apos;s standard, not unusual</li>
-          <li>15&ndash;20% of purchase price at 5&ndash;7% interest is the typical sweet spot</li>
+          <li>VTB is present in 60-80% of SME deals, it&apos;s standard, not unusual</li>
+          <li>15-20% of purchase price at 5-7% interest is the typical sweet spot</li>
           <li>VTB reduces cash needed, aligns interests, and signals seller confidence</li>
           <li>In SBA deals, VTB on standby can count as buyer equity injection</li>
-          <li>Subordination means seller takes real risk &mdash; negotiate terms accordingly</li>
+          <li>Subordination means seller takes real risk, negotiate terms accordingly</li>
         </ul>
+      </div>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+      <div className={bodyClass}>
+        <h3 className={h3Class}>What percentage of VTB financing is typical in SME acquisitions?</h3>
+        <p>
+          According to the International Business Brokers Association (IBBA)
+          Transaction Survey, seller financing is present in 60-80% of
+          SME deals, with the typical VTB note representing 15-20% of
+          the total purchase price. The amount varies by deal structure: in
+          SBA-financed acquisitions using the{" "}
+          <Link href="/learn/self-funded-search-sba" className="text-apple-accent hover:underline">80/10/10 structure</Link>,
+          the seller note is exactly 10% and must be on full standby for 24
+          months. In non-SBA deals, VTB can range from 10% to 40% depending
+          on the buyer&apos;s equity availability and the seller&apos;s
+          willingness. Higher VTB percentages (25-40%) are common when
+          the business has risk factors that make bank financing difficult,
+          such as{" "}
+          <Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">customer concentration</Link> or
+          short operating history.
+        </p>
+
+        <h3 className={h3Class}>How does VTB financing affect the seller&apos;s tax treatment?</h3>
+        <p>
+          According to the IRS, VTB notes qualify for installment sale
+          treatment under IRC Section 453, which allows the seller to
+          spread capital gains recognition over the note&apos;s repayment
+          period rather than recognizing the entire gain in the year of
+          sale. For example, on a $5M sale with a $1.5M VTB note at 6%
+          over 5 years, the seller recognizes the gain on the VTB portion
+          proportionally as payments are received, potentially keeping the
+          seller in lower tax brackets each year. This tax deferral is one
+          of the most compelling arguments buyers can use to persuade
+          sellers to accept VTB. In Canada, the capital gains reserve
+          provides similar treatment under the Income Tax Act. Our{" "}
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization guide</Link> covers
+          the broader tax planning framework.
+        </p>
+
+        <h3 className={h3Class}>What happens if the buyer defaults on a subordinated VTB note?</h3>
+        <p>
+          According to Practical Law (Thomson Reuters), enforcing a
+          subordinated VTB note is significantly more difficult than
+          enforcing senior debt. The senior lender (bank or SBA) has
+          first claim on all business assets, and the intercreditor
+          agreement typically blocks VTB payments during any senior debt
+          default. If the buyer defaults, the seller can accelerate the
+          full balance after a 30-day cure period, but foreclosure on the
+          second lien yields limited recovery if the senior lender&apos;s
+          claim exceeds the asset value. According to the BDC (Business
+          Development Bank of Canada), sellers recover an average of
+          40-60 cents on the dollar in VTB default scenarios.
+          Prevention is far more effective than enforcement: sellers
+          should negotiate personal guarantees, financial covenants
+          (minimum EBITDA, debt service coverage ratios), and monthly
+          reporting requirements.
+        </p>
       </div>
 
       <h2 className={h2Class}>Related Resources</h2>
@@ -145,7 +202,7 @@ export default function VendorTakeBackFinancingArticle() {
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
         <li>BDC Canada, <em>Vendor Take-Back Financing Guide</em> (2024)</li>
-        <li>SBA, <em>Standard Operating Procedure 50 10 &mdash; Seller Note Requirements</em> (2024)</li>
+        <li>SBA, <em>Standard Operating Procedure 50 10, Seller Note Requirements</em> (2024)</li>
         <li>Practical Law (Thomson Reuters), <em>Deferred Consideration in M&A</em> (2023)</li>
         <li>International Business Brokers Association, <em>Transaction Survey: Seller Financing Trends</em> (2024)</li>
       </ul>

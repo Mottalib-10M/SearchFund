@@ -13,10 +13,10 @@ export default function ETAUSArticle() {
           more than 40 years of evolution, it remains the world&apos;s deepest,
           most mature, and most institutionalized ETA market. What began as an
           experimental concept at Stanford Graduate School of Business in 1984
-          has grown into a well-established asset class with a robust ecosystem
+          has grown into a well-established asset class with a strong ecosystem
           of investors, advisors, lenders, and educational programs. The US
           market offers searchers unmatched access to capital, deal flow, and
-          institutional support &mdash; but also the most competitive landscape
+          institutional support, but also the most competitive environment
           in the world. Understanding the nuances of the American ETA
           ecosystem is essential for anyone considering a search in the US or
           benchmarking their own market against the global standard. If you are new to ETA, start with our <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link>.
@@ -29,18 +29,18 @@ export default function ETAUSArticle() {
           raise a small fund to finance the search for a company to acquire;
           then, once a target is identified, raise acquisition capital from
           the same investor group. The first handful of search funds were
-          essentially experiments &mdash; MBA graduates testing whether
+          essentially experiments, MBA graduates testing whether
           they could identify, acquire, and operate small businesses more
           effectively than existing owners.
         </p>
         <p>
           Over the following decades, the model proved remarkably successful.
           Stanford&apos;s Center for Entrepreneurial Studies has tracked
-          search fund performance since the 1990s, publishing comprehensive
-          studies &mdash; most recently the <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link> &mdash; that have become the definitive reference for the industry.
+          search fund performance since the 1990s, publishing thorough
+          studies, most recently the <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, that have become the definitive reference for the industry.
           The data has consistently shown that search funds produce attractive
-          returns for investors &mdash; historically averaging 30-35% IRR
-          and 4-5x return on invested capital &mdash; while providing
+          returns for investors, historically averaging 30-35% IRR
+          and 4-5x return on invested capital, while providing
           searchers with a path to CEO-level leadership and significant
           personal wealth creation.
         </p>
@@ -65,12 +65,12 @@ export default function ETAUSArticle() {
           <li>
             <strong>Stanford GSB:</strong> The birthplace of the search fund
             model. Offers dedicated ETA courses, maintains the most
-            comprehensive database of search fund outcomes, and produces the
+            thorough database of search fund outcomes, and produces the
             biennial Stanford Search Fund Study. The Stanford network remains
             the largest and most influential in US ETA.
           </li>
           <li>
-            <strong>Harvard Business School:</strong> Has developed a robust
+            <strong>Harvard Business School:</strong> Has developed a strong
             ETA program with case studies, dedicated faculty, and a growing
             alumni network of searchers. HBS searchers benefit from the
             school&apos;s enormous alumni base and brand recognition.
@@ -142,7 +142,7 @@ export default function ETAUSArticle() {
             of post-acquisition equity), full control over search criteria
             and timeline, flexibility to pursue smaller deals that
             traditional investors might reject, ability to use SBA loans
-            for leverage.
+            for use.
           </li>
           <li>
             <strong>Cons:</strong> Personal financial risk during the search
@@ -191,7 +191,7 @@ export default function ETAUSArticle() {
         </ul>
         <p>
           The SBA 7(a) program effectively allows searchers to acquire
-          businesses with as little as 10% equity, creating leverage
+          businesses with as little as 10% equity, creating use
           economics that are virtually impossible to replicate in European
           markets. This has fueled the explosive growth of self-funded
           search in the US.
@@ -344,7 +344,7 @@ export default function ETAUSArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Financing:</strong> SBA loans give US searchers leverage
+            <strong>Financing:</strong> SBA loans give US searchers use
             that is difficult to replicate in Europe. European searchers
             rely more on commercial bank lending, seller financing, and
             government programs (BPI France, ICO Spain, KfW Germany).
@@ -375,10 +375,10 @@ export default function ETAUSArticle() {
         <h2 className={h2Class}>Regulatory considerations</h2>
         <p>
           US acquisitions involve several regulatory considerations that
-          searchers must navigate. Federal securities laws apply to the
+          searchers must manage. Federal securities laws apply to the
           raising of search fund capital (typically structured as a
           Regulation D private placement). State-level regulations vary
-          significantly &mdash; some states require business transfer
+          significantly, some states require business transfer
           notifications, bulk sales compliance, or specific licensing
           approvals. Industry-specific regulations (healthcare, financial
           services, insurance, government contracting) can add complexity
@@ -393,7 +393,7 @@ export default function ETAUSArticle() {
           After four decades, the US ETA market has reached a level of
           maturity that brings both advantages and challenges. The
           advantages are clear: proven model, extensive data, deep investor
-          base, robust support infrastructure, and a large population of
+          base, strong support infrastructure, and a large population of
           successful alumni who mentor new searchers. The challenges of
           maturity include increased competition for attractive deals,
           higher valuations driven by more buyers, greater sophistication
@@ -410,10 +410,38 @@ export default function ETAUSArticle() {
           outreach and industry networking. The US search fund market
           continues to evolve, and the searchers who will thrive in the
           next decade are those who can differentiate themselves in an
-          increasingly competitive landscape while staying true to the
+          increasingly competitive environment while staying true to the
           fundamental principles that have made ETA successful for over
           40 years. When the time comes, having a clear plan for your <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy</Link> is essential to realizing that value.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are the historical returns of US search funds?</h3>
+
+        <p>
+          According to the Stanford 2024 Search Fund Study, US search funds have historically achieved aggregate returns of approximately 33% IRR and 5.5x return on invested capital over the four-decade history of the model. These returns place search funds among the highest-performing alternative asset classes. However, the distribution is highly skewed: the top quartile of search funds generates returns above 10x, while approximately 33% of completed acquisitions result in a partial or total loss of capital. The median return is more modest but still attractive at approximately 2.5-3x. For self-funded searchers who retain more equity, successful exits can generate even higher personal returns, though the personal financial risk during the search phase is also greater.
+        </p>
+
+        <h3 className={h3Class}>How does the SBA 7(a) loan program work for business acquisitions?</h3>
+
+        <p>
+          The SBA 7(a) program guarantees up to 85% of loans under $150,000 and 75% of loans between $150,000 and $5 million, dramatically reducing lender risk and enabling acquisition financing with as little as 10% equity injection from the buyer. Loan terms are 10 years for business acquisitions (25 years if commercial real estate is included), with variable interest rates typically set at Prime + 1.75% to 2.75%. The borrower must provide a personal guarantee, and the target business must meet SBA size standards (generally under $8.5 million in average annual revenue or under 500 employees). The SBA 7(a) program is unique globally, no comparable government-backed acquisition lending program exists in Europe or Asia, and is the primary reason self-funded search has grown explosively in the United States.
+        </p>
+
+        <h3 className={h3Class}>Should I pursue a traditional or self-funded search in the US?</h3>
+
+        <p>
+          The choice depends on your financial resources, risk tolerance, and acquisition target size. Traditional search funds (raising $400K-$600K from 10-20 investors) provide a salary during the search, access to experienced mentors, and established deal networks, but result in significant equity dilution (searchers typically retain 20-30% of equity). Self-funded searches offer greater equity retention (often 50-80%) and full control over criteria and timeline, but require personal financial resources to sustain 12-24 months without income. According to Stanford GSB data, traditional searches tend to target larger deals ($5M-$30M enterprise value) while self-funded searchers focus on smaller acquisitions ($1M-$5M) financed primarily through SBA loans. Both models can generate attractive returns, and the best choice depends on your personal circumstances and risk profile.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study</em> (2024), the definitive dataset on US search fund performance, deal structures, and operator outcomes</li>
+          <li>US Small Business Administration, <em>7(a) Loan Program Guide</em> (2024), official documentation on SBA lending terms, eligibility, and guarantee structure</li>
+          <li>Pacific Lake Partners, <em>Search Fund Best Practices</em> (2024), operational guidance from one of the most active dedicated search fund investment firms</li>
+        </ul>
       </div>
     </article>
   );

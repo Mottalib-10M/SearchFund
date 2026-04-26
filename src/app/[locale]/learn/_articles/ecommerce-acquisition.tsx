@@ -10,10 +10,10 @@ export default function EcommerceAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           E-commerce and direct-to-consumer brands represent one of the most
-          dynamic &mdash; and most volatile &mdash; sectors for search fund
+          dynamic, and most volatile, sectors for search fund
           acquisitions. The appeal is obvious: digital-native businesses with
           global reach, scalable operations, and the potential for rapid
-          growth. But the e-commerce acquisition landscape has been shaped
+          growth. But the e-commerce acquisition market has been shaped
           by hard-won lessons from the aggregator era of 2020-2023, when
           companies like Thrasio, Perch, and dozens of others raised
           billions to acquire Amazon FBA businesses, only to discover that
@@ -34,12 +34,12 @@ export default function EcommerceAcquisitionArticle() {
 
         <h3 className={h3Class}>Amazon FBA businesses</h3>
         <p>
-          Amazon FBA (Fulfillment by Amazon) businesses leverage Amazon&apos;s
+          Amazon FBA (Fulfillment by Amazon) businesses use Amazon&apos;s
           marketplace, logistics, and customer base. The seller ships
           inventory to Amazon&apos;s warehouses, and Amazon handles
           storage, picking, packing, shipping, and customer service. This
-          model offers extraordinary reach &mdash; access to hundreds of
-          millions of active buyers &mdash; but comes with significant
+          model offers extraordinary reach, access to hundreds of
+          millions of active buyers, but comes with significant
           platform dependency risk.
         </p>
         <ul className={ulClass}>
@@ -77,7 +77,7 @@ export default function EcommerceAcquisitionArticle() {
             <strong>Cons:</strong> Must drive traffic independently
             (typically through paid social, SEO, and influencer marketing),
             higher customer acquisition costs, fulfillment complexity, and
-            the need for a more robust technology and marketing team.
+            the need for a more strong technology and marketing team.
           </li>
         </ul>
 
@@ -86,7 +86,7 @@ export default function EcommerceAcquisitionArticle() {
           The strongest e-commerce businesses sell across multiple
           channels: their own D2C website, Amazon, Walmart Marketplace,
           and potentially wholesale and retail distribution. Multi-channel
-          businesses reduce platform dependency risk and can leverage each
+          businesses reduce platform dependency risk and can use each
           channel&apos;s strengths while mitigating its weaknesses.
           During due diligence, assess the revenue split across channels,
           profitability by channel (Amazon is often the lowest-margin
@@ -122,7 +122,7 @@ export default function EcommerceAcquisitionArticle() {
             it takes for a new customer to become profitable after
             accounting for CAC, COGS, shipping, and returns. If payback
             exceeds the first purchase, the business is dependent on repeat
-            purchases to justify its acquisition spending &mdash; making
+            purchases to justify its acquisition spending, making
             customer retention rates critical.
           </li>
           <li>
@@ -184,7 +184,7 @@ export default function EcommerceAcquisitionArticle() {
         <p>
           Not all e-commerce brands are truly &ldquo;brands.&rdquo; Many
           Amazon FBA businesses are commodity products with a private
-          label slapped on &mdash; they have listings, not brands.
+          label slapped on, they have listings, not brands.
           Distinguishing between a genuine brand with customer loyalty
           and a commodity product with good Amazon rankings is critical
           for valuation.
@@ -341,9 +341,9 @@ export default function EcommerceAcquisitionArticle() {
           Launching adjacent products to the existing customer base is
           one of the most capital-efficient growth strategies. A brand
           selling premium yoga mats might expand into yoga blocks,
-          straps, and bags. Product line extensions leverage existing
+          straps, and bags. Product line extensions use existing
           brand equity, customer relationships, and marketing channels.
-          The key is maintaining brand coherence &mdash; extensions should
+          The key is maintaining brand coherence, extensions should
           feel natural to existing customers.
         </p>
 
@@ -394,19 +394,19 @@ export default function EcommerceAcquisitionArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>The aggregator landscape and lessons learned</h2>
+        <h2 className={h2Class}>The aggregator market and lessons learned</h2>
         <p>
           The Amazon aggregator wave of 2020-2023 provides invaluable
           lessons for search fund entrepreneurs considering e-commerce
           acquisitions. Companies raised billions to acquire Amazon FBA
-          businesses at scale, but many struggled &mdash; and some
+          businesses at scale, but many struggled, and some
           collapsed entirely. The key lessons are clear.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Speed kills quality:</strong> Aggregators that
             prioritized acquisition velocity over due diligence quality
-            acquired businesses with hidden problems &mdash; manipulated
+            acquired businesses with hidden problems, manipulated
             reviews, unsustainable ad spending, supplier concentration,
             and products vulnerable to competition.
           </li>
@@ -419,7 +419,7 @@ export default function EcommerceAcquisitionArticle() {
           </li>
           <li>
             <strong>Operational complexity scales nonlinearly:</strong> Managing
-            5 brands is not five times harder than managing one &mdash;
+            5 brands is not five times harder than managing one , 
             it is often ten or twenty times harder. Each brand has unique
             supply chains, customer bases, competitive dynamics, and
             operational requirements.
@@ -452,7 +452,45 @@ export default function EcommerceAcquisitionArticle() {
           operationally focused approach that defines successful ETA
           will find genuine opportunities in this sector.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is a healthy customer acquisition cost (CAC) for an e-commerce business?</h3>
+
+        <p>
+          A healthy CAC depends heavily on the product category and average order value, but as a general benchmark, CAC should be recoverable within the first purchase for consumable products and within three purchases for durable goods. According to industry data, median CAC for D2C brands ranges from $30-$80 depending on the channel mix, with Facebook/Meta and Google remaining the primary paid acquisition channels despite significant CPM inflation since Apple&rsquo;s iOS 14.5 privacy changes. Businesses where organic and earned channels (SEO, email, referral, direct traffic) account for at least 30-40% of revenue demonstrate more sustainable unit economics. During due diligence, analyze CAC trends over the trailing 36 months and break down acquisition costs by channel to identify which channels are efficient and which are unsustainably expensive.
+        </p>
+
+        <h3 className={h3Class}>How do I assess platform dependency risk when acquiring an Amazon FBA business?</h3>
+
+        <p>
+          Platform dependency is the single greatest risk factor in Amazon FBA acquisitions. Key indicators to evaluate include: the percentage of total revenue derived from Amazon (above 80% represents high concentration risk), the seller&rsquo;s Account Health Rating and history of policy violations, review authenticity (any history of incentivized or manipulated reviews), and ranking stability of core ASINs over the past 12-24 months. Tools like Helium 10 and Jungle Scout provide historical ranking data that reveals algorithm volatility. The aggregator wave of 2020-2023 demonstrated that Amazon can change fee structures, category rules, and ranking algorithms with minimal notice, a single policy change eliminated profitability for dozens of products across major aggregator portfolios. Businesses with genuine brand recognition, diversified channel presence, and a growing D2C website substantially mitigate this risk.
+        </p>
+
+        <h3 className={h3Class}>What return rates should I expect in e-commerce, and how do they affect valuation?</h3>
+
+        <p>
+          Return rates vary dramatically by product category: consumables average 5-10%, home goods 8-15%, and apparel 15-25%. Each return erodes margins through reverse logistics costs, restocking expenses, and inventory write-offs for items that cannot be resold. During due diligence, request return rate data by SKU and by channel, as Amazon FBA returns tend to be higher than D2C returns due to Amazon&rsquo;s generous return policies. A business reporting 20% gross margins with a 20% return rate may have effective gross margins closer to 12-15% after accounting for the full cost of returns. High return rates should be factored directly into your valuation model and may signal underlying product quality issues, misleading product descriptions, or sizing inconsistencies that require immediate post-acquisition attention.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Marketplace Pulse, <em>State of Amazon FBA Aggregators</em> (2024), thorough analysis of aggregator performance, deal multiples, and lessons learned</li>
+          <li>Shopify, <em>The State of Commerce Report</em> (2024), D2C brand benchmarks for CAC, retention, and channel performance</li>
+          <li>Digital Commerce 360, <em>US E-commerce Market Report</em> (2024), industry-wide data on e-commerce growth, return rates, and unit economics by category</li>
+        </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/amazon-fba-acquisition" className="text-apple-accent hover:underline">Acquiring an Amazon FBA Business</Link></li>
+          <li><Link href="/learn/saas-acquisition" className="text-apple-accent hover:underline">Acquiring a SaaS Business: The Search Fund Playbook</Link></li>
+          <li><Link href="/learn/recurring-revenue-businesses" className="text-apple-accent hover:underline">Recurring Revenue Businesses: The Most Attractive Verticals</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+          <li><Link href="/learn/asset-light-vs-asset-heavy" className="text-apple-accent hover:underline">Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs</Link></li>
+          <li><Link href="/learn/industry-selection-framework" className="text-apple-accent hover:underline">Industry Selection Framework: Picking Your Vertical</Link></li>
+        </ul>
     </article>
   );
 }

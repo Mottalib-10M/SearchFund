@@ -20,7 +20,7 @@ export default function ETACanadaArticle() {
           self-funded acquirers.
         </p>
         <p>
-          This guide covers the Canadian ETA landscape: deal flow, financing
+          This guide covers the Canadian ETA market: deal flow, financing
           options, legal considerations, tax optimization, and practical advice
           for acquiring a business in Canada.
         </p>
@@ -35,7 +35,7 @@ export default function ETACanadaArticle() {
           <li><strong>Only 10% of family businesses</strong> successfully transition to the third generation</li>
           <li><strong>$2 trillion+ in enterprise value</strong> expected to change hands in the next decade</li>
           <li><strong>Lower competition</strong> than the US market, with fewer PE firms and searchers active</li>
-          <li><strong>3.5&ndash;6x EBITDA</strong> typical acquisition multiples &mdash; similar to or below US levels</li>
+          <li><strong>3.5-6x EBITDA</strong> typical acquisition multiples, similar to or below US levels</li>
         </ul>
 
         <h2 className={h2Class}>Financing options</h2>
@@ -75,9 +75,9 @@ export default function ETACanadaArticle() {
           Typical terms:
         </p>
         <ul className={ulClass}>
-          <li>Loans of $500K&ndash;$10M+ for qualified acquisitions</li>
-          <li>2.5&ndash;4x EBITDA maximum leverage</li>
-          <li>5&ndash;7 year terms with Prime + 1.5&ndash;3% pricing</li>
+          <li>Loans of $500K-$10M+ for qualified acquisitions</li>
+          <li>2.5-4x EBITDA maximum use</li>
+          <li>5-7 year terms with Prime + 1.5-3% pricing</li>
           <li>Full recourse with personal guarantees</li>
         </ul>
 
@@ -87,7 +87,7 @@ export default function ETACanadaArticle() {
             Seller financing
           </Link>{" "}
           (called a &ldquo;vendor take-back&rdquo; or VTB in Canada) is common
-          in Canadian SME transactions, typically 10&ndash;30% of the purchase
+          in Canadian SME transactions, typically 10-30% of the purchase
           price.
         </p>
 
@@ -99,9 +99,9 @@ export default function ETACanadaArticle() {
           levels. Key considerations for acquirers:
         </p>
         <ul className={ulClass}>
-          <li>Business incorporation can be federal (CBCA) or provincial &mdash; each has different rules and costs</li>
+          <li>Business incorporation can be federal (CBCA) or provincial, each has different rules and costs</li>
           <li>Employment law varies by province (e.g., Ontario&rsquo;s Employment Standards Act vs. BC&rsquo;s Employment Standards Act)</li>
-          <li>Securities regulation is provincial &mdash; important if raising investor capital</li>
+          <li>Securities regulation is provincial, important if raising investor capital</li>
           <li>Competition Act review may be required for larger transactions</li>
         </ul>
 
@@ -155,8 +155,8 @@ export default function ETACanadaArticle() {
 
         <h3 className={h3Class}>Corporate tax rates</h3>
         <ul className={ulClass}>
-          <li><strong>Small business deduction:</strong> Combined federal/provincial rate of ~12&ndash;15% on the first $500K of active business income (varies by province)</li>
-          <li><strong>General corporate rate:</strong> ~26&ndash;31% on income above $500K (federal + provincial)</li>
+          <li><strong>Small business deduction:</strong> Combined federal/provincial rate of ~12-15% on the first $500K of active business income (varies by province)</li>
+          <li><strong>General corporate rate:</strong> ~26-31% on income above $500K (federal + provincial)</li>
           <li><strong>Integration principle:</strong> The Canadian tax system is designed so that income earned through a corporation and distributed as dividends is taxed at roughly the same rate as personal income</li>
         </ul>
 
@@ -164,7 +164,7 @@ export default function ETACanadaArticle() {
         <ul className={ulClass}>
           <li><strong>SR&amp;ED tax credits:</strong> Canada offers generous Scientific Research and Experimental Development credits (up to 35% for small CCPCs)</li>
           <li><strong>Capital Cost Allowance (CCA):</strong> Canada&rsquo;s equivalent of US depreciation, with accelerated rates for certain asset classes</li>
-          <li><strong>GST/HST:</strong> Federal sales tax of 5% (GST) plus provincial sales tax (0&ndash;10% depending on province), must be registered and collected</li>
+          <li><strong>GST/HST:</strong> Federal sales tax of 5% (GST) plus provincial sales tax (0-10% depending on province), must be registered and collected</li>
         </ul>
 
         <h2 className={h2Class}>Deal sourcing in Canada</h2>
@@ -192,8 +192,8 @@ export default function ETACanadaArticle() {
 
         <h2 className={h2Class}>US vs. Canada: key differences for searchers</h2>
         <ul className={ulClass}>
-          <li><strong>Financing:</strong> BDC/CSBFP vs. SBA &mdash; similar concepts but different programs, limits, and qualification criteria</li>
-          <li><strong>Tax:</strong> LCGE (~$1M) vs. QSBS ($10M) &mdash; US offers a more generous exclusion</li>
+          <li><strong>Financing:</strong> BDC/CSBFP vs. SBA, similar concepts but different programs, limits, and qualification criteria</li>
+          <li><strong>Tax:</strong> LCGE (~$1M) vs. QSBS ($10M), US offers a more generous exclusion</li>
           <li><strong>Multiples:</strong> Comparable for similar industries, though Canada has less PE competition at the smaller end</li>
           <li><strong>Legal:</strong> Provincial variation adds complexity not present in most US transactions</li>
           <li><strong>Currency:</strong> CAD/USD exchange fluctuation affects cross-border investors</li>
@@ -210,6 +210,42 @@ export default function ETACanadaArticle() {
           </Link>{" "}
           overview.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does the BDC compare to the US SBA for financing a search fund acquisition in Canada?</h3>
+        <p>
+          The Business Development Bank of Canada (BDC) provides term loans and subordinated financing for acquisitions, but differs from the SBA in several key ways. BDC does not offer a government-guaranteed loan program equivalent to SBA 7(a); instead, it lends directly from its own balance sheet and takes the full credit risk. This means BDC underwriting is more selective, but approval can be faster because there is no government bureaucracy. BDC term loans for acquisitions can exceed $5M, compared to the SBA&rsquo;s $5M cap. The Canada Small Business Financing Program (CSBFP) is the closer SBA equivalent but is limited to $1.15M and excludes goodwill from eligible assets, making it less useful for traditional search fund acquisitions. According to BDC&rsquo;s annual report, the bank supports over 70,000 Canadian SMEs with $42 billion in committed financing.
+        </p>
+
+        <h3 className={h3Class}>Is the Canadian Lifetime Capital Gains Exemption better than the US QSBS exclusion?</h3>
+        <p>
+          The US QSBS exclusion under Section 1202 is significantly more generous: it exempts up to $10M (or 10x basis) in capital gains from qualifying small business stock, compared to the Canadian LCGE of approximately $1.016M CAD. However, Canada&rsquo;s LCGE applies to all qualified small business corporation shares without the 5-year holding requirement of QSBS, and Canadian individuals pay zero capital gains tax on the exempted amount. The US QSBS requires C-corporation status and a 5-year hold. For search fund operators, the practical difference is that US exits benefit from far larger tax-free gains, while Canadian operators should plan additional tax optimization strategies, such as crystallization and family trust structures, to maximize the value of the LCGE across multiple family members.
+        </p>
+
+        <h3 className={h3Class}>Can a US citizen buy a business in Canada through a search fund?</h3>
+        <p>
+          Yes, but work authorization and tax planning require careful attention. US citizens can invest in and own Canadian businesses without restriction, but operating as CEO requires a valid Canadian work permit. The Intra-Company Transfer (ICT) work permit is the most common route for search fund operators, allowing foreign executives to work in Canada for a company they control. Some provinces offer Provincial Nominee Programs (PNPs) with entrepreneur streams that provide permanent residency. The US-Canada tax treaty prevents double taxation but creates complex filing obligations in both countries. BDC and CSBFP financing programs are generally available to companies with Canadian operations regardless of the owner&rsquo;s nationality, though personal guarantees from non-residents can complicate bank approvals.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.bdc.ca/en/about/what-we-do" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Business Development Bank of Canada (BDC), Financing Programs and Annual Report
+            </a>
+          </li>
+          <li>
+            <a href="https://ised-isde.canada.ca/site/canada-small-business-financing-program/en" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Innovation, Science and Economic Development Canada, Canada Small Business Financing Program (CSBFP)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-25400-capital-gains-deduction.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Canada Revenue Agency, Lifetime Capital Gains Exemption (LCGE) Guidelines
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

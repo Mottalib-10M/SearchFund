@@ -11,8 +11,8 @@ export default function DealSourcingStrategiesArticle() {
         <p>
           Deal sourcing is the single most time-consuming and
           strategically important activity during the search phase. The
-          conventional wisdom — contact 1,000 companies to find one
-          acquisition — is roughly accurate, but the quality and
+          conventional wisdom - contact 1,000 companies to find one
+          acquisition - is roughly accurate, but the quality and
           efficiency of your sourcing process determines whether you
           find that acquisition in 12 months or 30 months, and whether
           you pay a fair price or a premium. This guide covers every
@@ -61,8 +61,8 @@ export default function DealSourcingStrategiesArticle() {
           </li>
         </ul>
         <p>
-          These numbers underscore why deal sourcing must be treated as
-          a disciplined, full-time activity — not an ad hoc effort that
+          These numbers highlight why deal sourcing must be treated as
+          a disciplined, full-time activity - not an ad hoc effort that
           competes with other priorities. The most successful searchers
           dedicate 60% to 80% of their time to sourcing during the first
           12 months of their search.
@@ -87,8 +87,8 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>Higher effort per deal:</strong> Building proprietary
-            deal flow requires massive outreach volume — hundreds or
-            thousands of cold contacts — with low response rates (5% to
+            deal flow requires massive outreach volume - hundreds or
+            thousands of cold contacts - with low response rates (5% to
             15% for cold email, 2% to 5% for direct mail).
           </li>
           <li>
@@ -130,8 +130,8 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>More competition:</strong> You are typically competing
-            against other buyers — including PE firms, strategic acquirers,
-            and other searchers — which reduces your negotiating leverage.
+            against other buyers - including PE firms, strategic acquirers,
+            and other searchers - which reduces your negotiating use.
           </li>
         </ul>
 
@@ -163,13 +163,13 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Follow up consistently:</strong> Call or email your
             top 20 to 30 broker contacts every four to six weeks. Many
-            deals never hit the open market — they are shown to the first
+            deals never hit the open market - they are shown to the first
             few buyers the broker thinks of. Being top of mind is the
             single most important factor in getting early deal access.
           </li>
           <li>
             <strong>Respond quickly and professionally:</strong> When a
-            broker sends you a teaser, respond within 24 hours — even
+            broker sends you a teaser, respond within 24 hours - even
             if it is to pass. Brokers remember buyers who are responsive
             and respectful of their time. A fast &quot;no&quot; is better
             than a slow &quot;maybe.&quot;
@@ -184,8 +184,8 @@ export default function DealSourcingStrategiesArticle() {
 
         <h2 className={h2Class}>Direct outreach campaigns</h2>
         <p>
-          Direct outreach — contacting business owners who have not
-          listed their business for sale — is the primary channel for
+          Direct outreach - contacting business owners who have not
+          listed their business for sale - is the primary channel for
           building proprietary deal flow. The three main methods are
           cold email, LinkedIn outreach, and direct mail.
         </p>
@@ -246,7 +246,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Response rates:</strong> LinkedIn connection
             acceptance rates for well-crafted requests are typically
-            20% to 35% — significantly higher than cold email. However,
+            20% to 35% - significantly higher than cold email. However,
             converting a connection into a meaningful business
             conversation requires additional nurturing.
           </li>
@@ -267,7 +267,7 @@ export default function DealSourcingStrategiesArticle() {
             and a clear call to action (phone call or coffee meeting).
           </li>
           <li>
-            <strong>Response rates:</strong> Typically 2% to 5% — lower
+            <strong>Response rates:</strong> Typically 2% to 5% - lower
             than email in absolute terms, but the quality of responses
             tends to be higher. Owners who take the time to call or
             email in response to a letter are more seriously considering
@@ -276,7 +276,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>
             <strong>Cost:</strong> $2 to $4 per letter (printing,
             postage, envelope). A campaign of 500 letters costs $1,000
-            to $2,000 — modest relative to the potential return.
+            to $2,000 - modest relative to the potential return.
           </li>
         </ul>
 
@@ -318,7 +318,7 @@ export default function DealSourcingStrategiesArticle() {
           </li>
           <li>
             <strong>Industry-specific platforms:</strong> Many industries
-            have specialized listing sites — for example, healthcare
+            have specialized listing sites - for example, healthcare
             practices, dental offices, veterinary clinics, and SaaS
             businesses all have dedicated marketplaces. If you have
             an industry focus, identify and monitor the relevant
@@ -437,7 +437,7 @@ export default function DealSourcingStrategiesArticle() {
           <li>Stage in your pipeline (identified, contacted, conversation, NDA signed, financials received, deep diligence, LOI, closed)</li>
           <li>Key dates (first contact, last contact, next follow-up)</li>
           <li>Notes from every conversation and meeting</li>
-          <li>Reason for pass (if applicable) — this data improves future targeting</li>
+          <li>Reason for pass (if applicable) - this data improves future targeting</li>
         </ul>
 
         <h3 className={h3Class}>Metrics to monitor weekly</h3>
@@ -510,9 +510,47 @@ export default function DealSourcingStrategiesArticle() {
           consistent activity levels, and persevere through the
           inevitable periods of discouragement when nothing seems to
           be working. The acquisition that transforms your career is
-          out there — your job is to build the machine that finds it.
+          out there - your job is to build the machine that finds it.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best deal sourcing channel for search fund entrepreneurs?</h3>
+
+        <p>
+          There is no single &ldquo;best&rdquo; channel, the most successful searchers use a multi-channel approach combining broker relationships, direct outreach, and network referrals. According to the Stanford Search Fund Primer, approximately 40-50% of completed search fund acquisitions originate from broker-intermediated deal flow, while 30-40% come from proprietary direct outreach and 10-20% from referrals and networking. Proprietary deals tend to close at lower multiples (3-4.5x EBITDA) compared to brokered deals (4.5-6x EBITDA), but they require significantly more upfront effort. The optimal strategy typically involves maintaining active broker relationships for steady deal flow while simultaneously running targeted direct outreach campaigns for off-market opportunities.
+        </p>
+
+        <h3 className={h3Class}>How many hours per week should a searcher spend on deal sourcing?</h3>
+
+        <p>
+          During the active search phase (months 3-18), successful searchers typically dedicate 60-80% of their working hours to deal sourcing activities, which translates to 30-40 hours per week. This includes list building, outreach execution, broker calls, initial screening conversations, and CRM management. According to <em>Buy Then Build</em> by Walker Deibel and multiple practitioner surveys, searchers who fall below 20 hours per week on sourcing activities consistently underperform on pipeline metrics. The remaining 20-40% of time is split between advancing existing opportunities through the funnel, investor updates, and professional development. Discipline in protecting sourcing time, even when active deals demand attention, is one of the strongest predictors of search success.
+        </p>
+
+        <h3 className={h3Class}>Is cold email or direct mail more effective for proprietary deal sourcing?</h3>
+
+        <p>
+          Both channels have distinct advantages. Cold email campaigns typically generate response rates of 3-8% on initial outreach and can be scaled cost-effectively to hundreds of contacts per week. Direct mail (physical letters) achieves lower absolute response rates of 2-5%, but the quality of responses tends to be significantly higher, business owners who take the time to respond to a letter are generally more seriously considering a transition. At a cost of $2-$4 per letter, a campaign of 500 letters runs $1,000-$2,000, which is modest relative to the potential return. Many experienced searchers recommend a hybrid approach: cold email as the primary volume channel, supplemented by direct mail to the highest-priority targets, and LinkedIn outreach (20-35% connection acceptance rates) for relationship building.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer</em> (2024), thorough data on deal sourcing channels, conversion rates, and acquisition outcomes</li>
+          <li>Richard S. Ruback &amp; Royce Yudkoff, <em>HBR Guide to Buying a Small Business</em> (2017), foundational frameworks for deal sourcing strategy and broker relationship management</li>
+          <li>Walker Deibel, <em>Buy Then Build</em> (2018), tactical guidance on direct outreach campaigns, CRM setup, and proprietary deal sourcing for acquisition entrepreneurs</li>
+        </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">Proprietary Deal Flow: How to Find Off-Market Businesses</Link></li>
+          <li><Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">Cold Outreach to Business Owners: Scripts &amp; Strategies</Link></li>
+          <li><Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">Working with Business Brokers: A Buyer's Guide</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM (Confidential Information Memorandum)</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">The Ideal Acquisition Target: A Search Fund Buyer's Framework</Link></li>
+        </ul>
     </article>
   );
 }

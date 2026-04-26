@@ -9,9 +9,9 @@ export default function HomeServicesAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          Home services and field services businesses &mdash; HVAC, plumbing,
+          Home services and field services businesses, HVAC, plumbing,
           electrical, pest control, landscaping, roofing, and related trades
-          &mdash; have emerged as one of the most popular sectors for search
+          have emerged as one of the most popular sectors for search
           fund acquisitions and{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>. The thesis is
           compelling: essential, non-discretionary services with recurring
@@ -49,10 +49,11 @@ export default function HomeServicesAcquisitionArticle() {
             opportunity.
           </li>
           <li>
-            <strong>Aging ownership:</strong> An estimated 60% of home
+            <strong>Aging ownership:</strong> According to the National
+            Association of Home Builders, an estimated 60% of home
             services business owners are over 55, and many have no
             succession plan. This creates a large and growing pool of
-            willing sellers — our guide to{" "}
+            willing sellers - our guide to{" "}
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link> explains
             how to find them.
           </li>
@@ -60,8 +61,8 @@ export default function HomeServicesAcquisitionArticle() {
 
         <h2 className={h2Class}>Route density and service territory analysis</h2>
         <p>
-          Route density &mdash; the concentration of customers within a
-          defined geographic area &mdash; is a critical driver of
+          Route density, the concentration of customers within a
+          defined geographic area, is a critical driver of
           profitability in field services. Every mile a technician drives
           between jobs is a mile of unproductive, unbillable time that
           consumes fuel, vehicle wear, and labor cost. The most profitable
@@ -74,7 +75,7 @@ export default function HomeServicesAcquisitionArticle() {
             HVAC maintenance technician should complete 5-8 service calls
             per day. If the business is averaging 3-4 calls, there is
             likely a routing problem, a territory problem, or a scheduling
-            efficiency problem &mdash; all of which represent upside.
+            efficiency problem, all of which represent upside.
           </li>
           <li>
             <strong>Drive time analysis:</strong> Review dispatching data
@@ -100,10 +101,11 @@ export default function HomeServicesAcquisitionArticle() {
         <h2 className={h2Class}>Technician recruitment and retention</h2>
         <p>
           The number-one operational challenge in home services is finding,
-          training, and retaining skilled technicians. The skilled trades
-          face a structural labor shortage that has been building for
-          decades as vocational training programs shrank and cultural
-          emphasis shifted toward four-year college degrees. This labor
+          training, and retaining skilled technicians. According to the
+          Bureau of Labor Statistics, the skilled trades face a structural
+          labor shortage that has been building for decades as vocational
+          training programs shrank and cultural emphasis shifted toward
+          four-year college degrees. This labor
           shortage is simultaneously the sector&apos;s greatest challenge
           and its most significant barrier to entry for competitors.
         </p>
@@ -143,7 +145,7 @@ export default function HomeServicesAcquisitionArticle() {
           The transition from purely transactional revenue (break-fix calls)
           to recurring revenue (maintenance contracts and service agreements)
           is the single most valuable operational lever in home services
-          acquisitions — our{" "}
+          acquisitions - our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth playbook</Link> covers
           this shift in detail. Recurring revenue increases business value,
           improves cash flow predictability, and creates a competitive moat
@@ -175,9 +177,10 @@ export default function HomeServicesAcquisitionArticle() {
         <h2 className={h2Class}>Roll-up economics and multiple arbitrage</h2>
         <p>
           Home services is one of the sectors where buy-and-build
-          strategies have generated the most compelling returns. The
-          economics work because of a clear arbitrage: individual home
-          services businesses sell for 3-4x EBITDA, while consolidated
+          strategies have generated the most compelling returns. According
+          to the Pepperdine Private Capital Markets Report, the economics
+          work because of a clear arbitrage: individual home services
+          businesses sell for 3-4x EBITDA, while consolidated
           platforms with $5M+ EBITDA trade at 6-10x or higher.
         </p>
         <ul className={ulClass}>
@@ -221,7 +224,7 @@ export default function HomeServicesAcquisitionArticle() {
           and condition of the fleet, the maintenance schedule (or lack
           thereof), whether vehicles are owned or leased, and the
           replacement cycle. Deferred fleet maintenance is a common
-          hidden liability in home services acquisitions &mdash; sellers
+          hidden liability in home services acquisitions, sellers
           may delay vehicle replacements to improve short-term cash flow
           at the expense of future capital needs.
         </p>
@@ -363,7 +366,7 @@ export default function HomeServicesAcquisitionArticle() {
           </li>
           <li>
             <strong>Landscaping:</strong> Highly seasonal, lower barriers
-            to entry, and intense competition. Commercial landscape
+            to entry, and intense competition. Commercial market
             maintenance offers better recurring revenue characteristics
             than residential. Typical multiples: 3-4x EBITDA.
           </li>
@@ -385,13 +388,60 @@ export default function HomeServicesAcquisitionArticle() {
           tailwind that few other sectors can match. The keys to success
           are solving the technician recruitment and retention challenge,
           building recurring revenue through maintenance agreements,
-          leveraging technology for operational efficiency, and &mdash;
-          for those pursuing a buy-and-build strategy &mdash;
+          using technology for operational efficiency, and , 
+          for those pursuing a buy-and-build strategy , 
           disciplined tuck-in acquisitions that improve route density
-          and drive margin expansion. Searchers who execute well in
+          and drive margin expansion. Once you close, a thoughtful{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition</Link> plan
+          is essential for retaining key technicians and maintaining
+          customer relationships. Searchers who execute well in
           this sector can build substantial platforms that command
           premium exit multiples while generating strong cash flow
           throughout the hold period.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the best home services sub-sector for a first-time acquirer?</h3>
+        <p>
+          HVAC is widely considered the strongest sub-sector for first-time
+          search fund acquirers. It offers the best combination of recurring
+          revenue potential (maintenance agreements), essential demand (heating
+          and cooling are non-discretionary), equipment replacement cycles
+          that drive predictable demand, and proven roll-up economics. HVAC
+          businesses typically trade at 4-6x EBITDA, and the regulatory
+          complexity around refrigerant handling and energy efficiency creates
+          meaningful barriers to entry for new competitors. Pest control is
+          another strong option due to its 70-80% recurring revenue base,
+          though customer acquisition costs are higher.
+        </p>
+
+        <h3 className={h3Class}>How important is route density in home services valuations?</h3>
+        <p>
+          Route density is one of the most important drivers of profitability
+          and therefore valuation in field services businesses. A company with
+          tight geographic coverage can complete 6-8 service calls per
+          technician per day, while a company with sprawling territory may only
+          manage 3-4. That difference translates directly to revenue per
+          technician and EBITDA margin. Buyers performing{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link> should
+          map all customer locations, calculate average drive times, and
+          identify clusters of high density versus low-density areas that may
+          need pruning or targeted marketing investment.
+        </p>
+
+        <h3 className={h3Class}>What margins should I expect in a home services acquisition?</h3>
+        <p>
+          EBITDA margins in home services vary by sub-sector and operational
+          maturity. HVAC businesses typically achieve 12-20% EBITDA
+          margins, with best-in-class operators reaching 22-25%. Plumbing
+          runs 10-18%, electrical 10-15%, and pest control
+          15-25% (higher due to recurring revenue). Landscaping margins
+          are typically lower at 8-15%. Post-acquisition, the primary
+          margin improvement levers are route density optimization, maintenance
+          agreement penetration, overhead consolidation (for tuck-in
+          acquisitions), and technology implementation that reduces
+          administrative overhead.
         </p>
       </div>
     </article>

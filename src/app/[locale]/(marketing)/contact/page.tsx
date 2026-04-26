@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Mail, MessageSquare } from "lucide-react";
 import { buildMetadata } from "@/lib/meta-snippets";
+import ContactForm from "@/components/contact/ContactForm";
 
 type Props = { params: Promise<{ locale: string }> };
 
@@ -21,7 +22,11 @@ export default function ContactPage() {
         opportunity? We&apos;d love to hear from you.
       </p>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-12">
+      <div className="mt-10">
+        <ContactForm />
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-10">
         <div className="rounded-2xl border border-apple-gray-300/50 bg-white p-8">
           <div className="w-11 h-11 rounded-xl bg-apple-accent/10 flex items-center justify-center">
             <Mail size={22} strokeWidth={1.5} className="text-apple-accent" />

@@ -12,12 +12,14 @@ export default function SearcherCompensationArticle() {
           Understanding searcher compensation is essential whether you are
           launching a <Link href="/learn/getting-started" className="text-apple-accent hover:underline">search fund</Link>, evaluating the ETA path against other career
           options, or investing in a searcher. The economics are unlike any
-          other entrepreneurial model — combining a modest salary during the
+          other entrepreneurial model - combining a modest salary during the
           search phase with significant equity upside upon a successful
           acquisition and exit. This guide breaks down every component of
           searcher compensation, from search-phase salary through lifetime
           wealth creation, with specific numbers drawn from Stanford GSB data
-          and industry benchmarks.
+          and industry benchmarks. Understanding these economics is especially
+          important when you are preparing your <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link> and pitching
+          investors on the alignment of incentives.
         </p>
 
         <h2 className={h2Class}>Search-phase compensation</h2>
@@ -30,7 +32,7 @@ export default function SearcherCompensationArticle() {
           $110,000-$120,000. This salary is designed to cover reasonable living
           expenses while allowing the searcher to focus full-time on deal
           sourcing and evaluation. It is not designed to match pre-search
-          compensation — most searchers take a 30-50% pay cut from their prior
+          compensation - most searchers take a 30-50% pay cut from their prior
           roles in consulting, investment banking, or private equity.
         </p>
         <ul className={ulClass}>
@@ -65,7 +67,7 @@ export default function SearcherCompensationArticle() {
           window, the fund is typically wound down and remaining capital returned
           to investors. Approximately 37% of searchers do not complete an
           acquisition, according to Stanford data. For these searchers, the
-          economic outcome is limited to the salary earned during the search — a
+          economic outcome is limited to the salary earned during the search - a
           meaningful opportunity cost given the career risk involved.
         </p>
 
@@ -77,7 +79,7 @@ export default function SearcherCompensationArticle() {
           acquired company, compensation resets to market rates for small
           company CEOs. The typical range is $180,000 to $300,000, depending on
           the size of the acquired company, its geographic market, and the
-          competitive landscape for executive talent.
+          competitive environment for executive talent.
         </p>
         <ul className={ulClass}>
           <li>
@@ -122,7 +124,7 @@ export default function SearcherCompensationArticle() {
           The first tranche vests immediately upon the closing of an
           acquisition. It rewards the searcher for successfully identifying,
           negotiating, and closing a deal. In a typical structure, this
-          represents approximately one-third of the total equity grant — roughly
+          represents approximately one-third of the total equity grant - roughly
           8-10% of the company on a fully diluted basis. This tranche
           compensates the searcher for the risk and effort of the search phase
           and aligns their interests with investors from day one.
@@ -144,7 +146,7 @@ export default function SearcherCompensationArticle() {
         <p>
           The third tranche vests only if the searcher achieves specific
           performance thresholds, typically tied to investor returns. The most
-          common structure ties vesting to IRR hurdles — for example, full
+          common structure ties vesting to IRR hurdles - for example, full
           vesting of the performance tranche requires achieving a 25-30% IRR
           for investors, with partial vesting at lower thresholds (e.g., 50%
           vesting at 20% IRR). Some structures use MOIC (multiple on invested
@@ -171,7 +173,7 @@ export default function SearcherCompensationArticle() {
           successful traditional searcher generates approximately $6.4M in
           lifetime economic value (equity gains plus salary). This figure
           includes both the search-phase salary and post-acquisition compensation.
-          The median is lower — approximately $3.5M-$4.5M — reflecting the
+          The median is lower - approximately $3.5M-$4.5M - reflecting the
           right-skewed distribution where a few exceptional outcomes pull the
           average up significantly.
         </p>
@@ -211,7 +213,7 @@ export default function SearcherCompensationArticle() {
             <strong>Acquisition financing:</strong> Self-funded searchers
             typically use more SBA debt (up to $5M through SBA 7(a) loans) and
             seller financing, reducing the need for outside equity. This higher
-            leverage amplifies returns on success but increases financial risk.
+            use amplifies returns on success but increases financial risk.
           </li>
           <li>
             <strong>Lifetime economics example:</strong> A self-funded searcher
@@ -219,7 +221,7 @@ export default function SearcherCompensationArticle() {
             $8M in value over 5 years, and exits with $5.6M in equity value
             ($8M x 70%). Even after accounting for $0 search-phase income, the
             total economic outcome can significantly exceed the traditional
-            model — but the risk-adjusted return must account for the
+            model - but the risk-adjusted return must account for the
             probability of not completing an acquisition.
           </li>
         </ul>
@@ -250,8 +252,9 @@ export default function SearcherCompensationArticle() {
           case at the time of acquisition) and appreciates significantly over
           the vesting period, an 83(b) election converts what would be ordinary
           income into long-term capital gains. The election must be filed with
-          the IRS within 30 days of the equity grant — missing this deadline is
-          irrevocable.
+          the IRS within 30 days of the equity grant, missing this
+          deadline is irrevocable. For a broader view of tax structures relevant
+          to acquisitions, see our <Link href="/learn/legal-due-diligence" className="text-apple-accent hover:underline">legal due diligence</Link> guide.
         </p>
 
         <h3 className={h3Class}>Long-term capital gains treatment</h3>
@@ -317,7 +320,7 @@ export default function SearcherCompensationArticle() {
         <h2 className={h2Class}>How compensation evolves through the hold period</h2>
         <p>
           Searcher compensation is not static. In Year 1, the focus is on
-          learning the business and stabilizing operations — compensation
+          learning the business and stabilizing operations - compensation
           is typically at the lower end of the range with modest bonus
           opportunity. By Years 2-3, as the CEO demonstrates results and the
           company grows, base salary increases of 5-10% annually are common,
@@ -336,10 +339,55 @@ export default function SearcherCompensationArticle() {
           competitive CEO compensation plus significant equity upside. For
           successful searchers who acquire well, operate effectively, and pursue strong <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategies</Link>, the lifetime economic outcome of $3.5M-$10M+
           compares favorably to almost any other career path available to
-          MBA-level professionals. The key is understanding the full picture —
-          including the 37% probability of not acquiring — and making an
+          MBA-level professionals. The key is understanding the full picture - 
+          including the 37% probability of not acquiring - and making an
           informed decision about whether the risk-reward profile fits your
           personal financial situation and career goals.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          Can I negotiate a higher search-phase salary?
+        </h3>
+        <p>
+          Salary during the search phase is constrained by the total search
+          capital raised, so there is limited room to negotiate. Most investor
+          syndicates expect the searcher salary to fall within the $100,000 to
+          $140,000 range. A significantly higher salary reduces the runway
+          available for deal expenses and travel, which investors view
+          negatively. The strongest lever for higher overall compensation is
+          equity performance, focus your negotiation energy on the
+          equity structure and vesting terms rather than on search-phase
+          salary.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens to my equity if I leave the company before full vesting?
+        </h3>
+        <p>
+          If you leave voluntarily or are terminated for cause, unvested
+          equity is typically forfeited. The vested portion depends on your
+          operating agreement: some structures allow you to retain vested
+          shares as a passive holder, while others include a company buyback
+          right at fair market value. &ldquo;Good leaver&rdquo; provisions
+          (such as departure due to health or family reasons) may preserve
+          more favorable terms. These details should be negotiated upfront
+          and clearly documented in the shareholder agreement.
+        </p>
+
+        <h3 className={h3Class}>
+          How does compensation compare between solo and partnered searches?
+        </h3>
+        <p>
+          In a partnered search, each searcher typically earns a similar
+          search-phase salary ($100,000 to $130,000 each), but the total
+          equity pool is shared, usually 25 to 30 percent split
+          between two people. This means each partner ends up with 12 to 15
+          percent equity rather than 20 to 25 percent in a solo search. The
+          tradeoff is reduced risk, shared workload, and complementary skills.
+          For more on this decision, see our guide to <Link href="/learn/solo-vs-partnered-search" className="text-apple-accent hover:underline">solo vs. partnered searches</Link>.
         </p>
       </div>
     </article>

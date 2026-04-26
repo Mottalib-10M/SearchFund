@@ -10,7 +10,7 @@ export default function FindingInvestorsArticle() {
       <div className={bodyClass}>
         <p>
           Raising search capital is the first major milestone for a traditional
-          search fund entrepreneur. Understanding <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors back search funds</Link> will help you tailor your pitch. This guide covers the landscape of search
+          search fund entrepreneur. Understanding <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors back search funds</Link> will help you tailor your pitch. This guide covers the field of search
           fund investors, how to approach them, and what they look for in a
           searcher.
         </p>
@@ -47,12 +47,12 @@ export default function FindingInvestorsArticle() {
           <li><strong>Pacific Lake Partners:</strong> A well-known institutional search fund investor that provides both search capital and acquisition capital, offering continuity throughout the process.</li>
           <li><strong>Relay Investments:</strong> Active in the US search fund ecosystem, Relay invests across both traditional and self-funded search models.</li>
           <li><strong>Stanford GSB angel network:</strong> While not an institution per se, the Stanford search fund community functions as a semi-institutional network. Stanford professors helped pioneer the search fund model in the 1980s, and the school&apos;s alumni network remains the most active source of search fund capital in the world.</li>
-          <li><strong>IESE and other European networks:</strong> In Europe, IESE Business School has built a robust search fund ecosystem. Dedicated European investors like Borgo Capital and ETA Capital have emerged to serve this growing market.</li>
+          <li><strong>IESE and other European networks:</strong> In Europe, IESE Business School has built a strong search fund ecosystem. Dedicated European investors like Borgo Capital and ETA Capital have emerged to serve this growing market.</li>
         </ul>
         <p>
           Institutional investors typically write checks of $50,000 to $100,000
           per search fund during the search phase, with the expectation of
-          investing significantly more — often $500,000 to $2 million — at
+          investing significantly more - often $500,000 to $2 million - at
           acquisition. Their primary advantage is speed and reliability: they
           understand the model, move quickly on decisions, and rarely require
           extensive education on how search funds work.
@@ -90,7 +90,7 @@ export default function FindingInvestorsArticle() {
           and traditional private equity. Some family offices also bring
           operating expertise from the family&apos;s own business interests,
           which can be valuable during the acquisition and operating phases.
-          That said, family offices can be harder to identify and reach — they
+          That said, family offices can be harder to identify and reach - they
           rarely have public-facing investment mandates.
         </p>
 
@@ -160,8 +160,8 @@ export default function FindingInvestorsArticle() {
           (Barcelona), the Stanford Search Fund CEO Conference, and the HBS
           ETA Conference are the three most important. Regional events hosted
           by university clubs, ETA-focused organizations, and private networks
-          also provide excellent opportunities. Attending these events — even
-          before you are ready to raise — helps you build relationships and
+          also provide excellent opportunities. Attending these events - even
+          before you are ready to raise - helps you build relationships and
           understand what investors are looking for.
         </p>
 
@@ -173,14 +173,14 @@ export default function FindingInvestorsArticle() {
           A single introduction from a trusted source can carry more weight
           than a perfectly crafted cold email. Once you secure your first few
           investors, ask each of them to introduce you to two or three others
-          — referral chains are the most efficient way to fill out your cap
+ - referral chains are the most efficient way to fill out your cap
           table.
         </p>
 
         <h2 className={h2Class}>How to approach investors</h2>
         <ol className={olClass}>
           <li><strong>Build your thesis first.</strong> Define your target geography, sectors, size criteria, and value creation plan before approaching investors. Pair your thesis with a strong <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link>.</li>
-          <li><strong>Leverage your network.</strong> Start with your MBA alumni network, professors, and personal connections to get warm introductions.</li>
+          <li><strong>Use your network.</strong> Start with your MBA alumni network, professors, and personal connections to get warm introductions.</li>
           <li><strong>Prepare a compelling <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">PPM</Link>.</strong> Your Private Placement Memorandum should cover your background, search thesis, target criteria, and the economics of the search fund structure.</li>
           <li><strong>Meet investors in person.</strong> Attend the INSEAD ETA Conference, IESE Search Fund Conference, Stanford CEO Conference, and ETA networking events. INSEAD&apos;s ETA & Search Funds Hub also provides curated introductions between searchers and investors.</li>
           <li><strong>Be persistent but respectful.</strong> Expect the process to take 2-4 months. Most investors pass on many searchers before committing.</li>
@@ -189,7 +189,8 @@ export default function FindingInvestorsArticle() {
         <h2 className={h2Class}>The investor pitch process</h2>
         <p>
           Understanding the typical fundraising process helps you manage
-          timelines and expectations. Most searchers go through the following
+          timelines and expectations. For a week-by-week breakdown, consult
+          our <Link href="/learn/search-fund-fundraising-timeline" className="text-apple-accent hover:underline">fundraising timeline guide</Link>. Most searchers go through the following
           stages with each investor.
         </p>
 
@@ -212,7 +213,7 @@ export default function FindingInvestorsArticle() {
           typically over one to two weeks. They may follow up with questions
           about your financial projections, your search timeline, or specific
           aspects of your background. Some investors will request a second
-          call at this stage. Be responsive and thorough — slow follow-up is
+          call at this stage. Be responsive and thorough - slow follow-up is
           a red flag to experienced investors.
         </p>
 
@@ -244,9 +245,9 @@ export default function FindingInvestorsArticle() {
         <ul className={ulClass}>
           <li><strong>Unit size:</strong> Typically $50,000 to $100,000 per unit, though some funds have units as small as $25,000 for angel investors.</li>
           <li><strong>Number of investors:</strong> Most traditional search funds have 15 to 20 investors to ensure a diverse cap table while keeping the number manageable.</li>
-          <li><strong>Search budget:</strong> The total raise usually covers two years of salary, health insurance, travel, professional fees, and deal expenses — typically $400,000 to $600,000.</li>
-          <li><strong>Step-up at acquisition:</strong> Search investors&apos; capital converts into equity at a 1.5x step-up at the time of acquisition, compensating them for the risk of funding an unfunded search.</li>
-          <li><strong>Pro-rata rights:</strong> Investors have the right (but not the obligation) to invest their pro-rata share in the acquisition. This is the primary economic incentive — the search capital itself is a relatively small investment to gain access to the deal.</li>
+          <li><strong>Search budget:</strong> The total raise usually covers two years of salary, health insurance, travel, professional fees, and deal expenses - typically $400,000 to $600,000.</li>
+          <li><strong>Step-up at acquisition:</strong> Search investors&apos; capital converts into equity at a 1.5x step-up at the time of acquisition, compensating them for the risk of funding an unfunded search. For a full breakdown of this mechanism, see our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>.</li>
+          <li><strong>Pro-rata rights:</strong> Investors have the right (but not the obligation) to invest their pro-rata share in the acquisition. This is the primary economic incentive - the search capital itself is a relatively small investment to gain access to the deal.</li>
           <li><strong>Searcher equity:</strong> The searcher typically earns 20-30% of the acquired company&apos;s equity, vesting over 4-5 years, contingent on acquisition and continued employment.</li>
           <li><strong>Board seats:</strong> Investors typically elect a small board of directors (3-5 members), with the searcher serving as CEO and an investor representative serving as board chair.</li>
         </ul>
@@ -269,7 +270,7 @@ export default function FindingInvestorsArticle() {
           <li><strong>Relevant experience:</strong> Prior operating, consulting, or industry experience that will help you evaluate and run a business.</li>
           <li><strong>Clear thesis:</strong> A well-defined search strategy with realistic criteria and a credible value creation plan.</li>
           <li><strong>Coachability:</strong> Willingness to listen to experienced board members and adapt your approach based on their guidance.</li>
-          <li><strong>Personal grit:</strong> The search process is long, lonely, and filled with rejection. Investors want to see evidence that you can push through adversity — whether from your professional career, athletics, military service, or personal history.</li>
+          <li><strong>Personal grit:</strong> The search process is long, lonely, and filled with rejection. Investors want to see evidence that you can push through adversity - whether from your professional career, athletics, military service, or personal history.</li>
           <li><strong>Market thesis:</strong> Do you have a thoughtful perspective on which industries and geographies offer the best acquisition opportunities? Investors appreciate a searcher who has done their homework on market dynamics, fragmentation, and secular tailwinds.</li>
         </ul>
 
@@ -298,16 +299,16 @@ export default function FindingInvestorsArticle() {
           Send a concise monthly update to all investors. Include the number
           of deals reviewed, deals in active discussion, industry trends you
           are observing, and any learnings from proprietary or intermediated
-          deal flow. Keep the tone honest and transparent — investors respect
+          deal flow. Keep the tone honest and transparent - investors respect
           candor about slow periods and deal failures far more than false
           optimism. A well-written monthly update also keeps you top of mind,
           which matters when investors are considering whether to back another
           searcher in your target geography or sector.
         </p>
 
-        <h3 className={h3Class}>Leverage your board</h3>
+        <h3 className={h3Class}>Use your board</h3>
         <p>
-          Your investor board is not just a governance requirement — it is a
+          Your investor board is not just a governance requirement - it is a
           strategic asset. Schedule regular calls with individual board members
           to discuss specific deals, seek introductions to industry contacts,
           and pressure-test your search thesis. The most successful searchers
@@ -322,8 +323,8 @@ export default function FindingInvestorsArticle() {
           Almost every searcher goes through a period of 3-6 months with no
           compelling deals. This is normal. Communicate proactively with your
           investors during these periods. Explain what you are doing
-          differently — refining your thesis, expanding geography, adding new
-          deal channels — rather than going silent. Investors who have backed
+          differently - refining your thesis, expanding geography, adding new
+          deal channels - rather than going silent. Investors who have backed
           many searchers understand that the search process is nonlinear, and
           they will be supportive as long as they see that you are putting in
           the work and maintaining intellectual honesty about your progress.
@@ -336,8 +337,51 @@ export default function FindingInvestorsArticle() {
           risks, and gauge investor appetite for the acquisition capital raise.
           This early engagement ensures that when you do find the right deal,
           your investors are already familiar with the opportunity and can
-          make quick commitments — a critical advantage in competitive
+          make quick commitments - a critical advantage in competitive
           situations where seller timelines are tight.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          How much should I expect to raise in search capital?
+        </h3>
+        <p>
+          Traditional search funds typically raise $400,000 to $600,000 in
+          search capital from 15 to 20 investors. The amount varies based on
+          geography, cost of living, and expected search duration. US-based
+          searchers in high-cost cities tend toward the higher end; European
+          searchers may raise less due to lower operating costs. The capital
+          covers 18 to 24 months of salary, travel, professional fees, and deal
+          expenses.
+        </p>
+
+        <h3 className={h3Class}>
+          Should I approach institutional investors or individuals first?
+        </h3>
+        <p>
+          Start with institutional search fund investors and well-known
+          ex-searchers. Their early commitments provide credibility and signal
+          quality to later prospects. Institutional investors also move faster - 
+          they understand the model and can make decisions in two to three weeks.
+          Once you have two or three institutional commitments, approaching
+          individual investors and family offices becomes significantly easier
+          because of the social proof.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens if I cannot raise enough search capital?
+        </h3>
+        <p>
+          If you cannot close your target raise after 12 to 16 weeks of active
+          fundraising, consider alternatives: reduce the target amount and
+          shorten the search timeline, pivot to a <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link> model,
+          find a co-searcher to strengthen the pitch, or revisit your thesis
+          based on investor feedback. The key is to diagnose whether the issue
+          is pipeline (not enough meetings), pitch (not converting meetings to
+          commitments), or thesis (investors do not find the opportunity
+          compelling).
         </p>
       </div>
     </article>

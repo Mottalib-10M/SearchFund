@@ -40,7 +40,7 @@ async function serveInline(fileUrl: string, fileName: string) {
   }
 }
 
-// GET /api/documents/[id] — view with access control
+// GET /api/documents/[id] - view with access control
 export async function GET(_request: NextRequest, context: RouteContext) {
   const { id } = await context.params;
 
@@ -82,12 +82,12 @@ export async function GET(_request: NextRequest, context: RouteContext) {
     return serveInline(doc.fileUrl, doc.fileName);
   }
 
-  // PRIVATE — only the owner
+  // PRIVATE - only the owner
   if (doc.visibility === "PRIVATE") {
     return NextResponse.json({ error: "Access denied" }, { status: 403 });
   }
 
-  // CONNECTIONS — owner + accepted investor connections only
+  // CONNECTIONS - owner + accepted investor connections only
   if (doc.visibility === "CONNECTIONS") {
     const viewer = await prisma.user.findUnique({
       where: { id: session.id },
@@ -118,7 +118,7 @@ export async function GET(_request: NextRequest, context: RouteContext) {
   return NextResponse.json({ error: "Access denied" }, { status: 403 });
 }
 
-// PATCH /api/documents/[id] — update visibility
+// PATCH /api/documents/[id] - update visibility
 export async function PATCH(request: NextRequest, context: RouteContext) {
   const { id } = await context.params;
 

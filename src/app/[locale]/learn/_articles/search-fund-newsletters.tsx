@@ -74,7 +74,7 @@ export default function SearchFundNewslettersArticle() {
       <p className={bodyClass}>
         Acquiring Minds focuses on the human side of search funds and ETA. Each newsletter typically features an
         in-depth interview with a searcher or operator who has successfully acquired and grown a business. Topics
-        range from managing seller psychology during negotiations to implementing your first ERP system to navigating
+        range from managing seller psychology during negotiations to implementing your first ERP system to managing
         culture change post-acquisition.
       </p>
 
@@ -155,14 +155,14 @@ export default function SearchFundNewslettersArticle() {
 
       <p className={bodyClass}>
         The fastest-growing region for search funds is Europe, with vibrant ecosystems emerging in the UK, France,
-        Germany, Spain, and the Nordics. <a href="https://etaeurope.com" className="text-apple-accent hover:underline">ETA Europe</a> serves
+        Germany, Spain, and the Nordics. <a href="https://legacy-partners-newsletter.beehiiv.com/" className="text-apple-accent hover:underline">ETA Europe</a> serves
         as a hub for European searchers, publishing country-specific guides on legal structures, tax optimization,
         funding sources, and cultural considerations.
       </p>
 
       <p className={bodyClass}>
         Recent content has covered the differences between UK limited companies and French SAS structures, how to
-        navigate German co-determination laws, the rise of family office capital in Spain, and best practices for
+        manage German co-determination laws, the rise of family office capital in Spain, and best practices for
         cross-border acquisitions within the EU.
       </p>
 
@@ -174,9 +174,9 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>@searchfunder</strong> – Official account sharing top discussions, new members, and acquisition announcements</li>
-        <li><strong>@StanfordCES</strong> – Stanford Center for Entrepreneurial Studies updates on search fund research and events</li>
-        <li><strong>@ETAEurope</strong> – European search fund news, events, and thought leadership</li>
+        <li><strong>@searchfunder</strong> - Official account sharing top discussions, new members, and acquisition announcements</li>
+        <li><strong>@StanfordCES</strong> - Stanford Center for Entrepreneurial Studies updates on search fund research and events</li>
+        <li><strong>@ETAEurope</strong> - European search fund news, events, and thought leadership</li>
         <li><strong>Individual searchers and operators</strong> who regularly share tactical insights from their searches and acquisitions (names change frequently as searchers complete their searches and become less active on social media)</li>
         <li><strong>Search fund investors</strong> like Pacific Lake Partners, Anacapa Partners, and family offices who share what they're seeing in the market</li>
         <li><strong>M&A advisors and brokers</strong> who post about market trends, valuation multiples, and buyer/seller dynamics</li>
@@ -357,7 +357,7 @@ export default function SearchFundNewslettersArticle() {
       <h3 className={h3Class}>Quarterly (Full day)</h3>
 
       <ul className={ulClass}>
-        <li>Complete a comprehensive review of new research publications (Stanford study updates, IESE findings)</li>
+        <li>Complete a thorough review of new research publications (Stanford study updates, IESE findings)</li>
         <li>Binge 5-10 hours of curated content on a specific topic (e.g., SaaS acquisitions, quality of earnings, first 100 days)</li>
         <li>Attend an in-person search fund conference or regional ETA meetup</li>
         <li>Reflect on what you've learned and how it's changed your search strategy or acquisition criteria</li>
@@ -369,7 +369,7 @@ export default function SearchFundNewslettersArticle() {
         <li><strong>Use a read-it-later app</strong> like Pocket or Instapaper to save articles for weekly deep-reading sessions</li>
         <li><strong>Create a searchable knowledge base</strong> in Notion, Evernote, or Obsidian with notes on key learnings, templates, and frameworks</li>
         <li><strong>Tag and categorize</strong> by topic (due diligence, financing, operations, sector-specific) so you can quickly reference when needed</li>
-        <li><strong>Share what you learn</strong> by writing LinkedIn posts or SearchFunder contributions – teaching forces clarity and builds your reputation</li>
+        <li><strong>Share what you learn</strong> by writing LinkedIn posts or SearchFunder contributions - teaching forces clarity and builds your reputation</li>
         <li><strong>Build a personal CRM</strong> for tracking the authors, searchers, and investors you want to follow up with or potentially reach out to</li>
       </ul>
 
@@ -382,17 +382,17 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Time-box your consumption</strong> – Don't let research become procrastination from uncomfortable activities like cold calling brokers</li>
-        <li><strong>Be ruthless about unsubscribing</strong> – If a newsletter hasn't provided value in three consecutive issues, cut it</li>
-        <li><strong>Focus on actionable insights</strong> – Ask "What will I do differently based on this?" after consuming content</li>
-        <li><strong>Prioritize primary sources</strong> – One conversation with an experienced searcher is worth ten blog posts about search funds</li>
+        <li><strong>Time-box your consumption</strong> - Don't let research become procrastination from uncomfortable activities like cold calling brokers</li>
+        <li><strong>Be ruthless about unsubscribing</strong> - If a newsletter hasn't provided value in three consecutive issues, cut it</li>
+        <li><strong>Focus on actionable insights</strong> - Ask "What will I do differently based on this?" after consuming content</li>
+        <li><strong>Prioritize primary sources</strong> - One conversation with an experienced searcher is worth ten blog posts about search funds</li>
         <li><strong>Schedule "no-content" days</strong> where you focus entirely on execution: calls, emails, financial modeling, meeting prep</li>
       </ul>
 
       <h2 className={h2Class}>Conclusion</h2>
 
       <p className={bodyClass}>
-        The search fund ecosystem has matured significantly over the past decade, creating a rich landscape of
+        The search fund ecosystem has matured significantly over the past decade, creating a rich market of
         content, research, and community resources. By strategically following newsletters like SearchFunder Weekly
         and Acquiring Minds, engaging with thought leaders on LinkedIn and Twitter, consuming academic research from
         Stanford and IESE, and participating in online communities, you'll build a competitive information advantage.
@@ -406,23 +406,51 @@ export default function SearchFundNewslettersArticle() {
       </p>
 
       <p className={bodyClass}>
-        Start with the core resources – Stanford research, SearchFunder community, and a few carefully chosen
-        newsletters – then expand based on your specific needs and interests. Most importantly, engage actively
+        Start with the core resources - Stanford research, SearchFunder community, and a few carefully chosen
+        newsletters - then expand based on your specific needs and interests. Most importantly, engage actively
         rather than passively consuming. Share your own learnings, ask questions, and contribute to the ecosystem.
         The search fund community is remarkably generous with knowledge and introductions for those who show up
         authentically and give back.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What are the best free resources for someone just starting to learn about search funds?</h3>
+      <p>
+        The three essential free resources are the Stanford GSB Search Fund Primer (available on the Center for Entrepreneurial Studies website), which provides the foundational framework for the model; the SearchFunder.com community forums, which offer real-time Q&amp;A from active searchers and investors; and the Think Like an Owner podcast, which features in-depth interviews with searcher-CEOs who have acquired and are operating businesses. Together, these cover the academic framework, practical tactical advice, and real-world case studies. For a structured learning path, start with our{" "}
+        <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">introduction to ETA</Link> and{" "}
+        <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link>.
+      </p>
+
+      <h3 className={h3Class}>How much time should I spend consuming ETA content during an active search?</h3>
+      <p>
+        Experienced searchers recommend a maximum of 5-7 hours per week on content consumption during an active search, split across daily (15-20 minutes for social media and quick updates), weekly (1-2 hours for newsletters and deep-dive articles), and monthly (3-4 hours for research reports and academic papers). According to feedback from the SearchFunder community, the most common productivity trap is using content consumption as a substitute for uncomfortable activities like cold-calling brokers or reaching out to business owners. The rule of thumb: for every hour spent reading about search funds, spend at least four hours on direct deal sourcing activities.
+      </p>
+
+      <h3 className={h3Class}>Are there ETA-focused communities for non-MBA searchers or self-funded searchers?</h3>
+      <p>
+        Yes, and the community is growing rapidly. SearchFunder.com explicitly welcomes self-funded searchers alongside traditional fund-backed searchers, many of the most active contributors are self-funded entrepreneurs. The Acquiring Minds podcast and newsletter focuses particularly on self-funded and independent searchers with practical, tactical content. On Twitter/X and LinkedIn, self-funded searchers share their journeys openly, often with more transparency than traditional searchers because they face fewer confidentiality constraints from institutional investors. Additionally, several regional ETA meetup groups and Slack communities have formed specifically for non-MBA and <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">independent sponsor</Link> entrepreneurs.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
-        <li>Stanford Graduate School of Business, Center for Entrepreneurial Studies – <a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds" className="text-apple-accent hover:underline">Search Fund Research</a></li>
-        <li>SearchFunder Community Platform – <a href="https://www.searchfunder.com" className="text-apple-accent hover:underline">www.searchfunder.com</a></li>
-        <li>IESE Business School (Barcelona) – European Search Fund Studies</li>
-        <li>BizBuySell Insight Reports – Quarterly Small Business M&A Market Data</li>
-        <li>Axial Network – Middle Market M&A Trends and Analysis</li>
-        <li>Association for Corporate Growth (ACG) – MiddleMarket.com Industry Coverage</li>
+        <li>Stanford Graduate School of Business, Center for Entrepreneurial Studies - <a href="https://www.gsb.stanford.edu/faculty-research/centers-initiatives/ces/research/search-funds" className="text-apple-accent hover:underline">Search Fund Research</a></li>
+        <li>SearchFunder Community Platform - <a href="https://www.searchfunder.com" className="text-apple-accent hover:underline">www.searchfunder.com</a></li>
+        <li>IESE Business School (Barcelona) - European Search Fund Studies</li>
+        <li>BizBuySell Insight Reports - Quarterly Small Business M&A Market Data</li>
+        <li>Axial Network - Middle Market M&A Trends and Analysis</li>
+        <li>Association for Corporate Growth (ACG) - MiddleMarket.com Industry Coverage</li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+        </ul>
     </article>
   );
 }

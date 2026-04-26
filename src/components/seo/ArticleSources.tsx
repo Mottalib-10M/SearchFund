@@ -16,7 +16,7 @@ export default function ArticleSources({ sources }: ArticleSourcesProps) {
         {sources.map((source, i) => (
           <li key={i} className="text-sm text-apple-gray-700">
             <span className="font-medium">{source.name}</span>
-            {" — "}
+            {" - "}
             {source.url ? (
               <a
                 href={source.url}

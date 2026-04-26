@@ -9,8 +9,8 @@ export default function EarnOutStructuresArticle() {
 
       <div className={bodyClass}>
         <p>
-          Earn-outs are one of the most powerful &mdash; and most
-          contentious &mdash; tools in acquisition deal structuring.
+          Earn-outs are one of the most powerful, and most
+          contentious, tools in acquisition deal structuring.
           When a buyer and seller disagree on the <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">value of a business</Link>,
           an earn-out allows the business itself to resolve the
           disagreement by tying a portion of the purchase price to
@@ -81,7 +81,7 @@ export default function EarnOutStructuresArticle() {
           EBITDA is the most common earn-out metric because it captures
           both revenue growth and operational efficiency. However,
           EBITDA is susceptible to buyer manipulation through
-          discretionary expenses &mdash; the buyer could load the
+          discretionary expenses, the buyer could load the
           business with corporate overhead allocations, management fees,
           or accelerated spending that depress EBITDA without reflecting
           genuine business deterioration. If using EBITDA, you must
@@ -98,7 +98,7 @@ export default function EarnOutStructuresArticle() {
           for businesses in growth mode where the buyer and seller agree
           that revenue growth is the primary value driver. The drawback
           is that revenue-based earn-outs do not incentivize
-          profitability &mdash; a seller might push for revenue at any
+          profitability, a seller might push for revenue at any
           cost (discounting, unprofitable contracts) to maximize their
           earn-out.
         </p>
@@ -132,7 +132,7 @@ export default function EarnOutStructuresArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Duration:</strong> Most earn-outs use measurement
-            periods of 1&ndash;3 years, with 2 years being the most
+            periods of 1-3 years, with 2 years being the most
             common. Shorter periods (12 months) are simpler but may
             not capture the full impact of growth initiatives. Longer
             periods (3+ years) increase uncertainty and the
@@ -255,7 +255,7 @@ export default function EarnOutStructuresArticle() {
         <p>
           Even well-structured earn-outs can generate disagreements
           about calculation methodology, accounting treatment, or
-          whether sandbox provisions were violated. A robust dispute
+          whether sandbox provisions were violated. A strong dispute
           resolution mechanism is essential.
         </p>
 
@@ -366,7 +366,7 @@ export default function EarnOutStructuresArticle() {
           recognize the fair value of contingent consideration (including
           earn-outs) at the acquisition date. Subsequent changes in the
           fair value of the earn-out liability are recognized in the
-          buyer&apos;s income statement &mdash; creating earnings
+          buyer&apos;s income statement, creating earnings
           volatility that can be material for smaller acquirers. If
           the earn-out is classified as equity (settled in shares rather
           than cash), it is not remeasured after initial recognition.
@@ -397,9 +397,9 @@ export default function EarnOutStructuresArticle() {
 
         <h3 className={h3Class}>Holdbacks</h3>
         <p>
-          A portion of the purchase price (typically 10&ndash;15%) is
+          A portion of the purchase price (typically 10-15%) is
           held in escrow and released to the seller after a defined
-          period (12&ndash;18 months), subject to adjustment for
+          period (12-18 months), subject to adjustment for
           indemnification claims or working capital true-ups. Holdbacks
           are simpler than earn-outs because they do not require
           ongoing performance measurement. They protect the buyer
@@ -413,7 +413,7 @@ export default function EarnOutStructuresArticle() {
           rather than retained by the buyer. Escrow provides the seller
           with greater confidence that the funds exist and will be
           released according to the agreed terms. Escrow agent fees
-          are typically $3K&ndash;$10K annually.
+          are typically $3K-$10K annually.
         </p>
 
         <h3 className={h3Class}>Seller notes</h3>
@@ -430,7 +430,7 @@ export default function EarnOutStructuresArticle() {
         <h3 className={h3Class}>Equity rollover</h3>
         <p>
           The seller retains a minority equity stake (typically
-          10&ndash;25%) in the business post-acquisition. This aligns
+          10-25%) in the business post-acquisition. This aligns
           the seller&apos;s interests with the buyer&apos;s long-term
           success and provides the seller with upside participation
           if the business grows. Equity rollover avoids the measurement
@@ -535,6 +535,32 @@ export default function EarnOutStructuresArticle() {
           while giving sellers the opportunity to realize full value
           for what they have built.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of the purchase price should an earn-out represent?</h3>
+        <p>
+          According to the American Bar Association's 2024 Private Target M&A Deal Points Study, earn-outs in private company acquisitions typically represent 10-30% of the total purchase price. For search fund acquisitions, the sweet spot is usually 15-25%. An earn-out below 10% often is not meaningful enough to bridge a valuation gap, while one above 35% signals that the buyer and seller have fundamentally different views of the business's value -- a red flag that should prompt deeper analysis of why the gap exists. In IESE's 2024 International Search Fund Study, deals with earn-outs in the 15-25% range had the highest completion rates and lowest post-closing dispute rates.
+        </p>
+
+        <h3 className={h3Class}>How often do earn-out disputes end up in litigation?</h3>
+        <p>
+          Earn-out disputes are disturbingly common. According to research from Shareholder Representative Services (SRS Acquiom), approximately 65-75% of deals with earn-outs experience some level of disagreement over the earn-out calculation or payment. However, only about 10-15% of these disputes escalate to formal arbitration or litigation, with most resolved through negotiation or the independent accountant mechanism specified in the{" "}
+          <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">purchase agreement</Link>. The most effective way to reduce dispute risk is to attach a sample earn-out calculation as an exhibit to the agreement, define every term with precision, and include clear sandbox provisions governing how the buyer must operate the business during the measurement period.
+        </p>
+
+        <h3 className={h3Class}>Should a search fund buyer prefer revenue-based or EBITDA-based earn-outs?</h3>
+        <p>
+          As a buyer, you generally have more control over revenue-based earn-outs because revenue is harder for either party to manipulate -- it sits at the top of the income statement above discretionary expenses. However, revenue-based earn-outs carry the risk that the seller pushes for revenue at any cost, accepting unprofitable contracts or deep discounts to hit targets. EBITDA-based earn-outs align incentives around profitability but give buyers more levers to manipulate results through overhead allocations, management fees, or accelerated spending. For most search fund deals, the pragmatic choice depends on the seller's post-closing role: if the seller is staying involved, use revenue (harder for the buyer to manipulate); if the seller is departing, use{" "}
+          <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">adjusted EBITDA</Link> with strong sandbox provisions.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>American Bar Association, <em>Private Target M&A Deal Points Study</em> (2024)</li>
+          <li>SRS Acquiom, <em>M&A Deal Terms Study: Earnout Trends</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

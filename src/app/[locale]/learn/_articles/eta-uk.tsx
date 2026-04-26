@@ -20,10 +20,11 @@ export default function ETAUKArticle() {
           to acquire and operate businesses across the country.
         </p>
 
-        <h2 className={h2Class}>The UK market landscape</h2>
+        <h2 className={h2Class}>The UK market environment</h2>
         <p>
-          The UK is home to roughly 5.5 million SMEs, which account for over 99%
-          of all private-sector businesses and employ around 16.7 million people.
+          According to the UK Department for Business and Trade, the UK is home
+          to roughly 5.5 million SMEs, which account for over 99% of all
+          private-sector businesses and employ around 16.7 million people.
           A significant proportion of these businesses are owned by founders and
           entrepreneurs who are approaching retirement age. Industry estimates
           suggest that over one million business owners in the UK are over the age
@@ -77,8 +78,8 @@ export default function ETAUKArticle() {
         </p>
         <h3 className={h3Class}>Senior debt</h3>
         <p>
-          UK clearing banks&mdash;including NatWest, HSBC, Lloyds, and Barclays&mdash;all
-          have dedicated SME acquisition finance teams. Typical leverage for a
+          UK clearing banks, including NatWest, HSBC, Lloyds, and Barclays, all
+          have dedicated SME acquisition finance teams. Typical use for a
           search fund acquisition ranges from 2.5x to 4x EBITDA, depending on the
           quality of the business, sector, and the acquirer&apos;s experience. Interest
           rates are generally competitive, and loan tenors of five to seven years
@@ -92,7 +93,7 @@ export default function ETAUKArticle() {
           scheme provides a government-backed guarantee of up to 75% of the loan
           amount for viable businesses that lack sufficient collateral. The Start
           Up Loans program, while primarily aimed at new businesses, can
-          occasionally be leveraged for acquisition scenarios. The BBB also
+          occasionally be used for acquisition scenarios. The BBB also
           supports a network of regional funds and lending programs that can
           complement senior debt.
         </p>
@@ -100,7 +101,7 @@ export default function ETAUKArticle() {
         <h3 className={h3Class}>Seller financing</h3>
         <p>
           Deferred consideration or vendor loans are common in UK business
-          transfers. Sellers typically accept 10&ndash;25% of the purchase price as
+          transfers. Sellers typically accept 10-25% of the purchase price as
           deferred payments over two to three years. Earn-out arrangements tied
           to post-completion performance are also widely used, particularly when
           there is a gap between buyer and seller valuation expectations.
@@ -123,7 +124,7 @@ export default function ETAUKArticle() {
           for investors when applicable.
         </p>
         <ul className={ulClass}>
-          <li><strong>EIS:</strong> Investors can claim 30% income tax relief on investments up to &pound;1 million per year. Capital gains tax exemption applies if shares are held for at least three years. Loss relief is available if the investment fails.</li>
+          <li><strong>EIS:</strong> Under HMRC rules, investors can claim 30% income tax relief on investments up to &pound;1 million per year. Capital gains tax exemption applies if shares are held for at least three years. Loss relief is available if the investment fails.</li>
           <li><strong>SEIS:</strong> Offers 50% income tax relief on investments up to &pound;200,000 per year, plus capital gains tax exemption. Targeted at earlier-stage companies with gross assets under &pound;350,000.</li>
           <li><strong>Qualification criteria:</strong> The target business must be a qualifying trade, have fewer than 250 employees (EIS) or 25 employees (SEIS), and meet gross asset thresholds. Many search fund targets will qualify for EIS but not SEIS.</li>
           <li><strong>Structuring considerations:</strong> EIS relief is only available on new shares issued by the operating company, not on secondary share purchases. This requires careful structuring to ensure investors subscribe for new equity rather than purchasing existing shares from the seller.</li>
@@ -147,7 +148,7 @@ export default function ETAUKArticle() {
 
         <h2 className={h2Class}>Deal sourcing in the UK</h2>
         <p>
-          For a comprehensive overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
+          For a thorough overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
         </p>
         <h3 className={h3Class}>Business brokers and intermediaries</h3>
         <p>
@@ -181,8 +182,8 @@ export default function ETAUKArticle() {
         <h2 className={h2Class}>Labour and employment law: TUPE</h2>
         <p>
           The Transfer of Undertakings (Protection of Employment) Regulations
-          2006, commonly known as TUPE, is one of the most important legal
-          considerations in any UK business acquisition. TUPE automatically
+          2006 (SI 2006/246), commonly known as TUPE, is one of the most
+          important legal considerations in any UK business acquisition. TUPE automatically
           transfers employees from the seller to the buyer on their existing
           terms and conditions. Understanding TUPE is essential for search fund
           entrepreneurs.
@@ -241,7 +242,7 @@ export default function ETAUKArticle() {
           <li><strong>Accountants and tax advisors:</strong> A qualified chartered accountant with experience in business transfers can advise on financial due diligence, tax structuring (including EIS eligibility), and post-completion reporting.</li>
           <li><strong>Corporate finance advisors:</strong> For larger transactions, a corporate finance advisor can help negotiate terms, structure the deal, and manage the process.</li>
           <li><strong>Insurance brokers:</strong> Warranty and indemnity (W&amp;I) insurance is increasingly common in UK SME transactions, providing additional protection for the buyer.</li>
-          <li><strong>Search fund investors:</strong> UK-based search fund investors bring not only capital but also operational expertise, board experience, and connections to other portfolio companies.</li>
+          <li><strong>Search fund investors:</strong> UK-based search fund investors bring capital along with operational expertise, board experience, and connections to other portfolio companies.</li>
         </ul>
 
         <h2 className={h2Class}>Typical deal parameters</h2>
@@ -267,8 +268,42 @@ export default function ETAUKArticle() {
           <li><strong>HMRC compliance:</strong> Corporation tax, PAYE, VAT, and other tax obligations require careful management from day one.</li>
           <li><strong>Pension auto-enrollment:</strong> All UK employers must enrol eligible employees into a qualifying workplace pension scheme.</li>
           <li><strong>Employment tribunal risk:</strong> UK employment tribunals provide employees with a low-cost route to challenge unfair treatment. Proper HR processes are essential.</li>
-          <li><strong>Growth opportunities:</strong> The UK&apos;s deep capital markets, extensive professional services infrastructure, and large domestic market provide excellent conditions for scaling an acquired business through organic growth and add-on acquisitions.</li>
+          <li><strong>Growth opportunities:</strong> The UK&apos;s deep capital markets, extensive professional services infrastructure, and large domestic market provide excellent conditions for scaling an acquired business through organic growth and <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> add-on acquisitions.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What makes the UK attractive for search fund acquisitions?</h3>
+        <p>
+          The UK offers an English-speaking market accessible to international
+          searchers, a mature M&amp;A advisory ecosystem, sophisticated business
+          brokerage market, favorable company law (Ltd structure), relatively
+          low regulatory burden, and a large pool of 5.5 million SMEs. London
+          also hosts a growing <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">search fund investor</Link> community and serves as
+          the hub for pan-European ETA conferences.
+        </p>
+
+        <h3 className={h3Class}>What financing options are available for UK business acquisitions?</h3>
+        <p>
+          Financing options include British Business Bank-backed programs
+          (Enterprise Finance Guarantee), high street bank lending (Lloyds,
+          HSBC, NatWest, Barclays), alternative lenders, seller financing,
+          mezzanine providers, and EIS/SEIS tax relief for qualifying
+          investments. The UK lacks an SBA-equivalent dedicated acquisition
+          program, which makes the financing structure more creative than in
+          the US. See our <Link href="/learn/government-financing-programs-global" className="text-apple-accent hover:underline">global comparison of government financing</Link> for
+          full details.
+        </p>
+
+        <h3 className={h3Class}>How active is the UK search fund ecosystem?</h3>
+        <p>
+          The UK has one of Europe&apos;s most active search fund ecosystems,
+          with 15 to 20 new search fund formations per year. Key hubs include
+          London Business School, Cambridge Judge, and Oxford Sa&iuml;d. The
+          country hosts the annual European Search Fund Conference and has a
+          growing community of former-searcher investors who actively back the
+          next generation of acquisition entrepreneurs.
+        </p>
       </div>
     </article>
   );

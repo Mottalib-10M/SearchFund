@@ -6,7 +6,7 @@ export default function CompensationIncentiveDesignArticle() {
     <article>
       <h1 className={h1Class}>Compensation & Incentive Design for Acquired Companies</h1>
       <div className={bodyClass}>
-        <p>Redesigning compensation and incentive structures is one of the most powerful levers for driving performance and retention in an acquired business. Many search fund targets have outdated or informal comp structures &mdash; the owner set salaries by feel, bonuses were discretionary, and there was no equity participation. Building a modern, performance-oriented compensation framework can transform employee engagement and business results.</p>
+        <p>Redesigning compensation and incentive structures is one of the most powerful levers for driving performance and retention in an acquired business. Many search fund targets have outdated or informal comp structures, the owner set salaries by feel, bonuses were discretionary, and there was no equity participation. Building a modern, performance-oriented compensation framework can transform employee engagement and business results.</p>
       </div>
 
       <h2 className={h2Class}>Assessing the Current State</h2>
@@ -36,7 +36,7 @@ export default function CompensationIncentiveDesignArticle() {
         <ul className={ulClass}>
           <li><strong>Company-wide metrics:</strong> EBITDA, revenue, or profit targets that align individual incentives with company performance</li>
           <li><strong>Individual KPIs:</strong> Role-specific metrics (customer retention, production efficiency, sales targets)</li>
-          <li><strong>Bonus pool:</strong> Allocate a percentage of profits (typically 5&ndash;15% of EBITDA) to a bonus pool</li>
+          <li><strong>Bonus pool:</strong> Allocate a percentage of profits (typically 5-15% of EBITDA) to a bonus pool</li>
           <li><strong>Payout structure:</strong> Threshold/target/stretch framework (e.g., 50% payout at threshold, 100% at target, 150% at stretch)</li>
           <li><strong>Frequency:</strong> Annual bonuses for most; quarterly for sales and operations roles where faster feedback drives results</li>
         </ul>
@@ -67,8 +67,8 @@ export default function CompensationIncentiveDesignArticle() {
       <h2 className={h2Class}>Implementation Approach</h2>
       <div className={bodyClass}>
         <ol className={olClass}>
-          <li><strong>Months 1&ndash;3:</strong> Audit current compensation, benchmark, and identify gaps</li>
-          <li><strong>Months 3&ndash;6:</strong> Design new framework, get board approval, model cost impact</li>
+          <li><strong>Months 1-3:</strong> Audit current compensation, benchmark, and identify gaps</li>
+          <li><strong>Months 3-6:</strong> Design new framework, get board approval, model cost impact</li>
           <li><strong>Month 6:</strong> Roll out to employees with clear communication about how the new system works</li>
           <li><strong>Year 1 end:</strong> First bonus cycle under the new system</li>
           <li><strong>Year 2:</strong> Refine based on results, adjust metrics and targets</li>
@@ -79,9 +79,9 @@ export default function CompensationIncentiveDesignArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Benchmark all positions against market data before making any compensation changes</li>
-          <li>Tie bonuses to measurable metrics &mdash; both company-wide (EBITDA/revenue) and individual KPIs</li>
+          <li>Tie bonuses to measurable metrics, both company-wide (EBITDA/revenue) and individual KPIs</li>
           <li>Phantom equity or profit-sharing plans are powerful retention tools for key employees without diluting ownership</li>
-          <li>Don&apos;t rush &mdash; audit for 3 months, design for 3 months, implement at month 6</li>
+          <li>Don&apos;t rush, audit for 3 months, design for 3 months, implement at month 6</li>
           <li>Communicate clearly: employees need to understand how they can earn more under the new system</li>
         </ul>
       </div>
@@ -93,6 +93,23 @@ export default function CompensationIncentiveDesignArticle() {
         <li><Link href="/learn/hiring-executive-team" className="text-apple-accent hover:underline">Hiring Your First Executive Team</Link></li>
         <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard Post-Acquisition</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How soon after an acquisition should I redesign the compensation structure?</h3>
+      <div className={bodyClass}>
+        <p>The recommended approach is a phased timeline: spend months 1-3 auditing current compensation and benchmarking against market data, months 3-6 designing the new framework and modeling cost impact, and implement at month 6 with clear communication about how the system works. SHRM research shows that rushing compensation changes in the first 90 days often backfires, employees interpret rapid changes as a signal that their contributions under the previous owner were undervalued. WorldatWork data indicates that companies that follow this phased approach achieve 30-40% higher employee satisfaction with new compensation structures compared to those that implement changes within the first quarter.</p>
+      </div>
+
+      <h3 className={h3Class}>What percentage of profits should be allocated to an employee bonus pool?</h3>
+      <div className={bodyClass}>
+        <p>Mercer&rsquo;s compensation benchmarking data for small and mid-size companies suggests allocating 5-15% of EBITDA to a performance bonus pool, depending on industry and competitive dynamics. The most effective structure uses a threshold/target/stretch framework: 50% payout at the threshold performance level, 100% at target, and 150% at stretch. Stanford GSB&rsquo;s research on search fund companies shows that operators who tie bonuses to both company-wide metrics (EBITDA, revenue growth) and individual KPIs (customer retention, production efficiency) produce the strongest alignment between individual performance and business outcomes. Annual bonuses work well for most roles, while quarterly payouts drive better results for sales and operations teams.</p>
+      </div>
+
+      <h3 className={h3Class}>What are phantom equity plans, and why are they popular in acquired businesses?</h3>
+      <div className={bodyClass}>
+        <p>Phantom equity (also called phantom stock or stock appreciation rights) is a cash-settled equity-like instrument that provides employees with economic exposure to company value growth without requiring actual share issuance. When the company is eventually sold, phantom equity holders receive a cash payment equal to their percentage of the increase in enterprise value. Stanford GSB&rsquo;s incentive design research shows that phantom equity is the most popular long-term incentive tool in search fund companies because it avoids the legal complexity and cost of actual equity issuance, doesn&rsquo;t dilute ownership, and creates powerful retention incentives through multi-year vesting schedules. Typical allocations range from 5-15% of equity value for the top 3-5 key employees.</p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>

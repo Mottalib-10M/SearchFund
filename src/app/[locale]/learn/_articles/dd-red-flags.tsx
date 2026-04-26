@@ -7,7 +7,7 @@ export default function DDRedFlagsArticle() {
       <h1 className={h1Class}>Red Flags in Due Diligence: When to Walk Away</h1>
 
       <p className={bodyClass}>
-        Every searcher dreams of finding that perfect acquisition target. But the most valuable skill in the search fund journey isn't recognizing great opportunities—it's knowing when to walk away from bad ones. Due diligence exists precisely to uncover issues before they become your problems, yet many first-time searchers fall into the trap of trying to rationalize away red flags rather than heeding their warnings.
+        Every searcher dreams of finding that perfect acquisition target. But the most valuable skill in the search fund journey isn't recognizing great opportunities - it's knowing when to walk away from bad ones. Due diligence exists precisely to uncover issues before they become your problems, yet many first-time searchers fall into the trap of trying to rationalize away red flags rather than heeding their warnings.
       </p>
 
       <p className={bodyClass}>
@@ -30,7 +30,7 @@ export default function DDRedFlagsArticle() {
       </p>
 
       <p className={bodyClass}>
-        The best searchers maintain what one Stanford professor calls "disciplined opportunism"—the ability to pursue opportunities aggressively while maintaining strict quality standards. They understand that walking away from a bad deal isn't failure; it's the most important form of risk management available to them.
+        The best searchers maintain what one Stanford professor calls "disciplined opportunism" - the ability to pursue opportunities aggressively while maintaining strict quality standards. They understand that walking away from a bad deal isn't failure; it's the most important form of risk management available to them.
       </p>
 
       <h2 className={h2Class}>Financial Red Flags</h2>
@@ -113,7 +113,7 @@ export default function DDRedFlagsArticle() {
       <h3 className={h3Class}>Key Person Dependency</h3>
 
       <p className={bodyClass}>
-        Nearly every small business has some degree of key person risk—after all, you're buying it because the current owner has built something valuable. But extreme dependency on one or two individuals can make a business untransferable, regardless of price or terms.
+        Nearly every small business has some degree of key person risk - after all, you're buying it because the current owner has built something valuable. But extreme dependency on one or two individuals can make a business untransferable, regardless of price or terms.
       </p>
 
       <p className={bodyClass}>
@@ -163,7 +163,7 @@ export default function DDRedFlagsArticle() {
       </ul>
 
       <p className={bodyClass}>
-        During due diligence, request turnover data by role and tenure. High turnover among long-tenured employees particularly warrants investigation—these departures often indicate that people who knew the business best chose to leave rather than stay through transition.
+        During due diligence, request turnover data by role and tenure. High turnover among long-tenured employees particularly warrants investigation - these departures often indicate that people who knew the business best chose to leave rather than stay through transition.
       </p>
 
       <h2 className={h2Class}>Legal Red Flags</h2>
@@ -214,7 +214,7 @@ export default function DDRedFlagsArticle() {
       <h3 className={h3Class}>Intellectual Property Disputes</h3>
 
       <p className={bodyClass}>
-        For many small businesses, intellectual property represents a core asset—whether patents, trademarks, trade secrets, or proprietary processes. IP disputes or unclear ownership can threaten the entire value proposition.
+        For many small businesses, intellectual property represents a core asset - whether patents, trademarks, trade secrets, or proprietary processes. IP disputes or unclear ownership can threaten the entire value proposition.
       </p>
 
       <p className={bodyClass}>
@@ -238,7 +238,7 @@ export default function DDRedFlagsArticle() {
       <h3 className={h3Class}>Customer Concentration Risk</h3>
 
       <p className={bodyClass}>
-        While some degree of customer concentration is normal in small businesses, extreme dependence on one or two customers creates existential risk. The standard threshold is the "20% rule"—if any single customer represents more than 20% of revenue, you have concentration risk that requires mitigation.
+        While some degree of customer concentration is normal in small businesses, extreme dependence on one or two customers creates existential risk. The standard threshold is the "20% rule" - if any single customer represents more than 20% of revenue, you have concentration risk that requires mitigation.
       </p>
 
       <p className={bodyClass}>
@@ -328,7 +328,7 @@ export default function DDRedFlagsArticle() {
         <li>Create a pre-mortem: imagine the deal failed spectacularly and list why</li>
         <li>Consult investors and advisors who aren't emotionally invested in this specific deal</li>
         <li>Remember that the cost of a bad acquisition far exceeds due diligence expenses</li>
-        <li>View walking away as success—you identified problems before they became yours</li>
+        <li>View walking away as success - you identified problems before they became yours</li>
       </ul>
 
       <h2 className={h2Class}>How to Negotiate Through Red Flags vs. Walk Away</h2>
@@ -383,7 +383,7 @@ export default function DDRedFlagsArticle() {
       <h2 className={h2Class}>Building Your Kill Criteria</h2>
 
       <p className={bodyClass}>
-        The best time to decide when you'll walk away is before you're emotionally invested in a specific deal. Experienced searchers develop clear "kill criteria"—non-negotiable standards that, if violated, automatically end the pursuit.
+        The best time to decide when you'll walk away is before you're emotionally invested in a specific deal. Experienced searchers develop clear "kill criteria" - non-negotiable standards that, if violated, automatically end the pursuit.
       </p>
 
       <p className={bodyClass}>
@@ -423,7 +423,7 @@ export default function DDRedFlagsArticle() {
       </ol>
 
       <p className={bodyClass}>
-        One successful searcher walked away from three deals during due diligence before closing on the fourth. Each failed deal taught valuable lessons about screening, due diligence, and negotiation. The business she ultimately acquired performed exceptionally well, and she credits the discipline to walk away from the first three as crucial to her success.
+        One successful searcher walked away from three deals during due diligence before closing on the fourth. Each failed deal taught valuable lessons about screening, due diligence, and negotiation. The business she ultimately acquired performed exceptionally well, and she credits the discipline to walk away from the first three as critical to her success.
       </p>
 
       <p className={bodyClass}>
@@ -436,15 +436,35 @@ export default function DDRedFlagsArticle() {
           <li>• Walking away from bad deals is essential to long-term success; don't fall into the sunk cost trap</li>
           <li>• Financial red flags include declining revenue, margin compression, aggressive add-backs, and cash/accrual discrepancies</li>
           <li>• Operational issues like key person dependency, deferred maintenance, and high turnover signal deeper problems</li>
-          <li>• Legal red flags—litigation, regulatory issues, IP disputes—create risk beyond financial exposure</li>
+          <li>• Legal red flags - litigation, regulatory issues, IP disputes - create risk beyond financial exposure</li>
           <li>• Customer concentration, declining retention, and at-risk contracts threaten future revenue</li>
           <li>• Cultural toxicity can make an otherwise good business untransferable</li>
           <li>• Establish kill criteria before due diligence to maintain objectivity under pressure</li>
           <li>• Some red flags can be negotiated through price, earnouts, or escrows; others require walking away</li>
-          <li>• Seller dishonesty is an automatic disqualifier—assume you haven't found all misrepresentations</li>
+          <li>• Seller dishonesty is an automatic disqualifier - assume you haven't found all misrepresentations</li>
           <li>• Document lessons from failed deals to improve screening and avoid repeating mistakes</li>
         </ul>
       </div>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What are the most common red flags that cause searchers to walk away from a deal?</h3>
+
+      <p className={bodyClass}>
+        Stanford GSB&rsquo;s search fund research and data from the International Business Brokers Association identify five red flags that most frequently lead to deal termination: quality of earnings findings showing EBITDA more than 15-20% below seller representations, single-customer revenue concentration above 30% without long-term contracts, material seller misrepresentations discovered during diligence, key person dependency where customer relationships are untransferable, and structural revenue decline over two or more consecutive years. Pacific Lake Partners&rsquo; due diligence data shows that approximately 40-50% of deals that reach the LOI stage ultimately fail to close, with financial discrepancies and customer concentration being the two most common causes. The searchers with the best long-term outcomes are those who maintain strict kill criteria and walk away rather than rationalizing problematic findings.
+      </p>
+
+      <h3 className={h3Class}>How do I distinguish between red flags I can negotiate through and ones that require walking away?</h3>
+
+      <p className={bodyClass}>
+        Harvard Business Review&rsquo;s M&amp;A due diligence research recommends a simple framework: negotiate when the issue is quantifiable, controllable, temporary, and mitigatable; walk away when it involves fundamental business model problems, untransferable relationships, ethical or legal violations, or seller dishonesty. Quantifiable problems like deferred maintenance or working capital shortfalls can be addressed through purchase price adjustments, earnout structures, or escrow holdbacks. The Search Fund Accelerator&rsquo;s training materials emphasize that seller dishonesty is an automatic disqualifier, if you catch the seller in significant misrepresentations during diligence, assume there are more you haven&rsquo;t found. Stanford GSB&rsquo;s data shows that searchers who proceed with &ldquo;fixable&rdquo; fundamental red flags (structural decline, cultural toxicity, broken unit economics) have significantly worse outcomes than those who walk away and find better opportunities.
+      </p>
+
+      <h3 className={h3Class}>What should I do immediately after deciding to walk away from a deal in due diligence?</h3>
+
+      <p className={bodyClass}>
+        Stanford GSB&rsquo;s search fund primer recommends a structured post-walk-away process to maintain momentum and extract maximum learning value from the experience. First, document detailed lessons learned within 48 hours while the experience is fresh: which red flags did you miss during initial screening, what would you do differently, and how can you improve your evaluation process? Second, debrief with investors immediately, Pacific Lake Partners&rsquo; investor data shows that experienced search fund investors respect disciplined deal selection and will reinforce your decision. Third, re-engage your pipeline within one week: the IBBA&rsquo;s market research indicates that brokers and sellers who receive professional, courteous walk-away communications often provide referrals to other opportunities. One key insight from experienced searchers is that maintaining a positive relationship with the seller even after walking away can yield future opportunities, as sellers sometimes return with adjusted terms or refer other businesses.
+      </p>
 
       <h2 className={h2Class}>Sources</h2>
 
@@ -463,7 +483,7 @@ export default function DDRedFlagsArticle() {
         <li>
           International Business Brokers Association (IBBA),{" "}
           <a
-            href="https://www.ibba.org/market-research/"
+            href="https://www.ibba.org/resource-center/industry-research/"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
@@ -485,7 +505,7 @@ export default function DDRedFlagsArticle() {
         <li>
           Pacific Lake Partners,{" "}
           <a
-            href="https://www.pacificlakepartners.com/resources"
+            href="https://www.pacificlake.com/insights"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
@@ -526,6 +546,16 @@ export default function DDRedFlagsArticle() {
           </Link>
         </p>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">Financial Due Diligence: What to Look For</Link></li>
+          <li><Link href="/learn/operational-due-diligence" className="text-apple-accent hover:underline">Operational Due Diligence for SME Acquisitions</Link></li>
+          <li><Link href="/learn/commercial-due-diligence" className="text-apple-accent hover:underline">Commercial Due Diligence: Market, Competition &amp; Customers</Link></li>
+          <li><Link href="/learn/customer-concentration-risk" className="text-apple-accent hover:underline">Customer Concentration Risk: How Much Is Too Much?</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors: Lawyers, Accountants &amp; Brokers</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process: Timeline, Documents &amp; Wire Transfers</Link></li>
+        </ul>
     </article>
   );
 }

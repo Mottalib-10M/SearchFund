@@ -5,7 +5,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
   return (
     <article>
       <h1 className={h1Class}>
-        Asset Purchase vs. Stock Purchase: Comprehensive Comparison
+        Asset Purchase vs. Stock Purchase: Thorough Comparison
       </h1>
       <p className="text-sm text-apple-gray-500 mt-3">14 min read</p>
 
@@ -31,7 +31,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
         </p>
         <p>
           Asset purchases are the most common structure for small business
-          acquisitions. According to SBA lending data, approximately 70&ndash;80%
+          acquisitions. According to SBA lending data, approximately 70-80%
           of SBA-financed acquisitions are structured as asset purchases.
         </p>
 
@@ -39,8 +39,8 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
         <p>
           In a stock purchase, the buyer acquires the ownership interests
           (shares, membership units, or partnership interests) of the selling
-          entity. The business entity itself &mdash; including all assets,
-          liabilities, contracts, and obligations &mdash; transfers to the new
+          entity. The business entity itself: including all assets,
+          liabilities, contracts, and obligations, transfers to the new
           owner. Nothing changes about the entity except who owns it.
         </p>
         <p>
@@ -63,13 +63,13 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
           assets, meaning they can depreciate or amortize the full purchase
           price over time. This creates significant tax deductions in the years
           following the acquisition. For a $5M acquisition, the tax savings from
-          a stepped-up basis can exceed $500K&ndash;$1M over the depreciation
+          a stepped-up basis can exceed $500K-$1M over the depreciation
           period.
         </p>
         <p>
           <strong>Seller prefers stock purchase:</strong> In a stock purchase,
           the seller pays capital gains tax on the difference between their
-          basis in the stock and the sale price &mdash; a single level of tax.
+          basis in the stock and the sale price, a single level of tax.
           In an asset purchase of a C corporation, the seller faces double
           taxation: the corporation pays tax on the asset sale, then the
           shareholders pay tax again on the liquidating distribution. For
@@ -93,7 +93,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
         </p>
         <p>
           <strong>Stock purchase risk:</strong> The buyer acquires the entity
-          &ldquo;warts and all,&rdquo; including all liabilities &mdash; even
+          &ldquo;warts and all,&rdquo; including all liabilities, even
           those that were unknown at closing. This makes thorough{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence
@@ -198,7 +198,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
           implications for both parties:
         </p>
         <ul className={ulClass}>
-          <li><strong>Tangible assets:</strong> Allocated at fair market value and depreciated over their useful lives (5&ndash;39 years depending on asset class)</li>
+          <li><strong>Tangible assets:</strong> Allocated at fair market value and depreciated over their useful lives (5-39 years depending on asset class)</li>
           <li><strong>Intangible assets:</strong> Customer lists, non-competes, and other identified intangibles are amortized over 15 years</li>
           <li><strong>Goodwill:</strong> The residual amount (purchase price minus fair market value of all identified assets) is also amortized over 15 years</li>
         </ul>
@@ -223,7 +223,7 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
           with different tax and legal frameworks:
         </p>
         <ul className={ulClass}>
-          <li><strong>France:</strong> Share purchases (cession de parts/actions) are more common due to transfer tax advantages. Asset purchases (cession de fonds de commerce) trigger registration duties of 3&ndash;5%. See{" "}
+          <li><strong>France:</strong> Share purchases (cession de parts/actions) are more common due to transfer tax advantages. Asset purchases (cession de fonds de commerce) trigger registration duties of 3-5%. See{" "}
             <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
               ETA in France
             </Link>.</li>
@@ -244,15 +244,40 @@ export default function AssetPurchaseVsStockPurchaseArticle() {
             <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
               due diligence
             </Link>{" "}
-            &mdash; the difference can be hundreds of thousands of dollars</li>
+            the difference can be hundreds of thousands of dollars</li>
           <li>If the seller insists on a stock deal, negotiate a price adjustment to reflect the buyer&rsquo;s lost tax benefit</li>
           <li>For S corps, always evaluate the 338(h)(10) election as a potential compromise</li>
           <li>Address the structure early in{" "}
             <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
               LOI negotiations
             </Link>{" "}
-            &mdash; changing structure after signing creates friction</li>
+            changing structure after signing creates friction</li>
           <li>Engage tax counsel and your CPA before finalizing the structure</li>
+        </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Which structure do SBA lenders prefer for acquisitions?</h3>
+        <p>
+          SBA lenders overwhelmingly prefer asset purchases. According to SBA lending data, approximately 70-80% of SBA-financed acquisitions are structured as asset deals. The primary reasons are cleaner collateral documentation (the lender takes a first lien on specifically identified assets), avoidance of successor liability risk, and simpler loan administration. If your deal requires a stock purchase (for example, due to non-transferable licenses or contracts), you will need to find an SBA lender with experience in stock deals and should expect additional documentation requirements, including more extensive representations and warranties and potentially higher equity injection requirements.
+        </p>
+
+        <h3 className={h3Class}>How does the 338(h)(10) election affect both buyer and seller?</h3>
+        <p>
+          The IRC Section 338(h)(10) election allows a stock purchase to be treated as an asset purchase for tax purposes, but it requires mutual consent. For buyers, the benefit is significant: a stepped-up tax basis in the acquired assets that generates depreciation and amortization deductions worth $500K-$1M+ over the recovery period on a typical $5M-$15M acquisition. For S corporation sellers, the election triggers tax as if assets were sold (ordinary income on recaptured depreciation, capital gains on the remainder), which can increase their tax bill by 5-15% compared to a straight stock sale. According to the American Bar Association&rsquo;s M&amp;A Committee, the 338(h)(10) election has become the default structure for S corporation search fund acquisitions, with the buyer typically compensating the seller through a purchase price adjustment of 3-8% to offset the seller&rsquo;s additional tax burden.
+        </p>
+
+        <h3 className={h3Class}>What happens to employee benefits in each structure?</h3>
+        <p>
+          In an asset purchase, employees are technically terminated by the seller and rehired by the buyer. This resets benefits enrollment periods, PTO accrual, and tenure-based benefits. According to the Society for Human Resource Management (SHRM), this disruption is the single largest source of employee anxiety during acquisitions. The buyer must establish new benefit plans or adopt the seller&rsquo;s plans, and there is typically a gap in coverage that must be managed carefully to retain key talent. In a stock purchase, employment continues uninterrupted, employees keep their tenure, benefit elections, and accrued PTO. For a deeper look at managing this transition, see our{" "}
+          <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition guide</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>American Bar Association, Mergers &amp; Acquisitions Committee &mdash; <em>Asset vs. Stock Acquisitions: Tax and Legal Considerations</em>. Thorough analysis of structural trade-offs and the 338(h)(10) election.</li>
+          <li>U.S. Small Business Administration &mdash; <em>SBA Standard Operating Procedures for Acquisition Lending</em>, SBA.gov. Guidance on preferred deal structures for government-backed acquisition financing.</li>
+          <li>Internal Revenue Service &mdash; <em>IRC Section 1060 (Purchase Price Allocation)</em> and <em>IRC Section 338(h)(10) (Election for S Corporation Acquisitions)</em>. Statutory authority governing tax treatment of asset and stock purchases.</li>
         </ul>
       </div>
     </article>

@@ -13,20 +13,21 @@ export default function WritingAPPMArticle() {
           search fund raise. It serves two purposes simultaneously: it is a legal
           disclosure document that protects you and your investors, and it is a
           marketing document that convinces sophisticated <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">investors</Link> to back you
-          with their capital. Getting it right is essential &mdash; a well-crafted
+          with their capital. Getting it right is essential, a well-crafted
           PPM signals professionalism, thoroughness, and credibility.
         </p>
 
         <h2 className={h2Class}>What a PPM is (and is not)</h2>
         <p>
-          A PPM is a securities offering document used in private placements &mdash;
+          A PPM is a securities offering document used in private placements , 
           offerings that are exempt from full SEC registration (in the US) or
           equivalent prospectus requirements (in the EU). It discloses material
           information about the investment opportunity so that investors can make
           an informed decision. It is <strong>not</strong> a business plan for
           a specific company. You are raising capital to <em>search</em> for an
           acquisition, so the PPM describes you, your strategy, the fund
-          structure, and the risks &mdash; not a specific target.
+          structure, and the risks, not a specific target. For a complete
+          overview of the documents involved in a search fund raise, see our guide to <Link href="/learn/search-fund-legal-documents" className="text-apple-accent hover:underline">search fund legal documents</Link>.
         </p>
 
         <h2 className={h2Class}>Section-by-section breakdown</h2>
@@ -43,7 +44,7 @@ export default function WritingAPPMArticle() {
 
         <h3 className={h3Class}>2. Executive summary</h3>
         <p>
-          This is the most important section &mdash; many investors will decide
+          This is the most important section, many investors will decide
           whether to read further based on these two pages. Cover the following
           in concise prose:
         </p>
@@ -77,7 +78,7 @@ export default function WritingAPPMArticle() {
           <li><strong>Geography:</strong> Define your search radius and explain the rationale. European searchers should specify countries and discuss cross-border considerations.</li>
           <li><strong>Size criteria:</strong> Revenue range, EBITDA range, and employee count. Typical traditional search fund targets have &euro;1M-&euro;5M EBITDA.</li>
           <li><strong>Business characteristics:</strong> Recurring revenue, low customer concentration, defensible market position, fragmented industry, secular growth tailwinds.</li>
-          <li><strong>Value creation plan:</strong> How you intend to grow the acquired business &mdash; organic growth, add-on acquisitions, operational improvements, technology adoption.</li>
+          <li><strong>Value creation plan:</strong> How you intend to grow the acquired business, organic growth, add-on acquisitions, operational improvements, technology adoption.</li>
         </ul>
 
         <h3 className={h3Class}>5. Fund economics &amp; terms</h3>
@@ -91,7 +92,7 @@ export default function WritingAPPMArticle() {
           <li><strong>Searcher equity:</strong> The percentage reserved for the searcher(s), vesting schedule, and any performance-based acceleration. For typical ranges, see <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">searcher compensation</Link>.</li>
           <li><strong>Investor rights:</strong> Right of first refusal on acquisition equity, board representation, information rights, and approval thresholds.</li>
           <li><strong>Management fees:</strong> Monthly salary for the searcher(s) during the search phase, typically &euro;3,000-&euro;6,000 per month.</li>
-          <li><strong>Wind-down provisions:</strong> What happens if no acquisition is completed &mdash; return of remaining capital, timeline, and process.</li>
+          <li><strong>Wind-down provisions:</strong> What happens if no acquisition is completed, return of remaining capital, timeline, and process.</li>
         </ul>
 
         <h3 className={h3Class}>6. Risk factors</h3>
@@ -105,7 +106,7 @@ export default function WritingAPPMArticle() {
           <li>The searcher has limited operating experience as a CEO.</li>
           <li>Search fund investments are illiquid with no secondary market.</li>
           <li>Acquisition financing may not be available on favorable terms.</li>
-          <li>Key person risk &mdash; the fund depends on the searcher&apos;s ability and commitment.</li>
+          <li>Key person risk, the fund depends on the searcher&apos;s ability and commitment.</li>
           <li>General economic conditions may affect the availability and pricing of targets.</li>
           <li>Integration and transition risks after acquisition.</li>
           <li>Regulatory and tax risks specific to the target geographies.</li>
@@ -222,7 +223,7 @@ export default function WritingAPPMArticle() {
           independent directors selected by the CEO with board approval, and
           the CEO. During the search phase, a smaller advisory committee of
           two to three investors often provides guidance. Specify how board
-          seats are allocated &mdash; whether by investment size, seniority,
+          seats are allocated, whether by investment size, seniority,
           or mutual agreement among investors. Clear governance structures
           prevent conflicts later.
         </p>
@@ -256,10 +257,10 @@ export default function WritingAPPMArticle() {
 
         <h2 className={h2Class}>Working with a securities attorney</h2>
         <p>
-          A securities attorney is not optional &mdash; issuing securities
+          A securities attorney is not optional, issuing securities
           without proper legal counsel creates personal liability and can
           result in rescission claims from investors. The right attorney adds
-          value beyond simple document drafting; they help you navigate
+          value beyond simple document drafting; they help you manage
           regulatory requirements, structure the fund entity, and avoid
           common legal pitfalls.
         </p>
@@ -271,8 +272,8 @@ export default function WritingAPPMArticle() {
           operating agreement or partnership agreement for the fund entity,
           and any required regulatory filings (such as SEC Form D in the
           United States). You are responsible for drafting the substantive
-          sections &mdash; executive summary, searcher background, thesis,
-          and fund economics &mdash; which the attorney will then review
+          sections, executive summary, searcher background, thesis,
+          and fund economics, which the attorney will then review
           for legal sufficiency.
         </p>
         <p>
@@ -304,7 +305,7 @@ export default function WritingAPPMArticle() {
         </p>
         <p>
           The PPM is your disclosure and reference document. It is text-heavy,
-          comprehensive (30-50 pages), and designed for careful, independent
+          thorough (30-50 pages), and designed for careful, independent
           review. It provides the legal framework, detailed terms, risk
           factors, and subscription mechanics. Investors read the PPM after
           the initial meeting to validate the claims made in the deck and
@@ -317,7 +318,7 @@ export default function WritingAPPMArticle() {
           others prefer to see the deck first. Be prepared to send either
           document at any stage, but lead with the deck whenever possible
           because it frames the narrative on your terms. The key principle
-          is consistency &mdash; every fact, figure, and claim in the deck
+          is consistency, every fact, figure, and claim in the deck
           must match the PPM exactly. Discrepancies erode trust instantly.
         </p>
 
@@ -325,15 +326,15 @@ export default function WritingAPPMArticle() {
         <ul className={ulClass}>
           <li><strong>Too long:</strong> A PPM should be 30-50 pages, not 100. Investors read dozens of PPMs. Respect their time.</li>
           <li><strong>Vague thesis:</strong> &ldquo;I will look for good businesses&rdquo; is not a thesis. Be specific about sectors, geographies, size, and why you are uniquely positioned.</li>
-          <li><strong>Missing risk factors:</strong> Omitting obvious risks does not make them disappear &mdash; it makes you look naive or dishonest.</li>
+          <li><strong>Missing risk factors:</strong> Omitting obvious risks does not make them disappear, it makes you look naive or dishonest.</li>
           <li><strong>Overly promotional tone:</strong> This is a legal document, not a <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">pitch deck</Link>. Confident but measured language builds more trust than hyperbole.</li>
-          <li><strong>Cookie-cutter content:</strong> Do not copy another searcher&apos;s PPM with minor edits. Investors will notice &mdash; many have seen hundreds of these documents.</li>
+          <li><strong>Cookie-cutter content:</strong> Do not copy another searcher&apos;s PPM with minor edits. Investors will notice, many have seen hundreds of these documents.</li>
           <li><strong>No legal review:</strong> Issuing securities without proper legal counsel creates personal liability. Always use a qualified securities attorney.</li>
         </ul>
 
         <h2 className={h2Class}>EU-specific considerations</h2>
         <p>
-          European searchers must navigate a more fragmented regulatory landscape.
+          European searchers must manage a more fragmented regulatory environment.
           Key considerations include:
         </p>
         <ul className={ulClass}>
@@ -346,12 +347,29 @@ export default function WritingAPPMArticle() {
 
         <h2 className={h2Class}>Tips for making your PPM compelling</h2>
         <ul className={ulClass}>
-          <li><strong>Lead with your story:</strong> Investors invest in people. Your personal narrative &mdash; why you chose ETA, what drives you, what you bring &mdash; is the most compelling element.</li>
-          <li><strong>Use data:</strong> Reference industry research, Stanford/IESE search fund studies, market data on your target sectors. Show that your thesis is grounded in evidence.</li>
+          <li><strong>Lead with your story:</strong> Investors invest in people. Your personal narrative, why you chose ETA, what drives you, what you bring, is the most compelling element.</li>
+          <li><strong>Use data:</strong> Reference industry research, Stanford/IESE search fund studies, and market data on your target sectors. Understanding <Link href="/learn/search-fund-good-investment" className="text-apple-accent hover:underline">search fund return data</Link> will help you frame the opportunity for your investors. Show that your thesis is grounded in evidence.</li>
           <li><strong>Include references:</strong> Offer to connect investors with former employers, professors, or mentors who can vouch for your character and abilities.</li>
           <li><strong>Professional design:</strong> Clean formatting, consistent fonts, and a simple cover make a difference. Avoid flashy graphics but ensure the document is visually polished.</li>
           <li><strong>Get feedback early:</strong> Share drafts with trusted mentors or ex-searchers before distributing broadly. Iterate based on their input.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much does it cost to prepare a PPM?</h3>
+        <p>
+          Typical legal costs for a search fund PPM range from $15,000 to $30,000, depending on the complexity of the fund structure, the number of jurisdictions involved, and your attorney's experience. Solo practitioners and boutique firms that specialize in search funds or private equity tend to offer better value than large law firms. Ask for a fixed-fee engagement rather than hourly billing to manage costs.
+        </p>
+
+        <h3 className={h3Class}>Can I use another searcher's PPM as a template?</h3>
+        <p>
+          While reviewing other PPMs is a valuable learning exercise, you should never copy another searcher's PPM with minor edits. Sophisticated investors review dozens of PPMs and will immediately recognize recycled content. More importantly, your PPM must accurately reflect your unique background, thesis, fund terms, and risk factors. Use templates for structural guidance only, and draft all substantive content yourself.
+        </p>
+
+        <h3 className={h3Class}>Do I need a PPM for a self-funded search?</h3>
+        <p>
+          Self-funded searchers who are not raising external capital for the search phase do not need a PPM during the search. However, if you plan to raise equity capital for an acquisition, you will need offering documents at that stage. Some self-funded searchers prepare a lighter-weight investment memorandum instead of a full PPM when they bring in co-investors for a specific deal. Regardless of model, always consult a securities attorney before soliciting investment capital.
+        </p>
       </div>
     </article>
   );

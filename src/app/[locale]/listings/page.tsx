@@ -16,12 +16,12 @@ export default function ListingsPage() {
     <div className="max-w-3xl mx-auto px-6 py-16">
       {/* Hero */}
       <h1 className="text-4xl md:text-5xl font-semibold text-apple-black tracking-tight leading-tight">
-        A curated marketplace for European SME acquisitions — launching 2026
+        A curated marketplace for European SME acquisitions - launching 2026
       </h1>
       <p className="text-lg text-apple-gray-700 mt-6 leading-relaxed">
         SearchFundMarket is building a curated marketplace connecting search fund entrepreneurs, investors,
         and business sellers across Europe. Every listing will be vetted for quality, with verified financials,
-        clear deal terms, and full confidentiality protections — with no broker commissions.
+        clear deal terms, and full confidentiality protections - with no broker commissions.
       </p>
 
       {/* What makes a great target */}
@@ -32,23 +32,23 @@ export default function ListingsPage() {
         <ul className="mt-4 space-y-3 text-sm text-apple-gray-700">
           <li className="flex items-start gap-3">
             <span className="text-apple-accent mt-0.5 shrink-0">&#10003;</span>
-            <span><strong>Stable, recurring revenue</strong> — businesses with long-term contracts, subscription models, or repeat customers provide predictable cash flows that make debt financing feasible.</span>
+            <span><strong>Stable, recurring revenue</strong> - businesses with long-term contracts, subscription models, or repeat customers provide predictable cash flows that make debt financing feasible.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-apple-accent mt-0.5 shrink-0">&#10003;</span>
-            <span><strong>EBITDA between &euro;500K and &euro;3M</strong> — this sweet spot is large enough to support professional management but small enough to avoid PE competition.</span>
+            <span><strong>EBITDA between &euro;500K and &euro;3M</strong> - this sweet spot is large enough to support professional management but small enough to avoid PE competition.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-apple-accent mt-0.5 shrink-0">&#10003;</span>
-            <span><strong>Fragmented industry with consolidation potential</strong> — sectors like business services, healthcare, education, and niche manufacturing often offer bolt-on acquisition opportunities post-close.</span>
+            <span><strong>Fragmented industry with consolidation potential</strong> - sectors like business services, healthcare, education, and niche manufacturing often offer bolt-on acquisition opportunities post-close.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-apple-accent mt-0.5 shrink-0">&#10003;</span>
-            <span><strong>Owner-dependent with transition runway</strong> — a founder looking to retire over 12-18 months who can mentor the incoming CEO-operator.</span>
+            <span><strong>Owner-dependent with transition runway</strong> - a founder looking to retire over 12-18 months who can mentor the incoming CEO-operator.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-apple-accent mt-0.5 shrink-0">&#10003;</span>
-            <span><strong>Defensible market position</strong> — regulatory licenses, exclusive distribution agreements, geographic density, or specialized expertise that create barriers to entry.</span>
+            <span><strong>Defensible market position</strong> - regulatory licenses, exclusive distribution agreements, geographic density, or specialized expertise that create barriers to entry.</span>
           </li>
         </ul>
       </div>

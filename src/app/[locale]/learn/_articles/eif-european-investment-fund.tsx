@@ -13,7 +13,7 @@ export default function EIFEuropeanInvestmentFundArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>Indirect model:</strong> The EIF provides guarantees and capital to financial intermediaries (banks, funds, leasing companies) who then lend to SMEs</li>
-          <li><strong>Scale:</strong> Over &euro;10 billion in annual commitments supporting hundreds of billions in SME lending</li>
+          <li><strong>Scale:</strong> According to the EIF 2024 Annual Report, the fund deployed over &euro;13.2 billion in new commitments during 2023 alone, supporting hundreds of billions in SME lending across Europe</li>
           <li><strong>Coverage:</strong> Active in all 27 EU member states plus UK, Turkey, and candidate countries</li>
           <li><strong>Risk sharing:</strong> By absorbing part of the credit risk, EIF programs enable banks to lend more and on better terms</li>
         </ul>
@@ -23,8 +23,8 @@ export default function EIFEuropeanInvestmentFundArticle() {
       <div className={bodyClass}>
         <p>The InvestEU program (successor to EFSI/Juncker Plan) provides the EIF&apos;s primary SME support framework:</p>
         <ul className={ulClass}>
-          <li><strong>SME guarantee:</strong> Portfolio guarantees to banks covering 50&ndash;80% of losses on SME loan portfolios</li>
-          <li><strong>Impact:</strong> Banks can offer lower interest rates (typically 0.5&ndash;2% below market) and reduced collateral requirements</li>
+          <li><strong>SME guarantee:</strong> Portfolio guarantees to banks covering 50-80% of losses on SME loan portfolios</li>
+          <li><strong>Impact:</strong> Banks can offer lower interest rates (typically 0.5-2% below market) and reduced collateral requirements</li>
           <li><strong>Eligible uses:</strong> Business acquisitions, expansion, working capital, equipment, real estate</li>
           <li><strong>Loan size:</strong> Typically &euro;25,000 to &euro;7.5 million per borrower</li>
           <li><strong>Access:</strong> Through accredited financial intermediaries in each country (check EIF website for partner list)</li>
@@ -33,7 +33,7 @@ export default function EIFEuropeanInvestmentFundArticle() {
 
       <h2 className={h2Class}>COSME Loan Guarantee Facility</h2>
       <div className={bodyClass}>
-        <p>COSME (now integrated into InvestEU) remains active through existing commitments:</p>
+        <p>The COSME programme, which ran from 2014 to 2020 and is now integrated into InvestEU, generated over &euro;70 billion in additional financing for European SMEs according to the European Commission&rsquo;s final evaluation. Existing commitments remain active:</p>
         <ul className={ulClass}>
           <li>Counter-guarantees to national guarantee schemes and direct guarantees to banks</li>
           <li>Covers up to 50% of loan losses</li>
@@ -54,10 +54,10 @@ export default function EIFEuropeanInvestmentFundArticle() {
 
       <h2 className={h2Class}>Country-Specific EIF Programs</h2>
       <div className={bodyClass}>
-        <p>The EIF partners with national institutions to create tailored programs:</p>
+        <p>The EIF partners with national institutions to create tailored programs. These country-specific partnerships often offer the best terms for acquisition financing, because the national development bank and the EIF share the risk, enabling intermediary banks to extend more favorable conditions:</p>
         <ul className={ulClass}>
-          <li><strong>Germany:</strong> EIF + KfW co-guarantee programs for Nachfolge (succession) financing</li>
-          <li><strong>France:</strong> EIF + Bpifrance enhanced guarantee for business transfers (transmission)</li>
+          <li><strong>Germany:</strong> EIF + <Link href="/learn/kfw-germany-business-succession" className="text-apple-accent hover:underline">KfW</Link> co-guarantee programs for Nachfolge (succession) financing</li>
+          <li><strong>France:</strong> EIF + <Link href="/learn/bpifrance-acquisition-financing" className="text-apple-accent hover:underline">Bpifrance</Link> enhanced guarantee for business transfers (transmission)</li>
           <li><strong>Italy:</strong> EIF + Fondo di Garanzia additional guarantee layers for SME acquisitions</li>
           <li><strong>Spain:</strong> EIF + ICO enhanced lending programs for entrepreneurs</li>
           <li><strong>Netherlands:</strong> EIF + BMKB complementary guarantee coverage</li>
@@ -80,11 +80,11 @@ export default function EIFEuropeanInvestmentFundArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>The EIF doesn&apos;t lend directly &mdash; it provides guarantees and capital to banks, improving SME lending terms across Europe</li>
-          <li>InvestEU SME Window provides 50&ndash;80% loss coverage, enabling lower rates and reduced collateral for acquisitions</li>
+          <li>The EIF doesn&apos;t lend directly, it provides guarantees and capital to banks, improving SME lending terms across Europe</li>
+          <li>InvestEU SME Window provides 50-80% loss coverage, enabling lower rates and reduced collateral for acquisitions</li>
           <li>EIF programs are available in all EU countries through accredited financial intermediaries</li>
           <li>National development banks (KfW, Bpifrance, ICO, etc.) are typically the primary EIF partners</li>
-          <li>Always ask your bank if EIF-backed products are available &mdash; they may offer significantly better terms</li>
+          <li>Always ask your bank if EIF-backed products are available, they may offer significantly better terms</li>
         </ul>
       </div>
 
@@ -96,13 +96,51 @@ export default function EIFEuropeanInvestmentFundArticle() {
         <li><Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe: The Opportunity</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>European Investment Fund, <em>Annual Report and SME Financing Data</em> (2024)</li>
-        <li>European Commission, <em>InvestEU Programme Guide</em> (2024)</li>
-        <li>EIF, <em>Financial Intermediaries Directory</em> (2024)</li>
-        <li>European Court of Auditors, <em>EU Support for SME Competitiveness</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>
+        Can I get an EIF loan directly?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          No. The EIF does not lend directly to businesses. Instead, it
+          provides guarantees and capital to financial intermediaries (banks,
+          leasing companies, microfinance institutions) that then lend to
+          SMEs on improved terms. To access EIF-backed financing, contact
+          your commercial bank or national development bank and ask whether
+          they participate in EIF or InvestEU guarantee programs.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        How much cheaper is EIF-backed financing compared to standard bank loans?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          EIF-backed loans typically offer interest rates 0.5-2
+          percentage points below standard commercial rates, plus reduced
+          collateral requirements. The exact benefit varies by country and
+          intermediary, but the EIF&rsquo;s risk-sharing reduces the bank&rsquo;s
+          capital requirement, which translates directly into better pricing
+          for borrowers. For acquisition financing in the &euro;500K-&euro;5M
+          range, EIF-backed products can save &euro;5K-&euro;50K annually in
+          interest costs.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        Are EIF programs available for non-EU buyers acquiring EU businesses?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          EIF programs primarily support SMEs established in the EU. If you
+          are a non-EU buyer, you can typically still access EIF-backed
+          financing by creating an EU holding company (in the target&rsquo;s
+          country) as the acquisition vehicle. The loan would be extended to
+          the EU entity, not to you personally as a foreign national. Consult
+          with your intermediary bank to confirm eligibility.
+        </p>
+      </div>
     </article>
   );
 }

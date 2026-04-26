@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 
-// GET /api/profile — fetch current user + role profile
+// GET /api/profile - fetch current user + role profile
 export async function GET() {
   const session = await getAuthSession();
   if (!session) return unauthorized();
@@ -25,7 +25,7 @@ export async function GET() {
   return NextResponse.json({ user });
 }
 
-// PUT /api/profile — update user + role profile
+// PUT /api/profile - update user + role profile
 export async function PUT(request: Request) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

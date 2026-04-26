@@ -10,7 +10,7 @@ import type { Metadata } from "next";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Saved Listings — Your Bookmarked Acquisition Opportunities",
+  title: "Saved Listings - Your Bookmarked Acquisition Opportunities",
   description:
     "View and manage your saved business listings on SearchFundMarket. Access your bookmarked acquisition opportunities with key financials and connect with sellers.",
 };

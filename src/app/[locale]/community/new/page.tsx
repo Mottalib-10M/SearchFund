@@ -8,7 +8,7 @@ import { prisma } from "@/lib/prisma";
 import CreatePostForm from "@/components/community/CreatePostForm";
 
 export const metadata: Metadata = {
-  title: "Start a Discussion — SearchFundMarket ETA Community",
+  title: "Start a Discussion - SearchFundMarket ETA Community",
   description:
     "Start a new discussion in the SearchFundMarket community. Share insights, ask questions, and connect with search fund entrepreneurs and investors in Europe.",
 };

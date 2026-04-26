@@ -8,7 +8,7 @@ export default function NonCompeteAcquisitionArticle() {
 
       <div className={bodyClass}>
         <p>
-          When you acquire a business, you&apos;re paying for goodwill — customer relationships,
+          When you acquire a business, you&apos;re paying for goodwill - customer relationships,
           brand reputation, and market position that the seller built over years. Non-compete and
           non-solicitation clauses protect that investment by preventing the seller from turning
           around and competing against you with the very advantages you just purchased.
@@ -55,7 +55,7 @@ export default function NonCompeteAcquisitionArticle() {
       <div className={bodyClass}>
         <p>
           Non-competes in the context of business sales are generally enforceable across most
-          US jurisdictions — even in states that restrict employee non-competes. Courts evaluate
+          US jurisdictions - even in states that restrict employee non-competes. Courts evaluate
           three key factors:
         </p>
       </div>
@@ -66,9 +66,9 @@ export default function NonCompeteAcquisitionArticle() {
         <p>Typical enforceable periods for business sale non-competes:</p>
 
         <ul className={ulClass}>
-          <li><strong>2–3 years:</strong> Generally upheld in most jurisdictions</li>
-          <li><strong>3–5 years:</strong> Common and enforceable, especially with goodwill allocation</li>
-          <li><strong>5–7 years:</strong> May be enforceable for high-value acquisitions with significant goodwill</li>
+          <li><strong>2-3 years:</strong> Generally upheld in most jurisdictions</li>
+          <li><strong>3-5 years:</strong> Common and enforceable, especially with goodwill allocation</li>
+          <li><strong>5-7 years:</strong> May be enforceable for high-value acquisitions with significant goodwill</li>
           <li><strong>7+ years:</strong> Increasingly difficult to enforce; courts may reduce the period</li>
         </ul>
 
@@ -124,12 +124,12 @@ export default function NonCompeteAcquisitionArticle() {
         <ul className={ulClass}>
           <li>Seller non-competes tied to a business acquisition remain fully enforceable under federal law</li>
           <li>The exemption applies when the seller has a substantial ownership stake (typically 25%+) in the business being sold</li>
-          <li>Employee non-competes (for retained employees) may be affected by the FTC rule — consult counsel</li>
+          <li>Employee non-competes (for retained employees) may be affected by the FTC rule - consult counsel</li>
           <li>State laws still apply and may impose additional restrictions</li>
         </ul>
 
         <p>
-          The legal landscape continues to evolve, so always have local counsel review your
+          The legal environment continues to evolve, so always have local counsel review your
           restrictive covenants.
         </p>
       </div>
@@ -221,15 +221,15 @@ export default function NonCompeteAcquisitionArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Start with market terms:</strong> Propose restrictions similar to comparable transactions — overreaching invites pushback</li>
+          <li><strong>Start with market terms:</strong> Propose restrictions similar to comparable transactions - overreaching invites pushback</li>
           <li><strong>Focus on what matters most:</strong> If customer relationships drive value, fight hardest for customer non-solicitation</li>
           <li><strong>Tie to seller involvement:</strong> If the seller is staying in a{" "}
             <Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">
               transition role
             </Link>, argue for longer restrictions since they&apos;ll have ongoing access to relationships
           </li>
-          <li><strong>Use earnouts as leverage:</strong> Make non-compete violations a breach that terminates earnout obligations</li>
-          <li><strong>Bundle with financial penalties:</strong> Tie violations to seller note acceleration — more effective than litigation threats alone</li>
+          <li><strong>Use earnouts as use:</strong> Make non-compete violations a breach that terminates earnout obligations</li>
+          <li><strong>Bundle with financial penalties:</strong> Tie violations to seller note acceleration - more effective than litigation threats alone</li>
         </ul>
       </div>
 
@@ -237,7 +237,7 @@ export default function NonCompeteAcquisitionArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Narrow the activity scope:</strong> Don&apos;t accept blanket prohibitions — insist on precise definitions</li>
+          <li><strong>Narrow the activity scope:</strong> Don&apos;t accept blanket prohibitions - insist on precise definitions</li>
           <li><strong>Limit geography to actual operations:</strong> A 3-county business shouldn&apos;t warrant a statewide restriction</li>
           <li><strong>Negotiate duration:</strong> Push for shorter periods tied to realistic customer transition timelines</li>
           <li><strong>Carve out future opportunities:</strong> If planning to pursue an adjacent business line, negotiate an explicit exception</li>
@@ -249,9 +249,9 @@ export default function NonCompeteAcquisitionArticle() {
 
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Stepped restrictions:</strong> Broader non-compete for years 1–2, then only customer non-solicitation for years 3–5</li>
+          <li><strong>Stepped restrictions:</strong> Broader non-compete for years 1-2, then only customer non-solicitation for years 3-5</li>
           <li><strong>Geographic zones:</strong> Absolute non-compete in core market, less restrictive covenant in adjacent areas</li>
-          <li><strong>Customer-specific restrictions:</strong> Rather than prohibiting all competition, restrict only solicitation of customers active in the last 12–24 months</li>
+          <li><strong>Customer-specific restrictions:</strong> Rather than prohibiting all competition, restrict only solicitation of customers active in the last 12-24 months</li>
         </ul>
       </div>
 
@@ -291,7 +291,7 @@ export default function NonCompeteAcquisitionArticle() {
           <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
             employee retention strategy
           </Link>{" "}
-          — ensure key employees sign their own confidentiality and non-solicitation agreements,
+          - ensure key employees sign their own confidentiality and non-solicitation agreements,
           offer retention bonuses, and communicate the transition plan clearly.
         </p>
       </div>
@@ -322,40 +322,95 @@ export default function NonCompeteAcquisitionArticle() {
         <li>
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">
             Letter of Intent: How to Draft & Negotiate
-          </Link>{" "}— Where non-compete terms are first outlined
+          </Link>{" "} - Where non-compete terms are first outlined
         </li>
         <li>
           <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">
             Representations & Warranties in M&A
-          </Link>{" "}— Complementary buyer protections
+          </Link>{" "} - Complementary buyer protections
         </li>
         <li>
           <Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">
             Seller Transition & Handoff Strategy
-          </Link>{" "}— Managing the seller&apos;s involvement post-closing
+          </Link>{" "} - Managing the seller&apos;s involvement post-closing
         </li>
         <li>
           <Link href="/learn/employee-retention-acquisition" className="text-apple-accent hover:underline">
             Employee Retention in Acquisitions
-          </Link>{" "}— Protecting your team from being poached
+          </Link>{" "} - Protecting your team from being poached
         </li>
         <li>
           <Link href="/learn/closing-process" className="text-apple-accent hover:underline">
             The Closing Process
-          </Link>{" "}— How restrictive covenants fit into closing documentation
+          </Link>{" "} - How restrictive covenants fit into closing documentation
         </li>
       </ul>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Does the FTC non-compete ban affect seller non-competes in business acquisitions?</h3>
+      <div className={bodyClass}>
+        <p>
+          No. The FTC&apos;s 2024 rule broadly banning non-compete agreements specifically
+          exempts non-competes arising from the bona fide sale of a business. This means
+          seller non-competes tied to a business acquisition remain fully enforceable under
+          federal law, provided the seller has a substantial ownership stake (typically 25%
+          or more) in the business being sold. However, employee non-competes for retained
+          employees may be affected by the rule, and state laws impose additional requirements.
+          According to Gibson Dunn&apos;s 2024 analysis, the FTC exemption for business sales
+          was one of the least contested aspects of the rule, as courts have long recognized
+          that protecting purchased goodwill justifies reasonable post-sale restrictions.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>What is the ideal duration for a seller non-compete clause?</h3>
+      <div className={bodyClass}>
+        <p>
+          For most search fund acquisitions, 3-5 years is the standard and most defensible
+          duration. According to the American Bar Association&apos;s 2023 analysis of
+          restrictive covenants in M&A, 3-year non-competes are upheld in virtually all US
+          jurisdictions, while 5-year terms are enforceable in most states when supported by
+          adequate consideration and goodwill allocation. The right duration should match
+          customer contract cycles -- if the average customer contract is 2 years, a 4-year
+          non-compete gives you two full renewal cycles to cement relationships. In Europe,
+          shorter periods (2-3 years) are standard, and many jurisdictions (notably France and
+          Germany) require financial compensation for the restricted period, even in business
+          sale contexts. A common compromise is a stepped restriction: broader non-compete for
+          years 1-3, then only customer{" "}
+          <Link href="/learn/reps-and-warranties" className="text-apple-accent hover:underline">
+            non-solicitation
+          </Link>{" "}
+          for years 4-5.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>How much of the purchase price should be allocated to the non-compete?</h3>
+      <div className={bodyClass}>
+        <p>
+          Allocating a specific portion of the purchase price to the non-compete covenant
+          strengthens enforceability by demonstrating valuable consideration. The typical
+          allocation is 5-15% of the total purchase price, though the exact amount should
+          be guided by tax strategy. For the seller, amounts allocated to the non-compete
+          are taxed as ordinary income (not capital gains), which is less favorable. For the
+          buyer, the allocation creates an amortizable intangible asset that can be deducted
+          over 15 years under IRC Section 197. According to Beck Reed Riden LLP&apos;s
+          50-State Non-Compete Chart, courts are more likely to enforce non-competes when
+          the purchase agreement explicitly assigns a dollar value to the covenant and the
+          allocation is reasonable relative to the total deal value. Work with your tax
+          advisor to balance enforceability with the seller&apos;s after-tax proceeds.
+        </p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
-        <li>Federal Trade Commission, <em>Non-Compete Clause Rule — Final Rule</em> (April 2024)</li>
+        <li>Federal Trade Commission, <em>Non-Compete Clause Rule - Final Rule</em> (April 2024)</li>
         <li>Beck Reed Riden LLP, <em>50-State Non-Compete Chart</em> (2024)</li>
         <li>American Bar Association, <em>Restrictive Covenants in M&A Transactions</em> (2023)</li>
         <li>Gibson Dunn, <em>Non-Compete Agreements in M&A Transactions</em> (2024)</li>
         <li>Association of Corporate Counsel, <em>Enforceability of Non-Compete Agreements: 50-State Survey</em> (2023)</li>
-        <li>California Business & Professions Code § 16600 — Non-Compete Restrictions</li>
-        <li>Texas Business & Commerce Code § 15.50 — Covenant Not to Compete</li>
+        <li>California Business & Professions Code § 16600 - Non-Compete Restrictions</li>
+        <li>Texas Business & Commerce Code § 15.50 - Covenant Not to Compete</li>
       </ul>
     </article>
   );

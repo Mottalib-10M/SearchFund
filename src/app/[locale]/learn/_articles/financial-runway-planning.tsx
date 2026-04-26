@@ -3,7 +3,7 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 
 export const metadata = {
   title: "Financial Runway Planning for Search Fund Entrepreneurs",
-  description: "A comprehensive guide to calculating runway, managing burn rate, and making critical financial decisions before launching your search fund.",
+  description: "A thorough guide to calculating runway, managing burn rate, and making critical financial decisions before launching your search fund.",
   datePublished: "2025-01-15",
   dateModified: "2025-01-15",
   readTime: "9 min read",
@@ -16,7 +16,7 @@ export const metadata = {
     },
     {
       title: "2024 Search Fund Study",
-      url: "https://www.gsb.stanford.edu/faculty-research/publications/2024-search-fund-study",
+      url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study",
       organization: "Stanford GSB"
     }
   ]
@@ -32,7 +32,7 @@ export default function FinancialRunwayPlanningArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive framework for calculating your runway, understanding what traditional search capital covers, planning for self-funded scenarios, and making the difficult decision of when to stop searching. Whether you're raising $500,000 from investors or self-funding your search, understanding these financial realities before you start will dramatically increase your chances of success.
+        This guide provides a thorough framework for calculating your runway, understanding what traditional search capital covers, planning for self-funded scenarios, and making the difficult decision of when to stop searching. Whether you're raising $500,000 from investors or self-funding your search, understanding these financial realities before you start will dramatically increase your chances of success.
       </p>
 
       <h2 className={h2Class}>How Much Runway Do You Need</h2>
@@ -48,18 +48,22 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Deal cycles are unpredictable:</strong> You might find the perfect business in month 6, but due diligence and closing could take another 6-9 months. Or you might not find anything compelling until month 18.</li>
         <li><strong>Market conditions vary:</strong> In competitive markets or during economic uncertainty, the search process naturally extends as good opportunities become scarcer.</li>
-        <li><strong>Psychological pressure increases over time:</strong> As your runway shortens, the pressure to close a deal—any deal—intensifies, potentially leading to poor decisions.</li>
+        <li><strong>Psychological pressure increases over time:</strong> As your runway shortens, the pressure to close a deal - any deal - intensifies, potentially leading to poor decisions.</li>
         <li><strong>Investors expect commitment:</strong> If you raise traditional search capital, your investors are betting on your ability to dedicate full-time focus for the duration. Running out of personal runway forces difficult conversations.</li>
       </ul>
 
       <p className={bodyClass}>
-        A more realistic planning horizon is 24-30 months of personal financial runway. This extra buffer provides peace of mind and reduces the psychological pressure that can lead to accepting a marginal deal or walking away from a good one due to financial stress.
+        A more realistic planning horizon is 24-30 months of personal financial runway. This extra buffer provides peace of mind and reduces the psychological pressure that can lead to accepting a marginal deal or walking away from a good one due to financial stress. Our{" "}
+        <Link href="/learn/eta-self-assessment" className="text-apple-accent hover:underline">
+          ETA self-assessment framework
+        </Link>{" "}
+        includes a detailed financial readiness checklist to help you evaluate whether your runway is adequate.
       </p>
 
       <h2 className={h2Class}>Traditional Search Capital: What's Covered</h2>
 
       <p className={bodyClass}>
-        If you raise a traditional search fund, you'll typically secure $400,000 to $600,000 in search capital from a group of investors. Understanding exactly what these funds cover—and what they don't—is essential for personal financial planning.
+        If you raise a traditional search fund, you'll typically secure $400,000 to $600,000 in search capital from a group of investors. Understanding exactly what these funds cover - and what they don't - is essential for personal financial planning.
       </p>
 
       <h3 className={h3Class}>What Search Capital Typically Covers</h3>
@@ -82,7 +86,7 @@ export default function FinancialRunwayPlanningArticle() {
         <li><strong>Retirement contributions:</strong> Unlike a traditional W-2 job, there's typically no 401(k) match or retirement benefits during the search phase.</li>
         <li><strong>Relocation costs:</strong> If your search requires moving to a new city or if you ultimately acquire a business in a different location, these costs are usually on you.</li>
         <li><strong>Childcare:</strong> Even though you're working full-time, search capital doesn't typically cover dependent care expenses.</li>
-        <li><strong>Pre-search preparation costs:</strong> Any expenses incurred before officially raising your search fund—conference attendance, preliminary travel, database subscriptions—are self-funded.</li>
+        <li><strong>Pre-search preparation costs:</strong> Any expenses incurred before officially raising your search fund - conference attendance, preliminary travel, database subscriptions - are self-funded.</li>
       </ul>
 
       <p className={bodyClass}>
@@ -128,6 +132,13 @@ export default function FinancialRunwayPlanningArticle() {
         <li><strong>Shared resources:</strong> Some self-funded searchers form informal partnerships to share database subscriptions, research tools, and deal flow insights.</li>
         <li><strong>Phased approach:</strong> Starting with a part-time search while employed, then transitioning to full-time once you've validated deal flow and raised acquisition capital commitments.</li>
       </ul>
+
+      <p className={bodyClass}>
+        For a detailed comparison of the financial implications of each model, see our guide on{" "}
+        <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
+          self-funded vs. traditional search funds
+        </Link>.
+      </p>
 
       <h2 className={h2Class}>Monthly Burn Rate Calculation</h2>
 
@@ -202,7 +213,7 @@ export default function FinancialRunwayPlanningArticle() {
       <h3 className={h3Class}>Optimize Major Fixed Costs</h3>
 
       <p className={bodyClass}>
-        Your largest expenses—housing, insurance, childcare—deserve scrutiny before you start your search:
+        Your largest expenses - housing, insurance, childcare - deserve scrutiny before you start your search:
       </p>
 
       <ul className={ulClass}>
@@ -375,7 +386,11 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Deal flow drought:</strong> If you're not seeing 5-10 businesses per month that warrant serious evaluation, your search parameters may be too narrow or your sourcing strategy isn't working.</li>
         <li><strong>Losing competitions consistently:</strong> If you're submitting LOIs but consistently losing to other buyers, this may indicate your investor base isn't competitive or your deal structure isn't market-rate.</li>
-        <li><strong>Family stress:</strong> If the search is creating unsustainable stress on your relationships or family dynamics, no business acquisition is worth that cost.</li>
+        <li><strong>Family stress:</strong> If the search is creating unsustainable stress on your relationships or family dynamics, no business acquisition is worth that cost. Our guide on{" "}
+          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
+            searcher psychology and resilience
+          </Link>{" "}
+          provides strategies for managing the emotional toll.</li>
         <li><strong>Financial desperation:</strong> If you find yourself rationalizing red flags or considering marginal businesses because you're running out of money, it's time to stop.</li>
       </ul>
 
@@ -388,14 +403,14 @@ export default function FinancialRunwayPlanningArticle() {
       <ul className={ulClass}>
         <li><strong>Communicate with investors:</strong> If you raised search capital, have transparent conversations with your investors about your decision and timeline.</li>
         <li><strong>Return unused capital:</strong> Traditional search funds should return any remaining search capital to investors, maintaining your reputation and relationships.</li>
-        <li><strong>Leverage your experience:</strong> The search process provides incredible learning about business evaluation, financial analysis, and industry dynamics. These skills are valuable in traditional roles.</li>
+        <li><strong>Use your experience:</strong> The search process provides incredible learning about business evaluation, financial analysis, and industry dynamics. These skills are valuable in traditional roles.</li>
         <li><strong>Stay connected:</strong> Many former searchers become investors in other search funds or advisory board members for acquired companies.</li>
       </ul>
 
       <h2 className={h2Class}>Financial Checklist Before Launching</h2>
 
       <p className={bodyClass}>
-        Before you commit to a search fund, work through this comprehensive financial checklist:
+        Before you commit to a search fund, work through this thorough financial checklist:
       </p>
 
       <h3 className={h3Class}>Personal Financial Foundation</h3>
@@ -462,6 +477,23 @@ export default function FinancialRunwayPlanningArticle() {
         Your answer to this question should inform whether you're truly ready to launch your search fund journey.
       </p>
 
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How much personal savings do you need for a self-funded search?</h3>
+      <p className={bodyClass}>
+        A realistic self-funded search requires $189,000-$396,000 over 24 months, depending on your location, family size, and lifestyle. This covers personal living expenses ($60,000-$120,000 per year), health insurance ($12,000-$18,000 per year), search operating costs ($15,000-$30,000 per year), and an emergency buffer. Many self-funded searchers reduce burn rate through part-time consulting, geographic arbitrage, or relying on spousal income for household expenses.
+      </p>
+
+      <h3 className={h3Class}>Should you keep working while searching for a business to buy?</h3>
+      <p className={bodyClass}>
+        A part-time search while employed extends your runway significantly but limits your deal sourcing bandwidth and typically extends the search to 36-48 months. Many searchers use a phased approach: networking and researching while employed, then transitioning to full-time once they have validated deal flow, built broker relationships, and secured adequate personal financial runway. Traditional investor-backed search funds require full-time dedication.
+      </p>
+
+      <h3 className={h3Class}>When should you stop searching and return to employment?</h3>
+      <p className={bodyClass}>
+        Establish &ldquo;kill switch&rdquo; criteria before you start: time-based (maximum 24 months), runway-based (begin job searching when 6 months of personal runway remain), milestone-based (reassess if fewer than 3 LOIs submitted by month 15), and quality-based (pivot or exit if deal quality remains below threshold for 6+ months). The most important signal is financial desperation, if you are rationalizing red flags or considering marginal businesses because you are running out of money, it is time to stop.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
@@ -473,32 +505,32 @@ export default function FinancialRunwayPlanningArticle() {
             rel="noopener noreferrer"
           >
             Stanford Search Fund Primer
-          </a> — Stanford GSB
+          </a> - Stanford GSB
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/2024-search-fund-study"
+            href="https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
             2024 Search Fund Study
-          </a> — Stanford GSB
+          </a> - Stanford GSB
         </li>
         <li>
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
             Getting Started with Search Funds
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
         <li>
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             Self-Funded vs Traditional Search
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
         <li>
           <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">
             The Psychology of Being a Searcher
-          </Link> — SearchFundMarket
+          </Link> - SearchFundMarket
         </li>
       </ul>
     </article>

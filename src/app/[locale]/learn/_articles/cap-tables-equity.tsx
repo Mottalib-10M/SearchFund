@@ -14,6 +14,8 @@ export default function CapTablesEquityArticle() {
           the search, acquisition, and operating phases. This guide breaks down
           the traditional search fund cap table, explains the step-up mechanism,
           walks through a worked example, and compares economics across fund models.
+          If you are still exploring whether ETA is the right path, start with
+          our <Link href="/learn/is-eta-right-for-you" className="text-apple-accent hover:underline">ETA self-assessment</Link>.
         </p>
 
         <h2 className={h2Class}>How equity works in a traditional search fund</h2>
@@ -39,7 +41,8 @@ export default function CapTablesEquityArticle() {
           acquisition equity at a step-up, typically 1.5x. This means that for
           every &euro;1 of search capital invested, the investor receives &euro;1.50
           worth of acquisition equity. The step-up compensates search investors
-          for the higher risk of funding the pre-deal search phase. In some
+          for the higher risk of funding the pre-deal search phase. For a full
+          breakdown of how the step-up is documented, see our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>. In some
           structures, the step-up is 2.0x, especially in competitive fundraising
           environments.
         </p>
@@ -49,7 +52,7 @@ export default function CapTablesEquityArticle() {
           The equity portion of the acquisition financing is offered first to
           existing search investors (right of first refusal), then to new
           investors. The total equity check depends on the enterprise value and
-          leverage used. Acquisition equity typically represents 30-50% of the
+          use used. Acquisition equity typically represents 30-50% of the
           total purchase price, with the remainder funded by debt.
         </p>
 
@@ -98,13 +101,13 @@ export default function CapTablesEquityArticle() {
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">Step-up at acquisition</td>
                 <td className="py-2 pr-4">&euro;750K equity credit</td>
-                <td className="py-2 pr-4">&mdash;</td>
+                <td className="py-2 pr-4">, </td>
                 <td className="py-2">1.5x on &euro;500K search capital</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">New acquisition equity</td>
                 <td className="py-2 pr-4">&euro;1,650K additional</td>
-                <td className="py-2 pr-4">&mdash;</td>
+                <td className="py-2 pr-4">, </td>
                 <td className="py-2">Total equity = &euro;2.4M</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
@@ -127,7 +130,7 @@ export default function CapTablesEquityArticle() {
           (&euro;500K search + &euro;1.65M acquisition equity) and own 75% of the
           company. The searcher deploys &euro;0 in cash but earns 25% of the
           equity through sweat equity. At a &euro;30M exit (5x enterprise value),
-          investors receive &euro;22.5M on &euro;2.15M invested &mdash; a 10.5x
+          investors receive &euro;22.5M on &euro;2.15M invested, a 10.5x
           gross multiple. The searcher receives &euro;7.5M.
         </p>
 
@@ -136,7 +139,7 @@ export default function CapTablesEquityArticle() {
           Let us trace each dollar through the cap table to make the mechanics
           concrete. At the search close, the 15 investors collectively contribute
           &euro;500,000 and own 100% of the search fund entity. The searcher owns
-          0% at this point — their economics come later through carried interest.
+          0% at this point - their economics come later through carried interest.
           This &euro;500,000 is the at-risk capital: if the searcher never finds
           a deal, investors lose their entire investment.
         </p>
@@ -144,19 +147,19 @@ export default function CapTablesEquityArticle() {
           When the searcher identifies the &euro;6M target company and negotiates
           the acquisition, the search capital converts at a 1.5x step-up. This
           means the &euro;500,000 of search capital is now treated as &euro;750,000
-          worth of acquisition equity — a &euro;250,000 &ldquo;bonus&rdquo; that
+          worth of acquisition equity - a &euro;250,000 &ldquo;bonus&rdquo; that
           compensates search investors for the risk they took before a deal was
           identified. The remaining &euro;1,650,000 of acquisition equity is
           raised from both existing search investors (who have the right of first
           refusal) and potentially new co-investors. The total equity in the deal
           is now &euro;2,400,000, which represents 40% of the &euro;6M enterprise
-          value. The other 60% — &euro;3,600,000 — is funded by senior debt.
+          value. The other 60% - &euro;3,600,000 - is funded by senior debt.
         </p>
         <p>
           After closing, the searcher&apos;s 25% carried interest is layered on
           top. The investors collectively hold 75% of the company and the searcher
           holds 25%. Importantly, the searcher&apos;s 25% does not dilute the
-          investors&apos; cash investment — it is additional equity created to
+          investors&apos; cash investment - it is additional equity created to
           incentivize the searcher. If the company grows to &euro;30M in
           enterprise value and is sold, the debt is repaid first, and the
           remaining equity value is split 75/25 between investors and the
@@ -168,7 +171,7 @@ export default function CapTablesEquityArticle() {
           Dilution is one of the most misunderstood concepts in search fund
           economics. Searchers who fail to model dilution scenarios before
           finalizing their cap table often find themselves with far less equity
-          than they expected — or worse, they surprise their investors with
+          than they expected - or worse, they surprise their investors with
           unexpected ownership changes that erode trust.
         </p>
 
@@ -212,7 +215,7 @@ export default function CapTablesEquityArticle() {
           If the acquired company needs additional capital for growth initiatives,
           bolt-on acquisitions, or to weather an unexpected downturn, a follow-on
           equity raise will dilute all existing shareholders. The terms of the
-          follow-on — particularly the valuation at which new equity is issued —
+          follow-on - particularly the valuation at which new equity is issued - 
           determine whether the dilution is accretive or destructive to existing
           holders. Anti-dilution provisions in the original investment documents
           may protect some investors from unfavorable follow-on pricing, but
@@ -227,9 +230,9 @@ export default function CapTablesEquityArticle() {
         </p>
         <ul className={ulClass}>
           <li><strong>Search costs:</strong> &euro;50K-&euro;150K funded from personal savings.</li>
-          <li><strong>Acquisition equity:</strong> Raised from investors for a specific deal &mdash; no step-up, no preferential rights from a search phase.</li>
+          <li><strong>Acquisition equity:</strong> Raised from investors for a specific deal, no step-up, no preferential rights from a search phase.</li>
           <li><strong>Searcher ownership:</strong> 50-80% depending on how much equity the searcher contributes personally and the negotiated carried interest.</li>
-          <li><strong>Leverage:</strong> Often higher use of SBA loans (US) or government-backed lending (EU) to reduce the equity check.</li>
+          <li><strong>Use:</strong> Often higher use of SBA loans (US) or government-backed lending (EU) to reduce the equity check.</li>
         </ul>
         <p>
           The tradeoff is clear: self-funded searchers keep more of the upside
@@ -253,7 +256,7 @@ export default function CapTablesEquityArticle() {
           In the traditional model, the searcher owns 25% and investors own 75%.
           In the self-funded model, the searcher owns 60% and investors own 40%.
           At the same &euro;30M exit, the self-funded searcher receives &euro;18M
-          versus &euro;7.5M — more than double — while investors receive &euro;12M
+          versus &euro;7.5M - more than double - while investors receive &euro;12M
           on their &euro;2.0M investment (a 6x return) compared to &euro;22.5M
           on &euro;2.15M (a 10.5x return) in the traditional model. Investors
           earn a lower multiple in the self-funded structure but still achieve
@@ -277,8 +280,8 @@ export default function CapTablesEquityArticle() {
           with a guaranteed return, such as 8% per year) before any proceeds are
           distributed to common shareholders. In a downside scenario where the
           company is sold for less than the total capital invested, the preferred
-          holders recover their investment first, and the common shareholders —
-          including the searcher — may receive nothing. This structure protects
+          holders recover their investment first, and the common shareholders - 
+          including the searcher - may receive nothing. This structure protects
           investors from moderate losses while still giving the searcher
           significant upside in successful outcomes.
         </p>
@@ -343,8 +346,8 @@ export default function CapTablesEquityArticle() {
         <p>
           Smart searchers model these dilution scenarios before finalizing the
           cap table. Build a spreadsheet that shows ownership percentages under
-          different deal sizes, leverage levels, and seller rollover assumptions.
-          Share this analysis with investors &mdash; it demonstrates financial
+          different deal sizes, use levels, and seller rollover assumptions.
+          Share this analysis with investors, it demonstrates financial
           sophistication and transparency.
         </p>
 
@@ -376,7 +379,7 @@ export default function CapTablesEquityArticle() {
 
         <h3 className={h3Class}>The role of legal counsel</h3>
         <p>
-          A good attorney who understands search fund economics is not optional —
+          A good attorney who understands search fund economics is not optional - 
           they are essential. The cap table is ultimately a legal construct, and
           errors in the operating agreement, shareholder agreement, or equity
           grant documents can have costly consequences. Common issues include
@@ -409,8 +412,8 @@ export default function CapTablesEquityArticle() {
           what triggers each tranche, what happens if the searcher leaves
           voluntarily versus involuntarily, what constitutes &ldquo;cause&rdquo;
           for termination, and whether unvested shares are forfeited or
-          repurchased. Acceleration clauses — which may allow some or all vesting
-          to accelerate upon a change of control — should also be explicitly
+          repurchased. Acceleration clauses - which may allow some or all vesting
+          to accelerate upon a change of control - should also be explicitly
           addressed.
         </p>
 
@@ -429,8 +432,8 @@ export default function CapTablesEquityArticle() {
 
         <h3 className={h3Class}>Failing to communicate changes proactively</h3>
         <p>
-          Every time the cap table changes — whether through vesting events,
-          new equity issuances, option grants, or ownership transfers — all
+          Every time the cap table changes - whether through vesting events,
+          new equity issuances, option grants, or ownership transfers - all
           shareholders should be notified promptly with a clear explanation of
           what changed and why. Surprises erode trust. The best search fund
           CEOs send updated cap table summaries as part of their quarterly
@@ -443,9 +446,54 @@ export default function CapTablesEquityArticle() {
           <li>The traditional search fund model is designed to align searcher and investor incentives through the three-tranche vesting structure.</li>
           <li>The step-up rewards early search investors for taking pre-deal risk but dilutes the overall equity pool.</li>
           <li>Self-funded searchers trade investor support for significantly higher equity ownership.</li>
-          <li>Always model dilution scenarios before committing to a deal structure &mdash; what looks like 25% equity can shrink quickly with additional financing layers.</li>
+          <li>Always model dilution scenarios before committing to a deal structure, what looks like 25% equity can shrink quickly with additional financing layers.</li>
           <li>Cap table transparency builds investor trust. Share your models early and update them as the deal evolves.</li>
         </ul>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is the difference between fully diluted and basic ownership in a search fund?
+        </h3>
+        <p>
+          Basic ownership counts only the shares currently issued and
+          outstanding. Fully diluted ownership includes all shares that could
+          be issued - including unvested searcher equity tranches, the
+          management option pool, and any convertible instruments. Investors
+          always think in fully diluted terms because it reflects the true
+          economic picture. When discussing your cap table with investors,
+          always present fully diluted numbers to avoid confusion and build
+          trust.
+        </p>
+
+        <h3 className={h3Class}>
+          How does seller rollover equity affect the cap table?
+        </h3>
+        <p>
+          When a seller retains a stake in the business post-acquisition - 
+          typically 10 to 20 percent - that equity comes from the total
+          equity pool and dilutes both the searcher and the investors
+          proportionally. For example, if a seller rolls over 15 percent,
+          the searcher&apos;s 25 percent becomes approximately 21 percent
+          and investors&apos; 75 percent becomes approximately 64 percent
+          on a fully diluted basis. Seller rollover can be a positive signal
+          of confidence, but the dilution impact must be modeled and
+          discussed with your investor syndicate before signing the LOI.
+        </p>
+
+        <h3 className={h3Class}>
+          Should I use a cap table management tool during the search phase?
+        </h3>
+        <p>
+          During the search phase, a well-built Excel or Google Sheets model
+          is sufficient. You have a simple structure - search units and
+          investors - and the primary use is scenario modeling. After the
+          acquisition closes, transition to a dedicated platform like Carta,
+          Pulley, or Ledgy. These tools manage multiple equity classes,
+          automate vesting schedules, generate legal certificates, and give
+          all shareholders a self-service portal to view their ownership.
+        </p>
       </div>
     </article>
   );

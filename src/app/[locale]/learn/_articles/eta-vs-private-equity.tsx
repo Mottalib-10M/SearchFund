@@ -13,8 +13,8 @@ export default function ETAvsPrivateEquityArticle() {
           equity (PE) both involve buying and improving businesses, but the
           similarities largely end there. Deal sizes, fee structures, return
           profiles, management involvement, and alignment of interests differ
-          in fundamental ways that every investor — and every aspiring
-          operator — should understand before allocating capital. This guide
+          in fundamental ways that every investor - and every aspiring
+          operator - should understand before allocating capital. This guide
           breaks down the structural differences and helps you decide which
           model fits your investment objectives.
         </p>
@@ -33,10 +33,10 @@ export default function ETAvsPrivateEquityArticle() {
         </p>
         <p>
           This size difference has profound implications. The small and
-          medium enterprise (SME) market targeted by ETA is vast — there
+          medium enterprise (SME) market targeted by ETA is vast - there
           are over 6 million employer businesses in the United States alone,
           and roughly 10,000 baby-boomer-owned businesses become available
-          for sale every day. PE firms compete intensely for a much smaller
+          for sale every day, according to the U.S. Census Bureau and BizBuySell market data. PE firms compete intensely for a much smaller
           universe of larger, institutionally-ready targets. The fragmented
           nature of the SME market means search fund investors can often
           acquire businesses at lower multiples (3x to 6x EBITDA) compared
@@ -53,12 +53,15 @@ export default function ETAvsPrivateEquityArticle() {
           acquired companies. The top-quartile search funds deliver IRRs
           exceeding 50%. Traditional PE, meanwhile, has delivered median
           net IRRs of approximately 14% to 18% over the past two decades,
-          according to data from Cambridge Associates and Preqin. Top-quartile
-          PE funds achieve roughly 20% to 25% net IRR.
+          according to Cambridge Associates&apos; Private Equity Index and Preqin&apos;s Global Private Equity &amp; Venture Capital Report. Top-quartile
+          PE funds achieve roughly 20% to 25% net IRR. Bain &amp; Company&apos;s
+          2024 Global Private Equity Report further notes that PE returns have
+          been compressed by rising entry multiples and increased competition
+          for quality assets.
         </p>
         <p>
           However, context matters. PE returns are generated on much larger
-          capital bases — a 15% IRR on a $5 billion fund produces far more
+          capital bases - a 15% IRR on a $5 billion fund produces far more
           absolute wealth than a 35% IRR on a $500,000 search fund investment.
           ETA is a high-IRR strategy but not necessarily a high-absolute-return
           strategy per individual investment. Sophisticated investors often
@@ -69,7 +72,7 @@ export default function ETAvsPrivateEquityArticle() {
 
         <h3 className={h3Class}>The J-curve difference</h3>
         <p>
-          PE funds typically exhibit a pronounced J-curve — investors
+          PE funds typically exhibit a pronounced J-curve - investors
           experience negative returns in years one through three as management
           fees are drawn and capital is deployed. Returns accelerate in
           years four through eight as portfolio companies are improved and
@@ -93,7 +96,7 @@ export default function ETAvsPrivateEquityArticle() {
             <strong>Management fee:</strong> PE firms charge an annual
             management fee of approximately 1.5% to 2.0% of committed
             capital. On a $1 billion fund, this generates $15 million to
-            $20 million per year in fee revenue — regardless of performance.
+            $20 million per year in fee revenue - regardless of performance.
             Over a ten-year fund life, cumulative management fees can
             consume 15% to 20% of total committed capital.
           </li>
@@ -116,7 +119,7 @@ export default function ETAvsPrivateEquityArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Search capital:</strong> Investors contribute $400,000
-            to $600,000 to fund the search phase. This capital is at risk —
+            to $600,000 to fund the search phase. This capital is at risk - 
             if no acquisition is completed, it is typically lost. In return,
             search investors receive the right to invest pro rata in the
             acquisition at a step-up (usually 50%, meaning they receive
@@ -128,7 +131,7 @@ export default function ETAvsPrivateEquityArticle() {
             vesting over four to five years and tied to performance
             milestones. For a deeper look at equity allocation, see our guide to{" "}
             <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap tables and equity structures</Link>. This equity is earned entirely through operational
-            performance — there are no management fees charged during
+            performance - there are no management fees charged during
             the search or operating phases.
           </li>
           <li>
@@ -142,7 +145,7 @@ export default function ETAvsPrivateEquityArticle() {
           The result is tighter alignment. The searcher earns outsized
           returns only when investors earn outsized returns. There is no
           mechanism for the operator to profit substantially from a mediocre
-          outcome — unlike PE, where management fees can make even a
+          outcome - unlike PE, where management fees can make even a
           below-average fund quite profitable for the GP.
         </p>
 
@@ -150,7 +153,7 @@ export default function ETAvsPrivateEquityArticle() {
         <p>
           In ETA, the investor is backing a single operator who becomes
           the full-time CEO of the acquired company. This CEO has day-to-day
-          operational control and makes all key decisions — hiring, pricing,
+          operational control and makes all key decisions - hiring, pricing,
           strategy, capital allocation. Investors provide governance through
           a board of directors but are not involved in daily operations.
           The model is fundamentally a bet on a single individual&apos;s
@@ -160,13 +163,13 @@ export default function ETAvsPrivateEquityArticle() {
           In PE, the GP firm itself is the active manager. PE firms employ
           teams of operating partners, analysts, and functional specialists
           who work with portfolio company management to drive value creation.
-          The CEO of a PE-backed company is a hired executive — important,
+          The CEO of a PE-backed company is a hired executive - important,
           but replaceable. The institutional knowledge and operational
           playbook reside within the PE firm, not in any single individual.
         </p>
         <p>
           This difference creates distinct risk profiles. ETA has higher
-          key-person risk — if the searcher-CEO underperforms or leaves, the
+          key-person risk - if the searcher-CEO underperforms or leaves, the
           investment is severely impaired. PE distributes operational risk
           across a professional team and a diversified portfolio of companies.
         </p>
@@ -186,7 +189,7 @@ export default function ETAvsPrivateEquityArticle() {
           <li>
             <strong>ETA exits:</strong> Strategic sales to larger competitors
             or PE firms, management buyouts, and ESOP conversions. Search
-            fund exits tend to be simpler transactions — the businesses
+            fund exits tend to be simpler transactions - the businesses
             are smaller and the buyer universe includes both strategic
             acquirers and financial sponsors looking for platform investments.
           </li>
@@ -212,7 +215,7 @@ export default function ETAvsPrivateEquityArticle() {
         <p>
           A search fund investment is, by definition, a single-company
           bet. Investors who want diversification in ETA must build a
-          portfolio of search fund investments — typically backing 10 to
+          portfolio of search fund investments - typically backing 10 to
           20 searchers to create a diversified &quot;fund of search
           funds&quot; approach. Many sophisticated search fund investors
           follow this strategy, backing multiple searchers per vintage
@@ -251,17 +254,17 @@ export default function ETAvsPrivateEquityArticle() {
         <h3 className={h3Class}>PE-specific risks</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Leverage risk:</strong> PE transactions typically use
-            60% to 70% debt financing. In downturns, highly leveraged
+            <strong>Use risk:</strong> PE transactions typically use
+            60% to 70% debt financing. In downturns, highly used
             portfolio companies can face covenant breaches and potential
-            bankruptcy. Search fund acquisitions use more moderate leverage
+            bankruptcy. Search fund acquisitions use more moderate use
             (typically 50% to 60% of the purchase price).
           </li>
           <li>
             <strong>Multiple compression:</strong> PE often depends on
             buying at one multiple and selling at a higher multiple
-            (multiple expansion). If valuation multiples contract — as
-            they did in 2022-2023 — PE returns suffer. ETA returns depend
+            (multiple expansion). If valuation multiples contract - as
+            they did in 2022-2023 - PE returns suffer. ETA returns depend
             more on operational improvement and less on financial
             engineering.
           </li>
@@ -294,9 +297,9 @@ export default function ETAvsPrivateEquityArticle() {
           </li>
           <li>
             <strong>Operational complexity:</strong> Businesses that require
-            sophisticated operational improvements — supply chain
+            sophisticated operational improvements - supply chain
             optimization, international expansion, complex technology
-            integration — benefit from the deep bench of a PE firm&apos;s
+            integration - benefit from the deep bench of a PE firm&apos;s
             operating team.
           </li>
           <li>
@@ -341,7 +344,7 @@ export default function ETAvsPrivateEquityArticle() {
 
         <h2 className={h2Class}>Building a blended allocation</h2>
         <p>
-          The most sophisticated investors do not choose between ETA and PE —
+          The most sophisticated investors do not choose between ETA and PE - 
           they allocate to both. A typical approach for a family office or
           high-net-worth individual might be:
         </p>
@@ -366,6 +369,45 @@ export default function ETAvsPrivateEquityArticle() {
           advantages of ETA. The low correlation between individual search
           fund outcomes and broader PE market cycles adds genuine
           diversification benefit to the overall private equity portfolio.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+        <h3 className={h3Class}>How is ETA different from private equity?</h3>
+        <p>
+          ETA targets smaller deals ($1-20M enterprise value vs. $100M+ for PE),
+          involves a single operator-CEO rather than a professional management team,
+          uses step-up equity instead of 2/20 fee structures, and focuses on one
+          business at a time. The operator is deeply aligned through personal equity
+          and earns outsized returns only when investors earn outsized returns.
+          There are no management fees in ETA, whereas PE firms charge 1.5-2%
+          annually regardless of performance. For a deeper understanding of ETA
+          mechanics, see our guide on{" "}
+          <Link href="/learn/what-is-a-search-fund" className="text-apple-accent hover:underline">what is a search fund</Link>.
+        </p>
+
+        <h3 className={h3Class}>Do search funds outperform private equity?</h3>
+        <p>
+          On an IRR basis, search funds have historically outperformed PE. The
+          2024 Stanford study reports median pre-tax IRR of approximately 33%
+          for search funds versus 14-18% median net IRR for traditional PE.
+          However, PE offers larger absolute returns per fund, more
+          diversification, and greater liquidity. The comparison depends on
+          the investor&apos;s portfolio construction goals: PE for scale and
+          diversification, ETA for concentrated high-IRR alpha. Many
+          sophisticated family offices allocate to both.
+        </p>
+
+        <h3 className={h3Class}>Can I invest in both ETA and PE?</h3>
+        <p>
+          Yes, and many sophisticated investors do exactly that. A typical
+          approach allocates 60-70% of private equity capital to
+          traditional PE funds for diversified, institutional-quality
+          exposure and 20-30% across 10-20 search fund investments
+          per vintage year for high-IRR alpha. The low correlation between
+          individual search fund outcomes and broader PE market cycles adds
+          genuine diversification benefit to the overall portfolio. Learn
+          more about building a search fund portfolio in our{" "}
+          <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">search fund returns analysis</Link>.
         </p>
       </div>
     </article>

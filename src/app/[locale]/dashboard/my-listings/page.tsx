@@ -11,7 +11,7 @@ import type { Metadata } from "next";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "My Listings — Manage Your Businesses on SearchFundMarket",
+  title: "My Listings - Manage Your Businesses on SearchFundMarket",
   description:
     "Manage your business listings on SearchFundMarket. Edit details, track saves and inquiries, publish updates, and connect with qualified search fund buyers.",
 };

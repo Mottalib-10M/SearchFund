@@ -7,11 +7,12 @@ export default function StepUpInBasisArticle() {
       <h1 className={h1Class}>Step-Up in Basis: Tax Benefits for Asset Purchases</h1>
       <div className={bodyClass}>
         <p>A step-up in basis is one of the most significant tax advantages of acquiring a business through an <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">asset purchase</Link> rather than a stock purchase. By stepping up the tax basis of acquired assets to their fair market value at the time of acquisition, buyers can generate substantial tax deductions that reduce the effective cost of the acquisition.</p>
+        <p>According to the AICPA&apos;s <em>Purchase Price Allocation Guide for M&amp;A Transactions</em>, the net present value of step-up tax benefits typically ranges from 10-20% of the total purchase price on a standard SME acquisition. For a $3 million deal, that can mean $300,000-$600,000 in present-value tax savings over the amortization period, a significant factor in determining the buyer&apos;s true <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">effective acquisition cost</Link>.</p>
       </div>
 
       <h2 className={h2Class}>What Is a Step-Up in Basis?</h2>
       <div className={bodyClass}>
-        <p>When you buy assets at fair market value, your tax basis in those assets is the purchase price. This is the &quot;step-up&quot; &mdash; the acquired assets are recorded at their current value rather than the seller&apos;s historical (often much lower) book value.</p>
+        <p>When you buy assets at fair market value, your tax basis in those assets is the purchase price. This is the &quot;step-up&quot;, the acquired assets are recorded at their current value rather than the seller&apos;s historical (often much lower) book value.</p>
         <ul className={ulClass}>
           <li><strong>Tangible assets:</strong> Equipment, vehicles, real estate, inventory are stepped up to FMV</li>
           <li><strong>Intangible assets:</strong> Customer lists, trade names, non-compete agreements, technology are valued and stepped up</li>
@@ -24,14 +25,14 @@ export default function StepUpInBasisArticle() {
       <div className={bodyClass}>
         <p>Consider a $3M acquisition with the following purchase price allocation:</p>
         <ul className={ulClass}>
-          <li>Equipment: $500K (depreciated over 5&ndash;7 years)</li>
+          <li>Equipment: $500K (depreciated over 5-7 years)</li>
           <li>Real estate: $800K (depreciated over 39 years for commercial property)</li>
           <li>Customer relationships: $400K (amortized over 15 years)</li>
-          <li>Non-compete agreement: $200K (amortized over the agreement term, typically 3&ndash;5 years)</li>
+          <li>Non-compete agreement: $200K (amortized over the agreement term, typically 3-5 years)</li>
           <li>Trade name: $300K (amortized over 15 years)</li>
           <li>Goodwill: $800K (amortized over 15 years under Section 197)</li>
         </ul>
-        <p>Total annual tax deductions from stepped-up assets can be $200K&ndash;$400K in the early years, saving $50K&ndash;$100K+ in taxes annually at a 25% effective rate.</p>
+        <p>Total annual tax deductions from stepped-up assets can be $200K-$400K in the early years, saving $50K-$100K+ in taxes annually at a 25% effective rate. These non-cash deductions improve free cash flow available for <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">debt service</Link>, which is why experienced buyers and SBA lenders model the step-up benefit into acquisition cash flow projections from day one.</p>
       </div>
 
       <h2 className={h2Class}>Step-Up vs. No Step-Up: Stock Purchase Comparison</h2>
@@ -81,13 +82,14 @@ export default function StepUpInBasisArticle() {
           <li><strong>Compromise:</strong> The allocation is negotiated as part of the purchase agreement and should be supported by independent appraisals</li>
           <li><strong>IRS scrutiny:</strong> Unreasonable allocations can be challenged; always support with third-party valuations</li>
         </ul>
+        <p>Deloitte&apos;s <em>Tax Considerations for Business Acquisitions</em> guide recommends engaging an independent valuation firm to perform the purchase price allocation, particularly for deals above $2M. The cost of a third-party valuation ($5,000-$20,000) is trivial compared to the multi-year tax savings it supports, and it provides a defensible position in the event of an IRS audit.</p>
       </div>
 
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li>Step-up in basis generates significant tax deductions that reduce the after-tax cost of asset purchases</li>
-          <li>Annual tax savings of $50K&ndash;$100K+ are common on $3M+ acquisitions</li>
+          <li>Annual tax savings of $50K-$100K+ are common on $3M+ acquisitions</li>
           <li>Section 197 provides 15-year amortization for most intangible assets including goodwill</li>
           <li>Purchase price allocation is negotiable and should be addressed in the purchase agreement</li>
           <li>Consider the 338(h)(10) election for stock purchases where a step-up would be beneficial</li>
@@ -101,6 +103,23 @@ export default function StepUpInBasisArticle() {
         <li><Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">Tax Optimization for Search Fund Acquisitions</Link></li>
         <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Does a step-up in basis apply to SBA-financed acquisitions?</h3>
+      <div className={bodyClass}>
+        <p>Yes. SBA 7(a) loans commonly finance asset purchases, and the step-up applies fully. In fact, the additional depreciation and amortization deductions generated by the step-up improve the borrower&apos;s cash flow, which strengthens debt service coverage ratios. Many SBA lenders explicitly include the step-up tax benefit in their cash flow projections when underwriting the loan.</p>
+      </div>
+
+      <h3 className={h3Class}>Can I get a step-up in basis on a stock purchase?</h3>
+      <div className={bodyClass}>
+        <p>Not by default. In a standard stock purchase, the buyer inherits the seller&apos;s existing tax basis in the company&apos;s assets. However, a Section 338(h)(10) election, available for S corporations and certain subsidiary purchases, allows the transaction to be treated as an asset purchase for tax purposes while remaining a stock purchase legally. This gives the buyer the step-up benefit while avoiding the complexity of transferring individual assets, licenses, and contracts.</p>
+      </div>
+
+      <h3 className={h3Class}>How do I allocate the purchase price between goodwill and identifiable intangibles?</h3>
+      <div className={bodyClass}>
+        <p>IRC Section 1060 requires a residual method: allocate first to tangible assets at fair market value, then to identifiable intangible assets (customer lists, trade names, non-competes), and finally the remainder to goodwill. Both buyer and seller must use the same allocation on Form 8594. While both goodwill and Section 197 intangibles amortize over 15 years, properly identifying specific intangibles can support the reasonableness of the overall allocation and reduce audit risk.</p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>

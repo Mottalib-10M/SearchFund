@@ -13,7 +13,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        This guide provides a comprehensive roadmap for corporate professionals considering the ETA path, from recognizing the signs you're ready to leave to executing a month-by-month transition plan that minimizes risk while maximizing your chances of success.
+        This guide provides a thorough roadmap for corporate professionals considering the ETA path, from recognizing the signs you're ready to leave to executing a month-by-month transition plan that minimizes risk while maximizing your chances of success.
       </p>
 
       <h2 className={h2Class}>The Corporate-to-ETA Transition</h2>
@@ -23,7 +23,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea—you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business.
+        The appeal is clear: ETA combines the autonomy and wealth-creation potential of entrepreneurship with the structure and proven business models that corporate professionals appreciate. You're not betting on an untested idea - you're acquiring a company with established customers, revenue, and operations. Your corporate skills in strategy, finance, operations, and management directly translate to running an acquired business. Understanding the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link> can help you assess whether your profile is a strong fit.
       </p>
 
       <p className={bodyClass}>
@@ -31,7 +31,7 @@ export default function CorporateToETAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Understanding this shift—and honestly assessing whether you're suited for it—is the first step in determining if and when to make the leap.
+        Understanding this shift - and honestly assessing whether you're suited for it - is the first step in determining if and when to make the leap.
       </p>
 
       <h2 className={h2Class}>Signs You're Ready to Leave Corporate</h2>
@@ -67,7 +67,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>You're Energized by Ambiguity</h3>
 
       <p className={bodyClass}>
-        Corporate life offers clear hierarchies, defined roles, and established processes. ETA is fundamentally about navigating uncertainty—from sourcing deals to negotiating with sellers to fixing problems in an acquired business. If ambiguity drains you rather than energizes you, the transition may be premature.
+        Corporate life offers clear hierarchies, defined roles, and established processes. ETA is fundamentally about navigating uncertainty - from sourcing deals to negotiating with sellers to fixing problems in an acquired business. If ambiguity drains you rather than energizes you, the transition may be premature.
       </p>
 
       <h3 className={h3Class}>You Have Support at Home</h3>
@@ -79,7 +79,7 @@ export default function CorporateToETAArticle() {
       <h2 className={h2Class}>Financial Preparation</h2>
 
       <p className={bodyClass}>
-        The financial preparation for an ETA transition extends well beyond having savings in the bank. Here's a comprehensive framework for getting your finances in order:
+        The financial preparation for an ETA transition extends well beyond having savings in the bank. Here's a thorough framework for getting your finances in order:
       </p>
 
       <h3 className={h3Class}>Build Your Runway</h3>
@@ -98,7 +98,7 @@ export default function CorporateToETAArticle() {
       </ul>
 
       <p className={bodyClass}>
-        If you're raising a traditional search fund, your investors will typically provide a search salary of $75,000-$150,000 annually for 18-24 months. However, you'll need runway to bridge from leaving corporate to closing your fund, and to cover any shortfall between the search salary and your actual costs.
+        If you're raising a traditional search fund, your investors will typically provide a search salary of $75,000-$150,000 annually for 18-24 months. However, you'll need runway to bridge from leaving corporate to closing your fund, and to cover any shortfall between the search salary and your actual costs. For a deeper look at compensation benchmarks, see our guide on <Link href="/learn/search-fund-salary" className="text-apple-accent hover:underline">search fund salary and compensation</Link>.
       </p>
 
       <h3 className={h3Class}>Eliminate High-Interest Debt</h3>
@@ -140,7 +140,7 @@ export default function CorporateToETAArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These approaches can extend your runway but may also slow your search momentum and signal to investors that you're not fully committed.
+        These approaches can extend your runway but may also slow your search momentum and signal to investors that you're not fully committed. You can learn more about the tradeoffs in our comparison of <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional search funds</Link>.
       </p>
 
       <h2 className={h2Class}>Timing: Best and Worst Career Stages</h2>
@@ -204,7 +204,7 @@ export default function CorporateToETAArticle() {
       <h2 className={h2Class}>Transferable Skills from Corporate</h2>
 
       <p className={bodyClass}>
-        Your corporate experience provides numerous advantages in ETA. Understanding which skills transfer—and how—helps you position yourself effectively with investors and sellers:
+        Your corporate experience provides numerous advantages in ETA. Understanding which skills transfer - and how - helps you position yourself effectively with investors and sellers:
       </p>
 
       <h3 className={h3Class}>Strategic Thinking and Analysis</h3>
@@ -240,7 +240,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Sales and Business Development</h3>
 
       <p className={bodyClass}>
-        Corporate sales experience is enormously valuable. Many searchers come from pure strategy or finance backgrounds and underestimate how much of success depends on sales—both selling yourself to investors and sellers, and driving revenue in the acquired business.
+        Corporate sales experience is enormously valuable. Many searchers come from pure strategy or finance backgrounds and underestimate how much of success depends on sales - both selling yourself to investors and sellers, and driving revenue in the acquired business.
       </p>
 
       <h2 className={h2Class}>Skills You'll Need to Build</h2>
@@ -258,13 +258,13 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Negotiation with Principals</h3>
 
       <p className={bodyClass}>
-        Corporate negotiations often involve professional counterparties (procurement, HR, legal). Negotiating with individual business owners who've poured their lives into their companies requires different skills—more emotional intelligence, patience, and creative problem-solving.
+        Corporate negotiations often involve professional counterparties (procurement, HR, legal). Negotiating with individual business owners who've poured their lives into their companies requires different skills - more emotional intelligence, patience, and creative problem-solving.
       </p>
 
       <h3 className={h3Class}>Hands-On Problem Solving</h3>
 
       <p className={bodyClass}>
-        In corporate roles, you often have specialists for everything. In a small acquired business, you may need to troubleshoot the CRM, negotiate with suppliers, handle customer complaints, and fix the WiFi—sometimes all in the same day. Comfort with tactical execution matters.
+        In corporate roles, you often have specialists for everything. In a small acquired business, you may need to troubleshoot the CRM, negotiate with suppliers, handle customer complaints, and fix the WiFi - sometimes all in the same day. Comfort with tactical execution matters.
       </p>
 
       <h3 className={h3Class}>Selling to Investors</h3>
@@ -364,7 +364,7 @@ export default function CorporateToETAArticle() {
         <li>Complete search fund fundraising materials</li>
         <li>Schedule initial investor meetings to begin immediately after departure</li>
         <li>Set up your search infrastructure (LLC, website, CRM, email system)</li>
-        <li>Plan a short break between corporate and search—you'll need it</li>
+        <li>Plan a short break between corporate and search - you'll need it</li>
       </ul>
 
       <h3 className={h3Class}>Month 1: Post-Departure</h3>
@@ -416,13 +416,13 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>Involve Your Partner in Major Decisions</h3>
 
       <p className={bodyClass}>
-        If you're married or in a committed relationship, involve your partner in key decisions: which investors to partner with, whether to pursue a particular deal, whether to relocate for an opportunity. You're asking them to take this journey with you—treat them like the partner they are.
+        If you're married or in a committed relationship, involve your partner in key decisions: which investors to partner with, whether to pursue a particular deal, whether to relocate for an opportunity. You're asking them to take this journey with you - treat them like the partner they are.
       </p>
 
       <h3 className={h3Class}>Plan for the Emotional Journey</h3>
 
       <p className={bodyClass}>
-        The search process is emotionally taxing. Deals fall apart, investors say no, sellers ghost you. Your partner needs to understand this isn't failure—it's the process. Establish support systems and communication practices to manage the stress together.
+        The search process is emotionally taxing. Deals fall apart, investors say no, sellers ghost you. Your partner needs to understand this isn't failure - it's the process. Establish support systems and communication practices to manage the stress together.
       </p>
 
       <h3 className={h3Class}>Protect Family Time</h3>
@@ -482,7 +482,7 @@ export default function CorporateToETAArticle() {
       <h3 className={h3Class}>No Clear Search Thesis</h3>
 
       <p className={bodyClass}>
-        Some searchers leave corporate without a clear idea of what types of businesses they want to acquire or why they're qualified to run them. Develop your search thesis while employed, leveraging your industry expertise and corporate experience to target specific opportunities.
+        Some searchers leave corporate without a clear idea of what types of businesses they want to acquire or why they're qualified to run them. Develop your search thesis while employed, using your industry expertise and corporate experience to target specific opportunities.
       </p>
 
       <h3 className={h3Class}>Treating It Like a Corporate Job</h3>
@@ -503,6 +503,32 @@ export default function CorporateToETAArticle() {
         The sticker shock of paying full freight for health insurance surprises many former corporate employees. Budget $500-$2,000+ per month depending on family size and coverage level. Factor this into your runway calculations.
       </p>
 
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How much savings do I need before leaving corporate for ETA?</h3>
+
+      <p className={bodyClass}>
+        Most successful searchers recommend having 12-24 months of living expenses saved before transitioning. This should cover your actual living costs including housing, healthcare (which will be significantly more expensive without corporate coverage), family expenses, and a 20% buffer for unexpected costs. If you plan to raise a traditional search fund, you will receive a search salary of $75,000-$150,000, but you still need savings to bridge the gap between leaving your job and closing your fund.
+      </p>
+
+      <h3 className={h3Class}>Can I search part-time while still employed?</h3>
+
+      <p className={bodyClass}>
+        While some self-funded searchers begin their search part-time, most investors and experienced searchers advise against it for traditional funded searches. Part-time searching signals a lack of commitment to investors and significantly slows your deal sourcing momentum. A better approach is to spend 6-12 months preparing while employed, building your network, developing your thesis, and saving aggressively, then committing full-time when you launch.
+      </p>
+
+      <h3 className={h3Class}>What if my ETA search fails and I need to return to corporate?</h3>
+
+      <p className={bodyClass}>
+        The good news is that most former searchers who return to the corporate world land well. The skills developed during a search, including deal evaluation, financial analysis, negotiation, and entrepreneurial initiative, are highly valued by employers. Many end up in corporate development, private equity, or operating roles at a higher level than they left. The key is framing the experience positively: emphasize the skills gained and the calculated risk you took rather than positioning it as a failure.
+      </p>
+
+      <h3 className={h3Class}>Do I need an MBA to pursue ETA?</h3>
+
+      <p className={bodyClass}>
+        An MBA is not strictly required, especially for self-funded searches. However, approximately 95% of traditional search fund entrepreneurs hold MBAs from top programs. The MBA provides access to investor networks, peer searcher communities, and credibility with institutional investors. If you do not have an MBA, self-funded search or independent sponsorship models may be more accessible paths to entrepreneurship through acquisition.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
@@ -518,7 +544,7 @@ export default function CorporateToETAArticle() {
         </li>
         <li>
           <a
-            href="https://www.iese.edu/faculty-research/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

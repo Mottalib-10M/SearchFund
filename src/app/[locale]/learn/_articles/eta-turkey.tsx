@@ -18,11 +18,11 @@ export default function ETATurkeyArticle() {
           scale, demographic energy, and structural deal flow that is
           difficult to match anywhere in the{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
-            European ETA landscape
-          </Link>. Yet Turkey also demands a nuanced understanding of its
+            European ETA market
+          </Link>. Yet Turkey also demands a detailed understanding of its
           regulatory environment, currency dynamics, and deeply
           relationship-driven business culture. For searchers who invest the
-          time to learn the terrain, the rewards can be extraordinary &mdash;
+          time to learn the terrain, the rewards can be extraordinary , 
           access to a vast pool of profitable family businesses approaching
           a generational inflection point, at valuations well below those
           found in Western Europe.
@@ -33,15 +33,15 @@ export default function ETATurkeyArticle() {
           Turkey&rsquo;s economy is the 19th largest in the world and the
           sixth largest in Europe. A member of NATO, the G20, and the OECD,
           the country maintains a customs union with the European Union. Its
-          geographic position &mdash; bordering the EU to the west, the
-          Caucasus to the northeast, and the Middle East to the south &mdash;
+          geographic position, bordering the EU to the west, the
+          Caucasus to the northeast, and the Middle East to the south , 
           makes it a natural trade hub connecting European, Middle Eastern,
           and Central Asian markets.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Young demographics:</strong> A population exceeding 85
-            million with a median age of 31 &mdash; the youngest and largest
+            million with a median age of 31, the youngest and largest
             workforce of any European or near-European economy, supporting
             domestic consumption and long-term growth.
           </li>
@@ -63,7 +63,7 @@ export default function ETATurkeyArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>SME landscape and the succession wave</h2>
+        <h2 className={h2Class}>SME market and the succession wave</h2>
         <p>
           Turkey&rsquo;s 3.5 million SMEs account for roughly 73% of total
           employment, 62% of exports, and 50% of GDP. The overwhelming
@@ -74,12 +74,12 @@ export default function ETATurkeyArticle() {
           of Turkish family businesses survive the transition to the second
           generation. Many founders&rsquo; children have pursued careers in
           Istanbul, Ankara, or abroad, leaving no natural successor. This
-          gap creates a structural ETA tailwind lasting 15&ndash;20 years.
+          gap creates a structural ETA tailwind lasting 15-20 years.
         </p>
         <p>
-          The sweet spot lies in companies with revenues of TRY 50M&ndash;500M
-          (roughly $1.5M&ndash;$15M) and EBITDA margins of 10&ndash;25%
-          &mdash; too small for institutional PE yet too valuable for the
+          The sweet spot lies in companies with revenues of TRY 50M-500M
+          (roughly $1.5M-$15M) and EBITDA margins of 10-25%
+          too small for institutional PE yet too valuable for the
           owner to shut down.
         </p>
 
@@ -121,7 +121,7 @@ export default function ETATurkeyArticle() {
         <p>
           Turkey&rsquo;s joint-stock company requires minimum capital of
           TRY 50,000, at least one shareholder, and allows different share
-          classes &mdash; useful for structuring search fund investor
+          classes, useful for structuring search fund investor
           economics. The A.&Scedil;. is mandatory for regulated sectors and
           preferred for larger acquisitions. Shares are freely transferable
           unless the articles of association (esas s&ouml;zle&scedil;me)
@@ -146,8 +146,8 @@ export default function ETATurkeyArticle() {
           <Link href="/learn/cross-border-acquisitions-europe" className="text-apple-accent hover:underline">
             cross-border European acquisitions
           </Link>: a newly incorporated Turkish A.&Scedil;. serves as the
-          acquisition vehicle. Turkey&rsquo;s participation exemption &mdash;
-          75% of capital gains exempt on shares held two-plus years &mdash;
+          acquisition vehicle. Turkey&rsquo;s participation exemption , 
+          75% of capital gains exempt on shares held two-plus years , 
           makes this structure attractive for eventual exits.
         </p>
 
@@ -156,8 +156,8 @@ export default function ETATurkeyArticle() {
         <p>
           Major banks (&Idot;&scedil; Bankas&inodot;, Garanti BBVA,
           Yap&inodot; Kredi, Akbank, Ziraat Bankas&inodot;, Halkbank) offer
-          acquisition finance at 1.5x&ndash;3x EBITDA. Tenors are shorter
-          (3&ndash;5 years versus 5&ndash;7 in Western Europe) and rates
+          acquisition finance at 1.5x-3x EBITDA. Tenors are shorter
+          (3-5 years versus 5-7 in Western Europe) and rates
           higher, reflecting Turkey&rsquo;s elevated base rates. Expect
           strong collateral and personal guarantee requirements.
         </p>
@@ -173,12 +173,12 @@ export default function ETATurkeyArticle() {
 
         <h3 className={h3Class}>Seller financing and currency dynamics</h3>
         <p>
-          Seller financing (15&ndash;30% deferred over 2&ndash;4 years) is
+          Seller financing (15-30% deferred over 2-4 years) is
           increasingly common and often the key to bridging valuation gaps.
           Turkish sellers are also receptive to earn-out structures that
           share upside under new ownership. Meanwhile, the lira&rsquo;s
           significant depreciation is the most discussed risk for foreign
-          investors &mdash; but searchers raising hard-currency equity
+          investors, but searchers raising hard-currency equity
           benefit from lower effective multiples. Targets with export
           revenues provide a natural currency hedge, as income flows in
           euros or dollars while costs remain in lira.
@@ -196,7 +196,7 @@ export default function ETATurkeyArticle() {
             and chemicals with strong Middle Eastern trade links.
           </li>
           <li>
-            <strong>Kayseri:</strong> The &ldquo;merchant city&rdquo; &mdash;
+            <strong>Kayseri:</strong> The &ldquo;merchant city&rdquo; , 
             furniture, textiles, metals, and food processing, known for
             conservative financial management.
           </li>
@@ -214,7 +214,7 @@ export default function ETATurkeyArticle() {
             and a broad tier-one/tier-two supplier ecosystem.
           </li>
           <li>
-            <strong>Kocaeli&ndash;Sakarya:</strong> Heavy industry, chemicals,
+            <strong>Kocaeli-Sakarya:</strong> Heavy industry, chemicals,
             and automotive supply chains near Istanbul at lower cost.
           </li>
         </ul>
@@ -224,13 +224,13 @@ export default function ETATurkeyArticle() {
           <li>
             <strong>Manufacturing:</strong> Europe&rsquo;s fifth-largest
             manufacturing economy. Automotive components, textiles, packaging,
-            plastics, and industrial equipment with 12&ndash;20% EBITDA
+            plastics, and industrial equipment with 12-20% EBITDA
             margins and established European OEM relationships.
           </li>
           <li>
             <strong>Tech-enabled traditional businesses:</strong> Acquiring
             traditional companies and accelerating digital transformation
-            &mdash; ERP, e-commerce, analytics, automation &mdash; is one
+           , ERP, e-commerce, analytics, automation, is one
             of the most compelling Turkish ETA themes.
           </li>
           <li>
@@ -266,7 +266,7 @@ export default function ETATurkeyArticle() {
           <li>
             <strong>Family honor and legacy:</strong> Sellers care deeply
             about employee welfare, the company name, and community
-            perception &mdash; often more than financial optimization.
+            perception, often more than financial optimization.
           </li>
           <li>
             <strong>Negotiation style:</strong> Lengthy, with the seller&rsquo;s
@@ -323,7 +323,7 @@ export default function ETATurkeyArticle() {
           </li>
           <li>
             <strong>Participation exemption:</strong> 75% of capital gains
-            exempt if shares held two-plus years &mdash; supports
+            exempt if shares held two-plus years, supports
             tax-efficient exits for holding structures.
           </li>
           <li>
@@ -346,7 +346,7 @@ export default function ETATurkeyArticle() {
           <li>
             <strong>Mali m&uuml;&scedil;avirler:</strong> Turkey&rsquo;s
             certified accountants and tax advisors are the most trusted SME
-            advisors. Build relationships with 20&ndash;50 across your
+            advisors. Build relationships with 20-50 across your
             target regions for the highest-return sourcing channel.
           </li>
           <li>
@@ -398,11 +398,11 @@ export default function ETATurkeyArticle() {
             accounting firm with strong Turkish practice are essential.
           </li>
           <li>
-            <strong>Be patient:</strong> Sellers often take 12&ndash;24
-            months to decide. Budget 18&ndash;30 months for the search.
+            <strong>Be patient:</strong> Sellers often take 12-24
+            months to decide. Budget 18-30 months for the search.
           </li>
           <li>
-            <strong>Leverage the EU customs union:</strong> Duty-free
+            <strong>Use the EU customs union:</strong> Duty-free
             industrial exports to Europe plus lower Turkish labor costs is a
             powerful value creation lever for manufacturing targets.
           </li>
@@ -413,9 +413,9 @@ export default function ETATurkeyArticle() {
           Turkey stands at an inflection point for ETA. A massive succession
           wave, a young and entrepreneurial population, growing institutional
           awareness, and valuations well below Western European levels create
-          a compelling opportunity for searchers willing to navigate the
-          complexity. The challenges &mdash; currency risk, regulatory
-          uncertainty, deep cultural engagement &mdash; serve as barriers to
+          a compelling opportunity for searchers willing to manage the
+          complexity. The challenges, currency risk, regulatory
+          uncertainty, deep cultural engagement, serve as barriers to
           entry that reduce competition and preserve attractive economics.
         </p>
         <p>
@@ -425,11 +425,51 @@ export default function ETATurkeyArticle() {
           </Link>{" "}
           markets, Turkey may become one of the most active ETA markets in
           the broader region over the coming decade. The searchers who
-          establish themselves early &mdash; building relationships,
+          establish themselves early, building relationships,
           developing local expertise, and demonstrating commitment to the
-          Turkish business community &mdash; will be best positioned to
+          Turkish business community, will be best positioned to
           capture this extraordinary opportunity.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does lira volatility affect search fund returns in Turkey?</h3>
+        <p>
+          The Turkish lira has depreciated from roughly 1.5 per US dollar in 2010 to over 30 recently, making currency management the single most important risk factor for foreign investors. According to OECD and World Bank data, searchers who raise equity in hard currency (USD or EUR) benefit from lower effective acquisition multiples when converting to lira, but face the risk that local-currency cash flows lose dollar value over the hold period. The most effective mitigation strategies include targeting export-oriented manufacturers whose revenues are denominated in euros or dollars while costs remain in lira, structuring acquisition debt in local currency to create a natural hedge, and modeling returns under severe depreciation scenarios (30-50% additional lira decline). Turkey&rsquo;s 75% participation exemption on capital gains for shares held two-plus years provides a meaningful tax advantage at exit that can partially offset currency losses.
+        </p>
+
+        <h3 className={h3Class}>What are the best deal sourcing channels in Turkey?</h3>
+        <p>
+          Turkey&rsquo;s most productive deal sourcing channel is the network of mali m&uuml;&scedil;avirler (certified accountants and tax advisors) who serve as the most trusted advisors to Turkish SME owners. Building relationships with 20-50 mali m&uuml;&scedil;avirler across target regions yields the highest-quality proprietary deal flow. TOBB&rsquo;s 365 local chambers of commerce are deeply embedded in their communities and can facilitate introductions to owners considering succession. Industry associations including T&Uuml;S&Idot;AD, M&Uuml;S&Idot;AD, and T&Uuml;RKONFED provide access to business networks and signal credibility. University alumni networks from Sabanc&inodot;, Ko&ccedil;, Bo&gbreve;azi&ccedil;i, and Bilkent span the Turkish business community and yield warm introductions. Unlike in the US or UK, formal{" "}
+          <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">broker-intermediated deal flow</Link>{" "}
+          is limited for sub-$10M transactions, making proprietary relationship-driven sourcing essential.
+        </p>
+
+        <h3 className={h3Class}>Can a foreign national acquire and operate a business in Turkey?</h3>
+        <p>
+          Yes. Turkey permits 100% foreign ownership in most sectors, with no general screening requirement for foreign acquisitions. The standard process involves incorporating a Turkish A.&Scedil;. (joint-stock company) or acquiring shares in an existing entity, with the transaction registered through the Trade Registry and reported to the Central Bank. Foreign nationals can obtain work permits through their Turkish company, though the process typically takes 4-8 weeks and requires demonstrating that the position cannot be filled by a Turkish national. According to Turkey&rsquo;s Investment Office, the country has signed bilateral investment treaties with over 80 countries and is an OECD member with strong investor protections. KOSGEB subsidized credit programs and KGF loan guarantees are generally available to companies with Turkish operations regardless of ownership nationality. For an overview of how Turkish ETA fits into the broader market, see our{" "}
+          <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">best countries to buy a business</Link>{" "}
+          ranking.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.kosgeb.gov.tr/site/tr/genel/destekler/25/girisimci-destek-programi" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              KOSGEB, Small and Medium Enterprises Development Organization, Support Programs
+            </a>
+          </li>
+          <li>
+            <a href="https://www.tobb.org.tr/Sayfalar/Eng/AnaSayfa.php" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              TOBB, Union of Chambers and Commodity Exchanges of Turkey, SME Data
+            </a>
+          </li>
+          <li>
+            <a href="https://www.invest.gov.tr/en/pages/home-page.aspx" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Presidency of the Republic of Turkey Investment Office, Foreign Investment Guide
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

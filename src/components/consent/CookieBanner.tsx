@@ -49,7 +49,7 @@ export default function CookieBanner() {
 
   return (
     <>
-      {/* Desktop — bottom-right card */}
+      {/* Desktop - bottom-right card */}
       <div className="hidden sm:block fixed bottom-5 right-5 z-50 w-80">
         <div className="rounded-2xl bg-white/95 backdrop-blur-xl border border-gray-200/70 shadow-xl overflow-hidden">
           {/* Header */}
@@ -153,7 +153,7 @@ export default function CookieBanner() {
         </div>
       </div>
 
-      {/* Mobile — bottom sheet */}
+      {/* Mobile - bottom sheet */}
       <div className="sm:hidden fixed inset-0 z-50 flex items-end">
         {/* Backdrop */}
         <div className="absolute inset-0 bg-black/30 backdrop-blur-sm" />

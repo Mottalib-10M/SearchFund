@@ -11,7 +11,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Strong investor relations are one of the most underappreciated
           competitive advantages in the search fund model. Your investors are
-          not just sources of capital — they are mentors, board members,
+          not just sources of capital - they are mentors, board members,
           connectors, and potential backers of your next deal. How you
           communicate with them, especially during difficult periods,
           determines whether they become lifelong allies or one-time
@@ -52,12 +52,12 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>LOIs and deal activity:</strong> Status of any letters
             of intent submitted, under negotiation, or declined. Explain
-            why deals fell through — investors learn from these just as
+            why deals fell through - investors learn from these just as
             much as from wins.
           </li>
           <li>
             <strong>Market observations:</strong> Themes you are seeing in
-            deal flow — pricing trends, seller motivations, competitive
+            deal flow - pricing trends, seller motivations, competitive
             dynamics, sector insights. This demonstrates the depth of your
             search activity.
           </li>
@@ -68,7 +68,7 @@ export default function InvestorRelationsArticle() {
           </li>
           <li>
             <strong>Asks:</strong> Specific requests for introductions,
-            industry expertise, or advice. Investors want to help — give
+            industry expertise, or advice. Investors want to help - give
             them actionable ways to do so.
           </li>
         </ol>
@@ -82,7 +82,7 @@ export default function InvestorRelationsArticle() {
             <strong>Financial highlights:</strong> Revenue, EBITDA, and
             cash flow for the month, with comparisons to budget, prior
             year, and year-to-date figures. Present these as a simple
-            table — investors should be able to assess performance in
+            table - investors should be able to assess performance in
             under 30 seconds.
           </li>
           <li>
@@ -114,7 +114,7 @@ export default function InvestorRelationsArticle() {
 
         <h3 className={h3Class}>Format, tone, and timing</h3>
         <p>
-          The ideal monthly update is a short, well-structured email &mdash;
+          The ideal monthly update is a short, well-structured email , 
           not a PDF attachment that investors must open separately. Keep it to
           one to two pages of text. Use clear section headings so investors can
           scan quickly. Write in the first person, in a tone that is honest,
@@ -124,7 +124,7 @@ export default function InvestorRelationsArticle() {
           PR department.
         </p>
         <p>
-          Send the update on the same date each month &mdash; the first Monday,
+          Send the update on the same date each month, the first Monday,
           the 5th, or the 15th. Consistency matters because it signals
           discipline and respect for investors&apos; time. If you miss a month
           or send it late, it communicates disorganization or, worse, that
@@ -140,7 +140,7 @@ export default function InvestorRelationsArticle() {
           and what you learned. Investors who have backed multiple search funds
           understand that most months produce no breakthroughs. They are
           evaluating your judgment, your resilience, and your communication
-          skills &mdash; not just your deal flow. An honest update that says
+          skills, not just your deal flow. An honest update that says
           &ldquo;this was a slow month&rdquo; builds more trust than an
           artificially optimistic update that inflates mediocre activity.
         </p>
@@ -159,7 +159,7 @@ export default function InvestorRelationsArticle() {
         <p>
           Failed deals are a normal part of the search process. Most
           searchers submit three to five LOIs before closing an acquisition.
-          When a deal falls through, communicate it promptly &mdash; do
+          When a deal falls through, communicate it promptly, do
           not wait for the monthly update if the deal was well-known to
           investors. Send a brief email within 48 hours explaining what
           happened, why the deal did not close (price disagreement,
@@ -178,7 +178,7 @@ export default function InvestorRelationsArticle() {
           update. Explain what you have learned about the market, how you
           have refined your thesis, and what changes you are making to your
           sourcing strategy. If you need additional search capital to extend
-          the timeline, raise the topic early &mdash; well before the existing
+          the timeline, raise the topic early, well before the existing
           capital runs out. Most investor groups will consider a modest
           extension (three to six months of additional capital) if the
           searcher has demonstrated diligence, learning, and a credible
@@ -196,7 +196,7 @@ export default function InvestorRelationsArticle() {
           community is small, and information travels fast. Proactive
           disclosure demonstrates integrity and gives investors the
           opportunity to help before problems escalate. The worst outcome
-          is not the bad news itself &mdash; it is the perception that you
+          is not the bad news itself, it is the perception that you
           tried to hide it.
         </p>
 
@@ -248,12 +248,12 @@ export default function InvestorRelationsArticle() {
           board on a quarterly schedule.
         </p>
 
-        <h2 className={h2Class}>Leveraging investors as a resource</h2>
+        <h2 className={h2Class}>Using investors as a resource</h2>
         <p>
           Your investor base is far more than a pool of capital. Experienced
           search fund investors have backed dozens of companies, served on
           numerous boards, and built extensive professional networks. Failing
-          to leverage these resources is one of the most common mistakes
+          to use these resources is one of the most common mistakes
           first-time search fund CEOs make.
         </p>
 
@@ -277,13 +277,13 @@ export default function InvestorRelationsArticle() {
           become invaluable advisors. If you acquire a healthcare services
           company and one of your investors has 20 years of healthcare
           operating experience, schedule regular one-on-one calls with them.
-          They can help you navigate regulatory complexities, identify
+          They can help you manage regulatory complexities, identify
           growth opportunities, and avoid common pitfalls specific to the
           sector. Similarly, investors with functional expertise (finance,
           marketing, technology, HR) can provide targeted guidance during
           your{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
-          and beyond. The key is asking specifically and respectfully &mdash;
+          and beyond. The key is asking specifically and respectfully , 
           investors are busy, so make every request count and always follow
           up to share how their advice was applied.
         </p>
@@ -299,11 +299,11 @@ export default function InvestorRelationsArticle() {
 
         <h3 className={h3Class}>Transition from search to operations</h3>
         <p>
-          In the first month after closing, send a comprehensive
+          In the first month after closing, send a thorough
           &ldquo;Day One&rdquo; update that covers the acquisition summary
           (final terms, financing structure, key metrics), your initial
           impressions of the business, your 90-day priorities, and any
-          immediate surprises &mdash; positive or negative. This update
+          immediate surprises, positive or negative. This update
           sets the baseline against which all future performance will be
           measured, so be honest and thorough. Subsequent monthly updates
           should follow the post-acquisition template described above,
@@ -343,8 +343,8 @@ export default function InvestorRelationsArticle() {
           want earlier liquidity. Understanding these preferences and
           balancing them against the company&apos;s optimal trajectory is
           a key responsibility of the CEO. Regular updates on exit
-          readiness &mdash; including audited financials, management team
-          depth, customer diversification, and growth trajectory &mdash;
+          readiness: including audited financials, management team
+          depth, customer diversification, and growth trajectory , 
           give investors confidence that you are building a business
           designed to be sold at an attractive multiple.
         </p>
@@ -367,7 +367,7 @@ export default function InvestorRelationsArticle() {
           </li>
           <li>
             <strong>Operational deep-dive (20-30 minutes):</strong> Pick
-            one or two strategic topics to discuss in depth — a new market
+            one or two strategic topics to discuss in depth - a new market
             entry, a pricing change, a major hire, or an add-on acquisition
             opportunity. This is where board members add the most value.
           </li>
@@ -385,25 +385,25 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>Strategic discussion (15-20 minutes):</strong> Use
             the remaining time for open-ended strategic conversation.
-            Present decisions where you genuinely want board input —
+            Present decisions where you genuinely want board input - 
             not just rubber-stamp approvals.
           </li>
         </ul>
 
         <h2 className={h2Class}>Annual meetings</h2>
         <p>
-          Once a year, ideally in person, hold a more comprehensive annual
+          Once a year, ideally in person, hold a more thorough annual
           meeting with all investors. This meeting serves a different
-          purpose than the quarterly board calls — it is about
+          purpose than the quarterly board calls - it is about
           relationship building, strategic alignment, and celebrating
           (or honestly assessing) the year&apos;s progress. The annual
           meeting typically includes:
         </p>
         <ul className={ulClass}>
-          <li>A comprehensive year-in-review presentation covering financial performance, strategic milestones, and organizational development.</li>
+          <li>A thorough year-in-review presentation covering financial performance, strategic milestones, and organizational development.</li>
           <li>A detailed budget and strategic plan for the coming year.</li>
           <li>If appropriate, a site visit to the business so investors can meet the team and see operations firsthand.</li>
-          <li>Time for informal networking and relationship building — dinner or drinks after the formal meeting.</li>
+          <li>Time for informal networking and relationship building - dinner or drinks after the formal meeting.</li>
         </ul>
 
         <h2 className={h2Class}>Transparency about bad news</h2>
@@ -412,7 +412,7 @@ export default function InvestorRelationsArticle() {
           <strong> never surprising your investors with bad news</strong>.
           If the business is underperforming, a key customer is at risk,
           or a strategic initiative has failed, communicate it immediately
-          and proactively — do not wait for the monthly update or
+          and proactively - do not wait for the monthly update or
           quarterly call. Investors who have backed dozens of search
           funds understand that every business faces setbacks. What they
           cannot tolerate is being kept in the dark.
@@ -441,9 +441,9 @@ export default function InvestorRelationsArticle() {
           <li>
             <strong>Year 1:</strong> Monthly written updates and quarterly
             board calls. This is the period of highest uncertainty and
-            learning — particularly during the{" "}
+            learning - particularly during the{" "}
             <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
-            — so more frequent communication is essential.
+ - so more frequent communication is essential.
           </li>
           <li>
             <strong>Years 2-3:</strong> Continue monthly updates but begin
@@ -465,18 +465,44 @@ export default function InvestorRelationsArticle() {
           transition into search fund investing themselves. The investor
           relationships you build during your first deal are the
           foundation for everything that comes next. Investors who had a
-          positive experience — not just financially, but in terms of
-          communication, transparency, and professionalism — are far more
+          positive experience - not just financially, but in terms of
+          communication, transparency, and professionalism - are far more
           likely to back you again or introduce you to their networks.
         </p>
         <p>
           Even after exit, maintain the relationship. Send a final
-          comprehensive report summarizing the investment&apos;s lifecycle,
+          thorough report summarizing the investment&apos;s lifecycle,
           returns, and key lessons. Stay in touch with periodic updates
           on your career and future plans. The search fund community is
-          small and reputation-driven — your track record as a
+          small and reputation-driven - your track record as a
           communicator and operator follows you permanently.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How often should I send investor updates?</h3>
+        <p>
+          Monthly written updates are the backbone of search fund investor relations during both the search phase and post-acquisition. According to Stanford GSB&rsquo;s Search Fund Primer, the best-performing searchers send updates on the same date each month, the first Monday, the 5th, or the 15th, because consistency signals discipline and respect for investors&rsquo; time. During the search phase, updates should cover pipeline activity, top opportunities, LOI status, and market observations. Post-acquisition, they shift to financial highlights, KPIs, operational updates, and strategic priorities. Supplement monthly written updates with quarterly board calls (60-90 minutes) and an annual in-person meeting with all investors. If a material event occurs (positive or negative), communicate it immediately rather than waiting for the scheduled update.
+        </p>
+
+        <h3 className={h3Class}>How should I deliver bad news to investors?</h3>
+        <p>
+          Follow the golden rule: investors should never learn about a problem from someone other than you. According to IESE Business School&rsquo;s research on search fund investor satisfaction, searchers who are proactively transparent about setbacks consistently report stronger investor relationships than those who selectively share only good news. When delivering bad news, use a four-part framework: state the problem clearly (no euphemisms), explain the root cause, present your specific action plan, and ask for help if investors can contribute advice or resources. For failed deals specifically, communicate within 48 hours and frame the outcome constructively: &ldquo;Walking away was the right decision because diligence revealed customer concentration risk above our threshold&rdquo; demonstrates judgment and discipline that investors value.
+        </p>
+
+        <h3 className={h3Class}>What financial reporting do investors expect post-acquisition?</h3>
+        <p>
+          Post-acquisition, investors expect professional-grade monthly financial reporting including an income statement, balance sheet, and cash flow statement with comparisons to budget, prior year, and year-to-date figures. According to Stanford GSB&rsquo;s data on search fund best practices, the highest-rated CEOs also provide a{" "}
+          <Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI dashboard</Link>{" "}
+          with 5-10 operational metrics tracked consistently each month (customer retention, pipeline value, employee turnover, DSCR). Quarterly financials should be reviewed by an external accountant, and annual financials should be audited if required by the operating agreement or if the business exceeds certain revenue thresholds. Investing in a competent controller or fractional CFO early is essential if the business did not have reliable financial reporting before the acquisition.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business &mdash; <em>Search Fund Primer</em> and <em>Search Fund Study: Selected Observations</em>, 2024 edition. Best practices for investor communication, reporting templates, and CEO-investor relationship management.</li>
+          <li>IESE Business School &mdash; <em>International Search Fund Study</em>, 2024. Research on investor satisfaction drivers, communication frequency benchmarks, and the impact of transparency on long-term investor relationships.</li>
+          <li>National Association of Corporate Directors (NACD) &mdash; <em>Board Reporting Best Practices for Private Companies</em>. Standards for financial reporting, board package preparation, and investor relations governance.</li>
+        </ul>
       </div>
     </article>
   );

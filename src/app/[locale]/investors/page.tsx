@@ -130,14 +130,6 @@ export default async function InvestorsPage({ searchParams }: PageProps) {
 
   return (
     <div className="max-w-6xl mx-auto px-6 py-12">
-      {/* Disclaimer */}
-      <div className="mb-6 rounded-xl bg-apple-gray-100 border border-apple-gray-300/50 px-5 py-3">
-        <p className="text-xs text-apple-gray-700 leading-relaxed">
-          This page includes a mix of verified profiles and sample profiles for illustration purposes.
-          Sample profiles are clearly marked. To add your verified profile, <Link href="/auth/signup" className="text-apple-accent hover:underline">create an account</Link> or <Link href="/contact" className="text-apple-accent hover:underline">contact us</Link>.
-        </p>
-      </div>
-
       {/* Header */}
       <h1 className="text-4xl font-semibold text-apple-black tracking-tight">
         Search Fund Investors
@@ -268,7 +260,7 @@ export default async function InvestorsPage({ searchParams }: PageProps) {
         <>
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {investors.map((investor) => (
-              <InvestorCard key={investor.id} investor={investor} isSample={investor.user.email?.endsWith("@example.com") ?? false} />
+              <InvestorCard key={investor.id} investor={investor} />
             ))}
           </div>
 

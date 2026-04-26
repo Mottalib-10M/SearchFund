@@ -11,8 +11,8 @@ export default function PreSearchPreparationArticle() {
         <p>
           The difference between searchers who close great deals and those who
           struggle often comes down to what happened before the search officially
-          began. Pre-search preparation — the 6-12 months before you launch your
-          search full-time — is where the foundation is laid. How you spend this
+          began. Pre-search preparation - the 6-12 months before you launch your
+          search full-time - is where the foundation is laid. How you spend this
           period determines the quality of your investor base, the clarity of
           your acquisition thesis, and your ability to sustain the search
           financially and psychologically.
@@ -50,7 +50,7 @@ export default function PreSearchPreparationArticle() {
         <p>
           Financial preparedness is the single most underestimated factor in
           search success. Running out of personal capital is not just
-          inconvenient — it forces premature decisions, rushed diligence, and
+          inconvenient - it forces premature decisions, rushed diligence, and
           abandoned searches. Before you commit to searching full-time, you
           need a clear-eyed understanding of your personal financial position
           and the costs you will incur.
@@ -66,8 +66,8 @@ export default function PreSearchPreparationArticle() {
           mid-career professional earning $150K-$250K in total compensation,
           the fully loaded opportunity cost of a two-year search can exceed
           $500K. You are making a calculated bet that the equity upside from
-          a successful acquisition will far exceed this cost — and historically,
-          it has — but you should enter the search with full awareness of what
+          a successful acquisition will far exceed this cost - and historically,
+          it has - but you should enter the search with full awareness of what
           you are committing.
         </p>
 
@@ -78,7 +78,7 @@ export default function PreSearchPreparationArticle() {
           from $25K to $100K for traditional searchers and can be higher for
           self-funded searches. This capital demonstrates commitment and aligns
           your financial interests with those of your investors. Set aside this
-          amount in a liquid account well before launch — scrambling to fund
+          amount in a liquid account well before launch - scrambling to fund
           your co-investment at closing creates unnecessary stress and can
           signal financial fragility to investors. If you do not have
           sufficient savings for co-investment, discuss this transparently
@@ -94,7 +94,7 @@ export default function PreSearchPreparationArticle() {
           reserve. This buffer should cover housing, insurance premiums (you
           may need to purchase individual health insurance), transportation,
           food, and any debt service obligations. Do not count on the search
-          fund salary to cover everything — unexpected expenses, travel costs
+          fund salary to cover everything - unexpected expenses, travel costs
           that exceed budget, and the psychological comfort of a financial
           cushion are all critical. Many successful searchers recommend having
           at least $50K-$100K in accessible savings above and beyond the
@@ -117,7 +117,7 @@ export default function PreSearchPreparationArticle() {
           come from a non-finance background, invest in structured courses
           such as Wall Street Prep, Corporate Finance Institute (CFI), or
           the financial modeling modules offered by IESE and Booth. Practice
-          by modeling real businesses — download public company financials
+          by modeling real businesses - download public company financials
           and build acquisition models from scratch. You should be able to
           build a basic three-statement model in under two hours and stress-test
           assumptions across multiple scenarios.
@@ -125,7 +125,7 @@ export default function PreSearchPreparationArticle() {
 
         <h3 className={h3Class}>Negotiation skills</h3>
         <p>
-          Every stage of the search involves negotiation — with investors on
+          Every stage of the search involves negotiation - with investors on
           fund terms, with brokers on deal access, with sellers on price and
           structure, with lenders on debt terms, and with employees on
           retention. Read foundational texts like &quot;Getting to Yes&quot; by
@@ -133,7 +133,7 @@ export default function PreSearchPreparationArticle() {
           Voss. Then practice relentlessly through role-playing with peers,
           mock negotiations at business school, or formal negotiation
           workshops. The most effective negotiators in ETA combine empathy
-          with analytical rigor — they understand the seller&apos;s
+          with analytical rigor - they understand the seller&apos;s
           emotional needs while building deal structures that protect their
           economic interests.
         </p>
@@ -145,7 +145,7 @@ export default function PreSearchPreparationArticle() {
           in consulting or finance, seek out exposure to operations before
           launching your search. Shadow a business owner for a week. Take on
           a temporary general management role. Study operations management
-          frameworks — lean manufacturing, Six Sigma, or the Theory of
+          frameworks - lean manufacturing, Six Sigma, or the Theory of
           Constraints. Understand how to read a P&amp;L not just as a
           financial document but as a map of operational performance.
         </p>
@@ -166,14 +166,14 @@ export default function PreSearchPreparationArticle() {
         <h2 className={h2Class}>Building your advisory network before launching</h2>
         <p>
           The most successful searchers do not build their advisory networks
-          after launching — they build them before. This network will provide
+          after launching - they build them before. This network will provide
           guidance, introductions, and credibility throughout your search.
         </p>
 
         <h3 className={h3Class}>Mentors and former searchers</h3>
         <p>
           Identify three to five people who have completed the search fund
-          journey — ideally at different stages (searching, operating,
+          journey - ideally at different stages (searching, operating,
           post-exit). These mentors can advise on investor selection, deal
           evaluation, negotiation tactics, and the emotional challenges of
           the search. Reach out respectfully with specific questions rather
@@ -211,7 +211,7 @@ export default function PreSearchPreparationArticle() {
         <h2 className={h2Class}>Defining your search criteria: the buy box</h2>
         <p>
           Before you begin sourcing deals, you need a clearly defined set of
-          criteria — often called a &quot;buy box&quot; — that specifies
+          criteria - often called a &quot;buy box&quot; - that specifies
           exactly what you are looking for. A well-defined buy box serves
           two purposes: it focuses your sourcing efforts on high-probability
           targets, and it communicates credibility to brokers and sellers
@@ -229,7 +229,7 @@ export default function PreSearchPreparationArticle() {
           credibly to sellers. However, overly narrow criteria can reduce
           deal flow to a trickle. Most experienced investors recommend
           targeting two to three adjacent sectors that share common
-          characteristics — for example, &quot;facilities services including
+          characteristics - for example, &quot;facilities services including
           HVAC, plumbing, and electrical&quot; rather than
           &quot;HVAC only.&quot;
         </p>
@@ -268,7 +268,7 @@ export default function PreSearchPreparationArticle() {
         <h2 className={h2Class}>Building your network in the ETA community</h2>
         <p>
           The search fund community is remarkably open and collaborative. Unlike
-          many corners of private equity, searchers actively help each other —
+          many corners of private equity, searchers actively help each other - 
           sharing deal flow, introducing brokers, and advising on structuring.
           But you need to build relationships before you need them.
         </p>
@@ -299,7 +299,7 @@ export default function PreSearchPreparationArticle() {
         <p>
           Stanford, Harvard, Wharton, INSEAD, IESE, Booth, Kellogg, and Darden
           all have active search fund alumni communities. LinkedIn has become a
-          hub for ETA networking — follow active searchers and investors, and
+          hub for ETA networking - follow active searchers and investors, and
           engage meaningfully with their posts. Online communities like
           Searchfunder.com and dedicated Slack groups provide additional channels.
         </p>
@@ -329,7 +329,7 @@ export default function PreSearchPreparationArticle() {
         <h3 className={h3Class}>How to choose 2-3 target industries</h3>
         <ul className={ulClass}>
           <li>
-            Start with your experience — industries where you have prior work
+            Start with your experience - industries where you have prior work
             experience or an informational edge
           </li>
           <li>
@@ -401,7 +401,7 @@ export default function PreSearchPreparationArticle() {
         <p>
           Approximately 30% of active searchers do not have an MBA. This cohort
           is growing as the model gains visibility. Non-MBA searchers succeed by
-          leveraging deep industry experience, strong operating backgrounds,
+          using deep industry experience, strong operating backgrounds,
           and self-funded structures that don&apos;t require institutional backing.
           The trade-off: no $200K+ MBA investment and no 2-year delay, but harder
           access to traditional investors and fewer built-in peers.
@@ -442,7 +442,7 @@ export default function PreSearchPreparationArticle() {
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">finding investors</Link> walks
           through this process in detail.
           Start 6-12 months before you plan to raise. Research the 50-100 most
-          active search fund investors. Request informational meetings — ask what
+          active search fund investors. Request informational meetings - ask what
           they look for, what mistakes they see. Share your thesis as it develops
           for feedback. Follow up consistently with monthly or quarterly updates.
         </p>
@@ -451,7 +451,7 @@ export default function PreSearchPreparationArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Bonus timing:</strong> Consider timing your departure to
-            capture annual bonuses — the cash extends your runway
+            capture annual bonuses - the cash extends your runway
           </li>
           <li>
             <strong>Non-compete review:</strong> Have an employment attorney review
@@ -460,7 +460,7 @@ export default function PreSearchPreparationArticle() {
           </li>
           <li>
             <strong>Professional exit:</strong> Leave gracefully. The business world
-            is small — future sellers, investors, and references may include former
+            is small - future sellers, investors, and references may include former
             colleagues
           </li>
         </ul>
@@ -473,7 +473,7 @@ export default function PreSearchPreparationArticle() {
           the search will test your relationship.
         </p>
         <ul className={ulClass}>
-          <li>Share your complete financial picture — no surprises</li>
+          <li>Share your complete financial picture - no surprises</li>
           <li>Discuss relocation openly: what cities are acceptable, what are
             deal-breakers?</li>
           <li>Agree on a maximum search duration and what happens at that limit</li>
@@ -507,6 +507,46 @@ export default function PreSearchPreparationArticle() {
           Do the infrastructure work now so you can focus entirely on finding
           the right company when the clock starts.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much personal savings do I need before launching a search fund?</h3>
+        <p>
+          For a traditional search fund, you should have 12-24 months of personal living expenses saved (typically $50K-$100K above and beyond the search budget funded by investors), plus $25K-$100K set aside for co-investment at acquisition closing. According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, the average search duration is 20 months, but many searches extend to 24-30 months. For a{" "}
+          <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link>, you will need a minimum of 18 months of living expenses plus $20K-$50K for search-related costs (legal, travel, diligence deposits). The fully loaded opportunity cost of a two-year search for a mid-career professional earning $150K-$250K in total compensation can exceed $500K when you factor in lost salary, bonus, equity vesting, 401(k) match, and health benefits. Financial stress is one of the most common reasons searchers abandon their efforts prematurely.
+        </p>
+
+        <h3 className={h3Class}>Should I get an MBA before pursuing ETA, or can I launch directly from industry?</h3>
+        <p>
+          Both paths work, but each has distinct trade-offs. The MBA route provides structured ETA coursework, access to the investor network (the most active search fund investors recruit disproportionately from Stanford, Harvard, INSEAD, IESE, Wharton, and Booth), peer cohorts who become lifelong deal sourcing partners, and a credibility signal with sellers and lenders. The industry route avoids the $200K+ MBA investment and two-year delay, but requires you to build investor relationships, financial modeling proficiency, and industry expertise independently. Approximately 30% of active searchers do not have an MBA and succeed by using deep operating backgrounds and self-funded structures. If you already have strong financial modeling skills, 5-10 years of relevant operating experience, and access to personal or family capital for a self-funded search, the MBA may not be necessary.
+        </p>
+
+        <h3 className={h3Class}>How do I choose between a focused industry thesis and a generalist approach?</h3>
+        <p>
+          The evidence from Stanford and IESE research consistently favors focused searches over generalist approaches. Focused searchers build deeper broker relationships in their target sectors, evaluate opportunities faster because they understand industry-specific risks, and present more credibly to sellers who want to know their buyer understands the business. However, overly narrow criteria can reduce deal flow to unsustainable levels. Most experienced search fund investors recommend targeting two to three adjacent sectors that share common characteristics, for example, &ldquo;facilities services including HVAC, plumbing, and electrical&rdquo; rather than &ldquo;HVAC only.&rdquo; The ideal thesis balances specificity (enough to build genuine expertise and credibility) with breadth (enough to generate 5-10 serious deal opportunities per quarter). For detailed guidance on building your thesis, see our{" "}
+          <Link href="/learn/search-fund-thesis" className="text-apple-accent hover:underline">search fund thesis</Link>{" "}
+          guide.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business, 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School, Search Fund Primer (Ruback &amp; Yudkoff)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School, International Search Fund Study
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

@@ -17,7 +17,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Your ICP is the strategic foundation of your entire search process. It defines what you're looking for, why you're looking for it, and how you'll recognize the right opportunity when it appears. This article will walk you through the process of creating a robust, actionable ICP that will save you time, improve your credibility with intermediaries, and dramatically increase your odds of finding and closing the right deal.
+        Your ICP is the strategic foundation of your entire search process. It defines what you're looking for, why you're looking for it, and how you'll recognize the right opportunity when it appears. This article will walk you through the process of creating a strong, actionable ICP that will save you time, improve your credibility with intermediaries, and dramatically increase your odds of finding and closing the right deal.
       </p>
 
       <h2 className={h2Class}>What Is an Acquisition ICP?</h2>
@@ -27,7 +27,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Think of your ICP as the search fund equivalent of a venture capital firm's investment thesis. Just as a VC fund might focus exclusively on "B2B SaaS companies in fintech with $2-10M ARR and 100%+ net revenue retention," your ICP should be specific enough to guide daily decision-making while remaining flexible enough to capture genuinely attractive opportunities.
+        Think of your ICP as the search fund equivalent of a venture capital firm&apos;s investment thesis. Just as a VC fund might focus exclusively on "B2B SaaS companies in fintech with $2-10M ARR and 100%+ net revenue retention," your ICP should be specific enough to guide daily decision-making while remaining flexible enough to capture genuinely attractive opportunities.
       </p>
 
       <p className={bodyClass}>
@@ -47,7 +47,11 @@ export default function IdealCompanyProfileArticle() {
       </ul>
 
       <p className={bodyClass}>
-        A well-crafted ICP becomes a living document that evolves as you gain market knowledge, but it should always provide clear guardrails for your search activities.
+        A well-crafted ICP becomes a living document that evolves as you gain market knowledge, but it should always provide clear guardrails for your search activities. Understanding what makes a{" "}
+        <Link href="/learn/ideal-acquisition-target" className="text-apple-accent hover:underline">
+          good search fund acquisition target
+        </Link>{" "}
+        will help you calibrate your ICP against proven success criteria.
       </p>
 
       <h2 className={h2Class}>Why You Need a Written ICP Before Searching</h2>
@@ -79,7 +83,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Investor Alignment</h3>
 
       <p className={bodyClass}>
-        Your search fund investors have committed capital based on certain expectations about deal size, industry risk, and return potential. Articulating your ICP early—ideally during fundraising or immediately after—ensures alignment and prevents awkward conversations later when you find a company that excites you but doesn't fit investor parameters.
+        Your search fund investors have committed capital based on certain expectations about deal size, industry risk, and return potential. Articulating your ICP early - ideally during fundraising or immediately after - ensures alignment and prevents awkward conversations later when you find a company that excites you but doesn't fit investor parameters.
       </p>
 
       <p className={bodyClass}>
@@ -99,7 +103,7 @@ export default function IdealCompanyProfileArticle() {
       <h2 className={h2Class}>The 12 Dimensions of Your ICP</h2>
 
       <p className={bodyClass}>
-        A comprehensive ICP addresses multiple dimensions of the business. Here's a framework covering the twelve most critical areas:
+        A thorough ICP addresses multiple dimensions of the business. Here's a framework covering the twelve most critical areas:
       </p>
 
       <h3 className={h3Class}>1. Industry and Sector</h3>
@@ -123,7 +127,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Be honest about lifestyle constraints. If you have school-age children and a spouse with a career, don't pretend you'll move to rural Montana for the right deal. That said, avoid being too restrictive too early—limiting yourself to a single city can reduce your deal flow by 90%+.
+        Be honest about lifestyle constraints. If you have school-age children and a spouse with a career, don't pretend you'll move to rural Montana for the right deal. That said, avoid being too restrictive too early - limiting yourself to a single city can reduce your deal flow by 90%+.
       </p>
 
       <p className={bodyClass}>
@@ -189,7 +193,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Most searchers target businesses with at least one layer of management beneath the owner—a general manager, operations manager, or sales leader who can provide continuity during transition. Highly owner-dependent businesses can be transformed, but require longer transition periods and more risk.
+        Most searchers target businesses with at least one layer of management beneath the owner - a general manager, operations manager, or sales leader who can provide continuity during transition. Highly owner-dependent businesses can be transformed, but require longer transition periods and more risk.
       </p>
 
       <h3 className={h3Class}>8. Capital Intensity</h3>
@@ -199,7 +203,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        High capital intensity reduces free cash flow available for debt service and growth initiatives. It also creates valuation risk—a business heavily dependent on specialized equipment or facilities may be difficult to exit if market conditions deteriorate.
+        High capital intensity reduces free cash flow available for debt service and growth initiatives. It also creates valuation risk - a business heavily dependent on specialized equipment or facilities may be difficult to exit if market conditions deteriorate.
       </p>
 
       <p className={bodyClass}>
@@ -237,7 +241,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Define your preferred transition period (3-6 months is common) and whether you'll consider businesses requiring immediate takeover with no seller support. Most searchers avoid fire-sale situations or businesses where the seller has been "trying to sell" for years—these often indicate underlying problems.
+        Define your preferred transition period (3-6 months is common) and whether you'll consider businesses requiring immediate takeover with no seller support. Most searchers avoid fire-sale situations or businesses where the seller has been "trying to sell" for years - these often indicate underlying problems.
       </p>
 
       <h3 className={h3Class}>12. Strategic Fit and Defensibility</h3>
@@ -321,7 +325,11 @@ export default function IdealCompanyProfileArticle() {
       </div>
 
       <p className={bodyClass}>
-        Customize this template to reflect your unique background, capital availability, investor preferences, and risk tolerance. Share it with mentors, investors, and advisors for feedback before finalizing.
+        Customize this template to reflect your unique background, capital availability, investor preferences, and risk tolerance. Share it with mentors, investors, and advisors for feedback before finalizing. Our{" "}
+        <Link href="/learn/working-with-brokers" className="text-apple-accent hover:underline">
+          guide to working with brokers
+        </Link>{" "}
+        covers how intermediaries use your ICP to match you with relevant opportunities.
       </p>
 
       <h2 className={h2Class}>How to Communicate Your ICP to Brokers and Advisors</h2>
@@ -337,7 +345,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Make it visually clean and professional—this document represents you to dozens of intermediaries. Many searchers include a professional headshot and search fund logo to reinforce credibility.
+        Make it visually clean and professional - this document represents you to dozens of intermediaries. Many searchers include a professional headshot and search fund logo to reinforce credibility.
       </p>
 
       <h3 className={h3Class}>Lead with Specificity in Outreach</h3>
@@ -353,7 +361,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Provide Examples of Good Fits</h3>
 
       <p className={bodyClass}>
-        When speaking with brokers, reference actual businesses (either current listings or past transactions) that exemplify your ICP: "The XYZ Medical Supply business you sold last year in Charlotte is exactly the type of company I'm targeting—$20M revenue, 18% EBITDA margin, established customer base of hospitals and clinics."
+        When speaking with brokers, reference actual businesses (either current listings or past transactions) that exemplify your ICP: "The XYZ Medical Supply business you sold last year in Charlotte is exactly the type of company I'm targeting - $20M revenue, 18% EBITDA margin, established customer base of hospitals and clinics."
       </p>
 
       <p className={bodyClass}>
@@ -363,7 +371,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Update Contacts as Your ICP Evolves</h3>
 
       <p className={bodyClass}>
-        As you gain market knowledge and refine your ICP, send brief updates to your broker network: "Quick update on my search criteria—I'm now also targeting commercial HVAC service businesses in addition to my core healthcare focus, given the strong deal flow and attractive unit economics I'm seeing in that vertical."
+        As you gain market knowledge and refine your ICP, send brief updates to your broker network: "Quick update on my search criteria - I'm now also targeting commercial HVAC service businesses in addition to my core healthcare focus, given the strong deal flow and attractive unit economics I'm seeing in that vertical."
       </p>
 
       <p className={bodyClass}>
@@ -379,7 +387,7 @@ export default function IdealCompanyProfileArticle() {
       <h3 className={h3Class}>Deal Flow Reality</h3>
 
       <p className={bodyClass}>
-        If you're seeing robust deal flow that matches your criteria, your ICP is market-calibrated. If you're seeing almost nothing after 3-4 months of active outreach, your ICP may be too narrow or focused on an under-supplied segment.
+        If you're seeing strong deal flow that matches your criteria, your ICP is market-calibrated. If you're seeing almost nothing after 3-4 months of active outreach, your ICP may be too narrow or focused on an under-supplied segment.
       </p>
 
       <p className={bodyClass}>
@@ -403,11 +411,15 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Incorporate these learnings into ICP refinements. One searcher started with a broad "B2B services" focus, but after evaluating 30+ businesses realized he was consistently most excited about field service businesses with mobile technicians—HVAC, pest control, home services. He narrowed his ICP accordingly and found a company within four months.
+        Incorporate these learnings into ICP refinements. One searcher started with a broad "B2B services" focus, but after evaluating 30+ businesses realized he was consistently most excited about field service businesses with mobile technicians - HVAC, pest control, home services. He narrowed his ICP accordingly and found a company within four months.
       </p>
 
       <p className={bodyClass}>
-        Schedule quarterly ICP reviews with your investors or advisory board to formally assess whether adjustments are warranted based on accumulated evidence.
+        Schedule quarterly ICP reviews with your investors or advisory board to formally assess whether adjustments are warranted based on accumulated evidence. Our{" "}
+        <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
+          deal sourcing strategies guide
+        </Link>{" "}
+        explains how to translate your ICP into an actionable outreach plan.
       </p>
 
       <h2 className={h2Class}>Common ICP Mistakes</h2>
@@ -489,7 +501,7 @@ export default function IdealCompanyProfileArticle() {
       </ul>
 
       <p className={bodyClass}>
-        She expanded her ICP to include "technology-enabled service businesses"—companies that used software as a tool but derived revenue from services. Within three months, she found a $12M revenue IT managed services provider with 18% EBITDA margins, strong client retention, and a purchase price she could finance. Her SaaS background proved valuable in evaluating the company's technology stack and identifying opportunities to improve service delivery through better tooling.
+        She expanded her ICP to include "technology-enabled service businesses" - companies that used software as a tool but derived revenue from services. Within three months, she found a $12M revenue IT managed services provider with 18% EBITDA margins, strong client retention, and a purchase price she could finance. Her SaaS background proved valuable in evaluating the company's technology stack and identifying opportunities to improve service delivery through better tooling.
       </p>
 
       <h3 className={h3Class}>Case Study 2: Geographic Expansion Unlocks Deal Flow</h3>
@@ -503,7 +515,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Michael expanded his geography to include Houston, Austin, Nashville, Charlotte, and Atlanta. Deal flow increased 5x. Within six months, he acquired a specialty packaging manufacturer in Nashville. His wife secured a position at Vanderbilt, and the family relocated—something they'd initially thought impossible.
+        Michael expanded his geography to include Houston, Austin, Nashville, Charlotte, and Atlanta. Deal flow increased 5x. Within six months, he acquired a specialty packaging manufacturer in Nashville. His wife secured a position at Vanderbilt, and the family relocated - something they'd initially thought impossible.
       </p>
 
       <h3 className={h3Class}>Case Study 3: Adding Industry Verticals Based on Broker Feedback</h3>
@@ -513,7 +525,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        After meeting with 20+ brokers, she heard consistent feedback: "Healthcare services is the most competitive segment we see—every searcher and small PE fund is chasing these deals, so they trade at premium valuations. Have you considered residential services? Similar B2C model, fragmented markets, attractive unit economics, but less competition."
+        After meeting with 20+ brokers, she heard consistent feedback: "Healthcare services is the most competitive segment we see - every searcher and small PE fund is chasing these deals, so they trade at premium valuations. Have you considered residential services? Similar B2C model, fragmented markets, attractive unit economics, but less competition."
       </p>
 
       <p className={bodyClass}>
@@ -521,7 +533,7 @@ export default function IdealCompanyProfileArticle() {
       </p>
 
       <p className={bodyClass}>
-        Four months later, she acquired an HVAC service business doing $15M in revenue with 16% EBITDA margins—a business she would have ignored under her original healthcare-only ICP. The operational playbook she'd developed for managing healthcare services translated directly to managing HVAC technicians and service contracts.
+        Four months later, she acquired an HVAC service business doing $15M in revenue with 16% EBITDA margins - a business she would have ignored under her original healthcare-only ICP. The operational playbook she'd developed for managing healthcare services translated directly to managing HVAC technicians and service contracts.
       </p>
 
       <h2 className={h2Class}>Conclusion</h2>
@@ -542,6 +554,23 @@ export default function IdealCompanyProfileArticle() {
         Your perfect ICP sits at the intersection of your capabilities, market availability, and investor preferences. Find that intersection, articulate it clearly, and your search will be dramatically more efficient and successful.
       </p>
 
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>How many industries should your ICP include?</h3>
+      <p className={bodyClass}>
+        Most successful searchers target 3-5 tier-one industries where they have knowledge, network, or genuine interest, plus 2-3 tier-two industries they will evaluate on an inbound basis. Focusing on fewer than two industries creates deal flow risk, while chasing more than eight creates inefficiency and dilutes your credibility with brokers. The key is balancing focus with adequate opportunity volume, a good test is whether you can expect to see at least 5-10 relevant opportunities per month.
+      </p>
+
+      <h3 className={h3Class}>When should you revise your ICP during a search?</h3>
+      <p className={bodyClass}>
+        Plan for quarterly ICP reviews with your investors or advisory board. However, trigger an immediate review if you experience a sustained deal flow drought (fewer than 5 relevant opportunities per month for 3+ months), discover that your target sectors consistently trade at multiples above your financing capacity, or find that you are making exceptions for 40%+ of the businesses you evaluate. The biggest mistake is stubbornly refusing to adapt despite market evidence.
+      </p>
+
+      <h3 className={h3Class}>What is the most common ICP mistake new searchers make?</h3>
+      <p className={bodyClass}>
+        The most common mistake is creating a &ldquo;perfect business&rdquo; profile that describes a unicorn: recurring revenue, 30%+ EBITDA margins, zero customer concentration, fully delegated operations, and a motivated seller offering seller financing. This business does not exist at reasonable valuations. Every acquisition involves trade-offs. The second most common mistake is excessive geographic restriction, limiting yourself to a single metro area can reduce deal flow by 85-95%.
+      </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
@@ -552,17 +581,17 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Stanford Graduate School of Business – Search Fund Primer (2023)
+            Stanford Graduate School of Business - Search Fund Primer (2023)
           </a>
         </li>
         <li>
           <a
-            href="https://www.pacificsearchpartners.com/search-fund-resources"
+            href="https://www.pacificlake.com/insights"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Pacific Lake Partners – Search Fund Best Practices
+            Pacific Lake Partners - Search Fund Best Practices
           </a>
         </li>
         <li>
@@ -572,7 +601,7 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            SearchFunder Community – ICP Development Discussion Threads
+            SearchFunder Community - ICP Development Discussion Threads
           </a>
         </li>
         <li>
@@ -588,16 +617,25 @@ export default function IdealCompanyProfileArticle() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Axial Forum – M&A Deal Sourcing and Buyer Positioning
+            Axial Forum - M&A Deal Sourcing and Buyer Positioning
           </a>
         </li>
         <li>
-          International Business Brokers Association (IBBA) – <em>Market Pulse Report</em> (Q4 2024)
+          International Business Brokers Association (IBBA) - <em>Market Pulse Report</em> (Q4 2024)
         </li>
         <li>
           Author interviews with 15+ search fund entrepreneurs (2023-2024)
         </li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">What is ETA</Link></li>
+          <li><Link href="/learn/getting-started" className="text-apple-accent hover:underline">Getting Started</Link></li>
+          <li><Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">Self-Funded vs Traditional</Link></li>
+          <li><Link href="/learn/search-fund-lifecycle" className="text-apple-accent hover:underline">Search Fund Lifecycle</Link></li>
+          <li><Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">How to Buy a Small Business</Link></li>
+        </ul>
     </article>
   );
 }

@@ -17,7 +17,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        This comprehensive guide will walk you through everything you need to know about SDE and EBITDA, including when to use each metric, how to calculate them, and how they affect business valuations. Whether you're evaluating your first acquisition target or comparing multiple opportunities, mastering these concepts will help you make more informed decisions.
+        This thorough guide will walk you through everything you need to know about SDE and EBITDA, including when to use each metric, how to calculate them, and how they affect business valuations. Whether you're evaluating your first acquisition target or comparing multiple opportunities, mastering these concepts will help you make more informed decisions.
       </p>
 
       <h2 className={h2Class}>What Is Seller's Discretionary Earnings (SDE)?</h2>
@@ -27,11 +27,11 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        The key word here is "discretionary" — SDE includes not just the profit on the income statement, but also the owner's salary, benefits, perks, and any personal expenses that have been run through the business. The metric answers the question: "How much cash does this business generate for the owner to do with as they please?"
+        The key word here is "discretionary" - SDE includes not just the profit on the income statement, but also the owner's salary, benefits, perks, and any personal expenses that have been run through the business. The metric answers the question: "How much cash does this business generate for the owner to do with as they please?"
       </p>
 
       <p className={bodyClass}>
-        SDE is most commonly used for small businesses where the owner is deeply involved in operations — think of the restaurant owner who also manages the kitchen, the HVAC company owner who still goes out on service calls, or the e-commerce business owner who handles product sourcing and customer service. In these businesses, the owner's compensation and effort are integral to the business model.
+        SDE is most commonly used for small businesses where the owner is deeply involved in operations - think of the restaurant owner who also manages the kitchen, the HVAC company owner who still goes out on service calls, or the e-commerce business owner who handles product sourcing and customer service. In these businesses, the owner's compensation and effort are integral to the business model.
       </p>
 
       <h2 className={h2Class}>What Is EBITDA?</h2>
@@ -182,7 +182,7 @@ export default function SDEvsEBITDAArticle() {
       <h2 className={h2Class}>Common Add-Backs for SDE</h2>
 
       <p className={bodyClass}>
-        When calculating SDE, sellers (and smart buyers) identify "add-backs" — expenses that appear on the income statement but won't continue under new ownership, or that represent owner benefits rather than true business costs. Common legitimate add-backs include:
+        When calculating SDE, sellers (and smart buyers) identify "add-backs" - expenses that appear on the income statement but won't continue under new ownership, or that represent owner benefits rather than true business costs. Common legitimate add-backs include:
       </p>
 
       <h3 className={h3Class}>Owner Compensation and Benefits</h3>
@@ -306,7 +306,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Example: You acquire a business for 3.0x its $800,000 SDE ($2.4M purchase price). You work in it for two years while hiring and training a general manager ($120K/year). After three years, the business now shows $950,000 EBITDA (growth from $800K SDE minus $120K manager salary plus $270K growth). At 5.0x EBITDA, it's worth $4.75M — you've nearly doubled the value.
+        Example: You acquire a business for 3.0x its $800,000 SDE ($2.4M purchase price). You work in it for two years while hiring and training a general manager ($120K/year). After three years, the business now shows $950,000 EBITDA (growth from $800K SDE minus $120K manager salary plus $270K growth). At 5.0x EBITDA, it's worth $4.75M - you've nearly doubled the value.
       </p>
 
       <h2 className={h2Class}>Which Metric Do Lenders Prefer?</h2>
@@ -456,7 +456,7 @@ export default function SDEvsEBITDAArticle() {
       </p>
 
       <p className={bodyClass}>
-        Don't get caught up in comparing multiples across metrics — a 3x SDE business and a 6x EBITDA business might have identical valuations once you account for management costs. Focus instead on the total purchase price, your required involvement, and the true cash flow available after all necessary expenses.
+        Don't get caught up in comparing multiples across metrics - a 3x SDE business and a 6x EBITDA business might have identical valuations once you account for management costs. Focus instead on the total purchase price, your required involvement, and the true cash flow available after all necessary expenses.
       </p>
 
       <p className={bodyClass}>
@@ -471,19 +471,38 @@ export default function SDEvsEBITDAArticle() {
         Finally, remember that businesses can transition from SDE to EBITDA valuations as they grow and professionalize. This transition represents a significant value creation opportunity for searchers who can successfully reduce owner-dependence and build institutional-quality businesses. Master both metrics, and you'll be better equipped to identify, value, and grow your acquisition target.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>At what earnings level should I switch from SDE to EBITDA valuation?</h3>
+      <p className={bodyClass}>
+        The transition point is generally around $1 million in owner benefit, though it depends more on organizational maturity than a strict dollar threshold. According to the International Business Brokers Association (IBBA) and BizBuySell transaction data, businesses with SDE below $750,000 are almost always valued on SDE, while those with EBITDA above $1.5 million are valued on EBITDA. The $750K-$1.5M range is a gray zone where both metrics may apply. The key question is whether the business has truly evolved beyond owner-dependence: if a capable general manager could run the company without daily owner involvement, EBITDA is appropriate regardless of earnings level. If the owner is integral to operations, SDE better reflects the buyer's economic reality.
+      </p>
+
+      <h3 className={h3Class}>Why do EBITDA multiples appear higher than SDE multiples if the purchase prices are similar?</h3>
+      <p className={bodyClass}>
+        EBITDA multiples appear higher because EBITDA is calculated after deducting management compensation, making the denominator smaller. A business with $1M SDE valued at 3.0x ($3M purchase price) might show only $700K EBITDA after deducting a $300K market-rate manager salary -- at $3M, that implies a 4.3x EBITDA multiple. The purchase prices are often comparable; the difference is accounting for management cost. According to Pepperdine's 2024 Private Capital Markets Report, the average SDE multiple for businesses under $1M in earnings is 2.5-3.5x, while{" "}
+        <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples</Link>{" "}
+        for businesses above $1M typically range from 4.5-6.5x. Always compare like-for-like and ensure your purchase price multiple, financing structure, and lender underwriting all use the same metric.
+      </p>
+
+      <h3 className={h3Class}>How does the SDE-to-EBITDA transition create value for acquirers?</h3>
+      <p className={bodyClass}>
+        Transitioning a business from SDE to EBITDA valuation is one of the most powerful value creation strategies for searchers. By hiring professional management, implementing systems, and reducing owner-dependence, you shift the business into a higher-multiple valuation framework. For example, acquiring a business at 3.0x its $800K SDE ($2.4M), then investing in a $120K/year general manager while growing the business to $950K EBITDA over three years, results in a business worth $4.75M at 5.0x EBITDA -- nearly doubling enterprise value. According to Stanford GSB's 2024 Search Fund Study, multiple expansion from entry to exit (typically moving from 4-6x to 6-10x EBITDA) is one of the three primary drivers of search fund returns, alongside EBITDA growth and debt paydown.
+      </p>
+
       <div className="mt-12 pt-8 border-t border-gray-200">
         <h2 className={h2Class}>Sources</h2>
         <ul className="space-y-2">
           <li>
             <a
-              href="https://www.sba.gov/partners/lenders/7a-loan-program/7a-forms"
+              href="https://www.sba.gov/funding-programs/loans/7a-loans"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
             >
               SBA 7(a) Loan Program Guidelines
             </a>
-            {" — Official SBA guidance on loan underwriting and cash flow analysis"}
+            {" - Official SBA guidance on loan underwriting and cash flow analysis"}
           </li>
           <li>
             <a
@@ -494,7 +513,7 @@ export default function SDEvsEBITDAArticle() {
             >
               Stanford Graduate School of Business: Search Fund Research
             </a>
-            {" — Academic research on search fund valuations and returns"}
+            {" - Academic research on search fund valuations and returns"}
           </li>
           <li>
             <a
@@ -505,7 +524,7 @@ export default function SDEvsEBITDAArticle() {
             >
               BizBuySell Insight Reports
             </a>
-            {" — Quarterly data on small business valuations and market multiples"}
+            {" - Quarterly data on small business valuations and market multiples"}
           </li>
           <li>
             <a
@@ -516,21 +535,31 @@ export default function SDEvsEBITDAArticle() {
             >
               Investopedia: EBITDA Definition and Calculation
             </a>
-            {" — Comprehensive explanation of EBITDA methodology"}
+            {" - Thorough explanation of EBITDA methodology"}
           </li>
           <li>
             <a
-              href="https://www.ibanet.org/document?id=Business-Valuation-Standards"
+              href="https://www.nacva.com/standards"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
             >
-              International Business Brokers Association: Business Valuation Standards
+              NACVA/IBA: Professional Standards for Business Valuation
             </a>
-            {" — Industry standards for business appraisal and earnings normalization"}
+            {" - Industry standards for business appraisal and earnings normalization"}
           </li>
         </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">Adjusted EBITDA: Add-Backs, Normalizations &amp; Red Flags</Link></li>
+          <li><Link href="/learn/business-valuation" className="text-apple-accent hover:underline">How to Value a Small Business for Acquisition</Link></li>
+          <li><Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">Financial Due Diligence: What to Look For</Link></li>
+          <li><Link href="/learn/interpreting-financial-statements" className="text-apple-accent hover:underline">Interpreting Financial Statements for Acquisition Decisions</Link></li>
+          <li><Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">Comparable Transaction Analysis for SME Acquisitions</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM (Confidential Information Memorandum)</Link></li>
+        </ul>
     </article>
   );
 }

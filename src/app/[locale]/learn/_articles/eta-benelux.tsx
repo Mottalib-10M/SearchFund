@@ -9,8 +9,8 @@ export default function ETABeneluxArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Benelux countries&mdash;the Netherlands, Belgium, and
-          Luxembourg&mdash;form a compact but economically powerful region
+          The Benelux countries, the Netherlands, Belgium, and
+          Luxembourg, form a compact but economically powerful region
           at the heart of Europe that offers compelling opportunities for
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Entrepreneurship Through Acquisition</Link>. With a combined GDP exceeding
           &euro;1.2 trillion, a highly internationalized business culture,
@@ -23,14 +23,14 @@ export default function ETABeneluxArticle() {
           of an aging SME ownership base.
         </p>
 
-        <h2 className={h2Class}>The Dutch market landscape</h2>
+        <h2 className={h2Class}>The Dutch market environment</h2>
         <p>
           The Netherlands is the dominant economy in the Benelux region and
           one of the most attractive ETA markets in Europe. With approximately
           2.1 million businesses and a GDP of roughly &euro;950 billion, the
           Dutch economy punches well above its weight internationally. Dutch
-          businesses are known for their global orientation&mdash;the
-          Netherlands is the world&apos;s fifth-largest exporter&mdash;and many
+          businesses are known for their global orientation, the
+          Netherlands is the world&apos;s fifth-largest exporter, and many
           SMEs operate in international niche markets.
         </p>
         <p>
@@ -137,22 +137,22 @@ export default function ETABeneluxArticle() {
         <ul className={ulClass}>
           <li><strong>Limited family succession:</strong> Dutch culture has become increasingly individualistic, and many children of business owners pursue corporate careers or entrepreneurial ventures of their own rather than taking over the family business.</li>
           <li><strong>MBO limitations:</strong> Management buyouts, while common, are limited by the financial capacity and risk appetite of existing managers. Many potential MBO candidates lack the capital or desire to become owners.</li>
-          <li><strong>PE gap:</strong> Private equity firms in the Netherlands generally focus on businesses with EBITDA above &euro;3&ndash;5 million, leaving a large pool of smaller businesses underserved by institutional capital.</li>
+          <li><strong>PE gap:</strong> Private equity firms in the Netherlands generally focus on businesses with EBITDA above &euro;3-5 million, leaving a large pool of smaller businesses underserved by institutional capital.</li>
           <li><strong>Government awareness:</strong> The Dutch government has recognized business succession as a national economic priority and has introduced programs to facilitate ownership transitions, including tax incentives and advisory support.</li>
         </ul>
 
         <h2 className={h2Class}>Financing in the Benelux</h2>
         <p>
-          For a comprehensive overview of how searchers fund their deals, see our guide to <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
+          For a thorough overview of how searchers fund their deals, see our guide to <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
         </p>
         <h3 className={h3Class}>MKB financing in the Netherlands</h3>
         <p>
-          Dutch banks&mdash;including Rabobank, ING, ABN AMRO, and de
-          Volksbank&mdash;all have dedicated MKB (SME) lending divisions
+          Dutch banks, including Rabobank, ING, ABN AMRO, and de
+          Volksbank, all have dedicated MKB (SME) lending divisions
           that actively finance business acquisitions. Rabobank, with its
           deep roots in the Dutch SME community and extensive branch network,
           is particularly well-positioned for search fund transactions.
-          Typical leverage for acquisition financing ranges from 3x to 4x
+          Typical use for acquisition financing ranges from 3x to 4x
           EBITDA, with interest rates that are generally competitive within
           the European context.
         </p>
@@ -182,7 +182,7 @@ export default function ETABeneluxArticle() {
           the Randstad.
         </p>
 
-        <h3 className={h3Class}>Belgian financing landscape</h3>
+        <h3 className={h3Class}>Belgian financing market</h3>
         <p>
           Belgian banks such as KBC, BNP Paribas Fortis, Belfius, and ING
           Belgium provide acquisition financing for SME transactions.
@@ -200,7 +200,7 @@ export default function ETABeneluxArticle() {
           entrepreneurs. Several cross-border factors deserve attention.
         </p>
         <ul className={ulClass}>
-          <li><strong>Language diversity:</strong> The Benelux encompasses Dutch, French, German, and Luxembourgish. In Belgium alone, business may be conducted in Dutch (Flanders), French (Wallonia), or both (Brussels). Searchers targeting the entire region need multilingual capabilities.</li>
+          <li><strong>Language diversity:</strong> The Benelux includes Dutch, French, German, and Luxembourgish. In Belgium alone, business may be conducted in Dutch (Flanders), French (Wallonia), or both (Brussels). Searchers targeting the entire region need multilingual capabilities.</li>
           <li><strong>Regulatory differences:</strong> Despite EU harmonization, significant differences exist in company law, labor law, tax, and regulatory requirements across the three countries. Each jurisdiction requires country-specific legal and tax advice.</li>
           <li><strong>Customer overlap:</strong> Many Benelux SMEs serve customers across all three countries, making the region a natural platform for cross-border consolidation strategies.</li>
           <li><strong>Talent mobility:</strong> The Benelux labor market is highly mobile, with many professionals working across borders. This facilitates post-acquisition talent recruitment and management integration.</li>
@@ -235,7 +235,7 @@ export default function ETABeneluxArticle() {
           <li><strong>Risk-adjusted returns:</strong> As the Dutch startup ecosystem has matured, more entrepreneurs recognize that acquiring an existing profitable business offers better risk-adjusted returns than building a startup from zero.</li>
           <li><strong>MBA influence:</strong> RSM Erasmus University, TIAS, and Nyenrode Business University have all introduced ETA-related content into their curricula, exposing Dutch MBA students to the search fund model.</li>
           <li><strong>Investor sophistication:</strong> Dutch angel investors and family offices that previously focused on startups are increasingly allocating capital to search funds, attracted by the lower failure rate and more predictable return profile.</li>
-          <li><strong>Ecosystem infrastructure:</strong> The infrastructure developed for the Dutch startup ecosystem&mdash;legal advisors, accountants, investor networks, co-working spaces&mdash;is readily adaptable to support search fund activity.</li>
+          <li><strong>Ecosystem infrastructure:</strong> The infrastructure developed for the Dutch startup ecosystem, legal advisors, accountants, investor networks, co-working spaces, is readily adaptable to support search fund activity.</li>
         </ul>
 
         <h2 className={h2Class}>Tax-efficient holding structures</h2>
@@ -256,7 +256,7 @@ export default function ETABeneluxArticle() {
           <li><strong>EBITDA:</strong> &euro;500,000 to &euro;3 million.</li>
           <li><strong>Valuation multiples:</strong> 4x to 7x EBITDA in the Netherlands and Belgium; Luxembourg businesses may command premiums due to the smaller market and higher average quality.</li>
           <li><strong>Sectors:</strong> B2B services, technology-enabled services, specialist manufacturing, logistics, and food and agriculture are popular sectors across the Benelux.</li>
-          <li><strong>Financing:</strong> Typical structures involve 50&ndash;60% senior debt, 10&ndash;15% subordinated or government-backed financing, 10&ndash;20% seller financing, and 20&ndash;30% investor equity.</li>
+          <li><strong>Financing:</strong> Typical structures involve 50-60% senior debt, 10-15% subordinated or government-backed financing, 10-20% seller financing, and 20-30% investor equity.</li>
         </ul>
 
         <h2 className={h2Class}>Practical advice for Benelux searchers</h2>
@@ -266,6 +266,30 @@ export default function ETABeneluxArticle() {
           <li><strong>Works councils:</strong> Dutch companies with 50 or more employees must have a works council (ondernemingsraad) that has advisory rights on major business decisions, including ownership changes. Belgian companies have similar requirements. Engaging with works councils early is essential.</li>
           <li><strong>Professional networks:</strong> Join MKB-Nederland (Dutch SME association), UNIZO or VOKA (Flemish employer organizations), or UCM (Walloon SME association) to access deal flow and build credibility.</li>
           <li><strong>Due diligence standards:</strong> Dutch and Belgian businesses generally maintain high-quality financial records, but pension obligations, environmental liabilities, and labor commitments require careful scrutiny during due diligence.</li>
+        </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses in the Benelux need succession solutions in the coming decade?</h3>
+        <p>
+          According to the Dutch Chamber of Commerce (KVK) and the Netherlands Enterprise Agency (RVO), approximately 75,000 Dutch businesses will need ownership transitions by 2030 due to retiring baby boomer founders. Belgium&apos;s Unizo estimates that 30,000 Flemish businesses face the same challenge, while Wallonia&apos;s UCM reports similar figures for the French-speaking region. Luxembourg, though smaller, has approximately 2,000 businesses facing generational handovers. In total, over 100,000 Benelux SMEs require succession solutions, creating substantial deal flow for <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">ETA practitioners</Link> with the right language skills and local networks.
+        </p>
+
+        <h3 className={h3Class}>What are typical EBITDA multiples for SME acquisitions in the Netherlands and Belgium?</h3>
+        <p>
+          According to Oaklins and Deloitte mid-market transaction data, typical Benelux SME acquisitions price between 4x and 7x EBITDA. Dutch businesses in B2B services and technology-enabled sectors often command the upper end of this range (6x to 7x), while traditional manufacturing and distribution businesses trade at 4x to 5x. Belgian multiples are generally 0.5x to 1x lower than Dutch equivalents for comparable businesses. Luxembourg SMEs may command a slight premium due to the smaller market and higher average profitability. Seller financing of 10-20% of the purchase price is common across all three countries, and government-backed subordinated financing from institutions like Qredits (Netherlands) or PMV (Flanders) can improve the buyer&apos;s equity returns.
+        </p>
+
+        <h3 className={h3Class}>Do I need to speak Dutch or French to run a search fund in the Benelux?</h3>
+        <p>
+          While English proficiency is high across the Benelux, particularly in the Netherlands and Luxembourg, operating a search fund effectively requires at least working proficiency in the local language. In the Netherlands, business-level Dutch is important for building trust with retiring founders and managing employees, particularly outside the Randstad region. In Belgium, language requirements depend on the region: Dutch in Flanders, French in Wallonia, and either (or both) in Brussels. Luxembourg operates in French, German, and Luxembourgish. Several successful <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">European search fund</Link> entrepreneurs have completed acquisitions in the Benelux as non-native speakers, but they typically had at least B2-level proficiency and invested in intensive language training during the search phase.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>KVK (Kamer van Koophandel), <em>State of Dutch SMEs: Business Transfer Monitor</em> (2024)</li>
+          <li>European Commission, <em>SBA Fact Sheet: Netherlands, Belgium, Luxembourg</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
         </ul>
       </div>
     </article>

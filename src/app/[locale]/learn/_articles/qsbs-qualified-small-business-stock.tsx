@@ -22,7 +22,7 @@ export default function QSBSArticle() {
         <p>
           This guide covers the eligibility requirements, structuring
           strategies, holding period rules, and practical considerations for
-          leveraging QSBS in search fund and ETA transactions. While QSBS
+          using QSBS in search fund and ETA transactions. While QSBS
           applies specifically to US federal taxes, the principles inform
           broader{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
@@ -77,7 +77,7 @@ export default function QSBSArticle() {
           million at any time before and immediately after the stock issuance.
           Gross assets means the cash and adjusted basis of all assets held by
           the corporation. For most search fund acquisitions (targeting
-          businesses with $2M&ndash;$20M enterprise value), this threshold is
+          businesses with $2M-$20M enterprise value), this threshold is
           comfortably met.
         </p>
         <p>
@@ -118,7 +118,7 @@ export default function QSBSArticle() {
           for money, other property (not stock), or services. Stock purchased
           on the secondary market from another shareholder does not qualify.
           This means QSBS planning must be built into the acquisition
-          structure from the beginning &mdash; it cannot be retroactively
+          structure from the beginning, it cannot be retroactively
           applied to stock purchased in the market.
         </p>
 
@@ -126,7 +126,7 @@ export default function QSBSArticle() {
 
         <h3 className={h3Class}>Structuring for QSBS eligibility</h3>
         <p>
-          To leverage QSBS in a search fund acquisition, the transaction
+          To use QSBS in a search fund acquisition, the transaction
           should be structured as follows:
         </p>
         <ul className={ulClass}>
@@ -140,7 +140,7 @@ export default function QSBSArticle() {
         <h3 className={h3Class}>The 5-year holding period</h3>
         <p>
           QSBS requires a minimum 5-year holding period from the date of stock
-          issuance. For search fund acquisitions with a typical 5&ndash;7 year
+          issuance. For search fund acquisitions with a typical 5-7 year
           hold period to exit, this timeline aligns naturally. However, early
           exits (before 5 years) would forfeit the QSBS benefit.
         </p>
@@ -194,7 +194,7 @@ export default function QSBSArticle() {
           For European equivalents, France&rsquo;s Dutreil pact offers similar
           (though less generous) tax benefits for business succession. See our{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
-            comprehensive tax optimization guide
+            thorough tax optimization guide
           </Link>{" "}
           and country-specific articles on{" "}
           <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
@@ -222,7 +222,7 @@ export default function QSBSArticle() {
         <p>
           QSBS planning should involve both a tax attorney and a CPA with
           experience in M&amp;A transactions. The planning should begin at
-          entity formation &mdash; not at exit. Key moments to involve advisors:
+          entity formation, not at exit. Key moments to involve advisors:
         </p>
         <ul className={ulClass}>
           <li>Entity selection and formation (ensure C corp + QSBS eligibility)</li>
@@ -238,6 +238,61 @@ export default function QSBSArticle() {
           covers how to build the right professional team for your search fund
           transaction.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much can QSBS save a search fund investor in taxes?</h3>
+        <p>
+          The savings can be substantial. According to the IRS and tax
+          practitioners, each qualifying shareholder can exclude up to $10
+          million (or 10x their adjusted basis, whichever is greater) in
+          capital gains from federal income tax. At the current federal
+          long-term capital gains rate of 23.8% (20% plus the 3.8% net
+          investment income tax), a $10 million exclusion saves $2.38 million
+          per shareholder. For a search fund investor who contributes $500K
+          and realizes a 5x return ($2.5M gain), the QSBS exclusion
+          eliminates approximately $595,000 in federal taxes. Strategies like
+          gifting QSBS to family members or issuing stock to multiple trusts
+          can multiply the exclusion across{" "}
+          <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">multiple taxpayers</Link>.
+        </p>
+
+        <h3 className={h3Class}>Does my search fund acquisition qualify for QSBS if I acquire through an asset purchase?</h3>
+        <p>
+          Not directly. According to IRS guidance on Section 1202, QSBS
+          applies to stock in a C corporation, not to asset purchases.
+          However, you can still achieve QSBS eligibility by structuring the
+          transaction so that a newly formed C-Corp issues stock to investors
+          at original issuance, then uses the capital to acquire the target&apos;s
+          assets. The C-Corp must meet the $50 million gross asset test at the
+          time of stock issuance and operate in a qualifying industry. Our{" "}
+          <Link href="/learn/search-fund-legal-structure" className="text-apple-accent hover:underline">legal structure guide</Link> explains
+          how to set up the acquisition vehicle correctly. The key is planning
+          the entity structure before signing the{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
+        </p>
+
+        <h3 className={h3Class}>What happens if I need to exit before the 5-year QSBS holding period?</h3>
+        <p>
+          Under IRC Section 1045, if you sell QSBS before the 5-year holding
+          period, you can defer the capital gain by reinvesting the proceeds
+          into replacement QSBS within 60 days. The replacement stock must
+          also meet all Section 1202 requirements, and the holding period of
+          the original stock carries over. According to tax practitioners
+          surveyed by the American Bar Association, Section 1045 rollovers
+          are underutilized in the search fund community. If a rollover is
+          not feasible, the gain is taxed at standard long-term capital gains
+          rates (assuming you held for at least one year). Given the potential
+          $2.38 million savings per shareholder, most search fund operators
+          plan for a minimum 5-year hold period from the outset.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Internal Revenue Service, <em>IRC Section 1202, Qualified Small Business Stock</em> (2024)</li>
+          <li>Stanford Graduate School of Business, <em>Search Fund Primer: Tax Planning and QSBS</em> (2023)</li>
+          <li>American Bar Association, <em>Section 1202 Planning for Entrepreneurs and Investors</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

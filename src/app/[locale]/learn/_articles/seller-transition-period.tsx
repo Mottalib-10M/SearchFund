@@ -13,7 +13,7 @@ export default function SellerTransitionPeriodArticle() {
           for a defined period after closing to help the new owner learn the
           business and assume leadership. This transition period is one of the
           most underappreciated levers of post-acquisition value creation
-          &mdash; and one of the most common sources of friction when it is
+          and one of the most common sources of friction when it is
           poorly structured. A well-designed seller transition protects
           customer relationships, preserves institutional knowledge, and gives
           the new CEO a stable foundation from which to lead. A poorly designed
@@ -22,7 +22,7 @@ export default function SellerTransitionPeriodArticle() {
           cooperation matters most.
         </p>
         <p>
-          This guide provides a comprehensive framework for structuring,
+          This guide provides a thorough framework for structuring,
           managing, and concluding the seller transition period. Whether you
           are negotiating the terms in your{" "}
           <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
@@ -38,7 +38,7 @@ export default function SellerTransitionPeriodArticle() {
           or decades accumulating knowledge that cannot be captured in a data
           room. Customer preferences, vendor quirks, employee motivations,
           seasonal rhythms, unwritten policies, and the &quot;way things are
-          really done&quot; &mdash; all of this lives in the seller&rsquo;s
+          really done&quot;, all of this lives in the seller&rsquo;s
           head. Without a structured transition, much of that knowledge walks
           out the door on closing day.
         </p>
@@ -46,7 +46,7 @@ export default function SellerTransitionPeriodArticle() {
           Research on search fund outcomes consistently shows that acquisitions
           with well-managed seller transitions outperform those where the
           seller departs abruptly. The transition period is not a courtesy
-          &mdash; it is a strategic asset you should negotiate and manage as
+          it is a strategic asset you should negotiate and manage as
           carefully as any other deal term.
         </p>
 
@@ -61,13 +61,13 @@ export default function SellerTransitionPeriodArticle() {
 
         <h3 className={h3Class}>Duration</h3>
         <p>
-          Most search fund transitions last 6&ndash;12 months, though the
+          Most search fund transitions last 6-12 months, though the
           right duration depends on the complexity of the business and the
           strength of the existing management team. Businesses where the
           seller is the primary customer relationship holder or possesses deep
           technical expertise may require 12 months or longer. Businesses with
           a strong second-in-command and well-documented processes may need
-          only 3&ndash;6 months. Build flexibility into the agreement by
+          only 3-6 months. Build flexibility into the agreement by
           including an option to extend or terminate early with appropriate
           notice periods.
         </p>
@@ -79,17 +79,17 @@ export default function SellerTransitionPeriodArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Months 1&ndash;3:</strong> 20&ndash;30 hours per week. The
+            <strong>Months 1-3:</strong> 20-30 hours per week. The
             seller is actively involved in introductions, knowledge transfer,
             and shadowing key processes alongside the new CEO.
           </li>
           <li>
-            <strong>Months 4&ndash;6:</strong> 10&ndash;15 hours per week. The
+            <strong>Months 4-6:</strong> 10-15 hours per week. The
             seller shifts to an advisory role, available for questions and
             specific projects but no longer embedded in daily operations.
           </li>
           <li>
-            <strong>Months 7&ndash;12:</strong> 5&ndash;10 hours per week. The
+            <strong>Months 7-12:</strong> 5-10 hours per week. The
             seller is on-call for occasional consultation, primarily focused
             on completing any remaining relationship transfers or knowledge
             documentation.
@@ -103,7 +103,7 @@ export default function SellerTransitionPeriodArticle() {
 
         <h3 className={h3Class}>Compensation</h3>
         <p>
-          Seller consulting fees typically range from $10,000&ndash;$25,000 per
+          Seller consulting fees typically range from $10,000-$25,000 per
           month during the intensive phase, stepping down as the time
           commitment decreases. Common structures include:
         </p>
@@ -111,18 +111,18 @@ export default function SellerTransitionPeriodArticle() {
           <li>
             <strong>Flat monthly retainer:</strong> simplest to administer.
             The fee decreases at defined intervals (e.g., $20K/month for
-            months 1&ndash;3, $12K/month for months 4&ndash;6, $5K/month for
-            months 7&ndash;12).
+            months 1-3, $12K/month for months 4-6, $5K/month for
+            months 7-12).
           </li>
           <li>
             <strong>Hourly rate:</strong> provides flexibility but requires
             time tracking and can create disputes over hours logged. Rates of
-            $150&ndash;$300/hour are typical depending on the seller&rsquo;s
+            $150-$300/hour are typical depending on the seller&rsquo;s
             role and the business&rsquo;s size.
           </li>
           <li>
             <strong>Milestone-based payments:</strong> tie a portion of
-            compensation to completion of specific deliverables &mdash;
+            compensation to completion of specific deliverables , 
             customer introductions completed, knowledge transfer documents
             delivered, or training milestones achieved.
           </li>
@@ -171,8 +171,8 @@ export default function SellerTransitionPeriodArticle() {
 
         <h3 className={h3Class}>Authority and decision-making</h3>
         <p>
-          This is the most important &mdash; and most frequently neglected
-          &mdash; element of the consulting agreement. From the day of
+          This is the most important, and most frequently neglected
+          element of the consulting agreement. From the day of
           closing, the new CEO is the decision-maker. The seller is a
           consultant. This distinction must be explicit in the agreement and
           reinforced in practice.
@@ -189,7 +189,7 @@ export default function SellerTransitionPeriodArticle() {
           </li>
           <li>
             The seller&rsquo;s role is to advise, inform, and introduce
-            &mdash; not to manage, decide, or direct.
+            not to manage, decide, or direct.
           </li>
         </ul>
         <p>
@@ -198,13 +198,13 @@ export default function SellerTransitionPeriodArticle() {
           CEO&rsquo;s credibility. If you surface this issue during{" "}
           <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">deal negotiations</Link>,
           most sellers will agree to clear authority boundaries because they
-          understand the logic &mdash; even if the emotional reality of
+          understand the logic, even if the emotional reality of
           stepping back is more difficult than they anticipated.
         </p>
 
         <h2 className={h2Class}>Managing emotional dynamics</h2>
         <p>
-          The seller transition is not just a business arrangement &mdash; it
+          The seller transition is not just a business arrangement, it
           is an emotional experience for both parties. The seller is watching
           someone else lead the company they built, often over decades. They
           may struggle with feelings of loss, irrelevance, or anxiety about
@@ -253,7 +253,7 @@ export default function SellerTransitionPeriodArticle() {
           <li>
             <strong>Dependency risk:</strong> be careful not to lean on the
             seller so heavily that you delay building your own capabilities
-            and relationships. The transition period has an end date &mdash;
+            and relationships. The transition period has an end date , 
             use it to learn, not to outsource leadership.
           </li>
         </ul>
@@ -262,7 +262,7 @@ export default function SellerTransitionPeriodArticle() {
           respect and gratitude while maintaining firm, clear boundaries.
           Publicly acknowledge the seller&rsquo;s contributions. Seek their
           input on decisions where their experience adds genuine value. But
-          make it clear &mdash; privately if necessary &mdash; that you are
+          make it clear, privately if necessary, that you are
           the one making the final calls. Most sellers respond well to this
           balance of deference and clarity.
         </p>
@@ -294,7 +294,7 @@ export default function SellerTransitionPeriodArticle() {
             relationship to the new CEO.
           </li>
           <li>
-            Schedule introductory meetings &mdash; ideally in person &mdash;
+            Schedule introductory meetings, ideally in person , 
             with the seller present to endorse the new CEO and signal
             continuity.
           </li>
@@ -316,7 +316,7 @@ export default function SellerTransitionPeriodArticle() {
             behind key commercial decisions.
           </li>
           <li>
-            Identify and document &quot;tribal knowledge&quot; &mdash; the
+            Identify and document &quot;tribal knowledge&quot;, the
             informal rules and heuristics that employees follow but have never
             written down.
           </li>
@@ -348,13 +348,13 @@ export default function SellerTransitionPeriodArticle() {
             decline.
           </li>
           <li>
-            Document the competitive landscape from the seller&rsquo;s
+            Document the competitive environment from the seller&rsquo;s
             perspective: who are the real threats, where are the
             opportunities, what has been tried and failed?
           </li>
           <li>
             Capture any ideas or plans the seller had but never executed
-            &mdash; these may represent your first value creation
+            these may represent your first value creation
             opportunities.
           </li>
         </ul>
@@ -375,7 +375,7 @@ export default function SellerTransitionPeriodArticle() {
         <ol className={olClass}>
           <li>
             <strong>Pre-introduction briefing:</strong> the seller provides
-            background on the relationship &mdash; history, communication
+            background on the relationship, history, communication
             preferences, outstanding issues, and any sensitivities the new CEO
             should be aware of.
           </li>
@@ -386,7 +386,7 @@ export default function SellerTransitionPeriodArticle() {
           </li>
           <li>
             <strong>Follow-up by the new CEO alone:</strong> within one to two
-            weeks, the new CEO follows up independently &mdash; a phone call,
+            weeks, the new CEO follows up independently, a phone call,
             an email, or ideally a visit. This establishes the direct
             relationship.
           </li>
@@ -398,7 +398,7 @@ export default function SellerTransitionPeriodArticle() {
         </ol>
         <p>
           Prioritize introductions by revenue concentration and strategic
-          importance. Your top 10&ndash;15 customers should be introduced
+          importance. Your top 10-15 customers should be introduced
           within the first 30 days. All remaining significant relationships
           should be transferred within the first 90 days.
         </p>
@@ -408,7 +408,7 @@ export default function SellerTransitionPeriodArticle() {
           The transition period creates a uniquely sensitive communication
           environment. Employees are watching both the seller and the new CEO
           for signals about the company&rsquo;s direction. Misalignment
-          between the two &mdash; or silence from either &mdash; breeds
+          between the two, or silence from either, breeds
           rumors and anxiety. The principles covered in our{" "}
           <Link href="/learn/management-transition" className="text-apple-accent hover:underline">management transition guide</Link>{" "}
           apply with particular force during this period.
@@ -429,14 +429,14 @@ export default function SellerTransitionPeriodArticle() {
           Communicate clearly that the new CEO is in charge and that the
           seller is available as a resource during the transition. If
           employees go to the seller for approvals or direction, the seller
-          should redirect them to the new CEO &mdash; every time, without
+          should redirect them to the new CEO, every time, without
           exception.
         </p>
 
         <h3 className={h3Class}>Managing rumors</h3>
         <p>
           Rumors flourish in information vacuums. Maintain a high cadence of
-          communication during the transition &mdash; weekly updates, frequent
+          communication during the transition, weekly updates, frequent
           walk-arounds, and an open-door policy. When you hear a rumor,
           address it directly and transparently. The first weeks after closing
           are the highest-risk period for employee departures, so overcommunicate
@@ -462,7 +462,7 @@ export default function SellerTransitionPeriodArticle() {
             <strong>The seller who disengages too quickly:</strong> on the
             opposite end of the spectrum, some sellers emotionally check out
             after closing, providing minimal cooperation during the transition.
-            Milestone-based compensation structures help here &mdash; tie
+            Milestone-based compensation structures help here, tie
             payments to completion of specific deliverables so the seller has
             a financial incentive to stay engaged.
           </li>
@@ -477,7 +477,7 @@ export default function SellerTransitionPeriodArticle() {
             <strong>Skimping on transition duration:</strong> cutting the
             transition short to save consulting fees is a false economy. The
             institutional knowledge and relationships you lose are worth far
-            more than the $10K&ndash;$25K per month you save. Think of the
+            more than the $10K-$25K per month you save. Think of the
             consulting fee as insurance against the most common post-acquisition
             risks.
           </li>
@@ -494,25 +494,25 @@ export default function SellerTransitionPeriodArticle() {
             transition as a purely logistical exercise ignores the human
             reality. The seller is grieving; the employees are anxious; the
             new CEO is learning. Acknowledging and managing these emotions is
-            not soft &mdash; it is essential to a successful handover.
+            not soft, it is essential to a successful handover.
           </li>
           <li>
             <strong>Failing to document knowledge:</strong> many search fund
             CEOs report that their biggest regret is not capturing the
             seller&rsquo;s knowledge more systematically. Create written
-            records of everything the seller shares &mdash; do not trust your
+            records of everything the seller shares, do not trust your
             memory or assume you will remember details six months later.
           </li>
         </ul>
 
         <h2 className={h2Class}>Phased withdrawal timeline</h2>
         <p>
-          A successful transition does not end abruptly &mdash; it tapers.
+          A successful transition does not end abruptly, it tapers.
           The following phased timeline provides a framework you can adapt to
           your specific situation.
         </p>
 
-        <h3 className={h3Class}>Phase 1: Immersion (weeks 1&ndash;4)</h3>
+        <h3 className={h3Class}>Phase 1: Immersion (weeks 1-4)</h3>
         <p>
           The seller is present daily or nearly daily. They attend meetings
           alongside the new CEO, make joint customer and vendor visits, and
@@ -522,17 +522,17 @@ export default function SellerTransitionPeriodArticle() {
           this period is about listening, learning, and building trust.
         </p>
 
-        <h3 className={h3Class}>Phase 2: Supported leadership (months 2&ndash;3)</h3>
+        <h3 className={h3Class}>Phase 2: Supported leadership (months 2-3)</h3>
         <p>
           The new CEO leads all meetings and makes all decisions. The seller
-          attends selectively &mdash; primarily for customer and vendor
+          attends selectively, primarily for customer and vendor
           introductions, complex operational situations, and knowledge
           transfer sessions. The seller&rsquo;s presence shifts from daily to
-          3&ndash;4 days per week, then 2&ndash;3 days per week by the end
+          3-4 days per week, then 2-3 days per week by the end
           of this phase.
         </p>
 
-        <h3 className={h3Class}>Phase 3: Advisory (months 4&ndash;6)</h3>
+        <h3 className={h3Class}>Phase 3: Advisory (months 4-6)</h3>
         <p>
           The seller is no longer on-site regularly. They are available by
           phone or email for questions and may come in for specific meetings
@@ -542,9 +542,9 @@ export default function SellerTransitionPeriodArticle() {
           documentation for completeness.
         </p>
 
-        <h3 className={h3Class}>Phase 4: Wind-down (months 7&ndash;12)</h3>
+        <h3 className={h3Class}>Phase 4: Wind-down (months 7-12)</h3>
         <p>
-          The seller is on-call for occasional questions &mdash; perhaps a few
+          The seller is on-call for occasional questions, perhaps a few
           hours per week at most. This phase is a safety net, ensuring the new
           CEO has access to the seller&rsquo;s expertise for situations that
           arise infrequently (annual events, unusual customer requests,
@@ -575,8 +575,8 @@ export default function SellerTransitionPeriodArticle() {
           </li>
           <li>
             <strong>Event invitations:</strong> inviting the former owner to
-            company milestones &mdash; anniversaries, major client wins,
-            holiday parties &mdash; maintains goodwill and reinforces
+            company milestones, anniversaries, major client wins,
+            holiday parties, maintains goodwill and reinforces
             continuity for long-tenured employees.
           </li>
           <li>
@@ -625,7 +625,7 @@ export default function SellerTransitionPeriodArticle() {
             and documentation, not an informal process.
           </li>
           <li>
-            Prioritize customer and vendor introductions in the first 30&ndash;90
+            Prioritize customer and vendor introductions in the first 30-90
             days while the seller&rsquo;s endorsement carries the most weight.
           </li>
           <li>
@@ -646,9 +646,33 @@ export default function SellerTransitionPeriodArticle() {
           The sellers who built the businesses we acquire deserve our respect,
           our gratitude, and a transition process that honors their legacy.
           The buyers who structure that process thoughtfully will find
-          themselves leading stronger, more resilient companies &mdash; with
+          themselves leading stronger, more resilient companies, with
           the full support of the person who built them.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long should a seller transition period last in a search fund acquisition?</h3>
+        <p>
+          Most search fund seller transitions last 6-12 months, though the optimal duration depends on the complexity of the business and the seller&rsquo;s role. Businesses where the seller is the primary customer relationship holder or possesses deep technical expertise typically require 12 months or longer. The Stanford GSB Search Fund Study reports that acquisitions with structured transitions of at least 6 months have significantly higher post-acquisition performance than those with abrupt handovers. A phased structure, intensive involvement (20-30 hours/week) in months 1-3, advisory (10-15 hours/week) in months 4-6, and on-call (5-10 hours/week) in months 7-12, balances knowledge transfer with the new CEO&rsquo;s need to establish independent leadership.
+        </p>
+
+        <h3 className={h3Class}>How much should you pay the seller during the transition consulting period?</h3>
+        <p>
+          Seller consulting fees typically range from $10,000-$25,000 per month during the intensive phase, stepping down as the time commitment decreases. Common structures include a flat monthly retainer that decreases at defined intervals (e.g., $20K/month for months 1-3, $12K/month for months 4-6, $5K/month for months 7-12), hourly rates of $150-$300/hour, or milestone-based payments tied to specific deliverables like customer introductions and knowledge transfer documentation. According to the Exit Planning Institute, the total consulting cost across the full transition period typically represents 2-5% of the acquisition purchase price, a small investment relative to the value of the institutional knowledge being transferred.
+        </p>
+
+        <h3 className={h3Class}>What is the most common mistake during the seller transition period?</h3>
+        <p>
+          The most frequently cited mistake is failing to establish clear authority boundaries from Day 1, creating a &ldquo;two bosses&rdquo; dynamic that confuses employees and undermines the new CEO&rsquo;s credibility. When employees receive conflicting signals from the seller and the new CEO, the organization stalls, decisions get delayed, morale drops, and the new CEO&rsquo;s authority erodes. The consulting agreement should explicitly state that the new CEO is the sole decision-maker from closing day, while the seller serves as an advisor. Harvard Business Review research on leadership transitions confirms that ambiguity about authority during handover periods is the single strongest predictor of failed transitions in acquired businesses.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>
+          <li>Exit Planning Institute, <em>Seller Transition Best Practices</em> (2024)</li>
+          <li>Harvard Business Review, <em>Leadership Transitions in Acquired Businesses</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

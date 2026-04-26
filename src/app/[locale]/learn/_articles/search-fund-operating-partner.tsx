@@ -9,7 +9,7 @@ export default function SearchFundOperatingPartnerArticle() {
 
       <div className={bodyClass}>
         <p>
-          The traditional search fund image is that of a solo entrepreneur &mdash; one
+          The traditional search fund image is that of a solo entrepreneur, one
           searcher, one acquisition, one CEO. But a growing number of search funds are
           launched by two partners who search together, acquire together, and run the
           company together. This is the operating partner model, and when it works well
@@ -29,7 +29,7 @@ export default function SearchFundOperatingPartnerArticle() {
           In a partnered search fund, two individuals jointly raise search capital, conduct
           the search for an acquisition target, and then co-lead the acquired company as
           its senior executives. Rather than a single searcher stepping in as CEO, the
-          partner team divides leadership responsibilities between them &mdash; most commonly
+          partner team divides leadership responsibilities between them, most commonly
           as co-CEOs or as a CEO and COO pairing.
         </p>
         <p>
@@ -42,10 +42,10 @@ export default function SearchFundOperatingPartnerArticle() {
           emotional support through what is often a grueling, multi-year journey.
         </p>
         <p>
-          According to Stanford&rsquo;s longitudinal data, roughly 30&ndash;35% of
+          According to Stanford&rsquo;s longitudinal data, roughly 30-35% of
           traditional search funds have been raised by partner teams. The proportion has
           remained relatively stable over the past two decades, suggesting that the model
-          is neither a passing trend nor a dominant one &mdash; it is a legitimate
+          is neither a passing trend nor a dominant one, it is a legitimate
           alternative that suits certain people and certain situations.
         </p>
 
@@ -63,7 +63,7 @@ export default function SearchFundOperatingPartnerArticle() {
           </li>
           <li>
             <strong>Larger or more complex targets:</strong> You plan to acquire a business
-            that genuinely requires two senior leaders from day one &mdash; for example, a
+            that genuinely requires two senior leaders from day one, for example, a
             company with multiple locations, a complex sales organization, or operations
             that span different geographies.
           </li>
@@ -95,15 +95,15 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h3 className={h3Class}>Equity split</h3>
         <p>
-          In a traditional solo search fund, the searcher typically receives 20&ndash;25%
+          In a traditional solo search fund, the searcher typically receives 20-25%
           of the acquired company&rsquo;s equity, vesting over time. In a partner search,
-          the total searcher equity pool remains roughly the same &mdash; 20&ndash;30% &mdash;
+          the total searcher equity pool remains roughly the same, 20-30% , 
           but is split between the two partners. The most common arrangements are:
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Equal split (50/50 of the searcher pool):</strong> Each partner receives
-            10&ndash;15% of total company equity. This is the default when both partners
+            10-15% of total company equity. This is the default when both partners
             contribute equally to the search and will hold equivalent roles post-acquisition.
           </li>
           <li>
@@ -186,8 +186,8 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h2 className={h2Class}>Legal agreements: the business prenup</h2>
         <p>
-          A search fund partnership without a robust operating agreement is like a marriage
-          without a prenup &mdash; everything is fine until it isn&rsquo;t. The legal
+          A search fund partnership without a strong operating agreement is like a marriage
+          without a prenup, everything is fine until it isn&rsquo;t. The legal
           documents that govern a partnership should be drafted at the very beginning of
           the relationship, when goodwill is high and the incentive to be fair is
           strongest. Waiting until a conflict arises to define the rules is a guaranteed
@@ -232,7 +232,7 @@ export default function SearchFundOperatingPartnerArticle() {
           <li>
             <strong>Dispute resolution:</strong> Mediation first, then binding
             arbitration if mediation fails. Litigation should be the absolute last resort
-            &mdash; it is slow, expensive, and destructive to both the partnership and
+            it is slow, expensive, and destructive to both the partnership and
             the business.
           </li>
         </ul>
@@ -245,7 +245,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <h2 className={h2Class}>Complementary skill sets: what to look for</h2>
         <p>
           The most successful search fund partnerships are built on genuine
-          complementarity &mdash; not on two people who are good at the same things. The
+          complementarity, not on two people who are good at the same things. The
           ideal partner brings strengths where you have gaps, and vice versa. Common
           complementary pairings include:
         </p>
@@ -294,7 +294,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <p>
           Establish a regular rhythm of structured communication that goes beyond the
           daily operational back-and-forth. Many successful partnerships hold a weekly
-          one-on-one meeting dedicated exclusively to the partnership itself &mdash; not
+          one-on-one meeting dedicated exclusively to the partnership itself, not
           the business, not the deal pipeline, but how the two partners are working
           together. Topics include decision-making friction, workload balance, personal
           stress levels, and any unspoken concerns. This practice prevents small
@@ -303,7 +303,7 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h3 className={h3Class}>Transparent financial management</h3>
         <p>
-          Both partners should have full visibility into all financial matters &mdash;
+          Both partners should have full visibility into all financial matters , 
           search fund expenses, personal compensation, investor communications, and
           eventually the acquired company&rsquo;s financial performance. Financial
           opacity, even if unintentional, erodes trust faster than almost anything else
@@ -327,7 +327,7 @@ export default function SearchFundOperatingPartnerArticle() {
           Understanding how{" "}
           <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
           evaluate partner teams is essential for anyone considering this model. Investor
-          perspectives on partnerships are nuanced and often divided:
+          perspectives on partnerships are detailed and often divided:
         </p>
 
         <h3 className={h3Class}>What investors like about partnerships</h3>
@@ -424,7 +424,7 @@ export default function SearchFundOperatingPartnerArticle() {
           </li>
           <li>
             <strong>Friendship over function:</strong> Choosing a partner because they
-            are your closest friend, your MBA classmate, or your former colleague &mdash;
+            are your closest friend, your MBA classmate, or your former colleague , 
             rather than because they bring genuinely complementary skills and a
             professional temperament suited to partnership. The best business partner
             and the best friend are rarely the same person.
@@ -449,8 +449,8 @@ export default function SearchFundOperatingPartnerArticle() {
             <tbody className="text-apple-gray-700">
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">Decision speed</td>
-                <td className="py-2 pr-4">Slower &mdash; requires alignment</td>
-                <td className="py-2">Faster &mdash; clear authority</td>
+                <td className="py-2 pr-4">Slower, requires alignment</td>
+                <td className="py-2">Faster, clear authority</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">External clarity</td>
@@ -464,7 +464,7 @@ export default function SearchFundOperatingPartnerArticle() {
               </tr>
               <tr className="border-b border-apple-gray-100">
                 <td className="py-2 pr-4">Investor preference</td>
-                <td className="py-2 pr-4">Mixed &mdash; some are skeptical</td>
+                <td className="py-2 pr-4">Mixed, some are skeptical</td>
                 <td className="py-2">Generally preferred</td>
               </tr>
               <tr className="border-b border-apple-gray-100">
@@ -474,8 +474,8 @@ export default function SearchFundOperatingPartnerArticle() {
               </tr>
               <tr>
                 <td className="py-2 pr-4">Conflict risk</td>
-                <td className="py-2 pr-4">Higher &mdash; ambiguous authority</td>
-                <td className="py-2">Lower &mdash; defined hierarchy</td>
+                <td className="py-2 pr-4">Higher, ambiguous authority</td>
+                <td className="py-2">Lower, defined hierarchy</td>
               </tr>
             </tbody>
           </table>
@@ -492,8 +492,8 @@ export default function SearchFundOperatingPartnerArticle() {
 
         <h3 className={h3Class}>The complementary duo</h3>
         <p>
-          Two MBA classmates &mdash; one with a background in management consulting and
-          the other in software engineering &mdash; raised a traditional search fund
+          Two MBA classmates, one with a background in management consulting and
+          the other in software engineering, raised a traditional search fund
           together. They acquired a mid-market B2B services company generating $3M in
           EBITDA. The consulting partner took the CEO role, focusing on client
           relationships, business development, and investor relations. The engineering
@@ -538,7 +538,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <ol className={olClass}>
           <li>
             <strong>Test the relationship first:</strong> Before committing to a multi-year
-            partnership, work together on a smaller project &mdash; a consulting
+            partnership, work together on a smaller project, a consulting
             engagement, a real estate deal, a detailed business plan. Observe how your
             potential partner handles disagreement, stress, and ambiguity.
           </li>
@@ -567,7 +567,7 @@ export default function SearchFundOperatingPartnerArticle() {
             immediately rather than letting it fester.
           </li>
           <li>
-            <strong>Leverage the board:</strong> Give your board of directors an explicit
+            <strong>Use the board:</strong> Give your board of directors an explicit
             role in monitoring the health of the partnership. A trusted board member who
             can mediate disagreements is invaluable.
           </li>
@@ -581,7 +581,7 @@ export default function SearchFundOperatingPartnerArticle() {
         <h2 className={h2Class}>Is the operating partner model right for you?</h2>
         <p>
           The operating partner model is not inherently better or worse than the solo
-          search &mdash; it is different. It suits people who genuinely thrive in
+          search, it is different. It suits people who genuinely thrive in
           collaborative leadership, who have identified a partner with truly
           complementary skills, and who are willing to invest the time and legal expense
           to structure the partnership properly from the start.
@@ -593,7 +593,7 @@ export default function SearchFundOperatingPartnerArticle() {
           <Link href="/learn/searcher-compensation" className="text-apple-accent hover:underline">searcher compensation</Link>{" "}
           to understand the economic trade-offs of splitting the equity pool, and on{" "}
           <Link href="/learn/board-governance" className="text-apple-accent hover:underline">board governance</Link>{" "}
-          to understand how a strong board can support &mdash; or replace &mdash; some
+          to understand how a strong board can support, or replace, some
           of the benefits that a partner provides.
         </p>
         <p>
@@ -603,6 +603,44 @@ export default function SearchFundOperatingPartnerArticle() {
           relationship properly, the operating partner model can give you a meaningful
           edge in one of the most challenging and rewarding journeys in entrepreneurship.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of search funds use the operating partner model, and do partnered searches perform differently than solo searches?</h3>
+        <p>
+          According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, approximately 30-35% of traditional search funds are raised by partner teams, a proportion that has remained relatively stable over the past two decades. The performance data is detailed: partnered searches tend to have slightly higher acquisition rates (because two searchers cover more ground), but the aggregate return data does not show a statistically significant difference between solo and partnered funds. The key variable is not the number of partners but the quality of the partnership, teams with genuinely complementary skills and clear role definition outperform teams composed of two people with similar backgrounds. Investors report that the single greatest risk in partnered searches is partner conflict post-acquisition, which can destabilize the business and destroy value more severely than typical solo-searcher challenges.
+        </p>
+
+        <h3 className={h3Class}>How should partnered searchers split equity, and what vesting schedule is standard?</h3>
+        <p>
+          In a traditional search fund, the total searcher equity pool is 20-30% of the acquired company. In a partner search, this pool is split between the two partners rather than doubled, meaning each partner typically receives 10-15% of total company equity. The most common arrangement is a 50/50 split when both partners contribute equally and hold equivalent roles. An unequal split (60/40 or 55/45) is appropriate when one partner brings meaningfully more experience, capital, or will serve as CEO while the other serves as COO. Standard vesting is over 4-5 years with a one-year cliff. The critical principle is that the split must be agreed before the search begins, when goodwill is highest and the incentive to be fair is strongest. For a complete guide to equity structures, see our article on{" "}
+          <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap tables and equity</Link>.
+        </p>
+
+        <h3 className={h3Class}>What legal agreements do search fund partners need before launching?</h3>
+        <p>
+          At minimum, partners need a thorough operating agreement drafted by counsel experienced in search fund partnerships. Key provisions include: equity allocation and vesting schedules for each partner, written role definitions and authority boundaries, compensation terms (salary, bonus, any differences between partners), buyout provisions with a defined valuation methodology (typically fair market value or formula-based pricing), non-compete and non-solicitation clauses, dissolution triggers and procedures, and a dispute resolution mechanism (mediation first, then binding arbitration). Partners should also align on lifestyle expectations, hours worked, relocation willingness, exit timeline, risk tolerance, and document these discussions. Generic partnership templates are insufficient for the specific complexities of search fund economics, investor rights, and vesting structures. The legal cost of drafting these agreements ($10K-$25K) is a trivial expense relative to the cost of an unstructured partnership breakdown.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business, 2024 Search Fund Study (Partner vs. Solo Search Data)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School, Search Fund Primer (Partnership Structures)
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School, International Search Fund Study (Partnership Outcomes)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

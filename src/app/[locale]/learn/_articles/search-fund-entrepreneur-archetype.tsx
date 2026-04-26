@@ -16,7 +16,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        This article examines the archetypal search fund entrepreneur—their background, personality traits, skills,
+        This article examines the archetypal search fund entrepreneur - their background, personality traits, skills,
         and characteristics that correlate with success. Whether you're considering launching a search fund or
         evaluating potential searchers as an investor, understanding this archetype is critical.
       </p>
@@ -31,9 +31,10 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        Success in search funds requires navigating three distinct phases: raising initial search capital, finding
+        Success in search funds requires managing three distinct phases: raising initial search capital, finding
         and acquiring the right business, and operating and growing that business post-acquisition. Each phase
-        demands different capabilities, but the most successful searchers demonstrate competence across all three.
+        demands different capabilities, but the most successful searchers demonstrate competence across all three. If you are
+        considering this path from a corporate career, our guide on <Link href="/learn/corporate-to-eta" className="text-apple-accent hover:underline">transitioning from corporate to ETA</Link> covers the practical steps in detail.
       </p>
 
       <p className={bodyClass}>
@@ -58,7 +59,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <h2 className={h2Class}>The Data: Background of Successful Searchers</h2>
 
       <p className={bodyClass}>
-        Stanford's comprehensive database of search funds provides quantitative insights into searcher backgrounds.
+        Stanford's thorough database of search funds provides quantitative insights into searcher backgrounds.
         The data reveals some surprising patterns about who succeeds in this model.
       </p>
 
@@ -67,7 +68,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         Approximately 95% of traditional search fund entrepreneurs hold an MBA from a leading business school. The
         top feeders include Harvard Business School, Stanford GSB, Kellogg, Wharton, MIT Sloan, and Chicago Booth.
-        This concentration isn't coincidental—these programs provide access to the investor networks that fund
+        This concentration isn't coincidental - these programs provide access to the investor networks that fund
         searches and have established track records producing successful searchers.
       </p>
 
@@ -134,7 +135,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        Angela Duckworth's research on grit—the combination of passion and perseverance toward long-term goals—applies
+        Angela Duckworth's research on grit - the combination of passion and perseverance toward long-term goals - applies
         perfectly to search fund entrepreneurs. The most successful searchers maintain enthusiasm and effort despite
         setbacks, viewing each rejection as a learning opportunity rather than a personal failure.
       </p>
@@ -156,7 +157,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         Successful searchers demonstrate comfort making decisions with incomplete information. They gather data,
         consult advisors, and analyze options, but ultimately trust their judgment and move forward decisively.
-        Paralysis by analysis kills search funds—the best searchers balance thoroughness with bias toward action.
+        Paralysis by analysis kills search funds - the best searchers balance thoroughness with bias toward action.
       </p>
 
       <p className={bodyClass}>
@@ -208,7 +209,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        Learning agility—the ability to learn from experience and apply insights to new situations—predicts CEO success.
+        Learning agility - the ability to learn from experience and apply insights to new situations - predicts CEO success.
         Search fund entrepreneurs must learn constantly: new industries, unfamiliar business models, emerging technologies,
         evolving customer needs, and their own leadership capabilities.
       </p>
@@ -230,7 +231,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         One successful searcher reflected: "My Harvard MBA meant nothing to the plant manager who'd run operations for
         20 years. I had to earn credibility by listening, respecting his expertise, and demonstrating I could add value
-        in areas he couldn't—like strategic planning and capital allocation—without pretending to know his job better
+        in areas he couldn't - like strategic planning and capital allocation - without pretending to know his job better
         than he did."
       </p>
 
@@ -254,7 +255,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
         <li><strong>Business model analysis:</strong> Understanding how different industries and companies create value,
         serve customers, and generate profits</li>
         <li><strong>Client relationship management:</strong> Similar skills to managing investors, sellers, and advisors</li>
-        <li><strong>Project management:</strong> Driving workstreams to completion with limited authority—exactly what
+        <li><strong>Project management:</strong> Driving workstreams to completion with limited authority - exactly what
         searchers do during due diligence</li>
         <li><strong>Communication:</strong> Synthesizing complex information for executive audiences, creating compelling
         presentations, and facilitating difficult conversations</li>
@@ -280,15 +281,15 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
 
       <p className={bodyClass}>
         The primary limitation is lack of operational experience. Bankers may excel at analyzing deals but struggle
-        with the messy reality of running a company—managing people, solving operational problems, and driving revenue
-        growth require different capabilities than executing transactions.
+        with the messy reality of running a company - managing people, solving operational problems, and driving revenue
+        growth require different capabilities than executing transactions. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> explores how different backgrounds affect outcomes.
       </p>
 
       <h3 className={h3Class}>Operations: Underrated but Valuable</h3>
 
       <p className={bodyClass}>
-        Searchers with corporate operations experience—supply chain, manufacturing, sales operations, or general
-        management—often underestimate how valuable their background is. While they may lack the financial modeling
+        Searchers with corporate operations experience - supply chain, manufacturing, sales operations, or general
+        management - often underestimate how valuable their background is. While they may lack the financial modeling
         polish of bankers or the frameworks of consultants, they understand the daily reality of business operations.
       </p>
 
@@ -353,9 +354,9 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        The data provides a nuanced answer. Industry experience offers advantages during search (credibility with
+        The data provides a detailed answer. Industry experience offers advantages during search (credibility with
         sellers, faster due diligence, better risk assessment) and early operation (understanding market dynamics,
-        competitive landscape, and customer needs). However, these advantages are often overestimated.
+        competitive environment, and customer needs). However, these advantages are often overestimated.
       </p>
 
       <h3 className={h3Class}>The Case for Industry Agnosticism</h3>
@@ -366,8 +367,8 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>General management skills transfer:</strong> The core CEO responsibilities—strategy, capital
-        allocation, team building, culture management—apply across industries</li>
+        <li><strong>General management skills transfer:</strong> The core CEO responsibilities - strategy, capital
+        allocation, team building, culture management - apply across industries</li>
         <li><strong>Fresh perspective value:</strong> Outsiders often see opportunities and improvements that industry
         veterans miss due to "this is how we've always done it" thinking</li>
         <li><strong>Broader search funnel:</strong> Industry-agnostic searchers evaluate far more opportunities,
@@ -398,7 +399,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
 
       <p className={bodyClass}>
         The typical search fund entrepreneur is 28-35 years old, with most launching searches immediately post-MBA
-        or within 2-3 years of graduating. This age range isn't arbitrary—it reflects practical considerations and
+        or within 2-3 years of graduating. This age range isn't arbitrary - it reflects practical considerations and
         investor preferences.
       </p>
 
@@ -466,7 +467,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <h3 className={h3Class}>Inflexibility and Rigidity</h3>
 
       <p className={bodyClass}>
-        Searchers must adapt constantly—to market feedback, investor guidance, seller concerns, and operational realities.
+        Searchers must adapt constantly - to market feedback, investor guidance, seller concerns, and operational realities.
         Red flags include:
       </p>
 
@@ -577,9 +578,9 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <h3 className={h3Class}>Self-Funded Search Expansion</h3>
 
       <p className={bodyClass}>
-        Self-funded search has opened pathways for entrepreneurs who don't fit the traditional mold—those without MBAs,
+        Self-funded search has opened pathways for entrepreneurs who don't fit the traditional mold - those without MBAs,
         older candidates with operating experience, and individuals with deep industry expertise but limited access to
-        traditional search fund investor networks.
+        traditional search fund investor networks. For a detailed comparison of the two models, see <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded vs. traditional search funds</Link>.
       </p>
 
       <p className={bodyClass}>
@@ -596,9 +597,9 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       </p>
 
       <p className={bodyClass}>
-        Cultural differences influence the archetype—European searchers may emphasize operational excellence over
-        financial engineering, Latin American searchers often leverage family business networks, and Asian searchers
-        navigate different investor expectations and business practices.
+        Cultural differences influence the archetype - European searchers may emphasize operational excellence over
+        financial engineering, Latin American searchers often use family business networks, and Asian searchers
+        manage different investor expectations and business practices.
       </p>
 
       <h3 className={h3Class}>Greater Diversity</h3>
@@ -632,7 +633,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
 
       <p className={bodyClass}>
         While solo searches remain standard, partner searches are becoming more common. Partners can combine complementary
-        skills—one operationally focused, one financially oriented; one extroverted and relationship-driven, one analytical
+        skills - one operationally focused, one financially oriented; one extroverted and relationship-driven, one analytical
         and detail-oriented.
       </p>
 
@@ -646,7 +647,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
 
       <p className={bodyClass}>
         The search fund entrepreneur archetype has been refined over forty years of practice, failures, and successes.
-        While the traditional profile—recent MBA graduate from a top program with consulting or banking background—remains
+        While the traditional profile - recent MBA graduate from a top program with consulting or banking background - remains
         common, the archetype is broadening to include older searchers, self-funded entrepreneurs, international candidates,
         and diverse backgrounds.
       </p>
@@ -660,13 +661,13 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
       <p className={bodyClass}>
         For aspiring searchers, the key is honest self-assessment. Do you have the capabilities, temperament, and
         motivation to succeed in this model? Where are your gaps, and can you develop or compensate for them? Search
-        fund entrepreneurship is extraordinarily rewarding for those who fit the archetype, but it's not for everyone—and
+        fund entrepreneurship is extraordinarily rewarding for those who fit the archetype, but it's not for everyone - and
         that's perfectly fine.
       </p>
 
       <p className={bodyClass}>
         For investors, understanding the archetype helps evaluate candidates beyond surface credentials. The best
-        investors look past pedigree to assess deeper characteristics—how candidates handle pressure, incorporate
+        investors look past pedigree to assess deeper characteristics - how candidates handle pressure, incorporate
         feedback, build relationships, and demonstrate leadership. These qualities predict success far better than
         resume bullets.
       </p>
@@ -675,6 +676,26 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
         As the search fund model continues evolving and expanding globally, the archetype will adapt. But the fundamental
         requirement remains unchanged: successful searchers must be capable of earning the trust of sellers, investors,
         employees, and customers while building and leading an exceptional company. Everything else is secondary.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Do I need prior CEO experience to succeed as a search fund entrepreneur?</h3>
+
+      <p className={bodyClass}>
+        No. The vast majority of successful search fund entrepreneurs have never served as a CEO before. The model is designed as an apprenticeship: investors provide mentorship and board-level guidance while the searcher learns on the job. What matters more than CEO experience is demonstrated leadership potential, analytical capability, interpersonal skills, and the resilience to manage ambiguity during both the search and operational phases.
+      </p>
+
+      <h3 className={h3Class}>Is a consulting background better than banking for search funds?</h3>
+
+      <p className={bodyClass}>
+        Neither is definitively better. Consultants (40-45% of searchers) bring structured problem-solving, business model analysis, and client management skills. Bankers (25-30%) bring financial modeling expertise and deal process familiarity. Stanford data shows no significant performance difference based on pre-MBA background. The most important factor is how you apply your experience to the unique demands of search and post-acquisition operations.
+      </p>
+
+      <h3 className={h3Class}>Can I start a search fund without an MBA?</h3>
+
+      <p className={bodyClass}>
+        Yes, though it is more challenging for traditional funded searches. Approximately 95% of traditional search fund entrepreneurs hold MBAs from top programs because these programs provide access to investor networks. However, the self-funded search model has opened pathways for individuals without MBAs who bring deep industry experience and operational capabilities. If you have a strong track record and relevant networks, you can succeed without an MBA, particularly through self-funded or independent sponsor models.
       </p>
 
       <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
@@ -692,12 +713,12 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://hbr.org/2021/03/the-search-fund-model-of-entrepreneurship"
+              href="https://hbr.org/2017/01/buying-your-way-into-entrepreneurship"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Harvard Business Review - The Search Fund Model of Entrepreneurship
+              Harvard Business Review - Buying Your Way into Entrepreneurship
             </a>
           </li>
           <li>
@@ -712,7 +733,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://searchfunder.com/forum"
+              href="https://www.searchfunder.com"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"
@@ -722,7 +743,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
           </li>
           <li>
             <a
-              href="https://www.pacifictake.com/insights"
+              href="https://www.pacificlake.com/insights"
               className="text-apple-accent hover:underline"
               target="_blank"
               rel="noopener noreferrer"

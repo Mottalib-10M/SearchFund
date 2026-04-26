@@ -12,7 +12,7 @@ export default function IsETARightForYouArticle() {
       <div className={bodyClass}>
         <p>
           Entrepreneurship Through Acquisition is not for everyone. The
-          attrition rate during search is 25&ndash;30%, and many who complete
+          attrition rate during search is 25-30%, and many who complete
           acquisitions struggle as first-time CEOs.{" "}
           <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
             Why do search funds fail?
@@ -20,7 +20,10 @@ export default function IsETARightForYouArticle() {
           Often because the searcher wasn&rsquo;t a good fit for the model.
           This self-assessment framework helps you evaluate whether ETA
           aligns with your skills, personality, financial situation, and
-          career goals.
+          career goals. If you decide ETA is the right fit, you can learn{" "}
+          <Link href="/learn/how-much-money-buy-business" className="text-apple-accent hover:underline">
+            how much money you need to buy a business
+          </Link>.
         </p>
 
         <h2 className={h2Class}>The ETA personality profile</h2>
@@ -34,26 +37,30 @@ export default function IsETARightForYouArticle() {
 
         <h3 className={h3Class}>High correlation with success</h3>
         <ul className={ulClass}>
-          <li><strong>Bias for action:</strong> You prefer doing over analyzing. ETA rewards decisiveness &mdash; you&rsquo;ll review 100+ businesses and need to move quickly on the best ones</li>
+          <li><strong>Bias for action:</strong> You prefer doing over analyzing. ETA rewards decisiveness, you&rsquo;ll review 100+ businesses and need to move quickly on the best ones</li>
           <li><strong>Comfort with ambiguity:</strong> The search phase has no playbook. You wake up every day with no boss, no structure, and no clear path</li>
           <li><strong>Resilience:</strong> You&rsquo;ll hear &ldquo;no&rdquo; hundreds of times from brokers, sellers, and investors. The emotional toll is real</li>
-          <li><strong>Intellectual curiosity:</strong> Successful searchers become mini-experts in niche industries (HVAC, waste management, insurance) they never expected to love</li>
+          <li><strong>Intellectual curiosity:</strong> Successful searchers become mini-experts in niche industries (HVAC, waste management, insurance) they never expected to love. Understanding{" "}
+            <Link href="/learn/what-makes-good-acquisition-target" className="text-apple-accent hover:underline">
+              what makes a good acquisition target
+            </Link>{" "}
+            requires genuine interest in learning new sectors</li>
           <li><strong>Leadership instinct:</strong> You genuinely want to lead people. The business you acquire will have employees who depend on you</li>
         </ul>
 
         <h3 className={h3Class}>Mixed signals</h3>
         <ul className={ulClass}>
-          <li><strong>Perfectionism:</strong> Useful in DD, harmful during search. No deal is perfect &mdash; good searchers know when &ldquo;good enough&rdquo; is good enough</li>
+          <li><strong>Perfectionism:</strong> Useful in DD, harmful during search. No deal is perfect, good searchers know when &ldquo;good enough&rdquo; is good enough</li>
           <li><strong>Risk aversion:</strong> Some caution is healthy, but ETA requires signing personal guarantees and putting your career on hold. If you can&rsquo;t sleep with uncertainty, this isn&rsquo;t for you</li>
           <li><strong>Technical expertise:</strong> Deep domain knowledge can be a double-edged sword. It narrows your search but may cause you to over-index on operational details during evaluation</li>
         </ul>
 
         <h3 className={h3Class}>Red flags for ETA</h3>
         <ul className={ulClass}>
-          <li><strong>Desire for prestige:</strong> Acquired businesses are unsexy &mdash; plumbing companies, insurance agencies, staffing firms. If you need a cool company name at dinner parties, this isn&rsquo;t the path</li>
+          <li><strong>Desire for prestige:</strong> Acquired businesses are unsexy, plumbing companies, insurance agencies, staffing firms. If you need a cool company name at dinner parties, this isn&rsquo;t the path</li>
           <li><strong>Impatience with people:</strong> Your employees will be less polished than investment bankers or management consultants. Can you lead diverse teams?</li>
           <li><strong>Need for constant validation:</strong> Search is lonely. There are no quarterly reviews or promotions. You&rsquo;re alone with your deal funnel</li>
-          <li><strong>Inability to delegate:</strong> You&rsquo;ll run a company with 20&ndash;200 employees. Micromanagers fail spectacularly</li>
+          <li><strong>Inability to delegate:</strong> You&rsquo;ll run a company with 20-200 employees. Micromanagers fail spectacularly</li>
         </ul>
 
         <h2 className={h2Class}>Financial readiness assessment</h2>
@@ -67,8 +74,8 @@ export default function IsETARightForYouArticle() {
           Even in a traditional search fund, your personal finances matter:
         </p>
         <ul className={ulClass}>
-          <li><strong>12&ndash;24 months of living expenses:</strong> Search takes longer than expected. Budget for 18 months minimum</li>
-          <li><strong>Emergency fund:</strong> Keep 3&ndash;6 months beyond your search budget for unexpected costs</li>
+          <li><strong>12-24 months of living expenses:</strong> Search takes longer than expected. Budget for 18 months minimum</li>
+          <li><strong>Emergency fund:</strong> Keep 3-6 months beyond your search budget for unexpected costs</li>
           <li><strong>Debt load:</strong> High monthly obligations (mortgage, student loans) limit flexibility. Consider your all-in monthly burn rate</li>
           <li><strong>Family situation:</strong> Do you have a working spouse/partner? Dependent children? Healthcare through your own plan?</li>
           <li><strong>Opportunity cost:</strong> If you&rsquo;re earning $200K+ in consulting or banking, the financial sacrifice is substantial</li>
@@ -92,9 +99,9 @@ export default function IsETARightForYouArticle() {
 
         <h3 className={h3Class}>Ideal pre-ETA experience</h3>
         <ul className={ulClass}>
-          <li><strong>2&ndash;7 years post-MBA or equivalent:</strong> Enough experience to be credible, young enough to commit 5&ndash;10 years as CEO</li>
+          <li><strong>2-7 years post-MBA or equivalent:</strong> Enough experience to be credible, young enough to commit 5-10 years as CEO</li>
           <li><strong>P&amp;L exposure:</strong> Even partial P&amp;L responsibility helps you understand business economics</li>
-          <li><strong>Cross-functional experience:</strong> Operations, finance, sales, or strategy &mdash; you&rsquo;ll touch all functions as a CEO</li>
+          <li><strong>Cross-functional experience:</strong> Operations, finance, sales, or strategy, you&rsquo;ll touch all functions as a CEO</li>
           <li><strong>Industry knowledge (optional):</strong> Sector expertise helps but isn&rsquo;t required. Most successful searchers acquire in unfamiliar industries</li>
         </ul>
 
@@ -111,12 +118,12 @@ export default function IsETARightForYouArticle() {
 
         <h2 className={h2Class}>The self-assessment scorecard</h2>
         <p>
-          Rate yourself honestly (1&ndash;5) on each dimension:
+          Rate yourself honestly (1-5) on each dimension:
         </p>
         <ol className={olClass}>
           <li><strong>Risk tolerance:</strong> Can you handle financial uncertainty for 2+ years? Can you sign a personal guarantee?</li>
           <li><strong>Emotional resilience:</strong> How do you handle rejection, isolation, and self-doubt?</li>
-          <li><strong>Leadership drive:</strong> Do you genuinely want to manage 20&ndash;200 people, not just strategy?</li>
+          <li><strong>Leadership drive:</strong> Do you genuinely want to manage 20-200 people, not just strategy?</li>
           <li><strong>Financial runway:</strong> Can you sustain 18+ months without income?</li>
           <li><strong>Family/partner support:</strong> Is your family on board with the risk and time commitment?</li>
           <li><strong>Opportunity cost comfort:</strong> Are you at peace walking away from your current career trajectory?</li>
@@ -131,7 +138,7 @@ export default function IsETARightForYouArticle() {
             pre-search preparation
           </Link>.
           <br />
-          <strong>25&ndash;34:</strong> Viable but identify your weak areas and address them before starting.
+          <strong>25-34:</strong> Viable but identify your weak areas and address them before starting.
           <br />
           <strong>Below 25:</strong> ETA may not be the right path. Consider other entrepreneurial models or wait until your situation improves.
         </p>
@@ -146,22 +153,22 @@ export default function IsETARightForYouArticle() {
             search stipend
           </Link>{" "}
           (traditional) or zero income (self-funded). But the expected value
-          of a successful search fund acquisition is $5&ndash;15M in personal
-          equity over 5&ndash;7 years. The math works if you can sustain the
+          of a successful search fund acquisition is $5-15M in personal
+          equity over 5-7 years. The math works if you can sustain the
           short-term sacrifice.
         </p>
 
         <h3 className={h3Class}>Scenario 2: Young and hungry</h3>
         <p>
-          You&rsquo;re 26&ndash;30, minimal savings, but high energy and low
-          obligations. Traditional search fund is ideal &mdash; investors fund
+          You&rsquo;re 26-30, minimal savings, but high energy and low
+          obligations. Traditional search fund is ideal, investors fund
           your search and salary. Your youth is an asset: investors want
           searchers with a long runway to build value.
         </p>
 
         <h3 className={h3Class}>Scenario 3: Experienced operator</h3>
         <p>
-          You&rsquo;re 35&ndash;45 with significant savings, operational
+          You&rsquo;re 35-45 with significant savings, operational
           experience, and a network.{" "}
           <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">
             Self-funded search
@@ -178,7 +185,7 @@ export default function IsETARightForYouArticle() {
             Europe
           </Link>{" "}
           or want to acquire cross-border. ETA is growing fast internationally.
-          Each country has different dynamics &mdash; check our regional guides
+          Each country has different dynamics, check our regional guides
           for{" "}
           <Link href="/learn/eta-france" className="text-apple-accent hover:underline">
             France
@@ -227,13 +234,34 @@ export default function IsETARightForYouArticle() {
             <Link href="/learn/search-fund-vs-independent-sponsor" className="text-apple-accent hover:underline">
               comparison guide
             </Link></li>
-          <li><strong>Search fund advisory:</strong> Work as an advisor to searchers while maintaining your day job</li>
+          <li><strong>Search fund advisory:</strong> Work as an advisor to searchers while maintaining your day job. Our{" "}
+            <Link href="/learn/buying-vs-starting-business" className="text-apple-accent hover:underline">
+              buying vs. starting a business comparison
+            </Link>{" "}
+            may also help clarify your entrepreneurial path</li>
           <li><strong>Wait:</strong> ETA isn&rsquo;t going anywhere. The{" "}
             <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
               baby boomer succession wave
             </Link>{" "}
             will create opportunities for the next 15+ years</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the ideal age to start a search fund?</h3>
+        <p>
+          Most successful search fund CEOs start between ages 28 and 35, typically 2-7 years after completing an MBA or gaining equivalent professional experience. Younger searchers (26-30) benefit from low personal obligations and a long runway, making them attractive to investors. Experienced operators (35-45) often prefer self-funded search, where their operational track record and personal capital make them credible with sellers and lenders. There is no hard age limit, but the 5-10 year CEO commitment matters to investors.
+        </p>
+
+        <h3 className={h3Class}>Do I need an MBA to pursue ETA?</h3>
+        <p>
+          No. While many searchers come from MBA programs (especially Stanford, HBS, and IESE), an MBA is not required. What matters is financial literacy, leadership ability, sales skills, and the resilience to endure a long search. Investors evaluate your professional track record, communication skills, and coachability more than your degree. Self-funded searchers, in particular, rely on operational experience and personal capital rather than academic credentials.
+        </p>
+
+        <h3 className={h3Class}>How long does the search phase typically last?</h3>
+        <p>
+          The search phase typically lasts 12-24 months for a traditional search fund. Self-funded searchers may find a target in 6-18 months, depending on how narrowly they define their criteria. About 25-30% of searchers never close a deal, usually because they search too broadly, set unrealistic price expectations, or underestimate the emotional toll. Defining clear acquisition criteria early and building strong broker relationships significantly shortens the timeline.
+        </p>
       </div>
     </article>
   );

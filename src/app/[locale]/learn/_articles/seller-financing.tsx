@@ -9,8 +9,8 @@ export default function SellerFinancingArticle() {
 
       <div className={bodyClass}>
         <p>
-          Seller financing &mdash; where the seller of a business lends
-          a portion of the purchase price to the buyer &mdash; is one of
+          Seller financing, where the seller of a business lends
+          a portion of the purchase price to the buyer, is one of
           the most common and most useful deal structures in SME
           acquisitions. It reduces the buyer&apos;s upfront capital
           requirement, signals the seller&apos;s confidence in the
@@ -26,7 +26,7 @@ export default function SellerFinancingArticle() {
 
         <h2 className={h2Class}>Why sellers agree to finance</h2>
         <p>
-          At first glance, seller financing seems counterintuitive &mdash;
+          At first glance, seller financing seems counterintuitive , 
           why would a seller accept deferred payment and credit risk when
           they could receive all cash at closing? In practice, there are
           compelling reasons that motivate sellers to offer financing.
@@ -59,7 +59,7 @@ export default function SellerFinancingArticle() {
             note provides a predictable cash flow stream that
             supplements retirement income. A 5% interest rate on a
             &euro;500K seller note generates &euro;25K in annual
-            interest &mdash; not trivial for many retirees.
+            interest, not trivial for many retirees.
           </li>
           <li>
             <strong>Facilitating the sale:</strong> In cases where the
@@ -89,18 +89,18 @@ export default function SellerFinancingArticle() {
 
         <h3 className={h3Class}>Principal amount</h3>
         <p>
-          Seller notes typically represent 10&ndash;30% of the total
+          Seller notes typically represent 10-30% of the total
           purchase price. A note below 10% may not be meaningful enough
           to influence seller behavior or provide meaningful financing
           benefit. A note above 30% creates significant credit risk
           for the seller and may signal to lenders that the buyer is
           over-leveraged. The most common range in search fund deals
-          is 15&ndash;25% of the purchase price.
+          is 15-25% of the purchase price.
         </p>
 
         <h3 className={h3Class}>Term</h3>
         <p>
-          Seller notes typically have terms of 2&ndash;5 years, with
+          Seller notes typically have terms of 2-5 years, with
           3 years being the most common in search fund transactions.
           Shorter terms (2 years) increase the buyer&apos;s near-term
           cash flow burden but give the seller faster repayment. Longer
@@ -113,15 +113,15 @@ export default function SellerFinancingArticle() {
 
         <h3 className={h3Class}>Interest rate</h3>
         <p>
-          Interest rates on seller notes typically range from 4&ndash;6%,
+          Interest rates on seller notes typically range from 4-6%,
           below bank lending rates but above risk-free rates. The rate
           reflects the subordinated position of the seller note (behind
           senior bank debt) and the personal relationship between buyer
           and seller. In the current interest rate environment, rates
-          at the higher end of this range (5&ndash;6%) are more common.
+          at the higher end of this range (5-6%) are more common.
           In the US, the IRS requires a minimum interest rate (the
           Applicable Federal Rate, or AFR) to avoid imputed interest
-          rules &mdash; always check the current AFR before setting
+          rules, always check the current AFR before setting
           the rate.
         </p>
 
@@ -143,14 +143,14 @@ export default function SellerFinancingArticle() {
           </li>
           <li>
             <strong>Partial amortization with balloon:</strong> The
-            note amortizes over a longer schedule (e.g., 7&ndash;10
-            years) but matures after 3&ndash;5 years, with the
+            note amortizes over a longer schedule (e.g., 7-10
+            years) but matures after 3-5 years, with the
             remaining balance due as a balloon payment. This reduces
             the balloon amount while keeping payments manageable.
           </li>
           <li>
             <strong>Stepped payments:</strong> Lower payments in Years
-            1&ndash;2 that increase in subsequent years, reflecting
+            1-2 that increase in subsequent years, reflecting
             the expectation that the buyer will improve cash flow over
             time. This structure is seller-friendly in total economics
             but buyer-friendly in timing.
@@ -161,7 +161,7 @@ export default function SellerFinancingArticle() {
         <p>
           If the acquisition involves bank financing (senior debt), the
           bank will almost always require the seller note to be
-          subordinated &mdash; meaning the bank&apos;s claims on the
+          subordinated, meaning the bank&apos;s claims on the
           business&apos;s assets and cash flows take priority over the
           seller&apos;s claims. This subordination is documented in an
           intercreditor agreement (also called a subordination agreement)
@@ -188,7 +188,7 @@ export default function SellerFinancingArticle() {
             agreements include &ldquo;full standby&rdquo; provisions
             where no payments of any kind (principal or interest) can
             be made on the seller note for a specified period (typically
-            12&ndash;24 months) or until the senior debt is below a
+            12-24 months) or until the senior debt is below a
             certain threshold. Sellers should resist full standby
             provisions and negotiate at minimum for interest payments
             to continue.
@@ -222,7 +222,7 @@ export default function SellerFinancingArticle() {
           <li>
             <strong>Personal guarantees:</strong> Sellers may request a
             personal guarantee from the buyer. Search fund entrepreneurs
-            should approach this carefully &mdash; a personal guarantee
+            should approach this carefully, a personal guarantee
             on a seller note, combined with personal guarantees on
             senior debt, can create excessive personal liability. If a
             personal guarantee is required, try to limit it (capped at
@@ -234,7 +234,7 @@ export default function SellerFinancingArticle() {
             <strong>Equity pledge:</strong> The buyer can pledge their
             equity in the acquired company as security for the seller
             note. This gives the seller the ability to take ownership
-            of the business if the buyer defaults &mdash; a powerful
+            of the business if the buyer defaults, a powerful
             but rarely exercised remedy.
           </li>
         </ul>
@@ -245,12 +245,12 @@ export default function SellerFinancingArticle() {
           a defined period after closing, giving the buyer breathing
           room during the integration phase. These provisions are
           distinct from subordination standby (which is driven by the
-          senior lender) &mdash; contractual standby is agreed between
+          senior lender), contractual standby is agreed between
           the buyer and seller directly.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Typical standby periods:</strong> 6&ndash;12 months
+            <strong>Typical standby periods:</strong> 6-12 months
             of no payments (principal or interest) following closing.
             Interest typically continues to accrue during the standby
             period, capitalizing into the note balance.
@@ -283,9 +283,9 @@ export default function SellerFinancingArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Certainty of payment:</strong> A seller note is a
-            fixed obligation &mdash; the buyer owes the principal and
+            fixed obligation, the buyer owes the principal and
             interest regardless of business performance (unless the
-            business fails entirely). An earn-out is contingent &mdash;
+            business fails entirely). An earn-out is contingent , 
             the seller receives payment only if specified performance
             targets are met. Sellers strongly prefer the certainty of
             a seller note.
@@ -407,13 +407,13 @@ export default function SellerFinancingArticle() {
           <li>
             <strong>Events of default:</strong> Typical default triggers
             include missed payments (after a grace period, usually
-            10&ndash;30 days), breach of financial covenants, bankruptcy
+            10-30 days), breach of financial covenants, bankruptcy
             filing, material adverse change, and cross-default with
             senior debt. Clearly define each trigger to avoid ambiguity.
           </li>
           <li>
             <strong>Cure periods:</strong> Allow the buyer reasonable
-            time (typically 15&ndash;30 days for payment defaults, 30
+            time (typically 15-30 days for payment defaults, 30
             days for covenant defaults) to cure a default before the
             seller can exercise remedies. Cure periods protect the
             buyer from technical defaults triggered by administrative
@@ -449,7 +449,7 @@ export default function SellerFinancingArticle() {
           keeping the seller in lower marginal brackets each year.
           Additionally, state income taxes (which vary by state) are
           deferred alongside federal taxes. The installment method is
-          available by default for seller-financed transactions &mdash;
+          available by default for seller-financed transactions , 
           the seller must affirmatively elect out if they want to
           recognize the full gain upfront.
         </p>
@@ -505,9 +505,9 @@ export default function SellerFinancingArticle() {
 
         <h3 className={h3Class}>Senior debt + seller note</h3>
         <p>
-          The most common combination. Senior bank debt (50&ndash;60% of
+          The most common combination. Senior bank debt (50-60% of
           purchase price) provides the primary financing at competitive
-          rates. The seller note (15&ndash;25%) fills the gap between
+          rates. The seller note (15-25%) fills the gap between
           senior debt and the buyer&apos;s equity contribution. This
           structure reduces the equity required from the buyer and their
           investors while giving the seller a predictable repayment
@@ -531,7 +531,7 @@ export default function SellerFinancingArticle() {
           require the seller to provide a standby seller note
           (subordinated, with no payments during the SBA loan term) as
           part of the financing package. The SBA&apos;s standby
-          requirements are specific and non-negotiable &mdash; ensure
+          requirements are specific and non-negotiable, ensure
           the seller note complies with SBA guidelines before
           structuring the deal.
         </p>
@@ -563,11 +563,44 @@ export default function SellerFinancingArticle() {
           appropriate security arrangements that protect the seller
           without over-burdening the buyer. When structured properly,
           seller financing transforms adversarial price negotiations
-          into collaborative deal design &mdash; and that collaborative
+          into collaborative deal design, and that collaborative
           spirit often carries forward into a smoother post-closing
           transition.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What are typical seller financing terms in a search fund acquisition?</h3>
+        <p>
+          Seller notes typically represent 10-30% of the total purchase price (most commonly 15-25% in search fund deals), with terms of 2-5 years and interest rates of 4-6%. The most common payment structure is interest-only during the term with a balloon principal payment at maturity, which minimizes the buyer&rsquo;s cash flow burden during the critical first years of ownership. In the current interest rate environment, rates at the higher end (5-6%) are more common. The IRS requires a minimum interest rate (the Applicable Federal Rate, or AFR) to avoid imputed interest rules, always verify the current AFR before setting the rate.
+        </p>
+
+        <h3 className={h3Class}>Why would a seller agree to finance part of the purchase price?</h3>
+        <p>
+          Sellers agree to finance for several compelling reasons. First, in the US, seller financing enables installment sale treatment under IRC Section 453, allowing the seller to spread capital gains recognition over the payment period rather than recognizing the entire gain in the year of sale, potentially saving hundreds of thousands of dollars in taxes. Second, sellers who provide financing can often negotiate a higher headline price than their business valuation would support in an all-cash transaction. Third, the interest income from a seller note provides predictable retirement income (5% on a &euro;500K note generates &euro;25K annually). Finally, a seller who is still owed money has a natural incentive to ensure the business succeeds post-closing, aligning interests during the transition.
+        </p>
+
+        <h3 className={h3Class}>How does seller financing interact with SBA 7(a) loans?</h3>
+        <p>
+          In the US, SBA 7(a) lenders typically require the seller to provide a standby seller note (subordinated, with no payments during the SBA loan term) as part of the financing package. The SBA&rsquo;s standby requirements are specific and non-negotiable: the seller note must be fully subordinated to the SBA loan, and typically no payments of principal or interest can be made on the seller note while the SBA loan is outstanding. This can be a difficult negotiation point with sellers who expect to receive payments during the note term. Ensure the seller note complies with SBA guidelines before structuring the deal, as non-compliant notes can jeopardize the entire SBA financing.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB, <em>Search Fund Deal Structure Analysis</em> (2024)</li>
+          <li>SBA, <em>SBA 7(a) Loan Program: Seller Financing Guidelines</em> (2024)</li>
+          <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (3rd ed., 2020)</li>
+        </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/creative-financing" className="text-apple-accent hover:underline">Creative Financing: 10 Ways to Fund an Acquisition</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure Optimization: Balancing Buyer &amp; Seller Interests</Link></li>
+          <li><Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">The Capital Stack Explained: Senior Debt to Equity</Link></li>
+          <li><Link href="/learn/personal-guarantees-acquisition" className="text-apple-accent hover:underline">Personal Guarantees in Business Acquisitions: What to Know</Link></li>
+          <li><Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) Loan Requirements, Rates &amp; Application Process</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">The Closing Process: Timeline, Documents &amp; Wire Transfers</Link></li>
+        </ul>
     </article>
   );
 }

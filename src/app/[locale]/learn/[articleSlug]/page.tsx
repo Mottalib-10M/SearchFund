@@ -7,7 +7,15 @@ import {
   articleComponents,
   categorySlugMap,
   getRelatedArticles,
+  getPhaseForArticle,
+  PHASE_INFO,
 } from "../_articles/article-registry";
+import {
+  frArticles,
+  frArticleComponents,
+  getFRArticleMeta,
+  hasFRVersion,
+} from "../_articles/fr-registry";
 import { safeJsonLd, articleSchema, breadcrumbSchema, faqPageSchema } from "@/lib/json-ld";
 import { buildMetadata } from "@/lib/meta-snippets";
 import ArticleByline from "@/components/seo/ArticleByline";
@@ -28,11 +36,14 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { articleSlug, locale } = await params;
-  const article = articlesMeta[articleSlug];
+  const useFR = locale === "fr" && hasFRVersion(articleSlug);
+  const article = useFR ? getFRArticleMeta(articleSlug) : articlesMeta[articleSlug];
 
   if (!article) return { title: "Article not found" };
 
   return buildMetadata(`learn/${articleSlug}`, locale, {
+    title: article.ogTitle,
+    description: article.ogDescription,
     openGraph: {
       type: "article",
       publishedTime: article.datePublished,
@@ -48,12 +59,23 @@ export default async function ArticlePage({ params }: Props) {
 
   if (!meta) notFound();
 
-  const ArticleComponent = articleComponents[articleSlug];
-  const articleData = allArticles.find((a) => a.slug === articleSlug);
-  const categorySlug = articleData
-    ? categorySlugMap[articleData.category]
+  // Determine whether to serve the French version
+  const useFR = locale === "fr" && hasFRVersion(articleSlug);
+  const displayMeta = useFR ? getFRArticleMeta(articleSlug)! : meta;
+  const ArticleComponent = useFR
+    ? frArticleComponents[articleSlug]
+    : articleComponents[articleSlug];
+
+  const articleData = useFR
+    ? frArticles.find((a) => a.slug === articleSlug)
+    : allArticles.find((a) => a.slug === articleSlug);
+  const enArticleData = allArticles.find((a) => a.slug === articleSlug);
+  const categorySlug = enArticleData
+    ? categorySlugMap[enArticleData.category]
     : null;
   const related = getRelatedArticles(articleSlug, 3);
+
+  const isFR = locale === "fr";
 
   return (
     <div className="max-w-2xl mx-auto px-6 py-12">
@@ -71,17 +93,17 @@ export default async function ArticlePage({ params }: Props) {
             dangerouslySetInnerHTML={{
               __html: safeJsonLd(
                 breadcrumbSchema([
-                  { name: "Learn", url: `${BASE}/${locale}/learn` },
+                  { name: isFR ? "Apprendre" : "Learn", url: `${BASE}/${locale}/learn` },
                   ...(categorySlug
                     ? [
                         {
-                          name: articleData.category,
+                          name: enArticleData!.category,
                           url: `${BASE}/${locale}/learn/category/${categorySlug}`,
                         },
                       ]
                     : []),
                   {
-                    name: articleData.title,
+                    name: displayMeta.title,
                     url: `${BASE}/${locale}/learn/${articleSlug}`,
                   },
                 ])
@@ -99,19 +121,39 @@ export default async function ArticlePage({ params }: Props) {
         </>
       )}
 
+      {/* Phase badge */}
+      {enArticleData && (() => {
+        const phaseId = getPhaseForArticle(enArticleData);
+        const phase = PHASE_INFO.find((p) => p.id === phaseId);
+        const phaseLabel: Record<string, string> = {
+          prepare: "Prepare", fundraise: "Fundraise", search: "Search",
+          acquire: "Acquire", operate: "Operate", exit: "Exit",
+        };
+        return phase ? (
+          <div className="mb-3">
+            <span
+              className="inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-3 py-1"
+              style={{ color: phase.color, backgroundColor: `${phase.color}10` }}
+            >
+              Phase {phase.number}: {phaseLabel[phase.id]}
+            </span>
+          </div>
+        ) : null;
+      })()}
+
       {/* Breadcrumb */}
       <nav className="text-sm text-apple-gray-500 mb-8">
         <Link href="/learn" className="hover:text-apple-accent">
-          Learn
+          {isFR ? "Apprendre" : "Learn"}
         </Link>
-        {articleData && categorySlug && (
+        {enArticleData && categorySlug && (
           <>
             <span className="mx-2">/</span>
             <Link
               href={`/learn/category/${categorySlug}`}
               className="hover:text-apple-accent"
             >
-              {articleData.category}
+              {enArticleData.category}
             </Link>
           </>
         )}
@@ -130,11 +172,13 @@ export default async function ArticlePage({ params }: Props) {
       ) : (
         <article>
           <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
-            {meta.title}
+            {displayMeta.title}
           </h1>
           <div className="mt-8 rounded-xl border border-apple-gray-100 bg-apple-gray-100/50 p-8 text-center">
             <p className="text-apple-gray-500">
-              This article is coming soon. Check back later.
+              {isFR
+                ? "Cet article sera bientôt disponible."
+                : "This article is coming soon. Check back later."}
             </p>
           </div>
         </article>
@@ -156,26 +200,29 @@ export default async function ArticlePage({ params }: Props) {
       {related.length > 0 && (
         <section className="mt-16 pt-8 border-t border-apple-gray-100">
           <h2 className="text-lg font-semibold text-apple-black">
-            Related articles
+            {isFR ? "Articles connexes" : "Related articles"}
           </h2>
           <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {related.map((r) => (
-              <Link
-                key={r.slug}
-                href={`/learn/${r.slug}`}
-                className="rounded-xl border border-apple-gray-100 p-4 hover:bg-apple-gray-100/50 transition"
-              >
-                <span className="text-xs bg-apple-gray-100 rounded-full px-2 py-0.5 text-apple-gray-500">
-                  {r.tag}
-                </span>
-                <h3 className="text-sm font-semibold text-apple-black mt-2 line-clamp-2">
-                  {r.title}
-                </h3>
-                <p className="text-xs text-apple-gray-500 mt-1">
-                  {r.readTime}
-                </p>
-              </Link>
-            ))}
+            {related.map((r) => {
+              const frMeta = isFR ? getFRArticleMeta(r.slug) : null;
+              return (
+                <Link
+                  key={r.slug}
+                  href={`/learn/${r.slug}`}
+                  className="rounded-xl border border-apple-gray-100 p-4 hover:bg-apple-gray-100/50 transition"
+                >
+                  <span className="text-xs bg-apple-gray-100 rounded-full px-2 py-0.5 text-apple-gray-500">
+                    {frMeta?.tag ?? r.tag}
+                  </span>
+                  <h3 className="text-sm font-semibold text-apple-black mt-2 line-clamp-2">
+                    {frMeta?.title ?? r.title}
+                  </h3>
+                  <p className="text-xs text-apple-gray-500 mt-1">
+                    {frMeta?.readTime ?? r.readTime}
+                  </p>
+                </Link>
+              );
+            })}
           </div>
         </section>
       )}
@@ -183,13 +230,27 @@ export default async function ArticlePage({ params }: Props) {
       {/* Bottom CTA */}
       <div className="mt-16 pt-8 border-t border-apple-gray-100">
         <p className="text-apple-gray-700">
-          Ready to start your search?{" "}
-          <Link
-            href="/auth/signup"
-            className="text-apple-accent font-medium hover:underline"
-          >
-            Join SearchFundMarket &rarr;
-          </Link>
+          {isFR ? (
+            <>
+              Prêt à lancer votre recherche ?{" "}
+              <Link
+                href="/auth/signup"
+                className="text-apple-accent font-medium hover:underline"
+              >
+                Rejoignez SearchFundMarket &rarr;
+              </Link>
+            </>
+          ) : (
+            <>
+              Ready to start your search?{" "}
+              <Link
+                href="/auth/signup"
+                className="text-apple-accent font-medium hover:underline"
+              >
+                Join SearchFundMarket &rarr;
+              </Link>
+            </>
+          )}
         </p>
       </div>
     </div>

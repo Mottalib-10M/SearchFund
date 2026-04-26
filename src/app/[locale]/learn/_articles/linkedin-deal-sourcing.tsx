@@ -11,9 +11,9 @@ export default function LinkedInDealSourcingArticle() {
         <p>
           LinkedIn has evolved from a digital resume platform into one of the
           most powerful tools for proprietary deal sourcing in the search fund
-          ecosystem. With over 900 million professionals worldwide — including
+          ecosystem. With over 900 million professionals worldwide - including
           the vast majority of baby-boomer business owners approaching
-          retirement — LinkedIn offers searchers a direct channel to decision
+          retirement - LinkedIn offers searchers a direct channel to decision
           makers that was unthinkable a decade ago. Unlike cold email or direct
           mail, LinkedIn provides social proof, mutual connections, and
           professional context that dramatically increase response rates and
@@ -40,7 +40,7 @@ export default function LinkedInDealSourcingArticle() {
           </li>
           <li>
             <strong>Social proof:</strong> Your LinkedIn profile displays your
-            education, work history, endorsements, and mutual connections —
+            education, work history, endorsements, and mutual connections - 
             all of which build credibility before you send a single message.
             A Stanford GSB graduate with 50 mutual connections and a
             well-written summary has instant trust that would take months to
@@ -48,7 +48,7 @@ export default function LinkedInDealSourcingArticle() {
           </li>
           <li>
             <strong>High response rates:</strong> Well-crafted LinkedIn
-            connection requests achieve 25% to 40% acceptance rates —
+            connection requests achieve 25% to 40% acceptance rates - 
             significantly higher than the 3% to 8% response rates typical
             for cold email. InMail messages (available with Sales Navigator)
             achieve 10% to 25% response rates when properly targeted and
@@ -106,13 +106,13 @@ export default function LinkedInDealSourcingArticle() {
             <strong>Company size:</strong> Use &quot;Company headcount&quot;
             to filter for businesses in your target size range. For typical
             search fund targets ($1M to $5M EBITDA), focus on companies with
-            25 to 250 employees. Adjust based on industry capital intensity —
+            25 to 250 employees. Adjust based on industry capital intensity - 
             a manufacturing business with 50 employees may have higher EBITDA
             than a consulting firm with 200.
           </li>
           <li>
             <strong>Industry:</strong> Select relevant NAICS codes or LinkedIn
-            industry categories. Be broad initially — LinkedIn&apos;s
+            industry categories. Be broad initially - LinkedIn&apos;s
             categorization can be imprecise, and you may miss good targets
             if your filters are too narrow. Review your search fund&apos;s
             <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing criteria</Link> before setting industry filters.
@@ -122,7 +122,7 @@ export default function LinkedInDealSourcingArticle() {
             &quot;C-Level&quot; to surface decision makers. Many business
             owners list their title as &quot;Owner,&quot; &quot;President,&quot;
             &quot;CEO,&quot; or &quot;Founder.&quot; Use multiple searches with
-            different title filters to ensure comprehensive coverage.
+            different title filters to ensure thorough coverage.
           </li>
           <li>
             <strong>Years in current position:</strong> Filter for individuals
@@ -134,7 +134,7 @@ export default function LinkedInDealSourcingArticle() {
           <li>
             <strong>Recent changes:</strong> Sales Navigator&apos;s &quot;Recent
             activity&quot; filters can identify companies experiencing
-            transitions — new executive hires, leadership changes, or recent
+            transitions - new executive hires, leadership changes, or recent
             posts about growth or challenges. These signals may indicate
             openness to strategic conversations.
           </li>
@@ -164,7 +164,7 @@ export default function LinkedInDealSourcingArticle() {
 
         <h2 className={h2Class}>Building your professional profile</h2>
         <p>
-          Your LinkedIn profile is your digital first impression — and for many
+          Your LinkedIn profile is your digital first impression - and for many
           business owners, it will determine whether they accept your connection
           request or ignore it. A well-optimized profile conveys credibility,
           expertise, and genuine interest in building relationships (not just
@@ -202,7 +202,7 @@ export default function LinkedInDealSourcingArticle() {
             authentic summary that explains your background, why you are
             searching, what you are looking for, and how you can add value
             to a business owner considering a transition. Address the
-            seller&apos;s perspective — most owners care about legacy,
+            seller&apos;s perspective - most owners care about legacy,
             employee treatment, and finding the right successor, not just
             price. See our guide on <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">searcher psychology</Link> for
             insights on communicating your mission effectively.
@@ -216,9 +216,9 @@ export default function LinkedInDealSourcingArticle() {
           your accomplishments wherever possible (e.g., &quot;Managed $5M
           P&L,&quot; &quot;Led team of 15,&quot; &quot;Grew revenue 40%&quot;).
           Highlight any operational, financial, or leadership experience that
-          demonstrates your readiness to run a company. Education credentials —
+          demonstrates your readiness to run a company. Education credentials - 
           particularly MBA programs known for search funds (Stanford, Harvard,
-          MIT, Kellogg, Wharton) — build instant credibility with investors
+          MIT, Kellogg, Wharton) - build instant credibility with investors
           and sellers.
         </p>
 
@@ -238,7 +238,7 @@ export default function LinkedInDealSourcingArticle() {
           lessons learned. Sharing articles, writing short posts, and engaging
           with others&apos; content keeps you visible in your network&apos;s
           feed and demonstrates thought leadership. Aim for one to two posts
-          per week — enough to stay visible without overwhelming your audience.
+          per week - enough to stay visible without overwhelming your audience.
           High-quality content attracts inbound interest from business owners,
           brokers, and investors who may not have been on your outreach list.
         </p>
@@ -270,7 +270,7 @@ export default function LinkedInDealSourcingArticle() {
           </li>
           <li>
             <strong>Reason for connecting:</strong> Briefly explain why you
-            are reaching out — interest in their industry, learning about
+            are reaching out - interest in their industry, learning about
             their business model, or exploring potential partnerships.
           </li>
           <li>
@@ -280,7 +280,7 @@ export default function LinkedInDealSourcingArticle() {
         </ol>
         <p>
           Example: &quot;Hi [Name], I came across [Company Name] while
-          researching HVAC distributors in Texas — impressive growth over
+          researching HVAC distributors in Texas - impressive growth over
           the past decade. I&apos;m an MBA exploring opportunities in B2B
           distribution and would value the chance to connect and learn from
           your experience. Best, [Your Name]&quot;
@@ -327,7 +327,7 @@ export default function LinkedInDealSourcingArticle() {
         <p>
           If a connection request is ignored after 2 to 3 weeks, send a
           follow-up message or withdraw and try again in 30 to 60 days. People
-          miss requests or ignore them when busy — persistence (without being
+          miss requests or ignore them when busy - persistence (without being
           annoying) pays off.
         </p>
 
@@ -350,14 +350,14 @@ export default function LinkedInDealSourcingArticle() {
           Subject: Exploring the [Industry] sector<br /><br />
           Hi [First Name],<br /><br />
           I came across [Company Name] while researching businesses in the
-          [Industry] space and was impressed by [specific detail — years in
+          [Industry] space and was impressed by [specific detail - years in
           business, unique service offering, geographic footprint, etc.].<br /><br />
           I&apos;m an MBA from [School] currently exploring opportunities in
           [Industry], and I&apos;d welcome the chance to learn from someone
           with your experience. Would you be open to a brief call to discuss
           industry trends, challenges, and what makes businesses in this
           sector successful?<br /><br />
-          I know your time is valuable — happy to keep it to 15-20 minutes
+          I know your time is valuable - happy to keep it to 15-20 minutes
           and work around your schedule.<br /><br />
           Best,<br />
           [Your Name]
@@ -372,11 +372,11 @@ export default function LinkedInDealSourcingArticle() {
           Subject: Transition planning conversation<br /><br />
           Hi [First Name],<br /><br />
           I&apos;ve been following [Company Name] and the impressive work
-          you&apos;ve done building a [describe business — e.g., &quot;leading
+          you&apos;ve done building a [describe business - e.g., &quot;leading
           commercial landscaping operation in the Midwest&quot;]. After [X]
           years at the helm, I imagine you&apos;ve thought about what the
           next chapter looks like for both you and the business.<br /><br />
-          I&apos;m a [background — e.g., &quot;former consultant with
+          I&apos;m a [background - e.g., &quot;former consultant with
           operational experience in service businesses&quot;] searching to
           acquire and lead a company like yours. I&apos;m backed by a group
           of experienced investors and operators, and I&apos;m committed to
@@ -397,7 +397,7 @@ export default function LinkedInDealSourcingArticle() {
         <p className="bg-apple-gray-100 p-4 rounded-lg italic">
           Subject: Intro via [Mutual Connection Name]<br /><br />
           Hi [First Name],<br /><br />
-          [Mutual Connection Name] suggested I reach out — I mentioned I was
+          [Mutual Connection Name] suggested I reach out - I mentioned I was
           researching businesses in the [Industry] sector, and they immediately
           thought of you and [Company Name].<br /><br />
           I&apos;m a [background] exploring acquisition opportunities in
@@ -406,7 +406,7 @@ export default function LinkedInDealSourcingArticle() {
           [Company Name].<br /><br />
           Would you be open to a brief call? I&apos;d love to hear your story,
           learn about the industry, and explore whether there might be an
-          opportunity to work together — either now or in the future.<br /><br />
+          opportunity to work together - either now or in the future.<br /><br />
           Thanks for considering, and please say hello to [Mutual Connection]
           for me!<br /><br />
           Best,<br />
@@ -427,7 +427,7 @@ export default function LinkedInDealSourcingArticle() {
           built with [Company Name].<br /><br />
           I&apos;m not sure if you&apos;ve ever considered a transition or
           succession plan, but if it&apos;s something you&apos;ve thought
-          about — now or in the future — I&apos;d welcome a conversation.
+          about - now or in the future - I&apos;d welcome a conversation.
           I&apos;m looking for a company I can lead for decades, not a quick
           flip, and I care deeply about preserving what founders like you
           have built.<br /><br />
@@ -440,7 +440,7 @@ export default function LinkedInDealSourcingArticle() {
         <p>
           LinkedIn is a relationship platform, not a transaction platform.
           The most successful searchers use LinkedIn to build authentic,
-          long-term relationships with business owners — many of whom are
+          long-term relationships with business owners - many of whom are
           not ready to sell today but may be in 12 to 24 months.
         </p>
 
@@ -468,10 +468,10 @@ export default function LinkedInDealSourcingArticle() {
         <h3 className={h3Class}>Schedule periodic check-ins</h3>
         <p>
           For high-priority connections, schedule quarterly check-ins. A brief
-          message every 3 to 4 months (&quot;Hope business is going well —
+          message every 3 to 4 months (&quot;Hope business is going well - 
           anything new in the [Industry] world?&quot;) keeps the relationship
           warm without being pushy. Many acquisitions happen because a searcher
-          was the first call an owner made when they decided to explore a sale —
+          was the first call an owner made when they decided to explore a sale - 
           and that only happens if you have stayed in touch.
         </p>
 
@@ -480,14 +480,14 @@ export default function LinkedInDealSourcingArticle() {
           If you have skills or connections that could benefit the owner&apos;s
           business, offer them freely. Introductions to potential customers,
           help with a financial analysis, or feedback on a new marketing
-          initiative — these small gestures build trust and differentiate you
+          initiative - these small gestures build trust and differentiate you
           from buyers who only show up when they want something.
         </p>
 
         <h2 className={h2Class}>Using LinkedIn for market mapping</h2>
         <p>
           Beyond individual outreach, LinkedIn is invaluable for understanding
-          the competitive landscape and ecosystem of your target industries.
+          the competitive environment and ecosystem of your target industries.
           This &quot;market mapping&quot; exercise helps you identify the best
           targets and avoid wasting time on businesses that do not meet your
           criteria.
@@ -511,7 +511,7 @@ export default function LinkedInDealSourcingArticle() {
           (brokers, consultants, accountants). Connecting with these ecosystem
           players can generate referrals and provide valuable market
           intelligence. For example, a CPA who serves 20 HVAC businesses in
-          your target market is a high-value connection — they may refer
+          your target market is a high-value connection - they may refer
           clients exploring succession planning.
         </p>
 
@@ -531,7 +531,7 @@ export default function LinkedInDealSourcingArticle() {
           Effective LinkedIn deal sourcing requires disciplined tracking of
           outreach activity, responses, and relationship progression. Sales
           Navigator provides basic tracking, but integrating with a CRM
-          (Customer Relationship Management) system creates a comprehensive
+          (Customer Relationship Management) system creates a thorough
           view of your deal pipeline.
         </p>
 
@@ -592,7 +592,7 @@ export default function LinkedInDealSourcingArticle() {
         <h3 className={h3Class}>The connect-and-pitch</h3>
         <p>
           Sending a sales pitch within minutes of connecting is the fastest
-          way to alienate potential sellers. Business owners are savvy — they
+          way to alienate potential sellers. Business owners are savvy - they
           know when they are being treated as a transaction rather than a
           person. Wait at least 3 to 7 days after connecting before sending
           any substantive outreach, and even then, lead with curiosity and
@@ -662,7 +662,7 @@ export default function LinkedInDealSourcingArticle() {
           to acquire a business, say so. Pretending to be a job seeker, vendor,
           or partner to get a meeting is unethical and will backfire when the
           owner discovers your true purpose. Searcher credibility is built on
-          integrity — see our guide on <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">searcher psychology</Link> for
+          integrity - see our guide on <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">searcher psychology</Link> for
           more on building trust.
         </p>
 
@@ -677,24 +677,41 @@ export default function LinkedInDealSourcingArticle() {
         <h3 className={h3Class}>Monitor for policy changes</h3>
         <p>
           LinkedIn frequently updates its policies, features, and algorithms.
-          Stay informed about changes that may affect your outreach strategy —
+          Stay informed about changes that may affect your outreach strategy - 
           for example, InMail credit allocation changes or new connection
           request limits. The LinkedIn Sales Navigator blog and help center
           are good resources for staying current.
         </p>
 
         <p className="mt-8">
-          LinkedIn is not a replacement for other deal sourcing channels —
+          LinkedIn is not a replacement for other deal sourcing channels - 
           brokers, direct mail, trade shows, and referral networks all remain
           important. But for searchers who master LinkedIn, it can become the
           single highest-ROI channel in their sourcing toolkit. The platform&apos;s
           combination of targeting precision, social proof, and relationship
           persistence is unmatched. Invest in your profile, refine your
           messaging, track your metrics, and approach every interaction with
-          authenticity and respect. For a comprehensive overview of all sourcing
+          authenticity and respect. For a thorough overview of all sourcing
           channels, see our guide on <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
           The business you are meant to buy may be one well-crafted connection
           request away.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much does LinkedIn Sales Navigator cost and is it worth it for deal sourcing?</h3>
+        <p>
+          LinkedIn Sales Navigator Professional costs approximately $100/month (or $80/month billed annually). For serious search fund deal sourcing, the investment is highly worthwhile. Sales Navigator provides advanced search filters (company size, industry, seniority, years in role), 20-50 InMail credits per month, lead list management, and CRM integrations that are essential for systematic outreach. HubSpot&rsquo;s research on LinkedIn response rates shows that Sales Navigator InMails achieve 10-25% response rates compared to 3-8% for cold email. Given that the total annual cost ($960-$1,200) is trivial compared to the value of a single quality acquisition lead, Sales Navigator represents one of the highest-ROI investments in a searcher&rsquo;s technology stack.
+        </p>
+
+        <h3 className={h3Class}>What response rate should I expect from LinkedIn outreach to business owners?</h3>
+        <p>
+          Well-targeted, personalized LinkedIn connection requests typically achieve 25-40% acceptance rates, with subsequent messages converting 10-20% of connections to phone calls or meetings. According to Stanford GSB&rsquo;s 2024 Search Fund Study, LinkedIn-sourced conversations lead to serious acquisition discussions in approximately 3-5% of cases. If your connection acceptance rate is below 20%, revisit your targeting criteria or personalization approach. The key variables that drive response rates are: specificity of the compliment or observation (generic messages get ignored), relevance of mutual connections or shared backgrounds, and clarity about your intent without being overly aggressive. Business owners with 10+ years in their role are the most responsive to succession-related conversations.
+        </p>
+
+        <h3 className={h3Class}>How many LinkedIn connection requests should I send per week during active searching?</h3>
+        <p>
+          Target 20-50 personalized connection requests per week during active deal sourcing. LinkedIn&rsquo;s official best practices recommend staying under 30-50 requests per day to avoid automated spam flags, but quality matters far more than volume. The LinkedIn Sales Navigator blog notes that profiles sending 200+ requests in a single day risk account restrictions. A sustainable cadence is 5-10 highly personalized requests per day, sent Tuesday through Thursday mornings (8-11am in the recipient&rsquo;s time zone) for optimal response rates. Supplement connection requests with 5-10 InMails per week to your highest-priority targets. Track your metrics weekly and adjust targeting or messaging based on acceptance and response rate trends.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
@@ -717,14 +734,14 @@ export default function LinkedInDealSourcingArticle() {
             </Link>
           </li>
           <li>
-            HubSpot Research, &quot;LinkedIn InMail Response Rate Benchmarks,&quot;{" "}
+            LinkedIn Talent Blog, &quot;How InMail Response Rates Compare Across Industries and Talent Pools,&quot;{" "}
             <a
-              href="https://www.hubspot.com/linkedin-inmail-benchmarks"
+              href="https://www.linkedin.com/business/talent/blog/talent-engagement/how-inmail-response-rates-compare-across-industries-and-functions"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
             >
-              https://www.hubspot.com/linkedin-inmail-benchmarks
+              linkedin.com/business/talent/blog
             </a>
           </li>
           <li>

@@ -22,14 +22,14 @@ export default function HowFindBusinessesForSaleArticle() {
           effectively.
         </p>
 
-        <h2 className={h2Class}>The deal sourcing landscape</h2>
+        <h2 className={h2Class}>The deal sourcing market</h2>
         <p>
           Businesses for sale come through three primary channels:
         </p>
         <ul className={ulClass}>
-          <li><strong>Brokered deals (50&ndash;70% of market):</strong> Listed through business brokers and M&amp;A intermediaries</li>
-          <li><strong>Proprietary/off-market (20&ndash;35%):</strong> Found through direct outreach, referrals, and networking</li>
-          <li><strong>Online marketplaces (10&ndash;20%):</strong> Listed on platforms like BizBuySell, Axial, or Acquire.com</li>
+          <li><strong>Brokered deals (50-70% of market):</strong> Listed through business brokers and M&amp;A intermediaries</li>
+          <li><strong>Proprietary/off-market (20-35%):</strong> Found through direct outreach, referrals, and networking</li>
+          <li><strong>Online marketplaces (10-20%):</strong> Listed on platforms like BizBuySell, Axial, or Acquire.com</li>
         </ul>
 
         <h2 className={h2Class}>Channel 1: Business brokers &amp; M&amp;A intermediaries</h2>
@@ -42,14 +42,14 @@ export default function HowFindBusinessesForSaleArticle() {
         <h3 className={h3Class}>Types of intermediaries</h3>
         <ul className={ulClass}>
           <li><strong>Main Street brokers:</strong> Handle businesses with &lt;$1M revenue. Sunbelt, Transworld, Murphy Business</li>
-          <li><strong>Lower mid-market advisors:</strong> $1M&ndash;$10M EBITDA businesses. Regional M&amp;A firms, boutiques</li>
+          <li><strong>Lower mid-market advisors:</strong> $1M-$10M EBITDA businesses. Regional M&amp;A firms, boutiques</li>
           <li><strong>Investment banks:</strong> $10M+ EBITDA. Generalist and sector-focused (Harris Williams, Lincoln International)</li>
         </ul>
 
         <h3 className={h3Class}>How to work with brokers effectively</h3>
         <ul className={ulClass}>
-          <li><strong>Register with 10&ndash;20 brokers</strong> in your target geography and industry</li>
-          <li><strong>Be specific about your criteria:</strong> Industry, geography, revenue range, EBITDA floor. Brokers receive dozens of inquiries &mdash; a clear profile helps them remember you</li>
+          <li><strong>Register with 10-20 brokers</strong> in your target geography and industry</li>
+          <li><strong>Be specific about your criteria:</strong> Industry, geography, revenue range, EBITDA floor. Brokers receive dozens of inquiries, a clear profile helps them remember you</li>
           <li><strong>Respond quickly:</strong> The best deals go fast. Aim to respond to new opportunities within 24 hours</li>
           <li><strong>Build personal relationships:</strong> Take brokers to lunch, attend local business events, follow up regularly</li>
           <li><strong>Prove you&rsquo;re a serious buyer:</strong> Show proof of funds, financing pre-approval, and professional advisory team</li>
@@ -71,7 +71,7 @@ export default function HowFindBusinessesForSaleArticle() {
           <li><strong>Axial:</strong> Curated platform connecting buyers with lower mid-market M&amp;A advisors. Requires verification</li>
           <li><strong>DealNexus:</strong> Global M&amp;A deal matching platform</li>
           <li><strong>Acquire.com:</strong> Technology/SaaS business marketplace</li>
-          <li><strong>MicroAcquire:</strong> Rebranded to Acquire.com &mdash; focus on startups and micro-SaaS</li>
+          <li><strong>MicroAcquire:</strong> Rebranded to Acquire.com, focus on startups and micro-SaaS</li>
           <li><strong>Empire Flippers:</strong> Online businesses (e-commerce, content sites, SaaS)</li>
           <li><strong>FE International:</strong> Premium SaaS and e-commerce brokerage</li>
         </ul>
@@ -96,8 +96,8 @@ export default function HowFindBusinessesForSaleArticle() {
         <ul className={ulClass}>
           <li>Purchase targeted business owner lists (by industry, geography, revenue, owner age)</li>
           <li>Send personalized letters introducing yourself as a potential buyer</li>
-          <li>Expect 1&ndash;3% response rate on well-crafted campaigns</li>
-          <li>Follow up with phone calls 1&ndash;2 weeks after mailing</li>
+          <li>Expect 1-3% response rate on well-crafted campaigns</li>
+          <li>Follow up with phone calls 1-2 weeks after mailing</li>
           <li>Track metrics: letters sent → responses → meetings → LOIs</li>
         </ul>
 
@@ -105,8 +105,8 @@ export default function HowFindBusinessesForSaleArticle() {
         <ul className={ulClass}>
           <li>Build lists using industry databases, trade association directories, and LinkedIn</li>
           <li>Keep the pitch brief: who you are, what you&rsquo;re looking for, why you&rsquo;re reaching out</li>
-          <li>Aim for 20&ndash;30 calls per day during active sourcing</li>
-          <li>Many owners will say &ldquo;not interested&rdquo; today but may reconsider in 6&ndash;12 months &mdash; maintain a follow-up cadence</li>
+          <li>Aim for 20-30 calls per day during active sourcing</li>
+          <li>Many owners will say &ldquo;not interested&rdquo; today but may reconsider in 6-12 months, maintain a follow-up cadence</li>
         </ul>
 
         <h3 className={h3Class}>LinkedIn outreach</h3>
@@ -129,7 +129,7 @@ export default function HowFindBusinessesForSaleArticle() {
           <li><strong>Industry consultants:</strong> Sector specialists who advise multiple businesses</li>
         </ul>
         <p>
-          Building these relationships takes time (3&ndash;12 months) but
+          Building these relationships takes time (3-12 months) but
           yields the highest quality and most exclusive deal flow.
         </p>
 
@@ -152,22 +152,22 @@ export default function HowFindBusinessesForSaleArticle() {
 
         <h2 className={h2Class}>Building a multi-channel strategy</h2>
         <p>
-          The most successful searchers use 3&ndash;4 channels
+          The most successful searchers use 3-4 channels
           simultaneously:
         </p>
         <ul className={ulClass}>
           <li><strong>Foundation:</strong> Register with brokers + set up marketplace alerts (day 1)</li>
-          <li><strong>Month 1&ndash;3:</strong> Build professional referral network, attend industry events</li>
-          <li><strong>Month 2&ndash;6:</strong> Launch direct outreach campaigns (mail + LinkedIn)</li>
+          <li><strong>Month 1-3:</strong> Build professional referral network, attend industry events</li>
+          <li><strong>Month 2-6:</strong> Launch direct outreach campaigns (mail + LinkedIn)</li>
           <li><strong>Ongoing:</strong> Maintain all channels, track metrics, adjust allocation based on results</li>
         </ul>
 
         <h2 className={h2Class}>How many deals should you see?</h2>
         <ul className={ulClass}>
-          <li><strong>Opportunities reviewed:</strong> 100&ndash;300</li>
-          <li><strong>NDAs signed:</strong> 30&ndash;80</li>
-          <li><strong>Deep analysis:</strong> 10&ndash;20</li>
-          <li><strong>LOIs submitted:</strong> 2&ndash;5</li>
+          <li><strong>Opportunities reviewed:</strong> 100-300</li>
+          <li><strong>NDAs signed:</strong> 30-80</li>
+          <li><strong>Deep analysis:</strong> 10-20</li>
+          <li><strong>LOIs submitted:</strong> 2-5</li>
           <li><strong>Deals closed:</strong> 1</li>
         </ul>
         <p>
@@ -214,6 +214,33 @@ export default function HowFindBusinessesForSaleArticle() {
           </Link>{" "}
           guide.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How many businesses do I need to review before I find one to buy?</h3>
+        <p>
+          According to Stanford GSB's 2024 Search Fund Study, the average successful searcher reviews 100-300 opportunities, signs 30-80 NDAs, conducts deep analysis on 10-20 companies, submits 2-5{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letters of intent</Link>, and closes 1 acquisition. The entire process typically takes 18-24 months for traditional search funds. Self-funded searchers may review fewer total opportunities but take longer to close because they are balancing search activity with other obligations. Most first-time buyers underestimate the volume required and need to develop pattern recognition across dozens of businesses before they can identify the right opportunity.
+        </p>
+
+        <h3 className={h3Class}>Are off-market deals really better than broker-listed businesses?</h3>
+        <p>
+          Off-market (proprietary) deals offer lower competition and often better pricing -- Stanford data suggests proprietary deals close at 0.5-1.0x lower EBITDA multiples on average compared to brokered transactions. However, off-market sourcing requires significantly more effort: expect to contact 500-1,000 business owners through{" "}
+          <Link href="/learn/cold-outreach-business-owners" className="text-apple-accent hover:underline">cold outreach</Link>{" "}
+          to generate 10-20 serious conversations. In practice, the most successful searchers use a hybrid approach -- 3-4 channels simultaneously -- combining broker relationships for volume with proprietary sourcing for quality. Neither channel is inherently superior; the optimal mix depends on your target industry, geography, and personal strengths.
+        </p>
+
+        <h3 className={h3Class}>What are the best online platforms for finding businesses for sale in 2024?</h3>
+        <p>
+          In the US, BizBuySell remains the largest marketplace with 45,000+ active listings, followed by BizQuest and BusinessBroker.net. For curated, middle-market deal flow, Axial connects qualified buyers with M&A advisors on verified opportunities. For technology and SaaS businesses, Acquire.com (formerly MicroAcquire) is the leading platform. In Europe, Transentreprise handles 45,000+ listings in France through the CCI network, Nexxt-Change covers German successions through the IHK system, and BusinessesForSale.com aggregates 70,000+ international listings. For the best results, set up alerts on 3-5 platforms matching your criteria, and respond within 24 hours -- according to broker surveys, the best listings receive 10-20 inquiries within the first 48 hours.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+          <li>BizBuySell, <em>Insight Report: Small Business Transactions</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

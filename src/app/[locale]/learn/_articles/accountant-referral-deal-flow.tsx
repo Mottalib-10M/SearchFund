@@ -14,7 +14,7 @@ export default function AccountantReferralDealFlowArticle() {
       </div>
 
       <p className={bodyClass}>
-        Professional advisors—accountants, lawyers, wealth advisors, and bankers—sit at the intersection of business ownership and life transitions. They know which owners are thinking about retirement, which businesses are thriving, and which families need succession solutions. For searchers, these professionals represent the single most valuable source of proprietary deal flow.
+        Professional advisors - accountants, lawyers, wealth advisors, and bankers - sit at the intersection of business ownership and life transitions. They know which owners are thinking about retirement, which businesses are thriving, and which families need succession solutions. For searchers, these professionals represent the single most valuable source of proprietary deal flow.
       </p>
 
       <p className={bodyClass}>
@@ -135,7 +135,7 @@ export default function AccountantReferralDealFlowArticle() {
         <li><strong>Insurance brokers:</strong> Especially those selling key person insurance and buy-sell agreements</li>
         <li><strong>Estate planning attorneys:</strong> Work with owners on succession and legacy planning</li>
         <li><strong>Business consultants:</strong> See opportunities when owners need operational improvements</li>
-        <li><strong>Industry association executives:</strong> Know the landscape and key players in specific sectors</li>
+        <li><strong>Industry association executives:</strong> Know the market and key players in specific sectors</li>
         <li><strong>Business brokers:</strong> Can refer off-market opportunities or exclusive listings</li>
       </ul>
 
@@ -217,7 +217,7 @@ export default function AccountantReferralDealFlowArticle() {
       </p>
 
       <p className={bodyClass}>
-        <em>"I'm conducting a search fund—a proven model where I've raised capital from experienced investors to find and acquire one exceptional small business. I'll step in as CEO and grow the company over the long term. My investors include [mention any notable names] and we have committed capital ready for the right opportunity."</em>
+        <em>"I'm conducting a search fund - a proven model where I've raised capital from experienced investors to find and acquire one exceptional small business. I'll step in as CEO and grow the company over the long term. My investors include [mention any notable names] and we have committed capital ready for the right opportunity."</em>
       </p>
 
       <p className={bodyClass}>
@@ -273,7 +273,7 @@ export default function AccountantReferralDealFlowArticle() {
 
       <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg my-6 border-l-4 border-apple-accent">
         <p className="font-mono text-sm mb-4">
-          <strong>Subject:</strong> Acquisition search in [Industry] — looking for intros to succession-minded owners
+          <strong>Subject:</strong> Acquisition search in [Industry] - looking for intros to succession-minded owners
         </p>
         <p className="text-sm mb-4">
           Hi [Name],
@@ -315,7 +315,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Start with Warm Introductions</h3>
 
       <p className={bodyClass}>
-        Your first outreach should leverage existing relationships. Ask your investors, board members, former colleagues, and business school classmates for introductions to CPAs and attorneys in their networks. Warm introductions have dramatically higher response rates and lead to better relationships than cold outreach.
+        Your first outreach should use existing relationships. Ask your investors, board members, former colleagues, and business school classmates for introductions to CPAs and attorneys in their networks. Warm introductions have dramatically higher response rates and lead to better relationships than cold outreach.
       </p>
 
       <p className={bodyClass}>
@@ -329,7 +329,7 @@ export default function AccountantReferralDealFlowArticle() {
       </p>
 
       <p className={bodyClass}>
-        Personalize each email by referencing something specific about their practice—a client industry they serve, an article they wrote, or a conference where they spoke. Generic mass emails get deleted; personalized, researched outreach generates responses.
+        Personalize each email by referencing something specific about their practice - a client industry they serve, an article they wrote, or a conference where they spoke. Generic mass emails get deleted; personalized, researched outreach generates responses.
       </p>
 
       <h3 className={h3Class}>Join Professional and Industry Associations</h3>
@@ -347,10 +347,10 @@ export default function AccountantReferralDealFlowArticle() {
         <li>Industry-specific networking groups and peer organizations</li>
       </ul>
 
-      <h3 className={h3Class}>Leverage LinkedIn Strategically</h3>
+      <h3 className={h3Class}>Use LinkedIn Strategically</h3>
 
       <p className={bodyClass}>
-        Build a robust LinkedIn presence that positions you as a credible buyer. Share content about search funds, small business acquisition, and your target industries. Engage with posts from CPAs and attorneys in your network.
+        Build a strong LinkedIn presence that positions you as a credible buyer. Share content about search funds, small business acquisition, and your target industries. Engage with posts from CPAs and attorneys in your network.
       </p>
 
       <p className={bodyClass}>
@@ -400,7 +400,7 @@ export default function AccountantReferralDealFlowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These updates keep you top of mind without being pushy or salesy. They demonstrate that you're active, serious, and making progress—all of which increase the likelihood of referrals.
+        These updates keep you top of mind without being pushy or salesy. They demonstrate that you're active, serious, and making progress - all of which increase the likelihood of referrals.
       </p>
 
       <h3 className={h3Class}>Provide Value Before Asking for Referrals</h3>
@@ -563,7 +563,7 @@ export default function AccountantReferralDealFlowArticle() {
         Each industry expansion requires new professional relationships with sector-specific expertise.
       </p>
 
-      <h3 className={h3Class}>Leveraging Success Stories</h3>
+      <h3 className={h3Class}>Using Success Stories</h3>
 
       <p className={bodyClass}>
         Once you close a transaction, your credibility with professional advisors increases dramatically. Use this success to:
@@ -583,7 +583,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Building a Referral Team</h3>
 
       <p className={bodyClass}>
-        As your network matures, identify your most valuable referral sources—professionals who truly understand your criteria, make quality introductions, and actively think of you. Invest disproportionately in these relationships:
+        As your network matures, identify your most valuable referral sources - professionals who truly understand your criteria, make quality introductions, and actively think of you. Invest disproportionately in these relationships:
       </p>
 
       <ul className={ulClass}>
@@ -641,7 +641,7 @@ export default function AccountantReferralDealFlowArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Professionals are much more likely to make future referrals if they see that you follow through, communicate professionally, and treat their clients well—even when deals don't close.
+        Professionals are much more likely to make future referrals if they see that you follow through, communicate professionally, and treat their clients well - even when deals don't close.
       </p>
 
       <h2 className={h2Class}>Common Mistakes</h2>
@@ -689,7 +689,7 @@ export default function AccountantReferralDealFlowArticle() {
       <h3 className={h3Class}>Ignoring the Long Game</h3>
 
       <p className={bodyClass}>
-        Building a professional referral network takes time—often 6-12 months before generating significant deal flow. Searchers who give up too early or don't invest sufficient effort miss the compounding benefits of these relationships.
+        Building a professional referral network takes time - often 6-12 months before generating significant deal flow. Searchers who give up too early or don't invest sufficient effort miss the compounding benefits of these relationships.
       </p>
 
       <h3 className={h3Class}>Neglecting to Provide Value</h3>
@@ -717,7 +717,7 @@ export default function AccountantReferralDealFlowArticle() {
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
-            <span>Provide value before asking for referrals—build genuine, reciprocal relationships, not transactional arrangements</span>
+            <span>Provide value before asking for referrals - build genuine, reciprocal relationships, not transactional arrangements</span>
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
@@ -725,10 +725,27 @@ export default function AccountantReferralDealFlowArticle() {
           </li>
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
-            <span>Plan for 6-12 months before your referral network generates significant deal flow—this is a long-term investment that compounds over time</span>
+            <span>Plan for 6-12 months before your referral network generates significant deal flow - this is a long-term investment that compounds over time</span>
           </li>
         </ul>
       </div>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How long does it take to build a referral network that generates consistent deal flow?</h3>
+      <p className={bodyClass}>
+        Most searchers report that it takes 6-12 months of consistent relationship-building before a professional referral network generates meaningful deal flow. According to Stanford GSB&rsquo;s search fund research, searchers who invest in 50-100 professional advisor conversations in the first six months typically build an active network of 30-50 contacts who produce 3-5 serious referrals per year. The compounding effect is significant, second-year referral volume is often 2-3x higher than the first year because existing contacts deepen trust and refer additional professionals into your network.
+      </p>
+
+      <h3 className={h3Class}>Should I offer referral fees to accountants and attorneys who send me deals?</h3>
+      <p className={bodyClass}>
+        Referral fee arrangements require careful navigation of professional ethics rules. Most state bar associations restrict or prohibit fee-sharing between attorneys and non-lawyers, and AICPA ethics rules require full disclosure of referral arrangements for CPAs. In practice, the most productive referral relationships are driven by non-financial incentives, solving clients&rsquo; succession problems, reciprocal referrals, and the promise of post-acquisition professional services work. If you do offer compensation, consult your own legal counsel, confirm compliance with all applicable regulations, and document the arrangement in writing before any introductions are made.
+      </p>
+
+      <h3 className={h3Class}>What is the best way to approach a CPA or attorney I have never met before?</h3>
+      <p className={bodyClass}>
+        Personalized outreach that references something specific about the professional&rsquo;s practice consistently outperforms generic mass emails. Start by researching their firm website, LinkedIn profile, and any published articles or speaking engagements. Reference a specific client industry they serve or a topic they&rsquo;ve discussed publicly. Keep your initial message concise, explain the search fund model in 2-3 sentences, state your specific acquisition criteria, and ask for a brief call. Cold outreach typically generates a 5-10% response rate, while warm introductions from mutual contacts achieve 20-30% response rates according to IBBA deal sourcing surveys.
+      </p>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className="space-y-2 mt-6">
@@ -744,7 +761,7 @@ export default function AccountantReferralDealFlowArticle() {
         </li>
         <li>
           <a
-            href="https://www.iese.edu/research/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
@@ -788,6 +805,15 @@ export default function AccountantReferralDealFlowArticle() {
           </Link>
         </li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM</Link></li>
+        </ul>
     </article>
   );
 }

@@ -10,7 +10,7 @@ export default function TalentAcquisitionPostCloseArticle() {
       <div className={bodyClass}>
         <p>
           One of the most consequential decisions a new search fund CEO makes in the
-          first year of ownership is who to hire &mdash; and when. Most acquired SMEs
+          first year of ownership is who to hire, and when. Most acquired SMEs
           operate with lean teams and flat organizational structures. The previous
           owner often filled multiple roles: head of sales, chief financial officer,
           operations manager, and HR department all rolled into one. When that person
@@ -38,8 +38,8 @@ export default function TalentAcquisitionPostCloseArticle() {
           Research on search fund outcomes consistently shows that CEO-operator
           performance correlates strongly with the quality and speed of the
           management team they build. Operators who delay critical hires often
-          find themselves trapped in day-to-day firefighting &mdash; handling
-          bookkeeping, managing field crews, chasing receivables &mdash; instead
+          find themselves trapped in day-to-day firefighting, handling
+          bookkeeping, managing field crews, chasing receivables, instead
           of focusing on strategy and growth. The{" "}
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>{" "}
           should include a candid assessment of which roles need to be filled and
@@ -50,13 +50,13 @@ export default function TalentAcquisitionPostCloseArticle() {
         <p>
           Not every hire carries equal weight. In most search fund acquisitions,
           three roles emerge as the highest-priority additions in the first
-          6&ndash;18 months.
+          6-18 months.
         </p>
 
         <h3 className={h3Class}>Controller or CFO</h3>
         <p>
           The single most common first hire for search fund CEOs is a finance
-          professional &mdash; typically a controller for businesses under $10M
+          professional, typically a controller for businesses under $10M
           in revenue, or a CFO for larger operations. Most acquired SMEs have
           rudimentary financial infrastructure: a part-time bookkeeper, a tax CPA
           who visits once a year, and QuickBooks or a spreadsheet-based system that
@@ -73,8 +73,8 @@ export default function TalentAcquisitionPostCloseArticle() {
 
         <h3 className={h3Class}>Sales manager or business development lead</h3>
         <p>
-          In many acquired SMEs, the previous owner was the primary &mdash; and
-          sometimes only &mdash; salesperson. Customer relationships were personal
+          In many acquired SMEs, the previous owner was the primary, and
+          sometimes only, salesperson. Customer relationships were personal
           and informal. There was no CRM, no pipeline discipline, and no structured
           sales process. Hiring a sales manager is essential for building a
           repeatable, scalable revenue engine as outlined in your{" "}
@@ -85,18 +85,18 @@ export default function TalentAcquisitionPostCloseArticle() {
           market. In small businesses, the ideal sales hire is a player-coach:
           someone who can both close deals personally and build a process that
           others can follow. Avoid hiring pure managers who expect a team to manage
-          from day one &mdash; you need someone willing to carry a quota while
+          from day one, you need someone willing to carry a quota while
           building the foundation.
         </p>
 
         <h3 className={h3Class}>Operations manager</h3>
         <p>
-          If the business involves physical operations &mdash; manufacturing,
-          field services, logistics, or fulfillment &mdash; an operations manager
+          If the business involves physical operations, manufacturing,
+          field services, logistics, or fulfillment, an operations manager
           is often essential. This role frees the CEO from the daily grind of
           scheduling, quality control, vendor management, and process optimization.
           A strong operations manager brings structure to what was previously
-          managed by instinct and habit, and they create the operational leverage
+          managed by instinct and habit, and they create the operational use
           that allows the business to scale without proportional increases in
           complexity and cost.
         </p>
@@ -122,7 +122,7 @@ export default function TalentAcquisitionPostCloseArticle() {
             new management roles are a sign that the company is growing and that
             you are investing in the team&rsquo;s development. Position new managers
             as resources who will support employees, remove obstacles, and help them
-            succeed &mdash; not as a layer of oversight.
+            succeed, not as a layer of oversight.
           </li>
           <li>
             <strong>Involve the team in the transition.</strong> Before introducing
@@ -150,7 +150,7 @@ export default function TalentAcquisitionPostCloseArticle() {
         <h2 className={h2Class}>Recruiting in small markets</h2>
         <p>
           Search fund acquisitions frequently target businesses in secondary or
-          tertiary markets &mdash; small cities and towns where the cost of living
+          tertiary markets, small cities and towns where the cost of living
           is lower and competition for deals is less intense. The trade-off is that
           these markets have smaller talent pools. Recruiting a qualified controller,
           sales manager, or operations leader in a town of 50,000 is fundamentally
@@ -164,13 +164,13 @@ export default function TalentAcquisitionPostCloseArticle() {
             relationships matter more than job boards. Ask your banker, lawyer,
             accountant, and board members for referrals. Attend local business
             events and Chamber of Commerce meetings. The best candidates in small
-            markets are often employed and not actively looking &mdash; they need
+            markets are often employed and not actively looking, they need
             to be found through personal connections.
           </li>
           <li>
             <strong>Offer relocation packages.</strong> For senior roles that
             cannot be filled locally, be prepared to offer relocation assistance.
-            A modest relocation package ($10K&ndash;$25K) can dramatically expand
+            A modest relocation package ($10K-$25K) can dramatically expand
             your candidate pool by attracting talent from larger markets who are
             seeking lower cost of living, better quality of life, or a meaningful
             leadership role they could not get at a larger company.
@@ -221,7 +221,7 @@ export default function TalentAcquisitionPostCloseArticle() {
           </li>
           <li>
             <strong>Benchmark against similar-sized companies.</strong> A $5M revenue
-            business cannot &mdash; and should not &mdash; match the compensation
+            business cannot, and should not, match the compensation
             of a $50M business. Candidates need to understand the size and stage
             of your organization. Be transparent about this during the recruiting
             process.
@@ -236,12 +236,12 @@ export default function TalentAcquisitionPostCloseArticle() {
 
         <h3 className={h3Class}>Equity and incentive compensation</h3>
         <p>
-          For senior hires &mdash; particularly a CFO or general manager &mdash;
+          For senior hires, particularly a CFO or general manager , 
           offering equity or equity-like incentives can be a game-changer. Phantom
           equity, profit-sharing plans, and performance bonuses tied to EBITDA
           growth or equity value creation align the interests of your management
           team with those of your investors. Structuring these programs well is
-          essential &mdash; see our guide on{" "}
+          essential, see our guide on{" "}
           <Link href="/learn/employee-equity-incentives" className="text-apple-accent hover:underline">employee equity and incentive plans</Link>{" "}
           for a detailed breakdown. Equity incentives are especially
           compelling for candidates who are willing to accept a below-market base
@@ -251,7 +251,7 @@ export default function TalentAcquisitionPostCloseArticle() {
 
         <h2 className={h2Class}>When to promote internally vs. hire externally</h2>
         <p>
-          One of the most nuanced decisions a new CEO faces is whether to fill key
+          One of the most detailed decisions a new CEO faces is whether to fill key
           roles by promoting existing employees or bringing in outside talent. Both
           approaches have advantages and risks, and the right answer depends on the
           specific role, the capabilities of your current team, and the message you
@@ -283,8 +283,8 @@ export default function TalentAcquisitionPostCloseArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Capability gaps.</strong> If the role requires skills that do
-            not exist in your current organization &mdash; formal financial
-            management, enterprise sales experience, or technology expertise &mdash;
+            not exist in your current organization, formal financial
+            management, enterprise sales experience, or technology expertise , 
             an external hire is the only option.
           </li>
           <li>
@@ -295,8 +295,8 @@ export default function TalentAcquisitionPostCloseArticle() {
           </li>
           <li>
             <strong>Credibility with stakeholders.</strong> In some cases, hiring
-            an experienced external professional &mdash; particularly in finance
-            or sales &mdash; sends a signal to investors, lenders, and customers
+            an experienced external professional, particularly in finance
+            or sales, sends a signal to investors, lenders, and customers
             that the company is professionalizing and investing in growth.
           </li>
         </ul>
@@ -339,7 +339,7 @@ export default function TalentAcquisitionPostCloseArticle() {
           <li>
             <strong>Pre-arrival preparation.</strong> Before a new hire&rsquo;s first
             day, introduce them to the team via email, prepare their workspace and
-            tools, and create a written 30&ndash;60&ndash;90 day plan with clear
+            tools, and create a written 30-60-90 day plan with clear
             objectives and milestones.
           </li>
           <li>
@@ -365,14 +365,14 @@ export default function TalentAcquisitionPostCloseArticle() {
             <strong>Regular check-ins.</strong> Meet weekly with new key hires for
             at least the first 90 days. Discuss what they are learning, where they
             are struggling, and how you can support them. These conversations also
-            give you valuable outside perspective on your organization &mdash; new
+            give you valuable outside perspective on your organization, new
             hires see things that insiders have long stopped noticing.
           </li>
         </ul>
 
         <h3 className={h3Class}>Managing existing employee reactions</h3>
         <p>
-          Bringing in new people &mdash; especially at the management level &mdash;
+          Bringing in new people, especially at the management level , 
           can trigger anxiety and resentment among long-tenured employees. They may
           wonder why they were not promoted, feel threatened by someone with more
           formal credentials, or worry that the new hire signals a shift in company
@@ -387,23 +387,23 @@ export default function TalentAcquisitionPostCloseArticle() {
           <li>
             Acknowledge the contributions of existing employees explicitly. A
             statement like &ldquo;Maria has done an incredible job managing our
-            finances alongside everything else on her plate &mdash; bringing in a
+            finances alongside everything else on her plate, bringing in a
             dedicated controller allows her to focus on the customer relationships
             where she excels&rdquo; validates the incumbent while justifying the
             new hire.
           </li>
           <li>
             Watch for integration issues in the first 60 days and address conflicts
-            quickly. Do not let tensions fester &mdash; they will only get worse.
+            quickly. Do not let tensions fester, they will only get worse.
           </li>
         </ul>
 
         <h2 className={h2Class}>Fractional executives: a flexible alternative</h2>
         <p>
           Not every role requires a full-time hire from day one. Fractional
-          executives &mdash; experienced professionals who work part-time across
-          multiple companies &mdash; have become an increasingly popular option
-          for search fund acquisitions, particularly in the first 12&ndash;18
+          executives, experienced professionals who work part-time across
+          multiple companies, have become an increasingly popular option
+          for search fund acquisitions, particularly in the first 12-18
           months when the business is still stabilizing and the CEO is still
           learning what the organization truly needs.
         </p>
@@ -412,17 +412,17 @@ export default function TalentAcquisitionPostCloseArticle() {
         <ul className={ulClass}>
           <li>
             <strong>The business is too small for a full-time role.</strong> A $3M
-            revenue business may not need &mdash; or be able to afford &mdash; a
-            full-time CFO at $150K&ndash;$200K. A fractional CFO working one to
-            two days per week at $3K&ndash;$6K per month provides 80% of the value
+            revenue business may not need, or be able to afford, a
+            full-time CFO at $150K-$200K. A fractional CFO working one to
+            two days per week at $3K-$6K per month provides 80% of the value
             at 30% of the cost.
           </li>
           <li>
             <strong>You need expertise immediately.</strong> Fractional executives
             can typically start within one to two weeks, compared to the two to
             four months required to recruit, hire, and onboard a full-time
-            executive. When you have urgent needs &mdash; a messy financial close,
-            a sales pipeline that is stalling, or an operational crisis &mdash; speed
+            executive. When you have urgent needs, a messy financial close,
+            a sales pipeline that is stalling, or an operational crisis, speed
             matters.
           </li>
           <li>
@@ -465,7 +465,7 @@ export default function TalentAcquisitionPostCloseArticle() {
         <h2 className={h2Class}>Building company culture as the new CEO</h2>
         <p>
           Culture is not something you create from scratch after an acquisition
-          &mdash; it is something you inherit, steward, and thoughtfully evolve.
+          it is something you inherit, steward, and thoughtfully evolve.
           The company&rsquo;s existing culture is an asset you paid for, and
           disrupting it carelessly can trigger departures, morale problems, and
           productivity declines that are far more costly than any operational
@@ -483,14 +483,14 @@ export default function TalentAcquisitionPostCloseArticle() {
             flexibility, camaraderie, autonomy, or something else?
           </li>
           <li>
-            What are the unwritten rules? Every organization has them &mdash;
+            What are the unwritten rules? Every organization has them , 
             norms about communication style, work hours, decision-making, and
             interpersonal interactions that are never documented but deeply felt.
           </li>
           <li>
             What are the &ldquo;sacred cows&rdquo;? Traditions, perks, and
             practices that employees care about disproportionately. The Friday
-            lunch, the summer outing, the flexible Friday schedule &mdash; these
+            lunch, the summer outing, the flexible Friday schedule, these
             may seem trivial to you but are deeply meaningful to the team.
           </li>
           <li>
@@ -535,7 +535,7 @@ export default function TalentAcquisitionPostCloseArticle() {
             impactful cultural actions a new CEO can take is dealing with toxic
             behavior that the previous owner tolerated. If a high-performing
             employee is also a bully, a gossip, or a saboteur, addressing that
-            behavior &mdash; up to and including termination &mdash; sends a
+            behavior, up to and including termination, sends a
             powerful signal about the kind of organization you are building. The
             rest of the team is watching to see whether you have the courage to
             act.
@@ -576,7 +576,7 @@ export default function TalentAcquisitionPostCloseArticle() {
             hire is disproportionately damaging. Call at least three references for
             every senior hire, and ask specific, probing questions about the
             candidate&rsquo;s strengths, weaknesses, and working style. Go beyond
-            the references the candidate provides &mdash; use your network to do
+            the references the candidate provides, use your network to do
             back-channel checks.
           </li>
           <li>
@@ -590,8 +590,8 @@ export default function TalentAcquisitionPostCloseArticle() {
 
         <h2 className={h2Class}>Common hiring mistakes to avoid</h2>
         <p>
-          Search fund CEOs &mdash; many of whom are hiring managers for the first
-          time &mdash; are particularly vulnerable to a set of recurring mistakes.
+          Search fund CEOs, many of whom are hiring managers for the first
+          time, are particularly vulnerable to a set of recurring mistakes.
         </p>
         <ul className={ulClass}>
           <li>
@@ -603,7 +603,7 @@ export default function TalentAcquisitionPostCloseArticle() {
           <li>
             <strong>Hiring out of desperation.</strong> When you are drowning in
             operational tasks, the temptation to hire the first acceptable candidate
-            is overwhelming. Resist it. A bad hire is worse than no hire &mdash; it
+            is overwhelming. Resist it. A bad hire is worse than no hire, it
             creates management burden, damages team morale, and costs months of
             lost productivity when you inevitably need to make a change.
           </li>
@@ -636,27 +636,27 @@ export default function TalentAcquisitionPostCloseArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Months 0&ndash;3: Assess and stabilize.</strong> Do not hire
+            <strong>Months 0-3: Assess and stabilize.</strong> Do not hire
             impulsively. Use the transition period to assess your existing team,
             identify gaps, and determine which roles are truly urgent versus those
             that can wait. Engage fractional executives for immediate needs.
           </li>
           <li>
-            <strong>Months 3&ndash;6: First critical hire.</strong> Bring on
-            your highest-priority full-time hire &mdash; typically a controller or
+            <strong>Months 3-6: First critical hire.</strong> Bring on
+            your highest-priority full-time hire, typically a controller or
             CFO. This person will professionalize your financial infrastructure
             and give you the data you need to make better decisions about
             subsequent hires and investments.
           </li>
           <li>
-            <strong>Months 6&ndash;12: Build the management team.</strong> Add
+            <strong>Months 6-12: Build the management team.</strong> Add
             your sales leader and operations manager. Promote high-potential
             existing employees into supervisory roles where appropriate. Begin
             formalizing HR policies, compensation structures, and performance
             management processes.
           </li>
           <li>
-            <strong>Months 12&ndash;24: Scale and specialize.</strong> As the
+            <strong>Months 12-24: Scale and specialize.</strong> As the
             business grows and your{" "}
             <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth initiatives</Link>{" "}
             gain traction, add specialized roles: marketing coordinator, customer
@@ -670,7 +670,7 @@ export default function TalentAcquisitionPostCloseArticle() {
         <h2 className={h2Class}>Final thoughts</h2>
         <p>
           Talent acquisition after a search fund close is one of the most
-          impactful &mdash; and most underestimated &mdash; aspects of
+          impactful, and most underestimated, aspects of
           post-acquisition value creation. The businesses that succeed are those
           where the CEO builds a capable, motivated team quickly enough to avoid
           getting trapped in operational quicksand, but thoughtfully enough to
@@ -681,6 +681,30 @@ export default function TalentAcquisitionPostCloseArticle() {
           and retain talented people will ultimately determine whether your search
           fund acquisition becomes a success story or a cautionary tale.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the most important hire after a search fund acquisition?</h3>
+        <p>
+          The single most common and impactful first hire for search fund CEOs is a finance professional, typically a controller for businesses under $10M in revenue, or a CFO for larger operations. Most acquired SMEs have rudimentary financial infrastructure: a part-time bookkeeper, a tax CPA who visits once a year, and spreadsheet-based systems with limited visibility. A capable controller or CFO establishes a proper monthly close process, builds cash flow forecasts, creates management dashboards, and ensures debt covenant compliance. According to the Stanford GSB Search Fund Study, operators who hire a finance professional within the first 6 months report significantly better decision-making quality and faster identification of growth opportunities. This hire typically pays for itself within 6-12 months through tighter cash management and better pricing decisions.
+        </p>
+
+        <h3 className={h3Class}>When should you use fractional executives instead of full-time hires?</h3>
+        <p>
+          Fractional executives are ideal in three scenarios: when the business is too small to justify a full-time role (a $3M revenue company may not need a $150K-$200K full-time CFO), when you need expertise immediately (fractional executives can start within 1-2 weeks versus 2-4 months for a full-time search), or when you&rsquo;re not yet sure what the role requires. Common fractional roles in search fund portfolios include fractional CFO ($3K-$6K/month for 1-2 days per week), fractional VP of Sales, and fractional CHRO. The fractional model provides approximately 80% of the value at 30% of the cost, according to industry benchmarks. Many search fund operators use fractional executives as a bridge, the fractional hire defines the role, builds initial systems, and creates a job description for the eventual full-time replacement.
+        </p>
+
+        <h3 className={h3Class}>How do you recruit senior talent in small or rural markets?</h3>
+        <p>
+          Recruiting in secondary and tertiary markets requires fundamentally different strategies than metro-area hiring. Local networks are the most effective channel, ask your banker, lawyer, accountant, and board members for referrals, and attend Chamber of Commerce events. For roles that cannot be filled locally, offer relocation packages ($10K-$25K) to attract talent from larger markets seeking lower cost of living and more meaningful leadership roles. Remote and hybrid work flexibility dramatically expands your candidate pool for specialized roles like CFO or CTO. Bureau of Labor Statistics data shows that compensation benchmarking must be adjusted for market size, a controller in rural Ohio has vastly different salary expectations than one in Boston. Additionally, local community colleges and trade schools are underutilized pipelines for mid-level roles, and establishing internship programs builds a sustainable talent funnel.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB Center for Entrepreneurial Studies, <em>Search Fund Study</em> (2024)</li>
+          <li>Bureau of Labor Statistics, <em>Occupational Employment and Wage Statistics</em> (2024)</li>
+          <li>Harvard Business Review, <em>Building Management Teams in Acquired Businesses</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

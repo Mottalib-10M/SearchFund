@@ -12,8 +12,8 @@ export default function AcquiringHomeHealthcareArticle() {
       <div className={bodyClass}>
         <p>
           Home healthcare is one of the fastest-growing corners of the
-          US healthcare system &mdash; a $150&nbsp;billion-plus market
-          expanding at 7&ndash;9% annually, fueled by an aging population
+          US healthcare system, a $150&nbsp;billion-plus market
+          expanding at 7-9% annually, fueled by an aging population
           that overwhelmingly prefers to receive care at home rather than
           in institutional settings. For search fund entrepreneurs, the
           sector combines powerful demographic tailwinds, recurring
@@ -21,9 +21,9 @@ export default function AcquiringHomeHealthcareArticle() {
           compelling acquisition thesis. Yet home healthcare also carries
           meaningful regulatory complexity, workforce challenges, and
           reimbursement risk that demand specialized diligence. This
-          playbook walks through the market landscape, deal evaluation,
+          playbook walks through the market environment, deal evaluation,
           valuation benchmarks, and post-acquisition growth levers you
-          need to acquire &mdash; and operate &mdash; a home healthcare
+          need to acquire, and operate, a home healthcare
           business successfully. If you are still evaluating whether
           entrepreneurship through acquisition is the right path, start
           with our overview of{" "}
@@ -44,16 +44,16 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Aging demographics:</strong> The 65-and-over population
             will grow from roughly 58&nbsp;million today to 82&nbsp;million
-            by 2050. This cohort consumes 3&ndash;4x more healthcare
+            by 2050. This cohort consumes 3-4x more healthcare
             services per capita than younger age groups, and the
-            preference for aging in place is nearly universal &mdash; AARP
+            preference for aging in place is nearly universal, AARP
             surveys consistently show that 90% of seniors want to remain
             in their homes as long as possible.
           </li>
           <li>
             <strong>Cost advantage over institutional care:</strong> A day
-            of home health aide service costs $180&ndash;$220, compared
-            with $280&ndash;$320 for assisted living and $800+ for a
+            of home health aide service costs $180-$220, compared
+            with $280-$320 for assisted living and $800+ for a
             skilled nursing facility. Medicare, Medicaid, and commercial
             insurers are all actively steering patients toward lower-cost
             home-based settings, creating a reimbursement tailwind for
@@ -94,14 +94,14 @@ export default function AcquiringHomeHealthcareArticle() {
           Groupings Model (PDGM), which assigns a 30-day payment based on
           clinical characteristics, functional status, and referral source.
           Average Medicare reimbursement per episode is approximately
-          $2,000&ndash;$3,500. Skilled home health is the highest-revenue,
+          $2,000-$3,500. Skilled home health is the highest-revenue,
           highest-margin, and most heavily regulated segment of the market.
         </p>
 
         <h3 className={h3Class}>Non-medical / companion care</h3>
         <p>
           Non-medical home care agencies provide assistance with activities
-          of daily living (ADLs) &mdash; bathing, dressing, meal preparation,
+          of daily living (ADLs), bathing, dressing, meal preparation,
           medication reminders, light housekeeping, and companionship. These
           services are typically paid out of pocket by the patient or family,
           through long-term care insurance, or via Medicaid waiver programs.
@@ -119,8 +119,8 @@ export default function AcquiringHomeHealthcareArticle() {
           management, and bereavement support under a per-diem rate that
           varies by level of care (routine home care, continuous home care,
           inpatient respite, and general inpatient). Hospice agencies tend
-          to have the highest margins in home healthcare &mdash; EBITDA
-          margins of 12&ndash;20% are common &mdash; but also face
+          to have the highest margins in home healthcare, EBITDA
+          margins of 12-20% are common, but also face
           heightened regulatory scrutiny and complex billing rules.
         </p>
 
@@ -147,8 +147,8 @@ export default function AcquiringHomeHealthcareArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Recurring, government-backed revenue:</strong> A
-            Medicare-certified home health agency derives 60&ndash;80% of
-            revenue from Medicare and Medicaid &mdash; payers that are slow
+            Medicare-certified home health agency derives 60-80% of
+            revenue from Medicare and Medicaid, payers that are slow
             to change but highly predictable. Reimbursement is not tied to
             advertising spend, consumer sentiment, or economic cycles.
           </li>
@@ -157,7 +157,7 @@ export default function AcquiringHomeHealthcareArticle() {
             Medicare-certified home health agencies in the United States.
             The five largest operators account for less than 15% of the
             market. The vast majority of agencies are single-location
-            businesses with $2M&ndash;$20M in revenue &mdash; exactly
+            businesses with $2M-$20M in revenue, exactly
             the size range where search funds operate.
           </li>
           <li>
@@ -209,8 +209,8 @@ export default function AcquiringHomeHealthcareArticle() {
             <strong>Medicare / Medicaid certification:</strong> If the
             agency bills Medicare, it must be certified by CMS and pass
             periodic surveys. Request the most recent survey results and
-            any Plans of Correction (PoCs). A history of deficiencies &mdash;
-            especially &ldquo;condition-level&rdquo; deficiencies &mdash;
+            any Plans of Correction (PoCs). A history of deficiencies , 
+            especially &ldquo;condition-level&rdquo; deficiencies , 
             is a serious red flag.
           </li>
           <li>
@@ -223,8 +223,8 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Certificate of Need (CON):</strong> Approximately 15
             states require a Certificate of Need to operate a home health
-            agency. A CON can take 6&ndash;18 months to obtain, making it
-            a significant barrier to entry &mdash; and a valuable asset
+            agency. A CON can take 6-18 months to obtain, making it
+            a significant barrier to entry, and a valuable asset
             if the target already holds one.
           </li>
         </ul>
@@ -233,22 +233,22 @@ export default function AcquiringHomeHealthcareArticle() {
         <p>
           The payer mix is arguably the single most important financial
           variable in a home health acquisition. Break down revenue by
-          payer &mdash; Medicare traditional, Medicare Advantage, Medicaid
+          payer, Medicare traditional, Medicare Advantage, Medicaid
           fee-for-service, Medicaid managed care, commercial insurance,
-          private pay &mdash; and track the trend over 36&nbsp;months.
+          private pay, and track the trend over 36&nbsp;months.
         </p>
         <ul className={ulClass}>
           <li>
             <strong>Medicare Advantage risk:</strong> Medicare Advantage
             (MA) plans now cover more than half of all Medicare
             beneficiaries, and MA plans reimburse home health at rates
-            that are 15&ndash;30% below traditional Medicare. A rapid shift
+            that are 15-30% below traditional Medicare. A rapid shift
             from traditional Medicare to MA in the agency&rsquo;s payer
             mix will compress margins even if patient volume holds steady.
           </li>
           <li>
             <strong>Medicaid rates:</strong> Medicaid reimbursement varies
-            dramatically by state &mdash; from adequate to barely
+            dramatically by state, from adequate to barely
             break-even. In states with low Medicaid rates, a heavy
             Medicaid mix can make the agency unprofitable at scale.
           </li>
@@ -266,7 +266,7 @@ export default function AcquiringHomeHealthcareArticle() {
           state inspection results, Plans of Correction, any Office of
           Inspector General (OIG) investigations, and False Claims Act
           exposure. Home health has been a consistent focus of federal
-          fraud enforcement &mdash; the OIG&rsquo;s annual Work Plan
+          fraud enforcement, the OIG&rsquo;s annual Work Plan
           regularly targets home health billing practices. Red flags
           include:
         </p>
@@ -329,9 +329,9 @@ export default function AcquiringHomeHealthcareArticle() {
         <h3 className={h3Class}>Patient census and referral trends</h3>
         <p>
           Track the daily patient census (the number of patients under
-          active care) over the trailing 24&ndash;36 months. A stable or
+          active care) over the trailing 24-36 months. A stable or
           growing census indicates healthy demand and referral relationships.
-          A declining census requires immediate investigation &mdash; it
+          A declining census requires immediate investigation, it
           may reflect lost referral sources, staffing shortages preventing
           new admissions, or competitive pressure. Identify the top 10
           referral sources (hospitals, physician groups, skilled nursing
@@ -353,7 +353,7 @@ export default function AcquiringHomeHealthcareArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Medicare-certified agencies:</strong> 6&ndash;10x
+            <strong>Medicare-certified agencies:</strong> 6-10x
             EBITDA is the prevailing range, with the wide spread driven by
             payer mix quality, census trends, survey history, and
             geographic desirability. Agencies in CON states command a
@@ -362,25 +362,25 @@ export default function AcquiringHomeHealthcareArticle() {
           </li>
           <li>
             <strong>Non-medical / companion care agencies:</strong>
-            3&ndash;5x EBITDA. Lower multiples reflect lighter regulatory
+            3-5x EBITDA. Lower multiples reflect lighter regulatory
             moats, higher caregiver turnover, and greater exposure to
             private-pay pricing pressure.
           </li>
           <li>
-            <strong>Hospice agencies:</strong> 8&ndash;14x EBITDA for
+            <strong>Hospice agencies:</strong> 8-14x EBITDA for
             established agencies with strong compliance records. Hospice
             valuations have been bid up by PE-backed consolidators, making
             this segment more competitive for search fund buyers.
           </li>
           <li>
-            <strong>Home infusion:</strong> 8&ndash;12x EBITDA, driven by
+            <strong>Home infusion:</strong> 8-12x EBITDA, driven by
             specialty pharmacy revenue and high switching costs.
           </li>
         </ul>
         <p>
           For Medicare-certified agencies, an alternative valuation
-          approach uses revenue multiples &mdash; typically 0.8&ndash;1.5x
-          trailing twelve-month revenue &mdash; which can be useful for
+          approach uses revenue multiples, typically 0.8-1.5x
+          trailing twelve-month revenue, which can be useful for
           agencies with temporarily depressed EBITDA due to investment in
           growth or one-time compliance remediation costs. Regardless of
           the multiple methodology, ensure you normalize EBITDA for
@@ -399,8 +399,8 @@ export default function AcquiringHomeHealthcareArticle() {
             <strong>Stock vs. asset purchase:</strong> A stock purchase
             preserves the existing Medicare provider number, avoiding a
             gap in billing. An asset purchase may require the buyer to
-            obtain a new provider number &mdash; a process that can take
-            60&ndash;120 days, during which the agency cannot bill Medicare.
+            obtain a new provider number, a process that can take
+            60-120 days, during which the agency cannot bill Medicare.
             For this reason, most home health acquisitions are structured
             as stock or membership-interest purchases.
           </li>
@@ -409,20 +409,20 @@ export default function AcquiringHomeHealthcareArticle() {
             notification and approval for any change of ownership. The
             CHOW process includes review of the new owner&rsquo;s
             qualifications, a potential re-survey, and verification that
-            the agency meets all Conditions of Participation. Build 60&ndash;90
+            the agency meets all Conditions of Participation. Build 60-90
             days into your closing timeline for CHOW processing.
           </li>
           <li>
             <strong>Escrow and holdbacks:</strong> Given the compliance
-            risks inherent in healthcare, it is standard to hold 10&ndash;15%
-            of the purchase price in escrow for 12&ndash;18 months to cover
+            risks inherent in healthcare, it is standard to hold 10-15%
+            of the purchase price in escrow for 12-18 months to cover
             potential repayment demands, survey deficiencies, or
             undisclosed liabilities.
           </li>
           <li>
             <strong>Seller transition period:</strong> Clinical leadership
             continuity is critical during ownership transitions. Structure
-            a 6&ndash;12 month consulting agreement with the seller to
+            a 6-12 month consulting agreement with the seller to
             maintain referral relationships, staff confidence, and
             regulatory compliance during the{" "}
             <Link href="/learn/management-transition" className="text-apple-accent hover:underline">
@@ -484,8 +484,8 @@ export default function AcquiringHomeHealthcareArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            Offering above-market wages and benefits &mdash; even a
-            $1&ndash;$2/hour premium over competitors can dramatically
+            Offering above-market wages and benefits, even a
+            $1-$2/hour premium over competitors can dramatically
             improve recruitment yield
           </li>
           <li>
@@ -501,8 +501,8 @@ export default function AcquiringHomeHealthcareArticle() {
             support
           </li>
           <li>
-            Implementing referral bonuses ($500&ndash;$1,000 per successful
-            hire) to leverage existing staff networks
+            Implementing referral bonuses ($500-$1,000 per successful
+            hire) to use existing staff networks
           </li>
           <li>
             Partnering with local nursing schools and CNA training programs
@@ -557,7 +557,7 @@ export default function AcquiringHomeHealthcareArticle() {
           Medicare face margin compression as MA enrollment grows.
           Proactively contracting with Medicare Advantage plans,
           commercial insurers, and Medicaid managed care organizations
-          &mdash; even at lower per-visit rates &mdash; diversifies
+         , even at lower per-visit rates, diversifies
           revenue and reduces regulatory risk. Building a private-pay
           companion care division alongside a Medicare-certified skilled
           agency creates a blended model that is more resilient across
@@ -577,7 +577,7 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Regulatory enforcement:</strong> The OIG and state
             Medicaid Fraud Control Units actively investigate home health
-            billing fraud. Mitigant: invest in a robust compliance
+            billing fraud. Mitigant: invest in a strong compliance
             program, conduct regular internal audits, and engage
             healthcare-specialized legal counsel.
           </li>
@@ -620,18 +620,18 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Acquire a well-run platform agency</strong> with
             strong Medicare certification, clean compliance history, and
-            a capable clinical leadership team. Pay 7&ndash;9x EBITDA
+            a capable clinical leadership team. Pay 7-9x EBITDA
             for this foundation.
           </li>
           <li>
             <strong>Build centralized back-office functions</strong>
-            &mdash; billing, coding, HR, compliance, IT &mdash; that can
+           , billing, coding, HR, compliance, IT, that can
             absorb additional volume without proportional headcount
             increases.
           </li>
           <li>
             <strong>Execute tuck-in acquisitions</strong> of smaller
-            agencies in adjacent geographies at 4&ndash;6x EBITDA.
+            agencies in adjacent geographies at 4-6x EBITDA.
             Integrate them onto the platform&rsquo;s EMR, billing
             system, and compliance infrastructure.
           </li>
@@ -644,15 +644,15 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>Layer in new service lines</strong> (hospice, home
             infusion, private-duty nursing) across the entire network
-            simultaneously, leveraging existing referral relationships
+            simultaneously, using existing referral relationships
             and patient populations.
           </li>
           <li>
-            <strong>Exit at platform multiples</strong> of 10&ndash;14x
+            <strong>Exit at platform multiples</strong> of 10-14x
             EBITDA to a larger strategic buyer, PE firm, or publicly
             traded home health company. The spread between tuck-in
-            acquisition multiples (4&ndash;6x) and platform exit
-            multiples (10&ndash;14x) is one of the most attractive
+            acquisition multiples (4-6x) and platform exit
+            multiples (10-14x) is one of the most attractive
             arbitrage opportunities in ETA.
           </li>
         </ol>
@@ -684,7 +684,7 @@ export default function AcquiringHomeHealthcareArticle() {
           <li>
             <strong>HHCAHPS patient satisfaction:</strong> The
             standardized patient experience survey for home health.
-            Agencies with 4&ndash;5 Star Ratings on patient satisfaction
+            Agencies with 4-5 Star Ratings on patient satisfaction
             have a significant competitive advantage in referral
             development.
           </li>
@@ -708,7 +708,7 @@ export default function AcquiringHomeHealthcareArticle() {
           add-on acquisitions and service-line expansion. The regulatory
           complexity that deters less-prepared buyers is precisely what
           protects your investment and creates a durable competitive
-          moat. Success requires assembling the right team &mdash;
+          moat. Success requires assembling the right team , 
           healthcare-specialized legal counsel, an experienced Director
           of Nursing, and a compliance officer who treats regulation as
           a competitive advantage rather than a burden. Get the
@@ -717,6 +717,69 @@ export default function AcquiringHomeHealthcareArticle() {
           meaningful long-term growth that every search fund investor
           seeks.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the difference between skilled home health and non-medical home care?</h3>
+        <p>
+          Skilled home health agencies provide clinical services , 
+          nursing, physical therapy, occupational therapy, and speech-language
+          pathology, under a physician&rsquo;s plan of care. They bill
+          Medicare under the Patient-Driven Groupings Model (PDGM) at
+          approximately $2,000-$3,500 per episode and require Medicare
+          certification. Non-medical home care agencies provide assistance with
+          activities of daily living (bathing, dressing, meal preparation,
+          companionship) and are typically paid out of pocket, through
+          long-term care insurance, or via Medicaid waivers. Skilled agencies
+          command higher margins and stronger valuations (6-10x EBITDA vs.
+          3-5x) but face heavier regulatory requirements. Many acquirers
+          build platforms that combine both service lines to diversify payer
+          mix and create cross-referral opportunities.
+        </p>
+
+        <h3 className={h3Class}>How does Medicare Advantage affect home health valuations?</h3>
+        <p>
+          Medicare Advantage (MA) plans now cover more than half of all Medicare
+          beneficiaries, and they reimburse home health at rates 15-30%
+          below traditional Medicare. An agency experiencing a rapid shift from
+          traditional Medicare to MA in its payer mix will see margin compression
+          even if patient volume holds steady. During{" "}
+          <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>,
+          break down revenue by payer, traditional Medicare, MA, Medicaid,
+          commercial, and private pay, and track the trend over
+          36 months. Agencies with diversified payer mixes and strong commercial
+          or private-pay revenue command higher valuations because they are less
+          exposed to any single reimbursement source.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks in acquiring a home healthcare agency?</h3>
+        <p>
+          The primary risks are reimbursement cuts, regulatory enforcement,
+          workforce shortages, and referral source concentration. CMS adjusts
+          Medicare home health rates annually with a generally downward real
+          trend. The OIG actively investigates billing fraud in home health,
+          and deficient surveys can trigger provider enrollment holds. The
+          Bureau of Labor Statistics projects a shortage of over 400,000 home
+          health aides by 2030, making caregiver recruitment the binding
+          growth constraint. If a single hospital referral source accounts
+          for more than 25% of admissions, losing that relationship can cause
+          a sudden census decline. Mitigate through payer diversification,
+          strong compliance programs, competitive compensation, and broad
+          referral network development.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Centers for Medicare &amp; Medicaid Services (CMS)</strong>: &ldquo;Medicare Home Health Data &amp; Patient-Driven Groupings Model (PDGM) Overview,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IBISWorld</strong>, &ldquo;Home Care Providers Industry in the US, Market Research Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Bureau of Labor Statistics</strong>: &ldquo;Occupational Outlook Handbook: Home Health and Personal Care Aides,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

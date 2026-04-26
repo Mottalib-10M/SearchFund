@@ -9,17 +9,17 @@ export default function SearchFundGoodInvestmentArticle() {
       <p className="text-gray-600 dark:text-gray-400 mb-8">11 min read</p>
 
       <p className={bodyClass}>
-        Search funds have quietly generated some of the most compelling risk-adjusted returns in private equity, yet they remain unknown to many institutional investors. With average internal rates of return (IRR) exceeding 35% and money-on-invested-capital (MOIC) multiples above 4.5x according to Stanford Graduate School of Business research, search funds occupy a unique position in the alternative investment landscape.
+        Search funds have quietly generated some of the most compelling risk-adjusted returns in private equity, yet they remain unknown to many institutional investors. With average internal rates of return (IRR) exceeding 35% and money-on-invested-capital (MOIC) multiples above 4.5x according to Stanford Graduate School of Business research, search funds occupy a unique position in the alternative investment market.
       </p>
 
       <p className={bodyClass}>
-        But raw returns tell only part of the story. Understanding whether search funds deserve a place in your portfolio requires examining the return profile in detail, comparing performance to alternative asset classes, analyzing risk factors, and evaluating the practical challenges of accessing this opportunity set. This article provides a comprehensive analysis of search fund returns from an investor perspective.
+        But raw returns tell only part of the story. Understanding whether search funds deserve a place in your portfolio requires examining the return profile in detail, comparing performance to alternative asset classes, analyzing risk factors, and evaluating the practical challenges of accessing this opportunity set. This article provides a thorough analysis of search fund returns from an investor perspective.
       </p>
 
       <h2 className={h2Class}>The Return Profile: 35% IRR and 4.5x MOIC</h2>
 
       <p className={bodyClass}>
-        The Stanford Search Fund Study, tracking performance since 1984, provides the most comprehensive dataset on search fund returns. The 2024 edition analyzed 656 search funds and revealed remarkable consistency in returns across four decades.
+        The Stanford Search Fund Study, tracking performance since 1984, provides the most thorough dataset on search fund returns. The 2024 edition analyzed 656 search funds and revealed remarkable consistency in returns across four decades.
       </p>
 
       <h3 className={h3Class}>Aggregate Return Metrics</h3>
@@ -36,7 +36,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These figures place search funds among the highest-returning strategies in private equity. To contextualize: a 35% IRR sustained over seven years turns $100,000 into $730,000—substantially outperforming most alternative investments.
+        These figures place search funds among the highest-returning strategies in private equity. To contextualize: a 35% IRR sustained over seven years turns $100,000 into $730,000 - substantially outperforming most alternative investments.
       </p>
 
       <h3 className={h3Class}>Distribution of Returns</h3>
@@ -46,14 +46,14 @@ export default function SearchFundGoodInvestmentArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li><strong>Top Quartile:</strong> IRRs above 60%, MOIC above 8.0x—venture-like outcomes</li>
-        <li><strong>Second Quartile:</strong> IRRs of 30-60%, MOIC of 3.5-8.0x—strong PE returns</li>
-        <li><strong>Third Quartile:</strong> IRRs of 10-30%, MOIC of 1.5-3.5x—modest outperformance</li>
+        <li><strong>Top Quartile:</strong> IRRs above 60%, MOIC above 8.0x (venture-like outcomes)</li>
+        <li><strong>Second Quartile:</strong> IRRs of 30-60%, MOIC of 3.5-8.0x (strong PE returns)</li>
+        <li><strong>Third Quartile:</strong> IRRs of 10-30%, MOIC of 1.5-3.5x (modest outperformance)</li>
         <li><strong>Bottom Quartile:</strong> IRRs below 10% or negative, including total losses</li>
       </ul>
 
       <p className={bodyClass}>
-        The wide distribution reflects the idiosyncratic nature of search fund investing. Each investment represents a single company acquisition by a first-time CEO, creating both concentration risk and asymmetric upside potential.
+        The wide distribution reflects the idiosyncratic nature of search fund investing. Each investment represents a single company acquisition by a first-time CEO, creating both concentration risk and asymmetric upside potential. For a deeper understanding of the characteristics that predict CEO success, see our analysis of the <Link href="/learn/search-fund-entrepreneur-archetype" className="text-apple-accent hover:underline">search fund entrepreneur archetype</Link>.
       </p>
 
       <h3 className={h3Class}>Cash-on-Cash Returns</h3>
@@ -287,12 +287,12 @@ export default function SearchFundGoodInvestmentArticle() {
 
       <ul className={ulClass}>
         <li><strong>Industry Mix:</strong> Business services, healthcare, software, manufacturing, distribution</li>
-        <li><strong>Geographic Mix:</strong> US, Canada, Europe, Latin America—each with different economic cycles</li>
-        <li><strong>Business Model Mix:</strong> B2B, B2C, SaaS, traditional services—different growth and risk profiles</li>
+        <li><strong>Geographic Mix:</strong> US, Canada, Europe, Latin America, each with different economic cycles</li>
+        <li><strong>Business Model Mix:</strong> B2B, B2C, SaaS, traditional services, with different growth and risk profiles</li>
       </ul>
 
       <p className={bodyClass}>
-        Intentional diversification across these dimensions reduces correlation and improves risk-adjusted returns. However, over-diversifying by forcing investments in unfamiliar sectors or geographies can backfire—investors should prioritize searcher quality over perfect portfolio balance.
+        Intentional diversification across these dimensions reduces correlation and improves risk-adjusted returns. However, over-diversifying by forcing investments in unfamiliar sectors or geographies can backfire. Investors should prioritize searcher quality over perfect portfolio balance.
       </p>
 
       <h2 className={h2Class}>Loss Rates and Downside Protection</h2>
@@ -311,12 +311,12 @@ export default function SearchFundGoodInvestmentArticle() {
         <li><strong>Customer Concentration (30% of failures):</strong> Company loses major customer representing 20%+ of revenue, creating death spiral</li>
         <li><strong>Searcher-Management Conflict (25%):</strong> Incumbent team quits or sabotages new CEO, operational knowledge lost</li>
         <li><strong>Market Disruption (20%):</strong> Technology change, regulatory shift, or competitor emergence destroys business model</li>
-        <li><strong>Over-Leverage (15%):</strong> Excessive acquisition debt limits operational flexibility, forces distressed sale</li>
+        <li><strong>Over-Use (15%):</strong> Excessive acquisition debt limits operational flexibility, forces distressed sale</li>
         <li><strong>Fraud/Misrepresentation (10%):</strong> Seller concealed problems; due diligence failed to uncover issues</li>
       </ul>
 
       <p className={bodyClass}>
-        Notably, "searcher incompetence" is rarely the primary driver—most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes.
+        Notably, "searcher incompetence" is rarely the primary driver. Most failures stem from deal selection errors, industry dynamics, or unforeseen external shocks rather than operational mistakes. Our article on <Link href="/learn/search-fund-no-acquisition" className="text-apple-accent hover:underline">what happens when a search fails</Link> examines these failure modes in greater detail.
       </p>
 
       <h3 className={h3Class}>Mitigating Downside Risk</h3>
@@ -328,19 +328,19 @@ export default function SearchFundGoodInvestmentArticle() {
       <ul className={ulClass}>
         <li><strong>Customer Diversification:</strong> Require no single customer exceeding 15% of revenue</li>
         <li><strong>Management Transition Planning:</strong> Assess seller's willingness to support transition; plan for key employee retention</li>
-        <li><strong>Industry Defensibility:</strong> Favor businesses with moats—regulatory licenses, network effects, high switching costs</li>
-        <li><strong>Conservative Leverage:</strong> Cap debt at 2.5-3.0x EBITDA to preserve flexibility</li>
+        <li><strong>Industry Defensibility:</strong> Favor businesses with moats: regulatory licenses, network effects, high switching costs</li>
+        <li><strong>Conservative Use:</strong> Cap debt at 2.5-3.0x EBITDA to preserve flexibility</li>
         <li><strong>Quality of Earnings:</strong> Insist on thorough QoE analysis; walk away from accounting irregularities</li>
       </ul>
 
       <p className={bodyClass}>
-        These screens won't eliminate losses but can reduce the failure rate from 25% to 15-20%, materially improving portfolio-level returns.
+        These screens won't eliminate losses but can reduce the failure rate from 25% to 15-20%, materially improving portfolio-level returns. Investors may also benefit from understanding the <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> that searchers use during the acquisition process.
       </p>
 
       <h3 className={h3Class}>Partial Loss Scenarios</h3>
 
       <p className={bodyClass}>
-        Not all unsuccessful investments result in total loss. Some deliver 0.5-1.5x returns—capital preservation or modest gains rather than home runs. The Stanford data suggests:
+        Not all unsuccessful investments result in total loss. Some deliver 0.5-1.5x returns, representing capital preservation or modest gains rather than home runs. The Stanford data suggests:
       </p>
 
       <ul className={ulClass}>
@@ -352,7 +352,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        This distribution means portfolios have a "floor" higher than zero—even with losses, 40% of investments return at least original capital, cushioning downside.
+        This distribution means portfolios have a "floor" higher than zero. Even with losses, 40% of investments return at least original capital, cushioning downside.
       </p>
 
       <h2 className={h2Class}>The European Opportunity</h2>
@@ -408,7 +408,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <h2 className={h2Class}>Selecting Winning Searchers: What Drives Outperformance</h2>
 
       <p className={bodyClass}>
-        Individual search fund returns vary dramatically based on searcher quality. The difference between top-quartile and bottom-quartile searchers is ~70 percentage points of IRR—far exceeding the spread in traditional PE or VC.
+        Individual search fund returns vary dramatically based on searcher quality. The difference between top-quartile and bottom-quartile searchers is ~70 percentage points of IRR, far exceeding the spread in traditional PE or VC.
       </p>
 
       <h3 className={h3Class}>Predictive Characteristics of Top-Quartile Searchers</h3>
@@ -426,7 +426,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Importantly, these factors are observable at investment time—investors can screen for these characteristics before committing capital.
+        Importantly, these factors are observable at investment time, and investors can screen for these characteristics before committing capital.
       </p>
 
       <h3 className={h3Class}>Red Flags and Negative Predictors</h3>
@@ -450,7 +450,7 @@ export default function SearchFundGoodInvestmentArticle() {
       <h3 className={h3Class}>The Importance of Coach-Ability</h3>
 
       <p className={bodyClass}>
-        Perhaps the most important but hardest-to-measure characteristic is coach-ability. Search funds are structured as apprenticeships—first-time CEOs learning from experienced investors. Searchers who actively seek feedback, implement suggestions, and acknowledge knowledge gaps vastly outperform those who view investors as passive capital sources.
+        Perhaps the most important but hardest-to-measure characteristic is coach-ability. Search funds are structured as apprenticeships - first-time CEOs learning from experienced investors. Searchers who actively seek feedback, implement suggestions, and acknowledge knowledge gaps vastly outperform those who view investors as passive capital sources.
       </p>
 
       <p className={bodyClass}>
@@ -475,11 +475,11 @@ export default function SearchFundGoodInvestmentArticle() {
         <li><strong>Financial Quality:</strong> Real vs. adjusted EBITDA? Working capital needs? Capex requirements? Customer concentration?</li>
         <li><strong>Growth Potential:</strong> Organic growth opportunities? Bolt-on acquisition targets? Geographic expansion? New product/service lines?</li>
         <li><strong>Operational Improvement:</strong> Low-hanging fruit? Professionalizable processes? Technology adoption potential? Cost reduction opportunities?</li>
-        <li><strong>Valuation and Structure:</strong> Purchase multiple vs. comps? Leverage level? Earnout provisions? Seller financing? Rollover equity?</li>
+        <li><strong>Valuation and Structure:</strong> Purchase multiple vs. comps? Use level? Earnout provisions? Seller financing? Rollover equity?</li>
       </ol>
 
       <p className={bodyClass}>
-        Strong deals score highly across all six dimensions. Mediocre deals have one or two weaknesses. Pass on deals with multiple major concerns—searcher talent cannot overcome structural disadvantages.
+        Strong deals score highly across all six dimensions. Mediocre deals have one or two weaknesses. Pass on deals with multiple major concerns; searcher talent cannot overcome structural disadvantages.
       </p>
 
       <h3 className={h3Class}>Valuation Discipline</h3>
@@ -496,7 +496,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        The return delta between low and high purchase multiples is enormous—investors should strongly favor searchers who maintain valuation discipline even if it means longer search periods.
+        The return delta between low and high purchase multiples is enormous. Investors should strongly favor searchers who maintain valuation discipline even if it means longer search periods.
       </p>
 
       <h3 className={h3Class}>Capital Structure Optimization</h3>
@@ -537,7 +537,7 @@ export default function SearchFundGoodInvestmentArticle() {
       </ul>
 
       <p className={bodyClass}>
-        These structural advantages are durable—search funds access a market segment that remains inefficient despite broader PE professionalization.
+        These structural advantages are durable. Search funds access a market segment that remains inefficient despite broader PE professionalization.
       </p>
 
       <h3 className={h3Class}>Risks to Future Returns</h3>
@@ -595,11 +595,31 @@ export default function SearchFundGoodInvestmentArticle() {
       </p>
 
       <p className={bodyClass}>
-        For high-net-worth individuals, family offices, and small institutions with 7-10 year time horizons, appetite for illiquidity, and ability to build diversified portfolios, search funds offer one of the most attractive risk-return profiles in private markets. The key is rigorous searcher selection, valuation discipline, portfolio diversification, and hands-on engagement to help first-time CEOs navigate the challenges of acquisition and operational improvement.
+        For high-net-worth individuals, family offices, and small institutions with 7-10 year time horizons, appetite for illiquidity, and ability to build diversified portfolios, search funds offer one of the most attractive risk-return profiles in private markets. The key is rigorous searcher selection, valuation discipline, portfolio diversification, and hands-on engagement to help first-time CEOs manage the challenges of acquisition and operational improvement.
       </p>
 
       <p className={bodyClass}>
         The future may bring some return compression as markets professionalize, but structural inefficiencies in SME succession should sustain above-market returns for disciplined investors for decades to come.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What is the minimum investment to become a search fund investor?</h3>
+
+      <p className={bodyClass}>
+        Typical minimum investments range from $25,000 to $50,000 per search fund during the search phase. This covers the searcher's salary and operating expenses. If the searcher identifies an acquisition, investors are typically offered the right of first refusal to invest additional capital in the acquisition equity, often on a pro rata basis. Total investment per fund (search plus acquisition) can range from $50,000 to $500,000 or more depending on the deal size and your desired allocation.
+      </p>
+
+      <h3 className={h3Class}>How long is the typical hold period for a search fund investment?</h3>
+
+      <p className={bodyClass}>
+        The average hold period is approximately 7.2 years from the initial search capital investment to exit. This includes 1-2 years of searching, followed by 5-7 years of operating and growing the acquired business. Exits typically occur through a sale to a strategic buyer, private equity firm, or management team. Investors should treat search fund capital as fully illiquid for 7-10 years and plan accordingly.
+      </p>
+
+      <h3 className={h3Class}>How many search funds should I invest in to build a diversified portfolio?</h3>
+
+      <p className={bodyClass}>
+        Academic research suggests that a portfolio of 10-15 search fund investments provides meaningful diversification, reducing volatility by approximately 60% while maintaining expected returns of 27-30%. For individual investors, a practical target is 5-10 search funds built over 3-5 years to also achieve vintage year diversification. Portfolios of 20 or more approach systematic risk levels only, with expected returns of 25-28%.
       </p>
 
       <h2 className={h2Class}>Sources</h2>

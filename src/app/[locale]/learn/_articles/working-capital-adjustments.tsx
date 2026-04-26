@@ -25,7 +25,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
 
       <p className={bodyClass}>
         Working capital adjustments represent one of the most frequently
-        negotiated—and misunderstood—components of acquisition transactions. For
+        negotiated - and misunderstood - components of acquisition transactions. For
         search fund entrepreneurs, understanding how to properly structure,
         calculate, and negotiate these adjustments can mean the difference
         between securing favorable deal economics and leaving substantial value
@@ -38,7 +38,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         Unlike other purchase price components that remain fixed, working
         capital adjustments create a dynamic element that fluctuates based on
         the actual financial position of the business at closing. This guide
-        provides a comprehensive framework for negotiating, calculating, and
+        provides a thorough framework for negotiating, calculating, and
         resolving working capital adjustments in small to mid-sized business
         acquisitions.
       </p>
@@ -47,7 +47,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
 
       <p className={bodyClass}>
         Net working capital (NWC) represents the operational liquidity of a
-        business—the cushion of current assets over current liabilities that
+        business - the cushion of current assets over current liabilities that
         enables day-to-day operations. In acquisition contexts, NWC is typically
         defined as current assets minus current liabilities, though specific
         definitions vary significantly by transaction.
@@ -700,7 +700,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         <li>
           <strong>Baseball Arbitration:</strong> Each party submits its proposed
           working capital figure, and the arbitrator must choose one or the
-          other—no splitting the difference. This encourages reasonable
+          other - no splitting the difference. This encourages reasonable
           positions.
         </li>
         <li>
@@ -730,7 +730,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
       <ul className={ulClass}>
         <li>
           <strong>Analyze Historical Working Capital Trends:</strong> Don't just
-          look at averages—understand the drivers of working capital
+          look at averages - understand the drivers of working capital
           fluctuations. Is seasonality predictable? Are there structural trends?
           Your{" "}
           <Link
@@ -824,7 +824,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
       <h2 className={h2Class}>Integration with Other Deal Terms</h2>
 
       <p className={bodyClass}>
-        Working capital adjustments don't exist in isolation—they interact with
+        Working capital adjustments don't exist in isolation - they interact with
         other deal provisions in important ways.
       </p>
 
@@ -959,7 +959,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
           renegotiate price
         </li>
         <li>
-          Frame it as mutual protection—ensures both parties receive fair value
+          Frame it as mutual protection - ensures both parties receive fair value
         </li>
         <li>
           Consider engaging the seller's accountant to help explain the concepts
@@ -983,7 +983,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         </li>
         <li>
           <strong>Minimum Cash Delivery:</strong> Forget complex working capital
-          calculations—just require seller to leave $X in the bank account at
+          calculations - just require seller to leave $X in the bank account at
           closing. Works for businesses with minimal receivables/inventory.
         </li>
         <li>
@@ -1008,7 +1008,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
         The key to successful working capital negotiations lies in thorough
         diligence, clear documentation, and realistic expectations. Invest time
         during your quality of earnings analysis understanding the business's
-        working capital dynamics. Negotiate clear, comprehensive working capital
+        working capital dynamics. Negotiate clear, thorough working capital
         provisions in your letter of intent and purchase agreement. And maintain
         professional, collaborative relationships with sellers throughout the
         post-closing true-up process.
@@ -1022,12 +1022,35 @@ export default function WorkingCapitalAdjustmentsArticle() {
         disputes can be resolved efficiently and fairly.
       </p>
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is a typical working capital peg range for small business acquisitions?</h3>
+        <p className={bodyClass}>
+          For most small businesses acquired through search funds, the working capital peg typically falls between 5-15% of annual revenue, though this varies significantly by industry. Service businesses with minimal inventory and short receivable cycles may run at 3-8% of revenue, while distribution and manufacturing businesses often require 15-25% due to inventory and longer payment cycles. According to SRS Acquiom&rsquo;s 2023 Deal Terms Study analyzing 1,200+ transactions, the median working capital collar width is approximately 1-2% of enterprise value. Most{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">quality of earnings</Link>{" "}
+          analyses calculate the trailing 12-month average as the starting point for peg negotiations, though normalized adjustments often move the final figure 5-10% from the simple average.
+        </p>
+
+        <h3 className={h3Class}>How do you prevent sellers from manipulating working capital before closing?</h3>
+        <p className={bodyClass}>
+          Seller manipulation of working capital, sometimes called &ldquo;window dressing&rdquo;, is a common concern in M&amp;A transactions. Common tactics include delaying vendor payments to inflate cash, accelerating customer collections to boost receivables temporarily, or drawing down inventory to reduce liabilities. To protect against this, buyers should negotiate a &ldquo;conduct of business&rdquo; covenant in the{" "}
+          <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">purchase agreement</Link>{" "}
+          requiring the seller to operate in the ordinary course between signing and closing. Additionally, using a 12-month trailing average rather than a point-in-time snapshot for the peg neutralizes most manipulation. Some agreements include explicit anti-manipulation provisions requiring that the seller maintain working capital within 10-15% of historical norms during the pre-closing period.
+        </p>
+
+        <h3 className={h3Class}>What happens if the buyer and seller cannot agree on the final working capital amount?</h3>
+        <p className={bodyClass}>
+          When working capital disputes cannot be resolved through direct negotiation (typically within 15-30 days), virtually all well-drafted purchase agreements escalate to an independent accounting firm for binding determination. According to KPMG&rsquo;s 2022 post-closing disputes analysis, approximately 10-15% of acquisitions result in formal working capital disputes, with the average disputed amount ranging from $200,000 to $500,000 in mid-market transactions. The independent firm&rsquo;s decision is final and binding, with costs typically split between the parties or allocated based on who prevails. To minimize dispute risk, buyers should invest in thorough{" "}
+          <Link href="/learn/financial-due-diligence" className="text-apple-accent hover:underline">financial due diligence</Link>{" "}
+          and document accounting methodologies explicitly in the purchase agreement rather than relying on vague &ldquo;consistent with past practice&rdquo; language.
+        </p>
+
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
         <li>
           American Bar Association, <em>Model Asset Purchase Agreement</em> (3rd
-          ed. 2016) — Section 2.5 (Purchase Price Adjustment)
+          ed. 2016) - Section 2.5 (Purchase Price Adjustment)
         </li>
         <li>
           Robert T. Hawley, "Working Capital Adjustments in M&amp;A
@@ -1050,7 +1073,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
           <em>Working Capital in M&amp;A: Key Considerations</em> (2020)
         </li>
         <li>
-          SRS Acquiom, <em>M&amp;A Deal Terms Study</em> (2023) — Analysis of
+          SRS Acquiom, <em>M&amp;A Deal Terms Study</em> (2023) - Analysis of
           working capital provisions in 1,200+ transactions
         </li>
         <li>
@@ -1073,7 +1096,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Working Capital Management for New Owners
             </Link>{" "}
-            — Strategies for optimizing working capital post-acquisition
+ - Strategies for optimizing working capital post-acquisition
           </li>
           <li>
             <Link
@@ -1082,7 +1105,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Quality of Earnings Analysis
             </Link>{" "}
-            — How to analyze working capital during diligence
+ - How to analyze working capital during diligence
           </li>
           <li>
             <Link
@@ -1091,7 +1114,7 @@ export default function WorkingCapitalAdjustmentsArticle() {
             >
               Letter of Intent Strategy
             </Link>{" "}
-            — Addressing working capital in preliminary agreements
+ - Addressing working capital in preliminary agreements
           </li>
         </ul>
       </div>

@@ -41,7 +41,7 @@ export default function NegotiationTacticsArticle() {
           <li>
             <strong>Anchor with justification:</strong> When you do
             make the first offer, always present it with a clear
-            analytical framework &mdash; comparable transaction
+            analytical framework, comparable transaction
             multiples, <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">discounted cash flow analysis</Link>, or industry
             benchmarks. An anchored offer backed by data is harder
             to dismiss than a number presented without context.
@@ -66,10 +66,10 @@ export default function NegotiationTacticsArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Creating and leveraging exclusivity</h2>
+        <h2 className={h2Class}>Creating and using exclusivity</h2>
         <p>
-          Exclusivity &mdash; the agreement that the seller will
-          negotiate only with you for a defined period &mdash; is one
+          Exclusivity, the agreement that the seller will
+          negotiate only with you for a defined period, is one
           of the most valuable positions in any acquisition negotiation.
           Without exclusivity, you risk investing significant time and
           money in due diligence only to be outbid by a competitor at
@@ -84,9 +84,9 @@ export default function NegotiationTacticsArticle() {
             concrete commitment, is standard practice.
           </li>
           <li>
-            <strong>Duration:</strong> Request 60&ndash;90 days of
-            exclusivity for due diligence. Sellers may push for 30&ndash;45
-            days. In complex deals or regulated industries, 90&ndash;120
+            <strong>Duration:</strong> Request 60-90 days of
+            exclusivity for due diligence. Sellers may push for 30-45
+            days. In complex deals or regulated industries, 90-120
             days may be justified. Always include an extension mechanism
             (e.g., mutual agreement to extend by 30 days if diligence
             is proceeding in good faith).
@@ -94,16 +94,16 @@ export default function NegotiationTacticsArticle() {
           <li>
             <strong>Consideration for exclusivity:</strong> Some sellers
             request a &ldquo;break fee&rdquo; or deposit in exchange
-            for exclusivity, typically 1&ndash;2% of the purchase price.
+            for exclusivity, typically 1-2% of the purchase price.
             This is more common in Europe than in the US. If required,
             negotiate for the deposit to be credited against the
             purchase price at closing and refundable if the seller
             breaches representations.
           </li>
           <li>
-            <strong>Leveraging exclusivity:</strong> Once you have
+            <strong>Using exclusivity:</strong> Once you have
             exclusivity, use the time productively but do not rush.
-            The seller has committed to working with you alone &mdash;
+            The seller has committed to working with you alone , 
             this is the moment to build deeper rapport and conduct
             thorough diligence. However, do not abuse exclusivity by
             dragging your feet; sellers who feel strung along will find
@@ -138,8 +138,8 @@ export default function NegotiationTacticsArticle() {
           health issues, a competing opportunity, or simply
           &ldquo;deal fatigue&rdquo; from a long process. For these
           sellers, demonstrating your ability to close quickly and
-          reliably &mdash; pre-approved financing, experienced advisory
-          team, clear diligence plan &mdash; is more persuasive than
+          reliably, pre-approved financing, experienced advisory
+          team, clear diligence plan, is more persuasive than
           offering a higher price. A bird in the hand is often worth
           more than two in the bush.
         </p>
@@ -148,7 +148,7 @@ export default function NegotiationTacticsArticle() {
         <p>
           Deal structure has enormous tax implications for sellers. In
           the US, the difference between capital gains treatment and
-          ordinary income can represent 15&ndash;20 percentage points in
+          ordinary income can represent 15-20 percentage points in
           effective tax rate. In France, sellers can benefit from
           abattements (tax allowances) based on how long they have held
           the business, making stock deals more attractive than asset
@@ -156,7 +156,7 @@ export default function NegotiationTacticsArticle() {
           (partial-income method) applies to capital gains from share
           sales. Understanding the seller&apos;s tax position allows you
           to structure the deal in ways that create value for the seller
-          without costing you anything &mdash; the definition of a
+          without costing you anything, the definition of a
           win-win.
         </p>
 
@@ -181,7 +181,7 @@ export default function NegotiationTacticsArticle() {
           <li>
             <strong>Competitive processes:</strong> If the seller is
             running a formal auction through a broker, focus on
-            differentiating yourself on dimensions other than price &mdash;
+            differentiating yourself on dimensions other than price , 
             speed of close, fewer contingencies, cultural fit, and
             certainty of financing. In competitive processes, the
             winning bidder is not always the highest price; it is the
@@ -218,7 +218,7 @@ export default function NegotiationTacticsArticle() {
         <p>
           The simplest structure and the one sellers prefer most. It
           provides certainty and finality. However, all-cash deals give
-          you the least negotiating leverage on price and the least
+          you the least negotiating use on price and the least
           protection against post-closing surprises. Reserve all-cash
           offers for situations where the business is well-understood,
           the due diligence was thorough, and the price is within your
@@ -227,7 +227,7 @@ export default function NegotiationTacticsArticle() {
 
         <h3 className={h3Class}>Seller financing component</h3>
         <p>
-          A <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller note</Link> (typically 10&ndash;30% of purchase price) serves
+          A <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller note</Link> (typically 10-30% of purchase price) serves
           multiple purposes: it reduces your upfront capital requirement,
           it aligns the seller&apos;s incentives with a smooth transition
           (they are still a creditor), and it signals the seller&apos;s
@@ -240,11 +240,11 @@ export default function NegotiationTacticsArticle() {
         <p>
           <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">Earn-outs</Link> tie a portion of the purchase price to the
           business&apos;s post-closing performance. They are most useful
-          when there is a genuine valuation gap &mdash; the seller
+          when there is a genuine valuation gap, the seller
           believes the business is worth more than you are willing to
           pay at closing, and the earn-out lets the business prove itself.
           Structure earn-outs with clear, objective metrics (EBITDA,
-          revenue), defined measurement periods (12&ndash;24 months), and
+          revenue), defined measurement periods (12-24 months), and
           explicit rules about how the business will be operated during
           the earn-out period.
         </p>
@@ -282,7 +282,7 @@ export default function NegotiationTacticsArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Building rapport vs maintaining leverage</h2>
+        <h2 className={h2Class}>Building rapport vs maintaining use</h2>
         <p>
           The most effective SME acquisition negotiators hold two
           seemingly contradictory positions simultaneously: they
@@ -300,10 +300,10 @@ export default function NegotiationTacticsArticle() {
             built.
           </li>
           <li>
-            <strong>Maintaining leverage:</strong> Never signal that
+            <strong>Maintaining use:</strong> Never signal that
             you &ldquo;must&rdquo; have this specific business. Let the
             seller know (subtly) that you are evaluating other
-            opportunities. Avoid sunk-cost psychology &mdash; just
+            opportunities. Avoid sunk-cost psychology, just
             because you have invested six months does not mean you
             should accept unfavorable terms. The willingness to walk
             away is the ultimate source of negotiating power.
@@ -312,7 +312,7 @@ export default function NegotiationTacticsArticle() {
             <strong>The balance:</strong> The best acquirers are
             enthusiastic about the opportunity while remaining
             disciplined about the terms. Think of it as
-            &ldquo;warm but firm&rdquo; &mdash; genuinely excited
+            &ldquo;warm but firm&rdquo;, genuinely excited
             about the business, genuinely willing to walk away if the
             numbers do not work.
           </li>
@@ -338,7 +338,7 @@ export default function NegotiationTacticsArticle() {
             (when the seller is feeling confident) can be more
             effective than approaching during a slow period. Conversely,
             approaching a seller after a weak quarter may create
-            leverage on price but can also make the seller defensive.
+            use on price but can also make the seller defensive.
           </li>
           <li>
             <strong>Creating urgency:</strong> Soft deadlines
@@ -353,7 +353,7 @@ export default function NegotiationTacticsArticle() {
             <strong>Patience as strategy:</strong> Sometimes the most
             effective tactic is patience. If the seller is not ready
             today, maintain the relationship and check in quarterly.
-            Many successful search fund acquisitions close 12&ndash;18
+            Many successful search fund acquisitions close 12-18
             months after the initial conversation, after the seller
             has had time to process the idea emotionally.
           </li>
@@ -361,7 +361,7 @@ export default function NegotiationTacticsArticle() {
 
         <h2 className={h2Class}>Red lines and walk-away points</h2>
         <p>
-          Before entering any negotiation, define your red lines &mdash;
+          Before entering any negotiation, define your red lines , 
           the terms beyond which you will not go. Red lines should be
           based on fundamentals, not emotions.
         </p>
@@ -426,7 +426,7 @@ export default function NegotiationTacticsArticle() {
             Response: &ldquo;I hear you. Many sellers initially feel the
             same way. The reason I&apos;m suggesting it is that it
             actually allows me to offer a higher total price while
-            managing my risk &mdash; it&apos;s a tool that benefits
+            managing my risk, it&apos;s a tool that benefits
             both of us. Can I show you how the economics work?&rdquo;
           </li>
         </ul>
@@ -450,7 +450,7 @@ export default function NegotiationTacticsArticle() {
             <strong>Directness:</strong> German and Dutch negotiators
             tend to be more direct about price and terms. French and
             Southern European negotiations may involve more indirect
-            communication, reading between the lines, and nuanced
+            communication, reading between the lines, and detailed
             positions. US negotiations fall somewhere in between.
           </li>
           <li>
@@ -481,7 +481,7 @@ export default function NegotiationTacticsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Understand their incentives:</strong> Brokers earn
-            a commission (typically 5&ndash;10% of the transaction
+            a commission (typically 5-10% of the transaction
             value for smaller deals, declining for larger ones). They
             are motivated to close deals and generally prefer buyers
             who are professional, responsive, and have demonstrated
@@ -547,8 +547,8 @@ export default function NegotiationTacticsArticle() {
         <h2 className={h2Class}>The bottom line</h2>
         <p>
           Successful SME acquisition negotiation is as much art as
-          science. The technical skills &mdash; valuation analysis,
-          deal structuring, financial modeling &mdash; are necessary but
+          science. The technical skills, valuation analysis,
+          deal structuring, financial modeling, are necessary but
           insufficient. The differentiating factor is your ability to
           understand what the seller truly values, build genuine trust,
           structure creative solutions that address both parties&apos;
@@ -559,6 +559,59 @@ export default function NegotiationTacticsArticle() {
           confident that the deal will close. Master this, and you will
           close deals that purely transactional buyers never will.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much room is there to negotiate on price in a typical SME acquisition?</h3>
+        <p>
+          According to the IBBA Market Pulse Survey (2024) and BizBuySell transaction data,
+          the average SME sells for 85-95% of the initial asking price. For broker-listed
+          businesses, the final price is typically 5-15% below the seller&apos;s asking price,
+          while proprietary deals (where no asking price was established) often close at
+          valuations 10-20% below what the seller initially expected. The negotiating range
+          depends heavily on how motivated the seller is and how competitive the buyer
+          environment is. Valuation gaps of 10-15% are usually bridgeable through creative
+          deal structuring -- seller financing,{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">earn-outs</Link>, or equity rollover. Gaps above 25% rarely close successfully and
+          typically indicate a fundamental disagreement about the business&apos;s value.
+        </p>
+
+        <h3 className={h3Class}>Should a searcher always request exclusivity before starting due diligence?</h3>
+        <p>
+          Yes, exclusivity should be a standard feature of your{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>.
+          Without exclusivity, you risk investing $35,000-$100,000 in due diligence costs
+          (legal fees, QoE report, environmental assessment) only to be outbid at the last
+          moment. The standard exclusivity period for search fund acquisitions is 60-90 days,
+          with an extension mechanism allowing 30 additional days if diligence is proceeding
+          in good faith. Some sellers request a break fee (1-2% of purchase price) in exchange
+          for exclusivity, which is more common in European than US transactions. If the
+          seller refuses exclusivity entirely, it may signal that they are using your offer as
+          use with another buyer -- a serious red flag that warrants careful evaluation
+          before committing significant diligence dollars.
+        </p>
+
+        <h3 className={h3Class}>How do negotiation tactics differ between US and European SME acquisitions?</h3>
+        <p>
+          European SME negotiations typically require a longer relationship-building phase,
+          particularly in France, Italy, and Spain, where sellers expect multiple dinners and
+          facility visits before substantive deal discussions begin. German and Dutch
+          negotiators tend to be more direct about price and terms. Legal documentation differs
+          significantly: US acquisitions use extensive representations, warranties, and
+          indemnification provisions, while European deals (especially below &euro;10M) often
+          involve lighter documentation. In France, the compromis de vente and protocole
+          d&apos;accord have specific legal implications that differ from US LOI conventions.
+          According to IESE&apos;s 2024 International Search Fund Study, European deals
+          take 15-25% longer from LOI to close compared to US transactions, primarily due to
+          regulatory approvals and the longer trust-building process.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>International Business Brokers Association (IBBA), <em>Market Pulse Survey</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>Harvard Business Review, &ldquo;Negotiation Strategy in Acquisitions&rdquo; (2023)</li>
+        </ul>
       </div>
     </article>
   );

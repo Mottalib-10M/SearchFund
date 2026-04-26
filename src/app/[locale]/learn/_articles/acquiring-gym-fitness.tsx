@@ -10,14 +10,14 @@ export default function AcquiringGymFitnessArticle() {
       <div className={bodyClass}>
         <p>
           The gym and fitness industry in the United States exceeds $35 billion
-          in annual revenue and continues to grow at 3&ndash;5% per year, fueled
+          in annual revenue and continues to grow at 3-5% per year, fueled
           by rising health consciousness, corporate wellness programs, and an
-          expanding definition of &ldquo;fitness&rdquo; that now encompasses
+          expanding definition of &ldquo;fitness&rdquo; that now includes
           everything from traditional weightlifting to boutique cycling, yoga,
           martial arts, and recovery services. For search fund entrepreneurs,
           fitness businesses offer a rare combination of recurring membership
           revenue, tangible real estate opportunities, and a highly fragmented
-          ownership landscape &mdash; yet they also present unique operational
+          ownership market, yet they also present unique operational
           risks around member churn, equipment capital expenditure, and lease
           exposure. This playbook covers everything a searcher needs to evaluate,
           acquire, and grow a gym or fitness business through{" "}
@@ -29,13 +29,13 @@ export default function AcquiringGymFitnessArticle() {
           The US fitness industry comprises roughly 40,000 facilities ranging
           from 500-square-foot personal training studios to 100,000-square-foot
           mega-gyms. Membership penetration sits near 20% of the total
-          population &mdash; a figure that has climbed steadily over the past
-          decade and still trails penetration rates in Scandinavia (25&ndash;30%),
+          population, a figure that has climbed steadily over the past
+          decade and still trails penetration rates in Scandinavia (25-30%),
           suggesting room for further growth. The market is bifurcating: large
           budget chains (Planet Fitness, Crunch) dominate the low-price tier,
           while boutique studios and specialized facilities capture the premium
-          end. The middle market &mdash; independent, full-service gyms with
-          $1M&ndash;$10M in revenue &mdash; is where the greatest ETA
+          end. The middle market, independent, full-service gyms with
+          $1M-$10M in revenue, is where the greatest ETA
           opportunity lies, as these businesses are often owner-operated,
           undermanaged, and priced attractively relative to their cash flow
           potential.
@@ -47,12 +47,12 @@ export default function AcquiringGymFitnessArticle() {
         <p>
           Franchise gyms (Anytime Fitness, Orangetheory, F45) offer brand
           recognition, proven operating systems, and corporate marketing
-          support, but they come with franchise fees (typically 5&ndash;8% of
+          support, but they come with franchise fees (typically 5-8% of
           gross revenue), restricted territory, and limited operational
           flexibility. Independent gyms allow full control over pricing,
           programming, and branding, but require the operator to build every
           system from scratch. For ETA purposes, independent gyms typically
-          present better value &mdash; they trade at lower multiples because
+          present better value, they trade at lower multiples because
           they lack the perceived safety of a franchise system, yet a competent
           operator can implement franchise-quality systems without the ongoing
           royalty burden.
@@ -60,14 +60,14 @@ export default function AcquiringGymFitnessArticle() {
 
         <h3 className={h3Class}>Boutique studios</h3>
         <p>
-          Boutique fitness studios &mdash; cycling (SoulCycle-style), yoga,
-          Pilates, barre, and HIIT &mdash; occupy smaller footprints
-          (1,500&ndash;4,000 square feet), charge premium prices
-          ($25&ndash;$40 per class or $150&ndash;$300 per month), and cultivate
+          Boutique fitness studios, cycling (SoulCycle-style), yoga,
+          Pilates, barre, and HIIT, occupy smaller footprints
+          (1,500-4,000 square feet), charge premium prices
+          ($25-$40 per class or $150-$300 per month), and cultivate
           strong community bonds that reduce churn. The unit economics are
           compelling: lower build-out costs, smaller staffing requirements, and
           higher revenue per square foot than traditional gyms. The risk is
-          concentration &mdash; a boutique studio&rsquo;s success often hinges
+          concentration, a boutique studio&rsquo;s success often hinges
           on one or two star instructors, creating significant{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">key-person risk</Link> that
           must be addressed during due diligence and transition planning.
@@ -75,10 +75,10 @@ export default function AcquiringGymFitnessArticle() {
 
         <h3 className={h3Class}>Big-box and full-service gyms</h3>
         <p>
-          Traditional full-service gyms (10,000&ndash;50,000+ square feet) offer
+          Traditional full-service gyms (10,000-50,000+ square feet) offer
           weight rooms, cardio floors, group fitness studios, pools, and
           sometimes childcare, saunas, and basketball courts. These facilities
-          generate $2M&ndash;$15M in annual revenue and serve 2,000&ndash;8,000
+          generate $2M-$15M in annual revenue and serve 2,000-8,000
           members. The capital requirements are higher, but the diversified
           revenue streams (memberships, personal training, group classes,
           retail, ancillary services) create more resilient businesses. Big-box
@@ -94,11 +94,11 @@ export default function AcquiringGymFitnessArticle() {
           Muay Thai, Taekwondo), rock climbing gyms, and personal training
           studios each serve niche communities with passionate, loyal members.
           CrossFit affiliates number over 12,000 worldwide and typically
-          generate $200K&ndash;$800K in revenue with 15&ndash;25% EBITDA
+          generate $200K-$800K in revenue with 15-25% EBITDA
           margins. Martial arts academies often combine youth and adult
           programs, creating diversified enrollment bases with strong retention
-          dynamics &mdash; families tend to stay for years. These specialized
-          facilities trade at lower multiples (3&ndash;5x EBITDA) because
+          dynamics, families tend to stay for years. These specialized
+          facilities trade at lower multiples (3-5x EBITDA) because
           buyers perceive them as dependent on a specific methodology or
           instructor, but that perception often underestimates the stickiness
           of the community.
@@ -110,7 +110,7 @@ export default function AcquiringGymFitnessArticle() {
         <p>
           The membership model is the foundation of fitness business economics.
           Monthly recurring revenue (MRR) from memberships provides
-          predictable cash flow, high gross margins (70&ndash;85% on membership
+          predictable cash flow, high gross margins (70-85% on membership
           dues), and a built-in valuation premium compared to transactional
           businesses. A gym with 3,000 members paying an average of $45 per
           month generates $1.62M in annual membership revenue before personal
@@ -150,12 +150,12 @@ export default function AcquiringGymFitnessArticle() {
         <h3 className={h3Class}>Member churn analysis</h3>
         <p>
           Churn is the single most important metric in fitness. Industry
-          average monthly churn runs 4&ndash;6% for traditional gyms
-          (meaning 50&ndash;70% annual member turnover) and 2&ndash;4% for
+          average monthly churn runs 4-6% for traditional gyms
+          (meaning 50-70% annual member turnover) and 2-4% for
           boutique studios with stronger community ties. During due diligence,
           request a full membership database export with join dates,
           cancellation dates, membership type, and payment history. Calculate
-          monthly and annual churn by cohort &mdash; not just the aggregate
+          monthly and annual churn by cohort, not just the aggregate
           average. Rising cohort churn is a leading indicator of declining
           member satisfaction and often signals facility deterioration,
           programming staleness, or competitive pressure from new entrants.
@@ -169,11 +169,11 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>90-day churn:</strong> The 90-day retention rate is the
             strongest predictor of long-term membership value. Members who
-            survive 90 days typically stay 18&ndash;24 months.
+            survive 90 days typically stay 18-24 months.
           </li>
           <li>
             <strong>Seasonal patterns:</strong> January sign-ups (New Year&rsquo;s
-            resolution members) churn at 2&ndash;3x the rate of members who
+            resolution members) churn at 2-3x the rate of members who
             join in other months. Normalize churn analysis for seasonality.
           </li>
         </ul>
@@ -181,14 +181,14 @@ export default function AcquiringGymFitnessArticle() {
         <h3 className={h3Class}>Equipment age and capital expenditure</h3>
         <p>
           Gym equipment is a depreciating asset with a useful life of
-          5&ndash;10 years depending on type and usage intensity. Cardio
+          5-10 years depending on type and usage intensity. Cardio
           equipment (treadmills, ellipticals, bikes) typically needs
-          replacement every 5&ndash;7 years; strength equipment lasts
-          7&ndash;10 years. During due diligence, create a full equipment
+          replacement every 5-7 years; strength equipment lasts
+          7-10 years. During due diligence, create a full equipment
           inventory with purchase dates, condition assessments, and
           replacement cost estimates. A gym with aging equipment may appear
           to have strong EBITDA because the owner has deferred capital
-          expenditures &mdash; but a $200K&ndash;$500K equipment refresh
+          expenditures, but a $200K-$500K equipment refresh
           may be imminent. Adjust your valuation accordingly and negotiate
           seller credits for deferred maintenance.
         </p>
@@ -196,7 +196,7 @@ export default function AcquiringGymFitnessArticle() {
         <h3 className={h3Class}>Lease terms and occupancy cost</h3>
         <p>
           Real estate is typically the largest fixed cost for a gym, representing
-          15&ndash;25% of gross revenue. Critical lease due diligence items
+          15-25% of gross revenue. Critical lease due diligence items
           include:
         </p>
         <ul className={ulClass}>
@@ -220,14 +220,14 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Triple-net (NNN) obligations:</strong> Understand the full
             occupancy cost including base rent, common area maintenance (CAM),
-            property taxes, and insurance. NNN charges can add 20&ndash;40%
+            property taxes, and insurance. NNN charges can add 20-40%
             on top of base rent.
           </li>
         </ul>
 
         <h3 className={h3Class}>Personal trainer dependency</h3>
         <p>
-          Personal training revenue typically represents 20&ndash;35% of a
+          Personal training revenue typically represents 20-35% of a
           gym&rsquo;s total revenue. In boutique and specialized facilities,
           it can exceed 50%. The risk is that this revenue is often
           concentrated among a small number of popular trainers who maintain
@@ -250,15 +250,15 @@ export default function AcquiringGymFitnessArticle() {
           classes tend to have stronger communities and lower churn, but
           they also carry higher instructor payroll costs and scheduling
           complexity. Evaluate class utilization rates (average attendance
-          divided by capacity) &mdash; best-in-class studios maintain
-          70&ndash;85% utilization during peak hours. Classes running below
+          divided by capacity), best-in-class studios maintain
+          70-85% utilization during peak hours. Classes running below
           50% utilization represent either a scheduling optimization
           opportunity or evidence of declining demand for that format.
         </p>
 
         <h2 className={h2Class}>Valuation benchmarks</h2>
         <p>
-          Fitness businesses typically trade at 4&ndash;7x EBITDA, with the
+          Fitness businesses typically trade at 4-7x EBITDA, with the
           range determined by size, growth trajectory, lease quality, and
           the mix between recurring membership revenue and transactional
           revenue. Key valuation considerations include:
@@ -267,23 +267,23 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Revenue per square foot:</strong> The primary efficiency
             metric for fitness facilities. Boutique studios generate
-            $80&ndash;$150 per square foot annually; full-service gyms
-            generate $30&ndash;$60 per square foot. A gym significantly
+            $80-$150 per square foot annually; full-service gyms
+            generate $30-$60 per square foot. A gym significantly
             below these benchmarks has either a utilization problem or a
-            pricing problem &mdash; both of which represent upside for a
+            pricing problem, both of which represent upside for a
             capable operator.
           </li>
           <li>
             <strong>Revenue per member:</strong> Total annual revenue divided
             by average active membership. For a full-service gym, this should
-            be $600&ndash;$1,200 per member per year. Higher figures indicate
+            be $600-$1,200 per member per year. Higher figures indicate
             successful ancillary revenue generation (personal training, retail,
             supplements, spa services).
           </li>
           <li>
             <strong>EBITDA margins:</strong> Well-run independent gyms produce
-            15&ndash;25% EBITDA margins. Boutique studios can achieve
-            25&ndash;35%. Margins below 10% signal either mismanagement or
+            15-25% EBITDA margins. Boutique studios can achieve
+            25-35%. Margins below 10% signal either mismanagement or
             structural cost problems (typically an unfavorable lease).
           </li>
           <li>
@@ -328,7 +328,7 @@ export default function AcquiringGymFitnessArticle() {
           The first 90 days after acquisition are critical. Members are
           sensitive to ownership changes and will watch closely for any
           deterioration in their experience. Resist the urge to make
-          visible changes immediately. Instead, focus on listening &mdash;
+          visible changes immediately. Instead, focus on listening , 
           survey members, attend classes, spend time on the floor, and
           identify the elements of the experience that members value most.
           Only after understanding what drives loyalty should you begin
@@ -375,7 +375,7 @@ export default function AcquiringGymFitnessArticle() {
 
         <h3 className={h3Class}>Ancillary revenue streams</h3>
         <p>
-          Top-performing fitness businesses generate 25&ndash;40% of total
+          Top-performing fitness businesses generate 25-40% of total
           revenue from sources beyond base membership dues. These ancillary
           streams typically carry higher margins than memberships and deepen
           member engagement, reducing churn. Our{" "}
@@ -391,9 +391,9 @@ export default function AcquiringGymFitnessArticle() {
           </li>
           <li>
             <strong>Retail and supplements:</strong> Protein shakes, apparel,
-            and accessories generate 60&ndash;70% gross margins with minimal
+            and accessories generate 60-70% gross margins with minimal
             labor cost. A well-positioned retail area near the front desk or
-            smoothie bar can generate $5K&ndash;$15K per month.
+            smoothie bar can generate $5K-$15K per month.
           </li>
           <li>
             <strong>Childcare services:</strong> On-site childcare removes a
@@ -426,7 +426,7 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Shared overhead:</strong> Accounting, marketing, HR, and
             technology costs are spread across multiple locations, improving
-            per-unit margins by 3&ndash;8 percentage points.
+            per-unit margins by 3-8 percentage points.
           </li>
           <li>
             <strong>Purchasing power:</strong> Equipment vendors, supplement
@@ -447,15 +447,15 @@ export default function AcquiringGymFitnessArticle() {
           </li>
           <li>
             <strong>Multiple arbitrage:</strong> Single-location gyms trade at
-            4&ndash;5x EBITDA. Multi-location platforms with $3M+ EBITDA can
-            command 6&ndash;9x from strategic buyers and private equity firms,
+            4-5x EBITDA. Multi-location platforms with $3M+ EBITDA can
+            command 6-9x from strategic buyers and private equity firms,
             creating significant value through consolidation alone.
           </li>
         </ul>
 
         <h3 className={h3Class}>Technology and app integration</h3>
         <p>
-          Modern gym management requires a robust technology stack that
+          Modern gym management requires a strong technology stack that
           enhances the member experience and provides the operator with
           actionable data. Key technology investments include:
         </p>
@@ -472,15 +472,15 @@ export default function AcquiringGymFitnessArticle() {
             that allows members to book classes, track workouts, view
             schedules, and manage their membership increases engagement and
             reduces front-desk administrative burden. Members who use the
-            gym&rsquo;s app visit 30&ndash;40% more frequently and churn at
+            gym&rsquo;s app visit 30-40% more frequently and churn at
             half the rate of non-app users.
           </li>
           <li>
             <strong>Access control:</strong> Keycard or app-based entry
             systems enable 24/7 access without staffing costs, opening a
             revenue window that traditional staffed-hours-only gyms miss
-            entirely. The capital cost ($10K&ndash;$30K) typically pays for
-            itself within 6&ndash;12 months through membership upgrades
+            entirely. The capital cost ($10K-$30K) typically pays for
+            itself within 6-12 months through membership upgrades
             and new member acquisition.
           </li>
           <li>
@@ -503,7 +503,7 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Ignoring deferred CapEx:</strong> Sellers who plan to
             exit often reduce equipment maintenance and facility upkeep
-            spending in the 12&ndash;24 months before sale. Always
+            spending in the 12-24 months before sale. Always
             commission an independent equipment condition assessment.
           </li>
           <li>
@@ -522,14 +522,14 @@ export default function AcquiringGymFitnessArticle() {
           <li>
             <strong>Competitor blind spots:</strong> A new boutique studio
             or budget gym opening within a 5-mile radius can meaningfully
-            impact membership. Map the competitive landscape thoroughly
+            impact membership. Map the competitive environment thoroughly
             and monitor commercial real estate activity in the trade area.
           </li>
         </ul>
 
         <h2 className={h2Class}>Financial model considerations</h2>
         <p>
-          Building a robust financial model for a gym acquisition requires
+          Building a strong financial model for a gym acquisition requires
           attention to several fitness-specific dynamics:
         </p>
         <ol className={olClass}>
@@ -540,26 +540,26 @@ export default function AcquiringGymFitnessArticle() {
             by tenure cohort.
           </li>
           <li>
-            <strong>CapEx reserve:</strong> Budget 3&ndash;5% of revenue
+            <strong>CapEx reserve:</strong> Budget 3-5% of revenue
             annually for equipment replacement and facility maintenance.
             Many gym owners spend less than this, creating a ticking
             capital expenditure bomb for the acquirer.
           </li>
           <li>
             <strong>Seasonality:</strong> Fitness businesses are
-            seasonal &mdash; revenue peaks in January&ndash;March and
-            September&ndash;October, with troughs in summer and the
+            seasonal, revenue peaks in January-March and
+            September-October, with troughs in summer and the
             holiday season. Model cash flow monthly, not annually, to
             capture working capital needs during low months.
           </li>
           <li>
             <strong>Labor model:</strong> Staff costs (trainers, front
-            desk, cleaning, management) typically represent 35&ndash;45%
+            desk, cleaning, management) typically represent 35-45%
             of revenue. Model staffing by role and by location if pursuing
             a multi-unit strategy.
           </li>
           <li>
-            <strong>Marketing spend:</strong> Budget 5&ndash;10% of revenue
+            <strong>Marketing spend:</strong> Budget 5-10% of revenue
             for marketing, weighted toward digital channels (Google Ads,
             social media, referral programs). Track cost per lead, cost per
             trial, and cost per new member to optimize spend allocation.
@@ -580,10 +580,33 @@ export default function AcquiringGymFitnessArticle() {
           development and programming diversification. For searchers who
           get these fundamentals right, a single-location gym acquisition
           can evolve into a multi-location platform with meaningful scale
-          advantages and attractive exit multiples &mdash; a textbook
+          advantages and attractive exit multiples, a textbook
           example of the value creation that makes ETA such a powerful
           model for entrepreneurial wealth building.
         </p>
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do gym and fitness businesses typically trade at?</h3>
+        <p>
+          Fitness businesses typically trade at 4-7x EBITDA, with the range determined by size, growth trajectory, lease quality, and the mix between recurring membership revenue and transactional revenue. Single-location independent gyms generally command 4-5x EBITDA, while multi-location platforms with $3M+ EBITDA can reach 6-9x from strategic buyers and private equity firms. Specialized facilities like CrossFit affiliates and martial arts academies often trade at the lower end (3-5x) because buyers perceive higher dependency on specific methodologies or instructors, according to IHRSA industry benchmark data.
+        </p>
+
+        <h3 className={h3Class}>What is the most important metric to evaluate when buying a gym?</h3>
+        <p>
+          Monthly member churn is the single most important metric in fitness acquisitions. Industry average monthly churn runs 4-6% for traditional gyms (meaning 50-70% annual member turnover) and 2-4% for boutique studios with stronger community ties. During due diligence, request a full membership database export and calculate churn by cohort, not just the aggregate average. Rising cohort churn is a leading indicator of declining member satisfaction and often signals facility deterioration or competitive pressure. Members who survive their first 90 days typically stay 18-24 months, making the 90-day retention rate the strongest predictor of long-term membership value.
+        </p>
+
+        <h3 className={h3Class}>How much should I budget for equipment replacement after acquiring a gym?</h3>
+        <p>
+          Budget 3-5% of revenue annually for equipment replacement and facility maintenance as an ongoing CapEx reserve. Cardio equipment typically needs replacement every 5-7 years and strength equipment lasts 7-10 years. Many sellers defer equipment maintenance in the 12-24 months before sale to maximize EBITDA, so an immediate $200K-$500K equipment refresh may be required. Always commission an independent equipment condition assessment during due diligence, create a full inventory with purchase dates, and adjust your valuation accordingly by negotiating seller credits for deferred maintenance.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>IHRSA (International Health, Racquet &amp; Sportsclub Association), <em>Global Report on the State of the Health Club Industry</em> (2024)</li>
+          <li>IBISWorld, <em>Gym, Health &amp; Fitness Clubs in the US, Market Size and Industry Statistics</em> (2024)</li>
+          <li>Club Intel, <em>International Fitness Industry Trend Report</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

@@ -12,10 +12,10 @@ export default function TaxPlanningSellersArticle() {
       <div className={bodyClass}>
         <p>
           Selling your business is likely the largest financial transaction
-          of your life &mdash; and without proper tax planning, you could
-          lose 25&ndash;45% of the proceeds to taxes. The good news: with
-          18&ndash;24 months of advance planning, many sellers legally
-          reduce their effective tax rate to 10&ndash;20% or even 0%.
+          of your life, and without proper tax planning, you could
+          lose 25-45% of the proceeds to taxes. The good news: with
+          18-24 months of advance planning, many sellers legally
+          reduce their effective tax rate to 10-20% or even 0%.
           This guide covers the key strategies by country.
         </p>
 
@@ -36,7 +36,7 @@ export default function TaxPlanningSellersArticle() {
         <ul className={ulClass}>
           <li><strong>Stock sale:</strong> Seller pays capital gains rate (20% federal + 3.8% NIIT + state). Preferred by most sellers</li>
           <li><strong>Asset sale:</strong> Can trigger double taxation for C-Corp sellers (corporate tax + personal tax on distribution). Buyers prefer asset sales for the step-up in basis</li>
-          <li><strong>338(h)(10) election:</strong> Treats a stock sale as an asset sale for tax purposes &mdash; giving the buyer the tax benefits while preserving stock sale treatment for the seller</li>
+          <li><strong>338(h)(10) election:</strong> Treats a stock sale as an asset sale for tax purposes, giving the buyer the tax benefits while preserving stock sale treatment for the seller</li>
           <li><strong>See:</strong>{" "}
             <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">
               APA vs. SPA comparison
@@ -57,7 +57,7 @@ export default function TaxPlanningSellersArticle() {
         <h3 className={h3Class}>Opportunity Zone deferral</h3>
         <ul className={ulClass}>
           <li>Invest capital gains into a Qualified Opportunity Fund within 180 days</li>
-          <li>Defer tax on the original gain and potentially reduce it by 10&ndash;15%</li>
+          <li>Defer tax on the original gain and potentially reduce it by 10-15%</li>
           <li>Gains on the Opportunity Zone investment held 10+ years are tax-free</li>
         </ul>
 
@@ -91,7 +91,7 @@ export default function TaxPlanningSellersArticle() {
 
         <h2 className={h2Class}>General strategies (all countries)</h2>
         <ul className={ulClass}>
-          <li><strong>Start early:</strong> Most tax optimization strategies require 12&ndash;24 months of advance planning</li>
+          <li><strong>Start early:</strong> Most tax optimization strategies require 12-24 months of advance planning</li>
           <li><strong>Entity restructuring:</strong> Moving from one entity type to another (e.g., S-Corp to C-Corp for QSBS, or creating a holding company) takes time and must be done well before the sale</li>
           <li><strong>Charitable giving:</strong> Donating appreciated shares to a donor-advised fund or charity before the sale eliminates CGT on the donated portion and provides a charitable deduction</li>
           <li><strong>Estate planning:</strong> Gifting shares to family members in lower tax brackets before the sale can reduce the overall tax burden</li>
@@ -107,7 +107,53 @@ export default function TaxPlanningSellersArticle() {
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">
             tax optimization strategies
           </Link>{" "}
-          for buyers, see our related guides.
+          for buyers, see our related guides. You should also read our{" "}
+          <Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">
+            succession planning roadmap
+          </Link>{" "}
+          and{" "}
+          <Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">
+            business sale preparation guide
+          </Link>{" "}
+          to align tax planning with your broader exit strategy.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How far in advance should I start tax planning before selling my business?</h3>
+        <p>
+          Ideally 18-24 months, though some strategies require even
+          longer. QSBS (Section 1202) requires a 5-year holding period in
+          a C-Corp. The French Dutreil pact requires a 2-year collective
+          commitment before transfer. Entity restructuring (e.g., converting
+          from an S-Corp to a C-Corp) also takes time and may have tax
+          consequences of its own. The earlier you start, the more tools are
+          available.
+        </p>
+
+        <h3 className={h3Class}>Is an asset sale or stock sale better for the seller?</h3>
+        <p>
+          In most cases, sellers prefer a stock sale because it is taxed
+          entirely at the lower capital gains rate. Asset sales can trigger
+          double taxation for C-Corp sellers and often result in a portion
+          of the gain being taxed as ordinary income (due to depreciation
+          recapture). However, buyers strongly prefer asset sales for the
+          tax step-up, so the negotiation often involves the buyer paying
+          a higher purchase price to compensate the seller for the
+          additional tax burden.
+        </p>
+
+        <h3 className={h3Class}>Can seller financing reduce my tax bill?</h3>
+        <p>
+          Yes. Under Section 453 (installment sale rules in the US), you
+          report and pay tax on the gain proportionally as you receive
+          payments, rather than all at once. This can keep your income in
+          lower tax brackets each year, reducing your effective rate.{" "}
+          <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">
+            Seller financing
+          </Link>{" "}
+          also makes your business more attractive to buyers, potentially
+          resulting in a higher overall sale price.
         </p>
       </div>
     </article>

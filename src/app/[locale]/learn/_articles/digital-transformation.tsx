@@ -10,18 +10,18 @@ export default function DigitalTransformationArticle() {
       <div className={bodyClass}>
         <p>
           Most search fund acquisitions target small and mid-sized businesses
-          that have been operating successfully for decades &mdash; often with
+          that have been operating successfully for decades, often with
           minimal technology investment. The previous owner ran the company on
           spreadsheets, handshakes, and institutional memory. As the new CEO,
           you inherit a business that works but lacks the digital infrastructure
           to scale. A thoughtful digital transformation can unlock enormous
           value: better data for decision-making, improved customer experience,
           streamlined operations, and ultimately higher margins and growth.
-          But getting it wrong &mdash; moving too fast, spending too much, or
-          choosing the wrong tools &mdash; can be equally destructive.
+          But getting it wrong, moving too fast, spending too much, or
+          choosing the wrong tools, can be equally destructive.
         </p>
 
-        <h2 className={h2Class}>Assessing the current technology landscape</h2>
+        <h2 className={h2Class}>Assessing the current technology market</h2>
         <p>
           Before you invest a dollar in new technology, you need to understand
           what you are working with. During your{" "}
@@ -34,7 +34,7 @@ export default function DigitalTransformationArticle() {
           <li>
             <strong>Excel-based operations.</strong> The most common scenario.
             Pricing, scheduling, inventory tracking, customer lists, and
-            financial reporting all live in spreadsheets &mdash; often on one
+            financial reporting all live in spreadsheets, often on one
             person&apos;s desktop. There is no version control, no backup
             strategy, and critical business logic is embedded in formulas that
             only the creator understands.
@@ -54,8 +54,8 @@ export default function DigitalTransformationArticle() {
           </li>
           <li>
             <strong>Siloed point solutions.</strong> The business has adopted
-            individual tools over the years &mdash; one for email marketing,
-            another for scheduling, a third for invoicing &mdash; but none of
+            individual tools over the years, one for email marketing,
+            another for scheduling, a third for invoicing, but none of
             them talk to each other. Data is duplicated, inconsistent, and
             incomplete.
           </li>
@@ -101,7 +101,7 @@ export default function DigitalTransformationArticle() {
           <li>
             <strong>HubSpot CRM.</strong> The free tier is genuinely useful for
             small teams. It offers contact management, deal tracking, email
-            integration, and basic reporting. The paid tiers ($45&ndash;$1,200
+            integration, and basic reporting. The paid tiers ($45-$1,200
             per month) add marketing automation, custom reporting, and sales
             sequences. HubSpot is the best choice for businesses that need a
             CRM and marketing platform in one.
@@ -109,14 +109,14 @@ export default function DigitalTransformationArticle() {
           <li>
             <strong>Salesforce.</strong> The industry standard but often overkill
             for SMEs with fewer than 20 salespeople. Implementation costs are
-            significant ($20K&ndash;$100K with a consultant), and the learning
+            significant ($20K-$100K with a consultant), and the learning
             curve is steep. Consider Salesforce only if you plan to scale the
             sales team aggressively or need deep customization.
           </li>
           <li>
             <strong>Pipedrive.</strong> Purpose-built for small sales teams.
             Simple, visual pipeline management with minimal setup. At
-            $15&ndash;$99 per user per month, it offers strong value. Ideal for
+            $15-$99 per user per month, it offers strong value. Ideal for
             businesses with a straightforward, deal-based sales process.
           </li>
         </ul>
@@ -176,10 +176,10 @@ export default function DigitalTransformationArticle() {
         <ul className={ulClass}>
           <li>
             <strong>NetSuite.</strong> The leading cloud ERP for mid-market
-            businesses. Comprehensive functionality, strong financial reporting,
+            businesses. Thorough functionality, strong financial reporting,
             and a large ecosystem of consultants. Annual costs typically range
             from $30K to $100K+ depending on modules and user count.
-            Implementation takes 3&ndash;6 months and costs $50K&ndash;$200K.
+            Implementation takes 3-6 months and costs $50K-$200K.
           </li>
           <li>
             <strong>SAP Business One.</strong> A lighter version of SAP designed
@@ -191,7 +191,7 @@ export default function DigitalTransformationArticle() {
             <strong>Odoo.</strong> An open-source ERP with a modular design.
             You can start with accounting and inventory and add modules as
             needed. The community edition is free; the enterprise edition
-            costs $7&ndash;$25 per user per month. Odoo is a strong choice for
+            costs $7-$25 per user per month. Odoo is a strong choice for
             cost-conscious buyers, but quality implementation partners can be
             harder to find.
           </li>
@@ -222,8 +222,8 @@ export default function DigitalTransformationArticle() {
             capacity.
           </li>
           <li>
-            Start with a limited product catalog &mdash; your top 20&ndash;50
-            products &mdash; and expand based on demand.
+            Start with a limited product catalog, your top 20-50
+            products, and expand based on demand.
           </li>
         </ul>
 
@@ -249,7 +249,7 @@ export default function DigitalTransformationArticle() {
           <li>
             <strong>Customer analytics:</strong> segment customers by revenue,
             margin, and lifetime value. You will often discover that 20% of
-            customers generate 80% of profits &mdash; and that some customers
+            customers generate 80% of profits, and that some customers
             are actually unprofitable.
           </li>
           <li>
@@ -271,14 +271,14 @@ export default function DigitalTransformationArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Multi-factor authentication (MFA).</strong> Enable MFA on
-            every business account &mdash; email, banking, CRM, ERP, and any
+            every business account, email, banking, CRM, ERP, and any
             system with sensitive data. This single step prevents the majority
             of credential-based attacks.
           </li>
           <li>
             <strong>Endpoint protection.</strong> Install managed antivirus and
             endpoint detection on all company devices. Solutions like
-            CrowdStrike Falcon Go or SentinelOne start at $5&ndash;$10 per
+            CrowdStrike Falcon Go or SentinelOne start at $5-$10 per
             endpoint per month.
           </li>
           <li>
@@ -294,7 +294,7 @@ export default function DigitalTransformationArticle() {
           </li>
           <li>
             <strong>Cyber insurance.</strong> A standalone cyber insurance
-            policy costs $1,000&ndash;$5,000 per year for most SMEs and covers
+            policy costs $1,000-$5,000 per year for most SMEs and covers
             breach response costs, legal fees, and business interruption.
           </li>
         </ul>
@@ -308,20 +308,20 @@ export default function DigitalTransformationArticle() {
         <h3 className={h3Class}>Budget ranges by business size</h3>
         <ul className={ulClass}>
           <li>
-            <strong>$1M&ndash;$5M revenue businesses:</strong> expect to invest
-            $50K&ndash;$150K over 12&ndash;18 months. This covers a CRM, basic
+            <strong>$1M-$5M revenue businesses:</strong> expect to invest
+            $50K-$150K over 12-18 months. This covers a CRM, basic
             cybersecurity, upgraded accounting software, and a simple website
             or e-commerce presence.
           </li>
           <li>
-            <strong>$5M&ndash;$20M revenue businesses:</strong> budget
-            $150K&ndash;$350K over 18&ndash;24 months. This includes a CRM,
+            <strong>$5M-$20M revenue businesses:</strong> budget
+            $150K-$350K over 18-24 months. This includes a CRM,
             ERP implementation, business intelligence tools, cybersecurity
             improvements, and potentially an e-commerce channel.
           </li>
           <li>
-            <strong>$20M+ revenue businesses:</strong> plan for $300K&ndash;$500K
-            or more over 18&ndash;24 months. At this scale, you may need a full
+            <strong>$20M+ revenue businesses:</strong> plan for $300K-$500K
+            or more over 18-24 months. At this scale, you may need a full
             ERP implementation, custom integrations, advanced analytics, and
             dedicated IT staff.
           </li>
@@ -330,19 +330,19 @@ export default function DigitalTransformationArticle() {
         <h3 className={h3Class}>Typical timeline</h3>
         <ul className={ulClass}>
           <li>
-            <strong>Months 1&ndash;3:</strong> technology audit, vendor
+            <strong>Months 1-3:</strong> technology audit, vendor
             evaluation, and quick wins (MFA, backups, basic cybersecurity).
           </li>
           <li>
-            <strong>Months 3&ndash;6:</strong> CRM implementation and adoption,
+            <strong>Months 3-6:</strong> CRM implementation and adoption,
             upgraded financial reporting, and website improvements.
           </li>
           <li>
-            <strong>Months 6&ndash;12:</strong> ERP implementation (if needed),
+            <strong>Months 6-12:</strong> ERP implementation (if needed),
             e-commerce launch, and business intelligence dashboards.
           </li>
           <li>
-            <strong>Months 12&ndash;24:</strong> advanced analytics,
+            <strong>Months 12-24:</strong> advanced analytics,
             process automation, system integrations, and continuous improvement.
           </li>
         </ul>
@@ -352,7 +352,7 @@ export default function DigitalTransformationArticle() {
           Technology implementation fails far more often because of people than
           because of software. Employees who have been doing things the same way
           for ten or twenty years will resist change, especially when the new
-          CEO &mdash; someone they may not fully trust yet &mdash; is driving
+          CEO, someone they may not fully trust yet, is driving
           it. Change management is not optional; it is the most important
           part of digital transformation.
         </p>
@@ -369,13 +369,13 @@ export default function DigitalTransformationArticle() {
             create.
           </li>
           <li>
-            <strong>Invest in training.</strong> Budget 15&ndash;20% of your
+            <strong>Invest in training.</strong> Budget 15-20% of your
             technology spend on training. Schedule multiple sessions, create
             written guides, and designate &ldquo;super users&rdquo; in each
             department who can help colleagues.
           </li>
           <li>
-            <strong>Expect a productivity dip.</strong> For 4&ndash;8 weeks
+            <strong>Expect a productivity dip.</strong> For 4-8 weeks
             after a major system change, productivity will drop as employees
             learn new tools. Plan for this and do not lose patience.
           </li>
@@ -405,9 +405,9 @@ export default function DigitalTransformationArticle() {
             employee requests.
           </li>
           <li>
-            Set up basic financial dashboards — including{" "}
+            Set up basic financial dashboards - including{" "}
             <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital metrics</Link>{" "}
-            — using data from your existing accounting system.
+            - using data from your existing accounting system.
           </li>
           <li>
             Clean up the company website: update contact information, improve
@@ -415,7 +415,7 @@ export default function DigitalTransformationArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Long-term projects (6&ndash;24 months)</h3>
+        <h3 className={h3Class}>Long-term projects (6-24 months)</h3>
         <ul className={ulClass}>
           <li>Full CRM implementation with sales process redesign.</li>
           <li>ERP migration from legacy systems.</li>
@@ -459,7 +459,7 @@ export default function DigitalTransformationArticle() {
           Most search fund businesses cannot justify a full-time CTO or VP of
           Technology, but they desperately need senior technology leadership.
           A fractional CTO fills this gap, providing strategic guidance for
-          8&ndash;20 hours per month at a fraction of the cost of a full-time
+          8-20 hours per month at a fraction of the cost of a full-time
           hire.
         </p>
         <ul className={ulClass}>
@@ -470,9 +470,9 @@ export default function DigitalTransformationArticle() {
             (if any).
           </li>
           <li>
-            <strong>What they cost:</strong> $3,000&ndash;$10,000 per month for
+            <strong>What they cost:</strong> $3,000-$10,000 per month for
             part-time engagement, depending on experience and hours. This is
-            far less than a full-time CTO salary of $150K&ndash;$250K.
+            far less than a full-time CTO salary of $150K-$250K.
           </li>
           <li>
             <strong>How to find one:</strong> search fund networks, LinkedIn,
@@ -482,7 +482,7 @@ export default function DigitalTransformationArticle() {
           </li>
           <li>
             <strong>When to transition:</strong> once the core transformation is
-            complete (typically 12&ndash;18 months), you may reduce the
+            complete (typically 12-18 months), you may reduce the
             fractional CTO&apos;s hours or hire a full-time IT manager to handle
             ongoing operations.
           </li>
@@ -497,6 +497,34 @@ export default function DigitalTransformationArticle() {
           this right create a durable competitive advantage that compounds
           over years.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How much should I budget for digital transformation in an acquired SME?</h3>
+        <p>
+          Budgets scale with business size. According to McKinsey&rsquo;s research on SME digital transformation, businesses with $1M-$5M in revenue should expect to invest $50K-$150K over 12-18 months, covering a CRM, basic{" "}
+          <Link href="/learn/cybersecurity-for-acquired-businesses" className="text-apple-accent hover:underline">cybersecurity</Link>,
+          upgraded accounting software, and a website or e-commerce presence. Businesses with $5M-$20M in revenue should budget $150K-$350K over 18-24 months for a CRM,{" "}
+          <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">ERP implementation</Link>,
+          business intelligence tools, and cybersecurity improvements. Businesses above $20M should plan for $300K-$500K or more. Critically, allocate 15-20% of your technology spend on training and change management, technology fails far more often because of people resistance than software defects.
+        </p>
+
+        <h3 className={h3Class}>Should I implement a CRM or ERP first?</h3>
+        <p>
+          Almost always start with a CRM. According to Gartner&rsquo;s SME technology adoption research, CRM implementations have a 70-80% success rate compared to 40-50% for ERP projects, because CRMs are simpler to deploy, less disruptive to daily operations, and deliver visible ROI faster. A CRM gives you immediate visibility into the sales pipeline, customer relationships, and revenue opportunities that previously existed only in the heads of salespeople. It is also the foundation for data-driven sales management. ERP is a bigger investment ($100K-$250K+ for a mid-market platform) and a bigger disruption, wait until you have deep understanding of the business processes (typically 6-12 months after closing) before committing to an ERP migration.
+        </p>
+
+        <h3 className={h3Class}>How do I get employees to adopt new technology systems?</h3>
+        <p>
+          According to Prosci&rsquo;s research on change management in technology implementations, the three critical success factors are: executive sponsorship (visible CEO commitment), early employee involvement (include key users in vendor selection and system design), and adequate training (budget 15-20% of your technology spend). Expect a productivity dip of 4-8 weeks after any major system change as employees learn new tools. Make adoption mandatory from day one, if salespeople can choose whether to use the CRM, they will not. Tie compensation and reporting to system data, designate &ldquo;super users&rdquo; in each department who receive advanced training, and celebrate early adopters publicly. The most common failure mode is announcing new software without explaining why it matters or how it will make employees&rsquo; jobs easier.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company &mdash; <em>Digital Transformation in SMEs: Budgets, Timelines, and Success Factors</em>. Research on technology investment benchmarks, ROI patterns, and implementation best practices for small and mid-sized businesses.</li>
+          <li>Gartner &mdash; <em>SME Technology Adoption Benchmarks</em>, 2024. CRM vs. ERP implementation success rates, technology spending benchmarks, and vendor selection guidance for businesses under $50M in revenue.</li>
+          <li>Prosci &mdash; <em>Best Practices in Change Management</em>, 12th edition. Research-backed framework for managing organizational change during technology implementations, including adoption drivers and resistance patterns.</li>
+        </ul>
       </div>
     </article>
   );

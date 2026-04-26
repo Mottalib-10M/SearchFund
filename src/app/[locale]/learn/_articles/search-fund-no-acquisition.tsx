@@ -7,7 +7,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h1 className={h1Class}>What Happens If a Searcher Doesn&apos;t Find a Company?</h1>
 
       <p className={bodyClass}>
-        Not every search fund story ends with a successful acquisition. While the entrepreneurship through acquisition (ETA) model has produced impressive returns for many searchers and investors, the reality is that a significant portion of search funds never complete an acquisition. Understanding what happens when a search fails is crucial for anyone considering the ETA path—whether as a searcher or investor.
+        Not every search fund story ends with a successful acquisition. While the entrepreneurship through acquisition (ETA) model has produced impressive returns for many searchers and investors, the reality is that a significant portion of search funds never complete an acquisition. Understanding what happens when a search fails is critical for anyone considering the ETA path - whether as a searcher or investor.
       </p>
 
       <p className={bodyClass}>
@@ -29,11 +29,11 @@ export default function SearchFundNoAcquisitionArticle() {
         <li>33% wind down without completing an acquisition</li>
         <li>Self-funded searches have a slightly higher success rate (around 70-75%), likely due to greater flexibility in deal terms and timeline</li>
         <li>Searches that raise capital from experienced search fund investors have better acquisition rates than those with first-time investors</li>
-        <li>Geographic markets matter—searchers in competitive markets like California and New York face more challenges than those in secondary markets</li>
+        <li>Geographic markets matter - searchers in competitive markets like California and New York face more challenges than those in secondary markets</li>
       </ul>
 
       <p className={bodyClass}>
-        These statistics underscore an important reality: even with strong credentials, dedicated effort, and investor backing, there&apos;s no guarantee of acquisition. The search fund model is inherently risky, and searchers must enter with realistic expectations about the possibility of failure.
+        These statistics highlight an important reality: even with strong credentials, dedicated effort, and investor backing, there&apos;s no guarantee of acquisition. The search fund model is inherently risky, and searchers must enter with realistic expectations about the possibility of failure.
       </p>
 
       <h2 className={h2Class}>Common Reasons Searches Fail</h2>
@@ -45,7 +45,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>1. Deal Flow Challenges</h3>
 
       <p className={bodyClass}>
-        Many searchers struggle to generate sufficient quality deal flow. Despite contacting hundreds or thousands of business owners, finding businesses that meet search fund criteria (stable cash flow, growth potential, motivated seller, reasonable valuation) proves more difficult than anticipated. Competitive markets, broker concentration, and the general opacity of the lower middle market all contribute to deal flow challenges.
+        Many searchers struggle to generate sufficient quality deal flow. Despite contacting hundreds or thousands of business owners, finding businesses that meet search fund criteria (stable cash flow, growth potential, motivated seller, reasonable valuation) proves more difficult than anticipated. Competitive markets, broker concentration, and the general opacity of the lower middle market all contribute to deal flow challenges. Building a <Link href="/learn/proprietary-deal-flow" className="text-apple-accent hover:underline">proprietary deal sourcing strategy</Link> before launching can significantly improve your odds.
       </p>
 
       <h3 className={h3Class}>2. Inability to Close Deals</h3>
@@ -55,17 +55,17 @@ export default function SearchFundNoAcquisitionArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Valuation gaps—sellers&apos; expectations exceed what the searcher and investors are willing to pay</li>
-        <li>Financing contingencies—inability to secure debt financing at favorable terms</li>
-        <li>Due diligence discoveries—issues uncovered during diligence that make the deal unviable</li>
-        <li>Seller hesitation—owners get cold feet or decide to remain in the business</li>
-        <li>Competitive bids—strategic buyers or private equity firms outbid the searcher</li>
+        <li>Valuation gaps - sellers&apos; expectations exceed what the searcher and investors are willing to pay</li>
+        <li>Financing contingencies - inability to secure debt financing at favorable terms</li>
+        <li>Due diligence discoveries - issues uncovered during diligence that make the deal unviable</li>
+        <li>Seller hesitation - owners get cold feet or decide to remain in the business</li>
+        <li>Competitive bids - strategic buyers or private equity firms outbid the searcher</li>
       </ul>
 
       <h3 className={h3Class}>3. Searcher Burnout and Personal Circumstances</h3>
 
       <p className={bodyClass}>
-        The search process is grueling, often lasting 18-24 months or longer. The psychological toll of constant rejection, financial stress from living on a modest stipend, and personal life disruptions (relationship strain, family considerations, opportunity costs) lead some searchers to abandon the search before finding a company.
+        The search process is grueling, often lasting 18-24 months or longer. The psychological toll of constant rejection, financial stress from living on a modest stipend, and personal life disruptions (relationship strain, family considerations, opportunity costs) lead some searchers to abandon the search before finding a company. Understanding <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">the psychology of being a searcher</Link> and building resilience practices early can help prevent burnout.
       </p>
 
       <h3 className={h3Class}>4. Market Timing and Economic Conditions</h3>
@@ -77,7 +77,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>5. Investor Dynamics</h3>
 
       <p className={bodyClass}>
-        Conflicts with investors—disagreements over deal quality, valuation, or searcher fit—can derail otherwise viable transactions. Searchers who struggle to maintain investor confidence or who face pressure to close deals that aren&apos;t ideal may find themselves without support at critical moments.
+        Conflicts with investors - disagreements over deal quality, valuation, or searcher fit - can derail otherwise viable transactions. Searchers who struggle to maintain investor confidence or who face pressure to close deals that aren&apos;t ideal may find themselves without support at critical moments.
       </p>
 
       <h3 className={h3Class}>6. Searcher-Market Mismatch</h3>
@@ -125,10 +125,10 @@ export default function SearchFundNoAcquisitionArticle() {
       </p>
 
       <ul className={ulClass}>
-        <li>Resume gap—time away from traditional employment that may be difficult to explain</li>
-        <li>Network atrophy—reduced contact with former colleagues and industry connections</li>
-        <li>Skill obsolescence—particularly in fast-moving industries like technology</li>
-        <li>Psychological toll—the emotional impact of perceived failure</li>
+        <li>Resume gap - time away from traditional employment that may be difficult to explain</li>
+        <li>Network atrophy - reduced contact with former colleagues and industry connections</li>
+        <li>Skill obsolescence - particularly in fast-moving industries like technology</li>
+        <li>Psychological toll - the emotional impact of perceived failure</li>
       </ul>
 
       <h2 className={h2Class}>Impact on Investors</h2>
@@ -140,7 +140,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>Financial Loss</h3>
 
       <p className={bodyClass}>
-        Traditional search fund investors typically contribute $25,000-$75,000 to fund the search phase. When a search fails, this capital is entirely lost. However, for most search fund investors—successful entrepreneurs, executives, and institutional investors—this represents a manageable loss within a diversified portfolio strategy.
+        Traditional search fund investors typically contribute $25,000-$75,000 to fund the search phase. When a search fails, this capital is entirely lost. However, for most search fund investors - successful entrepreneurs, executives, and institutional investors - this represents a manageable loss within a diversified portfolio strategy.
       </p>
 
       <h3 className={h3Class}>Opportunity Cost</h3>
@@ -152,13 +152,13 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>Portfolio Effects</h3>
 
       <p className={bodyClass}>
-        Experienced search fund investors build portfolios of 10-20+ search fund investments. The portfolio approach means that failed searches are an expected component of the overall strategy. The key is ensuring that successful investments generate sufficient returns to offset failures—which historically has been the case, with search fund portfolios delivering attractive risk-adjusted returns despite the one-third failure rate.
+        Experienced search fund investors build portfolios of 10-20+ search fund investments. The portfolio approach means that failed searches are an expected component of the overall strategy. The key is ensuring that successful investments generate sufficient returns to offset failures - which historically has been the case, with search fund portfolios delivering attractive risk-adjusted returns despite the one-third failure rate.
       </p>
 
       <h2 className={h2Class}>Career Outcomes for Failed Searchers</h2>
 
       <p className={bodyClass}>
-        The end of an unsuccessful search is not the end of a career. In fact, many searchers who don&apos;t complete acquisitions go on to successful careers, leveraging the skills and experience gained during the search process.
+        The end of an unsuccessful search is not the end of a career. In fact, many searchers who don&apos;t complete acquisitions go on to successful careers, using the skills and experience gained during the search process.
       </p>
 
       <h3 className={h3Class}>Common Career Paths</h3>
@@ -171,7 +171,7 @@ export default function SearchFundNoAcquisitionArticle() {
         <li><strong>Private Equity/Growth Equity:</strong> Many transition into traditional PE roles, where their deal sourcing and evaluation skills are highly valued. The search experience provides credible evidence of commitment to the investment industry.</li>
         <li><strong>Corporate Development:</strong> Skills in M&amp;A, due diligence, and business evaluation translate well to corporate development roles at larger companies.</li>
         <li><strong>Management Consulting:</strong> Returning to consulting with enhanced operational and deal-making knowledge can be a natural path, particularly for those from consulting backgrounds.</li>
-        <li><strong>Operating Partner Roles:</strong> Some failed searchers join portfolio companies of search funds or private equity firms as COOs, CFOs, or general managers—getting operational experience without the acquisition risk.</li>
+        <li><strong>Operating Partner Roles:</strong> Some failed searchers join portfolio companies of search funds or private equity firms as COOs, CFOs, or general managers - getting operational experience without the acquisition risk.</li>
         <li><strong>Repeat Search:</strong> A small percentage launch new searches, armed with lessons from their first attempt. These second-time searchers often have higher success rates due to improved deal sourcing strategies and investor relationships.</li>
         <li><strong>Traditional Searcher (with modification):</strong> Some join existing search firms or become acquisition entrepreneurs in related models (independent sponsors, search accelerators).</li>
         <li><strong>Entrepreneurship:</strong> Starting or joining startups, using the entrepreneurial mindset developed during the search.</li>
@@ -193,7 +193,7 @@ export default function SearchFundNoAcquisitionArticle() {
       <h2 className={h2Class}>Winding Down the Search Fund</h2>
 
       <p className={bodyClass}>
-        When it becomes clear that a search will not result in an acquisition, the searcher must navigate the practical and emotional process of winding down the fund.
+        When it becomes clear that a search will not result in an acquisition, the searcher must manage the practical and emotional process of winding down the fund.
       </p>
 
       <h3 className={h3Class}>Making the Decision</h3>
@@ -253,7 +253,7 @@ export default function SearchFundNoAcquisitionArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Support from mentors, fellow searchers, and family is crucial during this transition. Many searchers benefit from professional coaching or therapy to process the experience and plan next steps.
+        Support from mentors, fellow searchers, and family is critical during this transition. Many searchers benefit from professional coaching or therapy to process the experience and plan next steps.
       </p>
 
       <h2 className={h2Class}>Lessons Learned from Unsuccessful Searches</h2>
@@ -351,19 +351,19 @@ export default function SearchFundNoAcquisitionArticle() {
       <h3 className={h3Class}>Advisory or Consulting</h3>
 
       <p className={bodyClass}>
-        Leveraging industry expertise developed during the search, some searchers establish advisory practices serving the industries they targeted. This generates income while maintaining optionality for future acquisitions.
+        Using industry expertise developed during the search, some searchers establish advisory practices serving the industries they targeted. This generates income while maintaining optionality for future acquisitions.
       </p>
 
       <h3 className={h3Class}>Joining an Independent Sponsor or Search Firm</h3>
 
       <p className={bodyClass}>
-        Rather than searching solo, some unsuccessful searchers join established search firms or independent sponsor platforms, benefiting from existing infrastructure, deal flow, and investor relationships while pursuing acquisitions.
+        Rather than searching solo, some unsuccessful searchers join established search firms or independent sponsor platforms, benefiting from existing infrastructure, deal flow, and investor relationships while pursuing acquisitions. For a comparison of these alternative models, see <Link href="/learn/eta-vs-independent-sponsor" className="text-apple-accent hover:underline">ETA vs. independent sponsors</Link>.
       </p>
 
       <h3 className={h3Class}>Smaller or Self-Funded Acquisition</h3>
 
       <p className={bodyClass}>
-        Some searchers lower their sights, pursuing smaller acquisitions ($500,000 to $2 million purchase price) with personal capital, SBA loans, or seller financing—essentially transitioning to a "main street" acquisition rather than a traditional search fund deal.
+        Some searchers lower their sights, pursuing smaller acquisitions ($500,000 to $2 million purchase price) with personal capital, SBA loans, or seller financing - essentially transitioning to a "main street" acquisition rather than a traditional search fund deal.
       </p>
 
       <h2 className={h2Class}>Preventing Search Failure</h2>
@@ -413,11 +413,11 @@ export default function SearchFundNoAcquisitionArticle() {
       <h2 className={h2Class}>Conclusion</h2>
 
       <p className={bodyClass}>
-        The possibility that a searcher won&apos;t find a company is an inherent feature of the search fund model, not a bug. Understanding this risk—and preparing for it mentally, financially, and strategically—is essential for anyone considering the ETA path.
+        The possibility that a searcher won&apos;t find a company is an inherent feature of the search fund model, not a bug. Understanding this risk - and preparing for it mentally, financially, and strategically - is essential for anyone considering the ETA path.
       </p>
 
       <p className={bodyClass}>
-        While approximately one-third of searches fail to acquire a company, this doesn&apos;t mean these searchers have failed as professionals or entrepreneurs. Many go on to successful careers, leveraging the skills, networks, and experiences gained during their search. The key differentiator is often how searchers process the experience, communicate it to future employers or investors, and apply the lessons learned.
+        While approximately one-third of searches fail to acquire a company, this doesn&apos;t mean these searchers have failed as professionals or entrepreneurs. Many go on to successful careers, using the skills, networks, and experiences gained during their search. The key differentiator is often how searchers process the experience, communicate it to future employers or investors, and apply the lessons learned.
       </p>
 
       <p className={bodyClass}>
@@ -425,11 +425,31 @@ export default function SearchFundNoAcquisitionArticle() {
       </p>
 
       <p className={bodyClass}>
-        For investors, the one-third failure rate underscores the importance of portfolio diversification and searcher selection. Backing multiple searches and choosing searchers with the right combination of skills, commitment, and realistic expectations is essential to generating attractive portfolio returns despite inevitable individual failures.
+        For investors, the one-third failure rate highlights the importance of portfolio diversification and searcher selection. Backing multiple searches and choosing searchers with the right combination of skills, commitment, and realistic expectations is essential to generating attractive portfolio returns despite inevitable individual failures.
       </p>
 
       <p className={bodyClass}>
-        Ultimately, the search fund model&apos;s transparency about failure rates is a strength, not a weakness. It sets realistic expectations, encourages thoughtful decision-making, and ensures that those who pursue this path do so with full awareness of the risks and rewards. Whether a search ends in acquisition or wind-down, the experience shapes careers and creates value—even if that value isn&apos;t always captured in a single transaction.
+        Ultimately, the search fund model&apos;s transparency about failure rates is a strength, not a weakness. It sets realistic expectations, encourages thoughtful decision-making, and ensures that those who pursue this path do so with full awareness of the risks and rewards. Whether a search ends in acquisition or wind-down, the experience shapes careers and creates value - even if that value isn&apos;t always captured in a single transaction.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>Do searchers owe money back to investors if the search fails?</h3>
+
+      <p className={bodyClass}>
+        No. In a traditional search fund, the search capital is structured as an investment, not a loan. If no acquisition is completed, the capital that has been spent on salary, travel, and operating expenses is not repaid. Investors understand this risk going in and factor it into their portfolio approach. Any remaining unspent capital is typically returned to investors during the wind-down process.
+      </p>
+
+      <h3 className={h3Class}>How long should I search before calling it quits?</h3>
+
+      <p className={bodyClass}>
+        Most industry practitioners consider 24 months a reasonable search period. After two years without an acquisition, the probability of success decreases substantially and the opportunity cost becomes increasingly difficult to justify. However, this is not a hard rule. If you have strong deal flow and viable prospects in the pipeline, extending beyond 24 months with investor support can be worthwhile. Conversely, if you have depleted your pipeline and motivation after 18 months, an earlier wind-down may be the right choice.
+      </p>
+
+      <h3 className={h3Class}>Can I try a second search after a failed first attempt?</h3>
+
+      <p className={bodyClass}>
+        Yes, though it is relatively uncommon. A small percentage of searchers launch second searches armed with lessons from their first attempt. Second-time searchers often have higher success rates because they enter with better deal sourcing strategies, more realistic expectations, and stronger investor relationships. The key is honest reflection on why the first search failed and demonstrating to investors that you have addressed those issues.
       </p>
 
       <h2 className={h2Class}>Sources</h2>
@@ -447,7 +467,7 @@ export default function SearchFundNoAcquisitionArticle() {
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2018"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

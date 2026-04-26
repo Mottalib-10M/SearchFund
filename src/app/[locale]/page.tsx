@@ -32,7 +32,7 @@ export default function Home() {
           Built for every side of the deal
         </h2>
         <p className="text-apple-gray-500 text-center mt-3 max-w-xl mx-auto">
-          Whether you&apos;re searching, investing, or selling — SearchFundMarket helps you learn and connect.
+          Whether you&apos;re searching, investing, or selling - SearchFundMarket helps you learn and connect.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
@@ -48,7 +48,7 @@ export default function Home() {
               Learn how to find and acquire your first business
             </h3>
             <p className="text-sm text-apple-gray-700 mt-3 leading-relaxed flex-1">
-              From search fund basics to deal execution, due diligence, and post-acquisition operations — everything you need to succeed as a search fund entrepreneur.
+              From search fund basics to deal execution, due diligence, and post-acquisition operations - everything you need to succeed as a search fund entrepreneur.
             </p>
             <Link
               href="/learn/getting-started"
@@ -125,7 +125,7 @@ export default function Home() {
                 Learn the fundamentals
               </h3>
               <p className="text-sm text-apple-gray-700 mt-2">
-                Explore our comprehensive guides on search funds, deal
+                Explore our thorough guides on search funds, deal
                 execution, fundraising, and post-acquisition operations.
               </p>
             </div>

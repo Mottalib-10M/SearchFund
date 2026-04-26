@@ -15,7 +15,7 @@ export default function EuropeanSearchFundResearchArticle() {
           America. Two institutions have been instrumental in documenting,
           researching, and accelerating this growth: IESE Business School in
           Barcelona and INSEAD in Fontainebleau. Their research provides the
-          most comprehensive data available on European search fund
+          most thorough data available on European search fund
           performance, deal structures, and market dynamics. This article
           synthesizes the key findings from their studies and explores what
           they mean for searchers, investors, and the future of ETA in Europe.
@@ -58,12 +58,12 @@ export default function EuropeanSearchFundResearchArticle() {
           <li>
             European search funds have achieved aggregate returns broadly
             comparable to the US model, with median IRRs in the
-            30&ndash;40% range for completed acquisitions &mdash; though the
+            30-40% range for completed acquisitions, though the
             dataset remains smaller and less mature.
           </li>
           <li>
             The conversion rate from funded search to completed acquisition
-            has been similar to the US (approximately 65&ndash;75%), though
+            has been similar to the US (approximately 65-75%), though
             European searches tend to take slightly longer due to
             fewer broker-intermediated deals and more complex regulatory
             environments.
@@ -148,13 +148,13 @@ export default function EuropeanSearchFundResearchArticle() {
           <li>
             European returns appear broadly similar for completed acquisitions,
             though the smaller sample size makes the data less statistically
-            robust. The top quartile of European search funds has achieved
+            strong. The top quartile of European search funds has achieved
             returns comparable to the best US outcomes.
           </li>
           <li>
             European search funds have a slightly lower loss rate than US
             funds, potentially because European searchers tend to be more
-            conservative in deal selection and leverage.
+            conservative in deal selection and use.
           </li>
         </ul>
 
@@ -162,8 +162,8 @@ export default function EuropeanSearchFundResearchArticle() {
         <ul className={ulClass}>
           <li>
             Average European search fund acquisition sizes have been smaller
-            than US deals, typically $3M&ndash;$10M enterprise value compared
-            to $5M&ndash;$20M in the US.
+            than US deals, typically $3M-$10M enterprise value compared
+            to $5M-$20M in the US.
           </li>
           <li>
             This gap is narrowing as the European market matures and larger
@@ -179,14 +179,14 @@ export default function EuropeanSearchFundResearchArticle() {
         <h3 className={h3Class}>Time to close</h3>
         <ul className={ulClass}>
           <li>
-            European searches typically take 18&ndash;24 months from
-            fundraising to acquisition, compared to 15&ndash;21 months in
+            European searches typically take 18-24 months from
+            fundraising to acquisition, compared to 15-21 months in
             the US.
           </li>
           <li>
             The longer timeline reflects fewer intermediated deal processes,
             more complex regulatory approvals in some jurisdictions, and the
-            need to navigate different legal and tax frameworks across
+            need to manage different legal and tax frameworks across
             countries.
           </li>
         </ul>
@@ -194,7 +194,7 @@ export default function EuropeanSearchFundResearchArticle() {
         <h2 className={h2Class}>Growth trajectory of European search funds</h2>
         <p>
           The growth of European search funds has been remarkable, following
-          a trajectory that mirrors the US model approximately 15&ndash;20
+          a trajectory that mirrors the US model approximately 15-20
           years behind.
         </p>
         <ul className={ulClass}>
@@ -204,19 +204,19 @@ export default function EuropeanSearchFundResearchArticle() {
             of IESE and a small community of early adopters.
           </li>
           <li>
-            <strong>2010&ndash;2015:</strong> growth accelerated as IESE
+            <strong>2010-2015:</strong> growth accelerated as IESE
             research gained visibility and early European success stories
-            demonstrated the model&apos;s viability. Approximately 10&ndash;20
+            demonstrated the model&apos;s viability. Approximately 10-20
             new searches launched annually.
           </li>
           <li>
-            <strong>2015&ndash;2020:</strong> the model reached a tipping
+            <strong>2015-2020:</strong> the model reached a tipping
             point. Multiple MBA programs began teaching search fund courses,
             dedicated European search fund investors emerged, and the
-            number of new searches grew to 30&ndash;50 per year.
+            number of new searches grew to 30-50 per year.
           </li>
           <li>
-            <strong>2020&ndash;present:</strong> over 100 search funds are
+            <strong>2020-present:</strong> over 100 search funds are
             now active annually across Europe. The ecosystem includes
             dedicated investors, search fund conferences, peer networks,
             and a growing body of operational best practices adapted for
@@ -246,14 +246,14 @@ export default function EuropeanSearchFundResearchArticle() {
           supportive government programs for business succession and a
           well-developed professional services ecosystem. However, labor
           regulations and social charges create complexity that searchers
-          must navigate carefully.
+          must manage carefully.
         </p>
 
         <h3 className={h3Class}>Germany</h3>
         <p>
           Germany represents the largest untapped opportunity in European
-          search funds. The Mittelstand &mdash; Germany&apos;s famed small
-          and medium-sized enterprise sector &mdash; includes tens of
+          search funds. The Mittelstand, Germany&apos;s famed small
+          and medium-sized enterprise sector, includes tens of
           thousands of family-owned businesses with revenues between
           &euro;2M and &euro;50M. Many face succession challenges as
           founders retire without family successors. However, German
@@ -284,7 +284,7 @@ export default function EuropeanSearchFundResearchArticle() {
           multi-market searches more feasible than elsewhere in Europe.
         </p>
 
-        <h2 className={h2Class}>European investor landscape evolution</h2>
+        <h2 className={h2Class}>European investor market evolution</h2>
         <ul className={ulClass}>
           <li>
             In the early days, European search funds relied heavily on US-based
@@ -319,14 +319,14 @@ export default function EuropeanSearchFundResearchArticle() {
         <ul className={ulClass}>
           <li>
             <strong>More seller financing.</strong> European deals frequently
-            include a larger proportion of seller financing (30&ndash;50% of
+            include a larger proportion of seller financing (30-50% of
             the purchase price) compared to US deals. This reflects both the
             sellers&apos; willingness to support the transition and the
             relative scarcity of acquisition lending for small deals in
             some European markets.
           </li>
           <li>
-            <strong>Lower leverage.</strong> European search fund acquisitions
+            <strong>Lower use.</strong> European search fund acquisitions
             typically use less bank debt than US deals. The absence of an
             SBA-equivalent program in most European countries means that
             commercial bank lending is the primary debt source, and banks
@@ -394,7 +394,7 @@ export default function EuropeanSearchFundResearchArticle() {
         <ul className={ulClass}>
           <li>
             The European search fund market is expected to continue growing
-            at 15&ndash;25% annually for the foreseeable future, driven by
+            at 15-25% annually for the foreseeable future, driven by
             increasing awareness, a maturing investor ecosystem, and the
             massive succession wave as baby boomer business owners retire.
           </li>
@@ -409,8 +409,8 @@ export default function EuropeanSearchFundResearchArticle() {
             markets where the traditional model is less well-known.
           </li>
           <li>
-            Cross-border roll-ups &mdash; acquiring businesses in multiple
-            European countries to build pan-European platforms &mdash;
+            Cross-border roll-ups, acquiring businesses in multiple
+            European countries to build pan-European platforms , 
             represent a unique opportunity that does not exist in the more
             homogeneous US market.
           </li>
@@ -426,7 +426,7 @@ export default function EuropeanSearchFundResearchArticle() {
         <ul className={ulClass}>
           <li>
             <strong>IESE International Search Fund Study</strong> (updated
-            periodically): the most comprehensive dataset on European search
+            periodically): the most thorough dataset on European search
             fund performance, deal characteristics, and operator profiles.
           </li>
           <li>
@@ -461,11 +461,45 @@ export default function EuropeanSearchFundResearchArticle() {
           combination of academic research, a maturing investor ecosystem,
           and the largest intergenerational wealth transfer in European
           history creates a compelling environment for entrepreneurship
-          through acquisition. Learn <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors are backing search funds</Link> in growing numbers. For searchers willing to navigate the
+          through acquisition. Learn <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors are backing search funds</Link> in growing numbers. For searchers willing to manage the
           complexity of European markets, the opportunities are vast and
           growing.
         </p>
       </div>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How do European search fund returns compare to US returns?</h3>
+      <div className={bodyClass}>
+        <p>According to the IESE International Search Fund Study (2024), European search funds that have completed acquisitions have achieved median IRRs in the 30-40% range, broadly comparable to the aggregate US figure of approximately 33% IRR and 5.5x return on invested capital reported in the Stanford 2024 study. However, the European dataset remains significantly smaller and less mature, making direct statistical comparison difficult. One notable difference is that European search funds appear to have a slightly lower loss rate than US funds, potentially because European searchers tend to be more conservative in deal selection and use less use. Average European acquisition sizes ($3M-$10M enterprise value) have been smaller than US deals ($5M-$20M), though this gap is narrowing as the market matures and larger institutional investors enter the European ecosystem.</p>
+      </div>
+
+      <h3 className={h3Class}>Which European country is most active for search fund activity?</h3>
+      <div className={bodyClass}>
+        <p>Spain remains the most active European search fund market by volume, driven largely by IESE Business School&rsquo;s location in Barcelona and the school&rsquo;s role as the intellectual home of European ETA since the early 2000s. Spain benefits from a large SME sector with many family-owned businesses facing succession challenges, relatively lower valuations than Northern Europe (typically 4-6x EBITDA for SMEs), and a growing ecosystem of local search fund investors. France has emerged as the second-largest market, supported by its enormous SME sector of over 3 million small businesses and a wave of baby boomer retirements. Germany, despite having the largest untapped Mittelstand opportunity in Europe, lags behind in search fund activity due to higher deal multiples, longer relationship-building timelines, and a more conservative business culture, though it is widely viewed as the next major growth market.</p>
+      </div>
+
+      <h3 className={h3Class}>How has the European search fund ecosystem grown over time?</h3>
+      <div className={bodyClass}>
+        <p>The growth trajectory has been remarkable. According to IESE research, before 2010 fewer than 10 search funds were active in all of Europe. By 2015, approximately 10-20 new searches launched annually as early success stories demonstrated the model&rsquo;s viability. The market reached a tipping point between 2015 and 2020, when multiple MBA programs began teaching search fund courses and dedicated European investors emerged, growing new annual searches to 30-50. As of 2024, over 100 search funds are active annually across Europe, with growth rates of 15-25% per year expected to continue. The ecosystem now includes dedicated search fund investors, annual conferences, peer networks, and a growing body of operational best practices adapted for European markets. Self-funded and partially-funded search models have grown faster than traditional funded searches in several European markets, particularly where the traditional model is less well-known.</p>
+      </div>
+
+      <h2 className={h2Class}>Sources</h2>
+      <ul className={ulClass}>
+        <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+        <li>Stanford Graduate School of Business, <em>Search Fund Study</em> (2024)</li>
+        <li>INSEAD, <em>Working Papers on European Search Funds and Investor Behavior</em> (2023)</li>
+      </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/search-fund-statistics" className="text-apple-accent hover:underline">Search Fund Statistics: 681 Funds Analyzed</Link></li>
+          <li><Link href="/learn/international-vs-us-returns" className="text-apple-accent hover:underline">International vs. US Search Fund Returns</Link></li>
+          <li><Link href="/learn/search-fund-case-studies" className="text-apple-accent hover:underline">Search Fund Case Studies: Lessons from Real Deals</Link></li>
+          <li><Link href="/learn/search-fund-success-stories" className="text-apple-accent hover:underline">Famous Search Fund Success Stories</Link></li>
+          <li><Link href="/learn/search-fund-deal-characteristics" className="text-apple-accent hover:underline">Search Fund Deal Characteristics: What Gets Acquired</Link></li>
+          <li><Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">What Industries Are Best for Search Funds?</Link></li>
+        </ul>
     </article>
   );
 }

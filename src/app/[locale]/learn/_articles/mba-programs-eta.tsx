@@ -15,17 +15,20 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          This guide examines the top MBA programs for aspiring searchers, comparing their ETA ecosystems, resources, and track records. Whether you're choosing where to apply or already enrolled and looking to maximize your program's offerings, understanding the landscape will help you make informed decisions about your search fund journey.
+          This guide examines the top MBA programs for aspiring searchers, comparing their ETA ecosystems, resources, and track records. Whether you're choosing where to apply or already enrolled and looking to maximize your program's offerings, understanding the market will help you make informed decisions about your search fund journey.
         </p>
 
         <h2 className={h2Class}>Why MBA Programs Matter for ETA</h2>
 
         <p className={bodyClass}>
-          The connection between top MBA programs and search funds is not coincidental. The search fund model was pioneered at Stanford GSB in 1984, and business schools have remained the primary pipeline for searchers ever since. Several factors make MBA programs particularly valuable for aspiring searchers:
+          The connection between top MBA programs and search funds is not coincidental. The search fund model was pioneered at Stanford GSB in 1984, and business schools have remained the primary pipeline for searchers ever since. According to the{" "}
+          <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</a>, over 70% of traditional search fund entrepreneurs hold an MBA from a top-20 program. Several factors make MBA programs particularly valuable for aspiring searchers:
         </p>
 
         <p className={bodyClass}>
-          <strong>Investor Networks:</strong> Traditional search fund investors are often MBA alumni themselves and actively recruit from specific programs. Stanford, Harvard, and Chicago Booth investors regularly attend ETA club events, review business plans, and conduct mock interviews with students. These relationships dramatically reduce the cold outreach required during fundraising.
+          <strong>Investor Networks:</strong> Traditional{" "}
+          <Link href="/learn/top-search-fund-investors" className="text-apple-accent hover:underline">search fund investors</Link>{" "}
+          are often MBA alumni themselves and actively recruit from specific programs. Stanford, Harvard, and Chicago Booth investors regularly attend ETA club events, review business plans, and conduct mock interviews with students. These relationships dramatically reduce the cold outreach required during fundraising.
         </p>
 
         <p className={bodyClass}>
@@ -33,11 +36,12 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Relevant Coursework:</strong> While general management skills are valuable, programs with strong ETA ecosystems offer specialized courses in small business acquisition, deal structuring, private equity, and negotiations. These courses often feature search fund case studies and bring in successful searchers as guest speakers.
+          <strong>Relevant Coursework:</strong> While general management skills are valuable, programs with strong ETA ecosystems offer specialized courses in{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">small business acquisition</Link>, deal structuring, private equity, and negotiations. These courses often feature search fund case studies and bring in successful searchers as guest speakers.
         </p>
 
         <p className={bodyClass}>
-          <strong>Career Flexibility:</strong> Starting a search fund is a high-conviction decision, and many students change their minds during business school. Programs with robust ETA communities also tend to excel in traditional post-MBA paths like consulting, private equity, and corporate strategy, providing optionality if your plans evolve.
+          <strong>Career Flexibility:</strong> Starting a search fund is a high-conviction decision, and many students change their minds during business school. Programs with strong ETA communities also tend to excel in traditional post-MBA paths like consulting, private equity, and corporate strategy, providing optionality if your plans evolve.
         </p>
 
         <h2 className={h2Class}>Stanford GSB: The ETA Pioneer</h2>
@@ -129,7 +133,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Academic Resources:</strong> Wharton's finance curriculum is comprehensive, with courses like "Leveraged Buyouts" and "Restructuring" providing relevant technical skills. "Entrepreneurship Through Acquisition" offers ETA-specific content. The school's strength in negotiations and deal-making translates well to search fund acquisitions.
+          <strong>Academic Resources:</strong> Wharton's finance curriculum is thorough, with courses like "Leveraged Buyouts" and "Restructuring" providing relevant technical skills. "Entrepreneurship Through Acquisition" offers ETA-specific content. The school's strength in negotiations and deal-making translates well to search fund acquisitions.
         </p>
 
         <p className={bodyClass}>
@@ -143,7 +147,7 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>Kellogg</h2>
 
         <p className={bodyClass}>
-          Northwestern's Kellogg School of Management has a growing ETA community, leveraging the school's strengths in marketing, operations, and general management.
+          Northwestern's Kellogg School of Management has a growing ETA community, using the school's strengths in marketing, operations, and general management.
         </p>
 
         <p className={bodyClass}>
@@ -191,7 +195,9 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>IESE Barcelona</h2>
 
         <p className={bodyClass}>
-          IESE Business School in Barcelona has built a strong ETA ecosystem focused primarily on Southern Europe and Latin America.
+          IESE Business School in Barcelona has built a strong ETA ecosystem focused primarily on Southern Europe and Latin America. The{" "}
+          <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE International Search Fund Study</a>{" "}
+          has tracked over 600 search fund transactions globally, establishing IESE as the leading academic institution for international search fund research.
         </p>
 
         <p className={bodyClass}>
@@ -217,11 +223,11 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Columbia ETA Club has 15-20 active members. New York's business community provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events leveraging Columbia's extensive alumni network in finance and private equity.
+          <strong>ETA Club and Community:</strong> The Columbia ETA Club has 15-20 active members. New York's business community provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events using Columbia's extensive alumni network in finance and private equity.
         </p>
 
         <p className={bodyClass}>
-          <strong>Academic Resources:</strong> Columbia's finance curriculum is robust, with courses in private equity, negotiations, and entrepreneurship. "Private Equity: Value Creation" examines operational improvements relevant to post-acquisition management. The school's location enables frequent guest speakers from the New York investment community.
+          <strong>Academic Resources:</strong> Columbia's finance curriculum is strong, with courses in private equity, negotiations, and entrepreneurship. "Private Equity: Value Creation" examines operational improvements relevant to post-acquisition management. The school's location enables frequent guest speakers from the New York investment community.
         </p>
 
         <p className={bodyClass}>
@@ -277,7 +283,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Curriculum Relevance:</strong> Look for dedicated ETA courses, small business case studies integrated into core curriculum, and electives in private equity, negotiations, and entrepreneurial finance. Programs that treat ETA as a legitimate post-MBA path (rather than an afterthought) will provide more comprehensive preparation.
+          <strong>Curriculum Relevance:</strong> Look for dedicated ETA courses, small business case studies integrated into core curriculum, and electives in private equity, negotiations, and entrepreneurial finance. Programs that treat ETA as a legitimate post-MBA path (rather than an afterthought) will provide more thorough preparation.
         </p>
 
         <p className={bodyClass}>
@@ -299,7 +305,7 @@ export default function MBAProgramsETAArticle() {
         <h2 className={h2Class}>ETA Resources Within Each Program</h2>
 
         <p className={bodyClass}>
-          Beyond formal courses and clubs, successful ETA students leverage these program resources:
+          Beyond formal courses and clubs, successful ETA students use these program resources:
         </p>
 
         <p className={bodyClass}>
@@ -329,7 +335,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>First Year Priorities:</strong> Join the ETA club immediately and attend every event, even if you're still exploring the path. Take core courses in finance, accounting, strategy, and negotiations seriously—these fundamentals matter more than you realize during search and acquisition. Conduct informational interviews with 10+ alumni searchers to understand their journeys. Begin building investor relationships by attending club speaker events and following up thoughtfully afterward.
+          <strong>First Year Priorities:</strong> Join the ETA club immediately and attend every event, even if you're still exploring the path. Take core courses in finance, accounting, strategy, and negotiations seriously - these fundamentals matter more than you realize during search and acquisition. Conduct informational interviews with 10+ alumni searchers to understand their journeys. Begin building investor relationships by attending club speaker events and following up thoughtfully afterward.
         </p>
 
         <p className={bodyClass}>
@@ -341,7 +347,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Leverage Projects and Case Competitions:</strong> Many courses include field studies, applied projects, or consulting opportunities. Seek projects involving small business acquisition, due diligence, or post-acquisition value creation. These build relevant skills and create work samples to share with investors. Some schools host search fund case competitions with prize money and investor exposure.
+          <strong>Use Projects and Case Competitions:</strong> Many courses include field studies, applied projects, or consulting opportunities. Seek projects involving small business acquisition, due diligence, or post-acquisition value creation. These build relevant skills and create work samples to share with investors. Some schools host search fund case competitions with prize money and investor exposure.
         </p>
 
         <p className={bodyClass}>
@@ -349,7 +355,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Network Beyond Your School:</strong> Attend search fund conferences at other business schools. Join the <Link href="/learn" className="text-apple-accent hover:underline">Search Fund</Link> ecosystem through industry events. Connect with searchers from other programs—you may collaborate on deal flow or share lessons learned. The search fund community is small and collaborative; building cross-school relationships pays dividends.
+          <strong>Network Beyond Your School:</strong> Attend search fund conferences at other business schools. Join the <Link href="/learn" className="text-apple-accent hover:underline">Search Fund</Link> ecosystem through industry events. Connect with searchers from other programs - you may collaborate on deal flow or share lessons learned. The search fund community is small and collaborative; building cross-school relationships pays dividends.
         </p>
 
         <p className={bodyClass}>
@@ -357,11 +363,28 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          Your MBA program provides two invaluable years to prepare for the search fund journey. The schools profiled above offer varying strengths—investor networks at Stanford and HBS, financial rigor at Booth and Wharton, European opportunities at INSEAD and IESE, and emerging communities at programs like Ross and Darden. Choose the program that aligns with your geographic focus, learning style, and career goals, then commit fully to extracting every resource the school offers.
+          Your MBA program provides two invaluable years to prepare for the search fund journey. The schools profiled above offer varying strengths - investor networks at Stanford and HBS, financial rigor at Booth and Wharton, European opportunities at INSEAD and IESE, and emerging communities at programs like Ross and Darden. Choose the program that aligns with your geographic focus, learning style, and career goals, then commit fully to extracting every resource the school offers.
         </p>
 
         <p className={bodyClass}>
-          The relationships you build, skills you develop, and preparation you complete during business school will shape your entire search fund experience. Invest this time wisely, and you'll begin your search with a powerful network, comprehensive preparation, and the confidence needed to succeed in acquisition entrepreneurship.
+          The relationships you build, skills you develop, and preparation you complete during business school will shape your entire search fund experience. Invest this time wisely, and you'll begin your search with a powerful network, thorough preparation, and the confidence needed to succeed in acquisition entrepreneurship.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>Do I need an MBA to start a search fund?</h3>
+        <p className={bodyClass}>
+          No. While roughly 70% of traditional search fund entrepreneurs hold MBAs, a growing number of successful searchers come from non-MBA backgrounds including consulting, investment banking, military service, and operating roles. Self-funded searchers, in particular, are less likely to have MBAs. The key advantages an MBA provides, investor networks, peer community, and structured learning, can be partially replicated through industry conferences, search fund accelerators, and mentorship relationships. However, for traditional search funds that raise investor capital, an MBA from a recognized program significantly eases the fundraising process.
+        </p>
+
+        <h3 className={h3Class}>When should I start preparing for ETA during my MBA?</h3>
+        <p className={bodyClass}>
+          Begin on day one of your first year. Join the ETA club immediately, attend every speaker event, and start informational interviews with alumni searchers during your first semester. By mid-first year, take foundational finance and accounting courses that prepare you for deal analysis. Use the summer between years to gain relevant experience (search fund operations, lower middle market PE, or small business consulting). Second year should be an intensive preparation phase: refine your investment thesis, build investor relationships, and develop fundraising materials. Students who wait until second year to engage with ETA often find themselves behind in investor relationships and preparation.
+        </p>
+
+        <h3 className={h3Class}>How much does an MBA cost, and does the ROI make sense for ETA?</h3>
+        <p className={bodyClass}>
+          Top MBA programs cost $150,000-$230,000 in tuition alone, plus $80,000-$120,000 in opportunity cost from two years of foregone income. Total investment is typically $300,000-$400,000. The ROI depends on whether you successfully raise a search fund and complete an acquisition. Successful searchers typically earn $100,000-$150,000 during the search phase and hold 20-30% equity in the acquired company, which can be worth $2M-$10M+ at a successful exit. The expected value is attractive but comes with meaningful risk, as roughly 25% of funded searches do not complete an acquisition.
         </p>
 
         <h2 className={h2Class}>Sources</h2>
@@ -369,7 +392,7 @@ export default function MBAProgramsETAArticle() {
         <ul className={ulClass}>
           <li>
             <a
-              href="https://www.gsb.stanford.edu/ces/research/search-funds"
+              href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -389,7 +412,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.chicagobooth.edu/research/polsky/news-insights/search-funds"
+              href="https://polsky.uchicago.edu/tag/search-funds/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -399,7 +422,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.insead.edu/centres/global-private-equity-initiative"
+              href="https://www.insead.edu/global-private-equity-initiative"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -409,7 +432,7 @@ export default function MBAProgramsETAArticle() {
           </li>
           <li>
             <a
-              href="https://www.iese.edu/faculty-research/entrepreneurship/"
+              href="https://www.iese.edu/entrepreneurship/search-funds/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -429,6 +452,15 @@ export default function MBAProgramsETAArticle() {
           </li>
         </ul>
       </div>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+        </ul>
     </article>
   );
 }

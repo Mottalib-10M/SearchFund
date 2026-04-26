@@ -41,27 +41,27 @@ export default function EditorialPolicyPage() {
           </p>
           <ul className="mt-3 list-disc list-inside space-y-1">
             <li>
-              <strong>Stanford Graduate School of Business</strong> — The 2024 Search
+              <strong>Stanford Graduate School of Business</strong> - The 2024 Search
               Fund Study, covering 681 funds and 40 years of performance data
             </li>
             <li>
-              <strong>IESE Business School</strong> — International Search Fund Study,
+              <strong>IESE Business School</strong> - International Search Fund Study,
               with a focus on European and Latin American markets
             </li>
             <li>
-              <strong>INSEAD</strong> — European Search Fund Research, analyzing deal
+              <strong>INSEAD</strong> - European Search Fund Research, analyzing deal
               characteristics and success factors in EU markets
             </li>
             <li>
-              <strong>HEC Paris</strong> — Research on entrepreneurial acquisition in
+              <strong>HEC Paris</strong> - Research on entrepreneurial acquisition in
               France and the Francophone ecosystem
             </li>
             <li>
-              <strong>SDA Bocconi</strong> — Search fund activity and succession
+              <strong>SDA Bocconi</strong> - Search fund activity and succession
               dynamics in Italy
             </li>
             <li>
-              <strong>CBS Copenhagen</strong> — Nordic search fund ecosystem research
+              <strong>CBS Copenhagen</strong> - Nordic search fund ecosystem research
             </li>
           </ul>
           <p className="mt-3">

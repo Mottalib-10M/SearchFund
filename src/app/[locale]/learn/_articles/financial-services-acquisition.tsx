@@ -14,8 +14,8 @@ export default function FinancialServicesAcquisitionArticle() {
           acquisitions. The combination of recurring revenue, high
           client retention rates, and proven roll-up economics has made
           the sector a favorite among experienced acquirers. However,
-          the regulatory complexity &mdash; spanning multiple
-          jurisdictions with distinct licensing requirements &mdash;
+          the regulatory complexity, spanning multiple
+          jurisdictions with distinct licensing requirements , 
           demands thorough preparation and specialized advisory support.
           This guide covers the major sub-sectors, regulatory frameworks
           across the US and Europe, valuation methodologies, and the
@@ -31,7 +31,7 @@ export default function FinancialServicesAcquisitionArticle() {
           what the change-of-ownership process entails.
         </p>
 
-        <h3 className={h3Class}>United Kingdom &mdash; FCA</h3>
+        <h3 className={h3Class}>United Kingdom, FCA</h3>
         <p>
           The Financial Conduct Authority (FCA) regulates financial
           services firms in the UK, including insurance brokers,
@@ -49,7 +49,7 @@ export default function FinancialServicesAcquisitionArticle() {
             <strong>Approved Persons regime:</strong> Key individuals
             (directors, senior managers, compliance officers) must be
             approved by the FCA before taking their roles. Plan for
-            a 2&ndash;4 month approval timeline per individual.
+            a 2-4 month approval timeline per individual.
           </li>
           <li>
             <strong>Capital requirements:</strong> FCA-regulated firms
@@ -67,7 +67,7 @@ export default function FinancialServicesAcquisitionArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Germany &mdash; BaFin</h3>
+        <h3 className={h3Class}>Germany, BaFin</h3>
         <p>
           The Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht
           (BaFin) oversees banks, insurance companies, financial services
@@ -97,7 +97,7 @@ export default function FinancialServicesAcquisitionArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>France &mdash; AMF and ACPR</h3>
+        <h3 className={h3Class}>France, AMF and ACPR</h3>
         <p>
           In France, the Autorit&eacute; des March&eacute;s Financiers
           (AMF) regulates investment services and asset management, while
@@ -107,7 +107,7 @@ export default function FinancialServicesAcquisitionArticle() {
           le Registre unique des Interm&eacute;diaires en Assurance,
           Banque et Finance). A change of control in a regulated entity
           requires prior authorization from the relevant authority, with
-          processing times of 2&ndash;6 months.
+          processing times of 2-6 months.
         </p>
         <ul className={ulClass}>
           <li>
@@ -133,8 +133,8 @@ export default function FinancialServicesAcquisitionArticle() {
           Our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> covers
           general frameworks; in insurance and wealth management, the &ldquo;book of
-          business&rdquo; &mdash; the portfolio of client relationships
-          and associated recurring revenue &mdash; is the primary
+          business&rdquo;, the portfolio of client relationships
+          and associated recurring revenue, is the primary
           asset being acquired. Valuing this book requires a different
           approach than standard EBITDA-multiple valuation.
         </p>
@@ -143,9 +143,9 @@ export default function FinancialServicesAcquisitionArticle() {
             <strong>Commission-based revenue:</strong> For insurance
             agencies, valuation is typically expressed as a multiple of
             annual commissions. Personal lines (home, auto) books trade
-            at 1.5&ndash;2.5x annual commissions. Commercial lines
+            at 1.5-2.5x annual commissions. Commercial lines
             (business insurance, workers&apos; comp) trade at
-            1.8&ndash;3.0x due to higher average premiums and stickier
+            1.8-3.0x due to higher average premiums and stickier
             relationships.
           </li>
           <li>
@@ -175,7 +175,7 @@ export default function FinancialServicesAcquisitionArticle() {
         <p>
           The economics of financial services businesses are dominated
           by retention. A 1% improvement in annual client retention can
-          increase the lifetime value of the book by 8&ndash;12%,
+          increase the lifetime value of the book by 8-12%,
           making retention the single most important operational metric
           to track and improve post-acquisition.
         </p>
@@ -185,8 +185,8 @@ export default function FinancialServicesAcquisitionArticle() {
             businesses, track gross renewal rates (percentage of policies
             that renew) and net retention rates (renewal rate adjusted
             for premium changes). Industry benchmarks: personal lines
-            85&ndash;92%, commercial lines 88&ndash;95%, employee
-            benefits 90&ndash;96%.
+            85-92%, commercial lines 88-95%, employee
+            benefits 90-96%.
           </li>
           <li>
             <strong>Revenue retention vs client retention:</strong> A
@@ -198,8 +198,8 @@ export default function FinancialServicesAcquisitionArticle() {
           <li>
             <strong>Retention risk at ownership change:</strong> Clients
             may leave after an acquisition, especially if relationships
-            were primarily with the departing owner. Model 5&ndash;15%
-            incremental attrition in the first 12&ndash;18 months
+            were primarily with the departing owner. Model 5-15%
+            incremental attrition in the first 12-18 months
             post-close. Personal lines are more susceptible to attrition
             than commercial lines.
           </li>
@@ -209,7 +209,7 @@ export default function FinancialServicesAcquisitionArticle() {
         <p>
           Financial services businesses carry substantial ongoing
           compliance costs that must be factored into your financial
-          model. Under-investing in compliance is not an option &mdash;
+          model. Under-investing in compliance is not an option , 
           regulatory enforcement actions can result in fines, license
           revocation, and reputational damage that destroys the value
           of the business.
@@ -219,7 +219,7 @@ export default function FinancialServicesAcquisitionArticle() {
             <strong>Anti-money laundering (AML):</strong> KYC (Know Your
             Customer) procedures, transaction monitoring, suspicious
             activity reporting, and staff training are mandatory for all
-            financial services firms. Budget $25K&ndash;$100K annually
+            financial services firms. Budget $25K-$100K annually
             for AML compliance depending on firm size.
           </li>
           <li>
@@ -232,7 +232,7 @@ export default function FinancialServicesAcquisitionArticle() {
           <li>
             <strong>Continuing professional development:</strong>
             Regulated individuals must complete annual CPD requirements
-            (typically 15&ndash;35 hours depending on jurisdiction and
+            (typically 15-35 hours depending on jurisdiction and
             role). Track compliance for all regulated staff.
           </li>
           <li>
@@ -251,7 +251,7 @@ export default function FinancialServicesAcquisitionArticle() {
           Captive agents represent a single insurance carrier (e.g.,
           State Farm, Allianz). They benefit from strong brand support
           and carrier-provided technology but face limitations on product
-          range and typically do not own their book of business &mdash;
+          range and typically do not own their book of business , 
           a critical distinction for acquirers. Independent agencies
           represent multiple carriers, own their book, and can offer
           clients competitive quotes across the market. For search fund
@@ -266,7 +266,7 @@ export default function FinancialServicesAcquisitionArticle() {
           risks and earn higher commissions per account. Brokerage
           operations require deeper technical expertise and stronger
           carrier relationships. Client relationships tend to be
-          stickier, with retention rates of 90&ndash;96%. The brokerage
+          stickier, with retention rates of 90-96%. The brokerage
           model is well-suited for search fund acquisition, particularly
           in commercial lines and employee benefits.
         </p>
@@ -279,7 +279,7 @@ export default function FinancialServicesAcquisitionArticle() {
           margin with underwriting margin, creating higher revenue per
           policy. MGAs require significant technical expertise and
           maintain complex carrier relationships. They typically trade
-          at premium valuations (2.5&ndash;4.0x revenue) due to their
+          at premium valuations (2.5-4.0x revenue) due to their
           hybrid economics.
         </p>
 
@@ -288,7 +288,7 @@ export default function FinancialServicesAcquisitionArticle() {
           Registered Investment Advisers (RIAs) in the US and their
           equivalents in Europe (gestion de patrimoine in France,
           Verm&ouml;gensverwaltung in Germany) manage client portfolios
-          for a fee, typically 0.75&ndash;1.25% of assets under
+          for a fee, typically 0.75-1.25% of assets under
           management (AUM). The RIA sector has experienced a surge of
           acquisition activity driven by advisor demographics: the
           average financial advisor is over 55, and an estimated
@@ -298,7 +298,7 @@ export default function FinancialServicesAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Valuation:</strong> RIAs typically trade at
-            5&ndash;10x EBITDA or 1.5&ndash;3.0% of AUM. The wide range
+            5-10x EBITDA or 1.5-3.0% of AUM. The wide range
             reflects differences in client demographics, fee structures,
             growth rates, and advisor dependency. An RIA with $500M AUM
             and young, high-net-worth clients growing at 10% annually
@@ -326,8 +326,8 @@ export default function FinancialServicesAcquisitionArticle() {
         <h3 className={h3Class}>Commission-based</h3>
         <p>
           Traditional commission models pay the agent or broker a
-          percentage of premium (typically 10&ndash;20% for commercial
-          lines, 8&ndash;15% for personal lines) plus contingent
+          percentage of premium (typically 10-20% for commercial
+          lines, 8-15% for personal lines) plus contingent
           commissions (bonus payments from carriers based on book
           profitability and growth). Commission-based revenue can be
           volatile if carriers reduce commission rates, which has been a
@@ -359,8 +359,8 @@ export default function FinancialServicesAcquisitionArticle() {
 
         <h2 className={h2Class}>E&amp;O insurance and liability considerations</h2>
         <p>
-          Errors and Omissions (E&amp;O) insurance &mdash; known as
-          Professional Indemnity (PI) insurance in Europe &mdash; is
+          Errors and Omissions (E&amp;O) insurance, known as
+          Professional Indemnity (PI) insurance in Europe, is
           mandatory for financial services firms and represents a
           material ongoing expense. During{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence</Link>, review:
@@ -384,8 +384,8 @@ export default function FinancialServicesAcquisitionArticle() {
             claims-made (which most E&amp;O policies are), you will
             need to purchase tail coverage to protect against claims
             arising from pre-acquisition activities but reported
-            after closing. Tail premiums can be 150&ndash;250% of
-            the annual premium for 3&ndash;5 year extended reporting
+            after closing. Tail premiums can be 150-250% of
+            the annual premium for 3-5 year extended reporting
             periods.
           </li>
         </ul>
@@ -400,14 +400,14 @@ export default function FinancialServicesAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Client introduction process:</strong> Plan a
-            12&ndash;24 month transition where the seller personally
+            12-24 month transition where the seller personally
             introduces the new owner to every significant client. This
-            is not optional &mdash; clients who never meet the new
-            owner are 3&ndash;5x more likely to leave.
+            is not optional, clients who never meet the new
+            owner are 3-5x more likely to leave.
           </li>
           <li>
             <strong>Seller retention period:</strong> Structure the deal
-            to keep the seller involved for 12&ndash;24 months post-close
+            to keep the seller involved for 12-24 months post-close
             through a consulting agreement or employment contract. Tie
             a portion of consideration (earn-out or holdback) to client
             retention during this period.
@@ -455,8 +455,8 @@ export default function FinancialServicesAcquisitionArticle() {
           most active{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> sectors
           in the entire search fund ecosystem. The economics are compelling: individual agencies
-          or advisory practices can be acquired at 5&ndash;7x EBITDA,
-          while scaled platforms trade at 10&ndash;15x or higher. This
+          or advisory practices can be acquired at 5-7x EBITDA,
+          while scaled platforms trade at 10-15x or higher. This
           multiple arbitrage, combined with genuine operational
           synergies, creates powerful value-creation dynamics.
         </p>
@@ -464,14 +464,14 @@ export default function FinancialServicesAcquisitionArticle() {
           <li>
             <strong>Operational synergies:</strong> Centralized
             accounting, compliance, marketing, and technology can
-            improve EBITDA margins by 5&ndash;10 percentage points
+            improve EBITDA margins by 5-10 percentage points
             across a multi-office network.
           </li>
           <li>
-            <strong>Carrier leverage:</strong> Larger premium volumes
+            <strong>Carrier use:</strong> Larger premium volumes
             unlock higher commission tiers, contingent commission
             bonuses, and preferred carrier status. A $20M premium
-            platform typically earns 1&ndash;3 percentage points more
+            platform typically earns 1-3 percentage points more
             in total commission compensation than a $3M agency.
           </li>
           <li>
@@ -496,22 +496,22 @@ export default function FinancialServicesAcquisitionArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Insurance agencies and brokerages:</strong>
-            1.5&ndash;3.0x annual revenue (commissions and fees) for
+            1.5-3.0x annual revenue (commissions and fees) for
             smaller books; larger, diversified agencies trade at
-            7&ndash;12x EBITDA or 2.5&ndash;4.0x revenue.
+            7-12x EBITDA or 2.5-4.0x revenue.
           </li>
           <li>
-            <strong>MGAs:</strong> 2.5&ndash;4.0x revenue, reflecting
+            <strong>MGAs:</strong> 2.5-4.0x revenue, reflecting
             the combined distribution and underwriting economics.
           </li>
           <li>
-            <strong>RIAs and wealth management:</strong> 5&ndash;10x
-            EBITDA or 1.5&ndash;3.0% of AUM, with premium multiples
+            <strong>RIAs and wealth management:</strong> 5-10x
+            EBITDA or 1.5-3.0% of AUM, with premium multiples
             for firms with younger client bases, fee-only models, and
             strong organic growth.
           </li>
           <li>
-            <strong>Financial planning practices:</strong> 2&ndash;4x
+            <strong>Financial planning practices:</strong> 2-4x
             recurring revenue for fee-based practices with strong
             retention. Commission-dependent practices trade at lower
             multiples.
@@ -525,7 +525,7 @@ export default function FinancialServicesAcquisitionArticle() {
           recurring revenue characteristics, high client retention
           rates, and proven roll-up economics. The regulatory complexity
           is real but manageable with{" "}
-          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">proper advisory support</Link> &mdash;
+          <Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">proper advisory support</Link> , 
           and it creates meaningful barriers to entry that protect
           incumbents. The critical success factors are navigating the
           regulatory approval process without disrupting operations,
@@ -536,6 +536,72 @@ export default function FinancialServicesAcquisitionArticle() {
           financial services represents one of the most attractive
           and durable asset classes in the search fund universe.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How is an insurance book of business valued differently from a typical EBITDA multiple?</h3>
+        <p>
+          Insurance agency valuations primarily use a multiple of annual
+          commissions rather than EBITDA multiples. Personal lines (home, auto)
+          books typically trade at 1.5-2.5x annual commissions, while
+          commercial lines (business insurance, workers&apos; compensation)
+          trade at 1.8-3.0x due to higher average premiums and stickier
+          relationships. Larger, diversified agencies trade at 7-12x
+          EBITDA or 2.5-4.0x revenue. The critical variable is
+          retention-adjusted valuation: a book with 92% annual retention
+          generates substantially more lifetime value than one with 85%
+          retention, even if current-year revenue is identical. See our{" "}
+          <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link>{" "}
+          for foundational methodology.
+        </p>
+
+        <h3 className={h3Class}>What regulatory approvals are needed to acquire an insurance brokerage?</h3>
+        <p>
+          Regulatory requirements vary by jurisdiction and sub-sector. In the
+          US, insurance agencies require state-by-state license transfers,
+          and RIAs need SEC or state registration changes. In the UK, FCA
+          approval through a change-in-control application typically takes
+          60 working days. In Germany, BaFin must be notified for acquisitions
+          of 10%+ holdings in regulated entities, and insurance intermediaries
+          require IHK registration under section 34d of the Gewerbeordnung.
+          In France, ORIAS registration must be updated and ACPR authorization
+          obtained for regulated entities. These approval timelines can add
+          2-6 months to closing, build them into your{" "}
+          <Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">letter of intent</Link>{" "}
+          timeline from the start.
+        </p>
+
+        <h3 className={h3Class}>Why are financial services roll-ups so attractive for search fund investors?</h3>
+        <p>
+          Insurance distribution and wealth management are among the most
+          compelling{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
+          opportunities in ETA. Individual agencies or advisory practices can
+          be acquired at 5-7x EBITDA, while scaled platforms with
+          $20M+ in premium or AUM trade at 10-15x or higher , 
+          creating powerful multiple arbitrage. Beyond valuation uplift,
+          multi-office platforms achieve genuine operational synergies:
+          centralized accounting, compliance, marketing, and technology can
+          improve EBITDA margins by 5-10 percentage points. Larger
+          premium volumes unlock higher carrier commission tiers and
+          contingent bonuses worth 1-3 additional percentage points in
+          total compensation. The high retention rates (85-96%) ensure
+          acquired revenue sticks, making each tuck-in acquisition highly
+          accretive.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Financial Conduct Authority (FCA)</strong>: &ldquo;Change in Control Application Requirements &amp; Regulatory Framework,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Stanford GSB</strong>: &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Reagan Consulting / MarshBerry</strong>: &ldquo;Insurance Agency Valuation &amp; M&amp;A Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

@@ -3,7 +3,7 @@ import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 import { slugify } from "@/lib/utils";
 
-// POST /api/forum/posts — create a new forum post
+// POST /api/forum/posts - create a new forum post
 export async function POST(request: NextRequest) {
   const session = await getAuthSession();
   if (!session) return unauthorized();

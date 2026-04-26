@@ -3,24 +3,24 @@ import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared
 
 export const metadata = {
   title: "HR & Employee Due Diligence: Benefits, Contracts & Culture",
-  description: "Comprehensive guide to conducting human resources due diligence in acquisition, covering employee census, compensation, benefits, contracts, culture assessment, and people risk.",
+  description: "Thorough guide to conducting human resources due diligence in acquisition, covering employee census, compensation, benefits, contracts, culture assessment, and people risk.",
   datePublished: "2026-04-22",
   dateModified: "2026-04-22",
   category: "Due Diligence",
   sources: [
     {
       title: "SHRM M&A Due Diligence Guide",
-      url: "https://www.shrm.org/topics-tools/tools/toolkits/mergers-acquisitions",
+      url: "https://www.shrm.org/topics-tools/tools/toolkits/managing-human-resources-mergers-acquisitions",
       organization: "Society for Human Resource Management"
     },
     {
       title: "Department of Labor Compliance Assistance",
-      url: "https://www.dol.gov/general/topics/hiring",
+      url: "https://www.dol.gov/general/topics",
       organization: "U.S. Department of Labor"
     },
     {
       title: "Human Capital Due Diligence",
-      url: "https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-and-a-trends-report.html",
+      url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html",
       organization: "Deloitte"
     }
   ]
@@ -32,7 +32,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h1 className={h1Class}>HR &amp; Employee Due Diligence: Benefits, Contracts &amp; Culture</h1>
 
       <p className={bodyClass}>
-        In any acquisition, the people are often the most valuable asset—and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a comprehensive assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
+        In any acquisition, the people are often the most valuable asset - and the greatest source of risk. Human resources due diligence goes far beyond reviewing headcount numbers; it requires a thorough assessment of compensation structures, benefits obligations, employment contracts, cultural dynamics, compliance issues, and the overall health of the workforce. Poor HR due diligence can lead to unexpected liabilities, key employee departures, integration failures, and significant post-acquisition costs.
       </p>
 
       <p className={bodyClass}>
@@ -145,7 +145,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h2 className={h2Class}>Benefits Plan Analysis</h2>
 
       <p className={bodyClass}>
-        Employee benefits often represent 20-40% of total compensation costs and can carry significant hidden liabilities. A comprehensive benefits review should cover:
+        Employee benefits often represent 20-40% of total compensation costs and can carry significant hidden liabilities. A thorough benefits review should cover:
       </p>
 
       <h3 className={h3Class}>Health and Welfare Benefits</h3>
@@ -328,7 +328,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Consider how the target company's culture aligns with your own leadership style and values. Perfect alignment isn't necessary—or even desirable if you plan to drive change—but you need to understand the gaps and have a plan for bridging them. See our article on <Link href="/learn/culture-change-post-acquisition" className="text-apple-accent hover:underline">culture change post-acquisition</Link> for strategies on managing cultural integration.
+        Consider how the target company's culture aligns with your own leadership style and values. Perfect alignment isn't necessary, or even desirable if you plan to drive change, but you need to understand the gaps and have a plan for bridging them. See our article on <Link href="/learn/culture-change-post-acquisition" className="text-apple-accent hover:underline">culture change post-acquisition</Link> for strategies on managing cultural integration.
       </p>
 
       <h2 className={h2Class}>Labor Law Compliance Review</h2>
@@ -381,7 +381,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </ul>
 
       <p className={bodyClass}>
-        Consider engaging an employment law attorney to conduct a comprehensive compliance audit as part of due diligence. The cost (typically $5,000-$15,000) is modest compared to the potential liability for non-compliance.
+        Consider engaging an employment law attorney to conduct a thorough compliance audit as part of due diligence. The cost (typically $5,000-$15,000) is modest compared to the potential liability for non-compliance.
       </p>
 
       <h2 className={h2Class}>Union Considerations</h2>
@@ -436,7 +436,7 @@ export default function HREmployeeDueDiligenceArticle() {
       <h2 className={h2Class}>HR Due Diligence Checklist</h2>
 
       <p className={bodyClass}>
-        Use this comprehensive checklist to ensure you cover all critical HR due diligence areas:
+        Use this thorough checklist to ensure you cover all critical HR due diligence areas:
       </p>
 
       <h3 className={h3Class}>Employee Census and Organization</h3>
@@ -577,7 +577,7 @@ export default function HREmployeeDueDiligenceArticle() {
       </p>
 
       <p className={bodyClass}>
-        Approach HR DD with the same rigor you apply to financial and operational diligence. Use the comprehensive checklist above, engage specialists where needed (employment attorneys for compliance, benefits consultants for plan reviews), and budget adequate time for employee interviews and cultural assessment.
+        Approach HR DD with the same rigor you apply to financial and operational diligence. Use the thorough checklist above, engage specialists where needed (employment attorneys for compliance, benefits consultants for plan reviews), and budget adequate time for employee interviews and cultural assessment.
       </p>
 
       <p className={bodyClass}>
@@ -585,7 +585,24 @@ export default function HREmployeeDueDiligenceArticle() {
       </p>
 
       <p className={bodyClass}>
-        For more on conducting comprehensive acquisition due diligence, see our <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">complete due diligence checklist</Link>.
+        For more on conducting thorough acquisition due diligence, see our <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">complete due diligence checklist</Link>.
+      </p>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>What percentage of acquisition failures are caused by people-related issues?</h3>
+      <p className={bodyClass}>
+        People-related issues are a leading cause of acquisition underperformance. Deloitte&rsquo;s M&amp;A trends research found that cultural and human capital challenges contribute to failure in approximately 30% of acquisitions, making it the second most common cause after overpayment. SHRM&rsquo;s M&amp;A due diligence guide reports that 47% of key employees leave within the first year of an acquisition when no formal retention program is in place, and that each departing key employee costs the business 1.5-2x their annual salary in replacement costs, lost productivity, and institutional knowledge loss. Thorough HR due diligence and proactive retention planning can reduce key employee turnover to below 15%.
+      </p>
+
+      <h3 className={h3Class}>How much should a buyer budget for employee retention programs?</h3>
+      <p className={bodyClass}>
+        Industry best practice is to budget 2-5% of the purchase price for key employee retention programs. For a $10M acquisition, this translates to $200K-$500K allocated across retention bonuses (typically 25-50% of base salary vesting over 12-24 months), compensation adjustments for underpaid employees, and new equity incentive plans. The U.S. Department of Labor&rsquo;s research on employee turnover suggests that the cost of not investing in retention is significantly higher, replacing a skilled employee costs 50-200% of their annual salary when factoring in recruiting, training, and lost productivity. Build retention costs into your financial model during LOI negotiations.
+      </p>
+
+      <h3 className={h3Class}>What are the most common compliance issues found during HR due diligence?</h3>
+      <p className={bodyClass}>
+        The three most common compliance issues are worker misclassification (employees incorrectly classified as independent contractors or exempt from overtime), incomplete I-9 documentation, and wage and hour violations. SHRM reports that 10-30% of workers in SMEs may be misclassified, with potential back-tax liabilities of 20-40% of affected wages. The Department of Labor&rsquo;s enforcement data shows that I-9 violations carry penalties of $252-$2,507 per form, and the average wage and hour settlement for small businesses ranges from $50K-$250K. Engaging an employment law attorney to conduct a compliance audit ($5K-$15K) during due diligence is a cost-effective way to identify and quantify these risks before closing.
       </p>
 
       <div className="mt-16 border-t border-gray-200 pt-8">
@@ -593,7 +610,7 @@ export default function HREmployeeDueDiligenceArticle() {
         <ul className={ulClass}>
           <li>
             <a
-              href="https://www.shrm.org/topics-tools/tools/toolkits/mergers-acquisitions"
+              href="https://www.shrm.org/topics-tools/tools/toolkits/managing-human-resources-mergers-acquisitions"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -603,7 +620,7 @@ export default function HREmployeeDueDiligenceArticle() {
           </li>
           <li>
             <a
-              href="https://www.dol.gov/general/topics/hiring"
+              href="https://www.dol.gov/general/topics"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"
@@ -613,7 +630,7 @@ export default function HREmployeeDueDiligenceArticle() {
           </li>
           <li>
             <a
-              href="https://www2.deloitte.com/us/en/pages/mergers-and-acquisitions/articles/m-and-a-trends-report.html"
+              href="https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html"
               target="_blank"
               rel="noopener noreferrer"
               className="text-apple-accent hover:underline"

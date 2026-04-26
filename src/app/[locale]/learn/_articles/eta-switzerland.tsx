@@ -11,7 +11,7 @@ export default function ETASwitzerlandArticle() {
         <p>
           Switzerland offers one of the most distinctive and rewarding environments
           for <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Entrepreneurship Through Acquisition in Europe</Link>. With a GDP per capita
-          among the highest in the world, an extraordinarily robust SME sector, and
+          among the highest in the world, an extraordinarily strong SME sector, and
           a well-documented succession crisis known as the Nachfolge problem,
           Switzerland presents search fund entrepreneurs with an unusual combination
           of premium business quality and genuine acquisition need. While valuations
@@ -20,10 +20,11 @@ export default function ETASwitzerlandArticle() {
           conditions for strong long-term returns.
         </p>
 
-        <h2 className={h2Class}>The Swiss market landscape</h2>
+        <h2 className={h2Class}>The Swiss market environment</h2>
         <p>
-          Switzerland is home to approximately 600,000 businesses, of which over
-          99% are classified as KMU (Kleine und Mittlere Unternehmen, the German
+          According to the Swiss Federal Statistical Office, Switzerland is
+          home to approximately 600,000 businesses, of which over 99% are
+          classified as KMU (Kleine und Mittlere Unternehmen, the German
           equivalent of SME). Swiss KMUs employ roughly two-thirds of the private-sector
           workforce and are the backbone of the national economy. The country&apos;s
           KMU sector is renowned globally for engineering excellence, precision
@@ -84,14 +85,14 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>Cantonal tax competition</h2>
         <p>
           Switzerland&apos;s federal structure gives its 26 cantons significant
-          autonomy in setting tax rates, creating a competitive <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link> landscape
+          autonomy in setting tax rates, creating a competitive <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link> market
           that is unique in Europe. For search fund entrepreneurs, the choice
           of canton for incorporating a holding company can have a meaningful
           impact on overall tax efficiency.
         </p>
         <ul className={ulClass}>
-          <li><strong>Zug:</strong> Canton Zug is Switzerland&apos;s most famous low-tax jurisdiction, with an effective combined corporate tax rate (federal, cantonal, and municipal) of approximately 11&ndash;12%. Zug has attracted a large number of international companies and holding structures. The city of Zug itself offers some of the lowest rates in the canton.</li>
-          <li><strong>Schwyz:</strong> Canton Schwyz offers similarly competitive tax rates, with effective corporate tax rates in certain municipalities as low as 12&ndash;13%. Schwyz is particularly attractive for holding companies due to its favorable treatment of participation income.</li>
+          <li><strong>Zug:</strong> Canton Zug is Switzerland&apos;s most famous low-tax jurisdiction, with an effective combined corporate tax rate (federal, cantonal, and municipal) of approximately 11-12%. Zug has attracted a large number of international companies and holding structures. The city of Zug itself offers some of the lowest rates in the canton.</li>
+          <li><strong>Schwyz:</strong> Canton Schwyz offers similarly competitive tax rates, with effective corporate tax rates in certain municipalities as low as 12-13%. Schwyz is particularly attractive for holding companies due to its favorable treatment of participation income.</li>
           <li><strong>Nidwalden:</strong> Canton Nidwalden has established itself as a competitive alternative to Zug and Schwyz, with effective corporate tax rates around 12%. The canton actively courts new businesses with a streamlined administrative environment.</li>
           <li><strong>Other competitive cantons:</strong> Appenzell Innerrhoden, Obwalden, and Lucerne also offer competitive rates. Even traditionally higher-tax cantons like Zurich and Geneva have reduced their rates following the 2020 federal tax reform (TRAF).</li>
           <li><strong>TRAF impact:</strong> The Tax Reform and AHV Financing (TRAF) reform, which took effect in 2020, abolished preferential tax regimes for holding, domiciliary, and mixed companies but introduced new tools such as the patent box, R&amp;D super deductions, and stepped-up depreciation that can benefit acquirers of innovative businesses.</li>
@@ -100,10 +101,10 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>The Nachfolge crisis</h2>
         <p>
           The Nachfolge (succession) crisis is one of the most discussed business
-          challenges in Switzerland. Industry estimates from organizations such
-          as the KMU-Institut at the University of St. Gallen suggest that tens
-          of thousands of Swiss businesses will need to find successors in the
-          coming years. The crisis is driven by several converging factors.
+          challenges in Switzerland. Research from the KMU-Institut at the
+          University of St. Gallen estimates that roughly 75,000 Swiss businesses
+          will need to find successors over the next decade, representing over
+          400,000 jobs. The crisis is driven by several converging factors.
         </p>
         <ul className={ulClass}>
           <li><strong>Demographics:</strong> A significant proportion of KMU owners are baby boomers approaching or past retirement age. Many have been running their businesses for 30 or more years.</li>
@@ -120,8 +121,8 @@ export default function ETASwitzerlandArticle() {
 
         <h2 className={h2Class}>The multilingual market</h2>
         <p>
-          Switzerland&apos;s four national languages&mdash;German, French, Italian,
-          and Romansh&mdash;create distinct regional business environments within
+          Switzerland&apos;s four national languages, German, French, Italian,
+          and Romansh, create distinct regional business environments within
           a single country. Understanding these linguistic regions is essential
           for search fund entrepreneurs.
         </p>
@@ -145,19 +146,19 @@ export default function ETASwitzerlandArticle() {
           <li><strong>Skilled workforce:</strong> Switzerland&apos;s dual education system (combining academic and vocational training) produces one of the most skilled workforces in the world. Employee expertise is a genuine competitive advantage that is difficult to replicate.</li>
           <li><strong>Innovation:</strong> Swiss KMUs are often highly innovative, investing in R&amp;D and continuously improving their products and processes. This innovation creates sustainable competitive moats.</li>
           <li><strong>Economic stability:</strong> Switzerland&apos;s stable political and economic environment reduces risk premiums. Low inflation, a strong currency, and predictable regulation create an environment where long-term business planning is feasible.</li>
-          <li><strong>Export orientation:</strong> Many Swiss KMUs derive 50&ndash;80% of revenue from exports, diversifying their revenue base beyond the small domestic market.</li>
+          <li><strong>Export orientation:</strong> Many Swiss KMUs derive 50-80% of revenue from exports, diversifying their revenue base beyond the small domestic market.</li>
         </ul>
 
         <h2 className={h2Class}>Swiss banking relationships</h2>
         <p>
           Switzerland&apos;s banking sector plays a central role in KMU <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link> and can be a critical partner in search fund acquisitions. The Swiss
-          banking landscape for KMU financing includes several tiers.
+          banking market for KMU financing includes several tiers.
         </p>
         <ul className={ulClass}>
           <li><strong>Cantonal banks (Kantonalbanken):</strong> Each canton has its own cantonal bank, most of which benefit from a state guarantee. Cantonal banks are deeply embedded in their local economies and are often the primary banking partners for KMUs. They are well-positioned to finance acquisitions of local businesses.</li>
           <li><strong>Raiffeisen banks:</strong> The Raiffeisen cooperative banking group is Switzerland&apos;s third-largest banking group and has a strong presence in rural and semi-urban areas. Raiffeisen banks are important KMU financiers and can be valuable partners for acquisitions outside major cities.</li>
-          <li><strong>Major banks:</strong> UBS and (the reconstituted post-Credit Suisse integration) the larger banking landscape serve KMU clients through dedicated business banking divisions. These institutions have the capacity to finance larger search fund acquisitions.</li>
-          <li><strong>Typical terms:</strong> Swiss bank acquisition financing typically involves leverage of 2.5x to 4x EBITDA, with terms of five to seven years. Interest rates in Switzerland benefit from the generally low-rate environment, though this is subject to monetary policy conditions.</li>
+          <li><strong>Major banks:</strong> UBS and (the reconstituted post-Credit Suisse integration) the larger banking market serve KMU clients through dedicated business banking divisions. These institutions have the capacity to finance larger search fund acquisitions.</li>
+          <li><strong>Typical terms:</strong> Swiss bank acquisition financing typically involves use of 2.5x to 4x EBITDA, with terms of five to seven years. Interest rates in Switzerland benefit from the generally low-rate environment, though this is subject to monetary policy conditions.</li>
         </ul>
 
         <h2 className={h2Class}>KMU financing beyond banks</h2>
@@ -166,7 +167,7 @@ export default function ETASwitzerlandArticle() {
           are available for search fund acquisitions in Switzerland.
         </p>
         <ul className={ulClass}>
-          <li><strong>Seller financing:</strong> Swiss business owners are often willing to provide seller financing of 15&ndash;25% of the purchase price, particularly when the buyer demonstrates commitment to the business&apos;s long-term success. Seller loans are typically subordinated to bank debt and structured with terms of two to five years.</li>
+          <li><strong>Seller financing:</strong> Swiss business owners are often willing to provide seller financing of 15-25% of the purchase price, particularly when the buyer demonstrates commitment to the business&apos;s long-term success. Seller loans are typically subordinated to bank debt and structured with terms of two to five years.</li>
           <li><strong>Technology funds:</strong> Various cantonal and federal technology and innovation funds can provide financing for acquisitions of technology-oriented KMUs, particularly where the acquirer plans post-acquisition investment in R&amp;D or digitalization.</li>
           <li><strong>Private debt funds:</strong> A growing number of Swiss private debt funds provide mezzanine and subordinated financing for KMU transactions, filling the gap between senior bank debt and equity.</li>
         </ul>
@@ -175,7 +176,7 @@ export default function ETASwitzerlandArticle() {
         <p>
           Switzerland&apos;s regulatory environment is generally business-friendly
           but has several distinctive features that search fund entrepreneurs
-          must navigate.
+          must manage.
         </p>
         <ul className={ulClass}>
           <li><strong>Merger control:</strong> Swiss merger control thresholds (COMCO) apply to transactions where the combined worldwide turnover exceeds CHF 2 billion or combined Swiss turnover exceeds CHF 500 million. Most search fund acquisitions fall well below these thresholds and do not require merger clearance.</li>
@@ -187,7 +188,7 @@ export default function ETASwitzerlandArticle() {
         <h2 className={h2Class}>Work permits for foreign acquirers</h2>
         <p>
           Non-Swiss nationals who wish to acquire and manage a Swiss business
-          must navigate the country&apos;s immigration requirements. Switzerland
+          must manage the country&apos;s immigration requirements. Switzerland
           is not an EU member, though it has bilateral agreements with the EU
           that provide certain freedoms of movement.
         </p>
@@ -229,8 +230,44 @@ export default function ETASwitzerlandArticle() {
           <li><strong>Local anchoring:</strong> Swiss business culture values local presence and commitment. Relocating to Switzerland and establishing a physical base in the target region signals seriousness.</li>
           <li><strong>Treuhand advisors:</strong> The Swiss Treuhand (fiduciary) system is unique. A licensed Treuhandexperte can provide accounting, tax, and advisory services for the acquisition process and post-completion operations.</li>
           <li><strong>Patience with valuations:</strong> Swiss business owners are well-informed about valuations and are rarely in a hurry to sell. Be prepared for extended negotiations and realistic about the premium required for Swiss quality.</li>
-          <li><strong>Post-acquisition value creation:</strong> The best opportunities for value creation in Swiss acquisitions often lie in digitalization, international expansion, and operational optimization rather than cost-cutting, given the already lean nature of most Swiss KMUs.</li>
+          <li><strong>Post-acquisition value creation:</strong> The best opportunities for value creation in Swiss acquisitions often lie in <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digitalization</Link>, international expansion, and operational optimization rather than cost-cutting, given the already lean nature of most Swiss KMUs.</li>
         </ul>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What makes Switzerland attractive for business acquisitions?</h3>
+        <p>
+          Switzerland offers over 600,000 KMUs with many facing succession
+          challenges, exceptionally high profitability (Swiss businesses
+          typically command premium margins), political and economic stability,
+          a strong legal framework, access to German, French, and
+          Italian-speaking markets, and a sophisticated financial ecosystem.
+          Swiss cantonal banks actively finance business acquisitions, and the
+          participation exemption (Beteiligungsabzug) makes the country
+          tax-efficient for holding structures.
+        </p>
+
+        <h3 className={h3Class}>What are the challenges of acquiring a business in Switzerland?</h3>
+        <p>
+          Key challenges include high valuations (Swiss businesses command a
+          1-2x EBITDA premium over EU peers), high labor costs, complex
+          cantonal tax variations, multiple languages across regions, and strict
+          work permit requirements for non-EU nationals under the Lex Koller
+          legislation. Competition from local family offices and PE firms for
+          quality deals is also significant.
+        </p>
+
+        <h3 className={h3Class}>How does the Swiss search fund ecosystem compare to other European markets?</h3>
+        <p>
+          Switzerland&apos;s search fund ecosystem is centered around the
+          University of St. Gallen (HSG) and EPFL/HEC Lausanne. Swiss searchers
+          benefit from access to the broader DACH market (Germany, Austria,
+          Switzerland) and multilingual deal flow. Swiss family offices are
+          increasingly active as <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">search fund investors</Link>, and the
+          country&apos;s position at the crossroads of three major European
+          language zones gives Swiss-based searchers a unique geographic
+          advantage.
+        </p>
       </div>
     </article>
   );

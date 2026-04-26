@@ -4,10 +4,14 @@ import {
   allArticles,
   categoryMeta,
   categorySlugMap,
-  readingPaths,
+  getPhaseForArticle,
+  getAudiencesForArticle,
+  PHASE_INFO,
+  type ArticleCard,
 } from "./_articles/article-registry";
 import { safeJsonLd, collectionPageSchema } from "@/lib/json-ld";
 import { buildMetadata } from "@/lib/meta-snippets";
+import LearnHub from "@/components/learn/LearnHub";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -20,6 +24,20 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function LearnPage({ params }: Props) {
   const { locale } = await params;
+
+  // Serialize articles for the client component
+  const articles: ArticleCard[] = allArticles.map((a) => ({
+    slug: a.slug,
+    title: a.title,
+    description: a.description,
+    readTime: a.readTime,
+    tag: a.tag,
+    category: a.category,
+    categorySlug: categorySlugMap[a.category] ?? "",
+    phase: getPhaseForArticle(a),
+    audiences: getAudiencesForArticle(a),
+  }));
+
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       <script
@@ -34,98 +52,23 @@ export default async function LearnPage({ params }: Props) {
           ),
         }}
       />
+
       {/* ── Hero ──────────────────────────────────────────────────────── */}
       <h1 className="text-4xl font-semibold text-apple-black tracking-tight">
         Learn about ETA
       </h1>
       <p className="text-apple-gray-500 mt-2 max-w-2xl">
         {allArticles.length} guides, reports, and resources on Entrepreneurship
-        Through Acquisition &mdash; from getting started to country-by-country
-        playbooks.
+        Through Acquisition &mdash; organized by the six phases of the ETA
+        journey.
       </p>
 
-      {/* ── Reading Paths ─────────────────────────────────────────────── */}
-      <section className="mt-12">
-        <h2 className="text-xl font-semibold text-apple-black tracking-tight">
-          Reading paths
-        </h2>
-        <p className="text-sm text-apple-gray-500 mt-1">
-          Curated article sequences to guide your learning
-        </p>
-
-        <div className="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-          {readingPaths.map((path) => (
-            <div
-              key={path.title}
-              className={`rounded-xl p-5 border ${path.color}`}
-            >
-              <h3 className="text-lg font-semibold text-apple-black">
-                {path.title}
-              </h3>
-              <p className="text-sm text-apple-gray-700 mt-1">
-                {path.description}
-              </p>
-              <div className="mt-3 flex flex-wrap gap-1.5">
-                {path.slugs.map((slug, i) => {
-                  const article = allArticles.find((a) => a.slug === slug);
-                  if (!article) return null;
-                  return (
-                    <Link
-                      key={slug}
-                      href={`/learn/${slug}`}
-                      className="inline-flex items-center text-xs bg-white/80 border border-black/5 rounded-full px-2.5 py-1 text-apple-gray-700 hover:text-apple-accent hover:border-apple-accent/30 transition"
-                    >
-                      <span className="text-apple-gray-400 mr-1.5 font-medium">
-                        {i + 1}.
-                      </span>
-                      <span className="truncate max-w-[180px]">
-                        {article.title}
-                      </span>
-                    </Link>
-                  );
-                })}
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      {/* ── Category Grid ─────────────────────────────────────────────── */}
-      <section className="mt-16">
-        <h2 className="text-xl font-semibold text-apple-black tracking-tight">
-          Browse by category
-        </h2>
-        <p className="text-sm text-apple-gray-500 mt-1">
-          {categoryMeta.length} topics covering every stage of the search fund
-          journey
-        </p>
-
-        <div className="mt-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {categoryMeta.map((cat) => {
-            const count = allArticles.filter(
-              (a) => categorySlugMap[a.category] === cat.slug,
-            ).length;
-
-            return (
-              <Link
-                key={cat.slug}
-                href={`/learn/category/${cat.slug}`}
-                className="bg-white rounded-xl p-5 hover:bg-apple-gray-100/50 transition border border-apple-gray-100 group"
-              >
-                <h3 className="text-base font-semibold text-apple-black group-hover:text-apple-accent transition">
-                  {cat.name}
-                </h3>
-                <p className="text-sm text-apple-gray-700 mt-1 line-clamp-2">
-                  {cat.description}
-                </p>
-                <p className="text-xs text-apple-gray-400 mt-2">
-                  {count} {count === 1 ? "article" : "articles"}
-                </p>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
+      {/* ── Interactive hub (client) ──────────────────────────────────── */}
+      <LearnHub
+        articles={articles}
+        phases={PHASE_INFO}
+        categories={categoryMeta}
+      />
 
       {/* ── Glossary Teaser ───────────────────────────────────────────── */}
       <section className="mt-16">

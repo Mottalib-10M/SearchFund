@@ -5,7 +5,7 @@ import { getAuthSession, unauthorized } from "@/lib/api-auth";
 import type { Prisma } from "@/generated/prisma";
 
 // ---------------------------------------------------------------------------
-// GET /api/listings — list with filters, sort, pagination
+// GET /api/listings - list with filters, sort, pagination
 // ---------------------------------------------------------------------------
 
 export async function GET(request: NextRequest) {
@@ -143,7 +143,7 @@ export async function GET(request: NextRequest) {
 }
 
 // ---------------------------------------------------------------------------
-// POST /api/listings — create a new listing (auth required)
+// POST /api/listings - create a new listing (auth required)
 // ---------------------------------------------------------------------------
 
 export async function POST(request: NextRequest) {
@@ -254,7 +254,7 @@ export async function POST(request: NextRequest) {
         .map((h) => h.trim())
     : [];
 
-  // Determine status — publish directly when submitted
+  // Determine status - publish directly when submitted
   const statusInput = typeof body.status === "string" ? body.status : "DRAFT";
   const status =
     statusInput === "UNDER_REVIEW" || statusInput === "ACTIVE" ? "ACTIVE" : "DRAFT";

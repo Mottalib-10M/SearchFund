@@ -19,14 +19,14 @@ export default function SearchFundFundraisingTimelineArticle() {
           preparation, network quality, and execution discipline.
         </p>
 
-        <h2 className={h2Class}>Overview: The 8&ndash;16 week arc</h2>
+        <h2 className={h2Class}>Overview: The 8-16 week arc</h2>
 
         <ol className={olClass}>
-          <li><strong>Weeks 1&ndash;2:</strong> Pre-fundraise preparation &mdash; materials, legal, investor list.</li>
-          <li><strong>Weeks 3&ndash;4:</strong> Building your investor pipeline and securing warm introductions.</li>
-          <li><strong>Weeks 5&ndash;8:</strong> Active outreach, pitch meetings, and follow-up.</li>
-          <li><strong>Weeks 9&ndash;12:</strong> Term sheet negotiation, verbal commitments, and first close.</li>
-          <li><strong>Weeks 13&ndash;16:</strong> Final close, stragglers, and transition to active search.</li>
+          <li><strong>Weeks 1-2:</strong> Pre-fundraise preparation, materials, legal, investor list.</li>
+          <li><strong>Weeks 3-4:</strong> Building your investor pipeline and securing warm introductions.</li>
+          <li><strong>Weeks 5-8:</strong> Active outreach, pitch meetings, and follow-up.</li>
+          <li><strong>Weeks 9-12:</strong> Term sheet negotiation, verbal commitments, and first close.</li>
+          <li><strong>Weeks 13-16:</strong> Final close, stragglers, and transition to active search.</li>
         </ol>
 
         <p>
@@ -35,11 +35,11 @@ export default function SearchFundFundraisingTimelineArticle() {
           skip steps or compress the preparation phase.
         </p>
 
-        <h2 className={h2Class}>Weeks 1&ndash;2: Pre-fundraise preparation</h2>
+        <h2 className={h2Class}>Weeks 1-2: Pre-fundraise preparation</h2>
 
         <p>
           The work you do before contacting a single investor is the
-          highest-leverage time in the entire fundraise. During this phase you
+          highest-use time in the entire fundraise. During this phase you
           will build three foundational assets: your fundraising materials,
           your legal framework, and your investor target list.
         </p>
@@ -47,9 +47,9 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Fundraising materials</h3>
         <p>
           Two core documents must be polished before any outreach begins. Your{" "}
-          <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link> &mdash;
-          a 10&ndash;12 slide presentation that tells your story and summarizes
-          fund economics &mdash; is the first thing investors see. Your{" "}
+          <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">fundraising deck</Link> , 
+          a 10-12 slide presentation that tells your story and summarizes
+          fund economics, is the first thing investors see. Your{" "}
           <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">Private Placement Memorandum (PPM)</Link>{" "}
           provides the legal detail, risk disclosures, and subscription terms
           investors need for due diligence. Have at least two trusted advisors
@@ -59,10 +59,11 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Legal setup</h3>
         <p>
           Engage a search fund attorney to prepare entity formation documents,
-          subscription agreements, and regulatory filings. In the US this
+          subscription agreements, and regulatory filings. Familiarize yourself
+          with standard provisions by reading our <Link href="/learn/search-fund-term-sheet" className="text-apple-accent hover:underline">term sheet guide</Link>. In the US this
           typically means forming an LLC and preparing a Regulation D exemption.
           In Europe the structure varies by country. Institutional investors will
-          scrutinize your documents &mdash; sloppy legal drafting signals a lack
+          scrutinize your documents, sloppy legal drafting signals a lack
           of professionalism.
         </p>
 
@@ -85,12 +86,12 @@ export default function SearchFundFundraisingTimelineArticle() {
           the majority of a 45-minute meeting for Q&amp;A.
         </p>
 
-        <h2 className={h2Class}>Weeks 3&ndash;4: Warm introductions and early outreach</h2>
+        <h2 className={h2Class}>Weeks 3-4: Warm introductions and early outreach</h2>
 
         <p>
           With materials ready you begin the relationship-building phase. The
           goal is to secure warm introductions, schedule initial calls, and
-          start creating momentum &mdash; not to ask for money yet.
+          start creating momentum, not to ask for money yet.
         </p>
 
         <h3 className={h3Class}>Activating your network</h3>
@@ -107,7 +108,7 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Sequencing your outreach</h3>
         <p>
           Do not contact all prospects at once. Begin with 10 to 15 Tier 1
-          investors &mdash; the institutional players and ex-searchers who
+          investors, the institutional players and ex-searchers who
           move quickly and whose commitments signal credibility to later
           investors. Early commitments from well-known names create a snowball
           effect: later prospects feel reassured when they see respected
@@ -125,7 +126,7 @@ export default function SearchFundFundraisingTimelineArticle() {
           scheduling a longer follow-up meeting.
         </p>
 
-        <h2 className={h2Class}>Weeks 5&ndash;8: The pitch meetings</h2>
+        <h2 className={h2Class}>Weeks 5-8: The pitch meetings</h2>
 
         <p>
           This is the heart of the fundraise. You will conduct the majority of
@@ -136,7 +137,7 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h3 className={h3Class}>Running the investor meeting</h3>
         <p>
           A typical meeting lasts 30 to 45 minutes. Spend the first five
-          minutes on personal rapport &mdash; do not open the deck immediately.
+          minutes on personal rapport, do not open the deck immediately.
           Walk through the deck in 12 to 15 minutes, spending the most time on
           your background and search thesis. Leave at least 15 minutes for
           Q&amp;A, where investors form their strongest impressions. Close by
@@ -157,17 +158,17 @@ export default function SearchFundFundraisingTimelineArticle() {
         <p>
           During peak weeks you may have 15 to 25 active conversations
           running simultaneously. Block mornings for follow-ups and afternoons
-          for new meetings. Track each prospect&rsquo;s status &mdash; initial
+          for new meetings. Track each prospect&rsquo;s status, initial
           call, PPM sent, second meeting, verbal commitment, subscription
-          agreement, funds wired &mdash; in a color-coded pipeline so you can
+          agreement, funds wired, in a color-coded pipeline so you can
           see at a glance which conversations need attention.
         </p>
 
-        <h2 className={h2Class}>Weeks 9&ndash;12: Term sheet negotiation and first close</h2>
+        <h2 className={h2Class}>Weeks 9-12: Term sheet negotiation and first close</h2>
 
         <p>
           As verbal commitments accumulate you transition from selling to
-          closing &mdash; a phase requiring attention to legal detail, comfort
+          closing, a phase requiring attention to legal detail, comfort
           with negotiation, and multi-stakeholder management.
         </p>
 
@@ -202,7 +203,7 @@ export default function SearchFundFundraisingTimelineArticle() {
           letting the commitment quietly evaporate.
         </p>
 
-        <h2 className={h2Class}>Weeks 13&ndash;16: Final close and transition</h2>
+        <h2 className={h2Class}>Weeks 13-16: Final close and transition</h2>
 
         <h3 className={h3Class}>Filling the remaining units</h3>
         <p>
@@ -210,14 +211,14 @@ export default function SearchFundFundraisingTimelineArticle() {
           remaining. This capital often comes from later-stage prospects who
           needed more time, referrals from existing investors, and individuals
           reassured by the social proof of an active fund. Ask each investor
-          to introduce you to one or two additional prospects &mdash; the
+          to introduce you to one or two additional prospects, the
           referral chain is the most efficient tool for filling out your
           cap table.
         </p>
 
         <h3 className={h3Class}>The second close strategy</h3>
         <p>
-          A second close &mdash; and sometimes a third &mdash; is standard
+          A second close, and sometimes a third, is standard
           practice. Set a clear deadline and communicate it to all remaining
           prospects. Letting investors know that only three or four units
           remain creates genuine urgency. Some searchers leave a small number
@@ -232,7 +233,7 @@ export default function SearchFundFundraisingTimelineArticle() {
           Once your fund is substantially closed, shift energy to the search.
           Send an announcement confirming the close, thanking investors, and
           outlining your search timeline and communication cadence. Establish
-          monthly investor updates from day one &mdash; how you manage these
+          monthly investor updates from day one, how you manage these
           relationships will determine whether investors enthusiastically back
           you at acquisition or hesitate when you need them most.
         </p>
@@ -251,8 +252,8 @@ export default function SearchFundFundraisingTimelineArticle() {
 
         <h3 className={h3Class}>Individual and angel investors</h3>
         <p>
-          High-net-worth individuals &mdash; including ex-searchers, retired
-          executives, and entrepreneurs &mdash; often invest $25,000 to $75,000
+          High-net-worth individuals: including ex-searchers, retired
+          executives, and entrepreneurs, often invest $25,000 to $75,000
           per unit but provide outsized value through mentorship, industry
           connections, and operational advice. They typically take longer to
           decide and may need more education about the model, but they bring
@@ -265,7 +266,7 @@ export default function SearchFundFundraisingTimelineArticle() {
           Aim for three to five institutional investors who anchor the fund,
           complemented by 10 to 15 individuals who bring diverse expertise.
           Avoid letting a single investor hold 30 percent or more of your
-          search capital &mdash; it creates governance risk and
+          search capital, it creates governance risk and
           over-dependence on one relationship. A well-balanced{" "}
           <Link href="/learn/cap-tables-equity" className="text-apple-accent hover:underline">cap table</Link> gives
           you resilience, diverse perspectives, and a broader network.
@@ -284,23 +285,23 @@ export default function SearchFundFundraisingTimelineArticle() {
         <p>
           If investors push back on your search thesis, take their feedback
           seriously. Revisit your <Link href="/learn/fundraising-deck" className="text-apple-accent hover:underline">deck</Link> and
-          PPM with fresh eyes. Sometimes a modest refinement &mdash; sharpening
+          PPM with fresh eyes. Sometimes a modest refinement, sharpening
           your thesis, adding detail to your narrative, or adjusting target
-          criteria &mdash; dramatically improves conversion rates.
+          criteria, dramatically improves conversion rates.
         </p>
 
         <h3 className={h3Class}>Expand your network</h3>
         <p>
           Attend ETA conferences and networking events. Reach out to searchers
           who are a year or two ahead of you for referrals. The search fund
-          community is remarkably generous &mdash; most people will help if
+          community is remarkably generous, most people will help if
           you ask thoughtfully.
         </p>
 
         <h3 className={h3Class}>Consider structural adjustments</h3>
         <p>
           If you have exhausted your network and refined your materials but
-          still cannot close, consider alternatives: a self-funded search, a
+          still cannot close, consider alternatives: a <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link>, a
           co-searcher partnership, or reducing the target raise. The key is
           to adapt rather than persist with a broken approach.
         </p>
@@ -308,38 +309,38 @@ export default function SearchFundFundraisingTimelineArticle() {
         <h2 className={h2Class}>Common fundraising mistakes</h2>
 
         <ul className={ulClass}>
-          <li><strong>Starting outreach before materials are ready.</strong> You only get one first impression with each investor &mdash; make it count.</li>
+          <li><strong>Starting outreach before materials are ready.</strong> You only get one first impression with each investor, make it count.</li>
           <li><strong>Treating fundraising as transactional.</strong> Investors back people, not pitch decks. Build genuine relationships.</li>
           <li><strong>Failing to create urgency.</strong> Set soft deadlines, communicate remaining units, and announce when the first close approaches.</li>
           <li><strong>Ignoring the signaling value of early commitments.</strong> Prioritize well-known institutional investors and respected ex-searchers first.</li>
           <li><strong>Over-concentrating the cap table.</strong> A single large check creates governance risks and reduces perspective diversity.</li>
           <li><strong>Neglecting follow-up.</strong> A disciplined follow-up cadence separates successful fundraisers from those who stall.</li>
-          <li><strong>Not asking for referrals.</strong> Every conversation &mdash; even a pass &mdash; should end with a request for introductions.</li>
+          <li><strong>Not asking for referrals.</strong> Every conversation, even a pass, should end with a request for introductions.</li>
           <li><strong>Underestimating the time commitment.</strong> Fundraising is a full-time job for 8 to 16 weeks.</li>
         </ul>
 
         <h2 className={h2Class}>Key metrics to track</h2>
 
         <ul className={ulClass}>
-          <li><strong>Total prospects contacted:</strong> Aim for 80&ndash;120. Below 50 and stalling means your pipeline is the bottleneck.</li>
-          <li><strong>Meeting conversion rate:</strong> 40&ndash;60% for warm introductions, 10&ndash;20% for cold outreach.</li>
-          <li><strong>Commitment conversion rate:</strong> Strong searchers convert 25&ndash;40% of meetings into commitments.</li>
+          <li><strong>Total prospects contacted:</strong> Aim for 80-120. Below 50 and stalling means your pipeline is the bottleneck.</li>
+          <li><strong>Meeting conversion rate:</strong> 40-60% for warm introductions, 10-20% for cold outreach.</li>
+          <li><strong>Commitment conversion rate:</strong> Strong searchers convert 25-40% of meetings into commitments.</li>
           <li><strong>Time from meeting to commitment:</strong> Typically two to four weeks. Beyond six weeks warrants diagnosis.</li>
           <li><strong>Units committed vs. target:</strong> Track weekly. Plateaus beyond two weeks warrant a strategy reassessment.</li>
         </ul>
 
         <h2 className={h2Class}>Week-by-week checklist</h2>
 
-        <h3 className={h3Class}>Weeks 1&ndash;2</h3>
+        <h3 className={h3Class}>Weeks 1-2</h3>
         <ol className={olClass}>
           <li>Finalize fundraising deck and PPM with advisor review.</li>
           <li>Engage search fund attorney for legal documents.</li>
-          <li>Build and tier your investor target list (80&ndash;120 names).</li>
+          <li>Build and tier your investor target list (80-120 names).</li>
           <li>Identify warm introduction paths for Tier 1 prospects.</li>
           <li>Rehearse your pitch at least ten times.</li>
         </ol>
 
-        <h3 className={h3Class}>Weeks 3&ndash;4</h3>
+        <h3 className={h3Class}>Weeks 3-4</h3>
         <ol className={olClass}>
           <li>Request warm introductions from mentors, professors, and peers.</li>
           <li>Begin scheduling screening calls with Tier 1 investors.</li>
@@ -347,24 +348,24 @@ export default function SearchFundFundraisingTimelineArticle() {
           <li>Track all activity in your CRM or pipeline spreadsheet.</li>
         </ol>
 
-        <h3 className={h3Class}>Weeks 5&ndash;8</h3>
+        <h3 className={h3Class}>Weeks 5-8</h3>
         <ol className={olClass}>
-          <li>Conduct 15&ndash;25 in-depth investor meetings.</li>
+          <li>Conduct 15-25 in-depth investor meetings.</li>
           <li>Send PPMs and follow-up materials within 24 hours of each meeting.</li>
           <li>Follow up with all prospects on a 7-day cadence.</li>
           <li>Begin collecting verbal commitments and tracking unit allocation.</li>
-          <li>Ask every investor &mdash; including those who pass &mdash; for referrals.</li>
+          <li>Ask every investor, including those who pass, for referrals.</li>
         </ol>
 
-        <h3 className={h3Class}>Weeks 9&ndash;12</h3>
+        <h3 className={h3Class}>Weeks 9-12</h3>
         <ol className={olClass}>
           <li>Circulate subscription agreements to committed investors.</li>
           <li>Negotiate any non-standard terms with individual investors.</li>
-          <li>Conduct first close at 60&ndash;70 percent of target.</li>
+          <li>Conduct first close at 60-70 percent of target.</li>
           <li>Announce the first close to remaining prospects to create urgency.</li>
         </ol>
 
-        <h3 className={h3Class}>Weeks 13&ndash;16</h3>
+        <h3 className={h3Class}>Weeks 13-16</h3>
         <ol className={olClass}>
           <li>Fill remaining units through referrals and late-stage prospects.</li>
           <li>Conduct final close and process all wire transfers.</li>
@@ -377,7 +378,7 @@ export default function SearchFundFundraisingTimelineArticle() {
 
         <p>
           Fundraising is the first test of your ability to sell, build
-          relationships, and manage a complex multi-stakeholder process &mdash;
+          relationships, and manage a complex multi-stakeholder process , 
           all skills you will need as a CEO. Prepare thoroughly, sequence
           conversations to build momentum, and track your pipeline obsessively.
           Every investor relationship you build during the fundraise will
@@ -391,6 +392,48 @@ export default function SearchFundFundraisingTimelineArticle() {
           and <Link href="/learn/writing-a-ppm" className="text-apple-accent hover:underline">how to write a compelling PPM</Link>.
           Together with this timeline, they provide a complete playbook for
           raising your search capital with confidence.
+        </p>
+
+        {/* ------------------------------------------------------------------ */}
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          Can I start searching for deals while still fundraising?
+        </h3>
+        <p>
+          It is possible but not recommended. Fundraising and deal sourcing
+          are both full-time activities, and splitting your attention risks
+          doing both poorly. The exception is the period between first close
+          and final close: once you have 60 to 70 percent of capital committed,
+          you can begin light deal sourcing - scanning databases, building
+          broker relationships, and refining your pipeline - while still
+          filling remaining units. Formal LOIs should wait until the fund is
+          substantially closed.
+        </p>
+
+        <h3 className={h3Class}>
+          What if a key investor drops out after giving a verbal commitment?
+        </h3>
+        <p>
+          Verbal commitments are not legally binding, and a small percentage
+          of investors will pull back between commitment and wire. Mitigate
+          this by over-subscribing slightly (target 10 percent more than your
+          minimum raise) and keeping your pipeline active even after receiving
+          verbal commitments. If a key investor drops, reach out immediately
+          to your backup prospects and ask existing investors for referrals.
+          Speed is critical - a stalled fundraise can become a negative signal.
+        </p>
+
+        <h3 className={h3Class}>
+          Is it better to do one close or multiple closes?
+        </h3>
+        <p>
+          Multiple closes are standard practice and recommended. A first close
+          at 60 to 70 percent of target lets you begin drawing salary and
+          searching, which creates momentum. The final close captures remaining
+          commitments, often accelerated by the social proof of an active fund.
+          Some searchers add a third close to accommodate late-arriving
+          strategic investors identified during the search phase.
         </p>
       </div>
     </article>

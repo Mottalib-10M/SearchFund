@@ -11,8 +11,8 @@ export default function ETAMiddleEastArticle() {
 
       <div className={bodyClass}>
         <p>
-          The Gulf Cooperation Council (GCC) region &mdash; comprising the UAE,
-          Saudi Arabia, Bahrain, Qatar, Kuwait, and Oman &mdash; is emerging as
+          The Gulf Cooperation Council (GCC) region, comprising the UAE,
+          Saudi Arabia, Bahrain, Qatar, Kuwait, and Oman, is emerging as
           one of the most compelling frontiers for Entrepreneurship Through
           Acquisition. Fueled by ambitious economic diversification programs,
           a massive wave of family business successions, rapid regulatory
@@ -45,14 +45,14 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Regulatory modernization:</strong> New commercial laws,
             bankruptcy frameworks, and foreign-ownership reforms have reshaped
-            the investment landscape in the past five years, making it
+            the investment market in the past five years, making it
             significantly easier for non-nationals to own and operate
             businesses.
           </li>
           <li>
             <strong>Mega-project spending:</strong> Trillions of dollars in
             infrastructure, tourism, entertainment, and technology projects
-            create downstream demand for SME services &mdash; from facility
+            create downstream demand for SME services, from facility
             management and logistics to professional services and technology.
           </li>
           <li>
@@ -65,11 +65,11 @@ export default function ETAMiddleEastArticle() {
         <p>
           These macro tailwinds create a favorable backdrop for
           acquisition-driven entrepreneurship. Unlike mature Western markets,
-          the GCC&rsquo;s ETA ecosystem is nascent &mdash; meaning early
+          the GCC&rsquo;s ETA ecosystem is nascent, meaning early
           movers can establish themselves before the model becomes crowded.
         </p>
 
-        <h2 className={h2Class}>The SME landscape across the GCC</h2>
+        <h2 className={h2Class}>The SME market across the GCC</h2>
 
         <h3 className={h3Class}>United Arab Emirates</h3>
         <p>
@@ -78,8 +78,8 @@ export default function ETAMiddleEastArticle() {
           contribute roughly 63% of non-oil GDP. Dubai and Abu Dhabi together
           host more than 350,000 SMEs spanning services, trading, technology,
           hospitality, healthcare, and education. The UAE&rsquo;s position as a
-          regional hub &mdash; with world-class infrastructure, two major
-          international airports, and a multicultural workforce &mdash; makes it
+          regional hub, with world-class infrastructure, two major
+          international airports, and a multicultural workforce, makes it
           the natural launchpad for Gulf-focused ETA strategies.
         </p>
 
@@ -126,13 +126,13 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>First-generation founders aging out:</strong> Many of the
             businesses built during the Gulf&rsquo;s rapid development phase
-            (1970s&ndash;2000s) are now led by founders in their 60s, 70s, or
+            (1970s-2000s) are now led by founders in their 60s, 70s, or
             80s.
           </li>
           <li>
             <strong>Next-gen disinterest:</strong> Younger family members
             frequently prefer careers in finance, technology, or
-            government &mdash; or may lack the operational experience to run
+            government, or may lack the operational experience to run
             complex businesses.
           </li>
           <li>
@@ -145,7 +145,7 @@ export default function ETAMiddleEastArticle() {
             <strong>Partial exits:</strong> Many families prefer selling a
             majority stake while retaining a minority interest, allowing the
             founder to monetize while the acquirer takes operational control
-            &mdash; a structure well-suited to ETA.
+            a structure well-suited to ETA.
           </li>
         </ul>
         <p>
@@ -263,9 +263,9 @@ export default function ETAMiddleEastArticle() {
 
         <h2 className={h2Class}>Financing options: Islamic and conventional</h2>
         <p>
-          The Gulf offers a distinctive financing landscape that blends
+          The Gulf offers a distinctive financing market that blends
           conventional debt and equity instruments with Sharia-compliant
-          Islamic finance &mdash; a critical consideration for any searcher
+          Islamic finance, a critical consideration for any searcher
           raising capital in the region.
         </p>
 
@@ -321,7 +321,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Seller financing:</strong> Increasingly common as
             sophisticated advisors educate sellers on deal structures.
-            Seller notes of 20&ndash;40% of the purchase price can bridge
+            Seller notes of 20-40% of the purchase price can bridge
             valuation gaps and demonstrate the seller&rsquo;s confidence in
             the business.
           </li>
@@ -396,7 +396,7 @@ export default function ETAMiddleEastArticle() {
           </li>
           <li>
             <strong>Family dynamics:</strong> When acquiring a family
-            business, you are navigating not just a commercial transaction
+            business, you are managing not just a commercial transaction
             but family relationships, pride, and legacy. Multiple family
             members may have informal influence over the decision, even if
             only one is the legal owner.
@@ -487,7 +487,7 @@ export default function ETAMiddleEastArticle() {
             home healthcare businesses are attractive targets.
           </li>
           <li>
-            <strong>Education and training:</strong> K&ndash;12 schools,
+            <strong>Education and training:</strong> K-12 schools,
             vocational training providers, and corporate learning companies
             benefit from young demographics and nationalization programs that
             require workforce upskilling.
@@ -505,7 +505,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Technology and SaaS:</strong> The Gulf&rsquo;s digital
             transformation agenda is driving demand for software, IT
-            services, and cybersecurity &mdash; sectors that align well with
+            services, and cybersecurity, sectors that align well with
             ETA given their recurring revenue models.
           </li>
           <li>
@@ -528,7 +528,7 @@ export default function ETAMiddleEastArticle() {
 
         <h3 className={h3Class}>Regulatory complexity</h3>
         <p>
-          Despite recent reforms, navigating the regulatory landscape remains
+          Despite recent reforms, managing the regulatory environment remains
           complex. Each emirate in the UAE has its own licensing authority,
           and free zones operate under separate regulatory regimes. Saudi
           Arabia&rsquo;s regulatory environment is evolving rapidly, which
@@ -548,9 +548,9 @@ export default function ETAMiddleEastArticle() {
 
         <h3 className={h3Class}>Labor market and nationalization</h3>
         <p>
-          GCC countries impose workforce nationalization quotas &mdash;
+          GCC countries impose workforce nationalization quotas , 
           Saudization (Nitaqat) in Saudi Arabia, Emiratization in the UAE,
-          and similar programs elsewhere &mdash; requiring companies to
+          and similar programs elsewhere, requiring companies to
           employ a certain percentage of nationals. These quotas affect
           hiring costs, workforce planning, and compliance obligations.
           Searchers should factor nationalization requirements into
@@ -591,7 +591,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>INSEAD-trained searchers:</strong> Multiple INSEAD MBA
             graduates have launched search funds targeting the Gulf, often
-            leveraging the Abu Dhabi campus network and faculty connections
+            using the Abu Dhabi campus network and faculty connections
             to build investor backing.
           </li>
           <li>
@@ -604,7 +604,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Cross-border roll-ups:</strong> Searchers are acquiring
             businesses in one GCC market and expanding into adjacent
-            countries, leveraging the region&rsquo;s economic integration
+            countries, using the region&rsquo;s economic integration
             and shared cultural context.
           </li>
           <li>
@@ -623,7 +623,7 @@ export default function ETAMiddleEastArticle() {
         <ol className={olClass}>
           <li>
             <strong>Build your knowledge base:</strong> Understand the
-            regulatory, cultural, and commercial landscape before committing
+            regulatory, cultural, and commercial market before committing
             to a search. Attend INSEAD Abu Dhabi events and connect with
             practitioners who have completed Gulf acquisitions.
           </li>
@@ -645,7 +645,7 @@ export default function ETAMiddleEastArticle() {
           <li>
             <strong>Engage local advisors:</strong> Retain experienced legal
             counsel, accounting firms, and M&amp;A advisors who understand
-            both the local regulatory landscape and ETA deal structures.
+            both the local regulatory environment and ETA deal structures.
           </li>
           <li>
             <strong>Target your sectors carefully:</strong> Focus on
@@ -664,7 +664,7 @@ export default function ETAMiddleEastArticle() {
         <h2 className={h2Class}>How the Gulf compares to other ETA markets</h2>
         <p>
           The Middle East occupies a unique position in the global ETA
-          landscape. Compared to{" "}
+          market. Compared to{" "}
           <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">
             European markets
           </Link>,
@@ -685,7 +685,7 @@ export default function ETAMiddleEastArticle() {
         </p>
         <p>
           For those evaluating multiple geographies, the Gulf can be
-          particularly attractive as part of a cross-border strategy &mdash;
+          particularly attractive as part of a cross-border strategy , 
           using a UAE holding structure to acquire businesses across the
           GCC or even into adjacent markets like Turkey, Egypt, or the
           Indian subcontinent.
@@ -698,14 +698,14 @@ export default function ETAMiddleEastArticle() {
           family business succession, regulatory modernization, and deep
           capital pools creates a compelling environment for
           acquisition-driven entrepreneurship. But succeeding here requires
-          more than financial acumen &mdash; it demands cultural fluency,
-          patience, strong local networks, and a willingness to navigate
+          more than financial acumen, it demands cultural fluency,
+          patience, strong local networks, and a willingness to manage
           complexity.
         </p>
         <p>
-          For the right searcher &mdash; someone with Gulf experience, an
+          For the right searcher, someone with Gulf experience, an
           appetite for relationship-driven deal-making, and the ability to
-          bridge Western business practices with regional expectations &mdash;
+          bridge Western business practices with regional expectations , 
           the Middle East may offer the most attractive risk-adjusted ETA
           opportunity outside of the traditional US and European markets.
         </p>
@@ -724,6 +724,34 @@ export default function ETAMiddleEastArticle() {
           </Link>{" "}
           for your search fund.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>Can foreign investors own 100% of a business in the UAE and Saudi Arabia?</h3>
+
+        <p>
+          Yes, both the UAE and Saudi Arabia now permit 100% foreign ownership in most sectors. The UAE amended its Commercial Companies Law in June 2021 to eliminate the previous requirement for a 51% local partner in onshore companies, though strategic sectors (oil &amp; gas, banking, defense) still require Emirati participation. Saudi Arabia&rsquo;s Ministry of Investment (MISA) similarly allows full foreign ownership under the Foreign Investment Law, though certain regulated industries may impose licensing requirements and capital thresholds. However, many older businesses were established under the legacy kafala (sponsorship) system, where a local national held 51% as a silent partner. Unwinding these legacy arrangements can be legally complex and requires experienced local counsel, as side agreements and informal understandings may exist beyond the formal corporate documents.
+        </p>
+
+        <h3 className={h3Class}>What is Islamic finance and how does it affect acquisition financing in the Gulf?</h3>
+
+        <p>
+          Islamic finance is a system of banking and financial services that complies with Sharia (Islamic law), which prohibits charging or paying interest (riba) and requires that transactions be backed by real economic activity. For acquisition financing, the most relevant structures are Murabaha (cost-plus financing where the bank purchases the asset and resells it at a markup, functionally similar to a term loan), Ijara (leasing with eventual ownership transfer), and diminishing Musharaka (joint ownership with the buyer gradually purchasing the financier&rsquo;s share). According to INSEAD Abu Dhabi research, approximately 40-50% of SME acquisition financing in the GCC uses Sharia-compliant structures. Many regional banks offer both conventional and Islamic products, giving acquirers flexibility in their capital structure design.
+        </p>
+
+        <h3 className={h3Class}>How do workforce nationalization quotas affect acquired businesses?</h3>
+
+        <p>
+          GCC countries impose mandatory workforce nationalization requirements that can significantly affect operating costs and hiring flexibility. Saudi Arabia&rsquo;s Nitaqat (Saudization) program categorizes companies by industry and size, requiring specific percentages of Saudi national employees. The UAE&rsquo;s Emiratization targets focus primarily on private-sector companies with 50+ employees. Non-compliance can result in restrictions on work permit issuances, visa quotas, and government contract eligibility. For acquirers, these quotas affect post-acquisition workforce planning: national employees typically command higher salaries than expatriate workers in equivalent roles, and training requirements may add to onboarding costs. Searchers should model nationalization compliance costs into their post-acquisition operating plans and verify the target company&rsquo;s current compliance status during due diligence.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>INSEAD Abu Dhabi, <em>Entrepreneurship Through Acquisition in the Gulf: Research and Case Studies</em> (2024)</li>
+          <li>UAE Ministry of Economy, <em>Commercial Companies Law Amendment</em> (2021), foreign ownership reform documentation</li>
+          <li>Saudi Arabia Ministry of Investment (MISA), <em>Foreign Investment Regulations and Licensing Guide</em> (2024)</li>
+        </ul>
       </div>
     </article>
   );

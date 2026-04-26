@@ -14,9 +14,9 @@ export default function AcquiringCarWashBusinessArticle() {
           into one of the hottest sectors in private equity and{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">entrepreneurship through acquisition</Link>.
           The U.S. car wash market now exceeds $15&nbsp;billion in annual
-          revenue and continues to grow at 3&ndash;5% per year, driven by
+          revenue and continues to grow at 3-5% per year, driven by
           rising vehicle counts, consumer preference for professional
-          washes, and &mdash; most importantly &mdash; the explosive
+          washes, and, most importantly, the explosive
           adoption of unlimited monthly membership programs that have
           reshaped unit economics. For search fund operators, car washes
           offer a rare combination of recurring revenue, real estate
@@ -29,20 +29,20 @@ export default function AcquiringCarWashBusinessArticle() {
           <li>
             <strong>Market size:</strong> Over $15&nbsp;billion in annual
             revenue across roughly 60,000 U.S. locations, compounding at
-            3&ndash;5% annually. Only about 50% of car owners use
+            3-5% annually. Only about 50% of car owners use
             professional washes regularly, leaving a large addressable
             market as at-home washing declines.
           </li>
           <li>
             <strong>Membership revolution:</strong> Unlimited monthly
-            memberships ($20&ndash;$50/month) convert transactional
+            memberships ($20-$50/month) convert transactional
             customers into recurring-revenue subscribers. Top-performing
-            express sites now derive 50&ndash;70% of revenue from
+            express sites now derive 50-70% of revenue from
             memberships, dramatically improving cash flow predictability.
           </li>
           <li>
             <strong>Vehicle population:</strong> Over 290&nbsp;million
-            registered U.S. vehicles, growing 1&ndash;2% annually. Water
+            registered U.S. vehicles, growing 1-2% annually. Water
             restrictions and time poverty among dual-income households
             continue pushing consumers toward professional alternatives.
           </li>
@@ -59,9 +59,9 @@ export default function AcquiringCarWashBusinessArticle() {
         <h3 className={h3Class}>Express exterior / conveyor tunnel</h3>
         <p>
           The dominant growth format. Vehicles ride a conveyor through an
-          automated tunnel (120&ndash;150 feet) in 3&ndash;5 minutes.
-          Sites are labor-light &mdash; 3&ndash;6 employees per shift
-          &mdash; and can process 150&ndash;250+ cars per hour at peak
+          automated tunnel (120-150 feet) in 3-5 minutes.
+          Sites are labor-light, 3-6 employees per shift
+          and can process 150-250+ cars per hour at peak
           capacity. Express tunnels are the best format for
           membership-based models because speed and convenience encourage
           frequent visits, deepening the value proposition.
@@ -71,20 +71,20 @@ export default function AcquiringCarWashBusinessArticle() {
         <p>
           Combines an automated tunnel with optional interior cleaning
           (vacuuming, dashboard wipe, window cleaning) performed after
-          the vehicle exits. Higher average tickets ($15&ndash;$40) but
-          requires 10&ndash;20 employees, making labor management more
+          the vehicle exits. Higher average tickets ($15-$40) but
+          requires 10-20 employees, making labor management more
           significant than in pure express operations.
         </p>
 
         <h3 className={h3Class}>Full-service</h3>
         <p>
-          Includes exterior washing and comprehensive interior detailing.
-          Most labor-intensive format (20&ndash;40+ staff), with higher
-          tickets ($20&ndash;$60+) but dramatically lower throughput
-          (40&ndash;80 cars/day versus 800&ndash;1,200 for express).
+          Includes exterior washing and thorough interior detailing.
+          Most labor-intensive format (20-40+ staff), with higher
+          tickets ($20-$60+) but dramatically lower throughput
+          (40-80 cars/day versus 800-1,200 for express).
           Full-service sites face headwinds from rising labor costs and
           are increasingly being converted to express or flex-serve
-          formats &mdash; a conversion that itself represents a value
+          formats, a conversion that itself represents a value
           creation opportunity.
         </p>
 
@@ -93,7 +93,7 @@ export default function AcquiringCarWashBusinessArticle() {
           Individual bays with coin-operated pressure washers and foam
           brushes. Most capital-light and labor-light (often unstaffed),
           but lowest per-site revenue and facing secular decline.
-          Sometimes attractive as real estate plays &mdash; land parcels
+          Sometimes attractive as real estate plays, land parcels
           may be prime candidates for redevelopment into express tunnels.
         </p>
 
@@ -101,8 +101,8 @@ export default function AcquiringCarWashBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Membership-driven recurring revenue:</strong> Express
-            washes with mature programs generate 50&ndash;70% recurring
-            revenue &mdash; rivaling SaaS businesses. Automatic credit
+            washes with mature programs generate 50-70% recurring
+            revenue, rivaling SaaS businesses. Automatic credit
             card billing creates predictable monthly cash flow that
             supports debt service and facilitates{" "}
             <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing</Link>.
@@ -114,22 +114,22 @@ export default function AcquiringCarWashBusinessArticle() {
             sale-leaseback opportunities to fund growth.
           </li>
           <li>
-            <strong>Labor-light automation:</strong> A $2&ndash;$3M
-            revenue express site may require only 8&ndash;12 total
+            <strong>Labor-light automation:</strong> A $2-$3M
+            revenue express site may require only 8-12 total
             employees. Advances in tunnel automation, payment technology,
             and license plate recognition (LPR) further reduce labor
-            needs &mdash; a stark contrast to most service-sector
+            needs, a stark contrast to most service-sector
             acquisitions.
           </li>
           <li>
             <strong>Scalable playbook:</strong> Once an operator masters
             membership growth, site operations, and equipment maintenance
             at one location, the model replicates with minimal
-            customization &mdash; ideal for{" "}
+            customization, ideal for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build strategies</Link>.
           </li>
           <li>
-            <strong>Recession resilience:</strong> At $20&ndash;$40/month,
+            <strong>Recession resilience:</strong> At $20-$40/month,
             memberships are an affordable &ldquo;small luxury&rdquo; that
             consumers maintain even during downturns. Members pay monthly
             regardless of weather, decoupling revenue from daily
@@ -147,9 +147,9 @@ export default function AcquiringCarWashBusinessArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Traffic count:</strong> Minimum 20,000&ndash;25,000
+            <strong>Traffic count:</strong> Minimum 20,000-25,000
             average daily traffic (ADT); top sites sit on roads with
-            30,000&ndash;50,000+ ADT. Verify strong counts during peak
+            30,000-50,000+ ADT. Verify strong counts during peak
             wash hours (weekends, midday weekdays).
           </li>
           <li>
@@ -160,7 +160,7 @@ export default function AcquiringCarWashBusinessArticle() {
           </li>
           <li>
             <strong>Demographics:</strong> Ideal trade areas have 40,000+
-            households within a 3&ndash;5 mile radius, median household
+            households within a 3-5 mile radius, median household
             incomes above $50,000, and high vehicle ownership. Commuter
             corridors and retail power centers are strong locations.
           </li>
@@ -176,14 +176,14 @@ export default function AcquiringCarWashBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Tunnel age:</strong> Modern tunnel equipment
-            (conveyor, arches, wraps, blowers) has a 10&ndash;15 year
+            (conveyor, arches, wraps, blowers) has a 10-15 year
             useful life. Equipment nearing end-of-life represents a
-            significant capex need &mdash; a full tunnel replacement
-            costs $500,000&ndash;$1.5M.
+            significant capex need, a full tunnel replacement
+            costs $500,000-$1.5M.
           </li>
           <li>
             <strong>Water reclaim system:</strong> Most jurisdictions
-            require 60&ndash;80% water reclamation. Evaluate capacity,
+            require 60-80% water reclamation. Evaluate capacity,
             condition, and regulatory compliance.
           </li>
           <li>
@@ -198,25 +198,25 @@ export default function AcquiringCarWashBusinessArticle() {
         <ol className={olClass}>
           <li>
             <strong>Active member trend:</strong> Track monthly active
-            members over 24&ndash;36 months. Seasonal variation is
+            members over 24-36 months. Seasonal variation is
             normal (memberships peak in spring, dip in winter), but the
             underlying trend should be positive.
           </li>
           <li>
-            <strong>Churn rate:</strong> Monthly churn of 4&ndash;6% is
+            <strong>Churn rate:</strong> Monthly churn of 4-6% is
             typical. Below 4% indicates strong satisfaction; above 8%
             signals problems with wash quality, pricing, or competitive
             pressure.
           </li>
           <li>
             <strong>Revenue per member:</strong> Top sites achieve
-            $30&ndash;$45 average monthly revenue per member through
+            $30-$45 average monthly revenue per member through
             tiered plans with premium add-ons (ceramic coating, tire
             shine, rain repellent).
           </li>
           <li>
             <strong>Wash frequency:</strong> Members typically wash
-            3&ndash;5 times per month. Very high frequency (6+) may
+            3-5 times per month. Very high frequency (6+) may
             indicate underpricing or &ldquo;super users&rdquo; who
             increase costs without proportional revenue.
           </li>
@@ -225,7 +225,7 @@ export default function AcquiringCarWashBusinessArticle() {
         <h3 className={h3Class}>Water and utility costs</h3>
         <p>
           Water, electricity, and natural gas typically represent
-          8&ndash;15% of revenue. Review 24&nbsp;months of utility bills
+          8-15% of revenue. Review 24&nbsp;months of utility bills
           to understand consumption patterns. In water-scarce regions,
           investigate tiered pricing, drought surcharges, and usage
           restrictions. Sites with heated water or blowers carry
@@ -254,19 +254,19 @@ export default function AcquiringCarWashBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Membership-heavy express tunnels:</strong> Trade at
-            6&ndash;10x EBITDA, with premium locations occasionally
+            6-10x EBITDA, with premium locations occasionally
             exceeding 10x. The recurring revenue profile and scalability
             command the highest multiples in the sector.
           </li>
           <li>
             <strong>Full-service and flex-serve:</strong> Typically
-            4&ndash;7x EBITDA, reflecting higher labor intensity and
+            4-7x EBITDA, reflecting higher labor intensity and
             less recurring revenue. Sites with express conversion
             potential may justify a premium based on projected
             post-conversion economics.
           </li>
           <li>
-            <strong>Self-serve:</strong> 3&ndash;5x EBITDA, though
+            <strong>Self-serve:</strong> 3-5x EBITDA, though
             valuations are often influenced more by the underlying real
             estate value than by operating income.
           </li>
@@ -274,7 +274,7 @@ export default function AcquiringCarWashBusinessArticle() {
             <strong>Real estate separation:</strong> When real estate is
             owned, separate business value from property value. Car wash
             real estate in strong locations can be worth
-            $1&ndash;$5M+, and sale-leaseback transactions unlock growth
+            $1-$5M+, and sale-leaseback transactions unlock growth
             capital. Our guide to{" "}
             <Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">pricing optimization</Link>{" "}
             covers strategies for maximizing revenue that directly
@@ -283,7 +283,7 @@ export default function AcquiringCarWashBusinessArticle() {
           <li>
             <strong>Adjusted EBITDA:</strong> Normalize for owner
             compensation, one-time expenses, deferred maintenance, and
-            related-party rent. Watch chemical costs &mdash; some
+            related-party rent. Watch chemical costs, some
             operators reduce chemical quality to inflate short-term
             margins at the expense of wash quality and retention.
           </li>
@@ -302,17 +302,17 @@ export default function AcquiringCarWashBusinessArticle() {
         <ul className={ulClass}>
           <li>
             <strong>On-site conversion:</strong> Train attendants to sell
-            memberships to every retail customer. A simple pitch &mdash;
+            memberships to every retail customer. A simple pitch , 
             &ldquo;For the price of two washes, wash unlimited all
-            month&rdquo; &mdash; converts 15&ndash;25% of retail
-            customers. Commission incentives ($2&ndash;$5 per sign-up)
+            month&rdquo;, converts 15-25% of retail
+            customers. Commission incentives ($2-$5 per sign-up)
             align employee motivation.
           </li>
           <li>
             <strong>Tiered pricing:</strong> Three to four tiers (basic,
             plus, premium, ultimate) capture different willingness-to-pay
             segments. Top tiers include add-ons (ceramic coating, tire
-            shine) that cost little but command a $10&ndash;$20 premium.
+            shine) that cost little but command a $10-$20 premium.
           </li>
           <li>
             <strong>First-month promotions:</strong> Offer 50% off the
@@ -324,7 +324,7 @@ export default function AcquiringCarWashBusinessArticle() {
             <strong>Cancellation prevention:</strong> Implement a save
             process: temporary downgrades, skip months, or promotional
             rates for members attempting to cancel. Even modest friction
-            can reduce churn by 1&ndash;2 percentage points.
+            can reduce churn by 1-2 percentage points.
           </li>
         </ul>
 
@@ -336,8 +336,8 @@ export default function AcquiringCarWashBusinessArticle() {
           upgrading tunnel equipment for higher throughput, installing
           modern POS and LPR systems, and launching a membership
           program. Well-executed conversions can double or triple
-          site-level EBITDA within 12&ndash;24 months by increasing
-          throughput while reducing labor costs by 40&ndash;60%.
+          site-level EBITDA within 12-24 months by increasing
+          throughput while reducing labor costs by 40-60%.
         </p>
 
         <h3 className={h3Class}>Multi-site expansion</h3>
@@ -345,8 +345,8 @@ export default function AcquiringCarWashBusinessArticle() {
           Car washes are ideally suited for{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
           strategies. Multi-site operators benefit from scale advantages
-          in chemical purchasing (volume discounts of 15&ndash;25%),
-          shared management (one GM overseeing 3&ndash;5 express sites),
+          in chemical purchasing (volume discounts of 15-25%),
+          shared management (one GM overseeing 3-5 express sites),
           cross-site memberships that increase perceived value and reduce
           churn, and marketing efficiency as local brand recognition
           compounds with each additional location.
@@ -357,7 +357,7 @@ export default function AcquiringCarWashBusinessArticle() {
           <li>
             <strong>Detail services:</strong> Express detailing (vacuum,
             dashboard treatment, leather conditioning) captures
-            $30&ndash;$150+ per visit from customers willing to pay for
+            $30-$150+ per visit from customers willing to pay for
             premium care, operated in bays adjacent to the tunnel exit.
           </li>
           <li>
@@ -369,10 +369,10 @@ export default function AcquiringCarWashBusinessArticle() {
             <strong>Fleet programs:</strong> Offer local businesses
             (delivery companies, dealerships, rideshare drivers, home
             services contractors) discounted per-wash rates
-            (20&ndash;30% below retail) in exchange for volume
+            (20-30% below retail) in exchange for volume
             commitments. Fleet washes fill off-peak capacity and a
             single dealership relationship can generate
-            $2,000&ndash;$5,000+ per month.
+            $2,000-$5,000+ per month.
           </li>
         </ul>
 
@@ -382,7 +382,7 @@ export default function AcquiringCarWashBusinessArticle() {
             <strong>Competition and over-building:</strong> PE capital has
             driven aggressive new-site development in some markets.
             Monitor permit filings and focus on sites with strong
-            location advantages &mdash; high-traffic corners with
+            location advantages, high-traffic corners with
             limited available land for new competitors provide natural
             barriers to entry.
           </li>
@@ -396,7 +396,7 @@ export default function AcquiringCarWashBusinessArticle() {
             <strong>Equipment failure:</strong> Tunnel downtime directly
             translates to lost revenue. Rigorous preventive maintenance
             and critical spare parts inventory are essential. Budget
-            3&ndash;5% of revenue for ongoing maintenance and reserves.
+            3-5% of revenue for ongoing maintenance and reserves.
           </li>
           <li>
             <strong>Water regulation:</strong> Tightening restrictions in
@@ -419,7 +419,7 @@ export default function AcquiringCarWashBusinessArticle() {
           abundant acquisition opportunities. The keys to success are
           disciplined site selection (location trumps everything),
           aggressive membership growth, rigorous equipment maintenance,
-          and &mdash; for platform builders &mdash; a systematic approach
+          and, for platform builders, a systematic approach
           to{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link>{" "}
           that leverages scale in purchasing, marketing, and management.
@@ -429,6 +429,68 @@ export default function AcquiringCarWashBusinessArticle() {
           valuations and generate compelling returns throughout the hold
           period.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What EBITDA multiples do car washes trade at?</h3>
+        <p>
+          Valuation varies significantly by format and membership penetration.
+          Express tunnel car washes with mature unlimited membership programs
+          (50-70% recurring revenue) trade at 6-10x EBITDA, with
+          premium locations occasionally exceeding 10x. Full-service and
+          flex-serve sites typically trade at 4-7x EBITDA, reflecting
+          higher labor intensity. Self-serve locations trade at 3-5x
+          EBITDA, though their real estate value often exceeds the operating
+          business value. When the car wash owns its real estate, buyers
+          should separate business value from property value, a
+          sale-leaseback can unlock significant growth capital. For broader
+          context, see our{" "}
+          <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">EBITDA multiples by industry</Link>{" "}
+          overview.
+        </p>
+
+        <h3 className={h3Class}>How important is the membership program to a car wash acquisition?</h3>
+        <p>
+          Membership programs are the single most important value driver in
+          modern car wash economics. Top-performing express sites derive
+          50-70% of revenue from unlimited monthly memberships at
+          $20-$50 per month, creating SaaS-like recurring revenue.
+          Monthly churn of 4-6% is considered healthy; above 8% signals
+          wash quality or pricing problems. A well-run membership program
+          dramatically improves cash flow predictability, reduces weather
+          dependency, and supports premium valuation multiples. During due
+          diligence, track active member trends over 24-36 months,
+          analyze revenue per member across tiers, and verify wash frequency
+          patterns to ensure the program is economically sustainable.
+        </p>
+
+        <h3 className={h3Class}>What are the biggest risks when acquiring a car wash?</h3>
+        <p>
+          The top risks are competition from over-building, equipment failure,
+          and water regulation. Private equity capital has driven aggressive
+          new-site development in some markets, compressing volumes and forcing
+          price competition. Tunnel equipment has a 10-15 year useful life,
+          and a full replacement costs $500,000-$1.5M, deferred
+          maintenance represents a hidden capital liability. In water-scarce
+          regions, tightening restrictions or drought surcharges can constrain
+          operations. Mitigate these risks by targeting sites with natural
+          location advantages (high-traffic corners with limited developable
+          land), maintaining rigorous preventive maintenance programs, and
+          investing in water reclaim systems achieving 80%+ reclamation rates.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>International Carwash Association (ICA)</strong>: &ldquo;Car Wash Industry Report,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IBISWorld</strong>: &ldquo;Car Wash &amp; Auto Detailing Industry in the US,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Grand View Research</strong>: &ldquo;U.S. Car Wash Services Market Size &amp; Trends Analysis Report,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

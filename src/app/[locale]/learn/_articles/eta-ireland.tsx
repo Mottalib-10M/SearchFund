@@ -16,11 +16,11 @@ export default function ETAIrelandArticle() {
           the lowest corporate tax rates on the continent, Ireland offers a unique
           combination of accessibility and opportunity for search fund
           entrepreneurs. While the{" "}
-          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">broader European ETA landscape</Link>{" "}
+          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">broader European ETA market</Link>{" "}
           continues to mature, and the neighbouring{" "}
           <Link href="/learn/eta-uk" className="text-apple-accent hover:underline">UK market</Link>{" "}
           remains the largest in the region, Ireland presents a distinctive
-          proposition&mdash;a small, open economy with outsized global
+          proposition, a small, open economy with outsized global
           connectivity, a rapidly ageing cohort of business owners, and growing
           institutional interest in acquisition-led entrepreneurship.
         </p>
@@ -77,7 +77,7 @@ export default function ETAIrelandArticle() {
 
         <h2 className={h2Class}>Legal structures for acquisition</h2>
         <p>
-          Understanding the Irish corporate landscape is essential for
+          Understanding the Irish corporate market is essential for
           structuring an acquisition correctly. The Companies Act 2014
           consolidated Irish company law into a single statute and introduced
           several company types.
@@ -122,8 +122,8 @@ export default function ETAIrelandArticle() {
           the Companies Registration Office (CRO), and any change in
           beneficial ownership must be notified. The CRO maintains a public
           register of directors, secretaries, shareholders, and filed
-          accounts&mdash;a valuable resource for deal sourcing and due
-          diligence, though not as comprehensive as the UK&rsquo;s Companies House.
+          accounts, a valuable resource for deal sourcing and due
+          diligence, though not as thorough as the UK&rsquo;s Companies House.
         </p>
 
         <h2 className={h2Class}>Financing options</h2>
@@ -139,7 +139,7 @@ export default function ETAIrelandArticle() {
           AIB and Bank of Ireland are the two dominant commercial lenders for
           SME acquisition financing. Both have dedicated business banking
           teams experienced in management buyouts and business transfers.
-          Typical leverage for acquisition financing ranges from 2.5x to 4x
+          Typical use for acquisition financing ranges from 2.5x to 4x
           EBITDA, with loan tenors of five to seven years. Interest rates are
           generally competitive within the eurozone context. Permanent TSB and
           several international banks with Irish operations can also provide
@@ -182,23 +182,23 @@ export default function ETAIrelandArticle() {
           Deferred consideration and vendor loans are common in Irish business
           transfers, particularly for smaller transactions where bank financing
           may not cover the full purchase price. Sellers typically accept
-          15&ndash;30% of the consideration as deferred payments over two to
+          15-30% of the consideration as deferred payments over two to
           four years. Earn-out arrangements tied to post-completion
           performance are also used, especially when bridging valuation gaps
           between buyer and seller. For more detail, see our guide to{" "}
           <Link href="/learn/seller-financing" className="text-apple-accent hover:underline">seller financing</Link>.
         </p>
 
-        <h2 className={h2Class}>Tax landscape</h2>
+        <h2 className={h2Class}>tax environment</h2>
         <p>
           Ireland&rsquo;s tax regime is a significant draw for acquirers. For a
-          comprehensive overview of tax planning strategies, see our guide to{" "}
+          thorough overview of tax planning strategies, see our guide to{" "}
           <Link href="/learn/tax-optimization" className="text-apple-accent hover:underline">tax optimization</Link>.
         </p>
 
         <h3 className={h3Class}>Corporate tax</h3>
         <p>
-          Ireland levies a 12.5% corporation tax on trading income&mdash;one of
+          Ireland levies a 12.5% corporation tax on trading income, one of
           the lowest rates in the OECD. Passive (non-trading) income, such as
           investment income and rental income, is taxed at a higher rate of
           25%. For search fund acquirers, ensuring that the target
@@ -262,7 +262,7 @@ export default function ETAIrelandArticle() {
             engineering consultancies, architectural firms, and legal support
             services represent a deep pool of acquisition targets. These
             businesses typically have recurring revenue, strong client
-            relationships, and predictable cash flows&mdash;qualities that
+            relationships, and predictable cash flows, qualities that
             align well with the search fund model.
           </li>
           <li>
@@ -302,8 +302,8 @@ export default function ETAIrelandArticle() {
         <p>
           With a population of approximately 5.1 million, Ireland is a small
           market. This means that the total number of businesses meeting typical
-          search fund criteria (revenue of &euro;1&ndash;10 million, EBITDA of
-          &euro;300,000&ndash;2 million) is more limited than in larger
+          search fund criteria (revenue of &euro;1-10 million, EBITDA of
+          &euro;300,000-2 million) is more limited than in larger
           European markets. Searchers should be prepared to cast a wide net and
           may need to consider a broader set of sectors or geographies
           (including Northern Ireland, which is part of the UK but shares a
@@ -316,8 +316,8 @@ export default function ETAIrelandArticle() {
           Irish economic activity and business formation. While this
           concentration creates a dense market for deal sourcing, it also
           means that competition for targets in Dublin can be higher. Searchers
-          willing to look beyond Dublin&mdash;to Cork, Galway, Limerick,
-          Waterford, and regional towns&mdash;may find less competition and
+          willing to look beyond Dublin, to Cork, Galway, Limerick,
+          Waterford, and regional towns, may find less competition and
           more motivated sellers, though they should be prepared for a smaller
           local talent pool.
         </p>
@@ -363,9 +363,9 @@ export default function ETAIrelandArticle() {
           EBITDA, depending on sector, size, growth profile, and quality of
           earnings. Technology services and healthcare businesses tend to
           command premiums at the upper end of this range, while traditional
-          services and construction businesses may trade at 3.5&ndash;4.5x.
-          These multiples are generally competitive with&mdash;and often
-          slightly below&mdash;comparable UK valuations, reflecting the smaller
+          services and construction businesses may trade at 3.5-4.5x.
+          These multiples are generally competitive with, and often
+          slightly below, comparable UK valuations, reflecting the smaller
           market and thinner buyer pool.
         </p>
 
@@ -409,6 +409,34 @@ export default function ETAIrelandArticle() {
           also mean that London-based investors and advisors are a natural
           source of support for Irish searchers.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How does Ireland&rsquo;s 12.5% corporate tax rate benefit search fund acquirers?</h3>
+
+        <p>
+          Ireland&rsquo;s 12.5% corporation tax on trading income is one of the lowest in the OECD and creates a highly tax-efficient operating environment. For search fund acquirers, this means more after-tax cash flow available for debt service, reinvestment, and distributions. A business generating &euro;1 million in pre-tax profit retains &euro;875,000 after Irish corporation tax, compared to &euro;750,000-&euro;770,000 in France or Germany. This 10-15% advantage in retained earnings compounds significantly over a 5-7 year hold period. The rate applies to active trading income; passive investment income is taxed at 25%. Ireland also offers the Revised Entrepreneur Relief, which reduces capital gains tax to 10% on the first &euro;1 million of qualifying gains upon exit, further enhancing net returns for successful search fund operators.
+        </p>
+
+        <h3 className={h3Class}>Is Ireland&rsquo;s small market size a disadvantage for search fund deal flow?</h3>
+
+        <p>
+          Ireland&rsquo;s population of approximately 5.1 million does limit the total number of businesses meeting typical search fund criteria (revenue of &euro;1-10 million, EBITDA of &euro;300,000-2 million). However, several factors mitigate this constraint. Ireland&rsquo;s 270,000+ SMEs represent a dense concentration relative to population size. The country&rsquo;s strength in technology services, professional services, and healthcare creates high-quality targets with recurring revenue characteristics. Many Irish businesses serve international markets, meaning their growth potential extends well beyond the domestic economy. Searchers can also consider Northern Ireland (part of the UK but sharing deep economic ties with the Republic) as an extension of their target market. The key trade-off is less deal volume but also less competition from other searchers, resulting in potentially more favorable terms.
+        </p>
+
+        <h3 className={h3Class}>What government supports are available for business acquisitions in Ireland?</h3>
+
+        <p>
+          Ireland offers several institutional supports for business acquirers. The Strategic Banking Corporation of Ireland (SBCI) provides low-cost funding to on-lending partners, resulting in below-market acquisition finance rates. Enterprise Ireland offers post-acquisition growth supports including feasibility grants, innovation vouchers, the Competitive Start Fund, and market development assistance through its network of overseas offices. Microfinance Ireland provides small loans up to &euro;25,000 for working capital needs. Additionally, the 25% R&amp;D tax credit on qualifying expenditure can materially improve cash flows for technology and engineering acquisitions. The Local Enterprise Offices (LEOs) throughout Ireland provide free mentoring and advisory services for business owners including acquirers, making them a valuable resource during the early post-acquisition period.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+
+        <ul className={ulClass}>
+          <li>Central Statistics Office Ireland, <em>Business Demography Report</em> (2024), thorough data on Irish SME demographics and ownership patterns</li>
+          <li>Enterprise Ireland, <em>Annual Report and Accounts</em> (2024), government support programs for business growth and internationalization</li>
+          <li>Revenue Commissioners Ireland, <em>Corporation Tax Statistics</em> (2024), official data on Irish tax rates, reliefs, and incentives for businesses</li>
+        </ul>
       </div>
     </article>
   );

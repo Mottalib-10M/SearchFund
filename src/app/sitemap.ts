@@ -1,7 +1,9 @@
 import type { MetadataRoute } from "next";
 import { prisma } from "@/lib/prisma";
 import { allArticles, categoryMeta } from "./[locale]/learn/_articles/article-registry";
+import { hasFRVersion } from "./[locale]/learn/_articles/fr-registry";
 import { routeLocales, locales, type Locale } from "@/lib/i18n-registry";
+import { templates } from "./[locale]/(marketing)/templates/_data";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -42,6 +44,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // --- English-only static pages ---
   const englishOnlyPages: { path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[number]["changeFrequency"] }[] = [
+    { path: "/the-eta-journey", priority: 0.9, changeFrequency: "weekly" },
     { path: "/searchers", priority: 0.8, changeFrequency: "daily" },
     { path: "/investors", priority: 0.8, changeFrequency: "daily" },
     { path: "/community", priority: 0.7, changeFrequency: "daily" },
@@ -49,6 +52,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
     { path: "/terms", priority: 0.3, changeFrequency: "yearly" },
     { path: "/about/editorial-policy", priority: 0.4, changeFrequency: "monthly" },
+    { path: "/templates", priority: 0.7, changeFrequency: "monthly" },
   ];
 
   for (const page of englishOnlyPages) {
@@ -60,15 +64,29 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
-  // --- Learn article pages (English only) ---
+  // --- Learn article pages ---
   for (const article of allArticles) {
+    const articleLocales: Locale[] = hasFRVersion(article.slug)
+      ? ["en", "fr"]
+      : ["en"];
+    // English version
     entries.push({
       url: `${BASE}/en/learn/${article.slug}`,
       lastModified: article.dateModified,
       changeFrequency: "monthly",
       priority: 0.7,
-      alternates: buildAlternates(`/learn/${article.slug}`, ["en"]),
+      alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
     });
+    // French version (if available)
+    if (hasFRVersion(article.slug)) {
+      entries.push({
+        url: `${BASE}/fr/learn/${article.slug}`,
+        lastModified: article.dateModified,
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
+      });
+    }
   }
 
   // --- Learn category pages (English only) ---
@@ -88,6 +106,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.6,
     alternates: buildAlternates("/learn/glossary", ["en"]),
   });
+
+  // --- Template pages (English only) ---
+  for (const template of templates) {
+    entries.push({
+      url: `${BASE}/en/templates/${template.slug}`,
+      lastModified: template.dateModified,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      alternates: buildAlternates(`/templates/${template.slug}`, ["en"]),
+    });
+  }
 
   // --- Dynamic user profile pages (English only) ---
   try {
@@ -131,7 +160,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
     }
   } catch {
-    // DB unavailable — skip profile pages
+    // DB unavailable - skip profile pages
   }
 
   return entries;

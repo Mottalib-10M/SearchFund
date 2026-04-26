@@ -12,9 +12,9 @@ export default function ETAvsVentureCapitalArticle() {
           Venture capital (VC) and Entrepreneurship Through Acquisition (ETA)
           represent two fundamentally different philosophies for building
           wealth through private businesses. VC backs founders who create
-          something new — often unproven products in nascent markets — and
+          something new - often unproven products in nascent markets - and
           bets on exponential growth. ETA backs operators who buy something
-          proven — established businesses with existing cash flows — and
+          proven - established businesses with existing cash flows - and
           bets on disciplined improvement. Understanding the structural
           differences between these two strategies is essential for
           investors deciding where to allocate capital and for
@@ -42,7 +42,7 @@ export default function ETAvsVentureCapitalArticle() {
           concentrated around the median than in VC. There are fewer
           catastrophic losses (total write-offs represent roughly 33% of
           acquisitions) and fewer astronomical winners. For investors, this
-          means ETA offers a more predictable return profile — the
+          means ETA offers a more predictable return profile - the
           variance is lower, and portfolio construction requires fewer
           bets to achieve statistical reliability.
         </p>
@@ -79,7 +79,7 @@ export default function ETAvsVentureCapitalArticle() {
           90% of venture-backed startups fail to return investor capital.
           The reasons are structural: startups are attempting to create
           new products, build new markets, and scale organizations from
-          zero — all simultaneously. Product-market fit is elusive, burn
+          zero - all simultaneously. Product-market fit is elusive, burn
           rates are high, and the margin for error is thin.
         </p>
         <p>
@@ -109,7 +109,7 @@ export default function ETAvsVentureCapitalArticle() {
             business, underestimates the operational challenges, fails
             to retain key employees or customers during the transition,
             or encounters an unexpected industry downturn. These are
-            operational risks — serious, but typically more manageable
+            operational risks - serious, but typically more manageable
             and more predictable than the existential risks of startups.
           </li>
         </ul>
@@ -127,7 +127,7 @@ export default function ETAvsVentureCapitalArticle() {
         <p>
           Venture-backed companies, by contrast, are typically cash-flow
           negative for years. The median time to profitability for a
-          venture-backed company is five to seven years — and many never
+          venture-backed company is five to seven years - and many never
           reach profitability at all. During this period, the company is
           entirely dependent on continued investor funding. Each fundraising
           round is an existential event: if the company cannot raise its
@@ -174,13 +174,13 @@ export default function ETAvsVentureCapitalArticle() {
           knowing that most will fail and one or two must deliver 50x
           to 100x returns to make the fund successful. Late-stage funds
           may make fewer, larger bets, but still typically hold 15 to 25
-          companies. This portfolio approach is not optional — it is
+          companies. This portfolio approach is not optional - it is
           structurally required by the return distribution.
         </p>
         <p>
           ETA investors can achieve strong risk-adjusted returns with
           far fewer investments. A portfolio of 10 to 15 search fund
-          investments provides robust diversification because the return
+          investments provides strong diversification because the return
           distribution is more concentrated. Each individual investment
           has a meaningful probability of success, so the portfolio does
           not depend on a single outlier to drive returns.
@@ -215,7 +215,7 @@ export default function ETAvsVentureCapitalArticle() {
           the operational rigor to execute systematic improvement plans.
         </p>
         <p>
-          Neither mindset is superior — they are simply different. Many
+          Neither mindset is superior - they are simply different. Many
           talented individuals who would struggle in a startup environment
           thrive in ETA, and vice versa. The key is honest self-assessment
           about which operating environment plays to your strengths.
@@ -254,8 +254,8 @@ export default function ETAvsVentureCapitalArticle() {
           </li>
           <li>
             <strong>100x potential:</strong> If you are seeking investments
-            with the possibility of 100x returns — the kind that can
-            transform a portfolio — VC is where those outcomes exist. ETA
+            with the possibility of 100x returns - the kind that can
+            transform a portfolio - VC is where those outcomes exist. ETA
             can deliver 10x to 20x in exceptional cases, but the 100x
             outcomes are structurally unavailable.
           </li>
@@ -292,15 +292,15 @@ export default function ETAvsVentureCapitalArticle() {
           <li>
             <strong>Accessibility:</strong> Individual accredited investors
             can meaningfully participate in ETA with check sizes starting
-            at $50,000 — explore{" "}
+            at $50,000 - explore{" "}
             <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">why investors are drawn to search funds</Link>.
             Meaningful participation in top-tier VC requires
             minimum commitments that exclude most individual investors.
           </li>
           <li>
             <strong>Predictability:</strong> For investors who need more
-            predictable return streams — family offices with spending
-            needs, endowments with annual distribution requirements —
+            predictable return streams - family offices with spending
+            needs, endowments with annual distribution requirements - 
             ETA&apos;s more concentrated return distribution offers
             greater planning reliability.
           </li>
@@ -341,13 +341,75 @@ export default function ETAvsVentureCapitalArticle() {
         </ul>
         <p>
           Both strategies have earned their place in the alternative
-          investment landscape. The wisest approach is to understand the
+          investment market. The wisest approach is to understand the
           structural differences, match each strategy to your specific
           investment objectives, and allocate capital accordingly. If ETA
           appeals to you, our{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link> outlines
           the first steps.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the failure rate of search funds compared to venture-backed startups?</h3>
+        <p>
+          The failure dynamics are strikingly different. Approximately 90% of
+          venture-backed startups fail to return investor capital, according
+          to industry data from Cambridge Associates. In contrast, the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">2024 Stanford Search Fund Study</Link>{" "}
+          shows that roughly 33% of search fund acquisitions result in a loss
+          of capital, with total write-offs (where all equity is lost) being
+          less common. Most ETA &ldquo;failures&rdquo; involve partial returns
+          rather than complete wipeouts because the acquired business has
+          existing customers, employees, and cash flows that retain some
+          value even under suboptimal management. VC failures are typically
+          existential, the product never finds market fit or the
+          company runs out of cash entirely.
+        </p>
+
+        <h3 className={h3Class}>How many investments do I need for a diversified ETA portfolio vs. VC?</h3>
+        <p>
+          Because VC relies on the power law, funds must make 25-40
+          investments, knowing most will fail and one or two must return
+          50x-100x to make the fund successful. ETA investors can
+          achieve strong risk-adjusted returns with far fewer bets. A
+          portfolio of 10-15 search fund investments provides strong
+          diversification because the return distribution is more
+          concentrated, each individual investment has a meaningful
+          probability of success rather than depending on a single outlier.
+          Individual check sizes of $50,000-$200,000 per search fund
+          make ETA portfolio construction accessible to a broader range of
+          accredited investors.
+        </p>
+
+        <h3 className={h3Class}>Can ETA generate the same 100x returns as venture capital?</h3>
+        <p>
+          No, and that is by design. ETA can deliver 10x-20x
+          returns in exceptional cases, but the 100x outcomes that define
+          top-tier VC funds are structurally unavailable because search funds
+          acquire established businesses rather than creating winner-take-all
+          platforms. However, ETA compensates with dramatically higher base
+          rates of success: roughly two-thirds of acquired search funds
+          generate positive returns, with a median of approximately 3x-5x
+          MOIC. For investors who need consistent 25-35% IRR rather
+          than lottery-ticket upside, ETA provides a more reliable return
+          profile. Many sophisticated investors allocate to both strategies
+          ETA for consistent risk-adjusted returns and VC for
+          convexity exposure.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong>: &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Cambridge Associates</strong>: &ldquo;US Venture Capital Index &amp; Benchmark Statistics,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>Kauffman Foundation</strong>: &ldquo;We Have Met the Enemy and He Is Us: Lessons from Twenty Years of the Kauffman Foundation&rsquo;s Investments in Venture Capital Funds,&rdquo; 2023.
+          </li>
+        </ul>
       </div>
     </article>
   );

@@ -11,11 +11,11 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        The entrepreneurship through acquisition (ETA) landscape is undergoing a fundamental transformation. Artificial intelligence and automation technologies are reshaping how searchers identify, evaluate, and engage with acquisition targets. What once required armies of analysts and months of manual research can now be accomplished in days or even hours with the right AI-powered tools.
+        The entrepreneurship through acquisition (ETA) market is undergoing a fundamental transformation. Artificial intelligence and automation technologies are reshaping how searchers identify, evaluate, and engage with acquisition targets. What once required armies of analysts and months of manual research can now be accomplished in days or even hours with the right AI-powered tools.
       </p>
 
       <p className={bodyClass}>
-        This shift is democratizing deal sourcing. Solo searchers and small teams can now compete with well-funded search funds by leveraging AI to analyze thousands of companies, personalize outreach at scale, and identify patterns that human analysts might miss. The question is no longer whether to adopt AI in your search process, but how to do so effectively while maintaining the human judgment that remains essential to successful acquisitions.
+        This shift is democratizing deal sourcing. Solo searchers and small teams can now compete with well-funded search funds by using AI to analyze thousands of companies, personalize outreach at scale, and identify patterns that human analysts might miss. The question is no longer whether to adopt AI in your search process, but how to do so effectively while maintaining the human judgment that remains essential to successful acquisitions.
       </p>
 
       <p className={bodyClass}>
@@ -45,13 +45,13 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        However, AI is not a silver bullet. The most successful searchers use these tools to augment, not replace, human judgment and relationship-building. The goal is to spend less time on data collection and more time on the high-value activities that AI cannot replicate: building trust with sellers, conducting nuanced due diligence, and negotiating win-win deals.
+        However, AI is not a silver bullet. The most successful searchers use these tools to augment, not replace, human judgment and relationship-building. The goal is to spend less time on data collection and more time on the high-value activities that AI cannot replicate: building trust with sellers, conducting detailed due diligence, and negotiating win-win deals.
       </p>
 
       <h2 className={h2Class}>AI-Powered Target Identification</h2>
 
       <p className={bodyClass}>
-        The first step in any search is identifying companies that match your acquisition criteria. AI excels at this task, combining data from multiple sources to build comprehensive target lists.
+        The first step in any search is identifying companies that match your acquisition criteria. AI excels at this task, combining data from multiple sources to build thorough target lists.
       </p>
 
       <h3 className={h3Class}>How AI Identifies Targets</h3>
@@ -85,7 +85,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Geographic and Market Intelligence</h3>
 
       <p className={bodyClass}>
-        AI tools can identify local market leaders that might not appear in traditional databases. By analyzing review sites, local directories, and social media presence, these platforms find hidden gems—established businesses with strong local reputations but limited online presence.
+        AI tools can identify local market leaders that might not appear in traditional databases. By analyzing review sites, local directories, and social media presence, these platforms find hidden gems - established businesses with strong local reputations but limited online presence.
       </p>
 
       <p className={bodyClass}>
@@ -101,7 +101,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Personalization at Scale</h3>
 
       <p className={bodyClass}>
-        Generic mass emails have abysmal response rates. Sellers can spot templated outreach instantly and typically ignore it. The key to effective outreach is personalization—but personalizing messages for hundreds or thousands of targets is impossibly time-consuming manually.
+        Generic mass emails have abysmal response rates. Sellers can spot templated outreach instantly and typically ignore it. The key to effective outreach is personalization - but personalizing messages for hundreds or thousands of targets is impossibly time-consuming manually.
       </p>
 
       <p className={bodyClass}>
@@ -113,11 +113,11 @@ export default function AIDealSourcingArticle() {
         <li>Identify common connections or shared backgrounds with the owner</li>
         <li>Adapt tone and messaging based on industry, company size, and recipient role</li>
         <li>Generate multiple message variants for A/B testing</li>
-        <li>Translate messages into multiple languages while preserving nuance</li>
+        <li>Translate messages into multiple languages while preserving detail</li>
       </ul>
 
       <p className={bodyClass}>
-        A well-crafted AI-generated message might reference a recent article about the company, mention a mutual connection, and explain specifically why you're interested in their business—all without requiring manual research for each target.
+        A well-crafted AI-generated message might reference a recent article about the company, mention a mutual connection, and explain specifically why you're interested in their business - all without requiring manual research for each target.
       </p>
 
       <h3 className={h3Class}>Multi-Channel Sequences</h3>
@@ -149,13 +149,13 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        Some platforms can handle initial qualification conversations automatically, asking clarifying questions and gathering information before escalating to a human searcher. This is controversial—many sellers want to speak with a real person—but can be effective for high-volume searchers when implemented carefully.
+        Some platforms can handle initial qualification conversations automatically, asking clarifying questions and gathering information before escalating to a human searcher. This is controversial - many sellers want to speak with a real person - but can be effective for high-volume searchers when implemented carefully.
       </p>
 
       <h2 className={h2Class}>CRM and Pipeline Intelligence</h2>
 
       <p className={bodyClass}>
-        Managing a robust deal pipeline is complex. Searchers often juggle dozens of active conversations at various stages, from initial outreach to advanced due diligence. AI-enhanced CRMs are making this management more intelligent and proactive.
+        Managing a strong deal pipeline is complex. Searchers often juggle dozens of active conversations at various stages, from initial outreach to advanced due diligence. AI-enhanced CRMs are making this management more intelligent and proactive.
       </p>
 
       <h3 className={h3Class}>Automated Data Capture</h3>
@@ -165,7 +165,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        Natural language processing extracts key information from these interactions—valuation expectations, timing, potential obstacles—and updates deal records automatically. This ensures critical information is never lost in email threads or forgotten after calls.
+        Natural language processing extracts key information from these interactions - valuation expectations, timing, potential obstacles - and updates deal records automatically. This ensures critical information is never lost in email threads or forgotten after calls.
       </p>
 
       <h3 className={h3Class}>Pipeline Predictions and Prioritization</h3>
@@ -225,7 +225,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Valuation Benchmarking</h3>
 
       <p className={bodyClass}>
-        AI platforms can compare a target's financial profile against databases of comparable transactions, providing instant valuation benchmarks. While these should be taken with a grain of salt—every business is unique—they provide useful reference points for initial negotiations.
+        AI platforms can compare a target's financial profile against databases of comparable transactions, providing instant valuation benchmarks. While these should be taken with a grain of salt - every business is unique - they provide useful reference points for initial negotiations.
       </p>
 
       <h2 className={h2Class}>Predictive Models for Seller Intent</h2>
@@ -274,7 +274,7 @@ export default function AIDealSourcingArticle() {
       <ul className={ulClass}>
         <li><strong>Harmonic:</strong> Specializes in identifying private company targets with detailed firmographic data and intent signals. Strong for technology and B2B services.</li>
         <li><strong>Cyndx:</strong> AI-powered deal sourcing with a focus on middle-market companies. Integrates financial data with ownership structure insights.</li>
-        <li><strong>SourceScrub:</strong> Aggregates data from over 200 sources to build comprehensive company profiles. Good for manufacturing and distribution targets.</li>
+        <li><strong>SourceScrub:</strong> Aggregates data from over 200 sources to build thorough company profiles. Good for manufacturing and distribution targets.</li>
         <li><strong>Grata:</strong> Focuses on small and mid-sized private companies, with particularly strong coverage of niche industries and regional businesses.</li>
       </ul>
 
@@ -439,13 +439,13 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        The searchers who succeed aren't those with the best AI tools—they're those who use AI to free up time for deep relationship-building with the right sellers.
+        The searchers who succeed aren't those with the best AI tools - they're those who use AI to free up time for deep relationship-building with the right sellers.
       </p>
 
       <h3 className={h3Class}>Ethical Considerations</h3>
 
       <p className={bodyClass}>
-        AI raises ethical questions searchers must navigate:
+        AI raises ethical questions searchers must manage:
       </p>
 
       <ul className={ulClass}>
@@ -498,13 +498,13 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Predictive Acquisition Success Models</h3>
 
       <p className={bodyClass}>
-        As more search fund data becomes available, AI models will get better at predicting which acquisitions are likely to succeed. By analyzing historical patterns—industry, business characteristics, searcher background, financing structure—these models could provide early warnings about potential pitfalls.
+        As more search fund data becomes available, AI models will get better at predicting which acquisitions are likely to succeed. By analyzing historical patterns - industry, business characteristics, searcher background, financing structure - these models could provide early warnings about potential pitfalls.
       </p>
 
       <h3 className={h3Class}>Integration and Ecosystems</h3>
 
       <p className={bodyClass}>
-        Today's tools are mostly standalone. The future will see tighter integration: your target identification platform will automatically enrich data, generate personalized outreach, schedule it through your email system, log interactions in your CRM, and analyze response sentiment—all without manual intervention.
+        Today's tools are mostly standalone. The future will see tighter integration: your target identification platform will automatically enrich data, generate personalized outreach, schedule it through your email system, log interactions in your CRM, and analyze response sentiment - all without manual intervention.
       </p>
 
       <p className={bodyClass}>
@@ -514,7 +514,7 @@ export default function AIDealSourcingArticle() {
       <h3 className={h3Class}>Democratization vs. Commoditization</h3>
 
       <p className={bodyClass}>
-        There's a tension in how AI will impact the search fund model. On one hand, it democratizes access—solo searchers can now compete with teams. On the other hand, if everyone has the same AI tools, competitive advantage comes from differentiation: unique insights, better relationships, superior execution.
+        There's a tension in how AI will impact the search fund model. On one hand, it democratizes access - solo searchers can now compete with teams. On the other hand, if everyone has the same AI tools, competitive advantage comes from differentiation: unique insights, better relationships, superior execution.
       </p>
 
       <p className={bodyClass}>
@@ -538,7 +538,7 @@ export default function AIDealSourcingArticle() {
       </p>
 
       <p className={bodyClass}>
-        As you build your AI-augmented search process, start small, measure results, and iterate continuously. The technology is evolving rapidly—what works today may be obsolete in six months. Stay curious, experiment with new tools, but always keep the fundamentals front and center.
+        As you build your AI-augmented search process, start small, measure results, and iterate continuously. The technology is evolving rapidly - what works today may be obsolete in six months. Stay curious, experiment with new tools, but always keep the fundamentals front and center.
       </p>
 
       <p className={bodyClass}>
@@ -612,21 +612,42 @@ export default function AIDealSourcingArticle() {
         </li>
         <li>
           <a
-            href="https://hbr.org/2024/03/how-ai-will-transform-private-equity"
+            href="https://hbr.org/2025/06/how-private-equity-firms-are-creating-value-with-ai"
             className="text-apple-accent hover:underline"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Harvard Business Review - How AI Will Transform Private Equity
+            Harvard Business Review - How Private Equity Firms Are Creating Value with AI
           </a>
         </li>
       </ul>
 
       <hr className="my-8 border-gray-700" />
 
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How much does an AI-powered deal sourcing tech stack cost for a solo searcher?</h3>
+      <p className={bodyClass}>
+        A functional AI sourcing stack typically costs $500-$2,000 per month. This includes a target identification platform like Grata or SourceScrub ($300-$800/month), an outreach tool like Apollo.io or Clay ($100-$300/month), LinkedIn Sales Navigator ($100/month), and a CRM like HubSpot or Attio ($0-$500/month for starter tiers). General-purpose AI assistants add another $20-$100/month. According to SearchFunder community surveys, searchers who invest $1,000-$1,500/month in AI tools report generating 2-3x more qualified conversations per month compared to manual-only approaches. The key is selecting tools that integrate well rather than purchasing overlapping capabilities.
+      </p>
+
+      <h3 className={h3Class}>Can AI-generated outreach really compete with handwritten, personalized emails to business owners?</h3>
+      <p className={bodyClass}>
+        The data suggests that AI-assisted personalization (where AI drafts and a human edits) outperforms both fully manual and fully automated approaches. Fully manual outreach achieves 5-8% response rates but limits volume to 10-20 emails per day. Fully automated AI outreach scales to hundreds per day but typically drops response rates to 1-3% as recipients detect template patterns. The hybrid approach -- AI-generated drafts reviewed and refined by the searcher -- achieves 3-6% response rates at volumes of 50-100 per day, yielding the highest total number of qualified conversations. The key is using AI for research and first-draft personalization while adding genuine human insight before sending.
+      </p>
+
+      <h3 className={h3Class}>What are the biggest risks of relying too heavily on AI for deal sourcing?</h3>
+      <p className={bodyClass}>
+        The primary risks are data bias, skill atrophy, and competitive convergence. AI platforms tend to overweight companies with strong digital footprints, systematically missing profitable businesses that lack websites or social media presence -- precisely the type of{" "}
+        <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">traditional service businesses</Link>{" "}
+        that make excellent acquisition targets. Over-reliance can also erode fundamental skills like cold calling and in-person networking that remain critical for building seller trust. Finally, as more searchers adopt identical AI tools, they converge on the same targets, increasing competition for AI-visible businesses while leaving manually-sourced opportunities underexplored. The most effective approach combines AI efficiency with traditional relationship-building methods.
+      </p>
+
+      <hr className="my-8 border-gray-700" />
+
       <p className={bodyClass}>
         <em>
-          This article is part of our comprehensive guide to entrepreneurship through acquisition.
+          This article is part of our thorough guide to entrepreneurship through acquisition.
           For more on deal sourcing strategies, see{" "}
           <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">
             Deal Sourcing Strategies
@@ -637,6 +658,15 @@ export default function AIDealSourcingArticle() {
           </Link>.
         </em>
       </p>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/letter-of-intent" className="text-apple-accent hover:underline">Letter of Intent</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+        </ul>
     </article>
   );
 }

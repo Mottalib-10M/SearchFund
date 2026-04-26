@@ -170,6 +170,49 @@ interface GlossaryTerm {
   definition: string;
 }
 
+// ---------------------------------------------------------------------------
+// Dataset (data page)
+// ---------------------------------------------------------------------------
+
+export function datasetSchema(locale: string) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    name: "Search Fund Industry Statistics",
+    description:
+      "Aggregated search fund industry data including returns, deal metrics, growth trends, and market demographics. Sourced from Stanford GSB 2024, IESE 2024, and Yale SOM 2025 academic studies.",
+    url: `${BASE}/${locale}/search-fund-statistics`,
+    creator: {
+      "@type": "Organization",
+      name: "SearchFundMarket",
+      url: BASE,
+    },
+    dateModified: "2025-01-15",
+    license: "https://creativecommons.org/licenses/by-nc/4.0/",
+    isBasedOn: [
+      {
+        "@type": "CreativeWork",
+        name: "Stanford GSB: 2024 Search Fund Study: Selected Observations",
+        url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study",
+      },
+      {
+        "@type": "CreativeWork",
+        name: "IESE Business School: 2024 International Search Fund Study",
+        url: "https://www.iese.edu/entrepreneurship/search-funds/",
+      },
+      {
+        "@type": "CreativeWork",
+        name: "Yale SOM: How Are Search Fund Investors Really Faring?",
+        url: "https://som.yale.edu/sites/default/files/2025-10/How%20are%20Search%20Fund%20Investors%20Really%20Faring.pdf",
+      },
+    ],
+  };
+}
+
+// ---------------------------------------------------------------------------
+// DefinedTermSet (glossary)
+// ---------------------------------------------------------------------------
+
 export function definedTermSetSchema(terms: GlossaryTerm[], url: string) {
   return {
     "@context": "https://schema.org",

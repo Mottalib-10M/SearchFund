@@ -210,7 +210,7 @@ export default function CreateListingForm({
   return (
     <form onSubmit={onSubmit} className="max-w-2xl mx-auto">
       {/* ================================================================= */}
-      {/* Section 1 — About the business                                    */}
+      {/* Section 1 - About the business */}
       {/* ================================================================= */}
       <div className="py-12 border-b border-apple-gray-100">
         <h2 className="text-lg font-semibold text-apple-black mb-6">
@@ -316,7 +316,7 @@ export default function CreateListingForm({
       </div>
 
       {/* ================================================================= */}
-      {/* Section 2 — Financials                                            */}
+      {/* Section 2 - Financials */}
       {/* ================================================================= */}
       <div className="py-12 border-b border-apple-gray-100">
         <h2 className="text-lg font-semibold text-apple-black mb-6">
@@ -414,7 +414,7 @@ export default function CreateListingForm({
       </div>
 
       {/* ================================================================= */}
-      {/* Section 3 — Details                                               */}
+      {/* Section 3 - Details */}
       {/* ================================================================= */}
       <div className="py-12 border-b border-apple-gray-100">
         <h2 className="text-lg font-semibold text-apple-black mb-6">
@@ -439,7 +439,7 @@ export default function CreateListingForm({
               Key highlights
             </label>
             <p className="text-xs text-apple-gray-500 mb-2">
-              Short bullet points that make your business stand out — e.g. recurring revenue %, number of clients, certifications, years in business, growth rate.
+              Short bullet points that make your business stand out - e.g. recurring revenue %, number of clients, certifications, years in business, growth rate.
             </p>
             <div className="space-y-2">
               {form.highlights.map((h, idx) => {
@@ -519,7 +519,7 @@ export default function CreateListingForm({
       </div>
 
       {/* ================================================================= */}
-      {/* Section 4 — Publish                                               */}
+      {/* Section 4 - Publish */}
       {/* ================================================================= */}
       <div className="py-12">
         <h2 className="text-lg font-semibold text-apple-black mb-6">

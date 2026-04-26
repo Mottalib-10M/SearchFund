@@ -20,15 +20,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     });
     if (!category) return { title: "Category not found" };
     return {
-      title: `${category.name} — ETA Community Forum | SearchFundMarket`,
+      title: `${category.name} - ETA Community Forum | SearchFundMarket`,
       description: `Browse ${category.name} discussions in the SearchFundMarket ETA community. Join the conversation with search fund entrepreneurs and investors.`,
       openGraph: {
-        title: `${category.name} — SearchFundMarket Community Forum`,
+        title: `${category.name} - SearchFundMarket Community Forum`,
         description: `Explore ${category.name} discussions. Join search fund entrepreneurs and investors sharing insights and advice.`,
       },
     };
   } catch {
-    return { title: "Community — SearchFundMarket" };
+    return { title: "Community - SearchFundMarket" };
   }
 }
 

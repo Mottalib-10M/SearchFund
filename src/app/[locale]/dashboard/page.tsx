@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Your Dashboard — SearchFundMarket Acquisition Platform",
+  title: "Your Dashboard - SearchFundMarket Acquisition Platform",
   description:
     "Your SearchFundMarket dashboard. Track saved listings, manage business listings, monitor messages and connections, and stay updated on ETA opportunities.",
 };

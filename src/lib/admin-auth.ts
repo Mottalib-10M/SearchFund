@@ -46,7 +46,7 @@ export async function verifyAdminToken(token: string): Promise<boolean> {
 
 /**
  * Check admin auth from server components (uses next/headers cookies).
- * Do NOT import this function in proxy.ts — it uses server-only APIs.
+ * Do NOT import this function in proxy.ts - it uses server-only APIs.
  */
 export async function isAdminAuthenticated(): Promise<boolean> {
   const { cookies } = await import("next/headers");

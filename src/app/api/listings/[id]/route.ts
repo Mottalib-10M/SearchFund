@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getAuthSession, unauthorized } from "@/lib/api-auth";
 
-// GET /api/listings/[id] — fetch a single listing by ID (owner only)
+// GET /api/listings/[id] - fetch a single listing by ID (owner only)
 export async function GET(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
@@ -23,7 +23,7 @@ export async function GET(
   return NextResponse.json({ listing });
 }
 
-// PUT /api/listings/[id] — update a listing (owner only)
+// PUT /api/listings/[id] - update a listing (owner only)
 export async function PUT(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }

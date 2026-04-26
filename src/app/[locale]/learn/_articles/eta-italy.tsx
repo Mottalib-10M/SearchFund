@@ -13,7 +13,7 @@ export default function ETAItalyArticle() {
           markets for <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">Entrepreneurship Through Acquisition</Link>. With approximately
           4.4 million SMEs forming the backbone of the world&apos;s eighth-largest
           economy, the sheer volume of potential targets is staggering. Yet the
-          Italian market comes with unique complexities &mdash; a deeply rooted
+          Italian market comes with unique complexities, a deeply rooted
           family business culture, regional economic disparities, and a
           regulatory environment that rewards patient, relationship-driven
           searchers. For those willing to invest the time to understand Italy&apos;s
@@ -22,16 +22,17 @@ export default function ETAItalyArticle() {
           transition with no clear successor.
         </p>
 
-        <h2 className={h2Class}>The Italian SME landscape</h2>
+        <h2 className={h2Class}>The Italian SME market</h2>
         <p>
           Italy&apos;s economy is uniquely structured compared to its European
           peers. While Germany relies on large industrial conglomerates and
           France on centralized national champions, Italy&apos;s economic engine
-          is its vast network of small and medium enterprises. These 4.4 million
+          is its vast network of small and medium enterprises. According to
+          ISTAT (Italy&apos;s national statistics institute), these 4.4 million
           SMEs account for approximately 80% of total employment and generate
           nearly 70% of GDP. The famous &ldquo;quarto capitalismo&rdquo;
-          (fourth capitalism) describes the layer of mid-sized companies &mdash;
-          typically &euro;50M to &euro;500M in revenue &mdash; that compete
+          (fourth capitalism) describes the layer of mid-sized companies , 
+          typically &euro;50M to &euro;500M in revenue, that compete
           globally in niche manufacturing, luxury goods, food and beverage, and
           specialized industrial components.
         </p>
@@ -46,11 +47,12 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Family business culture</h2>
         <p>
-          An estimated 85% of Italian businesses are family-owned, the highest
+          According to AIDAF (the Italian Association of Family Businesses),
+          an estimated 85% of Italian businesses are family-owned, the highest
           rate among major European economies. This family-centric culture shapes
           every aspect of ETA in Italy, from deal sourcing to negotiation to
-          post-acquisition transition. Italian business owners &mdash;
-          particularly in manufacturing and artisanal sectors &mdash; view their
+          post-acquisition transition. Italian business owners , 
+          particularly in manufacturing and artisanal sectors, view their
           companies as extensions of their personal identity and family legacy.
           A &ldquo;cessione d&apos;azienda&rdquo; (business transfer) is not
           merely a financial transaction; it is an emotional and deeply personal
@@ -86,8 +88,8 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>The generational transition challenge</h2>
         <p>
-          Italy faces an acute generational succession crisis. According to
-          Unioncamere and ISTAT data, over 30% of Italian business owners are
+          Italy faces an acute generational succession crisis. A 2023 Unioncamere-InfoCamere
+          report found that over 30% of Italian business owners are
           above 60 years old, and roughly 10% of all SMEs will face a
           leadership transition within the next five years. Yet fewer than
           one-third of Italian family businesses survive to the second
@@ -99,7 +101,7 @@ export default function ETAItalyArticle() {
           This succession gap creates a structural tailwind for search fund
           activity in Italy. Business owners who once would have passed the
           company to a son or daughter are increasingly open to external
-          buyers &mdash; provided the buyer demonstrates the competence,
+          buyers, provided the buyer demonstrates the competence,
           commitment, and cultural sensitivity to carry the business forward.
           The concept of ETA is gaining visibility through Italian business
           schools (SDA Bocconi, Politecnico di Milano&apos;s MIP, LUISS) and
@@ -146,7 +148,7 @@ export default function ETAItalyArticle() {
           debt service through the Italian fiscal consolidation regime
           (consolidato fiscale), enables dividend distributions from the
           target to the holding company with favorable tax treatment, and
-          provides a clean platform for future add-on acquisitions.
+          provides a clean platform for future <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build</Link> add-on acquisitions.
         </p>
 
         <h2 className={h2Class}>Financing an acquisition in Italy</h2>
@@ -156,11 +158,11 @@ export default function ETAItalyArticle() {
 
         <h3 className={h3Class}>Bank lending</h3>
         <p>
-          Italian banks have traditionally been cautious about leveraged
+          Italian banks have traditionally been cautious about used
           acquisition financing. However, the market is evolving. Major banks
           (Intesa Sanpaolo, UniCredit, Banco BPM, BPER) and specialized
           lenders increasingly offer acquisition financing, typically at
-          2.5-3.5x EBITDA leverage. Italian banks often require personal
+          2.5-3.5x EBITDA use. Italian banks often require personal
           guarantees from the acquirer and collateral from the target
           company&apos;s assets. Building relationships with local bank
           branches and presenting a thorough business plan are essential.
@@ -265,7 +267,7 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Tax regime</h2>
         <p>
-          The Italian tax landscape is complex but manageable with proper
+          The Italian tax environment is complex but manageable with proper
           planning. Key taxes affecting acquisition structures include:
         </p>
         <ul className={ulClass}>
@@ -300,7 +302,7 @@ export default function ETAItalyArticle() {
 
         <h2 className={h2Class}>Deal sourcing in Italy</h2>
         <p>
-          For a comprehensive overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
+          For a thorough overview of finding acquisition targets, see our guide to <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">deal sourcing strategies</Link>.
         </p>
 
         <h3 className={h3Class}>Commercialisti and notai</h3>
@@ -337,7 +339,7 @@ export default function ETAItalyArticle() {
           introductions through commercialisti, industry associations, or
           mutual contacts. When reaching out directly, lead with your personal
           story, your commitment to Italy, and your respect for the business
-          &mdash; not with financial terms or deal structure.
+          not with financial terms or deal structure.
         </p>
 
         <h2 className={h2Class}>Key business networks</h2>
@@ -427,11 +429,44 @@ export default function ETAItalyArticle() {
           low competition from other searchers, and a cultural context that
           rewards the hands-on, relationship-driven approach that is the
           hallmark of successful search fund entrepreneurs. The key is to
-          approach Italy on its own terms &mdash; respecting the family
+          approach Italy on its own terms, respecting the family
           business culture, investing in local relationships, and
           demonstrating the long-term commitment that Italian business owners
           need to see before entrusting their life&apos;s work to a new
           steward.
+        </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How big is the succession crisis in Italy?</h3>
+        <p>
+          Italy has 4.4 million SMEs, the largest number in Europe , 
+          and the average business owner is over 65 years old. Only 30% of
+          Italian family businesses survive to the second generation. Unioncamere
+          estimates that over 200,000 succession events will occur over the next
+          decade, creating enormous deal flow for <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">acquisition entrepreneurs</Link>.
+        </p>
+
+        <h3 className={h3Class}>What legal structures are used for Italian business acquisitions?</h3>
+        <p>
+          The SRL (Societ&agrave; a Responsabilit&agrave; Limitata) is the most
+          common vehicle for SME acquisitions in Italy, similar to a GmbH or
+          Ltd. For larger deals, the SPA (Societ&agrave; per Azioni) is used.
+          Italian company law requires notarized closing documents and Registro
+          Imprese filings. The acquiring entity is typically a newly formed SRL
+          holding company (NewCo) that benefits from the consolidato fiscale
+          regime.
+        </p>
+
+        <h3 className={h3Class}>Is there a search fund ecosystem in Italy?</h3>
+        <p>
+          Italy&apos;s search fund ecosystem is emerging, anchored by SDA
+          Bocconi University in Milan and supported by academic research from
+          Politecnico di Milano and LUISS. A growing number of Italian search
+          funds have completed acquisitions, and interest is accelerating.
+          Italian family offices, particularly in Milan and Northern Italy, are
+          beginning to invest in search funds alongside established
+          pan-European <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">search fund investors</Link>.
         </p>
       </div>
     </article>

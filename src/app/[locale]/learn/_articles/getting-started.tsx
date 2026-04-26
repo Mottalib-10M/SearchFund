@@ -15,14 +15,18 @@ export default function GettingStartedArticle() {
           privately held company. The model was pioneered at Stanford Graduate
           School of Business in 1984 and has since grown into a well-established
           path for aspiring CEOs who want to skip the corporate ladder and go
-          straight to running their own company.
+          straight to running their own company. For a broader overview of the
+          acquisition market, see our guide on{" "}
+          <Link href="/learn/how-to-buy-small-business" className="text-apple-accent hover:underline">
+            how to buy a small business
+          </Link>.
         </p>
 
         <p>
           Unlike venture capital or private equity, where professional fund
           managers deploy capital across a portfolio of companies, a search fund
           exists to find and acquire just one business. The searcher is not merely
-          a financial sponsor — they become the full-time CEO and operator of the
+          a financial sponsor - they become the full-time CEO and operator of the
           company they acquire. This hands-on, owner-operator model is what makes
           search funds unique in the world of entrepreneurship through acquisition
           (ETA), and it is why the model continues to attract ambitious
@@ -45,7 +49,7 @@ export default function GettingStartedArticle() {
           three to six months in preparation. This phase involves building the
           intellectual foundation for the entire journey. Searchers study the
           search fund model extensively, reading case studies from Stanford, IESE,
-          and INSEAD. They develop their investment thesis — the industries,
+          and INSEAD. They develop their investment thesis - the industries,
           geographies, company sizes, and business characteristics they plan to
           target. They also begin networking with experienced searchers, search
           fund investors, and mentors who can provide guidance throughout the
@@ -79,7 +83,7 @@ export default function GettingStartedArticle() {
           prepares a private placement memorandum (PPM) that describes their
           background, investment thesis, target criteria, search budget, and the
           legal and economic terms of the fund. They then pitch this to
-          prospective investors — typically high-net-worth individuals, family
+          prospective investors - typically high-net-worth individuals, family
           offices, and institutional search fund investors who specialize in the
           asset class. Building a strong investor group is about more than just
           capital: the best search fund investors bring industry expertise,
@@ -119,7 +123,7 @@ export default function GettingStartedArticle() {
         <p>
           The acquisition phase typically lasts three to six months from signed
           letter of intent to closing. During this period, the searcher conducts
-          a comprehensive quality of earnings analysis, legal review, customer
+          a thorough quality of earnings analysis, legal review, customer
           and vendor diligence, and operational assessment. They also negotiate
           the definitive purchase agreement, arrange debt financing (often SBA
           loans in the US or bank financing in Europe), and coordinate the equity
@@ -190,7 +194,7 @@ export default function GettingStartedArticle() {
           sufficient to evaluate businesses and structure deals, and the
           leadership ability to step into a CEO role and earn the trust of an
           existing team from day one. Searchers also tend to be people who are
-          drawn to ownership and autonomy — they want to build something
+          drawn to ownership and autonomy - they want to build something
           meaningful, and they are willing to accept the personal risk and the
           intense workload that come with acquiring and running a company.
         </p>
@@ -200,7 +204,7 @@ export default function GettingStartedArticle() {
           the carried interest structure. Others are motivated by the desire to
           be CEO without spending twenty years climbing the corporate ladder. Many
           are attracted by the lifestyle of running a small to mid-size business
-          in a specific community — a stark contrast to the travel-heavy,
+          in a specific community - a stark contrast to the travel-heavy,
           client-driven schedules of consulting and banking. And some are simply
           entrepreneurs at heart who prefer the lower risk profile of acquiring
           an established, cash-flowing business over the binary outcomes of a
@@ -228,8 +232,8 @@ export default function GettingStartedArticle() {
           strong investor support and a promising pipeline.
         </p>
         <p>
-          During the search, investors receive regular updates — typically monthly
-          — on the searcher&apos;s activity, pipeline, and any deals under
+          During the search, investors receive regular updates - typically monthly
+          - on the searcher&apos;s activity, pipeline, and any deals under
           consideration. When an acquisition is identified, the search capital
           converts into acquisition equity at a step-up of 1.5x to 2.0x,
           compensating early investors for the higher risk of the pre-deal
@@ -249,9 +253,9 @@ export default function GettingStartedArticle() {
           path for MBA graduates who wanted to become CEOs. The concept crossed the
           Atlantic in the early 2010s, when MBA graduates from IESE, INSEAD, HEC
           Paris, and London Business School began raising search funds focused on
-          European markets. INSEAD has played a pivotal role in this expansion,
-          establishing its dedicated ETA & Search Funds Hub — one of the most
-          comprehensive platforms for ETA research, education, and community building
+          European markets. INSEAD has played a key role in this expansion,
+          establishing its dedicated ETA & Search Funds Hub - one of the most
+          thorough platforms for ETA research, education, and community building
           in Europe and globally. Today, INSEAD alumni are among the most active
           search fund entrepreneurs and investors in Europe, Africa, and Asia.
         </p>
@@ -291,8 +295,8 @@ export default function GettingStartedArticle() {
           <li>European search funds have grown from fewer than 10 per year in 2010 to over 80 per year as of 2024.</li>
         </ul>
         <p>
-          The Stanford GSB 2024 study — the most comprehensive longitudinal
-          dataset on search fund performance — reports an aggregate return of
+          The Stanford GSB 2024 study - the most thorough longitudinal
+          dataset on search fund performance - reports an aggregate return of
           approximately 33% IRR and 5.5x multiple on invested capital (MOIC)
           across all funds in the dataset. Roughly 70% of searchers successfully
           acquire a company, and the median acquisition occurs within 20 months
@@ -359,7 +363,7 @@ export default function GettingStartedArticle() {
           capital. Search capital from investors covers the searcher&apos;s salary
           and all expenses during the search phase, and the acquisition is
           financed by investor equity and debt. The searcher&apos;s primary
-          contribution is time, effort, and expertise — not money. While
+          contribution is time, effort, and expertise - not money. While
           self-funded searches do require personal savings, even these typically
           require only $50,000 to $150,000, well within reach for experienced
           professionals who have been working for several years.
@@ -374,7 +378,7 @@ export default function GettingStartedArticle() {
           and manage the complex process of acquiring and operating a company.
           Many successful searchers come from non-MBA backgrounds in engineering,
           law, military service, and industry operations. Investors evaluate
-          searchers on their skills, character, and work ethic — not their
+          searchers on their skills, character, and work ethic - not their
           diploma.
         </p>
 
@@ -382,7 +386,7 @@ export default function GettingStartedArticle() {
         <p>
           Compared to startups, search funds are a lower-risk path to
           entrepreneurship. The searcher acquires an existing business with
-          established revenue, customers, employees, and cash flow — there is no
+          established revenue, customers, employees, and cash flow - there is no
           product-market fit risk, no need to build a team from scratch, and no
           extended period of pre-revenue operations. The primary risks are
           paying too much for the company, failing to execute operational
@@ -397,8 +401,8 @@ export default function GettingStartedArticle() {
         <p>
           Most successful search fund CEOs acquire companies in industries where
           they had no prior experience. The skills that matter most in operating
-          a small to mid-size business — leadership, financial management, sales
-          management, process improvement, and strategic thinking — are broadly
+          a small to mid-size business - leadership, financial management, sales
+          management, process improvement, and strategic thinking - are broadly
           transferable. In fact, an outsider&apos;s perspective can be an
           advantage: new CEOs who are not anchored to industry conventions are
           often better positioned to identify inefficiencies, challenge
@@ -412,14 +416,58 @@ export default function GettingStartedArticle() {
         <p>
           While the model originated in the US, it has been successfully adapted
           to markets across Europe, Latin America, Africa, and Asia. Each market
-          has its own nuances — different legal frameworks, tax structures, deal
-          customs, and financing options — but the core logic of the model is
+          has its own nuances - different legal frameworks, tax structures, deal
+          customs, and financing options - but the core logic of the model is
           universal: talented operators acquire established businesses, improve
           them, and create value for all stakeholders. The growth of search
           fund activity outside the US over the past decade demonstrates that the
           model is portable and adaptable, and the European market in particular
           offers compelling structural advantages for searchers and investors
-          alike.
+          alike. The{" "}
+          <Link href="/learn/baby-boomer-succession" className="text-apple-accent hover:underline">
+            baby boomer succession wave
+          </Link>{" "}
+          is creating deal flow at an unprecedented scale across both continents.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>What is the difference between a search fund and private equity?</h3>
+        <p>
+          A search fund acquires a single company in the $2M to $20M
+          enterprise value range, with the searcher becoming the full-time
+          CEO. Private equity firms manage diversified portfolios of much
+          larger companies ($100M+) and install professional management
+          teams. Search funds also use a step-up equity model rather than
+          the 2-and-20 fee structure common in PE. For a deeper comparison,
+          see our article on{" "}
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
+            entrepreneurship through acquisition
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>How do search fund investors make money?</h3>
+        <p>
+          Investors contribute search capital ($30K to $50K per unit) and
+          then have the right to co-invest in the acquisition. Their search
+          capital converts at a 1.5x to 2.0x step-up, and they share in the
+          value created when the company is eventually sold, typically five
+          to seven years after acquisition. The asset class has generated a
+          35 percent aggregate IRR over 40 years. Learn more in our{" "}
+          <Link href="/learn/why-invest-in-search-funds" className="text-apple-accent hover:underline">
+            investor guide
+          </Link>.
+        </p>
+
+        <h3 className={h3Class}>Can you start a search fund outside the United States?</h3>
+        <p>
+          Yes. The search fund model has been successfully adapted across
+          Europe, Latin America, and Asia. European search funds have grown
+          from fewer than 10 per year in 2010 to over 80 per year as of
+          2024, with particularly strong activity in France, Germany, Spain,
+          and the United Kingdom. Business schools like IESE, INSEAD, and
+          HEC Paris have built dedicated ETA programs that support
+          searchers in local markets.
         </p>
       </div>
     </article>

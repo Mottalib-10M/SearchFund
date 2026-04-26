@@ -32,12 +32,12 @@ export default function EducationAcquisitionArticle() {
 
         <h3 className={h3Class}>B2B corporate training</h3>
         <p>
-          Corporate training providers sell programs to businesses &mdash;
+          Corporate training providers sell programs to businesses , 
           leadership development, compliance training, technical
           certifications, sales enablement, and safety courses. Revenue
           typically comes through multi-year contracts, annual renewals,
           or per-seat licensing. The B2B model offers higher revenue
-          visibility, larger average contract values ($25K&ndash;$500K+),
+          visibility, larger average contract values ($25K-$500K+),
           and lower customer acquisition costs relative to B2C. However,
           revenue can be lumpy, with large contracts creating concentration
           risk, and corporate training budgets are among the first line
@@ -66,7 +66,7 @@ export default function EducationAcquisitionArticle() {
         <h3 className={h3Class}>B2C consumer education</h3>
         <p>
           Consumer-facing education businesses sell directly to
-          individuals &mdash; test prep courses, language schools,
+          individuals, test prep courses, language schools,
           tutoring services, coding bootcamps, and professional
           certification programs. The B2C model offers a larger
           addressable market and less client concentration, but it
@@ -91,8 +91,8 @@ export default function EducationAcquisitionArticle() {
           </li>
           <li>
             <strong>Outcome tracking:</strong> Programs that can
-            demonstrate concrete outcomes &mdash; job placement rates,
-            salary increases, exam pass rates &mdash; command premium
+            demonstrate concrete outcomes, job placement rates,
+            salary increases, exam pass rates, command premium
             pricing and enjoy stronger word-of-mouth growth.
           </li>
         </ul>
@@ -104,8 +104,8 @@ export default function EducationAcquisitionArticle() {
           students can receive financial aid, whether credits transfer to
           other institutions, and whether graduates&apos; credentials are
           recognized by employers and licensing bodies. Not all education
-          businesses require accreditation &mdash; corporate training and
-          informal consumer courses typically do not &mdash; but for
+          businesses require accreditation, corporate training and
+          informal consumer courses typically do not, but for
           degree-granting programs, vocational training, and certain
           professional certifications, accreditation is essential.
         </p>
@@ -121,7 +121,7 @@ export default function EducationAcquisitionArticle() {
             <strong>Change-of-ownership provisions:</strong> Most
             accrediting bodies require notification and approval for
             ownership changes. Some require a full review that can take
-            6&ndash;18 months. In the US, Department of Education
+            6-18 months. In the US, Department of Education
             regulations require institutions to undergo a change of
             ownership review to maintain Title IV financial aid
             eligibility. Failure to obtain timely approval can be
@@ -153,7 +153,7 @@ export default function EducationAcquisitionArticle() {
             percentage of enrollment is directly tied to specific
             instructors. If more than 30% of revenue depends on any
             single instructor, build retention mechanisms into the
-            deal &mdash; employment agreements, non-competes (where
+            deal, employment agreements, non-competes (where
             enforceable), retention bonuses, or equity participation.
           </li>
           <li>
@@ -189,7 +189,7 @@ export default function EducationAcquisitionArticle() {
           automate grading, track student progress, and generate
           analytics that inform curriculum improvements. For businesses
           still using manual processes, an LMS implementation can reduce
-          administrative headcount by 15&ndash;30% while improving the
+          administrative headcount by 15-30% while improving the
           student experience.
         </p>
 
@@ -197,10 +197,10 @@ export default function EducationAcquisitionArticle() {
         <p>
           Converting classroom courses to hybrid or fully online formats
           removes geographic constraints on enrollment and reduces
-          facility costs. However, the conversion is not trivial &mdash;
+          facility costs. However, the conversion is not trivial , 
           effective online education requires different instructional
           design, video production capabilities, and student engagement
-          strategies. Budget $5,000&ndash;$25,000 per course for a
+          strategies. Budget $5,000-$25,000 per course for a
           professional conversion, depending on complexity and production
           quality.
         </p>
@@ -211,7 +211,7 @@ export default function EducationAcquisitionArticle() {
           identify at-risk students before they drop out. Early
           intervention based on engagement data (login frequency,
           assignment completion rates, discussion participation) can
-          improve retention by 10&ndash;20%, directly impacting revenue
+          improve retention by 10-20%, directly impacting revenue
           and reputation.
         </p>
 
@@ -236,8 +236,8 @@ export default function EducationAcquisitionArticle() {
             completion rates. Every student who drops out represents lost
             tuition revenue and increased marketing costs to replace them.
             Industry benchmarks vary widely: university programs average
-            70&ndash;80% retention, vocational programs 60&ndash;75%,
-            and online bootcamps 50&ndash;70%.
+            70-80% retention, vocational programs 60-75%,
+            and online bootcamps 50-70%.
           </li>
           <li>
             <strong>Cohort economics:</strong> Analyze revenue and margin
@@ -247,13 +247,13 @@ export default function EducationAcquisitionArticle() {
           </li>
         </ul>
 
-        <h2 className={h2Class}>Regulatory landscape</h2>
+        <h2 className={h2Class}>regulatory environment</h2>
 
         <h3 className={h3Class}>Education licensing and state approvals</h3>
         <p>
           In the United States, post-secondary education providers
           typically need state authorization in every state where they
-          enroll students (even for online programs, under SARA &mdash;
+          enroll students (even for online programs, under SARA , 
           the State Authorization Reciprocity Agreement, or individually
           if the state does not participate in SARA). Vocational schools
           may need additional licensure from state workforce development
@@ -280,14 +280,14 @@ export default function EducationAcquisitionArticle() {
           Education businesses exhibit pronounced seasonality that must
           be reflected in your financial model and working capital
           planning. Academic calendar-based programs concentrate
-          enrollment (and tuition collection) in August&ndash;September
-          and January&ndash;February, while expenses (primarily payroll)
+          enrollment (and tuition collection) in August-September
+          and January-February, while expenses (primarily payroll)
           are distributed more evenly across the year. This creates
           significant cash flow swings.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Working capital needs:</strong> Plan for 2&ndash;4
+            <strong>Working capital needs:</strong> Plan for 2-4
             months of negative operating cash flow during off-peak
             enrollment periods. Size your revolving credit facility or
             cash reserves accordingly.
@@ -321,7 +321,7 @@ export default function EducationAcquisitionArticle() {
             me,&rdquo; &ldquo;PMP certification course&rdquo;) is the
             primary acquisition channel for many education businesses.
             Cost per click in competitive education categories can reach
-            $15&ndash;$80.
+            $15-$80.
           </li>
           <li>
             <strong>Content marketing and SEO:</strong> Building organic
@@ -361,7 +361,7 @@ export default function EducationAcquisitionArticle() {
             subjects the institution to the &ldquo;90/10 rule&rdquo;
             (no more than 90% of revenue from Title IV sources) and
             cohort default rate monitoring. A change of ownership
-            triggers a mandatory review that can take 12&ndash;18 months.
+            triggers a mandatory review that can take 12-18 months.
           </li>
           <li>
             <strong>GI Bill and veterans&apos; benefits:</strong> Veterans&apos;
@@ -392,7 +392,7 @@ export default function EducationAcquisitionArticle() {
           tied to annual exam cycles. The market has shifted online, and
           businesses with effective digital platforms and strong brand
           recognition in their niche can command premium valuations.
-          Typical EBITDA multiples range from 4&ndash;7x.
+          Typical EBITDA multiples range from 4-7x.
         </p>
 
         <h3 className={h3Class}>Vocational and trade schools</h3>
@@ -401,9 +401,9 @@ export default function EducationAcquisitionArticle() {
           medical coding, dental hygiene) benefit from strong job
           placement rates and growing societal recognition that not
           all careers require four-year degrees. These businesses
-          often generate $3M&ndash;$20M in revenue with 15&ndash;25%
+          often generate $3M-$20M in revenue with 15-25%
           EBITDA margins. Equipment and facility costs are meaningful
-          capital expenditures — see our{" "}
+          capital expenditures - see our{" "}
           <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">acquisition financing guide</Link> for
           how to structure these deals.
         </p>
@@ -414,7 +414,7 @@ export default function EducationAcquisitionArticle() {
           corporate (business communication training), and immigration-
           related programs (English as a second language). The market
           is highly fragmented, with many single-location schools
-          generating $500K&ndash;$5M in revenue. Online delivery has
+          generating $500K-$5M in revenue. Online delivery has
           expanded competition but also enables geographic expansion
           without physical footprint growth.
         </p>
@@ -437,15 +437,15 @@ export default function EducationAcquisitionArticle() {
           create guaranteed demand. Revenue is highly predictable, and
           switching costs are moderate once a professional commits to a
           provider&apos;s platform. These businesses typically trade at
-          5&ndash;8x EBITDA.
+          5-8x EBITDA.
         </p>
 
         <h2 className={h2Class}>Valuation and multiples</h2>
         <p>
           Education and training businesses typically trade at
-          4&ndash;8x EBITDA — see our{" "}
+          4-8x EBITDA - see our{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation guide</Link> for
-          foundational methodology — with variation driven by sub-sector,
+          foundational methodology - with variation driven by sub-sector,
           growth rate, digital maturity, accreditation status, and
           customer concentration. Key valuation drivers include:
         </p>
@@ -453,14 +453,14 @@ export default function EducationAcquisitionArticle() {
           <li>
             <strong>Recurring revenue:</strong> Businesses with
             subscription-based or auto-renewal revenue models command
-            premium multiples (7&ndash;8x) compared to those reliant
-            on one-time course purchases (4&ndash;5x).
+            premium multiples (7-8x) compared to those reliant
+            on one-time course purchases (4-5x).
           </li>
           <li>
             <strong>Digital vs physical delivery:</strong> Primarily
             digital businesses trade at higher multiples due to superior
             scalability and margins. A fully online training platform
-            might achieve 40&ndash;60% gross margins versus 25&ndash;40%
+            might achieve 40-60% gross margins versus 25-40%
             for classroom-based delivery.
           </li>
           <li>
@@ -483,7 +483,7 @@ export default function EducationAcquisitionArticle() {
           Education and training businesses offer search fund
           entrepreneurs a sector with genuine secular tailwinds,
           meaningful digital transformation upside, and a fragmented
-          competitive landscape rich with acquisition targets. Applying a thorough{" "}
+          competitive environment rich with acquisition targets. Applying a thorough{" "}
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">due diligence checklist</Link> is
           essential. The keys to success are understanding the specific accreditation and
           regulatory requirements of your target sub-sector, mitigating
@@ -491,9 +491,74 @@ export default function EducationAcquisitionArticle() {
           structures, and having a clear plan for digital enhancement
           that improves both margins and student outcomes. Done well,
           an education acquisition can deliver strong returns while
-          creating real social value &mdash; a combination that makes
+          creating real social value, a combination that makes
           this sector uniquely rewarding for mission-driven operators.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What types of education businesses are best suited for search fund acquisitions?</h3>
+        <p>
+          The strongest targets for search funds include vocational training
+          providers (HVAC, electrical, medical coding), test prep companies,
+          corporate training firms, continuing education providers, and
+          language schools. These businesses offer recurring enrollment,
+          regulatory accreditation that creates barriers to entry, and
+          demonstrable student outcomes. Ideal targets generate $3M-$20M
+          in revenue with 15-25% EBITDA margins. Vocational programs
+          are particularly compelling because they benefit from strong job
+          placement rates, growing societal recognition of non-degree career
+          paths, and potential access to GI Bill and government training
+          voucher funding. See our overview of{" "}
+          <Link href="/learn/best-industries-search-funds" className="text-apple-accent hover:underline">best industries for search funds</Link>{" "}
+          for broader sector comparison.
+        </p>
+
+        <h3 className={h3Class}>How does accreditation affect education business acquisitions?</h3>
+        <p>
+          Accreditation is the single most important regulatory consideration.
+          It determines whether students can receive financial aid, whether
+          credits transfer, and whether credentials are recognized by
+          employers. Most accrediting bodies require notification and approval
+          for ownership changes, with some requiring full reviews that can
+          take 6-18 months. In the US, Department of Education
+          regulations mandate a change-of-ownership review to maintain
+          Title IV financial aid eligibility, failure to obtain
+          timely approval can be catastrophic. In France, Qualiopi
+          certification is required to access CPF public funding. Build
+          these regulatory timelines into your acquisition schedule and
+          engage specialized education counsel early in the process.
+        </p>
+
+        <h3 className={h3Class}>What is the digital transformation opportunity in education acquisitions?</h3>
+        <p>
+          Many established education businesses still rely heavily on
+          classroom delivery, paper-based materials, and manual administrative
+          processes. Implementing a modern Learning Management System
+          (Canvas, Moodle, Thinkific) can reduce administrative headcount by
+          15-30% while improving the student experience. Converting
+          classroom courses to hybrid or fully online formats removes
+          geographic enrollment constraints and reduces facility costs.
+          Budget $5,000-$25,000 per course for professional conversion.
+          Data-driven student success tools that identify at-risk students
+          before they drop out can improve retention by 10-20%,
+          directly impacting revenue and reputation. These digital
+          investments typically generate strong returns within 12-18
+          months.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <strong>Stanford GSB</strong>: &ldquo;2024 Search Fund Study: Selected Observations,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>IESE Business School</strong>: &ldquo;International Search Fund Study,&rdquo; 2024.
+          </li>
+          <li>
+            <strong>U.S. Department of Education</strong>: &ldquo;Change of Ownership &amp; Accreditation Requirements for Post-Secondary Institutions,&rdquo; 2024.
+          </li>
+        </ul>
       </div>
     </article>
   );

@@ -17,18 +17,26 @@
     "connections": "Connections",
     "notifications": "Notifications",
     "settings": "Settings",
-    "signOut": "Sign out"
+    "signOut": "Sign out",
+    "theJourney": "The Journey",
+    "statistics": "Statistics",
+    "tools": "Tools"
   },
   "footer": {
+    "platform": "Platform",
     "marketplace": "Marketplace",
     "marketplaceSoon": "Marketplace (Soon)",
     "searchers": "Searchers",
     "investors": "Investors",
     "resources": "Resources",
     "learn": "Learn",
+    "statistics": "Statistics",
+    "tools": "Tools",
+    "templates": "Templates",
     "community": "Community",
     "glossary": "Glossary",
     "company": "Company",
+    "editorialPolicy": "Editorial Policy",
     "about": "About",
     "contact": "Contact",
     "legal": "Legal",
@@ -49,10 +57,10 @@
     "exploreCta": "Explore the Learning Hub",
     "waitlistCta": "Join the marketplace waitlist",
     "builtForEvery": "Built for every side of the deal",
-    "builtForEverySubtitle": "Whether you're searching, investing, or selling — SearchFundMarket helps you learn and connect.",
+    "builtForEverySubtitle": "Whether you're searching, investing, or selling  -  SearchFundMarket helps you learn and connect.",
     "forSearchers": "For Searchers",
     "forSearchersTitle": "Learn how to find and acquire your first business",
-    "forSearchersDesc": "From search fund basics to deal execution, due diligence, and post-acquisition operations — everything you need to succeed as a search fund entrepreneur.",
+    "forSearchersDesc": "From search fund basics to deal execution, due diligence, and post-acquisition operations  -  everything you need to succeed as a search fund entrepreneur.",
     "startLearning": "Start learning",
     "forInvestors": "For Investors",
     "forInvestorsTitle": "Understand the search fund asset class",
@@ -96,5 +104,83 @@
     "es": "Español",
     "it": "Italiano",
     "pt": "Português"
+  },
+  "journey": {
+    "title": "How to Buy, Run & Exit a Company Through ETA",
+    "subtitle": "A step-by-step roadmap from preparation to exit. Learn what happens at every stage of buying, running, and selling a company through a search fund.",
+    "scrollIndicator": "Scroll to explore",
+    "articles": "Articles",
+    "tools": "Tools",
+    "templates": "Templates",
+    "pitfalls": "Common pitfalls",
+    "comingSoon": "Coming soon",
+    "readGuide": "Read guide",
+    "openTool": "Open tool",
+    "calculator": "Quick calculator",
+    "outroTitle": "Ready to start your ETA journey?",
+    "outroPrimary": "Start with the fundamentals",
+    "outroSecondary": "Browse all guides",
+    "phases": {
+      "prepare": {
+        "title": "Prepare",
+        "duration": "2\u20134 months",
+        "tagline": "The phase that determines 80% of the outcome. Most searchers underestimate it.",
+        "description": "Preparation is where you define your search fund model, target industries, and personal financial runway. The 2024 Stanford Search Fund Study shows that 37% of searchers never acquire a company despite a two-year dedicated search. You need to be ready for that outcome.\n\nWork on three fronts simultaneously. Personal: build 18\u201324 months of living expenses, align with your family, and plan a career bridge if the search fails. Strategic: choose your model (traditional, self-funded, accelerator-backed, or single-sponsor), pick 2\u20133 industries that match your background, and define your target company size ($1\u20133M EBITDA for first-time searchers). Network: connect with former searchers, QoE accountants, M&A lawyers, and potential investors before you launch.",
+        "quote": "The right motivations for launching a search fund, in my view, are a trifecta of ambition, curiosity, and a keen interest in operational leadership. It offers more than just equity \u2014 it\u2019s about being in charge from start to finish.",
+        "pitfall1": "Underestimating the personal runway needed (18\u201324 months with no salary)",
+        "pitfall2": "Choosing an industry you don\u2019t understand deeply enough",
+        "pitfall3": "Launching without any pre-committed investors"
+      },
+      "fundraise": {
+        "title": "Fundraise",
+        "duration": "3\u20136 months",
+        "tagline": "Turn your search thesis into committed capital from the right investors.",
+        "description": "A traditional search fund raises $400K\u2013$600K from 10\u201320 investors. Each investor gets a pro-rata right to co-invest in the eventual acquisition. Your PPM (Private Placement Memorandum) must articulate your industry thesis, deal criteria, search strategy, and fund economics clearly enough for investors to underwrite both you and your approach.\n\nInvestor selection matters as much as the capital raised. No single LP should control more than 30% of your fund. Prioritize investors who bring deal flow, sector expertise, and operating experience alongside their capital. Legal setup requires M&A counsel experienced in search fund structures (Delaware LP/LLC in the US, Luxembourg SCSp in Europe). Budget 4\u20136 months for fundraising, not the 2 months most first-time searchers expect.",
+        "quote": "Relay was the first investor in my fund and has guided me through this process from fundraising, to searching, to acquiring and running my business. When COVID-19 hit in March 2020 and my deal was in jeopardy, they were my first call. I would not have been able to close my deal without that support.",
+        "pitfall1": "Over-optimistic fundraising timeline (plan for 4\u20136 months, not 2)",
+        "pitfall2": "Treating soft commitments as firm capital",
+        "pitfall3": "Building a cap table that misaligns founder-investor incentives"
+      },
+      "search": {
+        "title": "Search",
+        "duration": "12\u201324 months",
+        "tagline": "The longest phase. You will screen hundreds of businesses to acquire one.",
+        "description": "Deal sourcing runs through three channels: proprietary outreach (cold emails, calls, and LinkedIn messages to owners), intermediated deals (business brokers and M&A advisors), and referral networks (accountants, lawyers, and wealth managers who advise owners on succession planning).\n\nSpecializing in 2\u20133 sectors significantly improves your conversion rate. Focused searchers develop pattern recognition faster, build stronger broker relationships, and move quicker when the right deal appears. Maintain a pipeline of 50\u2013100 qualified leads at all times. The biggest risk in this phase is deal fatigue: months of near-misses can cloud your judgment when a genuinely good opportunity finally surfaces.",
+        "quote": "I looked at hundreds, if not thousands of businesses. The search took me a year and eight months. Even if you run the best due diligence process that has ever been run, I strongly suspect you will learn more about your company in the first month inside it than in the eight months outside that preceded it.",
+        "pitfall1": "Falling in love with the first decent target you find",
+        "pitfall2": "Pipeline too concentrated in one sector or geography",
+        "pitfall3": "Neglecting seller relationships after initial outreach"
+      },
+      "acquire": {
+        "title": "Acquire",
+        "duration": "3\u20136 months",
+        "tagline": "LOI, due diligence, financing, and close. Where the deal gets real or falls apart.",
+        "description": "It starts with the Letter of Intent (LOI): purchase price, structure (asset vs. stock), financing contingencies, exclusivity, and working capital peg. Once signed, you run financial, legal, commercial, and operational due diligence in parallel under time pressure.\n\nThe Quality of Earnings (QoE) report is your most critical deliverable. It validates or challenges the seller\u2019s EBITDA claims. Financing typically layers senior debt (40\u201360% of the price, often SBA 7(a) in the US), equity from your investors (30\u201350%), and a seller note (10\u201320%). Most deals that die in diligence fail because of surprises in working capital, customer concentration, or undisclosed liabilities, not price disagreements.",
+        "quote": "We\u2019ve never had a deal where we closed and not found something weird, hairy, unexpected after close, ever. It\u2019s a form of humility to pay a lower price. It\u2019s a form of humility not to use debt. And it\u2019s a form of humility not to assume that you know what you can do with it post-close.",
+        "pitfall1": "Rushing due diligence to meet a closing deadline",
+        "pitfall2": "Signing the LOI before financing is lined up",
+        "pitfall3": "Earnout terms that are too aggressive or too vague"
+      },
+      "operate": {
+        "title": "Operate",
+        "duration": "3\u20137 years",
+        "tagline": "From deal-maker to CEO. The phase that creates all the value.",
+        "description": "The first 100 days set the tone. Conduct a listening tour with every employee, customer, and key supplier before making changes. Quick wins (fixing inefficiencies, addressing employee concerns, upgrading financial reporting) build credibility and buy time for bigger initiatives.\n\nRetention is your number one risk: 47% of employees leave within the first year after an acquisition. Build trust with the inherited team before restructuring. Once stabilized, shift to value creation: pricing optimization, sales team development, new customer channels, and bolt-on acquisitions. Establish a governance rhythm with your board (monthly financials, quarterly meetings, annual strategy reviews). This phase typically lasts 3\u20137 years, and it determines whether the investment returns 0x or 10x.",
+        "quote": "The importance of my own leadership. This was a shocker, but when you think you\u2019re a great leader, it only means you haven\u2019t set the bar high enough.",
+        "pitfall1": "Making too many changes in the first 90 days",
+        "pitfall2": "Losing the key employees the previous owner depended on",
+        "pitfall3": "Under-investing in the management team you inherit"
+      },
+      "exit": {
+        "title": "Exit",
+        "duration": "6\u201318 months",
+        "tagline": "Liquidity. A strategic sale, a recap, or a long-term hold. You decide.",
+        "description": "Start exit planning 18\u201324 months before the target event. Four main routes exist: strategic sale (corporate buyer paying a synergy premium), financial sale (PE firm or another search fund), dividend recapitalization (refinance to return capital while keeping the business), or long-term hold (distribute cash flows indefinitely).\n\nPreparing the company for sale means audited financials, a management team that operates independently, documented processes, and a compelling growth story. A competitive auction typically yields 15\u201330% higher valuations than a negotiated single-buyer deal. Post-exit, distributions follow the waterfall in your operating agreement. Then comes the next question: another search, an investor role, or something entirely new.",
+        "quote": "The movie in Entrepreneur Land always ends with the exit, but there\u2019s an epilogue. Life goes on, and finding your epilogue \u2014 figuring out how you create new structure, meaning, and identity \u2014 is what it\u2019s all about.",
+        "pitfall1": "Starting exit prep too late (should begin 18\u201324 months before)",
+        "pitfall2": "Not running a competitive process (leaving 15\u201330% on the table)",
+        "pitfall3": "Earnout structures that create friction after closing"
+      }
+    }
   }
 }

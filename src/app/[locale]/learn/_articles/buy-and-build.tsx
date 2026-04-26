@@ -28,11 +28,11 @@ export default function BuyAndBuildArticle() {
 
         <h3 className={h3Class}>Platform acquisition</h3>
         <p>
-          The platform is your initial acquisition &mdash; the foundation on
+          The platform is your initial acquisition, the foundation on
           which you will build. It needs to be a well-run business with strong
           management, scalable systems, and a defensible market position. In a
-          search fund context, the platform is typically a $1M&ndash;$5M EBITDA
-          business purchased at 4&ndash;6x based on its{" "}
+          search fund context, the platform is typically a $1M-$5M EBITDA
+          business purchased at 4-6x based on its{" "}
           <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation</Link>. The platform must have the
           operational infrastructure (ERP, CRM, HR systems, middle management)
           to absorb additional businesses without breaking.
@@ -60,7 +60,7 @@ export default function BuyAndBuildArticle() {
         <p>
           Bolt-ons are smaller companies that are acquired and integrated into
           the platform. They are typically one-third to one-half the size of
-          the platform and are purchased at lower multiples (3&ndash;5x
+          the platform and are purchased at lower multiples (3-5x
           EBITDA) because they lack the scale, systems, and management depth
           to command higher valuations as standalone businesses.
         </p>
@@ -86,32 +86,32 @@ export default function BuyAndBuildArticle() {
         <p>
           Multiple arbitrage is the primary financial driver of buy-and-build.
           A $1.5M EBITDA business might trade at 4x ($6M enterprise value). A
-          $6M EBITDA business in the same industry might trade at 7&ndash;8x
-          ($42M&ndash;$48M enterprise value). By acquiring four small
+          $6M EBITDA business in the same industry might trade at 7-8x
+          ($42M-$48M enterprise value). By acquiring four small
           businesses at 4x and combining them into one larger entity, you
-          create a business that the market values at 7&ndash;8x &mdash;
+          create a business that the market values at 7-8x , 
           generating enormous value purely through scale.
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Entry multiple (individual bolt-ons):</strong> 3&ndash;5x
-            EBITDA for businesses with $500K&ndash;$2M EBITDA.
+            <strong>Entry multiple (individual bolt-ons):</strong> 3-5x
+            EBITDA for businesses with $500K-$2M EBITDA.
           </li>
           <li>
-            <strong>Exit multiple (combined platform):</strong> 6&ndash;9x
-            EBITDA for businesses with $5M&ndash;$10M+ EBITDA, depending on
+            <strong>Exit multiple (combined platform):</strong> 6-9x
+            EBITDA for businesses with $5M-$10M+ EBITDA, depending on
             industry, growth rate, and recurring revenue.
           </li>
           <li>
             <strong>Value creation math:</strong> if you buy four businesses
             at 4x for a combined $8M EBITDA, the combined entity at 7x is
-            worth $56M &mdash; versus $32M if valued separately. That $24M
+            worth $56M, versus $32M if valued separately. That $24M
             gap is pure multiple arbitrage.
           </li>
           <li>
             <strong>Synergies add further value:</strong> eliminating redundant
             overhead (bookkeepers, insurance, office space) typically saves
-            5&ndash;15% of acquired revenue, flowing directly to EBITDA.
+            5-15% of acquired revenue, flowing directly to EBITDA.
           </li>
         </ul>
 
@@ -126,14 +126,14 @@ export default function BuyAndBuildArticle() {
           <li>
             <strong>Business brokers:</strong> develop relationships with
             every broker in your industry and geography. Let them know your
-            acquisition criteria, budget, and timeline. Expect to pay a 1&ndash;
+            acquisition criteria, budget, and timeline. Expect to pay a 1-
             3% finder&apos;s fee or work within the broker&apos;s standard sell-
             side fee structure.
           </li>
           <li>
             <strong>Direct outreach:</strong> identify targets through industry
             directories, trade show attendee lists, and competitor analysis.
-            Send personalized letters or emails to owners. A 2&ndash;3%
+            Send personalized letters or emails to owners. A 2-3%
             response rate is typical, so plan for high volume.
           </li>
           <li>
@@ -180,7 +180,7 @@ export default function BuyAndBuildArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Day 1&ndash;30: stabilize</h3>
+        <h3 className={h3Class}>Day 1-30: stabilize</h3>
         <ul className={ulClass}>
           <li>
             All-hands meeting with acquired employees. The CEO should
@@ -202,7 +202,7 @@ export default function BuyAndBuildArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Day 31&ndash;60: optimize</h3>
+        <h3 className={h3Class}>Day 31-60: optimize</h3>
         <ul className={ulClass}>
           <li>
             Begin eliminating redundant costs: duplicate insurance, overlapping
@@ -222,7 +222,7 @@ export default function BuyAndBuildArticle() {
           </li>
         </ul>
 
-        <h3 className={h3Class}>Day 61&ndash;90: integrate</h3>
+        <h3 className={h3Class}>Day 61-90: integrate</h3>
         <ul className={ulClass}>
           <li>
             Finalize organizational structure: report lines, titles, and
@@ -260,12 +260,12 @@ export default function BuyAndBuildArticle() {
             <Link href="/learn/acquisition-financing" className="text-apple-accent hover:underline">bank financing</Link>{" "}
             capacity will increase through a larger revolver or incremental term
             debt. A business that borrowed 3x EBITDA for the platform may be
-            able to borrow 3.5&ndash;4x on the combined entity.
+            able to borrow 3.5-4x on the combined entity.
           </li>
           <li>
             <strong>Seller notes:</strong> many small business sellers will
-            accept 20&ndash;40% of the purchase price as a seller note,
-            typically at 5&ndash;7% interest with a five to seven year
+            accept 20-40% of the purchase price as a seller note,
+            typically at 5-7% interest with a five to seven year
             amortization. This is especially common when the seller is
             retiring and wants steady income.
           </li>
@@ -283,7 +283,7 @@ export default function BuyAndBuildArticle() {
 
         <h2 className={h2Class}>When to start: timing your first add-on</h2>
         <p>
-          Most experienced operators recommend waiting at least 12&ndash;18
+          Most experienced operators recommend waiting at least 12-18
           months after acquiring the platform before pursuing the first add-on.
           This period allows you to stabilize operations, understand the
           business deeply, build your management team, and establish the
@@ -291,18 +291,18 @@ export default function BuyAndBuildArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>Months 1&ndash;12:</strong> focus exclusively on the
+            <strong>Months 1-12:</strong> focus exclusively on the
             platform. Learn the industry, build relationships, improve
             operations, and develop your integration playbook.
           </li>
           <li>
-            <strong>Months 12&ndash;18:</strong> begin sourcing add-on targets
+            <strong>Months 12-18:</strong> begin sourcing add-on targets
             while continuing to improve the platform. Start conversations but
             do not commit.
           </li>
           <li>
-            <strong>Months 18&ndash;24:</strong> close your first add-on.
-            This should be a relatively easy integration &mdash; a smaller
+            <strong>Months 18-24:</strong> close your first add-on.
+            This should be a relatively easy integration, a smaller
             business in a similar market that does not require dramatic
             changes.
           </li>
@@ -335,7 +335,7 @@ export default function BuyAndBuildArticle() {
           <li>
             <strong>Overpaying for &quot;strategic&quot; value.</strong> Every
             add-on seems strategic during the excitement of a deal. Discipline
-            yourself to pay fair multiples (3&ndash;5x for bolt-ons) and let
+            yourself to pay fair multiples (3-5x for bolt-ons) and let
             the value creation come from integration, not from the purchase
             price.
           </li>
@@ -349,7 +349,7 @@ export default function BuyAndBuildArticle() {
             <strong>Underestimating integration costs.</strong> System
             migrations, rebranding, employee training, and process
             harmonization all cost money and management attention. Budget
-            $50K&ndash;$150K in integration costs per add-on, plus significant
+            $50K-$150K in integration costs per add-on, plus significant
             management time.
           </li>
           <li>
@@ -403,8 +403,8 @@ export default function BuyAndBuildArticle() {
         <p>
           Total acquisition cost: approximately $19M. Exit value: $60M. The
           original $10M platform investment has generated a 6x return on
-          enterprise value, plus the equity returns are amplified by leverage.
-          Investor returns in this scenario typically reach 8&ndash;12x.
+          enterprise value, plus the equity returns are amplified by use.
+          Investor returns in this scenario typically reach 8-12x.
         </p>
 
         <h2 className={h2Class}>Types of buy-and-build expansion</h2>
@@ -416,8 +416,8 @@ export default function BuyAndBuildArticle() {
           locally-operated industries like HVAC, landscaping, pest control,
           dental practices, or veterinary clinics. The key advantage is that
           integration is simpler because the businesses do the same thing
-          &mdash; you are primarily consolidating back-office functions and
-          leveraging purchasing power.
+          you are primarily consolidating back-office functions and
+          using purchasing power.
         </p>
 
         <h3 className={h3Class}>Service line expansion</h3>
@@ -448,7 +448,41 @@ export default function BuyAndBuildArticle() {
           synergies, and the satisfaction of building something significantly
           larger than what you started with.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How long should I wait after acquiring a platform before pursuing my first add-on?</h3>
+        <p>
+          Most experienced operators recommend waiting at least 12-18 months after acquiring the platform before closing the first add-on acquisition. Stanford GSB&rsquo;s search fund research shows that searchers who rush into add-ons before stabilizing the platform have significantly higher integration failure rates. Use months 1-12 to learn the industry, build relationships, improve operations, and develop your integration playbook. Begin sourcing add-on targets in months 12-18, and close your first bolt-on in months 18-24. After one successful integration, many buy-and-build operators accelerate to two to three add-ons per year.
+        </p>
+
+        <h3 className={h3Class}>What is multiple arbitrage, and how does it create value in buy-and-build?</h3>
+        <p>
+          Multiple arbitrage is the primary financial driver of buy-and-build strategies. Individual small businesses with $500K-$2M EBITDA typically trade at 3-5x EBITDA, while larger combined entities with $5M-$10M+ EBITDA command 6-9x from strategic buyers and private equity firms. By acquiring multiple small businesses at lower multiples and combining them into a larger platform, the acquirer creates value purely through scale. For example, buying four businesses at 4x for a combined $8M EBITDA yields a combined entity worth $56M at 7x, versus $32M if valued separately. That $24M gap is pure multiple arbitrage, before any operational synergies.
+        </p>
+
+        <h3 className={h3Class}>What are the most common reasons buy-and-build strategies fail?</h3>
+        <p>
+          Integration failure is the leading cause, most commonly driven by acquiring too many businesses too fast (overwhelming the management team), cultural mismatch between acquired companies and the platform, and underestimating integration costs ($50K-$150K per add-on plus significant management time). Bain &amp; Company research on M&amp;A integration shows that acquirers who complete each integration before pursuing the next deal have 2-3x higher success rates. Other common mistakes include neglecting the platform business while chasing add-ons, overpaying for &ldquo;strategic&rdquo; value during deal excitement, and ignoring key-person risk in acquired businesses where the owner holds critical customer relationships.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford GSB, <em>Search Fund Study: Buy-and-Build Value Creation</em> (2024)</li>
+          <li>Bain &amp; Company, <em>M&amp;A Integration Best Practices</em> (2024)</li>
+          <li>McKinsey &amp; Company, <em>Multiple Arbitrage in Private Equity Roll-Ups</em> (2024)</li>
+        </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition &amp; Employee Communication</Link></li>
+          <li><Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">Revenue Growth Playbook Post-Acquisition</Link></li>
+          <li><Link href="/learn/geographic-expansion" className="text-apple-accent hover:underline">Geographic Expansion After Acquisition</Link></li>
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">ETA Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/competitive-moat-evaluation" className="text-apple-accent hover:underline">Evaluating Competitive Moats in Acquisition Targets</Link></li>
+        </ul>
     </article>
   );
 }

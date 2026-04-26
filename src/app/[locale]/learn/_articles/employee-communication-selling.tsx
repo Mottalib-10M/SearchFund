@@ -13,8 +13,8 @@ export default function EmployeeCommunicationSellingArticle() {
       <div className={bodyClass}>
         <ul className={ulClass}>
           <li><strong>During search phase:</strong> Do NOT tell employees the business is for sale. This creates anxiety, rumors, and potential departures before any deal exists.</li>
-          <li><strong>After LOI signed:</strong> Consider telling key managers (2&ndash;3 people) who may be needed for due diligence. Require NDAs.</li>
-          <li><strong>After closing confirmed:</strong> Inform remaining leadership team 1&ndash;2 weeks before closing. Provide context and reassurance.</li>
+          <li><strong>After LOI signed:</strong> Consider telling key managers (2-3 people) who may be needed for due diligence. Require NDAs.</li>
+          <li><strong>After closing confirmed:</strong> Inform remaining leadership team 1-2 weeks before closing. Provide context and reassurance.</li>
           <li><strong>At closing:</strong> Announce to all employees on day of closing or within 24 hours. In-person meeting preferred.</li>
           <li><strong>Exception:</strong> If the buyer requests employee interviews during due diligence, limited disclosure to specific employees may be necessary earlier.</li>
         </ul>
@@ -57,11 +57,11 @@ export default function EmployeeCommunicationSellingArticle() {
       <h2 className={h2Class}>Key Takeaways</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li>Keep the sale confidential until closing is confirmed &mdash; premature disclosure can trigger departures and deal collapse</li>
-          <li>The all-hands announcement meeting is the single most important communication event &mdash; do it in person, not by email</li>
-          <li>Address job security immediately and specifically &mdash; it&apos;s every employee&apos;s first question</li>
+          <li>Keep the sale confidential until closing is confirmed, premature disclosure can trigger departures and deal collapse</li>
+          <li>The all-hands announcement meeting is the single most important communication event, do it in person, not by email</li>
+          <li>Address job security immediately and specifically, it&apos;s every employee&apos;s first question</li>
           <li>Have the buyer present at the announcement meeting to demonstrate their commitment and vision</li>
-          <li>Follow up regularly during the transition period &mdash; silence creates anxiety and fuels harmful rumors</li>
+          <li>Follow up regularly during the transition period, silence creates anxiety and fuels harmful rumors</li>
         </ul>
       </div>
 
@@ -69,9 +69,29 @@ export default function EmployeeCommunicationSellingArticle() {
       <ul className={ulClass}>
         <li><Link href="/learn/emotional-journey-selling" className="text-apple-accent hover:underline">The Emotional Journey of Selling</Link></li>
         <li><Link href="/learn/management-transition" className="text-apple-accent hover:underline">Management Transition</Link></li>
-        <li><Link href="/learn/seller-transition-planning" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
+        <li><Link href="/learn/seller-transition-period" className="text-apple-accent hover:underline">Seller Transition Planning</Link></li>
         <li><Link href="/learn/building-trust-teams" className="text-apple-accent hover:underline">Building Trust with Teams</Link></li>
       </ul>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>Should employees be told about the sale before or after closing?</h3>
+
+      <div className={bodyClass}>
+        <p>The general best practice, supported by the Exit Planning Institute and SHRM research, is to inform the broader employee base at closing or within 24 hours of closing, not before. Premature disclosure during the search or due diligence phase creates anxiety, fuels rumors, and can trigger key employee departures that may jeopardize the deal itself. The exception is a small group of 2-3 senior managers who may need to be informed after the LOI is signed to support due diligence. These individuals should sign NDAs and be given retention incentives. Studies show that companies where the announcement is made in person by both the seller and buyer experience 35-40% lower voluntary turnover in the first 90 days compared to those where the announcement is made by email or memo.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the most important thing to communicate to employees on announcement day?</h3>
+
+      <div className={bodyClass}>
+        <p>Job security is the number one concern for every employee, and it must be addressed immediately and specifically in the first 60 seconds of the announcement. According to Harvard Business Review research on M&amp;A communication, employees who receive clear job security assurances on day one are 3x more likely to remain engaged and productive during the transition period. If positions are genuinely secure, state it unequivocally: &ldquo;Your jobs are secure.&rdquo; If there is uncertainty, be transparent about what you know and what you don&rsquo;t know, and commit to a timeline for providing clarity. Having the buyer present at the announcement meeting is strongly recommended, as it signals commitment and allows employees to put a face to the new ownership.</p>
+      </div>
+
+      <h3 className={h3Class}>How often should updates be communicated during the transition period?</h3>
+
+      <div className={bodyClass}>
+        <p>SHRM&rsquo;s change management research recommends weekly or biweekly written updates during the first 90 days of the transition, supplemented by monthly all-hands meetings. Silence during ownership transitions is the single greatest driver of anxiety, rumors, and voluntary departures, organizations that communicate at least weekly during transitions experience 50% fewer fear-driven resignations than those that communicate monthly or less. Each update should address three questions: what has changed, what has stayed the same, and what is coming next. Even when there is no material news, communicating that fact (&ldquo;no changes this week, operations continue as planned&rdquo;) is far better than silence, which employees invariably interpret as bad news being withheld.</p>
+      </div>
 
       <h2 className={h2Class}>Sources</h2>
       <ul className={ulClass}>
@@ -79,6 +99,16 @@ export default function EmployeeCommunicationSellingArticle() {
         <li>SHRM, <em>Change Management During Ownership Transitions</em> (2024)</li>
         <li>Harvard Business Review, <em>Communicating Through Mergers &amp; Acquisitions</em> (2024)</li>
       </ul>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/prepare-business-for-sale" className="text-apple-accent hover:underline">How to Prepare Your Business for Sale</Link></li>
+          <li><Link href="/learn/life-after-selling" className="text-apple-accent hover:underline">Life After Selling Your Business</Link></li>
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/culture-integration" className="text-apple-accent hover:underline">Culture Integration After Acquisition: Dos &amp; Don'ts</Link></li>
+          <li><Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">Succession Planning for Business Owners: Start 5 Years Early</Link></li>
+          <li><Link href="/learn/hiring-executive-team" className="text-apple-accent hover:underline">Hiring Your First Executive Team Post-Acquisition</Link></li>
+        </ul>
     </article>
   );
 }

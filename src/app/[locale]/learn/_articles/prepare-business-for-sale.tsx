@@ -14,7 +14,7 @@ export default function PrepareBusinessForSaleArticle() {
           The difference between a business that sells quickly at a premium
           and one that languishes on the market for years often comes down
           to preparation. Buyers pay more for clean, well-documented,
-          owner-independent businesses. This guide provides the 18&ndash;24
+          owner-independent businesses. This guide provides the 18-24
           month roadmap to maximize your{" "}
           <Link href="/learn/what-is-my-business-worth" className="text-apple-accent hover:underline">
             business valuation
@@ -22,9 +22,9 @@ export default function PrepareBusinessForSaleArticle() {
           and ensure a smooth sale.
         </p>
 
-        <h2 className={h2Class}>The 18&ndash;24 month preparation timeline</h2>
+        <h2 className={h2Class}>The 18-24 month preparation timeline</h2>
 
-        <h3 className={h3Class}>Months 18&ndash;24: Foundation</h3>
+        <h3 className={h3Class}>Months 18-24: Foundation</h3>
         <ul className={ulClass}>
           <li><strong>Get a valuation:</strong> Understand your starting point. Hire a certified appraiser or consult an M&amp;A advisor</li>
           <li><strong>Assemble your advisory team:</strong> M&amp;A attorney, CPA/tax advisor, and (optionally) a business broker or M&amp;A advisor. See{" "}
@@ -44,7 +44,7 @@ export default function PrepareBusinessForSaleArticle() {
           <li><strong>Set personal goals:</strong> What do you want after the sale? Retirement? Another venture? This shapes deal structure</li>
         </ul>
 
-        <h3 className={h3Class}>Months 12&ndash;18: Build value</h3>
+        <h3 className={h3Class}>Months 12-18: Build value</h3>
         <ul className={ulClass}>
           <li><strong>Reduce owner dependence:</strong> This is the single most important value driver. Build a management team that can run the business without you. See{" "}
             <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">
@@ -61,7 +61,7 @@ export default function PrepareBusinessForSaleArticle() {
           <li><strong>Address deferred maintenance:</strong> Fix equipment, update technology, refresh facilities</li>
         </ul>
 
-        <h3 className={h3Class}>Months 6&ndash;12: Package for market</h3>
+        <h3 className={h3Class}>Months 6-12: Package for market</h3>
         <ul className={ulClass}>
           <li><strong>Prepare financial reports:</strong> 3 years of tax returns, P&amp;L statements, balance sheets, and a trailing 12-month summary</li>
           <li><strong>Calculate adjusted EBITDA:</strong> Document all legitimate{" "}
@@ -74,7 +74,7 @@ export default function PrepareBusinessForSaleArticle() {
           <li><strong>Choose your sale process:</strong> Broker-assisted, M&amp;A advisor, or direct approach to buyers</li>
         </ul>
 
-        <h3 className={h3Class}>Months 0&ndash;6: Execute the sale</h3>
+        <h3 className={h3Class}>Months 0-6: Execute the sale</h3>
         <ul className={ulClass}>
           <li><strong>Go to market:</strong> Confidential Information Memorandum (CIM), NDA process, buyer screening</li>
           <li><strong>Negotiate LOI:</strong>{" "}
@@ -88,7 +88,7 @@ export default function PrepareBusinessForSaleArticle() {
 
         <h2 className={h2Class}>Top value killers to fix now</h2>
         <ol className={olClass}>
-          <li><strong>Owner dependence:</strong> If you are the key salesperson, key relationship holder, or sole decision-maker, the business is worth 30&ndash;50% less</li>
+          <li><strong>Owner dependence:</strong> If you are the key salesperson, key relationship holder, or sole decision-maker, the business is worth 30-50% less</li>
           <li><strong>Customer concentration:</strong> A single customer at 25%+ of revenue is a deal-breaker for many buyers</li>
           <li><strong>Messy financials:</strong> Commingled personal/business expenses, cash transactions, or inconsistent bookkeeping create distrust</li>
           <li><strong>Deferred maintenance:</strong> Aging equipment, outdated systems, and needed facility repairs signal neglect</li>
@@ -102,7 +102,7 @@ export default function PrepareBusinessForSaleArticle() {
             <Link href="/learn/recurring-revenue-models" className="text-apple-accent hover:underline">
               Contracts, subscriptions, or maintenance agreements
             </Link></li>
-          <li><strong>Diversified customers:</strong> No single customer above 10&ndash;15% of revenue</li>
+          <li><strong>Diversified customers:</strong> No single customer above 10-15% of revenue</li>
           <li><strong>Strong team:</strong> Experienced employees who will stay post-acquisition</li>
           <li><strong>Growth potential:</strong> Clear, documented opportunities the buyer can pursue</li>
           <li><strong>Clean operations:</strong> Written processes, up-to-date technology, compliant with regulations</li>
@@ -124,7 +124,58 @@ export default function PrepareBusinessForSaleArticle() {
           and the{" "}
           <Link href="/learn/seller-psychology" className="text-apple-accent hover:underline">
             emotional journey of selling
-          </Link>, see our seller guides.
+          </Link>, see our seller guides. You may also find our{" "}
+          <Link href="/learn/succession-planning-owners" className="text-apple-accent hover:underline">
+            5-year succession planning roadmap
+          </Link>{" "}
+          and{" "}
+          <Link href="/learn/tax-planning-sellers" className="text-apple-accent hover:underline">
+            tax planning strategies for sellers
+          </Link>{" "}
+          helpful for the broader exit process.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>How much can proper preparation increase my selling price?</h3>
+        <p>
+          Well-prepared businesses typically sell for 20-40% more than
+          comparable unprepared businesses. The biggest value drivers are
+          reducing owner dependence (which can add 1-2x to your EBITDA
+          multiple), cleaning financials to eliminate buyer uncertainty, and
+          locking in recurring revenue contracts. A business with $1M EBITDA
+          that increases its multiple from 4x to 5.5x through preparation
+          adds $1.5M in enterprise value.
+        </p>
+
+        <h3 className={h3Class}>Should I hire a broker or sell the business myself?</h3>
+        <p>
+          For most businesses under $10M in enterprise value, a broker or
+          M&amp;A advisor is worth the 8-12% success fee. They bring
+          a network of qualified buyers, run a competitive process, manage
+          confidentiality, and handle the enormous administrative burden
+          of marketing, screening, and negotiation. Selling directly is
+          viable only if you already have an identified buyer (e.g., a
+          strategic acquirer or{" "}
+          <Link href="/learn/selling-to-search-fund" className="text-apple-accent hover:underline">
+            search fund
+          </Link>{" "}
+          operator you know personally).
+        </p>
+
+        <h3 className={h3Class}>What documents do I need for due diligence?</h3>
+        <p>
+          At minimum: 3 years of tax returns, monthly P&amp;L statements
+          and balance sheets, a trailing-12-month financial summary,
+          customer and revenue concentration analysis, employee roster
+          with compensation details, all material contracts (leases,
+          customer agreements, vendor agreements), insurance policies,
+          and any pending or historical legal matters. Having a well-organized{" "}
+          <Link href="/learn/seller-data-room" className="text-apple-accent hover:underline">
+            virtual data room
+          </Link>{" "}
+          ready before going to market accelerates the process and signals
+          professionalism to buyers.
         </p>
       </div>
     </article>

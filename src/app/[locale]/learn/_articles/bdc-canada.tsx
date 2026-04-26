@@ -6,7 +6,8 @@ export default function BDCCanadaArticle() {
     <article>
       <h1 className={h1Class}>BDC Canada: Business Development Bank Acquisition Financing</h1>
       <div className={bodyClass}>
-        <p>The Business Development Bank of Canada (BDC) is a Crown corporation dedicated to supporting Canadian entrepreneurs and SMEs. For searchers targeting <Link href="/learn/eta-canada" className="text-apple-accent hover:underline">Canadian acquisitions</Link>, BDC provides a range of financing programs that complement traditional bank lending and can significantly improve deal structures.</p>
+        <p>The Business Development Bank of Canada (BDC) is a Crown corporation dedicated to supporting Canadian entrepreneurs and SMEs. According to BDC&apos;s own annual report, the bank supports over 100,000 Canadian businesses with more than CAD 45 billion in committed financing. For searchers targeting <Link href="/learn/eta-canada" className="text-apple-accent hover:underline">Canadian acquisitions</Link>, BDC provides a range of financing programs that complement traditional bank lending and can significantly improve deal structures.</p>
+        <p>The Canadian Federation of Independent Business (CFIB) estimates that over 76% of small business owners plan to exit their businesses within the next decade, yet only 10% have a formal succession plan. This creates a deep pipeline of acquisition opportunities for search fund entrepreneurs, particularly in Ontario, Quebec, and British Columbia where the SME density is highest.</p>
       </div>
 
       <h2 className={h2Class}>BDC Business Acquisition Loan</h2>
@@ -15,8 +16,8 @@ export default function BDCCanadaArticle() {
         <ul className={ulClass}>
           <li><strong>Loan amount:</strong> CAD 100,000 to CAD 10 million+</li>
           <li><strong>Term:</strong> Up to 15 years for business acquisitions</li>
-          <li><strong>Interest rate:</strong> Floating or fixed, typically BDC prime + 1&ndash;4%</li>
-          <li><strong>Down payment:</strong> Typically requires 10&ndash;20% buyer equity</li>
+          <li><strong>Interest rate:</strong> Floating or fixed, typically BDC prime + 1-4%</li>
+          <li><strong>Down payment:</strong> Typically requires 10-20% buyer equity</li>
           <li><strong>Grace period:</strong> Up to 12 months for principal payments</li>
           <li><strong>Flexible repayment:</strong> Seasonal payment schedules available for cyclical businesses</li>
           <li><strong>Subordinated to banks:</strong> BDC often takes a subordinated position, allowing commercial bank senior debt alongside</li>
@@ -57,8 +58,9 @@ export default function BDCCanadaArticle() {
           <li><strong>Alberta Enterprise Corporation:</strong> Growth capital for Alberta-based technology and innovation businesses</li>
           <li><strong>BC Renaissance Capital Fund:</strong> For British Columbia acquisitions in technology and clean tech sectors</li>
           <li><strong>Community Futures Development Corporations:</strong> 267 CFDCs across rural Canada providing small business loans up to CAD 150,000 for acquisitions</li>
-          <li><strong>Futurpreneur Canada:</strong> Loans up to CAD 60,000 with mentoring for entrepreneurs 18&ndash;39</li>
+          <li><strong>Futurpreneur Canada:</strong> Loans up to CAD 60,000 with mentoring for entrepreneurs 18-39</li>
         </ul>
+        <p>Provincial programs are especially important in Quebec, where Investissement Qu&eacute;bec&apos;s thorough financing suite, including subordinated debt, equity co-investment, and loan guarantees, makes the province one of the most accessible markets in Canada for acquisition financing. The <Link href="/learn/vendor-take-back-financing" className="text-apple-accent hover:underline">vendor take-back financing</Link> culture is also stronger in Quebec, where sellers commonly provide 15-25% of the purchase price as a deferred note.</p>
       </div>
 
       <h2 className={h2Class}>Canadian Commercial Banks for Acquisitions</h2>
@@ -77,18 +79,18 @@ export default function BDCCanadaArticle() {
       <div className={bodyClass}>
         <p>A typical CAD 3M Canadian acquisition might be structured as:</p>
         <ul className={ulClass}>
-          <li>Senior bank debt (CSBFP-backed): 35&ndash;45%</li>
-          <li>BDC subordinate financing: 15&ndash;25%</li>
-          <li>Vendor take-back: 15&ndash;20%</li>
-          <li>Buyer equity: 15&ndash;25%</li>
+          <li>Senior bank debt (CSBFP-backed): 35-45%</li>
+          <li>BDC subordinate financing: 15-25%</li>
+          <li>Vendor take-back: 15-20%</li>
+          <li>Buyer equity: 15-25%</li>
         </ul>
       </div>
 
       <h2 className={h2Class}>Canadian Tax Considerations</h2>
       <div className={bodyClass}>
         <ul className={ulClass}>
-          <li><strong>Small Business Deduction:</strong> 9% federal rate on first CAD 500,000 of active business income (combined federal/provincial: 10&ndash;13.5%)</li>
-          <li><strong>General corporate rate:</strong> 15% federal + 8&ndash;16% provincial = 23&ndash;31% combined</li>
+          <li><strong>Small Business Deduction:</strong> 9% federal rate on first CAD 500,000 of active business income (combined federal/provincial: 10-13.5%)</li>
+          <li><strong>General corporate rate:</strong> 15% federal + 8-16% provincial = 23-31% combined</li>
           <li><strong>Lifetime Capital Gains Exemption (LCGE):</strong> CAD 1,016,836 (2024) tax-free capital gains on qualifying small business shares</li>
           <li><strong>Goodwill (eligible capital property):</strong> 75% deductible on declining balance basis at 5% per year</li>
           <li><strong>Interest deductibility:</strong> Acquisition debt interest generally deductible against business income</li>
@@ -114,14 +116,21 @@ export default function BDCCanadaArticle() {
         <li><Link href="/learn/mezzanine-financing" className="text-apple-accent hover:underline">Mezzanine Financing for Business Acquisitions</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>BDC (Business Development Bank of Canada), <em>Business Acquisition Financing Programs</em> (2024)</li>
-        <li>Innovation, Science and Economic Development Canada, <em>Canada Small Business Financing Program Guide</em> (2024)</li>
-        <li>BDC, <em>Annual Report and Impact Assessment</em> (2024)</li>
-        <li>Canadian Federation of Independent Business (CFIB), <em>SME Succession Survey</em> (2024)</li>
-        <li>Ivey Business School, <em>Search Fund Activity in Canada</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+      <h3 className={h3Class}>Is BDC financing equivalent to SBA loans in the US?</h3>
+      <div className={bodyClass}>
+        <p>BDC and SBA serve similar roles as government-backed SME lenders, but they differ in key ways. BDC is a direct lender (it lends its own capital), while the SBA guarantees loans made by commercial banks. BDC offers both senior and subordinated financing, whereas SBA only guarantees senior debt. BDC loan amounts can go much higher (CAD 10M+) compared to SBA&apos;s $5M cap. However, BDC interest rates are typically higher than <Link href="/learn/sba-7a-loans-acquisition" className="text-apple-accent hover:underline">SBA 7(a) rates</Link> because BDC takes more risk. The CSBFP program (with its 85% government guarantee) is the closer Canadian equivalent to SBA&apos;s structure, but with a lower maximum of CAD 1.15M.</p>
+      </div>
+
+      <h3 className={h3Class}>What is the Lifetime Capital Gains Exemption and how does it affect deal structure?</h3>
+      <div className={bodyClass}>
+        <p>The Lifetime Capital Gains Exemption (LCGE) allows Canadian residents to shelter up to CAD 1,016,836 (2024 limit, indexed annually) of capital gains on the sale of qualifying small business corporation shares from tax. This is enormously valuable for sellers and directly impacts deal negotiation. Because sellers of qualifying shares may pay zero tax on a significant portion of the sale proceeds, they may accept lower headline prices. Buyers should understand how the LCGE affects the seller&apos;s net proceeds when structuring offers and negotiating between <Link href="/learn/asset-purchase-vs-stock-purchase" className="text-apple-accent hover:underline">asset and share purchases</Link>.</p>
+      </div>
+
+      <h3 className={h3Class}>Can non-Canadian residents access BDC and CSBFP financing?</h3>
+      <div className={bodyClass}>
+        <p>BDC requires that the borrowing entity be a Canadian business, but there is no citizenship requirement for the business owner. Non-residents can access BDC financing through a Canadian holding company, though they may face additional scrutiny and documentation requirements. The CSBFP similarly requires the business to be Canadian-domiciled with revenues under CAD 10M. In practice, international searchers targeting Canadian acquisitions often establish a Canadian corporation and obtain permanent residency or work permits to strengthen their financing applications and demonstrate commitment to the local market.</p>
+      </div>
     </article>
   );
 }

@@ -6,7 +6,7 @@ export default function DataPrivacyGDPRArticle() {
     <article>
       <h1 className={h1Class}>Data Privacy (GDPR/CCPA) Considerations in Acquisitions</h1>
       <div className={bodyClass}>
-        <p>Data privacy regulations create specific obligations and risks in business acquisitions. Whether you&apos;re acquiring a business in the EU (GDPR), California (CCPA/CPRA), or other regulated jurisdictions, understanding how customer data, employee data, and consent obligations transfer is essential for avoiding costly regulatory penalties and reputational damage.</p>
+        <p>Data privacy regulations create specific obligations and risks in business acquisitions. Whether you&apos;re acquiring a business in the EU (GDPR), California (CCPA/CPRA), or other regulated jurisdictions, understanding how customer data, employee data, and consent obligations transfer is essential for avoiding costly regulatory penalties and reputational damage. Since the GDPR took effect in May 2018, EU data protection authorities have issued more than &euro;4.5 billion in cumulative fines, underscoring the material financial exposure that acquirers face when privacy compliance is overlooked.</p>
       </div>
 
       <h2 className={h2Class}>GDPR in Acquisitions</h2>
@@ -24,6 +24,7 @@ export default function DataPrivacyGDPRArticle() {
 
       <h2 className={h2Class}>CCPA/CPRA in Acquisitions</h2>
       <div className={bodyClass}>
+        <p>The California Consumer Privacy Act (as amended by CPRA, effective January 2023) applies to businesses meeting specific thresholds: annual gross revenue over $25 million, data on 100,000+ consumers, or 50%+ of revenue from selling personal information. The California Privacy Protection Agency (CPPA) now enforces these rules with increasing scrutiny of M&amp;A transactions.</p>
         <ul className={ulClass}>
           <li><strong>Business purpose exception:</strong> CCPA allows sharing personal information for due diligence as part of a merger or acquisition transaction.</li>
           <li><strong>Opt-out rights:</strong> Post-acquisition, consumers retain the right to opt out of the sale of their personal information.</li>
@@ -48,6 +49,10 @@ export default function DataPrivacyGDPRArticle() {
 
       <h2 className={h2Class}>Stock vs. Asset Purchase: Data Privacy Impact</h2>
       <div className={bodyClass}>
+        <p>The deal structure you choose, whether a{" "}
+          <Link href="/learn/purchase-agreement-apa-vs-spa" className="text-apple-accent hover:underline">stock purchase or asset purchase</Link>{" "}
+          has significant implications for how personal data transfers and what obligations you inherit:
+        </p>
         <ul className={ulClass}>
           <li><strong>Stock purchase:</strong> The legal entity remains the same data controller. Existing consents and processing bases generally continue. Update privacy notices to reflect ownership change.</li>
           <li><strong>Asset purchase:</strong> Personal data must be actively transferred to the buyer&apos;s entity. This constitutes a new disclosure/sharing of personal data, requiring a lawful basis. Existing consents may not cover the new entity.</li>
@@ -60,7 +65,8 @@ export default function DataPrivacyGDPRArticle() {
         <ul className={ulClass}>
           <li><strong>GDPR fines:</strong> Up to &euro;20 million or 4% of annual global turnover (whichever is higher)</li>
           <li><strong>CCPA fines:</strong> Up to $7,500 per intentional violation; $2,500 per unintentional violation</li>
-          <li><strong>Class action risk:</strong> Under CCPA, consumers can seek $100&ndash;$750 per consumer per incident for data breaches</li>
+          <li><strong>Class action risk:</strong> Under CCPA, consumers can seek $100-$750 per consumer per incident for data breaches</li>
+          <li><strong>Successor liability:</strong> The European Data Protection Board has confirmed that the acquiring entity inherits the target&apos;s compliance history, including liability for past violations discovered after closing</li>
           <li><strong>Reputational damage:</strong> Data privacy failures post-acquisition can erode customer trust and brand value</li>
         </ul>
       </div>
@@ -84,13 +90,51 @@ export default function DataPrivacyGDPRArticle() {
         <li><Link href="/learn/post-acquisition-technology-audit" className="text-apple-accent hover:underline">Technology Audit Post-Acquisition</Link></li>
       </ul>
 
-      <h2 className={h2Class}>Sources</h2>
-      <ul className={ulClass}>
-        <li>European Data Protection Board, <em>Guidelines on Data Processing in M&amp;A Transactions</em> (2024)</li>
-        <li>California Attorney General, <em>CCPA/CPRA Compliance Guide for M&amp;A</em> (2024)</li>
-        <li>ICO (UK), <em>Data Protection and Mergers &amp; Acquisitions</em> (2024)</li>
-        <li>IAPP, <em>Privacy in M&amp;A Transactions Guide</em> (2024)</li>
-      </ul>
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>
+        Does the buyer inherit GDPR liability from the seller?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          In a stock deal, yes, the acquired company retains its full
+          compliance history, including any past violations. The EDPB has
+          confirmed that supervisory authorities can investigate and fine for
+          pre-acquisition breaches discovered after the deal closes. In an
+          asset deal, liability generally stays with the seller&apos;s entity, but
+          the buyer must still ensure that transferred data has a lawful
+          processing basis.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        Can customer data be shared during due diligence?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          Under GDPR, the seller may share personal data during due diligence
+          under a &ldquo;legitimate interest&rdquo; basis, but only the minimum
+          data necessary. Best practice is to use anonymized or aggregated data
+          wherever possible and to limit access to a small team under strict
+          confidentiality agreements. Under CCPA, there is an explicit
+          &ldquo;business purpose&rdquo; exception that permits data sharing as
+          part of an M&amp;A transaction.
+        </p>
+      </div>
+
+      <h3 className={h3Class}>
+        What privacy steps should I take immediately after closing?
+      </h3>
+      <div className={bodyClass}>
+        <p>
+          Within the first 90 days, update all privacy notices to reflect the
+          new data controller, review and renegotiate vendor data processing
+          agreements, appoint a Data Protection Officer if required, and
+          conduct a gap analysis between your privacy standards and the
+          acquired company&apos;s practices. Budget $20K-$50K for a
+          professional privacy audit on mid-sized acquisitions.
+        </p>
+      </div>
     </article>
   );
 }

@@ -17,7 +17,7 @@ export default function RedFlagsDueDiligenceArticle() {
           kill the deal is one of the hardest judgment calls in business
           acquisition. This guide catalogs the most common red flags
           across financial, operational, legal, and cultural due
-          diligence &mdash; with guidance on when to renegotiate and when
+          diligence, with guidance on when to renegotiate and when
           to walk away.
         </p>
 
@@ -52,7 +52,7 @@ export default function RedFlagsDueDiligenceArticle() {
             </strong>{" "}
             A single customer above 30% of revenue is a material risk
           </li>
-          <li><strong>Significant cash revenue:</strong> Cash-heavy businesses (restaurants, retail, services) may have unreported income &mdash; which you can&rsquo;t legally count or finance against</li>
+          <li><strong>Significant cash revenue:</strong> Cash-heavy businesses (restaurants, retail, services) may have unreported income, which you can&rsquo;t legally count or finance against</li>
         </ul>
 
         <h3 className={h3Class}>Working capital and cash flow</h3>
@@ -66,7 +66,7 @@ export default function RedFlagsDueDiligenceArticle() {
 
         <h3 className={h3Class}>People and management</h3>
         <ul className={ulClass}>
-          <li><strong>Key employee departures (recent or announced):</strong> If 2&ndash;3 key people have left or plan to leave, the transition will be exceptionally difficult</li>
+          <li><strong>Key employee departures (recent or announced):</strong> If 2-3 key people have left or plan to leave, the transition will be exceptionally difficult</li>
           <li><strong>Owner-dependent customer relationships:</strong> If the owner personally manages the top 5 customers and those customers are loyal to the person, not the company</li>
           <li><strong>No middle management layer:</strong> If the owner makes every decision and there&rsquo;s no management team, you&rsquo;re buying a job, not a business</li>
           <li><strong>Employee morale issues:</strong> High turnover, Glassdoor complaints, pending labor disputes</li>
@@ -76,7 +76,7 @@ export default function RedFlagsDueDiligenceArticle() {
         <h3 className={h3Class}>Systems and processes</h3>
         <ul className={ulClass}>
           <li><strong>No documented processes:</strong> Everything is in the owner&rsquo;s head. Transition risk is extreme</li>
-          <li><strong>Outdated technology:</strong> Legacy systems that need immediate replacement (budget $100K&ndash;$500K+)</li>
+          <li><strong>Outdated technology:</strong> Legacy systems that need immediate replacement (budget $100K-$500K+)</li>
           <li><strong>No CRM or customer data:</strong> You can&rsquo;t analyze customer behavior, retention, or lifetime value without data</li>
           <li><strong>Compliance gaps:</strong> Missing licenses, expired permits, unresolved regulatory issues</li>
         </ul>
@@ -140,7 +140,7 @@ export default function RedFlagsDueDiligenceArticle() {
           <Link href="/learn/why-search-funds-fail" className="text-apple-accent hover:underline">
             trap that causes search fund failures
           </Link>.
-          Walking away from a bad deal is not a failure &mdash;
+          Walking away from a bad deal is not a failure , 
           it&rsquo;s the single most value-protective action an acquirer
           can take.
         </p>
@@ -151,8 +151,56 @@ export default function RedFlagsDueDiligenceArticle() {
           <Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">
             due diligence checklist
           </Link>,
-          see our comprehensive guide.
+          see our thorough guide.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What percentage of deals fall apart during due diligence?</h3>
+        <p>
+          According to the Stanford GSB 2024 Search Fund Study,
+          approximately 30-40% of signed LOIs do not result in closed
+          acquisitions, with due diligence findings being the primary reason.
+          The most common deal-killers are financial misrepresentation
+          (EBITDA lower than presented), undisclosed liabilities, customer
+          concentration risk that emerges during customer interviews, and
+          seller behavior issues (evasiveness, changing terms). Walking away
+          from a bad deal is a sign of discipline, not failure.
+        </p>
+
+        <h3 className={h3Class}>How do I distinguish a red flag from a normal finding?</h3>
+        <p>
+          Normal findings can be addressed through price adjustments,
+          structural protections, or post-closing action plans. Red flags
+          are issues that fundamentally undermine the investment thesis or
+          indicate dishonesty. Key distinction: if the issue can be
+          quantified and mitigated through escrow, holdback, or purchase
+          price reduction, it is a finding. If the issue is unquantifiable,
+          suggests systemic problems, or reveals seller dishonesty, it is
+          a red flag warranting a walk-away.
+        </p>
+
+        <h3 className={h3Class}>Should I hire a professional QoE firm or do financial diligence myself?</h3>
+        <p>
+          For any acquisition above $1M in enterprise value, engage a
+          professional{" "}
+          <Link href="/learn/quality-of-earnings" className="text-apple-accent hover:underline">
+            Quality of Earnings
+          </Link>{" "}
+          provider. QoE firms typically catch 10-30% of add-backs
+          as unsupported, and lenders require a QoE for loan underwriting.
+          The cost ($15K-$50K) is a fraction of the overpayment
+          risk it prevents. Do your own preliminary analysis from the
+          CIM and raw financials first, then engage the QoE firm to
+          validate and dig deeper.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>2024 Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>IESE Business School, <em>International Search Fund Study</em> (2024)</li>
+          <li>American Bar Association, <em>Model Asset Purchase Agreement with Commentary</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

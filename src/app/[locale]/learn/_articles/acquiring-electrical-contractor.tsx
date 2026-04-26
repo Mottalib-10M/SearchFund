@@ -12,12 +12,12 @@ export default function AcquiringElectricalContractorArticle() {
       <div className={bodyClass}>
         <p>
           Electrical contracting is a $200&nbsp;billion-plus industry in the
-          United States &mdash; and one of the most compelling subsectors
+          United States, and one of the most compelling subsectors
           within the broader{" "}
           <Link href="/learn/home-services-acquisition" className="text-apple-accent hover:underline">
             home services
           </Link>{" "}
-          landscape for search fund entrepreneurs. Every building requires
+          market for search fund entrepreneurs. Every building requires
           electricity, electrification trends are accelerating demand faster
           than the workforce can grow, and licensing requirements create a
           durable moat that keeps under-qualified competitors on the sideline.
@@ -28,11 +28,11 @@ export default function AcquiringElectricalContractorArticle() {
 
         <h2 className={h2Class}>Market overview</h2>
         <p>
-          The US electrical contracting market generates over $200&nbsp;billion
-          in annual revenue across roughly 90,000 firms. The industry is
-          extraordinarily fragmented &mdash; the ten largest contractors
-          account for less than 5% of total revenue, and the median firm
-          employs fewer than 20 people. Growth has averaged 4&ndash;6%
+          According to IBISWorld, the US electrical contracting market
+          generates over $200&nbsp;billion in annual revenue across roughly
+          90,000 firms. The industry is extraordinarily fragmented , 
+          the ten largest contractors account for less than 5% of total
+          revenue, and the median firm employs fewer than 20 people. Growth has averaged 4-6%
           annually over the past decade, driven by new construction,
           renovation activity, and the accelerating adoption of electric
           vehicles, solar power, and smart-building technologies.
@@ -42,7 +42,7 @@ export default function AcquiringElectricalContractorArticle() {
           shortage. The average master electrician is over 55, and the
           pipeline of new apprentices has not kept pace with retirements.
           This dynamic constrains organic growth and creates a large pool
-          of aging owners with no succession plan &mdash; precisely the
+          of aging owners with no succession plan, precisely the
           conditions that favor{" "}
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             entrepreneurship through acquisition
@@ -53,16 +53,16 @@ export default function AcquiringElectricalContractorArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Residential:</strong> New-home wiring, panel upgrades,
-            lighting, and rewiring. Smaller tickets ($500&ndash;$5,000
-            service calls; $10K&ndash;$30K new-construction rough-ins) but
+            lighting, and rewiring. Smaller tickets ($500-$5,000
+            service calls; $10K-$30K new-construction rough-ins) but
             high volume and steady demand. Increasingly benefiting from EV
             charger and whole-home generator installs.
           </li>
           <li>
             <strong>Commercial:</strong> Offices, retail, restaurants,
             hotels, and institutional buildings. Projects range from tenant
-            buildouts ($50K&ndash;$250K) to ground-up construction
-            ($500K&ndash;$5M+). Lumpier revenue but often includes
+            buildouts ($50K-$250K) to ground-up construction
+            ($500K-$5M+). Lumpier revenue but often includes
             recurring service agreements for building maintenance.
           </li>
           <li>
@@ -70,13 +70,13 @@ export default function AcquiringElectricalContractorArticle() {
             data centers, and utility-scale facilities. Work includes power
             distribution, motor controls, PLC programming, and high-voltage
             installations. Higher barriers to entry but premium billing
-            rates ($85&ndash;$150+ per hour versus $65&ndash;$100 for
+            rates ($85-$150+ per hour versus $65-$100 for
             residential) and deeply entrenched customer relationships.
           </li>
           <li>
             <strong>Specialty and low-voltage:</strong> Fire alarm systems,
             structured cabling, security, audio-visual integration, and
-            &mdash; increasingly &mdash; EV charging station installation
+           , increasingly, EV charging station installation
             and solar electrical work. Higher margins due to niche
             expertise. EV charging is experiencing explosive growth as
             property owners and fleet operators build infrastructure.
@@ -88,13 +88,13 @@ export default function AcquiringElectricalContractorArticle() {
           <li>
             <strong>Essential and non-discretionary:</strong> Electricity is
             not optional. Code violations, panel failures, and outages
-            demand immediate remediation &mdash; even during the
-            2008&ndash;2009 downturn, electrical service work declined
+            demand immediate remediation, even during the
+            2008-2009 downturn, electrical service work declined
             only modestly while new construction stalled.
           </li>
           <li>
             <strong>Licensing moat:</strong> Every state requires a master
-            electrician license, which takes 8,000&ndash;12,000 hours of
+            electrician license, which takes 8,000-12,000 hours of
             supervised apprenticeship plus a rigorous exam. Many
             jurisdictions also require separate business licenses, bonding,
             and insurance minimums. This multi-year pathway is the
@@ -105,8 +105,9 @@ export default function AcquiringElectricalContractorArticle() {
             EVs, heat pumps, solar, battery storage, and smart-home
             technology is driving unprecedented demand. EV charger
             installation alone is projected to be a $30&nbsp;billion market
-            by 2030. Panel upgrades &mdash; required to support
-            200&ndash;400 amp service &mdash; represent a massive recurring
+            by 2030, according to the National Electrical Contractors
+            Association (NECA). Panel upgrades, required to support
+            200-400 amp service, represent a massive recurring
             demand driver that did not exist a decade ago.
           </li>
           <li>
@@ -120,8 +121,8 @@ export default function AcquiringElectricalContractorArticle() {
             is tailor-made for{" "}
             <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
               buy-and-build strategies
-            </Link>. Acquiring a platform at 4&ndash;5x EBITDA and
-            executing tuck-ins at 2&ndash;4x creates significant value
+            </Link>. Acquiring a platform at 4-5x EBITDA and
+            executing tuck-ins at 2-4x creates significant value
             through multiple arbitrage and overhead elimination.
           </li>
         </ul>
@@ -136,10 +137,10 @@ export default function AcquiringElectricalContractorArticle() {
         <p>
           The master electrician license is the single most critical asset.
           In many states, the license is held personally by the owner
-          &mdash; not by the company. If the owner departs, the company
+          not by the company. If the owner departs, the company
           may lose its ability to pull permits. Determine whether the
           license is held by the entity or an individual. If personal,
-          negotiate a transition period (12&ndash;24 months) during which
+          negotiate a transition period (12-24 months) during which
           the seller remains as the qualifying licensee while you develop
           or recruit a replacement. This is a classic{" "}
           <Link href="/learn/key-person-risk" className="text-apple-accent hover:underline">
@@ -150,10 +151,10 @@ export default function AcquiringElectricalContractorArticle() {
 
         <h3 className={h3Class}>Bonding capacity and insurance</h3>
         <p>
-          Electrical contractors must carry surety bonds ($10K&ndash;$50K
-          residential, $100K&ndash;$1M+ commercial) and general liability
-          insurance ($1M&ndash;$2M per occurrence). Verify the bonding
-          capacity with the surety provider &mdash; bonding limits
+          Electrical contractors must carry surety bonds ($10K-$50K
+          residential, $100K-$1M+ commercial) and general liability
+          insurance ($1M-$2M per occurrence). Verify the bonding
+          capacity with the surety provider, bonding limits
           determine the maximum project size the firm can bid on. Also
           review the workers&rsquo; compensation experience modification
           rate (EMR). An EMR above 1.0 indicates worse-than-average claims
@@ -164,10 +165,10 @@ export default function AcquiringElectricalContractorArticle() {
         <h3 className={h3Class}>Apprenticeship programs and workforce pipeline</h3>
         <p>
           A healthy apprenticeship pipeline is essential for long-term
-          growth. Electrical apprenticeships run 4&ndash;5 years and are
+          growth. Electrical apprenticeships run 4-5 years and are
           governed by state labor boards or joint apprenticeship training
           committees (JATCs). Evaluate the ratio of apprentices to
-          journeymen (1:3&ndash;4 is healthy), whether the company is an
+          journeymen (1:3-4 is healthy), whether the company is an
           approved apprenticeship sponsor, and what relationships exist
           with local trade schools and IBEW chapters. A company that has
           stopped investing in its pipeline is consuming its future
@@ -180,21 +181,21 @@ export default function AcquiringElectricalContractorArticle() {
           specialized tools represent a significant capital base. Create a
           detailed inventory including age, mileage, condition, and
           replacement cost. A fully equipped service van costs
-          $50,000&ndash;$70,000; a bucket truck runs
-          $80,000&ndash;$150,000. If average fleet age exceeds 7 years,
+          $50,000-$70,000; a bucket truck runs
+          $80,000-$150,000. If average fleet age exceeds 7 years,
           budget for near-term replacement capex. Deferred fleet
           maintenance is a common way sellers inflate EBITDA.
         </p>
 
         <h3 className={h3Class}>Backlog and pipeline analysis</h3>
         <p>
-          Evaluate contracted backlog &mdash; signed contracts for work
+          Evaluate contracted backlog, signed contracts for work
           not yet completed. A healthy contractor should carry
-          3&ndash;6 months of backlog relative to run-rate revenue.
+          3-6 months of backlog relative to run-rate revenue.
           Below 2 months suggests a weak pipeline; above 12 months may
           indicate the company cannot execute fast enough. Review the
           bid pipeline: active proposals, historical win rate
-          (25&ndash;35% is typical for commercial electrical), and the
+          (25-35% is typical for commercial electrical), and the
           average margin embedded in backlog.
         </p>
 
@@ -205,13 +206,13 @@ export default function AcquiringElectricalContractorArticle() {
           below 90% suggests quality control issues leading to rework
           and schedule delays. Review any code violations, license
           suspensions, or licensing board complaints. Verify that all
-          open permits have been properly closed &mdash; orphaned permits
+          open permits have been properly closed, orphaned permits
           can create liability for the new owner.
         </p>
 
         <h2 className={h2Class}>Valuation benchmarks</h2>
         <p>
-          Electrical contractors typically trade at 3&ndash;6x adjusted
+          Electrical contractors typically trade at 3-6x adjusted
           EBITDA. Key variables that drive valuation within this range:
         </p>
         <ul className={ulClass}>
@@ -228,8 +229,8 @@ export default function AcquiringElectricalContractorArticle() {
           </li>
           <li>
             <strong>Backlog quality:</strong> Contracted backlog at
-            healthy margins (10&ndash;15% net for commercial,
-            20&ndash;30% for service) supports a higher multiple.
+            healthy margins (10-15% net for commercial,
+            20-30% for service) supports a higher multiple.
           </li>
           <li>
             <strong>Workforce stability:</strong> Low turnover, a healthy
@@ -238,15 +239,15 @@ export default function AcquiringElectricalContractorArticle() {
           </li>
           <li>
             <strong>Growth trajectory:</strong> Firms in high-growth
-            niches &mdash; EV charging, solar, data center electrical
-            &mdash; command higher multiples than traditional residential
+            niches, EV charging, solar, data center electrical
+            command higher multiples than traditional residential
             rewiring shops.
           </li>
         </ul>
         <p>
-          Typical adjusted EBITDA margins range from 10&ndash;18%, with
+          Typical adjusted EBITDA margins range from 10-18%, with
           service-heavy businesses at the upper end. Scrutinize seller
-          add-backs carefully &mdash; inflated adjustments for owner
+          add-backs carefully, inflated adjustments for owner
           compensation and personal expenses are common in the trades.
         </p>
 
@@ -265,11 +266,11 @@ export default function AcquiringElectricalContractorArticle() {
         <p>
           Most small electrical contractors operate on a purely
           transactional basis. Introducing preventive maintenance
-          agreements &mdash; annual thermal imaging, emergency lighting
-          tests, infrared scanning of switchgear &mdash; creates
+          agreements, annual thermal imaging, emergency lighting
+          tests, infrared scanning of switchgear, creates
           predictable recurring revenue that increases valuation
-          multiples. Best-in-class operators convert 30&ndash;50% of
-          commercial customers to annual contracts within 18&ndash;24
+          multiples. Best-in-class operators convert 30-50% of
+          commercial customers to annual contracts within 18-24
           months. Our{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">
             revenue growth playbook
@@ -281,8 +282,8 @@ export default function AcquiringElectricalContractorArticle() {
         <p>
           EV charging is the largest growth opportunity for electrical
           contractors in the next decade. Level 2 residential installs
-          ($1,500&ndash;$3,000 per unit) are straightforward; commercial
-          DC fast-charging stations ($50,000&ndash;$150,000+ per unit)
+          ($1,500-$3,000 per unit) are straightforward; commercial
+          DC fast-charging stations ($50,000-$150,000+ per unit)
           require specialized expertise but carry attractive margins.
           Invest in EVITP certification, build relationships with
           equipment manufacturers (ChargePoint, Tesla, ABB), and market
@@ -295,20 +296,20 @@ export default function AcquiringElectricalContractorArticle() {
           LED lighting retrofits, building automation, solar
           interconnection, and battery storage represent high-margin
           service lines. Commercial LED retrofits typically generate
-          25&ndash;35% gross margins and often qualify for utility
+          25-35% gross margins and often qualify for utility
           rebates that shorten the customer&rsquo;s payback to
-          18&ndash;36 months. Solar electrical work &mdash;
+          18-36 months. Solar electrical work , 
           panel-to-inverter wiring, net metering, and battery
-          integration &mdash; is a natural extension for licensed
+          integration, is a natural extension for licensed
           electrical contractors.
         </p>
 
         <h3 className={h3Class}>Multi-trade expansion</h3>
         <p>
           Once you have a strong electrical platform, consider expanding
-          into adjacent trades &mdash; HVAC, plumbing, fire protection
-          &mdash; to create a multi-trade services business. Multi-trade
-          platforms command 6&ndash;10x EBITDA because they reduce
+          into adjacent trades, HVAC, plumbing, fire protection
+          to create a multi-trade services business. Multi-trade
+          platforms command 6-10x EBITDA because they reduce
           customer acquisition costs, improve technician utilization
           across seasonal cycles, and create a more defensible position.
           A{" "}
@@ -325,8 +326,8 @@ export default function AcquiringElectricalContractorArticle() {
           platform (ServiceTitan, BuildOps, or Jobber) automates
           dispatching, time tracking, invoicing, and customer
           communication. Electrical-specific estimating tools (Accubid,
-          ConEst, Trimble) improve bid accuracy by 30&ndash;50%. These
-          investments typically pay for themselves within 6&ndash;12
+          ConEst, Trimble) improve bid accuracy by 30-50%. These
+          investments typically pay for themselves within 6-12
           months.
         </p>
 
@@ -348,7 +349,7 @@ export default function AcquiringElectricalContractorArticle() {
             <strong>Safety and liability:</strong> Arc flash, electrocution,
             and fire hazards create inherent risk. Verify OSHA compliance,
             review the safety program and incident history, and maintain
-            robust coverage. An EMR below 0.85 indicates strong safety
+            strong coverage. An EMR below 0.85 indicates strong safety
             culture.
           </li>
           <li>
@@ -388,7 +389,7 @@ export default function AcquiringElectricalContractorArticle() {
           <li>
             <strong>Permit data mining:</strong> Pulling electrical permit
             data from local building departments identifies active
-            contractors, project volume, and market position &mdash;
+            contractors, project volume, and market position , 
             useful for both sourcing and competitive analysis.
           </li>
         </ul>
@@ -397,13 +398,13 @@ export default function AcquiringElectricalContractorArticle() {
         <p>
           Electrical contracting sits at the intersection of essential
           infrastructure, regulatory barriers to entry, and secular
-          electrification trends &mdash; a rare combination that creates
+          electrification trends, a rare combination that creates
           both downside protection and upside growth potential. The
           industry&rsquo;s fragmentation and aging ownership provide a
-          deep pipeline of targets at 3&ndash;6x EBITDA, while
-          post-acquisition levers &mdash; recurring service agreements,
+          deep pipeline of targets at 3-6x EBITDA, while
+          post-acquisition levers, recurring service agreements,
           EV charging, energy efficiency, and multi-trade expansion
-          &mdash; offer clear paths to value creation. Searchers who
+          offer clear paths to value creation. Searchers who
           master licensing dynamics, workforce development, and
           project-versus-service economics will find electrical
           contracting to be one of the most rewarding sectors in the
@@ -411,7 +412,56 @@ export default function AcquiringElectricalContractorArticle() {
           <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">
             ETA
           </Link>{" "}
-          landscape.
+          market.
+        </p>
+
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+        <h3 className={h3Class}>
+          What is an electrical contracting business worth?
+        </h3>
+        <p>
+          Electrical contractors typically trade at 3-6x adjusted EBITDA.
+          Companies with a strong service and maintenance revenue mix (40%+
+          recurring) command the upper end, while project-heavy firms with
+          lumpy revenue trade at the lower end. Customer diversification,
+          workforce stability, multiple licensed electricians, and growth
+          exposure to electrification trends (EV charging, solar) all push
+          multiples higher. Typical adjusted EBITDA margins range from
+          10-18%.
+        </p>
+
+        <h3 className={h3Class}>
+          What happens if the master electrician license holder leaves?
+        </h3>
+        <p>
+          In many states, the master electrician license is held personally
+          by the owner, not by the company. If that person departs,
+          the business may lose its ability to pull permits and legally
+          perform work. This is the single most critical risk in electrical
+          contractor acquisitions. Mitigate by negotiating a 12-24
+          month transition period, sponsoring journeymen through the master
+          exam during due diligence, and structuring{" "}
+          <Link href="/learn/earn-out-structures" className="text-apple-accent hover:underline">
+            earn-outs
+          </Link>{" "}
+          that keep the seller engaged through the licensing transition.
+        </p>
+
+        <h3 className={h3Class}>
+          Is EV charger installation a real growth opportunity for
+          electrical contractors?
+        </h3>
+        <p>
+          Yes. EV charger installation is the largest near-term growth
+          opportunity in the electrical trades. Residential Level 2 installs
+          run $1,500-$3,000 per unit, while commercial DC fast-charging
+          stations can exceed $150,000 per unit. Federal NEVI program funding,
+          state rebates, and fleet electrification mandates are all
+          accelerating demand. Contractors who invest in EVITP certification
+          and build relationships with equipment manufacturers position
+          themselves for a decades-long tailwind as the US vehicle fleet
+          transitions to electric power.
         </p>
       </div>
     </article>

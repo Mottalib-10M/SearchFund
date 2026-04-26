@@ -14,19 +14,19 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days</Link>,
           yet it is one of the most impactful levers for improving margins,
           freeing cash, and building competitive advantage. Most acquired SMEs
-          have supply chains that evolved organically over decades &mdash;
+          have supply chains that evolved organically over decades , 
           vendor relationships that were never re-evaluated, pricing that was
           never renegotiated, and inventory practices based on the founder&rsquo;s
           intuition rather than data. A disciplined approach to supply chain
-          optimization can reduce cost of goods sold by 5&ndash;15%, shorten
-          lead times, and improve product quality &mdash; benefits that flow
+          optimization can reduce cost of goods sold by 5-15%, shorten
+          lead times, and improve product quality, benefits that flow
           directly to EBITDA and enterprise value.
         </p>
 
         <h2 className={h2Class}>Mapping the existing supply chain</h2>
         <p>
           Before making any changes, spend four to six weeks building a
-          comprehensive supply chain map. Most SMEs lack formal documentation
+          thorough supply chain map. Most SMEs lack formal documentation
           of their supplier relationships, procurement processes, and logistics
           flows.
         </p>
@@ -34,8 +34,8 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             <strong>Supplier census.</strong> Create a master list of every
             vendor with annual spend, payment terms, contract dates, lead
-            times, and quality track record. Most SMEs have 50&ndash;200
-            suppliers, but 80% of spend is concentrated in 10&ndash;15 vendors.
+            times, and quality track record. Most SMEs have 50-200
+            suppliers, but 80% of spend is concentrated in 10-15 vendors.
           </li>
           <li>
             <strong>Spend analysis.</strong> Categorize procurement spend by
@@ -62,7 +62,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           more strategic partners is typically the highest-impact supply chain
           initiative. Most SMEs accumulate suppliers over time without ever
           pruning the list, resulting in fragmented spend and weak negotiating
-          leverage.
+          use.
         </p>
         <ol className={olClass}>
           <li>
@@ -72,17 +72,17 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             <strong>Evaluate performance.</strong> Score each supplier on
             quality, reliability, responsiveness, and pricing competitiveness
-            using a simple 1&ndash;5 scale.
+            using a simple 1-5 scale.
           </li>
           <li>
             <strong>Consolidate categories.</strong> Where multiple vendors
             supply similar items, consolidate to one or two preferred
-            suppliers to increase leverage.
+            suppliers to increase use.
           </li>
           <li>
             <strong>Phase the transition.</strong> Qualify preferred vendors,
             run a parallel supply period, then shift volume gradually over
-            60&ndash;90 days. Never switch critical suppliers overnight.
+            60-90 days. Never switch critical suppliers overnight.
           </li>
         </ol>
         <p>
@@ -94,7 +94,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
         <h2 className={h2Class}>Vendor negotiation strategies</h2>
         <p>
           Effective negotiation is not about squeezing suppliers for the
-          lowest price &mdash; it is about aligning incentives and reducing
+          lowest price, it is about aligning incentives and reducing
           total cost. Professional negotiation with good data strengthens
           relationships.
         </p>
@@ -106,7 +106,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Get competitive bids.</strong> Soliciting quotes from two
-            or three competitors provides market pricing data and leverage,
+            or three competitors provides market pricing data and use,
             even if you plan to stay with your current vendor.
           </li>
           <li>
@@ -133,7 +133,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           Inventory ties up cash, consumes warehouse space, and creates
           obsolescence risk. Optimization here is directly tied to{" "}
           <Link href="/learn/working-capital-management" className="text-apple-accent hover:underline">working capital management</Link>{" "}
-          &mdash; every dollar freed from excess inventory is available for
+          every dollar freed from excess inventory is available for
           debt paydown or growth investment.
         </p>
 
@@ -154,8 +154,8 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
             guarantees excess inventory.
           </li>
           <li>
-            Target inventory turn ratios appropriate for your industry &mdash;
-            typically 4&ndash;8x for manufacturing and 8&ndash;12x for
+            Target inventory turn ratios appropriate for your industry , 
+            typically 4-8x for manufacturing and 8-12x for
             distribution.
           </li>
         </ul>
@@ -179,7 +179,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
         <h2 className={h2Class}>Procurement systems and controls</h2>
         <p>
           Most SMEs run procurement on email, phone calls, and spreadsheets.
-          Formalizing the process does not require expensive software &mdash;
+          Formalizing the process does not require expensive software , 
           it requires discipline. This is one area where a targeted{" "}
           <Link href="/learn/digital-transformation" className="text-apple-accent hover:underline">digital transformation</Link>{" "}
           investment pays for itself within months.
@@ -206,8 +206,8 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
         <p>
           For software, start with your accounting system&rsquo;s built-in PO
           module. Cloud platforms like Procurify or Precoro offer fuller PO
-          management and approval workflows for $500&ndash;$2,000 per month,
-          with most SMEs recovering the investment within 6&ndash;12 months.
+          management and approval workflows for $500-$2,000 per month,
+          with most SMEs recovering the investment within 6-12 months.
         </p>
 
         <h2 className={h2Class}>Logistics and freight optimization</h2>
@@ -216,7 +216,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
             <strong>Consolidate shipments.</strong> Batch orders to fill trucks
             efficiently. Moving from twice-weekly half-truckloads to one
             weekly full truckload can cut per-unit freight costs by
-            20&ndash;30%.
+            20-30%.
           </li>
           <li>
             <strong>Negotiate carrier contracts.</strong> If annual freight
@@ -248,7 +248,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             Identify your top five to eight strategic suppliers and schedule
             quarterly business reviews. Share growth plans and demand
-            forecasts &mdash; the more visibility you provide, the better
+            forecasts, the more visibility you provide, the better
             they serve you.
           </li>
           <li>
@@ -257,7 +257,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             Implement supplier scorecards evaluating quality, delivery, cost,
-            and responsiveness. Share results quarterly &mdash; measurement
+            and responsiveness. Share results quarterly, measurement
             alone drives improvement.
           </li>
           <li>
@@ -320,7 +320,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
             production delays.
           </li>
           <li>
-            The margin improvement is meaningful &mdash; typically 15% or
+            The margin improvement is meaningful, typically 15% or
             more versus the outsourced cost.
           </li>
         </ul>
@@ -344,7 +344,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
         <p>
           Always run a total cost analysis including labor, materials,
           depreciation, facility costs, quality control, management overhead,
-          and opportunity cost &mdash; not just outsourced price versus
+          and opportunity cost, not just outsourced price versus
           internal variable cost.
         </p>
 
@@ -359,7 +359,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           <li>
             <strong>Centralize procurement data.</strong> Standardize item
             codes and vendor records across locations so spend can be
-            aggregated and leveraged.
+            aggregated and used.
           </li>
           <li>
             <strong>Focus on high-impact categories.</strong> Office supplies,
@@ -392,7 +392,7 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Renegotiate your top five contracts.</strong> A
-            3&ndash;5% reduction on your largest vendor relationships drops
+            3-5% reduction on your largest vendor relationships drops
             directly to EBITDA.
           </li>
           <li>
@@ -411,8 +411,8 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Audit freight costs.</strong> Get competitive quotes from
-            three carriers and evaluate shipment consolidation &mdash; for
-            many SMEs this alone yields $20K&ndash;$100K in annual savings.
+            three carriers and evaluate shipment consolidation, for
+            many SMEs this alone yields $20K-$100K in annual savings.
           </li>
         </ol>
 
@@ -430,20 +430,58 @@ export default function SupplyChainOptimizationPostAcquisitionArticle() {
           </li>
           <li>
             <strong>Ignoring the human element.</strong> Involve your team
-            in optimization and explain the rationale for changes &mdash; a
+            in optimization and explain the rationale for changes, a
             purchasing manager who feels bypassed will undermine even the
             best strategy.
           </li>
         </ul>
 
         <p>
-          Supply chain optimization is not a one-time project &mdash; it is
+          Supply chain optimization is not a one-time project, it is
           an ongoing discipline that compounds over time. The savings captured
           in year one create a lower cost base that amplifies the impact of{" "}
           <Link href="/learn/revenue-growth-playbook" className="text-apple-accent hover:underline">revenue growth</Link>{" "}
-          on profitability. Start with the fundamentals &mdash; map, measure,
-          negotiate, and systematize &mdash; and build from there.
+          on profitability. Start with the fundamentals, map, measure,
+          negotiate, and systematize, and build from there.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>How quickly can supply chain optimization impact EBITDA after a search fund acquisition?</h3>
+        <p>
+          Most search fund CEOs see measurable EBITDA improvement within 90 to 120 days of initiating supply chain changes. The fastest wins come from renegotiating the top five vendor contracts (typically yielding 3-5% cost reductions) and liquidating dead inventory to free working capital. According to McKinsey research on post-acquisition value creation, procurement optimization alone can improve EBITDA margins by 2-4 percentage points in SMEs that have never formally managed their supply chain. However, structural changes like supplier rationalization and systems implementation take 6-12 months to fully realize.
+        </p>
+
+        <h3 className={h3Class}>Should a new search fund CEO change suppliers immediately after closing?</h3>
+        <p>
+          No. Changing suppliers too quickly is one of the most common post-acquisition mistakes. Existing supplier relationships often carry institutional knowledge, informal agreements, and priority treatment that take years to build. The recommended approach is to spend the first 60 days mapping and benchmarking the existing supply chain without making changes, then phase transitions over 90-180 days with parallel supply periods. Deloitte&rsquo;s post-merger integration research shows that companies that rush vendor changes in the first quarter experience 20-30% more supply disruptions than those that take a measured approach.
+        </p>
+
+        <h3 className={h3Class}>What is the best first hire for supply chain improvement in an acquired SME?</h3>
+        <p>
+          For most SMEs in the $2M-$10M revenue range, the first hire should be a part-time or fractional procurement specialist rather than a full-time supply chain manager. A fractional professional can conduct the initial spend analysis, benchmark vendor pricing, and implement basic procurement controls at a fraction of the cost of a full-time hire. Once the business exceeds $10M in revenue or has more than 100 active suppliers, a dedicated procurement or operations manager becomes justified. The{" "}
+          <Link href="/learn/first-100-days" className="text-apple-accent hover:underline">first 100 days playbook</Link>{" "}
+          provides a framework for prioritizing these operational hires.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-management" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              McKinsey &amp; Company, Supply Chain Management and Post-Acquisition Value Creation
+            </a>
+          </li>
+          <li>
+            <a href="https://www.deloitte.com/us/en/services/consulting/services/supply-chain-strategy-operations-services.html" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Deloitte, Supply Chain Strategy and Post-Merger Integration
+            </a>
+          </li>
+          <li>
+            <a href="https://www.ismworld.org/supply-management-news-and-reports/reports/rob/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Institute for Supply Management (ISM), Report on Business and SME Procurement Benchmarks
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

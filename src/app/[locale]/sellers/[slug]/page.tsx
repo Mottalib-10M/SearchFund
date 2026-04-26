@@ -80,7 +80,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const seller = await getSeller(slug);
 
   if (!seller || !seller.isPublic) {
-    return { title: "Seller Not Found — SearchFundMarket" };
+    return { title: "Seller Not Found - SearchFundMarket" };
   }
 
   const name = seller.user.name || "Seller";
@@ -88,10 +88,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     seller.headline ||
     `${name} is a business seller on SearchFundMarket. View active listings.`;
   return {
-    title: `${name} — Business Seller | SearchFundMarket`,
+    title: `${name} - Business Seller | SearchFundMarket`,
     description,
     openGraph: {
-      title: `${name} — Business Seller on SearchFundMarket`,
+      title: `${name} - Business Seller on SearchFundMarket`,
       description: seller.headline || `Browse ${name}'s business listings on SearchFundMarket.`,
     },
   };

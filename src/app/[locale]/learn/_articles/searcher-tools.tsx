@@ -10,7 +10,7 @@ export default function SearcherToolsArticle() {
       <div className={bodyClass}>
         <p>
           Running an effective search requires more than grit and the right{" "}
-          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">psychological mindset</Link> — it requires the right technology stack. The tools you choose
+          <Link href="/learn/searcher-psychology" className="text-apple-accent hover:underline">psychological mindset</Link> - it requires the right technology stack. The tools you choose
           for deal sourcing, pipeline management, financial modeling, investor
           communication, and legal documentation will directly impact your
           efficiency and ultimately your probability of closing a deal.
@@ -29,8 +29,8 @@ export default function SearcherToolsArticle() {
 
         <h3 className={h3Class}>Proprietary sourcing tools</h3>
         <p>
-          Proprietary sourcing — reaching out directly to business owners who
-          have not listed their company for sale — is widely considered the
+          Proprietary sourcing - reaching out directly to business owners who
+          have not listed their company for sale - is widely considered the
           highest-quality deal flow channel. These sellers are not running a
           competitive process, which typically means lower purchase multiples,
           fewer competing bidders, and more flexibility on deal terms. However,
@@ -43,7 +43,7 @@ export default function SearcherToolsArticle() {
             <strong>LinkedIn Sales Navigator ($99/month):</strong> The most
             powerful tool for identifying business owners by industry, company
             size, geography, seniority, and years of experience. Build saved
-            searches for owners aged 55 and older in fragmented industries —
+            searches for owners aged 55 and older in fragmented industries - 
             these are the most likely succession candidates. Use InMail
             credits for initial outreach and track engagement through the
             built-in CRM features
@@ -79,7 +79,7 @@ export default function SearcherToolsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>SearchFundMarket.com:</strong> Purpose-built for the search fund
-            community — connects searchers with acquisition opportunities and
+            community - connects searchers with acquisition opportunities and
             investors who understand the ETA model
           </li>
           <li>
@@ -136,10 +136,10 @@ export default function SearcherToolsArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>HubSpot CRM (free tier):</strong> Robust free CRM with email
+            <strong>HubSpot CRM (free tier):</strong> Strong free CRM with email
             tracking, custom deal stages (Sourced, NDA Signed, CIM Reviewed, LOI
             Submitted, Diligence, Closed), and task reminders. Create two
-            pipelines — one for deals, one for investors. Upgrade to Starter
+            pipelines - one for deals, one for investors. Upgrade to Starter
             ($20/month) for automation
           </li>
           <li>
@@ -231,7 +231,7 @@ export default function SearcherToolsArticle() {
           sell-side processes, the seller&apos;s advisor will typically set up a
           VDR using a professional platform such as Datasite (formerly Merrill
           DataSite), Intralinks, or Firmex. For smaller, proprietary
-          transactions — which are more common in the search fund world — the
+          transactions - which are more common in the search fund world - the
           searcher often creates and manages the VDR themselves using Google
           Drive, Dropbox Business, or Box. The key is to establish a clear
           folder structure: top-level folders for each diligence workstream
@@ -241,7 +241,7 @@ export default function SearcherToolsArticle() {
 
         <h3 className={h3Class}>Diligence checklists and document request lists</h3>
         <p>
-          A comprehensive document request list is the backbone of diligence.
+          A thorough document request list is the backbone of diligence.
           Standard lists include three to five years of audited or reviewed
           financial statements, tax returns, customer and revenue detail,
           vendor contracts, employee census and benefits information, lease
@@ -249,13 +249,13 @@ export default function SearcherToolsArticle() {
           litigation history, and environmental reports. Many search fund
           accelerator programs and legal firms specializing in ETA provide
           standardized diligence checklists that can be adapted to each deal.
-          Start with a comprehensive template and pare it down based on the
+          Start with a thorough template and pare it down based on the
           specific industry and company.
         </p>
 
         <h2 className={h2Class}>Legal and document management</h2>
         <p>
-          A search generates enormous volumes of legal documents — NDAs, LOIs,
+          A search generates enormous volumes of legal documents - NDAs, LOIs,
           purchase agreements, and closing documents. Organization prevents
           costly errors and speeds up due diligence.
         </p>
@@ -263,7 +263,7 @@ export default function SearcherToolsArticle() {
           <li>
             <strong>DocuSign / HelloSign:</strong> Electronic signatures for NDAs
             and LOIs. Create templates so you can send a signed NDA in under two
-            minutes — speed matters when brokers send deals. DocuSign starts at
+            minutes - speed matters when brokers send deals. DocuSign starts at
             $10/month; HelloSign at $15/month
           </li>
           <li>
@@ -274,14 +274,14 @@ export default function SearcherToolsArticle() {
           </li>
           <li>
             <strong>Carta ($3,000/year):</strong> Cap table management
-            post-acquisition — tracks equity ownership, vesting schedules, and
+            post-acquisition - tracks equity ownership, vesting schedules, and
             option pools. Set up during acquisition structuring, not the search
           </li>
         </ul>
 
         <h2 className={h2Class}>Investor communication tools</h2>
         <p>
-          Keeping investors informed is not just a courtesy — it is a strategic
+          Keeping investors informed is not just a courtesy - it is a strategic
           imperative. Your search fund investors are your future board members,
           co-investors, and mentors. Regular, high-quality communication builds
           trust, keeps investors engaged, and ensures you have strong support
@@ -297,7 +297,7 @@ export default function SearcherToolsArticle() {
           of the most promising opportunities, key learnings about industries
           or markets, budget versus actual search spending, and a clear ask if
           you need help (introductions, industry expertise, advice on a specific
-          deal). Keep updates concise — one to two pages — and use a consistent
+          deal). Keep updates concise - one to two pages - and use a consistent
           format so investors can quickly scan for the information they care
           about most.
         </p>
@@ -323,8 +323,8 @@ export default function SearcherToolsArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Industry research:</strong> Use ChatGPT or Claude to generate
-            overviews of unfamiliar industries — market size, growth trends, key
-            players, regulatory landscape, and common business models
+            overviews of unfamiliar industries - market size, growth trends, key
+            players, regulatory environment, and common business models
           </li>
           <li>
             <strong>Market sizing:</strong> Build bottom-up market size estimates,
@@ -362,7 +362,7 @@ export default function SearcherToolsArticle() {
           </li>
           <li>
             <strong>Loom:</strong> Record short video investor updates instead of
-            lengthy emails. A 5-minute Loom conveys more nuance than a 2-page
+            lengthy emails. A 5-minute Loom conveys more detail than a 2-page
             written update
           </li>
         </ul>
@@ -499,6 +499,30 @@ export default function SearcherToolsArticle() {
           activities that actually close deals: building relationships with
           brokers, meeting sellers, and evaluating businesses.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the minimum technology stack a solo searcher needs to get started?</h3>
+        <p>
+          According to experienced searchers surveyed by SearchFunder, the essential minimum stack consists of four tools: a CRM for pipeline management (HubSpot free tier or Pipedrive at $14.90/month), LinkedIn Sales Navigator ($99/month) for proprietary deal sourcing, Google Drive for document organization and a basic virtual data room, and DocuSign ($10/month) for executing NDAs quickly. Total cost: approximately $125/month. Many successful searchers operated with exactly this stack for their entire search. The key insight from Stanford GSB case studies is that a simple system used consistently outperforms a sophisticated system that&apos;s poorly maintained. Add tools only when a genuine bottleneck emerges, not preemptively. See our <Link href="/learn/pre-search-preparation" className="text-apple-accent hover:underline">pre-search preparation</Link> guide for setting up your infrastructure.
+        </p>
+
+        <h3 className={h3Class}>Should I use AI tools like ChatGPT during the search process?</h3>
+        <p>
+          AI is an increasingly valuable research accelerator, but it is not a substitute for judgment or relationship-building. The most productive use cases are industry research (generating overviews of unfamiliar sectors in minutes rather than hours), email drafting (creating initial outreach templates for proprietary campaigns involving hundreds of personalized letters), and due diligence support (summarizing lengthy contracts and identifying key risk provisions). According to a 2024 survey of active searchers, those who integrated AI tools into their workflow reported saving 5-10 hours per week on research and communication tasks. The critical caveat: never rely on AI for financial figures, legal interpretations, or <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">valuation analysis</Link> without independent verification. AI is a research tool, not an advisor.
+        </p>
+
+        <h3 className={h3Class}>How should I organize my CRM pipeline for a search fund?</h3>
+        <p>
+          The best practice is to create two separate pipelines in your CRM: one for deal opportunities and one for investor relationships. Your deal pipeline should mirror your acquisition funnel with stages such as: Identified, First Contact Made, NDA Signed, CIM Reviewed, Management Meeting, LOI Submitted, Under Diligence, and Closed. Each stage transition should trigger specific follow-up tasks and timelines. According to data from search fund accelerator programs, the typical searcher evaluates 200-300 targets, so consistent pipeline hygiene is essential. Set weekly review sessions to update deal statuses, archive stale opportunities, and ensure no follow-ups are overdue. Track key metrics, deals sourced per week, conversion rates between stages, and average time in each stage, to continuously optimize your <Link href="/learn/deal-sourcing-strategies" className="text-apple-accent hover:underline">sourcing strategy</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>Stanford Graduate School of Business, <em>Search Fund Study: Selected Observations</em> (2024)</li>
+          <li>SearchFunder Community, <em>Annual Searcher Tools &amp; Technology Survey</em> (2024)</li>
+          <li>IESE Business School, <em>Best Practices in Search Fund Deal Sourcing</em> (2023)</li>
+        </ul>
       </div>
     </article>
   );

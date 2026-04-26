@@ -25,15 +25,15 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        The fundamental premise is straightforward: if Business A sold for 4.5x EBITDA last year, and your target company operates in the same industry with similar characteristics, then 4.5x EBITDA provides a reasonable starting point for valuation. Of course, the devil is in the details—no two businesses are identical, and adjustments are always necessary.
+        The fundamental premise is straightforward: if Business A sold for 4.5x EBITDA last year, and your target company operates in the same industry with similar characteristics, then 4.5x EBITDA provides a reasonable starting point for valuation. Of course, the devil is in the details - no two businesses are identical, and adjustments are always necessary.
       </p>
 
       <p className={bodyClass}>
-        For search funders and ETA entrepreneurs, comp analysis serves multiple critical functions. It validates your internal valuation models, provides negotiating leverage with sellers who may have unrealistic price expectations, demonstrates market knowledge to investors, and helps establish guardrails that prevent overpaying in competitive situations.
+        For search funders and ETA entrepreneurs, comp analysis serves multiple critical functions. It validates your internal valuation models, provides negotiating use with sellers who may have unrealistic price expectations, demonstrates market knowledge to investors, and helps establish guardrails that prevent overpaying in competitive situations.
       </p>
 
       <p className={bodyClass}>
-        The method is particularly valuable in the SME space because it captures factors that are difficult to quantify in traditional models—such as the scarcity premium for businesses with strong customer concentration but defensive market positions, or the discount applied to companies in declining industries even if current cash flows remain strong.
+        The method is particularly valuable in the SME space because it captures factors that are difficult to quantify in traditional models - such as the scarcity premium for businesses with strong customer concentration but defensive market positions, or the discount applied to companies in declining industries even if current cash flows remain strong.
       </p>
 
       <h2 className={h2Class}>Finding Transaction Data</h2>
@@ -55,7 +55,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>BizComps</h3>
 
       <p className={bodyClass}>
-        BizComps is another comprehensive database focusing on main street and lower middle market transactions. While it contains fewer details than DealStats for each transaction, it covers a broader range of very small businesses (under $5M in value) and includes data from business brokers nationwide. Access is typically through subscription or per-report purchase, with costs ranging from $100-$500 depending on the scope.
+        BizComps is another thorough database focusing on main street and lower middle market transactions. While it contains fewer details than DealStats for each transaction, it covers a broader range of very small businesses (under $5M in value) and includes data from business brokers nationwide. Access is typically through subscription or per-report purchase, with costs ranging from $100-$500 depending on the scope.
       </p>
 
       <h3 className={h3Class}>PitchBook and CapIQ</h3>
@@ -71,7 +71,7 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        For example, brokers specializing in HVAC companies, dental practices, or manufacturing businesses often share market overviews with prospective sellers and buyers. Requesting these reports—or building relationships with brokers in your target industry—can yield insights not available in formal databases.
+        For example, brokers specializing in HVAC companies, dental practices, or manufacturing businesses often share market overviews with prospective sellers and buyers. Requesting these reports - or building relationships with brokers in your target industry - can yield insights not available in formal databases.
       </p>
 
       <h3 className={h3Class}>Your Own Network</h3>
@@ -99,7 +99,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>Size Ranges</h3>
 
       <p className={bodyClass}>
-        Size matters enormously in valuation. A $50M revenue business typically commands higher multiples than a $5M revenue business, even in the same industry, due to factors like scalability, management depth, and buyer universe. When building your comp set, focus on businesses within a reasonable range of your target's size—ideally within 50% to 200% of revenue or EBITDA.
+        Size matters enormously in valuation. A $50M revenue business typically commands higher multiples than a $5M revenue business, even in the same industry, due to factors like scalability, management depth, and buyer universe. When building your comp set, focus on businesses within a reasonable range of your target's size - ideally within 50% to 200% of revenue or EBITDA.
       </p>
 
       <p className={bodyClass}>
@@ -161,13 +161,13 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        During periods of rising multiples, older comps may understate current values; during corrections, they may overstate them. A simple approach is to track a broad market index (like the S&P SmallCap 600 or Russell 2000) and adjust historical comps proportionally to market movement, though this assumes SME private company valuations move in lockstep with public markets—a questionable assumption.
+        During periods of rising multiples, older comps may understate current values; during corrections, they may overstate them. A simple approach is to track a broad market index (like the S&P SmallCap 600 or Russell 2000) and adjust historical comps proportionally to market movement, though this assumes SME private company valuations move in lockstep with public markets - a questionable assumption.
       </p>
 
       <h2 className={h2Class}>Building a Comp Table</h2>
 
       <p className={bodyClass}>
-        Once you've identified 5-10 strong comparables and determined necessary adjustments, organize your findings in a clear, comprehensive comp table. This table becomes a core deliverable for your investment committee, deal team, and eventually, your negotiating materials.
+        Once you've identified 5-10 strong comparables and determined necessary adjustments, organize your findings in a clear, thorough comp table. This table becomes a core deliverable for your investment committee, deal team, and eventually, your negotiating materials.
       </p>
 
       <p className={bodyClass}>
@@ -233,7 +233,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>Overreliance on Multiples Alone</h3>
 
       <p className={bodyClass}>
-        Multiples are shorthand, not gospel. A 5.0x EBITDA multiple means nothing if one business has 40% EBITDA margins while another has 15%. The absolute dollar EBITDA is the same, but the underlying business quality differs dramatically. Always consider the context behind the multiples—growth trajectory, margin profile, competitive position, and risk factors.
+        Multiples are shorthand, not gospel. A 5.0x EBITDA multiple means nothing if one business has 40% EBITDA margins while another has 15%. The absolute dollar EBITDA is the same, but the underlying business quality differs dramatically. Always consider the context behind the multiples - growth trajectory, margin profile, competitive position, and risk factors.
       </p>
 
       <h3 className={h3Class}>Insufficient Sample Size</h3>
@@ -245,13 +245,13 @@ export default function ComparableTransactionsArticle() {
       <h2 className={h2Class}>Using Comps to Support Your Offer Price</h2>
 
       <p className={bodyClass}>
-        Comp analysis doesn't determine your offer price in isolation—it's one of several valuation methods, alongside DCF analysis, asset-based valuation, and return-on-investment modeling. However, it plays a crucial role in supporting and defending your pricing decisions.
+        Comp analysis doesn't determine your offer price in isolation - it's one of several valuation methods, alongside DCF analysis, asset-based valuation, and return-on-investment modeling. However, it plays a critical role in supporting and defending your pricing decisions.
       </p>
 
       <h3 className={h3Class}>Triangulation Approach</h3>
 
       <p className={bodyClass}>
-        The most credible valuation approach uses multiple methods and triangulates toward a range. Your DCF analysis might suggest a value of $18M-$22M. Your comp analysis might indicate $19M-$24M based on median multiples. Your return-on-investment requirements might support up to $21M. The overlap—roughly $19M-$21M—becomes your target range.
+        The most credible valuation approach uses multiple methods and triangulates toward a range. Your DCF analysis might suggest a value of $18M-$22M. Your comp analysis might indicate $19M-$24M based on median multiples. Your return-on-investment requirements might support up to $21M. The overlap - roughly $19M-$21M - becomes your target range.
       </p>
 
       <p className={bodyClass}>
@@ -261,7 +261,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>Negotiating with Sellers</h3>
 
       <p className={bodyClass}>
-        Comp data is particularly powerful in seller negotiations. Many business owners have inflated valuation expectations based on anecdotes, outdated market conditions, or wishful thinking. Presenting well-researched comp data—ideally with anonymized deal details from databases like DealStats—grounds the conversation in market reality.
+        Comp data is particularly powerful in seller negotiations. Many business owners have inflated valuation expectations based on anecdotes, outdated market conditions, or wishful thinking. Presenting well-researched comp data - ideally with anonymized deal details from databases like DealStats - grounds the conversation in market reality.
       </p>
 
       <p className={bodyClass}>
@@ -291,7 +291,7 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        Use DCF to model upside scenarios and validate that your acquisition thesis generates acceptable returns. Use comps to ensure you're not paying above-market prices and to establish baseline valuation expectations. If your DCF suggests paying a premium to comps, scrutinize your assumptions carefully—you're betting on outperformance that the market hasn't historically rewarded.
+        Use DCF to model upside scenarios and validate that your acquisition thesis generates acceptable returns. Use comps to ensure you're not paying above-market prices and to establish baseline valuation expectations. If your DCF suggests paying a premium to comps, scrutinize your assumptions carefully - you're betting on outperformance that the market hasn't historically rewarded.
       </p>
 
       <h3 className={h3Class}>Comps vs Asset-Based Valuation</h3>
@@ -301,13 +301,13 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        Comp analysis better captures operating business value. However, asset-based valuation provides a "floor"—the business is worth at least its liquidation value. If your comp analysis suggests a value below adjusted net asset value, investigate whether the business is actually worth operating or is a liquidation candidate.
+        Comp analysis better captures operating business value. However, asset-based valuation provides a "floor" - the business is worth at least its liquidation value. If your comp analysis suggests a value below adjusted net asset value, investigate whether the business is actually worth operating or is a liquidation candidate.
       </p>
 
       <h3 className={h3Class}>Comps vs Industry Rules of Thumb</h3>
 
       <p className={bodyClass}>
-        Many industries have traditional "rules of thumb"—dental practices trade at 60-80% of revenue, landscaping companies at 2.5-3.5x SDE, etc. These rules of thumb are essentially comp analysis distilled into simple heuristics. They're useful as quick sanity checks but lack the precision and context of proper comp analysis.
+        Many industries have traditional "rules of thumb" - dental practices trade at 60-80% of revenue, landscaping companies at 2.5-3.5x SDE, etc. These rules of thumb are essentially comp analysis distilled into simple heuristics. They're useful as quick sanity checks but lack the precision and context of proper comp analysis.
       </p>
 
       <p className={bodyClass}>
@@ -333,7 +333,7 @@ export default function ComparableTransactionsArticle() {
       <h3 className={h3Class}>Narrative Context</h3>
 
       <p className={bodyClass}>
-        Numbers alone don't persuade. Accompany your comp table with narrative context explaining your selection criteria, key adjustments, and how the target company compares to the comps. Address obvious outliers—if one comp traded at 8.0x while others cluster at 4.5-5.5x, explain why (Was it a strategic acquisition? Exceptional growth? Data error?).
+        Numbers alone don't persuade. Accompany your comp table with narrative context explaining your selection criteria, key adjustments, and how the target company compares to the comps. Address obvious outliers - if one comp traded at 8.0x while others cluster at 4.5-5.5x, explain why (Was it a strategic acquisition? Exceptional growth? Data error?).
       </p>
 
       <h3 className={h3Class}>Handling Objections</h3>
@@ -343,7 +343,7 @@ export default function ComparableTransactionsArticle() {
       </p>
 
       <p className={bodyClass}>
-        If the seller believes their business deserves a premium, ask them to quantify and justify it. "Your customer concentration is better than the comps—I agree that's worth something. How much premium do you think that justifies, and why?" This shifts the conversation from emotional assertions to analytical discussion.
+        If the seller believes their business deserves a premium, ask them to quantify and justify it. "Your customer concentration is better than the comps - I agree that's worth something. How much premium do you think that justifies, and why?" This shifts the conversation from emotional assertions to analytical discussion.
       </p>
 
       <h3 className={h3Class}>Confidentiality Considerations</h3>
@@ -359,19 +359,39 @@ export default function ComparableTransactionsArticle() {
       <h2 className={h2Class}>Conclusion</h2>
 
       <p className={bodyClass}>
-        Comparable transaction analysis is both art and science. The science lies in rigorous data collection, systematic comp selection, and methodical multiple calculation. The art lies in judgment—knowing which transactions are truly comparable, what adjustments to make, and how to synthesize comp data with other valuation methods into a coherent investment thesis.
+        Comparable transaction analysis is both art and science. The science lies in rigorous data collection, systematic comp selection, and methodical multiple calculation. The art lies in judgment - knowing which transactions are truly comparable, what adjustments to make, and how to synthesize comp data with other valuation methods into a coherent investment thesis.
       </p>
 
       <p className={bodyClass}>
-        For search funders and ETA entrepreneurs, strong comp analysis delivers multiple benefits: it grounds your valuation in market reality, provides negotiating leverage with sellers who have unrealistic expectations, builds credibility with investors, and helps prevent overpaying in competitive situations. The investment in database subscriptions, advisor time, and analytical rigor pays dividends throughout your search and acquisition process.
+        For search funders and ETA entrepreneurs, strong comp analysis delivers multiple benefits: it grounds your valuation in market reality, provides negotiating use with sellers who have unrealistic expectations, builds credibility with investors, and helps prevent overpaying in competitive situations. The investment in database subscriptions, advisor time, and analytical rigor pays dividends throughout your search and acquisition process.
       </p>
 
       <p className={bodyClass}>
-        As you build comp analyses for target companies, remember that the goal isn't to achieve false precision—you're not calculating the "true" value to the dollar. Rather, you're establishing a defensible valuation range supported by market evidence, understanding where your target fits within that range, and arming yourself with data to navigate negotiations confidently.
+        As you build comp analyses for target companies, remember that the goal isn't to achieve false precision - you're not calculating the "true" value to the dollar. Rather, you're establishing a defensible valuation range supported by market evidence, understanding where your target fits within that range, and arming yourself with data to manage negotiations confidently.
       </p>
 
       <p className={bodyClass}>
-        Start building your comp analysis toolkit early. Gain access to transaction databases, develop relationships with brokers in your target industries, and practice building comp sets for businesses you're tracking. By the time you're negotiating an LOI, comp analysis should feel like second nature—a core competency that sets you apart from less sophisticated buyers and builds trust with sellers who recognize your professionalism.
+        Start building your comp analysis toolkit early. Gain access to transaction databases, develop relationships with brokers in your target industries, and practice building comp sets for businesses you're tracking. By the time you're negotiating an LOI, comp analysis should feel like second nature - a core competency that sets you apart from less sophisticated buyers and builds trust with sellers who recognize your professionalism.
+      </p>
+
+      <h2 className={h2Class}>Frequently asked questions</h2>
+
+      <h3 className={h3Class}>How many comparable transactions do I need for a reliable comp analysis?</h3>
+
+      <p className={bodyClass}>
+        Aim for at least 5 strong comparables, and preferably 7-10, to produce statistically meaningful results. A comp set of two or three transactions is insufficient because individual deal circumstances (strategic premiums, distressed sales, unusual deal structures) can skew results. DealStats, the gold standard for private company transaction data, contains over 40,000 transactions and allows filtering by industry, revenue size, EBITDA range, and geography to build relevant comp sets. If you cannot find enough transactions in your exact industry niche, expand to adjacent industries with similar business economics (comparable gross margins, capital intensity, and recurring revenue characteristics) while documenting your reasoning.
+      </p>
+
+      <h3 className={h3Class}>How do I account for the difference between SDE and EBITDA multiples in comp analysis?</h3>
+
+      <p className={bodyClass}>
+        Different databases define earnings differently, some report seller&rsquo;s discretionary earnings (SDE), which includes full owner compensation, while others report adjusted EBITDA after normalizing for a market-rate manager salary. Mixing these metrics without adjustment produces meaningless results. SDE multiples are typically 0.5-1.5x lower than EBITDA multiples because SDE includes the cost of management that EBITDA excludes. Always verify what &ldquo;EBITDA&rdquo; means in each data source, normalize all transactions to a consistent definition, and document your adjustments. For SME transactions under $5M, SDE is often more relevant than EBITDA since it captures total economic benefit available to an owner-operator.
+      </p>
+
+      <h3 className={h3Class}>Should I rely on comparable transactions or DCF analysis for valuing an acquisition target?</h3>
+
+      <p className={bodyClass}>
+        The most credible valuation approach uses both methods and triangulates toward a range. Comparable transactions ground your valuation in market reality, what buyers have actually paid for similar businesses, while <Link href="/learn/dcf-valuation-small-business" className="text-apple-accent hover:underline">DCF analysis</Link> forces you to build explicit assumptions about future growth, margins, and risk. According to EY&rsquo;s private equity research, when both methods converge on similar values (e.g., $8-9M), confidence is high. When they diverge significantly, investigate why: perhaps your DCF growth assumptions are aggressive compared to market precedent, or perhaps the comps include strategic buyers paying premiums you cannot justify as a financial buyer. Stanford&rsquo;s search fund study recommends presenting both methods to investors for maximum credibility.
       </p>
 
       <h2 className={h2Class}>Sources</h2>
@@ -386,7 +406,7 @@ export default function ComparableTransactionsArticle() {
           >
             DealStats Database
           </a>
-          {" "}— Premier database of private company transactions with detailed financial data and multiples
+          {" "} - Premier database of private company transactions with detailed financial data and multiples
         </li>
         <li>
           <a
@@ -397,7 +417,7 @@ export default function ComparableTransactionsArticle() {
           >
             BizComps
           </a>
-          {" "}— Transaction database focusing on main street and lower middle market businesses
+          {" "} - Transaction database focusing on main street and lower middle market businesses
         </li>
         <li>
           <a
@@ -408,18 +428,18 @@ export default function ComparableTransactionsArticle() {
           >
             PitchBook
           </a>
-          {" "}— M&A and private equity database with extensive middle market coverage
+          {" "} - M&A and private equity database with extensive middle market coverage
         </li>
         <li>
           <a
-            href="https://www.gsb.stanford.edu/faculty-research/publications/search-funds-2024"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
           >
             Stanford Search Fund Study 2024
           </a>
-          {" "}— Market data on search fund acquisition multiples and transaction characteristics
+          {" "} - Market data on search fund acquisition multiples and transaction characteristics
         </li>
         <li>
           <a
@@ -430,7 +450,7 @@ export default function ComparableTransactionsArticle() {
           >
             EY Private Equity Research
           </a>
-          {" "}— Quarterly market reports tracking private equity valuation trends
+          {" "} - Quarterly market reports tracking private equity valuation trends
         </li>
         <li>
           <a
@@ -439,7 +459,7 @@ export default function ComparableTransactionsArticle() {
           >
             Business Valuation Fundamentals
           </a>
-          {" "}— Comprehensive guide to SME valuation methods and frameworks
+          {" "} - Thorough guide to SME valuation methods and frameworks
         </li>
         <li>
           <a
@@ -448,9 +468,18 @@ export default function ComparableTransactionsArticle() {
           >
             Letter of Intent Guide
           </a>
-          {" "}— How to structure and negotiate acquisition offers using valuation data
+          {" "} - How to structure and negotiate acquisition offers using valuation data
         </li>
       </ul>
+    
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/due-diligence-checklist" className="text-apple-accent hover:underline">Due Diligence Checklist</Link></li>
+          <li><Link href="/learn/deal-structure-optimization" className="text-apple-accent hover:underline">Deal Structure</Link></li>
+          <li><Link href="/learn/closing-process" className="text-apple-accent hover:underline">Closing Process</Link></li>
+          <li><Link href="/learn/working-with-advisors" className="text-apple-accent hover:underline">Working with Advisors</Link></li>
+          <li><Link href="/learn/reading-a-cim" className="text-apple-accent hover:underline">Reading a CIM</Link></li>
+        </ul>
     </article>
   );
 }

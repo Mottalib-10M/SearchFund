@@ -14,11 +14,11 @@ export default function RevenueGrowthPlaybookArticle() {
           reductions matter, but they have a ceiling. Revenue growth, by
           contrast, compounds over time and drives both profitability and
           enterprise value. The challenge is that most acquired SMEs have been
-          growing slowly &mdash; or not at all &mdash; for years. The previous
+          growing slowly, or not at all, for years. The previous
           owner was often the sole salesperson, there was no marketing function,
           and pricing had not been reviewed in a decade. This playbook provides
           a structured approach to diagnosing revenue opportunities and
-          executing a growth plan in the first 12&ndash;24 months after
+          executing a growth plan in the first 12-24 months after
           acquisition.
         </p>
 
@@ -39,7 +39,7 @@ export default function RevenueGrowthPlaybookArticle() {
             <strong>Customer profitability analysis.</strong> Not all revenue is
             created equal. Calculate gross margin by customer and by product.
             You will likely discover that some customers and products are
-            significantly more profitable than others &mdash; and that some are
+            significantly more profitable than others, and that some are
             unprofitable.
           </li>
           <li>
@@ -56,7 +56,7 @@ export default function RevenueGrowthPlaybookArticle() {
             knew existed.
           </li>
           <li>
-            <strong>Competitive landscape.</strong> Map your competitors by
+            <strong>competitive environment.</strong> Map your competitors by
             size, positioning, pricing, and differentiators. Identify gaps in
             the market that you can exploit.
           </li>
@@ -66,7 +66,7 @@ export default function RevenueGrowthPlaybookArticle() {
         <p>
           Pricing is the fastest, highest-impact revenue lever available.
           A 5% price increase on a business with 20% net margins increases
-          profitability by 25% &mdash; with zero additional cost. Yet most
+          profitability by 25%, with zero additional cost. Yet most
           SMEs have not raised prices in years, and many actively undercharge.
         </p>
 
@@ -96,7 +96,7 @@ export default function RevenueGrowthPlaybookArticle() {
         <h3 className={h3Class}>Eliminating discounting culture</h3>
         <p>
           Many SMEs have an informal discounting culture where salespeople
-          (or the former owner) routinely offer 10&ndash;20% discounts to
+          (or the former owner) routinely offer 10-20% discounts to
           close deals. This erodes margins and trains customers to expect
           discounts.
         </p>
@@ -120,7 +120,7 @@ export default function RevenueGrowthPlaybookArticle() {
         <h3 className={h3Class}>Communicating price increases</h3>
         <ul className={ulClass}>
           <li>
-            Give customers 60&ndash;90 days&apos; notice before price increases
+            Give customers 60-90 days&apos; notice before price increases
             take effect.
           </li>
           <li>
@@ -130,7 +130,7 @@ export default function RevenueGrowthPlaybookArticle() {
           </li>
           <li>
             Implement annual price escalation clauses in all new contracts
-            (typically 3&ndash;5% per year, tied to CPI or a fixed rate).
+            (typically 3-5% per year, tied to CPI or a fixed rate).
           </li>
           <li>
             For your largest customers, deliver the news in person. Never
@@ -163,7 +163,7 @@ export default function RevenueGrowthPlaybookArticle() {
             targets.
           </li>
           <li>
-            Set pipeline targets. A healthy B2B pipeline is typically 3&ndash;4x
+            Set pipeline targets. A healthy B2B pipeline is typically 3-4x
             the quarterly revenue target.
           </li>
         </ul>
@@ -188,7 +188,7 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>
             Compensation structure: base salary plus commission. For SMEs,
             a 60/40 or 70/30 base-to-variable split works well. Avoid
-            commission-only roles &mdash; they attract the wrong candidates
+            commission-only roles, they attract the wrong candidates
             for relationship-based SME sales.
           </li>
         </ul>
@@ -233,7 +233,7 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>
             <strong>Account management.</strong> Assign dedicated account
             managers to your top 20% of customers. Their job is not just
-            customer service &mdash; it is proactive relationship development
+            customer service, it is proactive relationship development
             and revenue expansion.
           </li>
           <li>
@@ -261,14 +261,14 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>
             <strong>Google Ads.</strong> For many B2B and local service
             businesses, Google Ads is the fastest path to inbound leads.
-            Start with a $2K&ndash;$5K monthly budget and target high-intent
+            Start with a $2K-$5K monthly budget and target high-intent
             keywords specific to your industry.
           </li>
           <li>
             <strong>SEO.</strong> Invest in search engine optimization for
             long-term organic visibility. Create content around the questions
-            your customers ask. This is a slow burn &mdash; expect 6&ndash;12
-            months before meaningful traffic &mdash; but the compound returns
+            your customers ask. This is a slow burn, expect 6-12
+            months before meaningful traffic, but the compound returns
             are significant.
           </li>
           <li>
@@ -299,7 +299,7 @@ export default function RevenueGrowthPlaybookArticle() {
         <h3 className={h3Class}>Wholesale and distribution</h3>
         <ul className={ulClass}>
           <li>
-            If you sell products, consider adding wholesale channels &mdash;
+            If you sell products, consider adding wholesale channels , 
             selling through distributors, retailers, or online marketplaces
             (Amazon Business, Faire, or industry-specific platforms).
           </li>
@@ -313,7 +313,7 @@ export default function RevenueGrowthPlaybookArticle() {
         <h2 className={h2Class}>Geographic expansion</h2>
         <p>
           If your business serves a local or regional market, geographic
-          expansion can unlock significant growth &mdash; either organically
+          expansion can unlock significant growth, either organically
           (opening new locations, hiring remote salespeople in new territories)
           or through a{" "}
           <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">buy-and-build acquisition</Link>{" "}
@@ -321,7 +321,7 @@ export default function RevenueGrowthPlaybookArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            Start with adjacent markets where you can leverage your existing
+            Start with adjacent markets where you can use your existing
             brand, supply chain, and operational infrastructure.
           </li>
           <li>
@@ -346,15 +346,15 @@ export default function RevenueGrowthPlaybookArticle() {
           <li>
             <strong>Adjacent services.</strong> An HVAC company adds plumbing;
             an IT managed services provider adds cybersecurity; a landscaping
-            company adds snow removal. These extensions leverage existing
+            company adds snow removal. These extensions use existing
             customer relationships and operational capabilities.
           </li>
           <li>
             <strong>Recurring revenue.</strong> Convert one-time transactions
             into recurring revenue through maintenance contracts, service
             agreements, subscriptions, or managed service offerings. Recurring
-            revenue is valued at 2&ndash;3x higher multiples than project-based
-            revenue — a key factor in{" "}
+            revenue is valued at 2-3x higher multiples than project-based
+            revenue - a key factor in{" "}
             <Link href="/learn/exit-strategies" className="text-apple-accent hover:underline">exit strategy planning</Link>.
           </li>
           <li>
@@ -396,8 +396,8 @@ export default function RevenueGrowthPlaybookArticle() {
         <h2 className={h2Class}>Marketing fundamentals for SMEs</h2>
         <p>
           Most SMEs spend less than 2% of revenue on marketing. Increasing this
-          to 3&ndash;5% &mdash; even for a business with $5M in revenue, that
-          is only $150K&ndash;$250K per year &mdash; can have an outsized impact
+          to 3-5%, even for a business with $5M in revenue, that
+          is only $150K-$250K per year, can have an outsized impact
           when deployed effectively.
         </p>
         <ul className={ulClass}>
@@ -411,7 +411,7 @@ export default function RevenueGrowthPlaybookArticle() {
             <strong>Email marketing.</strong> Build and segment your customer
             email list. Send monthly newsletters, product updates, and
             industry insights. Email marketing has the highest ROI of any
-            marketing channel at $36&ndash;$42 returned per dollar spent.
+            marketing channel at $36-$42 returned per dollar spent.
           </li>
           <li>
             <strong>Case studies and testimonials.</strong> Document customer
@@ -472,25 +472,25 @@ export default function RevenueGrowthPlaybookArticle() {
         </p>
         <ol className={olClass}>
           <li>
-            <strong>Months 1&ndash;3: quick wins.</strong> Pricing optimization,
+            <strong>Months 1-3: quick wins.</strong> Pricing optimization,
             eliminating unprofitable customers or products, cross-selling to
             existing accounts, and basic website improvements. These should
             generate incremental revenue with minimal investment.
           </li>
           <li>
-            <strong>Months 3&ndash;6: build the engine.</strong> CRM
+            <strong>Months 3-6: build the engine.</strong> CRM
             implementation, sales process definition, hiring the first
             dedicated salesperson, and launching Google Ads. This phase
             requires investment but starts generating pipeline.
           </li>
           <li>
-            <strong>Months 6&ndash;12: scale.</strong> Add marketing
+            <strong>Months 6-12: scale.</strong> Add marketing
             capabilities (content, email, SEO), expand the sales team, launch
             new service lines, and explore geographic expansion. Revenue
             growth should be accelerating.
           </li>
           <li>
-            <strong>Months 12&ndash;24: compound.</strong> Partnerships,
+            <strong>Months 12-24: compound.</strong> Partnerships,
             channel development, recurring revenue programs, and potentially
             add-on acquisitions for faster growth. By this stage, you should
             have a predictable, scalable revenue engine.
@@ -499,13 +499,47 @@ export default function RevenueGrowthPlaybookArticle() {
 
         <p>
           Revenue growth in an acquired SME is not about revolutionary
-          innovation. It is about executing the fundamentals &mdash; pricing,
-          sales, marketing, and customer success &mdash; that were often
+          innovation. It is about executing the fundamentals, pricing,
+          sales, marketing, and customer success, that were often
           neglected by the previous owner. The businesses that grow fastest
           after acquisition are those where the new CEO brings disciplined
           execution to an already-good business with untapped potential.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the fastest way to grow revenue after acquiring a business?</h3>
+        <p>
+          Pricing optimization is the fastest and highest-impact revenue lever available post-acquisition. According to McKinsey&rsquo;s research on pricing strategy, a 5% price increase on a business with 20% net margins increases profitability by 25%, with zero additional cost. Most owner-operated SMEs have not raised prices in 2-5 years, and many actively undercharge relative to the value they deliver. The second fastest lever is cross-selling to existing customers, which Bain &amp; Company research shows costs 5-7x less than acquiring new customers. In the first 100 days, conduct a wallet share analysis of your top 20 accounts to identify expansion opportunities, and implement a structured quarterly business review process that proactively surfaces new needs and builds relationships beyond the initial sale.
+        </p>
+
+        <h3 className={h3Class}>How much should an SME spend on marketing after acquisition?</h3>
+        <p>
+          Most acquired SMEs spend less than 2% of revenue on marketing. Increasing this to 3-5%, even for a $5 million business, that is only $150,000-$250,000 per year, can generate outsized returns when deployed effectively. According to Harvard Business Review, email marketing delivers the highest ROI of any marketing channel at $36-$42 returned per dollar spent, making it the first investment to prioritize. Google Ads is typically the fastest path to inbound leads for B2B and local service businesses, with a starting budget of $2,000-$5,000 per month targeting high-intent industry-specific keywords. SEO is a longer-term investment (6-12 months to see meaningful traffic) but generates compounding organic returns. The key is tracking customer acquisition cost (CAC) and lifetime value (LTV) from the outset, targeting an LTV/CAC ratio of 3x or higher.
+        </p>
+
+        <h3 className={h3Class}>When should I hire the first dedicated salesperson?</h3>
+        <p>
+          Do not hire a salesperson until you have personally sold the product or service for at least 3 months and can articulate the sales process, value proposition, and ideal customer profile. According to Stanford GSB research on search fund CEO strategies, new owners who sell personally before hiring gain critical customer insight, develop empathy for the sales cycle, and can effectively train and manage their first rep. When you are ready to hire, look for industry-experienced reps with existing relationships in your market, they can start contributing faster than generalist salespeople. A 60/40 or 70/30 base-to-variable compensation split works well for SME sales roles, and you should expect the first sale by month 3 and quota attainment by month 6. Start with one rep, prove the model works, and then scale, hiring three reps simultaneously before having a repeatable process is a common and expensive mistake.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>McKinsey &amp; Company, <em>Pricing New Products and Services: The Power of Value-Based Pricing</em> (2024)</li>
+          <li>Bain &amp; Company, <em>Customer Retention and Revenue Growth in SMEs</em> (2024)</li>
+          <li>Stanford GSB, <em>Revenue Growth Strategies for Search Fund CEOs</em> (2024)</li>
+        </ul>
       </div>
+
+        <h2 className="text-2xl font-bold text-gray-900 mt-12 mb-4">Related Reading</h2>
+        <ul className="list-disc pl-6 space-y-2 mb-8">
+          <li><Link href="/learn/first-100-days" className="text-apple-accent hover:underline">Search Fund CEO: The First 100 Days</Link></li>
+          <li><Link href="/learn/sales-team-development" className="text-apple-accent hover:underline">Sales Team Development Post-Acquisition</Link></li>
+          <li><Link href="/learn/marketing-strategy-post-acquisition" className="text-apple-accent hover:underline">Marketing Strategy for Acquired Companies</Link></li>
+          <li><Link href="/learn/cross-selling-upselling" className="text-apple-accent hover:underline">Cross-Selling &amp; Upselling in Acquired Companies</Link></li>
+          <li><Link href="/learn/kpi-dashboard-post-acquisition" className="text-apple-accent hover:underline">KPI Dashboard for Post-Acquisition Management</Link></li>
+          <li><Link href="/learn/pricing-optimization" className="text-apple-accent hover:underline">Pricing Optimization: The Fastest Path to Profit Growth</Link></li>
+        </ul>
     </article>
   );
 }

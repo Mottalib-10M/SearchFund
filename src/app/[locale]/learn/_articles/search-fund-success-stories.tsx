@@ -12,7 +12,7 @@ export default function SearchFundSuccessStoriesArticle() {
           The search fund model has produced some extraordinary success stories
           over its four-decade history. While the median search fund generates
           attractive returns, the top quartile outcomes have been truly
-          exceptional &mdash; creating billions of dollars in enterprise value
+          exceptional, creating billions of dollars in enterprise value
           and transforming young operators into seasoned CEOs. Understanding
           these success stories is not just inspiring; it reveals the patterns,
           decisions, and execution principles that separate great outcomes from
@@ -72,8 +72,8 @@ export default function SearchFundSuccessStoriesArticle() {
           <li>
             <strong>Expansion beyond phones.</strong> As the business matured,
             Asurion expanded into broader technology protection and support
-            services &mdash; covering laptops, tablets, smart home devices,
-            and appliances &mdash; diversifying its revenue base and
+            services, covering laptops, tablets, smart home devices,
+            and appliances, diversifying its revenue base and
             increasing its value proposition to partners.
           </li>
         </ul>
@@ -104,7 +104,7 @@ export default function SearchFundSuccessStoriesArticle() {
         <h2 className={h2Class}>EndoChoice: from acquisition to IPO</h2>
         <p>
           Mark Gilreath&apos;s EndoChoice represents another iconic search fund
-          outcome &mdash; one of the rare cases where a search fund acquisition
+          outcome, one of the rare cases where a search fund acquisition
           ultimately reached a public market listing.
         </p>
 
@@ -170,9 +170,9 @@ export default function SearchFundSuccessStoriesArticle() {
           acquiring fragmented business services companies and executing
           disciplined buy-and-build strategies. Operators in industries like
           commercial cleaning, staffing, pest control, and waste management
-          have acquired platform companies at 4&ndash;5x EBITDA, added
-          several bolt-on acquisitions, and exited at 7&ndash;10x the combined
-          EBITDA &mdash; generating investor returns of 5&ndash;10x over
+          have acquired platform companies at 4-5x EBITDA, added
+          several bolt-on acquisitions, and exited at 7-10x the combined
+          EBITDA, generating investor returns of 5-10x over
           five to seven year hold periods.
         </p>
 
@@ -268,7 +268,7 @@ export default function SearchFundSuccessStoriesArticle() {
           </li>
           <li>
             Pricing: nearly every successful search fund CEO raised prices
-            in the first year, often by 5&ndash;15%, with minimal customer
+            in the first year, often by 5-15%, with minimal customer
             attrition.
           </li>
           <li>
@@ -284,7 +284,7 @@ export default function SearchFundSuccessStoriesArticle() {
         <h3 className={h3Class}>Talent management</h3>
         <ul className={ulClass}>
           <li>
-            Successful CEOs upgraded the management team strategically &mdash;
+            Successful CEOs upgraded the management team strategically , 
             not immediately. They assessed the existing team, retained strong
             performers, and made targeted hires to fill critical gaps.
           </li>
@@ -311,7 +311,7 @@ export default function SearchFundSuccessStoriesArticle() {
         <ul className={ulClass}>
           <li>
             <strong>Overpaying for the acquisition.</strong> Paying too much
-            leaves no margin for error. When leverage is high and the purchase
+            leaves no margin for error. When use is high and the purchase
             price assumes everything goes right, even minor operational
             setbacks can threaten the investment.
           </li>
@@ -355,22 +355,22 @@ export default function SearchFundSuccessStoriesArticle() {
         </p>
         <ul className={ulClass}>
           <li>
-            <strong>1984&ndash;2000 (early era):</strong> the model was
+            <strong>1984-2000 (early era):</strong> the model was
             experimental. Few investors understood search funds, deal sourcing
             was manual, and there were limited playbooks to follow. Success
             rates were lower, but the successes (like Asurion) were
             spectacular.
           </li>
           <li>
-            <strong>2000&ndash;2015 (growth era):</strong> Stanford and other
+            <strong>2000-2015 (growth era):</strong> Stanford and other
             business schools formalized search fund education. Dedicated search
             fund investors emerged, creating a more supportive ecosystem.
             Success rates improved as best practices were codified.
           </li>
           <li>
-            <strong>2015&ndash;present (mainstream era):</strong> the model
+            <strong>2015-present (mainstream era):</strong> the model
             has gone mainstream, with hundreds of new searchers annually.
-            A robust ecosystem of investors, advisors, service providers, and
+            A strong ecosystem of investors, advisors, service providers, and
             peer networks supports today&apos;s searchers. However, increased
             competition has made acquisitions more expensive, potentially
             compressing future returns.
@@ -392,7 +392,7 @@ export default function SearchFundSuccessStoriesArticle() {
           <li>
             Spanish search funds have achieved notable exits in business
             services, healthcare, and technology-enabled services. The
-            fragmented European SME landscape provides abundant acquisition
+            fragmented European SME market provides abundant acquisition
             targets.
           </li>
           <li>
@@ -401,8 +401,8 @@ export default function SearchFundSuccessStoriesArticle() {
             baby boomer-owned businesses approaching succession.
           </li>
           <li>
-            Cross-border search funds &mdash; operators who acquire in one
-            European country and expand to others &mdash; represent a
+            Cross-border search funds, operators who acquire in one
+            European country and expand to others, represent a
             unique opportunity not available in the US market.
           </li>
         </ul>
@@ -410,7 +410,7 @@ export default function SearchFundSuccessStoriesArticle() {
         <h2 className={h2Class}>What current searchers can learn</h2>
         <p>
           The common thread across every search fund success story is not
-          brilliance or luck &mdash; it is disciplined execution of
+          brilliance or luck, it is disciplined execution of
           fundamentals.
         </p>
         <ul className={ulClass}>
@@ -442,7 +442,7 @@ export default function SearchFundSuccessStoriesArticle() {
             <strong>Use your board and investors.</strong> The search fund
             investor network is one of the model&apos;s greatest assets.
             Successful operators engaged their boards actively, sought advice
-            openly, and leveraged their investors&apos; expertise and
+            openly, and used their investors&apos; expertise and
             networks.
           </li>
           <li>
@@ -461,6 +461,45 @@ export default function SearchFundSuccessStoriesArticle() {
           small business can be one of the most rewarding career and
           investment paths available.
         </p>
+
+        <h2 className={h2Class}>Frequently asked questions</h2>
+
+        <h3 className={h3Class}>What is the single most important factor that separates successful search fund outcomes from failures?</h3>
+        <p>
+          According to the{" "}
+          <Link href="/learn/stanford-2024-study" className="text-apple-accent hover:underline">Stanford 2024 Search Fund Study</Link>, industry selection is the strongest predictor of outsized returns. Search funds that acquired businesses in growing, fragmented industries with recurring revenue models and high switching costs consistently outperformed those in cyclical or commoditized sectors. Asurion&rsquo;s extraordinary outcome was driven primarily by the explosive growth of the wireless device market, which amplified every operational improvement. The Stanford data shows that post-acquisition operational execution, professionalizing financial reporting, building management teams, and implementing growth initiatives, is the second most important factor. Searchers who paid disciplined multiples (4-5x EBITDA) and invested in people before pursuing growth consistently generated the strongest risk-adjusted returns.
+        </p>
+
+        <h3 className={h3Class}>How common are buy-and-build strategies in successful search funds?</h3>
+        <p>
+          Buy-and-build strategies have become increasingly prevalent among top-performing search funds. The Stanford data indicates that approximately 25-30% of search fund CEOs execute at least one add-on acquisition during the hold period, and those who do tend to generate meaningfully higher MOICs than single-acquisition operators. The most successful buy-and-build operators follow a disciplined pattern: stabilize the platform acquisition for 12-18 months, build a strong management team, then pursue bolt-on acquisitions at 3-4x EBITDA that can be integrated into the existing platform. The combined entity often exits at 7-10x EBITDA, capturing both operational improvement and{" "}
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">multiple arbitrage</Link>. Key sectors for successful roll-ups include business services, healthcare, and technology-enabled services.
+        </p>
+
+        <h3 className={h3Class}>Are European and Latin American search fund success stories comparable to US outcomes?</h3>
+        <p>
+          According to IESE Business School&rsquo;s International Search Fund Study, European and Latin American search funds have generated aggregate returns comparable to their US counterparts, with median IRRs in the 25-35% range. European success stories are concentrated in Spain, France, and Germany, where lower acquisition multiples (3-5x EBITDA versus 5-7x in the US) and a massive baby boomer succession wave create favorable conditions. Latin American search funds, particularly in Colombia and Mexico, benefit from even lower multiples (3-4x) and limited institutional competition. The key difference is that non-US markets are earlier in the adoption curve, meaning fewer proven exits but greater first-mover opportunity. For a detailed comparison, see our guide to{" "}
+          <Link href="/learn/eta-europe" className="text-apple-accent hover:underline">ETA in Europe</Link>.
+        </p>
+
+        <h2 className={h2Class}>Sources</h2>
+        <ul className={ulClass}>
+          <li>
+            <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Stanford Graduate School of Business, 2024 Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              IESE Business School, International Search Fund Study
+            </a>
+          </li>
+          <li>
+            <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=41308" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">
+              Harvard Business School, Search Fund Primer (Ruback &amp; Yudkoff)
+            </a>
+          </li>
+        </ul>
       </div>
     </article>
   );

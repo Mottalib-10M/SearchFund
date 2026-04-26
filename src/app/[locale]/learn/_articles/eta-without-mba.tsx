@@ -19,7 +19,11 @@ export default function ETAWithoutMBAArticle() {
         </p>
 
         <p>
-          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and leveraged that experience to acquire and operate businesses. As the search fund ecosystem matures and diversifies, alternative paths into ETA are not just possible—they're becoming increasingly common and, in some cases, advantageous.
+          The reality is that many successful searchers have never set foot in an MBA classroom. They've built careers in operations, sales, engineering, or industry-specific roles and used that experience to acquire and operate businesses. As the{" "}
+          <Link href="/learn/search-fund-history" className="text-apple-accent hover:underline">
+            search fund ecosystem
+          </Link>{" "}
+          matures and diversifies, alternative paths into ETA are not just possible, they're becoming increasingly common and, in some cases, advantageous.
         </p>
 
         <p>
@@ -47,7 +51,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            The MBA advantage is primarily about networks and signaling. Business schools provide access to wealthy alumni investors and lend credibility through institutional endorsement. But these advantages can be replicated through alternative paths—it just requires more intentional networking and credibility-building.
+            The MBA advantage is primarily about networks and signaling. Business schools provide access to wealthy alumni investors and lend credibility through institutional endorsement. But these advantages can be replicated through alternative paths; it just requires more intentional networking and credibility-building.
           </p>
         </div>
       </section>
@@ -56,7 +60,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Data: Non-MBA Searchers Are Growing</h2>
         <div className={bodyClass}>
           <p>
-            While comprehensive data on non-MBA searchers remains limited (most studies focus on traditional search funds), several trends indicate significant growth in alternative pathways:
+            While thorough data on non-MBA searchers remains limited (most studies focus on traditional search funds), several trends indicate significant growth in alternative pathways:
           </p>
 
           <p>
@@ -64,7 +68,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Industry-specific search funds are becoming more common. Rather than generalist MBA searchers looking broadly across industries, experienced operators are conducting focused searches in sectors where they have deep expertise—healthcare, manufacturing, software, home services, and more. These searchers often have undergraduate degrees in relevant fields (engineering, nursing, computer science) rather than MBAs.
+            Industry-specific search funds are becoming more common. Rather than generalist MBA searchers looking broadly across industries, experienced operators are conducting focused searches in sectors where they have deep expertise: healthcare, manufacturing, software, home services, and more. These searchers often have undergraduate degrees in relevant fields (engineering, nursing, computer science) rather than MBAs.
           </p>
 
           <p>
@@ -105,7 +109,10 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Many self-funded searchers also structure deals with significant seller financing or earnouts, reducing the amount of investor capital needed and making fundraising more feasible without traditional networks. Some complete acquisitions with entirely personal capital, SBA loans, and seller notes, eliminating investor fundraising altogether.
+            Many self-funded searchers also structure deals with significant{" "}
+            <Link href="/learn/creative-financing" className="text-apple-accent hover:underline">
+              seller financing or earnouts
+            </Link>, reducing the amount of investor capital needed and making fundraising more feasible without traditional networks. Some complete acquisitions with entirely personal capital, SBA loans, and seller notes, eliminating investor fundraising altogether.
           </p>
         </div>
       </section>
@@ -126,7 +133,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Post-acquisition, industry knowledge becomes even more critical. The first 100 days of ownership are crucial for establishing credibility with employees, customers, and suppliers. An owner who speaks the industry language, understands operational challenges, and brings relevant experience gains trust far more quickly than someone learning on the job.
+            Post-acquisition, industry knowledge becomes even more critical. The first 100 days of ownership are critical for establishing credibility with employees, customers, and suppliers. An owner who speaks the industry language, understands operational challenges, and brings relevant experience gains trust far more quickly than someone learning on the job.
           </p>
 
           <p>
@@ -143,7 +150,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Building an Investor Network Without a School Brand</h2>
         <div className={bodyClass}>
           <p>
-            The primary advantage of top-tier MBA programs for search funds is access to wealthy alumni investors. But investor networks can be built through alternative means—it simply requires more proactive effort and strategic networking.
+            The primary advantage of top-tier MBA programs for search funds is access to wealthy alumni investors. But investor networks can be built through alternative means; it simply requires more proactive effort and strategic networking.
           </p>
 
           <p>
@@ -151,7 +158,10 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Search fund conferences and accelerators provide concentrated networking opportunities. Events like the International Search Fund Summit, the Entrepreneurship Through Acquisition Summit, and regional ETA gatherings attract active search fund investors. Attending these events, presenting your search thesis, and building relationships can replicate the network benefits of business school.
+            <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
+              Search fund conferences
+            </Link>{" "}
+            and accelerators provide concentrated networking opportunities. Events like the International Search Fund Summit, the Entrepreneurship Through Acquisition Summit, and regional ETA gatherings attract active search fund investors. Attending these events, presenting your search thesis, and building relationships can replicate the network benefits of business school.
           </p>
 
           <p>
@@ -196,7 +206,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Books and case studies provide foundational knowledge. Reading comprehensive resources like "HBR Guide to Buying a Small Business," studying published case studies from business schools, and following search fund blogs and podcasts can build a solid conceptual foundation. The Stanford Search Fund Study reports are freely available and provide valuable industry data and insights.
+            Books and case studies provide foundational knowledge. Reading thorough resources like "HBR Guide to Buying a Small Business," studying published case studies from business schools, and following search fund blogs and podcasts can build a solid conceptual foundation. The Stanford Search Fund Study reports are freely available and provide valuable industry data and insights.
           </p>
 
           <p>
@@ -204,11 +214,11 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Professional service providers—attorneys, accountants, SBA lenders, quality of earnings providers—also serve educational roles. Informational interviews with these specialists, attending their workshops or webinars, and building relationships early in your search process provides practical knowledge about acquisition mechanics.
+            Professional service providers (attorneys, accountants, SBA lenders, quality of earnings providers) also serve educational roles. Informational interviews with these specialists, attending their workshops or webinars, and building relationships early in your search process provides practical knowledge about acquisition mechanics.
           </p>
 
           <p>
-            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities—courses, reading, mentorship, practical application—to build comprehensive knowledge without a formal MBA program.
+            The key is being intentional and systematic about your education. Create a learning plan that covers essential topics: financial analysis, deal structuring, due diligence, operations management, and fundraising. Combine multiple learning modalities (courses, reading, mentorship, practical application) to build thorough knowledge without a formal MBA program.
           </p>
         </div>
       </section>
@@ -222,7 +232,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Operations and Execution</h3>
           <p>
-            The ability to run and improve a business day-to-day matters more than strategic frameworks. Investors want to see evidence that you can manage people, drive sales, improve processes, and solve operational problems. Direct operating experience—managing teams, running P&Ls, implementing improvements—provides more credible signals than classroom learning.
+            The ability to run and improve a business day-to-day matters more than strategic frameworks. Investors want to see evidence that you can manage people, drive sales, improve processes, and solve operational problems. Direct operating experience (managing teams, running P&Ls, implementing improvements) provides more credible signals than classroom learning.
           </p>
 
           <p>
@@ -231,7 +241,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Sales and Business Development</h3>
           <p>
-            Most small businesses require active customer acquisition and relationship management. The ability to sell—whether to customers, investors, sellers, or employees—is fundamental to search fund success. Sales experience, particularly in B2B or relationship-driven contexts, is enormously valuable.
+            Most small businesses require active customer acquisition and relationship management. The ability to sell - whether to customers, investors, sellers, or employees - is fundamental to search fund success. Sales experience, particularly in B2B or relationship-driven contexts, is enormously valuable.
           </p>
 
           <p>
@@ -258,7 +268,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Leadership and People Management</h3>
           <p>
-            Successfully operating an acquired business requires leading employees through transition, maintaining culture, and driving performance. Prior management experience—supervising teams, coaching employees, handling difficult personnel situations—is direct evidence of this capability.
+            Successfully operating an acquired business requires leading employees through transition, maintaining culture, and driving performance. Prior management experience (supervising teams, coaching employees, handling difficult personnel situations) is direct evidence of this capability.
           </p>
 
           <p>
@@ -267,7 +277,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Resilience and Grit</h3>
           <p>
-            Search funds are long, difficult journeys with frequent rejection and setbacks. Both the search process and post-acquisition ownership require persistence, emotional resilience, and work ethic. Life experiences—military service, entrepreneurial ventures, challenging career situations—can demonstrate these qualities as effectively as educational pedigree.
+            Search funds are long, difficult journeys with frequent rejection and setbacks. Both the search process and post-acquisition ownership require persistence, emotional resilience, and work ethic. Life experiences (military service, entrepreneurial ventures, challenging career situations) can demonstrate these qualities as effectively as educational pedigree.
           </p>
 
           <p>
@@ -307,12 +317,12 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            When she identified a distribution business in an industry adjacent to her sales background, she structured the deal with substantial seller financing and an SBA loan, requiring minimal investor capital. Her sales skills proved crucial both in negotiating with the seller and in growing the business post-acquisition through improved customer acquisition systems.
+            When she identified a distribution business in an industry adjacent to her sales background, she structured the deal with substantial seller financing and an SBA loan, requiring minimal investor capital. Her sales skills proved critical both in negotiating with the seller and in growing the business post-acquisition through improved customer acquisition systems.
           </p>
 
           <h3 className={h3Class}>The International Searcher</h3>
           <p>
-            A European with a background in private equity and corporate finance pursued search fund acquisition without an MBA. He leveraged connections from his finance career to raise a small search fund focused on manufacturing businesses in his home country.
+            A European with a background in private equity and corporate finance pursued search fund acquisition without an MBA. He used connections from his finance career to raise a small search fund focused on manufacturing businesses in his home country.
           </p>
 
           <p>
@@ -320,7 +330,7 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            These examples share common themes: leveraging existing expertise, being creative about funding and networking, focusing on industries where backgrounds provide advantages, and demonstrating capabilities through results rather than credentials.
+            These examples share common themes: using existing expertise, being creative about funding and networking, focusing on industries where backgrounds provide advantages, and demonstrating capabilities through results rather than credentials.
           </p>
         </div>
       </section>
@@ -329,7 +339,7 @@ export default function ETAWithoutMBAArticle() {
         <h2 className={h2Class}>Raising Capital Without the Pedigree</h2>
         <div className={bodyClass}>
           <p>
-            Traditional search fund investors who write checks based primarily on pedigree—Harvard MBA, prior consulting or banking experience—do exist. But many investors take a more nuanced approach, particularly when evaluating self-funded searchers with specific deals.
+            Traditional search fund investors who write checks based primarily on pedigree - Harvard MBA, prior consulting or banking experience - do exist. But many investors take a more detailed approach, particularly when evaluating self-funded searchers with specific deals.
           </p>
 
           <p>
@@ -338,7 +348,7 @@ export default function ETAWithoutMBAArticle() {
 
           <h3 className={h3Class}>Lead with the Deal, Not Yourself</h3>
           <p>
-            Present investment opportunities rather than asking investors to bet on you personally. Once you have a specific business under LOI, your pitch centers on the company's quality, market position, and growth opportunity. Your role is explaining why you're the right operator for that specific business—a much easier case to make than defending general qualifications.
+            Present investment opportunities rather than asking investors to bet on you personally. Once you have a specific business under LOI, your pitch centers on the company's quality, market position, and growth opportunity. Your role is explaining why you're the right operator for that specific business, which is a much easier case to make than defending general qualifications.
           </p>
 
           <h3 className={h3Class}>Target Industry-Aligned Investors</h3>
@@ -424,7 +434,7 @@ export default function ETAWithoutMBAArticle() {
             Throughout your search, work on building credibility through content creation (write about your industry insights), speaking or presenting at industry events, building your personal brand and LinkedIn presence, collecting testimonials and references from professional contacts, and demonstrating thought leadership in your target industry.
           </p>
 
-          <h3 className={h3Class}>Step 9: Leverage Your Advantages</h3>
+          <h3 className={h3Class}>Step 9: Use Your Advantages</h3>
           <p>
             Use your industry expertise, operational experience, and practical knowledge as differentiators. When speaking with sellers, emphasize your ability to understand and operate their specific type of business. When speaking with investors, focus on how your background reduces execution risk.
           </p>
@@ -435,7 +445,49 @@ export default function ETAWithoutMBAArticle() {
           </p>
 
           <p>
-            Remember that the goal isn't to prove that MBAs are unnecessary—it's to demonstrate that multiple paths exist into ETA, and industry expertise combined with intentional skill-building and networking can be equally or more effective than business school credentials. The search fund ecosystem is becoming more diverse and meritocratic, creating opportunities for those willing to forge their own paths.
+            Remember that the goal isn't to prove that MBAs are unnecessary - it's to demonstrate that multiple paths exist into ETA, and industry expertise combined with intentional skill-building and networking can be equally or more effective than business school credentials. The search fund ecosystem is becoming more diverse and meritocratic, creating opportunities for those willing to forge their own paths.
+          </p>
+        </div>
+      </section>
+
+      <section className="mt-12">
+        <h2 className={h2Class}>Frequently Asked Questions</h2>
+        <div className={bodyClass}>
+          <h3 className={h3Class}>Can you do a search fund without an MBA?</h3>
+          <p>
+            Yes. While roughly 70% of traditional searchers have MBAs, the
+            self-funded search model is particularly well-suited for non-MBA
+            professionals. Industry expertise (5-10+ years in a target
+            sector), operational experience, and personal savings or{" "}
+            <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
+              SBA financing
+            </Link>{" "}
+            can replace the MBA advantage. ETA accelerators also provide
+            structured curriculum and investor introductions outside of business
+            school.
+          </p>
+
+          <h3 className={h3Class}>How do non-MBA searchers raise capital?</h3>
+          <p>
+            Non-MBA searchers typically take one of four approaches: (1)
+            self-fund the search using personal savings, (2) use SBA 7(a) loans
+            for acquisition financing so no investor equity is needed, (3) build
+            investor relationships through{" "}
+            <Link href="/learn/search-fund-conferences" className="text-apple-accent hover:underline">
+              ETA conferences
+            </Link>, accelerators, and direct outreach, or (4) use deep
+            industry expertise to attract investors who value domain knowledge
+            over school brand.
+          </p>
+
+          <h3 className={h3Class}>What industries are best for non-MBA searchers?</h3>
+          <p>
+            Industries where operational or technical expertise matters more
+            than generalist business skills tend to favour non-MBA searchers.
+            Healthcare, specialized manufacturing, software, and professional
+            services all reward deep domain knowledge. A 15-year healthcare
+            veteran evaluating a medical practice acquisition has a credibility
+            advantage over an MBA generalist, regardless of school pedigree.
           </p>
         </div>
       </section>

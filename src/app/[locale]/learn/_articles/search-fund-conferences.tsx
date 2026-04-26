@@ -9,7 +9,7 @@ export default function SearchFundConferencesArticle() {
       </h1>
 
       <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
-        A comprehensive guide to the most valuable conferences, events, and networking opportunities in the entrepreneurship through acquisition ecosystem.
+        A thorough guide to the most valuable conferences, events, and networking opportunities in the entrepreneurship through acquisition ecosystem.
       </p>
 
       <div className="bg-blue-50 dark:bg-blue-900/20 border-l-4 border-blue-500 p-6 mb-8">
@@ -28,7 +28,10 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The value proposition is straightforward: the ETA community is remarkably concentrated. A single conference can put you in front of 60% of active search fund investors, hundreds of fellow searchers at various stages, and brokers with off-market deal flow. The density of relevant connections per hour is unmatched by any other networking format.
+        The value proposition is straightforward: the ETA community is remarkably concentrated. A single conference can put you in front of 60% of active{" "}
+        <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">
+          search fund investors
+        </Link>, hundreds of fellow searchers at various stages, and brokers with off-market deal flow. The density of relevant connections per hour is unmatched by any other networking format.
       </p>
 
       <p className={bodyClass}>
@@ -40,7 +43,10 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges—from hiring their first CFO to implementing ERP systems—provides invaluable support and pattern recognition.
+        Post-acquisition, conferences become about operator peer groups and strategic discussions. Running a small company can be isolating, and connecting with other searcher-CEOs facing similar challenges, from hiring their first CFO to implementing{" "}
+        <Link href="/learn/erp-implementation-post-acquisition" className="text-apple-accent hover:underline">
+          ERP systems
+        </Link>{" "},  provides invaluable support and pattern recognition.
       </p>
 
       <h2 className={h2Class}>The Big Three: Stanford, IESE, MIT</h2>
@@ -74,7 +80,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The IESE conference attracts 300-400 attendees with a strong European investor base, though US investors with international portfolios also attend. The format is similar to Stanford—panels, case studies, networking sessions—but with greater emphasis on cross-border deals and European regulatory environments.
+        The IESE conference attracts 300-400 attendees with a strong European investor base, though US investors with international portfolios also attend. The format is similar to Stanford - panels, case studies, networking sessions - but with greater emphasis on cross-border deals and European regulatory environments.
       </p>
 
       <p className={bodyClass}>
@@ -82,7 +88,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The Barcelona location is a draw—many attendees extend their trips to explore the city or combine attendance with business development travel elsewhere in Europe. The networking atmosphere tends to be slightly more relaxed than Stanford while maintaining high professional value.
+        The Barcelona location is a draw - many attendees extend their trips to explore the city or combine attendance with business development travel elsewhere in Europe. The networking atmosphere tends to be slightly more relaxed than Stanford while maintaining high professional value.
       </p>
 
       <h3 className={h3Class}>MIT Entrepreneurship Conference</h3>
@@ -92,7 +98,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The value here is in the diversity of perspectives—you'll interact with traditional entrepreneurs, innovation-focused investors, and acquisition entrepreneurs. This cross-pollination of ideas often sparks creative approaches to search and operations.
+        The value here is in the diversity of perspectives - you'll interact with traditional entrepreneurs, innovation-focused investors, and acquisition entrepreneurs. This cross-pollination of ideas often sparks creative approaches to search and operations.
       </p>
 
       <p className={bodyClass}>
@@ -108,7 +114,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The conference excels at practical, tactical content—less theory, more "here's how I actually closed my deal" presentations. It's particularly strong on operational topics for searchers who have already acquired companies.
+        The conference excels at practical, tactical content - less theory, more "here's how I actually closed my deal" presentations. It's particularly strong on operational topics for searchers who have already acquired companies.
       </p>
 
       <h3 className={h3Class}>University of Chicago Search Fund Symposium</h3>
@@ -124,7 +130,7 @@ export default function SearchFundConferencesArticle() {
       <h3 className={h3Class}>Harvard Business School ETA Conference</h3>
 
       <p className={bodyClass}>
-        HBS hosts an annual conference focused on acquisition entrepreneurship (typically April). While not exclusively search funds, the attendee quality is exceptional—many successful searchers, sophisticated investors, and high-quality service providers.
+        HBS hosts an annual conference focused on acquisition entrepreneurship (typically April). While not exclusively search funds, the attendee quality is exceptional - many successful searchers, sophisticated investors, and high-quality service providers.
       </p>
 
       <p className={bodyClass}>
@@ -138,7 +144,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The value is in the practical, tactical focus—detailed sessions on financing structures, negotiation tactics, and operational playbooks. It's particularly useful for searchers considering <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search strategies</Link>.
+        The value is in the practical, tactical focus - detailed sessions on financing structures, negotiation tactics, and operational playbooks. It's particularly useful for searchers considering <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search strategies</Link>.
       </p>
 
       <h2 className={h2Class}>European Conferences and Events</h2>
@@ -182,11 +188,11 @@ export default function SearchFundConferencesArticle() {
       <h3 className={h3Class}>Nordic Search Fund Gathering</h3>
 
       <p className={bodyClass}>
-        A newer event (launched 2021) rotating between Stockholm, Copenhagen, and Oslo. The Nordic markets have unique characteristics—high business quality, strong governance, but also high valuations and complexity.
+        A newer event (launched 2021) rotating between Stockholm, Copenhagen, and Oslo. The Nordic markets have unique characteristics - high business quality, strong governance, but also high valuations and complexity.
       </p>
 
       <p className={bodyClass}>
-        This event is particularly valuable for understanding how to navigate Nordic business culture and regulatory environments. Attendees include several successful Nordic searchers who have become informal mentors to newer searchers in the region.
+        This event is particularly valuable for understanding how to manage Nordic business culture and regulatory environments. Attendees include several successful Nordic searchers who have become informal mentors to newer searchers in the region.
       </p>
 
       <h2 className={h2Class}>Latin American ETA Events</h2>
@@ -202,13 +208,13 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        LASFC is particularly strong on topics specific to Latin American searches: currency risk management, cross-border structures, navigating corruption risk, and building management teams in markets with different talent dynamics.
+        LASFC is particularly strong on topics specific to Latin American searches: currency risk management, cross-border structures, managing corruption risk, and building management teams in markets with different talent dynamics.
       </p>
 
       <h3 className={h3Class}>Brazil ETA Summit</h3>
 
       <p className={bodyClass}>
-        Held in São Paulo (typically August), this event focuses specifically on the massive Brazilian market. With 200+ million people and a fragmented SMB landscape, Brazil represents significant opportunity for searchers who understand the market.
+        Held in São Paulo (typically August), this event focuses specifically on the massive Brazilian market. With 200+ million people and a fragmented SMB market, Brazil represents significant opportunity for searchers who understand the market.
       </p>
 
       <p className={bodyClass}>
@@ -234,7 +240,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Past topics include fundraising in difficult markets, operational improvements in the first year post-acquisition, and navigating add-on acquisitions. Recordings are typically available on Stanford's website.
+        Past topics include fundraising in difficult markets, operational improvements in the first year post-acquisition, and managing add-on acquisitions. Recordings are typically available on Stanford's website.
       </p>
 
       <h3 className={h3Class}>Search Funder Monthly Calls</h3>
@@ -266,7 +272,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        The format is simple: dinner at a restaurant, informal updates around the table, and open discussion of current challenges. Many searchers credit these dinners with providing crucial support during difficult phases of their searches.
+        The format is simple: dinner at a restaurant, informal updates around the table, and open discussion of current challenges. Many searchers credit these dinners with providing critical support during difficult phases of their searches.
       </p>
 
       <h3 className={h3Class}>New York Search Fund Breakfast Club</h3>
@@ -300,7 +306,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>Before the conference:</strong> Review the attendee list if provided. Identify 10-15 specific people you want to meet—investors whose thesis matches your search, searchers in your target industry, successful searcher-CEOs who might become mentors. Email them two weeks before to schedule coffee or breakfast meetings.
+        <strong>Before the conference:</strong> Review the attendee list if provided. Identify 10-15 specific people you want to meet - investors whose thesis matches your search, searchers in your target industry, successful searcher-CEOs who might become mentors. Email them two weeks before to schedule coffee or breakfast meetings.
       </p>
 
       <p className={bodyClass}>
@@ -312,7 +318,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        <strong>During the conference:</strong> Attend the keynotes and panels, but recognize that the real value is in the hallway conversations and coffee breaks. Don't be the person on their laptop during breaks—that's prime networking time.
+        <strong>During the conference:</strong> Attend the keynotes and panels, but recognize that the real value is in the hallway conversations and coffee breaks. Don't be the person on their laptop during breaks - that's prime networking time.
       </p>
 
       <p className={bodyClass}>
@@ -320,7 +326,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Be generous with introductions. If you meet an investor looking for healthcare deals and you know another searcher focused on healthcare, make the introduction. The search fund community operates on reciprocity—the help you provide will return to you.
+        Be generous with introductions. If you meet an investor looking for healthcare deals and you know another searcher focused on healthcare, make the introduction. The search fund community operates on reciprocity - the help you provide will return to you.
       </p>
 
       <p className={bodyClass}>
@@ -328,7 +334,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Schedule the follow-up calls immediately. Don't leave it vague—propose specific times. Calendar invites are your friend.
+        Schedule the follow-up calls immediately. Don't leave it vague - propose specific times. Calendar invites are your friend.
       </p>
 
       <p className={bodyClass}>
@@ -342,11 +348,11 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        First, recognize that everyone was new once. The search fund community is remarkably welcoming to newcomers who demonstrate genuine interest and preparation. People want to help—they remember being in your position.
+        First, recognize that everyone was new once. The search fund community is remarkably welcoming to newcomers who demonstrate genuine interest and preparation. People want to help - they remember being in your position.
       </p>
 
       <p className={bodyClass}>
-        Start conversations with specific questions rather than generic openers. "What's your search focus?" is fine but forgettable. "I noticed you're searching in B2B services—I'm trying to understand how you evaluate customer concentration risk in that sector" shows preparation and invites substantive discussion.
+        Start conversations with specific questions rather than generic openers. "What's your search focus?" is fine but forgettable. "I noticed you're searching in B2B services - I'm trying to understand how you evaluate customer concentration risk in that sector" shows preparation and invites substantive discussion.
       </p>
 
       <p className={bodyClass}>
@@ -358,7 +364,7 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Find a conference buddy—another first-timer or someone you've connected with online. Having one person you know makes it easier to approach groups and navigate social situations.
+        Find a conference buddy - another first-timer or someone you've connected with online. Having one person you know makes it easier to approach groups and manage social situations.
       </p>
 
       <p className={bodyClass}>
@@ -431,16 +437,53 @@ export default function SearchFundConferencesArticle() {
       </p>
 
       <p className={bodyClass}>
-        Budget for 2-3 major conferences annually plus local events. A typical budget might be: Stanford (essential), one regional or industry-specific conference, one European conference if relevant to your search, plus quarterly local meetups. Total annual cost including travel: $5,000-8,000.
+        Budget for 2-3 major conferences annually plus local events. A typical budget might be: Stanford (essential), one regional or industry-specific conference, one European conference if relevant to your search, plus quarterly local meetups. Total annual cost including travel: $5,000-8,000. Factor this into your{" "}
+        <Link href="/learn/financial-runway-planning" className="text-apple-accent hover:underline">
+          financial runway planning
+        </Link>.
+      </p>
+
+      <h2 className={h2Class}>Frequently Asked Questions</h2>
+
+      <h3 className={h3Class}>What are the most important search fund conferences to attend?</h3>
+      <p className={bodyClass}>
+        The three flagship ETA conferences are the Stanford Search Fund
+        Conference (February, Palo Alto), the IESE International Search Fund
+        Conference (May/June, Barcelona), and the MIT Entrepreneurship
+        Conference (March, Cambridge). If you can only attend one event per
+        year, prioritize Stanford for its unmatched investor density.
+      </p>
+
+      <h3 className={h3Class}>How much does it cost to attend ETA conferences?</h3>
+      <p className={bodyClass}>
+        Registration fees range from $300-$600 per conference for
+        searchers, with student discounts often available. When you factor in
+        travel, accommodation, and meals, budget $1,500-$2,500 per
+        conference or $5,000-$8,000 annually for 2-3 major events
+        plus local meetups. Consider this a high-ROI investment, many
+        searchers trace their investor commitments and deal flow directly to
+        conference connections.
+      </p>
+
+      <h3 className={h3Class}>How should a first-time attendee prepare for a search fund conference?</h3>
+      <p className={bodyClass}>
+        Review the attendee list and identify 10-15 specific people you
+        want to meet. Prepare a 60-second elevator pitch covering your
+        background, search focus, and current status. Set concrete goals
+        (e.g., &ldquo;schedule follow-up calls with three investors&rdquo;).
+        Attend social events even if you are introverted, the dinners
+        and receptions are where the deepest relationships form. Follow up
+        within 48 hours with personalized emails referencing specific
+        conversation points.
       </p>
 
       <h2 className={h2Class}>Sources</h2>
 
       <ul className={ulClass}>
         <li>
-          Stanford Graduate School of Business, Center for Entrepreneurial Studies —{" "}
+          Stanford Graduate School of Business, Center for Entrepreneurial Studies - {" "}
           <a
-            href="https://www.gsb.stanford.edu/ces/search-funds"
+            href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -449,9 +492,9 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          IESE Business School —{" "}
+          IESE Business School - {" "}
           <a
-            href="https://www.iese.edu/faculty-research/centers/search-funds/"
+            href="https://www.iese.edu/entrepreneurship/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -460,7 +503,7 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          Search Fund Accelerator —{" "}
+          Search Fund Accelerator - {" "}
           <a
             href="https://www.searchfundaccelerator.com"
             target="_blank"
@@ -471,7 +514,7 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          MIT Entrepreneurship & Innovation —{" "}
+          MIT Entrepreneurship & Innovation - {" "}
           <a
             href="https://entrepreneurship.mit.edu/"
             target="_blank"
@@ -482,7 +525,7 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          Harvard Business School —{" "}
+          Harvard Business School - {" "}
           <a
             href="https://www.hbs.edu/entrepreneurship/"
             target="_blank"
@@ -493,7 +536,7 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          Search Funder Community —{" "}
+          Search Funder Community - {" "}
           <a
             href="https://www.searchfunder.com"
             target="_blank"
@@ -504,9 +547,9 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          University of Washington Foster School of Business —{" "}
+          University of Washington Foster School of Business - {" "}
           <a
-            href="https://foster.uw.edu/centers/buerk-center/"
+            href="https://foster.uw.edu/centers/buerk-ctr-entrepreneurship/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
@@ -515,9 +558,9 @@ export default function SearchFundConferencesArticle() {
           </a>
         </li>
         <li>
-          Chicago Booth —{" "}
+          Chicago Booth - {" "}
           <a
-            href="https://www.chicagobooth.edu/research/polsky"
+            href="https://polsky.uchicago.edu/tag/search-funds/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"
