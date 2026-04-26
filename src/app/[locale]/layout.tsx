@@ -10,6 +10,7 @@ import AuthSessionProvider from "@/components/providers/SessionProvider";
 import GoogleAnalytics from "@/components/providers/GoogleAnalytics";
 import CookieBanner from "@/components/consent/CookieBanner";
 import { safeJsonLd, organizationSchema, webSiteSchema } from "@/lib/json-ld";
+import SetHtmlLang from "@/components/providers/SetHtmlLang";
 
 const locales = routing.locales;
 
@@ -60,8 +61,9 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className="h-full antialiased" suppressHydrationWarning>
-      <head>
+    <NextIntlClientProvider messages={messages}>
+      <AuthSessionProvider>
+        <SetHtmlLang locale={locale} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: safeJsonLd(organizationSchema()) }}
@@ -70,19 +72,13 @@ export default async function LocaleLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: safeJsonLd(webSiteSchema()) }}
         />
-      </head>
-      <body className="min-h-full flex flex-col font-sans" suppressHydrationWarning>
-        <NextIntlClientProvider messages={messages}>
-          <AuthSessionProvider>
-            <ScrollToTop />
-            <Navbar />
-            <main className="min-h-screen pt-14">{children}</main>
-            <ConditionalFooter />
-            <CookieBanner />
-            <GoogleAnalytics />
-          </AuthSessionProvider>
-        </NextIntlClientProvider>
-      </body>
-    </html>
+        <ScrollToTop />
+        <Navbar />
+        <main className="min-h-screen pt-14">{children}</main>
+        <ConditionalFooter />
+        <CookieBanner />
+        <GoogleAnalytics />
+      </AuthSessionProvider>
+    </NextIntlClientProvider>
   );
 }

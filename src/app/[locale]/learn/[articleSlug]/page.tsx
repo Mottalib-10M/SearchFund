@@ -7,6 +7,8 @@ import {
   articleComponents,
   categorySlugMap,
   getRelatedArticles,
+  getPhaseForArticle,
+  PHASE_INFO,
 } from "../_articles/article-registry";
 import {
   frArticles,
@@ -118,6 +120,26 @@ export default async function ArticlePage({ params }: Props) {
           )}
         </>
       )}
+
+      {/* Phase badge */}
+      {enArticleData && (() => {
+        const phaseId = getPhaseForArticle(enArticleData);
+        const phase = PHASE_INFO.find((p) => p.id === phaseId);
+        const phaseLabel: Record<string, string> = {
+          prepare: "Prepare", fundraise: "Fundraise", search: "Search",
+          acquire: "Acquire", operate: "Operate", exit: "Exit",
+        };
+        return phase ? (
+          <div className="mb-3">
+            <span
+              className="inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-3 py-1"
+              style={{ color: phase.color, backgroundColor: `${phase.color}10` }}
+            >
+              Phase {phase.number}: {phaseLabel[phase.id]}
+            </span>
+          </div>
+        ) : null;
+      })()}
 
       {/* Breadcrumb */}
       <nav className="text-sm text-apple-gray-500 mb-8">

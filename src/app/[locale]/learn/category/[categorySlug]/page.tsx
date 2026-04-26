@@ -6,6 +6,8 @@ import {
   categoryBySlug,
   categorySlugMap,
   allArticles,
+  categoryToPhase,
+  PHASE_INFO,
 } from "../../_articles/article-registry";
 import { safeJsonLd, collectionPageSchema, breadcrumbSchema } from "@/lib/json-ld";
 import { buildMetadata } from "@/lib/meta-snippets";
@@ -60,6 +62,26 @@ export default async function CategoryPage({ params }: Props) {
           ),
         }}
       />
+      {/* Phase badge */}
+      {(() => {
+        const phaseId = categoryToPhase[categorySlug];
+        const phase = phaseId ? PHASE_INFO.find((p) => p.id === phaseId) : null;
+        const phaseLabel: Record<string, string> = {
+          prepare: "Prepare", fundraise: "Fundraise", search: "Search",
+          acquire: "Acquire", operate: "Operate", exit: "Exit",
+        };
+        return phase ? (
+          <div className="mb-4">
+            <span
+              className="inline-flex items-center gap-1.5 text-xs font-semibold rounded-full px-3 py-1"
+              style={{ color: phase.color, backgroundColor: `${phase.color}10` }}
+            >
+              Phase {phase.number}: {phaseLabel[phase.id]}
+            </span>
+          </div>
+        ) : null;
+      })()}
+
       {/* Breadcrumb */}
       <nav className="text-sm text-apple-gray-500 mb-8">
         <Link href="/learn" className="hover:text-apple-accent">

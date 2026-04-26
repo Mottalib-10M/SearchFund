@@ -12,6 +12,7 @@ import {
 import type { JourneyPhaseData } from "@/data/journey-phases";
 import { allArticles } from "@/app/[locale]/learn/_articles/article-registry";
 import { templates } from "@/app/[locale]/(marketing)/templates/_data";
+import { PhaseCalculator } from "./PhaseCalculators";
 
 interface JourneyPhaseProps {
   phase: JourneyPhaseData;
@@ -44,7 +45,6 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
     <section
       id={phase.id}
       className="scroll-mt-16 py-20 md:py-28"
-      style={{ backgroundColor: isOdd ? "#F5F5F7" : "#FFFFFF" }}
     >
       <div className="mx-auto max-w-5xl px-6">
         {/* ── Header ── */}
@@ -143,6 +143,7 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
                   <li key={tool.slug}>
                     <Link
                       href={`/tools/${tool.slug}`}
+                      target="_blank"
                       className="group flex items-start gap-1.5 text-sm text-apple-black transition-colors hover:text-apple-accent"
                     >
                       <ArrowRight className="mt-0.5 h-3.5 w-3.5 shrink-0 text-apple-gray-300 transition-colors group-hover:text-apple-accent" />
@@ -177,6 +178,7 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
                   <li key={template.slug}>
                     <Link
                       href={`/templates/${template.slug}`}
+                      target="_blank"
                       className="group flex items-start gap-1.5 text-sm text-apple-black transition-colors hover:text-apple-accent"
                     >
                       <ArrowRight className="mt-0.5 h-3.5 w-3.5 shrink-0 text-apple-gray-300 transition-colors group-hover:text-apple-accent" />
@@ -214,6 +216,9 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
             </ul>
           </div>
         </div>
+
+          {/* ── Inline Calculator ── */}
+          <PhaseCalculator phaseId={phase.id} color={phase.color} />
       </div>
     </section>
   );

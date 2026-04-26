@@ -237,7 +237,7 @@ export default function CapTableWidget() {
 
   /* ---------- Render ---------- */
   return (
-    <div className="space-y-8">
+    <div className="rounded-2xl border border-apple-gray-200 bg-white p-6 sm:p-8 space-y-8">
       {/* ------- Inputs ------- */}
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         <Field

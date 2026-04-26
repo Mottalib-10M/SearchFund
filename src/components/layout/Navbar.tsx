@@ -23,9 +23,10 @@ export default function Navbar() {
 
   const navLinks = [
     { href: "/the-eta-journey" as const, label: t("theJourney"), highlight: true },
-    { href: "/listings" as const, label: t("marketplace"), badge: t("soon") },
     { href: "/learn" as const, label: t("learn") },
-    { href: "/community" as const, label: t("community") },
+    { href: "/search-fund-statistics" as const, label: t("statistics") },
+    { href: "/tools" as const, label: t("tools") },
+    { href: "/listings" as const, label: t("marketplace"), badge: t("soon") },
     { href: "/searchers" as const, label: t("searchers") },
     { href: "/investors" as const, label: t("investors") },
   ];

@@ -56,15 +56,8 @@ export default function SearchCapitalWidget() {
 
   return (
     <div className="rounded-2xl border border-apple-gray-200 bg-white p-6 sm:p-8">
-      <h3 className="text-xl font-semibold text-apple-black">
-        Search Capital Calculator
-      </h3>
-      <p className="text-sm text-apple-gray-500 mt-1">
-        Estimate how much capital you need to raise for your search phase.
-      </p>
-
       {/* ---- Inputs ---- */}
-      <div className="mt-6 grid gap-5 sm:grid-cols-2">
+      <div className="grid gap-5 sm:grid-cols-2">
         <InputField
           id="sc-expenses"
           label="Monthly Personal Expenses ($)"

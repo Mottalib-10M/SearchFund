@@ -10,13 +10,13 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "The Complete ETA Journey: Step-by-Step Guide | SearchFundMarket",
+    title: "The 6 Phases of ETA: How to Buy, Run & Exit a Company | SearchFundMarket",
     description:
-      "From preparing your search to exiting your acquired company - the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
+      "Step-by-step guide to Entrepreneurship Through Acquisition (ETA). Learn the 6 phases: prepare, fundraise, search, acquire, operate, and exit. Includes calculators, templates, and expert insights.",
     openGraph: {
-      title: "The Complete ETA Journey: Step-by-Step Guide | SearchFundMarket",
+      title: "The 6 Phases of ETA: How to Buy, Run & Exit a Company | SearchFundMarket",
       description:
-        "From preparing your search to exiting your acquired company - the complete visual guide to Entrepreneurship Through Acquisition. Articles, tools, and templates for every phase.",
+        "Step-by-step guide to Entrepreneurship Through Acquisition (ETA). Learn the 6 phases: prepare, fundraise, search, acquire, operate, and exit. Includes calculators, templates, and expert insights.",
       type: "website",
     },
     alternates: {
@@ -33,9 +33,9 @@ export default function TheEtaJourneyPage() {
   const howToSchema = {
     "@context": "https://schema.org",
     "@type": "HowTo",
-    name: "The Complete ETA Journey: From Corporate Career to CEO",
+    name: "The 6 Phases of Entrepreneurship Through Acquisition (ETA)",
     description:
-      "A step-by-step guide through every phase of Entrepreneurship Through Acquisition - from preparation to exit.",
+      "Step-by-step guide to buying, running, and exiting a company through a search fund. Covers preparation, fundraising, deal sourcing, acquisition, operations, and exit strategies.",
     totalTime: "P7Y",
     step: journeyPhases.map((phase, i) => ({
       "@type": "HowToStep",

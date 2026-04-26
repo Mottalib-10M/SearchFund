@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getTemplateBySlug, getAllTemplateSlugs } from "../_data";
 import { safeJsonLd, breadcrumbSchema } from "@/lib/json-ld";
-import PrintButton from "./PrintButton";
+import TemplateActions from "./PrintButton";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -91,16 +91,17 @@ export default async function TemplatePage({ params }: Props) {
           <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
             {template.title}
           </h1>
-          <div className="mt-3 flex items-center gap-4 text-xs text-apple-gray-500">
-            <time dateTime={template.dateModified}>
-              Updated {formatDate(template.dateModified)}
-            </time>
-            <PrintButton />
+          <p className="mt-2 text-xs text-apple-gray-500">
+            Updated {formatDate(template.dateModified)}
+          </p>
+          <div className="mt-4">
+            <TemplateActions title={template.title} />
           </div>
         </header>
 
         {/* Content */}
         <div
+          id="template-content"
           className="mt-8 prose prose-sm prose-apple max-w-none text-apple-gray-700 leading-relaxed [&_h2]:text-xl [&_h2]:font-semibold [&_h2]:text-apple-black [&_h2]:mt-10 [&_h2]:mb-3 [&_h3]:text-base [&_h3]:font-semibold [&_h3]:text-apple-black [&_h3]:mt-6 [&_h3]:mb-2 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:space-y-1.5 [&_ol]:list-decimal [&_ol]:pl-5 [&_ol]:space-y-1.5 [&_p]:mt-3 [&_li]:text-sm [&_table]:w-full [&_th]:text-left [&_th]:py-2 [&_td]:py-2"
           dangerouslySetInnerHTML={{ __html: template.content }}
         />

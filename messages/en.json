@@ -18,18 +18,25 @@
     "notifications": "Notifications",
     "settings": "Settings",
     "signOut": "Sign out",
-    "theJourney": "The Journey"
+    "theJourney": "The Journey",
+    "statistics": "Statistics",
+    "tools": "Tools"
   },
   "footer": {
+    "platform": "Platform",
     "marketplace": "Marketplace",
     "marketplaceSoon": "Marketplace (Soon)",
     "searchers": "Searchers",
     "investors": "Investors",
     "resources": "Resources",
     "learn": "Learn",
+    "statistics": "Statistics",
+    "tools": "Tools",
+    "templates": "Templates",
     "community": "Community",
     "glossary": "Glossary",
     "company": "Company",
+    "editorialPolicy": "Editorial Policy",
     "about": "About",
     "contact": "Contact",
     "legal": "Legal",
@@ -99,8 +106,8 @@
     "pt": "Português"
   },
   "journey": {
-    "title": "From Corporate Career to CEO: Your Complete ETA Journey",
-    "subtitle": "A step-by-step visual guide through every phase of acquiring and operating a business. Built for searchers, investors, and sellers.",
+    "title": "How to Buy, Run & Exit a Company Through ETA",
+    "subtitle": "A step-by-step roadmap from preparation to exit. Learn what happens at every stage of buying, running, and selling a company through a search fund.",
     "scrollIndicator": "Scroll to explore",
     "articles": "Articles",
     "tools": "Tools",
@@ -109,6 +116,7 @@
     "comingSoon": "Coming soon",
     "readGuide": "Read guide",
     "openTool": "Open tool",
+    "calculator": "Quick calculator",
     "outroTitle": "Ready to start your ETA journey?",
     "outroPrimary": "Start with the fundamentals",
     "outroSecondary": "Browse all guides",
@@ -116,62 +124,62 @@
       "prepare": {
         "title": "Prepare",
         "duration": "2\u20134 months",
-        "tagline": "The phase searchers underestimate \u2014 and the one that determines 80% of the outcome.",
-        "description": "Most searchers underestimate this phase, which determines 80% of the outcome. Preparation is where you decide what type of search fund matches your situation, which industries and geographies you\u2019ll target, and whether you have the financial runway to spend 18\u201324 months on a potentially failed acquisition. According to the 2024 Stanford Search Fund Study, approximately 37% of searchers fail to acquire a company despite a dedicated two-year search \u2014 you need to be financially and psychologically prepared for this outcome.\n\nDuring Prepare, you work on three parallel fronts. First, the personal dimension: runway, spouse alignment, career bridge if the search fails, and the mindset shift from salaried executive to founder-CEO with no paycheck. Second, the strategic dimension: which search fund model fits you (traditional, self-funded, single-sponsor, accelerator-backed), which industries align with your background, and what size of company you target (typically $1\u20133M EBITDA for first-time searchers). Third, the network dimension: building a circle of advisors before you even start \u2014 former searchers, accountants specializing in QoE reviews, M&A lawyers, and a handful of potential investors who have expressed interest.",
+        "tagline": "The phase that determines 80% of the outcome. Most searchers underestimate it.",
+        "description": "Preparation is where you define your search fund model, target industries, and personal financial runway. The 2024 Stanford Search Fund Study shows that 37% of searchers never acquire a company despite a two-year dedicated search. You need to be ready for that outcome.\n\nWork on three fronts simultaneously. Personal: build 18\u201324 months of living expenses, align with your family, and plan a career bridge if the search fails. Strategic: choose your model (traditional, self-funded, accelerator-backed, or single-sponsor), pick 2\u20133 industries that match your background, and define your target company size ($1\u20133M EBITDA for first-time searchers). Network: connect with former searchers, QoE accountants, M&A lawyers, and potential investors before you launch.",
         "quote": "The right motivations for launching a search fund, in my view, are a trifecta of ambition, curiosity, and a keen interest in operational leadership. It offers more than just equity \u2014 it\u2019s about being in charge from start to finish.",
         "pitfall1": "Underestimating the personal runway needed (18\u201324 months with no salary)",
-        "pitfall2": "Choosing an industry you don\u2019t understand deeply",
+        "pitfall2": "Choosing an industry you don\u2019t understand deeply enough",
         "pitfall3": "Launching without any pre-committed investors"
       },
       "fundraise": {
         "title": "Fundraise",
         "duration": "3\u20136 months",
-        "tagline": "Converting your thesis into capital and commitments.",
-        "description": "The fundraising phase transforms your search thesis into committed capital. A typical traditional search fund raises $400,000\u2013$600,000 from 10\u201320 investors, giving each a pro-rata right to invest in the eventual acquisition. The PPM (Private Placement Memorandum) is your business plan \u2014 it needs to communicate your industry thesis, search strategy, deal criteria, and fund economics clearly enough that investors can underwrite both you and your approach.\n\nInvestor selection matters as much as capital raised. Avoid single-investor dependency: if one LP controls more than 30% of your fund, they effectively control your search. Build a balanced cap table with investors who bring domain expertise, deal flow, and operating experience alongside their capital. The legal setup (typically a Delaware LP or LLC, or a Luxembourg SCSp for European funds) and shareholder agreements require M&A counsel experienced in search fund structures. The typical timeline is 4\u20136 months, not the 2 months many optimistic searchers plan for.",
+        "tagline": "Turn your search thesis into committed capital from the right investors.",
+        "description": "A traditional search fund raises $400K\u2013$600K from 10\u201320 investors. Each investor gets a pro-rata right to co-invest in the eventual acquisition. Your PPM (Private Placement Memorandum) must articulate your industry thesis, deal criteria, search strategy, and fund economics clearly enough for investors to underwrite both you and your approach.\n\nInvestor selection matters as much as the capital raised. No single LP should control more than 30% of your fund. Prioritize investors who bring deal flow, sector expertise, and operating experience alongside their capital. Legal setup requires M&A counsel experienced in search fund structures (Delaware LP/LLC in the US, Luxembourg SCSp in Europe). Budget 4\u20136 months for fundraising, not the 2 months most first-time searchers expect.",
         "quote": "Relay was the first investor in my fund and has guided me through this process from fundraising, to searching, to acquiring and running my business. When COVID-19 hit in March 2020 and my deal was in jeopardy, they were my first call. I would not have been able to close my deal without that support.",
-        "pitfall1": "Over-optimistic fundraising timeline (typically 4\u20136 months, not 2)",
-        "pitfall2": "Accepting soft commitments as firm capital",
-        "pitfall3": "Poorly structured vesting that misaligns founder-investor incentives"
+        "pitfall1": "Over-optimistic fundraising timeline (plan for 4\u20136 months, not 2)",
+        "pitfall2": "Treating soft commitments as firm capital",
+        "pitfall3": "Building a cap table that misaligns founder-investor incentives"
       },
       "search": {
         "title": "Search",
         "duration": "12\u201324 months",
-        "tagline": "Where most of your time goes. Where most searches fail.",
-        "description": "The search phase is the longest and most psychologically demanding stage. You will evaluate hundreds of businesses to find the one worth acquiring. Deal sourcing splits into three channels: proprietary outreach (cold emails, cold calls, LinkedIn messages to business owners), intermediated deals (business brokers, M&A advisors), and network-generated leads (accountants, lawyers, wealth managers who advise business owners on succession).\n\nSector specialization dramatically improves your hit rate. Searchers who focus on 2\u20133 industries develop pattern recognition for what a good deal looks like, build deeper broker relationships, and can move faster on opportunities. Your pipeline should maintain 50\u2013100 qualified leads at various stages. Most importantly, manage the emotional complexity: every seller is giving up their life\u2019s work, and deal fatigue after months of near-misses can cloud your judgment on the deals that matter.",
+        "tagline": "The longest phase. You will screen hundreds of businesses to acquire one.",
+        "description": "Deal sourcing runs through three channels: proprietary outreach (cold emails, calls, and LinkedIn messages to owners), intermediated deals (business brokers and M&A advisors), and referral networks (accountants, lawyers, and wealth managers who advise owners on succession planning).\n\nSpecializing in 2\u20133 sectors significantly improves your conversion rate. Focused searchers develop pattern recognition faster, build stronger broker relationships, and move quicker when the right deal appears. Maintain a pipeline of 50\u2013100 qualified leads at all times. The biggest risk in this phase is deal fatigue: months of near-misses can cloud your judgment when a genuinely good opportunity finally surfaces.",
         "quote": "I looked at hundreds, if not thousands of businesses. The search took me a year and eight months. Even if you run the best due diligence process that has ever been run, I strongly suspect you will learn more about your company in the first month inside it than in the eight months outside that preceded it.",
-        "pitfall1": "Falling in love with the first decent target",
+        "pitfall1": "Falling in love with the first decent target you find",
         "pitfall2": "Pipeline too concentrated in one sector or geography",
         "pitfall3": "Neglecting seller relationships after initial outreach"
       },
       "acquire": {
         "title": "Acquire",
         "duration": "3\u20136 months",
-        "tagline": "Where the deal gets real \u2014 or falls apart.",
-        "description": "The acquisition phase compresses months of high-stakes work into a tight timeline. It begins with the Letter of Intent (LOI), which locks in key terms: purchase price, structure (asset vs. stock), financing contingencies, exclusivity period, and working capital peg. Once signed, you enter due diligence \u2014 financial, legal, commercial, and operational \u2014 running in parallel under time pressure.\n\nThe Quality of Earnings (QoE) report is your single most important diligence deliverable: it validates (or challenges) the seller\u2019s EBITDA claims. Financing structure typically layers senior debt (40\u201360% of purchase price, often SBA 7(a) for US deals), equity from your investor group (30\u201350%), and a seller note (10\u201320%). SPA negotiation covers representations, warranties, indemnification caps and baskets, escrow amounts, and post-closing adjustments. Most deals that die in diligence fail because of surprises in working capital, customer concentration, or undisclosed liabilities \u2014 not because of price disagreements.",
+        "tagline": "LOI, due diligence, financing, and close. Where the deal gets real or falls apart.",
+        "description": "It starts with the Letter of Intent (LOI): purchase price, structure (asset vs. stock), financing contingencies, exclusivity, and working capital peg. Once signed, you run financial, legal, commercial, and operational due diligence in parallel under time pressure.\n\nThe Quality of Earnings (QoE) report is your most critical deliverable. It validates or challenges the seller\u2019s EBITDA claims. Financing typically layers senior debt (40\u201360% of the price, often SBA 7(a) in the US), equity from your investors (30\u201350%), and a seller note (10\u201320%). Most deals that die in diligence fail because of surprises in working capital, customer concentration, or undisclosed liabilities, not price disagreements.",
         "quote": "We\u2019ve never had a deal where we closed and not found something weird, hairy, unexpected after close, ever. It\u2019s a form of humility to pay a lower price. It\u2019s a form of humility not to use debt. And it\u2019s a form of humility not to assume that you know what you can do with it post-close.",
-        "pitfall1": "Incomplete or rushed due diligence under time pressure",
-        "pitfall2": "Not having financing lined up before signing the LOI",
-        "pitfall3": "Mis-pricing earnouts (too aggressive or too loose)"
+        "pitfall1": "Rushing due diligence to meet a closing deadline",
+        "pitfall2": "Signing the LOI before financing is lined up",
+        "pitfall3": "Earnout terms that are too aggressive or too vague"
       },
       "operate": {
         "title": "Operate",
         "duration": "3\u20137 years",
-        "tagline": "From deal-maker to operator. The longest phase, the one that creates the value.",
-        "description": "The operate phase is where value is actually created \u2014 and where the searcher\u2019s identity transforms from dealmaker to CEO. The first 100 days are critical: conduct a listening tour with every employee, customer, and supplier before making changes. Quick wins (fixing obvious inefficiencies, addressing long-neglected employee concerns, upgrading financial reporting) build credibility and buy time for larger strategic initiatives.\n\nEmployee retention is your biggest early risk \u2014 research shows 47% of employees leave within the first year after an acquisition. Build trust with the inherited management team before restructuring anything. As you settle in, focus shifts to growth: pricing optimization, sales team development, new customer channels, and potentially bolt-on acquisitions. Board governance with your investors becomes a regular operating rhythm \u2014 monthly financial packages, quarterly board meetings, and annual strategic reviews. This phase typically lasts 3\u20137 years, and it\u2019s where the operator\u2019s skill and persistence determine whether the investment returns 0x or 10x.",
+        "tagline": "From deal-maker to CEO. The phase that creates all the value.",
+        "description": "The first 100 days set the tone. Conduct a listening tour with every employee, customer, and key supplier before making changes. Quick wins (fixing inefficiencies, addressing employee concerns, upgrading financial reporting) build credibility and buy time for bigger initiatives.\n\nRetention is your number one risk: 47% of employees leave within the first year after an acquisition. Build trust with the inherited team before restructuring. Once stabilized, shift to value creation: pricing optimization, sales team development, new customer channels, and bolt-on acquisitions. Establish a governance rhythm with your board (monthly financials, quarterly meetings, annual strategy reviews). This phase typically lasts 3\u20137 years, and it determines whether the investment returns 0x or 10x.",
         "quote": "The importance of my own leadership. This was a shocker, but when you think you\u2019re a great leader, it only means you haven\u2019t set the bar high enough.",
-        "pitfall1": "Moving too fast on changes in the first 90 days",
-        "pitfall2": "Losing key employees the previous owner relied on",
-        "pitfall3": "Under-investing in the management team you inherited"
+        "pitfall1": "Making too many changes in the first 90 days",
+        "pitfall2": "Losing the key employees the previous owner depended on",
+        "pitfall3": "Under-investing in the management team you inherit"
       },
       "exit": {
         "title": "Exit",
         "duration": "6\u201318 months",
-        "tagline": "Preparing for liquidity. Not always a sale \u2014 sometimes a recap, sometimes a hold.",
-        "description": "Exit planning should begin 18\u201324 months before the target liquidity event. The primary exit routes are: strategic sale (to a corporate buyer paying a premium for synergies), financial sale (to a PE firm or another search fund), dividend recapitalization (refinancing to return capital while retaining ownership), or long-term hold (continuing to operate and distribute cash flows).\n\nPreparing the company for sale means getting your house in order: audited or reviewed financials, a management team that can operate without you, documented processes, clean legal structure, and a compelling growth narrative. Vendor due diligence (preparing your own QoE report in advance) accelerates the sell-side process. Whether you hire an investment banker or run a direct process, a competitive auction typically yields 15\u201330% higher valuations than a negotiated single-buyer deal. Post-exit, distributions flow to investors per the waterfall in your original operating agreement, and you face the next question: another search, an investor role, or something entirely new.",
+        "tagline": "Liquidity. A strategic sale, a recap, or a long-term hold. You decide.",
+        "description": "Start exit planning 18\u201324 months before the target event. Four main routes exist: strategic sale (corporate buyer paying a synergy premium), financial sale (PE firm or another search fund), dividend recapitalization (refinance to return capital while keeping the business), or long-term hold (distribute cash flows indefinitely).\n\nPreparing the company for sale means audited financials, a management team that operates independently, documented processes, and a compelling growth story. A competitive auction typically yields 15\u201330% higher valuations than a negotiated single-buyer deal. Post-exit, distributions follow the waterfall in your operating agreement. Then comes the next question: another search, an investor role, or something entirely new.",
         "quote": "The movie in Entrepreneur Land always ends with the exit, but there\u2019s an epilogue. Life goes on, and finding your epilogue \u2014 figuring out how you create new structure, meaning, and identity \u2014 is what it\u2019s all about.",
-        "pitfall1": "Waiting too long to prepare \u2014 exit prep should start 18\u201324 months before",
-        "pitfall2": "Not running a competitive process (leaving money on the table)",
-        "pitfall3": "Poorly structured earnouts that create post-close friction"
+        "pitfall1": "Starting exit prep too late (should begin 18\u201324 months before)",
+        "pitfall2": "Not running a competitive process (leaving 15\u201330% on the table)",
+        "pitfall3": "Earnout structures that create friction after closing"
       }
     }
   }

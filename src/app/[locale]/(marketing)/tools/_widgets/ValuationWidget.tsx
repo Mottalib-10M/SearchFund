@@ -733,18 +733,7 @@ export default function ValuationWidget() {
   const dcfResults = useDCF(dcfInputs);
 
   return (
-    <div className="w-full max-w-4xl mx-auto">
-      {/* Header */}
-      <div className="mb-8">
-        <h2 className="text-2xl font-semibold text-apple-black mb-2">
-          Business Valuation Calculator
-        </h2>
-        <p className="text-sm text-apple-gray-500">
-          Estimate the enterprise value of a business using two complementary
-          methods: comparable multiples and discounted cash flow analysis.
-        </p>
-      </div>
-
+    <div className="w-full max-w-4xl mx-auto rounded-2xl border border-apple-gray-200 bg-white p-6 sm:p-8">
       {/* Tabs */}
       <div className="flex flex-wrap gap-1 bg-apple-gray-100 rounded-xl p-1 mb-8">
         <TabButton

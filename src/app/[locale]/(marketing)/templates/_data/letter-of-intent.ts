@@ -35,12 +35,9 @@ export const letterOfIntent: TemplateMeta = {
     "letter of intent business purchase",
   ],
   content: `
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mb-8">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This template is provided for <strong>educational purposes only</strong> and does not constitute legal advice.
-    Every acquisition is unique. You should engage qualified legal counsel in the relevant jurisdiction before
-    signing any letter of intent. SearchFundMarket accepts no liability for reliance on this template.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-8">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not legal advice. Consult qualified legal counsel before signing any LOI.
   </p>
 </div>
 
@@ -348,14 +345,9 @@ export const letterOfIntent: TemplateMeta = {
   notarization if it references share transfers in a GmbH.
 </p>
 
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mt-10">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This template is provided for <strong>educational purposes only</strong>. It is not a substitute
-    for qualified legal advice. Laws and regulations vary by jurisdiction. Always consult with an
-    attorney licensed in the relevant jurisdiction before entering into any binding or non-binding
-    agreements related to business acquisitions. SearchFundMarket assumes no responsibility for any
-    actions taken based on this template.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mt-10">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not legal advice. Consult qualified legal counsel before signing any LOI.
   </p>
 </div>
 `,

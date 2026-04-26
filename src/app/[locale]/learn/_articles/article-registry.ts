@@ -1793,7 +1793,7 @@ export const allArticles: ArticleMeta[] = [
     dateModified: "2026-04-23",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
-      { name: "Bain & Company", title: "M&A Due Diligence Best Practices", url: "https://www.bain.com/insights/topics/mergers-and-acquisitions/", year: 2024 },
+      { name: "Bain & Company", title: "M&A Due Diligence Best Practices", url: "https://www.bain.com/insights/consulting-services-insights/mergers-and-acquisitions-insights/", year: 2024 },
       { name: "Deloitte", title: "M&A Trends Report", url: "https://www.deloitte.com/us/en/what-we-do/capabilities/mergers-acquisitions-restructuring/articles/m-a-trends-report.html", year: 2024 },
       { name: "McKinsey & Company", title: "Cultural Integration in M&A", url: "https://www.mckinsey.com/capabilities/m-and-a/our-insights", year: 2024 },
     ],
@@ -7069,7 +7069,7 @@ export const allArticles: ArticleMeta[] = [
     sources: [
       { name: "IRS", title: "Publication 542: Corporations & Section 199A QBI Deduction", url: "https://www.irs.gov/publications/p542", year: 2024 },
       { name: "Chicago Booth Review", title: "Tax Benefits of Acquisitions of Privately Held Corporations", url: "https://www.chicagobooth.edu/review/tax-benefits-acquisitions-privately-held-corporations", year: 2024 },
-      { name: "Build LLP", title: "One Big Beautiful Bill Act - Section 199A Analysis", url: "https://www.build.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a", year: 2025 },
+      { name: "Foster Garvey", title: "One Big Beautiful Bill Act - Section 199A Analysis", url: "https://www.foster.com/larry-s-tax-law/one-big-beautiful-bill-act-part-4-qualified-business-income-deduction-code-section-199a", year: 2025 },
       { name: "Acquire.com", title: "Tax Implications of C-Corp Asset Purchase Acquisitions", url: "https://blog.acquire.com/organized-as-a-c-corp-beware-the-tax-implications-of-an-asset-purchase-acquisition/", year: 2024 },
     ],
     faqs: [
@@ -10765,6 +10765,128 @@ export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
   return allArticles
     .filter((a) => a.category === article.category && a.slug !== slug)
     .slice(0, limit);
+}
+
+// ---------------------------------------------------------------------------
+// Phase & audience mappings for the Learn hub
+// ---------------------------------------------------------------------------
+
+export type PhaseId = "prepare" | "fundraise" | "search" | "acquire" | "operate" | "exit";
+export type AudienceId = "all" | "searcher" | "investor" | "seller";
+
+/** Map each category slug → primary ETA phase */
+export const categoryToPhase: Record<string, PhaseId> = {
+  "getting-started": "prepare",
+  "searcher-toolkit": "prepare",
+  "resources": "prepare",
+  "fundraising-investors": "fundraise",
+  "investor-comparisons": "fundraise",
+  "industry-playbooks": "search",
+  "deal-execution": "acquire",
+  "legal-tax": "acquire",
+  "operations-growth": "operate",
+  "research-data": "exit",
+  "regional-guides": "search", // cross-cutting, default to search
+};
+
+/** Map each category slug → relevant audiences */
+export const categoryToAudiences: Record<string, AudienceId[]> = {
+  "getting-started": ["searcher"],
+  "searcher-toolkit": ["searcher"],
+  "resources": ["searcher", "investor"],
+  "fundraising-investors": ["searcher", "investor"],
+  "investor-comparisons": ["searcher", "investor"],
+  "industry-playbooks": ["searcher"],
+  "deal-execution": ["searcher", "seller"],
+  "legal-tax": ["searcher", "seller"],
+  "operations-growth": ["searcher", "seller"],
+  "research-data": ["searcher", "investor"],
+  "regional-guides": ["searcher", "investor"],
+};
+
+/** Phase display info for the Learn hub */
+export interface PhaseInfo {
+  id: PhaseId;
+  number: string;
+  color: string;
+  /** Description shown on the Learn hub */
+  description: string;
+}
+
+export const PHASE_INFO: PhaseInfo[] = [
+  {
+    id: "prepare",
+    number: "01",
+    color: "#5856D6",
+    description: "Understand the ETA model, evaluate your fit, and build the foundations before you start.",
+  },
+  {
+    id: "fundraise",
+    number: "02",
+    color: "#0071E3",
+    description: "Raise search capital, build your investor deck, and structure equity for your fund.",
+  },
+  {
+    id: "search",
+    number: "03",
+    color: "#32ADE6",
+    description: "Source deals, evaluate industries, and build a proprietary pipeline of acquisition targets.",
+  },
+  {
+    id: "acquire",
+    number: "04",
+    color: "#34C759",
+    description: "Execute the deal - from LOI and due diligence to financing, legal structure, and closing.",
+  },
+  {
+    id: "operate",
+    number: "05",
+    color: "#FF9F0A",
+    description: "Run and grow your acquired company - first 100 days, team, revenue, and digital transformation.",
+  },
+  {
+    id: "exit",
+    number: "06",
+    color: "#AF52DE",
+    description: "Prepare for exit - valuations, strategic vs financial sale, and returns analysis.",
+  },
+];
+
+/** Get the phase for an article (based on its category) */
+export function getPhaseForArticle(article: ArticleMeta): PhaseId {
+  const catSlug = categorySlugMap[article.category];
+  return categoryToPhase[catSlug] ?? "prepare";
+}
+
+/** Get the audiences for an article (based on its category) */
+export function getAudiencesForArticle(article: ArticleMeta): AudienceId[] {
+  const catSlug = categorySlugMap[article.category];
+  return categoryToAudiences[catSlug] ?? ["searcher"];
+}
+
+/** Get all articles grouped by phase */
+export function getArticlesByPhase(): Record<PhaseId, ArticleMeta[]> {
+  const result: Record<PhaseId, ArticleMeta[]> = {
+    prepare: [], fundraise: [], search: [], acquire: [], operate: [], exit: [],
+  };
+  for (const article of allArticles) {
+    const phase = getPhaseForArticle(article);
+    result[phase].push(article);
+  }
+  return result;
+}
+
+/** Serializable article for client components */
+export interface ArticleCard {
+  slug: string;
+  title: string;
+  description: string;
+  readTime: string;
+  tag: string;
+  category: string;
+  categorySlug: string;
+  phase: PhaseId;
+  audiences: AudienceId[];
 }
 
 // ---------------------------------------------------------------------------

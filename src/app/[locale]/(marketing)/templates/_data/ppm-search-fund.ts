@@ -40,14 +40,9 @@ export const ppmSearchFund: TemplateMeta = {
     "search fund fundraising document",
   ],
   content: `
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mb-8">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This template is provided for <strong>educational purposes only</strong> and does not constitute legal,
-    financial, or investment advice. A Private Placement Memorandum is a securities offering document that
-    must comply with applicable securities laws (SEC Regulation D in the US, prospectus regulations in the EU,
-    FCA rules in the UK). You <strong>must</strong> engage qualified securities counsel before preparing or
-    distributing a PPM. SearchFundMarket accepts no liability for reliance on this template.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-8">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not legal or investment advice. Consult qualified securities counsel before preparing a PPM.
   </p>
 </div>
 
@@ -409,15 +404,9 @@ export const ppmSearchFund: TemplateMeta = {
   <li>Median aggregate return to investors: 5.1x MOIC, 32.6% IRR</li>
 </ul>
 
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mt-10">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This template is provided for <strong>educational purposes only</strong>. It is not a substitute for
-    qualified legal advice. A PPM is a securities offering document that must comply with applicable
-    federal and state securities laws. Preparing or distributing a PPM without proper legal counsel may
-    violate securities laws and expose you to significant liability. Always engage a securities attorney
-    experienced in private placements before preparing your PPM. SearchFundMarket assumes no
-    responsibility for any actions taken based on this template.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mt-10">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not legal or investment advice. Consult qualified securities counsel before preparing a PPM.
   </p>
 </div>
 `,

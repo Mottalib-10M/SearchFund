@@ -65,7 +65,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "getting-started" },
     ],
     tools: [{ slug: "search-capital-calculator", exists: true }],
-    templates: [],
+    templates: [{ slug: "ppm-search-fund" }],
     quote: {
       textKey: "phases.prepare.quote",
       person: "Fernando Garcia Benavides",
@@ -126,7 +126,10 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "ebitda-multiple-estimator", exists: true },
       { slug: "valuation-calculator", exists: true },
     ],
-    templates: [],
+    templates: [
+      { slug: "letter-of-intent" },
+      { slug: "due-diligence-checklist" },
+    ],
     quote: {
       textKey: "phases.search.quote",
       person: "Steve Divitkos",
@@ -187,7 +190,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "employee-retention-acquisition" },
       { slug: "kpi-dashboard-post-acquisition" },
     ],
-    tools: [{ slug: "kpi-dashboard-builder", exists: false }],
+    tools: [{ slug: "value-creation-simulator", exists: true }],
     templates: [],
     quote: {
       textKey: "phases.operate.quote",
@@ -213,7 +216,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "investment-banker-exit" },
       { slug: "life-after-selling" },
     ],
-    tools: [{ slug: "exit-value-calculator", exists: false }],
+    tools: [{ slug: "exit-returns-calculator", exists: true }],
     templates: [],
     quote: {
       textKey: "phases.exit.quote",

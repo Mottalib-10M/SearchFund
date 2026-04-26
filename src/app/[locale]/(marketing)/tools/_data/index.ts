@@ -36,6 +36,18 @@ export const tools: ToolMeta[] = [
     description: "Value a business using multiples and DCF methods. Compare approaches side by side.",
     ogDescription: "Calculate business valuations using EBITDA multiples and discounted cash flow analysis. Free tool for acquirers.",
   },
+  {
+    slug: "value-creation-simulator",
+    name: "Value Creation Simulator",
+    description: "Model post-acquisition value creation - revenue growth, margin improvement, bolt-on acquisitions, and multiple expansion.",
+    ogDescription: "Simulate post-acquisition value creation for search fund operators. Model EBITDA growth levers, bolt-on acquisitions, and exit enterprise value.",
+  },
+  {
+    slug: "exit-returns-calculator",
+    name: "Exit Returns Calculator",
+    description: "Calculate exit returns across scenarios - financial sale, strategic sale, and dividend recapitalization.",
+    ogDescription: "Model search fund exit returns. Compare financial sale, strategic sale, and dividend recap scenarios with MOIC and IRR analysis.",
+  },
 ];
 
 export function getToolBySlug(slug: string) {

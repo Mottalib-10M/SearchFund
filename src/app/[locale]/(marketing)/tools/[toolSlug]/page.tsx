@@ -8,6 +8,8 @@ import SearchCapitalWidget from "../_widgets/SearchCapitalWidget";
 import CapTableWidget from "../_widgets/CapTableWidget";
 import LBOWidget from "../_widgets/LBOWidget";
 import ValuationWidget from "../_widgets/ValuationWidget";
+import ValueCreationWidget from "../_widgets/ValueCreationWidget";
+import ExitReturnsWidget from "../_widgets/ExitReturnsWidget";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -91,13 +93,21 @@ export default async function ToolPage({ params }: Props) {
         <span className="text-apple-black">{tool.name}</span>
       </nav>
 
-      {/* Educational content */}
-      <EducationalContent slug={toolSlug} />
+      {/* Intro */}
+      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
+        {tool.name}
+      </h1>
+      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
+        {tool.description}
+      </p>
 
       {/* Widget */}
-      <div className="mt-10" id="calculator">
+      <div className="mt-8" id="calculator">
         <ToolWidget slug={toolSlug} />
       </div>
+
+      {/* Educational content */}
+      <EducationalContent slug={toolSlug} />
 
       {/* Footer disclaimer & related links */}
       <ToolFooter slug={toolSlug} locale={locale} />
@@ -121,6 +131,10 @@ function ToolWidget({ slug }: { slug: string }) {
       return <LBOWidget />;
     case "valuation-calculator":
       return <ValuationWidget />;
+    case "value-creation-simulator":
+      return <ValueCreationWidget />;
+    case "exit-returns-calculator":
+      return <ExitReturnsWidget />;
     default:
       return null;
   }
@@ -142,6 +156,10 @@ function EducationalContent({ slug }: { slug: string }) {
       return <LboContent />;
     case "valuation-calculator":
       return <ValuationContent />;
+    case "value-creation-simulator":
+      return <ValueCreationContent />;
+    case "exit-returns-calculator":
+      return <ExitReturnsContent />;
     default:
       return null;
   }
@@ -151,16 +169,8 @@ function EducationalContent({ slug }: { slug: string }) {
 
 function EbitdaContent() {
   return (
-    <article className="prose-sm max-w-none">
-      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
-        EBITDA Multiple Estimator
-      </h1>
-      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
-        Estimate the enterprise value of a private business based on sector,
-        company size, and EBITDA.
-      </p>
-
-      <section className="mt-10 space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
+    <article className="mt-16 max-w-none">
+      <section className="space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
         <h2 className="text-xl font-semibold text-apple-black">
           What Are EBITDA Multiples?
         </h2>
@@ -291,16 +301,8 @@ function EbitdaContent() {
 
 function SearchCapitalContent() {
   return (
-    <article className="prose-sm max-w-none">
-      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
-        Search Capital Calculator
-      </h1>
-      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
-        Plan your search fund raise by estimating personal runway, operating
-        costs, and due diligence reserves.
-      </p>
-
-      <section className="mt-10 space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
+    <article className="mt-16 max-w-none">
+      <section className="space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
         <h2 className="text-xl font-semibold text-apple-black">
           What Is Search Capital?
         </h2>
@@ -433,60 +435,151 @@ function SearchCapitalContent() {
 // ---- Placeholder content for coming-soon tools ----
 
 function CapTableContent() {
-  return (
-    <article className="prose-sm max-w-none">
-      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
-        Cap Table Simulator
-      </h1>
-      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
-        Model search fund economics &mdash; searcher equity, investor returns,
-        step-up, and preferred distributions.
-      </p>
-      <p className="mt-6 text-[15px] text-apple-gray-700">
-        This interactive tool is currently under development. It will allow you
-        to simulate the full cap table of a traditional search fund, including
-        searcher step-up equity, investor preferred returns, and exit waterfall
-        distributions.
-      </p>
-    </article>
-  );
+  return null;
 }
 
 function LboContent() {
+  return null;
+}
+
+function ValuationContent() {
+  return null;
+}
+
+// ---- Value Creation Simulator content ----
+
+function ValueCreationContent() {
   return (
-    <article className="prose-sm max-w-none">
-      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
-        LBO Simulator
-      </h1>
-      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
-        Model leveraged buyout structures &mdash; debt, equity, seller notes,
-        and cash flow coverage analysis.
-      </p>
-      <p className="mt-6 text-[15px] text-apple-gray-700">
-        This interactive tool is currently under development. It will let you
-        build acquisition financing models with senior debt, mezzanine, seller
-        notes, and equity, and analyze debt service coverage ratios and payback
-        periods.
-      </p>
+    <article className="mt-16 max-w-none">
+      <section className="space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
+        <h2 className="text-xl font-semibold text-apple-black">
+          How Search Fund Operators Create Value
+        </h2>
+        <p>
+          Post-acquisition value creation in search fund companies typically
+          comes from four levers: organic revenue growth, margin improvement
+          (through pricing power and cost optimization), bolt-on acquisitions,
+          and multiple expansion at exit.
+        </p>
+        <p>
+          According to the Stanford Search Fund Study, the median search fund
+          acquisition generates a 5.4x return on invested capital (MOIC) and a
+          32.6% IRR. These returns are driven by buying at reasonable entry
+          multiples (typically 4&ndash;6x EBITDA), growing EBITDA through
+          operational improvements, and selling at higher exit multiples that
+          reflect the company&rsquo;s improved scale and profitability.
+        </p>
+
+        <h2 className="text-xl font-semibold text-apple-black mt-8">
+          The Four Value Creation Levers
+        </h2>
+        <ul className="list-disc pl-5 space-y-1.5">
+          <li>
+            <strong>Revenue growth.</strong> Expanding the customer base, entering
+            new markets, launching new products or services, and improving sales
+            processes. Typical search fund companies grow revenue 8&ndash;15%
+            annually under new management.
+          </li>
+          <li>
+            <strong>Margin improvement.</strong> Pricing optimization (many
+            acquired SMEs have not raised prices in years), vendor renegotiation,
+            process automation, and overhead rationalization. A 2&ndash;5
+            percentage point margin improvement on a $5M revenue business adds
+            $100K&ndash;$250K to EBITDA.
+          </li>
+          <li>
+            <strong>Bolt-on acquisitions.</strong> Acquiring smaller competitors
+            at lower multiples (3&ndash;4x) and integrating them into the
+            platform company. This arbitrage between bolt-on purchase multiples
+            and the platform&rsquo;s exit multiple is a powerful value creation
+            lever.
+          </li>
+          <li>
+            <strong>Multiple expansion.</strong> As the company grows, improves
+            margins, and diversifies its revenue base, it commands a higher
+            valuation multiple at exit. A company bought at 5x EBITDA that exits
+            at 7x generates 40% of its return from multiple expansion alone.
+          </li>
+        </ul>
+
+        <h2 className="text-xl font-semibold text-apple-black mt-8">
+          Using This Simulator
+        </h2>
+        <p>
+          Set your entry parameters (revenue, EBITDA, hold period) and adjust
+          each growth lever independently. The simulator projects year-by-year
+          financials and shows you exactly how each lever contributes to the
+          total enterprise value at exit through the value creation bridge.
+        </p>
+      </section>
     </article>
   );
 }
 
-function ValuationContent() {
+// ---- Exit Returns Calculator content ----
+
+function ExitReturnsContent() {
   return (
-    <article className="prose-sm max-w-none">
-      <h1 className="text-3xl sm:text-4xl font-semibold text-apple-black tracking-tight">
-        Valuation Calculator
-      </h1>
-      <p className="text-apple-gray-500 mt-2 max-w-2xl text-base">
-        Value a business using multiples and DCF methods. Compare approaches
-        side by side.
-      </p>
-      <p className="mt-6 text-[15px] text-apple-gray-700">
-        This interactive tool is currently under development. It will combine
-        EBITDA multiple valuation with discounted cash flow analysis, letting you
-        compare methodologies and stress-test assumptions.
-      </p>
+    <article className="mt-16 max-w-none">
+      <section className="space-y-6 text-[15px] leading-relaxed text-apple-gray-700">
+        <h2 className="text-xl font-semibold text-apple-black">
+          Understanding Search Fund Exits
+        </h2>
+        <p>
+          The exit is where search fund investors and operators realize their
+          returns. The typical search fund holds a company for 5&ndash;7 years
+          before pursuing a liquidity event. During this period, equity value
+          grows through a combination of EBITDA growth, debt paydown, and
+          potential multiple expansion.
+        </p>
+        <p>
+          Returns to equity holders come from two streams: periodic
+          distributions (dividends or management fees paid during the hold
+          period) and the terminal exit value (equity value at the point of
+          sale). The combination of these two streams determines the total
+          return, MOIC, and IRR for investors.
+        </p>
+
+        <h2 className="text-xl font-semibold text-apple-black mt-8">
+          Exit Routes Compared
+        </h2>
+        <ul className="list-disc pl-5 space-y-1.5">
+          <li>
+            <strong>Financial sale.</strong> Selling to a private equity firm or
+            another search fund. Typically priced at market multiples
+            (5&ndash;8x EBITDA for SMEs). Clean process but competitive
+            multiples.
+          </li>
+          <li>
+            <strong>Strategic sale.</strong> Selling to a corporate buyer who
+            values synergies (cost savings, market access, technology). Strategic
+            buyers typically pay a 15&ndash;30% premium over financial buyers.
+            Running a competitive auction maximizes strategic premiums.
+          </li>
+          <li>
+            <strong>Dividend recapitalization.</strong> Refinancing the company
+            to distribute capital to equity holders while retaining ownership.
+            Useful when the operator wants to return investor capital without
+            giving up the business. Typically leverages 2.5&ndash;3.5x EBITDA.
+          </li>
+          <li>
+            <strong>Long-term hold.</strong> Continuing to operate and distribute
+            cash flows. Some search fund operators choose this path when the
+            business generates attractive cash yields and they enjoy the
+            operating role.
+          </li>
+        </ul>
+
+        <h2 className="text-xl font-semibold text-apple-black mt-8">
+          Using This Calculator
+        </h2>
+        <p>
+          Set your entry deal parameters (EBITDA, multiple, capital structure),
+          operating assumptions (EBITDA growth, distributions), and exit terms.
+          The calculator projects year-by-year cash flows, debt paydown, and
+          compares three exit routes side by side with MOIC and IRR metrics.
+        </p>
+      </section>
     </article>
   );
 }
@@ -606,6 +699,36 @@ function getRelatedArticles(
         {
           href: "/learn/how-to-value-a-small-business-for-acquisition",
           label: "How to Value a Small Business for Acquisition",
+        },
+      ];
+    case "value-creation-simulator":
+      return [
+        {
+          href: "/learn/first-100-days",
+          label: "The First 100 Days After Acquisition",
+        },
+        {
+          href: "/learn/revenue-growth-playbook",
+          label: "Revenue Growth Playbook for Acquired Companies",
+        },
+        {
+          href: "/learn/buy-and-build",
+          label: "Buy-and-Build Strategy for Search Funds",
+        },
+      ];
+    case "exit-returns-calculator":
+      return [
+        {
+          href: "/learn/exit-strategies",
+          label: "Exit Strategies for Search Fund Entrepreneurs",
+        },
+        {
+          href: "/learn/preparing-company-exit",
+          label: "Preparing Your Company for Exit",
+        },
+        {
+          href: "/learn/dividend-recapitalization",
+          label: "Dividend Recapitalization Explained",
         },
       ];
     default:

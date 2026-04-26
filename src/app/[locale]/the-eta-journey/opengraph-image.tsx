@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 import { PHASE_COLORS } from "@/data/journey-phases";
 
-export const alt = "The ETA Journey - SearchFundMarket";
+export const alt = "How ETA Entrepreneurs Buy, Run & Exit Companies - SearchFundMarket";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -39,7 +39,7 @@ export default function OGImage() {
             lineHeight: 1.2,
           }}
         >
-          The ETA Journey
+          How ETA Entrepreneurs Buy, Run & Exit Companies
         </div>
 
         {/* Subtitle */}
@@ -51,7 +51,7 @@ export default function OGImage() {
             marginTop: "16px",
           }}
         >
-          From Corporate Career to CEO
+          From raising capital to your exit
         </div>
 
         {/* Phase row */}

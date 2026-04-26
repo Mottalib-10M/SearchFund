@@ -25,9 +25,9 @@ const SECTORS = [
 // ---------------------------------------------------------------------------
 
 const SIZE_ADJUSTMENTS = [
-  { slug: "1-5m", label: "$1\u20135M revenue", adjustment: -1 },
-  { slug: "5-15m", label: "$5\u201315M revenue", adjustment: 0 },
-  { slug: "15-50m", label: "$15\u201350M revenue", adjustment: 1 },
+  { slug: "1-5m", label: "$1-5M revenue", adjustment: -1 },
+  { slug: "5-15m", label: "$5-15M revenue", adjustment: 0 },
+  { slug: "15-50m", label: "$15-50M revenue", adjustment: 1 },
   { slug: "50m-plus", label: "$50M+ revenue", adjustment: 2 },
 ] as const;
 
@@ -71,16 +71,8 @@ export default function EbitdaMultipleWidget() {
 
   return (
     <div className="rounded-2xl border border-apple-gray-200 bg-white p-6 sm:p-8">
-      <h3 className="text-xl font-semibold text-apple-black">
-        EBITDA Multiple Estimator
-      </h3>
-      <p className="text-sm text-apple-gray-500 mt-1">
-        Select a sector, company size, and enter EBITDA to estimate enterprise
-        value.
-      </p>
-
       {/* ---- Inputs ---- */}
-      <div className="mt-6 grid gap-5 sm:grid-cols-2">
+      <div className="grid gap-5 sm:grid-cols-2">
         {/* Sector */}
         <div>
           <label
@@ -97,7 +89,7 @@ export default function EbitdaMultipleWidget() {
           >
             {SECTORS.map((s, i) => (
               <option key={s.slug} value={i}>
-                {s.label} ({s.low}\u2013{s.high}x)
+                {s.label} ({s.low}-{s.high}x)
               </option>
             ))}
           </select>

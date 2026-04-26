@@ -31,6 +31,7 @@ const englishOnlyStatic: string[] = [
   "/privacy",
   "/terms",
   "/about/editorial-policy",
+  "/search-fund-statistics",
 ];
 
 // Build full routeLocales map

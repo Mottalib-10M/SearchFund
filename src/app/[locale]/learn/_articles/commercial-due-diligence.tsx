@@ -608,7 +608,7 @@ export default function CommercialDueDiligenceArticle() {
       <ul className={ulClass}>
         <li>
           <a
-            href="https://www.bain.com/insights/topics/commercial-due-diligence/"
+            href="https://www.bain.com/industry-expertise/private-equity/due-diligence/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-apple-accent hover:underline"

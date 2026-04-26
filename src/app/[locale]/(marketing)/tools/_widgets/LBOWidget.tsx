@@ -371,7 +371,7 @@ export default function LBOWidget() {
 
   /* ---------- Render ---------- */
   return (
-    <div className="space-y-8">
+    <div className="rounded-2xl border border-apple-gray-200 bg-white p-6 sm:p-8 space-y-8">
       {/* ------- Deal Inputs ------- */}
       <div>
         <h3 className="text-base font-semibold text-apple-black mb-4">

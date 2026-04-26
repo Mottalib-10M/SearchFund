@@ -9,7 +9,7 @@ export default function JourneyHero() {
   return (
     <section
       id="journey-hero"
-      className="relative flex min-h-screen flex-col items-center justify-center bg-white px-6 text-center"
+      className="relative flex min-h-screen flex-col items-center justify-center px-6 text-center"
     >
       <h1 className="mx-auto max-w-4xl text-3xl font-semibold tracking-tight text-apple-black sm:text-5xl md:text-6xl">
         {t("title")}

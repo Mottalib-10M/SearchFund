@@ -40,13 +40,9 @@ export const dueDiligenceChecklist: TemplateMeta = {
     "SME due diligence checklist",
   ],
   content: `
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mb-8">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This checklist is provided for <strong>educational purposes only</strong> and does not constitute legal, financial,
-    or professional advice. Due diligence requirements vary by industry, jurisdiction, and deal structure. Always
-    engage qualified advisors (attorneys, accountants, industry consultants) for your specific transaction.
-    SearchFundMarket accepts no liability for reliance on this checklist.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-8">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not professional advice. Engage qualified advisors for your specific transaction.
   </p>
 </div>
 
@@ -372,14 +368,9 @@ export const dueDiligenceChecklist: TemplateMeta = {
   <li><strong>Week 5-8:</strong> Resolve open issues. Negotiate purchase agreement adjustments. Pre-closing preparations.</li>
 </ul>
 
-<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 mt-10">
-  <p class="text-sm text-amber-800 font-medium">Legal Disclaimer</p>
-  <p class="text-sm text-amber-700 mt-1">
-    This checklist is provided for <strong>educational purposes only</strong>. It is not exhaustive and
-    should not be relied upon as a substitute for professional due diligence advice. The specific scope
-    of due diligence will vary by deal size, industry, jurisdiction, and deal structure. Always engage
-    qualified legal, financial, and industry advisors for your specific transaction. SearchFundMarket
-    assumes no responsibility for any actions taken based on this checklist.
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-4 mt-10">
+  <p class="text-xs text-amber-700">
+    <strong>Disclaimer:</strong> Educational purposes only. Not professional advice. Engage qualified advisors for your specific transaction.
   </p>
 </div>
 `,

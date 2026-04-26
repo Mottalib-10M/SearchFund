@@ -9,7 +9,7 @@ export default function Footer() {
 
   const footerSections = [
     {
-      title: t("marketplace"),
+      title: t("platform"),
       links: [
         { href: "/listings" as const, label: t("marketplaceSoon") },
         { href: "/searchers" as const, label: t("searchers") },
@@ -20,6 +20,9 @@ export default function Footer() {
       title: t("resources"),
       links: [
         { href: "/learn" as const, label: t("learn") },
+        { href: "/search-fund-statistics" as const, label: t("statistics") },
+        { href: "/tools" as const, label: t("tools") },
+        { href: "/templates" as const, label: t("templates") },
         { href: "/community" as const, label: t("community") },
         { href: "/learn/glossary" as const, label: t("glossary") },
       ],
@@ -29,6 +32,7 @@ export default function Footer() {
       links: [
         { href: "/about" as const, label: t("about") },
         { href: "/contact" as const, label: t("contact") },
+        { href: "/about/editorial-policy" as const, label: t("editorialPolicy") },
       ],
     },
     {

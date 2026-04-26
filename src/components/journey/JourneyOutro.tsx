@@ -8,7 +8,7 @@ export default function JourneyOutro() {
   const t = useTranslations("journey");
 
   return (
-    <section className="bg-white px-6 py-24 text-center md:py-32">
+    <section className="px-6 py-24 text-center md:py-32">
       <div className="mx-auto max-w-2xl">
         <h2 className="text-xl font-semibold tracking-tight text-apple-black sm:text-3xl">
           {t("outroTitle")}
