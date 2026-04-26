@@ -31,6 +31,7 @@ const englishOnlyStatic: string[] = [
   "/privacy",
   "/terms",
   "/about/editorial-policy",
+  "/about/our-mission",
   "/search-fund-statistics",
 ];
 

@@ -31,6 +31,7 @@ export default function Footer() {
       title: t("company"),
       links: [
         { href: "/about" as const, label: t("about") },
+        { href: "/about/our-mission" as const, label: t("ourMission") },
         { href: "/contact" as const, label: t("contact") },
         { href: "/about/editorial-policy" as const, label: t("editorialPolicy") },
       ],
