@@ -1,6 +1,6 @@
 "use client";
 
-import { type RefObject } from "react";
+import { Fragment, type RefObject, useEffect, useRef, useState } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 
 /* ------------------------------------------------------------------ */
@@ -119,29 +119,86 @@ function AnimatedSegment({
 }
 
 /* ------------------------------------------------------------------ */
-/* Mobile progress bar                                                */
+/* Mobile timeline trail                                              */
 /* ------------------------------------------------------------------ */
-function MobileProgressBar({
+const PHASE_SCROLL_STARTS = [0.10, 0.22, 0.37, 0.52, 0.67, 0.82];
+const PHASE_IDS = ["prepare", "fundraise", "search", "acquire", "operate", "exit"];
+
+function MobileTrail({
   scrollYProgress,
 }: {
   scrollYProgress: ReturnType<typeof useScroll>["scrollYProgress"];
 }) {
-  const height = useTransform(scrollYProgress, [0, 1], ["0%", "100%"]);
-  const backgroundColor = useTransform(scrollYProgress, (v) => {
-    const idx = Math.min(Math.floor(v * PHASE_COUNT), PHASE_COUNT - 1);
-    return PHASE_COLORS[Math.max(0, idx)];
-  });
+  const [activePhase, setActivePhase] = useState(-1);
+  const activeRef = useRef(-1);
+
+  useEffect(() => {
+    const unsubscribe = scrollYProgress.on("change", (v) => {
+      let phase = -1;
+      for (let i = PHASE_SCROLL_STARTS.length - 1; i >= 0; i--) {
+        if (v >= PHASE_SCROLL_STARTS[i]) {
+          phase = i;
+          break;
+        }
+      }
+      if (phase !== activeRef.current) {
+        activeRef.current = phase;
+        setActivePhase(phase);
+      }
+    });
+    return unsubscribe;
+  }, [scrollYProgress]);
 
   return (
     <div
-      className="fixed left-0 top-0 z-10 block h-full w-[3px] sm:hidden"
-      aria-hidden
+      className="fixed left-2.5 top-1/2 z-20 flex -translate-y-1/2 flex-col items-center sm:hidden"
     >
-      <div className="absolute inset-0 bg-gray-200/40" />
-      <motion.div
-        className="absolute left-0 top-0 w-full origin-top"
-        style={{ height, backgroundColor }}
-      />
+      {PHASE_COLORS.map((color, i) => (
+        <Fragment key={i}>
+          {/* Phase node */}
+          <button
+            onClick={() =>
+              document
+                .getElementById(PHASE_IDS[i])
+                ?.scrollIntoView({ behavior: "smooth" })
+            }
+            aria-label={`Phase ${i + 1}: ${PHASE_IDS[i]}`}
+            className={`relative flex h-7 w-7 items-center justify-center rounded-full border-2 text-[10px] font-bold transition-all duration-300 ${
+              i <= activePhase
+                ? "border-transparent text-white"
+                : "border-gray-300/50 bg-white/80 text-gray-400 backdrop-blur-sm"
+            }`}
+            style={
+              i <= activePhase
+                ? {
+                    backgroundColor: color,
+                    boxShadow: `0 0 12px ${color}40`,
+                  }
+                : undefined
+            }
+          >
+            {i + 1}
+          </button>
+
+          {/* Connecting segment */}
+          {i < PHASE_COUNT - 1 && (
+            <div className="relative h-5 w-[3px] overflow-hidden rounded-full bg-gray-200/30">
+              <div
+                className="absolute inset-x-0 top-0 rounded-full transition-all duration-500 ease-out"
+                style={{
+                  height:
+                    i < activePhase
+                      ? "100%"
+                      : i === activePhase
+                        ? "50%"
+                        : "0%",
+                  backgroundColor: color,
+                }}
+              />
+            </div>
+          )}
+        </Fragment>
+      ))}
     </div>
   );
 }
@@ -207,8 +264,8 @@ export default function JourneyTrail({
         </svg>
       </div>
 
-      {/* ── Mobile progress bar ── */}
-      <MobileProgressBar scrollYProgress={scrollYProgress} />
+      {/* ── Mobile timeline trail ── */}
+      <MobileTrail scrollYProgress={scrollYProgress} />
     </>
   );
 }

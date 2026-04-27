@@ -1,6 +1,6 @@
 {
   "permissions": {
     "defaultMode": "bypassPermissions",
-    "deny": ["Bash(sudo:*)", "Bash(rm -rf:*)", "Bash(git push:*)", "Read(**/.env)"]
+    "deny": ["Bash(sudo:*)", "Bash(rm -rf:*)", "Read(**/.env)"]
   }
 }

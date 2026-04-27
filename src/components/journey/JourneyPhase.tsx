@@ -46,7 +46,7 @@ export default function JourneyPhase({ phase, index }: JourneyPhaseProps) {
       id={phase.id}
       className="scroll-mt-16 py-20 md:py-28"
     >
-      <div className="mx-auto max-w-5xl px-6">
+      <div className="mx-auto max-w-5xl pl-12 pr-6 sm:px-6">
         {/* ── Header ── */}
         <div className="mb-12">
           {/* Phase number badge */}
