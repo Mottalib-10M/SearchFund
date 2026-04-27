@@ -98,6 +98,9 @@ model User {
   forumComments ForumComment[]
   inquiries     Inquiry[]
 
+  isActive    Boolean  @default(true)
+  lastLoginAt DateTime?
+
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
 }

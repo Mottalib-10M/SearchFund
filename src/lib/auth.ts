@@ -36,25 +36,32 @@ export const authOptions: NextAuthOptions = {
       if (user) {
         const dbUser = await prisma.user.findUnique({
           where: { email: user.email! },
-          select: { id: true, role: true, name: true, image: true },
+          select: { id: true, role: true, name: true, image: true, isActive: true },
         });
         if (dbUser) {
           token.id = dbUser.id;
           token.role = dbUser.role;
           token.name = dbUser.name;
           token.picture = dbUser.image;
+          token.isActive = dbUser.isActive;
+          // Track last login
+          await prisma.user.update({
+            where: { id: dbUser.id },
+            data: { lastLoginAt: new Date() },
+          }).catch(() => {});
         }
       }
       // Re-fetch user data when session is updated (e.g. after onboarding)
       if (trigger === "update" && token.id) {
         const dbUser = await prisma.user.findUnique({
           where: { id: token.id as string },
-          select: { id: true, role: true, name: true, image: true },
+          select: { id: true, role: true, name: true, image: true, isActive: true },
         });
         if (dbUser) {
           token.role = dbUser.role;
           token.name = dbUser.name;
           token.picture = dbUser.image;
+          token.isActive = dbUser.isActive;
         }
       }
       return token;

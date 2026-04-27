@@ -80,6 +80,13 @@ export async function proxy(request: NextRequest) {
       return NextResponse.redirect(signInUrl);
     }
 
+    // Block deactivated users
+    if (token.isActive === false) {
+      return NextResponse.redirect(
+        new URL(`/${locale}/auth/deactivated`, request.url)
+      );
+    }
+
     // Redirect to onboarding if profile is incomplete (name not set)
     if (!token.name && pathWithoutLocale !== "/auth/onboarding") {
       return NextResponse.redirect(
