@@ -3,7 +3,7 @@ import type { NextRequest } from "next/server";
 import { getToken } from "next-auth/jwt";
 import { verifyAdminToken } from "@/lib/admin-auth";
 
-const locales = ["en", "fr", "es", "it", "pt"];
+const locales = ["en"];
 const defaultLocale = "en";
 const skipPrefixes = ["/api/", "/_next/", "/favicon", "/site.webmanifest"];
 

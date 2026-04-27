@@ -28,23 +28,31 @@ export default function AnimatedHero() {
       </motion.p>
 
       <motion.div
-        className="mt-8 flex gap-4 justify-center flex-wrap"
+        className="mt-8 flex flex-col items-center gap-4"
         initial={{ y: 20, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.3 }}
       >
         <Link
-          href="/learn"
-          className="inline-flex items-center justify-center rounded-full bg-apple-accent text-white text-sm font-medium px-7 py-3 hover:bg-apple-accent-hover transition-colors"
+          href="/the-eta-journey"
+          className="inline-flex items-center justify-center rounded-full bg-apple-accent text-white text-base font-medium px-9 py-3.5 hover:bg-apple-accent-hover transition-colors"
         >
-          {t("exploreCta")}
+          {t("journeyCta")}
         </Link>
-        <Link
-          href="/listings"
-          className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 text-apple-gray-700 text-sm font-medium px-7 py-3 hover:bg-apple-gray-100 transition-colors"
-        >
-          {t("waitlistCta")}
-        </Link>
+        <div className="flex gap-4 flex-wrap justify-center">
+          <Link
+            href="/learn"
+            className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 text-apple-gray-700 text-sm font-medium px-7 py-3 hover:bg-apple-gray-100 transition-colors"
+          >
+            {t("exploreCta")}
+          </Link>
+          <Link
+            href="/listings"
+            className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 text-apple-gray-700 text-sm font-medium px-7 py-3 hover:bg-apple-gray-100 transition-colors"
+          >
+            {t("marketplaceCta")}
+          </Link>
+        </div>
       </motion.div>
     </section>
   );

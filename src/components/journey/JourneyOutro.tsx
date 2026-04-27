@@ -2,7 +2,6 @@
 
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
-import WaitlistForm from "@/components/listings/WaitlistForm";
 
 export default function JourneyOutro() {
   const t = useTranslations("journey");
@@ -23,18 +22,13 @@ export default function JourneyOutro() {
             {t("outroPrimary")}
           </Link>
 
-          {/* Secondary CTA */}
+          {/* Marketplace CTA */}
           <Link
-            href="/learn"
+            href="/listings"
             className="inline-flex items-center justify-center rounded-full border border-apple-gray-300 px-8 py-3 text-base font-medium text-apple-black transition-colors hover:border-apple-gray-500"
           >
             {t("outroSecondary")}
           </Link>
-        </div>
-
-        {/* Waitlist form */}
-        <div className="mx-auto mt-16 max-w-md">
-          <WaitlistForm />
         </div>
       </div>
     </section>

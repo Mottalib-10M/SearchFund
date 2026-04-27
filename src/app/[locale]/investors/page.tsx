@@ -135,7 +135,7 @@ export default async function InvestorsPage({ searchParams }: PageProps) {
         Search Fund Investors
       </h1>
       <p className="text-apple-gray-500 mt-2">
-        {total} {total === 1 ? "investor" : "investors"} across Europe
+        {total} {total === 1 ? "investor" : "investors"} worldwide
       </p>
 
       {/* Filter bar */}

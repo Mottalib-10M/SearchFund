@@ -76,7 +76,7 @@ const nextConfig: NextConfig = {
     // Deleted-article 301s — one rule per slug with :locale prefix
     ...articleRedirects.flatMap(({ old: oldSlug, new: newSlug }) => [
       {
-        source: `/:locale(en|fr|es|it|pt)/learn/${oldSlug}`,
+        source: `/:locale(en)/learn/${oldSlug}`,
         destination: `/:locale/learn/${newSlug}`,
         permanent: true,
       },

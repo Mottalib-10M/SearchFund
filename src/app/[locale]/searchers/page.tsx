@@ -120,7 +120,7 @@ export default async function SearchersPage({ searchParams }: PageProps) {
         Search Fund Entrepreneurs
       </h1>
       <p className="text-apple-gray-500 mt-2">
-        {total} {total === 1 ? "searcher" : "searchers"} across Europe
+        {total} {total === 1 ? "searcher" : "searchers"} worldwide
       </p>
 
       {/* Filter bar */}

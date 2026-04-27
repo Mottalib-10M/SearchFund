@@ -11,7 +11,7 @@ export default function Footer() {
     {
       title: t("platform"),
       links: [
-        { href: "/listings" as const, label: t("marketplaceSoon") },
+        { href: "/listings" as const, label: t("marketplace") },
         { href: "/searchers" as const, label: t("searchers") },
         { href: "/investors" as const, label: t("investors") },
       ],
@@ -31,7 +31,6 @@ export default function Footer() {
       title: t("company"),
       links: [
         { href: "/about" as const, label: t("about") },
-        { href: "/about/our-mission" as const, label: t("ourMission") },
         { href: "/contact" as const, label: t("contact") },
         { href: "/about/editorial-policy" as const, label: t("editorialPolicy") },
       ],

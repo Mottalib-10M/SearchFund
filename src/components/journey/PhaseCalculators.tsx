@@ -298,7 +298,7 @@ export function SearchCalculator({ color }: { color: string }) {
   const [contactsPerWeek, setContactsPerWeek] = useState(30);
   const [weeks, setWeeks] = useState(60);
   const [responseRate, setResponseRate] = useState(8);
-  const [meetingToLoi, setMeetingToLoi] = useState(5);
+  const [meetingToLoi, setMeetingToLoi] = useState(25);
 
   const results = useMemo(() => {
     const totalContacts = contactsPerWeek * weeks;
@@ -334,7 +334,7 @@ export function SearchCalculator({ color }: { color: string }) {
           max={50}
         />
         <CalcField
-          label="Meeting \u2192 LOI rate"
+          label="Meeting → LOI rate"
           value={meetingToLoi}
           onChange={setMeetingToLoi}
           suffix="%"

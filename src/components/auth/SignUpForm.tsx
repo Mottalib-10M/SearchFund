@@ -116,19 +116,16 @@ export function SignUpForm() {
       });
       const { exists } = await checkRes.json();
 
-      // Send magic link regardless (sign-in for existing, sign-up for new)
-      const res = await signIn("email", {
+      // Fire magic link in background — don't block the UI
+      signIn("email", {
         email,
         callbackUrl: exists ? "/dashboard" : `/auth/onboarding?role=${selectedRole}`,
         redirect: false,
+      }).catch(() => {
+        // Email send failed silently — user can retry from sign-in page
       });
 
-      if (res?.error) {
-        setError("Unable to send the magic link. Please try again.");
-        setLoading(false);
-        return;
-      }
-
+      // Show result immediately
       if (exists) {
         setExistingAccount(true);
         setLoading(false);

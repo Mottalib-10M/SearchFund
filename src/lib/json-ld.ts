@@ -22,7 +22,7 @@ export function organizationSchema() {
     url: BASE,
     logo: `${BASE}/favicon.svg`,
     description:
-      "The leading knowledge platform for Entrepreneurship Through Acquisition (ETA) in Europe.",
+      "The most complete learning platform for Entrepreneurship Through Acquisition (ETA). Step-by-step guides, tools, and resources for searchers, investors, and sellers.",
     sameAs: [
       "https://www.linkedin.com/company/searchfundmarket",
     ],

@@ -21,11 +21,11 @@ export function generateStaticParams() {
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.searchfundmarket.com"),
   title: {
-    default: "SearchFundMarket - Search Fund Marketplace in Europe",
+    default: "SearchFundMarket - The Complete ETA Learning Platform",
     template: "%s",
   },
   description:
-    "The marketplace connecting search fund entrepreneurs, investors, and business sellers across Europe. Browse acquisitions, find investors, list your business.",
+    "The most complete ETA learning platform. Step-by-step guides, tools, and resources for searchers, investors, and sellers navigating Entrepreneurship Through Acquisition.",
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
   },

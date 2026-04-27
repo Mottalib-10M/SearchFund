@@ -1,59 +1,70 @@
 import { allArticles, categoryMeta } from "@/app/[locale]/learn/_articles/article-registry";
-import { hasFRVersion } from "@/app/[locale]/learn/_articles/fr-registry";
+import { tools } from "@/app/[locale]/(marketing)/tools/_data";
+import { templates } from "@/app/[locale]/(marketing)/templates/_data";
+import { newsArticles } from "@/app/[locale]/(marketing)/news/_data/articles";
+import { directoryCategories, getEntriesForCategory } from "@/app/[locale]/(marketing)/directory/_data";
 
 // ---------------------------------------------------------------------------
 // Locale types
 // ---------------------------------------------------------------------------
 
-export type Locale = "en" | "fr" | "es" | "it" | "pt";
-export const locales: Locale[] = ["en", "fr", "es", "it", "pt"];
+export type Locale = "en";
+export const locales: Locale[] = ["en"];
 export const defaultLocale: Locale = "en";
 
 // ---------------------------------------------------------------------------
 // Route → available locales mapping
 // ---------------------------------------------------------------------------
 
-const multilingualRoutes: Record<string, Locale[]> = {
-  "/": ["en", "fr", "es", "it", "pt"],
-  "/listings": ["en", "fr", "es", "it", "pt"],
-  "/about": ["en", "fr", "es", "it", "pt"],
-  "/contact": ["en", "fr", "es", "it", "pt"],
-  "/auth/signin": ["en", "fr", "es", "it", "pt"],
-  "/auth/signup": ["en", "fr", "es", "it", "pt"],
-};
-
-const englishOnlyStatic: string[] = [
-  "/learn",
-  "/learn/glossary",
-  "/searchers",
-  "/investors",
-  "/community",
-  "/privacy",
-  "/terms",
-  "/about/editorial-policy",
-  "/about/our-mission",
-  "/search-fund-statistics",
-];
-
-// Build full routeLocales map
 function buildRouteLocales(): Record<string, Locale[]> {
-  const map: Record<string, Locale[]> = { ...multilingualRoutes };
+  const map: Record<string, Locale[]> = {
+    "/": ["en"],
+    "/listings": ["en"],
+    "/about": ["en"],
+    "/contact": ["en"],
+    "/auth/signin": ["en"],
+    "/auth/signup": ["en"],
+    "/learn": ["en"],
+    "/learn/glossary": ["en"],
+    "/searchers": ["en"],
+    "/investors": ["en"],
+    "/community": ["en"],
+    "/privacy": ["en"],
+    "/terms": ["en"],
+    "/about/editorial-policy": ["en"],
+    "/search-fund-statistics": ["en"],
+    "/the-eta-journey": ["en"],
+    "/tools": ["en"],
+    "/templates": ["en"],
+    "/news": ["en"],
+    "/directory": ["en"],
+  };
 
-  // English-only static pages
-  for (const route of englishOnlyStatic) {
-    map[route] = ["en"];
-  }
-
-  // Articles: English only unless a FR version exists
   for (const article of allArticles) {
-    map[`/learn/${article.slug}`] = hasFRVersion(article.slug)
-      ? ["en", "fr"]
-      : ["en"];
+    map[`/learn/${article.slug}`] = ["en"];
   }
 
-  // All categories: English only
   for (const cat of categoryMeta) {
     map[`/learn/category/${cat.slug}`] = ["en"];
+  }
+
+  for (const tool of tools) {
+    map[`/tools/${tool.slug}`] = ["en"];
+  }
+
+  for (const template of templates) {
+    map[`/templates/${template.slug}`] = ["en"];
+  }
+
+  for (const article of newsArticles) {
+    map[`/news/${article.slug}`] = ["en"];
+  }
+
+  for (const cat of directoryCategories) {
+    map[`/directory/${cat.slug}`] = ["en"];
+    for (const entry of getEntriesForCategory(cat.slug)) {
+      map[`/directory/${cat.slug}/${entry.slug}`] = ["en"];
+    }
   }
 
   return map;
@@ -71,6 +82,6 @@ export function getAvailableLocales(path: string): Locale[] {
 
 export function pageExistsInLocale(path: string, locale: Locale): boolean {
   const available = routeLocales[path];
-  if (!available) return locale === "en"; // unknown routes default to English only
+  if (!available) return locale === "en";
   return available.includes(locale);
 }

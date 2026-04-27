@@ -10,7 +10,7 @@ import CreatePostForm from "@/components/community/CreatePostForm";
 export const metadata: Metadata = {
   title: "Start a Discussion - SearchFundMarket ETA Community",
   description:
-    "Start a new discussion in the SearchFundMarket community. Share insights, ask questions, and connect with search fund entrepreneurs and investors in Europe.",
+    "Start a new discussion in the SearchFundMarket community. Share insights, ask questions, and connect with search fund entrepreneurs and investors worldwide.",
 };
 
 export default async function NewPostPage() {

@@ -2312,7 +2312,7 @@ export const allArticles: ArticleMeta[] = [
       { name: "Pepperdine Graziadio", title: "Private Capital Markets Report", url: "https://digitalcommons.pepperdine.edu/gsbm_pcm_pcmr/", year: 2024 },
     ],
     faqs: [
-      { question: "What are typical search fund deal funnel conversion rates?", answer: "Benchmark conversion rates: Universe to Contacted (50-70%), Contacted to Responded (5-15%), Responded to NDA/CIM (30-50%), CIM to Management Meeting (20-30%), Meeting to LOI (15-25%), LOI to Due Diligence (50-70%), Due Diligence to Close (60-80%). Overall funnel: ~0.2-0.5% of initial universe results in a closed acquisition." },
+      { question: "What are typical search fund deal funnel conversion rates?", answer: "Benchmark conversion rates: Universe to Contacted (50-70%), Contacted to Responded (5-15%), Responded to NDA/CIM (30-50%), CIM to Management Meeting (20-30%), Meeting to LOI (20-40%), LOI to Due Diligence (50-70%), Due Diligence to Close (60-80%). Overall funnel: ~0.2-0.5% of initial universe results in a closed acquisition." },
       { question: "How many businesses should a searcher contact per week?", answer: "Successful searchers typically contact 50-100 new businesses per week through a combination of channels: 20-30 proprietary outreach contacts (mail, email, calls), 10-20 broker-sourced opportunities reviewed, and 10-20 marketplace listings screened. Consistency matters more than volume - it's better to contact 50 every week for 18 months than 200 in bursts with gaps between." },
     ],
   },

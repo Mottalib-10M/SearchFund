@@ -20,7 +20,8 @@
     "signOut": "Sign out",
     "theJourney": "The Journey",
     "statistics": "Statistics",
-    "tools": "Tools"
+    "tools": "Tools",
+    "contact": "Contact"
   },
   "footer": {
     "platform": "Platform",
@@ -53,10 +54,11 @@
     "joinCta": "Join SearchFundMarket"
   },
   "home": {
-    "heroTitle": "The leading knowledge platform for Entrepreneurship Through Acquisition in Europe",
-    "heroSubtitle": "Guides, research, and tools for searchers, investors, and sellers navigating SME acquisitions.",
+    "heroTitle": "Master every step of Entrepreneurship Through Acquisition",
+    "heroSubtitle": "The most complete ETA learning platform. Guides, tools, and a step-by-step approach to help you search, acquire, and operate a business.",
+    "journeyCta": "Start the ETA Journey",
     "exploreCta": "Explore the Learning Hub",
-    "waitlistCta": "Join the marketplace waitlist",
+    "marketplaceCta": "Browse the marketplace",
     "builtForEvery": "Built for every side of the deal",
     "builtForEverySubtitle": "Whether you're searching, investing, or selling  -  SearchFundMarket helps you learn and connect.",
     "forSearchers": "For Searchers",
@@ -65,7 +67,7 @@
     "startLearning": "Start learning",
     "forInvestors": "For Investors",
     "forInvestorsTitle": "Understand the search fund asset class",
-    "forInvestorsDesc": "Learn why search funds deliver exceptional returns, how to evaluate searchers, and what makes a great ETA investment in the European market.",
+    "forInvestorsDesc": "Learn why search funds deliver exceptional returns, how to evaluate searchers, and what makes a great ETA investment.",
     "forSellers": "For Sellers",
     "forSellersTitle": "Discover how ETA works for business owners",
     "forSellersDesc": "Understand what search fund buyers look for, how deals are structured, and why selling to a searcher can be the best succession option for your business.",
@@ -76,7 +78,7 @@
     "connectCommunity": "Connect with the community",
     "connectCommunityDesc": "Join discussions with searchers, investors, and operators. Share experiences and learn from peers.",
     "findOpportunities": "Find opportunities",
-    "findOpportunitiesDesc": "Our curated marketplace for European SME acquisitions is launching in 2026. Join the waitlist to get early access.",
+    "findOpportunitiesDesc": "Browse our curated marketplace of SME acquisition opportunities. Vetted deals, verified financials, no broker fees.",
     "latestFromHub": "Latest from the Learning Hub",
     "browseAllGuides": "Browse all guides",
     "inDepthGuides": "in-depth guides",
@@ -90,14 +92,15 @@
     "sources": "Sources & References",
     "disclaimerTitle": "Disclaimer",
     "disclaimerText": "This article is educational content about search funds and Entrepreneurship Through Acquisition (ETA). It does not constitute financial, legal, tax, or investment advice. Always consult qualified professional advisors before making investment or acquisition decisions.",
-    "authorBio": "Our editorial team combines academic research from Stanford GSB, INSEAD, IESE, and HEC with practitioner insights to produce the most comprehensive ETA knowledge base in Europe.",
+    "authorBio": "Our editorial team combines academic research from Stanford GSB, INSEAD, IESE, and HEC with practitioner insights to produce the most comprehensive ETA knowledge base available.",
     "editorialPolicy": "Read our editorial policy"
   },
   "listings": {
-    "title": "European SME Marketplace",
-    "subtitle": "The curated marketplace for search fund acquisitions in Europe is coming soon.",
-    "waitlistTitle": "Join the waitlist",
-    "waitlistDesc": "Be the first to access curated European SME acquisition opportunities."
+    "title": "SME Acquisition Marketplace",
+    "subtitle": "Browse curated acquisition opportunities for search fund entrepreneurs.",
+    "noListings": "No listings match your criteria. Try adjusting your filters.",
+    "showingResults": "{count} {count, plural, one {listing} other {listings}}",
+    "browseCta": "Browse all listings"
   },
   "language": {
     "en": "English",

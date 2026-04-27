@@ -13,7 +13,7 @@ export default function AuthorBox({ locale = "en" }: { locale?: string }) {
         <p className="text-sm text-apple-gray-700 mt-1 leading-relaxed">
           Our editorial team combines academic research from Stanford GSB, INSEAD, IESE,
           and HEC with practitioner insights to produce the most thorough ETA knowledge
-          base in Europe.
+          base available.
         </p>
         <Link
           href={`/${locale}/about/editorial-policy`}

@@ -10,9 +10,9 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "ETA News - Search Fund & Acquisition News | SearchFundMarket",
+    title: "ETA News: Search Fund & Acquisition Updates [2026] | SFM",
     description:
-      "The latest news on search funds, ETA ecosystem developments, regulation changes, and acquisition trends. Curated by SearchFundMarket.",
+      "What's happening in the search fund world right now? New deals, ecosystem shifts, regulation changes, and trends you should know about. Curated weekly for ETA.",
     alternates: {
       canonical: `${BASE}/${locale}/news`,
     },

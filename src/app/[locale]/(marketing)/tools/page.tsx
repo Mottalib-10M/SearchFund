@@ -11,8 +11,8 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "Free ETA Tools & Calculators | SearchFundMarket",
-    description: `${tools.length} free interactive tools for search fund entrepreneurs - EBITDA multiples, capital planning, cap table simulation, LBO modeling, and business valuation.`,
+    title: `${tools.length} Free ETA Calculators & Tools for Searchers | SFM`,
+    description: `Run your numbers before the meeting. EBITDA calculator, cap table sim, LBO model, capital stack planner — ${tools.length} free tools built for search fund entrepreneurs.`,
     alternates: { canonical: `${BASE}/${locale}/tools` },
   };
 }

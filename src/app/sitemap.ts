@@ -1,9 +1,11 @@
 import type { MetadataRoute } from "next";
 import { prisma } from "@/lib/prisma";
 import { allArticles, categoryMeta } from "./[locale]/learn/_articles/article-registry";
-import { hasFRVersion } from "./[locale]/learn/_articles/fr-registry";
 import { routeLocales, locales, type Locale } from "@/lib/i18n-registry";
 import { templates } from "./[locale]/(marketing)/templates/_data";
+import { tools } from "./[locale]/(marketing)/tools/_data";
+import { newsArticles } from "./[locale]/(marketing)/news/_data/articles";
+import { directoryCategories, getEntriesForCategory } from "./[locale]/(marketing)/directory/_data";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -50,8 +52,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { path: "/learn", priority: 0.9, changeFrequency: "weekly" },
     { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
     { path: "/terms", priority: 0.3, changeFrequency: "yearly" },
+    { path: "/the-eta-journey", priority: 0.9, changeFrequency: "monthly" },
+    { path: "/search-fund-statistics", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/tools", priority: 0.7, changeFrequency: "monthly" },
+    { path: "/news", priority: 0.6, changeFrequency: "weekly" },
+    { path: "/directory", priority: 0.7, changeFrequency: "monthly" },
     { path: "/about/editorial-policy", priority: 0.4, changeFrequency: "monthly" },
-    { path: "/about/our-mission", priority: 0.5, changeFrequency: "monthly" },
     { path: "/templates", priority: 0.7, changeFrequency: "monthly" },
   ];
 
@@ -66,27 +72,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // --- Learn article pages ---
   for (const article of allArticles) {
-    const articleLocales: Locale[] = hasFRVersion(article.slug)
-      ? ["en", "fr"]
-      : ["en"];
-    // English version
     entries.push({
       url: `${BASE}/en/learn/${article.slug}`,
       lastModified: article.dateModified,
       changeFrequency: "monthly",
       priority: 0.7,
-      alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
+      alternates: buildAlternates(`/learn/${article.slug}`, ["en"]),
     });
-    // French version (if available)
-    if (hasFRVersion(article.slug)) {
-      entries.push({
-        url: `${BASE}/fr/learn/${article.slug}`,
-        lastModified: article.dateModified,
-        changeFrequency: "monthly",
-        priority: 0.7,
-        alternates: buildAlternates(`/learn/${article.slug}`, articleLocales),
-      });
-    }
   }
 
   // --- Learn category pages (English only) ---
@@ -116,6 +108,44 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
       alternates: buildAlternates(`/templates/${template.slug}`, ["en"]),
     });
+  }
+
+  // --- Tool pages (English only) ---
+  for (const tool of tools) {
+    entries.push({
+      url: `${BASE}/en/tools/${tool.slug}`,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      alternates: buildAlternates(`/tools/${tool.slug}`, ["en"]),
+    });
+  }
+
+  // --- News article pages (English only) ---
+  for (const article of newsArticles) {
+    entries.push({
+      url: `${BASE}/en/news/${article.slug}`,
+      changeFrequency: "monthly",
+      priority: 0.5,
+      alternates: buildAlternates(`/news/${article.slug}`, ["en"]),
+    });
+  }
+
+  // --- Directory category pages (English only) ---
+  for (const cat of directoryCategories) {
+    entries.push({
+      url: `${BASE}/en/directory/${cat.slug}`,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      alternates: buildAlternates(`/directory/${cat.slug}`, ["en"]),
+    });
+    // Individual directory entries
+    for (const entry of getEntriesForCategory(cat.slug)) {
+      entries.push({
+        url: `${BASE}/en/directory/${cat.slug}/${entry.slug}`,
+        changeFrequency: "monthly",
+        priority: 0.5,
+      });
+    }
   }
 
   // --- Dynamic user profile pages (English only) ---

@@ -1,7 +1,7 @@
 # SearchFundMarket — SEO & Content Strategy
 
 ## Positioning
-"The leading knowledge platform for Entrepreneurship Through Acquisition (ETA) in Europe."
+"The most complete learning platform for Entrepreneurship Through Acquisition (ETA). Step-by-step guides, tools, and resources for searchers, investors, and sellers."
 Primary role: educational authority on search funds, ETA, SME acquisition.
 Secondary role (future): marketplace — currently "opening soon".
 

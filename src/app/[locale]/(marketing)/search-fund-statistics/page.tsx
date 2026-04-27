@@ -25,13 +25,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
     title:
-      "Search Fund Industry Data & Statistics (2024) | SearchFundMarket",
+      "Search Fund Statistics: 35% IRR, 681 Funds [2024] | SFM",
     description:
-      "Verified search fund statistics: 35.1% gross IRR, 4.5x MOIC, 681 funds raised. Data from Stanford GSB 2024, IESE 2024, and Yale SOM 2025 studies.",
+      "681 funds. 35.1% IRR. 4.5x MOIC. Not opinions — verified data from Stanford GSB, IESE, and Yale SOM. The only search fund stats page you need to bookmark.",
     openGraph: {
-      title: "Search Fund Industry Data & Statistics (2024)",
+      title: "Search Fund Statistics: 35% IRR, 681 Funds [2024] | SFM",
       description:
-        "Verified search fund statistics: 35.1% gross IRR, 4.5x MOIC, 681 funds raised. Sourced from Stanford GSB, IESE, and Yale SOM.",
+        "681 funds. 35.1% IRR. 4.5x MOIC. Not opinions — verified data from Stanford GSB, IESE, and Yale SOM. The only search fund stats page you need to bookmark.",
       type: "website",
     },
     alternates: {
