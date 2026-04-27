@@ -3,7 +3,8 @@
 import { useState, useEffect, useCallback } from "react";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
-import { ArrowLeft, ExternalLink } from "lucide-react";
+import { ArrowLeft, ExternalLink, Trash2 } from "lucide-react";
+import { useRouter } from "next/navigation";
 import MessageThread from "@/components/messages/MessageThread";
 import MessageInput from "@/components/messages/MessageInput";
 import { use } from "react";
@@ -47,10 +48,23 @@ export default function ConversationPage({
 }) {
   const { conversationId } = use(params);
   const { data: session } = useSession();
+  const router = useRouter();
   const [messages, setMessages] = useState<Message[]>([]);
   const [loading, setLoading] = useState(true);
   const [otherUser, setOtherUser] = useState<OtherUser | null>(null);
   const [listing, setListing] = useState<Listing | null>(null);
+
+  async function handleDelete() {
+    if (!window.confirm("Delete this conversation? This cannot be undone.")) return;
+    try {
+      const res = await fetch(`/api/conversations/${conversationId}`, { method: "DELETE" });
+      if (res.ok) {
+        router.push("/dashboard/messages");
+      }
+    } catch {
+      // ignore
+    }
+  }
 
   const currentUserId = (session?.user as Record<string, unknown> | undefined)?.id as string | undefined;
 
@@ -151,6 +165,15 @@ export default function ConversationPage({
                 <span className="sm:hidden">View listing</span>
               </Link>
             )}
+
+            {/* Delete conversation */}
+            <button
+              onClick={handleDelete}
+              className={`${listing ? "" : "ml-auto "}shrink-0 p-1.5 rounded-lg text-apple-gray-400 hover:text-red-500 hover:bg-red-50 transition-colors`}
+              aria-label="Delete conversation"
+            >
+              <Trash2 size={18} />
+            </button>
           </div>
         )}
       </div>

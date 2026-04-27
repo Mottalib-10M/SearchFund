@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const tool = getToolBySlug(toolSlug);
   if (!tool) return {};
   return {
-    title: `${tool.name} \u2014 Free ETA Tool | SearchFundMarket`,
+    title: tool.ogTitle,
     description: tool.ogDescription,
     alternates: {
       canonical: `${BASE}/${locale}/tools/${toolSlug}`,

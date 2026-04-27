@@ -196,7 +196,7 @@ export function SignUpForm() {
           Account already exists
         </h1>
         <p className="text-apple-gray-500 mt-3 leading-relaxed">
-          An account with <strong className="text-apple-black">{email}</strong> already exists.
+          An account with <strong className="text-apple-black">{email}</strong>{" "}already exists.
           We&apos;ve sent you a sign-in link - check your inbox.
         </p>
 

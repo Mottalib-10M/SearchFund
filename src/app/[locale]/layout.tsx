@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: "%s",
   },
   description:
-    "The most complete ETA learning platform. Step-by-step guides, tools, and resources for searchers, investors, and sellers navigating Entrepreneurship Through Acquisition.",
+    "Master Entrepreneurship Through Acquisition with 62 free guides, calculators, and deal templates. Built for searchers, investors, and sellers worldwide.",
   icons: {
     icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
   },

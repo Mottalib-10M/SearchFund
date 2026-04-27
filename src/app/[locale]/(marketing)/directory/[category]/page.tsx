@@ -23,9 +23,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, category } = await params;
   const cat = getCategoryBySlug(category);
   if (!cat) return {};
-  const entries = getEntriesForCategory(category);
   return {
-    title: `${cat.name} - ${entries.length} Entries | SearchFundMarket Directory`,
+    title: cat.ogTitle,
     description: cat.ogDescription,
     alternates: {
       canonical: `${BASE}/${locale}/directory/${category}`,

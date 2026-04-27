@@ -109,6 +109,27 @@
     "it": "Italiano",
     "pt": "Português"
   },
+  "dashboardJourney": {
+    "title": "Your ETA Journey",
+    "subtitle": "Track your progress through the acquisition lifecycle",
+    "updateStage": "Update stage",
+    "confirmUpdate": "Move to \"{stage}\"? This will update your current search status.",
+    "recommendedArticles": "Recommended reading",
+    "recommendedTools": "Useful tools",
+    "viewAllArticles": "View all articles",
+    "viewAllTools": "View all tools",
+    "noProfile": "Complete your searcher profile to track your ETA journey.",
+    "completeProfile": "Complete profile",
+    "stages": {
+      "PREPARING": "Preparing",
+      "RAISING_CAPITAL": "Raising capital",
+      "ACTIVELY_SEARCHING": "Actively searching",
+      "LOI_SIGNED": "LOI signed",
+      "ACQUIRED": "Acquired",
+      "OPERATING": "Operating",
+      "EXITED": "Exited"
+    }
+  },
   "journey": {
     "title": "How to Buy, Run & Exit a Company Through ETA",
     "subtitle": "A step-by-step roadmap from preparation to exit. Learn what happens at every stage of buying, running, and selling a company through a search fund.",

@@ -123,6 +123,7 @@ export interface DirectoryCategory {
   slug: string;
   name: string;
   description: string;
+  ogTitle: string;
   ogDescription: string;
   introText: string;
 }
@@ -132,6 +133,7 @@ export const directoryCategories: DirectoryCategory[] = [
     slug: "investors",
     name: "ETA Investors",
     description: "Search fund investors, family offices, and institutions that back entrepreneurs through acquisition.",
+    ogTitle: "ETA Investor Directory: Search Fund Backers Worldwide",
     ogDescription: "Thorough directory of search fund investors - institutional funds, family offices, ex-searchers, and accelerators backing ETA entrepreneurs worldwide.",
     introText: "Finding the right investors is one of the most critical steps in launching a search fund. This directory catalogs institutional investors, family offices, accelerators, and experienced angel investors who actively invest in search funds and entrepreneurship through acquisition. Each entry includes investment focus, geography, typical ticket size, and a description of their approach.",
   },
@@ -139,27 +141,31 @@ export const directoryCategories: DirectoryCategory[] = [
     slug: "mba-programs",
     name: "MBA Programs Teaching ETA",
     description: "Business schools offering courses, research, and communities focused on entrepreneurship through acquisition.",
-    ogDescription: "Find MBA programs with search fund courses, ETA clubs, and acquisition entrepreneurship tracks. From Stanford to IESE, the complete list.",
+    ogTitle: "MBA Programs for ETA: Search Fund Courses & Clubs | SFM",
+    ogDescription: "Find MBA programs with search fund courses, ETA clubs, and acquisition entrepreneurship tracks. From Stanford GSB to IESE and HEC — the complete curated list.",
     introText: "The search fund model was born at Stanford GSB and has since spread to leading business schools worldwide. This directory lists MBA programs that offer ETA-specific courses, research centers, search fund clubs, and alumni networks focused on acquisition entrepreneurship. Whether you are considering an MBA or looking to tap into a school's ETA community, this guide will help you find the right fit.",
   },
   {
     slug: "brokers",
     name: "Business Brokers & M&A Advisors",
     description: "SME-focused business brokers, M&A advisors, and deal platforms across Europe and North America.",
-    ogDescription: "Directory of business brokers and M&A advisors specializing in SME transactions. Filter by country, deal size, and sector to find the right partner.",
+    ogTitle: "Business Brokers & M&A Advisors for ETA Deals | SFM",
+    ogDescription: "Directory of business brokers and M&A advisors specializing in SME deals. Filter by country, deal size, and sector to find the right partner for your search.",
     introText: "Working with the right broker or M&A advisor can significantly improve your deal sourcing and execution. This directory covers business brokers, M&A advisory firms, and online deal platforms specializing in small and medium enterprise transactions. Entries span Europe and North America, with details on specialization, deal size range, and geographic focus.",
   },
   {
     slug: "conferences",
     name: "ETA Conferences & Events",
     description: "Search fund conferences, ETA summits, and networking events for searchers, investors, and operators.",
-    ogDescription: "The complete calendar of search fund conferences and ETA events worldwide - Stanford, IESE, HBS, and more. Find your next networking opportunity.",
+    ogTitle: "ETA Conferences & Search Fund Events Worldwide | SFM",
+    ogDescription: "Full calendar of search fund conferences and ETA events worldwide — Stanford, IESE, HBS, and beyond. Find your next deal sourcing and networking opportunity.",
     introText: "Conferences and events are where the ETA community comes together. From the flagship Stanford and IESE search fund conferences to regional meetups and online summits, these events offer invaluable networking, deal sourcing, and knowledge sharing opportunities for searchers, investors, and operators.",
   },
   {
     slug: "podcasts",
     name: "ETA & Search Fund Podcasts",
     description: "Podcasts covering search funds, small business acquisitions, and entrepreneurship through acquisition.",
+    ogTitle: "Best ETA & Search Fund Podcasts for Searchers | SFM",
     ogDescription: "The best search fund and ETA podcasts - from Think Like An Owner to Acquiring Minds. Listen to searchers, investors, and operators share real experiences.",
     introText: "Podcasts have become one of the best ways to learn about search funds and entrepreneurship through acquisition. Hosted by searchers, operators, investors, and advisors, these shows cover everything from deal sourcing and due diligence to post-acquisition operations and exits. This directory lists the most relevant ETA podcasts across multiple languages.",
   },
@@ -167,6 +173,7 @@ export const directoryCategories: DirectoryCategory[] = [
     slug: "books",
     name: "Essential ETA Books",
     description: "The definitive reading list for search fund entrepreneurs - from search-fund-specific guides to operations and negotiation classics.",
+    ogTitle: "Best ETA Books for Search Fund Entrepreneurs | SFM",
     ogDescription: "Curated list of the best books for search fund entrepreneurs. Search fund primers, acquisition guides, operations playbooks, and negotiation classics.",
     introText: "Building a strong knowledge foundation is essential before launching a search fund or acquiring a business. This curated library spans search-fund-specific primers, SME acquisition guides, operations and leadership playbooks, valuation references, and negotiation classics. Whether you are a first-time searcher or an experienced operator, these books will sharpen your skills.",
   },
@@ -174,6 +181,7 @@ export const directoryCategories: DirectoryCategory[] = [
     slug: "advisors",
     name: "Legal & Tax Advisors for M&A",
     description: "Law firms and tax advisory practices specializing in SME M&A transactions across Europe.",
+    ogTitle: "M&A Legal & Tax Advisors for Search Fund Deals | SFM",
     ogDescription: "Find M&A lawyers and tax advisors who specialize in small business acquisitions across Europe. Country-by-country directory with ETA experience indicators.",
     introText: "Having experienced legal and tax advisors is essential for managing the complexities of business acquisitions. This directory lists law firms, tax practices, and advisory firms across Europe that specialize in SME transactions and have experience with search fund deals. Entries include their areas of specialization, geographic focus, and whether they have specific ETA/search fund experience.",
   },

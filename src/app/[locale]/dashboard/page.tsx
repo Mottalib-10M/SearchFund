@@ -5,6 +5,11 @@ import { redirect } from "next/navigation";
 import { timeAgo } from "@/lib/utils";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { journeyPhases } from "@/data/journey-phases";
+import { SEARCH_STATUS_TO_PHASE } from "@/lib/search-status-phase-map";
+import { articlesMeta } from "@/app/[locale]/learn/_articles/article-registry";
+import { getToolBySlug } from "@/app/[locale]/(marketing)/tools/_data";
+import JourneyStageTracker from "@/components/dashboard/JourneyStageTracker";
 
 export const dynamic = "force-dynamic";
 
@@ -58,6 +63,11 @@ export default async function DashboardPage() {
   let roleStats: { label: string; value: string; detail: string | null; href: string }[] = [];
   let quickActions: { label: string; description: string; href: string }[] = [];
   let showCreateListingBanner = false;
+  let journeyData: {
+    currentStatus: string;
+    phaseArticles: { slug: string; title: string }[];
+    phaseTools: { slug: string; name: string }[];
+  } | null = null;
 
   if (userRole === "SEARCHER") {
     const [savedCount, searcherProfile] = await Promise.all([
@@ -101,6 +111,30 @@ export default async function DashboardPage() {
         description: "Add target sectors to attract investors",
         href: "/dashboard/settings/profile",
       });
+    }
+
+    // Pre-compute journey tracker data
+    if (searcherProfile) {
+      const currentStatus = searcherProfile.searchStatus ?? "PREPARING";
+      const phaseId = SEARCH_STATUS_TO_PHASE[currentStatus] ?? "prepare";
+      const phase = journeyPhases.find((p) => p.id === phaseId) ?? journeyPhases[0];
+
+      const phaseArticles = phase.articles
+        .map((a) => {
+          const meta = articlesMeta[a.slug];
+          return meta ? { slug: a.slug, title: meta.title } : null;
+        })
+        .filter((a): a is { slug: string; title: string } => a !== null);
+
+      const phaseTools = phase.tools
+        .filter((t) => t.exists)
+        .map((t) => {
+          const meta = getToolBySlug(t.slug);
+          return meta ? { slug: t.slug, name: meta.name } : null;
+        })
+        .filter((t): t is { slug: string; name: string } => t !== null);
+
+      journeyData = { currentStatus, phaseArticles, phaseTools };
     }
   } else if (userRole === "INVESTOR") {
     const [savedCount, investorProfile] = await Promise.all([
@@ -227,6 +261,15 @@ export default async function DashboardPage() {
           </Link>
         ))}
       </div>
+
+      {/* Journey stage tracker for searchers */}
+      {journeyData && (
+        <JourneyStageTracker
+          currentStatus={journeyData.currentStatus}
+          phaseArticles={journeyData.phaseArticles}
+          phaseTools={journeyData.phaseTools}
+        />
+      )}
 
       {/* Create listing banner for sellers with no listings */}
       {showCreateListingBanner && (

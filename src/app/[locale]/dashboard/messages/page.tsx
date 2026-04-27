@@ -3,8 +3,9 @@
 import { useState, useEffect } from "react";
 import { useSession } from "next-auth/react";
 import Link from "next/link";
-import { MessageSquare } from "lucide-react";
+import { MessageSquare, Trash2 } from "lucide-react";
 import { timeAgo } from "@/lib/utils";
+import { useRouter } from "next/navigation";
 
 type ConversationItem = {
   id: string;
@@ -18,6 +19,23 @@ export default function MessagesPage() {
   const { data: session } = useSession();
   const [conversations, setConversations] = useState<ConversationItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [deletingId, setDeletingId] = useState<string | null>(null);
+  const router = useRouter();
+
+  async function handleDelete(id: string) {
+    if (!window.confirm("Delete this conversation? This cannot be undone.")) return;
+    setDeletingId(id);
+    try {
+      const res = await fetch(`/api/conversations/${id}`, { method: "DELETE" });
+      if (res.ok) {
+        setConversations((prev) => prev.filter((c) => c.id !== id));
+      }
+    } catch {
+      // ignore
+    } finally {
+      setDeletingId(null);
+    }
+  }
 
   useEffect(() => {
     async function fetchConversations() {
@@ -59,8 +77,8 @@ export default function MessagesPage() {
       ) : (
         <div className="mt-6 space-y-2">
           {conversations.map((conv) => (
+            <div key={conv.id} className="relative group">
             <Link
-              key={conv.id}
               href={`/dashboard/messages/${conv.id}`}
               className={`flex items-center gap-3 p-4 rounded-xl border transition-colors ${
                 conv.unread
@@ -100,6 +118,19 @@ export default function MessagesPage() {
                 <div className="w-2.5 h-2.5 rounded-full bg-apple-accent shrink-0" />
               )}
             </Link>
+            <button
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                handleDelete(conv.id);
+              }}
+              disabled={deletingId === conv.id}
+              className="absolute right-3 top-1/2 -translate-y-1/2 p-1.5 rounded-lg text-apple-gray-400 hover:text-red-500 hover:bg-red-50 transition-colors opacity-100 md:opacity-0 md:group-hover:opacity-100"
+              aria-label="Delete conversation"
+            >
+              <Trash2 size={16} />
+            </button>
+            </div>
           ))}
         </div>
       )}
