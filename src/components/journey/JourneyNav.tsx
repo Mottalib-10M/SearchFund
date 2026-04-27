@@ -91,7 +91,7 @@ export default function JourneyNav() {
       </nav>
 
       {/* ────── Mobile pill ────── */}
-      <div className="fixed top-3 left-1/2 z-50 -translate-x-1/2 md:hidden">
+      <div className="fixed top-16 left-1/2 z-40 -translate-x-1/2 md:hidden">
         <button
           onClick={() => setMobileOpen((o) => !o)}
           className="flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-medium shadow-lg"

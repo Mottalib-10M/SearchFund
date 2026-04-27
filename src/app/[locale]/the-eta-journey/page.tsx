@@ -10,13 +10,13 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "The 6 Phases of ETA: Buy, Run & Exit a Business | SFM",
+    title: "How to Buy a Business in 6 Steps: The ETA Framework",
     description:
-      "Most people overcomplicate ETA. We broke it into 6 clear phases — prepare, fundraise, search, acquire, operate, exit — with calculators at every single step.",
+      "Prepare, fundraise, search, acquire, operate, exit. Each phase broken down with dedicated guides, interactive tools, templates, and common mistakes to avoid.",
     openGraph: {
-      title: "The 6 Phases of ETA: Buy, Run & Exit a Business | SFM",
+      title: "How to Buy a Business in 6 Steps: The ETA Framework",
       description:
-        "Most people overcomplicate ETA. We broke it into 6 clear phases — prepare, fundraise, search, acquire, operate, exit — with calculators at every single step.",
+        "Prepare, fundraise, search, acquire, operate, exit. Each phase broken down with dedicated guides, interactive tools, templates, and common mistakes to avoid.",
       type: "website",
     },
     alternates: {
