@@ -84,7 +84,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const investor = await getInvestor(slug);
 
   if (!investor) {
-    return { title: "Investor Not Found \u2014 SearchFundMarket" };
+    return { title: "Investor Not Found - SearchFundMarket" };
   }
 
   const name = investor.firmName || investor.user.name || "Investor";

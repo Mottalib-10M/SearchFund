@@ -14,7 +14,7 @@ export default function Icon() {
           alignItems: "center",
           justifyContent: "center",
           backgroundColor: "#1D1D1F",
-          borderRadius: "7px",
+          borderRadius: "50%",
         }}
       >
         <span

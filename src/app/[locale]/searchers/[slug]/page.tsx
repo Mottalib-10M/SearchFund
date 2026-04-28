@@ -86,7 +86,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const searcher = await getSearcher(slug);
 
   if (!searcher) {
-    return { title: "Searcher Not Found \u2014 SearchFundMarket" };
+    return { title: "Searcher Not Found - SearchFundMarket" };
   }
 
   const name = searcher.user.name ?? "Searcher";
