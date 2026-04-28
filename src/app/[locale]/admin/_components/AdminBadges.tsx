@@ -61,3 +61,28 @@ export function ConnectionStatusBadge({ status }: { status: string }) {
     </span>
   );
 }
+
+export function InvestorTypeBadge({ type }: { type: string }) {
+  const colors: Record<string, string> = {
+    "Institutional Fund": "bg-blue-100 text-blue-700",
+    "Accelerator": "bg-purple-100 text-purple-700",
+    "Family Office": "bg-amber-100 text-amber-700",
+    "Fund of Funds": "bg-teal-100 text-teal-700",
+    "PE Fund": "bg-indigo-100 text-indigo-700",
+    "Investment Firm": "bg-sky-100 text-sky-700",
+    "Platform": "bg-green-100 text-green-700",
+    "Individual Investor": "bg-orange-100 text-orange-700",
+    "Strategic Partner": "bg-rose-100 text-rose-700",
+    "Holding Company": "bg-slate-100 text-slate-700",
+    "Search Fund": "bg-cyan-100 text-cyan-700",
+  };
+  // Match on partial key for compound types like "PE / Accelerator"
+  const match = Object.keys(colors).find((k) => type.includes(k));
+  return (
+    <span
+      className={`text-xs font-medium px-2 py-0.5 rounded-full whitespace-nowrap ${match ? colors[match] : "bg-apple-gray-100 text-apple-gray-700"}`}
+    >
+      {type}
+    </span>
+  );
+}

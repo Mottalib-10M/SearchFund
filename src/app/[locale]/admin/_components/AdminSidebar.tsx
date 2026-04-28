@@ -10,6 +10,7 @@ import {
   Link2,
   HelpCircle,
   MessageCircle,
+  Target,
   LogOut,
 } from "lucide-react";
 
@@ -21,6 +22,7 @@ const navItems = [
   { href: "/admin/connections", label: "Connections", icon: Link2 },
   { href: "/admin/inquiries", label: "Inquiries", icon: HelpCircle },
   { href: "/admin/forum", label: "Forum", icon: MessageCircle },
+  { href: "/admin/prospection", label: "Prospection", icon: Target },
 ];
 
 export default function AdminSidebar() {
