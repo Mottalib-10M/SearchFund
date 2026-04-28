@@ -142,7 +142,7 @@ export const directoryCategories: DirectoryCategory[] = [
     name: "MBA Programs Teaching ETA",
     description: "Business schools offering courses, research, and communities focused on entrepreneurship through acquisition.",
     ogTitle: "MBA Programs for ETA: Search Fund Courses & Clubs | SFM",
-    ogDescription: "Find MBA programs with search fund courses, ETA clubs, and acquisition entrepreneurship tracks. From Stanford GSB to IESE and HEC — the complete curated list.",
+    ogDescription: "Find MBA programs with search fund courses, ETA clubs, and acquisition entrepreneurship tracks. From Stanford GSB to IESE and HEC, the complete curated list.",
     introText: "The search fund model was born at Stanford GSB and has since spread to leading business schools worldwide. This directory lists MBA programs that offer ETA-specific courses, research centers, search fund clubs, and alumni networks focused on acquisition entrepreneurship. Whether you are considering an MBA or looking to tap into a school's ETA community, this guide will help you find the right fit.",
   },
   {
@@ -158,7 +158,7 @@ export const directoryCategories: DirectoryCategory[] = [
     name: "ETA Conferences & Events",
     description: "Search fund conferences, ETA summits, and networking events for searchers, investors, and operators.",
     ogTitle: "ETA Conferences & Search Fund Events Worldwide | SFM",
-    ogDescription: "Full calendar of search fund conferences and ETA events worldwide — Stanford, IESE, HBS, and beyond. Find your next deal sourcing and networking opportunity.",
+    ogDescription: "Full calendar of search fund conferences and ETA events worldwide: Stanford, IESE, HBS, and beyond. Find your next deal sourcing and networking opportunity.",
     introText: "Conferences and events are where the ETA community comes together. From the flagship Stanford and IESE search fund conferences to regional meetups and online summits, these events offer invaluable networking, deal sourcing, and knowledge sharing opportunities for searchers, investors, and operators.",
   },
   {

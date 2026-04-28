@@ -17,7 +17,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const total = getTotalEntryCount();
   return {
     title: `ETA Directory: ${total}+ Investors, Brokers & More | SFM`,
-    description: `Stop Googling. ${total}+ curated resources in one place — investors, MBA programs, brokers, advisors, conferences, podcasts, and books. All vetted for search funds.`,
+    description: `Stop Googling. ${total}+ curated resources in one place: investors, MBA programs, brokers, advisors, conferences, podcasts, and books. All vetted for search funds.`,
     alternates: {
       canonical: `${BASE}/${locale}/directory`,
     },
@@ -48,7 +48,7 @@ export default async function DirectoryHubPage({ params }: Props) {
       </h1>
       <p className="text-apple-gray-500 mt-2 max-w-2xl">
         {total}+ curated entries across investors, MBA programs, brokers,
-        conferences, podcasts, books, and legal advisors &mdash; all verified
+        conferences, podcasts, books, and legal advisors, all verified
         from public sources.
       </p>
 

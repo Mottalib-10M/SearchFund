@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const alt =
-  "Search Fund Industry Data & Statistics — SearchFundMarket";
+  "Search Fund Industry Data & Statistics | SearchFundMarket";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 

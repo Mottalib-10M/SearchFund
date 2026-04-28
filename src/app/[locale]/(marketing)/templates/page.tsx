@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: "Free M&A Templates: LOI, DD Checklist & PPM [Free] | SFM",
     description:
-      "Don't start from a blank page. Download free, ready-to-use templates — Letter of Intent, Due Diligence Checklist, and PPM — built for search fund entrepreneurs.",
+      "Don't start from a blank page. Download free, ready-to-use templates: Letter of Intent, Due Diligence Checklist, and PPM, built for search fund entrepreneurs.",
     alternates: { canonical: `${BASE}/${locale}/templates` },
   };
 }

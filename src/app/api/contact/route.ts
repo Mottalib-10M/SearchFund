@@ -37,7 +37,7 @@ export async function POST(request: Request) {
       }),
       sendEmail({
         to: email,
-        subject: "We received your message — SearchFundMarket",
+        subject: "We received your message - SearchFundMarket",
         html: confirmation.html,
         text: confirmation.text,
       }),

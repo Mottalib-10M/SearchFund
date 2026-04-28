@@ -13,11 +13,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: "SearchFundMarket: Step-by-Step Guides to Master ETA",
     description:
-      "62 free guides, financial calculators, and deal templates to master Entrepreneurship Through Acquisition. Start your search fund journey today — all free.",
+      "62 free guides, financial calculators, and deal templates to master Entrepreneurship Through Acquisition. Start your search fund journey today, all free.",
     openGraph: {
       title: "SearchFundMarket: Step-by-Step Guides to Master ETA",
       description:
-        "62 free guides, financial calculators, and deal templates to master Entrepreneurship Through Acquisition. Start your search fund journey today — all free.",
+        "62 free guides, financial calculators, and deal templates to master Entrepreneurship Through Acquisition. Start your search fund journey today, all free.",
       type: "website",
     },
     alternates: {
