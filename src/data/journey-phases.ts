@@ -191,7 +191,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "kpi-dashboard-post-acquisition" },
     ],
     tools: [{ slug: "value-creation-simulator", exists: true }],
-    templates: [],
+    templates: [{ slug: "100-day-plan" }],
     quote: {
       textKey: "phases.operate.quote",
       person: "Daniel Muzquiz",
@@ -217,7 +217,7 @@ export const journeyPhases: JourneyPhaseData[] = [
       { slug: "life-after-selling" },
     ],
     tools: [{ slug: "exit-returns-calculator", exists: true }],
-    templates: [],
+    templates: [{ slug: "exit-readiness-checklist" }],
     quote: {
       textKey: "phases.exit.quote",
       person: "A.J. Wasserstein",
