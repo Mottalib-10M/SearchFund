@@ -4,6 +4,7 @@ import { allArticles, categoryMeta } from "./[locale]/learn/_articles/article-re
 import { hasFRVersion } from "./[locale]/learn/_articles/fr-registry";
 import { routeLocales, locales, type Locale } from "@/lib/i18n-registry";
 import { templates } from "./[locale]/(marketing)/templates/_data";
+import { allPrograms } from "./[locale]/mba/_data/program-registry";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -96,6 +97,22 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "weekly",
       priority: 0.8,
       alternates: buildAlternates(`/learn/category/${cat.slug}`, ["en"]),
+    });
+  }
+
+  // --- MBA hub + program profiles (English only) ---
+  entries.push({
+    url: `${BASE}/en/mba`,
+    changeFrequency: "weekly",
+    priority: 0.9,
+    alternates: buildAlternates("/mba", ["en"]),
+  });
+  for (const program of allPrograms) {
+    entries.push({
+      url: `${BASE}/en/mba/${program.slug}`,
+      changeFrequency: "monthly",
+      priority: 0.8,
+      alternates: buildAlternates(`/mba/${program.slug}`, ["en"]),
     });
   }
 

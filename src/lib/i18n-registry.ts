@@ -1,5 +1,6 @@
 import { allArticles, categoryMeta } from "@/app/[locale]/learn/_articles/article-registry";
 import { hasFRVersion } from "@/app/[locale]/learn/_articles/fr-registry";
+import { allPrograms } from "@/app/[locale]/mba/_data/program-registry";
 
 // ---------------------------------------------------------------------------
 // Locale types
@@ -25,6 +26,7 @@ const multilingualRoutes: Record<string, Locale[]> = {
 const englishOnlyStatic: string[] = [
   "/learn",
   "/learn/glossary",
+  "/mba",
   "/searchers",
   "/investors",
   "/community",
@@ -53,6 +55,11 @@ function buildRouteLocales(): Record<string, Locale[]> {
   // All categories: English only
   for (const cat of categoryMeta) {
     map[`/learn/category/${cat.slug}`] = ["en"];
+  }
+
+  // MBA program profiles: English only
+  for (const program of allPrograms) {
+    map[`/mba/${program.slug}`] = ["en"];
   }
 
   return map;
