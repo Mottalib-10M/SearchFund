@@ -13,6 +13,16 @@ export default function ETAWithoutMBAArticle() {
         </p>
       </header>
 
+      {/* Cross-link to comprehensive pillar article */}
+      <div className="mb-8 rounded-lg border border-green-200 bg-green-50 p-4 dark:border-green-800 dark:bg-green-950">
+        <p className="text-sm font-medium text-green-900 dark:text-green-100">
+          For a deeper data analysis of non-MBA paths, see our comprehensive guide:{" "}
+          <Link href="/learn/search-fund-without-mba" className="underline hover:text-green-700 dark:hover:text-green-300">
+            Search Funds Without an MBA: Data, Paths &amp; Strategies
+          </Link>
+        </p>
+      </div>
+
       <div className={bodyClass}>
         <p>
           For years, the entrepreneurship through acquisition (ETA) model has been closely associated with MBA programs, particularly Harvard Business School and Stanford GSB. The traditional narrative suggests that top-tier business school credentials are prerequisites for raising a search fund and acquiring a company. But this narrative is rapidly changing.
@@ -287,50 +297,34 @@ export default function ETAWithoutMBAArticle() {
       </section>
 
       <section className="mt-12">
-        <h2 className={h2Class}>Case Studies: Successful Non-MBA Searchers</h2>
+        <h2 className={h2Class}>Common Non-MBA Searcher Archetypes</h2>
         <div className={bodyClass}>
           <p>
-            While the search fund literature often features MBA graduates, numerous successful searchers have taken alternative paths. Though many prefer to operate quietly rather than publicize their backgrounds, several examples illustrate diverse entry points:
+            While the search fund literature often features MBA graduates, successful non-MBA searchers tend to fall into recognizable archetypes based on how they leverage existing strengths:
           </p>
 
           <h3 className={h3Class}>The Industry Veteran</h3>
           <p>
-            A 15-year healthcare operations executive decided to pursue ownership rather than continue climbing the corporate ladder. Using industry contacts and self-funded search methods, he identified a behavioral health services provider in a market he knew well. His operational background and industry relationships allowed him to complete thorough due diligence and immediately add value post-acquisition.
+            Professionals with 10-20 years of operational experience in a specific sector (healthcare, manufacturing, logistics) who use deep domain knowledge to source, evaluate, and operate acquisitions in their industry. Their credibility with sellers and employees is immediate, and their existing professional networks often provide deal flow and investor introductions.
+          </p>
+
+          <h3 className={h3Class}>The Technical Operator</h3>
+          <p>
+            Engineers, developers, or technical leaders who target technology-enabled businesses where their technical due diligence capability is a competitive advantage. They can evaluate product architecture, technical debt, and engineering teams in ways that generalist MBAs cannot.
+          </p>
+
+          <h3 className={h3Class}>The Self-Funded Sales Leader</h3>
+          <p>
+            Professionals from sales or business development backgrounds who conduct self-funded searches, often part-time while consulting. Their ability to build rapport with sellers, negotiate effectively, and grow revenue post-acquisition compensates for the absence of an institutional investor network.
+          </p>
+
+          <h3 className={h3Class}>The International Finance Professional</h3>
+          <p>
+            Professionals with private equity, investment banking, or corporate finance backgrounds who apply analytical skills and financial networks to raise capital and evaluate deals without an MBA credential. Particularly common in European and international markets where the MBA-to-search pipeline is less established.
           </p>
 
           <p>
-            He raised acquisition capital from family offices and high-net-worth individuals in his network who valued his healthcare expertise over business school credentials. Five years post-acquisition, he's grown the business significantly through operational improvements and strategic add-on acquisitions in adjacent markets.
-          </p>
-
-          <h3 className={h3Class}>The Technical Founder</h3>
-          <p>
-            An engineer who had built and sold a small software company pursued search fund acquisition as a next chapter. With an undergraduate engineering degree but no MBA, he focused on SaaS and software services businesses where his technical background provided advantages.
-          </p>
-
-          <p>
-            He attended ETA conferences, built relationships with search fund investors interested in software, and eventually partnered with a former consultant who brought financial modeling and investor relations strengths. Their complementary skills and his technical credibility led to a successful acquisition of a vertical market software business.
-          </p>
-
-          <h3 className={h3Class}>The Self-Funded Entrepreneur</h3>
-          <p>
-            After years in corporate sales leadership, a professional decided to acquire a business using entirely self-funded methods. She maintained consulting work while conducting a part-time search, spending minimal capital on databases and travel.
-          </p>
-
-          <p>
-            When she identified a distribution business in an industry adjacent to her sales background, she structured the deal with substantial seller financing and an SBA loan, requiring minimal investor capital. Her sales skills proved critical both in negotiating with the seller and in growing the business post-acquisition through improved customer acquisition systems.
-          </p>
-
-          <h3 className={h3Class}>The International Searcher</h3>
-          <p>
-            A European with a background in private equity and corporate finance pursued search fund acquisition without an MBA. He used connections from his finance career to raise a small search fund focused on manufacturing businesses in his home country.
-          </p>
-
-          <p>
-            His financial analysis skills, local market knowledge, and professional network compensated for lack of business school credentials. He successfully acquired and now operates a specialized manufacturing company, applying private equity operational playbooks to drive growth.
-          </p>
-
-          <p>
-            These examples share common themes: using existing expertise, being creative about funding and networking, focusing on industries where backgrounds provide advantages, and demonstrating capabilities through results rather than credentials.
+            These archetypes share common themes: leveraging existing expertise, targeting industries where backgrounds provide clear advantages, and demonstrating capabilities through results rather than credentials.
           </p>
         </div>
       </section>
@@ -455,7 +449,8 @@ export default function ETAWithoutMBAArticle() {
         <div className={bodyClass}>
           <h3 className={h3Class}>Can you do a search fund without an MBA?</h3>
           <p>
-            Yes. While roughly 70% of traditional searchers have MBAs, the
+            Yes. While the majority of traditional searchers have MBAs (per the{" "}
+            <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Stanford Search Fund Study</a>), the
             self-funded search model is particularly well-suited for non-MBA
             professionals. Industry expertise (5-10+ years in a target
             sector), operational experience, and personal savings or{" "}
@@ -497,28 +492,16 @@ export default function ETAWithoutMBAArticle() {
         <div className={bodyClass}>
           <ul className={ulClass}>
             <li>
-              Stanford Graduate School of Business, "2024 Search Fund Study" (available at GSB website)
+              <a href="https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">Stanford GSB — 2024 Search Fund Study</a>
             </li>
             <li>
-              Walker, Royce, and Wasserman, "HBR Guide to Buying a Small Business" (Harvard Business Review Press)
+              Walker, Royce, and Wasserman, &ldquo;HBR Guide to Buying a Small Business&rdquo; (Harvard Business Review Press, 2017)
             </li>
             <li>
-              Pacific Lake Partners Search Fund Resources and Accelerator Program
+              <a href="https://www.iese.edu/entrepreneurship/search-funds/" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">IESE — International Search Fund Study</a>
             </li>
             <li>
-              SearchFunder.com community discussions and searcher profiles
-            </li>
-            <li>
-              International Search Fund Summit conference materials and presentations
-            </li>
-            <li>
-              Interviews with self-funded searchers and industry-focused acquirers
-            </li>
-            <li>
-              SBA 7(a) loan program guidelines for business acquisitions
-            </li>
-            <li>
-              European search fund research and case studies from IESE, LBS, and other business schools
+              <a href="https://www.sba.gov/funding-programs/loans/7a-loans" target="_blank" rel="noopener noreferrer" className="text-apple-accent hover:underline">SBA 7(a) Loan Program — Official Guidelines</a>
             </li>
           </ul>
         </div>

@@ -1219,7 +1219,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "No MBA? No problem. Self-funded searches, industry expertise, ETA accelerators, and proven strategies for breaking into search funds without a business school pedigree.",
     datePublished: "2025-04-22",
-    dateModified: "2026-04-23",
+    dateModified: "2026-04-29",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/faculty-research/case-studies/2024-search-fund-study", year: 2024 },
       { name: "Search Fund Partners", title: "Non-Traditional Searcher Report", url: "https://www.searchfundpartners.com/", year: 2024 },
@@ -10136,7 +10136,7 @@ export const allArticles: ArticleMeta[] = [
     ogDescription:
       "Stanford GSB, HBS, Booth, INSEAD, IESE - which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems.",
     datePublished: "2025-04-22",
-    dateModified: "2026-04-23",
+    dateModified: "2026-04-29",
     sources: [
       { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
       { name: "IESE Business School", title: "International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },

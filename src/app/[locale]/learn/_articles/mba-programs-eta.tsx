@@ -9,6 +9,17 @@ export default function MBAProgramsETAArticle() {
         <p className="mt-4 text-sm text-gray-600 dark:text-gray-400">10 min read</p>
       </header>
 
+      {/* Editorial banner — links to the comprehensive MBA & ETA hub */}
+      <div className="mb-8 rounded-lg border border-indigo-200 bg-indigo-50 p-4 dark:border-indigo-800 dark:bg-indigo-950">
+        <p className="text-sm font-medium text-indigo-900 dark:text-indigo-100">
+          Looking for in-depth program profiles?{" "}
+          <Link href="/mba" className="underline hover:text-indigo-700 dark:hover:text-indigo-300">
+            Visit our MBA &amp; ETA Hub
+          </Link>{" "}
+          for detailed profiles of each program, verified faculty, alumni outcomes, and a full ranking methodology.
+        </p>
+      </div>
+
       <div className="prose prose-lg dark:prose-invert">
         <p className={bodyClass}>
           Your choice of MBA program can significantly impact your success in the search fund ecosystem. While you don't need an MBA to become a successful searcher, the right program provides three critical advantages: access to a network of search fund investors, immersion in a community of fellow searchers, and structured coursework that prepares you for acquisition entrepreneurship.
@@ -51,7 +62,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Stanford Search Fund and Entrepreneurship Through Acquisition Club typically has 40-60 active members each year, making it one of the largest student organizations focused on this path. The club hosts weekly speaker events featuring successful searchers, investors, and intermediaries, maintains a database of past searcher presentations and investment memos, and organizes an annual trek to visit operating search fund companies.
+          <strong>ETA Club and Community:</strong> The Stanford Search Fund and Entrepreneurship Through Acquisition Club is one of the largest student organizations focused on this path. The club hosts weekly speaker events featuring successful searchers, investors, and intermediaries, maintains a database of past searcher presentations and investment memos, and organizes an annual trek to visit operating search fund companies.
         </p>
 
         <p className={bodyClass}>
@@ -59,15 +70,11 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Investor Connections:</strong> Stanford's alumni network includes many of the most active search fund investors. The GSB hosts an annual Search Fund Symposium that brings together 100+ investors, searchers, and intermediaries. Students gain exposure to investors throughout their two years, from formal presentations in ETA classes to informal dinners organized by the club.
+          <strong>Investor Connections:</strong> Stanford's alumni network includes many of the most active search fund investors. The GSB hosts an annual Search Fund Symposium that brings together investors, searchers, and intermediaries. Students gain exposure to investors throughout their two years, from formal presentations in ETA classes to informal dinners organized by the club.
         </p>
 
         <p className={bodyClass}>
-          <strong>Notable Alumni Searchers:</strong> The list reads like a who's who of successful search funds: Jim Sharpe (Peninsula Capital), Steve Pham (Resilience Capital), Brent Beardall (WCI Communities), and hundreds of others. The depth of the alumni network creates powerful mentorship opportunities and often leads to partnerships between recent graduates and experienced investors or operators.
-        </p>
-
-        <p className={bodyClass}>
-          <strong>Track Record:</strong> Stanford consistently produces 15-25 funded searchers per year, representing roughly 25-30% of all traditional search funds launched globally. The Stanford Search Fund Study, published biennially by the Center for Entrepreneurial Studies, serves as the definitive research on search fund returns and industry trends.
+          <strong>Track Record:</strong> Stanford consistently produces the largest share of funded searchers among MBA programs globally. The Stanford Search Fund Study, published biennially by the Center for Entrepreneurial Studies, serves as the definitive research on search fund returns and industry trends.
         </p>
 
         <h2 className={h2Class}>Harvard Business School</h2>
@@ -77,7 +84,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Harvard ETA Club typically enrolls 50-70 members annually. The club runs a "searcher-in-residence" program where recent HBS searchers share office space with students and provide mentorship. Weekly meetings feature investor panels, due diligence workshops, and pitch practice sessions. The club also maintains relationships with business brokers and intermediaries who share off-market deal flow with students.
+          <strong>ETA Club and Community:</strong> The Harvard ETA Club is among the most active MBA search fund communities. The club runs a "searcher-in-residence" program where recent HBS searchers share office space with students and provide mentorship. Weekly meetings feature investor panels, due diligence workshops, and pitch practice sessions. The club also maintains relationships with business brokers and intermediaries who share off-market deal flow with students.
         </p>
 
         <p className={bodyClass}>
@@ -85,15 +92,11 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Investor Connections:</strong> The HBS search fund investor network rivals Stanford's in both depth and activity. Many prominent search fund investors are HBS alumni, including Morten Lund (Search Investment Partners) and various family offices that invest exclusively in HBS searchers. The annual ETA Conference at HBS draws 200+ attendees from across the ecosystem.
+          <strong>Investor Connections:</strong> The HBS search fund investor network rivals Stanford's in both depth and activity. Many prominent search fund investors are HBS alumni, and the annual ETA Conference at HBS draws attendees from across the ecosystem.
         </p>
 
         <p className={bodyClass}>
-          <strong>Notable Alumni Searchers:</strong> Successful HBS searchers include Chris Yung (National Dental Partners), Alex Katz (DealCloud), and Nate Stoll (RevenueCat). HBS searchers often note that the school's emphasis on general management and leadership complements the operational challenges of running a small business.
-        </p>
-
-        <p className={bodyClass}>
-          <strong>Track Record:</strong> HBS produces 12-20 funded searchers annually. The school's focus on general management rather than finance or consulting creates a culture that values operating experience, which serves searchers well post-acquisition.
+          <strong>Track Record:</strong> HBS produces a significant number of funded searchers annually. The school's focus on general management rather than finance or consulting creates a culture that values operating experience, which serves searchers well post-acquisition.
         </p>
 
         <h2 className={h2Class}>Chicago Booth</h2>
@@ -103,7 +106,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Booth ETA Club has 30-40 active members each year. The club emphasizes rigorous financial modeling and valuation training, running workshops on quality of earnings analysis, working capital adjustments, and deal structuring. Booth's proximity to Chicago's large professional services community provides access to accountants, lawyers, and bankers who work on search fund deals.
+          <strong>ETA Club and Community:</strong> The Booth ETA Club emphasizes rigorous financial modeling and valuation training, running workshops on quality of earnings analysis, working capital adjustments, and deal structuring. Booth's proximity to Chicago's large professional services community provides access to accountants, lawyers, and bankers who work on search fund deals.
         </p>
 
         <p className={bodyClass}>
@@ -115,11 +118,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Notable Alumni Searchers:</strong> Booth searchers include Michael Kim (Crestview Partners), Ryan Milligan (Milligan Partners), and numerous searchers who have acquired manufacturing and distribution businesses in the Midwest.
-        </p>
-
-        <p className={bodyClass}>
-          <strong>Track Record:</strong> Booth produces 8-15 funded searchers per year. The program's quantitative rigor and focus on finance attract students who excel at deal analysis and negotiation, though some note that Booth provides less operational training than Stanford or HBS.
+          <strong>Track Record:</strong> Booth has a growing track record of funded searchers. The program's quantitative rigor and focus on finance attract students who excel at deal analysis and negotiation, though some note that Booth provides less operational training than Stanford or HBS.
         </p>
 
         <h2 className={h2Class}>Wharton</h2>
@@ -129,7 +128,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Wharton ETA Club has 20-30 members annually. The club benefits from Wharton's strength in finance and private equity, regularly partnering with the Private Equity and Venture Capital Club for joint events. Philadelphia's proximity to New York provides access to a large investor community.
+          <strong>ETA Club and Community:</strong> The Wharton ETA Club benefits from Wharton's strength in finance and private equity, regularly partnering with the Private Equity and Venture Capital Club for joint events. Philadelphia's proximity to New York provides access to a large investor community.
         </p>
 
         <p className={bodyClass}>
@@ -141,7 +140,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Track Record:</strong> Wharton produces 5-10 funded searchers annually. The school's East Coast location and finance orientation attract students interested in acquisition entrepreneurship in manufacturing, distribution, and business services.
+          <strong>Track Record:</strong> Wharton has a growing cohort of funded searchers. The school's East Coast location and finance orientation attract students interested in acquisition entrepreneurship in manufacturing, distribution, and business services.
         </p>
 
         <h2 className={h2Class}>Kellogg</h2>
@@ -151,7 +150,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Kellogg ETA Club has 15-25 active members. The club emphasizes post-acquisition growth strategies, reflecting Kellogg's strength in marketing and operations. Students often focus on consumer-facing businesses where Kellogg's brand management expertise provides competitive advantages.
+          <strong>ETA Club and Community:</strong> The Kellogg ETA Club emphasizes post-acquisition growth strategies, reflecting Kellogg's strength in marketing and operations. Students often focus on consumer-facing businesses where Kellogg's brand management expertise provides competitive advantages.
         </p>
 
         <p className={bodyClass}>
@@ -163,7 +162,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Track Record:</strong> Kellogg produces 3-8 funded searchers annually. Alumni searchers often emphasize Kellogg's teamwork culture and general management focus as particularly valuable during the challenging early days of search and acquisition.
+          <strong>Track Record:</strong> Kellogg has a growing number of alumni searchers. Alumni often emphasize Kellogg's teamwork culture and general management focus as particularly valuable during the challenging early days of search and acquisition.
         </p>
 
         <h2 className={h2Class}>INSEAD: European Leader</h2>
@@ -173,11 +172,11 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The INSEAD Entrepreneurship Through Acquisition Club has 25-35 members across both campuses. The European search fund market is less mature than the US, creating both challenges (fewer investors, less established infrastructure) and opportunities (less competition, lower valuations).
+          <strong>ETA Club and Community:</strong> The INSEAD Entrepreneurship Through Acquisition Club spans both campuses. The European search fund market is less mature than the US, creating both challenges (fewer investors, less established infrastructure) and opportunities (less competition, lower valuations).
         </p>
 
         <p className={bodyClass}>
-          <strong>Academic Resources:</strong> INSEAD offers "Acquiring a Small to Medium Enterprise," taught by Professor Claudia Zeisberger, which covers European search fund dynamics. The one-year program format creates urgency, forcing students to commit quickly to the search fund path. INSEAD's international student body provides networks across multiple European countries and Asia.
+          <strong>Academic Resources:</strong> INSEAD offers coursework covering European search fund dynamics and SME acquisition. The one-year program format creates urgency, forcing students to commit quickly to the search fund path. INSEAD's international student body provides networks across multiple European countries and Asia.
         </p>
 
         <p className={bodyClass}>
@@ -189,7 +188,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Track Record:</strong> INSEAD produces 5-12 funded searchers annually, representing a significant portion of European search fund activity. The school's brand recognition across Europe helps with seller credibility during acquisitions.
+          <strong>Track Record:</strong> INSEAD produces a significant portion of European search fund activity. The school's brand recognition across Europe helps with seller credibility during acquisitions.
         </p>
 
         <h2 className={h2Class}>IESE Barcelona</h2>
@@ -201,7 +200,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The IESE Entrepreneurship Through Acquisition Club has 15-25 members. The club benefits from Barcelona's growing entrepreneurial ecosystem and Spain's large small business market. IESE's Latin American connections create opportunities for searchers interested in those markets.
+          <strong>ETA Club and Community:</strong> The IESE Entrepreneurship Through Acquisition Club benefits from Barcelona's growing entrepreneurial ecosystem and Spain's large small business market. IESE's Latin American connections create opportunities for searchers interested in those markets.
         </p>
 
         <p className={bodyClass}>
@@ -213,7 +212,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Track Record:</strong> IESE produces 3-8 funded searchers annually, with many focusing on Spain, Portugal, and Latin America. The school's Catholic, values-based culture resonates with family business owners, providing advantages during acquisition negotiations.
+          <strong>Track Record:</strong> IESE searchers often focus on Spain, Portugal, and Latin America. The school's values-based culture resonates with family business owners, providing advantages during acquisition negotiations.
         </p>
 
         <h2 className={h2Class}>Columbia Business School</h2>
@@ -223,7 +222,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>ETA Club and Community:</strong> The Columbia ETA Club has 15-20 active members. New York's business community provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events using Columbia's extensive alumni network in finance and private equity.
+          <strong>ETA Club and Community:</strong> The Columbia ETA Club benefits from New York's business community, which provides unparalleled access to investors, intermediaries, and service providers. The club organizes regular networking events using Columbia's extensive alumni network in finance and private equity.
         </p>
 
         <p className={bodyClass}>
@@ -235,7 +234,7 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Track Record:</strong> Columbia produces 4-8 funded searchers annually. The East Coast location appeals to students interested in manufacturing, distribution, and business services sectors concentrated in the Northeast and Mid-Atlantic regions.
+          <strong>Track Record:</strong> Columbia has a growing ETA community. The East Coast location appeals to students interested in manufacturing, distribution, and business services sectors concentrated in the Northeast and Mid-Atlantic regions.
         </p>
 
         <h2 className={h2Class}>Other Notable Programs</h2>
@@ -245,27 +244,27 @@ export default function MBAProgramsETAArticle() {
         </p>
 
         <p className={bodyClass}>
-          <strong>Darden (University of Virginia):</strong> Darden's general management curriculum and case method instruction align well with search fund preparation. The school produces 3-6 funded searchers annually, often focusing on businesses in the Southeast. Darden's tight-knit community creates strong peer support during search and acquisition.
+          <strong>Darden (University of Virginia):</strong> Darden's general management curriculum and case method instruction align well with search fund preparation. Searchers often focus on businesses in the Southeast. Darden's tight-knit community creates strong peer support during search and acquisition.
         </p>
 
         <p className={bodyClass}>
-          <strong>Tuck (Dartmouth):</strong> Tuck's small class size (280 students) creates an intimate community where ETA-interested students can form close relationships. The school produces 2-5 funded searchers annually. Tuck's general management focus and emphasis on leadership development serve searchers well post-acquisition.
+          <strong>Tuck (Dartmouth):</strong> Tuck's small class size creates an intimate community where ETA-interested students can form close relationships. Tuck's general management focus and emphasis on leadership development serve searchers well post-acquisition.
         </p>
 
         <p className={bodyClass}>
-          <strong>Ross (University of Michigan):</strong> Michigan Ross has a growing ETA community, producing 3-6 funded searchers annually. The school's location in the Midwest provides access to manufacturing and industrial businesses. Ross's action-based learning approach includes opportunities to work on real acquisition projects during school.
+          <strong>Ross (University of Michigan):</strong> Michigan Ross has a growing ETA community. The school's location in the Midwest provides access to manufacturing and industrial businesses. Ross's action-based learning approach includes opportunities to work on real acquisition projects during school.
         </p>
 
         <p className={bodyClass}>
-          <strong>MIT Sloan:</strong> While Sloan is better known for technology entrepreneurship, the school produces 2-4 searchers annually, often focused on technology-enabled services businesses. The program's analytical rigor prepares students well for due diligence and deal analysis.
+          <strong>MIT Sloan:</strong> While Sloan is better known for technology entrepreneurship, the school has a small but growing group of searchers focused on technology-enabled services businesses. The program's analytical rigor prepares students well for due diligence and deal analysis.
         </p>
 
         <p className={bodyClass}>
-          <strong>London Business School (LBS):</strong> LBS has an emerging ETA community focused on UK and European searches. The school produces 3-6 funded searchers annually, benefiting from London's position as a European financial center.
+          <strong>London Business School (LBS):</strong> LBS has an emerging ETA community focused on UK and European searches, benefiting from London's position as a European financial center.
         </p>
 
         <p className={bodyClass}>
-          <strong>UCLA Anderson:</strong> Anderson produces 2-4 funded searchers annually, often targeting businesses in California and the Western United States. The school's entrepreneurship curriculum includes small business acquisition content.
+          <strong>UCLA Anderson:</strong> Anderson has a small but growing ETA community, often targeting businesses in California and the Western United States. The school's entrepreneurship curriculum includes small business acquisition content.
         </p>
 
         <h2 className={h2Class}>Comparing Programs: What to Look For</h2>
