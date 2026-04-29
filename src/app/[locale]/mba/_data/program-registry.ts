@@ -592,7 +592,31 @@ export const hubFAQs: { question: string; answer: string }[] = [
 ];
 
 // ---------------------------------------------------------------------------
-// Component map (lazy — populated as profiles are imported)
+// Component map
 // ---------------------------------------------------------------------------
 
-export const programComponents: Record<string, () => JSX.Element> = {};
+import StanfordGSBProfile from "../_profiles/stanford-gsb";
+import IESEProfile from "../_profiles/iese";
+import HarvardBusinessSchoolProfile from "../_profiles/harvard-business-school";
+import YaleSomProfile from "../_profiles/yale-som";
+import KelloggProfile from "../_profiles/kellogg";
+import WhartonProfile from "../_profiles/wharton";
+import INSEADProfile from "../_profiles/insead";
+import LondonBusinessSchoolProfile from "../_profiles/london-business-school";
+import ChicagoBoothProfile from "../_profiles/chicago-booth";
+import IEBusinessSchoolProfile from "../_profiles/ie-business-school";
+import HECParisProfile from "../_profiles/hec-paris";
+
+export const programComponents: Record<string, () => JSX.Element> = {
+  "stanford-gsb": StanfordGSBProfile,
+  "iese": IESEProfile,
+  "harvard-business-school": HarvardBusinessSchoolProfile,
+  "yale-som": YaleSomProfile,
+  "kellogg": KelloggProfile,
+  "wharton": WhartonProfile,
+  "insead": INSEADProfile,
+  "london-business-school": LondonBusinessSchoolProfile,
+  "chicago-booth": ChicagoBoothProfile,
+  "ie-business-school": IEBusinessSchoolProfile,
+  "hec-paris": HECParisProfile,
+};
