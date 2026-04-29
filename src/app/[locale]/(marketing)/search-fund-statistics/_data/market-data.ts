@@ -242,3 +242,213 @@ export const FAILURE_CAUSES: FailureCause[] = [
   { cause: "Management / leadership issues", pct: 10 },
   { cause: "Macroeconomic factors", pct: 6 },
 ];
+
+// ---------------------------------------------------------------------------
+// International vs US deal comparison (IESE 2024 + Stanford 2024)
+// ---------------------------------------------------------------------------
+
+export interface DealComparison {
+  metric: string;
+  us: string;
+  intl: string;
+  usSourceId: string;
+  intlSourceId: string;
+}
+
+export const DEAL_COMPARISON: DealComparison[] = [
+  {
+    metric: "Median purchase price",
+    us: "$14.4M",
+    intl: "$11.7M",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+  {
+    metric: "Median revenue at acquisition",
+    us: "$7.3M",
+    intl: "$7.8M",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+  {
+    metric: "Median EBITDA margin",
+    us: "22.5%",
+    intl: "24%",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+  {
+    metric: "Median employees",
+    us: "40",
+    intl: "50",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+  {
+    metric: "Aggregate gross IRR",
+    us: "35.1%",
+    intl: "18.1%",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+  {
+    metric: "Aggregate gross MOIC",
+    us: "4.5x",
+    intl: "2.0x",
+    usSourceId: "stanford",
+    intlSourceId: "iese",
+  },
+];
+
+// ---------------------------------------------------------------------------
+// Solo vs partner searches (Stanford 2024)
+// ---------------------------------------------------------------------------
+
+export interface SearchStructure {
+  type: string;
+  irr: string;
+  detail: string;
+  sourceId: string;
+}
+
+export const SEARCH_STRUCTURE: SearchStructure[] = [
+  {
+    type: "Partner search",
+    irr: "40.5%",
+    detail: "Two co-searchers sharing a fund",
+    sourceId: "stanford",
+  },
+  {
+    type: "Solo search",
+    irr: "30.3%",
+    detail: "Single searcher. 5 of 6 recent 10x+ returns were solo",
+    sourceId: "stanford",
+  },
+];
+
+// ---------------------------------------------------------------------------
+// Searcher demographics (Stanford 2024 + IESE 2024)
+// ---------------------------------------------------------------------------
+
+export interface DemographicStat {
+  value: string;
+  label: string;
+  detail: string;
+  sourceId: string;
+}
+
+export const SEARCHER_DEMOGRAPHICS: DemographicStat[] = [
+  {
+    value: "$139K",
+    label: "Average search salary",
+    detail: "During the search phase",
+    sourceId: "stanford",
+  },
+  {
+    value: "$190K",
+    label: "Median CEO salary",
+    detail: "After acquisition",
+    sourceId: "stanford",
+  },
+  {
+    value: "18%",
+    label: "Female searchers",
+    detail: "New searchers in 2023 (record high)",
+    sourceId: "stanford",
+  },
+  {
+    value: "71%",
+    label: "MBA graduates",
+    detail: "International searchers with an MBA",
+    sourceId: "iese",
+  },
+  {
+    value: "42%",
+    label: "US MBA programs",
+    detail: "International searchers from US business schools (down from ~50%)",
+    sourceId: "iese",
+  },
+  {
+    value: "16",
+    label: "Median investors per fund",
+    detail: "Number of LPs in a typical search fund",
+    sourceId: "iese",
+  },
+];
+
+// ---------------------------------------------------------------------------
+// International fund structure (IESE 2024)
+// ---------------------------------------------------------------------------
+
+export interface FundStructureStat {
+  label: string;
+  intlPct: string;
+  usPct: string;
+}
+
+export const FUND_STRUCTURE: FundStructureStat[] = [
+  { label: "Partnership (2 co-searchers)", intlPct: "40%", usPct: "19%" },
+  { label: "Solo searcher", intlPct: "60%", usPct: "81%" },
+];
+
+// ---------------------------------------------------------------------------
+// International sector distribution (IESE 2024)
+// ---------------------------------------------------------------------------
+
+export const INTL_SECTOR_DISTRIBUTION: Sector[] = [
+  { sector: "Technology / Software", pct: 28 },
+  { sector: "Manufacturing", pct: 18 },
+  { sector: "Healthcare", pct: 15 },
+  { sector: "Transportation & Logistics", pct: 12 },
+  { sector: "Business services", pct: 14 },
+  { sector: "Other", pct: 13 },
+];
+
+// ---------------------------------------------------------------------------
+// International searcher backgrounds (IESE 2024, 2022-2023 cohort)
+// ---------------------------------------------------------------------------
+
+export const INTL_SEARCHER_BACKGROUNDS: Background[] = [
+  { field: "Management consulting", pct: 26 },
+  { field: "Financial services", pct: 20 },
+  { field: "Line / General management", pct: 14 },
+  { field: "Other", pct: 40 },
+];
+
+// ---------------------------------------------------------------------------
+// Exit performance (Stanford 2024)
+// ---------------------------------------------------------------------------
+
+export interface ExitStat {
+  value: string;
+  label: string;
+  detail: string;
+  sourceId: string;
+}
+
+export const EXIT_PERFORMANCE: ExitStat[] = [
+  {
+    value: "42.9%",
+    label: "IRR on exited deals",
+    detail: "Up from 36.8% due to recent high-return exits",
+    sourceId: "stanford",
+  },
+  {
+    value: "$6.1M",
+    label: "Average CEO equity (operating)",
+    detail: "Entrepreneurs still running their acquired company",
+    sourceId: "stanford",
+  },
+  {
+    value: "$5.7M",
+    label: "Average CEO equity (exited)",
+    detail: "Entrepreneurs who have completed an exit",
+    sourceId: "stanford",
+  },
+  {
+    value: "21",
+    label: "International exits to date",
+    detail: "15 positive returns, 6 total losses",
+    sourceId: "iese",
+  },
+];

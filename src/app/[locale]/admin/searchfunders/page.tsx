@@ -2,57 +2,81 @@ import { redirect } from "next/navigation";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
 import Link from "next/link";
 import { ExternalLink, Mail } from "lucide-react";
-import { InvestorTypeBadge } from "../_components/AdminBadges";
 import { MiniStat } from "../_components/AdminStatCard";
 import {
-  PROSPECTION_INVESTORS,
-  INVESTOR_TYPES,
-  INVESTOR_COUNTRIES,
-} from "../_data/prospection-investors";
+  PROSPECTION_SEARCHFUNDERS,
+  SEARCHFUNDER_STATUSES,
+  SEARCHFUNDER_COUNTRIES,
+  SEARCHFUNDER_MBAS,
+} from "../_data/prospection-searchfunders";
 import { ExportCSVButton } from "./ExportCSVButton";
 
 export const dynamic = "force-dynamic";
 
 const PER_PAGE = 25;
 
+function SearcherStatusBadge({ status }: { status: string }) {
+  const colors: Record<string, string> = {
+    Searching: "bg-amber-100 text-amber-700",
+    Acquired: "bg-green-100 text-green-700",
+    Exited: "bg-blue-100 text-blue-700",
+    Failed: "bg-red-100 text-red-700",
+  };
+  return (
+    <span
+      className={`text-xs font-medium px-2 py-0.5 rounded-full whitespace-nowrap ${colors[status] ?? "bg-apple-gray-100 text-apple-gray-700"}`}
+    >
+      {status}
+    </span>
+  );
+}
+
 interface Props {
   searchParams: Promise<{
     page?: string;
     q?: string;
-    type?: string;
+    status?: string;
     country?: string;
+    mba?: string;
     sort?: string;
     dir?: string;
   }>;
 }
 
-export default async function AdminProspectionPage({ searchParams }: Props) {
+export default async function AdminSearchfundersPage({
+  searchParams,
+}: Props) {
   const isAuth = await isAdminAuthenticated();
   if (!isAuth) redirect("/admin/login");
 
   const params = await searchParams;
   const page = Math.max(1, parseInt(params.page ?? "1"));
   const query = (params.q ?? "").toLowerCase();
-  const typeFilter = params.type ?? "";
+  const statusFilter = params.status ?? "";
   const countryFilter = params.country ?? "";
+  const mbaFilter = params.mba ?? "";
   const sortField = params.sort ?? "name";
   const sortDir = (params.dir ?? "asc") as "asc" | "desc";
 
   // Filter
-  let filtered = PROSPECTION_INVESTORS;
+  let filtered = PROSPECTION_SEARCHFUNDERS;
   if (query) {
     filtered = filtered.filter(
-      (inv) =>
-        inv.name.toLowerCase().includes(query) ||
-        inv.description.toLowerCase().includes(query) ||
-        inv.contact.toLowerCase().includes(query)
+      (s) =>
+        s.name.toLowerCase().includes(query) ||
+        s.description.toLowerCase().includes(query) ||
+        s.companyAcquired.toLowerCase().includes(query) ||
+        s.mba.toLowerCase().includes(query)
     );
   }
-  if (typeFilter) {
-    filtered = filtered.filter((inv) => inv.type === typeFilter);
+  if (statusFilter) {
+    filtered = filtered.filter((s) => s.status === statusFilter);
   }
   if (countryFilter) {
-    filtered = filtered.filter((inv) => inv.country === countryFilter);
+    filtered = filtered.filter((s) => s.country === countryFilter);
+  }
+  if (mbaFilter) {
+    filtered = filtered.filter((s) => s.mba.includes(mbaFilter));
   }
 
   // Sort
@@ -67,38 +91,42 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
   const totalPages = Math.ceil(totalCount / PER_PAGE);
   const paginated = sorted.slice((page - 1) * PER_PAGE, page * PER_PAGE);
 
-  // Stats by type
-  const typeCounts = new Map<string, number>();
-  for (const inv of PROSPECTION_INVESTORS) {
-    typeCounts.set(inv.type, (typeCounts.get(inv.type) ?? 0) + 1);
+  // Stats by status
+  const statusCounts = new Map<string, number>();
+  for (const s of PROSPECTION_SEARCHFUNDERS) {
+    statusCounts.set(s.status, (statusCounts.get(s.status) ?? 0) + 1);
   }
 
   function sortUrl(field: string) {
     const newDir = sortField === field && sortDir === "asc" ? "desc" : "asc";
     const p = new URLSearchParams();
     if (query) p.set("q", params.q ?? "");
-    if (typeFilter) p.set("type", typeFilter);
+    if (statusFilter) p.set("status", statusFilter);
     if (countryFilter) p.set("country", countryFilter);
+    if (mbaFilter) p.set("mba", mbaFilter);
     p.set("sort", field);
     p.set("dir", newDir);
-    return `/admin/prospection?${p.toString()}`;
+    return `/admin/searchfunders?${p.toString()}`;
   }
 
   function SortIcon({ field }: { field: string }) {
     if (sortField !== field)
       return <span className="text-apple-gray-300 ml-1">&#8597;</span>;
-    return <span className="ml-1">{sortDir === "desc" ? "\u2193" : "\u2191"}</span>;
+    return (
+      <span className="ml-1">{sortDir === "desc" ? "\u2193" : "\u2191"}</span>
+    );
   }
 
   function pageUrl(p: number) {
     const sp = new URLSearchParams();
     if (query) sp.set("q", params.q ?? "");
-    if (typeFilter) sp.set("type", typeFilter);
+    if (statusFilter) sp.set("status", statusFilter);
     if (countryFilter) sp.set("country", countryFilter);
+    if (mbaFilter) sp.set("mba", mbaFilter);
     if (sortField !== "name") sp.set("sort", sortField);
     if (sortDir !== "asc") sp.set("dir", sortDir);
     sp.set("page", String(p));
-    return `/admin/prospection?${sp.toString()}`;
+    return `/admin/searchfunders?${sp.toString()}`;
   }
 
   return (
@@ -106,11 +134,11 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
       <div className="mb-6 flex items-start justify-between">
         <div>
           <h1 className="text-2xl font-semibold text-apple-black">
-            Prospection
+            Searchfunders
           </h1>
           <p className="text-sm text-apple-gray-500 mt-1">
-            {PROSPECTION_INVESTORS.length} search fund investors compiled from
-            web research
+            {PROSPECTION_SEARCHFUNDERS.length} search fund entrepreneurs
+            compiled from web research
           </p>
         </div>
         <ExportCSVButton />
@@ -118,12 +146,11 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
 
       {/* Stats */}
       <div className="flex flex-wrap gap-3 mb-6">
-        <MiniStat label="Total" value={PROSPECTION_INVESTORS.length} />
-        {[...typeCounts.entries()]
+        <MiniStat label="Total" value={PROSPECTION_SEARCHFUNDERS.length} />
+        {[...statusCounts.entries()]
           .sort((a, b) => b[1] - a[1])
-          .slice(0, 6)
-          .map(([type, count]) => (
-            <MiniStat key={type} label={type} value={count} />
+          .map(([status, count]) => (
+            <MiniStat key={status} label={status} value={count} />
           ))}
       </div>
 
@@ -138,23 +165,23 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
               type="text"
               name="q"
               defaultValue={params.q ?? ""}
-              placeholder="Name or description..."
+              placeholder="Name, company, MBA..."
               className="form-input w-full"
             />
           </div>
           <div>
             <label className="block text-xs text-apple-gray-500 mb-1">
-              Type
+              Status
             </label>
             <select
-              name="type"
-              defaultValue={typeFilter}
+              name="status"
+              defaultValue={statusFilter}
               className="form-input"
             >
               <option value="">All</option>
-              {INVESTOR_TYPES.map((t) => (
-                <option key={t} value={t}>
-                  {t}
+              {SEARCHFUNDER_STATUSES.map((s) => (
+                <option key={s} value={s}>
+                  {s}
                 </option>
               ))}
             </select>
@@ -169,9 +196,26 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
               className="form-input"
             >
               <option value="">All</option>
-              {INVESTOR_COUNTRIES.map((c) => (
+              {SEARCHFUNDER_COUNTRIES.map((c) => (
                 <option key={c} value={c}>
                   {c}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div>
+            <label className="block text-xs text-apple-gray-500 mb-1">
+              MBA
+            </label>
+            <select
+              name="mba"
+              defaultValue={mbaFilter}
+              className="form-input"
+            >
+              <option value="">All</option>
+              {SEARCHFUNDER_MBAS.map((m) => (
+                <option key={m} value={m}>
+                  {m}
                 </option>
               ))}
             </select>
@@ -182,9 +226,9 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
           >
             Filter
           </button>
-          {(query || typeFilter || countryFilter) && (
+          {(query || statusFilter || countryFilter || mbaFilter) && (
             <a
-              href="/admin/prospection"
+              href="/admin/searchfunders"
               className="px-4 py-2 text-sm text-apple-gray-500 hover:text-apple-black transition"
             >
               Clear
@@ -198,7 +242,7 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
         <table className="w-full text-sm table-fixed">
           <thead>
             <tr className="text-left text-apple-gray-500 border-b border-apple-gray-200">
-              <th className="px-3 py-3 font-medium w-[22%]">
+              <th className="px-3 py-3 font-medium w-[18%]">
                 <Link
                   href={sortUrl("name")}
                   className="hover:text-apple-black"
@@ -206,12 +250,12 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
                   Name <SortIcon field="name" />
                 </Link>
               </th>
-              <th className="px-3 py-3 font-medium w-[14%]">
+              <th className="px-3 py-3 font-medium w-[8%]">
                 <Link
-                  href={sortUrl("type")}
+                  href={sortUrl("status")}
                   className="hover:text-apple-black"
                 >
-                  Type <SortIcon field="type" />
+                  Status <SortIcon field="status" />
                 </Link>
               </th>
               <th className="px-3 py-3 font-medium w-[10%]">
@@ -222,24 +266,36 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
                   Country <SortIcon field="country" />
                 </Link>
               </th>
-              <th className="px-3 py-3 font-medium w-[16%]">Check Size</th>
-              <th className="px-3 py-3 font-medium w-[38%]">Description</th>
+              <th className="px-3 py-3 font-medium w-[12%]">
+                <Link
+                  href={sortUrl("mba")}
+                  className="hover:text-apple-black"
+                >
+                  MBA <SortIcon field="mba" />
+                </Link>
+              </th>
+              <th className="px-3 py-3 font-medium w-[14%]">Previous Role</th>
+              <th className="px-3 py-3 font-medium w-[14%]">Company Acquired</th>
+              <th className="px-3 py-3 font-medium w-[24%]">Description</th>
             </tr>
           </thead>
           <tbody>
-            {paginated.map((inv) => (
+            {paginated.map((s) => (
               <tr
-                key={inv.id}
+                key={s.id}
                 className="border-b border-apple-gray-100 hover:bg-apple-gray-100/50 transition"
               >
                 <td className="px-3 py-2.5">
                   <div className="flex items-center gap-1.5">
-                    <span className="font-medium text-apple-black truncate" title={inv.name}>
-                      {inv.name}
+                    <span
+                      className="font-medium text-apple-black truncate"
+                      title={s.name}
+                    >
+                      {s.name}
                     </span>
-                    {inv.website && (
+                    {s.website && (
                       <a
-                        href={inv.website}
+                        href={s.website}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-apple-investor hover:text-apple-investor/70 shrink-0"
@@ -247,9 +303,9 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
                         <ExternalLink size={12} />
                       </a>
                     )}
-                    {inv.contact && inv.contact.includes("@") && (
+                    {s.contact && s.contact.includes("@") && (
                       <a
-                        href={`mailto:${inv.contact}`}
+                        href={`mailto:${s.contact}`}
                         className="text-apple-gray-400 hover:text-apple-investor shrink-0"
                       >
                         <Mail size={12} />
@@ -258,29 +314,47 @@ export default async function AdminProspectionPage({ searchParams }: Props) {
                   </div>
                 </td>
                 <td className="px-3 py-2.5">
-                  <InvestorTypeBadge type={inv.type} />
+                  <SearcherStatusBadge status={s.status} />
                 </td>
-                <td className="px-3 py-2.5 text-apple-gray-700 truncate" title={inv.country}>
-                  {inv.country || "\u2014"}
+                <td
+                  className="px-3 py-2.5 text-apple-gray-700 truncate"
+                  title={s.country}
+                >
+                  {s.country || "\u2014"}
                 </td>
-                <td className="px-3 py-2.5 text-apple-gray-700 truncate" title={inv.checkSize}>
-                  {inv.checkSize || "\u2014"}
+                <td
+                  className="px-3 py-2.5 text-apple-gray-700 truncate"
+                  title={s.mba}
+                >
+                  {s.mba || "\u2014"}
+                </td>
+                <td
+                  className="px-3 py-2.5 text-apple-gray-700 truncate"
+                  title={s.previousRole}
+                >
+                  {s.previousRole || "\u2014"}
+                </td>
+                <td
+                  className="px-3 py-2.5 text-apple-gray-700 truncate"
+                  title={s.companyAcquired ? `${s.companyAcquired} (${s.sector})` : ""}
+                >
+                  {s.companyAcquired || "\u2014"}
                 </td>
                 <td
                   className="px-3 py-2.5 text-apple-gray-500 truncate"
-                  title={inv.description + (inv.contact && !inv.contact.includes("@") ? ` | ${inv.contact}` : "")}
+                  title={s.description}
                 >
-                  {inv.description || "\u2014"}
+                  {s.description || "\u2014"}
                 </td>
               </tr>
             ))}
             {paginated.length === 0 && (
               <tr>
                 <td
-                  colSpan={5}
+                  colSpan={7}
                   className="px-3 py-12 text-center text-apple-gray-500"
                 >
-                  No investors found.
+                  No searchfunders found.
                 </td>
               </tr>
             )}

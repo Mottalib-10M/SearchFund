@@ -70,10 +70,10 @@ export default function Home() {
               From search fund basics to deal execution, due diligence, and post-acquisition operations - everything you need to succeed as a search fund entrepreneur.
             </p>
             <Link
-              href="/learn/getting-started"
+              href="/dashboard/journey"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-searcher text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
-              Start learning
+              Start your journey
               <ArrowRight size={14} strokeWidth={2} />
             </Link>
           </div>
@@ -93,7 +93,7 @@ export default function Home() {
               Learn why search funds deliver exceptional returns, how to evaluate searchers, and what makes a great ETA investment.
             </p>
             <Link
-              href="/learn/why-invest-in-search-funds"
+              href="/learn"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-investor text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
               Start learning
@@ -116,10 +116,10 @@ export default function Home() {
               Understand what search fund buyers look for, how deals are structured, and why selling to a searcher can be the best succession option for your business.
             </p>
             <Link
-              href="/learn/eta-europe"
+              href="/marketplace"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-seller text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
-              Learn about ETA
+              Browse listings
               <ArrowRight size={14} strokeWidth={2} />
             </Link>
           </div>
