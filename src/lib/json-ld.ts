@@ -213,6 +213,52 @@ export function datasetSchema(locale: string) {
 // DefinedTermSet (glossary)
 // ---------------------------------------------------------------------------
 
+// ---------------------------------------------------------------------------
+// EducationalOrganization (MBA program profiles)
+// ---------------------------------------------------------------------------
+
+interface EducationalOrgInput {
+  name: string;
+  url: string;
+  location: string;
+  description: string;
+}
+
+export function educationalOrganizationSchema(org: EducationalOrgInput) {
+  return {
+    "@type": "EducationalOrganization",
+    name: org.name,
+    url: org.url,
+    address: org.location,
+    description: org.description,
+  };
+}
+
+// ---------------------------------------------------------------------------
+// ItemList (for hub pages listing multiple items)
+// ---------------------------------------------------------------------------
+
+export function itemListSchema(
+  items: Record<string, unknown>[],
+  name?: string,
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    ...(name ? { name } : {}),
+    numberOfItems: items.length,
+    itemListElement: items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item,
+    })),
+  };
+}
+
+// ---------------------------------------------------------------------------
+// DefinedTermSet (glossary)
+// ---------------------------------------------------------------------------
+
 export function definedTermSetSchema(terms: GlossaryTerm[], url: string) {
   return {
     "@context": "https://schema.org",
