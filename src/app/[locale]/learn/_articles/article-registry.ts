@@ -10729,6 +10729,166 @@ export const allArticles: ArticleMeta[] = [
       { question: "How important is talent retention in cybersecurity acquisitions?", answer: "Talent retention is critical - cybersecurity professionals are in high demand and difficult to replace. Key risks include: loss of technical founders, departure of engineers with proprietary knowledge, and cultural misfit post-acquisition. Retention packages, clear career paths, and maintaining technical culture are essential. Budget for above-market retention bonuses for key personnel." },
     ],
   },
+
+  // MBA & ETA Hub — Pillar Articles
+  {
+    slug: "mba-and-eta",
+    title: "MBA and ETA: The Complete Guide",
+    description:
+      "Why MBAs dominate search funds, the history of ETA education from Stanford 1984 to today, and a five-criteria framework for evaluating programs.",
+    readTime: "22 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "MBA and ETA: The Complete Guide to Business School and Search Funds",
+    ogDescription:
+      "85% of search fund principals hold an MBA. Understand the MBA-ETA connection, history, curriculum advantages, and how to evaluate programs for acquisition entrepreneurship.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "2024 International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
+    ],
+    faqs: [
+      { question: "Do you need an MBA to start a search fund?", answer: "No, but 85% of traditional search fund principals hold an MBA (Stanford 2024). An MBA provides investor credibility, structured deal-flow, and a peer network that significantly improves fundraising and acquisition outcomes. Self-funded searchers are less likely to hold an MBA." },
+      { question: "When did MBA programs start teaching ETA?", answer: "Stanford GSB created the first search fund course in 1984 under Professor H. Irving Grousbeck. IESE Barcelona launched its program in 2011, and today more than a dozen leading business schools offer dedicated ETA curricula." },
+      { question: "What is the MBA advantage for search fund entrepreneurs?", answer: "Three main advantages: (1) curriculum that teaches financial analysis, negotiation, and operations, (2) investor networks built through faculty and alumni connections, and (3) credibility with investors who disproportionately back MBA graduates from target programs." },
+    ],
+  },
+  {
+    slug: "best-mba-for-search-fund",
+    title: "Best MBA Programs for Search Fund Entrepreneurs",
+    description:
+      "Data-driven ranking of 11 MBA programs for ETA readiness. Tier-by-tier analysis with methodology, faculty strength, alumni outcomes, and tuition comparison.",
+    readTime: "20 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "Best MBA Programs for Search Fund Entrepreneurs: 2026 Ranking",
+    ogDescription:
+      "Ranking the top MBA programs for search fund entrepreneurs: Stanford GSB, IESE, HBS, Wharton, Yale SOM, Chicago Booth, Kellogg, INSEAD, LBS, IE, and HEC Paris.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "2024 International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
+    ],
+    faqs: [
+      { question: "Which MBA program is best for search funds?", answer: "Stanford GSB and IESE Barcelona share the top tier. Stanford pioneered the search fund model in 1984 and has the deepest US investor network. IESE leads the international search fund ecosystem, hosting the largest annual conference and producing the definitive global study." },
+      { question: "How are MBA programs ranked for search funds?", answer: "Our ranking uses five weighted criteria: dedicated faculty and coursework (30%), alumni search fund outcomes (25%), investor network access (20%), institutional infrastructure like clubs and conferences (15%), and program flexibility including curriculum and schedule (10%)." },
+      { question: "What is the difference between Tier 1 and Tier 2 MBA programs for ETA?", answer: "Tier 1 programs (Stanford, IESE, HBS) have deep institutional DNA for ETA — pioneering faculty, decades of alumni outcomes, and direct investor relationships. Tier 2 programs (Wharton, Yale, Booth, Kellogg, INSEAD) have strong and growing ETA ecosystems but less historical depth." },
+    ],
+  },
+  {
+    slug: "mba-roi-search-fund-career",
+    title: "The Real ROI of an MBA for Search Fund Entrepreneurs",
+    description:
+      "Total cost analysis of an MBA for ETA: $150K–$300K investment vs. 35.1% IRR and 4.5x ROIC. Break-even scenarios, opportunity cost, and comparison with alternative career paths.",
+    readTime: "17 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "The Real ROI of an MBA for Search Fund Entrepreneurs",
+    ogDescription:
+      "Is an MBA worth it for ETA? Cost analysis ($150K–$300K), expected returns (35.1% IRR, 4.5x ROIC), opportunity cost, and break-even scenarios for aspiring searchers.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "2024 International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
+    ],
+    faqs: [
+      { question: "How much does an MBA cost for search fund entrepreneurs?", answer: "Total cost ranges from $150,000 to $300,000+ depending on the program and location. US programs like Stanford and HBS charge $82K–$94K/year in tuition alone. European programs (IESE, INSEAD, LBS) range from EUR 90K–114K total. Add living expenses and two years of foregone salary for the complete picture." },
+      { question: "What is the expected ROI of a search fund after an MBA?", answer: "According to the Stanford 2024 study, traditional search funds have generated a 35.1% aggregate IRR and 4.5x ROIC. These returns represent the asset class overall — individual outcomes vary widely based on acquisition quality, industry, and operator execution." },
+      { question: "Is an MBA worth it compared to self-funding a search?", answer: "For traditional search funds (investor-backed), an MBA provides significant advantages in fundraising, deal flow, and credibility. For self-funded searches using SBA loans, the MBA is less essential since you bypass the investor network. The decision depends on which search model you plan to pursue." },
+    ],
+  },
+
+  // MBA & ETA Hub — Supporting Articles
+  {
+    slug: "mba-application-eta-track",
+    title: "How to Apply to MBA Programs with an ETA Focus",
+    description:
+      "Application strategy for aspiring search fund entrepreneurs: program selection, essay positioning, interview preparation, and ETA fellowship opportunities.",
+    readTime: "12 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "How to Apply to MBA Programs with an ETA Focus",
+    ogDescription:
+      "MBA application guide for ETA candidates: how to select programs, write essays that signal acquisition entrepreneurship interest, and pursue search fund fellowships.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "Admissions Information", url: "https://www.gsb.stanford.edu/programs/mba/admission", year: 2024 },
+      { name: "IESE Business School", title: "MBA Admissions", url: "https://www.iese.edu/mba/", year: 2024 },
+    ],
+    faqs: [
+      { question: "Should I mention ETA in my MBA application?", answer: "Yes, but frame it within a broader narrative about entrepreneurship and leadership. Schools with strong ETA ecosystems value candidates who know about the model, but admissions committees also want evidence of intellectual curiosity and openness to other paths." },
+      { question: "What MBA fellowships exist for search fund entrepreneurs?", answer: "Notable fellowships include the Perlman Fellowship at Wharton ($10M endowment for ETA students), Stanford GSB's entrepreneurship fellowships, HBS Rock Center funding, and various school-specific grants for students pursuing acquisition entrepreneurship." },
+    ],
+  },
+  {
+    slug: "pre-mba-eta-preparation",
+    title: "Pre-MBA Preparation for a Search Fund Career",
+    description:
+      "How to use the 12–18 months before business school to build skills, gain operating experience, and start forming ETA relationships that accelerate your MBA experience.",
+    readTime: "12 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "Pre-MBA Preparation for a Search Fund Career",
+    ogDescription:
+      "Maximize your MBA for ETA: skills to build, experiences to gain, and networks to develop in the 12–18 months before business school.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+    ],
+    faqs: [
+      { question: "What skills should I build before an MBA for ETA?", answer: "Focus on financial statement analysis, basic accounting, small business operations, and negotiation. Read the key ETA studies (Stanford 2024, IESE 2024), attend a search fund conference, and build relationships with current searchers and investors." },
+      { question: "How much work experience do I need before an MBA for search funds?", answer: "Most successful searchers enter MBA programs with 3–7 years of work experience. Operating roles in small to mid-size businesses, consulting, finance, or industry verticals relevant to search (healthcare, services, manufacturing) are particularly valuable." },
+    ],
+  },
+  {
+    slug: "mba-financing-eta-career",
+    title: "How to Finance an MBA for a Search Fund Career",
+    description:
+      "Complete guide to MBA financing for aspiring searchers: federal loans, school-based aid, ETA fellowships, employer sponsorship, and total cost management strategies.",
+    readTime: "12 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "How to Finance an MBA for a Search Fund Career",
+    ogDescription:
+      "MBA financing for ETA: federal loans, fellowships (Perlman, Rock Center), school-based aid, and strategies to minimize debt before launching your search fund.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "US Department of Education", title: "Federal Student Aid - Graduate PLUS Loans", year: 2024 },
+      { name: "Prodigy Finance", title: "International MBA Loans", url: "https://prodigyfinance.com", year: 2024 },
+    ],
+    faqs: [
+      { question: "What is the average MBA debt for search fund entrepreneurs?", answer: "Average MBA debt ranges from $100,000 to $180,000 depending on the program and financial aid. US students can borrow up to cost of attendance through federal Direct Unsubsidized and Grad PLUS loans. International students typically rely on Prodigy Finance or school-based aid." },
+      { question: "Can I get a fellowship specifically for search fund careers?", answer: "Yes. The Wharton Perlman Fellowship (backed by a $10M endowment) specifically supports ETA students. Stanford GSB, HBS, and other programs offer entrepreneurship fellowships that can be applied to search fund careers. Most require demonstrating a clear commitment to acquisition entrepreneurship." },
+    ],
+  },
+  {
+    slug: "mba-tier-search-fund-raising",
+    title: "Does Your MBA Tier Matter for Search Fund Fundraising?",
+    description:
+      "Data-driven analysis of how MBA program prestige affects search fund fundraising success. Investor perspectives, non-MBA paths, and strategies for Tier 2/3 graduates.",
+    readTime: "15 min read",
+    tag: "Resources",
+    category: "Resources",
+    ogTitle: "Does Your MBA Tier Matter for Search Fund Fundraising?",
+    ogDescription:
+      "How much does MBA prestige matter for raising a search fund? Investor perspectives, data from Stanford and IESE studies, and strategies for non-Tier-1 graduates.",
+    datePublished: "2026-04-30",
+    dateModified: "2026-04-30",
+    sources: [
+      { name: "Stanford GSB", title: "2024 Search Fund Study", url: "https://www.gsb.stanford.edu/experience/about/centers-institutes/ces/research/search-funds", year: 2024 },
+      { name: "IESE Business School", title: "2024 International Search Fund Study", url: "https://www.iese.edu/entrepreneurship/search-funds/", year: 2024 },
+    ],
+    faqs: [
+      { question: "Do search fund investors only back MBA graduates from top schools?", answer: "No. While Tier 1 programs (Stanford, IESE, HBS) provide the strongest signaling, investors evaluate searchers on multiple dimensions: industry experience, deal-sourcing ability, leadership qualities, and thesis clarity. A compelling thesis from a Tier 2 program can outperform a generic pitch from a Tier 1 school." },
+      { question: "Can I raise a search fund without an MBA?", answer: "Yes. A growing number of successful search funds have been raised by non-MBA founders, particularly in the self-funded model. International markets, especially outside the US, are more open to non-MBA searchers. The key is demonstrating equivalent credibility through industry expertise, operating experience, or existing investor relationships." },
+    ],
+  },
 ];
 
 // ---------------------------------------------------------------------------
@@ -11300,6 +11460,14 @@ import RestrictiveCovenantsArticle from "./restrictive-covenants";
 import AntiBriberyComplianceArticle from "./anti-bribery-compliance";
 import EuropeanBusinessBrokersDirectoryArticle from "./european-business-brokers-directory";
 import CybersecurityFirmAcquisitionArticle from "./cybersecurity-firm-acquisition";
+// MBA & ETA Hub articles
+import MbaAndEtaArticle from "./mba-and-eta";
+import BestMbaForSearchFundArticle from "./best-mba-for-search-fund";
+import MbaRoiSearchFundCareerArticle from "./mba-roi-search-fund-career";
+import MbaApplicationEtaTrackArticle from "./mba-application-eta-track";
+import PreMbaEtaPreparationArticle from "./pre-mba-eta-preparation";
+import MbaFinancingEtaCareerArticle from "./mba-financing-eta-career";
+import MbaTierSearchFundRaisingArticle from "./mba-tier-search-fund-raising";
 
 export const articleComponents: Record<string, () => JSX.Element> = {
   "getting-started": GettingStartedArticle,
@@ -11706,4 +11874,12 @@ export const articleComponents: Record<string, () => JSX.Element> = {
   "anti-bribery-compliance": AntiBriberyComplianceArticle,
   "european-business-brokers-directory": EuropeanBusinessBrokersDirectoryArticle,
   "cybersecurity-firm-acquisition": CybersecurityFirmAcquisitionArticle,
+  // MBA & ETA Hub
+  "mba-and-eta": MbaAndEtaArticle,
+  "best-mba-for-search-fund": BestMbaForSearchFundArticle,
+  "mba-roi-search-fund-career": MbaRoiSearchFundCareerArticle,
+  "mba-application-eta-track": MbaApplicationEtaTrackArticle,
+  "pre-mba-eta-preparation": PreMbaEtaPreparationArticle,
+  "mba-financing-eta-career": MbaFinancingEtaCareerArticle,
+  "mba-tier-search-fund-raising": MbaTierSearchFundRaisingArticle,
 };
