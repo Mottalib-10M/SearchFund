@@ -70,7 +70,7 @@ export default function Home() {
               From search fund basics to deal execution, due diligence, and post-acquisition operations - everything you need to succeed as a search fund entrepreneur.
             </p>
             <Link
-              href="/dashboard/journey"
+              href="/dashboard"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-searcher text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
               Start your journey
@@ -116,7 +116,7 @@ export default function Home() {
               Understand what search fund buyers look for, how deals are structured, and why selling to a searcher can be the best succession option for your business.
             </p>
             <Link
-              href="/marketplace"
+              href="/listings"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-seller text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
               Browse listings
