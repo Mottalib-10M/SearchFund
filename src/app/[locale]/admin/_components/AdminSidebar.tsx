@@ -12,6 +12,7 @@ import {
   MessageCircle,
   Target,
   Search,
+  Rocket,
   LogOut,
 } from "lucide-react";
 
@@ -25,6 +26,7 @@ const navItems = [
   { href: "/admin/forum", label: "Forum", icon: MessageCircle },
   { href: "/admin/prospection", label: "Prospection", icon: Target },
   { href: "/admin/searchfunders", label: "Searchfunders", icon: Search },
+  { href: "/admin/accelerators", label: "Accelerators", icon: Rocket },
 ];
 
 export default function AdminSidebar() {

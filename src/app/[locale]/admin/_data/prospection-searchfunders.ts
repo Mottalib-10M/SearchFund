@@ -1001,7 +1001,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "https://www.linkedin.com/in/pierre-emmanuel-drochon-644944ba/",
     description:
       "Co-founded Sailly Transmission, launched March 2024. Target: French SME, enterprise value 6-20M EUR. Pierre-Emmanuel studied ESTP and X-HEC. Armine studied Arts et Metiers and ESSEC, was a McKinsey consultant and CEO of Vertical. Backed by Ethos Partners, Istria Capital, Cameleon Invest, and other investors from UK, Italy, Spain.",
-    contact: "",
+    contact: "contact@saillytransmission.fr",
   },
   {
     id: 58,
@@ -1037,7 +1037,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "https://anchora-transmission.com/",
     description:
       "HEC Paris MBA 2023 graduate. Founded Anchora Transmission, a search fund looking to acquire a single SME in France. Backed by 20 investors including Innesto Partners.",
-    contact: "",
+    contact: "patrick@anchora-transmission.com",
   },
   {
     id: 60,
@@ -1597,7 +1597,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "",
     description:
       "Co-founded Cintu Transmission (September 2024). Target: EBITDA exceeding 1.5M EUR, asset-light B2B business. Francois played a key role at Mahogany Transmission (Flying Eye acquisition). 17 investors including Relay, Istria, Alza, Innesto, and Aurica.",
-    contact: "",
+    contact: "francois@cintu.fr",
   },
   {
     id: 93,
@@ -1613,7 +1613,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "https://www.linkedin.com/in/pierre-philippe-de-bouville-71539a45/",
     description:
       "Founded Joto Transmission, the first Cassius Search-backed search fund. Target: profitable French B2B software company (1-5M EUR EBITDA). Ecole Polytechnique and HEC Paris graduate. Previously at McKinsey. Founded Tolteck (French leader in estimating/invoicing software for construction, sold to Saint-Gobain in 2017).",
-    contact: "",
+    contact: "contact@joto-transmission.com",
   },
   {
     id: 94,
@@ -1629,7 +1629,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "https://fr.linkedin.com/in/sdebacker/en",
     description:
       "Founded Backer Transmission (August 2025). Target: B2B company in metropolitan France. Master's in Engineering from ENIT (2003-2008). Previously founded cosmetics brand and SaaS software. 15 years of sales experience. Backed by Innesto Partners and Provence Angels.",
-    contact: "",
+    contact: "contact@backer-transmission.com",
   },
   {
     id: 95,
@@ -1677,7 +1677,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "",
     description:
       "Active searcher backed by Moonbase Capital. Searching for an SME to acquire in France.",
-    contact: "",
+    contact: "pierre@renovatiocap.com",
   },
   {
     id: 98,
@@ -1693,7 +1693,7 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "",
     description:
       "Co-founded Renovatio, a search fund in France. Previously at Reseau Entreprendre Paris, CAKE, Pernod Ricard, and Kol. Backed by Moonbase Capital.",
-    contact: "",
+    contact: "baptiste@renovatiocap.com",
   },
   {
     id: 99,
@@ -3898,6 +3898,89 @@ export const PROSPECTION_SEARCHFUNDERS: ProspectionSearchfunder[] = [
     website: "https://www.tasmansuccession.nl/",
     description:
       "INSEAD and Leiden LLB graduate. Co-acquired a plumbing company in the Netherlands in 2025 with Alex Gready via Tasman Succession.",
+    contact: "",
+  },
+  // ===================================================================
+  // FRANCE -- DEEP RESEARCH (April 2026)
+  // ===================================================================
+  {
+    id: 234,
+    name: "Nicolas Pierret",
+    status: "Acquired",
+    country: "France",
+    city: "Nantes / Paris",
+    mba: "",
+    previousRole: "Managing Partner at Cohesium (strategy consulting, 30+ years)",
+    companyAcquired: "Industrial PME (via Cohesium Entrepreneurs Search Fund)",
+    sector: "Industrial manufacturing",
+    accelerator: "Cohesium Entrepreneurs SF",
+    website: "https://www.cohesium.com",
+    description:
+      "Created the first French search fund dedicated to industrial SME acquisition. Cohesium has 30+ years in strategic development consulting for industrial companies.",
+    contact: "npierret@cohesium.com",
+  },
+  {
+    id: 235,
+    name: "Dimitri Novikov",
+    status: "Acquired",
+    country: "France",
+    city: "Saint-Denis",
+    mba: "",
+    previousRole: "10+ years in nuclear (Areva) then chemical sector (Solvay)",
+    companyAcquired: "SAMU (Soins des Arbres en Milieu Urbain)",
+    sector: "Tree maintenance, urban tree heritage management",
+    accelerator: "Ulam Transmission (own SF)",
+    website: "https://www.ulamindustrie.fr",
+    description:
+      "Ulam Transmission search fund. Two-year search. Advised by Bird & Bird law firm. SAMU is leader in Ile-de-France for urban tree care. BIMBO structure with pool of financial investors.",
+    contact: "",
+  },
+  {
+    id: 236,
+    name: "Yoann Fauchon",
+    status: "Searching",
+    country: "France",
+    city: "France",
+    mba: "",
+    previousRole: "20+ years leadership in Aerospace, Aviation, and Defense",
+    companyAcquired: "",
+    sector: "Aerospace & Defense",
+    accelerator: "Novastone Capital Advisors",
+    website: "https://novastone-ca.com/nca-searchers/",
+    description:
+      "Novastone-backed searcher focused on A&D companies in France and Italy. Leveraging 20+ years of aerospace/defense leadership experience.",
+    contact: "",
+  },
+  {
+    id: 237,
+    name: "Matthieu Mary",
+    status: "Searching",
+    country: "France",
+    city: "France",
+    mba: "Mines Paris",
+    previousRole: "Bain & Company, then manager in large groups and startups",
+    companyAcquired: "",
+    sector: "Industrial",
+    accelerator: "Novastone Capital Advisors",
+    website: "https://novastone-ca.com/searcher/matthieu-mary-fr/",
+    description:
+      "Novastone-backed searcher targeting industrial SMEs in France (10-30M EUR EV). Mines Paris engineering graduate. Previously at Bain & Company.",
+    contact: "",
+  },
+  {
+    id: 238,
+    name: "Albert Marquez-Andreu & Pablo Ferrero",
+    status: "Searching",
+    country: "France",
+    city: "France / Switzerland",
+    mba: "IESE",
+    previousRole: "Albert: pharma & robotics investor/advisor; Pablo: Mechanical Engineering + IESE MBA, previously held key operational roles",
+    companyAcquired: "",
+    sector: "Business succession",
+    accelerator: "Logos Equity Partners (own SF)",
+    website: "https://www.linkedin.com/in/albert-marquez-andreu/",
+    description:
+      "Logos Equity Partners. Focused on business succession in France and Switzerland. Long-term, hands-on approach to partner with owners for their next chapter and preserve company legacy.",
     contact: "",
   },
 ];
