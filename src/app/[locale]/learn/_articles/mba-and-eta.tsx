@@ -532,7 +532,7 @@ export default function MbaAndEtaArticle() {
           introductions, and peer support without the time and cost commitment
           of a full MBA program. For a thorough treatment of this path,
           see our dedicated guide on{" "}
-          <Link href="/learn/search-fund-without-mba" className="text-apple-accent hover:underline">
+          <Link href="/learn/eta-without-mba" className="text-apple-accent hover:underline">
             pursuing a search fund without an MBA
           </Link>.
         </p>

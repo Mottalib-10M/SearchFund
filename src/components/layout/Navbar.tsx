@@ -27,7 +27,7 @@ export default function Navbar() {
     { href: "/mba" as const, label: t("mba") },
     { href: "/search-fund-statistics" as const, label: t("statistics") },
     { href: "/tools" as const, label: t("tools") },
-    { href: "/listings" as const, label: t("marketplace"), badge: t("soon") },
+    { href: "/listings" as const, label: t("marketplace") },
     { href: "/searchers" as const, label: t("searchers") },
     { href: "/investors" as const, label: t("investors") },
   ];
@@ -84,11 +84,6 @@ export default function Navbar() {
                   }`}
                 >
                   {link.label}
-                  {"badge" in link && link.badge && (
-                    <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
-                      {link.badge}
-                    </span>
-                  )}
                 </Link>
               </li>
             ))}
@@ -221,11 +216,6 @@ export default function Navbar() {
                       className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                     >
                       {link.label}
-                      {"badge" in link && link.badge && (
-                        <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
-                          {link.badge}
-                        </span>
-                      )}
                     </Link>
                   ))}
                 </div>
@@ -255,11 +245,6 @@ export default function Navbar() {
                     className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                   >
                     {link.label}
-                    {"badge" in link && link.badge && (
-                      <span className="text-[10px] font-semibold bg-apple-gray-100 text-apple-gray-500 rounded-full px-1.5 py-0.5 leading-none">
-                        {link.badge}
-                      </span>
-                    )}
                   </Link>
                 ))}
                 <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-3">

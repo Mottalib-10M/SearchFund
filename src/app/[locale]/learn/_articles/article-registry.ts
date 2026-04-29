@@ -10739,9 +10739,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "22 min read",
     tag: "Resources",
     category: "Resources",
-    ogTitle: "MBA and ETA: The Complete Guide to Business School and Search Funds",
+    ogTitle: "MBA and ETA: The Complete Guide to Business School",
     ogDescription:
-      "85% of search fund principals hold an MBA. Understand the MBA-ETA connection, history, curriculum advantages, and how to evaluate programs for acquisition entrepreneurship.",
+      "85% of search fund principals hold an MBA. The MBA-ETA connection, history, curriculum advantages, and how to evaluate programs.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10762,9 +10762,9 @@ export const allArticles: ArticleMeta[] = [
     readTime: "20 min read",
     tag: "Resources",
     category: "Resources",
-    ogTitle: "Best MBA Programs for Search Fund Entrepreneurs: 2026 Ranking",
+    ogTitle: "Best MBA Programs for Search Funds: 2026 Ranking",
     ogDescription:
-      "Ranking the top MBA programs for search fund entrepreneurs: Stanford GSB, IESE, HBS, Wharton, Yale SOM, Chicago Booth, Kellogg, INSEAD, LBS, IE, and HEC Paris.",
+      "Ranking the top MBA programs for search funds: Stanford, IESE, HBS, Wharton, Yale, Booth, Kellogg, INSEAD, LBS, IE, and HEC Paris.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10787,7 +10787,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "The Real ROI of an MBA for Search Fund Entrepreneurs",
     ogDescription:
-      "Is an MBA worth it for ETA? Cost analysis ($150K–$300K), expected returns (35.1% IRR, 4.5x ROIC), opportunity cost, and break-even scenarios for aspiring searchers.",
+      "Is an MBA worth it for ETA? Cost analysis ($150K–$300K), expected returns (35.1% IRR, 4.5x ROIC), opportunity cost, and break-even scenarios.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10812,7 +10812,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "How to Apply to MBA Programs with an ETA Focus",
     ogDescription:
-      "MBA application guide for ETA candidates: how to select programs, write essays that signal acquisition entrepreneurship interest, and pursue search fund fellowships.",
+      "MBA application guide for ETA candidates: program selection, essay positioning, interview prep, and search fund fellowships.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10877,7 +10877,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Does Your MBA Tier Matter for Search Fund Fundraising?",
     ogDescription:
-      "How much does MBA prestige matter for raising a search fund? Investor perspectives, data from Stanford and IESE studies, and strategies for non-Tier-1 graduates.",
+      "Does MBA prestige matter for raising a search fund? Investor perspectives, Stanford and IESE data, and strategies for non-Tier-1 grads.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [

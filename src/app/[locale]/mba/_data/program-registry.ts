@@ -184,7 +184,7 @@ export const allPrograms: ProgramMeta[] = [
       "Three dedicated ETA courses, the Ruback-Yudkoff textbook, a $130K Search Fund Fellowship, and an annual ETA conference with over 1,000 attendees. Home of the most widely read ETA case studies.",
     longDescription:
       "Harvard Business School offers the deepest case-study library in ETA, anchored by Professors Ruback and Yudkoff, authors of the foundational HBR Guide to Buying a Small Business. Three dedicated courses and a $130K fellowship support aspiring searchers.",
-    ogTitle: "Harvard Business School: ETA Courses, Fellowship & Case Studies",
+    ogTitle: "Harvard Business School: ETA Courses & Fellowship",
     ogDescription:
       "HBS offers 3 ETA courses, a $130K Search Fund Fellowship, and the Ruback-Yudkoff textbook. Annual ETA conference draws 1,000+ attendees.",
     datePublished: "2026-04-30",

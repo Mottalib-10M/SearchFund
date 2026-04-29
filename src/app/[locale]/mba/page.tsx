@@ -45,21 +45,23 @@ export default async function MbaPage({ params }: Props) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: safeJsonLd(
-            collectionPageSchema(
+          __html: safeJsonLd({
+            ...collectionPageSchema(
               "Best MBA Programs for Search Fund Entrepreneurs",
               `${allPrograms.length} MBA programs reviewed for ETA readiness`,
               `${BASE}/${locale}/mba`,
             ),
-          ),
-        }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: safeJsonLd(
-            itemListSchema(eduItems, "MBA Programs for Search Funds"),
-          ),
+            mainEntity: {
+              "@type": "ItemList",
+              name: "MBA Programs for Search Funds",
+              numberOfItems: eduItems.length,
+              itemListElement: eduItems.map((item, i) => ({
+                "@type": "ListItem",
+                position: i + 1,
+                item,
+              })),
+            },
+          }),
         }}
       />
       <script
@@ -93,10 +95,10 @@ export default async function MbaPage({ params }: Props) {
       {/* Quick stats */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mt-8 mb-10">
         {[
-          { value: "11", label: "Programs Reviewed" },
-          { value: "3", label: "Tiers" },
-          { value: "5", label: "Countries" },
-          { value: "$82K–$94K", label: "US Tuition Range/yr" },
+          { value: "85%", label: "SF Founders Hold MBA" },
+          { value: "11", label: "Programs Ranked" },
+          { value: "18+", label: "Dedicated ETA Courses" },
+          { value: "$98K–$183K", label: "Total Tuition Range" },
         ].map((stat) => (
           <div
             key={stat.label}
@@ -156,7 +158,7 @@ export default async function MbaPage({ params }: Props) {
             </p>
           </Link>
           <Link
-            href="/learn/search-fund-without-mba"
+            href="/learn/eta-without-mba"
             className="block rounded-xl border border-apple-gray-300/50 bg-white p-5 hover:shadow-md transition-shadow"
           >
             <p className="font-semibold text-apple-black">
