@@ -10,7 +10,7 @@ import {
   FileText, FolderOpen, Heart, User, Users, MessageSquare, Bell,
 } from "lucide-react";
 import Logo from "@/components/ui/Logo";
-import LanguageSwitcher from "@/components/layout/LanguageSwitcher";
+
 
 export default function Navbar() {
   const t = useTranslations("nav");
@@ -91,7 +91,6 @@ export default function Navbar() {
 
           {/* Right actions - desktop */}
           <div className="hidden md:flex items-center gap-4">
-            <LanguageSwitcher />
             {user ? (
               <div className="relative" ref={dropdownRef}>
                 <button
@@ -219,7 +218,7 @@ export default function Navbar() {
                     </Link>
                   ))}
                 </div>
-                <div className="pt-4 mt-4 border-t border-apple-gray-300/50 flex items-center justify-between">
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50">
                   <button
                     type="button"
                     onClick={() => {
@@ -231,7 +230,6 @@ export default function Navbar() {
                     <LogOut size={18} />
                     {t("signOut")}
                   </button>
-                  <LanguageSwitcher />
                 </div>
               </>
             ) : (
@@ -262,9 +260,6 @@ export default function Navbar() {
                   >
                     {t("getStarted")}
                   </Link>
-                  <div className="flex justify-center pt-2">
-                    <LanguageSwitcher />
-                  </div>
                 </div>
               </>
             )}
