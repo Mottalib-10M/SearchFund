@@ -3,6 +3,7 @@ import { tools } from "@/app/[locale]/(marketing)/tools/_data";
 import { templates } from "@/app/[locale]/(marketing)/templates/_data";
 import { newsArticles } from "@/app/[locale]/(marketing)/news/_data/articles";
 import { directoryCategories, getEntriesForCategory } from "@/app/[locale]/(marketing)/directory/_data";
+import { allPrograms } from "@/app/[locale]/mba/_data/program-registry";
 
 // ---------------------------------------------------------------------------
 // Locale types
@@ -15,6 +16,8 @@ export const defaultLocale: Locale = "en";
 // ---------------------------------------------------------------------------
 // Route → available locales mapping
 // ---------------------------------------------------------------------------
+
+
 
 function buildRouteLocales(): Record<string, Locale[]> {
   const map: Record<string, Locale[]> = {
@@ -38,6 +41,7 @@ function buildRouteLocales(): Record<string, Locale[]> {
     "/templates": ["en"],
     "/news": ["en"],
     "/directory": ["en"],
+    "/mba": ["en"],
   };
 
   for (const article of allArticles) {
@@ -65,6 +69,11 @@ function buildRouteLocales(): Record<string, Locale[]> {
     for (const entry of getEntriesForCategory(cat.slug)) {
       map[`/directory/${cat.slug}/${entry.slug}`] = ["en"];
     }
+  }
+
+  // MBA program profiles: English only
+  for (const program of allPrograms) {
+    map[`/mba/${program.slug}`] = ["en"];
   }
 
   return map;

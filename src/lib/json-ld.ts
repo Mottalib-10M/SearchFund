@@ -22,7 +22,7 @@ export function organizationSchema() {
     url: BASE,
     logo: `${BASE}/favicon.svg`,
     description:
-      "The most complete learning platform for Entrepreneurship Through Acquisition (ETA). Step-by-step guides, tools, and resources for searchers, investors, and sellers.",
+      "The most complete knowledge platform for Entrepreneurship Through Acquisition (ETA). Guides, data, and tools for search fund entrepreneurs worldwide.",
     sameAs: [
       "https://www.linkedin.com/company/searchfundmarket",
     ],
@@ -206,6 +206,52 @@ export function datasetSchema(locale: string) {
         url: "https://som.yale.edu/sites/default/files/2025-10/How%20are%20Search%20Fund%20Investors%20Really%20Faring.pdf",
       },
     ],
+  };
+}
+
+// ---------------------------------------------------------------------------
+// DefinedTermSet (glossary)
+// ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// EducationalOrganization (MBA program profiles)
+// ---------------------------------------------------------------------------
+
+interface EducationalOrgInput {
+  name: string;
+  url: string;
+  location: string;
+  description: string;
+}
+
+export function educationalOrganizationSchema(org: EducationalOrgInput) {
+  return {
+    "@type": "EducationalOrganization",
+    name: org.name,
+    url: org.url,
+    address: org.location,
+    description: org.description,
+  };
+}
+
+// ---------------------------------------------------------------------------
+// ItemList (for hub pages listing multiple items)
+// ---------------------------------------------------------------------------
+
+export function itemListSchema(
+  items: Record<string, unknown>[],
+  name?: string,
+) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    ...(name ? { name } : {}),
+    numberOfItems: items.length,
+    itemListElement: items.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item,
+    })),
   };
 }
 

@@ -7,14 +7,6 @@ const locales = ["en"];
 const defaultLocale = "en";
 const skipPrefixes = ["/api/", "/_next/", "/favicon", "/site.webmanifest"];
 
-function detectLocaleFromHeader(request: NextRequest): string {
-  const acceptLang = request.headers.get("accept-language") || "";
-  for (const part of acceptLang.split(",")) {
-    const lang = part.split(";")[0].trim().substring(0, 2).toLowerCase();
-    if (locales.includes(lang)) return lang;
-  }
-  return defaultLocale;
-}
 
 function hasLocalePrefix(pathname: string): boolean {
   return locales.some(
@@ -41,12 +33,20 @@ export async function proxy(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // 2. If no locale prefix, detect and redirect
+  // 2. If no locale prefix, redirect to English
   if (!hasLocalePrefix(pathname)) {
-    const detected = detectLocaleFromHeader(request);
-    const url = new URL(`/${detected}${pathname}`, request.url);
+    const url = new URL(`/${defaultLocale}${pathname}`, request.url);
     url.search = request.nextUrl.search;
     return NextResponse.redirect(url);
+  }
+
+  // 2b. If non-English locale prefix, redirect to English equivalent
+  const reqLocale = extractLocale(pathname);
+  if (reqLocale !== defaultLocale && locales.includes(reqLocale)) {
+    const pathWithoutLocale = stripLocale(pathname, reqLocale);
+    const url = new URL(`/${defaultLocale}${pathWithoutLocale}`, request.url);
+    url.search = request.nextUrl.search;
+    return NextResponse.redirect(url, 301);
   }
 
   // 3. Extract locale and path without locale

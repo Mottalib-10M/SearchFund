@@ -26,6 +26,7 @@ export default function Navbar() {
   // Learn dropdown sub-links
   const learnSubLinks = [
     { href: "/learn" as const, label: t("learn") },
+    { href: "/mba" as const, label: t("mba") },
     { href: "/search-fund-statistics" as const, label: t("statistics") },
     { href: "/tools" as const, label: t("tools") },
     { href: "/contact" as const, label: t("contact") },
@@ -328,7 +329,7 @@ export default function Navbar() {
                     {t("investors")}
                   </Link>
                 </div>
-                <div className="pt-4 mt-4 border-t border-apple-gray-300/50 flex items-center justify-between">
+                <div className="pt-4 mt-4 border-t border-apple-gray-300/50">
                   <button
                     type="button"
                     onClick={() => {
