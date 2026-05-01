@@ -16,10 +16,7 @@ export default function Navbar() {
   const t = useTranslations("nav");
   const [mobileOpen, setMobileOpen] = useState(false);
   const [userDropdownOpen, setUserDropdownOpen] = useState(false);
-  const [learnDropdownOpen, setLearnDropdownOpen] = useState(false);
   const userDropdownRef = useRef<HTMLDivElement>(null);
-  const learnDropdownRef = useRef<HTMLDivElement>(null);
-  const learnTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const { data: session } = useSession();
   const pathname = usePathname();
 
@@ -50,34 +47,15 @@ export default function Navbar() {
       if (userDropdownRef.current && !userDropdownRef.current.contains(e.target as Node)) {
         setUserDropdownOpen(false);
       }
-      if (learnDropdownRef.current && !learnDropdownRef.current.contains(e.target as Node)) {
-        setLearnDropdownOpen(false);
-      }
     }
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
-  }, []);
-
-  // Clean up timeout on unmount
-  useEffect(() => {
-    return () => {
-      if (learnTimeoutRef.current) clearTimeout(learnTimeoutRef.current);
-    };
   }, []);
 
   const user = session?.user;
   const role = (user as Record<string, unknown> | undefined)?.role as string | undefined;
   const userName = user?.name ?? user?.email?.split("@")[0] ?? "User";
   const userInitial = userName.charAt(0).toUpperCase();
-
-  // Learn dropdown hover handlers (desktop)
-  const handleLearnEnter = () => {
-    if (learnTimeoutRef.current) clearTimeout(learnTimeoutRef.current);
-    setLearnDropdownOpen(true);
-  };
-  const handleLearnLeave = () => {
-    learnTimeoutRef.current = setTimeout(() => setLearnDropdownOpen(false), 150);
-  };
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-apple-gray-300/50">
@@ -103,42 +81,17 @@ export default function Navbar() {
               </Link>
             </li>
 
-            {/* Learn dropdown */}
-            <li>
-              <div
-                ref={learnDropdownRef}
-                className="relative"
-                onMouseEnter={handleLearnEnter}
-                onMouseLeave={handleLearnLeave}
-              >
-                <button
-                  type="button"
-                  onClick={() => setLearnDropdownOpen(!learnDropdownOpen)}
-                  className="text-sm transition-colors inline-flex items-center gap-1 text-apple-gray-700 hover:text-apple-black cursor-pointer"
+            {/* Learn sub-links (flat) */}
+            {learnSubLinks.map((link) => (
+              <li key={link.href}>
+                <Link
+                  href={link.href}
+                  className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
                 >
-                  {t("learn")}
-                  <ChevronDown
-                    size={14}
-                    className={`transition-transform ${learnDropdownOpen ? "rotate-180" : ""}`}
-                  />
-                </button>
-
-                {learnDropdownOpen && (
-                  <div className="absolute left-0 top-full mt-2 w-48 bg-white rounded-xl shadow-lg border border-apple-gray-300/50 py-1 z-50">
-                    {learnSubLinks.map((link) => (
-                      <Link
-                        key={link.href}
-                        href={link.href}
-                        onClick={() => setLearnDropdownOpen(false)}
-                        className="block px-4 py-2.5 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
-                      >
-                        {link.label}
-                      </Link>
-                    ))}
-                  </div>
-                )}
-              </div>
-            </li>
+                  {link.label}
+                </Link>
+              </li>
+            ))}
 
             {/* Marketplace */}
             <li>
