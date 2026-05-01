@@ -25,8 +25,6 @@ export default function Navbar() {
     { href: "/learn" as const, label: t("learn") },
     { href: "/mba" as const, label: t("mba") },
     { href: "/search-fund-statistics" as const, label: t("statistics") },
-    { href: "/tools" as const, label: t("tools") },
-    { href: "/contact" as const, label: t("contact") },
   ];
 
   const dashboardLinks = [
@@ -69,7 +67,7 @@ export default function Navbar() {
             <Logo size="sm" />
           </span>
 
-          {/* Center nav links - desktop */}
+          {/* Nav links - desktop */}
           <ul className="hidden md:flex items-center gap-8">
             {/* Journey */}
             <li>
@@ -120,6 +118,26 @@ export default function Navbar() {
                 className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
               >
                 {t("investors")}
+              </Link>
+            </li>
+
+            {/* Tools */}
+            <li>
+              <Link
+                href="/tools"
+                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
+              >
+                {t("tools")}
+              </Link>
+            </li>
+
+            {/* Contact */}
+            <li>
+              <Link
+                href="/contact"
+                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
+              >
+                {t("contact")}
               </Link>
             </li>
           </ul>
