@@ -8,6 +8,7 @@ import ConditionalFooter from "@/components/layout/ConditionalFooter";
 import ScrollToTop from "@/components/layout/ScrollToTop";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
 import GoogleAnalytics from "@/components/providers/GoogleAnalytics";
+import MicrosoftClarity from "@/components/providers/MicrosoftClarity";
 import CookieBanner from "@/components/consent/CookieBanner";
 import { safeJsonLd, organizationSchema, webSiteSchema } from "@/lib/json-ld";
 import SetHtmlLang from "@/components/providers/SetHtmlLang";
@@ -78,6 +79,7 @@ export default async function LocaleLayout({
         <ConditionalFooter />
         <CookieBanner />
         <GoogleAnalytics />
+        <MicrosoftClarity />
       </AuthSessionProvider>
     </NextIntlClientProvider>
   );
