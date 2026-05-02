@@ -435,7 +435,7 @@ export default async function DirectoryEntryPage({ params }: Props) {
           Information sourced from public records. If you notice an inaccuracy,
           please{" "}
           <a
-            href="mailto:directory@searchfundmarket.com"
+            href="/contact"
             className="text-apple-accent hover:underline"
           >
             let us know

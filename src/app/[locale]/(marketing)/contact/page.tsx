@@ -35,14 +35,8 @@ export default function ContactPage() {
             Email us
           </h2>
           <p className="text-sm text-apple-gray-700 mt-2 leading-relaxed">
-            For general inquiries, partnerships, or press.
+            For general inquiries, partnerships, or press — use the form below.
           </p>
-          <a
-            href="mailto:contact@searchfundmarket.com"
-            className="text-apple-accent text-sm font-medium mt-4 inline-block hover:underline"
-          >
-            contact@searchfundmarket.com
-          </a>
         </div>
 
         <div className="rounded-2xl border border-apple-gray-300/50 bg-white p-8">

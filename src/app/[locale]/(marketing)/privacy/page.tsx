@@ -146,12 +146,12 @@ export default function PrivacyPage() {
             </li>
           </ul>
           <p className="mt-3">
-            To exercise any of these rights, please contact us at{" "}
+            To exercise any of these rights, please reach out via our{" "}
             <a
-              href="mailto:privacy@searchfundmarket.com"
+              href="/contact"
               className="text-apple-accent hover:underline"
             >
-              privacy@searchfundmarket.com
+              contact page
             </a>
             .
           </p>
@@ -204,13 +204,13 @@ export default function PrivacyPage() {
             10. Contact
           </h2>
           <p className="mt-3">
-            If you have questions about this Privacy Policy, please contact us
-            at{" "}
+            If you have questions about this Privacy Policy, please reach out
+            via our{" "}
             <a
-              href="mailto:privacy@searchfundmarket.com"
+              href="/contact"
               className="text-apple-accent hover:underline"
             >
-              privacy@searchfundmarket.com
+              contact page
             </a>
             .
           </p>

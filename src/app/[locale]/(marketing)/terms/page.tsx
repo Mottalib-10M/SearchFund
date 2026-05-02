@@ -190,12 +190,12 @@ export default function TermsPage() {
             12. Contact
           </h2>
           <p className="mt-3">
-            If you have questions about these Terms, please contact us at{" "}
+            If you have questions about these Terms, please reach out via our{" "}
             <a
-              href="mailto:legal@searchfundmarket.com"
+              href="/contact"
               className="text-apple-accent hover:underline"
             >
-              legal@searchfundmarket.com
+              contact page
             </a>
             .
           </p>

@@ -92,12 +92,12 @@ export default async function DirectoryHubPage({ params }: Props) {
           <p>
             We do not accept paid placements or sponsored listings. If you believe
             an entry contains inaccurate information, or if you would like to
-            suggest an addition, please contact us at{" "}
+            suggest an addition, please reach out via our{" "}
             <a
-              href="mailto:directory@searchfundmarket.com"
+              href="/contact"
               className="text-apple-accent hover:underline"
             >
-              directory@searchfundmarket.com
+              contact page
             </a>
             .
           </p>
