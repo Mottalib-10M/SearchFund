@@ -1,7 +1,11 @@
 import { NextResponse } from "next/server";
 import { signAdminToken, COOKIE_NAME } from "@/lib/admin-auth";
 
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD ?? "sarah22A!";
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD;
+
+if (!ADMIN_PASSWORD) {
+  throw new Error("ADMIN_PASSWORD environment variable is required");
+}
 
 export async function POST(request: Request) {
   try {

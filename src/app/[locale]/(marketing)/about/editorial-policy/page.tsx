@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { buildMetadata } from "@/lib/meta-snippets";
 
 type Props = { params: Promise<{ locale: string }> };
@@ -101,7 +101,7 @@ export default function EditorialPolicyPage() {
           <p>
             If you identify a factual error, outdated data, or misleading information
             in any of our articles, please{" "}
-            <Link href="/en/contact" className="text-apple-accent hover:underline">
+            <Link href="/contact" className="text-apple-accent hover:underline">
               contact us
             </Link>
             . We review all feedback and publish corrections promptly. Substantive

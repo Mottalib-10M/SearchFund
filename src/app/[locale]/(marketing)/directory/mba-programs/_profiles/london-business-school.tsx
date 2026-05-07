@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -297,14 +297,14 @@ export default function LondonBusinessSchoolProfile() {
         <p>
           LBS co-organizes an annual ETA Conference alongside{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
           </Link>
           ,{" "}
           <Link
-            href="/mba/hec-paris"
+            href="/directory/mba-programs/hec-paris"
             className="text-apple-accent hover:underline"
           >
             HEC Paris
@@ -457,14 +457,14 @@ export default function LondonBusinessSchoolProfile() {
           courses, a formal search fund center, and a deeper alumni network of
           searchers should also consider{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
           </Link>{" "}
           or{" "}
           <Link
-            href="/mba/insead"
+            href="/directory/mba-programs/insead"
             className="text-apple-accent hover:underline"
           >
             INSEAD
@@ -539,7 +539,7 @@ export default function LondonBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile
@@ -547,7 +547,7 @@ export default function LondonBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/insead"
+              href="/directory/mba-programs/insead"
               className="text-apple-accent hover:underline"
             >
               INSEAD profile
@@ -555,7 +555,7 @@ export default function LondonBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/hec-paris"
+              href="/directory/mba-programs/hec-paris"
               className="text-apple-accent hover:underline"
             >
               HEC Paris profile

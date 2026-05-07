@@ -7,7 +7,7 @@ import {
   profileTh,
   profileTd,
 } from "./shared-styles";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 
 export default function KelloggProfile() {
   return (
@@ -49,7 +49,7 @@ export default function KelloggProfile() {
           their combined alumni networks create one of the deepest talent pools
           for aspiring searchers in the Midwest. Students at Kellogg can tap into{" "}
           <Link
-            href="/mba/chicago-booth"
+            href="/directory/mba-programs/chicago-booth"
             className="text-apple-accent hover:underline"
           >
             Chicago Booth&apos;s Polsky Center
@@ -314,7 +314,7 @@ export default function KelloggProfile() {
           Among US programs, Kellogg occupies a distinctive position. It does
           not claim the historical lineage of{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -328,7 +328,7 @@ export default function KelloggProfile() {
         <p>
           Compared to{" "}
           <Link
-            href="/mba/yale-som"
+            href="/directory/mba-programs/yale-som"
             className="text-apple-accent hover:underline"
           >
             Yale SOM
@@ -427,7 +427,7 @@ export default function KelloggProfile() {
         </li>
         <li>
           <Link
-            href="/mba/chicago-booth"
+            href="/directory/mba-programs/chicago-booth"
             className="text-apple-accent hover:underline"
           >
             Chicago Booth: ETA Fellows and Polsky Center
@@ -435,7 +435,7 @@ export default function KelloggProfile() {
         </li>
         <li>
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB: The Birthplace of Search Funds
@@ -443,7 +443,7 @@ export default function KelloggProfile() {
         </li>
         <li>
           <Link
-            href="/mba/yale-som"
+            href="/directory/mba-programs/yale-som"
             className="text-apple-accent hover:underline"
           >
             Yale SOM: The Deepest Academic ETA Program

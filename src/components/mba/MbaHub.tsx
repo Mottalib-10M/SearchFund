@@ -1,8 +1,8 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import Link from "next/link";
-import type { ProgramCard, Region, Tier } from "@/app/[locale]/mba/_data/program-registry";
+import { Link } from "@/i18n/navigation";
+import type { ProgramCard, Region, Tier } from "@/app/[locale]/(marketing)/directory/_data/program-registry";
 
 // ---------------------------------------------------------------------------
 // Filter labels
@@ -94,7 +94,7 @@ export default function MbaHub({ programs }: MbaHubProps) {
               {tierPrograms.map((p) => (
                 <Link
                   key={p.slug}
-                  href={`/mba/${p.slug}`}
+                  href={`/directory/mba-programs/${p.slug}`}
                   className="group block rounded-xl border border-apple-gray-300/50 bg-white p-5 transition-shadow hover:shadow-md"
                 >
                   <div className="flex items-start justify-between gap-2 mb-3">

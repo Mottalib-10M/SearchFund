@@ -1,7 +1,7 @@
 import { prisma } from "@/lib/prisma";
 import { redirect, notFound } from "next/navigation";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   RoleBadge,
   VerificationBadge,

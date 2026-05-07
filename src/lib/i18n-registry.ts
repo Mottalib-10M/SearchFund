@@ -3,7 +3,7 @@ import { tools } from "@/app/[locale]/(marketing)/tools/_data";
 import { templates } from "@/app/[locale]/(marketing)/templates/_data";
 import { newsArticles } from "@/app/[locale]/(marketing)/news/_data/articles";
 import { directoryCategories, getEntriesForCategory } from "@/app/[locale]/(marketing)/directory/_data";
-import { allPrograms } from "@/app/[locale]/mba/_data/program-registry";
+import { allPrograms } from "@/app/[locale]/(marketing)/directory/_data/program-registry";
 
 // ---------------------------------------------------------------------------
 // Locale types
@@ -41,7 +41,7 @@ function buildRouteLocales(): Record<string, Locale[]> {
     "/templates": ["en"],
     "/news": ["en"],
     "/directory": ["en"],
-    "/mba": ["en"],
+    "/directory/mba-programs": ["en"],
   };
 
   for (const article of allArticles) {
@@ -73,7 +73,7 @@ function buildRouteLocales(): Record<string, Locale[]> {
 
   // MBA program profiles: English only
   for (const program of allPrograms) {
-    map[`/mba/${program.slug}`] = ["en"];
+    map[`/directory/mba-programs/${program.slug}`] = ["en"];
   }
 
   return map;

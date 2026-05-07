@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { useSession } from "next-auth/react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { MessageSquare, Trash2 } from "lucide-react";
 import { timeAgo } from "@/lib/utils";
 import { useRouter } from "next/navigation";

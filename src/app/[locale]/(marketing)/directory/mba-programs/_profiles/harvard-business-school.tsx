@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -179,7 +179,7 @@ export default function HarvardBusinessSchoolProfile() {
           from deal sourcing through post-acquisition value creation. This
           breadth is rivaled only by{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -357,7 +357,7 @@ export default function HarvardBusinessSchoolProfile() {
           If you are comparing conference ecosystems across schools, note that
           Chicago Booth and Kellogg co-host a similarly scaled event, and{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -429,7 +429,7 @@ export default function HarvardBusinessSchoolProfile() {
         <p>
           It is worth comparing HBS with the other Tier 1 programs.{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -437,7 +437,7 @@ export default function HarvardBusinessSchoolProfile() {
           is the intellectual home of the search fund model and publishes the
           definitive industry dataset.{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -452,7 +452,7 @@ export default function HarvardBusinessSchoolProfile() {
         <p>
           Students weighing a Tier 2 option like{" "}
           <Link
-            href="/mba/yale-som"
+            href="/directory/mba-programs/yale-som"
             className="text-apple-accent hover:underline"
           >
             Yale SOM

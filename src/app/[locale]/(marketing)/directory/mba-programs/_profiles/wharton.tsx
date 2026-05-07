@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -63,7 +63,7 @@ export default function WhartonProfile() {
           The endowment signals a strategic commitment that is rare in the ETA
           space. While{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -122,7 +122,7 @@ export default function WhartonProfile() {
             <tr>
               <td className={profileTd}>
                 <Link
-                  href="/mba/harvard-business-school"
+                  href="/directory/mba-programs/harvard-business-school"
                   className="text-apple-accent hover:underline"
                 >
                   HBS
@@ -166,7 +166,7 @@ export default function WhartonProfile() {
         <p>
           The single-faculty model has tradeoffs. Programs like{" "}
           <Link
-            href="/mba/yale-som"
+            href="/directory/mba-programs/yale-som"
             className="text-apple-accent hover:underline"
           >
             Yale SOM
@@ -439,21 +439,21 @@ export default function WhartonProfile() {
           community with multiple courses, deep case-study libraries, and a
           long track record of alumni searchers. For that,{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
           </Link>
           ,{" "}
           <Link
-            href="/mba/harvard-business-school"
+            href="/directory/mba-programs/harvard-business-school"
             className="text-apple-accent hover:underline"
           >
             HBS
           </Link>
           , or{" "}
           <Link
-            href="/mba/yale-som"
+            href="/directory/mba-programs/yale-som"
             className="text-apple-accent hover:underline"
           >
             Yale SOM

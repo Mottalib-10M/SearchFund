@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function MBAProgramsETAArticle() {
@@ -13,7 +13,7 @@ export default function MBAProgramsETAArticle() {
       <div className="mb-8 rounded-lg border border-indigo-200 bg-indigo-50 p-4 dark:border-indigo-800 dark:bg-indigo-950">
         <p className="text-sm font-medium text-indigo-900 dark:text-indigo-100">
           Looking for in-depth program profiles?{" "}
-          <Link href="/mba" className="underline hover:text-indigo-700 dark:hover:text-indigo-300">
+          <Link href="/directory/mba-programs" className="underline hover:text-indigo-700 dark:hover:text-indigo-300">
             Visit our MBA &amp; ETA Hub
           </Link>{" "}
           for detailed profiles of each program, verified faculty, alumni outcomes, and a full ranking methodology.

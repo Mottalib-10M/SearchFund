@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function MbaRoiSearchFundCareerArticle() {
@@ -44,9 +44,9 @@ export default function MbaRoiSearchFundCareerArticle() {
           verified for the current or upcoming academic year.
         </p>
         <ul className={ulClass}>
-          <li><strong><Link href="/mba/stanford-gsb" className="text-apple-accent hover:underline">Stanford GSB</Link>:</strong> $85,755/year (2025-2026), or approximately $171,510 for the two-year program.</li>
-          <li><strong><Link href="/mba/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School</Link>:</strong> $84,760/year (2026-2027), or approximately $169,520 total.</li>
-          <li><strong><Link href="/mba/wharton" className="text-apple-accent hover:underline">Wharton</Link>:</strong> $87,970/year (2026-2027), or approximately $175,940 total.</li>
+          <li><strong><Link href="/directory/mba-programs/stanford-gsb" className="text-apple-accent hover:underline">Stanford GSB</Link>:</strong> $85,755/year (2025-2026), or approximately $171,510 for the two-year program.</li>
+          <li><strong><Link href="/directory/mba-programs/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School</Link>:</strong> $84,760/year (2026-2027), or approximately $169,520 total.</li>
+          <li><strong><Link href="/directory/mba-programs/wharton" className="text-apple-accent hover:underline">Wharton</Link>:</strong> $87,970/year (2026-2027), or approximately $175,940 total.</li>
           <li><strong>Yale SOM:</strong> $91,400/year (2026-2027), or approximately $182,800 total.</li>
           <li><strong>Chicago Booth:</strong> $87,354/year (2025-2026), or approximately $174,708 total.</li>
           <li><strong>Kellogg:</strong> $86,370/year for the two-year program (2025-2026), or approximately $172,740 total.</li>
@@ -418,7 +418,7 @@ export default function MbaRoiSearchFundCareerArticle() {
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">getting started guide</Link>{" "}
           provides a foundational overview of the search fund model. And for
           those ready to evaluate specific MBA programs, the{" "}
-          <Link href="/mba" className="text-apple-accent hover:underline">MBA hub</Link>{" "}
+          <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">MBA hub</Link>{" "}
           profiles every major program with search fund activity, including
           curriculum details, alumni outcomes, and fellowship availability.
         </p>
@@ -432,7 +432,7 @@ export default function MbaRoiSearchFundCareerArticle() {
           <li><Link href="/learn/finding-investors" className="text-apple-accent hover:underline">How to Find and Approach Search Fund Investors</Link></li>
           <li><Link href="/learn/getting-started" className="text-apple-accent hover:underline">Getting Started with Entrepreneurship Through Acquisition</Link></li>
           <li><Link href="/learn/corporate-to-eta" className="text-apple-accent hover:underline">From Corporate Career to ETA</Link></li>
-          <li><Link href="/mba" className="text-apple-accent hover:underline">MBA Programs for Search Fund Entrepreneurs</Link></li>
+          <li><Link href="/directory/mba-programs" className="text-apple-accent hover:underline">MBA Programs for Search Fund Entrepreneurs</Link></li>
         </ul>
 
         <h2 className={h2Class}>Sources</h2>

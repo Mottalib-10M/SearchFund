@@ -555,7 +555,7 @@ export function getProgramCards(): ProgramCard[] {
 }
 
 // ---------------------------------------------------------------------------
-// Hub FAQ data (for the /mba hub page)
+// Hub FAQ data (for the /directory/mba-programs hub page)
 // ---------------------------------------------------------------------------
 
 export const hubFAQs: { question: string; answer: string }[] = [
@@ -595,17 +595,17 @@ export const hubFAQs: { question: string; answer: string }[] = [
 // Component map
 // ---------------------------------------------------------------------------
 
-import StanfordGSBProfile from "../_profiles/stanford-gsb";
-import IESEProfile from "../_profiles/iese";
-import HarvardBusinessSchoolProfile from "../_profiles/harvard-business-school";
-import YaleSomProfile from "../_profiles/yale-som";
-import KelloggProfile from "../_profiles/kellogg";
-import WhartonProfile from "../_profiles/wharton";
-import INSEADProfile from "../_profiles/insead";
-import LondonBusinessSchoolProfile from "../_profiles/london-business-school";
-import ChicagoBoothProfile from "../_profiles/chicago-booth";
-import IEBusinessSchoolProfile from "../_profiles/ie-business-school";
-import HECParisProfile from "../_profiles/hec-paris";
+import StanfordGSBProfile from "../mba-programs/_profiles/stanford-gsb";
+import IESEProfile from "../mba-programs/_profiles/iese";
+import HarvardBusinessSchoolProfile from "../mba-programs/_profiles/harvard-business-school";
+import YaleSomProfile from "../mba-programs/_profiles/yale-som";
+import KelloggProfile from "../mba-programs/_profiles/kellogg";
+import WhartonProfile from "../mba-programs/_profiles/wharton";
+import INSEADProfile from "../mba-programs/_profiles/insead";
+import LondonBusinessSchoolProfile from "../mba-programs/_profiles/london-business-school";
+import ChicagoBoothProfile from "../mba-programs/_profiles/chicago-booth";
+import IEBusinessSchoolProfile from "../mba-programs/_profiles/ie-business-school";
+import HECParisProfile from "../mba-programs/_profiles/hec-paris";
 
 export const programComponents: Record<string, () => JSX.Element> = {
   "stanford-gsb": StanfordGSBProfile,

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -54,14 +54,14 @@ export default function YaleSomProfile() {
           Every great ETA program is built around a practitioner who decided to
           teach. At{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
           </Link>
           , that role is shared across six faculty. At{" "}
           <Link
-            href="/mba/harvard-business-school"
+            href="/directory/mba-programs/harvard-business-school"
             className="text-apple-accent hover:underline"
           >
             Harvard Business School
@@ -339,7 +339,7 @@ export default function YaleSomProfile() {
         <p>
           Compared to the ETA clubs at programs like{" "}
           <Link
-            href="/mba/chicago-booth"
+            href="/directory/mba-programs/chicago-booth"
             className="text-apple-accent hover:underline"
           >
             Chicago Booth
@@ -522,7 +522,7 @@ export default function YaleSomProfile() {
           </li>
           <li>
             <Link
-              href="/mba/stanford-gsb"
+              href="/directory/mba-programs/stanford-gsb"
               className="text-apple-accent hover:underline"
             >
               Stanford GSB: The birthplace of search funds
@@ -530,7 +530,7 @@ export default function YaleSomProfile() {
           </li>
           <li>
             <Link
-              href="/mba/harvard-business-school"
+              href="/directory/mba-programs/harvard-business-school"
               className="text-apple-accent hover:underline"
             >
               Harvard Business School: ETA courses, fellowship, and case studies
@@ -538,7 +538,7 @@ export default function YaleSomProfile() {
           </li>
           <li>
             <Link
-              href="/mba/chicago-booth"
+              href="/directory/mba-programs/chicago-booth"
               className="text-apple-accent hover:underline"
             >
               Chicago Booth: ETA Fellows, Polsky Center, and conference

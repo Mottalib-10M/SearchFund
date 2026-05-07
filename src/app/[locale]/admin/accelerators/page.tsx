@@ -1,6 +1,6 @@
 import { redirect } from "next/navigation";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ExternalLink, Mail } from "lucide-react";
 import { MiniStat } from "../_components/AdminStatCard";
 import {

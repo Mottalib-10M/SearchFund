@@ -122,6 +122,7 @@ export type DirectoryEntry =
 export interface DirectoryCategory {
   slug: string;
   name: string;
+  icon: string;
   description: string;
   ogTitle: string;
   ogDescription: string;
@@ -132,6 +133,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "investors",
     name: "ETA Investors",
+    icon: "Users",
     description: "Search fund investors, family offices, and institutions that back entrepreneurs through acquisition.",
     ogTitle: "ETA Investor Directory: Search Fund Backers Worldwide",
     ogDescription: "Thorough directory of search fund investors - institutional funds, family offices, ex-searchers, and accelerators backing ETA entrepreneurs worldwide.",
@@ -140,6 +142,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "mba-programs",
     name: "MBA Programs Teaching ETA",
+    icon: "GraduationCap",
     description: "Business schools offering courses, research, and communities focused on entrepreneurship through acquisition.",
     ogTitle: "MBA Programs for ETA: Search Fund Courses & Clubs | SFM",
     ogDescription: "Find MBA programs with search fund courses, ETA clubs, and acquisition entrepreneurship tracks. From Stanford GSB to IESE and HEC, the complete curated list.",
@@ -148,6 +151,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "brokers",
     name: "Business Brokers & M&A Advisors",
+    icon: "Handshake",
     description: "SME-focused business brokers, M&A advisors, and deal platforms across Europe and North America.",
     ogTitle: "Business Brokers & M&A Advisors for ETA Deals | SFM",
     ogDescription: "Directory of business brokers and M&A advisors specializing in SME deals. Filter by country, deal size, and sector to find the right partner for your search.",
@@ -156,6 +160,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "conferences",
     name: "ETA Conferences & Events",
+    icon: "Calendar",
     description: "Search fund conferences, ETA summits, and networking events for searchers, investors, and operators.",
     ogTitle: "ETA Conferences & Search Fund Events Worldwide | SFM",
     ogDescription: "Full calendar of search fund conferences and ETA events worldwide: Stanford, IESE, HBS, and beyond. Find your next deal sourcing and networking opportunity.",
@@ -164,6 +169,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "podcasts",
     name: "ETA & Search Fund Podcasts",
+    icon: "Headphones",
     description: "Podcasts covering search funds, small business acquisitions, and entrepreneurship through acquisition.",
     ogTitle: "Best ETA & Search Fund Podcasts for Searchers | SFM",
     ogDescription: "The best search fund and ETA podcasts - from Think Like An Owner to Acquiring Minds. Listen to searchers, investors, and operators share real experiences.",
@@ -172,6 +178,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "books",
     name: "Essential ETA Books",
+    icon: "BookOpen",
     description: "The definitive reading list for search fund entrepreneurs - from search-fund-specific guides to operations and negotiation classics.",
     ogTitle: "Best ETA Books for Search Fund Entrepreneurs | SFM",
     ogDescription: "Curated list of the best books for search fund entrepreneurs. Search fund primers, acquisition guides, operations playbooks, and negotiation classics.",
@@ -180,6 +187,7 @@ export const directoryCategories: DirectoryCategory[] = [
   {
     slug: "advisors",
     name: "Legal & Tax Advisors for M&A",
+    icon: "Scale",
     description: "Law firms and tax advisory practices specializing in SME M&A transactions across Europe.",
     ogTitle: "M&A Legal & Tax Advisors for Search Fund Deals | SFM",
     ogDescription: "Find M&A lawyers and tax advisors who specialize in small business acquisitions across Europe. Country-by-country directory with ETA experience indicators.",

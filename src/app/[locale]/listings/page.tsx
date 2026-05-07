@@ -8,7 +8,7 @@ import { getTranslations } from "next-intl/server";
 import type { Prisma } from "@/generated/prisma";
 import ListingCard from "@/components/listings/ListingCard";
 import ListingFilters from "@/components/listings/ListingFilters";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 type Props = {

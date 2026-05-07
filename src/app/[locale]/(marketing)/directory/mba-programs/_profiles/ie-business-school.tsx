@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -64,7 +64,7 @@ export default function IEBusinessSchoolProfile() {
           11 consecutive years, making it one of the earliest European business
           schools to embed search fund education into its MBA curriculum. While{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -72,7 +72,7 @@ export default function IEBusinessSchoolProfile() {
           is widely recognized for its International Search Fund Center and
           research output, and{" "}
           <Link
-            href="/mba/london-business-school"
+            href="/directory/mba-programs/london-business-school"
             className="text-apple-accent hover:underline"
           >
             London Business School
@@ -364,7 +364,7 @@ export default function IEBusinessSchoolProfile() {
           IE occupies a distinctive position in the European ETA landscape.
           It does not have the research output of{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -373,14 +373,14 @@ export default function IEBusinessSchoolProfile() {
           International Search Fund Center. It does not have the brand
           recognition in ETA circles that{" "}
           <Link
-            href="/mba/london-business-school"
+            href="/directory/mba-programs/london-business-school"
             className="text-apple-accent hover:underline"
           >
             London Business School
           </Link>{" "}
           or{" "}
           <Link
-            href="/mba/insead"
+            href="/directory/mba-programs/insead"
             className="text-apple-accent hover:underline"
           >
             INSEAD
@@ -542,7 +542,7 @@ export default function IEBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile
@@ -550,7 +550,7 @@ export default function IEBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/london-business-school"
+              href="/directory/mba-programs/london-business-school"
               className="text-apple-accent hover:underline"
             >
               London Business School profile
@@ -558,7 +558,7 @@ export default function IEBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/mba/insead"
+              href="/directory/mba-programs/insead"
               className="text-apple-accent hover:underline"
             >
               INSEAD profile

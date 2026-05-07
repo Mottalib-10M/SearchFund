@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function MbaFinancingEtaCareerArticle() {
@@ -147,7 +147,7 @@ export default function MbaFinancingEtaCareerArticle() {
           and faculty. Fellows participate in dedicated programming that
           covers deal sourcing, investor relations, and post-acquisition
           operations. Learn more about{" "}
-          <Link href="/mba/wharton" className="text-apple-accent hover:underline">Wharton&apos;s ETA ecosystem</Link>{" "}
+          <Link href="/directory/mba-programs/wharton" className="text-apple-accent hover:underline">Wharton&apos;s ETA ecosystem</Link>{" "}
           and how the program prepares students for search fund careers.
         </p>
 
@@ -412,10 +412,10 @@ export default function MbaFinancingEtaCareerArticle() {
             <Link href="/learn/finding-investors" className="text-apple-accent hover:underline">Finding Search Fund Investors</Link>
           </li>
           <li>
-            <Link href="/mba" className="text-apple-accent hover:underline">MBA Program Directory</Link>
+            <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">MBA Program Directory</Link>
           </li>
           <li>
-            <Link href="/mba/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School: ETA Profile</Link>
+            <Link href="/directory/mba-programs/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School: ETA Profile</Link>
           </li>
         </ul>
 

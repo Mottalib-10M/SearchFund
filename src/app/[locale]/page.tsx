@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { Search, Users, Handshake, ArrowRight, TrendingUp, Store, BookOpen } from "lucide-react";
 import AnimatedHero from "@/components/home/AnimatedHero";
 import { allArticles } from "./learn/_articles/article-registry";
@@ -24,10 +24,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: `${BASE}/${locale}`,
       languages: {
         en: `${BASE}/en`,
-        fr: `${BASE}/fr`,
-        es: `${BASE}/es`,
-        it: `${BASE}/it`,
-        pt: `${BASE}/pt`,
         "x-default": `${BASE}/en`,
       },
     },
@@ -70,7 +66,7 @@ export default function Home() {
               From search fund basics to deal execution, due diligence, and post-acquisition operations - everything you need to succeed as a search fund entrepreneur.
             </p>
             <Link
-              href="/dashboard"
+              href="/auth/signup"
               className="mt-6 inline-flex items-center justify-center gap-2 rounded-full bg-apple-searcher text-white text-sm font-medium px-6 py-2.5 hover:opacity-90 transition-opacity"
             >
               Start your journey

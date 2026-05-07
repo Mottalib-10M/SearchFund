@@ -10,7 +10,7 @@ const contactSchema = z.object({
   message: z.string().min(10, "Message must be at least 10 characters").max(5000),
 });
 
-const CONTACT_EMAIL = "amradif@gmail.com";
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL!;
 
 export async function POST(request: Request) {
   try {

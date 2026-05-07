@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function PreMbaEtaPreparationArticle() {
@@ -197,7 +197,7 @@ export default function PreMbaEtaPreparationArticle() {
           school but to absorb the language, norms, and current debates of the
           community so that you can engage substantively from day one of your
           MBA. Browse our{" "}
-          <Link href="/mba" className="text-apple-accent hover:underline">MBA hub</Link>{" "}
+          <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">MBA hub</Link>{" "}
           for profiles and resources relevant to aspiring searchers.
         </p>
 

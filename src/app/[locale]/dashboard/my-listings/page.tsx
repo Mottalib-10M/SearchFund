@@ -3,7 +3,7 @@ import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { redirect } from "next/navigation";
 import { timeAgo, formatCurrency } from "@/lib/utils";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { FileText, Eye, Pencil } from "lucide-react";
 import Button from "@/components/ui/Button";
 import type { Metadata } from "next";

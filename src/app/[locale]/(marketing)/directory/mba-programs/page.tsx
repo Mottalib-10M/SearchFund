@@ -1,31 +1,37 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { ArrowLeft } from "lucide-react";
 import {
   allPrograms,
   getProgramCards,
   hubFAQs,
-} from "./_data/program-registry";
+} from "../_data/program-registry";
 import {
   safeJsonLd,
   collectionPageSchema,
-  itemListSchema,
   educationalOrganizationSchema,
   faqPageSchema,
   breadcrumbSchema,
 } from "@/lib/json-ld";
 import { buildMetadata } from "@/lib/meta-snippets";
 import MbaHub from "@/components/mba/MbaHub";
+import { getEntriesForCategory, getEntryName, getEntrySlug, getEntryDescription } from "../_data";
+import type { MBAProgramEntry } from "../_data";
+import EntryFilters from "../_components/EntryFilters";
 
 const BASE = "https://www.searchfundmarket.com";
+
+/** Slugs that have rich profiles in the program registry */
+const RICH_SLUGS = new Set(allPrograms.map((p) => p.slug));
 
 type Props = { params: Promise<{ locale: string }> };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
-  return buildMetadata("mba", locale);
+  return buildMetadata("directory/mba-programs", locale);
 }
 
-export default async function MbaPage({ params }: Props) {
+export default async function MbaProgramsHubPage({ params }: Props) {
   const { locale } = await params;
   const programs = getProgramCards();
 
@@ -39,6 +45,28 @@ export default async function MbaPage({ params }: Props) {
     }),
   );
 
+  // "Other programs" from directory data that are NOT in the rich registry
+  const allDirectoryEntries = getEntriesForCategory("mba-programs");
+  const otherEntries = allDirectoryEntries.filter(
+    (e) => !RICH_SLUGS.has(e.slug),
+  );
+
+  const serializedOthers = otherEntries.map((entry) => ({
+    slug: getEntrySlug(entry),
+    name: getEntryName(entry),
+    subtitle:
+      entry.kind === "mba-program"
+        ? `${(entry as MBAProgramEntry).city}, ${(entry as MBAProgramEntry).country}`
+        : "",
+    description: getEntryDescription(entry),
+    tag:
+      entry.kind === "mba-program" ? (entry as MBAProgramEntry).country : null,
+    filters:
+      entry.kind === "mba-program"
+        ? { country: [(entry as MBAProgramEntry).country] }
+        : ({} as Record<string, string[]>),
+  }));
+
   return (
     <div className="max-w-5xl mx-auto px-6 py-12">
       {/* JSON-LD */}
@@ -49,7 +77,7 @@ export default async function MbaPage({ params }: Props) {
             ...collectionPageSchema(
               "Best MBA Programs for Search Fund Entrepreneurs",
               `${allPrograms.length} MBA programs reviewed for ETA readiness`,
-              `${BASE}/${locale}/mba`,
+              `${BASE}/${locale}/directory/mba-programs`,
             ),
             mainEntity: {
               "@type": "ItemList",
@@ -76,11 +104,24 @@ export default async function MbaPage({ params }: Props) {
           __html: safeJsonLd(
             breadcrumbSchema([
               { name: "Home", url: `${BASE}/${locale}` },
-              { name: "MBA Programs", url: `${BASE}/${locale}/mba` },
+              { name: "Directory", url: `${BASE}/${locale}/directory` },
+              {
+                name: "MBA Programs",
+                url: `${BASE}/${locale}/directory/mba-programs`,
+              },
             ]),
           ),
         }}
       />
+
+      {/* Back link */}
+      <Link
+        href={`/${locale}/directory`}
+        className="inline-flex items-center gap-1.5 text-sm text-apple-gray-500 hover:text-apple-accent transition-colors mb-8"
+      >
+        <ArrowLeft className="w-4 h-4" />
+        All categories
+      </Link>
 
       {/* Hero */}
       <h1 className="text-4xl font-semibold text-apple-black tracking-tight">
@@ -114,6 +155,25 @@ export default async function MbaPage({ params }: Props) {
 
       {/* Client-side hub with filters */}
       <MbaHub programs={programs} />
+
+      {/* Other programs section */}
+      {otherEntries.length > 0 && (
+        <section className="mt-14">
+          <h2 className="text-xl font-semibold text-apple-black mb-1">
+            Other MBA programs with ETA activity
+          </h2>
+          <p className="text-sm text-apple-gray-500 mb-2">
+            {otherEntries.length} additional programs offering ETA-related
+            coursework, clubs, or alumni networks.
+          </p>
+          <EntryFilters
+            entries={serializedOthers}
+            filterDefs={[{ key: "country", label: "Country" }]}
+            locale={locale}
+            categorySlug="mba-programs"
+          />
+        </section>
+      )}
 
       {/* Pillar CTAs */}
       <section className="mt-12 mb-12">

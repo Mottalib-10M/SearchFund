@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { notFound } from "next/navigation";
+import { ArrowLeft, ExternalLink, Info } from "lucide-react";
 import {
   getAllCategorySlugs,
   getCategoryBySlug,
@@ -19,6 +20,7 @@ type Props = { params: Promise<{ locale: string; category: string; slug: string 
 export function generateStaticParams() {
   const results: { category: string; slug: string }[] = [];
   for (const catSlug of getAllCategorySlugs()) {
+    if (catSlug === "mba-programs") continue;
     for (const entry of getEntriesForCategory(catSlug)) {
       results.push({ category: catSlug, slug: getEntrySlug(entry) });
     }
@@ -129,7 +131,7 @@ function buildSchemaOrg(entry: DirectoryEntry, url: string) {
 function InvestorDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "investor" }> }) {
   return (
     <>
-      <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+      <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
         <div>
           <dt className="text-apple-gray-500">Type</dt>
           <dd className="text-apple-black font-medium capitalize">{entry.type.replace("-", " ")}</dd>
@@ -162,9 +164,9 @@ function InvestorDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "inv
         )}
       </dl>
       {entry.investmentThesis && (
-        <div className="mt-6">
-          <h2 className="text-sm font-semibold text-apple-black">Investment Thesis</h2>
-          <p className="mt-1 text-sm text-apple-gray-700">{entry.investmentThesis}</p>
+        <div className="mt-5 pt-5 border-t border-apple-gray-100">
+          <h3 className="text-sm font-semibold text-apple-black">Investment Thesis</h3>
+          <p className="mt-1 text-sm text-apple-gray-700 leading-relaxed">{entry.investmentThesis}</p>
         </div>
       )}
     </>
@@ -173,7 +175,7 @@ function InvestorDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "inv
 
 function MBAProgramDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "mba-program" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Program</dt>
         <dd className="text-apple-black font-medium">{entry.programName}</dd>
@@ -204,7 +206,7 @@ function MBAProgramDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "m
 
 function BrokerDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "broker" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Type</dt>
         <dd className="text-apple-black font-medium capitalize">{entry.type}</dd>
@@ -231,7 +233,7 @@ function BrokerDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "broke
 
 function ConferenceDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "conference" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Location</dt>
         <dd className="text-apple-black font-medium">{entry.location}</dd>
@@ -260,7 +262,7 @@ function ConferenceDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "c
 
 function PodcastDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "podcast" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Host</dt>
         <dd className="text-apple-black font-medium">{entry.host}</dd>
@@ -289,7 +291,7 @@ function PodcastDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "podc
 
 function BookDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "book" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Author</dt>
         <dd className="text-apple-black font-medium">{entry.author}</dd>
@@ -318,7 +320,7 @@ function BookDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "book" }
 
 function AdvisorDetail({ entry }: { entry: Extract<DirectoryEntry, { kind: "advisor" }> }) {
   return (
-    <dl className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
+    <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-4 text-sm">
       <div>
         <dt className="text-apple-gray-500">Country</dt>
         <dd className="text-apple-black font-medium">{entry.country}</dd>
@@ -388,60 +390,83 @@ export default async function DirectoryEntryPage({ params }: Props) {
         }}
       />
 
-      <nav className="text-sm text-apple-gray-500 mb-6">
+      {/* Back link */}
+      <Link
+        href={`/${locale}/directory/${category}`}
+        className="inline-flex items-center gap-1.5 text-sm text-apple-gray-500 hover:text-apple-accent transition-colors mb-8"
+      >
+        <ArrowLeft className="w-4 h-4" />
+        {cat.name}
+      </Link>
+
+      {/* Breadcrumb */}
+      <nav className="text-xs text-apple-gray-400 mb-4">
         <Link href={`/${locale}/directory`} className="hover:text-apple-accent">
           Directory
         </Link>
-        <span className="mx-2">/</span>
+        <span className="mx-1.5">/</span>
         <Link
           href={`/${locale}/directory/${category}`}
           className="hover:text-apple-accent"
         >
           {cat.name}
         </Link>
-        <span className="mx-2">/</span>
-        <span className="text-apple-black">{name}</span>
+        <span className="mx-1.5">/</span>
+        <span className="text-apple-gray-600">{name}</span>
       </nav>
 
       <h1 className="text-3xl font-semibold text-apple-black tracking-tight">
         {name}
       </h1>
 
-      <EntryDetails entry={entry} />
+      {/* Details card */}
+      <div className="mt-6 rounded-2xl border border-apple-gray-200 bg-apple-gray-50 p-6">
+        <EntryDetails entry={entry} />
+      </div>
 
+      {/* About section */}
       <div className="mt-8">
-        <h2 className="text-sm font-semibold text-apple-black">About</h2>
+        <h2 className="text-lg font-semibold text-apple-black">About</h2>
         <p className="mt-2 text-sm text-apple-gray-700 leading-relaxed">
           {entry.description}
         </p>
       </div>
 
+      {/* CTA */}
       {websiteUrl && (
-        <div className="mt-6">
+        <div className="mt-8">
           <a
             href={websiteUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-1.5 rounded-full bg-apple-accent px-5 py-2 text-sm font-medium text-white hover:bg-apple-accent/90 transition-colors"
+            className="inline-flex items-center gap-2 rounded-full bg-apple-accent px-6 py-2.5 text-sm font-medium text-white hover:bg-apple-accent/90 transition-colors"
           >
-            Visit Website &rarr;
+            Visit Website
+            <ExternalLink className="w-4 h-4" />
           </a>
         </div>
       )}
 
-      <div className="mt-8 pt-6 border-t border-apple-gray-100 text-xs text-apple-gray-400">
-        <p>Source: {entry.source}</p>
-        <p className="mt-1">
-          Information sourced from public records. If you notice an inaccuracy,
-          please{" "}
-          <a
-            href="/contact"
-            className="text-apple-accent hover:underline"
-          >
-            let us know
-          </a>
-          .
-        </p>
+      {/* Source & feedback footer */}
+      <div className="mt-10 rounded-xl bg-apple-gray-50 p-5 flex items-start gap-3">
+        <Info className="w-4 h-4 text-apple-gray-400 mt-0.5 shrink-0" />
+        <div className="text-xs text-apple-gray-500 leading-relaxed">
+          <p>
+            <span className="font-medium text-apple-gray-600">Source:</span>{" "}
+            {entry.source}
+          </p>
+          <p className="mt-1">
+            Information sourced from public records. If you notice an inaccuracy,
+            please{" "}
+            <a
+              href="/contact"
+              className="text-apple-accent hover:underline"
+            >
+              let us know
+            </a>
+            .
+          </p>
+        </div>
       </div>
     </div>
   );

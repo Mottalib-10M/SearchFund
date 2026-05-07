@@ -20,11 +20,15 @@ export default function Navbar() {
   const { data: session } = useSession();
   const pathname = usePathname();
 
-  // Learn dropdown sub-links
-  const learnSubLinks = [
+  const navLinks = [
+    { href: "/the-eta-journey" as const, label: t("theJourney") },
     { href: "/learn" as const, label: t("learn") },
-    { href: "/mba" as const, label: t("mba") },
     { href: "/search-fund-statistics" as const, label: t("statistics") },
+    { href: "/listings" as const, label: t("marketplace") },
+    { href: "/searchers" as const, label: t("searchers") },
+    { href: "/investors" as const, label: t("investors") },
+    { href: "/directory" as const, label: t("directory") },
+    { href: "/tools" as const, label: t("tools") },
   ];
 
   const dashboardLinks = [
@@ -69,18 +73,7 @@ export default function Navbar() {
 
           {/* Nav links - desktop */}
           <ul className="hidden md:flex items-center gap-8">
-            {/* Journey */}
-            <li>
-              <Link
-                href="/the-eta-journey"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("theJourney")}
-              </Link>
-            </li>
-
-            {/* Learn sub-links (flat) */}
-            {learnSubLinks.map((link) => (
+            {navLinks.map((link) => (
               <li key={link.href}>
                 <Link
                   href={link.href}
@@ -90,56 +83,6 @@ export default function Navbar() {
                 </Link>
               </li>
             ))}
-
-            {/* Marketplace */}
-            <li>
-              <Link
-                href="/listings"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("marketplace")}
-              </Link>
-            </li>
-
-            {/* Searchers */}
-            <li>
-              <Link
-                href="/searchers"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("searchers")}
-              </Link>
-            </li>
-
-            {/* Investors */}
-            <li>
-              <Link
-                href="/investors"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("investors")}
-              </Link>
-            </li>
-
-            {/* Tools */}
-            <li>
-              <Link
-                href="/tools"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("tools")}
-              </Link>
-            </li>
-
-            {/* Contact */}
-            <li>
-              <Link
-                href="/contact"
-                className="text-sm transition-colors inline-flex items-center gap-1.5 text-apple-gray-700 hover:text-apple-black"
-              >
-                {t("contact")}
-              </Link>
-            </li>
           </ul>
 
           {/* Right actions - desktop */}
@@ -261,14 +204,7 @@ export default function Navbar() {
                 })}
                 <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-1">
                   {/* Site nav links for logged-in users */}
-                  <Link
-                    href="/the-eta-journey"
-                    onClick={() => setMobileOpen(false)}
-                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                  >
-                    {t("theJourney")}
-                  </Link>
-                  {learnSubLinks.map((link) => (
+                  {navLinks.map((link) => (
                     <Link
                       key={link.href}
                       href={link.href}
@@ -278,27 +214,6 @@ export default function Navbar() {
                       {link.label}
                     </Link>
                   ))}
-                  <Link
-                    href="/listings"
-                    onClick={() => setMobileOpen(false)}
-                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                  >
-                    {t("marketplace")}
-                  </Link>
-                  <Link
-                    href="/searchers"
-                    onClick={() => setMobileOpen(false)}
-                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                  >
-                    {t("searchers")}
-                  </Link>
-                  <Link
-                    href="/investors"
-                    onClick={() => setMobileOpen(false)}
-                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-500 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                  >
-                    {t("investors")}
-                  </Link>
                 </div>
                 <div className="pt-4 mt-4 border-t border-apple-gray-300/50">
                   <button
@@ -317,50 +232,16 @@ export default function Navbar() {
             ) : (
               <>
                 {/* Regular site nav */}
-                <Link
-                  href="/the-eta-journey"
-                  onClick={() => setMobileOpen(false)}
-                  className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                >
-                  {t("theJourney")}
-                </Link>
-
-                {/* Learn section label */}
-                <p className="px-3 pt-3 pb-1 text-xs uppercase tracking-wider text-apple-gray-500 font-semibold">
-                  {t("learn")}
-                </p>
-                {learnSubLinks.map((link) => (
+                {navLinks.map((link) => (
                   <Link
                     key={link.href}
                     href={link.href}
                     onClick={() => setMobileOpen(false)}
-                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black pl-5"
+                    className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
                   >
                     {link.label}
                   </Link>
                 ))}
-
-                <Link
-                  href="/listings"
-                  onClick={() => setMobileOpen(false)}
-                  className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                >
-                  {t("marketplace")}
-                </Link>
-                <Link
-                  href="/searchers"
-                  onClick={() => setMobileOpen(false)}
-                  className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                >
-                  {t("searchers")}
-                </Link>
-                <Link
-                  href="/investors"
-                  onClick={() => setMobileOpen(false)}
-                  className="flex items-center gap-2 rounded-lg px-3 py-2.5 text-sm text-apple-gray-700 transition-colors hover:bg-apple-gray-100 hover:text-apple-black"
-                >
-                  {t("investors")}
-                </Link>
 
                 <div className="pt-4 mt-4 border-t border-apple-gray-300/50 space-y-3">
                   <Link

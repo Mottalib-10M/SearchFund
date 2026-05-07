@@ -1,7 +1,13 @@
 import type { MetadataRoute } from "next";
 
 const locales = ["en", "fr", "es", "it", "pt"];
-const protectedPaths = ["/dashboard/", "/admin/", "/auth/onboarding"];
+const protectedPaths = [
+  "/dashboard",
+  "/admin",
+  "/auth/onboarding",
+  "/auth/verify-request",
+  "/auth/deactivated",
+];
 
 export default function robots(): MetadataRoute.Robots {
   return {
@@ -11,6 +17,9 @@ export default function robots(): MetadataRoute.Robots {
       disallow: [
         "/api/",
         "/_next/",
+        // Block without locale prefix (middleware redirects these anyway)
+        ...protectedPaths,
+        // Block with each locale prefix
         ...locales.flatMap((l) => protectedPaths.map((p) => `/${l}${p}`)),
       ],
     },

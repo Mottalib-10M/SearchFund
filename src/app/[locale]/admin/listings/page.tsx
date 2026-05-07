@@ -1,7 +1,7 @@
 import { prisma } from "@/lib/prisma";
 import { redirect } from "next/navigation";
 import { isAdminAuthenticated } from "@/lib/admin-auth";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ListingStatusBadge } from "../_components/AdminBadges";
 import { formatDate, formatCurrency } from "../_components/AdminStatCard";
 import { AdminDeleteButton } from "../_components/AdminDeleteButton";

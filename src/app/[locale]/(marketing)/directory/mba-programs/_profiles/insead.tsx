@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -232,14 +232,14 @@ export default function INSEADProfile() {
           complements the existing conference calendar that includes events
           organized by{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
           </Link>{" "}
           and{" "}
           <Link
-            href="/mba/london-business-school"
+            href="/directory/mba-programs/london-business-school"
             className="text-apple-accent hover:underline"
           >
             London Business School
@@ -271,7 +271,7 @@ export default function INSEADProfile() {
           We were unable to independently verify the count or identify the
           specific vehicles included. Unlike{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -279,7 +279,7 @@ export default function INSEADProfile() {
           , which publishes a detailed study with named funds and tracked
           outcomes, or{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -384,7 +384,7 @@ export default function INSEADProfile() {
         <h3 className={profileH3}>INSEAD vs. IESE</h3>
         <p>
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -414,7 +414,7 @@ export default function INSEADProfile() {
         <h3 className={profileH3}>INSEAD vs. London Business School</h3>
         <p>
           <Link
-            href="/mba/london-business-school"
+            href="/directory/mba-programs/london-business-school"
             className="text-apple-accent hover:underline"
           >
             London Business School
@@ -548,7 +548,7 @@ export default function INSEADProfile() {
           </li>
           <li>
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile
@@ -556,7 +556,7 @@ export default function INSEADProfile() {
           </li>
           <li>
             <Link
-              href="/mba/london-business-school"
+              href="/directory/mba-programs/london-business-school"
               className="text-apple-accent hover:underline"
             >
               London Business School profile
@@ -564,7 +564,7 @@ export default function INSEADProfile() {
           </li>
           <li>
             <Link
-              href="/mba/stanford-gsb"
+              href="/directory/mba-programs/stanford-gsb"
               className="text-apple-accent hover:underline"
             >
               Stanford GSB profile

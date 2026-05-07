@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass } from "./shared-styles";
 
 export default function MbaAndEtaArticle() {
@@ -355,7 +355,7 @@ export default function MbaAndEtaArticle() {
         <h3 className={h3Class}>Tier 1: The established leaders</h3>
 
         <p>
-          <strong><Link href="/mba/stanford-gsb" className="text-apple-accent hover:underline">Stanford GSB</Link></strong> remains
+          <strong><Link href="/directory/mba-programs/stanford-gsb" className="text-apple-accent hover:underline">Stanford GSB</Link></strong> remains
           the undisputed leader in ETA education. As the birthplace of the
           search fund model, Stanford has the deepest investor network, the
           largest alumni base of successful searchers, and the most extensive
@@ -368,7 +368,7 @@ export default function MbaAndEtaArticle() {
         </p>
 
         <p>
-          <strong><Link href="/mba/iese" className="text-apple-accent hover:underline">IESE Business School</Link></strong> holds
+          <strong><Link href="/directory/mba-programs/iese" className="text-apple-accent hover:underline">IESE Business School</Link></strong> holds
           a similar position for international search funds. Since establishing
           its International Search Fund Center in 2011, IESE has built the
           most robust ETA ecosystem outside North America. The center produces
@@ -381,7 +381,7 @@ export default function MbaAndEtaArticle() {
         </p>
 
         <p>
-          <strong><Link href="/mba/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School</Link></strong> rounds
+          <strong><Link href="/directory/mba-programs/harvard-business-school" className="text-apple-accent hover:underline">Harvard Business School</Link></strong> rounds
           out Tier 1 with the second-largest ETA ecosystem in North America.
           The HBS approach is distinctive: it integrates search fund content
           throughout the case-method curriculum rather than concentrating it in
@@ -450,7 +450,7 @@ export default function MbaAndEtaArticle() {
         <p>
           For a detailed, school-by-school comparison, see our comprehensive
           guide to{" "}
-          <Link href="/mba" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">
             MBA programs for ETA
           </Link>.
         </p>

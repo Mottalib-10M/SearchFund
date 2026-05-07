@@ -3,7 +3,7 @@ import { authOptions } from "@/lib/auth";
 import { prisma } from "@/lib/prisma";
 import { redirect } from "next/navigation";
 import { timeAgo } from "@/lib/utils";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import type { Metadata } from "next";
 import { journeyPhases } from "@/data/journey-phases";
 import { SEARCH_STATUS_TO_PHASE } from "@/lib/search-status-phase-map";

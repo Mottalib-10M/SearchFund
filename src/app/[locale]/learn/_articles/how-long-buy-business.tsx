@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass } from "./shared-styles";
 
 export default function HowLongBuyBusinessArticle() {

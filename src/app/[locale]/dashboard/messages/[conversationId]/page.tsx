@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { useSession } from "next-auth/react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { ArrowLeft, ExternalLink, Trash2 } from "lucide-react";
 import { useRouter } from "next/navigation";
 import MessageThread from "@/components/messages/MessageThread";

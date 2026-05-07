@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function MbaTierSearchFundRaisingArticle() {
@@ -387,12 +387,12 @@ export default function MbaTierSearchFundRaisingArticle() {
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
             Start here with our complete guide to getting started
           </Link>, or visit the{" "}
-          <Link href="/mba" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">
             MBA Hub
           </Link>{" "}
           for resources tailored to business school students, including
           the{" "}
-          <Link href="/mba/stanford-gsb" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/stanford-gsb" className="text-apple-accent hover:underline">
             Stanford GSB program profile
           </Link>.
         </p>

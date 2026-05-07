@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { User } from "lucide-react";
 import type { SearcherWithUser } from "@/lib/types";
 import { COUNTRIES } from "@/lib/utils";

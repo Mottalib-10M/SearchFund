@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { Mail, MessageSquare } from "lucide-react";
 import { buildMetadata } from "@/lib/meta-snippets";
 import ContactForm from "@/components/contact/ContactForm";

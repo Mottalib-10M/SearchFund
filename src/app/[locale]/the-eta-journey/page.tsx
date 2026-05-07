@@ -23,10 +23,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       canonical: `${BASE}/${locale}/the-eta-journey`,
       languages: {
         en: `${BASE}/en/the-eta-journey`,
-        fr: `${BASE}/fr/the-eta-journey`,
-        es: `${BASE}/es/the-eta-journey`,
-        it: `${BASE}/it/the-eta-journey`,
-        pt: `${BASE}/pt/the-eta-journey`,
         "x-default": `${BASE}/en/the-eta-journey`,
       },
     },

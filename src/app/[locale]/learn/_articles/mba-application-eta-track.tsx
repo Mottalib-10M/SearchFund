@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
 
 export default function MbaApplicationEtaTrackArticle() {
@@ -154,12 +154,12 @@ export default function MbaApplicationEtaTrackArticle() {
 
         <p>
           If the school has a strong ETA ecosystem, name it specifically. For a{" "}
-          <Link href="/mba/stanford-gsb" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/stanford-gsb" className="text-apple-accent hover:underline">
             Stanford GSB
           </Link>{" "}
           application, you might reference STRAMGT 543 and the Center for
           Entrepreneurial Studies. For a{" "}
-          <Link href="/mba/harvard-business-school" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/harvard-business-school" className="text-apple-accent hover:underline">
             Harvard Business School
           </Link>{" "}
           essay, mentioning HBSMBA 6452 and the annual ETA conference
@@ -490,7 +490,7 @@ export default function MbaApplicationEtaTrackArticle() {
             </Link>
           </li>
           <li>
-            <Link href="/mba" className="text-apple-accent hover:underline">
+            <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">
               MBA Programs for ETA Hub
             </Link>
           </li>

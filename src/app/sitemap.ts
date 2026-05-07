@@ -6,7 +6,7 @@ import { templates } from "./[locale]/(marketing)/templates/_data";
 import { tools } from "./[locale]/(marketing)/tools/_data";
 import { newsArticles } from "./[locale]/(marketing)/news/_data/articles";
 import { directoryCategories, getEntriesForCategory } from "./[locale]/(marketing)/directory/_data";
-import { allPrograms } from "./[locale]/mba/_data/program-registry";
+import { allPrograms } from "./[locale]/(marketing)/directory/_data/program-registry";
 
 const BASE = "https://www.searchfundmarket.com";
 
@@ -92,19 +92,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   }
 
-  // --- MBA hub + program profiles (English only) ---
-  entries.push({
-    url: `${BASE}/en/mba`,
-    changeFrequency: "weekly",
-    priority: 0.9,
-    alternates: buildAlternates("/mba", ["en"]),
-  });
+  // --- MBA program profiles (English only, hub covered by directory loop) ---
   for (const program of allPrograms) {
     entries.push({
-      url: `${BASE}/en/mba/${program.slug}`,
+      url: `${BASE}/en/directory/mba-programs/${program.slug}`,
       changeFrequency: "monthly",
       priority: 0.8,
-      alternates: buildAlternates(`/mba/${program.slug}`, ["en"]),
+      alternates: buildAlternates(`/directory/mba-programs/${program.slug}`, ["en"]),
     });
   }
 
@@ -148,6 +142,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   // --- Directory category pages (English only) ---
+  const richProgramSlugs = new Set(allPrograms.map((p) => p.slug));
   for (const cat of directoryCategories) {
     entries.push({
       url: `${BASE}/en/directory/${cat.slug}`,
@@ -155,8 +150,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
       alternates: buildAlternates(`/directory/${cat.slug}`, ["en"]),
     });
-    // Individual directory entries
+    // Individual directory entries (skip mba-programs that have rich profiles)
     for (const entry of getEntriesForCategory(cat.slug)) {
+      if (cat.slug === "mba-programs" && richProgramSlugs.has(entry.slug)) continue;
       entries.push({
         url: `${BASE}/en/directory/${cat.slug}/${entry.slug}`,
         changeFrequency: "monthly",

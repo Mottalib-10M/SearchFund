@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -257,7 +257,7 @@ export default function ChicagoBoothProfile() {
         <p>
           The conference was co-created by Alex Hodgkin and counterparts at{" "}
           <Link
-            href="/mba/kellogg"
+            href="/directory/mba-programs/kellogg"
             className="text-apple-accent hover:underline"
           >
             Kellogg School of Management
@@ -364,7 +364,7 @@ export default function ChicagoBoothProfile() {
           Booth occupies a distinctive position in the ETA landscape. Its
           strengths are not in historical primacy (that belongs to{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
@@ -379,7 +379,7 @@ export default function ChicagoBoothProfile() {
         <p>
           Compared to{" "}
           <Link
-            href="/mba/kellogg"
+            href="/directory/mba-programs/kellogg"
             className="text-apple-accent hover:underline"
           >
             Kellogg
@@ -517,7 +517,7 @@ export default function ChicagoBoothProfile() {
           </li>
           <li>
             <Link
-              href="/mba/stanford-gsb"
+              href="/directory/mba-programs/stanford-gsb"
               className="text-apple-accent hover:underline"
             >
               Stanford GSB profile
@@ -525,7 +525,7 @@ export default function ChicagoBoothProfile() {
           </li>
           <li>
             <Link
-              href="/mba/kellogg"
+              href="/directory/mba-programs/kellogg"
               className="text-apple-accent hover:underline"
             >
               Kellogg School of Management profile
@@ -533,7 +533,7 @@ export default function ChicagoBoothProfile() {
           </li>
           <li>
             <Link
-              href="/mba/yale-som"
+              href="/directory/mba-programs/yale-som"
               className="text-apple-accent hover:underline"
             >
               Yale School of Management profile

@@ -1,5 +1,5 @@
 import { h1Class, h2Class, h3Class, bodyClass, ulClass, olClass } from "./shared-styles";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 
 export default function StorageSelfStorageAcquisitionArticle() {
   return (

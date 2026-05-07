@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -133,7 +133,7 @@ export default function HECParisProfile() {
           <li>
             <strong>No dedicated ETA course.</strong> Unlike{" "}
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE
@@ -198,7 +198,7 @@ export default function HECParisProfile() {
           infrastructure, the financial question is not just about tuition but
           about what the tuition buys in terms of ETA-specific resources. At{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -206,7 +206,7 @@ export default function HECParisProfile() {
           , tuition funds access to the International Search Fund Center, a
           dedicated elective, and a biennial study. At{" "}
           <Link
-            href="/mba/insead"
+            href="/directory/mba-programs/insead"
             className="text-apple-accent hover:underline"
           >
             INSEAD
@@ -249,14 +249,14 @@ export default function HECParisProfile() {
           HEC is less suitable if you want a school that will actively
           structure your path into a search fund. For that, consider{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE
           </Link>{" "}
           for international ETA or{" "}
           <Link
-            href="/mba/london-business-school"
+            href="/directory/mba-programs/london-business-school"
             className="text-apple-accent hover:underline"
           >
             London Business School
@@ -326,7 +326,7 @@ export default function HECParisProfile() {
           </li>
           <li>
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE Business School Profile
@@ -334,7 +334,7 @@ export default function HECParisProfile() {
           </li>
           <li>
             <Link
-              href="/mba/insead"
+              href="/directory/mba-programs/insead"
               className="text-apple-accent hover:underline"
             >
               INSEAD Profile
@@ -342,7 +342,7 @@ export default function HECParisProfile() {
           </li>
           <li>
             <Link
-              href="/mba/london-business-school"
+              href="/directory/mba-programs/london-business-school"
               className="text-apple-accent hover:underline"
             >
               London Business School Profile

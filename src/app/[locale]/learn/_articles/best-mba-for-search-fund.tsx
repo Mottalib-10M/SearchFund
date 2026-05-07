@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { h1Class, h2Class, h3Class, bodyClass, ulClass } from "./shared-styles";
 
 export default function BestMbaForSearchFundArticle() {
@@ -38,7 +38,7 @@ export default function BestMbaForSearchFundArticle() {
         </p>
         <p>
           This article is the long-form editorial companion to our{" "}
-          <Link href="/mba" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">
             MBA Programs for Search Funds hub
           </Link>, which provides visual program cards for quick comparison.
           Here we go deeper: analyzing each program&apos;s curriculum, faculty
@@ -115,7 +115,7 @@ export default function BestMbaForSearchFundArticle() {
           since. The program&apos;s 2024 study catalogued 681 search funds
           raised in the U.S. and Canada, making it the definitive dataset
           for the industry. For a detailed look at the program, see our{" "}
-          <Link href="/mba/stanford-gsb" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/stanford-gsb" className="text-apple-accent hover:underline">
             Stanford GSB profile
           </Link>.
         </p>
@@ -154,7 +154,7 @@ export default function BestMbaForSearchFundArticle() {
           Since then, IESE has tracked over 320 international search funds
           and produced more than 60 alumni-led search fund vehicles. See the
           full{" "}
-          <Link href="/mba/iese" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/iese" className="text-apple-accent hover:underline">
             IESE profile
           </Link>{" "}
           for more details.
@@ -199,7 +199,7 @@ export default function BestMbaForSearchFundArticle() {
           textbook on acquisition entrepreneurship has sold over 65,000
           copies and become the standard reference for the field. Read the
           complete{" "}
-          <Link href="/mba/harvard-business-school" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/harvard-business-school" className="text-apple-accent hover:underline">
             HBS profile
           </Link>{" "}
           on our hub.
@@ -247,7 +247,7 @@ export default function BestMbaForSearchFundArticle() {
           offers three credited courses focused on acquisition
           entrepreneurship, providing deep exposure to deal evaluation,
           structuring, and post-acquisition management. See the{" "}
-          <Link href="/mba/yale-som" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/yale-som" className="text-apple-accent hover:underline">
             Yale SOM profile
           </Link>.
         </p>
@@ -272,7 +272,7 @@ export default function BestMbaForSearchFundArticle() {
           program, which has supported aspiring entrepreneurs since 2013.
           The program offers two credited ETA courses and an active search
           fund club with more than 100 members. See the{" "}
-          <Link href="/mba/kellogg" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/kellogg" className="text-apple-accent hover:underline">
             Kellogg profile
           </Link>.
         </p>
@@ -300,7 +300,7 @@ export default function BestMbaForSearchFundArticle() {
           supported by a $10 million endowment, and the Perlman Fellowship
           provides $50,000 to graduating students pursuing entrepreneurial
           ventures including search funds. See the{" "}
-          <Link href="/mba/wharton" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/wharton" className="text-apple-accent hover:underline">
             Wharton profile
           </Link>.
         </p>
@@ -330,7 +330,7 @@ export default function BestMbaForSearchFundArticle() {
           Innovation provides institutional support, and the school&apos;s
           annual search fund conference has drawn more than 1,000 attendees.
           See the{" "}
-          <Link href="/mba/chicago-booth" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/chicago-booth" className="text-apple-accent hover:underline">
             Chicago Booth profile
           </Link>.
         </p>
@@ -360,7 +360,7 @@ export default function BestMbaForSearchFundArticle() {
           search fund vehicles across its global network. The school&apos;s
           dual-campus model (Fontainebleau, France and Singapore) gives
           students exposure to European and Asian markets. See the{" "}
-          <Link href="/mba/insead" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/insead" className="text-apple-accent hover:underline">
             INSEAD profile
           </Link>.
         </p>
@@ -405,7 +405,7 @@ export default function BestMbaForSearchFundArticle() {
           origins. The school has since developed a growing body of ETA case
           studies and an active alumni community in the London market. See
           the{" "}
-          <Link href="/mba/london-business-school" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/london-business-school" className="text-apple-accent hover:underline">
             LBS profile
           </Link>.
         </p>
@@ -432,7 +432,7 @@ export default function BestMbaForSearchFundArticle() {
           Working alongside faculty like Professor Rob Campos, IE has
           developed a curriculum that connects students to the Spanish and
           broader European search fund ecosystem. See the{" "}
-          <Link href="/mba/ie-business-school" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/ie-business-school" className="text-apple-accent hover:underline">
             IE profile
           </Link>.
         </p>
@@ -460,7 +460,7 @@ export default function BestMbaForSearchFundArticle() {
           interest. While the school does not yet match the depth of IESE
           or INSEAD in dedicated ETA infrastructure, its trajectory is
           promising. See the{" "}
-          <Link href="/mba/hec-paris" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/hec-paris" className="text-apple-accent hover:underline">
             HEC Paris profile
           </Link>.
         </p>
@@ -695,7 +695,7 @@ export default function BestMbaForSearchFundArticle() {
         <h2 className={h2Class}>Related reading</h2>
         <ul className={ulClass}>
           <li>
-            <Link href="/mba" className="text-apple-accent hover:underline">
+            <Link href="/directory/mba-programs" className="text-apple-accent hover:underline">
               MBA Programs for Search Funds
             </Link>{" "}
             - Visual hub with program cards for quick comparison

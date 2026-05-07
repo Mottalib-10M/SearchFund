@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 import Navbar from "@/components/layout/Navbar";
 import ConditionalFooter from "@/components/layout/ConditionalFooter";
 import ScrollToTop from "@/components/layout/ScrollToTop";
+import ScrollToTopButton from "@/components/layout/ScrollToTopButton";
 import AuthSessionProvider from "@/components/providers/SessionProvider";
 import GoogleAnalytics from "@/components/providers/GoogleAnalytics";
 import MicrosoftClarity from "@/components/providers/MicrosoftClarity";
@@ -77,6 +78,7 @@ export default async function LocaleLayout({
         <Navbar />
         <main className="min-h-screen pt-14">{children}</main>
         <ConditionalFooter />
+        <ScrollToTopButton />
         <CookieBanner />
         <GoogleAnalytics />
         <MicrosoftClarity />

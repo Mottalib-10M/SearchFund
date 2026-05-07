@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -403,14 +403,14 @@ export default function StanfordGSBProfile() {
         <p>
           Stanford GSB is one of three Tier 1 programs for ETA, alongside{" "}
           <Link
-            href="/mba/harvard-business-school"
+            href="/directory/mba-programs/harvard-business-school"
             className="text-apple-accent hover:underline"
           >
             Harvard Business School
           </Link>{" "}
           and{" "}
           <Link
-            href="/mba/iese"
+            href="/directory/mba-programs/iese"
             className="text-apple-accent hover:underline"
           >
             IESE Business School
@@ -530,7 +530,7 @@ export default function StanfordGSBProfile() {
           </li>
           <li>
             <Link
-              href="/mba/iese"
+              href="/directory/mba-programs/iese"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile
@@ -538,7 +538,7 @@ export default function StanfordGSBProfile() {
           </li>
           <li>
             <Link
-              href="/mba/harvard-business-school"
+              href="/directory/mba-programs/harvard-business-school"
               className="text-apple-accent hover:underline"
             >
               Harvard Business School profile

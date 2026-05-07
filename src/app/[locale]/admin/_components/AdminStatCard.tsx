@@ -68,3 +68,71 @@ export function formatDateTime(date: Date | null | undefined): string {
     minute: "2-digit",
   });
 }
+
+export function formatRelativeTime(date: Date): string {
+  const now = Date.now();
+  const diffMs = now - date.getTime();
+  const diffSec = Math.floor(diffMs / 1000);
+  const diffMin = Math.floor(diffSec / 60);
+  const diffHr = Math.floor(diffMin / 60);
+  const diffDay = Math.floor(diffHr / 24);
+
+  if (diffSec < 60) return "just now";
+  if (diffMin < 60) return `${diffMin}m ago`;
+  if (diffHr < 24) return `${diffHr}h ago`;
+  if (diffDay === 1) return "yesterday";
+  if (diffDay < 30) return `${diffDay}d ago`;
+  return formatDate(date);
+}
+
+export function DeltaBadge({
+  current,
+  previous,
+}: {
+  current: number;
+  previous: number;
+}) {
+  if (previous === 0 && current === 0) {
+    return <span className="text-xs text-apple-gray-400">—</span>;
+  }
+  if (previous === 0) {
+    return (
+      <span className="text-xs font-medium text-apple-success">+{current}</span>
+    );
+  }
+  const pct = Math.round(((current - previous) / previous) * 100);
+  const isPositive = pct >= 0;
+  return (
+    <span
+      className={`text-xs font-medium ${isPositive ? "text-apple-success" : "text-apple-error"}`}
+    >
+      {isPositive ? "+" : ""}
+      {pct}%
+    </span>
+  );
+}
+
+export function StatCardWithDelta({
+  label,
+  current,
+  previous,
+}: {
+  label: string;
+  current: number;
+  previous: number;
+}) {
+  return (
+    <div className="bg-apple-gray-100 rounded-xl px-4 py-3">
+      <p className="text-xs text-apple-gray-500">{label}</p>
+      <div className="flex items-baseline gap-2 mt-1">
+        <span className="text-lg font-semibold text-apple-black">
+          {current.toLocaleString()}
+        </span>
+        <DeltaBadge current={current} previous={previous} />
+      </div>
+      <p className="text-xs text-apple-gray-400 mt-0.5">
+        vs {previous.toLocaleString()} prev
+      </p>
+    </div>
+  );
+}

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import {
   profileH1,
   profileH2,
@@ -350,14 +350,14 @@ export default function IESEProfile() {
           at schools with more geographically concentrated alumni bases. For
           comparison, see how{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
           </Link>{" "}
           and{" "}
           <Link
-            href="/mba/harvard-business-school"
+            href="/directory/mba-programs/harvard-business-school"
             className="text-apple-accent hover:underline"
           >
             Harvard Business School
@@ -452,14 +452,14 @@ export default function IESEProfile() {
           IESE is less ideal if your target geography is exclusively the United
           States, where{" "}
           <Link
-            href="/mba/stanford-gsb"
+            href="/directory/mba-programs/stanford-gsb"
             className="text-apple-accent hover:underline"
           >
             Stanford GSB
           </Link>{" "}
           and{" "}
           <Link
-            href="/mba/harvard-business-school"
+            href="/directory/mba-programs/harvard-business-school"
             className="text-apple-accent hover:underline"
           >
             HBS
@@ -468,7 +468,7 @@ export default function IESEProfile() {
           the speed of a one-year MBA, since IESE&rsquo;s program runs for 19
           months. For one-year options in Europe, consider{" "}
           <Link
-            href="/mba/insead"
+            href="/directory/mba-programs/insead"
             className="text-apple-accent hover:underline"
           >
             INSEAD
@@ -530,7 +530,7 @@ export default function IESEProfile() {
           </li>
           <li>
             <Link
-              href="/mba/stanford-gsb"
+              href="/directory/mba-programs/stanford-gsb"
               className="text-apple-accent hover:underline"
             >
               Stanford GSB Profile
@@ -538,7 +538,7 @@ export default function IESEProfile() {
           </li>
           <li>
             <Link
-              href="/mba/harvard-business-school"
+              href="/directory/mba-programs/harvard-business-school"
               className="text-apple-accent hover:underline"
             >
               Harvard Business School Profile
@@ -546,7 +546,7 @@ export default function IESEProfile() {
           </li>
           <li>
             <Link
-              href="/mba/insead"
+              href="/directory/mba-programs/insead"
               className="text-apple-accent hover:underline"
             >
               INSEAD Profile
