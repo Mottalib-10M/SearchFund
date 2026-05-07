@@ -1,14 +1,13 @@
 import { NextResponse } from "next/server";
 import { signAdminToken, COOKIE_NAME } from "@/lib/admin-auth";
 
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD;
-
-if (!ADMIN_PASSWORD) {
-  throw new Error("ADMIN_PASSWORD environment variable is required");
-}
-
 export async function POST(request: Request) {
   try {
+    const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD;
+    if (!ADMIN_PASSWORD) {
+      return NextResponse.json({ error: "Server configuration error" }, { status: 500 });
+    }
+
     const { password } = await request.json();
 
     if (password !== ADMIN_PASSWORD) {
