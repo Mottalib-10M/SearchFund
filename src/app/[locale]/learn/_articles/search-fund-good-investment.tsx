@@ -6,7 +6,7 @@ export default function SearchFundGoodInvestmentArticle() {
     <article className="max-w-4xl mx-auto px-6 py-12">
       <h1 className={h1Class}>Are Search Funds a Good Investment? Returns Analyzed</h1>
 
-      <p className="text-gray-600 dark:text-gray-400 mb-8">11 min read</p>
+      <p className="text-gray-600 mb-8">11 min read</p>
 
       <p className={bodyClass}>
         Search funds have quietly generated some of the most compelling risk-adjusted returns in private equity, yet they remain unknown to many institutional investors. With average internal rates of return (IRR) exceeding 35% and money-on-invested-capital (MOIC) multiples above 4.5x according to Stanford Graduate School of Business research, search funds occupy a unique position in the alternative investment market.
@@ -663,8 +663,8 @@ export default function SearchFundGoodInvestmentArticle() {
         </li>
       </ul>
 
-      <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
-        <p className="text-sm text-gray-600 dark:text-gray-400">
+      <div className="mt-12 pt-8 border-t border-gray-200">
+        <p className="text-sm text-gray-600">
           <strong>Related Articles:</strong>{" "}
           <Link href="/learn/search-fund-returns" className="text-apple-accent hover:underline">
             Understanding Search Fund Returns

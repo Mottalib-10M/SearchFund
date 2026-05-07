@@ -8,7 +8,7 @@ export default function SearchFundCaseStudiesArticle() {
         Search Fund Case Studies: Lessons from Real Deals
       </h1>
 
-      <div className="mb-8 text-sm text-gray-600 dark:text-gray-400">
+      <div className="mb-8 text-sm text-gray-600">
         12 min read
       </div>
 

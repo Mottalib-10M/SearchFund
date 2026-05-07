@@ -58,7 +58,7 @@ function SourceBadge({ sourceId }: { sourceId: string }) {
   const source = SOURCES.find((s) => s.id === sourceId);
   if (!source) return null;
   return (
-    <span className="inline-block rounded-full bg-zinc-100 px-2 py-0.5 text-[11px] font-medium text-zinc-500 dark:bg-zinc-800 dark:text-zinc-400">
+    <span className="inline-block rounded-full bg-zinc-200 px-2 py-0.5 text-[11px] font-medium text-zinc-700">
       {source.name} {source.year}
     </span>
   );
@@ -76,14 +76,14 @@ function StatCard({
   sourceId: string;
 }) {
   return (
-    <div className="rounded-2xl border border-zinc-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-900">
-      <p className="text-3xl font-bold tracking-tight text-zinc-900 dark:text-white sm:text-4xl">
+    <div className="rounded-2xl border border-zinc-200 bg-white p-5">
+      <p className="text-3xl font-bold tracking-tight text-zinc-900 sm:text-4xl">
         {value}
       </p>
-      <p className="mt-1 text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+      <p className="mt-1 text-sm font-semibold text-zinc-700">
         {label}
       </p>
-      <p className="mt-0.5 text-xs text-zinc-500 dark:text-zinc-400">
+      <p className="mt-0.5 text-xs text-zinc-500">
         {sublabel}
       </p>
       <div className="mt-3">
@@ -109,15 +109,15 @@ function HorizontalBar({
   const widthPct = Math.round((value / maxValue) * 100);
   return (
     <div className="flex items-center gap-3">
-      <span className="w-28 shrink-0 text-right text-sm text-zinc-600 dark:text-zinc-400 sm:w-36">
+      <span className="w-28 shrink-0 text-right text-sm text-zinc-700 sm:w-36">
         {label}
       </span>
-      <div className="relative h-7 flex-1 overflow-hidden rounded-md bg-zinc-100 dark:bg-zinc-800">
+      <div className="relative h-7 flex-1 overflow-hidden rounded-md bg-zinc-100">
         <div
           className="absolute inset-y-0 left-0 rounded-md"
           style={{ width: `${widthPct}%`, backgroundColor: color }}
         />
-        <span className="relative z-10 flex h-full items-center px-2 text-xs font-semibold text-zinc-800 dark:text-zinc-200">
+        <span className="relative z-10 flex h-full items-center px-2 text-xs font-semibold text-zinc-900">
           {value}{suffix}
         </span>
       </div>
@@ -157,20 +157,20 @@ export default async function DataPage({ params }: Props) {
         {/* 1. Hero                                                       */}
         {/* ============================================================= */}
         <header className="text-center">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-900 dark:text-white sm:text-5xl">
+          <h1 className="text-4xl font-bold tracking-tight text-zinc-900 sm:text-5xl">
             Search Fund Industry Data
           </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-lg text-zinc-600 dark:text-zinc-400">
+          <p className="mx-auto mt-4 max-w-2xl text-lg text-zinc-600">
             Verified statistics on returns, deal flow, and market growth.
             All figures sourced from peer-reviewed academic studies.
           </p>
-          <p className="mt-3 text-sm text-zinc-500 dark:text-zinc-500">
+          <p className="mt-3 text-sm text-zinc-500">
             Sources:{" "}
             {SOURCES.map((s, i) => (
               <span key={s.id}>
                 <a
                   href={`#sources`}
-                  className="underline decoration-zinc-300 underline-offset-2 hover:decoration-zinc-500 dark:decoration-zinc-600 dark:hover:decoration-zinc-400"
+                  className="underline decoration-zinc-400 underline-offset-2 hover:decoration-zinc-600"
                 >
                   {s.name} ({s.year})
                 </a>
@@ -184,7 +184,7 @@ export default async function DataPage({ params }: Props) {
         {/* 2. Headline Stats                                             */}
         {/* ============================================================= */}
         <section className="mt-16">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Key figures
           </h2>
           <div className="mt-6 grid grid-cols-2 gap-4 lg:grid-cols-4">
@@ -198,10 +198,10 @@ export default async function DataPage({ params }: Props) {
         {/* 3. Return Distribution                                        */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Return distribution
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Gross returns to investors across all completed US search fund
             acquisitions.{" "}
             <SourceBadge sourceId="stanford" />
@@ -221,24 +221,24 @@ export default async function DataPage({ params }: Props) {
 
           {/* Asset comparison table */}
           <div className="mt-10">
-            <h3 className="text-base font-semibold text-zinc-900 dark:text-white">
+            <h3 className="text-base font-semibold text-zinc-900">
               How search funds compare
             </h3>
-            <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+            <p className="mt-1 text-xs text-zinc-600">
               Gross IRR and MOIC across asset classes. Search fund returns
               are pre-fee (Stanford); net MOIC is 2.0-3.0x per Yale SOM.
             </p>
             <div className="mt-4 overflow-x-auto">
               <table className="w-full text-left text-sm">
                 <thead>
-                  <tr className="border-b border-zinc-200 dark:border-zinc-700">
-                    <th className="pb-2 pr-4 font-semibold text-zinc-700 dark:text-zinc-300">
+                  <tr className="border-b border-zinc-200">
+                    <th className="pb-2 pr-4 font-semibold text-zinc-700">
                       Asset class
                     </th>
-                    <th className="pb-2 pr-4 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                    <th className="pb-2 pr-4 text-right font-semibold text-zinc-700">
                       IRR
                     </th>
-                    <th className="pb-2 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                    <th className="pb-2 text-right font-semibold text-zinc-700">
                       MOIC
                     </th>
                   </tr>
@@ -247,19 +247,19 @@ export default async function DataPage({ params }: Props) {
                   {ASSET_COMPARISON.map((row) => (
                     <tr
                       key={row.asset}
-                      className={`border-b border-zinc-100 dark:border-zinc-800 ${
+                      className={`border-b border-zinc-100 ${
                         row.highlight
-                          ? "bg-green-50 font-semibold dark:bg-green-950/30"
+                          ? "bg-green-50 font-semibold"
                           : ""
                       }`}
                     >
-                      <td className="py-2 pr-4 text-zinc-900 dark:text-zinc-100">
+                      <td className="py-2 pr-4 text-zinc-900">
                         {row.asset}
                       </td>
-                      <td className="py-2 pr-4 text-right text-zinc-700 dark:text-zinc-300">
+                      <td className="py-2 pr-4 text-right text-zinc-700">
                         {row.irr}
                       </td>
-                      <td className="py-2 text-right text-zinc-700 dark:text-zinc-300">
+                      <td className="py-2 text-right text-zinc-700">
                         {row.moic}
                       </td>
                     </tr>
@@ -274,10 +274,10 @@ export default async function DataPage({ params }: Props) {
         {/* 4. Deal Metrics                                               */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Deal metrics
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Median acquisition characteristics for completed US search fund
             deals.{" "}
             <SourceBadge sourceId="stanford" />
@@ -286,15 +286,15 @@ export default async function DataPage({ params }: Props) {
             {DEAL_METRICS.map((m) => (
               <div
                 key={m.label}
-                className="rounded-xl border border-zinc-200 bg-white p-4 dark:border-zinc-800 dark:bg-zinc-900"
+                className="rounded-xl border border-zinc-200 bg-white p-4"
               >
-                <p className="text-2xl font-bold text-zinc-900 dark:text-white">
+                <p className="text-2xl font-bold text-zinc-900">
                   {m.value}
                 </p>
-                <p className="mt-1 text-sm font-medium text-zinc-700 dark:text-zinc-300">
+                <p className="mt-1 text-sm font-medium text-zinc-700">
                   {m.label}
                 </p>
-                <p className="text-xs text-zinc-500 dark:text-zinc-400">
+                <p className="text-xs text-zinc-500">
                   {m.detail}
                 </p>
               </div>
@@ -306,10 +306,10 @@ export default async function DataPage({ params }: Props) {
         {/* 4b. US vs International Comparison                            */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             US vs International
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Side-by-side comparison of deal characteristics. International
             funds are younger (62% of acquisitions since 2020), which partly
             explains the return gap.{" "}
@@ -319,14 +319,14 @@ export default async function DataPage({ params }: Props) {
           <div className="mt-6 overflow-x-auto">
             <table className="w-full text-left text-sm">
               <thead>
-                <tr className="border-b border-zinc-200 dark:border-zinc-700">
-                  <th className="pb-2 pr-4 font-semibold text-zinc-700 dark:text-zinc-300">
+                <tr className="border-b border-zinc-200">
+                  <th className="pb-2 pr-4 font-semibold text-zinc-700">
                     Metric
                   </th>
-                  <th className="pb-2 pr-4 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                  <th className="pb-2 pr-4 text-right font-semibold text-zinc-700">
                     US / Canada
                   </th>
-                  <th className="pb-2 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                  <th className="pb-2 text-right font-semibold text-zinc-700">
                     International
                   </th>
                 </tr>
@@ -335,15 +335,15 @@ export default async function DataPage({ params }: Props) {
                 {DEAL_COMPARISON.map((row) => (
                   <tr
                     key={row.metric}
-                    className="border-b border-zinc-100 dark:border-zinc-800"
+                    className="border-b border-zinc-100"
                   >
-                    <td className="py-2 pr-4 text-zinc-900 dark:text-zinc-100">
+                    <td className="py-2 pr-4 text-zinc-900">
                       {row.metric}
                     </td>
-                    <td className="py-2 pr-4 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 pr-4 text-right font-medium text-zinc-700">
                       {row.us}
                     </td>
-                    <td className="py-2 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 text-right font-medium text-zinc-700">
                       {row.intl}
                     </td>
                   </tr>
@@ -351,7 +351,7 @@ export default async function DataPage({ params }: Props) {
               </tbody>
             </table>
           </div>
-          <p className="mt-4 text-xs text-zinc-500 dark:text-zinc-400">
+          <p className="mt-4 text-xs text-zinc-500">
             US data covers 681 funds since 1984. International data covers
             320+ funds across 40 countries since 2011. The international
             ecosystem is significantly younger, with 62% of all acquisitions
@@ -363,16 +363,16 @@ export default async function DataPage({ params }: Props) {
         {/* 5. Growth & Geography                                         */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Growth & geography
           </h2>
           <div className="mt-6 grid gap-10 lg:grid-cols-2">
             {/* Yearly growth */}
             <div>
-              <h3 className="text-base font-semibold text-zinc-900 dark:text-white">
+              <h3 className="text-base font-semibold text-zinc-900">
                 New funds per year
               </h3>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 US and international traditional search funds.{" "}
                 <SourceBadge sourceId="stanford" />{" "}
                 <SourceBadge sourceId="iese" />
@@ -380,10 +380,10 @@ export default async function DataPage({ params }: Props) {
               <div className="mt-4 space-y-2">
                 {GROWTH_TREND.map((g) => (
                   <div key={g.year} className="flex items-center gap-3">
-                    <span className="w-10 shrink-0 text-right text-sm font-medium text-zinc-600 dark:text-zinc-400">
+                    <span className="w-10 shrink-0 text-right text-sm font-medium text-zinc-700">
                       {g.year}
                     </span>
-                    <div className="relative h-7 flex-1 overflow-hidden rounded-md bg-zinc-100 dark:bg-zinc-800">
+                    <div className="relative h-7 flex-1 overflow-hidden rounded-md bg-zinc-100">
                       {/* US portion */}
                       <div
                         className="absolute inset-y-0 left-0 rounded-l-md bg-blue-500"
@@ -399,14 +399,14 @@ export default async function DataPage({ params }: Props) {
                           width: `${Math.round((g.intl / maxGrowth) * 100)}%`,
                         }}
                       />
-                      <span className="relative z-10 flex h-full items-center px-2 text-xs font-semibold text-zinc-800 dark:text-zinc-200">
+                      <span className="relative z-10 flex h-full items-center px-2 text-xs font-semibold text-zinc-900">
                         {g.us + g.intl}
                       </span>
                     </div>
                   </div>
                 ))}
               </div>
-              <div className="mt-3 flex gap-4 text-xs text-zinc-500 dark:text-zinc-400">
+              <div className="mt-3 flex gap-4 text-xs text-zinc-600">
                 <span className="flex items-center gap-1.5">
                   <span className="inline-block h-2.5 w-2.5 rounded-sm bg-blue-500" />
                   US
@@ -420,10 +420,10 @@ export default async function DataPage({ params }: Props) {
 
             {/* Top international markets */}
             <div>
-              <h3 className="text-base font-semibold text-zinc-900 dark:text-white">
+              <h3 className="text-base font-semibold text-zinc-900">
                 Top international markets
               </h3>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 Cumulative search funds raised by country.{" "}
                 <SourceBadge sourceId="iese" />
               </p>
@@ -447,20 +447,20 @@ export default async function DataPage({ params }: Props) {
         {/* 6. Industry & Profiles                                        */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Industries & searcher profiles
           </h2>
 
           {/* US sectors + backgrounds */}
-          <h3 className="mt-8 text-base font-semibold text-zinc-900 dark:text-white">
+          <h3 className="mt-8 text-base font-semibold text-zinc-900">
             US / Canada
           </h3>
           <div className="mt-4 grid gap-10 lg:grid-cols-2">
             <div>
-              <h4 className="text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+              <h4 className="text-sm font-semibold text-zinc-700">
                 Sectors acquired
               </h4>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 Share of completed acquisitions by industry.{" "}
                 <SourceBadge sourceId="stanford" />
               </p>
@@ -477,10 +477,10 @@ export default async function DataPage({ params }: Props) {
               </div>
             </div>
             <div>
-              <h4 className="text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+              <h4 className="text-sm font-semibold text-zinc-700">
                 Searcher backgrounds
               </h4>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 Professional background before launching a search fund.{" "}
                 <SourceBadge sourceId="stanford" />
               </p>
@@ -499,15 +499,15 @@ export default async function DataPage({ params }: Props) {
           </div>
 
           {/* International sectors + backgrounds */}
-          <h3 className="mt-12 text-base font-semibold text-zinc-900 dark:text-white">
+          <h3 className="mt-12 text-base font-semibold text-zinc-900">
             International
           </h3>
           <div className="mt-4 grid gap-10 lg:grid-cols-2">
             <div>
-              <h4 className="text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+              <h4 className="text-sm font-semibold text-zinc-700">
                 Sectors acquired
               </h4>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 Share of international acquisitions by industry.{" "}
                 <SourceBadge sourceId="iese" />
               </p>
@@ -524,10 +524,10 @@ export default async function DataPage({ params }: Props) {
               </div>
             </div>
             <div>
-              <h4 className="text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+              <h4 className="text-sm font-semibold text-zinc-700">
                 Searcher backgrounds
               </h4>
-              <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+              <p className="mt-1 text-xs text-zinc-600">
                 Professional background (2022-2023 cohort).{" "}
                 <SourceBadge sourceId="iese" />
               </p>
@@ -550,10 +550,10 @@ export default async function DataPage({ params }: Props) {
         {/* 7. Solo vs Partner & Fund Structure                           */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Solo vs partner searches
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Partnered searches have historically outperformed on IRR, but solo
             searchers are closing the gap with five of six recent 10x+ returns
             coming from solo funds.{" "}
@@ -563,15 +563,15 @@ export default async function DataPage({ params }: Props) {
             {SEARCH_STRUCTURE.map((s) => (
               <div
                 key={s.type}
-                className="rounded-xl border border-zinc-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-900"
+                className="rounded-xl border border-zinc-200 bg-white p-5"
               >
-                <p className="text-3xl font-bold tracking-tight text-zinc-900 dark:text-white">
+                <p className="text-3xl font-bold tracking-tight text-zinc-900">
                   {s.irr}
                 </p>
-                <p className="mt-1 text-sm font-semibold text-zinc-700 dark:text-zinc-300">
+                <p className="mt-1 text-sm font-semibold text-zinc-700">
                   {s.type}
                 </p>
-                <p className="mt-0.5 text-xs text-zinc-500 dark:text-zinc-400">
+                <p className="mt-0.5 text-xs text-zinc-500">
                   {s.detail}
                 </p>
               </div>
@@ -580,48 +580,48 @@ export default async function DataPage({ params }: Props) {
 
           {/* Fund structure comparison */}
           <div className="mt-8">
-            <h3 className="text-base font-semibold text-zinc-900 dark:text-white">
+            <h3 className="text-base font-semibold text-zinc-900">
               Partnership rates: US vs International
             </h3>
-            <p className="mt-1 text-xs text-zinc-500 dark:text-zinc-400">
+            <p className="mt-1 text-xs text-zinc-600">
               International searchers are twice as likely to search in pairs.{" "}
               <SourceBadge sourceId="iese" />
             </p>
             <div className="mt-4 overflow-x-auto">
               <table className="w-full text-left text-sm">
                 <thead>
-                  <tr className="border-b border-zinc-200 dark:border-zinc-700">
-                    <th className="pb-2 pr-4 font-semibold text-zinc-700 dark:text-zinc-300">
+                  <tr className="border-b border-zinc-200">
+                    <th className="pb-2 pr-4 font-semibold text-zinc-700">
                       Structure
                     </th>
-                    <th className="pb-2 pr-4 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                    <th className="pb-2 pr-4 text-right font-semibold text-zinc-700">
                       US / Canada
                     </th>
-                    <th className="pb-2 text-right font-semibold text-zinc-700 dark:text-zinc-300">
+                    <th className="pb-2 text-right font-semibold text-zinc-700">
                       International
                     </th>
                   </tr>
                 </thead>
                 <tbody>
-                  <tr className="border-b border-zinc-100 dark:border-zinc-800">
-                    <td className="py-2 pr-4 text-zinc-900 dark:text-zinc-100">
+                  <tr className="border-b border-zinc-100">
+                    <td className="py-2 pr-4 text-zinc-900">
                       Partnership (2 co-searchers)
                     </td>
-                    <td className="py-2 pr-4 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 pr-4 text-right font-medium text-zinc-700">
                       19%
                     </td>
-                    <td className="py-2 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 text-right font-medium text-zinc-700">
                       40%
                     </td>
                   </tr>
-                  <tr className="border-b border-zinc-100 dark:border-zinc-800">
-                    <td className="py-2 pr-4 text-zinc-900 dark:text-zinc-100">
+                  <tr className="border-b border-zinc-100">
+                    <td className="py-2 pr-4 text-zinc-900">
                       Solo searcher
                     </td>
-                    <td className="py-2 pr-4 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 pr-4 text-right font-medium text-zinc-700">
                       81%
                     </td>
-                    <td className="py-2 text-right font-medium text-zinc-700 dark:text-zinc-300">
+                    <td className="py-2 text-right font-medium text-zinc-700">
                       60%
                     </td>
                   </tr>
@@ -635,10 +635,10 @@ export default async function DataPage({ params }: Props) {
         {/* 8. Searcher Demographics & Compensation                       */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Searcher demographics & compensation
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Who launches search funds and what they earn.{" "}
             <SourceBadge sourceId="stanford" />{" "}
             <SourceBadge sourceId="iese" />
@@ -647,15 +647,15 @@ export default async function DataPage({ params }: Props) {
             {SEARCHER_DEMOGRAPHICS.map((d) => (
               <div
                 key={d.label}
-                className="rounded-xl border border-zinc-200 bg-white p-4 dark:border-zinc-800 dark:bg-zinc-900"
+                className="rounded-xl border border-zinc-200 bg-white p-4"
               >
-                <p className="text-2xl font-bold text-zinc-900 dark:text-white">
+                <p className="text-2xl font-bold text-zinc-900">
                   {d.value}
                 </p>
-                <p className="mt-1 text-sm font-medium text-zinc-700 dark:text-zinc-300">
+                <p className="mt-1 text-sm font-medium text-zinc-700">
                   {d.label}
                 </p>
-                <p className="text-xs text-zinc-500 dark:text-zinc-400">
+                <p className="text-xs text-zinc-500">
                   {d.detail}
                 </p>
                 <div className="mt-2">
@@ -670,10 +670,10 @@ export default async function DataPage({ params }: Props) {
         {/* 9. Exit Performance & CEO Equity                              */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Exit performance & CEO equity
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Returns for completed exits and wealth creation for search fund
             CEOs.{" "}
             <SourceBadge sourceId="stanford" />{" "}
@@ -683,15 +683,15 @@ export default async function DataPage({ params }: Props) {
             {EXIT_PERFORMANCE.map((e) => (
               <div
                 key={e.label}
-                className="rounded-xl border border-zinc-200 bg-white p-4 dark:border-zinc-800 dark:bg-zinc-900"
+                className="rounded-xl border border-zinc-200 bg-white p-4"
               >
-                <p className="text-2xl font-bold text-zinc-900 dark:text-white">
+                <p className="text-2xl font-bold text-zinc-900">
                   {e.value}
                 </p>
-                <p className="mt-1 text-sm font-medium text-zinc-700 dark:text-zinc-300">
+                <p className="mt-1 text-sm font-medium text-zinc-700">
                   {e.label}
                 </p>
-                <p className="text-xs text-zinc-500 dark:text-zinc-400">
+                <p className="text-xs text-zinc-500">
                   {e.detail}
                 </p>
                 <div className="mt-2">
@@ -706,10 +706,10 @@ export default async function DataPage({ params }: Props) {
         {/* 10. Failure Analysis                                          */}
         {/* ============================================================= */}
         <section className="mt-20">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Why some deals fail
           </h2>
-          <p className="mt-2 text-sm text-zinc-500 dark:text-zinc-400">
+          <p className="mt-2 text-sm text-zinc-600">
             Top causes of partial or total loss for search fund acquisitions.{" "}
             <SourceBadge sourceId="stanford" />
           </p>
@@ -729,14 +729,14 @@ export default async function DataPage({ params }: Props) {
         {/* ============================================================= */}
         {/* 11. Sources                                                   */}
         {/* ============================================================= */}
-        <section id="sources" className="mt-20 border-t border-zinc-200 pt-10 dark:border-zinc-800">
-          <h2 className="text-xl font-semibold text-zinc-900 dark:text-white">
+        <section id="sources" className="mt-20 border-t border-zinc-200 pt-10">
+          <h2 className="text-xl font-semibold text-zinc-900">
             Sources
           </h2>
           <ul className="mt-4 space-y-3">
             {SOURCES.map((s) => (
-              <li key={s.id} className="text-sm text-zinc-600 dark:text-zinc-400">
-                <strong className="text-zinc-900 dark:text-zinc-200">
+              <li key={s.id} className="text-sm text-zinc-600">
+                <strong className="text-zinc-900">
                   {s.name}
                 </strong>{" "}
                 ({s.year}).{" "}
@@ -745,14 +745,14 @@ export default async function DataPage({ params }: Props) {
                   href={s.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-blue-600 underline underline-offset-2 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
+                  className="text-blue-600 underline underline-offset-2 hover:text-blue-800"
                 >
                   {s.url.replace("https://", "").split("/").slice(0, 2).join("/")}
                 </a>
               </li>
             ))}
           </ul>
-          <p className="mt-6 text-xs text-zinc-400 dark:text-zinc-500">
+          <p className="mt-6 text-xs text-zinc-500">
             All data reflects published findings as of each study&apos;s
             publication date. Search fund returns are inherently volatile
             and past performance does not guarantee future results.

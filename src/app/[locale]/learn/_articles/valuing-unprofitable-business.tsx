@@ -148,11 +148,11 @@ export default function ValuingUnprofitableBusinessArticle() {
         Start with the balance sheet. Calculate net asset value as:
       </p>
 
-      <div className="my-8 rounded-lg bg-gray-50 p-6 font-mono text-sm dark:bg-gray-800">
+      <div className="my-8 rounded-lg bg-gray-50 p-6 font-mono text-sm">
         <p className="mb-2">
           <strong>Net Asset Value = Total Assets - Total Liabilities</strong>
         </p>
-        <p className="mt-4 font-sans text-gray-700 dark:text-gray-300">
+        <p className="mt-4 font-sans text-gray-700">
           Example: A manufacturing business has $800K in assets (equipment,
           inventory, receivables) and $300K in liabilities (payables, loans).
           Net asset value = $500K.
@@ -206,13 +206,13 @@ export default function ValuingUnprofitableBusinessArticle() {
         </li>
       </ul>
 
-      <div className="my-8 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
-        <h4 className="mb-3 font-semibold text-gray-900 dark:text-gray-100">
+      <div className="my-8 rounded-lg bg-gray-50 p-6">
+        <h4 className="mb-3 font-semibold text-gray-900">
           Example: Adjusted Book Value Calculation
         </h4>
         <table className="w-full text-sm">
           <thead>
-            <tr className="border-b border-gray-300 dark:border-gray-600">
+            <tr className="border-b border-gray-300">
               <th className="pb-2 text-left">Asset/Liability</th>
               <th className="pb-2 text-right">Book Value</th>
               <th className="pb-2 text-right">Adjusted Value</th>
@@ -244,24 +244,24 @@ export default function ValuingUnprofitableBusinessArticle() {
               <td className="text-right">$350,000</td>
               <td className="text-right">$425,000</td>
             </tr>
-            <tr className="border-t border-gray-300 font-semibold dark:border-gray-600">
+            <tr className="border-t border-gray-300 font-semibold">
               <td className="pt-2">Total Assets</td>
               <td className="pt-2 text-right">$900,000</td>
               <td className="pt-2 text-right">$820,000</td>
             </tr>
-            <tr className="border-t border-gray-300 dark:border-gray-600">
+            <tr className="border-t border-gray-300">
               <td className="pt-2">Liabilities</td>
               <td className="text-right">($320,000)</td>
               <td className="text-right">($340,000)</td>
             </tr>
-            <tr className="border-t-2 border-gray-400 font-bold dark:border-gray-500">
+            <tr className="border-t-2 border-gray-400 font-bold">
               <td className="pt-2">Net Asset Value</td>
               <td className="pt-2 text-right">$580,000</td>
               <td className="pt-2 text-right">$480,000</td>
             </tr>
           </tbody>
         </table>
-        <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
+        <p className="mt-4 text-sm text-gray-700">
           The adjusted book value of $480K represents a floor valuation - what
           you'd recover in orderly liquidation. Purchase price would typically
           be higher if you believe the business can be turned around.
@@ -352,8 +352,8 @@ export default function ValuingUnprofitableBusinessArticle() {
         </li>
       </ul>
 
-      <div className="my-8 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
-        <h4 className="mb-3 font-semibold text-gray-900 dark:text-gray-100">
+      <div className="my-8 rounded-lg bg-gray-50 p-6">
+        <h4 className="mb-3 font-semibold text-gray-900">
           Example: Revenue Multiple Valuation
         </h4>
         <p className={bodyClass}>
@@ -361,7 +361,7 @@ export default function ValuingUnprofitableBusinessArticle() {
           loses $150K annually due to high sales/marketing costs and
           owner-operator inefficiency. Analysis reveals:
         </p>
-        <ul className="my-4 ml-6 list-disc space-y-2 text-sm text-gray-700 dark:text-gray-300">
+        <ul className="my-4 ml-6 list-disc space-y-2 text-sm text-gray-700">
           <li>60% of revenue is recurring (annual contracts)</li>
           <li>Revenue growing 25% year-over-year</li>
           <li>Gross margin of 65%</li>
@@ -376,7 +376,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         <p className="mt-4 font-mono text-sm">
           Valuation = $1.2M × 0.75 = <strong>$900,000</strong>
         </p>
-        <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
+        <p className="mt-4 text-sm text-gray-700">
           This suggests a purchase price around $900K, assuming you have a clear
           plan to cut costs and reach profitability within 12-18 months.
         </p>
@@ -438,8 +438,8 @@ export default function ValuingUnprofitableBusinessArticle() {
         want to replicate its problems.
       </p>
 
-      <div className="my-8 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
-        <h4 className="mb-3 font-semibold text-gray-900 dark:text-gray-100">
+      <div className="my-8 rounded-lg bg-gray-50 p-6">
+        <h4 className="mb-3 font-semibold text-gray-900">
           Example: Replacement Cost Analysis
         </h4>
         <p className={bodyClass}>
@@ -459,7 +459,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         <p className="mt-4 font-mono text-sm">
           Total replacement cost: <strong>$740,000</strong>
         </p>
-        <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
+        <p className="mt-4 text-sm text-gray-700">
           This sets a ceiling. The business might be valued at 60-80% of
           replacement cost ($444K-$592K) due to current losses, providing both a
           discount for risk and savings vs. starting from scratch.
@@ -968,8 +968,8 @@ export default function ValuingUnprofitableBusinessArticle() {
         Use triangulation - apply multiple methods and look for convergence:
       </p>
 
-      <div className="my-8 rounded-lg bg-gray-50 p-6 dark:bg-gray-800">
-        <h4 className="mb-3 font-semibold text-gray-900 dark:text-gray-100">
+      <div className="my-8 rounded-lg bg-gray-50 p-6">
+        <h4 className="mb-3 font-semibold text-gray-900">
           Example: Complete Valuation Analysis
         </h4>
         <p className={bodyClass}>
@@ -977,7 +977,7 @@ export default function ValuingUnprofitableBusinessArticle() {
         </p>
         <div className="my-4 space-y-3 text-sm">
           <div>
-            <strong className="text-gray-900 dark:text-gray-100">
+            <strong className="text-gray-900">
               Method 1 - Adjusted Book Value:
             </strong>
             <div className="ml-4 mt-1 font-mono text-xs">
@@ -989,7 +989,7 @@ export default function ValuingUnprofitableBusinessArticle() {
             </div>
           </div>
           <div>
-            <strong className="text-gray-900 dark:text-gray-100">
+            <strong className="text-gray-900">
               Method 2 - Revenue Multiple:
             </strong>
             <div className="ml-4 mt-1 font-mono text-xs">
@@ -998,7 +998,7 @@ export default function ValuingUnprofitableBusinessArticle() {
             </div>
           </div>
           <div>
-            <strong className="text-gray-900 dark:text-gray-100">
+            <strong className="text-gray-900">
               Method 3 - Liquidation Value (Floor):
             </strong>
             <div className="ml-4 mt-1 font-mono text-xs">
@@ -1006,7 +1006,7 @@ export default function ValuingUnprofitableBusinessArticle() {
             </div>
           </div>
           <div>
-            <strong className="text-gray-900 dark:text-gray-100">
+            <strong className="text-gray-900">
               Method 4 - Turnaround DCF (Ceiling):
             </strong>
             <div className="ml-4 mt-1 font-mono text-xs">
@@ -1016,16 +1016,16 @@ export default function ValuingUnprofitableBusinessArticle() {
             </div>
           </div>
         </div>
-        <p className="mt-6 text-sm font-semibold text-gray-900 dark:text-gray-100">
+        <p className="mt-6 text-sm font-semibold text-gray-900">
           Valuation Range Summary:
         </p>
-        <ul className="ml-6 mt-2 list-disc space-y-1 text-sm text-gray-700 dark:text-gray-300">
+        <ul className="ml-6 mt-2 list-disc space-y-1 text-sm text-gray-700">
           <li>Floor (liquidation): $215K</li>
           <li>Conservative (adjusted book value): $430K</li>
           <li>Mid-range (revenue multiple): $625K</li>
           <li>Optimistic (successful turnaround DCF): $780K</li>
         </ul>
-        <p className="mt-4 rounded bg-blue-50 p-3 text-sm text-gray-800 dark:bg-blue-900/30 dark:text-gray-200">
+        <p className="mt-4 rounded bg-blue-50 p-3 text-sm text-gray-800">
           <strong>Recommended offer strategy:</strong> Open at $400K (below book
           value, 2x liquidation value), walk away at $550K (midpoint of book
           value and revenue multiple). This provides adequate downside

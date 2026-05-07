@@ -8,12 +8,12 @@ export default function SearchFundCommunitiesArticle() {
         <h1 className={h1Class}>
           Search Fund Communities & Networks: Where to Connect
         </h1>
-        <p className="text-gray-600 dark:text-gray-400 mt-4">
+        <p className="text-gray-600 mt-4">
           8 min read
         </p>
       </header>
 
-      <div className="prose prose-lg dark:prose-invert max-w-none">
+      <div className="prose prose-lg max-w-none">
         <p className={bodyClass}>
           The search fund and entrepreneurship through acquisition (ETA) journey can be isolating. You&apos;re analyzing businesses in niche industries, negotiating complex deals, and making career-defining decisions  - often without the built-in peer network that traditional corporate roles or venture-backed startups provide. The 2024 Stanford Search Fund Study documented over 600 search funds launched in the United States alone, creating a growing cohort of searchers who share similar challenges and can benefit enormously from peer connection. This is precisely why the ETA community has become such a vital resource for searchers worldwide.
         </p>
@@ -294,7 +294,7 @@ export default function SearchFundCommunitiesArticle() {
           Yes, vibrant communities have emerged across Europe, Latin America, and Asia-Pacific. ETA Europe serves as the pan-European hub with chapters in the UK, Germany, France, Spain, Italy, Benelux, Nordics, and Switzerland, hosting an annual conference with 200+ participants. According to the IESE International Search Fund Study, European search fund activity has grown at a 25% compound annual rate since 2015. In Latin America, ETA Latin America coordinates annual conferences and country-specific communities exist in Mexico (80+ searcher WhatsApp group), Colombia, Brazil, and Chile. Asia-Pacific communities are emerging in Japan, India, Singapore, and Australia, though they remain earlier-stage than their Western counterparts.
         </p>
 
-        <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
+        <div className="mt-12 pt-8 border-t border-gray-200">
           <h2 className="text-xl font-semibold mb-4">Sources</h2>
           <ul className="space-y-2">
             <li>

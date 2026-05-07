@@ -8,11 +8,11 @@ export default function SearchFundConferencesArticle() {
         Search Fund Conferences & Events: The Complete Calendar
       </h1>
 
-      <p className="text-xl text-gray-600 dark:text-gray-300 mb-8">
+      <p className="text-xl text-gray-600 mb-8">
         A thorough guide to the most valuable conferences, events, and networking opportunities in the entrepreneurship through acquisition ecosystem.
       </p>
 
-      <div className="bg-blue-50 dark:bg-blue-900/20 border-l-4 border-blue-500 p-6 mb-8">
+      <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
         <p className={bodyClass}>
           <strong>Read time:</strong> 9 min read
         </p>
@@ -570,7 +570,7 @@ export default function SearchFundConferencesArticle() {
         </li>
       </ul>
 
-      <div className="mt-12 p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
+      <div className="mt-12 p-6 bg-gray-50 rounded-lg">
         <p className={bodyClass}>
           <strong>Related articles:</strong>
         </p>

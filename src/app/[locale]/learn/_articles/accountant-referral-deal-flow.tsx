@@ -8,7 +8,7 @@ export default function AccountantReferralDealFlowArticle() {
         <h1 className={h1Class}>
           Building Relationships with Accountants & Lawyers for Deal Flow
         </h1>
-        <p className="text-gray-600 dark:text-gray-400 mt-4">
+        <p className="text-gray-600 mt-4">
           10 min read
         </p>
       </div>
@@ -271,7 +271,7 @@ export default function AccountantReferralDealFlowArticle() {
         Here's a complete template for an initial email outreach:
       </p>
 
-      <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg my-6 border-l-4 border-apple-accent">
+      <div className="bg-gray-50 p-6 rounded-lg my-6 border-l-4 border-apple-accent">
         <p className="font-mono text-sm mb-4">
           <strong>Subject:</strong> Acquisition search in [Industry] - looking for intros to succession-minded owners
         </p>
@@ -698,11 +698,11 @@ export default function AccountantReferralDealFlowArticle() {
         One-sided relationships don't last. If you only ask for referrals without providing value in return, professionals will disengage. Look actively for ways to help them, refer business to them, and strengthen the reciprocal nature of the relationship.
       </p>
 
-      <div className="bg-gradient-to-r from-gray-50 to-gray-100 dark:from-gray-800 dark:to-gray-900 p-8 rounded-lg my-12 border border-gray-200 dark:border-gray-700">
-        <h3 className="text-xl font-semibold mb-4 text-gray-900 dark:text-white">
+      <div className="bg-gradient-to-r from-gray-50 to-gray-100 p-8 rounded-lg my-12 border border-gray-200">
+        <h3 className="text-xl font-semibold mb-4 text-gray-900">
           Key Takeaways
         </h3>
-        <ul className="space-y-3 text-gray-700 dark:text-gray-300">
+        <ul className="space-y-3 text-gray-700">
           <li className="flex items-start">
             <span className="text-apple-accent mr-2">→</span>
             <span>Professional advisors provide the highest quality, most proprietary deal flow for searchers willing to invest in relationships</span>

@@ -8,16 +8,16 @@ export default function ETAWithoutMBAArticle() {
         <h1 className={h1Class}>
           ETA Without an MBA: Alternative Paths into Search Funds
         </h1>
-        <p className="mt-4 text-sm text-zinc-600 dark:text-zinc-400">
+        <p className="mt-4 text-sm text-zinc-600">
           10 min read
         </p>
       </header>
 
       {/* Cross-link to comprehensive pillar article */}
-      <div className="mb-8 rounded-lg border border-green-200 bg-green-50 p-4 dark:border-green-800 dark:bg-green-950">
-        <p className="text-sm font-medium text-green-900 dark:text-green-100">
+      <div className="mb-8 rounded-lg border border-green-200 bg-green-50 p-4">
+        <p className="text-sm font-medium text-green-900">
           For a deeper data analysis of non-MBA paths, see our comprehensive guide:{" "}
-          <Link href="/learn/search-fund-without-mba" className="underline hover:text-green-700 dark:hover:text-green-300">
+          <Link href="/learn/search-fund-without-mba" className="underline hover:text-green-700">
             Search Funds Without an MBA: Data, Paths &amp; Strategies
           </Link>
         </p>
@@ -507,9 +507,9 @@ export default function ETAWithoutMBAArticle() {
         </div>
       </section>
 
-      <footer className="mt-12 border-t border-zinc-200 pt-8 dark:border-zinc-800">
+      <footer className="mt-12 border-t border-zinc-200 pt-8">
         <div className={bodyClass}>
-          <p className="text-sm text-zinc-600 dark:text-zinc-400">
+          <p className="text-sm text-zinc-600">
             Related articles:{" "}
             <Link href="/learn/getting-started" className="text-apple-accent hover:underline">
               Getting Started in ETA

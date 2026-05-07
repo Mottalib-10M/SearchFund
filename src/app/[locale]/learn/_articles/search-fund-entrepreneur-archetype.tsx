@@ -6,7 +6,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
     <article className="prose prose-lg max-w-none">
       <h1 className={h1Class}>The Search Fund Entrepreneur Archetype: Who Succeeds?</h1>
 
-      <p className="text-gray-600 dark:text-gray-400 text-sm mb-8">10 min read</p>
+      <p className="text-gray-600 text-sm mb-8">10 min read</p>
 
       <p className={bodyClass}>
         Not everyone is cut out to be a search fund entrepreneur. The path demands a unique combination of skills,
@@ -698,7 +698,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
         Yes, though it is more challenging for traditional funded searches. Approximately 95% of traditional search fund entrepreneurs hold MBAs from top programs because these programs provide access to investor networks. However, the self-funded search model has opened pathways for individuals without MBAs who bring deep industry experience and operational capabilities. If you have a strong track record and relevant networks, you can succeed without an MBA, particularly through self-funded or independent sponsor models.
       </p>
 
-      <div className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-800">
+      <div className="mt-12 pt-8 border-t border-gray-200">
         <h2 className="text-xl font-semibold mb-4">Sources</h2>
         <ul className="space-y-2">
           <li>
@@ -754,7 +754,7 @@ export default function SearchFundEntrepreneurArchetypeArticle() {
         </ul>
       </div>
 
-      <div className="mt-8 p-6 bg-gray-50 dark:bg-gray-900 rounded-lg">
+      <div className="mt-8 p-6 bg-gray-50 rounded-lg">
         <p className={bodyClass}>
           <strong>Related articles:</strong>{" "}
           <Link href="/learn/getting-started" className="text-apple-accent hover:underline">

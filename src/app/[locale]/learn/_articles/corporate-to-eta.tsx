@@ -6,7 +6,7 @@ export default function CorporateToETAArticle() {
     <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
       <h1 className={h1Class}>From Corporate Job to ETA: When to Make the Leap</h1>
 
-      <p className="text-gray-500 dark:text-gray-400 text-sm mb-8">10 min read</p>
+      <p className="text-gray-500 text-sm mb-8">10 min read</p>
 
       <p className={bodyClass}>
         The transition from corporate employment to entrepreneurship through acquisition (ETA) represents one of the most significant career pivots you can make. Unlike starting a company from scratch, ETA offers a structured path to business ownership that leverages your corporate experience while providing the autonomy and upside many professionals crave. However, the leap from the security of a corporate paycheck to the uncertainty of a search fund requires careful planning, honest self-assessment, and strategic timing.

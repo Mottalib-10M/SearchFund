@@ -43,7 +43,7 @@ export default function ManagementBuyoutArticle() {
       <h1 className={h1Class}>{managementBuyoutMeta.title}</h1>
 
       <div className={bodyClass}>
-        <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-8">
+        <p className="text-lg text-gray-700 leading-relaxed mb-8">
           A management buyout (MBO) occurs when a company's existing management team purchases the business they currently operate, transforming from employees into owners. This transition represents one of the most compelling paths to business ownership, combining operational knowledge with entrepreneurial ambition. For experienced managers who've helped build a company's value, an MBO offers the opportunity to capture that value directly while providing business owners with a succession solution they can trust.
         </p>
       </div>
@@ -453,49 +453,49 @@ export default function ManagementBuyoutArticle() {
         <div className={bodyClass}>
           <table className="w-full border-collapse mb-6">
             <thead>
-              <tr className="border-b-2 border-gray-300 dark:border-gray-600">
+              <tr className="border-b-2 border-gray-300">
                 <th className="text-left py-3 px-4 font-semibold">Dimension</th>
                 <th className="text-left py-3 px-4 font-semibold">Management Buyout</th>
                 <th className="text-left py-3 px-4 font-semibold">Search Fund</th>
               </tr>
             </thead>
             <tbody>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Buyer Profile</td>
                 <td className="py-3 px-4">Existing managers of the business</td>
                 <td className="py-3 px-4">External entrepreneur searching for opportunities</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Business Knowledge</td>
                 <td className="py-3 px-4">Deep insider knowledge</td>
                 <td className="py-3 px-4">Limited to due diligence</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Risk Profile</td>
                 <td className="py-3 px-4">Lower information risk, higher execution risk</td>
                 <td className="py-3 px-4">Higher information risk, proven search process</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Timeline</td>
                 <td className="py-3 px-4">Opportunistic, based on owner timeline</td>
                 <td className="py-3 px-4">Structured 2-3 year search process</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Capital Requirements</td>
                 <td className="py-3 px-4">Significant personal investment required</td>
                 <td className="py-3 px-4">Investor-backed with smaller searcher investment</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Equity Ownership</td>
                 <td className="py-3 px-4">Varies widely (20-80%)</td>
                 <td className="py-3 px-4">Typically 25-35% for searcher</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Operational Continuity</td>
                 <td className="py-3 px-4">Seamless transition</td>
                 <td className="py-3 px-4">New leadership learning curve</td>
               </tr>
-              <tr className="border-b border-gray-200 dark:border-gray-700">
+              <tr className="border-b border-gray-200">
                 <td className="py-3 px-4 font-medium">Strategic Freedom</td>
                 <td className="py-3 px-4">Constrained by historical approaches</td>
                 <td className="py-3 px-4">Fresh perspective enables change</td>

@@ -162,7 +162,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Free Cash Flow (FCF) is the cash available to all investors (debt and equity holders) after funding operations and necessary investments. The formula:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           <strong>Free Cash Flow = EBIT × (1 - Tax Rate)</strong><br />
           &nbsp;&nbsp;+ Depreciation & Amortization<br />
@@ -186,7 +186,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Example: A distribution company projects $1.2M EBIT, has $80K D&A, requires $100K maintenance CapEx, and needs $50K additional working capital to fund growth:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           EBIT: $1,200,000<br />
           Less: Taxes @ 28%: ($336,000)<br />
@@ -210,11 +210,11 @@ export default function DCFValuationSmallBusinessArticle() {
 
       <h3 className={h3Class}>The WACC Formula</h3>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           <strong>WACC = (E/V × Cost of Equity) + (D/V × Cost of Debt × (1 - Tax Rate))</strong>
         </p>
-        <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
+        <p className="mt-4 text-sm text-gray-700">
           Where:<br />
           E = Market value of equity<br />
           D = Market value of debt<br />
@@ -229,7 +229,7 @@ export default function DCFValuationSmallBusinessArticle() {
         The cost of equity represents the return equity investors require. For publicly traded companies, this is typically calculated using the Capital Asset Pricing Model (CAPM):
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           <strong>Cost of Equity = Risk-Free Rate + Beta × Equity Risk Premium</strong>
         </p>
@@ -251,7 +251,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Example calculation for a regional IT services company:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           Risk-free rate: 4.5%<br />
           Plus: Beta (1.1) × ERP (5.5%): 6.1%<br />
@@ -277,7 +277,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Assume you're acquiring a business for $5M enterprise value with $3M equity and $2M debt at 10% interest, 28% tax rate, and 16.6% cost of equity:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           Equity weight: $3M / $5M = 60%<br />
           Debt weight: $2M / $5M = 40%<br />
@@ -304,11 +304,11 @@ export default function DCFValuationSmallBusinessArticle() {
         The most common approach assumes the business grows at a constant rate forever:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           <strong>Terminal Value = Final Year FCF × (1 + g) / (WACC - g)</strong>
         </p>
-        <p className="mt-4 text-sm text-gray-700 dark:text-gray-300">
+        <p className="mt-4 text-sm text-gray-700">
           Where g = perpetual growth rate
         </p>
       </div>
@@ -321,7 +321,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Example: If year 5 FCF is $850K, WACC is 13%, and perpetual growth is 2.5%:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           Terminal Value = $850,000 × (1.025) / (0.13 - 0.025)<br />
           Terminal Value = $871,250 / 0.105<br />
@@ -335,7 +335,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Alternatively, estimate terminal value by applying an exit multiple to final year EBITDA or EBIT:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           <strong>Terminal Value = Final Year EBITDA × Exit Multiple</strong>
         </p>
@@ -355,7 +355,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Once calculated, discount terminal value back to present using WACC. If terminal value is $8.3M in year 5 and WACC is 13%:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           PV of Terminal Value = $8,297,619 / (1.13)^5<br />
           <strong>PV of Terminal Value = $4,500,874</strong>
@@ -385,113 +385,113 @@ export default function DCFValuationSmallBusinessArticle() {
       </ul>
 
       <div className="my-6 overflow-x-auto">
-        <table className="min-w-full border border-gray-300 dark:border-gray-600">
-          <thead className="bg-gray-100 dark:bg-gray-800">
+        <table className="min-w-full border border-gray-300">
+          <thead className="bg-gray-100">
             <tr>
-              <th className="border border-gray-300 px-4 py-2 text-left dark:border-gray-600">Year</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">1</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">2</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">3</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">4</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">5</th>
+              <th className="border border-gray-300 px-4 py-2 text-left">Year</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">1</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">2</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">3</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">4</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">5</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Revenue</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8,480K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8,989K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9,348K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9,722K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$10,111K</td>
+              <td className="border border-gray-300 px-4 py-2">Revenue</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8,480K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8,989K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9,348K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9,722K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$10,111K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">EBITDA @ 18%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,526K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,618K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,683K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,750K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,820K</td>
+              <td className="border border-gray-300 px-4 py-2">EBITDA @ 18%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,526K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,618K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,683K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,750K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,820K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Less: D&A</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($200K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($200K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($200K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($200K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($200K)</td>
+              <td className="border border-gray-300 px-4 py-2">Less: D&A</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($200K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($200K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($200K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($200K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($200K)</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">EBIT</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,326K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,418K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,483K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,550K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,620K</td>
+              <td className="border border-gray-300 px-4 py-2">EBIT</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,326K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,418K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,483K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,550K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,620K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Less: Tax @ 28%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($371K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($397K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($415K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($434K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($454K)</td>
+              <td className="border border-gray-300 px-4 py-2">Less: Tax @ 28%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($371K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($397K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($415K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($434K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($454K)</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">NOPAT</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$955K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,021K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,068K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,116K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,166K</td>
+              <td className="border border-gray-300 px-4 py-2">NOPAT</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$955K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,021K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,068K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,116K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,166K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Plus: D&A</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$200K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$200K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$200K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$200K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$200K</td>
+              <td className="border border-gray-300 px-4 py-2">Plus: D&A</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$200K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$200K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$200K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$200K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$200K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Less: CapEx</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($250K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($250K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($250K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($250K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($250K)</td>
+              <td className="border border-gray-300 px-4 py-2">Less: CapEx</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($250K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($250K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($250K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($250K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($250K)</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Less: Δ NWC</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($10K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($10K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($7K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($7K)</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">($8K)</td>
+              <td className="border border-gray-300 px-4 py-2">Less: Δ NWC</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($10K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($10K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($7K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($7K)</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">($8K)</td>
             </tr>
-            <tr className="bg-gray-50 font-semibold dark:bg-gray-900">
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Free Cash Flow</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$895K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$961K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,011K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,059K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$1,108K</td>
+            <tr className="bg-gray-50 font-semibold">
+              <td className="border border-gray-300 px-4 py-2">Free Cash Flow</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$895K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$961K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,011K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,059K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$1,108K</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Discount Factor @ 13.5%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">0.8811</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">0.7763</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">0.6839</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">0.6024</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">0.5308</td>
+              <td className="border border-gray-300 px-4 py-2">Discount Factor @ 13.5%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">0.8811</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">0.7763</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">0.6839</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">0.6024</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">0.5308</td>
             </tr>
-            <tr className="bg-gray-50 font-semibold dark:bg-gray-900">
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">Present Value</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$789K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$746K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$691K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$638K</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$588K</td>
+            <tr className="bg-gray-50 font-semibold">
+              <td className="border border-gray-300 px-4 py-2">Present Value</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$789K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$746K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$691K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$638K</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$588K</td>
             </tr>
           </tbody>
         </table>
@@ -505,7 +505,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Now calculate terminal value using the perpetuity growth method (2.5% growth):
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           Year 5 FCF: $1,108K<br />
           Terminal Value = $1,108K × (1.025) / (0.135 - 0.025)<br />
@@ -537,51 +537,51 @@ export default function DCFValuationSmallBusinessArticle() {
       </p>
 
       <div className="my-6 overflow-x-auto">
-        <table className="min-w-full border border-gray-300 dark:border-gray-600">
-          <thead className="bg-gray-100 dark:bg-gray-800">
+        <table className="min-w-full border border-gray-300">
+          <thead className="bg-gray-100">
             <tr>
-              <th className="border border-gray-300 px-4 py-2 dark:border-gray-600">Perpetual Growth →<br />WACC ↓</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">1.5%</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">2.0%</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">2.5%</th>
-              <th className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">3.0%</th>
+              <th className="border border-gray-300 px-4 py-2">Perpetual Growth →<br />WACC ↓</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">1.5%</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">2.0%</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">2.5%</th>
+              <th className="border border-gray-300 px-4 py-2 text-right">3.0%</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">12.0%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$10.2M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$10.8M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$11.5M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$12.5M</td>
+              <td className="border border-gray-300 px-4 py-2">12.0%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$10.2M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$10.8M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$11.5M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$12.5M</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">13.0%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.3M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.8M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$10.4M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$11.1M</td>
+              <td className="border border-gray-300 px-4 py-2">13.0%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.3M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.8M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$10.4M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$11.1M</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">13.5%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.8M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.3M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.9M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$10.4M</td>
+              <td className="border border-gray-300 px-4 py-2">13.5%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.8M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.3M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.9M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$10.4M</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">14.0%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.4M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.8M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.3M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.9M</td>
+              <td className="border border-gray-300 px-4 py-2">14.0%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.4M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.8M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.3M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.9M</td>
             </tr>
             <tr>
-              <td className="border border-gray-300 px-4 py-2 dark:border-gray-600">15.0%</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$7.7M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.1M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$8.5M</td>
-              <td className="border border-gray-300 px-4 py-2 text-right dark:border-gray-600">$9.0M</td>
+              <td className="border border-gray-300 px-4 py-2">15.0%</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$7.7M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.1M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$8.5M</td>
+              <td className="border border-gray-300 px-4 py-2 text-right">$9.0M</td>
             </tr>
           </tbody>
         </table>
@@ -678,7 +678,7 @@ export default function DCFValuationSmallBusinessArticle() {
         Example: DCF shows $8.9M enterprise value, the business has $500K net debt, you want 15% margin of safety, and expect to increase your offer 10% during negotiation:
       </p>
 
-      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6 dark:border-gray-700 dark:bg-gray-800">
+      <div className="my-6 rounded-lg border border-gray-200 bg-gray-50 p-6">
         <p className="font-mono text-sm">
           DCF Enterprise Value: $8,900K<br />
           Less: Net debt: ($500K)<br />
@@ -792,11 +792,11 @@ export default function DCFValuationSmallBusinessArticle() {
         Terminal value captures the present value of all cash flows beyond the explicit projection period, and since businesses theoretically operate in perpetuity, this component naturally dominates in a standard 5-year DCF model. McKinsey&rsquo;s valuation methodology warns that when terminal value exceeds 80% of enterprise value, the projection period is likely too short or near-term cash flows are understated. Damodaran&rsquo;s framework recommends extending projections to 7-10 years for high-growth businesses to shift more value into the explicit forecast period where assumptions are more transparent. To sanity-check terminal value, always cross-reference the perpetuity growth method (which should use a growth rate no higher than GDP growth of 2-3%) against the exit multiple method using <Link href="/learn/comparable-transactions" className="text-apple-accent hover:underline">comparable transaction</Link> data, if the two methods produce materially different results, revisit your growth rate and multiple assumptions until they converge.
       </p>
 
-      <div className="mt-16 border-t border-gray-200 pt-8 dark:border-gray-700">
+      <div className="mt-16 border-t border-gray-200 pt-8">
         <h2 className={h2Class}>Sources</h2>
         <ul className="space-y-3">
           {metadata.sources?.map((source, index) => (
-            <li key={index} className="text-sm text-gray-700 dark:text-gray-300">
+            <li key={index} className="text-sm text-gray-700">
               {source.authors?.join(", ")} ({source.year}).{" "}
               <em>{source.title}</em>
               {source.publisher && `, ${source.publisher}`}
@@ -815,10 +815,10 @@ export default function DCFValuationSmallBusinessArticle() {
               )}
             </li>
           ))}
-          <li className="text-sm text-gray-700 dark:text-gray-300">
+          <li className="text-sm text-gray-700">
             Ibbotson SBBI Valuation Yearbook (Annual). Duff & Phelps / Kroll.
           </li>
-          <li className="text-sm text-gray-700 dark:text-gray-300">
+          <li className="text-sm text-gray-700">
             Stanford Graduate School of Business (2024). <em>2024 Search Fund Study</em>. Stanford, CA: Center for Entrepreneurial Studies.
           </li>
         </ul>

@@ -20,6 +20,10 @@
   --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', sans-serif;
 }
 
+html {
+  color-scheme: light only;
+}
+
 body {
   background: #FFFFFF;
   color: #6E6E73;

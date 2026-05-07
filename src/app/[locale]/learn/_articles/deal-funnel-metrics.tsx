@@ -8,10 +8,10 @@ export default function DealFunnelMetricsArticle() {
         <h1 className={h1Class}>
           How to Build a Deal Funnel: Metrics & Conversion Rates
         </h1>
-        <p className="text-gray-600 dark:text-gray-400 mt-4">10 min read</p>
+        <p className="text-gray-600 mt-4">10 min read</p>
       </header>
 
-      <div className="prose dark:prose-invert max-w-none">
+      <div className="prose max-w-none">
         <p className={bodyClass}>
           The search fund journey is fundamentally a numbers game. While every searcher dreams of finding the perfect acquisition on their first try, the reality is that closing a deal requires systematically evaluating hundreds of businesses, conducting dozens of conversations, and maintaining disciplined tracking throughout the process. Understanding your deal funnel - and the metrics that drive it - is critical to successfully acquiring a company within the typical 18-24 month search window.
         </p>

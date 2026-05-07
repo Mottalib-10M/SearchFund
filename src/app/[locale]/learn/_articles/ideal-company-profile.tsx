@@ -8,7 +8,7 @@ export default function IdealCompanyProfileArticle() {
         Creating Your Ideal Company Profile (ICP) for Acquisitions
       </h1>
 
-      <p className="text-xl text-gray-600 dark:text-gray-400 mb-8">
+      <p className="text-xl text-gray-600 mb-8">
         10 min read
       </p>
 
@@ -296,32 +296,32 @@ export default function IdealCompanyProfileArticle() {
         Here's a practical template you can adapt for your own search. Fill in each section with specific, actionable criteria:
       </p>
 
-      <div className="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg my-8">
+      <div className="bg-gray-50 p-6 rounded-lg my-8">
         <h3 className="text-xl font-bold mb-4">Acquisition ICP Template</h3>
 
         <p className="font-semibold mt-4 mb-2">Industries (Tier 1 - Proactive Sourcing):</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Example: Healthcare services (home health, urgent care), B2B distribution (HVAC, plumbing supplies), specialized manufacturing (custom metal fabrication, packaging)</p>
+        <p className="text-gray-600 mb-3">Example: Healthcare services (home health, urgent care), B2B distribution (HVAC, plumbing supplies), specialized manufacturing (custom metal fabrication, packaging)</p>
 
         <p className="font-semibold mt-4 mb-2">Industries (Tier 2 - Will Evaluate):</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Example: Professional services, education/training, field services</p>
+        <p className="text-gray-600 mb-3">Example: Professional services, education/training, field services</p>
 
         <p className="font-semibold mt-4 mb-2">Industries (Excluded):</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Example: Restaurants/food service, retail, construction, real estate-dependent businesses</p>
+        <p className="text-gray-600 mb-3">Example: Restaurants/food service, retail, construction, real estate-dependent businesses</p>
 
         <p className="font-semibold mt-4 mb-2">Geography:</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Example: Primary focus: Southeast US (NC, SC, GA, FL, TN). Will consider: Mid-Atlantic and Texas. Remote management possible for asset-light models.</p>
+        <p className="text-gray-600 mb-3">Example: Primary focus: Southeast US (NC, SC, GA, FL, TN). Will consider: Mid-Atlantic and Texas. Remote management possible for asset-light models.</p>
 
         <p className="font-semibold mt-4 mb-2">Financial Metrics:</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Revenue: $8M - $40M | EBITDA: $1.5M - $6M (minimum) | EBITDA Margin: 15%+ preferred | Growth: 5%+ (stable acceptable with clear expansion levers)</p>
+        <p className="text-gray-600 mb-3">Revenue: $8M - $40M | EBITDA: $1.5M - $6M (minimum) | EBITDA Margin: 15%+ preferred | Growth: 5%+ (stable acceptable with clear expansion levers)</p>
 
         <p className="font-semibold mt-4 mb-2">Operational Characteristics:</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Customer Concentration: No customer &gt;20% revenue, top 10 &lt;50% | Employees: 20-150 | Management: Existing GM or ops manager required | Owner Dependency: Seller transition 3-6 months acceptable</p>
+        <p className="text-gray-600 mb-3">Customer Concentration: No customer &gt;20% revenue, top 10 &lt;50% | Employees: 20-150 | Management: Existing GM or ops manager required | Owner Dependency: Seller transition 3-6 months acceptable</p>
 
         <p className="font-semibold mt-4 mb-2">Capital Structure:</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Structure: 100% acquisition preferred, open to seller rollover &lt;20% | Capex: &lt;8% of revenue ongoing | Working Capital: Low/moderate requirements</p>
+        <p className="text-gray-600 mb-3">Structure: 100% acquisition preferred, open to seller rollover &lt;20% | Capex: &lt;8% of revenue ongoing | Working Capital: Low/moderate requirements</p>
 
         <p className="font-semibold mt-4 mb-2">Strategic Priorities:</p>
-        <p className="text-gray-600 dark:text-gray-400 mb-3">Moat: Niche expertise, customer relationships, operational scale | Value Creation: Professionalize operations, geographic expansion, digital marketing, add-on M&A</p>
+        <p className="text-gray-600 mb-3">Moat: Niche expertise, customer relationships, operational scale | Value Creation: Professionalize operations, geographic expansion, digital marketing, add-on M&A</p>
       </div>
 
       <p className={bodyClass}>

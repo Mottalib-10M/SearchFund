@@ -6,21 +6,21 @@ export default function MBAProgramsETAArticle() {
     <article className="mx-auto max-w-3xl">
       <header className="mb-8">
         <h1 className={h1Class}>Top MBA Programs for Entrepreneurship Through Acquisition</h1>
-        <p className="mt-4 text-sm text-gray-600 dark:text-gray-400">10 min read</p>
+        <p className="mt-4 text-sm text-gray-600">10 min read</p>
       </header>
 
       {/* Editorial banner — links to the comprehensive MBA & ETA hub */}
-      <div className="mb-8 rounded-lg border border-indigo-200 bg-indigo-50 p-4 dark:border-indigo-800 dark:bg-indigo-950">
-        <p className="text-sm font-medium text-indigo-900 dark:text-indigo-100">
+      <div className="mb-8 rounded-lg border border-indigo-200 bg-indigo-50 p-4">
+        <p className="text-sm font-medium text-indigo-900">
           Looking for in-depth program profiles?{" "}
-          <Link href="/directory/mba-programs" className="underline hover:text-indigo-700 dark:hover:text-indigo-300">
+          <Link href="/directory/mba-programs" className="underline hover:text-indigo-700">
             Visit our MBA &amp; ETA Hub
           </Link>{" "}
           for detailed profiles of each program, verified faculty, alumni outcomes, and a full ranking methodology.
         </p>
       </div>
 
-      <div className="prose prose-lg dark:prose-invert">
+      <div className="prose prose-lg">
         <p className={bodyClass}>
           Your choice of MBA program can significantly impact your success in the search fund ecosystem. While you don't need an MBA to become a successful searcher, the right program provides three critical advantages: access to a network of search fund investors, immersion in a community of fellow searchers, and structured coursework that prepares you for acquisition entrepreneurship.
         </p>
