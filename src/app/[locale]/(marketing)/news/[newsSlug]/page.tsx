@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const article = getNewsArticleBySlug(newsSlug);
   if (!article) return {};
   return {
-    title: `${article.title} | SearchFundMarket News`,
+    title: `${article.title} — ETA News`,
     description: article.description,
     alternates: {
       canonical: `${BASE}/${locale}/news/${newsSlug}`,

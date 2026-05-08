@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!entry) return {};
   const name = getEntryName(entry);
   return {
-    title: `${name} | SearchFundMarket Directory`,
+    title: `${name} — ETA Directory Profile`,
     description: entry.description.slice(0, 160),
     alternates: {
       canonical: `${BASE}/${locale}/directory/${category}/${slug}`,

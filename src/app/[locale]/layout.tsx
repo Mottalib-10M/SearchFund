@@ -23,7 +23,7 @@ export function generateStaticParams() {
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.searchfundmarket.com"),
   title: {
-    default: "SearchFundMarket - The Complete ETA Learning Platform",
+    default: "SearchFundMarket — The ETA Learning Platform",
     template: "%s",
   },
   description:

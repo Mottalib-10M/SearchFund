@@ -53,61 +53,61 @@ export const categoryMeta: CategoryMeta[] = [
     slug: "fundraising-investors",
     name: "Fundraising & Investors",
     description: "How to raise capital, write a PPM, build your investor deck, and structure equity for your search fund.",
-    ogDescription: "From writing your PPM to closing your fundraise - guides on finding investors, structuring equity, and building compelling fundraising materials.",
+    ogDescription: "From writing your PPM to closing your fundraise - guides on finding investors, structuring equity, and building compelling fundraising materials. How to raise.",
   },
   {
     slug: "deal-execution",
     name: "Deal Execution",
     description: "Sourcing deals, valuation, due diligence, LOIs, negotiation, and closing your acquisition.",
-    ogDescription: "Master the deal process: sourcing, valuation, QoE analysis, LOI negotiation, earn-outs, and closing tactics for search fund acquisitions.",
+    ogDescription: "Master the deal process: sourcing, valuation, QoE analysis, LOI negotiation, earn-outs, and closing tactics for search fund acquisitions. Sourcing deals.",
   },
   {
     slug: "legal-tax",
     name: "Legal & Tax",
     description: "Entity structures, acquisition financing, tax optimization, seller financing, and working with professional advisors.",
-    ogDescription: "LLC vs GmbH vs SAS, SBA 7(a), seller notes, QSBS, Dutreil - the legal and tax frameworks for search fund acquisitions in the US and Europe.",
+    ogDescription: "LLC vs GmbH vs SAS, SBA 7(a), seller notes, QSBS, Dutreil - the legal and tax frameworks for search fund acquisitions in the US and Europe. Entity structures.",
   },
   {
     slug: "operations-growth",
     name: "Operations & Growth",
     description: "Post-acquisition playbooks - from your first 100 days to digital transformation, revenue growth, and exit planning.",
-    ogDescription: "First 100 days, board governance, buy-and-build, digital transformation, revenue growth, and working capital management for search fund CEOs.",
+    ogDescription: "First 100 days, board governance, buy-and-build, digital transformation, revenue growth, and working capital management for search fund CEOs. Post-acquisition.",
   },
   {
     slug: "research-data",
     name: "Research & Data",
     description: "Stanford studies, IESE/INSEAD research, performance benchmarks, and notable search fund success stories.",
-    ogDescription: "Data-driven insights: Stanford 2024 study, European research from IESE & INSEAD, return benchmarks, and famous search fund success stories.",
+    ogDescription: "Data-driven insights: Stanford 2024 study, European research from IESE & INSEAD, return benchmarks, and famous search fund success stories. Stanford studies.",
   },
   {
     slug: "regional-guides",
     name: "Regional Guides",
     description: "Country-by-country guides to ETA - legal structures, financing programs, market dynamics, and local ecosystems.",
-    ogDescription: "ETA across borders: acquisition guides for the US, UK, France, Germany, Spain, Italy, Nordics, Benelux, and Switzerland.",
+    ogDescription: "ETA across borders: acquisition guides for the US, UK, France, Germany, Spain, Italy, Nordics, Benelux, and Switzerland. Country-by-country guides to ETA.",
   },
   {
     slug: "investor-comparisons",
     name: "Investor Comparisons",
     description: "How search fund investing compares to private equity, venture capital, public markets, and real estate.",
-    ogDescription: "Search funds vs PE, VC, public markets, and real estate - compare returns, risk, liquidity, and portfolio construction across asset classes.",
+    ogDescription: "Search funds vs PE, VC, public markets, and real estate - compare returns, risk, liquidity, and portfolio construction across asset classes. How search fund.",
   },
   {
     slug: "industry-playbooks",
     name: "Industry Playbooks",
     description: "Sector-specific acquisition guides - SaaS, healthcare, manufacturing, professional services, e-commerce, and more.",
-    ogDescription: "Industry-specific playbooks for acquiring SaaS, healthcare, manufacturing, professional services, home services, e-commerce, education, and financial services businesses.",
+    ogDescription: "Industry-specific playbooks for acquiring SaaS, healthcare, manufacturing, professional services, home services, e-commerce, education, and financial services.",
   },
   {
     slug: "searcher-toolkit",
     name: "Searcher Toolkit",
     description: "Practical tools, mindset frameworks, career transition advice, and technology for search fund entrepreneurs.",
-    ogDescription: "Tools, psychology, career transition, and technology for searchers - everything you need beyond the deal itself.",
+    ogDescription: "Tools, psychology, career transition, and technology for searchers - everything you need beyond the deal itself. Practical tools — mindset frameworks.",
   },
   {
     slug: "resources",
     name: "Resources",
     description: "Curated reading lists, recommended books, podcasts, conferences, and communities for ETA professionals.",
-    ogDescription: "The essential reading list, top podcasts, key conferences, and communities for search fund entrepreneurs and investors.",
+    ogDescription: "The essential reading list, top podcasts, key conferences, and communities for search fund entrepreneurs and investors. Curated reading lists. Recommended.",
   },
 ];
 
@@ -229,7 +229,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What Is ETA (Entrepreneurship Through Acquisition)? Complete Guide",
     ogDescription:
-      "ETA explained: search funds, self-funded searches, independent sponsors. 681 funds, 35% IRR, and the complete lifecycle from search to exit.",
+      "ETA explained: search funds, self-funded searches, independent sponsors. 681 funds, 35% IRR, and the complete lifecycle from search to exit. performance data.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -258,7 +258,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What is a Search Fund? The Complete Guide to Entrepreneurship Through Acquisition",
     ogDescription:
-      "From fundraising to exit - understand how search funds work, key statistics, and why ETA is one of the best paths to becoming a CEO.",
+      "From fundraising to exit - understand how search funds work, key statistics, and why ETA is one of the best paths to becoming a CEO. Everything you need.",
     datePublished: "2024-03-12",
     dateModified: "2026-04-23",
     sources: [
@@ -287,7 +287,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Self-Funded Search vs. Traditional Search Fund - Which Path Is Right for You?",
     ogDescription:
-      "20% equity vs. 80%. Lower risk vs. more control. Compare the economics and trade-offs of both search fund models.",
+      "20% equity vs. 80%. Lower risk vs. more control. Compare the economics and trade-offs of both search fund models. Compare the two main ETA models: economics.",
     datePublished: "2024-03-28",
     dateModified: "2026-04-23",
     sources: [
@@ -311,7 +311,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Why Invest in Search Funds? A Guide for Investors",
     ogDescription:
-      "35% aggregate IRR, 4.5x ROIC over 40 years. Learn how search fund investing works, how to evaluate searchers, and why Europe is the next frontier.",
+      "35% aggregate IRR, 4.5x ROIC over 40 years. Learn how search fund investing works, how to evaluate searchers, and why Europe is the next frontier. Full guide.",
     datePublished: "2024-04-15",
     dateModified: "2026-04-23",
     sources: [
@@ -338,7 +338,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How to Buy a Small Business: The Complete 9-Step Guide",
     ogDescription:
-      "From defining your thesis to closing the deal - the complete guide to buying a small business. Financing, sourcing, DD, negotiation, and transition.",
+      "From defining your thesis to closing the deal - the complete guide to buying a small business. Financing, sourcing, DD, negotiation, and transition. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -366,7 +366,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "The Baby Boomer Succession Crisis: A $10 Trillion Acquisition Opportunity",
     ogDescription:
-      "10M US businesses and 450,000 EU transfers per year. Why the boomer succession wave creates unprecedented opportunities for ETA buyers.",
+      "10M US businesses and 450,000 EU transfers per year. Why the boomer succession wave creates unprecedented opportunities for ETA buyers. 10 million US.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -395,7 +395,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Why Do Search Funds Fail? 9 Common Mistakes (And How to Avoid Them)",
     ogDescription:
-      "Overpaying, poor DD, failed transitions, excessive use - the 9 most common reasons search funds lose money, backed by Stanford data.",
+      "Overpaying, poor DD, failed transitions, excessive use - the 9 most common reasons search funds lose money, backed by Stanford data. One-third of search fund.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -423,7 +423,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Can You Buy a Business with No Money Down? 6 Realistic Strategies",
     ogDescription:
-      "Search funds ($0 personal), max seller financing, SBA with ROBS, earn-in paths - the realistic guide to buying a business with little or no cash.",
+      "Search funds ($0 personal), max seller financing, SBA with ROBS, earn-in paths - the realistic guide to buying a business with little or no cash. earn-ins.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -449,7 +449,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "The Search Fund Lifecycle: From Raise to Exit (7-10 Year Journey)",
     ogDescription:
-      "Fundraise → Search → Acquire → Operate → Exit. The complete 7-10 year search fund lifecycle with timelines, milestones, economics, and common mistakes at each stage.",
+      "Fundraise → Search → Acquire → Operate → Exit. The complete 7-10 year search fund lifecycle with timelines, milestones, economics, and common mistakes at each.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -529,7 +529,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How Much Does It Cost to Start a Search Fund? Full Breakdown",
     ogDescription:
-      "$400K-$600K search capital, $0-$50K personal (traditional) vs. $50K-$350K (self-funded). The complete cost breakdown for starting a search fund.",
+      "$400K-$600K search capital, $0-$50K personal (traditional) vs. $50K-$350K (self-funded). The complete cost breakdown for starting a search fund. Due diligence.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -581,7 +581,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Should You Pursue ETA? Skills, Mindset & Readiness Checklist",
     ogDescription:
-      "Risk tolerance, resilience, financial runway, opportunity cost - rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is the right path.",
+      "Risk tolerance, resilience, financial runway, opportunity cost - rate yourself on 10 dimensions to determine if Entrepreneurship Through Acquisition is.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -607,7 +607,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "SME Acquisition: A Beginner's Guide to Buying a Business",
     ogDescription:
-      "From defining criteria to closing day - the complete 8-step guide for first-time SME buyers. Advisory team, deal sourcing, screening, DD, financing, and transition.",
+      "From defining criteria to closing day - the complete 8-step guide for first-time SME buyers. Advisory team, deal sourcing, screening, DD, financing. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -633,7 +633,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Buying a Business vs. Starting One: Which Is Better?",
     ogDescription:
-      "90% startup failure rate vs. 85-95% SME survival. Revenue from day one vs. 18-48 months to breakeven. The data-driven comparison of buying vs. building a business.",
+      "90% startup failure rate vs. 85-95% SME survival. Revenue from day one vs. 18-48 months to breakeven. The data-driven comparison of buying vs. building.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -660,7 +660,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Acquisition Target Criteria: Revenue, Margins & Moat Analysis",
     ogDescription:
-      "Recurring revenue, fragmented industry, low customer concentration, $1.5-5M EBITDA, management beyond owner - the 7 criteria that define an ideal search fund target.",
+      "Recurring revenue, fragmented industry, low customer concentration, $1.5-5M EBITDA, management beyond owner - the 7 criteria that define an ideal search fund.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -712,7 +712,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What Size Business Should I Buy? Revenue & EBITDA Guide",
     ogDescription:
-      "$500K-$10M EBITDA - which size is right for you? Main Street vs. middle market, financing alignment, sweet spots for traditional vs. self-funded search, and common mistakes.",
+      "$500K-$10M EBITDA - which size is right for you? Main Street vs. middle market, financing alignment, sweet spots for traditional vs. self-funded search.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -737,7 +737,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How to Buy a Business with No Experience: A First-Timer's Guide",
     ogDescription:
-      "85% of search fund CEOs are first-time operators. Transferable skills, building credibility with investors/sellers/employees, and choosing the right first acquisition.",
+      "85% of search fund CEOs are first-time operators. Transferable skills, building credibility with investors/sellers/employees, and choosing the right first.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -788,7 +788,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Search Fund Returns: Historical Performance & Risk Analysis",
     ogDescription:
-      "33% IRR and 5.5x MOIC but significant dispersion. Return distribution, risk factors, comparison to PE/VC/S&P 500, and portfolio construction for search fund investors.",
+      "33% IRR and 5.5x MOIC but significant dispersion. Return distribution, risk factors, comparison to PE/VC/S&P 500, and portfolio construction for search fund.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -839,7 +839,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Search Fund vs. Independent Sponsor: Key Differences Explained",
     ogDescription:
-      "Committed capital vs. deal-by-deal, $5-20M vs. $10-100M+, CEO vs. chairman - every key difference between search funds and independent sponsors.",
+      "Committed capital vs. deal-by-deal, $5-20M vs. $10-100M+, CEO vs. chairman - every key difference between search funds and independent sponsors. economics.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -865,7 +865,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Women & Diversity in Search Funds - Resources, Data & Opportunities",
     ogDescription:
-      "Women represent ~15% of searchers but deliver comparable returns. Discover the organizations, funds, and strategies driving diversity in ETA.",
+      "Women represent ~15% of searchers but deliver comparable returns. Discover the organizations, funds, and strategies driving diversity in ETA. Current state.",
     datePublished: "2024-05-03",
     dateModified: "2026-04-23",
     sources: [
@@ -895,7 +895,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How Long Does a Search Fund Take? Complete Timeline",
     ogDescription:
-      "Pre-search 3-6 months, fundraise 2-4 months, search 12-24 months, DD & close 2-4 months, operations 3-7 years. The full search fund timeline with Stanford benchmarks.",
+      "Pre-search 3-6 months, fundraise 2-4 months, search 12-24 months, DD & close 2-4 months, operations 3-7 years. The full search fund timeline with Stanford.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -918,7 +918,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How to Build an Acquisition Target Screening ICP",
     ogDescription:
-      "Define your acquisition criteria across 8 dimensions: financials, industry, geography, business model, customers, seller motivation, operations, and growth potential.",
+      "Define your acquisition criteria across 8 dimensions: financials, industry, geography, business model, customers, seller motivation, operations, and growth.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -943,7 +943,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Tax Planning for Business Sellers: Minimize Your Tax Bill",
     ogDescription:
-      "Without planning, you'll lose 25-45% to taxes. With 18-24 months of preparation, many sellers pay 10-20% or even 0%. QSBS, installment sales, holding structures, and more.",
+      "Without planning, you'll lose 25-45% to taxes. With 18-24 months of preparation, many sellers pay 10-20% or even 0%. QSBS, installment sales, holding.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -993,7 +993,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "How to Prepare Your Business for Sale: 18-Month Roadmap",
     ogDescription:
-      "The difference between a premium sale and a failed listing is preparation. Follow this 18-24 month roadmap to reduce owner dependence, clean financials, and maximize value.",
+      "The difference between a premium sale and a failed listing is preparation. Follow this 18-24 month roadmap to reduce owner dependence, clean financials.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1018,7 +1018,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Choosing Between Buyer Types: Search Fund vs. PE vs. Strategic",
     ogDescription:
-      "Search funds prioritize legacy and employees. PE pays higher multiples. Strategics offer synergy premiums. Compare all four buyer types and choose based on your priorities.",
+      "Search funds prioritize legacy and employees. PE pays higher multiples. Strategics offer synergy premiums. Compare all four buyer types and choose based on.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1041,7 +1041,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Selling Your Business to a Search Fund: A Seller\u2019s Complete Guide",
     ogDescription:
-      "A search fund buyer is an individual entrepreneur backed by investors who will run your business as CEO for 5\u20138 years. Covers deal terms, 4\u20137x EBITDA multiples, seller financing, and the full timeline.",
+      "A search fund buyer is an individual entrepreneur backed by investors who will run your business as CEO for 5\u20138 years. Covers deal terms, 4\u20137x EBITDA.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1069,7 +1069,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "History of Search Funds: From Stanford 1984 to a Global Asset Class",
     ogDescription:
-      "Stanford 1984 → 680+ funds in 25+ countries. The complete history of search funds: invention by H. Irving Grousbeck, early growth, international expansion, and mainstream adoption.",
+      "Stanford 1984 → 680+ funds in 25+ countries. The complete history of search funds: invention by H. Irving Grousbeck, early growth, international expansion.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1094,7 +1094,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Search Fund Timeline: Month-by-Month Milestones from Launch to Close",
     ogDescription:
-      "Fundraise in 3-6 months, search for 18-24 months, close in 3-6 months, operate for 5-7 years, exit in 6-12 months. The complete search fund timeline with milestones and Stanford data.",
+      "Fundraise in 3-6 months, search for 18-24 months, close in 3-6 months, operate for 5-7 years, exit in 6-12 months. The complete search fund timeline. Read more.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1119,7 +1119,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What Makes a Good Acquisition Target for Search Funds?",
     ogDescription:
-      "Recurring revenue, low customer concentration, $1-5M EBITDA, existing management, fragmented industry, succession-driven seller. The 10 traits of an ideal ETA acquisition target.",
+      "Recurring revenue, low customer concentration, $1-5M EBITDA, existing management, fragmented industry, succession-driven seller. The 10 traits of an ideal ETA.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1143,7 +1143,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "The Pledge Fund Model: How It Works & When to Use It",
     ogDescription:
-      "Pledge fund = committed investors + deal-by-deal approval. How it compares to traditional search funds and independent sponsors, typical structures, and when it makes sense.",
+      "Pledge fund = committed investors + deal-by-deal approval. How it compares to traditional search funds and independent sponsors, typical structures, and when.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1167,7 +1167,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Search Fund Accelerators & Incubators: Complete Guide",
     ogDescription:
-      "Structured curriculum, investor introductions, mentor networks, and deal flow support. The complete guide to ETA accelerators in the US, Europe, and Latin America.",
+      "Structured curriculum, investor introductions, mentor networks, and deal flow support. The complete guide to ETA accelerators in the US, Europe, and Latin.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1193,7 +1193,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "The MBA-to-CEO Pipeline: Search Funds After Business School",
     ogDescription:
-      "Stanford, HBS, Booth, INSEAD, IESE - how top MBA programs produce search fund entrepreneurs and why the ETA club advantage matters for fundraising.",
+      "Stanford, HBS, Booth, INSEAD, IESE - how top MBA programs produce search fund entrepreneurs and why the ETA club advantage matters for fundraising. ETA clubs.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1217,7 +1217,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "ETA Without an MBA: Alternative Paths into Search Funds",
     ogDescription:
-      "No MBA? No problem. Self-funded searches, industry expertise, ETA accelerators, and proven strategies for breaking into search funds without a business school pedigree.",
+      "No MBA? No problem. Self-funded searches, industry expertise, ETA accelerators, and proven strategies for breaking into search funds without a business school.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-29",
     sources: [
@@ -1265,7 +1265,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Is ETA Right for You? A Self-Assessment Framework",
     ogDescription:
-      "Not everyone is cut out for ETA. Use this data-driven self-assessment framework to evaluate your financial readiness, risk tolerance, and personality fit before launching a search fund.",
+      "Not everyone is cut out for ETA. Use this data-driven self-assessment framework to evaluate your financial readiness, risk tolerance, and personality fit.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1363,7 +1363,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Financial Runway Planning for Search Fund Entrepreneurs",
     ogDescription:
-      "18-24 months minimum runway. How to calculate your burn rate, manage personal finances, plan for health insurance, and make the kill switch decision.",
+      "18-24 months minimum runway. How to calculate your burn rate, manage personal finances, plan for health insurance, and make the kill switch decision. Read more.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1413,7 +1413,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "The Search Fund Entrepreneur Archetype: Who Succeeds?",
     ogDescription:
-      "Grit, interpersonal skills, comfort with ambiguity - the personality traits and professional backgrounds that predict search fund success, backed by Stanford data.",
+      "Grit, interpersonal skills, comfort with ambiguity - the personality traits and professional backgrounds that predict search fund success, backed by Stanford.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1438,7 +1438,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "What Happens If a Searcher Doesn't Find a Company?",
     ogDescription:
-      "~33% of searches don't result in an acquisition. What happens to the searcher, the investors, and the capital - plus how to prevent search failure.",
+      "~33% of searches don't result in an acquisition. What happens to the searcher, the investors, and the capital - plus how to prevent search failure. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1462,7 +1462,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Getting Started",
     ogTitle: "Are Search Funds a Good Investment? Returns Analyzed",
     ogDescription:
-      "35% IRR, 4.5x MOIC over 40 years. How search fund returns compare to PE, VC, public markets, and real estate - with portfolio construction guidance for investors.",
+      "35% IRR, 4.5x MOIC over 40 years. How search fund returns compare to PE, VC, public markets, and real estate - with portfolio construction guidance. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1488,7 +1488,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "How to Write a Search Fund PPM - Section-by-Section Guide",
     ogDescription:
-      "From executive summary to risk factors - learn how to craft a Private Placement Memorandum that convinces investors to back your search.",
+      "From executive summary to risk factors - learn how to craft a Private Placement Memorandum that convinces investors to back your search. Section-by-section.",
     datePublished: "2024-04-08",
     dateModified: "2026-04-23",
     sources: [
@@ -1513,7 +1513,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Fundraising Deck - Slide-by-Slide Guide",
     ogDescription:
-      "Build a fundraising deck that tells your story. Slide-by-slide breakdown, design tips, and how to run an effective investor meeting.",
+      "Build a fundraising deck that tells your story. Slide-by-slide breakdown, design tips, and how to run an effective investor meeting. Slide-by-slide guide.",
     datePublished: "2024-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -1539,7 +1539,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "How to Find & Convince Search Fund Investors to Back Your Search",
     ogDescription:
-      "Ex-searchers, family offices, institutional investors - learn how to approach them, what they look for, and how to close your fundraise.",
+      "Ex-searchers, family offices, institutional investors - learn how to approach them, what they look for, and how to close your fundraise. A practical ETA guide.",
     datePublished: "2024-05-06",
     dateModified: "2026-04-23",
     sources: [
@@ -1563,7 +1563,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Top Search Fund Investors: Types, Selection Criteria & Syndicate Building",
     ogDescription:
-      "Serial investors, fund-of-funds, family offices, institutional capital - the complete guide to search fund investor types, what to look for, and how to build your syndicate.",
+      "Serial investors, fund-of-funds, family offices, institutional capital - the complete guide to search fund investor types, what to look for, and how to build.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1610,7 +1610,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Cap Tables & Equity - Worked Examples",
     ogDescription:
-      "Understand how equity works in search funds: step-up, carried interest, vesting schedules, and dilution math with worked examples.",
+      "Understand how equity works in search funds: step-up, carried interest, vesting schedules, and dilution math with worked examples. Worked examples of search.",
     datePublished: "2024-05-20",
     dateModified: "2026-04-23",
     sources: [
@@ -1706,7 +1706,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "EBITDA Multiples by Industry: 2025-2026 SME Acquisition Benchmarks",
     ogDescription:
-      "SaaS at 5-8x, healthcare at 5-8x, home services at 3-5.5x - current EBITDA multiples by industry for search fund and SME acquisitions.",
+      "SaaS at 5-8x, healthcare at 5-8x, home services at 3-5.5x - current EBITDA multiples by industry for search fund and SME acquisitions — manufacturing.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1762,7 +1762,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Draft & Negotiate a Letter of Intent for SME Acquisitions",
     ogDescription:
-      "Everything you need to know about LOIs: purchase price, exclusivity, due diligence terms, and negotiation tactics for search fund deals.",
+      "Everything you need to know about LOIs: purchase price, exclusivity, due diligence terms, and negotiation tactics for search fund deals. Key sections.",
     datePublished: "2024-05-14",
     dateModified: "2026-04-23",
     sources: [
@@ -1788,7 +1788,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "The Complete Due Diligence Checklist for Search Fund Acquisitions",
     ogDescription:
-      "Don't miss anything before signing. Financial, legal, operational, and commercial due diligence - every item you need to check.",
+      "Don't miss anything before signing. Financial, legal, operational, and commercial due diligence - every item you need to check. A practical checklist covering.",
     datePublished: "2024-05-28",
     dateModified: "2026-04-23",
     sources: [
@@ -1840,7 +1840,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Legal Due Diligence for Business Acquisitions: Contracts, Litigation & IP",
     ogDescription:
-      "Change-of-control clauses, pending litigation, employee misclassification, IP ownership - the legal risks that kill deals and how to uncover them.",
+      "Change-of-control clauses, pending litigation, employee misclassification, IP ownership - the legal risks that kill deals and how to uncover them. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1868,7 +1868,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Operational Due Diligence for SME Acquisitions",
     ogDescription:
-      "Key employees, customer retention, process documentation, technology systems, supplier dependencies - the operational DD framework that complements financial and legal review.",
+      "Key employees, customer retention, process documentation, technology systems, supplier dependencies - the operational DD framework that complements financial.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -1923,7 +1923,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Due Diligence Red Flags: Financial, Legal & Operational Warning Signs",
     ogDescription:
-      "EBITDA manipulation, declining revenue, customer concentration, evasive sellers - the red flags that should kill a deal and the ones that just need a price adjustment.",
+      "EBITDA manipulation, declining revenue, customer concentration, evasive sellers - the red flags that should kill a deal and the ones that just need a price.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -1972,7 +1972,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Owner-Dependent Businesses: Risks & Mitigation for Buyers",
     ogDescription:
-      "Revenue dependency, knowledge dependency, relationship dependency - how to assess owner risk, the 1-2x valuation discount, and proven mitigation strategies for acquirers.",
+      "Revenue dependency, knowledge dependency, relationship dependency - how to assess owner risk, the 1-2x valuation discount, and proven mitigation strategies.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2026,7 +2026,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Acquisition Target Screening: A Systematic Framework",
     ogDescription:
-      "Screen 500+ opportunities down to 1 acquisition. The 4-tier funnel: 30-second filters, CIM review, deep evaluation, and seller engagement - with scoring rubrics and cadence.",
+      "Screen 500+ opportunities down to 1 acquisition. The 4-tier funnel: 30-second filters, CIM review, deep evaluation, and seller engagement - with scoring.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2074,7 +2074,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Reading Financial Statements for Business Acquisitions",
     ogDescription:
-      "P&L, balance sheet, cash flow - how to read and interpret financial statements through the lens of an acquirer. Revenue analysis, EBITDA, working capital, and SME accounting issues.",
+      "P&L, balance sheet, cash flow - how to read and interpret financial statements through the lens of an acquirer. Revenue analysis, EBITDA, working capital.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2099,7 +2099,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Value a Small Business - Valuation Guide for Search Fund Acquisitions",
     ogDescription:
-      "EBITDA multiples, DCF, adjusted EBITDA - learn the valuation methods that matter for SME acquisitions and avoid overpaying.",
+      "EBITDA multiples, DCF, adjusted EBITDA - learn the valuation methods that matter for SME acquisitions and avoid overpaying. Valuation methods for SME.",
     datePublished: "2024-06-11",
     dateModified: "2025-04-17",
     sources: [
@@ -2124,7 +2124,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Deal Sourcing Strategies for Search Funds - Build Your Deal Pipeline",
     ogDescription:
-      "1,000 companies contacted → 1 acquisition. Learn the sourcing strategies, platforms, and conversion metrics that successful searchers use.",
+      "1,000 companies contacted → 1 acquisition. Learn the sourcing strategies, platforms, and conversion metrics that successful searchers use. Proprietary vs.",
     datePublished: "2024-06-25",
     dateModified: "2025-04-17",
     sources: [
@@ -2199,7 +2199,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Working with Business Brokers: A Buyer's Guide",
     ogDescription:
-      "Brokers control 50-70% of deal flow. How to register, build relationships, respond to opportunities, avoid common mistakes, and negotiate through intermediaries.",
+      "Brokers control 50-70% of deal flow. How to register, build relationships, respond to opportunities, avoid common mistakes, and negotiate through. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -2227,7 +2227,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Business Broker Relationships: Finding, Vetting & Managing Intermediaries",
     ogDescription:
-      "Brokers handle ~80% of small business sales. Learn fee structures, relationship building, and how to stand out as a buyer to get the best deal flow.",
+      "Brokers handle ~80% of small business sales. Learn fee structures, relationship building, and how to stand out as a buyer to get the best deal flow. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2277,7 +2277,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Find Businesses for Sale: The Complete Guide",
     ogDescription:
-      "BizBuySell, brokers, direct outreach, CPA referrals, and trade associations - the complete multi-channel strategy for finding acquisition targets.",
+      "BizBuySell, brokers, direct outreach, CPA referrals, and trade associations - the complete multi-channel strategy for finding acquisition targets. Proprietary.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2301,7 +2301,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Build a Deal Funnel: Metrics & Conversion Rates",
     ogDescription:
-      "200-500 screened → 30-50 CIMs → 5-10 LOIs → 1 close. Benchmark conversion rates, weekly targets, and how to optimize your search fund deal funnel.",
+      "200-500 screened → 30-50 CIMs → 5-10 LOIs → 1 close. Benchmark conversion rates, weekly targets, and how to optimize your search fund deal funnel. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2327,7 +2327,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "LinkedIn for Deal Sourcing: Advanced Strategies for Searchers",
     ogDescription:
-      "Sales Navigator filters, InMail templates, and relationship-building strategies for finding acquisition targets on LinkedIn.",
+      "Sales Navigator filters, InMail templates, and relationship-building strategies for finding acquisition targets on LinkedIn. How to use LinkedIn Sales.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2352,7 +2352,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Deal Sourcing with AI: Tools & Automation for Searchers",
     ogDescription:
-      "AI-powered target identification, automated outreach, predictive seller intent models, and financial screening - how technology is transforming ETA deal sourcing.",
+      "AI-powered target identification, automated outreach, predictive seller intent models, and financial screening - how technology is transforming ETA deal.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2429,7 +2429,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Comparable Transaction Analysis for SME Acquisitions",
     ogDescription:
-      "DealStats, BVR, broker data - how to build a comparable transaction analysis to value a small business acquisition and support your offer price.",
+      "DealStats, BVR, broker data - how to build a comparable transaction analysis to value a small business acquisition and support your offer price. How to find.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2455,7 +2455,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Commercial Due Diligence: Market, Competition & Customers",
     ogDescription:
-      "Market size, competitive positioning, customer retention, revenue quality - the complete commercial DD checklist for search fund acquisitions.",
+      "Market size, competitive positioning, customer retention, revenue quality - the complete commercial DD checklist for search fund acquisitions. How to conduct.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2480,7 +2480,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Red Flags in Due Diligence: When to Walk Away",
     ogDescription:
-      "Declining revenue, aggressive add-backs, pending litigation, key person dependency - the red flags that should make you walk away from a deal.",
+      "Declining revenue, aggressive add-backs, pending litigation, key person dependency - the red flags that should make you walk away from a deal. The financial.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2505,7 +2505,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Representations & Warranties in M&A: A Buyer's Guide",
     ogDescription:
-      "Fundamental vs general reps, survival periods, baskets and caps, R&W insurance - how to protect yourself as a buyer through the purchase agreement.",
+      "Fundamental vs general reps, survival periods, baskets and caps, R&W insurance - how to protect yourself as a buyer through the purchase agreement. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2530,7 +2530,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "DCF Valuation for Small Business Acquisitions",
     ogDescription:
-      "Build a DCF model for SME acquisitions: cash flow projections, WACC for small businesses, terminal value, and sensitivity analysis.",
+      "Build a DCF model for SME acquisitions: cash flow projections, WACC for small businesses, terminal value, and sensitivity analysis. How to apply discounted.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2555,7 +2555,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Value a Business with No Profits",
     ogDescription:
-      "Learn to value unprofitable businesses using asset-based, revenue multiple, and strategic approaches for turnaround acquisitions.",
+      "Learn to value unprofitable businesses using asset-based, revenue multiple, and strategic approaches for turnaround acquisitions. Valuation approaches.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2579,7 +2579,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Environmental Due Diligence & ESG in Acquisitions",
     ogDescription:
-      "Protect yourself from environmental liability: Phase I/II assessments, CERCLA, ESG factors, remediation costs, and environmental insurance.",
+      "Protect yourself from environmental liability: Phase I/II assessments, CERCLA, ESG factors, remediation costs, and environmental insurance. Phase I and II.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2603,7 +2603,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "HR & Employee Due Diligence: Benefits, Contracts & Culture",
     ogDescription:
-      "Complete HR due diligence guide: employee census, compensation, benefits, contracts, culture assessment, and key person retention strategies.",
+      "Complete HR due diligence guide: employee census, compensation, benefits, contracts, culture assessment, and key person retention strategies. Employee census.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2627,7 +2627,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Working Capital Adjustments at Closing",
     ogDescription:
-      "Master working capital adjustments: calculating the peg, true-up mechanisms, collar structures, and negotiation strategies for SME deals.",
+      "Master working capital adjustments: calculating the peg, true-up mechanisms, collar structures, and negotiation strategies for SME deals. Working capital.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2651,7 +2651,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Exclusivity Agreements in M&A: How to Lock Down a Deal",
     ogDescription:
-      "Understand no-shop clauses, exclusivity periods, break-up fees, and how to negotiate exclusivity in business acquisitions.",
+      "Understand no-shop clauses, exclusivity periods, break-up fees, and how to negotiate exclusivity in business acquisitions. standstill provisions. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2675,7 +2675,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "The Closing Process: Timeline, Documents & Wire Transfers",
     ogDescription:
-      "Manage the closing process: pre-closing checklist, conditions, escrow, wire transfers, and how to avoid common delays.",
+      "Manage the closing process: pre-closing checklist, conditions, escrow, wire transfers, and how to avoid common delays. closing conditions. closing binders.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2699,7 +2699,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Non-Compete & Non-Solicitation Clauses in Acquisitions",
     ogDescription:
-      "Manage non-compete and non-solicitation clauses: enforceability, scope, duration, FTC rules, and negotiation strategies for buyers.",
+      "Manage non-compete and non-solicitation clauses: enforceability, scope, duration, FTC rules, and negotiation strategies for buyers. Enforceability by state.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2724,7 +2724,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Indemnification & Escrow in Business Acquisitions",
     ogDescription:
-      "Protect yourself post-closing: indemnification provisions, escrow structures, baskets, caps, survival periods, and R&W insurance.",
+      "Protect yourself post-closing: indemnification provisions, escrow structures, baskets, caps, survival periods, and R&W insurance. escrow holdback structures.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2748,7 +2748,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Handle a Broken Deal: Lessons & Next Steps",
     ogDescription:
-      "When acquisitions fall apart: common causes, managing the fallout, learning lessons, and getting back on track with your search.",
+      "When acquisitions fall apart: common causes, managing the fallout, learning lessons, and getting back on track with your search. Common reasons deals fall.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2772,7 +2772,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Evaluating Management Teams in Acquisition Targets",
     ogDescription:
-      "How to assess management quality during due diligence: interview frameworks, retention risk analysis, and post-close team building.",
+      "How to assess management quality during due diligence: interview frameworks, retention risk analysis, and post-close team building. Assessment frameworks.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2797,7 +2797,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Industry Fragmentation: Finding Roll-Up Opportunities",
     ogDescription:
-      "Identify fragmented industries ripe for consolidation: roll-up strategy, platform acquisitions, add-ons, and integration playbooks.",
+      "Identify fragmented industries ripe for consolidation: roll-up strategy, platform acquisitions, add-ons, and integration playbooks. How to identify fragmented.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2821,7 +2821,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "How to Read a CIM: Confidential Information Memorandum Guide",
     ogDescription:
-      "Evaluate CIMs like a pro: critical reading of financials, spotting red flags, adjusting seller numbers, and deciding when to proceed.",
+      "Evaluate CIMs like a pro: critical reading of financials, spotting red flags, adjusting seller numbers, and deciding when to proceed. What a CIM contains.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2846,7 +2846,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Distressed & Turnaround Acquisitions: Opportunity or Trap?",
     ogDescription:
-      "Evaluate distressed acquisitions: types of distress, turnaround strategies, valuation approaches, risks, and when the opportunity is real.",
+      "Evaluate distressed acquisitions: types of distress, turnaround strategies, valuation approaches, risks, and when the opportunity is real. Valuing distressed.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2870,7 +2870,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Management Buyouts (MBOs): Complete Guide",
     ogDescription:
-      "How management buyouts work: structure, financing, negotiation, team formation, used MBOs, and comparison to search fund acquisitions.",
+      "How management buyouts work: structure, financing, negotiation, team formation, used MBOs, and comparison to search fund acquisitions — mBO structure.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -2894,7 +2894,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Quality of Earnings Analysis for Search Fund Acquisitions",
     ogDescription:
-      "EBITDA adjustments, revenue quality, working capital analysis - understand QoE reports and how they affect deal pricing and negotiation.",
+      "EBITDA adjustments, revenue quality, working capital analysis - understand QoE reports and how they affect deal pricing and negotiation. What QoE covers.",
     datePublished: "2024-07-09",
     dateModified: "2025-04-17",
     sources: [
@@ -2918,7 +2918,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Exit Strategies for Search Fund CEOs - Maximize Your Return",
     ogDescription:
-      "Strategic sale, PE exit, MBO, dividend recap - plan your exit 18-24 months ahead. Readiness checklist, banker selection, and tax planning.",
+      "Strategic sale, PE exit, MBO, dividend recap - plan your exit 18-24 months ahead. Readiness checklist, banker selection, and tax planning. PE sale. Full guide.",
     datePublished: "2024-07-23",
     dateModified: "2025-04-17",
     sources: [
@@ -2942,7 +2942,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Negotiation Tactics for SME Acquisitions - A Search Fund Guide",
     ogDescription:
-      "Price anchoring, exclusivity use, seller psychology, and multi-party dynamics - master the art of SME acquisition negotiation.",
+      "Price anchoring, exclusivity use, seller psychology, and multi-party dynamics - master the art of SME acquisition negotiation. and structuring win-win deals.",
     datePublished: "2024-08-06",
     dateModified: "2025-04-17",
     sources: [
@@ -2967,7 +2967,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Seller Psychology: Understanding Motivations & Emotions in M&A",
     ogDescription:
-      "Health, burnout, legacy, identity loss - the emotional journey of selling a business and how buyers can manage it to close more deals.",
+      "Health, burnout, legacy, identity loss - the emotional journey of selling a business and how buyers can manage it to close more deals. Why sellers sell.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -2992,7 +2992,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Earn-Outs & Contingent Consideration in Search Fund Acquisitions",
     ogDescription:
-      "Structure earn-outs that align incentives: measurement periods, EBITDA vs revenue metrics, dispute resolution, and creative alternatives.",
+      "Structure earn-outs that align incentives: measurement periods, EBITDA vs revenue metrics, dispute resolution, and creative alternatives. Structuring earn-outs.",
     datePublished: "2024-08-19",
     dateModified: "2025-04-17",
     sources: [
@@ -3017,7 +3017,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Online Business Marketplaces: BizBuySell, Axial & More Compared",
     ogDescription:
-      "Compare BizBuySell, Axial, DealStream, SearchFunder, and European platforms. How to use marketplaces as 20-30% of your deal sourcing strategy.",
+      "Compare BizBuySell, Axial, DealStream, SearchFunder, and European platforms. How to use marketplaces as 20-30% of your deal sourcing strategy. Major platforms.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -3041,7 +3041,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "What Is My Business Worth? A Seller's Valuation Guide",
     ogDescription:
-      "Most businesses sell for 2-6x annual earnings. Learn how buyers calculate value, what add-backs count, what drives premium multiples, and how to maximize your sale price.",
+      "Most businesses sell for 2-6x annual earnings. Learn how buyers calculate value, what add-backs count, what drives premium multiples, and how to maximize.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -3104,7 +3104,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "Financial Modeling for Search Fund Acquisitions: The Complete Guide",
     ogDescription:
-      "Build a bulletproof LBO model for your search fund acquisition. Revenue assumptions, debt scheduling, sensitivity analysis, and investor presentation best practices.",
+      "Build a bulletproof LBO model for your search fund acquisition. Revenue assumptions, debt scheduling, sensitivity analysis, and investor presentation best.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3130,7 +3130,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SBA 7(a) Loan Requirements, Rates & Application Process",
     ogDescription:
-      "Up to $5M, 10-year terms, 10-20% equity injection. The definitive guide to SBA 7(a) acquisition financing for search fund and self-funded buyers.",
+      "Up to $5M, 10-year terms, 10-20% equity injection. The definitive guide to SBA 7(a) acquisition financing for search fund and self-funded buyers. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -3155,7 +3155,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Asset Purchase vs. Stock Purchase: Which Structure Is Best?",
     ogDescription:
-      "Stepped-up basis vs liability continuity, double taxation vs contract assignment. The complete comparison for search fund and SME acquisitions.",
+      "Stepped-up basis vs liability continuity, double taxation vs contract assignment. The complete comparison for search fund and SME acquisitions. And employee.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -3204,7 +3204,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Search Fund Legal Structures - US & European Entity Setup Guide",
     ogDescription:
-      "LLC, LP, SAS, GmbH, Ltd - understand the legal structures used in search fund acquisitions across the US and Europe.",
+      "LLC, LP, SAS, GmbH, Ltd - understand the legal structures used in search fund acquisitions across the US and Europe. US (LLC/LP) and European structures (SAS.",
     datePublished: "2024-06-04",
     dateModified: "2025-04-17",
     sources: [
@@ -3229,7 +3229,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "How to Finance a Search Fund Acquisition - Complete Capital Stack Guide",
     ogDescription:
-      "Senior debt, SBA 7(a), BPI France, KfW, seller notes, equity - learn how to structure the capital stack for your acquisition.",
+      "Senior debt, SBA 7(a), BPI France, KfW, seller notes, equity - learn how to structure the capital stack for your acquisition. Capital stack overview: senior.",
     datePublished: "2024-06-18",
     dateModified: "2025-04-17",
     sources: [
@@ -3254,7 +3254,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "The Capital Stack Explained: Senior Debt to Equity in Business Acquisitions",
     ogDescription:
-      "SBA at 80%, bank debt at 60%, mezz at 12-18% return, seller notes at 5-20% - how every layer of the acquisition capital stack works with typical terms and examples.",
+      "SBA at 80%, bank debt at 60%, mezz at 12-18% return, seller notes at 5-20% - how every layer of the acquisition capital stack works with typical terms.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -3277,7 +3277,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Creative Financing: 10 Ways to Fund a Business Acquisition",
     ogDescription:
-      "Maximum seller financing, SBA with standby notes, ROBS 401(k), earn-in paths, equity partners, HELOCs - 10 creative strategies to fund your acquisition with less cash.",
+      "Maximum seller financing, SBA with standby notes, ROBS 401(k), earn-in paths, equity partners, HELOCs - 10 creative strategies to fund your acquisition.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -3302,7 +3302,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Mezzanine Financing for Business Acquisitions",
     ogDescription:
-      "Understand mezzanine debt: typical terms, rates, warrants, PIK interest, subordination, and when mezz makes sense for SME acquisitions.",
+      "Understand mezzanine debt: typical terms, rates, warrants, PIK interest, subordination, and when mezz makes sense for SME acquisitions. What mezzanine debt is.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3327,7 +3327,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Rollover Equity: Keeping Sellers Invested Post-Acquisition",
     ogDescription:
-      "Structure rollover equity deals: tax-deferred benefits for sellers, alignment of interests, governance rights, and exit provisions.",
+      "Structure rollover equity deals: tax-deferred benefits for sellers, alignment of interests, governance rights, and exit provisions. Rollover equity structures.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3355,7 +3355,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Vendor Take-Back (VTB) Financing: Complete Guide",
     ogDescription:
-      "Master vendor take-back financing: structure, terms, security, subordination, negotiation strategies, and how VTB works in different countries.",
+      "Master vendor take-back financing: structure, terms, security, subordination, negotiation strategies, and how VTB works in different countries. VTB structure.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3379,7 +3379,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Equity Waterfall & Distribution Mechanics in Search Funds",
     ogDescription:
-      "Understand search fund waterfalls: preferred returns, catch-up, carried interest tiers, GP/LP splits, and step-up economics with worked examples.",
+      "Understand search fund waterfalls: preferred returns, catch-up, carried interest tiers, GP/LP splits, and step-up economics with worked examples. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3402,7 +3402,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Personal Guarantees in Business Acquisitions",
     ogDescription:
-      "Manage personal guarantees: when required, SBA rules, negotiating limits, burn-off provisions, spousal guarantees, and risk management.",
+      "Manage personal guarantees: when required, SBA rules, negotiating limits, burn-off provisions, spousal guarantees, and risk management. When PGs are required.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3426,7 +3426,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "How to Negotiate Debt Terms for Your Acquisition",
     ogDescription:
-      "Negotiate bank debt like a pro: interest rates, covenants, prepayment, collateral, and how to use competing term sheets as use.",
+      "Negotiate bank debt like a pro: interest rates, covenants, prepayment, collateral, and how to use competing term sheets as use. amortization. prepayment terms.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3451,7 +3451,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "British Business Bank & UK Acquisition Financing",
     ogDescription:
-      "Finance a UK acquisition: Enterprise Finance Guarantee, regional funds, challenger banks, and tax considerations for UK business buyers.",
+      "Finance a UK acquisition: Enterprise Finance Guarantee, regional funds, challenger banks, and tax considerations for UK business buyers. Start Up Loans.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3476,7 +3476,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "ICO Spain: Government Financing for Business Acquisitions",
     ogDescription:
-      "Finance a Spanish acquisition: ICO loans, ENISA participative loans, regional programs, SGR guarantees, and tax optimization.",
+      "Finance a Spanish acquisition: ICO loans, ENISA participative loans, regional programs, SGR guarantees, and tax optimization. Read the full guide here.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3501,7 +3501,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SIMEST Italy: Financing for Italian Business Acquisitions",
     ogDescription:
-      "Finance an Italian acquisition: Fondo di Garanzia, Invitalia programs, SIMEST, Confidi guarantees, and Italy's succession opportunity.",
+      "Finance an Italian acquisition: Fondo di Garanzia, Invitalia programs, SIMEST, Confidi guarantees, and Italy's succession opportunity. regional programs.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3525,7 +3525,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Almi & Højvækstfonden: Nordic Business Acquisition Financing",
     ogDescription:
-      "Finance a Nordic acquisition: Almi subordinated loans, Højvækstfonden guarantees, Finnvera change-of-generation loans, and Nordic tax rates.",
+      "Finance a Nordic acquisition: Almi subordinated loans, Højvækstfonden guarantees, Finnvera change-of-generation loans, and Nordic tax rates. Almi (Sweden).",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3550,7 +3550,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "MKB Financing Netherlands: Dutch Acquisition Loans",
     ogDescription:
-      "Finance a Dutch acquisition: BMKB guarantee (90% coverage), Qredits, regional ROMs, Dutch bank lending, and the participation exemption.",
+      "Finance a Dutch acquisition: BMKB guarantee (90% coverage), Qredits, regional ROMs, Dutch bank lending, and the participation exemption. BMKB government.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3599,7 +3599,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "CDFI & Community Lenders for Acquisition Financing (US)",
     ogDescription:
-      "Use CDFIs for acquisition financing: flexible underwriting, NMTC benefits, CDFI+SBA combination structures, and finding the right community lender.",
+      "Use CDFIs for acquisition financing: flexible underwriting, NMTC benefits, CDFI+SBA combination structures, and finding the right community lender. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3624,7 +3624,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "BDC Canada: Business Development Bank Acquisition Financing",
     ogDescription:
-      "Finance a Canadian acquisition: BDC loans up to CAD 10M+, CSBFP 85% guarantee, provincial programs, and Canada's Small Business Deduction.",
+      "Finance a Canadian acquisition: BDC loans up to CAD 10M+, CSBFP 85% guarantee, provincial programs, and Canada's Small Business Deduction. BDC acquisition.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3651,7 +3651,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "EIF & European Investment Fund Programs for SME Acquisitions",
     ogDescription:
-      "Access EIF-backed acquisition financing: InvestEU guarantees, COSME loans, country-specific programs, and how to find EIF intermediaries.",
+      "Access EIF-backed acquisition financing: InvestEU guarantees, COSME loans, country-specific programs, and how to find EIF intermediaries. InvestEU SME Window.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3678,7 +3678,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Second-Time Searchers: Raising Capital for Your Next Acquisition",
     ogDescription:
-      "Serial ETA: raising capital after your first acquisition - structure evolution, investor expectations, and building a multi-company platform.",
+      "Serial ETA: raising capital after your first acquisition - structure evolution, investor expectations, and building a multi-company platform. Fundraising.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -3702,7 +3702,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Legal Documents: LPA, Subscription Agreement & More",
     ogDescription:
-      "Master search fund legal documents: LPA structure, subscription terms, PPM essentials, side letters, and post-acquisition operating agreements.",
+      "Master search fund legal documents: LPA structure, subscription terms, PPM essentials, side letters, and post-acquisition operating agreements. Subscription.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3727,7 +3727,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Using ROBS to Fund a Business Acquisition",
     ogDescription:
-      "Use retirement funds for acquisition equity: ROBS structure, SBA combination, C-Corp requirement, IRS compliance, and provider selection.",
+      "Use retirement funds for acquisition equity: ROBS structure, SBA combination, C-Corp requirement, IRS compliance, and provider selection. How ROBS works.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3754,7 +3754,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "HELOC & Home Equity for Business Acquisition Down Payment",
     ogDescription:
-      "Fund your acquisition down payment with home equity: HELOC vs. home equity loan, SBA compatibility, qualification tips, and risk assessment.",
+      "Fund your acquisition down payment with home equity: HELOC vs. home equity loan, SBA compatibility, qualification tips, and risk assessment. Using home equity.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -3981,7 +3981,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Building Middle Management Post-Acquisition | Leadership Development",
     ogDescription:
-      "Identify hidden leaders, train supervisors into managers, and build the management layer that enables scalable growth in your acquired business.",
+      "Identify hidden leaders, train supervisors into managers, and build the management layer that enables scalable growth in your acquired business. Develop.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4014,7 +4014,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "CRM Implementation for Acquired Companies | Selection & Rollout Guide",
     ogDescription:
-      "Choose and implement the right CRM for your acquired business. 12-week roadmap from audit to go-live, with adoption strategies that actually stick.",
+      "Choose and implement the right CRM for your acquired business. 12-week roadmap from audit to go-live, with adoption strategies that actually stick. Full guide.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4080,7 +4080,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "SOP Documentation for Acquired Businesses | Building Process Manuals",
     ogDescription:
-      "Transform tribal knowledge into documented systems. Learn which processes to document first, SOP templates, and how to maintain documentation as your business grows.",
+      "Transform tribal knowledge into documented systems. Learn which processes to document first, SOP templates, and how to maintain documentation as your business.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4179,7 +4179,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Marketing Strategy After Acquisition | Growth Playbook",
     ogDescription:
-      "Build a marketing strategy for your acquired business: website refresh, Google Ads, review generation, SEO, and the rebranding decision framework.",
+      "Build a marketing strategy for your acquired business: website refresh, Google Ads, review generation, SEO, and the rebranding decision framework. Full guide.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4211,7 +4211,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Geographic Expansion After Acquisition | Growth Strategy Guide",
     ogDescription:
-      "Expand into new markets through organic growth, bolt-on acquisitions, or licensing. Market selection criteria and implementation strategies for acquired businesses.",
+      "Expand into new markets through organic growth, bolt-on acquisitions, or licensing. Market selection criteria and implementation strategies for acquired.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4308,7 +4308,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Exit Preparation Checklist: Getting Your Business Sale-Ready",
     ogDescription:
-      "Prepare your company for a successful exit: 18-month timeline covering financial cleanup, owner-dependency reduction, growth trajectory, and go-to-market preparation.",
+      "Prepare your company for a successful exit: 18-month timeline covering financial cleanup, owner-dependency reduction, growth trajectory, and go-to-market.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4341,7 +4341,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Dividend Recapitalization for Search Funds | Capital Return Strategy",
     ogDescription:
-      "Return capital to investors without selling your company. How dividend recaps work, typical use levels, and risks to consider.",
+      "Return capital to investors without selling your company. How dividend recaps work, typical use levels, and risks to consider. when they make sense. Full guide.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4411,7 +4411,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Sell-Side Earnout Guide | Protecting Your Interests as Seller",
     ogDescription:
-      "Manage earnout negotiations as the seller. Prefer revenue over EBITDA metrics, push for short timelines, and negotiate control provisions to protect your payout.",
+      "Manage earnout negotiations as the seller. Prefer revenue over EBITDA metrics, push for short timelines, and negotiate control provisions to protect. Read more.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4443,7 +4443,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Life After Search Fund Exit | CEO Transition Guide",
     ogDescription:
-      "Manage the identity shift after exiting your search fund company. Post-exit paths: invest, join boards, do another acquisition, build a holding company, or advise.",
+      "Manage the identity shift after exiting your search fund company. Post-exit paths: invest, join boards, do another acquisition, build a holding company.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4476,7 +4476,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "CEO Performance Reviews for Search Funds | Board Governance",
     ogDescription:
-      "Best practices for evaluating search fund CEO performance: a balanced framework with financial (40%), strategic (25%), people (20%), and board relations (15%) criteria.",
+      "Best practices for evaluating search fund CEO performance: a balanced framework with financial (40%), strategic (25%), people (20%), and board relations (15%).",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4580,7 +4580,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Selecting an Investment Banker for Your Exit | M&A Advisor Guide",
     ogDescription:
-      "Choose the right M&A advisor: industry expertise, size fit, fee structures (3-5% success fee), and the 6-9 month sell-side process timeline.",
+      "Choose the right M&A advisor: industry expertise, size fit, fee structures (3-5% success fee), and the 6-9 month sell-side process timeline. Choose the right.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4613,7 +4613,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Government-Backed Loans & Grants for Business Acquisitions",
     ogDescription:
-      "Compare SBA, BDC, KfW, Bpifrance, and British Business Bank programs. Below-market rates, loan guarantees, and reduced equity requirements for business acquisitions.",
+      "Compare SBA, BDC, KfW, Bpifrance, and British Business Bank programs. Below-market rates, loan guarantees, and reduced equity requirements for business.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4679,7 +4679,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Veterinary Practice | Search Fund Guide",
     ogDescription:
-      "The vet practice acquisition opportunity: $140B pet economy, recurring wellness revenue, management company structures, and 5-8x solo vs. 12-18x platform multiples.",
+      "The vet practice acquisition opportunity: $140B pet economy, recurring wellness revenue, management company structures, and 5-8x solo vs. 12-18x platform.",
     datePublished: "2025-06-15",
     dateModified: "2026-04-23",
     sources: [
@@ -4715,7 +4715,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Plumbing Business | Search Fund Industry Guide",
     ogDescription:
-      "The plumbing acquisition opportunity: $130B+ market, high margins, licensing moats, flat-rate pricing optimization, and multi-trade expansion into HVAC and electrical.",
+      "The plumbing acquisition opportunity: $130B+ market, high margins, licensing moats, flat-rate pricing optimization, and multi-trade expansion into HVAC.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4748,7 +4748,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Landscaping Business | Search Fund Industry Guide",
     ogDescription:
-      "The landscaping acquisition opportunity: $130B+ market, recurring maintenance contracts, year-round revenue strategies, and route density optimization for margins.",
+      "The landscaping acquisition opportunity: $130B+ market, recurring maintenance contracts, year-round revenue strategies, and route density optimization.",
     datePublished: "2025-06-15",
     dateModified: "2025-06-15",
     sources: [
@@ -4781,7 +4781,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an IT Services & Consulting Firm - Search Fund Guide",
     ogDescription:
-      "How to evaluate, acquire, and grow IT services companies: MSPs, consulting, cybersecurity, and cloud services.",
+      "How to evaluate, acquire, and grow IT services companies: MSPs, consulting, cybersecurity, and cloud services. A complete guide to acquiring IT services.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -4814,7 +4814,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Vertical SaaS Business - Search Fund Guide",
     ogDescription:
-      "Evaluate vertical SaaS acquisitions: NRR, churn analysis, embedded payments, and growth strategies for industry-specific software.",
+      "Evaluate vertical SaaS acquisitions: NRR, churn analysis, embedded payments, and growth strategies for industry-specific software. How to evaluate and acquire.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -4849,7 +4849,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an Amazon FBA Business - Search Fund Guide",
     ogDescription:
-      "How to evaluate, value, and acquire Amazon FBA brands: Seller Central due diligence, SDE multiples, and growth strategies.",
+      "How to evaluate, value, and acquire Amazon FBA brands: Seller Central due diligence, SDE multiples, and growth strategies. A practical guide to buying Amazon.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -4886,7 +4886,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Property Management Company - Search Fund Guide",
     ogDescription:
-      "How to evaluate and acquire property management firms: recurring revenue, door count metrics, and geographic expansion strategies.",
+      "How to evaluate and acquire property management firms: recurring revenue, door count metrics, and geographic expansion strategies. A guide to acquiring.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -4925,7 +4925,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Logistics & Transportation Company - Search Fund Guide",
     ogDescription:
-      "How to evaluate and acquire logistics businesses: trucking, freight brokerage, 3PL operations, and fleet management strategies.",
+      "How to evaluate and acquire logistics businesses: trucking, freight brokerage, 3PL operations, and fleet management strategies. A guide to acquiring logistics.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -4958,7 +4958,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Construction Company - Search Fund Guide",
     ogDescription:
-      "Evaluate construction acquisitions: backlog analysis, bonding capacity, project profitability, and specialty contractor growth strategies.",
+      "Evaluate construction acquisitions: backlog analysis, bonding capacity, project profitability, and specialty contractor growth strategies. How to acquire.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -4991,7 +4991,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Waste Management & Recycling Business - Search Fund Guide",
     ogDescription:
-      "How to evaluate waste collection businesses: route density, fleet condition, environmental compliance, and roll-up strategies.",
+      "How to evaluate waste collection businesses: route density, fleet condition, environmental compliance, and roll-up strategies. A complete guide to acquiring.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5027,7 +5027,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Distribution & Wholesale Business - Search Fund Guide",
     ogDescription:
-      "Evaluate distribution acquisitions: supplier relationships, inventory management, working capital, and value-added services strategies.",
+      "Evaluate distribution acquisitions: supplier relationships, inventory management, working capital, and value-added services strategies. How to acquire.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5060,7 +5060,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Restaurant or Food Service Business - Search Fund Guide",
     ogDescription:
-      "How to evaluate restaurant acquisitions: unit economics, lease terms, management depth, and multi-unit growth strategies.",
+      "How to evaluate restaurant acquisitions: unit economics, lease terms, management depth, and multi-unit growth strategies. A guide to acquiring restaurants.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5093,7 +5093,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Franchise Business (Multi-Unit) - Search Fund Guide",
     ogDescription:
-      "Evaluate multi-unit franchise acquisitions: franchise agreements, unit economics, development rights, and territory expansion strategies.",
+      "Evaluate multi-unit franchise acquisitions: franchise agreements, unit economics, development rights, and territory expansion strategies. How to acquire.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5126,7 +5126,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Retail Business - Search Fund Guide",
     ogDescription:
-      "Evaluate retail acquisitions: same-store sales, gross margins, lease terms, and omnichannel strategies for specialty and multi-unit retail.",
+      "Evaluate retail acquisitions: same-store sales, gross margins, lease terms, and omnichannel strategies for specialty and multi-unit retail. How to acquire.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5161,7 +5161,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Laundromat or Laundry Services Business - Search Fund Guide",
     ogDescription:
-      "How to evaluate laundromat acquisitions: machine inventory, revenue verification, utility costs, and growth through technology modernization.",
+      "How to evaluate laundromat acquisitions: machine inventory, revenue verification, utility costs, and growth through technology modernization. wash-and-fold.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5196,7 +5196,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Hotel or Hospitality Business - Search Fund Guide",
     ogDescription:
-      "Evaluate hotel acquisitions: RevPAR, ADR, occupancy metrics, franchise PIPs, and revenue management strategies.",
+      "Evaluate hotel acquisitions: RevPAR, ADR, occupancy metrics, franchise PIPs, and revenue management strategies. extended-stay. boutique. And vacation rental.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5233,7 +5233,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Storage or Self-Storage Facility - Search Fund Guide",
     ogDescription:
-      "Evaluate self-storage acquisitions: occupancy metrics, revenue management, new supply risk, and technology modernization strategies.",
+      "Evaluate self-storage acquisitions: occupancy metrics, revenue management, new supply risk, and technology modernization strategies. climate-controlled.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5273,7 +5273,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Recurring Revenue Businesses: The Most Attractive Verticals - ETA Guide",
     ogDescription:
-      "Which industries offer the best recurring revenue for acquisitions? SaaS, MSPs, waste management, insurance, and more ranked by revenue quality.",
+      "Which industries offer the best recurring revenue for acquisitions? SaaS, MSPs, waste management, insurance, and more ranked by revenue quality. And valuation.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5309,7 +5309,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Asset-Light vs. Asset-Heavy Businesses: Acquisition Tradeoffs - ETA Guide",
     ogDescription:
-      "Compare asset-light vs. asset-heavy acquisition targets: margins, barriers, risk profiles, financing, and which model fits your ETA strategy.",
+      "Compare asset-light vs. asset-heavy acquisition targets: margins, barriers, risk profiles, financing, and which model fits your ETA strategy. barriers to entry.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5342,7 +5342,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Law Firm or Legal Services Business - Search Fund Guide",
     ogDescription:
-      "Manage law firm acquisitions: non-attorney ownership rules, MSO structures, practice area selection, and attorney retention strategies.",
+      "Manage law firm acquisitions: non-attorney ownership rules, MSO structures, practice area selection, and attorney retention strategies. How to acquire law.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5379,7 +5379,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Pharmacy Business - Search Fund Guide",
     ogDescription:
-      "Evaluate pharmacy acquisitions: PBM contract terms, generic vs. brand margins, compounding, and clinical services expansion strategies.",
+      "Evaluate pharmacy acquisitions: PBM contract terms, generic vs. brand margins, compounding, and clinical services expansion strategies. A guide to acquiring.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5412,7 +5412,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Med Spa or Aesthetics Business - Search Fund Guide",
     ogDescription:
-      "Evaluate med spa acquisitions: injectable margins, cash-pay economics, MSO structures, and membership program strategies.",
+      "Evaluate med spa acquisitions: injectable margins, cash-pay economics, MSO structures, and membership program strategies. A guide to acquiring med spas.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5445,7 +5445,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Czech Republic & Slovakia - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Czech Republic and Slovakia: succession opportunities, manufacturing, IT, and competitive entry valuations.",
+      "Acquire businesses in Czech Republic and Slovakia: succession opportunities, manufacturing, IT, and competitive entry valuations. How to acquire businesses.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5478,7 +5478,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Greece: Emerging Opportunity - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Greece: family business succession, tourism, food & beverage, and attractive 3-5x EBITDA valuations.",
+      "Acquire businesses in Greece: family business succession, tourism, food & beverage, and attractive 3-5x EBITDA valuations. A guide to acquiring businesses.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5511,7 +5511,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in the Baltics: Estonia, Latvia & Lithuania - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in the Baltics: Estonia's 0% retained earnings tax, Lithuania's fintech hub, and 3-6x EBITDA valuations.",
+      "Acquire businesses in the Baltics: Estonia's 0% retained earnings tax, Lithuania's fintech hub, and 3-6x EBITDA valuations. How to acquire businesses.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5543,7 +5543,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Romania & Bulgaria - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Romania and Bulgaria: 2-5x EBITDA valuations, 10-16% corporate tax, and strong IT and manufacturing sectors.",
+      "Acquire businesses in Romania and Bulgaria: 2-5x EBITDA valuations, 10-16% corporate tax, and strong IT and manufacturing sectors. A guide to acquiring.",
     datePublished: "2025-06-14",
     dateModified: "2026-04-23",
     sources: [
@@ -5575,7 +5575,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Croatia & Slovenia - Search Fund Guide",
     ogDescription:
-      "Acquire businesses in Croatia and Slovenia: tourism, manufacturing, 3-6x EBITDA valuations, and EU/Eurozone membership.",
+      "Acquire businesses in Croatia and Slovenia: tourism, manufacturing, 3-6x EBITDA valuations, and EU/Eurozone membership. How to acquire businesses in Croatia.",
     datePublished: "2025-06-14",
     dateModified: "2025-06-14",
     sources: [
@@ -5606,7 +5606,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Regional",
     category: "Regional Guides",
     ogTitle: "ETA in South Korea - Succession Crisis & Acquisition Opportunities",
-    ogDescription: "South Korea's 3.5M SMEs face a growing succession crisis driven by the world's lowest birth rate and highest inheritance taxes. Learn how to acquire businesses in this emerging ETA market.",
+    ogDescription: "South Korea's 3.5M SMEs face a growing succession crisis driven by the world's lowest birth rate and highest inheritance taxes. Learn how to acquire businesses.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5630,7 +5630,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Regional",
     category: "Regional Guides",
     ogTitle: "ETA in China & Greater China - 50M+ SME Acquisition Opportunities",
-    ogDescription: "China has 50M+ SMEs facing a first-generation succession wave. Explore the regulatory environment, target industries, and strategies for acquiring businesses in Greater China.",
+    ogDescription: "China has 50M+ SMEs facing a first-generation succession wave. Explore the regulatory environment, target industries, and strategies for acquiring businesses.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5654,7 +5654,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Fundraising",
     category: "Fundraising & Investors",
     ogTitle: "Search Fund Investor Ecosystems - Global Directory by Region",
-    ogDescription: "300+ active US investors, growing European networks, and emerging LatAm and Asia-Pacific ecosystems. Manage the global search fund investor market.",
+    ogDescription: "300+ active US investors, growing European networks, and emerging LatAm and Asia-Pacific ecosystems. Manage the global search fund investor market. Full guide.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5701,7 +5701,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Industry",
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Government Contractor - $700B Federal Market",
-    ogDescription: "Government contractors offer multi-year revenue visibility, recession resistance, and 70-85% recompete win rates. Learn how to evaluate and acquire GovCon businesses.",
+    ogDescription: "Government contractors offer multi-year revenue visibility, recession resistance, and 70-85% recompete win rates. Learn how to evaluate and acquire GovCon.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5749,7 +5749,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Acquiring Seasonal Businesses - Cash Flow, Staffing & Growth",
-    ogDescription: "Seasonal businesses can generate excellent returns but require disciplined cash management. Learn valuation, timing, staffing, and year-round revenue strategies.",
+    ogDescription: "Seasonal businesses can generate excellent returns but require disciplined cash management. Learn valuation, timing, staffing, and year-round revenue.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5821,7 +5821,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Comparison",
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Holding Company - Single Asset vs. Portfolio Ownership",
-    ogDescription: "ETA focuses on one company with exit-driven returns. Holding companies build portfolios with cash flow distributions. Compare both ownership models.",
+    ogDescription: "ETA focuses on one company with exit-driven returns. Holding companies build portfolios with cash flow distributions. Compare both ownership models. Full guide.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
@@ -5869,7 +5869,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Investing",
     category: "Investor Comparisons",
     ogTitle: "Diversifying a Search Fund LP Portfolio: Strategy & Allocation",
-    ogDescription: "Build a portfolio of 20-30+ search fund investments across vintages and geographies. Learn allocation, reserve planning, and return expectations.",
+    ogDescription: "Build a portfolio of 20-30+ search fund investments across vintages and geographies. Learn allocation, reserve planning, and return expectations. Full guide.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -5917,7 +5917,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Investing",
     category: "Investor Comparisons",
     ogTitle: "Search Fund Governance - Board Best Practices for Investors",
-    ogDescription: "Effective governance is a top predictor of search fund success. Learn board structure, investor responsibilities, and CEO development best practices.",
+    ogDescription: "Effective governance is a top predictor of search fund success. Learn board structure, investor responsibilities, and CEO development best practices. Read more.",
     datePublished: "2025-06-20",
     dateModified: "2026-04-23",
     sources: [
@@ -6039,7 +6039,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Investing",
     category: "Investor Comparisons",
     ogTitle: "Search Fund Deal Characteristics - What Gets Acquired",
-    ogDescription: "Business services, healthcare, and tech account for 55-65% of search fund acquisitions. Explore financial profiles, valuations, and deal structures.",
+    ogDescription: "Business services, healthcare, and tech account for 55-65% of search fund acquisitions. Explore financial profiles, valuations, and deal structures. Full guide.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6111,7 +6111,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Seller",
     category: "Deal Execution",
     ogTitle: "Employee Communication During Business Sales - Timing & Messaging",
-    ogDescription: "Poor employee communication can kill deals and trigger departures. Learn the right timing, messaging, and format for announcing your business sale.",
+    ogDescription: "Poor employee communication can kill deals and trigger departures. Learn the right timing, messaging, and format for announcing your business sale. Full guide.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6135,7 +6135,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Seller",
     category: "Deal Execution",
     ogTitle: "Life After Selling Your Business - What Comes Next",
-    ogDescription: "Identity loss is the #1 post-sale challenge. Plan your next chapter: angel investing, board service, mentoring, or serial entrepreneurship.",
+    ogDescription: "Identity loss is the #1 post-sale challenge. Plan your next chapter: angel investing, board service, mentoring, or serial entrepreneurship. identity rebuilding.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6183,7 +6183,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Operations",
     category: "Operations & Growth",
     ogTitle: "Post-Acquisition Cybersecurity - Securing Your New Business",
-    ogDescription: "Many SMEs have minimal security. Learn the immediate post-acquisition actions, common gaps, and priority investments to protect your business from cyber threats.",
+    ogDescription: "Many SMEs have minimal security. Learn the immediate post-acquisition actions, common gaps, and priority investments to protect your business from cyber.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6207,7 +6207,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Seller",
     category: "Deal Execution",
     ogTitle: "Strategic vs. Financial Buyers - Exit Path Comparison",
-    ogDescription: "Strategic buyers pay 20-50% premiums but may change your business. Financial buyers preserve independence and culture. Compare both exit paths.",
+    ogDescription: "Strategic buyers pay 20-50% premiums but may change your business. Financial buyers preserve independence and culture. Compare both exit paths. deal certainty.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6231,7 +6231,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Financing",
     category: "Legal & Tax",
     ogTitle: "SBA Loans by State - Acquisition Financing Guide",
-    ogDescription: "SBA 7(a) lending activity varies by state. Find the best SBA lenders, understand state-level factors, and maximize your chances of approval.",
+    ogDescription: "SBA 7(a) lending activity varies by state. Find the best SBA lenders, understand state-level factors, and maximize your chances of approval. Manage the SBA.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6255,7 +6255,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Deal Sourcing",
     category: "Deal Execution",
     ogTitle: "Business Broker Ecosystems by Country - Global Deal Sourcing Guide",
-    ogDescription: "From BizBuySell in the US to Nexxt-Change in Germany and CCI in France. Map the intermediary market and optimize deal sourcing in any market.",
+    ogDescription: "From BizBuySell in the US to Nexxt-Change in Germany and CCI in France. Map the intermediary market and optimize deal sourcing in any market. Map the business.",
     datePublished: "2025-06-20",
     dateModified: "2025-06-20",
     sources: [
@@ -6281,7 +6281,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Employment Law in Business Acquisitions: TUPE, WARN & More",
     ogDescription:
-      "Manage employment law: TUPE automatic transfer (UK/EU), WARN Act (US), benefits handling, works councils, and stock vs. asset deal differences.",
+      "Manage employment law: TUPE automatic transfer (UK/EU), WARN Act (US), benefits handling, works councils, and stock vs. asset deal differences. Asset purchase.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6305,7 +6305,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Intellectual Property Due Diligence & Transfer in M&A",
     ogDescription:
-      "Protect your IP investment: ownership verification, registration status, contractor assignments, open-source risks, and asset vs. stock transfer.",
+      "Protect your IP investment: ownership verification, registration status, contractor assignments, open-source risks, and asset vs. stock transfer. IP ownership.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6332,7 +6332,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Data Privacy (GDPR/CCPA) in Business Acquisitions",
     ogDescription:
-      "Manage data privacy in acquisitions: GDPR due diligence rules, consent transfer, CCPA obligations, and avoiding fines of up to 4% of turnover.",
+      "Manage data privacy in acquisitions: GDPR due diligence rules, consent transfer, CCPA obligations, and avoiding fines of up to 4% of turnover. CCPA compliance.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6357,7 +6357,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Shareholder Agreements for Post-Acquisition Governance",
     ogDescription:
-      "Negotiate your SHA: board composition, reserved matters, drag-along/tag-along, good/bad leaver provisions, and exit planning mechanisms.",
+      "Negotiate your SHA: board composition, reserved matters, drag-along/tag-along, good/bad leaver provisions, and exit planning mechanisms. SHA provisions: board.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -6382,7 +6382,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Real Estate in Business Acquisitions: Buy, Lease & Negotiate",
     ogDescription:
-      "Manage real estate in acquisitions: lease review checklist, buy vs. lease analysis, sale-leaseback, and environmental assessment requirements.",
+      "Manage real estate in acquisitions: lease review checklist, buy vs. lease analysis, sale-leaseback, and environmental assessment requirements. Sale-leaseback.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -6407,7 +6407,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Holding Company Tax Optimization: Parent-Subsidiary Structures",
     ogDescription:
-      "Optimize your acquisition: interest deductibility, participation exemptions (0-100% by country), tax consolidation, and anti-abuse rules.",
+      "Optimize your acquisition: interest deductibility, participation exemptions (0-100% by country), tax consolidation, and anti-abuse rules. Tax consolidation.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6432,7 +6432,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Intégration Fiscale: French Tax Consolidation for Acquisitions",
     ogDescription:
-      "Use intégration fiscale to deduct acquisition debt interest: 95% ownership rule, 5-year commitment, 30% EBITDA cap, and practical setup steps.",
+      "Use intégration fiscale to deduct acquisition debt interest: 95% ownership rule, 5-year commitment, 30% EBITDA cap, and practical setup steps. PLTA mechanics.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6459,7 +6459,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Organschaft: German Tax Consolidation for Acquisitions",
     ogDescription:
-      "Use Organschaft to deduct acquisition debt interest: PLTA requirements, 5-year commitment, Zinsschranke, and step-by-step setup guide.",
+      "Use Organschaft to deduct acquisition debt interest: PLTA requirements, 5-year commitment, Zinsschranke, and step-by-step setup guide. German Organschaft.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6507,7 +6507,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Goodwill Amortization & Tax Deductions by Country",
     ogDescription:
-      "Compare goodwill tax treatment: 15 years (US), 18 years (Italy), 5-10 years (Netherlands), or none (UK/France). Save 5-15% of purchase price.",
+      "Compare goodwill tax treatment: 15 years (US), 18 years (Italy), 5-10 years (Netherlands), or none (UK/France). Save 5-15% of purchase price. Germany (15).",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6534,7 +6534,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SL vs. SA: Spanish Entity Structures for Buyers",
     ogDescription:
-      "Choose the right Spanish entity: SL vs. SA for acquisitions - transfer tax, share classes, ENISA loans, and ICO-backed financing structures.",
+      "Choose the right Spanish entity: SL vs. SA for acquisitions - transfer tax, share classes, ENISA loans, and ICO-backed financing structures. Sociedad Limitada.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -6558,7 +6558,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SRL vs. SPA: Italian Entity Structures for Acquisitions",
     ogDescription:
-      "Choose the right Italian entity: SRL vs. SPA for acquisitions - governance, share classes, €200 flat transfer tax, and PEX participation exemption.",
+      "Choose the right Italian entity: SRL vs. SPA for acquisitions - governance, share classes, €200 flat transfer tax, and PEX participation exemption. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6582,7 +6582,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "BV vs. NV: Dutch Entity Structures for Acquisitions",
     ogDescription:
-      "Structure a Dutch acquisition: BV vs. NV, 100% participation exemption, fiscal unity, innovation box, and Flex-BV governance flexibility.",
+      "Structure a Dutch acquisition: BV vs. NV, 100% participation exemption, fiscal unity, innovation box, and Flex-BV governance flexibility. STAK structures.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6607,7 +6607,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Step-Up in Basis: Tax Benefits for Asset Purchases",
     ogDescription:
-      "Save $50K-$100K+ annually: step-up in basis mechanics, Section 197 amortization, purchase price allocation, and negotiation tactics.",
+      "Save $50K-$100K+ annually: step-up in basis mechanics, Section 197 amortization, purchase price allocation, and negotiation tactics. Section 197 intangibles.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6631,7 +6631,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "338(h)(10) Election: Stock Sale as Asset Sale for Tax",
     ogDescription:
-      "Get asset purchase tax benefits from a stock deal: 338(h)(10) mechanics, S-Corp use case, stepped-up basis, and annual tax savings.",
+      "Get asset purchase tax benefits from a stock deal: 338(h)(10) mechanics, S-Corp use case, stepped-up basis, and annual tax savings. How the 338(h)(10).",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6656,7 +6656,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Acquisition Insurance: R&W, Key Person & D&O",
     ogDescription:
-      "Protect your acquisition: R&W insurance costs, key person coverage for SBA loans, D&O insurance, and when each type makes sense.",
+      "Protect your acquisition: R&W insurance costs, key person coverage for SBA loans, D&O insurance, and when each type makes sense. Representations & Warranties.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6681,7 +6681,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Fundraising & Investors",
     ogTitle: "Revenue-Based Financing for Post-Acquisition Growth",
     ogDescription:
-      "Grow your acquired company with revenue-based financing: how RBF works, key terms, when it beats bank debt, and top providers.",
+      "Grow your acquired company with revenue-based financing: how RBF works, key terms, when it beats bank debt, and top providers. payback multiples. When to use.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6706,7 +6706,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SAS vs. SARL: French Legal Structures for Acquisitions",
     ogDescription:
-      "Choose the right French entity: SAS vs. SARL for acquisitions - transfer taxes, social charges, governance flexibility, and investor compatibility.",
+      "Choose the right French entity: SAS vs. SARL for acquisitions - transfer taxes, social charges, governance flexibility, and investor compatibility. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6730,7 +6730,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "GmbH vs. UG: German Entity Structures for Buyers",
     ogDescription:
-      "Structure a German acquisition: GmbH vs. UG entity choice, notarization requirements, Organschaft tax consolidation, and holding company setup.",
+      "Structure a German acquisition: GmbH vs. UG entity choice, notarization requirements, Organschaft tax consolidation, and holding company setup. GmbH and UG.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6757,7 +6757,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Ltd vs. LLP: UK Entity Structures for Acquisitions",
     ogDescription:
-      "Choose the right UK entity: Ltd vs. LLP for acquisitions - tax treatment, investor compatibility, financing options, and exit planning.",
+      "Choose the right UK entity: Ltd vs. LLP for acquisitions - tax treatment, investor compatibility, financing options, and exit planning. UK Ltd and LLP.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6782,7 +6782,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Deal Execution",
     ogTitle: "The NDA Process: Signing, Managing & Best Practices",
     ogDescription:
-      "Master the NDA process: types, key provisions, negotiation tips, tracking best practices, and common mistakes to avoid.",
+      "Master the NDA process: types, key provisions, negotiation tips, tracking best practices, and common mistakes to avoid. NDA types. key provisions to negotiate.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -6832,7 +6832,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "How to Structure an LBO for Small Business Acquisitions",
     ogDescription:
-      "60-80% debt, 20-40% equity, 1.25x+ DSCR - the complete LBO structuring guide for SME acquisitions with worked examples, value creation levers, and risk analysis.",
+      "60-80% debt, 20-40% equity, 1.25x+ DSCR - the complete LBO structuring guide for SME acquisitions with worked examples, value creation levers, and risk.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -6880,7 +6880,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Tax Optimization for Search Fund Acquisitions - US & Europe",
     ogDescription:
-      "QSBS, Dutreil pact, integration fiscale, asset vs stock - understand the tax strategies that can save you millions on your acquisition.",
+      "QSBS, Dutreil pact, integration fiscale, asset vs stock - understand the tax strategies that can save you millions on your acquisition. Asset vs stock purchase.",
     datePublished: "2024-07-02",
     dateModified: "2025-04-17",
     sources: [
@@ -6905,7 +6905,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Working with Advisors in Search Fund Acquisitions - Lawyers, Accountants & Brokers",
     ogDescription:
-      "Attorney fees ($30-80K), QoE costs ($20-60K), broker commissions (8-12%). Learn when to hire, how to select, and how to manage your advisory team.",
+      "Attorney fees ($30-80K), QoE costs ($20-60K), broker commissions (8-12%). Learn when to hire, how to select, and how to manage your advisory team. typical fees.",
     datePublished: "2024-07-16",
     dateModified: "2025-04-17",
     sources: [
@@ -6930,7 +6930,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Seller Financing for Search Fund Acquisitions - Structures, Terms & Negotiation",
     ogDescription:
-      "Seller notes (2-5 years, 4-6%), subordination agreements, personal guarantees, and creative structures. The complete guide to seller financing.",
+      "Seller notes (2-5 years, 4-6%), subordination agreements, personal guarantees, and creative structures. The complete guide to seller financing. Typical terms.",
     datePublished: "2024-08-01",
     dateModified: "2025-04-17",
     sources: [
@@ -6955,7 +6955,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SPA Key Clauses: What Buyers Must Know About Share Purchase Agreements",
     ogDescription:
-      "Reps & warranties, working capital adjustments, indemnification caps, escrow, non-compete clauses, and disclosure schedules - the 12 SPA clauses every search fund buyer must understand.",
+      "Reps & warranties, working capital adjustments, indemnification caps, escrow, non-compete clauses, and disclosure schedules - the 12 SPA clauses every search.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -6981,7 +6981,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Asset Purchase Agreements (APA): Complete Buyer's Guide",
     ogDescription:
-      "Cherry-pick assets, exclude liabilities, step-up tax basis - the asset purchase agreement guide for search fund and self-funded acquirers. Section 1060 allocation, contract assignment, and more.",
+      "Cherry-pick assets, exclude liabilities, step-up tax basis - the asset purchase agreement guide for search fund and self-funded acquirers. Section 1060.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7034,7 +7034,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Cross-Border Acquisitions: Legal & Tax Guide for Search Fund Buyers",
     ogDescription:
-      "Holding company structures, treaty withholding rates, 2026 NCTI rules, transfer pricing, FDI screening, and worked examples - the complete cross-border acquisition guide for ETA entrepreneurs.",
+      "Holding company structures, treaty withholding rates, 2026 NCTI rules, transfer pricing, FDI screening, and worked examples - the complete cross-border.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7063,7 +7063,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "C-Corp vs. S-Corp vs. LLC for Search Fund Acquisitions",
     ogDescription:
-      "C-Corp for QSBS + institutional investors, S-Corp for pass-through + QBI deduction, LLC for flexibility. Which US entity structure is right for your acquisition?",
+      "C-Corp for QSBS + institutional investors, S-Corp for pass-through + QBI deduction, LLC for flexibility. Which US entity structure is right for. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7087,7 +7087,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Holding Company Structures for ETA Acquisitions",
     ogDescription:
-      "HoldCo + OpCo structure: tax-efficient interest deduction, liability isolation, buy-and-build flexibility. US (Delaware C-Corp), France (SAS), Germany (GmbH), and UK (Ltd) setups explained.",
+      "HoldCo + OpCo structure: tax-efficient interest deduction, liability isolation, buy-and-build flexibility. US (Delaware C-Corp), France (SAS), Germany (GmbH).",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7112,7 +7112,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Dutreil Pact: 75% Tax Exemption on French Business Transfers",
     ogDescription:
-      "The Pacte Dutreil reduces French business transfer taxes by 75%. How the three phases work, ETA scenarios, holding company combinations, and up to €394K savings on a €1M transfer.",
+      "The Pacte Dutreil reduces French business transfer taxes by 75%. How the three phases work, ETA scenarios, holding company combinations, and up to €394K.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7136,7 +7136,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "Leveraged Buyout Mechanics for Small Business Acquisitions",
     ogDescription:
-      "60-80% debt, 3-4.5x leverage, 32% IRR example. How to structure a leveraged buyout for SME acquisitions: capital stack, return drivers, SBA vs. bank vs. mezzanine, and risk management.",
+      "60-80% debt, 3-4.5x leverage, 32% IRR example. How to structure a leveraged buyout for SME acquisitions: capital stack, return drivers, SBA vs. bank vs.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7161,7 +7161,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Legal & Tax",
     ogTitle: "SBA 7(a) Loans for Business Acquisitions: The Complete 2025 Guide",
     ogDescription:
-      "Up to $5M, 10-year terms, 10% down. How to finance a business acquisition with an SBA 7(a) loan - eligibility, the 80/10/10 structure, seller note standby rules, and step-by-step application process.",
+      "Up to $5M, 10-year terms, 10% down. How to finance a business acquisition with an SBA 7(a) loan - eligibility, the 80/10/10 structure, seller note standby.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7240,7 +7240,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Your First 100 Days as Search Fund CEO - A Step-by-Step Playbook",
     ogDescription:
-      "The critical first 100 days after acquiring a company. Learn what to do (and what to avoid) from successful search fund operators.",
+      "The critical first 100 days after acquiring a company. Learn what to do (and what to avoid) from successful search fund operators. What to do in the critical.",
     datePublished: "2024-07-10",
     dateModified: "2025-04-17",
     sources: [
@@ -7266,7 +7266,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Investor Relations & Reporting for Search Fund CEOs",
     ogDescription:
-      "Build trust with your investors through transparent, structured reporting. Templates and best practices for monthly updates and board calls.",
+      "Build trust with your investors through transparent, structured reporting. Templates and best practices for monthly updates and board calls. quarterly calls.",
     datePublished: "2024-07-24",
     dateModified: "2025-04-17",
     sources: [
@@ -7292,7 +7292,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Building an Advisory Board for Your Search Fund Acquisition",
     ogDescription:
-      "Industry experts, ex-operators, functional specialists - learn how to build and compensate an advisory board that drives results.",
+      "Industry experts, ex-operators, functional specialists - learn how to build and compensate an advisory board that drives results. Who to recruit. Full guide.",
     datePublished: "2024-08-07",
     dateModified: "2025-04-17",
     sources: [
@@ -7317,7 +7317,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Buy-and-Build Strategy for Search Fund CEOs - Add-On Acquisitions Guide",
     ogDescription:
-      "Buy at 4x, sell combined at 7-8x. Learn how to source, finance, and integrate add-on acquisitions to build a platform worth multiples more.",
+      "Buy at 4x, sell combined at 7-8x. Learn how to source, finance, and integrate add-on acquisitions to build a platform worth multiples more. Platform vs bolt-on.",
     datePublished: "2024-08-21",
     dateModified: "2025-04-17",
     sources: [
@@ -7341,7 +7341,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Management Transition After Acquisition - Employee Communication Playbook",
     ogDescription:
-      "Day 1 all-hands, retention bonuses, seller transition agreements - the complete playbook for managing the human side of an acquisition.",
+      "Day 1 all-hands, retention bonuses, seller transition agreements - the complete playbook for managing the human side of an acquisition. Pre-announcement.",
     datePublished: "2024-09-04",
     dateModified: "2025-04-17",
     sources: [
@@ -7367,7 +7367,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Board Governance for Search Fund Companies - A CEO's Guide",
     ogDescription:
-      "3-5 board members, monthly meetings year one, effective board packages - master the CEO-board relationship for better decisions and stronger returns.",
+      "3-5 board members, monthly meetings year one, effective board packages - master the CEO-board relationship for better decisions and stronger returns. Read more.",
     datePublished: "2024-09-18",
     dateModified: "2025-04-17",
     sources: [
@@ -7392,7 +7392,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Post-Acquisition Digital Transformation - A Search Fund CEO's Guide",
     ogDescription:
-      "Legacy systems, CRM/ERP, e-commerce channels, data analytics - a realistic playbook for digitizing the SME you just acquired.",
+      "Legacy systems, CRM/ERP, e-commerce channels, data analytics - a realistic playbook for digitizing the SME you just acquired. Legacy system migration.",
     datePublished: "2024-10-02",
     dateModified: "2025-04-17",
     sources: [
@@ -7417,7 +7417,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Revenue Growth Playbook for Search Fund CEOs",
     ogDescription:
-      "Pricing optimization, sales development, cross-selling, channel expansion - the revenue growth playbook for your first year as CEO.",
+      "Pricing optimization, sales development, cross-selling, channel expansion - the revenue growth playbook for your first year as CEO. And a 100-day revenue.",
     datePublished: "2024-10-16",
     dateModified: "2025-04-17",
     sources: [
@@ -7442,7 +7442,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Working Capital Management for Search Fund CEOs",
     ogDescription:
-      "Cash conversion cycle, AR management, inventory turns, supplier terms - master working capital to unlock cash in your acquired business.",
+      "Cash conversion cycle, AR management, inventory turns, supplier terms - master working capital to unlock cash in your acquired business. Accounts receivable.",
     datePublished: "2024-11-01",
     dateModified: "2025-04-17",
     sources: [
@@ -7469,7 +7469,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Building Trust with Inherited Teams After an Acquisition",
     ogDescription:
-      "Your inherited team didn't choose you as boss. First week actions, earning credibility, common CEO mistakes, and retention strategies for the people who make the business work.",
+      "Your inherited team didn't choose you as boss. First week actions, earning credibility, common CEO mistakes, and retention strategies for the people who make.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7494,7 +7494,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Quick Wins in the First 90 Days After Buying a Business",
     ogDescription:
-      "Raise prices 3-8%, re-bid insurance, accelerate collections, optimize Google listing - the quick wins that build credibility and generate cash flow from day one.",
+      "Raise prices 3-8%, re-bid insurance, accelerate collections, optimize Google listing - the quick wins that build credibility and generate cash flow from day.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7517,7 +7517,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Employee Retention After Acquisition: Pre- and Post-Closing Strategies",
     ogDescription:
-      "15-25% of employees leave within year 1 post-acquisition. Retention bonuses, compensation adjustments, career development, and equity programs that keep your best people.",
+      "15-25% of employees leave within year 1 post-acquisition. Retention bonuses, compensation adjustments, career development, and equity programs that keep.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7544,7 +7544,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Pricing Optimization After Acquisition: The #1 EBITDA Lever",
     ogDescription:
-      "A 5% price increase flows 90%+ to EBITDA. Diagnose underpricing, implement tiered increases, communicate effectively, and build pricing discipline in your acquired SME.",
+      "A 5% price increase flows 90%+ to EBITDA. Diagnose underpricing, implement tiered increases, communicate effectively, and build lasting pricing discipline.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7568,7 +7568,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Key Person Risk in Acquisitions: Identify, Assess & Mitigate",
     ogDescription:
-      "Every SME has 2-5 people whose departure would hurt. Revenue-critical, operations-critical, knowledge-critical - how to identify, retain, and cross-train to reduce key person risk.",
+      "Every SME has 2-5 people whose departure would hurt. Revenue-critical, operations-critical, knowledge-critical - how to identify, retain, and cross-train.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7591,7 +7591,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Culture Integration After Acquisition: What to Do (and Avoid)",
     ogDescription:
-      "Culture eats strategy - especially in acquisitions. How to assess the inherited culture, respect what works, introduce changes gradually, and avoid the top culture-killing mistakes.",
+      "Culture eats strategy - especially in acquisitions. How to assess the inherited culture, respect what works, introduce changes gradually, and avoid the top.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7616,7 +7616,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "18-Month Exit Readiness Plan for Search Fund CEOs",
     ogDescription:
-      "The price you get at exit is determined by the 18 months before going to market. Month-by-month plan: audit financials, reduce owner dependency, lock in contracts, and run a dual-track process.",
+      "The price you get at exit is determined by the 18 months before going to market. Month-by-month plan: audit financials, reduce owner dependency, lock.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7641,7 +7641,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Strategic vs. Financial Sale: Which Maximizes Your Exit Value?",
     ogDescription:
-      "Strategic buyers pay 1-3x EBITDA premium for synergies. Financial buyers offer equity rollover and management continuity. Run a dual-track process for the highest price.",
+      "Strategic buyers pay 1-3x EBITDA premium for synergies. Financial buyers offer equity rollover and management continuity. Run a dual-track process here.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7667,7 +7667,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "AI for Small Businesses After Acquisition: Practical Guide",
     ogDescription:
-      "Customer service chatbots, AI lead scoring, automated AP/AR, route optimization, and knowledge management. How search fund CEOs implement AI in acquired SMEs for $500-$3K/month.",
+      "Customer service chatbots, AI lead scoring, automated AP/AR, route optimization, and knowledge management. How search fund CEOs implement AI in acquired SMEs.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -7691,7 +7691,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "ERP Implementation After Acquisition: Practical Guide for Search Fund CEOs",
     ogDescription:
-      "Most acquired SMEs run on spreadsheets. How to evaluate whether you need an ERP, select the right system, manage the implementation, and avoid the 50-75% failure rate.",
+      "Most acquired SMEs run on spreadsheets. How to evaluate whether you need an ERP, select the right system, manage the implementation, and avoid the 50-75%.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7716,7 +7716,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Seller Transition Period: How to Structure a Successful Handover",
     ogDescription:
-      "The seller transition period is one of the highest-stakes phases of any acquisition. Learn how to structure consulting agreements, manage emotional dynamics, and transfer knowledge.",
+      "The seller transition period is one of the highest-stakes phases of any acquisition. Learn how to structure consulting agreements, manage emotional dynamics.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7742,7 +7742,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "KPI Dashboard for Post-Acquisition Management: What to Track and Why",
     ogDescription:
-      "The right KPIs turn a reactive CEO into a proactive one. Learn which financial and operational metrics to track, how to build a dashboard, and how to report to your board.",
+      "The right KPIs turn a reactive CEO into a proactive one. Learn which financial and operational metrics to track, how to build a dashboard, and how to report.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7767,7 +7767,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Employee Equity & Incentive Plans After a Search Fund Acquisition",
     ogDescription:
-      "Retain top talent and align incentives post-acquisition. Learn about phantom equity, stock options, profit sharing, stay bonuses, and the tax implications of each approach.",
+      "Retain top talent and align incentives post-acquisition. Learn about phantom equity, stock options, profit sharing, stay bonuses, and the tax implications.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7792,7 +7792,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Customer Retention After Acquisition: Protecting Your Revenue Base",
     ogDescription:
-      "Customer churn can spike 15-25% after a change of ownership. Learn how to announce the acquisition, identify at-risk accounts, and retain your most valuable customers.",
+      "Customer churn can spike 15-25% after a change of ownership. Learn how to announce the acquisition, identify at-risk accounts, and retain your most valuable.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7892,7 +7892,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Cybersecurity for Acquired Businesses: A CEO's Priority List",
     ogDescription:
-      "43% of cyberattacks target small businesses. Learn how to secure an acquired company - MFA, backup, cyber insurance, employee training, and incident response planning.",
+      "43% of cyberattacks target small businesses. Learn how to secure an acquired company - MFA, backup, cyber insurance, employee training, and incident response.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7917,7 +7917,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Operations & Growth",
     ogTitle: "Culture Change After Acquisition: A Search Fund CEO's Guide",
     ogDescription:
-      "Culture eats strategy for breakfast - especially post-acquisition. Learn how to assess culture, manage resistance, and drive transformation while maintaining employee trust.",
+      "Culture eats strategy for breakfast - especially post-acquisition. Learn how to assess culture, manage resistance, and drive transformation while maintaining.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -7944,7 +7944,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Search Fund Statistics: 681 Funds, 40 Years of Data Analyzed",
     ogDescription:
-      "Every key search fund statistic in one place: 35% IRR, 67% acquisition rate, $8-15M median deal size, 94 new funds in 2023. Stanford + IESE data.",
+      "Every key search fund statistic in one place: 35% IRR, 67% acquisition rate, $8-15M median deal size, 94 new funds in 2023. Stanford + IESE data. Acquisition.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -7969,7 +7969,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Stanford 2024 Search Fund Study: 681 Funds, 35% IRR - What the Data Shows",
     ogDescription:
-      "The most thorough search fund dataset ever: 35% IRR, 4.5x returns, record 94 new funds in 2023. Key takeaways for searchers and investors.",
+      "The most thorough search fund dataset ever: 35% IRR, 4.5x returns, record 94 new funds in 2023. Key takeaways for searchers and investors. A deep dive into.",
     datePublished: "2024-08-12",
     dateModified: "2025-04-17",
     sources: [
@@ -7994,7 +7994,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Search Fund Returns: 35% IRR Over 40 Years - Performance Data & Benchmarks",
     ogDescription:
-      "How do search funds compare to PE and VC? Explore 40 years of return data, acquisition rates, and deal characteristics.",
+      "How do search funds compare to PE and VC? Explore 40 years of return data, acquisition rates, and deal characteristics. Analysis of search fund performance.",
     datePublished: "2024-08-26",
     dateModified: "2025-04-17",
     sources: [
@@ -8019,7 +8019,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Famous Search Fund Success Stories - Lessons from Top Performers",
     ogDescription:
-      "Asurion, EndoChoice, and more - the stories behind search fund exits that returned 10x+. Key decisions, growth strategies, and lessons for searchers.",
+      "Asurion, EndoChoice, and more - the stories behind search fund exits that returned 10x+. Key decisions, growth strategies, and lessons for searchers. Read more.",
     datePublished: "2024-09-09",
     dateModified: "2025-04-17",
     sources: [
@@ -8043,7 +8043,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "European Search Fund Research - IESE & INSEAD Studies Analyzed",
     ogDescription:
-      "European search funds deliver comparable returns to US peers. IESE and INSEAD data on deal sizes, success factors, and the EU growth trajectory.",
+      "European search funds deliver comparable returns to US peers. IESE and INSEAD data on deal sizes, success factors, and the EU growth trajectory. Full guide.",
     datePublished: "2024-10-01",
     dateModified: "2025-04-17",
     sources: [
@@ -8069,7 +8069,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "How to Evaluate a Searcher: Investor Due Diligence Framework",
     ogDescription:
-      "In search fund investing, the entrepreneur IS the investment. Learn the 5-part framework investors use to evaluate searchers: track record, character, grit, acumen, leadership.",
+      "In search fund investing, the entrepreneur IS the investment. Learn the 5-part framework investors use to evaluate searchers: track record, character, grit.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8117,7 +8117,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "The LP's Guide to Search Fund Due Diligence",
     ogDescription:
-      "You're underwriting a person, not a business. A two-stage LP diligence framework: evaluating the searcher, PPM analysis, reference checks, acquisition review, co-investment decisions, and common mistakes.",
+      "You're underwriting a person, not a business. A two-stage LP diligence framework: evaluating the searcher, PPM analysis, reference checks, acquisition review.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-24",
     sources: [
@@ -8144,7 +8144,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Research & Data",
     ogTitle: "Risk Factors in Search Fund Investing: A Complete Guide",
     ogDescription:
-      "33% of search funds lose money. 25-30% never acquire a business. Understand search phase, acquisition, operating, and structural risks - plus how to mitigate them.",
+      "33% of search funds lose money. 25-30% never acquire a business. Understand search phase, acquisition, operating, and structural risks - plus how to mitigate.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8169,7 +8169,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Best Countries to Buy a Business: Data-Driven Ranking for ETA",
     ogDescription:
-      "US, France, UK, Germany, Spain, Canada, Japan - ranked by deal flow, multiples, financing availability, tax incentives, and ETA ecosystem strength.",
+      "US, France, UK, Germany, Spain, Canada, Japan - ranked by deal flow, multiples, financing availability, tax incentives, and ETA ecosystem strength. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8193,7 +8193,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Europe: Why Search Funds Are Booming Across the Continent",
     ogDescription:
-      "23 million SMEs, a massive succession wave, and lower multiples than the US. Discover why Europe is the new frontier for ETA.",
+      "23 million SMEs, a massive succession wave, and lower multiples than the US. Discover why Europe is the new frontier for ETA. With millions of SMEs facing.",
     datePublished: "2024-09-10",
     dateModified: "2026-04-23",
     sources: [
@@ -8221,7 +8221,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in France: The Complete Guide to Acquiring a Business",
     ogDescription:
-      "700,000 businesses changing hands, strong financing options, and a thriving ETA ecosystem. Learn how to acquire a company in France.",
+      "700,000 businesses changing hands, strong financing options, and a thriving ETA ecosystem. Learn how to acquire a company in France. A thorough guide.",
     datePublished: "2024-09-24",
     dateModified: "2025-04-17",
     sources: [
@@ -8246,7 +8246,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Germany: Acquiring Mittelstand Companies - A Complete Guide",
     ogDescription:
-      "190,000 German businesses need successors by 2026. Discover how to tap into the Mittelstand - world-class companies at attractive valuations.",
+      "190,000 German businesses need successors by 2026. Discover how to tap into the Mittelstand - world-class companies at attractive valuations. acquire.",
     datePublished: "2024-10-08",
     dateModified: "2025-04-17",
     sources: [
@@ -8272,7 +8272,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in the UK: Acquiring a Business in Britain - A Complete Guide",
     ogDescription:
-      "5.5 million SMEs, Ltd/LLP structures, British Business Bank financing, and a mature advisory ecosystem. Your guide to ETA in the UK.",
+      "5.5 million SMEs, Ltd/LLP structures, British Business Bank financing, and a mature advisory ecosystem. Your guide to ETA in the UK. UK market dynamics.",
     datePublished: "2024-10-22",
     dateModified: "2026-04-23",
     sources: [
@@ -8298,7 +8298,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Spain & Iberia - The Emerging Search Fund Opportunity",
     ogDescription:
-      "A massive succession crisis, lower multiples, ICO financing, and a nascent but growing ETA ecosystem. Discover the opportunity in Spain and Portugal.",
+      "A massive succession crisis, lower multiples, ICO financing, and a nascent but growing ETA ecosystem. Discover the opportunity in Spain and Portugal. Read more.",
     datePublished: "2024-11-05",
     dateModified: "2026-04-23",
     sources: [
@@ -8324,7 +8324,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in the Nordics: Scandinavia & Finland - Search Fund Guide",
     ogDescription:
-      "High-trust culture, premium SMEs, strong government financing (Vaekstfonden, Almi). Your guide to search fund acquisitions in the Nordic countries.",
+      "High-trust culture, premium SMEs, strong government financing (Vaekstfonden, Almi). Your guide to search fund acquisitions in the Nordic countries. Full guide.",
     datePublished: "2024-11-19",
     dateModified: "2026-04-23",
     sources: [
@@ -8350,7 +8350,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in the Benelux - Netherlands, Belgium & Luxembourg Guide",
     ogDescription:
-      "BV/NV structures, Dutch succession wave, MKB financing, and a thriving SME market. Your guide to search fund acquisitions in the Benelux.",
+      "BV/NV structures, Dutch succession wave, MKB financing, and a thriving SME market. Your guide to search fund acquisitions in the Benelux. The Dutch succession.",
     datePublished: "2024-12-03",
     dateModified: "2025-04-17",
     sources: [
@@ -8376,7 +8376,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Switzerland - Acquiring a Business in the Alpine Market",
     ogDescription:
-      "GmbH/AG structures, cantonal tax competition, the Nachfolge crisis, and world-class SMEs. Your guide to search fund acquisitions in Switzerland.",
+      "GmbH/AG structures, cantonal tax competition, the Nachfolge crisis, and world-class SMEs. Your guide to search fund acquisitions in Switzerland. Cantonal tax.",
     datePublished: "2024-12-17",
     dateModified: "2026-04-23",
     sources: [
@@ -8402,7 +8402,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Italy - Managing the Italian SME Market",
     ogDescription:
-      "4.4 million SMEs, deep family business culture, SRL/SPA structures, and SIMEST financing. Your guide to search fund acquisitions in Italy.",
+      "4.4 million SMEs, deep family business culture, SRL/SPA structures, and SIMEST financing. Your guide to search fund acquisitions in Italy. 4 million Italian.",
     datePublished: "2025-01-07",
     dateModified: "2026-04-23",
     sources: [
@@ -8428,7 +8428,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in the US - The Original Search Fund Market",
     ogDescription:
-      "SBA 7(a), LLC/LP, Stanford/HBS ecosystem, 40+ years of data. The complete guide to search fund acquisitions in the United States.",
+      "SBA 7(a), LLC/LP, Stanford/HBS ecosystem, 40+ years of data. The complete guide to search fund acquisitions in the United States. SBA 7(a) loans. The Stanford.",
     datePublished: "2025-01-21",
     dateModified: "2025-04-17",
     sources: [
@@ -8501,7 +8501,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "KfW Germany: Financing for Mittelstand Business Succession",
     ogDescription:
-      "ERP-Gründerkredit (up to €25M, 50% risk-sharing), ERP-Kapital (€500K subordinated), Bürgschaftsbanken guarantees. How KfW makes German Mittelstand acquisitions accessible.",
+      "ERP-Gründerkredit (up to €25M, 50% risk-sharing), ERP-Kapital (€500K subordinated), Bürgschaftsbanken guarantees. How KfW makes German Mittelstand acquisitions.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8525,7 +8525,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Bpifrance Financing for French Business Acquisitions",
     ogDescription:
-      "Prêt Transmission (up to €1.5M, no collateral), Garantie Transmission (50-70% bank guarantee), prêt d'honneur (interest-free). How Bpifrance makes France one of the best markets for acquirers.",
+      "Prêt Transmission (up to €1.5M, no collateral), Garantie Transmission (50-70% bank guarantee), prêt d'honneur (interest-free). How Bpifrance makes France one.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8548,7 +8548,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "EBITDA Multiples by Country: Where Are Businesses Cheapest?",
     ogDescription:
-      "3x in Japan, 4x in France, 5.5x in the US - compare SME acquisition multiples across 12+ countries and learn what drives the differences.",
+      "3x in Japan, 4x in France, 5.5x in the US - compare SME acquisition multiples across 12+ countries and learn what drives the differences. Country-by-country.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8573,7 +8573,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Government Acquisition Financing Programs: A Global Comparison",
     ogDescription:
-      "10% equity with SBA, 10-15% with Bpifrance, 15-20% with KfW. Compare government acquisition financing across the US, Europe, Canada, and Asia.",
+      "10% equity with SBA, 10-15% with Bpifrance, 15-20% with KfW. Compare government acquisition financing across the US, Europe, Canada, and Asia. SBA (US).",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8596,7 +8596,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Business Succession Crisis by Country: Where the Opportunities Are",
     ogDescription:
-      "2.45M businesses at risk in Japan, 600K in Germany, 4.5M in the US. Map the global succession crisis and find the best ETA markets.",
+      "2.45M businesses at risk in Japan, 600K in Germany, 4.5M in the US. Map the global succession crisis and find the best ETA markets. France. Italy. Canada.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -8622,7 +8622,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Brazil: Acquiring a Business in South America's Largest Market",
     ogDescription:
-      "20M SMEs, 58% without succession plans, 3-5x EBITDA multiples, BNDES financing. Brazil's growing ETA ecosystem and acquisition opportunities.",
+      "20M SMEs, 58% without succession plans, 3-5x EBITDA multiples, BNDES financing. Brazil's growing ETA ecosystem and acquisition opportunities. Legal structures.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8651,7 +8651,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Mexico: The Nearshoring Opportunity",
     ogDescription:
-      "4.9M SMEs, USMCA access, nearshoring boom, 3-5x EBITDA multiples. Mexico's growing ETA ecosystem and acquisition opportunities.",
+      "4.9M SMEs, USMCA access, nearshoring boom, 3-5x EBITDA multiples. Mexico's growing ETA ecosystem and acquisition opportunities. Mexico ETA guide: 4. Full guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8677,7 +8677,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Portugal: Acquiring a Business in the Iberian Hidden Gem",
     ogDescription:
-      "1.3M SMEs, 35%+ owners over 55, 3-5x EBITDA multiples, EU single market access. Portugal's first-mover opportunity for ETA entrepreneurs.",
+      "1.3M SMEs, 35%+ owners over 55, 3-5x EBITDA multiples, EU single market access. Portugal's first-mover opportunity for ETA entrepreneurs. Portugal ETA guide: 1.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -8701,7 +8701,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Australia: Search Fund Guide to 2.5M SMEs",
     ogDescription:
-      "2.5M SMEs, A$3.5T succession wave, 4-6x EBITDA multiples, no search fund competition. How to acquire a business in Australia - legal structures, financing, tax, and target industries.",
+      "2.5M SMEs, A$3.5T succession wave, 4-6x EBITDA multiples, no search fund competition. How to acquire a business in Australia - legal structures, financing, tax.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-24",
     sources: [
@@ -8780,7 +8780,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Poland: Search Fund Guide to Central Europe's Largest Market",
     ogDescription:
-      "2M+ SMEs, EU's 5th largest economy, 200,000+ businesses facing succession. How to acquire a business in Poland - legal structures, financing, taxes, and target industries.",
+      "2M+ SMEs, EU's 5th largest economy, 200,000+ businesses facing succession. How to acquire a business in Poland - legal structures, financing, taxes, and target.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8805,7 +8805,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Singapore & Southeast Asia: The ASEAN Opportunity",
     ogDescription:
-      "280K SMEs in Singapore, 71M+ across ASEAN, no capital gains tax, English-speaking hub. How to acquire a business in Singapore and Southeast Asia.",
+      "280K SMEs in Singapore, 71M+ across ASEAN, no capital gains tax, English-speaking hub. How to acquire a business in Singapore and Southeast Asia. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8830,7 +8830,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in India: Search Fund Guide to the World's Largest SME Market",
     ogDescription:
-      "63M+ MSMEs, $5T economy, massive family business succession wave. How to acquire a business in India - legal structures, FDI rules, financing, taxes, and target industries.",
+      "63M+ MSMEs, $5T economy, massive family business succession wave. How to acquire a business in India - legal structures, FDI rules, financing, and taxes.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8880,7 +8880,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "Cross-Border Acquisitions in Europe: A Search Fund Guide",
     ogDescription:
-      "The EU single market creates unique cross-border acquisition opportunities. Learn how to manage legal, tax, cultural, and operational challenges when searching across European borders.",
+      "The EU single market creates unique cross-border acquisition opportunities. Learn how to manage legal, tax, cultural, and operational challenges when searching.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -8955,7 +8955,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Regional Guides",
     ogTitle: "ETA in Turkey: Europe's Bridge to Asia for Search Fund Entrepreneurs",
     ogDescription:
-      "$900B+ GDP, 3.5M+ SMEs, and a young population. A practical guide to entrepreneurship through acquisition in Turkey.",
+      "$900B+ GDP, 3.5M+ SMEs, and a young population. A practical guide to entrepreneurship through acquisition in Turkey. Search fund market in Turkey - SME.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9032,7 +9032,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Private Equity: Key Differences for Investors",
     ogDescription:
-      "$1-20M ETA vs $100M+ PE, 35% IRR vs 15-20%, step-up equity vs 2/20. Compare every dimension of ETA and PE investing.",
+      "$1-20M ETA vs $100M+ PE, 35% IRR vs 15-20%, step-up equity vs 2/20. Compare every dimension of ETA and PE investing. Deal size. returns. control. hold periods.",
     datePublished: "2024-10-10",
     dateModified: "2026-04-23",
     sources: [
@@ -9057,7 +9057,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Venture Capital: Risk, Returns & Strategy Compared",
     ogDescription:
-      "90% startup failure vs ~33% search fund. Cash flow from day 1 vs years of burn. Compare ETA and VC across every dimension that matters.",
+      "90% startup failure vs ~33% search fund. Cash flow from day 1 vs years of burn. Compare ETA and VC across every dimension that matters. failure rates.",
     datePublished: "2024-10-24",
     dateModified: "2025-04-17",
     sources: [
@@ -9081,7 +9081,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Public Markets & Hedge Funds - An Investor's Comparison",
     ogDescription:
-      "S&P 500 at 10% vs search funds at 35% IRR. Understand the liquidity trade-off, correlation benefits, and portfolio allocation framework.",
+      "S&P 500 at 10% vs search funds at 35% IRR. Understand the liquidity trade-off, correlation benefits, and portfolio allocation framework. alpha generation.",
     datePublished: "2024-11-07",
     dateModified: "2025-04-17",
     sources: [
@@ -9107,7 +9107,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Real Estate Investing - Which Alternative Asset Wins?",
     ogDescription:
-      "Cap rates (5-8%) vs EBITDA multiples (3-6x), 80% LTV vs 50-60% acquisition financing. Compare returns, risk, and tax advantages.",
+      "Cap rates (5-8%) vs EBITDA multiples (3-6x), 80% LTV vs 50-60% acquisition financing. Compare returns, risk, and tax advantages. Cap rates vs EBITDA multiples.",
     datePublished: "2024-12-05",
     dateModified: "2026-04-23",
     sources: [
@@ -9133,7 +9133,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Investor Comparisons",
     ogTitle: "ETA vs. Buying a Franchise: A Deep Comparison",
     ogDescription:
-      "ETA: full autonomy, 35%+ IRR, equity wealth creation. Franchise: proven system, predictable income, limited upside. A complete comparison for aspiring business owners.",
+      "ETA: full autonomy, 35%+ IRR, equity wealth creation. Franchise: proven system, predictable income, limited upside. A complete comparison for aspiring business.",
     datePublished: "2025-04-21",
     dateModified: "2025-04-21",
     sources: [
@@ -9159,7 +9159,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a SaaS Business - The Search Fund Playbook",
     ogDescription:
-      "ARR, churn, NRR, Rule of 40 - master the metrics, valuation, and growth levers for SaaS acquisitions through search funds.",
+      "ARR, churn, NRR, Rule of 40 - master the metrics, valuation, and growth levers for SaaS acquisitions through search funds. Key metrics (ARR — lTV/CAC.",
     datePublished: "2024-11-12",
     dateModified: "2025-04-17",
     sources: [
@@ -9184,7 +9184,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Healthcare Services Business - Search Fund Guide",
     ogDescription:
-      "Medicare, HIPAA, Stark Law, credentialing - manage healthcare regulation and build a defensible platform through ETA.",
+      "Medicare, HIPAA, Stark Law, credentialing - manage healthcare regulation and build a defensible platform through ETA. regulatory environment. Reimbursement.",
     datePublished: "2024-11-26",
     dateModified: "2025-04-17",
     sources: [
@@ -9234,7 +9234,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Professional Services Firm - Search Fund Playbook",
     ogDescription:
-      "Key-person risk, utilization rates, client concentration, partner buyouts - the complete playbook for acquiring professional services firms.",
+      "Key-person risk, utilization rates, client concentration, partner buyouts - the complete playbook for acquiring professional services firms. And building.",
     datePublished: "2024-12-24",
     dateModified: "2025-04-17",
     sources: [
@@ -9259,7 +9259,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Home Services Business - Search Fund Playbook",
     ogDescription:
-      "Route density, technician recruitment, recurring revenue, roll-up economics - the playbook for home services and field services acquisitions.",
+      "Route density, technician recruitment, recurring revenue, roll-up economics - the playbook for home services and field services acquisitions. And operational.",
     datePublished: "2025-01-14",
     dateModified: "2025-04-17",
     sources: [
@@ -9284,7 +9284,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an E-commerce & D2C Brand - Search Fund Guide",
     ogDescription:
-      "Amazon/Shopify DD, CAC trends, supply chain risk, brand defensibility - the complete guide to e-commerce and D2C acquisitions.",
+      "Amazon/Shopify DD, CAC trends, supply chain risk, brand defensibility - the complete guide to e-commerce and D2C acquisitions. Amazon/Shopify due diligence.",
     datePublished: "2025-01-28",
     dateModified: "2025-04-17",
     sources: [
@@ -9309,7 +9309,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an Education & Training Business - Search Fund Guide",
     ogDescription:
-      "B2B vs B2C, accreditation, instructor dependency, digital transformation - the playbook for education and training business acquisitions.",
+      "B2B vs B2C, accreditation, instructor dependency, digital transformation - the playbook for education and training business acquisitions. B2B vs B2C models.",
     datePublished: "2025-02-11",
     dateModified: "2025-04-17",
     sources: [
@@ -9334,7 +9334,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Financial Services or Insurance Business - Search Fund Guide",
     ogDescription:
-      "FCA/BaFin licensing, book-of-business valuation, renewal economics - the complete guide to financial services and insurance acquisitions.",
+      "FCA/BaFin licensing, book-of-business valuation, renewal economics - the complete guide to financial services and insurance acquisitions. compliance frameworks.",
     datePublished: "2025-02-25",
     dateModified: "2025-04-17",
     sources: [
@@ -9359,7 +9359,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an HVAC Business - The Search Fund Playbook",
     ogDescription:
-      "3.5-5.5x EBITDA, 40-60% gross margins on service, $150B+ fragmented market. The complete guide to acquiring and scaling an HVAC business through ETA.",
+      "3.5-5.5x EBITDA, 40-60% gross margins on service, $150B+ fragmented market. The complete guide to acquiring and scaling an HVAC business through ETA. Read more.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9408,7 +9408,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Dental Practice: DSO Model & Acquisition Guide",
     ogDescription:
-      "200,000+ US dental practices, 80% solo/small group, 25-40% EBITDA margins. Valuation, DSO structure, due diligence, and roll-up growth strategies for dental acquisitions.",
+      "200,000+ US dental practices, 80% solo/small group, 25-40% EBITDA margins. Valuation, DSO structure, due diligence, and roll-up growth strategies for dental.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9457,7 +9457,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Industry Selection Framework for Search Funds: Picking Your Vertical",
     ogDescription:
-      "Evaluate and rank industries for ETA using the 8-factor framework: recurring revenue, fragmentation, recession resistance, margins, capital intensity, and exit optionality.",
+      "Evaluate and rank industries for ETA using the 8-factor framework: recurring revenue, fragmentation, recession resistance, margins, capital intensity, and exit.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9486,7 +9486,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Digital Marketing Agency: The ETA Playbook",
     ogDescription:
-      "120,000+ agencies, 60-80% retainer revenue, 3-6x EBITDA. How to evaluate, value, and grow a digital marketing agency acquisition.",
+      "120,000+ agencies, 60-80% retainer revenue, 3-6x EBITDA. How to evaluate, value, and grow a digital marketing agency acquisition. Agency acquisition guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9511,7 +9511,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Pest Control Business: The ETA Playbook",
     ogDescription:
-      "$23B market, 85%+ recurring revenue, route-density economics. How to evaluate, value, and grow a pest control business acquisition.",
+      "$23B market, 85%+ recurring revenue, route-density economics. How to evaluate, value, and grow a pest control business acquisition. Pest control acquisition.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9535,7 +9535,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Roofing Business: The ETA Playbook",
     ogDescription:
-      "$65B market, storm-driven demand, high margins. How to evaluate, value, and grow a roofing business acquisition.",
+      "$65B market, storm-driven demand, high margins. How to evaluate, value, and grow a roofing business acquisition. Roofing contractor acquisition guide.",
     datePublished: "2025-04-21",
     dateModified: "2026-04-23",
     sources: [
@@ -9560,7 +9560,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Cleaning Business: The Complete ETA Playbook",
     ogDescription:
-      "$90B+ market with high fragmentation and recurring revenue. How to evaluate, value, and scale a cleaning business acquisition.",
+      "$90B+ market with high fragmentation and recurring revenue. How to evaluate, value, and scale a cleaning business acquisition. acquire. And grow a commercial.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9635,7 +9635,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an Auto Repair Business: The Complete ETA Playbook",
     ogDescription:
-      "$75B+ essential services market with recession-resistant demand. How to evaluate, value, and scale an auto repair business acquisition.",
+      "$75B+ essential services market with recession-resistant demand. How to evaluate, value, and scale an auto repair business acquisition. acquire. And grow.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9660,7 +9660,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Funeral Home: The Complete ETA Playbook",
     ogDescription:
-      "$20B+ non-cyclical market with high barriers to entry and community-based moats. How to evaluate, value, and grow a funeral home acquisition.",
+      "$20B+ non-cyclical market with high barriers to entry and community-based moats. How to evaluate, value, and grow a funeral home acquisition. acquire.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9686,7 +9686,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Gym or Fitness Business: The Complete ETA Playbook",
     ogDescription:
-      "$35B+ market with recurring membership revenue and real estate upside. How to evaluate, value, and scale a gym or fitness studio acquisition.",
+      "$35B+ market with recurring membership revenue and real estate upside. How to evaluate, value, and scale a gym or fitness studio acquisition. acquire.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9711,7 +9711,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Home Healthcare Business: The Complete ETA Playbook",
     ogDescription:
-      "$150B+ market driven by an aging population. How to evaluate, value, and scale a home healthcare agency acquisition.",
+      "$150B+ market driven by an aging population. How to evaluate, value, and scale a home healthcare agency acquisition. acquire. And grow a home healthcare.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9736,7 +9736,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Car Wash Business: The Complete ETA Playbook",
     ogDescription:
-      "$15B+ market with recurring membership revenue and real estate upside. How to evaluate, value, and scale a car wash business acquisition.",
+      "$15B+ market with recurring membership revenue and real estate upside. How to evaluate, value, and scale a car wash business acquisition. acquire. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9761,7 +9761,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Daycare or Childcare Business: The Complete ETA Playbook",
     ogDescription:
-      "$60B+ essential services market with waitlist demand and community moats. How to evaluate, value, and scale a childcare business acquisition.",
+      "$60B+ essential services market with waitlist demand and community moats. How to evaluate, value, and scale a childcare business acquisition. acquire.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9786,7 +9786,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring a Moving Company: The Complete ETA Playbook",
     ogDescription:
-      "$20B+ market with high fragmentation and essential demand. How to evaluate, value, and scale a moving company acquisition.",
+      "$20B+ market with high fragmentation and essential demand. How to evaluate, value, and scale a moving company acquisition. acquire. And grow a moving company.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9811,7 +9811,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Industry Playbooks",
     ogTitle: "Acquiring an Electrical Contracting Business: ETA Playbook",
     ogDescription:
-      "$200B+ industry with strong recurring revenue from service contracts. How to evaluate, value, and scale an electrical contractor acquisition.",
+      "$200B+ industry with strong recurring revenue from service contracts. How to evaluate, value, and scale an electrical contractor acquisition. acquire.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -9862,7 +9862,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "ETA vs. Startups vs. Franchises - Which Path to Business Ownership?",
     ogDescription:
-      "90% startup failure vs ~15% franchise vs ~33% ETA. Compare risk, returns, capital needs, and lifestyle to find your path.",
+      "90% startup failure vs ~15% franchise vs ~33% ETA. Compare risk, returns, capital needs, and lifestyle to find your path. Risk profiles. capital requirements.",
     datePublished: "2024-12-12",
     dateModified: "2025-04-17",
     sources: [
@@ -9886,7 +9886,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "The Psychology of the Search - Mindset & Resilience for Searchers",
     ogDescription:
-      "50+ NDAs, 5-10 LOIs, 1-2 broken deals before closing. Learn the mental health strategies that keep successful searchers going.",
+      "50+ NDAs, 5-10 LOIs, 1-2 broken deals before closing. Learn the mental health strategies that keep successful searchers going. Dealing with rejection.",
     datePublished: "2025-01-09",
     dateModified: "2025-04-17",
     sources: [
@@ -9911,7 +9911,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "Tools & Technology for Search Fund Entrepreneurs",
     ogDescription:
-      "HubSpot, Pipedrive, DocuSign, Axial, LinkedIn Sales Navigator, ChatGPT - the complete tech stack for every search phase.",
+      "HubSpot, Pipedrive, DocuSign, Axial, LinkedIn Sales Navigator, ChatGPT - the complete tech stack for every search phase. financial modeling. legal docs.",
     datePublished: "2025-01-23",
     dateModified: "2025-04-17",
     sources: [
@@ -9935,7 +9935,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "Pre-Search Preparation - How to Transition Your Career to ETA",
     ogDescription:
-      "6-12 months of preparation separates successful searchers from the rest. Industry thesis, financial runway, skills, and network building.",
+      "6-12 months of preparation separates successful searchers from the rest. Industry thesis, financial runway, skills, and network building. When to start.",
     datePublished: "2025-02-06",
     dateModified: "2025-04-17",
     sources: [
@@ -9960,7 +9960,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "The Search Fund Operating Partner Model: Structure, Equity & Dynamics",
     ogDescription:
-      "Considering a search fund partner? Learn how to structure equity splits, define roles, draft partnership agreements, and avoid the common failure modes of co-searcher relationships.",
+      "Considering a search fund partner? Learn how to structure equity splits, define roles, draft partnership agreements, and avoid the common failure modes.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -9985,7 +9985,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "Search Fund Board Best Practices: A New CEO's Guide",
     ogDescription:
-      "Your board can be your greatest asset or your biggest headache. Learn how to compose, manage, and use a search fund board for maximum value creation.",
+      "Your board can be your greatest asset or your biggest headache. Learn how to compose, manage, and use a search fund board for maximum value creation. materials.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10035,7 +10035,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Searcher Toolkit",
     ogTitle: "Search Fund Deal Flow CRM: Building Your Pipeline System",
     ogDescription:
-      "A structured CRM is the backbone of a successful search. How to set up pipeline stages, automate outreach, track metrics, and manage 1,000+ prospects efficiently.",
+      "A structured CRM is the backbone of a successful search. How to set up pipeline stages, automate outreach, track metrics, and manage 1,000+ prospects.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10061,7 +10061,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Top Search Fund Podcasts to Listen To",
     ogDescription:
-      "Think Like an Owner, Acquiring Minds, How2Exit, The SMB Podcast - the best podcasts for search fund entrepreneurs, investors, and operators.",
+      "Think Like an Owner, Acquiring Minds, How2Exit, The SMB Podcast - the best podcasts for search fund entrepreneurs, investors, and operators. The best ETA.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10086,7 +10086,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "The Best Books on Buying a Business",
     ogDescription:
-      "HBR Guide to Buying a Small Business, Buy Then Build, The ETA Handbook - the must-read books for search fund entrepreneurs and first-time acquirers.",
+      "HBR Guide to Buying a Small Business, Buy Then Build, The ETA Handbook - the must-read books for search fund entrepreneurs and first-time acquirers. Full guide.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10110,7 +10110,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Search Fund Communities & Networks: Where to Connect",
     ogDescription:
-      "SearchFunder, ETA Slack groups, MBA clubs, regional meetups - the complete guide to building your network in the search fund ecosystem.",
+      "SearchFunder, ETA Slack groups, MBA clubs, regional meetups - the complete guide to building your network in the search fund ecosystem. Where to find.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-23",
     sources: [
@@ -10134,7 +10134,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Top MBA Programs for Entrepreneurship Through Acquisition",
     ogDescription:
-      "Stanford GSB, HBS, Booth, INSEAD, IESE - which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems.",
+      "Stanford GSB, HBS, Booth, INSEAD, IESE - which MBA programs produce the most search fund entrepreneurs and have the strongest ETA ecosystems. The best MBA.",
     datePublished: "2025-04-22",
     dateModified: "2026-04-29",
     sources: [
@@ -10159,7 +10159,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Search Fund Case Studies: Lessons from Real Deals",
     ogDescription:
-      "5 detailed case studies from real search fund acquisitions - successes, failures, and the lessons learned at each stage of the ETA journey.",
+      "5 detailed case studies from real search fund acquisitions - successes, failures, and the lessons learned at each stage of the ETA journey. Anonymized case.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10183,7 +10183,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Search Fund Newsletters, Blogs & Media to Follow",
     ogDescription:
-      "Curated list of ETA newsletters, blogs, podcasts, Twitter accounts, and YouTube channels for search fund entrepreneurs and investors.",
+      "Curated list of ETA newsletters, blogs, podcasts, Twitter accounts, and YouTube channels for search fund entrepreneurs and investors. The best ETA newsletters.",
     datePublished: "2025-04-22",
     dateModified: "2025-04-22",
     sources: [
@@ -10208,7 +10208,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "The Essential ETA Reading List for Aspiring Search Fund Entrepreneurs",
     ogDescription:
-      "Stanford studies, INSEAD research, HBR guides, top podcasts, and key conferences. Everything you need to read before launching your search.",
+      "Stanford studies, INSEAD research, HBR guides, top podcasts, and key conferences. Everything you need to read before launching your search. The must-read books.",
     datePublished: "2025-01-15",
     dateModified: "2026-04-23",
     sources: [
@@ -10240,7 +10240,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Due Diligence",
     category: "Deal Execution",
     ogTitle: "Technology Due Diligence: IT Systems, Cybersecurity & Tech Debt Assessment",
-    ogDescription: "Learn how to evaluate IT systems, cybersecurity risks, and technical debt in acquisition targets. Covers infrastructure audits, vendor contracts, and technology risk scoring.",
+    ogDescription: "How to evaluate IT systems, cybersecurity risks, and technical debt in acquisition targets. Covers infrastructure audits, vendor contracts, and scoring.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10262,7 +10262,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Deal Sourcing",
     category: "Deal Execution",
     ogTitle: "Industry-Specific Deal Sourcing: Trade Shows, Associations & Niche Lists",
-    ogDescription: "Discover how to source acquisition targets through industry events, trade associations, niche directories, and sector-specific networks for search fund entrepreneurs.",
+    ogDescription: "Discover how to source acquisition targets through industry events, trade associations, niche directories, and sector-specific networks for search fund.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10285,7 +10285,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Post-Acquisition",
     category: "Operations & Growth",
     ogTitle: "Transition Service Agreements (TSAs): A Complete Guide for Acquirers",
-    ogDescription: "Learn how to structure, negotiate, and manage transition service agreements in business acquisitions. Covers services scope, SLAs, pricing, exit triggers, and common pitfalls.",
+    ogDescription: "Learn how to structure, negotiate, and manage transition service agreements in business acquisitions. Covers services scope, SLAs, pricing, exit triggers.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10307,7 +10307,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Due Diligence",
     category: "Deal Execution",
     ogTitle: "Evaluating Competitive Moats in Acquisition Targets: A Buyer's Framework",
-    ogDescription: "Learn how to identify and assess competitive moats - switching costs, network effects, brand strength, cost advantages, and regulatory barriers - during acquisition due diligence.",
+    ogDescription: "Learn how to identify and assess competitive moats - switching costs, network effects, brand strength, cost advantages, and regulatory barriers - during.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10329,7 +10329,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Fundraising",
     category: "Fundraising & Investors",
     ogTitle: "Institutional Investors in Search Funds: Who They Are & What They Want",
-    ogDescription: "Understand the institutional investors who back search funds - family offices, endowments, and dedicated funds. Learn what they look for, typical terms, and how to build relationships.",
+    ogDescription: "Understand the institutional investors who back search funds - family offices, endowments, and dedicated funds. What they look for, typical terms, and returns.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10351,7 +10351,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Fundraising",
     category: "Fundraising & Investors",
     ogTitle: "How to Run an Effective Investor Meeting for Your Search Fund",
-    ogDescription: "Master the art of search fund investor meetings. Learn how to prepare, structure your pitch, handle tough questions, and follow up effectively to secure commitments.",
+    ogDescription: "Master the art of search fund investor meetings. Learn how to prepare, structure your pitch, handle tough questions, and follow up effectively to secure.",
     datePublished: "2025-04-23",
     dateModified: "2026-04-23",
     sources: [
@@ -10373,7 +10373,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Merger vs. Acquisition: Legal, Tax & Strategic Differences Explained",
-    ogDescription: "Understand the key differences between mergers and acquisitions. Covers legal structures, tax implications, governance changes, and strategic considerations for each approach.",
+    ogDescription: "Understand the key differences between mergers and acquisitions. Covers legal structures, tax implications, governance changes, and strategic considerations.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10397,7 +10397,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "International",
     category: "Regional Guides",
     ogTitle: "Withholding Taxes in Cross-Border Acquisitions: Rates, Treaties & Planning",
-    ogDescription: "Manage withholding taxes in international acquisitions. Covers treaty networks, dividend and interest withholding rates, planning structures, and common compliance pitfalls.",
+    ogDescription: "Manage withholding taxes in international acquisitions. Covers treaty networks, dividend and interest withholding rates, planning structures, and common.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10419,7 +10419,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Exit Planning",
     category: "Deal Execution",
     ogTitle: "Management Buyout (MBO) as an Exit Strategy: Complete Guide",
-    ogDescription: "Learn how management buyouts work as exit strategies. Covers MBO financing, valuation considerations, conflict management, and when an MBO is the right exit path.",
+    ogDescription: "Learn how management buyouts work as exit strategies. Covers MBO financing, valuation considerations, conflict management, and when an MBO is the right exit.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10441,7 +10441,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Deal Sourcing",
     category: "Deal Execution",
     ogTitle: "Geographic Considerations in Acquisition Target Selection",
-    ogDescription: "Understand how geography affects your search fund acquisition strategy. Covers local vs. remote deals, market density analysis, relocation decisions, and regional economic factors.",
+    ogDescription: "Understand how geography affects your search fund acquisition strategy. Covers local vs. remote deals, market density analysis, relocation decisions. Read more.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10465,7 +10465,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "International",
     category: "Regional Guides",
     ogTitle: "Nordic Entity Structures for Search Fund Acquisitions: Sweden, Norway, Denmark & Finland",
-    ogDescription: "Manage Nordic entity structures for business acquisitions. Covers Swedish AB, Norwegian AS, Danish ApS, Finnish Oy, tax regimes, holding structures, and cross-Nordic deals.",
+    ogDescription: "Manage Nordic entity structures for business acquisitions. Covers Swedish AB, Norwegian AS, Danish ApS, Finnish Oy, tax regimes, holding structures. Full guide.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10487,7 +10487,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "International",
     category: "Regional Guides",
     ogTitle: "Swiss Entity Structures for Business Acquisitions: GmbH, AG & Holding Companies",
-    ogDescription: "Manage Swiss entity structures for business acquisitions. Covers GmbH vs AG comparison, cantonal tax differences, holding company benefits, and Swiss-EU regulatory considerations.",
+    ogDescription: "Manage Swiss entity structures for business acquisitions. Covers GmbH vs AG comparison, cantonal tax differences, holding company benefits, and Swiss-EU.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10509,7 +10509,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Transfer Pricing Considerations in Acquisitions: Risks, Compliance & Planning",
-    ogDescription: "Understand transfer pricing risks in M&A transactions. Covers due diligence red flags, OECD arm's length principle, documentation requirements, and post-acquisition restructuring.",
+    ogDescription: "Understand transfer pricing risks in M&A transactions. Covers due diligence red flags, OECD arm's length principle, documentation requirements. Essential guide.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10533,7 +10533,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "International",
     category: "Regional Guides",
     ogTitle: "EU Anti-Tax Avoidance Directives (ATAD): Impact on M&A & Holding Structures",
-    ogDescription: "Learn how EU Anti-Tax Avoidance Directives affect acquisition planning. Covers interest limitation, CFC rules, exit taxation, anti-hybrid rules, and Pillar Two global minimum tax.",
+    ogDescription: "Learn how EU Anti-Tax Avoidance Directives affect acquisition planning. Covers interest limitation, CFC rules, exit taxation, anti-hybrid rules, and Pillar Two.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10557,7 +10557,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "International",
     category: "Regional Guides",
     ogTitle: "Brexit Impact on Cross-Channel Acquisitions Between the UK and EU",
-    ogDescription: "Understand how Brexit affects cross-border acquisitions between the UK and EU. Covers regulatory divergence, trade agreement implications, data transfers, and new opportunities.",
+    ogDescription: "Understand how Brexit affects cross-border acquisitions between the UK and EU. Covers regulatory divergence, trade agreement implications, data transfers.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10579,7 +10579,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Regulatory Approvals & Antitrust Review in M&A: A Complete Guide",
-    ogDescription: "Manage merger control and antitrust review in M&A transactions. Covers HSR filing, EU merger regulation, CMA review, remedies, gun-jumping rules, and foreign investment screening.",
+    ogDescription: "Manage merger control and antitrust review in M&A transactions. Covers HSR filing, EU merger regulation, CMA review, remedies, gun-jumping rules, and foreign.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10601,7 +10601,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Post-Closing Disputes in M&A: Earn-Outs, Indemnities & Resolution Mechanisms",
-    ogDescription: "Manage post-closing M&A disputes. Covers working capital adjustments, earn-out calculation disagreements, indemnification claims, escrow provisions, and dispute resolution strategies.",
+    ogDescription: "Manage post-closing M&A disputes. Covers working capital adjustments, earn-out calculation disagreements, indemnification claims, and escrow provisions.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10623,7 +10623,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Professional Liability Insurance in Business Acquisitions: D&O, E&O & R&W Coverage",
-    ogDescription: "Learn about professional liability insurance in M&A - D&O coverage, errors & omissions, representations & warranties insurance, tail policies, and cost benchmarks.",
+    ogDescription: "Learn about professional liability insurance in M&A - D&O coverage, errors & omissions, representations & warranties insurance, tail policies, and cost.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10645,7 +10645,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Restrictive Covenants in M&A: Non-Competes, Non-Solicits & Enforceability",
-    ogDescription: "Understand restrictive covenants in M&A transactions - non-compete agreements, non-solicitation clauses, confidentiality provisions, enforceability by jurisdiction, and drafting best practices.",
+    ogDescription: "Understand restrictive covenants in M&A transactions - non-compete agreements, non-solicitation clauses, confidentiality provisions, enforceability. Full guide.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10669,7 +10669,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Legal",
     category: "Legal & Tax",
     ogTitle: "Anti-Bribery & Anti-Corruption Compliance in M&A Transactions",
-    ogDescription: "Manage anti-bribery risks in M&A. Covers FCPA, UK Bribery Act, corruption due diligence red flags, successor liability, and building post-acquisition compliance programs.",
+    ogDescription: "Manage anti-bribery risks in M&A. Covers FCPA, UK Bribery Act, corruption due diligence red flags, successor liability, and building post-acquisition.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10691,7 +10691,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Resources",
     category: "Resources",
     ogTitle: "European Business Brokers & M&A Advisors: A Thorough Directory",
-    ogDescription: "Find the right business broker or M&A advisor in Europe. Covers UK, France, Germany, Spain, Benelux, and Nordic markets with fee structures, specializations, and selection criteria.",
+    ogDescription: "Find the right business broker or M&A advisor in Europe. Covers UK, France, Germany, Spain, Benelux, and Nordic markets with fee structures, specializations.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10715,7 +10715,7 @@ export const allArticles: ArticleMeta[] = [
     tag: "Due Diligence",
     category: "Deal Execution",
     ogTitle: "Acquiring a Cybersecurity Firm: Sector-Specific Due Diligence Guide",
-    ogDescription: "Learn how to evaluate cybersecurity companies for acquisition. Covers valuation drivers, IP assessment, SOC 2/ISO 27001 compliance, talent retention, and integration challenges.",
+    ogDescription: "Learn how to evaluate cybersecurity companies for acquisition. Covers valuation drivers, IP assessment, SOC 2/ISO 27001 compliance, talent retention. Read more.",
     datePublished: "2025-04-23",
     dateModified: "2025-04-23",
     sources: [
@@ -10741,7 +10741,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "MBA and ETA: The Complete Guide to Business School",
     ogDescription:
-      "85% of search fund principals hold an MBA. The MBA-ETA connection, history, curriculum advantages, and how to evaluate programs.",
+      "85% of search fund principals hold an MBA. The MBA-ETA connection, history, curriculum advantages, and how to evaluate programs. Why MBAs dominate search funds.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10764,7 +10764,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Best MBA Programs for Search Funds: 2026 Ranking",
     ogDescription:
-      "Ranking the top MBA programs for search funds: Stanford, IESE, HBS, Wharton, Yale, Booth, Kellogg, INSEAD, LBS, IE, and HEC Paris.",
+      "Ranking the top MBA programs for search funds: Stanford, IESE, HBS, Wharton, Yale, Booth, Kellogg, INSEAD, LBS, IE, and HEC Paris. Data-driven ranking of 11.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10787,7 +10787,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "The Real ROI of an MBA for Search Fund Entrepreneurs",
     ogDescription:
-      "Is an MBA worth it for ETA? Cost analysis ($150K–$300K), expected returns (35.1% IRR, 4.5x ROIC), opportunity cost, and break-even scenarios.",
+      "Is an MBA worth it for ETA? Cost analysis ($150K–$300K), expected returns (35.1% IRR, 4.5x ROIC), opportunity cost, and break-even scenarios. 1% IRR and 4.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10812,7 +10812,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "How to Apply to MBA Programs with an ETA Focus",
     ogDescription:
-      "MBA application guide for ETA candidates: program selection, essay positioning, interview prep, and search fund fellowships.",
+      "MBA application guide for ETA candidates: program selection, essay positioning, interview prep, and search fund fellowships. Application strategy for aspiring.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10834,7 +10834,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Pre-MBA Preparation for a Search Fund Career",
     ogDescription:
-      "Maximize your MBA for ETA: skills to build, experiences to gain, and networks to develop in the 12–18 months before business school.",
+      "Maximize your MBA for ETA: skills to build, experiences to gain, and networks to develop in the 12–18 months before business school. How to use the 12–18.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [
@@ -10877,7 +10877,7 @@ export const allArticles: ArticleMeta[] = [
     category: "Resources",
     ogTitle: "Does Your MBA Tier Matter for Search Fund Fundraising?",
     ogDescription:
-      "Does MBA prestige matter for raising a search fund? Investor perspectives, Stanford and IESE data, and strategies for non-Tier-1 grads.",
+      "Does MBA prestige matter for raising a search fund? Investor perspectives, Stanford and IESE data, and strategies for non-Tier-1 grads. Data-driven analysis.",
     datePublished: "2026-04-30",
     dateModified: "2026-04-30",
     sources: [

@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const template = getTemplateBySlug(templateSlug);
   if (!template) return {};
   return {
-    title: `${template.title} | SearchFundMarket`,
+    title: `${template.title} — Free M&A Template`,
     description: template.description,
     alternates: {
       canonical: `${BASE}/${locale}/templates/${templateSlug}`,
