@@ -357,7 +357,7 @@ export default function HarvardBusinessSchoolProfile() {
           If you are comparing conference ecosystems across schools, note that
           Chicago Booth and Kellogg co-host a similarly scaled event, and{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -437,7 +437,7 @@ export default function HarvardBusinessSchoolProfile() {
           is the intellectual home of the search fund model and publishes the
           definitive industry dataset.{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE

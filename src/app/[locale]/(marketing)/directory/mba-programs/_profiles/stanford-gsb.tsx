@@ -410,7 +410,7 @@ export default function StanfordGSBProfile() {
           </Link>{" "}
           and{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE Business School
@@ -530,7 +530,7 @@ export default function StanfordGSBProfile() {
           </li>
           <li>
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile

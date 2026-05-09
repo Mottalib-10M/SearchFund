@@ -297,7 +297,7 @@ export default function LondonBusinessSchoolProfile() {
         <p>
           LBS co-organizes an annual ETA Conference alongside{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -457,7 +457,7 @@ export default function LondonBusinessSchoolProfile() {
           courses, a formal search fund center, and a deeper alumni network of
           searchers should also consider{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -539,7 +539,7 @@ export default function LondonBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile

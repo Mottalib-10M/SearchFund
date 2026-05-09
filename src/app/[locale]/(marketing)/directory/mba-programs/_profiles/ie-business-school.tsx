@@ -64,7 +64,7 @@ export default function IEBusinessSchoolProfile() {
           11 consecutive years, making it one of the earliest European business
           schools to embed search fund education into its MBA curriculum. While{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -364,7 +364,7 @@ export default function IEBusinessSchoolProfile() {
           IE occupies a distinctive position in the European ETA landscape.
           It does not have the research output of{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -542,7 +542,7 @@ export default function IEBusinessSchoolProfile() {
           </li>
           <li>
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile

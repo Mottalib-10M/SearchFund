@@ -154,7 +154,7 @@ export default function BestMbaForSearchFundArticle() {
           Since then, IESE has tracked over 320 international search funds
           and produced more than 60 alumni-led search fund vehicles. See the
           full{" "}
-          <Link href="/directory/mba-programs/iese" className="text-apple-accent hover:underline">
+          <Link href="/directory/mba-programs/iese-business-school" className="text-apple-accent hover:underline">
             IESE profile
           </Link>{" "}
           for more details.

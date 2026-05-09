@@ -133,7 +133,7 @@ export default function HECParisProfile() {
           <li>
             <strong>No dedicated ETA course.</strong> Unlike{" "}
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE
@@ -198,7 +198,7 @@ export default function HECParisProfile() {
           infrastructure, the financial question is not just about tuition but
           about what the tuition buys in terms of ETA-specific resources. At{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -249,7 +249,7 @@ export default function HECParisProfile() {
           HEC is less suitable if you want a school that will actively
           structure your path into a search fund. For that, consider{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -326,7 +326,7 @@ export default function HECParisProfile() {
           </li>
           <li>
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE Business School Profile

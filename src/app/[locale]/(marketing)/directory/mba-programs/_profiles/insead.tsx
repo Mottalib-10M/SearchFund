@@ -232,7 +232,7 @@ export default function INSEADProfile() {
           complements the existing conference calendar that includes events
           organized by{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -279,7 +279,7 @@ export default function INSEADProfile() {
           , which publishes a detailed study with named funds and tracked
           outcomes, or{" "}
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -384,7 +384,7 @@ export default function INSEADProfile() {
         <h3 className={profileH3}>INSEAD vs. IESE</h3>
         <p>
           <Link
-            href="/directory/mba-programs/iese"
+            href="/directory/mba-programs/iese-business-school"
             className="text-apple-accent hover:underline"
           >
             IESE
@@ -548,7 +548,7 @@ export default function INSEADProfile() {
           </li>
           <li>
             <Link
-              href="/directory/mba-programs/iese"
+              href="/directory/mba-programs/iese-business-school"
               className="text-apple-accent hover:underline"
             >
               IESE Business School profile

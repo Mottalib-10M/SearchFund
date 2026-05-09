@@ -368,7 +368,7 @@ export default function MbaAndEtaArticle() {
         </p>
 
         <p>
-          <strong><Link href="/directory/mba-programs/iese" className="text-apple-accent hover:underline">IESE Business School</Link></strong> holds
+          <strong><Link href="/directory/mba-programs/iese-business-school" className="text-apple-accent hover:underline">IESE Business School</Link></strong> holds
           a similar position for international search funds. Since establishing
           its International Search Fund Center in 2011, IESE has built the
           most robust ETA ecosystem outside North America. The center produces
