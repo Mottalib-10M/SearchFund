@@ -392,7 +392,7 @@ export default async function DirectoryEntryPage({ params }: Props) {
 
       {/* Back link */}
       <Link
-        href={`/${locale}/directory/${category}`}
+        href={`/directory/${category}`}
         className="inline-flex items-center gap-1.5 text-sm text-apple-gray-500 hover:text-apple-accent transition-colors mb-8"
       >
         <ArrowLeft className="w-4 h-4" />
@@ -401,12 +401,12 @@ export default async function DirectoryEntryPage({ params }: Props) {
 
       {/* Breadcrumb */}
       <nav className="text-xs text-apple-gray-400 mb-4">
-        <Link href={`/${locale}/directory`} className="hover:text-apple-accent">
+        <Link href="/directory" className="hover:text-apple-accent">
           Directory
         </Link>
         <span className="mx-1.5">/</span>
         <Link
-          href={`/${locale}/directory/${category}`}
+          href={`/directory/${category}`}
           className="hover:text-apple-accent"
         >
           {cat.name}

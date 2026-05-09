@@ -16,7 +16,7 @@ export default function AuthorBox({ locale = "en" }: { locale?: string }) {
           base available.
         </p>
         <Link
-          href={`/${locale}/about/editorial-policy`}
+          href="/about/editorial-policy"
           className="text-sm text-apple-accent hover:underline mt-2 inline-block"
         >
           Read our editorial policy

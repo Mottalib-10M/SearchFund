@@ -67,7 +67,7 @@ export default async function TemplatesPage({ params }: Props) {
         {templates.map((template) => (
           <Link
             key={template.slug}
-            href={`/${locale}/templates/${template.slug}`}
+            href={`/templates/${template.slug}`}
             className="group block rounded-2xl border border-apple-gray-200 p-6 hover:border-apple-accent/30 hover:bg-apple-accent/[0.02] transition-all"
           >
             <div className="flex items-start justify-between">

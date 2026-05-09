@@ -71,7 +71,7 @@ export default async function NewsArticlePage({ params }: Props) {
       />
 
       <nav className="text-sm text-apple-gray-500 mb-6">
-        <Link href={`/${locale}/news`} className="hover:text-apple-accent">
+        <Link href="/news" className="hover:text-apple-accent">
           News
         </Link>
         <span className="mx-2">/</span>
@@ -147,7 +147,7 @@ export default async function NewsArticlePage({ params }: Props) {
               {article.relatedArticles.map((slug) => (
                 <li key={slug}>
                   <Link
-                    href={`/${locale}/learn/${slug}`}
+                    href={`/learn/${slug}`}
                     className="text-sm text-apple-accent hover:underline"
                   >
                     /learn/{slug}

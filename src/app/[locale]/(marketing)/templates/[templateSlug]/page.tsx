@@ -79,7 +79,7 @@ export default async function TemplatePage({ params }: Props) {
 
       {/* Breadcrumbs */}
       <nav className="text-sm text-apple-gray-500 mb-6">
-        <Link href={`/${locale}/templates`} className="hover:text-apple-accent">
+        <Link href="/templates" className="hover:text-apple-accent">
           Templates
         </Link>
         <span className="mx-2">/</span>
@@ -141,7 +141,7 @@ export default async function TemplatePage({ params }: Props) {
               {template.relatedArticles.map((slug) => (
                 <li key={slug}>
                   <Link
-                    href={`/${locale}/learn/${slug}`}
+                    href={`/learn/${slug}`}
                     className="text-sm text-apple-accent hover:underline"
                   >
                     {slug.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())}
@@ -155,7 +155,7 @@ export default async function TemplatePage({ params }: Props) {
         {/* Back link */}
         <div className="mt-10 pt-6 border-t border-apple-gray-100">
           <Link
-            href={`/${locale}/templates`}
+            href="/templates"
             className="text-sm text-apple-accent hover:underline"
           >
             &larr; All templates

@@ -86,7 +86,7 @@ export default async function ToolPage({ params }: Props) {
 
       {/* Breadcrumb */}
       <nav className="text-sm text-apple-gray-500 mb-6">
-        <Link href={`/${locale}/tools`} className="hover:text-apple-accent">
+        <Link href="/tools" className="hover:text-apple-accent">
           Tools
         </Link>
         <span className="mx-2">/</span>
@@ -616,7 +616,7 @@ function ToolFooter({ slug, locale }: { slug: string; locale: string }) {
       {/* Back link */}
       <div>
         <Link
-          href={`/${locale}/tools`}
+          href="/tools"
           className="text-sm text-apple-accent hover:underline"
         >
           &larr; All Tools &amp; Calculators
@@ -635,7 +635,7 @@ function RelatedLinks({ slug, locale }: { slug: string; locale: string }) {
       {links.map((link) => (
         <li key={link.href}>
           <Link
-            href={`/${locale}${link.href}`}
+            href={link.href}
             className="text-sm text-apple-accent hover:underline"
           >
             {link.label}

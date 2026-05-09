@@ -73,7 +73,7 @@ export default async function NewsPage({ params }: Props) {
             </div>
             <h2 className="mt-2">
               <Link
-                href={`/${locale}/news/${article.slug}`}
+                href={`/news/${article.slug}`}
                 className="text-xl font-semibold text-apple-black group-hover:text-apple-accent transition-colors"
               >
                 {article.title}
@@ -83,7 +83,7 @@ export default async function NewsPage({ params }: Props) {
               {article.description}
             </p>
             <Link
-              href={`/${locale}/news/${article.slug}`}
+              href={`/news/${article.slug}`}
               className="inline-block mt-3 text-sm text-apple-accent hover:underline"
             >
               Read more &rarr;

@@ -134,7 +134,7 @@ export default function EntryFilters({
         {filtered.map((entry) => (
           <Link
             key={entry.slug}
-            href={`/${locale}/directory/${categorySlug}/${entry.slug}`}
+            href={`/directory/${categorySlug}/${entry.slug}`}
             className="group flex flex-col justify-between rounded-xl border border-apple-gray-200 p-5 hover:border-apple-accent/30 hover:bg-apple-accent/[0.02] transition-all"
           >
             <div>

@@ -46,7 +46,7 @@ export default async function ToolsPage({ params }: Props) {
         {tools.map((tool) => (
           <Link
             key={tool.slug}
-            href={`/${locale}/tools/${tool.slug}`}
+            href={`/tools/${tool.slug}`}
             className="group block rounded-2xl border border-apple-gray-200 p-6 hover:border-apple-accent/30 hover:bg-apple-accent/[0.02] transition-all"
           >
             <h2 className="text-lg font-semibold text-apple-black group-hover:text-apple-accent transition-colors">

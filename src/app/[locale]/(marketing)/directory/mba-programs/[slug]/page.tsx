@@ -303,7 +303,7 @@ export default async function MbaProgramEntryPage({ params }: Props) {
 
       {/* Back link */}
       <Link
-        href={`/${locale}/directory/mba-programs`}
+        href="/directory/mba-programs"
         className="inline-flex items-center gap-1.5 text-sm text-apple-gray-500 hover:text-apple-accent transition-colors mb-8"
       >
         <ArrowLeft className="w-4 h-4" />
@@ -313,14 +313,14 @@ export default async function MbaProgramEntryPage({ params }: Props) {
       {/* Breadcrumb */}
       <nav className="text-xs text-apple-gray-400 mb-4">
         <Link
-          href={`/${locale}/directory`}
+          href="/directory"
           className="hover:text-apple-accent"
         >
           Directory
         </Link>
         <span className="mx-1.5">/</span>
         <Link
-          href={`/${locale}/directory/mba-programs`}
+          href="/directory/mba-programs"
           className="hover:text-apple-accent"
         >
           MBA Programs

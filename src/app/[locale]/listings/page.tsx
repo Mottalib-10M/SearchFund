@@ -177,7 +177,7 @@ export default async function ListingsPage({ params, searchParams }: Props) {
         <div className="mt-8 flex items-center justify-center gap-2">
           {page > 1 ? (
             <Link
-              href={`/${locale}/listings${pageUrl(page - 1)}`}
+              href={`/listings${pageUrl(page - 1)}`}
               className="inline-flex items-center gap-1 rounded-lg border border-apple-gray-300 px-3 py-2 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
             >
               <ChevronLeft className="h-4 w-4" />
@@ -194,7 +194,7 @@ export default async function ListingsPage({ params, searchParams }: Props) {
 
           {page < totalPages ? (
             <Link
-              href={`/${locale}/listings${pageUrl(page + 1)}`}
+              href={`/listings${pageUrl(page + 1)}`}
               className="inline-flex items-center gap-1 rounded-lg border border-apple-gray-300 px-3 py-2 text-sm text-apple-gray-700 hover:bg-apple-gray-100 transition-colors"
             >
               <ChevronRight className="h-4 w-4" />

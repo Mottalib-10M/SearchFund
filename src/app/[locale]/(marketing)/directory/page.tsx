@@ -81,7 +81,7 @@ export default async function DirectoryHubPage({ params }: Props) {
           return (
             <Link
               key={cat.slug}
-              href={`/${locale}/directory/${cat.slug}`}
+              href={`/directory/${cat.slug}`}
               className="group block rounded-2xl border border-apple-gray-200 p-6 hover:border-apple-accent/30 hover:bg-apple-accent/[0.02] transition-all"
             >
               <div className="flex items-center gap-3 mb-3">

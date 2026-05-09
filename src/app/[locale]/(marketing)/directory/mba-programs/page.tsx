@@ -116,7 +116,7 @@ export default async function MbaProgramsHubPage({ params }: Props) {
 
       {/* Back link */}
       <Link
-        href={`/${locale}/directory`}
+        href="/directory"
         className="inline-flex items-center gap-1.5 text-sm text-apple-gray-500 hover:text-apple-accent transition-colors mb-8"
       >
         <ArrowLeft className="w-4 h-4" />
