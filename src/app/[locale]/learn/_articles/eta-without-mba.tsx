@@ -17,7 +17,7 @@ export default function ETAWithoutMBAArticle() {
       <div className="mb-8 rounded-lg border border-green-200 bg-green-50 p-4">
         <p className="text-sm font-medium text-green-900">
           For a deeper data analysis of non-MBA paths, see our comprehensive guide:{" "}
-          <Link href="/learn/search-fund-without-mba" className="underline hover:text-green-700">
+          <Link href="/learn/eta-without-mba" className="underline hover:text-green-700">
             Search Funds Without an MBA: Data, Paths &amp; Strategies
           </Link>
         </p>

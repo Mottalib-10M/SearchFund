@@ -190,7 +190,7 @@ export default function InternationalVsUSReturnsArticle() {
             markets with fewer buyers. Accurate{" "}
             <Link href="/learn/business-valuation" className="text-apple-accent hover:underline">business valuation</Link>{" "}
             and{" "}
-            <Link href="/learn/ebitda-adjustments" className="text-apple-accent hover:underline">EBITDA adjustment</Link>{" "}
+            <Link href="/learn/adjusted-ebitda" className="text-apple-accent hover:underline">EBITDA adjustment</Link>{" "}
             practices are especially critical when working with less
             standardized financial reporting.
           </li>

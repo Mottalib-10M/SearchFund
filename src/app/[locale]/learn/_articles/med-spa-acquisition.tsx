@@ -371,7 +371,7 @@ export default function MedSpaAcquisitionArticle() {
         </ul>
         <p>
           Financing the first acquisition often involves{" "}
-          <Link href="/learn/sba-7a-loans" className="text-apple-accent hover:underline">
+          <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
             SBA 7(a) loans
           </Link>, which can cover up to 90% of the purchase price for qualifying businesses.
           Subsequent acquisitions can blend SBA debt with{" "}

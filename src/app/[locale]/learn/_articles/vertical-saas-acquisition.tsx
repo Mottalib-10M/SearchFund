@@ -44,7 +44,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           <li>
             <strong>Predictable revenue.</strong> Subscription-based pricing with annual contracts produces
             the kind of cash flow stability that{" "}
-            <Link href="/learn/sba-7a-loans" className="text-apple-accent hover:underline">SBA 7(a) loan</Link>{" "}
+            <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) loan</Link>{" "}
             underwriters and search fund investors want to see.
           </li>
           <li>
@@ -276,7 +276,7 @@ export default function VerticalSaaSAcquisitionArticle() {
           </li>
           <li>
             <strong>Launch a{" "}
-            <Link href="/learn/churn-reduction" className="text-apple-accent hover:underline">churn reduction</Link>{" "}
+            <Link href="/learn/customer-retention-post-acquisition" className="text-apple-accent hover:underline">churn reduction</Link>{" "}
             program.</strong> Implement automated health scoring based on login frequency, feature
             adoption, and support ticket volume. Proactive outreach to at-risk accounts can reduce
             monthly churn by 20-30% within two quarters.

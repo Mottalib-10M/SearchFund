@@ -177,7 +177,7 @@ export default function EBITDAMultiplesByCountryArticle() {
           <Link href="/learn/ebitda-multiples-by-industry" className="text-apple-accent hover:underline">
             EBITDA multiples by industry
           </Link>. For country-specific acquisition guides, see our{" "}
-          <Link href="/learn/category/regional-guides" className="text-apple-accent hover:underline">
+          <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">
             regional guides
           </Link>.
         </p>

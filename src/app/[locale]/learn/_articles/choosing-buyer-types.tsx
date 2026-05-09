@@ -86,7 +86,7 @@ export default function ChoosingBuyerTypesArticle() {
           </Link>{" "}
           varies by buyer type and how to run a competitive process, see our
           dedicated guides on{" "}
-          <Link href="/learn/negotiation-tactics-sellers" className="text-apple-accent hover:underline">
+          <Link href="/learn/negotiation-tactics" className="text-apple-accent hover:underline">
             negotiation tactics for sellers
           </Link>.
         </p>

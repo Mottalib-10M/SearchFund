@@ -382,7 +382,7 @@ export default function ETAvsPrivateEquityArticle() {
           There are no management fees in ETA, whereas PE firms charge 1.5-2%
           annually regardless of performance. For a deeper understanding of ETA
           mechanics, see our guide on{" "}
-          <Link href="/learn/what-is-a-search-fund" className="text-apple-accent hover:underline">what is a search fund</Link>.
+          <Link href="/learn/what-is-eta" className="text-apple-accent hover:underline">what is a search fund</Link>.
         </p>
 
         <h3 className={h3Class}>Do search funds outperform private equity?</h3>

@@ -204,7 +204,7 @@ export default function GovernmentFinancingProgramsGlobalArticle() {
 
         <p>
           For country-specific acquisition guides, see our{" "}
-          <Link href="/learn/category/regional-guides" className="text-apple-accent hover:underline">
+          <Link href="/learn/best-countries-buy-business" className="text-apple-accent hover:underline">
             regional guides
           </Link>. For a complete{" "}
           <Link href="/learn/capital-stack-explained" className="text-apple-accent hover:underline">

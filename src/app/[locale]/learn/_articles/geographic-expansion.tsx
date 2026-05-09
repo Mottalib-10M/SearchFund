@@ -151,7 +151,7 @@ export default function GeographicExpansionArticle() {
         <p>
           You buy an existing business in the target market, gaining instant revenue,
           customers, employees, and local reputation. A{" "}
-          <Link href="/learn/bolt-on-acquisitions" className="text-apple-accent hover:underline">
+          <Link href="/learn/buy-and-build" className="text-apple-accent hover:underline">
             bolt-on acquisition
           </Link>{" "}
           costs more upfront but eliminates the revenue ramp entirely.

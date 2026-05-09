@@ -385,7 +385,7 @@ export default function IndustrySelectionFrameworkArticle() {
           </li>
           <li>
             <strong>Your financing strategy.</strong> If you plan to use{" "}
-            <Link href="/learn/sba-7a-loans" className="text-apple-accent hover:underline">
+            <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">
               SBA 7(a) loans
             </Link>, you need to target industries with stable cash flows and
             tangible assets that satisfy lender requirements. SBA financing

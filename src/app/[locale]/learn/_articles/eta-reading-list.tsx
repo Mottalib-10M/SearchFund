@@ -83,7 +83,7 @@ export default function ETAReadingListArticle() {
           valuation, financing structures, and post-acquisition growth. The book
           is particularly useful for searchers weighing a{" "}
           <Link
-            href="/learn/search-fund-economics"
+            href="/learn/search-fund-returns"
             className="text-apple-accent hover:underline"
           >
             self-funded search versus a traditional fund

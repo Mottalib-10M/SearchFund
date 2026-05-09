@@ -61,7 +61,7 @@ export default function First100DaysFR() {
             objectifs précis&nbsp;: transfert des relations clients et
             fournisseurs clés, passation de la relation bancaire, transmission des
             savoirs tacites. Consultez notre guide sur le{" "}
-            <Link href="/learn/management-transition-plan" className="text-apple-accent hover:underline">
+            <Link href="/learn/management-transition" className="text-apple-accent hover:underline">
               plan de transition managériale
             </Link>{" "}
             pour structurer cette phase.

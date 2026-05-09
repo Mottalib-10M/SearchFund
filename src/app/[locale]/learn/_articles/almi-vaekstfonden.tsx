@@ -67,7 +67,7 @@ export default function AlmiVaekstfondenArticle() {
           <li><strong>Change-of-generation loan:</strong> Specifically designed for business succession, up to &euro;100,000</li>
           <li><strong>Working capital guarantee:</strong> Guarantees for working capital needs post-acquisition</li>
         </ul>
-        <p>Finnvera&apos;s &quot;change-of-generation loan&quot; is one of the few European programs specifically designed for business succession financing. As noted in Finnvera&apos;s own program documentation, these loans can cover up to 80% of the personal equity contribution needed for a business transfer, making them an ideal complement to senior bank debt. This program structure is particularly valuable for first-time acquirers who may lack significant personal capital, a common profile in the <Link href="/learn/self-funded-search" className="text-apple-accent hover:underline">self-funded search</Link> model.</p>
+        <p>Finnvera&apos;s &quot;change-of-generation loan&quot; is one of the few European programs specifically designed for business succession financing. As noted in Finnvera&apos;s own program documentation, these loans can cover up to 80% of the personal equity contribution needed for a business transfer, making them an ideal complement to senior bank debt. This program structure is particularly valuable for first-time acquirers who may lack significant personal capital, a common profile in the <Link href="/learn/self-funded-vs-traditional" className="text-apple-accent hover:underline">self-funded search</Link> model.</p>
       </div>
 
       <h2 className={h2Class}>Typical Nordic Acquisition Structure</h2>

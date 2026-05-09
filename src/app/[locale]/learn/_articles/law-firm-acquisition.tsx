@@ -430,7 +430,7 @@ export default function LawFirmAcquisitionArticle() {
           firm might sell for $1.2M-$1.8M, while a PI firm with a strong case
           pipeline could command a premium. Expect 20-40% of the purchase price to
           be structured as an earnout tied to client retention. Financing options include{" "}
-          <Link href="/learn/sba-7a-loans" className="text-apple-accent hover:underline">SBA 7(a) loans</Link>{" "}
+          <Link href="/learn/sba-7a-loans-complete-guide" className="text-apple-accent hover:underline">SBA 7(a) loans</Link>{" "}
           (if the buyer is acquiring via an MSO or a non-regulated legal services company),
           seller financing (common in attorney-to-attorney transitions), and conventional
           bank debt for larger transactions.
