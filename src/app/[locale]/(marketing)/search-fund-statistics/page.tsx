@@ -31,13 +31,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
     title:
-      "Search Fund Statistics: 35% IRR, 681 Funds (2024 Data)",
+      "Search Fund Statistics 2024: 681 Funds, 35% IRR, 4.5x MOIC",
     description:
-      "681 funds. 35.1% IRR. 4.5x MOIC. Verified data from Stanford GSB, IESE, and Yale SOM. The only search fund stats page you need to bookmark.",
+      "681 funds. 35.1% IRR. 4.5x MOIC. Verified data from Stanford GSB, IESE, and Yale SOM — returns, deal sizes, sectors, and failure rates all in one page.",
     openGraph: {
-      title: "Search Fund Statistics: 35% IRR, 681 Funds (2024 Data)",
+      title: "Search Fund Statistics 2024: 681 Funds, 35% IRR, 4.5x MOIC",
       description:
-        "681 funds. 35.1% IRR. 4.5x MOIC. Verified data from Stanford GSB, IESE, and Yale SOM. The only search fund stats page you need to bookmark.",
+        "681 funds. 35.1% IRR. 4.5x MOIC. Verified data from Stanford GSB, IESE, and Yale SOM — returns, deal sizes, sectors, and failure rates all in one page.",
       type: "website",
     },
     alternates: {

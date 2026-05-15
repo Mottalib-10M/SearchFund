@@ -37,8 +37,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   const total = getTotalEntryCount();
   return {
-    title: `ETA Directory: ${total}+ Investors, Brokers & More`,
-    description: `${total}+ curated resources in one place: investors, MBA programs, brokers, advisors, conferences, podcasts, and books. All vetted for search funds.`,
+    title: `Search Fund Directory: ${total}+ Investors, Brokers & More`,
+    description: `${total}+ curated resources for ETA: investors, MBA programs, brokers, advisors, conferences, podcasts, and books — all vetted for search fund entrepreneurs.`,
     alternates: {
       canonical: `${BASE}/${locale}/directory`,
     },

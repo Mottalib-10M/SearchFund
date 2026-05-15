@@ -1,626 +1,626 @@
 {
   "home": {
     "en": {
-      "title": "The Search Fund Reference Platform: Guides & Tools",
-      "description": "62 free guides backed by Stanford data, financial calculators, and deal templates. Built for searchers, investors, and sellers. Start here."
+      "title": "Search Fund Guide 2026: 62 Free Guides, Tools & Templates",
+      "description": "62 free guides with Stanford data, calculators, deal templates, and investor lists. From fundraising to exit — everything to buy a business through ETA."
     },
     "fr": {
-      "title": "La Plateforme Référente du Search Fund: Guides & Outils",
-      "description": "62 guides gratuits, données Stanford, calculateurs et modèles de deals. Conçu pour searchers, investisseurs et cédants. Votre parcours ETA commence ici."
+      "title": "Guide Search Fund : 62 Guides Gratuits, Outils & Modèles",
+      "description": "62 guides avec données Stanford, calculateurs financiers et modèles de deals. Tout pour lever, chercher, négocier et finaliser votre acquisition via ETA."
     },
     "es": {
-      "title": "La Plataforma de Referencia del Search Fund: Guías y Datos",
-      "description": "62 guías gratis con datos de Stanford, calculadoras financieras y plantillas de deals. Para searchers, inversores y vendedores. Tu camino ETA empieza aquí."
+      "title": "Guía Search Fund: 62 Guías Gratis, Datos y Herramientas",
+      "description": "62 guías con datos de Stanford, calculadoras, plantillas de deals y directorio de inversores. Todo para lanzar, financiar y cerrar tu primera adquisición."
     },
     "it": {
-      "title": "La Piattaforma di Riferimento del Search Fund: Guide e Dati",
-      "description": "62 guide gratuite con dati Stanford, calcolatori finanziari e modelli di deal. Per searcher, investitori e venditori. Il tuo percorso ETA inizia qui."
+      "title": "Guida Search Fund: 62 Guide Gratuite, Strumenti e Modelli",
+      "description": "62 guide con dati Stanford, calcolatori finanziari e modelli di deal. Tutto per lanciare, finanziare e chiudere la tua prima acquisizione via search fund."
     },
     "pt": {
-      "title": "A Plataforma de Referência do Search Fund: Guias e Dados",
-      "description": "62 guias grátis com dados de Stanford, calculadoras financeiras e modelos de deals. Para searchers, investidores e vendedores. Jornada ETA começa aqui."
+      "title": "Guia Search Fund: 62 Guias Grátis, Ferramentas e Modelos",
+      "description": "62 guias com dados Stanford, calculadoras financeiras e modelos de deals. Tudo para lançar, financiar e fechar a sua primeira aquisição via search fund."
     }
   },
   "listings": {
     "en": {
-      "title": "Vetted SME Deals for Search Fund Buyers. No Broker Fees",
-      "description": "Stop scrolling through junk deals. Every listing has verified financials and zero broker fees. Filter by sector, size, and location. Find your target now."
+      "title": "Businesses for Sale: Verified SME Deals, Zero Broker Fees",
+      "description": "Every listing includes verified financials, zero broker fees. Filter by sector, revenue, location, and deal size. Stop scrolling junk — find your target now."
     },
     "fr": {
-      "title": "PME à Reprendre Vérifiées pour Search Funds. Sans Frais",
-      "description": "Arrêtez de perdre du temps sur des deals douteux. Chaque annonce est vérifiée, bilans validés, zéro commission. Filtrez et trouvez votre cible maintenant."
+      "title": "PME à Vendre : Annonces Vérifiées, Zéro Commission",
+      "description": "Chaque annonce inclut des bilans vérifiés et zéro commission de courtier. Filtrez par secteur, chiffre d'affaires et zone. Trouvez votre cible maintenant."
     },
     "es": {
-      "title": "PYMEs Verificadas para Search Funds. Sin Comisiones",
-      "description": "Deja de perder tiempo con deals basura. Cada listing tiene datos verificados y cero comisiones. Filtra por sector, tamaño y ubicación. Encuentra tu PYME."
+      "title": "Empresas en Venta: Deals Verificados, Sin Comisiones",
+      "description": "Cada listing tiene datos financieros verificados y cero comisiones. Filtra por sector, facturación, ubicación y tamaño. Encuentra tu objetivo de compra ya."
     },
     "it": {
-      "title": "PMI Verificate per Search Fund Buyers. Zero Commissioni",
-      "description": "Basta perdere tempo con deal spazzatura. Ogni annuncio ha bilanci verificati e zero commissioni. Filtra per settore, dimensione e zona. Trova il target."
+      "title": "Aziende in Vendita: Annunci Verificati, Zero Commissioni",
+      "description": "Ogni annuncio include bilanci verificati e zero commissioni. Filtra per settore, fatturato, zona e dimensione. Trova il tuo prossimo target di acquisizione."
     },
     "pt": {
-      "title": "PMEs Verificadas para Search Fund Buyers. Sem Comissões",
-      "description": "Pare de perder tempo com maus deals. Cada listing tem dados financeiros verificados e zero comissões. Filtre por sector e dimensão. Encontre o seu alvo."
+      "title": "Empresas à Venda: Deals Verificados, Sem Comissões",
+      "description": "Cada listing tem dados financeiros verificados e zero comissões. Filtre por setor, faturamento, localização e dimensão. Encontre o seu alvo de aquisição agora."
     }
   },
   "about": {
     "en": {
-      "title": "About SearchFundMarket: Our Mission for ETA Entrepreneurs",
-      "description": "Why we built the most complete ETA resource online — and who's behind it. Our story, our standards, and why everyone deserves access to search funds."
+      "title": "Our Mission: Making Search Funds Accessible to Everyone",
+      "description": "Why we built the most complete free ETA resource online — and who is behind it. Our story, our editorial standards, and why search funds should be for everyone."
     },
     "fr": {
-      "title": "À Propos de SearchFundMarket: Notre Mission pour l'ETA",
-      "description": "Pourquoi nous avons créé la ressource ETA la plus complète — et qui se cache derrière. Notre histoire, nos standards et notre vision du search fund."
+      "title": "Notre Mission : Rendre le Search Fund Accessible à Tous",
+      "description": "Pourquoi nous avons créé la ressource ETA la plus complète et gratuite — et qui est derrière. Notre histoire, nos standards et notre vision du search fund."
     },
     "es": {
-      "title": "Sobre SearchFundMarket: Nuestra Misión para el Mundo ETA",
-      "description": "Por qué creamos el recurso ETA más completo del mundo — y quién está detrás. Nuestra historia, estándares y visión del search fund accesible para todos."
+      "title": "Nuestra Misión: Hacer el Search Fund Accesible para Todos",
+      "description": "Por qué creamos el recurso ETA más completo y gratuito del mundo — y quién está detrás. Nuestra historia, estándares y visión del search fund para todos."
     },
     "it": {
-      "title": "Chi Siamo. La Missione di SearchFundMarket nel ETA",
-      "description": "Perché abbiamo creato la risorsa ETA più completa al mondo — e chi c'è dietro. La nostra storia, i nostri standard e la visione del search fund per tutti."
+      "title": "La Nostra Missione: Rendere il Search Fund Per Tutti",
+      "description": "Perché abbiamo creato la risorsa ETA più completa e gratuita al mondo — e chi c'è dietro. La nostra storia, i nostri standard e la visione del search fund."
     },
     "pt": {
-      "title": "Sobre o SearchFundMarket: A Nossa Missão no Mundo do ETA",
-      "description": "Porque criámos o recurso ETA mais completo do mundo — e quem está por trás. A nossa história, os nossos padrões e a visão de search funds para todos."
+      "title": "A Nossa Missão: Tornar o Search Fund Acessível a Todos",
+      "description": "Porque criámos o recurso ETA mais completo e gratuito — e quem está por trás. A nossa história, padrões editoriais e a visão de search funds para todos."
     }
   },
   "contact": {
     "en": {
-      "title": "Contact SearchFundMarket. We Reply Within 24 Hours",
-      "description": "Got a question? We answer every message within 24 hours — no chatbot, real people. Reach out about listings, partnerships, or anything ETA-related."
+      "title": "Contact Us — Questions Answered by Real People in 24h",
+      "description": "Question about search funds, listings, or partnerships? Every message gets a human reply within 24 hours — no chatbot, no form letter. Write us anytime."
     },
     "fr": {
-      "title": "Contactez SearchFundMarket. Réponse Sous 24 Heures",
-      "description": "Une question ? Nous répondons à chaque message sous 24h — pas de chatbot, de vraies personnes. Annonces, partenariats ou ETA en général. On est là."
+      "title": "Contactez-Nous — Une Réponse Humaine Sous 24 Heures",
+      "description": "Une question sur les search funds, les annonces ou un partenariat ? Chaque message reçoit une réponse humaine sous 24h — pas de chatbot. Écrivez-nous."
     },
     "es": {
-      "title": "Contacta SearchFundMarket. Respondemos en 24 Horas",
-      "description": "¿Tienes una pregunta? Respondemos cada mensaje en menos de 24h — sin chatbot, personas reales. Escríbenos sobre listings, alianzas o cualquier tema ETA."
+      "title": "Contáctanos — Respuesta Humana en Menos de 24 Horas",
+      "description": "¿Pregunta sobre search funds, listings o alianzas? Cada mensaje recibe una respuesta humana en menos de 24h — sin chatbot. Escríbenos en cualquier momento."
     },
     "it": {
-      "title": "Contatta SearchFundMarket. Rispondiamo Entro 24 Ore",
-      "description": "Hai una domanda? Rispondiamo a ogni messaggio entro 24 ore — nessun chatbot, persone vere. Scrivici per annunci, partnership o qualsiasi domanda ETA."
+      "title": "Contattaci — Risposta Umana Entro 24 Ore Garantita",
+      "description": "Hai una domanda su search fund, annunci o partnership? Ogni messaggio riceve risposta umana entro 24 ore — nessun chatbot, nessun modulo. Scrivici ora."
     },
     "pt": {
-      "title": "Contacte SearchFundMarket. Resposta em Menos de 24h",
-      "description": "Tem uma pergunta? Respondemos a cada mensagem em menos de 24h — sem chatbot, pessoas reais. Escreva sobre listings, parcerias ou qualquer tema ETA."
+      "title": "Contacte-Nos — Resposta Humana em Menos de 24 Horas",
+      "description": "Tem uma pergunta sobre search funds, listings ou parcerias? Cada mensagem recebe resposta humana em menos de 24h — sem chatbot. Escreva-nos quando quiser."
     }
   },
   "auth/signin": {
     "en": {
-      "title": "Sign In to Your SearchFundMarket Account and Dashboard",
-      "description": "Pick up where you left off. Your listings, messages, and connections are waiting. Magic link login — no password to remember. Sign in now."
+      "title": "Sign In — Access Your ETA Dashboard and Saved Deals",
+      "description": "Your saved listings, messages, and connections are waiting. Magic link login — no password needed. Pick up exactly where you left off on your search journey."
     },
     "fr": {
-      "title": "Connexion à Votre Tableau de Bord SearchFundMarket",
-      "description": "Reprenez là où vous en étiez. Vos annonces, messages et connexions vous attendent. Connexion par lien magique — aucun mot de passe à retenir."
+      "title": "Connexion — Retrouvez Votre Tableau de Bord et Deals",
+      "description": "Vos annonces sauvegardées, messages et connexions vous attendent. Connexion par lien magique — aucun mot de passe à retenir. Reprenez là où vous en étiez."
     },
     "es": {
-      "title": "Inicia Sesión en Tu Panel de SearchFundMarket Ahora",
-      "description": "Retoma donde lo dejaste. Tus listings, mensajes y conexiones te esperan. Login con magic link — sin contraseña que recordar. Inicia sesión ahora."
+      "title": "Iniciar Sesión — Accede a Tu Panel y Deals Guardados",
+      "description": "Tus listings guardados, mensajes y conexiones te esperan. Login con magic link — sin contraseña que recordar. Retoma exactamente donde dejaste tu búsqueda."
     },
     "it": {
-      "title": "Accedi alla Tua Dashboard SearchFundMarket: Login Sicuro",
-      "description": "Riprendi da dove avevi lasciato. I tuoi annunci, messaggi e connessioni ti aspettano. Login con magic link — nessuna password. Accedi ora."
+      "title": "Accedi al Tuo Pannello — Deal Salvati e Messaggi ETA",
+      "description": "I tuoi annunci salvati, messaggi e connessioni ti aspettano. Login con magic link — nessuna password da ricordare. Riprendi esattamente da dove eri rimasto."
     },
     "pt": {
-      "title": "Entre no Seu Painel SearchFundMarket. Login Seguro",
-      "description": "Retome de onde parou. Os seus listings, mensagens e conexões estão à espera. Login por magic link — sem palavra-passe. Entre agora."
+      "title": "Entrar — Aceda ao Seu Painel ETA e Deals Guardados",
+      "description": "Os seus listings guardados, mensagens e conexões estão à espera. Login por magic link — sem palavra-passe. Retome exatamente de onde parou na sua pesquisa."
     }
   },
   "auth/signup": {
     "en": {
-      "title": "Create Your Free Search Fund Account in 30 Seconds",
-      "description": "30 seconds. No credit card. Pick your role — searcher, investor, or seller — and unlock 62 free guides, deal tools, and a worldwide ETA community."
+      "title": "Create a Free Search Fund Account — 30 Seconds, No Card",
+      "description": "Pick your role — searcher, investor, or seller — and unlock 62 free guides, deal tools, and a worldwide ETA community. No credit card, no commitment needed."
     },
     "fr": {
-      "title": "Créez Votre Compte Search Fund Gratuit en 30 Secondes",
-      "description": "30 secondes. Sans carte bancaire. Choisissez votre rôle — repreneur, investisseur ou cédant — et débloquez 62 guides, outils et communauté ETA."
+      "title": "Créez un Compte Search Fund Gratuit — 30s, Sans Carte",
+      "description": "Choisissez votre rôle — repreneur, investisseur ou cédant — et débloquez 62 guides gratuits, outils de deals et communauté ETA mondiale. Aucun engagement."
     },
     "es": {
-      "title": "Crea Tu Cuenta Search Fund Gratis en Solo 30 Segundos",
-      "description": "30 segundos. Sin tarjeta. Elige tu rol — buscador, inversor o vendedor — y desbloquea 62 guías gratis, herramientas y comunidad ETA. Regístrate."
+      "title": "Crea Tu Cuenta Search Fund Gratis — 30s, Sin Tarjeta",
+      "description": "Elige tu rol — buscador, inversor o vendedor — y desbloquea 62 guías gratis, herramientas de deals y comunidad ETA mundial. Sin tarjeta, sin compromiso."
     },
     "it": {
-      "title": "Crea il Tuo Account Search Fund Gratis in 30 Secondi",
-      "description": "30 secondi. Senza carta. Scegli il tuo ruolo — searcher, investitore o venditore — e sblocca 62 guide, strumenti e community ETA. Registrati."
+      "title": "Crea un Account Search Fund Gratis — 30s, Senza Carta",
+      "description": "Scegli il tuo ruolo — searcher, investitore o venditore — e sblocca 62 guide gratuite, strumenti di deal e community ETA mondiale. Nessun impegno richiesto."
     },
     "pt": {
-      "title": "Crie a Sua Conta Search Fund Grátis em 30 Segundos",
-      "description": "30 segundos. Sem cartão. Escolha o seu papel — searcher, investidor ou vendedor — e desbloqueie 62 guias, ferramentas e comunidade ETA."
+      "title": "Crie a Sua Conta Search Fund Grátis — 30s, Sem Cartão",
+      "description": "Escolha o seu papel — searcher, investidor ou vendedor — e desbloqueie 62 guias grátis, ferramentas de deal e comunidade ETA mundial. Sem compromisso algum."
     }
   },
   "learn": {
     "en": {
-      "title": "The Reference Search Fund Library: 62 Free ETA Guides",
-      "description": "From fundraising to exit, every ETA topic covered in plain English. Valuation methods, due diligence checklists, deal sourcing tactics, and playbooks."
+      "title": "62 Free Search Fund Guides: From Fundraising to Exit",
+      "description": "Every ETA topic covered in plain English — valuation methods, due diligence checklists, deal sourcing, cap tables, and post-acquisition playbooks. All free."
     }
   },
   "learn/glossary": {
     "en": {
-      "title": "ETA Glossary: 60+ Search Fund Terms Defined Simply",
-      "description": "Someone dropped \"QoE\" or \"stepped-up carry\" in a meeting and you nodded? 60+ ETA terms explained in plain English — no jargon walls. Search any term."
+      "title": "Search Fund Glossary: 60+ ETA Terms Explained Simply",
+      "description": "QoE, stepped-up carry, SBA 7(a), seller note, earnout — 60+ search fund and ETA terms defined in plain English. No jargon walls. Searchable, always updated."
     }
   },
   "searchers": {
     "en": {
-      "title": "Find Search Fund Entrepreneurs Worldwide. Directory",
-      "description": "Looking for a co-searcher, or just curious who's out there? Browse active search fund entrepreneurs by country, sector, and search type. Connect now."
+      "title": "Search Fund Entrepreneurs Directory: Find a Co-Searcher",
+      "description": "Browse active search fund entrepreneurs worldwide — filter by country, sector, and search type. Find a co-searcher or explore who is actively looking to buy."
     }
   },
   "investors": {
     "en": {
-      "title": "Find Search Fund Investors Worldwide: The ETA Directory",
-      "description": "Stop cold-emailing random investors. Find the ones who actually back search funds. Filter by type, geography, ticket size, and sector. Connect directly."
+      "title": "Search Fund Investor Directory: Find ETA Backers by Type",
+      "description": "Stop cold-emailing random investors. Find the ones who actually back search funds — filter by geography, ticket size, sector, and investment type. Connect now."
     }
   },
   "community": {
     "en": {
-      "title": "ETA Forum: Search Fund Discussions, Deals & Networking",
-      "description": "Tired of generic LinkedIn advice? Real searchers and investors here talk deals, strategy, and hard lessons. No gatekeeping, no spam — just honest talk."
+      "title": "Search Fund Forum: ETA Discussions, Deals & Networking",
+      "description": "Real searchers and investors sharing deals, strategy, and hard lessons. No gatekeeping, no spam — honest discussions about acquisitions, fundraising, and ETA."
     }
   },
   "about/editorial-policy": {
     "en": {
-      "title": "Our Editorial Policy: How We Research & Fact-Check ETA",
-      "description": "We don't publish opinions disguised as facts. Every article goes through research, fact-checking, and editorial review. Here's how our process works."
+      "title": "Editorial Policy: How We Research & Fact-Check Every Guide",
+      "description": "No opinions disguised as facts. Every article goes through research, fact-checking, and editorial review. Our full process — sources, standards, and updates."
     }
   },
   "privacy": {
     "en": {
-      "title": "Privacy Policy: How SearchFundMarket Protects Your Data",
-      "description": "Your data is yours. Here's exactly how we collect, use, and protect it on SearchFundMarket — fully GDPR compliant. Read the complete policy here."
+      "title": "Privacy Policy — GDPR Compliant Data Protection Rules",
+      "description": "Exactly how we collect, use, and protect your data — fully GDPR compliant. No data selling, no hidden trackers. Read the full policy on data handling here."
     }
   },
   "terms": {
     "en": {
-      "title": "Terms of Service: SearchFundMarket Platform Rules & Rights",
-      "description": "The rules of the game. What you can do, what we promise, and how it all works on SearchFundMarket — marketplace, forum, tools, everything. Read first."
+      "title": "Terms of Service — Platform Rules, Rights & Usage Policy",
+      "description": "What you can do, what we promise, and how everything works — marketplace, forum, tools, listings, and content. Read our complete terms before getting started."
     }
   },
   "learn/category/getting-started": {
     "en": {
       "title": "Getting Started with Search Funds: 4 Free Beginner Guides",
-      "description": "Never heard of search funds before last week? These 4 guides take you from zero to \"I get it\" — the model, the economics, and whether it's for you."
+      "description": "New to search funds? These 4 guides explain the model, the economics, who it is for, and how to decide if ETA is the right path. Go from zero to confident."
     }
   },
   "learn/category/fundraising-investors": {
     "en": {
-      "title": "Search Fund Fundraising: 5 Guides to Win Investors",
-      "description": "Your PPM, your deck, your pitch, your cap table. 5 guides that show you exactly how to raise money for your search fund. No MBA jargon, just what works."
+      "title": "Search Fund Fundraising: 5 Guides to Raise Capital Fast",
+      "description": "Your PPM, your deck, your pitch, your cap table — 5 step-by-step guides to raise money for your search fund. Real investor expectations, not MBA theory."
     }
   },
   "learn/category/deal-execution": {
     "en": {
-      "title": "Deal Execution: 7 Guides from Deal Sourcing to Closing",
-      "description": "You found a target. Now what? 7 guides covering sourcing, valuation, QoE, LOI, due diligence, negotiation, and closing. Don't skip any of these."
+      "title": "Deal Execution: 7 Guides from Sourcing to Closing an SME",
+      "description": "Sourcing, valuation, QoE, LOI, due diligence, negotiation, and closing — 7 detailed guides covering every step to buy a small business. Skip none of them."
     }
   },
   "learn/category/legal-tax": {
     "en": {
-      "title": "Search Fund Legal & Tax: 5 Essential Structure Guides",
-      "description": "LLC or C-Corp? SBA or seller note? The wrong choice costs real money. 5 guides on the legal and tax decisions you can't afford to get wrong. Read first."
+      "title": "Search Fund Legal & Tax: 5 Guides on Structure & Savings",
+      "description": "LLC or C-Corp? SBA or seller note? Asset vs stock deal? 5 guides on the legal and tax decisions that determine how much you keep — and how much you lose."
     }
   },
   "learn/category/operations-growth": {
     "en": {
-      "title": "Post-Acquisition CEO Playbook: 9 Operations Guides",
-      "description": "You signed the deal — congrats. Now the hard part starts. 9 playbooks for your first 100 days, board management, revenue growth, and scaling."
+      "title": "Post-Acquisition Operations: 9 CEO Playbooks After Close",
+      "description": "You signed the deal — now run the company. 9 playbooks for your first 100 days, board management, revenue growth, digital transformation, and team building."
     }
   },
   "learn/category/research-data": {
     "en": {
-      "title": "Search Fund Data & Returns: Stanford 2024 + IESE Research",
-      "description": "Everyone quotes \"35% IRR\" but few have read the actual studies. 4 articles breaking down Stanford, IESE, and INSEAD data — what it really says and doesn't."
+      "title": "Search Fund Data & Returns: Stanford, IESE & Yale Studies",
+      "description": "Everyone quotes 35% IRR — few have read the actual studies. 4 articles breaking down Stanford, IESE, and INSEAD research. What the data really says and hides."
     }
   },
   "learn/category/regional-guides": {
     "en": {
       "title": "Search Funds by Country: 10 Regional ETA Market Guides",
-      "description": "ETA doesn't work the same in every country. Legal frameworks, tax regimes, and deal flow. 10 guides for France, Germany, UK, Spain, Nordics, and 5 more."
+      "description": "ETA works differently in every country. Legal frameworks, tax regimes, deal flow, and financing. 10 guides for the US, UK, France, Germany, Nordics, and more."
     }
   },
   "learn/category/investor-comparisons": {
     "en": {
-      "title": "Search Funds vs PE, VC, Real Estate: Full Comparison",
-      "description": "Your friend says PE is better. Your professor says VC. Your uncle says real estate. Here's what the data actually says. 5 honest, side-by-side comparisons."
+      "title": "Search Funds vs PE, VC, Real Estate & Stocks: Compared",
+      "description": "PE, VC, real estate, public markets — everyone has an opinion on the best investment. Here is what the data actually says. 5 honest, side-by-side comparisons."
     }
   },
   "learn/category/industry-playbooks": {
     "en": {
       "title": "Industry Playbooks: 8 Sector-Specific Acquisition Guides",
-      "description": "Acquiring a SaaS company is nothing like buying a plumbing business. 8 sector playbooks — SaaS, healthcare, manufacturing, services, and 4 more industries."
+      "description": "SaaS, healthcare, manufacturing, home services, e-commerce, education, financial services, and professional services — 8 playbooks tailored to each industry."
     }
   },
   "learn/category/searcher-toolkit": {
     "en": {
-      "title": "Searcher Toolkit: 4 Essential Guides Before You Start",
-      "description": "Don't start your search unprepared. The mindset, the tools, the career prep, and the tech stack you need to launch strong. 4 guides that save you months."
+      "title": "Searcher Toolkit: 4 Guides to Prepare Before You Start",
+      "description": "Mindset, tech stack, career preparation, and the best books and podcasts — 4 guides that save you months of trial and error before launching your search fund."
     }
   },
   "learn/category/resources": {
     "en": {
       "title": "Best ETA Books, Podcasts & Communities for Searchers 2026",
-      "description": "What should you read first? Which podcast is worth your time? The books, pods, and communities that experienced searchers recommend. Curated for 2026."
+      "description": "Which book to read first? Which podcast matters? The books, podcasts, newsletters, and communities that experienced search fund entrepreneurs actually use."
     }
   },
   "learn/getting-started": {
     "en": {
-      "title": "What Is a Search Fund? Complete Guide to Buy a Business",
-      "description": "Search funds have returned 35% IRR over 40 years — and most people have never heard of them. Here's how the model works, start to finish."
+      "title": "What Is a Search Fund? Complete Guide to Buying a Business",
+      "description": "Search funds have returned 35% IRR over 40 years — most people never heard of them. How the model works from raising capital to closing your first deal."
     }
   },
   "learn/self-funded-vs-traditional": {
     "en": {
-      "title": "Self-Funded vs Traditional Search Fund. Which Fits?",
-      "description": "One gives you full control but no salary. The other comes with investors and a paycheck. The economics, the trade-offs, and how to pick the right one."
+      "title": "Self-Funded vs Traditional Search Fund: Which One Fits?",
+      "description": "One gives you full control but no salary. The other comes with investors and a paycheck. Economics, trade-offs, and how to pick the model that matches you."
     }
   },
   "learn/why-invest-in-search-funds": {
     "en": {
-      "title": "Why Invest in Search Funds? 35% IRR Exposed Over 40 Years",
-      "description": "35% IRR. 4.5x ROIC. Over four decades. Here's why smart institutional investors are quietly pouring money into search funds — and whether you should too."
+      "title": "Why Invest in Search Funds? 35% IRR Over 40 Years of Data",
+      "description": "35% IRR. 4.5x ROIC. Four decades of track record. Why institutional investors are quietly backing search funds — and whether you should join them right now."
     }
   },
   "learn/women-in-eta": {
     "en": {
       "title": "Women in Search Funds: Performance Data, Trends & Networks",
-      "description": "Women and diverse founders are reshaping ETA — and the data shows they perform. Representation numbers, success rates, and the networks that matter most."
+      "description": "Women and diverse founders are reshaping ETA — and the data shows strong results. Representation numbers, success rates, and the networks driving the change."
     }
   },
   "learn/writing-a-ppm": {
     "en": {
-      "title": "How to Write a PPM That Wins Search Fund Investors",
-      "description": "Your PPM is the first thing investors read — and the last thing most searchers spend time on. The exact structure, language, and mistakes that kill deals."
+      "title": "How to Write a Search Fund PPM That Wins Over Investors",
+      "description": "Your PPM is the first thing investors read. The exact structure, the right language, common mistakes, and a proven format that gets you to the next meeting."
     }
   },
   "learn/fundraising-deck": {
     "en": {
-      "title": "Search Fund Fundraising Deck. Slide-by-Slide Guide",
-      "description": "Investors flip through hundreds of decks. Most are forgotten in seconds. Here's the slide-by-slide formula that actually gets you a second meeting."
+      "title": "Search Fund Fundraising Deck: Slide-by-Slide Breakdown",
+      "description": "Investors flip through hundreds of decks — most are forgotten in seconds. The slide-by-slide formula that actually gets you a second meeting with ETA backers."
     }
   },
   "learn/finding-investors": {
     "en": {
       "title": "How to Find Search Fund Investors: The Complete Playbook",
-      "description": "Where to find them, how to approach them, and what to say in the room. The full playbook for getting search fund investors to say yes. Stop guessing."
+      "description": "Where to find them, how to approach them, what to say in the room. The full playbook for getting search fund investors to commit capital. Stop cold-emailing."
     }
   },
   "learn/cap-tables-equity": {
     "en": {
       "title": "Search Fund Cap Tables & Equity Splits: The Real Math",
-      "description": "Who owns what — and when does it change? Cap tables, equity splits, stepped-up carry, and dilution from fundraise to exit. Real numbers, not just theory."
+      "description": "Who owns what — and when does it change? Cap tables, equity splits, stepped-up carry, and dilution scenarios from fundraise to exit. Real numbers, not theory."
     }
   },
   "learn/searcher-compensation": {
     "en": {
-      "title": "Searcher Compensation: Salary, Equity & Carry Explained",
-      "description": "How much do searchers actually make? Salary during search, equity at acquisition, carry at exit — the real benchmarks so you can negotiate with confidence."
+      "title": "Searcher Compensation: Salary, Equity & Carry Breakdown",
+      "description": "How much do searchers actually earn? Salary during search, equity at acquisition, carry at exit — the real benchmarks so you negotiate from a position of data."
     }
   },
   "learn/letter-of-intent": {
     "en": {
-      "title": "Letter of Intent (LOI): How to Draft & Negotiate It",
-      "description": "A bad LOI can kill your deal or cost you months. The key terms to get right — exclusivity, contingencies, and price — and how to keep your seller engaged."
+      "title": "Letter of Intent (LOI) for Acquisitions: Draft & Negotiate",
+      "description": "A bad LOI can kill your deal or cost you months. The key terms to get right — exclusivity, contingencies, price — and how to keep sellers engaged throughout."
     }
   },
   "learn/due-diligence-checklist": {
     "en": {
-      "title": "Due Diligence Checklist for SME Acquisitions: Full List",
-      "description": "Miss one item and the deal blows up post-close. Every financial, legal, operational, and commercial check you need before you sign. Get the full list."
+      "title": "Due Diligence Checklist for SME Acquisitions: Full Guide",
+      "description": "Miss one item and the deal blows up post-close. Every financial, legal, operational, and commercial check you need before signing. Get the full checklist here."
     }
   },
   "learn/business-valuation": {
     "en": {
-      "title": "How to Value a Small Business for Acquisition: 4 Methods",
-      "description": "Overpay and you're underwater for years. Lowball and you lose the deal. EBITDA multiples, DCF, comps, and asset-based — four methods with real examples."
+      "title": "How to Value a Small Business: 4 Methods with Examples",
+      "description": "Overpay and you are underwater for years. Lowball and you lose the deal. EBITDA multiples, DCF, comps, and asset-based — four methods with real deal numbers."
     }
   },
   "learn/deal-sourcing-strategies": {
     "en": {
-      "title": "Deal Sourcing for Search Funds. Build Your Pipeline",
-      "description": "Most searchers waste months chasing bad leads. Proprietary outreach, broker networks, platforms, events — which channels actually produce quality targets?"
+      "title": "Deal Sourcing for Search Funds: Build Your Pipeline Fast",
+      "description": "Most searchers waste months chasing bad leads. Proprietary outreach, broker networks, platforms, and events — which channels actually produce quality targets."
     }
   },
   "learn/quality-of-earnings": {
     "en": {
-      "title": "Quality of Earnings (QoE): What Every Buyer Must Know",
-      "description": "The financials looked great — until the QoE report showed the truth. What adjustments matter, how to hire the right firm, and the red flags to watch."
+      "title": "Quality of Earnings (QoE) Report: What Every Buyer Needs",
+      "description": "The financials looked great — until the QoE showed the truth. What adjustments matter, how to hire the right firm, and the red flags to catch before closing."
     }
   },
   "learn/exit-strategies": {
     "en": {
-      "title": "Search Fund Exit Strategies. Maximize Your Returns",
-      "description": "The exit is where you make your money — don't wing it. Strategic sale, PE sale, MBO, or recap: when to start planning, who to call, and how to maximize."
+      "title": "Search Fund Exit Strategies: Maximize Your Final Returns",
+      "description": "The exit is where the real money is made. Strategic sale, PE sale, MBO, or recapitalization — when to start planning, who to call, and how to maximize value."
     }
   },
   "learn/negotiation-tactics": {
     "en": {
-      "title": "Negotiation Tactics for SME Acquisitions. Full Guide",
-      "description": "The seller is emotional, the broker wants a fast close, and you need a fair deal. Anchoring, creative structures, and closing techniques that work."
+      "title": "Negotiation Tactics for SME Acquisitions: Proven Methods",
+      "description": "The seller is emotional, the broker wants a fast close, and you need a fair deal. Anchoring, creative structuring, and closing techniques that actually work."
     }
   },
   "learn/earn-out-structures": {
     "en": {
-      "title": "Earn-Out Structures: Align Buyer & Seller Incentives",
-      "description": "Earn-outs sound great on paper — then they blow up. Milestones, measurement periods, and dispute clauses that actually protect both sides. Get this right."
+      "title": "Earn-Out Structures: How to Align Buyer & Seller Goals",
+      "description": "Earn-outs sound great on paper — then they blow up. Milestones, measurement periods, dispute clauses, and payout triggers that actually protect both sides."
     }
   },
   "learn/search-fund-legal-structure": {
     "en": {
-      "title": "Search Fund Legal Structure: LLC, LP or C-Corp Explained",
-      "description": "Pick the wrong entity and it costs you real money. LLC, LP, or C-Corp — formation docs, tax treatment, and investor protections compared side by side."
+      "title": "Search Fund Legal Structure: LLC vs LP vs C-Corp Guide",
+      "description": "Pick the wrong entity and it costs you real money. LLC, LP, or C-Corp — formation documents, tax implications, and investor protections compared side by side."
     }
   },
   "learn/acquisition-financing": {
     "en": {
-      "title": "How to Finance a Search Fund Acquisition. Full Guide",
-      "description": "SBA, seller notes, mezzanine, equity — how do you stack them? Build the right capital structure for your deal with lender comparisons and term sheets."
+      "title": "How to Finance a Search Fund Acquisition: Capital Stacks",
+      "description": "SBA loans, seller notes, mezzanine, equity — how do you stack them? Build the right capital structure with lender comparisons, term sheet tips, and examples."
     }
   },
   "learn/tax-optimization": {
     "en": {
-      "title": "Tax Optimization for Search Fund Acquisitions: Save More",
-      "description": "Asset vs stock? 338(h)(10)? Amortization? The tax moves that save search fund buyers tens of thousands at closing — and the mistakes that cost as much."
+      "title": "Tax Optimization for Acquisitions: Asset vs Stock & More",
+      "description": "Asset vs stock? 338(h)(10) election? Amortization? The tax strategies that save buyers tens of thousands at closing — and the mistakes that cost just as much."
     }
   },
   "learn/working-with-advisors": {
     "en": {
-      "title": "M&A Lawyers, CPAs & Brokers: How to Choose the Right Ones",
-      "description": "The wrong advisor will waste your time and money. How to pick the right M&A lawyer, CPA, and broker — what to pay, what to expect, and when to walk away."
+      "title": "How to Choose M&A Lawyers, CPAs & Brokers for Your Deal",
+      "description": "The wrong advisor wastes your time and money. How to pick the right M&A lawyer, CPA, and broker — what to pay them, what to expect, and when to walk away."
     }
   },
   "learn/seller-financing": {
     "en": {
-      "title": "Seller Financing: Terms, Structures & How to Negotiate",
-      "description": "Can't bridge the gap between your offer and the asking price? A seller note might be the answer. Typical terms, risks, and how to negotiate one that works."
+      "title": "Seller Financing: Terms, Structures & Negotiation Guide",
+      "description": "Can not bridge the gap between offer and asking price? A seller note might close it. Typical terms, interest rates, subordination, and how to negotiate one."
     }
   },
   "learn/first-100-days": {
     "en": {
-      "title": "First 100 Days as CEO After Acquisition: The Full Playbook",
-      "description": "Your first 100 days will define your entire tenure. Week-by-week priorities, team assessment, quick wins, and the moves that build trust before all else."
+      "title": "First 100 Days as CEO After Acquisition: Week-by-Week Plan",
+      "description": "Your first 100 days define your entire tenure. Week-by-week priorities, team assessment, quick wins, and the trust-building moves that set the tone for years."
     }
   },
   "learn/investor-relations": {
     "en": {
-      "title": "Investor Relations & Reporting for Search Fund CEOs",
-      "description": "Your investors backed you — now keep them on your side. Monthly updates, board packs, KPI dashboards, and how to deliver bad news without losing trust."
+      "title": "Investor Relations for Search Fund CEOs: Reporting Guide",
+      "description": "Your investors backed you — now keep them informed and aligned. Monthly updates, board packs, KPI dashboards, and how to deliver bad news without losing trust."
     }
   },
   "learn/advisory-board": {
     "en": {
-      "title": "Build an Advisory Board That Accelerates Your Search",
-      "description": "Good advisors open doors you didn't know existed. How to recruit the right mentors, what to pay them, and how often to meet — without wasting time."
+      "title": "How to Build an Advisory Board for Your Search Fund",
+      "description": "Good advisors open doors you did not know existed. How to recruit mentors, structure compensation, set meeting cadence, and get real value from every session."
     }
   },
   "learn/buy-and-build": {
     "en": {
-      "title": "Buy-and-Build Strategy: Add-On Acquisitions That Work",
-      "description": "One acquisition is good. A platform with add-ons is a multiple arbitrage machine. How to find targets, integrate fast, and finance each deal."
+      "title": "Buy-and-Build Strategy: How Add-On Acquisitions Work",
+      "description": "One acquisition is good. A platform with add-ons is a multiple arbitrage play. How to find bolt-on targets, integrate fast, and finance each deal in the stack."
     }
   },
   "learn/management-transition": {
     "en": {
-      "title": "Management Transition After Acquisition: Your Day One Plan",
-      "description": "Day one after close: the team didn't choose you as boss. How to announce the change, retain key people, and earn trust before you've proven anything."
+      "title": "Management Transition After Acquisition: Day One Playbook",
+      "description": "The team did not choose you as boss. How to announce the ownership change, retain key employees, earn trust fast, and avoid the mistakes that cause turnover."
     }
   },
   "learn/board-governance": {
     "en": {
-      "title": "Board Governance for Search Fund-Backed Companies Explained",
-      "description": "Your board can be your biggest asset or your biggest nightmare. How to set the right composition, run productive meetings, and manage investor oversight."
+      "title": "Board Governance for Search Fund-Backed Companies Guide",
+      "description": "Your board can be your biggest asset or your biggest problem. How to set the right composition, run productive meetings, and manage investor expectations well."
     }
   },
   "learn/digital-transformation": {
     "en": {
-      "title": "Post-Acquisition Digital Transformation. CEO Roadmap",
-      "description": "You just bought a company that runs on spreadsheets and Post-its. ERP, CRM, analytics, automation — the phased plan to modernize without breaking anything."
+      "title": "Post-Acquisition Digital Transformation: CEO Roadmap",
+      "description": "You just bought a company running on spreadsheets. ERP, CRM, analytics, automation — the phased modernization plan that does not break anything or burn cash."
     }
   },
   "learn/revenue-growth-playbook": {
     "en": {
-      "title": "Revenue Growth Playbook for Search Fund CEOs After Close",
-      "description": "You bought the company — now grow it. Pricing levers, sales expansion, new channels, and cross-selling tactics that search fund CEOs use to scale."
+      "title": "Revenue Growth Playbook for Search Fund CEOs Post-Close",
+      "description": "You bought the company — now grow it. Pricing levers, sales expansion, new channels, and cross-selling tactics search fund CEOs use to scale fast after close."
     }
   },
   "learn/working-capital-management": {
     "en": {
-      "title": "Working Capital Management After Acquisition: Cash is King",
-      "description": "Cash is king post-acquisition. How to shorten your cash cycle, optimize inventory, tighten AR/AP, and set targets that keep the business breathing."
+      "title": "Working Capital Management After Acquisition: Cash Guide",
+      "description": "Cash is king after closing. How to shorten your cash conversion cycle, optimize inventory, tighten AR/AP, and set targets that keep the business breathing."
     }
   },
   "learn/stanford-2024-study": {
     "en": {
-      "title": "Stanford 2024 Study: 681 Search Funds Exposed, 35.1% IRR",
-      "description": "681 funds. 35.1% IRR. 4.5x ROIC. The Stanford GSB 2024 study is the largest search fund dataset ever compiled. Here are the findings you need to know."
+      "title": "Stanford 2024 Search Fund Study: 681 Funds, 35.1% IRR",
+      "description": "681 funds. 35.1% IRR. 4.5x ROIC. The Stanford GSB 2024 study is the largest search fund dataset ever compiled. Here are the key findings and what they mean."
     }
   },
   "learn/search-fund-returns": {
     "en": {
-      "title": "Search Fund Returns Exposed: 40 Years of IRR & ROIC Data",
-      "description": "Everyone talks about search fund returns — but have you seen the actual data? Four decades of IRR, ROIC, success rates, and loss ratios. All in one place."
+      "title": "Search Fund Returns: 40 Years of IRR & ROIC Data Exposed",
+      "description": "Everyone talks about search fund returns — few have seen the actual data. Four decades of IRR, ROIC, success rates, and loss ratios analyzed in one place."
     }
   },
   "learn/search-fund-success-stories": {
     "en": {
-      "title": "Famous Search Fund Exits: Success Stories & Lessons",
-      "description": "Asurion. JMI Sports. The exits that made search fund history — and the real lessons behind each one. What they did differently, and what you can copy now."
+      "title": "Famous Search Fund Exits: Success Stories & Real Lessons",
+      "description": "Asurion, JMI Sports, and the exits that made search fund history — what they did right, the real lessons behind each, and what you can replicate today."
     }
   },
   "learn/european-search-fund-research": {
     "en": {
-      "title": "European Search Fund Research: IESE & INSEAD Data Revealed",
-      "description": "What do IESE and INSEAD actually say about European search funds? Not what Twitter thinks — what the academic research shows. Performance and trends."
+      "title": "European Search Fund Research: IESE & INSEAD Data Review",
+      "description": "What do IESE and INSEAD actually say about European search funds? Not Twitter takes — the real academic research on performance, growth trends, and survival."
     }
   },
   "learn/eta-europe": {
     "en": {
       "title": "ETA in Europe: 3 Million SME Successions This Decade",
-      "description": "3 million European SMEs need new owners this decade. Country-by-country dynamics, financing options, and why smart searchers are looking at Europe now."
+      "description": "3 million European SMEs need new owners this decade. Country-by-country breakdown, financing options, and why smart searchers are looking at Europe right now."
     }
   },
   "learn/eta-france": {
     "en": {
-      "title": "ETA in France: 700,000 Businesses Changing Hands This Decade",
-      "description": "700K French businesses need buyers. BPI financing, SAS structures, Dutreil tax relief — everything you need to know before acquiring a company in France."
+      "title": "Search Funds in France: 700K Businesses Need Buyers Now",
+      "description": "700,000 French businesses need buyers. BPI financing, SAS structures, Dutreil tax relief — everything to know before acquiring a company in France via ETA."
     }
   },
   "learn/eta-germany": {
     "en": {
-      "title": "ETA in Germany: How to Acquire a Mittelstand Company",
-      "description": "Thousands of German Mittelstand companies need successors — loyal teams, strong margins, predictable cash flows. Your complete guide to acquiring one."
+      "title": "Search Funds in Germany: Acquire a Mittelstand Company",
+      "description": "German Mittelstand companies need successors — loyal teams, strong margins, predictable cash flows. The complete guide to acquiring a German SME through ETA."
     }
   },
   "learn/eta-uk": {
     "en": {
-      "title": "ETA in the UK: How to Acquire a British Business Today",
-      "description": "EIS tax relief, a mature M&A ecosystem, and London's deep advisory networks — why the UK is one of the best places for search fund deals. Full guide."
+      "title": "Search Funds in the UK: How to Acquire a British Business",
+      "description": "EIS tax relief, a mature M&A ecosystem, and deep advisory networks — why the UK is one of the best places for search fund acquisitions. Your complete guide."
     }
   },
   "learn/eta-spain": {
     "en": {
-      "title": "ETA in Spain & Portugal: The Iberian ETA Opportunity",
-      "description": "Cheap valuations, EU access, and a booming ETA scene. Spain and Portugal are where the smart searchers are heading right now. Here's why and how to start."
+      "title": "Search Funds in Spain & Portugal: The Iberian Opportunity",
+      "description": "Affordable valuations, EU market access, and a growing ETA scene. Spain and Portugal attract smart searchers right now. Here is why and how to get started."
     }
   },
   "learn/eta-nordics": {
     "en": {
-      "title": "ETA in the Nordics: Scandinavia & Finland Deal Opportunities",
-      "description": "Transparent markets, rule of law, high-quality SMEs, fair valuations — the Nordics might be ETA's best-kept secret. Here's what most searchers are missing."
+      "title": "Search Funds in the Nordics: Scandinavia & Finland Guide",
+      "description": "Transparent markets, rule of law, high-quality SMEs, and fair valuations — the Nordics might be ETA's best-kept secret. What most searchers are overlooking."
     }
   },
   "learn/eta-benelux": {
     "en": {
-      "title": "ETA in Benelux: Acquire a Business in Netherlands or Belgium",
-      "description": "Dense SME markets, export-heavy companies, and favorable holding structures — the Benelux is quietly ideal for search fund deals. Get started here."
+      "title": "Search Funds in Benelux: Netherlands & Belgium ETA Guide",
+      "description": "Dense SME markets, export-heavy companies, and favorable holding structures — the Benelux is quietly ideal for search fund deals. How to start acquiring here."
     }
   },
   "learn/eta-switzerland": {
     "en": {
-      "title": "ETA in Switzerland: High-Margin Alpine Opportunities",
-      "description": "Political stability, premium margins, and a massive succession wave. Switzerland has some of the best search fund opportunities in Europe. Discover why."
+      "title": "Search Funds in Switzerland: High-Margin Alpine Targets",
+      "description": "Political stability, premium margins, and a massive succession wave. Switzerland offers some of the best search fund opportunities in Europe. See why and how."
     }
   },
   "learn/eta-italy": {
     "en": {
-      "title": "ETA in Italy: Untapped SME Acquisition Opportunities",
-      "description": "Italy's fragmented SME landscape is full of hidden gems most searchers overlook. Generational transitions in manufacturing, food, and fashion. Look closer."
+      "title": "Search Funds in Italy: Untapped SME Acquisition Market",
+      "description": "Italy's fragmented SME market hides targets most searchers miss. Generational transitions in manufacturing, food, and fashion. The untapped ETA opportunity."
     }
   },
   "learn/eta-us": {
     "en": {
-      "title": "ETA in the US: The World's Largest Search Fund Market",
-      "description": "The US invented search funds in 1984 — and it's still the deepest market. Unmatched deal flow, more financing options than anywhere else. Complete guide."
+      "title": "Search Funds in the US: The World's Largest ETA Market",
+      "description": "The US invented search funds in 1984 and still has the deepest market. Unmatched deal flow, more financing options than anywhere else. Your complete US guide."
     }
   },
   "learn/eta-vs-private-equity": {
     "en": {
-      "title": "Search Funds vs Private Equity: Key Differences Explained",
-      "description": "Same goal, completely different game. Deal size, operator role, fund structure, returns, and lifestyle — search funds vs PE compared honestly."
+      "title": "Search Funds vs Private Equity: Key Differences Compared",
+      "description": "Same goal, very different game. Deal size, operator role, fund structure, returns, and daily life — search funds vs private equity compared with real numbers."
     }
   },
   "learn/eta-vs-venture-capital": {
     "en": {
       "title": "Search Funds vs Venture Capital: Returns & Risk Compared",
-      "description": "ETA buys proven cash flows. VC bets on hockey sticks. Risk, returns, time horizons, and what your day actually looks like in each model. Honest breakdown."
+      "description": "ETA buys proven cash flows. VC bets on hockey sticks. Risk, returns, time horizons, and day-to-day reality in each model — an honest side-by-side comparison."
     }
   },
   "learn/eta-vs-public-markets": {
     "en": {
-      "title": "Search Funds vs S&P 500 & Hedge Funds: Who Wins on Returns?",
-      "description": "35% IRR vs 10% S&P average — sounds obvious, right? Not so fast. Liquidity, volatility, correlation, and alpha generation all factored in. Real picture."
+      "title": "Search Funds vs S&P 500 & Hedge Funds: Returns Compared",
+      "description": "35% IRR vs 10% S&P average — sounds obvious? Not so fast. Liquidity, volatility, correlation, and real alpha generation all factored in. The complete picture."
     }
   },
   "learn/eta-vs-real-estate": {
     "en": {
-      "title": "Search Funds vs Real Estate Investing: Returns Compared",
-      "description": "Both use leverage, both generate cash flow — but that's where it ends. Management intensity, tax treatment, and long-term returns compared honestly."
+      "title": "Search Funds vs Real Estate: Returns & Risk Side by Side",
+      "description": "Both use leverage, both generate cash flow — that is where the similarity ends. Management intensity, tax treatment, and long-term returns compared honestly."
     }
   },
   "learn/saas-acquisition": {
     "en": {
-      "title": "Acquiring a SaaS Business via Search Fund: Full Playbook",
-      "description": "Recurring revenue, high margins, scalable ops — SaaS looks like the dream acquisition. But churn, CAC, and tech debt can kill the deal. Know what to check."
+      "title": "SaaS Acquisition via Search Fund: The Complete Playbook",
+      "description": "Recurring revenue, high margins, scalable ops — SaaS looks like the dream. But churn, CAC, and tech debt can kill the deal. Know exactly what to check first."
     }
   },
   "learn/healthcare-acquisition": {
     "en": {
-      "title": "Healthcare Acquisition via Search Fund. Full Guide",
-      "description": "Healthcare comes with regulatory minefields. Reimbursement models, compliance risks, and provider retention — read this before you sign any healthcare LOI."
+      "title": "Healthcare Acquisition via Search Fund: Risks & Rewards",
+      "description": "Healthcare comes with regulatory minefields. Reimbursement models, compliance risks, and provider retention — read this before signing any healthcare deal LOI."
     }
   },
   "learn/manufacturing-acquisition": {
     "en": {
-      "title": "Manufacturing Acquisition: The Search Fund Playbook",
-      "description": "Thinking about buying a factory? Equipment condition, supply chain, workforce age, customer concentration — the factors that make or break these deals."
+      "title": "Manufacturing Acquisition via Search Fund: Full Playbook",
+      "description": "Buying a factory? Equipment condition, supply chain health, workforce age, and customer concentration — the factors that make or break manufacturing deals."
     }
   },
   "learn/professional-services-acquisition": {
     "en": {
-      "title": "Acquiring a Professional Services Firm via Search Fund",
-      "description": "The talent walks out the door every night. Key-person risk, client concentration, and recurring revenue — what to look at when acquiring a services firm."
+      "title": "Professional Services Firm Acquisition via Search Fund",
+      "description": "The talent walks out every night. Key-person risk, client concentration, and revenue quality — what to evaluate when acquiring a professional services firm."
     }
   },
   "learn/home-services-acquisition": {
     "en": {
-      "title": "Home Services Acquisition: HVAC, Plumbing & Beyond",
-      "description": "HVAC, plumbing, landscaping — recession-proof, fragmented, and perfect for buy-and-build. The complete playbook for acquiring and scaling home services."
+      "title": "Home Services Acquisition: HVAC, Plumbing & Landscaping",
+      "description": "HVAC, plumbing, landscaping — recession-proof, highly fragmented, and perfect for buy-and-build. The complete playbook for acquiring and scaling home services."
     }
   },
   "learn/ecommerce-acquisition": {
     "en": {
-      "title": "E-Commerce & D2C Brand Acquisition via ETA: Full Guide",
-      "description": "That Shopify store looks profitable — until you see the ad spend. Traffic sources, unit economics, and supply chain risks that separate deals from traps."
+      "title": "E-Commerce & D2C Acquisition via Search Fund: Full Guide",
+      "description": "That Shopify store looks profitable — until you dig into the ad spend. Traffic sources, unit economics, and supply chain risks that separate deals from traps."
     }
   },
   "learn/education-acquisition": {
     "en": {
-      "title": "Education & Training Business Acquisition via Search Fund",
-      "description": "Stable enrollment, recurring tuition, and big digital upside. But regulatory risk can sink you. The metrics and red flags for education acquisitions."
+      "title": "Education Business Acquisition via Search Fund: Key Risks",
+      "description": "Stable enrollment, recurring tuition, and big digital upside — but regulatory risk can sink the deal. The key metrics and red flags for education acquisitions."
     }
   },
   "learn/financial-services-acquisition": {
     "en": {
-      "title": "Acquiring a Financial Services or Insurance Firm via ETA",
-      "description": "Insurance agencies and RIAs print cash — until licensing trips you up. Sticky revenue, high retention, and the compliance traps to avoid before bidding."
+      "title": "Financial Services & Insurance Acquisition via ETA Guide",
+      "description": "Insurance agencies and RIAs generate steady cash — until licensing trips you up. Sticky revenue, high retention, and the compliance traps to avoid pre-close."
     }
   },
   "learn/eta-vs-startups": {
     "en": {
-      "title": "ETA vs Startups vs Franchises. Which Path Is Yours?",
-      "description": "Buy a proven business, build from scratch, or buy a franchise? Three paths, very different lives. Risk, reward, lifestyle, and money needed — compared."
+      "title": "ETA vs Startups vs Franchises: Which Path Fits You Best?",
+      "description": "Buy a proven business, build from scratch, or buy a franchise? Three paths, very different lives. Risk, reward, lifestyle, and capital needed — all compared."
     }
   },
   "learn/searcher-psychology": {
     "en": {
-      "title": "Search Fund Psychology: Mindset, Resilience & Mental Focus",
-      "description": "The search is brutal — months of rejection, dead deals, and doubt. Mental frameworks that experienced searchers use to stay sharp and keep going."
+      "title": "Search Fund Psychology: Mindset & Resilience for Searchers",
+      "description": "The search is brutal — months of rejection, dead deals, and doubt. The mental frameworks that experienced searchers use to stay sharp and keep moving forward."
     }
   },
   "learn/searcher-tools": {
     "en": {
-      "title": "Essential Tech Stack for Search Fund Entrepreneurs",
-      "description": "What CRM do top searchers use? Which deal tracker? What about data rooms? The exact tech stack productive search fund entrepreneurs actually rely on daily."
+      "title": "Best Tech Stack for Search Fund Entrepreneurs in 2026",
+      "description": "Which CRM do top searchers use? What deal tracker? Which data room? The exact tools and tech stack that productive search fund entrepreneurs actually rely on."
     }
   },
   "learn/pre-search-preparation": {
     "en": {
-      "title": "Pre-Search Preparation: Get Ready Before You Launch",
-      "description": "Before you raise a dime or send your first cold email — skills to build, capital to save, thesis to sharpen, and investors to meet. Pre-launch checklist."
+      "title": "Pre-Search Preparation: What to Do Before Launching ETA",
+      "description": "Before you raise a dime or send your first cold email — skills to build, capital to save, thesis to sharpen, and investors to meet. The pre-launch checklist."
     }
   },
   "learn/eta-reading-list": {
     "en": {
-      "title": "Best ETA Books, Podcasts & Resources for Searchers in 2026",
-      "description": "What should you read first? Which podcast is worth your commute? The books, pods, and newsletters experienced search fund entrepreneurs actually recommend."
+      "title": "Best ETA Books & Podcasts for Search Fund Entrepreneurs",
+      "description": "What to read first? Which podcast is worth your commute? The books, podcasts, and newsletters that experienced search fund entrepreneurs actually recommend."
     }
   },
   "directory/mba-programs": {
     "en": {
       "title": "Best MBA Programs for Search Fund Entrepreneurs (2026)",
-      "description": "11 MBA programs ranked for ETA readiness. Verified faculty, courses, alumni outcomes, and tuition. Stanford, IESE, HBS, Yale, Booth, and 6 more."
+      "description": "11 MBA programs ranked by ETA readiness — faculty, courses, alumni outcomes, and tuition. Stanford, IESE, HBS, Yale, Booth, and 6 more compared side by side."
     }
   }
 }

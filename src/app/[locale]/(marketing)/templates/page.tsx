@@ -29,9 +29,9 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "Free M&A Templates: LOI, DD Checklist & PPM Download",
+    title: "Free M&A Templates: LOI, Due Diligence Checklist & PPM",
     description:
-      "Don't start from a blank page. Download free, ready-to-use templates: Letter of Intent, Due Diligence Checklist, and PPM for search fund entrepreneurs.",
+      "Download free, ready-to-use M&A templates — Letter of Intent, Due Diligence Checklist, PPM, and more. Built for search fund entrepreneurs. No signup needed.",
     alternates: { canonical: `${BASE}/${locale}/templates` },
   };
 }
