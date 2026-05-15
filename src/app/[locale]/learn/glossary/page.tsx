@@ -8,9 +8,9 @@ type Props = { params: Promise<{ locale: string }> };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params;
   return {
-    title: "ETA Glossary: 60+ Search Fund Terms Explained Simply",
+    title: "Search Fund Glossary: 60+ ETA Terms Explained Simply",
     description:
-      "Someone dropped \"QoE\" or \"stepped-up carry\" in a meeting and you nodded? 60+ ETA terms in plain English — no jargon walls. Search any term instantly.",
+      "QoE, stepped-up carry, SBA 7(a), seller note, earnout — 60+ search fund and ETA terms defined in plain English. No jargon walls. Searchable, always updated.",
     alternates: {
       canonical: `${BASE}/${locale}/learn/glossary`,
     },
